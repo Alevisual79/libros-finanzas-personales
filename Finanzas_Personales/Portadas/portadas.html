@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portadas — El Método 5P | 101 Libros de Finanzas Personales</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',sans-serif;background:#111;color:#fff;display:flex;height:100vh;overflow:hidden}
+
+/* SIDEBAR */
+#sidebar{width:280px;min-width:280px;background:#1a1a1a;overflow-y:auto;border-right:1px solid #333;display:flex;flex-direction:column}
+#sidebar-header{padding:20px 16px;background:#0d0d0d;border-bottom:1px solid #333;position:sticky;top:0;z-index:10}
+#sidebar-header h1{font-size:13px;font-weight:700;color:#fff;letter-spacing:1px;text-transform:uppercase}
+#sidebar-header p{font-size:11px;color:#888;margin-top:3px}
+#search{width:100%;background:#2a2a2a;border:1px solid #444;color:#fff;padding:8px 12px;border-radius:6px;font-size:12px;margin-top:10px;outline:none}
+#search:focus{border-color:#666}
+.serie-group{border-bottom:1px solid #2a2a2a}
+.serie-label{padding:8px 16px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:#666;background:#111;position:sticky;top:0}
+.book-item{padding:10px 16px;cursor:pointer;border-left:3px solid transparent;transition:all 0.15s}
+.book-item:hover{background:#252525}
+.book-item.active{border-left-color:var(--accent);background:#222}
+.book-item .num{font-size:10px;color:#666;margin-bottom:2px}
+.book-item .title{font-size:12px;color:#ccc;line-height:1.4}
+.book-item.active .title{color:#fff}
+
+/* MAIN CONTENT */
+#main{flex:1;overflow-y:auto;padding:32px;background:#0d0d0d;display:flex;flex-direction:column;gap:32px}
+#book-header{display:flex;align-items:center;gap:16px;margin-bottom:8px}
+#book-header .badge{padding:4px 12px;border-radius:20px;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:1px}
+#book-meta{font-size:13px;color:#888}
+#covers-row{display:flex;gap:32px;flex-wrap:wrap}
+#controls{display:flex;gap:12px;align-items:center;padding:16px 0;border-top:1px solid #222;margin-top:8px}
+#controls button{padding:8px 20px;border-radius:6px;border:none;cursor:pointer;font-size:12px;font-weight:600}
+.btn-print{background:#333;color:#fff}
+.btn-print:hover{background:#444}
+.btn-nav{background:#2a2a2a;color:#aaa}
+.btn-nav:hover{background:#333;color:#fff}
+#counter{font-size:12px;color:#666;margin-left:auto}
+
+/* BOOK COVERS */
+.cover-wrap{display:flex;flex-direction:column;gap:8px}
+.cover-label{font-size:11px;color:#666;text-transform:uppercase;letter-spacing:1px;font-weight:600}
+
+.portada, .contraportada{
+  width:432px;
+  height:648px;
+  position:relative;
+  overflow:hidden;
+  border-radius:4px;
+  box-shadow:0 20px 60px rgba(0,0,0,0.8), 0 0 0 1px rgba(255,255,255,0.05);
+  flex-shrink:0;
+}
+
+/* PORTADA LAYOUT */
+.portada{
+  background:var(--primary);
+  display:flex;
+  flex-direction:column;
+}
+.portada .deco-top{
+  position:absolute;top:0;right:0;width:280px;height:280px;
+  background:var(--accent);opacity:0.12;border-radius:0 0 0 280px;
+}
+.portada .deco-line{
+  position:absolute;top:0;left:0;right:0;height:3px;background:var(--accent);
+}
+.portada .deco-circle{
+  position:absolute;bottom:-60px;left:-60px;width:240px;height:240px;
+  border:40px solid var(--accent);opacity:0.08;border-radius:50%;
+}
+.portada .serie-band{
+  position:relative;z-index:2;
+  padding:16px 28px;
+  display:flex;align-items:center;gap:10px;
+  border-bottom:1px solid rgba(255,255,255,0.08);
+}
+.portada .serie-band .serie-num{
+  font-size:11px;font-weight:700;color:var(--accent);letter-spacing:2px;text-transform:uppercase;
+}
+.portada .serie-band .serie-name{
+  font-size:10px;color:rgba(255,255,255,0.4);letter-spacing:1px;text-transform:uppercase;
+}
+.portada .serie-band .sep{color:rgba(255,255,255,0.2);margin:0 4px}
+.portada .content{
+  position:relative;z-index:2;
+  flex:1;display:flex;flex-direction:column;justify-content:flex-end;
+  padding:28px 28px 0;
+}
+.portada .book-number{
+  font-size:11px;font-weight:600;color:var(--accent);letter-spacing:3px;text-transform:uppercase;
+  margin-bottom:16px;opacity:0.8;
+}
+.portada .main-title{
+  font-family:'Playfair Display',serif;
+  font-size:var(--title-size, 28px);
+  font-weight:900;
+  color:#fff;
+  line-height:1.2;
+  margin-bottom:16px;
+}
+.portada .subtitle{
+  font-size:13px;color:rgba(255,255,255,0.6);line-height:1.6;
+  margin-bottom:20px;font-style:italic;
+}
+.portada .accent-line{
+  width:48px;height:3px;background:var(--accent);margin-bottom:24px;
+}
+.portada .bottom-band{
+  position:relative;z-index:2;
+  background:rgba(0,0,0,0.3);
+  padding:14px 28px;
+  display:flex;justify-content:space-between;align-items:center;
+  border-top:1px solid rgba(255,255,255,0.06);
+}
+.portada .author{font-size:12px;color:rgba(255,255,255,0.7);font-weight:500}
+.portada .metodo-badge{
+  font-size:10px;font-weight:700;color:var(--accent);letter-spacing:1px;
+  text-transform:uppercase;border:1px solid var(--accent);padding:4px 10px;border-radius:3px;opacity:0.8;
+}
+.portada .deco-geo{
+  position:absolute;right:28px;top:80px;z-index:1;opacity:0.06;
+  font-size:180px;font-family:'Playfair Display',serif;font-weight:900;color:#fff;line-height:1;
+  pointer-events:none;letter-spacing:-5px;
+}
+
+/* CONTRAPORTADA LAYOUT */
+.contraportada{
+  background:var(--light);
+  display:flex;flex-direction:column;
+}
+.contraportada .top-stripe{
+  background:var(--primary);height:6px;flex-shrink:0;
+}
+.contraportada .cp-header{
+  background:var(--primary);
+  padding:20px 28px 24px;
+  flex-shrink:0;
+}
+.contraportada .cp-tagline{
+  font-family:'Playfair Display',serif;
+  font-size:15px;
+  font-weight:700;
+  color:#fff;
+  line-height:1.5;
+  font-style:italic;
+}
+.contraportada .cp-title-small{
+  font-size:10px;color:rgba(255,255,255,0.4);letter-spacing:2px;text-transform:uppercase;margin-top:8px;
+}
+.contraportada .cp-body{
+  flex:1;padding:22px 28px;overflow:hidden;
+  color:var(--primary);
+}
+.contraportada .cp-sinopsis{
+  font-size:12.5px;line-height:1.75;color:#333;margin-bottom:18px;
+}
+.contraportada .cp-bullets{margin-bottom:16px}
+.contraportada .cp-bullet{
+  display:flex;align-items:flex-start;gap:10px;margin-bottom:10px;
+  font-size:12px;line-height:1.5;color:#444;
+}
+.contraportada .cp-bullet::before{
+  content:'';display:block;width:8px;height:8px;min-width:8px;
+  background:var(--accent);border-radius:50%;margin-top:4px;
+}
+.contraportada .cp-footer{
+  background:var(--primary);padding:14px 28px;
+  display:flex;justify-content:space-between;align-items:center;
+  flex-shrink:0;
+}
+.contraportada .cp-serie-info{font-size:10px;color:rgba(255,255,255,0.5);letter-spacing:0.5px;line-height:1.6}
+.contraportada .cp-serie-info strong{color:rgba(255,255,255,0.85);display:block;font-size:11px}
+.contraportada .barcode-area{
+  width:80px;height:48px;background:rgba(255,255,255,0.08);border-radius:3px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:9px;color:rgba(255,255,255,0.3);letter-spacing:0.5px;text-align:center;
+}
+.contraportada .cp-accent-bar{
+  height:3px;background:var(--accent);margin:0 0 18px;
+}
+
+/* PRINT */
+@media print{
+  body{background:#fff;height:auto;overflow:auto;display:block}
+  #sidebar,#controls,#book-header{display:none!important}
+  #main{padding:0;background:#fff;overflow:visible}
+  #covers-row{gap:0;page-break-inside:avoid}
+  .portada,.contraportada{
+    width:6in;height:9in;page-break-after:always;
+    box-shadow:none;border-radius:0;
+  }
+  .cover-wrap{gap:0}
+  .cover-label{display:none}
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar{width:6px}
+::-webkit-scrollbar-track{background:#111}
+::-webkit-scrollbar-thumb{background:#333;border-radius:3px}
+::-webkit-scrollbar-thumb:hover{background:#555}
+</style>
+</head>
+<body>
+
+<div id="sidebar">
+  <div id="sidebar-header">
+    <h1>El Método 5P</h1>
+    <p>101 Libros · Finanzas Personales</p>
+    <input id="search" type="text" placeholder="Buscar libro..." oninput="filterBooks(this.value)">
+  </div>
+  <div id="book-list"></div>
+</div>
+
+<div id="main">
+  <div id="book-header">
+    <span id="hdr-badge" class="badge"></span>
+    <span id="hdr-meta" class="book-meta"></span>
+  </div>
+  <div id="covers-row">
+    <div class="cover-wrap">
+      <div class="cover-label">Portada</div>
+      <div class="portada" id="portada"></div>
+    </div>
+    <div class="cover-wrap">
+      <div class="cover-label">Contraportada</div>
+      <div class="contraportada" id="contraportada"></div>
+    </div>
+  </div>
+  <div id="controls">
+    <button class="btn-nav" onclick="navigate(-1)">← Anterior</button>
+    <button class="btn-nav" onclick="navigate(1)">Siguiente →</button>
+    <button class="btn-print" onclick="window.print()">Imprimir / PDF</button>
+    <span id="counter"></span>
+  </div>
+</div>
+
+<script>
+const SERIES = [
+  { id:0, nombre:'Libro Madre', shortName:'Libro 0', primary:'#0d1b2a', accent:'#d4a843', light:'#fdf6e3' },
+  { id:1, nombre:'Mindset del Dinero', shortName:'Serie 1', primary:'#1e0a3c', accent:'#9b59b6', light:'#f5eeff' },
+  { id:2, nombre:'Deuda Cero', shortName:'Serie 2', primary:'#4a0000', accent:'#c0392b', light:'#fff0f0' },
+  { id:3, nombre:'Ahorro Sistemático', shortName:'Serie 3', primary:'#0a3d1f', accent:'#27ae60', light:'#eefaf3' },
+  { id:4, nombre:'Inversión desde Cero', shortName:'Serie 4', primary:'#0a2342', accent:'#2980b9', light:'#eaf4ff' },
+  { id:5, nombre:'Ingresos Múltiples', shortName:'Serie 5', primary:'#3d1a00', accent:'#e67e22', light:'#fff5e8' },
+  { id:6, nombre:'Libertad Financiera', shortName:'Serie 6', primary:'#2d2000', accent:'#f1c40f', light:'#fffde6' },
+  { id:7, nombre:'Dinero en Familia', shortName:'Serie 7', primary:'#003d35', accent:'#1abc9c', light:'#e8faf7' },
+  { id:8, nombre:'Protección y Emergencias', shortName:'Serie 8', primary:'#0d0d3d', accent:'#5c6bc0', light:'#eaecff' },
+  { id:9, nombre:'Negocios e Ingresos Extra', shortName:'Serie 9', primary:'#3d1000', accent:'#e74c3c', light:'#fff0ee' },
+  { id:10, nombre:'Impuestos y Patrimonio', shortName:'Serie 10', primary:'#1a1a1a', accent:'#7f8c8d', light:'#f0f0f0' },
+];
+
+const LIBROS = [
+  // LIBRO 0
+  {
+    id:0, serie:0, numSerie:0, numTotal:0,
+    titulo:'El Método 5P',
+    tituloLargo:'El Método 5P: Lo que nadie te enseñó sobre el dinero',
+    subtitulo:'El libro que leerás antes de leer cualquier otro de esta serie',
+    tagline:'"Las cinco reglas que el sistema nunca quiso que supieras."',
+    sinopsis:'Trabajas mucho. Llegas a fin de mes. Y aun así, sientes que el dinero nunca es suficiente. No es culpa tuya. Es el sistema. El Método 5P es el antídoto: cinco pilares en el orden correcto para transformar tu situación financiera desde cero, con cualquier sueldo y sin trucos mágicos.',
+    bullets:['Por qué el sistema educativo no enseña finanzas (y por qué no es un accidente)','Los 5 pilares: Perspectiva, Protección, Purga, Producción y Patrimonio','El plan concreto de Carlos y Marta: de cero ahorros a construir patrimonio real'],
+    titleSize:'34px',
+  },
+  // SERIE 1
+  {id:1,serie:1,numSerie:1,numTotal:1,titulo:'Tu relación con el dinero está rota\n(y no es culpa tuya)',tituloLargo:'Tu relación con el dinero está rota (y no es culpa tuya)',subtitulo:'Por qué pensamos mal sobre el dinero desde la infancia',tagline:'"Lo que aprendiste de pequeño sobre el dinero te está costando una fortuna."',sinopsis:'Antes de ganar más o ahorrar mejor, necesitas entender por qué piensas sobre el dinero como lo haces. Tus creencias financieras se formaron antes de los doce años y llevan décadas tomando decisiones por ti. Este libro muestra el origen del problema y cómo empezar a cambiarlo.',bullets:['Cómo se forman las creencias financieras en la infancia','Las frases que escuchaste de pequeño que te siguen gobernando','El primer paso para reprogramar tu relación con el dinero'],titleSize:'22px'},
+  {id:2,serie:1,numSerie:2,numTotal:2,titulo:'El dinero no es sucio',tituloLargo:'El dinero no es sucio',subtitulo:'Desmontando las creencias que te mantienen pobre',tagline:'"Mientras creas que el dinero es malo, nunca tendrás suficiente."',sinopsis:'¿Te cuesta hablar de dinero? ¿Sientes que ganar mucho es de egoístas? Estas creencias, comunes en nuestra cultura, son el freno más eficaz para tu prosperidad. Este libro desmonta mito por mito las ideas que te mantienen pobre.',bullets:['Los 7 mitos culturales sobre el dinero más extendidos en España','La diferencia entre codicia y prosperidad','Cómo neutralizar las creencias limitantes con datos reales'],titleSize:'38px'},
+  {id:3,serie:1,numSerie:3,numTotal:3,titulo:'Identidad financiera',tituloLargo:'Identidad financiera: Quién eres cuando nadie te ve gastar',subtitulo:'Cómo tu identidad determina tu cuenta bancaria',tagline:'"Tu cuenta bancaria es el espejo más honesto de quién eres."',sinopsis:'Cada decisión financiera que tomas refleja quién crees que eres. Los que se consideran gastadores gastan. Los que se ven como personas de orden ahorran. Tu identidad financiera determina tu cuenta bancaria mucho más que tu sueldo. Aquí aprendes a cambiarla.',bullets:['Qué es la identidad financiera y cómo se forma','Por qué los hábitos de dinero son consecuencia de la identidad, no al revés','Cómo adoptar una nueva identidad financiera de forma sostenible'],titleSize:'32px'},
+  {id:4,serie:1,numSerie:4,numTotal:4,titulo:'La trampa del merecimiento',tituloLargo:'La trampa del merecimiento',subtitulo:'Por qué crees que no mereces ganar más y cómo salir de ahí',tagline:'"¿Crees que no mereces ganar más? El sistema cuenta con eso."',sinopsis:'Hay personas brillantes y competentes que ganan menos de la mitad de lo que deberían. No porque el mercado no las valore, sino porque ellas mismas no se valoran. La trampa del merecimiento es el convencimiento inconsciente de que tú no eres de las personas que ganan bien.',bullets:['Por qué el síndrome del impostor afecta directamente a tus ingresos','La conexión entre autoestima y capacidad de negociar un sueldo','Ejercicios concretos para reescribir tu sentido del merecimiento económico'],titleSize:'30px'},
+  {id:5,serie:1,numSerie:5,numTotal:5,titulo:'Miedo al dinero',tituloLargo:'Miedo al dinero',subtitulo:'El miedo a tener, a perder y a hablar de dinero',tagline:'"Le tienes miedo a tenerlo. Le tienes miedo a perderlo. Le tienes miedo a hablarlo."',sinopsis:'El miedo al dinero es más común de lo que crees. Miedo a tener demasiado. Miedo a perderlo todo. Miedo a que otros sepan cuánto ganas. Estos miedos operan en silencio y sabotean tus decisiones financieras. Este libro los saca a la luz para quitarles poder.',bullets:['Los tres miedos financieros más comunes y cómo se manifiestan','La diferencia entre precaución inteligente y parálisis por miedo','Cómo tomar decisiones financieras sanas incluso con incertidumbre'],titleSize:'38px'},
+  {id:6,serie:1,numSerie:6,numTotal:6,titulo:'El precio de la comodidad',tituloLargo:'El precio de la comodidad',subtitulo:'Cómo la zona de confort económica te cuesta una fortuna',tagline:'"Quedarte donde estás también tiene un coste. Y es enorme."',sinopsis:'La zona de confort económica no parece una trampa porque se disfraza de prudencia. Pero cada decisión incómoda que aplazas tiene un precio concreto en euros. El aumento que no pediste. La tarifa que no subiste. El banco que no cambiaste.',bullets:['Cómo calcular el coste real de tus zonas de confort financiero','El inventario de la comodidad: 5 acciones que llevas meses aplazando','Por qué el antídoto no es la imprudencia sino la acción deliberada'],titleSize:'30px'},
+  {id:7,serie:1,numSerie:7,numTotal:7,titulo:'Abundancia sin postureo',tituloLargo:'Abundancia sin postureo',subtitulo:'La diferencia entre sentirse rico y serlo',tagline:'"Hay personas que parecen ricas. Y personas que lo son. No siempre son las mismas."',sinopsis:'El postureo financiero —gastar para parecer lo que no eres— es uno de los mecanismos más eficaces para no llegar nunca a la riqueza real. Abundancia sin postureo es aprender a distinguir el valor percibido del valor real.',bullets:['La paradoja del lujo: por qué los ricos de verdad no lo exhiben tanto','El coste psicológico y económico del postureo en redes sociales','Cómo construir abundancia real sin depender de la validación externa'],titleSize:'30px'},
+  {id:8,serie:1,numSerie:8,numTotal:8,titulo:'Dejar de ser víctima financiera',tituloLargo:'Dejar de ser víctima financiera',subtitulo:'Cómo el sistema te perjudica y qué puedes controlar tú',tagline:'"El sistema te perjudica. Pero quedarte quejando no te ayuda."',sinopsis:'El sistema financiero está diseñado para beneficiar a quienes ya tienen capital. Eso es real. Y quejarse es comprensible. Pero la queja no paga las facturas. Este libro separa lo que el sistema hace contra ti de lo que tú puedes controlar.',bullets:['Las estructuras del sistema que realmente te perjudican (con datos)','La diferencia entre víctima del sistema y protagonista dentro del sistema','El manual del resentido productivo: usar el enfado como combustible'],titleSize:'26px'},
+  {id:9,serie:1,numSerie:9,numTotal:9,titulo:'El dinero y el tiempo',tituloLargo:'El dinero y el tiempo: La ecuación que nadie te enseñó',subtitulo:'Valor hora, coste de oportunidad y decisiones inteligentes',tagline:'"Tu tiempo vale dinero. Mucho más del que te pagan."',sinopsis:'¿Cuánto vale tu hora? No lo que te pagan. Lo que vale de verdad. La mayoría sobrestima el coste de las cosas en dinero y subestima el coste en tiempo. Esta ecuación distorsionada explica miles de malas decisiones financieras.',bullets:['Cómo calcular el valor real de tu hora de vida','El coste de oportunidad: lo que renuncias sin saberlo con cada decisión','Cuándo tiene sentido contratar, delegar o hacerlo tú mismo'],titleSize:'30px'},
+  {id:10,serie:1,numSerie:10,numTotal:10,titulo:'Reescribe tu historia financiera',tituloLargo:'Reescribe tu historia financiera',subtitulo:'Cómo cambiar los patrones heredados de dinero',tagline:'"Tu pasado financiero no dicta tu futuro. Pero sí tu narrativa sobre él."',sinopsis:'Todos llevamos una historia sobre el dinero que nos contamos. "Siempre he sido un desastre con el dinero." Estas narrativas son poderosas porque se autocumplen. Este libro te enseña a identificarlas y reescribirlas.',bullets:['Cómo identificar la historia financiera que te has contado hasta hoy','Por qué los patrones heredados se pueden romper (y cómo romperlos)','El ejercicio de los tres capítulos: pasado, presente y el futuro que escribes tú'],titleSize:'28px'},
+  // SERIE 2
+  {id:11,serie:2,numSerie:1,numTotal:11,titulo:'Deuda Cero',tituloLargo:'Deuda Cero: El método que funciona aunque ganes poco',subtitulo:'El sistema bola de nieve adaptado a la realidad española',tagline:'"Llevar cinco años pagando mínimos no es pagar. Es sobrevivir la deuda."',sinopsis:'Hay un sistema para eliminar deudas que funciona incluso con ingresos normales. No requiere un sueldo extra ni vender el coche. Requiere orden, prioridad y constancia. El método bola de nieve adaptado a la realidad española, paso a paso, deuda a deuda, hasta llegar a cero.',bullets:['El método bola de nieve y el método avalancha: cuál te conviene','Cómo liberar 200-400€ al mes que ahora se van en intereses','El plan de Carlos: de 15.000€ de deuda a cero en 36 meses'],titleSize:'36px'},
+  {id:12,serie:2,numSerie:2,numTotal:12,titulo:'Tarjetas de crédito',tituloLargo:'Tarjetas de crédito: El producto financiero más caro del mundo',subtitulo:'Cómo funcionan y cómo destruirlas',tagline:'"El plástico en tu cartera puede costarte más que tu hipoteca."',sinopsis:'Las tarjetas de crédito están diseñadas para parecer convenientes mientras son devastadoras. El pago aplazado, el pago mínimo, el crédito revolving: cada característica está diseñada para maximizar los intereses que pagas.',bullets:['Cómo funciona el crédito revolving y por qué nunca saldrás pagando el mínimo','El coste real de una compra de 500€ aplazada a 24 meses','La estrategia para salir de la tarjeta sin necesitar más deuda'],titleSize:'30px'},
+  {id:13,serie:2,numSerie:3,numTotal:13,titulo:'Hipoteca inteligente',tituloLargo:'Hipoteca inteligente: Lo que el banco no quiere que sepas',subtitulo:'Entender tu hipoteca y pagar menos',tagline:'"Tu hipoteca es la deuda más grande de tu vida. Casi nadie la entiende."',sinopsis:'La hipoteca media española cuesta entre 50.000 y 100.000 euros en intereses totales. La mayoría de hipotecados no saben por qué. Este libro te enseña a leer el contrato, negociar condiciones y pagar menos.',bullets:['Euríbor, diferencial y TIN vs. TAE: lo que realmente paga tu hipoteca','Cómo negociar la hipoteca con el banco antes y después de firmar','La amortización anticipada: cuándo hacerla y cuánto te ahorra'],titleSize:'30px'},
+  {id:14,serie:2,numSerie:4,numTotal:14,titulo:'Crédito al consumo',tituloLargo:'Crédito al consumo: La trampa de los plazos cómodos',subtitulo:'Por qué financiar todo te arruina lentamente',tagline:'"Doce meses sin intereses. Excepto que sí hay intereses. Ocultos."',sinopsis:'El crédito al consumo está tan normalizado que parece imprescindible. No lo es. Este libro muestra el coste real de financiar el consumo y cómo salir del círculo de pagar siempre a crédito.',bullets:['El coste oculto del "sin intereses": cómo el comercio recupera el margen','Por qué el coche financiado es el mayor obstáculo para la salud financiera','La regla del dinero en mano: cómo cambiar de mentalidad de consumo'],titleSize:'28px'},
+  {id:15,serie:2,numSerie:5,numTotal:15,titulo:'La deuda de estudiar',tituloLargo:'La deuda de estudiar: Préstamos universitarios y cómo salir',subtitulo:'Para los que empezaron la vida adulta endeudados',tagline:'"Empezaste la vida adulta en números rojos. Hay una salida."',sinopsis:'Los préstamos universitarios son la primera deuda que muchos jóvenes contraen, a menudo sin entender qué están firmando. Este libro es para los que empezaron endeudados: cómo gestionarla y construir un futuro financiero sobre ella.',bullets:['Cuándo tiene sentido pagar el préstamo universitario agresivamente vs. despacio','Cómo combinar la deuda educativa con el fondo de emergencia','El caso de Ana: de graduada endeudada a deuda cero en cuatro años'],titleSize:'28px'},
+  {id:16,serie:2,numSerie:6,numTotal:16,titulo:'Cuando debes a Hacienda',tituloLargo:'Cuando debes a Hacienda',subtitulo:'Deudas fiscales, planes de pago y cómo negociar',tagline:'"La deuda fiscal es diferente. Y hay que tratarla de forma diferente."',sinopsis:'Deber dinero a Hacienda genera un pánico que hace que la gente tome malas decisiones: esconderse, no abrir las cartas, esperar a que pase. Este libro muestra cómo funciona la deuda fiscal en España y qué opciones tienes.',bullets:['Los plazos y procedimientos de la AEAT que necesitas conocer','Cómo negociar un aplazamiento o fraccionamiento con Hacienda','Qué pasa si no haces nada (y por qué no es una opción válida)'],titleSize:'28px'},
+  {id:17,serie:2,numSerie:7,numTotal:17,titulo:'El efecto bola de nieve',tituloLargo:'El efecto bola de nieve',subtitulo:'Acelerar el pago de deudas con ingresos normales',tagline:'"Cuando eliminas una deuda, el siguiente pago se vuelve más fácil. Y el siguiente."',sinopsis:'El método bola de nieve no es solo una estrategia financiera: es psicología aplicada al dinero. Cada victoria pequeña genera motivación para la siguiente. Este libro profundiza en la mecánica y los trucos para acelerar el proceso.',bullets:['Cómo calcular tu bola de nieve actual y cuándo te quedas sin deudas','Los atajos legítimos para acelerar el proceso sin comprometer la estabilidad','Cómo manejar los meses en los que el sistema se rompe (porque se romperá)'],titleSize:'30px'},
+  {id:18,serie:2,numSerie:8,numTotal:18,titulo:'Vivir sin deuda en el mundo moderno',tituloLargo:'Vivir sin deuda en el mundo moderno',subtitulo:'Es posible y no tienes que renunciar a todo',tagline:'"Todo el mundo tiene deudas. Excepto los que han decidido que no."',sinopsis:'Vivir sin deuda en una sociedad donde el crédito está en todos los escaparates parece imposible. No lo es. Este libro muestra cómo personas con ingresos normales viven sin deuda de consumo.',bullets:['El sistema de decisión para evitar volver a endeudarse','Cómo comprar coche, hacer reformas y viajar sin crédito','El fondo de objetivos: la alternativa a la financiación que casi nadie usa'],titleSize:'26px'},
+  {id:19,serie:2,numSerie:9,numTotal:19,titulo:'La deuda que no ves',tituloLargo:'La deuda que no ves',subtitulo:'Deudas invisibles: suscripciones, hábitos y decisiones pequeñas',tagline:'"Hay deudas en tu cuenta que no se llaman deuda. Son igual de caras."',sinopsis:'Las deudas invisibles no están en una carta del banco. Están en las suscripciones que olvidaste cancelar, el seguro que pagas de más, el banco con comisiones que aceptaste sin negociar. En total pueden sumar 1.000-3.000€ al año.',bullets:['Auditoría completa de gastos recurrentes: suscripciones, seguros, comisiones','Cómo calcular el coste real de tus hábitos de consumo pequeños','El método de revisión anual para mantener a cero las deudas invisibles'],titleSize:'32px'},
+  {id:20,serie:2,numSerie:10,numTotal:20,titulo:'Reconstruir después de las deudas',tituloLargo:'Reconstruir después de las deudas',subtitulo:'Qué hacer cuando por fin llegas a cero',tagline:'"Llegar a cero no es el final. Es el verdadero comienzo."',sinopsis:'El día que eliminas tu última deuda es uno de los más importantes de tu vida financiera. Pero llegar a cero no es suficiente: hay que saber qué hacer después para que la situación no se repita y para construir sobre esa base limpia.',bullets:['Los tres primeros pasos financieros tras llegar a deuda cero','Cómo construir el historial crediticio sano después de las deudas','El plan de transición de ahorrador a inversor desde la deuda cero'],titleSize:'26px'},
+  // SERIE 3
+  {id:21,serie:3,numSerie:1,numTotal:21,titulo:'Primero págate a ti',tituloLargo:'Primero págate a ti',subtitulo:'El sistema de ahorro automático que no requiere fuerza de voluntad',tagline:'"Si ahorras lo que sobra, nunca sobra nada."',sinopsis:'El ahorro por fuerza de voluntad no funciona. Funciona el ahorro automático: mover el dinero antes de que puedas gastarlo. El principio de "págate primero" es simple y transforma la vida financiera de cualquiera.',bullets:['Cómo configurar el sistema de ahorro automático en dos horas','El porcentaje correcto para ahorrar según tu situación actual','Por qué el orden de los movimientos bancarios lo cambia todo'],titleSize:'32px'},
+  {id:22,serie:3,numSerie:2,numTotal:22,titulo:'Ahorra con sueldo mínimo',tituloLargo:'Ahorra con sueldo mínimo',subtitulo:'Es posible. Aquí está cómo.',tagline:'"No necesitas ganar más para empezar. Necesitas un sistema."',sinopsis:'Con el sueldo mínimo en España, ahorrar parece imposible. No lo es, pero requiere un sistema diferente al que usa alguien con ingresos altos. Este libro muestra estrategias concretas para construir un colchón financiero cuando cada euro cuenta.',bullets:['El sistema de sobres virtuales para ingresos muy ajustados','Las diez áreas donde reducir gastos sin sacrificar calidad de vida','Cómo construir un fondo de emergencia mínimo viable en seis meses'],titleSize:'28px'},
+  {id:23,serie:3,numSerie:3,numTotal:23,titulo:'El presupuesto que sí funciona',tituloLargo:'El presupuesto que sí funciona',subtitulo:'Por qué fracasan todos los presupuestos y cómo hacer uno que no',tagline:'"Los presupuestos fracasan porque están mal diseñados. Este no."',sinopsis:'La mayoría de la gente hace un presupuesto una vez, lo abandona al mes siguiente y concluye que los presupuestos no son para ellos. El problema no es la disciplina: es el diseño.',bullets:['Por qué el presupuesto tradicional de categorías falla y qué usar en cambio','El método 50/30/20 y sus variantes para situaciones reales','Cómo ajustar el presupuesto cuando los ingresos son irregulares'],titleSize:'28px'},
+  {id:24,serie:3,numSerie:4,numTotal:24,titulo:'Los gastos hormiga',tituloLargo:'Los gastos hormiga',subtitulo:'Cómo los gastos pequeños te roban más que los grandes',tagline:'"No es el alquiler lo que te arruina. Son los 3,50€ de cada día."',sinopsis:'Los gastos pequeños y recurrentes son invisibles individualmente pero devastadores en conjunto. Este libro te enseña a hacerlos visibles, a elegir cuáles valen la pena y a eliminar los que no aportan nada.',bullets:['Cómo hacer una auditoría de gastos hormiga en menos de una hora','La diferencia entre gasto hormiga con valor y gasto hormiga por inercia','Los 5 gastos hormiga más comunes en España y cuánto suman al año'],titleSize:'32px'},
+  {id:25,serie:3,numSerie:5,numTotal:25,titulo:'Minimalismo financiero',tituloLargo:'Minimalismo financiero',subtitulo:'Gastar menos sin sentirte privado de nada',tagline:'"Gastar menos no es vivir peor. Es vivir más alineado."',sinopsis:'El minimalismo financiero no es austeridad. Es elegir gastar en lo que realmente importa y dejar de gastar en lo que no importa pero ocupaba espacio. Cuando reduces el ruido de las compras impulsivas, descubres que necesitas mucho menos.',bullets:['La diferencia entre minimalismo financiero y frugalidad extrema','El ejercicio de los 30 días: comprar menos y valorar más','Cómo rediseñar tu estilo de vida para gastar menos sin sentirte privado'],titleSize:'30px'},
+  {id:26,serie:3,numSerie:6,numTotal:26,titulo:'Ahorro de emergencia',tituloLargo:'Ahorro de emergencia: Tu primer escudo',subtitulo:'Construir los 3-6 meses de colchón sin agobiarse',tagline:'"Sin fondo de emergencia, una avería puede destruir años de trabajo."',sinopsis:'El fondo de emergencia es la primera línea de defensa financiera. Sin él, cualquier imprevisto se convierte en deuda. Este libro enseña a construirlo paso a paso, cuánto necesitas realmente y dónde guardarlo.',bullets:['Cómo calcular exactamente cuánto necesitas en tu fondo de emergencia','El plan de ahorro por etapas: primero el mínimo viable, luego el objetivo','Qué cuenta usar para el fondo de emergencia y qué cuentas evitar'],titleSize:'30px'},
+  {id:27,serie:3,numSerie:7,numTotal:27,titulo:'El poder del 1%',tituloLargo:'El poder del 1%',subtitulo:'Mejorar las finanzas en pequeños pasos que se acumulan',tagline:'"Mejorar un 1% cada semana significa ser el doble de bueno en un año."',sinopsis:'Los grandes cambios financieros no ocurren de golpe. Ocurren por la acumulación de mejoras pequeñas constantes. Ahorrar 10€ más al mes, reducir una suscripción, revisar un seguro: cada acción parece irrelevante. En conjunto, transforman.',bullets:['El efecto compuesto aplicado a los hábitos financieros (no solo al dinero)','Las 52 acciones del 1%: una mejora financiera por semana durante un año','Por qué el progreso lento y constante supera siempre al cambio drástico'],titleSize:'36px'},
+  {id:28,serie:3,numSerie:8,numTotal:28,titulo:'Ahorro familiar',tituloLargo:'Ahorro familiar: Cuando hay más bocas que llenar',subtitulo:'Finanzas del hogar con hijos y gastos compartidos',tagline:'"Los hijos cambian las matemáticas. Pero no hacen imposible el ahorro."',sinopsis:'Ahorrar en familia requiere sincronización, negociación y sistemas que funcionen para todos. Este libro está diseñado para familias como la de Carlos y Ana: dos ingresos, dos hijos, gastos compartidos y sueños distintos.',bullets:['El presupuesto familiar: cómo diseñarlo para que todos se sientan representados','Los gastos de los hijos que se pueden optimizar sin sacrificar su bienestar','Cuenta conjunta, cuentas separadas o las dos: el modelo financiero familiar'],titleSize:'32px'},
+  {id:29,serie:3,numSerie:9,numTotal:29,titulo:'El año del ahorro extremo',tituloLargo:'El año del ahorro extremo',subtitulo:'12 meses para transformar tu situación financiera',tagline:'"Un año de esfuerzo enfocado puede cambiarte la vida financiera para siempre."',sinopsis:'El ahorro extremo no es para siempre. Es una herramienta temporal: doce meses de intensidad máxima para conseguir un objetivo concreto —liquidar una deuda, construir el fondo de emergencia, llegar a la entrada de una casa.',bullets:['Cómo definir el objetivo del año de ahorro extremo y hacer las matemáticas','Las 20 áreas de gasto donde el ahorro extremo temporal es más efectivo','Cómo mantener la motivación cuando el sacrificio se hace largo'],titleSize:'28px'},
+  {id:30,serie:3,numSerie:10,numTotal:30,titulo:'De ahorrador a inversor',tituloLargo:'De ahorrador a inversor: El puente',subtitulo:'Cuándo dejar de ahorrar y empezar a invertir',tagline:'"Llega un momento en que ahorrar ya no es suficiente. Este libro es ese momento."',sinopsis:'Hay personas que ahorran toda su vida y llegan a la jubilación con menos de lo esperado. No porque ahorraran poco, sino porque ahorraron sin invertir. Este libro marca el momento del cruce y te da el mapa para hacerlo.',bullets:['Cómo saber cuándo estás listo para empezar a invertir','La diferencia real entre ahorro e inversión y por qué importa la distinción','Los primeros tres meses de inversor: qué abrir, dónde y cuánto meter'],titleSize:'30px'},
+  // SERIE 4
+  {id:31,serie:4,numSerie:1,numTotal:31,titulo:'Invertir sin saber nada',tituloLargo:'Invertir sin saber nada: Por dónde empezar',subtitulo:'Inversión indexada para principiantes absolutos',tagline:'"No necesitas saber de bolsa para invertir bien. De hecho, es mejor."',sinopsis:'La inversión está rodeada de jerga y complejidad. La realidad es que la estrategia más rentable para el 90% de las personas es también la más simple: fondos indexados, aportaciones regulares, horizonte largo.',bullets:['Por qué la estrategia más simple suele ser la más rentable','Cómo abrir una cuenta de inversión y hacer la primera compra paso a paso','Los errores del inversor principiante que destruyen rentabilidad (y cómo evitarlos)'],titleSize:'30px'},
+  {id:32,serie:4,numSerie:2,numTotal:32,titulo:'ETFs',tituloLargo:'ETFs: El instrumento que los ricos no quieren que conozcas',subtitulo:'Cómo funcionan y por qué son casi perfectos',tagline:'"Un ETF te da acceso a 500 empresas con una sola orden de compra."',sinopsis:'Los ETFs son uno de los instrumentos de inversión más eficientes para el inversor particular. Comisiones bajas, diversificación instantánea, liquidez alta. Este libro te explica exactamente qué son, cómo funcionan y cómo construir una cartera sencilla y poderosa.',bullets:['La diferencia entre ETF y fondo de inversión tradicional (y por qué importa)','Cómo elegir el ETF correcto entre los miles disponibles','La cartera de tres fondos: simplicidad máxima, diversificación óptima'],titleSize:'42px'},
+  {id:33,serie:4,numSerie:3,numTotal:33,titulo:'Dividendos',tituloLargo:'Dividendos: Que el dinero trabaje mientras tú duermes',subtitulo:'Construir una cartera de dividendos desde cero',tagline:'"Construye una máquina que te pague todos los meses sin que hagas nada."',sinopsis:'Invertir en empresas que reparten dividendos es una de las estrategias de construcción de riqueza más poderosas y menos comprendidas. No se trata de hacerse rico rápido: se trata de construir lentamente una cartera que genere ingresos recurrentes.',bullets:['Qué son los dividendos y por qué ciertas empresas los reparten','Cómo construir una cartera de dividendos desde 1.000€','El efecto de reinvertir dividendos durante 20 años: los números sorprenden'],titleSize:'34px'},
+  {id:34,serie:4,numSerie:4,numTotal:34,titulo:'El interés compuesto\nexplicado con ejemplos reales',tituloLargo:'El interés compuesto explicado con ejemplos reales',subtitulo:'La matemática que lo cambia todo',tagline:'"La diferencia entre empezar a los 25 y a los 35 puede ser de 300.000€."',sinopsis:'El interés compuesto es el concepto financiero más importante que existe y el más mal explicado. No es un truco matemático: es la consecuencia inevitable de dejar que el dinero genere más dinero durante suficiente tiempo.',bullets:['La fórmula del interés compuesto explicada sin matemáticas complejas','Comparativas reales: qué pasa si empiezas a los 25, 35 y 45 años','El mayor error del que entiende el interés compuesto: vender en las caídas'],titleSize:'22px'},
+  {id:35,serie:4,numSerie:5,numTotal:35,titulo:'Bolsa sin dramas',tituloLargo:'Bolsa sin dramas',subtitulo:'Cómo invertir en renta variable sin perder el sueño',tagline:'"La bolsa cae. La bolsa sube. Los que no hacen nada ganan más."',sinopsis:'La bolsa asusta porque sube y baja. Pero la historia demuestra que siempre se ha recuperado, siempre ha alcanzado nuevos máximos y siempre ha recompensado a quienes tuvieron paciencia.',bullets:['Por qué las caídas de bolsa son buenas noticias si eres inversor a largo plazo','Cómo calcular tu tolerancia real al riesgo (no la teórica)','La estrategia de aportaciones regulares: cómo funciona y por qué gana a casi todo'],titleSize:'36px'},
+  {id:36,serie:4,numSerie:6,numTotal:36,titulo:'Fondos indexados vs fondos activos',tituloLargo:'Fondos indexados vs fondos activos: El debate que ya está resuelto',subtitulo:'Por qué casi siempre gana el índice',tagline:'"El 90% de los gestores activos no baten al índice. El 100% cobran comisiones."',sinopsis:'Durante décadas, los fondos de gestión activa prometieron batir al mercado. Los datos dicen otra cosa. Este libro presenta la evidencia de forma clara y te enseña a elegir el fondo correcto.',bullets:['Los datos sobre rentabilidad de fondos activos vs. indexados en 10, 20 y 30 años','El impacto del TER en la rentabilidad a largo plazo','Cómo seleccionar un buen fondo indexado entre los disponibles en España'],titleSize:'24px'},
+  {id:37,serie:4,numSerie:7,numTotal:37,titulo:'Renta fija para los que no quieren sustos',tituloLargo:'Renta fija para los que no quieren sustos',subtitulo:'Bonos, letras del tesoro y opciones conservadoras',tagline:'"No toda la inversión tiene que ser emocionante. La aburrida también funciona."',sinopsis:'Bonos, letras del Tesoro, depósitos a plazo: los instrumentos de renta fija tienen mala fama de aburridos. Pero en un portfolio bien construido cumplen una función crucial: reducir la volatilidad y proteger parte del capital.',bullets:['Qué es la renta fija y por qué "fija" no significa "sin riesgo"','Letras del Tesoro español: cómo comprarlas directamente sin intermediarios','La proporción correcta de renta fija según tu edad e inversión'],titleSize:'24px'},
+  {id:38,serie:4,numSerie:8,numTotal:38,titulo:'Inmobiliario sin ser millonario',tituloLargo:'Inmobiliario sin ser millonario',subtitulo:'Formas de acceder al sector inmobiliario con poco capital',tagline:'"No necesitas 200.000€ para invertir en el sector inmobiliario."',sinopsis:'La inversión inmobiliaria tiene fama de ser solo para los que ya tienen capital. Hay formas de acceder con cantidades mucho menores: SOCIMIs, REITs, crowdfunding inmobiliario. Este libro las presenta sin romantizar ninguna.',bullets:['REITs y SOCIMIs: cómo invertir en inmobiliario desde 100€','Crowdfunding inmobiliario: qué es, cómo funciona y qué riesgos tiene','Comparativa: inmobiliario directo vs. cotizado a largo plazo'],titleSize:'28px'},
+  {id:39,serie:4,numSerie:9,numTotal:39,titulo:'Criptomonedas',tituloLargo:'Criptomonedas: Lo que hay de verdad detrás del ruido',subtitulo:'Sin hype, sin miedo, con datos',tagline:'"Sin el hype. Sin el pánico. Con los datos que nadie quiere darte."',sinopsis:'Las criptomonedas generan dos tipos de personas: los que dicen que es el futuro del dinero y los que dicen que es una estafa. La realidad es más matizada. Este libro explica qué son, qué función pueden tener y cómo no perder dinero en el intento.',bullets:['Qué es realmente un blockchain y qué hace que una cripto tenga (o no) valor','La posición correcta de las criptomonedas en un portfolio: cuánto y cuál','Las señales de alerta que te avisan de que algo es un scam'],titleSize:'34px'},
+  {id:40,serie:4,numSerie:10,numTotal:40,titulo:'Cartera permanente',tituloLargo:'Cartera permanente: Inversión para el que no quiere pensar',subtitulo:'El portafolio de Harry Browne explicado',tagline:'"Una cartera diseñada para sobrevivir cualquier crisis. Y lo ha demostrado."',sinopsis:'La Cartera Permanente de Harry Browne es una de las estrategias de inversión más elegantes: cuatro activos en partes iguales, rebalanceo anual, sin hacer nada más. Ha sobrevivido crisis, guerras e inflación durante décadas.',bullets:['Los cuatro activos de la Cartera Permanente y por qué son exactamente esos','Cómo implementar la Cartera Permanente desde España con fondos disponibles','Las limitaciones de la cartera permanente que sus fans no suelen mencionar'],titleSize:'30px'},
+  // SERIE 5
+  {id:41,serie:5,numSerie:1,numTotal:41,titulo:'Tu sueldo no es suficiente\n(y el sistema lo sabe)',tituloLargo:'Tu sueldo no es suficiente (y el sistema lo sabe)',subtitulo:'Por qué una sola fuente de ingreso es el mayor riesgo',tagline:'"Una sola fuente de ingresos no es estabilidad. Es el mayor riesgo financiero."',sinopsis:'El modelo de "un trabajo, un sueldo, una fuente de ingresos" era frágil en el siglo XX. En el XXI es directamente peligroso. Este libro explica por qué y te da el mapa para construir tu segunda fuente.',bullets:['Por qué depender de un solo ingreso es el mayor riesgo financiero de tu vida','Los tres tipos de ingreso y por qué el activo es el más frágil','El primer paso para construir una segunda fuente: usar lo que ya sabes'],titleSize:'22px'},
+  {id:42,serie:5,numSerie:2,numTotal:42,titulo:'La segunda fuente',tituloLargo:'La segunda fuente: Cómo añadir 300€ al mes sin matar tu tiempo libre',subtitulo:'Opciones reales y concretas',tagline:'"No necesitas un segundo trabajo. Necesitas un segundo ingreso. No es lo mismo."',sinopsis:'La diferencia entre un segundo trabajo y una segunda fuente de ingreso es la diferencia entre esclavizarse más y construir algo sostenible. Este libro presenta opciones concretas para generar 200-400€ mensuales extras.',bullets:['20 fuentes de ingreso secundario compatibles con trabajo a tiempo completo','Cómo evaluar qué opción encaja con tus habilidades y tiempo disponible','El caso real de Carlos: de 0 a 400€ mensuales extras en ocho meses'],titleSize:'32px'},
+  {id:43,serie:5,numSerie:3,numTotal:43,titulo:'Freelance desde cero',tituloLargo:'Freelance desde cero: Vende lo que ya sabes hacer',subtitulo:'Monetizar habilidades sin montar una empresa',tagline:'"Si sabes hacerlo para tu empresa, puedes cobrarlo por tu cuenta."',sinopsis:'El freelance es una de las vías más directas para aumentar ingresos usando habilidades que ya tienes. Este libro enseña cómo monetizar tu conocimiento profesional fuera del empleo, desde los primeros clientes hasta construir una cartera estable.',bullets:['Cómo identificar qué habilidades profesionales tienen mercado como freelance','La estrategia para conseguir los primeros tres clientes sin experiencia previa','Cómo fijar tarifas sin malvenderte ni espantar clientes'],titleSize:'30px'},
+  {id:44,serie:5,numSerie:4,numTotal:44,titulo:'Ingresos pasivos reales vs los del Instagram',tituloLargo:'Ingresos pasivos reales vs ingresos pasivos del Instagram',subtitulo:'La diferencia entre los de verdad y los del postureo',tagline:'"El 95% de lo que se vende como ingreso pasivo requiere trabajo constante."',sinopsis:'Los ingresos pasivos de verdad existen. Pero no son los que se venden en Instagram. Requieren capital inicial o trabajo intenso, y el mantenimiento tiene un coste real. Este libro separa la fantasía de la realidad.',bullets:['La definición real de ingreso pasivo y por qué casi nada cumple el criterio','Los 5 tipos de ingreso semiactivo que sí se pueden construir desde cero','Cuánto capital o trabajo inicial necesitas realmente para cada opción'],titleSize:'22px'},
+  {id:45,serie:5,numSerie:5,numTotal:45,titulo:'Vender en internet sin producto propio',tituloLargo:'Vender en internet sin tener un producto propio',subtitulo:'Afiliación, servicios, intermediación',tagline:'"El producto ya existe. Tú solo tienes que conectarlo con quien lo necesita."',sinopsis:'La afiliación, los servicios de intermediación y la consultoría online permiten generar ingresos en internet sin tener que crear nada propio. Este libro explica cómo funcionan estos modelos y cómo empezar a generar los primeros ingresos.',bullets:['Cómo funciona el marketing de afiliación y cuánto se puede ganar realmente','Intermediación digital: conectar oferta y demanda y quedarse con la diferencia','Las plataformas y herramientas para empezar sin inversión inicial'],titleSize:'24px'},
+  {id:46,serie:5,numSerie:6,numTotal:46,titulo:'El negocio de una persona',tituloLargo:'El negocio de una persona',subtitulo:'Construir algo rentable sin empleados ni oficina',tagline:'"El negocio más eficiente del mundo es el que tienes tú solo."',sinopsis:'Los negocios de una persona son el modelo empresarial que más ha crecido en la última década. Sin empleados, sin oficina, sin complejidad. Solo tú, tus habilidades y un mercado.',bullets:['Los modelos de negocio más rentables para trabajar en solitario','Cómo escalar un negocio unipersonal sin contratar a nadie','La tecnología que multiplica la productividad de un solopreneur'],titleSize:'30px'},
+  {id:47,serie:5,numSerie:7,numTotal:47,titulo:'Monetizar tu conocimiento',tituloLargo:'Monetizar tu conocimiento',subtitulo:'Cursos, ebooks, consultoría, infoproductos',tagline:'"Lo que sabes vale dinero. Mucho más de lo que crees."',sinopsis:'Hay un mercado enorme de personas que quieren aprender lo que tú ya sabes. Cursos, ebooks, consultoría, sesiones de mentoría: el conocimiento que acumulas durante años tiene valor económico directo si sabes cómo empaquetarlo y venderlo.',bullets:['Cómo identificar qué parte de tu conocimiento tiene valor de mercado','Los formatos de producto de conocimiento y cuál encaja con tu perfil','De cero a primera venta: el roadmap de 90 días para tu infoproducto'],titleSize:'30px'},
+  {id:48,serie:5,numSerie:8,numTotal:48,titulo:'Ingresos con propiedades sin comprar nada',tituloLargo:'Ingresos con propiedades sin comprar nada',subtitulo:'Airbnb, alquiler de garajes, espacios',tagline:'"No necesitas ser propietario para ganar dinero con inmuebles."',sinopsis:'El alquiler vacacional, el alquiler de espacios, el subarrendamiento legal, el alquiler de garajes: hay muchas formas de generar ingresos relacionados con propiedades sin necesitar hipotecarse.',bullets:['Airbnb sin ser propietario: cómo funciona el modelo de cohosting legal','Monetizar espacio extra: garajes, trasteros, parking y storage','Las fórmulas de alquiler flexible que generan más por metro cuadrado'],titleSize:'24px'},
+  {id:49,serie:5,numSerie:9,numTotal:49,titulo:'El ingreso estacional',tituloLargo:'El ingreso estacional: Aprovechar los picos del año',subtitulo:'Navidad, verano, fechas clave',tagline:'"El año tiene picos de demanda. La gente que los conoce los aprovecha."',sinopsis:'Navidad, verano, Black Friday, San Valentín: el año tiene momentos donde la demanda se dispara. Conocer esos picos y prepararse para aprovecharlos puede significar un ingreso extra significativo en pocas semanas.',bullets:['El calendario de oportunidades estacionales en España','Cómo preparar y ejecutar un negocio estacional en menos de un mes','Los errores que cometen los que intentan aprovechar la estacionalidad sin sistema'],titleSize:'28px'},
+  {id:50,serie:5,numSerie:10,numTotal:50,titulo:'De empleado a emprendedor',tituloLargo:'De empleado a emprendedor: La transición sin suicidio financiero',subtitulo:'Cómo hacer el salto sin arruinarte',tagline:'"El salto no tiene que ser al vacío. Puede ser un puente."',sinopsis:'Dejar el empleo para montar un negocio propio es uno de los mayores riesgos financieros. Pero hacerlo de forma planificada —con un colchón, con ingresos ya validados, con un plan de reversión— convierte el salto en un paso controlado.',bullets:['Cuándo estás realmente listo para dejar el empleo (los criterios objetivos)','El plan de transición en tres fases: construir, validar, saltar','Cómo proteger las finanzas familiares durante los primeros doce meses'],titleSize:'26px'},
+  // SERIE 6
+  {id:51,serie:6,numSerie:1,numTotal:51,titulo:'El número',tituloLargo:'El número: Cuánto necesitas para no trabajar nunca más',subtitulo:'Calcular tu número de libertad financiera',tagline:'"Hay un número concreto. La mayoría no lo sabe. Los que lo saben, trabajan para alcanzarlo."',sinopsis:'La libertad financiera no es un sueño vago: es un número. El capital necesario para que tus inversiones generen suficiente dinero para cubrir tus gastos sin trabajar. Calcularlo lo cambia todo.',bullets:['La fórmula del número de libertad financiera y cómo calcular el tuyo','La regla del 4%: por qué funciona y cuáles son sus límites','Cómo reducir tu número cambiando el estilo de vida sin sacrificar lo esencial'],titleSize:'38px'},
+  {id:52,serie:6,numSerie:2,numTotal:52,titulo:'FIRE',tituloLargo:'FIRE: El movimiento que asusta a los bancos',subtitulo:'Financial Independence, Retire Early explicado para españoles',tagline:'"Financial Independence, Retire Early. El movimiento que nadie te contó en el colegio."',sinopsis:'El movimiento FIRE no es para millonarios. Es un conjunto de principios financieros que, aplicados con constancia durante 10-15 años, permiten alcanzar la independencia financiera con ingresos normales.',bullets:['Los principios del FIRE y sus variantes: Lean, Fat y Barista FIRE','La matemática del FIRE: tasa de ahorro, años necesarios, la tabla que lo explica todo','FIRE en España: sistema fiscal, pensiones y cómo compatibilizar ambos'],titleSize:'44px'},
+  {id:53,serie:6,numSerie:3,numTotal:53,titulo:'Retiro anticipado a los 45',tituloLargo:'Retiro anticipado a los 45: Un plan concreto',subtitulo:'Matemáticas, estrategia y sacrificios reales',tagline:'"No es un sueño. Es un plan de 15 años."',sinopsis:'Retirarse a los 45 no requiere herencias ni golpes de suerte. Requiere empezar pronto, ahorrar mucho e invertir bien durante suficiente tiempo. Este libro presenta el plan financiero completo para lograrlo.',bullets:['El plan financiero completo de cero a retiro en 15 años','Cuánto hay que ahorrar e invertir mensualmente para retirarse a los 45','Los riesgos del retiro anticipado y cómo mitigarlos'],titleSize:'28px'},
+  {id:54,serie:6,numSerie:4,numTotal:54,titulo:'Vivir de las rentas',tituloLargo:'Vivir de las rentas: Mito y realidad',subtitulo:'Qué significa realmente y cómo se construye',tagline:'"Vivir de las rentas no significa no trabajar. Significa no tener que hacerlo."',sinopsis:'El concepto de "vivir de las rentas" está rodeado de mitología. Ni es tan fácil como los gurús prometen, ni tan imposible como la gente común cree. Este libro explica qué significa realmente y cómo construirlo.',bullets:['Los cuatro tipos de renta que pueden sostener un estilo de vida sin trabajar','Cuánto capital real se necesita para vivir de rentas en España','La estrategia para construir ese capital desde cero con ingresos medios'],titleSize:'30px'},
+  {id:55,serie:6,numSerie:5,numTotal:55,titulo:'El trabajo opcional',tituloLargo:'El trabajo opcional',subtitulo:'Cuando trabajas porque quieres, no porque tienes que',tagline:'"No dejes de trabajar. Trabaja porque quieres, no porque tienes que."',sinopsis:'El objetivo de la libertad financiera no es no trabajar: es que trabajar sea una elección. Cuando el trabajo es opcional, todo cambia: la forma en que negocias, los proyectos que aceptas, la energía con la que te presentas.',bullets:['La diferencia psicológica entre trabajar por necesidad y por elección','Cómo construir la "almohada de libertad": el capital que hace el trabajo opcional','El momento en que tienes suficiente: cómo reconocerlo y qué hacer'],titleSize:'30px'},
+  {id:56,serie:6,numSerie:6,numTotal:56,titulo:'Libertad financiera con sueldo medio',tituloLargo:'Libertad financiera con sueldo medio',subtitulo:'No hace falta ganar 10.000€/mes',tagline:'"No necesitas ganar 10.000€ al mes. Solo necesitas tiempo, sistema y constancia."',sinopsis:'La libertad financiera no es un privilegio de los que ganan mucho. Es el resultado de un sistema de ahorro e inversión aplicado durante suficiente tiempo. Este libro demuestra con matemáticas reales que es posible con sueldo medio.',bullets:['Los escenarios de ahorro e inversión para sueldos de 1.800€, 2.500€ y 3.500€','Cómo compensar un sueldo bajo con una tasa de ahorro alta','El mapa de decisiones para optimizar impuestos y maximizar el capital invertible'],titleSize:'24px'},
+  {id:57,serie:6,numSerie:7,numTotal:57,titulo:'El coste real de tu estilo de vida',tituloLargo:'El coste real de tu estilo de vida',subtitulo:'Cuánto cuesta realmente lo que tienes y quieres',tagline:'"Cuánto cuesta lo que tienes. Cuánto cuesta lo que quieres. Son números que cambian todo."',sinopsis:'La mayoría de las personas no saben cuánto cuesta mantener su estilo de vida actual. Y mucho menos cuánto costará el que quieren tener. Calcular ambos números es el punto de partida de cualquier plan serio.',bullets:['Cómo calcular el coste real de tu estilo de vida actual','El test de los deseos: distinguir los que aumentan tu libertad de los que la reducen','Cómo diseñar un "estilo de vida suficiente" que costee la libertad financiera'],titleSize:'24px'},
+  {id:58,serie:6,numSerie:8,numTotal:58,titulo:'Años de trabajo vs años de inversión',tituloLargo:'Años de trabajo vs años de inversión',subtitulo:'Por qué empezar tarde cuesta el doble',tagline:'"Cada año que tardas en empezar a invertir es el más caro de tu vida."',sinopsis:'El tiempo es el activo más valioso en la construcción de patrimonio. Y es el único que no se puede recuperar. Este libro compara con precisión matemática el coste de empezar a invertir tarde.',bullets:['La tabla completa de capital acumulado según edad de inicio y cantidad invertida','El "coste del año": cuánto cuesta realmente cada año que no inviertes','Por qué empezar con 50€ al mes es mejor que esperar para meter 500€'],titleSize:'24px'},
+  {id:59,serie:6,numSerie:9,numTotal:59,titulo:'Libertad financiera en pareja',tituloLargo:'Libertad financiera en pareja',subtitulo:'Cuando dos tienen que ponerse de acuerdo en el mismo objetivo',tagline:'"Alcanzar la libertad financiera solo es difícil. En pareja, puede ser más fácil o imposible."',sinopsis:'La libertad financiera en pareja requiere visión compartida, acuerdos sobre el estilo de vida y un sistema financiero conjunto que funcione para los dos.',bullets:['Cómo alinear los objetivos financieros cuando dos tienen prioridades distintas','El sistema financiero de pareja que maximiza el ahorro conjunto','Cómo gestionar los tiempos distintos cuando uno alcanza la meta antes que el otro'],titleSize:'26px'},
+  {id:60,serie:6,numSerie:10,numTotal:60,titulo:'El día después',tituloLargo:'El día después: Qué pasa cuando alcanzas la libertad financiera',subtitulo:'Porque nadie habla de esto',tagline:'"Nadie habla de esto. Todo el mundo debería."',sinopsis:'Alcanzar la libertad financiera resuelve el problema del dinero. Pero plantea otros que nadie anticipa: el sentido del propósito, la estructura del día, la identidad profesional. Este libro es para los que ya están cerca.',bullets:['El síndrome del "llegué": por qué la libertad financiera no es automáticamente la felicidad','Cómo redefinir el propósito cuando ya no tienes que trabajar','Las historias de los que llegaron y lo que encontraron al otro lado'],titleSize:'32px'},
+  // SERIE 7
+  {id:61,serie:7,numSerie:1,numTotal:61,titulo:'Hablar de dinero en pareja sin que acabe en divorcio',tituloLargo:'Hablar de dinero en pareja sin que acabe en divorcio',subtitulo:'La conversación que hay que tener',tagline:'"El dinero es la primera causa de conflicto en las parejas. Y el más evitable."',sinopsis:'Las parejas pelean por dinero con más frecuencia de lo que admiten. Este libro no es sobre tener más dinero: es sobre hablar de él de forma que une en lugar de dividir.',bullets:['Las cinco conversaciones sobre dinero que toda pareja necesita tener','Cómo hablar de dinero cuando los dos tienen estilos financieros opuestos','El pacto financiero de pareja: qué incluye y cómo actualizarlo'],titleSize:'20px'},
+  {id:62,serie:7,numSerie:2,numTotal:62,titulo:'Cuentas separadas, conjunta o las dos',tituloLargo:'Cuentas separadas, cuenta conjunta o las dos',subtitulo:'Modelos financieros en pareja',tagline:'"No hay una respuesta correcta. Hay una respuesta correcta para vosotros."',sinopsis:'El modelo financiero de una pareja no debería copiarse de los padres ni elegirse al azar. Debería diseñarse a medida. Este libro presenta los tres modelos con sus ventajas, riesgos y criterios para elegir el mejor.',bullets:['Los tres modelos financieros de pareja y cuándo funciona cada uno','El sistema "suyo, tuyo y nuestro": cómo implementarlo paso a paso','Cómo revisar el modelo financiero cuando cambia la situación'],titleSize:'22px'},
+  {id:63,serie:7,numSerie:3,numTotal:63,titulo:'Cuando uno gana más que el otro',tituloLargo:'Cuando uno gana más que el otro',subtitulo:'Cómo manejar la asimetría económica en la relación',tagline:'"La asimetría económica en pareja no tiene que ser fuente de poder ni de culpa."',sinopsis:'En la mayoría de parejas, uno gana más que el otro. Esa diferencia puede ser fuente de tensión o manejarse de forma que refuerce la confianza y la equidad. Este libro presenta los marcos para gestionarla.',bullets:['Por qué el dinero genera desequilibrios de poder y cómo neutralizarlos','Los modelos de contribución equitativa cuando los ingresos son desiguales','Cómo hablar del sueldo sin que nadie se sienta juzgado'],titleSize:'24px'},
+  {id:64,serie:7,numSerie:4,numTotal:64,titulo:'Educar a tus hijos sobre el dinero',tituloLargo:'Educar a tus hijos sobre el dinero',subtitulo:'Lo que aprendan antes de los 12 los define para siempre',tagline:'"Lo que aprenden antes de los 12 los define para siempre. Incluido esto."',sinopsis:'Los niños aprenden sobre el dinero mucho antes de que nadie se siente a explicárselo. Este libro te da las herramientas para darles una educación financiera deliberada, adaptada a cada edad.',bullets:['Qué enseñar sobre dinero a los 5, 8, 12 y 16 años: guía por etapas','La paga como herramienta educativa: cuánto, cómo y con qué condiciones','Los errores más comunes en la educación financiera de los hijos'],titleSize:'26px'},
+  {id:65,serie:7,numSerie:5,numTotal:65,titulo:'El coste real de tener hijos',tituloLargo:'El coste real de tener hijos',subtitulo:'Sin tabúes, con números',tagline:'"Sin tabúes. Con números. Porque quererlos mucho no significa no hacer las cuentas."',sinopsis:'Tener hijos es la decisión más importante de muchas vidas. También es la más cara. No para desanimar a nadie, sino porque saber el coste real permite planificarlo mejor y tomar decisiones informadas.',bullets:['El coste real de un hijo en España desde el nacimiento hasta los 18 años','Cómo planificar financieramente el nacimiento de un hijo con antelación','Los gastos que la mayoría de padres no anticipan (y cómo cubrirlos)'],titleSize:'28px'},
+  {id:66,serie:7,numSerie:6,numTotal:66,titulo:'Herencias',tituloLargo:'Herencias: Hablar de lo que nadie quiere hablar',subtitulo:'Cómo preparar y recibir herencias sin dramas',tagline:'"El dinero no desaparece cuando alguien muere. Solo cambia de manos. Mejor que sea planificado."',sinopsis:'Las herencias generan conflictos familiares que destruyen relaciones y patrimonio por igual. La mayoría son evitables con planificación y comunicación. Este libro aborda las herencias con claridad: lo legal, lo fiscal, lo familiar.',bullets:['Cómo funciona el proceso de herencia en España: plazos, trámites y costes','Cuándo y cómo hablar con tus padres sobre su herencia','Las decisiones de planificación que pueden ahorrar decenas de miles de euros'],titleSize:'34px'},
+  {id:67,serie:7,numSerie:7,numTotal:67,titulo:'Divorcios y dinero',tituloLargo:'Divorcios y dinero',subtitulo:'Protegerse, negociar y reconstruir',tagline:'"Separarse es duro. Arruinarse separándose es evitable."',sinopsis:'El divorcio tiene un coste económico que pocas personas anticipan correctamente. Este libro no es sobre cómo evitar el divorcio, sino sobre cómo gestionar el proceso financiero para que el impacto sea el mínimo posible.',bullets:['Los gastos reales de un divorcio en España según la modalidad','Cómo proteger el patrimonio antes y durante el proceso de separación','La reconstrucción financiera después del divorcio: paso a paso'],titleSize:'32px'},
+  {id:68,serie:7,numSerie:8,numTotal:68,titulo:'Padres mayores y dependencia económica',tituloLargo:'Padres mayores y dependencia económica',subtitulo:'Cuando tienes que ayudar a tus padres y a tus hijos',tagline:'"Cuando tus padres necesitan ayuda económica y tus hijos también. La generación sándwich."',sinopsis:'Cada vez más personas tienen que ayudar económicamente a sus padres al mismo tiempo que crían a sus hijos. Este libro aborda los dilemas de la generación sándwich con herramientas concretas.',bullets:['Cómo evaluar la situación financiera de tus padres y qué opciones hay','Los límites financieros que puedes y debes poner (aunque sea difícil)','Recursos públicos para la dependencia que muchas familias desconocen'],titleSize:'22px'},
+  {id:69,serie:7,numSerie:9,numTotal:69,titulo:'El dinero en familias separadas',tituloLargo:'El dinero en familias separadas',subtitulo:'Pensiones alimenticias, gastos compartidos, nuevas parejas',tagline:'"Dos familias, un presupuesto compartido. Hay formas de que funcione."',sinopsis:'Las familias separadas tienen una complejidad financiera única: gastos compartidos para hijos, pensiones alimenticias, nuevas parejas con sus propias economías. Este libro presenta los marcos legales y prácticos.',bullets:['Cómo calcular y acordar una pensión alimenticia justa y sostenible','Los gastos extraordinarios de los hijos: cómo acordarlos y evitar conflictos','Cómo integrar las finanzas de una familia reconstituida'],titleSize:'26px'},
+  {id:70,serie:7,numSerie:10,numTotal:70,titulo:'Construir patrimonio familiar para las próximas generaciones',tituloLargo:'Construir patrimonio familiar para las próximas generaciones',subtitulo:'Pensar más allá de ti mismo',tagline:'"Pensar más allá de ti mismo. El patrimonio que dura más que tú."',sinopsis:'Construir patrimonio familiar no es solo para los ricos. Es para cualquiera que quiera que sus hijos empiecen la vida con ventaja y que el trabajo de toda una vida se transmita en lugar de diluirse.',bullets:['Las estructuras legales para la transmisión de patrimonio en España','Cómo involucrar a los hijos en la construcción y gestión del patrimonio familiar','Los vehículos de inversión más eficientes para el patrimonio a largo plazo'],titleSize:'20px'},
+  // SERIE 8
+  {id:71,serie:8,numSerie:1,numTotal:71,titulo:'El fondo de emergencia',tituloLargo:'El fondo de emergencia: Tu primer millón (de céntimos)',subtitulo:'Construirlo desde cero',tagline:'"No es glamuroso. Es lo más importante que puedes hacer con tu dinero esta semana."',sinopsis:'El fondo de emergencia es la base sobre la que se construye cualquier estructura financiera sólida. Sin él, eres vulnerable a cualquier imprevisto. Este libro es la guía definitiva: cuánto tener, dónde guardarlo y cómo construirlo.',bullets:['La cantidad correcta de fondo de emergencia según tu situación familiar y laboral','El plan de construcción del fondo de emergencia en 6, 12 o 18 meses','Las cuentas de alta remuneración disponibles en España para el fondo'],titleSize:'30px'},
+  {id:72,serie:8,numSerie:2,numTotal:72,titulo:'Seguros',tituloLargo:'Seguros: Cuáles necesitas y cuáles son un timo',subtitulo:'Guía sin comisiones',tagline:'"Hay seguros que salvan familias. Y seguros diseñados para que el vendedor cobre comisión."',sinopsis:'El mundo de los seguros es opaco y lleno de intereses comerciales. Este libro te da un mapa sin comisiones: qué seguros son imprescindibles, cuáles son sobrevaluados, cómo comparar pólizas y cuánto deberías pagar.',bullets:['Los seguros imprescindibles para distintos perfiles de vida y trabajo','Cómo leer una póliza de seguro y entender lo que realmente cubre','Los seguros que casi nunca compensa contratar (y los que el banco te vende igual)'],titleSize:'34px'},
+  {id:73,serie:8,numSerie:3,numTotal:73,titulo:'Qué pasa si te quedas sin trabajo',tituloLargo:'Qué pasa si te quedas sin trabajo',subtitulo:'Plan de contingencia económica',tagline:'"No pienses en ello cuando pase. Piensa en ello ahora."',sinopsis:'El despido es el golpe financiero más común y para el que menos se prepara la gente. Este libro es el plan de contingencia que deberías tener preparado antes de necesitarlo.',bullets:['Cuánto cobra la prestación por desempleo y durante cuánto tiempo','El plan de acción financiero para los primeros 30 días sin trabajo','Cómo acelerar la búsqueda de empleo sin comprometer las finanzas'],titleSize:'26px'},
+  {id:74,serie:8,numSerie:4,numTotal:74,titulo:'Enfermedad, invalidez y dinero',tituloLargo:'Enfermedad, invalidez y dinero',subtitulo:'Lo que nadie quiere pensar hasta que pasa',tagline:'"Lo que nadie quiere pensar hasta que ya no puede ignorarlo."',sinopsis:'Una enfermedad grave o una invalidez puede destruir años de construcción financiera en pocos meses. La mayoría no tiene ningún plan para este escenario. Este libro lo plantea sin alarmismo pero con realismo.',bullets:['Qué cubre realmente la incapacidad temporal y permanente en España','Los seguros de invalidez: cuándo son necesarios y qué deben cubrir','Cómo adaptar las finanzas familiares cuando alguien cae gravemente enfermo'],titleSize:'26px'},
+  {id:75,serie:8,numSerie:5,numTotal:75,titulo:'El seguro de vida',tituloLargo:'El seguro de vida: Cuándo tiene sentido y cuándo no',subtitulo:'Sin venderlo, con datos',tagline:'"Sin venderlo. Solo los datos."',sinopsis:'El seguro de vida tiene mala fama de sobrevalorado. A veces lo es. A veces es imprescindible. La diferencia la marcan tus dependientes y tus deudas. Este libro te da los criterios objetivos para decidir.',bullets:['Las dos preguntas que determinan si necesitas un seguro de vida (o no)','Cómo calcular la cobertura correcta según tus dependientes y deudas','Comparativa de seguros de vida: qué mirar y qué no mirar al contratar'],titleSize:'30px'},
+  {id:76,serie:8,numSerie:6,numTotal:76,titulo:'Plan B financiero',tituloLargo:'Plan B financiero: Siempre tener una salida',subtitulo:'Construcción de una red de seguridad personal',tagline:'"No se trata de ser pesimista. Se trata de ser inteligente."',sinopsis:'Un Plan B financiero no es señal de fatalismo: es una de las decisiones más inteligentes que puedes tomar. Tener un plan de contingencia para los escenarios de riesgo más probables significa opciones en lugar de solo problemas.',bullets:['Cómo identificar los cinco riesgos financieros más probables en tu situación','La red de seguridad personal: cómo construirla capa por capa','El ejercicio del "peor caso posible": practicar la resiliencia antes de necesitarla'],titleSize:'30px'},
+  {id:77,serie:8,numSerie:7,numTotal:77,titulo:'Crisis económicas',tituloLargo:'Crisis económicas: Cómo sobrevivir sin perderlo todo',subtitulo:'Lecciones de 2008 y 2020 aplicadas',tagline:'"Las crisis llegan. Siempre. La pregunta es si estarás preparado."',sinopsis:'Las crisis económicas tienen un impacto muy diferente según la preparación financiera de cada persona. Los que tenían deuda, sin ahorro y con un solo ingreso lo pasaron fatal. Los que tenían escudo financiero salieron adelante.',bullets:['Las lecciones financieras reales de la crisis de 2008 y la pandemia de 2020','Cómo posicionar las finanzas personales antes de una recesión','Qué hacer con las inversiones cuando la bolsa cae un 30% (o un 50%)'],titleSize:'30px'},
+  {id:78,serie:8,numSerie:8,numTotal:78,titulo:'Proteger el patrimonio de los acreedores',tituloLargo:'Proteger el patrimonio de los acreedores',subtitulo:'Lo que es legal y lo que no',tagline:'"Lo que es tuyo, que siga siendo tuyo. De forma legal."',sinopsis:'Cuando alguien tiene deudas o atraviesa dificultades económicas, el patrimonio puede estar en riesgo. Pero hay formas legales de estructurar los bienes que limitan la exposición a los acreedores.',bullets:['Las estructuras legales de protección patrimonial disponibles en España','Cuándo tiene sentido separar bienes antes de que surja un problema','Lo que los acreedores pueden y no pueden embargar según la ley española'],titleSize:'26px'},
+  {id:79,serie:8,numSerie:9,numTotal:79,titulo:'Testamento y voluntades',tituloLargo:'Testamento y voluntades: El trámite que aplazas y no deberías',subtitulo:'Hacerlo fácil y rápido',tagline:'"Si no decides tú a quién van tus bienes, lo decide el Estado."',sinopsis:'Hacer testamento parece algo para mayores o para ricos. No lo es. Es una decisión que cualquier adulto con bienes o dependientes debería tomar. Este libro explica el proceso completo en España.',bullets:['Qué ocurre si mueres sin testamento en España (la herencia intestada)','Cómo hacer testamento, cuánto cuesta y cuánto tarda','Qué incluir en el testamento más allá de los bienes materiales'],titleSize:'28px'},
+  {id:80,serie:8,numSerie:10,numTotal:80,titulo:'Resiliencia financiera',tituloLargo:'Resiliencia financiera: Construir para aguantar cualquier tormenta',subtitulo:'El concepto más infravalorado de las finanzas',tagline:'"No se trata de evitar los problemas. Se trata de estar en posición de sobrevivirlos."',sinopsis:'La resiliencia financiera es la capacidad de absorber golpes económicos sin que destruyan la vida. No se construye en un día, sino capa a capa: fondo de emergencia, ingresos diversificados, deuda baja, inversiones diversificadas.',bullets:['Los cinco pilares de la resiliencia financiera personal','Cómo evaluar tu resiliencia actual con una puntuación objetiva','El plan de construcción de resiliencia en 24 meses'],titleSize:'28px'},
+  // SERIE 9
+  {id:81,serie:9,numSerie:1,numTotal:81,titulo:'Montar un negocio con menos de 1.000€',tituloLargo:'Montar un negocio con menos de 1.000€',subtitulo:'Negocios de bajo coste y alta rentabilidad',tagline:'"La inversión inicial no es el problema. El modelo de negocio sí."',sinopsis:'La mayoría de los negocios que fracasan no lo hacen por falta de dinero. Lo hacen por falta de modelo. Este libro presenta negocios que funcionan con menos de 1.000€ de inversión inicial, con casos reales y márgenes reales.',bullets:['15 modelos de negocio con inversión inicial inferior a 1.000€','Cómo validar una idea de negocio antes de gastar el primer euro','El plan de negocio mínimo viable: qué necesitas saber antes de empezar'],titleSize:'24px'},
+  {id:82,serie:9,numSerie:2,numTotal:82,titulo:'Amazon FBA para españoles',tituloLargo:'Amazon FBA para españoles',subtitulo:'Vender en Amazon sin tener stock propio',tagline:'"Vende en el mayor ecommerce del mundo sin tener stock propio."',sinopsis:'Amazon FBA permite vender productos en Amazon sin gestionar almacenamiento ni envíos. Es un modelo de negocio real con márgenes reales. Este libro lo explica desde la perspectiva española.',bullets:['Cómo funciona Amazon FBA y qué costes reales tiene','El proceso de selección de producto: qué vender y cómo encontrarlo','Los errores que cometen el 80% de los españoles que empiezan en Amazon FBA'],titleSize:'28px'},
+  {id:83,serie:9,numSerie:3,numTotal:83,titulo:'El negocio digital',tituloLargo:'El negocio digital: De cero a 2.000€/mes',subtitulo:'Itinerario concreto paso a paso',tagline:'"No es rápido. No es fácil. Pero hay un camino concreto."',sinopsis:'Llegar a 2.000€ mensuales con un negocio digital es un hito alcanzable con el modelo correcto y entre 12 y 24 meses de trabajo consistente. Este libro presenta el itinerario paso a paso.',bullets:['Los modelos de negocio digital que han generado 2.000€/mes para gente normal','El mapa de los primeros 12 meses: qué construir, en qué orden y con qué recursos','Por qué el 90% abandona antes de llegar y cómo estar en el 10% que no'],titleSize:'30px'},
+  {id:84,serie:9,numSerie:4,numTotal:84,titulo:'Dropshipping sin los engaños de los gurús',tituloLargo:'Dropshipping sin los engaños de los gurús',subtitulo:'Lo que funciona de verdad',tagline:'"El dropshipping funciona. Pero no como lo venden en los cursos de 997€."',sinopsis:'El dropshipping es real. Hay gente ganando dinero con él. Pero no funciona como los cursos en YouTube prometen. Este libro separa la realidad del marketing de los cursos.',bullets:['Cómo funciona realmente el dropshipping (los márgenes que nadie anuncia)','Los proveedores fiables y cómo encontrarlos sin morir en el intento','Los nichos con recorrido y los que deberías evitar'],titleSize:'24px'},
+  {id:85,serie:9,numSerie:5,numTotal:85,titulo:'Vender servicios online',tituloLargo:'Vender servicios online: La forma más rápida de ganar dinero extra',subtitulo:'Sin producto, sin inversión',tagline:'"No necesitas un producto. No necesitas una tienda. Solo necesitas una habilidad."',sinopsis:'Vender servicios online es el modelo más rápido para generar ingresos extras: sin inversión inicial, sin stock, sin desarrollar productos. Solo ofrecer una habilidad que otros necesitan.',bullets:['Las categorías de servicios con mayor demanda online en España','Cómo posicionarte en plataformas como Fiverr, Workana o LinkedIn','El proceso para conseguir los primeros cinco clientes sin experiencia previa'],titleSize:'26px'},
+  {id:86,serie:9,numSerie:6,numTotal:86,titulo:'El blog como negocio',tituloLargo:'El blog como negocio: SEO, afiliados y publicidad',subtitulo:'Rentabilizar un blog en 12-18 meses',tagline:'"Un blog rentable no ocurre en seis meses. Pero en 18 meses, es posible."',sinopsis:'Los blogs siguen siendo uno de los negocios digitales más sólidos cuando se construyen bien. A los 18-24 meses un blog bien posicionado puede generar ingresos significativos de forma casi autónoma.',bullets:['La estrategia de SEO básica que necesita cualquier blog para posicionarse','Los tres modelos de monetización de un blog y cuándo activar cada uno','El plan de contenidos para los primeros 12 meses: qué escribir, cuándo y por qué'],titleSize:'30px'},
+  {id:87,serie:9,numSerie:7,numTotal:87,titulo:'YouTube sin mostrar la cara',tituloLargo:'YouTube sin mostrar la cara',subtitulo:'Canales de voz, animación y texto que generan ingresos',tagline:'"El mayor canal de entretenimiento del mundo no requiere que salgas en pantalla."',sinopsis:'Los canales de YouTube de voz en off, animación y texto están entre los de mayor crecimiento. No requieren cámara ni presencia personal. Este libro enseña a crear, posicionar y monetizar un canal sin aparecer nunca en pantalla.',bullets:['Los formatos de YouTube sin cara con mayor potencial de monetización','Cómo crear contenido de calidad sin equipo técnico ni gran presupuesto','El mapa hacia la monetización: los 1.000 suscriptores y las 4.000 horas'],titleSize:'28px'},
+  {id:88,serie:9,numSerie:8,numTotal:88,titulo:'Productos digitales',tituloLargo:'Productos digitales: Crear una vez, vender mil veces',subtitulo:'Templates, ebooks, cursos, herramientas',tagline:'"Trabaja una vez. Cobra muchas veces."',sinopsis:'Los productos digitales —ebooks, plantillas, cursos, herramientas— son el ejemplo más cercano al ingreso pasivo real. Se crean una vez y se venden indefinidamente sin coste incremental.',bullets:['Los productos digitales con mayor ratio de ventas y menor esfuerzo de creación','Cómo validar la demanda de un producto digital antes de crearlo','Las plataformas de venta para el mercado hispanohablante'],titleSize:'30px'},
+  {id:89,serie:9,numSerie:9,numTotal:89,titulo:'Alquiler vacacional',tituloLargo:'Alquiler vacacional: Airbnb y alternativas',subtitulo:'Rentabilizar un inmueble al máximo',tagline:'"Tu propiedad puede trabajar más de lo que tú trabajas."',sinopsis:'El alquiler vacacional puede multiplicar por dos o tres la rentabilidad de un inmueble respecto al alquiler tradicional. Pero requiere gestión, cumplimiento legal y optimización constante.',bullets:['La normativa del alquiler vacacional en España: licencias y requisitos por comunidad','Cómo optimizar el precio y la ocupación con herramientas de pricing dinámico','Gestión propia vs. delegada: cuándo merece la pena cada opción'],titleSize:'28px'},
+  {id:90,serie:9,numSerie:10,numTotal:90,titulo:'El negocio local que funciona en internet',tituloLargo:'El negocio local que funciona en internet',subtitulo:'Llevar un negocio físico al mundo digital',tagline:'"El mundo digital no ha matado al negocio local. Le ha dado un arma nueva."',sinopsis:'Los negocios locales que dominan el canal digital tienen ventaja. Google My Business, redes sociales locales, publicidad geolocalizadora: herramientas que multiplican la visibilidad de cualquier negocio físico.',bullets:['Las cinco herramientas digitales imprescindibles para cualquier negocio local','Cómo posicionarse en Google Maps para búsquedas locales','La estrategia de redes sociales para negocio local: qué publicar y con qué frecuencia'],titleSize:'24px'},
+  // SERIE 10
+  {id:91,serie:10,numSerie:1,numTotal:91,titulo:'Hacienda no roba\n(pero no te regala nada)',tituloLargo:'Hacienda no roba (pero no te regala nada)',subtitulo:'Entender el sistema fiscal español sin ser asesor',tagline:'"Entender el sistema fiscal no es para contables. Es para ti."',sinopsis:'El sistema fiscal español es complejo, pero hay una versión simplificada suficiente para tomar buenas decisiones financieras. Este libro enseña lo que cualquier persona activa económicamente debería saber sobre impuestos.',bullets:['Cómo funciona el IRPF y cómo calcular aproximadamente lo que pagas','Las fuentes de ingresos y su tratamiento fiscal diferente','Los conceptos básicos para no dejar dinero en la declaración'],titleSize:'24px'},
+  {id:92,serie:10,numSerie:2,numTotal:92,titulo:'La declaración de la renta que te devuelve más',tituloLargo:'La declaración de la renta que te devuelve más',subtitulo:'Deducciones reales que casi nadie aplica',tagline:'"La mayoría de la gente deja dinero en Hacienda por no conocer las deducciones."',sinopsis:'La declaración de la renta es una de las pocas oportunidades anuales de recuperar dinero pagado. Pero la mayoría la hace sin conocer todas las deducciones a las que tienen derecho.',bullets:['Las deducciones estatales más valiosas que la gente suele ignorar','Deducciones autonómicas: las diferencias más importantes entre comunidades','Cómo preparar los documentos durante el año para maximizar la devolución'],titleSize:'22px'},
+  {id:93,serie:10,numSerie:3,numTotal:93,titulo:'Autónomo',tituloLargo:'Autónomo: Cómo pagar menos a Hacienda de forma legal',subtitulo:'Gastos deducibles y estrategia fiscal',tagline:'"Pagar lo justo no es trampa. Es conocer las reglas del juego."',sinopsis:'Los autónomos tienen acceso a más herramientas de optimización fiscal que los empleados. Este libro explica qué gastos son deducibles, qué estructuras tienen sentido y cómo relacionarse con Hacienda sin acabar en inspección.',bullets:['Los gastos deducibles que la mayoría de autónomos no aplica correctamente','Estimación directa vs. módulos: cuándo conviene cada régimen','Cómo documentar los gastos para que sean deducibles sin riesgo'],titleSize:'36px'},
+  {id:94,serie:10,numSerie:4,numTotal:94,titulo:'Sociedad Limitada',tituloLargo:'Sociedad Limitada: Cuándo tiene sentido y cuándo no',subtitulo:'La decisión que más afecta a tu fiscalidad',tagline:'"Montar una SL no siempre es la mejor decisión. Pero a veces es la más cara no haberlo hecho antes."',sinopsis:'La pregunta de cuándo pasar de autónomo a sociedad limitada es una de las más importantes en la carrera de cualquier profesional independiente. La respuesta depende de múltiples factores.',bullets:['A partir de qué nivel de ingresos una SL tiene ventaja fiscal','Los costes reales de mantener una SL que mucha gente subestima','Las estructuras mixtas (autónomo + SL) que funcionan en situaciones específicas'],titleSize:'30px'},
+  {id:95,serie:10,numSerie:5,numTotal:95,titulo:'Inversiones y fiscalidad',tituloLargo:'Inversiones y fiscalidad: Lo que Hacienda se lleva de tus ganancias',subtitulo:'IRPF, plusvalías, dividendos',tagline:'"Invertir sin conocer la fiscalidad es como jugar con las cartas boca arriba."',sinopsis:'Los rendimientos de las inversiones tributan. Pero no todos tributan igual ni a la misma tasa. Conocer la fiscalidad de cada instrumento puede marcar una diferencia significativa en la rentabilidad neta real.',bullets:['Cómo tributan fondos, ETFs, acciones y dividendos en el IRPF','El diferimiento fiscal: por qué los fondos tienen ventaja sobre los ETFs','Las estrategias legales para reducir la factura fiscal de las inversiones'],titleSize:'26px'},
+  {id:96,serie:10,numSerie:6,numTotal:96,titulo:'Inmuebles e impuestos',tituloLargo:'Inmuebles e impuestos: La combinación más compleja',subtitulo:'IBI, plusvalía, rendimientos del capital',tagline:'"Los inmuebles tienen más impuestos que cualquier otra inversión. Conviene conocerlos antes de comprar."',sinopsis:'La inversión inmobiliaria tiene una carga fiscal específica y compleja: IBI, plusvalía municipal, IRPF sobre rendimientos del alquiler, impuesto de transmisiones patrimoniales. Este libro es la guía fiscal completa.',bullets:['Todos los impuestos vinculados a la compra, tenencia y venta de un inmueble','Cómo reducir el IRPF del alquiler con gastos deducibles','La plusvalía municipal: cómo funciona y cuándo se puede impugnar'],titleSize:'28px'},
+  {id:97,serie:10,numSerie:7,numTotal:97,titulo:'Herencias y donaciones',tituloLargo:'Herencias y donaciones: Cómo pagar lo mínimo legal',subtitulo:'Impuesto de sucesiones por comunidades',tagline:'"El impuesto de sucesiones es el más evitable de todos. Si se planifica a tiempo."',sinopsis:'El impuesto de sucesiones varía enormemente según la comunidad autónoma. Este libro explica las diferencias, las reducciones disponibles y las estrategias legales para minimizar el impacto fiscal.',bullets:['El impuesto de sucesiones por comunidad autónoma: mapa completo','Las reducciones y bonificaciones más importantes en cada autonomía','Cómo reducir el coste fiscal de una herencia con planificación previa'],titleSize:'26px'},
+  {id:98,serie:10,numSerie:8,numTotal:98,titulo:'Expatriados y fiscalidad',tituloLargo:'Expatriados y fiscalidad: Vivir fuera, pagar menos',subtitulo:'Residencia fiscal, paraísos fiscales legales',tagline:'"Cambiar de país puede ser la decisión financiera más rentable de tu vida."',sinopsis:'La residencia fiscal es uno de los conceptos más poderosos y menos entendidos de la planificación financiera. Cambiar de residencia puede reducir drásticamente la carga impositiva de forma completamente legal.',bullets:['Qué es la residencia fiscal y cómo se determina en España','Los países con regímenes fiscales favorables para trabajadores digitales','Cómo gestionar la salida fiscal de España sin errores que luego pasen factura'],titleSize:'26px'},
+  {id:99,serie:10,numSerie:9,numTotal:99,titulo:'Planificación patrimonial a largo plazo',tituloLargo:'Planificación patrimonial a largo plazo',subtitulo:'Construir, proteger y transferir patrimonio',tagline:'"El patrimonio que no se planifica, se diluye."',sinopsis:'Construir patrimonio es solo la mitad del trabajo. La otra mitad es protegerlo, estructurarlo y asegurarse de que se transmite de forma eficiente. La planificación patrimonial integra inversión, fiscalidad, protección y sucesión.',bullets:['Los cuatro pilares de la planificación patrimonial personal','Las estructuras legales para proteger y transmitir patrimonio en España','Cómo revisar el plan patrimonial según cambian las circunstancias'],titleSize:'24px'},
+  {id:100,serie:10,numSerie:10,numTotal:100,titulo:'El plan financiero personal',tituloLargo:'El plan financiero personal: Juntarlo todo',subtitulo:'Cómo integrar los 5 pilares en un plan de vida real',tagline:'"Este es el último libro. Y el primero del resto de tu vida."',sinopsis:'Después de cien libros sobre cada aspecto de las finanzas personales, este es el que lo integra todo. El plan financiero personal no es un documento: es un sistema vivo que refleja tus objetivos, tu situación y tu estrategia.',bullets:['Cómo crear tu plan financiero personal paso a paso integrando los 5 pilares','La revisión anual del plan: qué ajustar y con qué criterios','El camino de Carlos y Marta: de la primera página del Libro 0 al plan completo'],titleSize:'26px'},
+];
+
+let currentIdx = 0;
+
+function getSerie(serieId){return SERIES.find(s=>s.id===serieId)}
+
+function renderPortada(libro){
+  const serie = getSerie(libro.serie);
+  const s = libro.serie;
+  const titleLines = libro.titulo.split('\n');
+  const geo = s===0?'5P':s===1?'P1':s===2?'P2':s===3?'P3':s===4?'P4':s===5?'P4':s===6?'P5':s===7?'₿':s===8?'🛡':s===9?'₿':s===10?'%':'5P';
+  const bookNumLabel = libro.id===0 ? 'Libro 0 — Libro Madre' : `Serie ${libro.serie} · Libro ${libro.numSerie} de 10`;
+  return `<div class="portada" style="--primary:${serie.primary};--accent:${serie.accent};--light:${serie.light}">
+    <div class="deco-top"></div>
+    <div class="deco-line"></div>
+    <div class="deco-circle"></div>
+    <div class="serie-band">
+      <span class="serie-num">${serie.shortName}</span>
+      <span class="sep">·</span>
+      <span class="serie-name">${serie.nombre}</span>
+    </div>
+    <div class="content">
+      <div class="book-number">${bookNumLabel}</div>
+      <div class="main-title" style="font-size:${libro.titleSize}">${titleLines.join('<br>')}</div>
+      <div class="accent-line"></div>
+      <div class="subtitle">${libro.subtitulo}</div>
+    </div>
+    <div class="bottom-band">
+      <span class="author">Método 5P · Finanzas Personales</span>
+      <span class="metodo-badge">Método 5P</span>
+    </div>
+  </div>`;
+}
+
+function renderContraportada(libro){
+  const serie = getSerie(libro.serie);
+  const bookNumLabel = libro.id===0 ? 'Libro 0 — Libro Madre' : `Serie ${libro.serie} · Libro ${libro.numSerie} de 10`;
+  const bulletsHtml = libro.bullets.map(b=>`<div class="cp-bullet">${b}</div>`).join('');
+  return `<div class="contraportada" style="--primary:${serie.primary};--accent:${serie.accent};--light:${serie.light}">
+    <div class="top-stripe"></div>
+    <div class="cp-header">
+      <div class="cp-tagline">${libro.tagline}</div>
+      <div class="cp-title-small">${libro.tituloLargo}</div>
+    </div>
+    <div class="cp-body">
+      <div class="cp-accent-bar"></div>
+      <div class="cp-sinopsis">${libro.sinopsis}</div>
+      <div class="cp-bullets">${bulletsHtml}</div>
+    </div>
+    <div class="cp-footer">
+      <div class="cp-serie-info">
+        <strong>${serie.nombre}</strong>
+        ${bookNumLabel}<br>
+        El Método 5P · Finanzas Personales
+      </div>
+      <div class="barcode-area">ISBN<br>_ _ _ _ _</div>
+    </div>
+  </div>`;
+}
+
+function renderBook(idx){
+  const libro = LIBROS[idx];
+  const serie = getSerie(libro.serie);
+
+  document.querySelector('#covers-row .cover-wrap:first-child').innerHTML =
+    '<div class="cover-label">Portada</div>' + renderPortada(libro);
+  document.querySelector('#covers-row .cover-wrap:last-child').innerHTML =
+    '<div class="cover-label">Contraportada</div>' + renderContraportada(libro);
+
+  document.getElementById('hdr-badge').textContent = serie.nombre;
+  document.getElementById('hdr-badge').style.background = serie.accent;
+  document.getElementById('hdr-badge').style.color = serie.primary;
+  document.getElementById('hdr-meta').textContent = libro.id===0 ? 'Libro Madre' : `Libro ${libro.numTotal} de 100 · ${libro.tituloLargo}`;
+  document.getElementById('counter').textContent = `${idx+1} / ${LIBROS.length}`;
+
+  document.querySelectorAll('.book-item').forEach(el=>el.classList.remove('active'));
+  const activeEl = document.querySelector(`.book-item[data-idx="${idx}"]`);
+  if(activeEl){activeEl.classList.add('active');activeEl.scrollIntoView({block:'nearest'});}
+
+  currentIdx = idx;
+}
+
+function navigate(dir){
+  const next = (currentIdx+dir+LIBROS.length)%LIBROS.length;
+  renderBook(next);
+}
+
+function buildSidebar(){
+  const container = document.getElementById('book-list');
+  let html = '';
+  let currentSerie = -1;
+  LIBROS.forEach((libro,idx)=>{
+    if(libro.serie!==currentSerie){
+      currentSerie=libro.serie;
+      const serie=getSerie(libro.serie);
+      if(idx>0)html+='</div>';
+      html+=`<div class="serie-group"><div class="serie-label" style="border-left:3px solid ${serie.accent};padding-left:13px">${serie.nombre}</div>`;
+    }
+    const numLabel = libro.id===0?'Libro 0':libro.numTotal;
+    html+=`<div class="book-item" data-idx="${idx}" style="--accent:${getSerie(libro.serie).accent}" onclick="renderBook(${idx})">
+      <div class="num">${numLabel}</div>
+      <div class="title">${libro.tituloLargo}</div>
+    </div>`;
+  });
+  html+='</div>';
+  container.innerHTML=html;
+}
+
+function filterBooks(query){
+  const q=query.toLowerCase();
+  document.querySelectorAll('.book-item').forEach(el=>{
+    const title=el.querySelector('.title').textContent.toLowerCase();
+    el.style.display=title.includes(q)?'block':'none';
+  });
+}
+
+// Init
+buildSidebar();
+renderBook(0);
+
+// Keyboard nav
+document.addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'||e.key==='ArrowDown')navigate(1);
+  if(e.key==='ArrowLeft'||e.key==='ArrowUp')navigate(-1);
+});
+</script>
+</body>
+</html>
