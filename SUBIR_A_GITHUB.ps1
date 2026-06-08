@@ -3,49 +3,51 @@
 # ============================================================
 
 $host.UI.RawUI.WindowTitle = "Subir a GitHub"
-$env:PATH = [System.Environment]::GetEnvironmentVariable("PATH","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("PATH","User")
+$env:PATH = [System.Environment]::GetEnvironmentVariable("PATH", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("PATH", "User")
 
 Write-Host ""
 Write-Host "================================================" -ForegroundColor Cyan
 Write-Host "   SUBIR PROYECTO LIBROS IA A GITHUB" -ForegroundColor Cyan
 Write-Host "================================================" -ForegroundColor Cyan
 Write-Host ""
-Write-Host "Paso 1: Iniciando sesion en GitHub..." -ForegroundColor Yellow
-Write-Host "(Se abrira el navegador - haz clic en 'Authorize GitHub CLI')" -ForegroundColor Gray
+Write-Host "Colecciones incluidas:" -ForegroundColor Yellow
+Write-Host "  - Finanzas Personales: 101 libros (Metodo 5P)" -ForegroundColor Gray
+Write-Host "  - Salud y Bienestar:   101 libros (Metodo RESET)" -ForegroundColor Gray
 Write-Host ""
 
-gh auth login --hostname github.com --git-protocol https --web
-
-Write-Host ""
-Write-Host "Paso 2: Obteniendo tu usuario de GitHub..." -ForegroundColor Yellow
-$usuario = gh api user --jq .login
-Write-Host "  Usuario: $usuario" -ForegroundColor Green
-
-Write-Host ""
-Write-Host "Paso 3: Creando repositorio 'libros-finanzas-personales'..." -ForegroundColor Yellow
-gh repo create libros-finanzas-personales --public --description "Serie de 101 libros de finanzas personales - El Metodo 5P" 2>&1
-Write-Host "  Repositorio creado." -ForegroundColor Green
-
-Write-Host ""
-Write-Host "Paso 4: Preparando archivos..." -ForegroundColor Yellow
 Set-Location "c:\Users\usuario\Desktop\IA\Libros"
-git init
-git config user.email "aepp1979@gmail.com"
-git config user.name "$usuario"
-git add .
-git commit -m "Proyecto inicial: 101 libros de finanzas personales - El Metodo 5P"
+
+Write-Host "Paso 1: Verificando estado del repositorio..." -ForegroundColor Yellow
+$status = git status --short
+if ($status) {
+    Write-Host "  Hay cambios sin commitear:" -ForegroundColor Red
+    Write-Host $status
+    Write-Host ""
+    Write-Host "  Haciendo commit de los cambios pendientes..." -ForegroundColor Yellow
+    git add .
+    git commit -m "Actualizar archivos pendientes"
+}
+else {
+    Write-Host "  Repositorio limpio." -ForegroundColor Green
+}
 
 Write-Host ""
-Write-Host "Paso 5: Subiendo a GitHub..." -ForegroundColor Yellow
-git branch -M main
-git remote add origin "https://github.com/$usuario/libros-finanzas-personales.git"
-git push -u origin main
+Write-Host "Paso 2: Subiendo commits a GitHub..." -ForegroundColor Yellow
+git push origin main
 
-Write-Host ""
-Write-Host "================================================" -ForegroundColor Green
-Write-Host "   LISTO! Tu proyecto esta en GitHub:" -ForegroundColor Green
-Write-Host "   https://github.com/$usuario/libros-finanzas-personales" -ForegroundColor Green
-Write-Host "================================================" -ForegroundColor Green
+if ($LASTEXITCODE -eq 0) {
+    Write-Host ""
+    Write-Host "================================================" -ForegroundColor Green
+    Write-Host "   LISTO! Repositorio actualizado en:" -ForegroundColor Green
+    Write-Host "   https://github.com/Alevisual79/libros-finanzas-personales" -ForegroundColor Green
+    Write-Host "================================================" -ForegroundColor Green
+}
+else {
+    Write-Host ""
+    Write-Host "  Error al subir. Intenta autenticarte primero:" -ForegroundColor Red
+    Write-Host "  gh auth login" -ForegroundColor Yellow
+}
+
 Write-Host ""
 Write-Host "Pulsa Enter para cerrar..." -ForegroundColor Gray
 Read-Host
