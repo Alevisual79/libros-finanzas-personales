@@ -6,220 +6,253 @@
 
 ---
 
-## Prólogo: El teatro de la bolsa
+## Prólogo: El miércoles que casi lo arruinó todo
+
+Era un miércoles de octubre.
+
+Carlos llevaba once meses invirtiendo. Cuatrocientos euros al mes en su fondo indexado global. Con disciplina. Sin mirar demasiado.
+
+Ese miércoles encendió el ordenador y vio el titular: "Los mercados caen un 4% ante el temor a la recesión. El Ibex pierde 500 puntos."
+
+Abrió el broker. Su cartera había bajado de 4.800 euros a 4.600 euros en una sola jornada.
+
+El teléfono vibró. Era el cuñado.
+
+"¿Has visto lo de la bolsa? Te dije que no era el momento. Yo salí hace tres semanas. Ahora espero que baje más y vuelvo a entrar."
+
+Carlos cerró el teléfono. Cerró el broker. Se fue a hacer café.
+
+Media hora después, volvió al escritorio. Buscó en internet qué le había pasado al mercado en la crisis de 2008. Cuánto cayó. Cuánto tardó en recuperarse.
+
+Vio los números. Cerró el ordenador.
+
+Y no vendió nada.
+
+Fue la mejor decisión financiera de ese año.
+
+---
+
+## Capítulo 1: La bolsa no es lo que los medios te dicen que es
 
 Todos los días, los medios financieros publican noticias sobre la bolsa.
 
-"La bolsa cae un 2% ante el temor a..." Lo que sea. La inflación, los tipos, China, la Fed, las elecciones, el petróleo.
+"Los mercados caen ante el temor a..." La inflación, los tipos de interés, China, la Reserva Federal, las elecciones, el petróleo, la guerra, el banco que ha quebrado.
 
-"La bolsa sube un 1,5% tras..." Lo que sea. Unos datos mejores de lo esperado, una declaración de un banco central, unas cifras de empleo.
+"Los mercados suben tras..." Unos datos mejores de lo esperado, una declaración del banco central, unas cifras de empleo, un acuerdo comercial.
 
 Cada día hay una narrativa. Cada narrativa explica el movimiento de ese día con una causa aparente.
 
-El problema es que esas narrativas son, en su mayoría, ficción.
+El problema es que esas narrativas son, en su mayoría, ficción retroactiva.
 
-La bolsa no sube o baja por una razón precisa y aislada la mayoría de los días. Sube o baja por la agregación de millones de decisiones de compra y venta de millones de inversores con millones de razones diferentes.
+Los mercados no suben o bajan por una razón precisa y aislada la mayoría de los días. Suben o bajan por la agregación de millones de decisiones de compra y venta de millones de inversores con millones de razones distintas. La narrativa del día es una historia que los medios construyen después del hecho para darle sentido a algo que no lo tiene de forma lineal.
 
-La narrativa del día es una historia que los medios construyen después del hecho para darle sentido.
+Seguir esas narrativas y tomar decisiones de inversión basadas en ellas es una de las formas más seguras de comprar caro y vender barato.
 
-Seguir esas narrativas y tomar decisiones de inversión basadas en ellas es una forma segura de comprar caro y vender barato.
+El inversor que se deja llevar por los titulares compra cuando el optimismo está en máximos (el mercado también) y vende cuando el miedo está en máximos (el mercado también).
 
-Este libro es sobre invertir en bolsa ignorando el drama y siguiendo lo que funciona.
+Es exactamente al revés de lo que debería hacer.
 
 ---
 
-## Capítulo 1: Qué es la bolsa realmente
+## Capítulo 2: Lo que la bolsa es en realidad
 
 La bolsa es un mercado donde se compran y venden participaciones en empresas.
 
-Cuando compras una acción, compras una fracción de una empresa real. Con empleados, productos, clientes, beneficios.
+Cuando compras una acción o una participación de un fondo indexado, compras una fracción de empresas reales. Con empleados, productos, clientes, beneficios.
 
-El precio de la acción en el corto plazo lo determina el mercado: la oferta y la demanda en cada momento. Que puede estar muy desconectado del valor real de la empresa.
+Benjamin Graham, el mentor de Warren Buffett, tenía una metáfora que Carlos leyó y no olvidó.
 
-En el largo plazo, el precio de la acción tiende a converger con el valor real de la empresa. Los beneficios se acumulan. El negocio crece o no crece. El precio refleja esa realidad.
+Imagina que tienes un vecino llamado Sr. Mercado. Cada día te ofrece comprar o venderte tu parte del negocio a un precio diferente. A veces está eufórico y te ofrece mucho. A veces está deprimido y te la ofrece por casi nada.
 
-Por eso el largo plazo importa tanto.
+El Sr. Mercado es maníaco-depresivo. Sus cambios de humor son violentos e impredecibles.
 
-En el corto plazo, la bolsa es un mecanismo de votación. Cada día la gente vota (compra o vende) basándose en sus expectativas, sus emociones, sus necesidades de liquidez.
+La pregunta es: ¿dejas que el humor del Sr. Mercado determine el valor real de tu negocio? ¿O decides tú cuánto vale basándote en los fundamentales?
 
-En el largo plazo, la bolsa es una máquina de pesar. Pesa el valor real de los negocios.
+El inversor que entiende esto usa al Sr. Mercado. No le sigue.
 
-El inversor de corto plazo intenta adivinar los votos. El inversor de largo plazo confía en el pesaje.
+Cuando el Sr. Mercado ofrece precios bajos (caída del mercado), es una oportunidad de comprar más barato. Cuando ofrece precios altos (máximos del mercado), puede ser un momento de rebalancear o simplemente mantener.
+
+El drama desaparece cuando entiendes que el Sr. Mercado es el vendedor de segunda mano que pone precio según cómo se ha levantado, no según el valor real del objeto.
 
 ---
 
-## Capítulo 2: Las caídas son parte del sistema
+## Capítulo 3: Las caídas son parte del sistema
 
-La bolsa cae. Siempre ha caído periódicamente.
+La bolsa cae. Siempre ha caído. Volverá a caer.
 
-Las correcciones (caídas del 10-20%): ocurren aproximadamente cada 1-2 años.
-Los mercados bajistas (caídas del 20%+): ocurren cada 3-5 años en promedio.
-Las grandes crisis (caídas del 40-50%+): ocurren cada 10-15 años.
+Las correcciones (caídas del 10-20%) ocurren aproximadamente cada uno o dos años. Los mercados bajistas, con caídas superiores al 20%, llegan cada tres a cinco años en promedio. Las grandes crisis, con caídas del 40-50%, ocurren cada diez o quince años.
 
 No son anomalías. Son parte del funcionamiento normal del sistema.
 
-El dato que importa: en todos los casos históricos, los índices diversificados recuperaron y superaron sus máximos previos. El tiempo de recuperación varía. La recuperación, en todos los casos históricos en mercados desarrollados, ocurrió.
+El dato que importa — el que cambia todo cuando se entiende de verdad — es este: en todos los casos históricos, los índices diversificados de mercados desarrollados recuperaron sus máximos previos y los superaron. El tiempo de recuperación varía. La recuperación, en todos los casos históricos documentados, ocurrió.
 
-El problema no es que la bolsa caiga. El problema es cómo reaccionas cuando cae.
+Don Alberto miraba las noticias en 2008 cuando la bolsa caía un 50% y pensaba: "Menos mal que no puse nada ahí." Lo que don Alberto no vio es lo que pasó después. En los cinco años siguientes, el mercado global se multiplicó. Quien compró en el fondo de la crisis de 2008 y aguantó hasta hoy tiene retornos extraordinarios.
 
-Si vendes en la caída, conviertes una pérdida temporal en pérdida real y pierdes la recuperación.
-Si aguantas o incluso compras más, el tiempo trabaja para ti.
+Don Alberto, con su dinero en depósitos al 2%, no ganó eso. Pero tampoco vio las caídas. Lo que vio fue la erosión silenciosa de la inflación, año tras año, que tampoco aparece en los titulares.
 
----
-
-## Capítulo 3: El inversor más rentable del mundo
-
-Fidelity Investments, una de las mayores gestoras de fondos del mundo, analizó qué tipo de inversor tenía mejor rentabilidad en sus fondos.
-
-El resultado fue sorprendente.
-
-Los inversores con mejor rentabilidad eran los que habían olvidado que tenían una cuenta con Fidelity.
-
-Literalmente. Los que no habían hecho ninguna operación durante años porque no recordaban que tenían la cuenta.
-
-El segundo grupo con mejor rentabilidad: los inversores muertos. Cuya cuenta seguía activa pero que obviamente no tomaban ninguna decisión.
-
-La moraleja no es que morir mejora la rentabilidad. Es que la intervención frecuente empeora la rentabilidad.
-
-El mejor inversor en renta variable no es el más activo. Es el que deja que el sistema funcione.
+Las caídas visibles dan miedo. La erosión invisible no. Pero las dos cuestan dinero.
 
 ---
 
-## Capítulo 4: Lo que no debes hacer en bolsa
+## Capítulo 4: El inversor más rentable del mundo
 
-Esta lista es más útil que cualquier lista de lo que debes hacer.
+Fidelity Investments, una de las mayores gestoras de fondos del mundo, analizó en un estudio interno qué tipo de inversor obtenía mejor rentabilidad en sus fondos.
 
-**No seguir el mercado diariamente.** Ver cómo sube y baja el precio de tus inversiones cada día activa el sistema emocional. El sistema emocional toma malas decisiones de inversión.
+El resultado fue desconcertante.
 
-**No vender cuando cae.** Ya lo hemos dicho. Vale la pena repetirlo. Vender cuando cae es el error más costoso del inversor principiante.
+Los inversores con mejor rentabilidad eran los que habían olvidado que tenían una cuenta con Fidelity. Literalmente: personas que no habían hecho ninguna operación durante años porque no recordaban que tenían la cuenta.
 
-**No comprar lo que está "de moda".** Las acciones o sectores que están en boca de todos suelen estar ya sobrevalorados. El que entra último en una moda suele ser el que pierde.
+El segundo grupo con mejor rentabilidad: los inversores muertos. Cuya cuenta seguía activa pero que, obviamente, no tomaban ninguna decisión.
 
-**No tratar de adivinar el mercado.** "Ahora está alto, espero a que baje para comprar." El problema: nadie sabe cuándo va a bajar ni cuánto. La probabilidad de acertar el momento es similar a la de acertar una moneda.
+La conclusión no es que morir mejora la rentabilidad de tus inversiones. Es que la intervención frecuente empeora la rentabilidad. Que el mejor inversor en renta variable no es el más activo, el más informado ni el que sigue las noticias con más detalle. Es el que deja que el sistema funcione y no interrumpe el proceso.
 
-**No mirar el rendimiento de cada año como indicador.** Un año malo no indica que la estrategia está equivocada. La evaluación correcta es en períodos de al menos cinco años, idealmente diez.
+El cuñado lleva doce años "activo" en bolsa. Compra cuando sube. Vende cuando baja. Cambia de acción cuando lee algo prometedor. Tiene acciones de cuatro sectores diferentes "porque así diversifico".
 
----
+El cuñado no ha ganado dinero en bolsa en doce años.
 
-## Capítulo 5: Lo que sí debes hacer en bolsa
-
-**Invertir regularmente.** Independientemente de si el mercado está "bien" o "mal". La regularidad elimina la tentación de adivinar y aprovecha el dollar-cost averaging.
-
-**Invertir diversificado.** No todo en una empresa, un sector o un país. Los índices globales hacen esto automáticamente.
-
-**Tener un horizonte de al menos 10 años.** Si el dinero puede necesitarse antes, no debería estar en renta variable.
-
-**Ignorar las noticias sobre el mercado.** No porque las noticias sean falsas. Sino porque no son información accionable para el inversor de largo plazo.
-
-**Revisar el portfolio trimestralmente como máximo.** Para verificar que la distribución se mantiene aproximadamente correcta. No más.
-
-**Mantenerse cuando cae.** Y si puedes, aumentar la aportación. La caída es una oportunidad de comprar más barato.
+La inactividad estratégica no es pereza. Es la estrategia más eficaz documentada para el inversor individual a largo plazo.
 
 ---
 
-## Capítulo 6: La gestión de la volatilidad emocional
+## Capítulo 5: La anatomía de un error clásico
+
+Marta llevaba dos años invirtiendo 150 euros al mes en un fondo indexado cuando llegó la primera corrección seria.
+
+El mercado cayó un 18% en seis semanas.
+
+La cartera de Marta pasó de 3.600 euros a aproximadamente 2.950 euros en el papel.
+
+Marta recibió tres mensajes en una semana. Uno de su madre: "Dicen en la tele que la bolsa está muy mal, ¿no deberías sacar el dinero?" Uno de una amiga: "Yo lo saqué todo la semana pasada, menos mal." Y uno del cuñado de Carlos, que Marta conoce de reuniones: "Esto no ha hecho más que empezar. Va a bajar mucho más."
+
+Marta leyó los tres mensajes y no hizo nada.
+
+No porque fuera insensible al miedo. Sino porque había leído suficiente para saber que vender en una caída es exactamente lo que no hay que hacer. Y porque tenía el plan escrito: "Si el mercado cae, sigo aportando. No vendo."
+
+Cuatro meses después, el mercado había recuperado toda la caída.
+
+La amiga que vendió lo perdió todo. La madre que llamó con miedo no lo recuperó porque nunca invirtió. El cuñado que predijo más caídas compró "en el mejor momento" dos meses después del fondo, con el mercado ya subiendo.
+
+Marta, que no hizo nada, tiene hoy más dinero que si la corrección no hubiera ocurrido. Porque siguió comprando mientras todo caía, acumulando participaciones más baratas.
+
+---
+
+## Capítulo 6: Lo que no se debe hacer nunca en bolsa
+
+Hay cosas que los inversores de largo plazo aprenden a no hacer. No porque sean prohibidas. Sino porque cada vez que alguien las ha hecho, le ha costado dinero.
+
+No seguir el mercado diariamente. Ver cómo sube y baja el precio de las inversiones cada día activa el sistema emocional. Y el sistema emocional toma malas decisiones de inversión casi siempre.
+
+No vender cuando cae. La pérdida en papel no es una pérdida real. Solo se hace real cuando se vende. Aguantar convierte la pérdida temporal en ganancia futura.
+
+No comprar lo que está de moda. Las acciones o sectores que están en boca de todos suelen estar ya sobrevalorados. El que entra último en una moda es el que normalmente pierde.
+
+No intentar adivinar el momento de entrada. "Espero a que baje para comprar." El problema es que nadie sabe cuándo va a bajar, ni cuánto. La evidencia histórica es clara: quien intenta hacer market timing sistemáticamente lo hace peor que quien invierte con regularidad independientemente del precio.
+
+No evaluar la estrategia año a año. Un año malo no significa que la estrategia esté equivocada. La evaluación correcta es en períodos de al menos cinco años, idealmente diez.
+
+---
+
+## Capítulo 7: Lo que sí funciona
+
+Si la lista de lo que no hay que hacer es larga, la lista de lo que hay que hacer es corta. Y eso es una buena noticia.
+
+Invertir regularmente. Independientemente del estado del mercado. Cada mes, la misma cantidad. Esta regularidad elimina la tentación de adivinar y aprovecha el efecto del coste medio: compras más participaciones cuando el precio está bajo y menos cuando está alto, lo que reduce el precio medio de compra a lo largo del tiempo.
+
+Invertir diversificado. No todo en una empresa, un sector o un país. Los fondos indexados globales hacen esto automáticamente.
+
+Tener un horizonte temporal largo. Al menos diez años. Si el dinero puede necesitarse antes, no debería estar en renta variable.
+
+Ignorar las noticias del mercado a diario. No porque sean falsas, sino porque no son información útil para el inversor de largo plazo. El ruido del corto plazo no dice nada sobre el largo.
+
+Revisar el portfolio no más de una vez al trimestre. Para verificar que la distribución de activos sigue siendo la correcta. No más.
+
+Mantenerse cuando cae. Y si la situación personal lo permite, aumentar la aportación. La caída es una oportunidad de comprar más barato.
+
+---
+
+## Capítulo 8: Gestionar el miedo — el mayor reto real
 
 La mayor amenaza para el inversor en bolsa no es el mercado.
 
 Es su propio sistema emocional.
 
-El miedo cuando el portfolio cae.
-La codicia cuando sube y quiere más.
-El FOMO (miedo a quedarse fuera) cuando ve que algo ha subido mucho.
+El miedo cuando el portfolio cae. La codicia cuando sube y quiere más. El FOMO cuando ve que algo ha subido mucho y él no estaba. La angustia de ver números rojos en pantalla.
 
-Estas emociones producen decisiones que dañan la rentabilidad.
+Estas emociones son normales. Son humanas. Evolucionaron para protegernos en entornos físicos de peligro real, donde el miedo era adaptativo. En el contexto de la bolsa, donde la pérdida temporal es exactamente eso — temporal —, las mismas emociones producen decisiones que dañan la rentabilidad.
 
-Las estrategias para gestionar la volatilidad emocional:
+Hay estrategias concretas para gestionar esto.
 
-**No mirar el portfolio frecuentemente.** La frecuencia de revisión y la ansiedad financiera están correlacionadas positivamente. Menos revisiones = menos ansiedad.
+La primera: no mirar el portfolio con frecuencia. La correlación entre frecuencia de revisión y ansiedad financiera está documentada. Menos revisiones igual a menos ansiedad igual a menos decisiones impulsivas.
 
-**Tener un plan escrito.** Antes de que llegue la próxima caída, escribe lo que harás. "Si el portfolio cae más del 20%, seguiré invirtiendo la misma cantidad mensual y no venderé." Tener el plan escrito cuando estás tranquilo es más fiable que decidir bajo presión.
+La segunda: escribir el plan antes de que llegue la crisis. Antes de la próxima caída, escribe lo que harás: "Si el portfolio cae más del 20%, seguiré invirtiendo la misma cantidad mensual y no venderé nada." Tener eso escrito cuando estás tranquilo vale más que cualquier disciplina en el momento de pánico.
 
-**Pensar en unidades, no en euros.** Cuando el portfolio cae, las unidades (participaciones del fondo) no desaparecen. Solo cambia temporalmente su precio. Si tienes 1.000 participaciones, sigues teniendo 1.000 participaciones. El precio de cada una es temporal.
+La tercera: pensar en unidades, no en euros. Cuando el portfolio cae, las participaciones del fondo no desaparecen. Solo cambia temporalmente su precio. Si tienes 1.000 participaciones, sigues teniendo 1.000 participaciones. El precio de cada una es temporal. Las participaciones son reales.
 
----
-
-## Capítulo 7: La bolsa española vs. la bolsa global
-
-El IBEX 35 es el índice bursátil de referencia en España.
-
-Históricamente ha tenido un rendimiento inferior al S&P 500 y al MSCI World.
-
-Razones: está muy concentrado en bancos y utilities (sectores maduros con poco crecimiento). Tiene poca exposición al sector tecnológico, que ha sido el gran motor de rentabilidad en los últimos 15 años. Y la economía española, aunque resiliente, tiene estructura diferente a la americana o la global diversificada.
-
-Esto no significa que invertir en España sea malo. Significa que concentrar toda la inversión en España es asumir un riesgo de concentración geográfica innecesario.
-
-Un índice global (MSCI World, FTSE All-World) incluye exposición a España proporcionalmente a su peso en la economía mundial, que es aproximadamente el 1-2%.
-
-La diversificación geográfica es un componente crítico de una cartera robusta.
+Carlos adoptó una solución práctica: revisaba el portfolio el primer lunes de cada trimestre, durante no más de quince minutos, y lo cerraba. El resto del tiempo no lo miraba.
 
 ---
 
-## Capítulo 8: Cuándo vender
+## Capítulo 9: El caso real de la caída del 30%
 
-El inversor de largo plazo no vende frecuentemente. Pero hay momentos en que tiene sentido hacerlo.
+Carlos llevaba tres años invirtiendo 400 euros al mes cuando llegó la caída.
 
-**Cuando llega el momento de usar el dinero.** Si el plan era jubilarse a los 65 y la cartera tiene 25 años de crecimiento, llega el momento de ir vendiendo progresivamente para convertir el patrimonio en ingresos.
+Tenía aproximadamente 18.000 euros en su fondo indexado.
 
-**Cuando la distribución se desvía significativamente.** Si la renta variable ha crecido tanto que representa el 95% de la cartera cuando el objetivo era 80%, tiene sentido vender algo para rebalancear.
+El mercado cayó un 30% en cuatro meses.
 
-**Cuando las circunstancias cambian.** Si el horizonte temporal cambia (una enfermedad, un cambio de planes vital), puede tener sentido ajustar la distribución hacia activos menos volátiles.
+El portfolio de Carlos en pantalla: 12.600 euros.
 
-**Nunca por miedo al mercado.** Esta no es una razón para vender. Es la peor razón para vender.
+Perdió 5.400 euros en papel.
 
----
+El cuñado lo llamó: "¿Ves? Te dije que estaba caro. Yo vendí antes. Ahora espero el fondo y compro."
 
-## Capítulo 9: El caso práctico de una caída del 30%
+Carlos hizo lo que tenía escrito en su plan: no vendió nada. Siguió aportando 400 euros al mes.
 
-Supón que Carlos lleva tres años invirtiendo 400 euros mensuales.
+Esos 400 euros mensuales, durante la caída, compraban más participaciones que antes. Las participaciones que a 100 euros de precio solo compraba cuatro, ahora a 70 euros compraba cinco o seis.
 
-Tiene aproximadamente 18.000 euros en su fondo indexado.
+Dieciocho meses después, el mercado había recuperado toda la caída y superado el máximo anterior.
 
-El mercado cae un 30%.
+Carlos, con todas las participaciones compradas a precio de derribo durante la caída, tenía más patrimonio que si la caída no hubiera ocurrido.
 
-El portfolio de Carlos pasa a valer 12.600 euros en el papel.
+El cuñado, que esperó al "fondo perfecto", entró dos meses después de ese fondo, con el mercado ya subiendo. Se perdió el 15% de recuperación.
 
-Opciones de Carlos:
-
-**Opción A (error):** Vende para "limitar las pérdidas". Tiene 12.600 euros en efectivo. Espera a que el mercado "se estabilice". El mercado se recupera en 18 meses. Carlos sigue fuera. Eventualmente vuelve a entrar, pero se ha perdido la recuperación.
-
-**Opción B (correcto):** No vende. Sigue aportando 400 euros mensuales. Está comprando participaciones más baratas. En 18 meses, cuando el mercado se recupere, tiene más participaciones que si no hubiera caído.
-
-Carlos con Opción A, tres años después: probablemente menos patrimonio que si nunca hubiera invertido.
-
-Carlos con Opción B, tres años después: más patrimonio que si la caída no hubiera ocurrido.
-
-La caída es un regalo para el que no vende y sigue comprando.
+No vender cuando cae y seguir comprando no es heroísmo. Es matemática.
 
 ---
 
-## Capítulo 10: El drama que no existe
+## Capítulo 10: La bolsa en contexto
+
+La bolsa no es la solución a todos los problemas financieros.
+
+Es un vehículo de inversión a largo plazo que, dentro de un sistema financiero sólido, produce resultados extraordinarios.
+
+Fuera de ese sistema — sin fondo de emergencia, con deudas caras pendientes, con dinero que puede necesitarse en dos años — puede producir resultados terribles.
+
+El inversor que mete dinero en bolsa que necesitará el año próximo y luego lo vende en una caída porque lo necesita está usando mal el instrumento.
+
+No es culpa de la bolsa.
+
+La bolsa requiere tiempo. Y el tiempo requiere no necesitar ese dinero mientras trabaja.
+
+Por eso el orden del Método 5P importa: fondo de emergencia, deudas eliminadas, inversión regular. En ese orden. No al revés.
+
+---
+
+## Epílogo: El drama que no existe
 
 El drama de la bolsa es una construcción mediática.
 
 La bolsa no tiene drama. Tiene volatilidad.
 
-La volatilidad es el precio que se paga por el potencial de crecimiento. No una catástrofe. Un mecanismo.
+La volatilidad es el precio que se paga por el potencial de crecimiento a largo plazo. No es una catástrofe. Es un mecanismo. El mecanismo que permite que los activos de renta variable ofrezcan más rentabilidad que los de renta fija: porque el inversor asume una incomodidad temporal que la mayoría no está dispuesta a aguantar.
 
 El inversor que entiende esto no siente drama cuando el portfolio cae. Siente, en el mejor de los casos, la satisfacción de saber que está comprando más barato.
 
-El inversor que no lo entiende verá drama en cada titularidad. Y el drama le llevará a decisiones que le costarán dinero.
+El inversor que no lo entiende verá drama en cada titular. Y el drama le llevará a decisiones que le costarán dinero.
 
-La diferencia entre los dos no es el mercado. Es la educación financiera.
+La diferencia entre ambos no es el mercado. Es la educación financiera.
 
----
-
-## Epílogo: La bolsa sin dramas es la bolsa que funciona
-
-La bolsa funciona para quien la usa sin drama.
-
-Para quien invierte regularmente y no mira.
-Para quien aguanta las caídas sin vender.
-Para quien confía en el largo plazo cuando el corto plazo asusta.
-
-La bolsa no recompensa el nerviosismo. Recompensa la paciencia.
-
-El siguiente libro, "Fondos indexados vs. fondos activos: El debate que ya está resuelto", cierra el debate que los gestores de fondos activos no quieren que se cierre.
+El siguiente libro, "Fondos indexados vs. fondos activos: El debate que ya está resuelto", cierra con datos el debate que la industria de gestión activa preferiría que permaneciera abierto.
 
 ---
 

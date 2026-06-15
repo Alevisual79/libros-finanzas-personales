@@ -6,210 +6,216 @@
 
 ---
 
-## Prólogo: El aburrimiento que protege
+## Prólogo: Lo que don Alberto debería haber hecho
 
-Hay una parte de la cartera de inversión que nadie pone en el perfil de Instagram.
+Don Alberto no invirtió en bolsa durante cuarenta y tres años de vida laboral.
 
-No es glamurosa. No sube un 50% en un año. No tiene historias épicas de ganancias rápidas.
+Lo había decidido así en los noventa, después de ver las noticias sobre la crisis bursátil de 1987. "Eso no es para mí", había pensado. Y había dejado sus ahorros en depósitos bancarios, libretas y cuentas corrientes que "al menos no bajaban".
 
-Se llama renta fija. Y es el ancla que evita que la cartera se hunda cuando los mares se ponen muy movidos.
+Lo que don Alberto no supo calcular fue cuánto le costó esa decisión.
 
-La renta fija no te hará rico. Pero puede evitar que te arruines cuando el mercado de renta variable cae un 40% y tú tienes que vender.
+Sus depósitos bancarios, que le pagaban entre el 1% y el 3% según el año, no le protegieron de la inflación en los años en que esta superó esas cifras. En términos de poder adquisitivo real, su dinero perdió valor durante décadas de forma silenciosa.
 
-Y esa protección, valorada en términos de lo que evitas, puede valer mucho más que cualquier subida espectacular.
+Pero hay algo más que don Alberto no conocía: el término medio entre el depósito bancario y la bolsa. Entre el riesgo cero de perder capital y el riesgo máximo de ver caer un 40% en un año.
 
-Este libro es sobre la parte aburrida de la inversión. La que es necesaria aunque nadie quiera hablar de ella.
+Ese término medio se llama renta fija.
+
+No lo habría hecho rico. Pero habría hecho algo mejor que los depósitos. Y sin los sustos de la bolsa que don Alberto tanto temía.
 
 ---
 
-## Capítulo 1: Qué es la renta fija
+## Capítulo 1: Qué es la renta fija y por qué el nombre no engaña del todo
 
 La renta fija son instrumentos de deuda.
 
-Cuando compras renta fija, estás prestando dinero a alguien: un Estado, una empresa, un organismo supranacional.
+Cuando compras renta fija, estás prestando dinero: a un Estado, a una empresa, a un organismo supranacional como el Banco Europeo de Inversiones.
 
-A cambio, ese alguien te promete:
-- Devolverte el dinero prestado al cabo de un plazo (el vencimiento).
-- Pagarte un interés periódico durante ese plazo (el cupón).
+A cambio de ese préstamo, te prometen dos cosas: devolverte el dinero al cabo de un plazo (el vencimiento) y pagarte un interés periódico durante ese plazo (el cupón).
 
-El nombre "renta fija" viene de que los pagos están establecidos de antemano. Sabes cuánto vas a cobrar y cuándo.
+El nombre "renta fija" viene de que los pagos están establecidos de antemano. Cuando compras un bono del Estado español al 3% a cinco años, sabes que cobrarás el 3% anual durante cinco años y recuperarás el capital al final. No hay sorpresas en el flujo de caja.
 
-A diferencia de la renta variable (acciones), donde el retorno depende de cómo le va a la empresa y puede ser cualquier cosa.
+A diferencia de la renta variable (acciones), donde el retorno depende de cómo le va a la empresa y puede ser espectacular o catastrófico.
 
----
+La renta fija no te sorprende. Esa es su gran virtud y su gran limitación.
 
-## Capítulo 2: Los tipos de renta fija
-
-**Bonos del Estado (deuda pública):**
-El Estado emite bonos para financiarse. Te presta el Estado español, el alemán, el americano. La probabilidad de impago varía por país. Los estados con mayor solvencia pagan intereses más bajos (tienen menos riesgo). Los menos solventes pagan más (más riesgo).
-
-**Letras del Tesoro:**
-Deuda pública de corto plazo (3, 6 o 12 meses). En España, emitidas por el Tesoro Público. Rentabilidad conocida de antemano. Muy bajo riesgo.
-
-**Bonos corporativos:**
-Emitidos por empresas. Mayor riesgo que los estatales (las empresas pueden quebrar más fácilmente que los estados). Mayor rentabilidad potencial.
-
-**Fondos de renta fija:**
-Fondos que compran carteras diversificadas de bonos. Más conveniente para el inversor individual que comprar bonos individuales.
-
-**ETFs de renta fija:**
-Igual que los ETFs de renta variable, pero invirtiendo en carteras de bonos.
+El cuñado la llama "inversión de abuelos". El cuñado tiene razón en que no genera las historias épicas de la bolsa. Pero quien tiene solo renta variable descubrirá, en la primera caída grande, que los abuelos no eran tan tontos.
 
 ---
 
-## Capítulo 3: Las letras del Tesoro español
+## Capítulo 2: Los tipos de renta fija que existen
 
-En 2022-2023, las letras del Tesoro español se convirtieron en noticia por primera vez en mucho tiempo.
+La renta fija no es un instrumento único. Es una familia de instrumentos con características muy diferentes.
 
-Con los tipos de interés subiendo, las letras a 12 meses llegaron a ofrecer rentabilidades de más del 3,5% anual.
+Los bonos del Estado son deuda emitida por gobiernos para financiarse. El Estado español emite bonos. El alemán también. El americano también. La probabilidad de impago varía según el país: Alemania tiene riesgo casi cero, otros países europeos tienen más. A mayor riesgo, mayor interés que pagan.
 
-De repente, todo el mundo quería letras del Tesoro.
+Las letras del Tesoro son deuda pública de corto plazo: a tres, seis o doce meses. En España, el Tesoro Público las emite periódicamente. La rentabilidad se conoce de antemano. Son el instrumento de renta fija más accesible y seguro para el inversor individual español.
 
-¿Cómo funcionan exactamente?
+Los bonos corporativos son emitidos por empresas. Pagan más que los estatales porque las empresas pueden quebrar más fácilmente que los estados. A mayor riesgo de impago de la empresa, mayor interés.
 
-El Tesoro emite letras periódicamente en subastas. Puedes comprarlas directamente en la página del Banco de España o a través de tu banco.
-
-El proceso es simple:
-1. Te registras en el Banco de España (proceso online).
-2. Participas en la subasta indicando cuánto quieres invertir.
-3. El Tesoro te asigna letras a un precio ligeramente por debajo del valor nominal.
-4. Al vencimiento (3, 6 o 12 meses), recibes el valor nominal completo.
-5. La diferencia entre lo que pagaste y lo que recibes es tu rentabilidad.
-
-Sin comisiones del Banco de España (si compras directamente). Sin riesgo de quiebra del emisor en condiciones normales.
+Los fondos y ETFs de renta fija permiten al inversor individual acceder a carteras diversificadas de bonos sin tener que comprar cada bono individual. Son la forma más práctica de añadir renta fija a una cartera.
 
 ---
 
-## Capítulo 4: La relación inversa entre precio y rentabilidad
+## Capítulo 3: Las letras del Tesoro — la renta fija del inversor de a pie
 
-Hay un aspecto contraintuitivo de los bonos que hay que entender.
+En 2022 y 2023, las letras del Tesoro español se convirtieron en noticia por primera vez en décadas.
+
+Con los tipos de interés del Banco Central Europeo subiendo para combatir la inflación, las letras a doce meses llegaron a ofrecer rentabilidades superiores al 3,5% anual. El Tesoro Público veía colas de particulares en sus oficinas.
+
+Carlos lo vio en las noticias y pensó en don Alberto.
+
+"Si las letras dan el 3,5% sin riesgo y tu depósito da el 0,5%, ¿por qué sigues en el depósito?"
+
+Don Alberto encogió los hombros. "Siempre lo he puesto en el banco."
+
+Esa inercia, multiplicada por millones de personas durante décadas, es lo que hace que los bancos puedan pagar el 0,5% en cuentas de ahorro cuando el Tesoro paga el 3,5%.
+
+Las letras del Tesoro se compran directamente en la web del Banco de España sin comisiones. El proceso es simple: te registras, participas en la subasta indicando cuánto quieres invertir, el Tesoro te asigna las letras a un precio ligeramente inferior al nominal, y al vencimiento recibes el nominal completo. La diferencia es tu rentabilidad.
+
+Sin riesgo de quiebra del emisor en condiciones normales. Sin comisiones de banco. Con rentabilidad conocida de antemano.
+
+Es exactamente lo que don Alberto necesitaba durante cuarenta años.
+
+---
+
+## Capítulo 4: La relación inversa que confunde a todo el mundo
+
+Hay un aspecto de los bonos que resulta contraintuitivo hasta que se entiende bien.
 
 Cuando los tipos de interés suben, el precio de los bonos existentes baja.
 Cuando los tipos bajan, el precio de los bonos sube.
 
 ¿Por qué?
 
-Si tienes un bono que paga el 2% y el mercado ahora paga el 4%, tu bono al 2% vale menos en el mercado secundario. Nadie quiere un 2% cuando puede conseguir un 4%.
+Imagina que tienes un bono que paga el 2% anual. El banco central sube los tipos y ahora el mercado paga el 4% en bonos nuevos. ¿Quién quiere tu bono al 2% cuando puede comprar uno nuevo al 4%? Nadie, a menos que bajes el precio.
 
-Esto importa si compras fondos de renta fija, que tienen bonos de diferentes vencimientos y negocian en el mercado secundario.
+Si el precio del bono baja lo suficiente, la rentabilidad que ofrece (calculada sobre el precio actual) sube hasta equipararse con el mercado.
 
-Si compras una letra del Tesoro directamente y la mantienes hasta el vencimiento, no te afecta la fluctuación de precios. Recibes el capital y los intereses prometidos.
+Esto importa si compras fondos de renta fija, que invierten en bonos de diferentes vencimientos y los negocian en el mercado secundario.
 
-Si inviertes en un fondo de renta fija de largo plazo y los tipos suben durante tu período de inversión, el valor del fondo puede bajar. No hay impago. Solo fluctuación de precio.
+Si compras una letra del Tesoro directamente y la mantienes hasta el vencimiento, no te afecta esta fluctuación. Recibes el capital y los intereses prometidos, independientemente de lo que pase con los tipos mientras tanto.
 
----
-
-## Capítulo 5: La renta fija en la cartera
-
-La renta fija cumple dos funciones en una cartera diversificada.
-
-**Reducción de la volatilidad:** Cuando la renta variable cae, la renta fija tiende a ser más estable o incluso subir (los inversores buscan refugio). Tener renta fija amortigua las caídas de la cartera total.
-
-**Liquidez de emergencia:** La renta fija de corto plazo (letras a 3-12 meses) puede usarse como reserva de liquidez que rinde algo más que una cuenta de ahorro.
-
-La distribución tradicional:
-- Inversor joven con horizonte largo: 80-90% renta variable, 10-20% renta fija.
-- Inversor de mediana edad: 60-70% renta variable, 30-40% renta fija.
-- Inversor próximo a la jubilación: 40-50% renta variable, 50-60% renta fija.
-
-La lógica: cuanto más cerca del momento de necesitar el dinero, menos volatilidad puedes permitirte.
+Marta, que tiene su renta fija en letras del Tesoro directas compradas en el Banco de España, duerme tranquila cuando los tipos cambian. La rentabilidad de sus letras está fijada el día de la compra. El mercado puede hacer lo que quiera.
 
 ---
 
-## Capítulo 6: Fondos monetarios y cuentas remuneradas
+## Capítulo 5: Para qué sirve la renta fija en la cartera
 
-Entre el ahorro puro y la renta fija de plazo hay opciones intermedias.
+La renta fija cumple funciones concretas en una cartera bien estructurada.
 
-**Fondos monetarios:** Fondos que invierten en deuda de muy corto plazo y muy alta calidad. Rentabilidad próxima al tipo de interés del banco central. Riesgo mínimo. Liquidez casi inmediata.
+La primera: reducir la volatilidad. Cuando la renta variable cae, la renta fija tiende a comportarse de forma más estable o incluso subir (los inversores buscan activos refugio). Tener renta fija amortigua las caídas totales de la cartera.
 
-En el entorno de tipos al 3-4% (2023-2024), los fondos monetarios de alta calidad dieron rentabilidades similares. Una alternativa eficiente al fondo de emergencia para la parte que se puede inmovilizar algunos días.
+La segunda: proporcionar liquidez planificada. La renta fija de corto plazo (letras a tres, seis o doce meses) puede usarse para dinero que se necesitará en uno o dos años, generando algo de rentabilidad mientras espera sin estar expuesto a la volatilidad de la bolsa.
 
-**Cuentas remuneradas:** Muchos bancos, especialmente los neobancos, ofrecen cuentas de ahorro remuneradas que pagan un interés sobre el saldo. Más simple que los fondos monetarios. Liquidez total. Rentabilidad algo inferior.
+La tercera: reducción del riesgo global conforme se acerca el momento de usar el dinero. A los 40 años, con horizonte de 25 años, se puede tolerar ver caer el portfolio un 30%. A los 60, con el retiro en cinco años, esa caída puede ser catastrófica si hay que vender en el fondo.
 
-Para el fondo de emergencia: cuenta de ahorro remunerada o fondo monetario. Sencillo, líquido, algo de rentabilidad.
+La distribución clásica: inversor joven con horizonte largo, 80-90% renta variable y 10-20% renta fija. Inversor próximo al retiro, 40-50% renta variable y el resto en renta fija o equivalente.
 
-Para el dinero que no se necesita en 6-18 meses: letras del Tesoro directas o fondo monetario.
-
----
-
-## Capítulo 7: Bonos corporativos: más rentabilidad, más riesgo
-
-Los bonos corporativos (emitidos por empresas) pagan más que los bonos estatales.
-
-El diferencial se llama "spread". Si el bono del Estado alemán paga el 2% y el bono de una empresa paga el 4%, el spread es 2%.
-
-Ese spread es la compensación por el riesgo adicional: la empresa puede quebrar, lo que el Estado alemán es mucho menos probable que haga.
-
-Los bonos corporativos se clasifican por calidad crediticia:
-- **Investment grade (grado de inversión):** Empresas solventes. BBB- o superior según Standard & Poor's. Menor riesgo, menor rentabilidad.
-- **High yield (alto rendimiento, "bonos basura"):** Empresas con menor solvencia o más endeudadas. Mayor riesgo, mayor rentabilidad.
-
-Para el inversor conservador: solo investment grade.
-Para quien busca algo más de rentabilidad asumiendo más riesgo: puede añadir una pequeña parte de high yield.
+Carlos, a sus 42 años, tiene el 20% de su portfolio en renta fija. Ana, más conservadora por temperamento, le pidió que fuera el 25%. Llegaron a un acuerdo en el 22%.
 
 ---
 
-## Capítulo 8: La duración y el riesgo de tipo
+## Capítulo 6: Fondos monetarios — el término medio que casi nadie usa
 
-La duración de un bono o fondo de bonos indica su sensibilidad a los cambios de tipos de interés.
+Entre la cuenta de ahorro corriente y las letras del Tesoro hay una categoría que muy pocos inversores españoles conocen.
 
-Duración alta = más sensible a los tipos. Si los tipos suben 1%, el precio del bono puede caer varios puntos porcentuales.
+Los fondos monetarios.
 
-Duración baja (bonos de corto plazo) = menos sensible. Si los tipos suben 1%, el precio cae poco.
+Son fondos que invierten exclusivamente en deuda de muy corto plazo y muy alta calidad. Letras del Tesoro, repos bancarios, instrumentos del mercado monetario. Rentabilidad muy próxima al tipo de interés del banco central. Riesgo prácticamente mínimo. Liquidez casi inmediata.
 
-Por eso en entornos de tipos subiendo (como 2022-2023), los fondos de renta fija de larga duración perdieron mucho valor. Los de corta duración, mucho menos.
+En el entorno de tipos del 3-4% de 2023-2024, los fondos monetarios de alta calidad daban rentabilidades similares a las letras del Tesoro, con la ventaja adicional de poder salir en uno o dos días hábiles sin esperar al vencimiento.
 
-Para el inversor conservador sin mucha experiencia en renta fija: fondos de renta fija de corta y media duración. Menos rentabilidad potencial pero mucho menos riesgo de tipo.
+Para el fondo de emergencia de quien quiere algo de rentabilidad sin perder accesibilidad inmediata: los fondos monetarios son una alternativa seria a la cuenta de ahorro remunerada.
+
+Marta descubrió los fondos monetarios cuando tenía 8.000 euros en su fondo de emergencia parados en una cuenta al 0,5%. Pasó la mitad a un fondo monetario. El año siguiente cobró aproximadamente 140 euros de rentabilidad que antes no existían.
+
+Pequeño. Pero real. Y sin haber asumido riesgo adicional.
+
+---
+
+## Capítulo 7: Bonos corporativos — más rentabilidad, más riesgo
+
+Las empresas también emiten bonos para financiarse. Y pagan más que los estados porque tienen más riesgo de impago.
+
+Un bono corporativo de una empresa solvente (lo que se llama "investment grade") puede pagar entre el 3,5% y el 5% cuando el bono del Estado comparable paga el 2,5%. El diferencial es la compensación por el riesgo adicional.
+
+Hay bonos corporativos de menor calidad crediticia, llamados "high yield" o, menos diplomáticamente, "bonos basura". Pagan el 6-8% o más. Pero el riesgo de que la empresa no pueda devolver el dinero es significativamente mayor.
+
+El cuñado, que oyó hablar de los bonos corporativos al 8%, compró un fondo de high yield europeo. Dos años después, con las subidas de tipos, el fondo había caído un 15%.
+
+Carlos se quedó en renta fija de alta calidad: letras del Tesoro y un fondo indexado de bonos gubernamentales europeos. Menos glamuroso. Más predecible.
+
+Para el inversor conservador que se adentra en la renta fija: investment grade. Para quien quiere explorar más riesgo: una pequeña parte en high yield como complemento, no como núcleo.
+
+---
+
+## Capítulo 8: La duración y por qué importa
+
+Hay un concepto técnico en renta fija que es importante entender para no llevarse sorpresas.
+
+La duración mide la sensibilidad de un bono o fondo de bonos a los cambios en los tipos de interés.
+
+Bono a corto plazo (1-3 años de vencimiento): baja duración, poca sensibilidad a los tipos. Si los tipos suben un 1%, el precio cae muy poco.
+
+Bono a largo plazo (10-30 años de vencimiento): alta duración, mucha sensibilidad. Si los tipos suben un 1%, el precio puede caer un 8-15%.
+
+En 2022, cuando el BCE subió los tipos agresivamente, los fondos de renta fija a largo plazo perdieron entre un 15% y un 25% de su valor. Muchos inversores que creían tener algo "seguro" se llevaron un disgusto mayúsculo.
+
+La lección: en renta fija, la duración importa. Para el inversor conservador que no quiere sustos, la renta fija de corta y media duración es más apropiada. Rentabilidad algo menor. Pero eso es exactamente lo que dice el nombre: para los que no quieren sustos.
 
 ---
 
 ## Capítulo 9: La cartera permanente de Harry Browne
 
-Harry Browne, economista americano, propuso en los años 80 una cartera llamada "Permanent Portfolio" (Cartera Permanente).
+Harry Browne, economista americano, diseñó en los años ochenta una cartera llamada "Cartera Permanente".
 
-La distribución es radicalmente simple:
-- 25% acciones (renta variable)
-- 25% bonos del Estado a largo plazo
-- 25% oro
-- 25% liquidez (letras del Tesoro o similar)
+La distribución: 25% acciones, 25% bonos del Estado a largo plazo, 25% oro, 25% liquidez (letras del Tesoro o equivalente).
 
-La lógica: las cuatro categorías se comportan bien en diferentes entornos económicos. Acciones en prosperidad, bonos en deflación, oro en inflación, liquidez en recesión. La cartera siempre tiene algo que funciona bien.
+La lógica es elegante: las cuatro categorías se comportan bien en diferentes entornos económicos. Las acciones prosperan en crecimiento económico. Los bonos a largo plazo se aprecian en deflación. El oro protege en inflación. La liquidez aguanta en recesión.
 
-Históricamente, ha producido rentabilidades más bajas que 100% renta variable, pero con mucha menos volatilidad.
+La cartera siempre tiene algo que funciona bien, aunque no todo al mismo tiempo.
 
-Para inversores con baja tolerancia al riesgo o que se acercan al retiro: una variante de la cartera permanente puede ser muy adecuada.
+Históricamente ha producido rentabilidades algo menores que una cartera 100% renta variable. Pero con mucha menos volatilidad. Un año pésimo para la cartera permanente es perder el 4-5%. Un año pésimo para 100% renta variable puede ser perder el 40%.
 
----
+Para don Alberto, que priorizaba no ver caídas, una versión de la cartera permanente habría sido infinitamente mejor que sus depósitos bancarios al 1%.
 
-## Capítulo 10: La renta fija en el contexto del Método 5P
-
-En el Método 5P, la renta fija encaja principalmente en el Pilar 5 (Patrimonio) como complemento de la renta variable.
-
-No es el instrumento principal de construcción de patrimonio. Eso es la renta variable a largo plazo.
-
-Es el amortiguador. El estabilizador. Lo que hace que la cartera sea más sobrevivible cuando los mercados se ponen feos.
-
-Su proporción en la cartera debe ir aumentando conforme el horizonte temporal se acorta y la necesidad de preservar el capital crece.
-
-Carlos, a los 42 años con horizonte de 23 años: 80% renta variable, 20% renta fija.
-
-Carlos a los 60 años, con horizonte de 5 años: probablemente 50% renta variable, 50% renta fija o más conservador aún.
-
-La transición gradual de mayor a menor riesgo conforme se acerca el momento de usar el dinero: eso se llama "glide path". Y es la estrategia más sensata para el inversor de largo plazo.
+Para Carlos, que tiene horizonte largo y tolerancia media al riesgo, el núcleo sigue siendo más agresivo en renta variable. Pero la idea de la cartera permanente le recordó por qué el 20% en renta fija tiene sentido.
 
 ---
 
-## Epílogo: El aburrimiento que funciona
+## Capítulo 10: La renta fija en las diferentes etapas de la vida
 
-La renta fija es el ingrediente aburrido de la inversión.
+La proporción correcta de renta fija no es fija. Cambia con la vida.
 
-Sin ella, la cartera puede ser más rentable en los buenos tiempos. Y mucho más dolorosa en los malos.
+A los 25 años, con cuarenta años de horizonte de inversión por delante: el 10% en renta fija es suficiente. La renta variable tiene décadas para recuperarse de cualquier caída.
 
-Con ella, sacrificas un poco de rentabilidad potencial a cambio de dormir mejor cuando el mercado de acciones cae un 30%.
+A los 45, con veinte años de horizonte: el 20-30% en renta fija da estabilidad sin sacrificar excesivo crecimiento.
 
-Para muchos inversores, ese intercambio es uno de los más inteligentes que pueden hacer.
+A los 60, con cinco o diez años hasta necesitar el dinero: el 40-50% en renta fija o más. El tiempo ya no es suficiente para recuperar una caída del 40% en renta variable.
 
-El siguiente libro, "Inmobiliario sin ser millonario", explora otra clase de activo que muchos consideran pero pocos acceden de forma eficiente.
+Este desplazamiento gradual de más riesgo a menos riesgo conforme se acerca el momento de usar el dinero se llama "glide path". Es la estrategia que usan los mejores fondos de pensiones del mundo.
+
+No porque sean conservadores. Sino porque entienden que proteger el capital acumulado en los últimos años antes del retiro vale más que optimizar la rentabilidad marginal.
+
+Don Alberto no tenía glide path. Tenía solo depósitos. El resultado: 920 euros de pensión.
+
+Carlos tiene un plan. Y en ese plan, la renta fija va creciendo gradualmente conforme los años pasan.
+
+---
+
+## Epílogo: El aburrimiento inteligente
+
+La renta fija es el ingrediente más aburrido de la inversión.
+
+No genera historias para contar. No sube el 50% en un año. No tiene community managers ni influencers que la recomienden en YouTube.
+
+Pero en el momento en que la bolsa cae un 30% y el inversor con solo renta variable está a punto de vender por el miedo, el inversor con una parte en renta fija mira su cartera y respira. No ha caído tanto. Puede aguantar. Puede incluso comprar más renta variable con el dinero de la parte estable.
+
+Esa capacidad de aguantar no tiene precio en los mercados bajistas.
+
+La renta fija no te hace rico. Pero puede hacer que lo que ya tienes no desaparezca en el peor momento.
+
+El siguiente libro, "Inmobiliario sin ser millonario", explora cómo acceder a la inversión en bienes raíces sin necesitar el capital para comprar un piso.
 
 ---
 
