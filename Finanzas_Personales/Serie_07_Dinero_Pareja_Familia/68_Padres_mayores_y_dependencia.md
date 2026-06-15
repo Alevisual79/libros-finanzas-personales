@@ -6,141 +6,155 @@
 
 ---
 
-## Prólogo: La generación sándwich
+## Prólogo: El sándwich de Don Alberto
 
-Hay un nombre para las personas que están atrapadas entre dos responsabilidades de cuidado simultáneas.
+Don Alberto tiene setenta y un años.
+
+Cobra novecientos veinte euros de pensión. Vive solo desde que su mujer murió hace cuatro años. Tiene el piso propio, que es su mayor activo. Tiene un hijo, que es quien alquiló la plaza de garaje vacía por cien euros al mes cuando Don Alberto no supo qué hacer con ella.
+
+El hijo de Don Alberto tiene cuarenta y tres años. Tiene dos hijos en edad escolar y una hipoteca. Gana bien pero no sobra. Y en los últimos dos años ha ido absorbiendo de forma silenciosa una parte creciente de los gastos de su padre: la factura del médico privado cuando las esperas en el centro de salud eran demasiado largas, la reparación del calentador, el taxi al hospital, las pastillas que la Seguridad Social no cubre del todo.
+
+No son cantidades grandes. Son ciento cincuenta euros este mes, doscientos el siguiente, cuatrocientos cuando hubo el ingreso hospitalario. Suman. Y el hijo de Don Alberto no ha hecho la cuenta completa porque sabe que si la hiciera, la cifra lo incomodaría. No porque no quiera ayudar. Sino porque no había planificado ayudar de esa manera, y el dinero sale de donde sale.
+
+El hijo de Don Alberto está en el sándwich: sus hijos por un lado, su padre por el otro, y él en el medio intentando mantener todo sin que ningún extremo se desmorone.
+
+Esta situación no es extraordinaria. Es cada vez más frecuente, y casi nadie la planifica antes de que empiece a ocurrir.
+
+---
+
+## Capítulo 1: La generación sándwich
+
+Hay un nombre para las personas que están simultáneamente sosteniendo dos responsabilidades de cuidado.
 
 La generación sándwich.
 
-Hijos que todavía dependen. Padres que empiezan a necesitar ayuda. Y en el medio, personas de 40-55 años que intentan mantener sus propias vidas, carreras y salud financiera mientras responden a las necesidades de los dos extremos.
+Hijos que todavía dependen económica y emocionalmente. Padres que empiezan a necesitar ayuda. Y en el medio, personas de cuarenta a cincuenta y cinco años que intentan mantener sus propias vidas, carreras y salud financiera mientras responden a las necesidades de los dos extremos.
 
-En España, este fenómeno es especialmente pronunciado. La cultura del cuidado familiar intenso, las pensiones insuficientes de muchos mayores, y el alto coste de las residencias y servicios de asistencia crean una presión financiera que muchas familias no han planificado.
+En España, este fenómeno tiene características propias que lo intensifican. La cultura del cuidado familiar es muy fuerte: no está bien visto desentenderse de un padre que necesita ayuda, y hay una expectativa social implícita de que los hijos asumen esa responsabilidad. Las pensiones de muchos mayores son insuficientes para una vida digna, especialmente si hay gastos de salud. Y el coste de los servicios privados de cuidado es elevado mientras los públicos tienen listas de espera que pueden durar meses o años.
 
----
-
-## Capítulo 1: La realidad de las pensiones españolas
-
-El sistema de pensiones español ha sido generoso para las generaciones anteriores. Don Alberto, con 67 años y 40 años cotizados, cobra 920 euros al mes.
-
-Ese nivel no es suficiente para vivir con comodidad en la mayoría de ciudades españolas. Especialmente si hay gastos de salud, medicamentos o necesidades de adaptación del hogar.
-
-Y muchos mayores tienen pensiones aún más bajas. Personas que trabajaron intermitentemente, en economía informal, o que dependían económicamente de su cónyuge.
-
-La realidad es que muchos padres mayores en España necesitan ayuda económica de sus hijos, sea explícita (transferencias directas) o implícita (comidas compartidas, transporte, gestiones).
+Carlos, a sus cuarenta y dos años, empieza a ver la sombra de esto en el horizonte. Sus padres tienen setenta y dos y setenta años. Por ahora están bien. Pero "por ahora" es exactamente eso, y Carlos sabe que no tiene ningún plan para cuando dejen de estarlo.
 
 ---
 
-## Capítulo 2: Los costes del cuidado de mayores
+## Capítulo 2: La realidad de las pensiones españolas
 
-Cuando un padre o madre necesita cuidados intensivos, los costes se disparan.
+El sistema de pensiones español fue generoso para las generaciones anteriores. Don Alberto, con cuarenta y tres años cotizados, cobra novecientos veinte euros. Es más de lo que tiene mucha gente de su generación.
 
-**Servicio de ayuda a domicilio:** 15-25 euros/hora. Una cuidadora a tiempo completo (40 horas semanales): 2.400-4.000 euros al mes.
+Novecientos veinte euros al mes no es suficiente para vivir con comodidad en la mayoría de ciudades españolas, especialmente si hay gastos de salud, medicamentos crónicos, o necesidad de adaptar el hogar a los años. Puede ser suficiente para vivir ajustado si no hay imprevistos. No lo es si los hay.
 
-**Residencia de mayores:** 1.500-4.000 euros al mes según el tipo (pública, concertada, privada) y los servicios incluidos. En muchas zonas de España no hay plazas públicas disponibles.
+Y muchos mayores tienen pensiones aún más bajas. Mujeres que trabajaron intermitentemente o que no trabajaron fuera de casa y cobran pensión de viudedad. Trabajadores autónomos que cotizaron por la base mínima durante años. Personas con carreras interrumpidas que no llegan al período mínimo de cotización completo.
 
-**Adaptación del hogar:** Barras, rampas, cambio de bañera por plato de ducha, ascensor. Puede costar entre 3.000 y 20.000 euros según la situación.
+La pensión media en España está alrededor de mil doscientos euros para los hombres y novecientos para las mujeres, diferencia que refleja décadas de desigualdad en el mercado laboral. En cualquier caso, ambas cifras son insuficientes si aparecen gastos de cuidado significativos.
 
-**Medicamentos y sanitario:** Con enfermedades crónicas, puede sumar 200-500 euros al mes en copagos y tratamientos.
-
-El coste anual de cuidado intensivo de un mayor puede oscilar entre 20.000 y 50.000 euros. Es un impacto brutal en las finanzas de los hijos si no está planificado.
+Lo que significa en práctica es que muchos padres mayores necesitan alguna forma de ayuda de sus hijos, sea explícita, en forma de transferencias de dinero, o implícita, en forma de tiempo, transporte, gestiones, comidas y presencia.
 
 ---
 
-## Capítulo 3: El sistema de dependencia en España
+## Capítulo 3: Los costes del cuidado de mayores
 
-España tiene un sistema público de atención a la dependencia (SAAD) que, en teoría, ayuda a cubrir estos costes.
+Cuando un padre o madre necesita cuidados intensivos, los costes pueden ser de una magnitud que muy pocas familias han calculado de antemano.
 
-En la práctica:
-- Los trámites son largos y complejos
-- Las listas de espera para servicios públicos pueden durar meses o años
-- Las prestaciones económicas son limitadas y a menudo insuficientes
-- No todas las personas con necesidades reales califican
+La cuidadora a domicilio, si se quiere mantener al mayor en su propia casa, cuesta entre quince y veinticinco euros la hora para servicios por horas. Una cuidadora a tiempo completo, cuarenta horas semanales más los fines de semana, puede costar entre dos mil cuatrocientos y cuatro mil euros al mes. Más los gastos asociados de Seguridad Social si se contrata de forma legal.
 
-El sistema existe y hay que conocerlo. Pero depender solo de él para el cuidado de los padres es asumir un riesgo significativo.
+Una residencia de mayores oscila entre mil quinientos y cuatro mil euros al mes dependiendo del tipo, la ubicación y los servicios incluidos. Las plazas públicas son significativamente más económicas pero en muchas ciudades la lista de espera supera los dos años.
 
----
+La adaptación del hogar cuando el mayor quiere seguir en casa pero necesita adaptaciones: barras en el baño, cambio de bañera por plato de ducha a ras de suelo, rampa de acceso si hay escalones, posiblemente silla salvaescaleras si hay escaleras interiores. Entre tres mil y veinte mil euros según la magnitud.
 
-## Capítulo 4: La conversación con los padres (antes de que sea urgente)
+Los medicamentos y gastos sanitarios no cubiertos completamente por la Seguridad Social: copagos, productos de ortopedia, algunos medicamentos, citas con especialistas privados cuando las esperas en el sistema público son largas. Pueden sumar entre ciento cincuenta y quinientos euros al mes en casos de enfermedades crónicas.
 
-Como con las herencias, la conversación sobre el futuro de cuidado de los padres es mucho más fácil cuando no es urgente.
-
-Temas a cubrir:
-- ¿Tienen ahorro propio para el cuidado futuro?
-- ¿Han tramitado el certificado de discapacidad/dependencia si aplica?
-- ¿Tienen seguro de dependencia?
-- ¿Han otorgado poderes notariales para que un hijo pueda actuar en su nombre?
-- ¿Cuáles son sus preferencias sobre el tipo de cuidado (en casa, residencia)?
-- ¿Han hecho testamento?
-
-Estas conversaciones son difíciles de iniciar. Pero quien las tiene ahorra a su familia meses de gestión de emergencia bajo presión.
+El coste anual de cuidado intensivo de un mayor puede oscilar entre veinte mil y cincuenta mil euros. Es un impacto que destruye la planificación financiera de los hijos si no está previsto.
 
 ---
 
-## Capítulo 5: El poder notarial: la herramienta más infrautilizada
+## Capítulo 4: El sistema de dependencia en España
 
-Si un padre enferma o pierde capacidad cognitiva sin haber dado poderes a alguien, los hijos no pueden actuar en su nombre para gestiones bancarias, médicas, administrativas.
+España tiene un sistema público de atención a la dependencia que, en teoría, ayuda a cubrir estos costes cuando la persona acredita un grado de dependencia suficiente.
 
-Para poder hacerlo sin poder notarial, habría que iniciar un proceso judicial de tutela o curatela, que puede durar meses y costar varios miles de euros en honorarios.
+En la práctica, el sistema tiene limitaciones reales que conviene conocer antes de depender de él.
 
-El poder notarial preventivo, otorgado mientras el padre está en plenas facultades, permite que un hijo actúe en su nombre para cualquier gestión. Cuesta unos 100-200 euros. Y puede ahorrar años de complicaciones.
+Los trámites son largos y complejos: solicitud, valoración, resolución, elaboración del Plan Individual de Atención, que es cuando realmente empieza a recibirse el servicio o la prestación. Desde la solicitud hasta recibir algo pueden pasar entre seis meses y dos años.
 
-Es una de las gestiones más urgentes que puede hacer una familia cuando los padres superan los 65-70 años.
+Las prestaciones económicas son limitadas. La prestación máxima para el grado más severo de dependencia, Grado III, está en torno a cuatrocientos ochenta euros al mes para una cuidadora en el entorno familiar. No cubre una cuidadora profesional a tiempo completo.
 
----
+Las plazas en residencias públicas concertadas tienen listas de espera. En algunas comunidades autónomas esas listas superan los dos años.
 
-## Capítulo 6: Cuándo y cómo ayudar económicamente a los padres
+Y no todas las personas con necesidades reales de cuidado califican para los grados más altos. La evaluación es subjetiva y puede no reflejar la situación real.
 
-Hay diferentes formas de ayudar económicamente a los padres:
-
-**Ayuda directa regular:** Transferencia mensual para completar la pensión o cubrir gastos extra. Es la más común y la más sencilla.
-
-**Pago de servicios:** Pagar directamente la cuidadora, la residencia, o los tratamientos médicos. Tiene ventajas fiscales en algunos casos.
-
-**Vivienda compartida:** El padre o madre se muda con el hijo. Elimina el coste de la residencia pero tiene coste en espacio, privacidad y, en muchos casos, en la relación de pareja.
-
-**Gestor del patrimonio del mayor:** Si el padre tiene patrimonio (un piso, ahorros), gestionar que ese patrimonio cubra sus propios cuidados antes de que los hijos pongan dinero propio.
+El sistema existe y hay que conocerlo y aprovechar todo lo que ofrece. Pero diseñar un plan de cuidado que dependa exclusivamente de él es asumir un riesgo significativo.
 
 ---
 
-## Capítulo 7: El impacto en la propia jubilación del cuidador
+## Capítulo 5: La conversación antes de que sea urgente
 
-Hay un coste que pocas personas calculan cuando ayudan a sus padres.
+Como con las herencias, la conversación sobre el futuro de los padres es exponencialmente más fácil cuando no es urgente.
 
-El coste en su propia jubilación.
+Cuando un padre enferma o sufre una caída y ya necesita ayuda de forma inmediata, no hay tiempo para planificar. Se reacciona, se improvisa, se gasta lo que hace falta, se generan tensiones entre hermanos sobre quién hace qué, y todo ocurre mientras hay un duelo parcial por la pérdida de autonomía del padre.
 
-Quien reduce su jornada para cuidar a un padre pierde cotizaciones, pierde progresión salarial, pierde capacidad de ahorro e inversión en sus mejores años laborales.
+Cuando la conversación se tiene con tiempo, se puede planificar con calma.
 
-El efecto se multiplica: en España, el cuidado informal de mayores recae desproporcionadamente en mujeres. Y esas mujeres llegan a su propia jubilación con pensiones menores, menos ahorro propio, y mayor riesgo de pobreza en la vejez.
+Las preguntas que vale la pena hacer cuando los padres todavía están bien incluyen: ¿tienen ahorro propio para cubrir cuidados futuros?, ¿han tramitado el certificado de discapacidad o dependencia si ya tienen alguna limitación?, ¿tienen seguro de dependencia?, ¿han otorgado poderes notariales para que un hijo pueda actuar en su nombre?, ¿cuáles son sus preferencias sobre el tipo de cuidado, en casa, con hijos, en residencia?
 
-Quien cuida a sus padres tiene que ser consciente de este coste y compensarlo de alguna manera (si el padre tiene patrimonio que puede contribuir, si la familia se distribuye el esfuerzo, si hay acceso a servicios públicos).
+Esta última pregunta es importante porque muchas familias asumen que el padre querrá vivir con ellos cuando ya no pueda vivir solo, cuando en realidad el padre podría preferir una residencia bien gestionada con su círculo social propio. Y al contrario.
+
+El hijo de Don Alberto no tuvo esta conversación. Empezó a gestionar los gastos de su padre de forma reactiva, sin saber si había ahorros disponibles, sin saber cuál era la voluntad de su padre sobre el tipo de cuidado, y sin saber si sus hermanos, que viven más lejos, tenían alguna expectativa al respecto.
+
+---
+
+## Capítulo 6: El poder notarial: herramienta imprescindible
+
+Si un padre pierde capacidad cognitiva, ya sea por demencia, accidente cerebrovascular u otra causa, sin haber dado poderes notariales a alguien de su familia, los hijos no pueden actuar en su nombre para gestiones bancarias, médicas ni administrativas.
+
+Para poder hacerlo sin ese poder, habría que iniciar un proceso judicial de tutela o curatela, que puede durar meses, que requiere abogado y procurador, y que cuesta varios miles de euros en honorarios.
+
+El poder notarial preventivo, otorgado mientras el padre está en plenas facultades, permite que un hijo actúe en su nombre para cualquier gestión cuando sea necesario. Cuesta entre cien y doscientos euros en el notario. Y puede evitar meses de complicaciones y miles de euros de costes legales en el peor momento.
+
+Es una de las gestiones más urgentes que puede hacer una familia cuando los padres superan los sesenta y cinco o setenta años. Y es de las que más se postergan, exactamente por las mismas razones que se pospone la conversación sobre herencias: hablar de ello parece anticipar lo que nadie quiere que ocurra.
+
+Don Alberto no tiene poder notarial otorgado a su hijo. Su hijo lo sabe y lo tiene pendiente. Lleva dos años teniéndolo pendiente.
+
+---
+
+## Capítulo 7: Cómo ayudar sin arruinarse
+
+Hay diferentes formas de ayudar económicamente a los padres, y no todas tienen el mismo impacto sobre las propias finanzas.
+
+La ayuda directa regular, una transferencia mensual para completar la pensión o cubrir gastos extra, es la más común y la más sencilla de gestionar. Pero hay que acordarla de forma explícita, ponerla en el presupuesto propio, y no dejarla crecer de forma indefinida sin revisión.
+
+El pago directo de servicios, pagar directamente la cuidadora o la residencia, tiene ventajas fiscales en algunos casos: puede ser deducible en el IRPF como gasto de atención a mayores dependientes.
+
+La vivienda compartida, el padre o madre que se muda con el hijo, elimina el coste de la residencia pero tiene un coste diferente: espacio, privacidad, impacto en la dinámica de la pareja y en el espacio de los niños. Carlos y Ana han hablado de esto con la distancia cómoda de que todavía no es necesario. Ninguno de los dos sabe bien qué respondería si mañana fuera urgente.
+
+Antes de poner dinero propio, conviene verificar si el padre tiene patrimonio propio que pueda cubrir sus cuidados. El piso de Don Alberto, si se vendiera o si se pusiera en alquiler a precio de mercado, generaría una renta que pagaría gran parte de una cuidadora. El hijo de Don Alberto no ha hablado de esto todavía.
 
 ---
 
 ## Capítulo 8: Cuando los hermanos no se ponen de acuerdo
 
-El cuidado de padres mayores es, junto con las herencias, la fuente de conflictos familiares más frecuente.
+El cuidado de padres mayores es, junto con las herencias, la fuente de conflictos entre hermanos adultos más frecuente y más destructiva.
 
-Suele haber un hermano que cuida más. Que lleva al médico, que gestiona los trámites, que pone dinero. Y otros que están más lejos, que trabajan mucho, que tienen sus propias situaciones.
+El patrón más común: hay un hermano que vive más cerca, que tiene más flexibilidad laboral o que simplemente tiene más predisposición al cuidado. Ese hermano acaba haciendo más. Los otros están más lejos, trabajan más horas, tienen sus propias circunstancias.
 
-El resentimiento del cuidador principal hacia los hermanos que menos hacen es una de las dinámicas más destructivas de las familias adultas.
+Con el tiempo, el desequilibrio se hace insostenible. El cuidador principal acumula agotamiento y resentimiento. Los demás no siempre ven la magnitud de lo que el otro está haciendo porque no lo viven desde cerca.
 
-La solución: acordar desde el principio cómo se distribuye el cuidado. No cuando ya hay desequilibrio y resentimiento acumulado.
+La conversación difícil que hay que tener, idealmente antes de que el desequilibrio se establezca, es: ¿quién hace qué? ¿Cómo se distribuye el cuidado? ¿Cómo se compensan las aportaciones diferentes?
 
-"¿Quién se encarga de qué?" es una conversación difícil pero necesaria. Y quien cuida más (en tiempo, en dinero, en esfuerzo) debería recibir algún tipo de compensación o reconocimiento, aunque sea en la distribución de la herencia posterior.
+Quien cuida más en tiempo debería hacer menos en dinero. Quien no puede estar presente puede compensar económicamente. Quien cuida de forma intensiva durante años debería tener eso en cuenta en la futura distribución de la herencia, o al menos acordar que se reconocerá de alguna forma.
+
+Sin esa conversación, la herencia que llega después puede verse empañada por años de resentimiento no dicho.
 
 ---
 
-## Capítulo 9: El seguro de dependencia
+## Capítulo 9: El coste en la propia jubilación del cuidador
 
-Existe un producto de seguros llamado seguro de dependencia que cubre los costes de cuidado cuando la persona pierde autonomía.
+Hay un coste del cuidado de padres que casi nadie calcula: el que recae sobre la propia jubilación de quien cuida.
 
-Lo pueden contratar los propios padres (si todavía son jóvenes y sanos) o los hijos para sus padres.
+Quien reduce su jornada para cuidar a un padre pierde cotizaciones a la Seguridad Social, que se traducen en una pensión propia menor. Pierde progresión salarial porque queda fuera de proyectos y responsabilidades. Pierde capacidad de ahorro e inversión en los años en que el interés compuesto todavía puede hacer trabajo significativo.
 
-El coste varía enormemente según la edad y el estado de salud. Para una persona de 55 años sana, puede ser 50-100 euros al mes. Para alguien de 70, puede ser 200-400 euros.
+En España, el cuidado informal de mayores recae desproporcionadamente en mujeres de entre cuarenta y sesenta años. Esas mismas mujeres llegan a su propia jubilación con pensiones menores, menos ahorro propio, y mayor riesgo de pobreza en la vejez. Es una transferencia de riesgo generacional que el sistema no aborda bien.
 
-En España está infrautilizado, en parte porque el sistema público de dependencia genera la falsa sensación de que "ya está cubierto".
+Quien cuida a sus padres tiene que ser consciente de este coste invisible y pensar en cómo compensarlo: si el padre tiene patrimonio que puede contribuir a sus propios cuidados, si la distribución entre hermanos puede ser más equitativa, si hay acceso a servicios que permitan mantener la carrera propia mientras se cuida.
 
-Para quien puede permitírselo y tiene padres en edad adecuada, es una herramienta que puede ahorrar decenas de miles de euros.
+No es egoísmo. Es sostenibilidad.
 
 ---
 
@@ -148,16 +162,13 @@ Para quien puede permitírselo y tiene padres en edad adecuada, es una herramien
 
 La generación sándwich tiene el riesgo de agotarse cuidando de todos menos de sí misma.
 
-Hay un principio en la aviación: en caso de emergencia, el adulto se pone primero la mascarilla de oxígeno antes de ayudar a otros. No porque sea egoísta. Sino porque si el adulto se desmaya, no puede ayudar a nadie.
+Hay un principio en la aviación que los padres conocen bien por los vuelos con sus hijos: en caso de emergencia, el adulto se pone primero la mascarilla de oxígeno antes de ayudar a otros. No por egoísmo. Sino porque si el adulto se desmaya, no puede ayudar a nadie.
 
-Cuidar de los padres es un acto de amor. Pero tiene que tener límites para ser sostenible.
+Cuidar a los padres es un acto de amor y de responsabilidad. Pero tiene que tener límites para ser sostenible a largo plazo.
 
-Esos límites incluyen:
-- No desfinanciar la propia jubilación para pagar los cuidados de los padres (los padres tienen una jubilación, aunque pequeña; tú todavía tienes que construir la tuya)
-- No sacrificar la propia salud física y mental en el cuidado intensivo sin apoyo
-- Pedir ayuda: a hermanos, a servicios públicos, a servicios privados si es posible
+Esos límites incluyen no desfinanciar la propia jubilación para pagar los cuidados de los padres. Los padres tienen una pensión, aunque pequeña. Quien cuida tiene que construir todavía la suya. No sacrificar la propia salud física y mental en el cuidado intensivo sin apoyo externo, porque el agotamiento del cuidador es una realidad clínica con consecuencias serias. Y no asumir que cuidar significa hacerlo todo uno solo: pedir ayuda a hermanos, a servicios públicos, a servicios privados si es posible y necesario.
 
-Cuidar de los padres de forma sostenible requiere planificación, comunicación y la valentía de poner también los propios límites en la conversación.
+Carlos no tiene todavía esta presión. Pero sabe que viene. Y la diferencia entre gestionarla planificadamente y gestionarla reactivamente puede ser enorme para sus finanzas, para su relación con sus padres y para su propia salud.
 
 ---
 
@@ -165,13 +176,13 @@ Cuidar de los padres de forma sostenible requiere planificación, comunicación 
 
 Hay algo circular en el cuidado familiar.
 
-Tus padres te cuidaron cuando no podías hacerlo por ti mismo. Ahora, si pueden, te cuidas entre todos.
+Los padres cuidan a los hijos cuando estos no pueden hacerlo por sí mismos. Los hijos cuidan a los padres cuando ya no pueden cuidarse solos. Y en medio de ese ciclo, las finanzas son el sustrato que hace posible o imposible ese cuidado.
 
-Ese ciclo tiene una dimensión económica que hay que gestionar bien para que no destruya las relaciones ni las finanzas de nadie.
+Planificar con tiempo, tener las conversaciones difíciles antes de que sean urgentes, distribuir responsabilidades de forma equitativa y proteger también la propia situación económica son las herramientas que convierten el cuidado de los padres en algo que fortalece a la familia en lugar de desgastarla.
 
-Planificar, comunicar, distribuir y aceptar ayuda son las herramientas.
+El hijo de Don Alberto lo está haciendo lo mejor que puede sin haber planificado nada. Podría hacerlo mejor. Y Don Alberto, que sabe lo que sabe sobre el dinero a estas alturas de su vida, también podría haberlo facilitado más si hubiera tenido estas conversaciones antes.
 
-El siguiente libro, "El dinero en familias separadas", explora una realidad cada vez más frecuente: cuando la familia se reconforma después de una ruptura y los gastos de los hijos cruzan hogares y nuevas parejas.
+El siguiente libro, "El dinero en familias separadas", explora una realidad cada vez más frecuente: cuando la familia se reconforma después de una ruptura y los gastos de los hijos cruzan entre hogares y nuevas parejas.
 
 ---
 
