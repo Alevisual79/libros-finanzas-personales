@@ -6,35 +6,45 @@
 
 ---
 
-## Prólogo: La pregunta que nadie se hace
+## Prólogo: La noche que Carlos hizo el cálculo
 
-¿Cuánto necesitas para no trabajar nunca más?
+Era martes. Las once y cuarto de la noche.
 
-No cuánto quisieras tener. Cuánto necesitas.
+Los hijos estaban dormidos. Ana también. Carlos tenía la pantalla del portátil iluminando la cocina a oscuras.
 
-La mayoría de personas no saben la respuesta.
+Tenía una hoja de cálculo abierta, un café frío a la derecha y una pregunta que no había podido quitarse de la cabeza desde que, esa mañana en el trabajo, había visto a un compañero de cincuenta y ocho años llorando en el baño. Reducción de plantilla. Después de veintidós años en la empresa.
 
-Unos dicen "un millón de euros" porque suena bien. Otros dicen "mucho más de lo que nunca voy a tener" porque la libertad financiera les parece inalcanzable. Otros ni se lo plantean porque asumen que trabajarán hasta la jubilación estatal.
+La pregunta era simple y Carlos nunca había sabido responderla con precisión: ¿cuánto dinero necesito para no depender de que alguien decida si conservo mi puesto o no?
 
-El número es la pieza más importante del puzzle de la libertad financiera. Sin él, no hay destino. Sin destino, no hay mapa. Sin mapa, no hay camino.
+No cuánto quería. Cuánto necesitaba.
 
-Este libro te enseña a calcular tu número. Con la precisión que merece una de las decisiones más importantes de tu vida.
+Empezó a escribir números. Gastos mensuales en libertad financiera: alrededor de 2.200 euros. Sin hipoteca ya pagada, con los hijos fuera de casa. Anualizados: 26.400 euros. Multiplicado por veinticinco, como había leído que se hacía.
+
+660.000 euros.
+
+Carlos miró el número. Lo miró durante un rato largo.
+
+No era una cifra imposible. Era el equivalente a invertir alrededor de 800 euros al mes durante veinte años con una rentabilidad razonable. Carlos llevaba tres años con el Método 5P. Si se mantenía, ese número era alcanzable aproximadamente a los 62 años.
+
+No la libertad a los 40 que prometían algunos youtubers. Pero sí una fecha real. Una cifra real. Una meta real.
+
+Por primera vez, Carlos durmió esa noche con algo que no era angustia. Era dirección.
 
 ---
 
 ## Capítulo 1: Qué es la libertad financiera
 
-La libertad financiera es el estado en el que tus activos generan suficientes ingresos para cubrir tus gastos de vida, sin necesidad de trabajar activamente.
+La libertad financiera es el estado en el que tus activos generan suficientes ingresos para cubrir tus gastos de vida sin necesidad de trabajar activamente.
 
 No es riqueza extrema. Es autosuficiencia.
 
 La diferencia es importante.
 
-Para ser libre financieramente no necesitas vivir en un yate. Necesitas que tus inversiones, dividendos, rentas o ingresos pasivos cubran tu nivel de vida elegido.
+Para ser libre financieramente no necesitas vivir en una mansión o tener varios coches de lujo. Necesitas que tus inversiones, dividendos, rentas o ingresos pasivos cubran tu nivel de vida elegido, el que hayas diseñado para ti.
 
-Si tu nivel de vida cuesta 2.000 euros al mes y tus activos generan 2.000 euros al mes: eres libre financieramente.
+Si tu nivel de vida cuesta 2.000 euros al mes y tus activos generan 2.000 euros al mes: eres libre financieramente. Da igual que alguien más tenga diez millones.
 
-Da igual que alguien más tenga diez millones. La libertad financiera no es relativa. Es la independencia de tu tiempo respecto a la necesidad de un sueldo.
+Don Alberto no entendió esto durante décadas. Pensaba que la libertad financiera era para los ricos, para los que ganaban mucho más que él. Lo que no vio es que la libertad financiera no es relativa a lo que tienen otros. Es la independencia de tu tiempo respecto a la necesidad de un sueldo. Y eso depende de tus gastos, no de los de tu vecino.
 
 ---
 
@@ -42,168 +52,155 @@ Da igual que alguien más tenga diez millones. La libertad financiera no es rela
 
 La regla del 4% es el fundamento matemático de la libertad financiera.
 
-Surgió de un estudio llamado "The Trinity Study" (1998), que analizó la probabilidad de que una cartera de inversión sobreviviera a 30 años de retiro con diferentes tasas de retirada.
+Surgió de un estudio académico conocido como el Trinity Study, publicado en 1998, que analizó la probabilidad de que una cartera de inversión sobreviviera a treinta años de retiro con diferentes tasas de retirada anual.
 
-La conclusión: una cartera diversificada (acciones y bonos) puede soportar una retirada anual del 4% de su valor inicial ajustado por inflación, con una probabilidad de supervivencia superior al 95% en períodos de 30 años.
+La conclusión del estudio fue llamativa: una cartera bien diversificada entre acciones y bonos puede soportar una retirada anual equivalente al 4% de su valor inicial, ajustado por inflación cada año, con una probabilidad de supervivencia superior al 95% en períodos de treinta años.
 
-Traducido a lenguaje humano: si tienes 500.000 euros invertidos, puedes retirar 20.000 euros al año (4%) sin que el dinero se acabe en 30 años, con altísima probabilidad.
+Traducido a lenguaje cotidiano: si tienes 500.000 euros invertidos en una cartera equilibrada, puedes retirar 20.000 euros al año (el 4% de 500.000) sin que el dinero se acabe en treinta años, con una probabilidad altísima de que el dinero aguante. La cartera sigue creciendo mientras haces esas retiradas.
 
-La regla del 4% tiene críticos. Para horizontes más largos (FIRE a los 35 años implica 50+ años de retiro), algunos expertos recomiendan el 3% o el 3,5% para más seguridad.
-
-Pero como regla de referencia inicial, el 4% es el punto de partida.
+La regla del 4% tiene matices y críticos. Para horizontes de retiro más largos, como ocurre cuando alguien se retira a los cuarenta y cinco y podría vivir cincuenta años más, muchos expertos recomiendan usar el 3% o el 3,5% para añadir margen de seguridad. Pero como regla de referencia inicial para tener una primera idea del número, el 4% es el punto de partida estándar.
 
 ---
 
-## Capítulo 3: Calcular tu número
+## Capítulo 3: Cómo calcular tu número
 
-La fórmula es simple.
+La fórmula es matemáticamente simple.
 
-**Tu número = Gastos anuales × 25**
+Tu número es igual a tus gastos anuales multiplicados por veinticinco. Esto es exactamente equivalente a la regla del 4%: si tienes un patrimonio igual a veinticinco veces tus gastos anuales, puedes retirar el 4% cada año y eso cubrirá exactamente tus gastos.
 
-(Equivalente al 4% de retirada: si tienes X euros y retiras el 4%, eso son X/25 euros. Despejando X: gastos anuales × 25.)
+El primer paso, y el más importante, es calcular tus gastos anuales en la vida que quieres vivir. No la vida de hoy. La vida en libertad financiera.
 
-El primer paso: calcular tus gastos anuales en la vida que quieres vivir.
+¿Dónde vivirás? ¿Tendrás hipoteca o habrá sido ya pagada? ¿Con qué frecuencia viajarás? ¿Habrá hijos dependientes todavía o ya no? ¿Qué aficiones quieres desarrollar? ¿Comerás fuera con frecuencia o cocinarás en casa?
 
-No la vida de ahora. La vida que quieres tener en libertad financiera.
+Estas preguntas determinan el número. Cambiar la respuesta a cualquiera de ellas puede cambiar el número en decenas de miles de euros.
 
-¿Dónde vivirás? ¿Con qué nivel de comodidad? ¿Qué actividades harás? ¿Tendrás hijos en casa todavía o ya no?
+Carlos hizo el ejercicio esa noche en la cocina. Vida en libertad financiera: sigue en su ciudad, hipoteca pagada, hijos mayores e independientes, gastos moderados pero holgados. Estimó 2.200 euros al mes, 26.400 anuales. Su número resultó 660.000 euros.
 
-Estos factores determinan el nivel de gasto que tu cartera tiene que cubrir.
-
-Carlos hace el ejercicio.
-
-Vida en libertad financiera: sigue en su ciudad, alquiler o hipoteca pagada, dos hijos mayores, gastos moderados.
-
-Gasto mensual estimado en libertad financiera: 2.200 euros.
-Gasto anual: 26.400 euros.
-Su número: 26.400 × 25 = **660.000 euros**.
-
-Eso es el patrimonio invertido que Carlos necesita para ser libre financieramente.
+El cuñado, si hiciera el mismo ejercicio, probablemente estimaría 4.000 euros al mes porque no concibe vivir con menos. Su número sería 1.200.000 euros. Que no tiene ni tiene forma realista de acumular si sigue comprando gadgets y apostando en SafeMoon.
 
 ---
 
 ## Capítulo 4: Los factores que ajustan el número
 
-El número calculado con la regla de 25x es un punto de partida. Hay factores que lo ajustan.
+El número calculado con la fórmula de los 25x es un punto de partida. Hay factores reales que lo ajustan, y entenderlos puede hacer que la cifra baje considerablemente.
 
-**La pensión reducirá el número:** Si cuando te retires recibirás una pensión (aunque sea pequeña), eso reduce cuánto tiene que cubrir tu cartera.
+La pensión pública reduce el número. Si cuando alcances la libertad financiera o cuando llegues a la jubilación estatal recibirás una pensión, esa pensión cubre parte de tus gastos. Solo la parte que excede la pensión tiene que venir de la cartera.
 
-Si Carlos a los 65 recibirá 900 euros de pensión, necesita cubrir con la cartera solo 1.300 euros al mes (2.200 - 900). Su número se reduce a 390.000 euros.
+Si Carlos a los 65 recibirá 900 euros de pensión y sus gastos en libertad financiera son 2.200 euros al mes, solo necesita que la cartera cubra 1.300 euros al mes (1.300 × 12 × 25 = 390.000 euros). Casi la mitad del número original desaparece por el simple hecho de contar la pensión.
 
-**El horizonte temporal afecta al porcentaje de retirada:** Si te retiras a los 45 y tienes un horizonte de 50 años, la regla del 4% puede ser demasiado agresiva. Con 50 años de horizonte, muchos expertos recomiendan el 3-3,5%.
+Don Alberto, con sus 920 euros de pensión, cubre casi la mitad de una vida sencilla de 1.800 euros al mes con solo la pensión. Si hubiera invertido durante cuarenta años en lugar de tener depósitos al 0,5%, la otra mitad estaría cubierta por la cartera. Pero nunca calculó su número.
 
-Con el 3,5%: Tu número = Gastos anuales × 28,6
+El horizonte temporal también ajusta el porcentaje de retirada. Marta, que quiere retirarse a los 50 y podría vivir hasta los 90 o más, tiene un horizonte de cuarenta años, no treinta. Para ese horizonte, la tasa de retirada segura baja del 4% al 3,5% o incluso al 3%, lo que significa multiplicar los gastos anuales por 28 o 33 en lugar de 25. Su número sube.
 
-**Los ingresos adicionales reducen el número:** Si tienes negocios que generan ingresos pasivos, rentas de alquiler u otras fuentes, estas reducen cuánto tiene que proveer la cartera de inversión.
-
----
-
-## Capítulo 5: El número y la inflación
-
-El número que calculas hoy tiene que seguir siendo válido en 10, 20, 30 años.
-
-La inflación erosiona el poder adquisitivo. 2.000 euros de hoy no comprarán lo mismo en 2045.
-
-Hay dos formas de protegerse de la inflación en la libertad financiera.
-
-**La regla del 4% ya lo contempla parcialmente:** El estudio Trinity asume que reajustas la retirada por inflación cada año. Así, en el año 1 retiras el 4% inicial, y en los años siguientes retiras la misma cantidad ajustada por inflación.
-
-**La cartera de inversión crece con la economía:** Históricamente, las acciones han crecido por encima de la inflación a largo plazo. Una cartera bien diversificada en renta variable tiene protección inflacionaria incorporada.
-
-Para horizontes muy largos, tener una parte de la cartera en activos protegidos contra la inflación (REITs, bonos ligados a la inflación, oro) añade robustez adicional.
+Los ingresos adicionales como rentas de alquiler, dividendos de inversiones ya existentes, o un negocio que genera ingresos pasivos, reducen la parte que tiene que cubrir la cartera de inversión.
 
 ---
 
-## Capítulo 6: El número de Marta
+## Capítulo 5: El número de Marta
 
-Marta, 31 años. Objetivo: libertad financiera a los 50.
+Marta tiene 31 años y un objetivo claro: libertad financiera antes de los 50.
 
-Vida objetivo: diseño por placer (no por necesidad), viajes moderados, ciudad de tamaño medio.
+No "jubilación" en el sentido clásico. Marta seguirá diseñando si le apetece. Pero quiere que sea opcional. Que si un cliente le hace una propuesta irrespetuosa pueda decir que no sin que eso signifique no pagar el alquiler.
 
-Gasto mensual estimado en libertad financiera: 1.800 euros.
-Gasto anual: 21.600 euros.
-Horizonte: 19 años hasta el objetivo.
-Horizonte de retiro: 40+ años.
+Hizo el ejercicio de calcular su número con precisión.
 
-Con horizonte tan largo, Marta usa el 3,5% como tasa de retirada segura.
+Vida objetivo: ciudad de tamaño medio, piso de alquiler modesto o comprado, viajes dos veces al año, diseño por placer cuando le apetezca. Estimó 1.800 euros al mes, 21.600 anuales.
 
-Su número = 21.600 / 0.035 = **617.143 euros** (o redondeando: 620.000 euros).
+Con un horizonte de retiro de cuarenta años o más, Marta usa el 3,5% como tasa de retirada segura. La fórmula: gastos anuales divididos entre 0,035. Su número resulta aproximadamente 617.000 euros.
 
-¿Es alcanzable para Marta en 19 años?
+¿Es alcanzable en diecinueve años, de 31 a 50?
 
-Si Marta consigue invertir 800 euros al mes a un retorno real del 7% durante 19 años: aproximadamente 400.000 euros.
+Si Marta invierte 800 euros al mes con una rentabilidad real del 7% anual, al cabo de diecinueve años tendría aproximadamente 400.000 euros. No llega al número completo.
 
-No llega al número. Pero si aumenta el ingreso (ingresos adicionales del negocio) o reduce el gasto objetivo, el gap se cierra.
+Pero si su ebook sigue creciendo, si añade el mini-curso, si sube ligeramente sus tarifas de diseño, puede aumentar la aportación mensual a 1.100-1.200 euros. Con eso, los 617.000 euros son alcanzables antes de los 50.
 
-El número define el destino. Luego se trabaja para alcanzarlo.
+El número no garantiza que llegue. Pero sin el número, ni siquiera sabe hacia dónde apuntar.
 
 ---
 
-## Capítulo 7: El número no es fijo
+## Capítulo 6: El número y la inflación
 
-El número puede cambiar con el tiempo.
+El número que calculas hoy tiene que seguir siendo válido en diez, veinte, treinta años.
 
-Tus gastos cambian. Tus prioridades cambian. Tu situación cambia.
+La inflación erosiona el poder adquisitivo de forma silenciosa. Los 2.200 euros de hoy no comprarán lo mismo en 2045. Ignorar la inflación en el cálculo de la libertad financiera es construir el plan sobre arena.
 
-Un número calculado a los 30 puede ser muy diferente al que calculas a los 45.
+Hay dos mecanismos que protegen el número de la inflación.
 
-Por eso la libertad financiera no es un destino fijo que persigues durante décadas sin ajustar. Es un horizonte que vas recalculando cada vez que tienes información nueva.
+El primero ya está incorporado en la regla del 4%: el estudio Trinity asume que cada año reajustas la cantidad que retiras según la inflación del año anterior. Si el año 1 retiras 20.000 euros y la inflación ese año es del 3%, el año 2 retiras 20.600 euros. La cartera tiene que soportar esas retiradas crecientes, y históricamente lo ha hecho.
 
-La revisión anual del número es un buen hábito. Preguntarte: ¿han cambiado mis gastos objetivo? ¿Han cambiado mis fuentes de ingreso? ¿Ha cambiado mi horizonte temporal?
+El segundo es la propia naturaleza de las inversiones en renta variable. Las acciones representan participación en empresas que venden productos y servicios a precios que suben con la inflación. Históricamente, la bolsa ha crecido por encima de la inflación a largo plazo. Una cartera con porcentaje significativo de renta variable tiene protección inflacionaria incorporada en su naturaleza.
 
-Con la respuesta a esas preguntas, ajustas el número y el plan.
+Para horizontes muy largos, añadir activos específicamente protegidos contra la inflación (REITs que tienen rentas que suben con el IPC, bonos ligados a la inflación, o una pequeña posición en oro) añade robustez adicional.
 
 ---
 
-## Capítulo 8: Más allá del número: el número mínimo
+## Capítulo 7: El número mínimo y el número objetivo
 
-Hay un concepto útil: el número mínimo.
+Hay un concepto que Carlos encontró útil para tener perspectiva: el número mínimo.
 
-Es el patrimonio con el que podrías vivir de forma austera pero cubriendo todas las necesidades.
+Es el patrimonio con el que podría vivir de forma austera pero cubriendo todas las necesidades. Sin lujos. Sin extras. Pero con la hipoteca cubierta, la comida cubierta, los suministros cubiertos, sin necesitar un sueldo.
 
-Para Carlos: una vida muy simple costaría quizás 1.400 euros al mes (alquiler modesto, comida básica, sin extras). Su número mínimo: 1.400 × 12 × 25 = 420.000 euros.
+Para Carlos, una vida muy sencilla costaría quizás 1.400 euros al mes, 16.800 al año. Su número mínimo sería 420.000 euros.
 
-Saber el número mínimo es útil porque:
-1. Define cuándo tienes el "safety net" de poder parar si necesitas hacerlo.
-2. Ayuda a evaluar si estás sobreinflando el número objetivo con gastos que en realidad no son esenciales.
+Por encima de eso está el número objetivo, los 660.000 euros que calculó esa noche. La diferencia, 240.000 euros, representa los viajes ocasionales, las cenas fuera, los caprichos razonables, la comodidad extra.
 
-La brecha entre el número mínimo y el número objetivo es la "zona de lujo". No hay problema en tenerla. Pero conocerla ayuda a tomar decisiones informadas.
+Saber el número mínimo tiene valor práctico. Primero, define cuándo tiene el colchón de seguridad suficiente para poder parar si las circunstancias lo exigen: una enfermedad, una oportunidad que no puede perderse, el deseo de cambiar de vida antes de tiempo. Segundo, ayuda a evaluar si el número objetivo está inflado con gastos que, en realidad, no son imprescindibles para la vida que se quiere.
+
+La brecha entre el número mínimo y el número objetivo es la "zona de holgura". No hay nada malo en querer esa holgura. Pero conocerla con precisión hace que las decisiones sean más conscientes.
+
+---
+
+## Capítulo 8: El número no es fijo
+
+Carlos calculó su número por primera vez a los 42. Cuando tenga 50, el número será diferente.
+
+Quizás los hijos habrán terminado los estudios y los gastos familiares habrán bajado. Quizás habrán cambiado de ciudad. Quizás Ana habrá heredado algo. Quizás el negocio secundario generará más de lo que generaba en el plan original.
+
+El número cambia porque la vida cambia.
+
+Por eso la libertad financiera no es un cálculo que se hace una vez y se persigue sin revisión durante veinte años. Es un horizonte que se recalcula regularmente cuando hay información nueva. La revisión anual del número es un hábito que vale la pena incorporar: ¿han cambiado mis gastos objetivo? ¿Han cambiado mis fuentes de ingreso previstas? ¿Ha cambiado mi horizonte temporal o mis prioridades de vida?
+
+Con las respuestas, se ajusta el número y se ajusta el plan.
+
+No es señal de que el plan fue mal. Es señal de que el plan está vivo y se adapta a la realidad.
 
 ---
 
 ## Capítulo 9: El camino desde donde estás hasta el número
 
-El número es el destino. El camino depende de:
+El número es el destino. El camino para llegar depende de cuatro variables.
 
-**Cuánto tienes ya:** Si partes de cero, el tiempo necesario es mayor. Si tienes algo ahorrado e invertido, es la base sobre la que construir.
+Cuánto tienes ya invertido, que es la base de partida. Partir de cero no es lo mismo que partir con 50.000 euros ya invertidos.
 
-**Cuánto puedes invertir cada mes:** A mayor inversión mensual, más rápido llegas.
+Cuánto puedes invertir cada mes, que es el motor de acumulación. A mayor aportación mensual, más rápido se llega.
 
-**El retorno de inversión:** A mayor retorno anual (dentro de lo razonable y sostenible), antes llegas.
+La rentabilidad esperada de las inversiones, que es lo que el interés compuesto multiplica con el tiempo. Usando el 7% real anual como referencia histórica de carteras diversificadas a largo plazo.
 
-**El tiempo disponible:** A más años de inversión, mayor el impacto del interés compuesto.
+El tiempo disponible, que es el factor que más subestima la mayoría. Veinte años de inversión consistente transforma cantidades modestas en cifras significativas gracias al interés compuesto.
 
-La calculadora de libertad financiera más simple:
+Carlos lo modeló: partiendo de lo que ya tiene invertido (unos 18.000 euros), aportando 700-800 euros al mes, a un 7% anual, llegará a sus 660.000 euros aproximadamente a los 62 años. Si la segunda fuente de ingresos crece y puede aportar 1.000 euros al mes, la fecha se adelanta unos años.
 
-Pon en una hoja de cálculo tu número objetivo. Pon el retorno anual esperado (7% real como referencia histórica). Pon la cantidad que puedes invertir cada mes. Calcula cuántos años te llevarás.
+Si el tiempo que sale en el cálculo propio es más del que se desea, hay tres palancas para ajustar: aumentar la aportación mensual, reducir el número objetivo revisando el estilo de vida, o aceptar más tiempo y trabajar la paciencia.
 
-Ese es el mapa.
-
-Si el tiempo que sale es más del que quieres, tienes tres palancas: aumentar la inversión mensual, reducir el número (revisar el estilo de vida objetivo) o aceptar más tiempo.
+No hay una cuarta opción mágica. El número tiene su lógica matemática y esa lógica no negocia.
 
 ---
 
 ## Capítulo 10: El número como brújula
 
-No todo el mundo llegará a su número.
+No todo el mundo llegará exactamente a su número.
 
-Las circunstancias cambian. Los planes se ajustan. La vida es menos predecible que cualquier hoja de cálculo.
+Las circunstancias cambian. Los mercados varían. Los planes se ajustan. La vida no sigue hojas de cálculo.
 
-Pero el número sirve como brújula.
+Pero el número hace algo que no tiene precio: convierte una aspiración vaga en una meta concreta.
 
-Sin número, cualquier dirección parece válida. Con número, cada decisión financiera puede evaluarse: ¿esto me acerca o me aleja de mi número?
+Sin número, cualquier dirección parece tan válida como cualquier otra. Con número, cada decisión financiera puede evaluarse con una pregunta simple: ¿esto me acerca o me aleja de mi número?
 
-Esa claridad es transformadora.
+Ese criterio, aplicado año tras año a decisiones de ahorro, inversión, gasto y generación de ingresos, tiene un efecto acumulativo enorme. No porque cada decisión individual sea transformadora, sino porque la dirección acumulada de miles de pequeñas decisiones orientadas al mismo norte hace una diferencia que ninguna decisión puntual puede producir.
+
+Don Alberto nunca tuvo número. Se jubiló con 920 euros de pensión.
+
+Carlos tiene número. Y sabe que cada mes que invierte es un mes que se acerca.
 
 ---
 
@@ -211,15 +208,13 @@ Esa claridad es transformadora.
 
 El ejercicio más importante de este libro es calcular tu número esta semana.
 
-No el perfecto. El aproximado.
+No el perfecto. No el definitivo. El aproximado, el que da una primera orientación.
 
-Gastos mensuales en tu vida objetivo × 12 × 25 = tu número aproximado.
+Gastos mensuales en tu vida objetivo, multiplicados por 12, multiplicados por 25. Ese es tu número.
 
-Escríbelo. Ponlo donde lo veas.
+Escríbelo. Ponlo donde lo veas. No para obsesionarte, sino para tener un destino al que orientar las decisiones que vienen.
 
-Luego, en los próximos libros de esta serie, vemos cómo llegar.
-
-El siguiente libro, "FIRE: El movimiento que asusta a los bancos", explora el fenómeno de la jubilación anticipada y cómo aplicarlo a la realidad española.
+El siguiente libro de esta serie, "FIRE: El movimiento que asusta a los bancos", explora qué ocurre cuando la meta es llegar al número mucho antes de los 65, y cómo aplicar ese enfoque a la realidad española sin necesidad de vivir en una cabaña sin calefacción.
 
 ---
 
