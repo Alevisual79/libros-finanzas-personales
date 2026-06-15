@@ -1,207 +1,300 @@
 # ETFs: El instrumento que los ricos no quieren que conozcas
 
-## Cómo funcionan, por qué son casi perfectos y cómo usarlos desde hoy
+## Cómo funcionan, por qué son casi perfectos y cómo empezar hoy aunque no sepas nada de bolsa
 
 **Serie Finanzas Personales — Serie 4: Inversión desde Cero — Libro 2 de 10**
 
 ---
 
-## Prólogo: La democratización de la inversión
+## Prólogo: El despacho del banco
 
-Hasta hace relativamente poco, acceder a una cartera diversificada de acciones globales requería capital considerable o comisiones elevadas de un gestor.
+Carlos entró al banco con 400 euros en la cuenta y una pregunta muy concreta.
 
-Los ETFs cambiaron eso.
+Quería empezar a invertir. Por fin. Después de dos años eliminando deudas, construyendo el fondo de emergencia y leyendo más sobre finanzas que en toda su vida anterior, sentía que había llegado el momento. No quería hacerse rico de golpe. Solo quería que su dinero no se pudriera en la cuenta corriente mientras la inflación lo erosionaba.
 
-Con un ETF, una persona con 100 euros puede tener una participación en las 500 empresas más grandes de Estados Unidos, o en las 1.500 empresas líderes del mundo desarrollado.
+La asesora del banco le recibió con una sonrisa profesional.
 
-Por un coste anual de menos del 0,1%.
+"Perfecto, Carlos. Para alguien que empieza, lo más recomendable es nuestro Fondo Mixto Conservador Europa Selección. Lleva gestionándolo nuestro equipo de analistas treinta años. Es muy seguro y tiene una comisión anual del 1,7%."
 
-Eso es democratización real de la inversión. No porque alguien lo decidió altruistamente. Sino porque el mercado creó un producto eficiente que cualquiera puede usar.
+Carlos asintió. No tenía criterio todavía para cuestionar eso.
 
-Este libro explica exactamente cómo funcionan, cuáles son los más interesantes y cómo empezar a usarlos hoy.
+Esa noche, ya en casa, buscó en internet qué era exactamente ese fondo. Y encontró algo que le dejó paralizado: ese fondo, con sus 1,7% de comisión anual y su equipo de analistas, había obtenido en los últimos diez años una rentabilidad media del 3,2% anual.
 
----
+Un ETF indexado al mundo entero, con una comisión del 0,2% anual, había obtenido en ese mismo período una rentabilidad media del 9,1% anual.
 
-## Capítulo 1: Qué es un ETF exactamente
+La diferencia no era pequeña.
 
-ETF significa Exchange Traded Fund. Fondo Cotizado en Bolsa.
+Sobre una inversión de 400 euros mensuales durante diez años, la diferencia entre el 3,2% y el 9,1% no es de unos pocos euros. Es de más de 25.000 euros.
 
-Como su nombre indica, tiene dos características:
-
-**Es un fondo:** Agrupa el dinero de muchos inversores para comprar una cartera de activos.
-
-**Cotiza en bolsa:** Se compra y vende como una acción, en tiempo real durante el horario de mercado.
-
-La combinación de las dos crea un instrumento con ventajas únicas.
-
-Del fondo toma: la diversificación automática, la gestión profesional del rebalanceo del índice.
-
-De la acción toma: la flexibilidad de comprar y vender en cualquier momento, la transparencia en el precio en tiempo real, los bajos costes.
-
-El resultado es un instrumento más barato, más transparente y más flexible que los fondos de inversión tradicionales.
+Carlos cerró el portátil. No iba a volver al banco.
 
 ---
 
-## Capítulo 2: ETF vs. Fondo de inversión tradicional
+## Capítulo 1: Lo que el cuñado sabe (y no sabe) sobre la bolsa
 
-La diferencia principal entre un ETF y un fondo de inversión indexado tradicional:
+El cuñado tiene opinión sobre todo.
 
-**Negociación:** Los fondos se compran y venden al precio de cierre del día. Los ETFs se compran y venden en tiempo real durante el mercado.
+Sobre la bolsa, especialmente.
 
-**Mínimo de inversión:** Los fondos pueden tener mínimos de 1 euro a varios miles de euros. Los ETFs tienen mínimo de una participación (puede ser desde 10 hasta 500 euros dependiendo del ETF).
+"Los ETFs son para los que no saben lo que hacen. Tú tienes que aprender a elegir acciones. Yo tengo acciones de Telefónica desde hace quince años. Y de Repsol. Eso es invertir de verdad."
 
-**Fiscalidad:** Los fondos de inversión permiten traspasos entre ellos sin tributar. Los ETFs no: cada venta tributa. En España, esto es una ventaja para los fondos de inversión sobre los ETFs en la acumulación a largo plazo.
+Carlos no respondió. Había aprendido que discutir con el cuñado sobre finanzas era como intentar explicarle a la pared que está mojada cuando llueve.
 
-**Costes:** Ambos pueden ser muy baratos. Los ETFs tienden a ser ligeramente más baratos.
+Pero sí hizo el cálculo mental.
 
-Para el inversor de largo plazo en España, los fondos indexados tienen ventaja por el tema fiscal. Para el inversor que quiere máxima flexibilidad y menores costes, los ETFs son preferibles.
+Telefónica valía en 2009 unos 17 euros por acción. En 2024, vale aproximadamente 4 euros. Con dividendos incluidos, el inversor que la compró en 2009 ha obtenido una rentabilidad total aproximada de... cero. O negativa en términos reales, descontando la inflación.
 
-No hay respuesta universal. Depende de la situación.
+El cuñado ha estado "invirtiendo" en Telefónica quince años para no ganar nada.
 
----
+Mientras tanto, quien compró un ETF del índice mundial en 2009 y lo dejó quieto obtuvo una rentabilidad total de más del 300%.
 
-## Capítulo 3: Los ETFs más conocidos e interesantes
+No es que el cuñado sea tonto. Es que creer que uno puede seleccionar las acciones ganadoras mejor que el mercado es uno de los sesgos cognitivos más documentados y más costosos de la historia de las finanzas.
 
-No hay que memorizar miles. Hay unos pocos que concentran la mayor parte de los activos de los inversores pasivos.
+Los ETFs no son para los que no saben lo que hacen.
 
-**Vanguard FTSE All-World (VWCE):** Aproximadamente 3.500 empresas de países desarrollados y emergentes. El más diversificado del mundo. TER: 0,22%.
-
-**iShares Core S&P 500 (SXR8 / CSPX):** Las 500 empresas más grandes de EE.UU. TER: 0,07%.
-
-**Amundi MSCI World (CW8):** Empresas de 23 países desarrollados. TER: 0,12%.
-
-**iShares MSCI Emerging Markets (EIMI):** Mercados emergentes (China, India, Brasil...). Mayor potencial de crecimiento, mayor riesgo.
-
-**Vanguard FTSE All-World High Dividend (VHYL):** Empresas con alta rentabilidad por dividendo. Para inversores que buscan ingresos.
-
-Para un principiante que quiere simplificar al máximo: VWCE da exposición a todo el mundo en un solo ETF.
+Son para los que saben exactamente lo que hace la evidencia.
 
 ---
 
-## Capítulo 4: Acumulación vs. distribución
+## Capítulo 2: Qué es un ETF y por qué lo cambia todo
 
-Los ETFs tienen dos variantes según cómo manejan los dividendos de las empresas que contienen.
+ETF son las siglas de Exchange Traded Fund. Fondo cotizado en bolsa.
 
-**ETF de acumulación (ACC):** Los dividendos recibidos de las empresas se reinvierten automáticamente en el fondo. No percibes dividendos. El valor del ETF crece. Fiscalmente eficiente porque no generas tributación por los dividendos.
+La definición técnica aburre. Lo que importa es lo que hace en la práctica.
 
-**ETF de distribución (DIST):** Los dividendos se pagan al inversor periódicamente. Recibes dinero regularmente. Pero cada pago tributa en IRPF el año en que lo recibes.
+Imagina que puedes comprar una pequeña porción de las 1.600 empresas más grandes del mundo desarrollado — Microsoft, Apple, Nestlé, Toyota, LVMH, ASML — en una sola operación, por una comisión de menos del 0,2% anual, con una inversión mínima de 80 euros.
 
-Para la mayoría de inversores de largo plazo en España: ETFs de acumulación. Son más eficientes fiscalmente porque el interés compuesto actúa sobre el total sin que Hacienda se lleve su parte año a año.
+Eso es un ETF.
 
-Para inversores que buscan ingresos regulares (fase de retiro o ingresos pasivos): ETFs de distribución.
+Antes de que existieran, hacer algo parecido requería o bien contratar un gestor profesional (que cobraba el 1,5-2% anual) o bien comprar individualmente acciones de cientos de empresas (prácticamente imposible para el inversor pequeño).
 
----
+Los ETFs democratizaron la inversión. No porque alguien lo decidiera por altruismo. Sino porque John Bogle, el fundador de Vanguard, demostró matemáticamente en los años 70 que replicar un índice en lugar de intentar batirlo era sistemáticamente más rentable a largo plazo.
 
-## Capítulo 5: Dónde comprar ETFs en España
+El mercado acabó creando el instrumento que esa lógica reclamaba.
 
-Los ETFs se compran a través de un broker.
+Un ETF tiene dos características que lo definen:
 
-**Brokers populares en España para ETFs:**
+Es un fondo: agrupa el dinero de miles de inversores para comprar una cartera de activos diversificada. La diversificación elimina el riesgo de apostar a una empresa concreta que puede quebrar.
 
-**Interactive Brokers:** El broker más grande del mundo. Bajos costes. Acceso a casi todos los ETFs del mundo. Requiere algo más de configuración inicial.
+Cotiza en bolsa como una acción: se puede comprar y vender en tiempo real durante el horario de mercado, con total transparencia de precio.
 
-**DEGIRO:** Popular en Europa. Acceso amplio a ETFs. Algunos ETFs tienen comisión cero en compra mensual.
-
-**eToro:** Conocido por su interfaz social. Acceso a ETFs. Costes algo más altos que los anteriores.
-
-**Openbank:** Banco español con acceso a ETFs y fondos indexados. Más simple pero algo más caro.
-
-Para empezar con simplicidad: DEGIRO ofrece un buen equilibrio entre facilidad y bajo coste. Para escalar: Interactive Brokers es la opción de referencia en el sector.
+La combinación produce algo que antes era imposible: acceso a mercados globales, diversificación máxima, costes mínimos, sin necesidad de conocimiento especializado.
 
 ---
 
-## Capítulo 6: Cómo comprar un ETF paso a paso
+## Capítulo 3: El ETF frente al fondo de gestión activa
 
-Carlos abre su cuenta en DEGIRO.
+Cuando Carlos fue al banco, la asesora le ofreció un fondo de gestión activa.
 
-Proceso:
-1. Va a degiro.es, completa el registro online (DNI, datos bancarios, cuestionario de perfil inversor).
-2. Deposita 400 euros desde su cuenta bancaria.
-3. Busca "VWCE" en el buscador del broker (el ETF Vanguard FTSE All-World).
-4. Compra el número de participaciones que puede con sus 400 euros. Si cada participación cuesta 100 euros, compra 4. Si cuesta 90, compra 4 y le sobran 40.
-5. El dinero restante (40 euros) queda en el broker para el próximo mes.
+La gestión activa tiene una premisa: nuestros analistas son tan buenos que pueden seleccionar las acciones ganadoras y evitar las perdedoras, obteniendo más rentabilidad que el mercado en conjunto.
 
-El proceso real, la primera vez, lleva unos 20-30 minutos para el registro. La compra en sí son tres clics.
+La promesa suena razonable. El problema es que los datos dicen lo contrario.
 
-El mes siguiente: deposita 400 euros más. Compra el número de participaciones que puede. Repite.
+El estudio SPIVA publica anualmente los resultados de los fondos de gestión activa comparados con sus índices de referencia. Los números son consistentes y demoledores: entre el 80% y el 95% de los fondos activos lo hacen peor que su índice en períodos de diez años o más.
 
-No hay estrategia más complicada que esa.
+Hay razones matemáticas para esto. Los mercados son la suma de todos los inversores. Si unos ganan más que el mercado, otros tienen que ganar menos. El mercado en conjunto solo puede obtener la rentabilidad del mercado. Pero el fondo activo le añade una capa de costes (1,5-2% anual) que sistemáticamente erosiona la rentabilidad.
 
----
+El ETF indexado, con sus costes del 0,05-0,25%, simplemente replica el mercado. Sin la erosión de las comisiones, sin el error humano de selección, sin el coste de los analistas.
 
-## Capítulo 7: Los costes que hay que vigilar
+A largo plazo, la diferencia es enorme.
 
-Los ETFs son baratos. Pero no todos los costes son el TER.
+Marta lo entendió cuando calculó lo siguiente: si invierte 200 euros al mes durante 25 años:
 
-**TER (Total Expense Ratio):** El coste anual del fondo en sí. Lo cobra automáticamente el fondo de su patrimonio. Aparece ya descontado en la rentabilidad publicada.
+Con un fondo activo al 1,7% de comisión y 5% de rentabilidad bruta: capital final aproximado de 95.000 euros.
 
-**Comisión de compra/venta del broker:** Lo que cobra el broker por ejecutar la orden. Puede ser cero (algunos brokers en ciertos ETFs) o puede ser un porcentaje o cantidad fija. En DEGIRO, algunas compras son gratuitas mensualmente.
+Con un ETF indexado al 0,2% de comisión y el mismo 5% de rentabilidad bruta: capital final aproximado de 118.000 euros.
 
-**Spread bid-ask:** La diferencia entre el precio al que se puede comprar y al que se puede vender un ETF en un momento dado. En ETFs muy líquidos es minúsculo. En ETFs poco negociados puede ser mayor.
+La diferencia: más de 23.000 euros. Solo por el coste.
 
-**Coste de cambio de divisa:** Si el ETF cotiza en dólares y tu cuenta es en euros, hay un coste de conversión. Algunos brokers lo cobran explícitamente, otros lo incorporan en el spread.
+"¿Cómo es posible que el banco me haya vendido el peor producto durante veinte años sin que yo lo supiera?" preguntó Marta.
 
-Para el inversor de largo plazo que compra mensualmente y no vende durante años, la suma de todos estos costes sobre el TER del fondo sigue siendo muy inferior a los costes de un fondo de gestión activa.
+La respuesta es sencilla. El banco no gana con el ETF. Gana con el fondo de gestión activa.
 
 ---
 
-## Capítulo 8: El rebalanceo
+## Capítulo 4: Los ETFs que merece la pena conocer
 
-Con el tiempo, las distintas partes de la cartera crecen a ritmos diferentes.
+No hay que memorizar cientos. Hay unos pocos que concentran la mayor parte de los activos de los inversores pasivos en todo el mundo, y por razones sólidas.
 
-Si empiezas con 80% renta variable y 20% renta fija, después de un año de buena bolsa puede que tengas 85% y 15%. La cartera se ha desviado de la distribución objetivo.
+**Vanguard FTSE All-World (VWCE):** Aproximadamente 3.500 empresas de países desarrollados y emergentes. El más diversificado del mercado. Un solo ETF que da exposición a casi toda la economía global. TER: 0,22%.
+
+Este es el ETF que Carlos eligió para empezar. La razón es simple: si no sabes a qué apostar, apostar al mundo entero es lo más sensato.
+
+**iShares Core S&P 500 (SXR8):** Las 500 empresas más grandes de Estados Unidos. Menos diversificado geográficamente, pero con una rentabilidad histórica excelente. TER: 0,07%.
+
+**Amundi MSCI World (CW8):** Empresas de 23 países desarrollados. Excluye emergentes. TER: 0,12%.
+
+Para el principiante que quiere simplificar al máximo: el VWCE da exposición a todo el mundo en un solo instrumento. No necesitas más.
+
+Hay otros ETFs especializados — de sectores concretos, de países específicos, de temáticas de moda — pero eso es territorio para el inversor avanzado que quiere sobreponderar algo concreto. Para el que empieza, lo global y simple gana.
+
+---
+
+## Capítulo 5: Acumulación o distribución — la decisión que más dinero vale
+
+Los ETFs vienen en dos versiones según cómo gestionan los dividendos de las empresas que contienen.
+
+**ETF de acumulación (ACC):** Los dividendos de las empresas se reinvierten automáticamente dentro del fondo. No percibes dinero. El valor de cada participación crece incorporando los dividendos. Fiscalmente eficiente porque no generas tributación anual por los dividendos recibidos.
+
+**ETF de distribución (DIST):** Los dividendos se distribuyen periódicamente al inversor. Recibes dinero en la cuenta. Pero cada pago tributa en el IRPF el año en que lo recibes.
+
+Para el inversor que está en fase de acumulación — que no necesita ingresos del ETF y quiere maximizar el crecimiento a largo plazo —, los ETFs de acumulación son más eficientes. El interés compuesto trabaja sobre el total sin que Hacienda se lleve su parte cada año.
+
+Carlos eligió VWCE (acumulación). No necesita los dividendos ahora. Los necesitará dentro de veinte años.
+
+Marta, en cambio, pensó un momento en los ETFs de distribución. Le atraía la idea de cobrar dividendos como ingreso pasivo. Pero cuando calculó la diferencia fiscal a largo plazo, eligió también la acumulación.
+
+"Los dividendos que cobro me generan un evento fiscal. Prefiero que ese dinero siga trabajando dentro del fondo hasta que yo decida sacarlo."
+
+---
+
+## Capítulo 6: Dónde comprar y cuánto cuesta de verdad
+
+Los ETFs se compran a través de un broker. Y no todos los brokers son iguales.
+
+Cuando Carlos fue al banco, la asesora le habría vendido fondos del propio banco, no ETFs. Los grandes bancos españoles no tienen interés en que sus clientes usen ETFs, porque los márgenes son mínimos.
+
+Para comprar ETFs, hay que ir a un broker especializado.
+
+Los más usados en España:
+
+**Interactive Brokers:** El broker más grande del mundo. Bajos costes. Acceso a prácticamente todos los ETFs del mundo. Requiere algo más de configuración inicial, pero es la referencia para el inversor que escala.
+
+**DEGIRO:** Popular en Europa. Acceso amplio. Algunos ETFs tienen comisión cero en la compra mensual, lo que lo hace ideal para quien empieza con aportaciones pequeñas y regulares.
+
+**Openbank:** Para quien prefiere quedarse dentro del ecosistema bancario español, con algo más de familiaridad pero algo más de coste.
+
+Carlos eligió DEGIRO para empezar. La razón: interfaz simple, sin comisión mensual en la compra del ETF de su elección, y la sensación de que si algo salía mal, el soporte en español estaba disponible.
+
+Lo que no sabía Carlos es que abrir la cuenta le llevaría veinte minutos, y que comprar su primer ETF, una vez que el dinero llegó a la cuenta, le llevaría tres clics.
+
+---
+
+## Capítulo 7: El primer día de Carlos como inversor
+
+Un martes de octubre, Carlos transfirió 400 euros de su cuenta al banco a su cuenta en DEGIRO.
+
+Tardó dos días hábiles en llegar.
+
+El jueves por la tarde, cuando vio el dinero disponible, sintió algo extraño. No era miedo exactamente. Era la conciencia de que estaba a punto de hacer algo que su familia nunca había hecho. Que don Alberto nunca había hecho. Que el cuñado hacía mal desde hacía quince años.
+
+Buscó "VWCE" en el buscador del broker.
+
+Apareció el ETF: Vanguard FTSE All-World. Precio actual: 121,34 euros por participación.
+
+Con 400 euros, podía comprar 3 participaciones: 364,02 euros. Quedaban 35,98 euros en la cuenta para el mes siguiente.
+
+Pulsó comprar.
+
+Confirmó la orden.
+
+El sistema procesó.
+
+Treinta segundos después, Carlos era propietario de una fracción pequeñísima de 3.500 empresas repartidas por todo el mundo.
+
+"No ha pasado nada", le dijo a Ana. "Literalmente nada. He comprado un trozo de la economía mundial y aquí estoy, comiendo la cena de siempre."
+
+Ana le miró. "¿Y eso es bueno o malo?"
+
+"Es bueno. Es exactamente lo que tiene que parecer."
+
+---
+
+## Capítulo 8: Los costes que hay que vigilar
+
+Los ETFs son baratos. Pero conviene entender todos los costes, no solo el TER.
+
+**TER (Total Expense Ratio):** El coste anual del fondo en sí. Se descuenta automáticamente del valor del fondo. Ya está incluido en la rentabilidad publicada, así que no hay que hacer ningún cálculo adicional.
+
+**Comisión de compra/venta del broker:** Lo que cobra el broker por ejecutar cada orden. En DEGIRO, algunos ETFs tienen comisión cero en la compra mensual. En Interactive Brokers, es de 1 dólar por operación aproximadamente. En ningún caso comparable a las comisiones de los fondos activos de los bancos.
+
+**Spread bid-ask:** La diferencia entre el precio de compra y el de venta en un momento dado. En ETFs muy líquidos como el VWCE, es minúsculo. En ETFs poco negociados, puede ser más relevante.
+
+**Coste de cambio de divisa:** Si el ETF cotiza en dólares y tu cuenta es en euros, puede haber un coste de conversión. El VWCE cotiza en euros en la bolsa de Frankfurt, lo que evita este problema para el inversor español.
+
+La suma total de todos estos costes, para el inversor de largo plazo que compra mensualmente y no vende durante décadas, sigue siendo dramáticamente inferior a los costes de cualquier fondo de gestión activa.
+
+Don Alberto, durante cuarenta años, dejó su dinero en depósitos bancarios al 1-2% anual. "Nunca me cargaron comisiones", decía. Lo que nadie le explicó es que la inflación es también una comisión. Una que cobra la economía entera, sin pedir permiso, erosionando el poder adquisitivo de sus ahorros año a año.
+
+---
+
+## Capítulo 9: Los ETFs de moda y por qué el cuñado siempre los compra
+
+El cuñado, después de escuchar a Carlos hablar de ETFs, decidió investigar.
+
+Encontró algo que le emocionó.
+
+"He comprado el ETF del metaverso. Y otro de inteligencia artificial. Y otro de criptomonedas. ¿Sabes la rentabilidad que van a tener cuando todo eso despegue?"
+
+Carlos asintió sin decir nada.
+
+Los ETFs temáticos existen. Son ETFs que no replican el mercado global sino un sector concreto o una tendencia: inteligencia artificial, energías renovables, videojuegos, cannabis, robótica, metaverso.
+
+Tienen dos características consistentes.
+
+La primera: son caros. Su TER suele estar entre el 0,4% y el 0,9%, mucho más alto que los ETFs globales.
+
+La segunda: tienden a lanzarse cuando la tendencia ya está de moda. Lo que significa que el precio ya incorpora el entusiasmo del mercado. Lo que significa que el retorno futuro suele ser inferior al histórico que publicitan.
+
+La investigación académica es clara: los ETFs temáticos en promedio rinden por debajo de los ETFs globales a largo plazo. El sector que está de moda cuando se lanza el ETF suele no serlo diez años después.
+
+Esto no significa que todos sean malos. Significa que el principiante no tiene que empezar por ahí. Y que el inversor avanzado, si los usa, debería hacerlo con una fracción pequeña de la cartera, sabiendo que es una apuesta y no una inversión diversificada.
+
+El cuñado, naturalmente, puso el 80% de su cartera en ETFs temáticos.
+
+---
+
+## Capítulo 10: El rebalanceo — lo que suena complicado y no lo es
+
+Seis meses después de su primera compra, Carlos revisó su cartera.
+
+El VWCE había subido un 8% en ese período. Había seguido comprando mensualmente. Total acumulado: 2.600 euros. Rentabilidad obtenida hasta ese momento: 180 euros.
+
+"Pequeño", pensó. Pero luego pensó en veinte años. En treinta. En el interés compuesto funcionando sin parar.
+
+Lo que también notó Carlos es que con el tiempo, si tiene varios ETFs, las proporciones cambian. Si empieza con 80% en renta variable y 20% en renta fija, un año de buena bolsa puede dejarlo en 85-15. La cartera se ha desviado del objetivo.
 
 El rebalanceo es el proceso de volver a los porcentajes objetivo.
 
-Hay dos formas de rebalancear:
+Hay dos formas:
 
-**Vendiendo y comprando:** Vendes parte de lo que ha crecido más y compras lo que ha crecido menos. Simple pero genera evento fiscal.
+**Vendiendo y comprando:** Vendes parte de lo que más ha crecido y compras lo que menos. Simple pero genera evento fiscal en España.
 
-**Dirigiendo nuevas aportaciones:** Las nuevas aportaciones van a los activos que están por debajo del objetivo. No hay venta, no hay evento fiscal. Es la forma más eficiente fiscalmente para el inversor regular.
+**Dirigiendo las nuevas aportaciones:** Cada mes, las nuevas aportaciones van a los activos que están por debajo del porcentaje objetivo. Sin vender nada. Sin generar tributación. Esta es la forma más eficiente para el inversor con aportación mensual.
 
-Carlos, con su aportación mensual de 400 euros, ajusta a qué ETFs va cada mes para mantener la distribución objetivo. Sin vender nada.
+Carlos, con su sistema de aportación mensual, rebalancea de la segunda forma. El mes que la renta fija está baja, la aportación va a renta fija. El mes que todo está en orden, la aportación se reparte proporcionalmente.
 
----
-
-## Capítulo 9: ETFs de moda vs. ETFs con fundamento
-
-Los ETFs han generado un mercado secundario de productos: ETFs temáticos.
-
-ETF de inteligencia artificial. ETF de energías renovables. ETF de videojuegos. ETF de cannabis. ETF de metaverso.
-
-Estos ETFs tienen dos características comunes.
-
-**Son caros:** Sus TER son mucho más altos que los ETFs indexados globales.
-
-**Son apuestas sectoriales:** En lugar de diversificación amplia, concentran el riesgo en un sector o tendencia. Si el sector despega, pueden dar retornos extraordinarios. Si no, pueden perder mucho.
-
-La investigación histórica es clara: los ETFs temáticos en promedio underperforman a los ETFs globales a largo plazo. El sector que está de moda cuando se lanza el ETF suele no serlo diez años después.
-
-No digo que sean todos malos. Digo que el principiante no tiene que empezar por ahí. Empieza por lo probado y amplio. Si luego quieres añadir algo temático con una pequeña parte de la cartera, adelante. Pero que sea una pequeña parte.
+No es más complicado que eso.
 
 ---
 
-## Capítulo 10: El ETF como pieza de un sistema mayor
+## Epílogo: El instrumento que Carlos no sabía que necesitaba
 
-El ETF no es una solución mágica. Es un instrumento.
+Dieciocho meses después de aquella visita al banco, Carlos tenía 8.400 euros invertidos en VWCE.
 
-Un instrumento que, dentro de un sistema financiero bien estructurado (fondo de emergencia, ausencia de deudas de interés alto, aportación regular, horizonte largo), produce resultados muy sólidos.
+No había hecho nada especial. Había transferido 400 euros al mes. Los había convertido en participaciones del ETF. Había ignorado las caídas (hubo dos, una del 7% y otra del 4%), tal como había leído que debía hacer.
 
-Fuera de ese sistema, puede producir resultados muy diferentes.
+El valor de su cartera en ese momento: 9.200 euros.
 
-El inversor que compra un ETF del S&P 500 con dinero que necesitará el año que viene y luego lo vende en una caída porque necesita el dinero: ha hecho exactamente lo que no hay que hacer con un ETF.
+"Ochocientos euros de rentabilidad", le dijo a Ana, mostrándole la pantalla del broker.
 
-El instrumento es bueno. El sistema de uso es lo que determina el resultado.
+"Y no has hecho nada en dieciocho meses", observó ella.
 
----
+"Exactamente nada. Ese es el punto."
 
-## Epílogo: Un instrumento, muchas posibilidades
+El cuñado seguía pendiente del metaverso, que no acababa de despegar.
 
-El ETF es la herramienta de inversión más versátil, eficiente y accesible que existe para el inversor individual.
+Don Alberto miraba su extracto de pensión: 920 euros al mes, producto de cuarenta años de trabajo y depósitos bancarios al 2%.
 
-Usada bien, dentro de un sistema adecuado, con horizonte largo y sin intervención emocional frecuente, es casi perfecta para el fin que cumple.
+La diferencia entre ellos no era de suerte. Era de instrumentos y de tiempo.
 
-El siguiente libro, "Dividendos: Que el dinero trabaje mientras tú duermes", explora una estrategia específica de inversión en renta variable orientada al cobro de dividendos regulares.
+El ETF no es la solución a todo. Es la herramienta correcta dentro de un sistema correcto: fondo de emergencia construido, deudas de alto interés eliminadas, aportación mensual automatizada, horizonte de décadas, emociones fuera de la ecuación.
+
+Dentro de ese sistema, el ETF hace lo suyo.
+
+Trabaja mientras Carlos duerme.
+
+El siguiente libro, "Dividendos: Que el dinero trabaje mientras tú duermes", profundiza en una estrategia específica dentro de la inversión en renta variable: construir una cartera orientada al cobro de ingresos regulares vía dividendos.
 
 ---
 
