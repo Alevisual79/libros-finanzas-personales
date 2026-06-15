@@ -6,193 +6,179 @@
 
 ---
 
-## Prólogo: El negocio de la protección
+## Prólogo: El cuñado y sus seguros
 
-Las aseguradoras son negocios. Muy rentables.
+El cuñado de Carlos tiene, contados en el último café que tomaron juntos, siete seguros activos.
 
-Su modelo es cobrar más en primas de lo que pagan en siniestros. Y lo hacen muy bien: los seguros tienen márgenes brutales, especialmente los que no son obligatorios.
+El del coche, que es obligatorio. El del hogar, que es razonable. El de salud privado, que usa una o dos veces al año. El de vida, que contrató cuando se casó la segunda vez y que todavía tiene aunque las circunstancias son distintas. El de protección de pagos de la tarjeta de crédito, que le colocó el banco. El de la garantía extendida del televisor que compró hace tres años. Y el de viaje, que renueva cada año aunque no viaja tanto.
 
-Eso no significa que los seguros sean malos. Significa que hay que elegirlos con criterio.
+Suma aproximada de primas anuales: alrededor de cuatro mil trescientos euros.
 
-Los seguros son herramientas para transferir riesgos que no puedes asumir tú solo. La clave es distinguir qué riesgos necesitas transferir y cuáles puedes asumir con tu propio fondo de emergencia.
+Carlos tiene tres seguros. El del coche, el del hogar y el de vida. Suma aproximada: mil cien euros al año.
+
+El cuñado tiene más seguros. También tiene más primas. Y curiosamente, la cobertura real para los riesgos que importan no es significativamente mejor que la de Carlos.
+
+Esa diferencia, tres mil doscientos euros al año, es parte de lo que explica que el cuñado siempre esté "justito" a pesar de no ganar mucho menos que Carlos.
+
+Los seguros son herramientas para transferir a terceros los riesgos que uno no puede absorber solo. La clave está en distinguir qué riesgos necesita transferir y cuáles puede asumir con su propio fondo de emergencia.
 
 ---
 
 ## Capítulo 1: La lógica de los seguros
 
-Un seguro tiene sentido cuando el coste del siniestro sería catastrófico para tu situación financiera.
+Las aseguradoras son negocios. Negocios muy rentables, porque su modelo es cobrar más en primas de lo que pagan en siniestros. Y lo hacen bien: los seguros tienen márgenes elevados, especialmente los que no son obligatorios.
 
-No cuando el siniestro sería incómodo. No cuando sería caro. Cuando sería catastrófico.
+Eso no significa que los seguros sean malos. Significa que hay que elegirlos con criterio.
 
-Ejemplos:
-- Tu casa se incendia y pierdes 200.000 euros de patrimonio. Catastrófico. Necesitas seguro.
-- Se te rompe el teléfono y cuesta 300 euros repararlo. Incómodo. No necesitas seguro de teléfono.
-- Tienes un accidente de coche y debes pagar daños a terceros de 50.000 euros. Catastrófico. Necesitas seguro.
-- Tu maleta se pierde en el aeropuerto. Molesto. El seguro de equipaje raramente vale.
+Un seguro tiene sentido cuando el coste del siniestro sería catastrófico para la situación financiera de quien se asegura. No cuando el siniestro sería incómodo. No cuando sería caro. Cuando sería catastrófico, en el sentido de que destruiría el patrimonio acumulado o generaría una deuda imposible de pagar.
 
-La línea no es "¿puede pasarme algo malo?" (siempre puede). Es "¿podría arruinarme económicamente si pasa?"
+La casa se incendia y el propietario pierde ciento ochenta mil euros de patrimonio. Catastrófico. Necesita seguro.
 
----
+Se rompe el teléfono y cuesta trescientos euros repararlo. Incómodo. El fondo de emergencia puede cubrirlo. No necesita seguro de teléfono.
 
-## Capítulo 2: El seguro de hogar (imprescindible)
+Tiene un accidente de coche grave y debe pagar daños a terceros de cincuenta mil euros. Catastrófico. Necesita el seguro de responsabilidad civil, que además es obligatorio.
 
-El seguro de hogar cubre los daños a tu vivienda y a su contenido.
+La maleta se pierde en el aeropuerto. Molesto. El seguro de equipaje raramente vale lo que cuesta.
 
-**¿Por qué es imprescindible?**
-Porque una vivienda es el activo más grande que la mayoría de las personas tiene. Perderla o dañarla gravemente (incendio, inundación, explosión) sin seguro puede ser devastador.
-
-Además, el seguro de hogar incluye generalmente responsabilidad civil del hogar: si un tubo revienta y daña el piso de abajo, el seguro lo cubre.
-
-**¿Cuánto cuesta?**
-Un seguro de hogar básico competitivo: 150-300 euros al año para un piso estándar.
-
-**Qué mirar:**
-- Cobertura de continente (estructura) y contenido (muebles, electrodomésticos)
-- Responsabilidad civil mínima de 150.000-300.000 euros
-- Asistencia en el hogar 24h (muy útil)
-- Exceso (franquicia): cuánto pagas tú antes de que empiece el seguro
+La línea que separa los seguros que hay que tener de los que no es siempre la misma pregunta: ¿puede este siniestro arruinarme económicamente? Si la respuesta es sí, hay que asegurarlo. Si la respuesta es no, quizás no.
 
 ---
 
-## Capítulo 3: El seguro de vida (necesario con dependientes)
+## Capítulo 2: El seguro de hogar
 
-El seguro de vida paga un capital a los beneficiarios si el asegurado fallece.
+El seguro de hogar cubre los daños a la vivienda y a su contenido. Es uno de los seguros que Carlos considera imprescindible, y lo es por razones que van más allá de la intuición.
 
-**¿Cuándo es necesario?**
-Cuando hay personas que dependen económicamente de ti. Hijos. Pareja sin ingresos propios. Padres a tu cargo.
+Una vivienda es el activo más grande que la mayoría de las personas tiene. Carlos y Ana tienen la hipoteca todavía pendiente de unos ciento veinte mil euros sobre un piso que vale aproximadamente doscientos veinte mil. Si el piso se incendiara sin seguro, perderían no solo el activo sino que seguirían debiendo la hipoteca. El banco no condona la deuda porque el inmueble haya ardido.
 
-Si eres joven, sin hijos y tu pareja tiene sus propios ingresos, el seguro de vida puede no ser necesario.
+Además del continente, la estructura del inmueble, el seguro de hogar cubre habitualmente el contenido: muebles, electrodomésticos, ropa, equipos electrónicos. Y casi siempre incluye responsabilidad civil del hogar: si un tubo de su piso revienta y el agua baja al vecino de abajo, el seguro cubre los daños al vecino.
 
-**¿Cuánto capital debería cubrir?**
-Una regla práctica: entre 5 y 10 veces el salario anual, o suficiente para que los dependientes puedan vivir durante el tiempo que necesiten para reajustarse (pagar la hipoteca, cubrir años de crianza, etc.).
+Un seguro de hogar básico competitivo para un piso estándar cuesta entre ciento cincuenta y trescientos euros al año. Es una de las mejores relaciones coste-protección de todos los seguros.
 
-**Término vs. vida entera:**
-El seguro de término cubre durante un período específico (20 años, hasta que los hijos sean mayores). Es mucho más barato y es lo que necesita la mayoría de las personas.
-
-Los seguros de "vida entera" tienen un componente de inversión incorporado que suele ser mucho más caro y menos eficiente que contratar el seguro de término y invertir el resto por separado.
+Lo que hay que revisar al contratar: que la cobertura del continente refleje el coste real de reconstrucción, no el valor de mercado del piso. El valor de mercado incluye el suelo y la ubicación; el coste de reconstrucción es lo que costaría levantar el edificio de nuevo, que es lo que el seguro tendría que cubrir. Los capitales subasegurados son el error más frecuente y más caro.
 
 ---
 
-## Capítulo 4: El seguro de salud (depende del caso)
+## Capítulo 3: El seguro de vida
 
-En España hay sistema público de salud universal. Eso es una protección base que muchos países no tienen.
+El seguro de vida paga un capital a los beneficiarios designados si el asegurado fallece durante la vigencia de la póliza.
 
-**¿Cuándo tiene sentido el seguro privado de salud?**
-- Cuando los tiempos de espera del sistema público son un problema para tu actividad laboral
-- Cuando tienes patologías crónicas que requieren seguimiento frecuente
-- Cuando el acceso a especialistas rápido tiene valor real para ti
-- Cuando tu empresa lo ofrece como beneficio (suele ser más barato así)
+Carlos tiene seguro de vida. No porque sea hipocondríaco ni porque piense que va a morirse pronto. Sino porque si falleciera hoy, Ana quedaría sola con dos hijos, una hipoteca y un sueldo de media jornada que no cubre los gastos actuales de la familia.
 
-**¿Cuándo no vale la pena?**
-- Como sustituto del sistema público (que ya pagas con tus impuestos)
-- Si apenas lo usas y el coste no se justifica
+El seguro de vida tiene sentido cuando hay personas que dependen económicamente del asegurado: hijos, pareja sin ingresos propios suficientes, padres a su cargo. Si alguien es joven, sin hijos, y su pareja tiene sus propios ingresos suficientes, el seguro de vida puede no ser necesario.
 
-Un seguro de salud privado individual en España: 60-200 euros al mes según edad, coberturas y aseguradora.
+La cantidad que debería cubrir el seguro depende de la situación específica. Una regla práctica es entre cinco y diez veces el salario anual, o suficiente para que los dependientes puedan mantener su nivel de vida durante el tiempo necesario para reajustarse. En el caso de Carlos: con un salario de veinticinco mil euros netos anuales, y una hipoteca pendiente de ciento veinte mil euros, el capital asegurado que tiene cubre la hipoteca más varios años de sustento para Ana y los niños.
 
-El cuñado tiene seguro de salud privado "por si acaso" pero en tres años solo ha ido al médico de urgencias del sistema público. Son 2.400 euros al año tirados.
+La distinción más importante en seguros de vida es entre el seguro a término y el seguro de vida entera. El de término cubre durante un período específico, hasta que los hijos sean mayores, hasta que la hipoteca esté pagada. Es mucho más económico y es lo que la mayoría de las personas necesita. El de vida entera combina seguro con un componente de ahorro o inversión que suele ser más caro y menos eficiente que contratar el seguro por separado e invertir el resto.
 
 ---
 
-## Capítulo 5: El seguro de coche (obligatorio y optativo)
+## Capítulo 4: El seguro de salud
 
-En España, el seguro de responsabilidad civil de vehículos es obligatorio. No hay debate.
+En España hay sistema público de salud universal. Eso es una protección base real que muchos países no tienen y que se paga entre todos con los impuestos.
 
-Más allá de lo obligatorio, hay opciones:
+El seguro de salud privado no sustituye al sistema público. Lo complementa en aspectos específicos: reducción de los tiempos de espera para especialistas, posibilidad de elegir médico, acceso a consultas en horarios más amplios.
 
-**Terceros básico (RC):** Lo mínimo legal. Cubre daños a terceros pero no al propio vehículo.
+La pregunta relevante es si esa diferencia justifica el coste. Para Carlos, que trabaja en una empresa que lo incluye como beneficio laboral, la respuesta es sí, porque no le cuesta nada directamente. Para alguien que tendría que pagarlo de su bolsillo, la respuesta depende de si realmente lo usa y si el valor que obtiene supera la prima.
 
-**Terceros ampliado:** Añade robo, cristales, incendio. Buena opción para coches de valor medio.
+El cuñado de Carlos paga ciento ochenta euros al mes por un seguro de salud privado individual que usa una o dos veces al año para revisiones que podría hacer igualmente en la sanidad pública. Son dos mil ciento sesenta euros anuales. Cuando Carlos se lo señaló, el cuñado dijo que lo tiene "por si acaso". El "por si acaso" en salud puede entenderse, pero conviene calcular si el coste acumulado de los años en que no pasa nada es mayor o menor que el coste de los eventos que cubre.
 
-**Todo riesgo sin franquicia:** Lo más completo. Para coches nuevos o de valor alto.
+---
 
-**Todo riesgo con franquicia:** Paga más en siniestros pequeños pero la prima es más baja. Puede ser la mejor opción si tienes el fondo de emergencia para cubrir la franquicia.
+## Capítulo 5: El seguro del coche
 
-Para un coche de más de 8-10 años, el todo riesgo raramente compensa: la prima puede superar el valor del vehículo en pocos años.
+El seguro de responsabilidad civil de vehículos es obligatorio en España. No hay debate posible: si se conduce sin él, es un delito y las consecuencias de un accidente sin seguro pueden ser devastadoras.
+
+Más allá de la responsabilidad civil mínima, hay varias modalidades. El terceros básico cubre los daños causados a otras personas y sus vehículos o propiedades, pero no los daños propios. Es lo mínimo legal.
+
+El terceros ampliado añade coberturas como robo, incendio y cristales al terceros básico. Suele ser la mejor opción para coches de valor medio.
+
+El todo riesgo sin franquicia cubre también los daños propios en accidente, sea cual sea la culpabilidad. Es el más completo y el más caro.
+
+El todo riesgo con franquicia tiene las mismas coberturas pero el asegurado paga los primeros trescientos o quinientos euros de cada siniestro. La prima es más baja. Si se tiene el fondo de emergencia para cubrir la franquicia, puede ser la mejor opción: protección completa con coste reducido.
+
+Para coches de más de ocho o diez años con valor de mercado bajo, el todo riesgo raramente tiene sentido económico: la prima puede superar en pocos años el valor del vehículo, y si hay un siniestro total, la indemnización no compensa lo pagado en primas.
 
 ---
 
 ## Capítulo 6: Los seguros que casi nunca valen
 
-**Seguro de teléfono:** Caro en relación con lo que cubre. El fondo de emergencia puede cubrir la reparación o reposición.
+El cuñado de Carlos los tiene casi todos.
 
-**Seguro de equipaje en viajes:** Las tarjetas de crédito premium ya lo incluyen frecuentemente. Y el coste de lo que suele perderse raramente justifica la prima.
+El seguro de teléfono cuesta generalmente entre ocho y quince euros al mes, que son hasta ciento ochenta euros al año. La mayoría de averías o roturas cuestan entre cien y doscientos euros reparar. Con el fondo de emergencia, no tiene sentido pagar ciento ochenta euros al año para protegerse de un gasto que, si ocurre, costaría lo que cuesta un año de prima.
 
-**Garantías extendidas en electrodomésticos:** Margen puro de la tienda. La mayoría de averías ocurren fuera del período cubierto o no están cubiertas por exclusiones.
+Las garantías extendidas de electrodomésticos o electrónica son margen puro de la tienda, frecuentemente mal disfrazado de seguridad. La mayoría de las averías relevantes ocurren fuera del período cubierto, y las exclusiones de estas pólizas suelen ser extensas.
 
-**Seguro de pago de préstamos:** Muy caro y lleno de exclusiones. Mejor tener fondo de emergencia.
+El seguro de protección de pagos de la tarjeta de crédito, que el banco coloca con frecuencia sin que el cliente lo pida activamente, es uno de los seguros con peor relación calidad-precio del mercado. Cubre el pago mínimo de la tarjeta en caso de desempleo o incapacidad, durante un período limitado, con exclusiones significativas. Su coste en relación con lo que realmente cubre rara vez tiene sentido.
 
-**Seguros de mascota:** Los más económicos tienen tantas exclusiones que no cubren casi nada relevante. Los completos son muy caros. Analizar caso por caso.
-
-**Seguro de protección de pagos de tarjeta de crédito:** Prácticamente siempre un mal negocio para el asegurado.
+El seguro de equipaje en viaje suele estar ya incluido en tarjetas de crédito de gama media o alta. Antes de contratar uno específico, conviene revisar qué cubre la tarjeta.
 
 ---
 
-## Capítulo 7: El seguro de dependencia (infrautilizado)
+## Capítulo 7: El seguro de dependencia
 
-Poco conocido pero potencialmente muy valioso.
+Es poco conocido pero potencialmente de los más valiosos, especialmente para personas sin hijos que vayan a poder cuidarles o para quien no quiere depender de ellos en caso de pérdida de autonomía.
 
-El seguro de dependencia cubre los costes de cuidado cuando una persona pierde su autonomía (enfermedad, accidente, vejez).
+El seguro de dependencia cubre los costes de cuidado cuando una persona pierde su autonomía por enfermedad, accidente o vejez. Como se vio en el libro 68 de esta serie, el coste de una cuidadora a tiempo completo o de una residencia puede superar los veinte mil o treinta mil euros anuales.
 
-Como vimos en el libro 68, el coste de una cuidadora o de una residencia puede ser de 20.000-50.000 euros anuales.
+Contratado a los cincuenta o cincuenta y cinco años, cuando la salud es todavía buena y la prima es asequible, puede costar entre cien y doscientos euros al mes y proporcionar un capital o una renta mensual cuando se necesite.
 
-El seguro de dependencia contratado a los 50-55 años, mientras aún hay buena salud, puede costar 100-200 euros al mes y proporcionar capital significativo cuando se necesite.
+Contratado a los setenta años, si es que se puede contratar, la prima es mucho más alta o las exclusiones hacen el producto poco valioso.
 
-Contratado a los 70, si se puede contratar, será muy caro o puede tener exclusiones.
-
-Es uno de los seguros con mejor relación coste-beneficio potencial, especialmente para quien no tiene hijos que puedan cuidarle o no quiere depender de ellos.
+Es uno de los seguros con mejor relación coste-beneficio potencial pero requiere contratarlo con suficiente antelación para que la prima sea razonable.
 
 ---
 
 ## Capítulo 8: Cómo contratar bien un seguro
 
-**Comparar:** Nunca contratar el primer presupuesto. Los comparadores online (Rastreator, Acierto, etc.) permiten comparar en minutos.
+El mercado de seguros en España es competitivo. Las diferencias de precio entre aseguradoras para cobertura equivalente pueden ser del cuarenta al sesenta por ciento. Eso significa que comprar el primer presupuesto es casi siempre una decisión cara.
 
-**Leer la póliza:** Especialmente las exclusiones. Los seguros se venden por las coberturas, pero las exclusiones son donde están los problemas.
+Los comparadores online como Rastreator o Acierto permiten obtener múltiples presupuestos en minutos para los seguros más comunes: hogar, coche, salud. No son perfectos porque no muestran todas las exclusiones, pero dan un rango de precios que permite negociar.
 
-**Negociar:** Especialmente al renovar. Las aseguradoras suelen ofrecer descuentos a quien amenaza con irse.
+Leer las condiciones particulares y las exclusiones antes de contratar es laborioso pero fundamental. Los seguros se venden por las coberturas incluidas y se paga en los siniestros por las exclusiones. Los términos de exclusión más importantes en un seguro de hogar son los daños por humedad o goteras preexistentes, los actos de vandalismo, los daños por terremotos o inundaciones si no están específicamente incluidos.
 
-**Revisar anualmente:** Las necesidades cambian. Un seguro adecuado a los 30 puede no serlo a los 45.
+Al renovar, negociar. Las aseguradoras saben que cambiar de seguro tiene fricción y que muchos clientes renuevan automáticamente. Quien llama a renovar con un presupuesto más barato de la competencia obtiene descuentos con frecuencia. No siempre, pero con suficiente frecuencia como para que valga la pena intentarlo.
 
-**Cuidado con los seguros vinculados a productos bancarios:** Los seguros de hogar o de vida vinculados a hipotecas suelen ser más caros que los de mercado libre. La ley permite contratar con quien se quiera.
+Los seguros vinculados obligatoriamente a una hipoteca son habitualmente más caros que los de mercado. La ley permite contratar el seguro de hogar y el seguro de vida con cualquier aseguradora, no necesariamente con la del banco que da la hipoteca.
 
 ---
 
 ## Capítulo 9: El infraseguro y el sobreseguro
 
-Hay dos errores en los seguros.
+En los seguros hay dos errores opuestos y ambos cuestan dinero.
 
-**El infraseguro:** No tener cobertura suficiente. La casa está asegurada por 80.000 euros pero reconstruirla costaría 150.000. En el siniestro, se reciben los 80.000 y hay que poner el resto.
+El infraseguro es no tener cobertura suficiente para el riesgo real. La casa está asegurada por ochenta mil euros pero reconstruirla costaría ciento cincuenta mil. En el siniestro, la aseguradora indemniza proporcionalmente, no el coste real. El propietario recibe menos de lo que esperaba y tiene que poner el resto.
 
-**El sobreseguro:** Pagar por coberturas que no se necesitan o que duplican otras. Seguro de viaje cuando la tarjeta de crédito ya lo incluye. Seguro de vida en un autónomo sin dependientes.
+El sobreseguro es pagar por coberturas que no se necesitan o que duplican coberturas que ya existen en otra parte. El seguro de viaje cuando la tarjeta de crédito ya lo incluye. El seguro de vida en un soltero sin dependientes. La garantía extendida del electrodoméstico que ya tiene garantía de fabricante.
 
-El objetivo es encontrar la cobertura adecuada: suficiente para protegerse de los riesgos reales, no más.
+El cuñado de Carlos está en el lado del sobreseguro. Carlos, cuando lo analizó con él, calculó que el cuñado podría reducir sus primas en más de dos mil euros anuales sin reducir significativamente su cobertura real para los riesgos que importan.
+
+El cuñado dijo que lo pensaría.
 
 ---
 
 ## Capítulo 10: Los seguros como parte del plan financiero
 
-Los seguros no son un gasto separado del plan financiero. Son una parte de él.
+Los seguros no son un gasto separado del plan financiero. Son una capa de protección que hace posible construir todo lo demás sin que un evento inesperado lo destruya.
 
-El plan financiero robusto tiene varias capas:
+El plan financiero robusto tiene capas. La primera es el fondo de emergencia, que cubre los imprevistos cotidianos. La segunda son los seguros adecuados, que cubren los riesgos catastróficos que el fondo de emergencia no podría absorber. La tercera es el sistema sin deudas de consumo, que libera ingresos para construir. La cuarta es el ahorro e inversión sistemático, que construye el patrimonio.
 
-1. Fondo de emergencia (libro 71)
-2. Seguros adecuados (este libro)
-3. Sin deudas de consumo (Serie 2)
-4. Ahorro e inversión (Series 3-6)
+Sin las dos primeras capas, la cuarta puede destruirse en un solo evento: la casa que se inunda, el accidente grave, la pérdida del trabajo sin red de seguridad.
 
-Las capas de protección van primero. Porque sin ellas, una emergencia puede destruir años de construcción.
+Los seguros correctos permiten que la inversión sea inversión y no una reserva para lo que pueda salir mal.
 
 ---
 
 ## Epílogo: Protegerse sin obsesionarse
 
-Los seguros son herramientas, no garantías de que nada malo pasará.
+Los seguros son herramientas, no amuletos.
 
-Nada malo pasará de todas formas con los seguros correctos, o pasará algo que hayas transferido al seguro.
+Tener los seguros correctos no garantiza que nada malo pasará. Garantiza que si pasa algo malo que hubiera sido catastrófico, no lo será.
 
-La obsesión por asegurar todo es tan perjudicial como no tener nada asegurado. Asegurar lo que puede ser catastrófico. El fondo de emergencia para el resto.
+Y no tener más seguros de los necesarios garantiza que cada euro que no va en primas innecesarias puede hacer algo más útil: ir al fondo de emergencia, ir a la inversión, ir a la familia.
 
-El siguiente libro, "Qué pasa si te quedas sin trabajo", diseña el plan de contingencia para la emergencia financiera más frecuente y más impactante: la pérdida del empleo.
+La obsesión por asegurar todo es tan perjudicial como no tener nada asegurado. El fondo de emergencia cubre lo incómodo. Los seguros cubren lo catastrófico. Esa línea es el criterio.
+
+El siguiente libro, "Qué pasa si te quedas sin trabajo", diseña el plan de contingencia para la emergencia financiera más frecuente y más impactante de la vida adulta: la pérdida del empleo.
 
 ---
 
