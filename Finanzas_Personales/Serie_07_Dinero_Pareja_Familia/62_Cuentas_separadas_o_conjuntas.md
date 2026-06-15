@@ -6,191 +6,157 @@
 
 ---
 
-## Prólogo: No hay un modelo correcto
+## Prólogo: La pregunta que Carlos no esperaba
 
-Si preguntas a diez parejas cómo gestionan el dinero, obtendrás diez respuestas diferentes.
+Cuando Carlos y Ana firmaron el contrato de alquiler del primer piso juntos, doce años atrás, hubo una conversación que Carlos no había anticipado.
 
-Algunos lo mezclan todo desde el primer día de convivencia. Otros mantienen cuentas separadas aunque lleven veinte años casados. Otros tienen un sistema híbrido que fue evolucionando.
+"¿Cómo lo hacemos con el dinero?" preguntó Ana mientras colocaban cajas.
 
-Ninguno es el modelo correcto. El modelo correcto es el que funciona para esa pareja, en ese momento, con esos valores e ingresos.
+Carlos no había pensado en ello. En su familia, sus padres tenían una cuenta común y punto. Así era como funcionaba. Así lo haría él.
 
-Pero conocer las opciones, sus ventajas y sus riesgos permite elegir con información en lugar de simplemente copiar lo que hacían los padres o seguir el camino de menor resistencia.
+Ana tenía una perspectiva diferente. En su familia, su padre llevaba todo y su madre nunca supo exactamente cuánto había en el banco hasta que él murió y resultó que había bastante menos de lo que todos pensaban. Esa historia la había marcado. Ella quería su cuenta.
 
----
+Tardaron tres días en encontrar un sistema que funcionara para los dos. No fue el sistema de los padres de Carlos. No fue la separación total que Ana quería inicialmente. Fue algo propio, diseñado para ellos, que han ido ajustando desde entonces.
 
-## Capítulo 1: Cuenta conjunta total
-
-Todo entra en una cuenta compartida. Todos los gastos salen de ahí. El ahorro va a inversiones conjuntas.
-
-**Funciona bien cuando:**
-- Los dos tienen ingresos similares o están de acuerdo con la contribución asimétrica
-- Los dos tienen valores financieros parecidos (similar actitud hacia el ahorro y el gasto)
-- Hay confianza total y no hay historial de conflictos con el dinero
-- Uno de los dos no trabaja o trabaja a tiempo parcial
-
-**Genera problemas cuando:**
-- Uno de los dos gasta mucho más que el otro en gastos personales
-- Hay asimetría de ingresos grande y el que gana menos se siente sin autonomía
-- Los criterios de gasto son muy diferentes y cada compra es un motivo de discusión
-- Uno quiere invertir y el otro prefiere gastar
-
-**Recomendación:** Funciona mejor cuando se combina con una cantidad de "dinero de bolsillo" personal para cada uno, aunque sea pequeña.
+No hay un modelo correcto de gestión financiera en pareja. Hay modelos que encajan con ciertos valores e historias y otros que no. Conocerlos permite elegir en lugar de heredar sin pensarlo.
 
 ---
 
-## Capítulo 2: Cuentas separadas total
+## Capítulo 1: La cuenta conjunta total
 
-Cada uno gestiona su dinero de forma completamente independiente. Los gastos comunes (alquiler, supermercado, facturas) se dividen por algún criterio acordado.
+Todo entra en una cuenta compartida. Todos los gastos salen de ahí. El ahorro e inversión son conjuntos. La vida financiera de los dos es una.
 
-**Funciona bien cuando:**
-- Los dos tienen ingresos similares y estilos de vida comparables
-- Hay un historial previo de independencia financiera que ambos quieren mantener
-- La relación es relativamente nueva y la confianza total no está construida todavía
-- Ambos tienen actitudes muy diferentes hacia el dinero y prefieren no mezclarlas
+Este modelo funciona bien en situaciones específicas. Cuando los ingresos son similares o cuando hay acuerdo explícito sobre la contribución asimétrica. Cuando los dos tienen valores financieros parecidos, actitud similar hacia el ahorro, el gasto y el riesgo. Cuando hay confianza total y sin historial de conflictos con el dinero. Cuando uno de los dos no trabaja o trabaja a tiempo muy parcial, porque la separación de cuentas dejaría al que no trabaja sin acceso a recursos propios.
 
-**Genera problemas cuando:**
-- Hay asimetría grande de ingresos (dividir a medias con sueldos muy diferentes es inequitativo)
-- Uno de los dos reduce temporalmente o permanentemente sus ingresos (baja maternal, cuidado de hijos, enfermedad)
-- Se quiere construir patrimonio conjunto y tomar decisiones de inversión compartidas
-- Hay gastos de los hijos que son difíciles de dividir limpiamente
+Genera problemas cuando los gastos personales de cada uno son muy diferentes: uno gasta 50 euros al mes en caprichos personales y el otro 400, y eso genera comentarios y tensión. También cuando los criterios de gasto son distintos y cada compra requiere aprobación tácita del otro.
 
-**El riesgo principal:** En relaciones largas con este modelo, puede generarse una mentalidad de "lo tuyo y lo mío" que dificulta la construcción de un proyecto económico conjunto.
+La variante que lo hace más sostenible: combinarlo con una cantidad de dinero personal para cada uno que salga de la cuenta conjunta y que cada uno gestione sin dar explicaciones. Sin eso, la cuenta conjunta total puede volverse sofocante.
+
+---
+
+## Capítulo 2: Las cuentas separadas totales
+
+Cada uno gestiona su dinero de forma completamente independiente. Los gastos comunes, alquiler, supermercado, facturas, suministros, se dividen según algún criterio acordado.
+
+Funciona bien cuando los dos tienen ingresos similares y estilos de vida comparables. Cuando hay un historial de independencia financiera que ambos quieren mantener. Cuando la relación es relativamente nueva y la confianza total todavía se está construyendo. Cuando los dos tienen actitudes muy diferentes hacia el dinero y prefieren no mezclarlas.
+
+Genera problemas cuando hay asimetría significativa de ingresos: dividir a medias cuando uno gana el doble que el otro es matemáticamente inequitativo aunque suene igualitario. También cuando uno de los dos reduce sus ingresos temporalmente para cuidar hijos o a un familiar: sin ingresos propios y con cuentas separadas, queda dependiente del otro sin estructura formal que lo proteja.
+
+El riesgo más sutil en relaciones largas: puede generarse una mentalidad de "lo tuyo y lo mío" que dificulta construir objetivos financieros comunes. Cuando compran una casa, cuando tienen hijos, cuando planifican la jubilación, la separación total puede convertirse en un obstáculo para pensar como un equipo.
 
 ---
 
 ## Capítulo 3: El sistema de tres cuentas
 
-Es el modelo más flexible y el que mejor equilibra colaboración e independencia para muchas parejas.
+Es el modelo que más equilibrio ofrece entre colaboración e independencia y el que más parejas encuentran sostenible a largo plazo.
 
-**Cómo funciona:**
-- Cuenta personal de cada uno, donde entra el sueldo
-- Cuenta conjunta para gastos del hogar y ahorro/inversión común
-- Cada mes, cada uno transfiere una cantidad acordada a la cuenta conjunta
-- El resto de la cuenta personal es de libre disposición sin dar explicaciones
+La estructura es sencilla. Cuenta personal de cada uno, donde entra el sueldo de cada uno. Cuenta conjunta para los gastos del hogar y el ahorro compartido. Cada mes, cada uno transfiere una cantidad acordada a la cuenta conjunta y el resto es libre.
 
-**Cómo se calcula la aportación a la cuenta conjunta:**
-Dos opciones principales:
-1. **A partes iguales:** Si los gastos comunes son 1.500 euros al mes, cada uno aporta 750. Simple, pero puede ser inequitativo si los ingresos son muy diferentes.
-2. **Proporcional a los ingresos:** Si uno gana 2.500 y el otro 1.500 (total 4.000), el primero aporta el 62.5% y el segundo el 37.5%. Más equitativo pero más complejo de calcular.
+La transferencia a la cuenta conjunta puede calcularse de dos formas. A partes iguales: si los gastos comunes son 1.500 euros al mes, cada uno aporta 750. Simple de gestionar pero puede ser inequitativo si los ingresos son muy diferentes. Proporcional a los ingresos: si uno gana 2.500 euros y el otro 1.500, el primero aporta el 62,5% y el segundo el 37,5% de los gastos comunes. Más equitativo en términos relativos.
 
-**Ventajas:**
-- Cada uno mantiene autonomía en sus gastos personales
-- Se construye patrimonio conjunto de forma eficiente
-- El "dinero de bolsillo" está integrado en el sistema
-- Facilita la transición si los ingresos cambian
+Carlos y Ana usan este sistema. La cuenta conjunta cubre hipoteca, supermercado, colegio de los hijos, seguros del hogar y gastos comunes. La aportación de Carlos es algo mayor porque gana algo más. Lo que queda en sus cuentas personales es de libre gestión: Carlos puede comprarse herramientas para el taller sin que Ana lo comente; Ana puede comprarse libros o ropa sin necesitar aprobación de Carlos.
+
+La inversión también sale de la cuenta conjunta, automatizada, sin necesitar decisión mensual de ninguno de los dos.
 
 ---
 
-## Capítulo 4: El régimen matrimonial legal
+## Capítulo 4: El régimen matrimonial — lo que la ley decide si no se decide antes
 
-En España, el matrimonio tiene consecuencias legales sobre el patrimonio que van más allá del modelo de cuentas elegido.
+En España, casarse tiene consecuencias legales sobre el patrimonio que van más allá del modelo de cuentas que cada pareja elija.
 
-**Sociedad de gananciales** (régimen por defecto en la mayoría de comunidades): Lo ganado durante el matrimonio es de los dos por mitades, independientemente de quién lo ganó. Al separarse, se divide.
+El régimen de sociedad de gananciales es el que se aplica por defecto en muchas comunidades autónomas (Cataluña y algunas otras tienen regímenes propios). Bajo este régimen, lo que se gana durante el matrimonio es de los dos en proporciones iguales, independientemente de quién lo haya ganado. Al separarse, se divide. Lo que cada uno tenía antes de casarse sigue siendo suyo.
 
-**Separación de bienes** (hay que solicitarlo ante notario): Cada uno es propietario de lo que gana y adquiere durante el matrimonio. Al separarse, cada uno se queda con lo suyo.
+El régimen de separación de bienes hay que solicitarlo ante notario, antes del matrimonio (capitulaciones matrimoniales) o durante. Bajo este régimen, cada uno es propietario de lo que gana y adquiere durante el matrimonio. Al separarse, cada uno se queda con lo suyo.
 
-**Participación:** Sistema intermedio, poco común en España.
+El régimen matrimonial no es solo una formalidad. Afecta a cómo se dividen las deudas, los activos y la herencia. Y cambiarlo una vez casados es posible pero más complejo.
 
-El régimen matrimonial afecta a cómo se dividen las deudas, los activos y la herencia. No es una decisión meramente práctica: tiene consecuencias legales y fiscales significativas.
-
-Antes del matrimonio (o durante, aunque con más trámite), vale la pena reflexionar sobre qué régimen es más adecuado para la situación específica de la pareja.
+Antes del matrimonio, o durante si la situación cambia, vale la pena reflexionar con un abogado sobre qué régimen encaja mejor con la situación financiera concreta de cada pareja. No es una conversación antirromántica. Es la conversación que protege a los dos.
 
 ---
 
 ## Capítulo 5: Cómo evoluciona el modelo con el tiempo
 
-El modelo financiero de una pareja no tiene que ser fijo para siempre.
+El modelo financiero de una pareja no es una decisión para siempre. Puede y suele cambiar conforme cambia la vida.
 
-En las primeras etapas de convivencia, puede ser más natural mantener cierta separación. A medida que la relación se consolida y aparecen proyectos comunes (hipoteca, hijos, inversiones), el modelo suele evolucionar hacia más integración.
+En las primeras etapas de convivencia, cuando la confianza se está consolidando y los proyectos comunes son todavía pocos, puede ser natural mantener más separación. A medida que la relación se consolida y aparecen objetivos comunes, hipoteca, hijos, inversiones conjuntas, el modelo suele moverse hacia más integración.
 
-Cuando llegan los hijos y uno de los dos reduce su jornada o para de trabajar, el modelo de separación total deja de ser sostenible: uno deja de tener ingresos pero tiene los mismos gastos de vida.
+Cuando llegan los hijos y uno de los dos reduce la jornada o para de trabajar, el modelo de separación total deja de ser sostenible: uno deja de tener ingresos propios significativos y necesita acceso a los recursos del hogar de forma estructurada.
 
-Cuando se compra una vivienda juntos, lo que era "de cada uno" se mezcla en un activo compartido.
+Cuando la relación atraviesa una crisis, en algunos casos tiene sentido formalizar más la separación para reducir los puntos de fricción, mientras se trabaja en la comunicación.
 
-El modelo también puede evolucionar en la dirección contraria. Si después de años juntos se descubren valores financieros muy diferentes, puede ser conveniente formalizar más la separación para reducir el conflicto.
-
----
-
-## Capítulo 6: El dinero de bolsillo: la pieza que une todos los modelos
-
-Independientemente del modelo elegido, el dinero de bolsillo es casi siempre una buena idea.
-
-Es una cantidad acordada que cada persona puede gastar en lo que quiera sin necesitar justificación ni permiso.
-
-Para que funcione, tiene que cumplir tres condiciones:
-1. **Acordado y simétrico** (o justificadamente asimétrico): los dos tienen dinero de bolsillo, aunque no necesariamente la misma cantidad si los ingresos son muy diferentes.
-2. **Sin rendición de cuentas:** lo que se gasta del dinero de bolsillo es personal. No se comenta, no se critica.
-3. **Suficiente para tener autonomía real:** si es tan pequeño que no permite ningún gasto sin tener que usar la cuenta conjunta, pierde su función.
-
-El dinero de bolsillo no tiene que ser grande. Puede ser 50 euros o 500 según los ingresos. Lo importante es que exista.
+El modelo puede cambiar en cualquier dirección. Lo que importa es que los cambios sean acordados explícitamente, no que uno de los dos los imponga de facto cambiando sus hábitos sin conversación.
 
 ---
 
-## Capítulo 7: Las cuentas de ahorro e inversión conjuntas
+## Capítulo 6: El dinero de bolsillo — la pieza que hace sostenible cualquier modelo
 
-Más allá de las cuentas corrientes, las inversiones conjuntas tienen su propia complejidad.
+Independientemente del modelo elegido, el dinero personal es casi siempre una buena idea en cualquier pareja que comparte finanzas.
 
-¿Quién toma las decisiones de inversión? ¿Quién tiene acceso a las cuentas de bróker? ¿Cómo se decide cuándo vender o rebalancear?
+Es una cantidad acordada que cada persona puede gastar en lo que quiera sin necesitar justificación ni permiso del otro. No importa si es para un capricho, para regalos a amigos, para un hobby, para ahorrar en una cuenta propia.
 
-Para inversiones significativas, la recomendación es:
-- Ambos miembros de la pareja deben tener acceso a las cuentas, aunque uno sea el gestor principal
-- Las decisiones relevantes (cambiar estrategia, hacer retiradas grandes, cambiar el perfil de riesgo) deben acordarse
-- Ambos deben entender el plan aunque no quieran gestionarlo activamente
+Para que funcione, necesita cumplir tres condiciones. Tiene que ser acordado y razonablemente proporcional: los dos tienen dinero personal, aunque no necesariamente la misma cantidad si los ingresos son muy distintos. Tiene que ser libre de rendición de cuentas: lo que se gasta del dinero personal no se comenta, no se cuestiona, no se juzga. Y tiene que ser suficiente para que la autonomía sea real: si es tan pequeño que no cubre ningún gasto sin recurrir a la cuenta conjunta, pierde su función.
 
-El riesgo de que solo uno gestione sin que el otro sepa nada: si esa persona fallece o se incapacita, el otro queda perdido. Si la relación se rompe, el que no gestionaba puede estar en desventaja.
+El cuñado de Carlos y su ex mujer no tenían dinero personal. Cada gasto requería justificación ante el otro. Cada compra era una negociación o un reproche. Esa dinámica agotó la relación antes de que lo hiciera cualquier otro factor.
 
 ---
 
-## Capítulo 8: Transparencia sin control
+## Capítulo 7: La inversión conjunta — más que una cuenta corriente
 
-Hay una diferencia importante entre transparencia financiera y control financiero.
+Más allá de las cuentas para el día a día, las inversiones conjuntas tienen su propia complejidad que merece atención.
 
-La transparencia es compartir información: cuánto ganas, cuánto gastas, cuánto tienes. Eso fortalece la relación.
+¿Quién toma las decisiones de inversión? ¿Quién tiene acceso a las cuentas del bróker? ¿Cómo se decide cuándo rebalancear, cuándo hacer aportaciones extraordinarias, cuándo cambiar la estrategia?
 
-El control es supervisar los gastos del otro, cuestionar cada compra, pedir justificación de cada euro gastado. Eso es una forma de abuso financiero y destruye la relación.
+Las recomendaciones prácticas para inversión conjunta son tres. Ambos miembros de la pareja deben tener acceso a las cuentas de inversión, aunque uno sea el gestor principal del día a día. Las decisiones relevantes, cambiar la estrategia, hacer retiradas grandes, modificar el perfil de riesgo, deben acordarse explícitamente. Y ambos deben entender el plan general aunque no quieran seguir cada movimiento del mercado.
 
-El modelo de cuentas elegido tiene que garantizar la transparencia sin abrir la puerta al control.
-
-Por eso el dinero de bolsillo es tan importante: es la zona libre de transparencia. Lo que el otro gasta ahí es suyo. No necesita explicarlo.
+El riesgo de que solo uno gestione completamente sin que el otro sepa nada: si esa persona fallece, se incapacita temporalmente, o si la relación se rompe, quien no gestionaba queda en una posición de vulnerabilidad real. Sin información sobre dónde está el dinero, sin acceso a las cuentas, sin entender el plan.
 
 ---
 
-## Capítulo 9: Cuando el modelo deja de funcionar
+## Capítulo 8: Transparencia no es control
 
-Los modelos financieros de pareja fallan cuando:
-- Los ingresos cambian significativamente y el modelo no se actualiza
-- Uno de los dos empieza a ocultar gastos (lo que indica un problema más profundo de comunicación)
-- El modelo genera resentimiento crónico que no se aborda
-- Hay un gran gasto imprevisto y no hay acuerdo sobre cómo manejarlo
+Hay una distinción que es fundamental para que cualquier modelo de cuentas en pareja funcione sin daño.
 
-La señal de que el modelo hay que revisar es cuando el dinero se convierte en un tema recurrente de conflicto. No el conflicto puntual. El conflicto sistemático.
+La transparencia financiera es compartir información relevante: cuánto gana cada uno, cuánto gasta, cuánto tiene, cuál es el plan. Eso fortalece la relación y permite planificar de forma real.
 
-Ese es el momento de volver al capítulo 1: hablar de valores antes de hablar de cuentas.
+El control financiero es supervisar los gastos del otro, cuestionar cada compra, requerir justificación de cada euro. Eso es, en sus formas más extremas, una forma de abuso financiero. Y en sus formas más suaves, una forma de infantilizar a un adulto que destruye la confianza.
+
+El modelo de cuentas tiene que garantizar la transparencia sin abrir la puerta al control. El dinero personal de cada uno es la zona libre de transparencia. Lo que se gasta en él es personal y no necesita explicación.
+
+Si en una pareja hay transparencia total pero también libertad individual, la conversación sobre el dinero fluye con naturalidad. Si hay control disfrazado de transparencia, el dinero se convierte en un campo de batalla permanente.
 
 ---
 
-## Capítulo 10: El modelo no es el matrimonio
+## Capítulo 9: Cuando el modelo falla
 
-Un error frecuente: creer que el modelo financiero refleja o determina el tipo de relación.
+Los modelos financieros de pareja empiezan a fallar cuando la realidad cambia y el modelo no se actualiza. Los ingresos cambian significativamente y el modelo de aportaciones no se ajusta. Uno de los dos empieza a ocultar gastos, que es una señal de que hay un problema de comunicación más profundo. El modelo genera resentimiento crónico que no se aborda. Hay un gasto grande imprevisto y no hay acuerdo previo sobre cómo manejarlo.
 
-"Si tenemos cuentas separadas, es porque no confiamos el uno en el otro."
-"Si mezclamos todo, es porque somos más pareja de verdad."
+La señal de que el modelo hay que revisar es cuando el dinero se convierte en un tema recurrente de fricción. No el conflicto puntual, que es normal. El conflicto sistemático, donde el dinero aparece en casi todas las discusiones aunque el tema superficial sea otro.
 
-Ninguna de las dos afirmaciones es cierta.
+Ese es el momento de volver al principio: hablar de valores antes de hablar de cuentas. Porque casi siempre el conflicto sobre las cuentas es un conflicto sobre lo que las cuentas representan.
 
-El modelo financiero es un instrumento. Una herramienta para gestionar algo práctico de la vida conjunta. No es una declaración de amor ni de desconfianza.
+---
 
-La confianza se construye con comunicación, con respeto, con coherencia. No con el nombre en una cuenta bancaria.
+## Capítulo 10: El modelo no define la relación
+
+Un error frecuente en las conversaciones sobre finanzas en pareja: creer que el modelo elegido dice algo sobre la naturaleza o la calidad de la relación.
+
+"Si tenemos cuentas separadas, es que no confiamos el uno en el otro." "Si mezclamos todo, somos más pareja de verdad."
+
+Ninguna de las dos afirmaciones tiene base. Las parejas con cuentas separadas pueden tener una confianza y una comunicación excelentes. Las parejas con cuenta conjunta total pueden tener conflictos financieros permanentes.
+
+El modelo es un instrumento para gestionar algo práctico. No es una declaración de amor ni de desconfianza.
+
+La confianza se construye con comunicación honesta, con coherencia entre lo que se dice y lo que se hace, con respeto a los acuerdos. No con el nombre que figura en una cuenta bancaria.
 
 ---
 
 ## Epílogo: El sistema que dura
 
-El mejor modelo es el que ambos pueden mantener durante años sin que genere resentimiento, sin que uno de los dos se sienta controlado ni sin autonomía, y que permita construir el proyecto económico que los dos quieren.
+El mejor modelo es el que ambos pueden mantener durante años sin generar resentimiento, sin que uno sienta que pierde autonomía, y que al mismo tiempo permite construir el proyecto económico común que los dos quieren.
 
-Ese modelo puede cambiar con el tiempo. Probablemente lo hará. Y ajustarlo es una señal de que la relación está viva y se adapta.
+Ese modelo puede cambiar con el tiempo. Probablemente lo hará. Y ajustarlo cuando cambia la vida no es señal de que algo va mal. Es señal de que la pareja se adapta.
 
-El siguiente libro, "Cuando uno gana más que el otro", aborda uno de los escenarios más delicados de las finanzas en pareja: la asimetría económica y cómo gestionarla sin que destruya la equidad ni la confianza.
+El siguiente libro, "Cuando uno gana más que el otro", aborda uno de los escenarios más delicados de las finanzas en pareja: la asimetría de ingresos y cómo gestionarla sin que destruya la equidad ni la confianza.
 
 ---
 
