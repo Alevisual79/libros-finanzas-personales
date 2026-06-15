@@ -6,155 +6,155 @@
 
 ---
 
-## Prólogo: El riesgo que se evita pensar
+## Prólogo: El compañero de Marta
 
-Hay riesgos financieros que la gente planifica con normalidad.
+Marta tiene una compañera de máster con quien mantiene el contacto. Diseñadora como ella, misma edad, misma ciudad. Las dos fueron autónomas al mismo tiempo, las dos construyeron sus carteras de clientes más o menos en paralelo.
 
-El desempleo. La avería del coche. Los imprevistos del hogar.
+Hace dos años, a la compañera de Marta le diagnosticaron esclerosis múltiple.
 
-Y hay un riesgo que la mayoría evita incluso pensar porque es demasiado incómodo.
+No fue una incapacitación inmediata ni dramática. Fue gradual. Primero el cansancio que no tenía explicación. Después algunos síntomas que iban y venían. Después el diagnóstico, los médicos, el proceso de adaptación.
 
-La incapacidad permanente por enfermedad o accidente.
+Durante el primer año, la compañera de Marta intentó seguir trabajando. Algunos meses funcionaba. Otros meses era imposible. Los clientes, comprensiblemente, empezaron a buscar diseñadores más fiables.
 
-La posibilidad de que el cuerpo deje de poder trabajar. No temporalmente. Permanentemente.
+La compañera de Marta tenía ahorros para dos o tres meses. No tenía seguro de incapacidad. Tenía la cuota de autónoma al día, lo que le daba derecho a la prestación pública por incapacidad temporal, pero el proceso de reconocimiento de una incapacidad permanente puede llevar uno o dos años mientras se tramitan informes, recursos y revisiones.
 
-Es el riesgo financiero con mayor impacto potencial. Y el que menos gente ha planificado.
+Marta lo siguió de cerca. Y lo que vio la llevó a revisar su propia situación con una honestidad que hasta entonces había evitado.
 
----
+"Nunca pensé que me podía pasar algo así", le dijo su compañera una tarde. "Nadie piensa que le va a pasar."
 
-## Capítulo 1: El sistema español de prestaciones por incapacidad
-
-España tiene un sistema público de protección para la incapacidad laboral.
-
-**Incapacidad temporal (IT):**
-La baja médica. Cubre la imposibilidad temporal de trabajar.
-- Los primeros 3 días: no hay prestación (a menos que el convenio colectivo lo mejore)
-- Del 4 al 20 día: la empresa paga el 60% de la base reguladora
-- Del 21 en adelante: la Seguridad Social paga el 60% (o el 75% según el convenio)
-- Máximo: 545 días (con posibilidad de prórroga)
-
-**Incapacidad permanente parcial:** La incapacidad reduce en al menos un tercio el rendimiento en la profesión habitual. Se cobra una indemnización a tanto alzado.
-
-**Incapacidad permanente total:** No se puede ejercer la profesión habitual pero sí otras. Se cobra una pensión del 55% de la base reguladora (puede llegar al 75% con condiciones especiales).
-
-**Incapacidad permanente absoluta:** No se puede realizar ningún tipo de trabajo. Pensión del 100% de la base reguladora.
-
-**Gran invalidez:** Se necesita ayuda de otra persona para los actos esenciales de la vida. Pensión del 150% de la base reguladora.
+Exactamente.
 
 ---
 
-## Capítulo 2: La realidad de las prestaciones
+## Capítulo 1: El riesgo que se evita pensar
 
-El sistema existe. Pero tiene limitaciones importantes.
+Hay riesgos financieros que la gente planifica con relativa normalidad. El desempleo se considera una posibilidad real. Los imprevistos del hogar están en el radar. El coche puede averiarse.
 
-**Las pensiones de incapacidad suelen ser bajas.** Si la base reguladora es baja (por haber tenido un salario bajo o una carrera corta), la prestación también lo será. La incapacidad permanente total con una base de 1.200 euros resulta en una pensión de 660 euros al mes. Con eso es difícil vivir.
+Y hay un riesgo que la mayoría evita incluso pensar porque es demasiado incómodo de contemplar.
 
-**El proceso de reconocimiento puede ser largo.** Años de trámites, recursos, tribunales médicos. Mientras tanto, se puede estar sin ingresos adecuados.
+La incapacidad permanente por enfermedad o accidente. La posibilidad de que el cuerpo deje de poder trabajar. No temporalmente. De forma permanente o semipermanente.
 
-**Las exclusiones existen.** Algunas condiciones no están reconocidas o son difíciles de probar.
+Es el riesgo financiero con mayor impacto potencial de cuantos puede enfrentar una persona en edad laboral. Y el que menos gente ha planificado.
 
-**Los autónomos están más desprotegidos.** Especialmente quienes cotizaron por la base mínima durante años.
+La razón de ese evitar es comprensible: pensar en la propia enfermedad grave o en la pérdida de capacidad activa algo que los psicólogos llaman sesgo de optimismo, la tendencia humana a asumir que los eventos negativos les ocurren a otros pero no a uno mismo. Y en el terreno de la salud, esa tendencia se intensifica porque el tema toca directamente la mortalidad y la vulnerabilidad.
 
----
-
-## Capítulo 3: El seguro de incapacidad temporal
-
-Para empleados, la IT está cubierta por la Seguridad Social y, en muchos casos, el convenio colectivo mejora las condiciones.
-
-Para autónomos, la situación es diferente.
-
-Un autónomo en IT cobra de la Seguridad Social, pero la cuota de autónomos sigue. Y si el negocio necesita que alguien lo sustituya (o simplemente se para), los ingresos del negocio caen.
-
-Los seguros de incapacidad temporal para autónomos o trabajadores por cuenta propia que quieren mejorar la cobertura pueden ser una opción válida.
-
-Marta, diseñadora autónoma, si cae enferma durante 3 meses, pierde prácticamente todos sus ingresos. Con una póliza de IT adecuada, al menos mantendría una cobertura parcial.
+El resultado es que la mayoría de las personas llegan a esa situación, si llegan, completamente desprotegidas.
 
 ---
 
-## Capítulo 4: El seguro de invalidez permanente
+## Capítulo 2: El sistema español de protección por incapacidad
 
-Para los riesgos más graves (incapacidad permanente absoluta o gran invalidez), el sistema público puede cubrir parte del coste, pero raramente todo.
+España tiene un sistema público de protección para la incapacidad laboral que es importante conocer antes de necesitarlo.
 
-Los seguros de vida a menudo incluyen coberturas de invalidez. Merece revisar si el seguro de vida contratado (si lo hay) incluye cobertura por invalidez y en qué condiciones.
+La incapacidad temporal, la baja médica, cubre la imposibilidad temporal de trabajar. Los primeros tres días sin prestación, a menos que el convenio colectivo del sector lo mejore. Del cuarto al día veinte, la empresa paga el sesenta por ciento de la base reguladora. Del día veintiuno en adelante, la Seguridad Social paga el sesenta por ciento, o el setenta y cinco dependiendo del tipo de incapacidad.
 
-También existen seguros específicos de invalidez permanente que pagan un capital si se produce la situación.
+La incapacidad permanente parcial reconoce que la persona no puede rendir al mismo nivel en su profesión habitual, pero sí puede trabajar en otras. Se paga una indemnización a tanto alzado, no una pensión mensual.
 
-Para quien tiene deudas importantes (hipoteca) o dependientes, un seguro de invalidez puede ser tan importante como el seguro de vida.
+La incapacidad permanente total reconoce que no se puede ejercer la profesión habitual, aunque sí otras. Se paga una pensión del cincuenta y cinco por ciento de la base reguladora, con posibilidad de llegar al setenta y cinco por ciento en condiciones específicas.
+
+La incapacidad permanente absoluta reconoce que no se puede realizar ningún tipo de trabajo. Pensión del cien por cien de la base reguladora.
+
+La gran invalidez reconoce que además de no poder trabajar, la persona necesita ayuda de otra persona para las actividades esenciales de la vida cotidiana. Pensión del ciento cincuenta por ciento.
+
+Estos son los nombres oficiales. El proceso para obtener cualquier reconocimiento de incapacidad permanente es largo: informes médicos, tribunal médico, resolución, posibles recursos. Puede llevar uno o dos años.
+
+---
+
+## Capítulo 3: Las limitaciones del sistema público
+
+El sistema existe y es un pilar importante. Pero tiene limitaciones reales que conviene conocer.
+
+Las pensiones de incapacidad suelen ser bajas si la carrera profesional lo era. Si alguien ha ganado poco o ha cotizado poco, la base reguladora es baja y la pensión resultante también lo es. Una incapacidad permanente total con una base reguladora de mil doscientos euros resulta en una pensión de seiscientos sesenta euros mensuales. Con eso es difícil vivir en cualquier ciudad española mediana.
+
+El proceso de reconocimiento es lento y puede ser desgastador. Mientras dura el proceso, la persona puede estar meses o años sin los ingresos adecuados, viviendo de lo que quede del fondo de emergencia o dependiendo de la familia.
+
+Los autónomos que cotizaron por la base mínima durante años tienen bases reguladoras bajas y pensiones de incapacidad bajas. Marta, si cotizara por la base mínima y tuviera una incapacidad permanente absoluta, recibiría alrededor de seiscientos euros mensuales. No es suficiente.
+
+---
+
+## Capítulo 4: Los seguros privados de incapacidad
+
+Para cubrir lo que el sistema público no cubre o lo que tarda en activarse, existen seguros privados de incapacidad.
+
+Muchos seguros de vida incluyen coberturas de invalidez que vale la pena revisar. Si hay un seguro de vida activo, las condiciones generales deberían especificar qué grado de invalidez activa la cobertura, cuál es el capital que se pagaría y si hay exclusiones relevantes.
+
+Los seguros específicos de incapacidad permanente pagan un capital acordado si se produce la situación. Para alguien con deudas importantes como una hipoteca, este capital puede ser la diferencia entre poder mantener la vivienda o tener que venderla en el peor momento.
+
+Los seguros de incapacidad temporal para autónomos cubren el período de baja pagando una cantidad diaria o mensual acordada. Son especialmente relevantes para autónomos como Marta cuya capacidad de generar ingresos depende directamente de su capacidad de trabajar: si no diseña, no cobra.
+
+La compañera de Marta no tenía ninguno de estos seguros. Cuando Marta lo revisó, contrató una póliza de incapacidad temporal para autónomos. La prima es cincuenta y dos euros al mes. La cobertura es seiscientos euros mensuales en caso de baja por enfermedad o accidente a partir del cuarto día. No es suficiente para cubrir todos sus gastos, pero reduce significativamente la presión económica si ocurre algo.
 
 ---
 
 ## Capítulo 5: Las enfermedades crónicas y las finanzas
 
-Una enfermedad crónica no siempre incapacita totalmente. Pero sí puede tener un impacto financiero significativo.
+Una enfermedad crónica no siempre produce una incapacidad legal reconocida. Pero sí puede tener un impacto financiero significativo y permanente.
 
-- Costes continuos de medicación y tratamientos
-- Reducción de la capacidad de trabajo (fatiga, dolor, limitaciones)
-- Coste de adaptaciones del hogar o del puesto de trabajo
-- Coste de cuidados adicionales
-- Impacto en la carrera profesional
+El coste directo de los tratamientos, medicamentos y citas médicas puede ser relevante incluso con el sistema público: los copagos, los medicamentos no cubiertos, los tratamientos alternativos, las consultas con especialistas privados cuando las listas de espera son largas.
 
-Las enfermedades crónicas que no llegan al umbral de incapacidad legal (y por tanto no dan derecho a prestaciones) pero sí afectan significativamente a la capacidad de generar ingresos son un riesgo financiero real que pocas personas han pensado.
+El impacto indirecto en la capacidad de trabajo puede ser mayor. La fatiga crónica que impide trabajar jornadas largas. El dolor que reduce la concentración. Los días malos que hacen que algunos compromisos no se puedan cumplir. Ninguna de estas situaciones llega necesariamente al umbral de la incapacidad legal, pero todas reducen los ingresos posibles.
 
-El fondo de emergencia robusto y los seguros adecuados son la primera línea de defensa.
+La adaptación del hogar o del puesto de trabajo puede añadir costes significativos que no se habían anticipado.
+
+El impacto en la carrera profesional puede ser el más duradero: quien no puede comprometerse con ciertas responsabilidades, quien tiene ausentismo frecuente, quien no puede viajar o trabajar en ciertos entornos, queda fuera de determinadas trayectorias profesionales independientemente de su capacidad o sus habilidades.
 
 ---
 
 ## Capítulo 6: La incapacidad de un familiar cercano
 
-El impacto financiero de una enfermedad grave no solo afecta al enfermo.
+El impacto financiero de una enfermedad grave o incapacidad no se limita a quien la padece. Afecta también a quien cuida.
 
-Cuando un miembro de la familia sufre una incapacidad grave, otro miembro suele asumir el cuidado.
+Cuando un miembro de la familia sufre una incapacidad grave, es frecuente que otro asuma el cuidado: el cónyuge que reduce su jornada, el hijo adulto que tiene que estar disponible con más frecuencia, el familiar que asume la gestión de todo lo que la persona no puede gestionar.
 
-Ese cuidador:
-- Puede tener que reducir su jornada laboral
-- Puede tener que dejar de trabajar temporalmente
-- Puede tener costes adicionales (transporte, tratamientos, adaptaciones)
+Ese cuidador pierde ingresos directamente si reduce su jornada o deja de trabajar. Pierde progresión profesional si queda fuera de proyectos y responsabilidades. Y puede tener costes adicionales de transporte, adaptaciones, o servicios de apoyo.
 
-El cuidado informal de una persona con incapacidad severa tiene un coste económico y personal enorme para el cuidador. Y raramente está planificado de antemano.
+Este impacto en el cuidador raramente se planifica de antemano. Y puede ser tan significativo como el impacto en la persona que está enferma.
+
+Carlos ha pensado en esto aplicado a Ana. Si él tuviera una incapacidad grave, Ana tendría que asumir tanto el cuidado como la carga económica de la familia. Su sueldo de jornada parcial no cubre los gastos actuales. Sin el seguro de vida de Carlos y sin el seguro de incapacidad, la situación sería precaria desde el primer mes.
 
 ---
 
 ## Capítulo 7: Cómo planificar para este riesgo
 
-La planificación para la incapacidad tiene varias capas:
+La planificación para la incapacidad tiene varias capas que se refuerzan mutuamente.
 
-**Capa 1: Fondo de emergencia sólido.** Para cubrir el período inicial antes de que se activen las prestaciones públicas o los seguros.
+La primera capa es el fondo de emergencia sólido, que cubre el período inicial entre la incapacidad y la activación de las prestaciones públicas o los seguros. Ese período puede ser de meses.
 
-**Capa 2: Seguro de vida con cobertura de invalidez.** Revisar si el seguro de vida actual incluye esto y si es suficiente.
+La segunda es revisar el seguro de vida existente, si lo hay, para verificar si incluye cobertura de invalidez y en qué condiciones. Y considerar si la cobertura es suficiente para el nivel de dependencia financiera que existe en la familia.
 
-**Capa 3: Conocer las prestaciones públicas a las que se tiene derecho.** Entender el sistema antes de necesitarlo.
+La tercera es conocer de antemano el sistema de prestaciones públicas: qué grados de incapacidad existen, qué se cobra en cada uno, cuál es el proceso para solicitarlo. Esa información, cuando se necesita urgentemente, es mucho más difícil de procesar.
 
-**Capa 4: Diversificación de ingresos.** Si no toda la capacidad económica depende de la capacidad física de una persona, el impacto de la incapacidad se reduce.
+La cuarta, para autónomos especialmente, es considerar un seguro de incapacidad temporal que cubra al menos los gastos esenciales durante una baja prolongada.
 
-**Capa 5: Testamento y poder notarial actualizados.** Si hay incapacidad cognitiva o grave, es fundamental que haya alguien con capacidad legal de actuar.
-
----
-
-## Capítulo 8: El accidente y sus consecuencias
-
-Los accidentes de tráfico, de trabajo o domésticos son la causa más frecuente de incapacidades permanentes en personas en edad laboral.
-
-El accidente de trabajo está cubierto por el sistema con condiciones generalmente más favorables que la enfermedad común.
-
-El accidente de tráfico puede dar acceso a indemnizaciones del seguro del vehículo causante (responsabilidad civil).
-
-El accidente doméstico o de ocio puede quedar fuera de coberturas específicas.
-
-Para accidentes graves en contextos no cubiertos, el sistema público de incapacidad permanente es la red principal.
+La quinta es mantener el testamento y el poder notarial actualizados. Si hay incapacidad cognitiva o física grave, es fundamental que haya alguien con capacidad legal de actuar en nombre de quien no puede.
 
 ---
 
-## Capítulo 9: Discapacidad reconocida y sus ventajas
+## Capítulo 8: Discapacidad reconocida y sus ventajas
 
-El reconocimiento oficial de discapacidad en España abre acceso a varias ventajas que muchas personas no conocen.
+El reconocimiento oficial de discapacidad en España, que se tramita a través de los servicios autonómicos de atención a personas con discapacidad, abre acceso a ventajas concretas que muchas personas no conocen.
 
-- Deducciones fiscales significativas en el IRPF (para la persona con discapacidad y, en algunos casos, para quien la cuida)
-- Prestaciones y ayudas adicionales según el grado
-- Cuotas reducidas en algunos servicios y transporte
-- Acceso a reservas de empleo en empresas de más de 50 trabajadores
-- Beneficios en contratación de planes de pensiones y seguros
+Las deducciones fiscales en el IRPF son significativas tanto para la persona con discapacidad como, en algunos casos, para quienes la cuidan. Una persona con discapacidad reconocida del treinta y tres por ciento tiene deducciones adicionales en la declaración de la renta.
 
-El reconocimiento de discapacidad no es una rendición. Es acceder a un sistema de apoyo que existe.
+Las cuotas reducidas en transporte, servicios y otros ámbitos varían por comunidad autónoma pero pueden ser relevantes.
+
+Las reservas de empleo en empresas de más de cincuenta trabajadores, que tienen obligación de que al menos el dos por ciento de su plantilla tenga discapacidad reconocida, pueden facilitar el acceso al mercado laboral.
+
+Los beneficios en planes de pensiones para personas con discapacidad incluyen mayores límites de aportación y condiciones de rescate más favorables.
+
+El reconocimiento de discapacidad no es una rendición. Es acceder a un sistema de apoyo que existe y que se ha cotizado para que exista.
+
+---
+
+## Capítulo 9: El accidente
+
+Los accidentes de tráfico, laborales o domésticos son una de las causas más frecuentes de incapacidad permanente en personas en edad laboral, y tienen características particulares desde el punto de vista de la protección financiera.
+
+El accidente laboral, el que ocurre en el trabajo o en el trayecto al trabajo, está cubierto por el sistema con condiciones generalmente más favorables que la enfermedad común: las prestaciones son más altas y el proceso de reconocimiento puede ser más rápido.
+
+El accidente de tráfico puede dar acceso a indemnizaciones del seguro de responsabilidad civil del vehículo que causó el accidente. Esa indemnización puede incluir los daños físicos, los lucros cesantes por incapacidad laboral y los daños morales.
+
+El accidente doméstico o de ocio, resbalarse en casa, tener un accidente practicando deporte, no tiene cobertura específica más allá del sistema público general de incapacidad. Y es frecuente: los accidentes domésticos son más numerosos de lo que se suele asumir.
 
 ---
 
@@ -162,25 +162,31 @@ El reconocimiento de discapacidad no es una rendición. Es acceder a un sistema 
 
 Este libro existe porque la enfermedad y la incapacidad son temas que la gente evita hasta que son urgentes.
 
-La conversación que nadie quiere tener:
-- Si yo no pudiera trabajar mañana, ¿cuánto duraría nuestra situación económica?
-- ¿Hay alguien con capacidad legal de gestionar mis asuntos?
-- ¿Mis seguros cubren este escenario?
-- ¿Mi pareja o familia sabe dónde están los documentos importantes?
+La conversación que nadie quiere tener pero que vale la pena tener tiene cuatro preguntas.
 
-Tener esa conversación, hacerse esas preguntas, y actuar sobre las respuestas es uno de los actos más responsables que una persona puede hacer por sí misma y por quienes dependen de ella.
+Si yo no pudiera trabajar a partir de mañana, ¿cuánto tiempo podría sostener la situación económica de mi familia?
+
+¿Hay alguien con capacidad legal de gestionar mis asuntos si yo no pudiera hacerlo?
+
+¿Mis seguros actuales cubren este escenario y en qué condiciones?
+
+¿Mi pareja o familia sabe dónde están los documentos importantes, los seguros activos, las cuentas, las deudas?
+
+Tener esas preguntas respondidas, y actuar sobre las respuestas, es uno de los actos de responsabilidad financiera más importantes que existe. No porque cambie la probabilidad de que ocurra algo. Sino porque determina lo que ocurre después si ocurre.
 
 ---
 
 ## Epílogo: Prepararse no es tener miedo
 
-Planificar para la enfermedad y la incapacidad no es vivir con miedo a que ocurran.
+Planificar para la enfermedad y la incapacidad no es vivir con miedo a que lleguen.
 
-Es reconocer que la vida no siempre sigue el plan, y que esa posibilidad merece preparación.
+Es reconocer que la vida no siempre sigue el plan que se había diseñado, y que esa posibilidad merece preparación antes de que sea necesaria.
 
-Quien está preparado vive sin ese miedo de fondo. Quien no lo está, lo lleva como una angustia no nombrada.
+Quien tiene las coberturas adecuadas vive sin ese miedo de fondo. Quien no las tiene, las lleva como una angustia no nombrada que se activa cada vez que aparece una noticia sobre una enfermedad o un accidente.
 
-El siguiente libro, "El seguro de vida: Cuándo tiene sentido y cuándo no", profundiza en uno de los instrumentos de protección más importantes y más mal entendidos del mercado financiero.
+La compañera de Marta atraviesa todavía un proceso difícil. Pero está mejor que hace un año. Marta le ayudó a tramitar el reconocimiento de discapacidad y a entender qué prestaciones le correspondían. Y Marta, habiendo visto de cerca lo que ocurre cuando no hay preparación, tiene ahora las suyas.
+
+El siguiente libro, "El seguro de vida: Cuándo tiene sentido y cuándo no", profundiza en uno de los instrumentos de protección más importantes y más mal entendidos del mercado financiero español.
 
 ---
 
