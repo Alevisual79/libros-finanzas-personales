@@ -6,221 +6,227 @@
 
 ---
 
-## Prólogo: La economía del conocimiento
+## Prólogo: La llamada que Marta no esperaba
 
-Hay algo que ha cambiado fundamentalmente en los últimos veinte años.
+Era un martes por la tarde cuando Marta recibió la llamada.
 
-El acceso a mercados.
+Un empresario de Bilbao había visto su perfil en LinkedIn. Necesitaba una identidad visual completa para su nueva empresa. Logo, paleta de colores, papelería, plantillas para redes sociales.
 
-Antes, para vender tus habilidades a alguien que no era tu empleador directo, necesitabas contactos, presencia física, boca a boca lento.
+"¿Cuánto cobrarías por algo así?"
 
-Hoy, con internet, puedes tener un cliente en otra ciudad, otro país, otro continente, sin moverte de tu casa.
+Marta había preparado esa respuesta hacía semanas. "Depende del alcance, pero un proyecto completo de identidad corporativa está entre 800 y 1.400 euros."
 
-Marta lo hace. Sus clientes de diseño están en Madrid, Barcelona, Bilbao y uno en Ciudad de México.
+Silencio al otro lado de la línea.
 
-Carlos podría hacerlo. Sus habilidades de telecomunicaciones tienen demanda online.
+Marta apretó el teléfono con más fuerza.
 
-El freelance moderno no requiere montar una empresa. No requiere una oficina. No requiere un gran capital inicial.
+"Perfecto. Me parece razonable. ¿Cuándo podríamos empezar?"
 
-Requiere una habilidad. Un precio. Y saber comunicar el valor que ofreces.
+Esa tarde, Marta firmó por correo electrónico su primer proyecto de 1.100 euros fuera de las plataformas de freelance. Sin intermediarios. Sin comisión del 20% para Fiverr.
 
----
+Lo que le habían tomado dos años construir, se materializaba en una llamada de diez minutos.
 
-## Capítulo 1: La diferencia entre freelance y autónomo
-
-En España, hay confusión entre estos dos términos.
-
-**Autónomo:** Régimen fiscal y de seguridad social. Alta en Hacienda. Cotización mensual a la Seguridad Social. Obligaciones trimestrales de IVA e IRPF.
-
-**Freelance:** Modo de trabajo. Trabajar por proyectos para diferentes clientes sin vínculo laboral fijo. El freelance puede ser autónomo o no, dependiendo de los ingresos y la regularidad de la actividad.
-
-Para quien empieza con una segunda fuente modesta (menos de 1.000 euros al año): no es estrictamente necesario el alta como autónomo, aunque los ingresos deben declararse en IRPF.
-
-Para quien genera más de esa cantidad o de forma regular: el alta como autónomo es necesario legal y fiscalmente.
-
-La tarifa plana para nuevos autónomos en España (80 euros los primeros 12 meses en el nivel más bajo) hace el coste de inicio mucho más asumible que hace años.
+El freelance no es solo una forma de ganar dinero. Es una forma diferente de relacionarse con el mercado. Y Marta tardó dos años en entender cómo construirlo bien.
 
 ---
 
-## Capítulo 2: Las habilidades más demandadas en el mercado freelance
+## Capítulo 1: Autónomo y freelance — dos cosas distintas que se confunden
 
-No todas las habilidades tienen la misma demanda online.
+La confusión es habitual.
 
-Las de mayor demanda según plataformas como Upwork y Freelancer:
+En España, "autónomo" es un régimen fiscal y de seguridad social. Significa que estás dado de alta en Hacienda y en la Seguridad Social como trabajador por cuenta propia. Tienes obligaciones trimestrales de IVA e IRPF. Pagas una cuota mensual a la Seguridad Social.
 
-**Tecnología:** Desarrollo web, desarrollo de aplicaciones, análisis de datos, ciberseguridad, administración de sistemas, soporte técnico.
+"Freelance" es una forma de trabajar. Proyectos para múltiples clientes sin vínculo laboral fijo. Un freelance puede ser autónomo o no serlo, dependiendo de sus ingresos y la regularidad de la actividad.
 
-**Diseño:** Diseño gráfico (Marta), diseño web, UI/UX, motion graphics, ilustración, fotografía y edición.
+Para quien empieza con ingresos menores de 1.000 euros al año: los ingresos deben declararse en el IRPF pero no es estrictamente necesario el alta como autónomo todavía.
 
-**Marketing y contenidos:** Redacción de contenidos, SEO, gestión de redes sociales, email marketing, copywriting.
+Para quien genera más de esa cantidad o de forma regular: el alta como autónomo es necesaria legal y fiscalmente. La tarifa plana para nuevos autónomos (80 euros mensuales los primeros doce meses en la categoría más baja) hace el coste de inicio mucho más razonable que hace unos años.
 
-**Gestión:** Asistencia virtual, gestión de proyectos, administración online.
+Carlos, cuando empezó con sus servicios de red doméstica, pasó los primeros cuatro meses sin dararse de alta. Cuando superó los 1.000 euros anuales en el tercer mes, consultó con un gestor. El alta se produjo en el quinto mes. Sin retroactividad ni problemas.
 
-**Formación:** Clases de idiomas, formación en software, consultoría especializada.
-
-**Consultoría profesional:** Servicios jurídicos, fiscales, contables, de ingeniería.
-
-Si tu habilidad no aparece aquí, no significa que no haya mercado. Significa que puede que tengas que buscarlo de forma más específica.
+Hay que moverse en la legalidad, pero no paralizarse por ella al inicio.
 
 ---
 
-## Capítulo 3: Fijar el precio sin subestimarte
+## Capítulo 2: Qué habilidades tienen más salida
 
-El error más común del freelance principiante: cobrar demasiado poco.
+No todas las habilidades tienen la misma demanda en el mercado freelance.
 
-La motivación es comprensible: sin cartera de clientes, sin referencias, parece que hay que compensar con precio bajo.
+Las de mayor demanda constante según las principales plataformas europeas:
 
-El problema: cobrar muy poco posiciona mal. Los clientes de calidad suelen desconfiar de precios muy bajos. Y te pone en competencia con freelances de países de bajo coste que siempre podrán ofrecerte un precio menor.
+Tecnología: desarrollo web, desarrollo de aplicaciones, análisis de datos, ciberseguridad, soporte técnico, configuración de sistemas.
 
-La estrategia correcta: un precio de entrada justo, no de saldo.
+Diseño: diseño gráfico (el campo de Marta), diseño web, UI/UX, motion graphics, ilustración, edición de fotografía y vídeo.
 
-Para calcular tu tarifa mínima viable:
+Marketing y contenidos: redacción, SEO, gestión de redes sociales, email marketing, copywriting.
 
-1. Define cuánto necesitas ganar al mes con el freelance.
-2. Calcula cuántas horas al mes puedes dedicarle realísticamente.
-3. Divide lo uno entre lo otro. Esa es tu tarifa mínima por hora.
-4. Compara con el mercado de tu sector. Ajusta si es muy diferente.
+Gestión: asistencia virtual, gestión de proyectos, administración y contabilidad online.
 
-Marta, cuando empezó como freelance, cobró 15 euros la hora. El mercado pagaba 35-50 euros. Tardó dos años en llegar a esos niveles, con el coste de haber ganado menos durante ese tiempo y de haber atraído clientes de menor calidad.
+Formación: clases de idiomas, formación en software específico, consultoría especializada.
 
----
+Si tu habilidad principal no aparece aquí, no significa que no haya mercado. Significa que puede estar en plataformas o canales más específicos de tu sector.
 
-## Capítulo 4: El portfolio sin cartera de clientes
-
-¿Cómo demuestras lo que sabes si no tienes referencias?
-
-Esta es la paradoja del principiante.
-
-Soluciones prácticas:
-
-**Trabajos personales:** Marta diseñó su propia web, creó una identidad visual ficticia para una empresa imaginaria, rediseñó el logo de un negocio local (gratis) a cambio de poder usar el trabajo en su portfolio.
-
-**Proyectos de práctica:** Si eres desarrollador, construye una app funcional aunque no tenga cliente. Si eres escritor, escribe artículos en un blog propio. Si eres fotógrafo, haz sesiones gratuitas a cambio de poder usar las fotos.
-
-**Trabajo de bajo coste para ONG o asociaciones:** Muchas organizaciones sin ánimo de lucro necesitan servicios que no pueden pagar a precio de mercado. A cambio, te dan referencias y portfolio.
-
-**Proyectos para conocidos:** El primer diseño de la web del negocio de tu cuñada, la declaración de impuestos de tu amiga autónoma. Precio reducido pero trabajo real con cliente real.
-
-El portfolio no tiene que ser extenso. Tres o cuatro trabajos bien presentados son suficientes para empezar.
+La pregunta no es "¿hay mercado?". La pregunta es "¿dónde está mi mercado específico?".
 
 ---
 
-## Capítulo 5: Conseguir clientes de forma sistemática
+## Capítulo 3: El precio — el error que comete todo el mundo al empezar
 
-Los clientes no llegan solos. Hay que ir a buscarlos.
+Marta cobró 15 euros la hora cuando empezó.
 
-Estrategias que funcionan para freelances:
+Lo hizo porque sin referencias ni cartera de clientes, le parecía que tenía que compensar con precio bajo.
 
-**Red de contactos directa:** El canal más eficiente para los primeros clientes. Las personas que ya te conocen. Ya lo hemos visto en el libro anterior.
+Tres años después, sabe que fue un error.
 
-**Presencia en LinkedIn:** Perfil optimizado que deja claro qué ofreces. Publicaciones que demuestran tu conocimiento. Conexiones en el sector donde buscan tus servicios.
+El mercado de diseño gráfico en España paga entre 35 y 80 euros la hora según el perfil y el tipo de trabajo. Marta cobró un 60% menos que el mínimo del mercado durante casi un año.
 
-**Plataformas freelance:** Fiverr, Upwork, Malt (específica del mercado español y europeo). Requieren trabajo inicial para posicionarse, pero dan visibilidad a potenciales clientes que no te conocen.
+El problema del precio bajo no es solo ganar menos. Es el tipo de cliente que atrae.
 
-**Contenido que atrae:** Un blog, un canal de YouTube, un podcast, una newsletter. Crea valor para tu audiencia. Los que más aprenden de ti son los más propensos a contratar tus servicios.
+Los clientes que eligen al más barato raramente son los mejores clientes. Exigen más, respetan menos los tiempos y son los más propensos a pedir extras sin pagar.
 
-**Colaboración con otros freelances:** Marta trabaja con un desarrollador web. Cuando el desarrollador tiene un cliente que necesita diseño, lo deriva a Marta. Y viceversa. Red de referidos mutuos.
+Los clientes que pagan un precio razonable suelen ser más profesionales, más claros en sus expectativas y más fáciles de trabajar.
 
----
+Marta lo aprendió cuando su primer cliente serio y bien pagado fue también el más fácil de gestionar en su experiencia hasta ese momento.
 
-## Capítulo 6: El contrato y las condiciones de trabajo
-
-Trabajar sin contrato es trabajar con riesgo.
-
-No tienes que ser abogado para tener un contrato básico. Hay plantillas gratuitas online que cubren los aspectos fundamentales.
-
-Un contrato freelance básico debe incluir:
-
-- Descripción del trabajo (alcance, entregables específicos).
-- Precio y forma de pago.
-- Plazos de entrega.
-- Número de revisiones incluidas.
-- Qué pasa si el cliente pide cambios fuera del alcance (extra-scope).
-- Propiedad intelectual del trabajo entregado.
-- Condiciones de cancelación.
-
-El contrato no es desconfianza. Es claridad. Los malentendidos en proyectos freelance casi siempre vienen de alcances mal definidos y expectativas no alineadas.
-
-Un contrato claro protege tanto al freelance como al cliente.
+Para calcular el precio de entrada correcto: investiga lo que cobra el mercado en tu sector para un perfil similar al tuyo. Empieza en el rango bajo de ese mercado, no por debajo del mercado. La diferencia es enorme.
 
 ---
 
-## Capítulo 7: La facturación y los cobros
+## Capítulo 4: El portfolio sin cliente previo
 
-La regla de oro del freelance: cobra parte por adelantado.
+La paradoja del principiante: necesitas portfolio para conseguir clientes, pero necesitas clientes para tener portfolio.
 
-Para proyectos medianos o grandes: 50% antes de empezar, 50% al entregar. Nunca entregues el trabajo final antes de cobrar el segundo 50%.
+La solución existe. Y Marta la aplicó.
 
-Para proyectos pequeños: pago completo por adelantado o al entregar.
+Proyectos personales. Marta diseñó su propia web, creó una identidad visual completa para una empresa ficticia que inventó (incluida la historia de la empresa, el tono de comunicación, los materiales completos), y rediseñó el logo de una asociación de vecinos de su barrio de forma gratuita a cambio de poder usar el trabajo en su portfolio.
 
-Los clientes que se niegan a pagar por adelantado son una señal de alerta. Los clientes serios entienden que los freelances necesitan garantías.
+Tres proyectos. Ninguno pagado. Pero todos con nivel profesional real.
 
-Las facturas deben emitirse con todos los datos legales requeridos: datos del freelance, datos del cliente, descripción del servicio, base imponible, IVA aplicable, total.
+Cuando empezó a buscar clientes, tenía trabajo que mostrar. El hecho de que uno fuera ficticio y otro gratuito no lo hizo un portfolio débil. Lo hizo un portfolio honesto con proyectos sólidos.
 
-Lleva un registro de todas las facturas emitidas y pagadas. En una hoja de cálculo simple es suficiente al principio.
+Con el tiempo, los proyectos reales fueron reemplazando a los iniciales. Pero el portfolio ficticio fue el que abrió la primera puerta.
 
----
-
-## Capítulo 8: Los clientes difíciles
-
-En el freelance, habrá clientes difíciles.
-
-Los que piden más de lo acordado sin querer pagar más.
-Los que no respetan los plazos pero exigen los suyos.
-Los que pagan tarde o no pagan.
-Los que cambian de dirección a mitad del proyecto.
-
-Hay estrategias para cada tipo, pero la más importante es la prevención: un contrato claro, un alcance bien definido, cobro por adelantado.
-
-Cuando surge el conflicto con un cliente, hay una regla útil: no vale la pena mantener una relación tóxica por el dinero a corto plazo. Un cliente que te hace la vida imposible por 500 euros ocupa el tiempo y la energía que podrías dedicar a conseguir tres clientes mejores.
-
-Los mejores freelances aprenden a despedir clientes. Con cortesía y profesionalidad, pero con firmeza.
+No esperes a tener clientes para hacer portfolio. Haz portfolio para conseguir clientes.
 
 ---
 
-## Capítulo 9: Del freelance a la agencia
+## Capítulo 5: Los primeros clientes sin plataformas
 
-Para quien desarrolla el freelance como actividad principal y no secundaria, hay una evolución natural.
+Las plataformas de freelance como Fiverr o Upwork son útiles. Pero los primeros clientes de Marta no vinieron de ninguna.
 
-Llega un momento en que hay más trabajo del que una persona puede asumir. En ese punto, hay dos opciones.
+Vinieron de LinkedIn.
 
-**Subcontratar:** Pasar trabajo a otros freelances de confianza. Marta, cuando tiene demasiado diseño, pasa parte de los proyectos a otra diseñadora junior. Gestiona la relación con el cliente, cobra el precio completo, paga a la subcontratista su parte.
+Marta optimizó su perfil: titular claro ("Diseñadora gráfica especializada en identidad corporativa para pequeñas empresas"), descripción que explicaba qué problema resolvía, portfolio visible, recomendaciones de compañeros.
 
-**Crear un equipo:** Contratar o trabajar sistemáticamente con otras personas. Esto implica más gestión pero mayor capacidad y escalabilidad.
+Luego empezó a publicar contenido cada semana. No para vender directamente. Para demostrar que sabía de lo que hablaba. Un post sobre tipografía para marcas. Un carrusel con errores comunes en logotipos de pymes. Un proceso de trabajo desglosado.
 
-La transición de freelance individual a pequeña agencia es un salto significativo. No es el camino para todos. Pero es una evolución posible para quien quiere escalar.
+En cuatro meses, había recibido tres consultas orgánicas. Dos se convirtieron en proyectos.
 
----
+El contenido que demuestra expertise es la forma más eficiente de atraer clientes de calidad. No de forma inmediata. Pero de forma sostenible.
 
-## Capítulo 10: El freelance como filosofía de trabajo
+El cuñado tiene su propio perfil de LinkedIn. Tiene cero publicaciones. Dice que "no tiene tiempo" de crear contenido.
 
-El freelance moderno no es solo una forma de ganar dinero.
-
-Es una filosofía de trabajo.
-
-La idea de que tus habilidades son tuyas. Que puedes elegir con quién trabajas. Que no necesitas la validación de un empleador para saber que vales.
-
-Esta filosofía es liberadora. Y también exigente.
-
-Nadie te garantiza el sueldo a fin de mes. Nadie te dice qué hacer. La responsabilidad es tuya completamente.
-
-Para quien puede operar en ese entorno, es una de las formas más satisfactorias de trabajo.
-
-Para quien necesita más estructura y seguridad, el freelance como segunda fuente (manteniendo el empleo principal) es el equilibrio perfecto.
+El cuñado tampoco tiene clientes inbound.
 
 ---
 
-## Epílogo: Tu primer proyecto freelance
+## Capítulo 6: El contrato que protege a ambos
 
-El objetivo concreto de los próximos siete días:
+Marta trabajó sin contrato durante su primer proyecto de diseño.
 
-Identificar una habilidad. Fijar un precio. Publicar una oferta (en una plataforma, en LinkedIn, en un grupo de la comunidad online de tu sector).
+El cliente era un conocido, el trabajo era pequeño, no parecía necesario.
 
-No tiene que ser perfecta. Solo tiene que existir.
+El cliente pidió seis rondas de revisión cuando el acuerdo verbal era dos. No había nada escrito. Marta hizo las revisiones. Tardó el doble de lo esperado. Cobró lo acordado inicialmente.
 
-Lo que no existe no puede atraer clientes.
+La lección: el contrato no es desconfianza. Es claridad.
 
-El siguiente libro, "Ingresos pasivos reales vs. ingresos pasivos del Instagram", separa la realidad del mito en uno de los conceptos más mal entendidos de las finanzas personales.
+Un contrato básico para freelances debe incluir: descripción del trabajo y entregables específicos, precio y forma de pago, fechas de entrega, número de revisiones incluidas y qué ocurre con las adicionales, quién se queda con la propiedad intelectual del trabajo, condiciones si el cliente cancela.
+
+Hay plantillas gratuitas online adaptadas al mercado español. En veinte minutos se puede tener un contrato decente para la mayoría de proyectos.
+
+Desde aquel primer proyecto, Marta envía el contrato antes de empezar cualquier trabajo. Ningún cliente serio se ha negado a firmarlo. Los que se negaron no eran clientes con los que valiera la pena trabajar.
+
+---
+
+## Capítulo 7: Cobrar — la parte que nadie enseña
+
+La regla de oro del freelance que Marta tardó un año en adoptar: cobra parte por adelantado.
+
+Para proyectos medianos o grandes: 50% al firmar el contrato, 50% al entregar el trabajo final. Nunca entregar el trabajo completo antes de cobrar el segundo 50%.
+
+Para proyectos pequeños: pago completo antes de empezar o al entregar.
+
+El cuñado, que hace trabajos esporádicos, ha cobrado siempre al final. Ha tenido tres clientes que tardaron meses en pagar y uno que no pagó nunca.
+
+"Es que si pides dinero antes, el cliente se asusta."
+
+Los clientes serios no se asustan de pagar un adelanto. Están acostumbrados a hacerlo con cualquier proveedor profesional. El cliente que se asusta de pagar adelanto es exactamente el tipo de cliente que luego da problemas con el cobro.
+
+Las facturas deben emitirse con todos los datos requeridos: datos del freelance (nombre, NIF, dirección), datos del cliente, descripción del servicio, base imponible, IVA, total.
+
+Una hoja de Excel con las facturas emitidas y pagadas es suficiente al principio.
+
+---
+
+## Capítulo 8: El cliente difícil que llega
+
+No todos los clientes son Ramón. Algunos complican.
+
+Marta tuvo su primer cliente difícil en el segundo año: una empresa de moda que pedía revisiones infinitas, cambiaba de dirección a mitad del proyecto y pagaba tarde.
+
+Lo que aprendió: identificar las señales antes de contratar. El cliente que en la primera reunión ya cuestiona todo, que pide más de lo especificado desde el principio o que tiene dificultades para explicar con claridad lo que quiere, raramente mejora después.
+
+Cuando ya estás en medio de un proyecto complicado: aplica el contrato. "Eso está fuera del alcance acordado. Si quieres incluirlo, aquí está el presupuesto adicional." La mayoría de los clientes difíciles se vuelven más razonables cuando hay papel firmado.
+
+Y hay clientes que simplemente no merece la pena continuar. Marta ha "despedido" a dos en cuatro años. Con profesionalidad y sin quemarse los puentes. El tiempo que ganó con esos clientes fuera lo usó para conseguir tres mejores.
+
+---
+
+## Capítulo 9: La escalabilidad natural del freelance
+
+Marta lleva cuatro años como freelance. Su evolución fue gradual.
+
+Año uno: buscaba cualquier cliente, cobrada poco, aprendía mucho.
+
+Año dos: especializó su oferta en identidad corporativa para pymes. Subió precios. Perdió algunos clientes que buscaban lo más barato. Ganó otros que valoraban la especialización.
+
+Año tres: demasiado trabajo para asumir sola. Empezó a subcontratar partes de proyectos (maquetación, fotografía) a otros freelances de confianza. Gestiona la relación con el cliente y cobra el precio completo.
+
+Año cuatro: algunos proyectos de alta factura con clientes que repiten. Ingresos estables, horario controlado, trabajo seleccionado.
+
+No creó una empresa. No contrató empleados. No tiene oficina. Solo ella, sus habilidades, y un sistema que mejoró año a año.
+
+La escalabilidad del freelance no es necesariamente hacerse más grande. Es hacerse más eficiente y mejor pagado.
+
+---
+
+## Capítulo 10: El freelance como forma de vida
+
+El cuñado ve el freelance como algo que "haría si no tuviera trabajo".
+
+Carlos lo ve como una segunda fuente de ingresos que complementa su empleo.
+
+Marta lo ve como su forma principal de trabajo.
+
+Los tres tienen razón dentro de su contexto.
+
+Lo que el freelance ofrece en cualquiera de sus versiones es algo que el empleo convencional raramente da: la certeza de que tus habilidades tienen valor más allá de tu empresa actual. Que si el empleo desaparece, hay algo más. Que el mercado reconoce lo que sabes.
+
+Esa certeza es, en sí misma, un tipo de seguridad financiera que no tiene precio en una nómina.
+
+---
+
+## Epílogo: Tu primera propuesta
+
+El objetivo de los próximos siete días: escribir una propuesta de servicios.
+
+No tiene que ser perfecta. Tiene que existir.
+
+Una o dos páginas. Qué ofreces, para quién, a qué precio, en qué plazo.
+
+Compártela con tres personas que puedan necesitar lo que ofreces o conocer a alguien que lo necesite.
+
+El siguiente libro, "Ingresos pasivos reales vs. ingresos pasivos del Instagram", separa la realidad del mito en uno de los conceptos más malentendidos de las finanzas personales.
 
 ---
 

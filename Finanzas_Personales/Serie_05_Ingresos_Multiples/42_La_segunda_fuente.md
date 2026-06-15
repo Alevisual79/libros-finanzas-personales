@@ -6,232 +6,241 @@
 
 ---
 
-## Prólogo: 300 euros que cambian la ecuación
+## Prólogo: El sábado que Carlos facturó por primera vez
 
-300 euros al mes no es una fortuna.
+Eran las once de la mañana de un sábado de febrero.
 
-Pero es suficiente para cambiar completamente la ecuación financiera de alguien con un plan.
+Carlos estaba en casa del vecino del quinto, Ramón, con su portátil y una mochila de cables. Le llevó dos horas y cuarto configurar la red doméstica, mejorar la cobertura WiFi en el dormitorio de los hijos y dejar el televisor conectado correctamente a internet.
 
-300 euros al mes son 3.600 euros al año.
+Ramón le dio ochenta euros en efectivo.
 
-Si esos 3.600 euros van al plan de deudas de Carlos, el tiempo de eliminación se reduce en casi un año.
+Carlos los guardó en el bolsillo y se quedó un momento callado en el ascensor de vuelta a casa.
 
-Si van al fondo de emergencia, están en cuatro meses.
+Ochenta euros no cambiaban su vida. Pero algo había cambiado en esos dos horas y cuarto. Alguien había pagado por lo que sabe hacer. No la empresa para la que trabaja. Una persona real, de carne y hueso, que tenía un problema y que Carlos le resolvió.
 
-Si van a inversión desde los 42 años hasta los 65: más de 200.000 euros adicionales.
+Cuando llegó a casa, Ana lo miró.
 
-300 euros al mes. Un segundo ingreso modesto. Un impacto enorme.
+"¿Cómo fue?"
 
-Este libro es concreto y práctico. No es teoría sobre por qué deberías tener ingresos adicionales (eso ya estaba en el libro anterior). Es un mapa de cómo conseguirlos en las próximas semanas.
+"Bien. Ochenta euros."
 
----
+"¿Lo repetirías?"
 
-## Capítulo 1: El inventario de lo que sabes hacer
+Carlos lo pensó dos segundos.
 
-El punto de partida para construir una segunda fuente de ingreso es inventariar lo que ya sabes hacer.
+"El sábado que viene tengo otro. El cuñado de Ramón."
 
-No lo que te gustaría saber. Lo que ya sabes.
-
-Habilidades profesionales. Lo que haces en tu trabajo y que tiene valor fuera de él.
-Habilidades personales. Lo que sabes hacer más allá del trabajo: cocinar, reparar cosas, hablar idiomas, enseñar.
-Conocimientos específicos. Lo que sabes sobre un tema: finanzas, tecnología, salud, educación, derecho.
-Recursos que tienes. Un coche, un espacio, equipamiento, una red de contactos.
-
-Haz la lista. Sin filtros. Todo lo que se te ocurra.
-
-Luego pregúntate: ¿Hay alguien que pagaría por alguna de estas cosas?
-
-La respuesta, casi siempre, es sí.
+El inicio de la segunda fuente no es un gran momento. Es un sábado por la mañana, ochenta euros, y la certeza de que hay algo más.
 
 ---
 
-## Capítulo 2: Las categorías de segunda fuente más accesibles
+## Capítulo 1: Por qué 300 euros cambian la ecuación
 
-**Servicios basados en tu profesión actual:**
-Lo que haces para una empresa, puedes hacerlo para particulares o pequeñas empresas.
+300 euros al mes no parece mucho.
 
-Contable: declaraciones de impuestos para autónomos.
-Diseñadora (Marta): proyectos pequeños directamente.
-Técnico IT (Carlos): soporte técnico a particulares.
-Profesora: clases particulares.
-Abogado: consultas puntuales.
-Médico: segunda opinión o informes para compañías de seguros.
+Es lo que mucha gente se gasta en caprichos que no recuerda al final del mes.
 
-**Servicios de cuidado:**
-Cuidado de personas mayores o niños por horas. Cuidado de animales. Paseador de perros. Hay plataformas (Rover, Sittercity) que facilitan el matching.
+Pero 300 euros al mes, dentro de un plan financiero activo, tienen un efecto multiplicador que los hace extraordinariamente valiosos.
 
-**Manualidades y habilidades físicas:**
-Fontanería básica, pintura, jardinería, limpieza especializada, montaje de muebles.
+300 euros al mes adicionales sobre el pago del plan de deudas de Carlos: el tiempo de eliminación se reduce en casi diez meses. Diez meses antes de quedar libre de deudas. Diez meses antes de poder invertir toda esa capacidad de ahorro.
 
-**Educación:**
-Clases particulares de cualquier materia que domines. Idiomas, matemáticas, música, deporte.
+300 euros al mes adicionales en el fondo de emergencia: en cuatro meses está completo en lugar de ocho.
 
-**Conducción:**
-Repartidor de paquetería, driver de plataformas, mensajero.
+300 euros al mes adicionales invertidos desde los 42 años hasta los 65, al 7% de rentabilidad: más de 200.000 euros adicionales gracias al interés compuesto.
+
+No es la segunda fuente lo que cambia la vida. Es lo que hace la segunda fuente dentro del plan lo que multiplica su impacto.
+
+El cuñado tiene una segunda fuente. Gana dinero extra de vez en cuando haciendo pequeños trabajos. Pero ese dinero entra y sale sin plan. No acelera nada. No construye nada.
+
+Carlos también tendrá 300 euros extra. Pero esos 300 euros tienen destino antes de que lleguen.
+
+Esa diferencia lo es todo.
 
 ---
 
-## Capítulo 3: El modelo por horas vs. el modelo por proyecto
+## Capítulo 2: El inventario — lo que ya sabes hacer
 
-Hay dos formas de monetizar tu tiempo en una segunda fuente.
+El punto de partida para construir una segunda fuente es honesto y sencillo.
 
-**Modelo por horas:** Cobras x euros por cada hora trabajada. Predecible. Fácil de calcular. Pero tiene techo: las horas son finitas.
+No es buscar la idea perfecta. No es investigar el mercado. No es construir una marca.
 
-**Modelo por proyecto:** Cobras un precio fijo por un resultado entregado. La tarifa hourly está implícita pero no explícita. Permite ganar más si eres eficiente.
+Es sentarse con papel y lápiz y escribir todo lo que sabes hacer. Sin filtros. Sin juzgar si tiene valor comercial.
 
-Para empezar, el modelo por horas es más fácil de comunicar y entender. Pero conforme ganas experiencia y credibilidad, el modelo por proyecto es más rentable.
+Marta hizo este ejercicio una tarde.
 
-Carlos empieza cobrando 50 euros la hora por sus servicios de soporte técnico. Cuando tiene más experiencia y referencias, empieza a hacer presupuestos por proyecto: "Instalación completa de red doméstica, 200 euros." Si tarda tres horas, ha ganado 67 euros por hora. Si tarda dos horas, 100.
+Diseño gráfico para empresas (su trabajo principal). Diseño de logotipos. Creación de materiales de marketing. Gestión de redes sociales. Fotografía de producto. Edición básica de vídeo. Diseño de presentaciones. Maquetación de documentos. Manejo de Figma, Illustrator, InDesign, Photoshop. Inglés nivel B2.
 
----
+Cuando terminó la lista, la miró. Era larga. Mucho más larga de lo que esperaba.
 
-## Capítulo 4: Las plataformas que conectan oferta y demanda
+"Todo esto ya lo sé", pensó. "Alguien tendría que aprenderlo desde cero."
 
-Hay plataformas que facilitan enormemente el inicio de una segunda fuente.
+Esa frase es el núcleo de la segunda fuente: hay personas que necesitan lo que tú ya sabes. El conocimiento que para ti es obvio, para ellas es un obstáculo.
 
-**Para servicios profesionales:**
-- Fiverr: trabajos digitales desde 5 euros.
-- Upwork: proyectos freelance de todo tipo.
-- Freelancer.com: similar a Upwork.
-- Toptal: para perfiles técnicos de alto nivel.
-
-**Para servicios locales:**
-- TaskRabbit: trabajos manuales locales.
-- Cronoshare: el equivalente español para múltiples servicios.
-- Habitissimo: para trabajos del hogar.
-
-**Para formación:**
-- Preply: clases de idiomas y otras materias.
-- SuperProf: clases particulares de todo.
-- Classgap: clases online.
-
-**Para venta de productos digitales:**
-- Etsy: artesanía y productos digitales.
-- Creative Market: plantillas, fuentes, gráficos.
-- Gumroad: cualquier producto digital.
-
-Estas plataformas resuelven el problema inicial más difícil: encontrar el primer cliente. Una vez que tienes referencias y red propia, puedes prescindir de ellas o usarlas como complemento.
+Haz tu propia lista. No subestimes lo que sabes.
 
 ---
 
-## Capítulo 5: Los primeros clientes sin plataformas
+## Capítulo 3: Las categorías más accesibles para empezar
 
-La forma más rápida y barata de conseguir los primeros clientes: tu red existente.
+Hay patrones en las segundas fuentes que funcionan más rápido para el profesional con empleo a tiempo completo.
 
-Familia, amigos, compañeros de trabajo, conocidos en el barrio.
+Los servicios basados en la profesión actual son los más rápidos de arrancar. Lo que haces para una empresa, puedes hacerlo directamente para particulares o pequeñas empresas.
 
-No tienes que hacer una presentación formal. Una conversación casual puede ser suficiente.
+Un técnico de telecomunicaciones (Carlos) puede ofrecer instalaciones domésticas y soporte técnico a particulares. Un contable puede hacer declaraciones de IRPF para autónomos. Un diseñadora (Marta) puede hacer el logo de la nueva ferretería del barrio. Una maestra puede dar clases particulares.
 
-"Oye, ¿sabes de alguien que necesite ayuda con la red de su casa? Estoy haciendo algunas instalaciones los fines de semana."
+El conocimiento ya existe. No hay curva de aprendizaje. El mercado local está al alcance de la mano.
 
-Esta frase, dicha a veinte personas de tu red, puede generar los primeros dos o tres clientes.
+Los servicios de formación son el segundo paso natural. Una vez que tienes experiencia en tu campo, hay personas que quieren aprender de ti. Clases particulares, workshops de dos horas, cursos online grabados. La misma información que tienes puede transmitirse a muchas personas.
 
-Y los primeros clientes, aunque paguen menos de lo que cobrarás después, tienen un valor enorme: te dan experiencia, referencias y la demostración de que hay demanda.
+Los productos digitales son el siguiente nivel. Plantillas, guías, herramientas, recursos. Se crean una vez y se venden muchas veces. El ratio tiempo/ingreso mejora exponencialmente con el volumen.
 
-Carlos consiguió sus primeros tres clientes de esta forma. Dos amigos de su mujer Ana y un vecino del edificio. No ganó mucho. Pero cuando publicó en un grupo de Facebook del barrio, ya podía decir que llevaba tres instalaciones hechas con clientes satisfechos.
-
----
-
-## Capítulo 6: Calcular cuánto tiempo necesitas
-
-Para generar 300 euros al mes de segunda fuente.
-
-Si cobras 50 euros la hora: necesitas 6 horas al mes. Una hora y media por semana.
-
-Si cobras 30 euros la hora: necesitas 10 horas al mes. Dos horas y media por semana.
-
-Si cobras 20 euros la hora: necesitas 15 horas al mes. Menos de cuatro horas por semana.
-
-Estas cantidades de tiempo son manejables incluso con un trabajo a tiempo completo y familia.
-
-No son tiempo productivo puro: incluyen comunicación con clientes, desplazamientos si son servicios presenciales, preparación. Pero aun así, en la mayoría de situaciones, son factibles.
+El orden natural: servicios primero (ingresos rápidos), formación después (escalabilidad moderada), productos digitales al final (máxima escalabilidad).
 
 ---
 
-## Capítulo 7: La escalabilidad del segundo ingreso
+## Capítulo 4: Los primeros clientes sin plataformas
 
-Una vez que tienes clientes estables y referenciales, la segunda fuente puede escalarse.
+El error más común al empezar es esperar a tener todo preparado antes de buscar clientes.
 
-**Subir tarifas:** Con experiencia y referencias, puedes cobrar más. Si pasas de 50 a 70 euros la hora en el mismo número de horas, el ingreso sube un 40%.
+La web perfecta. El logo. La propuesta de valor refinada. El proceso definido.
 
-**Aceptar más trabajo:** Si el tiempo lo permite y el mercado lo demanda, puedes trabajar más horas en la segunda fuente.
+Todo eso sirve para sentirse ocupado sin tener que enfrentarse a la parte difícil: encontrar alguien que te pague.
 
-**Crear sistemas:** Si hay algo en tu segunda fuente que puedes sistematizar (checklist, procedimientos estándar, comunicaciones tipo), reduces el tiempo por proyecto y aumentas el margen.
+Los primeros clientes de Carlos no vinieron de ninguna plataforma ni de ninguna campaña de marketing.
 
-**Multiplicar el modelo:** Enseñar a otros a hacer lo que tú haces (si la competencia no es problema). Crear un curso. Escribir una guía que se vende como ebook.
+Vinieron de veinte conversaciones informales.
 
-La segunda fuente empieza como intercambio de tiempo por dinero. Puede evolucionar hacia algo más escalable.
+Carlos lo mencionó en la cena del cuñado, en el grupo de WhatsApp del edificio, con dos compañeros de trabajo, con su madre, con Ana al hablar de los planes del fin de semana.
 
----
+"Estoy haciendo instalaciones de redes domésticas los fines de semana. Si alguien tiene problemas de WiFi o quiere instalar algo en casa, dímelo."
 
-## Capítulo 8: El límite legal y fiscal
+Sin urgencia. Sin venta. Sin presión.
 
-Antes de lanzarse a la segunda fuente, hay que entender el marco legal y fiscal.
+En dos semanas tenía tres contactos interesados. En un mes, su primer cliente pagado.
 
-En España, si generas ingresos fuera de tu trabajo por cuenta ajena, estás obligado a declarar esos ingresos en el IRPF.
-
-Si los ingresos anuales de la segunda fuente superan los 1.000 euros, tienen que aparecer en la declaración de la renta.
-
-Para importes más significativos o si la actividad es regular, puede ser necesario darse de alta como autónomo o en el censo de actividades económicas.
-
-El alta como autónomo tiene un coste (cuota de autónomos), aunque los primeros tramos tienen bonificaciones para nuevos autónomos.
-
-El asesor fiscal puede orientar sobre cuándo y cómo regularizar la actividad de forma eficiente.
-
-No declararlos es evasión fiscal, con las consecuencias que eso implica.
+La red social que ya tienes, bien utilizada, puede generar los primeros ingresos de la segunda fuente sin necesidad de ninguna plataforma externa.
 
 ---
 
-## Capítulo 9: El plan de los primeros 90 días
+## Capítulo 5: Los números del tiempo disponible
 
-Un plan concreto para los primeros 90 días de construcción de la segunda fuente.
+Marta calculó cuánto tiempo real tenía disponible para una segunda fuente.
 
-**Días 1-30: Definir y preparar.**
-Define qué servicio vas a ofrecer. Fija tu precio. Prepara cómo presentarte (no necesitas web ni branding elaborado; solo poder explicar en una frase qué ofreces y cuánto cobras).
+Trabajo para clientes: treinta y cinco horas semanales (variable, pero esa era la media).
+Gestión de la autónoma: seis horas semanales (facturación, comunicaciones, búsqueda de clientes).
+Vida personal, descanso, ocio necesario: el resto.
 
-Díselo a tu red: cinco conversaciones en las que menciones lo que estás haciendo.
+En la columna del ocio no necesario: aproximadamente tres horas diarias de móvil, series y contenido online. No todo ese tiempo era recuperación real. Parte era hábito.
 
-**Días 31-60: Primer cliente.**
-El objetivo del mes 2 es conseguir el primer cliente. No el mejor. El primero.
+Si Marta reservaba cinco horas semanales de ese tiempo de consumo para producir algo, ¿qué podría construir en un año?
 
-Usa las plataformas. Usa la red. Ofrece un precio de lanzamiento si es necesario.
+260 horas al año. Con ese tiempo, se puede crear un portafolio completo de plantillas de diseño para vender en Creative Market. O grabar un curso de 8-10 horas sobre fundamentos de diseño gráfico. O escribir una guía de diseño para no diseñadores.
 
-**Días 61-90: Sistema y refinamiento.**
-Con el primer cliente completado, ya tienes experiencia. ¿Qué funcionó? ¿Qué cambiarías? ¿Cuánto tardaste realmente?
+No cinco horas diarias. Cinco horas a la semana.
 
-Refinita la oferta. Sube un poco el precio si puedes. Busca el segundo cliente.
-
-Al final de los 90 días, deberías tener al menos dos clientes atendidos y un sistema básico. Y los primeros euros de segunda fuente en tu cuenta.
+El punto de partida no es sacrificarse. Es identificar dónde ya existe ese tiempo y redirigirlo con intención.
 
 ---
 
-## Capítulo 10: La mentalidad del constructor
+## Capítulo 6: El modelo por horas frente al modelo por proyecto
 
-La segunda fuente requiere una mentalidad diferente a la del empleado.
+Carlos empezó cobrando cincuenta euros la hora.
 
-Como empleado, cumples con lo que te piden. Como constructor de segunda fuente, eres responsable de conseguir los clientes, entregar el trabajo, gestionar los pagos, mejorar el servicio.
+Era un precio que le parecía razonable y que sus primeros clientes aceptaron sin regatear. (Señal de que podría ser más alto, pero ese ajuste puede hacerse con tiempo.)
 
-Esto puede sentirse abrumador al principio. Es más trabajo del que parece desde fuera.
+A los tres meses, un cliente le preguntó: "¿Cuánto me cobras por instalar la red completa de mi oficina nueva? Son cuatro habitaciones."
 
-Pero también produce algo que el empleo por sí solo raramente produce: la sensación de que estás construyendo algo tuyo.
+Carlos calculó: probablemente cinco o seis horas de trabajo. A cincuenta euros, 250-300 euros.
 
-Aunque sea pequeño. Aunque sean 300 euros al mes. Es tuyo. No depende de la decisión de un jefe o de una empresa.
+Propuso 280 euros por el proyecto completo. El cliente aceptó enseguida.
 
-Esa sensación, una vez experimentada, es muy difícil de abandonar.
+Carlos tardó cuatro horas. Había ganado setenta euros la hora sin que el cliente lo notara.
+
+El modelo por proyecto tiene esa ventaja: el cliente paga por el resultado, no por el tiempo. Si eres eficiente, ganas más por hora. Si eres más rápido de lo esperado, no tienes que hacer un descuento.
+
+La transición del modelo por horas al modelo por proyecto es uno de los primeros saltos de calidad en la segunda fuente. Ocurre naturalmente cuando tienes suficiente experiencia para estimar el tiempo con precisión.
 
 ---
 
-## Epílogo: El primer paso es este fin de semana
+## Capítulo 7: Las plataformas que ya existen
+
+Para quien no tiene red suficiente o quiere acceder a un mercado más amplio, hay plataformas que conectan oferta y demanda.
+
+Fiverr y Upwork son las más grandes para servicios digitales. Marta creó un perfil en Fiverr ofreciendo diseño de logotipos y materiales de marketing. Los primeros meses fueron lentos: la competencia es alta y sin reseñas, la credibilidad es baja. Pero en el quinto mes, con cinco proyectos completados y cinco reseñas de cinco estrellas, empezaron a llegar solicitudes orgánicas.
+
+Cronoshare y Habitissimo son las referencias en España para servicios locales. Carlos publicó ahí su oferta de servicios de telecomunicaciones. El coste es por solicitud de contacto, no por trabajo realizado. Requiere gestionar muchos contactos poco cualificados para encontrar los que convierten, pero el volumen de potenciales clientes es alto.
+
+Creative Market, Etsy y Gumroad son para productos digitales. Marta empezó subiendo cinco plantillas de presentaciones. El primer mes vendió dos. El tercero vendía veinte. El trabajo estaba hecho. Solo necesitaba tiempo para acumular reseñas y visibilidad.
+
+Las plataformas resuelven el problema más difícil del inicio: encontrar los primeros clientes. Una vez que tienes referencia propia, puedes trabajar directamente con clientes y prescindir de ellas o usarlas como canal adicional.
+
+---
+
+## Capítulo 8: El marco legal y fiscal
+
+Antes de formalizar la segunda fuente hay que entender el contexto legal.
+
+En España, cualquier ingreso adicional está sujeto a IRPF. Si supera los 1.000 euros anuales, debe declararse. No declararlo es evasión fiscal, con las consecuencias que conlleva.
+
+Si la actividad es recurrente y los ingresos son significativos, puede ser necesario darse de alta como autónomo en la Seguridad Social y en el censo de actividades de la Agencia Tributaria.
+
+El alta como autónomo tiene un coste que varía según los ingresos (tarifa plana para nuevos autónomos en los primeros años). Pero permite también deducir gastos relacionados con la actividad.
+
+La recomendación práctica: para los primeros meses, mientras los ingresos son pequeños y la actividad es exploratoria, una consulta con un gestor o asesor fiscal para entender exactamente cuándo y cómo regularizar.
+
+El coste de un asesor fiscal por una consulta de una hora es menor que el riesgo de hacerlo mal durante años.
+
+---
+
+## Capítulo 9: El plan de los primeros noventa días
+
+El plan de Carlos para construir su segunda fuente tenía tres fases claras.
+
+Los primeros treinta días: definir y preparar. Decidió qué ofrecería exactamente: instalaciones de redes domésticas y soporte técnico a particulares en su ciudad. Fijó su precio: cincuenta euros la hora, con un mínimo de dos horas por visita. Preparó una frase: "Soy técnico de telecomunicaciones y hago instalaciones de red doméstica los fines de semana." Lo mencionó a veinte personas de su red en ese mes.
+
+Los días treinta y uno al sesenta: conseguir el primer cliente. Ramón, el vecino del quinto, fue el primero. Carlos cobró ochenta euros. Descubrió que el proceso le llevó más tiempo del esperado en la parte de comunicación previa (acordar el día, confirmar lo que necesitaba). Eso lo afinó para la siguiente vez.
+
+Los días sesenta y uno al noventa: sistema y refinamiento. Con tres clientes completados, ya tenía un proceso: una checklist de lo que necesitaba en cada visita, un mensaje tipo para confirmar citas, una forma de hacer el presupuesto rápido. Subió su precio a sesenta euros la hora. Nadie protestó.
+
+Al final de los noventa días, Carlos facturaba entre 200 y 300 euros al mes con cuatro o cinco horas de trabajo los fines de semana.
+
+No eran 300 euros fijos. Pero era real, creciente y con margen de escalar.
+
+---
+
+## Capítulo 10: Lo que cambia cuando tienes una segunda fuente
+
+Cuatro meses después de su primera visita a Ramón, Carlos notó algo que no esperaba.
+
+Su relación con su trabajo principal había cambiado.
+
+No porque el trabajo fuera diferente. Sino porque su dependencia de él era diferente.
+
+Antes, si el jefe le pedía que quedara los sábados, Carlos sentía que no podía decir que no. El sueldo era lo único que había. La necesidad de mantenerlo generaba una sumisión implícita.
+
+Con la segunda fuente produciendo 250-300 euros al mes, Carlos seguía necesitando su trabajo principal. Pero la sensación de dependencia absoluta había cambiado de forma sutil.
+
+Tenía otra cosa. Pequeña. Pero suya.
+
+Y esa psicología diferente cambia cómo se negocia, cómo se relaciona con sus superiores, cuánto valora su tiempo.
+
+El valor económico de la segunda fuente es lo que calcula en una hoja Excel.
+
+El valor psicológico de la segunda fuente no cabe en ninguna hoja.
+
+---
+
+## Epílogo: Este fin de semana
 
 No el mes que viene. No cuando tengas más tiempo.
 
-Este fin de semana.
+Este fin de semana: haz la lista de lo que sabes. Elige una opción. Habla con tres personas.
 
-Haz la lista de lo que sabes. Elige una opción. Habla con tres personas de tu red.
+El arranque produce claridad que la planificación indefinida nunca da.
 
-No tienes que tener todo claro para empezar. El arranque produce claridad que la planificación indefinida nunca da.
+En cuatro meses puedes tener tu primer euro de segunda fuente. En doce, un flujo regular. En tres años, algo que no esperabas que fuera posible cuando anotaste la primera idea en un papel.
 
-El siguiente libro, "Freelance desde cero: Vende lo que ya sabes hacer", profundiza en el modelo de trabajo freelance para quien quiere hacer de la segunda fuente algo más estructurado.
+El siguiente libro, "Freelance desde cero: Vende lo que ya sabes hacer", profundiza en cómo convertir la segunda fuente en un modelo freelance estructurado y escalable.
 
 ---
 
