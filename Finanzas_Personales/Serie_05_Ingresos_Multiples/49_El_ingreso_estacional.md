@@ -6,55 +6,57 @@
 
 ---
 
-## Prólogo: El calendario como herramienta financiera
+## Prólogo: El octubre de Marta
 
-El año no es plano.
+En octubre, Marta siempre cobra el doble de lo normal.
 
-Hay momentos donde la economía se acelera. Donde la gente gasta más. Donde hay demanda extra de ciertos productos y servicios.
+No es casualidad. Es planificación.
 
-Navidad. Verano. El inicio del curso. Black Friday. San Valentín. La vuelta al cole. Las elecciones locales. Los mundiales de fútbol.
+Las empresas españolas empiezan en septiembre a diseñar sus campañas de Navidad. Logos adaptados para la época, materiales de marketing, tarjetas corporativas, catálogos de regalos, publicaciones de redes sociales para noviembre y diciembre.
 
-Cada uno de estos momentos es una oportunidad para quien lo ve como tal.
+Todo ese trabajo llega al escritorio de los diseñadores en septiembre y octubre. Noviembre es ya tarde.
 
-Y es una oportunidad perdida para quien no la planifica con antelación.
+Marta lo descubrió en su segundo año como autónoma cuando en octubre de repente tenía más trabajo del que podía asumir y en enero miraba su cuenta con preocupación.
 
-Este libro es sobre usar el calendario con inteligencia financiera. Tanto en el gasto (que también tiene su estacionalidad) como en el ingreso.
+A partir del año siguiente, se preparó. En agosto, cuando el mercado está en calma, manda un recordatorio a sus clientes habituales: "Estoy preparando agenda para la campaña de Navidad. Si queréis asegurar fechas, escribidme antes del 15 de septiembre."
 
----
+Eso solo, ese mensaje que tarda cinco minutos en escribir, asegura que octubre y noviembre estén prácticamente llenos antes de que empiecen.
 
-## Capítulo 1: La estacionalidad del mercado
-
-Todos los sectores tienen estacionalidad. Unos más marcada que otros.
-
-**Alta demanda en ciertos meses:**
-- Navidad (noviembre-diciembre): comercio, logística, hostelería, entretenimiento, tecnología (regalos), diseño (campañas).
-- Verano (junio-agosto): turismo, hostelería, deportes, aire libre.
-- Vuelta al cole (agosto-septiembre): educación, tecnología, ropa, material escolar.
-- San Valentín (febrero): hostelería, floristerías, joyería, experiencias.
-- Black Friday (noviembre): tecnología, moda, todo el comercio.
-
-**Baja demanda en ciertos meses:**
-Enero y febrero son los meses más lentos en muchos sectores después de la euforia de diciembre.
-
-Conocer la estacionalidad de tu sector te permite prepararte, no ser sorprendido.
+El ingreso estacional no es suerte. Es el resultado de ver el calendario con ojos financieros y actuar antes de que la oportunidad llegue.
 
 ---
 
-## Capítulo 2: Anticipar los picos de ingreso
+## Capítulo 1: El año no es plano
 
-Si tu trabajo o negocio tiene estacionalidad, el error más común es gastar proporcionalmente a cada mes.
+Todos los sectores tienen estacionalidad. Algunos más marcada que otros.
 
-En los meses buenos, gastas más. En los meses malos, sufres.
+El turismo dispara en verano y, en menor medida, Semana Santa y Navidad. El comercio, en noviembre y diciembre. La educación, en septiembre. La hostelería tiene sus picos en festivos y fines de semana largos.
 
-La gestión correcta de la estacionalidad:
+Los diseñadores gráficos como Marta tienen sus picos en septiembre-octubre (campañas de Navidad) y mayo-junio (inicio de curso empresarial, presentaciones de temporada). Los valles: enero-febrero y julio.
 
-Tratar los ingresos anuales como un promedio mensual. Si en diciembre ganas 4.000 y en febrero 1.000, tu "sueldo mensual real" es el promedio, no cada mes individual.
+Los técnicos como Carlos tienen demanda alta en primavera y otoño, cuando las empresas renuevan infraestructuras antes del verano y antes de fin de año.
 
-Marta, con sus ingresos irregulares de diseño, tiene meses pico (septiembre y octubre, cuando las empresas planifican sus campañas de fin de año) y meses valle (enero y julio).
+Conocer la estacionalidad de tu sector no te hace ganar más dinero automáticamente. Pero te permite prepararte cuando la oportunidad llega y sobrevivir sin sobresaltos cuando la demanda baja.
 
-El sistema de Marta: todo lo que entra va a la "cuenta de empresa". Cada mes se transfiere a sí misma el mismo importe (su sueldo). Lo que no puede transferirse en los meses malos viene del colchón acumulado en los meses buenos.
+El que no conoce su estacionalidad reacciona. El que la conoce, planifica.
 
-Esto convierte la irregularidad en regularidad.
+---
+
+## Capítulo 2: Marta y el sistema para gestionar la irregularidad
+
+Marta tiene meses en que cobra 2.800 euros y meses en que cobra 900 euros.
+
+En su primer año como autónoma, gastaba en proporción a lo que ingresaba. En octubre, con 2.800 euros, salía a cenar, compraba material nuevo, pagaba una formación cara. En enero, con 900 euros, miraba las facturas con ansiedad.
+
+En el segundo año cambió el sistema.
+
+Todo lo que ingresa como autónoma va a la "cuenta empresa". Cada mes, independientemente de lo que haya entrado en la cuenta empresa, Marta se transfiere a sí misma exactamente 1.800 euros como "sueldo".
+
+En los meses buenos (octubre, noviembre), la cuenta empresa acumula colchón. En los meses malos (enero, febrero), el colchón absorbe la diferencia. Marta recibe siempre 1.800 euros.
+
+Su vida financiera personal se estabilizó. La ansiedad de los meses malos desapareció. El gasto excesivo de los meses buenos también.
+
+Este sistema, llamado a veces "sueldo de autónoma", transforma la irregularidad de los ingresos en regularidad del gasto. No resuelve el problema de ingresos bajos. Pero sí resuelve el problema de la volatilidad percibida.
 
 ---
 
@@ -62,155 +64,163 @@ Esto convierte la irregularidad en regularidad.
 
 Hay formas de crear ingresos adicionales aprovechando los picos del mercado.
 
-**Navidad:**
-El comercio de Navidad contrata personal extra entre noviembre y enero. Muchos negocios (logística, distribución, retail) tienen demanda de personal temporal muy alta.
+Navidad es el período más intenso del año para el comercio, la logística, la hostelería y el entretenimiento. Las empresas contratan personal temporal entre noviembre y enero para absorber el volumen extra.
 
-Si tienes disponibilidad horaria (trabajo part-time, estudiante, desempleado temporal), el trabajo estacional de Navidad puede generar 1.500-3.000 euros adicionales en dos meses.
+Para alguien con horario flexible o con disponibilidad parcial, el trabajo estacional de Navidad puede generar entre 1.000 y 2.500 euros adicionales en dos meses de trabajo parcial.
 
-**Verano en zonas turísticas:**
-Hostelería, turismo, actividades al aire libre. En zonas costeras o rurales con turismo estival, la demanda de servicios explota en verano.
+El verano en zonas turísticas ofrece otro tipo de oportunidad. Hostelería, turismo activo, actividades de ocio: la demanda de servicios dispara entre junio y agosto en cualquier zona con afluencia turística. Para quien vive o puede desplazarse, el trabajo estacional de verano paga bien y concentra ingresos en pocos meses.
 
-Para quien vive en una zona así o puede desplazarse: trabajo estacional de verano con buena remuneración, especialmente en hostelería.
+Los grandes eventos locales (ferias, congresos, festivales, maratones) crean demanda temporal muy específica: transporte, alojamiento privado, hostelería, organización logística. Quien vive en la ciudad donde ocurre tiene ventaja.
 
-**Eventos locales:**
-Los grandes eventos (ferias, congresos, festivales, competiciones deportivas) crean demanda temporal de múltiples servicios: transporte, alojamiento, hostelería, seguridad, organización.
+Carlos hizo un trabajo de instalación de red temporal en un festival de música de tres días. Contratado por la organización para asegurar la conectividad en el recinto. 600 euros en tres días de trabajo fin de semana.
 
 ---
 
 ## Capítulo 4: El negocio estacional como estrategia deliberada
 
-Hay negocios diseñados para ser estacionales y muy rentables en su temporada.
+Hay negocios diseñados para ser rentables en temporada y prácticamente inactivos el resto del año.
 
-El puesto de turrones en Navidad.
-El negocio de helados en verano.
-El servicio de fotografía de bodas (pico en mayo-octubre).
-El negocio de decoración navideña.
-El servicio de jardinería y mantenimiento de jardines en primavera-verano.
+El fotógrafo de bodas trabaja principalmente de mayo a octubre. Cero bodas en enero. Pero las bodas de verano pagan lo suficiente para cubrir el año.
 
-Estos negocios no son grandes emprendimientos. Son operaciones con alta densidad de ingresos en temporada y prácticamente sin actividad el resto del año.
+El decorador navideño instala y recoge adornos en hogares y comercios entre noviembre y enero. En febrero: nada. En noviembre: más trabajo del que puede asumir.
 
-Para alguien con empleo fijo que tiene meses con más disponibilidad de tiempo, un negocio estacional puede ser la segunda fuente perfecta.
+El instructor de esquí trabaja diciembre-marzo. Los meses restantes, otros proyectos.
 
----
+Estos no son negocios fallidos porque no generan en todo el año. Son negocios optimizados para concentrar ingresos en el período de mayor demanda.
 
-## Capítulo 5: Aprovechar la demanda online estacional
-
-Las búsquedas online también tienen estacionalidad.
-
-En Google Trends puedes ver cómo varían las búsquedas de cualquier término a lo largo del año.
-
-"Disfraces de Halloween" dispara en octubre.
-"Regalos de Navidad" en noviembre-diciembre.
-"Destinos de verano" en abril-mayo.
-"Vuelta al cole" en agosto.
-
-Si tienes contenido online (blog, canal de YouTube, cuenta de Instagram), puedes anticiparte a estos picos con contenido relevante publicado semanas antes.
-
-El artículo sobre "ideas de regalos de Navidad para menos de 50 euros" publicado en octubre puede generar tráfico y comisiones de afiliación en noviembre y diciembre.
-
-La estacionalidad del contenido online se planifica meses antes.
+Para alguien con empleo fijo que tiene disponibilidad en temporada específica, un negocio o servicio estacional puede ser la segunda fuente perfecta: alta intensidad cuando hay tiempo disponible, sin carga cuando el trabajo principal absorbe la atención.
 
 ---
 
-## Capítulo 6: Black Friday: cómo beneficiarse y cómo no caer en la trampa
+## Capítulo 5: El contenido online y la estacionalidad
 
-El Black Friday merece un capítulo propio.
+Carlos tiene un blog sobre tecnología doméstica.
 
-Para los negocios: es el momento de mayor volumen de ventas del año. Si tienes un producto o servicio que vender, el Black Friday es cuando más fácil es convertir.
+En Google Trends, observó que las búsquedas sobre "mejorar WiFi en casa" tienen un pico claro en septiembre, cuando las familias vuelven de vacaciones y los hijos empiezan el colegio con nuevos dispositivos.
 
-Las promociones de Black Friday bien comunicadas pueden triplicar las ventas de un mes normal.
+También observó un pico en diciembre, cuando los regalos de Navidad (tablets, consolas, televisores inteligentes) llenan los hogares de dispositivos que necesitan conectarse a una red que quizás no está preparada para tantos.
 
-Para el consumidor: es la mayor trampa del año.
+Con esa información, Carlos publicó artículos específicos sobre WiFi de vuelta al cole en agosto (semanas antes del pico de búsqueda) y sobre WiFi navideño en noviembre.
 
-El 70% de los productos en oferta de Black Friday estuvieron al mismo precio o más barato en otros momentos del año. Las ofertas "de 200 a 99 euros" con frecuencia tienen el precio original inflado para hacer más dramático el descuento.
+Esos artículos recibieron más tráfico que cualquier otro. Y el tráfico generó más clics en sus enlaces de afiliados de routers y equipos de red.
 
-La forma correcta de usar el Black Friday como consumidor: tener una lista específica de cosas que necesitas y que ya has investigado. Saber el precio real habitual. Solo comprar si el descuento es real y el producto es necesario.
-
-No comprar por el impulso de la oferta. Comprar si el producto estaba en la lista antes del Black Friday.
+La estacionalidad del contenido online se planifica con antelación. El artículo publicado el 1 de diciembre llega tarde para el pico de Navidad. El publicado el 1 de noviembre llega justo.
 
 ---
 
-## Capítulo 7: La planificación del gasto estacional
+## Capítulo 6: Black Friday — dos perspectivas
 
-El otro lado de la estacionalidad financiera es el gasto.
+El Black Friday tiene dos caras.
 
-Navidad cuesta dinero. Las vacaciones cuestan dinero. La vuelta al cole cuesta dinero.
+Para quien tiene algo que vender: es el momento del año de mayor disposición a comprar. Las campañas bien comunicadas con anticipación pueden triplicar las ventas de un mes normal. Marta lanza su ebook con descuento de Black Friday cada año. El primer año vendió doce copias en una semana. El segundo, veintidós.
 
-Estos gastos son predecibles. No son imprevistos. Pero muchas personas los viven como imprevistos porque no los han planeado.
+Para quien compra: es la mayor trampa del año.
+
+El cuñado lo vive cada noviembre con la intensidad de quien siente que está dejando dinero en la calle si no compra. "Mira, esto de 300 está a 149. Es una locura no comprarlo."
+
+El problema: ese producto concreto estuvo a 149 euros tres semanas antes y estará a ese precio o menos en enero. El "precio original" de 300 euros es una referencia inflada para hacer más dramático el descuento.
+
+La regla del Black Friday como comprador: tener una lista específica de cosas que se necesitan, saber el precio real habitual de cada una (herramientas como Keepa para Amazon rastrean el histórico de precios), y comprar solo si el descuento es real y el producto estaba en la lista antes del Black Friday.
+
+Lo que no tiene sentido: comprar cosas que no se necesitan porque están de oferta. Una oferta del 50% en algo que no se iba a comprar no es un ahorro. Es un gasto que no estaba en el plan.
+
+---
+
+## Capítulo 7: El fondo para los gastos estacionales predecibles
+
+La Navidad no es un imprevisto. Las vacaciones no son un imprevisto. La vuelta al cole no es un imprevisto.
+
+Son gastos predecibles que ocurren en fechas predecibles todos los años.
+
+Y sin embargo, la mayoría de personas los vive como imprevistos porque no los han planificado.
 
 La solución: el fondo de gastos estacionales.
 
-Calculas cuánto gastas al año en los grandes eventos estacionales (Navidad, vacaciones, vuelta al cole, cumpleaños de los niños, regalos de comunión/boda). Divides entre doce. Esa cantidad va a una cuenta separada cada mes.
+Carlos y Ana hicieron el ejercicio de estimar todos los gastos estacionales del año:
 
-Cuando llega el evento, el dinero ya está. No hay que tirar de tarjeta.
+Navidad (regalos, cenas): 600 euros.
+Vacaciones de verano: 1.400 euros.
+Vuelta al cole de los hijos: 400 euros.
+Cumpleaños de los hijos, comuniones, bodas: 700 euros.
+Revisiones médicas y dentales anuales: 300 euros.
 
-Carlos y Ana calcularon sus gastos estacionales anuales en 3.600 euros. Eso es 300 euros al mes que transfieren automáticamente a la "cuenta de estacionalidad".
+Total anual: 3.400 euros.
 
-Cuando llegan las Navidades, hay 900 euros listos. Cuando llegan las vacaciones, hay dinero. Sin sorpresas.
+Dividido entre doce meses: 283 euros al mes.
 
----
+Carlos y Ana tienen una transferencia automática de 300 euros al mes a una cuenta separada etiquetada "Gastos Estacionales". Cuando llega la Navidad, hay 900 euros esperando. Cuando llegan las vacaciones, hay dinero preparado. Sin tirar de tarjeta. Sin deudas por hacer cosas normales.
 
-## Capítulo 8: La estacionalidad en la inversión
-
-Hay un debate en el mundo de la inversión sobre si la estacionalidad bursátil existe y si tiene sentido aprovecharlo.
-
-"Sell in May and go away" (vende en mayo y vete) es el dicho más conocido: históricamente, el período mayo-octubre ha sido el menos rentable del año en bolsa.
-
-¿Funciona esta estrategia?
-
-Los datos históricos muestran que el dicho tiene algo de base estadística. Pero la estadística no es determinística.
-
-Para el inversor de largo plazo que invierte regularmente cada mes: la estacionalidad bursátil es un ruido de fondo que no tiene que afectar a su estrategia.
-
-Para el trader activo: puede ser un factor a considerar, con todas las limitaciones que implica operar en base a patrones estadísticos históricos.
+El dinero no crece en esa cuenta. No está ahí para invertirse. Está para que los gastos predecibles no sean una sorpresa cada vez que llegan.
 
 ---
 
-## Capítulo 9: El calendario financiero del año
+## Capítulo 8: El calendario financiero del año
 
-El ejercicio concreto de este libro es crear un calendario financiero del año.
+El ejercicio más útil de este libro es construir un calendario financiero del año.
+
+No el presupuesto mensual. El mapa de todo el año visto de una vez.
 
 Mes a mes, identificar:
-- ¿Hay oportunidades de ingreso estacional este mes?
-- ¿Hay gastos estacionales predecibles este mes?
-- ¿Hay fechas de obligaciones fiscales (declaración trimestral, renta anual)?
-- ¿Hay revisiones de precios o contratos (hipoteca, seguros, teléfono)?
 
-Este calendario, visto de una vez, da una perspectiva que el día a día no permite.
+Enero: meses de más gasto por Reyes. Meses de declaración de IVA del cuarto trimestre para autónomos. Potencialmente menor ingreso si el sector tiene valle.
 
-Carlos y Ana hicieron este ejercicio. Descubrieron que en mayo tenían confluencia de vacaciones de fin de curso, revisión de hipoteca y renovación de seguros. Tres gastos significativos en el mismo mes sin estar preparados.
+Febrero-marzo: declaración de IRPF para algunos. Temporada de declaraciones fiscales para los autónomos trimestrales.
 
-El año siguiente, lo planificaron con meses de antelación. Sin sorpresas.
+Abril: Semana Santa (gasto vacacional). Inicio de temporada de bodas y eventos.
 
----
+Mayo-junio: revisión de seguros del hogar y del coche (muchas pólizas se renuevan en estas fechas). Fin de curso de los hijos.
 
-## Capítulo 10: La ventaja del que planifica
+Julio-agosto: vacaciones (gasto). Para autónomos, posible baja de ingresos.
 
-La ventaja competitiva más sencilla en el mundo financiero no es la inteligencia, ni el capital, ni los contactos.
+Septiembre: vuelta al cole. Inicio de temporada alta para diseño y campañas de Navidad.
 
-Es planificar cuando los demás reaccionan.
+Octubre-noviembre: campaña de Navidad. Black Friday.
 
-El que planifica la Navidad en julio consigue mejores precios, menos estrés y mejor resultado.
+Diciembre: Navidad (gasto). Declaración trimestral de IVA para autónomos.
 
-El que planifica los ingresos estacionales en enero tiene ventaja sobre quien improvisa en octubre.
-
-El que tiene el calendario financiero del año en la cabeza toma mejores decisiones todo el año.
-
-La planificación no es glamurosa. Pero produce resultados consistentemente mejores que la improvisación.
+Carlos y Ana hicieron este ejercicio y descubrieron que en mayo confluían revisión de hipoteca, renovación de seguros y un viaje de fin de curso. Tres gastos en el mismo mes sin estar preparados. El año siguiente, los anticiparon con meses de antelación.
 
 ---
 
-## Epílogo: El año que viene empieza hoy
+## Capítulo 9: La estacionalidad en la inversión
 
-La planificación del próximo año empieza hoy.
+Hay un dicho en los mercados financieros: "Sell in May and go away" (vende en mayo y vete).
 
-No el 1 de enero.
+El argumento estadístico: históricamente, el período mayo-octubre ha sido menos rentable en bolsa que noviembre-abril.
 
-Hoy.
+Los datos muestran que el patrón tiene algo de base histórica. Pero la estadística no es determinística. No siempre se cumple. Y en el largo plazo, las diferencias estacionales son absorbidas por la tendencia general del mercado.
 
-Qué gastos estacionales tendrás. Qué oportunidades de ingreso aprovecharás. Qué fondos vas a ir acumulando para cada momento.
+Para el inversor de largo plazo que aporta de forma regular cada mes: la estacionalidad bursátil no debería cambiar la estrategia. Los intentos de cronometrar el mercado basados en patrones estacionales raramente producen mejores resultados que la consistencia.
 
-El siguiente y último libro de esta serie, "De empleado a emprendedor: La transición sin suicidio financiero", cierra con la pregunta que muchos se hacen pero pocos responden bien: ¿cómo dejar el empleo para emprender sin arruinarte en el intento?
+Para el inversor activo que quiere incorporar la estacionalidad como un factor más: es un elemento adicional de análisis, no una estrategia en sí misma.
+
+---
+
+## Capítulo 10: El año que viene empieza hoy
+
+La ventaja del que planifica sobre el que improvisa no es inteligencia superior.
+
+Es simplemente haber pensado antes en lo que va a pasar.
+
+Marta sabe en agosto que octubre será intenso. Lo prepara. Sus finanzas en enero son mejores que las de quienes improvisan en octubre.
+
+Carlos sabe en enero cuándo vencen los seguros, cuánto costará la vuelta al cole, cuándo habrá que revisar la hipoteca. Lo planifica. Las sorpresas son menos.
+
+El calendario financiero del año no requiere más de dos horas de trabajo al inicio de enero para quedar trazado. Esas dos horas de planificación ahorran horas de gestión de crisis a lo largo del año.
+
+La planificación no garantiza que todo salga bien. Pero garantiza que cuando algo sale distinto de lo esperado, hay margen para manejarlo.
+
+---
+
+## Epílogo: El calendario como aliado
+
+El tiempo no es lineal en términos financieros.
+
+Hay momentos en el año donde ganar dinero es más fácil. Momentos donde gastar más es inevitable. Momentos donde planificar tiene más impacto.
+
+Ver el año completo de una vez, en lugar de vivir el mes a mes, cambia la perspectiva de forma significativa.
+
+El siguiente libro, el último de esta serie, trata la pregunta que muchos piensan pero pocos responden bien: cómo hacer la transición de empleado a emprendedor sin arruinarse en el intento.
 
 ---
 

@@ -6,231 +6,225 @@
 
 ---
 
-## Prólogo: La empresa más eficiente del mundo
+## Prólogo: La pregunta que Marta se hizo
 
-¿Cuál es la empresa con mayor margen de beneficio del mundo?
+Marta llevaba cuatro años como autónoma cuando se hizo una pregunta que cambió cómo pensaba sobre su negocio.
 
-No Apple. No Google.
+Había empezado pequeña. Sola, desde casa, haciendo diseño para los clientes que llegaban por recomendación. Con el tiempo, había añadido una colaboradora part-time, había alquilado un pequeño espacio de coworking y había intentado construir algo que parecía una agencia pequeña.
 
-Es el negocio de una persona bien estructurado.
+Los ingresos habían subido de 24.000 a 38.000 euros anuales.
 
-Sin nóminas de empleados. Sin alquiler de oficina. Sin reuniones interminables. Sin estructura burocrática. Sin inversores que presionen.
+Pero algo no cuadraba.
 
-Una persona. Un conjunto de habilidades. Un mercado que las valora. Un sistema que las entrega.
+El estrés había crecido más que los ingresos. La colaboradora a veces fallaba. El coworking era un gasto fijo que pesaba en los meses malos. Marta gestionaba proyectos, coordinaba personas, hacía facturas, y cuando por fin llegaba el momento de hacer diseño, ya estaba agotada.
 
-El negocio de una persona no aspira a ser una multinacional. Aspira a ser rentable, sostenible, y compatible con la vida que quieres tener.
+"¿Cuánto dinero necesito yo realmente para vivir bien?"
 
-Paul Jarvis popularizó este concepto en su libro "Company of One". La idea de que el crecimiento no siempre es la respuesta. Que a veces la mejor empresa es la que se mantiene pequeña, eficiente e intencional.
+La respuesta honesta: 3.000 euros al mes netos eran suficientes para vivir con holgura en su ciudad. Sin lujos excesivos pero con comodidad real.
 
-Este libro es para quien quiere construir algo así.
+Con sus habilidades, si elegía bien a sus clientes y subía un poco el precio por proyecto, podía facturar 4.000-4.500 euros al mes trabajando treinta y cinco horas a la semana. Sin colaboradora. Sin coworking. Desde casa.
 
----
+Marta simplificó. Sus ingresos bajaron ligeramente el primer mes. Su calidad de vida subió de forma notable.
 
-## Capítulo 1: Por qué pequeño puede ser mejor
-
-La narrativa dominante sobre los negocios dice que crecer es el objetivo.
-
-Más clientes. Más empleados. Más facturación. Más todo.
-
-Hay problemas con esta narrativa.
-
-Más empleados significa más gestión, más conflictos, más responsabilidades legales, más nóminas.
-
-Más clientes significa más complejidad, más soporte, más operaciones.
-
-Más facturación no siempre significa más beneficio. A veces es lo contrario.
-
-El negocio de una persona propone una pregunta diferente: ¿cuánto necesito realmente para vivir bien? Y diseña el negocio alrededor de esa respuesta.
-
-Si necesitas 4.000 euros al mes netos para vivir como quieres, y puedes conseguirlos trabajando 30 horas a la semana con los clientes adecuados, ¿para qué crecer?
-
-No hay respuesta universal. Pero la pregunta vale la pena hacerse.
+Ese es el negocio de una persona: no el más grande posible, sino el más eficiente posible.
 
 ---
 
-## Capítulo 2: Los modelos de negocio de una persona
+## Capítulo 1: La narrativa del crecimiento que no siempre tiene sentido
 
-Hay varios modelos que se adaptan bien al negocio de una persona.
+La cultura emprendedora tiene una narrativa dominante: crecer.
 
-**Consultoría o asesoría:**
-Tu expertise. Tu tiempo. Tus consejos. Los clientes pagan por tu conocimiento aplicado a sus problemas.
+Más clientes. Más empleados. Más facturación. Series A, B, C. Expansión. Escala.
 
-Marta podría hacer consultoría de imagen de marca para pequeñas empresas: no solo diseñar, sino asesorar estratégicamente en comunicación visual.
+Esta narrativa tiene sentido para ciertos tipos de negocios. Para tecnología con efecto de red, para modelos que escalan sin coste marginal, para quien quiere construir algo grande.
 
-**Agencia de uno:**
-Haces el trabajo de una agencia (diseño, marketing, desarrollo web, comunicación) pero tú solo. Sin equipo. Subcontratas cuando tienes overflow.
+No siempre tiene sentido para un profesional que vende su expertise.
 
-**Infoproductos:**
-Cursos, ebooks, guías, templates, membresías. Escalable porque el mismo producto se vende muchas veces.
+Más empleados significa más gestión, más nóminas, más responsabilidades legales, más complejidad administrativa. Y más reuniones.
 
-**Servicios con retainer:**
-En lugar de proyectos puntuales, acuerdas con clientes un pago mensual fijo por un servicio continuado. Predecible, estable.
+Más clientes significa más soporte, más comunicaciones, más variables que pueden salir mal.
 
-**Coaching o mentoría:**
-Trabajas uno a uno con personas que quieren mejorar en un área donde tú eres experto.
+Más facturación no siempre significa más beneficio. A veces significa más coste, más estrés, más tiempo de gestión y menos de lo que realmente se quería hacer.
 
----
+El negocio de una persona propone una pregunta que pocas veces se formula: ¿cuánto necesito para vivir como quiero? Y diseña el negocio para responder esa pregunta, no para crecer indefinidamente.
 
-## Capítulo 3: El cliente ideal del negocio de una persona
-
-Con un negocio de una persona, no puedes permitirte trabajar con clientes que no son los adecuados.
-
-No porque seas selectivo por capricho. Sino porque el tiempo es finito y cada cliente inadecuado ocupa el espacio de uno adecuado.
-
-El cliente ideal del negocio de una persona:
-- Paga sin discutir el precio
-- Respeta los límites y los tiempos
-- Confía en tu criterio profesional
-- Puede referir a otros clientes similares
-- El trabajo con él es energizante, no agotador
-
-Para llegar a tener solo clientes ideales, hay que pasar por algunos que no lo son al principio. El proceso es gradual.
-
-Pero desde el primer día puedes establecer criterios claros: no trabajar por debajo de cierto precio, no aceptar urgencias sin compensación extra, no aceptar revisiones infinitas sin límite.
+Para Marta, esa respuesta era 3.000 euros al mes. Para otro, puede ser 6.000. O 2.000. La respuesta cambia según la persona. Lo que no cambia es que la pregunta vale la pena hacerse.
 
 ---
 
-## Capítulo 4: La propuesta de valor clara
+## Capítulo 2: Los modelos que se adaptan a una persona
 
-En el negocio de una persona, la diferenciación no viene de ser el más grande ni el más barato. Viene de la propuesta de valor específica.
+El negocio de una persona tiene formas concretas.
 
-¿Qué problema resuelves? ¿Para quién específicamente? ¿Qué resultado produce trabajar contigo?
+La consultoría o asesoría: el expertise aplicado a los problemas de otros. El cliente paga por el conocimiento y la experiencia que tú ya tienes. Marta, después de simplificar, empezó a ofrecer sesiones de consultoría de imagen de marca. Una hora, 150 euros. Sin proyecto completo de diseño: solo estrategia.
 
-La propuesta de valor de Marta no es "diseño gráfico". Hay miles de diseñadores gráficos.
+La agencia de uno: hacer el trabajo de una agencia pero solo, subcontratando cuando hay overflow. Marta sigue haciendo proyectos completos de identidad corporativa, pero cuando el volumen supera su capacidad, pasa partes a otros freelances de confianza. Mantiene la relación con el cliente y el control de calidad.
 
-Podría ser: "Transformo la imagen visual de marcas de moda emergente para que parezcan establecidas sin el presupuesto de las grandes."
+Los servicios con retainer: en lugar de proyectos puntuales, acordar un pago mensual fijo por un servicio continuado. Marta tiene dos clientes con retainer mensual: revisa sus comunicaciones visuales y les hace los materiales recurrentes que necesitan. Son 800 euros fijos al mes de dos clientes. Sin buscar nuevos proyectos, sin incertidumbre.
 
-Específico. Claro. Orientado a resultados. Para un segmento concreto.
+Los infoproductos: lo que Marta ya enseña verbalmente a sus clientes, empaquetado como curso o guía que se vende sin su presencia. Escalable porque el mismo producto llega a muchas personas.
 
-Una propuesta de valor así hace que el cliente adecuado te encuentre más fácil. Y que el inadecuado no pierda tu tiempo.
-
----
-
-## Capítulo 5: La estructura financiera del negocio de una persona
-
-El negocio de una persona tiene una estructura financiera diferente a un negocio con empleados.
-
-No hay nóminas externas. Los costes variables son mínimos. El margen puede ser muy alto.
-
-Los costes típicos de un negocio de una persona:
-- Cuota de autónomo (desde 80€/mes para nuevos autónomos)
-- Suscripciones de software y herramientas (50-200€/mes)
-- Formación y actualización (variable)
-- Marketing (variable, puede ser cero si funciona el boca a boca)
-- Gestoría fiscal (50-150€/mes)
-
-Total fijo mensual: entre 200 y 600 euros.
-
-Si facturas 3.000 euros al mes, el margen neto antes de IRPF puede ser del 70-80%.
-
-Eso es un margen que ninguna empresa con empleados puede aspirar.
+No hay que elegir uno solo. La combinación de varios da el ingreso más estable.
 
 ---
 
-## Capítulo 6: Los peligros del negocio de una persona
+## Capítulo 3: El cliente que hace rentable el negocio de una persona
 
-Hay riesgos específicos de este modelo que hay que conocer.
+Con un negocio de una persona, cada cliente ocupa una parte grande del tiempo disponible.
 
-**Dependencia de pocos clientes:**
-Si el 80% de tu facturación viene de dos clientes y uno se va, tienes un problema grave. La diversificación de clientes es crítica.
+No puedes permitirte trabajar con el cliente equivocado.
 
-**Ausencia por enfermedad o vacaciones:**
-Si no trabajas, no facturas. No hay colega que te cubra, no hay sistema que funcione solo. El fondo de emergencia del negocio tiene que ser más generoso que el de un empleado.
+El cliente equivocado: paga tarde o negocia el precio agresivamente. Pide más de lo acordado sin querer pagar más. No tiene claro lo que quiere hasta que ya está hecho. Contacta a horas inadecuadas y espera respuesta inmediata. Después de un proyecto, no vuelve ni refiere a nadie.
 
-**Burnout por la soledad:**
-Trabajar solo puede ser psicológicamente agotador. La falta de equipo, de conversación, de compañerismo.
+El cuñado tiene un cliente de este tipo. "Es un poco difícil pero paga bien", dice. Marta lo escucha y piensa en las horas que ese cliente le roba a la persona que sería un cliente ideal.
 
-**Límites difusos entre trabajo y vida:**
-Sin una oficina a la que ir y de la que volver, los límites se difuminan. Trabajar a las 11 de la noche porque "no hay nadie que te diga que pares".
+El cliente ideal paga sin regatear porque entiende el valor que recibe. Respeta los límites y los tiempos porque también valora el suyo propio. Confía en el criterio profesional porque para eso te contrató. Refiere a personas similares porque está contento.
 
-**Estancamiento por no reinventarse:**
-Sin la presión de un equipo o de inversores, el negocio de una persona puede estancarse. Hay que ser disciplinado en la evolución y la mejora.
+Para llegar a tener principalmente clientes ideales, se pasa por algunos que no lo son. Ese proceso es inevitable. Lo que sí se puede hacer es acortarlo estableciendo criterios desde el principio: precio mínimo, número de revisiones incluidas, tiempo de respuesta garantizado y tiempo de respuesta esperado del cliente.
 
 ---
 
-## Capítulo 7: La escalabilidad sin crecer
+## Capítulo 4: La propuesta de valor que te hace diferente
 
-El negocio de una persona puede escalar sin añadir empleados.
+En el negocio de una persona no se compite siendo el más barato. Hay siempre alguien más barato.
 
-Formas de escalar sin crecer en plantilla:
+Se compite siendo específico y siendo el mejor en ese espacio específico.
 
-**Subir precios:** Trabajar con menos clientes que pagan más. Menos trabajo, mismo o mayor ingreso.
+La propuesta de valor de Marta no es "diseño gráfico para empresas". Hay miles de diseñadores.
 
-**Infoproductos:** Crear productos que se venden sin tu presencia activa. El curso que enseña lo que tú harías en consultoría.
+Podría ser: "Identidad corporativa para marcas locales en el sector gastronómico que quieren parecer establecidas sin el presupuesto de las grandes." Específico. Claro. Orientado a un resultado concreto para un segmento concreto.
 
-**Grupos y membresías:** En lugar de trabajar uno a uno, trabajar con diez o veinte personas al mismo tiempo por una fracción del precio individual pero con mucho mayor eficiencia para ti.
+Con esa propuesta de valor, un restaurante que quiere profesionalizar su imagen sabe que Marta es exactamente para ellos. Y una empresa de software de 50 empleados sabe que probablemente no es su perfil.
 
-**Subcontratación estratégica:** Para proyectos concretos, subcontratar partes a otros freelances. Tú mantienes la relación con el cliente y la calidad. Ellos hacen la ejecución específica.
+El filtro que crea una propuesta de valor específica ahorra más tiempo del que parece. El cliente que no es el perfil no llega ni a pedir presupuesto.
 
-**Automatización:** Todo lo que es proceso repetible puede automatizarse con herramientas. El tiempo liberado va a trabajo de mayor valor o a descanso.
-
----
-
-## Capítulo 8: El negocio de una persona y el Método 5P
-
-En el contexto del Método 5P, el negocio de una persona es principalmente el Pilar 4 (Producción).
-
-Es una fuente de ingresos activa y semiactiva.
-
-Activa porque requiere tu presencia y trabajo.
-Semiactiva si incluye infoproductos o sistemas que funcionan parcialmente sin ti.
-
-La diferencia con el empleo es el control. Como autónomo con negocio propio, controlas tu precio, tus clientes, tus horarios, tu evolución.
-
-Como empleado, dependes de las decisiones de otros.
-
-El negocio de una persona no elimina el riesgo. Lo cambia de naturaleza. En lugar del riesgo de despido, tienes el riesgo de no conseguir clientes. Pero ese riesgo lo controlas más directamente.
+La propuesta de valor se refina con el tiempo. No tiene que ser perfecta desde el primer día. Tiene que estar orientada en la dirección correcta.
 
 ---
 
-## Capítulo 9: El año cero del negocio de una persona
+## Capítulo 5: La estructura financiera más eficiente del mercado
 
-El primer año es el más difícil.
+Un negocio de una persona bien gestionado tiene márgenes que ninguna empresa con empleados puede igualar.
 
-No hay inercia. No hay referencias. No hay sistema rodado.
+Los costes típicos de un negocio de una persona en España:
 
-Hay que construir todo desde cero: clientes, procesos, presencia, credibilidad.
+Cuota de autónomo: desde 80 euros al mes para nuevos autónomos, subiendo según ingresos declarados. Para ingresos de 3.000 euros al mes netos, aproximadamente 300-400 euros mensuales.
+
+Suscripciones de herramientas: dependiendo del sector, entre 50 y 200 euros al mes. Marta tiene Adobe Creative Suite, Figma y algunas herramientas de gestión de proyectos. Menos de 100 euros al mes.
+
+Gestión fiscal: entre 50 y 150 euros al mes para una gestoría que se ocupa de las declaraciones trimestrales y el IRPF anual.
+
+Si Marta factura 4.500 euros al mes brutos, con 500-600 euros de costes fijos y el correspondiente IRPF, puede retener entre 2.800 y 3.200 euros netos.
+
+Ese margen del 65-70% sobre facturación es inaccesible para cualquier empresa con nóminas.
+
+La eficiencia del negocio de una persona no está en la facturación. Está en el porcentaje que se convierte en dinero real.
+
+---
+
+## Capítulo 6: Los riesgos que hay que gestionar
+
+El negocio de una persona tiene vulnerabilidades específicas que el empleo no tiene.
+
+La concentración de clientes es la más peligrosa. Si el 70% de la facturación viene de dos clientes y uno decide cambiarse, hay un problema grave. La regla general: ningún cliente debe representar más del 30% de los ingresos. Es un objetivo, no siempre alcanzable al principio. Pero hay que tenerlo como norte.
+
+La ausencia por enfermedad o vacaciones: si no trabajas, no facturas. No hay colega que cubra, no hay sistema que funcione solo. El fondo de emergencia del negocio tiene que ser más generoso que el de un empleado: entre tres y seis meses de gastos personales y del negocio.
+
+La soledad del trabajo en solitario: es un factor real. Marta lo gestiona con un par de grupos de WhatsApp de freelances donde habla de trabajo, con una jornada semanal en un espacio de coworking, y con los almuerzos con excompañeros que mantiene aunque ya no compartan oficina.
+
+Los límites difusos entre trabajo y vida: sin un lugar al que ir y del que volver, el trabajo invade el tiempo personal. Marta tiene horario de trabajo definido: de nueve a dos y de cuatro a siete. Fuera de esos horarios, las notificaciones de trabajo están desactivadas en el móvil.
+
+---
+
+## Capítulo 7: Cómo escalar sin añadir empleados
+
+La trampa mental del negocio de una persona: si quieres ganar más, tienes que trabajar más. Las horas son finitas.
+
+No es cierto si el modelo se diseña bien.
+
+Subir precios es la primera palanca. Si Marta cobra 1.000 euros por un proyecto y tarda diez horas, gana 100 euros por hora. Si sube a 1.400 euros por el mismo proyecto y la calidad justifica el precio, gana 140 euros por hora. Mismo trabajo, 40% más de ingreso.
+
+Los infoproductos son la segunda palanca. Lo que Marta hace en consultoría uno a uno puede empaquetarse como curso grabado que vende mientras duerme. No reemplaza a la consultoría (que tiene un valor superior). La complementa.
+
+Los grupos y membresías permiten trabajar con diez personas al mismo tiempo por una fracción del precio individual, con mucha mayor eficiencia. Una sesión grupal de dos horas a la que asisten quince personas que pagan 50 euros cada una: 750 euros por dos horas de Marta.
+
+La subcontratación estratégica: cuando llega un proyecto grande, Marta no lo rechaza ni se estresa. Subcontrata las partes que otra persona puede hacer igual de bien (maquetación, fotografía de producto) y cobra el precio completo del cliente.
+
+---
+
+## Capítulo 8: El año cero y la paciencia que requiere
+
+El primer año del negocio de una persona es el más difícil.
+
+No hay inercia. No hay referencias acumuladas. No hay procesos rodados.
+
+Hay que construirlo todo desde cero mientras se pagan facturas.
 
 Lo que funciona en el año cero:
 
-**Presupuesto modesto:** No es el momento de oficina, equipos caros ni software premium. El año cero se hace con lo mínimo necesario.
+Los primeros cinco clientes satisfechos son más valiosos que cualquier campaña de marketing. Cada cliente satisfecho puede referir a dos o tres más. La bola de nieve empieza pequeña.
 
-**Foco en los primeros cinco clientes:** Cinco clientes satisfechos que dan referencias valen más que mil euros en publicidad.
+El presupuesto mínimo necesario. El año cero no es el momento de la oficina perfecta, el equipo premium ni el software más caro del mercado. Es el momento de hacer el trabajo bien con lo mínimo.
 
-**Aprender haciendo:** El primer año produce más aprendizaje que cualquier curso. Cada proyecto enseña algo sobre qué funciona y qué no.
+Aprender de cada proyecto. El primer año enseña más sobre el propio modelo de negocio que cualquier curso o libro. Qué tipo de cliente es mejor, qué tipo de proyecto es más rentable, qué proceso funciona mejor.
 
-**No abandonar demasiado pronto:** La mayoría de negocios exitosos de una persona tardaron dos o tres años en encontrar su modelo definitivo.
+No abandonar demasiado pronto. La mayoría de negocios exitosos de una persona tardaron dos o tres años en encontrar su modelo definitivo. La paciencia en el año cero, con el plan financiero sólido detrás, es más fácil de sostener.
 
 ---
 
-## Capítulo 10: ¿Es para ti?
+## Capítulo 9: Don Alberto en el contexto del negocio de una persona
+
+Don Alberto nunca tuvo negocio propio.
+
+Trabajo para otros durante cuarenta y tres años. Recibió una nómina cada mes. Al final, una pensión.
+
+Pero don Alberto tenía conocimiento técnico específico en su sector. Un conocimiento que colegas más jóvenes le consultaban incluso después de jubilarse.
+
+Su hijo le propuso una vez: "¿Y si ofrecieras asesorías a empresas del sector? Con lo que sabes, podrías cobrar 80-100 euros la hora."
+
+Don Alberto lo descartó. "A mi edad..."
+
+No es una crítica. Es un pensamiento que vale la pena tener a los 40 o a los 45, cuando aún quedan décadas de vida profesional.
+
+Las habilidades que se acumulan durante años de trabajo son activos. Activos que pueden convertirse en el negocio de una persona si se empaquetan y se ofrecen al mercado adecuado.
+
+El momento para empezar a pensarlo es antes de necesitarlo.
+
+---
+
+## Capítulo 10: Si es para ti
 
 El negocio de una persona no es para todo el mundo.
 
-Requiere:
-- Tolerancia a la incertidumbre de ingresos
-- Capacidad de autodisciplina sin estructura externa
-- Habilidades de comunicación y ventas (aunque sea informal)
-- Disposición a gestionar todos los aspectos del negocio
-- Resiliencia ante la soledad y el fracaso
+Requiere tolerancia real a la incertidumbre de ingresos. En los meses malos, no hay nadie que garantice la nómina.
 
-Para quien tiene estas características o quiere desarrollarlas: puede ser la decisión más transformadora de su carrera.
+Requiere autodisciplina sin estructura externa. Nadie te dice qué hacer ni cuándo.
 
-Para quien las prefiere evitar: el negocio de una persona como segunda fuente (manteniendo el empleo) es una posición intermedia válida.
+Requiere habilidades de comunicación y ventas. Aunque sea informal. El trabajo no llega solo.
+
+Requiere disposición a gestionar todos los aspectos: la parte de trabajo, la parte de negocio, la parte fiscal y administrativa.
+
+Para quien tiene estas características o está dispuesto a desarrollarlas: puede ser la decisión profesional más transformadora.
+
+Para quien prefiere la estructura del empleo: el negocio de una persona como segunda fuente, manteniendo el trabajo principal, es una posición intermedia perfectamente válida.
+
+No hay respuesta correcta universal. Hay la que encaja con la situación y el perfil de cada persona.
 
 ---
 
-## Epílogo: Una empresa que cabe en una persona
+## Epílogo: Una empresa que cabe en una mochila
 
-La empresa más eficiente del mundo puede caber en una persona.
+Marta trabaja desde donde quiere.
 
-Con las habilidades adecuadas. Con el sistema adecuado. Con los clientes adecuados.
+Tiene su portátil, su tablet de diseño y sus auriculares. Puede trabajar desde casa, desde una cafetería, desde la casa de sus padres en vacaciones.
 
-Sin burocracia. Sin reuniones. Sin jerarquías.
+No tiene empleados que gestionar ni oficina que mantener. Tiene clientes que la respetan, proyectos que le interesan y un ingreso que cubre con holgura su vida.
 
-Solo el trabajo y el resultado.
+No es una multinacional. Es una empresa de una persona bien diseñada.
 
-El siguiente libro, "Monetizar tu conocimiento", explora cómo convertir lo que sabes en productos y servicios que el mercado valora.
+Y en términos de eficiencia, de satisfacción y de control sobre la propia vida: difícilmente superable.
+
+El siguiente libro, "Monetizar tu conocimiento", explora cómo convertir lo que sabes en productos y servicios con valor de mercado.
 
 ---
 
