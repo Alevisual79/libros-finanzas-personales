@@ -6,193 +6,107 @@
 
 ---
 
-## Prólogo: El modelo de más alta escalabilidad
+## Prólogo: El segundo producto de Marta
 
-Hay negocios que requieren más trabajo a medida que crecen.
+El ebook de Marta sobre principios básicos de diseño para emprendedores sin presupuesto, mencionado en el libro 81 de esta serie, le generaba alrededor de cuatrocientos cincuenta euros mensuales sin que ella tuviera que hacer prácticamente nada más allá de revisarlo una vez al año. Durante mucho tiempo, asumió que ese era el techo natural de ese tipo de ingresos.
 
-Y hay negocios que pueden crecer sin que el trabajo crezca proporcionalmente.
+Una clienta le preguntó un día, después de comprar el ebook, si tenía también algún sistema de plantillas para crear las mismas piezas que mostraba en los ejemplos del libro. Marta no lo tenía. Pero la pregunta se le quedó grabada.
 
-Los productos digitales son el ejemplo más puro de lo segundo.
+Pasó tres fines de semana creando un paquete de treinta plantillas de Canva para publicaciones de redes sociales, pensadas exactamente para el mismo público que compraba el ebook: pequeños negocios sin presupuesto para un diseñador. Lo lanzó a diecinueve euros, vinculado desde el propio ebook con un descuento para quienes ya lo habían comprado.
 
-Un ebook creado en un mes puede venderse durante 10 años. El trabajo de creación fue una vez. Las ventas siguen llegando. El margen es prácticamente del 100% después de recuperar el coste de creación.
-
----
-
-## Capítulo 1: Tipos de productos digitales
-
-**Ebooks y guías:** El formato más simple. Un documento PDF con información valiosa. Precio típico: 7-49 euros.
-
-**Cursos online:** Vídeos, materiales y ejercicios sobre un tema. Formato más complejo pero mayor precio. Precio típico: 97-997 euros.
-
-**Plantillas:** Para Notion, Excel, PowerPoint, Canva, Airtable. Alta demanda porque resuelven un problema concreto rápidamente. Precio típico: 5-50 euros.
-
-**Software y herramientas:** Aplicaciones, extensiones, scripts. Requiere habilidades técnicas pero puede escalar enormemente.
-
-**Fotografías y recursos visuales:** Stock de imágenes, iconos, fuentes. Venta en plataformas específicas.
-
-**Música y audio:** Licencias para creadores de contenido.
-
-**Filtros y presets:** Para Lightroom, VSCO, Instagram.
+El paquete de plantillas, en su primer mes, generó más ingresos que el ebook que le había dado la idea. Marta entendió entonces algo que cambió su forma de pensar sobre su propio trabajo: no tenía que elegir entre un producto y otro. Podía construir un portfolio de varios productos pequeños, cada uno resolviendo un problema específico del mismo público, que juntos generaban mucho más que cualquiera de ellos por separado.
 
 ---
 
-## Capítulo 2: Cómo validar un producto digital antes de crearlo
+## Capítulo 1: Por qué los productos digitales escalan de forma distinta
 
-El error más común: crear el producto completo y luego descubrir que nadie lo quiere.
+Hay negocios que requieren más trabajo a medida que crecen, y hay negocios que pueden crecer sin que el trabajo necesario crezca de forma proporcional. Los productos digitales son el ejemplo más puro de esta segunda categoría.
 
-La validación previa es clave:
-
-**Método 1: Preventa.** Anunciar el producto antes de crearlo y ver si alguien paga por él. "Estoy creando un curso sobre X. Puedes reservarlo ahora por la mitad del precio." Si nadie lo reserva, hay señal de poca demanda.
-
-**Método 2: Versión mínima.** Crear la versión más básica del producto (un ebook de 20 páginas en lugar de 100) y ver si se vende.
-
-**Método 3: Investigación de mercado.** Ver si hay productos similares que se venden. Si existen y tienen reseñas, hay demanda. La competencia es señal de mercado, no obstáculo.
-
-**Método 4: Preguntar a la audiencia.** Si ya hay blog, newsletter o redes sociales, preguntar directamente qué problemas quieren resolver.
+Un ebook creado en un mes puede venderse durante diez años sin que el trabajo de creación se repita. Las ventas siguen llegando mientras el trabajo de crearlo fue, en esencia, una sola vez. El margen es prácticamente del cien por cien una vez recuperado el coste inicial de creación. El ebook de Marta, creado en unas sesenta horas repartidas en varios meses, ha generado ya, acumulado, más de quince mil euros en tres años, una cifra que ninguna hora adicional de trabajo de diseño facturado por proyecto podría haber alcanzado en el mismo tiempo.
 
 ---
 
-## Capítulo 3: Amazon KDP: el canal más accesible para ebooks
+## Capítulo 2: Los tipos de productos digitales disponibles
 
-Ya mencionado en el libro 82, pero merece desarrollo específico aquí.
-
-Amazon KDP permite publicar libros electrónicos y en papel (bajo demanda) con:
-- Coste de publicación: 0 euros
-- Royalties: 35% o 70% del precio de venta (según el precio y el tipo)
-- Alcance: millones de clientes en Amazon en todo el mundo
-- Sin gestión de pagos ni plataforma propia necesaria
-
-El proceso:
-1. Escribir el libro en Word o similar
-2. Formatear para KDP (o contratar a alguien por 30-50 euros)
-3. Crear portada (Canva o contratar diseñador por 30-100 euros)
-4. Subir a KDP y establecer precio y distribución
-5. Publicar
-
-El mayor reto: visibilidad. Sin SEO en Amazon o sin audiencia propia, los libros no se venden solos. Hay que aprender a optimizar los listados de KDP y conseguir reseñas.
+Los ebooks y las guías son el formato más simple: un documento con información valiosa, con un precio típico entre siete y cuarenta y nueve euros. Los cursos online, con vídeos, materiales y ejercicios sobre un tema concreto, tienen un formato más complejo pero permiten precios típicos de entre noventa y siete y novecientos noventa y siete euros. Las plantillas para Notion, Excel, PowerPoint, Canva o Airtable tienen alta demanda porque resuelven un problema concreto de forma inmediata, con precios típicos entre cinco y cincuenta euros, exactamente la categoría que Marta descubrió casi por accidente. El software y las herramientas, aplicaciones, extensiones o scripts, requieren habilidades técnicas más específicas pero pueden escalar enormemente. Las fotografías y los recursos visuales se venden en plataformas especializadas de stock. La música y el audio se licencian a creadores de contenido. Y los filtros y presets para herramientas como Lightroom, VSCO o Instagram completan el abanico de opciones más habituales.
 
 ---
 
-## Capítulo 4: Las plantillas como producto de alta conversión
+## Capítulo 3: Cómo validar un producto digital antes de crearlo
 
-Las plantillas tienen una característica especial: el cliente puede ver exactamente lo que compra antes de comprarlo.
+El error más común en este terreno es crear el producto completo y descubrir después que prácticamente nadie lo quiere. La validación previa es la clave para evitarlo.
 
-No hay ambigüedad. No hay que "esperar a ver si el curso es bueno". La plantilla es lo que es, y el cliente puede decidir si le vale.
+El método de la preventa consiste en anunciar el producto antes de crearlo y comprobar si alguien está dispuesto a pagar por él de antemano, ofreciendo una reserva a mitad de precio; si nadie reserva, hay una señal clara de poca demanda real. El método de la versión mínima consiste en crear la versión más básica posible del producto, un ebook de veinte páginas en lugar de cien, y comprobar si se vende antes de invertir en ampliarlo. El método de la investigación de mercado consiste en comprobar si ya existen productos similares que se venden bien: si existen y tienen buenas reseñas, hay demanda real, y la competencia es una señal de mercado sano, no un obstáculo a evitar. Y el método de preguntar directamente a la audiencia, si ya existe un blog, una newsletter o seguidores en redes sociales, consiste en preguntar de forma directa qué problemas concretos quieren resolver.
 
-Esto hace que la conversión (porcentaje de personas que ven el producto y lo compran) sea más alta que en cursos o ebooks.
-
-**Nichos con alta demanda de plantillas:**
-- Finanzas personales (spreadsheets de presupuesto, seguimiento de inversiones)
-- Productividad y gestión de proyectos (plantillas de Notion)
-- Diseño (Canva, Figma)
-- Marketing (calendarios de contenido, informes)
-- Negocios (facturas, propuestas, contratos)
-
-Una plantilla bien hecha puede costar 5-30 euros y venderse cientos o miles de veces.
+Marta validó su paquete de plantillas de la forma más simple posible: la pregunta espontánea de una clienta real, que reveló una necesidad que ella no había considerado por sí sola.
 
 ---
 
-## Capítulo 5: Los cursos online: el producto de mayor potencial
+## Capítulo 4: Amazon KDP, el canal más accesible para ebooks
 
-Un curso bien hecho puede venderse por 200-1.000 euros.
+Ya se mencionó en el libro 82 de esta serie, pero merece un desarrollo específico en este contexto. Amazon KDP permite publicar libros electrónicos y en papel bajo demanda con un coste de publicación de cero euros, unas regalías de entre el treinta y cinco y el setenta por ciento del precio de venta según el precio fijado y el tipo de producto, un alcance de millones de clientes potenciales en Amazon en todo el mundo, y sin necesidad de gestionar pagos ni mantener una plataforma propia.
 
-Con 100 ventas al año de un curso de 300 euros: 30.000 euros de un solo producto.
-
-Los cursos requieren más inversión inicial (tiempo de grabación, plataforma, marketing), pero el retorno potencial es el mayor de todos los productos digitales.
-
-**Plataformas para cursos:**
-- **Udemy:** Gran audiencia, pero precios muy bajos por la competencia interna y las constantes rebajas. Buen lugar para llegar a muchos estudiantes pero no para precios altos.
-- **Teachable, Thinkific, Kajabi:** Plataformas propias con más control sobre precios y branding. Hay que llevar el tráfico uno mismo.
-- **Gumroad:** Simple y accesible. Para cursos más simples o paquetes de contenido.
-
-Para quien ya tiene audiencia (blog, YouTube, redes), lanzar en plataforma propia permite precios más altos y más control.
+El proceso completo consiste en escribir el libro, formatearlo para KDP, lo que se puede contratar por entre treinta y cincuenta euros si no se quiere hacer manualmente, crear una portada con Canva o contratando a un diseñador por entre treinta y cien euros, subirlo a la plataforma estableciendo precio y distribución, y publicarlo. El mayor reto sigue siendo la visibilidad: sin algo de optimización dentro del propio buscador de Amazon o sin una audiencia propia que dirija tráfico inicial, los libros no se venden solos. Aprender a optimizar bien los listados y a conseguir las primeras reseñas es una parte del trabajo tan importante como escribir el libro en sí.
 
 ---
 
-## Capítulo 6: La distribución: cómo hacer que el producto se vea
+## Capítulo 5: Las plantillas como producto de alta conversión
 
-Un producto digital sin distribución es como un libro en un almacén cerrado.
+Las plantillas tienen una característica especial que las distingue de otros productos digitales: el cliente puede ver exactamente lo que está comprando antes de pagar por ello. No hay ambigüedad ni necesidad de esperar a comprobar si el curso resulta bueno. La plantilla es exactamente lo que parece, y el cliente decide con información completa si le resulta útil.
 
-Las principales estrategias de distribución:
-
-**Audiencia propia:** Newsletter, redes sociales, blog. El canal más valioso porque es directo y gratuito.
-
-**SEO:** Optimizar la página de ventas del producto para aparecer en Google.
-
-**Publicidad de pago:** Facebook Ads, Google Ads. Puede ser muy efectivo pero requiere saber lo que se hace. Fácil de gastar mucho sin retorno.
-
-**Afiliados:** Crear un programa de afiliados para que otros vendedores promuevan tu producto a cambio de comisión.
-
-**Marketplaces:** Plataformas donde ya hay compradores buscando (Udemy, Etsy, Amazon, Gumroad).
+Esto hace que la tasa de conversión, el porcentaje de personas que ven el producto y terminan comprándolo, sea más alta que en cursos o ebooks comparables. Los nichos con alta demanda de plantillas incluyen las finanzas personales, con hojas de cálculo de presupuesto o seguimiento de inversiones, la productividad y la gestión de proyectos, con plantillas de Notion, el diseño, con plantillas de Canva o Figma como las que creó Marta, el marketing, con calendarios de contenido e informes, y los negocios, con facturas, propuestas y contratos. Una plantilla bien hecha puede costar entre cinco y treinta euros y venderse cientos o incluso miles de veces sin que el coste de producción se repita.
 
 ---
 
-## Capítulo 7: El precio de los productos digitales
+## Capítulo 6: Los cursos online, el producto de mayor potencial individual
 
-El precio de los productos digitales no tiene que ser bajo.
+Un curso bien construido puede venderse por entre doscientos y mil euros. Con cien ventas al año de un curso de trescientos euros, el resultado son treinta mil euros generados por un solo producto.
 
-El valor de un producto digital no está en el coste de producción. Está en el valor que genera para el comprador.
-
-Un ebook que enseña a alguien a ahorrar 5.000 euros al año vale más que 10 euros. Puede valer 29 o 49 euros perfectamente.
-
-Un curso que ayuda a alguien a montar un negocio que genera 2.000 euros al mes puede valer 500 euros. La inversión se recupera en el primer mes.
-
-El precio bajo puede ser contraintuitivo: a veces bajar el precio reduce las ventas porque los compradores asumen que "si es tan barato, no puede ser bueno".
+Los cursos requieren una inversión inicial mayor, tiempo de grabación, elección de plataforma, esfuerzo de marketing inicial, pero el retorno potencial es el más alto de todos los productos digitales descritos en este libro. Udemy ofrece una audiencia muy grande, aunque con precios generalmente bajos por la competencia interna y las rebajas constantes de la plataforma, lo que la convierte en un buen lugar para llegar a muchos estudiantes pero no tanto para mantener precios altos. Teachable, Thinkific o Kajabi son plataformas propias que ofrecen más control sobre precios y marca, aunque exigen llevar el tráfico por cuenta propia. Gumroad resulta simple y accesible, especialmente adecuada para cursos más sencillos o paquetes de contenido. Para quien ya tiene una audiencia propia construida, como un blog, un canal de YouTube o seguidores en redes, lanzar en una plataforma propia permite mantener precios más altos y un control mucho mayor sobre la experiencia de compra.
 
 ---
 
-## Capítulo 8: El embudo de ventas para productos digitales
+## Capítulo 7: La distribución, cómo hacer que el producto se vea
 
-Un embudo de ventas es la secuencia de pasos que lleva a un potencial cliente desde el desconocimiento hasta la compra.
+Un producto digital sin distribución es, en la práctica, como un libro guardado en un almacén cerrado al público. Las principales estrategias de distribución incluyen la audiencia propia, newsletter, redes sociales o blog, que es el canal más valioso porque es directo y gratuito. El SEO, optimizando la página de ventas del producto para que aparezca en los resultados de Google. La publicidad de pago, a través de Facebook Ads o Google Ads, que puede ser muy efectiva pero requiere saber bien lo que se hace, porque es fácil gastar mucho dinero sin obtener retorno alguno. Los programas de afiliados, creando un sistema para que otros vendedores promuevan el producto propio a cambio de una comisión. Y los marketplaces, plataformas donde ya existen compradores activos buscando, como Udemy, Etsy, Amazon o Gumroad.
 
-Un embudo típico para productos digitales:
-1. **Lead magnet gratuito:** Un recurso gratuito que resuelve un problema pequeño (ebook gratis, checklist, miniatura, plantilla gratuita). A cambio: el email del usuario.
-2. **Secuencia de bienvenida:** Emails automáticos que aportan valor y construyen confianza.
-3. **Oferta de producto de bajo precio:** Un producto de 7-27 euros para que el usuario experimente comprar algo.
-4. **Oferta principal:** El curso o producto principal.
-5. **Upsell:** Un producto complementario de mayor precio.
-
-No es necesario tener un embudo desde el primer día. Pero entender la lógica ayuda a estructurar el negocio.
+Marta distribuye su paquete de plantillas principalmente a través del propio ebook, con un enlace y un descuento para quienes ya son clientes, y a través de su lista de correo, construida poco a poco a lo largo de los años con cada cliente de diseño que ha pasado por sus manos.
 
 ---
 
-## Capítulo 9: La actualización y el mantenimiento de productos digitales
+## Capítulo 8: El precio de los productos digitales, no tiene que ser bajo
 
-Los productos digitales no son eternamente pasivos.
+El precio de un producto digital no depende del coste de producirlo. Depende del valor que genera para quien lo compra. Un ebook que enseña a alguien a ahorrar cinco mil euros al año vale, claramente, más de diez euros: puede valer veintinueve o cuarenta y nueve euros sin ninguna dificultad. Un curso que ayuda a alguien a montar un negocio capaz de generar dos mil euros mensuales puede valer quinientos euros, porque la inversión se recupera en el primer mes de funcionamiento del negocio resultante.
 
-Las plantillas quedan obsoletas cuando cambia el software. Los cursos sobre tecnología se desactualizan. Los ebooks sobre temas fiscales necesitan revisión cuando cambia la ley.
-
-La actualización periódica tiene dos ventajas:
-- Mantiene el producto relevante y de calidad
-- Da razón para contactar a compradores anteriores ("nueva versión disponible")
-
-Un producto que nunca se actualiza pierde valor con el tiempo. Uno que se actualiza puede tener clientes recurrentes.
+El precio bajo puede resultar, además, contraintuitivo: en ocasiones, bajar el precio reduce las ventas, porque los compradores potenciales asumen que algo tan barato no puede ser realmente bueno. Marta subió el precio de su ebook de diecinueve a veintinueve euros en su segundo año, después de comprobar que las ventas no caían de forma significativa, y que algunos comentarios incluso mencionaban que esperaban un precio más alto dado el contenido.
 
 ---
 
-## Capítulo 10: El portfolio de productos digitales
+## Capítulo 9: La actualización y el mantenimiento de los productos digitales
 
-El objetivo a largo plazo no es tener un solo producto digital. Es tener un portfolio.
+Los productos digitales no son eternamente pasivos sin ningún cuidado. Las plantillas quedan obsoletas cuando cambia el software para el que se diseñaron. Los cursos sobre tecnología se desactualizan con relativa rapidez. Los ebooks sobre temas fiscales necesitan revisión cada vez que cambia la legislación.
 
-Un ebook de 29 euros que vende 50 copias al mes: 1.450 euros.
-Un curso de 197 euros que vende 10 copias al mes: 1.970 euros.
-Tres plantillas de 19 euros que venden 30 copias al mes cada una: 1.710 euros.
+La actualización periódica tiene dos ventajas claras: mantiene el producto relevante y de calidad para los nuevos compradores, y da una razón legítima para volver a contactar a los compradores anteriores, anunciando que existe una nueva versión disponible. Un producto que nunca se actualiza pierde valor de forma silenciosa con el paso del tiempo. Uno que se actualiza con regularidad puede generar clientes recurrentes que vuelven a comprar versiones mejoradas.
 
-**Total de tres productos: 5.130 euros al mes.**
+---
 
-Cada producto que se añade al portfolio genera ingresos adicionales sin trabajo activo proporcional. El primer producto es el más difícil. El décimo casi se añade solo al sistema que ya existe.
+## Capítulo 10: El portfolio de productos digitales como objetivo
+
+El objetivo a largo plazo no es tener un único producto digital exitoso. Es construir, con el tiempo, un portfolio completo de varios productos que se complementan entre sí.
+
+Un ebook de veintinueve euros que vende cincuenta copias al mes genera mil cuatrocientos cincuenta euros. Un curso de ciento noventa y siete euros que vende diez copias al mes genera mil novecientos setenta euros. Tres paquetes de plantillas de diecinueve euros cada uno, vendiendo treinta copias mensuales cada paquete, generan mil setecientos diez euros. El total de estos tres productos combinados asciende a cinco mil ciento treinta euros al mes.
+
+Cada producto que se añade al portfolio genera ingresos adicionales sin que el trabajo activo crezca de forma proporcional. El primer producto es, casi siempre, el más difícil de crear y de validar. El décimo prácticamente se añade solo al sistema de distribución que ya existe. Marta tiene hoy tres productos digitales activos, además de sus clientes de diseño habituales, y ya está pensando en el cuarto.
 
 ---
 
 ## Epílogo: La economía del conocimiento
 
-Los productos digitales representan la monetización del conocimiento.
+Los productos digitales representan, en esencia, la monetización directa del conocimiento acumulado por una persona a lo largo de su experiencia. Lo que cada persona sabe tiene valor real para alguien más. La pregunta importante es cómo empaquetar ese conocimiento de una forma que otros estén dispuestos a pagar por él.
 
-Lo que sabes tiene valor. La pregunta es cómo empaquetarlo de una forma que otros puedan pagar por él.
+El propio libro que se está leyendo en este momento es exactamente un ejemplo de eso: conocimiento empaquetado en un formato que puede venderse mil veces sin que el trabajo de creación se repita con cada venta adicional.
 
-El libro que estás leyendo ahora mismo es exactamente eso: conocimiento empaquetado en un formato que puede venderse mil veces sin trabajo adicional.
-
-El siguiente libro, "Alquiler vacacional: Airbnb y alternativas", sale del mundo digital para explorar una de las formas más accesibles de generar ingresos con activos físicos.
+El siguiente libro, "Alquiler vacacional: Airbnb y alternativas", sale del terreno puramente digital para explorar una de las formas más accesibles de generar ingresos a partir de activos físicos que muchas personas ya tienen sin saber bien cómo aprovecharlos.
 
 ---
 
