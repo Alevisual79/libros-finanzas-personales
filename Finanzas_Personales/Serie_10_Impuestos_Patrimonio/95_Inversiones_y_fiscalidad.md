@@ -6,195 +6,117 @@
 
 ---
 
-## Prólogo: La rentabilidad que importa es la neta
+## Prólogo: La primera declaración con ganancias
 
-Un inversor puede presumir de rentabilidades brutas espectaculares.
+Cuando Carlos presentó su declaración de la renta ese año, fue la primera vez que la presentación le llevó más de media hora. Hasta entonces, su situación fiscal había sido simple: un salario, las retenciones correspondientes, alguna deducción autonómica que Ana revisaba con cuidado después de la historia con el borrador de años atrás. Resultado: devolución habitual y proceso terminado.
 
-Pero lo que importa es la rentabilidad neta: después de impuestos, inflación y comisiones.
+Ese año era diferente. Carlos llevaba dieciséis meses invirtiendo de forma sistemática en fondos indexados, siguiendo el plan que había trazado después de leer los libros de inversión de esta colección. Durante ese tiempo había seguido la estrategia que le parecía más sensata: aportaciones mensuales automáticas, no mirar el valor cada semana, y no vender nunca por pánico ni por euforia.
 
-Hacienda tiene su parte en las ganancias de inversión. No pagarla es evasión. Pero optimizarla legalmente puede marcar una diferencia significativa a largo plazo.
+Lo que no había calculado bien era la implicación fiscal de algo que había hecho en noviembre: vender las participaciones de un fondo que había comprado hace tres años con un dinero que en su momento reservó para este fin, y traspasarlo todo a otro fondo de mejor calidad. Cuando llegó el momento de declarar, Carlos descubrió que ese traspaso había generado una ganancia latente que ahora era una ganancia real, y que Hacienda tenía algo que decir al respecto.
 
----
-
-## Capítulo 1: La base del ahorro en el IRPF
-
-Las rentas de inversión en España tributan en la base del ahorro del IRPF.
-
-Los tipos de la base del ahorro (2024):
-- Hasta 6.000 euros de ganancia: 19%
-- De 6.000 a 50.000 euros: 21%
-- De 50.000 a 200.000 euros: 23%
-- A partir de 200.000 euros: 27%
-
-Lo que entra en la base del ahorro:
-- Dividendos e intereses (rendimientos del capital mobiliario)
-- Ganancias y pérdidas patrimoniales de transmisiones de activos
-
-Lo que no entra (va a la base general):
-- Los alquileres de inmuebles
-- Los intereses de préstamos a familiares en algunos casos
+La sorpresa no fue el importe del impuesto, que en el fondo era razonable. Fue darse cuenta de que la rentabilidad bruta de su inversión y la rentabilidad neta después de impuestos eran dos números distintos. Y que ese matiz importaba más de lo que había pensado.
 
 ---
 
-## Capítulo 2: Los dividendos
+## Capítulo 1: La base del ahorro y sus tipos
 
-Cuando una empresa reparte dividendos, el inversor recibe el importe bruto menos la retención a cuenta del IRPF.
+Las rentas de inversión en España tributan en lo que el IRPF llama la base del ahorro, que funciona de forma separada a los ingresos del trabajo o de actividades económicas. Esto es importante porque tiene sus propios tipos, más bajos que los de la renta general: el diecinueve por ciento para las primeras seis mil euros de ganancia, el veintiuno por ciento entre seis mil y cincuenta mil, el veintitrés por ciento entre cincuenta mil y doscientos mil, y el veintisiete por ciento a partir de esa cifra.
 
-La retención es del 19% para dividendos nacionales (el tipo mínimo de la base del ahorro).
-
-En la declaración de la renta, se incluye el dividendo bruto y se compensa con la retención ya pagada.
-
-**Importante:** Los dividendos de ETFs de acumulación no se distribuyen. El inversor no recibe efectivo. No hay tributación hasta que se vende el ETF. Esto es una ventaja fiscal significativa respecto a los ETFs de distribución.
+Para Carlos, en su primera declaración con ganancias de inversión, la cantidad estaba bien dentro del primer tramo. Pagó el diecinueve por ciento sobre la ganancia realizada. No fue una cantidad que le perturbara especialmente, pero le hizo entender que la rentabilidad que veía en la plataforma de inversión, el porcentaje que presumía mentalmente cuando miraba su cartera, era la rentabilidad bruta. La neta, después de ese diecinueve por ciento sobre la ganancia, era algo menor.
 
 ---
 
-## Capítulo 3: Las plusvalías
+## Capítulo 2: Los dividendos y cómo funcionan
 
-Cuando vendes un activo a mayor precio del de compra, hay una ganancia patrimonial.
+Carlos también recibía dividendos de algunas acciones que tenía en cartera desde antes de empezar a invertir de forma sistemática, herencia de una etapa en que compraba acciones sueltas por intuición más que por estrategia. Cuando los dividendos llegaban a su cuenta, llegaban ya con la retención del diecinueve por ciento descontada. El banco había retenido ese porcentaje directamente y lo había ingresado a cuenta del IRPF.
 
-Cuando vendes a menor precio, hay una pérdida patrimonial.
+Esto significa que en la declaración de la renta Carlos incluye el dividendo bruto, compensa la retención ya pagada, y si su tipo efectivo en la base del ahorro es exactamente el diecinueve por ciento, el resultado es cero: ya está pagado. Si tuviera más ganancias que lo pusieran en un tramo superior, pagaría la diferencia.
 
-**Tributación:**
-La ganancia tributa en la base del ahorro al tipo correspondiente.
-
-**Período de tenencia:**
-Antes de 2015, las ganancias por activos con más de un año de tenencia tributaban de forma especial. Ahora, todas las ganancias de activos tributan en la base del ahorro sin diferencia por período.
-
-**Acciones no cotizadas:**
-Las ganancias en venta de participaciones de empresas no cotizadas tributan igual que las cotizadas en la base del ahorro.
+Lo que Ana le señaló esa tarde mientras revisaban juntos la declaración es que los fondos de acumulación, que son los que Carlos había elegido para su cartera principal, no reparten dividendos. Reinvierten internamente los beneficios sin que el inversor reciba nada. Eso significa que no hay tributación anual por los dividendos internos del fondo: el impuesto se difiere hasta que se vende. Para un inversor a largo plazo, ese diferimiento tiene un valor real que se va acumulando año tras año.
 
 ---
 
-## Capítulo 4: La compensación de pérdidas
+## Capítulo 3: Las plusvalías y las pérdidas
 
-Si en un año tienes pérdidas patrimoniales, puedes compensarlas con las ganancias.
+Lo que Carlos había realizado en noviembre era una plusvalía patrimonial: vendió participaciones de un fondo a un precio mayor que el de compra. La ganancia es la diferencia entre el precio de venta y el precio de adquisición, y tributa en la base del ahorro.
 
-**Regla de compensación:**
-Las pérdidas de la base del ahorro (ventas de activos) compensan con las ganancias de la base del ahorro (también ventas de activos). Las pérdidas de rendimientos del capital mobiliario (dividendos negativos, etc.) compensan con los rendimientos positivos del mismo tipo.
+Pero hay otra cara de esa misma moneda: las pérdidas patrimoniales. Si en lugar de ganar hubiera perdido, esa pérdida no se desprecia. Se puede compensar con las ganancias del mismo tipo de renta. Si Carlos tuviera ganancias por venta de acciones y pérdidas por venta de un fondo, ambas entran en la misma base y se compensan. Si el resultado neto es una pérdida, puede arrastrarse hasta cuatro años siguientes y compensarse con ganancias futuras.
 
-Desde 2015, también es posible la compensación cruzada: las pérdidas de ventas de activos pueden compensar el 25% de los rendimientos del capital mobiliario (dividendos, intereses) y viceversa.
-
-**Arrastre temporal:**
-Las pérdidas que no se compensan en un año pueden arrastrarse hasta 4 años posteriores.
-
-Ejemplo: En 2024 vendiste acciones con -3.000 euros de pérdida y no tienes ganancias que compensar. En 2025, si tienes ganancias, puedes compensar esos -3.000 euros.
+Ana recordó que dos años atrás habían vendido unas acciones de una empresa que habían heredado y que había bajado de valor. Esa pérdida estaba todavía disponible para compensar. Carlos la aplicó en esa misma declaración contra la ganancia del fondo y redujo la base imponible de la base del ahorro de forma significativa. Fue uno de los momentos de esa tarde donde Ana y él se miraron satisfechos: sin saberlo, habían hecho algo fiscalmente eficiente por accidente. En adelante lo harían a propósito.
 
 ---
 
-## Capítulo 5: Los fondos de inversión y el traspaso sin tributación
+## Capítulo 4: La ventaja fiscal de los fondos de inversión
 
-Una ventaja fiscal específica de los fondos de inversión en España.
+El traspaso de fondos es una de las ventajas fiscales más específicas que tiene el inversor español. Cuando se traspasa el dinero de un fondo a otro, no se produce un reembolso técnico: el capital pasa directamente de un fondo al otro sin que el inversor reciba el dinero en su cuenta. Hacienda lo trata como si la inversión continuara, y no hay tributación en el momento del traspaso.
 
-Cuando se traspasa el capital de un fondo a otro, no hay tributación en el momento del traspaso. La ganancia o pérdida se difiere hasta que se produce el reembolso final (venta).
+Lo que Carlos había hecho en noviembre no había sido un traspaso, sino una venta y una reinversión: reembolsó las participaciones, el dinero llegó a su cuenta, y después lo reinvirtió en otro fondo. Eso sí generó la tributación. Si en lugar de eso hubiera pedido un traspaso directo de un fondo al otro, habría diferido el impuesto hasta mucho más adelante.
 
-Esto permite:
-- Rebalancear la cartera sin costes fiscales
-- Cambiar de estrategia de inversión sin pagar plusvalías intermedias
-- Diferir el pago del impuesto hasta la desinversión final
+El gestor que revisó después la declaración con Carlos le explicó que los fondos indexados españoles de Vanguard o Amundi, contratados a través de gestoras como Indexa o MyInvestor, sí permiten el traspaso sin tributación. Con acciones o ETFs la situación es diferente: cada venta genera la tributación correspondiente porque no existe el mecanismo de traspaso entre ellos.
 
-Con las acciones y ETFs no existe este mecanismo. Cada venta genera la tributación correspondiente.
-
-Para inversores a largo plazo que quieren flexibilidad para rebalancear, los fondos tienen esta ventaja fiscal importante frente a los ETFs.
+Para Carlos, que había decidido centralizar la mayor parte de su inversión en fondos indexados precisamente por este tipo de ventajas, la lección fue clara: la próxima vez que quisiera cambiar de fondo, haría un traspaso, no una venta.
 
 ---
 
-## Capítulo 6: Los planes de pensiones
+## Capítulo 5: Los planes de pensiones como diferimiento fiscal
 
-Los planes de pensiones tienen un régimen fiscal especial.
+Carlos tiene un plan de pensiones de empresa que su empleador paga por él como parte del paquete de compensación. Esa aportación reduce la base imponible de Carlos en la cantidad correspondiente, lo que supone un ahorro fiscal inmediato. Pero el plan de pensiones no es un ahorro sin coste: es un diferimiento.
 
-**Entrada:**
-Las aportaciones reducen la base imponible del IRPF (hasta los límites anuales establecidos). Esto es un ahorro fiscal inmediato.
+El dinero acumulado en el plan de pensiones, cuando se rescate en la jubilación o en otra contingencia prevista, tributa como rendimiento del trabajo en la base general del IRPF. No en la base del ahorro. Eso significa que si en el momento del rescate Carlos tiene otros ingresos significativos, puede tributar a tipos altos.
 
-**Permanencia:**
-El dinero crece sin tributar mientras está en el plan. No hay tributación por dividendos ni plusvalías intermedias.
-
-**Salida:**
-Al rescatar el plan (jubilación, invalidez u otras contingencias), todo lo rescatado tributa como rendimiento del trabajo en la base general del IRPF.
-
-**La trampa:** Si en la jubilación ya tienes pensión pública y otros ingresos, el rescate del plan se suma a esa base y puede tributar a tipos altos.
-
-La eficiencia del plan de pensiones depende de que al rescatar se tribute menos de lo que se ahorró al aportar. Si al aportar el tipo marginal es del 37% y al rescatar es del 19%, hay una ganancia fiscal neta. Si al rescatar es del 35%, la ventaja es mínima.
+La eficiencia real del plan de pensiones depende de que el tipo marginal al que se tributa al rescatar sea menor que el tipo al que se habrían ahorrado impuestos al aportar. Si Carlos aporta con un tipo marginal del treinta y siete por ciento y rescata con un tipo del veintitrés porque sus ingresos en la jubilación son más bajos, hay una ganancia fiscal neta. Si rescata con el mismo tipo o más alto, la ventaja es mínima o negativa. La estrategia de rescate importa tanto como la de aportación.
 
 ---
 
-## Capítulo 7: ETFs vs. fondos indexados: la comparación fiscal
+## Capítulo 6: ETFs y fondos indexados: la diferencia práctica
 
-Técnicamente ambos invierten en lo mismo (índices globales). La diferencia es la forma de contratación.
+Carlos y Ana pasaron una tarde comparando las características fiscales de los ETFs y los fondos indexados, después de que la historia del traspaso les hiciera darse cuenta de que la distinción importaba.
 
-**Fondos indexados:**
-- Traspaso sin tributación
-- Solo disponibles a través de gestoras (Vanguard, Amundi, etc.) o bancos
-- Fraccionables (puedes invertir cualquier cantidad)
+Los fondos indexados tienen el traspaso sin tributación. Son fraccionables: se puede invertir cualquier cantidad, incluso veinte euros. Solo están disponibles a través de gestoras o plataformas específicas. Los ETFs, en cambio, se compran en bolsa como si fueran acciones, en unidades completas. Cada venta genera tributación. Pero tienen ventajas en simplicidad y en la posibilidad de operar con mayor precisión.
 
-**ETFs:**
-- Cada venta tributa (no hay traspaso sin tributación)
-- Se compran en bolsa como acciones
-- Dividendos de ETFs de distribución tributan en el año en que se reparten
-- Los ETFs de acumulación no reparten dividendo (se reinvierte internamente): no hay tributación hasta la venta
+Para su cartera de largo plazo, Carlos había elegido fondos indexados por la ventaja del traspaso. Para una cantidad menor que mantenía en una cuenta de un bróker extranjero, usaba ETFs de acumulación, que al no repartir dividendos evitan la tributación anual de rentas.
 
-Para el inversor de largo plazo en España, los fondos indexados tienen la ventaja fiscal del traspaso. Para el inversor que quiere simplicidad y liquidez, los ETFs pueden ser suficientes.
+La diferencia no es enorme si se invierte a muy largo plazo sin necesidad de rebalancear. Pero si se planea ajustar la cartera periódicamente o cambiar de estrategia en algún momento, los fondos indexados tienen una ventaja fiscal clara en el contexto español.
 
 ---
 
-## Capítulo 8: Las criptomonedas y la fiscalidad
+## Capítulo 7: Las criptomonedas y la declaración
 
-Las criptomonedas son activos a efectos del IRPF. Las operaciones generan ganancias o pérdidas patrimoniales.
+Carlos no tenía criptomonedas, pero Marta sí había comprado algo en su momento y le preguntó si tenía que declararlo. Carlos le explicó lo que había aprendido estudiando para su propia declaración: las criptomonedas son activos a efectos del IRPF y generan plusvalías o minusvalías igual que cualquier otro activo financiero.
 
-Lo que genera tributación:
-- Vender criptomonedas por moneda fiat (euros, dólares)
-- Intercambiar una criptomoneda por otra (también es una transmisión)
-- Usar criptomonedas para pagar bienes o servicios
-- Recibir criptomonedas como pago por servicios (tributan como rendimiento de la actividad)
+Lo que genera tributación es cualquier venta por dinero convencional, cualquier intercambio de una criptomoneda por otra, y el uso de criptomonedas para pagar bienes o servicios, porque cada uno de esos eventos se considera una transmisión. Lo que no genera tributación inmediata es comprar y mantener, o transferir entre las propias carteras. Y hay obligaciones de información crecientes: la AEAT cruza datos con los exchanges y la información sobre tenencias en el extranjero puede requerir declaración.
 
-Lo que no genera tributación inmediata:
-- Comprar y mantener (hold)
-- Transferir entre wallets propias
-
-Obligaciones de información:
-- El modelo 720 puede requerir informar sobre criptomonedas en el extranjero
-- La AEAT ha aumentado los cruces de información con exchanges
+Marta, que tenía una cantidad pequeña que había comprado en el punto álgido del boom y que en ese momento valía considerablemente menos, se dio cuenta de que podría venderla con pérdida y usar esa pérdida para compensar ganancias futuras. Lo anotó como tarea pendiente para consultar con su gestor.
 
 ---
 
-## Capítulo 9: La planificación fiscal del inversor
+## Capítulo 8: La cosecha de pérdidas antes del cierre del año
 
-Estrategias legales para reducir la carga fiscal de las inversiones:
+Una de las estrategias que Carlos aprendió ese año se llama cosecha de pérdidas: consiste en revisar, antes del cierre del año fiscal, si hay posiciones en cartera con pérdidas no realizadas que convengan vender para compensar ganancias ya realizadas ese año.
 
-**Cosecha de pérdidas:** Antes de fin de año, vender activos con pérdidas no realizadas para compensar ganancias. Si se quiere volver a tener ese activo, se puede recomprar pasados 2 meses (para evitar la norma antielusión).
+Si Carlos ha tenido ganancias por venta de un fondo en el mes de junio, y en diciembre tiene otro activo con pérdidas latentes que no piensa recuperar de todas formas, puede venderlo antes del treinta y uno de diciembre y usar esa pérdida para compensar la ganancia de junio. Si quiere seguir teniendo exposición a ese activo, puede recomprarlo pasados dos meses para evitar la norma antielusión que impide compensar pérdidas cuando se recompra el mismo activo en un plazo corto.
 
-**Diferimiento de ganancias:** Si puedes elegir el momento de la venta, hacerlo en el año en que tengas menos ingresos totales reduce el tipo efectivo.
-
-**Maximizar aportaciones a pensiones:** Especialmente si el tipo marginal es alto. El ahorro inmediato compensa el diferimiento.
-
-**ETFs de acumulación en lugar de distribución:** Evita la tributación anual de dividendos.
-
-**Donaciones de activos apreciados:** Donar activos revalorizados a una ONG puede evitar la tributación de la plusvalía (en algunos casos).
+No es evasión ni optimización agresiva: es usar correctamente las reglas del sistema. El diferimiento del impuesto, aunque sea de un año, tiene valor. Y la reducción de la base imponible mediante la compensación de pérdidas reales es un derecho que el sistema reconoce explícitamente.
 
 ---
 
-## Capítulo 10: El largo plazo y el impuesto diferido
+## Capítulo 9: El largo plazo como aliado fiscal
 
-Hay una forma de pensar sobre la fiscalidad de las inversiones que la simplifica todo.
+La conclusión a la que llegaron Carlos y Ana esa tarde de revisión de la declaración tiene que ver con el tiempo. En una cartera que crece durante décadas sin venderse, las ganancias son latentes: no tributan hasta que se realizan. Mientras tanto, el cien por cien de la ganancia sigue componiendo rentabilidad. Cada año que pasa sin vender, Hacienda sigue sin llevarse su parte, y esa parte que sigue en la cartera genera más rentabilidad.
 
-El impuesto diferido es tu aliado.
+Esto es una de las razones más profundas por las que el enfoque de buy and hold tiene sentido no solo por la reducción de costes de transacción sino por el diferimiento fiscal. La estrategia de no hacer nada es, en el contexto fiscal español, una estrategia activa de optimización.
 
-Mientras el activo siga en tu cartera y no vendas, no pagas impuesto sobre las ganancias. Esas ganancias latentes siguen componiéndose sin merma fiscal.
-
-El día que vendas, el impuesto se activa. Pero hasta entonces, el 100% de las ganancias trabaja para ti.
-
-Esto es una de las razones más poderosas para el enfoque buy-and-hold (comprar y mantener) a largo plazo: no solo evitas los costes de transacción, sino que también maximizas el diferimiento fiscal.
+Carlos cerró esa tarde de declaraciones con la sensación de haber aprendido algo que no encontró en los libros de inversión que había leído: que la rentabilidad bruta es un número, pero la rentabilidad neta es el que importa, y que ese número puede gestionarse con conocimiento.
 
 ---
 
-## Epílogo: Invertir con inteligencia fiscal
+## Epílogo: Invertir con consciencia fiscal
 
-La rentabilidad bruta de una inversión es solo el punto de partida.
+No hace falta ser asesor fiscal para invertir de forma fiscalmente eficiente. Hace falta entender los principios básicos: que los fondos tienen el traspaso sin tributación, que las pérdidas compensan con las ganancias, que el diferimiento es un aliado, y que cada venta tiene consecuencias.
 
-La rentabilidad neta, después de impuestos, inflación y comisiones, es lo que importa.
+El inversor que toma decisiones sin pensar en el impacto fiscal puede estar pagando más de lo necesario sin saberlo. El que lo piensa puede no pagar menos del que debe, pero sí exactamente lo que corresponde, en el momento más eficiente.
 
-El inversor con inteligencia fiscal no evade. Usa las herramientas legales disponibles para pagar exactamente lo que debe, en el momento más eficiente.
-
-El siguiente libro, "Inmuebles e impuestos", aborda la dimensión fiscal más compleja de todas: la que rodea al activo más querido por los españoles.
+El siguiente libro, "Inmuebles e impuestos", aborda la dimensión fiscal más compleja que existe para los españoles: la que rodea al activo que la mayoría tiene o quiere tener.
 
 ---
 

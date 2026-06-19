@@ -6,194 +6,121 @@
 
 ---
 
-## Prólogo: El activo con más carga fiscal invisible
+## Prólogo: El piso que nadie sabía que seguía costando dinero
 
-La vivienda es el activo favorito de los españoles.
+Los padres de Ana tenían un piso en una ciudad a dos horas de donde vivían Carlos y Ana. Lo habían comprado años atrás como inversión y lo habían alquilado durante una década. Cuando el último inquilino se fue, decidieron no volver a alquilarlo porque a esas alturas ya no les apetecía lidiar con la gestión, y lo dejaron vacío.
 
-Y también es el activo con más impuestos, tasas y cargas fiscales diferentes acumuladas.
+Cuando Ana se sentó a ayudarles a revisar su declaración de la renta, descubrió que ese piso vacío no era un activo neutral. Era un activo que seguía generando obligaciones fiscales aunque no produjera ningún ingreso. El IBI se pagaba cada año. Y en el IRPF, los inmuebles que no son vivienda habitual ni están alquilados generan lo que se llama imputación de rentas: Hacienda presume que ese piso podría estar generando un alquiler, y en consecuencia imputa al propietario una renta ficticia del uno punto uno por ciento del valor catastral, que tributa como renta del trabajo en la base general del IRPF.
 
-IBI. IVA o ITP en la compra. IRPF por las rentas o la plusvalía en la venta. Plusvalía municipal. Impuesto de patrimonio si supera ciertos umbrales. IVA en la construcción.
-
-Quien compra, tiene, alquila o vende un inmueble en España toca varios impuestos diferentes. Este libro los mapea.
+Los padres de Ana pagaban impuestos por un piso que no generaba ningún ingreso. Eso les sorprendió. A Ana también le sorprendió que nadie se los hubiera explicado antes.
 
 ---
 
-## Capítulo 1: La compra de un inmueble y sus impuestos
+## Capítulo 1: Los impuestos en la compra de un inmueble
 
-**Vivienda de obra nueva:**
-Se paga IVA (10% del precio en vivienda ordinaria, 4% en vivienda de protección oficial). También AJD (Impuesto de Actos Jurídicos Documentados), cuya cuota varía por comunidad autónoma (0,5-1,5%).
+Antes de que un inmueble empiece a generar cualquier consecuencia fiscal periódica, la propia compra ya activa varios impuestos que conviene entender.
 
-**Vivienda de segunda mano:**
-No hay IVA, pero se paga el ITP (Impuesto de Transmisiones Patrimoniales). El tipo varía enormemente: del 4% en Madrid a hasta el 10-11% en otras comunidades.
+Si el inmueble es de obra nueva, se paga el IVA, que para vivienda ordinaria es del diez por ciento del precio de compra, y también el Impuesto de Actos Jurídicos Documentados, cuyo tipo varía según la comunidad autónoma entre el cero punto cinco y el uno punto cinco por ciento. Si es una vivienda de segunda mano, no hay IVA sino ITP, el Impuesto de Transmisiones Patrimoniales, que también varía enormemente por comunidad: Madrid lo sitúa en el seis por ciento, Cataluña y otras en el diez.
 
-Para una vivienda de 200.000 euros:
-- En Madrid (ITP 6%): 12.000 euros de impuesto
-- En Cataluña (ITP 10%): 20.000 euros de impuesto
-
-La diferencia de 8.000 euros por la misma operación según dónde se ubique el inmueble es un dato que muchos desconocen.
+Para un piso de doscientos mil euros, esa diferencia entre comunidades puede suponer ocho mil euros más o menos en la operación de compra, simplemente por el lugar donde esté el inmueble. Ana calculó lo que sus padres habían pagado cuando compraron el suyo años atrás y entendió por qué en algunas comunidades la gente organiza operaciones para escriturar en otra.
 
 ---
 
-## Capítulo 2: El IBI y otros impuestos de tenencia
+## Capítulo 2: El IBI y la imputación de rentas
 
-El IBI (Impuesto sobre Bienes Inmuebles) es el impuesto municipal anual que pagan los propietarios.
+El IBI es el impuesto municipal anual que pagan los propietarios de inmuebles. Se calcula sobre el valor catastral del inmueble, y el tipo lo fija cada ayuntamiento dentro de unos rangos establecidos, generalmente entre el cero punto cuatro y el uno punto uno por ciento para inmuebles urbanos. No es un impuesto estatal ni autonómico sino local, y varía mucho de un municipio a otro.
 
-Se calcula sobre el valor catastral del inmueble. El tipo lo fija cada municipio dentro de los rangos establecidos (generalmente 0,4%-1,1% para inmuebles urbanos).
+La imputación de rentas que Ana descubrió en la declaración de sus padres funciona así: si se tiene un inmueble que no es vivienda habitual y no está alquilado, el IRPF considera que esa vivienda genera un rendimiento presunto del uno punto uno por ciento del valor catastral si ese valor ha sido revisado en los últimos diez años, o del dos por ciento si no lo ha sido. Ese importe se añade a la base general del IRPF como si fuera un ingreso más. No es una deducción: es una suma de renta ficticia que aumenta la factura fiscal.
 
-Un piso con valor catastral de 80.000 euros y tipo del 0,7%: IBI de 560 euros anuales.
-
-Otros impuestos de tenencia:
-- **Impuesto de patrimonio:** Si el patrimonio neto supera los 700.000 euros (con variaciones autonómicas), los inmuebles forman parte de la base imponible.
-- **IRPF por imputación de rentas:** Si el inmueble no es vivienda habitual ni está alquilado, se imputa en el IRPF un 1,1% (o 2%) del valor catastral como renta presunta.
+El resultado es que tener un piso vacío cuesta dinero en dos direcciones: el IBI que se paga, y el impuesto sobre la renta que se genera aunque no se haya cobrado nada. Lo que Ana le explicó a sus padres es que o alquilaban el piso para que generara ingresos reales que justificaran el gasto fiscal, o lo vendían, o debían asumir ese coste como el precio de mantener el activo sin uso.
 
 ---
 
-## Capítulo 3: Los rendimientos del alquiler en el IRPF
+## Capítulo 3: Los rendimientos del alquiler y sus deducciones
 
-Los ingresos por alquiler de inmuebles tributan como rendimientos del capital inmobiliario en la base general del IRPF.
+Cuando el piso estuvo alquilado, los padres de Ana declaraban los ingresos del alquiler como rendimientos del capital inmobiliario. Pero Ana descubrió que tampoco habían aprovechado todas las deducciones posibles.
 
-**Qué se declara:** El importe del alquiler cobrado.
+Los gastos deducibles del alquiler son amplios: los intereses del préstamo hipotecario si lo hay, el IBI, el seguro del hogar, los gastos de comunidad, los gastos de reparación y conservación (pero no los de mejora, que se capitalizan), la amortización del inmueble que es el tres por ciento del valor de construcción al año, los honorarios de la agencia si la usaron para encontrar inquilino, y los gastos de publicidad. Y hay una reducción del cincuenta por ciento sobre el rendimiento neto cuando el alquiler es vivienda habitual del inquilino: solo se tributa sobre la mitad del resultado después de todos los gastos.
 
-**Qué se puede deducir:**
-- Intereses del préstamo hipotecario
-- IBI
-- Seguros
-- Gastos de comunidad
-- Gastos de reparación y conservación (no de mejora)
-- Amortización del inmueble (3% del valor de construcción)
-- Honorarios de agencia y gestoría
-- Gastos de publicidad para buscar inquilino
-
-**La reducción del 60% (o 50% para nuevos contratos desde 2024):**
-Para alquiler de vivienda habitual del inquilino, existe una reducción sobre el rendimiento neto. Fue del 60% durante años; la Ley de Vivienda de 2023 la redujo al 50% para nuevos contratos.
-
-Esta reducción es significativa: si el rendimiento neto es 5.000 euros al año, solo tributas sobre 2.500 (con la reducción del 50%).
+Los padres de Ana habían declarado los ingresos pero no habían aplicado la amortización en ningún año. La amortización no requiere ningún gasto real: es simplemente el reconocimiento de que el inmueble se deprecia con el tiempo, y el sistema permite deducir el tres por ciento del valor de construcción cada año, aunque el inmueble no haya perdido de hecho ese valor. Es uno de los gastos que más contribuyentes olvidan y que representa, para un piso de doscientos mil euros, seis mil euros de gasto deducible al año.
 
 ---
 
-## Capítulo 4: La venta de un inmueble: plusvalías e impuestos
+## Capítulo 4: La venta del inmueble y sus impuestos
 
-Al vender un inmueble con ganancia, hay dos impuestos que se activan:
+El padre de Ana planteó en una cena si podría tener sentido vender el piso. Carlos, que había estado estudiando el tema para esta serie de libros, explicó que vender un inmueble activa dos impuestos diferentes.
 
-**IRPF por ganancia patrimonial:**
-La diferencia entre el precio de venta y el precio de adquisición (ajustado con gastos e inversiones) tributa en la base del ahorro al tipo correspondiente (19-27%).
+El primero es el IRPF por la ganancia patrimonial: la diferencia entre el precio de venta y el precio de adquisición ajustado, que tributa en la base del ahorro a los tipos del diecinueve al veintisiete por ciento. Para calcular bien el precio de adquisición, hay que añadir al precio de compra original el ITP o el IVA que se pagó, la notaría y el registro de la compra, y las mejoras que se realizaron a lo largo de los años. Y del precio de venta hay que restar la comisión de la agencia y la plusvalía municipal, que ahora es deducible.
 
-Los gastos que se pueden incluir en el precio de adquisición:
-- ITP o IVA+AJD pagados al comprar
-- Notaría y registro de la compra
-- Mejoras realizadas (no reparaciones)
-- Comisión de la agencia inmobiliaria si aplica
-
-Los gastos que reducen el precio de venta:
-- Comisión de la agencia vendedora
-- Plusvalía municipal (ahora deducible)
-
-**Exenciones:**
-- Venta de vivienda habitual si se reinvierte en otra vivienda habitual en 2 años
-- Exención total para mayores de 65 años que venden su vivienda habitual
-- Exención parcial para mayores de 65 años que reinvierten en una renta vitalicia
+El segundo es la plusvalía municipal, el Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana que gestiona el ayuntamiento donde está el inmueble. Desde la reforma de dos mil veintiuno, hay dos métodos de cálculo y el contribuyente puede elegir el que resulte más favorable: el método objetivo, basado en el valor catastral y unos coeficientes anuales, o el método real, que usa la ganancia real del suelo. Si la venta se produce con pérdida, no hay plusvalía municipal que pagar.
 
 ---
 
-## Capítulo 5: La plusvalía municipal
+## Capítulo 5: Las exenciones que muchos desconocen
 
-La plusvalía municipal (Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana) es un impuesto municipal que grava el aumento de valor del suelo desde la compra hasta la venta.
+Hay situaciones en que la ganancia patrimonial por venta de inmueble no tributa, o tributa parcialmente. Ana encontró dos que podrían ser relevantes para sus padres en el futuro.
 
-Tras una sentencia del Tribunal Constitucional en 2021, el impuesto fue reformado. Ahora hay dos métodos de cálculo:
-1. **Método objetivo:** Basado en el valor catastral y coeficientes anuales
-2. **Método real:** Si la ganancia real del suelo es menor que la calculada por el método objetivo, se puede optar por tributar por la ganancia real
+La primera es la exención por reinversión en vivienda habitual: si se vende la vivienda habitual y se reinvierte el importe en la compra de otra vivienda habitual en los dos años siguientes, la ganancia está exenta. Esta exención no aplica al piso de los padres porque ese no es su vivienda habitual, sino el de inversión.
 
-Si has vendido a pérdida, no hay que pagar plusvalía municipal (aunque hay que acreditarlo ante el ayuntamiento).
-
-La plusvalía municipal se paga en el ayuntamiento donde está el inmueble. El plazo es de 30 días hábiles desde la transmisión.
+La segunda es más relevante para sus padres: la exención total para mayores de sesenta y cinco años que venden su vivienda habitual. Si el padre de Ana llegara a la edad de sesenta y cinco años siendo propietario de un inmueble que en ese momento fuera su residencia habitual, podría venderlo sin tributar por la ganancia. Y hay también una exención parcial si se reinvierte el importe en una renta vitalicia, lo que puede ser una herramienta de planificación para la jubilación.
 
 ---
 
-## Capítulo 6: La inversión en inmuebles para alquilar: análisis fiscal completo
+## Capítulo 6: La plusvalía municipal en detalle
 
-Para quien compra pisos para alquilar como inversión, la fiscalidad afecta directamente a la rentabilidad.
+La plusvalía municipal generó una confusión considerable cuando el padre de Ana vendió hace años un pequeño local. La había pagado aunque en ese momento había vendido a un precio muy similar al de compra, lo que le pareció injusto.
 
-**Rentabilidad bruta:** Ingreso anual de alquiler / Precio de compra.
+Carlos le explicó que la sentencia del Tribunal Constitucional de dos mil veintiuno había cambiado exactamente eso: ahora existe el método real de cálculo, que permite tributar solo por la ganancia real del suelo. Si el suelo no ha ganado valor real, no hay impuesto. Si se ha vendido con pérdida, tampoco. Antes de esa sentencia, el impuesto se pagaba siempre, incluso en ventas a pérdida, lo que efectivamente era un resultado difícil de justificar.
 
-**Rentabilidad neta fiscal:**
-- Ingreso de alquiler
-- Menos gastos deducibles
-- Aplicar reducción del 50% (vivienda habitual)
-- Resultado: rendimiento neto a incluir en IRPF
-- IRPF pagado según tipo marginal
-
-Ejemplo simplificado:
-- Alquiler anual: 9.600 euros
-- Gastos deducibles (hipoteca, IBI, comunidad, seguro, amortización): 4.800 euros
-- Rendimiento neto: 4.800 euros
-- Reducción del 50%: tributa sobre 2.400 euros
-- IRPF al 30% sobre 2.400: 720 euros
-
-Rentabilidad fiscal final: (9.600 - 4.800 - 720) / precio de compra.
-
-La fiscalidad del alquiler en España es razonablemente favorable para propietarios con hipoteca, especialmente por los gastos deducibles y la reducción del 50%.
+El plazo para pagar la plusvalía municipal es de treinta días hábiles desde la transmisión, y se paga en el ayuntamiento donde esté el inmueble. En ventas, lo habitual es que lo pague el vendedor, aunque es un punto negociable en la práctica.
 
 ---
 
-## Capítulo 7: Los fondos de inversión inmobiliaria: SOCIMI y REIT
+## Capítulo 7: El inmueble como inversión: la rentabilidad real
 
-Para quien quiere exposición al inmobiliario sin ser propietario directo, existen instrumentos colectivos.
+Carlos y Ana habían hablado en algún momento de si podría tener sentido comprar un piso para alquilar como inversión. Antes de decidir nada, Carlos hizo el cálculo completo incluyendo la dimensión fiscal.
 
-**SOCIMIs (Sociedades Cotizadas de Inversión en el Mercado Inmobiliario):**
-El equivalente español a los REITs anglosajones. Invierten en inmuebles y están obligadas a distribuir al menos el 80% de los beneficios por alquileres.
+Si se compra un piso por doscientos mil euros y se alquila por ochocientos euros mensuales, el ingreso anual bruto es de nueve mil seiscientos euros. La rentabilidad bruta aparente es del cuatro punto ocho por ciento. Pero hay que restar los gastos deducibles: la hipoteca si la hay, el IBI, los seguros, la comunidad, la amortización. Con esos gastos, el rendimiento neto puede quedar en unos cuatro u cinco mil euros. Sobre ese rendimiento neto se aplica la reducción del cincuenta por ciento, y solo se tributa sobre dos mil euros. Con un tipo marginal del treinta por ciento, el IRPF sería de seiscientos euros al año.
 
-Tributan al tipo reducido de IS, lo que les permite distribuir más. Los dividendos que recibe el inversor tributan como rendimientos del capital mobiliario (19-27%).
-
-**Fondos de inversión inmobiliaria:**
-Fondos que invierten en inmuebles. Tienen el traspaso sin tributación entre fondos. Su tratamiento fiscal es el de los fondos de inversión generales.
-
-Estas alternativas permiten exposición inmobiliaria con más liquidez y diversificación que la propiedad directa.
+La rentabilidad fiscal real del alquiler, bien calculada, es más favorable de lo que parece a primera vista. Los gastos deducibles y la reducción del cincuenta por ciento mejoran el resultado. Pero el cálculo tiene que hacerse con todos los datos reales, no con la rentabilidad bruta que aparece en los portales inmobiliarios.
 
 ---
 
-## Capítulo 8: La herencia de inmuebles
+## Capítulo 8: Los errores fiscales más frecuentes
 
-Heredar un inmueble activa el Impuesto de Sucesiones (variable por comunidad autónoma) y puede plantear decisiones complejas.
+Ana, después de revisar con sus padres la declaración de esos años, elaboró mentalmente una lista de los errores que más se repiten. No declarar la imputación de rentas de los pisos vacíos. No aplicar la amortización en el alquiler. Calcular mal la ganancia patrimonial en la venta porque se olvidan los gastos de compra o las mejoras realizadas. No aplicar la exención por reinversión en vivienda habitual cuando corresponde. Confundir gastos de reparación, que son deducibles en el año, con mejoras, que no son deducibles directamente sino que se capitalizan y aumentan el valor de adquisición a efectos de plusvalías futuras.
 
-Si el inmueble heredado se vende, la plusvalía se calcula desde el valor de adquisición original (del fallecido), no desde el valor de la herencia.
-
-Hay una excepción importante: si el heredero vende el inmueble dentro del año siguiente al fallecimiento, puede en algunos casos calcular la plusvalía desde el valor de la herencia.
-
-Las implicaciones fiscales de heredar y vender son complejas y varían según el tiempo transcurrido, el régimen fiscal del fallecido, y otros factores. Asesoramiento específico es imprescindible.
+Cada uno de esos errores cuesta dinero, bien porque se paga más de lo necesario o porque se declara menos de lo que corresponde y se genera un riesgo de inspección.
 
 ---
 
-## Capítulo 9: Los errores fiscales más frecuentes en inmobiliario
+## Capítulo 9: Las alternativas al inmueble directo
 
-- No deducir todos los gastos en el alquiler (especialmente la amortización)
-- Calcular mal la ganancia patrimonial en la venta (olvidar los gastos de compra y mejoras)
-- No aplicar la reinversión en vivienda habitual cuando corresponde
-- No declarar la imputación de rentas de los pisos no alquilados
-- Confundir gastos de reparación (deducibles) con mejoras (no deducibles en el año, pero capitalizables)
+Carlos y Ana terminaron no comprando el piso de inversión por razones de diversificación: ya tenían su vivienda habitual y no querían concentrar demasiado patrimonio en inmobiliario. Pero Carlos le contó a Ana que existen instrumentos para tener exposición al mercado inmobiliario sin comprar directamente.
 
----
+Las SOCIMIs son sociedades cotizadas que invierten en inmuebles, el equivalente español a los REITs anglosajones. Cotizan en bolsa, están obligadas a repartir al menos el ochenta por ciento de sus beneficios por alquileres, y los dividendos que recibe el inversor tributan como rendimientos del capital mobiliario en la base del ahorro. Los fondos de inversión inmobiliaria son otra opción: tienen el traspaso sin tributación entre fondos como cualquier otro fondo de inversión.
 
-## Capítulo 10: La planificación fiscal inmobiliaria a largo plazo
-
-Para quien tiene o quiere tener inmuebles como inversión, la planificación fiscal a largo plazo puede ahorrar cantidades significativas.
-
-Algunas estrategias:
-- Elegir el momento de la venta (tipo del contribuyente ese año)
-- Estructura jurídica adecuada (autónomo, SL, SOCIMI)
-- Donaciones o herencias planificadas con anticipación
-- Localización de los inmuebles según fiscalidad autonómica
-
-La fiscalidad inmobiliaria es de las más complejas del sistema español. Asesoramiento especializado en inmobiliario no es un lujo sino una necesidad para quien tiene patrimonio inmobiliario significativo.
+Estas alternativas dan exposición al inmobiliario con más liquidez y sin la complejidad de la gestión directa de un inquilino.
 
 ---
 
-## Epílogo: El inmueble bien gestionado fiscalmente
+## Capítulo 10: La planificación fiscal del propietario
 
-La inversión inmobiliaria puede ser excelente. La inversión inmobiliaria mal gestionada fiscalmente puede ser mediocre.
+La sesión que Ana tuvo con sus padres terminó con un pequeño plan. El piso vacío tenía que resolver su situación: o se ponía en alquiler con gestión profesional, o se vendía, o se asumía conscientemente el coste anual de mantenerlo sin uso. Dejar que siguiera vacío sin pensarlo era la peor opción, no porque fuera ilegal sino porque era costosa sin aportar nada.
 
-La diferencia entre un inversor que gestiona bien la fiscalidad de sus inmuebles y uno que no la gestiona puede ser de miles de euros anuales.
+El padre de Ana decidió vender. Y para calcular bien la ganancia patrimonial, sacaron todos los documentos de la compra de veinte años atrás: el contrato, la escritura, los recibos del ITP que pagaron entonces, las facturas de la reforma que hicieron en el baño cinco años después. Cada uno de esos gastos reducía la ganancia y por tanto el impuesto a pagar.
 
-El siguiente libro, "Herencias y donaciones: Cómo pagar lo mínimo legal", cierra el ciclo con la transmisión del patrimonio.
+Carlos, mirando todos esos papeles extendidos sobre la mesa de la cocina, pensó que la planificación fiscal del inmobiliario no empieza cuando se decide vender. Empieza desde el día de la compra, con el hábito de guardar todos los documentos relevantes.
+
+---
+
+## Epílogo: El inmueble bien entendido fiscalmente
+
+La vivienda es el activo más querido y más complejo del sistema fiscal español. Tiene impuestos en la compra, impuestos anuales de tenencia, impuestos por los rendimientos si se alquila, impuestos en la venta. Y tiene también exenciones y deducciones que pueden reducir significativamente esa carga si se conocen y se aplican.
+
+El propietario que conoce estas reglas paga exactamente lo que corresponde. El que no las conoce paga a veces más de lo necesario, y a veces menos de lo que debería, con el riesgo que eso conlleva.
+
+El siguiente libro, "Herencias y donaciones: Cómo pagar lo mínimo legal", aborda la transmisión de ese patrimonio: los impuestos que activa heredar, y cómo planificar para que lo que se ha construido llegue a quienes se quiere con la menor merma posible.
 
 ---
 

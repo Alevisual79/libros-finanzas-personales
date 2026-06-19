@@ -6,171 +6,131 @@
 
 ---
 
-## Prólogo: El español que vive fuera
+## Prólogo: La oferta que Javier recibió un martes
 
-Millones de españoles viven fuera de España.
+Javier era compañero de trabajo de Carlos desde hacía siete años. Habían empezado en la misma empresa casi al mismo tiempo, habían compartido proyectos, habían comido juntos más veces de las que recordaban. Cuando a Javier le llegó la oferta de trabajo de una empresa en Dubái, la primera persona a la que se lo contó fue a Carlos.
 
-Por trabajo, por elección, por oportunidades. En Alemania, en el Reino Unido, en México, en los Emiratos, en Portugal.
+El salario era considerablemente más alto. Las condiciones laborales, por lo que Javier había podido investigar, eran buenas. La empresa tenía reputación. Y los Emiratos Árabes Unidos no tienen impuesto sobre la renta personal. Nada. Cero por ciento.
 
-La fiscalidad de quien vive fuera de España es un tema complejo que mezcla el sistema fiscal español con el del país de residencia, y los convenios bilaterales que existen entre ambos.
+Carlos quedó con él esa misma semana para hablar de la oferta. Javier había empezado a investigar por su cuenta y tenía la cabeza llena de preguntas sin respuesta. ¿Seguiría teniendo que pagar impuestos en España? ¿Cuándo podría dejar de hacerlo? ¿Qué pasaba con el piso que tenía en alquiler aquí? ¿Y con su cuenta de inversión? ¿Era todo tan sencillo como mudarse y pagar cero?
 
-No es un libro sobre cómo evitar impuestos de forma ilegal. Es un libro sobre cómo entender el sistema para no pagar dos veces lo mismo y para gestionar correctamente las obligaciones fiscales.
-
----
-
-## Capítulo 1: La residencia fiscal: la clave de todo
-
-La residencia fiscal determina en qué país se tributa por la renta mundial.
-
-**España considera que una persona es residente fiscal en España cuando:**
-- Permanece más de 183 días en territorio español durante el año natural
-- Tiene en España el núcleo principal o base de sus actividades económicas
-- Vive en España el cónyuge no separado legalmente y/o los hijos menores
-
-Un residente fiscal en España tributa en España por todas sus rentas, independientemente de dónde se generen.
-
-Un no residente en España solo tributa en España por las rentas de fuente española.
+Carlos le respondió con honestidad: que no sabía los detalles pero que acababa de leer bastante sobre el tema. Le contó lo que sabía.
 
 ---
 
-## Capítulo 2: El proceso de ser no residente fiscal
+## Capítulo 1: La residencia fiscal como punto de partida
 
-Para dejar de ser residente fiscal en España:
-1. Darse de alta en el padrón del país de destino
-2. Obtener un certificado de residencia fiscal del nuevo país
-3. Presentar el modelo 030 ante la AEAT comunicando el cambio de domicilio
-4. Presentar el modelo 147 (si es empleado desplazado) u otros formularios según el caso
+Hay una pregunta que lo determina todo en materia de fiscalidad internacional: ¿dónde es uno residente fiscal? La respuesta decide en qué país se tributa, y por qué rentas.
 
-Atención: El simple hecho de vivir fuera no convierte automáticamente en no residente fiscal. La AEAT puede cuestionar el cambio si hay indicios de que la residencia habitual sigue siendo España (familia aquí, inmuebles aquí, actividad económica principal aquí).
+Un residente fiscal en España tributa en España por su renta mundial: todo lo que gana, dondequiera que lo gane. Un no residente en España solo tributa aquí por las rentas que tengan su fuente en España.
+
+La Agencia Tributaria considera que alguien es residente fiscal en España cuando cumple al menos una de estas condiciones: permanece más de ciento ochenta y tres días en territorio español durante el año natural, tiene en España el núcleo principal o la base de sus actividades económicas, o vive en España su cónyuge no separado legalmente y sus hijos menores de edad.
+
+Javier, escuchando esto, entendió que el punto uno era el más relevante para él. Si se iba a Dubái y pasaba más de la mitad del año allí, dejaría de cumplir el criterio de los ciento ochenta y tres días. Pero Carlos le señaló que no era tan automático.
+
+---
+
+## Capítulo 2: El proceso real de cambiar la residencia fiscal
+
+Para dejar de ser residente fiscal en España, no basta con irse. Hay que comunicarlo formalmente y hay que poder acreditarlo.
+
+El proceso incluye darse de alta en el padrón del país de destino, obtener un certificado de residencia fiscal expedido por las autoridades de ese país, y comunicar el cambio de domicilio a la AEAT mediante el modelo correspondiente. Pero más importante que los trámites formales es la sustancia: Hacienda puede cuestionar el cambio de residencia si los indicios apuntan a que la vida real sigue siendo España. Si Javier se muda a Dubái pero su familia se queda aquí, si su piso sigue siendo su domicilio habitual, si sus visitas a España superan los ciento ochenta y tres días, la AEAT puede mantener que él sigue siendo residente fiscal en España.
+
+La ley establece además una presunción para los traslados a paraísos fiscales: si uno se muda a un territorio de baja tributación que España considera paraíso fiscal, Hacienda puede presumir durante cuatro años que se sigue siendo residente en España, a menos que se pruebe lo contrario. Los Emiratos no están actualmente en esa lista, lo cual simplificaba algo el caso de Javier.
 
 ---
 
 ## Capítulo 3: Los convenios de doble imposición
 
-España tiene convenios de doble imposición con más de 90 países.
+España tiene convenios de doble imposición con más de noventa países. Un convenio es un acuerdo bilateral que establece cuál de los dos países tiene derecho a gravar cada tipo de renta y cómo se evita que el mismo ingreso se grave dos veces.
 
-Estos convenios establecen cuál de los dos países tiene el derecho a gravar cada tipo de renta, y cómo se evita que el contribuyente pague el mismo impuesto en los dos países.
+Los dos mecanismos habituales son la exención, donde el país de la fuente no grava la renta y la grava solo el de residencia, y el crédito fiscal, donde el impuesto pagado en el país de la fuente se descuenta del que hay que pagar en el de residencia. El convenio entre España y los Emiratos determina exactamente qué rentas tributan en cada país para quienes están en esa situación.
 
-Los mecanismos habituales:
-- **Exención en origen:** El país de la fuente no grava la renta (la grava solo el de residencia)
-- **Crédito fiscal (tax credit):** El impuesto pagado en el país de la fuente se descuenta del impuesto a pagar en el de residencia
-
-Los convenios son instrumentos complejos. En situaciones internacionales, un asesor fiscal especializado en fiscalidad internacional es imprescindible.
+Carlos le recomendó a Javier encarecidamente que antes de aceptar la oferta hablara con un asesor especializado en fiscalidad internacional. No porque el tema fuera inabordable, sino porque los convenios son instrumentos complejos y cada situación tiene matices que un análisis superficial puede pasar por alto.
 
 ---
 
-## Capítulo 4: El IRNR (Impuesto sobre la Renta de No Residentes)
+## Capítulo 4: Las rentas españolas del no residente
 
-Los no residentes en España que tienen rentas de fuente española tienen que tributar en España por esas rentas.
+Cuando Javier se convirtiera en no residente, dejaría de tributar en España por sus ingresos de Dubái. Pero el piso que tenía alquilado en Zaragoza seguiría siendo una renta de fuente española. Y esa renta seguiría tributando aquí, ahora en el IRNR: el Impuesto sobre la Renta de No Residentes.
 
-Las rentas de fuente española más frecuentes para un expatriado:
-- Alquiler de un inmueble en España
-- Dividendos de empresas españolas
-- Pensión española
-- Venta de inmuebles en España
+El tipo general del IRNR para residentes en países de la Unión Europea o del Espacio Económico Europeo es del diecinueve por ciento. Para residentes en otros países, el tipo es del veinticuatro por ciento. Los Emiratos no forman parte de la UE, con lo cual Javier tributaría al veinticuatro por ciento por los ingresos del alquiler.
 
-El tipo general del IRNR para residentes en países de la UE/EEE: 19%.
-Para otros países: 24%.
+Además, los residentes fuera de la UE no pueden en general deducir los gastos relacionados con la renta, lo que significa que tributan sobre el importe bruto del alquiler, no sobre el rendimiento neto como haría un residente en España. Eso hace que el alquiler en estas circunstancias sea fiscalmente más costoso que cuando se es residente.
 
-Los residentes en la UE pueden deducir los gastos directamente relacionados con la renta (igual que un residente). Los residentes fuera de la UE, no en la mayoría de los casos.
+Javier pensó en vender el piso antes de marcharse. Carlos le señaló que eso también tenía implicaciones fiscales que había que calcular.
 
 ---
 
-## Capítulo 5: El Régimen de Beckham
+## Capítulo 5: El Régimen de Beckham para quienes vienen
 
-El Régimen Especial de Trabajadores Desplazados (popularmente conocido como Régimen de Beckham) permite a los trabajadores extranjeros que vienen a residir en España tributar como no residentes durante los primeros 6 años.
+La conversación con Javier derivó hacia una pregunta que Carlos había encontrado al leer sobre el tema: el Régimen de Beckham, conocido así popularmente porque el futbolista lo utilizó cuando llegó al Real Madrid.
 
-Esto significa tributar solo por rentas de fuente española al tipo fijo del 24% (en lugar de la escala progresiva del IRPF que puede llegar al 47%).
+Este régimen, cuyo nombre oficial es Régimen Especial de Trabajadores Desplazados, permite a quienes se trasladan a España por razones laborales tributar como no residentes durante seis años. Eso significa pagar el tipo fijo del veinticuatro por ciento sobre las rentas de fuente española en lugar de la escala progresiva del IRPF, que para salarios altos puede llegar al cuarenta y siete por ciento.
 
-Para rentas altas desplazadas a España, puede suponer un ahorro fiscal muy significativo.
-
-Requisitos:
-- No haber sido residente fiscal en España en los últimos 10 años
-- Venirse a trabajar por razones laborales o empresariales
-- Solicitar el régimen en el plazo (6 meses desde el inicio del contrato)
+Para rentas altas que vienen a trabajar a España, el ahorro puede ser muy significativo. Los requisitos son no haber sido residente fiscal en España en los últimos diez años, venir por razones laborales o empresariales, y solicitarlo en los primeros seis meses desde el inicio del contrato. No aplica a la situación de Javier, que sale en dirección contraria, pero le pareció relevante como parte del panorama general.
 
 ---
 
-## Capítulo 6: Los paraísos fiscales y sus límites
+## Capítulo 6: La diferencia entre paraíso fiscal y baja tributación
 
-El término "paraíso fiscal" tiene connotaciones de evasión. La realidad es más matizada.
+En la conversación de esa tarde, Javier usó varias veces el término "paraíso fiscal" para referirse a los Emiratos. Carlos le aclaró que esa expresión, que tiene connotaciones de ilegalidad, no era exactamente aplicable.
 
-Hay países con fiscalidad baja que son completamente legales. Los Emiratos Árabes Unidos, por ejemplo, tienen tipo 0% de IRPF. Vivir y trabajar allí siendo efectivamente residente es perfectamente legal.
+Hay países con fiscalidad muy baja que son perfectamente legales para residir y trabajar. Los Emiratos Árabes Unidos son uno de ellos. Vivir y trabajar allí con residencia efectiva real es legal, y no tener tipo de IRPF personal es la regla en ese sistema tributario, no una anomalía que haya que ocultar.
 
-Los problemas aparecen cuando:
-- Se pretende ser residente en un paraíso fiscal pero la residencia habitual real sigue siendo España
-- Se usan estructuras artificiales en paraísos fiscales para ocultar rentas de fuente española
-- Las cuentas o sociedades en paraísos fiscales no se declaran (modelo 720, modelo D-6)
-
-La AEAT tiene mecanismos de intercambio de información con la mayoría de países. La información financiera de ciudadanos españoles en el extranjero llega a la AEAT de forma creciente.
+Los problemas aparecen cuando alguien pretende ser residente en un territorio de baja tributación pero en realidad sigue viviendo en España, o cuando se usan estructuras artificiales para ocultar rentas de fuente española, o cuando se tienen cuentas y sociedades en el extranjero que no se declaran. La AEAT tiene mecanismos de intercambio de información con la mayoría de países, y la información financiera de ciudadanos españoles en el exterior llega con creciente frecuencia.
 
 ---
 
-## Capítulo 7: Las obligaciones de información del expatriado
+## Capítulo 7: Las obligaciones de información
 
-Los residentes fiscales en España con bienes en el extranjero tienen obligaciones de información.
+Una parte del tema que Carlos desconocía antes de estudiarlo son las obligaciones de información que tienen los residentes fiscales en España con activos en el extranjero.
 
-**Modelo 720 (Declaración de bienes y derechos en el extranjero):**
-Obligatorio si se supera el umbral de 50.000 euros en cuentas bancarias, inmuebles o valores/seguros en el extranjero.
+El modelo setecientos veinte, que hubo que revisar parcialmente tras una sentencia del Tribunal de Justicia de la Unión Europea, obliga a declarar bienes y derechos en el extranjero cuando superan los cincuenta mil euros en cuentas bancarias, inmuebles, o valores y seguros. No es un impuesto: es una declaración informativa. Pero las sanciones por no presentarla son muy elevadas.
 
-Las sanciones por no presentarlo son muy elevadas (aunque el Tribunal de Justicia de la UE las ha moderado respecto a los niveles iniciales).
+Para los no residentes que tienen rentas de fuente española, el modelo doscientos diez es el que corresponde para declarar esas rentas. Y para quien tiene participaciones en empresas extranjeras, el modelo D-6 puede ser relevante.
 
-**Modelo D-6 (Inversiones en el extranjero):**
-Para participaciones en sociedades extranjeras.
-
-**Modelo 210 (IRNR):**
-Para declarar rentas de fuente española cuando se es no residente.
+El cumplimiento de estas obligaciones formales es uno de los puntos donde más frecuentemente se cometen errores, por desconocimiento más que por mala fe, y donde las consecuencias pueden ser desproporcionadas respecto al error.
 
 ---
 
-## Capítulo 8: La pensión del expatriado
+## Capítulo 8: La pensión del español que vive fuera
 
-Quien vive y trabaja en el extranjero puede tener contribuciones a sistemas de pensiones de múltiples países.
+La conversación con Javier pasó a un tema que para Carlos tenía más relevancia personal a largo plazo: qué pasa con la pensión de quien ha trabajado en varios países.
 
-Los convenios de Seguridad Social bilaterales (distintos de los de doble imposición) regulan cómo se suman las cotizaciones de diferentes países para el derecho a pensión.
+Los convenios de Seguridad Social bilaterales, distintos de los convenios de doble imposición, regulan cómo se pueden sumar los períodos de cotización en distintos países para generar derecho a pensión. Para tener derecho a pensión pública española, hacen falta al menos quince años cotizados en España. Quien ha cotizado parcialmente en España y parcialmente en otro país con convenio puede sumar períodos para cumplir ese mínimo.
 
-Para poder tener derecho a pensión española, se necesitan al menos 15 años cotizados en España (para pensión mínima). Los convenios pueden permitir sumar períodos de cotización de otros países.
-
-El expatriado que lleva años fuera debería verificar su situación de cotización española para asegurarse de que tendrá derecho a algún tipo de pensión española.
+Javier, con siete años cotizados en España, si se marchara sin volver, no tendría acceso a la pensión española mínima por si solo. Dependería de si podía sumar los años cotizados en los Emiratos, y de las condiciones específicas de ese acuerdo bilateral. Carlos le recomendó verificar su situación de cotización antes de tomar la decisión definitiva.
 
 ---
 
-## Capítulo 9: Portugal y el Régimen de Residente No Habitual
+## Capítulo 9: Portugal como caso especial
 
-Portugal ha sido en los últimos años destino de muchos españoles que buscan optimizar su fiscalidad manteniéndose cerca.
+Carlos mencionó también el caso de Portugal, que en los últimos años había atraído a muchos españoles como destino para optimizar la fiscalidad manteniéndose relativamente cerca.
 
-El régimen de Residente No Habitual (NHR) de Portugal, vigente hasta 2024 y sustituido por el régimen IFICI, ofrecía durante 10 años tipos reducidos o exenciones para determinados tipos de renta de fuente extranjera.
+Portugal tuvo durante años el régimen de Residente No Habitual, que permitía durante diez años tipos reducidos o exenciones para determinadas rentas de fuente extranjera. Muchas pensiones y rentas de trabajo del extranjero quedaban exentas o tributaban al veinte por ciento en lugar de la escala progresiva portuguesa. Eso atrajo a miles de españoles y de otros europeos. El régimen fue modificado en dos mil veinticuatro y sustituido por el régimen IFICI, más restringido y específicamente orientado a ciertos perfiles profesionales, aunque sigue habiendo ventajas para quienes cumplen los requisitos.
 
-Muchas pensiones y rentas de trabajo del extranjero podían quedar exentas o tributar al 20% en lugar de la escala progresiva portuguesa.
-
-Este régimen atrajo a miles de españoles (y de otros países europeos). Las condiciones han cambiado con el régimen IFICI, más restringido, aunque sigue habiendo ventajas para ciertos perfiles.
+Carlos le contó esto a Javier no porque fuera relevante para su oferta de Dubái, sino porque ilustraba que la planificación fiscal internacional no es solo para quienes se van lejos: a veces la diferencia puede estar a dos horas en coche.
 
 ---
 
-## Capítulo 10: La clave: asesoramiento especializado
+## Capítulo 10: Lo que Javier decidió
 
-La fiscalidad internacional es probablemente el área fiscal más compleja que existe.
+Javier aceptó la oferta de Dubái dos meses después de esa conversación con Carlos. Antes de hacerlo, habló con un asesor especializado en fiscalidad internacional que le ayudó a entender exactamente su situación, qué trámites necesitaba hacer, cómo gestionar el piso en alquiler, y cuál sería su situación fiscal en los primeros meses de la transición.
 
-Mezcla dos sistemas jurídicos diferentes, convenios internacionales, derecho comunitario europeo si aplica, y cambia constantemente con nuevas leyes y acuerdos.
+Vendió el piso antes de marcharse porque la gestión a distancia no le apetecía y porque la fiscalidad del alquiler como no residente le resultaba menos favorable que la que tenía como residente. Con las plusvalías de la venta pagó los impuestos correspondientes y se marchó con las cuentas en orden.
 
-Una gestión incorrecta puede generar:
-- Doble tributación (pagar en dos países)
-- Sanciones por obligaciones de información no cumplidas
-- Regularizaciones con recargos e intereses
-
-El asesoramiento de un especialista en fiscalidad internacional desde el primer momento es la inversión que más sentido hace en esta área.
+Lo que más le sorprendió de todo el proceso, le dijo a Carlos antes de irse, fue la cantidad de cosas que no sabía que no sabía. La residencia fiscal, los convenios, el IRNR, las obligaciones de información. Todo eso existe y tiene consecuencias reales, y la mayoría de las personas que se van al extranjero lo descubren cuando ya están allí, no antes.
 
 ---
 
 ## Epílogo: El mundo como espacio fiscal
 
-La globalización ha creado nuevas oportunidades y nuevas complejidades fiscales.
+La globalización ha creado oportunidades reales de organizar la vida de formas que hasta hace pocas décadas no eran posibles. Vivir en un país, trabajar para otro, tener inversiones en un tercero. Cada combinación tiene sus reglas fiscales, sus convenios, sus obligaciones.
 
-Quien entiende las reglas puede planificar su vida internacional de forma eficiente y legal. Quien las ignora puede enfrentarse a problemas complejos.
+Quien entiende esas reglas puede tomar decisiones con conocimiento y vivir su vida internacional de forma eficiente y completamente legal. Quien las ignora puede encontrarse con problemas complejos, costes inesperados, y regularizaciones que nadie quiere.
 
-La movilidad es un derecho. La planificación fiscal de esa movilidad es una responsabilidad.
-
-El siguiente libro, "Planificación patrimonial a largo plazo", integra todo lo visto en esta serie en una visión global del patrimonio.
+El siguiente libro, "Planificación patrimonial a largo plazo", integra todo lo que se ha visto en esta serie en una visión de conjunto del patrimonio: cómo construirlo, protegerlo, y eventualmente transmitirlo.
 
 ---
 
