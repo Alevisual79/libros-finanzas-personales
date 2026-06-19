@@ -52,7 +52,7 @@ El contenido de las pantallas también activa el cerebro:
 - Los videojuegos y las series activan el sistema nervioso
 - El trabajo en la cama borra la asociación mental entre la cama y el descanso
 
-La activación cognitiva y emocional producida por el contenido es tan problemática como la luz.
+La activación cognitiva y emocional producida por el contenido es tan problemática cómo la luz.
 
 ---
 
@@ -73,7 +73,7 @@ La restricción del uso de dispositivos nocturnos en adolescentes tiene evidenci
 ## Capítulo 5: Las soluciones técnicas: filtros y modos nocturnos
 
 **Modo nocturno (Night Shift en iOS, Blue Light Filter en Android):**
-Reduce la proporción de luz azul en la pantalla, desplazando el espectro hacia el naranja-rojo. Ayuda pero no elimina completamente el problema.
+Reduce la proporción de luz azul en la pantalla, desplazando el espectro hacía el naranja-rojo. Ayuda pero no elimina completamente el problema.
 
 **Apps de filtro de luz azul (f.lux):**
 Similar al modo noche pero más personalizable. Permite ajustar la intensidad según la hora del día.
@@ -164,7 +164,7 @@ Siete días cambia la perspectiva sobre algo que se había normalizado completam
 
 ## Epílogo: La pantalla que roba sin que lo notes
 
-El robo de sueño de las pantallas es silencioso. No se siente como un robo. Se siente como disfrutar un rato antes de dormir.
+El robo de sueño de las pantallas es silencioso. No se siente cómo un robo. Se siente como disfrutar un rato antes de dormir.
 
 Pero el coste acumulado en calidad de sueño, energía, salud y bienestar es real y significativo.
 

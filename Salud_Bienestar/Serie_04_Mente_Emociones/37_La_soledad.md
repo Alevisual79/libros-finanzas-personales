@@ -69,7 +69,7 @@ Cacioppo propone que la soledad es, evolutivamente, una señal de alarma similar
 La soledad crónica está asociada con mayor riesgo de deterioro cognitivo y demencia. Un metaanálisis de 2020 encontró que la soledad aumenta el riesgo de demencia en un 40-50%. El mecanismo incluye la reducción de la estimulación cognitiva que aporta la interacción social y los efectos de la inflamación crónica sobre el cerebro.
 
 **El sesgo negativo:**
-El cerebro solitario desarrolla un sesgo de procesamiento: interpreta las señales sociales ambiguas de forma más negativa, anticipa el rechazo con más facilidad y tiene mayor dificultad para confiar. Este sesgo tiende a autoconfirmarse, haciendo más difícil la reconexión.
+El cerebro solitario desarrolla un sesgo de procesamiento: interpreta las señales sociales ambiguas de forma más negativa, anticipa el rechazó con más facilidad y tiene mayor dificultad para confiar. Este sesgo tiende a autoconfirmarse, haciendo más difícil la reconexión.
 
 ---
 
@@ -84,7 +84,7 @@ Contrariamente a lo esperado, los estudios muestran que los adultos jóvenes (18
 La soledad en personas mayores tiene causas acumuladas: pérdida de pareja, reducción de movilidad, pérdida de amigos, jubilación, menor red social activa. Las consecuencias son especialmente graves porque se suman a otros factores de vulnerabilidad de salud.
 
 **Las personas con enfermedades crónicas:**
-La enfermedad crónica puede aislar: limitaciones físicas, vergüenza, miedo al rechazo, dificultad para mantener el ritmo de vida social previo.
+La enfermedad crónica puede aislar: limitaciones físicas, vergüenza, miedo al rechazó, dificultad para mantener el ritmo de vida social previo.
 
 **Quienes han atravesado divorcios o duelos:**
 La pérdida de la pareja —por divorcio o muerte— es uno de los principales desencadenantes de soledad en adultos de mediana edad.
@@ -135,7 +135,7 @@ Los investigadores que estudian las zonas azules del mundo (Cerdeña, Okinawa, L
 Si la soledad es tan dañina, ¿por qué no simplemente relacionarse más?
 
 **El sesgo negativo:**
-La mente solitaria anticipa el rechazo, interpreta negativamente las señales sociales y evita la exposición que podría romper el aislamiento. Es un mecanismo de autoprotección que se convierte en trampa.
+La mente solitaria anticipa el rechazó, interpreta negativamente las señales sociales y evita la exposición que podría romper el aislamiento. Es un mecanismo de autoprotección que se convierte en trampa.
 
 **La vergüenza:**
 Admitir que uno se siente solo implica, en muchas culturas, admitir que nadie te quiere o que eres incapaz de relacionarte. La vergüenza impide pedir y buscar.
@@ -197,7 +197,7 @@ Conocer a los vecinos. Participar en comunidades locales. Ser el que dice hola e
 Las políticas públicas de reducción de la soledad (el ejemplo del Reino Unido) empiezan a ser reconocidas como salud pública. El diseño urbano que favorece los espacios de encuentro, los programas comunitarios, la atención a los grupos vulnerables.
 
 **El plan de Carmen:**
-Se apuntó al coro de la parroquia. No porque fuera religiosa. Porque su amiga Pilar iba. "Voy cada semana. No a todos me caen bien. Pero hay tres o cuatro con quienes ya tomo café después. Y ya tengo algo que contar cuando me llaman mis hijos."
+Se apunto al coro de la parroquia. No porque fuera religiosa. Porque su amiga Pilar iba. "Voy cada semana. No a todos me caen bien. Pero hay tres o cuatro con quienes ya tomó café después. Y ya tengo algo que contar cuando me llaman mis hijos."
 
 ---
 

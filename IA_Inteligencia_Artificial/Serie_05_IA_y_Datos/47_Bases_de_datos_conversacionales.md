@@ -1,50 +1,50 @@
-﻿# Bases de datos conversacionales
+# Bases de datos conversacionales
 ## Preguntale a tus datos en lenguaje natural
 
 **Serie 5: IA y Datos — Libro 7 de 10**
 
 ---
 
-## Prologo
+## Prólogo
 
 Los datos son el combustible de la IA. Sin datos de calidad, los mejores modelos producen resultados pobres. Con datos excelentes y preguntas correctas, incluso modelos sencillos pueden transformar la toma de decisiones.
 
-Este libro explora Bases de datos conversacionales desde la perspectiva practica de quien trabaja con datos sin ser necesariamente un especialista tecnico.
+Este libro explora Bases de datos conversacionales desde la perspectiva práctica de quien trabaja con datos sin ser necesariamente un especialista técnico.
 
 ---
 
-## Capitulo 1: El paisaje actual
+## Capítulo 1: El paisaje actual
 
 Preguntale a tus datos en lenguaje natural es uno de los dominios donde la IA ofrece mayor valor inmediato para los profesionales del conocimiento.
 
-La combinacion de herramientas accesibles y capacidades crecientes ha democratizado el trabajo con datos de una forma que habria parecido imposible hace cinco anos.
+La combinación de herramientas accesibles y capacidades crecientes ha democratizado el trabajo con datos de una forma que habria parecido imposible hace cinco años.
 
 ---
 
-## Capitulo 2: Por que los datos importan mas que nunca
+## Capítulo 2: Por qué los datos importan más que nunca
 
-En la economia de la IA, los datos son el activo diferencial. Las empresas con datos propios unicos pueden construir ventajas que los competidores no pueden replicar simplemente comprando acceso a los mismos modelos.
+En la economía de la IA, los datos son el activo diferencial. Las empresas con datos propios unicos pueden construir ventajas que los competidores no pueden replicar simplemente comprando acceso a los mismos modelos.
 
-Isabel lo vio cuando su empresa uso quince anos de datos de RRHH para predecir rotacion. Los competidores podian usar los mismos modelos de IA, pero no tenian esos datos.
+Isabel lo vió cuando su empresa uso quince años de datos de RRHH para predecir rotación. Los competidores podían usar los mismos modelos de IA, pero no tenían esos datos.
 
 ---
 
-## Capitulo 3: Las herramientas clave
+## Capítulo 3: Las herramientas clave
 
 El ecosistema de herramientas para trabajar con datos con IA ha madurado notablemente:
 
-**Para analisis:** ChatGPT Advanced Data Analysis, Julius AI, Microsoft Copilot en Excel
-**Para visualizacion:** Tableau con Einstein AI, Power BI con Copilot, Looker
+**Para análisis:** ChatGPT Advanced Data Analysis, Julius AI, Microsoft Copilot en Excel
+**Para visualización:** Tableau con Einstein AI, Power BI con Copilot, Looker
 **Para bases de datos:** Text-to-SQL integrado en muchas herramientas, NL4DBI
-**Para prediccion:** DataRobot, H2O.ai, plataformas cloud con AutoML
+**Para predicción:** DataRobot, H2O.ai, plataformas cloud con AutoML
 
 ---
 
-## Capitulo 4: El proceso con datos
+## Capítulo 4: El proceso con datos
 
 El flujo de trabajo con datos y IA que produce mejores resultados:
 
-1. Definir la pregunta de negocio con precision
+1. Definir la pregunta de negocio con precisión
 2. Identificar que datos existen y en que calidad
 3. Preparar y limpiar los datos
 4. Explorar con IA para identificar patrones
@@ -53,57 +53,57 @@ El flujo de trabajo con datos y IA que produce mejores resultados:
 
 ---
 
-## Capitulo 5: El caso de Ruben
+## Capítulo 5: El caso de Ruben
 
-Ruben usaba la IA para analizar los datos de sus campanas de marketing: que contenidos funcionaban mejor, en que horarios, para que segmentos de audiencia.
+Ruben usaba la IA para analizar los datos de sus campanas de marketing: que contenidos funcionaban mejor, en que horarios, para qué segmentos de audiencia.
 
-En lugar de intuir que funcionaba, tenia datos. Y la IA le ayudaba a interpretarlos rapidamente para ajustar la estrategia.
-
----
-
-## Capitulo 6: El caso de Isabel
-
-Isabel transformo la funcion de RRHH de reactiva a predictiva usando datos. Las encuestas de clima, las evaluaciones de desempeno, los datos de rotacion: todos alimentaban modelos que le permitian anticipar problemas antes de que se manifestaran.
+En lugar de intuir que funcionaba, tenía datos. Y la IA le ayudaba a interpretarlos rápidamente para ajustar la estrategia.
 
 ---
 
-## Capitulo 7: El caso de Elena
+## Capítulo 6: El caso de Isabel
 
-Elena usaba datos operacionales de su sistema para optimizar el rendimiento y anticipar fallos. La IA detectaba patrones en los logs que ningun humano podria identificar manualmente.
-
----
-
-## Capitulo 8: La calidad de los datos
-
-El mayor reto no es la tecnologia: es la calidad de los datos.
-
-Datos incompletos, inconsistentes o sesgados producen analisis incorrectos con la apariencia de precision. El trabajo de limpieza y documentacion de datos es tan importante como el analisis mismo.
+Isabel transformó la función de RRHH de reactiva a predictiva usando datos. Las encuestas de clima, las evaluaciones de desempeno, los datos de rotación: todos alimentaban modelos que le permitian anticipar problemas antes de que se manifestaran.
 
 ---
 
-## Capitulo 9: El futuro del trabajo con datos
+## Capítulo 7: El caso de Elena
 
-Las tendencias mas importantes:
+Elena usaba datos operacionales de su sistema para optimizar el rendimiento y anticipar fallos. La IA detectaba patrones en los logs que ningún humano podría identificar manualmente.
 
-**Data democratization:** Herramientas cada vez mas accesibles para no tecnicos
-**Autonomous analytics:** Sistemas que detectan automaticamente anomalias y generan alertas
+---
+
+## Capítulo 8: La calidad de los datos
+
+El mayor reto no es la tecnología: es la calidad de los datos.
+
+Datos incompletos, inconsistentes o sesgados producen análisis incorrectos con la apariencia de precisión. El trabajo de limpieza y documentación de datos es tan importante como el análisis mismo.
+
+---
+
+## Capítulo 9: El futuro del trabajo con datos
+
+Las tendencias más importantes:
+
+**Data democratization:** Herramientas cada vez más accesibles para no técnicos
+**Autonomous analytics:** Sistemas que detectan automáticamente anomalias y generan alertas
 **Data products:** Los datos como productos internos que se comparten entre equipos
-**Real-time intelligence:** Analisis en tiempo real en lugar de reportes historicos
+**Real-time intelligence:** análisis en tiempo real en lugar de reportes históricos
 
 ---
 
-## Capitulo 10: El cierre de la Serie 5
+## Capítulo 10: El cierre de la Serie 5
 
-Los datos son el activo mas subestimado de la mayoria de organizaciones. La IA esta haciendo posible aprovechar ese activo sin necesidad de un equipo de cientificos de datos dedicados.
+Los datos son el activo más subestimado de la mayoría de organizaciones. La IA esta haciendo posible aprovechar ese activo sin necesidad de un equipo de cientificos de datos dedicados.
 
 El profesional que aprende a trabajar con sus propios datos tiene una ventaja competitiva que crece a medida que los datos se acumulan y las herramientas mejoran.
 
 ---
 
-## Epilogo
+## Epílogo
 
-El objetivo final del trabajo con datos no es los datos ni los modelos: es la decision mejor informada. La IA acelera el camino del dato a la decision. El juicio sigue siendo humano.
+El objetivo final del trabajo con datos no es los datos ni los modelos: es la decisión mejor informada. La IA acelera el camino del dato a la decisión. El juicio sigue siendo humano.
 
 ---
 
-*Este es el Libro 47 de la coleccion Inteligencia Artificial Aplicada, Libro 7 de 10 de la Serie 5: IA y Datos.*
+*Este es el Libro 47 de la colección Inteligencia Artificial Aplicada, Libro 7 de 10 de la Serie 5: IA y Datos.*

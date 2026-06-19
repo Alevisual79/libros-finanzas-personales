@@ -25,10 +25,10 @@ La respuesta honesta requiere más matices que "la medicina convencional es la �
 **"Medicina convencional"** también agrupa prácticas muy diferentes: algunas con excelente evidencia, algunas de uso rutinario sin evidencia robusta, algunas que causan daño yatrogénico.
 
 **La medicina basada en evidencia (MBE):**
-El marco más útil no es convencional vs. alternativa, sino ¿qué dice la evidencia sobre esta intervención específica para esta condición específica?
+El marcó más útil no es convencional vs. alternativa, sino ¿qué dice la evidencia sobre esta intervención específica para esta condición específica?
 
 **Las categorías reales:**
-- Intervenciones con evidencia sólida (funcionen de donde vengan)
+- Intervenciones con evidencia sólida (funcionen de dónde vengan)
 - Intervenciones con evidencia prometedora pero insuficiente (requieren más estudio)
 - Intervenciones sin evidencia (no hay razón para usarlas)
 - Intervenciones con evidencia de daño (hay razón para evitarlas)
@@ -67,7 +67,7 @@ Evidencia sólida para reducción del estrés, ansiedad, depresión leve-moderad
 Evidencia de beneficios en flexibilidad, equilibrio, dolor lumbar, salud mental y en la reducción del riesgo de caídas en mayores.
 
 **La terapia manual (osteopatía, fisioterapia manual):**
-Evidencia de utilidad para dolor musculoesquelético específico cuando se practica con estándares de fisioterapia basada en evidencia.
+Evidencia de utilidad para dolor musculoesquelético específico cuando se práctica con estándares de fisioterapia basada en evidencia.
 
 **La fitoterapia:**
 Algunas plantas medicinales tienen compuestos activos con eficacia documentada: el extracto de hipérico (hierba de San Juan) para depresión leve, la valeriana para el insomnio leve, el jengibre para las náuseas. Importante: pueden interaccionar con medicamentos convencionales.
@@ -101,7 +101,7 @@ Produce alivio subjetivo (dolor, ansiedad, náuseas), cambios fisiológicos real
 Prescribir un tratamiento inactivo mintiendo al paciente sobre su naturaleza no es ético. Pero el efecto placebo también opera cuando el paciente sabe que está recibiendo un placebo (open-label placebo), lo que complica el argumento.
 
 **La relación terapéutica:**
-Gran parte del efecto terapéutico de las consultas de terapias alternativas (la escucha, el tiempo, la atención) también está presente en la medicina convencional cuando se practica bien. El problema es que el sistema sanitario actual no tiene tiempo para ello.
+Gran parte del efecto terapéutico de las consultas de terapias alternativas (la escucha, el tiempo, la atención) también está presente en la medicina convencional cuando se práctica bien. El problema es que el sistema sanitario actual no tiene tiempo para ello.
 
 ---
 
@@ -120,9 +120,9 @@ Cuando alguien usa terapias alternativas para un síntoma que podría ser un cá
 
 ---
 
-## Capítulo 7: La medicina integrativa — el modelo que une lo mejor
+## Capítulo 7: La medicina integrativa — el modeló que une lo mejor
 
-La medicina integrativa es un enfoque que combina los mejores elementos de la medicina convencional con las terapias complementarias que tienen evidencia de eficacia, dentro de un modelo centrado en el paciente.
+La medicina integrativa es un enfoque que combina los mejores elementos de la medicina convencional con las terapias complementarias que tienen evidencia de eficacia, dentro de un modeló centrado en el paciente.
 
 **Los principios:**
 - La evidencia guía las decisiones, independientemente de la procedencia de la intervención

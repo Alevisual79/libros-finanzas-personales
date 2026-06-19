@@ -1,164 +1,164 @@
-﻿# IA para investigar y aprender
+# IA para investigar y aprender
 ## Perplexity, NotebookLM y las herramientas del investigador moderno
 
 **Serie 3: Herramientas de IA — Libro 7 de 10**
 
 ---
 
-## Prologo: La biblioteca infinita
+## Prólogo: La biblioteca infinita
 
-El mentor de Elena tenia un problema cronico: necesitaba mantenerse actualizado en campos que evolucionaban demasiado rapido. La cantidad de papers, artículos, informes y libros relevantes era imposible de procesar de forma lineal.
+El mentor de Elena tenía un problema cronico: necesitaba mantenerse actualizado en campos que evolucionaban demasiado rápido. La cantidad de papers, artículos, informes y libros relevantes era imposible de procesar de forma lineal.
 
-Con la combinacion de Perplexity para busqueda actualizada, NotebookLM para analizar sus propios documentos, y Elicit para investigacion academica, transformo su proceso de aprendizaje. No leyo mas: leyo mas selectivamente y absorbio mejor lo que leia.
+Con la combinación de Perplexity para busqueda actualizada, NotebookLM para analizar sus propios documentos, y Elicit para investigación academica, transformó su proceso de aprendizaje. No leyo más: leyo más selectivamente y absorbio mejor lo que leía.
 
 ---
 
-## Capitulo 1: El problema de la sobrecarga de informacion
+## Capítulo 1: El problema de la sobrecarga de información
 
-El volumen de informacion disponible crece mas rapido que nuestra capacidad de procesarla. Cada dia se publican miles de papers academicos, millones de articulos, incontable contenido en redes.
+El volumen de información disponible crece más rápido que nuestra capacidad de procesarla. Cada dia se publican miles de papers academicos, millones de articulos, incontable contenido en redes.
 
 La IA puede ayudar de tres formas:
 **Filtrando:** Identificar lo relevante entre el ruido
-**Sintetizando:** Resumir y conectar informacion de multiples fuentes
+**Sintetizando:** Resumir y conectar información de multiples fuentes
 **Haciendola interactiva:** Convertir documentos estaticos en bases de conocimiento consultables
 
 ---
 
-## Capitulo 2: Perplexity — La busqueda del futuro
+## Capítulo 2: Perplexity — La busqueda del futuro
 
 Perplexity es un motor de busqueda con IA que combina busqueda web en tiempo real con sintesis de respuestas con fuentes citadas.
 
-**Por que es diferente a Google:**
+**Por qué es diferente a Google:**
 - Responde preguntas directamente en lugar de proporcionar enlaces
-- Cita las fuentes de cada afirmacion
+- Cita las fuentes de cada afirmación
 - Permite preguntas de seguimiento que mantienen el contexto
 - No tiene publicidad que comprometa la neutralidad de los resultados
 
-**Perplexity Pro (20 dolares mes):** Acceso a GPT-4, Claude y otros modelos avanzados, mayor numero de busquedas, modo Deep Research para investigaciones mas exhaustivas.
+**Perplexity Pro (20 dolares mes):** Acceso a GPT-4, Claude y otros modelos avanzados, mayor número de busquedas, modo Deep Research para investigaciones más exhaustivas.
 
-**Ideal para:** Investigacion de mercado, seguimiento de tendencias, investigacion antes de reuniones, verificacion rapida de hechos con fuentes.
+**Ideal para:** Investigación de mercado, seguimiento de tendencias, investigación antes de reuniones, verificación rápida de hechos con fuentes.
 
 ---
 
-## Capitulo 3: NotebookLM — Tu propio asistente de investigacion
+## Capítulo 3: NotebookLM — Tu propio asistente de investigación
 
-NotebookLM (Google) es una de las herramientas mas interesantes del ecosistema IA para el conocimiento. Permite cargar documentos propios (PDFs, articulos, notas, transcripciones) y hacer preguntas sobre ellos en lenguaje natural.
+NotebookLM (Google) es una de las herramientas más interesantes del ecosistema IA para el conocimiento. Permite cargar documentos propios (PDFs, articulos, notas, transcripciones) y hacer preguntas sobre ellos en lenguaje natural.
 
 **Casos de uso de Isabel:**
-- Cargar toda la documentacion de un proceso de RRHH y hacer preguntas especificas
-- Subir el informe anual de empleados y pedir un resumen ejecutivo con los tres puntos mas preocupantes
-- Cargar las transcripciones de entrevistas de salida y pedir analisis de patrones
+- Cargar toda la documentación de un proceso de RRHH y hacer preguntas específicas
+- Subir el informe anual de empleados y pedir un resumen ejecutivo con los tres puntos más preocupantes
+- Cargar las transcripciones de entrevistas de salida y pedir análisis de patrones
 
-**Funcionalidad Audio Overview:** NotebookLM puede generar un podcast de dos IA discutiendo los documentos cargados. Sorprendentemente util para absorber informacion en formato audio.
+**Funcionalidad Audio Overview:** NotebookLM puede generar un podcast de dos IA discutiendo los documentos cargados. Sorprendentemente útil para absorber información en formato audio.
 
 **Limite actual:** No tiene acceso a internet; trabaja solo con los documentos que tu le proporcionas.
 
 ---
 
-## Capitulo 4: Elicit — El asistente de investigacion academica
+## Capítulo 4: Elicit — El asistente de investigación academica
 
-Elicit esta disenado especificamente para investigacion academica. Busca en bases de datos de papers cientificos y extrae informacion relevante de forma estructurada.
+Elicit esta diseñado específicamente para investigación academica. Busca en bases de datos de papers cientificos y extrae información relevante de forma estructurada.
 
 **Funcionalidades clave:**
 - Busqueda semantica (no solo por palabras clave) en millones de papers
-- Extraccion automatica de: muestra, metodologia, resultados, limitaciones
-- Comparacion de multiples estudios en una tabla
-- Identificacion de papers relevantes que no aparecen en la busqueda inicial
+- Extracción automática de: muestra, metodologia, resultados, limitaciones
+- Comparación de multiples estudios en una tabla
+- Identificación de papers relevantes que no aparecen en la busqueda inicial
 
-**Ideal para:** Profesionales que necesitan basar sus decisiones en evidencia academica, investigadores que hacen revision de literatura, cualquiera que quiera entender que dice la ciencia sobre un tema.
-
----
-
-## Capitulo 5: Consensus — La evidencia en preguntas directas
-
-Consensus es similar a Elicit pero con un enfoque diferente: responde preguntas especificas sobre evidencia cientifica.
-
-En lugar de devolver papers, devuelve una conclusion sobre cuanto apoyo tiene en la literatura una afirmacion especifica.
-
-**Ejemplo:** "¿Mejora el ejercicio aerobico la funcion cognitiva en adultos mayores?" → "Alta evidencia: si" con los papers que lo respaldan.
-
-Ideal para verificar si una afirmacion tiene apoyo cientifico o para tomar decisiones basadas en evidencia.
+**Ideal para:** Profesionales que necesitan basar sus decisiones en evidencia academica, investigadores que hacen revisión de literatura, cualquiera que quiera entender que dice la ciencia sobre un tema.
 
 ---
 
-## Capitulo 6: El proceso de investigacion con IA
+## Capítulo 5: Consensus — La evidencia en preguntas directas
 
-El proceso de investigacion con IA mas efectivo:
+Consensus es similar a Elicit pero con un enfoque diferente: responde preguntas específicas sobre evidencia cientifica.
 
-**1. Orientacion:** Usar Perplexity o ChatGPT para una vision general rapida del tema. Entender el paisaje y la terminologia.
+En lugar de devolver papers, devuelve una conclusión sobre cuanto apoyo tiene en la literatura una afirmación específica.
 
-**2. Investigacion primaria:** Para investigacion que requiere evidencia academica: Elicit y Consensus para papers relevantes.
+**Ejemplo:** "¿Mejora el ejercicio aerobico la función cognitiva en adultos mayores?" → "Alta evidencia: si" con los papers que lo respaldan.
 
-**3. Profundidad:** Para temas especificos, cargar los documentos mas relevantes en NotebookLM y hacer preguntas profundas.
+Ideal para verificar si una afirmación tiene apoyo cientifico o para tomar decisiones basadas en evidencia.
 
-**4. Actualizacion:** Configurar alertas en Perplexity o usar buscadores convencionales para seguimiento de novedades.
+---
+
+## Capítulo 6: El proceso de investigación con IA
+
+El proceso de investigación con IA más efectivo:
+
+**1. Orientación:** Usar Perplexity o ChatGPT para una visión general rápida del tema. Entender el paisaje y la terminologia.
+
+**2. Investigación primaria:** Para investigación que requiere evidencia academica: Elicit y Consensus para papers relevantes.
+
+**3. Profundidad:** Para temas específicos, cargar los documentos más relevantes en NotebookLM y hacer preguntas profundas.
+
+**4. Actualización:** Configurar alertas en Perplexity o usar buscadores convencionales para seguimiento de novedades.
 
 **5. Sintesis:** Usar un LLM generalista para sintetizar todo lo investigado en un documento coherente.
 
 ---
 
-## Capitulo 7: IA para aprendizaje personal
+## Capítulo 7: IA para aprendizaje personal
 
-La IA transforma tambien como se aprende, no solo como se investiga.
+La IA transforma también cómo se aprende, no solo cómo se investiga.
 
 **Tutoria personalizada:** Cualquier LLM puede actuar como tutor adaptativo. Explica un concepto, pide que te lo explique de otra forma, pide ejemplos, haz preguntas hasta que lo entiendas.
 
-**Socrates con IA:** En lugar de pedir explicaciones, pedir que la IA haga preguntas para guiar al descubrimiento. El metodo socrático en version digital.
+**Socrates con IA:** En lugar de pedir explicaciones, pedir que la IA haga preguntas para guiar al descubrimiento. El método socrático en versión digital.
 
 **Flashcards generadas:** A partir de un texto o unos apuntes, la IA genera preguntas y respuestas para memorización activa.
 
-**Simulaciones:** "Actuemos como si yo fuera un estudiante explicandote este concepto. Identifica errores en mi comprension." Feynman technique con IA.
+**Simulaciones:** "Actuemos como si yo fuera un estudiante explicandote este concepto. Identifica errores en mi comprensión." Feynman technique con IA.
 
 ---
 
-## Capitulo 8: Gestion del conocimiento personal con IA
+## Capítulo 8: Gestion del conocimiento personal con IA
 
 El conocimiento investigado y aprendido tiene valor solo si se organiza y se puede recuperar.
 
-**Obsidian con IA:** Sistema de notas basado en Markdown con plugins de IA que conectan conceptos automaticamente, generan resumenes de notas y sugieren conexiones entre ideas.
+**Obsidian con IA:** Sistema de notas basado en Markdown con plugins de IA que conectan conceptos automáticamente, generan resumenes de notas y sugieren conexiones entre ideas.
 
-**Notion AI:** Integracion de IA en el sistema de gestion de conocimiento mas popular. Busqueda semantica en las propias notas, generacion de contenido dentro del contexto existente.
+**Notion AI:** Integración de IA en el sistema de gestión de conocimiento más popular. Busqueda semantica en las propias notas, generación de contenido dentro del contexto existente.
 
-**Reflect:** Aplicacion de notas con IA integrada que conecta automaticamente conceptos y genera red de conocimiento.
+**Reflect:** Aplicación de notas con IA integrada que conecta automáticamente conceptos y genera red de conocimiento.
 
 **Mem.ai:** Sistema de notas que se organiza solo con IA. Sin carpetas: la IA conecta y organiza el contenido.
 
 ---
 
-## Capitulo 9: El aprendizaje de idiomas con IA
+## Capítulo 9: El aprendizaje de idiomas con IA
 
 Los idiomas son uno de los campos donde la IA tiene el mayor impacto positivo en el aprendizaje personal.
 
-**Conversacion con LLMs:** Practicar conversacion en otro idioma con un interlocutor que tiene paciencia infinita, corrige errores educadamente y adapta el nivel al tuyo.
+**Conversación con LLMs:** Practicar conversación en otro idioma con un interlocutor que tiene paciencia infinita, corrige errores educadamente y adapta el nivel al tuyo.
 
-**Duolingo Max:** Version premium de Duolingo con GPT-4 integrado para explicaciones de errores y conversacion simulada.
+**Duolingo Max:** Versión premium de Duolingo con GPT-4 integrado para explicaciones de errores y conversación simulada.
 
-**Khanmigo (Khan Academy):** Tutor de IA para aprendizaje general, con especial fortaleza en matematicas y ciencias.
+**Khanmigo (Khan Academy):** Tutor de IA para aprendizaje general, con especial fortaleza en matemáticas y ciencias.
 
-**YouTube con transcripcion + IA:** Ver contenido en el idioma objetivo con transcripcion automatica, y usar la IA para explicar expresiones o vocabulario desconocido.
+**YouTube con transcripción + IA:** Ver contenido en el idioma objetivo con transcripción automática, y usar la IA para explicar expresiones o vocabulario desconocido.
 
 ---
 
-## Capitulo 10: El investigador aumentado
+## Capítulo 10: El investigador aumentado
 
-El investigador con IA no reemplaza al investigador: lo hace mas poderoso.
+El investigador con IA no reemplaza al investigador: lo hace más poderoso.
 
-La calidad de la investigacion sigue dependiendo de:
+La calidad de la investigación sigue dependiendo de:
 - Las preguntas que formula (la IA no hace las preguntas, responde las que le haces)
 - El criterio para evaluar la evidencia (la IA puede sintetizar; el investigador juzga la calidad)
-- La interpretacion en contexto especifico (la IA no conoce tu organizacion, tu cliente, tu situacion)
-- La aplicacion practica de los hallazgos (de la investigacion a la decision: siempre humano)
+- La interpretación en contexto específico (la IA no conoce tu organización, tu cliente, tu situación)
+- La aplicación práctica de los hallazgos (de la investigación a la decisión: siempre humano)
 
 El investigador que usa IA bien no pasa menos tiempo con el conocimiento. Pasa ese tiempo con mejor conocimiento.
 
 ---
 
-## Epilogo: La curiosidad como ventaja competitiva
+## Epílogo: La curiosidad como ventaja competitiva
 
-En un mundo donde la informacion es abundante, la curiosidad sigue siendo escasa. Las herramientas de investigacion con IA no dan curiosidad: amplifican la curiosidad que ya tienes.
+En un mundo donde la información es abundante, la curiosidad sigue siendo escasa. Las herramientas de investigación con IA no dan curiosidad: amplifican la curiosidad que ya tienes.
 
-El profesional curioso que aprende a usar estas herramientas tiene acceso a una ventaja de informacion creciente sobre quien no investiga o no actualiza su forma de hacerlo.
+El profesional curioso que aprende a usar estas herramientas tiene acceso a una ventaja de información creciente sobre quien no investiga o no actualiza su forma de hacerlo.
 
 ---
 
-*Este es el Libro 27 de la coleccion Inteligencia Artificial Aplicada, Libro 7 de 10 de la Serie 3: Herramientas de IA.*
+*Este es el Libro 27 de la colección Inteligencia Artificial Aplicada, Libro 7 de 10 de la Serie 3: Herramientas de IA.*

@@ -86,7 +86,7 @@ Las instrucciones más efectivas tienen estas características:
 
 **Iteración:** ¿Qué quieres que sea diferente de la versión anterior?
 
-El prompt "escríbeme un email" produce resultados genéricos. El prompt "escríbeme un email para mi cliente Juan (empresa de 50 empleados, llevan con nosotros 3 años, están valorando renovar el contrato que vence en julio) para proponerle una reunión de revisión. Tono profesional pero cercano, no más de 150 palabras" produce algo usable.
+El prompt "escríbeme un email" produce resultados genéricos. El prompt "escríbeme un email para mi cliente Juan (empresa de 50 empleados, llevan con nosotros 3 años, están valorando renovar el contrató que vence en julio) para proponerle una reunión de revisión. Tono profesional pero cercano, no más de 150 palabras" produce algo usable.
 
 ---
 

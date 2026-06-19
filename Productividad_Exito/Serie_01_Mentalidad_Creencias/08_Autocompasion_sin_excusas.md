@@ -45,7 +45,7 @@ La autocompasión, concepto desarrollado extensamente por la investigadora Krist
 
 **2. Humanidad compartida:** Reconocer que el error y el sufrimiento son parte de la experiencia humana. "No soy el único que falla. Todo el mundo comete errores y se siente insuficiente a veces."
 
-**3. Bondad hacia uno mismo:** Tratarse con la misma amabilidad que trataríamos a un amigo cercano en la misma situación.
+**3. Bondad hacía uno mismo:** Tratarse con la misma amabilidad que trataríamos a un amigo cercano en la misma situación.
 
 **Lo que la autocompasión NO es:**
 - No es autoindulgencia: no es excusar la mediocridad ni eliminar la responsabilidad.
@@ -56,7 +56,7 @@ Isabel, que lleva 25 años perfeccionándose, asumió durante décadas que ser i
 
 ---
 
-## Capítulo 3: La neurociencia detrás del trato amable
+## Capítulo 3: La neurociencia detrás del trató amable
 
 El cerebro humano tiene dos sistemas de regulación emocional relevantes aquí:
 
@@ -67,7 +67,7 @@ Activa la respuesta de lucha, huida o parálisis. La autocrítica severa activa 
 Activa la respuesta de seguridad, calma y conexión. Se activa con el calor social, el contacto físico, la bondad recibida y la autocompasión. Este sistema libera oxitocina y activa el sistema nervioso parasimpático.
 
 **Las implicaciones prácticas:**
-Cuando uno se castiga después de un error, el cerebro interpreta esa autocrítica como una amenaza adicional. Cuando uno se trata con amabilidad, el cerebro registra seguridad. Desde la seguridad, el aprendizaje y la corrección son mucho más efectivos.
+Cuando uno se castiga después de un error, el cerebro interpreta esa autocrítica cómo una amenaza adicional. Cuando uno se trata con amabilidad, el cerebro registra seguridad. Desde la seguridad, el aprendizaje y la corrección son mucho más efectivos.
 
 ---
 
@@ -140,7 +140,7 @@ Isabel empezó a notar cuántas de sus autocríticas eran generalizaciones etern
 
 ## Capítulo 8: La práctica — autocompasión en tiempo real
 
-La autocompasión no se practica solo en los momentos de crisis. Tiene prácticas cotidianas.
+La autocompasión no se práctica solo en los momentos de crisis. Tiene prácticas cotidianas.
 
 **La pausa de autocompasión (Neff):**
 Cuando sientas malestar, haz una pausa y di mentalmente o en voz baja:
@@ -160,7 +160,7 @@ Registrar una imperfección propia por día, seguida de "y no soy el único al q
 
 ## Capítulo 9: Autocompasión y exigencia — no son opuestos
 
-El temor más común: "si me trato bien, dejaré de esforzarme".
+El temor más común: "si me trató bien, dejaré de esforzarme".
 
 La investigación no lo respalda. De hecho, las personas con alta autocompasión tienden a:
 
@@ -169,15 +169,15 @@ La investigación no lo respalda. De hecho, las personas con alta autocompasión
 - Recibir mejor el feedback crítico (porque su autoestima no depende de la perfección)
 - Rendir de forma más consistente a largo plazo (porque no se agotan)
 
-La exigencia sin autocompasión funciona como un sprint: intensa, insostenible. La exigencia con autocompasión funciona como un entrenamiento de fondo: constante, adaptativa, duradera.
+La exigencia sin autocompasión funciona cómo un sprint: intensa, insostenible. La exigencia con autocompasión funciona cómo un entrenamiento de fondo: constante, adaptativa, duradera.
 
 ---
 
 ## Capítulo 10: El giro de Rubén
 
-Rubén no cambió de golpe. Cambió en pequeños actos de reconocimiento.
+Rubén no cambio de golpe. Cambió en pequeños actos de reconocimiento.
 
-La próxima vez que perdió el tiempo en lugar de trabajar, en lugar de atacarse, se preguntó: "¿Qué le diría a un amigo que estuviera evitando este proyecto?"
+La próxima vez que perdio el tiempo en lugar de trabajar, en lugar de atacarse, se preguntó: "¿Qué le diría a un amigo que estuviera evitando este proyecto?"
 
 La respuesta fue: "Probablemente tiene miedo de que no salga bien. ¿Qué es lo más pequeño que puede hacer ahora?"
 

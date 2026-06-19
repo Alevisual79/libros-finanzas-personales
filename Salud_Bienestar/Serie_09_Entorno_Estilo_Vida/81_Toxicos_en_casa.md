@@ -56,7 +56,7 @@ Los plásticos que contienen alimentos no son todos iguales.
 **Los más problemáticos:**
 - **Plásticos con BPA (bisfenol A):** Disruptor endocrino ampliamente estudiado. Muchos fabricantes han eliminado el BPA de sus productos, pero los sustitutos (BPS, BPF) tienen perfiles de seguridad similares o peores.
 - **PVC (policloruro de vinilo):** Puede contener ftalatos como plastificantes.
-- **Poliestireno expandido:** Migra estireno hacia los alimentos, especialmente calientes.
+- **Poliestireno expandido:** Migra estireno hacía los alimentos, especialmente calientes.
 
 **Los cambios prácticos:**
 - No calentar comida en recipientes de plástico (usar cristal o cerámica)
@@ -162,11 +162,11 @@ Algunas exposiciones ambientales dependen del lugar de residencia, del trabajo o
 
 ## Capítulo 10: Un hogar menos tóxico — sin obsesión
 
-Miguel empezó a revisar los productos que usaba. No lo tiró todo. Hizo una lista de lo que usaba más y buscó alternativas para los que más preocupaban.
+Miguel empezó a revisar los productos que usaba. No lo tiró todo. Hizo una lista de lo que usaba más y busco alternativas para los que más preocupaban.
 
 Cambió el ambientador en spray (aerosol, VOCs, fragancias sintéticas) por una planta aromática y ventilación. Cambió el limpiamultiusos por una solución de agua y jabón de castilla. Compró un filtro de jarra.
 
-No cambió el quitamanchas industrial porque el casero no funcionaba igual. No cambió el limpiabaños porque usarlo en pequeñas cantidades una vez a la semana le parecía razonable.
+No cambio el quitamanchas industrial porque el casero no funcionaba igual. No cambio el limpiabaños porque usarlo en pequeñas cantidades una vez a la semana le parecía razonable.
 
 El objetivo no es la pureza. Es la reducción inteligente de la exposición innecesaria.
 

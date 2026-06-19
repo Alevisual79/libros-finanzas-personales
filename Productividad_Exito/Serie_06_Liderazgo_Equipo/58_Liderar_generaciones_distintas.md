@@ -58,7 +58,7 @@ Los marcos generacionales, si se sobreutilizan, crean divisiones que no ayudan. 
 Independientemente de la generación, las personas necesitan sentir que su trabajo importa, que son competentes, que son tratadas con respeto, y que tienen algún control sobre su trabajo.
 
 **Los valores compartidos:**
-La honestidad, el respeto, el trato justo, las oportunidades de crecimiento: estos valores no son generacionales. Son humanos.
+La honestidad, el respeto, el trató justo, las oportunidades de crecimiento: estos valores no son generacionales. Son humanos.
 
 **La perspectiva del mentor:**
 "Las personas de diferentes generaciones no son diferentes en sus necesidades fundamentales. Son diferentes en cómo esperan que esas necesidades sean satisfechas."
@@ -74,7 +74,7 @@ La experiencia respetada, la estabilidad, la claridad sobre las expectativas y e
 Asumir que resisten el cambio por principio. Frecuentemente resisten cambios específicos cuando el "por qué" no ha sido bien explicado, no el cambio en general.
 
 **Lo que funciona:**
-Explicar el contexto y la razón detrás de los cambios. Reconocer explícitamente el valor de la experiencia acumulada. Involucrarlos en la transición de conocimiento hacia generaciones más jóvenes, no como salida sino como contribución de alto valor.
+Explicar el contexto y la razón detrás de los cambios. Reconocer explícitamente el valor de la experiencia acumulada. Involucrarlos en la transición de conocimiento hacía generaciones más jóvenes, no como salida sino como contribución de alto valor.
 
 ---
 
@@ -164,7 +164,7 @@ Horario de trabajo, herramientas de comunicación, formas de colaborar. Aquí ha
 
 Isabel llegó a un acuerdo con su equipo: resultados claros y métricas compartidas como elementos no negociables. Flexibilidad en cómo, cuándo y desde dónde se lograban esos resultados, dentro de los límites que el trabajo y el cliente requerían.
 
-El equipo de cuatro generaciones no se volvió homogéneo. Se volvió complementario.
+El equipo de cuatro generaciones no se volvio homogéneo. Se volvio complementario.
 
 ---
 

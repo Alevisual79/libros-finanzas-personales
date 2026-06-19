@@ -196,7 +196,7 @@ Fórceps, ventosa: instrumentos para ayudar en la expulsión cuando hay dificult
 ## Capítulo 10: Los primeros días — el posparto inmediato
 
 **El piel con piel:**
-El contacto piel con piel inmediato del recién nacido con la madre (o el padre si la madre no puede) tiene efectos documentados: regulación térmica del bebé, inicio de la lactancia, vinculación.
+El contacto piel con piel inmediato del recién nacido con la madre (o el padre si la madre no puede) tiene efectos documentados: regulación térmica del bebé, inició de la lactancia, vinculación.
 
 **La lactancia:**
 La lactancia materna tiene beneficios bien documentados para el bebé (menor incidencia de infecciones, atopia, síndrome de muerte súbita) y para la madre (reducción del riesgo de cáncer de mama y ovario, recuperación uterina). Pero la lactancia puede ser difícil y no siempre es posible. La lactancia artificial bien preparada es una alternativa totalmente válida.

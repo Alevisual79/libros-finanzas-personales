@@ -7,9 +7,9 @@
 
 ## Prólogo: Las decisiones invisibles
 
-Rubén no sabía que un algoritmo había decidido que no vería la oferta de trabajo que cambió la carrera de su amigo. El algoritmo de LinkedIn consideró que su perfil no encajaba con los parámetros de búsqueda del reclutador.
+Rubén no sabía que un algoritmo había decidido que no vería la oferta de trabajo que cambio la carrera de su amigo. El algoritmo de LinkedIn consideró que su perfil no encajaba con los parámetros de búsqueda del reclutador.
 
-Tampoco sabía que el interés que pagaba por su tarjeta de crédito era el resultado de un modelo de riesgo crediticio entrenado en millones de historiales. O que la ruta que su GPS eligió esa mañana fue calculada por un algoritmo que balanceó tiempo, distancia, consumo y datos de tráfico en tiempo real.
+Tampoco sabía que el interés que pagaba por su tarjeta de crédito era el resultado de un modeló de riesgo crediticio entrenado en millones de historiales. O que la ruta que su GPS eligió esa mañana fue calculada por un algoritmo que balanceó tiempo, distancia, consumo y datos de tráfico en tiempo real.
 
 Los algoritmos toman decisiones que afectan nuestras vidas constantemente. La mayoría de las personas no sabe que ocurre, mucho menos cómo.
 
@@ -79,9 +79,9 @@ Mucho más invisible pero de mayor impacto en vidas concretas: los algoritmos qu
 
 ## Capítulo 5: Los sesgos algorítmicos en la práctica
 
-ProPublica publicó en 2016 un análisis del algoritmo COMPAS de predicción de reincidencia usado en el sistema judicial de EEUU. Los hallazgos fueron perturbadores: el sistema era sistemáticamente más severo con acusados negros y más benévolo con acusados blancos.
+ProPublica publico en 2016 un análisis del algoritmo COMPAS de predicción de reincidencia usado en el sistema judicial de EEUU. Los hallazgos fueron perturbadores: el sistema era sistemáticamente más severo con acusados negros y más benévolo con acusados blancos.
 
-La empresa que desarrolló COMPAS argumentó que el algoritmo era igualmente preciso para ambos grupos raciales. ProPublica respondió que la igualdad de precisión no es lo mismo que la igualdad de impacto cuando la tasa base de reincidencia difiere entre grupos.
+La empresa que desarrollo COMPAS argumentó que el algoritmo era igualmente preciso para ambos grupos raciales. ProPublica respondió que la igualdad de precisión no es lo mismo que la igualdad de impacto cuando la tasa base de reincidencia difiere entre grupos.
 
 Este caso ilustra el problema central: los algoritmos entrenados en datos históricos reproducen y a veces amplifican las inequidades del pasado. Un sistema de crédito entrenado en datos de una época en que ciertas comunidades tenían menos acceso al crédito aprende que esas comunidades son de mayor riesgo, perpetuando la exclusión.
 
@@ -93,9 +93,9 @@ Uno de los problemas más serios de los algoritmos de IA modernos es su opacidad
 
 Los modelos de deep learning con miles de millones de parámetros producen outputs sin que sea posible explicar paso a paso por qué tomaron esa decisión. Son cajas negras.
 
-Cuando un banco rechaza una solicitud de préstamo basándose en un modelo de riesgo de este tipo, el solicitante tiene derecho a saber por qué fue rechazado. Pero el banco puede no ser capaz de explicarlo de forma comprensible.
+Cuando un banco rechaza una solicitud de préstamo basándose en un modeló de riesgo de este tipo, el solicitante tiene derecho a saber por qué fue rechazado. Pero el banco puede no ser capaz de explicarlo de forma comprensible.
 
-El campo de la **explicabilidad de la IA** (XAI, Explainable AI) trabaja en técnicas para hacer los modelos más interpretables: LIME, SHAP, y otros métodos que aproximan cómo el modelo llegó a una decisión específica.
+El campo de la **explicabilidad de la IA** (XAI, Explainable AI) trabaja en técnicas para hacer los modelos más interpretables: LIME, SHAP, y otros métodos que aproximan cómo el modeló llegó a una decisión específica.
 
 El Reglamento General de Protección de Datos europeo (GDPR) establece el "derecho a la explicación" para decisiones automatizadas que afectan significativamente a las personas. Su implementación práctica es todavía inconsistente.
 
@@ -107,7 +107,7 @@ Más allá de la clasificación y la recomendación, hay una clase de algoritmos
 
 **Logística:** UPS usa un algoritmo llamado ORION que optimiza las rutas de sus conductores minimizando giros a la izquierda (más lentos y peligrosos en el sistema de carreteras americano). Se estima que ahorra 100 millones de millas anuales.
 
-**Generación eléctrica:** Google DeepMind redujo el consumo de energía de refrigeración de sus centros de datos un 40% usando un algoritmo de aprendizaje por refuerzo.
+**Generación eléctrica:** Google DeepMind redujó el consumo de energía de refrigeración de sus centros de datos un 40% usando un algoritmo de aprendizaje por refuerzo.
 
 **Agricultura de precisión:** Algoritmos que analizan imágenes satelitales, datos de sensores de suelo y previsiones meteorológicas para optimizar riego, fertilización y cosecha.
 
@@ -153,7 +153,7 @@ La tendencia en algoritmos de IA va en dos direcciones aparentemente contradicto
 
 Esta combinación —más potentes y más invisibles— hace que la comprensión ciudadana de cómo funcionan sea más urgente, no menos.
 
-El Reglamento de IA de la Unión Europea (AI Act), aprobado en 2024, es el primer marco regulatorio integral de la IA que clasifica los sistemas por nivel de riesgo y establece requisitos proporcionales. Es el primer paso de un proceso regulatorio global que llevará décadas.
+El Reglamento de IA de la Unión Europea (AI Act), aprobado en 2024, es el primer marcó regulatorio integral de la IA que clasifica los sistemas por nivel de riesgo y establece requisitos proporcionales. Es el primer paso de un proceso regulatorio global que llevará décadas.
 
 Rubén no puede auditar el algoritmo de LinkedIn. Pero puede entender que existe, qué optimiza y qué limitaciones tiene. Esa comprensión le permite usarlo de forma más estratégica y no confundir el resultado del algoritmo con la realidad.
 

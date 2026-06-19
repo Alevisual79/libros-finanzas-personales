@@ -1,4 +1,4 @@
-﻿# Automatización sin miedo
+# Automatización sin miedo
 ## Qué automatizar, qué no, y cómo hacer la transición
 
 **Serie 2: IA en el Trabajo — Libro 5 de 10**
@@ -98,7 +98,7 @@ Lo que antes llevaba dos días de una persona ahora lleva dos horas del agente. 
 
 ## Capítulo 7: La gestión del cambio en la automatización
 
-La automatización cambia los procesos y, con ellos, los roles. Gestionar ese cambio es tan importante como la implementación técnica.
+La automatización cambia los procesos y, con ellos, los roles. Gestionar ese cambio es tan importante cómo la implementación técnica.
 
 **Comunicar el por qué:** Las personas se resisten menos a la automatización cuando entienden que el objetivo es liberar tiempo para trabajo más valioso, no reducir plantilla.
 

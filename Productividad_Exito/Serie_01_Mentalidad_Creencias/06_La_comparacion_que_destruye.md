@@ -56,22 +56,22 @@ La investigación sobre el uso de redes sociales y bienestar muestra consistente
 - Reducción de la motivación intrínseca (trabajas para demostrar a otros, no por el valor del trabajo en sí)
 
 **El efecto sobre el rendimiento:**
-La comparación constante desvía los recursos cognitivos y emocionales del trabajo hacia la evaluación de la propia posición relativa. Es tiempo y energía que no va al proyecto.
+La comparación constante desvía los recursos cognitivos y emocionales del trabajo hacía la evaluación de la propia posición relativa. Es tiempo y energía que no va al proyecto.
 
 ---
 
-## Capítulo 4: La comparación hacia arriba y hacia abajo
+## Capítulo 4: La comparación hacía arriba y hacía abajo
 
 Hay dos direcciones de comparación social.
 
-**La comparación hacia arriba:**
+**La comparación hacía arriba:**
 Compararse con quienes están por encima. Puede ser motivadora en pequeñas dosis (ver lo que es posible) pero es dañina cuando se convierte en patrón porque el "arriba" es infinito.
 
-**La comparación hacia abajo:**
+**La comparación hacía abajo:**
 Compararse con quienes están por debajo. Produce satisfacción temporal y puede ser útil para la autoestima en momentos de baja, pero no genera crecimiento.
 
-**La trampa de la comparación hacia arriba en redes sociales:**
-Las redes sociales son un sistema de comparación hacia arriba infinita. Siempre hay alguien más exitoso, más visible, más avanzado. La comparación hacia arriba en este contexto es un juego que no se puede ganar.
+**La trampa de la comparación hacía arriba en redes sociales:**
+Las redes sociales son un sistema de comparación hacía arriba infinita. Siempre hay alguien más exitoso, más visible, más avanzado. La comparación hacía arriba en este contexto es un juego que no se puede ganar.
 
 ---
 
@@ -92,7 +92,7 @@ No "¿cómo estoy respecto a los demás?" sino "¿cómo estoy respecto a donde e
 
 ## Capítulo 6: La envidia — cuando la comparación duele
 
-La envidia es la emoción que acompaña a la comparación dolorosa hacia arriba: el otro tiene algo que yo quiero y que no tengo.
+La envidia es la emoción que acompaña a la comparación dolorosa hacía arriba: el otro tiene algo que yo quiero y que no tengo.
 
 **La envidia benigna:**
 Inspira. "Él/ella tiene lo que quiero. Es posible. Voy a trabajar para conseguirlo."
@@ -114,7 +114,7 @@ El éxito se define por comparación con otros. Estás bien si estás mejor que 
 El estándar externo es infinito y no está bajo tu control. Siempre habrá alguien con más. Siempre habrá días en que otros avanzan más. Depender del estándar externo es depender de algo que no controlas para tu bienestar.
 
 **El estándar interno:**
-El éxito se define por tus propios criterios: ¿Estás avanzando hacia lo que quieres? ¿Estás siendo fiel a tus valores? ¿Estás aprendiendo?
+El éxito se define por tus propios criterios: ¿Estás avanzando hacía lo que quieres? ¿Estás siendo fiel a tus valores? ¿Estás aprendiendo?
 
 Este estándar está bajo tu control. Produce motivación intrínseca y bienestar independiente del position relativa.
 
@@ -131,7 +131,7 @@ El primer paso es reducir la cantidad de comparación asimétrica que se consume
 De consumo pasivo (scrollear) a uso activo (contactar con personas específicas, compartir trabajo propio, aprender de alguien en particular). El uso activo tiene una correlación más positiva con el bienestar.
 
 **Contexto del proceso:**
-Cuando veas un logro que produce envidia, pregúntate: ¿Qué no veo? ¿Cuántos años de trabajo hay detrás de este resultado? ¿Qué ha sacrificado esta persona para llegar aquí?
+Cuando veas un logró que produce envidia, pregúntate: ¿Qué no veo? ¿Cuántos años de trabajo hay detrás de este resultado? ¿Qué ha sacrificado esta persona para llegar aquí?
 
 **El registro del propio progreso:**
 Mantener un registro del propio avance (semanal, mensual) crea un banco de evidencia del propio progreso que contrarresta la comparación.
@@ -164,7 +164,7 @@ No para siempre. Solo un experimento de un mes.
 
 Las primeras dos semanas, el impulso de abrirlo era constante, especialmente cuando el trabajo del proyecto se ponía difícil y el cerebro buscaba distracción.
 
-La tercera semana, algo cambió. Empezó a medir el propio avance por el avance del proyecto, no por la comparación con lo que veía en las pantallas de otros.
+La tercera semana, algo cambio. Empezó a medir el propio avance por el avance del proyecto, no por la comparación con lo que veía en las pantallas de otros.
 
 "Es más difícil sentirte mal por lo que tienes cuando no estás mirando todo el tiempo lo que tienen los demás."
 

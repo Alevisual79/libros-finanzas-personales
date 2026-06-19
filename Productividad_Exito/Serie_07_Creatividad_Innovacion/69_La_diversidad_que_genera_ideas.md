@@ -39,7 +39,7 @@ Diferentes formas de procesar información y de enfocar problemas. Personas que 
 Diferentes formaciones académicas y profesionales. Un equipo de producto con ingenieros, diseñadores, economistas y psicólogos ve el producto de formas que ninguna disciplina sola puede ver.
 
 **Diversidad de experiencia:**
-Diferentes trayectorias profesionales y vitales. La persona que trabajó cinco años en una gran empresa y cinco como freelance tiene una perspectiva distinta de quien solo ha conocido uno de los dos mundos.
+Diferentes trayectorias profesionales y vitales. La persona que trabajo cinco años en una gran empresa y cinco como freelance tiene una perspectiva distinta de quien solo ha conocido uno de los dos mundos.
 
 **Diversidad demográfica:**
 Género, edad, cultura, contexto socioeconómico. Produce acceso a perspectivas de grupos de usuarios que de otra forma serían puntos ciegos.
@@ -60,7 +60,7 @@ La diversidad de perspectiva —que las personas traigan genuinamente formas dis
 
 ## Capítulo 4: Los obstáculos para aprovechar la diversidad
 
-Un equipo diverso no produce automáticamente pensamiento más rico. La diversidad tiene que crearse las condiciones para que produzca su potencial.
+Un equipo diverso no produce automáticamente pensamiento más rico. La diversidad tiene que crearse las condiciones para qué produzca su potencial.
 
 **El problema de la conformidad:**
 En grupos con jerarquía clara o cultura dominante fuerte, las perspectivas minoritarias tienden a silenciarse. Los miembros del grupo que no pertenecen a la perspectiva dominante aprenden que cuestionar esa perspectiva no es bienvenido.
@@ -107,7 +107,7 @@ La inclusión no ocurre sola. Requiere que el liderazgo trabaje activamente para
 ## Capítulo 7: La diversidad en la práctica del trabajo creativo
 
 **Las revisiones de perspectivas múltiples:**
-Antes de finalizar un trabajo creativo significativo (un producto, una campaña, una estrategia), someterlo al escrutinio deliberado de personas con perspectivas radicalmente diferentes al equipo que lo creó.
+Antes de finalizar un trabajo creativo significativo (un producto, una campaña, una estrategia), someterlo al escrutinio deliberado de personas con perspectivas radicalmente diferentes al equipo que lo creo.
 
 **Los paneles de usuarios diversos:**
 Cuando se diseña para un grupo diverso de usuarios, el testeo con ese grupo diverso (no solo con personas similares al equipo) produce feedback que los usuarios similares al equipo no pueden dar.

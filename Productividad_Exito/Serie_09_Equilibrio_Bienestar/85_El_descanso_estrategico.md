@@ -6,7 +6,7 @@
 
 ---
 
-## Prólogo: El sábado que cambió el resultado del lunes
+## Prólogo: El sábado que cambio el resultado del lunes
 
 Isabel tenía la costumbre de trabajar los sábados. Solo unas horas, para adelantar la semana siguiente.
 
@@ -20,11 +20,11 @@ El descanso no había retrasado su trabajo. Lo había mejorado.
 
 ## Capítulo 1: El descanso como parte del trabajo, no su ausencia
 
-La cultura del alto rendimiento trata el descanso como la negación del trabajo. El tiempo que no se trabaja es tiempo perdido.
+La cultura del alto rendimiento trata el descanso cómo la negación del trabajo. El tiempo que no se trabaja es tiempo perdido.
 
 Esta visión es fisiológicamente incorrecta.
 
-**El modelo del músculo:**
+**El modeló del músculo:**
 El entrenamiento muscular produce microrroturas en las fibras musculares. El crecimiento muscular ocurre durante el descanso posterior al entrenamiento, cuando el cuerpo repara esas fibras haciéndolas más fuertes. Sin el descanso, no hay crecimiento. Más entrenamiento sin recuperación produce lesión, no fuerza.
 
 **El paralelo cognitivo:**
@@ -107,7 +107,7 @@ Las vacaciones son el período de descanso profundo más importante del año. Y 
 
 **Las vacaciones que no descansan:**
 - Llevar el portátil con intención de "revisar solo el correo urgente"
-- Llenarse la agenda de actividades tan exigentes como la agenda laboral
+- Llenarse la agenda de actividades tan exigentes cómo la agenda laboral
 - Estar disponible por teléfono para el equipo durante todo el período
 - No desconectar mentalmente aunque se esté físicamente fuera
 
@@ -156,24 +156,24 @@ La retomó. Una tarde al mes en un taller. El impacto en su energía general fue
 
 ---
 
-## Capítulo 9: Diseñar el descanso como se diseña el trabajo
+## Capítulo 9: Diseñar el descanso cómo se diseña el trabajo
 
 Si el descanso no está en el calendario, no ocurre. Las personas de alto rendimiento tienen agendas detalladas para el trabajo y nada para el descanso. El resultado: el descanso siempre cede ante lo que sí tiene agenda.
 
 **El calendario del descanso:**
-- Hora de finalizar el trabajo cada día (con la misma seriedad que la hora de inicio)
+- Hora de finalizar el trabajo cada día (con la misma seriedad que la hora de inició)
 - Fin de semana real (sin trabajo, protegido como el tiempo de mayor valor)
 - Vacaciones en el calendario a principios de año (antes de que el trabajo llene todos los huecos)
 - Bloques de ocio de calidad (aunque solo sean dos horas a la semana)
 
 **La programación defensiva:**
-Algunos períodos de descanso son fáciles de defender. Otros requieren activamente rechazar demandas de trabajo. Esta habilidad — proteger el descanso de las demandas de trabajo — es tan importante como la habilidad de proteger el trabajo de las distracciones.
+Algunos períodos de descanso son fáciles de defender. Otros requieren activamente rechazar demandas de trabajo. Esta habilidad — proteger el descanso de las demandas de trabajo — es tan importante cómo la habilidad de proteger el trabajo de las distracciones.
 
 ---
 
 ## Capítulo 10: Las dos semanas de Isabel
 
-Cuando Isabel volvió de sus dos semanas de desconexión real, convocó al equipo para revisar las prioridades de la segunda mitad del año.
+Cuando Isabel volvio de sus dos semanas de desconexión real, convocó al equipo para revisar las prioridades de la segunda mitad del año.
 
 Veía todo con claridad diferente. Dos proyectos que habían parecido igualmente urgentes se ordenaron solos en su mente. La solución a un problema que llevaba semanas bloqueada llegó en la primera sesión de trabajo.
 

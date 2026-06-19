@@ -22,7 +22,7 @@ No es que la píldora sea mala. Es que existe una amplia variedad de métodos an
 El índice de Pearl mide el número de embarazos que ocurren en 100 mujeres que usan el método durante un año. Cuanto más bajo, más eficaz.
 
 **Dos tipos de eficacia:**
-- **Uso perfecto (perfect use):** la eficacia cuando el método se usa exactamente como se debe en todo momento
+- **Uso perfecto (perfect use):** la eficacia cuando el método se usa exactamente cómo se debe en todo momento
 - **Uso típico (typical use):** la eficacia real que incluye los errores y olvidos humanos
 
 La diferencia entre los dos mide el "margen de error humano" del método.
@@ -82,7 +82,7 @@ Se inserta en la vagina durante 3 semanas, se retira la cuarta. Mismos principio
 Opción para quienes tienen contraindicación a los estrógenos.
 
 **La minipíldora:**
-Toma diaria estricta (sin margen de olvido como la combinada). Opciones: desogestrel (Cerazette y genéricos) con mayor margen de olvido (12 horas vs. 3 horas del levonorgestrel clásico).
+Toma diaria estricta (sin margen de olvido cómo la combinada). Opciones: desogestrel (Cerazette y genéricos) con mayor margen de olvido (12 horas vs. 3 horas del levonorgestrel clásico).
 
 **La inyección anticonceptiva (Depo-Provera):**
 Acetato de medroxiprogesterona, una inyección cada 3 meses. Eficaz, pero la recuperación de la fertilidad puede tardar hasta 1 año o más tras su suspensión.

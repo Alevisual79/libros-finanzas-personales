@@ -11,7 +11,7 @@
 
 Elena tiene 34 años y trabaja como ingeniera de software en una empresa de servicios financieros. Lleva seis meses usando IA en su trabajo diario y siente que ha multiplicado su capacidad por tres. Pero también siente una angustia que no sabe muy bien cómo nombrar: ¿qué pasa cuando la IA pueda hacer lo que ella hace mejor que ella?
 
-Rubén tiene 29 años y es marketer freelance. Empezó a usar herramientas de IA para generar contenido más rápido. Tardó poco en darse cuenta de que sus clientes también podían usarlas. Su precio por hora, que siempre había sido su principal ventaja, ya no es tan diferencial. Necesita reinventarse, pero no sabe exactamente hacia dónde.
+Rubén tiene 29 años y es marketer freelance. Empezó a usar herramientas de IA para generar contenido más rápido. Tardó poco en darse cuenta de que sus clientes también podían usarlas. Su precio por hora, que siempre había sido su principal ventaja, ya no es tan diferencial. Necesita reinventarse, pero no sabe exactamente hacía dónde.
 
 Isabel tiene 52 años y dirige el departamento de recursos humanos de una empresa mediana. Sus hijos le hablan de ChatGPT. Su CEO le pide una estrategia de IA. Sus empleados la usan ya sin decírselo. Se siente entre dos mundos: demasiado mayor para ser nativa digital, demasiado inteligente para ignorar lo que está pasando.
 
@@ -25,7 +25,7 @@ El Método NOVA existe para ellos. Y para ti.
 
 ## Qué es el Método NOVA
 
-NOVA es el marco que organiza esta colección de 100 libros sobre inteligencia artificial aplicada.
+NOVA es el marcó que organiza esta colección de 100 libros sobre inteligencia artificial aplicada.
 
 **N — Narrativa:** Entender la historia, el contexto y los conceptos fundamentales de la IA. No para ser experto: para no ser engañado. Para leer entre líneas cuando la prensa habla de "superinteligencia". Para entender qué es real y qué es marketing.
 
@@ -41,9 +41,9 @@ NOVA es el marco que organiza esta colección de 100 libros sobre inteligencia a
 
 La historia de la inteligencia artificial tiene setenta años. La mayor parte de ese tiempo fue promesas incumplidas y "inviernos de la IA": períodos de desilusión donde los fondos se cortaban y el entusiasmo se enfriaba.
 
-Noviembre de 2022 cambió algo.
+Noviembre de 2022 cambio algo.
 
-El lanzamiento de ChatGPT al público general fue un momento bisagra. No porque ChatGPT fuera la primera IA de lenguaje avanzada —GPT-3 llevaba años disponible para investigadores—, sino porque fue la primera vez que cualquier persona podía acceder a una interfaz conversacional con un modelo de lenguaje de gran escala. Cien millones de usuarios en dos meses. El producto de adopción más rápida de la historia tecnológica.
+El lanzamiento de ChatGPT al público general fue un momento bisagra. No porque ChatGPT fuera la primera IA de lenguaje avanzada —GPT-3 llevaba años disponible para investigadores—, sino porque fue la primera vez que cualquier persona podía acceder a una interfaz conversacional con un modeló de lenguaje de gran escala. Cien millones de usuarios en dos meses. El producto de adopción más rápida de la historia tecnológica.
 
 Desde entonces, la curva no se ha aplanado. Se ha acelerado.
 
@@ -229,7 +229,7 @@ La IA libera tiempo. Qué se hace con ese tiempo es la pregunta más importante.
 
 El Método NOVA no promete convertirte en experto en IA.
 
-Promete darte el marco para entender lo que importa, las herramientas para actuar sobre ello y el hábito de adaptarte cuando el paisaje cambia, que cambia constantemente.
+Promete darte el marcó para entender lo que importa, las herramientas para actuar sobre ello y el hábito de adaptarte cuando el paisaje cambia, que cambia constantemente.
 
 Los 100 libros de esta colección se pueden leer en cualquier orden. Pero tienen una dirección: de la comprensión a la aplicación, de la aplicación a la reflexión, de la reflexión a la transformación.
 

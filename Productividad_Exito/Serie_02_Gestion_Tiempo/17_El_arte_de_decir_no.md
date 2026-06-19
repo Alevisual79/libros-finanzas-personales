@@ -42,7 +42,7 @@ Paradójicamente, decir sí a todo frecuentemente daña la reputación a largo p
 
 Si decir no es tan beneficioso, ¿por qué nos cuesta tanto?
 
-**El miedo al rechazo:**
+**El miedo al rechazó:**
 El ser humano tiene una necesidad profunda de aprobación social. Decir no se siente como arriesgarse a perder la aprobación. El sí da alivio inmediato aunque cree problemas a largo plazo.
 
 **La confusión entre no a la petición y no a la persona:**
@@ -60,15 +60,15 @@ Rubén ha dicho sí a proyectos que no le interesaban, a reuniones que no necesi
 
 ## Capítulo 3: El no como acto de respeto
 
-Hay una forma de ver el no que cambia el marco emocional: el no como acto de respeto, no de rechazo.
+Hay una forma de ver el no que cambia el marcó emocional: el no como acto de respeto, no de rechazó.
 
-**Respeto hacia la otra persona:**
+**Respeto hacía la otra persona:**
 Un sí que no se puede cumplir bien es menos respetuoso que un no honesto. Decirle a alguien "sí, lo hago" y luego hacerlo tarde, mal o a medias porque tenías demasiado, no le ayuda.
 
-**Respeto hacia uno mismo:**
-Los compromisos tienen que poder cumplirse. Aceptar más de lo que se puede asumir con calidad es irresponsable hacia los demás y destructivo para uno mismo.
+**Respeto hacía uno mismo:**
+Los compromisos tienen que poder cumplirse. Aceptar más de lo que se puede asumir con calidad es irresponsable hacía los demás y destructivo para uno mismo.
 
-**Respeto hacia el tiempo como recurso:**
+**Respeto hacía el tiempo como recurso:**
 Aceptar todo como si el tiempo fuera infinito es una ilusión que termina mal. El no honesto respeta la realidad.
 
 ---
@@ -107,9 +107,9 @@ No es un estándar de perfección. Es un estándar de verdadera prioridad.
 **Las consecuencias:**
 Al aplicar este filtro, muchos compromisos que antes se aceptaban automáticamente se vuelven dudosos. Algunos todavía merecen el sí. Muchos no.
 
-El resultado no es una vida de rechazo; es una vida de compromisos deliberados que se cumplen bien.
+El resultado no es una vida de rechazó; es una vida de compromisos deliberados que se cumplen bien.
 
-Isabel llegó a este estándar después de años de estar "siempre disponible para todo". El año que empezó a aplicarlo, trabajó menos horas y produjo resultados más significativos. Y las relaciones que importaban, en lugar de deteriorarse, mejoraron.
+Isabel llegó a este estándar después de años de estar "siempre disponible para todo". El año que empezó a aplicarlo, trabajo menos horas y produjó resultados más significativos. Y las relaciones que importaban, en lugar de deteriorarse, mejoraron.
 
 ---
 
@@ -178,7 +178,7 @@ Elena empezó pequeño.
 
 La primera semana, rechazó dos peticiones de asistencia a reuniones que no eran relevantes para su trabajo: "No puedo este miércoles, pero si se generan decisiones que me afectan, ¿me envías el resumen?"
 
-No pasó nada. Los que convocaron la reunión lo entendieron. Los resúmenes llegaron. Elena tuvo dos horas para trabajar en lo que importaba.
+No paso nada. Los que convocaron la reunión lo entendieron. Los resúmenes llegaron. Elena tuvo dos horas para trabajar en lo que importaba.
 
 La segunda semana, rechazó un proyecto adicional que le asignaron asumiendo que diría sí: "Ahora mismo tengo tres proyectos activos y no puedo añadir uno más con la calidad que merece. ¿Podemos hablar de qué se puede reasignar?"
 

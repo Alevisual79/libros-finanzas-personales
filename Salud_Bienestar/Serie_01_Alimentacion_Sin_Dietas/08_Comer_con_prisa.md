@@ -183,7 +183,7 @@ Diseña el sistema para tu vida real, con tus tiempos reales, tus limitaciones r
 
 Laura, con dos hijos y trabajo de profesora, pensaba que comer bien era para personas con tiempo libre.
 
-Después de implementar el meal prep del domingo y la nevera inteligente, la alimentación de su familia mejoró sin que el tiempo invertido aumentara. De hecho, al tener todo preparado, tardaba menos tiempo total que antes en "solucionar" las comidas improvisadas.
+Después de implementar el meal prep del domingo y la nevera inteligente, la alimentación de su familia mejoro sin que el tiempo invertido aumentara. De hecho, al tener todo preparado, tardaba menos tiempo total que antes en "solucionar" las comidas improvisadas.
 
 El siguiente libro, "Ultraprocesados: Lo que comes sin saber que comes", revela los ingredientes que entran en tu cuerpo cuando no tienes tiempo para leer etiquetas.
 

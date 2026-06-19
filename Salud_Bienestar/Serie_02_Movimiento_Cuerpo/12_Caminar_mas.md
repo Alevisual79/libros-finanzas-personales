@@ -29,7 +29,7 @@ El "efecto del paseo" es real: caminar, especialmente en entornos naturales, red
 Caminar regularmente se asocia con mayor volumen del hipocampo (centro de la memoria) y menor riesgo de deterioro cognitivo.
 
 **Longevidad:**
-Un meta-análisis de 2022 en Nature identificó que 8.000-10.000 pasos diarios se asocian con una reducción significativa de la mortalidad. Por encima de 10.000 pasos, los beneficios adicionales son marginales.
+Un meta-análisis de 2022 en Nature identifico que 8.000-10.000 pasos diarios se asocian con una reducción significativa de la mortalidad. Por encima de 10.000 pasos, los beneficios adicionales son marginales.
 
 ---
 
@@ -74,7 +74,7 @@ Los pasos no tienen que venir de "sesiones de ejercicio". Pueden acumularse en l
 - Ir a pie a recados que normalmente son en coche (si la distancia lo permite)
 - Caminar al hablar: reuniones de trabajo informales caminando
 
-La suma de pequeños pasos a lo largo del día es tan efectiva como una sesión concentrada de la misma duración.
+La suma de pequeños pasos a lo largo del día es tan efectiva cómo una sesión concentrada de la misma duración.
 
 ---
 
@@ -84,7 +84,7 @@ Una práctica específica con evidencia científica sólida.
 
 Una caminata de 10-15 minutos después de una comida reduce el pico de glucosa postprandial significativamente. El músculo activo consume glucosa directamente, reduciendo la necesidad de insulina.
 
-Para personas con prediabetes o diabetes tipo 2, esto puede ser tan efectivo como la medicación en el control de la glucosa postprandial.
+Para personas con prediabetes o diabetes tipo 2, esto puede ser tan efectivo cómo la medicación en el control de la glucosa postprandial.
 
 Para personas sanas, es una práctica de prevención.
 
@@ -161,7 +161,7 @@ El hábito de caminar es de los más fáciles de construir porque:
 - No requiere preparación
 - No requiere equipamiento especial
 - Se puede hacer en cualquier lugar
-- No genera el rechazo del ejercicio intenso
+- No genera el rechazó del ejercicio intenso
 
 **Para construirlo:**
 1. Definir un momento del día específico (después de comer, al salir del trabajo, por la mañana antes de ducharse)

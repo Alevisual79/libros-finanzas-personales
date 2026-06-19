@@ -158,13 +158,13 @@ La creatividad individual se multiplica en contextos colectivos con las condicio
 - Separación entre generación y evaluación: no juzgar mientras se genera
 - Tiempo y espacio deliberados: la creatividad no ocurre en los márgenes de la agenda
 
-Isabel creó un "café de ideas" mensual: dos horas sin agenda específica donde el equipo exploraba un problema real de trabajo con herramientas de pensamiento creativo. El rendimiento inicial era modesto. Al sexto mes, el equipo había generado tres mejoras de proceso que produjeron resultados medibles.
+Isabel creo un "café de ideas" mensual: dos horas sin agenda específica donde el equipo exploraba un problema real de trabajo con herramientas de pensamiento creativo. El rendimiento inicial era modesto. Al sexto mes, el equipo había generado tres mejoras de proceso que produjeron resultados medibles.
 
 ---
 
 ## Capítulo 10: El ingeniero que encontró su creatividad
 
-Rubén volvió a encontrar al ingeniero del prólogo seis meses después. Le preguntó en qué proyectos estaba trabajando.
+Rubén volvio a encontrar al ingeniero del prólogo seis meses después. Le preguntó en qué proyectos estaba trabajando.
 
 El ingeniero describió con entusiasmo una arquitectura de sistema que había diseñado para resolver un problema de escalabilidad. Era elegante, original, y funcionaba de una forma que ninguno de sus colegas había propuesto.
 

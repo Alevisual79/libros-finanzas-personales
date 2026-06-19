@@ -7,9 +7,9 @@
 
 ## Prólogo: El hijo de Elena explica el universo
 
-El hijo de Elena tenía nueve años y una curiosidad ilimitada. Cuando vio a su madre trabajar con ChatGPT, le preguntó: "¿Cómo sabe la máquina lo que tienes que escribir?"
+El hijo de Elena tenía nueve años y una curiosidad ilimitada. Cuando vió a su madre trabajar con ChatGPT, le preguntó: "¿Cómo sabe la máquina lo que tienes que escribir?"
 
-Elena intentó explicarlo. Se enredó en términos técnicos. Simplificó tanto que la explicación dejó de ser verdadera. El niño frunció el ceño.
+Elena intento explicarlo. Se enredó en términos técnicos. Simplificó tanto que la explicación dejó de ser verdadera. El niño frunció el ceño.
 
 "¿Es como cuando yo aprendo a andar en bici?" preguntó.
 
@@ -25,7 +25,7 @@ Primera conversación: Elena y su hijo en la cocina.
 
 "¿Las máquinas tienen neuronas?"
 
-No exactamente. Las neuronas artificiales son una metáfora matemática, no biológica. Una neurona real en tu cerebro recibe señales de miles de otras neuronas, las combina de alguna forma compleja, y si la combinación supera cierto umbral, "dispara" una señal hacia otras neuronas.
+No exactamente. Las neuronas artificiales son una metáfora matemática, no biológica. Una neurona real en tu cerebro recibe señales de miles de otras neuronas, las combina de alguna forma compleja, y si la combinación supera cierto umbral, "dispara" una señal hacía otras neuronas.
 
 Una neurona artificial hace algo matemáticamente similar pero mucho más simple: recibe números, los multiplica por unos pesos, los suma, aplica una función matemática al resultado, y produce un número de salida.
 
@@ -39,9 +39,9 @@ Segunda conversación: Rubén y el mentor, tomando café.
 
 "Entiendo que hay pesos. ¿Cómo se deciden esos pesos?"
 
-Al principio, al azar. Los pesos se inicializan con valores aleatorios. El modelo hace predicciones terribles.
+Al principio, al azar. Los pesos se inicializan con valores aleatorios. El modeló hace predicciones terribles.
 
-Luego viene el entrenamiento. Se le muestra un ejemplo, se calcula qué tan equivocado estuvo el modelo, y se ajustan los pesos en la dirección que reduce el error. Este ajuste se llama retropropagación del gradiente.
+Luego viene el entrenamiento. Se le muestra un ejemplo, se calcula qué tan equivocado estuvo el modeló, y se ajustan los pesos en la dirección que reduce el error. Este ajuste se llama retropropagación del gradiente.
 
 Imagina que estás en una montaña con los ojos cerrados e intentas llegar al valle. No puedes ver el paisaje completo, pero puedes sentir si el suelo sube o baja bajo tus pies. Cada paso lo das en la dirección que parece bajar. Eso es, en esencia, el descenso por gradiente.
 
@@ -110,7 +110,7 @@ No necesitas memorizar esto. Necesitas entender que son lo que hace posible que 
 
 ## Capítulo 7: "¿Por qué necesitan tanto dato?"
 
-Séptima conversación: Elena y Rubén, debatiendo sobre si entrenar un modelo propio.
+Séptima conversación: Elena y Rubén, debatiendo sobre si entrenar un modeló propio.
 
 Los modelos de deep learning tienen millones o miles de millones de parámetros. Para ajustar esos parámetros de forma útil, necesitan ver muchos ejemplos.
 
@@ -128,17 +128,17 @@ Octava conversación: Isabel leyendo sobre "alucinaciones" de la IA.
 
 Sí. Es uno de los problemas más importantes de los LLMs actuales.
 
-Un modelo de lenguaje produce texto prediciendo la palabra más probable dado el contexto. No tiene un mecanismo separado para verificar si lo que produce es verdadero. Produce texto plausible, no texto verificado.
+Un modeló de lenguaje produce texto prediciendo la palabra más probable dado el contexto. No tiene un mecanismo separado para verificar si lo que produce es verdadero. Produce texto plausible, no texto verificado.
 
 El resultado: los LLMs pueden generar información falsa con la misma fluidez y confianza que información verdadera. Esto se llama alucinación.
 
-Un modelo puede citar estudios científicos que no existen, inventar fechas históricas incorrectas, o describir procedimientos técnicos erróneos, todo con perfecta gramática y aparente autoridad.
+Un modeló puede citar estudios científicos que no existen, inventar fechas históricas incorrectas, o describir procedimientos técnicos erróneos, todo con perfecta gramática y aparente autoridad.
 
 La solución no es técnica únicamente: es también de diseño del uso. Los LLMs no son buscadores de hechos: son herramientas de texto. Usarlos para verificar hechos sin validación externa es un error de categoría.
 
 ---
 
-## Capítulo 9: "¿Cómo se evalúa si un modelo es bueno?"
+## Capítulo 9: "¿Cómo se evalúa si un modeló es bueno?"
 
 Novena conversación: Rubén mirando benchmarks de modelos.
 
@@ -150,9 +150,9 @@ Los benchmarks más usados incluyen:
 - **HellaSwag:** comprensión de sentido común
 - **TruthfulQA:** tendencia a generar respuestas verdaderas vs. plausibles pero falsas
 
-El problema: los modelos se entrenan (a veces inadvertidamente) con los benchmarks. Un modelo que puntúa bien en los benchmarks no necesariamente es mejor en usos del mundo real.
+El problema: los modelos se entrenan (a veces inadvertidamente) con los benchmarks. Un modeló que puntúa bien en los benchmarks no necesariamente es mejor en usos del mundo real.
 
-La evaluación más honesta es el uso práctico en el contexto específico en que se va a usar el modelo.
+La evaluación más honesta es el uso práctico en el contexto específico en que se va a usar el modeló.
 
 ---
 

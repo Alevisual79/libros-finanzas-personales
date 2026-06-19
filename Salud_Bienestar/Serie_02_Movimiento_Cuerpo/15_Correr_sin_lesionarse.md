@@ -138,7 +138,7 @@ Hay diferentes tipos de dolor y no todos significan lo mismo.
 
 **Dolor que persiste durante toda la sesión:** Señal de alerta. Bajar la intensidad o parar.
 
-**Dolor que empeora con el ejercicio:** Parar. Puede ser inicio de lesión.
+**Dolor que empeora con el ejercicio:** Parar. Puede ser inició de lesión.
 
 **Dolor articular (rodilla, tobillo, cadera):** Siempre merece atención. Diferente al dolor muscular.
 

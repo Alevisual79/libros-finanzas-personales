@@ -8,9 +8,9 @@
 
 ## Prólogo: El experimento que nadie esperaba
 
-En 2015, la empresa Tower Paddle Boards en San Diego redujo la jornada laboral de su equipo a cinco horas al día, sin reducción salarial.
+En 2015, la empresa Tower Paddle Boards en San Diego redujó la jornada laboral de su equipo a cinco horas al día, sin reducción salarial.
 
-Oren Bloostein, el CEO, esperaba resistencia. Esperaba problemas de productividad. Lo que obtuvo fue diferente: en el primer año, los beneficios de la empresa aumentaron un 40%.
+Oren Bloostein, el CEO, esperaba resistencia. Esperaba problemas de productividad. Lo que obtuvó fue diferente: en el primer año, los beneficios de la empresa aumentaron un 40%.
 
 Los empleados, con cinco horas para hacer el mismo trabajo, eliminaron las pérdidas de tiempo, trabajaron con más intensidad durante esas horas y encontraron formas más eficientes de hacer las cosas.
 
@@ -46,7 +46,7 @@ Si tienes ocho horas para hacer algo, usarás ocho horas. Si tienes cuatro horas
 - Con más tiempo, hay más espacio para las distracciones y los desvíos
 
 **La consecuencia:**
-Reducir artificialmente el tiempo disponible para una tarea puede aumentar la eficiencia sin reducir la calidad. El límite de tiempo actúa como un filtro que elimina lo innecesario.
+Reducir artificialmente el tiempo disponible para una tarea puede aumentar la eficiencia sin reducir la calidad. El límite de tiempo actúa cómo un filtro que elimina lo innecesario.
 
 ---
 
@@ -68,7 +68,7 @@ La propuesta del "día de cinco horas" no es trabajar cinco horas y luego preten
 
 ---
 
-## Capítulo 4: El modelo de trabajo intenso — la versión Rubén
+## Capítulo 4: El modeló de trabajo intenso — la versión Rubén
 
 Rubén empezó con un experimento: trabajar en bloques cortos de alta intensidad con descansos reales entre ellos, en lugar de ocho horas de trabajo constante de intensidad mediocre.
 
@@ -84,7 +84,7 @@ Rubén empezó con un experimento: trabajar en bloques cortos de alta intensidad
 
 Total de trabajo: 6,5 horas. Trabajo profundo real: 3 horas.
 
-Rubén produjo en estas 3 horas más que en cualquier día de 10 horas de "trabajo" anterior.
+Rubén produjó en estas 3 horas más que en cualquier día de 10 horas de "trabajo" anterior.
 
 ---
 
@@ -145,7 +145,7 @@ Crea incentivos para parecer ocupado en lugar de ser productivo. Normaliza jorna
 **La alternativa — trabajo orientado a resultados:**
 Lo que importa no es cuántas horas se está en el puesto, sino qué se produce. Las organizaciones que miden resultados en lugar de presencia permiten que los empleados trabajen de forma más eficiente sin el peso del presentismo.
 
-Isabel cambió la política de evaluación de su equipo: de "horas en la oficina" a "objetivos cumplidos". La productividad del equipo aumentó. Las horas trabajadas bajaron. El equipo estaba más satisfecho.
+Isabel cambio la política de evaluación de su equipo: de "horas en la oficina" a "objetivos cumplidos". La productividad del equipo aumento. Las horas trabajadas bajaron. El equipo estaba más satisfecho.
 
 ---
 
@@ -174,7 +174,7 @@ A las 8, empezó con su prioridad más importante. A las 10:30, completó el tra
 
 A las 13:00, cerró el ordenador.
 
-La tarde la pasó con su familia, algo que raramente ocurría en viernes "normales" de doce horas.
+La tarde la paso con su familia, algo que raramente ocurría en viernes "normales" de doce horas.
 
 El lunes siguiente, su jefe preguntó cómo había ido el viernes. Elena mostró lo que había terminado.
 

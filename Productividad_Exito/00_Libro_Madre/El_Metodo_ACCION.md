@@ -81,7 +81,7 @@ No puedes optimizar algo que no entiendes. La mayoría de las personas no saben 
 El autoconocimiento en el contexto del rendimiento es diferente del autoconocimiento psicológico general: se trata de entender los patrones de tu propio funcionamiento cognitivo y emocional en el trabajo.
 
 **C — Claridad:**
-La falta de claridad es el enemigo número uno del rendimiento. Cuando no sabes exactamente qué quieres conseguir, la mente divaga hacia lo fácil, lo urgente y lo que produce satisfacción inmediata (el correo, las redes sociales, los proyectos pequeños que se pueden terminar rápido).
+La falta de claridad es el enemigo número uno del rendimiento. Cuando no sabes exactamente qué quieres conseguir, la mente divaga hacía lo fácil, lo urgente y lo que produce satisfacción inmediata (el correo, las redes sociales, los proyectos pequeños que se pueden terminar rápido).
 
 La claridad tiene tres niveles: ¿Qué quiero a largo plazo? ¿Qué debo hacer esta semana para acercarme a eso? ¿Cuál es la próxima acción física y concreta?
 
@@ -131,7 +131,7 @@ Los 100 libros están organizados en 10 series temáticas, pero no necesitas emp
 **Un libro, un cambio:**
 La tentación es leer todos los libros y luego aplicar todo. El resultado de esa estrategia es no aplicar nada. Un libro, una práctica. Cuando la práctica está instalada, el siguiente libro.
 
-**Lo que no se practica, no existe:**
+**Lo que no se práctica, no existe:**
 Leer sobre productividad sin cambiar nada no produce productividad. Produce la satisfacción de haber leído sobre productividad, que es una forma elegante de procrastinar.
 
 **El sistema antes que las técnicas:**
@@ -143,7 +143,7 @@ Los libros están diseñados para construir un sistema coherente, no para enseñ
 
 Antes de continuar, hay que hablar de la motivación.
 
-Muchas personas esperan estar motivadas para actuar. El modelo es: motivación → acción → resultado.
+Muchas personas esperan estar motivadas para actuar. El modeló es: motivación → acción → resultado.
 
 La investigación sobre el comportamiento muestra que funciona al revés: acción → resultado → motivación.
 

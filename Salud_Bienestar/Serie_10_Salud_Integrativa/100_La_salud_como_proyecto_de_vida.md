@@ -86,7 +86,7 @@ Las desigualdades en salud son reales. El código postal predice la salud mejor 
 
 La salud no es un estado que se alcanza y se mantiene. Es una práctica.
 
-Como la meditación: no se "domina" la meditación. Se practica. Algunos días mejor que otros. Con interrupciones, con recomienzos, con aprendizaje continuo.
+Como la meditación: no se "domina" la meditación. Se práctica. Algunos días mejor que otros. Con interrupciones, con recomienzos, con aprendizaje continuo.
 
 **Las pequeñas decisiones:**
 El 80% de la salud se construye en las decisiones cotidianas pequeñas: lo que hay para desayunar, si subes las escaleras o el ascensor, si te vas a la cama a la hora o te quedas una hora más en la pantalla, si llamas a un amigo o te quedas con el teléfono, si sales a caminar o sigues sentado.
@@ -145,7 +145,7 @@ La salud tiene un efecto multiplicador en las redes sociales.
 
 Los estudios de Framingham muestran que la obesidad, el tabaquismo, la felicidad y los hábitos de salud se propagan por las redes sociales como contagios: no biológicos, sino conductuales y normativos.
 
-**El modelo que somos:**
+**El modeló que somos:**
 Los padres que se mueven tienen hijos más activos. Los profesores que duermen bien son más eficaces. Los líderes que gestionan bien su estrés construyen entornos menos tóxicos.
 
 La salud individual no es solo personal. Tiene consecuencias en el círculo de influencia de cada persona.

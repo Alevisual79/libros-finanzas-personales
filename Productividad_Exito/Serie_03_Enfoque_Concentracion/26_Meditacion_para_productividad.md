@@ -6,7 +6,7 @@
 
 ---
 
-## Prólogo: El escéptico que lo intentó
+## Prólogo: El escéptico que lo intento
 
 Rubén siempre había pensado que la meditación era para personas que llevaban ropa de lino y hablaban de "energías".
 
@@ -14,9 +14,9 @@ Entonces leyó los estudios. Neurocientíficos de Harvard. Publicaciones en Natu
 
 No era religión ni filosofía. Era ingeniería del cerebro.
 
-Lo intentó: diez minutos al día durante treinta días. Sin incienso, sin aplicación de relajación, sin voz suave. Solo sentarse en la silla del escritorio y prestar atención a la respiración.
+Lo intento: diez minutos al día durante treinta días. Sin incienso, sin aplicación de relajación, sin voz suave. Solo sentarse en la silla del escritorio y prestar atención a la respiración.
 
-Al final del mes, notó algo que no había anticipado: su capacidad de concentración en el trabajo había mejorado. No dramáticamente. Gradualmente. Pero claramente.
+Al final del mes, noto algo que no había anticipado: su capacidad de concentración en el trabajo había mejorado. No dramáticamente. Gradualmente. Pero claramente.
 
 ---
 
@@ -24,9 +24,9 @@ Al final del mes, notó algo que no había anticipado: su capacidad de concentra
 
 La meditación, en su forma más básica y más estudiada científicamente, es un ejercicio de atención:
 
-1. Dirigir la atención hacia un objeto (típicamente la respiración)
+1. Dirigir la atención hacía un objeto (típicamente la respiración)
 2. Notar cuando la mente se dispersa (inevitablemente ocurre)
-3. Redirigir la atención hacia el objeto
+3. Redirigir la atención hacía el objeto
 4. Repetir
 
 Eso es todo. No hay creencias necesarias, no hay postura especial requerida, no hay objetivo espiritual implícito.
@@ -171,7 +171,7 @@ Rubén se comprometió con diez minutos al día durante treinta días.
 
 La primera semana, los diez minutos parecían eternos. La mente saltaba de pensamiento en pensamiento: el correo que no había contestado, el cliente difícil, la lista de tareas.
 
-La segunda semana, algo cambió. La mente seguía saltando, pero Rubén empezó a notar el salto antes, y a volver antes.
+La segunda semana, algo cambio. La mente seguía saltando, pero Rubén empezó a notar el salto antes, y a volver antes.
 
 Al final del mes, dos cambios concretos en su trabajo:
 1. Podía trabajar en una tarea durante más tiempo antes de sentir el impulso de cambiar.

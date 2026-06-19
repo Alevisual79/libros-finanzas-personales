@@ -10,7 +10,7 @@
 
 Elena tenía una idea que podría ahorrar al equipo veinte horas semanales. Lo había calculado. Lo había documentado. Había preparado una presentación.
 
-La presentó en la reunión de equipo. Asentimientos. "Interesante." "Lo miraremos."
+La presento en la reunión de equipo. Asentimientos. "Interesante." "Lo miraremos."
 
 Tres meses después, nada había cambiado. La idea había muerto en el limbo de las ideas buenas que nadie implementa.
 
@@ -96,7 +96,7 @@ Antes de pedir aprobación para implementar una idea completa, implementar la ve
 **La escala correcta:**
 El prototipo mínimo no necesita ser perfecto. Necesita ser suficientemente bueno para responder la pregunta "¿Funciona el principio básico?"
 
-Rubén quería proponer a un cliente un nuevo formato de informe mensual. En lugar de hacer una presentación sobre el concepto, preparó un informe de muestra con el nuevo formato basado en datos del mes anterior. Lo presentó como "así podría verse" y pidió feedback.
+Rubén quería proponer a un cliente un nuevo formato de informe mensual. En lugar de hacer una presentación sobre el concepto, preparó un informe de muestra con el nuevo formato basado en datos del mes anterior. Lo presento como "así podría verse" y pidió feedback.
 
 El cliente aprobó el nuevo formato de inmediato. El prototipo había hecho el trabajo de persuasión que la propuesta abstracta no habría podido hacer.
 
@@ -129,7 +129,7 @@ Algunas ideas necesitan tiempo para que el contexto organizacional las reciba. P
 Las ideas que finalmente se implementan frecuentemente no son exactamente las que se propusieron. Han evolucionado, incorporando perspectivas de otras personas, adaptándose al contexto. El innovador que se aferra a la versión exacta de su idea original bloquea su evolución y dificulta su adopción.
 
 **La distinción:**
-Entre persistencia inteligente (seguir empujando la idea con adaptaciones al contexto) y terquedad contraproducente (seguir empujando la misma idea sin escuchar el feedback del rechazo).
+Entre persistencia inteligente (seguir empujando la idea con adaptaciones al contexto) y terquedad contraproducente (seguir empujando la misma idea sin escuchar el feedback del rechazó).
 
 ---
 
@@ -138,7 +138,7 @@ Entre persistencia inteligente (seguir empujando la idea con adaptaciones al con
 Las organizaciones tienen procesos, presupuestos, jerarquías y normas que limitan qué se puede cambiar y cómo.
 
 **El innovador que fracasa:**
-El que ve estas restricciones como la prueba de que la organización no quiere cambiar, y abandona o se frustra.
+El que ve estas restricciones cómo la prueba de que la organización no quiere cambiar, y abandona o se frustra.
 
 **El innovador que tiene éxito:**
 El que trabaja dentro de las restricciones para encontrar el espacio de innovación posible. Las restricciones no eliminan el espacio de innovación: lo definen.
@@ -146,7 +146,7 @@ El que trabaja dentro de las restricciones para encontrar el espacio de innovaci
 **El principio:**
 "¿Qué es lo máximo que puedo cambiar dentro de lo que me está permitido cambiar?" Es una pregunta más productiva que "¿Por qué no puedo cambiar todo lo que quiero?"
 
-Isabel introdujo en su equipo un proceso de retrospectiva quincenal sin pedir permiso a nadie. Era un cambio tan pequeño que no necesitaba aprobación. Quince minutos, su equipo, su área de responsabilidad. Los resultados del proceso le dieron el argumento para proponer su extensión a otros equipos.
+Isabel introdujó en su equipo un proceso de retrospectiva quincenal sin pedir permiso a nadie. Era un cambio tan pequeño que no necesitaba aprobación. Quince minutos, su equipo, su área de responsabilidad. Los resultados del proceso le dieron el argumento para proponer su extensión a otros equipos.
 
 ---
 
@@ -173,7 +173,7 @@ Elena entendió por qué su primera propuesta había muerto.
 
 La reformuló:
 1. Calculó el impacto en horas y en términos económicos
-2. La presentó primero en conversación privada a su jefe, no en la reunión de equipo
+2. La presento primero en conversación privada a su jefe, no en la reunión de equipo
 3. Identificó a dos personas del equipo que tendrían el mayor beneficio de la idea y las involucró en el diseño
 4. Pidió hacer una prueba de dos semanas en lugar de un cambio completo inmediato
 

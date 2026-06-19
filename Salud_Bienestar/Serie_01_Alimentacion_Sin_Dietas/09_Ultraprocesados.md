@@ -18,7 +18,7 @@ Los 35 ingredientes adicionales son estabilizantes, emulsionantes, colorantes, a
 
 ## Capítulo 1: La clasificación NOVA
 
-En 2009, el epidemiólogo brasileño Carlos Monteiro desarrolló la clasificación NOVA, que clasifica los alimentos no por nutrientes sino por el grado de procesamiento.
+En 2009, el epidemiólogo brasileño Carlos Monteiro desarrollo la clasificación NOVA, que clasifica los alimentos no por nutrientes sino por el grado de procesamiento.
 
 **Grupo 1 — Alimentos sin procesar o mínimamente procesados:**
 Frutas, verduras, carne, pescado, huevos, leche, legumbres, cereales integrales. El alimento tal como existe o con procesamiento mínimo (lavado, pelado, cocción, fermentación básica).
@@ -82,7 +82,7 @@ Los estudios epidemiológicos muestran una asociación consistente entre el cons
 - Depresión y ansiedad
 - Mortalidad total
 
-La fuerza de la asociación es tal que algunos investigadores hablan de los ultraprocesados como la causa más importante de la epidemia de enfermedades crónicas.
+La fuerza de la asociación es tal que algunos investigadores hablan de los ultraprocesados cómo la causa más importante de la epidemia de enfermedades crónicas.
 
 No toda la causalidad está establecida, pero la consistencia de los datos a través de múltiples países y poblaciones es muy significativa.
 
@@ -173,7 +173,7 @@ Un sistema alimentario con base en alimentos reales y espacio para los ultraproc
 
 ## Epílogo: Recuperar el control
 
-Durante décadas, la industria alimentaria ha estado diseñando productos para que comas más de lo que necesitas.
+Durante décadas, la industria alimentaria ha estado diseñando productos para qué comas más de lo que necesitas.
 
 Conocer el sistema no lo convierte en inofensivo, pero sí te da poder para tomar decisiones más conscientes.
 

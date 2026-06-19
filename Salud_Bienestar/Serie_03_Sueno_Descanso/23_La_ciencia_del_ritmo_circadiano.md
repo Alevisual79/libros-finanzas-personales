@@ -35,12 +35,12 @@ La temperatura corporal central sigue un ritmo circadiano claro.
 
 Alcanza su máximo alrededor de las 6 de la tarde y su mínimo alrededor de las 4-5 de la madrugada.
 
-El inicio del sueño está vinculado a la caída de temperatura. El cuerpo necesita enfriarse para dormir.
+El inició del sueño está vinculado a la caída de temperatura. El cuerpo necesita enfriarse para dormir.
 
 **Implicaciones prácticas:**
 - Un dormitorio fresco (18-20°C) facilita el sueño porque permite la caída de temperatura corporal
 - Un baño o ducha caliente 1-2 horas antes de dormir parece contraintuitivo pero funciona: calienta la piel, dilata los vasos sanguíneos periféricos y facilita la pérdida de calor corporal central
-- Ejercicio intenso justo antes de dormir eleva la temperatura y puede retrasar el inicio del sueño
+- Ejercicio intenso justo antes de dormir eleva la temperatura y puede retrasar el inició del sueño
 
 ---
 
@@ -63,8 +63,8 @@ Las pantallas emiten luz de espectro similar a la luz diurna. En la noche, inhib
 El cronotipo es la tendencia circadiana individual: si eres persona de mañana (alondra), de tarde-noche (búho), o intermedio.
 
 El cronotipo está determinado principalmente por la genética, aunque también varía con la edad:
-- En la infancia y vejez: tendencia hacia la mañana
-- En la adolescencia: tendencia hacia la noche (retraso de fase, biológico, no elección)
+- En la infancia y vejez: tendencia hacía la mañana
+- En la adolescencia: tendencia hacía la noche (retraso de fase, biológico, no elección)
 - En adultos: distribución aproximadamente normal, con más personas intermedias
 
 El jetlag social es el desajuste entre el horario biológico y el horario social impuesto (trabajo, escuela). Las personas con cronotipo tardío que tienen que trabajar a las 8 de la mañana experimentan jetlag social crónico con consecuencias metabólicas y de salud.
@@ -95,10 +95,10 @@ El rendimiento físico también sigue un ritmo circadiano.
 
 La fuerza muscular, la velocidad, la resistencia cardiorrespiratoria y la flexibilidad tienden a alcanzar su pico en la tarde (15-17 horas), coincidiendo con el pico de temperatura corporal.
 
-El ejercicio matutino, aunque con menor rendimiento, tiene el beneficio de sincronizar el reloj biológico hacia la mañana, lo que favorece el sueño nocturno temprano.
+El ejercicio matutino, aunque con menor rendimiento, tiene el beneficio de sincronizar el reloj biológico hacía la mañana, lo que favorece el sueño nocturno temprano.
 
 **El ejercicio nocturno:**
-El ejercicio de alta intensidad en las 2-3 horas previas a dormir puede retrasar el inicio del sueño en algunas personas. El ejercicio suave (yoga, stretching) no tiene este problema.
+El ejercicio de alta intensidad en las 2-3 horas previas a dormir puede retrasar el inició del sueño en algunas personas. El ejercicio suave (yoga, stretching) no tiene este problema.
 
 ---
 
@@ -132,7 +132,7 @@ La efectividad de ciertos medicamentos y vacunas varía según la hora del día 
 ## Capítulo 9: Cómo sincronizar el reloj biológico
 
 **Luz brillante matutina:**
-Salir a la calle o sentarse junto a una ventana las primeras horas de la mañana. En invierno o latitudes nordicas: lámparas de luz de día. 20-30 minutos de exposición ayuda a sincronizar el reloj.
+Salir a la calle o sentarse juntó a una ventana las primeras horas de la mañana. En invierno o latitudes nordicas: lámparas de luz de día. 20-30 minutos de exposición ayuda a sincronizar el reloj.
 
 **Oscuridad nocturna:**
 Reducir la exposición a luz brillante y pantallas 1-2 horas antes de dormir. Usar modo nocturno en pantallas. Dormitorio oscuro.
@@ -141,7 +141,7 @@ Reducir la exposición a luz brillante y pantallas 1-2 horas antes de dormir. Us
 Misma hora de levantarse todos los días. Misma hora de las comidas principales.
 
 **Ejercicio matutino o a mediodía:**
-Refuerza la sincronización circadiana hacia la mañana.
+Refuerza la sincronización circadiana hacía la mañana.
 
 **Temperatura:**
 Dormitorio fresco. Ducha caliente antes de dormir.

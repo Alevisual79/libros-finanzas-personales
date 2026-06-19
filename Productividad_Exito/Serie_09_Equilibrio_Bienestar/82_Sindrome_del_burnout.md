@@ -56,7 +56,7 @@ El alto rendimiento produce reconocimiento, que produce más trabajo exigente, q
 
 ## Capítulo 3: Las seis fuentes de burnout (Maslach y Leiter)
 
-Christina Maslach, la investigadora que definió el burnout, identificó seis fuentes organizacionales:
+Christina Maslach, la investigadora que definió el burnout, identifico seis fuentes organizacionales:
 
 **1. Carga de trabajo:**
 Demasiado trabajo para el tiempo y los recursos disponibles. La más obvia.
@@ -83,7 +83,7 @@ Hacer trabajo que va en contra de los propios valores. El vendedor que vende alg
 El burnout raramente llega de repente. Avanza por fases:
 
 **Fase 1 — El entusiasmo:**
-Alta energía, compromiso intenso, inversión emocional elevada. En esta fase no hay señales visibles de problema. Es el inicio.
+Alta energía, compromiso intenso, inversión emocional elevada. En esta fase no hay señales visibles de problema. Es el inició.
 
 **Fase 2 — El estancamiento:**
 Los esfuerzos no producen los resultados esperados. Empieza la frustración. Se trabaja más para compensar.
@@ -103,9 +103,9 @@ El punto donde el cuerpo o la mente se niegan a continuar. Puede manifestarse co
 
 Isabel tardó dieciocho meses en reconocer su propio burnout.
 
-Las señales habían estado ahí: el sueño fragmentado que atribuyó al estrés temporal, la irritabilidad con el equipo que justificó como exigencia necesaria, la pérdida del disfrute en el trabajo que interpretó como madurez profesional, la desconexión de las relaciones que explicó como falta de tiempo.
+Las señales habían estado ahí: el sueño fragmentado que atribuyó al estrés temporal, la irritabilidad con el equipo que justificó como exigencia necesaria, la pérdida del disfrute en el trabajo que interpretó como madurez profesional, la desconexión de las relaciones que explico como falta de tiempo.
 
-Fueron dos semanas de baja por "agotamiento" prescrita por su médico las que finalmente le dieron la perspectiva. Desde fuera de la rutina, pudo ver lo que desde dentro era imposible ver: llevaba dos años funcionando como una máquina en modo de emergencia permanente, sin recuperación real.
+Fueron dos semanas de baja por "agotamiento" prescrita por su médico las que finalmente le dieron la perspectiva. Desde fuera de la rutina, pudo ver lo que desde dentro era imposible ver: llevaba dos años funcionando cómo una máquina en modo de emergencia permanente, sin recuperación real.
 
 ---
 
@@ -117,7 +117,7 @@ La recuperación del burnout no es una semana de vacaciones.
 - Tiempo real de desconexión del trabajo (no "descanso" con el correo abierto)
 - Apoyo profesional (psicólogo, médico) en los casos severos
 - Revisión de las causas: ¿fue personal (ritmo, límites, gestión del estrés), organizacional (carga, cultura, gestión), o ambas?
-- Cambios reales en la situación que produjo el burnout, no solo parches superficiales
+- Cambios reales en la situación que produjó el burnout, no solo parches superficiales
 
 **El error más frecuente en la recuperación:**
 Volver a las mismas condiciones y los mismos comportamientos con la esperanza de que "esta vez será diferente". Sin cambios estructurales en el entorno o en los propios patrones, el burnout recurrirá.
@@ -161,7 +161,7 @@ Rotación, absentismo, presentismo (estar físicamente pero cognitivamente ausen
 En ausencia de cambios organizacionales perfectos (que raramente llegan), las estrategias individuales:
 
 **La evaluación regular:**
-Un check-in mensual con las tres dimensiones del burnout: ¿Cómo está mi energía? ¿Cuánto cinismo siento hacia mi trabajo? ¿Me siento eficaz?
+Un check-in mensual con las tres dimensiones del burnout: ¿Cómo está mi energía? ¿Cuánto cinismo siento hacía mi trabajo? ¿Me siento eficaz?
 
 **El mantenimiento de las reservas:**
 Nunca llegar al 0% de energía antes de reponer. La recuperación cuando aún hay reservas es mucho más rápida que la recuperación desde el agotamiento total.
@@ -178,7 +178,7 @@ Las relaciones, el ejercicio, los hobbies, el descanso activo. Son las reservas 
 
 Elena tomó tres semanas de baja. Las primeras dos, durmió. La tercera, empezó a preguntarse qué quería cambiar.
 
-No fue un proceso rápido ni lineal. Pero al final, identificó dos cosas que habían producido su burnout: la incapacidad de decir no a nuevos proyectos y la ausencia de actividades fuera del trabajo que le dieran energía.
+No fue un proceso rápido ni lineal. Pero al final, identifico dos cosas que habían producido su burnout: la incapacidad de decir no a nuevos proyectos y la ausencia de actividades fuera del trabajo que le dieran energía.
 
 Volvió con dos compromisos concretos. Un año después, seguía cumpliéndolos.
 

@@ -6,11 +6,11 @@
 
 ---
 
-## Prólogo: La reunión que Elena perdió sin decir nada
+## Prólogo: La reunión que Elena perdio sin decir nada
 
 Elena tenía la mejor propuesta de la reunión. Lo sabía. Había analizado el problema con más profundidad que nadie.
 
-Pero cuando llegó su turno de hablar, fue vaga, se enredó en los detalles y no llegó nunca al punto central. La reunión pasó a otro tema antes de que pudiera aclarar lo que quería decir.
+Pero cuando llegó su turno de hablar, fue vaga, se enredó en los detalles y no llegó nunca al punto central. La reunión paso a otro tema antes de que pudiera aclarar lo que quería decir.
 
 La propuesta de un compañero con menos análisis pero más claridad verbal se aprobó.
 
@@ -26,7 +26,7 @@ En el mundo del trabajo del conocimiento, pocas habilidades tienen mayor retorno
 - Las ideas solo tienen impacto si llegan a quien puede actuar sobre ellas
 - El liderazgo se ejerce en gran medida a través de la comunicación
 - La confianza que los demás depositan en una persona está fuertemente influida por cómo habla
-- Las oportunidades —proyectos, ascensos, colaboraciones— van hacia las personas que saben presentarse y presentar sus ideas
+- Las oportunidades —proyectos, ascensos, colaboraciones— van hacía las personas que saben presentarse y presentar sus ideas
 
 **El mito del comunicador nato:**
 La mayoría de personas que hablan bien en público o en reuniones no nacieron así. Aprendieron, practicaron y, frecuentemente, sufrieron muchas veces antes de mejorar.
@@ -49,7 +49,7 @@ Primero la idea central. Luego los datos, ejemplos o razones que la sustentan. F
 
 El error habitual es el inverso: contexto extenso, datos detallados, y la conclusión al final cuando el oyente ya ha perdido el hilo.
 
-**El modelo PREP:**
+**El modeló PREP:**
 - **P**oint (Punto): la tesis en una frase
 - **R**eason (Razón): por qué importa
 - **E**xample (Ejemplo): la evidencia concreta
@@ -104,7 +104,7 @@ El volumen debe proyectar al fondo de la sala. La articulación debe ser clara. 
 Hablar bien no es solo producir palabras de forma efectiva. Es comunicar de forma efectiva, lo que requiere leer a la audiencia.
 
 **Señales que el hablante debe leer:**
-- La postura del oyente (abierta, cerrada, inclinada hacia adelante o hacia atrás)
+- La postura del oyente (abierta, cerrada, inclinada hacía adelante o hacía atrás)
 - Las expresiones faciales (confusión, acuerdo, impaciencia)
 - Las interrupciones o preguntas (señal de interés o de necesidad de clarificación)
 
@@ -124,7 +124,7 @@ Comprar tiempo para organizar el pensamiento. Un par de segundos de pausa antes 
 
 **Las técnicas:**
 - Repetir la pregunta o parafrasearse antes de responder
-- Usar el modelo punto → razón → ejemplo incluso en improvisación
+- Usar el modeló punto → razón → ejemplo incluso en improvisación
 - Si no se sabe, decirlo y proponer un momento para responder con la información correcta
 
 El peor hábito en la improvisación: responder inmediatamente con el primer pensamiento que surge, sin organización. Suena a pensamiento no procesado.
@@ -150,7 +150,7 @@ Rubén tenía un problema específico: hablaba atropelladamente cuando se entusi
 
 Lo que hizo durante tres meses:
 1. Grabó varias conversaciones y reuniones (con permiso). Las escuchó. La diferencia entre cómo creía que sonaba y cómo sonaba realmente fue reveladora.
-2. Practicó el modelo PREP en situaciones de bajo riesgo (conversaciones en reuniones pequeñas).
+2. Practicó el modeló PREP en situaciones de bajo riesgo (conversaciones en reuniones pequeñas).
 3. Se puso el objetivo de hacer una pausa de dos segundos antes de cada respuesta importante.
 
 Al cuarto mes, un colega le preguntó: "¿Has hecho algún curso de comunicación? Pareces mucho más claro cuando presentas."

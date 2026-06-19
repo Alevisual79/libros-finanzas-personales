@@ -31,7 +31,7 @@ La IA estrecha es extraordinariamente buena en tareas específicas y no puede ha
 
 La IA estrecha es la IA real. Toda la IA que se usa comercialmente, toda la que ha generado el boom económico de los últimos años, toda la que usas en tu vida cotidiana: es IA estrecha.
 
-Y es ya extraordinariamente poderosa e impactante, sin necesitar ningún salto hacia la AGI.
+Y es ya extraordinariamente poderosa e impactante, sin necesitar ningún salto hacía la AGI.
 
 ---
 
@@ -53,7 +53,7 @@ La superinteligencia va más allá de la AGI: sería un sistema cuya inteligenci
 
 El filósofo Nick Bostrom popularizó el concepto en su libro "Superinteligencia" (2014), argumentando que una superinteligencia sería el evento más transformador y potencialmente más peligroso de la historia humana.
 
-El argumento de la explosión de inteligencia (intelligence explosion), originalmente de I.J. Good en 1965: un sistema suficientemente inteligente podría mejorar sus propios algoritmos, produciendo una versión más inteligente, que a su vez se mejoraría a sí misma, en un ciclo de retroalimentación que podría producir una superinteligencia en muy poco tiempo.
+El argumento de la explosión de inteligencia (intelligence explosión), originalmente de I.J. Good en 1965: un sistema suficientemente inteligente podría mejorar sus propios algoritmos, produciendo una versión más inteligente, que a su vez se mejoraría a sí misma, en un ciclo de retroalimentación que podría producir una superinteligencia en muy poco tiempo.
 
 Este escenario —que algunos investigadores toman muy en serio y otros consideran especulación infundada— es la fuente de las preocupaciones sobre "riesgo existencial" de la IA.
 
@@ -66,7 +66,7 @@ Las predicciones sobre cuándo podría existir la AGI varían de forma extraordi
 - **Ray Kurzweil (Google, inventor):** 2029 para AGI, 2045 para la singularidad (superinteligencia)
 - **Geoffrey Hinton (Pioneer del deep learning, Nobel 2024):** 5-20 años para algo parecido a AGI
 - **Yann LeCun (Meta, Pioneer del deep learning):** "Los LLMs nunca llegarán a la AGI tal como están diseñados"
-- **Gary Marcus (investigador crítico):** Los enfoques actuales no son el camino hacia la AGI
+- **Gary Marcus (investigador crítico):** Los enfoques actuales no son el camino hacía la AGI
 - **Demis Hassabis (CEO DeepMind):** "Posiblemente en esta década"
 - **Escépticos mainstream:** La AGI podría estar a décadas de distancia o ser imposible con los enfoques actuales
 
@@ -80,7 +80,7 @@ Las predicciones sobre AGI son tan dispares porque el problema es radicalmente d
 
 **No tenemos una definición precisa:** No hay acuerdo sobre qué cuenta exactamente como AGI. ¿Un sistema que supera a humanos en el 90% de tareas cognitivas? ¿En todas? ¿Con la misma eficiencia de datos? Los criterios difusos producen predicciones difusas.
 
-**Las capacidades emergentes son impredecibles:** Los modelos grandes muestran capacidades que no estaban en modelos más pequeños y que sus creadores no anticiparon. Esto hace que extrapolar hacia el futuro sea especialmente incierto.
+**Las capacidades emergentes son impredecibles:** Los modelos grandes muestran capacidades que no estaban en modelos más pequeños y que sus creadores no anticiparon. Esto hace que extrapolar hacía el futuro sea especialmente incierto.
 
 **Los obstáculos podrían no ser técnicos:** La AGI podría requerir avances en comprensión de la conciencia, en embodiment (cuerpo físico), o en arquitecturas completamente nuevas que no existen todavía.
 

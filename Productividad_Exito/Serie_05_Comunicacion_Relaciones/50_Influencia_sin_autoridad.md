@@ -38,7 +38,7 @@ Las personas que saben influir sin autoridad son más efectivas que las que solo
 
 ## Capítulo 2: Las bases de la influencia
 
-Robert Cialdini, en "Influence" (Influencia), identificó seis principios de influencia basados en la psicología social. Entender estos principios no es para manipular —las técnicas manipuladoras producen resistencia y daño a la relación— sino para comunicar de forma que las personas tengan razones genuinas para comprometerse.
+Robert Cialdini, en "Influence" (Influencia), identifico seis principios de influencia basados en la psicología social. Entender estos principios no es para manipular —las técnicas manipuladoras producen resistencia y daño a la relación— sino para comunicar de forma que las personas tengan razones genuinas para comprometerse.
 
 **Reciprocidad:**
 Las personas tienden a devolver lo que reciben. Quien da —tiempo, ayuda, información, atención— crea una base de reciprocidad que facilita pedir.
@@ -106,9 +106,9 @@ La influencia funciona mejor cuando se enmarca como colaboración, no como petic
 
 ---
 
-## Capítulo 6: Influir hacia arriba — hacia el jefe y los directivos
+## Capítulo 6: Influir hacía arriba — hacía el jefe y los directivos
 
-La influencia ascendente —hacia personas con más autoridad formal— tiene sus propias reglas.
+La influencia ascendente —hacía personas con más autoridad formal— tiene sus propias reglas.
 
 **Los directivos tienen limitaciones de tiempo y atención:**
 Las propuestas deben ser concisas. El "so what" (¿y qué?) debe ser inmediatamente claro.
@@ -173,7 +173,7 @@ La persona con poco capital de influencia que hace muchas peticiones se conviert
 
 ## Capítulo 10: El aprendizaje de Elena
 
-Elena cambió su estrategia. En lugar de mandar correos de petición, empezó a:
+Elena cambio su estrategia. En lugar de mandar correos de petición, empezó a:
 1. Conocer a las personas clave de los otros equipos: una conversación de café, interés genuino por su trabajo
 2. Ofrecer ayuda antes de pedirla: compartió recursos útiles para el proyecto de otro equipo sin pedir nada a cambio
 3. Conectar su proyecto con los intereses de esos equipos: ¿qué obtenían ellos de que el proyecto funcionara bien?

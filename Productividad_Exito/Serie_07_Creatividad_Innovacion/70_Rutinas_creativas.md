@@ -10,7 +10,7 @@
 
 Mason Currey, en su libro "Daily Rituals", documentó las rutinas de trabajo de ciento sesenta y un artistas, escritores, filósofos y científicos.
 
-Lo que encontró fue sorprendente por su monotonía: la mayoría de las personas más creativas de la historia tenía rutinas rigurosas, horas fijas de trabajo, rituales de inicio y cierre. La creatividad no venía del caos de la inspiración libre: venía de estructuras deliberadas que la producían con regularidad.
+Lo que encontró fue sorprendente por su monotonía: la mayoría de las personas más creativas de la historia tenía rutinas rigurosas, horas fijas de trabajo, rituales de inició y cierre. La creatividad no venía del caos de la inspiración libre: venía de estructuras deliberadas que la producían con regularidad.
 
 Toni Morrison escribía al amanecer. Maya Angelou alquilaba una habitación de hotel para escribir y solo escribía ahí. Charles Darwin daba tres paseos al día a horas fijas. Beethoven se levantaba al amanecer y contaba los granos de café para cada taza.
 
@@ -31,14 +31,14 @@ Los grandes creativos no esperan la inspiración. Crean las condiciones para que
 
 ---
 
-## Capítulo 2: El ritual de inicio
+## Capítulo 2: El ritual de inició
 
-El ritual de inicio es la secuencia de acciones que señala al cerebro que llega el tiempo creativo.
+El ritual de inició es la secuencia de acciones que señala al cerebro que llega el tiempo creativo.
 
 **Por qué funciona:**
 Las rutinas crean señales condicionadas. El cerebro aprende que después de ciertos pasos llega un tipo específico de actividad. La música que siempre se pone antes de escribir se convierte en una señal que activa el estado mental de escritura.
 
-**Los elementos del ritual de inicio:**
+**Los elementos del ritual de inició:**
 - Un momento específico (la misma hora, o inmediatamente después de otro evento fijo)
 - Un lugar específico (asociado con el trabajo creativo)
 - Una secuencia de acciones que siempre se hace igual (el café, la música, abrir el cuaderno)
@@ -58,10 +58,10 @@ El trabajo creativo raramente es urgente. Siempre puede postergarse. Y si no hay
 **El bloque creativo:**
 Un período regular —diario, si es posible— dedicado exclusivamente al trabajo creativo. Sin reuniones. Sin correo. Sin interrupción.
 
-Para Elena, era las dos primeras horas de la mañana: el momento de mayor calidad cognitiva, antes de que el trabajo reactivo del día comenzara.
+Para Elena, era las dos primeras horas de la mañana: el momento de mayor calidad cognitiva, antes de que el trabajo reactivo del día comenzará.
 
 **La protección:**
-El bloque creativo en el calendario, tratado como una cita con un cliente importante. Las reuniones que se intentan poner en ese momento, rechazadas. No negociable.
+El bloque creativo en el calendario, tratado cómo una cita con un cliente importante. Las reuniones que se intentan poner en ese momento, rechazadas. No negociable.
 
 ---
 
@@ -88,7 +88,7 @@ La familiaridad excesiva puede producir conformidad de pensamiento. Algunos crea
 La creatividad trabaja con el material que tiene disponible. Si no hay inputs de calidad, los outputs son limitados.
 
 **El principio de Julia Cameron:**
-La escritora y coach creativa describe la creatividad como un pozo. Cuando se produce sin recargar el pozo, el pozo se vacía. Las "entradas" (experiencias, lecturas, conversaciones, arte, viajes) recargan el pozo.
+La escritora y coach creativa describe la creatividad cómo un pozo. Cuando se produce sin recargar el pozo, el pozo se vacía. Las "entradas" (experiencias, lecturas, conversaciones, arte, viajes) recargan el pozo.
 
 **Las fuentes de input creativo:**
 - La lectura fuera del propio campo
@@ -106,7 +106,7 @@ El scrolling de redes sociales genera la sensación de consumir información y p
 Paradójicamente, algunas de las mejores ideas creativas llegan durante las pausas del trabajo creativo.
 
 **El modo de descanso del cerebro:**
-Como se exploró en el primer libro de esta serie, la red de modo predeterminado —activa cuando la mente vaga libremente— es un motor de conexiones creativas. Las pausas que activan esta red (la caminata, la ducha, el tiempo antes de dormir) son parte integral del proceso creativo, no interrupciones de él.
+Cómo se exploró en el primer libro de esta serie, la red de modo predeterminado —activa cuando la mente vaga libremente— es un motor de conexiones creativas. Las pausas que activan esta red (la caminata, la ducha, el tiempo antes de dormir) son parte integral del proceso creativo, no interrupciones de él.
 
 **La pausa estructurada:**
 Trabajar con el problema en la mente durante un período, luego alejarse deliberadamente de él. El cerebro continúa procesando en el fondo. Las insights que llegan durante la caminata no son accidentes: son el resultado del procesamiento de fondo que la pausa habilita.
@@ -136,7 +136,7 @@ Las ideas capturadas durante semanas o meses, revisadas con distancia temporal, 
 Un principio contraintuitivo de la producción creativa: la forma de producir trabajo de alta calidad es producir mucho trabajo.
 
 **El estudio de la cerámica:**
-El profesor de cerámica dividió a sus estudiantes en dos grupos: el grupo A sería evaluado por la calidad de una sola pieza perfecta. El grupo B sería evaluado por el peso total de cerámica producida.
+El profesor de cerámica dividio a sus estudiantes en dos grupos: el grupo A sería evaluado por la calidad de una sola pieza perfecta. El grupo B sería evaluado por el peso total de cerámica producida.
 
 Al final del semestre, el mejor trabajo venía del grupo B. Al haber producido mucho (y haber aprendido de cada pieza), habían mejorado su técnica de formas que el grupo A, que pensó en la pieza perfecta sin producir, no había logrado.
 
@@ -164,7 +164,7 @@ No existe la rutina creativa universal. La rutina efectiva es la que funciona pa
 **Las preguntas de diseño:**
 - ¿En qué momentos del día tengo más energía creativa?
 - ¿Qué tipo de entorno facilita mi trabajo creativo?
-- ¿Qué rituales de inicio me ayudan a entrar en modo creativo?
+- ¿Qué rituales de inició me ayudan a entrar en modo creativo?
 - ¿Qué tipos de input alimentan mi creatividad?
 - ¿Cómo capturo las ideas cuando aparecen?
 

@@ -28,7 +28,7 @@ El trabajo es, simultáneamente, una fuente de salud y una fuente de enfermedad.
 - **La justicia organizacional:** Si se percibe que la organización es justa.
 - **Los valores:** Si el trabajo es coherente con los propios valores.
 
-**El modelo demanda-control (Karasek):**
+**El modeló demanda-control (Karasek):**
 El trabajo de alto riesgo para la salud es el que combina alta demanda + bajo control. Un cirujano tiene alta demanda y alto control: riesgo moderado. Un operario de cadena de montaje tiene alta demanda y bajo control: alto riesgo.
 
 ---
@@ -53,7 +53,7 @@ Las revisiones sistemáticas muestran que el estrés laboral aumenta el riesgo d
 
 ## Capítulo 3: El burnout — más allá del cansancio
 
-El burnout (síndrome de agotamiento profesional) está reconocido por la OMS desde 2019 como un fenómeno ocupacional. No es un trastorno mental, pero es una condición de riesgo para desarrollarlo.
+El burnout (síndrome de agotamiento profesional) está reconocido por la OMS desde 2019 cómo un fenómeno ocupacional. No es un trastorno mental, pero es una condición de riesgo para desarrollarlo.
 
 **Las tres dimensiones del burnout (Maslach):**
 1. **Agotamiento emocional:** Sensación de estar vaciado, de no tener recursos emocionales.
@@ -79,7 +79,7 @@ Sentarse durante más de 6-8 horas al día de forma continua tiene efectos negat
 Levantarse 2-3 minutos cada 30-45 minutos reduce los efectos negativos del sedentarismo prolongado. La recomendación no es estar de pie todo el día (el trabajo de pie prolongado tiene sus propios problemas), sino interrumpir la sedestación.
 
 **La ergonomía:**
-La postura forzada prolongada (cuello hacia delante, hombros elevados, muñecas en extensión) es la causa principal del dolor musculoesquelético de origen laboral. Una buena silla, el monitor a la altura de los ojos y el teclado en posición neutra son inversiones de salud.
+La postura forzada prolongada (cuello hacía delante, hombros elevados, muñecas en extensión) es la causa principal del dolor musculoesquelético de origen laboral. Una buena silla, el monitor a la altura de los ojos y el teclado en posición neutra son inversiones de salud.
 
 ---
 
@@ -169,7 +169,7 @@ Miguel implementó una regla simple: el domingo a partir de las 14h no había co
 
 Las primeras dos semanas fue angustiante. La tercera, empezó a notar que llegaba al lunes menos agotado. Al mes, el "malestar del domingo" había desaparecido.
 
-No cambió su trabajo. Cambió la frontera entre su trabajo y su vida.
+No cambio su trabajo. Cambió la frontera entre su trabajo y su vida.
 
 ---
 

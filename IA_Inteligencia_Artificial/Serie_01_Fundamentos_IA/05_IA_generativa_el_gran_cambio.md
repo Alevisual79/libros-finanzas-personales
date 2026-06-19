@@ -25,23 +25,23 @@ A diferencia de los sistemas de IA discriminativos —que clasifican, detectan o
 
 La IA generativa no es nueva. Las redes generativas adversariales (GANs), introducidas por Ian Goodfellow en 2014, fueron de los primeros sistemas de IA capaces de generar imágenes realistas. Los modelos de lenguaje generativos existían desde antes.
 
-Lo que cambió en 2022-2023 fue la calidad, la accesibilidad y la velocidad de mejora. Por primera vez, cualquier persona sin conocimientos técnicos podía usar herramientas generativas para producir contenido de calidad profesional.
+Lo que cambio en 2022-2023 fue la calidad, la accesibilidad y la velocidad de mejora. Por primera vez, cualquier persona sin conocimientos técnicos podía usar herramientas generativas para producir contenido de calidad profesional.
 
 ---
 
 ## Capítulo 2: Modelos de difusión: cómo se generan las imágenes
 
-Las herramientas de imagen generativa más populares —Stable Diffusion, DALL-E, Midjourney— usan modelos de difusión.
+Las herramientas de imagen generativa más populares —Stable Diffusión, DALL-E, Midjourney— usan modelos de difusión.
 
-El proceso de entrenamiento de un modelo de difusión tiene dos fases:
+El proceso de entrenamiento de un modeló de difusión tiene dos fases:
 
-**Difusión hacia adelante:** Se toma una imagen real y se le añade ruido gradualmente, en pasos. Al final, la imagen es ruido puro.
+**Difusión hacía adelante:** Se toma una imagen real y se le añade ruido gradualmente, en pasos. Al final, la imagen es ruido puro.
 
-**Difusión hacia atrás:** El modelo aprende a invertir ese proceso: dado ruido, predice qué ruido fue añadido y lo elimina. Repitiendo esto muchos pasos, puede reconstruir la imagen original.
+**Difusión hacía atrás:** El modeló aprende a invertir ese proceso: dado ruido, predice qué ruido fue añadido y lo elimina. Repitiendo esto muchos pasos, puede reconstruir la imagen original.
 
 Para generar una imagen nueva: se parte de ruido puro y se aplica el proceso de difusión inversa, guiado por una descripción de texto. La "guía" de texto hace que el proceso converja en una imagen que corresponda a la descripción.
 
-El resultado: a partir de un prompt de texto, el modelo genera una imagen que no existía.
+El resultado: a partir de un prompt de texto, el modeló genera una imagen que no existía.
 
 ---
 
@@ -61,7 +61,7 @@ Las implicaciones son significativas para locución, doblaje, podcasting, produc
 
 El vídeo generativo fue durante mucho tiempo el rezagado de la IA generativa: más complejo, más costoso computacionalmente, con resultados menos convincentes.
 
-La presentación de Sora (OpenAI) en febrero de 2024 cambió las expectativas del sector. Vídeos de hasta un minuto de duración, con física realista, movimiento de cámara coherente y escenas complejas generadas a partir de prompts de texto.
+La presentación de Sora (OpenAI) en febrero de 2024 cambio las expectativas del sector. Vídeos de hasta un minuto de duración, con física realista, movimiento de cámara coherente y escenas complejas generadas a partir de prompts de texto.
 
 Runway, Pika y otros sistemas también demostraron capacidades notables. La convergencia del campo fue mucho más rápida de lo que la mayoría de los investigadores habían previsto.
 
@@ -85,11 +85,11 @@ La consecuencia no es la desaparición de los programadores: es un cambio en qu�
 
 Los modelos más recientes procesan múltiples modalidades en el mismo sistema: texto, imagen, audio, vídeo.
 
-GPT-4V (con Vision) puede analizar imágenes. Claude 3 puede interpretar documentos con texto e imágenes. Gemini fue diseñado desde el principio para ser multimodal.
+GPT-4V (con Visión) puede analizar imágenes. Claude 3 puede interpretar documentos con texto e imágenes. Gemini fue diseñado desde el principio para ser multimodal.
 
-La multimodalidad no es solo combinar modalidades: es entender las relaciones entre ellas. Un modelo multimodal puede describir una imagen, responder preguntas sobre ella, compararla con una descripción de texto, o generar variaciones.
+La multimodalidad no es solo combinar modalidades: es entender las relaciones entre ellas. Un modeló multimodal puede describir una imagen, responder preguntas sobre ella, compararla con una descripción de texto, o generar variaciones.
 
-La dirección del campo apunta hacia sistemas cada vez más integrados que procesen el mundo de la misma forma en que lo hace el ser humano: a través de múltiples canales sensoriales simultáneamente.
+La dirección del campo apunta hacía sistemas cada vez más integrados que procesen el mundo de la misma forma en que lo hace el ser humano: a través de múltiples canales sensoriales simultáneamente.
 
 ---
 
@@ -137,7 +137,7 @@ La crisis de la realidad es real. Pero la IA generativa también crea oportunida
 
 ## Capítulo 10: Adaptarse o quedarse atrás
 
-El creativo que usó IA en la historia de apertura de este libro no es el villano de la historia. Es quien entendió antes que los demás que las herramientas habían cambiado.
+El creativo que uso IA en la historia de apertura de este libro no es el villano de la historia. Es quien entendió antes que los demás que las herramientas habían cambiado.
 
 La IA generativa no hace el trabajo creativo por sí misma. Requiere criterio sobre qué generar, curación de lo que produce, edición del resultado, integración en un contexto mayor y —en los mejores trabajos— una voz humana que la IA no puede replicar.
 

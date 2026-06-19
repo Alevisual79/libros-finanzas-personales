@@ -20,11 +20,11 @@ Pero la evidencia científica dice casi lo contrario: el ejercicio es uno de los
 
 ## Capítulo 1: El ejercicio como medicamento
 
-El British Medical Journal publicó en 2013 un meta-análisis que comparó el ejercicio con la medicación en cuatro condiciones: prevención secundaria de enfermedades cardiovasculares, rehabilitación post-ictus, tratamiento de la insuficiencia cardíaca y prevención de la diabetes.
+El British Medical Journal publico en 2013 un meta-análisis que comparo el ejercicio con la medicación en cuatro condiciones: prevención secundaria de enfermedades cardiovasculares, rehabilitación post-ictus, tratamiento de la insuficiencia cardíaca y prevención de la diabetes.
 
-El resultado: en la mayoría de los escenarios, el ejercicio era tan efectivo como la medicación. En algunos, más efectivo.
+El resultado: en la mayoría de los escenarios, el ejercicio era tan efectivo cómo la medicación. En algunos, más efectivo.
 
-El ejercicio no sustituta la medicación cuando es necesaria. Pero sí es, en muchos casos, tan eficaz como un fármaco.
+El ejercicio no sustituta la medicación cuando es necesaria. Pero sí es, en muchos casos, tan eficaz cómo un fármaco.
 
 El problema: a un fármaco le prescriben dosis, pauta y seguimiento. Al ejercicio, a menudo solo le dicen "hay que moverse más".
 
@@ -71,7 +71,7 @@ Pero la rehabilitación cardíaca basada en ejercicio es uno de los tratamientos
 - Reduce la mortalidad cardiovascular en un 26%
 - Reduce los ingresos hospitalarios
 - Mejora la calidad de vida
-- Es tan efectiva como la medicación en algunos contextos
+- Es tan efectiva cómo la medicación en algunos contextos
 
 La clave: la rehabilitación cardíaca debe ser supervisada, gradual y adaptada al estado individual. No es "sal a correr". Es un programa médicamente guiado.
 

@@ -60,7 +60,7 @@ Días o semanas después de terminar el libro, revisar solo los subrayados y not
 
 ## Capítulo 4: Selección — leer menos libros pero mejores
 
-La industria editorial publica más de dos millones de libros nuevos al año solo en inglés. La selección importa tanto como la técnica de lectura.
+La industria editorial pública más de dos millones de libros nuevos al año solo en inglés. La selección importa tanto cómo la técnica de lectura.
 
 **Los criterios de selección:**
 - ¿El autor tiene credenciales reales en lo que escribe (experiencia, investigación) o es principalmente un comunicador de ideas ajenas?

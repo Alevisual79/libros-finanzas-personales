@@ -8,7 +8,7 @@
 
 ## Prólogo: La reunión a la que no invitaron a Rubén
 
-Rubén era bueno en su trabajo. Los resultados lo demostraban. Pero cuando el cliente principal de la agencia para la que colaboraba organizó una reunión estratégica, no llamaron a Rubén.
+Rubén era bueno en su trabajo. Los resultados lo demostraban. Pero cuando el cliente principal de la agencia para la que colaboraba organizo una reunión estratégica, no llamaron a Rubén.
 
 Llamaron a otro freelance con un portfolio similar al suyo.
 
@@ -71,7 +71,7 @@ La competencia, la fiabilidad y el carácter tienen que ser conocidos para tener
 
 El mayor obstáculo para gestionar la reputación de forma activa: la incomodidad cultural con la visibilidad propia.
 
-"No me gusta la autopromoción" es una objeción frecuente. Y es comprensible: la autopromoción excesiva o inapropiada produce rechazo.
+"No me gusta la autopromoción" es una objeción frecuente. Y es comprensible: la autopromoción excesiva o inapropiada produce rechazó.
 
 **La alternativa:**
 La visibilidad no es hablar de uno mismo. Es contribuir de forma que el trabajo y las ideas sean conocidos.
@@ -163,7 +163,7 @@ Las personas recuerdan cómo las hiciste sentir más que lo que hiciste exactame
 
 ## Capítulo 10: El cambio de Rubén
 
-Rubén trabajó durante seis meses en cambiar la percepción que tenía el mercado de él.
+Rubén trabajo durante seis meses en cambiar la percepción que tenía el mercado de él.
 
 Dos cambios concretos:
 1. Empezó a escribir sobre estrategia de negocio en LinkedIn, con análisis de casos reales de su trabajo (con permiso de los clientes).

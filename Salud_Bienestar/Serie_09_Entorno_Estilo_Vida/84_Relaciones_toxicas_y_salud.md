@@ -49,7 +49,7 @@ Los conflictos ocasionales, las diferencias de opinión, los momentos difíciles
 
 ## Capítulo 3: El cuerpo bajo el estrés relacional crónico
 
-El conflicto interpersonal es uno de los estresores más potentes para el sistema nervioso humano. Los seres humanos son animales sociales; el rechazo y el conflicto social activan los mismos circuitos cerebrales que el dolor físico.
+El conflicto interpersonal es uno de los estresores más potentes para el sistema nervioso humano. Los seres humanos son animales sociales; el rechazó y el conflicto social activan los mismos circuitos cerebrales que el dolor físico.
 
 **Lo que el estrés relacional hace al cuerpo:**
 - Activación crónica del eje HPA (cortisol elevado)

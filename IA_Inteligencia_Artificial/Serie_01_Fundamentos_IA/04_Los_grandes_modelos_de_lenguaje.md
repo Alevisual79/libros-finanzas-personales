@@ -7,9 +7,9 @@
 
 ## Prólogo: La pregunta de la analítica
 
-Rubén llevaba semanas usando ChatGPT para sus propuestas de marketing. Un día le preguntó por las ventas de un producto específico de su cliente. El modelo respondió con cifras detalladas, tendencias, comparativas con el sector. Todo perfectamente redactado.
+Rubén llevaba semanas usando ChatGPT para sus propuestas de marketing. Un día le preguntó por las ventas de un producto específico de su cliente. El modeló respondió con cifras detalladas, tendencias, comparativas con el sector. Todo perfectamente redactado.
 
-El problema: las cifras eran completamente inventadas. El modelo nunca había tenido acceso a los datos de ese cliente. Había generado texto plausible sobre ventas de ese tipo de producto.
+El problema: las cifras eran completamente inventadas. El modeló nunca había tenido acceso a los datos de ese cliente. Había generado texto plausible sobre ventas de ese tipo de producto.
 
 Rubén casi envió esa propuesta a su cliente. Llegó a tiempo para verificar los datos.
 
@@ -21,7 +21,7 @@ Esa experiencia le hizo entender algo fundamental sobre los LLMs: no saben nada.
 
 Antes de los Transformers, los modelos de lenguaje procesaban el texto secuencialmente, palabra por palabra. Para textos largos, "olvidaban" el principio cuando llegaban al final.
 
-El paper de 2017 "Attention is all you need" (Vaswani et al., Google) introdujo la arquitectura Transformer, que cambió radicalmente este enfoque.
+El paper de 2017 "Attention is all you need" (Vaswani et al., Google) introdujó la arquitectura Transformer, que cambio radicalmente este enfoque.
 
 La innovación clave: el mecanismo de **atención**. En lugar de procesar el texto secuencialmente, el Transformer puede "atender" a cualquier parte del texto al procesar cualquier otra parte. Al generar la palabra "él" en una oración larga, puede referirse directamente al sustantivo que está cuatro frases antes.
 
@@ -33,15 +33,15 @@ Esta capacidad de capturar dependencias de largo alcance, combinada con su paral
 
 La familia GPT (Generative Pre-trained Transformer) de OpenAI ilustra la aceleración del campo:
 
-**GPT-1 (2018):** 117 millones de parámetros. Primer modelo que demostró que pre-entrenar en texto general y ajustar para tareas específicas era más eficiente que entrenar desde cero para cada tarea.
+**GPT-1 (2018):** 117 millones de parámetros. Primer modeló que demostró que pre-entrenar en texto general y ajustar para tareas específicas era más eficiente que entrenar desde cero para cada tarea.
 
-**GPT-2 (2019):** 1.5 mil millones de parámetros. OpenAI inicialmente no lo publicó completo por miedo a su uso malicioso para generar desinformación. En perspectiva, era considerablemente menos capaz que los modelos actuales.
+**GPT-2 (2019):** 1.5 mil millones de parámetros. OpenAI inicialmente no lo publico completo por miedo a su uso malicioso para generar desinformación. En perspectiva, era considerablemente menos capaz que los modelos actuales.
 
-**GPT-3 (2020):** 175 mil millones de parámetros. El primer modelo que demostró capacidades emergentes sorprendentes: sin entrenamiento específico, podía realizar tareas que no estaban en su conjunto de entrenamiento.
+**GPT-3 (2020):** 175 mil millones de parámetros. El primer modeló que demostró capacidades emergentes sorprendentes: sin entrenamiento específico, podía realizar tareas que no estaban en su conjunto de entrenamiento.
 
 **GPT-4 (2023):** Capacidades muy superiores. Supera a humanos en múltiples benchmarks académicos estandarizados.
 
-En paralelo, Anthropic desarrolló Claude, Google desarrolló Gemini y PaLM, Meta publicó Llama (de código abierto), y decenas de empresas más entrenaron sus propios modelos.
+En paralelo, Anthropic desarrollo Claude, Google desarrollo Gemini y PaLM, Meta publico Llama (de código abierto), y decenas de empresas más entrenaron sus propios modelos.
 
 ---
 
@@ -51,11 +51,11 @@ Un LLM funciona prediciendo el siguiente token dado el contexto anterior.
 
 Un **token** no es exactamente una palabra: es una unidad de texto que puede ser una palabra, parte de una palabra, o un signo de puntuación. GPT-4 tiene un vocabulario de aproximadamente 100,000 tokens.
 
-Para cada token posible, el modelo produce una probabilidad. "The cat sat on the ___" podría producir: "mat" (0.25), "floor" (0.18), "couch" (0.12), "table" (0.09)... El siguiente token se selecciona de acuerdo a esas probabilidades (con parámetros que controlan el nivel de aleatoriedad).
+Para cada token posible, el modeló produce una probabilidad. "The cat sat on the ___" podría producir: "mat" (0.25), "floor" (0.18), "couch" (0.12), "table" (0.09)... El siguiente token se selecciona de acuerdo a esas probabilidades (con parámetros que controlan el nivel de aleatoriedad).
 
-Este proceso se repite recursivamente. El token generado se añade al contexto, y se predice el siguiente. Así hasta que el modelo genera el token de fin de secuencia o se alcanza la longitud máxima.
+Este proceso se repite recursivamente. El token generado se añade al contexto, y se predice el siguiente. Así hasta que el modeló genera el token de fin de secuencia o se alcanza la longitud máxima.
 
-Todo el proceso es estadístico: el modelo no "decide" qué escribir; produce distribuciones de probabilidad sobre tokens.
+Todo el proceso es estadístico: el modeló no "decide" qué escribir; produce distribuciones de probabilidad sobre tokens.
 
 ---
 
@@ -63,11 +63,11 @@ Todo el proceso es estadístico: el modelo no "decide" qué escribir; produce di
 
 Los LLMs modernos se entrenan en dos fases.
 
-**Pre-entrenamiento:** El modelo aprende a predecir texto en cantidades masivas de datos: libros, artículos, páginas web, código, conversaciones. Aprende la estructura del lenguaje, los hechos del mundo, las convenciones de distintos géneros y estilos. Este entrenamiento cuesta decenas o cientos de millones de dólares.
+**Pre-entrenamiento:** El modeló aprende a predecir texto en cantidades masivas de datos: libros, artículos, páginas web, código, conversaciones. Aprende la estructura del lenguaje, los hechos del mundo, las convenciones de distintos géneros y estilos. Este entrenamiento cuesta decenas o cientos de millones de dólares.
 
-**Fine-tuning y RLHF:** El modelo base pre-entrenado predice texto, pero no necesariamente de la forma útil para un asistente. El fine-tuning (ajuste fino) entrena el modelo con ejemplos de conversaciones de alta calidad, y el RLHF (Reinforcement Learning from Human Feedback) usa evaluadores humanos para guiar al modelo hacia respuestas más útiles, honestas y seguras.
+**Fine-tuning y RLHF:** El modeló base pre-entrenado predice texto, pero no necesariamente de la forma útil para un asistente. El fine-tuning (ajuste fino) entrena el modeló con ejemplos de conversaciones de alta calidad, y el RLHF (Reinforcement Learning from Human Feedback) usa evaluadores humanos para guiar al modeló hacía respuestas más útiles, honestas y seguras.
 
-Este segundo paso es el que convierte el modelo base en un asistente como ChatGPT o Claude.
+Este segundo paso es el que convierte el modeló base en un asistente como ChatGPT o Claude.
 
 ---
 
@@ -77,9 +77,9 @@ Los LLMs tienen una **ventana de contexto**: la cantidad máxima de texto que pu
 
 Los primeros GPT tenían ventanas de 2,048 tokens (aproximadamente 1,500 palabras). Los modelos actuales tienen ventanas de 128,000, 200,000 o incluso 1 millón de tokens.
 
-La ventana de contexto determina qué puede usar el modelo para generar su respuesta: los mensajes anteriores de la conversación, los documentos que se le proporcionan, las instrucciones del sistema.
+La ventana de contexto determina qué puede usar el modeló para generar su respuesta: los mensajes anteriores de la conversación, los documentos que se le proporcionan, las instrucciones del sistema.
 
-Lo que está fuera de la ventana de contexto, el modelo no lo "sabe". No tiene memoria entre conversaciones (a menos que se implemente explícitamente). Cada conversación empieza desde cero.
+Lo que está fuera de la ventana de contexto, el modeló no lo "sabe". No tiene memoria entre conversaciones (a menos que se implemente explícitamente). Cada conversación empieza desde cero.
 
 Este es uno de los factores que explican por qué los LLMs dan respuestas inconsistentes en diferentes conversaciones.
 
@@ -103,7 +103,7 @@ Las alucinaciones —generar información falsa con confianza— son el problema
 
 La causa es estructural: el objetivo de entrenamiento es predecir texto plausible, no texto verdadero. No hay un mecanismo interno que distinga entre "texto que refleja hechos reales" y "texto que suena como si reflejara hechos reales".
 
-Cuando el modelo llega a una pregunta sobre la que tiene información en sus datos de entrenamiento, produce texto consistente con esa información. Cuando llega a una pregunta sobre la que no tiene información —o sobre eventos posteriores a su fecha de corte—, produce texto plausible en el mismo estilo con confianza similar.
+Cuando el modeló llega a una pregunta sobre la que tiene información en sus datos de entrenamiento, produce texto consistente con esa información. Cuando llega a una pregunta sobre la que no tiene información —o sobre eventos posteriores a su fecha de corte—, produce texto plausible en el mismo estilo con confianza similar.
 
 Los factores que reducen las alucinaciones incluyen: el fine-tuning para admitir ignorancia, el acceso a fuentes externas en tiempo real (retrieval-augmented generation), y la instrucción explícita de citar fuentes.
 
@@ -115,11 +115,11 @@ Pero las alucinaciones no se eliminan completamente con los sistemas actuales. S
 
 Los LLMs tienen una **fecha de corte**: la fecha hasta la que tienen datos de entrenamiento. Después de esa fecha, no tienen conocimiento de eventos.
 
-GPT-4 tiene una fecha de corte en 2023. Preguntas sobre eventos de 2024 o 2025 solo pueden ser respondidas correctamente si el modelo tiene acceso a búsqueda web en tiempo real.
+GPT-4 tiene una fecha de corte en 2023. Preguntas sobre eventos de 2024 o 2025 solo pueden ser respondidas correctamente si el modeló tiene acceso a búsqueda web en tiempo real.
 
 Sin acceso a internet, los modelos responden preguntas sobre eventos recientes de dos formas: admitiendo que no saben (comportamiento deseable) o inventando información plausible (comportamiento indeseable que ocurre).
 
-La solución más común es RAG (Retrieval-Augmented Generation): conectar el modelo a una base de datos o al internet para recuperar información actualizada antes de generar la respuesta.
+La solución más común es RAG (Retrieval-Augmented Generation): conectar el modeló a una base de datos o al internet para recuperar información actualizada antes de generar la respuesta.
 
 ---
 
@@ -141,7 +141,7 @@ El error más común al usar LLMs es tratarlos como bases de datos de hechos. No
 
 Las tareas en que los LLMs brillan:
 - Redacción, edición y mejora de texto
-- Síntesis de documentos proporcionados al modelo
+- Síntesis de documentos proporcionados al modeló
 - Generación de borradores, ideas, estructuras
 - Explicación de conceptos
 - Transformación de formato o estilo
@@ -153,7 +153,7 @@ Las tareas que requieren cautela:
 - Cálculos matemáticos complejos (usar herramientas de cálculo)
 - Información médica, legal o financiera de alta importancia (consultar profesionales)
 
-Rubén aprendió su lección. A partir de entonces, cuando pedía datos al modelo, siempre añadía la instrucción: "Si no tienes información verificada sobre esto, dímelo en lugar de inventar cifras." Una instrucción simple que cambió la calidad de sus outputs.
+Rubén aprendió su lección. A partir de entonces, cuando pedía datos al modeló, siempre añadía la instrucción: "Si no tienes información verificada sobre esto, dímelo en lugar de inventar cifras." Una instrucción simple que cambio la calidad de sus outputs.
 
 ---
 

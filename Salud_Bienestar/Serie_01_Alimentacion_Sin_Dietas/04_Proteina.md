@@ -30,7 +30,7 @@ Las proteínas son macronutrientes formados por aminoácidos.
 La proteína es literalmente el material con el que está hecho tu cuerpo. No es un extra. Es estructura.
 
 **Los aminoácidos esenciales:**
-De los 20 aminoácidos, 9 son esenciales: el cuerpo no puede fabricarlos y debe obtenerlos de la dieta. Los alimentos de origen animal tienen todos los esenciales. Los de origen vegetal generalmente no (con excepciones como la soja y la quinoa).
+De los 20 aminoácidos, 9 son esenciales: el cuerpo no puede fabricarlos y debe obtenerlos de la dieta. Los alimentos de origen animal tienen todos los esenciales. Los de origen vegetal generalmente no (con excepciones cómo la soja y la quinoa).
 
 ---
 

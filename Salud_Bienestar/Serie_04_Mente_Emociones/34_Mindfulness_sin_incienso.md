@@ -8,11 +8,11 @@
 
 ## Prólogo: Cuando "meditar" suena a otra cosa
 
-Miguel intentó meditar tres veces. La primera, siguió una app que le pedía "visualizar luz dorada llenando tu cuerpo". La segunda, una clase de yoga donde la profesora hablaba de "vaciar la mente". La tercera, un retiro de fin de semana donde todo olía a sándalo y nadie parecía tener problemas reales.
+Miguel intento meditar tres veces. La primera, siguio una app que le pedía "visualizar luz dorada llenando tu cuerpo". La segunda, una clase de yoga donde la profesora hablaba de "vaciar la mente". La tercera, un retiro de fin de semana donde todo olía a sándalo y nadie parecía tener problemas reales.
 
 En los tres casos, pensó que el mindfulness no era para él.
 
-Lo que nadie le explicó es que el mindfulness, despojado de espiritualidad de postal y de promesas new age, es una habilidad cognitiva con 40 años de investigación clínica, que se puede aprender en 10 minutos al día y que tiene efectos documentados sobre el estrés, la ansiedad, la depresión y el bienestar.
+Lo que nadie le explico es que el mindfulness, despojado de espiritualidad de postal y de promesas new age, es una habilidad cognitiva con 40 años de investigación clínica, que se puede aprender en 10 minutos al día y que tiene efectos documentados sobre el estrés, la ansiedad, la depresión y el bienestar.
 
 Este libro es para los que pensaban que el mindfulness no era para ellos.
 
@@ -25,7 +25,7 @@ El mindfulness —atención plena— es la capacidad de prestar atención al mom
 No es vaciar la mente. No es no pensar. No es estar tranquilo. No requiere posturas especiales ni creencias espirituales.
 
 **La definición operativa de Jon Kabat-Zinn:**
-Jon Kabat-Zinn, el investigador que introdujo el mindfulness en la medicina occidental en 1979, lo define como "prestar atención de una manera particular: intencionalmente, en el momento presente, y sin juzgar".
+Jon Kabat-Zinn, el investigador que introdujó el mindfulness en la medicina occidental en 1979, lo define como "prestar atención de una manera particular: intencionalmente, en el momento presente, y sin juzgar".
 
 **Lo que sí es:**
 Una forma de dirigir la atención. En lugar de dejar que la mente vague entre el pasado (rumiación) y el futuro (preocupación), se entrena para volver al momento presente. No para quedarse ahí siempre —la mente divaga, eso es lo que hace—, sino para notar que ha divagado y volver, sin drama, sin autocrítica.
@@ -83,7 +83,7 @@ El núcleo de la práctica de mindfulness es simple aunque no fácil.
 **La práctica más básica:**
 
 1. Siéntate cómodamente (no necesariamente en el suelo; una silla sirve)
-2. Cierra los ojos o baja la mirada hacia el suelo
+2. Cierra los ojos o baja la mirada hacía el suelo
 3. Lleva la atención a la respiración: la sensación del aire entrando por la nariz, el movimiento del pecho o el abdomen
 4. Cuando notes que la mente ha ido a otro lugar (y lo notarás, constantemente), simplemente devuelve la atención a la respiración
 5. Sin juzgarte por haberte distraído. Sin frustración. Solo volver.
@@ -158,7 +158,7 @@ El dolor crónico es una de las indicaciones originales del mindfulness. El trab
 El dolor es una señal sensorial. El sufrimiento es la respuesta cognitiva y emocional al dolor: el miedo al futuro, la rabia por la limitación, el catastrofismo. El mindfulness no reduce el dolor sensorial pero sí puede reducir el sufrimiento asociado.
 
 **El mecanismo:**
-La atención al dolor con ecuanimidad (sin la reacción de rechazo y lucha) activa vías neurales diferentes a la reacción de miedo y evasión. Los estudios de neuroimagen muestran que los meditadores procesan el dolor en regiones cerebrales diferentes: menos activación de la amígdala, más activación de áreas de procesamiento sensorial sin el componente emocional de la amenaza.
+La atención al dolor con ecuanimidad (sin la reacción de rechazó y lucha) activa vías neurales diferentes a la reacción de miedo y evasión. Los estudios de neuroimagen muestran que los meditadores procesan el dolor en regiones cerebrales diferentes: menos activación de la amígdala, más activación de áreas de procesamiento sensorial sin el componente emocional de la amenaza.
 
 **Lo que no es:**
 El mindfulness no elimina el dolor crónico. No es sugestión. Es un cambio en la relación con la experiencia que reduce el componente de sufrimiento añadido.
@@ -175,10 +175,10 @@ El mindfulness no elimina el dolor crónico. No es sugestión. Es un cambio en l
 **Libros:**
 - "Wherever You Go, There You Are" — Jon Kabat-Zinn
 - "Full Catastrophe Living" — Jon Kabat-Zinn (el libro del programa MBSR)
-- "The Mindful Way Through Depression" — Williams, Teasdale, Segal, Kabat-Zinn
+- "The Mindful Way Through Depressión" — Williams, Teasdale, Segal, Kabat-Zinn
 
 **Cursos online:**
-El programa MBSR completo está disponible online a través de varias plataformas. Algunas universidades (como la de Oxford con su mindfulness center) ofrecen programas validados.
+El programa MBSR completo está disponible online a través de varias plataformas. Algunas universidades (cómo la de Oxford con su mindfulness center) ofrecen programas validados.
 
 **Grupos de meditación:**
 Meditar en grupo genera mayor adherencia. Muchas ciudades tienen grupos de meditación laicos no vinculados a ninguna tradición religiosa.

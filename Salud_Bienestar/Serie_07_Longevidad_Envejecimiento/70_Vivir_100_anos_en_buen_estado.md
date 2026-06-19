@@ -47,7 +47,7 @@ El ikigai japonés, el "plan de vida" costarricense: una razón para levantarse 
 Todas las zonas azules tienen rituales de reducción del estrés: la siesta (Cerdeña, Icaria), la oración (Loma Linda, Nicoya), la hora de vino con amigos (Cerdeña). No es ocio: es gestión activa del estrés crónico.
 
 **4. Regla del 80%:**
-Los okinaweses dicen "hara hachi bu" antes de comer: "come hasta el 80% de la saciedad". La restricción calórica moderada es el único factor que ha demostrado extensión de la vida en prácticamente todos los organismos estudiados.
+Los okinaweses dicen "hará hachi bu" antes de comer: "come hasta el 80% de la saciedad". La restricción calórica moderada es el único factor que ha demostrado extensión de la vida en prácticamente todos los organismos estudiados.
 
 **5. Predominio vegetal:**
 Las legumbres son el pilar proteico de todas las zonas azules. La carne existe pero en cantidades pequeñas y en días especiales.

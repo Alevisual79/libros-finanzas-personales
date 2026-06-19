@@ -8,7 +8,7 @@
 
 ## Prólogo: Cuando el cuerpo se convierte en un trabajo a tiempo completo
 
-Carmen recibió el diagnóstico de artritis reumatoide hace tres años. Ya tenía la hipertensión. Ya tenía la artrosis de rodilla. Ahora tiene también un nombre para el dolor de las manos que la despertaba por las noches.
+Carmen recibio el diagnóstico de artritis reumatoide hace tres años. Ya tenía la hipertensión. Ya tenía la artrosis de rodilla. Ahora tiene también un nombre para el dolor de las manos que la despertaba por las noches.
 
 Nadie le enseñó a vivir con una enfermedad crónica. Le explicaron el diagnóstico, le recetaron medicación y le dieron cita para dentro de seis meses.
 
@@ -39,7 +39,7 @@ Las personas con enfermedades crónicas tienen tasas de depresión dos a tres ve
 
 ---
 
-## Capítulo 2: El modelo de la carga de la enfermedad
+## Capítulo 2: El modeló de la carga de la enfermedad
 
 El sociólogo Moe Catanzaro describió el "trabajo de la enfermedad": las enfermedades crónicas generan una carga de trabajo constante que pocas personas externas reconocen.
 
@@ -80,7 +80,7 @@ El dolor crónico tiene mejor respuesta a tratamientos que combinan la intervenc
 ## Capítulo 4: Las emociones más frecuentes en la enfermedad crónica
 
 **La rabia:**
-"¿Por qué a mí?" La rabia ante la enfermedad es normal y legítima. El problema es cuando se cronifica o se dirige hacia el entorno de forma destructiva. La rabia no procesada puede bloquear la adaptación y dañar las relaciones.
+"¿Por qué a mí?" La rabia ante la enfermedad es normal y legítima. El problema es cuando se cronifica o se dirige hacía el entorno de forma destructiva. La rabia no procesada puede bloquear la adaptación y dañar las relaciones.
 
 **El miedo:**
 Al dolor, a la discapacidad, a la dependencia, a la muerte. El miedo razonable sobre el futuro puede convertirse en ansiedad crónica que consume recursos y deteriora la calidad de vida.
@@ -108,7 +108,7 @@ Aceptar que se tiene una enfermedad crónica no significa no luchar, no buscar t
 
 **La ecuación del sufrimiento:**
 Sufrimiento = Dolor × Resistencia
-El dolor (físico o emocional) es en parte inevitable. La resistencia —el rechazo furioso a la realidad, el "esto no debería estar pasando", el "cuándo se acaba esto"— multiplica el sufrimiento sin reducir el dolor.
+El dolor (físico o emocional) es en parte inevitable. La resistencia —el rechazó furioso a la realidad, el "esto no debería estar pasando", el "cuándo se acaba esto"— multiplica el sufrimiento sin reducir el dolor.
 
 **La terapia de aceptación y compromiso (ACT):**
 La ACT es el tratamiento psicológico con más evidencia específica para la enfermedad crónica y el dolor crónico. Sus principios:
@@ -163,7 +163,7 @@ Registrar síntomas, estado de ánimo, factores que alivian o agravan, preguntas
 La conexión con otras personas que viven la misma enfermedad puede ser una fuente de validación, información práctica y apoyo emocional inestimable. El "aquí te entienden" que no siempre está disponible en el entorno habitual.
 
 **La psicoterapia:**
-Especialmente la ACT y la TCC adaptadas a la enfermedad crónica. La ayuda profesional no es un signo de debilidad sino una herramienta de mantenimiento, como la fisioterapia o la medicación.
+Especialmente la ACT y la TCC adaptadas a la enfermedad crónica. La ayuda profesional no es un signo de debilidad sino una herramienta de mantenimiento, cómo la fisioterapia o la medicación.
 
 **El mindfulness para el dolor:**
 La práctica de mindfulness no reduce el dolor en sí pero cambia la relación con él. El dolor sin resistencia y sin miedo es diferente del dolor con resistencia y con miedo, aunque la señal física sea la misma.
@@ -199,7 +199,7 @@ La calidad de vida no es solo ausencia de síntomas. Incluye la capacidad de hac
 En la enfermedad crónica, los logros se miden de forma diferente. Haber gestionado el dolor y aun así ir a la cena de cumpleaños del nieto. Haber tenido un brote y haberlo atravesado sin caer en la desesperación. Estas son victorias reales.
 
 **El plan de Carmen:**
-Carmen se apuntó a un grupo de apoyo para personas con artritis. Empezó a ver a una psicóloga una vez al mes. Habló con su médico sobre la ansiedad que tenía antes de cada analítica. "No estoy mejor de la artritis. Pero estoy mejor yo."
+Carmen se apunto a un grupo de apoyo para personas con artritis. Empezó a ver a una psicóloga una vez al mes. Habló con su médico sobre la ansiedad que tenía antes de cada analítica. "No estoy mejor de la artritis. Pero estoy mejor yo."
 
 ---
 
@@ -209,7 +209,7 @@ La enfermedad crónica cambia una vida. Pero no tiene que definirla.
 
 Las personas que viven bien con enfermedades crónicas no son las que tienen menos síntomas. Son las que han encontrado formas de mantener lo que les importa, de gestionar el sufrimiento sin que lo ocupe todo, de seguir siendo ellas mismas a pesar de todo.
 
-El último libro de esta serie, "La salud mental es salud", aborda el marco más amplio: desmontar el estigma, integrar la salud mental en el concepto de salud y construir el bienestar psicológico como proyecto continuo.
+El último libro de esta serie, "La salud mental es salud", aborda el marcó más amplio: desmontar el estigma, integrar la salud mental en el concepto de salud y construir el bienestar psicológico como proyecto continuo.
 
 ---
 

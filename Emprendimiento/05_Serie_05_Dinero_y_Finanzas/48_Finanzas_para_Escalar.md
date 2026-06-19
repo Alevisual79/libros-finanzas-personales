@@ -1,80 +1,80 @@
-﻿# Finanzas para Escalar
+# Finanzas para Escalar
 ## Las palancas financieras del crecimiento
 
 **Serie 05: Dinero y Finanzas del Negocio — Libro 8 de 10**
 
 ---
 
-## Prologo
+## Prólogo
 
-Elena Ruben e Isabel cometen los mismos errores financieros que cometen la mayoria de los emprendedores: mezclar dinero personal y de negocio ignorar el flujo de caja y no entender sus margenes.
-
----
-
-## Capitulo 1: Conceptos financieros basicos del negocio
-
-Este capitulo explora conceptos financieros basicos del negocio con investigacion, casos practicos y herramientas aplicables desde hoy.
+Elena Ruben e Isabel cometen los mismos errores financieros que cometen la mayoría de los emprendedores: mezclar dinero personal y de negocio ignorar el flujo de caja y no entender sus margenes.
 
 ---
 
-## Capitulo 2: Ingresos costes y margen bruto
+## Capítulo 1: Conceptos financieros basicos del negocio
 
-Este capitulo explora ingresos costes y margen bruto con investigacion, casos practicos y herramientas aplicables desde hoy.
-
----
-
-## Capitulo 3: Punto de equilibrio: cuando empiezas a ganar
-
-Este capitulo explora punto de equilibrio: cuando empiezas a ganar con investigacion, casos practicos y herramientas aplicables desde hoy.
+Este capítulo explora conceptos financieros basicos del negocio con investigación, casos prácticos y herramientas aplicables desde hoy.
 
 ---
 
-## Capitulo 4: El flujo de caja como indicador vital
+## Capítulo 2: Ingresos costes y margen bruto
 
-Este capitulo explora el flujo de caja como indicador vital con investigacion, casos practicos y herramientas aplicables desde hoy.
-
----
-
-## Capitulo 5: Separar las finanzas personales de las del negocio
-
-Este capitulo explora separar las finanzas personales de las del negocio con investigacion, casos practicos y herramientas aplicables desde hoy.
+Este capítulo explora ingresos costes y margen bruto con investigación, casos prácticos y herramientas aplicables desde hoy.
 
 ---
 
-## Capitulo 6: Herramientas de gestion financiera
+## Capítulo 3: Punto de equilibrio: cuando empiezas a ganar
 
-Este capitulo explora herramientas de gestion financiera con investigacion, casos practicos y herramientas aplicables desde hoy.
-
----
-
-## Capitulo 7: Cuando necesitas un asesor fiscal
-
-Este capitulo explora cuando necesitas un asesor fiscal con investigacion, casos practicos y herramientas aplicables desde hoy.
+Este capítulo explora punto de equilibrio: cuando empiezas a ganar con investigación, casos prácticos y herramientas aplicables desde hoy.
 
 ---
 
-## Capitulo 8: Planificacion financiera a un ano
+## Capítulo 4: El flujo de caja como indicador vital
 
-Este capitulo explora planificacion financiera a un ano con investigacion, casos practicos y herramientas aplicables desde hoy.
-
----
-
-## Capitulo 9: Indicadores financieros clave
-
-Este capitulo explora indicadores financieros clave con investigacion, casos practicos y herramientas aplicables desde hoy.
+Este capítulo explora el flujo de caja como indicador vital con investigación, casos prácticos y herramientas aplicables desde hoy.
 
 ---
 
-## Capitulo 10: El negocio financieramente sano
+## Capítulo 5: Separar las finanzas personales de las del negocio
 
-Este capitulo explora el negocio financieramente sano con investigacion, casos practicos y herramientas aplicables desde hoy.
+Este capítulo explora separar las finanzas personales de las del negocio con investigación, casos prácticos y herramientas aplicables desde hoy.
 
 ---
 
-## Epilogo
+## Capítulo 6: Herramientas de gestión financiera
+
+Este capítulo explora herramientas de gestión financiera con investigación, casos prácticos y herramientas aplicables desde hoy.
+
+---
+
+## Capítulo 7: Cuando necesitas un asesor fiscal
+
+Este capítulo explora cuando necesitas un asesor fiscal con investigación, casos prácticos y herramientas aplicables desde hoy.
+
+---
+
+## Capítulo 8: Planificación financiera a un año
+
+Este capítulo explora planificación financiera a un año con investigación, casos prácticos y herramientas aplicables desde hoy.
+
+---
+
+## Capítulo 9: Indicadores financieros clave
+
+Este capítulo explora indicadores financieros clave con investigación, casos prácticos y herramientas aplicables desde hoy.
+
+---
+
+## Capítulo 10: El negocio financieramente sano
+
+Este capítulo explora el negocio financieramente sano con investigación, casos prácticos y herramientas aplicables desde hoy.
+
+---
+
+## Epílogo
 
 Las finanzas del negocio no son complicadas. Son indispensables. Y se aprenden.
 
 ---
 
-*Libro 48 de la coleccion, Libro 8 de 10 de Serie 05: Dinero y Finanzas del Negocio.*
+*Libro 48 de la colección, Libro 8 de 10 de Serie 05: Dinero y Finanzas del Negocio.*

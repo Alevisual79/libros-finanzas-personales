@@ -70,13 +70,13 @@ Escribir las preguntas que se quieren hacer antes de salir de la consulta. En el
 ## Capítulo 3: Durante la consulta — cómo comunicar bien
 
 **Ir al grano:**
-Empezar por el motivo principal. "Vengo porque llevo tres semanas con un dolor en el lado derecho del abdomen que aparece después de comer y que se irradia hacia la espalda." No por los antecedentes remotos, no por las preocupaciones secundarias: primero el problema principal.
+Empezar por el motivo principal. "Vengo porque llevo tres semanas con un dolor en el lado derecho del abdomen que aparece después de comer y que se irradia hacía la espalda." No por los antecedentes remotos, no por las preocupaciones secundarias: primero el problema principal.
 
 **Dar la información sin filtros:**
 A veces los pacientes ocultan información por vergüenza (consumo de alcohol, medicamentos no prescritos, conductas sexuales de riesgo). Esa información puede ser clínicamente crucial. El médico no juzga: necesita la información completa para tomar buenas decisiones.
 
 **Pedir explicaciones si no se entiende:**
-"¿Podría explicarme en términos más sencillos qué significa ese diagnóstico?" "¿Qué quiere decir exactamente con 'valor límite'?" "¿Qué pasa si no tomo ese medicamento?"
+"¿Podría explicarme en términos más sencillos qué significa ese diagnóstico?" "¿Qué quiere decir exactamente con 'valor límite'?" "¿Qué pasa si no tomó ese medicamento?"
 
 No hay pregunta tonta. Hay preguntas que no se hacen y que generan confusión, mal cumplimiento y peores resultados.
 
@@ -97,7 +97,7 @@ Antes de salir, repetir en las propias palabras el diagnóstico, el tratamiento 
 **Cómo pedirla sin conflicto:**
 Pedir la segunda opinión no implica desconfiar del médico actual. Se puede decir directamente: "Dada la importancia de este diagnóstico, me gustaría tener una segunda opinión antes de decidir. ¿Puede facilitarme el informe para llevar?"
 
-Un buen médico no se ofende: lo entiende como un derecho del paciente en decisiones de alto impacto.
+Un buen médico no se ofende: lo entiende cómo un derecho del paciente en decisiones de alto impacto.
 
 **La segunda opinión y el sistema público:**
 En España, el sistema público permite la segunda opinión, aunque el proceso puede variar por comunidad autónoma. Algunos hospitales tienen unidades de segunda opinión.
@@ -190,9 +190,9 @@ Los datos de los wearables son más útiles para tendencias a lo largo del tiemp
 El sistema sanitario español tiene fortalezas notables: cobertura universal, atención primaria relativamente accesible, costes controlados. También tiene limitaciones: sobrecarga, listas de espera, tiempo de consulta insuficiente.
 
 Otros sistemas tienen aproximaciones diferentes:
-- El modelo escandinavo: mayor tiempo de consulta, mayor énfasis en la decisión compartida
-- El modelo anglosajón: mayor cultura de la segunda opinión, mayor participación del paciente
-- El modelo japonés: cultura de revisión médica preventiva muy arraigada
+- El modeló escandinavo: mayor tiempo de consulta, mayor énfasis en la decisión compartida
+- El modeló anglosajón: mayor cultura de la segunda opinión, mayor participación del paciente
+- El modeló japonés: cultura de revisión médica preventiva muy arraigada
 
 Lo que el paciente español puede adoptar, independientemente del sistema:
 - La preparación de la consulta
@@ -222,7 +222,7 @@ Lo que el paciente español puede adoptar, independientemente del sistema:
 **En casa:**
 11. Anotar lo que el médico ha explicado (si es necesario, grabar la consulta con permiso)
 12. Buscar información adicional en fuentes fiables si hay dudas
-13. Tomar la medicación como se ha indicado
+13. Tomar la medicación cómo se ha indicado
 14. Contactar si hay efectos secundarios o cambios inesperados
 
 ---

@@ -164,7 +164,7 @@ Los ejercicios de movilidad (movimientos controlados en todo el rango articular)
 
 ## Capítulo 8: La recuperación mental — descansar el cerebro
 
-El trabajo cognitivo intenso agota el cerebro tanto como el ejercicio físico agota el músculo. La recuperación mental es tan necesaria como la física, y sus herramientas son específicas.
+El trabajo cognitivo intenso agota el cerebro tanto como el ejercicio físico agota el músculo. La recuperación mental es tan necesaria cómo la física, y sus herramientas son específicas.
 
 **El descanso real vs. el pseudodescanso:**
 Scrollear en redes sociales, ver noticias o responder mensajes no es descanso mental. Son actividades que mantienen el cerebro en modo alerta y procesamiento. El cerebro no se restaura.
@@ -178,7 +178,7 @@ El contacto con entornos naturales (parques, espacios verdes, agua) produce una 
 Un paseo de 20 minutos en un parque produce mayor recuperación cognitiva que 20 minutos en un entorno urbano.
 
 **El aburrimiento productivo:**
-La mente que no está dirigida hacia una tarea específica entra en el "modo por defecto" (default mode network), una forma de actividad cerebral asociada con la integración de experiencias, la creatividad y la consolidación de la identidad. El tiempo sin pantallas y sin estímulos externos —el aburrimiento— es necesario para la salud mental.
+La mente que no está dirigida hacía una tarea específica entra en el "modo por defecto" (default mode network), una forma de actividad cerebral asociada con la integración de experiencias, la creatividad y la consolidación de la identidad. El tiempo sin pantallas y sin estímulos externos —el aburrimiento— es necesario para la salud mental.
 
 ---
 

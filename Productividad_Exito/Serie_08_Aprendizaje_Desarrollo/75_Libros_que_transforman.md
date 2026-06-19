@@ -1,6 +1,6 @@
 # Libros que transforman
 
-## Cómo leer libros de no ficción para que realmente cambien algo
+## Cómo leer libros de no ficción para qué realmente cambien algo
 
 **Serie Productividad y Éxito — Serie 8: Aprendizaje y Desarrollo Personal — Libro 5 de 10**
 
@@ -90,7 +90,7 @@ Antes de empezar un libro, formular una o dos preguntas específicas que se quie
 La lectura con propósito hace que el cerebro filtre activamente el contenido en busca de lo relevante para la pregunta. El mismo libro produce diferentes insights para diferentes preguntas.
 
 **El permiso para no terminar:**
-Si el libro no está respondiendo a la pregunta que se planteó, o si ya respondió las preguntas relevantes en los primeros capítulos, es legítimo no terminarlo.
+Si el libro no está respondiendo a la pregunta que se planteo, o si ya respondió las preguntas relevantes en los primeros capítulos, es legítimo no terminarlo.
 
 Elena adoptó la norma del 50%: si a mitad del libro no estaba encontrando valor, lo dejaba. El tiempo no invertido en libros que no aportan es tiempo disponible para libros que sí aportan.
 
@@ -107,7 +107,7 @@ Al terminar un libro, dedicar tiempo (30-60 minutos) a:
 - Conectar los conceptos con conocimiento previo y con la situación actual
 
 **La revisión diferida:**
-Revisar las notas tomadas de un libro una semana después de haberlo leído. El tiempo produce perspectiva: lo que parecía importante en el momento de la lectura a veces resulta menos relevante; lo que se pasó por alto a veces se revela más importante.
+Revisar las notas tomadas de un libro una semana después de haberlo leído. El tiempo produce perspectiva: lo que parecía importante en el momento de la lectura a veces resulta menos relevante; lo que se paso por alto a veces se revela más importante.
 
 ---
 
@@ -121,9 +121,9 @@ El aprendizaje sin implementación no produce cambio. Es necesario el puente ent
 3. Qué cambiará como resultado de haber leído este libro (nivel que produce transformación)
 
 **La pregunta transformadora:**
-"¿Qué haré diferente a partir de mañana como resultado de este libro?" Una sola acción concreta, específica, con fecha de inicio.
+"¿Qué haré diferente a partir de mañana como resultado de este libro?" Una sola acción concreta, específica, con fecha de inició.
 
-Rubén empezó a hacer esto con cada libro que terminaba. En el mes siguiente al libro sobre networking auténtico, estableció una conversación semanal con alguien de su red. En el mes siguiente al libro sobre feedback, cambió una práctica concreta en sus proyectos.
+Rubén empezó a hacer esto con cada libro que terminaba. En el mes siguiente al libro sobre networking auténtico, estableció una conversación semanal con alguien de su red. En el mes siguiente al libro sobre feedback, cambio una práctica concreta en sus proyectos.
 
 La estantería de libros dejó de ser un registro de lecturas y se convirtió en un registro de cambios.
 

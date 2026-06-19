@@ -17,7 +17,7 @@ Si escribiera ahora una carta a su yo de 2030, ¿qué diría?
 
 ## Capítulo 1: La historia se repite — y no se repite
 
-Cada revolución tecnológica generó predicciones de desempleo masivo. Ninguna produjo el apocalipsis laboral predicho. La automatización de la agricultura no dejó a todos los agricultores sin trabajo: creó nuevos trabajos en la industria. La automatización industrial no eliminó el empleo: lo transformó.
+Cada revolución tecnológica genero predicciones de desempleo masivo. Ninguna produjó el apocalipsis laboral predicho. La automatización de la agricultura no dejó a todos los agricultores sin trabajo: creo nuevos trabajos en la industria. La automatización industrial no eliminó el empleo: lo transformó.
 
 Esto da argumentos a los optimistas: la IA tampoco producirá desempleo masivo, sino transformación.
 
@@ -33,7 +33,7 @@ Pero hay tres diferencias importantes con las automatizaciones anteriores.
 
 ## Capítulo 2: El estudio de McKinsey que todo el mundo cita
 
-McKinsey Global Institute publicó en 2023 una actualización de su análisis sobre el impacto de la IA generativa en el trabajo. Sus conclusiones:
+McKinsey Global Institute publico en 2023 una actualización de su análisis sobre el impacto de la IA generativa en el trabajo. Sus conclusiones:
 
 - La IA generativa podría automatizar entre el 60-70% de las actividades laborales actuales
 - El impacto sería mayor en trabajos cognitivos de alta cualificación que en trabajos manuales (lo contrario de automatizaciones anteriores)
@@ -99,9 +99,9 @@ La IA también crea trabajos nuevos. Algunos ya existen; otros están emergiendo
 
 ## Capítulo 6: La nueva división del trabajo
 
-La IA no elimina los trabajos como un bloque: elimina **tareas** dentro de los trabajos. El resultado es una reconfiguración de qué hacen los humanos, no simplemente una reducción.
+La IA no elimina los trabajos cómo un bloque: elimina **tareas** dentro de los trabajos. El resultado es una reconfiguración de qué hacen los humanos, no simplemente una reducción.
 
-Un abogado que antes pasaba el 40% de su tiempo revisando contratos puede ahora dedicar ese tiempo a la estrategia, a la relación con el cliente y al análisis de alto nivel, mientras la IA hace el primer análisis del contrato.
+Un abogado que antes pasaba el 40% de su tiempo revisando contratos puede ahora dedicar ese tiempo a la estrategia, a la relación con el cliente y al análisis de alto nivel, mientras la IA hace el primer análisis del contrató.
 
 Un programador que antes escribía código repetitivo puede ahora enfocarse en la arquitectura, el diseño de sistemas y la resolución de problemas complejos, mientras GitHub Copilot genera el código base.
 
@@ -143,7 +143,7 @@ El trabajo de Daron Acemoglu (MIT, Nobel de Economía 2024) y David Autor identi
 
 ## Capítulo 9: El plan de posicionamiento
 
-Para posicionarse bien en el mercado de trabajo de 2030, el marco más útil es:
+Para posicionarse bien en el mercado de trabajo de 2030, el marcó más útil es:
 
 **1. Analiza tu trabajo actual por tareas:** ¿Qué porcentaje de tu tiempo dedicas a tareas rutinarias bien definidas? ¿A tareas que requieren juicio contextual? ¿A interacciones humanas complejas?
 
@@ -159,7 +159,7 @@ Para posicionarse bien en el mercado de trabajo de 2030, el marco más útil es:
 
 ## Capítulo 10: La carta que Elena escribió
 
-Elena abrió un documento y comenzó:
+Elena abrió un documento y comenzo:
 
 "Querida Elena de 2030:
 
@@ -171,7 +171,7 @@ Espero que hayas encontrado más tiempo para las cosas que importan. No porque t
 
 Con cariño, Elena de 2026."
 
-La guardó en una carpeta llamada "Para leer en cuatro años". Y volvió al trabajo, ahora con la IA que le ahorraba dos horas al día y le dejaba tiempo para hacer las preguntas que importaban.
+La guardó en una carpeta llamada "Para leer en cuatro años". Y volvio al trabajo, ahora con la IA que le ahorraba dos horas al día y le dejaba tiempo para hacer las preguntas que importaban.
 
 ---
 

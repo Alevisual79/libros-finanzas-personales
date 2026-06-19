@@ -29,7 +29,7 @@ Máxima potencia durante un tiempo muy corto. Recuperación completa entre esfue
 Ritmo sostenible durante horas. Gestión activa de la energía durante la carrera. Estrategia de recuperación que permite correr de nuevo al día siguiente.
 
 **La confusión frecuente:**
-La cultura del alto rendimiento glorifica el modo velocista y lo presenta como la forma de vida del exitoso. Lo que no muestra es el rastro de colapsos, burnouts y carreras truncadas que deja detrás.
+La cultura del alto rendimiento glorifica el modo velocista y lo presenta cómo la forma de vida del exitoso. Lo que no muestra es el rastro de colapsos, burnouts y carreras truncadas que deja detrás.
 
 ---
 
@@ -151,7 +151,7 @@ Elena diseñó su sistema de rendimiento sostenible:
 - Fin del trabajo (con intención real) a las 18:30 de lunes a viernes
 - Un día al mes sin trabajo ni agenda: solo recuperación y recarga
 
-Las primeras semanas, le pareció que producía menos. Las semanas siguientes, la calidad de su trabajo mejoró. El mes siguiente, la cantidad también. El tercer mes, era más productiva trabajando menos.
+Las primeras semanas, le pareció que producía menos. Las semanas siguientes, la calidad de su trabajo mejoro. El mes siguiente, la cantidad también. El tercer mes, era más productiva trabajando menos.
 
 ---
 

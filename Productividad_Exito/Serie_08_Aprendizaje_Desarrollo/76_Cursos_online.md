@@ -88,7 +88,7 @@ Aplicar cada concepto del curso a un proyecto real lo antes posible después de 
 **El proyecto paralelo:**
 La técnica más eficaz para los cursos de habilidad (programación, diseño, escritura, marketing): tener un proyecto real que se construye a la par del curso. Cada nuevo concepto se aplica inmediatamente al proyecto.
 
-Elena aplicó esto a un curso de análisis de datos: en lugar de hacer los ejercicios del curso con los datos de práctica, replicó cada ejercicio con los datos de su propio trabajo. El aprendizaje fue más lento (los datos reales son más complicados que los datos de práctica) y mucho más duradero.
+Elena aplico esto a un curso de análisis de datos: en lugar de hacer los ejercicios del curso con los datos de práctica, replicó cada ejercicio con los datos de su propio trabajo. El aprendizaje fue más lento (los datos reales son más complicados que los datos de práctica) y mucho más duradero.
 
 ---
 

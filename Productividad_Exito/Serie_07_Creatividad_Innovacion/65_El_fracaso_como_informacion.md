@@ -8,7 +8,7 @@
 
 ## Prólogo: El lanzamiento que falló
 
-Rubén lanzó un producto digital en el que había trabajado seis meses. Las primeras semanas de ventas: casi nulas.
+Rubén lanzo un producto digital en el que había trabajado seis meses. Las primeras semanas de ventas: casi nulas.
 
 Su primera reacción fue el duelo: tiempo perdido, dinero invertido, expectativas destruidas.
 
@@ -46,7 +46,7 @@ El resultado de una mala ejecución de un proceso conocido. Errores de atención
 El resultado de la interacción de múltiples factores en sistemas complejos donde la causa no es obvia y la prevención no es sencilla. Estos fracasos requieren análisis sistémico, no búsqueda de culpables.
 
 **Fracaso inteligente:**
-El resultado de un experimento en territorio desconocido. La hipótesis era razonable, el diseño era sólido, y el resultado produjo información valiosa aunque no fue el esperado. Este fracaso no debe prevenirse: debe celebrarse, porque es evidencia de que la organización está aprendiendo.
+El resultado de un experimento en territorio desconocido. La hipótesis era razonable, el diseño era sólido, y el resultado produjó información valiosa aunque no fue el esperado. Este fracaso no debe prevenirse: debe celebrarse, porque es evidencia de que la organización está aprendiendo.
 
 **El problema:**
 La mayoría de las organizaciones tratan todos los fracasos como prevenibles, buscando culpables en lugar de aprendizaje. Esto destruye la disposición a experimentar y, con ella, la capacidad de innovar.
@@ -58,7 +58,7 @@ La mayoría de las organizaciones tratan todos los fracasos como prevenibles, bu
 Las organizaciones más avanzadas en gestión del fracaso han desarrollado procesos de análisis que separan explícitamente el análisis del fracaso de la asignación de responsabilidades.
 
 **El "blameless post-mortem":**
-Popularizado en la cultura de ingeniería de software, el post-mortem sin culpa es un proceso de análisis del fracaso con una premisa: las personas que trabajaron en el sistema afectado estaban haciendo lo mejor que podían con la información y los recursos que tenían. La pregunta no es "¿quién falló?" sino "¿qué en el sistema produjo este resultado?"
+Popularizado en la cultura de ingeniería de software, el post-mortem sin culpa es un proceso de análisis del fracaso con una premisa: las personas que trabajaron en el sistema afectado estaban haciendo lo mejor que podían con la información y los recursos que tenían. La pregunta no es "¿quién falló?" sino "¿qué en el sistema produjó este resultado?"
 
 **El proceso:**
 1. ¿Qué ocurrió exactamente? (Cronología de hechos)
@@ -69,7 +69,7 @@ Popularizado en la cultura de ingeniería de software, el post-mortem sin culpa 
 6. ¿Qué cambiaremos en el sistema?
 
 **El foco en el sistema, no en la persona:**
-Los errores humanos son casi siempre el resultado de sistemas mal diseñados. El piloto que no siguió el checklist lo hizo en un contexto de presión de tiempo, de diseño del checklist confuso, o de cultura que desincentivaba el cumplimiento estricto. Arreglar al piloto (penalizar, reemplazar) no arregla el sistema.
+Los errores humanos son casi siempre el resultado de sistemas mal diseñados. El piloto que no siguio el checklist lo hizo en un contexto de presión de tiempo, de diseño del checklist confuso, o de cultura que desincentivaba el cumplimiento estricto. Arreglar al piloto (penalizar, reemplazar) no arregla el sistema.
 
 ---
 
@@ -100,7 +100,7 @@ En lugar de invertir seis meses en desarrollar un producto completo para descubr
 El fracaso pequeño y rápido es cualitativamente diferente al fracaso grande y tardío: cuesta menos (tiempo, dinero, reputación) y produce la misma información o más.
 
 **La cultura del experimento:**
-Las organizaciones que tratan sus iniciativas como experimentos —con hipótesis explícitas, métricas de éxito definidas, y plazos de evaluación— aprenden más rápido y con menor costo que las que tratan cada iniciativa como una apuesta todo-o-nada.
+Las organizaciones que tratan sus iniciativas como experimentos —con hipótesis explícitas, métricas de éxito definidas, y plazos de evaluación— aprenden más rápido y con menor costo que las que tratan cada iniciativa cómo una apuesta todo-o-nada.
 
 ---
 
@@ -139,10 +139,10 @@ La red de apoyo (personas que sostienen sin minimizar), la perspectiva históric
 ## Capítulo 8: Las organizaciones que aprenden del fracaso — los ejemplos
 
 **NASA:**
-Después del desastre del Challenger (1986), la NASA implementó un proceso de análisis profundo que produjo cambios sistémicos en la cultura de seguridad. Pero veintiún años después, el desastre del Columbia (2003) mostró que los mismos patrones culturales habían reaparecido. El aprendizaje del fracaso requiere mantenimiento constante, no solo un análisis inicial.
+Después del desastre del Challenger (1986), la NASA implementó un proceso de análisis profundo que produjó cambios sistémicos en la cultura de seguridad. Pero veintiún años después, el desastre del Columbia (2003) mostró que los mismos patrones culturales habían reaparecido. El aprendizaje del fracaso requiere mantenimiento constante, no solo un análisis inicial.
 
 **Amazon:**
-Jeff Bezos explicó que Amazon tiene una cultura donde el fracaso de un experimento es aceptable si fue bien diseñado y produjo aprendizaje. "Si sé que va a fallar, no lo hago. Pero si es un experimento honesto, el fracaso es solo información."
+Jeff Bezos explico que Amazon tiene una cultura donde el fracaso de un experimento es aceptable si fue bien diseñado y produjó aprendizaje. "Si sé que va a fallar, no lo hago. Pero si es un experimento honesto, el fracaso es solo información."
 
 **Toyota:**
 El sistema de producción Toyota tiene el concepto del "andon": cualquier trabajador puede detener la línea de producción si ve un problema. La cultura de señalar problemas —que en otras organizaciones se trata como fracaso del trabajador— es en Toyota la base del aprendizaje continuo.
@@ -161,7 +161,7 @@ La segunda reacción, la que eligió: convocar al equipo a una retrospectiva hon
 
 Lo que escuchó fue incómodo y valioso: había cambios en la reorganización que el equipo veía claramente que no funcionaban y que había callado porque no sentían que fuera seguro decirlo.
 
-El análisis produjo una reorganización parcial que sí funcionó. Y produjo algo más: la primera instancia en que el equipo había visto a Isabel reconocer un error propio públicamente. El impacto en la confianza fue mayor de lo que ella anticipaba.
+El análisis produjó una reorganización parcial que sí funcionó. Y produjó algo más: la primera instancia en que el equipo había visto a Isabel reconocer un error propio públicamente. El impacto en la confianza fue mayor de lo que ella anticipaba.
 
 ---
 
@@ -177,9 +177,9 @@ La velocidad de aprendizaje del error es una de las métricas más importantes d
 
 ## Epílogo: El fracaso es datos
 
-En ciencia, un experimento que no produce el resultado esperado no es un fracaso: es un resultado. Que descarta una hipótesis y señala hacia la siguiente.
+En ciencia, un experimento que no produce el resultado esperado no es un fracaso: es un resultado. Que descarta una hipótesis y señala hacía la siguiente.
 
-El trabajo y el emprendimiento son laboratorios. Cada proyecto fallido descarta una hipótesis y apunta hacia la siguiente. La pregunta no es "¿qué salió mal?" sino "¿qué aprendí que no sabía antes?"
+El trabajo y el emprendimiento son laboratorios. Cada proyecto fallido descarta una hipótesis y apunta hacía la siguiente. La pregunta no es "¿qué salió mal?" sino "¿qué aprendí que no sabía antes?"
 
 ---
 

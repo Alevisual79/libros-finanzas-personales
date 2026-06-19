@@ -8,7 +8,7 @@
 
 ## Prólogo: La fractura que lo cambia todo
 
-La madre de Carmen se cayó al bajar del autobús a los 72 años. Se rompió la cadera. Estuvo en el hospital tres semanas, en la clínica de rehabilitación otras seis. Nunca volvió a caminar igual.
+La madre de Carmen se cayó al bajar del autobús a los 72 años. Se rompió la cadera. Estuvo en el hospital tres semanas, en la clínica de rehabilitación otras seis. Nunca volvio a caminar igual.
 
 Murió dieciocho meses después, no directamente de la fractura, sino de las complicaciones: inmovilidad, neumonía, deterioro global acelerado.
 
@@ -166,7 +166,7 @@ Tras una fractura por fragilidad, el riesgo de una segunda fractura es muy alto 
 Muchas personas con fractura de muñeca son yesadas y dadas de alta sin diagnóstico de osteoporosis ni indicación de densitometría. Esta ventana se pierde.
 
 **Lo que debería pasar:**
-Toda persona mayor de 50 años con una fractura de bajo impacto debería tener: densitometría, evaluación del riesgo de caídas, suplementación de vitamina D y calcio si hay déficit, y posible inicio de tratamiento farmacológico.
+Toda persona mayor de 50 años con una fractura de bajo impacto debería tener: densitometría, evaluación del riesgo de caídas, suplementación de vitamina D y calcio si hay déficit, y posible inició de tratamiento farmacológico.
 
 ---
 

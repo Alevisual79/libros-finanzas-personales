@@ -140,7 +140,7 @@ La endometriosis es la presencia de tejido similar al endometrio fuera del úter
 - Infertilidad (a menudo el primer síntoma conocido)
 
 **El diagnóstico tardío:**
-El retraso diagnóstico de la endometriosis es escandaloso: en España, la media es de 7-10 años desde el inicio de los síntomas hasta el diagnóstico. Las mujeres con dolor menstrual intenso son frecuentemente despachadas con "es normal que duela".
+El retraso diagnóstico de la endometriosis es escandaloso: en España, la media es de 7-10 años desde el inició de los síntomas hasta el diagnóstico. Las mujeres con dolor menstrual intenso son frecuentemente despachadas con "es normal que duela".
 
 No es normal un dolor menstrual que impide ir al trabajo o a la escuela. Merece evaluación.
 
@@ -148,7 +148,7 @@ No es normal un dolor menstrual que impide ir al trabajo o a la escuela. Merece 
 
 ## Capítulo 8: El seminograma — lo que dice el análisis del semen
 
-El seminograma es el análisis básico del factor masculino de infertilidad. Debería hacerse desde el inicio de la evaluación, no solo si "la mujer no tiene nada".
+El seminograma es el análisis básico del factor masculino de infertilidad. Debería hacerse desde el inició de la evaluación, no solo si "la mujer no tiene nada".
 
 **Los parámetros:**
 - Volumen: 1,5-6 mL

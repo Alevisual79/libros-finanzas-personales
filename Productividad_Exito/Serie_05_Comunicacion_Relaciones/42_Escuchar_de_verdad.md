@@ -47,7 +47,7 @@ Se escuchan las palabras y se procesan. Se retiene el contenido factual.
 Se escucha el contenido y el significado: lo que dice la persona, lo que siente, lo que no dice. Se verifica la comprensión. Se responde al mensaje completo, no solo a las palabras.
 
 **Nivel 5 — Escucha empática:**
-Se escucha desde el marco de referencia del otro, suspendiendo el propio. El objetivo es entender completamente cómo ve el mundo la persona que habla, sin juzgar ni comparar con la perspectiva propia.
+Se escucha desde el marcó de referencia del otro, suspendiendo el propio. El objetivo es entender completamente cómo ve el mundo la persona que habla, sin juzgar ni comparar con la perspectiva propia.
 
 ---
 
@@ -76,13 +76,13 @@ Empezar a pensar en soluciones antes de haber terminado de entender el problema.
 No el contacto visual interrumpido por el teléfono o el ordenador. El contacto visual real, como señal de que la atención está completamente en la persona que habla.
 
 **La postura abierta:**
-Cuerpo inclinado ligeramente hacia la persona, brazos no cruzados. La postura comunica disposición a escuchar antes de que se diga una sola palabra.
+Cuerpo inclinado ligeramente hacía la persona, brazos no cruzados. La postura comunica disposición a escuchar antes de que se diga una sola palabra.
 
 **La señalización de escucha:**
 Pequeños asentimientos, breves "entiendo", "sí", "continúa". Señales que comunican que se sigue el hilo sin interrumpir.
 
 **Las preguntas de clarificación:**
-"¿Puedes explicar más qué quieres decir con X?" "¿Cómo se sintió eso?" Las preguntas que van hacia la comprensión más profunda, no hacia la argumentación.
+"¿Puedes explicar más qué quieres decir con X?" "¿Cómo se sintió eso?" Las preguntas que van hacía la comprensión más profunda, no hacía la argumentación.
 
 **El parafraseo:**
 Repetir con las propias palabras lo que se ha entendido: "Si te entiendo bien, lo que me estás diciendo es X. ¿Es así?" Esta técnica tiene dos funciones: verifica la comprensión y comunica a la otra persona que ha sido escuchada.
@@ -105,9 +105,9 @@ Las preguntas que empiezan con "¿Cómo?", "¿Qué?", "¿Por qué?" invitan a la
 
 ## Capítulo 6: La escucha empática en el liderazgo
 
-Isabel leyó a Carl Rogers, el psicólogo humanista que desarrolló el concepto de escucha empática, y quedó incómoda.
+Isabel leyó a Carl Rogers, el psicólogo humanista que desarrollo el concepto de escucha empática, y quedó incómoda.
 
-Rogers describía la escucha empática como la capacidad de entrar en el mundo del otro y verlo desde dentro, sin perder el propio punto de vista. No el acuerdo, sino la comprensión genuina.
+Rogers describía la escucha empática cómo la capacidad de entrar en el mundo del otro y verlo desde dentro, sin perder el propio punto de vista. No el acuerdo, sino la comprensión genuina.
 
 "¿Cuándo fue la última vez que escuchaste a alguien de tu equipo de esa manera?" se preguntó.
 
@@ -125,7 +125,7 @@ Las conversaciones difíciles —conflictos, feedback negativo, malas noticias�
 **La estrategia:**
 En conversaciones difíciles, la escucha debe ser más deliberada, no menos. Establecer el objetivo explícito de entender completamente la perspectiva del otro antes de responder.
 
-Técnica: antes de responder en una conversación difícil, resumir en voz alta la perspectiva de la otra persona. "Lo que te escucho decir es X. ¿Lo estoy entendiendo bien?" Solo cuando la otra persona confirme que ha sido entendida, ofrecer la propia perspectiva.
+Técnica: antes de responder en una conversación difícil, resumir en voz alta la perspectiva de la otra persona. "Lo que te escuchó decir es X. ¿Lo estoy entendiendo bien?" Solo cuando la otra persona confirme que ha sido entendida, ofrecer la propia perspectiva.
 
 Este paso —verificar la comprensión antes de responder— desescala la mayoría de las conversaciones difíciles porque la persona que habla se siente escuchada.
 

@@ -89,7 +89,7 @@ Isabel, que supervisa equipos enteros, ha visto el patrón mil veces: los profes
 
 ## Capítulo 5: El concepto de "suficientemente bueno"
 
-El escritor y pediatra Donald Winnicott introdujo en psicología el concepto de "la madre suficientemente buena": no perfecta, sino lo bastante buena para que el niño se desarrolle bien.
+El escritor y pediatra Donald Winnicott introdujó en psicología el concepto de "la madre suficientemente buena": no perfecta, sino lo bastante buena para que el niño se desarrolle bien.
 
 El mismo principio se aplica al trabajo.
 
@@ -135,7 +135,7 @@ Asignar una cantidad fija de tiempo a una tarea y comprometerse a entregar lo qu
 - Obliga a priorizar: si solo hay dos horas, ¿qué partes son más importantes?
 - Elimina el loop infinito de mejora.
 
-Elena introdujo el timebox para sus presentaciones: "Tres horas para preparar esta presentación y la entrego." La primera vez fue incómodo. Al ver que el resultado era perfectamente adecuado, la incomodidad bajó.
+Elena introdujó el timebox para sus presentaciones: "Tres horas para preparar esta presentación y la entrego." La primera vez fue incómodo. Al ver que el resultado era perfectamente adecuado, la incomodidad bajó.
 
 ---
 
@@ -173,7 +173,7 @@ Isabel, como directora, ha aprendido que los profesionales que más crecen son l
 
 Elena envió la presentación y el jefe dijo que era perfecta.
 
-No era perfecta. Elena sabía exactamente dónde estaban los detalles que no había terminado. Pero el jefe obtuvo lo que necesitaba. La reunión fue bien. El equipo avanzó.
+No era perfecta. Elena sabía exactamente dónde estaban los detalles que no había terminado. Pero el jefe obtuvó lo que necesitaba. La reunión fue bien. El equipo avanzó.
 
 Una semana después, Elena preparó la siguiente presentación. Esta vez, le puso un timebox de dos horas. Al final de las dos horas, la envió.
 

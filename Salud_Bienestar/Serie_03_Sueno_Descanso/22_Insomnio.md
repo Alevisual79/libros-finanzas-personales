@@ -119,7 +119,7 @@ La reestructuración cognitiva trabaja cuestionando estos pensamientos:
 
 Intentar con más fuerza quedarse dormido produce el efecto contrario.
 
-El sueño es como la respiración: ocurre cuando dejas de controlarlo. Intentar con más fuerza interferirá más.
+El sueño es cómo la respiración: ocurre cuando dejas de controlarlo. Intentar con más fuerza interferirá más.
 
 La técnica de la intención paradójica: intentar mantenerse despierto (con los ojos abiertos, sin esforzarse en dormir) reduce paradójicamente la ansiedad de conciliación y facilita el sueño.
 
@@ -175,7 +175,7 @@ El médico puede descartar causas médicas y derivar a especialista si es necesa
 
 ---
 
-## Capítulo 10: Los primeros pasos hacia el sueño
+## Capítulo 10: Los primeros pasos hacía el sueño
 
 El insomnio crónico no desaparece en una noche. Tampoco en una semana.
 

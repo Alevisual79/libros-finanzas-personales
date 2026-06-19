@@ -8,7 +8,7 @@
 
 ## Prólogo: El 1% que lo cambia todo
 
-James Clear calculó el efecto compuesto del 1%: mejorar un 1% cada día durante un año produce un resultado 37 veces mejor que el punto de partida. Empeorar un 1% cada día produce un resultado casi cero.
+James Clear calculo el efecto compuesto del 1%: mejorar un 1% cada día durante un año produce un resultado 37 veces mejor que el punto de partida. Empeorar un 1% cada día produce un resultado casi cero.
 
 El problema es que el 1% es invisible. No se nota. No genera el entusiasmo del "nuevo yo" de enero. No produce la satisfacción inmediata del gran esfuerzo visible.
 
@@ -86,7 +86,7 @@ La dieta de moda de enero que prohíbe el pan, los lácteos, el azúcar, el alco
 
 Empezar con el mínimo y escalar gradualmente es la estrategia con mayor tasa de adherencia en el ejercicio.
 
-**El protocolo del inicio:**
+**El protocolo del inició:**
 
 Semana 1-2: 10 minutos de caminar diarios.
 Semana 3-4: 15 minutos.
@@ -98,7 +98,7 @@ Semana 9-12: añadir una sesión de fuerza de 15 minutos.
 En entrenamiento, la regla general es no aumentar más del 10% la carga o la distancia por semana. Ir más rápido produce lesiones. Las lesiones producen abandono. El abandono produce cero ejercicio.
 
 **Para quien lleva años sedentario:**
-Empezar con 10 minutos diarios de caminar no es una concesión. Es el inicio. La mayoría de los estudios sobre ejercicio y salud muestran beneficios significativos con 150 minutos semanales de actividad moderada. Pero también muestran beneficios con menos: pasar de 0 a 30 minutos semanales produce una mejora mayor que pasar de 150 a 300.
+Empezar con 10 minutos diarios de caminar no es una concesión. Es el inició. La mayoría de los estudios sobre ejercicio y salud muestran beneficios significativos con 150 minutos semanales de actividad moderada. Pero también muestran beneficios con menos: pasar de 0 a 30 minutos semanales produce una mejora mayor que pasar de 150 a 300.
 
 ---
 
@@ -119,7 +119,7 @@ Ninguno de estos cambios requiere esfuerzo heroico. Cada uno mejora ligeramente 
 
 ## Capítulo 7: El efecto compuesto — hacer visibles los resultados invisibles
 
-El problema del kaizen es que los resultados a corto plazo son imperceptibles. Y el cerebro humano tiene un fuerte sesgo hacia las recompensas inmediatas.
+El problema del kaizen es que los resultados a corto plazo son imperceptibles. Y el cerebro humano tiene un fuerte sesgo hacía las recompensas inmediatas.
 
 **Las estrategias para visualizar el progreso:**
 
@@ -144,7 +144,7 @@ Uno de los argumentos de James Clear que más resonancia ha tenido: los objetivo
 **El problema de los objetivos:**
 - Ganadores y perdedores tienen los mismos objetivos. Lo que los diferencia es el sistema.
 - Cumplir un objetivo es temporal; el sistema que lo permite persiste (o no).
-- Los objetivos posponen la satisfacción al momento del logro. Los sistemas crean satisfacción en el proceso.
+- Los objetivos posponen la satisfacción al momento del logró. Los sistemas crean satisfacción en el proceso.
 
 **El ejemplo:**
 Un corredor que tiene como objetivo terminar una maratón puede hacerlo con un sistema de entrenamiento adecuado. Al día siguiente de la maratón, el objetivo se ha cumplido y puede desaparecer. El sistema, si ha sido satisfactorio, permanece.
@@ -165,7 +165,7 @@ No un plan de dieta. No un reto de 30 días. Solo tres cambios pequeños.
 Al final del año:
 - Dormía regularmente 7 horas y media (antes, menos de 7)
 - Había perdido 4 kilos sin dieta (efecto de la proteína en el desayuno sobre el apetito)
-- Tenía el hábito de caminar instalado: de 10 minutos pasó a 25 en seis meses
+- Tenía el hábito de caminar instalado: de 10 minutos paso a 25 en seis meses
 
 "No fue espectacular. No fue Instagram. Pero un año después estoy mejor que hace un año, y es la primera vez que puedo decir eso."
 

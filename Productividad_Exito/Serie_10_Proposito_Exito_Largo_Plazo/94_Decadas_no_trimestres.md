@@ -26,7 +26,7 @@ El mundo moderno premia sistemáticamente el corto plazo.
 Las empresas cotizadas son evaluadas trimestre a trimestre. Las decisiones que dañan los resultados del trimestre pero benefician a la empresa en cinco años son sistemáticamente penalizadas por el mercado a corto plazo.
 
 **En la política:**
-Los ciclos electorales de cuatro años sesgan las decisiones hacia las que producen resultados visibles antes de las próximas elecciones.
+Los ciclos electorales de cuatro años sesgan las decisiones hacía las que producen resultados visibles antes de las próximas elecciones.
 
 **En las organizaciones:**
 Los ciclos de evaluación anuales, los objetivos de corto plazo, la presión de los resultados trimestrales producen culturas que sacrifican la inversión en el futuro por los resultados inmediatos.
@@ -110,7 +110,7 @@ Ninguna de estas es glamurosa. Todas producen rendimientos compuestos en el plaz
 
 ## Capítulo 7: La paciencia como competencia
 
-La paciencia —la capacidad de sostener esfuerzo hacia objetivos cuyo resultado no se verá en el corto plazo— es una de las competencias más escasas y más valiosas.
+La paciencia —la capacidad de sostener esfuerzo hacía objetivos cuyo resultado no se verá en el corto plazo— es una de las competencias más escasas y más valiosas.
 
 **El entrenamiento de la paciencia:**
 No es una virtud con la que se nace. Es una capacidad que se desarrolla a través de experiencias donde se ve el resultado del esfuerzo sostenido en el tiempo.
@@ -154,9 +154,9 @@ Identificar qué sacrificio del corto plazo se hace conscientemente por el largo
 
 ## Capítulo 10: Los diez años de Rubén — la perspectiva
 
-Rubén miró hacia atrás los diez años de su carrera freelance.
+Rubén miró hacía atrás los diez años de su carrera freelance.
 
-Lo que lo había puesto en su posición actual no eran los proyectos más rentables del año uno. Eran las decisiones que habían parecido menos rentables: el cliente para quien trabajó por debajo de su tarifa habitual porque el proyecto era interesante y le enseñaría algo. El colega al que ayudó sin cobrar y que diez años después era un referente en el sector y le enviaba sus mejores clientes. Las habilidades que aprendió sin saber cuándo las usaría.
+Lo que lo había puesto en su posición actual no eran los proyectos más rentables del año uno. Eran las decisiones que habían parecido menos rentables: el cliente para quien trabajo por debajo de su tarifa habitual porque el proyecto era interesante y le enseñaría algo. El colega al que ayudó sin cobrar y que diez años después era un referente en el sector y le enviaba sus mejores clientes. Las habilidades que aprendió sin saber cuándo las usaría.
 
 El árbol que había plantado diez años antes ahora daba sombra. No lo había visto crecer. Pero estaba ahí.
 

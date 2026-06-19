@@ -20,7 +20,7 @@ Lo que hacemos con esa puerta cambia la fisiología del cuerpo.
 
 ## Capítulo 1: La fisiología de la respiración
 
-Respirar no es solo intercambiar gases (oxígeno hacia dentro, dióxido de carbono hacia fuera). La frecuencia, la profundidad y el patrón de la respiración afectan directamente al sistema nervioso autónomo, al pH sanguíneo, a la frecuencia cardíaca y al estado mental.
+Respirar no es solo intercambiar gases (oxígeno hacía dentro, dióxido de carbono hacía fuera). La frecuencia, la profundidad y el patrón de la respiración afectan directamente al sistema nervioso autónomo, al pH sanguíneo, a la frecuencia cardíaca y al estado mental.
 
 **El diafragma:**
 El músculo principal de la respiración. La respiración diafragmática (abdominal) mueve un volumen de aire mucho mayor por respiración que la respiración torácica superficial. En reposo, la respiración eficiente es diafragmática.
@@ -29,7 +29,7 @@ El músculo principal de la respiración. La respiración diafragmática (abdomi
 La frecuencia y profundidad de la respiración no está regulada principalmente por los niveles de O2, sino por los de CO2. El CO2 no es solo un gas de desecho: activa la vasodilatación cerebral, regula el pH sanguíneo y es la señal principal que indica al cerebro "necesito respirar más". La hiperventilación reduce el CO2 y produce vasoconstricción cerebral, hormigueos y mareo.
 
 **El nervio vago:**
-El nervio vago, principal componente del sistema parasimpático, pasa junto al diafragma. La respiración profunda y lenta activa el nervio vago y cambia el balance autonómico hacia el parasimpático (descanso y digestión).
+El nervio vago, principal componente del sistema parasimpático, pasa juntó al diafragma. La respiración profunda y lenta activa el nervio vago y cambia el balance autonómico hacía el parasimpático (descanso y digestión).
 
 ---
 
@@ -107,7 +107,7 @@ La respiración consciente es la forma más rápida de intervenir sobre el estr�
 En la respuesta de estrés, la respiración se vuelve rápida y superficial (hiperventilación). Esto amplifica la activación simpática. Al desacelerar y profundizar la respiración conscientemente, se corta el ciclo de retroalimentación.
 
 **La espiración prolongada:**
-La espiración activa el nervio vago más que la inspiración. Las técnicas que enfatizan la espiración larga (como la 4-7-8, o simplemente espirar el doble de lo que se inspira) producen la activación parasimpática más rápidamente.
+La espiración activa el nervio vago más que la inspiración. Las técnicas que enfatizan la espiración larga (cómo la 4-7-8, o simplemente espirar el doble de lo que se inspira) producen la activación parasimpática más rápidamente.
 
 **Los 5 minutos de rescate:**
 En un momento de estrés agudo, 5 minutos de respiración coherente (5 segundos dentro, 5 fuera) producen un cambio fisiológico medible en la frecuencia cardíaca y el cortisol.

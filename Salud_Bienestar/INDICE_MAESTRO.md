@@ -114,7 +114,7 @@
 56. **"El hábito del movimiento"** — Cómo incorporar más actividad en una vida sedentaria sin ir al gimnasio
 57. **"La rutina de noche"** — Preparar el cuerpo y la mente para el descanso
 58. **"Hábitos digitales y salud"** — Gestionar el tiempo de pantalla para vivir mejor
-59. **"Construir hábitos en familia"** — Cómo alinear a todos en casa hacia una vida más saludable
+59. **"Construir hábitos en familia"** — Cómo alinear a todos en casa hacía una vida más saludable
 60. **"El plan de salud para el año"** — Cómo diseñar y seguir un plan de bienestar de 12 meses
 
 ---

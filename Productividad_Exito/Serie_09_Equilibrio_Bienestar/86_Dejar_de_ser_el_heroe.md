@@ -67,7 +67,7 @@ La delegación eficaz requiere tiempo de inversión inicial. La razón por la qu
 
 ---
 
-## Capítulo 4: Pedir ayuda — la habilidad que el alto rendidor no practica
+## Capítulo 4: Pedir ayuda — la habilidad que el alto rendidor no práctica
 
 Pedir ayuda es una habilidad que las personas de alto rendimiento frecuentemente no han practicado.
 
@@ -82,7 +82,7 @@ Trabajar solo en problemas que otros podrían resolver más rápido. Reinventar 
 **La realidad:**
 La mayoría de las personas responde positivamente a las peticiones de ayuda sinceras. Es un halago implícito: alguien cree que tu perspectiva o capacidad es valiosa.
 
-Rubén pasó un año sin pedir ayuda en sus proyectos porque "no quería parecer que no sabía lo que hacía". Cuando finalmente empezó a pedir a otros freelances de su red, descubrió que la mayoría tenía la misma percepción y el mismo bloqueo. Y que ayudarse mutuamente producía mejores resultados para todos.
+Rubén paso un año sin pedir ayuda en sus proyectos porque "no quería parecer que no sabía lo que hacía". Cuando finalmente empezó a pedir a otros freelances de su red, descubrió que la mayoría tenía la misma percepción y el mismo bloqueo. Y que ayudarse mutuamente producía mejores resultados para todos.
 
 ---
 
@@ -127,7 +127,7 @@ Documentar, sistematizar, transferir. Convertir el conocimiento tácito (lo que 
 
 Esta transferencia de conocimiento es inicialmente costosa en tiempo. Y produce sistemas más resilientes, equipos más capaces y héroes más libres para el trabajo de mayor valor.
 
-Isabel dedicó dos meses a documentar los procesos que solo ella sabía ejecutar. Al final, el documento más valioso que produjo en ese período no fue ninguno de los proyectos urgentes que resolvió: fue el manual de procesos que liberó su tiempo para el trabajo estratégico que solo ella podía hacer.
+Isabel dedicó dos meses a documentar los procesos que solo ella sabía ejecutar. Al final, el documento más valioso que produjó en ese período no fue ninguno de los proyectos urgentes que resolvió: fue el manual de procesos que liberó su tiempo para el trabajo estratégico que solo ella podía hacer.
 
 ---
 

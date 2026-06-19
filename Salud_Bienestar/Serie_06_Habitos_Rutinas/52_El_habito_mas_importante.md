@@ -75,7 +75,7 @@ La exposición a la luz natural en las primeras horas tras el despertar es uno d
 La luz brillante en la mañana (especialmente la luz solar de espectro completo) activa los fotorreceptores de la retina que envían señales al núcleo supraquiasmático (el reloj biológico central). Esto sincroniza el ritmo circadiano, adelanta el pico de melatonina por la noche (facilitando dormirse antes) y produce una señal de alerta y buen humor.
 
 **La práctica:**
-10-30 minutos de luz natural en las primeras horas del día. Idealmente al aire libre. Sentado junto a una ventana también ayuda aunque en menor medida. En invierno o latitudes con poco sol, las lámparas de terapia lumínica (10.000 lux) son una alternativa efectiva.
+10-30 minutos de luz natural en las primeras horas del día. Idealmente al aire libre. Sentado juntó a una ventana también ayuda aunque en menor medida. En invierno o latitudes con poco sol, las lámparas de terapia lumínica (10.000 lux) son una alternativa efectiva.
 
 **El doctor Andrew Huberman** (neurocientífico de Stanford) popularizó este protocolo en sus podcasts. La investigación que lo respalda es sólida.
 
@@ -90,7 +90,7 @@ Hacer ejercicio por la mañana tiene ventajas específicas:
 - Aumenta el BDNF (factor neurotrófico): mejora el estado de ánimo y la cognición para el resto del día
 - Reduce el cortisol basal
 - Eleva la temperatura corporal más rápidamente, mejorando la alerta
-- Genera la sensación de logro que afecta positivamente al tono del día
+- Genera la sensación de logró que afecta positivamente al tono del día
 
 **Los mitos:**
 - "El ejercicio matutino quema más grasa": falso. El momento del día del ejercicio no cambia significativamente la composición corporal.
@@ -114,7 +114,7 @@ La primera ingesta del día, sea cuando sea, debería incluir proteína. La prot
 Tras 7-8 horas sin beber, el cuerpo está levemente deshidratado. Un vaso de agua al despertar es sencillo y eficaz.
 
 **El café:**
-Los beneficios del café (mejora de la atención, reducción del riesgo de Parkinson y diabetes tipo 2, efecto antioxidante) son reales. El momento óptimo, como se mencionó, es 60-90 minutos tras el despertar.
+Los beneficios del café (mejora de la atención, reducción del riesgo de Parkinson y diabetes tipo 2, efecto antioxidante) son reales. El momento óptimo, cómo se mencionó, es 60-90 minutos tras el despertar.
 
 ---
 
@@ -183,7 +183,7 @@ Su rutina de 30 minutos:
 - 10 minutos: estiramientos básicos en el salón.
 - 15 minutos: ducha tranquila, sin prisa.
 
-"No he cambiado el mundo. Pero llego al trabajo habiendo tenido 30 minutos para mí. Y eso cambia cómo empieza el día."
+"No he cambiado el mundo. Pero llegó al trabajo habiendo tenido 30 minutos para mí. Y eso cambia cómo empieza el día."
 
 ---
 

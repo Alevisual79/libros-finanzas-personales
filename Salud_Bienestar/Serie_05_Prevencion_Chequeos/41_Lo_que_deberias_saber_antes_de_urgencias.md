@@ -25,7 +25,7 @@ Hay síntomas ante los que la única respuesta correcta es el 112. No el médico
 **Posible infarto de miocardio:**
 - Dolor, presión, opresión o pesadez en el pecho (puede irradiar al brazo izquierdo, mandíbula, espalda o estómago)
 - Dificultad para respirar súbita acompañando al malestar en el pecho
-- Sudoración fría, náuseas, mareo junto al dolor torácico
+- Sudoración fría, náuseas, mareo juntó al dolor torácico
 
 Importante: no todos los infartos producen dolor de pecho clásico. En mujeres y diabéticos, los síntomas pueden ser más atípicos: fatiga intensa, náuseas, dolor en la espalda o mandíbula sin dolor torácico claro.
 
@@ -100,7 +100,7 @@ Hay síntomas que generan mucha ansiedad pero raramente indican patología grave
 La mayoría de las extrasístoles (latidos "perdidos" o "de más" que se sienten en el pecho) son benignas. Si son frecuentes, si se acompañan de mareo o dificultad respiratoria, o si ocurren en alguien con enfermedad cardíaca conocida, merecen evaluación.
 
 **El dolor de cabeza tensional:**
-El dolor de cabeza que aparece en situaciones de estrés, que no es el más intenso de la vida, que mejora con analgésicos habituales: generalmente benigno. El que es de inicio brusco, explosivo, o diferente a los habituales: merece evaluación.
+El dolor de cabeza que aparece en situaciones de estrés, que no es el más intenso de la vida, que mejora con analgésicos habituales: generalmente benigno. El que es de inició brusco, explosivo, o diferente a los habituales: merece evaluación.
 
 **El dolor de espalda:**
 La inmensa mayoría de los episodios de dolor lumbar (más del 90%) tienen causa mecánica benigna. Las señales de alarma que sí merecen urgencia: dolor lumbar que aparece tras traumatismo importante, que se acompaña de pérdida de control de esfínteres, de fiebre, o de debilidad en piernas.
@@ -117,7 +117,7 @@ Infarto, angina, pericarditis. Generalmente: sensación de presión u opresión,
 **Causas no cardiacas frecuentes:**
 - Reflujo gastroesofágico: dolor urente tras las comidas, que mejora con antiácidos
 - Costocondritis: dolor a la palpación de las articulaciones entre costillas y esternón, reproductible con el movimiento
-- Crisis de ansiedad/pánico: dolor junto a palpitaciones, sensación de ahogo, miedo intenso, en contextos de estrés
+- Crisis de ansiedad/pánico: dolor juntó a palpitaciones, sensación de ahogo, miedo intenso, en contextos de estrés
 - Dolor muscular: localizado, reproducible con el movimiento, en contexto de ejercicio o postura
 
 **La regla práctica:**
@@ -151,7 +151,7 @@ Si hay dudas sobre si el dolor de pecho es cardíaco, especialmente si hay facto
 
 **Neurológico:**
 - Cualquier déficit neurológico nuevo (debilidad, pérdida sensorial, visión doble)
-- Cefalea de inicio explosivo o diferente a la habitual
+- Cefalea de inició explosivo o diferente a la habitual
 - Convulsión
 
 **Piel:**
@@ -180,7 +180,7 @@ Las mujeres presentan síntomas más atípicos en el infarto: fatiga intensa, n�
 - Bulto en el testículo (autoexploración regular en hombres jóvenes)
 - Dificultad para orinar progresiva (hiperplasia prostática o cáncer de próstata)
 - Sangre en el semen o en la orina sin infección
-- Disfunción eréctil de nuevo inicio (puede ser señal cardiovascular)
+- Disfunción eréctil de nuevo inició (puede ser señal cardiovascular)
 
 **El hombre que no va al médico:**
 Los hombres tienen menos probabilidad de buscar atención médica preventiva, acuden más tarde a urgencias y tienen mayor retraso diagnóstico en múltiples enfermedades. No es biología: es cultura. Y tiene consecuencias en la esperanza de vida (la brecha entre hombres y mujeres en España es de 5 años).

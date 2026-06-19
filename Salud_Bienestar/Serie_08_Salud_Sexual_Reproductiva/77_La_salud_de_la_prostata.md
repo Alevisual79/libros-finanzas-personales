@@ -14,7 +14,7 @@ Cuando por fin va, el médico le hace una exploración rectal y una analítica c
 
 No tiene cáncer. Tiene hiperplasia prostática benigna: una condición extremadamente frecuente en hombres a partir de los 50 años, tratable y no peligrosa.
 
-Pero nadie le había dado información antes. Nadie le había preparado para que eso fuera posible.
+Pero nadie le había dado información antes. Nadie le había preparado para qué eso fuera posible.
 
 ---
 

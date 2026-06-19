@@ -23,7 +23,7 @@ La falta de propósito no es filosofía. Es un factor de riesgo para la salud ta
 El propósito es la sensación de que la propia vida tiene significado y dirección, de que las acciones de uno contribuyen a algo que importa.
 
 **Los estudios clave:**
-- El estudio de Rush Memory and Aging Project (Patricia Boyle) siguió a 1.238 mayores durante 7 años: las personas con mayor sentido del propósito tenían un 57% menos de riesgo de desarrollar Alzheimer.
+- El estudio de Rush Memory and Aging Project (Patricia Boyle) siguio a 1.238 mayores durante 7 años: las personas con mayor sentido del propósito tenían un 57% menos de riesgo de desarrollar Alzheimer.
 - Un metaanálisis de 10 estudios longitudinales (2016, Psychosomatic Medicine) mostró que el propósito se asocia a un 23% menos de mortalidad por cualquier causa.
 - El estudio Midlife in the United States (MIDUS) mostró que el propósito se asocia a mejor salud cardiovascular, mejor sueño y menor riesgo de ictus.
 
@@ -70,7 +70,7 @@ El ikigai (生き甲斐, "razón de ser") es el concepto japonés que combina lo
 En Japón, el ikigai no es necesariamente una misión de vida grandiosa. Puede ser pequeño y cotidiano: el cuidado del jardín, la preparación del desayuno familiar, la conversación con los vecinos.
 
 **Lo que el ikigai protege:**
-En Okinawa, los centenarios describen su ikigai como la razón por la que se levantan por la mañana. No es una pregunta que se respondes una vez; es una práctica diaria.
+En Okinawa, los centenarios describen su ikigai cómo la razón por la que se levantan por la mañana. No es una pregunta que se respondes una vez; es una práctica diaria.
 
 ---
 

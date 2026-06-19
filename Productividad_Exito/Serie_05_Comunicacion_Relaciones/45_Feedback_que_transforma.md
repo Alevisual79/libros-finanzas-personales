@@ -51,17 +51,17 @@ La mayoría de personas dan más feedback correctivo que de reconocimiento. El r
 
 ---
 
-## Capítulo 3: El modelo SBI para feedback efectivo
+## Capítulo 3: El modeló SBI para feedback efectivo
 
 Kim Scott, en "Radical Candor", y otros expertos coinciden en que el feedback efectivo requiere especificidad. Los modelos más útiles siguen una estructura similar.
 
-**El modelo SBI (Situation, Behavior, Impact):**
+**El modeló SBI (Situation, Behavior, Impact):**
 
 - **S — Situación (Situation):** Describir el contexto específico. "En la reunión de hoy con el cliente..."
 - **B — Comportamiento (Behavior):** Describir el comportamiento observable, no el carácter. "Interrumpiste al cliente tres veces mientras hablaba..."
-- **I — Impacto (Impact):** Describir el efecto concreto. "...y eso produjo que el cliente dejara de compartir información. Noté que se cerró y dejó de participar."
+- **I — Impacto (Impact):** Describir el efecto concreto. "...y eso produjó que el cliente dejara de compartir información. Noté que se cerró y dejó de participar."
 
-**Lo que el modelo evita:**
+**Lo que el modeló evita:**
 Las etiquetas de carácter ("eres impaciente", "eres descuidado") que activan defensividad sin proporcionar información útil para cambiar. El comportamiento se puede cambiar; el carácter, no.
 
 ---
@@ -119,20 +119,20 @@ No es necesario estar de acuerdo en el momento. Es necesario entender completame
 
 ---
 
-## Capítulo 7: El feedback ascendente — hacia el jefe
+## Capítulo 7: El feedback ascendente — hacía el jefe
 
-El feedback "hacia arriba" —hacia personas con más autoridad— es el más difícil y el más raro.
+El feedback "hacía arriba" —hacía personas con más autoridad— es el más difícil y el más raro.
 
 **Por qué es raro:**
 El poder diferencial hace que dar feedback a quien tiene autoridad sobre la carrera propia sea percibido como arriesgado.
 
 **Por qué es valioso:**
-Los líderes que reciben feedback honesto de sus equipos mejoran más rápido que los que no lo reciben. Los equipos donde el feedback fluye hacia arriba son más seguros psicológicamente y más efectivos.
+Los líderes que reciben feedback honesto de sus equipos mejoran más rápido que los que no lo reciben. Los equipos donde el feedback fluye hacía arriba son más seguros psicológicamente y más efectivos.
 
 **Cómo hacerlo:**
-Con el mismo modelo SBI. La diferencia es en el encuadre: no como crítica sino como perspectiva que puede ser útil. "Quería compartirte algo que observé porque creo que puede ser útil..."
+Con el mismo modeló SBI. La diferencia es en el encuadre: no como crítica sino como perspectiva que puede ser útil. "Quería compartirte algo que observé porque creo que puede ser útil..."
 
-Rubén dio feedback a un cliente sobre cómo sus instrucciones poco claras estaban afectando los plazos del proyecto. Usó el modelo SBI, lo encuadró como información para mejorar la colaboración, y el cliente lo recibió bien. La relación mejoró.
+Rubén dio feedback a un cliente sobre cómo sus instrucciones poco claras estaban afectando los plazos del proyecto. Usó el modeló SBI, lo encuadró como información para mejorar la colaboración, y el cliente lo recibio bien. La relación mejoro.
 
 ---
 

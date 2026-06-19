@@ -74,7 +74,7 @@ Enfocarse selectivamente en lo negativo ignorando lo positivo. Recordar el únic
 Asumir que los resultados futuros serán negativos sin evidencia suficiente.
 
 **Lectura del pensamiento:**
-Asumir que se sabe lo que piensan los demás, generalmente de forma negativa hacia uno mismo.
+Asumir que se sabe lo que piensan los demás, generalmente de forma negativa hacía uno mismo.
 
 **La trampa de la rumiación:**
 La rumiación es el intento de resolver un problema emocional mediante el pensamiento repetitivo. Parece útil ("si le doy suficientes vueltas, encontraré la solución") pero en realidad mantiene la activación emocional sin llevar a soluciones.
@@ -88,7 +88,7 @@ La terapia cognitivo-conductual (TCC) es el tratamiento psicológico con mayor e
 **Los tres pilares de la TCC para la ansiedad:**
 
 **1. Psicoeducación:**
-Entender qué es la ansiedad, cómo funciona y por qué el cuerpo reacciona como lo hace. Desmitificar los síntomas físicos.
+Entender qué es la ansiedad, cómo funciona y por qué el cuerpo reacciona cómo lo hace. Desmitificar los síntomas físicos.
 
 **2. Reestructuración cognitiva:**
 Identificar los pensamientos automáticos negativos, evaluar su precisión y sustituirlos por interpretaciones más ajustadas a la realidad. No se trata de "pensar en positivo" sino de pensar con más precisión.
@@ -132,7 +132,7 @@ La medicación para la ansiedad es un tema frecuentemente malentendido en ambas 
 Son el tratamiento farmacológico de primera línea para los trastornos de ansiedad a largo plazo. No crean dependencia, no producen tolerancia y tienen un perfil de seguridad razonable. Requieren 4-6 semanas para hacer efecto. Deben mantenerse el tiempo recomendado y retirarse gradualmente.
 
 **Las benzodiacepinas (diazepam, alprazolam, lorazepam):**
-Efectivas a corto plazo, pero generan dependencia física y tolerancia. El uso prolongado puede empeorar la ansiedad a largo plazo. Solo están indicadas para uso puntual o como puente al inicio de otro tratamiento.
+Efectivas a corto plazo, pero generan dependencia física y tolerancia. El uso prolongado puede empeorar la ansiedad a largo plazo. Solo están indicadas para uso puntual o como puente al inició de otro tratamiento.
 
 **El título del libro no es "sin medicación":**
 El título es "sin medicación de por vida". La medicación tiene su lugar. El objetivo para muchas personas es no depender de ella indefinidamente, lo que requiere desarrollar recursos propios mediante terapia.
@@ -153,7 +153,7 @@ La privación de sueño amplifica la respuesta de la amígdala hasta un 60%. Dor
 La cafeína es un estimulante del sistema nervioso central que puede agravar la ansiedad. Personas con trastornos de ansiedad frecuentemente se benefician de reducir o eliminar la cafeína.
 
 **El alcohol:**
-Aunque el alcohol reduce la ansiedad a corto plazo (efecto ansiolítico inmediato), empeora la ansiedad a medio plazo. El "efecto rebote" del alcohol produce mayor ansiedad al día siguiente. El uso de alcohol para manejar la ansiedad es una vía rápida hacia la dependencia.
+Aunque el alcohol reduce la ansiedad a corto plazo (efecto ansiolítico inmediato), empeora la ansiedad a medio plazo. El "efecto rebote" del alcohol produce mayor ansiedad al día siguiente. El uso de alcohol para manejar la ansiedad es una vía rápida hacía la dependencia.
 
 ---
 
@@ -212,7 +212,7 @@ El objetivo no es no sentir ansiedad. Es que la ansiedad no dicte las decisiones
 
 La ansiedad es señal. A veces de peligro real que hay que atender. A veces de necesidades no cubiertas (descanso, conexión, significado). A veces de patrones cognitivos y conductuales que pueden modificarse.
 
-Tratarla como un defecto o como una sentencia impide tanto la comprensión como el cambio.
+Tratarla cómo un defecto o cómo una sentencia impide tanto la comprensión como el cambio.
 
 El siguiente libro, "La depresión que nadie ve", aborda el otro gran trastorno del estado de ánimo: el que frecuentemente se esconde detrás de una fachada de normalidad.
 

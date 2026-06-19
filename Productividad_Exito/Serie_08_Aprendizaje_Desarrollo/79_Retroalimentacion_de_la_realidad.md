@@ -6,9 +6,9 @@
 
 ---
 
-## Prólogo: El proyecto que fue exactamente como se planeó
+## Prólogo: El proyecto que fue exactamente cómo se planeó
 
-Rubén pasó tres meses diseñando una campaña de marketing para un cliente. Investigó, planificó, ejecutó impecablemente.
+Rubén paso tres meses diseñando una campaña de marketing para un cliente. Investigó, planificó, ejecutó impecablemente.
 
 Los resultados fueron mediocres.
 
@@ -52,7 +52,7 @@ El tiempo dedicado a reflexionar sobre los resultados no es tiempo perdido: es e
 No todos los resultados dan el mismo tipo de información.
 
 **Los resultados de proceso:**
-¿Se hicieron las cosas como se planearon? El equipo que siguió el proceso previsto pero no obtuvo los resultados esperados tiene información diferente que el equipo que no siguió el proceso.
+¿Se hicieron las cosas cómo se planearon? El equipo que siguio el proceso previsto pero no obtuvó los resultados esperados tiene información diferente que el equipo que no siguio el proceso.
 
 **Los resultados de salida:**
 Las métricas directas de la actividad: número de llamadas hechas, páginas escritas, horas de práctica completadas. Estos pueden estar bien y los resultados finales ser pobres.
@@ -67,7 +67,7 @@ Optimizar para lo que se puede medir fácilmente (resultados de proceso y salida
 
 ## Capítulo 4: La after action review
 
-El ejército de los Estados Unidos desarrolló una práctica de aprendizaje sistemático llamada After Action Review (AAR), que se ha extendido a organizaciones de todos los tipos.
+El ejército de los Estados Unidos desarrollo una práctica de aprendizaje sistemático llamada After Action Review (AAR), que se ha extendido a organizaciones de todos los tipos.
 
 **El protocolo:**
 Después de cada operación o proyecto significativo, el equipo se reúne para responder cuatro preguntas:
@@ -144,7 +144,7 @@ Los pares no tienen el interés de proteger al subordinado ni la distancia del s
 **Los grupos de pares:**
 Grupos pequeños (3-6 personas) que se reúnen regularmente para compartir situaciones, desafíos y dar feedback mutuo. Común en algunas profesiones (grupos de supervisión en psicología, grupos de mejora en medicina) y escaso en otras, a pesar de ser igualmente valioso.
 
-Elena formó un grupo con tres ingenieras de empresas diferentes que se reunían mensualmente por videoconferencia. Cada una traía una situación de trabajo para feedback del grupo. En un año, el nivel de honestidad y la calidad del feedback que recibió fue más valioso que todo el feedback formal que había recibido de sus superiores en el mismo período.
+Elena formo un grupo con tres ingenieras de empresas diferentes que se reunían mensualmente por videoconferencia. Cada una traía una situación de trabajo para feedback del grupo. En un año, el nivel de honestidad y la calidad del feedback que recibio fue más valioso que todo el feedback formal que había recibido de sus superiores en el mismo período.
 
 ---
 
@@ -178,7 +178,7 @@ La retroalimentación de la realidad, analizada sistemáticamente, le dio una di
 
 ## Epílogo: La realidad como aliada
 
-Hay dos formas de relacionarse con los resultados que no son los esperados: como un juicio sobre el propio valor, o como información sobre qué ajustar.
+Hay dos formas de relacionarse con los resultados que no son los esperados: cómo un juicio sobre el propio valor, o como información sobre qué ajustar.
 
 La primera produce defensividad y estancamiento. La segunda produce aprendizaje y progreso.
 

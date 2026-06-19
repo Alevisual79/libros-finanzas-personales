@@ -39,7 +39,7 @@ Las horas sedentarias, el sueño insuficiente, la alimentación de conveniencia,
 Las investigaciones sobre divorcio muestran correlación con la presión laboral excesiva. Las relaciones que se tratan como "siempre disponibles" y que reciben los peores momentos del día terminan por deteriorarse.
 
 **Las amistades:**
-Las amistades adultas requieren inversión activa. Sin ella, se diluyen gradualmente. El ejecutivo que a los 40 años descubre que no tiene amigos reales fuera del trabajo frecuentemente no notó el momento en que las amistades desaparecieron.
+Las amistades adultas requieren inversión activa. Sin ella, se diluyen gradualmente. El ejecutivo que a los 40 años descubre que no tiene amigos reales fuera del trabajo frecuentemente no noto el momento en que las amistades desaparecieron.
 
 **El bienestar propio:**
 Los hobbies, el disfrute, las actividades sin objetivo productivo. La persona que no ha hecho nada por puro placer en meses o años ha sacrificado una dimensión fundamental de la experiencia humana.
@@ -68,22 +68,22 @@ Algunas cosas perdidas en el "mientras tanto" no se pueden recuperar. La infanci
 El planteamiento no es abandonar la ambición. Es ser consciente del precio antes de pagarlo y decidir si se acepta o no.
 
 **El ejercicio del funeral (Stephen Covey):**
-Imaginar el propio funeral con ochenta años. Las personas que hablan: ¿qué dirían? No lo que se quisiera que dijeran, sino lo que dirían dado cómo se está viviendo ahora. Y preguntar: "¿Qué tendría que cambiar para que digan lo que realmente quiero que digan?"
+Imaginar el propio funeral con ochenta años. Las personas que hablan: ¿qué dirían? No lo que se quisiera que dijeran, sino lo que dirían dado cómo se está viviendo ahora. Y preguntar: "¿Qué tendría que cambiar para qué digan lo que realmente quiero que digan?"
 
 **El ejercicio de los ámbitos:**
 Listar los cinco ámbitos más importantes de la propia vida (trabajo, pareja, salud, amistades, desarrollo personal, por ejemplo). Evaluar del 1 al 10 cuánta atención e inversión está recibiendo cada uno. El ámbito con los mejores números no necesariamente es el más importante.
 
 ---
 
-## Capítulo 5: El precio que Rubén no calculó
+## Capítulo 5: El precio que Rubén no calculo
 
-Rubén construyó su negocio freelance con intensidad durante tres años. En ese período, fue a tres bodas de amigos cercanos con la mente en proyectos urgentes, canceló dos viajes familiares por compromisos de clientes y dejó de hacer ejercicio porque "no había tiempo".
+Rubén construyo su negocio freelance con intensidad durante tres años. En ese período, fue a tres bodas de amigos cercanos con la mente en proyectos urgentes, canceló dos viajes familiares por compromisos de clientes y dejó de hacer ejercicio porque "no había tiempo".
 
 A los tres años, tenía el negocio más sólido de su carrera y la espalda más cargada, el peso más alto y una conversación pendiente con su hermano que no había tenido tiempo de tener.
 
 No había calculado ese precio cuando eligió ese ritmo.
 
-Cuando lo calculó retroactivamente, la pregunta que se hizo fue: "¿Habría tomado las mismas decisiones si hubiera sabido lo que costarían?"
+Cuando lo calculo retroactivamente, la pregunta que se hizo fue: "¿Habría tomado las mismas decisiones si hubiera sabido lo que costarían?"
 
 La respuesta honesta: algunas sí, otras no.
 
@@ -151,7 +151,7 @@ Estas conversaciones son incómodas. Son también las que previenen que el preci
 
 Elena hizo el ejercicio del funeral. Lo que escribió le tomó tres minutos y le ocupó la cabeza tres semanas.
 
-No quería que la recordaran como la mejor ingeniería de la empresa. Quería que la recordaran como alguien que importó a las personas que le importaban a ella.
+No quería que la recordaran cómo la mejor ingeniería de la empresa. Quería que la recordaran como alguien que importó a las personas que le importaban a ella.
 
 No abandonó sus objetivos profesionales. Los mantuvo casi intactos. Pero añadió a su definición de éxito dimensiones que antes no aparecían en ella.
 

@@ -29,7 +29,7 @@ Ejemplos comunes:
 - "Soy desorganizado por naturaleza"
 - "No tengo disciplina"
 - "El éxito requiere sacrificar la vida personal"
-- "Para que algo esté bien hecho, tengo que hacerlo yo"
+- "Para qué algo esté bien hecho, tengo que hacerlo yo"
 
 **El origen:**
 Las creencias limitantes se forman en la infancia y la adolescencia a partir de mensajes de los padres, los profesores, los compañeros y la cultura. También se forman a partir de experiencias propias, especialmente fracasos dolorosos, que el cerebro generaliza.
@@ -132,7 +132,7 @@ La nueva creencia se instala por repetición de los pensamientos y comportamient
 
 ## Capítulo 7: Las creencias de rendimiento en el trabajo de Isabel
 
-Isabel tiene una creencia que le ha funcionado bien durante veinticinco años: "Para que algo esté bien hecho, tengo que revisarlo yo personalmente."
+Isabel tiene una creencia que le ha funcionado bien durante veinticinco años: "Para qué algo esté bien hecho, tengo que revisarlo yo personalmente."
 
 A los cuarenta y cinco, con un equipo de treinta personas, esta creencia es insostenible. Pero es tan antigua y tan consolidada que no la ve como creencia: la ve como experiencia.
 

@@ -27,7 +27,7 @@ La definición clínica actual (EWGSOP2, 2018) requiere:
 **La prevalencia:**
 El 10% de las personas mayores de 60 años tienen sarcopenia. En mayores de 80, el porcentaje supera el 30%. Pero la pérdida de músculo empieza mucho antes.
 
-**El inicio:**
+**El inició:**
 La masa muscular alcanza su pico entre los 25 y los 35 años. A partir de los 35, sin intervención, el cuerpo pierde entre el 3% y el 8% de masa muscular por década. Después de los 60, la pérdida puede acelerarse al 10-15% por década.
 
 ---
@@ -75,7 +75,7 @@ La ingesta insuficiente de proteína, vitamina D, calorías y micronutrientes co
 La debilidad muscular es la principal causa modificable de caídas en mayores. Las caídas son la primera causa de lesión grave y hospitalización en mayores de 65 años en España. Una fractura de cadera en un anciano frágil tiene una mortalidad del 25-30% en el primer año.
 
 **La discapacidad:**
-La pérdida de función muscular lleva progresivamente a la dependencia: incapacidad para levantarse del suelo, subir escaleras, llevar la compra, bañarse solo. Es el camino hacia la dependencia funcional.
+La pérdida de función muscular lleva progresivamente a la dependencia: incapacidad para levantarse del suelo, subir escaleras, llevar la compra, bañarse solo. Es el camino hacía la dependencia funcional.
 
 **La resistencia a la insulina:**
 La pérdida de masa muscular reduce la capacidad de captación de glucosa, aumentando el riesgo de diabetes tipo 2.
@@ -117,7 +117,7 @@ La proteína es el sustrato para la síntesis muscular. Las recomendaciones actu
 La leucina es el aminoácido más potente como estímulo de la síntesis proteica. Presente en proteínas de origen animal (especialmente suero de leche, pollo, pescado), huevos y algunas legumbres.
 
 **La distribución de la proteína:**
-El modelo de proteína en la cena principalmente (el patrón mediterráneo tradicional tardío) es menos eficiente para la síntesis muscular que distribuirla en las tres comidas principales.
+El modeló de proteína en la cena principalmente (el patrón mediterráneo tradicional tardío) es menos eficiente para la síntesis muscular que distribuirla en las tres comidas principales.
 
 **La vitamina D:**
 La vitamina D tiene receptores en el músculo esquelético y es necesaria para su función normal. El déficit de vitamina D se asocia con mayor debilidad muscular y mayor riesgo de caídas. La suplementación mejora la función muscular en personas con déficit.

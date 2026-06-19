@@ -125,7 +125,7 @@ Isabel, en los momentos de mayor presión como directora, aprendió a preguntars
 
 ## Capítulo 6: Construir un diálogo interno de coach
 
-El objetivo no es eliminar el diálogo interno crítico (imposible) ni convertirlo en un flujo de positividad superficial (contraproducente). El objetivo es que el diálogo interno funcione más como un coach que como un fiscal.
+El objetivo no es eliminar el diálogo interno crítico (imposible) ni convertirlo en un flujo de positividad superficial (contraproducente). El objetivo es que el diálogo interno funcione más cómo un coach que cómo un fiscal.
 
 **El fiscal:**
 Señala los errores para condenar. "Has fallado. Deberías saber mejor."
@@ -178,9 +178,9 @@ Este proceso, al principio, parece lento y artificial. Con práctica, se interna
 
 El diálogo interno no solo afecta al bienestar emocional; afecta a las decisiones.
 
-Un diálogo interno sesgado hacia el catastrofismo produce decisiones conservadoras por miedo, evitación de riesgos razonables, postergación de conversaciones difíciles.
+Un diálogo interno sesgado hacía el catastrofismo produce decisiones conservadoras por miedo, evitación de riesgos razonables, postergación de conversaciones difíciles.
 
-Un diálogo interno sesgado hacia el optimismo ingenuo produce decisiones imprudentes, subestimación de riesgos reales, falta de preparación.
+Un diálogo interno sesgado hacía el optimismo ingenuo produce decisiones imprudentes, subestimación de riesgos reales, falta de preparación.
 
 El diálogo interno calibrado —ni catastrofista ni ingenuamente optimista— produce mejores decisiones porque parte de una evaluación más precisa de la realidad.
 

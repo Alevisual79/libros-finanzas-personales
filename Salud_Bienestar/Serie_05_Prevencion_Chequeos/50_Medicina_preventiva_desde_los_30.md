@@ -41,11 +41,11 @@ A los 30, la mayoría de personas están en el mejor momento de su salud. Es tam
 
 **Revisiones:**
 - Tensión arterial: al menos una vez si nunca se ha medido. Cada 2 años si es normal.
-- Analítica básica: glucosa, colesterol, función renal, hemograma. Una vez al inicio de la década; según resultados, cada 2-5 años.
+- Analítica básica: glucosa, colesterol, función renal, hemograma. Una vez al inició de la década; según resultados, cada 2-5 años.
 - IMC y circunferencia de cintura: control anual.
 
 **Cribados:**
-- Mujeres: inicio del cribado de cérvix (citología o test VPH desde los 25 años).
+- Mujeres: inició del cribado de cérvix (citología o test VPH desde los 25 años).
 - Hombres: ausencia de cribados sistemáticos obligatorios en esta década para la mayoría.
 
 **Vacunas:**
@@ -208,7 +208,7 @@ Es una revisión gratuita y periódica que puede detectar problemas de salud. Mu
 Mantener un registro personal de la propia salud es una práctica infrautilizada con beneficios reales.
 
 **Qué registrar:**
-- Medicamentos actuales (nombre, dosis, indicación, inicio)
+- Medicamentos actuales (nombre, dosis, indicación, inició)
 - Alergias (medicamentos, alimentos, otros)
 - Antecedentes personales (diagnósticos, cirugías, hospitalizaciones)
 - Antecedentes familiares (enfermedades de padres, abuelos, hermanos)
@@ -236,7 +236,7 @@ Analítica completa semestral (diabetes reciente, hipertensión, artritis), mamo
 
 ## Epílogo: La prevención es el mejor tratamiento
 
-No hay ningún medicamento, ninguna intervención y ninguna tecnología que haya demostrado ser tan eficaz para la salud a largo plazo como la suma de los hábitos preventivos: no fumar, hacer ejercicio, dormir bien, mantener el peso, controlar el estrés, tener conexión social y hacerse las revisiones que corresponden a la edad.
+No hay ningún medicamento, ninguna intervención y ninguna tecnología que haya demostrado ser tan eficaz para la salud a largo plazo cómo la suma de los hábitos preventivos: no fumar, hacer ejercicio, dormir bien, mantener el peso, controlar el estrés, tener conexión social y hacerse las revisiones que corresponden a la edad.
 
 No es glamoroso. No tiene una app viral. No lo promueve ninguna industria con millones en marketing. Pero funciona.
 

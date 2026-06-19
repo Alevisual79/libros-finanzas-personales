@@ -104,7 +104,7 @@ Las crisis ponen al equipo bajo presión. Bajo presión, los conflictos latentes
 - Tratar a algunos miembros de forma diferente según cuánto les afecta la crisis
 - Dejar de comunicar o de reunirse
 
-Rubén vivió una crisis con un cliente que amenazó con cancelar el contrato. En lugar de gestionar el pánico solo, reunió a las personas que trabajaban en esa cuenta y fue completamente transparente sobre la situación. El equipo generó ideas que él solo no habría considerado. La cuenta se salvó.
+Rubén vivió una crisis con un cliente que amenazó con cancelar el contrató. En lugar de gestionar el pánico solo, reunió a las personas que trabajaban en esa cuenta y fue completamente transparente sobre la situación. El equipo genero ideas que él solo no habría considerado. La cuenta se salvó.
 
 ---
 
@@ -121,15 +121,15 @@ Cómo un equipo y un líder manejan el fracaso determina lo que se aprende de é
 - Dwelling: quedarse en el fracaso más allá del tiempo necesario para procesarlo y aprender
 
 **Lo que funciona:**
-Una retrospectiva honesta: qué pasó, por qué pasó, qué habríamos hecho diferente, qué aprendemos. Sin juicio sobre las personas. Con enfoque en el sistema y el proceso.
+Una retrospectiva honesta: qué paso, por qué paso, qué habríamos hecho diferente, qué aprendemos. Sin juicio sobre las personas. Con enfoque en el sistema y el proceso.
 
-Y luego, deliberadamente, mirar hacia adelante.
+Y luego, deliberadamente, mirar hacía adelante.
 
 ---
 
 ## Capítulo 7: Mantener los valores bajo presión
 
-La adversidad es la prueba más dura de los valores. Cuando hay presión para comprometer la ética, la honestidad o el trato hacia las personas, ¿qué se hace?
+La adversidad es la prueba más dura de los valores. Cuando hay presión para comprometer la ética, la honestidad o el trató hacía las personas, ¿qué se hace?
 
 **Los momentos de prueba:**
 - La presión para dar resultados que se inflan para parecer mejores de lo que son

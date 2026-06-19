@@ -12,18 +12,18 @@ Cinco años después de haber comenzado cada uno su propio camino con el Método
 
 No se conocían entre sí. No sabían que los tres habían comenzado desde el mismo punto de partida: la frustración de trabajar mucho sin vivir bien.
 
-El mentor, que había caminado con los tres por separado, los presentó antes de la conferencia.
+El mentor, que había caminado con los tres por separado, los presento antes de la conferencia.
 
-En la conversación que siguió, los tres describieron recorridos completamente diferentes. Y llegaron, sorprendentemente, a conclusiones muy similares.
+En la conversación que siguio, los tres describieron recorridos completamente diferentes. Y llegaron, sorprendentemente, a conclusiones muy similares.
 
 ---
 
 ## Capítulo 1: El Método ACCIÓN — revisado
 
-El Método ACCIÓN comenzó como una herramienta de productividad. En el camino, se reveló como algo más amplio.
+El Método ACCIÓN comenzo cómo una herramienta de productividad. En el camino, se reveló como algo más amplio.
 
 **A — Autoconocimiento:**
-No solo "cómo funciono para ser más productivo". Quién soy realmente: mis valores, mis miedos, mis fortalezas genuinas, mis puntos ciegos. La base de todo lo demás.
+No solo "cómo funcionó para ser más productivo". Quién soy realmente: mis valores, mis miedos, mis fortalezas genuinas, mis puntos ciegos. La base de todo lo demás.
 
 **C — Claridad:**
 No solo "qué quiero lograr este trimestre". Qué quiero que sea mi vida. Para qué trabajo. Qué tipo de persona quiero ser. La claridad que orienta las grandes decisiones, no solo las pequeñas.
@@ -46,9 +46,9 @@ No solo "gestiono los obstáculos del proyecto". Gestiono los cambios de la vida
 
 Elena aprendió que su problema no era el tiempo sino la claridad.
 
-Durante años, creyó que si tuviera más horas en el día, todo funcionaría. Lo que descubrió era que la mayoría de esas horas no estaban dirigidas hacia lo que realmente importaba.
+Durante años, creyó que si tuviera más horas en el día, todo funcionaría. Lo que descubrió era que la mayoría de esas horas no estaban dirigidas hacía lo que realmente importaba.
 
-La claridad sobre sus prioridades más profundas —no las del trimestre, las de la vida— cambió cómo distribuía el tiempo más que cualquier técnica de productividad.
+La claridad sobre sus prioridades más profundas —no las del trimestre, las de la vida— cambio cómo distribuía el tiempo más que cualquier técnica de productividad.
 
 Y descubrió algo más: que rendir bien y vivir bien no son incompatibles. Que cuidar las relaciones no resta al trabajo; lo sostiene. Que el descanso real no es tiempo perdido; es el que hace posible el mejor trabajo.
 
@@ -60,7 +60,7 @@ Rubén aprendió que su problema no era la disciplina sino el propósito.
 
 Había intentado docenas de sistemas de productividad. Todos funcionaban por semanas y luego se desmoronaban. Porque el problema no era cómo organizarse: era para qué.
 
-Cuando encontró un trabajo suficientemente conectado con lo que importaba, la disciplina dejó de ser el problema central. El problema pasó a ser el diseño: cómo estructurar el trabajo para que fuera sostenible y eficaz al mismo tiempo.
+Cuando encontró un trabajo suficientemente conectado con lo que importaba, la disciplina dejó de ser el problema central. El problema paso a ser el diseño: cómo estructurar el trabajo para qué fuera sostenible y eficaz al mismo tiempo.
 
 Y descubrió que la dispersión —su talón de Aquiles histórico— era en parte un síntoma de no haber clarificado suficientemente el para qué. Con claridad de propósito, el foco llegó con mucho menos esfuerzo.
 
@@ -68,9 +68,9 @@ Y descubrió que la dispersión —su talón de Aquiles histórico— era en par
 
 ## Capítulo 4: Lo que Isabel aprendió
 
-Isabel aprendió que su problema no era el liderazgo sino el modelo de vida que lo acompañaba.
+Isabel aprendió que su problema no era el liderazgo sino el modeló de vida que lo acompañaba.
 
-Había ascendido y logrado lo que la cultura de su industria consideraba éxito. Y había llegado a un punto donde el modelo que la había traído hasta ahí no era el que la llevaría a donde quería ir en la segunda mitad de su carrera.
+Había ascendido y logrado lo que la cultura de su industria consideraba éxito. Y había llegado a un punto donde el modeló que la había traído hasta ahí no era el que la llevaría a donde quería ir en la segunda mitad de su carrera.
 
 Aprender a pedir ayuda, a delegar de verdad, a decir no sin culpa, a descansar sin sentirse irresponsable: estas no eran habilidades de liderazgo en el sentido convencional. Eran habilidades de sostenibilidad. Y resultan ser fundamentales para el liderazgo real a largo plazo.
 
@@ -103,7 +103,7 @@ Estar realmente presente cuando se está con ellas. Invertir en las relaciones q
 Hacer trabajo que produzca valor real para otros. Mantener la integridad también cuando es costosa. No sacrificar lo importante por lo urgente.
 
 **Con el mundo:**
-Contribuir, aunque sea modestamente, a algo más grande que el propio beneficio. Dejar el entorno un poco mejor de como se encontró.
+Contribuir, aunque sea modestamente, a algo más grande que el propio beneficio. Dejar el entorno un poco mejor de cómo se encontró.
 
 ---
 
@@ -116,7 +116,7 @@ El mundo moderno genera urgencia constantemente. La persona que solo atiende lo 
 Las notificaciones, el scrolling, el consumo pasivo de información. El ruido no es solo distracción del trabajo: es distracción de la reflexión sobre cómo se quiere vivir.
 
 **La comparación:**
-Las vidas curadas de las redes sociales producen estándares imposibles y desvían la atención de la propia definición de una vida bien vivida hacia la de otros.
+Las vidas curadas de las redes sociales producen estándares imposibles y desvían la atención de la propia definición de una vida bien vivida hacía la de otros.
 
 **El automatismo:**
 Hacer lo que siempre se ha hecho porque siempre se ha hecho. Las decisiones no revisadas que acumulan una trayectoria no elegida.
@@ -149,7 +149,7 @@ Una vida que, vista desde el final, tenga coherencia. No porque todas las decisi
 
 Una vida donde las personas más cercanas sientan que importaron realmente.
 
-Una vida donde el trabajo, aunque imperfecto, produjo algo de valor.
+Una vida donde el trabajo, aunque imperfecto, produjó algo de valor.
 
 Una vida que fue, en el sentido más auténtico, vivida.
 

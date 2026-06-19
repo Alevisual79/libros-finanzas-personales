@@ -1,6 +1,6 @@
 # Construir hábitos en familia
 
-## Cómo alinear a todos en casa hacia una vida más saludable sin convertirlo en una guerra
+## Cómo alinear a todos en casa hacía una vida más saludable sin convertirlo en una guerra
 
 **Serie Salud y Bienestar — Serie 6: Hábitos y Rutinas — Libro 9 de 10**
 
@@ -28,7 +28,7 @@ Los demás miembros de la familia no son maliciosos cuando resisten los cambios.
 Cuando un cónyuge empieza a comer diferente y más sano, el otro puede sentir (aunque no lo verbalice): "¿Está insinuando que yo como mal? ¿Que debería cambiar yo también?" La resistencia que parece sobre la comida puede ser sobre la dinámica de poder.
 
 **La solución:**
-Implicar a la familia en el proceso desde el principio. Presentar los cambios como algo que beneficia a todos, no como una imposición. Hacerlo de forma gradual y con sentido del humor.
+Implicar a la familia en el proceso desde el principio. Presentar los cambios como algo que beneficia a todos, no cómo una imposición. Hacerlo de forma gradual y con sentido del humor.
 
 ---
 
@@ -81,7 +81,7 @@ Estas actividades no son "ejercicio" en el sentido de entrenamiento formal. Son 
 Si los hijos hacen deporte, acompañarlos activamente (no solo llevarlos) y mostrar interés genuino refuerza la importancia de la actividad física. Si los padres hacen deporte y los hijos lo ven, la probabilidad de que los hijos sean activos de adultos aumenta significativamente.
 
 **No forzar:**
-El deporte o el ejercicio impuesto produce rechazo. Ofrecer opciones, respetar las preferencias y encontrar la actividad que guste a cada miembro es más efectivo que imponer "debes hacer ejercicio".
+El deporte o el ejercicio impuesto produce rechazó. Ofrecer opciones, respetar las preferencias y encontrar la actividad que guste a cada miembro es más efectivo que imponer "debes hacer ejercicio".
 
 ---
 
@@ -91,7 +91,7 @@ El deporte o el ejercicio impuesto produce rechazo. Ofrecer opciones, respetar l
 El "jet lag social" del fin de semana (acostarse 2-3 horas más tarde que entre semana) afecta a toda la familia. Mantener un horario razonablemente consistente los siete días reduce la deuda de sueño y el mal humor del lunes.
 
 **Los dispositivos y el sueño de los hijos:**
-Como se trató en el libro de sueño infantil: los dispositivos fuera del dormitorio de todos. Si los padres tienen el teléfono en la mesita, es difícil mantener la regla para los hijos.
+Cómo se trató en el libro de sueño infantil: los dispositivos fuera del dormitorio de todos. Si los padres tienen el teléfono en la mesita, es difícil mantener la regla para los hijos.
 
 **La rutina familiar de noche:**
 Una rutina de noche consistente (cena, baño, lectura o conversación, apagar las luces) hace más fácil que los niños se duerman a hora razonable y que los adultos también puedan tener su tiempo de descanso.
@@ -155,7 +155,7 @@ Si los hábitos de salud son un punto de fricción importante en la pareja, pued
 Carmen tiene 58 años. Sus hijos son adultos. Sus hábitos de salud son los que son. Llevan décadas formados.
 
 Lo que puede hacer:
-- Ser el modelo para sus nietos (los hábitos de los abuelos influyen en los nietos)
+- Ser el modeló para sus nietos (los hábitos de los abuelos influyen en los nietos)
 - Crear contextos saludables cuando los nietos vienen a casa
 - Compartir su proceso de cambio con sus hijos sin imponerlo
 - Cuidar su propia salud como prioridad, sin esperar que la familia cambie a la vez
@@ -171,7 +171,7 @@ Laura y David acordaron tres cambios familiares para el trimestre:
 2. Caminata familiar el domingo por la tarde
 3. Fruta como snack estándar en casa (la Nutella queda para ocasiones especiales, no desaparece)
 
-Los dos primeros fueron bien desde el principio. El tercero tuvo resistencia de Álvaro durante dos semanas. Después lo aceptó porque era lo que había.
+Los dos primeros fueron bien desde el principio. El tercero tuvo resistencia de Álvaro durante dos semanas. Después lo acepto porque era lo que había.
 
 "No son grandes cambios. Pero el domingo por la tarde ahora salimos juntos. Y eso no lo cambiaría por nada."
 

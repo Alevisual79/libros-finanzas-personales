@@ -35,7 +35,7 @@ Un LLM como Claude o GPT-4 no "entiende" el lenguaje de la forma en que lo hace 
 
 **IA simbólica (1950s-1980s):** Los primeros sistemas de IA intentaban representar el conocimiento humano como reglas explícitas. "Si el paciente tiene fiebre mayor de 38°C Y tos Y dolor de garganta, ENTONCES la probabilidad de gripe es alta." Estos sistemas eran frágiles: funcionaban bien en dominios muy acotados y fallaban en cuanto encontraban situaciones no contempladas en sus reglas.
 
-**Machine learning (1980s-presente):** En lugar de programar reglas explícitas, se entrena al sistema con datos para que aprenda los patrones por sí mismo. El sistema analiza miles de imágenes de tumores, aprende a identificar los patrones que distinguen los malignos de los benignos, y puede clasificar nuevas imágenes. No se le programó qué buscar: aprendió qué buscar.
+**Machine learning (1980s-presente):** En lugar de programar reglas explícitas, se entrena al sistema con datos para qué aprenda los patrones por sí mismo. El sistema analiza miles de imágenes de tumores, aprende a identificar los patrones que distinguen los malignos de los benignos, y puede clasificar nuevas imágenes. No se le programó qué buscar: aprendió qué buscar.
 
 **Deep learning y redes neuronales (2010s-presente):** Una variante del machine learning que usa estructuras matemáticas inspiradas vagamente en el cerebro humano y que escala especialmente bien con grandes cantidades de datos y potencia computacional. Es la base de la mayoría de los sistemas de IA más capaces actuales.
 
@@ -82,27 +82,27 @@ Estos términos se usan frecuentemente como sinónimos. No lo son.
 
 **LLM (Large Language Model)** es un tipo específico de sistema de deep learning entrenado en texto. GPT-4, Claude, Llama, Gemini son todos LLMs.
 
-**IA generativa** es el conjunto de modelos que pueden generar contenido nuevo: texto (LLMs), imagen (DALL-E, Midjourney, Stable Diffusion), audio (ElevenLabs), vídeo (Sora, Runway).
+**IA generativa** es el conjunto de modelos que pueden generar contenido nuevo: texto (LLMs), imagen (DALL-E, Midjourney, Stable Diffusión), audio (ElevenLabs), vídeo (Sora, Runway).
 
 ---
 
 ## Capítulo 6: Cómo funciona el aprendizaje automático
 
-El ciclo básico del machine learning tiene tres componentes: datos, modelo y función de pérdida.
+El ciclo básico del machine learning tiene tres componentes: datos, modeló y función de pérdida.
 
 **Los datos** son los ejemplos de los que el sistema aprende. Para un clasificador de imágenes de perros y gatos, los datos son miles de imágenes etiquetadas como "perro" o "gato".
 
-**El modelo** es la estructura matemática que procesa los datos. Al principio, sus parámetros son aleatorios: el modelo produce predicciones incorrectas.
+**El modeló** es la estructura matemática que procesa los datos. Al principio, sus parámetros son aleatorios: el modeló produce predicciones incorrectas.
 
-**La función de pérdida** mide qué tan incorrectas son las predicciones. El algoritmo de entrenamiento ajusta los parámetros del modelo para minimizar esa pérdida, iterativamente, durante millones de ejemplos.
+**La función de pérdida** mide qué tan incorrectas son las predicciones. El algoritmo de entrenamiento ajusta los parámetros del modeló para minimizar esa pérdida, iterativamente, durante millones de ejemplos.
 
-Al final del entrenamiento, el modelo ha "aprendido" los patrones en los datos que son útiles para hacer la tarea. No sabe que "aprende": ejecuta operaciones matemáticas. Pero el resultado se parece mucho al aprendizaje.
+Al final del entrenamiento, el modeló ha "aprendido" los patrones en los datos que son útiles para hacer la tarea. No sabe que "aprende": ejecuta operaciones matemáticas. Pero el resultado se parece mucho al aprendizaje.
 
 ---
 
 ## Capítulo 7: La IA como herramienta estadística
 
-Una forma de desmitificar la IA es entenderla como una herramienta estadística muy sofisticada.
+Una forma de desmitificar la IA es entenderla cómo una herramienta estadística muy sofisticada.
 
 Los LLMs, en su esencia, son sistemas de predicción de texto. Dado un contexto (las palabras anteriores), predicen cuál es la palabra más probable que sigue. Hacen esto con tal sofisticación —con parámetros en el orden de los miles de millones o billones— que el resultado parece comprensión, razonamiento e incluso creatividad.
 
@@ -136,7 +136,7 @@ En 2026, el ecosistema de IA tiene varios niveles:
 
 **Los constructores de aplicaciones:** Miles de empresas y developers que construyen productos sobre los modelos fundacionales.
 
-**Los usuarios finales:** Cientos de millones de personas que usan las aplicaciones sin necesariamente saber qué modelo hay debajo.
+**Los usuarios finales:** Cientos de millones de personas que usan las aplicaciones sin necesariamente saber qué modeló hay debajo.
 
 Esta estructura tiene implicaciones: la IA no es una sola cosa sino un ecosistema. Y las decisiones que toman los actores en cada nivel afectan a los que están en los niveles siguientes.
 

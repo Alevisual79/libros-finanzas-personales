@@ -36,10 +36,10 @@ Las últimas horas del día suelen estar llenas de lo primero: pantallas brillan
 La melatonina es la hormona del sueño. La produce la glándula pineal cuando detecta la oscuridad. Su liberación señala al cuerpo que es hora de dormir.
 
 **El problema de la luz azul:**
-Las pantallas de teléfono, ordenador y televisión emiten luz de espectro azul similar a la luz solar del mediodía. Esta luz inhibe la producción de melatonina, retrasando el inicio del sueño.
+Las pantallas de teléfono, ordenador y televisión emiten luz de espectro azul similar a la luz solar del mediodía. Esta luz inhibe la producción de melatonina, retrasando el inició del sueño.
 
 **La magnitud del efecto:**
-Una hora de exposición a la pantalla brillante antes de dormir puede retrasar el inicio del sueño hasta 90 minutos y reducir la melatonina en un 50%.
+Una hora de exposición a la pantalla brillante antes de dormir puede retrasar el inició del sueño hasta 90 minutos y reducir la melatonina en un 50%.
 
 **Las soluciones:**
 - Modo nocturno/filtro de luz azul en los dispositivos (reduce el problema pero no lo elimina)
@@ -89,10 +89,10 @@ Las emociones no procesadas del día se convierten en el material de las noches 
 5-10 minutos de escritura libre sobre lo que ha ocurrido durante el día, especialmente lo que ha generado tensión emocional, tiene efectos documentados en la calidad del sueño y la reducción del estrés.
 
 **Las preocupaciones:**
-Las preocupaciones del día que aparecen por la noche pueden procesarse con la técnica del "diario de preocupaciones": escribirlas junto con el siguiente paso concreto para cada una. El cerebro puede soltarlas sabiendo que están registradas.
+Las preocupaciones del día que aparecen por la noche pueden procesarse con la técnica del "diario de preocupaciones": escribirlas juntó con el siguiente paso concreto para cada una. El cerebro puede soltarlas sabiendo que están registradas.
 
 **La gratitud:**
-Escribir 3 cosas por las que se está agradecido antes de dormir está asociado con mayor bienestar subjetivo y mejor calidad del sueño en estudios controlados. El mecanismo: redirigir la atención desde los problemas pendientes hacia lo que ha funcionado.
+Escribir 3 cosas por las que se está agradecido antes de dormir está asociado con mayor bienestar subjetivo y mejor calidad del sueño en estudios controlados. El mecanismo: redirigir la atención desde los problemas pendientes hacía lo que ha funcionado.
 
 ---
 
@@ -107,7 +107,7 @@ Después de un día de tensión muscular acumulada, el cuerpo necesita señales 
 Tensar y soltar grupos musculares progresivamente (de los pies a la cabeza) es una técnica con décadas de evidencia para el insomnio y la ansiedad nocturna.
 
 **El baño o ducha:**
-Más allá del efecto de temperatura ya mencionado, el ritual del baño o la ducha tiene un componente psicológico de transición: lavar el día, literalmente. Muchas personas lo describen como una de las señales más efectivas de que el día ha terminado.
+Más allá del efecto de temperatura ya mencionado, el ritual del baño o la ducha tiene un componente psicológico de transición: lavar el día, literalmente. Muchas personas lo describen cómo una de las señales más efectivas de que el día ha terminado.
 
 ---
 

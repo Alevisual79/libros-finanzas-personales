@@ -50,9 +50,9 @@
 | # | Título | Subtítulo |
 |---|--------|-----------|
 | 21 | ChatGPT de verdad | Más allá del hype: cómo usar los modelos de lenguaje para trabajo real |
-| 22 | Claude, Gemini, Llama: La guía comparativa | Qué modelo elegir para qué tarea y por qué importa |
+| 22 | Claude, Gemini, Llama: La guía comparativa | Qué modeló elegir para qué tarea y por qué importa |
 | 23 | Copilot y la IA en tu software | IA en Word, Excel, Outlook y las herramientas que ya usas |
-| 24 | Imagen generada con IA | Midjourney, DALL-E y Stable Diffusion para trabajo, marketing y creatividad |
+| 24 | Imagen generada con IA | Midjourney, DALL-E y Stable Diffusión para trabajo, marketing y creatividad |
 | 25 | Audio y vídeo con IA | ElevenLabs, Sora y el contenido generado: estado del arte y aplicaciones |
 | 26 | IA para escritura profesional | Desde el email hasta el informe: asistentes de escritura que funcionan |
 | 27 | IA para investigación y síntesis | Perplexity, NotebookLM y las herramientas que cambian cómo aprendemos |
@@ -88,7 +88,7 @@
 | 43 | Privacidad en la era de la IA | Qué saben de ti, cómo lo saben y qué puedes hacer |
 | 44 | Sesgo algorítmico: La discriminación invisible | Cómo los prejuicios humanos se codifican en sistemas que parecen objetivos |
 | 45 | IA y ciberseguridad | Cómo la IA protege y amenaza la seguridad digital |
-| 46 | El modelo de negocio de los datos | Por qué las plataformas son gratis y tú eres el producto |
+| 46 | El modeló de negocio de los datos | Por qué las plataformas son gratis y tú eres el producto |
 | 47 | IA y vigilancia | Del smartphone al estado: el espectro de la observación digital |
 | 48 | Machine learning sin código | Entrenar modelos de IA para tus propios datos sin programar |
 | 49 | El futuro de la búsqueda en internet | Cómo la IA está transformando cómo encontramos información |
@@ -107,7 +107,7 @@
 | 55 | IA en ventas y marketing | Personalización, predicción y la nueva relación empresa-cliente |
 | 56 | IA en recursos humanos | Selección, formación y gestión del talento en la era de los algoritmos |
 | 57 | IA en finanzas y contabilidad | Automatización financiera para pymes y autónomos |
-| 58 | IA en logística y operaciones | Optimización y predicción en la cadena de suministro |
+| 58 | IA en logística y operaciones | Optimización y predicción en la cadena de suministró |
 | 59 | El ROI de la IA | Cómo medir si la inversión en IA realmente vale la pena |
 | 60 | Liderazgo en la era de la IA | Lo que los líderes necesitan entender, decidir y hacer diferente ahora |
 
@@ -126,7 +126,7 @@
 | 67 | IA y desigualdad | Cómo la revolución de la IA está ampliando la brecha global |
 | 68 | El control humano de la IA | Alineación, seguridad y el problema más difícil de la tecnología |
 | 69 | IA y los derechos de autor | La batalla legal por el contenido que entrena los modelos |
-| 70 | El contrato social de la IA | Quién se beneficia, quién paga el precio y cómo debería ser diferente |
+| 70 | El contrató social de la IA | Quién se beneficia, quién paga el precio y cómo debería ser diferente |
 
 ---
 
@@ -156,7 +156,7 @@
 | 83 | El freelancer y la IA | Cómo los trabajadores independientes multiplican su capacidad con IA |
 | 84 | De técnico a estratega | El salto que la IA hace posible para quien sabe aprovecharlo |
 | 85 | IA y emprendimiento | El momento más igualador de la historia para lanzar un negocio |
-| 86 | Negociar tu valor en la era de la IA | Cómo demostrar que vales más que un modelo de lenguaje |
+| 86 | Negociar tu valor en la era de la IA | Cómo demostrar que vales más que un modeló de lenguaje |
 | 87 | La empresa de un solo empleado con IA | Construir un negocio escalable siendo una sola persona |
 | 88 | Soft skills en la era de la IA | Las habilidades humanas que más importan cuando las máquinas hacen el resto |
 | 89 | IA y bienestar laboral | El estrés de la adaptación continua y cómo gestionarlo |

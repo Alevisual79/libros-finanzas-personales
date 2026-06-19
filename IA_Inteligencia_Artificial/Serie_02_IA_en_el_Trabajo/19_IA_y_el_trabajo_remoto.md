@@ -1,4 +1,4 @@
-﻿# IA y el trabajo remoto
+# IA y el trabajo remoto
 ## Cómo la inteligencia artificial está redefiniendo el trabajo distribuido
 
 **Serie 2: IA en el Trabajo — Libro 9 de 10**
@@ -146,12 +146,12 @@ Después de implementar un stack de herramientas de IA para trabajo remoto, el e
 - Documentación de proyectos: de "esporádica y manual" a "automática y completa"
 - Tiempo dedicado a actualizaciones de estado: reducido un 60%
 
-Lo que no mejoró con las herramientas:
+Lo que no mejoro con las herramientas:
 - La sensación de equipo y pertenencia (requirió retiros presenciales semestrales)
 - La resolución de conflictos interpersonales (requirió conversaciones directas)
 - La innovación creativa conjunta (las mejores sesiones seguían siendo sincrόnicas)
 
-Las herramientas mejoraron la infraestructura del trabajo. La cultura siguió siendo responsabilidad de las personas.
+Las herramientas mejoraron la infraestructura del trabajo. La cultura siguio siendo responsabilidad de las personas.
 
 ---
 

@@ -160,19 +160,19 @@ Siempre disponible, siempre interrumpible. El trabajo profundo es imposible.
 **Disponibilidad predecible:**
 Períodos definidos de trabajo profundo (sin responder) y períodos definidos de disponibilidad (atendiendo correo, mensajes, consultas). Los colegas y clientes saben cuándo pueden esperar respuesta.
 
-La mayoría de trabajos pueden organizarse así con un ajuste de expectativas. Isabel cambió la política de su equipo: respuesta garantizada en cuatro horas, no en veinte minutos. El rendimiento del equipo mejoró sin que ningún cliente se quejara.
+La mayoría de trabajos pueden organizarse así con un ajuste de expectativas. Isabel cambio la política de su equipo: respuesta garantizada en cuatro horas, no en veinte minutos. El rendimiento del equipo mejoro sin que ningún cliente se quejara.
 
 ---
 
 ## Capítulo 10: La semana de trabajo profundo de Rubén
 
-Rubén calculó cuántas horas de trabajo genuinamente profundo había hecho la semana anterior: cuarenta y cinco minutos.
+Rubén calculo cuántas horas de trabajo genuinamente profundo había hecho la semana anterior: cuarenta y cinco minutos.
 
 En una semana de cuarenta horas de "trabajo", cuarenta y cinco minutos fueron trabajo profundo real.
 
-La siguiente semana, introdujo un bloque de noventa minutos cada mañana. Cuatro días y media de trabajo superficial habitual más cuatro bloques de noventa minutos profundos.
+La siguiente semana, introdujó un bloque de noventa minutos cada mañana. Cuatro días y media de trabajo superficial habitual más cuatro bloques de noventa minutos profundos.
 
-En esos seis horas de trabajo profundo, produjo más de lo que había producido en las cuarenta horas de la semana anterior.
+En esos seis horas de trabajo profundo, produjó más de lo que había producido en las cuarenta horas de la semana anterior.
 
 No porque hubiera trabajado más. Sino porque había trabajado en lo que importaba, sin interrupciones, con toda la concentración disponible.
 

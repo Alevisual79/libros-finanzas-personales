@@ -8,7 +8,7 @@
 
 ## Prólogo: El villano que no lo es del todo
 
-David tiene el colesterol "alto". Su médico le habló de las estatinas. Él buscó en internet y encontró artículos de que el colesterol no es el problema real, que las estatinas son peligrosas, que el aceite de coco lo baja, que todo es un invento de la industria farmacéutica.
+David tiene el colesterol "alto". Su médico le habló de las estatinas. Él busco en internet y encontró artículos de que el colesterol no es el problema real, que las estatinas son peligrosas, que el aceite de coco lo baja, que todo es un invento de la industria farmacéutica.
 
 Dos semanas después sigue sin saber qué hacer.
 
@@ -41,7 +41,7 @@ El problema es el exceso de ciertas formas de colesterol en sangre durante perí
 El colesterol no viaja libre por la sangre: es hidrofóbico (no se mezcla con el agua). Viaja empaquetado en lipoproteínas.
 
 **LDL (Low Density Lipoprotein — Lipoproteína de Baja Densidad):**
-El "colesterol malo". Transporta colesterol desde el hígado hacia los tejidos. Las partículas LDL pueden depositarse en las paredes arteriales, especialmente cuando se oxidan o se modifican. Este proceso es el inicio de la placa de aterosclerosis.
+El "colesterol malo". Transporta colesterol desde el hígado hacía los tejidos. Las partículas LDL pueden depositarse en las paredes arteriales, especialmente cuando se oxidan o se modifican. Este proceso es el inició de la placa de aterosclerosis.
 
 **HDL (High Density Lipoprotein — Lipoproteína de Alta Densidad):**
 El "colesterol bueno". Recoge el colesterol de los tejidos y lo transporta de vuelta al hígado para su eliminación. Un HDL alto es protector.
@@ -101,7 +101,7 @@ Las monoinsaturadas (aceite de oliva, aguacate) y poliinsaturadas omega-3 (pesca
 Durante décadas se limitó el consumo de huevos por su contenido en colesterol. La evidencia actual muestra que el colesterol de la dieta tiene un impacto mucho menor en el colesterol sanguíneo de lo que se creía. El hígado compensa la ingesta. Los huevos en cantidades moderadas (1 al día en personas sanas) no aumentan el riesgo cardiovascular.
 
 **Los azúcares y carbohidratos refinados:**
-Elevan los triglicéridos y bajan el HDL. La relación entre los azúcares y el riesgo cardiovascular puede ser tan importante como la de las grasas saturadas.
+Elevan los triglicéridos y bajan el HDL. La relación entre los azúcares y el riesgo cardiovascular puede ser tan importante cómo la de las grasas saturadas.
 
 ---
 

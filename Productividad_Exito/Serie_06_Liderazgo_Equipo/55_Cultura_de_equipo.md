@@ -6,7 +6,7 @@
 
 ---
 
-## Prólogo: La frase que cambió la perspectiva de Isabel
+## Prólogo: La frase que cambio la perspectiva de Isabel
 
 Isabel asistió a una conferencia donde un directivo citó a Peter Drucker: "La cultura come a la estrategia en el desayuno."
 
@@ -72,7 +72,7 @@ La cultura se revela más claramente en los momentos de presión. Cuando hay que
 No todas las culturas son saludables. Las culturas tóxicas tienen costos enormes en rendimiento, retención de talento y bienestar de las personas.
 
 **Las señales de cultura tóxica:**
-- Las malas noticias no llegan hacia arriba (el mensajero es penalizado)
+- Las malas noticias no llegan hacía arriba (el mensajero es penalizado)
 - El éxito es individual; el fracaso, colectivo
 - Las personas que preguntan o cuestionan son vistas como problema
 - Hay una versión oficial de la realidad y una versión real, y todo el mundo sabe cuál es cuál
@@ -130,7 +130,7 @@ El trabajo remoto presenta desafíos específicos para la cultura de equipo. Los
 - Los comportamientos disfuncionales son más difíciles de detectar y corregir
 
 **Las adaptaciones:**
-- Rituales de equipo explícitamente diseñados para crear conexión (check-ins de inicio, cafés virtuales, espacios informales)
+- Rituales de equipo explícitamente diseñados para crear conexión (check-ins de inició, cafés virtuales, espacios informales)
 - Mayor explicitación de las normas y valores (no asumirlos como implícitos)
 - Más frecuencia en las conversaciones individuales para mantener la conexión personal
 
@@ -167,12 +167,12 @@ La inversión en cultura no es una inversión blanda o altruista. Es una inversi
 
 ## Capítulo 10: La cultura del equipo de Isabel después del cambio
 
-Isabel identificó tres comportamientos que quería cambiar en la cultura de su equipo:
+Isabel identifico tres comportamientos que quería cambiar en la cultura de su equipo:
 1. Que las malas noticias llegaran rápido en lugar de esconderse.
 2. Que los errores se analizaran colectivamente en lugar de buscarse culpables.
 3. Que las personas propusieran mejoras sin esperar que se les pidiera.
 
-Para cada uno, definió el comportamiento nuevo, lo modeló primero ella misma, y lo reconoció cada vez que lo vio en el equipo.
+Para cada uno, definió el comportamiento nuevo, lo modeló primero ella misma, y lo reconoció cada vez que lo vió en el equipo.
 
 Un año después, en una encuesta anónima, el 87% del equipo respondió que sentía que podía decir la verdad en el trabajo sin consecuencias negativas. Dos años antes, ese número había sido del 31%.
 

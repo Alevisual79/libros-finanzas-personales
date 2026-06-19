@@ -8,7 +8,7 @@
 
 ## Prólogo: El arquitecto del propio día
 
-El mentor le planteó a Elena una pregunta.
+El mentor le planteo a Elena una pregunta.
 
 "Si pudieras diseñar el día perfecto para ti —no el más productivo del mundo, sino el más tuyo— ¿cómo sería?"
 
@@ -26,7 +26,7 @@ Esa conversación inició el proyecto de los siguientes seis meses de Elena: con
 
 ## Capítulo 1: Qué es el stack de hábitos
 
-James Clear describió el concepto de "habit stacking" (encadenamiento de hábitos) como una de las estrategias más poderosas para construir nuevos hábitos.
+James Clear describió el concepto de "habit stacking" (encadenamiento de hábitos) cómo una de las estrategias más poderosas para construir nuevos hábitos.
 
 **La lógica:**
 Los hábitos ya establecidos son señales potentes. Cuando se encadena un hábito nuevo a uno ya existente, se aprovecha la señal del hábito establecido para disparar el nuevo.
@@ -60,10 +60,10 @@ Los hábitos de final del día que garantizan el descanso, la preparación del d
 
 ## Capítulo 3: Construir el stack de mañana
 
-Elena construyó su stack de mañana durante tres semanas, añadiendo un elemento a la vez.
+Elena construyo su stack de mañana durante tres semanas, añadiendo un elemento a la vez.
 
 **Semana 1:** Instaló el primer encadenamiento.
-- Después de que sonara el despertador, bebía un vaso de agua. (La botella de agua, junto al despertador, era la señal.)
+- Después de que sonara el despertador, bebía un vaso de agua. (La botella de agua, juntó al despertador, era la señal.)
 
 **Semana 2:** Añadió el segundo eslabón.
 - Después del agua, se ponía la ropa de deporte. (Ya preparada la noche anterior.)
@@ -90,7 +90,7 @@ Ocho eslabones encadenados, ejecutados de forma casi automática. No requería e
 
 El momento de transición entre "modo personal" y "modo trabajo" es crítico y habitualmente caótico.
 
-Rubén diseñó un ritual de inicio del trabajo:
+Rubén diseñó un ritual de inició del trabajo:
 
 1. Abrir el cuaderno de trabajo (no el ordenador)
 2. Escribir las tres prioridades del día (ya definidas la noche anterior)
@@ -98,10 +98,10 @@ Rubén diseñó un ritual de inicio del trabajo:
 4. Abrir solo el documento de la primera prioridad (cerrar todo lo demás)
 5. Iniciar el temporizador de 90 minutos
 
-La señal del cuaderno activaba el modo de trabajo. Sin el ritual de inicio, Rubén empezaba el día abriéndose el correo: y el correo marcaba las prioridades del día, no él.
+La señal del cuaderno activaba el modo de trabajo. Sin el ritual de inició, Rubén empezaba el día abriéndose el correo: y el correo marcaba las prioridades del día, no él.
 
 **El principio detrás:**
-El ritual de inicio establece el contexto mental. El cerebro aprende que cuando ocurren esos pasos, viene trabajo profundo. La concentración llega más rápido porque el cerebro ya sabe lo que se espera.
+El ritual de inició establece el contexto mental. El cerebro aprende que cuando ocurren esos pasos, viene trabajo profundo. La concentración llega más rápido porque el cerebro ya sabe lo que se espera.
 
 ---
 
@@ -183,7 +183,7 @@ Isabel amplió el concepto al equipo: un "stack" de prácticas de equipo que ocu
 
 **El stack de viernes:**
 1. Viernes 17:00 → Retrospectiva de equipo (15 min)
-2. Retrospectiva → Cada persona mandaba su "logro de la semana" al canal del equipo
+2. Retrospectiva → Cada persona mandaba su "logró de la semana" al canal del equipo
 3. Canal de logros → Isabel respondía con reconocimiento específico
 
 Estos stacks de equipo creaban previsibilidad, reducían la carga de gestión y construían cultura de forma automática.

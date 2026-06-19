@@ -14,7 +14,7 @@ El equipo lo odiaba.
 
 No porque fuera malo. Sino porque nadie había preguntado si lo querían, nadie había explicado por qué era necesario, y el impacto en el trabajo cotidiano —meses de aprendizaje de una nueva herramienta mientras el trabajo seguía— era real y doloroso.
 
-El cambio correcto, implementado de forma incorrecta, generó resistencia que duró más de un año.
+El cambio correcto, implementado de forma incorrecta, genero resistencia que duró más de un año.
 
 ---
 
@@ -35,7 +35,7 @@ Ver la resistencia como irracionalidad o como mal comportamiento. La resistencia
 
 ## Capítulo 2: Los modelos del cambio
 
-**El modelo de Kotter (8 pasos):**
+**El modeló de Kotter (8 pasos):**
 1. Crear sentido de urgencia
 2. Construir una coalición guía
 3. Desarrollar la visión del cambio
@@ -48,7 +48,7 @@ Ver la resistencia como irracionalidad o como mal comportamiento. La resistencia
 No es una receta infalible, pero identifica los elementos que el cambio exitoso necesita.
 
 **La curva del cambio de Kübler-Ross:**
-Adaptada del modelo de duelo, describe las etapas emocionales que las personas atraviesan en el cambio: negación → resistencia → exploración → compromiso. El líder del cambio necesita saber en qué etapa está cada persona y responder a esa etapa específica.
+Adaptada del modeló de duelo, describe las etapas emocionales que las personas atraviesan en el cambio: negación → resistencia → exploración → compromiso. El líder del cambio necesita saber en qué etapa está cada persona y responder a esa etapa específica.
 
 ---
 
@@ -79,7 +79,7 @@ Ningún líder puede implementar un cambio significativo solo. Necesita una coal
 **El rol de los líderes informales:**
 Los cambios que se implementan solo desde la jerarquía formal frecuentemente tienen menor éxito que los que involucran a los líderes informales —las personas con influencia real en las redes sociales de la organización.
 
-Isabel, cuando implementó el cambio de proceso en su departamento, identificó primero a las dos personas del equipo con mayor influencia informal. Las involucró en el diseño del proceso de cambio antes de comunicarlo al resto del equipo.
+Isabel, cuando implementó el cambio de proceso en su departamento, identifico primero a las dos personas del equipo con mayor influencia informal. Las involucró en el diseño del proceso de cambio antes de comunicarlo al resto del equipo.
 
 Cuando llegó la comunicación oficial, esas dos personas ya habían tenido conversaciones informales con el resto del equipo que habían preparado el terreno.
 
@@ -155,7 +155,7 @@ Un cambio que se implementa pero no se ancla en la cultura tiende a revertirse c
 **Cómo se ancla el cambio:**
 - Los nuevos comportamientos se convierten en la norma esperada, no en la excepción bien vista
 - Los sistemas de recompensa e incentivos reflejan el nuevo estado, no el antiguo
-- Las personas que se incorporan aprenden el nuevo estado como la forma de hacer las cosas
+- Las personas que se incorporan aprenden el nuevo estado cómo la forma de hacer las cosas
 - Las historias y los ejemplos que se comparten en la organización son del nuevo estado, no del antiguo
 
 **El tiempo:**
@@ -167,15 +167,15 @@ Anclar un cambio significativo tarda más de lo que se espera. Los líderes del 
 
 Elena lideró su primer cambio significativo: la implementación de un nuevo proceso de revisión de código en su equipo.
 
-Errores del primer intento: comunicó el cambio sin explicar el por qué, implementó todo a la vez, y no creó canal para el feedback real.
+Errores del primer intento: comunico el cambio sin explicar el por qué, implementó todo a la vez, y no creo canal para el feedback real.
 
 Resistencia masiva. Implementación parcial. El proceso nuevo coexistía con el antiguo durante meses.
 
-En el segundo intento, seis meses después, cambió el enfoque:
+En el segundo intento, seis meses después, cambio el enfoque:
 1. Primero, dos semanas de conversaciones sobre qué no funcionaba en el proceso actual.
 2. Luego, involucró a dos miembros del equipo en el diseño del nuevo proceso.
 3. Implementó en fases, con la parte más valorada primero.
-4. Midió y comunicó los primeros resultados positivos.
+4. Midió y comunico los primeros resultados positivos.
 
 La adopción fue prácticamente completa en seis semanas.
 

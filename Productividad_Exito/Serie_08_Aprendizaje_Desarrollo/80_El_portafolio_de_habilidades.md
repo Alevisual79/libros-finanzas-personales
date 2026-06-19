@@ -33,7 +33,7 @@ La discusión sobre si es mejor ser especialista o generalista es una falsa dico
 
 ## Capítulo 2: El concepto de Scott Adams — ser el mejor en una combinación
 
-Scott Adams, el creador de Dilbert, describió su propia estrategia: no fue el mejor dibujante del mundo ni el escritor más gracioso ni el más conocedor de la vida corporativa. Pero la combinación de habilidades moderadas en las tres áreas creó algo que nadie más podía replicar exactamente.
+Scott Adams, el creador de Dilbert, describió su propia estrategia: no fue el mejor dibujante del mundo ni el escritor más gracioso ni el más conocedor de la vida corporativa. Pero la combinación de habilidades moderadas en las tres áreas creo algo que nadie más podía replicar exactamente.
 
 **El principio:**
 Es muy difícil ser el top 1% del mundo en cualquier habilidad. Es mucho más accesible ser el top 25% en dos o tres habilidades. Y la combinación del top 25% en varias áreas relacionadas puede producir una posición única que vale más que ser el número uno en una sola.
@@ -89,7 +89,7 @@ Las habilidades que son adyacentes a las que ya se tienen son más fáciles de a
 
 Elena era ingeniera de software con habilidades sólidas en desarrollo. Identificó que los proyectos más interesantes y mejor pagados que quería asumir requerían también análisis de datos y comunicación con equipos de negocio. Construyó esas dos habilidades adyacentes de forma deliberada en dos años.
 
-Su valor en el mercado laboral no aumentó linealmente. Aumentó de forma exponencial.
+Su valor en el mercado laboral no aumento linealmente. Aumentó de forma exponencial.
 
 ---
 

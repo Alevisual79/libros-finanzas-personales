@@ -58,7 +58,7 @@ La investigación identifica varios factores que predicen la resiliencia.
 El apoyo social es el predictor más consistente de resiliencia. Las personas con redes sociales sólidas recuperan mejor de las adversidades. El apoyo no necesita ser de muchas personas; necesita ser de calidad.
 
 **El sentido de coherencia:**
-Antonovsky definió el "sentido de coherencia" como la sensación de que el mundo es comprensible, manejable y significativo. Las personas que encuentran significado en las adversidades son más resilientes.
+Antonovsky definió el "sentido de coherencia" cómo la sensación de que el mundo es comprensible, manejable y significativo. Las personas que encuentran significado en las adversidades son más resilientes.
 
 **La autoeficacia:**
 La creencia en la propia capacidad de superar los obstáculos. No la certeza de que todo saldrá bien, sino la confianza en poder gestionar lo que venga.
@@ -71,7 +71,7 @@ La capacidad de ver los problemas desde múltiples perspectivas y de ajustar la 
 ## Capítulo 4: Los obstáculos a la resiliencia
 
 **La rumiación:**
-El pensamiento repetitivo sobre el problema sin avanzar hacia soluciones. La rumiación mantiene activo el sistema de estrés y consume los recursos cognitivos que se necesitan para recuperarse.
+El pensamiento repetitivo sobre el problema sin avanzar hacía soluciones. La rumiación mantiene activo el sistema de estrés y consume los recursos cognitivos que se necesitan para recuperarse.
 
 **El catastrofismo:**
 Amplificar el alcance del problema hasta proporciones que no corresponden a la realidad. "El proyecto se canceló" se convierte en "mi carrera está acabada".
@@ -89,7 +89,7 @@ Alejarse del apoyo social cuando más se necesita. La vergüenza del fracaso lle
 Hay una diferencia entre procesar una adversidad y quedarse atascado en ella.
 
 **El procesamiento sano:**
-Permite sentir la emoción (decepción, rabia, tristeza), entender qué pasó, extraer aprendizajes y luego redirigir la energía hacia adelante.
+Permite sentir la emoción (decepción, rabia, tristeza), entender qué paso, extraer aprendizajes y luego redirigir la energía hacía adelante.
 
 **Quedarse atascado:**
 Repetir las mismas emociones sin avanzar, sin extraer aprendizajes y sin redirigir.
@@ -111,7 +111,7 @@ El reencuadre no dice "esto no fue un problema". Dice "este problema también ti
 **Los reencuadres útiles:**
 - "¿Qué aprendí que no hubiera aprendido sin esto?"
 - "¿Cómo cambiaré mi enfoque la próxima vez gracias a esto?"
-- "¿Qué no se perdió aunque este proyecto sí?"
+- "¿Qué no se perdio aunque este proyecto sí?"
 - "¿En cinco años, cómo veré esto?"
 
 **La perspectiva temporal:**
@@ -135,11 +135,11 @@ La resiliencia no se construye lanzándose a adversidades sin red de seguridad. 
 
 Isabel ha construido resiliencia a lo largo de veinticinco años, aunque no lo llamaría así.
 
-Ha sobrevivido a dos reorganizaciones que eliminaron su departamento. A un jefe que intentó hacerla quedar mal públicamente. A un proyecto de transformación que fracasó y del que ella era parcialmente responsable.
+Ha sobrevivido a dos reorganizaciones que eliminaron su departamento. A un jefe que intento hacerla quedar mal públicamente. A un proyecto de transformación que fracasó y del que ella era parcialmente responsable.
 
 En cada caso, la secuencia fue similar: impacto → procesamiento → aprendizaje → adaptación.
 
-Lo que no siempre hizo fue extraer conscientemente el aprendizaje y construir sobre él. Con frecuencia solo sobrevivió y siguió.
+Lo que no siempre hizo fue extraer conscientemente el aprendizaje y construir sobre él. Con frecuencia solo sobrevivió y siguio.
 
 La resiliencia puede ser reactiva (sobrevivir a lo que viene) o proactiva (construir deliberadamente la capacidad de afrontar lo que vendrá).
 
@@ -163,7 +163,7 @@ Tratarse con la misma amabilidad que se trataría a un amigo en la misma situaci
 
 ## Capítulo 10: Elena y el lunes siguiente
 
-Elena pasó el jueves y el viernes procesando la cancelación del proyecto. Lo habló con su pareja. Escribió lo que había aprendido sobre gestión de proyectos de larga duración con clientes volátiles.
+Elena paso el jueves y el viernes procesando la cancelación del proyecto. Lo habló con su pareja. Escribió lo que había aprendido sobre gestión de proyectos de larga duración con clientes volátiles.
 
 El lunes siguiente, fue a la reunión de equipo. El director preguntó quién podía asumir la coordinación técnica de un nuevo proyecto que acababa de entrar.
 

@@ -6,9 +6,9 @@
 
 ---
 
-## Prólogo: El año que todo cambió
+## Prólogo: El año que todo cambio
 
-En un período de dieciocho meses, la vida de Isabel cambió de forma radical: murió su padre, nació su primer nieto, fue promovida a directora de división, y su empresa fue adquirida por un grupo internacional.
+En un período de dieciocho meses, la vida de Isabel cambio de forma radical: murió su padre, nació su primer nieto, fue promovida a directora de división, y su empresa fue adquirida por un grupo internacional.
 
 Ninguno de estos cambios fue por sí solo insuperable. La acumulación —y la velocidad— produjeron un período de desorientación que ella no había anticipado.
 
@@ -31,7 +31,7 @@ Las transiciones de vida son períodos de cambio significativo que requieren una
 
 ---
 
-## Capítulo 2: El modelo de la transición (William Bridges)
+## Capítulo 2: El modeló de la transición (William Bridges)
 
 William Bridges, en "Transitions", distingue entre el cambio y la transición.
 
@@ -77,7 +77,7 @@ El trabajo que se deja. La ciudad que se abandona. La persona que fallece.
 La identidad que esa experiencia daba. Las rutinas que organizaban el tiempo. Las relaciones que venían con ese contexto. El sentido de competencia y pertenencia que ese entorno producía.
 
 **El duelo:**
-Las pérdidas asociadas a la transición necesitan ser reconocidas y procesadas, incluso cuando el cambio que las produjo era positivo o elegido.
+Las pérdidas asociadas a la transición necesitan ser reconocidas y procesadas, incluso cuando el cambio que las produjó era positivo o elegido.
 
 El padre que festeja el primer día de colegio de su hijo y al mismo tiempo siente tristeza por el fin de una etapa no está siendo incoherente: está siendo honesto sobre la complejidad de la transición.
 
@@ -88,13 +88,13 @@ El padre que festeja el primer día de colegio de su hijo y al mismo tiempo sien
 Las grandes transiciones cuestionan la identidad: quién se es cuando el rol, el contexto o la etapa de vida que definía la identidad cambia.
 
 **El ejecutivo que se jubila:**
-"Soy director de..." era la respuesta a "¿quién eres?" durante décadas. La jubilación elimina ese marco de referencia. ¿Quién es ahora?
+"Soy director de..." era la respuesta a "¿quién eres?" durante décadas. La jubilación elimina ese marcó de referencia. ¿Quién es ahora?
 
 **La persona que pierde un ser querido central:**
 "Soy el hijo de..." "Soy la pareja de..." Las identidades relacionales son tan reales como las profesionales, y su pérdida produce una crisis de identidad equivalente.
 
 **El trabajo de la transición:**
-Identificar los elementos de la identidad que son transferibles (los valores, los rasgos de carácter, las habilidades) y separarlos de los que dependían del contexto específico que cambió.
+Identificar los elementos de la identidad que son transferibles (los valores, los rasgos de carácter, las habilidades) y separarlos de los que dependían del contexto específico que cambio.
 
 ---
 
@@ -107,7 +107,7 @@ Las transiciones tienen su propio ritmo y no se aceleran arbitrariamente. Respet
 Escribir, hablar con personas de confianza, trabajar con un terapeuta o coach. El procesamiento verbal y escrito de la experiencia es más eficaz que el procesamiento solo en la cabeza.
 
 **Las pequeñas estructuras:**
-En períodos de transición, la falta de estructura externa puede producir desorientación. Crear pequeñas rutinas y estructuras —aunque sean simples— proporciona un marco que ayuda a través del período de incertidumbre.
+En períodos de transición, la falta de estructura externa puede producir desorientación. Crear pequeñas rutinas y estructuras —aunque sean simples— proporciona un marcó que ayuda a través del período de incertidumbre.
 
 **El apoyo:**
 La transición es más difícil en soledad. Las personas de confianza —familia, amigos, profesionales— que pueden estar presentes sin intentar acelerar el proceso o resolverlo desde afuera.
@@ -124,7 +124,7 @@ Cuando los eventos externos no pueden controlarse, el foco en lo que sí está e
 **La distinción entre aceptar y resignarse:**
 Aceptar la realidad tal como es —incluyendo lo que no puede cambiarse— no es resignación pasiva. Es el prerequisito para actuar eficazmente a partir de la situación real en lugar de la situación deseada que ya no existe.
 
-Elena atravesó un período de reestructuración donde su rol cambió radicalmente en contra de su voluntad. Las primeras semanas, resistió la realidad del cambio. Cuando aceptó que el rol anterior había terminado, pudo empezar a construir lo que venía después.
+Elena atravesó un período de reestructuración donde su rol cambio radicalmente en contra de su voluntad. Las primeras semanas, resistió la realidad del cambio. Cuando acepto que el rol anterior había terminado, pudo empezar a construir lo que venía después.
 
 ---
 
@@ -142,7 +142,7 @@ Viktor Frankl observó que las transiciones más extremas —incluso las traumá
 
 ---
 
-## Capítulo 9: La transición de Isabel — el año que todo cambió
+## Capítulo 9: La transición de Isabel — el año que todo cambio
 
 Isabel tardó casi dos años en procesar completamente el período de transición de los dieciocho meses que habían concentrado tantos cambios.
 

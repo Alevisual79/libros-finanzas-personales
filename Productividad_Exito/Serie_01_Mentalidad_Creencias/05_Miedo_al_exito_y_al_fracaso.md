@@ -36,7 +36,7 @@ El miedo al fracaso es el más reconocible de los dos. Se manifiesta como:
 No intentar cosas donde hay posibilidad de fallar. Quedarse en la zona donde se tiene control.
 
 **Procrastinación:**
-Postponer el inicio o la finalización de proyectos importantes. Si nunca terminas, nunca fracasas del todo.
+Postponer el inició o la finalización de proyectos importantes. Si nunca terminas, nunca fracasas del todo.
 
 **Perfeccionismo:**
 Trabajar indefinidamente para que el resultado sea perfecto antes de mostrarlo. Lo perfecto nunca llega, así que nunca hay que enfrentarse al juicio.
@@ -99,7 +99,7 @@ La procrastinación del 80% al 100% no es vagueza. Es una protección inconscien
 El miedo es una respuesta del sistema nervioso diseñada para protegernos de amenazas reales. La amígdala, la estructura cerebral del miedo, no distingue bien entre una amenaza física (un depredador) y una amenaza social (el juicio ajeno o el fracaso percibido).
 
 **La respuesta de lucha o huida:**
-Ante el miedo, el cerebro activa la respuesta de estrés: cortisol, adrenalina, aumento de frecuencia cardíaca, tensión muscular. El pensamiento se vuelve más rígido, el foco se estrecha hacia la amenaza.
+Ante el miedo, el cerebro activa la respuesta de estrés: cortisol, adrenalina, aumento de frecuencia cardíaca, tensión muscular. El pensamiento se vuelve más rígido, el foco se estrecha hacía la amenaza.
 
 **El miedo crónico:**
 Cuando el miedo es crónico (la amenaza nunca se materializa pero el cerebro la anticipa constantemente), produce los mismos efectos que el estrés crónico: agotamiento, problemas de concentración, deterioro del rendimiento.
@@ -114,7 +114,7 @@ La única forma de reducir el miedo a algo es exponerse a ello. La exposición g
 No todo miedo es malo. El miedo tiene una función: señalarnos amenazas reales y ayudarnos a prepararnos.
 
 **El miedo útil:**
-Señala un riesgo real y moviliza recursos para enfrentarlo. "Tengo miedo de que esta presentación no esté bien preparada" → preparo más. El miedo produce acción.
+Señala un riesgo real y moviliza recursos para enfrentarlo. "Tengo miedo de que esta presentación no esté bien preparada" → preparó más. El miedo produce acción.
 
 **El miedo inútil:**
 Se basa en amenazas imaginarias, exageradas o improbables. "Tengo miedo de que si presento este proyecto alguien piense que no valgo." El miedo produce inmovilidad.
@@ -149,7 +149,7 @@ El análisis no elimina el miedo. Muestra que el coste del inmovilismo es mayor 
 El miedo al éxito tiene con frecuencia una dimensión relacional: el temor a cambiar las relaciones existentes.
 
 **El síndrome del clavo que sobresale:**
-En algunas culturas y grupos sociales, destacar o tener más éxito que los demás genera rechazo. "El clavo que sobresale recibe el martillazo" es el proverbio japonés que lo describe.
+En algunas culturas y grupos sociales, destacar o tener más éxito que los demás genera rechazó. "El clavo que sobresale recibe el martillazo" es el proverbio japonés que lo describe.
 
 **La lealtad al grupo de origen:**
 Tener más éxito que los padres, los amigos o los compañeros de la infancia puede generar culpa. Como si el propio éxito fuera una traición.
@@ -184,7 +184,7 @@ Finalmente lo envió. Tres mensajes iguales. Tres segundos de clics.
 
 Respondieron dos de los tres.
 
-El miedo no desapareció con esa acción. Pero redujo de escala: dejó de ser el dragón que guardaba el proyecto y se convirtió en la incomodidad gestionable de hacer algo nuevo.
+El miedo no desapareció con esa acción. Pero redujó de escala: dejó de ser el dragón que guardaba el proyecto y se convirtió en la incomodidad gestionable de hacer algo nuevo.
 
 ---
 

@@ -58,7 +58,7 @@ El almuerzo es la comida con mayor impacto en el rendimiento de la tarde.
 - Proteína (huevos, pollo, pescado, legumbres): produce saciedad duradera sin pico de glucosa
 - Grasas saludables (aguacate, aceite de oliva, nueces): estabilizan la energía
 - Verduras y carbohidratos complejos: glucosa de liberación lenta
-- Pocas cantidades: el estómago lleno deriva sangre hacia la digestión y produce somnolencia
+- Pocas cantidades: el estómago lleno deriva sangre hacía la digestión y produce somnolencia
 
 **Lo que evitar:**
 - Carbohidratos refinados en exceso (pasta, arroz blanco, pan blanco)

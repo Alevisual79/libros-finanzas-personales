@@ -37,7 +37,7 @@ También es más prevalente en grupos minoritarios en sus entornos (mujeres en p
 
 ## Capítulo 2: Los cinco tipos de impostor
 
-Valerie Young, investigadora del tema, identificó cinco patrones de síndrome del impostor.
+Valerie Young, investigadora del tema, identifico cinco patrones de síndrome del impostor.
 
 **El perfeccionista:**
 Establece metas extremadamente altas y cuando no las alcanza al cien por cien, siente que ha fallado. Un 95% de éxito se percibe como fracaso.
@@ -69,7 +69,7 @@ Cuanto más sabes sobre un campo, más ves lo que no sabes. El experto ve la pro
 A medida que las personas logran más, sus estándares de referencia suben. Siempre se comparan con quienes están más arriba, no con quienes están más abajo.
 
 **El éxito como deuda:**
-Algunas personas interiorizan el éxito como algo que deben devolver, no como algo que merecen. Cada logro crea la presión de demostrar que era merecido.
+Algunas personas interiorizan el éxito como algo que deben devolver, no como algo que merecen. Cada logró crea la presión de demostrar que era merecido.
 
 ---
 
@@ -123,7 +123,7 @@ Mantener un documento donde se registran los logros, reconocimientos y feedback 
 Una de las características más poderosas del síndrome del impostor es el aislamiento: cada persona cree que es la única que lo tiene. Cuando se habla, se descubre que casi todos lo tienen. Esto normaliza la experiencia y reduce su poder.
 
 **Separar los sentimientos de los hechos:**
-"Me siento como un impostor" es un sentimiento. "Soy un impostor" sería un hecho. Los sentimientos no son hechos. La pregunta es: ¿qué dice la evidencia?
+"Me siento cómo un impostor" es un sentimiento. "Soy un impostor" sería un hecho. Los sentimientos no son hechos. La pregunta es: ¿qué dice la evidencia?
 
 **Reencuadrar el miedo a ser descubierto:**
 Si llevas diez años en un puesto y no te han "descubierto", quizás es porque no hay nada que descubrir. La alternativa: lo que llamas "ser descubierto" en realidad es que alguien vea tus limitaciones reales. Todo el mundo tiene limitaciones. Verlas no es un descubrimiento del fraude; es el reconocimiento normal de que nadie lo sabe todo.

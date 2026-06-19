@@ -18,17 +18,17 @@ Ninguna de esas asunciones es correcta.
 
 ## Capítulo 1: Qué es el suelo pélvico
 
-El suelo pélvico es el conjunto de músculos, fascias y ligamentos que forman el "suelo" de la pelvis, sosteniendo los órganos pélvicos (vejiga, útero/próstata y recto) y controlando las aberturas (uretra, vagina y ano).
+El suelo pélvico es el conjunto de músculos, fascias y ligamentos que forman el "suelo" de la pelvis, sosteniendo los órganos pélvicos (vejiga, útero/próstata y recto) y controlando las aberturas (uretra, vagina y año).
 
 **Las funciones:**
 - Sostén de los órganos pélvicos (contra la gravedad y los aumentos de presión abdominal)
-- Control de la micción y la defecación (cierre de la uretra y el ano)
+- Control de la micción y la defecación (cierre de la uretra y el año)
 - Función sexual (la erección y la eyaculación en hombres; la lubricación y el orgasmo en mujeres)
 - Estabilización de la pelvis y la columna (papel postural)
 - Amortización de los aumentos de presión abdominal (tos, estornudo, salto)
 
 **La anatomía:**
-El suelo pélvico tiene varias capas. La principal es el elevador del ano (pubococcígeo, ileococcígeo, puborrectal). También participan los músculos del triángulo urogenital y el esfínter externo del ano.
+El suelo pélvico tiene varias capas. La principal es el elevador del año (pubococcígeo, ileococcígeo, puborrectal). También participan los músculos del triángulo urogenital y el esfínter externo del año.
 
 ---
 

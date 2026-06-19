@@ -24,7 +24,7 @@ La industria de la productividad lleva décadas vendiendo un producto que no exi
 
 El tiempo no se puede gestionar. No se puede crear más tiempo. No se puede acelerar ni ralentizar. No se puede guardar el tiempo del martes para usarlo el viernes.
 
-Lo que sí se puede hacer es dirigir hacia dónde va la atención dentro del tiempo que existe.
+Lo que sí se puede hacer es dirigir hacía dónde va la atención dentro del tiempo que existe.
 
 **La distinción crítica:**
 Gestionar el tiempo implicaría control sobre el tiempo. Dirigir la atención implica control sobre lo que haces con el tiempo que tienes.
@@ -55,7 +55,7 @@ Pero ocupado y productivo son cosas distintas.
 
 **Ocupado:** Hace muchas cosas. El tiempo está lleno. La energía se agota. Al final del día, hay la sensación de haber trabajado mucho.
 
-**Productivo:** Hace las cosas importantes. El tiempo está invertido en lo que avanza hacia los objetivos. Al final del día, hay progreso real en lo que importa.
+**Productivo:** Hace las cosas importantes. El tiempo está invertido en lo que avanza hacía los objetivos. Al final del día, hay progreso real en lo que importa.
 
 Es posible estar muy ocupado y ser poco productivo. Es posible trabajar pocas horas y ser muy productivo.
 

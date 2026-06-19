@@ -1,4 +1,4 @@
-﻿# El Método LANZAR
+# El Método LANZAR
 ## Lo que las escuelas de negocio no te enseñan sobre emprender
 
 **Libro Madre — Colección Emprendimiento**

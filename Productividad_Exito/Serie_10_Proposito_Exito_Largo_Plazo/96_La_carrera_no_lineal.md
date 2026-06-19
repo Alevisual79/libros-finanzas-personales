@@ -12,15 +12,15 @@ El currículum de Elena no tenía la línea recta ascendente que los modelos de 
 
 Había hecho un giro lateral a los veintisiete que todos consideraron un error. Había tomado un proyecto que parecía menor a los treinta y uno que resultó ser el más transformador de su carrera hasta ese momento. Había rechazado una promoción a los treinta y cuatro que habría sido un paso adelante convencional.
 
-A los treinta y seis, su trayectoria tenía sentido si se miraba hacia atrás. No lo habría tenido si se hubiera dibujado hacia adelante.
+A los treinta y seis, su trayectoria tenía sentido si se miraba hacía atrás. No lo habría tenido si se hubiera dibujado hacía adelante.
 
 ---
 
 ## Capítulo 1: El mito de la carrera lineal
 
-El modelo convencional de carrera es una escalera: se sube un peldaño después del otro, en dirección ascendente, en el mismo sector o empresa, hasta llegar a la cima.
+El modeló convencional de carrera es una escalera: se sube un peldaño después del otro, en dirección ascendente, en el mismo sector o empresa, hasta llegar a la cima.
 
-Este modelo describecon precisión una parte de las carreras del siglo XX.
+Este modeló describecon precisión una parte de las carreras del siglo XX.
 
 Describe con mucha menor precisión las carreras del siglo XXI.
 
@@ -37,13 +37,13 @@ Las carreras del siglo XXI son, de media, más largas, más variadas, con más c
 En lugar de la escalera, las carreras reales adoptan formas más parecidas a:
 
 **El laberinto:**
-Muchos caminos posibles, algunos sin salida, algunos que llevan a lugares inesperadamente buenos. El movimiento no siempre es hacia arriba.
+Muchos caminos posibles, algunos sin salida, algunos que llevan a lugares inesperadamente buenos. El movimiento no siempre es hacía arriba.
 
 **El rizoma:**
 Sin tronco central ni crecimiento en una sola dirección. Se extiende en múltiples direcciones simultáneamente y conecta puntos que parecían no relacionados.
 
 **La serie de capítulos:**
-Períodos de enfoque intenso en un dominio o contexto, seguidos de transiciones hacia otro, donde lo aprendido en el anterior se integra pero la dirección cambia.
+Períodos de enfoque intenso en un dominio o contexto, seguidos de transiciones hacía otro, donde lo aprendido en el anterior se integra pero la dirección cambia.
 
 ---
 
@@ -66,7 +66,7 @@ Rubén había hecho un movimiento lateral a los veintinueve que parecía un paso
 Las carreras no lineales frecuentemente incluyen fracasos, proyectos fallidos, despidos, empresas que no funcionaron.
 
 **La narrativa retrospectiva:**
-Cuando las personas de éxito cuentan sus trayectorias, los fracasos aparecen frecuentemente como los momentos más formativos: los que produjeron el aprendizaje más valioso, los que redirigieron hacia algo mejor, los que construyeron la resiliencia que permitió el éxito posterior.
+Cuando las personas de éxito cuentan sus trayectorias, los fracasos aparecen frecuentemente como los momentos más formativos: los que produjeron el aprendizaje más valioso, los que redirigieron hacía algo mejor, los que construyeron la resiliencia que permitio el éxito posterior.
 
 **El sesgo de supervivencia:**
 Solo escuchamos las historias de éxito donde el fracaso previo fue el trampolín. No escuchamos las historias donde el fracaso simplemente fue un fracaso. Pero incluso en esos casos, los aprendizajes de los fracasos producen valor que no habría existido sin ellos.
@@ -105,7 +105,7 @@ Antes de un cambio grande e irreversible, hacer apuestas pequeñas y reversibles
 
 ## Capítulo 7: El plan como herramienta, no como destino
 
-El plan de carrera tiene valor como ejercicio de claridad. Produce problemas cuando se trata como un contrato con el futuro.
+El plan de carrera tiene valor como ejercicio de claridad. Produce problemas cuando se trata cómo un contrató con el futuro.
 
 **El valor del plan:**
 Fuerza a articular lo que se quiere y por qué. Identifica las brechas entre la situación actual y la deseada. Proporciona dirección para las decisiones cotidianas.
@@ -114,7 +114,7 @@ Fuerza a articular lo que se quiere y por qué. Identifica las brechas entre la 
 El futuro es impredecible. Las mejores oportunidades frecuentemente no estaban en el plan. La rigidez en la adherencia al plan impide aprovechar lo que el mundo ofrece que no se anticipó.
 
 **La herramienta correcta:**
-Una dirección y unos criterios de decisión, no un itinerario detallado. Saber hacia dónde se quiere ir sin asumir que el camino está prefijado.
+Una dirección y unos criterios de decisión, no un itinerario detallado. Saber hacía dónde se quiere ir sin asumir que el camino está prefijado.
 
 ---
 

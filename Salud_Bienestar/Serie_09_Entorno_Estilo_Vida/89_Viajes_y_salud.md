@@ -37,7 +37,7 @@ Malaria, fiebre tifoidea, hepatitis A, cólera, enfermedad de Chagas, dengue. Su
 ## Capítulo 2: El jet lag — estrategias que funcionan
 
 **La dirección importa:**
-El viaje hacia el este (adelantar el reloj) es más difícil de ajustar que el viaje hacia el oeste (atrasar el reloj). El viaje de Madrid a Tokyo es más disruptivo que el de Madrid a Nueva York.
+El viaje hacía el este (adelantar el reloj) es más difícil de ajustar que el viaje hacía el oeste (atrasar el reloj). El viaje de Madrid a Tokyo es más disruptivo que el de Madrid a Nueva York.
 
 **La preparación:**
 Empezar a ajustar el horario de sueño 2-3 días antes del viaje, en la dirección del destino. Solo 30-60 minutos al día puede marcar diferencia.
@@ -166,7 +166,7 @@ Volver de un buen viaje puede generar el "blues del regreso". Es una respuesta n
 
 ## Capítulo 10: Laura y las vacaciones diferentes
 
-En su siguiente viaje, Laura hizo una cosa diferente: no intentó mantener todas las rutinas.
+En su siguiente viaje, Laura hizo una cosa diferente: no intento mantener todas las rutinas.
 
 Mantuvo las esenciales (dormir suficiente, caminar mucho, no comer compulsivamente) y dejó ir las no esenciales (horarios exactos, dieta perfecta).
 

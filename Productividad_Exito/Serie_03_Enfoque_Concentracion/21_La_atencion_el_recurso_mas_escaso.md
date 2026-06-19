@@ -44,14 +44,14 @@ La concentración sostenida involucra el córtex prefrontal, la región del cere
 Cuando no estamos concentrados en una tarea externa, el cerebro activa la red de modo por defecto: pensamientos sobre uno mismo, planificación, ensoñación. Esta red compite con la red de atención ejecutiva. No pueden estar plenamente activas al mismo tiempo.
 
 **Los sistemas de atención:**
-La neurología identifica al menos tres sistemas de atención: la alerta (que nos mantiene despiertos), la orientación (que dirige la atención hacia estímulos nuevos) y la atención ejecutiva (que mantiene el foco en objetivos). La concentración profunda requiere el tercero, que es el más costoso energéticamente.
+La neurología identifica al menos tres sistemas de atención: la alerta (que nos mantiene despiertos), la orientación (que dirige la atención hacía estímulos nuevos) y la atención ejecutiva (que mantiene el foco en objetivos). La concentración profunda requiere el tercero, que es el más costoso energéticamente.
 
 ---
 
 ## Capítulo 3: Los enemigos de la atención
 
 **El diseño de las plataformas:**
-Como se exploró en el libro anterior de esta serie, las plataformas digitales más populares están optimizadas para capturar y retener la atención, no para respetarla.
+Cómo se exploró en el libro anterior de esta serie, las plataformas digitales más populares están optimizadas para capturar y retener la atención, no para respetarla.
 
 **El multitasking como norma cultural:**
 La cultura laboral moderna valora la capacidad de hacer muchas cosas simultáneamente. Esto contradice cómo funciona el cerebro: el multitasking no existe como habilidad cognitiva genuina; existe el cambio rápido entre tareas, con sus costes asociados.
@@ -69,7 +69,7 @@ Años de consumo de contenido de alta estimulación (vídeos rápidos, memes, no
 La atención tiene una característica importante: se agota durante el día y se regenera principalmente con el sueño.
 
 **La fatiga de decisión:**
-Como se discutió en la Serie 1, el córtex prefrontal se agota con las decisiones. Pero también se agota con la atención sostenida.
+Cómo se discutió en la Serie 1, el córtex prefrontal se agota con las decisiones. Pero también se agota con la atención sostenida.
 
 **Las implicaciones:**
 La primera hora del día es la de mayor calidad atencional para la mayoría de las personas. Las horas de la tarde tienen menor calidad. Las tareas que requieren la mejor atención deben hacerse en los momentos de mayor capacidad atencional.
@@ -83,7 +83,7 @@ Elena planifica su trabajo profundo para las mañanas. Rubén lo hace también. 
 La atención no es solo un recurso que se protege; es una capacidad que se entrena.
 
 **El entrenamiento de la atención:**
-La meditación de atención plena (mindfulness), en su forma más básica, consiste en dirigir la atención hacia un objeto (típicamente la respiración) y redirigirla cuando se dispersa. Cada vez que se nota la dispersión y se redirige, es una repetición de "flexión" de la atención.
+La meditación de atención plena (mindfulness), en su forma más básica, consiste en dirigir la atención hacía un objeto (típicamente la respiración) y redirigirla cuando se dispersa. Cada vez que se nota la dispersión y se redirige, es una repetición de "flexión" de la atención.
 
 Las investigaciones de la última década muestran cambios estructurales en el cerebro (mayor grosor cortical en áreas asociadas con la atención) en practicantes regulares de meditación.
 
@@ -107,7 +107,7 @@ Las ideas más valiosas, las conexiones más creativas, las soluciones más eleg
 
 ## Capítulo 7: Diseñar para la atención
 
-La atención se protege mejor diseñando el entorno para que favorezca la concentración, en lugar de depender de la fuerza de voluntad para resistir las distracciones.
+La atención se protege mejor diseñando el entorno para qué favorezca la concentración, en lugar de depender de la fuerza de voluntad para resistir las distracciones.
 
 **El entorno físico:**
 - Escritorio ordenado (el desorden visual compite por la atención)
@@ -164,9 +164,9 @@ Elena pensó. "No lo recuerdo exactamente."
 
 "Eso es el primer diagnóstico. El segundo ejercicio: intenta hacerlo mañana. Una hora. Sin teléfono, sin correo, sin cambiar de tarea. Solo una cosa."
 
-Elena lo intentó al día siguiente. Los primeros veinte minutos fueron incómodos: el impulso de revisar algo, de cambiar a otra pestaña, de "verificar" algo. Resistió.
+Elena lo intento al día siguiente. Los primeros veinte minutos fueron incómodos: el impulso de revisar algo, de cambiar a otra pestaña, de "verificar" algo. Resistió.
 
-A los cuarenta minutos, algo cambió. La incomodidad desapareció. El problema en el que estaba trabajando empezó a cobrar forma. Las ideas empezaron a conectarse de formas que no había visto antes.
+A los cuarenta minutos, algo cambio. La incomodidad desapareció. El problema en el que estaba trabajando empezó a cobrar forma. Las ideas empezaron a conectarse de formas que no había visto antes.
 
 Al final de la hora, tenía la solución para un problema que llevaba una semana evitando.
 

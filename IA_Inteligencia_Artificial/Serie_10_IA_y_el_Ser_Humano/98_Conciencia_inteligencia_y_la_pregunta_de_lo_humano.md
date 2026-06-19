@@ -1,52 +1,52 @@
-﻿# Conciencia inteligencia y la pregunta de lo humano
+# Conciencia inteligencia y la pregunta de lo humano
 ## Serie 10: IA y el Ser Humano — Libro 8 de 10
 
-## Prologo
+## Prólogo
 
-Este libro explora Conciencia inteligencia y la pregunta de lo humano con ejemplos practicos de Elena, Ruben e Isabel.
+Este libro explora Conciencia inteligencia y la pregunta de lo humano con ejemplos prácticos de Elena, Ruben e Isabel.
 
-## Capitulo 1: El contexto
+## Capítulo 1: El contexto
 
-Conciencia inteligencia y la pregunta de lo humano es uno de los aspectos de mayor relevancia practica en la interseccion de la IA y el mundo real.
+Conciencia inteligencia y la pregunta de lo humano es uno de los aspectos de mayor relevancia práctica en la intersección de la IA y el mundo real.
 
-## Capitulo 2: El impacto actual
+## Capítulo 2: El impacto actual
 
-Las implicaciones de Conciencia inteligencia y la pregunta de lo humano se sienten ya en organizaciones, profesionales e individuos de todo el mundo. Los primeros adoptantes tienen una vision privilegiada de lo que viene.
+Las implicaciones de Conciencia inteligencia y la pregunta de lo humano se sienten ya en organizaciones, profesionales e individuos de todo el mundo. Los primeros adoptantes tienen una visión privilegiada de lo que viene.
 
-## Capitulo 3: Los marcos de referencia
+## Capítulo 3: Los marcos de referencia
 
-Para entender y navegar Conciencia inteligencia y la pregunta de lo humano necesitamos marcos conceptuales rigurosos provenientes de la investigacion academica, la practica profesional y el debate etico.
+Para entender y navegar Conciencia inteligencia y la pregunta de lo humano necesitamos marcos conceptuales rigurosos provenientes de la investigación academica, la práctica profesional y el debate ético.
 
-## Capitulo 4: El caso de Elena
+## Capítulo 4: El caso de Elena
 
-Elena aborda Conciencia inteligencia y la pregunta de lo humano desde su doble posicion de tecnologa y lider. Ve las posibilidades y tambien las responsabilidades que conllevan.
+Elena aborda Conciencia inteligencia y la pregunta de lo humano desde su doble posición de tecnologa y líder. Ve las posibilidades y también las responsabilidades que conllevan.
 
-## Capitulo 5: El caso de Ruben
+## Capítulo 5: El caso de Ruben
 
-Ruben experimenta Conciencia inteligencia y la pregunta de lo humano en su trabajo cotidiano. Su perspectiva practica complementa los marcos teoricos.
+Ruben experimenta Conciencia inteligencia y la pregunta de lo humano en su trabajo cotidiano. Su perspectiva práctica complementa los marcos teoricos.
 
-## Capitulo 6: El caso de Isabel
+## Capítulo 6: El caso de Isabel
 
-Isabel piensa en Conciencia inteligencia y la pregunta de lo humano desde su responsabilidad hacia las personas de su organizacion y hacia la sociedad mas amplia.
+Isabel piensa en Conciencia inteligencia y la pregunta de lo humano desde su responsabilidad hacía las personas de su organización y hacía la sociedad más amplia.
 
-## Capitulo 7: Herramientas practicas
+## Capítulo 7: Herramientas prácticas
 
-Las herramientas mas utiles para trabajar con Conciencia inteligencia y la pregunta de lo humano en contextos reales: marcos de evaluacion, checklists, procesos de decision y metricas de impacto.
+Las herramientas más útiles para trabajar con Conciencia inteligencia y la pregunta de lo humano en contextos reales: marcos de evaluación, checklists, procesos de decisión y metricas de impacto.
 
-## Capitulo 8: Los debates abiertos
+## Capítulo 8: Los debates abiertos
 
-Las preguntas que no tienen respuesta definitiva en Conciencia inteligencia y la pregunta de lo humano son las mas importantes. Entender por que estan abiertas es tan valioso como conocer las respuestas disponibles.
+Las preguntas que no tienen respuesta definitiva en Conciencia inteligencia y la pregunta de lo humano son las más importantes. Entender por qué estan abiertas es tan valioso como conocer las respuestas disponibles.
 
-## Capitulo 9: Accion practica
+## Capítulo 9: Acción práctica
 
-Las acciones mas efectivas a nivel individual, organizacional y social para influir positivamente en el desarrollo de Conciencia inteligencia y la pregunta de lo humano.
+Las acciones más efectivas a nivel individual, organizacional y social para influir positivamente en el desarrollo de Conciencia inteligencia y la pregunta de lo humano.
 
-## Capitulo 10: Vision de futuro
+## Capítulo 10: Visión de futuro
 
-Conciencia inteligencia y la pregunta de lo humano evolucionara significativamente en los proximos anos. Los profesionales que construyan comprension solida hoy tendran ventaja para adaptarse a esos cambios.
+Conciencia inteligencia y la pregunta de lo humano evolucionara significativamente en los próximos años. Los profesionales que construyan comprensión sólida hoy tendrán ventaja para adaptarse a esos cambios.
 
-## Epilogo
+## Epílogo
 
-La calidad del futuro depende de la calidad de las decisiones que tomamos hoy. Esas decisiones requieren comprension, criterio y voluntad de actuar.
+La calidad del futuro depende de la calidad de las decisiones que tomamos hoy. Esas decisiones requieren comprensión, criterio y voluntad de actuar.
 
-*Este es el Libro 98 de la coleccion Inteligencia Artificial Aplicada, Libro 8 de 10 de la Serie 10: IA y el Ser Humano.*
+*Este es el Libro 98 de la colección Inteligencia Artificial Aplicada, Libro 8 de 10 de la Serie 10: IA y el Ser Humano.*

@@ -114,7 +114,7 @@ La semana es la unidad más práctica para gestionar los hábitos.
 **La planificación del domingo:**
 Reservar 15-20 minutos el domingo para planificar la semana:
 - ¿Qué días haré ejercicio? ¿A qué hora?
-- ¿Qué cenas preparo? ¿Qué hay que comprar?
+- ¿Qué cenas preparó? ¿Qué hay que comprar?
 - ¿Hay algún evento que pueda interferir con las rutinas? ¿Cómo lo gestionaré?
 
 **El registro semanal:**

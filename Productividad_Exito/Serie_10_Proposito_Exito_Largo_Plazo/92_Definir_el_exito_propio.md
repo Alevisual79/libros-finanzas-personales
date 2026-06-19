@@ -8,7 +8,7 @@
 
 ## Prólogo: La carrera que nadie eligió
 
-Elena llevaba diez años en la carrera hacia un objetivo que nunca había examinado completamente: ser directora técnica en una empresa de tecnología de cierto tamaño, con cierto salario, con cierto nivel de reconocimiento.
+Elena llevaba diez años en la carrera hacía un objetivo que nunca había examinado completamente: ser directora técnica en una empresa de tecnología de cierto tamaño, con cierto salario, con cierto nivel de reconocimiento.
 
 ¿Quién había definido esos objetivos?
 
@@ -25,7 +25,7 @@ La mayoría de las personas opera con una definición de éxito que no eligió.
 **Las fuentes del éxito heredado:**
 - La familia: "Estudia medicina, derecho, ingeniería — algo con futuro"
 - El grupo social de referencia: lo que las personas con quienes se compara están haciendo
-- La cultura dominante: el éxito que la publicidad, los medios y las redes sociales presentan como el modelo
+- La cultura dominante: el éxito que la publicidad, los medios y las redes sociales presentan como el modeló
 - La industria o profesión: las señales de estatus específicas del propio sector
 
 **El problema:**
@@ -121,13 +121,13 @@ Una de las características del éxito propio auténtico: no requiere la validac
 "Soy exitoso cuando vivo de forma alineada con mis propios criterios." Esta definición produce una sensación más estable de bienestar, aunque pueda ser menos visible externamente.
 
 **El equilibrio:**
-No es necesario ignorar completamente la percepción externa. El reconocimiento y el impacto real en otros frecuentemente importan en una definición propia de éxito. Pero como parte de la definición propia, no como la fuente primaria de validación.
+No es necesario ignorar completamente la percepción externa. El reconocimiento y el impacto real en otros frecuentemente importan en una definición propia de éxito. Pero como parte de la definición propia, no cómo la fuente primaria de validación.
 
 ---
 
 ## Capítulo 8: Las concesiones necesarias — el éxito real siempre tiene límites
 
-El éxito propio ideal, tal como se define en el ejercicio, raramente es completamente alcanzable.
+El éxito propio ideal, tal cómo se define en el ejercicio, raramente es completamente alcanzable.
 
 **Las tensiones frecuentes:**
 - Autonomía vs. estabilidad (el trabajo propio tiene más autonomía pero más incertidumbre económica)
@@ -158,7 +158,7 @@ Las decisiones que hacen la vida cotidiana —qué proyectos aceptar, cómo dist
 
 Elena revisó su definición de éxito diez años después de haberla empezado a construir.
 
-La primera versión, a los veintidós, era casi una copia del modelo de éxito de su industria. Cada revisión había añadido algo más suyo: la necesidad de trabajo con personas, no solo con código; la importancia de poder desconectar con frecuencia; el valor de aprender constantemente cosas nuevas.
+La primera versión, a los veintidós, era casi una copia del modeló de éxito de su industria. Cada revisión había añadido algo más suyo: la necesidad de trabajo con personas, no solo con código; la importancia de poder desconectar con frecuencia; el valor de aprender constantemente cosas nuevas.
 
 La definición actual no era glamurosa comparada con los criterios de su industria. Pero era suya. Y cuando evaluaba su vida contra ella, la mayoría de las semanas, la respuesta era positiva.
 

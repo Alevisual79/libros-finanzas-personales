@@ -108,7 +108,7 @@ Por qué funciona: la incomodidad de estar de pie crea un incentivo natural para
 **Cuándo aplicarlo:**
 Reuniones de actualización, check-ins de equipo, sincronizaciones rápidas. No para reuniones que requieren trabajar sobre documentos o tomar decisiones complejas.
 
-Rubén introdujo los stand-ups diarios de diez minutos con sus clientes de retainer. Las llamadas de cuarenta y cinco minutos se convirtieron en llamadas de doce.
+Rubén introdujó los stand-ups diarios de diez minutos con sus clientes de retainer. Las llamadas de cuarenta y cinco minutos se convirtieron en llamadas de doce.
 
 ---
 
@@ -125,7 +125,7 @@ Un espacio para el desarrollo profesional, para detectar obstáculos antes de qu
 **La estructura básica:**
 El colaborador lleva el orden del día. Dos tercios del tiempo son del colaborador; un tercio, del responsable.
 
-Isabel cambió sus one-on-ones de "¿en qué estás?" a "¿qué necesitas para avanzar?" y "¿qué te está dificultando el trabajo?" El tiempo se redujo a la mitad y la utilidad se multiplicó.
+Isabel cambio sus one-on-ones de "¿en qué estás?" a "¿qué necesitas para avanzar?" y "¿qué te está dificultando el trabajo?" El tiempo se redujó a la mitad y la utilidad se multiplicó.
 
 ---
 
@@ -134,7 +134,7 @@ Isabel cambió sus one-on-ones de "¿en qué estás?" a "¿qué necesitas para a
 Algunas reuniones son endémicas en las organizaciones y están tan normalizadas que nadie cuestiona si tienen sentido.
 
 **La reunión de actualización semanal:**
-En muchos equipos, la reunión semanal se usa para que cada persona cuente en qué está. El problema: nadie necesita escuchar el trabajo de todos los demás para hacer su propio trabajo.
+En muchos equipos, la reunión semanal se usa para qué cada persona cuente en qué está. El problema: nadie necesita escuchar el trabajo de todos los demás para hacer su propio trabajo.
 
 **La alternativa:** Un documento de actualización semanal que cada persona actualiza antes de la reunión. La reunión, si se hace, se dedica solo a los temas que requieren discusión en grupo.
 
@@ -155,7 +155,7 @@ Una habilidad poco practicada: rechazar o renegociar reuniones.
 - La reunión tiene más convocados de los necesarios
 
 **Cómo rechazar:**
-- Con alternativas: "No puedo asistir, pero si me envías el resumen de decisiones, lo reviso."
+- Con alternativas: "No puedo asistir, pero si me envías el resumen de decisiones, lo revisó."
 - Con preguntas: "¿Cuál es mi aportación esperada en esta reunión?"
 - Con propuestas: "¿Podemos resolverlo en una llamada de diez minutos en lugar de una hora de reunión?"
 

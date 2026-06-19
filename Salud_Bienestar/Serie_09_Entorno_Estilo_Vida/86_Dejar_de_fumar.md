@@ -117,7 +117,7 @@ Tirar todos los cigarrillos, cerrillos y ceniceros. No tener tabaco en casa, el 
 El craving dura típicamente 3-5 minutos y pasa aunque no se fume. Técnicas para sobrevivir el craving: beber agua, salir a caminar, respiraciones lentas, llamar a alguien, posponer ("si en 10 minutos sigo queriendo, lo pienso").
 
 **Paso 6: Las recaídas.**
-Son parte del proceso, no el final. Una caída no es una recaída definitiva si se vuelve a empezar. Analizar qué la produjo y qué se puede hacer diferente.
+Son parte del proceso, no el final. Una caída no es una recaída definitiva si se vuelve a empezar. Analizar qué la produjó y qué se puede hacer diferente.
 
 ---
 
@@ -126,7 +126,7 @@ Son parte del proceso, no el final. Una caída no es una recaída definitiva si 
 El debate sobre los vapeadores como herramienta para dejar de fumar es más matizado de lo que sugiere la polémica pública.
 
 **Lo que se sabe:**
-El vapeo es probablemente menos dañino que fumar cigarrillos convencionales (menos carcinógenos, sin alquitrán, sin monóxido de carbono). Hay evidencia de que algunos fumadores usan los vapeadores como puente hacia la abstinencia.
+El vapeo es probablemente menos dañino que fumar cigarrillos convencionales (menos carcinógenos, sin alquitrán, sin monóxido de carbono). Hay evidencia de que algunos fumadores usan los vapeadores como puente hacía la abstinencia.
 
 **Lo que no se sabe:**
 Los efectos a largo plazo del vapeo son aún desconocidos. Los brotes de EVALI (lesión pulmonar asociada a vapeadores, especialmente con acetato de vitamina E en cartuchos de THC) mostraron que no están exentos de riesgo.

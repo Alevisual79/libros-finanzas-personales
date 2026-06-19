@@ -24,7 +24,7 @@ La mayoría de la gestión de la salud es reactiva: esperamos a que algo vaya ma
 Muchas de las enfermedades más frecuentes y costosas (cardiovascular, diabetes tipo 2, algunos cánceres) tienen una ventana de prevención de años o décadas antes del diagnóstico. Actuar en la ventana preventiva es incomparablemente más eficaz que tratar la enfermedad establecida.
 
 **El coste de no planificar:**
-Sin un plan, los hábitos se dejan al azar de las circunstancias y los estímulos del entorno. El entorno moderno —diseñado para la comodidad y el consumo— empuja de forma predeterminada hacia el sedentarismo, la mala alimentación y el estrés crónico.
+Sin un plan, los hábitos se dejan al azar de las circunstancias y los estímulos del entorno. El entorno moderno —diseñado para la comodidad y el consumo— empuja de forma predeterminada hacía el sedentarismo, la mala alimentación y el estrés crónico.
 
 **Lo que un plan de salud personal hace:**
 Define prioridades claras, establece objetivos medibles, crea sistemas que funcionan por defecto y permite ajustar el rumbo cuando algo no funciona.
@@ -142,7 +142,7 @@ Los antecedentes familiares de enfermedad cardiovascular, diabetes tipo 2, ciert
 El tabaco, el alcohol, el sedentarismo, la obesidad, la hipertensión, la hiperglucemia, el colesterol alto, el estrés crónico. Cada uno de estos es un objetivo concreto de acción preventiva.
 
 **La estratificación del riesgo:**
-Herramientas como SCORE2 (riesgo cardiovascular), el Findrisk (diabetes) o el modelo de predicción de riesgo de Alzheimer permiten cuantificar el riesgo personal y priorizar las intervenciones.
+Herramientas como SCORE2 (riesgo cardiovascular), el Findrisk (diabetes) o el modeló de predicción de riesgo de Alzheimer permiten cuantificar el riesgo personal y priorizar las intervenciones.
 
 ---
 
@@ -189,7 +189,7 @@ Laura no hizo un plan para los próximos 10 años. Hizo uno para los próximos t
 
 "Cada vez que intento planear demasiado lejos, me abruma."
 
-El doctor Sánchez le explicó que los diez años se construyen de a tres meses. El objetivo a largo plazo es el horizonte que da dirección. Las acciones de esta semana son lo que avanza.
+El doctor Sánchez le explico que los diez años se construyen de a tres meses. El objetivo a largo plazo es el horizonte que da dirección. Las acciones de esta semana son lo que avanza.
 
 "¿Cuál es la única cosa que podrías empezar esta semana?"
 
@@ -203,7 +203,7 @@ El doctor Sánchez le explicó que los diez años se construyen de a tres meses.
 
 El plan de salud personal no es rígido. Cambia con la edad, con las circunstancias, con lo que se aprende sobre uno mismo.
 
-Lo que no cambia es la orientación: hacia la salud, con la consciencia de que las decisiones de hoy construyen (o destruyen) la salud de mañana.
+Lo que no cambia es la orientación: hacía la salud, con la consciencia de que las decisiones de hoy construyen (o destruyen) la salud de mañana.
 
 El último libro de esta colección integra todo en un manifiesto final.
 

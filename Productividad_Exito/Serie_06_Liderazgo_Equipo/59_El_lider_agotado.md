@@ -54,10 +54,10 @@ El líder que ya no tiene nada más que dar al equipo pero sigue intentando darl
 
 ## Capítulo 3: La paradoja del líder servicial
 
-El liderazgo moderno valora el liderazgo servicial: el líder que está al servicio de su equipo. Es un modelo valioso. Pero tiene un punto ciego peligroso.
+El liderazgo moderno valora el liderazgo servicial: el líder que está al servicio de su equipo. Es un modeló valioso. Pero tiene un punto ciego peligroso.
 
 **El error:**
-Interpretar el servicio como disponibilidad ilimitada y como negación de las propias necesidades. El líder que nunca tiene límites, que siempre está disponible, que pone las necesidades del equipo siempre por encima de las propias, no es un modelo de liderazgo saludable. Es un ejemplo de cómo no cuidarse.
+Interpretar el servicio como disponibilidad ilimitada y como negación de las propias necesidades. El líder que nunca tiene límites, que siempre está disponible, que pone las necesidades del equipo siempre por encima de las propias, no es un modeló de liderazgo saludable. Es un ejemplo de cómo no cuidarse.
 
 **La analogía del avión:**
 La instrucción de seguridad en los aviones: en caso de despresurización, ponerse primero la máscara de oxígeno y luego ayudar a quien tiene al lado. No es egoísmo: es sentido práctico. El que se queda sin oxígeno no puede ayudar a nadie.
@@ -122,7 +122,7 @@ Alguien con más experiencia que puede ofrecer perspectiva, contexto y consejo d
 Otros líderes en situaciones similares, dentro o fuera de la organización. El espacio para hablar con honestidad sobre los retos del liderazgo sin jerarquía ni evaluación.
 
 **El jefe:**
-En organizaciones sanas, el jefe del líder también cuida la energía y el bienestar de sus reportes directos. La conversación honesta hacia arriba sobre el nivel de carga no debería ser una señal de debilidad.
+En organizaciones sanas, el jefe del líder también cuida la energía y el bienestar de sus reportes directos. La conversación honesta hacía arriba sobre el nivel de carga no debería ser una señal de debilidad.
 
 **El coach:**
 Un profesional externo que ofrece soporte para el desarrollo y la gestión personal del líder. Cada vez más normalizado en organizaciones que entienden que el liderazgo es una habilidad que se desarrolla.

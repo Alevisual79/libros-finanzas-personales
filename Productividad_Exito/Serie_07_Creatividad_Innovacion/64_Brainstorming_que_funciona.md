@@ -6,7 +6,7 @@
 
 ---
 
-## Prólogo: La sesión que no produjo nada
+## Prólogo: La sesión que no produjó nada
 
 El equipo de Elena tuvo una "sesión de brainstorming" para encontrar formas de mejorar el proceso de onboarding de nuevos empleados.
 
@@ -140,7 +140,7 @@ No todas las sesiones de generación de ideas tienen que ser en tiempo real.
 **La herramienta:**
 Un documento compartido donde cada persona contribuye ideas durante un período definido (24-48 horas) antes de la sesión sincrónica donde se construye colectivamente sobre las ideas generadas.
 
-Rubén usó este formato con un cliente remoto: las sesiones de generación de ideas mejoró notablemente cuando los participantes tenían tiempo de reflexión previo a la sesión sincrónica de construcción y evaluación.
+Rubén uso este formato con un cliente remoto: las sesiones de generación de ideas mejoro notablemente cuando los participantes tenían tiempo de reflexión previo a la sesión sincrónica de construcción y evaluación.
 
 ---
 
@@ -178,7 +178,7 @@ Antes: envió el problema bien definido a los participantes con 48 horas de ante
 
 Durante: 10 minutos de calentamiento creativo (describir usos alternativos de un clip), 15 minutos de brainwriting adicional individual, 20 minutos de construcción colectiva sobre las ideas, 15 minutos de evaluación con votación.
 
-Resultado: 23 ideas distintas, tres de las cuales el equipo consideró realmente innovadoras. Una se implementó ese trimestre y produjo una mejora medible en el tiempo de incorporación de nuevos empleados.
+Resultado: 23 ideas distintas, tres de las cuales el equipo consideró realmente innovadoras. Una se implementó ese trimestre y produjó una mejora medible en el tiempo de incorporación de nuevos empleados.
 
 "¿Diferente a la última vez?" preguntó un compañero.
 

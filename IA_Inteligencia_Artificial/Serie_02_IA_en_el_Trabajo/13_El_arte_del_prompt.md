@@ -1,15 +1,15 @@
-﻿# El arte del prompt
+# El arte del prompt
 ## La habilidad del siglo: cómo hablar con la IA para obtener resultados extraordinarios
 
 **Serie 2: IA en el Trabajo — Libro 3 de 10**
 
 ---
 
-## Prólogo: El mismo modelo, resultados completamente distintos
+## Prólogo: El mismo modeló, resultados completamente distintos
 
-Elena y su colega Pedro usaban el mismo modelo de IA, con la misma suscripción, para tareas similares. Los resultados que obtenía Elena eran consistentemente más útiles, más precisos y requerían menos edición.
+Elena y su colega Pedro usaban el mismo modeló de IA, con la misma suscripción, para tareas similares. Los resultados que obtenía Elena eran consistentemente más útiles, más precisos y requerían menos edición.
 
-La diferencia no era técnica: era la forma en que se comunicaban con el modelo.
+La diferencia no era técnica: era la forma en que se comunicaban con el modeló.
 
 Elena había aprendido a escribir prompts. Pedro había aprendido a teclear preguntas.
 
@@ -21,7 +21,7 @@ La diferencia entre las dos aproximaciones es el tema de este libro.
 
 Los LLMs son sistemas probabilísticos: dado un contexto (el prompt), producen el texto más probable. Cambiar el contexto cambia el espacio de respuestas posibles.
 
-Un prompt pobre produce un espacio amplio y difuso de respuestas posibles. El modelo elige una que es plausible pero que no necesariamente es lo que necesitas.
+Un prompt pobre produce un espacio amplio y difuso de respuestas posibles. El modeló elige una que es plausible pero que no necesariamente es lo que necesitas.
 
 Un prompt preciso reduce el espacio de respuestas posibles a una región donde las respuestas son más probablemente útiles para tu caso específico.
 
@@ -31,11 +31,11 @@ La ingeniería de prompts no es magia: es comunicación precisa adaptada a cómo
 
 ## Capítulo 2: Los elementos de un buen prompt
 
-**Rol:** "Actúa como un experto en marketing B2B con experiencia en el sector tecnológico."
-Asignar un rol activa representaciones del modelo asociadas con ese perfil y su forma de comunicarse.
+**Rol:** "Actúa cómo un experto en marketing B2B con experiencia en el sector tecnológico."
+Asignar un rol activa representaciones del modeló asociadas con ese perfil y su forma de comunicarse.
 
 **Contexto:** "Estoy preparando una propuesta para un cliente que gestiona una cadena de 30 restaurantes y quiere mejorar su gestión de inventario."
-El contexto da al modelo la información de fondo necesaria para producir una respuesta relevante.
+El contexto da al modeló la información de fondo necesaria para producir una respuesta relevante.
 
 **Tarea:** "Escribe los tres argumentos más convincentes para justificar la inversión en software de gestión de inventario."
 La instrucción específica de lo que necesitas.
@@ -50,7 +50,7 @@ Lo que no quieres incluido.
 
 ## Capítulo 3: Las técnicas de prompting más efectivas
 
-**Chain-of-thought (cadena de razonamiento):** Pedir al modelo que "piense paso a paso" antes de dar la respuesta final mejora significativamente el razonamiento en tareas complejas. "Analiza este problema paso a paso y luego dame tu conclusión."
+**Chain-of-thought (cadena de razonamiento):** Pedir al modeló que "piense paso a paso" antes de dar la respuesta final mejora significativamente el razonamiento en tareas complejas. "Analiza este problema paso a paso y luego dame tu conclusión."
 
 **Few-shot prompting:** Proporcionar ejemplos del output que buscas. "Aquí hay dos ejemplos del tipo de título que busco: [ejemplo 1], [ejemplo 2]. Genera cinco títulos con este estilo para el siguiente artículo."
 
@@ -58,7 +58,7 @@ Lo que no quieres incluido.
 
 **Iteración directiva:** En lugar de aceptar el primer output, pedir modificaciones específicas. "El tono es demasiado formal. Hazlo más conversacional. Y acorta el segundo párrafo."
 
-**Metaprompting:** Pedirle al modelo que te ayude a construir un mejor prompt. "Voy a pedirte que escribas X. ¿Qué información necesitas de mí para producir el mejor resultado posible?"
+**Metaprompting:** Pedirle al modeló que te ayude a construir un mejor prompt. "Voy a pedirte que escribas X. ¿Qué información necesitas de mí para producir el mejor resultado posible?"
 
 ---
 
@@ -66,7 +66,7 @@ Lo que no quieres incluido.
 
 Para uso profesional, el prompt más poderoso no es la pregunta de cada momento: es el **system prompt** o instrucción de sistema.
 
-El system prompt es la instrucción que configura el comportamiento del modelo para toda la conversación. Se establece al principio y no necesita repetirse.
+El system prompt es la instrucción que configura el comportamiento del modeló para toda la conversación. Se establece al principio y no necesita repetirse.
 
 Un system prompt efectivo para Rubén como consultor de marketing:
 "Eres mi asistente de marketing con especialización en marketing B2B para pymes tecnológicas. Conoces mi estilo: directo, sin florituras, orientado a resultados. Sabes que mis clientes son directores de marketing o CEOs con poco tiempo. Cuando redactes comunicaciones, usa siempre tono profesional pero cercano. Cuando generes ideas, presenta siempre las tres mejores, no una lista de diez. Si algo requiere información que no tienes, pregúntame antes de inventar."
@@ -79,7 +79,7 @@ Un system prompt efectivo para Rubén como consultor de marketing:
 
 **Demasiado largo sin estructura:** Un párrafo de 200 palabras con múltiples preguntas mezcladas produce respuestas que abordan algunas partes y olvidan otras.
 
-**Asumiendo contexto que el modelo no tiene:** "¿Cómo debería responder al email de Juan?" El modelo no sabe quién es Juan ni qué dijo.
+**Asumiendo contexto que el modeló no tiene:** "¿Cómo debería responder al email de Juan?" El modeló no sabe quién es Juan ni qué dijo.
 
 **No especificar el formato:** "Dame información sobre X" produce un artículo cuando quizás necesitabas una tabla comparativa.
 
@@ -115,7 +115,7 @@ Diferentes modelos tienen características distintas que afectan cómo se les de
 
 **Llama (Meta, open source):** Ejecutable localmente, lo que permite privacidad de datos. Varias versiones disponibles para distintos casos de uso y recursos computacionales.
 
-La elección del modelo importa menos que la calidad del prompt para la mayoría de los usos profesionales.
+La elección del modeló importa menos que la calidad del prompt para la mayoría de los usos profesionales.
 
 ---
 

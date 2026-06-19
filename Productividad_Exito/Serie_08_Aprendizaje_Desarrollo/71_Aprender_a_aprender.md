@@ -8,9 +8,9 @@
 
 ## Prólogo: Diez años de cursos y pocas habilidades nuevas
 
-Elena calculó cuánto tiempo había invertido en formación en los últimos diez años: cursos online, webinars, conferencias, talleres. Cientos de horas.
+Elena calculo cuánto tiempo había invertido en formación en los últimos diez años: cursos online, webinars, conferencias, talleres. Cientos de horas.
 
-Luego calculó cuántas habilidades nuevas había realmente adquirido, medidas por si podía usarlas con fluidez en su trabajo. El número era mucho más pequeño.
+Luego calculo cuántas habilidades nuevas había realmente adquirido, medidas por si podía usarlas con fluidez en su trabajo. El número era mucho más pequeño.
 
 La relación entre el tiempo invertido en formación y las habilidades adquiridas era abismal.
 
@@ -61,7 +61,7 @@ La práctica espaciada es el segundo método con mayor evidencia de eficacia.
 En lugar de estudiar el mismo material muchas horas seguidas (práctica masiva), distribuir el estudio en sesiones separadas por intervalos de tiempo crecientes.
 
 **La curva de olvido de Ebbinghaus:**
-Sin repaso, el 50% de la información aprendida se olvida en un día, y el 90% en una semana. El repaso espaciado contrarresta este olvido: cada vez que se recupera la información justo antes de olvidarla, el recuerdo se fortalece y el intervalo hasta el siguiente olvido se alarga.
+Sin repasó, el 50% de la información aprendida se olvida en un día, y el 90% en una semana. El repasó espaciado contrarresta este olvido: cada vez que se recupera la información justo antes de olvidarla, el recuerdo se fortalece y el intervalo hasta el siguiente olvido se alarga.
 
 **Los intervalos óptimos:**
 - Primera revisión: 1 día después de aprender
@@ -70,7 +70,7 @@ Sin repaso, el 50% de la información aprendida se olvida en un día, y el 90% e
 - Cuarta revisión: 14 días después
 - Quinta revisión: 30 días después
 
-Herramientas como Anki automatizan estos intervalos, calculando el momento óptimo de repaso para cada tarjeta.
+Herramientas como Anki automatizan estos intervalos, calculando el momento óptimo de repasó para cada tarjeta.
 
 ---
 
@@ -133,7 +133,7 @@ La metacognición es el pensamiento sobre el propio pensamiento y aprendizaje.
 Las personas frecuentemente sobreestiman su propio aprendizaje. La familiaridad con el material —producida por la relectura— se confunde con la comprensión real. La recuperación activa rompe esta ilusión revelando lo que realmente se sabe y lo que no.
 
 **Las preguntas metacognitivas:**
-- ¿Qué acabo de aprender exactamente?
+- ¿Qué acabó de aprender exactamente?
 - ¿Puedo explicarlo con mis propias palabras?
 - ¿Qué partes no entiendo todavía?
 - ¿Cómo se conecta con lo que ya sé?
@@ -147,11 +147,11 @@ Las técnicas son herramientas. El sistema es lo que las convierte en hábito.
 **Los elementos del sistema:**
 - Sesiones de aprendizaje con tiempo protegido y regular
 - Un método de captura de lo aprendido (cuaderno, aplicación de notas)
-- Un sistema de repaso espaciado (tarjetas, Anki, revisiones periódicas)
+- Un sistema de repasó espaciado (tarjetas, Anki, revisiones periódicas)
 - Práctica activa de la aplicación del conocimiento
 - Revisión periódica del sistema: ¿está funcionando?
 
-Rubén construyó su sistema con tres componentes: lectura de treinta minutos por la mañana, una tarjeta de Anki por cada concepto importante que quería retener, y el viernes un bloque de treinta minutos para revisar lo aprendido esa semana.
+Rubén construyo su sistema con tres componentes: lectura de treinta minutos por la mañana, una tarjeta de Anki por cada concepto importante que quería retener, y el viernes un bloque de treinta minutos para revisar lo aprendido esa semana.
 
 En seis meses, su retención de lo que leía había transformado de "recuerdo vagamente haber leído algo sobre eso" a "puedo explicar el concepto y su aplicación".
 
@@ -159,9 +159,9 @@ En seis meses, su retención de lo que leía había transformado de "recuerdo va
 
 ## Capítulo 10: El aprendizaje más eficiente de Elena
 
-Elena aplicó estas técnicas al siguiente curso que hizo (análisis de datos avanzado).
+Elena aplico estas técnicas al siguiente curso que hizo (análisis de datos avanzado).
 
-En lugar de ver los videos y releer las notas, usó recuperación activa: después de cada módulo, cerraba el material e intentaba explicar por escrito lo aprendido. Luego comparaba con el material para identificar las lagunas.
+En lugar de ver los videos y releer las notas, uso recuperación activa: después de cada módulo, cerraba el material e intentaba explicar por escrito lo aprendido. Luego comparaba con el material para identificar las lagunas.
 
 Tardó más en cada módulo. Pero al final del curso, podía aplicar lo aprendido en su trabajo, lo que con el método anterior nunca había ocurrido.
 

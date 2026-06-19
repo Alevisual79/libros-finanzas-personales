@@ -8,7 +8,7 @@
 
 ## Prólogo: Dos formas de recibir la misma crítica
 
-Elena recibió el mismo feedback en la misma reunión que su colega Marco.
+Elena recibio el mismo feedback en la misma reunión que su colega Marco.
 
 El director les dijo que la propuesta técnica tenía problemas en la parte de escalabilidad. "Hay que rehacerla."
 
@@ -40,7 +40,7 @@ Las personas con mentalidad de crecimiento abrazan los desafíos, persisten ante
 
 ## Capítulo 2: Mentalidad fija — cómo se manifiesta
 
-La mentalidad fija raramente se presenta como una declaración explícita ("soy fijo"). Se manifiesta en patrones de comportamiento y pensamiento.
+La mentalidad fija raramente se presenta cómo una declaración explícita ("soy fijo"). Se manifiesta en patrones de comportamiento y pensamiento.
 
 **Evitar los desafíos:**
 Rechazar proyectos donde no se tiene certeza de éxito. No hacer preguntas en público para no parecer ignorante. No asumir responsabilidades nuevas para no arriesgarse al fracaso.
@@ -52,7 +52,7 @@ Buscar confirmación de que eres bueno, inteligente o capaz. Sentirte bien cuand
 "Si fuera realmente bueno, no tendría que trabajar tanto." El esfuerzo solo lo necesitan los que no tienen talento natural.
 
 **Comparación constante:**
-Medir el propio valor en relación con los demás. El éxito de un colega se siente como una amenaza, no como una inspiración.
+Medir el propio valor en relación con los demás. El éxito de un colega se siente cómo una amenaza, no cómo una inspiración.
 
 **El efecto en el trabajo de Marco:**
 Marco tiene mentalidad fija respecto a sus capacidades técnicas. Cada crítica es una amenaza a su identidad de "buen ingeniero". No puede separar "mi propuesta tenía un fallo" de "yo tengo un fallo".
@@ -158,7 +158,7 @@ Cuando el objetivo es "hacerlo bien" o "tener éxito", cualquier obstáculo en e
 Cuando el objetivo es "aprender" o "mejorar", los obstáculos son parte del proceso, no amenazas. La pregunta cambia de "¿lo hice bien?" a "¿qué aprendí?"
 
 **La aplicación en el trabajo:**
-Elena empieza a medir no solo si las propuestas técnicas se aprueban, sino cuánto mejoró su comprensión de la arquitectura en el proceso de desarrollarlas. El resultado sigue importando, pero ya no es lo único.
+Elena empieza a medir no solo si las propuestas técnicas se aprueban, sino cuánto mejoro su comprensión de la arquitectura en el proceso de desarrollarlas. El resultado sigue importando, pero ya no es lo único.
 
 ---
 
@@ -181,7 +181,7 @@ Tres semanas después de la reunión de arquitectura, Elena y Marco presentaron 
 
 Elena había tenido tres conversaciones técnicas que no hubiera tenido sin el feedback. Había aprendido algo sobre escalabilidad que no sabía. La propuesta era mejor.
 
-Marco había pasado tres semanas rehaciendo el trabajo con resentimiento, viendo la crítica como una injusticia en lugar de como una herramienta.
+Marco había pasado tres semanas rehaciendo el trabajo con resentimiento, viendo la crítica cómo una injusticia en lugar de cómo una herramienta.
 
 La propuesta de los dos tenía la misma calidad técnica. La diferencia era el estado mental con el que cada uno llegaba al trabajo siguiente: uno con curiosidad y apertura, el otro con miedo y defensividad.
 

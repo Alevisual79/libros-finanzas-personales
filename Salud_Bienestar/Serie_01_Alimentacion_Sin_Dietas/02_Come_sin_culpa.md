@@ -106,7 +106,7 @@ Comer bien no tiene que ser aburrido, ascético ni desconectado del placer.
 Las creencias alimentarias dañinas son pensamientos automáticos que se presentan como verdades.
 
 Ejemplos:
-- "Si como un dulce, no puedo parar"
+- "Si cómo un dulce, no puedo parar"
 - "Tengo que limpiarme de lo que comí el fin de semana"
 - "Los carbohidratos después de las 6 engordان"
 - "Soy adicta al azúcar"
@@ -116,7 +116,7 @@ Desmontarlas requiere:
 2. Examinar la evidencia real
 3. Reemplazarlas por pensamientos más útiles y verídicos
 
-"Si como un dulce, no puedo parar" puede ser cierto en el contexto de restricción extrema. No en el contexto de una alimentación libre de prohibiciones.
+"Si cómo un dulce, no puedo parar" puede ser cierto en el contexto de restricción extrema. No en el contexto de una alimentación libre de prohibiciones.
 
 ---
 

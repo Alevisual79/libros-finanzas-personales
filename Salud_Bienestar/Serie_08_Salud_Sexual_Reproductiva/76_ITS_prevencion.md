@@ -21,7 +21,7 @@ Una ITS no es un juicio moral. Es una infección. Como la gripe, pero de transmi
 **Los datos en España:**
 Las ITS están aumentando en España y en Europa desde mediados de los 2000, con aceleración especialmente en gonorrea, sífilis y clamidiasis.
 
-La gonorrea aumentó un 400% en España entre 2007 y 2022. La sífilis se triplicó en el mismo período. El VIH sigue siendo una epidemia, aunque con transmisión reducida gracias al tratamiento.
+La gonorrea aumento un 400% en España entre 2007 y 2022. La sífilis se triplicó en el mismo período. El VIH sigue siendo una epidemia, aunque con transmisión reducida gracias al tratamiento.
 
 **Por qué aumentan:**
 - Mayor uso del condón femenino y reducción del condón masculino, especialmente en relaciones de cierta confianza
@@ -102,7 +102,7 @@ Se pueden solicitar en el médico de cabecera, en los centros de ITS, en algunos
 Descubrir una ITS implica la necesidad de comunicarlo a las parejas recientes.
 
 **Por qué es importante:**
-Para que puedan hacerse las pruebas, recibir tratamiento si es necesario, y no transmitirla a otras personas.
+Para qué puedan hacerse las pruebas, recibir tratamiento si es necesario, y no transmitirla a otras personas.
 
 **Cómo hacerlo:**
 Directamente si es posible. Hay aplicaciones y servicios de notificación anónima (como "tell your partner" en algunos países) que permiten notificar sin revelar la identidad.

@@ -18,7 +18,7 @@ El sistema atendió el parto. Olvidó a la mujer.
 
 ## Capítulo 1: El "cuarto trimestre" — el período más olvidado
 
-El concepto de "cuarto trimestre" describe los tres meses posteriores al parto como una fase de transición tan intensa como los trimestres del embarazo, que merece atención y cuidado específico.
+El concepto de "cuarto trimestre" describe los tres meses posteriores al parto cómo una fase de transición tan intensa como los trimestres del embarazo, que merece atención y cuidado específico.
 
 **Los cambios físicos:**
 Tras el parto, el cuerpo atraviesa una transición hormonal dramática. Los estrógenos y la progesterona caen abruptamente. La prolactina sube si se amamanta. El útero involucionará progresivamente (loquios, sangrado).
@@ -56,8 +56,8 @@ Sin lactancia: generalmente entre las 6 y las 10 semanas posparto. Con lactancia
 La lactancia materna es la opción óptima. Y también puede ser extraordinariamente difícil.
 
 **Las dificultades frecuentes:**
-- Dolor al inicio: el enganche del bebé al pecho puede producir dolor intenso, especialmente en las primeras semanas. Si el enganche es correcto, el dolor no debería durar más de unos segundos. El dolor persistente indica problema de enganche (consultar matrona o asesora de lactancia).
-- Grietas en el pezón: frecuentes al inicio, generalmente por mal enganche. La lanolina y el descanso del pezón ayudan. No son razón para dejar la lactancia si se corrige el enganche.
+- Dolor al inició: el enganche del bebé al pecho puede producir dolor intenso, especialmente en las primeras semanas. Si el enganche es correcto, el dolor no debería durar más de unos segundos. El dolor persistente indica problema de enganche (consultar matrona o asesora de lactancia).
+- Grietas en el pezón: frecuentes al inició, generalmente por mal enganche. La lanolina y el descanso del pezón ayudan. No son razón para dejar la lactancia si se corrige el enganche.
 - Mastitis: infección del tejido mamario. Fiebre, dolor intenso, enrojecimiento. Tratamiento antibiótico. La lactancia puede y debe continuar (de hecho, vaciar el pecho ayuda).
 - Producción insuficiente: el miedo a no tener suficiente leche es el principal motivo de abandono prematuro, pero en la mayoría de los casos la producción es adecuada. El sistema oferta-demanda: cuanto más mama el bebé, más leche se produce.
 
@@ -147,14 +147,14 @@ Prácticamente imposible durante los primeros meses. Turnar los despertares con 
 
 ---
 
-## Capítulo 8: El alta hospitalaria precoz y el modelo de atención
+## Capítulo 8: El alta hospitalaria precoz y el modeló de atención
 
 **El problema:**
 En España, el alta hospitalaria tras el parto vaginal es de 48-72 horas, y tras la cesárea, 72-96 horas. Después, la primera revisión suele ser a las 6 semanas.
 
 Hay un "agujero negro" de 5-6 semanas en que la mujer está en casa con un bebé nuevo, posiblemente con sutura perineal, con lactancia que está aprendiendo, con el baby blues o la depresión emergente, sin ningún contacto con el sistema.
 
-**El modelo de algunas comunidades:**
+**El modeló de algunas comunidades:**
 La visita domiciliaria de la matrona en los primeros días posparto (existente en algunas comunidades, en expansión) es la intervención más efectiva para el posparto. Detecta problemas de lactancia, valora la salud mental materna y proporciona apoyo en el momento más vulnerable.
 
 ---
@@ -167,7 +167,7 @@ Las mujeres que ya han tenido un parto tienen información que las primigestas n
 El parto suele ser más rápido. El cuerpo "recuerda". Las madres saben lo que viene.
 
 **Lo que puede ser más difícil:**
-Gestionar la crianza del hijo mayor mientras el recién nacido ocupa toda la atención. El aumento de la carga total. La culpa hacia el hijo mayor.
+Gestionar la crianza del hijo mayor mientras el recién nacido ocupa toda la atención. El aumento de la carga total. La culpa hacía el hijo mayor.
 
 **El suelo pélvico:**
 Cada parto adicional aumenta el riesgo de disfunción del suelo pélvico. La rehabilitación después del segundo y tercer parto es igual de importante.
@@ -184,7 +184,7 @@ Pedir ayuda no es debilidad. Necesitar apoyo es humano. El sistema debería prop
 
 ## Epílogo: El posparto merece más que seis semanas de abandono
 
-La atención a la madre en el posparto debería ser tan prioritaria como la atención a la madre durante el embarazo. El bebé importa. La madre también.
+La atención a la madre en el posparto debería ser tan prioritaria cómo la atención a la madre durante el embarazo. El bebé importa. La madre también.
 
 El siguiente libro aborda algo que pocos discuten con profundidad: los métodos anticonceptivos, sus opciones reales y cómo elegir.
 

@@ -26,8 +26,8 @@ La salud mental no es solo no tener depresión ni ansiedad. Es un estado positiv
 - Relaciones satisfactorias
 - Sentido de propósito y bienestar subjetivo
 
-**El modelo del bienestar psicológico de Ryff:**
-La psicóloga Carol Ryff identificó seis dimensiones del bienestar psicológico:
+**El modeló del bienestar psicológico de Ryff:**
+La psicóloga Carol Ryff identifico seis dimensiones del bienestar psicológico:
 1. Autoaceptación (relación positiva con uno mismo)
 2. Relaciones positivas con los demás
 3. Autonomía (autodeterminación)
@@ -47,12 +47,12 @@ El objetivo debería ser maximizar el bienestar positivo, no solo eliminar los s
 El estigma en torno a la salud mental es el mayor obstáculo para el diagnóstico, el tratamiento y el bienestar.
 
 **Los tres tipos de estigma:**
-1. **Estigma público:** las actitudes negativas de la sociedad hacia las personas con trastornos mentales
+1. **Estigma público:** las actitudes negativas de la sociedad hacía las personas con trastornos mentales
 2. **Estigma de estructura:** las políticas y prácticas institucionales que discriminan
 3. **Autoestigma:** la internalización del estigma por parte de la propia persona ("soy débil", "estoy loco")
 
 **Las consecuencias del estigma:**
-- Retraso en buscar ayuda (media de 10 años entre el inicio de síntomas y el primer tratamiento)
+- Retraso en buscar ayuda (media de 10 años entre el inició de síntomas y el primer tratamiento)
 - Abandono del tratamiento por vergüenza
 - Ocultamiento de síntomas al médico
 - Discriminación laboral y social
@@ -76,7 +76,7 @@ Las enfermedades físicas causan trastornos mentales (enfermedades crónicas y d
 El intestino tiene 100 millones de neuronas, más que la médula espinal. Produce el 90% de la serotonina del cuerpo. Comunica con el cerebro a través del nervio vago en ambas direcciones. La microbiota intestinal influye en el estado de ánimo, la ansiedad y la función cognitiva.
 
 **La inflamación:**
-La inflamación crónica es un factor común a enfermedades tan dispares como la depresión, la diabetes, la enfermedad cardiovascular y el Alzheimer. El cuidado del sistema inflamatorio —a través de la dieta, el ejercicio, el sueño y el estrés— es salud mental tanto como salud física.
+La inflamación crónica es un factor común a enfermedades tan dispares cómo la depresión, la diabetes, la enfermedad cardiovascular y el Alzheimer. El cuidado del sistema inflamatorio —a través de la dieta, el ejercicio, el sueño y el estrés— es salud mental tanto como salud física.
 
 **La implicación práctica:**
 El psicólogo y el médico deberían trabajar de forma más integrada. El bienestar emocional no es opcional para la recuperación de enfermedades físicas. El cuidado del cuerpo no es opcional para la salud mental.
@@ -161,7 +161,7 @@ No se trata de ser feliz siempre. Se trata de cultivar elementos que nutren el b
 
 **La autocompasión:**
 Kristin Neff identifica tres componentes de la autocompasión:
-1. Amabilidad hacia uno mismo (en lugar de autocrítica)
+1. Amabilidad hacía uno mismo (en lugar de autocrítica)
 2. Humanidad común (todos sufrimos, no estoy solo)
 3. Mindfulness (reconocer el sufrimiento sin sobreidentificarse)
 
@@ -193,7 +193,7 @@ Las relaciones significativas son el predictor más consistente del bienestar su
 ## Capítulo 9: Cómo hablar de salud mental — en casa, en el trabajo, con los hijos
 
 **Con los hijos:**
-Normalizar las emociones desde pequeños: todos nos ponemos tristes, asustados, enfadados. Eso es normal y tiene nombre. Hablar de la salud mental como se habla de la salud física: "Hoy no me encuentro bien emocionalmente, necesito un descanso."
+Normalizar las emociones desde pequeños: todos nos ponemos tristes, asustados, enfadados. Eso es normal y tiene nombre. Hablar de la salud mental cómo se habla de la salud física: "Hoy no me encuentro bien emocionalmente, necesito un descanso."
 
 **En el trabajo:**
 El estigma en el entorno laboral es especialmente dañino. Las organizaciones que crean culturas de seguridad psicológica —donde la vulnerabilidad es posible sin consecuencias— tienen equipos más sanos y más productivos. Un líder que habla de su experiencia con la salud mental abre la puerta para que otros lo hagan.
@@ -219,7 +219,7 @@ Una vez al año: ¿Cómo está mi salud emocional? ¿Hay temas que necesitan ate
 En una cultura que premia la productividad y penaliza la vulnerabilidad, uno de los actos de salud mental más importantes es el permiso de no estar bien. No como excusa para no actuar, sino como punto de partida honesto.
 
 **La integración:**
-La salud mental no es una dimensión separada de la salud. Es la salud. El cuerpo, la mente, las relaciones, el propósito: todo está conectado. El Método RESET —Reconocer, Eliminar, Sostener, Energizar, Transformar— solo funciona plenamente cuando incluye la dimensión mental y emocional junto con la física.
+La salud mental no es una dimensión separada de la salud. Es la salud. El cuerpo, la mente, las relaciones, el propósito: todo está conectado. El Método RESET —Reconocer, Eliminar, Sostener, Energizar, Transformar— solo funciona plenamente cuando incluye la dimensión mental y emocional juntó con la física.
 
 ---
 

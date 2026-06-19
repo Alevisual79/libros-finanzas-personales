@@ -10,7 +10,7 @@
 
 Correr 5 kilómetros sin parar.
 
-Para muchas personas, es la primera meta deportiva seria de su vida adulta. La que demuestra que el cuerpo puede más de lo que creía.
+Para muchas personas, es la primera meta deportiva sería de su vida adulta. La que demuestra que el cuerpo puede más de lo que creía.
 
 Este libro es el plan. No teórico. Concreto. Semana a semana. Para quien empieza desde el sofá.
 

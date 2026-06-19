@@ -44,7 +44,7 @@ La hormona de crecimiento se secreta principalmente durante el sueño profundo. 
 La consolidación de la memoria ocurre principalmente durante el sueño. Lo aprendido durante el día se "graba" en el sueño. Sin sueño suficiente, el aprendizaje no se consolida.
 
 **Limpieza cerebral:**
-El sistema glinfático (el sistema de limpieza del cerebro) trabaja principalmente durante el sueño, eliminando proteínas de desecho como la beta-amiloide (asociada al Alzheimer).
+El sistema glinfático (el sistema de limpieza del cerebro) trabaja principalmente durante el sueño, eliminando proteínas de desecho cómo la beta-amiloide (asociada al Alzheimer).
 
 ---
 
@@ -110,14 +110,14 @@ Levantarse a la misma hora todos los días (incluidos fines de semana) es la int
 La melantonina (hormona del sueño) se inhibe con la luz, especialmente la azul. El dormitorio debe ser lo más oscuro posible. Las persianas opacas o un antifaz hacen diferencia real.
 
 **Silencio o ruido blanco:**
-El silencio es ideal. Si hay ruido ambiental, el ruido blanco, marrón o rosa puede enmascararlo sin interrumpir el sueño como lo haría el ruido variable.
+El silencio es ideal. Si hay ruido ambiental, el ruido blanco, marrón o rosa puede enmascararlo sin interrumpir el sueño cómo lo haría el ruido variable.
 
 ---
 
 ## Capítulo 6: Los enemigos del sueño
 
 **La luz azul de las pantallas:**
-Las pantallas de teléfono, tableta y ordenador emiten luz de espectro azul que inhibe la melatonina. El uso de pantallas en la hora previa a dormir retrasa el inicio del sueño.
+Las pantallas de teléfono, tableta y ordenador emiten luz de espectro azul que inhibe la melatonina. El uso de pantallas en la hora previa a dormir retrasa el inició del sueño.
 
 **La cafeína:**
 Tiene una vida media de 5-7 horas. Un café a las 3 de la tarde aún tiene la mitad de su efecto a las 8-9 de la noche. Para personas sensibles: evitar la cafeína después del mediodía.
@@ -166,7 +166,7 @@ Los mayores suelen dormir menos, pero la necesidad no disminuye. Duermen menos p
 El impacto del sueño en el rendimiento físico e intelectual está muy bien documentado.
 
 **Deportistas:**
-Estudios con jugadores de baloncesto de Stanford mostraron que aumentar el sueño a 10 horas mejoró la velocidad, la precisión y el tiempo de reacción. Los atletas de élite priorizan el sueño tanto como el entrenamiento.
+Estudios con jugadores de baloncesto de Stanford mostraron que aumentar el sueño a 10 horas mejoro la velocidad, la precisión y el tiempo de reacción. Los atletas de élite priorizan el sueño tanto como el entrenamiento.
 
 **Trabajo cognitivo:**
 Una persona con 17 horas de vigilia (levantarse a las 7, trabajar hasta medianoche) tiene un rendimiento cognitivo equivalente a una persona con 0,5 promille de alcohol en sangre.

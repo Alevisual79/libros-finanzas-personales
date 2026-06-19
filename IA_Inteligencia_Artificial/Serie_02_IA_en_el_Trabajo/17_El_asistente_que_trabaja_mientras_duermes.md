@@ -1,4 +1,4 @@
-﻿# El asistente que trabaja mientras duermes
+# El asistente que trabaja mientras duermes
 ## Cómo los agentes de IA están cambiando la naturaleza del trabajo asíncrono
 
 **Serie 2: IA en el Trabajo — Libro 7 de 10**
@@ -33,7 +33,7 @@ La diferencia es el nivel de autonomía y la dimensión temporal.
 
 Los agentes de IA combinan varios componentes:
 
-**Un modelo de razonamiento:** El LLM que planifica, decide y procesa.
+**Un modeló de razonamiento:** El LLM que planifica, decide y procesa.
 
 **Herramientas:** Capacidades que el agente puede usar para actuar en el mundo: buscar en internet, leer y escribir archivos, ejecutar código, llamar a APIs, enviar emails.
 
@@ -41,7 +41,7 @@ Los agentes de IA combinan varios componentes:
 
 **Bucle de razonamiento:** El proceso por el que el agente planifica qué pasos dar, ejecuta acciones y evalúa si ha completado el objetivo.
 
-Los sistemas más sofisticados usan múltiples agentes especializados que se coordinan: un agente investigador, un agente escritor, un agente revisor, todos orquestados hacia un objetivo común.
+Los sistemas más sofisticados usan múltiples agentes especializados que se coordinan: un agente investigador, un agente escritor, un agente revisor, todos orquestados hacía un objetivo común.
 
 ---
 
@@ -125,7 +125,7 @@ Los agentes son poderosos pero tienen limitaciones importantes que es fundamenta
 
 **Costes acumulativos:** Los agentes que usan APIs de LLMs generan costes por cada ejecución. Los flujos complejos pueden resultar sorprendentemente caros.
 
-**Límites de contexto:** Los agentes con mucha memoria o que procesan muchos documentos pueden llegar a los límites del contexto del modelo.
+**Límites de contexto:** Los agentes con mucha memoria o que procesan muchos documentos pueden llegar a los límites del contexto del modeló.
 
 ---
 
@@ -151,7 +151,7 @@ El agente de inteligencia sectorial de Elena tenía un ritual semanal:
 
 **Domingo 23:45:** Genera el borrador del informe. Crea una sección por tema prioritario con síntesis de las distintas perspectivas encontradas. Añade una sección de "implicaciones para el equipo" con preguntas que debería considerar.
 
-**Lunes 06:00:** Elena recibe el informe en su email. Lo lee en 15 minutos durante el desayuno. Hace anotaciones. Ajusta dos secciones donde el agente no captó bien el contexto interno del equipo.
+**Lunes 06:00:** Elena recibe el informe en su email. Lo lee en 15 minutos durante el desayuno. Hace anotaciones. Ajusta dos secciones donde el agente no capto bien el contexto interno del equipo.
 
 **Lunes 08:30:** Comparte el informe ajustado con su equipo como punto de partida para la reunión semanal.
 

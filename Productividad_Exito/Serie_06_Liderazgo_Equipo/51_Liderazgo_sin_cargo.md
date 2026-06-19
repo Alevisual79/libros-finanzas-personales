@@ -10,7 +10,7 @@
 
 En el equipo de desarrollo donde trabajaba Elena, había una persona —técnicamente un par, sin cargo especial— que siempre sabía cómo destrabar los proyectos atascados, a quién involucrar para resolver cada problema, cómo hacer que el equipo se alineara cuando había desacuerdo.
 
-No era el jefe. No tenía título de liderazgo. Pero cuando había que tomar una decisión difícil, todos miraban hacia él primero.
+No era el jefe. No tenía título de liderazgo. Pero cuando había que tomar una decisión difícil, todos miraban hacía él primero.
 
 "¿Por qué le hacen caso si no es su jefe?" preguntó Elena al mentor.
 
@@ -22,7 +22,7 @@ No era el jefe. No tenía título de liderazgo. Pero cuando había que tomar una
 
 El cargo es una asignación organizacional: una estructura formal que otorga autoridad sobre recursos, decisiones y personas.
 
-El liderazgo es una influencia relacional: la capacidad de movilizar a personas hacia un objetivo compartido, basada en confianza, credibilidad y competencia.
+El liderazgo es una influencia relacional: la capacidad de movilizar a personas hacía un objetivo compartido, basada en confianza, credibilidad y competencia.
 
 **El cargo sin liderazgo:**
 Produce obediencia superficial. Las personas hacen lo que se les pide porque tienen que hacerlo. La calidad del trabajo, la creatividad y el compromiso son mínimos.
@@ -98,11 +98,11 @@ El liderazgo sin cargo en equipos de pares requiere la disposición a tomar inic
 
 ---
 
-## Capítulo 6: El liderazgo sin cargo hacia arriba
+## Capítulo 6: El liderazgo sin cargo hacía arriba
 
-Una de las formas de liderazgo sin cargo más complejas: influir hacia arriba, en la jerarquía, hacia personas con más autoridad formal.
+Una de las formas de liderazgo sin cargo más complejas: influir hacía arriba, en la jerarquía, hacía personas con más autoridad formal.
 
-**El "liderar hacia arriba":**
+**El "liderar hacía arriba":**
 Consiste en ayudar a las personas con cargo a tomar mejores decisiones: aportando información que no tienen, señalando problemas antes de que escalen, proponiendo alternativas con los argumentos preparados.
 
 No es insubordinación. Es la contribución proactiva al liderazgo de quien tiene el cargo.
@@ -144,9 +144,9 @@ Isabel no llegó a directora de RRHH porque alguien la escogió arbitrariamente.
 
 Había resuelto conflictos que nadie más quería manejar. Había articulado las perspectivas del equipo cuando el equipo no podía articularlas. Había tomado la iniciativa en proyectos que estaban atascados.
 
-Cuando se creó el cargo de directora de RRHH, fue el candidato más obvio porque ya llevaba años haciendo, informalmente, lo que el cargo requería.
+Cuando se creo el cargo de directora de RRHH, fue el candidato más obvio porque ya llevaba años haciendo, informalmente, lo que el cargo requería.
 
-"El cargo fue consecuencia del liderazgo, no al revés," le explicó al mentor.
+"El cargo fue consecuencia del liderazgo, no al revés," le explico al mentor.
 
 ---
 
@@ -160,7 +160,7 @@ Elena pensó. Honestamente: poco. Hacía bien su trabajo individual. Pero no hab
 
 "El cargo de liderazgo lo darán a quien demuestre que ya lidera. No a quien lo pide."
 
-Elena comenzó a cambiar su rol en el equipo. Tomó la iniciativa de coordinar la documentación técnica que nadie quería hacer. Empezó a facilitar las retrospectivas de sprint. Propuso soluciones para problemas sistémicos que afectaban a todo el equipo.
+Elena comenzo a cambiar su rol en el equipo. Tomó la iniciativa de coordinar la documentación técnica que nadie quería hacer. Empezó a facilitar las retrospectivas de sprint. Propuso soluciones para problemas sistémicos que afectaban a todo el equipo.
 
 Nueve meses después, cuando se abrió una posición de tech lead, su nombre fue el primero que se mencionó.
 

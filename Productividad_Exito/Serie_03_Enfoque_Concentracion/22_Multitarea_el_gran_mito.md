@@ -136,7 +136,7 @@ En reuniones donde la mitad de los participantes hacen otras cosas, la calidad d
 
 En equipos donde la norma es responder inmediatamente (lo que requiere tener la atención constantemente disponible para mensajes), nadie puede concentrarse profundamente.
 
-Las mejores culturas de equipo crean espacios de concentración protegida, junto con momentos de comunicación sincronizada. No como extremos opuestos, sino como partes complementarias del trabajo.
+Las mejores culturas de equipo crean espacios de concentración protegida, juntó con momentos de comunicación sincronizada. No como extremos opuestos, sino como partes complementarias del trabajo.
 
 ---
 
@@ -150,7 +150,7 @@ Regla 3: En comunicaciones, solo las comunicaciones. Sin otras tareas abiertas.
 
 La primera reunión fue rara: sin el distractivo trabajo en paralelo, la reunión fue más corta (tuvo que participar, así que terminó antes) y más útil (había prestado suficiente atención para contribuir).
 
-El trabajo profundo de esa semana produjo más que las dos semanas anteriores combinadas.
+El trabajo profundo de esa semana produjó más que las dos semanas anteriores combinadas.
 
 La sensación al final del día era de agotamiento productivo, no de agotamiento vacío.
 

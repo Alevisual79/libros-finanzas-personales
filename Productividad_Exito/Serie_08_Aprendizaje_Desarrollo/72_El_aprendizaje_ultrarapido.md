@@ -43,15 +43,15 @@ El 20% de las sub-habilidades de cualquier disciplina produce el 80% del rendimi
 3. Identificar las más impactantes: ¿Cuáles, dominadas primero, producen el mayor avance?
 4. Eliminar o posponer las de menor impacto inicial
 
-Rubén quería aprender edición de video. En lugar de aprender todo el software, identificó las tres funciones que usaría en el 90% de sus proyectos (corte básico, ajuste de audio, subtítulos) y las aprendió primero.
+Rubén quería aprender edición de video. En lugar de aprender todo el software, identifico las tres funciones que usaría en el 90% de sus proyectos (corte básico, ajuste de audio, subtítulos) y las aprendió primero.
 
 ---
 
 ## Capítulo 3: El aprendizaje suficientemente bueno antes de empezar
 
-El perfeccionista quiere entender todo el sistema antes de empezar a practicar. El aprendiz eficiente aprende lo suficiente para empezar, practica, aprende de la práctica, y vuelve a la teoría solo cuando la práctica lo requiere.
+El perfeccionista quiere entender todo el sistema antes de empezar a practicar. El aprendiz eficiente aprende lo suficiente para empezar, práctica, aprende de la práctica, y vuelve a la teoría solo cuando la práctica lo requiere.
 
-**El modelo just-in-time:**
+**El modeló just-in-time:**
 Aprender la teoría que se necesita en el momento en que se necesita, no antes. La teoría que se aprende sin práctica inmediata se olvida rápidamente. La teoría que se aprende justo cuando la práctica la requiere se retiene porque es inmediatamente relevante.
 
 **La práctica como el mejor maestro:**
@@ -103,7 +103,7 @@ La práctica es más eficaz cuanto más corto es el ciclo entre la acción y el 
 
 ---
 
-## Capítulo 7: Aprender de los mejores — el modelo de los expertos
+## Capítulo 7: Aprender de los mejores — el modeló de los expertos
 
 Una de las formas más eficaces de acelerar el aprendizaje: estudiar directamente cómo los expertos en la habilidad deseada ejecutan esa habilidad.
 
@@ -112,7 +112,7 @@ Una de las formas más eficaces de acelerar el aprendizaje: estudiar directament
 - Analizar qué hacen específicamente: ¿qué movimientos? ¿Qué secuencias? ¿Qué decisiones?
 - Imitar los patrones antes de crear los propios
 
-**El modelo mental del experto:**
+**El modeló mental del experto:**
 Los expertos tienen modelos mentales —estructuras cognitivas que organizan su percepción del dominio— que los principiantes no tienen. Acceder a esos modelos (a través de libros, conversaciones, observación) es un atajo poderoso para la comprensión del dominio.
 
 ---

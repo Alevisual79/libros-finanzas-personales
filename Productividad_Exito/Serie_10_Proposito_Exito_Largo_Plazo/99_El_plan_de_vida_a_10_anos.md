@@ -70,7 +70,7 @@ La descripción concreta activa el pensamiento visual y emocional más que la li
 Revisar si los diferentes elementos de la visión son coherentes entre sí. La visión de "tener un negocio global de alta demanda" y "estar siempre en casa para los hijos" puede tener tensiones que necesitan resolverse.
 
 **El tercer paso — los backcasting:**
-Partiendo de la visión de diez años, trabajar hacia atrás: "Para llegar ahí en diez años, ¿dónde necesito estar en cinco? ¿Y en uno? ¿Y qué necesito hacer este mes?"
+Partiendo de la visión de diez años, trabajar hacía atrás: "Para llegar ahí en diez años, ¿dónde necesito estar en cinco? ¿Y en uno? ¿Y qué necesito hacer este mes?"
 
 ---
 
@@ -109,7 +109,7 @@ Rubén nunca había sido de planificación. Su personalidad era más de explorac
 
 La primera vez que hizo el ejercicio de la visión de diez años, lo trató como algo que "no era para él". Lo abandonó a la mitad.
 
-Seis meses después, lo retomó con una perspectiva diferente: no como un plan rígido sino como una brújula. No "esto es exactamente lo que ocurrirá" sino "esta es la dirección en la que quiero ir".
+Seis meses después, lo retomó con una perspectiva diferente: no cómo un plan rígido sino cómo una brújula. No "esto es exactamente lo que ocurrirá" sino "esta es la dirección en la que quiero ir".
 
 El resultado: una descripción de cómo quería vivir en diez años que le ayudó a tomar tres decisiones importantes en el año siguiente con mucha mayor claridad que cualquier análisis puramente racional.
 
@@ -121,7 +121,7 @@ La visión de diez años, sin objetivos intermedios, es una esperanza. Con objet
 
 **La estructura:**
 - Visión de 10 años: la descripción narrativa de la vida deseada
-- Objetivos de 5 años: los jalones principales hacia la visión
+- Objetivos de 5 años: los jalones principales hacía la visión
 - Objetivos de 1 año: las metas concretas que construyen los jalones
 - Prioridades del trimestre: lo que se hará en los próximos tres meses
 - Acciones de la semana: lo que se hace esta semana
@@ -179,7 +179,7 @@ Diseñar la propia vida intencionalmente no es arrogancia ni ingenuidad. Es el r
 
 El plan no garantiza nada. Pero la ausencia de dirección garantiza la indefinición.
 
-Una vida diseñada, aunque nunca resulte exactamente como se diseñó, tiene más probabilidad de parecerse a lo que importa que una que nunca fue diseñada.
+Una vida diseñada, aunque nunca resulte exactamente cómo se diseñó, tiene más probabilidad de parecerse a lo que importa que una que nunca fue diseñada.
 
 ---
 

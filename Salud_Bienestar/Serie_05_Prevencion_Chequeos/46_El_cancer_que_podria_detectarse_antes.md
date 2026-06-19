@@ -81,7 +81,7 @@ No hay evidencia de que la autoexploración mamaria sistemática reduzca la mort
 El cáncer de cérvix (cuello uterino) está producido en más del 99% de los casos por el virus del papiloma humano (VPH).
 
 **La vacunación:**
-La vacuna frente al VPH, incorporada al calendario vacunal en España desde 2007-2008, es la intervención preventiva más eficaz. Las chicas vacunadas antes del inicio de las relaciones sexuales tienen una reducción de más del 90% del riesgo de cáncer de cérvix.
+La vacuna frente al VPH, incorporada al calendario vacunal en España desde 2007-2008, es la intervención preventiva más eficaz. Las chicas vacunadas antes del inició de las relaciones sexuales tienen una reducción de más del 90% del riesgo de cáncer de cérvix.
 
 **El cribado:**
 Las mujeres entre 25 y 65 años deben realizarse cribado periódico:

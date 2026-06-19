@@ -44,7 +44,7 @@ La velocidad a la que estos procesos ocurren varía enormemente entre personas. 
 
 ## Capítulo 2: Las zonas azules — las comunidades que envejecen mejor
 
-Dan Buettner, trabajando con National Geographic y demógrafos, identificó cinco regiones del mundo con concentraciones excepcionales de centenarios: las "zonas azules".
+Dan Buettner, trabajando con National Geographic y demógrafos, identifico cinco regiones del mundo con concentraciones excepcionales de centenarios: las "zonas azules".
 
 **Las cinco zonas azules:**
 - Cerdeña (Italia): especialmente la Barbagia
@@ -196,7 +196,7 @@ El propósito de los 30 no es el mismo que el de los 70. La jubilación, que en 
 
 ## Capítulo 10: El plan de longevidad — lo que Carmen puede hacer a los 58
 
-No hay momento demasiado tarde para empezar a cuidarse. Y no hay momento demasiado tarde para que eso marque una diferencia real.
+No hay momento demasiado tarde para empezar a cuidarse. Y no hay momento demasiado tarde para qué eso marque una diferencia real.
 
 A los 58, Carmen tiene potencialmente 25-30 años de vida por delante. La calidad de esos años depende en gran parte de lo que haga en los próximos 5-10.
 

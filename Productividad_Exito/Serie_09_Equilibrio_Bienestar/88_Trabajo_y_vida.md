@@ -66,7 +66,7 @@ El objetivo no es el equilibrio en el día. Es un patrón que, visto a lo largo 
 
 ## Capítulo 4: Las temporadas de vida
 
-Stewart Friedman, en "Total Leadership", propone ver la vida como temporadas en lugar de como un estado permanente que optimizar.
+Stewart Friedman, en "Total Leadership", propone ver la vida como temporadas en lugar de cómo un estado permanente que optimizar.
 
 **Las temporadas de alta intensidad laboral:**
 Los años de construcción de una carrera, los proyectos de lanzamiento, los períodos de emprendimiento. Requieren un sacrificio temporal de otras dimensiones. Son aceptables cuando son temporales y conscientes.
@@ -143,7 +143,7 @@ Menos tiempo de desplazamiento. Mayor flexibilidad de horario. Posibilidad de es
 La desaparición de las fronteras físicas entre trabajo y vida. El alargamiento de los días de trabajo sin horario de salida claro. La soledad y la pérdida de las relaciones informales del trabajo presencial.
 
 **El diseño del teletrabajo:**
-Un espacio dedicado al trabajo (aunque sea una esquina de la habitación). Horarios más o menos definidos. Rituales de inicio y cierre. Contacto social deliberado para compensar la pérdida del ambiente de oficina.
+Un espacio dedicado al trabajo (aunque sea una esquina de la habitación). Horarios más o menos definidos. Rituales de inició y cierre. Contacto social deliberado para compensar la pérdida del ambiente de oficina.
 
 ---
 

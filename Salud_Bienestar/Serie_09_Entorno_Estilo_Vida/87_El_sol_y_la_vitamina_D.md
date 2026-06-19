@@ -76,7 +76,7 @@ La UVB que sintetiza vitamina D solo llega en las horas de mayor elevación sola
 Para una persona de piel media en verano mediterráneo, bastan 10-20 minutos de exposición de brazos y piernas sin protección solar al mediodía para cubrir las necesidades diarias. Más tiempo no produce más vitamina D (hay un sistema de autorregulación que destruye el exceso de previtamina D).
 
 **En invierno:**
-En latitudes por encima de 37-40 grados, la síntesis de vitamina D en invierno es mínima o nula incluso con exposición solar. En España, en invierno y en latitudes del norte (Madrid hacia arriba), la síntesis solar es insuficiente.
+En latitudes por encima de 37-40 grados, la síntesis de vitamina D en invierno es mínima o nula incluso con exposición solar. En España, en invierno y en latitudes del norte (Madrid hacía arriba), la síntesis solar es insuficiente.
 
 ---
 

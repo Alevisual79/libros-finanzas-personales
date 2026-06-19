@@ -6,9 +6,9 @@
 
 ---
 
-## Prólogo: El plan perfecto que nadie usó
+## Prólogo: El plan perfecto que nadie uso
 
-Un equipo de startup pasó seis meses desarrollando una aplicación móvil. El plan de negocio era exhaustivo. El producto, cuidadosamente diseñado. El lanzamiento, elaboradamente preparado.
+Un equipo de startup paso seis meses desarrollando una aplicación móvil. El plan de negocio era exhaustivo. El producto, cuidadosamente diseñado. El lanzamiento, elaboradamente preparado.
 
 A los tres meses del lanzamiento, lo cerraron. Los usuarios no querían lo que el equipo había asumido que querían.
 
@@ -81,7 +81,7 @@ La versión del producto con la menor cantidad de características que permite e
 El MVP no es un producto malo. Es un producto enfocado: tiene exactamente lo necesario para probar la hipótesis más crítica del negocio.
 
 **El ejemplo de Dropbox:**
-Antes de construir el producto, Drew Houston grabó un video de tres minutos mostrando cómo funcionaría. El video generó 75.000 registros de personas interesadas en probar el producto. El MVP fue el video, no la aplicación. La lista de espera demostró que había demanda antes de invertir en el desarrollo.
+Antes de construir el producto, Drew Houston grabó un video de tres minutos mostrando cómo funcionaría. El video genero 75.000 registros de personas interesadas en probar el producto. El MVP fue el video, no la aplicación. La lista de espera demostró que había demanda antes de invertir en el desarrollo.
 
 ---
 
@@ -147,7 +147,7 @@ Un equipo que quiere cambiar su proceso de revisión puede probar el nuevo proce
 **Comunicación:**
 Un formato de informe nuevo puede probarse en un equipo pequeño antes de implementarse en toda la organización.
 
-Isabel usó el prototipado para diseñar el nuevo proceso de incorporación de empleados. En lugar de diseñar el proceso completo e implementarlo de golpe, diseñó la primera semana y la implementó con los dos siguientes contratados. El feedback de esos dos contratados mejoró el diseño antes de la implementación a escala.
+Isabel uso el prototipado para diseñar el nuevo proceso de incorporación de empleados. En lugar de diseñar el proceso completo e implementarlo de golpe, diseñó la primera semana y la implementó con los dos siguientes contratados. El feedback de esos dos contratados mejoro el diseño antes de la implementación a escala.
 
 ---
 
@@ -178,7 +178,7 @@ En las dos semanas siguientes, ofreció consultoría estratégica ad hoc a dos c
 
 Lo que había planificado ofrecer no era lo que los clientes necesitaban. Lo que sí necesitaban era algo diferente y más específico.
 
-Rediseñó el servicio basándose en lo aprendido. El servicio que lanzó seis semanas después era radicalmente diferente al que había estado planeando. Y funcionó.
+Rediseñó el servicio basándose en lo aprendido. El servicio que lanzo seis semanas después era radicalmente diferente al que había estado planeando. Y funcionó.
 
 ---
 

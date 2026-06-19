@@ -8,7 +8,7 @@
 
 ## Prólogo: El estudio que duró 80 años
 
-En 1938, la Universidad de Harvard comenzó el estudio más largo sobre la felicidad y la salud humanas jamás realizado.
+En 1938, la Universidad de Harvard comenzo el estudio más largo sobre la felicidad y la salud humanas jamás realizado.
 
 Siguió a 724 personas durante ochenta años, registrando su estado de salud, su vida profesional, sus relaciones y su bienestar.
 
@@ -91,7 +91,7 @@ Para las personas que tienen pareja, esa relación es frecuentemente la más det
 Las investigaciones sobre carrera y rendimiento muestran consistentemente que el apoyo de la pareja es uno de los factores más determinantes del éxito a largo plazo. No porque la pareja haga el trabajo: sino porque el apoyo emocional y logístico que proporciona libera energía cognitiva y emocional para el trabajo.
 
 **Los errores frecuentes:**
-- Tratar la relación de pareja como la que puede esperar cuando el trabajo es intenso
+- Tratar la relación de pareja cómo la que puede esperar cuando el trabajo es intenso
 - Reservar las peores versiones de uno mismo para casa (lo que no se haría con un colega)
 - No invertir en la relación durante los períodos buenos, y esperar que funcione durante los difíciles
 
@@ -110,7 +110,7 @@ La mayoría de los adultos tiene menos amistades cercanas de lo que desearía. U
 **La solución:**
 No hay atajos. Las amistades adultas requieren iniciativa activa, regularidad de contacto y la disposición a ser vulnerable aunque no sea el momento ideal.
 
-Rubén identificó tres personas con quienes quería mantener amistad activa. Se comprometió con contacto mensual mínimo. No siempre presencial: llamadas, mensajes con contenido real, no solo "¿cómo estás?".
+Rubén identifico tres personas con quienes quería mantener amistad activa. Se comprometió con contacto mensual mínimo. No siempre presencial: llamadas, mensajes con contenido real, no solo "¿cómo estás?".
 
 En un año, las tres relaciones habían mejorado significativamente. Y él también.
 
@@ -162,7 +162,7 @@ No toda relación agotadora debe eliminarse: algunas son familiares o laborales 
 
 ## Capítulo 10: El rediseño relacional de Elena
 
-Elena hizo un audit de sus relaciones. Listó las personas más importantes en su vida y calculó cuánto tiempo había invertido en cada una en los últimos seis meses.
+Elena hizo un audit de sus relaciones. Listó las personas más importantes en su vida y calculo cuánto tiempo había invertido en cada una en los últimos seis meses.
 
 El resultado fue incómodo: las personas más importantes estaban recibiendo la menor inversión. Su pareja, sus amigos más cercanos, su familia. Los contactos profesionales y las redes de trabajo, la mayor parte.
 

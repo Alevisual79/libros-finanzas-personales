@@ -8,7 +8,7 @@
 
 ## Prólogo: El secreto que no es un secreto
 
-Rubén pasó años buscando el "secreto" de las personas que logran mucho. Leyó biografías, escuchó podcasts, siguió a emprendedores exitosos en redes sociales.
+Rubén paso años buscando el "secreto" de las personas que logran mucho. Leyó biografías, escuchó podcasts, siguio a emprendedores exitosos en redes sociales.
 
 Lo que encontró, eventualmente, fue frustrante en su simplicidad: no había secreto. Había hábitos. Rutinas aburridas repetidas con consistencia extraordinaria.
 
@@ -38,10 +38,10 @@ Las investigaciones de Brendon Burchard (autor de "High Performance Habits") y o
 Las personas de alto rendimiento tienen claridad excepcional sobre lo que quieren lograr. No "quiero tener más éxito": "quiero publicar mi primer libro antes de diciembre". La claridad convierte la motivación vaga en dirección concreta.
 
 **Generación proactiva de energía:**
-No esperan tener energía para actuar. Gestionan activamente su energía física, emocional y mental como un recurso.
+No esperan tener energía para actuar. Gestionan activamente su energía física, emocional y mental cómo un recurso.
 
 **Necesidad de productividad, no de actividad:**
-Distinguen entre estar ocupados y producir resultados. Se preguntan constantemente: "¿Esto avanza hacia mis objetivos?"
+Distinguen entre estar ocupados y producir resultados. Se preguntan constantemente: "¿Esto avanza hacía mis objetivos?"
 
 **Influencia intencional:**
 Son conscientemente cuidadosos de con quién pasan el tiempo y qué influencias permiten en su entorno.
@@ -53,7 +53,7 @@ No esperan a estar completamente seguros para actuar. Actúan con incertidumbre 
 
 ## Capítulo 3: El bucle del hábito — la mecánica
 
-Charles Duhigg popularizó el modelo del bucle del hábito en "El poder de los hábitos":
+Charles Duhigg popularizó el modeló del bucle del hábito en "El poder de los hábitos":
 
 **Señal → Rutina → Recompensa**
 
@@ -74,7 +74,7 @@ Las investigaciones de Burchard identifican seis hábitos que separan consistent
 
 2. **Generar energía:** Rutinas de movimiento físico, descanso adecuado, gestión emocional.
 
-3. **Generar necesidad:** Aumentar el nivel de urgencia interna hacia los objetivos. Conectar el trabajo con el propósito.
+3. **Generar necesidad:** Aumentar el nivel de urgencia interna hacía los objetivos. Conectar el trabajo con el propósito.
 
 4. **Aumentar la productividad:** Hacer el trabajo más importante con la mejor concentración disponible.
 
@@ -120,14 +120,14 @@ Los hábitos no ocurren en el vacío. Ocurren en respuesta al entorno.
 Las señales que disparan los hábitos suelen ser elementos del entorno: la cocina dispara el hábito de picar, el sofá dispara el de ver televisión, el escritorio dispara el de revisar el correo.
 
 **Diseñar para el hábito:**
-- Para facilitar un hábito deseado: hacer la señal más visible y la rutina más accesible. Las zapatillas de deporte junto a la cama son la señal para el hábito de ejercicio matutino.
+- Para facilitar un hábito deseado: hacer la señal más visible y la rutina más accesible. Las zapatillas de deporte juntó a la cama son la señal para el hábito de ejercicio matutino.
 - Para dificultar un hábito indeseado: aumentar la fricción. El teléfono en otra habitación hace el hábito de mirarlo más difícil.
 
 ---
 
 ## Capítulo 8: Los hábitos de Elena
 
-Elena identificó los hábitos que distinguían sus mejores semanas de sus peores:
+Elena identifico los hábitos que distinguían sus mejores semanas de sus peores:
 
 - Las mejores semanas empezaban con una revisión semanal el domingo por la tarde
 - Las mejores semanas incluían al menos tres bloques de trabajo profundo de 90 minutos
@@ -158,7 +158,7 @@ El hábito pequeño sobrevive a la caída de la motivación.
 
 ## Capítulo 10: Los sistemas de Isabel
 
-Isabel tuvo una conversación con el mentor que cambió su perspectiva sobre los hábitos.
+Isabel tuvo una conversación con el mentor que cambio su perspectiva sobre los hábitos.
 
 "¿Cuántos de tus logros más importantes vinieron de una sola decisión?" preguntó el mentor.
 
@@ -174,7 +174,7 @@ Isabel dejó de buscar el gran gesto que cambiaría todo. Empezó a preguntar: "
 
 Los objetivos son útiles como dirección. Los hábitos son los que producen el movimiento.
 
-No son las personas con los mejores objetivos las que logran más. Son las personas con los mejores sistemas: comportamientos repetidos que, independientemente de la motivación del día, las llevan hacia donde quieren ir.
+No son las personas con los mejores objetivos las que logran más. Son las personas con los mejores sistemas: comportamientos repetidos que, independientemente de la motivación del día, las llevan hacía donde quieren ir.
 
 ---
 

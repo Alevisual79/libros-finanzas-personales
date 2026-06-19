@@ -28,7 +28,7 @@ Sin entrenamiento de fuerza, se pierden 3-5% de masa muscular por década. El m�
 
 **Hormonas:**
 - **Testosterona (hombres):** Declive de 1-2% anual a partir de los 30. Acelerado en sedentarismo, obesidad y estrés crónico.
-- **Estrógenos (mujeres):** Reducción progresiva hacia la menopausia. Puede comenzar a afectar 10 años antes (perimenopausia).
+- **Estrógenos (mujeres):** Reducción progresiva hacía la menopausia. Puede comenzar a afectar 10 años antes (perimenopausia).
 - **Hormona de crecimiento:** Declive significativo después de los 30.
 
 **Recuperación:**
@@ -175,13 +175,13 @@ Uno de los procesos más relevantes del envejecimiento es el "inflammaging": inf
 
 ## Capítulo 10: Los 40 como punto de partida, no de declive
 
-Hay una narrativa cultural sobre los 40 que los presenta como el inicio del declive.
+Hay una narrativa cultural sobre los 40 que los presenta como el inició del declive.
 
 La biología no lo apoya necesariamente.
 
 Las personas que llegan a los 40 con buenos hábitos establecidos, que mantienen el ejercicio (especialmente fuerza), cuidan la alimentación y el sueño, y gestionan el estrés, pueden tener a los 50 la funcionalidad y la salud de alguien de 35.
 
-Los 40 pueden ser, con la información adecuada y los hábitos correctos, el inicio de las décadas más sanas de la vida.
+Los 40 pueden ser, con la información adecuada y los hábitos correctos, el inició de las décadas más sanas de la vida.
 
 ---
 

@@ -41,7 +41,7 @@ La sensibilidad a la insulina es mayor por la mañana y al mediodía. El mismo d
 A partir de las 8-9 de la tarde, la sensibilidad a la insulina cae. Las mismas calorías de hidratos de carbono tomadas de noche producen picos de glucemia más altos y más prolongados, mayor secreción de insulina y mayor tendencia al almacenamiento como grasa.
 
 **La implicación:**
-El desayuno es la comida en que el cuerpo "espera" la mayor ingesta de carbohidratos. La cena debería ser la más ligera, especialmente en carbohidratos. Esta es la base biológica del principio clásico de "desayunar como un rey, comer como un príncipe y cenar como un mendigo".
+El desayuno es la comida en que el cuerpo "espera" la mayor ingesta de carbohidratos. La cena debería ser la más ligera, especialmente en carbohidratos. Esta es la base biológica del principio clásico de "desayunar cómo un rey, comer cómo un príncipe y cenar cómo un mendigo".
 
 ---
 
@@ -107,7 +107,7 @@ El trabajo nocturno es una de las exposiciones más dañinas para la salud metab
 La desincronización crónica entre el reloj biológico (programado para estar activo de día) y el horario forzado (activo de noche) afecta a todos los ritmos metabólicos, inmunológicos y hormonales.
 
 **Lo que puede ayudar (pero no soluciona el problema):**
-Mantener el horario de comidas alineado en la medida de lo posible con el ciclo de actividad. No comer en medio de la noche si es posible. Proteger el sueño diurno (Libro 23). Estrategias de luz (exposición a luz brillante al inicio del turno nocturno, reducción de luz al final).
+Mantener el horario de comidas alineado en la medida de lo posible con el ciclo de actividad. No comer en medio de la noche si es posible. Proteger el sueño diurno (Libro 23). Estrategias de luz (exposición a luz brillante al inició del turno nocturno, reducción de luz al final).
 
 ---
 

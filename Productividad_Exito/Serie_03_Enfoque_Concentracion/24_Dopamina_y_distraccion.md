@@ -76,7 +76,7 @@ Un documento complejo que hay que analizar no tiene las características de un f
 Para un cerebro bien entrenado en la búsqueda dopaminérgica digital, el trabajo profundo se siente, literalmente, aburrido y sin recompensa.
 
 **El resultado:**
-El cerebro busca activamente escapar del trabajo profundo hacia fuentes de mayor estimulación dopaminérgica. Este escape se siente como una necesidad, no como una elección.
+El cerebro busca activamente escapar del trabajo profundo hacía fuentes de mayor estimulación dopaminérgica. Este escape se siente cómo una necesidad, no cómo una elección.
 
 El umbral de tolerancia al aburrimiento determina la capacidad de trabajo profundo.
 
@@ -108,7 +108,7 @@ Los objetivos claros con puntos de verificación intermedios generan pequeñas d
 La aplicación de hábitos que muestra una racha visual de días consecutivos de práctica usa la dopamina a favor: completar el día para no "romper la racha" genera anticipación de la recompensa visual.
 
 **El desafío autoimputado:**
-Ponerse metas ligeramente por encima de la capacidad actual (como se vio con el flujo) activa el sistema de búsqueda dopaminérgica hacia el objetivo del trabajo, en lugar de hacia el teléfono.
+Ponerse metas ligeramente por encima de la capacidad actual (cómo se vió con el flujo) activa el sistema de búsqueda dopaminérgica hacía el objetivo del trabajo, en lugar de hacía el teléfono.
 
 ---
 
@@ -118,9 +118,9 @@ Rubén llevaba meses intentando no mirar el teléfono durante el trabajo. Fracas
 
 La solución no fue más disciplina. Fue un cambio físico: el teléfono va a otra habitación antes de empezar a trabajar.
 
-Sin el teléfono al alcance, el trigger físico desaparece. El circuito dopaminérgico no tiene objeto hacia el que dirigirse. El impulso de mirar el teléfono sigue apareciendo (y con él, una pequeña incomodidad), pero sin el objeto disponible, se disuelve en segundos.
+Sin el teléfono al alcance, el trigger físico desaparece. El circuito dopaminérgico no tiene objeto hacía el que dirigirse. El impulso de mirar el teléfono sigue apareciendo (y con él, una pequeña incomodidad), pero sin el objeto disponible, se disuelve en segundos.
 
-Dos semanas después del cambio, Rubén notó algo más: la incomodidad de no mirar el teléfono durante el trabajo había disminuido significativamente. El umbral estaba recalibrándose.
+Dos semanas después del cambio, Rubén noto algo más: la incomodidad de no mirar el teléfono durante el trabajo había disminuido significativamente. El umbral estaba recalibrándose.
 
 ---
 

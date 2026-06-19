@@ -29,7 +29,7 @@ Rápido, automático, intuitivo, sin esfuerzo. Procesa la mayoría de las situac
 Lento, consciente, requiere esfuerzo. Es el que usas para resolver un problema matemático complejo, tomar una decisión difícil o aprender algo nuevo. Se agota con el uso.
 
 **El problema:**
-El Sistema 1 no distingue bien entre lo urgente y lo importante, entre lo que te da satisfacción inmediata y lo que te acerca a tus objetivos a largo plazo. El Sistema 1 te lleva al correo porque en el pasado el correo produjo algún tipo de recompensa (resolver algo, sentir que avanzabas). Ahora lo hace por defecto.
+El Sistema 1 no distingue bien entre lo urgente y lo importante, entre lo que te da satisfacción inmediata y lo que te acerca a tus objetivos a largo plazo. El Sistema 1 te lleva al correo porque en el pasado el correo produjó algún tipo de recompensa (resolver algo, sentir que avanzabas). Ahora lo hace por defecto.
 
 Para cambiar el comportamiento, no basta con querer hacerlo. Hay que cambiar los sistemas.
 
@@ -50,7 +50,7 @@ Charles Duhigg describió en "El poder de los hábitos" el mecanismo central: se
 Para Elena, abrir el ordenador es la señal que dispara la rutina de abrir el correo. Lo ha hecho miles de veces. El hábito está tan grabado que la decisión de trabajar en arquitectura no compite en igualdad de condiciones con la rutina automática de abrir el correo.
 
 **Cambiar el hábito:**
-No se puede borrar un hábito. Se puede reemplazar: misma señal, misma recompensa, rutina diferente. Si Elena configura el ordenador para que abra directamente el archivo de arquitectura en lugar del cliente de correo, cambia la señal. El primer paso del autopiloto cambia de dirección.
+No se puede borrar un hábito. Se puede reemplazar: misma señal, misma recompensa, rutina diferente. Si Elena configura el ordenador para qué abra directamente el archivo de arquitectura en lugar del cliente de correo, cambia la señal. El primer paso del autopiloto cambia de dirección.
 
 ---
 
@@ -98,7 +98,7 @@ El cerebro emocional y el cerebro racional no son departamentos separados. Las e
 El estrés moderado puede mejorar el rendimiento en tareas mecánicas y conocidas. Deteriora el rendimiento en tareas cognitivas complejas, creativas y que requieren pensamiento flexible.
 
 **Las emociones negativas y el foco:**
-La ira, la ansiedad y el miedo estrechan el foco atencional hacia la amenaza. Esto es útil cuando hay un peligro real; es contraproducente cuando se necesita pensamiento amplio, creativo y estratégico.
+La ira, la ansiedad y el miedo estrechan el foco atencional hacía la amenaza. Esto es útil cuando hay un peligro real; es contraproducente cuando se necesita pensamiento amplio, creativo y estratégico.
 
 **Las emociones positivas y la creatividad:**
 Las investigaciones de Barbara Fredrickson muestran que las emociones positivas "amplían y construyen": amplían el repertorio de pensamiento y acción disponible, y construyen recursos cognitivos y sociales a largo plazo.
@@ -148,7 +148,7 @@ El metaconocimiento es pensar sobre cómo piensas. Es la capacidad de observar l
 - Ajustar deliberadamente los comportamientos antes de que sea demasiado tarde
 
 **Cómo desarrollarlo:**
-La reflexión periódica (journaling, revisión semanal) es la práctica principal. Registrar qué hiciste, cuándo lo hiciste, cómo te sentías y qué resultados produjo crea datos sobre los propios patrones.
+La reflexión periódica (journaling, revisión semanal) es la práctica principal. Registrar qué hiciste, cuándo lo hiciste, cómo te sentías y qué resultados produjó crea datos sobre los propios patrones.
 
 ---
 
@@ -172,9 +172,9 @@ Los cambios de comportamiento que no tienen en cuenta la biología del cerebro n
 
 ## Capítulo 10: Elena y el primer cambio
 
-Elena tomó una sola decisión: configurar su ordenador para que abriera el archivo de arquitectura al arrancar, con el correo cerrado.
+Elena tomó una sola decisión: configurar su ordenador para qué abriera el archivo de arquitectura al arrancar, con el correo cerrado.
 
-No cambió su voluntad. Cambió su entorno.
+No cambio su voluntad. Cambió su entorno.
 
 La primera semana, abrió el correo después de veinte minutos. La segunda, después de cuarenta y cinco. La tercera, acababa de tener la primera sesión de tres horas ininterrumpidas en el proyecto de arquitectura que llevaba semanas parado.
 

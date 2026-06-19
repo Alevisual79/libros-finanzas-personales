@@ -100,7 +100,7 @@ Su semana diseñada:
 - 16-17 cada día: gestión de correo y comunicaciones
 - Viernes tarde: revisión semanal y planificación
 
-La primera semana que lo implementó, Rubén produjo más contenido que en las dos semanas anteriores combinadas.
+La primera semana que lo implementó, Rubén produjó más contenido que en las dos semanas anteriores combinadas.
 
 ---
 

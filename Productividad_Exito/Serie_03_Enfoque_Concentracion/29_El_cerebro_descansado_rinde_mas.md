@@ -30,7 +30,7 @@ El cerebro es un órgano biológico que:
 - Tiene sistemas de recuperación que solo funcionan durante el descanso y el sueño
 - Tiene rendimiento cognitivo que varía significativamente a lo largo del día y en función del descanso previo
 
-Tratar el cerebro como una máquina que puede funcionar continuamente sin degradación es una estrategia que fracasa, siempre, eventualmente.
+Tratar el cerebro cómo una máquina que puede funcionar continuamente sin degradación es una estrategia que fracasa, siempre, eventualmente.
 
 ---
 
@@ -63,7 +63,7 @@ Trabajar contra el ritmo circadiano no es solo incómodo: produce rendimiento in
 
 ## Capítulo 4: La técnica Pomodoro y los descansos programados
 
-Francesco Cirillo desarrolló la técnica Pomodoro en los años ochenta: bloques de trabajo de 25 minutos seguidos de descansos de 5 minutos, con un descanso más largo cada cuatro "pomodoros".
+Francesco Cirillo desarrollo la técnica Pomodoro en los años ochenta: bloques de trabajo de 25 minutos seguidos de descansos de 5 minutos, con un descanso más largo cada cuatro "pomodoros".
 
 **Por qué funciona:**
 - Los bloques de tiempo definidos crean urgencia que reduce la procrastinación
@@ -136,7 +136,7 @@ La mayoría de adultos necesita entre 7 y 9 horas. El 1-3% de la población tien
 Hay un tipo de descanso con efectos especialmente valiosos para el trabajo creativo: el descanso sin estimulación.
 
 **La red de modo por defecto:**
-Como se mencionó en el libro sobre flujo, cuando el cerebro descansa sin estimulación activa, activa una red asociada con el pensamiento creativo, la planificación y la consolidación de aprendizajes.
+Cómo se mencionó en el libro sobre flujo, cuando el cerebro descansa sin estimulación activa, activa una red asociada con el pensamiento creativo, la planificación y la consolidación de aprendizajes.
 
 Muchas de las "mejores ideas" que las personas reportan tener en la ducha, durante el ejercicio o justo al despertar ocurren porque en esos momentos la red de modo por defecto está activa.
 
@@ -166,7 +166,7 @@ Elena tomó por primera vez en años unas vacaciones reales: sin ordenador, sin 
 
 La primera semana fue incómoda. El impulso de revisar el correo era fuerte. La sensación de estar "desconectada" generaba ansiedad.
 
-La segunda semana, algo cambió. La mente empezó a generar ideas de formas que no ocurrían durante el trabajo. Conexiones entre problemas y soluciones que llevaban meses sin aparecer.
+La segunda semana, algo cambio. La mente empezó a generar ideas de formas que no ocurrían durante el trabajo. Conexiones entre problemas y soluciones que llevaban meses sin aparecer.
 
 El primer día de vuelta al trabajo, Elena resolvió en dos horas un problema de arquitectura que llevaba dos semanas bloqueado.
 

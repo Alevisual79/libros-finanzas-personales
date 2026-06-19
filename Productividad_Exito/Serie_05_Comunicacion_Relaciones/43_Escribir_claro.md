@@ -81,7 +81,7 @@ Si al leer en voz alta se necesita tomar aire antes de terminar la frase, es dem
 
 ## Capítulo 5: La voz activa y la voz pasiva
 
-La voz pasiva ("El informe fue presentado por el equipo") es más larga, más vaga y más difícil de procesar que la voz activa ("El equipo presentó el informe").
+La voz pasiva ("El informe fue presentado por el equipo") es más larga, más vaga y más difícil de procesar que la voz activa ("El equipo presento el informe").
 
 La voz pasiva tiene un uso legítimo: cuando el agente es irrelevante o desconocido ("El edificio fue construido en 1980").
 
@@ -103,7 +103,7 @@ El correo es el formato de escritura más frecuente en el trabajo. Y el más mal
 - **Brevedad:** Si requiere más de tres párrafos, considerar si es mejor una llamada
 - **Acción clara:** Si se necesita una respuesta o acción, especificarla con claridad: quién, qué, cuándo
 
-Elena redujo la longitud media de sus correos a un tercio. El número de correos de vuelta pidiendo aclaraciones cayó en un 60%.
+Elena redujó la longitud media de sus correos a un tercio. El número de correos de vuelta pidiendo aclaraciones cayó en un 60%.
 
 ---
 
@@ -133,7 +133,7 @@ Los documentos de trabajo —propuestas, informes, especificaciones, briefs— t
 Los lectores con poco tiempo leen el resumen ejecutivo y deciden si necesitan leer más. Un resumen ejecutivo bien escrito tiene: el problema, la solución propuesta, los beneficios esperados, los recursos necesarios y la recomendación. Todo en una página.
 
 **Los headers y el escaneo:**
-Los documentos de trabajo se escanean antes de leerse. Los encabezados claros y descriptivos (no "Sección 3: Análisis" sino "Los clientes priorizan velocidad sobre precio") permiten al lector navegar hacia lo que más importa.
+Los documentos de trabajo se escanean antes de leerse. Los encabezados claros y descriptivos (no "Sección 3: Análisis" sino "Los clientes priorizan velocidad sobre precio") permiten al lector navegar hacía lo que más importa.
 
 **Las listas:**
 Los bullets y las listas numeradas facilitan la lectura de información que se procesa mejor en formato paralelo. Pero las listas de más de siete u ocho elementos pierden efectividad.
@@ -175,7 +175,7 @@ Un colega le preguntó cuál era el secreto.
 
 ## Epílogo: La claridad como respeto
 
-Escribir claro es un acto de respeto hacia el lector. Le dice: me he tomado el tiempo de organizar mis ideas para que tú no tengas que hacerlo.
+Escribir claro es un acto de respeto hacía el lector. Le dice: me he tomado el tiempo de organizar mis ideas para qué tú no tengas que hacerlo.
 
 En un mundo donde la atención es escasa, la claridad es cortesía y efectividad al mismo tiempo.
 

@@ -12,9 +12,9 @@ Carmen entró en la menopausia a los 51 años. Las sofocos empezaron seis meses 
 
 Cuando fue a su médico de cabecera, le dijeron que era "normal". Que había que "aguantar". Le recetaron ansiolíticos para dormir.
 
-Nadie le habló de las opciones terapéuticas reales. Nadie le explicó que la menopausia es un cambio hormonal con consecuencias orgánicas concretas y tratamientos efectivos.
+Nadie le habló de las opciones terapéuticas reales. Nadie le explico que la menopausia es un cambio hormonal con consecuencias orgánicas concretas y tratamientos efectivos.
 
-Este libro es lo que Carmen necesitó que alguien le explicara.
+Este libro es lo que Carmen necesito que alguien le explicara.
 
 ---
 
@@ -75,7 +75,7 @@ Los estrógenos no protegen solo el sistema reproductor. Tienen efectos en múlt
 Los estrógenos tienen efectos cardioprotectores: regulan el perfil lipídico (elevan el HDL, bajan el LDL), modulan la función endotelial y tienen efectos antiinflamatorios. Tras la menopausia, el riesgo cardiovascular de la mujer aumenta progresivamente hasta igualar el del hombre.
 
 **Óseo:**
-Como se describió en el libro anterior, la menopausia acelera la pérdida ósea durante 5-10 años.
+Cómo se describió en el libro anterior, la menopausia acelera la pérdida ósea durante 5-10 años.
 
 **Neurológico:**
 Los estrógenos tienen efectos neuroprotectores. La menopausia precoz se asocia con mayor riesgo de demencia.
@@ -90,7 +90,7 @@ La distribución de la grasa cambia: de gineoide (caderas y muslos) a androide (
 La terapia hormonal de la menopausia (THM) es el tratamiento más eficaz para los síntomas menopáusicos. Y uno de los más injustificadamente temidos.
 
 **La historia:**
-En 2002, el estudio WHI (Women's Health Initiative) publicó resultados que produjeron pánico: la THM aumentaba el riesgo de cáncer de mama, infarto y ictus. El titular generó millones de abandonos del tratamiento.
+En 2002, el estudio WHI (Women's Health Initiative) publico resultados que produjeron pánico: la THM aumentaba el riesgo de cáncer de mama, infarto y ictus. El titular genero millones de abandonos del tratamiento.
 
 **Lo que el WHI hizo mal:**
 Usó mujeres de 63 años de media (muchos años después de la menopausia). Usó estrógenos conjugados de equino + medroxiprogesterona acetato (progestágeno sintético). No representaba a las mujeres perimenopaúsicas o recién menopáusicas que son la indicación principal.
@@ -111,7 +111,7 @@ El riesgo asociado a la THM depende del tipo:
 - Estrógenos + progestágenos sintéticos: pequeño aumento del riesgo (comparable al de beber 1 copa de alcohol al día)
 
 **El útero importa:**
-Las mujeres con útero necesitan progesterona junto con los estrógenos para proteger el endometrio. Las que no tienen útero (histerectomía) pueden tomar estrógenos solos, con mejor perfil de riesgo.
+Las mujeres con útero necesitan progesterona juntó con los estrógenos para proteger el endometrio. Las que no tienen útero (histerectomía) pueden tomar estrógenos solos, con mejor perfil de riesgo.
 
 ---
 

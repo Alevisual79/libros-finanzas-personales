@@ -6,9 +6,9 @@
 
 ---
 
-## Prólogo: La reunión que cambió la dirección equivocada
+## Prólogo: La reunión que cambio la dirección equivocada
 
-Isabel presentó a su equipo un análisis detallado que justificaba una decisión organizacional importante. Los datos eran reales. La lógica, aparentemente sólida.
+Isabel presento a su equipo un análisis detallado que justificaba una decisión organizacional importante. Los datos eran reales. La lógica, aparentemente sólida.
 
 Después de la reunión, uno de los analistas junior le hizo una pregunta que nadie había hecho: "¿Estamos viendo solo los casos donde esto funcionó, o también los casos donde no funcionó?"
 
@@ -18,11 +18,11 @@ La decisión se revirtió. Y Isabel empezó a tomarse el pensamiento crítico en
 
 ---
 
-## Capítulo 1: Qué es el pensamiento crítico y por qué no se practica
+## Capítulo 1: Qué es el pensamiento crítico y por qué no se práctica
 
 El pensamiento crítico es la capacidad de evaluar argumentos, información y creencias de forma sistemática, identificando sus fortalezas, sus debilidades y los sesgos que los afectan.
 
-**Por qué no se practica por defecto:**
+**Por qué no se práctica por defecto:**
 El cerebro humano no está diseñado para el pensamiento crítico. Está diseñado para la supervivencia eficiente, que requiere tomar decisiones rápidas con información incompleta.
 
 El resultado: atajos cognitivos (heurísticas) que funcionan bien en entornos simples pero producen errores sistemáticos en entornos complejos. Estos errores sistemáticos son los sesgos cognitivos.
@@ -130,7 +130,7 @@ El "devil's advocate": ¿cuál es el argumento más fuerte contra la posición q
 Las reuniones son uno de los entornos más hostiles al pensamiento crítico: la presión social, la jerarquía, el deseo de consenso rápido y el pensamiento de grupo trabajan en contra del cuestionamiento.
 
 **El pensamiento de grupo (groupthink):**
-El fenómeno donde los grupos toman decisiones más pobres que las que tomaría cualquiera de sus miembros individualmente, porque la presión hacia el consenso suprime el pensamiento crítico individual.
+El fenómeno donde los grupos toman decisiones más pobres que las que tomaría cualquiera de sus miembros individualmente, porque la presión hacía el consenso suprime el pensamiento crítico individual.
 
 **Las técnicas de contrarrestarlo:**
 - El abogado del diablo designado: una persona con el rol explícito de cuestionar la propuesta dominante

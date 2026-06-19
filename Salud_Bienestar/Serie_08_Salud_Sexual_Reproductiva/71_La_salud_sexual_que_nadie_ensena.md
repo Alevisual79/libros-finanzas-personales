@@ -6,9 +6,9 @@
 
 ---
 
-## Prólogo: Lo que nadie nos explicó
+## Prólogo: Lo que nadie nos explico
 
-Laura recibió educación sexual en el colegio. Una hora de biología reproductiva con términos técnicos y un condón en un plátano.
+Laura recibio educación sexual en el colegio. Una hora de biología reproductiva con términos técnicos y un condón en un plátano.
 
 No le explicaron cómo funciona el deseo. Ni cómo comunicarse con una pareja. Ni qué es el consentimiento más allá de "no es no". Ni cómo cambia la sexualidad después de los hijos, después de los cuarenta, después de una enfermedad.
 
@@ -35,11 +35,11 @@ La sexualidad cambia en cada etapa de la vida: adolescencia, adultez, maternidad
 
 ## Capítulo 2: El deseo sexual — cómo funciona realmente
 
-**El modelo de respuesta sexual:**
-El modelo clásico de Masters y Johnson describía una secuencia lineal: deseo → excitación → meseta → orgasmo → resolución. Útil pero simplificado.
+**El modeló de respuesta sexual:**
+El modeló clásico de Masters y Johnson describía una secuencia lineal: deseo → excitación → meseta → orgasmo → resolución. Útil pero simplificado.
 
-**El modelo circular (Basson):**
-La psicóloga Rosemary Basson propuso un modelo más realista, especialmente para las mujeres: el deseo no siempre precede a la excitación. En las relaciones establecidas, muchas personas (especialmente mujeres) empiezan con una predisposición neutral y el deseo emerge después de la estimulación física y emocional.
+**El modeló circular (Basson):**
+La psicóloga Rosemary Basson propuso un modeló más realista, especialmente para las mujeres: el deseo no siempre precede a la excitación. En las relaciones establecidas, muchas personas (especialmente mujeres) empiezan con una predisposición neutral y el deseo emerge después de la estimulación física y emocional.
 
 **El deseo espontáneo vs. el reactivo:**
 El deseo espontáneo: surge sin estímulo externo evidente. Más frecuente en hombres y en fases iniciales de las relaciones.
@@ -60,10 +60,10 @@ El deseo reactivo: emerge en respuesta a estímulos sexuales o al contacto. Igua
 
 ## Capítulo 3: El consentimiento — más allá del "no es no"
 
-El paradigma del consentimiento ha evolucionado en los últimos años hacia un modelo más complejo y más útil.
+El paradigma del consentimiento ha evolucionado en los últimos años hacía un modeló más complejo y más útil.
 
 **El consentimiento como proceso activo:**
-El consentimiento no es solo la ausencia de "no". Es la presencia activa y entusiasta de un "sí". El modelo FRIES (Planeado, Reversible, Informado, Entusiasta, Específico — Freely given, Reversible, Informed, Enthusiastic, Specific) describe las características del consentimiento genuino.
+El consentimiento no es solo la ausencia de "no". Es la presencia activa y entusiasta de un "sí". El modeló FRIES (Planeado, Reversible, Informado, Entusiasta, Específico — Freely given, Reversible, Informed, Enthusiastic, Specific) describe las características del consentimiento genuino.
 
 **Reversible:**
 El consentimiento puede retirarse en cualquier momento. Haber dicho sí antes no implica sí ahora. Esta dimensión es especialmente importante en relaciones establecidas.
@@ -99,7 +99,7 @@ Las parejas que se comunican sobre sexo tienen mayor satisfacción sexual y mayo
 
 **Los obstáculos:**
 - Vergüenza
-- Miedo al juicio o al rechazo
+- Miedo al juicio o al rechazó
 - No saber cómo hacerlo
 - Creer que la pareja "debería saberlo solo"
 - Haber construido un historial de no hablar de ello
@@ -129,7 +129,7 @@ La llegada de los hijos es uno de los mayores disruptores de la vida sexual de l
 **Lo que ayuda:**
 Hablar. Gestionar las expectativas. No esperar a que "vuelva a ser como antes" porque no volverá exactamente. Construir algo diferente.
 
-El deseo suele volver, aunque a veces tardía y gradualmente. La presión por que vuelva rápido lo retrasa.
+El deseo suele volver, aunque a veces tardía y gradualmente. La presión por qué vuelva rápido lo retrasa.
 
 ---
 

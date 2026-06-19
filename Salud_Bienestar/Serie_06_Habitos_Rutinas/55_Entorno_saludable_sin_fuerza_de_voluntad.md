@@ -21,7 +21,7 @@ La pregunta no es si el entorno influye en las decisiones: está demostrado que 
 Richard Thaler y Cass Sunstein desarrollaron el concepto de "nudge" (empujoncito) en su libro del mismo nombre: pequeños cambios en cómo se presentan las opciones que producen cambios significativos en las decisiones, sin prohibir ni obligar.
 
 **El ejemplo más famoso:**
-La cafetería de una empresa reorganizó la exposición de los alimentos: la fruta al nivel de los ojos, los postres menos saludables más difíciles de alcanzar. Sin cambiar nada más. Sin educación nutricional. Sin prohibir nada. El consumo de fruta aumentó un 35%.
+La cafetería de una empresa reorganizó la exposición de los alimentos: la fruta al nivel de los ojos, los postres menos saludables más difíciles de alcanzar. Sin cambiar nada más. Sin educación nutricional. Sin prohibir nada. El consumo de fruta aumento un 35%.
 
 **La implicación:**
 El diseño del entorno puede tener más impacto en la conducta que la motivación, la educación o la fuerza de voluntad. Es la palanca más poderosa y la menos usada.
@@ -75,7 +75,7 @@ Los estudios de Wansink también muestran que el tamaño del plato y del envase 
 
 La barrera más frecuente para el ejercicio no es la falta de ganas: es la fricción de iniciarlo.
 
-**Reducir la fricción del inicio:**
+**Reducir la fricción del inició:**
 - Apuntarse a un gimnasio que esté en el camino al trabajo (no el mejor: el más conveniente)
 - Tener la ropa de deporte preparada y visible
 - Pagar la cuota mensual (la pérdida económica de no ir activa la aversión a la pérdida)
@@ -122,8 +122,8 @@ Cada notificación es una interrupción del flujo de atención. El adulto promed
 **La acción más impactante:**
 Desactivar todas las notificaciones excepto las de personas específicas. No las de apps. Solo personas.
 
-**El diseño de la pantalla de inicio:**
-Las apps que se tienen en la pantalla de inicio del teléfono son las que más se usan. Reorganizar la pantalla poniendo las apps de salud, lectura y productividad visibles, y las de redes sociales en carpetas difíciles de encontrar, reduce el uso de estas últimas sin prohibirlas.
+**El diseño de la pantalla de inició:**
+Las apps que se tienen en la pantalla de inició del teléfono son las que más se usan. Reorganizar la pantalla poniendo las apps de salud, lectura y productividad visibles, y las de redes sociales en carpetas difíciles de encontrar, reduce el uso de estas últimas sin prohibirlas.
 
 **El tiempo de pantalla:**
 Usar las funciones de control de tiempo de pantalla (en iOS y Android) para establecer límites diarios en apps específicas. No como restricción moral: como diseño de entorno.
@@ -181,7 +181,7 @@ Hacer un recorrido consciente por el propio entorno con una pregunta: "¿Qué fa
 - ¿Hay libros o hay mandos?
 
 **El teléfono:**
-- ¿Qué apps están en la pantalla de inicio?
+- ¿Qué apps están en la pantalla de inició?
 - ¿Cuántas notificaciones activas hay?
 - ¿Cuánto tiempo de pantalla diario?
 
@@ -193,7 +193,7 @@ Miguel hizo el audit. Lo que encontró:
 - La cocina: galletas y snacks a la vista. La fruta, en un cajón.
 - El dormitorio: teléfono cargándose en la mesita.
 - El salón: sofá directo frente a la tele con el mando al lado.
-- El teléfono: 23 notificaciones activas, Instagram y Twitter en pantalla de inicio.
+- El teléfono: 23 notificaciones activas, Instagram y Twitter en pantalla de inició.
 
 Los cambios que hizo:
 - Fruta en el frutero, snacks en un cajón de atrás

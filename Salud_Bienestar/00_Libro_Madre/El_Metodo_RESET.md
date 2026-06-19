@@ -31,7 +31,7 @@ Laura tiene 41 años y está agotada.
 
 Trabaja como profesora. Tiene dos hijos. Está casada con David, que trabaja largas horas. El día de Laura empieza a las 6:30 y termina a las 11 de la noche cuando por fin se puede sentar.
 
-Lleva años durmiendo mal. Tiene 12 kilos más de los que tenía a los 30. La última vez que hizo ejercicio fue en el gym al que se apuntó en enero y al que fue tres semanas. Le duele la espalda. Toma café para funcionar y tiene el deseo constante de azúcar a las 4 de la tarde.
+Lleva años durmiendo mal. Tiene 12 kilos más de los que tenía a los 30. La última vez que hizo ejercicio fue en el gym al que se apunto en enero y al que fue tres semanas. Le duele la espalda. Toma café para funcionar y tiene el deseo constante de azúcar a las 4 de la tarde.
 
 Laura no es vaga. Es una persona capaz y organizada en su trabajo. Pero en su salud, ha estado usando el sistema equivocado.
 
@@ -86,7 +86,7 @@ El segundo paso es identificar y eliminar los hábitos, alimentos o patrones que
 
 No todo a la vez. El que más daña, primero.
 
-Laura identificó que el principal problema era el sueño: dormía 5 horas y eso afectaba su energía, su hambre (comía más azúcar para compensar), su humor y su capacidad de hacer ejercicio.
+Laura identifico que el principal problema era el sueño: dormía 5 horas y eso afectaba su energía, su hambre (comía más azúcar para compensar), su humor y su capacidad de hacer ejercicio.
 
 Eliminar el primer obstáculo no significa perfección. Significa reducir lo que más daña.
 
@@ -181,7 +181,7 @@ Es un proceso. Una práctica. Una forma de relacionarse con el cuerpo, la mente 
 
 El Método RESET no termina cuando se pierde el peso, se duerme bien o se reduce el estrés. Es la forma en que se vive.
 
-Y esa forma de vivir, construida con los pilares correctos, no se siente como sacrificio. Se siente como la versión de ti que querías ser.
+Y esa forma de vivir, construida con los pilares correctos, no se siente como sacrificio. Se siente cómo la versión de ti que querías ser.
 
 Los 100 libros de esta colección son el camino.
 

@@ -37,13 +37,13 @@ Las diez mil horas de práctica ordinaria no producen pericia. Las diez mil hora
 
 ## Capítulo 2: Los principios de la práctica deliberada
 
-Ericsson identificó los elementos que definen la práctica deliberada:
+Ericsson identifico los elementos que definen la práctica deliberada:
 
 **Objetivo específico de mejora:**
 No "practicar el piano" sino "trabajar el pasaje del compás 32 al 40 hasta que la transición entre las dos manos sea fluida". La vaguedad en el objetivo produce práctica vaga.
 
 **Esfuerzo y concentración plena:**
-La práctica deliberada es cognitivamente exigente. No se puede hacer en modo automático mientras se hace otra cosa. Requiere la atención completa dirigida hacia el elemento que se trabaja.
+La práctica deliberada es cognitivamente exigente. No se puede hacer en modo automático mientras se hace otra cosa. Requiere la atención completa dirigida hacía el elemento que se trabaja.
 
 **Salir de la zona de comodidad:**
 Practicar lo que ya se sabe hacer bien produce comodidad, no mejora. La práctica deliberada trabaja específicamente en los puntos de limitación, que son incómodos por definición.
@@ -168,7 +168,7 @@ Isabel empezó a grabar (con permiso) algunas de sus conversaciones de coaching 
 
 ## Capítulo 10: El trabajo de Rubén con el piano
 
-Rubén cambió su forma de practicar el piano.
+Rubén cambio su forma de practicar el piano.
 
 En lugar de tocar las piezas que ya sabía de principio a fin, empezó a trabajar los fragmentos donde cometía errores: los primeros diez compases del pasaje difícil, lentamente, hasta que salían bien, luego a velocidad. El mismo fragmento, veinte repeticiones, con atención completa en la ejecución correcta.
 

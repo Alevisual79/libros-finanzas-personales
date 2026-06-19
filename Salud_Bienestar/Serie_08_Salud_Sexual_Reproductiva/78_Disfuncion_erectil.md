@@ -18,7 +18,7 @@ El problema se asienta en el silencio. Y el silencio lo agrava.
 
 ## Capítulo 1: Qué es la disfunción eréctil
 
-La disfunción eréctil (DE) se define como la incapacidad persistente para conseguir o mantener una erección suficiente para una actividad sexual satisfactoria.
+La disfunción eréctil (DE) se define cómo la incapacidad persistente para conseguir o mantener una erección suficiente para una actividad sexual satisfactoria.
 
 **La prevalencia:**
 Afecta al 40% de los hombres de 40 años y al 70% de los de 70 años. Es uno de los problemas de salud sexual más frecuentes en hombres. Y uno de los menos consultados: la mayoría de los hombres con DE tarda más de 2 años en mencionarlo al médico.
@@ -54,7 +54,7 @@ Las arterias penianas tienen un diámetro de 1-2 mm. Las arterias coronarias tie
 La DE de causa vascular (la más frecuente) precede a la enfermedad cardiovascular clínica (infarto, angina) en una media de 3-5 años. En muchos casos, la DE es el primer síntoma de que la aterosclerosis está progresando.
 
 **El estudio de Princeton:**
-Los estudios del consenso de Princeton (Princeton Consensus) establecieron la DE como un equivalente cardiovascular: un hombre de mediana edad con DE y sin otra causa aparente tiene el mismo riesgo cardiovascular que alguien con angina de esfuerzo.
+Los estudios del consenso de Princeton (Princeton Consensus) establecieron la DE cómo un equivalente cardiovascular: un hombre de mediana edad con DE y sin otra causa aparente tiene el mismo riesgo cardiovascular que alguien con angina de esfuerzo.
 
 **La implicación clínica:**
 Un hombre con DE nueva o progresiva sin causa aparente debería tener una evaluación cardiovascular: tensión arterial, perfil lipídico, glucemia, estilo de vida, y en algunos casos, prueba de esfuerzo o estudios de imagen.
@@ -83,7 +83,7 @@ Muchos medicamentos producen DE como efecto secundario. Los más frecuentes: ant
 ## Capítulo 5: El diagnóstico
 
 **La historia clínica:**
-- ¿Desde cuándo? ¿Forma de inicio (gradual o brusca)?
+- ¿Desde cuándo? ¿Forma de inició (gradual o brusca)?
 - ¿Situacional (con cierta pareja, en ciertas situaciones) o generalizada?
 - ¿Hay erecciones nocturnas o matutinas? (Si las hay, sugiere causa psicológica más que vascular)
 - ¿Hay otros síntomas (dolor en el pecho al esfuerzo, claudicación, síntomas urinarios)?
@@ -114,7 +114,7 @@ Los IPDE5 no producen erección por sí solos: requieren estimulación sexual. S
 - **Sildenafilo (Viagra, genérico):** efecto en 30-60 min, duración 4-6 horas
 - **Tadalafilo (Cialis, genérico):** efecto en 15-45 min, duración 24-36 horas (o en dosis baja diaria, efecto continuo)
 - **Vardenafilo (Levitra, genérico):** similar al sildenafilo
-- **Avanafilo (Spedra):** más selectivo, inicio más rápido (15-30 min)
+- **Avanafilo (Spedra):** más selectivo, inició más rápido (15-30 min)
 
 **Los efectos secundarios:**
 Cefalea, rubefacción, congestión nasal, dispepsia: frecuentes pero leves. No tomar con nitratos (viagra + nitratos = hipotensión severa, potencialmente mortal).
@@ -163,10 +163,10 @@ Los IPDE5 pueden usarse temporalmente como "apoyo" mientras se trabaja psicológ
 La DE no afecta solo al hombre. Afecta también a la pareja.
 
 **El impacto en la pareja:**
-Las parejas de hombres con DE frecuentemente interpretan la dificultad eréctil como falta de atracción o como una señal de que "algo está mal en la relación". Esto puede producir distancia emocional, cese de la intimidad y problemas relacionales.
+Las parejas de hombres con DE frecuentemente interpretan la dificultad eréctil como falta de atracción o cómo una señal de que "algo está mal en la relación". Esto puede producir distancia emocional, cese de la intimidad y problemas relacionales.
 
 **La comunicación:**
-Hablar de la DE con la pareja es el primer paso para no enfrentarla solo. La pareja que entiende que la DE no es rechazo puede ser un apoyo y no un estresor adicional.
+Hablar de la DE con la pareja es el primer paso para no enfrentarla solo. La pareja que entiende que la DE no es rechazó puede ser un apoyo y no un estresor adicional.
 
 **La terapia de pareja:**
 Cuando la DE ha afectado significativamente la relación, la terapia de pareja (especialmente la terapia sexual de pareja) puede ser más eficaz que el tratamiento farmacológico solo.

@@ -123,7 +123,7 @@ Con estos 6 ejercicios bien ejecutados, se puede construir una base de fuerza co
 
 ---
 
-## Capítulo 7: Plan de inicio de 8 semanas
+## Capítulo 7: Plan de inició de 8 semanas
 
 Un plan sencillo para principiantes absolutos:
 

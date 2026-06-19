@@ -108,7 +108,7 @@ Poner la alarma solo para cuando realmente se va a levantar. Eliminar el snooze 
 
 ## Capítulo 7: La rutina de Rubén — mínima y sostenible
 
-Rubén intentó múltiples veces rutinas de mañana elaboradas que siempre abandonaba al mes. El error: eran demasiado ambiciosas.
+Rubén intento múltiples veces rutinas de mañana elaboradas que siempre abandonaba al mes. El error: eran demasiado ambiciosas.
 
 Su rutina mínima que sí se mantiene:
 1. Despertador a las 7:00 (sin snooze)

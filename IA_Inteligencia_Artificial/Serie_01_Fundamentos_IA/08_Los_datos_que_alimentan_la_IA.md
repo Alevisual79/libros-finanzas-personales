@@ -21,9 +21,9 @@ El problema: no sabía qué hacer con él. Ni siquiera sabía bien qué tenía.
 
 Los sistemas de IA no se inventan el conocimiento: lo extraen de los datos.
 
-Un modelo de diagnóstico médico aprende de millones de historiales clínicos. Un sistema de traducción aprende de miles de millones de pares de frases en distintos idiomas. Un LLM aprende de prácticamente todo el texto disponible en internet, libros y otras fuentes.
+Un modeló de diagnóstico médico aprende de millones de historiales clínicos. Un sistema de traducción aprende de miles de millones de pares de frases en distintos idiomas. Un LLM aprende de prácticamente todo el texto disponible en internet, libros y otras fuentes.
 
-La calidad y cantidad de los datos de entrenamiento determina las capacidades del modelo resultante en formas que no pueden superarse solo con algoritmos mejores. Un algoritmo mediocre entrenado en datos excelentes supera a un algoritmo excelente entrenado en datos mediocres.
+La calidad y cantidad de los datos de entrenamiento determina las capacidades del modeló resultante en formas que no pueden superarse solo con algoritmos mejores. Un algoritmo mediocre entrenado en datos excelentes supera a un algoritmo excelente entrenado en datos mediocres.
 
 La expresión "los datos son el petróleo del siglo XXI" (atribuida a Clive Humby, matemático británico, 2006) captura algo real: los datos son el recurso estratégico que alimenta la economía de la IA, igual que el petróleo alimentó la economía industrial del siglo XX.
 
@@ -45,7 +45,7 @@ Con una diferencia importante: los datos, a diferencia del petróleo, no se cons
 
 ## Capítulo 3: Cómo se entrena un LLM: los datos en práctica
 
-Para entrenar GPT-3, OpenAI usó aproximadamente:
+Para entrenar GPT-3, OpenAI uso aproximadamente:
 - **Common Crawl:** 570 gigabytes de texto extraído de páginas web (después de filtrado)
 - **WebText2:** Texto de páginas web enlazadas desde Reddit con alta valoración
 - **Books1 y Books2:** Libros digitalizados
@@ -67,11 +67,11 @@ El texto de Wikipedia es denso en hechos, bien estructurado y relativamente libr
 
 Los equipos de entrenamiento de los grandes modelos dedican enormes esfuerzos a:
 - **Filtrado:** Eliminar contenido pornográfico, violento, spam o de baja calidad
-- **Deduplicación:** Eliminar texto repetido (que haría que el modelo sobreaprendiera ciertos patrones)
+- **Deduplicación:** Eliminar texto repetido (que haría que el modeló sobreaprendiera ciertos patrones)
 - **Normalización:** Estandarizar codificaciones, formatos y caracteres
 - **Muestreo ponderado:** Dar más peso a fuentes de alta calidad
 
-Las decisiones de curaduría de datos tienen consecuencias profundas en el comportamiento del modelo, incluyendo sus sesgos, sus lagunas de conocimiento y su distribución de idiomas y perspectivas.
+Las decisiones de curaduría de datos tienen consecuencias profundas en el comportamiento del modeló, incluyendo sus sesgos, sus lagunas de conocimiento y su distribución de idiomas y perspectivas.
 
 ---
 
@@ -81,7 +81,7 @@ Los datos de entrenamiento no son una muestra representativa del mundo: son una 
 
 **Sesgo de representación:** Internet y los libros digitalizados sobrerepresentan ciertas lenguas (inglés), culturas (occidentales), demografías (hombres, clases medias-altas) y perspectivas. Los modelos entrenados en estos datos heredan esas sobrerepresentaciones.
 
-**Sesgo histórico:** Los datos reflejan el estado del mundo en el momento en que fueron creados, incluyendo las inequidades de ese mundo. Un modelo entrenado en textos históricos aprende las actitudes hacia género, raza y otras categorías presentes en esos textos.
+**Sesgo histórico:** Los datos reflejan el estado del mundo en el momento en que fueron creados, incluyendo las inequidades de ese mundo. Un modeló entrenado en textos históricos aprende las actitudes hacía género, raza y otras categorías presentes en esos textos.
 
 **Sesgo de selección:** Las decisiones sobre qué datos incluir y cuáles excluir son tomadas por humanos con sus propios valores y puntos de vista.
 
@@ -93,7 +93,7 @@ Los datos de entrenamiento no son una muestra representativa del mundo: son una 
 
 Una de las controversias legales más importantes del momento: ¿pueden los modelos de IA entrenarse con contenido con copyright sin permiso o compensación a los autores?
 
-**La posición de las empresas de IA:** El entrenamiento en texto protegido por copyright constituye "uso justo" (fair use) bajo la ley estadounidense, ya que el modelo aprende patrones, no memoriza contenido.
+**La posición de las empresas de IA:** El entrenamiento en texto protegido por copyright constituye "uso justo" (fair use) bajo la ley estadounidense, ya que el modeló aprende patrones, no memoriza contenido.
 
 **La posición de los creadores:** Los modelos son entrenados con el trabajo de escritores, artistas, músicos y periodistas sin su consentimiento ni compensación, y luego compiten con ellos.
 
@@ -124,11 +124,11 @@ Los datos más valiosos para la IA son frecuentemente los más privados: datos m
 El equilibrio entre la utilidad de los datos y la privacidad de las personas es una de las tensiones más importantes de la era de la IA.
 
 Las aproximaciones técnicas incluyen:
-- **Federated learning:** El modelo se entrena en los dispositivos de los usuarios sin que los datos salgan del dispositivo.
+- **Federated learning:** El modeló se entrena en los dispositivos de los usuarios sin que los datos salgan del dispositivo.
 - **Differential privacy:** Se añade ruido matemático a los datos de entrenamiento para proteger la privacidad individual mientras se preservan los patrones estadísticos.
 - **Synthetic data:** Se generan datos artificiales que tienen las mismas propiedades estadísticas que los datos reales sin contener información personal real.
 
-El marco regulatorio europeo (GDPR) y sus equivalentes globales establecen restricciones sobre cómo los datos personales pueden ser usados para entrenamiento de IA.
+El marcó regulatorio europeo (GDPR) y sus equivalentes globales establecen restricciones sobre cómo los datos personales pueden ser usados para entrenamiento de IA.
 
 ---
 
@@ -139,7 +139,7 @@ Hay una pregunta que inquieta a los investigadores: ¿hay suficiente texto de ca
 Algunos análisis sugieren que el texto de alta calidad disponible en internet podría ser insuficiente para los modelos del futuro sin reutilización masiva.
 
 Las respuestas del campo incluyen:
-- **Datos sintéticos:** Usar modelos actuales para generar datos de entrenamiento para modelos futuros (hay debates sobre si esto funciona o produce "degeneración del modelo")
+- **Datos sintéticos:** Usar modelos actuales para generar datos de entrenamiento para modelos futuros (hay debates sobre si esto funciona o produce "degeneración del modeló")
 - **Datos multimodales:** Entrenar en imágenes, vídeo y audio además de texto
 - **Datos propietarios:** Acuerdos con editoriales, plataformas y otras fuentes de datos de calidad
 - **Eficiencia:** Entrenar modelos más pequeños y eficientes que requieran menos datos
@@ -152,9 +152,9 @@ La escasez de datos podría ser el próximo cuello de botella del escalado de la
 
 El director de tecnología de Isabel le propuso un proyecto piloto: analizar los datos de RRHH para identificar predictores de rotación involuntaria.
 
-El primer paso no fue la IA: fue entender qué datos existían realmente, qué calidad tenían, qué variables faltaban y cuáles eran fiables. Tres semanas de trabajo de limpieza y documentación antes de entrenar el primer modelo.
+El primer paso no fue la IA: fue entender qué datos existían realmente, qué calidad tenían, qué variables faltaban y cuáles eran fiables. Tres semanas de trabajo de limpieza y documentación antes de entrenar el primer modeló.
 
-El resultado: un modelo que predecía con un 73% de precisión qué empleados tenían alta probabilidad de abandonar la empresa en los próximos seis meses. No perfecto. Pero suficientemente bueno para enfocar las conversaciones de retención donde más importaban.
+El resultado: un modeló que predecía con un 73% de precisión qué empleados tenían alta probabilidad de abandonar la empresa en los próximos seis meses. No perfecto. Pero suficientemente bueno para enfocar las conversaciones de retención donde más importaban.
 
 La lección de Isabel: los datos ya estaban ahí. El valor no estaba en tenerlos, sino en saber qué preguntar y cómo preparar los datos para responder esas preguntas.
 

@@ -16,7 +16,7 @@ Un día, por frustración, abrió un documento en blanco y empezó a escribir to
 
 Cuarenta minutos después, tenía claridad. No porque hubiera encontrado nueva información. Sino porque el acto de escribir había obligado a sus pensamientos a tomar forma concreta, a ordenarse, a revelar contradicciones y, finalmente, a llegar a una conclusión.
 
-El journaling no es para recordar lo que pasó. Es para pensar mejor.
+El journaling no es para recordar lo que paso. Es para pensar mejor.
 
 ---
 
@@ -59,13 +59,13 @@ Reflexionar sobre lo ocurrido: qué salió bien, qué no, qué aprendí. Orienta
 Escribir todo lo que hay en la mente sin estructura ni objetivo: preocupaciones, pensamientos, emociones. El propósito es aliviar la carga cognitiva y emocional, no producir insight. Útil especialmente antes de dormir.
 
 **El journaling de clarificación:**
-Escribir sobre un problema o decisión específica para llegar a mayor claridad. El tipo que usó Rubén al inicio. El problema se escribe, se analiza por escrito, se exploran alternativas por escrito.
+Escribir sobre un problema o decisión específica para llegar a mayor claridad. El tipo que uso Rubén al inició. El problema se escribe, se analiza por escrito, se exploran alternativas por escrito.
 
 **El journaling de gratitud:**
 Escribir lo que se agradece o valora. Evidencia sólida de efectos en el bienestar emocional y la satisfacción general. Contrarresta el sesgo de negatividad natural del cerebro.
 
 **El journaling de objetivos:**
-Escribir sobre los objetivos, el progreso hacia ellos y los obstáculos. Algunos estudios muestran que escribir los objetivos (no solo tenerlos en mente) aumenta significativamente la probabilidad de alcanzarlos.
+Escribir sobre los objetivos, el progreso hacía ellos y los obstáculos. Algunos estudios muestran que escribir los objetivos (no solo tenerlos en mente) aumenta significativamente la probabilidad de alcanzarlos.
 
 ---
 
@@ -175,7 +175,7 @@ Isabel mantenía cuatro cuadernos diferentes:
 1. **Diario de trabajo:** reflexiones sobre proyectos, decisiones, aprendizajes profesionales
 2. **Diario de liderazgo:** observaciones sobre conversaciones con el equipo, lo que funcionó y lo que no
 3. **Diario personal:** descarga emocional, reflexión sobre lo que importa, gratitud
-4. **Diario de objetivos:** revisión semanal del progreso hacia sus metas
+4. **Diario de objetivos:** revisión semanal del progreso hacía sus metas
 
 "¿Cuánto tiempo le dedicas?" le preguntó Rubén.
 
@@ -183,7 +183,7 @@ Isabel mantenía cuatro cuadernos diferentes:
 
 "¿Por qué?"
 
-"Porque sin él, soy reactiva. Con él, soy intencional. La diferencia en cómo tomo decisiones y cómo me siento al final del día es notable."
+"Porque sin él, soy reactiva. Con él, soy intencional. La diferencia en cómo tomó decisiones y cómo me siento al final del día es notable."
 
 ---
 
@@ -193,7 +193,7 @@ En el mundo de la urgencia constante, el journaling es una práctica radical: la
 
 No al pensamiento reactivo que responde a lo que llega. Al pensamiento deliberado que examina, reflexiona, evalúa y decide.
 
-Escribir no es hablar con uno mismo en papel. Es la forma más poderosa de pensar que la mayoría de personas nunca practica de forma sistemática.
+Escribir no es hablar con uno mismo en papel. Es la forma más poderosa de pensar que la mayoría de personas nunca práctica de forma sistemática.
 
 ---
 

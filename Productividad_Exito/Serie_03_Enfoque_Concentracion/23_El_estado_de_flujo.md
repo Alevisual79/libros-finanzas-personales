@@ -12,7 +12,7 @@ Elena se sentó frente al ordenador a las 9 de la mañana con el objetivo de dis
 
 Cuando levantó la vista, eran las 12:15. La taza de café seguía sin tocar. Tenía hambre, lo que significaba que había saltado el desayuno sin notarlo. Pero en la pantalla había algo que no existía tres horas antes: la arquitectura completa del módulo, documentada, con decisiones técnicas y sus justificaciones.
 
-No había sido un esfuerzo. Había sido... otra cosa. Una especie de absorción total donde el tiempo no pasó de la forma normal.
+No había sido un esfuerzo. Había sido... otra cosa. Una especie de absorción total donde el tiempo no paso de la forma normal.
 
 Elena no sabía que tenía nombre. Se llama flujo.
 
@@ -42,7 +42,7 @@ La tarea debe ser lo suficientemente desafiante para exigir esfuerzo real, pero 
 Saber exactamente qué se está intentando lograr. La ambigüedad del objetivo fragmenta la atención.
 
 **3. Feedback inmediato:**
-Saber en tiempo real si se está avanzando hacia el objetivo. En programación, el código funciona o no. En escritura, las palabras fluyen o se atascan. En música, la nota suena correcta o no.
+Saber en tiempo real si se está avanzando hacía el objetivo. En programación, el código funciona o no. En escritura, las palabras fluyen o se atascan. En música, la nota suena correcta o no.
 
 **4. Concentración sin interrupciones:**
 El flujo requiere al menos 15-20 minutos de concentración sin interrupciones para comenzar. Cualquier interrupción lo destruye.
@@ -66,7 +66,7 @@ La reducción de la autoconsciencia es lo que produce la sensación de "fusión"
 
 ## Capítulo 4: El flujo en distintas profesiones
 
-Una de las aportaciones más valiosas del trabajo de Csikszentmihalyi es que el flujo no es exclusivo de actividades "trascendentes" como la música o el arte.
+Una de las aportaciones más valiosas del trabajo de Csikszentmihalyi es que el flujo no es exclusivo de actividades "trascendentes" cómo la música o el arte.
 
 **El flujo en el trabajo:**
 Rubén entra en flujo cuando escribe: un punto donde las palabras llegan solas, la estructura emerge sin esfuerzo y el tiempo desaparece. Elena lo experimenta con el diseño de sistemas complejos. Isabel, en la mediación de conflictos difíciles donde toda su experiencia y habilidad se concentran.
@@ -135,7 +135,7 @@ Muchas organizaciones intentan motivar a sus empleados con incentivos extrínsec
 
 Csikszentmihalyi observó que las actividades que más frecuentemente generan flujo para una persona suelen estar relacionadas con sus talentos y vocaciones más profundos.
 
-La pregunta "¿en qué tipo de trabajo entro más frecuentemente en flujo?" puede ser una brújula vocacional.
+La pregunta "¿en qué tipo de trabajo entró más frecuentemente en flujo?" puede ser una brújula vocacional.
 
 Elena nota que entra en flujo con la arquitectura de sistemas, no con la gestión de proyectos. Rubén, con la escritura creativa, no con la administración del negocio. Isabel, con la mediación y el desarrollo de personas, no con los informes de RRHH.
 

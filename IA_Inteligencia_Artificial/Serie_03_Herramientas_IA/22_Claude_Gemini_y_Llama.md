@@ -1,4 +1,4 @@
-﻿# Claude, Gemini y Llama: más allá de ChatGPT
+# Claude, Gemini y Llama: más allá de ChatGPT
 ## El ecosistema de modelos de IA y cómo elegir el adecuado para cada tarea
 
 **Serie 3: Herramientas de IA — Libro 2 de 10**
@@ -11,7 +11,7 @@ Cuando Rubén empezó a explorar herramientas de IA en 2023, solo existía ChatG
 
 Cada uno con fortalezas distintas. Cada uno con casos de uso donde destaca. Cada uno con filosofías distintas sobre privacidad, transparencia y los valores que los modelos deben tener.
 
-La elección ya no es "usar IA o no". Es "qué modelo para qué tarea y por qué".
+La elección ya no es "usar IA o no". Es "qué modeló para qué tarea y por qué".
 
 ---
 
@@ -57,9 +57,9 @@ Gemini (antes Bard), desarrollado por Google DeepMind, tiene una ventaja única:
 
 ---
 
-## Capítulo 3: Llama — El modelo abierto de Meta
+## Capítulo 3: Llama — El modeló abierto de Meta
 
-Llama (desarrollado por Meta AI) es el modelo de IA más importante del mundo open source. A diferencia de GPT, Claude o Gemini, los pesos del modelo son públicos: cualquiera puede descargarlo y ejecutarlo localmente o modificarlo.
+Llama (desarrollado por Meta AI) es el modeló de IA más importante del mundo open source. A diferencia de GPT, Claude o Gemini, los pesos del modeló son públicos: cualquiera puede descargarlo y ejecutarlo localmente o modificarlo.
 
 **Sus fortalezas:**
 - Privacidad total: se puede ejecutar localmente sin enviar datos a ningún servidor externo
@@ -89,7 +89,7 @@ Microsoft Copilot (potenciado por GPT-4 de OpenAI y modelos propios) es la apues
 - Versión Copilot+ PC: funciones de IA locales en ordenadores compatibles
 
 **Sus límites:**
-- La calidad del modelo varía según la tarea y la versión
+- La calidad del modeló varía según la tarea y la versión
 - Precio: Copilot Pro (20$/mes) o Copilot for Microsoft 365 (30$/usuario/mes empresas)
 - Menos flexible fuera del ecosistema Microsoft
 
@@ -115,9 +115,9 @@ Perplexity es técnicamente diferente a los otros: es un motor de búsqueda con 
 
 ---
 
-## Capítulo 6: Cómo elegir el modelo correcto
+## Capítulo 6: Cómo elegir el modeló correcto
 
-La elección del modelo para cada tarea:
+La elección del modeló para cada tarea:
 
 **Para escritura profesional de alta calidad:** Claude Opus o Sonnet
 **Para análisis de datos con código:** ChatGPT Advanced Data Analysis o Claude
@@ -126,16 +126,16 @@ La elección del modelo para cada tarea:
 **Para usuarios del ecosistema Microsoft:** Copilot
 **Para privacidad total o uso sin internet:** Llama local
 **Para código:** ChatGPT, Claude o GitHub Copilot
-**Para imágenes:** DALL-E 3 (en ChatGPT), Midjourney, Stable Diffusion
+**Para imágenes:** DALL-E 3 (en ChatGPT), Midjourney, Stable Diffusión
 **Para tareas complejas de razonamiento:** o1 de OpenAI o equivalentes
 
-No hay un modelo mejor en absoluto. Hay modelos mejores para casos de uso específicos.
+No hay un modeló mejor en absoluto. Hay modelos mejores para casos de uso específicos.
 
 ---
 
 ## Capítulo 7: La estrategia de los múltiples modelos
 
-Los profesionales más avanzados no usan un único modelo: usan el mejor para cada tarea.
+Los profesionales más avanzados no usan un único modeló: usan el mejor para cada tarea.
 
 La estrategia de Rubén:
 - **Escritura:** Claude Sonnet por defecto
@@ -192,7 +192,7 @@ El ecosistema de modelos de IA evoluciona tan rápido que la información de aye
 - **Newsletter de empresas:** OpenAI, Anthropic, Google publican anuncios de sus mejoras
 - **Comunidades:** r/artificial en Reddit, LessWrong para discusiones técnicas profundas
 
-Lo que importa no es conocer el mejor modelo en términos absolutos: es entender qué funciona mejor para tus casos de uso específicos y actualizar esa comprensión periódicamente.
+Lo que importa no es conocer el mejor modeló en términos absolutos: es entender qué funciona mejor para tus casos de uso específicos y actualizar esa comprensión periódicamente.
 
 ---
 

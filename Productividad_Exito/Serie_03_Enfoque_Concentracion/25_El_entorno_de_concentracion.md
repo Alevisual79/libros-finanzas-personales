@@ -61,7 +61,7 @@ Si siempre se trabaja en el mismo lugar (el escritorio de trabajo), ese lugar se
 La práctica de designar espacios para funciones específicas (este escritorio es para trabajo profundo; el sofá es para el ocio) refuerza las señales mentales asociadas.
 
 **El ritual de entrada:**
-Un ritual de inicio del trabajo (cerrar el correo, poner el teléfono en el cajón, abrir solo el documento de trabajo, poner música instrumental) actúa como señal mental de "modo concentración". Con el tiempo, el ritual desencadena el estado.
+Un ritual de inició del trabajo (cerrar el correo, poner el teléfono en el cajón, abrir solo el documento de trabajo, poner música instrumental) actúa como señal mental de "modo concentración". Con el tiempo, el ritual desencadena el estado.
 
 ---
 
@@ -91,7 +91,7 @@ Si es posible, un espacio dedicado exclusivamente al trabajo. La separación fí
 Con convivientes, una señal visible de "estoy trabajando" (puerta cerrada, auriculares, luz encendida) reduce las interrupciones sin necesidad de conversaciones repetitivas.
 
 **El cierre espacial:**
-Al terminar la jornada, "cerrar" el espacio de trabajo (guardar los documentos, apagar el monitor adicional, quitar los auriculares) ayuda a la transición mental hacia el descanso.
+Al terminar la jornada, "cerrar" el espacio de trabajo (guardar los documentos, apagar el monitor adicional, quitar los auriculares) ayuda a la transición mental hacía el descanso.
 
 ---
 
@@ -108,7 +108,7 @@ Llegar antes que el resto, quedarse después o usar salas de reuniones vacías p
 **La comunicación de disponibilidad:**
 Informar al equipo de los momentos de concentración para reducir las interrupciones espontáneas.
 
-Isabel, como directora, creó una política de "horas de concentración" para todo el departamento: de 9 a 11, nadie interrumpe a nadie sin urgencia real. La productividad del departamento aumentó visiblemente en el primer mes.
+Isabel, como directora, creo una política de "horas de concentración" para todo el departamento: de 9 a 11, nadie interrumpe a nadie sin urgencia real. La productividad del departamento aumento visiblemente en el primer mes.
 
 ---
 
@@ -152,7 +152,7 @@ Elena dedicó dos horas un domingo a rediseñar su espacio de trabajo:
 
 El lunes, su entorno físico y digital ya no trabajaba contra ella. Trabajaba con ella.
 
-Al final de la primera semana con el nuevo entorno, Elena notó que el impulso de revisar el teléfono o abrir nuevas pestañas había disminuido. No porque hubiera más voluntad: porque los triggers habituales de esos comportamientos habían desaparecido.
+Al final de la primera semana con el nuevo entorno, Elena noto que el impulso de revisar el teléfono o abrir nuevas pestañas había disminuido. No porque hubiera más voluntad: porque los triggers habituales de esos comportamientos habían desaparecido.
 
 ---
 

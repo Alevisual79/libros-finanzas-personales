@@ -33,7 +33,7 @@ El experto ve a través de su experiencia. Lo cual acelera el procesamiento y me
 ## Capítulo 2: Cómo la experiencia crea puntos ciegos
 
 **Las representaciones mentales:**
-Como se exploró en el libro sobre práctica deliberada, el experto construye representaciones mentales sofisticadas: estructuras cognitivas que le permiten percibir y procesar su dominio de formas que el principiante no puede.
+Cómo se exploró en el libro sobre práctica deliberada, el experto construye representaciones mentales sofisticadas: estructuras cognitivas que le permiten percibir y procesar su dominio de formas que el principiante no puede.
 
 **El precio de esas representaciones:**
 Las representaciones mentales son también filtros. El experto médico que ve un soplo cardíaco lo clasifica instantáneamente. La clasificación instantánea es valiosa cuando la situación encaja en la categoría. Y puede fallar cuando la situación tiene características que la categoría no captura.
@@ -59,7 +59,7 @@ Ericsson lo documentó en estudios de médicos: en ciertas áreas, los médicos 
 
 ## Capítulo 4: La mente del principiante como práctica deliberada
 
-Cultivar la mente del principiante no significa desaprender la experiencia. Significa mantener la apertura perceptiva junto con la competencia técnica.
+Cultivar la mente del principiante no significa desaprender la experiencia. Significa mantener la apertura perceptiva juntó con la competencia técnica.
 
 **La actitud del "no sé todavía":**
 En lugar de "conozco esta situación" como punto de partida, "¿qué hay en esta situación que podría no haber visto antes?"
@@ -93,7 +93,7 @@ Una de las formas más eficaces de cultivar la mente del principiante: aprender 
 **El efecto:**
 Ser principiante en algo nuevo —después de años de ser experto en otra cosa— es una experiencia que recuerda cómo se siente la ignorancia, la confusión, el esfuerzo de no entender.
 
-Esta experiencia tiene valor más allá de la habilidad que se aprende: produce empatía hacia los principiantes en el propio campo, y activa la apertura perceptiva que el experto puede haber perdido.
+Esta experiencia tiene valor más allá de la habilidad que se aprende: produce empatía hacía los principiantes en el propio campo, y activa la apertura perceptiva que el experto puede haber perdido.
 
 Rubén, diseñador gráfico y marketero, tomó un curso de programación. No porque necesitara programar profesionalmente. Porque quería recordar cómo se siente no saber nada.
 
@@ -127,7 +127,7 @@ El asombro —la sensación ante algo que no se entiende completamente o que no 
 **La práctica:**
 - Buscar activamente lo que no se entiende en el propio campo de expertise
 - Hacer preguntas "estúpidas" (las que un principiante haría) en áreas donde uno es experto
-- Buscar casos que no encajan con el modelo habitual en lugar de ignorarlos
+- Buscar casos que no encajan con el modeló habitual en lugar de ignorarlos
 
 El mentor de Elena le dio un consejo que ella no olvidó: "Cuando algo no te sorprende, ten cuidado. Significa que estás viendo lo que esperas ver, no necesariamente lo que está ahí."
 
@@ -143,7 +143,7 @@ La mezcla de expertos con principiantes en un equipo produce mejor pensamiento c
 **El principiante como activo:**
 La persona nueva en un equipo no es solo alguien que necesita aprender cómo se hacen las cosas. Es también alguien que puede ver lo que los veteranos han dejado de ver, porque lo que los veteranos dan por supuesto es nuevo para el principiante.
 
-Isabel cambió la forma en que recibía a las nuevas incorporaciones. En lugar de "aquí te explicamos cómo hacemos las cosas", preguntaba: "¿Qué es lo primero que observaste que te pareció extraño o que harías diferente?"
+Isabel cambio la forma en que recibía a las nuevas incorporaciones. En lugar de "aquí te explicamos cómo hacemos las cosas", preguntaba: "¿Qué es lo primero que observaste que te pareció extraño o que harías diferente?"
 
 Las respuestas eran frecuentemente incómodas y siempre informativas.
 
@@ -155,7 +155,7 @@ Richard Feynman, uno de los físicos más brillantes del siglo XX, es conocido t
 
 Feynman dedicaba tiempo regular a aprender cosas fuera de su campo: biología, música, arte. No para ser experto en ellas. Para recordar cómo se aprende algo nuevo.
 
-"Lo que no puedo crear, no entiendo," dijo. La frase se puede invertir: "Lo que no intento crear de nuevo, dejo de entender."
+"Lo que no puedo crear, no entiendo," dijo. La frase se puede invertir: "Lo que no intento crear de nuevo, dejó de entender."
 
 La mente del principiante no es lo opuesto del expertise. Es su condición de posibilidad más profunda.
 

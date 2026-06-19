@@ -47,7 +47,7 @@ Responder correos rápidamente requiere estar constantemente monitorizando la ba
 **La alternativa:**
 Gestionar el correo en bloques predefinidos. Dos o tres veces al día, no de forma continua. La mayoría de los asuntos que "urgen" no son urgencias reales, y si lo son, hay formas mejores de comunicarlo que el correo.
 
-Isabel cambió la política de su departamento: el correo se gestiona dos veces al día, a las 10 y a las 16. Las urgencias reales van por teléfono. Los resultados: menos interrupciones, más trabajo terminado, y sorprendentemente, menos correos (porque cuando la respuesta no es inmediata, la gente se piensa mejor si realmente necesita mandar ese email).
+Isabel cambio la política de su departamento: el correo se gestiona dos veces al día, a las 10 y a las 16. Las urgencias reales van por teléfono. Los resultados: menos interrupciones, más trabajo terminado, y sorprendentemente, menos correos (porque cuando la respuesta no es inmediata, la gente se piensa mejor si realmente necesita mandar ese email).
 
 ---
 
@@ -70,7 +70,7 @@ Un correo bien estructurado puede reemplazar una cadena de cinco.
 
 ## Capítulo 4: El síndrome de la bandeja vacía
 
-El objetivo de llegar a "bandeja cero" (Inbox Zero, popularizado por Merlin Mann) se ha malinterpretado como una obsesión por responder todo inmediatamente.
+El objetivo de llegar a "bandeja cero" (Inbox Zero, popularizado por Merlin Mann) se ha malinterpretado cómo una obsesión por responder todo inmediatamente.
 
 La idea original era diferente: procesar el correo de forma que cada mensaje tuviera una acción clara (responder, archivar, delegar, convertir en tarea) y la bandeja de entrada fuera solo un espacio de entrada, no un almacenamiento permanente.
 

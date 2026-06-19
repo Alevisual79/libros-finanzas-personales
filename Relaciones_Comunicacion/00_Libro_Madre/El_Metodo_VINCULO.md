@@ -1,4 +1,4 @@
-﻿# El Método VÍNCULO
+# El Método VÍNCULO
 ## Lo que nadie te enseñó sobre cómo conectar de verdad
 
 **Libro Madre — Colección Relaciones y Comunicación**

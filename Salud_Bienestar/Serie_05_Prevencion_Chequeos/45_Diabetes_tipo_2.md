@@ -189,9 +189,9 @@ Incluir el bienestar mental en el manejo de la diabetes no es un lujo. Hay progr
 
 ## Capítulo 10: El plan de Carmen
 
-Carmen recibió el diagnóstico de diabetes con glucosa de 128 mg/dL y HbA1c de 6,8%. Sin síntomas. Sin complicaciones. En estadio inicial.
+Carmen recibio el diagnóstico de diabetes con glucosa de 128 mg/dL y HbA1c de 6,8%. Sin síntomas. Sin complicaciones. En estadio inicial.
 
-Su médico le explicó: "Tiene diabetes. Pero en este estadio, con cambios en el estilo de vida, hay personas que consiguen glucemias normales sin medicación. No garantías, pero posibilidades reales."
+Su médico le explico: "Tiene diabetes. Pero en este estadio, con cambios en el estilo de vida, hay personas que consiguen glucemias normales sin medicación. No garantías, pero posibilidades reales."
 
 Plan:
 1. Reducir el pan blanco, el arroz blanco y las patatas fritas (sus principales fuentes de carbohidratos refinados)

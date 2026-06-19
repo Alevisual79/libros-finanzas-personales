@@ -1,5 +1,5 @@
-﻿# ChatGPT: El asistente que cambió el mundo
-## Cómo usar el modelo más popular del mundo para trabajar mejor
+# ChatGPT: El asistente que cambio el mundo
+## Cómo usar el modeló más popular del mundo para trabajar mejor
 
 **Serie 3: Herramientas de IA — Libro 1 de 10**
 
@@ -7,9 +7,9 @@
 
 ## Prólogo: El antes y el después de noviembre de 2022
 
-El 30 de noviembre de 2022, OpenAI lanzó ChatGPT. En cinco días tenía un millón de usuarios. En dos meses, cien millones. Ninguna aplicación en la historia había crecido tan rápido.
+El 30 de noviembre de 2022, OpenAI lanzo ChatGPT. En cinco días tenía un millón de usuarios. En dos meses, cien millones. Ninguna aplicación en la historia había crecido tan rápido.
 
-Para Elena, la fecha fue un punto de inflexión personal. Recuerda exactamente cuándo lo usó por primera vez: un sábado por la tarde, para depurar un fragmento de código que llevaba horas resolviendo. En diez minutos, el problema estaba resuelto y tenía una explicación que nunca habría encontrado por sí sola en ese tiempo.
+Para Elena, la fecha fue un punto de inflexión personal. Recuerda exactamente cuándo lo uso por primera vez: un sábado por la tarde, para depurar un fragmento de código que llevaba horas resolviendo. En diez minutos, el problema estaba resuelto y tenía una explicación que nunca habría encontrado por sí sola en ese tiempo.
 
 "Sentí que alguien había cambiado las reglas del juego", recuerda. "Y que la única pregunta era si yo iba a jugar con las nuevas reglas o quedarme con las antiguas."
 
@@ -83,13 +83,13 @@ La tienda de GPTs de OpenAI tiene miles de GPTs creados por usuarios para casos 
 
 ## Capítulo 5: Cómo sacar el máximo de ChatGPT
 
-**El principio de especificidad:** Los prompts genéricos producen outputs genéricos. Los prompts específicos producen outputs específicos. "Escríbeme un email" no es un buen prompt. "Escríbeme un email de seguimiento para un cliente que vio mi propuesta hace dos semanas pero no ha respondido, tono profesional pero no presionante, máximo 150 palabras" es mucho mejor.
+**El principio de especificidad:** Los prompts genéricos producen outputs genéricos. Los prompts específicos producen outputs específicos. "Escríbeme un email" no es un buen prompt. "Escríbeme un email de seguimiento para un cliente que vió mi propuesta hace dos semanas pero no ha respondido, tono profesional pero no presionante, máximo 150 palabras" es mucho mejor.
 
-**El rol:** Asignar un rol mejora consistentemente los outputs. "Actúa como un experto en marketing digital con 10 años de experiencia en el sector B2B" produce outputs diferentes a "escríbeme sobre marketing digital".
+**El rol:** Asignar un rol mejora consistentemente los outputs. "Actúa cómo un experto en marketing digital con 10 años de experiencia en el sector B2B" produce outputs diferentes a "escríbeme sobre marketing digital".
 
 **La iteración:** La primera respuesta raramente es la final. Iterar —"hazlo más conciso", "añade más datos", "cambia el tono"— produce resultados significativamente mejores.
 
-**El contexto:** Cuanto más contexto relevante proporciones, mejor el output. No asumas que el modelo sabe cosas que no le has dicho.
+**El contexto:** Cuanto más contexto relevante proporciones, mejor el output. No asumas que el modeló sabe cosas que no le has dicho.
 
 ---
 
@@ -97,9 +97,9 @@ La tienda de GPTs de OpenAI tiene miles de GPTs creados por usuarios para casos 
 
 **Alucinaciones:** ChatGPT puede producir afirmaciones falsas con aparente seguridad. Siempre verifica hechos, datos, citas y referencias.
 
-**Fecha de corte:** El conocimiento del modelo tiene una fecha de corte. No tiene información sobre eventos recientes. La navegación web puede mitigar esto parcialmente.
+**Fecha de corte:** El conocimiento del modeló tiene una fecha de corte. No tiene información sobre eventos recientes. La navegación web puede mitigar esto parcialmente.
 
-**Ventana de contexto:** La conversación tiene un límite de longitud. En conversaciones muy largas, el modelo puede "olvidar" el principio.
+**Ventana de contexto:** La conversación tiene un límite de longitud. En conversaciones muy largas, el modeló puede "olvidar" el principio.
 
 **Capacidades de razonamiento:** GPT-4o es excelente en muchas tareas pero tiene limitaciones en razonamiento matemático complejo, lógica formal y problemas que requieren manipulación precisa de símbolos.
 
@@ -111,7 +111,7 @@ La tienda de GPTs de OpenAI tiene miles de GPTs creados por usuarios para casos 
 
 Para Rubén, ChatGPT transformó la escritura profesional:
 
-**Propuestas:** Proporciona el contexto del cliente, los objetivos, los servicios ofrecidos y el presupuesto aproximado. El modelo genera la estructura y el primer borrador. Rubén revisa, personaliza y ajusta el tono.
+**Propuestas:** Proporciona el contexto del cliente, los objetivos, los servicios ofrecidos y el presupuesto aproximado. El modeló genera la estructura y el primer borrador. Rubén revisa, personaliza y ajusta el tono.
 
 **Emails difíciles:** "Necesito rechazar una propuesta de colaboración de un excliente sin quemar la relación. El contexto es [contexto]. El email debe ser [tono]. Escríbeme opciones."
 
@@ -119,7 +119,7 @@ Para Rubén, ChatGPT transformó la escritura profesional:
 
 **Briefings:** "Basándote en esta información de proyecto, genera un briefing de dos páginas para presentar a mi equipo."
 
-En cada caso, ChatGPT genera la masa; Rubén aporta el criterio, la personalización y el conocimiento contextual que el modelo no tiene.
+En cada caso, ChatGPT genera la masa; Rubén aporta el criterio, la personalización y el conocimiento contextual que el modeló no tiene.
 
 ---
 
@@ -127,11 +127,11 @@ En cada caso, ChatGPT genera la masa; Rubén aporta el criterio, la personalizac
 
 Para Elena, las capacidades de análisis y código son las más valiosas:
 
-**Depuración:** Pegar el código con error y el mensaje de error. El modelo identifica el problema y propone la solución. Funciona en docenas de lenguajes.
+**Depuración:** Pegar el código con error y el mensaje de error. El modeló identifica el problema y propone la solución. Funciona en docenas de lenguajes.
 
 **Generación de código:** "Escríbeme una función en Python que tome un CSV con estas columnas y produzca este output." Para código de integración, scripts de procesamiento y utilidades: enorme ahorro de tiempo.
 
-**Análisis de datos:** Con Advanced Data Analysis, cargar un CSV y hacer preguntas en lenguaje natural. El modelo ejecuta código Python real para responder.
+**Análisis de datos:** Con Advanced Data Analysis, cargar un CSV y hacer preguntas en lenguaje natural. El modeló ejecuta código Python real para responder.
 
 **Documentación:** "Genera documentación para este código." "Explica qué hace esta función." Para equipos donde la documentación suele quedarse atrasada.
 
@@ -143,13 +143,13 @@ Para Elena, las capacidades de análisis y código son las más valiosas:
 
 El mayor error con ChatGPT es usarlo de forma ad hoc. El mayor valor viene de integrarlo sistemáticamente.
 
-**Rutina de inicio del día:** Abrir ChatGPT junto con el email. Cualquier email que requiera una respuesta compleja: pedir un borrador primero.
+**Rutina de inició del día:** Abrir ChatGPT juntó con el email. Cualquier email que requiera una respuesta compleja: pedir un borrador primero.
 
 **Reuniones:** Antes de reuniones importantes, pedir ayuda para preparar preguntas, anticipar objeciones o estructurar la presentación.
 
-**Bloqueos creativos:** Cuando no sabes cómo empezar un documento, dar el contexto al modelo y pedir un punto de partida.
+**Bloqueos creativos:** Cuando no sabes cómo empezar un documento, dar el contexto al modeló y pedir un punto de partida.
 
-**Revisión de borradores:** Antes de enviar cualquier documento importante, pedir al modelo que lo revise con criterios específicos.
+**Revisión de borradores:** Antes de enviar cualquier documento importante, pedir al modeló que lo revise con criterios específicos.
 
 **Aprendizaje rápido:** Antes de una reunión sobre un tema que no dominas, pedir una explicación de los conceptos clave en lenguaje accesible.
 
@@ -175,7 +175,7 @@ ChatGPT no es la herramienta definitiva: es el primer representante de una nueva
 
 El impacto de ChatGPT varía mucho según cómo se use.
 
-Para quien lo usa como un buscador glorificado: ahorra algo de tiempo de búsqueda. Para quien lo integra sistemáticamente en su flujo de trabajo, lo usa para multiplicar su capacidad de producción y lo refina continuamente: es transformador.
+Para quien lo usa cómo un buscador glorificado: ahorra algo de tiempo de búsqueda. Para quien lo integra sistemáticamente en su flujo de trabajo, lo usa para multiplicar su capacidad de producción y lo refina continuamente: es transformador.
 
 La diferencia no está en la herramienta. Está en el nivel de compromiso con aprenderla a usar bien.
 

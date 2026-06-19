@@ -1,4 +1,4 @@
-﻿# Análisis de datos sin ser analista
+# Análisis de datos sin ser analista
 ## Cómo usar la IA para extraer insights de los datos que ya tienes
 
 **Serie 2: IA en el Trabajo — Libro 8 de 10**
@@ -43,7 +43,7 @@ La IA está cambiando esta ecuación de forma radical. Un no analista con acceso
 
 ## Capítulo 3: Herramientas para análisis de datos con IA
 
-**ChatGPT con Code Interpreter (Advanced Data Analysis):** Puedes cargar archivos CSV, Excel o similares y hacer preguntas en lenguaje natural. El modelo ejecuta código Python real para analizar los datos y devuelve los resultados. Una de las herramientas más potentes y accesibles.
+**ChatGPT con Code Interpreter (Advanced Data Analysis):** Puedes cargar archivos CSV, Excel o similares y hacer preguntas en lenguaje natural. El modeló ejecuta código Python real para analizar los datos y devuelve los resultados. Una de las herramientas más potentes y accesibles.
 
 **Claude con archivos adjuntos:** Puede analizar datos tabulares cargados directamente en la conversación y generar código de análisis.
 
@@ -102,14 +102,14 @@ Ninguno de estos hallazgos sorprendió a Isabel completamente. Pero ahora tenía
 
 ## Capítulo 7: Análisis de datos de ventas para Rubén
 
-Rubén tenía tres años de datos de sus proyectos: cliente, sector, tipo de proyecto, valor del contrato, tiempo de cierre, tasa de éxito en propuestas.
+Rubén tenía tres años de datos de sus proyectos: cliente, sector, tipo de proyecto, valor del contrató, tiempo de cierre, tasa de éxito en propuestas.
 
-Preguntas que hizo al modelo:
+Preguntas que hizo al modeló:
 
 "¿Qué tipo de proyectos tienen la tasa de éxito más alta en mis propuestas?"
 → Los proyectos de estrategia de contenido para el sector tecnológico tienen una tasa de éxito del 73%, vs. 41% de media general.
 
-"¿Hay alguna correlación entre el valor del contrato y el tiempo que tarda en cerrarse?"
+"¿Hay alguna correlación entre el valor del contrató y el tiempo que tarda en cerrarse?"
 → Los contratos mayores de 5.000€ tardan en promedio 2.3x más en cerrarse que los menores de 2.000€.
 
 "¿Qué meses son mis meses de mayor facturación históricamente?"
@@ -166,7 +166,7 @@ Lo que la IA no reemplaza:
 
 Los analistas de datos que integran IA en su flujo de trabajo son más productivos, no menos relevantes. Y para los no analistas, la IA abre un mundo de preguntas que antes era inaccesible.
 
-Isabel no se convirtió en analista. Se convirtió en alguien que puede hacer las preguntas correctas a sus datos. Eso cambió cómo tomaba decisiones.
+Isabel no se convirtió en analista. Se convirtió en alguien que puede hacer las preguntas correctas a sus datos. Eso cambio cómo tomaba decisiones.
 
 ---
 

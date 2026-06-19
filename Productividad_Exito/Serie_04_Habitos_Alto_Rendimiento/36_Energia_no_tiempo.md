@@ -60,7 +60,7 @@ El cuerpo humano no funciona en modo lineal. Funciona en ciclos.
 Mientras que el ritmo circadiano regula el ciclo sueño-vigilia de 24 horas, los ritmos ultradianos son ciclos de aproximadamente 90 minutos que regulan los niveles de energía y concentración a lo largo del día.
 
 **Lo que ocurre en cada ciclo:**
-- Durante los primeros 90 minutos del ciclo, la concentración y la energía ascienden hacia un pico
+- Durante los primeros 90 minutos del ciclo, la concentración y la energía ascienden hacía un pico
 - Luego hay un período de descenso natural de 20-30 minutos donde el cuerpo quiere descansar
 
 **La señal del descenso:**
@@ -123,7 +123,7 @@ El sueño no es el tiempo que el cuerpo "pierde" descansando. Es el período de 
 Una sola noche de sueño insuficiente deteriora el rendimiento cognitivo de forma equivalente a estar legalmente intoxicado. La privación crónica produce daño cognitivo acumulativo que no se recupera con un fin de semana de más sueño.
 
 **La cantidad óptima:**
-Para la mayoría de adultos: 7-9 horas. La persona que dice "funciono bien con cinco horas" generalmente no sabe lo que es funcionar con ocho porque lleva años acostumbrada al deterioro.
+Para la mayoría de adultos: 7-9 horas. La persona que dice "funcionó bien con cinco horas" generalmente no sabe lo que es funcionar con ocho porque lleva años acostumbrada al deterioro.
 
 ---
 
@@ -161,7 +161,7 @@ La energía no existe solo dentro de la persona. El entorno afecta la energía d
 - Autonomía sobre el propio tiempo y método de trabajo
 - Trabajo que conecta con los propios valores y capacidades
 
-Isabel trabajó activamente en crear un entorno energético para su equipo: reuniones más cortas y con objetivos claros, cultura de respeto del tiempo de concentración, y conversaciones regulares sobre lo que funcionaba y lo que no.
+Isabel trabajo activamente en crear un entorno energético para su equipo: reuniones más cortas y con objetivos claros, cultura de respeto del tiempo de concentración, y conversaciones regulares sobre lo que funcionaba y lo que no.
 
 El resultado fue medible: menos absentismo, mayor retención de talento, y —según las propias palabras del equipo— "una energía diferente en el trabajo".
 

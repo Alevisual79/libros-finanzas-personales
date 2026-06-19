@@ -54,7 +54,7 @@ Las personas dentro de la propia organización. Frecuentemente infrautilizada. L
 Personas del mismo nivel y campo. Compañeros del sector. Fuente de información sobre el mercado, de colaboración potencial y de perspectiva externa.
 
 **La red vertical:**
-Personas con más experiencia y personas que están en etapas más tempranas. Los mentores, los sponsors. Los que pueden orientar hacia oportunidades y los que se pueden ayudar.
+Personas con más experiencia y personas que están en etapas más tempranas. Los mentores, los sponsors. Los que pueden orientar hacía oportunidades y los que se pueden ayudar.
 
 **La red diversa:**
 Personas de campos diferentes. Las ideas más innovadoras frecuentemente surgen de conexiones entre disciplinas distintas. La red homogénea (todos del mismo sector, misma función, misma perspectiva) tiende a la uniformidad.
@@ -74,16 +74,16 @@ LinkedIn y otras redes profesionales han transformado el networking. Han hecho m
 **Lo que no funciona:**
 Los mensajes automáticos de "quiero añadirte a mi red profesional". Las solicitudes de conexión sin contexto. El networking en línea sin ningún contacto real.
 
-Rubén construyó una audiencia pequeña pero muy comprometida en LinkedIn escribiendo sobre sus aprendizajes reales como freelance —incluyendo los errores. Los mensajes que recibió de personas que se reconocían en sus experiencias le abrieron oportunidades que nunca habría buscado directamente.
+Rubén construyo una audiencia pequeña pero muy comprometida en LinkedIn escribiendo sobre sus aprendizajes reales como freelance —incluyendo los errores. Los mensajes que recibio de personas que se reconocían en sus experiencias le abrieron oportunidades que nunca habría buscado directamente.
 
 ---
 
 ## Capítulo 5: Cómo iniciar conversaciones
 
-Para muchas personas, el momento más difícil del networking es el inicio: cómo aproximarse a alguien que no se conoce.
+Para muchas personas, el momento más difícil del networking es el inició: cómo aproximarse a alguien que no se conoce.
 
 **El contexto compartido:**
-El punto de entrada más natural es un contexto compartido: el mismo evento, el mismo artículo, el mismo campo. "He leído tu publicación sobre X y me pareció muy interesante" es un inicio mucho más efectivo que un contacto sin contexto.
+El punto de entrada más natural es un contexto compartido: el mismo evento, el mismo artículo, el mismo campo. "He leído tu publicación sobre X y me pareció muy interesante" es un inició mucho más efectivo que un contacto sin contexto.
 
 **La pregunta genuina:**
 Las personas disfrutan hablar de su trabajo cuando alguien está genuinamente interesado. "¿En qué estás trabajando actualmente que te parezca más interesante?" abre una conversación más rica que "¿A qué te dedicas?"

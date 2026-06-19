@@ -12,7 +12,7 @@ El mentor guardaba un artículo de 1998 que describía las habilidades más valo
 
 La mayoría de esas habilidades o habían desaparecido como relevantes o habían sido reemplazadas por algo completamente diferente.
 
-"El conocimiento se deprecia," le decía siempre a Elena. "No como un coche, que tarda veinte años en volverse inservible. Como la tecnología: rápido, silenciosamente, y a menudo sin que te des cuenta."
+"El conocimiento se deprecia," le decía siempre a Elena. "No cómo un coche, que tarda veinte años en volverse inservible. Como la tecnología: rápido, silenciosamente, y a menudo sin que te des cuenta."
 
 La pregunta no es si el conocimiento se volverá obsoleto. La pregunta es si estás aprendiendo más rápido de lo que se deprecia lo que ya sabes.
 
@@ -26,7 +26,7 @@ En la mayoría de campos profesionales, la "vida media" del conocimiento especí
 Estudios del Foro Económico Mundial estiman que el 50% de las habilidades laborales requerirán actualización significativa cada cinco años. En campos técnicos, el ciclo es más corto.
 
 **Las implicaciones:**
-El modelo de "aprendo en la escuela o universidad y luego aplico lo aprendido toda la vida" es funcionalmente obsoleto. El aprendizaje tiene que ser continuo no como aspiración sino como necesidad práctica de permanencia y relevancia profesional.
+El modeló de "aprendo en la escuela o universidad y luego aplico lo aprendido toda la vida" es funcionalmente obsoleto. El aprendizaje tiene que ser continuo no como aspiración sino como necesidad práctica de permanencia y relevancia profesional.
 
 **Lo que no se deprecia:**
 Las habilidades de aprendizaje en sí: saber cómo aprender de forma eficiente, cómo identificar lo que vale la pena aprender, cómo integrar conocimiento nuevo con conocimiento existente. Estas habilidades de segundo orden son las más valiosas en un entorno de cambio acelerado.
@@ -51,7 +51,7 @@ Un bloque de tiempo diario o casi diario dedicado a aprender. No necesariamente 
 No todo el aprendizaje tiene el mismo valor. La elección de qué aprender es tan importante como el hábito de aprender.
 
 **El conocimiento en T:**
-Un modelo útil para estructurar el aprendizaje profesional: profundidad en un área específica (la barra vertical de la T) más amplitud en áreas relacionadas (la barra horizontal).
+Un modeló útil para estructurar el aprendizaje profesional: profundidad en un área específica (la barra vertical de la T) más amplitud en áreas relacionadas (la barra horizontal).
 
 La profundidad crea expertise real y diferenciación. La amplitud crea conexiones entre disciplinas que generan ideas que los especialistas puros no ven.
 
@@ -68,7 +68,7 @@ Información de actualidad superficial (noticias, redes sociales) que consume ti
 
 ## Capítulo 4: Las fuentes de aprendizaje de alto valor
 
-Rubén construyó su sistema de aprendizaje continuo identificando las fuentes que producían mayor retorno por tiempo invertido.
+Rubén construyo su sistema de aprendizaje continuo identificando las fuentes que producían mayor retorno por tiempo invertido.
 
 **Libros:**
 La fuente con mayor densidad de conocimiento por tiempo de atención. Un libro de 300 páginas representa años de investigación y experiencia condensados. La lectura de libros es la forma más eficiente de acceder a conocimiento profundo.
@@ -89,7 +89,7 @@ El aprendizaje más infrautilizado. Las conversaciones con personas más avanzad
 La mayoría de las personas aprenden mal no porque no tengan acceso a información sino porque no retienen lo que leen o escuchan.
 
 **El problema de la curva de olvido:**
-Hermann Ebbinghaus documentó en el siglo XIX que sin repaso, el 50% de la información aprendida se olvida en un día, y el 90% en una semana. El aprendizaje sin estrategias de retención es como llenar un cubo con agujeros.
+Hermann Ebbinghaus documentó en el siglo XIX que sin repasó, el 50% de la información aprendida se olvida en un día, y el 90% en una semana. El aprendizaje sin estrategias de retención es como llenar un cubo con agujeros.
 
 **Las estrategias que funcionan:**
 
@@ -169,7 +169,7 @@ Las organizaciones donde el aprendizaje continuo es parte de la cultura tienen v
 - Líderes que modelan el aprendizaje continuo (aprendiendo visiblemente)
 - Tolerancia al error honesto como fuente de aprendizaje
 
-Isabel introdujo retrospectivas quincenales de quince minutos con su equipo. No para evaluar el rendimiento: para aprender. La diferencia en la cultura del equipo fue notable en dos meses.
+Isabel introdujó retrospectivas quincenales de quince minutos con su equipo. No para evaluar el rendimiento: para aprender. La diferencia en la cultura del equipo fue notable en dos meses.
 
 ---
 

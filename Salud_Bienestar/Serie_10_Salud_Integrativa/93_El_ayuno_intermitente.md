@@ -122,7 +122,7 @@ Hambre, irritabilidad, dificultad de concentración, mareos, dolor de cabeza. So
 El ayuno activa la respuesta de estrés (cortisol). En personas con niveles de cortisol ya elevados (estrés crónico, privación de sueño), el ayuno puede empeorar el problema.
 
 **El hambre atracón:**
-Algunas personas, después de periodos de ayuno, compensan comiendo en exceso durante la ventana de alimentación. En estos casos, el AI puede no producir déficit calórico y puede empeorar la relación con la comida.
+Algunas personas, después de períodos de ayuno, compensan comiendo en exceso durante la ventana de alimentación. En estos casos, el AI puede no producir déficit calórico y puede empeorar la relación con la comida.
 
 ---
 
@@ -156,7 +156,7 @@ El AI puede entrar en conflicto con las comidas sociales y familiares. La rigide
 
 Miguel empezó por eliminar el picoteo nocturno. Luego retrasó el desayuno. Terminó con una ventana de 10h que le resultaba cómoda.
 
-No siguió el protocolo por los supuestos beneficios de la autofagia. Lo siguió porque se sentía mejor, comía menos de forma espontánea y había perdido el ansia por el snack de media tarde.
+No siguio el protocolo por los supuestos beneficios de la autofagia. Lo siguio porque se sentía mejor, comía menos de forma espontánea y había perdido el ansia por el snack de media tarde.
 
 "No sé si me está 'limpiando las células'. Lo que sé es que funciona para mí."
 

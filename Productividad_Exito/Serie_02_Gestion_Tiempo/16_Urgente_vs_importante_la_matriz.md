@@ -12,7 +12,7 @@ Dwight Eisenhower, antes de ser presidente de los Estados Unidos, fue el comanda
 
 Se le atribuye esta frase: "Lo que es importante rara vez es urgente, y lo que es urgente rara vez es importante."
 
-Décadas después, Stephen Covey inmortalizó este principio en "Los 7 hábitos de la gente altamente efectiva" con la Matriz de Gestión del Tiempo, popularmente conocida como la Matriz de Eisenhower.
+Décadas después, Stephen Covey inmortalizó este principio en "Los 7 hábitos de la gente altamente efectiva" con la Matriz de Gestión del Tiempo, popularmente conocida cómo la Matriz de Eisenhower.
 
 La matriz no es complicada. Pero la mayoría de personas que la conocen no la usan. Y las que la usan, no siempre la usan bien.
 
@@ -78,7 +78,7 @@ La dificultad de la matriz está en el eje de importancia. La urgencia es objeti
 **Dos preguntas para evaluar importancia:**
 
 **¿Acerca esto a mis objetivos más importantes?**
-Si los objetivos del año son X, Y y Z, ¿esta tarea avanza hacia alguno de ellos?
+Si los objetivos del año son X, Y y Z, ¿esta tarea avanza hacía alguno de ellos?
 
 **¿Cuáles serían las consecuencias de no hacerlo?**
 Las consecuencias de no hacer algo importante son significativas y duraderas. Las consecuencias de no hacer algo urgente pero no importante... a menudo son triviales.
@@ -94,7 +94,7 @@ La matriz no solo es una herramienta de priorización. Es también una herramien
 **Cuadrante III — Delegar:**
 Lo urgente no importante raramente requiere tu intervención específica. Puede delegarse a alguien que tenga la capacidad de atenderlo.
 
-Isabel, como directora, aprendió a identificar cuántos Cuadrante III llegaban a ella que podía —y debía— delegar. El resultado fue doble: ella ganó tiempo para el Cuadrante II y su equipo ganó oportunidades de asumir responsabilidad.
+Isabel, como directora, aprendió a identificar cuántos Cuadrante III llegaban a ella que podía —y debía— delegar. El resultado fue doble: ella gano tiempo para el Cuadrante II y su equipo gano oportunidades de asumir responsabilidad.
 
 **Cuadrante IV — Eliminar:**
 Lo no urgente no importante es, por definición, lo que se puede eliminar sin consecuencias. No siempre es fácil emocionalmente, pero las consecuencias de eliminarlo son mínimas.
@@ -154,13 +154,13 @@ El diagnóstico más útil de la cultura de una organización es en qué cuadran
 
 Las organizaciones que viven en el Cuadrante I (crisis permanente, urgencias siempre, apagafuegos perpetuos) suelen tener una causa común: insuficiente inversión colectiva en el Cuadrante II (planificación, formación, procesos, sistemas preventivos).
 
-Isabel heredó un departamento en modo crisis permanente. El primer año no intentó apagar menos fuegos; invirtió en el Cuadrante II: mejoró los procesos, formó al equipo, estableció reuniones de planificación trimestral. El segundo año, los fuegos del Cuadrante I habían caído en un 60%.
+Isabel heredó un departamento en modo crisis permanente. El primer año no intento apagar menos fuegos; invirtió en el Cuadrante II: mejoro los procesos, formo al equipo, estableció reuniones de planificación trimestral. El segundo año, los fuegos del Cuadrante I habían caído en un 60%.
 
 ---
 
 ## Capítulo 10: La clasificación de Elena
 
-Elena pasó treinta minutos clasificando todas las tareas de su lista de pendientes en los cuatro cuadrantes.
+Elena paso treinta minutos clasificando todas las tareas de su lista de pendientes en los cuatro cuadrantes.
 
 Lo que encontró la sorprendió: el 70% de su lista era Cuadrante I o III. Solo el 15% era Cuadrante II genuino.
 

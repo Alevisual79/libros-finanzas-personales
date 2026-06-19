@@ -1,4 +1,4 @@
-﻿# De empleado a orquestador de IA
+# De empleado a orquestador de IA
 ## El nuevo perfil profesional que domina la economía de la IA
 
 **Serie 2: IA en el Trabajo — Libro 10 de 10**
@@ -7,7 +7,7 @@
 
 ## Prólogo: El trabajo de Elena en 2027
 
-En 2027, el título en el contrato de Elena seguía siendo "Directora de Tecnología". Pero lo que hacía día a día no se parecía a lo que hacía en 2024.
+En 2027, el título en el contrató de Elena seguía siendo "Directora de Tecnología". Pero lo que hacía día a día no se parecía a lo que hacía en 2024.
 
 El 40% de su semana lo pasaba diseñando, configurando y supervisando sistemas de IA que hacían el trabajo que antes hacía su equipo. El 35% en trabajo estratégico que los sistemas no podían hacer: definir objetivos, evaluar resultados, tomar decisiones en situaciones nuevas. El 25% en relaciones: con su equipo, con otros directivos, con clientes clave.
 
@@ -73,7 +73,7 @@ El orquestador diseña el sistema que produce: configura el agente que recopila 
 
 Este cambio es más profundo de lo que parece. Requiere una capacidad de abstracción diferente: pensar en meta-nivel sobre el trabajo en lugar de en el nivel del trabajo mismo.
 
-Rubén pasó de escribir propuestas a diseñar el sistema que produce borradores de propuestas. Isabel pasó de hacer entrevistas de candidatos a diseñar el proceso de screening que filtra candidatos antes de la entrevista. Elena pasó de revisar código a diseñar los pipelines de revisión de código asistida.
+Rubén paso de escribir propuestas a diseñar el sistema que produce borradores de propuestas. Isabel paso de hacer entrevistas de candidatos a diseñar el proceso de screening que filtra candidatos antes de la entrevista. Elena paso de revisar código a diseñar los pipelines de revisión de código asistida.
 
 ---
 
@@ -93,15 +93,15 @@ La transición de usuario ocasional de IA a orquestador sistemático no ocurre d
 
 ## Capítulo 6: El orquestador en la práctica: el día de Rubén
 
-6:30 — Rubén revisa el informe matutino que el agente de inteligencia de mercado generó durante la noche.
+6:30 — Rubén revisa el informe matutino que el agente de inteligencia de mercado genero durante la noche.
 
-8:00 — Revision de borradores de propuesta que el sistema generó para dos clientes potenciales. Los ajusta y personaliza. 45 minutos en lugar de 4 horas.
+8:00 — Revisión de borradores de propuesta que el sistema genero para dos clientes potenciales. Los ajusta y personaliza. 45 minutos en lugar de 4 horas.
 
 9:30 — Reunión con cliente para entender sus necesidades. Esta parte no cambia: la conexión humana sigue siendo de Rubén.
 
 11:00 — Configuración de un nuevo agente de monitorización para un cliente nuevo. Define las fuentes, los criterios y el formato del output. 2 horas de trabajo de diseño que producirán valor automático semanalmente.
 
-14:00 — Revisión de los resultados del mes. El sistema ya generó el análisis; Rubén añade el contexto y la interpretación estratégica.
+14:00 — Revisión de los resultados del mes. El sistema ya genero el análisis; Rubén añade el contexto y la interpretación estratégica.
 
 16:00 — Llamadas de seguimiento con clientes. Relaciones: aún completamente humanas.
 
@@ -164,7 +164,7 @@ Esta serie ha recorrido el paisaje del trabajo con IA: el futuro del empleo, el 
 
 La Serie 2 llega a su conclusión con el perfil que sintetiza todo lo anterior: el orquestador de IA. El profesional que ha pasado de hacer trabajo a diseñar los sistemas que hacen el trabajo, mientras concentra su valor en lo que los sistemas no pueden replicar.
 
-Este perfil no es para todos los trabajos ni para todos los contextos. Pero en el trabajo del conocimiento —y cada vez más en otros tipos de trabajo— es la dirección hacia la que apunta la evolución.
+Este perfil no es para todos los trabajos ni para todos los contextos. Pero en el trabajo del conocimiento —y cada vez más en otros tipos de trabajo— es la dirección hacía la que apunta la evolución.
 
 La Serie 3 cambia de perspectiva: de cómo se trabaja con IA a las herramientas específicas que hacen posible ese trabajo. ChatGPT, Claude, Gemini, Copilot, las herramientas de imagen, audio y código: el ecosistema concreto del profesional de la IA.
 

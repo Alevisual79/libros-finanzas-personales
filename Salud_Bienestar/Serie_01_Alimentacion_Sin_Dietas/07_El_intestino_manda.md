@@ -20,7 +20,7 @@ La ciencia de la microbiota es joven pero está avanzando a una velocidad que ca
 
 La microbiota intestinal es el conjunto de microorganismos (principalmente bacterias pero también hongos, virus y arqueas) que habitan el tracto digestivo.
 
-Cada persona tiene una microbiota única, como una huella dactilar. Está influenciada por el tipo de parto, la lactancia, los antibióticos recibidos en la infancia, la dieta a lo largo de la vida, el entorno y el estrés.
+Cada persona tiene una microbiota única, cómo una huella dactilar. Está influenciada por el tipo de parto, la lactancia, los antibióticos recibidos en la infancia, la dieta a lo largo de la vida, el entorno y el estrés.
 
 La microbiota más diversa se asocia en general con mejor salud. La pérdida de diversidad se asocia con enfermedades inflamatorias, metabólicas y mentales.
 
@@ -46,7 +46,7 @@ El intestino y el cerebro están conectados por el nervio vago, el eje hipotála
 
 Esta conexión es bidireccional. El cerebro influye en el intestino (el estrés causa síntomas digestivos). Y el intestino influye en el cerebro (la microbiota afecta el estado de ánimo, la ansiedad y la cognición).
 
-Los estudios con trasplante fecal en ratones han demostrado que se pueden transferir características de comportamiento (ansiedad, curiosidad) junto con la microbiota. Esto sugiere que la microbiota tiene un papel causal en el comportamiento, no solo correlacional.
+Los estudios con trasplante fecal en ratones han demostrado que se pueden transferir características de comportamiento (ansiedad, curiosidad) juntó con la microbiota. Esto sugiere que la microbiota tiene un papel causal en el comportamiento, no solo correlacional.
 
 Miguel tiene síndrome de intestino irritable y ansiedad. Lo que los estudios recientes sugieren: puede que no sean dos problemas separados sino dos manifestaciones del mismo eje intestino-cerebro alterado.
 

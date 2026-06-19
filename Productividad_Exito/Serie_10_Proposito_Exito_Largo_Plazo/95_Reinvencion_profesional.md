@@ -50,10 +50,10 @@ No todas las razones para cambiar de carrera son igualmente sólidas.
 **Las razones que frecuentemente no son suficientes:**
 - El trabajo actual tiene un período difícil (frecuentemente pasa)
 - Un campo diferente parece más atractivo desde afuera (el pasto siempre es más verde)
-- La presión social hacia un tipo de trabajo diferente
+- La presión social hacía un tipo de trabajo diferente
 
 **La distinción clave:**
-¿Quiero salir de algo (evitación) o quiero ir hacia algo (aproximación)? Las transiciones motivadas por aproximación tienen más probabilidad de producir satisfacción que las motivadas por evitación.
+¿Quiero salir de algo (evitación) o quiero ir hacía algo (aproximación)? Las transiciones motivadas por aproximación tienen más probabilidad de producir satisfacción que las motivadas por evitación.
 
 ---
 
@@ -96,7 +96,7 @@ Las transiciones de carrera que funcionan mejor raramente son saltos abruptos. S
 - Voluntariado o trabajo pro bono en el sector de destino
 - Lectura profunda de los debates y perspectivas del campo
 
-Rubén quería transicionar de marketing freelance a consultoría estratégica para empresas medianas. Antes de hacer el salto, pasó seis meses haciendo conversaciones con consultores estratégicos, ofreciendo proyectos de prueba a precios reducidos y tomando un programa de formación específico. Cuando hizo la transición formal, no era un extraño en el nuevo campo: era alguien con experiencia real en él.
+Rubén quería transicionar de marketing freelance a consultoría estratégica para empresas medianas. Antes de hacer el salto, paso seis meses haciendo conversaciones con consultores estratégicos, ofreciendo proyectos de prueba a precios reducidos y tomando un programa de formación específico. Cuando hizo la transición formal, no era un extraño en el nuevo campo: era alguien con experiencia real en él.
 
 ---
 
@@ -138,7 +138,7 @@ No existe el momento perfecto para una transición de carrera. Pero hay momentos
 - Cuando la situación actual todavía es sostenible (no en modo crisis): hay más opciones y menos presión
 - Cuando hay reservas financieras suficientes para absorber el período de menor ingreso que frecuentemente acompaña a la transición
 - Cuando hay claridad sobre el destino (aunque no certeza total)
-- Cuando hay energía y curiosidad hacia el nuevo campo, no solo agotamiento del actual
+- Cuando hay energía y curiosidad hacía el nuevo campo, no solo agotamiento del actual
 
 **Los momentos más difíciles:**
 - En crisis o burnout: el estrés reduce la capacidad de tomar buenas decisiones
@@ -149,7 +149,7 @@ No existe el momento perfecto para una transición de carrera. Pero hay momentos
 
 ## Capítulo 9: La reinvención de Isabel — la tercera etapa de su carrera
 
-Isabel identificó lo que quería en la tercera etapa de su carrera: usar su experiencia en RRHH para asesorar a empresas medianas que no pueden permitirse una directora de RRHH a tiempo completo pero necesitan la perspectiva estratégica de una.
+Isabel identifico lo que quería en la tercera etapa de su carrera: usar su experiencia en RRHH para asesorar a empresas medianas que no pueden permitirse una directora de RRHH a tiempo completo pero necesitan la perspectiva estratégica de una.
 
 No era un campo completamente nuevo. Era la misma expertise, en un nuevo formato y para un nuevo tipo de cliente.
 

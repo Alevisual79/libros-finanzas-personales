@@ -41,7 +41,7 @@ Una planificación efectiva opera en tres niveles simultáneos.
 ¿Qué quiero haber conseguido al final de este trimestre? Proyectos completados, habilidades desarrolladas, resultados alcanzados. Este nivel da la dirección general.
 
 **Nivel 2 — La semana:**
-¿Qué debe ocurrir esta semana para estar en camino hacia los objetivos trimestrales? Este nivel traduce la dirección en acción concreta.
+¿Qué debe ocurrir esta semana para estar en camino hacía los objetivos trimestrales? Este nivel traduce la dirección en acción concreta.
 
 **Nivel 3 — El día:**
 ¿Qué hago hoy? Este nivel es consecuencia de los dos anteriores, no un punto de partida.
@@ -90,7 +90,7 @@ No diez. No veinte. Tres.
 Tres objetivos son lo suficientemente pocos para recordar sin lista. Son lo suficientemente pocos para que todos puedan ser importantes de verdad. Son lo suficientemente pocos para que el foco no se disperse.
 
 **Cómo elegir las tres:**
-- ¿Qué avanzo hacia mis objetivos trimestrales?
+- ¿Qué avanzo hacía mis objetivos trimestrales?
 - ¿Qué tiene fecha límite esta semana?
 - ¿Qué, si no se hace esta semana, causará problemas?
 
@@ -117,7 +117,7 @@ Dejar siempre tiempo sin bloquear (20-30% del tiempo disponible) para lo imprevi
 
 ## Capítulo 6: Planificación diaria dentro de la semanal
 
-La planificación semanal da el marco. La planificación diaria da el detalle.
+La planificación semanal da el marcó. La planificación diaria da el detalle.
 
 **El ritual de la mañana (5-10 min):**
 Al comienzo de cada día, mirar el bloque semanal y decidir la tarea concreta más importante del día. Esta se hace antes que cualquier otra cosa.
@@ -181,7 +181,7 @@ Rubén hizo su primera revisión semanal un domingo. Le llevó 35 minutos.
 
 Cuando terminó, tenía tres prioridades claras para la semana. Tenía seis bloques de 90 minutos bloqueados en el calendario para esas prioridades. Tenía una lista clara de tareas menores para gestionar en los espacios entre bloques.
 
-El lunes por la mañana, en lugar de abrir el correo y esperar que la semana le dijera qué hacer, abrió su primera tarea de prioridad y trabajó noventa minutos antes de mirar nada más.
+El lunes por la mañana, en lugar de abrir el correo y esperar que la semana le dijera qué hacer, abrió su primera tarea de prioridad y trabajo noventa minutos antes de mirar nada más.
 
 El viernes de esa semana, Rubén comprobó si las tres grandes se habían completado. Dos de tres, completadas. La tercera, al 70%.
 

@@ -35,7 +35,7 @@ La monotarea no es el estado natural de un cerebro sobre-estimulado del siglo XX
 La glorificación de la multitarea tiene raíces culturales y económicas.
 
 **La glorificación:**
-"Soy buenísimo haciendo varias cosas a la vez" es un enunciado de orgullo. La capacidad de responder correos mientras se atiende una reunión mientras se gestiona un proyecto se presenta como una virtud.
+"Soy buenísimo haciendo varias cosas a la vez" es un enunciado de orgullo. La capacidad de responder correos mientras se atiende una reunión mientras se gestiona un proyecto se presenta cómo una virtud.
 
 **Los costes:**
 - Organizaciones donde nadie puede concentrarse porque todos esperan disponibilidad inmediata de todos
@@ -148,9 +148,9 @@ Rubén hizo el experimento: un día entero de monotarea.
 
 Regla: en todo momento, una sola cosa activa. Sin segundas pestañas, sin teléfono visible, sin otro proyecto en la cabeza.
 
-Cuando llegó la urge de revisar el teléfono, la anotó en un papel y siguió.
-Cuando tuvo una idea sobre otro proyecto, la anotó en el cuaderno y siguió.
-Cuando el correo generó el impulso de abrirlo, esperó hasta el bloque de comunicaciones.
+Cuando llegó la urge de revisar el teléfono, la anotó en un papel y siguio.
+Cuando tuvo una idea sobre otro proyecto, la anotó en el cuaderno y siguio.
+Cuando el correo genero el impulso de abrirlo, esperó hasta el bloque de comunicaciones.
 
 Al final del día: tres proyectos completados, cero errores que corregir, un nivel de satisfacción inusual.
 

@@ -27,7 +27,7 @@ Estudios como el NATSAL (National Survey of Sexual Attitudes and Lifestyles) en 
 - La calidad de la vida sexual puede mejorar con la edad (mayor conocimiento del propio cuerpo, menor ansiedad de rendimiento, mayor intimidad emocional)
 
 **El ageísmo sexual:**
-La cultura popular presenta la sexualidad como un territorio exclusivo de los jóvenes. Los mayores que expresan deseo sexual son frecuentemente ridiculizados o infantilizados. Este ageísmo produce vergüenza, ocultación y, a veces, renuncia a la sexualidad no por falta de deseo sino por presión cultural.
+La cultura popular presenta la sexualidad cómo un territorio exclusivo de los jóvenes. Los mayores que expresan deseo sexual son frecuentemente ridiculizados o infantilizados. Este ageísmo produce vergüenza, ocultación y, a veces, renuncia a la sexualidad no por falta de deseo sino por presión cultural.
 
 ---
 
@@ -73,7 +73,7 @@ La pérdida del compañero sexual habitual es el factor más frecuente de interr
 La sexualidad que funciona bien en la vejez generalmente requiere adaptación de las expectativas y las formas.
 
 **Más tiempo, menos prisa:**
-El cuerpo mayor necesita más tiempo para excitarse y para conseguir la erección o la lubricación. Esta lentitud, que puede vivirse como un problema, también puede ser una oportunidad para más juego previo, más atención, más presencia.
+El cuerpo mayor necesita más tiempo para excitarse y para conseguir la erección o la lubricación. Esta lentitud, que puede vivirse cómo un problema, también puede ser una oportunidad para más juego previo, más atención, más presencia.
 
 **La exploración más allá de la penetración:**
 La penetración vaginal no es la única ni necesariamente la mejor forma de sexualidad. Las caricias, la estimulación oral, el contacto íntimo sin penetración pueden ser igualmente o más satisfactorios, especialmente cuando la penetración es dolorosa o la erección es incompleta.
@@ -136,7 +136,7 @@ Es una dimensión del duelo frecuentemente ignorada, tanto por la persona en due
 No hay plazos correctos. Algunas personas retoman la actividad sexual relativamente pronto tras una pérdida; otras no lo hacen nunca. Ambas son válidas.
 
 **La presión del entorno:**
-Tanto la presión para no "moverse" demasiado pronto como la presión para "seguir adelante" pueden interferir con el proceso personal. La decisión sobre la propia sexualidad es personal e intransferible.
+Tanto la presión para no "moverse" demasiado pronto cómo la presión para "seguir adelante" pueden interferir con el proceso personal. La decisión sobre la propia sexualidad es personal e intransferible.
 
 ---
 

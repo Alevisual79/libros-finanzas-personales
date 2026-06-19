@@ -34,13 +34,13 @@ No negociar no evita el conflicto. Solo transfiere la decisión al otro lado. La
 ## Capítulo 2: Los dos errores fundamentales de la negociación
 
 **Error 1: La negociación como suma cero ("si yo gano, tú pierdes")**
-Este modelo de negociación —regateo puro— produce acuerdos mediocres y daña las relaciones. El objetivo es tomar todo lo que sea posible del lado opuesto.
+Este modeló de negociación —regateo puro— produce acuerdos mediocres y daña las relaciones. El objetivo es tomar todo lo que sea posible del lado opuesto.
 
 **Error 2: La rendición como amabilidad**
 Ceder en todo para evitar el conflicto. El resultado es un acuerdo que no satisface los intereses propios y una relación donde el otro aprende que puede pedir sin límite.
 
-**El modelo correcto:**
-Roger Fisher y William Ury, en "Getting to Yes" (Sí, de acuerdo), desarrollaron el modelo de negociación basada en principios: buscar acuerdos que satisfagan los intereses reales de ambas partes. No posiciones, sino intereses.
+**El modeló correcto:**
+Roger Fisher y William Ury, en "Getting to Yes" (Sí, de acuerdo), desarrollaron el modeló de negociación basada en principios: buscar acuerdos que satisfagan los intereses reales de ambas partes. No posiciones, sino intereses.
 
 ---
 
@@ -144,7 +144,7 @@ Los acuerdos verbales son más frágiles que los escritos. Después de una negoc
 Un acuerdo de negociación no implementado es como no haber negociado. El seguimiento de que los acuerdos se cumplen es parte de la negociación.
 
 **La relación después:**
-En negociaciones continuadas, la calidad de la relación después de cada negociación afecta a las siguientes. Los acuerdos donde ambas partes sienten que ganaron construyen confianza. Los acuerdos donde una parte siente que perdió generan resentimiento acumulativo.
+En negociaciones continuadas, la calidad de la relación después de cada negociación afecta a las siguientes. Los acuerdos donde ambas partes sienten que ganaron construyen confianza. Los acuerdos donde una parte siente que perdio generan resentimiento acumulativo.
 
 ---
 
@@ -154,9 +154,9 @@ Rubén habló con el cliente. Había preparado la conversación con detalle.
 
 "He valorado mi trabajo en este proyecto y creo que mi tarifa actual no refleja el valor que aporto. Me gustaría proponer X euros por hora a partir del próximo mes."
 
-El cliente hizo una contrapropuesta ligeramente inferior. Rubén, que había preparado su respuesta, dijo: "Puedo aceptar ese número si podemos comprometernos a un contrato de al menos tres meses. Eso me da estabilidad y tú tienes continuidad garantizada."
+El cliente hizo una contrapropuesta ligeramente inferior. Rubén, que había preparado su respuesta, dijo: "Puedo aceptar ese número si podemos comprometernos a un contrató de al menos tres meses. Eso me da estabilidad y tú tienes continuidad garantizada."
 
-El cliente aceptó.
+El cliente acepto.
 
 "Fue más fácil de lo que pensaba," le dijo Rubén al mentor.
 

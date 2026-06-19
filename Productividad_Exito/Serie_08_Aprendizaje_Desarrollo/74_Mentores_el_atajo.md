@@ -6,13 +6,13 @@
 
 ---
 
-## Prólogo: La pregunta que cambió la trayectoria de Elena
+## Prólogo: La pregunta que cambio la trayectoria de Elena
 
 Elena llevaba años avanzando en su carrera de ingeniería, pero sentía que podría ir más rápido. Tomaba cursos, leía libros, asistía a conferencias.
 
 En una de esas conferencias, tuvo una conversación de veinte minutos con una ingeniera senior que había resuelto exactamente los problemas que Elena estaba enfrentando diez años antes.
 
-En esos veinte minutos, Elena obtuvo más perspectiva práctica sobre su situación que en los tres últimos meses de estudio autónomo.
+En esos veinte minutos, Elena obtuvó más perspectiva práctica sobre su situación que en los tres últimos meses de estudio autónomo.
 
 "¿Por qué no busqué esto antes?" se preguntó de camino a casa.
 
@@ -81,7 +81,7 @@ Personas que producen contenido (libros, podcasts, artículos, charlas) sobre te
 
 ## Capítulo 5: Cómo pedir mentoring
 
-La solicitud de mentoring mal hecha produce rechazo. La bien hecha, frecuentemente produce sorpresa por la apertura de las personas.
+La solicitud de mentoring mal hecha produce rechazó. La bien hecha, frecuentemente produce sorpresa por la apertura de las personas.
 
 **Los errores frecuentes:**
 - Pedir demasiado sin ofrecer nada a cambio
@@ -121,7 +121,7 @@ No solo el "gracias" de cortesía. El agradecimiento que muestra que el consejo 
 
 ## Capítulo 7: El mentoring inverso
 
-El mentoring no es solo de arriba (más experimentado) hacia abajo (menos experimentado). El mentoring inverso —donde la persona menos experimentada en ciertos aspectos mentora a la más experimentada— tiene valor real.
+El mentoring no es solo de arriba (más experimentado) hacía abajo (menos experimentado). El mentoring inverso —donde la persona menos experimentada en ciertos aspectos mentora a la más experimentada— tiene valor real.
 
 **Los casos más frecuentes:**
 - Generaciones más jóvenes mentorando a más mayores en tecnología, redes sociales y tendencias culturales
@@ -169,7 +169,7 @@ Elena encontró a una mentora: una ingeniera de software que había hecho una tr
 
 Se reunieron cada seis semanas durante dos años. Elena preparaba cada conversación con tres preguntas específicas y una actualización de lo que había hecho desde la última vez.
 
-En esos dos años, la mentora señaló tres puntos ciegos que Elena no habría visto sola, sugirió dos movimientos de carrera que resultaron ser exactamente correctos, y le presentó a dos personas que abrieron oportunidades significativas.
+En esos dos años, la mentora señaló tres puntos ciegos que Elena no habría visto sola, sugirió dos movimientos de carrera que resultaron ser exactamente correctos, y le presento a dos personas que abrieron oportunidades significativas.
 
 "¿Cuánto tardaste tú en llegar a donde estás?" le preguntó Elena al final del segundo año.
 

@@ -18,7 +18,7 @@ La memoria no es un talento fijo. Es una habilidad con técnicas concretas que p
 
 ## Capítulo 1: Cómo funciona la memoria humana
 
-La memoria humana no funciona como un grabador de vídeo. No registra la experiencia fielmente y luego la reproduce. Construye, reconstruye e interpreta.
+La memoria humana no funciona cómo un grabador de vídeo. No registra la experiencia fielmente y luego la reproduce. Construye, reconstruye e interpreta.
 
 **Los tres sistemas de memoria:**
 
@@ -40,7 +40,7 @@ El psicólogo Hermann Ebbinghaus demostró en el siglo XIX que, sin revisión, l
 
 **Las causas del olvido:**
 - **Falta de codificación profunda:** La información se procesa superficialmente y no se conecta con conocimiento existente.
-- **Falta de revisión:** Sin repaso, el "rastro de memoria" se debilita.
+- **Falta de revisión:** Sin repasó, el "rastro de memoria" se debilita.
 - **Interferencia:** Información nueva similar puede desplazar la anterior.
 - **Recuperación fallida:** La información puede estar almacenada pero ser difícil de recuperar sin las señales correctas.
 
@@ -152,7 +152,7 @@ La memoria, como cualquier habilidad cognitiva, mejora con las estrategias corre
 
 Elena empezó un experimento: al final de cada reunión importante, escribir durante tres minutos los puntos más relevantes. Sin mirar notas. Solo lo que recordaba.
 
-Los primeros días, el ejercicio revelaba cuánto había olvidado en treinta minutos. Con la práctica, el porcentaje recordado aumentó.
+Los primeros días, el ejercicio revelaba cuánto había olvidado en treinta minutos. Con la práctica, el porcentaje recordado aumento.
 
 Al cabo de un mes, algo más: la calidad de su atención durante las reuniones había mejorado. Sabiendo que iba a recordar activamente, prestaba más atención durante la reunión.
 

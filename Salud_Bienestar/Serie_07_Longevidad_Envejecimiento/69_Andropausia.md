@@ -37,10 +37,10 @@ A diferencia de la menopausia femenina, el declive masculino es gradual (no hay 
 
 ---
 
-## Capítulo 2: El hipogonadismo de inicio tardío — el diagnóstico
+## Capítulo 2: El hipogonadismo de inició tardío — el diagnóstico
 
 **La definición:**
-El "hipogonadismo masculino de inicio tardío" (conocido coloquialmente como andropausia o déficit androgénico del envejecimiento masculino, DAEM) es el conjunto de síntomas clínicos y niveles de testosterona bajos en el hombre de mediana edad o mayor.
+El "hipogonadismo masculino de inició tardío" (conocido coloquialmente como andropausia o déficit androgénico del envejecimiento masculino, DAEM) es el conjunto de síntomas clínicos y niveles de testosterona bajos en el hombre de mediana edad o mayor.
 
 **No todos los hombres con declive hormonal tienen síntomas:**
 El umbral a partir del cual los síntomas aparecen varía entre personas. Algunos hombres con testosterona en el límite inferior del rango normal tienen síntomas; otros con niveles similares no tienen ninguno.
@@ -210,9 +210,9 @@ El plan:
 3. Ejercicio de fuerza 3 veces/semana
 4. Revisión en 3 meses
 
-A los 3 meses: testosterona de 340 ng/dL. Energía mejorada. Sueño mejorado. "El CPAP cambió mi vida. No lo esperaba. No sabía que la apnea producía todo eso."
+A los 3 meses: testosterona de 340 ng/dL. Energía mejorada. Sueño mejorado. "El CPAP cambio mi vida. No lo esperaba. No sabía que la apnea producía todo eso."
 
-No necesitó TRT. Pero tenía la información para pedirla si la hubiera necesitado.
+No necesito TRT. Pero tenía la información para pedirla si la hubiera necesitado.
 
 ---
 

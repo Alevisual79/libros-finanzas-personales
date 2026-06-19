@@ -35,7 +35,7 @@ El índice glucémico (IG) mide la velocidad a la que un alimento eleva la gluco
 Alto IG: pan blanco, arroz blanco, patata cocida sin piel, azúcar.
 Bajo IG: legumbres, pasta al dente, frutas, verduras.
 
-El problema del IG como herramienta única: no tiene en cuenta la cantidad consumida, ni lo que se come junto al alimento.
+El problema del IG como herramienta única: no tiene en cuenta la cantidad consumida, ni lo que se come juntó al alimento.
 
 Una patata hervida tiene IG alto. Pero si la comes con huevo y verdura, la respuesta glucémica total es muy diferente a comer la patata sola.
 

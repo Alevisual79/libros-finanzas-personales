@@ -14,7 +14,7 @@ Llevaba seis meses con esa sensación de agotamiento que no se iba ni con el fin
 
 Pensó que era floja. Que tenía que esforzarse más. Que se le pasaría.
 
-No se le pasó. Tres semanas después estaba de baja.
+No se le paso. Tres semanas después estaba de baja.
 
 El burnout no avisa con un cartel. Llega progresivamente, se confunde con cansancio normal y cuando se hace evidente ya lleva meses instalado.
 
@@ -25,10 +25,10 @@ El burnout no avisa con un cartel. Llega progresivamente, se confunde con cansan
 El burnout (síndrome de desgaste profesional) fue descrito por primera vez por el psicólogo Herbert Freudenberger en 1974. En 2019 la OMS lo reconoció como "fenómeno ocupacional" en la Clasificación Internacional de Enfermedades (CIE-11).
 
 **Los tres componentes del burnout según Maslach:**
-La investigadora Christina Maslach identificó la tríada definitoria:
+La investigadora Christina Maslach identifico la tríada definitoria:
 
 1. **Agotamiento emocional:** la sensación de estar completamente vaciado de recursos emocionales. No queda nada que dar.
-2. **Despersonalización o cinismo:** actitud distante, cínica o incluso deshumanizadora hacia el trabajo o hacia las personas a las que se atiende. El médico que ya no puede ver un paciente como persona. El profesor que ya no ve alumnos sino problemas.
+2. **Despersonalización o cinismo:** actitud distante, cínica o incluso deshumanizadora hacía el trabajo o hacía las personas a las que se atiende. El médico que ya no puede ver un paciente como persona. El profesor que ya no ve alumnos sino problemas.
 3. **Reducción de la sensación de eficacia personal:** la sensación de que ya no se hace nada bien, de que el trabajo no tiene sentido, de que los esfuerzos no llevan a ningún resultado.
 
 **La diferencia con el estrés:**
@@ -97,7 +97,7 @@ La dificultad de reconocer el burnout es que se normaliza como "cansancio del tr
 - Sensación de estar "en niebla" (brain fog)
 
 **Las señales emocionales:**
-- Cinismo o indiferencia hacia el trabajo que antes importaba
+- Cinismo o indiferencia hacía el trabajo que antes importaba
 - Irritabilidad o explosiones emocionales desproporcionadas
 - Sensación de fracaso e incompetencia
 - Pérdida completa de motivación
@@ -110,9 +110,9 @@ El fin de semana ya no recupera. Antes, dos días de descanso bastaban para volv
 
 ## Capítulo 5: Las causas del burnout — no es solo problema individual
 
-Uno de los errores más frecuentes al abordar el burnout es tratarlo como un problema individual que el individuo debe resolver con más resiliencia, mejor gestión del tiempo o más mindfulness.
+Uno de los errores más frecuentes al abordar el burnout es tratarlo cómo un problema individual que el individuo debe resolver con más resiliencia, mejor gestión del tiempo o más mindfulness.
 
-**El modelo de Demandas-Recursos:**
+**El modeló de Demandas-Recursos:**
 El burnout aparece cuando las demandas del trabajo (carga, presión, incertidumbre, conflicto emocional) superan de forma crónica los recursos disponibles (autonomía, apoyo social, reconocimiento, formación, tiempo).
 
 **Las causas organizacionales:**
@@ -162,7 +162,7 @@ Tener múltiples fuentes de significado —relaciones, aficiones, proyecto perso
 El perfeccionismo lleva a poner siempre más de lo que se pide, a nunca considerar el trabajo suficientemente bueno, a dificultad para delegar porque "nadie lo hace tan bien". Es una forma de sobreexigencia que agota sin que el resultado externo lo justifique.
 
 **La dificultad para pedir ayuda:**
-La persona que se va al burnout suele ser la que lleva toda la carga sin pedir ayuda porque "no quiere molestar", "debería poder sola", o "nadie lo haría tan bien como yo". Aprender a pedir ayuda es una habilidad tanto como lo es dar ayuda.
+La persona que se va al burnout suele ser la que lleva toda la carga sin pedir ayuda porque "no quiere molestar", "debería poder sola", o "nadie lo haría tan bien como yo". Aprender a pedir ayuda es una habilidad tanto cómo lo es dar ayuda.
 
 ---
 
@@ -193,7 +193,7 @@ La primera fase es el descanso y la desconexión. La segunda es la reconstrucci�
 
 **Lo que no ayuda:**
 - Volver demasiado pronto (el mismo entorno sin cambios)
-- Asumir que el burnout "ya pasó" en cuanto haya algo de energía
+- Asumir que el burnout "ya paso" en cuanto haya algo de energía
 - Ignorar los patrones que contribuyeron al burnout
 - No cambiar nada y esperar resultados diferentes
 
@@ -219,7 +219,7 @@ La recuperación del burnout, cuando se hace bien, puede ser una oportunidad de 
 Cada tres meses: ¿Cómo está mi nivel de energía? ¿Estoy disfrutando del trabajo o solo aguantando? ¿Tengo vida fuera del trabajo? ¿Cuándo fue la última vez que hice algo por placer?
 
 **El plan de Laura:**
-Volvió al instituto después de tres meses de baja. Habló con la dirección y redujo las horas de tutoría. Empezó a no llevar trabajo a casa. Retomó el grupo de lectura que había abandonado. "No es el mismo trabajo. Soy yo la que soy diferente."
+Volvió al instituto después de tres meses de baja. Habló con la dirección y redujó las horas de tutoría. Empezó a no llevar trabajo a casa. Retomó el grupo de lectura que había abandonado. "No es el mismo trabajo. Soy yo la que soy diferente."
 
 ---
 

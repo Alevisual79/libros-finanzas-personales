@@ -58,9 +58,9 @@ La primera es una instrucción. La segunda es una delegación real: el resultado
 
 ---
 
-## Capítulo 3: El modelo de delegación según la madurez
+## Capítulo 3: El modeló de delegación según la madurez
 
-Ken Blanchard y Paul Hersey desarrollaron el modelo de liderazgo situacional: el nivel de delegación apropiado depende de la competencia y el compromiso de la persona en esa tarea específica.
+Ken Blanchard y Paul Hersey desarrollaron el modeló de liderazgo situacional: el nivel de delegación apropiado depende de la competencia y el compromiso de la persona en esa tarea específica.
 
 **Nivel 1 — Principiante motivado (poca competencia, alto compromiso):**
 Necesita instrucciones detalladas y supervisión cercana. La delegación total en este nivel produce fracaso.
@@ -161,7 +161,7 @@ Isabel tenía una carga de trabajo insostenible. Hacía trabajo que su equipo po
 
 El mentor le preguntó: "¿Cuántas de las horas que trabajas esta semana podrían hacerlas alguien de tu equipo con la orientación adecuada?"
 
-Isabel lo calculó. Más del 40%.
+Isabel lo calculo. Más del 40%.
 
 Empezó a delegar con estructura: conversación de delegación clara, seguimiento sin microgestión, respuesta al error con análisis.
 

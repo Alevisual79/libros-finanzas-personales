@@ -14,7 +14,7 @@ Olvida cosas que antes recordaba sin esfuerzo. Entra a una habitación y no recu
 
 Pensó que era la edad. Que a los treinta y cinco el cerebro empieza a deteriorarse.
 
-Lo que nadie le explicó es que tiene el cerebro de alguien que lleva dos años durmiendo mal, trabajando bajo presión constante y en estado de alarma permanente. Y que eso tiene consecuencias neurológicas medibles, pero también reversibles en gran medida.
+Lo que nadie le explico es que tiene el cerebro de alguien que lleva dos años durmiendo mal, trabajando bajo presión constante y en estado de alarma permanente. Y que eso tiene consecuencias neurológicas medibles, pero también reversibles en gran medida.
 
 ---
 
@@ -195,7 +195,7 @@ Aunque la genética influye, los estudios estiman que hasta un tercio de los cas
 9. Proteger la audición
 
 **El plan de Miguel:**
-Después de leer sobre el impacto del sueño y el estrés en la cognición, Miguel implementó una política de "no pantallas en la cama" y empezó a salir a correr tres veces por semana. "En tres meses noté que me cuesta menos recordar cosas, que cuando me siento a trabajar consigo estar más tiempo concentrado. No volvió el cerebro de los veinte años. Pero sí el de hace dos."
+Después de leer sobre el impacto del sueño y el estrés en la cognición, Miguel implementó una política de "no pantallas en la cama" y empezó a salir a correr tres veces por semana. "En tres meses noté que me cuesta menos recordar cosas, que cuando me siento a trabajar consigo estar más tiempo concentrado. No volvio el cerebro de los veinte años. Pero sí el de hace dos."
 
 ---
 

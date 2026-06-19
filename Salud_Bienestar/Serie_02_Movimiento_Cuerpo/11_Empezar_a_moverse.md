@@ -199,7 +199,7 @@ Lo que sí notarás en las primeras 2-4 semanas con actividad regular:
 - Más energía a lo largo del día
 - Mejor humor (el ejercicio tiene efectos antidepresivos desde la primera sesión)
 - Menos tensión muscular
-- Sensación de logro y control
+- Sensación de logró y control
 
 Estos son los resultados reales y tempranos del movimiento. Son la razón para continuar mucho antes de que el cuerpo cambie.
 

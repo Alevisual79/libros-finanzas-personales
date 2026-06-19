@@ -8,7 +8,7 @@
 
 ## Prólogo: La pregunta que Isabel no supo responder
 
-En la revisión anual de objetivos con su mentora, Isabel recibió la pregunta que no esperaba.
+En la revisión anual de objetivos con su mentora, Isabel recibio la pregunta que no esperaba.
 
 No "¿cuáles son tus objetivos para el próximo año?" Eso lo había respondido docenas de veces.
 
@@ -26,7 +26,7 @@ Silencio. Había trabajado veinticinco años y nunca se había hecho esa pregunt
 
 El trabajo es la actividad que ocupa la mayor parte de las horas despiertas de la mayoría de los adultos durante la mayor parte de su vida activa. Aproximadamente noventa mil horas a lo largo de una carrera de cuarenta años.
 
-Noventa mil horas en una actividad es una inversión enorme. La mayoría de las personas no haría una inversión financiera significativa sin saber para qué la hace.
+Noventa mil horas en una actividad es una inversión enorme. La mayoría de las personas no haría una inversión financiera significativa sin saber para que la hace.
 
 **El automatismo:**
 La mayoría de las personas trabaja porque es lo que se hace. La transición del estudio al trabajo es automática. El trabajo que se tiene se mantiene porque es el que se tiene. El siguiente trabajo se busca porque el actual no funciona, no porque se haya preguntado adónde se quiere llegar.
@@ -84,13 +84,13 @@ Hay diferentes formas de relacionarse con el trabajo:
 Una actividad que se hace para obtener algo (principalmente dinero) que permite vivir la vida real fuera del trabajo. El trabajo se soporta; la vida está en otro lugar.
 
 **El trabajo como carrera:**
-Una trayectoria que se construye con objetivos de progreso, reconocimiento y mejora de condiciones. El trabajo tiene sentido en la medida en que avanza hacia algún objetivo externo.
+Una trayectoria que se construye con objetivos de progreso, reconocimiento y mejora de condiciones. El trabajo tiene sentido en la medida en que avanza hacía algún objetivo externo.
 
 **El trabajo como vocación:**
 Una actividad que tiene sentido por sí misma, que expresa valores e identidad, que se haría aunque hubiera otras opciones. El trabajo y la vida no están completamente separados.
 
 **La implicación:**
-No hay una relación correcta con el trabajo. La persona que trabaja para financiar la vida que realmente quiere tiene tan buenas razones como la que trabaja como vocación. Lo importante es que la relación sea consciente y elegida.
+No hay una relación correcta con el trabajo. La persona que trabaja para financiar la vida que realmente quiere tiene tan buenas razones cómo la que trabaja como vocación. Lo importante es que la relación sea consciente y elegida.
 
 ---
 
@@ -181,7 +181,7 @@ No era una declaración de misión corporativa. Era su razón personal.
 
 Con esa claridad, las decisiones de los meses siguientes fueron notablemente más fáciles. El proyecto que parecía rentable pero que contravenía esa razón, rechazado. La iniciativa que no era glamurosa pero que contribuía directamente a ella, aceptada con entusiasmo.
 
-El para qué no resolvió todos los problemas. Pero dio una dirección.
+El para que no resolvió todos los problemas. Pero dio una dirección.
 
 ---
 

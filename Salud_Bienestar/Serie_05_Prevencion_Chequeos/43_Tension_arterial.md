@@ -99,7 +99,7 @@ El 5-10% restante tiene una causa identificable: enfermedad renal, hiperaldoster
 Las modificaciones del estilo de vida pueden reducir la tensión arterial de forma comparable a un fármaco antihipertensivo de primera línea.
 
 **La dieta DASH:**
-La Dietary Approaches to Stop Hypertension (DASH) tiene la mayor evidencia en reducción de la tensión arterial. Sus principios:
+La Dietary Approaches to Stop Hypertensión (DASH) tiene la mayor evidencia en reducción de la tensión arterial. Sus principios:
 - Abundante en frutas, verduras y legumbres
 - Lácteos desnatados
 - Cereales integrales
@@ -128,7 +128,7 @@ Combinados, estos cambios pueden producir reducciones de 15-20 mmHg en la sistó
 
 ## Capítulo 5: Los medicamentos antihipertensivos
 
-Cuando el estilo de vida no es suficiente (o en combinación con él desde el inicio en casos de hipertensión moderada-grave), la medicación es necesaria.
+Cuando el estilo de vida no es suficiente (o en combinación con él desde el inició en casos de hipertensión moderada-grave), la medicación es necesaria.
 
 **Las familias principales:**
 
@@ -243,7 +243,7 @@ En personas con enfermedad renal crónica o diabetes, el objetivo de tensión es
 Medirte la tensión al menos una vez al año. En personas con obesidad, historia familiar o más de 40 años, incluso con más frecuencia.
 
 **La educación del entorno:**
-La hipertensión de Carmen afecta la historia médica de sus hijos: tienen mayor riesgo genético. Informarles para que empiecen los controles antes.
+La hipertensión de Carmen afecta la historia médica de sus hijos: tienen mayor riesgo genético. Informarles para qué empiecen los controles antes.
 
 ---
 

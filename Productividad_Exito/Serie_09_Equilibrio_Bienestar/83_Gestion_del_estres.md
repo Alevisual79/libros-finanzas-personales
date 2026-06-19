@@ -110,7 +110,7 @@ No solo parar físicamente de trabajar, sino desconectar mentalmente. El trabaja
 Actividades de bajo esfuerzo que reducen la activación del sistema nervioso. Caminar, escuchar música, lectura tranquila.
 
 **Dominio:**
-Actividades que producen sensación de competencia y logro en un dominio diferente al trabajo. Cocinar, hacer deporte, tocar un instrumento.
+Actividades que producen sensación de competencia y logró en un dominio diferente al trabajo. Cocinar, hacer deporte, tocar un instrumento.
 
 **Control:**
 Elegir cómo pasar el tiempo libre. La ausencia de agenda en los momentos de recuperación es parte de la recuperación misma.
@@ -171,7 +171,7 @@ Diseñó un sistema mínimo pero consistente:
 - Ritual de cierre a las 18:00: escribir tres cosas que avanzaron ese día, preparar la lista del día siguiente, cerrar el ordenador
 - Domingo por la tarde: conversación telefónica con un amigo del sector, para hablar del trabajo con alguien que entiende el contexto
 
-Ninguno de estos elementos era dramático. La combinación produjo un cambio notable en su nivel de estrés crónico en ocho semanas.
+Ninguno de estos elementos era dramático. La combinación produjó un cambio notable en su nivel de estrés crónico en ocho semanas.
 
 ---
 

@@ -6,13 +6,13 @@
 
 ---
 
-## Prólogo: El discurso que cambió la carrera de Isabel
+## Prólogo: El discurso que cambio la carrera de Isabel
 
 Isabel llevaba veinte años en RRHH. Era excelente en conversaciones individuales y en gestión de equipos. Pero hablar en público la aterrorizaba.
 
-Cuando le pidieron presentar los resultados de su departamento al comité directivo —treinta personas— pasó tres noches sin dormir bien.
+Cuando le pidieron presentar los resultados de su departamento al comité directivo —treinta personas— paso tres noches sin dormir bien.
 
-La presentación fue aceptable. No brillante: aceptable. Y sin embargo, algo cambió: el director general le comentó al salir que había estado "muy clara" y que le gustaría contar con ella para la presentación anual de empresa.
+La presentación fue aceptable. No brillante: aceptable. Y sin embargo, algo cambio: el director general le comentó al salir que había estado "muy clara" y que le gustaría contar con ella para la presentación anual de empresa.
 
 La presentación aceptable le abrió una puerta que nunca habría encontrado de otra manera.
 
@@ -142,7 +142,7 @@ Lo más valioso del curso fue lo más incómodo: grabarse presentando y ver la g
 
 "Y también instructivo," respondió el instructor. "¿Qué ves?"
 
-Elena vio: que hablaba demasiado rápido, que usaba "este..." como muletilla constante, que miraba más a los slides que a la audiencia.
+Elena vió: que hablaba demasiado rápido, que usaba "este..." como muletilla constante, que miraba más a los slides que a la audiencia.
 
 Tres meses de práctica deliberada eliminaron el 80% de esos hábitos.
 
@@ -154,7 +154,7 @@ Tres meses de práctica deliberada eliminaron el 80% de esos hábitos.
 El objetivo es persuadir. Empieza con el problema del cliente, no con el producto. La solución se presenta como respuesta específica al problema identificado.
 
 **El informe de resultados:**
-Contexto breve, datos clave, interpretación, implicaciones, recomendaciones. La audiencia quiere saber qué significa y qué hacer, no solo qué pasó.
+Contexto breve, datos clave, interpretación, implicaciones, recomendaciones. La audiencia quiere saber qué significa y qué hacer, no solo qué paso.
 
 **La presentación de ideas:**
 Una idea bien presentada empieza por el problema que resuelve, no por la idea en sí. "Tengo una idea" es un comienzo débil. "Tenemos este problema que cuesta X, y propongo esta solución" es un comienzo que conecta.
@@ -166,11 +166,11 @@ Cuando el tiempo de preparación es mínimo, la estructura PREP (Punto, Razón, 
 
 ## Capítulo 10: La presentación de Isabel ante el comité
 
-Isabel preparó la presentación anual de empresa durante dos semanas. Ensayó veinte veces. Grabó el ensayo tres veces y se vio.
+Isabel preparó la presentación anual de empresa durante dos semanas. Ensayó veinte veces. Grabó el ensayo tres veces y se vió.
 
-No eliminó el nerviosismo. Lo redujo a un nivel manejable.
+No eliminó el nerviosismo. Lo redujó a un nivel manejable.
 
-El día de la presentación, usó la activación nerviosa como energía: habló con más convicción y claridad que en sus ensayos. Hizo contacto visual real con personas de la sala. Pausó después de cada punto clave.
+El día de la presentación, uso la activación nerviosa como energía: habló con más convicción y claridad que en sus ensayos. Hizo contacto visual real con personas de la sala. Pausó después de cada punto clave.
 
 Al terminar, el director general dijo que había sido "la presentación más clara y convincente de la jornada".
 

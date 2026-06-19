@@ -12,7 +12,7 @@ Rubén lleva años leyendo sobre productividad. Ha probado aplicaciones, sistema
 
 Lo que nunca probó, porque no parecía relacionado, era el ejercicio.
 
-Luego leyó a John Ratey. Y todo cambió.
+Luego leyó a John Ratey. Y todo cambio.
 
 Ratey, psiquiatra de Harvard y autor de "Spark: The Revolutionary New Science of Exercise and the Brain", documentó algo que la mayoría de los libros de productividad ignoran: el ejercicio físico es la intervención más eficaz para mejorar el rendimiento cognitivo disponible para la mayoría de las personas.
 
@@ -83,7 +83,7 @@ Interrumpir el sedentarismo con movimiento breve cada hora. Levantarse cinco min
 Las implicaciones del ejercicio van más allá de la productividad cognitiva.
 
 **Depresión:**
-Un estudio de la Clínica Mayo comparó el ejercicio con el antidepresivo sertralina. Los resultados de ambos grupos a los cuatro meses fueron similares. Con una diferencia: el grupo de ejercicio tuvo menor tasa de recaída a los diez meses.
+Un estudio de la Clínica Mayo comparo el ejercicio con el antidepresivo sertralina. Los resultados de ambos grupos a los cuatro meses fueron similares. Con una diferencia: el grupo de ejercicio tuvo menor tasa de recaída a los diez meses.
 
 **Ansiedad:**
 El ejercicio aeróbico regular es uno de los tratamientos con mayor evidencia para la ansiedad. La tesis de Ratey: el ejercicio "quema" el cortisol y la adrenalina acumulados por el estrés, que de otra forma producen activación ansiosa crónica.
@@ -144,7 +144,7 @@ Las empresas que integran el ejercicio en la cultura laboral no lo hacen por alt
 - Escritorios regulables que permiten trabajar de pie
 - Pausas activas integradas en el horario
 
-Isabel introdujo "reuniones caminando" para los one-on-ones de su equipo. La duración bajó. La calidad subió. Y el equipo llegaba más activo al resto del día.
+Isabel introdujó "reuniones caminando" para los one-on-ones de su equipo. La duración bajó. La calidad subió. Y el equipo llegaba más activo al resto del día.
 
 ---
 
@@ -152,9 +152,9 @@ Isabel introdujo "reuniones caminando" para los one-on-ones de su equipo. La dur
 
 Rubén empezó con veinte minutos de caminar rápido cada mañana antes de abrir el ordenador.
 
-Al cabo de dos semanas, notó algo que no había anticipado: los bloques de trabajo profundo matutinos después del ejercicio eran cualitativamente diferentes. La concentración llegaba más rápido. Las soluciones emergían con menos esfuerzo.
+Al cabo de dos semanas, noto algo que no había anticipado: los bloques de trabajo profundo matutinos después del ejercicio eran cualitativamente diferentes. La concentración llegaba más rápido. Las soluciones emergían con menos esfuerzo.
 
-Al mes, aumentó a 30 minutos. Al segundo mes, añadió dos sesiones de fuerza semanales.
+Al mes, aumento a 30 minutos. Al segundo mes, añadió dos sesiones de fuerza semanales.
 
 No fue un cambio radical inmediato. Fue una mejora gradual y acumulativa que, vista con perspectiva de tres meses, fue la intervención de productividad con mayor impacto de todo lo que había probado.
 

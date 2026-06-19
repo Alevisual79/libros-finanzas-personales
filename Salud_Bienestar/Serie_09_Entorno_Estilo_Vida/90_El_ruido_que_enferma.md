@@ -24,7 +24,7 @@ La Organización Mundial de la Salud reconoce la contaminación acústica como e
 
 **Los efectos del ruido sobre la salud:**
 El ruido no solo daña la audición. A través del sistema nervioso autónomo, produce:
-- **Efectos cardiovasculares:** El ruido crónico nocturno aumenta el riesgo de hipertensión, infarto y accidente cerebrovascular. El estudio HYENA (Hypertension and Exposure to Noise near Airports) mostró que la exposición crónica al ruido de aviones aumentaba el riesgo de hipertensión en un 14%.
+- **Efectos cardiovasculares:** El ruido crónico nocturno aumenta el riesgo de hipertensión, infarto y accidente cerebrovascular. El estudio HYENA (Hypertensión and Exposure to Noise near Airports) mostró que la exposición crónica al ruido de aviones aumentaba el riesgo de hipertensión en un 14%.
 - **Trastornos del sueño:** El ruido nocturno fragmenta el sueño incluso a niveles que no despiertan consciente al sujeto.
 - **Estrés y salud mental:** La exposición crónica al ruido eleva el cortisol y produce irritabilidad, dificultad de concentración y mayor prevalencia de depresión.
 - **Efectos sobre el aprendizaje infantil:** Los niños en colegios cercanos a aeropuertos o carreteras de alto tráfico muestran peor rendimiento en lectura y memoria.

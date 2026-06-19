@@ -18,7 +18,7 @@ El problema no era el talento individual. Era la ausencia de los elementos que c
 
 ## Capítulo 1: La diferencia entre un grupo y un equipo
 
-Un grupo es un conjunto de personas que comparten un espacio o un jefe. Un equipo es algo cualitativamente diferente: personas que trabajan de forma interdependiente hacia un objetivo compartido, con responsabilidad mutua por los resultados.
+Un grupo es un conjunto de personas que comparten un espacio o un jefe. Un equipo es algo cualitativamente diferente: personas que trabajan de forma interdependiente hacía un objetivo compartido, con responsabilidad mutua por los resultados.
 
 **Los elementos del equipo:**
 - Objetivo compartido y comprendido por todos
@@ -32,7 +32,7 @@ La mayoría de los grupos que se llaman "equipos" no tienen todos estos elemento
 
 ## Capítulo 2: El proyecto Aristotle de Google
 
-En 2012, Google lanzó el Proyecto Aristotle: un estudio de dos años sobre qué diferenciaba a sus equipos más efectivos de los menos efectivos.
+En 2012, Google lanzo el Proyecto Aristotle: un estudio de dos años sobre qué diferenciaba a sus equipos más efectivos de los menos efectivos.
 
 La hipótesis inicial: los mejores equipos tienen a las personas más brillantes.
 
@@ -67,7 +67,7 @@ Cuando alguien comparte una idea y es ignorada o descartada sin consideración g
 
 ## Capítulo 4: Los cinco factores del equipo de alto rendimiento
 
-Además de la seguridad psicológica, el Proyecto Aristotle identificó cuatro factores adicionales:
+Además de la seguridad psicológica, el Proyecto Aristotle identifico cuatro factores adicionales:
 
 **Confianza en la fiabilidad:**
 Cada miembro del equipo cumple sus compromisos. No hay que hacer seguimiento de si alguien entregará lo que prometió.
@@ -130,7 +130,7 @@ Las reuniones son el momento más visible del funcionamiento de equipo. Y el má
 - Sin registro de lo acordado y sin seguimiento
 
 **Las reuniones que funcionan:**
-- Objetivo explícito al inicio: "Estamos aquí para decidir X" o "Estamos aquí para actualizar Y"
+- Objetivo explícito al inició: "Estamos aquí para decidir X" o "Estamos aquí para actualizar Y"
 - Solo las personas necesarias para ese objetivo
 - Tiempo limitado y respetado
 - Decisiones documentadas y asignadas con responsable y plazo
@@ -168,7 +168,7 @@ Todo equipo tiene, en algún momento, miembros cuyo comportamiento dificulta el 
 Tolerar el comportamiento porque el individuo produce resultados o porque la conversación es incómoda. La tolerancia tiene un costo colectivo: el mensaje que envía al resto del equipo es que las normas no se aplican igualmente.
 
 **La intervención:**
-Conversación directa, privada, con el modelo SBI: comportamiento específico, impacto en el equipo, expectativa de cambio. La mayoría de personas cambian cuando se les señala con claridad y sin recriminación cómo su comportamiento afecta al equipo.
+Conversación directa, privada, con el modeló SBI: comportamiento específico, impacto en el equipo, expectativa de cambio. La mayoría de personas cambian cuando se les señala con claridad y sin recriminación cómo su comportamiento afecta al equipo.
 
 ---
 

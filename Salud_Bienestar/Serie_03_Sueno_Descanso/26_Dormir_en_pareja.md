@@ -44,7 +44,7 @@ El ronquido es el sonido producido por la vibración de los tejidos blandos de l
 El exceso de tejido graso alrededor del cuello (circunferencia cervical mayor de 43 cm en hombres, 38 cm en mujeres) comprime la vía aérea. Por eso el ronquido aumenta con el peso y mejora con la pérdida de peso.
 
 **Posición:**
-Dormir boca arriba hace que la lengua y los tejidos blandos caigan hacia atrás por gravedad, estrechando la vía. Dormir de lado reduce el ronquido en muchas personas.
+Dormir boca arriba hace que la lengua y los tejidos blandos caigan hacía atrás por gravedad, estrechando la vía. Dormir de lado reduce el ronquido en muchas personas.
 
 **Alcohol y sedantes:**
 Relajan la musculatura de la garganta, empeorando el ronquido.
@@ -98,7 +98,7 @@ Especialmente en las últimas 3-4 horas antes de acostarse.
 Tiras nasales, sprays salinos, antihistamínicos si hay alergia. Dormir con la cabeza ligeramente elevada puede ayudar.
 
 **Dispositivos intraorales:**
-Los dispositivos de avance mandibular (DAM), que posicionan la mandíbula hacia adelante, son efectivos para el ronquido simple y la apnea leve-moderada. Requieren prescripción y ajuste por un dentista especializado.
+Los dispositivos de avance mandibular (DAM), que posicionan la mandíbula hacía adelante, son efectivos para el ronquido simple y la apnea leve-moderada. Requieren prescripción y ajuste por un dentista especializado.
 
 **CPAP (presión positiva continua de la vía aérea):**
 Es el tratamiento de referencia para la apnea del sueño moderada-grave. Una máquina que suministra aire a presión constante mantiene la vía aérea abierta durante el sueño. No es cómoda al principio, pero la mayoría de los pacientes nota la diferencia en días.
@@ -122,7 +122,7 @@ Más caros, pero más efectivos y cómodos para quien no tolera los tapones.
 No eliminan el ronquido, pero enmascaran parte del ruido y pueden reducir los despertares. El ruido blanco, marrón o rosa puede ayudar.
 
 **Dormitorios separados (el "divorcio del sueño"):**
-Dormir en habitaciones separadas no es el fin del matrimonio. Para muchas parejas es la solución que salva tanto el sueño como la relación. Varios estudios sugieren que las parejas que duermen separadas por ronquido u otros problemas de sueño informan mejor calidad de sueño y relaciones más satisfactorias.
+Dormir en habitaciones separadas no es el fin del matrimonio. Para muchas parejas es la solución que salva tanto el sueño cómo la relación. Varios estudios sugieren que las parejas que duermen separadas por ronquido u otros problemas de sueño informan mejor calidad de sueño y relaciones más satisfactorias.
 
 Laura y David llegaron a esta solución durante una temporada: David dormía en la habitación de invitados durante la semana y compartían cama los fines de semana. "Me sentí culpable al principio", admite Laura, "pero dejé de estar agotada y de resentirme con él."
 
@@ -154,9 +154,9 @@ El ronquido y los problemas de sueño en pareja son frecuentemente un tema evita
 
 Evitar la conversación "a las 3 de la mañana cuando llevas dos horas sin poder dormir". Ese no es el momento.
 
-Elegir un momento tranquilo, sin cansancio acumulado, y plantearlo como un problema compartido, no como una acusación.
+Elegir un momento tranquilo, sin cansancio acumulado, y plantearlo cómo un problema compartido, no cómo una acusación.
 
-"Llevo semanas sin dormir bien y creo que está afectando a mi salud y a cómo me relaciono contigo. Quiero que encontremos una solución juntos."
+"Llevo semanas sin dormir bien y creo que está afectando a mi salud y a cómo me relacionó contigo. Quiero que encontremos una solución juntos."
 
 **Lo que el roncador necesita escuchar:**
 Que no se trata de culpa. Que el ronquido no es voluntario. Pero también que tiene consecuencias reales para la pareja y posiblemente para su propia salud, y que merece atención médica.
@@ -191,7 +191,7 @@ Señales de que el ronquido requiere evaluación médica urgente:
 
 El estudio del sueño es una prueba indolora que se puede hacer en casa (poligrafía portátil) o en el hospital (polisomnografía). Diagnostica la apnea y su gravedad y orienta el tratamiento.
 
-David pasó una noche con el aparato de poligrafía. El diagnóstico fue apnea moderada: 22 episodios por hora. Comenzó con CPAP. Tres semanas después, Laura dormía en su propia cama. "No lo reconocí. Por primera vez en años, no le oía respirar."
+David paso una noche con el aparato de poligrafía. El diagnóstico fue apnea moderada: 22 episodios por hora. Comenzó con CPAP. Tres semanas después, Laura dormía en su propia cama. "No lo reconocí. Por primera vez en años, no le oía respirar."
 
 ---
 

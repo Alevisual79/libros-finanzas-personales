@@ -25,7 +25,7 @@ Cinco años así. Cinco años de su atención, en fragmentos de 30 segundos.
 Las plataformas tecnológicas no son accidentalmente adictivas. Son deliberadamente diseñadas para maximizar el tiempo de uso.
 
 **El slot machine:**
-Tristan Harris, ex-diseñador de Google, describió el scroll infinito como una máquina tragaperras: el movimiento del pulgar esperando la "recompensa" (un like, una foto interesante, una noticia impactante) activa el sistema de dopamina de la misma forma que las tragaperras. La aleatoriedad de la recompensa es el elemento más adictivo.
+Tristan Harris, ex-diseñador de Google, describió el scroll infinito cómo una máquina tragaperras: el movimiento del pulgar esperando la "recompensa" (un like, una foto interesante, una noticia impactante) activa el sistema de dopamina de la misma forma que las tragaperras. La aleatoriedad de la recompensa es el elemento más adictivo.
 
 **Las notificaciones:**
 Cada notificación es un pequeño pico de dopamina (anticipación de información social). El teléfono está diseñado para producir el mayor número posible de estas interrupciones. Las notificaciones crean una dependencia pavloviana: el sonido o la vibración activa el impulso de mirar.
@@ -81,8 +81,8 @@ Activar los informes de tiempo de pantalla (en iOS: Tiempo en pantalla; en Andro
 **Las notificaciones:**
 Desactivar todas las notificaciones excepto llamadas y mensajes directos de personas específicas. Las notificaciones de apps (incluyendo redes sociales, noticias y correo) son interrupciones diseñadas para maximizar el tiempo en la plataforma, no para el beneficio del usuario.
 
-**La pantalla de inicio:**
-Reorganizar el teléfono: apps de salud, lectura, productividad en pantalla de inicio. Redes sociales en una carpeta en la segunda o tercera página. La fricción de acceder las reduce significativamente.
+**La pantalla de inició:**
+Reorganizar el teléfono: apps de salud, lectura, productividad en pantalla de inició. Redes sociales en una carpeta en la segunda o tercera página. La fricción de acceder las reduce significativamente.
 
 **Los límites de tiempo:**
 Establecer límites diarios en las apps más consumidoras (30 min de Instagram, 20 min de Twitter). Cuando salta el aviso, elegir conscientemente si continuar o no.
@@ -160,7 +160,7 @@ Un período de reducción intencional del uso digital (un fin de semana sin rede
 El detox total sin cambios estructurales en el entorno digital: las personas vuelven a los patrones previos al terminar el detox.
 
 **La alternativa sostenible:**
-En lugar de detoxes periódicos seguidos de regresión, construir hábitos digitales sostenibles: notificaciones reducidas, pantalla de inicio reorganizada, zonas sin teléfono, tiempo intencional.
+En lugar de detoxes periódicos seguidos de regresión, construir hábitos digitales sostenibles: notificaciones reducidas, pantalla de inició reorganizada, zonas sin teléfono, tiempo intencional.
 
 ---
 
@@ -181,7 +181,7 @@ La fatiga de videollamadas (Zoom fatigue) es real y tiene mecanismos documentado
 
 Miguel implementó cuatro cambios:
 1. Desactivó todas las notificaciones excepto llamadas y WhatsApp de familia
-2. Instagram y Twitter a carpeta en segunda página, sin app en la pantalla de inicio
+2. Instagram y Twitter a carpeta en segunda página, sin app en la pantalla de inició
 3. Límite de 45 minutos diarios para redes sociales (con aviso de la app)
 4. Teléfono en el cajón de la cocina a las 22:00
 
@@ -200,7 +200,7 @@ La tecnología es la herramienta más potente que la humanidad ha creado. El pro
 
 Recuperar el control del tiempo digital no es rechazar la tecnología. Es usarla de forma intencional, como herramienta, en lugar de dejar que te use.
 
-El siguiente libro, "Construir hábitos en familia", aborda el desafío de alinear a todos en casa hacia una vida más saludable.
+El siguiente libro, "Construir hábitos en familia", aborda el desafío de alinear a todos en casa hacía una vida más saludable.
 
 ---
 

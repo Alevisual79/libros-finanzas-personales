@@ -12,7 +12,7 @@ El mentor conoció a un directivo que había sido brillante en sus primeros año
 
 A los cincuenta años, ese directivo era rígido, convencido de que su experiencia le daba todas las respuestas, y sistemáticamente resistente a cualquier perspectiva que contradijera la suya.
 
-"¿Qué le pasó?" preguntó Rubén.
+"¿Qué le paso?" preguntó Rubén.
 
 "Confundió la experiencia con la sabiduría," dijo el mentor. "La experiencia te dice qué funcionó en el pasado. La sabiduría te dice cuándo el pasado ya no es el mejor guía para el presente."
 
@@ -23,7 +23,7 @@ A los cincuenta años, ese directivo era rígido, convencido de que su experienc
 La experiencia y el expertise son valiosos. Pero tienen un precio: la tendencia a ver todo a través del filtro de lo que ya se sabe.
 
 **El sesgo de confirmación en los expertos:**
-Las personas con mucha experiencia en un área tienden a percibir las situaciones nuevas a través del marco de las situaciones pasadas. Esto acelera el diagnóstico en situaciones familiares y lo distorsiona en situaciones genuinamente nuevas.
+Las personas con mucha experiencia en un área tienden a percibir las situaciones nuevas a través del marcó de las situaciones pasadas. Esto acelera el diagnóstico en situaciones familiares y lo distorsiona en situaciones genuinamente nuevas.
 
 **El efecto Dunning-Kruger invertido:**
 Los principiantes con poco conocimiento sobreestiman lo que saben. Pero los expertos, paradójicamente, también pueden desarrollar una sobrconfianza que les lleva a desestimar perspectivas y datos que contradicen sus marcos establecidos.
@@ -52,7 +52,7 @@ La persona con humildad intelectual tiene criterio propio sólido y la apertura 
 Las investigaciones de Carol Dweck sobre la mentalidad de crecimiento y de Adam Grant sobre los "pensadores reconsiderantes" dibujan el perfil del líder que sigue aprendiendo.
 
 **El cuestionamiento de las propias suposiciones:**
-En lugar de asumir que el diagnóstico actual es correcto, preguntar regularmente: "¿Qué tendría que ser verdad para que mi perspectiva actual fuera incorrecta?"
+En lugar de asumir que el diagnóstico actual es correcto, preguntar regularmente: "¿Qué tendría que ser verdad para qué mi perspectiva actual fuera incorrecta?"
 
 **La búsqueda activa de perspectivas diferentes:**
 No solo tolerar el desacuerdo: buscarlo activamente. Las personas que siempre están de acuerdo con el líder son cómodos pero peligrosos.
@@ -165,7 +165,7 @@ El nivel de humildad intelectual colectiva de un equipo es generalmente el refle
 
 Rubén descubrió algo incómodo en el segundo año de su negocio freelance: había dejado de aprender tan rápido como en el primero.
 
-Había encontrado un modelo de trabajo que funcionaba y lo había automatizado. El problema: el mercado evolucionaba y él no.
+Había encontrado un modeló de trabajo que funcionaba y lo había automatizado. El problema: el mercado evolucionaba y él no.
 
 Empezó a hacer tres cosas:
 1. Reunión mensual con un cliente diferente al suyo habitual, fuera de su zona de expertise, solo para escuchar cómo pensaban sobre su negocio.

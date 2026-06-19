@@ -109,7 +109,7 @@ La vacuna del virus del papiloma humano se incorporó al calendario vacunal para
 Muchas personas adultas no se vacunaron de adolescentes porque la vacuna no estaba disponible o no se ofrecía. La vacuna puede ser beneficiosa para adultos de hasta 45 años (algunos estudios apuntan a beneficio incluso hasta los 45) que no han sido expuestos a todos los serotipos.
 
 **Los hombres:**
-Los hombres tienen también riesgo de cánceres relacionados con el VPH (orofaringe, ano, pene). La vacuna está indicada en hombres que tienen sexo con hombres hasta los 26 años en el sistema público, y puede discutirse para otros adultos.
+Los hombres tienen también riesgo de cánceres relacionados con el VPH (orofaringe, año, pene). La vacuna está indicada en hombres que tienen sexo con hombres hasta los 26 años en el sistema público, y puede discutirse para otros adultos.
 
 **La consulta con el médico:**
 La decisión de vacunarse contra el VPH en adultos es individual y debe discutirse con el médico, considerando el historial sexual y los factores de riesgo.

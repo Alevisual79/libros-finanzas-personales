@@ -122,7 +122,7 @@ Los hombres con depresión presentan con más frecuencia:
 **El estigma masculino:**
 La masculinidad normativa en muchas culturas penaliza la expresión de vulnerabilidad emocional. Pedir ayuda psicológica se percibe como debilidad. El resultado: menos diagnóstico, menos tratamiento y más consecuencias graves.
 
-El doctor Sánchez vio cambiar a David en el último año: más callado, más irritable, bebiendo más cerveza por las noches, sin interés en nada que antes le gustaba. No lo llamaba depresión. Lo llamaba "estar de bajón".
+El doctor Sánchez vió cambiar a David en el último año: más callado, más irritable, bebiendo más cerveza por las noches, sin interés en nada que antes le gustaba. No lo llamaba depresión. Lo llamaba "estar de bajón".
 
 ---
 
@@ -165,7 +165,7 @@ Para depresión moderada-grave, la combinación de psicoterapia y medicación es
 Varios metaanálisis muestran que el ejercicio aeróbico regular tiene un efecto antidepresivo comparable a la medicación en depresión leve-moderada. Es el único "tratamiento" que además mejora la condición física y no tiene efectos secundarios negativos.
 
 **La estimulación magnética transcraneal (TMS) y la TEC:**
-Para depresiones resistentes al tratamiento farmacológico, hay opciones como la estimulación magnética o la terapia electroconvulsiva (TEC), muy diferentes a la imagen popular y muy efectivas en casos seleccionados.
+Para depresiones resistentes al tratamiento farmacológico, hay opciones cómo la estimulación magnética o la terapia electroconvulsiva (TEC), muy diferentes a la imagen popular y muy efectivas en casos seleccionados.
 
 ---
 
@@ -207,7 +207,7 @@ La depresión afecta a quien la padece, pero también a quienes le rodean. Saber
 - "Eres un ingrato/a"
 - "Eso es solo en la cabeza"
 - Comparar con situaciones peores
-- Presionar para que "salga" o "se anime"
+- Presionar para qué "salga" o "se anime"
 
 **El cuidador también necesita cuidado:**
 Acompañar a alguien con depresión es agotador. El cuidador también puede necesitar apoyo psicológico. No es abandono buscar ese apoyo.
@@ -226,7 +226,7 @@ Muchas personas con depresión no piden ayuda por:
 - No reconocer lo que les pasa como enfermedad
 
 **El costo del estigma:**
-La media en España entre el inicio de los síntomas de un trastorno mental y la primera consulta especializada supera los 10 años. Diez años de sufrimiento innecesario, deterioro en las relaciones, el trabajo y la salud física.
+La media en España entre el inició de los síntomas de un trastorno mental y la primera consulta especializada supera los 10 años. Diez años de sufrimiento innecesario, deterioro en las relaciones, el trabajo y la salud física.
 
 **Lo que cambia el estigma:**
 Hablar. Las personas públicas que hablan de su experiencia con la depresión son la intervención de sensibilización más eficaz que existe. Cada conversación sobre salud mental en un entorno seguro reduce el estigma para quien la escucha.

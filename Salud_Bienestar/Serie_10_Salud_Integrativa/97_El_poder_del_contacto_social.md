@@ -12,7 +12,7 @@ En los años 40, el pediatra René Spitz estudió a bebés en orfanatos que reci
 
 Muchos de estos bebés enfermaban. Algunos morían sin causa orgánica aparente. Spitz lo llamó "hospitalismo" o "marasmo".
 
-El contacto social no es un lujo emocional. Es una necesidad biológica tan fundamental como la nutrición o el sueño.
+El contacto social no es un lujo emocional. Es una necesidad biológica tan fundamental cómo la nutrición o el sueño.
 
 ---
 
@@ -35,7 +35,7 @@ Vivimos más conectados que nunca (teléfonos, redes sociales, videoconferencia)
 
 La soledad no es solo un estado emocional desagradable. Activa respuestas fisiológicas de estrés crónico.
 
-**El modelo de John Cacioppo:**
+**El modeló de John Cacioppo:**
 El investigador John Cacioppo (Universidad de Chicago) dedicó décadas a estudiar la biología de la soledad. Sus hallazgos muestran que la soledad:
 - Activa el sistema de vigilancia de amenazas (respuesta de lucha o huida crónica)
 - Aumenta el cortisol y los marcadores inflamatorios
@@ -126,7 +126,7 @@ Scrollear el feed sin interactuar activamente se asocia a peor estado de ánimo,
 Contactar directamente con personas, mantener conversaciones, usar las plataformas para organizar encuentros presenciales: se asocia a mejor bienestar y puede ser un complemento de las relaciones presenciales.
 
 **La conclusión práctica:**
-Las redes sociales son útiles como puente hacia el contacto real, pero no como sustituto del mismo. El objetivo es el contacto presencial; las redes pueden ser el medio para organizarlo.
+Las redes sociales son útiles como puente hacía el contacto real, pero no como sustituto del mismo. El objetivo es el contacto presencial; las redes pueden ser el medio para organizarlo.
 
 ---
 
@@ -170,7 +170,7 @@ Miguel se dio cuenta de que llevaba tres semanas sin ver a nadie en persona. Tra
 
 Llamó a un amigo al que no había visto en meses y quedaron a correr. En el parque. En persona.
 
-Cuando volvió a casa se sentía diferente. No porque había corrido (lo hacía solo también). Por otra cosa que era más difícil de nombrar.
+Cuando volvio a casa se sentía diferente. No porque había corrido (lo hacía solo también). Por otra cosa que era más difícil de nombrar.
 
 ---
 

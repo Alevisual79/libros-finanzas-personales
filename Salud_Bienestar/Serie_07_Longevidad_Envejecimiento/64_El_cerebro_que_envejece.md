@@ -62,7 +62,7 @@ Los olvidos de palabras ocasionales, perder las llaves, no recordar un nombre co
 
 ## Capítulo 3: Los factores de riesgo modificables del deterioro cognitivo
 
-El informe Lancet 2020 sobre la prevención de la demencia identificó 12 factores de riesgo modificables que en conjunto explican potencialmente el 40% de los casos de demencia.
+El informe Lancet 2020 sobre la prevención de la demencia identifico 12 factores de riesgo modificables que en conjunto explican potencialmente el 40% de los casos de demencia.
 
 **Los 12 factores:**
 1. Baja educación en la infancia
@@ -209,7 +209,7 @@ Plan de prevención:
 4. Estimulación cognitiva: clase de italiano online (siempre quiso aprenderlo)
 5. Conexión social: grupo de apoyo de artritis + coro (ya mencionado en el Libro 37)
 6. Sueño: 7 horas con rutina de noche implementada
-7. Dieta MIND como modelo
+7. Dieta MIND como modeló
 
 ---
 

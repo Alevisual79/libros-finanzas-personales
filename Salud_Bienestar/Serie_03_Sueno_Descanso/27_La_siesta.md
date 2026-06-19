@@ -26,7 +26,7 @@ Muchas personas asumen que la somnolencia postprandial es consecuencia directa d
 El ritmo circadiano humano produce dos momentos de menor alerta a lo largo del día: uno entre las 2 y las 4 de la mañana (por eso los accidentes de tráfico nocturnos se concentran en ese tramo) y otro entre la 1 y las 3 de la tarde. Este segundo valle es biológico y universal: ocurre en todas las culturas, incluidas las que no tienen tradición de siesta.
 
 **La comida amplifica el valle:**
-Una comida copiosa, especialmente rica en carbohidratos, aumenta la somnolencia postprandial al modular los niveles de insulina y serotonina, y al desviar sangre hacia la digestión. Pero la somnolencia de después de comer existiría aunque no se comiera nada.
+Una comida copiosa, especialmente rica en carbohidratos, aumenta la somnolencia postprandial al modular los niveles de insulina y serotonina, y al desviar sangre hacía la digestión. Pero la somnolencia de después de comer existiría aunque no se comiera nada.
 
 **La deuda de sueño:**
 Si se duerme bien por las noches, el valle de la tarde es manejable. Si hay deuda de sueño acumulada, ese valle se convierte en una necesidad urgente de dormir.
@@ -158,7 +158,7 @@ Una siesta corta (menos de 30 minutos) antes de las 15:00 no interfiere signific
 - Cuando el horario de sueño nocturno es irregular
 
 **La presión de sueño:**
-El sueño funciona en parte por la acumulación de adenosina durante las horas de vigilia. La siesta "gasta" parte de esa presión, lo que puede retrasar levemente el inicio del sueño nocturno. Para la mayoría de personas esto no es un problema. Para alguien con insomnio, puede serlo.
+El sueño funciona en parte por la acumulación de adenosina durante las horas de vigilia. La siesta "gasta" parte de esa presión, lo que puede retrasar levemente el inició del sueño nocturno. Para la mayoría de personas esto no es un problema. Para alguien con insomnio, puede serlo.
 
 ---
 

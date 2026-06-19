@@ -80,7 +80,7 @@ Los filtros domésticos pueden mejorar el sabor y reducir algunos contaminantes,
 Eliminan el cloro (mejora el sabor), algunos trihalometanos y parte de los pesticidas. No eliminan nitratos, fluoruro ni la mayoría de los metales pesados.
 
 **Los filtros de ósmosis inversa:**
-Eliminan prácticamente todo (incluidos nitratos, metales, fluoruro, microplásticos). También eliminan los minerales beneficiosos del agua. Producen mucha agua de rechazo (2-4 litros por litro producido). Son los más eficaces para agua con contaminantes específicos documentados.
+Eliminan prácticamente todo (incluidos nitratos, metales, fluoruro, microplásticos). También eliminan los minerales beneficiosos del agua. Producen mucha agua de rechazó (2-4 litros por litro producido). Son los más eficaces para agua con contaminantes específicos documentados.
 
 **El mantenimiento:**
 Un filtro mal mantenido puede ser peor que el agua sin filtrar: los cartuchos saturados pueden convertirse en reservorios bacterianos. El mantenimiento periódico (según fabricante) es obligatorio.
@@ -144,7 +144,7 @@ Sodio, potasio, magnesio y cloro se pierden con el sudor. En ejercicio de más d
 Tienen sentido para ejercicio intenso de larga duración. Para la vida cotidiana y el ejercicio de corta duración, son básicamente azúcar y sal a precio de producto deportivo.
 
 **Las sales de rehidratación oral:**
-Mucho más eficaces y baratas que las bebidas isotónicas para la rehidratación seria (gastroenteritis, golpe de calor, ejercicio extremo).
+Mucho más eficaces y baratas que las bebidas isotónicas para la rehidratación sería (gastroenteritis, golpe de calor, ejercicio extremo).
 
 ---
 

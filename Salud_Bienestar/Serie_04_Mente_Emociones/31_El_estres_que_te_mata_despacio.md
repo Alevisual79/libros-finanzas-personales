@@ -25,7 +25,7 @@ Cuando un depredador aparece, el cerebro activa en milisegundos el eje hipotála
 - El corazón late más rápido (más sangre a los músculos)
 - La respiración se acelera (más oxígeno)
 - El hígado libera glucosa (combustible inmediato)
-- La sangre se desvía de la digestión y los órganos no esenciales hacia los músculos
+- La sangre se desvía de la digestión y los órganos no esenciales hacía los músculos
 - Las pupilas se dilatan (mejor visión)
 - El dolor se inhibe temporalmente
 
@@ -138,7 +138,7 @@ La percepción de estrés es tan importante como los estresores objetivos. Dos p
 Preguntarse: ¿Es esto tan grave como parece? ¿Qué probabilidad real hay del peor resultado? ¿Cuál es la evidencia? ¿Qué haría si le pasara a otra persona? No se trata de pensar en positivo sin fundamento, sino de evaluar la situación con más precisión.
 
 **La perspectiva temporal:**
-¿Esto importará en 5 años? ¿En 10? Para la mayoría de los estresores cotidianos, la respuesta es no. La pregunta cambia el marco y reduce la respuesta emocional.
+¿Esto importará en 5 años? ¿En 10? Para la mayoría de los estresores cotidianos, la respuesta es no. La pregunta cambia el marcó y reduce la respuesta emocional.
 
 **El locus de control:**
 Identificar qué aspectos de la situación están bajo el propio control y actuar sobre ellos. Soltar los que no lo están. El trabajo cognitivo de separar ambas categorías reduce la sensación de indefensión.

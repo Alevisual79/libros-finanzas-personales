@@ -20,17 +20,17 @@ Se preguntó si algo estaba mal con él. Descubrió que no: tenía un nombre, ha
 
 ---
 
-## Capítulo 1: La paradoja del logro
+## Capítulo 1: La paradoja del logró
 
-La investigación sobre el bienestar post-logro documenta un fenómeno consistente: el logro de objetivos significativos frecuentemente no produce la satisfacción que se anticipaba.
+La investigación sobre el bienestar post-logró documenta un fenómeno consistente: el logró de objetivos significativos frecuentemente no produce la satisfacción que se anticipaba.
 
 **Los mecanismos:**
 
 **La adaptación hedónica:**
 El cerebro humano regresa a su nivel base de satisfacción después de cualquier cambio en las circunstancias —positivo o negativo. El aumento de salario, la promoción, el reconocimiento: producen una elevación temporal del bienestar que se normaliza con el tiempo.
 
-**La anticipación vs. el logro:**
-La anticipación de un objetivo frecuentemente produce más placer que el logro mismo. El cerebro es particularmente hábil en generar el placer de la posibilidad; el placer de la realidad es más limitado.
+**La anticipación vs. el logró:**
+La anticipación de un objetivo frecuentemente produce más placer que el logró mismo. El cerebro es particularmente hábil en generar el placer de la posibilidad; el placer de la realidad es más limitado.
 
 **El desplazamiento del objetivo:**
 Al alcanzar un objetivo, la mente desplaza el umbral: "Creía que sería suficiente. Ahora veo que lo que realmente quiero es Y." El horizonte siempre se mueve.
@@ -63,7 +63,7 @@ Abandonar la búsqueda del punto de llegada y aprender a encontrar satisfacción
 
 ---
 
-## Capítulo 4: El bienestar que no depende del logro
+## Capítulo 4: El bienestar que no depende del logró
 
 La investigación sobre el bienestar subjetivo (la psicología positiva de Seligman, Csikszentmihalyi y otros) identifica los componentes del bienestar que son más estables y menos dependientes de las circunstancias externas.
 
@@ -71,7 +71,7 @@ La investigación sobre el bienestar subjetivo (la psicología positiva de Selig
 - Las relaciones positivas de calidad (el predictor más consistente)
 - El compromiso (el estado de flujo, la absorción en actividades significativas)
 - El significado (sentir que la propia vida contribuye a algo más grande)
-- El logro (sí, forma parte — pero como proceso, no como destino)
+- El logró (sí, forma parte — pero como proceso, no como destino)
 - Las emociones positivas (aunque no a cualquier precio ni en todo momento)
 
 **La implicación:**
@@ -86,7 +86,7 @@ El éxito es una medida externa: los logros, el reconocimiento, las recompensas.
 No siempre coinciden.
 
 **El alto rendidor que no es satisfecho:**
-Alcanza todos los objetivos que se propone y siente que algo falta. Frecuentemente falta la dimensión de significado y relación que el enfoque en el logro ha dejado fuera.
+Alcanza todos los objetivos que se propone y siente que algo falta. Frecuentemente falta la dimensión de significado y relación que el enfoque en el logró ha dejado fuera.
 
 **El satisfecho que no es "exitoso" en términos convencionales:**
 Que ha construido una vida con profundidad relacional, significado y salud, aunque su carrera no sea extraordinaria. Su bienestar subjetivo puede ser tan alto o mayor que el del alto rendidor insatisfecho.
@@ -95,18 +95,18 @@ Elena había conocido a personas en ambas categorías. Lo que la había sorprend
 
 ---
 
-## Capítulo 6: El vacío post-logro — qué hacer con él
+## Capítulo 6: El vacío post-logró — qué hacer con él
 
-Cuando el vacío llega después del logro, hay varias respuestas posibles:
+Cuando el vacío llega después del logró, hay varias respuestas posibles:
 
 **La respuesta de la aceleración:**
-Pasar rápidamente al siguiente objetivo para no sentir el vacío. Funciona a corto plazo para evitar el malestar. No resuelve la cuestión subyacente y produce una vida de carrera hacia adelante sin pausa para integrar.
+Pasar rápidamente al siguiente objetivo para no sentir el vacío. Funciona a corto plazo para evitar el malestar. No resuelve la cuestión subyacente y produce una vida de carrera hacía adelante sin pausa para integrar.
 
 **La respuesta del cuestionamiento:**
-Usar el vacío como información. "¿Qué me dice este vacío sobre lo que realmente busco?" La sensación de vacío post-logro es frecuentemente una señal de que los objetivos perseguidos no estaban completamente alineados con los valores más profundos.
+Usar el vacío como información. "¿Qué me dice este vacío sobre lo que realmente busco?" La sensación de vacío post-logró es frecuentemente una señal de que los objetivos perseguidos no estaban completamente alineados con los valores más profundos.
 
 **La respuesta de la integración:**
-Hacer una pausa real después de un logro significativo. Celebrar, reflexionar, agradecer. Antes de definir el siguiente objetivo. Esta pausa produce una relación más sana con los logros y una mejor claridad sobre los objetivos siguientes.
+Hacer una pausa real después de un logró significativo. Celebrar, reflexionar, agradecer. Antes de definir el siguiente objetivo. Esta pausa produce una relación más sana con los logros y una mejor claridad sobre los objetivos siguientes.
 
 ---
 
@@ -118,7 +118,7 @@ Viktor Frankl, en "El hombre en busca de sentido", argumentó que la motivación
 La felicidad es un estado emocional. El sentido es una evaluación cognitiva de si la propia vida contribuye a algo que importa. No son lo mismo y no siempre coinciden.
 
 **El trabajo con sentido:**
-El trabajo que conecta con los valores más profundos, que contribuye a algo más grande que el propio beneficio, que implica el uso de los propios talentos para algo que importa —este tipo de trabajo tiene un efecto protector contra el vacío del logro externo.
+El trabajo que conecta con los valores más profundos, que contribuye a algo más grande que el propio beneficio, que implica el uso de los propios talentos para algo que importa —este tipo de trabajo tiene un efecto protector contra el vacío del logró externo.
 
 **La búsqueda del sentido:**
 No es un ejercicio de retiro espiritual. Es una pregunta concreta: "¿De qué formas contribuye lo que hago a algo que genuinamente importa?" No en abstracto: de formas concretas y verificables.
@@ -130,7 +130,7 @@ No es un ejercicio de retiro espiritual. Es una pregunta concreta: "¿De qué fo
 La investigación de Robert Emmons sobre la gratitud muestra que la práctica deliberada de la gratitud tiene efectos documentados sobre el bienestar subjetivo.
 
 **El mecanismo:**
-La gratitud activa el procesamiento del bienestar ya presente. El cerebro habituado a buscar lo que falta (lo que produce la motivación para lograr) raramente registra lo que ya tiene. La gratitud es una práctica de re-orientación de la atención hacia lo que ya es positivo.
+La gratitud activa el procesamiento del bienestar ya presente. El cerebro habituado a buscar lo que falta (lo que produce la motivación para lograr) raramente registra lo que ya tiene. La gratitud es una práctica de re-orientación de la atención hacía lo que ya es positivo.
 
 **La práctica:**
 No el pensamiento vago de "ser agradecido". La práctica concreta: escribir regularmente (diario, semanal) tres cosas específicas por las que se está agradecido y por qué. La especificidad produce efectos más fuertes que la generalidad.
@@ -141,7 +141,7 @@ Isabel había empezado esta práctica después de una conversación con su mento
 
 ## Capítulo 9: El éxito redefinido
 
-El vacío post-logro frecuentemente indica que la definición de éxito usada hasta ahora era incompleta.
+El vacío post-logró frecuentemente indica que la definición de éxito usada hasta ahora era incompleta.
 
 **Las dimensiones del éxito que la cultura dominante ignora:**
 - La calidad de las relaciones más importantes
@@ -157,7 +157,7 @@ No abandonar los objetivos de rendimiento. Añadir a la definición de éxito di
 
 ## Capítulo 10: Lo que Rubén aprendió del vacío
 
-Rubén pasó tres semanas con el vacío después de su mayor éxito.
+Rubén paso tres semanas con el vacío después de su mayor éxito.
 
 Al final de las tres semanas, escribió en su cuaderno lo que había aprendido: que el proyecto había sido maravilloso porque le había permitido trabajar con personas que le importaban, aprender cosas que no sabía, y contribuir a algo que sus clientes necesitaban realmente. No por el reconocimiento. No por el dinero. Por esas tres cosas.
 

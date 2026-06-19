@@ -26,7 +26,7 @@ Los ladrones de tiempo modernos no entran por la ventana. Te las dan con una son
 
 Las aplicaciones más populares del mundo no son populares por accidente. Son populares por diseño.
 
-**El modelo de negocio:**
+**El modeló de negocio:**
 La mayoría de aplicaciones gratuitas venden publicidad. Los ingresos publicitarios dependen del tiempo que los usuarios pasan en la aplicación. El incentivo: maximizar el tiempo de atención.
 
 **Las técnicas:**
@@ -126,7 +126,7 @@ Para algunas aplicaciones, la solución es eliminarlas. Para otras, restringir e
 Hacer más difícil el acceso a las distracciones. Desinstalar las aplicaciones del teléfono y acceder solo desde el navegador del ordenador. Poner el teléfono en otra habitación durante el trabajo. Usar extensiones del navegador que bloqueen sitios durante ciertos horarios.
 
 **3. Sustitución:**
-El tiempo que se liberaba en el scroll tiene que ir a algún sitio. Si no hay actividades sustitutivas que aporten valor, el vacío tira de vuelta hacia las distracciones.
+El tiempo que se liberaba en el scroll tiene que ir a algún sitio. Si no hay actividades sustitutivas que aporten valor, el vacío tira de vuelta hacía las distracciones.
 
 ---
 
@@ -156,7 +156,7 @@ Si los empleados de una empresa de cien personas pierden en promedio dos horas a
 **Las políticas organizacionales:**
 Algunas organizaciones están adoptando políticas de "tiempo de concentración protegido": horas del día donde no se esperan respuestas inmediatas a correos o mensajes.
 
-Otras están reformulando sus espacios físicos para incluir zonas de trabajo silencioso junto con zonas de colaboración.
+Otras están reformulando sus espacios físicos para incluir zonas de trabajo silencioso juntó con zonas de colaboración.
 
 ---
 
@@ -168,7 +168,7 @@ No lo apagaba. No lo dejaba boca abajo. Lo guardaba en el cajón, fuera de la vi
 
 En esas dos horas, Isabel producía más que en cualquier período de dos horas anterior. Las notificaciones esperaban. El mundo no se acababa.
 
-Al final del experimento de dos semanas, no quería volver al modelo anterior. El cajón pasó a ser la posición normal del teléfono durante las horas de trabajo importante.
+Al final del experimento de dos semanas, no quería volver al modeló anterior. El cajón paso a ser la posición normal del teléfono durante las horas de trabajo importante.
 
 ---
 

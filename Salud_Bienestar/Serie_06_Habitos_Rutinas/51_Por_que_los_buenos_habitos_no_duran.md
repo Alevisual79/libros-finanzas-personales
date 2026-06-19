@@ -88,7 +88,7 @@ Empezar el 1 de enero con "haré ejercicio 5 días a la semana, comeré sin carb
 "Haré ejercicio más" no es un plan. "Iré al gimnasio los lunes, miércoles y viernes a las 7 de la mañana antes de ir al trabajo" es un plan. La especificidad de la señal (cuándo, dónde, cómo) es el factor predictivo más potente de la implementación.
 
 **El entorno no modificado:**
-Intentar cambiar conductas sin cambiar el entorno que produce esas conductas es luchar contra la corriente. Si la casa tiene galletas a la vista, comerlas será la conducta predeterminada. Si el sofá está frente al televisor y las zapatillas de correr en el armario, la inercia irá hacia el sofá.
+Intentar cambiar conductas sin cambiar el entorno que produce esas conductas es luchar contra la corriente. Si la casa tiene galletas a la vista, comerlas será la conducta predeterminada. Si el sofá está frente al televisor y las zapatillas de correr en el armario, la inercia irá hacía el sofá.
 
 **El perfeccionismo del todo o nada:**
 Una sesión de gimnasio perdida se convierte en "he roto la racha, total ya para qué". El pensamiento de todo o nada produce el abandono tras el primer desliz, que es inevitable en cualquier proceso de cambio real.
@@ -156,7 +156,7 @@ El nuevo hábito debe ser lo suficientemente sencillo como para no requerir moti
 Las recaídas no son el final del proceso de cambio. Son parte de él.
 
 **Los estudios sobre el cambio:**
-El modelo transteórico de Prochaska y DiClemente identifica las recaídas como una fase normal del proceso de cambio, no como un fracaso definitivo. La mayoría de las personas que cambian hábitos significativos (dejar de fumar, perder peso) lo consiguen tras varios intentos.
+El modeló transteórico de Prochaska y DiClemente identifica las recaídas cómo una fase normal del proceso de cambio, no cómo un fracaso definitivo. La mayoría de las personas que cambian hábitos significativos (dejar de fumar, perder peso) lo consiguen tras varios intentos.
 
 **El "desastre de la abstinencia" vs. la recaída:**
 La persona que rompe su rachas una vez y concluye "total, ya he fallado" y abandona experimenta el "desastre de la abstinencia". La persona que rompe la racha y vuelve al día siguiente sin drama tiene una recaída que no interrumpe el proceso.
@@ -206,7 +206,7 @@ Cada pequeña acción coherente con la identidad deseada refuerza esa identidad.
 
 6. **Registrar:** el registro simple (una X en el calendario) produce la "cadena de hábitos" que motiva continuar.
 
-7. **No romper la cadena dos veces seguidas:** una recaída es normal. Dos seguidas es el inicio de la recaída del hábito.
+7. **No romper la cadena dos veces seguidas:** una recaída es normal. Dos seguidas es el inició de la recaída del hábito.
 
 8. **Aumentar gradualmente:** solo cuando el hábito mínimo está automatizado, aumentar la dificultad.
 

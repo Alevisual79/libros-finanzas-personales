@@ -72,7 +72,7 @@ Estar sentado durante horas acorta estas estructuras. Cuando están muy acortada
 Muy afectados por el sedentarismo. Cuando están acortados: inclinación pélvica posterior, dolor de espalda, dificultad al doblarse.
 
 **Pectoral y la parte anterior del hombro:**
-Las horas frente al ordenador con el tronco hacia delante y los hombros encorvados acortan el pectoral. Resultado: cifosis (espalda curvada hacia adelante), dolor de cervicales.
+Las horas frente al ordenador con el tronco hacía delante y los hombros encorvados acortan el pectoral. Resultado: cifosis (espalda curvada hacía adelante), dolor de cervicales.
 
 **Cadera lateral (banda IT, piriforme):**
 Rigidez lateral de cadera que contribuye a dolor de rodilla y cadera.
@@ -90,16 +90,16 @@ Restricción de movilidad del tobillo que afecta a toda la cadena cinética: rod
 En cuadrupedia, alternar flexión y extensión de la columna. 10 repeticiones lentas.
 
 **Ejercicio 2: Apertura de cadera en mariposa:**
-Sentado, plantas de los pies juntas, rodillas hacia afuera. Gravedad o presión suave con las manos. 30-60 segundos.
+Sentado, plantas de los pies juntas, rodillas hacía afuera. Gravedad o presión suave con las manos. 30-60 segundos.
 
 **Ejercicio 3: Estocada con giro (flexores de cadera y rotación torácica):**
-Rodilla en el suelo, pie adelantado, girar hacia el lado de la pierna adelantada. 10 repeticiones cada lado.
+Rodilla en el suelo, pie adelantado, girar hacía el lado de la pierna adelantada. 10 repeticiones cada lado.
 
 **Ejercicio 4: Thread the needle (movilidad torácica):**
 En cuadrupedia, pasar un brazo por debajo del cuerpo con rotación. 10 repeticiones cada lado.
 
 **Ejercicio 5: Apertura de tobillo:**
-De pie, rodilla hacia la pared manteniendo el talón en el suelo. 10 repeticiones cada lado.
+De pie, rodilla hacía la pared manteniendo el talón en el suelo. 10 repeticiones cada lado.
 
 **Ejercicio 6: Movilidad de hombro (rotación interna y externa):**
 Con banda elástica o sin ella. 10 repeticiones cada dirección.
@@ -148,7 +148,7 @@ El objetivo es tener el rango de movimiento suficiente para las actividades de l
 Rangos funcionales mínimos:
 - Poder agacharse a recoger algo del suelo
 - Sentarse en el suelo y levantarse
-- Girar para mirar hacia atrás
+- Girar para mirar hacía atrás
 - Alcanzar la espalda con los brazos (rascarse la espalda)
 - Ponerse los calcetines sentado (flexión de cadera + tobillo)
 

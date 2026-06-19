@@ -6,15 +6,15 @@
 
 ---
 
-## Prólogo: El bonus que no cambió nada
+## Prólogo: El bonus que no cambio nada
 
-La empresa donde trabajaba Rubén como consultor implementó un sistema de bonificaciones por rendimiento. Era generoso. El directivo que lo lanzó esperaba un aumento de la productividad.
+La empresa donde trabajaba Rubén como consultor implementó un sistema de bonificaciones por rendimiento. Era generoso. El directivo que lo lanzo esperaba un aumento de la productividad.
 
 Al cabo de seis meses, la productividad no había cambiado significativamente. El ambiente de trabajo había empeorado: más competencia, menos colaboración, más ansiedad.
 
 El directivo estaba desconcertado.
 
-El mentor no lo estaba: "Pagaste para que hicieran más. Obtuviste exactamente eso: personas haciendo más de lo que te importaba medir. No más de lo que realmente importa."
+El mentor no lo estaba: "Pagaste para qué hicieran más. Obtuviste exactamente eso: personas haciendo más de lo que te importaba medir. No más de lo que realmente importa."
 
 ---
 
@@ -26,11 +26,11 @@ Esta creencia es parcialmente verdadera —hasta cierto nivel— y completamente
 
 **Lo que la investigación muestra:**
 
-Frederick Herzberg, en los años 60, identificó la distinción entre factores higiénicos y factores motivadores.
+Frederick Herzberg, en los años 60, identifico la distinción entre factores higiénicos y factores motivadores.
 
 **Factores higiénicos:** (como el salario, las condiciones de trabajo, la seguridad laboral) Su ausencia produce insatisfacción. Su presencia no produce motivación: produce ausencia de insatisfacción. El salario suficiente evita que las personas estén insatisfechas; no las hace más comprometidas.
 
-**Factores motivadores:** (logro, reconocimiento, el trabajo en sí, la responsabilidad, el crecimiento) Su presencia sí produce motivación real y compromiso.
+**Factores motivadores:** (logró, reconocimiento, el trabajo en sí, la responsabilidad, el crecimiento) Su presencia sí produce motivación real y compromiso.
 
 El dinero es necesario pero insuficiente para la motivación. Una vez que el salario es percibido como justo, más dinero produce rendimientos decrecientes en motivación.
 
@@ -82,7 +82,7 @@ Dar libertad sobre cómo se hace el trabajo (dentro de los límites del resultad
 Crear oportunidades para que las personas crezcan. Asignar retos que están ligeramente por encima del nivel de comodidad actual. Dar feedback que permita mejorar. Invertir en formación.
 
 **Reconocimiento:**
-El reconocimiento específico —"Lo que hiciste en X produjo Y resultado específico"— tiene un impacto motivacional desproporcionado al costo que tiene para el líder.
+El reconocimiento específico —"Lo que hiciste en X produjó Y resultado específico"— tiene un impacto motivacional desproporcionado al costo que tiene para el líder.
 
 ---
 
@@ -169,7 +169,7 @@ La única forma de obtener esta información: preguntarla. Las conversaciones in
 
 ## Capítulo 10: El experimento de Isabel
 
-Isabel hizo un experimento durante tres meses: en lugar de intensificar el sistema de incentivos económicos, trabajó en tres elementos:
+Isabel hizo un experimento durante tres meses: en lugar de intensificar el sistema de incentivos económicos, trabajo en tres elementos:
 1. Conectó explícitamente el trabajo del equipo con el impacto en las personas de la organización (reunión mensual de 15 minutos).
 2. Aumentó la autonomía del equipo en cómo ejecutaba sus proyectos.
 3. Implementó reconocimiento específico y regular en uno a uno.

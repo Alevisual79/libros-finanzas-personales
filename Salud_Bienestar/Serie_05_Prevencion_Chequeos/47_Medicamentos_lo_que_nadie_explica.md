@@ -119,7 +119,7 @@ El omeprazol y otros inhibidores de la bomba de protones (IBP: pantoprazol, lans
 - Síndrome de Zollinger-Ellison
 
 **Cuándo está sobreprescrito:**
-El omeprazol se prescribe rutinariamente como "protector gástrico" junto con cualquier otro medicamento, como tratamiento del "ardor" sin diagnóstico, de forma indefinida sin revisión. Esto no está justificado en muchos de estos contextos.
+El omeprazol se prescribe rutinariamente como "protector gástrico" juntó con cualquier otro medicamento, como tratamiento del "ardor" sin diagnóstico, de forma indefinida sin revisión. Esto no está justificado en muchos de estos contextos.
 
 **Los efectos a largo plazo:**
 Los IBP a largo plazo se asocian con: déficit de magnesio, déficit de vitamina B12, mayor riesgo de fracturas, mayor incidencia de infecciones intestinales (Clostridium difficile), mayor riesgo de enfermedad renal. No son inocuos tomados indefinidamente sin indicación clara.
@@ -191,10 +191,10 @@ Para el insomnio: la TCC-I (terapia cognitivo-conductual para el insomnio) es m�
 En cada consulta, llevar una lista de todos los medicamentos que se toman: nombre, dosis, frecuencia. Incluyendo los de venta libre (ibuprofeno, antihistamínicos), los suplementos y los remedios de herboristería.
 
 **Preguntar antes de tomar:**
-¿Para qué es este medicamento? ¿Cuánto tiempo lo tomaré? ¿Cuándo podría dejar de tomarlo? ¿Qué efectos secundarios debo vigilar? ¿Hay interacciones con lo que ya tomo?
+¿Para qué es este medicamento? ¿Cuánto tiempo lo tomaré? ¿Cuándo podría dejar de tomarlo? ¿Qué efectos secundarios debo vigilar? ¿Hay interacciones con lo que ya tomó?
 
 **Pedir revisión periódica:**
-Al menos una vez al año, preguntar: ¿Todos los medicamentos que tomo siguen siendo necesarios? ¿Hay alguno que podría reducir o eliminar? Esta "desprescripción" activa es una herramienta de seguridad.
+Al menos una vez al año, preguntar: ¿Todos los medicamentos que tomó siguen siendo necesarios? ¿Hay alguno que podría reducir o eliminar? Esta "desprescripción" activa es una herramienta de seguridad.
 
 **Comunicar los efectos secundarios:**
 Si aparece algo nuevo después de empezar un medicamento, considerar la posibilidad de que esté relacionado y consultarlo antes de automedicarse para el nuevo síntoma.

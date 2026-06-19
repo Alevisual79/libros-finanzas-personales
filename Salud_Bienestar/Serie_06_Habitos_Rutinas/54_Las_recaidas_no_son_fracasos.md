@@ -8,7 +8,7 @@
 
 ## Prólogo: El miércoles que lo arruinó todo
 
-Miguel llevaba tres semanas comiendo bien, sin alcohol y haciendo ejercicio cuatro veces por semana. El miércoles pasó algo en el trabajo. Llegó a casa enfadado, exhausto y comió lo que había en la nevera: sobras del día anterior, media tableta de chocolate y tres cervezas.
+Miguel llevaba tres semanas comiendo bien, sin alcohol y haciendo ejercicio cuatro veces por semana. El miércoles paso algo en el trabajo. Llegó a casa enfadado, exhausto y comió lo que había en la nevera: sobras del día anterior, media tableta de chocolate y tres cervezas.
 
 El jueves decidió que la semana estaba perdida. El viernes ya había abandonado el plan. El sábado pensó que empezaría "el lunes". El lunes no empezó.
 
@@ -26,8 +26,8 @@ El fumador medio intenta dejar de fumar entre 8 y 30 veces antes de lograrlo def
 **Los datos del peso:**
 El 95% de las personas que pierden peso significativo con una dieta lo recuperan parcialmente en 3 años. Pero quienes han mantenido pérdidas a largo plazo describen un proceso de múltiples intentos, aprendizaje y ajuste.
 
-**El modelo transteórico de Prochaska:**
-El modelo científico más usado para entender el cambio de conducta incluye explícitamente la recaída como una fase del proceso, no como el final. Las personas transitan por las fases (precontemplación → contemplación → preparación → acción → mantenimiento) frecuentemente volviendo atrás antes de estabilizarse.
+**El modeló transteórico de Prochaska:**
+El modeló científico más usado para entender el cambio de conducta incluye explícitamente la recaída cómo una fase del proceso, no como el final. Las personas transitan por las fases (precontemplación → contemplación → preparación → acción → mantenimiento) frecuentemente volviendo atrás antes de estabilizarse.
 
 **La implicación:**
 Si la recaída es estadísticamente la norma en el proceso de cambio, el problema no es tener recaídas. El problema es cómo se responde a ellas.
@@ -116,7 +116,7 @@ Anticipar las situaciones de riesgo y preparar una respuesta es más efectivo qu
 
 **La técnica "si... entonces...":**
 "Si estoy en una fiesta y alguien me ofrece un cigarrillo, entonces diré 'gracias, lo dejé' y me alejaré."
-"Si llego a casa estresado y quiero comer emocional, entonces beberé un vaso de agua, saldré a dar una vuelta de 10 minutos y luego decidiré."
+"Si llegó a casa estresado y quiero comer emocional, entonces beberé un vaso de agua, saldré a dar una vuelta de 10 minutos y luego decidiré."
 
 Preparar la respuesta de antemano reduce el coste cognitivo en el momento de la tentación, cuando los recursos están más mermados.
 
@@ -168,7 +168,7 @@ Cada intento fallido que termina en recaída no es pérdida de tiempo: es inform
 
 En el contexto clínico (adicciones, trastornos alimentarios, conductas compulsivas), la prevención de recaídas es un área de tratamiento formal.
 
-**El modelo de Marlatt:**
+**El modeló de Marlatt:**
 El programa de prevención de recaídas (RP) de Alan Marlatt incluye:
 - Identificación de situaciones de alto riesgo
 - Entrenamiento en habilidades de afrontamiento
@@ -176,7 +176,7 @@ El programa de prevención de recaídas (RP) de Alan Marlatt incluye:
 - Cambios en el estilo de vida para reducir el estrés global
 - Planificación de la respuesta ante la recaída
 
-Este modelo se aplica en el tratamiento de adicciones, pero sus principios son universalmente aplicables al cambio de hábitos.
+Este modeló se aplica en el tratamiento de adicciones, pero sus principios son universalmente aplicables al cambio de hábitos.
 
 **La TCC en las recaídas:**
 Los patrones cognitivos que llevan al abandono tras la recaída son los mismos que se trabajan en la TCC: el pensamiento de todo o nada, la catastrofización, la generalización excesiva.
@@ -185,7 +185,7 @@ Los patrones cognitivos que llevan al abandono tras la recaída son los mismos q
 
 ## Capítulo 10: El plan de Carmen — cuatro intentos para dejar de fumar
 
-Carmen lo intentó cuatro veces:
+Carmen lo intento cuatro veces:
 - Primera vez: parches, 3 meses. Recaída en una situación de estrés familiar. Pensó: "No puedo."
 - Segunda vez: vareniclina, 6 meses. Recaída en vacaciones. Pensó: "Es demasiado difícil para mí."
 - Tercera vez: TCC + parches. 8 meses. Recaída en un momento de duelo. Pensó: "Ya lo haré otra vez."

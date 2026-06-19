@@ -14,7 +14,7 @@ El equipo había pasado meses optimizando el proceso de onboarding. Sin resultad
 
 Rubén les propuso una pregunta diferente: "En lugar de preguntar por qué los usuarios no vuelven, ¿qué pasaría si preguntáramos qué tienen en común los que sí vuelven?"
 
-El análisis de los usuarios fieles reveló un patrón: todos habían completado una acción específica en las primeras 48 horas. Al rediseñar el onboarding para guiar a todos los usuarios hacia esa acción, la retención subió un 40%.
+El análisis de los usuarios fieles reveló un patrón: todos habían completado una acción específica en las primeras 48 horas. Al rediseñar el onboarding para guiar a todos los usuarios hacía esa acción, la retención subió un 40%.
 
 La solución no había estado en el problema. Había estado en la pregunta.
 
@@ -40,7 +40,7 @@ Los mejores solucionadores de problemas utilizan ambos. El pensamiento lateral p
 **La pregunta "¿Y si...?"**
 La pregunta de cambio de supuesto: "¿Y si el problema fuera exactamente lo contrario?" "¿Y si el cliente fuera el proveedor?" "¿Y si tuviéramos diez veces el presupuesto? ¿Y si tuviéramos la décima parte?"
 
-Las preguntas "Y si" no tienen que ser realistas. Su función es romper el marco de referencia habitual y hacer visible lo que el marco ocultaba.
+Las preguntas "Y si" no tienen que ser realistas. Su función es romper el marcó de referencia habitual y hacer visible lo que el marcó ocultaba.
 
 **La inversión:**
 Invertir el problema. En lugar de "¿Cómo atraigo más clientes?", "¿Cómo me aseguraría de perder todos mis clientes?" La respuesta a la pregunta invertida frecuentemente revela los problemas reales del camino habitual.
@@ -55,7 +55,7 @@ Empezar desde un punto completamente diferente al habitual. Abrir el diccionario
 
 ## Capítulo 3: Los sombreros para pensar
 
-De Bono desarrolló la técnica de los "Seis Sombreros para Pensar": una herramienta para estructurar el pensamiento colectivo asignando a cada participante un "sombrero" que define su rol en la conversación.
+De Bono desarrollo la técnica de los "Seis Sombreros para Pensar": una herramienta para estructurar el pensamiento colectivo asignando a cada participante un "sombrero" que define su rol en la conversación.
 
 **El sombrero blanco:** Los datos y la información objetiva. ¿Qué sabemos? ¿Qué nos falta saber?
 
@@ -79,10 +79,10 @@ La técnica obliga a separar los modos de pensamiento que habitualmente ocurren 
 El pensamiento de primeros principios consiste en descomponer un problema hasta sus elementos más básicos e irrefutables, y reconstruir desde ahí.
 
 **La diferencia con el pensamiento por analogía:**
-El pensamiento por analogía dice "Así es como se ha hecho siempre, así que lo hacemos parecido." El pensamiento de primeros principios dice "¿Cuáles son los elementos fundamentales del problema? Construyamos desde ahí, sin asumir que las soluciones existentes son el punto de partida."
+El pensamiento por analogía dice "Así es cómo se ha hecho siempre, así que lo hacemos parecido." El pensamiento de primeros principios dice "¿Cuáles son los elementos fundamentales del problema? Construyamos desde ahí, sin asumir que las soluciones existentes son el punto de partida."
 
 **El ejemplo de Elon Musk:**
-Musk describió cómo aplicó el pensamiento de primeros principios a las baterías para Tesla. En lugar de asumir el precio de mercado de las baterías como un dato fijo, se preguntó: ¿de qué están hechas las baterías? ¿Cuánto cuestan esos materiales en el mercado de materias primas? La respuesta reveló que el coste teórico era una fracción del precio de mercado, lo que hizo viable la búsqueda de fabricación propia.
+Musk describió cómo aplico el pensamiento de primeros principios a las baterías para Tesla. En lugar de asumir el precio de mercado de las baterías cómo un dato fijo, se preguntó: ¿de qué están hechas las baterías? ¿Cuánto cuestan esos materiales en el mercado de materias primas? La respuesta reveló que el coste teórico era una fracción del precio de mercado, lo que hizo viable la búsqueda de fabricación propia.
 
 ---
 
@@ -113,7 +113,7 @@ Ver las conexiones entre los elementos de un sistema, no solo los elementos aisl
 **La aplicación:**
 Antes de implementar una solución, preguntar: ¿qué otros elementos del sistema afecta esta decisión? ¿Hay efectos no intencionales previsibles? ¿Está atacando el síntoma o la causa raíz?
 
-Elena aplicó esto cuando el equipo quería "mejorar la comunicación" para resolver un problema de retrasos en los proyectos. El análisis sistémico reveló que el problema no era la comunicación: era la forma en que se estimaban los proyectos, que producía plazos irreales desde el inicio. La mejora de la comunicación habría resuelto el síntoma; el cambio en la estimación, la causa.
+Elena aplico esto cuando el equipo quería "mejorar la comunicación" para resolver un problema de retrasos en los proyectos. El análisis sistémico reveló que el problema no era la comunicación: era la forma en que se estimaban los proyectos, que producía plazos irreales desde el inició. La mejora de la comunicación habría resuelto el síntoma; el cambio en la estimación, la causa.
 
 ---
 
@@ -135,7 +135,7 @@ La separación temporal entre fases protege las ideas en su estado más frágil 
 
 ## Capítulo 8: El pensamiento lateral en la práctica de Isabel
 
-Isabel usó el pensamiento lateral para resolver un problema que llevaba meses sin resolución: la alta tasa de renuncia en los tres primeros meses de incorporación.
+Isabel uso el pensamiento lateral para resolver un problema que llevaba meses sin resolución: la alta tasa de renuncia en los tres primeros meses de incorporación.
 
 Las soluciones habituales habían fallado: mejor onboarding, más formación, más comunicación.
 
@@ -168,7 +168,7 @@ El mejor trabajo creativo ocurre en la tensión entre la estructura analítica (
 
 ## Capítulo 10: La pregunta de Rubén
 
-Rubén aplicó la técnica de la inversión a su propio negocio.
+Rubén aplico la técnica de la inversión a su propio negocio.
 
 "¿Cómo conseguiría perder todos mis clientes en un año?"
 

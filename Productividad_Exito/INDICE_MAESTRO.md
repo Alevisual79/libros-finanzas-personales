@@ -141,7 +141,7 @@
 72. **"El aprendizaje ultrarrápido"** — Cómo adquirir nuevas habilidades en semanas, no en años
 73. **"La práctica deliberada"** — La diferencia entre practicar y practicar bien
 74. **"Mentores: El atajo que pocos aprovechan"** — Cómo encontrar y aprovechar a personas que ya llegaron donde quieres ir
-75. **"Libros que transforman"** — Cómo leer libros de no ficción para que realmente cambien algo
+75. **"Libros que transforman"** — Cómo leer libros de no ficción para qué realmente cambien algo
 76. **"Cursos online: Cómo no pagar y no terminar"** — El problema de la educación digital y cómo resolverlo
 77. **"Pensamiento crítico"** — Cómo evaluar información, detectar sesgos y tomar mejores decisiones
 78. **"La mente del principiante"** — Por qué los expertos a veces aprenden menos que los novatos

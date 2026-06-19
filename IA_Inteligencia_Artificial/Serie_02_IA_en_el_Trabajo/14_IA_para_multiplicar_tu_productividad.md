@@ -1,4 +1,4 @@
-﻿# IA para multiplicar tu productividad
+# IA para multiplicar tu productividad
 ## Las herramientas y flujos de trabajo que están cambiando cómo se trabaja
 
 **Serie 2: IA en el Trabajo — Libro 4 de 10**
@@ -7,7 +7,7 @@
 
 ## Prólogo: El día de 6 horas de Elena
 
-Elena empezó a registrar en qué usaba su tiempo después de implementar herramientas de IA en su flujo de trabajo. El resultado sorprendente: en un mes, redujo su jornada efectiva de trabajo cognitivo intenso de ocho a seis horas, manteniendo el mismo output —y frecuentemente mejorándolo. Las dos horas restantes las usaba para reuniones, llamadas y relación con el equipo.
+Elena empezó a registrar en qué usaba su tiempo después de implementar herramientas de IA en su flujo de trabajo. El resultado sorprendente: en un mes, redujó su jornada efectiva de trabajo cognitivo intenso de ocho a seis horas, manteniendo el mismo output —y frecuentemente mejorándolo. Las dos horas restantes las usaba para reuniones, llamadas y relación con el equipo.
 
 No trabajaba menos. Trabajaba diferente.
 
@@ -64,13 +64,13 @@ El uso transformador: rediseñar el flujo de trabajo desde cero preguntando "si 
 
 Rubén pasaba el 40% de su tiempo escribiendo: propuestas, emails, informes, contenido para clientes.
 
-Con IA, el proceso cambió:
+Con IA, el proceso cambio:
 - **Antes:** Pensar, estructurar, escribir borrador, editar, enviar. 2-3 horas por propuesta.
 - **Después:** Dar contexto a la IA, revisar estructura, iterar sobre secciones clave, editar tono y personalización, enviar. 45-60 minutos por propuesta.
 
 El tiempo ahorrado no va a más propuestas automáticamente. Va a más conversaciones con clientes, a análisis más profundo de las necesidades, a trabajo estratégico que antes no había tiempo de hacer.
 
-La clave: no usar la IA para generar más cantidad del mismo trabajo. Usarla para liberar tiempo hacia trabajo de mayor valor.
+La clave: no usar la IA para generar más cantidad del mismo trabajo. Usarla para liberar tiempo hacía trabajo de mayor valor.
 
 ---
 

@@ -75,7 +75,7 @@ Duración total: ~20 minutos. Músculos trabajados: todo el cuerpo.
 
 Los micro-entrenamientos son sesiones de 5-10 minutos distribuidas a lo largo del día.
 
-La evidencia emergente sugiere que distribuir el ejercicio en varias sesiones cortas puede ser tan efectivo como una sesión larga para muchos objetivos de salud.
+La evidencia emergente sugiere que distribuir el ejercicio en varias sesiones cortas puede ser tan efectivo cómo una sesión larga para muchos objetivos de salud.
 
 **Ejemplos de micro-entrenamientos:**
 - 5 minutos de movilidad al levantarse

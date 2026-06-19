@@ -14,7 +14,7 @@ A los veinte kilómetros, muchos maratonistas experimentan una crisis. Las reser
 
 Los que terminan no son los que no sienten el muro. Son los que tienen estrategias para pasar a través de él.
 
-La carrera de largo plazo en el trabajo y la vida personal tiene su milla veinte. El que la termina no es el más motivado al inicio. Es el que ha desarrollado las estrategias para sostener la motivación cuando la energía inicial ya no está.
+La carrera de largo plazo en el trabajo y la vida personal tiene su milla veinte. El que la termina no es el más motivado al inició. Es el que ha desarrollado las estrategias para sostener la motivación cuando la energía inicial ya no está.
 
 ---
 
@@ -140,7 +140,7 @@ Hablar con alguien de confianza sobre lo que se está sintiendo. No para recibir
 
 La motivación no es constante a lo largo de un proyecto largo. Tiene una topografía predecible:
 
-**El inicio:**
+**El inició:**
 Alta motivación por la novedad y las posibilidades. La energía del comienzo.
 
 **El medio:**
@@ -153,7 +153,7 @@ La motivación sube de nuevo cuando el final es visible. El "sprint final".
 Saber que el período medio será difícil prepara para él. Los proyectos que se abandonan generalmente se abandonan en el período medio, por sorpresa ante la caída de motivación esperada.
 
 **La estrategia:**
-Planificar el período medio con recursos de motivación adicionales: hitos, apoyo del grupo, revisión del propósito. No esperar que la motivación del inicio persista.
+Planificar el período medio con recursos de motivación adicionales: hitos, apoyo del grupo, revisión del propósito. No esperar que la motivación del inició persista.
 
 ---
 

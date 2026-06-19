@@ -10,7 +10,7 @@
 
 Laura recoge los resultados de la analítica anual. El médico le ha dicho "todo bien" y ha pasado a la siguiente consulta en dos minutos.
 
-Lleva el papel a casa. Hay cuarenta líneas con números, flechas hacia arriba y hacia abajo, valores de referencia y abreviaturas que no entiende. Algunos valores están marcados en rojo. El médico dijo "todo bien". Entonces, ¿por qué hay cosas en rojo?
+Lleva el papel a casa. Hay cuarenta líneas con números, flechas hacía arriba y hacía abajo, valores de referencia y abreviaturas que no entiende. Algunos valores están marcados en rojo. El médico dijo "todo bien". Entonces, ¿por qué hay cosas en rojo?
 
 Este libro existe para responder esa pregunta.
 
@@ -130,7 +130,7 @@ Indica inflamación de forma menos específica que la PCR. Puede estar elevada e
 La proteína de almacenamiento del hierro. Baja: anemia ferropénica o depósitos bajos aunque no haya anemia aún. Alta: inflamación (la ferritina es reactante de fase aguda), hemocromatosis, enfermedad hepática.
 
 **Hierro sérico y transferrina:**
-Valorar el estado del hierro. Se interpretan junto a la ferritina: hay múltiples patrones de anemia (ferropénica, de proceso crónico, etc.) que se distinguen por la combinación.
+Valorar el estado del hierro. Se interpretan juntó a la ferritina: hay múltiples patrones de anemia (ferropénica, de proceso crónico, etc.) que se distinguen por la combinación.
 
 ---
 

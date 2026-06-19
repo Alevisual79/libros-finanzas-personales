@@ -37,7 +37,7 @@ La mejora continua requiere un ciclo: hacer, observar, reflexionar, ajustar. Sin
 
 ## Capítulo 2: Qué incluye una revisión semanal completa
 
-Elena desarrolló su revisión semanal a lo largo de varios meses, probando diferentes formatos. El que se quedó tiene cinco partes.
+Elena desarrollo su revisión semanal a lo largo de varios meses, probando diferentes formatos. El que se quedó tiene cinco partes.
 
 **1. Revisión del pasado:**
 - ¿Qué logré esta semana?
@@ -57,7 +57,7 @@ Elena desarrolló su revisión semanal a lo largo de varios meses, probando dife
 
 **4. Revisión de objetivos:**
 - ¿Mis objetivos del trimestre/año siguen siendo relevantes?
-- ¿Estoy avanzando hacia ellos o solo haciendo cosas urgentes?
+- ¿Estoy avanzando hacía ellos o solo haciendo cosas urgentes?
 - ¿Hay algo que debería dejar de hacer para hacer más tiempo para lo importante?
 
 **5. Planificación de la semana siguiente:**
@@ -109,7 +109,7 @@ La metacognición —pensar sobre cómo se piensa, trabaja y decide— es una ha
 
 Estas preguntas, respondidas semana tras semana, producen un conocimiento sobre uno mismo que ningún libro de productividad puede sustituir.
 
-"El mayor retorno de la revisión semanal no es el plan para la semana siguiente," le explicó el mentor a Rubén. "Es el conocimiento acumulado sobre cómo funciona tu mejor versión."
+"El mayor retorno de la revisión semanal no es el plan para la semana siguiente," le explico el mentor a Rubén. "Es el conocimiento acumulado sobre cómo funciona tu mejor versión."
 
 ---
 
@@ -135,7 +135,7 @@ La revisión semanal tiene un horizonte de siete días. Para objetivos de mayor 
 
 **La revisión mensual:**
 Una vez al mes, una revisión de treinta a cuarenta y cinco minutos con perspectiva de un mes:
-- ¿Cómo va el avance hacia los objetivos del trimestre?
+- ¿Cómo va el avance hacía los objetivos del trimestre?
 - ¿Hay cambios en el contexto que requieran ajustar los objetivos?
 - ¿Qué hábitos están funcionando? ¿Cuáles no?
 
@@ -186,7 +186,7 @@ Elena releía sus revisiones del año anterior periódicamente. "Es sorprendente
 
 Rubén tardó seis meses en hacer de la revisión semanal un hábito estable. Los primeros intentos fueron inconsistentes: un viernes sí, dos viernes no.
 
-Lo que cambió: puso los viernes a las 16:00 como bloqueados en el calendario. "Revisión semanal." Sin excepciones, igual que una reunión con un cliente.
+Lo que cambio: puso los viernes a las 16:00 como bloqueados en el calendario. "Revisión semanal." Sin excepciones, igual que una reunión con un cliente.
 
 Al año de práctica consistente, Rubén hizo algo revelador: leyó sus revisiones del año anterior.
 

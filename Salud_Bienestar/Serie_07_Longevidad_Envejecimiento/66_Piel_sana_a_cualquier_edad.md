@@ -53,7 +53,7 @@ La piel muy expuesta al sol sin protección en una persona de 60 años puede ver
 El FPS (Factor de Protección Solar) indica la protección contra UVB. Para protección completa contra UVA, buscar protectores "de amplio espectro". El FPS mínimo para protección antiedad: 30. Aplicar generosamente y reaplicar cada 2 horas al sol.
 
 **El protector solar como anti-aging:**
-El estudio QSKIN (Australia) demostró que el uso diario de protector solar durante 4,5 años produjo una reducción medible del fotoenvejecimiento comparado con el grupo que lo usaba solo ocasionalmente. Es el cosmético con mayor evidencia antiedad.
+El estudio QSKIN (Australia) demostró que el uso diario de protector solar durante 4,5 años produjó una reducción medible del fotoenvejecimiento comparado con el grupo que lo usaba solo ocasionalmente. Es el cosmético con mayor evidencia antiedad.
 
 ---
 
@@ -140,7 +140,7 @@ Esencial para la síntesis de colágeno. El déficit de vitamina C produce escor
 El colágeno se sintetiza a partir de aminoácidos (especialmente glicina, prolina e hidroxiprolina). Una ingesta proteica suficiente es necesaria para la síntesis de colágeno.
 
 **Los suplementos de colágeno:**
-El colágeno hidrolizado oral tiene evidencia moderada de mejora de la hidratación y elasticidad de la piel. Los estudios muestran resultados positivos pero son financiados frecuentemente por la industria. El mecanismo no es "el colágeno que tomo se va directo a la piel": el colágeno se digiere en aminoácidos que el organismo usa donde los necesita.
+El colágeno hidrolizado oral tiene evidencia moderada de mejora de la hidratación y elasticidad de la piel. Los estudios muestran resultados positivos pero son financiados frecuentemente por la industria. El mecanismo no es "el colágeno que tomó se va directo a la piel": el colágeno se digiere en aminoácidos que el organismo usa donde los necesita.
 
 ---
 

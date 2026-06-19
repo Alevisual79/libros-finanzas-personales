@@ -16,7 +16,7 @@ Descubrió algo que ningún dato de analytics había mostrado: los clientes no e
 
 No era un problema de marketing. Era un problema de educación post-compra.
 
-Una tarde de curiosidad sin objetivo produjo la mejor propuesta estratégica que Rubén había hecho ese año.
+Una tarde de curiosidad sin objetivo produjó la mejor propuesta estratégica que Rubén había hecho ese año.
 
 ---
 
@@ -50,7 +50,7 @@ Los equipos y organizaciones donde la curiosidad es culturalmente valorada apren
 
 ## Capítulo 3: Los tipos de curiosidad
 
-Todd Kashdan, psicólogo de la Universidad George Mason, identificó cinco tipos de curiosidad:
+Todd Kashdan, psicólogo de la Universidad George Mason, identifico cinco tipos de curiosidad:
 
 **Curiosidad de expansión:**
 El deseo de ampliar el conocimiento en áreas de interés. "¿Qué más hay?"
@@ -59,7 +59,7 @@ El deseo de ampliar el conocimiento en áreas de interés. "¿Qué más hay?"
 El deseo de entender en mayor profundidad. "¿Por qué funciona así?"
 
 **Curiosidad por la complejidad:**
-La atracción hacia los problemas complejos y ambiguos que no tienen respuesta fácil.
+La atracción hacía los problemas complejos y ambiguos que no tienen respuesta fácil.
 
 **Curiosidad social:**
 El interés por entender cómo piensan y sienten otras personas. El motor de la empatía y de la comprensión de los clientes.
@@ -110,7 +110,7 @@ La curiosidad requiere estar cómodo sin tener la respuesta. Las personas con ba
 Las organizaciones más innovadoras del mundo tienen, como rasgo común, una cultura de curiosidad institucionalizada.
 
 **Pixar:**
-Brad Bird, director de Los Increíbles y Ratatouille, describió la cultura de Pixar como una donde se espera que todos hagan preguntas que nadie más se atreve a hacer. La curiosidad sobre "¿por qué esto funciona así?" produce las mejoras que la ejecución sin preguntas no puede generar.
+Brad Bird, director de Los Increíbles y Ratatouille, describió la cultura de Pixar cómo una donde se espera que todos hagan preguntas que nadie más se atreve a hacer. La curiosidad sobre "¿por qué esto funciona así?" produce las mejoras que la ejecución sin preguntas no puede generar.
 
 **Google X (ahora X Development):**
 El laboratorio de innovación de Google tiene como principio explícito la exploración de ideas que parecen imposibles. La curiosidad sin límites de lo "razonable" es parte del mandato formal.
@@ -129,7 +129,7 @@ No la escucha para confirmar lo que ya se sabe o para encontrar la apertura dond
 
 Esta escucha produce información que los estudios de mercado no capturan y que los competidores que no la practican no tienen.
 
-Rubén pasó de hacer presentaciones sobre sus servicios a hacer preguntas sobre el negocio del cliente. Tardó más en llegar a la propuesta. Pero la propuesta era mucho más precisa, y la tasa de aceptación mejoró notablemente.
+Rubén paso de hacer presentaciones sobre sus servicios a hacer preguntas sobre el negocio del cliente. Tardó más en llegar a la propuesta. Pero la propuesta era mucho más precisa, y la tasa de aceptación mejoro notablemente.
 
 ---
 
@@ -142,7 +142,7 @@ La curiosidad activa el aprendizaje. El aprendizaje genera nuevas preguntas que 
 **La diferencia:**
 La persona que aprende por obligación o por miedo aprende lo necesario para cumplir. La persona que aprende desde la curiosidad aprende más allá de lo requerido porque el proceso en sí produce satisfacción.
 
-El mentor le decía a sus protegidos: "El costo de la ignorancia siempre supera al del aprendizaje. Pero el aprendizaje motivado por la curiosidad no se siente como un costo."
+El mentor le decía a sus protegidos: "El costo de la ignorancia siempre supera al del aprendizaje. Pero el aprendizaje motivado por la curiosidad no se siente cómo un costo."
 
 ---
 

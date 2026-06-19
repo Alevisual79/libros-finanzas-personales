@@ -9,7 +9,7 @@
 
 Isabel era directora de RRHH y necesitaba entender por qué el nuevo sistema de selección de currículos que su empresa había comprado "discriminaba" contra ciertos perfiles. El proveedor habló de "sesgos en los datos de entrenamiento". Ella asintió educadamente sin entender nada.
 
-Esa noche buscó "cómo aprende el machine learning" y cayó en un agujero de vídeos técnicos llenos de matrices y derivadas. Cerró el ordenador frustrada.
+Esa noche busco "cómo aprende el machine learning" y cayó en un agujero de vídeos técnicos llenos de matrices y derivadas. Cerró el ordenador frustrada.
 
 Lo que necesitaba era una explicación que empezara por el principio: ¿Qué significa que una máquina aprenda?
 
@@ -27,15 +27,15 @@ Esta inversión es simple en concepto y profunda en consecuencias. Permite resol
 
 ## Capítulo 2: El proceso de entrenamiento
 
-El entrenamiento de un modelo de ML tiene tres elementos: datos, modelo y retroalimentación.
+El entrenamiento de un modeló de ML tiene tres elementos: datos, modeló y retroalimentación.
 
 **Los datos** son los ejemplos. Para reconocer gatos en imágenes: millones de imágenes etiquetadas como "gato" o "no gato".
 
-**El modelo** es una función matemática con parámetros ajustables. Al principio, esos parámetros son aleatorios: el modelo clasifica incorrectamente la mayoría de ejemplos.
+**El modeló** es una función matemática con parámetros ajustables. Al principio, esos parámetros son aleatorios: el modeló clasifica incorrectamente la mayoría de ejemplos.
 
-**La retroalimentación** es la medida del error. El algoritmo calcula qué tan equivocado estuvo el modelo, y ajusta los parámetros en la dirección que reduce ese error. Repite este proceso millones de veces.
+**La retroalimentación** es la medida del error. El algoritmo calcula qué tan equivocado estuvo el modeló, y ajusta los parámetros en la dirección que reduce ese error. Repite este proceso millones de veces.
 
-Al final, el modelo ha convergido en parámetros que minimizan el error sobre los datos de entrenamiento. Ha "aprendido".
+Al final, el modeló ha convergido en parámetros que minimizan el error sobre los datos de entrenamiento. Ha "aprendido".
 
 ---
 
@@ -51,11 +51,11 @@ Al final, el modelo ha convergido en parámetros que minimizan el error sobre lo
 
 ## Capítulo 4: Qué son los datos de entrenamiento
 
-Los datos de entrenamiento son el material del que está hecho el aprendizaje. Su calidad determina la calidad del modelo resultante.
+Los datos de entrenamiento son el material del que está hecho el aprendizaje. Su calidad determina la calidad del modeló resultante.
 
-**"Garbage in, garbage out"** es el principio fundamental. Si los datos contienen errores, el modelo aprenderá esos errores. Si contienen sesgos, el modelo los reproducirá.
+**"Garbage in, garbage out"** es el principio fundamental. Si los datos contienen errores, el modeló aprenderá esos errores. Si contienen sesgos, el modeló los reproducirá.
 
-El sistema de selección de currículos que preocupaba a Isabel había sido entrenado con datos históricos de contratación de la empresa. Esos datos reflejaban décadas de preferencias (a veces inconscientes) de los responsables de selección. El modelo "aprendió" esas preferencias y las replicó automáticamente, a escala.
+El sistema de selección de currículos que preocupaba a Isabel había sido entrenado con datos históricos de contratación de la empresa. Esos datos reflejaban décadas de preferencias (a veces inconscientes) de los responsables de selección. El modeló "aprendió" esas preferencias y las replicó automáticamente, a escala.
 
 El sesgo no fue un error del algoritmo: fue una fiel reproducción de los sesgos en los datos. La "objetividad" aparente del algoritmo enmascaraba su origen muy humano.
 
@@ -63,13 +63,13 @@ El sesgo no fue un error del algoritmo: fue una fiel reproducción de los sesgos
 
 ## Capítulo 5: Sobreajuste y generalización
 
-El objetivo del machine learning no es que el modelo funcione bien en los datos de entrenamiento: es que generalice bien a datos nuevos que nunca ha visto.
+El objetivo del machine learning no es que el modeló funcione bien en los datos de entrenamiento: es que generalice bien a datos nuevos que nunca ha visto.
 
-**El sobreajuste** ocurre cuando el modelo aprende los datos de entrenamiento demasiado bien, incluyendo su ruido y particularidades. En el entrenamiento funciona perfectamente. En datos nuevos, falla.
+**El sobreajuste** ocurre cuando el modeló aprende los datos de entrenamiento demasiado bien, incluyendo su ruido y particularidades. En el entrenamiento funciona perfectamente. En datos nuevos, falla.
 
 La analogía: un alumno que memoriza las respuestas de los exámenes anteriores en lugar de entender el material. En los exámenes anteriores saca 10. En un examen nuevo con preguntas distintas, suspende.
 
-Para detectar el sobreajuste, los datos se dividen en **conjunto de entrenamiento** (con el que el modelo aprende) y **conjunto de validación** (con el que se evalúa la generalización). Si el modelo funciona bien en entrenamiento pero mal en validación, está sobreajustado.
+Para detectar el sobreajuste, los datos se dividen en **conjunto de entrenamiento** (con el que el modeló aprende) y **conjunto de validación** (con el que se evalúa la generalización). Si el modeló funciona bien en entrenamiento pero mal en validación, está sobreajustado.
 
 ---
 
@@ -79,9 +79,9 @@ Los modelos de ML no procesan el mundo directamente: procesan representaciones n
 
 Una imagen es una matriz de números (los valores de píxeles). Un texto es una secuencia de números (representaciones de palabras o tokens). Un historial médico es un vector de valores numéricos.
 
-Elegir qué características incluir y cómo representarlas es una de las decisiones más importantes en ML. Si incluyes características irrelevantes, el modelo aprende ruido. Si omites características importantes, el modelo no puede capturar los patrones que importan.
+Elegir qué características incluir y cómo representarlas es una de las decisiones más importantes en ML. Si incluyes características irrelevantes, el modeló aprende ruido. Si omites características importantes, el modeló no puede capturar los patrones que importan.
 
-El deep learning redujo la importancia de esta decisión al aprender automáticamente qué representaciones son útiles a partir de los datos crudos. Pero no la eliminó.
+El deep learning redujó la importancia de esta decisión al aprender automáticamente qué representaciones son útiles a partir de los datos crudos. Pero no la eliminó.
 
 ---
 
@@ -103,13 +103,13 @@ El deep learning no es un concepto nuevo: las redes neuronales existen desde los
 
 Tres factores convergieron:
 
-**Datos:** Internet generó cantidades de datos sin precedentes. ImageNet, con más de 14 millones de imágenes etiquetadas, fue el catalizador para la visión por ordenador.
+**Datos:** Internet genero cantidades de datos sin precedentes. ImageNet, con más de 14 millones de imágenes etiquetadas, fue el catalizador para la visión por ordenador.
 
 **Potencia computacional:** Las GPUs (tarjetas gráficas), diseñadas para procesar imágenes en paralelo, resultaron ideales para el entrenamiento de redes neuronales. Su coste cayó mientras su potencia creció exponencialmente.
 
 **Algoritmos:** Mejoras en los algoritmos de entrenamiento resolvieron problemas que antes hacían que las redes profundas no aprendieran bien.
 
-En 2012, AlexNet ganó el concurso ImageNet con un margen sin precedentes usando deep learning. El campo nunca fue el mismo.
+En 2012, AlexNet gano el concurso ImageNet con un margen sin precedentes usando deep learning. El campo nunca fue el mismo.
 
 ---
 
@@ -119,9 +119,9 @@ El machine learning es poderoso pero tiene limitaciones importantes que no se de
 
 **Necesita muchos datos:** La mayoría de los algoritmos requieren grandes cantidades de datos etiquetados para funcionar bien. En muchos dominios, esos datos no existen o son caros de conseguir.
 
-**No generaliza fuera de su distribución:** Un modelo entrenado en datos de un contexto específico puede fallar dramáticamente en datos de otro contexto, incluso si parecen similares.
+**No generaliza fuera de su distribución:** Un modeló entrenado en datos de un contexto específico puede fallar dramáticamente en datos de otro contexto, incluso si parecen similares.
 
-**No entiende la causalidad:** Los modelos de ML aprenden correlaciones, no causas. Un modelo puede aprender que llevar paraguas correlaciona con la lluvia sin entender que no es el paraguas lo que causa la lluvia.
+**No entiende la causalidad:** Los modelos de ML aprenden correlaciones, no causas. Un modeló puede aprender que llevar paraguas correlaciona con la lluvia sin entender que no es el paraguas lo que causa la lluvia.
 
 **Es difícil de explicar:** Los modelos más potentes (redes neuronales profundas) son cajas negras: saben qué predicen pero no por qué. Esto es problemático en dominios de alto impacto como medicina, justicia o crédito.
 
@@ -131,11 +131,11 @@ El machine learning es poderoso pero tiene limitaciones importantes que no se de
 
 Cuando Isabel terminó de entender cómo funcionaba el aprendizaje automático, el comportamiento discriminatorio de su sistema de selección tenía sentido.
 
-El modelo no era racista o sexista de forma deliberada. Había aprendido a reproducir los patrones de las contrataciones históricas. Y esos patrones reflejaban décadas de sesgos humanos: preferencia por candidatos de ciertas universidades, de ciertos nombres, de ciertos perfiles demográficos.
+El modeló no era racista o sexista de forma deliberada. Había aprendido a reproducir los patrones de las contrataciones históricas. Y esos patrones reflejaban décadas de sesgos humanos: preferencia por candidatos de ciertas universidades, de ciertos nombres, de ciertos perfiles demográficos.
 
-El modelo los amplificó y los aplicó a escala, de forma sistemática y con la apariencia de objetividad.
+El modeló los amplificó y los aplico a escala, de forma sistemática y con la apariencia de objetividad.
 
-Entender esto le permitió hacer las preguntas correctas al proveedor: ¿Con qué datos fue entrenado? ¿Qué variables usa? ¿Se evaluó el sesgo antes del despliegue?
+Entender esto le permitio hacer las preguntas correctas al proveedor: ¿Con qué datos fue entrenado? ¿Qué variables usa? ¿Se evaluó el sesgo antes del despliegue?
 
 La comprensión técnica básica no la convirtió en ingeniera. La convirtió en una cliente más informada y en una defensora más eficaz de las personas que su empresa contrataba.
 
@@ -145,7 +145,7 @@ La comprensión técnica básica no la convirtió en ingeniera. La convirtió en
 
 El machine learning aprende de datos humanos. Los datos humanos contienen la historia humana: sus logros y sus prejuicios, sus avances y sus inequidades.
 
-Un modelo de ML no es un oráculo objetivo: es un espejo que amplifica lo que había en los datos. Si los datos son ricos y representativos, el espejo devuelve una imagen útil. Si los datos son sesgados o incompletos, el espejo amplifica esos defectos.
+Un modeló de ML no es un oráculo objetivo: es un espejo que amplifica lo que había en los datos. Si los datos son ricos y representativos, el espejo devuelve una imagen útil. Si los datos son sesgados o incompletos, el espejo amplifica esos defectos.
 
 Entender cómo aprende una máquina es entender que su "aprendizaje" no está desconectado de nosotros. Está hecho de nosotros.
 

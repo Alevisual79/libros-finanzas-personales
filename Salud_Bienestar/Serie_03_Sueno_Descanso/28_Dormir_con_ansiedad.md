@@ -33,7 +33,7 @@ Este estado es incompatible con el sueño. Para dormir, el sistema nervioso nece
 La privación de sueño aumenta la reactividad de la amígdala (el centro del miedo del cerebro) hasta un 60%. Con la amígdala hipersensible, las preocupaciones se amplifican, la capacidad de regular las emociones cae, y la ansiedad empeora. Lo que era una preocupación manejable de día se convierte en catástrofe a las 3 de la mañana.
 
 **La hiperactivación cognitiva:**
-Las personas con insomnio ansioso tienen un patrón específico: pensamientos intrusivos, rumiación (darle vueltas a lo mismo sin llegar a soluciones), hipervigilancia hacia las sensaciones corporales ("¿por qué late tan fuerte mi corazón?") y preocupación por las consecuencias de no dormir ("si no duermo mañana no voy a poder funcionar").
+Las personas con insomnio ansioso tienen un patrón específico: pensamientos intrusivos, rumiación (darle vueltas a lo mismo sin llegar a soluciones), hipervigilancia hacía las sensaciones corporales ("¿por qué late tan fuerte mi corazón?") y preocupación por las consecuencias de no dormir ("si no duermo mañana no voy a poder funcionar").
 
 ---
 
@@ -61,7 +61,7 @@ Esta última —la ansiedad sobre el sueño— es especialmente tramposa porque 
 
 Una de las paradojas del sueño es que intentarlo con fuerza de voluntad lo aleja.
 
-El sueño no es como la concentración o la fuerza física: no responde al esfuerzo directo. No puedes "intentar más" para quedarte dormido. Al contrario: el intento activo de dormirse crea activación que impide el sueño.
+El sueño no es cómo la concentración o la fuerza física: no responde al esfuerzo directo. No puedes "intentar más" para quedarte dormido. Al contrario: el intento activo de dormirse crea activación que impide el sueño.
 
 **La paradoja del control:**
 Intentar controlar el sueño es como intentar relajar los ojos no parpadeando: el esfuerzo produce el efecto contrario.
@@ -154,7 +154,7 @@ La luz intensa (incluyendo pantallas brillantes) mantiene el sistema nervioso en
 No solo por la luz azul: las pantallas son fuentes de contenido activador (noticias, redes sociales, mensajes). El dormitorio debe ser un espacio asociado solo al sueño y al sexo, no al trabajo ni al entretenimiento.
 
 **La transición ritual:**
-Una secuencia fija de acciones (ducha, lectura tranquila, ejercicios de respiración, apagar la luz) actúa como una cadena de señales condicionadas que el cerebro aprende a asociar con el sueño. Con el tiempo, el inicio de la rutina ya empieza a reducir la activación.
+Una secuencia fija de acciones (ducha, lectura tranquila, ejercicios de respiración, apagar la luz) actúa cómo una cadena de señales condicionadas que el cerebro aprende a asociar con el sueño. Con el tiempo, el inició de la rutina ya empieza a reducir la activación.
 
 ---
 
@@ -193,7 +193,7 @@ Es el tratamiento de referencia para el insomnio crónico según todas las guía
 **Medicación:**
 Los somníferos (benzodiacepinas, zolpidem) son eficaces a corto plazo pero no son una solución a largo plazo: generan dependencia, tolerancia y empeoran la arquitectura del sueño. Pueden estar justificados en situaciones de crisis aguda y con seguimiento médico, no como solución indefinida.
 
-El doctor Sánchez se lo explicó a Miguel: "Los pastillas te ayudan a atravesar un período difícil. La TCC-I es la que cambia el patrón. Las dos juntas pueden ser el puente."
+El doctor Sánchez se lo explico a Miguel: "Los pastillas te ayudan a atravesar un período difícil. La TCC-I es la que cambia el patrón. Las dos juntas pueden ser el puente."
 
 ---
 
@@ -211,7 +211,7 @@ Estudios de la Universidad de Oxford muestran que 8 semanas de MBSR (Mindfulness
 Seguir revisando el correo a las 22:00 mantiene el sistema nervioso en modo laboral hasta la cama. Establecer una hora de "desconexión" laboral y cumplirla es una intervención de higiene mental tanto como de higiene del sueño.
 
 **El plan de Laura:**
-Después de semanas con sueño fragmentado por ansiedad, Laura empezó un diario de preocupaciones, redujo el uso del teléfono después de las 21:00 y comenzó 10 minutos de respiración antes de dormir. "No fue magia. Tardé tres semanas en notar la diferencia. Pero la noté."
+Después de semanas con sueño fragmentado por ansiedad, Laura empezó un diario de preocupaciones, redujó el uso del teléfono después de las 21:00 y comenzo 10 minutos de respiración antes de dormir. "No fue magia. Tardé tres semanas en notar la diferencia. Pero la noté."
 
 ---
 

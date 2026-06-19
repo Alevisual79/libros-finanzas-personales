@@ -1,4 +1,4 @@
-﻿# El Método MENTE
+# El Método MENTE
 ## Psicología práctica para entenderte y transformarte
 
 **Libro Madre — Colección Psicología Aplicada**

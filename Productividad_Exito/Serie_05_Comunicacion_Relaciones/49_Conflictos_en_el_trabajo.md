@@ -12,7 +12,7 @@ En el equipo de Isabel, había una tensión entre dos personas desde hacía mese
 
 La tensión afectaba las reuniones: silencio tenso, respuestas cortantes, trabajo en paralelo donde debería haber colaboración.
 
-Isabel tardó demasiado en intervenir. Cuando lo hizo, lo que había empezado como un desacuerdo profesional puntual se había convertido en una animosidad personal entorpecida por meses de malentendidos acumulados.
+Isabel tardó demasiado en intervenir. Cuando lo hizo, lo que había empezado cómo un desacuerdo profesional puntual se había convertido en una animosidad personal entorpecida por meses de malentendidos acumulados.
 
 La lección: los conflictos no resueltos no desaparecen solos. Crecen.
 
@@ -45,7 +45,7 @@ Desacuerdo sobre cómo trabajar juntos: roles, responsabilidades, métodos. Frec
 Tensión personal, antipastías, resentimientos. El más difícil de resolver porque mezcla el contenido (el tema del desacuerdo) con la relación (la tensión entre personas).
 
 **El deslizamiento:**
-Los conflictos de tarea o proceso que no se resuelven tienden a deslizarse hacia conflictos de relación. El desacuerdo profesional se convierte en animosidad personal. Prevenir ese deslizamiento es uno de los objetivos del manejo temprano de conflictos.
+Los conflictos de tarea o proceso que no se resuelven tienden a deslizarse hacía conflictos de relación. El desacuerdo profesional se convierte en animosidad personal. Prevenir ese deslizamiento es uno de los objetivos del manejo temprano de conflictos.
 
 ---
 
@@ -65,7 +65,7 @@ Hablar del conflicto con terceros en lugar de con la persona involucrada. Constr
 
 ---
 
-## Capítulo 4: El modelo de resolución de conflictos
+## Capítulo 4: El modeló de resolución de conflictos
 
 **Paso 1: Nombrar el conflicto**
 El primer paso es reconocer que existe una tensión que debe resolverse. Sin nombrarlo, no hay resolución posible.
@@ -167,13 +167,13 @@ Una conversación breve después de unas semanas: "¿Cómo sientes que está fun
 
 Isabel convocó a las dos personas en conflicto de su equipo para una conversación facilitada.
 
-Empezó estableciendo el marco: "El objetivo de esta conversación no es determinar quién tiene razón. Es entender qué está pasando entre los dos y buscar una forma de trabajar juntos que funcione."
+Empezó estableciendo el marcó: "El objetivo de esta conversación no es determinar quién tiene razón. Es entender qué está pasando entre los dos y buscar una forma de trabajar juntos que funcione."
 
 Dedicó quince minutos a que cada uno expresara su perspectiva sin ser interrumpido. Luego quince minutos a identificar qué necesitaba cada uno para mejorar la colaboración. Finalmente, acordaron tres cambios concretos en cómo se comunicarían en el proyecto.
 
 No fue una reconciliación perfecta. Fue un acuerdo funcional.
 
-Tres meses después, las dos personas no eran amigos. Pero colaboraban eficazmente. El equipo lo notó.
+Tres meses después, las dos personas no eran amigos. Pero colaboraban eficazmente. El equipo lo noto.
 
 ---
 

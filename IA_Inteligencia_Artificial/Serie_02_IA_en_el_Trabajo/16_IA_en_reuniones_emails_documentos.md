@@ -1,4 +1,4 @@
-﻿# IA en reuniones, emails y documentos
+# IA en reuniones, emails y documentos
 ## Cómo recuperar horas de tu semana con IA aplicada al trabajo cotidiano
 
 **Serie 2: IA en el Trabajo — Libro 6 de 10**
@@ -11,7 +11,7 @@ Rubén dedicó una semana a registrar minuto a minuto en qué usaba el tiempo. E
 
 El trabajo que le pagaban hacer —el trabajo creativo y estratégico— era solo el 25% de su semana. El resto era el envoltorio del trabajo.
 
-La IA no cambió qué hacía Rubén. Cambió cuánto tiempo le llevaba el envoltorio.
+La IA no cambio qué hacía Rubén. Cambió cuánto tiempo le llevaba el envoltorio.
 
 ---
 
@@ -83,9 +83,9 @@ El volumen de información que los profesionales modernos deben procesar es inso
 
 **Resumen de documentos largos:** Un informe de 50 páginas resumido en 2 páginas manteniendo los puntos críticos.
 
-**Comparación de documentos:** "¿En qué difieren estas dos versiones del contrato?" La IA identifica y lista las diferencias en minutos.
+**Comparación de documentos:** "¿En qué difieren estas dos versiones del contrató?" La IA identifica y lista las diferencias en minutos.
 
-**Extracción de información específica:** "¿Cuáles son las condiciones de cancelación en este contrato?" Sin necesidad de leer el documento completo.
+**Extracción de información específica:** "¿Cuáles son las condiciones de cancelación en este contrató?" Sin necesidad de leer el documento completo.
 
 **Síntesis de múltiples fuentes:** "Analiza estos cinco informes de investigación de mercado y dame los puntos en que coinciden y en que difieren."
 
@@ -143,13 +143,13 @@ La IA no responde automáticamente (salvo en casos muy específicos). Prioriza, 
 
 Antes de usar IA con emails, documentos y contenido de reuniones, es fundamental considerar la privacidad.
 
-**¿Qué datos van al modelo?** Los emails con información confidencial de clientes, documentos con datos sensibles o conversaciones con información estratégica deben manejarse con cuidado.
+**¿Qué datos van al modeló?** Los emails con información confidencial de clientes, documentos con datos sensibles o conversaciones con información estratégica deben manejarse con cuidado.
 
 **¿Qué política tiene el proveedor?** OpenAI, Anthropic, Google tienen políticas distintas sobre cómo usan los datos de los usuarios para entrenamiento. Leerlas antes de usar información sensible.
 
 **¿Hay políticas empresariales?** Muchas empresas tienen políticas sobre qué información puede compartirse con sistemas de IA externos. Seguirlas no es solo cumplimiento: es protección propia.
 
-**Opciones para datos sensibles:** Modelos locales (Llama ejecutado localmente), versiones enterprise de los modelos principales (con mayores garantías de privacidad), o anonimización de datos antes de pasarlos al modelo.
+**Opciones para datos sensibles:** Modelos locales (Llama ejecutado localmente), versiones enterprise de los modelos principales (con mayores garantías de privacidad), o anonimización de datos antes de pasarlos al modeló.
 
 ---
 
@@ -169,7 +169,7 @@ Después de la implementación (tres meses):
 
 Ahorro: aproximadamente 2.5 horas diarias. 12 horas a la semana. El equivalente de un día y medio de trabajo.
 
-No redujo sus horas de trabajo. Dedicó ese tiempo a desarrollar nuevos servicios, atender más clientes y hacer el trabajo estratégico que siempre había estado en la lista de pendientes.
+No redujó sus horas de trabajo. Dedicó ese tiempo a desarrollar nuevos servicios, atender más clientes y hacer el trabajo estratégico que siempre había estado en la lista de pendientes.
 
 ---
 
