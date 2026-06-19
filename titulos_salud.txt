@@ -1,0 +1,101 @@
+﻿0|El MÃ©todo RESET: El sistema que nadie te enseÃ±Ã³ para tener salud real
+1|Tu relaciÃ³n con la comida estÃ¡ rota|Por quÃ© fallamos en todas las dietas y cÃ³mo salir de ese ciclo para siempre
+2|Come sin culpa|Desmontando la cultura de la dieta y el conteo de calorÃ­as
+3|El azÃºcar y tÃº|CÃ³mo el azÃºcar controla tu energÃ­a, humor y peso sin que lo sepas
+4|ProteÃ­na: el nutriente que todos subestiman|Por quÃ© comer mÃ¡s proteÃ­na lo cambia todo
+5|Grasas buenas, grasas malas|La verdad sobre el aceite, el aguacate, el colesterol y la grasa que de verdad importa evitar
+6|Carbohidratos sin miedo|CuÃ¡ndo y cuÃ¡les comer para tener energÃ­a sin engordar
+7|El intestino manda|Microbiota, probiÃ³ticos y por quÃ© el segundo cerebro importa mÃ¡s de lo que crees
+8|Comer con prisa en el mundo moderno|NutriciÃ³n real para personas ocupadas: el sistema que funciona sin horas en la cocina
+9|Ultraprocesados: Lo que comes sin saber que comes|CÃ³mo los alimentos manufacturados secuestran tu salud, tu hambre y tu paladar
+10|Tu peso ideal no es el que crees|ComposiciÃ³n corporal, mÃºsculo y la obsesiÃ³n con la bÃ¡scula
+11|Empezar a moverse cuando llevas aÃ±os sin hacerlo|El plan de actividad para los sedentarios absolutos que sÃ­ funciona
+12|Caminar mÃ¡s: La medicina mÃ¡s infravalorada|Por quÃ© el simple acto de caminar lo cambia todo para tu salud
+13|La fuerza que salva vidas|Por quÃ© entrenar mÃºsculo es lo mÃ¡s importante que puedes hacer por tu salud a largo plazo
+14|Estiramientos y movilidad|Para no acabar rÃ­gido a los 60 como si el cuerpo se hubiera oxidado
+15|Correr sin lesionarse|La guÃ­a honesta para el corredor popular que quiere durar
+16|El dolor de espalda que podrÃ­a evitarse|Las causas reales, los remedios que funcionan y lo que perpetÃºa el problema
+17|Deporte con poco tiempo|Entrenamientos de 20-30 minutos que dan resultados reales
+18|El cuerpo despuÃ©s de los 40|CÃ³mo cambia el metabolismo y cÃ³mo adaptar el ejercicio y la alimentaciÃ³n
+19|Actividad fÃ­sica y enfermedades crÃ³nicas|Mover el cuerpo cuando duele o cuando hay diagnÃ³sticos establecidos
+20|Del sofÃ¡ a los 5 kilÃ³metros|El plan de 12 semanas que sÃ­ funciona para empezar a correr
+21|El sueÃ±o que nunca tienes|Por quÃ© dormir bien es la base de todo lo demÃ¡s y cÃ³mo conseguirlo
+22|Insomnio: Causas reales y soluciones que funcionan|Sin pastillas de por vida: el tratamiento que los mÃ©dicos no siempre tienen tiempo de explicar
+23|La ciencia del ritmo circadiano|Por quÃ© importa a quÃ© hora comes, te mueves y duermes
+24|El cansancio que no se va durmiendo|Fatiga crÃ³nica, tiroides, anemia y otras causas mÃ©dicas del agotamiento persistente
+25|Pantallas, luz azul y el robo de tu sueÃ±o|CÃ³mo la tecnologÃ­a destruye el descanso y quÃ© hacer al respecto
+26|Dormir en pareja cuando uno de los dos no deja dormir|Ronquidos, apnea y soluciones prÃ¡cticas para recuperar el descanso compartido
+27|La siesta: De estigma a herramienta|CÃ³mo usar el descanso diurno para rendir mÃ¡s, sin arruinar el sueÃ±o nocturno
+28|Dormir con ansiedad|Cuando la mente no para y el cuerpo no descansa: herramientas que funcionan
+29|El sueÃ±o de los hijos y el desvelo de los padres|Rutinas de sueÃ±o para toda la familia cuando el cansancio amenaza con ser el estado permanente
+30|RecuperaciÃ³n: El descanso activo que tambiÃ©n es entrenamiento|MÃ¡s allÃ¡ del sueÃ±o nocturno: todas las formas en que el cuerpo y la mente se reparan
+31|El estrÃ©s que te mata despacio|CÃ³mo el cortisol crÃ³nico destruye tu salud y quÃ© hacer antes de que sea tarde
+32|Ansiedad sin medicaciÃ³n de por vida|Herramientas que funcionan para el dÃ­a a dÃ­a cuando la ansiedad no desaparece sola
+33|La depresiÃ³n que nadie ve|Reconocer los sÃ­ntomas sutiles, salir del estigma y pedir ayuda a tiempo
+34|Mindfulness sin incienso ni postureo|MeditaciÃ³n prÃ¡ctica para quien no tiene tiempo, no cree en las modas y necesita resultados reales
+35|El burnout que llega sin avisar|Reconocer el agotamiento profesional antes de que sea crisis y construir la salida
+36|Emociones y alimentaciÃ³n|Por quÃ© comes cuando no tienes hambre y cÃ³mo romper el ciclo sin culpa
+37|La soledad: El factor de riesgo que nadie habla|ConexiÃ³n social y salud fÃ­sica: la ciencia detrÃ¡s del vÃ­nculo mÃ¡s ignorado de la medicina
+38|Tu cerebro bajo presiÃ³n|CÃ³mo el estrÃ©s afecta la memoria, la concentraciÃ³n y las decisiones â€” y quÃ© hacer para proteger el cerebro
+39|GestiÃ³n emocional para personas con enfermedades crÃ³nicas|Vivir bien cuando el cuerpo duele: herramientas reales para una carga que no desaparece
+40|La salud mental es salud|Desmontar el estigma, integrar la psicologÃ­a en el cuidado y construir bienestar psicolÃ³gico duradero
+41|Lo que deberÃ­as saber antes de que te lo digan en urgencias|Signos de alarma que no debes ignorar y cuÃ¡ndo ir al mÃ©dico sin esperar
+42|AnÃ¡lisis de sangre: CÃ³mo leer los tuyos|Entender los nÃºmeros que el mÃ©dico no tiene tiempo de explicar en los cinco minutos de consulta
+43|TensiÃ³n arterial: El asesino silencioso|Prevenir, controlar y vivir bien con hipertensiÃ³n â€” sin fatalismo y con informaciÃ³n real
+44|Colesterol: La historia completa|MÃ¡s allÃ¡ del nÃºmero en la analÃ­tica: quÃ© importa realmente y quÃ© no
+45|Diabetes tipo 2: La epidemia que podemos frenar|PrevenciÃ³n, diagnÃ³stico precoz y control sin fatalismo â€” porque la diabetes tipo 2 no es inevitable
+46|El cÃ¡ncer que podrÃ­a detectarse antes|Cribados, revisiones y factores de riesgo modificables: lo que la ciencia dice que funciona
+47|Medicamentos: Lo que nadie te explica|Interacciones, efectos secundarios y cÃ³mo gestionar la polimedicaciÃ³n con seguridad
+48|Vacunas para adultos|Las que necesitas despuÃ©s de los 40 y por quÃ© la inmunizaciÃ³n no termina con la infancia
+49|El mÃ©dico como aliado, no como orÃ¡culo|CÃ³mo ser un paciente activo, bien informado y capaz de sacar el mÃ¡ximo del sistema sanitario
+50|Medicina preventiva desde los 30|El plan de chequeos, revisiones y hÃ¡bitos segÃºn la edad â€” porque la prevenciÃ³n no espera a los sÃ­ntomas
+51|Por quÃ© los buenos hÃ¡bitos no duran|La neurociencia del cambio de hÃ¡bitos: por quÃ© fallamos y cÃ³mo dejar de hacerlo
+52|El hÃ¡bito mÃ¡s importante que puedes tener|La rutina de maÃ±ana que lo cambia todo â€” y cÃ³mo construirla sin que sea otra cosa que no puedes sostener
+53|PequeÃ±os cambios, grandes resultados|El mÃ©todo kaizen aplicado a la salud: por quÃ© los cambios mÃ­nimos y consistentes ganan a los grandes y explosivos
+54|Las recaÃ­das no son fracasos|Por quÃ© volver a empezar es parte del proceso â€” y cÃ³mo hacerlo sin destruirse en el intento
+55|Entorno saludable sin fuerza de voluntad|DiseÃ±ar tu vida para que las buenas decisiones sean las mÃ¡s fÃ¡ciles y las malas las mÃ¡s difÃ­ciles
+56|El hÃ¡bito del movimiento|CÃ³mo incorporar mÃ¡s actividad en una vida sedentaria sin ir al gimnasio ni tener tiempo extra
+57|La rutina de noche|Preparar el cuerpo y la mente para el descanso: el ritual que hace posible el sueÃ±o que necesitas
+58|HÃ¡bitos digitales y salud|Gestionar el tiempo de pantalla para vivir mejor: sin demonizar la tecnologÃ­a y sin dejar que te domine
+59|Construir hÃ¡bitos en familia|CÃ³mo alinear a todos en casa hacia una vida mÃ¡s saludable sin convertirlo en una guerra
+60|El plan de salud para el aÃ±o|CÃ³mo diseÃ±ar y seguir un plan de bienestar de 12 meses que realmente funcione en la vida real
+61|Envejecer bien: Lo que la ciencia dice que funciona|Los pilares de la longevidad saludable â€” sin pseudociencia y con evidencia real
+62|La inflamaciÃ³n crÃ³nica que envejece|QuÃ© la causa, cÃ³mo medirla y cÃ³mo reducirla para frenar el deterioro acelerado
+63|Sarcopenia: La pÃ©rdida de mÃºsculo que nadie menciona|Por quÃ© el mÃºsculo es la clave de la longevidad y cÃ³mo preservarlo en cada dÃ©cada de vida
+64|El cerebro que envejece|Prevenir el deterioro cognitivo con ciencia: quÃ© funciona, quÃ© no y quÃ© todavÃ­a no sabemos
+65|Las articulaciones y los aÃ±os|Artrosis, movilidad y cÃ³mo mantenerla: mÃ¡s allÃ¡ del "es la edad" y el dolor como destino inevitable
+66|Piel sana a cualquier edad|Lo que realmente funciona y lo que es marketing: evidencia, no promesas
+67|La salud Ã³sea despuÃ©s de los 50|Osteoporosis, calcio y mucho mÃ¡s que leche: la guÃ­a completa para huesos fuertes
+68|Menopausia sin tabÃºes|Los cambios reales, los sÃ­ntomas que nadie prepara, y cÃ³mo gestionarlos bien
+69|Andropausia: El cambio hormonal masculino que nadie habla|Testosterona, energÃ­a y salud a partir de los 45 â€” sin mitos y con evidencia
+70|Vivir 100 aÃ±os en buen estado|Las zonas azules, los centenarios y las lecciones reales para el mundo moderno
+71|La salud sexual que nadie enseÃ±a|EducaciÃ³n sexual para adultos: lo que nos faltÃ³ aprender y lo que necesitamos saber ahora
+72|Fertilidad: Lo que hay que saber antes de intentarlo|Factores de estilo de vida, salud reproductiva y cÃ³mo prepararse para el embarazo
+73|El embarazo informado|NutriciÃ³n, actividad fÃ­sica y bienestar durante los nueve meses â€” sin mitos y con evidencia
+74|Salud posparto: El cuarto trimestre|La recuperaciÃ³n que el sistema olvida: cuerpo, mente y relaciones despuÃ©s del parto
+75|Anticonceptivos: La guÃ­a completa sin ideologÃ­a|Opciones, efectos, comparativa y cÃ³mo elegir el mÃ©todo que funciona para ti
+76|ITS: PrevenciÃ³n y desestigmatizaciÃ³n|Sin vergÃ¼enza, con informaciÃ³n: todo lo que necesitas saber sobre las infecciones de transmisiÃ³n sexual
+77|La salud de la prÃ³stata|PrevenciÃ³n, hiperplasia benigna y cÃ¡ncer de prÃ³stata sin alarmismo: lo que necesitas saber
+78|DisfunciÃ³n erÃ©ctil: MÃ¡s que un problema sexual|Lo que revela sobre la salud cardiovascular y cÃ³mo tratarla de forma integral
+79|El suelo pÃ©lvico: El mÃºsculo olvidado|Incontinencia, prolapso y disfunciÃ³n sexual: cÃ³mo prevenir y recuperar la funciÃ³n pÃ©lvica
+80|Sexualidad y envejecimiento|El deseo, los cambios y cÃ³mo mantener una vida sexual satisfactoria en cualquier etapa de la vida
+81|TÃ³xicos en casa|Los productos cotidianos que afectan tu salud y las alternativas reales
+82|La naturaleza como medicina|Lo que la ciencia dice sobre el contacto con el entorno natural y la salud
+83|Trabajo, salud y lÃ­mites|El impacto del trabajo en el cuerpo y la mente, y cÃ³mo construir lÃ­mites que protejan tu salud
+84|Relaciones tÃ³xicas y salud|El coste corporal de las relaciones que daÃ±an y cÃ³mo protegerse
+85|El alcohol: La droga mÃ¡s normalizada|QuÃ© le hace al cuerpo, cÃ³mo funciona la dependencia y cÃ³mo reducirlo
+86|Dejar de fumar de una vez|Lo que funciona segÃºn la evidencia, por quÃ© es tan difÃ­cil y el plan que mÃ¡s funciona
+87|El sol, la vitamina D y la verdad a medias|CÃ³mo exponerse al sol de forma inteligente y quÃ© hay de cierto en el debate sobre la vitamina D
+88|El agua que bebes|HidrataciÃ³n, calidad del agua, y los mitos del agua alcalina, el agua estructurada y mÃ¡s
+89|Viajes y salud|CÃ³mo mantener los hÃ¡bitos, prevenir los problemas mÃ¡s frecuentes y volver sintiÃ©ndote bien
+90|El ruido que enferma|ContaminaciÃ³n acÃºstica, tinnitus y cÃ³mo proteger la audiciÃ³n y la salud
+91|La salud como proyecto de vida|El manifiesto final del MÃ©todo RESET
+92|Medicina convencional y alternativa: Lo que funciona de cada una|Sin dogmas, con evidencia: cÃ³mo navegar el panorama de la salud moderna
+93|Suplementos: CuÃ¡les valen y cuÃ¡les son marketing|Omega-3, vitamina D, magnesio, probiÃ³ticos y mÃ¡s: lo que la evidencia dice
+94|El ayuno intermitente sin mitos|Lo que la ciencia dice realmente sobre el ayuno, sus beneficios, sus lÃ­mites y para quiÃ©n funciona
+95|La crononutriciÃ³n|El impacto de cuÃ¡ndo comes, no solo quÃ© comes: los ritmos circadianos y la alimentaciÃ³n
+96|Saunas, baÃ±os frÃ­os y recuperaciÃ³n|La evidencia detrÃ¡s de las tendencias: quÃ© funciona, quÃ© es hype y cÃ³mo usarlos bien
+97|RespiraciÃ³n: La herramienta mÃ¡s poderosa que ya tienes|TÃ©cnicas con evidencia para la salud, el estrÃ©s y el rendimiento
+98|El poder del contacto social en la salud|Por quÃ© la soledad mata, la conexiÃ³n sana y cÃ³mo construir vÃ­nculos que protejan la salud
+99|PropÃ³sito y salud|La ciencia de para quÃ© vivir como factor de longevidad y bienestar
+100|El plan de salud para los prÃ³ximos 10 aÃ±os|Integrar todo en un sistema personal: el mapa completo de la salud preventiva

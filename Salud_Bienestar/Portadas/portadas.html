@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portadas — Salud y Bienestar</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Georgia', serif; background: #0d1f0d; color: #eee; min-height: 100vh; }
+
+  .nav-bar {
+    background: #0a1a0a;
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    border-bottom: 2px solid #1a5c1a;
+  }
+  .nav-bar h1 { font-size: 14px; color: #4ade80; font-weight: bold; letter-spacing: 1px; flex: 1; min-width: 200px; }
+  .nav-bar select { background: #0f2f0f; color: #eee; border: 1px solid #4ade80; padding: 6px 10px; border-radius: 4px; font-size: 13px; max-width: 400px; flex: 2; }
+  .nav-btn { background: #16a34a; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-size: 13px; white-space: nowrap; }
+  .nav-btn:hover { background: #15803d; }
+  .nav-btn:disabled { background: #555; cursor: not-allowed; }
+  .nav-counter { color: #aaa; font-size: 12px; white-space: nowrap; }
+  .toggle-btn { background: #0f2f0f; color: #4ade80; border: 1px solid #4ade80; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-size: 13px; }
+
+  .book-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 40px 20px;
+    flex-wrap: wrap;
+  }
+
+  .portada {
+    width: 320px;
+    height: 480px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 32px 28px;
+    box-shadow: -8px 8px 30px rgba(0,0,0,0.7), 4px 0 0 rgba(0,0,0,0.3);
+    position: relative;
+    overflow: hidden;
+  }
+  .portada::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 12px;
+    background: rgba(0,0,0,0.2);
+  }
+  .portada-top { position: relative; z-index: 1; }
+  .portada-coleccion { font-size: 9px; letter-spacing: 3px; text-transform: uppercase; opacity: 0.7; margin-bottom: 8px; }
+  .portada-serie { font-size: 11px; letter-spacing: 1px; opacity: 0.8; margin-bottom: 24px; }
+  .portada-num { font-size: 64px; font-weight: bold; opacity: 0.15; position: absolute; right: 0; top: -10px; line-height: 1; }
+  .portada-title { font-size: 22px; line-height: 1.3; font-weight: bold; margin-bottom: 14px; }
+  .portada-subtitle { font-size: 12px; line-height: 1.5; opacity: 0.8; font-style: italic; }
+  .portada-bottom { position: relative; z-index: 1; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 12px; }
+  .portada-autor { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.6; }
+  .portada-metodo { font-size: 11px; letter-spacing: 1px; opacity: 0.8; margin-top: 4px; }
+  .portada-deco {
+    position: absolute;
+    bottom: -30px;
+    right: -30px;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.05);
+  }
+  .portada-deco2 {
+    position: absolute;
+    bottom: 40px;
+    right: 40px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.05);
+  }
+
+  .contraportada {
+    width: 320px;
+    height: 480px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 28px;
+    box-shadow: 8px 8px 30px rgba(0,0,0,0.7), -4px 0 0 rgba(0,0,0,0.3);
+    position: relative;
+    overflow: hidden;
+  }
+  .contra-top { }
+  .contra-coleccion { font-size: 9px; letter-spacing: 3px; text-transform: uppercase; opacity: 0.5; margin-bottom: 16px; }
+  .contra-quote {
+    font-size: 14px;
+    line-height: 1.7;
+    font-style: italic;
+    opacity: 0.9;
+    border-left: 3px solid rgba(255,255,255,0.3);
+    padding-left: 14px;
+    margin-bottom: 16px;
+  }
+  .contra-desc { font-size: 12px; line-height: 1.8; opacity: 0.75; }
+  .contra-bottom { }
+  .contra-serie-info { font-size: 10px; opacity: 0.6; border-top: 1px solid rgba(255,255,255,0.15); padding-top: 10px; margin-top: 10px; }
+  .contra-isbn { font-size: 10px; opacity: 0.4; font-family: monospace; margin-top: 6px; }
+  .contra-badge { display: inline-block; background: rgba(255,255,255,0.15); border-radius: 12px; padding: 3px 10px; font-size: 9px; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 12px; }
+
+  .label-tag { text-align: center; font-size: 11px; color: #aaa; margin-top: 8px; letter-spacing: 1px; }
+  .book-wrapper { display: flex; flex-direction: column; align-items: center; }
+</style>
+</head>
+<body>
+
+<div class="nav-bar">
+  <h1>SALUD Y BIENESTAR</h1>
+  <select id="bookSelect" onchange="goToBook(this.value)"></select>
+  <button class="nav-btn" onclick="prev()" id="btnPrev">← Anterior</button>
+  <button class="nav-btn" onclick="next()" id="btnNext">Siguiente →</button>
+  <span class="nav-counter" id="counter"></span>
+  <button class="toggle-btn" onclick="toggleView()" id="toggleBtn">Ver portada primero</button>
+</div>
+
+<div class="book-container" id="bookContainer"></div>
+
+<script>
+const PALETTE = [
+  // 0 Libro Madre — teal oscuro
+  { from:'#042f2e', to:'#0d9488', text:'#ccfbf1', accent:'#2dd4bf' },
+  // 1-10 Serie 1 — Alimentación (verde)
+  { from:'#052e16', to:'#166534', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#166534', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#166534', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#166534', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#166534', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#166534', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#166534', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#166534', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#166534', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#166534', text:'#dcfce7', accent:'#4ade80' },
+  // 11-20 Serie 2 — Movimiento (azul-verde)
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  // 21-30 Serie 3 — Sueño (azul índigo)
+  { from:'#1e1b4b', to:'#312e81', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#312e81', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#312e81', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#312e81', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#312e81', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#312e81', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#312e81', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#312e81', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#312e81', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#312e81', text:'#e0e7ff', accent:'#818cf8' },
+  // 31-40 Serie 4 — Mente (violeta)
+  { from:'#2e1065', to:'#5b21b6', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#2e1065', to:'#5b21b6', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#2e1065', to:'#5b21b6', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#2e1065', to:'#5b21b6', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#2e1065', to:'#5b21b6', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#2e1065', to:'#5b21b6', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#2e1065', to:'#5b21b6', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#2e1065', to:'#5b21b6', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#2e1065', to:'#5b21b6', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#2e1065', to:'#5b21b6', text:'#ede9fe', accent:'#a78bfa' },
+  // 41-50 Serie 5 — Prevención (rojo)
+  { from:'#450a0a', to:'#991b1b', text:'#fee2e2', accent:'#f87171' },
+  { from:'#450a0a', to:'#991b1b', text:'#fee2e2', accent:'#f87171' },
+  { from:'#450a0a', to:'#991b1b', text:'#fee2e2', accent:'#f87171' },
+  { from:'#450a0a', to:'#991b1b', text:'#fee2e2', accent:'#f87171' },
+  { from:'#450a0a', to:'#991b1b', text:'#fee2e2', accent:'#f87171' },
+  { from:'#450a0a', to:'#991b1b', text:'#fee2e2', accent:'#f87171' },
+  { from:'#450a0a', to:'#991b1b', text:'#fee2e2', accent:'#f87171' },
+  { from:'#450a0a', to:'#991b1b', text:'#fee2e2', accent:'#f87171' },
+  { from:'#450a0a', to:'#991b1b', text:'#fee2e2', accent:'#f87171' },
+  { from:'#450a0a', to:'#991b1b', text:'#fee2e2', accent:'#f87171' },
+  // 51-60 Serie 6 — Hábitos (naranja cálido)
+  { from:'#431407', to:'#c2410c', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#c2410c', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#c2410c', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#c2410c', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#c2410c', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#c2410c', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#c2410c', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#c2410c', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#c2410c', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#c2410c', text:'#ffedd5', accent:'#fb923c' },
+  // 61-70 Serie 7 — Longevidad (ámbar dorado)
+  { from:'#422006', to:'#b45309', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#b45309', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#b45309', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#b45309', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#b45309', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#b45309', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#b45309', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#b45309', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#b45309', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#b45309', text:'#fef3c7', accent:'#fbbf24' },
+  // 71-80 Serie 8 — Sexual (rosa)
+  { from:'#500724', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#500724', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#500724', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#500724', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#500724', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#500724', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#500724', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#500724', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#500724', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#500724', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  // 81-90 Serie 9 — Entorno (tierra/oliva)
+  { from:'#1c2007', to:'#3f6212', text:'#ecfccb', accent:'#a3e635' },
+  { from:'#1c2007', to:'#3f6212', text:'#ecfccb', accent:'#a3e635' },
+  { from:'#1c2007', to:'#3f6212', text:'#ecfccb', accent:'#a3e635' },
+  { from:'#1c2007', to:'#3f6212', text:'#ecfccb', accent:'#a3e635' },
+  { from:'#1c2007', to:'#3f6212', text:'#ecfccb', accent:'#a3e635' },
+  { from:'#1c2007', to:'#3f6212', text:'#ecfccb', accent:'#a3e635' },
+  { from:'#1c2007', to:'#3f6212', text:'#ecfccb', accent:'#a3e635' },
+  { from:'#1c2007', to:'#3f6212', text:'#ecfccb', accent:'#a3e635' },
+  { from:'#1c2007', to:'#3f6212', text:'#ecfccb', accent:'#a3e635' },
+  { from:'#1c2007', to:'#3f6212', text:'#ecfccb', accent:'#a3e635' },
+  // 91-100 Serie 10 — Integrativa (turquesa)
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+];
+
+const books = [
+  {num:0, title:"El Método RESET", subtitle:"El sistema que nadie te enseñó para tener salud real", serie:"Libro Madre — El punto de partida", desc:"El libro que lees antes de leer cualquier otro de esta colección. El Método RESET — Rutina, Entorno, Sueño, Ejercicio y Tensión emocional — es el marco que organiza los 100 libros de la colección Salud y Bienestar."},
+  // Serie 1 — Alimentación
+  {num:1, title:"Tu relación con la comida está rota", subtitle:"Por qué fallamos en todas las dietas y cómo salir de ese ciclo para siempre", serie:"Serie 1: Alimentación sin dietas — Libro 1 de 10", desc:"El problema no son las dietas: es la relación con la comida. Este libro explora por qué seguimos repitiendo los mismos ciclos de restricción y exceso, y cómo construir una relación sana con la alimentación."},
+  {num:2, title:"Come sin culpa", subtitle:"Desmontando la cultura de la dieta y el conteo de calorías", serie:"Serie 1: Alimentación sin dietas — Libro 2 de 10", desc:"La cultura de la dieta produce más daño que salud. Este libro desmonta sus mitos, explica por qué el conteo de calorías falla a largo plazo y propone un enfoque basado en evidencia."},
+  {num:3, title:"El azúcar y tú", subtitle:"Cómo el azúcar controla tu energía, humor y peso sin que lo sepas", serie:"Serie 1: Alimentación sin dietas — Libro 3 de 10", desc:"El azúcar está en más alimentos de los que imaginamos y actúa de formas que pocos conocen. Este libro explica el mecanismo y ofrece estrategias prácticas para reducir su impacto."},
+  {num:4, title:"Proteína: el nutriente que todos subestiman", subtitle:"Por qué comer más proteína lo cambia todo", serie:"Serie 1: Alimentación sin dietas — Libro 4 de 10", desc:"La proteína es el macronutriente más saciante, más termogénico y más importante para mantener la masa muscular. Este libro explica por qué la mayoría de personas no come suficiente y cómo cambiarlo."},
+  {num:5, title:"Grasas buenas, grasas malas", subtitle:"La verdad sobre el aceite, el aguacate, el colesterol y la grasa que de verdad importa evitar", serie:"Serie 1: Alimentación sin dietas — Libro 5 de 10", desc:"Durante décadas se demonizó la grasa en general. La ciencia es más matizada. Este libro explica la diferencia real entre tipos de grasas y cuáles protegen la salud y cuáles la dañan."},
+  {num:6, title:"Carbohidratos sin miedo", subtitle:"Cuándo y cuáles comer para tener energía sin engordar", serie:"Serie 1: Alimentación sin dietas — Libro 6 de 10", desc:"Los carbohidratos no son el enemigo: son el contexto. Este libro explica la diferencia entre tipos de carbohidratos y el papel del timing y la cantidad en la salud y el peso."},
+  {num:7, title:"El intestino manda", subtitle:"Microbiota, probióticos y por qué el segundo cerebro importa más de lo que crees", serie:"Serie 1: Alimentación sin dietas — Libro 7 de 10", desc:"La microbiota intestinal regula más funciones corporales de lo que la medicina clásica reconocía. Este libro explica la ciencia y qué hacer para cuidar el ecosistema más importante del cuerpo."},
+  {num:8, title:"Comer con prisa en el mundo moderno", subtitle:"Nutrición real para personas ocupadas: el sistema que funciona sin horas en la cocina", serie:"Serie 1: Alimentación sin dietas — Libro 8 de 10", desc:"Comer bien no requiere horas en la cocina ni una vida perfectamente organizada. Este libro ofrece un sistema de nutrición real para personas con poco tiempo y muchas obligaciones."},
+  {num:9, title:"Ultraprocesados: Lo que comes sin saber que comes", subtitle:"Cómo los alimentos manufacturados secuestran tu salud, tu hambre y tu paladar", serie:"Serie 1: Alimentación sin dietas — Libro 9 de 10", desc:"Los ultraprocesados representan más del 50% de la alimentación occidental. Este libro explica qué son, cómo se diseñan para que no puedas parar de comerlos y cómo reducirlos sin hacer tu vida imposible."},
+  {num:10, title:"Tu peso ideal no es el que crees", subtitle:"Composición corporal, músculo y la obsesión con la báscula", serie:"Serie 1: Alimentación sin dietas — Libro 10 de 10", desc:"El número de la báscula es la métrica más engañosa de la salud. Este libro explica por qué la composición corporal importa más que el peso y cómo mejorarla sin obsesionarse con el número."},
+  // Serie 2 — Movimiento
+  {num:11, title:"Empezar a moverse cuando llevas años sin hacerlo", subtitle:"El plan de actividad para los sedentarios absolutos que sí funciona", serie:"Serie 2: Movimiento y cuerpo — Libro 1 de 10", desc:"El primer paso es el más difícil, especialmente cuando llevas tiempo sin moverse. Este libro ofrece un plan realista y progresivo para empezar sin lesionarse ni abandonar."},
+  {num:12, title:"Caminar más: La medicina más infravalorada", subtitle:"Por qué el simple acto de caminar lo cambia todo para tu salud", serie:"Serie 2: Movimiento y cuerpo — Libro 2 de 10", desc:"Caminar es la intervención de salud más accesible, barata y eficaz que existe. Este libro documenta su impacto en la salud y explica cómo incorporar más pasos en cualquier tipo de vida."},
+  {num:13, title:"La fuerza que salva vidas", subtitle:"Por qué entrenar músculo es lo más importante que puedes hacer por tu salud a largo plazo", serie:"Serie 2: Movimiento y cuerpo — Libro 3 de 10", desc:"La masa muscular es el predictor de longevidad más potente que existe. Este libro explica la ciencia del entrenamiento de fuerza y cómo empezar independientemente de la edad o el punto de partida."},
+  {num:14, title:"Estiramientos y movilidad", subtitle:"Para no acabar rígido a los 60 como si el cuerpo se hubiera oxidado", serie:"Serie 2: Movimiento y cuerpo — Libro 4 de 10", desc:"La movilidad se pierde si no se trabaja. Este libro explica la diferencia entre flexibilidad y movilidad funcional, y ofrece rutinas concretas para mantener el rango de movimiento en cada década de vida."},
+  {num:15, title:"Correr sin lesionarse", subtitle:"La guía honesta para el corredor popular que quiere durar", serie:"Serie 2: Movimiento y cuerpo — Libro 5 de 10", desc:"La mayoría de las lesiones de corredores son prevenibles. Este libro explica por qué ocurren y cómo entrenar con seguridad, independientemente del nivel."},
+  {num:16, title:"El dolor de espalda que podría evitarse", subtitle:"Las causas reales, los remedios que funcionan y lo que perpetúa el problema", serie:"Serie 2: Movimiento y cuerpo — Libro 6 de 10", desc:"El dolor de espalda es la primera causa de baja laboral en el mundo. Este libro explica sus causas reales y ofrece intervenciones con evidencia, más allá de los analgésicos y el reposo."},
+  {num:17, title:"Deporte con poco tiempo", subtitle:"Entrenamientos de 20-30 minutos que dan resultados reales", serie:"Serie 2: Movimiento y cuerpo — Libro 7 de 10", desc:"No tener una hora no significa no poder entrenar. Este libro presenta los protocolos de entrenamiento corto con mayor evidencia de eficacia y cómo integrarlos en una agenda real."},
+  {num:18, title:"El cuerpo después de los 40", subtitle:"Cómo cambia el metabolismo y cómo adaptar el ejercicio y la alimentación", serie:"Serie 2: Movimiento y cuerpo — Libro 8 de 10", desc:"El metabolismo cambia a partir de los 40, pero esos cambios no son inevitables ni irreversibles. Este libro explica qué ocurre y cómo adaptar el entrenamiento y la nutrición para seguir progresando."},
+  {num:19, title:"Actividad física y enfermedades crónicas", subtitle:"Mover el cuerpo cuando duele o cuando hay diagnósticos establecidos", serie:"Serie 2: Movimiento y cuerpo — Libro 9 de 10", desc:"El ejercicio es medicina, incluso —especialmente— cuando hay enfermedades crónicas. Este libro guía a personas con diabetes, hipertensión, artritis u otras condiciones sobre cómo moverse de forma segura."},
+  {num:20, title:"Del sofá a los 5 kilómetros", subtitle:"El plan de 12 semanas que sí funciona para empezar a correr", serie:"Serie 2: Movimiento y cuerpo — Libro 10 de 10", desc:"El plan Couch to 5K ha funcionado para millones de personas. Este libro adapta ese enfoque al corredor hispanohablante, con contexto médico, motivacional y práctico."},
+  // Serie 3 — Sueño
+  {num:21, title:"El sueño que nunca tienes", subtitle:"Por qué dormir bien es la base de todo lo demás y cómo conseguirlo", serie:"Serie 3: Sueño y descanso — Libro 1 de 10", desc:"El sueño es el proceso de restauración más importante del cuerpo. Este libro explica qué ocurre durante el sueño, por qué la falta crónica daña la salud y cómo construir un sueño de calidad."},
+  {num:22, title:"Insomnio: Causas reales y soluciones que funcionan", subtitle:"Sin pastillas de por vida: el tratamiento que los médicos no siempre tienen tiempo de explicar", serie:"Serie 3: Sueño y descanso — Libro 2 de 10", desc:"La terapia cognitivo-conductual para el insomnio (TCC-I) es más eficaz que los fármacos a largo plazo. Este libro explica el método paso a paso."},
+  {num:23, title:"La ciencia del ritmo circadiano", subtitle:"Por qué importa a qué hora comes, te mueves y duermes", serie:"Serie 3: Sueño y descanso — Libro 3 de 10", desc:"El reloj biológico regula casi todas las funciones del cuerpo. Este libro explica la ciencia circadiana y cómo sincronizar el comportamiento con los ritmos naturales del organismo."},
+  {num:24, title:"El cansancio que no se va durmiendo", subtitle:"Fatiga crónica, tiroides, anemia y otras causas médicas del agotamiento persistente", serie:"Serie 3: Sueño y descanso — Libro 4 de 10", desc:"No todo cansancio se soluciona durmiendo más. Este libro guía al lector por las causas médicas más frecuentes del agotamiento persistente y cuándo pedir ayuda."},
+  {num:25, title:"Pantallas, luz azul y el robo de tu sueño", subtitle:"Cómo la tecnología destruye el descanso y qué hacer al respecto", serie:"Serie 3: Sueño y descanso — Libro 5 de 10", desc:"La luz azul de las pantallas suprime la melatonina y retrasa el sueño. Este libro explica el mecanismo y ofrece estrategias prácticas que no implican abandonar la tecnología."},
+  {num:26, title:"Dormir en pareja cuando uno de los dos no deja dormir", subtitle:"Ronquidos, apnea y soluciones prácticas para recuperar el descanso compartido", serie:"Serie 3: Sueño y descanso — Libro 6 de 10", desc:"Los ronquidos y la apnea del sueño afectan a millones de parejas. Este libro explica las causas, los tratamientos y cómo recuperar el descanso compartido."},
+  {num:27, title:"La siesta: De estigma a herramienta", subtitle:"Cómo usar el descanso diurno para rendir más, sin arruinar el sueño nocturno", serie:"Serie 3: Sueño y descanso — Libro 7 de 10", desc:"La ciencia del sueño rehabilita la siesta. Este libro explica cuánto, cuándo y cómo dormir durante el día para obtener beneficios cognitivos sin afectar el sueño nocturno."},
+  {num:28, title:"Dormir con ansiedad", subtitle:"Cuando la mente no para y el cuerpo no descansa: herramientas que funcionan", serie:"Serie 3: Sueño y descanso — Libro 8 de 10", desc:"La ansiedad y el insomnio forman un ciclo vicioso que se retroalimenta. Este libro ofrece técnicas específicas para interrumpirlo, basadas en la neurociencia del sueño y la ansiedad."},
+  {num:29, title:"El sueño de los hijos y el desvelo de los padres", subtitle:"Rutinas de sueño para toda la familia cuando el cansancio amenaza con ser el estado permanente", serie:"Serie 3: Sueño y descanso — Libro 9 de 10", desc:"Los padres de niños pequeños son el grupo más privado de sueño. Este libro ofrece estrategias para mejorar el sueño familiar sin recurrir a métodos que contradigan los instintos parentales."},
+  {num:30, title:"Recuperación: El descanso activo que también es entrenamiento", subtitle:"Más allá del sueño nocturno: todas las formas en que el cuerpo y la mente se reparan", serie:"Serie 3: Sueño y descanso — Libro 10 de 10", desc:"La recuperación no es solo dormir: incluye el descanso activo, la nutrición post-esfuerzo, la gestión del sistema nervioso y las técnicas de recuperación más eficaces."},
+  // Serie 4 — Mente
+  {num:31, title:"El estrés que te mata despacio", subtitle:"Cómo el cortisol crónico destruye tu salud y qué hacer antes de que sea tarde", serie:"Serie 4: Mente y emociones — Libro 1 de 10", desc:"El estrés crónico no es solo incomodidad: deteriora el sistema inmune, el corazón y el cerebro. Este libro explica los mecanismos biológicos y ofrece estrategias eficaces de regulación."},
+  {num:32, title:"Ansiedad sin medicación de por vida", subtitle:"Herramientas que funcionan para el día a día cuando la ansiedad no desaparece sola", serie:"Serie 4: Mente y emociones — Libro 2 de 10", desc:"La ansiedad es la condición de salud mental más frecuente. Este libro presenta las herramientas de primera línea —TCC, exposición, regulación nerviosa— que la ciencia respalda."},
+  {num:33, title:"La depresión que nadie ve", subtitle:"Reconocer los síntomas sutiles, salir del estigma y pedir ayuda a tiempo", serie:"Serie 4: Mente y emociones — Libro 3 de 10", desc:"La depresión tiene síntomas que no siempre se reconocen. Este libro explica sus formas, desmonta el estigma y guía al lector en el proceso de pedir ayuda y elegir tratamiento."},
+  {num:34, title:"Mindfulness sin incienso ni postureo", subtitle:"Meditación práctica para quien no tiene tiempo, no cree en las modas y necesita resultados reales", serie:"Serie 4: Mente y emociones — Libro 4 de 10", desc:"El mindfulness tiene sólida evidencia científica al margen del misticismo que lo rodea. Este libro extrae las técnicas con mayor respaldo y las adapta para personas escépticas y ocupadas."},
+  {num:35, title:"El burnout que llega sin avisar", subtitle:"Reconocer el agotamiento profesional antes de que sea crisis y construir la salida", serie:"Serie 4: Mente y emociones — Libro 5 de 10", desc:"El burnout tiene fases que se pueden identificar antes del colapso. Este libro explica las señales tempranas y ofrece un plan de salida que no requiere abandonar el trabajo ni la vida."},
+  {num:36, title:"Emociones y alimentación", subtitle:"Por qué comes cuando no tienes hambre y cómo romper el ciclo sin culpa", serie:"Serie 4: Mente y emociones — Libro 6 de 10", desc:"La alimentación emocional no es debilidad: es un mecanismo de regulación aprendido. Este libro explica sus raíces y ofrece alternativas que funcionan sin necesidad de fuerza de voluntad permanente."},
+  {num:37, title:"La soledad: El factor de riesgo que nadie habla", subtitle:"Conexión social y salud física: la ciencia detrás del vínculo más ignorado de la medicina", serie:"Serie 4: Mente y emociones — Libro 7 de 10", desc:"La soledad crónica tiene el mismo impacto en la mortalidad que fumar 15 cigarrillos al día. Este libro documenta la evidencia y ofrece un camino hacia la reconexión."},
+  {num:38, title:"Tu cerebro bajo presión", subtitle:"Cómo el estrés afecta la memoria, la concentración y las decisiones — y qué hacer para proteger el cerebro", serie:"Serie 4: Mente y emociones — Libro 8 de 10", desc:"El estrés crónico produce cambios estructurales en el cerebro. Este libro explica cuáles son, cómo se detectan y qué intervenciones tienen evidencia para revertirlos."},
+  {num:39, title:"Gestión emocional para personas con enfermedades crónicas", subtitle:"Vivir bien cuando el cuerpo duele: herramientas reales para una carga que no desaparece", serie:"Serie 4: Mente y emociones — Libro 9 de 10", desc:"Vivir con una enfermedad crónica tiene un componente emocional que el sistema sanitario frecuentemente no atiende. Este libro ofrece herramientas concretas para esa dimensión del cuidado."},
+  {num:40, title:"La salud mental es salud", subtitle:"Desmontar el estigma, integrar la psicología en el cuidado y construir bienestar psicológico duradero", serie:"Serie 4: Mente y emociones — Libro 10 de 10", desc:"El bienestar psicológico no es la ausencia de síntomas: es un estado que se puede construir activamente. Este libro integra la psicología positiva con el tratamiento de los problemas reales."},
+  // Serie 5 — Prevención
+  {num:41, title:"Lo que deberías saber antes de que te lo digan en urgencias", subtitle:"Signos de alarma que no debes ignorar y cuándo ir al médico sin esperar", serie:"Serie 5: Prevención y chequeos — Libro 1 de 10", desc:"Saber cuándo un síntoma es urgente puede marcar la diferencia. Este libro explica los signos de alarma más importantes para las patologías que no perdonan la demora."},
+  {num:42, title:"Análisis de sangre: Cómo leer los tuyos", subtitle:"Entender los números que el médico no tiene tiempo de explicar en los cinco minutos de consulta", serie:"Serie 5: Prevención y chequeos — Libro 2 de 10", desc:"Una analítica contiene información valiosa sobre la salud, pero pocos saben interpretarla. Este libro explica los parámetros más relevantes con lenguaje accesible."},
+  {num:43, title:"Tensión arterial: El asesino silencioso", subtitle:"Prevenir, controlar y vivir bien con hipertensión — sin fatalismo y con información real", serie:"Serie 5: Prevención y chequeos — Libro 3 de 10", desc:"La hipertensión afecta a uno de cada tres adultos y la mayoría no lo sabe. Este libro explica cómo prevenirla, controlarla y lo que el estilo de vida puede hacer que los fármacos no hacen solos."},
+  {num:44, title:"Colesterol: La historia completa", subtitle:"Más allá del número en la analítica: qué importa realmente y qué no", serie:"Serie 5: Prevención y chequeos — Libro 4 de 10", desc:"El colesterol es más complejo que «bueno» y «malo». Este libro explica la ciencia actualizada: qué marcadores importan realmente, el papel de la inflamación y cuándo medicar es necesario."},
+  {num:45, title:"Diabetes tipo 2: La epidemia que podemos frenar", subtitle:"Prevención, diagnóstico precoz y control sin fatalismo — porque la diabetes tipo 2 no es inevitable", serie:"Serie 5: Prevención y chequeos — Libro 5 de 10", desc:"La diabetes tipo 2 es en gran medida prevenible y en muchos casos reversible. Este libro explica el mecanismo, los factores de riesgo modificables y las intervenciones con mayor evidencia."},
+  {num:46, title:"El cáncer que podría detectarse antes", subtitle:"Cribados, revisiones y factores de riesgo modificables: lo que la ciencia dice que funciona", serie:"Serie 5: Prevención y chequeos — Libro 6 de 10", desc:"El 40% de los cánceres son prevenibles con cambios de estilo de vida. Este libro explica qué cribados funcionan, cuáles no tienen evidencia y cómo reducir el riesgo sin caer en el alarmismo."},
+  {num:47, title:"Medicamentos: Lo que nadie te explica", subtitle:"Interacciones, efectos secundarios y cómo gestionar la polimedicación con seguridad", serie:"Serie 5: Prevención y chequeos — Libro 7 de 10", desc:"La polimedicación es uno de los grandes problemas de la sanidad moderna. Este libro explica cómo funciona la farmacología básica, las interacciones más frecuentes y cómo ser un paciente más activo y seguro."},
+  {num:48, title:"Vacunas para adultos", subtitle:"Las que necesitas después de los 40 y por qué la inmunización no termina con la infancia", serie:"Serie 5: Prevención y chequeos — Libro 8 de 10", desc:"El calendario vacunal adulto es uno de los grandes olvidados de la medicina preventiva. Este libro explica cuáles son las vacunas recomendadas según la edad y el estado de salud."},
+  {num:49, title:"El médico como aliado, no como oráculo", subtitle:"Cómo ser un paciente activo, bien informado y capaz de sacar el máximo del sistema sanitario", serie:"Serie 5: Prevención y chequeos — Libro 9 de 10", desc:"La relación con el médico puede ser una colaboración o una dependencia. Este libro enseña cómo preparar las consultas, hacer las preguntas correctas y tomar decisiones informadas."},
+  {num:50, title:"Medicina preventiva desde los 30", subtitle:"El plan de chequeos, revisiones y hábitos según la edad — porque la prevención no espera a los síntomas", serie:"Serie 5: Prevención y chequeos — Libro 10 de 10", desc:"Un plan de salud preventiva por décadas: qué revisar, cuándo y cómo construir los hábitos que protegen la salud a lo largo de toda la vida."},
+  // Serie 6 — Hábitos
+  {num:51, title:"Por qué los buenos hábitos no duran", subtitle:"La neurociencia del cambio de hábitos: por qué fallamos y cómo dejar de hacerlo", serie:"Serie 6: Hábitos y rutinas — Libro 1 de 10", desc:"El problema no es la falta de voluntad: es el desconocimiento del proceso neurológico del hábito. Este libro explica cómo funciona el cerebro al cambiar comportamientos y cómo usar ese conocimiento."},
+  {num:52, title:"El hábito más importante que puedes tener", subtitle:"La rutina de mañana que lo cambia todo — y cómo construirla sin que sea otra cosa que no puedes sostener", serie:"Serie 6: Hábitos y rutinas — Libro 2 de 10", desc:"Las primeras horas del día establecen el patrón del resto. Este libro ofrece un sistema para construir una rutina matutina personalizada y realista para distintos tipos de vida."},
+  {num:53, title:"Pequeños cambios, grandes resultados", subtitle:"El método kaizen aplicado a la salud: por qué los cambios mínimos y consistentes ganan a los grandes y explosivos", serie:"Serie 6: Hábitos y rutinas — Libro 3 de 10", desc:"El cambio sostenible viene de la acumulación de pequeños pasos, no de las resoluciones de enero. Este libro aplica la filosofía del kaizen a los hábitos de salud con ejemplos concretos."},
+  {num:54, title:"Las recaídas no son fracasos", subtitle:"Por qué volver a empezar es parte del proceso — y cómo hacerlo sin destruirse en el intento", serie:"Serie 6: Hábitos y rutinas — Libro 4 de 10", desc:"La recaída es parte predecible del proceso de cambio, no un indicador de fracaso personal. Este libro explica el modelo transteórico del cambio y cómo usar las recaídas como información."},
+  {num:55, title:"Entorno saludable sin fuerza de voluntad", subtitle:"Diseñar tu vida para que las buenas decisiones sean las más fáciles y las malas las más difíciles", serie:"Serie 6: Hábitos y rutinas — Libro 5 de 10", desc:"El entorno determina el comportamiento más que la intención. Este libro presenta el diseño ambiental como la herramienta más poderosa para cambiar hábitos sin depender de la fuerza de voluntad."},
+  {num:56, title:"El hábito del movimiento", subtitle:"Cómo incorporar más actividad en una vida sedentaria sin ir al gimnasio ni tener tiempo extra", serie:"Serie 6: Hábitos y rutinas — Libro 6 de 10", desc:"El movimiento no requiere ir al gimnasio: se puede incorporar en la vida cotidiana de formas que la ciencia respalda. Este libro explica cómo hacerlo de forma sostenible."},
+  {num:57, title:"La rutina de noche", subtitle:"Preparar el cuerpo y la mente para el descanso: el ritual que hace posible el sueño que necesitas", serie:"Serie 6: Hábitos y rutinas — Libro 7 de 10", desc:"La calidad del sueño se construye en las horas previas. Este libro presenta los hábitos nocturnos con mayor impacto en el sueño y cómo incorporarlos sin complicar la vida."},
+  {num:58, title:"Hábitos digitales y salud", subtitle:"Gestionar el tiempo de pantalla para vivir mejor: sin demonizar la tecnología y sin dejar que te domine", serie:"Serie 6: Hábitos y rutinas — Libro 8 de 10", desc:"La tecnología afecta la salud cuando su uso no es consciente. Este libro ofrece un marco para relacionarse con las pantallas de forma que protejan en lugar de erosionar el bienestar."},
+  {num:59, title:"Construir hábitos en familia", subtitle:"Cómo alinear a todos en casa hacia una vida más saludable sin convertirlo en una guerra", serie:"Serie 6: Hábitos y rutinas — Libro 9 de 10", desc:"Los cambios de hábito en familia tienen dinámicas específicas. Este libro ofrece estrategias para construir un entorno familiar saludable sin crear conflictos o sensación de restricción."},
+  {num:60, title:"El plan de salud para el año", subtitle:"Cómo diseñar y seguir un plan de bienestar de 12 meses que realmente funcione en la vida real", serie:"Serie 6: Hábitos y rutinas — Libro 10 de 10", desc:"Un plan de salud anual concreta las intenciones en acciones medibles. Este libro guía el proceso de diseñar, implementar y revisar un plan de bienestar personalizado."},
+  // Serie 7 — Longevidad
+  {num:61, title:"Envejecer bien: Lo que la ciencia dice que funciona", subtitle:"Los pilares de la longevidad saludable — sin pseudociencia y con evidencia real", serie:"Serie 7: Longevidad y envejecimiento — Libro 1 de 10", desc:"La longevidad saludable no depende principalmente de la genética: depende de los hábitos. Este libro presenta los pilares con mayor respaldo científico para una vida larga y en buen estado."},
+  {num:62, title:"La inflamación crónica que envejece", subtitle:"Qué la causa, cómo medirla y cómo reducirla para frenar el deterioro acelerado", serie:"Serie 7: Longevidad y envejecimiento — Libro 2 de 10", desc:"La inflammaging —inflamación crónica de bajo grado— acelera el envejecimiento y es raíz de la mayoría de enfermedades crónicas. Este libro explica sus causas y cómo reducirla."},
+  {num:63, title:"Sarcopenia: La pérdida de músculo que nadie menciona", subtitle:"Por qué el músculo es la clave de la longevidad y cómo preservarlo en cada década de vida", serie:"Serie 7: Longevidad y envejecimiento — Libro 3 de 10", desc:"Perdemos músculo a partir de los 30 si no hacemos nada. Este libro explica las consecuencias de la sarcopenia y el protocolo de entrenamiento y nutrición para prevenirla."},
+  {num:64, title:"El cerebro que envejece", subtitle:"Prevenir el deterioro cognitivo con ciencia: qué funciona, qué no y qué todavía no sabemos", serie:"Serie 7: Longevidad y envejecimiento — Libro 4 de 10", desc:"El deterioro cognitivo no es inevitable. Este libro presenta los factores modificables con mayor evidencia —ejercicio, sueño, dieta, estimulación cognitiva— para mantener la función cerebral."},
+  {num:65, title:"Las articulaciones y los años", subtitle:"Artrosis, movilidad y cómo mantenerla: más allá del 'es la edad' y el dolor como destino inevitable", serie:"Serie 7: Longevidad y envejecimiento — Libro 5 de 10", desc:"La artrosis no es solo una cuestión de edad: hay factores modificables. Este libro explica la ciencia de la salud articular y qué intervenciones funcionan realmente."},
+  {num:66, title:"Piel sana a cualquier edad", subtitle:"Lo que realmente funciona y lo que es marketing: evidencia, no promesas", serie:"Serie 7: Longevidad y envejecimiento — Libro 6 de 10", desc:"La industria de la cosmética genera miles de millones en productos sin evidencia. Este libro separa lo que realmente funciona para la salud de la piel de lo que es marketing puro."},
+  {num:67, title:"La salud ósea después de los 50", subtitle:"Osteoporosis, calcio y mucho más que leche: la guía completa para huesos fuertes", serie:"Serie 7: Longevidad y envejecimiento — Libro 7 de 10", desc:"La osteoporosis es silenciosa y prevenible. Este libro explica los factores que determinan la densidad ósea —más allá del calcio— y cómo protegerla con estrategias concretas."},
+  {num:68, title:"Menopausia sin tabúes", subtitle:"Los cambios reales, los síntomas que nadie prepara, y cómo gestionarlos bien", serie:"Serie 7: Longevidad y envejecimiento — Libro 8 de 10", desc:"La menopausia afecta a la mitad de la población y sigue siendo un tema rodeado de tabú y desinformación. Este libro ofrece información actualizada, sin mitos, sobre los cambios y las opciones de manejo."},
+  {num:69, title:"Andropausia: El cambio hormonal masculino que nadie habla", subtitle:"Testosterona, energía y salud a partir de los 45 — sin mitos y con evidencia", serie:"Serie 7: Longevidad y envejecimiento — Libro 9 de 10", desc:"La disminución gradual de testosterona en los hombres es real pero a menudo mal entendida. Este libro explica qué ocurre, qué síntomas son atribuibles al cambio hormonal y cuándo consultar."},
+  {num:70, title:"Vivir 100 años en buen estado", subtitle:"Las zonas azules, los centenarios y las lecciones reales para el mundo moderno", serie:"Serie 7: Longevidad y envejecimiento — Libro 10 de 10", desc:"Las zonas azules —donde más centenarios viven— comparten patrones identificables. Este libro extrae las lecciones aplicables al mundo moderno, más allá de los factores genéticos y geográficos."},
+  // Serie 8 — Sexual
+  {num:71, title:"La salud sexual que nadie enseña", subtitle:"Educación sexual para adultos: lo que nos faltó aprender y lo que necesitamos saber ahora", serie:"Serie 8: Salud sexual y reproductiva — Libro 1 de 10", desc:"La educación sexual que recibimos la mayoría fue incompleta. Este libro cubre lo que quedó fuera: anatomía funcional, respuesta sexual, comunicación en pareja y salud sexual a lo largo de la vida."},
+  {num:72, title:"Fertilidad: Lo que hay que saber antes de intentarlo", subtitle:"Factores de estilo de vida, salud reproductiva y cómo prepararse para el embarazo", serie:"Serie 8: Salud sexual y reproductiva — Libro 2 de 10", desc:"La fertilidad se puede influir con el estilo de vida mucho antes de que haya dificultades. Este libro explica los factores modificables más importantes para ambos miembros de la pareja."},
+  {num:73, title:"El embarazo informado", subtitle:"Nutrición, actividad física y bienestar durante los nueve meses — sin mitos y con evidencia", serie:"Serie 8: Salud sexual y reproductiva — Libro 3 de 10", desc:"El embarazo está rodeado de mitos y consejos contradictorios. Este libro ofrece evidencia actualizada sobre nutrición, ejercicio, suplementos y bienestar durante los nueve meses."},
+  {num:74, title:"Salud posparto: El cuarto trimestre", subtitle:"La recuperación que el sistema olvida: cuerpo, mente y relaciones después del parto", serie:"Serie 8: Salud sexual y reproductiva — Libro 4 de 10", desc:"El posparto es el trimestre más intenso y el menos atendido por el sistema sanitario. Este libro cubre la recuperación física, la salud mental perinatal y los cambios relacionales."},
+  {num:75, title:"Anticonceptivos: La guía completa sin ideología", subtitle:"Opciones, efectos, comparativa y cómo elegir el método que funciona para ti", serie:"Serie 8: Salud sexual y reproductiva — Libro 5 de 10", desc:"Existen más métodos anticonceptivos que los más conocidos. Este libro presenta todos ellos con información objetiva sobre eficacia, efectos secundarios y criterios de elección."},
+  {num:76, title:"ITS: Prevención y desestigmatización", subtitle:"Sin vergüenza, con información: todo lo que necesitas saber sobre las infecciones de transmisión sexual", serie:"Serie 8: Salud sexual y reproductiva — Libro 6 de 10", desc:"El estigma alrededor de las ITS dificulta la prevención y el tratamiento. Este libro ofrece información completa y libre de juicio sobre las infecciones más frecuentes, su prevención y tratamiento."},
+  {num:77, title:"La salud de la próstata", subtitle:"Prevención, hiperplasia benigna y cáncer de próstata sin alarmismo: lo que necesitas saber", serie:"Serie 8: Salud sexual y reproductiva — Libro 7 de 10", desc:"La próstata es un órgano que preocupa pero que pocos entienden bien. Este libro explica desde la hiperplasia benigna hasta el cáncer, con criterios claros para saber cuándo preocuparse."},
+  {num:78, title:"Disfunción eréctil: Más que un problema sexual", subtitle:"Lo que revela sobre la salud cardiovascular y cómo tratarla de forma integral", serie:"Serie 8: Salud sexual y reproductiva — Libro 8 de 10", desc:"La disfunción eréctil es frecuentemente un marcador precoz de enfermedad cardiovascular. Este libro explica la conexión y los tratamientos disponibles, más allá de los fármacos."},
+  {num:79, title:"El suelo pélvico: El músculo olvidado", subtitle:"Incontinencia, prolapso y disfunción sexual: cómo prevenir y recuperar la función pélvica", serie:"Serie 8: Salud sexual y reproductiva — Libro 9 de 10", desc:"El suelo pélvico afecta a hombres y mujeres, pero pocas personas saben cómo cuidarlo. Este libro explica su función y ofrece una guía de ejercicios y prevención."},
+  {num:80, title:"Sexualidad y envejecimiento", subtitle:"El deseo, los cambios y cómo mantener una vida sexual satisfactoria en cualquier etapa de la vida", serie:"Serie 8: Salud sexual y reproductiva — Libro 10 de 10", desc:"La vida sexual no termina con la edad: cambia. Este libro explica los cambios físicos y psicológicos en la sexualidad con los años y cómo adaptarse a ellos con información y sin tabúes."},
+  // Serie 9 — Entorno
+  {num:81, title:"Tóxicos en casa", subtitle:"Los productos cotidianos que afectan tu salud y las alternativas reales", serie:"Serie 9: Entorno y estilo de vida — Libro 1 de 10", desc:"El hogar moderno está lleno de productos que liberan compuestos con efectos sobre la salud. Este libro identifica los más relevantes y ofrece alternativas prácticas sin caer en el alarmismo."},
+  {num:82, title:"La naturaleza como medicina", subtitle:"Lo que la ciencia dice sobre el contacto con el entorno natural y la salud", serie:"Serie 9: Entorno y estilo de vida — Libro 2 de 10", desc:"El concepto japonés de shinrin-yoku (baños de bosque) tiene base científica sólida. Este libro documenta los efectos del contacto con la naturaleza en la salud física y mental."},
+  {num:83, title:"Trabajo, salud y límites", subtitle:"El impacto del trabajo en el cuerpo y la mente, y cómo construir límites que protejan tu salud", serie:"Serie 9: Entorno y estilo de vida — Libro 3 de 10", desc:"El trabajo es uno de los principales determinantes de salud. Este libro explica los mecanismos por los que el trabajo puede dañar la salud y cómo construir límites protectores."},
+  {num:84, title:"Relaciones tóxicas y salud", subtitle:"El coste corporal de las relaciones que dañan y cómo protegerse", serie:"Serie 9: Entorno y estilo de vida — Libro 4 de 10", desc:"Las relaciones dañinas tienen consecuencias físicas documentadas: inflamación, alteración del cortisol, deterioro inmune. Este libro explica el mecanismo y los pasos para salir o protegerse."},
+  {num:85, title:"El alcohol: La droga más normalizada", subtitle:"Qué le hace al cuerpo, cómo funciona la dependencia y cómo reducirlo", serie:"Serie 9: Entorno y estilo de vida — Libro 5 de 10", desc:"El alcohol es la sustancia más consumida y la que recibe más tolerancia social pese a su daño. Este libro explica sus efectos reales, el espectro del consumo problemático y cómo reducirlo."},
+  {num:86, title:"Dejar de fumar de una vez", subtitle:"Lo que funciona según la evidencia, por qué es tan difícil y el plan que más funciona", serie:"Serie 9: Entorno y estilo de vida — Libro 6 de 10", desc:"Dejar de fumar es posible, pero requiere más que fuerza de voluntad. Este libro presenta los tratamientos con mayor evidencia —combinando farmacología y estrategias conductuales— y explica por qué los intentos solitarios suelen fracasar."},
+  {num:87, title:"El sol, la vitamina D y la verdad a medias", subtitle:"Cómo exponerse al sol de forma inteligente y qué hay de cierto en el debate sobre la vitamina D", serie:"Serie 9: Entorno y estilo de vida — Libro 7 de 10", desc:"El sol es necesario y potencialmente dañino a la vez. Este libro navega la evidencia sobre la vitamina D, el cáncer de piel y la exposición solar óptima sin mensajes contradictorios."},
+  {num:88, title:"El agua que bebes", subtitle:"Hidratación, calidad del agua, y los mitos del agua alcalina, el agua estructurada y más", serie:"Serie 9: Entorno y estilo de vida — Libro 8 de 10", desc:"La hidratación adecuada es esencial pero la mayoría de los productos del mercado del agua son marketing sin base. Este libro separa la evidencia del ruido."},
+  {num:89, title:"Viajes y salud", subtitle:"Cómo mantener los hábitos, prevenir los problemas más frecuentes y volver sintiéndote bien", serie:"Serie 9: Entorno y estilo de vida — Libro 9 de 10", desc:"Los viajes interrumpen las rutinas de salud pero no tienen por qué ser un paréntesis. Este libro ofrece estrategias para mantener los hábitos clave y prevenir los problemas de salud más frecuentes al viajar."},
+  {num:90, title:"El ruido que enferma", subtitle:"Contaminación acústica, tinnitus y cómo proteger la audición y la salud", serie:"Serie 9: Entorno y estilo de vida — Libro 10 de 10", desc:"La contaminación acústica tiene efectos sobre el sistema cardiovascular, el sueño y la salud mental que van más allá de la pérdida auditiva. Este libro explica el problema y las soluciones disponibles."},
+  // Serie 10 — Integrativa (orden correcto por número de archivo)
+  {num:91, title:"Medicina convencional y alternativa: Lo que funciona de cada una", subtitle:"Sin dogmas, con evidencia: cómo navegar el panorama de la salud moderna", serie:"Serie 10: Salud integrativa — Libro 1 de 10", desc:"El debate entre medicina convencional y alternativa genera más calor que luz. Este libro evalúa con evidencia las terapias más populares y explica cómo integrar lo mejor de cada enfoque."},
+  {num:92, title:"Suplementos: Cuáles valen y cuáles son marketing", subtitle:"Omega-3, vitamina D, magnesio, probióticos y más: lo que la evidencia dice", serie:"Serie 10: Salud integrativa — Libro 2 de 10", desc:"La industria de los suplementos genera miles de millones con promesas que la evidencia no siempre respalda. Este libro evalúa los suplementos más populares y cuándo tienen sentido."},
+  {num:93, title:"El ayuno intermitente sin mitos", subtitle:"Lo que la ciencia dice realmente sobre el ayuno, sus beneficios, sus límites y para quién funciona", serie:"Serie 10: Salud integrativa — Libro 3 de 10", desc:"El ayuno intermitente tiene evidencia real pero también mucho ruido. Este libro separa los beneficios documentados de las afirmaciones sin respaldo y explica para quién funciona y para quién no."},
+  {num:94, title:"La crononutrición", subtitle:"El impacto de cuándo comes, no solo qué comes: los ritmos circadianos y la alimentación", serie:"Serie 10: Salud integrativa — Libro 4 de 10", desc:"El momento en que comes importa tanto como lo que comes. Este libro explica la ciencia de la crononutrición: cómo el timing de las comidas afecta el metabolismo, el sueño y la salud a largo plazo."},
+  {num:95, title:"Saunas, baños fríos y recuperación", subtitle:"La evidencia detrás de las tendencias: qué funciona, qué es hype y cómo usarlos bien", serie:"Serie 10: Salud integrativa — Libro 5 de 10", desc:"Las terapias de temperatura han vivido un auge de popularidad. Este libro evalúa la evidencia real sobre saunas, baños fríos e inmersión en hielo, separando los beneficios documentados del marketing."},
+  {num:96, title:"Respiración: La herramienta más poderosa que ya tienes", subtitle:"Técnicas con evidencia para la salud, el estrés y el rendimiento", serie:"Serie 10: Salud integrativa — Libro 6 de 10", desc:"La respiración es la única función autónoma que podemos controlar conscientemente. Este libro presenta las técnicas respiratorias con mayor evidencia científica y sus aplicaciones concretas."},
+  {num:97, title:"El poder del contacto social en la salud", subtitle:"Por qué la soledad mata, la conexión sana y cómo construir vínculos que protejan la salud", serie:"Serie 10: Salud integrativa — Libro 7 de 10", desc:"La conexión social es un determinante de salud tan potente como la dieta o el ejercicio. Este libro documenta la ciencia y ofrece un camino concreto para construir y mantener vínculos protectores."},
+  {num:98, title:"Propósito y salud", subtitle:"La ciencia de para qué vivir como factor de longevidad y bienestar", serie:"Serie 10: Salud integrativa — Libro 8 de 10", desc:"El ikigai japonés y el concepto de propósito tienen correlatos biológicos medibles. Este libro explica cómo el sentido de vida influye en la longevidad y cómo construirlo activamente."},
+  {num:99, title:"El plan de salud para los próximos 10 años", subtitle:"Integrar todo en un sistema personal: el mapa completo de la salud preventiva", serie:"Serie 10: Salud integrativa — Libro 9 de 10", desc:"Un plan de salud de diez años que integra todas las dimensiones de la colección: alimentación, movimiento, sueño, mente, prevención, hábitos, longevidad y entorno."},
+  {num:100, title:"La salud como proyecto de vida", subtitle:"El manifiesto final del Método RESET", serie:"Serie 10: Salud integrativa — Libro 10 de 10", desc:"El libro final de la colección. Una síntesis de todo lo aprendido: qué significa la salud integral, los cinco compromisos del que cuida su salud de verdad, y la única pregunta que importa responder."},
+];
+
+let current = 0;
+let showPortada = true;
+
+function getPalette(num) {
+  return PALETTE[num] || PALETTE[0];
+}
+
+function buildBookHTML(book) {
+  const p = getPalette(book.num);
+  const numLabel = String(book.num);
+
+  const portadaHTML = `
+    <div class="book-wrapper">
+      <div class="portada" style="background: linear-gradient(145deg, ${p.from}, ${p.to}); color: ${p.text};">
+        <div class="portada-top">
+          <div class="portada-coleccion">Salud y Bienestar</div>
+          <div class="portada-serie">${book.serie}</div>
+          <div class="portada-num" style="color:${p.accent}">${numLabel}</div>
+          <div class="portada-title">${book.title}</div>
+          <div class="portada-subtitle">${book.subtitle}</div>
+        </div>
+        <div class="portada-bottom">
+          <div class="portada-autor">El Método RESET</div>
+          <div class="portada-metodo" style="color:${p.accent}">● ${book.serie.split('—')[0].trim()}</div>
+        </div>
+        <div class="portada-deco"></div>
+        <div class="portada-deco2"></div>
+      </div>
+      <div class="label-tag">PORTADA</div>
+    </div>`;
+
+  const contraportadaHTML = `
+    <div class="book-wrapper">
+      <div class="contraportada" style="background: linear-gradient(145deg, ${p.to}, ${p.from}); color: ${p.text};">
+        <div class="contra-top">
+          <div class="contra-coleccion">Salud y Bienestar</div>
+          <div class="contra-badge" style="background:${p.accent}20; color:${p.accent}">Libro ${numLabel}</div>
+          <div class="contra-quote">"${book.title}"</div>
+          <div class="contra-desc">${book.desc}</div>
+        </div>
+        <div class="contra-bottom">
+          <div class="contra-serie-info">${book.serie}</div>
+          <div class="contra-isbn" style="color:${p.accent}">El Método RESET — Colección completa: 100 libros + Libro Madre</div>
+        </div>
+      </div>
+      <div class="label-tag">CONTRAPORTADA</div>
+    </div>`;
+
+  return showPortada ? portadaHTML + contraportadaHTML : contraportadaHTML + portadaHTML;
+}
+
+function render() {
+  const book = books[current];
+  document.getElementById('bookContainer').innerHTML = buildBookHTML(book);
+  document.getElementById('counter').textContent = `${current + 1} / ${books.length}`;
+  document.getElementById('btnPrev').disabled = current === 0;
+  document.getElementById('btnNext').disabled = current === books.length - 1;
+  document.getElementById('bookSelect').value = current;
+}
+
+function next() { if (current < books.length - 1) { current++; render(); } }
+function prev() { if (current > 0) { current--; render(); } }
+function goToBook(idx) { current = parseInt(idx); render(); }
+function toggleView() {
+  showPortada = !showPortada;
+  document.getElementById('toggleBtn').textContent = showPortada ? 'Ver portada primero' : 'Ver contraportada primero';
+  render();
+}
+
+const sel = document.getElementById('bookSelect');
+books.forEach((b, i) => {
+  const opt = document.createElement('option');
+  opt.value = i;
+  opt.textContent = `${b.num === 0 ? 'Libro 0 (Madre)' : 'Libro ' + b.num} — ${b.title}`;
+  sel.appendChild(opt);
+});
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowRight') next();
+  if (e.key === 'ArrowLeft') prev();
+});
+
+render();
+</script>
+</body>
+</html>

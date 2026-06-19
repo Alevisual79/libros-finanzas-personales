@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portadas — Productividad y Éxito Personal</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Georgia', serif; background: #1a1a2e; color: #eee; min-height: 100vh; }
+
+  .nav-bar {
+    background: #16213e;
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    border-bottom: 2px solid #0f3460;
+  }
+  .nav-bar h1 { font-size: 14px; color: #e94560; font-weight: bold; letter-spacing: 1px; flex: 1; min-width: 200px; }
+  .nav-bar select { background: #0f3460; color: #eee; border: 1px solid #e94560; padding: 6px 10px; border-radius: 4px; font-size: 13px; max-width: 400px; flex: 2; }
+  .nav-btn { background: #e94560; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-size: 13px; white-space: nowrap; }
+  .nav-btn:hover { background: #c73652; }
+  .nav-btn:disabled { background: #555; cursor: not-allowed; }
+  .nav-counter { color: #aaa; font-size: 12px; white-space: nowrap; }
+  .toggle-btn { background: #0f3460; color: #e94560; border: 1px solid #e94560; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-size: 13px; }
+
+  .book-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 40px 20px;
+    flex-wrap: wrap;
+  }
+
+  /* PORTADA */
+  .portada {
+    width: 320px;
+    height: 480px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 32px 28px;
+    box-shadow: -8px 8px 30px rgba(0,0,0,0.7), 4px 0 0 rgba(0,0,0,0.3);
+    position: relative;
+    overflow: hidden;
+  }
+  .portada::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 12px;
+    background: rgba(0,0,0,0.2);
+  }
+  .portada-top { position: relative; z-index: 1; }
+  .portada-coleccion { font-size: 9px; letter-spacing: 3px; text-transform: uppercase; opacity: 0.7; margin-bottom: 8px; }
+  .portada-serie { font-size: 11px; letter-spacing: 1px; opacity: 0.8; margin-bottom: 24px; }
+  .portada-num { font-size: 64px; font-weight: bold; opacity: 0.15; position: absolute; right: 0; top: -10px; line-height: 1; }
+  .portada-title { font-size: 22px; line-height: 1.3; font-weight: bold; margin-bottom: 14px; }
+  .portada-subtitle { font-size: 12px; line-height: 1.5; opacity: 0.8; font-style: italic; }
+  .portada-bottom { position: relative; z-index: 1; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 12px; }
+  .portada-autor { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.6; }
+  .portada-metodo { font-size: 11px; letter-spacing: 1px; opacity: 0.8; margin-top: 4px; }
+  .portada-deco {
+    position: absolute;
+    bottom: -30px;
+    right: -30px;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.05);
+  }
+  .portada-deco2 {
+    position: absolute;
+    bottom: 40px;
+    right: 40px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.05);
+  }
+
+  /* CONTRAPORTADA */
+  .contraportada {
+    width: 320px;
+    height: 480px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 28px;
+    box-shadow: 8px 8px 30px rgba(0,0,0,0.7), -4px 0 0 rgba(0,0,0,0.3);
+    position: relative;
+    overflow: hidden;
+  }
+  .contra-top { }
+  .contra-coleccion { font-size: 9px; letter-spacing: 3px; text-transform: uppercase; opacity: 0.5; margin-bottom: 16px; }
+  .contra-quote {
+    font-size: 14px;
+    line-height: 1.7;
+    font-style: italic;
+    opacity: 0.9;
+    border-left: 3px solid rgba(255,255,255,0.3);
+    padding-left: 14px;
+    margin-bottom: 16px;
+  }
+  .contra-desc {
+    font-size: 12px;
+    line-height: 1.8;
+    opacity: 0.75;
+  }
+  .contra-bottom { }
+  .contra-serie-info {
+    font-size: 10px;
+    opacity: 0.6;
+    border-top: 1px solid rgba(255,255,255,0.15);
+    padding-top: 10px;
+    margin-top: 10px;
+  }
+  .contra-isbn {
+    font-size: 10px;
+    opacity: 0.4;
+    font-family: monospace;
+    margin-top: 6px;
+  }
+  .contra-badge {
+    display: inline-block;
+    background: rgba(255,255,255,0.15);
+    border-radius: 12px;
+    padding: 3px 10px;
+    font-size: 9px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+
+  .label-tag {
+    text-align: center;
+    font-size: 11px;
+    color: #aaa;
+    margin-top: 8px;
+    letter-spacing: 1px;
+  }
+
+  .book-wrapper { display: flex; flex-direction: column; align-items: center; }
+
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+
+<div class="nav-bar">
+  <h1>PRODUCTIVIDAD Y ÉXITO PERSONAL</h1>
+  <select id="bookSelect" onchange="goToBook(this.value)"></select>
+  <button class="nav-btn" onclick="prev()" id="btnPrev">← Anterior</button>
+  <button class="nav-btn" onclick="next()" id="btnNext">Siguiente →</button>
+  <span class="nav-counter" id="counter"></span>
+  <button class="toggle-btn" onclick="toggleView()" id="toggleBtn">Ver portada</button>
+</div>
+
+<div class="book-container" id="bookContainer"></div>
+
+<script>
+const SERIES_COLORS = [
+  // Libro 0 — Libro Madre
+  { bg: ['#1a0533','#4a1070'], accent: '#c084fc' },
+  // Serie 1 — Mentalidad
+  { bg: ['#1e0a3c','#3d1a6e'], accent: '#a78bfa' },
+  { bg: ['#1e0a3c','#3d1a6e'], accent: '#a78bfa' },
+  { bg: ['#1e0a3c','#3d1a6e'], accent: '#a78bfa' },
+  { bg: ['#1e0a3c','#3d1a6e'], accent: '#a78bfa' },
+  { bg: ['#1e0a3c','#3d1a6e'], accent: '#a78bfa' },
+  { bg: ['#1e0a3c','#3d1a6e'], accent: '#a78bfa' },
+  { bg: ['#1e0a3c','#3d1a6e'], accent: '#a78bfa' },
+  { bg: ['#1e0a3c','#3d1a6e'], accent: '#a78bfa' },
+  { bg: ['#1e0a3c','#3d1a6e'], accent: '#a78bfa' },
+  { bg: ['#1e0a3c','#3d1a6e'], accent: '#a78bfa' },
+];
+
+const PALETTE = [
+  // 0 Libro Madre
+  { from:'#1a0533', to:'#4a1070', text:'#f3e8ff', accent:'#c084fc' },
+  // 1-10 Serie 1 — Mentalidad (violeta)
+  { from:'#1e0a3c', to:'#3d1a6e', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#1e0a3c', to:'#3d1a6e', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#1e0a3c', to:'#3d1a6e', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#1e0a3c', to:'#3d1a6e', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#1e0a3c', to:'#3d1a6e', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#1e0a3c', to:'#3d1a6e', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#1e0a3c', to:'#3d1a6e', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#1e0a3c', to:'#3d1a6e', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#1e0a3c', to:'#3d1a6e', text:'#ede9fe', accent:'#a78bfa' },
+  { from:'#1e0a3c', to:'#3d1a6e', text:'#ede9fe', accent:'#a78bfa' },
+  // 11-20 Serie 2 — Gestión del Tiempo (azul)
+  { from:'#0a1628', to:'#1a3a6e', text:'#dbeafe', accent:'#60a5fa' },
+  { from:'#0a1628', to:'#1a3a6e', text:'#dbeafe', accent:'#60a5fa' },
+  { from:'#0a1628', to:'#1a3a6e', text:'#dbeafe', accent:'#60a5fa' },
+  { from:'#0a1628', to:'#1a3a6e', text:'#dbeafe', accent:'#60a5fa' },
+  { from:'#0a1628', to:'#1a3a6e', text:'#dbeafe', accent:'#60a5fa' },
+  { from:'#0a1628', to:'#1a3a6e', text:'#dbeafe', accent:'#60a5fa' },
+  { from:'#0a1628', to:'#1a3a6e', text:'#dbeafe', accent:'#60a5fa' },
+  { from:'#0a1628', to:'#1a3a6e', text:'#dbeafe', accent:'#60a5fa' },
+  { from:'#0a1628', to:'#1a3a6e', text:'#dbeafe', accent:'#60a5fa' },
+  { from:'#0a1628', to:'#1a3a6e', text:'#dbeafe', accent:'#60a5fa' },
+  // 21-30 Serie 3 — Enfoque (verde azulado)
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  { from:'#022c22', to:'#065f46', text:'#d1fae5', accent:'#34d399' },
+  // 31-40 Serie 4 — Hábitos (naranja)
+  { from:'#431407', to:'#9a3412', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#9a3412', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#9a3412', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#9a3412', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#9a3412', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#9a3412', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#9a3412', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#9a3412', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#9a3412', text:'#ffedd5', accent:'#fb923c' },
+  { from:'#431407', to:'#9a3412', text:'#ffedd5', accent:'#fb923c' },
+  // 41-50 Serie 5 — Comunicación (rosa)
+  { from:'#4a0520', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#4a0520', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#4a0520', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#4a0520', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#4a0520', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#4a0520', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#4a0520', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#4a0520', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#4a0520', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  { from:'#4a0520', to:'#9d174d', text:'#fce7f3', accent:'#f472b6' },
+  // 51-60 Serie 6 — Liderazgo (índigo)
+  { from:'#1e1b4b', to:'#3730a3', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#3730a3', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#3730a3', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#3730a3', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#3730a3', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#3730a3', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#3730a3', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#3730a3', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#3730a3', text:'#e0e7ff', accent:'#818cf8' },
+  { from:'#1e1b4b', to:'#3730a3', text:'#e0e7ff', accent:'#818cf8' },
+  // 61-70 Serie 7 — Creatividad (amarillo)
+  { from:'#422006', to:'#92400e', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#92400e', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#92400e', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#92400e', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#92400e', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#92400e', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#92400e', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#92400e', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#92400e', text:'#fef3c7', accent:'#fbbf24' },
+  { from:'#422006', to:'#92400e', text:'#fef3c7', accent:'#fbbf24' },
+  // 71-80 Serie 8 — Aprendizaje (cian)
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  { from:'#083344', to:'#0e7490', text:'#cffafe', accent:'#22d3ee' },
+  // 81-90 Serie 9 — Equilibrio (verde esmeralda)
+  { from:'#052e16', to:'#15803d', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#15803d', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#15803d', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#15803d', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#15803d', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#15803d', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#15803d', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#15803d', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#15803d', text:'#dcfce7', accent:'#4ade80' },
+  { from:'#052e16', to:'#15803d', text:'#dcfce7', accent:'#4ade80' },
+  // 91-100 Serie 10 — Propósito (dorado oscuro)
+  { from:'#2d1b00', to:'#78350f', text:'#fef9c3', accent:'#facc15' },
+  { from:'#2d1b00', to:'#78350f', text:'#fef9c3', accent:'#facc15' },
+  { from:'#2d1b00', to:'#78350f', text:'#fef9c3', accent:'#facc15' },
+  { from:'#2d1b00', to:'#78350f', text:'#fef9c3', accent:'#facc15' },
+  { from:'#2d1b00', to:'#78350f', text:'#fef9c3', accent:'#facc15' },
+  { from:'#2d1b00', to:'#78350f', text:'#fef9c3', accent:'#facc15' },
+  { from:'#2d1b00', to:'#78350f', text:'#fef9c3', accent:'#facc15' },
+  { from:'#2d1b00', to:'#78350f', text:'#fef9c3', accent:'#facc15' },
+  { from:'#2d1b00', to:'#78350f', text:'#fef9c3', accent:'#facc15' },
+  { from:'#2d1b00', to:'#78350f', text:'#fef9c3', accent:'#facc15' },
+];
+
+const books = [
+  {num:0, title:"El Método ACCIÓN", subtitle:"El sistema que nadie te enseñó para rendir más sin trabajar más", serie:"Libro Madre — El punto de partida", desc:"El libro que lees antes de leer cualquier otro de esta serie. El Método ACCIÓN es el marco que estructura toda la colección: Autoconocimiento, Claridad, Concentración, Iteración, Organización y Navegación. Cada uno de los 100 libros de la colección desarrolla una de sus dimensiones."},
+  // Serie 1
+  {num:1, title:"Tu cerebro en modo autopiloto", subtitle:"Por qué hacemos lo que hacemos aunque sabemos que hay algo mejor", serie:"Serie 1: Mentalidad y Creencias — Libro 1 de 10", desc:"La mayoría de nuestras decisiones no son decisiones: son hábitos automáticos. Este libro explora la neurociencia del comportamiento automático y cómo empezar a tomar el control."},
+  {num:2, title:"Las creencias que te frenan", subtitle:"Cómo identificar y reescribir los límites que te pusiste sin darte cuenta", serie:"Serie 1: Mentalidad y Creencias — Libro 2 de 10", desc:"Las creencias limitantes son invisibles precisamente porque las damos por ciertas. Este libro enseña a identificarlas y a construir creencias que abran posibilidades en lugar de cerrarlas."},
+  {num:3, title:"La mentalidad de crecimiento", subtitle:"Por qué algunas personas mejoran con cada obstáculo y otras se rinden", serie:"Serie 1: Mentalidad y Creencias — Libro 3 de 10", desc:"Carol Dweck identificó la diferencia fundamental entre quienes creen que sus capacidades son fijas y quienes creen que se pueden desarrollar. Este libro aplica ese hallazgo al trabajo y la vida."},
+  {num:4, title:"El síndrome del impostor", subtitle:"Cómo combatir la voz que dice que no eres suficientemente bueno", serie:"Serie 1: Mentalidad y Creencias — Libro 4 de 10", desc:"El 70% de las personas exitosas ha sentido que no merecen su posición. Este libro explica de dónde viene el síndrome del impostor y cómo dejar de escuchar esa voz."},
+  {num:5, title:"Miedo al éxito y al fracaso", subtitle:"Los dos miedos que paralizan a las personas capaces", serie:"Serie 1: Mentalidad y Creencias — Libro 5 de 10", desc:"Paradójicamente, muchas personas temen tanto el fracaso como el éxito. Este libro explora ambos miedos, su origen y las estrategias para actuar a pesar de ellos."},
+  {num:6, title:"La comparación que destruye", subtitle:"Cómo salir de la trampa de medirte con los demás", serie:"Serie 1: Mentalidad y Creencias — Libro 6 de 10", desc:"La comparación social es uno de los mecanismos más potentes de infelicidad. Este libro explica por qué compararse es tan difícil de evitar y cómo construir un sistema de referencia interno."},
+  {num:7, title:"Resiliencia: El músculo mental", subtitle:"Cómo construir la capacidad de recuperarse más rápido", serie:"Serie 1: Mentalidad y Creencias — Libro 7 de 10", desc:"La resiliencia no es la ausencia de dificultad: es la capacidad de recuperarse de ella. Este libro presenta las estrategias respaldadas por evidencia para construir esa capacidad."},
+  {num:8, title:"Autocompasión sin excusas", subtitle:"Ser amable contigo mismo sin perder la exigencia", serie:"Serie 1: Mentalidad y Creencias — Libro 8 de 10", desc:"La autocompasión no es autoindulgencia: es la condición para el aprendizaje real. Este libro explica la diferencia y cómo usar la autocompasión como herramienta de rendimiento."},
+  {num:9, title:"El perfeccionismo que paraliza", subtitle:"Por qué buscar lo perfecto es el enemigo de lo hecho", serie:"Serie 1: Mentalidad y Creencias — Libro 9 de 10", desc:"El perfeccionismo parece una virtud pero actúa como una trampa. Este libro distingue entre la excelencia saludable y el perfeccionismo paralizante, y ofrece herramientas para salir de él."},
+  {num:10, title:"Reprograma tu diálogo interno", subtitle:"Cambiar la voz que te acompaña todo el día", serie:"Serie 1: Mentalidad y Creencias — Libro 10 de 10", desc:"La forma en que nos hablamos a nosotros mismos determina más que cualquier otra cosa lo que somos capaces de hacer. Este libro es una guía práctica para cambiar ese diálogo."},
+  // Serie 2
+  {num:11, title:"El tiempo no se gestiona: Se dirige", subtitle:"Por qué el problema no es el tiempo sino las prioridades", serie:"Serie 2: Gestión del Tiempo — Libro 1 de 10", desc:"La gestión del tiempo es en realidad gestión de prioridades. Este libro reencuadra el problema y ofrece un sistema para dirigir el tiempo hacia lo que realmente importa."},
+  {num:12, title:"Deep Work: El trabajo profundo que lo cambia todo", subtitle:"Cómo hacer en 4 horas lo que otros no hacen en 8", serie:"Serie 2: Gestión del Tiempo — Libro 2 de 10", desc:"Cal Newport documentó la ventaja competitiva del trabajo profundo. Este libro adapta ese concepto a la vida real de las personas con agendas llenas."},
+  {num:13, title:"La trampa del correo electrónico", subtitle:"Cómo el email secuestra tu agenda y cómo recuperarla", serie:"Serie 2: Gestión del Tiempo — Libro 3 de 10", desc:"El correo electrónico es el ladrón de tiempo más invisible. Este libro explica por qué y ofrece sistemas concretos para recuperar el control de la agenda."},
+  {num:14, title:"Reuniones que no matan", subtitle:"Por qué la mayoría de reuniones son un fraude y cómo hacer las que sí funcionan", serie:"Serie 2: Gestión del Tiempo — Libro 4 de 10", desc:"Las reuniones son el mayor desperdicio de tiempo organizado de las empresas. Este libro enseña cuándo no tener reuniones y cómo hacer las que sí son necesarias."},
+  {num:15, title:"El sistema de planificación semanal", subtitle:"Diseñar cada semana para que las prioridades no se pierdan", serie:"Serie 2: Gestión del Tiempo — Libro 5 de 10", desc:"La semana es la unidad de planificación más útil. Este libro presenta un sistema de revisión y planificación semanal que funciona en la vida real."},
+  {num:16, title:"Urgente vs. Importante: La matriz que te salva", subtitle:"La herramienta de Eisenhower explicada de verdad", serie:"Serie 2: Gestión del Tiempo — Libro 6 de 10", desc:"La matriz de Eisenhower es conocida por todos y usada por pocos. Este libro la explica con profundidad y la aplica a los dilemas de gestión del tiempo más frecuentes."},
+  {num:17, title:"El arte de decir no", subtitle:"Cómo rechazar sin culpa y sin arruinar relaciones", serie:"Serie 2: Gestión del Tiempo — Libro 7 de 10", desc:"Decir no es la habilidad más importante para quien quiere proteger su tiempo y energía. Este libro ofrece marcos y palabras concretas para hacerlo bien."},
+  {num:18, title:"Time blocking: Dueño de tu calendario", subtitle:"Bloquear tiempo para lo que importa antes de que lo robe lo urgente", serie:"Serie 2: Gestión del Tiempo — Libro 8 de 10", desc:"El time blocking es la técnica más eficaz para proteger el trabajo importante. Este libro explica cómo implementarlo en diferentes tipos de trabajo y agenda."},
+  {num:19, title:"Los ladrones de tiempo modernos", subtitle:"Notificaciones, redes sociales y las interrupciones que destrozan la productividad", serie:"Serie 2: Gestión del Tiempo — Libro 9 de 10", desc:"El entorno digital moderno está diseñado para robar nuestra atención. Este libro identifica los ladrones más importantes y ofrece estrategias concretas para recuperar el tiempo."},
+  {num:20, title:"El día de 5 horas", subtitle:"Por qué trabajar menos puede producir más y cómo hacerlo", serie:"Serie 2: Gestión del Tiempo — Libro 10 de 10", desc:"La evidencia es clara: después de cierto número de horas, la productividad cae. Este libro explora la ciencia de los rendimientos decrecientes y cómo diseñar un día más corto y más eficaz."},
+  // Serie 3
+  {num:21, title:"La atención: El recurso más escaso del siglo XXI", subtitle:"Por qué cada vez nos cuesta más concentrarnos", serie:"Serie 3: Enfoque y Concentración — Libro 1 de 10", desc:"La capacidad de atención se ha convertido en el activo más valioso y más atacado del mundo moderno. Este libro explica por qué y qué hacer al respecto."},
+  {num:22, title:"Multitarea: El gran mito de la productividad", subtitle:"Por qué hacer varias cosas a la vez te hace peor en todas", serie:"Serie 3: Enfoque y Concentración — Libro 2 de 10", desc:"La neurociencia es categórica: la multitarea no existe. Este libro explica qué ocurre realmente cuando creemos que hacemos varias cosas a la vez y el coste real para el rendimiento."},
+  {num:23, title:"El estado de flujo", subtitle:"Cómo entrar en el estado donde el tiempo desaparece y el trabajo fluye", serie:"Serie 3: Enfoque y Concentración — Libro 3 de 10", desc:"Mihaly Csikszentmihalyi pasó décadas estudiando el estado de flujo. Este libro aplica sus hallazgos al trabajo cotidiano para que el rendimiento óptimo sea accesible."},
+  {num:24, title:"Dopamina y distracción", subtitle:"La neurociencia de por qué el móvil gana siempre... y cómo cambiar eso", serie:"Serie 3: Enfoque y Concentración — Libro 4 de 10", desc:"Los teléfonos y las redes sociales explotan el sistema de recompensa del cerebro. Este libro explica el mecanismo y ofrece estrategias para recuperar el control sin necesitar una fuerza de voluntad de acero."},
+  {num:25, title:"El entorno de concentración", subtitle:"Diseñar el espacio físico y digital para que el foco sea fácil", serie:"Serie 3: Enfoque y Concentración — Libro 5 de 10", desc:"El entorno determina el comportamiento más que la intención. Este libro ofrece una guía práctica para diseñar el espacio de trabajo para que la concentración sea el estado por defecto."},
+  {num:26, title:"Meditación para productividad", subtitle:"Sin filosofía: técnicas de atención con resultados medibles", serie:"Serie 3: Enfoque y Concentración — Libro 6 de 10", desc:"La meditación tiene evidencia científica sólida sobre el rendimiento cognitivo. Este libro extrae las técnicas más eficaces y las adapta para personas que no tienen tiempo ni interés en el misticismo."},
+  {num:27, title:"Leer más y mejor", subtitle:"Técnicas de lectura eficiente para el que no tiene tiempo pero quiere aprender", serie:"Serie 3: Enfoque y Concentración — Libro 7 de 10", desc:"La lectura eficaz no es leer más rápido: es leer con mayor comprensión y retención. Este libro ofrece técnicas concretas para leer de forma que el aprendizaje sea real."},
+  {num:28, title:"La memoria que mejora con práctica", subtitle:"Técnicas de memorización para adultos", serie:"Serie 3: Enfoque y Concentración — Libro 8 de 10", desc:"La memoria no es fija: se puede desarrollar con las técnicas correctas. Este libro presenta los métodos más eficaces para memorizar lo que importa recordar."},
+  {num:29, title:"El cerebro descansado rinde más", subtitle:"Por qué los descansos activos son parte del trabajo", serie:"Serie 3: Enfoque y Concentración — Libro 9 de 10", desc:"Los descansos no son tiempo perdido: son parte integral del rendimiento cognitivo. Este libro explica la ciencia de la recuperación mental y cómo integrarla en el día de trabajo."},
+  {num:30, title:"Monotarea: Hacer una cosa y hacerla bien", subtitle:"La habilidad más contracultural y más eficaz del siglo XXI", serie:"Serie 3: Enfoque y Concentración — Libro 10 de 10", desc:"La monotarea — hacer una sola cosa con plena atención — es casi revolucionaria en el mundo actual. Este libro es una guía práctica para cultivarla."},
+  // Serie 4
+  {num:31, title:"Los hábitos de las personas extraordinarias", subtitle:"Qué hacen diferente las personas que logran mucho", serie:"Serie 4: Hábitos de Alto Rendimiento — Libro 1 de 10", desc:"El comportamiento de las personas más productivas no es magia: son hábitos específicos practicados consistentemente. Este libro los identifica y explica cómo adoptarlos."},
+  {num:32, title:"La rutina de mañana que lo cambia todo", subtitle:"Diseñar las primeras horas del día para ganar el día", serie:"Serie 4: Hábitos de Alto Rendimiento — Libro 2 de 10", desc:"Las primeras horas del día establecen el tono del resto. Este libro ofrece un sistema para diseñar una rutina matutina personalizada y sostenible."},
+  {num:33, title:"Hábitos de noche: Preparar el éxito del día siguiente", subtitle:"La rutina nocturna como herramienta de rendimiento", serie:"Serie 4: Hábitos de Alto Rendimiento — Libro 3 de 10", desc:"La noche anterior determina la mañana siguiente. Este libro presenta los hábitos nocturnos más eficaces para el rendimiento al día siguiente."},
+  {num:34, title:"El poder del ejercicio en la productividad", subtitle:"Cómo moverse mejora el rendimiento cognitivo", serie:"Serie 4: Hábitos de Alto Rendimiento — Libro 4 de 10", desc:"El ejercicio no es solo para el cuerpo: mejora la memoria, la concentración y la creatividad. Este libro documenta la ciencia y ofrece un sistema para incorporarlo en cualquier agenda."},
+  {num:35, title:"Alimentación y rendimiento mental", subtitle:"Lo que comes afecta cómo piensas", serie:"Serie 4: Hábitos de Alto Rendimiento — Libro 5 de 10", desc:"El cerebro es el órgano más caro metabólicamente. Lo que se come afecta directamente la energía cognitiva, la concentración y el estado de ánimo. Este libro explica cómo."},
+  {num:36, title:"Energía, no tiempo", subtitle:"Por qué gestionar tu energía es más importante que gestionar tu agenda", serie:"Serie 4: Hábitos de Alto Rendimiento — Libro 6 de 10", desc:"El tiempo es finito e igual para todos. La energía es variable y gestionable. Este libro enseña a optimizar los cuatro tipos de energía: física, emocional, mental y espiritual."},
+  {num:37, title:"El hábito de aprendizaje continuo", subtitle:"Cómo mantenerse actualizado y relevante en un mundo que cambia rápido", serie:"Serie 4: Hábitos de Alto Rendimiento — Libro 7 de 10", desc:"En un mundo donde el conocimiento se deprecia rápidamente, el aprendizaje continuo no es opcional. Este libro ofrece un sistema práctico para hacerlo de forma sostenible."},
+  {num:38, title:"Journaling para la claridad mental", subtitle:"Escribir para pensar mejor, no para recordar", serie:"Serie 4: Hábitos de Alto Rendimiento — Libro 8 de 10", desc:"La escritura regular no es solo para escritores: es una de las herramientas más potentes para la claridad mental. Este libro presenta técnicas concretas respaldadas por investigación."},
+  {num:39, title:"La revisión semanal", subtitle:"El hábito de reflexión que separa a los que mejoran de los que estancan", serie:"Serie 4: Hábitos de Alto Rendimiento — Libro 9 de 10", desc:"La revisión semanal es el hábito más subestimado de la productividad. Este libro presenta un sistema completo para implementarla en menos de una hora."},
+  {num:40, title:"Stack de hábitos: Construir el día perfecto", subtitle:"Cómo encadenar hábitos para que funcionen automáticamente", serie:"Serie 4: Hábitos de Alto Rendimiento — Libro 10 de 10", desc:"El encadenamiento de hábitos — hacer que un comportamiento existente active el siguiente — es la técnica más eficaz para construir nuevas rutinas. Este libro explica cómo usarla."},
+  // Serie 5
+  {num:41, title:"Hablar bien: La habilidad que más retorna", subtitle:"Comunicación oral para personas que no son comunicadores naturales", serie:"Serie 5: Comunicación y Relaciones Profesionales — Libro 1 de 10", desc:"La comunicación oral es la habilidad con mayor retorno en cualquier carrera. Este libro enseña a hablar con claridad, confianza y persuasión sin necesitar un talento natural."},
+  {num:42, title:"Escuchar de verdad", subtitle:"Por qué la mayoría escucha para responder, no para entender", serie:"Serie 5: Comunicación y Relaciones Profesionales — Libro 2 de 10", desc:"La escucha activa es la mitad de la comunicación y la mitad que menos se practica. Este libro enseña a escuchar de forma que las personas se sientan realmente entendidas."},
+  {num:43, title:"Escribir claro", subtitle:"Comunicación escrita que convence, informa y no aburre", serie:"Serie 5: Comunicación y Relaciones Profesionales — Libro 3 de 10", desc:"La escritura profesional eficaz sigue principios que se pueden aprender. Este libro los presenta con ejemplos concretos y ejercicios aplicables de inmediato."},
+  {num:44, title:"Negociación sin conflicto", subtitle:"Técnicas de negociación para personas que odian negociar", serie:"Serie 5: Comunicación y Relaciones Profesionales — Libro 4 de 10", desc:"La negociación no es un combate: es un proceso de resolución de problemas. Este libro presenta el método de Harvard y otras técnicas eficaces para quien no es un negociador natural."},
+  {num:45, title:"Feedback que transforma", subtitle:"Cómo dar y recibir retroalimentación sin que nadie se muera", serie:"Serie 5: Comunicación y Relaciones Profesionales — Libro 5 de 10", desc:"El feedback eficaz es una de las herramientas más potentes del desarrollo profesional y también una de las más mal utilizadas. Este libro presenta modelos concretos para darlo y recibirlo bien."},
+  {num:46, title:"Networking auténtico", subtitle:"Construir una red de contactos sin sentirte falso ni transaccional", serie:"Serie 5: Comunicación y Relaciones Profesionales — Libro 6 de 10", desc:"El networking transaccional produce relaciones vacías. Este libro presenta un enfoque de 'dar primero' que construye conexiones reales y duraderas."},
+  {num:47, title:"Gestionar tu reputación profesional", subtitle:"Cómo te perciben los demás y cómo influir en eso", serie:"Serie 5: Comunicación y Relaciones Profesionales — Libro 7 de 10", desc:"La reputación profesional es un activo que se construye o se descuida. Este libro explica los factores que la determinan y cómo gestionarla de forma proactiva."},
+  {num:48, title:"El arte de la presentación", subtitle:"Hablar en público sin morirse de miedo", serie:"Serie 5: Comunicación y Relaciones Profesionales — Libro 8 de 10", desc:"El miedo a hablar en público es el más común de todos. Este libro ofrece un sistema práctico para preparar y ejecutar presentaciones eficaces sin necesitar ser un orador natural."},
+  {num:49, title:"Conflictos en el trabajo", subtitle:"Cómo manejar las tensiones sin destruir las relaciones", serie:"Serie 5: Comunicación y Relaciones Profesionales — Libro 9 de 10", desc:"Los conflictos laborales son inevitables. Lo que determina el resultado es cómo se gestionan. Este libro presenta un modelo de cinco pasos para resolver tensiones preservando las relaciones."},
+  {num:50, title:"Influencia sin autoridad", subtitle:"Cómo conseguir que la gente haga cosas cuando no eres su jefe", serie:"Serie 5: Comunicación y Relaciones Profesionales — Libro 10 de 10", desc:"Influir sin autoridad formal es la habilidad más necesaria en las organizaciones modernas. Este libro presenta los principios de Cialdini y otros marcos aplicables al entorno profesional."},
+  // Serie 6
+  {num:51, title:"Liderazgo sin cargo", subtitle:"Cómo liderar aunque no tengas un título que lo diga", serie:"Serie 6: Liderazgo y Trabajo en Equipo — Libro 1 de 10", desc:"El liderazgo no espera al cargo: se ejerce desde cualquier posición. Este libro presenta los comportamientos específicos que producen influencia independientemente del nivel jerárquico."},
+  {num:52, title:"Delegar de verdad", subtitle:"Por qué no delegas aunque quieras y cómo hacerlo bien", serie:"Serie 6: Liderazgo y Trabajo en Equipo — Libro 2 de 10", desc:"La delegación eficaz es la habilidad de liderazgo más difícil de aprender y la más importante. Este libro explica por qué no funciona y cómo hacerla bien."},
+  {num:53, title:"Motivar sin dinero", subtitle:"Lo que realmente motiva a las personas", serie:"Serie 6: Liderazgo y Trabajo en Equipo — Libro 3 de 10", desc:"La motivación intrínseca es más duradera y más poderosa que la extrínseca. Este libro presenta la ciencia de la motivación y sus aplicaciones prácticas para líderes y equipos."},
+  {num:54, title:"El equipo de alto rendimiento", subtitle:"Cómo construir y mantener equipos que entregan resultados", serie:"Serie 6: Liderazgo y Trabajo en Equipo — Libro 4 de 10", desc:"Google pasó dos años estudiando qué hace que un equipo funcione. Este libro presenta sus conclusiones y las aplica a los equipos de trabajo reales."},
+  {num:55, title:"Cultura de equipo", subtitle:"Por qué la cultura come a la estrategia y cómo construirla", serie:"Serie 6: Liderazgo y Trabajo en Equipo — Libro 5 de 10", desc:"La cultura no es lo que está en los valores de la empresa: es lo que se refuerza con el comportamiento diario. Este libro explica cómo construir y mantener culturas de equipo eficaces."},
+  {num:56, title:"Liderar en la adversidad", subtitle:"Cómo mantener el rumbo cuando todo va mal", serie:"Serie 6: Liderazgo y Trabajo en Equipo — Libro 6 de 10", desc:"Las crisis revelan el liderazgo real. Este libro presenta las habilidades más importantes para liderar en momentos de dificultad sin perder la confianza del equipo."},
+  {num:57, title:"El líder que aprende", subtitle:"Humildad intelectual como ventaja competitiva", serie:"Serie 6: Liderazgo y Trabajo en Equipo — Libro 7 de 10", desc:"Los mejores líderes no son los que más saben: son los que mejor aprenden. Este libro explora la humildad intelectual como ventaja de liderazgo y cómo desarrollarla."},
+  {num:58, title:"Liderar generaciones distintas", subtitle:"Boomers, millennials y Z trabajando juntos", serie:"Serie 6: Liderazgo y Trabajo en Equipo — Libro 8 de 10", desc:"Por primera vez en la historia, cuatro generaciones trabajan juntas. Este libro explora las diferencias reales entre generaciones y cómo aprovecharlas en lugar de gestionarlas como conflicto."},
+  {num:59, title:"El líder agotado", subtitle:"Cómo mantener la energía cuando liderar drena", serie:"Serie 6: Liderazgo y Trabajo en Equipo — Libro 9 de 10", desc:"El liderazgo consume energía de formas que el trabajo individual no consume. Este libro presenta estrategias específicas para que los líderes mantengan su propia energía sin sacrificar el equipo."},
+  {num:60, title:"Liderar el cambio", subtitle:"Cómo conseguir que las personas abracen lo que no pidieron", serie:"Serie 6: Liderazgo y Trabajo en Equipo — Libro 10 de 10", desc:"El cambio organizacional fracasa el 70% de las veces por factores humanos. Este libro presenta el modelo de Kotter y otras herramientas para liderar cambios que la gente realmente adopte."},
+  // Serie 7
+  {num:61, title:"La creatividad no es un talento", subtitle:"Por qué todos pueden ser creativos y cómo activarlo", serie:"Serie 7: Creatividad e Innovación — Libro 1 de 10", desc:"La creatividad no es un don que se tiene o no se tiene: es un proceso que se puede aprender y practicar. Este libro desmonta el mito del talento creativo y presenta sus condiciones."},
+  {num:62, title:"Pensar distinto", subtitle:"Técnicas de pensamiento lateral para resolver problemas de forma nueva", serie:"Serie 7: Creatividad e Innovación — Libro 2 de 10", desc:"Las mismas formas de pensar producen las mismas soluciones. Este libro presenta las técnicas de Edward de Bono y otros para generar perspectivas genuinamente nuevas."},
+  {num:63, title:"La curiosidad como herramienta", subtitle:"Por qué los más innovadores son los más curiosos", serie:"Serie 7: Creatividad e Innovación — Libro 3 de 10", desc:"La curiosidad es la fuerza motriz de la innovación. Este libro explica la neurociencia de la curiosidad y cómo cultivarla como práctica profesional."},
+  {num:64, title:"Brainstorming que funciona", subtitle:"Por qué la mayoría de las sesiones de ideas son un desastre y cómo hacerlas bien", serie:"Serie 7: Creatividad e Innovación — Libro 4 de 10", desc:"El brainstorming convencional tiene más mitos que eficacia real. Este libro presenta las técnicas que sí producen ideas valiosas y explica por qué las más usadas no funcionan."},
+  {num:65, title:"El fracaso como información", subtitle:"Cómo convertir los errores en aprendizaje acelerado", serie:"Serie 7: Creatividad e Innovación — Libro 5 de 10", desc:"Las organizaciones que aprenden del fracaso innovan más rápido. Este libro explica la diferencia entre los tipos de fracaso y cómo construir sistemas que los conviertan en conocimiento."},
+  {num:66, title:"Innovación desde dentro", subtitle:"Cómo introducir nuevas ideas en organizaciones que resisten el cambio", serie:"Serie 7: Creatividad e Innovación — Libro 6 de 10", desc:"El intraemprendimiento —innovar desde dentro de una organización— requiere habilidades específicas. Este libro presenta el mapa del sistema y las estrategias para navegar la resistencia institucional."},
+  {num:67, title:"El pensamiento sistémico", subtitle:"Ver las conexiones que los demás no ven", serie:"Serie 7: Creatividad e Innovación — Libro 7 de 10", desc:"Los problemas complejos no se resuelven con pensamiento lineal. Este libro introduce el pensamiento sistémico: la capacidad de ver bucles de retroalimentación y consecuencias de segundo orden."},
+  {num:68, title:"Prototipar y testear", subtitle:"Dejar de planear y empezar a aprender haciendo", serie:"Serie 7: Creatividad e Innovación — Libro 8 de 10", desc:"El prototipo imperfecto que se testa vale más que el plan perfecto que nunca se prueba. Este libro aplica la filosofía del Lean Startup al trabajo cotidiano."},
+  {num:69, title:"La diversidad que genera ideas", subtitle:"Por qué los equipos diversos piensan mejor", serie:"Serie 7: Creatividad e Innovación — Libro 9 de 10", desc:"La investigación de Scott Page y otros muestra que la diversidad cognitiva mejora la calidad del pensamiento colectivo. Este libro explica por qué y cómo aprovecharla."},
+  {num:70, title:"Rutinas creativas", subtitle:"Cómo crear las condiciones para que las ideas lleguen", serie:"Serie 7: Creatividad e Innovación — Libro 10 de 10", desc:"Las personas más creativas de la historia tenían rutinas rígidas. La creatividad sostenida no viene de la inspiración espontánea: viene de las condiciones que se crean deliberadamente."},
+  // Serie 8
+  {num:71, title:"Aprender a aprender", subtitle:"Las técnicas de aprendizaje más eficaces que nadie enseña en el colegio", serie:"Serie 8: Aprendizaje y Desarrollo Personal — Libro 1 de 10", desc:"La recuperación activa, la práctica espaciada y el entrelazado son las técnicas con mayor evidencia de eficacia. Este libro las explica y enseña a usarlas en el aprendizaje profesional."},
+  {num:72, title:"El aprendizaje ultrarrápido", subtitle:"Cómo adquirir nuevas habilidades en semanas, no en años", serie:"Serie 8: Aprendizaje y Desarrollo Personal — Libro 2 de 10", desc:"Con el método correcto, cualquier persona puede alcanzar un nivel funcional en casi cualquier habilidad en 20-50 horas. Este libro presenta el proceso completo."},
+  {num:73, title:"La práctica deliberada", subtitle:"La diferencia entre practicar y practicar bien", serie:"Serie 8: Aprendizaje y Desarrollo Personal — Libro 3 de 10", desc:"Anders Ericsson pasó décadas estudiando a los mejores expertos del mundo. Lo que encontró fue que la práctica ordinaria y la práctica deliberada producen resultados completamente diferentes."},
+  {num:74, title:"Mentores: El atajo que pocos aprovechan", subtitle:"Cómo encontrar y aprovechar a personas que ya llegaron donde quieres ir", serie:"Serie 8: Aprendizaje y Desarrollo Personal — Libro 4 de 10", desc:"Un mentor puede comprimir en conversaciones el aprendizaje que llevaría años de experiencia solitaria. Este libro explica cómo encontrarlos, cómo pedirles su tiempo y cómo aprovechar la relación."},
+  {num:75, title:"Libros que transforman", subtitle:"Cómo leer libros de no ficción para que realmente cambien algo", serie:"Serie 8: Aprendizaje y Desarrollo Personal — Libro 5 de 10", desc:"La mayoría de la gente lee libros de no ficción de forma pasiva y retiene muy poco. Este libro presenta un sistema de lectura activa que convierte la lectura en aprendizaje real."},
+  {num:76, title:"Cursos online: Cómo no pagar y no terminar", subtitle:"El problema de la educación digital y cómo resolverlo", serie:"Serie 8: Aprendizaje y Desarrollo Personal — Libro 6 de 10", desc:"Las tasas de finalización de los cursos online están entre el 5% y el 15%. Este libro explica por qué y presenta un sistema para comprar, hacer y completar cursos que realmente enseñen."},
+  {num:77, title:"Pensamiento crítico", subtitle:"Cómo evaluar información, detectar sesgos y tomar mejores decisiones", serie:"Serie 8: Aprendizaje y Desarrollo Personal — Libro 7 de 10", desc:"El pensamiento crítico no es desconfiar de todo: es evaluar con criterio. Este libro presenta las herramientas para detectar sesgos, evaluar argumentos y tomar decisiones más racionales."},
+  {num:78, title:"La mente del principiante", subtitle:"Por qué los expertos a veces aprenden menos que los novatos", serie:"Serie 8: Aprendizaje y Desarrollo Personal — Libro 8 de 10", desc:"La experiencia puede ser una trampa. Este libro explora la paradoja de la expertise y cómo mantener la apertura del principiante independientemente del nivel alcanzado."},
+  {num:79, title:"Retroalimentación de la realidad", subtitle:"Cómo usar los resultados como feedback para mejorar", serie:"Serie 8: Aprendizaje y Desarrollo Personal — Libro 9 de 10", desc:"Los resultados son el feedback más honesto disponible. Este libro presenta sistemas concretos para extraer aprendizaje de los resultados, incluyendo la after action review y el diario de aprendizaje."},
+  {num:80, title:"El portafolio de habilidades", subtitle:"Construir la combinación única de competencias que te hace irreemplazable", serie:"Serie 8: Aprendizaje y Desarrollo Personal — Libro 10 de 10", desc:"No es necesario ser el número uno en ninguna habilidad: es más valioso ser el top 25% en tres habilidades complementarias. Este libro explica cómo construir ese portafolio único."},
+  // Serie 9
+  {num:81, title:"Alto rendimiento sostenible", subtitle:"La diferencia entre exprimir y desarrollar", serie:"Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 1 de 10", desc:"El modo velocista produce resultados a corto plazo y colapso a largo plazo. Este libro presenta la ciencia del rendimiento sostenible y un sistema para diseñarlo."},
+  {num:82, title:"El síndrome del burnout en personas de alto rendimiento", subtitle:"Por qué los mejores son los que más riesgo tienen", serie:"Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 2 de 10", desc:"Las personas más comprometidas son paradójicamente las más vulnerables al burnout. Este libro explica las seis fuentes del burnout, sus fases y las estrategias de prevención y recuperación."},
+  {num:83, title:"Gestión del estrés para gente ocupada", subtitle:"Sin meditación de una hora ni retiros de yoga", serie:"Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 3 de 10", desc:"La gestión del estrés eficaz no requiere sesiones largas ni cambios radicales. Este libro presenta técnicas rápidas y basadas en evidencia que se pueden aplicar en cualquier agenda."},
+  {num:84, title:"Las relaciones que sostienen", subtitle:"Por qué las personas de alto rendimiento necesitan su tribu más que nadie", serie:"Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 4 de 10", desc:"El estudio más largo sobre la felicidad humana (80 años, Universidad de Harvard) llegó a una conclusión: la calidad de las relaciones lo determina todo. Este libro explica cómo construirlas y mantenerlas."},
+  {num:85, title:"El descanso estratégico", subtitle:"Por qué descansar bien es parte del rendimiento", serie:"Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 5 de 10", desc:"El descanso no es la ausencia de trabajo: es parte integral del rendimiento. Este libro presenta la ciencia del sueño, la siesta, el ocio de calidad y la recuperación activa."},
+  {num:86, title:"Dejar de ser el héroe", subtitle:"Cómo dejar de hacerlo todo tú y permitir que otros ayuden", serie:"Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 6 de 10", desc:"El heroísmo organizacional parece virtuoso y produce dependencia y agotamiento. Este libro explica las raíces del síndrome del héroe y cómo salir de él."},
+  {num:87, title:"El precio del éxito", subtitle:"Qué se sacrifica en el camino y cómo minimizarlo", serie:"Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 7 de 10", desc:"Todo logro tiene un precio. El problema no es pagarlo: es pagarlo sin haberlo calculado. Este libro presenta un sistema para ser consciente del precio antes de pagarlo."},
+  {num:88, title:"Trabajo y vida: La integración posible", subtitle:"Por qué el equilibrio perfecto no existe y qué funciona en su lugar", serie:"Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 8 de 10", desc:"El equilibrio trabajo-vida perfecto es una ilusión. La integración intencional —diseñar la vida con atención a todas sus dimensiones— sí es posible. Este libro presenta cómo."},
+  {num:89, title:"Sostener la motivación a largo plazo", subtitle:"Cómo no quemarse cuando el camino es largo", serie:"Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 9 de 10", desc:"La motivación inicial siempre se agota. Lo que separa a los que terminan de los que no es el sistema para sostenerla. Este libro lo presenta."},
+  {num:90, title:"El éxito que no llena", subtitle:"Qué pasa cuando logras lo que querías y no te sientes satisfecho", serie:"Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 10 de 10", desc:"La paradoja del logro: muchas personas alcanzan sus objetivos y sienten vacío. Este libro explica por qué ocurre y cómo construir objetivos que produzcan satisfacción real."},
+  // Serie 10
+  {num:91, title:"¿Para qué trabajas?", subtitle:"La pregunta más importante que casi nadie se hace", serie:"Serie 10: Propósito y Éxito a Largo Plazo — Libro 1 de 10", desc:"La mayoría de las personas trabaja sin haberse preguntado honestamente para qué. Este libro guía ese proceso de clarificación con profundidad real."},
+  {num:92, title:"Definir el éxito propio", subtitle:"Deja de perseguir el éxito de otros y diseña el tuyo", serie:"Serie 10: Propósito y Éxito a Largo Plazo — Libro 2 de 10", desc:"La mayoría de las personas opera con una definición de éxito que no eligió. Este libro ofrece un proceso para construir una definición propia que sea honesta, multidimensional y revisable."},
+  {num:93, title:"El legado", subtitle:"Qué quieres que quede cuando no estés", serie:"Serie 10: Propósito y Éxito a Largo Plazo — Libro 3 de 10", desc:"El legado no es algo que se deja al final: se construye en cada interacción cotidiana. Este libro usa la pregunta del legado como brújula para las decisiones del presente."},
+  {num:94, title:"Décadas, no trimestres", subtitle:"Pensar a largo plazo en un mundo que premia lo inmediato", serie:"Serie 10: Propósito y Éxito a Largo Plazo — Libro 4 de 10", desc:"El mundo moderno premia el corto plazo de forma sistemática. Este libro argumenta por el valor del pensamiento de largo plazo y presenta herramientas concretas para practicarlo."},
+  {num:95, title:"Reinvención profesional", subtitle:"Cómo cambiar de carrera sin empezar desde cero", serie:"Serie 10: Propósito y Éxito a Largo Plazo — Libro 5 de 10", desc:"Un cambio de carrera no borra lo construido: lo reutiliza. Este libro explica qué se transfiere de una carrera a otra y cómo gestionar la transición de forma eficaz."},
+  {num:96, title:"La carrera no lineal", subtitle:"Por qué el camino al éxito raramente es en línea recta", serie:"Serie 10: Propósito y Éxito a Largo Plazo — Libro 6 de 10", desc:"Las carreras reales son laberintos, no escaleras. Este libro presenta los principios para navegar una carrera no lineal con intención y sin perder la dirección."},
+  {num:97, title:"Dinero y propósito: Los dos no tienen que ser opuestos", subtitle:"Construir una carrera que pague bien y tenga sentido", serie:"Serie 10: Propósito y Éxito a Largo Plazo — Libro 7 de 10", desc:"La tensión entre dinero y propósito es real pero no inevitable. Este libro explora la intersección entre lo que se ama, lo que el mundo necesita, lo que se hace bien y lo que el mercado paga."},
+  {num:98, title:"Las transiciones de vida", subtitle:"Gestionar los grandes cambios sin perder el norte", serie:"Serie 10: Propósito y Éxito a Largo Plazo — Libro 8 de 10", desc:"Las grandes transiciones —laborales, relacionales, vitales— tienen un proceso interno predecible. Este libro lo explica y presenta herramientas para atravesarlas sin perder la identidad."},
+  {num:99, title:"El plan de vida a 10 años", subtitle:"Cómo diseñar la próxima década intencionalmente", serie:"Serie 10: Propósito y Éxito a Largo Plazo — Libro 9 de 10", desc:"La mayoría de las personas tiene planes de trabajo pero ningún plan de vida. Este libro guía el diseño de una visión de diez años en todas las dimensiones que importan."},
+  {num:100, title:"Vivir con intención", subtitle:"El manifiesto final del Método ACCIÓN", serie:"Serie 10: Propósito y Éxito a Largo Plazo — Libro 10 de 10", desc:"El libro final de la colección. Después de cien libros, una síntesis: qué significa vivir con intención, cuáles son los enemigos de la vida intencional y cuál es la única medida que importa."},
+];
+
+let current = 0;
+let showPortada = true;
+
+function getPalette(num) {
+  return PALETTE[num] || PALETTE[0];
+}
+
+function buildBookHTML(book) {
+  const p = getPalette(book.num);
+  const numLabel = book.num === 0 ? '0' : String(book.num);
+
+  const portadaHTML = `
+    <div class="book-wrapper">
+      <div class="portada" style="background: linear-gradient(145deg, ${p.from}, ${p.to}); color: ${p.text};">
+        <div class="portada-top">
+          <div class="portada-coleccion">Productividad y Éxito Personal</div>
+          <div class="portada-serie">${book.serie}</div>
+          <div class="portada-num" style="color:${p.accent}">${numLabel}</div>
+          <div class="portada-title">${book.title}</div>
+          <div class="portada-subtitle">${book.subtitle}</div>
+        </div>
+        <div class="portada-bottom">
+          <div class="portada-autor">El Método ACCIÓN</div>
+          <div class="portada-metodo" style="color:${p.accent}">● ${book.serie.split('—')[0].trim()}</div>
+        </div>
+        <div class="portada-deco"></div>
+        <div class="portada-deco2"></div>
+      </div>
+      <div class="label-tag">PORTADA</div>
+    </div>`;
+
+  const contraportadaHTML = `
+    <div class="book-wrapper">
+      <div class="contraportada" style="background: linear-gradient(145deg, ${p.to}, ${p.from}); color: ${p.text};">
+        <div class="contra-top">
+          <div class="contra-coleccion">Productividad y Éxito Personal</div>
+          <div class="contra-badge" style="background:${p.accent}20; color:${p.accent}">Libro ${numLabel}</div>
+          <div class="contra-quote">"${book.title}"</div>
+          <div class="contra-desc">${book.desc}</div>
+        </div>
+        <div class="contra-bottom">
+          <div class="contra-serie-info">${book.serie}</div>
+          <div class="contra-isbn" style="color:${p.accent}">El Método ACCIÓN — Colección completa: 100 libros + Libro Madre</div>
+        </div>
+      </div>
+      <div class="label-tag">CONTRAPORTADA</div>
+    </div>`;
+
+  return showPortada ? portadaHTML + contraportadaHTML : contraportadaHTML + portadaHTML;
+}
+
+function render() {
+  const book = books[current];
+  document.getElementById('bookContainer').innerHTML = buildBookHTML(book);
+  document.getElementById('counter').textContent = `${current + 1} / ${books.length}`;
+  document.getElementById('btnPrev').disabled = current === 0;
+  document.getElementById('btnNext').disabled = current === books.length - 1;
+  document.getElementById('bookSelect').value = current;
+}
+
+function next() { if (current < books.length - 1) { current++; render(); } }
+function prev() { if (current > 0) { current--; render(); } }
+function goToBook(idx) { current = parseInt(idx); render(); }
+function toggleView() {
+  showPortada = !showPortada;
+  document.getElementById('toggleBtn').textContent = showPortada ? 'Ver contraportada primero' : 'Ver portada primero';
+  render();
+}
+
+// Build select
+const sel = document.getElementById('bookSelect');
+books.forEach((b, i) => {
+  const opt = document.createElement('option');
+  opt.value = i;
+  opt.textContent = `${b.num === 0 ? 'Libro 0 (Madre)' : 'Libro ' + b.num} — ${b.title}`;
+  sel.appendChild(opt);
+});
+
+// Keyboard navigation
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowRight') next();
+  if (e.key === 'ArrowLeft') prev();
+});
+
+render();
+</script>
+</body>
+</html>

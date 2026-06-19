@@ -1,0 +1,709 @@
+﻿[
+    {
+        "num":  0,
+        "title":  "El Método RESET: El sistema que nadie te enseñó para tener salud real",
+        "subtitle":  "Por qué sabes lo que tienes que hacer y no lo haces, y cómo cambiar eso para siempre",
+        "serie":  "Libro Madre",
+        "archivo":  "El_Metodo_RESET.md"
+    },
+    {
+        "num":  1,
+        "title":  "Tu relación con la comida está rota",
+        "subtitle":  "Por qué fallamos en todas las dietas y cómo salir de ese ciclo para siempre",
+        "serie":  "Serie 1: Alimentación sin dietas — Libro 1 de 10",
+        "archivo":  "01_Tu_relacion_con_la_comida_esta_rota.md"
+    },
+    {
+        "num":  2,
+        "title":  "Come sin culpa",
+        "subtitle":  "Desmontando la cultura de la dieta y el conteo de calorías",
+        "serie":  "Serie 1: Alimentación sin dietas — Libro 2 de 10",
+        "archivo":  "02_Come_sin_culpa.md"
+    },
+    {
+        "num":  3,
+        "title":  "El azúcar y tú",
+        "subtitle":  "Cómo el azúcar controla tu energía, humor y peso sin que lo sepas",
+        "serie":  "Serie 1: Alimentación sin dietas — Libro 3 de 10",
+        "archivo":  "03_El_azucar_y_tu.md"
+    },
+    {
+        "num":  4,
+        "title":  "Proteína: el nutriente que todos subestiman",
+        "subtitle":  "Por qué comer más proteína lo cambia todo",
+        "serie":  "Serie 1: Alimentación sin dietas — Libro 4 de 10",
+        "archivo":  "04_Proteina.md"
+    },
+    {
+        "num":  5,
+        "title":  "Grasas buenas, grasas malas",
+        "subtitle":  "La verdad sobre el aceite, el aguacate, el colesterol y la grasa que de verdad importa evitar",
+        "serie":  "Serie 1: Alimentación sin dietas — Libro 5 de 10",
+        "archivo":  "05_Grasas_buenas_malas.md"
+    },
+    {
+        "num":  6,
+        "title":  "Carbohidratos sin miedo",
+        "subtitle":  "Cuándo y cuáles comer para tener energía sin engordar",
+        "serie":  "Serie 1: Alimentación sin dietas — Libro 6 de 10",
+        "archivo":  "06_Carbohidratos_sin_miedo.md"
+    },
+    {
+        "num":  7,
+        "title":  "El intestino manda",
+        "subtitle":  "Microbiota, probióticos y por qué el segundo cerebro importa más de lo que crees",
+        "serie":  "Serie 1: Alimentación sin dietas — Libro 7 de 10",
+        "archivo":  "07_El_intestino_manda.md"
+    },
+    {
+        "num":  8,
+        "title":  "Comer con prisa en el mundo moderno",
+        "subtitle":  "Nutrición real para personas ocupadas: el sistema que funciona sin horas en la cocina",
+        "serie":  "Serie 1: Alimentación sin dietas — Libro 8 de 10",
+        "archivo":  "08_Comer_con_prisa.md"
+    },
+    {
+        "num":  9,
+        "title":  "Ultraprocesados: Lo que comes sin saber que comes",
+        "subtitle":  "Cómo los alimentos manufacturados secuestran tu salud, tu hambre y tu paladar",
+        "serie":  "Serie 1: Alimentación sin dietas — Libro 9 de 10",
+        "archivo":  "09_Ultraprocesados.md"
+    },
+    {
+        "num":  10,
+        "title":  "Tu peso ideal no es el que crees",
+        "subtitle":  "Composición corporal, músculo y la obsesión con la báscula",
+        "serie":  "Serie 1: Alimentación sin dietas — Libro 10 de 10",
+        "archivo":  "10_Tu_peso_ideal.md"
+    },
+    {
+        "num":  11,
+        "title":  "Empezar a moverse cuando llevas años sin hacerlo",
+        "subtitle":  "El plan de actividad para los sedentarios absolutos que sí funciona",
+        "serie":  "Serie 2: Movimiento y cuerpo — Libro 1 de 10",
+        "archivo":  "11_Empezar_a_moverse.md"
+    },
+    {
+        "num":  12,
+        "title":  "Caminar más: La medicina más infravalorada",
+        "subtitle":  "Por qué el simple acto de caminar lo cambia todo para tu salud",
+        "serie":  "Serie 2: Movimiento y cuerpo — Libro 2 de 10",
+        "archivo":  "12_Caminar_mas.md"
+    },
+    {
+        "num":  13,
+        "title":  "La fuerza que salva vidas",
+        "subtitle":  "Por qué entrenar músculo es lo más importante que puedes hacer por tu salud a largo plazo",
+        "serie":  "Serie 2: Movimiento y cuerpo — Libro 3 de 10",
+        "archivo":  "13_La_fuerza_que_salva_vidas.md"
+    },
+    {
+        "num":  14,
+        "title":  "Estiramientos y movilidad",
+        "subtitle":  "Para no acabar rígido a los 60 como si el cuerpo se hubiera oxidado",
+        "serie":  "Serie 2: Movimiento y cuerpo — Libro 4 de 10",
+        "archivo":  "14_Estiramientos_y_movilidad.md"
+    },
+    {
+        "num":  15,
+        "title":  "Correr sin lesionarse",
+        "subtitle":  "La guía honesta para el corredor popular que quiere durar",
+        "serie":  "Serie 2: Movimiento y cuerpo — Libro 5 de 10",
+        "archivo":  "15_Correr_sin_lesionarse.md"
+    },
+    {
+        "num":  16,
+        "title":  "El dolor de espalda que podría evitarse",
+        "subtitle":  "Las causas reales, los remedios que funcionan y lo que perpetúa el problema",
+        "serie":  "Serie 2: Movimiento y cuerpo — Libro 6 de 10",
+        "archivo":  "16_El_dolor_de_espalda.md"
+    },
+    {
+        "num":  17,
+        "title":  "Deporte con poco tiempo",
+        "subtitle":  "Entrenamientos de 20-30 minutos que dan resultados reales",
+        "serie":  "Serie 2: Movimiento y cuerpo — Libro 7 de 10",
+        "archivo":  "17_Deporte_con_poco_tiempo.md"
+    },
+    {
+        "num":  18,
+        "title":  "El cuerpo después de los 40",
+        "subtitle":  "Cómo cambia el metabolismo y cómo adaptar el ejercicio y la alimentación",
+        "serie":  "Serie 2: Movimiento y cuerpo — Libro 8 de 10",
+        "archivo":  "18_El_cuerpo_despues_de_los_40.md"
+    },
+    {
+        "num":  19,
+        "title":  "Actividad física y enfermedades crónicas",
+        "subtitle":  "Mover el cuerpo cuando duele o cuando hay diagnósticos establecidos",
+        "serie":  "Serie 2: Movimiento y cuerpo — Libro 9 de 10",
+        "archivo":  "19_Actividad_fisica_enfermedades_cronicas.md"
+    },
+    {
+        "num":  20,
+        "title":  "Del sofá a los 5 kilómetros",
+        "subtitle":  "El plan de 12 semanas que sí funciona para empezar a correr",
+        "serie":  "Serie 2: Movimiento y cuerpo — Libro 10 de 10",
+        "archivo":  "20_Del_sofa_a_5km.md"
+    },
+    {
+        "num":  21,
+        "title":  "El sueño que nunca tienes",
+        "subtitle":  "Por qué dormir bien es la base de todo lo demás y cómo conseguirlo",
+        "serie":  "Serie 3: Sueño y descanso — Libro 1 de 10",
+        "archivo":  "21_El_sueno_que_nunca_tienes.md"
+    },
+    {
+        "num":  22,
+        "title":  "Insomnio: Causas reales y soluciones que funcionan",
+        "subtitle":  "Sin pastillas de por vida: el tratamiento que los médicos no siempre tienen tiempo de explicar",
+        "serie":  "Serie 3: Sueño y descanso — Libro 2 de 10",
+        "archivo":  "22_Insomnio.md"
+    },
+    {
+        "num":  23,
+        "title":  "La ciencia del ritmo circadiano",
+        "subtitle":  "Por qué importa a qué hora comes, te mueves y duermes",
+        "serie":  "Serie 3: Sueño y descanso — Libro 3 de 10",
+        "archivo":  "23_La_ciencia_del_ritmo_circadiano.md"
+    },
+    {
+        "num":  24,
+        "title":  "El cansancio que no se va durmiendo",
+        "subtitle":  "Fatiga crónica, tiroides, anemia y otras causas médicas del agotamiento persistente",
+        "serie":  "Serie 3: Sueño y descanso — Libro 4 de 10",
+        "archivo":  "24_El_cansancio_que_no_se_va.md"
+    },
+    {
+        "num":  25,
+        "title":  "Pantallas, luz azul y el robo de tu sueño",
+        "subtitle":  "Cómo la tecnología destruye el descanso y qué hacer al respecto",
+        "serie":  "Serie 3: Sueño y descanso — Libro 5 de 10",
+        "archivo":  "25_Pantallas_y_sueno.md"
+    },
+    {
+        "num":  26,
+        "title":  "Dormir en pareja cuando uno de los dos no deja dormir",
+        "subtitle":  "Ronquidos, apnea y soluciones prácticas para recuperar el descanso compartido",
+        "serie":  "Serie 3: Sueño y descanso — Libro 6 de 10",
+        "archivo":  "26_Dormir_en_pareja.md"
+    },
+    {
+        "num":  27,
+        "title":  "La siesta: De estigma a herramienta",
+        "subtitle":  "Cómo usar el descanso diurno para rendir más, sin arruinar el sueño nocturno",
+        "serie":  "Serie 3: Sueño y descanso — Libro 7 de 10",
+        "archivo":  "27_La_siesta.md"
+    },
+    {
+        "num":  28,
+        "title":  "Dormir con ansiedad",
+        "subtitle":  "Cuando la mente no para y el cuerpo no descansa: herramientas que funcionan",
+        "serie":  "Serie 3: Sueño y descanso — Libro 8 de 10",
+        "archivo":  "28_Dormir_con_ansiedad.md"
+    },
+    {
+        "num":  29,
+        "title":  "El sueño de los hijos y el desvelo de los padres",
+        "subtitle":  "Rutinas de sueño para toda la familia cuando el cansancio amenaza con ser el estado permanente",
+        "serie":  "Serie 3: Sueño y descanso — Libro 9 de 10",
+        "archivo":  "29_El_sueno_de_los_hijos.md"
+    },
+    {
+        "num":  30,
+        "title":  "Recuperación: El descanso activo que también es entrenamiento",
+        "subtitle":  "Más allá del sueño nocturno: todas las formas en que el cuerpo y la mente se reparan",
+        "serie":  "Serie 3: Sueño y descanso — Libro 10 de 10",
+        "archivo":  "30_Recuperacion_descanso_activo.md"
+    },
+    {
+        "num":  31,
+        "title":  "El estrés que te mata despacio",
+        "subtitle":  "Cómo el cortisol crónico destruye tu salud y qué hacer antes de que sea tarde",
+        "serie":  "Serie 4: Mente y emociones — Libro 1 de 10",
+        "archivo":  "31_El_estres_que_te_mata_despacio.md"
+    },
+    {
+        "num":  32,
+        "title":  "Ansiedad sin medicación de por vida",
+        "subtitle":  "Herramientas que funcionan para el día a día cuando la ansiedad no desaparece sola",
+        "serie":  "Serie 4: Mente y emociones — Libro 2 de 10",
+        "archivo":  "32_Ansiedad_sin_medicacion.md"
+    },
+    {
+        "num":  33,
+        "title":  "La depresión que nadie ve",
+        "subtitle":  "Reconocer los síntomas sutiles, salir del estigma y pedir ayuda a tiempo",
+        "serie":  "Serie 4: Mente y emociones — Libro 3 de 10",
+        "archivo":  "33_La_depresion_que_nadie_ve.md"
+    },
+    {
+        "num":  34,
+        "title":  "Mindfulness sin incienso ni postureo",
+        "subtitle":  "Meditación práctica para quien no tiene tiempo, no cree en las modas y necesita resultados reales",
+        "serie":  "Serie 4: Mente y emociones — Libro 4 de 10",
+        "archivo":  "34_Mindfulness_sin_incienso.md"
+    },
+    {
+        "num":  35,
+        "title":  "El burnout que llega sin avisar",
+        "subtitle":  "Reconocer el agotamiento profesional antes de que sea crisis y construir la salida",
+        "serie":  "Serie 4: Mente y emociones — Libro 5 de 10",
+        "archivo":  "35_El_burnout.md"
+    },
+    {
+        "num":  36,
+        "title":  "Emociones y alimentación",
+        "subtitle":  "Por qué comes cuando no tienes hambre y cómo romper el ciclo sin culpa",
+        "serie":  "Serie 4: Mente y emociones — Libro 6 de 10",
+        "archivo":  "36_Emociones_y_alimentacion.md"
+    },
+    {
+        "num":  37,
+        "title":  "La soledad: El factor de riesgo que nadie habla",
+        "subtitle":  "Conexión social y salud física: la ciencia detrás del vínculo más ignorado de la medicina",
+        "serie":  "Serie 4: Mente y emociones — Libro 7 de 10",
+        "archivo":  "37_La_soledad.md"
+    },
+    {
+        "num":  38,
+        "title":  "Tu cerebro bajo presión",
+        "subtitle":  "Cómo el estrés afecta la memoria, la concentración y las decisiones — y qué hacer para proteger el cerebro",
+        "serie":  "Serie 4: Mente y emociones — Libro 8 de 10",
+        "archivo":  "38_Tu_cerebro_bajo_presion.md"
+    },
+    {
+        "num":  39,
+        "title":  "Gestión emocional para personas con enfermedades crónicas",
+        "subtitle":  "Vivir bien cuando el cuerpo duele: herramientas reales para una carga que no desaparece",
+        "serie":  "Serie 4: Mente y emociones — Libro 9 de 10",
+        "archivo":  "39_Gestion_emocional_enfermedades_cronicas.md"
+    },
+    {
+        "num":  40,
+        "title":  "La salud mental es salud",
+        "subtitle":  "Desmontar el estigma, integrar la psicología en el cuidado y construir bienestar psicológico duradero",
+        "serie":  "Serie 4: Mente y emociones — Libro 10 de 10",
+        "archivo":  "40_La_salud_mental_es_salud.md"
+    },
+    {
+        "num":  41,
+        "title":  "Lo que deberías saber antes de que te lo digan en urgencias",
+        "subtitle":  "Signos de alarma que no debes ignorar y cuándo ir al médico sin esperar",
+        "serie":  "Serie 5: Prevención y chequeos — Libro 1 de 10",
+        "archivo":  "41_Lo_que_deberias_saber_antes_de_urgencias.md"
+    },
+    {
+        "num":  42,
+        "title":  "Análisis de sangre: Cómo leer los tuyos",
+        "subtitle":  "Entender los números que el médico no tiene tiempo de explicar en los cinco minutos de consulta",
+        "serie":  "Serie 5: Prevención y chequeos — Libro 2 de 10",
+        "archivo":  "42_Analisis_de_sangre.md"
+    },
+    {
+        "num":  43,
+        "title":  "Tensión arterial: El asesino silencioso",
+        "subtitle":  "Prevenir, controlar y vivir bien con hipertensión — sin fatalismo y con información real",
+        "serie":  "Serie 5: Prevención y chequeos — Libro 3 de 10",
+        "archivo":  "43_Tension_arterial.md"
+    },
+    {
+        "num":  44,
+        "title":  "Colesterol: La historia completa",
+        "subtitle":  "Más allá del número en la analítica: qué importa realmente y qué no",
+        "serie":  "Serie 5: Prevención y chequeos — Libro 4 de 10",
+        "archivo":  "44_Colesterol.md"
+    },
+    {
+        "num":  45,
+        "title":  "Diabetes tipo 2: La epidemia que podemos frenar",
+        "subtitle":  "Prevención, diagnóstico precoz y control sin fatalismo — porque la diabetes tipo 2 no es inevitable",
+        "serie":  "Serie 5: Prevención y chequeos — Libro 5 de 10",
+        "archivo":  "45_Diabetes_tipo_2.md"
+    },
+    {
+        "num":  46,
+        "title":  "El cáncer que podría detectarse antes",
+        "subtitle":  "Cribados, revisiones y factores de riesgo modificables: lo que la ciencia dice que funciona",
+        "serie":  "Serie 5: Prevención y chequeos — Libro 6 de 10",
+        "archivo":  "46_El_cancer_que_podria_detectarse_antes.md"
+    },
+    {
+        "num":  47,
+        "title":  "Medicamentos: Lo que nadie te explica",
+        "subtitle":  "Interacciones, efectos secundarios y cómo gestionar la polimedicación con seguridad",
+        "serie":  "Serie 5: Prevención y chequeos — Libro 7 de 10",
+        "archivo":  "47_Medicamentos_lo_que_nadie_explica.md"
+    },
+    {
+        "num":  48,
+        "title":  "Vacunas para adultos",
+        "subtitle":  "Las que necesitas después de los 40 y por qué la inmunización no termina con la infancia",
+        "serie":  "Serie 5: Prevención y chequeos — Libro 8 de 10",
+        "archivo":  "48_Vacunas_para_adultos.md"
+    },
+    {
+        "num":  49,
+        "title":  "El médico como aliado, no como oráculo",
+        "subtitle":  "Cómo ser un paciente activo, bien informado y capaz de sacar el máximo del sistema sanitario",
+        "serie":  "Serie 5: Prevención y chequeos — Libro 9 de 10",
+        "archivo":  "49_El_medico_como_aliado.md"
+    },
+    {
+        "num":  50,
+        "title":  "Medicina preventiva desde los 30",
+        "subtitle":  "El plan de chequeos, revisiones y hábitos según la edad — porque la prevención no espera a los síntomas",
+        "serie":  "Serie 5: Prevención y chequeos — Libro 10 de 10",
+        "archivo":  "50_Medicina_preventiva_desde_los_30.md"
+    },
+    {
+        "num":  51,
+        "title":  "Por qué los buenos hábitos no duran",
+        "subtitle":  "La neurociencia del cambio de hábitos: por qué fallamos y cómo dejar de hacerlo",
+        "serie":  "Serie 6: Hábitos y rutinas — Libro 1 de 10",
+        "archivo":  "51_Por_que_los_buenos_habitos_no_duran.md"
+    },
+    {
+        "num":  52,
+        "title":  "El hábito más importante que puedes tener",
+        "subtitle":  "La rutina de mañana que lo cambia todo — y cómo construirla sin que sea otra cosa que no puedes sostener",
+        "serie":  "Serie 6: Hábitos y rutinas — Libro 2 de 10",
+        "archivo":  "52_El_habito_mas_importante.md"
+    },
+    {
+        "num":  53,
+        "title":  "Pequeños cambios, grandes resultados",
+        "subtitle":  "El método kaizen aplicado a la salud: por qué los cambios mínimos y consistentes ganan a los grandes y explosivos",
+        "serie":  "Serie 6: Hábitos y rutinas — Libro 3 de 10",
+        "archivo":  "53_Pequenos_cambios_grandes_resultados.md"
+    },
+    {
+        "num":  54,
+        "title":  "Las recaídas no son fracasos",
+        "subtitle":  "Por qué volver a empezar es parte del proceso — y cómo hacerlo sin destruirse en el intento",
+        "serie":  "Serie 6: Hábitos y rutinas — Libro 4 de 10",
+        "archivo":  "54_Las_recaidas_no_son_fracasos.md"
+    },
+    {
+        "num":  55,
+        "title":  "Entorno saludable sin fuerza de voluntad",
+        "subtitle":  "Diseñar tu vida para que las buenas decisiones sean las más fáciles y las malas las más difíciles",
+        "serie":  "Serie 6: Hábitos y rutinas — Libro 5 de 10",
+        "archivo":  "55_Entorno_saludable_sin_fuerza_de_voluntad.md"
+    },
+    {
+        "num":  56,
+        "title":  "El hábito del movimiento",
+        "subtitle":  "Cómo incorporar más actividad en una vida sedentaria sin ir al gimnasio ni tener tiempo extra",
+        "serie":  "Serie 6: Hábitos y rutinas — Libro 6 de 10",
+        "archivo":  "56_El_habito_del_movimiento.md"
+    },
+    {
+        "num":  57,
+        "title":  "La rutina de noche",
+        "subtitle":  "Preparar el cuerpo y la mente para el descanso: el ritual que hace posible el sueño que necesitas",
+        "serie":  "Serie 6: Hábitos y rutinas — Libro 7 de 10",
+        "archivo":  "57_La_rutina_de_noche.md"
+    },
+    {
+        "num":  58,
+        "title":  "Hábitos digitales y salud",
+        "subtitle":  "Gestionar el tiempo de pantalla para vivir mejor: sin demonizar la tecnología y sin dejar que te domine",
+        "serie":  "Serie 6: Hábitos y rutinas — Libro 8 de 10",
+        "archivo":  "58_Habitos_digitales_y_salud.md"
+    },
+    {
+        "num":  59,
+        "title":  "Construir hábitos en familia",
+        "subtitle":  "Cómo alinear a todos en casa hacia una vida más saludable sin convertirlo en una guerra",
+        "serie":  "Serie 6: Hábitos y rutinas — Libro 9 de 10",
+        "archivo":  "59_Construir_habitos_en_familia.md"
+    },
+    {
+        "num":  60,
+        "title":  "El plan de salud para el año",
+        "subtitle":  "Cómo diseñar y seguir un plan de bienestar de 12 meses que realmente funcione en la vida real",
+        "serie":  "Serie 6: Hábitos y rutinas — Libro 10 de 10",
+        "archivo":  "60_El_plan_de_salud_para_el_ano.md"
+    },
+    {
+        "num":  61,
+        "title":  "Envejecer bien: Lo que la ciencia dice que funciona",
+        "subtitle":  "Los pilares de la longevidad saludable — sin pseudociencia y con evidencia real",
+        "serie":  "Serie 7: Longevidad y envejecimiento — Libro 1 de 10",
+        "archivo":  "61_Envejecer_bien.md"
+    },
+    {
+        "num":  62,
+        "title":  "La inflamación crónica que envejece",
+        "subtitle":  "Qué la causa, cómo medirla y cómo reducirla para frenar el deterioro acelerado",
+        "serie":  "Serie 7: Longevidad y envejecimiento — Libro 2 de 10",
+        "archivo":  "62_La_inflamacion_cronica.md"
+    },
+    {
+        "num":  63,
+        "title":  "Sarcopenia: La pérdida de músculo que nadie menciona",
+        "subtitle":  "Por qué el músculo es la clave de la longevidad y cómo preservarlo en cada década de vida",
+        "serie":  "Serie 7: Longevidad y envejecimiento — Libro 3 de 10",
+        "archivo":  "63_Sarcopenia.md"
+    },
+    {
+        "num":  64,
+        "title":  "El cerebro que envejece",
+        "subtitle":  "Prevenir el deterioro cognitivo con ciencia: qué funciona, qué no y qué todavía no sabemos",
+        "serie":  "Serie 7: Longevidad y envejecimiento — Libro 4 de 10",
+        "archivo":  "64_El_cerebro_que_envejece.md"
+    },
+    {
+        "num":  65,
+        "title":  "Las articulaciones y los años",
+        "subtitle":  "Artrosis, movilidad y cómo mantenerla: más allá del \"es la edad\" y el dolor como destino inevitable",
+        "serie":  "Serie 7: Longevidad y envejecimiento — Libro 5 de 10",
+        "archivo":  "65_Las_articulaciones_y_los_anos.md"
+    },
+    {
+        "num":  66,
+        "title":  "Piel sana a cualquier edad",
+        "subtitle":  "Lo que realmente funciona y lo que es marketing: evidencia, no promesas",
+        "serie":  "Serie 7: Longevidad y envejecimiento — Libro 6 de 10",
+        "archivo":  "66_Piel_sana_a_cualquier_edad.md"
+    },
+    {
+        "num":  67,
+        "title":  "La salud ósea después de los 50",
+        "subtitle":  "Osteoporosis, calcio y mucho más que leche: la guía completa para huesos fuertes",
+        "serie":  "Serie 7: Longevidad y envejecimiento — Libro 7 de 10",
+        "archivo":  "67_La_salud_osea_despues_de_los_50.md"
+    },
+    {
+        "num":  68,
+        "title":  "Menopausia sin tabúes",
+        "subtitle":  "Los cambios reales, los síntomas que nadie prepara, y cómo gestionarlos bien",
+        "serie":  "Serie 7: Longevidad y envejecimiento — Libro 8 de 10",
+        "archivo":  "68_Menopausia_sin_tabues.md"
+    },
+    {
+        "num":  69,
+        "title":  "Andropausia: El cambio hormonal masculino que nadie habla",
+        "subtitle":  "Testosterona, energía y salud a partir de los 45 — sin mitos y con evidencia",
+        "serie":  "Serie 7: Longevidad y envejecimiento — Libro 9 de 10",
+        "archivo":  "69_Andropausia.md"
+    },
+    {
+        "num":  70,
+        "title":  "Vivir 100 años en buen estado",
+        "subtitle":  "Las zonas azules, los centenarios y las lecciones reales para el mundo moderno",
+        "serie":  "Serie 7: Longevidad y envejecimiento — Libro 10 de 10",
+        "archivo":  "70_Vivir_100_anos_en_buen_estado.md"
+    },
+    {
+        "num":  71,
+        "title":  "La salud sexual que nadie enseña",
+        "subtitle":  "Educación sexual para adultos: lo que nos faltó aprender y lo que necesitamos saber ahora",
+        "serie":  "Serie 8: Salud sexual y reproductiva — Libro 1 de 10",
+        "archivo":  "71_La_salud_sexual_que_nadie_ensena.md"
+    },
+    {
+        "num":  72,
+        "title":  "Fertilidad: Lo que hay que saber antes de intentarlo",
+        "subtitle":  "Factores de estilo de vida, salud reproductiva y cómo prepararse para el embarazo",
+        "serie":  "Serie 8: Salud sexual y reproductiva — Libro 2 de 10",
+        "archivo":  "72_Fertilidad.md"
+    },
+    {
+        "num":  73,
+        "title":  "El embarazo informado",
+        "subtitle":  "Nutrición, actividad física y bienestar durante los nueve meses — sin mitos y con evidencia",
+        "serie":  "Serie 8: Salud sexual y reproductiva — Libro 3 de 10",
+        "archivo":  "73_El_embarazo_informado.md"
+    },
+    {
+        "num":  74,
+        "title":  "Salud posparto: El cuarto trimestre",
+        "subtitle":  "La recuperación que el sistema olvida: cuerpo, mente y relaciones después del parto",
+        "serie":  "Serie 8: Salud sexual y reproductiva — Libro 4 de 10",
+        "archivo":  "74_Salud_posparto.md"
+    },
+    {
+        "num":  75,
+        "title":  "Anticonceptivos: La guía completa sin ideología",
+        "subtitle":  "Opciones, efectos, comparativa y cómo elegir el método que funciona para ti",
+        "serie":  "Serie 8: Salud sexual y reproductiva — Libro 5 de 10",
+        "archivo":  "75_Anticonceptivos.md"
+    },
+    {
+        "num":  76,
+        "title":  "ITS: Prevención y desestigmatización",
+        "subtitle":  "Sin vergüenza, con información: todo lo que necesitas saber sobre las infecciones de transmisión sexual",
+        "serie":  "Serie 8: Salud sexual y reproductiva — Libro 6 de 10",
+        "archivo":  "76_ITS_prevencion.md"
+    },
+    {
+        "num":  77,
+        "title":  "La salud de la próstata",
+        "subtitle":  "Prevención, hiperplasia benigna y cáncer de próstata sin alarmismo: lo que necesitas saber",
+        "serie":  "Serie 8: Salud sexual y reproductiva — Libro 7 de 10",
+        "archivo":  "77_La_salud_de_la_prostata.md"
+    },
+    {
+        "num":  78,
+        "title":  "Disfunción eréctil: Más que un problema sexual",
+        "subtitle":  "Lo que revela sobre la salud cardiovascular y cómo tratarla de forma integral",
+        "serie":  "Serie 8: Salud sexual y reproductiva — Libro 8 de 10",
+        "archivo":  "78_Disfuncion_erectil.md"
+    },
+    {
+        "num":  79,
+        "title":  "El suelo pélvico: El músculo olvidado",
+        "subtitle":  "Incontinencia, prolapso y disfunción sexual: cómo prevenir y recuperar la función pélvica",
+        "serie":  "Serie 8: Salud sexual y reproductiva — Libro 9 de 10",
+        "archivo":  "79_El_suelo_pelvico.md"
+    },
+    {
+        "num":  80,
+        "title":  "Sexualidad y envejecimiento",
+        "subtitle":  "El deseo, los cambios y cómo mantener una vida sexual satisfactoria en cualquier etapa de la vida",
+        "serie":  "Serie 8: Salud sexual y reproductiva — Libro 10 de 10",
+        "archivo":  "80_Sexualidad_y_envejecimiento.md"
+    },
+    {
+        "num":  81,
+        "title":  "Tóxicos en casa",
+        "subtitle":  "Los productos cotidianos que afectan tu salud y las alternativas reales",
+        "serie":  "Serie 9: Entorno y estilo de vida — Libro 1 de 10",
+        "archivo":  "81_Toxicos_en_casa.md"
+    },
+    {
+        "num":  82,
+        "title":  "La naturaleza como medicina",
+        "subtitle":  "Lo que la ciencia dice sobre el contacto con el entorno natural y la salud",
+        "serie":  "Serie 9: Entorno y estilo de vida — Libro 2 de 10",
+        "archivo":  "82_La_naturaleza_como_medicina.md"
+    },
+    {
+        "num":  83,
+        "title":  "Trabajo, salud y límites",
+        "subtitle":  "El impacto del trabajo en el cuerpo y la mente, y cómo construir límites que protejan tu salud",
+        "serie":  "Serie 9: Entorno y estilo de vida — Libro 3 de 10",
+        "archivo":  "83_Trabajo_salud_y_limites.md"
+    },
+    {
+        "num":  84,
+        "title":  "Relaciones tóxicas y salud",
+        "subtitle":  "El coste corporal de las relaciones que dañan y cómo protegerse",
+        "serie":  "Serie 9: Entorno y estilo de vida — Libro 4 de 10",
+        "archivo":  "84_Relaciones_toxicas_y_salud.md"
+    },
+    {
+        "num":  85,
+        "title":  "El alcohol: La droga más normalizada",
+        "subtitle":  "Qué le hace al cuerpo, cómo funciona la dependencia y cómo reducirlo",
+        "serie":  "Serie 9: Entorno y estilo de vida — Libro 5 de 10",
+        "archivo":  "85_El_alcohol.md"
+    },
+    {
+        "num":  86,
+        "title":  "Dejar de fumar de una vez",
+        "subtitle":  "Lo que funciona según la evidencia, por qué es tan difícil y el plan que más funciona",
+        "serie":  "Serie 9: Entorno y estilo de vida — Libro 6 de 10",
+        "archivo":  "86_Dejar_de_fumar.md"
+    },
+    {
+        "num":  87,
+        "title":  "El sol, la vitamina D y la verdad a medias",
+        "subtitle":  "Cómo exponerse al sol de forma inteligente y qué hay de cierto en el debate sobre la vitamina D",
+        "serie":  "Serie 9: Entorno y estilo de vida — Libro 7 de 10",
+        "archivo":  "87_El_sol_y_la_vitamina_D.md"
+    },
+    {
+        "num":  88,
+        "title":  "El agua que bebes",
+        "subtitle":  "Hidratación, calidad del agua, y los mitos del agua alcalina, el agua estructurada y más",
+        "serie":  "Serie 9: Entorno y estilo de vida — Libro 8 de 10",
+        "archivo":  "88_El_agua_que_bebes.md"
+    },
+    {
+        "num":  89,
+        "title":  "Viajes y salud",
+        "subtitle":  "Cómo mantener los hábitos, prevenir los problemas más frecuentes y volver sintiéndote bien",
+        "serie":  "Serie 9: Entorno y estilo de vida — Libro 9 de 10",
+        "archivo":  "89_Viajes_y_salud.md"
+    },
+    {
+        "num":  90,
+        "title":  "El ruido que enferma",
+        "subtitle":  "Contaminación acústica, tinnitus y cómo proteger la audición y la salud",
+        "serie":  "Serie 9: Entorno y estilo de vida — Libro 10 de 10",
+        "archivo":  "90_El_ruido_que_enferma.md"
+    },
+    {
+        "num":  91,
+        "title":  "La salud como proyecto de vida",
+        "subtitle":  "El manifiesto final del Método RESET",
+        "serie":  "Serie 10: Salud integrativa — Libro 1 de 10",
+        "archivo":  "100_La_salud_como_proyecto_de_vida.md"
+    },
+    {
+        "num":  92,
+        "title":  "Medicina convencional y alternativa: Lo que funciona de cada una",
+        "subtitle":  "Sin dogmas, con evidencia: cómo navegar el panorama de la salud moderna",
+        "serie":  "Serie 10: Salud integrativa — Libro 2 de 10",
+        "archivo":  "91_Medicina_convencional_y_alternativa.md"
+    },
+    {
+        "num":  93,
+        "title":  "Suplementos: Cuáles valen y cuáles son marketing",
+        "subtitle":  "Omega-3, vitamina D, magnesio, probióticos y más: lo que la evidencia dice",
+        "serie":  "Serie 10: Salud integrativa — Libro 3 de 10",
+        "archivo":  "92_Suplementos.md"
+    },
+    {
+        "num":  94,
+        "title":  "El ayuno intermitente sin mitos",
+        "subtitle":  "Lo que la ciencia dice realmente sobre el ayuno, sus beneficios, sus límites y para quién funciona",
+        "serie":  "Serie 10: Salud integrativa — Libro 4 de 10",
+        "archivo":  "93_El_ayuno_intermitente.md"
+    },
+    {
+        "num":  95,
+        "title":  "La crononutrición",
+        "subtitle":  "El impacto de cuándo comes, no solo qué comes: los ritmos circadianos y la alimentación",
+        "serie":  "Serie 10: Salud integrativa — Libro 5 de 10",
+        "archivo":  "94_La_crononutricion.md"
+    },
+    {
+        "num":  96,
+        "title":  "Saunas, baños fríos y recuperación",
+        "subtitle":  "La evidencia detrás de las tendencias: qué funciona, qué es hype y cómo usarlos bien",
+        "serie":  "Serie 10: Salud integrativa — Libro 6 de 10",
+        "archivo":  "95_Saunas_banos_frios_y_recuperacion.md"
+    },
+    {
+        "num":  97,
+        "title":  "Respiración: La herramienta más poderosa que ya tienes",
+        "subtitle":  "Técnicas con evidencia para la salud, el estrés y el rendimiento",
+        "serie":  "Serie 10: Salud integrativa — Libro 7 de 10",
+        "archivo":  "96_Respiracion.md"
+    },
+    {
+        "num":  98,
+        "title":  "El poder del contacto social en la salud",
+        "subtitle":  "Por qué la soledad mata, la conexión sana y cómo construir vínculos que protejan la salud",
+        "serie":  "Serie 10: Salud integrativa — Libro 8 de 10",
+        "archivo":  "97_El_poder_del_contacto_social.md"
+    },
+    {
+        "num":  99,
+        "title":  "Propósito y salud",
+        "subtitle":  "La ciencia de para qué vivir como factor de longevidad y bienestar",
+        "serie":  "Serie 10: Salud integrativa — Libro 9 de 10",
+        "archivo":  "98_Proposito_y_salud.md"
+    },
+    {
+        "num":  100,
+        "title":  "El plan de salud para los próximos 10 años",
+        "subtitle":  "Integrar todo en un sistema personal: el mapa completo de la salud preventiva",
+        "serie":  "Serie 10: Salud integrativa — Libro 10 de 10",
+        "archivo":  "99_El_plan_de_salud_para_los_proximos_10_anos.md"
+    }
+]

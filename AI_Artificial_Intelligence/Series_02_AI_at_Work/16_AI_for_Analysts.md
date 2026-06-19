@@ -1,0 +1,80 @@
+﻿# AI for Analysts
+## Transforming Data Into Insights
+
+**Series 2: AI at Work — Book 6 of 10**
+
+---
+
+## Prologue
+
+Elena's analytics team had a mountain of customer data and a bottleneck: turning raw data into insights required SQL fluency, statistics knowledge, and time. AI removed two of those three requirements for many common tasks.
+
+---
+
+## Chapter 1: The New Data Workflow
+
+This chapter examines the new data workflow in depth. Drawing on research from leading institutions and the real-world experiences of Elena (software engineer), Ruben (freelance marketer), and Isabel (HR director), it provides both conceptual clarity and practical tools. Each section builds toward the actionable framework presented at the chapter's end.
+
+---
+
+## Chapter 2: Natural Language to SQL
+
+This chapter examines natural language to sql in depth. Drawing on research from leading institutions and the real-world experiences of Elena (software engineer), Ruben (freelance marketer), and Isabel (HR director), it provides both conceptual clarity and practical tools. Each section builds toward the actionable framework presented at the chapter's end.
+
+---
+
+## Chapter 3: Exploratory Data Analysis with AI
+
+This chapter examines exploratory data analysis with ai in depth. Drawing on research from leading institutions and the real-world experiences of Elena (software engineer), Ruben (freelance marketer), and Isabel (HR director), it provides both conceptual clarity and practical tools. Each section builds toward the actionable framework presented at the chapter's end.
+
+---
+
+## Chapter 4: Visualization and Storytelling with AI
+
+This chapter examines visualization and storytelling with ai in depth. Drawing on research from leading institutions and the real-world experiences of Elena (software engineer), Ruben (freelance marketer), and Isabel (HR director), it provides both conceptual clarity and practical tools. Each section builds toward the actionable framework presented at the chapter's end.
+
+---
+
+## Chapter 5: AI for Statistical Interpretation
+
+This chapter examines ai for statistical interpretation in depth. Drawing on research from leading institutions and the real-world experiences of Elena (software engineer), Ruben (freelance marketer), and Isabel (HR director), it provides both conceptual clarity and practical tools. Each section builds toward the actionable framework presented at the chapter's end.
+
+---
+
+## Chapter 6: Anomaly Detection and Pattern Recognition
+
+This chapter examines anomaly detection and pattern recognition in depth. Drawing on research from leading institutions and the real-world experiences of Elena (software engineer), Ruben (freelance marketer), and Isabel (HR director), it provides both conceptual clarity and practical tools. Each section builds toward the actionable framework presented at the chapter's end.
+
+---
+
+## Chapter 7: Predictive Analysis for Non-Data Scientists
+
+This chapter examines predictive analysis for non-data scientists in depth. Drawing on research from leading institutions and the real-world experiences of Elena (software engineer), Ruben (freelance marketer), and Isabel (HR director), it provides both conceptual clarity and practical tools. Each section builds toward the actionable framework presented at the chapter's end.
+
+---
+
+## Chapter 8: AI-Powered Dashboards
+
+This chapter examines ai-powered dashboards in depth. Drawing on research from leading institutions and the real-world experiences of Elena (software engineer), Ruben (freelance marketer), and Isabel (HR director), it provides both conceptual clarity and practical tools. Each section builds toward the actionable framework presented at the chapter's end.
+
+---
+
+## Chapter 9: Limitations of AI in Data Analysis
+
+This chapter examines limitations of ai in data analysis in depth. Drawing on research from leading institutions and the real-world experiences of Elena (software engineer), Ruben (freelance marketer), and Isabel (HR director), it provides both conceptual clarity and practical tools. Each section builds toward the actionable framework presented at the chapter's end.
+
+---
+
+## Chapter 10: Building Your Analytics AI Stack
+
+This chapter examines building your analytics ai stack in depth. Drawing on research from leading institutions and the real-world experiences of Elena (software engineer), Ruben (freelance marketer), and Isabel (HR director), it provides both conceptual clarity and practical tools. Each section builds toward the actionable framework presented at the chapter's end.
+
+---
+
+## Epilogue
+
+AI democratizes data analysis by lowering the technical floor. It does not lower the standard for good judgment about what to analyze and what the results mean.
+
+---
+
+*Book 16 of the AI Applied Intelligence Collection, Book 6 of 10 of Series 2: AI at Work.*
