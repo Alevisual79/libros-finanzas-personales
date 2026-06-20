@@ -1,5 +1,5 @@
-﻿# The Number
-## Calculating Your Financial Independence Target
+# The Number
+## Calculating Exactly What You Need to Retire
 
 **Series 6: Financial Freedom — Book 1 of 10**
 
@@ -7,73 +7,143 @@
 
 ## Prologue
 
-This is Book 1 of Series 6: Financial Freedom, examining the number through behavioral finance research, practical frameworks, and the real money situations of Elena, Ruben, and Isabel.
+Elena had been staring at the retirement calculator on her laptop for twenty minutes when she finally closed it in frustration. The problem wasn't that the tool was hard to use — it was that she didn't know what to put in the most important field. "Annual spending in retirement." She'd been guessing $50,000, then $60,000, then $45,000, and each number produced a wildly different "amount you need to save." The difference between her high and low guesses was $375,000. How could she build a plan around a target she couldn't even estimate to within $375,000? She pushed the laptop aside and went to get another cup of coffee, feeling the particular frustration of someone who wants to be responsible but doesn't know where to start.
+
+Ruben had a similar moment of clarity — or anti-clarity — when a freelance friend mentioned he was targeting $1.2 million to retire. Ruben had no idea where that number came from. Was it based on something real, or just a round figure that felt big enough to feel safe? He made $80 an hour and billed roughly 1,200 hours a year, so his gross income was around $96,000. After self-employment tax and business expenses, his net was closer to $70,000. He spent most of it. If he needed $1.2 million, and he was currently saving maybe $8,000 a year, the math looked impossible. He started wondering whether retirement was even a realistic goal for someone like him.
+
+Isabel knew her number better than most people, but she'd arrived at it backward. She'd been told by a financial advisor she saw once, seven years ago, that she needed $1 million. She'd built her entire savings plan around that figure. But she was 52 now, with only $18,000 in retirement savings, and she'd been telling herself the $1 million target was close enough to meaningful to keep using. Recently, though, she'd started running her own calculations, and the more she dug into them, the more she suspected $1 million might actually be too low — or possibly too high — depending on how her mortgage situation resolved and when she planned to stop working. She needed a framework, not a round number someone had given her years ago.
+
+This book is about building that framework. "The Number" — your personal financial independence target — is not a guess, a fantasy, or a number you borrow from someone else's plan. It is a specific figure derived from your actual spending, your realistic timeline, and your honest assessment of what your life will cost. Getting it right doesn't guarantee you'll reach it. But getting it wrong guarantees you'll either undersave and run out of money, or oversave and sacrifice years of your life to a target that was never necessary. This book will show you how to calculate it precisely.
 
 ---
 
-## Chapter 1: The Foundation
+## Chapter 1: Why Most People Get the Number Wrong
 
-This chapter covers the foundation with research from behavioral economics and personal finance, including practical steps you can take this week.
+The single most common mistake in retirement planning is starting with a round number. One million dollars. Two million dollars. "Enough to live comfortably." These targets feel meaningful because they're large and because we've heard them repeated in enough magazine articles and TV segments to associate them with safety. But they're not derived from anything real. A person who spends $30,000 a year needs a fundamentally different retirement portfolio than someone who spends $90,000 a year — yet both might have been told, by the same generic calculator, to "aim for a million."
 
----
+The second most common mistake is conflating gross income with retirement spending. People who earn $78,000 often assume they'll need to replace $78,000 in retirement. But income and spending are not the same thing. Out of that $78,000, a significant portion goes to taxes, retirement contributions, commuting costs, work-related expenses, and savings. The actual lifestyle spending — the spending that defines what your life feels like day to day — might be closer to $45,000 or $50,000. That's a meaningful difference. A $45,000 annual spending target requires a portfolio of approximately $1.125 million at a 4% withdrawal rate. A $78,000 target requires $1.95 million. Confusing the two numbers doesn't just change your math — it changes whether your retirement plan is achievable.
 
-## Chapter 2: The Research
+The third mistake is treating the number as static. Your retirement spending will not be uniform across decades. Early retirement typically involves higher spending — travel, new projects, active exploration. Mid-retirement often involves lower spending as the novelty settles and activity levels decrease. Late retirement can spike spending again due to healthcare costs. A single target number that ignores this spending arc will produce a plan that's either too conservative in the early years or dangerously underfunded in the later ones. The most accurate retirement plans model at least three phases of spending: active early retirement, quieter mid-retirement, and high-healthcare late retirement.
 
-This chapter covers the research with research from behavioral economics and personal finance, including practical steps you can take this week.
-
----
-
-## Chapter 3: Key Concepts
-
-This chapter covers key concepts with research from behavioral economics and personal finance, including practical steps you can take this week.
+Elena's first assignment to herself was to look at her actual bank and credit card statements for the last twelve months — not to feel guilty about them, just to see them clearly. What she found surprised her. Her total spending was about $52,000 per year, which meant she was saving roughly $26,000 on her $78,000 salary — a savings rate she hadn't consciously planned but had stumbled into. Of that $52,000, about $8,000 was work-related: commuting, business clothes, lunches near the office. In retirement, that would disappear. So her actual baseline lifestyle spending was closer to $44,000. That was her starting point for calculating the number — not her income, not a guess, not someone else's round figure. Her real spending, stripped of work-related costs, adjusted for what she actually needed to live.
 
 ---
 
-## Chapter 4: Common Mistakes
+## Chapter 2: The 25x Rule — The Foundation of the Number
 
-This chapter covers common mistakes with research from behavioral economics and personal finance, including practical steps you can take this week.
+The most durable framework in retirement planning is called the 25x rule, and it derives from research known as the Trinity Study. In 1998, three professors at Trinity University analyzed historical market data going back to 1926 to determine what percentage of a portfolio a retiree could withdraw annually while maintaining high confidence the portfolio would survive thirty years. Their conclusion: a 4% annual withdrawal rate, when applied to a diversified portfolio of stocks and bonds, had succeeded in approximately 95% of all thirty-year periods in the historical record.
 
----
+The practical implication of the 4% rule is elegant: if you multiply your annual spending by 25, you get the portfolio size required to sustain that spending indefinitely at the 4% rate. If you spend $50,000 per year, you need $1.25 million. If you spend $40,000, you need $1 million. If you spend $60,000, you need $1.5 million. The formula is Portfolio = Annual Spending × 25. This is the bedrock calculation behind almost every financial independence target, and understanding it — deeply, not just as a formula to plug numbers into — is the most important step in figuring out your number.
 
-## Chapter 5: Practical Tools
+Several important caveats apply. The 4% rule was calibrated for a thirty-year retirement horizon — someone retiring at 65 and living to 95. For someone retiring at 45 or 50, the portfolio needs to last forty or fifty years, which changes the math. Research by Wade Pfau and others suggests that for a forty-year horizon, a safer withdrawal rate is closer to 3.5%, meaning the multiplier becomes approximately 28-29x instead of 25x. For a fifty-year horizon, 3.25% is more appropriate, meaning a multiplier of about 30-31x. Earlier retirees need bigger portfolios, not just because they're out of the workforce longer, but because they face more sequence-of-returns risk — the danger of a major market downturn in the early years of retirement, before the portfolio has had time to establish a long withdrawal record.
 
-This chapter covers practical tools with research from behavioral economics and personal finance, including practical steps you can take this week.
-
----
-
-## Chapter 6: Elena's Situation
-
-This chapter covers elena's situation with research from behavioral economics and personal finance, including practical steps you can take this week.
+The 25x rule also assumes a specific asset allocation: roughly 60% stocks and 40% bonds, or similar diversified mixes. A portfolio that's 100% bonds historically fails far more often; a portfolio that's 100% stocks succeeds more often but with more volatility. Most financial planners recommend gradually shifting toward more bonds as you age, but the specific blend matters. For the purposes of calculating your number, the 25x formula gives you a reliable starting point, and you can adjust the multiplier based on your planned retirement age and risk tolerance. Ruben, who is 34 and hoping to have options by 55, used a 28x multiplier when running his initial calculation — conservative enough to account for a longer horizon without being so aggressive that the target felt hopelessly out of reach.
 
 ---
 
-## Chapter 7: Ruben's Situation
+## Chapter 3: What Actually Goes Into Your Retirement Budget
 
-This chapter covers ruben's situation with research from behavioral economics and personal finance, including practical steps you can take this week.
+Building an accurate retirement budget is harder than it sounds, because you're not just projecting today's expenses into the future — you're projecting a different version of your life. Some costs will disappear entirely: commuting, work clothing, payroll taxes. Others will increase significantly: healthcare, travel, hobbies with more time to pursue them. And some costs that seem permanent turn out not to be — if your mortgage is paid off before you retire, that line item disappears, freeing up cash flow you may not have fully accounted for.
 
----
+The clearest way to build a retirement budget is to use five categories. First, housing: mortgage or rent, property taxes, utilities, maintenance, and insurance. If your mortgage will be paid off, replace that payment with a maintenance and property-tax line (typically 1-2% of home value per year). Second, food and daily living: groceries, dining, personal care, clothing. These costs often stay relatively flat in retirement. Third, healthcare: this is the category most people underestimate. The average retired couple in the US spends approximately $315,000 on healthcare over the course of retirement, according to Fidelity's annual healthcare cost estimate. Before Medicare kicks in at 65, healthcare costs can run $700-$1,500 per month for marketplace insurance depending on your state and health status. Fourth, transportation: one car instead of two, less frequent replacement, lower insurance. Fifth, lifestyle: travel, entertainment, hobbies, gifts, charitable giving. This is where retirement spending varies most dramatically from person to person.
 
-## Chapter 8: Isabel's Situation
+Isabel ran this exercise for herself and arrived at a retirement budget of $62,000 per year in today's dollars. Her housing costs were low — by retirement, her mortgage would be paid off, leaving only taxes, insurance, and maintenance at roughly $8,400 per year. Food and daily living came to about $18,000. Healthcare was the surprise: she'd budgeted $14,400 per year, knowing she'd need to cover it privately from retirement until Medicare at 65, and even after Medicare, premiums, copays, and uncovered expenses would likely run $6,000-$8,000 per year. Transportation was $5,000. Lifestyle — the travel and cultural activities she'd been deferring during her working years — was $16,200. The total, $62,000, translated to a target of $1.55 million at the 25x rule. That was very different from the $1 million she'd been told to target. The difference wasn't trivial: it represented eleven more years of aggressive saving at her current contribution rate.
 
-This chapter covers isabel's situation with research from behavioral economics and personal finance, including practical steps you can take this week.
-
----
-
-## Chapter 9: Implementation Steps
-
-This chapter covers implementation steps with research from behavioral economics and personal finance, including practical steps you can take this week.
+The importance of healthcare in this calculation cannot be overstated. Americans who retire before 65 must bridge the gap between their employer's health coverage and Medicare using either COBRA (typically expensive and time-limited), marketplace insurance through the ACA exchange, a spouse's employer plan, or part-time work that offers benefits. A family of two considering early retirement at 55 might face $24,000-$36,000 per year in healthcare premiums alone during the pre-Medicare years — a cost that dwarfs almost every other retirement expense. The ACA marketplace offers subsidies based on income, which means a retired couple drawing down investments strategically to keep their income below certain thresholds can significantly reduce their healthcare costs. This interplay between investment income and ACA subsidies is one of the reasons advanced tax planning is inseparable from retirement planning for early retirees.
 
 ---
 
-## Chapter 10: Your Action Plan
+## Chapter 4: Inflation — The Invisible Tax on Your Number
 
-This chapter covers your action plan with research from behavioral economics and personal finance, including practical steps you can take this week.
+A retirement budget calculated in today's dollars will purchase less over time. The historical average inflation rate in the United States is approximately 3% per year, meaning the purchasing power of a dollar roughly halves every 24 years. If you retire at 62 planning to spend $60,000 per year and inflation averages 3%, that same lifestyle will cost you $81,000 per year at age 74 and $109,000 per year at age 86. A plan that doesn't account for this trajectory will leave you spending down your principal far faster than projected.
+
+There are several ways to handle inflation in your number calculation. The most common approach is to use real (inflation-adjusted) returns for your investment projections. Nominal stock market returns have historically averaged about 10% per year for the S&P 500; real returns, after subtracting inflation, average about 7%. If you're building a model of how your portfolio grows toward your target, using 7% instead of 10% automatically accounts for inflation without requiring you to inflate your spending estimates year by year. This approach — keeping everything in today's dollars — simplifies the calculation and reduces the risk of arithmetic errors from chaining percentage adjustments over forty years.
+
+Social Security is a form of inflation protection. Benefits are adjusted annually via the Cost of Living Adjustment (COLA), which is tied to the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W). For someone who begins collecting Social Security at 67, the full retirement age for those born in 1960 and later, that inflation indexing provides a meaningful floor under retirement income. The longer you delay Social Security — up to age 70 — the higher your benefit, and the more powerful that inflation-indexed floor becomes. Delaying from 67 to 70 increases your monthly benefit by approximately 8% per year, or 24% total. For someone who expects to live into their 80s or 90s, this delay is often the highest-return financial decision available to them.
+
+Ruben thought about inflation differently than most people his age. As a freelancer, he'd had to raise his rates multiple times just to maintain his lifestyle as business costs increased. He understood viscerally that money doesn't hold its value. When he ran his retirement number, he was careful to use real returns rather than nominal ones. He also built a 10% cushion into his annual spending estimate specifically for inflation creep — the tendency for costs to rise in ways that don't show up immediately in your budget. His working number was $42,000 per year in today's dollars (he lives frugally and owns nothing extravagant), which at 28x for a 55-year-old early retiree translated to a target of approximately $1.176 million. He rounded it to $1.2 million — not because round numbers are accurate, but because the uncertainty in his projections was larger than the rounding error.
+
+---
+
+## Chapter 5: Sources of Retirement Income — What Offsets the Number
+
+Your retirement portfolio target is not the only source of income you'll have in retirement. Most Americans will receive Social Security. Some will have pensions. Some will have rental income, part-time earnings, or business income that continues after they stop their primary career. Every dollar of guaranteed annual income that you'll receive in retirement reduces the portfolio you need to build by $25 (at the 25x rule). This is one of the most important and often overlooked elements of calculating your number accurately.
+
+Social Security benefits vary widely based on your earnings history and when you claim. You can get a personalized estimate at ssa.gov using your actual earnings record. A person who earned an average salary throughout their career and claims at 67 might receive $1,800-$2,200 per month, or $21,600-$26,400 per year. If your retirement spending target is $50,000 per year and Social Security will cover $22,000, your portfolio only needs to generate $28,000 — meaning you need a portfolio of $700,000 instead of $1.25 million. That's a $550,000 difference that many people fail to incorporate into their planning because they don't think concretely about Social Security as a real income stream.
+
+A pension is even more powerful. State and local government employees, some teachers, military retirees, and workers in certain industries still receive defined benefit pensions — guaranteed monthly payments that last for life, often with inflation adjustments. A firefighter who retires at 52 with a pension paying $3,500 per month has the equivalent of a $1.05 million income-generating asset (using the 4% rule: $42,000/year ÷ 0.04 = $1.05 million). Many public employees dramatically undervalue their pensions when calculating their retirement needs, leading them to either panic about savings they don't actually need, or fail to appreciate how valuable their pension is compared to private-sector alternatives.
+
+Isabel's calculation changed significantly when she incorporated Social Security. Her estimated benefit at 67 was $2,100 per month, or $25,200 per year. Subtracted from her $62,000 spending target, her portfolio needed to generate only $36,800 per year — requiring a portfolio of $920,000 rather than $1.55 million. She would also get some Social Security income before 67 if she retired at 62, but at a reduced rate. The interplay between her retirement date, her Social Security claiming strategy, and her portfolio withdrawal strategy turned out to be more complex than she'd initially thought — but the core insight was powerful: Social Security alone reduced her portfolio target by $630,000. She wasn't as far behind as she'd feared. She was actually in a manageable position, if she stayed focused.
+
+---
+
+## Chapter 6: Elena Calculates Her Number
+
+Elena spent a Saturday afternoon with a spreadsheet, a cup of tea, and twelve months of bank statements. She was systematic about it in a way she hadn't been before, because she'd finally understood that vague planning produces vague results. She worked through each category methodically: housing ($18,000/year including rent, she intended to buy in the next few years so she modeled a paid-off home by 65), food and daily living ($14,400), healthcare ($9,600 pre-Medicare and $7,200 after), transportation ($4,800), and lifestyle ($12,000 including a small travel budget and her interest in photography and cooking classes). Her total came to $58,800 per year in today's dollars, which she rounded to $59,000 for planning purposes.
+
+At 25x — appropriate for a standard age-65 retirement — Elena's number was $1.475 million. At her Social Security estimate of $1,650 per month at 67 (her earnings history was solid but not exceptional), she'd receive $19,800 per year. That reduced her portfolio requirement to $39,200 per year, meaning a portfolio of $980,000 would suffice. She was 33, had her IRA newly opened with about $4,000 in it, and had no 401k from her current employer yet. She had roughly 32 years until she turned 65. If she invested $1,500 per month in a diversified index fund earning a real 7% annual return, her portfolio would grow to approximately $2.1 million by age 65 — well above her $980,000 target. She didn't need to invest $1,500 a month. She needed to invest about $700 per month to hit her number, with room to grow her contributions as her income increased.
+
+That realization — that she didn't need to invest as much as she'd feared — changed something for Elena. Retirement had always felt like a problem she'd deal with "someday." Now it felt like a problem she'd already half-solved without fully realizing it. She earned $78,000 per year, had reasonable expenses, and needed to reliably invest $700 per month to reach financial independence by 65. That was $8,400 per year. Her Roth IRA contribution limit was $7,000 per year. The gap between her current annual contribution capacity and her target was small — she could close it with her first raise or a small shift in spending. The number had gone from an abstract source of anxiety to a concrete, achievable destination.
+
+The exercise also surfaced something she hadn't expected: she didn't actually want to stop working at 65. She liked her work in marketing. What she wanted was the option to stop — the ability to leave a bad boss, take a sabbatical, or shift to a nonprofit without financial terror. Financial independence and retirement are not the same thing. The number she was calculating wasn't a date at which her life would begin — it was an insurance policy against her life being controlled by financial necessity. That reframe was perhaps more valuable than any of the calculations. Elena started calling it "freedom capital" instead of "retirement savings." The goal felt different when she named it more accurately.
+
+---
+
+## Chapter 7: Ruben Builds His Number from Irregular Income
+
+Ruben's situation required extra steps that employees don't face. His income wasn't $80,000 per year in any stable sense — it was $80 per hour times however many hours he could bill, minus business expenses, minus the self-employment tax that employees don't pay (15.3% on net self-employment income up to $160,200, then 2.9% above that). His actual tax burden was meaningfully higher than an employee earning the same gross amount. This made his savings rate calculations more complex, and it made his number harder to pin down because his income itself varied.
+
+He started with his spending. His actual annual expenses were $41,600 — he tracked them carefully because freelancers have to manage cash flow. That included rent ($14,400), food ($7,200), business expenses he wouldn't have in retirement ($3,600, which he subtracted), transportation ($3,600), health insurance ($4,800, a category he'd need forever but that might change shape in retirement), and lifestyle ($8,000 including occasional travel and gear for his hobby of landscape photography). Stripping out business expenses, his retirement spending baseline was $38,000 per year. At 28x — accounting for a target retirement age of around 55 — his number was $1.064 million. He rounded to $1.1 million.
+
+The self-employment structure gave Ruben tools that employees don't have. As a sole proprietor, he could contribute to a Solo 401(k) — a retirement account available to self-employed individuals that allows contributions up to $69,000 per year in 2024 (both the employee contribution up to $23,000 and an employer contribution of up to 25% of net self-employment income). At his income level, he could shelter approximately $32,000-$36,000 per year from taxes in a Solo 401(k) — far more than the standard 401(k) limit. This created a powerful double benefit: tax-deferred growth on a larger base, and a lower adjusted gross income that reduced his federal and self-employment tax burden in the present. His accountant had mentioned the Solo 401(k) once in passing; after building his number, Ruben realized it was one of the most important financial tools available to him, and he hadn't been using it.
+
+If Ruben contributed $30,000 per year to a Solo 401(k) starting today, earning a real 7% return, he'd have approximately $1.4 million at age 55. That was above his target of $1.1 million — which meant his timeline might actually be 52 or 53, not 55. But Ruben was also realistic: freelance income isn't guaranteed, and there would be years when work was slow and contributions fell short. He added a buffer by targeting $1.3 million rather than $1.1 million, and he set his formal target retirement age at 55 to give himself room without setting an impossible goal. The framework was working. He had a specific number ($1.3 million), a specific timeline (21 years), and a specific annual contribution requirement (roughly $25,000-$30,000 per year). The uncertainty in his income was real, but the framework for navigating it was clear.
+
+---
+
+## Chapter 8: Isabel Refines an Existing Estimate
+
+Isabel had lived with a $1 million retirement target for seven years. It had been given to her by a financial advisor she'd seen briefly, and she'd accepted it without the deeper work of actually building a retirement budget and running the math herself. When she finally did that work — at 52, with $18,000 in savings and a 9-year mortgage remaining — the results were both more encouraging and more sobering than she'd expected.
+
+More encouraging: once she incorporated Social Security ($25,200/year at 67), her portfolio needed to generate only $36,800/year to cover her $62,000 spending target. That implied a portfolio of $920,000 — less than the $1 million she'd been told, and more achievable. Her mortgage being paid off in 9 years was also a structural advantage: after that, her required investment was freeing up $1,800/month in cash flow that she could redirect entirely to savings. Her plan, starting at 53 when the mortgage was almost gone, was to contribute aggressively to her 401(k) and a taxable brokerage account simultaneously.
+
+More sobering: $18,000 was a very small starting point for someone 13 years from a planned retirement at 65. To reach $920,000 starting from $18,000 in 13 years with a 7% real return, she'd need to contribute approximately $4,800 per month — or $57,600 per year. Her gross income was strong, but that contribution rate was aggressive. It required her to save approximately 65% of her take-home pay, which wasn't realistic while she still had a mortgage payment. The realistic plan was a phased approach: contribute $2,000-$2,500 per month for the next 9 years while paying the mortgage, then jump to $5,000-$6,000 per month once the mortgage cleared, and also carefully manage her Social Security claiming strategy to maximize her benefit at 67. The math was tight but doable, and more importantly it was real — built on her actual numbers rather than a placeholder target someone else had given her.
+
+Isabel also realized she had an asset she'd overlooked: her home. By the time she retired at 65, her home would be paid off and worth substantially more than her purchase price. If she chose to downsize in retirement — move to a smaller home or a lower-cost area — she could potentially free up $200,000-$300,000 in equity that could supplement her portfolio. That wasn't a plan she was committed to, and she loved her home, but it was a real option that made her financial picture more flexible than the pure portfolio math suggested. The number, in other words, is not just about your portfolio — it's about your whole balance sheet.
+
+---
+
+## Chapter 9: Adjustments, Buffers, and Flexibility
+
+No retirement number is exactly right. The future is uncertain in ways that make precise projections impossible: market returns will vary, inflation will not be exactly 3%, healthcare costs will move in ways no one can predict, and your own preferences about how you want to live will change. The purpose of calculating your number is not to arrive at a figure that will be precisely correct — it is to give yourself a starting point accurate enough to make good decisions, and a framework for updating as circumstances change.
+
+There are several adjustments worth building into your base number. First, a buffer for sequence-of-returns risk: if you retire and the market drops 40% in your first two years, your portfolio may not recover in time to sustain the withdrawal rate you planned. Having one to two years of expenses in cash or short-term bonds — a "cash buffer" — lets you avoid selling stocks at depressed prices during downturns. This cash buffer isn't part of your invested number; it's an additional layer of security on top of your portfolio target. Second, a buffer for unexpected expenses: major home repairs, medical crises, family emergencies. A 10-15% cushion on your retirement budget is not extravagance; it's realistic planning. Third, flexibility in your withdrawal rate: being willing to reduce spending by 10-15% during market downturns significantly extends portfolio longevity in backtesting scenarios.
+
+The concept of "variable withdrawals" is worth understanding. A strict 4% withdrawal — $40,000 per year from a $1 million portfolio, regardless of market conditions — is the simplest version of the 4% rule, but not the most robust. More sophisticated approaches include the Kitces "ratchet" method (never withdraw more than 4%, but increase the dollar amount when the portfolio grows significantly above target), the "guardrails" approach (set an upper and lower withdrawal trigger that adjusts spending based on portfolio performance), and the "floor and upside" approach (identify your non-negotiable expenses, cover them with guaranteed income, and use portfolio withdrawals only for discretionary spending). Any of these approaches is more resilient than rigid, fixed withdrawals.
+
+**Immediate Exercise:** Pull your last twelve months of credit card and bank statements. Categorize every expense into five buckets: housing, food/daily, healthcare, transportation, lifestyle. Sum each category. Now subtract any work-related expenses that would disappear in retirement (commuting, work clothes, professional meals, work subscriptions). Add $500/month ($6,000/year) as a healthcare buffer if you don't have a concrete estimate. That total is your retirement spending baseline. Multiply by 25 to get your portfolio target. Then go to ssa.gov, create an account, and look up your projected Social Security benefit at 67. Multiply that annual benefit by 25 and subtract the result from your portfolio target. What remains is the portfolio you actually need to build. Write that number down. Look at it. That is your number.
+
+---
+
+## Chapter 10: Building the Plan to Reach Your Number
+
+Calculating your number is the beginning, not the end. Once you have a target, the next question is: how do you get there? The answer involves three variables: how much you save per month, what return your investments earn, and how many years you have. Of these, the one under your greatest control is the monthly savings amount. Returns are uncertain; time is finite; savings rate is a choice you make every month.
+
+The most powerful framework for building toward your number is the savings rate cascade. Start by maxing your most tax-efficient accounts first. If your employer offers a 401(k) with a match, contribute at least enough to capture the full match — that's an immediate 50-100% return on the matched contribution, which no investment can beat. After the match, consider a Roth IRA if you're within the income limits ($161,000 for single filers in 2024). Roth contributions grow tax-free and withdrawals are tax-free in retirement — a powerful advantage for someone who expects to be in a higher bracket later, or who wants flexibility around Social Security and RMDs. After maxing the Roth IRA, return to the 401(k) to max the annual contribution limit ($23,000 in 2024). If you still have capacity beyond that, open a taxable brokerage account for additional investment.
+
+The specific account types matter because taxes are a major variable in whether you actually reach your number. A dollar in a Roth IRA is worth more than a dollar in a traditional 401(k) because the Roth dollar will never be taxed again. A dollar in a traditional 401(k) will be taxed at your ordinary income rate in retirement. The optimal mix of Roth vs. traditional accounts depends on your current tax bracket, your expected retirement income, and your projected Social Security and other income. A common strategy for mid-income earners is to prioritize Roth contributions in lower-income years and traditional (pre-tax) contributions in higher-income years, smoothing out the tax hit over time.
+
+Your number will change as your life changes. Get married, and your spending and income dynamics shift. Have children, and costs rise significantly. Pay off a mortgage, and your cash flow increases. Receive an inheritance. Get a promotion. Move to a lower-cost city. Every major life change is an opportunity to recalculate, update your target, and adjust your savings plan. The investors who reach financial independence are rarely the ones who made one perfect calculation at age 30 and never revisited it — they're the ones who returned to the exercise every year or two, updated their assumptions, and recalibrated their behavior accordingly. The number is not a destination. It is a navigation tool. Use it regularly.
 
 ---
 
 ## Epilogue
 
-Financial security is not built with one big decision. It is built with many small ones, made consistently over time. This book gives you the framework for making them.
+Elena, Ruben, and Isabel all ended this process with something they hadn't had before: a number that was theirs. Not a round figure someone else suggested, not a guess, but a calculation built from their actual lives. Elena's was approximately $980,000 in portfolio assets. Ruben's was $1.3 million. Isabel's was $920,000, though with a path that required renegotiating her timeline and contribution levels with her current reality. None of these numbers were certain. Markets move, expenses change, plans evolve. But having a target based on real inputs gave each of them something generalized financial advice cannot: a basis for making specific decisions.
+
+The next book in this series examines FIRE — Financial Independence, Retire Early — the movement built around accelerating this process dramatically. You've now calculated what you need. The question becomes: how fast can you get there, and is speed the right optimization? Some people will look at their number and want to reach it as quickly as possible. Others will want to optimize for the journey, not just the destination. Both approaches are valid. The framework you've built in this chapter makes it possible to evaluate them honestly.
+
+Financial independence is not a retirement plan. It is a life plan. Your number is where the math ends and the real choices begin.
 
 ---
 
