@@ -69,7 +69,7 @@ def _book_num(md_path):
 def _parse_md_header(md_path):
     """Return (title, subtitle, series_line) from first 6 lines of markdown."""
     title = subtitle = series_line = ""
-    with open(md_path, encoding="utf-8") as f:
+    with open(md_path, encoding="utf-8-sig") as f:  # utf-8-sig strips BOM
         for i, line in enumerate(f):
             line = line.strip()
             if not title and line.startswith("# "):
