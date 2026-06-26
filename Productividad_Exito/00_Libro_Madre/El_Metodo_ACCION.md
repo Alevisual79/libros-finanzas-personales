@@ -6,6 +6,14 @@
 
 ---
 
+*Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
+
+---
+
+> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+
+---
+
 ## Prólogo: El problema que nadie nombra
 
 Elena trabaja doce horas al día. Llega a casa agotada, con la sensación de haber corrido todo el día sin llegar a ninguna parte. La bandeja de entrada, siempre llena. Los proyectos importantes, siempre postergados por lo urgente. Los fines de semana, una mezcla de culpa (debería estar trabajando) y agotamiento (necesito descansar).
@@ -204,3 +212,17 @@ Pero eso está al final. Por ahora, empieza por donde duele.
 ---
 
 *Este es el Libro 0 de la colección Productividad y Éxito, el libro introductorio del Método ACCIÓN.*
+
+---
+
+*Libro Madre de la Colección Productividad y Éxito — 100 libros en 10 series.*
+
+---
+
+*Si este libro te ha resultado útil, considera dejar una reseña en Amazon. Solo lleva un minuto y marca una gran diferencia para los autores independientes.*
+
+---
+
+## Sobre el Autor
+
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

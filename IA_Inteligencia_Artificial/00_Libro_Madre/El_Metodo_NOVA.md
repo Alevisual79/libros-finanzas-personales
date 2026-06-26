@@ -7,6 +7,14 @@
 
 ---
 
+*Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
+
+---
+
+> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+
+---
+
 ## Prólogo: Tres personas ante la misma revolución
 
 Elena tiene 34 años y trabaja como ingeniera de software en una empresa de servicios financieros. Lleva seis meses usando IA en su trabajo diario y siente que ha multiplicado su capacidad por tres. Pero también siente una angustia que no sabe muy bien cómo nombrar: ¿qué pasa cuando la IA pueda hacer lo que ella hace mejor que ella?
@@ -251,4 +259,14 @@ Esta colección es para los que eligen lo segundo.
 
 ---
 
-*Libro Madre de la colección Inteligencia Artificial Aplicada. 100 libros en 10 series que cubren desde los fundamentos de la IA hasta sus implicaciones más profundas para la humanidad.*
+*Libro Madre de la colección Inteligencia Artificial Aplicada — 100 libros en 10 series.*
+
+---
+
+*Si este libro te ha resultado útil, considera dejar una reseña en Amazon. Solo lleva un minuto y marca una gran diferencia para los autores independientes.*
+
+---
+
+## Sobre el Autor
+
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
