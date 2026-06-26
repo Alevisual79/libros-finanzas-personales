@@ -1,0 +1,21 @@
+# Generated binary assets — tracked separately (cloud storage / KDP upload)
+# Do NOT commit images or EPUBs to git (repo size would exceed GitHub limits)
+
+# Cover images (1,414 JPGs @ ~2MB each)
+**/Covers/images/
+**/Portadas/images/
+
+# EPUB manuscripts (1,414 files @ ~150KB each)
+**/*.epub
+
+# Temporary pandoc CSS
+_epub_style.css
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
