@@ -1,4 +1,4 @@
-﻿# The Art of the Presentation
+# The Art of the Presentation
 ## How to design and deliver talks that people actually remember
 
 **Series 5: Communication and Relationships — Book 8 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -127,7 +127,13 @@ The team update: the team update presentation has different conventions: shorter
 
 The TED-style talk: the TED format — the eighteen-minute single-idea talk designed for a broad non-specialist audience — is the most demanding presentation format in terms of the story architecture and delivery quality it requires. Its influence on professional presentation expectations (shorter, more narrative, better designed) has been significant; the principles it embodies (one clear idea, compelling story, visual support, polished delivery) are increasingly the standard that professional audiences bring to all presentation contexts.
 
-**Practical Exercise — The Presentation Postmortem:** After your next presentation, conduct a structured self-review: (1) Did the audience change their thinking, feeling, or plans in the way you intended? (2) What was the opening's effectiveness? (3) Was the throughline clear throughout? (4) Which visual elements worked? Which were confusing? (5) How was your handling of questions? Rate each dimension 1-10. Identify the one change that would most improve the next presentation.
+**Practical Exercise — The Presentation Postmortem:** After your next presentation, conduct a structured self-review:
+
+1. Did the audience change their thinking, feeling, or plans in the way you intended?
+2. What was the opening's effectiveness?
+3. Was the throughline clear throughout?
+4. Which visual elements worked? Which were confusing?
+5. How was your handling of questions? Rate each dimension 1-10. Identify the one change that would most improve the next presentation.
 
 ---
 

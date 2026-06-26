@@ -1,4 +1,4 @@
-﻿# Professional Reinvention
+# Professional Reinvention
 ## The research and practice of successful career transformation
 
 **Series 10: Purpose and Long-Term Success — Book 5 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -73,7 +73,13 @@ The transferable capability identification: the research on career change and ca
 
 The capability gap analysis: alongside the transferable capabilities, the successful reinvention requires the specific identification of the capability gaps — the capabilities that the new domain requires that the professional does not currently possess and that the reinvention period must develop. The capability gap analysis produces the specific learning agenda that the reinvention requires and allows the professional to assess the realistic timeline for reaching the competence level that the new domain requires.
 
-**Practical Exercise — The Reinvention Exploration Design:** If you are considering or anticipating a professional reinvention, design a six-month exploration plan: (1) What are the two or three possible professional directions that are most compelling to you? (2) For each: What is the smallest, lowest-stakes engagement that would provide genuine firsthand experience of the direction? (3) What communities of practice would you need to engage to test the community fit? (4) What capabilities would you need to develop to be genuinely competitive in each direction? (5) What is the narrative that would connect your current professional identity to each possible future one?
+**Practical Exercise — The Reinvention Exploration Design:** If you are considering or anticipating a professional reinvention, design a six-month exploration plan:
+
+1. What are the two or three possible professional directions that are most compelling to you?
+2. For each: What is the smallest, lowest-stakes engagement that would provide genuine firsthand experience of the direction?
+3. What communities of practice would you need to engage to test the community fit?
+4. What capabilities would you need to develop to be genuinely competitive in each direction?
+5. What is the narrative that would connect your current professional identity to each possible future one?
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# La deuda de estudiar: Préstamos universitarios y cómo salir
+# La deuda de estudiar: Préstamos universitarios y cómo salir
 
 ## Para los que empezaron su vida adulta con el contador en negativo
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Life Transitions
+# Life Transitions
 ## The research on navigating the major changes that professional and personal life produce
 
 **Series 10: Purpose and Long-Term Success — Book 8 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -71,7 +71,11 @@ The control restoration: the research on involuntary transitions consistently fi
 
 The identity robustness: the research on involuntary transition outcomes consistently finds that the professionals with the most robust long-term recovery are those with the broader, more complex professional identities — the identities that are grounded in multiple domains, values, and capabilities rather than in the single role that the involuntary transition has eliminated. The professional with a rich, multi-dimensional identity has more of the identity remaining after the role loss than the professional whose identity was concentrated entirely in the lost role.
 
-**Practical Exercise — The Transition Mapping:** Identify the most significant professional transition you have experienced. Map it against the Bridges model: (1) Ending: What specifically did you lose, and how well did you acknowledge and process that loss? (2) Neutral Zone: How long did you spend in the disorienting "between" phase, and what did you do in it? (3) New Beginning: How did the new professional identity emerge, and how complete is that emergence? Based on this retrospective mapping, what would you do differently in a future transition?
+**Practical Exercise — The Transition Mapping:** Identify the most significant professional transition you have experienced. Map it against the Bridges model:
+
+1. Ending: What specifically did you lose, and how well did you acknowledge and process that loss?
+2. Neutral Zone: How long did you spend in the disorienting "between" phase, and what did you do in it?
+3. New Beginning: How did the new professional identity emerge, and how complete is that emergence? Based on this retrospective mapping, what would you do differently in a future transition?
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Leading Across Generations
+# Leading Across Generations
 ## Understanding and leveraging the generational diversity of the modern team
 
 **Series 6: Leadership and Teams — Book 8 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -25,7 +25,11 @@ The generational diversity was a leadership resource, not a leadership problem. 
 
 The contemporary professional team often spans three or four generational cohorts — Baby Boomers (born 1946-1964), Generation X (born 1965-1980), Millennials (born 1981-1996), and Generation Z (born 1997-2012) — whose members entered the workforce in substantially different economic, technological, and cultural contexts that shaped their professional orientations and expectations.
 
-The research caution: the research on generational differences in the workplace is more contested and more nuanced than the popular management literature typically suggests. The most rigorous analyses (including meta-analyses by Twenge and colleagues, and critiques by Costanza and colleagues) find that many of the generational differences that popular accounts describe are (a) smaller in magnitude than popularly represented, (b) partially explained by life stage differences that are not specifically generational, and (c) subject to substantial individual variation within generations that makes generational stereotyping unreliable as a management tool.
+The research caution: the research on generational differences in the workplace is more contested and more nuanced than the popular management literature typically suggests. The most rigorous analyses (including meta-analyses by Twenge and colleagues, and critiques by Costanza and colleagues) find that many of the generational differences that popular accounts describe are (
+
+a) smaller in magnitude than popularly represented, (
+b) partially explained by life stage differences that are not specifically generational, and (
+c) subject to substantial individual variation within generations that makes generational stereotyping unreliable as a management tool.
 
 The practical middle ground: the practical implications of the research findings are: generational cohort membership provides weak statistical signals about individuals' professional preferences — signals that are useful as very rough priors but that must be updated substantially with each specific person's actual expressed preferences and behaviors. The leader who leads based on generational generalizations will make predictable errors; the leader who understands the generational context but leads based on individual assessment will be more effective.
 

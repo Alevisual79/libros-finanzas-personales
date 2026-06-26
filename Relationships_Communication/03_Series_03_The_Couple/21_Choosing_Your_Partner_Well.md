@@ -1,4 +1,4 @@
-﻿# Choosing Your Partner Well
+# Choosing Your Partner Well
 ## What nobody told you about choosing the right person
 
 **Series 3: The Couple — Book 1 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -93,7 +93,12 @@ The psychologist Daniel Kahneman's framework for decision-making distinguishes b
 
 The deliberate engagement of System 2 thinking in partner selection — the explicit asking of the important questions before the commitment is made — is not the suppression of the emotional reality but its complement. "What kind of partner is this person when they are under stress?" "What are the things about them that most consistently frustrate me, and can I live with those things for the rest of my life?" "Who am I when I am with them, and is that the person I want to be?"
 
-**Practical Exercise — The Long View:** Think of the person you are in a relationship with, or someone you are considering a serious relationship with. Write answers to the following: (1) Who do I become when I am with this person — is that a version of myself I respect and value? (2) What are the perpetual conflicts we already have, and can I imagine navigating those conflicts for decades? (3) What does this person bring to my life that I genuinely couldn't find elsewhere? (4) What does my most clear-eyed self, rather than my most in-love self, think about this relationship?
+**Practical Exercise — The Long View:** Think of the person you are in a relationship with, or someone you are considering a serious relationship with. Write answers to the following:
+
+1. Who do I become when I am with this person — is that a version of myself I respect and value?
+2. What are the perpetual conflicts we already have, and can I imagine navigating those conflicts for decades?
+3. What does this person bring to my life that I genuinely couldn't find elsewhere?
+4. What does my most clear-eyed self, rather than my most in-love self, think about this relationship?
 
 ---
 

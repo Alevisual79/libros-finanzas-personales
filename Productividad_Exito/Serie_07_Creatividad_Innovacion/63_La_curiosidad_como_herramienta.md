@@ -1,4 +1,4 @@
-﻿# La curiosidad como herramienta
+# La curiosidad como herramienta
 
 ## Por qué los más innovadores son los más curiosos
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -150,7 +150,7 @@ La curiosidad activa el aprendizaje. El aprendizaje genera nuevas preguntas que 
 **La diferencia:**
 La persona que aprende por obligación o por miedo aprende lo necesario para cumplir. La persona que aprende desde la curiosidad aprende más allá de lo requerido porque el proceso en sí produce satisfacción.
 
-El mentor le decía a sus protegidos: "El costo de la ignorancia siempre supera al del aprendizaje. Pero el aprendizaje motivado por la curiosidad no se siente cómo un costo."
+El mentor le decía a sus protegidos: "El costo de la ignorancia siempre supera al del aprendizaje. Pero el aprendizaje motivado por la curiosidad no se siente como un costo."
 
 ---
 

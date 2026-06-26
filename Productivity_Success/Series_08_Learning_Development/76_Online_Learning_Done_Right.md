@@ -1,4 +1,4 @@
-﻿# Online Learning Done Right
+# Online Learning Done Right
 ## The strategies that convert digital courses into genuine capability
 
 **Series 8: Learning and Development — Book 6 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -89,7 +89,12 @@ The application plan design: the most effective application planning for online 
 
 The implementation timeline: the research on learning and application finds a critical window: the learning is most likely to be applied in the period immediately following the course completion — when the motivation is highest and the memory is freshest. The learner who defers application planning to "when I have time to think about it" is allowing the critical window to close without action. The application plan completed before the course ends is substantially more likely to be executed than the application plan intended for the post-course period.
 
-**Practical Exercise — The Course Redesign:** For the most recent online course you completed (or the most recent one you have started and stalled): (1) Re-examine the course with the specific professional challenge that is most relevant to its content; (2) Identify the three specific concepts from the course that are most directly applicable to that challenge; (3) Design a specific two-week application experiment based on those concepts; (4) Find one accountability partner who will ask about your implementation in two weeks. Compare this level of engagement to your original course approach.
+**Practical Exercise — The Course Redesign:** For the most recent online course you completed (or the most recent one you have started and stalled):
+
+1. Re-examine the course with the specific professional challenge that is most relevant to its content;
+2. Identify the three specific concepts from the course that are most directly applicable to that challenge;
+3. Design a specific two-week application experiment based on those concepts;
+4. Find one accountability partner who will ask about your implementation in two weeks. Compare this level of engagement to your original course approach.
 
 ---
 

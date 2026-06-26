@@ -1,4 +1,4 @@
-﻿# Taxes for the Self-Employed
+# Taxes for the Self-Employed
 ## What you owe, when you owe it, and how to pay less legally
 
 **Series 05: Business Finance — Book 5 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -37,7 +37,10 @@ Employees don't file tax returns and send a check in April because their taxes a
 
 The quarterly estimated tax payment schedule for federal taxes: payments are due April 15 (for income earned January through March), June 15 (April through May), September 15 (June through August), and January 15 (September through December). State estimated tax payment schedules vary by state. Each payment should approximate one-quarter of the expected annual tax liability.
 
-The safe harbor rule: the IRS won't impose an underpayment penalty if the taxpayer has paid in advance either (a) at least ninety percent of the current year's actual tax liability, or (b) one hundred percent of the prior year's actual tax liability (110% for high-income taxpayers). The prior year safe harbor is the simpler to apply: if Zoe paid in quarterly installments what she owed in her first year of business, she would be protected from underpayment penalties regardless of whether her current year income was higher.
+The safe harbor rule: the IRS won't impose an underpayment penalty if the taxpayer has paid in advance either (
+
+a) at least ninety percent of the current year's actual tax liability, or (
+b) one hundred percent of the prior year's actual tax liability (110% for high-income taxpayers). The prior year safe harbor is the simpler to apply: if Zoe paid in quarterly installments what she owed in her first year of business, she would be protected from underpayment penalties regardless of whether her current year income was higher.
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Mindfulness for Wellbeing
+# Mindfulness for Wellbeing
 ## How Present-Moment Awareness Transforms Mental Health
 
 **Series 7: Depression and Mental Wellbeing — Book 7 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -47,7 +47,10 @@ Functional neuroimaging studies document that experienced meditators show differ
 
 Mindfulness-Based Stress Reduction (MBSR), developed by Jon Kabat-Zinn at the University of Massachusetts Medical School in 1979, is the clinical mindfulness program with the most extensive evidence base. The eight-week program includes weekly two-and-a-half-hour group sessions, a full-day silent retreat, and home practice of 45 minutes per day. The core practices are the body scan, sitting meditation, and mindful movement (gentle yoga).
 
-The MBSR evidence base now encompasses thousands of studies and numerous meta-analyses. For psychological outcomes: meta-analyses by Grossman and colleagues (2004) and Hofmann and colleagues (2010) document significant effects on depression, anxiety, and psychological distress in clinical and non-clinical populations. The effects are consistently significant, generally in the moderate range (d = 0.4-0.7), and maintained at follow-up assessments. The effects are comparable to those of active treatments (exercise, pharmacotherapy) for the populations studied.
+The MBSR evidence base now encompasses thousands of studies and numerous meta-analyses. For psychological outcomes: meta-analyses by Grossman and colleagues
+
+2004. and Hofmann and colleagues
+2010. document significant effects on depression, anxiety, and psychological distress in clinical and non-clinical populations. The effects are consistently significant, generally in the moderate range (d = 0.4-0.7), and maintained at follow-up assessments. The effects are comparable to those of active treatments (exercise, pharmacotherapy) for the populations studied.
 
 For physical health outcomes: MBSR has documented effects on chronic pain (significant reductions in pain intensity and pain-related disability), immune function (increased antibody titers following vaccine challenge in meditators), psoriasis (faster clearing in meditators versus non-meditators under phototherapy), and cardiovascular risk markers. The physical health research reflects the mind-body integration that makes mindfulness more than a psychological intervention: stress reduction through mindfulness produces downstream physical health benefits through the physiological pathways (HPA axis, inflammatory) that connect psychological stress to physical health outcomes.
 

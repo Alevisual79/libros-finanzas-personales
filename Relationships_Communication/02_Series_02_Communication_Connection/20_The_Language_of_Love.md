@@ -1,4 +1,4 @@
-﻿# The Language of Love
+# The Language of Love
 ## How to express affection in ways the other person can receive
 
 **Series 2: Communication and Connection — Book 10 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -95,7 +95,11 @@ Gifts, as a love language, are about the symbolic communication of care — the 
 
 The distinction is between the gift that says "I know you" and the gift that says "I fulfilled the social obligation of gift-giving." The first is powerful; the second may be pleasant but carries little relational weight. The person for whom gifts are a primary love language is not, typically, materialistic — they are responsive to the attention and thoughtfulness that the right gift communicates.
 
-**Practical Exercise — Discovering Your Love Language:** For the primary close relationship in your life, answer the following questions: (1) What does your partner do or say that makes you feel most loved? (2) What do you most often request from your partner? (3) What do you most often complain is absent from the relationship? The answers typically point toward the primary love language. Then ask: How does my partner most naturally express love? Is it different from how I most easily receive it? If so, what conversation would help?
+**Practical Exercise — Discovering Your Love Language:** For the primary close relationship in your life, answer the following questions:
+
+1. What does your partner do or say that makes you feel most loved?
+2. What do you most often request from your partner?
+3. What do you most often complain is absent from the relationship? The answers typically point toward the primary love language. Then ask: How does my partner most naturally express love? Is it different from how I most easily receive it? If so, what conversation would help?
 
 ---
 

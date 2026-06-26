@@ -1,4 +1,4 @@
-﻿# The Ten-Year Life Plan
+# The Ten-Year Life Plan
 ## A structured approach to designing the professional decade ahead
 
 **Series 10: Purpose and Long-Term Success — Book 9 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -37,7 +37,12 @@ The implementation intention research: the research by Peter Gollwitzer on "impl
 
 The specific framework most useful for the ten-year life plan is the life design approach developed by Bill Burnett and Dave Evans of the Stanford d.school — an approach that applies the principles of design thinking to the design of the individual professional's life.
 
-The design principles: the life design framework applies several design thinking principles to the life planning challenge: (1) the "wayfinding" approach that replaces the "planning" approach — navigating toward the destination through iterative exploration rather than following a predetermined route; (2) the "prototyping" practice that tests possible life directions through small, low-stakes experiments rather than large irreversible commitments; (3) the "reframing" practice that identifies and challenges the assumptions that constrain the perceived possibilities; and (4) the "radical collaboration" practice that engages others in the life design process rather than treating it as an exclusively individual exercise.
+The design principles: the life design framework applies several design thinking principles to the life planning challenge:
+
+1. the "wayfinding" approach that replaces the "planning" approach — navigating toward the destination through iterative exploration rather than following a predetermined route;
+2. the "prototyping" practice that tests possible life directions through small, low-stakes experiments rather than large irreversible commitments;
+3. the "reframing" practice that identifies and challenges the assumptions that constrain the perceived possibilities; and
+4. the "radical collaboration" practice that engages others in the life design process rather than treating it as an exclusively individual exercise.
 
 The three alternative plans: the life design framework's most distinctive practical tool is the "three alternative plans" exercise — the deliberate development of three distinct, viable ten-year plans rather than the single plan that the conventional planning approach produces. The development of three alternatives specifically prevents the premature commitment to a single direction that the psychological closure drive produces, maintains the optionality that the uncertain future requires, and surfaces the values trade-offs that the comparison of alternatives makes visible.
 
@@ -71,7 +76,14 @@ The relationship portfolio: the research on professional success and relationshi
 
 The generative relationship focus: the relationship investment plan most consistent with the legacy and contribution orientation of this series is the plan that emphasizes the generative relationships — the relationships through which the professional contributes to the development of others as the primary purpose, rather than the relationships valued primarily for what they produce for the professional. The research on generativity and relationship wellbeing consistently finds that the generative orientation toward relationships is more sustainably satisfying and more productive of long-term professional outcomes than the extractive orientation.
 
-**Practical Exercise — The Ten-Year Life Plan:** Using the following structure, develop your ten-year life plan: (1) Values statement: The three to five values that the plan must express. (2) Ten-year vision: A specific description of professional contribution, relationships, and life quality in ten years. (3) Capability gap analysis: The specific capabilities, relationships, and experiences the vision requires that are not yet in your portfolio. (4) Three-year capability target: The specific portfolio you need to have developed in three years. (5) One-year priorities: The specific investments, activities, and commitments for the coming year that are most important for the ten-year plan's progress. (6) Next month's actions: The three to five specific actions you will take in the next month to begin the plan's implementation. Review the plan quarterly; revise it annually.
+**Practical Exercise — The Ten-Year Life Plan:** Using the following structure, develop your ten-year life plan:
+
+1. Values statement: The three to five values that the plan must express.
+2. Ten-year vision: A specific description of professional contribution, relationships, and life quality in ten years.
+3. Capability gap analysis: The specific capabilities, relationships, and experiences the vision requires that are not yet in your portfolio.
+4. Three-year capability target: The specific portfolio you need to have developed in three years.
+5. One-year priorities: The specific investments, activities, and commitments for the coming year that are most important for the ten-year plan's progress.
+6. Next month's actions: The three to five specific actions you will take in the next month to begin the plan's implementation. Review the plan quarterly; revise it annually.
 
 ---
 

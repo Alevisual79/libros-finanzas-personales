@@ -1,4 +1,4 @@
-﻿# Failure as Information
+# Failure as Information
 ## The creative and professional value of learning from what doesn't work
 
 **Series 7: Creativity and Innovation — Book 5 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -103,7 +103,12 @@ The resilience research: the research on resilience — the capacity to recover 
 
 The failure recovery timeline: the psychological research on recovery from failure experiences finds substantial individual variation in the time required to restore the emotional equilibrium and the cognitive clarity that productive response requires. The professional who attempts to learn from failure before the emotional recovery has occurred is attempting a cognitive activity under emotional load that is likely to produce defensive rather than honest analysis. The emotional recovery is not a delay before the learning; it is the prerequisite for the quality of learning that failure makes available.
 
-**Practical Exercise — The Failure Audit:** Identify three professional failures or significant disappointments from the past two years. For each: (1) What assumption did the failure reveal as incorrect? (2) What did you learn that you did not know before? (3) What did you change as a result? (4) If you were designing it as an experiment, how would you have structured it to extract more learning? This audit converts past failures retroactively into learning resources.
+**Practical Exercise — The Failure Audit:** Identify three professional failures or significant disappointments from the past two years. For each:
+
+1. What assumption did the failure reveal as incorrect?
+2. What did you learn that you did not know before?
+3. What did you change as a result?
+4. If you were designing it as an experiment, how would you have structured it to extract more learning? This audit converts past failures retroactively into learning resources.
 
 ---
 
@@ -119,7 +124,11 @@ The exploration-exploitation balance: the organizational learning literature dis
 
 ## Chapter 9: Raj After the Launch Failure
 
-Raj's retrospective re-examination of the failed product launch — initiated eighteen months after the fact, when the organizational urgency to move past it had subsided — produced the most valuable learning of his product development career. The failure had revealed: (1) the team's assumption about the primary customer pain point had been wrong in a specific, traceable way; (2) the development process had not included a mechanism for testing that assumption before the full product commitment; (3) two of the team's subsequent product initiatives were built on similar untested assumptions about different customer segments.
+Raj's retrospective re-examination of the failed product launch — initiated eighteen months after the fact, when the organizational urgency to move past it had subsided — produced the most valuable learning of his product development career. The failure had revealed:
+
+1. the team's assumption about the primary customer pain point had been wrong in a specific, traceable way;
+2. the development process had not included a mechanism for testing that assumption before the full product commitment;
+3. two of the team's subsequent product initiatives were built on similar untested assumptions about different customer segments.
 
 The learning was late. But it was not too late. The two subsequent initiatives were redesigned to include explicit assumption testing at earlier stages. One was significantly modified based on early testing; the other was terminated before the full development investment. The termination — the second failure — was the productive application of the first failure's learning. It saved six months of development investment on an approach that the early testing showed was not viable.
 

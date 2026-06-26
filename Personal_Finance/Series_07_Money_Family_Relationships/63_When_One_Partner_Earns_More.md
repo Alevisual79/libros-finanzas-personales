@@ -1,4 +1,4 @@
-﻿# When One Partner Earns More
+# When One Partner Earns More
 ## Managing Inequality Within a Relationship
 
 **Series 7: Money, Family & Relationships — Book 3 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -81,7 +81,10 @@ A second practical tool is explicit personal spending parity — an agreement th
 
 A third tool is what financial advisors call "career investment accounting." When one partner has taken a lower-earning path — returning to school, starting a business, working in the public sector — it's often because of a shared decision or circumstance. The explicit tracking of this as a shared investment (both partners are invested in the lower earner's career trajectory) changes the psychological framing from "you earn less" to "we're investing in your future earnings together." This framing transforms a potentially shame-inducing situation into a shared strategic choice, which it usually is.
 
-**Immediate Exercise — The Contribution Inventory:** Each partner separately makes two lists: (1) financial contributions to the shared household in the past month (income, specific expenses paid), and (2) non-financial contributions in the past month (domestic labor estimated in hours, childcare, emotional labor, social planning, career support to the partner). Assign hourly values to non-financial contributions using Bureau of Labor Statistics average wage rates for comparable work. Sum both lists. Compare. For most couples, this exercise reveals that the lower-earning partner's total contribution — financial plus non-financial — is closer to the higher earner's total contribution than the income gap alone suggests. This recognition is not a license to earn less; it's a correction to the distorted view that income is the only measure of contribution.
+**Immediate Exercise — The Contribution Inventory:** Each partner separately makes two lists:
+
+1. financial contributions to the shared household in the past month (income, specific expenses paid), and
+2. non-financial contributions in the past month (domestic labor estimated in hours, childcare, emotional labor, social planning, career support to the partner). Assign hourly values to non-financial contributions using Bureau of Labor Statistics average wage rates for comparable work. Sum both lists. Compare. For most couples, this exercise reveals that the lower-earning partner's total contribution — financial plus non-financial — is closer to the higher earner's total contribution than the income gap alone suggests. This recognition is not a license to earn less; it's a correction to the distorted view that income is the only measure of contribution.
 
 ---
 

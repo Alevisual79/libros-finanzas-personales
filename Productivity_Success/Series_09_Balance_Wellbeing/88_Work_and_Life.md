@@ -1,4 +1,4 @@
-﻿# Work and Life
+# Work and Life
 ## Beyond balance: an integrated approach to the totality of professional and personal life
 
 **Series 9: Balance and Wellbeing — Book 8 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -93,7 +93,13 @@ The meaning spillover: the most powerful enrichment occurs when the work is expe
 
 The practical work of work-life integration is the deliberate design of the overall pattern of professional and personal engagement — the specific choices about time allocation, boundary management, flexible arrangements, and role prioritization that together constitute the life the professional is actually living.
 
-The design principles: the research on successful work-life integration identifies several design principles that the most successfully integrated professionals consistently employ: (1) the explicit values clarification that specifies what actually matters in each life domain; (2) the time allocation choices that reflect those values rather than the path of least resistance; (3) the boundary management practices that protect the non-work domains from the work's structural tendency to expand; (4) the genuine flexibility that allows the integration to accommodate the variation that life produces; and (5) the periodic review of the integration design against the values it is meant to serve.
+The design principles: the research on successful work-life integration identifies several design principles that the most successfully integrated professionals consistently employ:
+
+1. the explicit values clarification that specifies what actually matters in each life domain;
+2. the time allocation choices that reflect those values rather than the path of least resistance;
+3. the boundary management practices that protect the non-work domains from the work's structural tendency to expand;
+4. the genuine flexibility that allows the integration to accommodate the variation that life produces; and
+5. the periodic review of the integration design against the values it is meant to serve.
 
 The "good enough" standard: the research on perfectionism and work-life integration finds that the perfectionist orientation — the attempt to achieve the highest possible performance in every domain simultaneously — is specifically incompatible with sustainable integration. The "satisficing" orientation that Herbert Simon described — the acceptance of solutions that are adequate rather than optimal, good enough rather than best — is more compatible with sustainable integration than the maximizing orientation that the achievement culture promotes.
 

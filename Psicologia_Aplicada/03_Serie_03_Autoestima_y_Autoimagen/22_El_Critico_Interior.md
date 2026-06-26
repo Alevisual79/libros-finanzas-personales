@@ -1,4 +1,4 @@
-﻿# El Critico Interior
+# El Critico Interior
 ## Como silenciar la voz que te boicotea
 
 **Serie 03: Autoestima y Autoimagen — Libro 2 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -93,7 +93,7 @@ El crítico interior crítica porque tiene miedo. Hablar con ese miedo es más e
 
 Elena ha tenido su crítico interior durante tanto tiempo que ya no sabe bien donde acaba el crítico y donde empieza ella. La voz crítica es tan familiar que parece ser simplemente quien es.
 
-**El Principio de la Diferenciación del Yo del Critico:** Richard Schwartz propone que todas las personas tienen un Self central (que en la práctica clinica se describe cómo la parte capaz de curiosidad, calma, claridad, compasión, confianza, creatividad, valentía y conexión) que es distinto de las partes críticas, ansiosas o defensivas del sistema psicológico. El trabajo terapeutico consiste en fortalecer la presencia de este Self central como perspectiva desde la cual relacionarse con el crítico interior, en lugar de ser identicar al crítico.
+**El Principio de la Diferenciación del Yo del Critico:** Richard Schwartz propone que todas las personas tienen un Self central (que en la práctica clinica se describe como la parte capaz de curiosidad, calma, claridad, compasión, confianza, creatividad, valentía y conexión) que es distinto de las partes críticas, ansiosas o defensivas del sistema psicológico. El trabajo terapeutico consiste en fortalecer la presencia de este Self central como perspectiva desde la cual relacionarse con el crítico interior, en lugar de ser identicar al crítico.
 
 Esta distinción no es solo conceptual. Tiene implicaciones prácticas: cuando se puede observar el crítico desde el Self (ah, el crítico se ha activado de nuevo) en lugar de ser el crítico (soy incompetente), el espacio para elegir la respuesta aumenta significativamente.
 

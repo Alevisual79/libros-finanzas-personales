@@ -1,4 +1,4 @@
-﻿# El fracaso como información
+# El fracaso como información
 
 ## Cómo convertir los errores en aprendizaje acelerado
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -147,7 +147,10 @@ La red de apoyo (personas que sostienen sin minimizar), la perspectiva históric
 ## Capítulo 8: Las organizaciones que aprenden del fracaso — los ejemplos
 
 **NASA:**
-Después del desastre del Challenger (1986), la NASA implementó un proceso de análisis profundo que produjó cambios sistémicos en la cultura de seguridad. Pero veintiún años después, el desastre del Columbia (2003) mostró que los mismos patrones culturales habían reaparecido. El aprendizaje del fracaso requiere mantenimiento constante, no solo un análisis inicial.
+Después del desastre del Challenger
+
+1986. , la NASA implementó un proceso de análisis profundo que produjó cambios sistémicos en la cultura de seguridad. Pero veintiún años después, el desastre del Columbia
+2003. mostró que los mismos patrones culturales habían reaparecido. El aprendizaje del fracaso requiere mantenimiento constante, no solo un análisis inicial.
 
 **Amazon:**
 Jeff Bezos explico que Amazon tiene una cultura donde el fracaso de un experimento es aceptable si fue bien diseñado y produjó aprendizaje. "Si sé que va a fallar, no lo hago. Pero si es un experimento honesto, el fracaso es solo información."

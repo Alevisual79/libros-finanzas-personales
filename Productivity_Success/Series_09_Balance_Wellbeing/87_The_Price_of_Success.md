@@ -1,4 +1,4 @@
-﻿# The Price of Success
+# The Price of Success
 ## The hidden costs of achievement and how to navigate them consciously
 
 **Series 9: Balance and Wellbeing — Book 7 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -75,7 +75,11 @@ The extrinsic vs. intrinsic motivation research: the self-determination theory r
 
 The contribution frame: the specific achievement framing that most effectively addresses the meaning question is the contribution frame — the understanding of the professional achievement not as an end in itself but as the means through which a contribution to something that matters beyond the professional's personal advancement is made. The surgeon who understands their surgical excellence as the expression of their commitment to the patient's wellbeing has a qualitatively different relationship to both the achievement and its limits than the surgeon who understands it as a measure of their personal status relative to peers.
 
-**Practical Exercise — The Price Accounting:** Write down your three most significant professional achievements of the past five years. For each, write down: (1) What it cost in each life domain (time, relationships, health, identity, present-moment experience); (2) Whether the cost was the cost you would have chosen to pay with full information; (3) Whether you would make the same tradeoff today. What does this accounting tell you about the implicit values your choices have been expressing?
+**Practical Exercise — The Price Accounting:** Write down your three most significant professional achievements of the past five years. For each, write down:
+
+1. What it cost in each life domain (time, relationships, health, identity, present-moment experience);
+2. Whether the cost was the cost you would have chosen to pay with full information;
+3. Whether you would make the same tradeoff today. What does this accounting tell you about the implicit values your choices have been expressing?
 
 ---
 

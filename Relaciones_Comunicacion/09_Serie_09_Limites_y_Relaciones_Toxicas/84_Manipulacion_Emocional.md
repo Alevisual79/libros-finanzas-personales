@@ -1,4 +1,4 @@
-﻿# Manipulación Emocional
+# Manipulación Emocional
 ## Reconocer y protegerse de quien usa tus emociones en tu contra
 
 **Serie 09: Limites y Relaciones Toxicas — Libro 4 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -71,7 +71,7 @@ Cuando confrontas un comportamiento problematico y la respuesta convierte a quie
 
 El silencio prolongado utilizado deliberadamente como castigo por no cumplir con las expectativas de otra persona es una forma de manipulación emocional que genera ansiedad significativa sin necesidad de confrontación directa.
 
-**El Principio del Silencio Punitivo como Control Indirecto:** El tratamiento silencioso prolongado, usado deliberadamente para comunicar desaprobación y generar ansiedad en la otra persona, funciona cómo una forma de castigo que evita la responsabilidad de una comunicación directa sobre lo que se quiere, mientras ejerce presión significativa para que la persona afectada cambie su comportamiento para restaurar la comunicación.
+**El Principio del Silencio Punitivo como Control Indirecto:** El tratamiento silencioso prolongado, usado deliberadamente para comunicar desaprobación y generar ansiedad en la otra persona, funciona como una forma de castigo que evita la responsabilidad de una comunicación directa sobre lo que se quiere, mientras ejerce presión significativa para que la persona afectada cambie su comportamiento para restaurar la comunicación.
 
 **Ejercicio inmediato:** Si experimentas patrones recurrentes de silencio punitivo de alguien específico después de desacuerdos, reconoce este patron cómo una tactica de manipulación, no cómo una respuesta emocional pasiva neutral.
 

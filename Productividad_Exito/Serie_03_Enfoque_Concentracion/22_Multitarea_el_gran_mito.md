@@ -1,4 +1,4 @@
-﻿# Multitarea: El gran mito de la productividad
+# Multitarea: El gran mito de la productividad
 
 ## Por qué hacer varias cosas a la vez te hace peor en todas
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -152,8 +152,8 @@ Las mejores culturas de equipo crean espacios de concentración protegida, junt�
 
 Elena hizo el experimento: una semana sin multitarea consciente.
 
-Regla 1: En reuniones, solo la reunión. Nada más abierto.  
-Regla 2: En trabajo profundo, solo esa tarea. Sin correo, sin teléfono visible.  
+Regla 1: En reuniones, solo la reunión. Nada más abierto. 
+Regla 2: En trabajo profundo, solo esa tarea. Sin correo, sin teléfono visible. 
 Regla 3: En comunicaciones, solo las comunicaciones. Sin otras tareas abiertas.
 
 La primera reunión fue rara: sin el distractivo trabajo en paralelo, la reunión fue más corta (tuvo que participar, así que terminó antes) y más útil (había prestado suficiente atención para contribuir).

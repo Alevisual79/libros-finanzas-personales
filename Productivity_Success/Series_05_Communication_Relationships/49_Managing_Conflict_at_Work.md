@@ -1,4 +1,4 @@
-﻿# Managing Conflict at Work
+# Managing Conflict at Work
 ## The essential skills for navigating the inevitable tensions of collaboration
 
 **Series 5: Communication and Relationships — Book 9 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -53,7 +53,11 @@ The most effective first response to most professional conflict is the early, di
 
 The conversation structure: the direct conflict conversation is most effective when it follows a specific structure: the description of the specific behavior and its specific impact (using the SBI model from Book 45), the expression of the specific need or interest that the behavior is not serving, and the invitation for the other party's perspective before any proposals for resolution. The structure focuses the conversation on the specific and observable, reduces the likelihood of the identity-threat response that characterizes discussions and attributions ("you always do this" or "you don't care about the team"), and ensures that the other party's perspective is heard before solutions are proposed.
 
-The timing: the direct conversation is most productive when held: (a) soon after the specific event that prompted it, while the specific details are available and while the escalation has not yet progressed; (b) in private, without the social performance pressure that others' presence creates; and (c) at a time when both parties have the emotional and attentional resources for a genuine conversation, rather than in the immediate aftermath of the triggering event when emotional activation is highest.
+The timing: the direct conversation is most productive when held: (
+
+a) soon after the specific event that prompted it, while the specific details are available and while the escalation has not yet progressed; (
+b) in private, without the social performance pressure that others' presence creates; and (
+c) at a time when both parties have the emotional and attentional resources for a genuine conversation, rather than in the immediate aftermath of the triggering event when emotional activation is highest.
 
 The opening that works: the specific words of the opening are important because they establish the tone and orientation of the subsequent conversation. "I wanted to talk about what happened in Tuesday's meeting, because I've been affected by it and I think we should figure out together what happened" is a better opening than "I need to talk to you about a problem with how you handled Tuesday's meeting." The first opening invites collaboration; the second activates defensiveness.
 

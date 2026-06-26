@@ -1,4 +1,4 @@
-﻿# Thinking Differently
+# Thinking Differently
 ## The cognitive tools that produce genuinely original solutions
 
 **Series 7: Creativity and Innovation — Book 2 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -117,7 +117,14 @@ Charlie Munger's latticework: Warren Buffett's partner Charlie Munger has consis
 
 The mental model practice: the development of an extensive mental model collection requires the deliberate study of multiple disciplines with the explicit goal of understanding their fundamental models and mechanisms — not to become expert in each discipline but to extract the mental models that will be most productive when applied to problems in one's own domain. The reading habit (Book 37) applied to cross-domain intellectual exploration is the primary development pathway for the mental model latticework.
 
-**Practical Exercise — The Reframe Marathon:** Take a current professional challenge. Write the problem statement as currently understood. Now reframe it six times using different techniques: (1) shift the abstraction level up one; (2) shift the abstraction level down one; (3) state it from the customer's perspective; (4) state what it would look like if solved perfectly; (5) find an analogy in nature; (6) invert it — what would make the problem worse? Which reframe opens the most interesting solution space?
+**Practical Exercise — The Reframe Marathon:** Take a current professional challenge. Write the problem statement as currently understood. Now reframe it six times using different techniques:
+
+1. shift the abstraction level up one;
+2. shift the abstraction level down one;
+3. state it from the customer's perspective;
+4. state what it would look like if solved perfectly;
+5. find an analogy in nature;
+6. invert it — what would make the problem worse? Which reframe opens the most interesting solution space?
 
 ---
 

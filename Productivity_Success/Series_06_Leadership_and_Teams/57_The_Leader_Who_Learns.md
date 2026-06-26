@@ -1,4 +1,4 @@
-﻿# The Leader Who Learns
+# The Leader Who Learns
 ## Why continuous development is the most important leadership practice
 
 **Series 6: Leadership and Teams — Book 7 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -91,7 +91,12 @@ The McCall and Lombardo research: Morgan McCall and Michael Lombardo's foundatio
 
 The assignment design principles: the stretch assignment that produces the most leadership development combines four elements: genuine novelty (the assignment requires genuinely new capabilities, not the extension of existing ones); appropriate challenge (the assignment is at the upper edge of the leader's current capability, not so far beyond it that failure is inevitable); genuine stakes (the assignment involves real organizational consequences, which provides the motivational intensity that development requires); and developmental support (the assignment includes the mentorship, coaching, or structured reflection that converts the experience into explicit learning).
 
-**Practical Exercise — The Development Plan:** Write a one-page leadership development plan that addresses: (1) What are my most significant leadership development gaps, based on the most honest feedback available to me? (2) What stretch experiences would most effectively develop the gaps? (3) What mentors, coaches, or peer relationships would most support my development? (4) What reading, formal programs, or structured learning would complement the experience? Review and revise this plan every six months.
+**Practical Exercise — The Development Plan:** Write a one-page leadership development plan that addresses:
+
+1. What are my most significant leadership development gaps, based on the most honest feedback available to me?
+2. What stretch experiences would most effectively develop the gaps?
+3. What mentors, coaches, or peer relationships would most support my development?
+4. What reading, formal programs, or structured learning would complement the experience? Review and revise this plan every six months.
 
 ---
 

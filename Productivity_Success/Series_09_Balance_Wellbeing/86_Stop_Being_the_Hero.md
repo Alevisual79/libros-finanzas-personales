@@ -1,4 +1,4 @@
-﻿# Stop Being the Hero
+# Stop Being the Hero
 ## Why indispensability is the enemy of sustainable success
 
 **Series 9: Balance and Wellbeing — Book 6 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -79,7 +79,11 @@ The workload negotiation: the specific skill of negotiating workload with the ma
 
 The expectation management: the resetting of the organizational expectations that the hero's previous behavior has created — the expectation that the hero is available, that the hero will handle whatever arrives, and that the hero's limits are further than the hero's stated limits — is a sustained process that requires the consistent maintenance of the new limits through the period of organizational adjustment. The expectation reset is not a single conversation; it is a behavioral pattern change that the organization gradually recognizes and adapts to.
 
-**Practical Exercise — The Hero Audit:** List the five most significant ways in which you are currently "the hero" — the essential person for specific tasks, processes, or relationships in your professional context. For each: (1) What would happen if you were unavailable for a month? (2) Who is the organizational knowledge concentrated in you rather than in documents or processes? (3) What specific tasks are you absorbing that team members could develop by handling? Design one concrete action to reduce each dependency over the next quarter.
+**Practical Exercise — The Hero Audit:** List the five most significant ways in which you are currently "the hero" — the essential person for specific tasks, processes, or relationships in your professional context. For each:
+
+1. What would happen if you were unavailable for a month?
+2. Who is the organizational knowledge concentrated in you rather than in documents or processes?
+3. What specific tasks are you absorbing that team members could develop by handling? Design one concrete action to reduce each dependency over the next quarter.
 
 ---
 

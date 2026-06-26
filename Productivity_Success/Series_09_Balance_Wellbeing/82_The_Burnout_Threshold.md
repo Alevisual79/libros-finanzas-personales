@@ -1,4 +1,4 @@
-﻿# The Burnout Threshold
+# The Burnout Threshold
 ## Understanding and managing the line between challenged and depleted
 
 **Series 8: Balance and Wellbeing — Book 2 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -89,7 +89,13 @@ The observation practice: the behavioral markers of threshold proximity in other
 
 The check-in conversation: the most direct organizational intervention for a colleague approaching their burnout threshold is the genuine check-in conversation — the direct, private, caring inquiry that creates the psychological space for the colleague to acknowledge what they may not have articulated even to themselves. "I've noticed you seem less energized than usual — I wanted to check in and see how you're actually doing" is the opening that the threshold-approaching colleague may need to articulate what the professional convention of presenting as capable has prevented.
 
-**Practical Exercise — The Weekly Threshold Check:** At the end of each week, rate yourself on a 1-10 scale for each of the following: (1) Physical energy; (2) Emotional engagement with work; (3) Quality of concentration; (4) Sense of professional accomplishment; (5) Enjoyment of work. Track these ratings over four weeks. If any rating drops below 5 for two consecutive weeks, treat this as a threshold proximity signal requiring specific action. What action would you take?
+**Practical Exercise — The Weekly Threshold Check:** At the end of each week, rate yourself on a 1-10 scale for each of the following:
+
+1. Physical energy;
+2. Emotional engagement with work;
+3. Quality of concentration;
+4. Sense of professional accomplishment;
+5. Enjoyment of work. Track these ratings over four weeks. If any rating drops below 5 for two consecutive weeks, treat this as a threshold proximity signal requiring specific action. What action would you take?
 
 ---
 

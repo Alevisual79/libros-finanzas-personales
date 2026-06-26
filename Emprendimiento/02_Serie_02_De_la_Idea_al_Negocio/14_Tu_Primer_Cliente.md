@@ -1,4 +1,4 @@
-﻿# Tu Primer Cliente
+# Tu Primer Cliente
 ## El paso más importante y más ignorado del emprendimiento
 
 **Serie 02: De la Idea al Negocio — Libro 4 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -123,7 +123,13 @@ Lucia ha tenido un primer cliente insatisfecho y ha aprendido que gestionarlo bi
 
 **El Principio de la Insatisfacción del Cliente como Oportunidad de Aprendizaje y de Demostración del Compromiso con la Calidad que Puede Convertir un Cliente Critico en un Defensor:** La investigación de Fred Reichheld sobre la lealtad del cliente muestra que los clientes que han experimentado un problema y han recibido una resolución excelente tienen frecuentemente mayor lealtad que los que nunca han experimentado un problema. El compromiso de resolver el problema demuestra el nivel de interés genuino en la satisfacción del cliente que supera la relación transaccional normal.
 
-La formula de gestión de clientes insatisfechos de Steli Efti: (1) escucha sin interrumpir ni defenderse, (2) reconoce el problema con empatia genuina (sin culpar al cliente ni asumir responsabilidad falsa), (3) pregunta que necesitaria para quedar satisfecho, (4) comprometete con una solución específica en un plazo específico, y (5) haz seguimiento para confirmar que la solución fue satisfactoria.
+La formula de gestión de clientes insatisfechos de Steli Efti:
+
+1. escucha sin interrumpir ni defenderse,
+2. reconoce el problema con empatia genuina (sin culpar al cliente ni asumir responsabilidad falsa),
+3. pregunta que necesitaria para quedar satisfecho,
+4. comprometete con una solución específica en un plazo específico, y
+5. haz seguimiento para confirmar que la solución fue satisfactoria.
 
 **Ejercicio inmediato:** Para la próxima queja o insatisfacción de un cliente (o la más reciente que recuerdes), reflexiona sobre cómo la gestionaste: escuchaste sin interrumpir? Propusiste una solución específica en un plazo concreto? Hiciste seguimiento para confirmar la satisfacción? Si alguno de esos pasos fallo, diseña el protocolo que seguiras en la siguiente situación similar. La calidad de la gestión de la insatisfacción dice más sobre el negocio que la ausencia de problemas.
 

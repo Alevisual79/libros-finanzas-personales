@@ -1,4 +1,4 @@
-﻿# Primera Cita
+# Primera Cita
 ## Como estar presente y mostrar quien eres de verdad
 
 **Serie 07: Citas y Amor Romantico — Libro 3 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -45,7 +45,7 @@ Los primeros minutos nerviosos de una cita no son una sentencia. Son simplemente
 
 ## Capítulo 3: Conversación que conecta en la primera cita
 
-El tipo de conversación que se tiene durante una primera cita determina significativamente si la interacción se siente cómo una conexión genuina o cómo un intercambio superficial de información biografica.
+El tipo de conversación que se tiene durante una primera cita determina significativamente si la interacción se siente como una conexión genuina o cómo un intercambio superficial de información biografica.
 
 **El Principio de la Profundidad Progresiva:** Las primeras citas que generan mayor sensación de conexión son las que avanzan progresivamente de temas superficiales hacía temas de mayor vulnerabilidad y significado personal, en lugar de mantenerse exclusivamente en el nivel de información biografica basica (trabajo, donde creciste, hobbies) durante toda la interacción.
 

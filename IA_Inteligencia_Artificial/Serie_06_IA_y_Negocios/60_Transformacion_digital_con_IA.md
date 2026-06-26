@@ -1,4 +1,4 @@
-﻿# Transformación digital con IA
+# Transformación digital con IA
 ## Serie 6: IA y Negocios — Libro 10 de 10
 
 **La inteligencia artificial esta transformando los negocios en todos sus aspectos: ventas, marketing, operaciones, finanzas y recursos humanos.**
@@ -48,7 +48,7 @@ El negocio del futuro combina la mejor IA con las mejores personas, procesos y v
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 

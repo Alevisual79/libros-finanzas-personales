@@ -1,4 +1,4 @@
-﻿# Living with Uncertainty
+# Living with Uncertainty
 ## Developing Tolerance for the Unknown
 
 **Series 2: Anxiety and Fears — Book 10 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -45,7 +45,11 @@ Political and social uncertainty — about the future of institutions, the econo
 
 The most common responses to intolerance of uncertainty — information-seeking, reassurance-seeking, excessive preparation, and avoidance — all share the function of temporarily reducing the experience of uncertainty, and all share the long-term consequence of maintaining and often deepening the IU they temporarily resolve.
 
-Worry itself functions as a certainty-seeking strategy. By generating a detailed mental simulation of the feared uncertain outcome, the worrier achieves a form of pseudo-certainty: "even though I don't know what will happen, I have already experienced (imaginally) the worst case, and I am prepared for it." Research by Borkovec on worry's functions finds that its subjective appeal rests partly on this illusion of preparation — "at least if I worry, I won't be caught off guard." What this illusion misses is that (a) the worst case is rarely the most likely case, (b) the imaginal preparation is not equivalent to actual preparation for a specific outcome, and (c) the emotional cost of sustained worst-case simulation is substantial.
+Worry itself functions as a certainty-seeking strategy. By generating a detailed mental simulation of the feared uncertain outcome, the worrier achieves a form of pseudo-certainty: "even though I don't know what will happen, I have already experienced (imaginally) the worst case, and I am prepared for it." Research by Borkovec on worry's functions finds that its subjective appeal rests partly on this illusion of preparation — "at least if I worry, I won't be caught off guard." What this illusion misses is that (
+
+a) the worst case is rarely the most likely case, (
+b) the imaginal preparation is not equivalent to actual preparation for a specific outcome, and (
+c) the emotional cost of sustained worst-case simulation is substantial.
 
 Checking and avoidance are the behavioral complements of worry. Checking (medical self-examination, financial account monitoring, repeated verification of ambiguous communications) provides momentary relief but sensitizes the IU-driven threat-detection system: each successful check that finds no problem maintains the search pattern and establishes that checking is a legitimate anxiety management strategy. Avoidance prevents the experiences that would either generate the feared outcome (allowing its acceptance) or fail to generate it (providing disconfirmatory evidence). Both checking and avoidance perpetuate the IU by preventing genuine accommodation to the uncertain situation.
 

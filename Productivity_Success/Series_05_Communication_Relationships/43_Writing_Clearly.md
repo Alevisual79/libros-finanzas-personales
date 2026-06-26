@@ -1,4 +1,4 @@
-﻿# Writing Clearly
+# Writing Clearly
 ## The professional skill that distinguishes the good from the genuinely excellent
 
 **Series 5: Communication and Relationships — Book 3 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -127,7 +127,12 @@ The daily writing practice: the most consistent predictor of writing improvement
 
 The reading for craft: the attention to other writers' craft — the specific choices of sentence structure, vocabulary, organization, and emphasis that produce the clarity and impact of excellent professional prose — is a reading practice that accelerates writing improvement. The professional writer who reads a piece of excellent professional prose (the best McKinsey article, the clearest business book chapter, the most impactful memo) and asks "How did they do this? What specific choices produced this clarity?" is developing the repertoire of techniques that deliberate practice will eventually incorporate into their own writing.
 
-**Practical Exercise — The Clarity Revision:** Take a recent professional document you have written (email, memo, report excerpt) and apply the following revision: (1) convert all passive voice to active; (2) replace all nominalizations with the verb form; (3) cut any sentence longer than twenty-five words in half; (4) rewrite the opening to start with the most important point. Note the length reduction and the clarity improvement.
+**Practical Exercise — The Clarity Revision:** Take a recent professional document you have written (email, memo, report excerpt) and apply the following revision:
+
+1. convert all passive voice to active;
+2. replace all nominalizations with the verb form;
+3. cut any sentence longer than twenty-five words in half;
+4. rewrite the opening to start with the most important point. Note the length reduction and the clarity improvement.
 
 ---
 

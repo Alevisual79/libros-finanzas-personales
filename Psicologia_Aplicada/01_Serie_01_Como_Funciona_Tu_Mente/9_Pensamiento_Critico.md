@@ -1,4 +1,4 @@
-﻿# Pensamiento Critico
+# Pensamiento Critico
 ## Como pensar con rigor en un mundo de ruido informativo
 
 **Serie 01: Como Funciona Tu Mente — Libro 9 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -121,7 +121,7 @@ La creencia que no puede sobrevivir la busqueda activa de su mejor refutación e
 
 Isabel ha sostenido durante años una posición sobre como gestionar el talento en la empresa. Nueva evidencia de investigación y su propia experiencia acumulada sugieren que estaba equivocada en aspectos importantes. Le resulta enormemente difícil cambiar de posición públicamente.
 
-**El Principio de la Flexibilidad Epistemica como Fortaleza:** Adam Grant, psicologo organizacional de Wharton y autor de Think Again, propone que la capacidad de reconsiderar las propias creencias ante nueva evidencia (lo que llama la mente del cientifico en oposición a la mente del predicador que defiende sus dogmas) es una de las habilidades más valiosas y menos cultivadas en el mundo contemporaneo. La resistencia al cambio de opinión se alimenta del ego: cambiar de opinión pública se siente cómo una derrota, como admitir que eras inferior a quienes tenían razón.
+**El Principio de la Flexibilidad Epistemica como Fortaleza:** Adam Grant, psicologo organizacional de Wharton y autor de Think Again, propone que la capacidad de reconsiderar las propias creencias ante nueva evidencia (lo que llama la mente del cientifico en oposición a la mente del predicador que defiende sus dogmas) es una de las habilidades más valiosas y menos cultivadas en el mundo contemporaneo. La resistencia al cambio de opinión se alimenta del ego: cambiar de opinión pública se siente como una derrota, como admitir que eras inferior a quienes tenían razón.
 
 Tetlock, en sus investigaciones sobre superpronosticadores, encontró que la capacidad de actualizar las propias predicciones ante nueva información (sin excesivo apego a la predicción original) era uno de los predictores más robustos de precisión predictiva a largo plazo. Los mejores pronosticadores no eran los que tenían siempre razón. Eran los que cambiaban rápidamente de posición cuando la evidencia lo justificaba, sin resistencia por ego.
 

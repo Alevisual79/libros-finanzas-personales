@@ -1,4 +1,4 @@
-﻿# Couple with Children
+# Couple with Children
 ## How to maintain the relationship when children arrive
 
 **Series 3: The Couple — Book 7 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -111,7 +111,11 @@ Research on couple satisfaction through the lifespan identifies the empty nest p
 
 Isabelle was approaching this transition: her younger child was in the final year of secondary school, and the prospect of the household's reorganization had been sitting in her awareness with a mixture of anticipation and apprehension. The anticipation: the couple they had been before children still existed, and she genuinely missed the specific quality of attention they had been able to give each other in those years. The apprehension: she was not entirely sure what the couple they had become, through the years of active parenting, would look like when the primary vehicle of their shared project was no longer present.
 
-**Practical Exercise — The Parent-Couple Audit:** With your partner, answer the following for your current stage of parenting: (1) In a typical week, how much time do you spend on parenting logistics versus genuine couple connection? (2) When did you last have a conversation that was genuinely about you and your partner rather than about the children or household logistics? (3) What is one specific, implementable change that would increase the quality time available for your couple relationship this month? Agree on it and implement it.
+**Practical Exercise — The Parent-Couple Audit:** With your partner, answer the following for your current stage of parenting:
+
+1. In a typical week, how much time do you spend on parenting logistics versus genuine couple connection?
+2. When did you last have a conversation that was genuinely about you and your partner rather than about the children or household logistics?
+3. What is one specific, implementable change that would increase the quality time available for your couple relationship this month? Agree on it and implement it.
 
 ---
 

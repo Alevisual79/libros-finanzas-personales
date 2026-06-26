@@ -1,4 +1,4 @@
-﻿# Speaking Well
+# Speaking Well
 ## The art and science of verbal communication that moves people
 
 **Series 5: Communication and Relationships — Book 1 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -141,7 +141,11 @@ The recording feedback method: video recording and honest self-review is one of 
 
 Valentina's transformation began with video recording. Not the transformation she had hoped for — the immediate improvement in her speaking — but the one she needed first: the clear identification of exactly what was happening in her delivery that was making her ideas sound uncertain. The dropped pitch at the end of sentences. The restarts. The qualifications before the claims. Each of these was specific, identifiable, and trainable. None of them was her ideas. Her ideas, she saw, were exactly as good as she had believed. The communication was what needed work. And communication, unlike ideas, was very teachable indeed.
 
-**Practical Exercise — The Video Audit:** Record yourself speaking for three to five minutes on a professional topic you know well. Watch the recording with the sound off, then with the sound on. Note: (1) what your body language communicates independent of the words; (2) where your vocal delivery is strongest; (3) the three most specific delivery habits you would change. Practice one of the three in your next professional speaking opportunity.
+**Practical Exercise — The Video Audit:** Record yourself speaking for three to five minutes on a professional topic you know well. Watch the recording with the sound off, then with the sound on. Note:
+
+1. what your body language communicates independent of the words;
+2. where your vocal delivery is strongest;
+3. the three most specific delivery habits you would change. Practice one of the three in your next professional speaking opportunity.
 
 ---
 

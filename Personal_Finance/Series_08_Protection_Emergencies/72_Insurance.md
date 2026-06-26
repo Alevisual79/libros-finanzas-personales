@@ -1,4 +1,4 @@
-﻿# Insurance
+# Insurance
 ## How to Be Properly Covered Without Overpaying
 
 **Series 8: Protection & Emergencies — Book 2 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -139,7 +139,12 @@ Shopping only at renewal is the last major mistake. Insurance pricing is not sta
 
 Gather every insurance policy Declarations page you have — health, auto, home or renters, life, any other policies. Create a simple spreadsheet with these columns: Policy Type, Carrier, Monthly Premium, Deductible, Coverage Limits, Out-of-Pocket Max (for health), Last Review Date. Fill it in completely. This document, which takes thirty minutes to create, gives you a complete picture of your insurance portfolio for the first time. It is the foundation for every decision that follows.
 
-Step one this week: Complete the Declarations Inventory above. Identify immediately: (1) Any policies where you carry no UM/UIM on auto. (2) Any policies where your liability limits are at state minimums. (3) Any renters who have no renters insurance. (4) Any homeowners who have not updated dwelling coverage in more than three years. These are the most common and most consequential gaps.
+Step one this week: Complete the Declarations Inventory above. Identify immediately:
+
+1. Any policies where you carry no UM/UIM on auto.
+2. Any policies where your liability limits are at state minimums.
+3. Any renters who have no renters insurance.
+4. Any homeowners who have not updated dwelling coverage in more than three years. These are the most common and most consequential gaps.
 
 Step two this month: Review your health insurance plan for next open enrollment. Calculate your total health spending (premiums plus out-of-pocket) for the current year from your EOBs. Model at least two other plan options using the same calculation. Determine whether an HDHP with HSA makes sense for your situation. If you qualify for an HSA, begin contributing even at a modest level — the tax benefit is immediate.
 

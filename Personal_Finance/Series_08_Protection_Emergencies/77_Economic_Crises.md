@@ -1,4 +1,4 @@
-﻿# Economic Crises
+# Economic Crises
 ## How to Survive and Even Benefit from Market Downturns
 
 **Series 8: Protection and Emergencies — Book 7 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -139,7 +139,14 @@ Know your investment allocation and why you chose it. Uncertainty about why your
 
 This week's primary action is to audit your current recession readiness across four dimensions. First: income resilience — how many income sources do you have, and how correlated are they? If you have one employer and no side income, your recession vulnerability on the income side is high. Identify at least one income alternative you could activate in 90 days. Second: savings runway — how many months of expenses does your current emergency fund cover at your normal spending level, and at your freeze-protocol level? If it's less than three months at the freeze level, this is your most urgent financial gap. Third: debt structure — list every debt you carry, its interest rate, and whether the payment is fixed or variable. Anything above 8% APR should be on an aggressive repayment plan. Fourth: investment behavior — have you ever sold investments when markets fell? If yes, what's your written protocol for the next downturn?
 
-**Immediate Exercise — The Recession Readiness Score:** Give yourself 0-3 points in each of six categories: (1) Emergency fund: 0 = less than one month, 1 = one to two months, 2 = two to four months, 3 = four months or more. (2) Credit card debt: 0 = more than $5,000, 1 = $2,000-$5,000, 2 = under $2,000, 3 = zero. (3) Income sources: 0 = one source, 1 = one source with an identified alternative, 2 = two sources, 3 = three or more sources. (4) Investment discipline: 0 = no written policy, 1 = general awareness but no written plan, 2 = written allocation but no downturn protocol, 3 = written allocation and downturn protocol documented. (5) Fixed costs: 0 = more than 60% of take-home pay, 1 = 50-60%, 2 = 40-50%, 3 = under 40%. (6) Recession-resistant income: 0 = highly cyclical industry, 1 = somewhat cyclical, 2 = somewhat defensive, 3 = strongly defensive (healthcare, utilities, government). Add your score: 0-6 means significant vulnerability; 7-12 means moderate resilience; 13-18 means strong recession readiness. Use this audit to identify where to focus next.
+**Immediate Exercise — The Recession Readiness Score:** Give yourself 0-3 points in each of six categories:
+
+1. Emergency fund: 0 = less than one month, 1 = one to two months, 2 = two to four months, 3 = four months or more.
+2. Credit card debt: 0 = more than $5,000, 1 = $2,000-$5,000, 2 = under $2,000, 3 = zero.
+3. Income sources: 0 = one source, 1 = one source with an identified alternative, 2 = two sources, 3 = three or more sources.
+4. Investment discipline: 0 = no written policy, 1 = general awareness but no written plan, 2 = written allocation but no downturn protocol, 3 = written allocation and downturn protocol documented.
+5. Fixed costs: 0 = more than 60% of take-home pay, 1 = 50-60%, 2 = 40-50%, 3 = under 40%.
+6. Recession-resistant income: 0 = highly cyclical industry, 1 = somewhat cyclical, 2 = somewhat defensive, 3 = strongly defensive (healthcare, utilities, government). Add your score: 0-6 means significant vulnerability; 7-12 means moderate resilience; 13-18 means strong recession readiness. Use this audit to identify where to focus next.
 
 The work you do in calm times determines what is possible in turbulent ones. You cannot decide in the middle of a crisis to have more savings, less debt, or a more resilient income structure. Those take months or years to build. But if you build them now — steadily, unglamorously, one paycheck and one debt payment at a time — the next recession will arrive and find you prepared. Not immune to its effects, but resilient enough to absorb them, continue investing, and emerge on the other side financially stronger than when it began.
 

@@ -1,4 +1,4 @@
-﻿# Tecnologia y Pareja
+# Tecnologia y Pareja
 ## Cómo gestionar el movil, las pantallas y la presencia en la relación
 
 **Serie 10: Relaciones en la Era Digital — Libro 7 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -119,7 +119,7 @@ Una zona libre de pantallas no requiere fuerza de voluntad constante. Elimina es
 
 Algunas parejas utilizan, sin notarlo conscientemente, el teléfono movil cómo una forma de evitar conversaciones difíciles o conflictos no resueltos, refugiandose en la pantalla en lugar de abordar la tensión presente.
 
-**El Principio de la Evitación Disfrazada de Distracción:** El uso del teléfono durante momentos de tensión relacional no resuelta frecuentemente funciona cómo una forma de evitación que posterga la conversación necesaria, en lugar de simplemente ser una distracción neutral, lo cual permite que la tensión subyacente persista sin resolución mientras ambas personas se refugian en sus respectivas pantallas.
+**El Principio de la Evitación Disfrazada de Distracción:** El uso del teléfono durante momentos de tensión relacional no resuelta frecuentemente funciona como una forma de evitación que posterga la conversación necesaria, en lugar de simplemente ser una distracción neutral, lo cual permite que la tensión subyacente persista sin resolución mientras ambas personas se refugian en sus respectivas pantallas.
 
 **Ejercicio inmediato:** Reflexiona sobre si tu uso del teléfono en algunos momentos específicos con tu pareja podría estar funcionando como evitación de una conversación difícil que necesitas tener.
 

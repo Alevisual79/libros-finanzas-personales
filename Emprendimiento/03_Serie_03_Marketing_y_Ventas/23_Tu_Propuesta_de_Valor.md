@@ -1,4 +1,4 @@
-﻿# Tu Propuesta de Valor
+# Tu Propuesta de Valor
 ## Por qué te eligen a ti en lugar de a la competencia
 
 **Serie 03: Marketing y Ventas — Libro 3 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -121,7 +121,7 @@ El titular que no dice lo que haces en diez segundos ha perdido al visitante que
 
 Lucia ha aprendido a articular su propuesta de valor de forma diferente en las conversaciones de ventas que en el material escrito.
 
-**El Principio de la Propuesta de Valor Conversacional como Diferente de la Escrita porque en la Conversación el Emprendedor Puede Adaptar el Mensaje al Contexto específico del Cliente en Lugar de Usar un Mensaje Fijo:** En una conversación de ventas, la propuesta de valor no se presenta cómo un monolgo: se construye en diálogo con el cliente. El emprendedor que hace preguntas de descubrimiento (cual es tu situación actual, que has intentado ya, que resultado buscas) puede adaptar la presentación de la propuesta de valor para qué resuene específicamente con la situación de ese cliente particular.
+**El Principio de la Propuesta de Valor Conversacional como Diferente de la Escrita porque en la Conversación el Emprendedor Puede Adaptar el Mensaje al Contexto específico del Cliente en Lugar de Usar un Mensaje Fijo:** En una conversación de ventas, la propuesta de valor no se presenta como un monolgo: se construye en diálogo con el cliente. El emprendedor que hace preguntas de descubrimiento (cual es tu situación actual, que has intentado ya, que resultado buscas) puede adaptar la presentación de la propuesta de valor para qué resuene específicamente con la situación de ese cliente particular.
 
 La investigación de Neil Rackham sobre las conversaciones de ventas de mayor conversión muestra que el vendedor efectivo adapta la presentación del producto al contexto específico del cliente usando las palabras y los ejemplos que más resuenan con la situación particular de ese cliente.
 

@@ -1,4 +1,4 @@
-﻿# Healing a Damaged Relationship
+# Healing a Damaged Relationship
 ## How to rebuild trust when everything has broken
 
 **Series 8: Repair and Heal — Book 1 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -97,7 +97,11 @@ Not all relationships that have been damaged should be repaired. The first quest
 
 The research does not support a blanket answer to this question. Some relationships that have been significantly damaged by single, severe events are more repairable than others that have experienced lower-intensity but chronic harm. The assessment of repairability requires an honest accounting of the relationship's history, the nature and severity of the harm, the genuine willingness of both parties to do the repair work, and the specific value the relationship has for both people's genuine wellbeing.
 
-**Practical Exercise — The Damage Assessment:** Before deciding whether to attempt repair, write out an honest accounting in three sections: (1) The specific nature of what happened and its impact on you; (2) The history of the relationship before the harm — what was genuinely good and what was already problematic; (3) What you imagine a repaired version of this relationship looking like, and whether you genuinely want that. The accounting is not for the other person; it is for your own clarity about what you are deciding and why.
+**Practical Exercise — The Damage Assessment:** Before deciding whether to attempt repair, write out an honest accounting in three sections:
+
+1. The specific nature of what happened and its impact on you;
+2. The history of the relationship before the harm — what was genuinely good and what was already problematic;
+3. What you imagine a repaired version of this relationship looking like, and whether you genuinely want that. The accounting is not for the other person; it is for your own clarity about what you are deciding and why.
 
 ---
 

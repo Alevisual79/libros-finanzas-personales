@@ -1,4 +1,4 @@
-﻿# Leading Change
+# Leading Change
 ## The essential skills for navigating organizational transformation
 
 **Series 6: Leadership and Teams — Book 10 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -117,7 +117,13 @@ The continuous change leadership capability: the leader who can maintain the org
 
 The adaptive leadership revisited: the Heifetz adaptive leadership framework (Book 56) is directly relevant to the continuous change context: the ability to distinguish the technical problems that existing expertise addresses from the adaptive challenges that require new thinking, to maintain the "balcony view" while managing the immediate "dance floor" of ongoing change, and to develop the organization's adaptive capacity rather than trying to manage every change from the top — is the continuous change leadership approach that sustainable organizational adaptation requires.
 
-**Practical Exercise — The Change Readiness Assessment:** For a significant change you are leading or will need to lead: (1) Assess the urgency awareness — do the affected people understand why the change is necessary? (2) Assess the coalition — who are the influential champions? Who are the blockers? (3) Assess the communication plan — is it two-way, honest, and sufficiently frequent? (4) Assess the obstacle removal — what structural and systemic barriers to adoption exist? (5) Assess the culture alignment — does the organizational culture support the new behaviors the change requires?
+**Practical Exercise — The Change Readiness Assessment:** For a significant change you are leading or will need to lead:
+
+1. Assess the urgency awareness — do the affected people understand why the change is necessary?
+2. Assess the coalition — who are the influential champions? Who are the blockers?
+3. Assess the communication plan — is it two-way, honest, and sufficiently frequent?
+4. Assess the obstacle removal — what structural and systemic barriers to adoption exist?
+5. Assess the culture alignment — does the organizational culture support the new behaviors the change requires?
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Vacation Rental
+# Vacation Rental
 ## How to Make Your Property Work as a Business
 
 **Series 9: Business & Extra Income — Book 9 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -116,7 +116,11 @@ Vacation rental guests compare their experience to hotels. Meeting or exceeding 
 - Thoughtful touches that aren't expected: a good coffee setup, high-quality bedding, good TV streaming setup
 - Fast and helpful responses to questions
 
-**The review formula:** Reviews are the primary driver of future bookings. Review quality is determined 80% by: (1) cleanliness, (2) accurate description match, (3) host communication speed. Nail these three and reviews generally take care of themselves.
+**The review formula:** Reviews are the primary driver of future bookings. Review quality is determined 80% by:
+
+1. cleanliness,
+2. accurate description match,
+3. host communication speed. Nail these three and reviews generally take care of themselves.
 
 ---
 

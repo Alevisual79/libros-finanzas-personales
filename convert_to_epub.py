@@ -56,6 +56,9 @@ CSS_PATH = os.path.join(BASE, "_epub_style.css")
 
 
 def _write_css():
+    # If external file exists, use it (allows editing without touching this script)
+    if os.path.exists(CSS_PATH):
+        return
     with open(CSS_PATH, "w", encoding="utf-8") as f:
         f.write(EPUB_CSS)
 

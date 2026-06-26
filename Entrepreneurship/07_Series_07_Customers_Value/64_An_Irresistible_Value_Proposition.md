@@ -1,4 +1,4 @@
-﻿# An Irresistible Value Proposition
+# An Irresistible Value Proposition
 ## How to communicate what you offer so the right customers can't say no
 
 **Series 07: Customers and Value — Book 4 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -39,7 +39,11 @@ The most common value proposition failure is not inaccuracy but obscurity: the u
 
 The value propositions most commonly produced by small businesses in knowledge-intensive fields: "We provide comprehensive, client-centered solutions that leverage best-in-class methodologies to drive business outcomes." "We offer innovative approaches to complex challenges with a focus on sustainable growth." These propositions are syntactically complete and semantically meaningless; they communicate nothing specific about who the business serves, what it actually delivers, or why a prospective customer should care.
 
-The clarity standard for effective value propositions: a prospective customer who has never heard of the business should, after reading the value proposition, be able to answer three questions: (1) What does this business offer? (2) Is it for someone like me? (3) Why would I choose it over alternatives? If the prospective customer cannot answer these three questions from the value proposition alone, it needs to be rewritten.
+The clarity standard for effective value propositions: a prospective customer who has never heard of the business should, after reading the value proposition, be able to answer three questions:
+
+1. What does this business offer?
+2. Is it for someone like me?
+3. Why would I choose it over alternatives? If the prospective customer cannot answer these three questions from the value proposition alone, it needs to be rewritten.
 
 ---
 

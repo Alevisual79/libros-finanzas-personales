@@ -1,4 +1,4 @@
-﻿# Autorregulación y Autocontrol
+# Autorregulación y Autocontrol
 ## Como tomar decisiones alineadas con quien quieres ser
 
 **Serie 08: Personalidad y Comportamiento — Libro 8 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -37,7 +37,7 @@ La autorregulación que se basa solo en resistir impulsos en el momento agota. L
 
 Ruben ha notado que sus peores decisiones las toma al final de un dia largo. Hay una explicación para ese patron.
 
-**El Principio del Agotamiento del Ego como Limitación Real (con Matices) de la Fuerza de Voluntad:** Roy Baumeister, Mark Muraven, y colegas propusieron el modeló de ego depletion (agotamiento del ego): la fuerza de voluntad funciona cómo un recurso que se agota con el uso. Los estudios originales mostraron que personas que habían ejercido autocontrol en una tarea mostraban menor autocontrol en tareas posteriores.
+**El Principio del Agotamiento del Ego como Limitación Real (con Matices) de la Fuerza de Voluntad:** Roy Baumeister, Mark Muraven, y colegas propusieron el modeló de ego depletion (agotamiento del ego): la fuerza de voluntad funciona como un recurso que se agota con el uso. Los estudios originales mostraron que personas que habían ejercido autocontrol en una tarea mostraban menor autocontrol en tareas posteriores.
 
 Los intentos de replicar este efecto han producido resultados mixtos. La investigación más reciente de Michael Inzlicht y colegas propone una versión más matizada: el autocontrol fluctua no por agotamiento de un recurso físico sino por cambios en la motivación y la atención a lo largo del dia. El cansancio psicológico reduce la disponibilidad para el esfuerzo cognitivo, lo que incluye el autocontrol.
 

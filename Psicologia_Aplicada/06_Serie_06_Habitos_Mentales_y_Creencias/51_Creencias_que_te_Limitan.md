@@ -1,4 +1,4 @@
-﻿# Creencias que te Limitan
+# Creencias que te Limitan
 ## Identifica y desmonta los programas mentales que frenan tu vida
 
 **Serie 06: Habitos Mentales y Creencias — Libro 1 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -107,7 +107,7 @@ La creencia no cambia leyendo sobre por qué no debería ser cierta. Cambia acum
 
 Ruben ha notado que a veces cuando intenta cambiar sus creencias limitantes, hay una resistencia interna que no entiende bien.
 
-**El Principio de la Fusión Creencia-Identidad como Fuente de Resistencia al Cambio:** Marsha Linehan y otros terapeutas que trabajan con patrones profundamente arraigados proponen que las creencias limitantes nucleares frecuentemente estan tan fusionadas con la identidad que cambiarlas se siente cómo una amenaza al yo. La creencia soy una persona que no merece éxito no es solo una creencia sobre las posibilidades: es parte de quien se cree ser.
+**El Principio de la Fusión Creencia-Identidad como Fuente de Resistencia al Cambio:** Marsha Linehan y otros terapeutas que trabajan con patrones profundamente arraigados proponen que las creencias limitantes nucleares frecuentemente estan tan fusionadas con la identidad que cambiarlas se siente como una amenaza al yo. La creencia soy una persona que no merece éxito no es solo una creencia sobre las posibilidades: es parte de quien se cree ser.
 
 Steven Hayes, desarrollador de la Terapia de Aceptación y Compromiso, propone la técnica de la defusión cognitiva: crear distancia entre el yo que observa y el contenido de los pensamientos. En lugar de yo soy una persona que no puede liderar, la práctica de la defusión reformula como mi mente tiene el pensamiento de que no puedo liderar. Esta reformulación reduce la fusión entre la creencia y la identidad.
 

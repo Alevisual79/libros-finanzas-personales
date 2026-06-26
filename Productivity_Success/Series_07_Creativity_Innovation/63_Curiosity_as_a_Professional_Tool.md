@@ -1,4 +1,4 @@
-﻿# Curiosity as a Professional Tool
+# Curiosity as a Professional Tool
 ## The underrated cognitive habit that drives innovation and learning
 
 **Series 7: Creativity and Innovation — Book 3 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -107,7 +107,11 @@ The awe research: Dacher Keltner's research on awe — the experience of encount
 
 The wonder cultivation practice: the deliberate cultivation of wonder requires the intentional exposure to the surprising, the beautiful, and the genuinely strange — the podcast on a subject entirely outside one's domain, the museum visit, the conversation with someone whose life experience is entirely different from one's own, the nature walk that surfaces the specific mysteries of the natural world. These are not frivolous activities; they are the renewal of the cognitive orientation from which professional curiosity draws its energy.
 
-**Practical Exercise — The Curiosity Journal:** For one week, maintain a curiosity journal in which you record: (1) the questions that arose during the day that you did not pursue; (2) the things you encountered that genuinely surprised you; (3) the assumptions you made that you did not examine. At the end of the week, select the most interesting unchecked question and spend thirty minutes pursuing it. Notice what you find.
+**Practical Exercise — The Curiosity Journal:** For one week, maintain a curiosity journal in which you record:
+
+1. the questions that arose during the day that you did not pursue;
+2. the things you encountered that genuinely surprised you;
+3. the assumptions you made that you did not examine. At the end of the week, select the most interesting unchecked question and spend thirty minutes pursuing it. Notice what you find.
 
 ---
 

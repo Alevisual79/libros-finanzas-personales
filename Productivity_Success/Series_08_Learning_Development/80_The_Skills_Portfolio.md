@@ -1,4 +1,4 @@
-﻿# The Skills Portfolio
+# The Skills Portfolio
 ## Designing the professional capabilities that sustain a career across decades
 
 **Series 8: Learning and Development — Book 10 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -51,7 +51,11 @@ The portfolio balance: the skills portfolio that is optimally designed for the l
 
 The career development concept of the "adjacent possible" — borrowed from the evolutionary biology concept that the next step in evolution is determined by the biological structures already present — describes the specific space of skill developments that are most accessible from the current capability position.
 
-The accessible development frontier: the professional's adjacent possible at any career moment is the set of capability developments that: (a) build on existing capabilities without requiring a complete restart from novice; (b) address the unmet needs of the professional contexts most relevant to their current career position; and (c) are achievable within the development time and resources available. The skill that is most worth developing is not always the most valued skill in the abstract; it is the most valued skill that is most accessible from where the professional currently stands.
+The accessible development frontier: the professional's adjacent possible at any career moment is the set of capability developments that: (
+
+a) build on existing capabilities without requiring a complete restart from novice; (
+b) address the unmet needs of the professional contexts most relevant to their current career position; and (
+c) are achievable within the development time and resources available. The skill that is most worth developing is not always the most valued skill in the abstract; it is the most valued skill that is most accessible from where the professional currently stands.
 
 The strategic adjacency: the strategic adjacency assessment asks: given where I currently am (current skills, current context, current career position), what skill development would most expand the professional opportunities available to me, while building most directly on what I already have? The answer is almost always a capability at the frontier of the current skill set rather than a capability in an entirely different domain — which would require the costly investment of learning from scratch without the leverage that the existing skill set provides.
 

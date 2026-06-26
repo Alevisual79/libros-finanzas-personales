@@ -1,4 +1,4 @@
-﻿# Atraer sin Jugar
+# Atraer sin Jugar
 ## Como conectar autenticamente sin técnicas de seducción manipuladoras
 
 **Serie 07: Citas y Amor Romantico — Libro 7 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -71,7 +71,7 @@ El humor que conecta no es el más gracioso calculado. Es el más genuino, el qu
 
 La disposición a mostrar genuinamente quien se es, aceptando el riesgo de que esa autenticidad no sea bien recibida por todos, es paradojicamente lo que genera las conexiones más significativas con quienes si resuenan con esa autenticidad.
 
-**El Principio del Filtro Natural de la Autenticidad:** Mostrar autenticamente quien se es funciona cómo un filtro natural: las personas que no resuenan con esa autenticidad se alejan, lo cual es información útil, no un fracaso, mientras que las que si resuenan generan una conexión más sólida que cualquier conexión basada en una versión actuada que oculta diferencias fundamentales de personalidad o valores.
+**El Principio del Filtro Natural de la Autenticidad:** Mostrar autenticamente quien se es funciona como un filtro natural: las personas que no resuenan con esa autenticidad se alejan, lo cual es información útil, no un fracaso, mientras que las que si resuenan generan una conexión más sólida que cualquier conexión basada en una versión actuada que oculta diferencias fundamentales de personalidad o valores.
 
 **Ejercicio inmediato:** Identifica un aspecto genuino de tu personalidad que has estado ocultando o suavizando en contextos romanticos por miedo a que no sea bien recibido. Considera mostrarlo más abiertamente en tu próxima interacción.
 

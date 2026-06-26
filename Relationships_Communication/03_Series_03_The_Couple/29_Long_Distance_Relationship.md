@@ -1,4 +1,4 @@
-﻿# Long Distance Relationship
+# Long Distance Relationship
 ## How to maintain the bond when geography separates
 
 **Series 3: The Couple — Book 9 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -107,7 +107,12 @@ A meaningful proportion of long-distance couples are not in long-distance situat
 
 These situations require a specific acknowledgment that the framework of "temporary until the end point" is not available, and that the long-distance arrangement may be the long-term structure of the relationship rather than its temporary exception. The clinical and research literature on these situations is less developed than on short-to-medium-term long-distance relationships, but the general finding is that the adaptation to long-distance as a permanent or semi-permanent structure — the building of a relationship that functions well in the conditions that are actually present rather than waiting for conditions that may not arrive — is more sustainable than the chronic orientation toward resolution that may not materialize.
 
-**Practical Exercise — The Long-Distance Relationship Audit:** For those in long-distance relationships: (1) What does our communication look like in a typical week, and is the quality genuine connection or primarily logistical update? (2) What is one specific communication practice we could implement that would improve the depth of our connection? (3) What is our current understanding of the end-point, and is it genuinely shared? (4) What is one specific thing I could do, this week, to make my partner feel genuinely cared for despite the distance?
+**Practical Exercise — The Long-Distance Relationship Audit:** For those in long-distance relationships:
+
+1. What does our communication look like in a typical week, and is the quality genuine connection or primarily logistical update?
+2. What is one specific communication practice we could implement that would improve the depth of our connection?
+3. What is our current understanding of the end-point, and is it genuinely shared?
+4. What is one specific thing I could do, this week, to make my partner feel genuinely cared for despite the distance?
 
 ---
 

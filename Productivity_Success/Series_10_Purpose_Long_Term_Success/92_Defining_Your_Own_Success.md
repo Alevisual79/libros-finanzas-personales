@@ -1,4 +1,4 @@
-﻿# Defining Your Own Success
+# Defining Your Own Success
 ## The critical work of building a success definition that actually serves your life
 
 **Series 10: Purpose and Long-Term Success — Book 2 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -73,7 +73,11 @@ The reference group effect: the research on social comparison and wellbeing (ref
 
 The comparison management: the management of the social comparison pressure requires the specific practices that the Book 90 discussion describes: the deliberate diversification of the comparison reference group to include peers who define success on terms consistent with the professional's personal definition; the cultivation of the internal success assessment that reduces the dependency on external comparison; and the deliberate engagement with the research on what actually produces wellbeing — which consistently shows that the dimensions the professional's personal success definition emphasizes (meaning, relationships, health, growth) are the dimensions with the strongest wellbeing research support.
 
-**Practical Exercise — The Personal Success Definition:** Write down, in detail, your current success definition — the specific criteria you would use to evaluate whether your professional life has been a success. Then ask, for each criterion: (1) Did I choose this criterion, or did I inherit it? (2) Does this criterion reflect what I actually value, or what I've been told to value? (3) If this criterion is met, will I genuinely be satisfied, or will I immediately reset to a higher bar? Based on this analysis, write a revised success definition that is explicitly your own, includes criteria across the life domains you value, and includes both process and outcome criteria.
+**Practical Exercise — The Personal Success Definition:** Write down, in detail, your current success definition — the specific criteria you would use to evaluate whether your professional life has been a success. Then ask, for each criterion:
+
+1. Did I choose this criterion, or did I inherit it?
+2. Does this criterion reflect what I actually value, or what I've been told to value?
+3. If this criterion is met, will I genuinely be satisfied, or will I immediately reset to a higher bar? Based on this analysis, write a revised success definition that is explicitly your own, includes criteria across the life domains you value, and includes both process and outcome criteria.
 
 ---
 

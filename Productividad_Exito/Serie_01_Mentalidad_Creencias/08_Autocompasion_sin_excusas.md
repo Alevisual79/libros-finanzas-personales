@@ -1,4 +1,4 @@
-﻿# Autocompasión sin excusas
+# Autocompasión sin excusas
 
 ## Ser amable contigo mismo sin perder la exigencia
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -177,7 +177,7 @@ La investigación no lo respalda. De hecho, las personas con alta autocompasión
 - Recibir mejor el feedback crítico (porque su autoestima no depende de la perfección)
 - Rendir de forma más consistente a largo plazo (porque no se agotan)
 
-La exigencia sin autocompasión funciona cómo un sprint: intensa, insostenible. La exigencia con autocompasión funciona cómo un entrenamiento de fondo: constante, adaptativa, duradera.
+La exigencia sin autocompasión funciona como un sprint: intensa, insostenible. La exigencia con autocompasión funciona como un entrenamiento de fondo: constante, adaptativa, duradera.
 
 ---
 

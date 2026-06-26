@@ -1,4 +1,4 @@
-﻿# El Miedo a la Intimidad
+# El Miedo a la Intimidad
 ## Por qué nos alejamos de quienes más queremos
 
 **Serie 01: Conocete a Ti Mismo — Libro 2 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -73,7 +73,7 @@ No tienes que abrirte en todos los frentes a la vez. Empieza por la capa en que 
 
 Cuanto más se acercaba la novia de Pablo, más encontraba Pablo razones para alejarse. Pero cuando ella finalmente se alejaba, Pablo sentía un vacio que no podía tolerar y volvía a acercarse. Su novia lo llamaba incoherente. No lo era. Tenia la paradoja del distanciador: necesita la conexión y le aterra al mismo tiempo.
 
-**El Principio del Termostato Relacional:** El distanciador funciona cómo un termostato de intimidad. Cuando la conexión sube por encima de su umbral de tolerancia, activa conductas que enfrían la relación: críticas, desapariciones, ocupaciones repentinas, frialdad emocional. Cuando la conexión baja demasiado, activa conductas de aproximación. El resultado es que mantiene la relación siempre a la misma temperatura, nunca demasiado cerca, nunca demasiado lejos, sin que el otro entienda el patron.
+**El Principio del Termostato Relacional:** El distanciador funciona como un termostato de intimidad. Cuando la conexión sube por encima de su umbral de tolerancia, activa conductas que enfrían la relación: críticas, desapariciones, ocupaciones repentinas, frialdad emocional. Cuando la conexión baja demasiado, activa conductas de aproximación. El resultado es que mantiene la relación siempre a la misma temperatura, nunca demasiado cerca, nunca demasiado lejos, sin que el otro entienda el patron.
 
 David Schnarch, terapeuta de pareja, describe este fenómeno como diferenciación baja: la incapacidad de mantener un sentido estable de uno mismo dentro de la conexión emocional con otro. El distanciador regula su ansiedad controlando la distancia. El buscador ansioso regula la suya persiguiendo la cercania. Juntos forman el ciclo de perseguidor-distanciador que Gottman identifica en el 80% de las parejas en conflicto.
 

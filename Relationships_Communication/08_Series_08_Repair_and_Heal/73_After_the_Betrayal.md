@@ -1,4 +1,4 @@
-﻿# After the Betrayal
+# After the Betrayal
 ## How to live and decide when someone you loved failed you
 
 **Series 8: Repair and Heal — Book 3 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -83,7 +83,11 @@ The meeting had not produced the outcome she had half-hoped for — the explanat
 
 This revelation had been painful. It had also been clarifying. Elena had not, after the meeting, been uncertain about the relationship's future. She had been certain — with the specific certainty of genuine knowledge rather than the defensive certainty of anger — that there was no future to protect.
 
-**Practical Exercise — The Reality Check:** After a significant betrayal, it is useful to carefully distinguish between: (1) What you now know with genuine certainty about what happened; (2) What you suspect or fear but cannot verify; and (3) What you have been telling yourself about what it means. These three categories often become confused in the aftermath of betrayal, and the confusion compounds the distress. Separating them does not make the situation easier, but it makes it more accurately known.
+**Practical Exercise — The Reality Check:** After a significant betrayal, it is useful to carefully distinguish between:
+
+1. What you now know with genuine certainty about what happened;
+2. What you suspect or fear but cannot verify; and
+3. What you have been telling yourself about what it means. These three categories often become confused in the aftermath of betrayal, and the confusion compounds the distress. Separating them does not make the situation easier, but it makes it more accurately known.
 
 ---
 

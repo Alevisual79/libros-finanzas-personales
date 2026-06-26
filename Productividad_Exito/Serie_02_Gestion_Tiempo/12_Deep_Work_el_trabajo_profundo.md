@@ -1,4 +1,4 @@
-﻿# Deep Work: El trabajo profundo que lo cambia todo
+# Deep Work: El trabajo profundo que lo cambia todo
 
 ## Cómo hacer en 4 horas lo que otros no hacen en 8
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -148,8 +148,8 @@ Newport recomienda llevar un registro de las horas de trabajo profundo completad
 **La métrica de produndidad:**
 ¿Qué sería el resultado concreto al final de esta semana que probaría que he hecho trabajo profundo real?
 
-Para Elena: el módulo de autenticación completado y revisado.  
-Para Rubén: los tres artículos del mes escritos y publicados.  
+Para Elena: el módulo de autenticación completado y revisado. 
+Para Rubén: los tres artículos del mes escritos y publicados. 
 Para Isabel: el informe de evaluación de rendimiento del equipo terminado.
 
 Cuando la métrica es el output, no las horas, la tentación del trabajo superficial ocupado se reduce.

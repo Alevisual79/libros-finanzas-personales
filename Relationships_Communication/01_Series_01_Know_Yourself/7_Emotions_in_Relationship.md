@@ -1,4 +1,4 @@
-﻿# Emotions in Relationship
+# Emotions in Relationship
 ## Understanding and working with the emotional life that relationships produce
 
 **Series 1: Know Yourself in Relationships — Book 7 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -27,7 +27,10 @@ This book is about the emotional life that relationships produce and require —
 
 The scientific understanding of emotion has undergone significant revision over the past three decades. The older view — that emotions are irrational disruptions to cognition, best managed through suppression or rational override — has been replaced by a more sophisticated picture in which emotions are primary information systems, evolved to signal the relevance of situations to the organism's core concerns.
 
-The neuroscientist Antonio Damasio's research, summarized in *Descartes' Error* (1994) and *The Feeling of What Happens* (1999), demonstrated through the study of patients with damage to the emotional processing regions of the brain that the removal of emotional capacity does not produce a cooler rationality — it produces a profound inability to make effective decisions. The patients could analyze options logically but could not choose among them, because emotional signals were not available to indicate which outcomes mattered. Emotion, Damasio concluded, is not the enemy of reason; it is its necessary partner.
+The neuroscientist Antonio Damasio's research, summarized in *Descartes' Error*
+
+1994. and *The Feeling of What Happens*
+1999. , demonstrated through the study of patients with damage to the emotional processing regions of the brain that the removal of emotional capacity does not produce a cooler rationality — it produces a profound inability to make effective decisions. The patients could analyze options logically but could not choose among them, because emotional signals were not available to indicate which outcomes mattered. Emotion, Damasio concluded, is not the enemy of reason; it is its necessary partner.
 
 In the relational domain specifically, emotion serves as the primary signal system for what matters in a relationship: the signal of safety or threat in the attachment bond, the signal of connection or disconnection in the quality of interaction, the signal of value alignment or violation in the partner's behavior. The person who is cut off from their emotional experience is cut off from the most fundamental source of information about their relational life.
 

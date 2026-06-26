@@ -1,4 +1,4 @@
-﻿# Limites que Protegen
+# Limites que Protegen
 ## Cómo construir límites relacionales que funcionen de verdad
 
 **Serie 09: Limites y Relaciones Toxicas — Libro 2 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -75,7 +75,7 @@ Formular y comunicar efectivamente un límite requiere estructura y claridad esp
 
 **Ejercicio inmediato:** Para un límite que necesitas comunicar, práctica formularlo en una o dos frases claras, sin justificación excesiva, y evalua si suena suficientemente firme y directo.
 
-Un límite que se justifica excesivamente suena cómo una negociación abierta. Un límite claro y directo suena cómo lo que realmente es: una decisión tomada.
+Un límite que se justifica excesivamente suena como una negociación abierta. Un límite claro y directo suena como lo que realmente es: una decisión tomada.
 
 ---
 

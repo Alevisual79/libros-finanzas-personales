@@ -1,4 +1,4 @@
-﻿# The Year of Extreme Saving
+# The Year of Extreme Saving
 ## A One-Year Reset That Builds Lasting Habits
 
 **Series 3: Systematic Savings — Book 9 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -157,7 +157,10 @@ Ruben's post-year spending plan (decided before the year started):
 
 Savings and investment maintained at high rate — but the extreme income surplus was redirected to investment and longer-term goals rather than debt elimination and emergency fund building.
 
-The exit plan matters because without it, the year of constraint can either: (a) extend indefinitely, producing resentment and burnout, or (b) end in a reactive spending surge ("I deserve this after that year"), undoing some of the financial progress. The planned, moderate resumption of spending preserves gains while restoring balance.
+The exit plan matters because without it, the year of constraint can either: (
+
+a) extend indefinitely, producing resentment and burnout, or (
+b) end in a reactive spending surge ("I deserve this after that year"), undoing some of the financial progress. The planned, moderate resumption of spending preserves gains while restoring balance.
 
 **Immediate exercise:** Calculate what your savings rate would be if you cut your three largest discretionary spending categories by 50% for one year. What specific financial goal could you achieve? Is there one goal worth pursuing at that intensity for 12 months?
 

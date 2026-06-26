@@ -1,4 +1,4 @@
-﻿# Time blocking: Dueño de tu calendario
+# Time blocking: Dueño de tu calendario
 
 ## Bloquear tiempo para lo que importa antes de que lo robe lo urgente
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -97,8 +97,8 @@ Descanso, ejercicio, actividades de recuperación. Son parte del sistema, no con
 
 Rubén diseñó su semana ideal partiendo de sus prioridades:
 
-**Prioridad 1:** Crear contenido (la base de su negocio freelance)  
-**Prioridad 2:** Atender clientes (el trabajo que paga hoy)  
+**Prioridad 1:** Crear contenido (la base de su negocio freelance) 
+**Prioridad 2:** Atender clientes (el trabajo que paga hoy) 
 **Prioridad 3:** Prospección de nuevos clientes
 
 Su semana diseñada:

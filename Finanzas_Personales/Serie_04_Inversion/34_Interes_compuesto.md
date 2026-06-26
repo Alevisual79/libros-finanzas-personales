@@ -1,4 +1,4 @@
-﻿# El interés compuesto explicado con ejemplos reales
+# El interés compuesto explicado con ejemplos reales
 
 ## La matemática que lo cambia todo y que el sistema educativo nunca te enseñó
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -54,10 +54,10 @@ Con interés compuesto, cada año ganas interés no solo sobre el capital inicia
 
 Con 1.000 euros al 10% durante 10 años:
 
-Año 1: 1.000 → 1.100  
-Año 2: 1.100 → 1.210  
-Año 3: 1.210 → 1.331  
-Año 4: 1.331 → 1.464  
+Año 1: 1.000 → 1.100 
+Año 2: 1.100 → 1.210 
+Año 3: 1.210 → 1.331 
+Año 4: 1.331 → 1.464 
 Año 10: → 2.594 euros
 
 Interés simple: 2.000. Interés compuesto: 2.594.
@@ -76,8 +76,8 @@ Hay una forma rápida de calcular cuánto tarda en duplicarse una inversión.
 
 Divide 72 entre la tasa de interés anual.
 
-Al 6%: 72 / 6 = 12 años para duplicar.  
-Al 7%: 72 / 7 ≈ 10 años para duplicar.  
+Al 6%: 72 / 6 = 12 años para duplicar. 
+Al 7%: 72 / 7 ≈ 10 años para duplicar. 
 Al 10%: 72 / 10 = 7,2 años para duplicar.
 
 Simple. Útil. Memorable.
@@ -92,7 +92,7 @@ Si no los hubiera pagado, si se hubiera limitado a los mínimos como hacía ante
 
 La regla del 72 funciona en ambas direcciones.
 
-Para las inversiones: una herramienta de optimismo.  
+Para las inversiones: una herramienta de optimismo. 
 Para las deudas: una advertencia urgente.
 
 ---
@@ -101,8 +101,8 @@ Para las deudas: una advertencia urgente.
 
 El cuñado siempre tiene un argumento para no empezar.
 
-"Cuando tenga más dinero ahorrado, empiezo."  
-"Cuando el mercado caiga un poco, entro."  
+"Cuando tenga más dinero ahorrado, empiezo." 
+"Cuando el mercado caiga un poco, entro." 
 "Cuando tenga más claro cómo funciona todo esto, me meto."
 
 El cuñado lleva siete años con esos argumentos.
@@ -139,7 +139,7 @@ Una diferencia de comisión del 1,68% anual (la diferencia entre un fondo activo
 
 Sobre 100.000 euros durante 20 años:
 
-Fondo activo: 7% bruto menos 1,8% de comisión = 5,2% neto. Resultado: 276.000 euros.  
+Fondo activo: 7% bruto menos 1,8% de comisión = 5,2% neto. Resultado: 276.000 euros. 
 ETF indexado: 7% bruto menos 0,12% de comisión = 6,88% neto. Resultado: 378.000 euros.
 
 Diferencia: 102.000 euros. Solo por el coste.
@@ -196,14 +196,14 @@ Don Alberto, con sus 920 euros de pensión, descubrió demasiado tarde que sus a
 
 Carlos, 42 años. 400 euros al mes invertidos en fondos indexados. Horizonte de 23 años. Rentabilidad esperada del 7% real.
 
-Capital final: aproximadamente 280.000 euros.  
-Total aportado: 110.400 euros.  
+Capital final: aproximadamente 280.000 euros. 
+Total aportado: 110.400 euros. 
 Generado por el interés compuesto: casi 170.000 euros.
 
 Marta, 31 años. 200 euros al mes. Horizonte de 34 años (hasta los 65). Misma rentabilidad del 7%.
 
-Capital final: aproximadamente 275.000 euros.  
-Total aportado: 81.600 euros.  
+Capital final: aproximadamente 275.000 euros. 
+Total aportado: 81.600 euros. 
 Generado por el interés compuesto: más de 193.000 euros.
 
 Marta invierte la mitad que Carlos por mes. Empezó once años antes. El resultado final es prácticamente el mismo.

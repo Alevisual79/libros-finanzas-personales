@@ -1,4 +1,4 @@
-﻿# Dormir con ansiedad
+# Dormir con ansiedad
 
 ## Cuando la mente no para y el cuerpo no descansa: herramientas que funcionan
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -162,7 +162,7 @@ La luz intensa (incluyendo pantallas brillantes) mantiene el sistema nervioso en
 No solo por la luz azul: las pantallas son fuentes de contenido activador (noticias, redes sociales, mensajes). El dormitorio debe ser un espacio asociado solo al sueño y al sexo, no al trabajo ni al entretenimiento.
 
 **La transición ritual:**
-Una secuencia fija de acciones (ducha, lectura tranquila, ejercicios de respiración, apagar la luz) actúa cómo una cadena de señales condicionadas que el cerebro aprende a asociar con el sueño. Con el tiempo, el inició de la rutina ya empieza a reducir la activación.
+Una secuencia fija de acciones (ducha, lectura tranquila, ejercicios de respiración, apagar la luz) actúa como una cadena de señales condicionadas que el cerebro aprende a asociar con el sueño. Con el tiempo, el inició de la rutina ya empieza a reducir la activación.
 
 ---
 

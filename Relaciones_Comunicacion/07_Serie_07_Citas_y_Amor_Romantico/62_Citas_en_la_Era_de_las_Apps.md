@@ -1,4 +1,4 @@
-﻿# Citas en la Era de las Apps
+# Citas en la Era de las Apps
 ## Cómo usar Tinder, Bumble y otras para encontrar algo real
 
 **Serie 07: Citas y Amor Romantico — Libro 2 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -33,7 +33,7 @@ Las apps de citas no son simplemente una versión digital del cortejo tradiciona
 
 ## Capítulo 2: Crear un perfil autentico que conecte
 
-El perfil en una aplicación de citas funciona cómo la primera impresión que determina si alguien decide interactuar, y la investigación sugiere que la autenticidad genera mejores resultados a largo plazo que la optimización estratégica para maximizar matches superficiales.
+El perfil en una aplicación de citas funciona como la primera impresión que determina si alguien decide interactuar, y la investigación sugiere que la autenticidad genera mejores resultados a largo plazo que la optimización estratégica para maximizar matches superficiales.
 
 **El Principio de la Autenticidad como Filtro de Compatibilidad:** Un perfil que representa autenticamente quien es la persona, incluyendo detalles específicos sobre intereses y valores reales, atrae a personas genuinamente compatibles y filtra naturalmente a quienes no lo serían, mientras que un perfil optimizado exclusivamente para maximizar la atracción superficial (fotos editadas excesivamente, descripciones genericas que aparentan ser interesantes) puede generar más matches iniciales pero con menor probabilidad de compatibilidad real.
 

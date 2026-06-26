@@ -1,4 +1,4 @@
-﻿# Creative Routines
+# Creative Routines
 ## The daily practices that sustain creative output over a lifetime
 
 **Series 7: Creativity and Innovation — Book 10 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -111,7 +111,14 @@ The minimum viable routine: the creative practitioners whose routines survive di
 
 The return after interruption: the creative routine that has been interrupted — by illness, by an organizational crisis, by a significant life event — requires a deliberate return. The professional who waits until the optimal conditions for the full routine are restored may wait indefinitely; the professional who returns to the minimum viable routine as soon as possible after the disruption ends is restoring the creative practice before the gap between them has grown into a permanent absence.
 
-**Practical Exercise — The Creative Routine Design:** Design your personal creative routine. Identify: (1) The specific time of day you will do your primary creative work; (2) The environment you will work in; (3) The specific pre-work practice you will use to transition into creative engagement; (4) The duration of each session; (5) The protection practices you need to maintain the routine; and (6) The minimum viable version of the routine for disrupted circumstances. Commit to the routine for thirty days. After thirty days, review and refine.
+**Practical Exercise — The Creative Routine Design:** Design your personal creative routine. Identify:
+
+1. The specific time of day you will do your primary creative work;
+2. The environment you will work in;
+3. The specific pre-work practice you will use to transition into creative engagement;
+4. The duration of each session;
+5. The protection practices you need to maintain the routine; and
+6. The minimum viable version of the routine for disrupted circumstances. Commit to the routine for thirty days. After thirty days, review and refine.
 
 ---
 

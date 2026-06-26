@@ -1,4 +1,4 @@
-﻿# Ultralearning
+# Ultralearning
 ## The strategies behind aggressive, self-directed skill acquisition
 
 **Series 8: Learning and Development — Book 2 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -97,7 +97,12 @@ The feedback types: the ultralearner distinguishes between three types of feedba
 
 The expert feedback access: the most valuable feedback for the ultralearner is the feedback of a domain expert — the practitioner who can identify not only the error in the current performance but the specific understanding deficit or skill gap that the error reveals. The ultralearner who designs their project to include regular expert feedback (through the mentorship relationship, the online community of practitioners, the paid coaching, or the formal assessment) is obtaining the feedback quality that most accelerates development.
 
-**Practical Exercise — The Mini Ultralearning Project:** Identify a skill you want to develop that would take most people months to acquire. Design a one-month intensive learning project using the ultralearning principles: (1) Spend the first three days in metalearning — researching the most effective resources and approach; (2) Commit to daily direct practice sessions; (3) Design a specific feedback mechanism; (4) Track what you learn. At the end of the month, assess your progress and refine the approach for the second month.
+**Practical Exercise — The Mini Ultralearning Project:** Identify a skill you want to develop that would take most people months to acquire. Design a one-month intensive learning project using the ultralearning principles:
+
+1. Spend the first three days in metalearning — researching the most effective resources and approach;
+2. Commit to daily direct practice sessions;
+3. Design a specific feedback mechanism;
+4. Track what you learn. At the end of the month, assess your progress and refine the approach for the second month.
 
 ---
 

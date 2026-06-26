@@ -1,4 +1,4 @@
-﻿# Neuroticismo y Estabilidad Emocional
+# Neuroticismo y Estabilidad Emocional
 ## Entender tu tendencia a la reactividad emocional
 
 **Serie 08: Personalidad y Comportamiento — Libro 3 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -111,7 +111,7 @@ Ruben tiene neuroticismo alto y trabaja en un entorno de alta presión. La combi
 
 Sin embargo, el neuroticismo alto también se asocia con fortalezas específicas: mayor atención a los detalles y al riesgo (las personas con neuroticismo alto son mejores detectoras de errores), mayor motivación en entornos donde las consecuencias del fallo son visibles (la ansiedad ante el fracaso puede ser un motivador efectivo en los rangos moderados), y mayor empatia con el sufrimiento de otros (lo que puede ser un activo en roles de cuidado, ensenanza, y liderazgo afectivo).
 
-**Ejercicio inmediato:** En tu contexto laboral, identifica los tres momentos donde el neuroticismo alto te cuesta más (situaciones de alta incertidumbre, momentos de alta crítica, períodos de sobrecarga) y los dos donde actua cómo un activo (atención al detalle, motivación ante los deadlines). Ese mapa te permite gestionar los primeros y aprovechar los segundos.
+**Ejercicio inmediato:** En tu contexto laboral, identifica los tres momentos donde el neuroticismo alto te cuesta más (situaciones de alta incertidumbre, momentos de alta crítica, períodos de sobrecarga) y los dos donde actua como un activo (atención al detalle, motivación ante los deadlines). Ese mapa te permite gestionar los primeros y aprovechar los segundos.
 
 El neuroticismo en el trabajo no es solo un problema. Es también el radar que detecta los problemas antes que los demás.
 

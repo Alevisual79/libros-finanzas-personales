@@ -1,4 +1,4 @@
-﻿# The Power of Compound Interest
+# The Power of Compound Interest
 ## The Eighth Wonder of the World
 
 **Series 4: Investing — Book 4 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -158,7 +158,10 @@ Total projected balance at 65: approximately $1,412,000.
 
 She can't recover the years she didn't invest. But the compounding on what she saves going forward still produces a result that changes her retirement trajectory from concerning to comfortable.
 
-**Immediate exercise:** Use a compound interest calculator to calculate two scenarios: (1) what your current balance grows to at 7% return by retirement age, and (2) what your current balance plus planned contributions grows to. The difference between these two scenarios is the value of your planned contributions. Seeing the numbers makes the plan real.
+**Immediate exercise:** Use a compound interest calculator to calculate two scenarios:
+
+1. what your current balance grows to at 7% return by retirement age, and
+2. what your current balance plus planned contributions grows to. The difference between these two scenarios is the value of your planned contributions. Seeing the numbers makes the plan real.
 
 ---
 

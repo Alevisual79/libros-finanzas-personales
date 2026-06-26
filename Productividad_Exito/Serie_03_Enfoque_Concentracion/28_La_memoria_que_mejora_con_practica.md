@@ -1,4 +1,4 @@
-﻿# La memoria que mejora con práctica
+# La memoria que mejora con práctica
 
 ## Técnicas de memorización para adultos
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -26,7 +26,7 @@ La memoria no es un talento fijo. Es una habilidad con técnicas concretas que p
 
 ## Capítulo 1: Cómo funciona la memoria humana
 
-La memoria humana no funciona cómo un grabador de vídeo. No registra la experiencia fielmente y luego la reproduce. Construye, reconstruye e interpreta.
+La memoria humana no funciona como un grabador de vídeo. No registra la experiencia fielmente y luego la reproduce. Construye, reconstruye e interpreta.
 
 **Los tres sistemas de memoria:**
 

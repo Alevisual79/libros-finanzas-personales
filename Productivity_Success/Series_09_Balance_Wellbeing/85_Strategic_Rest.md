@@ -1,4 +1,4 @@
-﻿# Strategic Rest
+# Strategic Rest
 ## The science of recovery and how to make it work for your performance
 
 **Series 9: Balance and Wellbeing — Book 5 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -79,7 +79,11 @@ The digital detox finding: the research on technology use during vacations consi
 
 The optimal vacation duration: the research on vacation duration and recovery finds that the maximum recovery benefit is typically achieved within the first five to eight days of a vacation — with benefits plateauing and sometimes declining in longer vacations as the novelty and the positive affect that drive the recovery response diminish. The practical implication is that the recovery per vacation day is highest in shorter, more frequent vacations than in the single long annual vacation.
 
-**Practical Exercise — The Rest Audit:** For one week, track what you do during all non-work hours. At the end of the week, categorize each activity as: (1) genuinely restorative rest (providing psychological detachment and positive affect); (2) passive time-filling (screen time, social media, entertainment without genuine engagement); (3) obligation activities (household tasks, childcare, social obligations). What proportion of your non-work time is genuinely restorative? What one change would most increase the restorative proportion?
+**Practical Exercise — The Rest Audit:** For one week, track what you do during all non-work hours. At the end of the week, categorize each activity as:
+
+1. genuinely restorative rest (providing psychological detachment and positive affect);
+2. passive time-filling (screen time, social media, entertainment without genuine engagement);
+3. obligation activities (household tasks, childcare, social obligations). What proportion of your non-work time is genuinely restorative? What one change would most increase the restorative proportion?
 
 ---
 

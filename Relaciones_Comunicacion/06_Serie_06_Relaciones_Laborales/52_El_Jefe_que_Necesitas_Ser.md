@@ -1,4 +1,4 @@
-﻿# El Jefe que Necesitas Ser
+# El Jefe que Necesitas Ser
 ## Liderar personas desde la relación, no desde el miedo
 
 **Serie 06: Relaciones Laborales — Libro 2 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -47,7 +47,7 @@ El liderazgo no es una habilidad técnica que se ejerce sobre procesos. Es una h
 
 La confianza que un equipo tiene en su líder es, segun la investigación, uno de los predictores más fuertes de desempeño organizacional, y se construye o se destruye a traves de patrones específicos y observables de comportamiento.
 
-**El Principio de la Confianza como Activo Acumulable:** La confianza en el liderazgo se construye a traves de la consistencia entre lo que el líder dice y lo que hace, la transparencia sobre las razones detras de las decisiones, y la disposición de admitir errores propios en lugar de proyectarlos hacía el equipo. Esta confianza, una vez construida, funciona cómo un activo que permite al equipo tolerar mejor los períodos de dificultad o incertidumbre.
+**El Principio de la Confianza como Activo Acumulable:** La confianza en el liderazgo se construye a traves de la consistencia entre lo que el líder dice y lo que hace, la transparencia sobre las razones detras de las decisiones, y la disposición de admitir errores propios en lugar de proyectarlos hacía el equipo. Esta confianza, una vez construida, funciona como un activo que permite al equipo tolerar mejor los períodos de dificultad o incertidumbre.
 
 **Ejercicio inmediato:** Identifica una acción concreta que podrías tomar esta semana para fortalecer la confianza de tu equipo en ti: mayor transparencia sobre una decisión difícil, o el reconocimiento explícito de un error reciente.
 

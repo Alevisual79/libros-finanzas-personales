@@ -1,4 +1,4 @@
-﻿# Habitos Mentales de la Gente Resiliente
+# Habitos Mentales de la Gente Resiliente
 ## Lo que hacen mentalmente las personas que se recuperan bien
 
 **Serie 06: Habitos Mentales y Creencias — Libro 10 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -65,7 +65,7 @@ La adversidad que no tiene sentido destruye. La que tiene alguno que puedes enco
 
 Ruben ha descubierto que una de las diferencias entre el y las personas que atraviesan las dificultades mejor es una creencia que parece pequeña pero tiene un impacto enorme.
 
-**El Principio de la Autoeficacia Generalizada como Recurso de Resiliencia:** Bandura y Ralf Schwarzer han investigado la autoeficacia generalizada: la creencia de que se puede afrontar de forma efectiva las situaciones difíciles en general, no solo en dominios específicos. Esta creencia de base actua cómo un recurso que se activa ante cualquier adversidad nueva, produciendo la disposición de intentarlo en lugar de la disposición de rendirse.
+**El Principio de la Autoeficacia Generalizada como Recurso de Resiliencia:** Bandura y Ralf Schwarzer han investigado la autoeficacia generalizada: la creencia de que se puede afrontar de forma efectiva las situaciones difíciles en general, no solo en dominios específicos. Esta creencia de base actua como un recurso que se activa ante cualquier adversidad nueva, produciendo la disposición de intentarlo en lugar de la disposición de rendirse.
 
 La investigación muestra que la autoeficacia generalizada predice la recuperación en multiples contextos: recuperación de enfermedades, adaptación a cambios laborales, respuesta a perdidas. No porque garantice el éxito sino porque produce la persistencia que hace más probable el éxito.
 

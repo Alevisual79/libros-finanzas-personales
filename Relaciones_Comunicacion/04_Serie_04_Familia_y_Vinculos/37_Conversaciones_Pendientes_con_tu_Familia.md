@@ -1,4 +1,4 @@
-﻿# Conversaciones Pendientes con tu Familia
+# Conversaciones Pendientes con tu Familia
 ## Las conversaciones que cambian las relaciones familiares para siempre
 
 **Serie 04: Familia y Vinculos — Libro 7 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -25,7 +25,7 @@ Las conversaciones familiares pendientes son, casi siempre, las que más potenci
 
 El aplazamiento de conversaciones familiares importantes no es simple pereza o falta de tiempo. Responde a mecanismos psicológicos específicos relacionados con el miedo al conflicto y a la vulnerabilidad.
 
-**El Principio de la Evitación Protectora:** Las conversaciones familiares que más se aplazan son las que involucran mayor vulnerabilidad emocional: expresar admiración, pedir perdon, confrontar un daño pasado. El aplazamiento funciona cómo una protección temporal contra el riesgo percibido (rechazó, conflicto, vergüenza), pero ese riesgo percibido frecuentemente es mayor que el riesgo real, y el coste de la evitación prolongada (la distancia emocional acumulada) suele ser mayor que el coste de la conversación misma.
+**El Principio de la Evitación Protectora:** Las conversaciones familiares que más se aplazan son las que involucran mayor vulnerabilidad emocional: expresar admiración, pedir perdon, confrontar un daño pasado. El aplazamiento funciona como una protección temporal contra el riesgo percibido (rechazó, conflicto, vergüenza), pero ese riesgo percibido frecuentemente es mayor que el riesgo real, y el coste de la evitación prolongada (la distancia emocional acumulada) suele ser mayor que el coste de la conversación misma.
 
 **Ejercicio inmediato:** Identifica una conversación familiar que llevas posponiendo. Que es exactamente lo que temes que ocurra si la tienes? Evalua si ese temor específico es realista o si esta inflado por la ansiedad de la anticipación.
 
@@ -35,7 +35,7 @@ Lo que tememos de una conversación difícil casi siempre es peor en nuestra ima
 
 ## Capítulo 2: El coste del silencio en las relaciones familiares
 
-El silencio prolongado sobre temas importantes en la familia no es neutral. Tiene un coste acumulativo en la calidad de la relación que frecuentemente se subestima porque no se siente cómo una acción, sino cómo una simple ausencia.
+El silencio prolongado sobre temas importantes en la familia no es neutral. Tiene un coste acumulativo en la calidad de la relación que frecuentemente se subestima porque no se siente como una acción, sino cómo una simple ausencia.
 
 **El Principio del Coste Acumulativo del Silencio:** El silencio sobre temas familiares importantes (agravios no resueltos, sentimientos no expresados, perdones no pedidos) no mantiene la relación estatica. La erosiona gradualmente, creando una distancia emocional que se acumula con cada año que pasa sin que el tema se aborde. Lo que parece la opción más segura (no decir nada) frecuentemente es la opción que más daño produce a largo plazo.
 

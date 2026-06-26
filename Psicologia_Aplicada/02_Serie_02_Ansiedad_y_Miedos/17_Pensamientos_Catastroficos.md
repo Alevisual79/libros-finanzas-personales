@@ -1,4 +1,4 @@
-﻿# Pensamientos Catastroficos
+# Pensamientos Catastroficos
 ## Como dejar de imaginar siempre el peor escenario
 
 **Serie 02: Ansiedad y Miedos — Libro 7 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -69,7 +69,11 @@ Isabel quiere una herramienta práctica para interrumpir los pensamientos catast
 
 El mecanismo de cambio no es el pensamiento alternativo en si mismo. Es el proceso de examinar el pensamiento original de forma deliberada que interrumpe el ciclo automático. El Sistema 2 (lento, deliberado) interviene en el ciclo que el Sistema 1 (rápido, automático) había iniciado. Con la práctica, este proceso se vuelve más rápido y eventualmente más automático, reduciendo la frecuencia y la intensidad de los episodios catastroficos.
 
-**Ejercicio inmediato:** Aplica las tres columnas a un pensamiento catastrofico reciente: (1) escribe el pensamiento exacto, (2) identifica las distorsiones cognitivas que contiene, (3) genera una versión más equilibrada. No para negar la posibilidad del resultado negativo, sino para verlo con la proporción que le corresponde dado lo que realmente sabes.
+**Ejercicio inmediato:** Aplica las tres columnas a un pensamiento catastrofico reciente:
+
+1. escribe el pensamiento exacto,
+2. identifica las distorsiones cognitivas que contiene,
+3. genera una versión más equilibrada. No para negar la posibilidad del resultado negativo, sino para verlo con la proporción que le corresponde dado lo que realmente sabes.
 
 Los pensamientos catastroficos no necesitan ser suprimidos. Necesitan ser examinados. El examen los reduce.
 

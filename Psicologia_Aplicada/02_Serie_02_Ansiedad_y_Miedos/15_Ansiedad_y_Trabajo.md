@@ -1,4 +1,4 @@
-﻿# Ansiedad y Trabajo
+# Ansiedad y Trabajo
 ## Cómo gestionar el estres laboral antes de que te queme
 
 **Serie 02: Ansiedad y Miedos — Libro 5 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -21,7 +21,7 @@ Elena lleva tres años en una empresa donde la presión es constante, las expect
 
 ## Capítulo 1: Estres laboral versus ansiedad laboral: distinción necesaria
 
-No todo estres en el trabajo es ansiedad patologica. Hay un nivel de activación relacionada con el trabajo que es adaptativa: facilita la concentración, mantiene la motivación, y produce el rendimiento que la tarea exige. El problema es cuando ese estres se vuelve cronico, desproporcionado, o tan independiente de la situación real que opera cómo un ruido de fondo permanente.
+No todo estres en el trabajo es ansiedad patologica. Hay un nivel de activación relacionada con el trabajo que es adaptativa: facilita la concentración, mantiene la motivación, y produce el rendimiento que la tarea exige. El problema es cuando ese estres se vuelve cronico, desproporcionado, o tan independiente de la situación real que opera como un ruido de fondo permanente.
 
 **El Principio del Eustres versus Distres:** Hans Selye, fisiologist que desarrollo el concepto de estres biológico, distinguia entre el eustres (estres positivo que facilita el rendimiento y la adaptación) y el distres (estres que deteriora el rendimiento y la salud). La diferencia no es solo intensidad sino control percibido, predictibilidad y duración. El eustres tiene una demanda clara, un punto final visible y recursos percibidos suficientes para manejarla. El distres tiene demandas percibidas que superan los recursos, sin punto final visible, y se vuelve cronico.
 

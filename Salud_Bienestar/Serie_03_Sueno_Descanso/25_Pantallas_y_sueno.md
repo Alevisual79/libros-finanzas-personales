@@ -1,4 +1,4 @@
-﻿# Pantallas, luz azul y el robo de tu sueño
+# Pantallas, luz azul y el robo de tu sueño
 
 ## Cómo la tecnología destruye el descanso y qué hacer al respecto
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -172,7 +172,7 @@ Siete días cambia la perspectiva sobre algo que se había normalizado completam
 
 ## Epílogo: La pantalla que roba sin que lo notes
 
-El robo de sueño de las pantallas es silencioso. No se siente cómo un robo. Se siente como disfrutar un rato antes de dormir.
+El robo de sueño de las pantallas es silencioso. No se siente como un robo. Se siente como disfrutar un rato antes de dormir.
 
 Pero el coste acumulado en calidad de sueño, energía, salud y bienestar es real y significativo.
 

@@ -1,4 +1,4 @@
-﻿# Tu Familia de Origen
+# Tu Familia de Origen
 ## Entiende de dónde vienes para elegir como quieres ser
 
 **Serie 04: Familia y Vinculos — Libro 1 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -27,7 +27,7 @@ Este libro no busca culpables. Busca el origen del mapa, para qué cada uno pued
 
 La familia de origen no es solo el lugar donde crecimos. Es el primer y más influyente sistema de aprendizaje emocional y relacional que cualquier ser humano experimenta.
 
-**El Principio del Sistema Formativo:** Murray Bowen, pionero de la terapia familiar sistemica, demostró que la familia de origen funciona cómo un sistema interconectado donde cada miembro influye y es influido por los demás, y que los patrones de ese sistema (formas de comunicarse, de manejar el conflicto, de expresar o reprimir emociones) se transmiten de generación en generación de forma mayormente inconsciente. No aprendemos a relacionarnos leyendo un manual. Aprendemos observando e imitando lo que vimos en casa.
+**El Principio del Sistema Formativo:** Murray Bowen, pionero de la terapia familiar sistemica, demostró que la familia de origen funciona como un sistema interconectado donde cada miembro influye y es influido por los demás, y que los patrones de ese sistema (formas de comunicarse, de manejar el conflicto, de expresar o reprimir emociones) se transmiten de generación en generación de forma mayormente inconsciente. No aprendemos a relacionarnos leyendo un manual. Aprendemos observando e imitando lo que vimos en casa.
 
 **Ejercicio inmediato:** Describe en tres frases cómo se manejaba el conflicto en tu familia de origen. Esas tres frases probablemente describen, con bastante precisión, como manejas el conflicto hoy, a menos que hayas hecho un trabajo consciente de cambio.
 

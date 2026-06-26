@@ -1,4 +1,4 @@
-﻿# Dopamina y distracción
+# Dopamina y distracción
 
 ## La neurociencia de por qué el móvil gana siempre... y cómo cambiar eso
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -84,7 +84,7 @@ Un documento complejo que hay que analizar no tiene las características de un f
 Para un cerebro bien entrenado en la búsqueda dopaminérgica digital, el trabajo profundo se siente, literalmente, aburrido y sin recompensa.
 
 **El resultado:**
-El cerebro busca activamente escapar del trabajo profundo hacía fuentes de mayor estimulación dopaminérgica. Este escape se siente cómo una necesidad, no cómo una elección.
+El cerebro busca activamente escapar del trabajo profundo hacía fuentes de mayor estimulación dopaminérgica. Este escape se siente como una necesidad, no cómo una elección.
 
 El umbral de tolerancia al aburrimiento determina la capacidad de trabajo profundo.
 

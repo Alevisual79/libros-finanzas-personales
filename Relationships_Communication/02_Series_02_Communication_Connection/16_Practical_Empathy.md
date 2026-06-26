@@ -1,4 +1,4 @@
-﻿# Practical Empathy
+# Practical Empathy
 ## How to put yourself in someone else's shoes without losing yourself
 
 **Series 2: Communication and Connection — Book 6 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -83,7 +83,12 @@ The research on empathic communication — particularly the work of Leslie Green
 
 David had developed, through practice, a reasonable vocabulary for empathic reflection — he could identify and name emotional experiences in others with some accuracy. What he was developing more slowly was the validation practice: the specific communication that what the other person was feeling made sense, that it was an understandable response to their situation. The validation was important because it specifically addressed the shame that often accompanies difficult emotional experiences: the implicit questioning of whether one's own reactions are appropriate.
 
-**Practical Exercise — The Empathic Pause:** The next time someone in your close life shares something difficult, practice the following before responding: (1) Allow yourself to feel what they are describing — let it land in you before you respond. (2) Identify the emotion you hear in what they're sharing. (3) Reflect it back ("It sounds like you're feeling...") before you say anything else. (4) Ask: "Is that right?" The pause and the reflection are the practice; the acknowledgment is the gift.
+**Practical Exercise — The Empathic Pause:** The next time someone in your close life shares something difficult, practice the following before responding:
+
+1. Allow yourself to feel what they are describing — let it land in you before you respond.
+2. Identify the emotion you hear in what they're sharing.
+3. Reflect it back ("It sounds like you're feeling...") before you say anything else.
+4. Ask: "Is that right?" The pause and the reflection are the practice; the acknowledgment is the gift.
 
 ---
 

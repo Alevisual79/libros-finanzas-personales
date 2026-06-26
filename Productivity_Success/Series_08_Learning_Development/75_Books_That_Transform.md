@@ -1,4 +1,4 @@
-﻿# Books That Transform
+# Books That Transform
 ## How to read with the depth that changes professional practice
 
 **Series 8: Learning and Development — Book 5 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -93,7 +93,13 @@ The accountability function: the reading group provides the accountability struc
 
 The diversity of application: the reading group that includes professionals from different functions, career stages, and organizational contexts applies the book's ideas to a more diverse range of situations than the individual reader can access alone. The specific application that one group member has identified often illuminates an application that the other members had not considered; the collective intelligence of the group extracts more applicable insight from the book than any individual could reach independently.
 
-**Practical Exercise — The Transformative Reading Design:** Choose one book you have been meaning to read but have not yet read. Before you begin: (1) Write the specific professional challenge you are bringing to the reading; (2) Generate five questions you want the book to answer; (3) Commit to annotating actively, recording each significant idea and its specific professional application; (4) Schedule a specific date on which you will review your annotations and extract the three most important application decisions; (5) Commit to implementing at least one specific change within two weeks of finishing the book. After reading, compare your application to what you would have done with your usual reading approach.
+**Practical Exercise — The Transformative Reading Design:** Choose one book you have been meaning to read but have not yet read. Before you begin:
+
+1. Write the specific professional challenge you are bringing to the reading;
+2. Generate five questions you want the book to answer;
+3. Commit to annotating actively, recording each significant idea and its specific professional application;
+4. Schedule a specific date on which you will review your annotations and extract the three most important application decisions;
+5. Commit to implementing at least one specific change within two weeks of finishing the book. After reading, compare your application to what you would have done with your usual reading approach.
 
 ---
 

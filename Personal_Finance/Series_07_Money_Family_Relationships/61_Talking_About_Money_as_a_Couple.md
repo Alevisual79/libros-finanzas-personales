@@ -1,4 +1,4 @@
-﻿# Talking About Money as a Couple
+# Talking About Money as a Couple
 ## The Conversations That Protect Relationships
 
 **Series 7: Money, Family & Relationships — Book 1 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -149,7 +149,13 @@ The core of a durable financial system for couples has four elements. First, a s
 
 The most important thing about building this system is starting imperfectly rather than not starting. Couples who wait until they have all the right structures in place before talking about money are engaged in high-quality procrastination. The imperfect conversation — clumsy, incomplete, a little awkward — is vastly more valuable than the perfect conversation that never happens. Financial therapists consistently observe that couples make their biggest leaps forward not from having their best conversation but from having their first honest one. The system doesn't need to be beautiful to work. It needs to be honest, regular, and revisited.
 
-**Building Your Financial System — A Starting Checklist:** This week, take the following steps with your partner. (1) Each of you lists every account you have: checking, savings, credit cards, investment accounts, retirement accounts, and any debts. Include the current balance and, for debts, the interest rate. (2) Share these lists with each other — no judgment, no reaction beyond clarifying questions. (3) Calculate your combined net worth: total assets minus total debts. (4) Schedule your first Monthly Money Meeting for a week from now. (5) At that meeting, agree on one shared financial goal for the next twelve months. This is the foundation. Everything else builds on it.
+**Building Your Financial System — A Starting Checklist:** This week, take the following steps with your partner.
+
+1. Each of you lists every account you have: checking, savings, credit cards, investment accounts, retirement accounts, and any debts. Include the current balance and, for debts, the interest rate.
+2. Share these lists with each other — no judgment, no reaction beyond clarifying questions.
+3. Calculate your combined net worth: total assets minus total debts.
+4. Schedule your first Monthly Money Meeting for a week from now.
+5. At that meeting, agree on one shared financial goal for the next twelve months. This is the foundation. Everything else builds on it.
 
 ---
 

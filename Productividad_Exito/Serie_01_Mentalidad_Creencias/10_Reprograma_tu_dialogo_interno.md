@@ -1,4 +1,4 @@
-﻿# Reprograma tu diálogo interno
+# Reprograma tu diálogo interno
 
 ## Cambiar la voz que te acompaña todo el día
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -222,7 +222,7 @@ La voz no es un hecho fijo. Es un hábito. Y los hábitos, con la práctica adec
 
 ---
 
-*Este es el Libro 10 de la colección Productividad y Éxito, Libro 10 de 10 de la Serie 1: Mentalidad y Creencias.*  
+*Este es el Libro 10 de la colección Productividad y Éxito, Libro 10 de 10 de la Serie 1: Mentalidad y Creencias.* 
 *Continúa con la Serie 2: Gestión del Tiempo.*
 
 ---

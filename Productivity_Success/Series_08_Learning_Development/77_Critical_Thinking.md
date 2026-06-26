@@ -1,4 +1,4 @@
-﻿# Critical Thinking
+# Critical Thinking
 ## The discipline of reasoning well in a world of information overload
 
 **Series 8: Learning and Development — Book 7 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -89,7 +89,12 @@ Groupthink: Irving Janis's concept of "groupthink" — the phenomenon in which t
 
 The devil's advocate: the structural antidote to groupthink that the critical thinking research most consistently endorses is the devil's advocate role: the formally assigned task of articulating the strongest case against the emerging consensus, regardless of the advocate's personal beliefs. The devil's advocate makes the critical evaluation that social dynamics would otherwise suppress, and the research on group decision quality consistently finds that groups with a devil's advocate produce better decisions than groups without one.
 
-**Practical Exercise — The Evidence Audit:** Identify one significant professional decision your team has made in the past year that was based primarily on evidence. For that evidence: (1) What type of evidence was it (experimental, observational, expert opinion, anecdote)? (2) What were the potential sources of bias? (3) Was there conflicting evidence you did not consider? (4) How confident are you now in the decision, having examined the evidence more critically? What would you do differently in the next evidence-based decision?
+**Practical Exercise — The Evidence Audit:** Identify one significant professional decision your team has made in the past year that was based primarily on evidence. For that evidence:
+
+1. What type of evidence was it (experimental, observational, expert opinion, anecdote)?
+2. What were the potential sources of bias?
+3. Was there conflicting evidence you did not consider?
+4. How confident are you now in the decision, having examined the evidence more critically? What would you do differently in the next evidence-based decision?
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Money and Purpose
+# Money and Purpose
 ## Navigating the relationship between financial success and meaningful work
 
 **Series 10: Purpose and Long-Term Success — Book 7 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -27,7 +27,10 @@ Marcus had spent a career balancing the two. Elena had built a company that had 
 
 The research on the relationship between financial outcomes and professional wellbeing is one of the most extensive in the social sciences, and its findings are both more and less intuitive than the popular discussion suggests.
 
-The adequacy threshold: the Kahneman-Deaton research (2010) and the subsequent Killingsworth research (2021) agree that income below a certain level produces genuine wellbeing harm — that the financial stress of inadequate income to meet basic needs and maintain basic social participation is a direct and significant wellbeing cost. Below the adequacy threshold, more money genuinely improves wellbeing. The professional who frames the money-purpose trade-off as if material sufficiency is irrelevant to their consideration is ignoring the empirical finding that material insufficiency is a genuine wellbeing cost.
+The adequacy threshold: the Kahneman-Deaton research
+
+2010. and the subsequent Killingsworth research
+2021. agree that income below a certain level produces genuine wellbeing harm — that the financial stress of inadequate income to meet basic needs and maintain basic social participation is a direct and significant wellbeing cost. Below the adequacy threshold, more money genuinely improves wellbeing. The professional who frames the money-purpose trade-off as if material sufficiency is irrelevant to their consideration is ignoring the empirical finding that material insufficiency is a genuine wellbeing cost.
 
 Above the threshold: above the adequacy threshold, the relationship between income and wellbeing becomes more complex and more individual. The Killingsworth research finds that the wellbeing-income relationship continues above earlier-estimated thresholds for most people, but that the relationship is substantially mediated by how the money is earned — that income from work experienced as meaningful produces more wellbeing per dollar than income from work experienced as purely instrumental. The specific implication is that the money-purpose relationship is not zero-sum: the professional who earns meaningful income has a better wellbeing outcome than the one who earns purely purposive income below the adequacy threshold or purely instrumental income above it.
 
@@ -75,7 +78,10 @@ The negotiation research: the research on compensation negotiation consistently 
 
 The total compensation framework: the research on professional satisfaction and compensation finds that the total compensation — the combination of the financial compensation, the meaning of the work, the quality of the work environment, the development opportunities, the flexibility, and the social impact — is a more accurate representation of the professional's actual wellbeing from the work than the financial compensation alone. The professional who negotiates the total compensation package rather than the financial compensation alone is managing the money-purpose trade-off most intelligently.
 
-**Practical Exercise — The Money-Purpose Audit:** Assess your current professional situation on both dimensions: (1) Does your current compensation provide material adequacy, a meaningful financial runway, and the freedom function that financial security provides? If not, what specific changes would address the deficit? (2) Does your current work provide the meaning, purpose, and values expression that the research identifies as the most important determinant of professional wellbeing? If not, what specific changes would address the deficit? What is the most effective change that addresses both dimensions simultaneously?
+**Practical Exercise — The Money-Purpose Audit:** Assess your current professional situation on both dimensions:
+
+1. Does your current compensation provide material adequacy, a meaningful financial runway, and the freedom function that financial security provides? If not, what specific changes would address the deficit?
+2. Does your current work provide the meaning, purpose, and values expression that the research identifies as the most important determinant of professional wellbeing? If not, what specific changes would address the deficit? What is the most effective change that addresses both dimensions simultaneously?
 
 ---
 

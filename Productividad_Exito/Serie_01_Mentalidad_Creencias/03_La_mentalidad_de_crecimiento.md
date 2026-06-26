@@ -1,4 +1,4 @@
-﻿# La mentalidad de crecimiento
+# La mentalidad de crecimiento
 
 ## Por qué algunas personas mejoran con cada obstáculo y otras se rinden
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -48,7 +48,7 @@ Las personas con mentalidad de crecimiento abrazan los desafíos, persisten ante
 
 ## Capítulo 2: Mentalidad fija — cómo se manifiesta
 
-La mentalidad fija raramente se presenta cómo una declaración explícita ("soy fijo"). Se manifiesta en patrones de comportamiento y pensamiento.
+La mentalidad fija raramente se presenta como una declaración explícita ("soy fijo"). Se manifiesta en patrones de comportamiento y pensamiento.
 
 **Evitar los desafíos:**
 Rechazar proyectos donde no se tiene certeza de éxito. No hacer preguntas en público para no parecer ignorante. No asumir responsabilidades nuevas para no arriesgarse al fracaso.
@@ -60,7 +60,7 @@ Buscar confirmación de que eres bueno, inteligente o capaz. Sentirte bien cuand
 "Si fuera realmente bueno, no tendría que trabajar tanto." El esfuerzo solo lo necesitan los que no tienen talento natural.
 
 **Comparación constante:**
-Medir el propio valor en relación con los demás. El éxito de un colega se siente cómo una amenaza, no cómo una inspiración.
+Medir el propio valor en relación con los demás. El éxito de un colega se siente como una amenaza, no cómo una inspiración.
 
 **El efecto en el trabajo de Marco:**
 Marco tiene mentalidad fija respecto a sus capacidades técnicas. Cada crítica es una amenaza a su identidad de "buen ingeniero". No puede separar "mi propuesta tenía un fallo" de "yo tengo un fallo".

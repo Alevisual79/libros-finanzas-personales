@@ -1,4 +1,4 @@
-﻿# The Relationships That Sustain You
+# The Relationships That Sustain You
 ## The science and practice of the human connections that support professional thriving
 
 **Series 9: Balance and Wellbeing — Book 4 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -91,7 +91,12 @@ The proximity and repetition requirements: the research by Jeffrey Hall on frien
 
 The deliberate friendship investment: the adult who recognizes the structural barriers to friendship development and deliberately compensates for them — by creating the repeated proximity through shared activities, by maintaining the initiative for contact even when the other person does not reciprocate consistently, and by investing in the vulnerability and genuine interest that relationship depth requires — is the adult who maintains the close friendship portfolio that the wellbeing research identifies as among the most important determinants of long-term flourishing.
 
-**Practical Exercise — The Relationship Audit:** List the five people outside your household whose relationship quality most affects your wellbeing. For each: (1) When did you last have a genuinely deep conversation with this person? (2) Do they know what is most important and most difficult in your life right now? (3) How much time did you invest in this relationship in the past month? (4) What is one specific action you will take in the next two weeks to invest in this relationship? Block time for each action now.
+**Practical Exercise — The Relationship Audit:** List the five people outside your household whose relationship quality most affects your wellbeing. For each:
+
+1. When did you last have a genuinely deep conversation with this person?
+2. Do they know what is most important and most difficult in your life right now?
+3. How much time did you invest in this relationship in the past month?
+4. What is one specific action you will take in the next two weeks to invest in this relationship? Block time for each action now.
 
 ---
 

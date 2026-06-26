@@ -1,4 +1,4 @@
-﻿# Inheritance and Gift Taxes
+# Inheritance and Gift Taxes
 ## Minimizing the Tax Cost of Wealth Transfers
 
 **Series 10: Taxes and Wealth — Book 7 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -75,7 +75,10 @@ The interaction between the stepped-up basis and gift giving creates an importan
 
 The common misconception about inheritances is that they are taxable income to the recipient. They are not — at the federal level, inherited property is not included in the beneficiary's gross income, regardless of the amount. Ruben's $45,000 inheritance from his grandmother was entirely tax-free to him. He owed no income tax, no gift tax, no estate tax. The estate itself may have owed estate taxes (if the total estate exceeded the exemption), but Ruben as the beneficiary had no federal tax liability.
 
-The exception is for "income in respect of a decedent" (IRD) — income that the deceased person earned but had not yet received at the time of death. A traditional IRA is the most common example. When you inherit a traditional IRA, you inherit the right to future distributions — but those distributions are ordinary income to you, just as they would have been to the original owner. A beneficiary who inherits a $200,000 traditional IRA does not owe taxes on the $200,000 immediately — but every dollar withdrawn is taxable as ordinary income. Under the SECURE Act (2019) and SECURE 2.0 Act (2022), most non-spouse beneficiaries must empty an inherited IRA within 10 years, creating both a planning challenge and a tax management opportunity.
+The exception is for "income in respect of a decedent" (IRD) — income that the deceased person earned but had not yet received at the time of death. A traditional IRA is the most common example. When you inherit a traditional IRA, you inherit the right to future distributions — but those distributions are ordinary income to you, just as they would have been to the original owner. A beneficiary who inherits a $200,000 traditional IRA does not owe taxes on the $200,000 immediately — but every dollar withdrawn is taxable as ordinary income. Under the SECURE Act
+
+2019. and SECURE 2.0 Act
+2022. , most non-spouse beneficiaries must empty an inherited IRA within 10 years, creating both a planning challenge and a tax management opportunity.
 
 The 10-year distribution rule for inherited IRAs (applicable to most non-spouse beneficiaries of accounts where the original owner died after December 31, 2019) eliminates the old "stretch IRA" strategy of extending distributions over the beneficiary's lifetime. Instead, the beneficiary must withdraw all funds within 10 years — but can choose the timing of those withdrawals within that window. The optimal strategy is to take withdrawals in years when your marginal tax rate is lowest. If Elena inherits a $150,000 IRA at age 33 and is in the 22% bracket for five of the next ten years but expects to be in the 24% bracket as her income grows, she should front-load distributions in the lower-bracket years. Spreading $150,000 over 10 years at $15,000/year means each withdrawal is taxed at her marginal rate in that year — typically more tax-efficient than taking a large lump sum.
 

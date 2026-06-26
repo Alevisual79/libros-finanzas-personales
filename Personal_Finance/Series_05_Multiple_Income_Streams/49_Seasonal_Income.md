@@ -1,4 +1,4 @@
-﻿# Seasonal Income
+# Seasonal Income
 ## Capitalizing on Calendar Opportunities
 
 **Series 5: Multiple Income Streams — Book 9 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -161,7 +161,10 @@ Seasonal income requires operational preparation before the season arrives. The 
 
 Ruben's Q4 preparation: by October 1, he has cleared his schedule of new project starts, notified retainer clients of his Q4 availability limits, increased his project rates by 15% for Q4 starts, and activated his Q4 service packages. His peak-period clients expect this and plan around it.
 
-**Immediate exercise:** For your primary seasonal income opportunity (whether employment or side income), calculate the first date of the relevant season and work backward to identify: (1) what you need to have ready before that date, (2) what you should be doing now to prepare.
+**Immediate exercise:** For your primary seasonal income opportunity (whether employment or side income), calculate the first date of the relevant season and work backward to identify:
+
+1. what you need to have ready before that date,
+2. what you should be doing now to prepare.
 
 ---
 

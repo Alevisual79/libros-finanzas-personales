@@ -1,4 +1,4 @@
-﻿# Volver a las Citas
+# Volver a las Citas
 ## Como recuperar la confianza y el disfrute después de una ruptura
 
 **Serie 07: Citas y Amor Romantico — Libro 1 de 10**
@@ -9,13 +9,13 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
 ## Prólogo
 
-Elena lleva dos años sin salir con nadie después de su última ruptura. No es que no quiera conocer a alguien. Es que no sabe como volver a empezar, como dar el primer paso de algo que antes ocurria con naturalidad y que ahora se siente cómo un territorio completamente desconocido, cargado de miedo a repetir el dolor que todavia recuerda con claridad.
+Elena lleva dos años sin salir con nadie después de su última ruptura. No es que no quiera conocer a alguien. Es que no sabe como volver a empezar, como dar el primer paso de algo que antes ocurria con naturalidad y que ahora se siente como un territorio completamente desconocido, cargado de miedo a repetir el dolor que todavia recuerda con claridad.
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Brainstorming That Actually Works
+# Brainstorming That Actually Works
 ## The research-backed approach to group idea generation
 
 **Series 7: Creativity and Innovation — Book 4 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -23,7 +23,12 @@ The session was called brainstorming. What it was not was the specific structure
 
 ## Chapter 1: The Research on Brainstorming
 
-The word "brainstorming" was coined by advertising executive Alex Osborn in his 1953 book *Applied Imagination*, which proposed four rules for effective group idea generation: (1) defer judgment — do not evaluate ideas during the generation phase; (2) go for quantity — generate as many ideas as possible; (3) build on others' ideas; (4) encourage wild ideas. Osborn's approach was based on the observation that the evaluative self-censorship that characterizes ordinary group discussion prevents the expression of ideas that might be genuinely creative.
+The word "brainstorming" was coined by advertising executive Alex Osborn in his 1953 book *Applied Imagination*, which proposed four rules for effective group idea generation:
+
+1. defer judgment — do not evaluate ideas during the generation phase;
+2. go for quantity — generate as many ideas as possible;
+3. build on others' ideas;
+4. encourage wild ideas. Osborn's approach was based on the observation that the evaluative self-censorship that characterizes ordinary group discussion prevents the expression of ideas that might be genuinely creative.
 
 The early research finding: when researchers began testing Osborn's claims empirically in the 1950s and 1960s, they found a consistent and counterintuitive result: groups following Osborn's brainstorming rules produced fewer and less original ideas than the same number of individuals working alone and pooling their ideas afterward. The "nominal group" (individuals working alone whose output is combined) consistently outperformed the "interactive group" (same individuals working together face-to-face) on both the number and the quality of ideas generated.
 
@@ -111,7 +116,12 @@ The format options: the classic brainwriting format (written on paper, physicall
 
 The prompt design: the quality of the brainwriting session depends substantially on the quality of the prompts used to initiate and extend the generation process. The effective prompts are specific enough to focus the generation (reducing the cognitive overhead of an undefined task) but open enough to allow the divergent exploration that creative generation requires. The sequence of prompts — from concrete and obvious to abstract and unusual — progressively expands the solution space that the session explores.
 
-**Practical Exercise — The Brainwriting Session:** For your next team idea generation challenge, try this format: (1) Each person gets a sheet with the problem statement at the top. Set a timer for five minutes — each person writes as many ideas as they can, silently. (2) Pass sheets to the left. Read the previous person's ideas, and write new ideas inspired by what you read (or entirely new ones). Five more minutes. (3) Pass again. Repeat 4-6 times. (4) Now read all ideas aloud, cluster similar ones, and identify the most interesting for development. Compare this result to your usual brainstorming sessions.
+**Practical Exercise — The Brainwriting Session:** For your next team idea generation challenge, try this format:
+
+1. Each person gets a sheet with the problem statement at the top. Set a timer for five minutes — each person writes as many ideas as they can, silently.
+2. Pass sheets to the left. Read the previous person's ideas, and write new ideas inspired by what you read (or entirely new ones). Five more minutes.
+3. Pass again. Repeat 4-6 times.
+4. Now read all ideas aloud, cluster similar ones, and identify the most interesting for development. Compare this result to your usual brainstorming sessions.
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Deliberate Practice
+# Deliberate Practice
 ## The science of developing genuine expertise in any domain
 
 **Series 8: Learning and Development — Book 3 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -39,7 +39,12 @@ The expertise domain range: the deliberate practice research has been conducted 
 
 The deliberate practice concept is easy to state and difficult to execute: it is the practice that is specifically designed to develop the specific capabilities that are currently limiting the practitioner's performance, conducted under conditions that enable the accurate feedback that development requires.
 
-The key characteristics: Ericsson's research identifies four key characteristics of deliberate practice that distinguish it from ordinary practice: (1) it is designed specifically to improve performance, rather than to maintain it or to perform it; (2) it involves stretching the practitioner beyond their current ability level, in the zone of difficulty that is challenging enough to require effort but not so difficult that progress is impossible; (3) it provides immediate, specific, and accurate feedback on the performance; (4) it involves the mental representation development that allows the practitioner to monitor and correct their own performance.
+The key characteristics: Ericsson's research identifies four key characteristics of deliberate practice that distinguish it from ordinary practice:
+
+1. it is designed specifically to improve performance, rather than to maintain it or to perform it;
+2. it involves stretching the practitioner beyond their current ability level, in the zone of difficulty that is challenging enough to require effort but not so difficult that progress is impossible;
+3. it provides immediate, specific, and accurate feedback on the performance;
+4. it involves the mental representation development that allows the practitioner to monitor and correct their own performance.
 
 The contrast with routine performance: the most common form of professional "practice" is routine performance — the execution of activities at which the practitioner is already competent, without specific attention to the development of inadequately developed components. The experienced professional who is "practicing" by doing the same things they have done competently for years is not engaged in deliberate practice; they are maintaining existing competence, which does not produce the improvement that deliberate practice generates.
 
@@ -91,7 +96,12 @@ The performance extraction challenge: the most fundamental challenge of delibera
 
 The feedback design: the professional deliberate practice session requires the specific design of a feedback mechanism, because the professional work environment does not automatically provide the immediate, specific, accurate feedback that deliberate practice requires. The professional who is developing their presentation skills through deliberate practice needs the recording and review mechanism (or the coach's observation) that the unrecorded presentation to real audiences does not provide; the professional developing their data analysis skills needs the specific technical review that the work product assessment does not automatically include.
 
-**Practical Exercise — The Deliberate Practice Identification:** For the professional skill most important to your development right now: (1) Identify the specific sub-component that is currently most limiting your performance; (2) Design a thirty-minute practice activity that focuses exclusively on that sub-component in conditions of high challenge and immediate feedback; (3) Do this three times per week for four weeks; (4) Assess the specific change in your capability. How does this compare to the development you've experienced from performing the work without this focused practice?
+**Practical Exercise — The Deliberate Practice Identification:** For the professional skill most important to your development right now:
+
+1. Identify the specific sub-component that is currently most limiting your performance;
+2. Design a thirty-minute practice activity that focuses exclusively on that sub-component in conditions of high challenge and immediate feedback;
+3. Do this three times per week for four weeks;
+4. Assess the specific change in your capability. How does this compare to the development you've experienced from performing the work without this focused practice?
 
 ---
 

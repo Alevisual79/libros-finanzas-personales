@@ -1,4 +1,4 @@
-﻿# Innovation From Within
+# Innovation From Within
 ## The intrapreneurial approach to changing organizations from the inside
 
 **Series 7: Creativity and Innovation — Book 6 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -103,7 +103,13 @@ The win communication: the internal innovation team that generates early positiv
 
 The organizational learning loop: the internal innovation that documents its learning and shares it with the organizational stakeholders — including the learning from failures and pivots as well as the learning from successes — is building the organizational knowledge base that informs future innovation decisions and simultaneously demonstrating the thoughtful, systematic approach that builds organizational confidence in the innovation team's capability.
 
-**Practical Exercise — The Intrapreneurial Pitch:** Identify an internal innovation idea you currently have (or choose a recurring organizational friction point that you think has a better solution). Write a one-page pitch that includes: (1) The problem and why it matters (quantified if possible); (2) Your proposed solution; (3) The simplest possible test that would prove it works; (4) The resources needed for the test; (5) Who would need to support it. Which part of the pitch feels weakest? That's where the development work needs to happen next.
+**Practical Exercise — The Intrapreneurial Pitch:** Identify an internal innovation idea you currently have (or choose a recurring organizational friction point that you think has a better solution). Write a one-page pitch that includes:
+
+1. The problem and why it matters (quantified if possible);
+2. Your proposed solution;
+3. The simplest possible test that would prove it works;
+4. The resources needed for the test;
+5. Who would need to support it. Which part of the pitch feels weakest? That's where the development work needs to happen next.
 
 ---
 

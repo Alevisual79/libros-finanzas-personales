@@ -1,4 +1,4 @@
-﻿# Who You Are in Relationship
+# Who You Are in Relationship
 ## Discover your relational style and why you repeat the same patterns
 
 **Series 1: Know Yourself in Relationships — Book 1 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -35,7 +35,17 @@ In their influential book *Attached*, Amir Levine and Rachel Heller brought Ains
 
 What makes this framework so useful is not its labels but its predictive power. Once you understand your attachment style — not as a fixed trait but as a learned strategy — you begin to see how it generates the patterns you've been unable to break. Ana's eleven minutes in the car outside her own home is a classic anxious move: the desire for connection is so charged with fear of the conversation going wrong that approach itself becomes impossible. Tom's four-hour thumb-hover is avoidant architecture at work: connection is available, it feels genuinely appealing, and yet the proximity of real closeness triggers a retreat mechanism so swift and silent that he barely notices it activate. Understanding this is not therapy. But it is the beginning of something.
 
-**Practical Exercise:** Take twenty minutes with a journal and answer these three questions honestly. When someone I love is emotionally distant from me, my first impulse is to: (a) reach out more intensely, (b) pull back and wait, or (c) communicate what I need calmly. When I feel hurt by a partner, I typically: (a) express it immediately and with emotion, (b) say nothing and hope it passes, or (c) choose a good moment and describe what happened. When a relationship begins to feel serious, my gut reaction is: (a) relief and deeper investment, (b) a sudden awareness of the exits, or (c) excitement mixed with realistic consideration. Your honest answers will begin to sketch your attachment blueprint.
+**Practical Exercise:** Take twenty minutes with a journal and answer these three questions honestly. When someone I love is emotionally distant from me, my first impulse is to: (
+
+a) reach out more intensely, (
+b) pull back and wait, or (
+c) communicate what I need calmly. When I feel hurt by a partner, I typically: (
+a) express it immediately and with emotion, (
+b) say nothing and hope it passes, or (
+c) choose a good moment and describe what happened. When a relationship begins to feel serious, my gut reaction is: (
+a) relief and deeper investment, (
+b) a sudden awareness of the exits, or (
+c) excitement mixed with realistic consideration. Your honest answers will begin to sketch your attachment blueprint.
 
 ---
 

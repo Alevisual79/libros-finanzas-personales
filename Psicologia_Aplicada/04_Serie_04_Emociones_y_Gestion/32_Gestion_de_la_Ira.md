@@ -1,4 +1,4 @@
-﻿# Gestion de la Ira
+# Gestion de la Ira
 ## Cómo manejar la rabia sin explotar ni reprimirla
 
 **Serie 04: Emociones y Gestion Emocional — Libro 2 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -137,7 +137,11 @@ Ruben a veces se pregunta si siempre vale la pena gestionar la ira o si hay situ
 
 **El Principio de la Ira Funcional ante la Injusticia Real:** Harriet Lerner, psicóloga y autora de La Danza del Enojo, propone que la ira tiene una función de señalización social que no debería ser suprimida sistemáticamente: la ira que señala injusticias reales, que defiende los propios derechos, o que moviliza acción contra situaciones inaceptables, es una ira funcionando correctamente.
 
-El problema no es que la ira senale injusticias. Es que (a) la evaluación de la injusticia puede ser incorrecta o exagerada (lo que requiere reevaluación), (b) la forma en que la ira se expresa puede ser contraproducente incluso cuando la injusticia es real (lo que requiere regulación de la forma de expresión, no de la emoción en si), y (c) la ira puede cronificarse incluso cuando la injusticia ya no existe o ya no puede cambiarse (lo que requiere trabajo de procesamiento y aceptación).
+El problema no es que la ira senale injusticias. Es que (
+
+a) la evaluación de la injusticia puede ser incorrecta o exagerada (lo que requiere reevaluación), (
+b) la forma en que la ira se expresa puede ser contraproducente incluso cuando la injusticia es real (lo que requiere regulación de la forma de expresión, no de la emoción en si), y (
+c) la ira puede cronificarse incluso cuando la injusticia ya no existe o ya no puede cambiarse (lo que requiere trabajo de procesamiento y aceptación).
 
 **Ejercicio inmediato:** Para tu ira más persistente en este momento, evalua: la injusticia que señala es real (o es exagerada por el umbral bajo por otras razones)? Si es real, la ira ha motivado alguna acción útil o solo ha producido sufrimiento sin cambio? Si el cambio es posible, que acción específica requiere la ira? Si el cambio no es posible, que proceso requiere para ser asimilada y soltada?
 

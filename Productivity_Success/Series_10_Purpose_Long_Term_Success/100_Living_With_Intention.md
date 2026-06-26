@@ -1,4 +1,4 @@
-﻿# Living With Intention
+# Living With Intention
 ## The practice of the deliberate life, and the completion of a professional journey
 
 **Series 10: Purpose and Long-Term Success — Book 10 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -79,7 +79,12 @@ The gap's origins: the research on the purpose-practice gap identifies several p
 
 The gap's closure: the research on behavior change and intentional living provides a clear account of the practices most effective for closing the purpose-practice gap: the implementation intentions (the specific "when X, then Y" commitments that translate the general intention into the specific behavior), the environmental design (the deliberate modification of the professional context to make the values-consistent behavior the default), and the social scaffolding (the relationship structures that provide accountability for the values-consistent choices). These practices do not eliminate the gap; they systematically reduce it through the consistent alignment of the immediate behavioral environment with the long-horizon purposes.
 
-**Practical Exercise — The Intentionality Audit:** For the next two weeks, at the end of each day, record: (1) What did I do today? (2) What did I value today — what activities, relationships, and experiences felt most aligned with what I most deeply care about? (3) What was the gap between the two? (4) What one choice tomorrow would better align my actual activities with my actual values? At the end of two weeks, identify the three most consistent sources of the purpose-practice gap and design one specific change to address each.
+**Practical Exercise — The Intentionality Audit:** For the next two weeks, at the end of each day, record:
+
+1. What did I do today?
+2. What did I value today — what activities, relationships, and experiences felt most aligned with what I most deeply care about?
+3. What was the gap between the two?
+4. What one choice tomorrow would better align my actual activities with my actual values? At the end of two weeks, identify the three most consistent sources of the purpose-practice gap and design one specific change to address each.
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Building a Solid Foundation
+# Building a Solid Foundation
 ## The foundations that make a relationship last
 
 **Series 3: The Couple — Book 3 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -83,7 +83,11 @@ The research on couple stress and coping (particularly the work of Guy Bodenmann
 
 The specific failure mode under external stress is the "stress spillover" effect: the intrusion of stress-related emotional activation into the couple relationship in ways that produce conflict, withdrawal, or reduced availability — not because of anything the partner has done, but because the stress resource has depleted the capacity for the relational behaviors the relationship needs. James's professional pressure, in the early years of his marriage to Claire, was producing exactly this effect: the emotional depletion of the workday was reducing his capacity for the quality of presence that the marriage needed, and the resulting distance was adding relational stress to the professional stress he was already managing.
 
-**Practical Exercise — The Daily Temperature Check:** For one week, at the end of each day, do a simple three-question check-in with your partner: (1) On a 1-10 scale, how was your day? (2) What was the best moment? (3) What was the hardest moment? Keep it to ten minutes. The ritual creates a daily point of genuine contact that accumulates over weeks and months into the ongoing mutual knowledge that relational foundations require.
+**Practical Exercise — The Daily Temperature Check:** For one week, at the end of each day, do a simple three-question check-in with your partner:
+
+1. On a 1-10 scale, how was your day?
+2. What was the best moment?
+3. What was the hardest moment? Keep it to ten minutes. The ritual creates a daily point of genuine contact that accumulates over weeks and months into the ongoing mutual knowledge that relational foundations require.
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Cooperación y Altruismo
+# Cooperación y Altruismo
 ## Por qué ayudamos a los demás y como hacerlo mejor
 
 **Serie 09: psicología Social e Influencia — Libro 9 de 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -83,7 +83,7 @@ Isabel gestiona equipos y quiere entender que condiciones producen mayor coopera
 
 La investigación de Samuel Bowles muestra que los grupos que han enfrentado amenazas externas significativas desarrollan mayor altruismo intragrupal, lo que sugiere que la identidad compartida y el sentido de amenaza común son facilitadores robustos de la cooperación.
 
-**Ejercicio inmediato:** Para aumentar la cooperación en tu equipo, reflexiona sobre cuales de estos factores puedes reforzar: hay suficiente comunicación cara a cara (no solo por email)? El equipo tiene un sentido de identidad compartida? Hay un proposito común que se siente cómo una amenaza o un reto compartido? Esos factores son más efectivos para producir cooperación que los sistemas de incentivos individuales.
+**Ejercicio inmediato:** Para aumentar la cooperación en tu equipo, reflexiona sobre cuales de estos factores puedes reforzar: hay suficiente comunicación cara a cara (no solo por email)? El equipo tiene un sentido de identidad compartida? Hay un proposito común que se siente como una amenaza o un reto compartido? Esos factores son más efectivos para producir cooperación que los sistemas de incentivos individuales.
 
 El equipo que se siente equipo coopera. El que solo trabaja juntó no necesariamente.
 

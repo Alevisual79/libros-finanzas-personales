@@ -1,4 +1,4 @@
-﻿# Monotarea: Hacer una cosa y hacerla bien
+# Monotarea: Hacer una cosa y hacerla bien
 
 ## La habilidad más contracultural y más eficaz del siglo XXI
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -43,7 +43,7 @@ La monotarea no es el estado natural de un cerebro sobre-estimulado del siglo XX
 La glorificación de la multitarea tiene raíces culturales y económicas.
 
 **La glorificación:**
-"Soy buenísimo haciendo varias cosas a la vez" es un enunciado de orgullo. La capacidad de responder correos mientras se atiende una reunión mientras se gestiona un proyecto se presenta cómo una virtud.
+"Soy buenísimo haciendo varias cosas a la vez" es un enunciado de orgullo. La capacidad de responder correos mientras se atiende una reunión mientras se gestiona un proyecto se presenta como una virtud.
 
 **Los costes:**
 - Organizaciones donde nadie puede concentrarse porque todos esperan disponibilidad inmediata de todos
@@ -176,7 +176,7 @@ La monotarea no es una nostalgia del pasado. Es la respuesta práctica a un pres
 
 ---
 
-*Este es el Libro 30 de la colección Productividad y Éxito, Libro 10 de 10 de la Serie 3: Enfoque y Concentración.*  
+*Este es el Libro 30 de la colección Productividad y Éxito, Libro 10 de 10 de la Serie 3: Enfoque y Concentración.* 
 *Continúa con la Serie 4: Hábitos de Alto Rendimiento.*
 
 ---

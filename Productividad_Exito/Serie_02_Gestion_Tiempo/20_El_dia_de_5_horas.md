@@ -1,4 +1,4 @@
-﻿# El día de 5 horas
+# El día de 5 horas
 
 ## Por qué trabajar menos puede producir más y cómo hacerlo
 
@@ -10,7 +10,7 @@
 
 ---
 
-> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
+> **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -54,7 +54,7 @@ Si tienes ocho horas para hacer algo, usarás ocho horas. Si tienes cuatro horas
 - Con más tiempo, hay más espacio para las distracciones y los desvíos
 
 **La consecuencia:**
-Reducir artificialmente el tiempo disponible para una tarea puede aumentar la eficiencia sin reducir la calidad. El límite de tiempo actúa cómo un filtro que elimina lo innecesario.
+Reducir artificialmente el tiempo disponible para una tarea puede aumentar la eficiencia sin reducir la calidad. El límite de tiempo actúa como un filtro que elimina lo innecesario.
 
 ---
 
@@ -202,7 +202,7 @@ La limitación del tiempo, bien gestionada, es un aliado. No un obstáculo.
 
 ---
 
-*Este es el Libro 20 de la colección Productividad y Éxito, Libro 10 de 10 de la Serie 2: Gestión del Tiempo.*  
+*Este es el Libro 20 de la colección Productividad y Éxito, Libro 10 de 10 de la Serie 2: Gestión del Tiempo.* 
 *Continúa con la Serie 3: Enfoque y Concentración.*
 
 ---

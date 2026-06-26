@@ -1,4 +1,4 @@
-﻿# Real Passive Income
+# Real Passive Income
 ## What It Actually Takes to Earn While You Sleep
 
 **Series 5: Multiple Income Streams — Book 4 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -61,7 +61,10 @@ To generate $1,000/month in dividend income ($12,000/year) at a 3.5% average div
 To generate $3,000/month ($36,000/year) at 3.5% yield:
 - Required portfolio: approximately $1,029,000
 
-This is real passive income — but it requires either (a) building a substantial investment portfolio over time, or (b) already having significant capital.
+This is real passive income — but it requires either (
+
+a) building a substantial investment portfolio over time, or (
+b) already having significant capital.
 
 Isabel at 52 with approximately $18,000 in savings is not generating meaningful dividend income today. She is building toward it. Over 15 years at $1,000/month invested and 7% return, her portfolio could reach approximately $310,000 — generating approximately $10,800/year in dividends at 3.5% yield. Meaningful supplemental income, not a living.
 

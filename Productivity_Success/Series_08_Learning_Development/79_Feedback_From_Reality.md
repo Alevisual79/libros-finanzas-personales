@@ -1,4 +1,4 @@
-﻿# Feedback From Reality
+# Feedback From Reality
 ## How to design a life that tells you the truth about your performance
 
 **Series 8: Learning and Development — Book 9 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -91,7 +91,12 @@ The growth mindset processing: the growth mindset's specific application to feed
 
 The delay before response: the research on feedback processing and emotional regulation finds that the quality of feedback processing improves substantially when the initial emotional response — the defensive reaction, the disappointment, the frustration — is allowed to subside before the evaluative processing of the feedback's content begins. The professional who responds to significant feedback immediately is often responding to their emotional reaction rather than to the feedback's content; the professional who delays response until the emotional reaction has settled is more likely to process the feedback's content accurately.
 
-**Practical Exercise — The Feedback Audit:** Review the feedback you have received in the past three months (formal and informal, positive and developmental). For each significant piece of feedback: (1) What specifically was the feedback saying about your performance? (2) Did you act on it? If not, why not? (3) Is there a pattern in the feedback you have consistently dismissed? (4) What feedback have you not received that would be most valuable for your development? Design one specific action to access that missing feedback.
+**Practical Exercise — The Feedback Audit:** Review the feedback you have received in the past three months (formal and informal, positive and developmental). For each significant piece of feedback:
+
+1. What specifically was the feedback saying about your performance?
+2. Did you act on it? If not, why not?
+3. Is there a pattern in the feedback you have consistently dismissed?
+4. What feedback have you not received that would be most valuable for your development? Design one specific action to access that missing feedback.
 
 ---
 

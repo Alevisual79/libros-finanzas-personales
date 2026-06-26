@@ -1,4 +1,4 @@
-﻿# Your Legacy
+# Your Legacy
 ## Building the contribution that outlasts your career
 
 **Series 10: Purpose and Long-Term Success — Book 3 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -73,7 +73,12 @@ The specific psychological challenge of the legacy orientation is the distinctio
 
 The legacy purity challenge: the research on motivation for generative activity finds that the most effective and most sustainably satisfying generative orientation is the one most genuinely oriented toward the benefit to others — the teacher who cares most about the student's learning, the mentor who cares most about the protégé's development, the leader who cares most about the team's capability — rather than the version primarily motivated by the desire to be seen as a teacher, mentor, or leader. The external recognition that the generative contribution produces is a byproduct of the genuinely generative orientation, not its primary goal; the professional who pursues the recognition as the primary goal has inverted the relationship in a way that both reduces the legacy's quality and fails to produce the wellbeing that the genuinely generative orientation generates.
 
-**Practical Exercise — The Legacy Design:** Write answers to the following: (1) What specific knowledge, capability, or practice do you want to have contributed to your field that will persist after you are no longer active? (2) Who are the three to five people whose professional development you want to be most responsible for contributing to? (3) What organizational or institutional improvement do you want to be most responsible for enabling? (4) What is the story of your career's contribution that you want your successors to be able to tell? Write a draft of that story now, as if it were being told ten years from now.
+**Practical Exercise — The Legacy Design:** Write answers to the following:
+
+1. What specific knowledge, capability, or practice do you want to have contributed to your field that will persist after you are no longer active?
+2. Who are the three to five people whose professional development you want to be most responsible for contributing to?
+3. What organizational or institutional improvement do you want to be most responsible for enabling?
+4. What is the story of your career's contribution that you want your successors to be able to tell? Write a draft of that story now, as if it were being told ten years from now.
 
 ---
 

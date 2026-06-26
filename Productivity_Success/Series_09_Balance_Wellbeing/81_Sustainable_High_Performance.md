@@ -1,4 +1,4 @@
-﻿# Sustainable High Performance
+# Sustainable High Performance
 ## The science of performing at your best without destroying your health
 
 **Series 9: Balance and Wellbeing — Book 1 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -87,7 +87,12 @@ The Yerkes-Dodson law revisited: the Yerkes-Dodson law — the research finding 
 
 The stress response physiology: the stress response — the activation of the hypothalamic-pituitary-adrenal (HPA) axis and the sympathetic nervous system that the perception of threat produces — is a short-term performance enhancer that is a long-term performance impairment. The acute stress response improves the specific performance dimensions most needed in immediate danger situations (physical strength, pain tolerance, fight-or-flight decision speed); it impairs the performance dimensions most needed in professional contexts (complex reasoning, creative thinking, social sensitivity, long-term planning). The chronic stress that sustained high demand produces is the sustained activation of this acute response in contexts where it impairs rather than enables the performance required.
 
-**Practical Exercise — The Performance Audit:** For one week, track: (1) your sleep hours and subjective quality; (2) the hours of actual deep cognitive work you complete each day; (3) the times of day when your concentration is highest; (4) the specific activities that most deplete your energy and those that most restore it. At the end of the week, identify the one practice change most likely to improve your sustainable performance over the following month.
+**Practical Exercise — The Performance Audit:** For one week, track:
+
+1. your sleep hours and subjective quality;
+2. the hours of actual deep cognitive work you complete each day;
+3. the times of day when your concentration is highest;
+4. the specific activities that most deplete your energy and those that most restore it. At the end of the week, identify the one practice change most likely to improve your sustainable performance over the following month.
 
 ---
 

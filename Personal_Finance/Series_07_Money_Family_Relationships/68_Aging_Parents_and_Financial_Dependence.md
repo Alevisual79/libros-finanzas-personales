@@ -1,4 +1,4 @@
-﻿# Aging Parents and Financial Dependence
+# Aging Parents and Financial Dependence
 ## When the Roles Reverse
 
 **Series 7: Money, Family & Relationships — Book 8 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -133,7 +133,13 @@ Immediate exercise: Schedule a "parent financial preparedness" conversation with
 
 This chapter provides a practical framework for adult children who are navigating parental financial dependence, regardless of whether that situation is current or anticipated. The framework has two dimensions: what you do for your parents, and what you do to protect your own financial future simultaneously.
 
-For your parents, the priority actions in order: (1) Ensure legal documents are in place — durable power of attorney, healthcare proxy, and advance directive. If these do not exist and your parent is currently capable, this is the most urgent action. (2) Create a financial inventory — know what accounts, income streams, insurance policies, and debts exist. (3) Understand benefit eligibility — Social Security maximization, Medicare enrollment and supplements, and potential Medicaid planning. (4) Develop a care cost projection — estimate how long current resources will last under optimistic, base-case, and high-care-need scenarios. (5) Consult an elder law attorney — for any situation involving potential Medicaid eligibility, long-term care planning, or asset protection.
+For your parents, the priority actions in order:
+
+1. Ensure legal documents are in place — durable power of attorney, healthcare proxy, and advance directive. If these do not exist and your parent is currently capable, this is the most urgent action.
+2. Create a financial inventory — know what accounts, income streams, insurance policies, and debts exist.
+3. Understand benefit eligibility — Social Security maximization, Medicare enrollment and supplements, and potential Medicaid planning.
+4. Develop a care cost projection — estimate how long current resources will last under optimistic, base-case, and high-care-need scenarios.
+5. Consult an elder law attorney — for any situation involving potential Medicaid eligibility, long-term care planning, or asset protection.
 
 For yourself, the critical principle is: your own financial stability is not negotiable. The most loving thing you can do for your children is not to sacrifice your retirement savings to support your parents, only to become dependent on your own children in 30 years. Provide what support you genuinely can afford; be honest about your limits; use every available government program, community resource, and family asset before supplementing from your own savings. If you are providing ongoing financial support to a parent, track it carefully — both for your own budgeting and because it may be relevant to estate discussions with siblings.
 

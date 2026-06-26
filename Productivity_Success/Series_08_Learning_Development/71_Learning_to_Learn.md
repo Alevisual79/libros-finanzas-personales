@@ -1,4 +1,4 @@
-﻿# Learning to Learn
+# Learning to Learn
 ## The meta-skill that makes all other skills possible
 
 **Series 8: Learning and Development — Book 1 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -105,7 +105,12 @@ The input management: the effective professional learner manages their learning 
 
 The output and retrieval practice: the learning system includes the specific practices through which knowledge is consolidated and made retrievable: the notes that convert reading into retrievable insight (Book 37's progressive summarization), the flashcard systems that implement the testing effect and the spaced practice in digital form (Anki and its relatives), and the deliberate application projects that test and solidify the conceptual understanding in functional practice.
 
-**Practical Exercise — The Learning Audit:** Make a list of the five most important capabilities you need to develop in the next twelve months. For each: (1) Map the component skills and knowledge areas; (2) Identify your current level and the bottleneck to advancement; (3) Design a specific practice that applies deliberate learning principles; (4) Identify how you will assess your progress. This converts vague "I should learn X" intentions into structured learning projects.
+**Practical Exercise — The Learning Audit:** Make a list of the five most important capabilities you need to develop in the next twelve months. For each:
+
+1. Map the component skills and knowledge areas;
+2. Identify your current level and the bottleneck to advancement;
+3. Design a specific practice that applies deliberate learning principles;
+4. Identify how you will assess your progress. This converts vague "I should learn X" intentions into structured learning projects.
 
 ---
 

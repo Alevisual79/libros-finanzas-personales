@@ -1,4 +1,4 @@
-﻿# Motivating Without Money
+# Motivating Without Money
 ## The real sources of professional engagement and sustained performance
 
 **Series 6: Leadership and Teams — Book 3 of 10**
@@ -9,7 +9,7 @@
 
 ---
 
-> **Disclaimer:** This book is intended for informational and educational purposes only. The content reflects research, evidence-based frameworks, and practical tools, but is not a substitute for professional medical, psychological, psychiatric, or financial advice. The author and publisher make no representations or warranties regarding the accuracy, applicability, or completeness of the contents. If you are experiencing mental health difficulties, medical conditions, or financial distress, please consult a qualified professional. Individual results will vary. The use of information in this book is at the reader's own risk.
+> **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
 ---
 
@@ -75,7 +75,12 @@ Teresa Amabile and Steven Kramer's research, summarized in *The Progress Princip
 
 The inner work life: Amabile and Kramer's diary research method — in which they analyzed thousands of daily diary entries from 238 professionals across seven companies — found that the quality of "inner work life" (the thoughts, emotions, and motivations that professionals bring to their work on any given day) was the primary predictor of both motivation and performance on that day, and that the single most powerful influence on inner work life was whether or not the professional had made meaningful progress that day.
 
-The managerial implications: the progress principle research produces specific managerial recommendations: (1) ensure that the work itself is genuinely meaningful, so that progress in it produces the motivation that the principle predicts; (2) remove obstacles to progress proactively — the obstacles that prevent the team from making progress on meaningful work are the most demotivating features of the work environment; (3) celebrate progress explicitly and frequently, because the manager's acknowledgment of progress amplifies its motivational effect; (4) provide the resources and support that enable progress, rather than requiring team members to work around resource constraints.
+The managerial implications: the progress principle research produces specific managerial recommendations:
+
+1. ensure that the work itself is genuinely meaningful, so that progress in it produces the motivation that the principle predicts;
+2. remove obstacles to progress proactively — the obstacles that prevent the team from making progress on meaningful work are the most demotivating features of the work environment;
+3. celebrate progress explicitly and frequently, because the manager's acknowledgment of progress amplifies its motivational effect;
+4. provide the resources and support that enable progress, rather than requiring team members to work around resource constraints.
 
 The small wins power: the research finds that even small progress on meaningful work produces a meaningful positive inner work life. The manager who creates opportunities for frequent small wins — the incremental achievement, the milestone passed, the problem solved — is continuously supplying the motivational fuel that the progress principle provides.
 
