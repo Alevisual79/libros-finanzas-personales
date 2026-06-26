@@ -1,8 +1,16 @@
-# Tu relación con el dinero está rota (y no es culpa tuya)
+﻿# Tu relación con el dinero está rota (y no es culpa tuya)
 
 ## Por qué pensamos mal sobre el dinero desde la infancia y cómo reprogramar todo
 
 **Serie Finanzas Personales — Serie 1: Mindset del Dinero — Libro 1 de 10**
+
+---
+
+*Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
+
+---
+
+> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -307,3 +315,13 @@ Si alguna de esas frases te resonó mientras leías este libro, el siguiente es 
 ---
 
 *Este es el Libro 1 de 10 de la Serie 1: Mindset del Dinero. Todos los libros de esta serie comparten los personajes de Carlos, Marta, el cuñado y Don Alberto como hilo conductor. El Método 5P introducido en el Libro 0 es el sistema que conecta toda la colección.*
+
+---
+
+*Si este libro te ha resultado útil, considera dejar una reseña en Amazon. Solo lleva un minuto y marca una gran diferencia para los autores independientes.*
+
+---
+
+## Sobre el Autor
+
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

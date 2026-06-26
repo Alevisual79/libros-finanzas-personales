@@ -1,8 +1,16 @@
-# El sol, la vitamina D y la verdad a medias
+﻿# El sol, la vitamina D y la verdad a medias
 
 ## Cómo exponerse al sol de forma inteligente y qué hay de cierto en el debate sobre la vitamina D
 
 **Serie Salud y Bienestar — Serie 9: Entorno y Estilo de Vida — Libro 7 de 10**
+
+---
+
+*Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
+
+---
+
+> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -180,3 +188,13 @@ La estrategia es simple: un poco cada día, sin quemarse nunca.
 ---
 
 *Este es el Libro 87 de la colección Salud y Bienestar, Libro 7 de 10 de la Serie 9: Entorno y Estilo de Vida.*
+
+---
+
+*Si este libro te ha resultado útil, considera dejar una reseña en Amazon. Solo lleva un minuto y marca una gran diferencia para los autores independientes.*
+
+---
+
+## Sobre el Autor
+
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

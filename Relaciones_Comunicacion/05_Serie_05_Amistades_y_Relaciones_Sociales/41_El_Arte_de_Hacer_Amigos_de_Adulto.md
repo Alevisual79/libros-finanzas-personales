@@ -1,7 +1,15 @@
-# El Arte de Hacer Amigos de Adulto
+﻿# El Arte de Hacer Amigos de Adulto
 ## Por qué es más difícil después de los 30 y como hacerlo de todos modos
 
 **Serie 05: Amistades y Relaciones Sociales — Libro 1 de 10**
+
+---
+
+*Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
+
+---
+
+> **Aviso legal:** Este libro tiene una finalidad exclusivamente informativa y educativa. El contenido recoge investigación, marcos basados en evidencia y herramientas prácticas, pero no sustituye el consejo médico, psicológico, psiquiátrico ni financiero profesional. El autor y el editor no garantizan la exactitud, aplicabilidad ni exhaustividad del contenido. Si atraviesas dificultades de salud mental, condiciones médicas o problemas financieros, consulta a un profesional cualificado. Los resultados individuales pueden variar. El uso de la información de este libro es responsabilidad exclusiva del lector.
 
 ---
 
@@ -140,3 +148,13 @@ Elena, después de entender por qué le había costado tanto hacer amigos nuevos
 ---
 
 *Libro 41 de la colección, Libro 1 de 10 de Serie 05: Amistades y Relaciones Sociales.*
+
+---
+
+*Si este libro te ha resultado útil, considera dejar una reseña en Amazon. Solo lleva un minuto y marca una gran diferencia para los autores independientes.*
+
+---
+
+## Sobre el Autor
+
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
