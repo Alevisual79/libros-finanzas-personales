@@ -194,6 +194,11 @@ def _build_md_index(base):
                 m = re.match(r'^(\d+)', fname)
                 if m:
                     index[(col, int(m.group(1)))] = os.path.join(root, fname)
+                else:
+                    # Mother Book: no numeric prefix — lives in a 00_* folder
+                    folder = os.path.basename(root)
+                    if re.match(r'^00_', folder) and (col, 0) not in index:
+                        index[(col, 0)] = os.path.join(root, fname)
     return index
 
 
