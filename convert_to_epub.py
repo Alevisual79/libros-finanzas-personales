@@ -132,16 +132,28 @@ def main():
 
         md_files = []
         for root, _, files in os.walk(col_path):
+            folder = os.path.basename(root)
+            is_mother = re.match(r'^00_', folder)
             for fname in sorted(files):
-                if fname.endswith(".md"):
-                    md_files.append(os.path.join(root, fname))
+                if not fname.endswith(".md"):
+                    continue
+                has_num = re.match(r'^\d+', fname)
+                # Skip index/master files with no numeric prefix
+                # (Mother Book files in 00_* folders are allowed)
+                if not has_num and not is_mother:
+                    continue
+                md_files.append(os.path.join(root, fname))
 
         ok = skip = err = 0
         for md_path in md_files:
             num = _book_num(md_path)
+            folder = os.path.basename(os.path.dirname(md_path))
             cover_path = ""
             if num is not None:
                 cover_path = os.path.join(cover_dir, f"{str(num).zfill(3)}.jpg")
+            elif re.match(r'^00_', folder):
+                # Mother Book: always gets 000.jpg
+                cover_path = os.path.join(cover_dir, "000.jpg")
 
             status = convert(md_path, cover_path, lang)
             if status == "ok":
