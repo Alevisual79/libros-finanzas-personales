@@ -25,6 +25,7 @@ KDP_NEW_URL   = "https://kdp.amazon.com/en_US/title-setup/kindle/new/details"
 DELAY_ACTION  = 0.8   # segundos entre acciones dentro de un campo
 DELAY_BOOK    = 20    # segundos entre libros (para parecer humano)
 TIMEOUT       = 30000 # ms de espera para elementos
+DESC_MAX      = 4000  # límite de caracteres en descripción KDP
 
 
 # ── Progress tracking ───────────────────────────────────────────────────────
@@ -108,7 +109,7 @@ def fill_details(page, book):
             slow_type(vol_input.first, str(book.get("volume_in_series", "")))
 
     # Author — KDP splits into first/last name
-    author = book.get("author", "Enrique Padron")
+    author = book.get("author", "Enrique Padrón")
     parts = author.strip().split(" ", 1)
     first_name = parts[0]
     last_name  = parts[1] if len(parts) > 1 else ""
@@ -117,8 +118,8 @@ def fill_details(page, book):
     if fn.count() > 0: slow_type(fn.first, first_name)
     if ln.count() > 0: slow_type(ln.first, last_name)
 
-    # Description — KDP uses a textarea or CKEditor
-    desc = book.get("description", "")
+    # Description — KDP uses a textarea or CKEditor (max 4000 chars)
+    desc = book.get("description", "")[:DESC_MAX]
     if desc:
         # Try plain textarea first
         desc_ta = page.locator("textarea[id*='description'], textarea[name*='description']")
@@ -163,6 +164,15 @@ def fill_details(page, book):
 
 # ── Page 2: Content ─────────────────────────────────────────────────────────
 
+def _wait_upload_success(page, timeout=120000):
+    """Wait for KDP upload success — handles different success message variants."""
+    page.locator(
+        "text=Upload successful, text=uploaded successfully, "
+        "text=Your manuscript has been received, text=Cover uploaded"
+    ).first.wait_for(state="visible", timeout=timeout)
+    wait(2)
+
+
 def fill_content(page, book):
     print(f"    [2/3] Subiendo EPUB y portada...")
 
@@ -181,70 +191,139 @@ def fill_content(page, book):
         if ms_input.count() > 0:
             ms_input.first.set_input_files(epub_path)
             print(f"      EPUB: {os.path.basename(epub_path)}")
-            # Wait for upload to complete (progress bar disappears)
-            page.wait_for_selector("text=Upload successful, text=uploaded successfully",
-                                    timeout=120000, state="visible")
-            wait(2)
+            _wait_upload_success(page, timeout=180000)
     else:
         print(f"      AVISO: EPUB no encontrado para libro {book['num']}")
 
     # Upload cover image (JPG)
     cover_path = book.get("cover_path", "")
     if cover_path and os.path.exists(cover_path):
-        cover_input = page.locator("input[type='file'][accept*='jpg'],input[type='file'][accept*='jpeg'],input[type='file'][id*='cover']")
+        cover_input = page.locator(
+            "input[type='file'][accept*='jpg'], input[type='file'][accept*='jpeg'], "
+            "input[type='file'][id*='cover']"
+        )
         if cover_input.count() > 0:
             cover_input.first.set_input_files(cover_path)
             print(f"      Cover: {os.path.basename(cover_path)}")
-            page.wait_for_selector("text=Upload successful, text=uploaded successfully",
-                                    timeout=60000, state="visible")
-            wait(2)
+            _wait_upload_success(page, timeout=60000)
     else:
         print(f"      AVISO: portada no encontrada para libro {book['num']}")
 
     _click_next(page)
 
 
+# ── Page 2b: Categories (called from fill_details after language) ────────────
+
+def fill_categories(page, book):
+    """Try to set KDP categories from category_1 / category_2 in CSV.
+    KDP uses a modal tree selector — we navigate by clicking breadcrumbs."""
+    cat1 = book.get("category_1", "")
+    cat2 = book.get("category_2", "")
+    if not cat1:
+        return
+
+    set_cat_btn = page.locator(
+        "button:has-text('Set Categories'), button:has-text('Browse Categories'), "
+        "a:has-text('Set Categories')"
+    )
+    if set_cat_btn.count() == 0:
+        print(f"      INFO: botón de categorías no encontrado, saltando.")
+        return
+
+    for cat_str in [cat1, cat2]:
+        if not cat_str:
+            continue
+        # Open modal
+        if set_cat_btn.count() > 0:
+            safe_click(set_cat_btn.first)
+            wait(1.5)
+
+        # Navigate tree: split by ' > '
+        crumbs = [c.strip() for c in cat_str.split(">")]
+        for crumb in crumbs:
+            crumb_loc = page.locator(f"text={crumb}").first
+            try:
+                crumb_loc.wait_for(state="visible", timeout=5000)
+                safe_click(crumb_loc)
+            except Exception:
+                print(f"      AVISO: categoría '{crumb}' no encontrada en modal.")
+                break
+
+        # Confirm selection
+        add_btn = page.locator("button:has-text('Add'), button:has-text('Select'), button:has-text('Done')")
+        if add_btn.count() > 0:
+            safe_click(add_btn.first)
+            wait(1)
+
+    print(f"      Categorías: {cat1[:40]}")
+
+
 # ── Page 3: Pricing ─────────────────────────────────────────────────────────
 
-def fill_pricing(page, book):
+def fill_pricing(page, book, publish=False):
     print(f"    [3/3] Precio...")
 
+    # KDP Select — NO (optar por distribución amplia)
+    no_select = page.locator(
+        "input[id*='select-no'], input[value*='not-enroll'], "
+        "label:has-text('Not enrolled')"
+    )
+    if no_select.count() > 0:
+        no_select.first.click()
+        wait()
+
     # Territories — worldwide
-    worldwide = page.locator("input[value='world'], input[id*='worldwide'], text=All territories")
+    worldwide = page.locator(
+        "input[value='world'], input[id*='worldwide'], "
+        "label:has-text('All territories')"
+    )
     if worldwide.count() > 0:
         worldwide.first.click()
         wait()
 
-    # Royalty plan — 70% (or 35% if price is $0.99)
+    # Royalty plan — 70% si precio >= $2.99, 35% si precio < $2.99
     price = float(book.get("price_usd", 2.99))
     if price >= 2.99:
-        r70 = page.locator("input[value='70'], input[id*='royalty-70']")
+        r70 = page.locator("input[value='70'], input[id*='royalty-70'], label:has-text('70%')")
         if r70.count() > 0:
             r70.first.click()
             wait()
+    else:
+        r35 = page.locator("input[value='35'], input[id*='royalty-35'], label:has-text('35%')")
+        if r35.count() > 0:
+            r35.first.click()
+            wait()
 
     # Price USD
-    price_input = page.locator("input[id*='list-price-us'], input[id*='price-us'], input[placeholder*='USD' i]")
+    price_input = page.locator(
+        "input[id*='list-price-us'], input[id*='price-us'], input[placeholder*='USD' i]"
+    )
     if price_input.count() > 0:
         slow_type(price_input.first, f"{price:.2f}")
 
-    # Price EUR
+    # Price EUR (usar precio USD si no hay específico)
     price_eur = float(book.get("price_eur", price))
-    eur_input = page.locator("input[id*='list-price-eu'], input[id*='price-eur'], input[placeholder*='EUR' i]")
+    eur_input = page.locator(
+        "input[id*='list-price-eu'], input[id*='price-eur'], input[placeholder*='EUR' i]"
+    )
     if eur_input.count() > 0:
         slow_type(eur_input.first, f"{price_eur:.2f}")
 
-    # Publish / Save as Draft
-    # Using "Save as Draft" first to be safe — user can publish manually
-    draft_btn = page.locator("button:has-text('Save as Draft'), input[value*='Draft']")
-    publish_btn = page.locator("button:has-text('Publish'), button:has-text('Submit')")
+    wait(1)
 
+    # Publish o Save as Draft
+    if publish:
+        pub_btn = page.locator("button:has-text('Publish'), button:has-text('Submit for Review')")
+        if pub_btn.count() > 0:
+            safe_click(pub_btn.first)
+            print(f"      Enviado para publicación.")
+            return
+        print(f"      AVISO: botón Publish no encontrado, guardando como borrador.")
+
+    draft_btn = page.locator("button:has-text('Save as Draft'), input[value*='Draft']")
     if draft_btn.count() > 0:
         safe_click(draft_btn.first)
         print(f"      Guardado como borrador.")
-    elif publish_btn.count() > 0:
-        safe_click(publish_btn.first)
-        print(f"      Publicado.")
     else:
         print(f"      AVISO: no se encontro boton de guardar. Toma control manual.")
         input("Presiona ENTER cuando hayas guardado manualmente...")
@@ -270,13 +349,14 @@ def _click_next(page):
 
 # ── Main upload flow ────────────────────────────────────────────────────────
 
-def upload_one(page, book):
+def upload_one(page, book, publish=False):
     """Upload one book through all 3 KDP pages."""
     page.goto(KDP_NEW_URL)
     page.wait_for_load_state("networkidle", timeout=TIMEOUT)
     wait(2)
 
     fill_details(page, book)
+    fill_categories(page, book)
     page.wait_for_load_state("networkidle", timeout=TIMEOUT)
     wait(1)
 
@@ -284,7 +364,7 @@ def upload_one(page, book):
     page.wait_for_load_state("networkidle", timeout=TIMEOUT)
     wait(1)
 
-    fill_pricing(page, book)
+    fill_pricing(page, book, publish=publish)
     wait(3)
 
 
@@ -334,7 +414,7 @@ def main():
             print(f"\n[{i}/{len(pending)}] Libro {num}: {title}")
 
             try:
-                upload_one(page, book)
+                upload_one(page, book, publish=args.publish)
                 progress["completed"].append(bid)
                 save_progress(progress)
                 ok += 1
