@@ -55,7 +55,7 @@ Isabel ha llegado a entender que los habitos son el mecanismo por el que la disc
 
 La investigación de David Neal y Wendy Wood muestra que el contexto es más poderoso que la intención en la determinación de los habitos: las personas que se mudaron a un nuevo apartamento o ciudad cambiaban sus habitos más facilmente que las que permanecian en el mismo contexto, porque el nuevo contexto no tenía las señales que desencadenaban los habitos anteriores.
 
-**Ejercicio inmediato:** Para el habito que quieres construir, diseña el sistema en los cuatro puntos del bucle: ¿cual es la señal que lo desencadenara (un momento del dia, un lugar específico, un evento previo)? ¿Cual es la rutina específica (no vaga sino concreta al nivel de dónde y cuando exactamente)? Cual es la recompensa inmediata que lo seguirá (algo genuinamente agradable)? El diseño del sistema es el trabajo que la mayoría de las personas no hace, y por eso los habitos no duran.
+**Ejercicio inmediato:** Para el habito que quieres construir, diseña el sistema en los cuatro puntos del bucle: ¿cual es la señal que lo desencadenara (un momento del dia, un lugar específico, un evento previo)? ¿Cual es la rutina específica (no vaga sino concreta al nivel de dónde y cuando exactamente)? ¿Cual es la recompensa inmediata que lo seguirá (algo genuinamente agradable)? El diseño del sistema es el trabajo que la mayoría de las personas no hace, y por eso los habitos no duran.
 
 El habito que falla no es un problema de carácter. Es un problema de diseño del sistema.
 

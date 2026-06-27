@@ -55,7 +55,7 @@ Carlos ha descubierto que la libertad de no tener jefe viene acompanada de la re
 
 La investigación sobre la autonomía y el rendimiento de Edward Deci y Richard Ryan muestra que la autonomía (la experiencia de elegir y ser el origen de las propias acciones) es una necesidad psicológica basica cuya satisfacción produce mayor bienestar y rendimiento. Sin embargo, la autonomía requiere una habilidad de autoregulación (planificar, priorizar, ejecutar sin supervisión externa) que los entornos de empleo raramente desarrollan en profundidad.
 
-**Ejercicio inmediato:** Diseña tu sistema de autodireción para la próxima semana: ¿cuales son las tres prioridades más importantes de la semana (no las más urgentes sino las más importantes)? ¿Que bloques de tiempo protegeras específicamente para trabajar en ellas? Quien o que podría interrumpirlos y cómo lo gestionaras? El sistema de autodireción tiene que ser explícito al principio porque la inercia del modo reactivo (responder a lo que aparece) domina sin un sistema deliberado.
+**Ejercicio inmediato:** Diseña tu sistema de autodireción para la próxima semana: ¿cuales son las tres prioridades más importantes de la semana (no las más urgentes sino las más importantes)? ¿Que bloques de tiempo protegeras específicamente para trabajar en ellas? ¿Quien o que podría interrumpirlos y cómo lo gestionaras? El sistema de autodireción tiene que ser explícito al principio porque la inercia del modo reactivo (responder a lo que aparece) domina sin un sistema deliberado.
 
 La libertad de no tener jefe es real. La trampa es que sin sistema propio, el mundo se convierte en el jefe.
 
@@ -139,7 +139,7 @@ Carlos ha aprendido que la soberania sobre el propio tiempo, que era una de las 
 
 Cal Newport propone en Deep Work que el trabajo cognitivo de mayor valor requiere períodos de concentración ininterrumpida que son imposibles en entornos de distracción constante. El emprendedor que trabaja desde casa o en espacio coworking sin estructura de tiempo tiene el mayor acceso potencial a ese trabajo profundo y, al mismo tiempo, la mayor vulnerabilidad a las interrupciones que lo destruyen.
 
-**Ejercicio inmediato:** Diseña tu estructura de tiempo semanal como emprendedor con la misma deliberación con que diseñarias la estructura de tiempo de un equipo: ¿que bloques son para el trabajo profundo de mayor impacto (estrategia, creación, relaciones clave)? ¿Que bloques son para las tareas operativas? Que bloques son para la recuperación que hace posible el rendimiento sostenido? Una vez diseñada, trata esa estructura como si la hubiera impuesto un jefe exigente que entiende lo que tu negocio necesita.
+**Ejercicio inmediato:** Diseña tu estructura de tiempo semanal como emprendedor con la misma deliberación con que diseñarias la estructura de tiempo de un equipo: ¿que bloques son para el trabajo profundo de mayor impacto (estrategia, creación, relaciones clave)? ¿Que bloques son para las tareas operativas? ¿Que bloques son para la recuperación que hace posible el rendimiento sostenido? Una vez diseñada, trata esa estructura como si la hubiera impuesto un jefe exigente que entiende lo que tu negocio necesita.
 
 La soberania sobre el tiempo es la mayor libertad del emprendedor. Y la trampa más facil en la que caer.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que la transición de empleado a emprendedor no es 
 
 La investigación sobre el aprendizaje adulto de Malcolm Knowles muestra que los adultos aprenden mejor cuando el aprendizaje esta conectado con problemas reales que importan y cuando pueden aplicar inmediatamente lo que aprenden. Para el emprendedor en transición, esto significa que el aprendizaje más valioso viene de hacer, no de estudiar el hacer.
 
-**Ejercicio inmediato:** Reflexiona sobre las tres formas en que tu identidad profesional ha cambiado más desde que empezaste a emprender (o desde que empezaste a planear emprender). ¿Que creencias sobre ti mismo o sobre el trabajo han cambiado? ¿Que comportamientos has adoptado que antes no tenías? Que has tenido que dejar ir? Esas tres respuestas son el mapa de la transformación de identidad que ya has hecho y que te orienta hacía la que todavia tienes por hacer.
+**Ejercicio inmediato:** Reflexiona sobre las tres formas en que tu identidad profesional ha cambiado más desde que empezaste a emprender (o desde que empezaste a planear emprender). ¿Que creencias sobre ti mismo o sobre el trabajo han cambiado? ¿Que comportamientos has adoptado que antes no tenías? ¿Que has tenido que dejar ir? Esas tres respuestas son el mapa de la transformación de identidad que ya has hecho y que te orienta hacía la que todavia tienes por hacer.
 
 El emprendedor que llegaras a ser no lo eras cuando empezaste. Lo seras cuando hayas hecho suficientes cosas que solo ese emprendedor puede hacer.
 

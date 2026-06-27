@@ -27,7 +27,7 @@ El autoconocimiento no es solo un valor filosofico. Tiene beneficios psicológic
 
 Su investigación, sin embargo, revela una paradoja preocupante: el 95% de las personas creen que tienen un buen nivel de autoconocimiento, pero solo el 10-15% cumplen los criterios del autoconocimiento real cuando se mide de forma objetiva. La brecha entre el autoconocimiento percibido y el real es enorme, y esa brecha produce decisiones, relaciones, y carreras que no estan alineadas con la realidad de quien uno es.
 
-**Ejercicio inmediato:** Reflexiona sobre las tres últimas decisiones importantes que tomaste. Para cada una, reflexiona: ¿cual fue el proceso por el que tome esa decisión? ¿Que valores o supuestos implícitos guiaron la decisión? Hay factores de mi personalidad o mis miedos que influenciaron la decisión de formas que no reconoci en el momento? Ese análisis retrospectivo es el inició del autoconocimiento real.
+**Ejercicio inmediato:** Reflexiona sobre las tres últimas decisiones importantes que tomaste. Para cada una, reflexiona: ¿cual fue el proceso por el que tome esa decisión? ¿Que valores o supuestos implícitos guiaron la decisión? ¿Hay factores de mi personalidad o mis miedos que influenciaron la decisión de formas que no reconoci en el momento? Ese análisis retrospectivo es el inició del autoconocimiento real.
 
 El autoconocimiento que asumes sin examinar es con frecuencia una historia conveniente sobre quien crees que eres.
 
@@ -111,7 +111,7 @@ Isabel ha llegado a entender que el autoconocimiento más importante para su vid
 
 El mecanismo es el etiquetado emocional: nombrar una emoción con precisión activa el cortex prefrontal, que modula la respuesta de la amigdala. La precisión emocional no es un lujo de personas sensibles sino una herramienta de regulación que cualquier persona puede desarrollar con práctica.
 
-**Ejercicio inmediato:** Durante los próximos siete dias, práctica el etiquetado emocional preciso: cuando notes cualquier emoción, intenta nombrarla con la mayor especificidad posible. En lugar de estoy estresado, reflexiona: ¿es ansiedad sobre algo futuro? ¿Frustración sobre algo que no puedo controlar? Irritación con alguien específico? La precisión del etiquetado es el primer paso hacía la regulación efectiva.
+**Ejercicio inmediato:** Durante los próximos siete dias, práctica el etiquetado emocional preciso: cuando notes cualquier emoción, intenta nombrarla con la mayor especificidad posible. En lugar de estoy estresado, reflexiona: ¿es ansiedad sobre algo futuro? ¿Frustración sobre algo que no puedo controlar? ¿Irritación con alguien específico? La precisión del etiquetado es el primer paso hacía la regulación efectiva.
 
 La emoción que no puedes nombrar con precisión no puedes gestionarla con precisión.
 

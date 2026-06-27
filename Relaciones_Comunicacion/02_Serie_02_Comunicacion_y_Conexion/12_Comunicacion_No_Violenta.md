@@ -57,7 +57,7 @@ Siento que no me respetas no es un sentimiento. Es un pensamiento disfrazado de 
 
 Lisa Feldman Barrett muestra que las personas con vocabulario emocional más rico tienen mejor regulación emocional y mejores relaciones interpersonales. La precisión emocional no es un lujo. Es una habilidad con consecuencias directas en la calidad de la comunicación.
 
-**Ejercicio inmediato:** Cuando vayas a decir siento que..., para y preguntate: ¿que emoción real hay aquí? ¿Tristeza? Miedo? ¿Frustración? Sustituye la formulación por: me siento (emoción real). Observa como cambia la conversación.
+**Ejercicio inmediato:** Cuando vayas a decir siento que..., para y pregúntate: ¿que emoción real hay aquí? ¿Tristeza? ¿Miedo? ¿Frustración? Sustituye la formulación por: me siento (emoción real). Observa como cambia la conversación.
 
 Cuando nombras tu emoción real, el otro puede escucharte. Cuando lanzas un juicio disfrazado, solo puede defenderse.
 
@@ -153,7 +153,7 @@ La CNV no se aprende en un libro ni en un taller. Se aprende aplicandola, equivo
 
 **El Principio del Proceso sobre la Perfección:** Nadie aplica la CNV perfectamente. El objetivo no es hablar siempre con el proceso completo en la cabeza. Es que los principios vayan permeando la forma de pensar sobre las relaciones: buscar la observación antes que el juicio, identificar la emoción real, conectar con la necesidad, hacer peticiones en lugar de exigencias. Esos cuatro habitos, aplicados gradualmente, cambian la calidad de toda la comunicación.
 
-**Ejercicio inmediato:** Esta semana, cada vez que vayas a criticar a alguien, para y preguntate: ¿que necesidad mia no se esta satisfaciendo aquí? Luego piensa como podrías comunicar esa necesidad en lugar de la crítica. Hacerlo algunas veces es suficiente para empezar a cambiar el patron.
+**Ejercicio inmediato:** Esta semana, cada vez que vayas a criticar a alguien, para y pregúntate: ¿que necesidad mia no se esta satisfaciendo aquí? Luego piensa como podrías comunicar esa necesidad en lugar de la crítica. Hacerlo algunas veces es suficiente para empezar a cambiar el patron.
 
 La CNV no es un lenguaje que se habla. Es una forma de ver que, con práctica, cambia todo lo que dices.
 

@@ -51,11 +51,11 @@ La creatividad que no descansa no descubre. El cerebro necesita irse a otra part
 
 Isabel enfrenta un problema recurrente en su departamento de RRHH que ha intentado resolver con los enfoques convencionales durante tres años sin éxito. No se le ha ocurrido que el problema podría requerir no una mejor solución al enfoque actual sino un enfoque completamente diferente al problema.
 
-**El Principio del Pensamiento Lateral como Cambio de Marco:** Edward de Bono acunó el terminó pensamiento lateral en 1967 para describir el proceso de resolver problemas mediante enfoques indirectos e inesperados, en contraste con el pensamiento vertical o logico que avanza paso a paso dentro de un marcó dado. El pensamiento lateral no busca la mejor solución dentro del marcó actual del problema sino que cuestiona el marcó mismo: ¿que supuesto estoy dando por sentado? ¿Que pasaria si el problema estuviera mal formulado? Que solución sería obvia si no existiera la restricción que parece más inmovible?
+**El Principio del Pensamiento Lateral como Cambio de Marco:** Edward de Bono acunó el terminó pensamiento lateral en 1967 para describir el proceso de resolver problemas mediante enfoques indirectos e inesperados, en contraste con el pensamiento vertical o logico que avanza paso a paso dentro de un marcó dado. El pensamiento lateral no busca la mejor solución dentro del marcó actual del problema sino que cuestiona el marcó mismo: ¿que supuesto estoy dando por sentado? ¿Que pasaria si el problema estuviera mal formulado? ¿Que solución sería obvia si no existiera la restricción que parece más inmovible?
 
 El pensamiento lateral es especialmente valioso para los problemas que llevan mucho tiempo sin resolver precisamente porque las soluciones convencionales ya se han probado. Si el enfoque logico y directo no ha funcionado después de multiples intentos, es una señal de que el problema requiere un cambio de perspectiva, no un refinamiento de los enfoques existentes.
 
-**Ejercicio inmediato:** Para un problema importante que tienes sin resolver, escribe en papel el supuesto más fundamental que das por sentado sobre ese problema. Luego preguntate: ¿y si ese supuesto fuera incorrecto o eliminable? ¿Que soluciones se verian posibles desde esa perspectiva alternativa?
+**Ejercicio inmediato:** Para un problema importante que tienes sin resolver, escribe en papel el supuesto más fundamental que das por sentado sobre ese problema. Luego pregúntate: ¿y si ese supuesto fuera incorrecto o eliminable? ¿Que soluciones se verian posibles desde esa perspectiva alternativa?
 
 Un problema que lleva años sin resolverse no necesita más de lo mismo. Necesita que lo veas desde un ángulo donde no hayas mirado aun.
 
@@ -125,7 +125,7 @@ Elena tiene un bloqueo. Sabe lo que tiene que hacer pero no puede empezar. O emp
 
 La solución no es eliminar ese miedo (lo cual es imposible) sino actuar a pesar de el. Anne Lamott, autora de Bird by Bird, propone la técnica del borrador horrible deliberado: escribir (o crear) intencionalmente mal en la primera versión, con el objetivo explícito de producir algo que podrá mejorarse, no algo terminado. Esta técnica desactiva el perfeccionismo que paraliza porque elimina la expectativa de que lo que se produce en la primera iteración deba ser bueno.
 
-**Ejercicio inmediato:** Para el proyecto creativo con el que estas bloqueado, dedicate a hacer la peor versión posible deliberadamente, explicitamente mala, en los próximos veinte minutos. La unica regla es que al final de los veinte minutos exista algo que no existia antes. Frecuentemente, la peor versión posible es el desbloqueador que el perfeccionismo no puede ser.
+**Ejercicio inmediato:** Para el proyecto creativo con el que estas bloqueado, dedícate a hacer la peor versión posible deliberadamente, explicitamente mala, en los próximos veinte minutos. La unica regla es que al final de los veinte minutos exista algo que no existia antes. Frecuentemente, la peor versión posible es el desbloqueador que el perfeccionismo no puede ser.
 
 No puedes editar lo que no existe. El bloqueo perfecta lo que aun no existe. Lo unico que vence al bloqueo es la fealdad deliberada de un primer borrador.
 

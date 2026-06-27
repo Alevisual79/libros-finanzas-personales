@@ -93,7 +93,7 @@ El resentimiento es el GPS de los límites no puestos. Cada vez que sientes que 
 
 Nedra Tawwab propone un ejercicio de revisión semanal: al final de cada semana, identificar las situaciones en que te has sentido resentido, utilizado o agotado. El patron que emerge en cuatro semanas revela sistemáticamente donde estan los límites ausentes.
 
-**Ejercicio inmediato:** Esta semana, cuando notes resentimiento o incomodidad en una interacción, para y preguntate: ¿que límite no puse aquí? o que límite puse que no se respeto? Anota las respuestas. No actues todavia. El primer paso es ver el patron.
+**Ejercicio inmediato:** Esta semana, cuando notes resentimiento o incomodidad en una interacción, para y pregúntate: ¿que límite no puse aquí? o que límite puse que no se respeto? Anota las respuestas. No actues todavia. El primer paso es ver el patron.
 
 Antes de poner un límite tienes que saber donde necesitas uno.
 
@@ -149,7 +149,7 @@ La madre de Ana le decía siempre: si de verdad me quisieras, no me hablarias as
 
 Terrence Real dice que la mayoría de personas que dicen amarse pero tienen relaciones disfuncionales no tienen un problema de amor. Tienen un problema de límites. El amor esta. La estructura que lo contiene, no.
 
-**Ejercicio inmediato:** Piensa en alguien a quien quieres de verdad. Identifica un límite que necesitas poner con esa persona. Ahora preguntate: ¿poner ese límite es un acto de amor o de desamor? La respuesta honesta cambia como te sientes al ponerlo.
+**Ejercicio inmediato:** Piensa en alguien a quien quieres de verdad. Identifica un límite que necesitas poner con esa persona. Ahora pregúntate: ¿poner ese límite es un acto de amor o de desamor? La respuesta honesta cambia como te sientes al ponerlo.
 
 Quien más quieres es con quien más límites necesitas. No porque el amor lo exija. Sino porque la relación lo vale.
 

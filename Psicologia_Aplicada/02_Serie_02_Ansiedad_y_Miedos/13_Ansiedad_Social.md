@@ -69,7 +69,7 @@ Isabel sobreestima sistemáticamente el grado en que los demás la evaluan negat
 
 El efecto foco se amplifica con la ansiedad: cuando estamos ansiosos, la percepción de ser el centro de atención de los demás se exagera porque nuestra propia atención esta enfocada en nosotros mismos y proyectamos esa atención hacía afuera. Los demás estan, en realidad, ocupados fundamentalmente en sus propias preocupaciones, no evaluando las tuyas.
 
-**Ejercicio inmediato:** Piensa en una situación social reciente donde creiste que los demás te evaluaron negativamente. Estima el porcentaje de los presentes que realmente estaban pensando en ti negativamente después de la situación. Luego preguntate: ¿cuando eres tu el observador de otros en situaciones similares, cuanto tiempo dedicaste realmente a pensar negativamente en ellos después? Esa comparación calibra la estimación.
+**Ejercicio inmediato:** Piensa en una situación social reciente donde creiste que los demás te evaluaron negativamente. Estima el porcentaje de los presentes que realmente estaban pensando en ti negativamente después de la situación. Luego pregúntate: ¿cuando eres tu el observador de otros en situaciones similares, cuanto tiempo dedicaste realmente a pensar negativamente en ellos después? Esa comparación calibra la estimación.
 
 Los demás no piensan en ti tanto como tu piensas que piensan en ti. Estan demasiado ocupados pensando en si mismos.
 

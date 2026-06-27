@@ -139,7 +139,7 @@ La piel refleja lo que se come. No de forma inmediata, pero sí a lo largo de lo
 El azúcar exceso en sangre produce glicación: la unión de moléculas de glucosa a proteínas como el colágeno, alterando su estructura. La glicación del colágeno lo vuelve rígido y propenso a la rotura, contribuyendo a las arrugas y a la pérdida de elasticidad.
 
 **Los antioxidantes:**
-Las vitaminas C y E, el licopeno (tomate), los carotenoides (zanahoria, boniato, calabaza), los polifenoles (bayas, té verde, cacao): tienen efectos documentados de protección cutánea frente al estrés oxidativo.
+Las vitaminas C y E, el licopeno (tómate), los carotenoides (zanahoria, boniato, calabaza), los polifenoles (bayas, té verde, cacao): tienen efectos documentados de protección cutánea frente al estrés oxidativo.
 
 **La vitamina C:**
 Esencial para la síntesis de colágeno. El déficit de vitamina C produce escorbuto con desintegración del colágeno.

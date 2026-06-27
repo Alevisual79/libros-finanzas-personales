@@ -27,7 +27,7 @@ No todos los tratamientos para la depresión son iguales en evidencia.
 
 El meta-análisis de Pim Cuijpers y colegas sobre los efectos de la psicoterapia para la depresión analiza datos de cientos de estudios y muestra que la psicoterapia tiene un efecto moderado a grande en la depresión (d de Cohen entre 0.7 y 0.9), comparable al de la farmacoterapia. La combinación de psicoterapia y farmacoterapia es superior a cualquiera de los dos tratamientos por separado en la depresión moderada a severa.
 
-**Ejercicio inmediato:** Si estas recibiendo tratamiento para la depresión, reflexiona: ¿que tipo de tratamiento estas recibiendo? ¿Es evidenciado? Es suficiente para la severidad de tu depresión? Si no estas seguro, esta es una pregunta que puedes hacer directamente a tu profesional de referencia.
+**Ejercicio inmediato:** Si estas recibiendo tratamiento para la depresión, reflexiona: ¿que tipo de tratamiento estas recibiendo? ¿Es evidenciado? ¿Es suficiente para la severidad de tu depresión? Si no estas seguro, esta es una pregunta que puedes hacer directamente a tu profesional de referencia.
 
 El tratamiento que no tiene evidencia puede hacer perder el tiempo que un tratamiento efectivo podría usar para producir recuperación.
 

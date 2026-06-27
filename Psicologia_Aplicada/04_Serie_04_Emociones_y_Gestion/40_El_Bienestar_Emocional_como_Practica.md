@@ -69,7 +69,7 @@ Ruben se pregunta si su vida tiene suficiente significado. Esta pregunta tiene c
 
 Michael Steger de la Colorado State University propone que el significado tiene dos componentes: la comprensión (sentir que la propia vida tiene coherencia) y el proposito (sentir que se tiene metas hacía las que trabajar y que la propia existencia importa). Ambas dimensiones se asocian de forma independiente con mayor bienestar.
 
-**Ejercicio inmediato:** Responde estas tres preguntas: ¿que es lo que más me importa en mi vida (no lo que creo que debería importarme)? ¿Que hago con suficiente frecuencia que exprese eso? Hay una brecha entre lo que más me importa y como gasto mi tiempo y energía? Si la respuesta a la tercera es si, esa brecha es el trabajo más urgente de significado que tienes pendiente.
+**Ejercicio inmediato:** Responde estas tres preguntas: ¿que es lo que más me importa en mi vida (no lo que creo que debería importarme)? ¿Que hago con suficiente frecuencia que exprese eso? ¿Hay una brecha entre lo que más me importa y como gasto mi tiempo y energía? Si la respuesta a la tercera es si, esa brecha es el trabajo más urgente de significado que tienes pendiente.
 
 Una vida ocupada sin significado es agotamiento. Una vida con significado tolera la ocupación sin perder el hilo.
 

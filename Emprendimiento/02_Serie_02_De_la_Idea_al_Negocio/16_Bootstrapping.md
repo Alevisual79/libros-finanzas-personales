@@ -125,7 +125,7 @@ Lucia ha llegado a un punto en su negocio donde esta evaluando si el bootstrappi
 
 La clave es la distinción de Jason Calacanis: el capital externo tiene sentido cuando el negocio puede usar ese capital para acelerar algo que ya funciona (unit economics positivos, product-market fit demostrado, modeló de negocio probado). El capital externo como sustento de un negocio que todavia no funciona solo pospone y amplifica los problemas.
 
-**Ejercicio inmediato:** Para evaluar si el capital externo tiene sentido para tu negocio, responde tres preguntas: tus unit economics son positivos (el LTV supera al CAC por un ratio de al menos 3:1)? ¿Tienes un canal de adquisición de clientes que funciona y que podrías escalar con más capital? El mercado tiene un window de oportunidad temporal que requiere moverte más rápido de lo que el bootstrapping permite? Si las tres respuestas son si, el capital externo puede tener sentido. Si alguna es no, resuelve primero el problema subyacente.
+**Ejercicio inmediato:** Para evaluar si el capital externo tiene sentido para tu negocio, responde tres preguntas: tus unit economics son positivos (el LTV supera al CAC por un ratio de al menos 3:1)? ¿Tienes un canal de adquisición de clientes que funciona y que podrías escalar con más capital? ¿El mercado tiene un window de oportunidad temporal que requiere moverte más rápido de lo que el bootstrapping permite? Si las tres respuestas son si, el capital externo puede tener sentido. Si alguna es no, resuelve primero el problema subyacente.
 
 El capital que aceleran un negocio que ya funciona crea valor. El que mantiene con vida a uno que todavia no funciona solo pospone la decisión difícil.
 
@@ -153,7 +153,7 @@ Carlos ha llegado a entender que el bootstrapping no es solo una estrategia de f
 
 Tomas Tunguz de Redpoint Ventures documenta que muchos de los negocios con mayor margen de beneficio en el mundo tecnologico son bootstrapped o levantaron poco capital externo: la restricción de recursos les forzó a construir modelos de negocio fundamentalmente eficientes que los competidores bien financiados nunca necesitaron construir.
 
-**Ejercicio inmediato:** Reflexiona sobre lo que defines como éxito para tu negocio: ¿es maximizar el crecimiento y el tamaño? ¿Es maximizar el margen y la rentabilidad? Es mantener el control del negocio? ¿Es construir algo con un impacto específico? Es tener libertad de tiempo y geografica? Esa definición personal del éxito determina si el bootstrapping es la estrategia correcta o si el capital externo sirve mejor a tus objetivos. No hay una respuesta universal: hay la respuesta que es coherente con lo que genuinamente quieres construir.
+**Ejercicio inmediato:** Reflexiona sobre lo que defines como éxito para tu negocio: ¿es maximizar el crecimiento y el tamaño? ¿Es maximizar el margen y la rentabilidad? ¿Es mantener el control del negocio? ¿Es construir algo con un impacto específico? ¿Es tener libertad de tiempo y geografica? Esa definición personal del éxito determina si el bootstrapping es la estrategia correcta o si el capital externo sirve mejor a tus objetivos. No hay una respuesta universal: hay la respuesta que es coherente con lo que genuinamente quieres construir.
 
 El negocio que defines como éxito es el que mereces construir. El bootstrapping o el capital externo son solo el camino, no el destino.
 

@@ -41,7 +41,7 @@ Ruben tiene un estilo de apego ansioso que se manifiesta de formas específicas 
 
 Las estrategias de hiperactivación incluyen: mantener el pensamiento constantemente orientado hacía el otro y la relación (rumiación relacional), magnificar las amenazas percibidas a la relación, buscar reaseguración de forma repetitiva, y usar el clinging (aferramiento) como respuesta al miedo de perder al otro. Estas estrategias, aunque reducen la ansiedad a corto plazo, frecuentemente aumentan la tensión en la relación y pueden producir precisamente el resultado que temen: el alejamiento del otro, agotado por la demanda de reaseguración constante.
 
-**Ejercicio inmediato:** Identifica dos o tres de tus conductas de reaseguración más habituales en relaciones intimas. Son conductas que realizas cuando sientes ansiedad relacional para reducirla. Ahora preguntate: ¿a corto plazo, reducen la ansiedad? ¿A largo plazo, mejoran la relación o aumentan la tensión?
+**Ejercicio inmediato:** Identifica dos o tres de tus conductas de reaseguración más habituales en relaciones intimas. Son conductas que realizas cuando sientes ansiedad relacional para reducirla. Ahora pregúntate: ¿a corto plazo, reducen la ansiedad? ¿A largo plazo, mejoran la relación o aumentan la tensión?
 
 Las conductas que calman la ansiedad relacional a corto plazo frecuentemente la alimentan a largo plazo.
 

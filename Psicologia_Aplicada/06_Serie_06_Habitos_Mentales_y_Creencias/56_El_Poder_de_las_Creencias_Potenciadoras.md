@@ -83,7 +83,7 @@ Isabel experimenta el trabajo cotidiano como monotono pero sabe que tiene objeti
 
 Amy Wrzesniewski y Jane Dutton han investigado el job crafting: la forma en que las personas pueden redisenar su trabajo cotidiano para que tenga más conexión con su sentido de significado, independientemente del contenido formal del rol. La creencia de que el trabajo puede conectarse con algo que importa cambia la experiencia del trabajo sin que el trabajo cambie.
 
-**Ejercicio inmediato:** Para tu trabajo actual, reflexiona: ¿que conexión hay entre lo que haces cada dia y algo que genuinamente te importa (aunque sea indirecta)? ¿Si ayudas a personas específicas, que impacto tiene ese ayuda en sus vidas? Si produces algo, quien lo usa y como mejora su situación? Hacer visible esa conexión refuerza la creencia de que lo que se hace importa.
+**Ejercicio inmediato:** Para tu trabajo actual, reflexiona: ¿que conexión hay entre lo que haces cada dia y algo que genuinamente te importa (aunque sea indirecta)? ¿Si ayudas a personas específicas, que impacto tiene ese ayuda en sus vidas? ¿Si produces algo, quien lo usa y como mejora su situación? Hacer visible esa conexión refuerza la creencia de que lo que se hace importa.
 
 El trabajo que crees que no importa y el que crees que importa no difieren en los hechos. Difieren en la creencia.
 

@@ -69,7 +69,7 @@ Marcos ha aprendido a hacer de sus fracasos el aprendizaje más valioso de su ca
 
 Tim Harford, en Adapt, muestra que las organizaciones e individuos que son mejores en adaptarse al cambio no son los que cometen menos errores sino los que aprenden más eficientemente de cada error: identifican las causas rápida y honestamente, ajustan la estrategia, y vuelven a actuar sin quedar paralizados por la experiencia negativa.
 
-**Ejercicio inmediato:** Para el fracaso o contratiempo más significativo de tu negocio en los últimos doce meses, realiza un After Action Review completo: ¿que esperabas que ocurriera? ¿Que ocurrio realmente? Cuales fueron las causas de la diferencia? ¿Que habrías hecho diferente con la información que tenías entonces? Que harías diferente ahora con la información que tienes ahora? Ese análisis en cinco preguntas produce el máximo aprendizaje del fracaso en el mínimo tiempo.
+**Ejercicio inmediato:** Para el fracaso o contratiempo más significativo de tu negocio en los últimos doce meses, realiza un After Action Review completo: ¿que esperabas que ocurriera? ¿Que ocurrio realmente? ¿Cuales fueron las causas de la diferencia? ¿Que habrías hecho diferente con la información que tenías entonces? ¿Que harías diferente ahora con la información que tienes ahora? Ese análisis en cinco preguntas produce el máximo aprendizaje del fracaso en el mínimo tiempo.
 
 El fracaso analizado es el aprendizaje más barato que existe. El que no se analiza es el más caro.
 
@@ -111,7 +111,7 @@ Marcos ha aprendido que sus mejores clientes son los mejores maestros que tiene 
 
 Rob Fitzpatrick, en The Mom Test, propone técnicas para extraer retroalimentación útil de los clientes: ¿en lugar de preguntas que pueden generar validation bias (les gusta mi idea?), preguntar sobre sus comportamientos pasados reales (como han intentado resolver este problema hasta ahora? cuanto han pagado por esa solución?).
 
-**Ejercicio inmediato:** Esta semana, programa tres conversaciones de veinte minutos con clientes actuales o pasados usando las preguntas de The Mom Test: ¿cuales son los mayores problemas en tu proceso actual de X? ¿Cómo lo intentas resolver actualmente? Cuanto tiempo o dinero te cuesta ese problema? Lo que escuches en esas tres conversaciones probablemente cambie alguna suposición importante que tienes sobre tu negocio.
+**Ejercicio inmediato:** Esta semana, programa tres conversaciones de veinte minutos con clientes actuales o pasados usando las preguntas de The Mom Test: ¿cuales son los mayores problemas en tu proceso actual de X? ¿Cómo lo intentas resolver actualmente? ¿Cuanto tiempo o dinero te cuesta ese problema? Lo que escuches en esas tres conversaciones probablemente cambie alguna suposición importante que tienes sobre tu negocio.
 
 El cliente que te dice lo que no quieres oir es el que más valor te da. El que te dice lo que quieres oir es el que más agradeces pero el que menos te enseña.
 
@@ -125,7 +125,7 @@ Carlos ha aprendido a ver a sus competidores cómo una fuente de aprendizaje en 
 
 La investigación sobre la innovación por imitación de Oded Shenkar muestra que la mayoría de las innovaciones exitosas no son invenciones radicales sino mejoras significativas sobre lo que ya existia: el aprendizaje de lo que funciona y no funciona en los competidores y la mejora sobre ello es una estrategia de innovación completamente valida y frecuentemente más eficiente que la innovación desde cero.
 
-**Ejercicio inmediato:** Para los tres competidores más relevantes de tu mercado, realiza el siguiente análisis de aprendizaje: ¿que estan haciendo bien que tu no estas haciendo? ¿Que estan haciendo mal que tu podrías hacer mejor? Que hueco en el mercado ninguno de los tres (incluido tu) esta atendiendo bien? Las respuestas a esas tres preguntas son la base de una estrategia que aprende de la competencia en lugar de solo temerla.
+**Ejercicio inmediato:** Para los tres competidores más relevantes de tu mercado, realiza el siguiente análisis de aprendizaje: ¿que estan haciendo bien que tu no estas haciendo? ¿Que estan haciendo mal que tu podrías hacer mejor? ¿Que hueco en el mercado ninguno de los tres (incluido tu) esta atendiendo bien? Las respuestas a esas tres preguntas son la base de una estrategia que aprende de la competencia en lugar de solo temerla.
 
 El competidor que mejor ejecuta es tu mejor maestro gratuito. Solo tienes que observar con atención.
 
@@ -139,7 +139,7 @@ Lucia ha aprendido que los emprendedores que crean los negocios más exitosos fr
 
 Mary Meeker, en su informe anual de tendencias de Internet, ha identificado consistentemente durante dos décadas las tendencias más importantes del ecosistema digital con varios años de anticipación. Su metodologia (observar los cambios en los comportamientos de los consumidores antes que en los mercados financieros) es aplicable a cualquier sector.
 
-**Ejercicio inmediato:** Identifica las tres tendencias (tecnologicas, sociales, regulatorias, o económicas) que más podrían impactar tu sector en los próximos tres años. Para cada una, reflexiona: ¿que nuevos problemas crea esta tendencia que hoy no tienen buena solución? ¿Que negocios actuales hace obsoletos? Que nuevas posibilidades abre para negocios nuevos? Las tendencias no son solo amenazas; son el material con que se construyen los mejores negocios de la próxima década.
+**Ejercicio inmediato:** Identifica las tres tendencias (tecnologicas, sociales, regulatorias, o económicas) que más podrían impactar tu sector en los próximos tres años. Para cada una, reflexiona: ¿que nuevos problemas crea esta tendencia que hoy no tienen buena solución? ¿Que negocios actuales hace obsoletos? ¿Que nuevas posibilidades abre para negocios nuevos? Las tendencias no son solo amenazas; son el material con que se construyen los mejores negocios de la próxima década.
 
 El emprendedor que ve la tendencia cuando es obvia llega tarde. El que la ve cuando es incomoda llega a tiempo.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que el mayor problema no es conseguir información.
 
 La investigación de Giada Di Stefano y colegas muestra que tomar tiempo deliberado para reflexionar sobre lo aprendido (en lugar de pasar inmediatamente a la siguiente experiencia) aumenta significativamente el aprendizaje de cada experiencia.
 
-**Ejercicio inmediato:** Para los próximos noventa dias, adopta una práctica de integración del aprendizaje: al final de cada semana, dedica quince minutos a responder cuatro preguntas: ¿que ha ocurrido esta semana que merece reflexión? ¿Que he aprendido de ello? Que principio general puedo extraer que aplique a situaciones futuras? ¿Como podría probar ese principio la próxima semana? Esas cuatro preguntas convierten la experiencia en aprendizaje integrado.
+**Ejercicio inmediato:** Para los próximos noventa dias, adopta una práctica de integración del aprendizaje: al final de cada semana, dedica quince minutos a responder cuatro preguntas: ¿que ha ocurrido esta semana que merece reflexión? ¿Que he aprendido de ello? ¿Que principio general puedo extraer que aplique a situaciones futuras? ¿Como podría probar ese principio la próxima semana? Esas cuatro preguntas convierten la experiencia en aprendizaje integrado.
 
 La experiencia que no integras pasa. La que integras te cambia.
 

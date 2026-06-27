@@ -27,7 +27,7 @@ El emprendedor no es el que tiene la mejor idea. Es el que tiene la mentalidad d
 
 La investigación de Saras Sarasvathy sobre la cognición emprendedora muestra que los emprendedores expertos (con varios negocios exitosos a sus espaldas) piensan de forma radicalmente diferente a los novatos: en lugar de empezar con objetivos y buscar los recursos necesarios (razonamiento causal), empiezan con los recursos que tienen y exploran que pueden crear con ellos (razonamiento effectual). Esa diferencia cognitiva no es innata: es un patron que puede aprenderse.
 
-**Ejercicio inmediato:** Haz un inventario de tus recursos actuales: ¿que sabes hacer? ¿Que conoces? Que contactos tienes? ¿Que acceso tienes a recursos específicos? La pregunta del emprendedor con mentalidad effectual no es que necesito para empezar sino que puedo crear con lo que ya tengo. Ese cambio de pregunta frecuentemente revela posibilidades que la perspectiva de los recursos necesarios bloquea.
+**Ejercicio inmediato:** Haz un inventario de tus recursos actuales: ¿que sabes hacer? ¿Que conoces? ¿Que contactos tienes? ¿Que acceso tienes a recursos específicos? La pregunta del emprendedor con mentalidad effectual no es que necesito para empezar sino que puedo crear con lo que ya tengo. Ese cambio de pregunta frecuentemente revela posibilidades que la perspectiva de los recursos necesarios bloquea.
 
 El emprendedor que espera a tener todo lo que necesita para empezar no empieza nunca.
 
@@ -55,7 +55,7 @@ Marcos tiene dificultades para tolerar la incertidumbre después de veinte años
 
 La investigación de Michelle Lamont sobre los patrones de pensamiento de los fundadores exitosos muestra que los que más prosperan no son los que más saben sino los que mejor toleran no saber: pueden actuar con confianza sobre información incompleta, ajustarse cuando la realidad difiere de sus supuestos, y no entrar en crisis de identidad cuando las cosas no van como estaba previsto.
 
-**Ejercicio inmediato:** Identifica las tres incertidumbres más importantes de tu proyecto o negocio actual. Para cada una, reflexiona: ¿es una incertidumbre que puedo reducir con investigación (y merece el tiempo)? ¿Es una incertidumbre que solo el mercado puede resolver (y merece experimentar en lugar de analizar)? Es una incertidumbre irreducible que tengo que aprender a tolerar? Esa clasificación produce estrategias diferentes para cada tipo.
+**Ejercicio inmediato:** Identifica las tres incertidumbres más importantes de tu proyecto o negocio actual. Para cada una, reflexiona: ¿es una incertidumbre que puedo reducir con investigación (y merece el tiempo)? ¿Es una incertidumbre que solo el mercado puede resolver (y merece experimentar en lugar de analizar)? ¿Es una incertidumbre irreducible que tengo que aprender a tolerar? Esa clasificación produce estrategias diferentes para cada tipo.
 
 El negocio que esperas a entender perfectamente antes de lanzar ya lo ha lanzado otro.
 
@@ -69,7 +69,7 @@ Carlos tiene miedo de fracasar. Ese miedo es real. Pero la investigación sugier
 
 Scott Shane, en The Illusions of Entrepreneurship, analiza los datos reales de fracaso empresarial y muestra que, aunque significativos, son sistemáticamente menores de lo que la percepción popular sugiere. Ademas, el fracaso de una empresa raramente produce el catastrofismo personal (ruina económica total, daño irreparable a la reputación) que el miedo anticipa: la mayoría de los emprendedores que fracasan aprenden, se recuperan, y muchos tienen empresas exitosas después del fracaso.
 
-**Ejercicio inmediato:** Para el escenario de fracaso que más temes en tu proyecto, haz un ejercicio de worst case analysis: ¿si el peor escenario que puedes imaginar ocurriera, que pasaria exactamente? ¿Cuanto tiempo tardarias en recuperarte? Que recursos tendrías disponibles? ¿Que habrías aprendido? La mayoría de las personas que hacen este ejercicio con honestidad descubren que el peor caso es significativamente mejor de lo que el miedo sugeria.
+**Ejercicio inmediato:** Para el escenario de fracaso que más temes en tu proyecto, haz un ejercicio de worst case analysis: ¿si el peor escenario que puedes imaginar ocurriera, que pasaria exactamente? ¿Cuanto tiempo tardarias en recuperarte? ¿Que recursos tendrías disponibles? ¿Que habrías aprendido? La mayoría de las personas que hacen este ejercicio con honestidad descubren que el peor caso es significativamente mejor de lo que el miedo sugeria.
 
 El fracaso que imaginas rara vez es el que ocurre. Y el que ocurre rara vez es tan malo cómo lo imaginabas.
 
@@ -83,7 +83,7 @@ Lucia ha aprendido que el mayor obstaculo para escalar su empresa no era una est
 
 La investigación de Herminia Ibarra sobre la identidad profesional muestra que las transiciones de identidad más exitosas (de empleado a emprendedor, de emprendedor a CEO) no ocurren de golpe sino a traves de experimentos de identidad: probar nuevas formas de actuar antes de haber adoptado completamente la nueva identidad, y usar la retroalimentación de esos experimentos para ir ajustando la imagen del yo.
 
-**Ejercicio inmediato:** Escribe la respuesta a la pregunta: ¿que tipo de emprendedor/empresario quiero ser en cinco años? No en terminos de resultados (facturación, equipo, mercado) sino en terminos de identidad: ¿como tomó las decisiones? ¿Como trató a mi equipo? Como pienso sobre los problemas? ¿Como respondo al fracaso? Esa descripción es el arquetipo de identidad hacía el que puedes orientar tu desarrollo.
+**Ejercicio inmediato:** Escribe la respuesta a la pregunta: ¿que tipo de emprendedor/empresario quiero ser en cinco años? No en terminos de resultados (facturación, equipo, mercado) sino en terminos de identidad: ¿como tomó las decisiones? ¿Como trató a mi equipo? ¿Como pienso sobre los problemas? ¿Como respondo al fracaso? Esa descripción es el arquetipo de identidad hacía el que puedes orientar tu desarrollo.
 
 El negocio que construyes tiene el techo del empresario que crees ser. Para levantar el techo, cambia la creencia.
 

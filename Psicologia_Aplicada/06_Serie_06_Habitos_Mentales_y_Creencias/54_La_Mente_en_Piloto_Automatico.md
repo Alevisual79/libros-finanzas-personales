@@ -111,7 +111,7 @@ Ruben ha notado que cuando su mente divaga, no lo hace aleatoriamente: vuelve si
 
 La investigación muestra que la actividad de la red de modo por defecto tiende a focalizarse en: eventos del pasado (replays, nostalgia, arrepentimiento), el futuro (planificación, anticipación, preocupación), y el yo (autoevaluación, relaciones sociales). Conocer estos destinos habituales de la mente ayuda a entender el contenido del piloto automático propio.
 
-**Ejercicio inmediato:** Durante el dia de mañana, en momentos de transición (caminar, esperar, conducir), nota donde va tu mente cuando divaga: ¿al pasado? ¿Al futuro? A preocupaciones específicas? ¿A fantasias? Ese patron de divagación es el mapa de lo que tu mente considera más importante cuando no recibe instrucciones.
+**Ejercicio inmediato:** Durante el dia de mañana, en momentos de transición (caminar, esperar, conducir), nota donde va tu mente cuando divaga: ¿al pasado? ¿Al futuro? ¿A preocupaciones específicas? ¿A fantasias? Ese patron de divagación es el mapa de lo que tu mente considera más importante cuando no recibe instrucciones.
 
 A donde va tu mente cuando la dejas sola te dice más sobre lo que te importa que cualquier lista de valores que podrías escribir.
 

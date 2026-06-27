@@ -87,7 +87,7 @@ Las mejores preguntas no se preparan. Surgen de una actitud de curiosidad genuin
 
 Todd Kashdan, investigador sobre curiosidad y bienestar, muestra que las personas con mayor curiosidad disposicional tienen mejores relaciones, mayor creatividad y mayor bienestar subjetivo. La curiosidad no es solo una herramienta de conversación. Es una postura ante la vida que tiene consecuencias medibles en la calidad de las relaciones.
 
-**Ejercicio inmediato:** Antes de tu próxima conversación con alguien, práctica la disposición curiosa: recuerdate que esta persona tiene una historia, una perspectiva y una experiencia que no conoces. Entra en la conversación con la intención de salir sabiendo algo que no sabías. Esa intención cambia el tipo de preguntas que haces.
+**Ejercicio inmediato:** Antes de tu próxima conversación con alguien, práctica la disposición curiosa: recuérdate que esta persona tiene una historia, una perspectiva y una experiencia que no conoces. Entra en la conversación con la intención de salir sabiendo algo que no sabías. Esa intención cambia el tipo de preguntas que haces.
 
 La curiosidad no se finge. Pero si se puede entrenar como disposición.
 
@@ -95,7 +95,7 @@ La curiosidad no se finge. Pero si se puede entrenar como disposición.
 
 ## Capítulo 6: Preguntar sin interrogar
 
-Hay personas cuyas preguntas se sienten cómo una entrevista de trabajo. ¿Cuantos años llevas trabajando en esto? ¿Donde estudiaste? Tienes pareja? Cada pregunta es un item más de un formulario invisible. El resultado es que el otro se siente evaluado, no escuchado.
+Hay personas cuyas preguntas se sienten cómo una entrevista de trabajo. ¿Cuantos años llevas trabajando en esto? ¿Donde estudiaste? ¿Tienes pareja? Cada pregunta es un item más de un formulario invisible. El resultado es que el otro se siente evaluado, no escuchado.
 
 **El Principio del Ritmo y el Espacio:** La diferencia entre preguntar y interrogar no esta en el contenido de las preguntas sino en el ritmo y el espacio entre ellas. El interrogatorio salta de una pregunta a otra sin dar espacio para que la respuesta se desarrolle. La conversación genuina hace una pregunta, escucha de verdad la respuesta, y deja que la siguiente pregunta surja naturalmente de lo que el otro ha compartido.
 
@@ -153,11 +153,11 @@ En el conflicto, preguntar antes que defender es la estrategia más eficaz y la 
 
 La mejora en la calidad de las preguntas no ocurre por leer sobre ella. Ocurre con práctica deliberada en las conversaciones cotidianas. Y la práctica requiere atención consciente a algo que normalmente se hace de forma completamente automática.
 
-**El Principio de la práctica Consciente:** Las preguntas mejoran con revisión: después de una conversación, preguntate si las preguntas que hiciste fueron abiertas o cerradas, si dejaste espacio para las respuestas, si hubo alguna pregunta generativa. Ese tipo de revisión, hecha con regularidad, produce mejoras que van sedimentando hasta que las buenas preguntas se vuelven habito.
+**El Principio de la práctica Consciente:** Las preguntas mejoran con revisión: después de una conversación, pregúntate si las preguntas que hiciste fueron abiertas o cerradas, si dejaste espacio para las respuestas, si hubo alguna pregunta generativa. Ese tipo de revisión, hecha con regularidad, produce mejoras que van sedimentando hasta que las buenas preguntas se vuelven habito.
 
 Los mejores comunicadores del mundo, en cualquier campo, comparten el habito de revisar sus conversaciones para ver que funcionó y que podría mejorar. Esa revisión sistemática es lo que convierte la experiencia en aprendizaje.
 
-**Ejercicio inmediato:** Esta semana, después de tres conversaciones importantes, escribe en dos minutos: ¿que preguntas hice? ¿Cuales abrieron algo? Cuales cerraron? ¿Que pregunta me arrepiento de no haber hecho? Esa revisión, hecha consistentemente, es el mecanismo de mejora más eficaz disponible.
+**Ejercicio inmediato:** Esta semana, después de tres conversaciones importantes, escribe en dos minutos: ¿que preguntas hice? ¿Cuales abrieron algo? ¿Cuales cerraron? ¿Que pregunta me arrepiento de no haber hecho? Esa revisión, hecha consistentemente, es el mecanismo de mejora más eficaz disponible.
 
 Las preguntas que cambias hoy cambian las conversaciones que tienes mañana. Y las conversaciones que tienes mañana cambian las relaciones que construyes.
 

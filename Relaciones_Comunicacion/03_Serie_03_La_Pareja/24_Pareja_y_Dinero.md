@@ -33,7 +33,7 @@ No discuten sobre el dinero porque tengan problemas económicos reales. Discuten
 
 Shlomo Benartzi, investigador del comportamiento económico, muestra que las actitudes ante el dinero se forman en la infancia a partir de las experiencias familiares y son profundamente resistentes al cambio racional. No se resuelven con más información financiera. Se gestionan con más comprensión mutua.
 
-**Ejercicio inmediato:** Piensa en como era la situación económica de tu familia de origen. Habia abundancia o escasez? ¿Cómo se hablaba del dinero en tu casa? Que actitud tenía tu progenitor principal ante el gasto y el ahorro? Esas respuestas son el origen de tu actitud actual hacía el dinero, y probablemente son diferentes a las de tu pareja.
+**Ejercicio inmediato:** Piensa en como era la situación económica de tu familia de origen. Habia abundancia o escasez? ¿Cómo se hablaba del dinero en tu casa? ¿Que actitud tenía tu progenitor principal ante el gasto y el ahorro? Esas respuestas son el origen de tu actitud actual hacía el dinero, y probablemente son diferentes a las de tu pareja.
 
 Cuando discutes sobre dinero con tu pareja, en realidad estan discutiendo dos historias de origen distintas sobre lo que el dinero significa.
 
@@ -117,7 +117,7 @@ La relación entre dinero y poder en la pareja va más allá de quien gana más.
 
 La señal más clara de que el dinero se esta usando como herramienta de control: uno de los dos no tiene acceso a información financiera, no puede tomar decisiones de gasto sin permiso del otro, o tiene que dar cuentas de cada euro que gasta mientras el otro no tiene las mismas restricciones.
 
-**Ejercicio inmediato:** Evalua el equilibrio de poder financiero en tu relación: ¿cada uno tiene acceso propio a dinero? ¿Cada uno puede tomar decisiones de gasto razonables de forma autonoma? Las decisiones financieras importantes se toman juntos? Si la respuesta a alguna de estas preguntas es no, hay una conversación sobre el equilibrio de poder que necesita tenerse.
+**Ejercicio inmediato:** Evalua el equilibrio de poder financiero en tu relación: ¿cada uno tiene acceso propio a dinero? ¿Cada uno puede tomar decisiones de gasto razonables de forma autonoma? ¿Las decisiones financieras importantes se toman juntos? Si la respuesta a alguna de estas preguntas es no, hay una conversación sobre el equilibrio de poder que necesita tenerse.
 
 Una relación saludable con el dinero es aquella en que ninguno de los dos necesita pedir permiso para existir.
 

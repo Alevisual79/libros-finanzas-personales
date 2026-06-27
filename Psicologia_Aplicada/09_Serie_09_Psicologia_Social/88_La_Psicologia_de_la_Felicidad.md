@@ -125,7 +125,7 @@ Ruben tiende a ver los problemas como permanentes y pervasivos. La investigació
 
 La investigación de Seligman y colegas muestra que el estilo explicativo puede cambiarse a traves de la terapia cognitiva y de prácticas deliberadas de reencuadre, y que ese cambio reduce la depresión, mejora el rendimiento, y aumenta el bienestar.
 
-**Ejercicio inmediato:** Para el próximo problema o contratiempo que experimentes, práctica el cuestionamiento de las tres dimensiones: ¿este problema es realmente permanente o es temporal? ¿Es realmente pervasivo (afecta toda mi vida) o es específico de este contexto? Soy realmente el unico responsable o hay factores externos que contribuyen? El cuestionamiento no niega la realidad del problema sino que cuestiona las interpretaciones catastroficas que lo amplifican.
+**Ejercicio inmediato:** Para el próximo problema o contratiempo que experimentes, práctica el cuestionamiento de las tres dimensiones: ¿este problema es realmente permanente o es temporal? ¿Es realmente pervasivo (afecta toda mi vida) o es específico de este contexto? ¿Soy realmente el unico responsable o hay factores externos que contribuyen? El cuestionamiento no niega la realidad del problema sino que cuestiona las interpretaciones catastroficas que lo amplifican.
 
 El problema real es un problema. El problema real más todas las interpretaciones catastroficas es sufrimiento innecesario.
 

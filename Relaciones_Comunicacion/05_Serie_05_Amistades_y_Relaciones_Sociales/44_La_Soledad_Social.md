@@ -121,7 +121,7 @@ Las comunidades estructuradas (grupos religiosos, de voluntariado, de interés c
 
 **El Principio del Sentido de Pertenencia Colectiva:** Las comunidades estructuradas proporcionan algo que las amistades individuales por si solas no siempre ofrecen: un sentido de pertenencia a algo más grande que uno mismo, con un proposito compartido y una estructura de encuentro regular que no depende exclusivamente de la iniciativa individual constante. La participación activa y regular en una comunidad de este tipo es uno de los predictores más consistentes de reducción de soledad cronica a largo plazo.
 
-**Ejercicio inmediato:** Identifica una comunidad estructurada (religiosa, de voluntariado, de interés específico) a la que podrías unirte de forma regular en tu zona. Comprometete a asistir de forma consistente durante al menos dos meses antes de evaluar el impacto.
+**Ejercicio inmediato:** Identifica una comunidad estructurada (religiosa, de voluntariado, de interés específico) a la que podrías unirte de forma regular en tu zona. Comprométete a asistir de forma consistente durante al menos dos meses antes de evaluar el impacto.
 
 Las amistades individuales se construyen una a una. El sentido de pertenencia se construye perteneciendo a algo más grande.
 

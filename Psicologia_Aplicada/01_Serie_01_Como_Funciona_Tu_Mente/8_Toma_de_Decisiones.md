@@ -39,9 +39,9 @@ Ruben va a hacer una inversión significativa. Ha investigado la empresa, le gus
 
 **El Principio del Check Previo de Sesgos:** Chip Heath y Dan Heath, en Decisive, identifican los cuatro villanias de la toma de decisiones: el pensamiento de visión de tunel (solo considerar una opción en lugar de un conjunto de alternativas), la confirmación sesgada de la opción preferida, el apego emocional a la opción inicial, y el exceso de optimismo sobre como evolucionara el futuro. Cada uno de estos problemas tiene soluciones específicas que los equipos y personas que deciden bien han aprendido a aplicar sistemáticamente.
 
-Antes de tomar una decisión importante, los mejores tomadores de decisiones que Philip Tetlock estudia en sus investigaciones sobre superpronosticadores hacen una auditoria de sesgos: ¿que sesgos son más probables en esta decisión específica? ¿Que evidencia contradice mi hipotesis inicial? Que pasaria si mi evaluación más optimista estuviera sistemáticamente equivocada en un factor de dos?
+Antes de tomar una decisión importante, los mejores tomadores de decisiones que Philip Tetlock estudia en sus investigaciones sobre superpronosticadores hacen una auditoria de sesgos: ¿que sesgos son más probables en esta decisión específica? ¿Que evidencia contradice mi hipotesis inicial? ¿Que pasaria si mi evaluación más optimista estuviera sistemáticamente equivocada en un factor de dos?
 
-**Ejercicio inmediato:** Para una decisión importante que estes considerando, aplica el check de los cuatro villanos de Heath y Heath: ¿Estas considerando suficientes alternativas o solo la obvia? ¿Estas buscando activamente evidencia que contradiga tu opción preferida? Estas más apegado de lo justificado a la opción que ya te gusta? ¿Estas siendo sistemáticamente optimista sobre el futuro?
+**Ejercicio inmediato:** Para una decisión importante que estes considerando, aplica el check de los cuatro villanos de Heath y Heath: ¿Estas considerando suficientes alternativas o solo la obvia? ¿Estas buscando activamente evidencia que contradiga tu opción preferida? ¿Estas más apegado de lo justificado a la opción que ya te gusta? ¿Estas siendo sistemáticamente optimista sobre el futuro?
 
 Los sesgos que más dañan las decisiones importantes son los que menos se notan porque se sienten como juicio, no como sesgo.
 
@@ -111,7 +111,7 @@ Isabel ha leido que las emociones no deberían influir en las decisiones profesi
 
 El problema no es que las emociones influyan en las decisiones. Es que ciertas emociones (miedo excesivo, entusiasmo desbordante, orgullo herido) pueden distorsionar la evaluación de opciones en formas que no se corresponden con la información real del entorno. La habilidad no es eliminar las emociones de las decisiones sino distinguir cuales proporcionan información relevante y cuales introducen distorsión sistemática.
 
-**Ejercicio inmediato:** Para una decisión importante, preguntate: ¿las emociones que siento sobre esta decisión me estan dando información relevante sobre sus consecuencias probables, o estan distorsionando mi evaluación por razones no relacionadas con la decisión en si (miedo al cambio, orgullo, necesidad de aprobación)? Esta distinción no elimina las emociones, pero cambia su papel de director a consultor.
+**Ejercicio inmediato:** Para una decisión importante, pregúntate: ¿las emociones que siento sobre esta decisión me estan dando información relevante sobre sus consecuencias probables, o estan distorsionando mi evaluación por razones no relacionadas con la decisión en si (miedo al cambio, orgullo, necesidad de aprobación)? Esta distinción no elimina las emociones, pero cambia su papel de director a consultor.
 
 Las emociones no son el enemigo de las buenas decisiones. Son sus aliadas cuando escuchas lo que informan y no lo que ordenan.
 
@@ -125,7 +125,7 @@ Ruben lleva dos años en un proyecto que no funciona. Ha invertido tiempo, diner
 
 Daniel Kahneman vincula la falacia del costo hundido con la aversión a la perdida: abandonar una inversión que no funciona implica reconocer la perdida, lo cual activa una aversión psicológica que el cerebro intenta evitar continuando la inversión, aunque eso solo amplifica la perdida total. La capacidad de reconocer la perdida y discontinuar es una de las habilidades de toma de decisiones más importantes y menos intuitivas.
 
-**Ejercicio inmediato:** Identifica un proyecto, relación, habito o inversión en la que continuas parcialmente por lo que ya invertiste. Preguntate: ¿si empezara desde cero hoy, sin la historia de lo que ya he invertido, seguiria eligiendo esto? Si la respuesta es no o incierta, la falacia del costo hundido probablemente esta influenciando tu decisión de continuar.
+**Ejercicio inmediato:** Identifica un proyecto, relación, habito o inversión en la que continuas parcialmente por lo que ya invertiste. Pregúntate: ¿si empezara desde cero hoy, sin la historia de lo que ya he invertido, seguiria eligiendo esto? Si la respuesta es no o incierta, la falacia del costo hundido probablemente esta influenciando tu decisión de continuar.
 
 Lo que ya invertiste no puede recuperarse. La unica decisión real que tienes es que hacer con lo que queda por delante.
 

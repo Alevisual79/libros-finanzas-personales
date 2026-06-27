@@ -47,7 +47,7 @@ El estilo de apego que desarrollamos en la infancia (seguro, ansioso, evitativo 
 
 Amir Levine y Rachel Heller, en Attached, muestran que el apego seguro en la elección de pareja no es un destino sino que puede desarrollarse: la relación con una persona de apego seguro tiene el poder de mover gradualmente el estilo de apego del otro hacía mayor seguridad con el tiempo.
 
-**Ejercicio inmediato:** Identifica tu estilo de apego predominante. Si no lo conoces, busca el test de apego adulto de Levine y Heller y hazlo. Luego preguntate: ¿el tipo de persona que me atrae tipicamente, tiene un estilo de apego compatible o incompatible con el mio? Esa información es crítica para la elección consciente.
+**Ejercicio inmediato:** Identifica tu estilo de apego predominante. Si no lo conoces, busca el test de apego adulto de Levine y Heller y hazlo. Luego pregúntate: ¿el tipo de persona que me atrae tipicamente, tiene un estilo de apego compatible o incompatible con el mio? Esa información es crítica para la elección consciente.
 
 Lo que sientes cuando te enamoras de alguien no es solo química. Es la activación de tu historia de apego.
 

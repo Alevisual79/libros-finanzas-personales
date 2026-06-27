@@ -97,7 +97,7 @@ Lucia ha desarrollado un proceso de social selling en LinkedIn que le genera ent
 
 El proceso de social selling efectivo no empieza con el pitch sino con la construcción de credibilidad: publicar contenido que demuestre expertise, comentar con valor los posts de los clientes potenciales (no comentarios genericos sino perspectivas específicas), y iniciar conversaciones directas solo cuando hay ya un nivel de relación establecido.
 
-**Ejercicio inmediato:** Identifica cinco clientes potenciales en LinkedIn que encajan perfectamente con tu perfil de cliente ideal. Para cada uno, comprometete a interactuar de forma genuina con su contenido durante las próximas cuatro semanas (comentar con perspectiva propia, no con emojis o bien dicho) antes de iniciarte una conversación directa. El mensaje directo que llega después de cuatro semanas de interacción genuina tiene una tasa de respuesta entre tres y cinco veces superior al cold message sin contexto.
+**Ejercicio inmediato:** Identifica cinco clientes potenciales en LinkedIn que encajan perfectamente con tu perfil de cliente ideal. Para cada uno, comprométete a interactuar de forma genuina con su contenido durante las próximas cuatro semanas (comentar con perspectiva propia, no con emojis o bien dicho) antes de iniciarte una conversación directa. El mensaje directo que llega después de cuatro semanas de interacción genuina tiene una tasa de respuesta entre tres y cinco veces superior al cold message sin contexto.
 
 El mensaje directo que llega después de una relación tiene nombre. El que llega sin relación tiene spam.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a construir una estrategia de LinkedIn que le genera entre el 
 
 La investigación de Content Marketing Institute muestra que los negocios que integran redes sociales, newsletter, y SEO en una estrategia coherente tienen entre tres y cinco veces más conversión que los que usan cada canal de forma independiente y desconectada.
 
-**Ejercicio inmediato:** Diseña como conectas tu actividad en redes sociales con el resto de tu sistema de marketing: ¿cada post incluye una llamada a la acción para suscribirse a tu newsletter o descargar un recurso? ¿Los suscriptores de la newsletter reciben contenido exclusivo que no esta en las redes? Los leads de la newsletter tienen un proceso de seguimiento específico que los lleva a una conversación de ventas? La respuesta a esas tres preguntas diseña el embudo completo desde el seguidor de redes hasta el cliente.
+**Ejercicio inmediato:** Diseña como conectas tu actividad en redes sociales con el resto de tu sistema de marketing: ¿cada post incluye una llamada a la acción para suscribirse a tu newsletter o descargar un recurso? ¿Los suscriptores de la newsletter reciben contenido exclusivo que no esta en las redes? ¿Los leads de la newsletter tienen un proceso de seguimiento específico que los lleva a una conversación de ventas? La respuesta a esas tres preguntas diseña el embudo completo desde el seguidor de redes hasta el cliente.
 
 Las redes sociales que no estan conectadas con el resto del sistema de marketing son el primer paso de un camino que termina en ningún lugar.
 

@@ -101,7 +101,7 @@ Elena preocupación sobre todo el tiempo. Pero hay dos tipos fundamentalmente di
 
 La identificación de si la preocupación actual es productiva o rumiativa es el primer paso para gestionarla de forma diferente. Si es productiva: completarla, planificar la acción y soltar. Si es rumiativa: interrumpirla con una de varias técnicas (tiempo de preocupación programado, aplazamiento de la preocupación, técnicas de distracción cognitiva) porque continuar en ella no produce ningún beneficio.
 
-**Ejercicio inmediato:** La próxima vez que estés en un ciclo de preocupación, preguntate: ¿esta preocupación me esta llevando hacía una acción o solución específica, o esta repitiendose sin avanzar? Si es lo segundo, aplica el aplazamiento: me permito preocuparme por esto mañana entre las seis y las seis y media. Y cuando llegue ese momento, muchas preocupaciones habrán perdido su urgencia.
+**Ejercicio inmediato:** La próxima vez que estés en un ciclo de preocupación, pregúntate: ¿esta preocupación me esta llevando hacía una acción o solución específica, o esta repitiendose sin avanzar? Si es lo segundo, aplica el aplazamiento: me permito preocuparme por esto mañana entre las seis y las seis y media. Y cuando llegue ese momento, muchas preocupaciones habrán perdido su urgencia.
 
 La preocupación que busca soluciones es útil. La que busca certeza que no existe no lo es nunca.
 

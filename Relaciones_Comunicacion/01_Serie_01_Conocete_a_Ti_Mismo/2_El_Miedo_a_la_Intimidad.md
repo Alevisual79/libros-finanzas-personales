@@ -63,7 +63,7 @@ Hay personas que pueden tener sexo con alguien y no sentir ninguna intimidad. Y 
 
 Irene Goldenberg, especialista en terapia familiar, señal que los conflictos de intimidad en pareja suelen ser conflictos de capas: cada persona busca un tipo de intimidad distinto y ninguna de las dos ve claramente que la otra también esta intentando conectar, solo que desde una capa diferente.
 
-**Ejercicio inmediato:** De los seis tipos de intimidad, cual te resulta más facil? ¿Cual te cuesta más? Con quien de tu vida tienes cada tipo? Ese mapa te dice donde estan tus fortalezas relacionales y donde estan tus puntos ciegos.
+**Ejercicio inmediato:** De los seis tipos de intimidad, cual te resulta más facil? ¿Cual te cuesta más? ¿Con quien de tu vida tienes cada tipo? Ese mapa te dice donde estan tus fortalezas relacionales y donde estan tus puntos ciegos.
 
 No tienes que abrirte en todos los frentes a la vez. Empieza por la capa en que ya eres más fluido y avanza desde ahí.
 
@@ -91,7 +91,7 @@ Sofia llevaba dos años en una relación con un hombre casado. Antes había esta
 
 Los estudios de Kim Bartholomew sobre estilos de apego en adultos muestran que las personas con apego temeroso (que quieren intimidad pero la temen) consistentemente eligen parejas con baja disponibilidad emocional. No por masoquismo. Por protección.
 
-**Ejercicio inmediato:** En tus últimas relaciones significativas, como era la disponibilidad emocional del otro? ¿Alta, media o baja? Que nivel de disponibilidad te resultaba comodo? ¿Cual te incomodaba? La respuesta te habla de tu umbral de tolerancia a la intimidad real.
+**Ejercicio inmediato:** En tus últimas relaciones significativas, como era la disponibilidad emocional del otro? ¿Alta, media o baja? ¿Que nivel de disponibilidad te resultaba comodo? ¿Cual te incomodaba? La respuesta te habla de tu umbral de tolerancia a la intimidad real.
 
 No es que no encuentres a la persona adecuada. Es que cuando la encuentras, la encuentras demasiado disponible para ser interesante.
 
@@ -147,7 +147,7 @@ Elena lleva años esperando que las relaciones profundas ocurran solas. Que algu
 
 Arthur Aron, psicologo de la State University of New York, realizo un experimento que se hizo famoso: hizo que dos extraños se hicieran mutuamente una serie de 36 preguntas progresivamente más intimas y luego se miraran a los ojos cuatro minutos. El resultado: niveles de conexión equivalentes a años de amistad. La conclusión no es que la intimidad es facil. Es que la intimidad tiene ingredientes específicos y cuando los aplicas, funciona.
 
-**Ejercicio inmediato:** Elige una relación que quieras profundizar. Proponte hacerle al otro una pregunta real esta semana, una que vaya más allá de lo cotidiano. ¿Que es lo que más te ha costado en los últimos seis meses? ¿Que es lo que más te orgullece de ti mismo y por qué? Que cambio harías en tu vida si supieras que no puedes fracasar? Las respuestas a esas preguntas construyen intimidad más rápido que años de conversaciones superficiales.
+**Ejercicio inmediato:** Elige una relación que quieras profundizar. Proponte hacerle al otro una pregunta real esta semana, una que vaya más allá de lo cotidiano. ¿Que es lo que más te ha costado en los últimos seis meses? ¿Que es lo que más te orgullece de ti mismo y por qué? ¿Que cambio harías en tu vida si supieras que no puedes fracasar? Las respuestas a esas preguntas construyen intimidad más rápido que años de conversaciones superficiales.
 
 La intimidad no espera a que te sientas preparado. Ocurre cuando decides ir hacía ella.
 

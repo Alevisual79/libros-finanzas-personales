@@ -143,7 +143,7 @@ a) la evaluación de la injusticia puede ser incorrecta o exagerada (lo que requ
 b) la forma en que la ira se expresa puede ser contraproducente incluso cuando la injusticia es real (lo que requiere regulación de la forma de expresión, no de la emoción en si), y (
 c) la ira puede cronificarse incluso cuando la injusticia ya no existe o ya no puede cambiarse (lo que requiere trabajo de procesamiento y aceptación).
 
-**Ejercicio inmediato:** Para tu ira más persistente en este momento, evalua: ¿la injusticia que señala es real (o es exagerada por el umbral bajo por otras razones)? ¿Si es real, la ira ha motivado alguna acción útil o solo ha producido sufrimiento sin cambio? Si el cambio es posible, que acción específica requiere la ira? ¿Si el cambio no es posible, que proceso requiere para ser asimilada y soltada?
+**Ejercicio inmediato:** Para tu ira más persistente en este momento, evalua: ¿la injusticia que señala es real (o es exagerada por el umbral bajo por otras razones)? ¿Si es real, la ira ha motivado alguna acción útil o solo ha producido sufrimiento sin cambio? ¿Si el cambio es posible, que acción específica requiere la ira? ¿Si el cambio no es posible, que proceso requiere para ser asimilada y soltada?
 
 Hay iras que merecen ser escuchadas porque tienen razón. Y hay iras que necesitan ser gestionadas porque cuestan más de lo que pueden conseguir.
 

@@ -55,7 +55,7 @@ Isabel tiene sus puntuaciones en el Big Five. Ahora quiere saber que significa e
 
 Brent Roberts y colegas han documentado en meta-análisis que los rasgos del Big Five predicen la longevidad, la salud, los logros laborales, y la satisfacción vital de forma comparable o superior a variables socioeconomicas como el nivel de ingresos o el nivel educativo.
 
-**Ejercicio inmediato:** Para tu puntuación más alta en el Big Five y la más baja, reflexiona: ¿cómo se expresan en tu vida cotidiana? ¿En que áreas de tu vida tu rasgo más alto actua como recurso? En que áreas tu rasgo más bajo actua como limitación? Esa reflexión específica produce más utilidad que la descripción generica del rasgo.
+**Ejercicio inmediato:** Para tu puntuación más alta en el Big Five y la más baja, reflexiona: ¿cómo se expresan en tu vida cotidiana? ¿En que áreas de tu vida tu rasgo más alto actua como recurso? ¿En que áreas tu rasgo más bajo actua como limitación? Esa reflexión específica produce más utilidad que la descripción generica del rasgo.
 
 Los rasgos de personalidad no son deterministas. Son probabilidades condicionadas que el conocimiento y el esfuerzo pueden modificar.
 
@@ -111,7 +111,7 @@ Ruben ha tenido un jefe con rasgos que no sabe como nombrar: encantador en públ
 
 Estos rasgos no son categorías discretas (todos los seres humanos tienen alguno de estos rasgos en grado variable) sino dimensiones en cuyos extremos se producen los comportamientos más problematicos. La investigación de Peter Jonason y colegas muestra que la triada oscura confiere ventajas en determinados contextos (especialmente los de alta competencia y baja cooperación) pero produce daño relacional y organizacional significativo.
 
-**Ejercicio inmediato:** Si reconoces algunos de estos rasgos en una persona de tu entorno, la información más útil no es la etiqueta sino el patron de comportamiento: ¿te pide cosas y no reciproca? ¿Sus promesas no se cumplen sistemáticamente? Te sientes peor después de interactuar con esa persona? Ese patron es la información que necesitas para gestionar la relación.
+**Ejercicio inmediato:** Si reconoces algunos de estos rasgos en una persona de tu entorno, la información más útil no es la etiqueta sino el patron de comportamiento: ¿te pide cosas y no reciproca? ¿Sus promesas no se cumplen sistemáticamente? ¿Te sientes peor después de interactuar con esa persona? Ese patron es la información que necesitas para gestionar la relación.
 
 El nombre del rasgo de personalidad del otro no cambia el patron. El patron si puede cambiar como te relacionas con el.
 

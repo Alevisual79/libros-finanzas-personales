@@ -55,7 +55,7 @@ Elena ha oido hablar de una ratio magica de tres emociones positivas por cada ne
 
 La investigación de Fredrickson y Marcial Losada, aunque el número específico de la ratio fue cuestionado metodologicamente, confirma el principio general: las personas que florecen psicológicamente muestran consistentemente mayor frecuencia de emociones positivas que las que no florecen. Lo que si es claro es que la ausencia de emociones negativas no es suficiente para el florecimiento: todos los elementos del PERMA son necesarios.
 
-**Ejercicio inmediato:** Evalua brevemente tu situación en cada elemento del PERMA: ¿experimentas emociones positivas con suficiente frecuencia? ¿Te sientes comprometido en estado de flow en alguna actividad? Tienes relaciones que te nutren? ¿Hay algo que de sentido a lo que haces? Sientes que logras cosas que importan? El elemento más debil es probablemente el que más contribuye a cualquier deficit de bienestar.
+**Ejercicio inmediato:** Evalua brevemente tu situación en cada elemento del PERMA: ¿experimentas emociones positivas con suficiente frecuencia? ¿Te sientes comprometido en estado de flow en alguna actividad? ¿Tienes relaciones que te nutren? ¿Hay algo que de sentido a lo que haces? ¿Sientes que logras cosas que importan? El elemento más debil es probablemente el que más contribuye a cualquier deficit de bienestar.
 
 El bienestar no es máximo de alegria. Es suficiente de los cinco elementos que lo componen.
 

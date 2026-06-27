@@ -153,7 +153,7 @@ Elena ha llegado a entender que la relación entre el individuo y el entorno soc
 
 Las personas no son solo receptoras pasivas del entorno: también seleccionan sus entornos, los modifican, y evocan respuestas en los demás que refuerzan sus propias disposiciones. Las personas hostiles provocan respuestas hostiles que confirman su visión del mundo como hostil; las personas calorosas provocan respuestas calorosas que confirman su visión del mundo como acogedor.
 
-**Ejercicio inmediato:** Reflexiona sobre un patron de comportamiento que te gustaria cambiar. En lugar de preguntarte como cambiar el comportamiento directamente, reflexiona: ¿que situaciones lo desencadenan? ¿Que entornos lo facilitan? Que personas lo amplifican? Cambia primero el entorno que produce el comportamiento, antes de intentar cambiar el comportamiento directamente. Es mucho más efectivo.
+**Ejercicio inmediato:** Reflexiona sobre un patron de comportamiento que te gustaria cambiar. En lugar de preguntarte como cambiar el comportamiento directamente, reflexiona: ¿que situaciones lo desencadenan? ¿Que entornos lo facilitan? ¿Que personas lo amplifican? Cambia primero el entorno que produce el comportamiento, antes de intentar cambiar el comportamiento directamente. Es mucho más efectivo.
 
 El comportamiento que intentas cambiar con fuerza de voluntad con el mismo entorno de siempre es el comportamiento que casi nunca cambia.
 

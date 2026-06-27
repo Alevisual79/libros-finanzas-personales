@@ -27,7 +27,7 @@ La razón por la que las experiencias tempranas tienen un impacto tan duradero n
 
 Bruce Perry, psiquiatra y neurocientifico que ha investigado el impacto del trauma sobre el cerebro en desarrollo, propone que las experiencias adversas en la infancia activan repetidamente el sistema de estres (amigdala, hipotalamo, glandulas suprarrenales) en un cerebro cuyas redes regulatorias (corteza prefrontal) todavia no estan completamente desarrolladas. Esta activación repetida puede producir cambios estructurales y funcionales en estas redes que persisten en la adultez: un sistema de alarma muy sensible, una corteza regulatoria que necesita más esfuerzo para modular la respuesta de estres, y patrones de comportamiento y relación que reflejan las estrategias de supervivencia aprendidas en el entorno temprano.
 
-**Ejercicio inmediato:** Reflexiona sobre el entorno de tu infancia desde una perspectiva de seguridad (no solo de ausencia de violencia): ¿te sentias predeciblemente seguro en tu hogar? ¿Tus necesidades emocionales eran reconocidas y respondidas de forma suficiente? Habia adultos emocionalmente disponibles y estables? Estas preguntas mapean el nivel de apoyo regulatorio que tu cerebro en desarrollo tuvo disponible.
+**Ejercicio inmediato:** Reflexiona sobre el entorno de tu infancia desde una perspectiva de seguridad (no solo de ausencia de violencia): ¿te sentias predeciblemente seguro en tu hogar? ¿Tus necesidades emocionales eran reconocidas y respondidas de forma suficiente? ¿Habia adultos emocionalmente disponibles y estables? Estas preguntas mapean el nivel de apoyo regulatorio que tu cerebro en desarrollo tuvo disponible.
 
 La infancia que te dieron no es la que elegiste. Pero entender lo que tuvo y lo que le faltó es el principio de dejar de ser gobernado por ella.
 
@@ -69,7 +69,7 @@ Isabel tuvo padres presentes pero emocionalmente distantes: no expresaban afecto
 
 El niño que crece sin la validación emocional adecuada aprende lecciones poderosas sobre sus emociones: que no son importantes, que son una carga para otros, que deben ser escondidas o suprimidas. En la adultez, esto puede manifestarse como dificultad para identificar y expresar emociones, autocritica intensa, sensación de ser defectuoso, dificultad para pedir ayuda, e incapacidad de sentir que se merece amor o cuidado.
 
-**Ejercicio inmediato:** Reflexiona sobre si en tu infancia había espacio para tus emociones: ¿tus padres preguntaban como te sentias? ¿Respondian a tus expresiones emocionales con comprensión y validación? Te sentias emocionalmente visto? Si la respuesta a estas preguntas es mayoritariamente no, la negligencia emocional puede ser parte de tu historia de trauma que vale la pena explorar.
+**Ejercicio inmediato:** Reflexiona sobre si en tu infancia había espacio para tus emociones: ¿tus padres preguntaban como te sentias? ¿Respondian a tus expresiones emocionales con comprensión y validación? ¿Te sentias emocionalmente visto? Si la respuesta a estas preguntas es mayoritariamente no, la negligencia emocional puede ser parte de tu historia de trauma que vale la pena explorar.
 
 El trauma de lo que no ocurrio duele igual que el de lo que si ocurrio. Solo que es mucho más difícil de nombrar.
 

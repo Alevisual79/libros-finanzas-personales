@@ -157,7 +157,7 @@ El lenguaje corporal no se cambia con voluntad directa. No puedes decidir no est
 
 La presencia plena en una conversación produce de forma automática el lenguaje corporal más efectivo para la conexión: orientación hacía el otro, contacto visual natural, apertura postural, tono de voz centrado. La presencia es la causa. El lenguaje corporal es el efecto.
 
-**Ejercicio inmediato:** En tu próxima conversación importante, enfocate en una sola cosa: estar completamente presente, sin pensar en tu respuesta mientras el otro habla. Observa como cambia tu lenguaje corporal de forma automática cuando la presencia es real.
+**Ejercicio inmediato:** En tu próxima conversación importante, enfócate en una sola cosa: estar completamente presente, sin pensar en tu respuesta mientras el otro habla. Observa como cambia tu lenguaje corporal de forma automática cuando la presencia es real.
 
 El mejor lenguaje corporal no se entrena. Se produce cuando la presencia es genuina.
 

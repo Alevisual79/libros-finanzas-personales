@@ -27,7 +27,7 @@ No todo estres en el trabajo es ansiedad patologica. Hay un nivel de activación
 
 Alia Crum, investigadora de Stanford que estudia la psicología del estres, muestra que la creencia sobre el estres (si se ve como daño o como facilitador del rendimiento) modifica sus efectos biologicos: personas que ven el estres como facilitador del rendimiento muestran mejores perfiles hormonales y de salud ante el mismo nivel objetivo de estres que personas que lo ven como daño. La percepción del estres no es solo una actitud mental: modifica fisiologicamente como el cuerpo responde al mismo estímulo estresante.
 
-**Ejercicio inmediato:** Evalua tu estres laboral actual: ¿tienes claridad sobre las demandas? ¿Tienes el control y los recursos percibidos para manejarlas? Ves un punto final visible o es un estado cronico sin horizonte? Las respuestas determinan si estas en territorio de eustres o de distres.
+**Ejercicio inmediato:** Evalua tu estres laboral actual: ¿tienes claridad sobre las demandas? ¿Tienes el control y los recursos percibidos para manejarlas? ¿Ves un punto final visible o es un estado cronico sin horizonte? Las respuestas determinan si estas en territorio de eustres o de distres.
 
 El estres que te impulsa y el que te destruye se sienten parecidos a corto plazo. La diferencia que importa es lo que hacen con el tiempo.
 
@@ -97,7 +97,7 @@ Elena esta disponible para su empresa las veinticuatro horas del dia, los siete 
 
 La dificultad de establecer límites no es solo organizacional sino psicológica: muchas personas que trabajan mucho tienen identidades muy construidas alrededor del trabajo y de la imagen de ser el que más trabaja o el más comprometido. Establecer límites requiere revisar esa identidad, no solo implementar técnicas de gestión del tiempo.
 
-**Ejercicio inmediato:** Identifica un límite específico con el trabajo que necesitas pero que no has podido o querido establecer. Diseña cómo lo comunicarias a tu entorno laboral de forma que sea claro, razonable y profesional. Luego preguntate: ¿por qué no lo has establecido hasta ahora? La respuesta a esa pregunta es más informativa que el límite en si.
+**Ejercicio inmediato:** Identifica un límite específico con el trabajo que necesitas pero que no has podido o querido establecer. Diseña cómo lo comunicarias a tu entorno laboral de forma que sea claro, razonable y profesional. Luego pregúntate: ¿por qué no lo has establecido hasta ahora? La respuesta a esa pregunta es más informativa que el límite en si.
 
 Trabajar sin límites no es dedicación. Es el camino más corto hacía no poder trabajar en absoluto.
 

@@ -55,7 +55,7 @@ Elena ha escuchado hablar del ikigai en el contexto de la cultura japonesa de lo
 
 La investigación de Dan Buettner sobre las Zonas Azules (las regiones del mundo con mayor concentración de centenarios: Okinawa en Japon, Cerdeña en Italia, la Peninsula de Nicoya en Costa Rica, Loma Linda en California, e Icaria en Grecia) muestra que el sentido de proposito es uno de los factores que comparten todas estas comunidades, con efectos medibles en la longevidad y la salud.
 
-**Ejercicio inmediato:** Dedica treinta minutos a completar el mapa del ikigai para tu situación actual. En cuatro circulos separados, escribe: ¿que actividades te producen una experiencia cercana al flujo (lo que amas)? ¿En que áreas tienes competencia reconocida por otros (lo que haces bien)? Que problemas del mundo te importan genuinamente (lo que el mundo necesita)? ¿Por qué actividades estan dispuestos a pagarte otros (lo que puedes cobrar)? Las áreas de superposición entre los cuatro circulos son tus pistas de proposito.
+**Ejercicio inmediato:** Dedica treinta minutos a completar el mapa del ikigai para tu situación actual. En cuatro circulos separados, escribe: ¿que actividades te producen una experiencia cercana al flujo (lo que amas)? ¿En que áreas tienes competencia reconocida por otros (lo que haces bien)? ¿Que problemas del mundo te importan genuinamente (lo que el mundo necesita)? ¿Por qué actividades estan dispuestos a pagarte otros (lo que puedes cobrar)? Las áreas de superposición entre los cuatro circulos son tus pistas de proposito.
 
 El proposito que te sustenta, que te importa, que dominas, y que el mundo necesita no es una coincidencia afortunada. Es el resultado de buscar deliberadamente la intersección.
 
@@ -83,7 +83,7 @@ Ruben no sabe si lo que hace es solo un trabajo, una carrera, o una vocación. A
 
 Su investigación muestra que las personas con orientación vocacional reportan mayor satisfacción laboral, mayor compromiso, mejor rendimiento, y mayor bienestar general, y que esta orientación no depende del tipo de trabajo sino de la forma en que se interpreta: las personas con orientaciones vocacionales se encuentran en pracicamente todas las profesiones.
 
-**Ejercicio inmediato:** Para tu trabajo actual (o el más significativo que has tenido), reflexiona: ¿que dimensiones de este trabajo podrían tener sentido de vocación si las reencuadrara? ¿A quien beneficia directa o indirectamente lo que hago? Que habilidades o valores me permite expresar? El reencuadre vocacional no requiere cambiar el trabajo sino cambiar la narrativa que tienes sobre por qué lo haces.
+**Ejercicio inmediato:** Para tu trabajo actual (o el más significativo que has tenido), reflexiona: ¿que dimensiones de este trabajo podrían tener sentido de vocación si las reencuadrara? ¿A quien beneficia directa o indirectamente lo que hago? ¿Que habilidades o valores me permite expresar? El reencuadre vocacional no requiere cambiar el trabajo sino cambiar la narrativa que tienes sobre por qué lo haces.
 
 El mismo trabajo hecho por empleo y hecho por vocación produce experiencias completamente diferentes en la persona que lo hace.
 
@@ -139,7 +139,7 @@ Elena ha entendido que el proposito no es solo una visión abstracta. Necesita e
 
 Barbara Fredrickson y su investigación sobre las emociones positivas muestra que los micro-momentos de conexión (breves encuentros de genuina presencia y calidez con otros) tienen efectos acumulativos en el bienestar que son comparables a los de las relaciones profundas.
 
-**Ejercicio inmediato:** Durante los próximos tres dias, práctica la presencia de proposito en los micro-momentos: ¿en cada interacción (por breve que sea), preguntate como puedo ser útil, amable, o genuinamente presente en este momento? Ese ejercicio de atención deliberada transforma los momentos rutinarios en expresiones concretas del proposito.
+**Ejercicio inmediato:** Durante los próximos tres dias, práctica la presencia de proposito en los micro-momentos: ¿en cada interacción (por breve que sea), pregúntate como puedo ser útil, amable, o genuinamente presente en este momento? Ese ejercicio de atención deliberada transforma los momentos rutinarios en expresiones concretas del proposito.
 
 El proposito que solo existe en los grandes momentos es un proposito de fin de semana. El que vive en los pequeños momentos es el que realmente eres.
 

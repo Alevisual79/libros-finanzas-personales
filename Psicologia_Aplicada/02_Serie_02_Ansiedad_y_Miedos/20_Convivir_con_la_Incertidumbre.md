@@ -153,7 +153,7 @@ Isabel tomó la decisión de carrera sin la certeza que buscaba. Lo hizo basando
 
 La vida bien vivida no es la vida sin incertidumbre. Es la vida donde la incertidumbre no ha dictado las elecciones de forma que la persona lamentara después. La persona que nunca actua porque nunca tiene suficiente certeza no vive menos inciertamente. Vive menos.
 
-**Ejercicio inmediato:** Identifica una decisión o acción que has postpuesto esperando más certeza. Preguntate: ¿tengo suficiente información para tomar una decisión razonablemente buena (no perfecta, razonablemente buena)? Si la respuesta es si, fija una fecha en los próximos siete dias para tomar esa decisión. La incertidumbre restante es el coste de vivir en un mundo real.
+**Ejercicio inmediato:** Identifica una decisión o acción que has postpuesto esperando más certeza. Pregúntate: ¿tengo suficiente información para tomar una decisión razonablemente buena (no perfecta, razonablemente buena)? Si la respuesta es si, fija una fecha en los próximos siete dias para tomar esa decisión. La incertidumbre restante es el coste de vivir en un mundo real.
 
 La certeza perfecta es el precio de no actuar nunca. La incertidumbre gestionada es el precio de vivir de verdad.
 

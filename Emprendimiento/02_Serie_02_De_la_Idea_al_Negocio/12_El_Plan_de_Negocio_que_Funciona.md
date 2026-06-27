@@ -51,7 +51,7 @@ El canvas que se puede actualizar en cinco minutos vale más que el plan que tar
 
 Marcos ha aprendido que las proyecciones financieras a cinco años son más útiles para entender la estructura del negocio que para predecir los números reales.
 
-**El Principio del Plan Financiero como Herramienta de Decisión en Lugar de Predicción porque su Valor Esta en Entender la Sensibilidad del Negocio a los Supuestos Clave, No en la Precisión de las Estimaciones:** Tim Berry, experto en planificación de negocios, propone que el valor del plan financiero no esta en la precisión de las proyecciones (que nunca será alta en fases tempranas) sino en entender la estructura del negocio: ¿que variables son las que más impactan la rentabilidad? ¿Cuanto hay que vender para cubrir los costes fijos? Cuando necesita el negocio financiación adicional si el crecimiento es más lento de lo esperado?
+**El Principio del Plan Financiero como Herramienta de Decisión en Lugar de Predicción porque su Valor Esta en Entender la Sensibilidad del Negocio a los Supuestos Clave, No en la Precisión de las Estimaciones:** Tim Berry, experto en planificación de negocios, propone que el valor del plan financiero no esta en la precisión de las proyecciones (que nunca será alta en fases tempranas) sino en entender la estructura del negocio: ¿que variables son las que más impactan la rentabilidad? ¿Cuanto hay que vender para cubrir los costes fijos? ¿Cuando necesita el negocio financiación adicional si el crecimiento es más lento de lo esperado?
 
 La investigación de Aswath Damodaran sobre la valoración de startups muestra que las proyecciones financieras de startups en fases tempranas son casi siempre incorrectas en los números pero pueden ser correctas en la estructura: si los supuestos sobre el precio, el margen, y el coste de adquisición son correctos, la estructura del negocio (rentable o no rentable, escalable o lineal) puede anticiparse aunque los números específicos fallen.
 
@@ -95,7 +95,7 @@ Marcos ha aprendido que el plan de ventas no es un objetivo numerico sino un pro
 
 **El Principio del Plan de Ventas como Proceso Explicito de Conversión del Interes del Cliente en Ingreso que Puede Aprenderse, Medirse, y Mejorarse:** Aaron Ross y Marylou Tyler, en Predictable Revenue, proponen que las ventas predecibles (el crecimiento de ingresos que puede planificarse y escalarse) requieren un proceso de ventas definido con etapas claras, metricas de conversión en cada etapa, y roles diferenciados para la prospection, la conversión, y la gestión de cuentas.
 
-Para el emprendedor en fases tempranas, el proceso de ventas no necesita ser complejo: ¿necesita ser explícito. ¿Cuantos contactos iniciales necesito para conseguir una conversación? ¿Cuantas conversaciones necesito para conseguir una propuesta? Cuantas propuestas para cerrar una venta? Esas tasas de conversión, medidas en datos reales, son la base del plan de ventas que funciona.
+Para el emprendedor en fases tempranas, el proceso de ventas no necesita ser complejo: ¿necesita ser explícito. ¿Cuantos contactos iniciales necesito para conseguir una conversación? ¿Cuantas conversaciones necesito para conseguir una propuesta? ¿Cuantas propuestas para cerrar una venta? Esas tasas de conversión, medidas en datos reales, son la base del plan de ventas que funciona.
 
 **Ejercicio inmediato:** Diseña tu embudo de ventas de cinco pasos con los números reales que tienes hasta ahora (aunque sean pequeños): cuantos potenciales clientes has contactado, cuantas conversaciones iniciales has tenido, cuantas propuestas has enviado, cuantas ventas has cerrado, y cuanto revenue han generado. Si no tienes datos todavia, esa es tu primera prioridad: conseguir suficientes datos reales para calcular tus tasas de conversión.
 
@@ -123,9 +123,9 @@ Carlos ha aprendido que los mejores emprendedores que conoce no son los más opt
 
 **El Principio del Plan de Contingencia como Preparación para los Escenarios de Mayor Riesgo que Reduce el Impacto cuando Ocurren y Acelera la Recuperación:** La investigación de Klein y Crandall sobre la toma de decisiones en situaciones de crisis muestra que los equipos que han pensado de antemano en los escenarios de riesgo y tienen planes de respuesta preparados se recuperan más rápidamente de las crisis que los que tienen que improvisar bajo presión. La preparación reduce el tiempo de respuesta y la calidad de las decisiones bajo estres.
 
-Para el emprendedor, los escenarios de contingencia más importantes generalmente son: ¿que ocurre si el principal canal de adquisición de clientes falla (el algoritmo de la red social cambia, el cliente principal cancela el contrató)? ¿Que ocurre si el ingreso es un 50% menor de lo esperado durante seis meses? Que ocurre si el proveedor principal no puede cumplir?
+Para el emprendedor, los escenarios de contingencia más importantes generalmente son: ¿que ocurre si el principal canal de adquisición de clientes falla (el algoritmo de la red social cambia, el cliente principal cancela el contrató)? ¿Que ocurre si el ingreso es un 50% menor de lo esperado durante seis meses? ¿Que ocurre si el proveedor principal no puede cumplir?
 
-**Ejercicio inmediato:** Para tu negocio, identifica los tres escenarios de riesgo con mayor probabilidad de ocurrir en los próximos doce meses (no los peores sino los más probables). Para cada uno, escribe el plan de respuesta en tres pasos: ¿cual sería la primera acción en las primeras cuarenta y ocho horas? ¿Que recursos usarias para gestionarlo? Cuanto tiempo tardarias en estabilizar la situación? Tener ese plan escrito reduce la probabilidad de que una crisis se convierta en catastrofe.
+**Ejercicio inmediato:** Para tu negocio, identifica los tres escenarios de riesgo con mayor probabilidad de ocurrir en los próximos doce meses (no los peores sino los más probables). Para cada uno, escribe el plan de respuesta en tres pasos: ¿cual sería la primera acción en las primeras cuarenta y ocho horas? ¿Que recursos usarias para gestionarlo? ¿Cuanto tiempo tardarias en estabilizar la situación? Tener ese plan escrito reduce la probabilidad de que una crisis se convierta en catastrofe.
 
 El plan de contingencia que nunca usas es el mejor que puedes tener. Y el mejor escenario es que nunca lo necesites.
 
@@ -139,7 +139,7 @@ Marcos ha aprendido que el plan que no se actualiza regularmente deja de ser út
 
 La revisión trimestral del plan de negocio (en lugar de anual, que es demasiado infrecuente para el ritmo del emprendimiento temprano) permite mantener la claridad estratégica mientras se ajustan las tacticas al aprendizaje del trimestre anterior.
 
-**Ejercicio inmediato:** Establece una revisión trimestral de tu plan de negocio (canvas o plan simplificado) con una agenda específica: ¿que hipotesis del trimestre pasado han sido confirmadas por el mercado? ¿Cuales han sido refutadas? Que es lo que más ha cambiado en la situación del mercado o del negocio? ¿Que ajustes en la estrategia o el modelo produce esa información? Noventa minutos al trimestre para actualizar el plan valen la claridad que producen.
+**Ejercicio inmediato:** Establece una revisión trimestral de tu plan de negocio (canvas o plan simplificado) con una agenda específica: ¿que hipotesis del trimestre pasado han sido confirmadas por el mercado? ¿Cuales han sido refutadas? ¿Que es lo que más ha cambiado en la situación del mercado o del negocio? ¿Que ajustes en la estrategia o el modelo produce esa información? Noventa minutos al trimestre para actualizar el plan valen la claridad que producen.
 
 El plan que revisas cada trimestre y que ya no se parece al del año anterior no es un fracaso del plan. Es evidencia de que estas aprendiendo.
 

@@ -128,10 +128,10 @@ La formula de gestión de clientes insatisfechos de Steli Efti:
 1. escucha sin interrumpir ni defenderse,
 2. reconoce el problema con empatia genuina (sin culpar al cliente ni asumir responsabilidad falsa),
 3. pregunta que necesitaria para quedar satisfecho,
-4. comprometete con una solución específica en un plazo específico, y
+4. comprométete con una solución específica en un plazo específico, y
 5. haz seguimiento para confirmar que la solución fue satisfactoria.
 
-**Ejercicio inmediato:** Para la próxima queja o insatisfacción de un cliente (o la más reciente que recuerdes), reflexiona sobre cómo la gestionaste: ¿escuchaste sin interrumpir? ¿Propusiste una solución específica en un plazo concreto? Hiciste seguimiento para confirmar la satisfacción? Si alguno de esos pasos fallo, diseña el protocolo que seguiras en la siguiente situación similar. La calidad de la gestión de la insatisfacción dice más sobre el negocio que la ausencia de problemas.
+**Ejercicio inmediato:** Para la próxima queja o insatisfacción de un cliente (o la más reciente que recuerdes), reflexiona sobre cómo la gestionaste: ¿escuchaste sin interrumpir? ¿Propusiste una solución específica en un plazo concreto? ¿Hiciste seguimiento para confirmar la satisfacción? Si alguno de esos pasos fallo, diseña el protocolo que seguiras en la siguiente situación similar. La calidad de la gestión de la insatisfacción dice más sobre el negocio que la ausencia de problemas.
 
 El cliente insatisfecho que queda satisfecho después de la resolución es frecuentemente el más leal. Y el que no se resuelve bien es el que más le cuenta a todo el mundo.
 
@@ -145,7 +145,7 @@ Marcos ha conseguido su primer cliente y ahora necesita entender exactamente có
 
 Para el emprendedor en fases tempranas, la documentación del proceso de ventas es simple: que dije en el primer contacto, cuantos contactos necesite para conseguir una respuesta, que paso en la primera conversación, que objecciones surgieron, como las resolvi, y que hizo que el cliente tomara la decisión de comprar.
 
-**Ejercicio inmediato:** Para tu primer cliente o el más reciente, reconstruye el proceso exacto desde el primer contacto hasta el cierre: ¿cuantos touchpoints (contactos) necesitaste? ¿Que mensaje o argumento fue el que más resonó? Que objeción fue la más difícil de superar y cómo la resolviste? Ese mapa del proceso de venta exitoso es el primer esbozo de tu playbook de ventas, el documento que podras usar para entrenar al siguiente vendedor o para replicar el proceso sistemáticamente.
+**Ejercicio inmediato:** Para tu primer cliente o el más reciente, reconstruye el proceso exacto desde el primer contacto hasta el cierre: ¿cuantos touchpoints (contactos) necesitaste? ¿Que mensaje o argumento fue el que más resonó? ¿Que objeción fue la más difícil de superar y cómo la resolviste? Ese mapa del proceso de venta exitoso es el primer esbozo de tu playbook de ventas, el documento que podras usar para entrenar al siguiente vendedor o para replicar el proceso sistemáticamente.
 
 Saber como conseguiste el primer cliente es más valioso que haberlo conseguido. Porque lo primero es un activo que puedes usar veinticinco veces más. Lo segundo fue una vez.
 
@@ -159,7 +159,7 @@ Carlos ha llegado a entender que vender no es algo que le ocurre al negocio. Es 
 
 Brian Tracy propone que la habilidad de ventas, como cualquier habilidad, se desarrolla con la práctica deliberada: cada conversación de ventas es una oportunidad de aprender que funciona y que no, de ajustar el mensaje, y de mejorar la capacidad de conectar el producto con el problema del cliente.
 
-**Ejercicio inmediato:** Diseña tu habito de ventas semanal para los próximos noventa dias: ¿cuantas conversaciones con potenciales clientes tendras por semana? ¿Cuantas propuestas enviares? Cuantos seguimientos haras a las propuestas anteriores? Esos tres números, mantenidos de forma consistente durante noventa dias, producen un pipeline de ventas que hace las ventas predecibles en lugar de aleatorias.
+**Ejercicio inmediato:** Diseña tu habito de ventas semanal para los próximos noventa dias: ¿cuantas conversaciones con potenciales clientes tendras por semana? ¿Cuantas propuestas enviares? ¿Cuantos seguimientos haras a las propuestas anteriores? Esos tres números, mantenidos de forma consistente durante noventa dias, producen un pipeline de ventas que hace las ventas predecibles en lugar de aleatorias.
 
 El emprendedor que vende todos los dias aprende del mercado todos los dias. Y eso es una ventaja que el que no vende nunca puede tener.
 

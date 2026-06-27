@@ -73,7 +73,7 @@ El contacto regular, incluso de baja intensidad, funciona como el nutriente basi
 
 **El Principio de la Frecuencia sobre la Intensidad:** La investigación sobre mantenimiento de relaciones muestra que el contacto regular, aunque breve (un mensaje, una llamada corta), tiene más impacto en la percepción de cercania de una amistad a largo plazo que encuentros intensos pero muy esporadicos. La regularidad comunica que la relación sigue siendo prioritaria, incluso cuando el contenido específico de cada contacto es modesto.
 
-**Ejercicio inmediato:** Identifica una amistad valiosa que ha perdido frecuencia de contacto. Establece un ritmo mínimo de contacto (mensual, por ejemplo) y comprometete a iniciarlo proactivamente, incluso con algo tan simple cómo un mensaje breve preguntando como estan.
+**Ejercicio inmediato:** Identifica una amistad valiosa que ha perdido frecuencia de contacto. Establece un ritmo mínimo de contacto (mensual, por ejemplo) y comprométete a iniciarlo proactivamente, incluso con algo tan simple cómo un mensaje breve preguntando como estan.
 
 Una amistad alimentada con poco pero regular sobrevive mejor que una alimentada con mucho pero esporadico.
 

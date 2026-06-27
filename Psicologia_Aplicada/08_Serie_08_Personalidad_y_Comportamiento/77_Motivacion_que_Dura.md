@@ -41,7 +41,7 @@ Elena trabaja bien pero nunca se siente plena. La SDT tiene una explicación esp
 
 La investigación muestra que los entornos que satisfacen estas tres necesidades producen mayor motivación intrinseca, mayor rendimiento, y mayor bienestar. Los entornos que las frustran (trabajo altamente controlado, tareas sin retroalimentación, aislamiento social) producen motivación extrinseca o amotivación, con los costes correspondientes.
 
-**Ejercicio inmediato:** Para tu trabajo u ocupación principal, evalua las tres necesidades del 1 al 10: ¿cuanta autonomía tienes sobre como haces el trabajo? ¿Cuanta competencia sientes para los desafios que el trabajo plantea? Cuanta relación con personas o causas que te importan tiene el trabajo? Si hay alguna puntuación por debajo de 5, esa es la necesidad cuya satisfacción aumentaria más la motivación.
+**Ejercicio inmediato:** Para tu trabajo u ocupación principal, evalua las tres necesidades del 1 al 10: ¿cuanta autonomía tienes sobre como haces el trabajo? ¿Cuanta competencia sientes para los desafios que el trabajo plantea? ¿Cuanta relación con personas o causas que te importan tiene el trabajo? Si hay alguna puntuación por debajo de 5, esa es la necesidad cuya satisfacción aumentaria más la motivación.
 
 La motivación que te falta no siempre es fuerza de voluntad. A veces es autonomía, competencia, o relación.
 
@@ -55,7 +55,7 @@ Ruben ha tenido momentos en el trabajo donde el tiempo pasa sin sentirlo y el tr
 
 Las condiciones del flujo incluyen: el equilibrio entre el desafio de la tarea y la habilidad de quien la realiza (demasiado desafio produce ansiedad; muy poco produce aburrimiento; el equilibrio produce flujo), la claridad de los objetivos de la tarea, y la retroalimentación inmediata sobre el progreso. La investigación muestra que el flujo ocurre con mayor frecuencia en actividades que tienen estas tres condiciones.
 
-**Ejercicio inmediato:** Identifica las dos o tres actividades en tu vida donde has experimentado flujo (trabajo o tiempo libre). ¿Que caracteristicas tenían esas actividades? ¿Cual era el nivel de desafio en relación a tus capacidades? Que retroalimentación inmediata recibía tu desempeno? Disenar más actividades con esas caracteristicas produce más flujo y, por tanto, más motivación intrinseca.
+**Ejercicio inmediato:** Identifica las dos o tres actividades en tu vida donde has experimentado flujo (trabajo o tiempo libre). ¿Que caracteristicas tenían esas actividades? ¿Cual era el nivel de desafio en relación a tus capacidades? ¿Que retroalimentación inmediata recibía tu desempeno? Disenar más actividades con esas caracteristicas produce más flujo y, por tanto, más motivación intrinseca.
 
 El flujo no es el resultado de la motivación. Es la motivación en su forma más pura, y puede ser diseñado.
 

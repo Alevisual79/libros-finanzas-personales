@@ -41,7 +41,7 @@ Ruben usa la culpa como sistema de control de calidad moral: se siente culpable 
 
 Sin embargo, la culpa desadaptativa (sentir culpa intensa por cosas que no son culpa propia, por situaciones que no podían controlarse, o en intensidades que exceden enormemente el daño real) no tiene esta función adaptativa. Produce sufrimiento sin aprendizaje y sin mejora. Las fuentes más comunes de culpa desadaptativa incluyen: asumir responsabilidad por el sufrimiento de otros que no depende de ti, aplicar estandares de hoy a decisiones tomadas con la información de ayer, y sentir culpa por necesidades y emociones normales que se aprendió que eran inaceptables.
 
-**Ejercicio inmediato:** Para tu culpa más persistente, responde estas preguntas: ¿tenía control real sobre lo que ocurrio? ¿Tome la decisión con la información y los recursos que tenía en ese momento? El daño real es proporcional a la intensidad de la culpa que sigo sintiendo? Si las respuestas sugieren que la culpa excede lo que la situación objetivamente requiere, eso es culpa desadaptativa que merece ser tratada como tal, no como evidencia moral honesta.
+**Ejercicio inmediato:** Para tu culpa más persistente, responde estas preguntas: ¿tenía control real sobre lo que ocurrio? ¿Tome la decisión con la información y los recursos que tenía en ese momento? ¿El daño real es proporcional a la intensidad de la culpa que sigo sintiendo? Si las respuestas sugieren que la culpa excede lo que la situación objetivamente requiere, eso es culpa desadaptativa que merece ser tratada como tal, no como evidencia moral honesta.
 
 La culpa que excede el daño real no es honestidad moral. Es autocastigo.
 

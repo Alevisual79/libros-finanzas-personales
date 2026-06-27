@@ -31,7 +31,7 @@ Chapman identifico cinco formas principales en que las personas expresan y perci
 
 Chapman desarrollo el modelo a partir de su trabajo con cientos de parejas. Descubrio que la mayoría de los conflictos que presentaban como falta de amor eran en realidad conflictos de idioma: uno decía te quiero con palabras mientras el otro esperaba actos. Uno decía te quiero con regalos mientras el otro esperaba tiempo.
 
-**Ejercicio inmediato:** Piensa en la última semana. ¿Que hiciste para mostrar afecto a las personas que más te importan? Ahora preguntate: ¿eso es lo que yo necesito recibir, o lo que el otro necesita? La diferencia entre las dos respuestas es tu punto de partida.
+**Ejercicio inmediato:** Piensa en la última semana. ¿Que hiciste para mostrar afecto a las personas que más te importan? Ahora pregúntate: ¿eso es lo que yo necesito recibir, o lo que el otro necesita? La diferencia entre las dos respuestas es tu punto de partida.
 
 El amor que no se expresa en el idioma del otro llega como ruido de fondo. No como amor.
 

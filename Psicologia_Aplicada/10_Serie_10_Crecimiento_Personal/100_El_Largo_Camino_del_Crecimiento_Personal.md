@@ -83,7 +83,7 @@ Isabel piensa cada vez más en que querrá haber dejado cuando ya no este.
 
 La investigación de Dan McAdams sobre las narrativas generativas muestra que las personas con mayor orientación hacía la generatividad reportan mayor bienestar, mayor sentido de proposito, y mayor satisfacción vital en la mediana y la vejez. El cuidado por las generaciones futuras no es un sacrificio del bienestar presente: es frecuentemente uno de los mayores contribuidores a el.
 
-**Ejercicio inmediato:** Reflexiona sobre la pregunta del legado en sus tres formas: ¿que quiero haber contribuido a las personas que me son cercanas? ¿Que quiero haber contribuido a mi comunidad o profesión? Que quiero haber contribuido al mundo más amplio? No para establecer un estandar imposible sino para orientar la inversión del tiempo y la energía en la segunda mitad de la vida hacía lo que producira la satisfacción más profunda a largo plazo.
+**Ejercicio inmediato:** Reflexiona sobre la pregunta del legado en sus tres formas: ¿que quiero haber contribuido a las personas que me son cercanas? ¿Que quiero haber contribuido a mi comunidad o profesión? ¿Que quiero haber contribuido al mundo más amplio? No para establecer un estandar imposible sino para orientar la inversión del tiempo y la energía en la segunda mitad de la vida hacía lo que producira la satisfacción más profunda a largo plazo.
 
 Vivir para dejar algo que vale la pena no es sacrificio. Es la forma más profunda de beneficio propio.
 
@@ -111,7 +111,7 @@ Ruben ha evitado pensar en la muerte. La investigación sugiere que ese es un er
 
 Steve Jobs proponía que contemplar la propia muerte era la mejor herramienta para tomar las decisiones importantes: frente a la muerte, la mayor parte de las presiones externas (la opinión de los demás, el miedo al fracaso) pierden su fuerza, y lo que genuinamente importa se vuelve más visible. Investigaciones sobre el thinking about own death (TOD) confirman que la mortalidad saliente produce mayor orientación hacía los valores profundos y menor orientación hacía el estatus y la aprobación social.
 
-**Ejercicio inmediato:** práctica el ejercicio stoico de memento mori: durante cinco minutos, contempla que algún dia moriras y que ese dia podría ser más próximo de lo que esperas. Después reflexiona: ¿dado eso, que cambiaria en como uso el tiempo de esta semana? ¿Que conversaciones tendría que no he tenido? Que proyectos empezaria? Esa claridad que la contemplación de la muerte produce no esta disponible de la misma forma en ninguna otra práctica.
+**Ejercicio inmediato:** práctica el ejercicio stoico de memento mori: durante cinco minutos, contempla que algún dia moriras y que ese dia podría ser más próximo de lo que esperas. Después reflexiona: ¿dado eso, que cambiaria en como uso el tiempo de esta semana? ¿Que conversaciones tendría que no he tenido? ¿Que proyectos empezaria? Esa claridad que la contemplación de la muerte produce no esta disponible de la misma forma en ninguna otra práctica.
 
 La muerte que no piensas no deja de acercarse. Pero al pensarla, puedes decidir lo que importa antes de que ella decida.
 

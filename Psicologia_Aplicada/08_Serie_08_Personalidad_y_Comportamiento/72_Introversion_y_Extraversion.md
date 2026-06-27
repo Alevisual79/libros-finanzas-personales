@@ -111,7 +111,7 @@ Ruben tiene que hacer presentaciones en su trabajo y le producen un nivel de act
 
 La investigación sobre la ansiedad ante el habla pública muestra que la preparación y la exposición gradual son las estrategias más efectivas, y que los introvertidos que se han expuesto repetidamente desarrollan una respuesta más modulada que los que evitan la exposición (que amplifica la ansiedad a largo plazo).
 
-**Ejercicio inmediato:** Para la próxima presentación o situación de alta exposición social que tengas, diseña tu protocolo de preparación: ¿que necesitas dominar para sentirte suficientemente seguro? ¿Cuanto tiempo de preparación es suficiente para reducir la incertidumbre a un nivel manejable? Y que necesitas después para recuperarte? Ese protocolo convierte una situación de alta activación en algo manejable.
+**Ejercicio inmediato:** Para la próxima presentación o situación de alta exposición social que tengas, diseña tu protocolo de preparación: ¿que necesitas dominar para sentirte suficientemente seguro? ¿Cuanto tiempo de preparación es suficiente para reducir la incertidumbre a un nivel manejable? ¿Y que necesitas después para recuperarte? Ese protocolo convierte una situación de alta activación en algo manejable.
 
 El introvertido que se prepara bien no actua igual que el extravertido. Pero actua de forma que no le cuesta lo que le costaria sin preparación.
 

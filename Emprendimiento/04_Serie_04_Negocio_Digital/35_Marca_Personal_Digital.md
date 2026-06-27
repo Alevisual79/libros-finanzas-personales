@@ -69,7 +69,7 @@ Carlos ha desarrollado un ritmo de publicación de contenido que le ha posiciona
 
 La investigación de Nielsen sobre los factores que determinan la percepción de autoridad en el entorno digital muestra que la consistencia (publicar regularmente sobre el mismo tema) y la especificidad (ofrecer perspectiva concreta, no generica) son los dos factores más importantes de la percepción de autoridad.
 
-**Ejercicio inmediato:** Define tu estrategia de contenido de marca personal en tres elementos: el tema específico sobre el que vas a publicar (coherente con tu posicionamiento), la frecuencia sostenible (cuantas veces a la semana puedes publicar contenido de calidad sin agotarte), y el tipo de contenido que te resulta más natural crear (texto, video, audio, o imagen). Comprometete con esa estrategia durante seis meses antes de evaluar si necesita cambios. La consistencia durante seis meses produce más autoridad que la publicación intensa durante dos semanas.
+**Ejercicio inmediato:** Define tu estrategia de contenido de marca personal en tres elementos: el tema específico sobre el que vas a publicar (coherente con tu posicionamiento), la frecuencia sostenible (cuantas veces a la semana puedes publicar contenido de calidad sin agotarte), y el tipo de contenido que te resulta más natural crear (texto, video, audio, o imagen). Comprométete con esa estrategia durante seis meses antes de evaluar si necesita cambios. La consistencia durante seis meses produce más autoridad que la publicación intensa durante dos semanas.
 
 El post que compartes con tu perspectiva genuina sobre un problema de tu sector posiciona mejor que los diez posts genericos que reciclan lo que todos saben.
 
@@ -139,7 +139,7 @@ Marcos ha aprendido que la marca personal que no evoluciona se vuelve obsoleta.
 
 La investigación de LinkedIn sobre los patrones de evolución de la marca personal de los profesionales más exitosos muestra que los que tienen mayor crecimiento a diez años han actualizado deliberadamente su posicionamiento entre dos y cuatro veces, cada vez en respuesta a la evolución de sus capacidades y del mercado.
 
-**Ejercicio inmediato:** Revisa tu marca personal actual contra la visión de dónde quieres estar en tres años: ¿el posicionamiento actual te llevara a ese lugar o necesita ajustarse? ¿El tipo de contenido que públicas atrae al tipo de oportunidades que quieres en tres años? La audiencia que estas construyendo es la que te servira mejor en ese horizonte temporal? La respuesta a esas tres preguntas te indica si la marca personal actual esta bien orientada o si necesita una evolución deliberada.
+**Ejercicio inmediato:** Revisa tu marca personal actual contra la visión de dónde quieres estar en tres años: ¿el posicionamiento actual te llevara a ese lugar o necesita ajustarse? ¿El tipo de contenido que públicas atrae al tipo de oportunidades que quieres en tres años? ¿La audiencia que estas construyendo es la que te servira mejor en ese horizonte temporal? La respuesta a esas tres preguntas te indica si la marca personal actual esta bien orientada o si necesita una evolución deliberada.
 
 La marca personal que no revisas periodicamente puede estar llevandote hacía donde fuiste, no hacía donde quieres ir.
 

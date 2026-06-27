@@ -27,7 +27,7 @@ Los habitos no son decisiones repetidas. Son algo diferente y más automático.
 
 La investigación de Graybiel con ratas en laberintos muestra que cuando una secuencia de comportamiento se convierte en habito, los ganglios basales asumen el control del comportamiento y la actividad del cortex prefrontal disminuye. El cerebro cede el control al sistema de habito para liberar recursos cognitivos para otras tareas. Los habitos son, en ese sentido, eficiencias cognitivas que permiten operar en modo automático.
 
-**Ejercicio inmediato:** Identifica uno de tus habitos actuales (puede ser positivo o negativo). Descifra su ciclo: ¿cual es la señal específica que lo desencadena (hora del dia, lugar, estado emocional, precedencia de otro comportamiento)? ¿Cual es la rutina? Cual es la recompensa que produce? Entender el ciclo del habito existente es el primer paso para modificarlo o diseñar uno nuevo.
+**Ejercicio inmediato:** Identifica uno de tus habitos actuales (puede ser positivo o negativo). Descifra su ciclo: ¿cual es la señal específica que lo desencadena (hora del dia, lugar, estado emocional, precedencia de otro comportamiento)? ¿Cual es la rutina? ¿Cual es la recompensa que produce? Entender el ciclo del habito existente es el primer paso para modificarlo o diseñar uno nuevo.
 
 El habito que no comprendes te controla. El que comprendes puedes modificarlo.
 
@@ -153,7 +153,7 @@ Isabel ha llegado a entender algo fundamental: el cambio de comportamiento no se
 
 La implicación más importante es que el cambio de comportamiento no es un evento (decidir cambiar) sino un proceso que se extiende durante meses o años. Las personas que entienden esto tienen más tolerancia con las recaidas y más persistencia en el proceso.
 
-**Ejercicio inmediato:** Reflexiona sobre el cambio de comportamiento que más te importa en este momento. En que etapa del modelo de Prochaska estas? ¿Si estas en contemplación, que podría moverte a preparación? Si estas en acción, que sistema tienes para el mantenimiento a largo plazo? Ubicar la etapa en la que se esta produce una comprensión más realista de lo que se necesita en ese momento.
+**Ejercicio inmediato:** Reflexiona sobre el cambio de comportamiento que más te importa en este momento. En que etapa del modelo de Prochaska estas? ¿Si estas en contemplación, que podría moverte a preparación? ¿Si estas en acción, que sistema tienes para el mantenimiento a largo plazo? Ubicar la etapa en la que se esta produce una comprensión más realista de lo que se necesita en ese momento.
 
 El cambio de comportamiento que dura no es el que se decide un dia. Es el que se práctica todos los dias que siguen.
 

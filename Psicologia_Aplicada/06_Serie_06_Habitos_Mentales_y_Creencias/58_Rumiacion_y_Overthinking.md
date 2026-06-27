@@ -55,7 +55,7 @@ Ruben ha empezado a notar los patrones: la rumia se activa en momentos específi
 
 Conocer los detonadores de la rumia propia permite dos cosas: anticiparla (saber que después de X suelo empezar a rumiar) y preparar una estrategia de intervención antes de que el ciclo se establezca. La intervención es mucho más facil en los primeros treinta segundos que cuando el ciclo lleva veinte minutos.
 
-**Ejercicio inmediato:** Mapea los detonadores de tu rumia: ¿en que momentos del dia ocurre más frecuentemente? ¿En que contextos físicos? Después de que tipos de eventos? ¿Con que emociones? Ese mapa te permite anticipar los momentos de mayor riesgo y preparar la estrategia de antemano.
+**Ejercicio inmediato:** Mapea los detonadores de tu rumia: ¿en que momentos del dia ocurre más frecuentemente? ¿En que contextos físicos? ¿Después de que tipos de eventos? ¿Con que emociones? Ese mapa te permite anticipar los momentos de mayor riesgo y preparar la estrategia de antemano.
 
 La rumia que anticipas es la que puedes interrumpir. La que te sorprende ya tiene ventaja.
 
@@ -153,7 +153,7 @@ Elena ha llegado a un punto donde quiere no solo interrumpir los episodios de ru
 
 Los habitos que la investigación asocia con menor tendencia a la rumia incluyen: la práctica regular de mindfulness, el ejercicio físico regular (que reduce la rumiación de forma robusta), el sueño de calidad suficiente, la conexión social regular, y la práctica de actividades que producen flow (que ocupan la atención completamente durante períodos regulares).
 
-**Ejercicio inmediato:** Diseña un plan de habitos que apunta a construir una mente más quieta a largo plazo. Elige uno de los habitos mencionados, la versión más pequeña que puedas implementar de forma sostenida, y comprometete con el durante un mes antes de añadir otro. Los habitos que construyen la quietud mental se construyen lentamente pero sus efectos son estructurales.
+**Ejercicio inmediato:** Diseña un plan de habitos que apunta a construir una mente más quieta a largo plazo. Elige uno de los habitos mencionados, la versión más pequeña que puedas implementar de forma sostenida, y comprométete con el durante un mes antes de añadir otro. Los habitos que construyen la quietud mental se construyen lentamente pero sus efectos son estructurales.
 
 La mente que no para de dar vueltas no se calma de una vez. Se calma poco a poco, habito a habito, práctica a práctica. Y cada vez que la aquietas un poco, hay algo ahí debajo que merece la pena encontrar.
 

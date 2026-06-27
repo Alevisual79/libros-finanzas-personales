@@ -79,7 +79,7 @@ Los patrones relacionales son infinitamente variados en sus detalles pero conver
 
 Cada patron tiene una logica interna. El rescatador siente valor cuando ayuda. El invisible teme la carga que supone para los demás. El complaciente teme el rechazó. El distanciador teme la intimidad. El saboteador teme el éxito o no se cree merecededor de algo bueno.
 
-**Ejercicio inmediato:** De los cinco patrones, cual reconoces más en ti mismo? No tienes que elegir solo uno. Pueden coexistir varios. Ahora preguntate: ¿que necesidad satisface ese patron? La necesidad no es el problema. La forma de satisfacerla si puede serlo.
+**Ejercicio inmediato:** De los cinco patrones, cual reconoces más en ti mismo? No tienes que elegir solo uno. Pueden coexistir varios. Ahora pregúntate: ¿que necesidad satisface ese patron? La necesidad no es el problema. La forma de satisfacerla si puede serlo.
 
 Cada patron tiene un por qué. Entender el por qué es el primer paso para hacer algo diferente.
 
@@ -89,7 +89,7 @@ Cada patron tiene un por qué. Entender el por qué es el primer paso para hacer
 
 Cuando Elena empezó a ver su patron, el primer impulso fue el juicio: como he podido ser tan tonta. Cuantos años perdidos. Cuantas veces he repetido lo mismo. Ese juicio es comprensible y también es un obstaculo. Porque el juicio cierra. La curiosidad abre.
 
-**El Principio de la Observación sin Veredicto:** El objetivo de reconocer un patron no es culpabilizarse. Es comprender. Y la comprensión requiere curiosidad, no condena. ¿Que sentía cuando elegia ese tipo de persona? ¿Que necesidad creía que iba a satisfacerse? Que esperaba que pasara que no paso? Esas preguntas, hechas sin juicio, producen información. La información produce opciones. Las opciones producen cambio.
+**El Principio de la Observación sin Veredicto:** El objetivo de reconocer un patron no es culpabilizarse. Es comprender. Y la comprensión requiere curiosidad, no condena. ¿Que sentía cuando elegia ese tipo de persona? ¿Que necesidad creía que iba a satisfacerse? ¿Que esperaba que pasara que no paso? Esas preguntas, hechas sin juicio, producen información. La información produce opciones. Las opciones producen cambio.
 
 Las investigaciones sobre autocompasión de Kristin Neff muestran que las personas que son más amables consigo mismas cuando cometen errores aprenden más rápido y cambian con mayor eficacia que las que se auto-critican duramente. La autocritica intensa no mejora el rendimiento. Lo reduce.
 
@@ -107,7 +107,7 @@ El mayor obstaculo para cambiar un patron no es la ignorancia. Es el atractivo d
 
 Joseph LeDoux explica que el cerebro emocional etiqueta las experiencias familiares como seguras por defecto, independientemente de si producen bienestar o malestar. Cambiar esa etiqueta requiere exposición repetida a lo nuevo en condiciones de seguridad.
 
-**Ejercicio inmediato:** Piensa en una persona que te parecio poco interesante al principio por ser demasiado estable o demasiado disponible. Ahora preguntate: ¿era realmente poco interesante o simplemente no era el tipo de persona al que estas acostumbrado? La respuesta honesta a esa pregunta puede ser incómoda. Y muy útil.
+**Ejercicio inmediato:** Piensa en una persona que te parecio poco interesante al principio por ser demasiado estable o demasiado disponible. Ahora pregúntate: ¿era realmente poco interesante o simplemente no era el tipo de persona al que estas acostumbrado? La respuesta honesta a esa pregunta puede ser incómoda. Y muy útil.
 
 Lo que te resulta atractivo te dice donde esta tu patron. Lo que te aburre puede ser lo que te conviene.
 
@@ -135,7 +135,7 @@ El momento crítico no es antes del patron. Es durante. Cuando ya estas en la si
 
 Viktor Frankl lo llamó el último de los derechos humanos: la libertad de elegir la propia actitud ante cualquier estímulo. En la práctica relacional, ese derecho se ejerce en la pausa.
 
-**Ejercicio inmediato:** Esta semana, cuando notes que tu patron se esta activando, pon una mano en el pecho, respira lentamente tres veces y preguntate: ¿que quiero hacer aquí frente a que hago automáticamente? No tienes que hacer algo diferente todavia. Solo notar la diferencia.
+**Ejercicio inmediato:** Esta semana, cuando notes que tu patron se esta activando, pon una mano en el pecho, respira lentamente tres veces y pregúntate: ¿que quiero hacer aquí frente a que hago automáticamente? No tienes que hacer algo diferente todavia. Solo notar la diferencia.
 
 La pausa es el primer acto de libertad frente al patron.
 

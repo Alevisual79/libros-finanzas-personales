@@ -153,7 +153,7 @@ Marcos ha llegado a entender que el Lean Startup no es un proceso que se aplica 
 
 Amazon, quince años después de fundarla, sigue aplicando los principios del Lean Startup en cada nueva iniciativa: lanzar MVPs, medir los resultados, aprender del mercado, y escalar lo que funciona o matar lo que no. Esa cultura de experimentación continua es la que les ha permitido diversificar de forma exitosa en mercados radicalmente diferentes.
 
-**Ejercicio inmediato:** Diseña el sistema de experimentación continua de tu negocio para los próximos noventa dias: ¿que hipotesis sobre el cliente, el producto, y el modelo probaras? ¿Con que MVPs o experimentos? Que metricas usaras para evaluar los resultados? ¿Que proceso de decisión usaras para escalar lo que funciona y matar lo que no? Esas cuatro preguntas en noventa dias te dan la estructura de la cultura Lean que tu negocio necesita.
+**Ejercicio inmediato:** Diseña el sistema de experimentación continua de tu negocio para los próximos noventa dias: ¿que hipotesis sobre el cliente, el producto, y el modelo probaras? ¿Con que MVPs o experimentos? ¿Que metricas usaras para evaluar los resultados? ¿Que proceso de decisión usaras para escalar lo que funciona y matar lo que no? Esas cuatro preguntas en noventa dias te dan la estructura de la cultura Lean que tu negocio necesita.
 
 El negocio que sigue siendo un estudiante del mercado después de cinco años de operación tiene ventaja sobre el que cree que ya sabe todo lo que el mercado le puede ensenar.
 

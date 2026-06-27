@@ -43,7 +43,7 @@ Algunas personas no trabajan mucho por necesidad económica sino por una relaci�
 
 La pareja del workaholic vive una soledad particular: comparte la vida con alguien físicamente presente pero emocionalmente ausente, sin que haya una infidelidad o un conflicto explícito al que poder señalar.
 
-**Ejercicio inmediato:** Si reconoces el patron de workaholismo en ti o en tu pareja, preguntate: ¿que necesidad emocional esta cubriendo el trabajo que la relación no esta cubriendo? La respuesta a esa pregunta es más útil que cualquier discusión sobre las horas trabajadas.
+**Ejercicio inmediato:** Si reconoces el patron de workaholismo en ti o en tu pareja, pregúntate: ¿que necesidad emocional esta cubriendo el trabajo que la relación no esta cubriendo? La respuesta a esa pregunta es más útil que cualquier discusión sobre las horas trabajadas.
 
 El trabajo excesivo casi nunca es solo sobre el trabajo. Es sobre lo que el trabajo permite evitar.
 

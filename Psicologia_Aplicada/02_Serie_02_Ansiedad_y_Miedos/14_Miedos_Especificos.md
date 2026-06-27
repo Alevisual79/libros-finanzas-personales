@@ -153,7 +153,7 @@ Isabel, después de aprender sobre el protocolo OST, busco un terapeuta entrenad
 
 Ost, en su resumen de treinta años de investigación sobre tratamiento de fobias, concluye que el tratamiento exitoso de una fobia específica es uno de los cambios más rápidos y duraderos que puede producir una intervención psicológica: en la mayoría de los casos, una o pocas sesiones de exposición bien conducida producen cambios que persisten sin recaida significativa en seguimientos de cinco o diez años. Esta durabilidad distingue a la fobia específica de muchos otros trastornos psicológicos como uno de los más tractables.
 
-**Ejercicio inmediato:** Imagina tu vida sin la fobia que tienes actualmente. ¿Que harías que ahora no haces? ¿A donde irias? Que oportunidades aceptarias? Esa lista es la razón por la que vale la pena el trabajo de exposición. Guardala. Es el mapa del territorio que puedes recuperar.
+**Ejercicio inmediato:** Imagina tu vida sin la fobia que tienes actualmente. ¿Que harías que ahora no haces? ¿A donde irias? ¿Que oportunidades aceptarias? Esa lista es la razón por la que vale la pena el trabajo de exposición. Guardala. Es el mapa del territorio que puedes recuperar.
 
 La vida al otro lado del miedo existe. Solo tienes que cruzar el miedo para llegar a ella.
 

@@ -27,7 +27,7 @@ La frase el cuerpo lleva la cuenta (the body keeps the score) es el título del 
 
 Peter Levine, creador del Somatic Experiencing, propone que el trauma es fundamentalmente una respuesta fisiologica incompleta: la energía movilizada para responder a la amenaza (lucha o huida) que no pudo ser descargada a traves de la acción queda almacenada en el cuerpo como tensión, como patrones respiratorios, y como estados de activación o de inhibición cronicos. Esta energía no descargada es lo que produce los sintomas del trauma, y procesarla requiere trabajar con el cuerpo, no solo con la narrativa mental.
 
-**Ejercicio inmediato:** Realiza un escaner corporal breve: ¿con los ojos cerrados, recorre mentalmente tu cuerpo de la cabeza a los pies. ¿Donde hay tensión? ¿Donde hay calor o frio? Donde hay sensación de apretamiento o de expansión? ¿Donde el cuerpo esta vivo y donde parece apagado? Sin intentar cambiar nada, solo observando. Este escaner es el punto de partida del trabajo somatico.
+**Ejercicio inmediato:** Realiza un escaner corporal breve: ¿con los ojos cerrados, recorre mentalmente tu cuerpo de la cabeza a los pies. ¿Donde hay tensión? ¿Donde hay calor o frio? ¿Donde hay sensación de apretamiento o de expansión? ¿Donde el cuerpo esta vivo y donde parece apagado? Sin intentar cambiar nada, solo observando. Este escaner es el punto de partida del trabajo somatico.
 
 El cuerpo que llevas sabe más de lo que tu mente cree saber. Aprender a escucharlo es aprender a escuchar al trauma que todavia no has procesado.
 

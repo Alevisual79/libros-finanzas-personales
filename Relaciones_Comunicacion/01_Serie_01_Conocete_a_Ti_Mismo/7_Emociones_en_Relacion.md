@@ -63,7 +63,7 @@ Hay emociones que aparecen casi exclusivamente en el contexto de las relaciones:
 
 Jonathan Turner, sociologo de las emociones, clasifica las emociones sociales en cuatro familias: las que regulan la cohesión grupal (amor, orgullo, lealtad), las que regulan el rango y el estatus (vergüenza, culpa, envidia), las que regulan el intercambio (gratitud, obligación, resentimiento) y las que regulan la percepción de amenaza (miedo, ira, desconfianza).
 
-**Ejercicio inmediato:** Elige una emoción relacional que sientas frecuentemente y que te sea difícil gestionar: celos, culpa, vergüenza, resentimiento. Preguntate: ¿que me esta diciendo esta emoción sobre el estado de esta relación? ¿Que información contiene que estoy ignorando?
+**Ejercicio inmediato:** Elige una emoción relacional que sientas frecuentemente y que te sea difícil gestionar: celos, culpa, vergüenza, resentimiento. Pregúntate: ¿que me esta diciendo esta emoción sobre el estado de esta relación? ¿Que información contiene que estoy ignorando?
 
 Las emociones no son el problema. Son el mensajero. Matar al mensajero no resuelve el mensaje.
 
@@ -77,7 +77,7 @@ Hay personas que con solo entrar en una habitación te ponen de mal humor. Hay p
 
 Daniel Stern, psicoanalista suizo, describió los RIGs (Representaciones Generalizadas de las Interacciones), modelos internos de cómo se sienten ciertas interacciones, que se forman en la primera infancia y se reactivan en relaciones adultas similares. Cuando alguien te activa una emoción intensa sin razón aparente, probablemente esta activando un RIG antiguo.
 
-**Ejercicio inmediato:** Piensa en una persona que te activa emociones intensas de forma consistente. Quitando a esa persona del análisis, que sientes cuando estas cerca de ella? Ahora preguntate: ¿cuando fue la primera vez que senti algo similar? La respuesta apunta al RIG que se esta activando.
+**Ejercicio inmediato:** Piensa en una persona que te activa emociones intensas de forma consistente. Quitando a esa persona del análisis, que sientes cuando estas cerca de ella? Ahora pregúntate: ¿cuando fue la primera vez que senti algo similar? La respuesta apunta al RIG que se esta activando.
 
 Lo que sientes ante el otro te dice más sobre ti que sobre el otro.
 
@@ -119,7 +119,7 @@ Cuando una amiga de Elena consiguio el trabajo que ella quería, Elena sintio al
 
 Bertrand Russell escribió que la envidia es una de las causas más potentes de infelicidad. Pero también es uno de los indicadores más precisos de los propios valores y deseos insatisfechos. La envidia siempre apunta hacía algo que quieres pero que no estas persiguiendo o que crees que no mereces.
 
-**Ejercicio inmediato:** Piensa en alguien de tu entorno que te genere envidia. No el sentimiento de culpa. Solo observa: ¿que tiene esa persona que te genera la emoción? Eso que envidias es información directa sobre lo que tu quieres. Ahora preguntate: ¿que estoy haciendo para conseguirlo?
+**Ejercicio inmediato:** Piensa en alguien de tu entorno que te genere envidia. No el sentimiento de culpa. Solo observa: ¿que tiene esa persona que te genera la emoción? Eso que envidias es información directa sobre lo que tu quieres. Ahora pregúntate: ¿que estoy haciendo para conseguirlo?
 
 La envidia es información disfrazada de emoción incomoda.
 

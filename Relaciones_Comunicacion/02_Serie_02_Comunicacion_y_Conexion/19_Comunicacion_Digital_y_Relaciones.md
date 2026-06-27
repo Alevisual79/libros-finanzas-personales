@@ -115,7 +115,7 @@ Hay conversaciones que ocurren por texto aunque no deberían. Y hay conversacion
 
 Cuando una conversación con alta complejidad emocional tiene que ocurrir por texto por razones de distancia o circunstancia, hay prácticas que reducen el riesgo: ¿escribir con más cuidado del habitual, evitar la ironia y el sarcasmo que no se pueden leer en el texto, ser explícito sobre el tono que se quiere comunicar (te escribo esto con mucho carino), y confirmar que el mensaje llegó cómo se pretendia (como te ha llegado esto?).
 
-**Ejercicio inmediato:** Antes de enviar el próximo mensaje importante por texto, preguntate: ¿si esta persona respondiera lo que escribo con el tono más negativo posible, cómo se leeria? Si la respuesta es mal, considera si el canal es el adecuado o si necesitas reformular el mensaje de forma más explicitamente amable.
+**Ejercicio inmediato:** Antes de enviar el próximo mensaje importante por texto, pregúntate: ¿si esta persona respondiera lo que escribo con el tono más negativo posible, cómo se leeria? Si la respuesta es mal, considera si el canal es el adecuado o si necesitas reformular el mensaje de forma más explicitamente amable.
 
 El texto que podría leerse de la peor forma posible, probablemente se leera de la peor forma posible.
 

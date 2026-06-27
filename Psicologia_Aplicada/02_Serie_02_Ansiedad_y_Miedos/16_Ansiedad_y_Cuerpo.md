@@ -97,7 +97,7 @@ Isabel duerme mal hace dos años. Le cuesta dormirse porque los pensamientos ans
 
 Allison Harvey, investigadora del sueño de Berkeley, propone que muchos problemas cronicos de sueño se mantienen a traves de comportamientos de seguridad que paradojicamente interfieren con el sueño: irse a la cama más temprano para recuperar las horas perdidas (que aumenta el tiempo de vigilia en cama), dormitar durante el dia (que reduce la presión de sueño nocturna), revisar el reloj por la noche (que activa la preocupación por cuantas horas quedan). El tratamiento cognitivo-conductual del insomnio (CBT-I) aborda estos comportamientos con eficacia superior a la farmacoterapia a largo plazo.
 
-**Ejercicio inmediato:** Si tienes ansiedad nocturna que interfiere con el sueño, prueba la técnica de activación del sueño: levantate de la cama cuando llevas más de veinte minutos despierto sin poder dormir, ve a otro cuarto y realiza una actividad tranquila sin pantallas hasta sentir sueño, y regresa a la cama solo entonces. Esto rompe la asociación entre la cama y la vigilia ansiosa que mantiene el insomnio.
+**Ejercicio inmediato:** Si tienes ansiedad nocturna que interfiere con el sueño, prueba la técnica de activación del sueño: levántate de la cama cuando llevas más de veinte minutos despierto sin poder dormir, ve a otro cuarto y realiza una actividad tranquila sin pantallas hasta sentir sueño, y regresa a la cama solo entonces. Esto rompe la asociación entre la cama y la vigilia ansiosa que mantiene el insomnio.
 
 La cama no es un lugar donde resolves tus preocupaciones. Es un lugar donde duermes. Tu cerebro necesita aprender esa diferencia.
 

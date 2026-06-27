@@ -41,7 +41,7 @@ Isabel quiere conocer sus fortalezas de forma sistemática. El proyecto VIA ofre
 
 La investigación muestra que estas 24 fortalezas son universalmente reconocidas como virtudes en las principales culturas y tradiciones éticas del mundo, y que su uso activo se asocia con mayor bienestar, mayor resiliencia, y mayor satisfacción vital.
 
-**Ejercicio inmediato:** Completa el cuestionario VIA gratuito disponible en viacharacter.org (tarda aproximadamente quince minutos). Al revisar tus resultados, fijate especialmente en las cinco fortalezas principales (las que el cuestionario identifica como tus fortalezas caracteristicas): ¿son reconocibles para ti? ¿Se alinean con los momentos de mayor efectividad y energía que identificaste en el ejercicio anterior?
+**Ejercicio inmediato:** Completa el cuestionario VIA gratuito disponible en viacharacter.org (tarda aproximadamente quince minutos). Al revisar tus resultados, fíjate especialmente en las cinco fortalezas principales (las que el cuestionario identifica como tus fortalezas caracteristicas): ¿son reconocibles para ti? ¿Se alinean con los momentos de mayor efectividad y energía que identificaste en el ejercicio anterior?
 
 Las fortalezas que el cuestionario te confirma ya las conocías. Las que te sorprenden merecen exploración adicional.
 
@@ -97,7 +97,7 @@ Ruben ha aprendido que sus fortalezas, llevadas al extremo o usadas en el contex
 
 La investigación de Adam Grant muestra que los givers (personas con alta fortaleza de generosidad) son los que mejor y peor les va en las organizaciones: los que mejor les va aprenden a establecer límites que protegen sus recursos; los que peor les va usan la fortaleza sin restricción hasta el agotamiento.
 
-**Ejercicio inmediato:** Para tu fortaleza más caracteristica, reflexiona: ¿hay situaciones en tu vida donde el uso excesivo de esta fortaleza te ha causado problemas o ha producido costes para ti o para otros? ¿El exceso de persistencia que no te deja cambiar de rumbo cuando la evidencia lo pide? El exceso de amabilidad que no te deja decir no? Identificar el exceso de tus fortalezas es tan valioso como identificar las fortalezas en si.
+**Ejercicio inmediato:** Para tu fortaleza más caracteristica, reflexiona: ¿hay situaciones en tu vida donde el uso excesivo de esta fortaleza te ha causado problemas o ha producido costes para ti o para otros? ¿El exceso de persistencia que no te deja cambiar de rumbo cuando la evidencia lo pide? ¿El exceso de amabilidad que no te deja decir no? Identificar el exceso de tus fortalezas es tan valioso como identificar las fortalezas en si.
 
 La fortaleza sin conciencia de sus límites se convierte en su propio obstaculo.
 
@@ -139,7 +139,7 @@ Isabel quiere implementar un enfoque de fortalezas en su departamento.
 
 La práctica del liderazgo basado en fortalezas incluye: conversaciones regulares sobre lo que cada miembro del equipo hace mejor y con más energía, asignación de proyectos que alineen las tareas con las fortalezas individuales, y feedback que comienza identificando lo que funciona antes de abordar lo que puede mejorar.
 
-**Ejercicio inmediato:** Esta semana, ten una conversación con un miembro de tu equipo (o un colega cercano) cuyo proposito explícito sea explorar sus fortalezas: ¿que actividades te energizan más? ¿En que te sientes más en tu elemento? Cuando el trabajo parece fluir de forma natural? Esas preguntas son el punto de partida para un liderazgo que apalanca el talento existente en lugar de intentar corregir el deficit.
+**Ejercicio inmediato:** Esta semana, ten una conversación con un miembro de tu equipo (o un colega cercano) cuyo proposito explícito sea explorar sus fortalezas: ¿que actividades te energizan más? ¿En que te sientes más en tu elemento? ¿Cuando el trabajo parece fluir de forma natural? Esas preguntas son el punto de partida para un liderazgo que apalanca el talento existente en lugar de intentar corregir el deficit.
 
 El líder que sabe lo mejor de cada miembro de su equipo tiene el activo más valioso de todos: personas que quieren ser lo mejor que pueden ser.
 

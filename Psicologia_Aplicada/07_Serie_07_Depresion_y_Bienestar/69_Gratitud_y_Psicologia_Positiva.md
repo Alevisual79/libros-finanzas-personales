@@ -97,7 +97,7 @@ Elena tiende al pesimismo y lo justifica como realismo. La investigación sobre 
 
 La investigación de Shelley Taylor sobre el optimismo realista muestra que las ilusiones levemente positivas sobre las propias capacidades y el propio futuro (ilusiones que no son falsedades sino sesgos hacía lo positivo dentro de lo razonable) se asocian con mejor salud mental y física que la visión excesivamente realista de la realidad.
 
-**Ejercicio inmediato:** Para la situación más pesimista que tienes en este momento (donde pronosticas el peor resultado), práctica el análisis de estilo explicativo optimista: ¿es permanente (siempre será asi) o temporal (esta vez, en este momento)? ¿Es pervasivo (afecta a todo) o específico (solo a esta área)? Es personal (es por algo que soy o hago) o externo (hay factores fuera de mi control)? Reformula la situación con el estilo explicativo optimista, sin negar los hechos.
+**Ejercicio inmediato:** Para la situación más pesimista que tienes en este momento (donde pronosticas el peor resultado), práctica el análisis de estilo explicativo optimista: ¿es permanente (siempre será asi) o temporal (esta vez, en este momento)? ¿Es pervasivo (afecta a todo) o específico (solo a esta área)? ¿Es personal (es por algo que soy o hago) o externo (hay factores fuera de mi control)? Reformula la situación con el estilo explicativo optimista, sin negar los hechos.
 
 El optimismo que se puede argumentar es más duradero que el que simplemente se declara.
 
@@ -153,7 +153,7 @@ Elena quiere integrar la gratitud y las prácticas de psicología positiva en su
 
 El principio de la dosis efectiva mínima (la mínima práctica que produce el efecto deseado) es más relevante para las prácticas de bienestar que para cualquier otro dominio: cinco minutos de práctica consistente durante meses produce más efecto que treinta minutos de práctica que se abandona en tres semanas.
 
-**Ejercicio inmediato:** Elige una práctica de las que describes en este libro (gratitud específica, acto de bondad, uso de fortalezas, práctica de asombro, o meditación de compasión) y comprometete a practicarla una vez a la semana durante tres meses. Solo una. Después de tres meses, evalua si ha cambiado algo y entonces considera anadir una segunda. El bienestar que se construye lentamente es el que dura.
+**Ejercicio inmediato:** Elige una práctica de las que describes en este libro (gratitud específica, acto de bondad, uso de fortalezas, práctica de asombro, o meditación de compasión) y comprométete a practicarla una vez a la semana durante tres meses. Solo una. Después de tres meses, evalua si ha cambiado algo y entonces considera anadir una segunda. El bienestar que se construye lentamente es el que dura.
 
 El bienestar que buscas no esta en la práctica perfecta que nunca empiezas. Esta en la práctica imperfecta que mantienes.
 

@@ -97,7 +97,7 @@ Marcos ha aprendido que competir en precio bajo es una carrera que solo puede ga
 
 La investigación de Stiving and Winer sobre el efecto señal del precio muestra que en mercados donde la calidad es difícil de evaluar ex ante (antes de comprar), los consumidores usan el precio como indicador de calidad con mayor intensidad. Cuanto más difícil es evaluar la calidad del servicio antes de comprarlo, mayor es el efecto de señalización del precio.
 
-**Ejercicio inmediato:** Para tu negocio, evalua el efecto de señalización de tu precio actual: busca en Google tu tipo de servicio y compara tu precio con los de tus competidores. Si tu precio es significativamente inferior a la media del mercado, preguntate si esa diferencia esta justificada por una diferencia real en el valor que ofreces o si es el resultado del miedo o de la falta de confianza. Si la segunda respuesta es más honesta que la primera, tienes una oportunidad de subir precios sin perder clientes reales.
+**Ejercicio inmediato:** Para tu negocio, evalua el efecto de señalización de tu precio actual: busca en Google tu tipo de servicio y compara tu precio con los de tus competidores. Si tu precio es significativamente inferior a la media del mercado, pregúntate si esa diferencia esta justificada por una diferencia real en el valor que ofreces o si es el resultado del miedo o de la falta de confianza. Si la segunda respuesta es más honesta que la primera, tienes una oportunidad de subir precios sin perder clientes reales.
 
 El precio bajo que no viene de eficiencia operativa superior viene de miedo. Y el miedo es una mala estrategia de negocio.
 

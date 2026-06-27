@@ -70,7 +70,7 @@ El desayuno es la comida que más se improvisa mal.
 **Opciones de menos de 5 minutos:**
 - Yogur griego + fruta + granola baja en azúcar
 - Avena instantánea + mantequilla de almendras + plátano
-- Tostada integral + huevo revuelto (microondas: 90 segundos) + tomate
+- Tostada integral + huevo revuelto (microondas: 90 segundos) + tómate
 - Smoothie: yogur + fruta congelada + proteína en polvo + espinacas
 
 **La trampa del "no tengo tiempo para desayunar":**
@@ -96,7 +96,7 @@ Una nevera mal aprovechada genera comida basura de urgencia.
 - Conservas de pescado (sardinas, atún, salmón: proteína instantánea)
 - Frutos secos
 - Cereales integrales rápidos (avena, quinoa precocida)
-- Botes de tomate triturado
+- Botes de tómate triturado
 
 Con esta base, siempre hay algo nutritivo que comer aunque no se haya planeado.
 
@@ -150,7 +150,7 @@ El snack a media mañana o tarde es donde muchas personas caen en ultraprocesado
 **Snacks fáciles y nutritivos:**
 - Fruta + frutos secos
 - Yogur griego
-- Huevo cocido + tomate cherry
+- Huevo cocido + tómate cherry
 - Hummus + bastones de zanahoria o pepino
 - Queso + nueces
 - Edamame

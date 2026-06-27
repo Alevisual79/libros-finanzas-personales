@@ -97,7 +97,7 @@ Elena confunde el perdon con renunciar a la justicia.
 
 Esta distinción es importante para muchas victimas de abuso: el miedo a que el perdon implique renunciar a la justicia es una de las razones más comunes para resistirse al proceso.
 
-**Ejercicio inmediato:** Para una ofensa que te cuesta perdonar, identifica específicamente que te preocupa que implique el perdon: ¿renunciar a la justicia? ¿Declarar que lo que ocurrio estuvo bien? Arriesgarte a que vuelva a ocurrir? Cada una de esas preocupaciones tiene una respuesta. Identifica la tuya y examina si el perdon realmente implicaria lo que temes.
+**Ejercicio inmediato:** Para una ofensa que te cuesta perdonar, identifica específicamente que te preocupa que implique el perdon: ¿renunciar a la justicia? ¿Declarar que lo que ocurrio estuvo bien? ¿Arriesgarte a que vuelva a ocurrir? Cada una de esas preocupaciones tiene una respuesta. Identifica la tuya y examina si el perdon realmente implicaria lo que temes.
 
 Lo que temes que significa el perdon probablemente no es lo que significa. Pero sin claridad sobre esa distinción, el perdon seguirá pareciendo imposible.
 

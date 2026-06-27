@@ -97,7 +97,7 @@ Lucia ha aprendido que sin reflexión deliberada, la experiencia acumulada no se
 
 Séneca escribió en el siglo I que es necesario examinar los dias pasados para no repetir los errores y aprovechar mejor los aciertos. La práctica estoica del examen del dia (reflexionar sobre lo que se ha hecho bien, lo que se ha hecho mal, y lo que se podría mejorar) es una versión antigua de lo que la psicología moderna llama reflective practice.
 
-**Ejercicio inmediato:** Adopta un habito de reflexión diaria de cinco a diez minutos al final del dia laboral: ¿escribe las respuestas a tres preguntas. ¿Que ha ido bien hoy y por qué? ¿Que no ha ido como esperaba y que puedo aprender de ello? Que es la cosa más importante que hare diferente mañana? Esas tres preguntas en cinco minutos producen más aprendizaje por dia que cualquier otra inversión similar de tiempo.
+**Ejercicio inmediato:** Adopta un habito de reflexión diaria de cinco a diez minutos al final del dia laboral: ¿escribe las respuestas a tres preguntas. ¿Que ha ido bien hoy y por qué? ¿Que no ha ido como esperaba y que puedo aprender de ello? ¿Que es la cosa más importante que hare diferente mañana? Esas tres preguntas en cinco minutos producen más aprendizaje por dia que cualquier otra inversión similar de tiempo.
 
 Cinco minutos de reflexión al final de cada dia valen más que cien dias de experiencia sin reflexión.
 
@@ -139,7 +139,7 @@ Lucia ha aprendido que sus habitos de comunicación con su equipo determinan en 
 
 Los habitos de comunicación del líder que más impactan la cultura incluyen: el habito de dar feedback específico y rápido después de las situaciones que lo merecen (en lugar de guardar los comentarios para las evaluaciones anuales), el habito de compartir información del negocio con el equipo (en lugar de guardarsela para si mismo), y el habito de hacer preguntas antes de dar respuestas (que produce un equipo que piensa en lugar de que espera instrucciones).
 
-**Ejercicio inmediato:** Adopta el habito del one-on-one semanal con cada miembro clave de tu equipo: treinta minutos por persona, con la agenda principalmente definida por ellos. Las preguntas base: ¿como estas? ¿Que te esta bloqueando? Que podría yo hacer diferente para ayudarte mejor? Ese habito de treinta minutos por semana produce más información sobre el estado real del equipo que cualquier otro mecanismo de gestión.
+**Ejercicio inmediato:** Adopta el habito del one-on-one semanal con cada miembro clave de tu equipo: treinta minutos por persona, con la agenda principalmente definida por ellos. Las preguntas base: ¿como estas? ¿Que te esta bloqueando? ¿Que podría yo hacer diferente para ayudarte mejor? Ese habito de treinta minutos por semana produce más información sobre el estado real del equipo que cualquier otro mecanismo de gestión.
 
 El líder que habla con cada miembro de su equipo treinta minutos por semana sabe lo que pasa en su empresa. El que no lo hace se entera cuando ya es un problema.
 

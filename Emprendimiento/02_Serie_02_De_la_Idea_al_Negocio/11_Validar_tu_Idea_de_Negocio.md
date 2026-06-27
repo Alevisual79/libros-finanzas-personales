@@ -27,7 +27,7 @@ El orden importa. Y la mayoría lo hace al reves.
 
 La investigación de CB Insights sobre las causas del fracaso de startups muestra que la razón número uno (citada en el 42% de los casos) es la falta de necesidad de mercado: el producto fue construido pero no había suficientes personas con el problema que resolvía o dispuestas a pagar el precio necesario para que el negocio fuera viable.
 
-**Ejercicio inmediato:** Antes de cualquier otra acción sobre tu idea de negocio, reflexiona sobre estas tres preguntas: ¿el problema que resuelvo, es un problema que la gente experimenta regularmente (no ocasionalmente)? ¿La persona que lo experimenta, lo intenta resolver activamente (lo que indica que le importa lo suficiente para buscar solución)? Hay suficientes personas en esa situación para construir un negocio viable? Si la respuesta a cualquiera de las tres es no o no lo se, la validación es tu primera prioridad.
+**Ejercicio inmediato:** Antes de cualquier otra acción sobre tu idea de negocio, reflexiona sobre estas tres preguntas: ¿el problema que resuelvo, es un problema que la gente experimenta regularmente (no ocasionalmente)? ¿La persona que lo experimenta, lo intenta resolver activamente (lo que indica que le importa lo suficiente para buscar solución)? ¿Hay suficientes personas en esa situación para construir un negocio viable? Si la respuesta a cualquiera de las tres es no o no lo se, la validación es tu primera prioridad.
 
 La idea que no ha hablado con el mercado es solo una hipotesis. Y las hipotesis no pagan nóminas.
 
@@ -41,7 +41,7 @@ Lucia ha aprendido que las conversaciones con potenciales clientes son más vali
 
 La investigación de Steve Blank sobre el customer discovery muestra que los fundadores que realizan al menos veinte a treinta entrevistas de descubrimiento antes de construir el producto tienen una probabilidad significativamente mayor de encontrar el product-market fit que los que construyen basandose en sus propias suposiciones.
 
-**Ejercicio inmediato:** Esta semana, organiza cinco conversaciones de veinte a treinta minutos con personas que potencialmente podrían ser tu cliente objetivo. El objetivo no es presentar tu idea sino entender su vida y sus problemas. Las preguntas clave: ¿cuentame como gestionas actualmente X (el problema que tu idea resuelve). Con que frecuencia te ocurre? ¿Cuanto te cuesta (en tiempo, dinero, frustración)? Que has intentado para resolverlo hasta ahora? Lo que escuches en esas cinco conversaciones vale más que cualquier plan de negocio que puedas escribir.
+**Ejercicio inmediato:** Esta semana, organiza cinco conversaciones de veinte a treinta minutos con personas que potencialmente podrían ser tu cliente objetivo. El objetivo no es presentar tu idea sino entender su vida y sus problemas. Las preguntas clave: ¿cuentame como gestionas actualmente X (el problema que tu idea resuelve). Con que frecuencia te ocurre? ¿Cuanto te cuesta (en tiempo, dinero, frustración)? ¿Que has intentado para resolverlo hasta ahora? Lo que escuches en esas cinco conversaciones vale más que cualquier plan de negocio que puedas escribir.
 
 La conversación con el cliente que no quieres tener antes de construir es la que más necesitas.
 
@@ -97,7 +97,7 @@ Lucia ha aprendido que un buen producto para un mercado muy pequeño puede ser u
 
 La investigación de Marc Andreessen sobre los criterios de inversión en empresas de alto crecimiento muestra que el mercado es el factor más importante: un equipo mediocre con un gran mercado tiene más probabilidades de éxito que un equipo excelente con un mercado pequeño, porque el mercado grande perdona muchos errores mientras que el mercado pequeño no permite ninguno.
 
-**Ejercicio inmediato:** Calcula el tamaño de tu mercado en números específicos: ¿cuantas personas o empresas tienen el problema que resuelves (TAM)? ¿De esas, cuantas podrías servir con tu modelo de negocio actual (SAM)? De esas, cuantas podrías razonablemente capturar en los próximos tres años (SOM)? Si el SOM multiplicado por tu precio promedio produce un negocio demasiado pequeño para tus objetivos, considera si el mercado esta mal definido o si los objetivos necesitan ajustarse.
+**Ejercicio inmediato:** Calcula el tamaño de tu mercado en números específicos: ¿cuantas personas o empresas tienen el problema que resuelves (TAM)? ¿De esas, cuantas podrías servir con tu modelo de negocio actual (SAM)? ¿De esas, cuantas podrías razonablemente capturar en los próximos tres años (SOM)? Si el SOM multiplicado por tu precio promedio produce un negocio demasiado pequeño para tus objetivos, considera si el mercado esta mal definido o si los objetivos necesitan ajustarse.
 
 El mercado que es demasiado pequeño para tu ambición no se hace más grande por quererlo más.
 
@@ -125,7 +125,7 @@ Carlos ha aprendido a identificar los patrones de validación falsa que producen
 
 La investigación de Geoffrey Moore en Crossing the Chasm muestra que los early adopters que validan una idea de negocio frecuentemente tienen necesidades y tolerancias al producto imperfecto que el mercado masivo no comparte. Un producto que validan los early adopters todavia necesita superar el abismo para llegar al mercado principal.
 
-**Ejercicio inmediato:** Para cada señal de validación que tienes actualmente sobre tu idea, reflexiona: ¿esta validación viene de alguien que responderia de la misma forma si no me conociera? ¿La persona que me dio esta validación es representativa del cliente que pagara? Baso esta validación en sus palabras o en sus acciones? Las respuestas honestas a estas preguntas probablemente revelaran que algunas de las validaciones que tienes son más fragiles de lo que pensabas.
+**Ejercicio inmediato:** Para cada señal de validación que tienes actualmente sobre tu idea, reflexiona: ¿esta validación viene de alguien que responderia de la misma forma si no me conociera? ¿La persona que me dio esta validación es representativa del cliente que pagara? ¿Baso esta validación en sus palabras o en sus acciones? Las respuestas honestas a estas preguntas probablemente revelaran que algunas de las validaciones que tienes son más fragiles de lo que pensabas.
 
 La validación que buscas no es la que te sientes bien con ella. Es la que te duele si es negativa.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que la validación no termina con el lanzamiento. E
 
 Amazon tiene una cultura de experimentación permanente: cada nueva iniciativa (desde Amazon Prime hasta AWS) comienza cómo una hipotesis que se valida antes de la inversión total. Esa cultura de validación continua es lo que les ha permitido expandirse a mercados radicalmente diferentes con mayor probabilidad de éxito que la mayoría.
 
-**Ejercicio inmediato:** Diseña el sistema de validación continua de tu negocio: ¿que hipotesis estas probando actualmente sobre tu cliente, tu producto, y tu modelo de negocio? ¿Que metricas usas para saber si esas hipotesis son correctas? Con que frecuencia revisas esas metricas y ajustas las hipotesis? Un negocio que tiene respuestas claras a esas tres preguntas es un negocio que aprende más rápido que su competencia.
+**Ejercicio inmediato:** Diseña el sistema de validación continua de tu negocio: ¿que hipotesis estas probando actualmente sobre tu cliente, tu producto, y tu modelo de negocio? ¿Que metricas usas para saber si esas hipotesis son correctas? ¿Con que frecuencia revisas esas metricas y ajustas las hipotesis? Un negocio que tiene respuestas claras a esas tres preguntas es un negocio que aprende más rápido que su competencia.
 
 El negocio que valida continuamente no necesita tener siempre razón. Solo necesita corregir el rumbo antes de que el error sea demasiado caro.
 

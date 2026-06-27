@@ -27,7 +27,7 @@ El dinero externo no es gratis. Tiene un precio que no siempre se mide en porcen
 
 La investigación de Paul Gompers y Josh Lerner sobre el venture capital muestra que menos del 1% de las empresas que buscan financiación de venture capital la consiguen, y que el proceso de buscar esa financiación consume tiempo y energía del fundador que podría invertirse en el negocio. El coste de oportunidad del proceso de fundraising es significativo y debe incluirse en el cálculo.
 
-**Ejercicio inmediato:** Antes de iniciar ninguna busqueda de financiación externa, responde honestamente a estas tres preguntas: ¿necesito este capital para hacer crecer el negocio o lo quiero porque se siente como validación? ¿Tengo claro que control y decisiones estoy dispuesto a ceder a cambio del capital? Podría alcanzar el mismo objetivo con más tiempo y menos recursos en lugar de con capital externo? Las respuestas honestas a esas preguntas pueden ahorrarte meses de trabajo y energía que podrías dedicar al negocio.
+**Ejercicio inmediato:** Antes de iniciar ninguna busqueda de financiación externa, responde honestamente a estas tres preguntas: ¿necesito este capital para hacer crecer el negocio o lo quiero porque se siente como validación? ¿Tengo claro que control y decisiones estoy dispuesto a ceder a cambio del capital? ¿Podría alcanzar el mismo objetivo con más tiempo y menos recursos en lugar de con capital externo? Las respuestas honestas a esas preguntas pueden ahorrarte meses de trabajo y energía que podrías dedicar al negocio.
 
 El capital externo que no necesitas es más caro de lo que crees. Aunque no lo pagues en interés o en equity.
 
@@ -83,7 +83,7 @@ Carlos ha evaluado el crowdfunding como opción de financiación y ha aprendido 
 
 La investigación de Ethan Mollick sobre las caracteristicas de las campanas de crowdfunding exitosas muestra que las que mejor funcionan tienen comunidades preexistentes de seguidores entusiastas, videos de alta calidad que explican el producto de forma emocionalmente convincente, y objetivos de financiación realistas (el 80% de las campanas de Kickstarter que alcanzan su objetivo lo alcanzan en las primeras cuarenta y ocho horas gracias al impulso inicial de la red personal del creador).
 
-**Ejercicio inmediato:** Si el crowdfunding es una opción para tu negocio, evalua tres criterios antes de lanzar una campana: ¿tienes una comunidad preexistente (email list, seguidores en redes sociales, clientes anteriores) suficientemente grande para generar el impulso inicial? ¿Tu producto es lo suficientemente visual y narrativo para que un video de dos minutos lo explique convincentemente? El objetivo de financiación que necesitas es alcanzable con el 10-15% de tu comunidad actual? Si alguna respuesta es no, el crowdfunding tiene probabilidad baja de éxito.
+**Ejercicio inmediato:** Si el crowdfunding es una opción para tu negocio, evalua tres criterios antes de lanzar una campana: ¿tienes una comunidad preexistente (email list, seguidores en redes sociales, clientes anteriores) suficientemente grande para generar el impulso inicial? ¿Tu producto es lo suficientemente visual y narrativo para que un video de dos minutos lo explique convincentemente? ¿El objetivo de financiación que necesitas es alcanzable con el 10-15% de tu comunidad actual? Si alguna respuesta es no, el crowdfunding tiene probabilidad baja de éxito.
 
 El crowdfunding es una campana de marketing tanto cómo una herramienta de financiación. Y como toda campana de marketing, necesita audiencia para funcionar.
 

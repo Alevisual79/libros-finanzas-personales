@@ -39,7 +39,7 @@ Existe la creencia popular de que las relaciones a distancia rara vez sobreviven
 
 **El Principio del Mito de la Fragilidad:** Los estudios comparativos entre parejas a distancia y parejas de proximidad muestran niveles similares de satisfacción relacional cuando se controla por la calidad de la comunicación, lo que sugiere que la distancia en si misma no es el factor determinante de éxito o fracaso. Lo que si predice el éxito de una relación a distancia es la existencia de un plan claro de reunificación (una fecha o un criterio para terminar la distancia), la calidad de la comunicación, y el nivel de compromiso de ambas partes antes de empezar el período de distancia.
 
-**Ejercicio inmediato:** Si estas preocupado por la viabilidad de tu relación a distancia, evalua los tres factores que realmente predicen el éxito: ¿tienen un plan de reunificación claro? ¿La comunicación es de calidad? El compromiso de ambos es sólido? Estas preguntas son más útiles que la simple pregunta de si la distancia es demasiado difícil.
+**Ejercicio inmediato:** Si estas preocupado por la viabilidad de tu relación a distancia, evalua los tres factores que realmente predicen el éxito: ¿tienen un plan de reunificación claro? ¿La comunicación es de calidad? ¿El compromiso de ambos es sólido? Estas preguntas son más útiles que la simple pregunta de si la distancia es demasiado difícil.
 
 La distancia no es el enemigo de las relaciones. La falta de plan y de comunicación lo es.
 

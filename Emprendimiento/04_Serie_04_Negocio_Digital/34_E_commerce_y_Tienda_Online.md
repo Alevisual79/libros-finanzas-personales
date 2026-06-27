@@ -153,7 +153,7 @@ Marcos ha construido una tienda online que genera revenue de forma creciente y p
 
 La investigación de BigCommerce sobre las tiendas online más exitosas muestra que tienen en común la optimización continua: mejoran sistemáticamente cada componente del negocio basandose en datos, en lugar de hacerlo de forma ad hoc. Esa cultura de optimización continua es lo que produce crecimiento acumulativo.
 
-**Ejercicio inmediato:** Establece un ciclo mensual de optimización para tu tienda online con tres preguntas: ¿cual fue el mayor cuello de botella del embudo este mes (trafico, conversión, o retención)? ¿Que cambio específico hare para mejorarlo el próximo mes? Como medire el impacto de ese cambio? Un solo cambio bien ejecutado por mes, orientado al cuello de botella principal, produce una mejora acumulativa que transforma el negocio en dos o tres años.
+**Ejercicio inmediato:** Establece un ciclo mensual de optimización para tu tienda online con tres preguntas: ¿cual fue el mayor cuello de botella del embudo este mes (trafico, conversión, o retención)? ¿Que cambio específico hare para mejorarlo el próximo mes? ¿Como medire el impacto de ese cambio? Un solo cambio bien ejecutado por mes, orientado al cuello de botella principal, produce una mejora acumulativa que transforma el negocio en dos o tres años.
 
 El e-commerce que optimiza un componente por mes durante un año no tiene el mismo negocio que al principio. Tiene un negocio doce veces mejorado.
 

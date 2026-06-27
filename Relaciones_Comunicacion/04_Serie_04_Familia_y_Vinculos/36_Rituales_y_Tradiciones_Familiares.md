@@ -63,7 +63,7 @@ Las familias que no heredaron rituales sólidos de sus familias de origen, o que
 
 **El Principio de la Creación Intencional:** Crear un nuevo ritual familiar exitosamente requiere tres elementos: suficiente simplicidad para que sea sostenible en el tiempo, suficiente significado emocional para que se sienta como algo más que una tarea, y la repetición consistente necesaria para que se consolide como parte de la identidad familiar, lo cual generalmente toma varios meses de práctica antes de sentirse natural.
 
-**Ejercicio inmediato:** Diseña un nuevo ritual familiar simple que puedas empezar a practicar esta semana: algo pequeño, con significado claro, y sostenible en el tiempo. Comprometete a practicarlo consistentemente durante al menos dos meses antes de evaluar si se ha consolidado.
+**Ejercicio inmediato:** Diseña un nuevo ritual familiar simple que puedas empezar a practicar esta semana: algo pequeño, con significado claro, y sostenible en el tiempo. Comprométete a practicarlo consistentemente durante al menos dos meses antes de evaluar si se ha consolidado.
 
 Un ritual nuevo no se siente natural de inmediato. Se vuelve natural con repetición consistente.
 

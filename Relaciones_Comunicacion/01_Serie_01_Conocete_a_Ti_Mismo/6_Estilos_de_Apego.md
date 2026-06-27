@@ -49,7 +49,7 @@ Las personas con apego seguro no son personas sin problemas. Tienen conflictos, 
 
 Solo el 55% de la población adulta tiene un estilo de apego seguro. El resto, el 45%, tiene algun tipo de apego inseguro. Eso significa que la mayoría de las relaciones adultas son interacciones entre personas con estrategias de apego inseguro, lo que explica buena parte de los conflictos cronicos de pareja.
 
-**Ejercicio inmediato:** Describe como sería para ti la relación de pareja ideal en terminos de cercania y distancia emocional. ¿Cuanta presencia necesitas del otro? ¿Cuanta independencia? Cuanta comunicación? Esa descripción es tu visión del apego. Comparala con tu patron real para ver la brecha.
+**Ejercicio inmediato:** Describe como sería para ti la relación de pareja ideal en terminos de cercania y distancia emocional. ¿Cuanta presencia necesitas del otro? ¿Cuanta independencia? ¿Cuanta comunicación? Esa descripción es tu visión del apego. Comparala con tu patron real para ver la brecha.
 
 El apego seguro no es el fin de los problemas. Es la plataforma desde la que se resuelven.
 
@@ -63,7 +63,7 @@ Cada vez que la pareja de Ana tardaba en responder un mensaje, Ana sentía que a
 
 El problema en la vida adulta es que esa estrategia genera exactamente lo que más teme: el otro, ante la demanda constante de confirmación, tiende a alejarse. Y el alejamiento confirma el miedo al abandono. Un circulo vicioso perfecto.
 
-**Ejercicio inmediato:** Piensa en la última vez que sentiste ansiedad en una relación porque el otro no respondia o no estaba disponible. ¿Que pensamiento automático tuviste sobre lo que eso significaba? Ahora preguntate: ¿cual era la explicación alternativa más probable? Entrenar el pensamiento alternativo no elimina la ansiedad pero la reduce.
+**Ejercicio inmediato:** Piensa en la última vez que sentiste ansiedad en una relación porque el otro no respondia o no estaba disponible. ¿Que pensamiento automático tuviste sobre lo que eso significaba? Ahora pregúntate: ¿cual era la explicación alternativa más probable? Entrenar el pensamiento alternativo no elimina la ansiedad pero la reduce.
 
 El miedo al abandono no viene del presente. Viene del pasado que el presente activa.
 
@@ -147,7 +147,7 @@ La pregunta que más hacen las personas cuando aprenden sobre estilos de apego e
 
 Mario Mikulincer y Phillip Shaver han documentado que simplemente imaginar a una figura de apego seguro, aunque sea imaginaria, activa temporalmente los circuitos del apego seguro y mejora la regulación emocional. El apego seguro puede ser una práctica antes de ser un estado.
 
-**Ejercicio inmediato:** Identifica a alguien en tu vida que represente para ti la figura de apego más segura que hayas tenido o tengas. Puede ser una persona real o una figura imaginaria o histórica. Cuando te enfrentes a una situación de estres relacional, preguntate: ¿que haría esta persona? ¿Como me veria esta persona? Esa pregunta activa el sistema de apego seguro internamente.
+**Ejercicio inmediato:** Identifica a alguien en tu vida que represente para ti la figura de apego más segura que hayas tenido o tengas. Puede ser una persona real o una figura imaginaria o histórica. Cuando te enfrentes a una situación de estres relacional, pregúntate: ¿que haría esta persona? ¿Como me veria esta persona? Esa pregunta activa el sistema de apego seguro internamente.
 
 El apego seguro no se hereda. Se puede construir.
 
@@ -161,7 +161,7 @@ La historia de Maria es la que más esperanza da en este campo. Tenia un apego a
 
 Las relaciones con personas de apego seguro son particularmente potentes como agentes de cambio. La consistencia, la responsividad y la honestidad de una persona con apego seguro ofrece al otro una experiencia relacional correctora que va reescribiendo el modelo interno de relación.
 
-**Ejercicio inmediato:** Escribe una carta a la versión futura de ti mismo con apego más seguro. ¿Que tienes que hacer en los próximos doce meses para acercarte a esa versión? ¿Que relaciones necesitas cultivar? Que patrones necesitas interrumpir? La carta concreta convierte el deseo vago en un plan.
+**Ejercicio inmediato:** Escribe una carta a la versión futura de ti mismo con apego más seguro. ¿Que tienes que hacer en los próximos doce meses para acercarte a esa versión? ¿Que relaciones necesitas cultivar? ¿Que patrones necesitas interrumpir? La carta concreta convierte el deseo vago en un plan.
 
 El apego ganado es posible. No es rápido. No es facil. Es posible.
 

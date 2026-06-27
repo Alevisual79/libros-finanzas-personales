@@ -97,7 +97,7 @@ Ruben nota que en su grupo de amigos, aunque no hay líderes formales, siempre h
 
 La investigación de Keith Sawyer sobre la creatividad en grupos muestra que los grupos más creativos no son los dominados por el líder más brillante sino los que tienen una estructura de participación más igualitaria, donde multiples voces contribuyen. Los líderes que crean espacio para las voces menos dominantes producen mejores resultados colectivos.
 
-**Ejercicio inmediato:** En tu próximo grupo de trabajo o decisión, observa quien toma el liderazgo informal y por qué mecanismos. Es el que habla primero y con más seguridad? ¿Es el que propone soluciones concretas? Es el que tiene la mayor credibilidad percibida? Ese diagnostico te permite decidir si ese liderazgo es el más adecuado para el grupo o si hay voces más valiosas siendo silenciadas.
+**Ejercicio inmediato:** En tu próximo grupo de trabajo o decisión, observa quien toma el liderazgo informal y por qué mecanismos. Es el que habla primero y con más seguridad? ¿Es el que propone soluciones concretas? ¿Es el que tiene la mayor credibilidad percibida? Ese diagnostico te permite decidir si ese liderazgo es el más adecuado para el grupo o si hay voces más valiosas siendo silenciadas.
 
 El grupo que sigue al que más habla no siempre sigue al que mejor piensa. A veces son la misma persona. A veces no.
 
@@ -139,7 +139,7 @@ Elena lidera un equipo donde las personas no comparten sus ideas libremente. La 
 
 El Proyecto Aristóteles de Google, que analizó los factores que distinguen a los equipos de alto rendimiento, identifico la seguridad psicológica como el factor número uno que diferencia a los equipos más efectivos de los menos efectivos, por encima de la inteligencia individual de los miembros, la experiencia, o la compensación.
 
-**Ejercicio inmediato:** Para el equipo o grupo en el que tienes mayor influencia, evalua el nivel de seguridad psicológica: ¿las personas comparten errores abiertamente? ¿Hacen preguntas aunque puedan parecer basicas? Disienten de las opiniones del líder? Si la respuesta es no, identifica una acción que podrías tomar para incrementar la seguridad: admitir públicamente un error propio, celebrar una disidencia productiva, o responder a una pregunta con curiosidad en lugar de impaciencia.
+**Ejercicio inmediato:** Para el equipo o grupo en el que tienes mayor influencia, evalua el nivel de seguridad psicológica: ¿las personas comparten errores abiertamente? ¿Hacen preguntas aunque puedan parecer basicas? ¿Disienten de las opiniones del líder? Si la respuesta es no, identifica una acción que podrías tomar para incrementar la seguridad: admitir públicamente un error propio, celebrar una disidencia productiva, o responder a una pregunta con curiosidad en lugar de impaciencia.
 
 El equipo donde nadie se atreve a decir lo que piensa no toma mejores decisiones. Toma decisiones más rápidas con peor calidad.
 

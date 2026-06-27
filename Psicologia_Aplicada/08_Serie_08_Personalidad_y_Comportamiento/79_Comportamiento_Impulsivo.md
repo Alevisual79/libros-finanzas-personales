@@ -41,7 +41,7 @@ Ruben sabe racionalmente que debería esperar antes de enviar el email. Pero alg
 
 La amigdala, como detector de amenazas y recompensas, puede activar respuestas comportamentales antes de que la información llegue al cortex prefrontal (el seat del Sistema 2). La investigación de Joseph LeDoux muestra que existe una via corta de la amigdala (thalamo-amigdala) que produce respuestas automáticas de miedo o recompensa sin procesamiento cortical, y una via larga (thalamo-cortex-amigdala) que permite la evaluación deliberada.
 
-**Ejercicio inmediato:** La próxima vez que sientas el impulso de actuar de forma que podría ser problematica, práctica la interrupción física: levantate, sal de la habitación, o toma tres respiraciones lentas. Estas acciones activan el cortex prefrontal y ralentizan la via corta de la amigdala, dando al Sistema 2 tiempo para participar en la decisión.
+**Ejercicio inmediato:** La próxima vez que sientas el impulso de actuar de forma que podría ser problematica, práctica la interrupción física: levántate, sal de la habitación, o toma tres respiraciones lentas. Estas acciones activan el cortex prefrontal y ralentizan la via corta de la amigdala, dando al Sistema 2 tiempo para participar en la decisión.
 
 La impulsividad es el cerebro actuando antes de que la parte pensante llegue. Darle tiempo a que llegue es la primera estrategia.
 

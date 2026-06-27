@@ -27,7 +27,7 @@ El autoempleo y el negocio se parecen por fuera. Por dentro son completamente di
 
 La diferencia operativa es simple: en el autoempleo, la ausencia del propietario hace que el negocio pare. En el negocio, la ausencia del propietario puede o no ser visible. El objetivo del emprendedor que quiere construir un negocio real es diseñar un sistema que funcione independientemente de su presencia física diaria.
 
-**Ejercicio inmediato:** Haz el experimento mental de las dos semanas: ¿si te fueras de vacaciones completamente desconectado durante dos semanas (sin email, sin llamadas, sin decisiones), que pasaria en tu negocio? ¿Los clientes seguirian siendo atendidos? Los pedidos seguirian procesandose? ¿Los problemas seguirian resolviendose? Cada respuesta afirmativa indica un sistema que funciona sin ti. Cada respuesta negativa indica una dependencia del propietario que hay que eliminar para tener un negocio.
+**Ejercicio inmediato:** Haz el experimento mental de las dos semanas: ¿si te fueras de vacaciones completamente desconectado durante dos semanas (sin email, sin llamadas, sin decisiones), que pasaria en tu negocio? ¿Los clientes seguirian siendo atendidos? ¿Los pedidos seguirian procesandose? ¿Los problemas seguirian resolviendose? Cada respuesta afirmativa indica un sistema que funciona sin ti. Cada respuesta negativa indica una dependencia del propietario que hay que eliminar para tener un negocio.
 
 El negocio que necesita que estes presente para funcionar no es un negocio. Es tu trabajo.
 
@@ -153,7 +153,7 @@ Carlos ha llegado a entender que la transición del autoempleo al negocio no es 
 
 La investigación de Dan Sullivan sobre el crecimiento de emprendedores muestra que los que hacen la transición del autoempleo al negocio más exitosamente lo hacen de forma gradual: empiezan eliminando una dependencia del propietario cada trimestre, construyendo sistemas para sustituirla, y reinvirtiendo el tiempo liberado en las actividades de mayor valor estratégico.
 
-**Ejercicio inmediato:** Diseña tu hoja de ruta de transición a tres años: ¿que dependencias del propietario tienes actualmente y en que orden planeas eliminarlas? ¿Para cada una, que sistema, proceso, o persona sustituye tu presencia? Cuanto tiempo te liberara esa sustitución y en que actividades de mayor valor estratégico lo invertiras? La hoja de ruta no tiene que ser precisa: tiene que ser suficientemente clara para guiar las decisiones trimestrales del proceso de transición.
+**Ejercicio inmediato:** Diseña tu hoja de ruta de transición a tres años: ¿que dependencias del propietario tienes actualmente y en que orden planeas eliminarlas? ¿Para cada una, que sistema, proceso, o persona sustituye tu presencia? ¿Cuanto tiempo te liberara esa sustitución y en que actividades de mayor valor estratégico lo invertiras? La hoja de ruta no tiene que ser precisa: tiene que ser suficientemente clara para guiar las decisiones trimestrales del proceso de transición.
 
 El negocio que funciona sin ti no es el negocio del que estas ausente. Es el negocio que te ha dado libertad para estar donde más puedes contribuir.
 

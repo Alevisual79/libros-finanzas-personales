@@ -83,7 +83,7 @@ Lucia ha reencuadrado su relación con el fracaso después de un lanzamiento que
 
 La investigación de Carol Dweck muestra que el mismo evento objetivo (un fracaso en un lanzamiento, una propuesta rechazada, un cliente que cancela) produce consecuencias psicológicas completamente diferentes dependiendo de la interpretación: en el mindset fijo, el fracaso confirma una capacidad insuficiente; en el mindset de crecimiento, el fracaso informa sobre que ajustar. El reencuadre no es negar el fracaso sino cambiar la pregunta que se le hace: en lugar de que dice esto sobre quien soy, preguntar que dice esto sobre lo que necesito aprender o cambiar.
 
-**Ejercicio inmediato:** Para el fracaso o contratiempo más reciente en tu proyecto de negocio, práctica el análisis AAR (After Action Review) del ejercito: ¿que debia ocurrir? ¿Que ocurrio realmente? Por qué hubo diferencia? ¿Que haría diferente la próxima vez? Ese análisis sistemático transforma el fracaso de experiencia dañina para la identidad en información útil para el siguiente intento.
+**Ejercicio inmediato:** Para el fracaso o contratiempo más reciente en tu proyecto de negocio, práctica el análisis AAR (After Action Review) del ejercito: ¿que debia ocurrir? ¿Que ocurrio realmente? ¿Por qué hubo diferencia? ¿Que haría diferente la próxima vez? Ese análisis sistemático transforma el fracaso de experiencia dañina para la identidad en información útil para el siguiente intento.
 
 El fracaso que analizas es aprendizaje. El que evitas analizando solo es dolor.
 

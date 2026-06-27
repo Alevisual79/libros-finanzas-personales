@@ -119,7 +119,7 @@ Si tu mapa relacional actual es el retrato de lo que tienes, el mapa de relacion
 
 Los estudios sobre el desarrollo de amistades adultas de William Rawlins muestran que las amistades adultas son significativamente más difíciles de iniciar y mantener que las de la infancia y la adolescencia porque requieren iniciativa deliberada. No ocurren en el contexto de instituciones compartidas cómo la escuela. Tienen que elegirse y mantenerse activamente.
 
-**Ejercicio inmediato:** Dibuja el mapa relacional que quieres tener en cinco años. ¿Que nombres estan en el circulo intimo? ¿Hay nombres nuevos? Hay nombres que ya no estan? ¿Que tendría que cambiar en tu inversión relacional actual para que ese mapa se vuelva real?
+**Ejercicio inmediato:** Dibuja el mapa relacional que quieres tener en cinco años. ¿Que nombres estan en el circulo intimo? ¿Hay nombres nuevos? ¿Hay nombres que ya no estan? ¿Que tendría que cambiar en tu inversión relacional actual para que ese mapa se vuelva real?
 
 El mapa de relaciones que quieres en cinco años empieza a construirse hoy.
 
@@ -133,7 +133,7 @@ A veces las relaciones no terminan. Se quedan. Por costumbre, por culpa, por no 
 
 Robert Weiss estudio las terminaciones de relaciones de amistad y encontró que la mayoría de amistades no terminan con un conflicto explícito sino con un gradual alejamiento que ninguno de los dos aborda directamente. A veces eso es lo más honesto. Otras veces es una evitación que deja a ambos en una zona gris incomoda.
 
-**Ejercicio inmediato:** Identifica una relación en tu mapa que mantenes más por inercia o culpa que por elección real. No tienes que hacer nada todavia. Solo preguntate: ¿si pudiera diseñar mi vida relacional desde cero, incluiria esta relación? La respuesta honesta a esa pregunta es información importante.
+**Ejercicio inmediato:** Identifica una relación en tu mapa que mantenes más por inercia o culpa que por elección real. No tienes que hacer nada todavia. Solo pregúntate: ¿si pudiera diseñar mi vida relacional desde cero, incluiria esta relación? La respuesta honesta a esa pregunta es información importante.
 
 Dejar ir una relación que ya no tiene sentido no es crueldad. Es honestidad hacía ti mismo y hacía el otro.
 

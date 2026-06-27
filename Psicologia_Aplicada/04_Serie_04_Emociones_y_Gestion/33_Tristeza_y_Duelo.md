@@ -69,7 +69,7 @@ Ruben a veces no sabe si lo que siente es tristeza normal o depresión. Esta dis
 
 La depresión mayor, aunque frecuentemente incluye tristeza, tiene caracteristicas adicionales: anhedonia (incapacidad de sentir placer incluso en situaciones que normalmente lo producian), alteraciones del sueño y el apetito, fatiga significativa, dificultades cognitivas (concentración, memoria, decisión), sentimientos de inutilidad o culpa excesivos, y en casos severos, ideación suicida. La depresión produce un estrechamiento del mundo que la tristeza por duelo no produce necesariamente.
 
-**Ejercicio inmediato:** Si no estas seguro de si lo que experimentas es tristeza de duelo o depresión, responde estas preguntas: ¿hay momentos (aunque sean breves) de alivio o de emoción positiva? ¿La tristeza tiene una causa identificable? Puedes imaginar que en algun momento futuro te sentiras mejor? Si las tres respuestas son no, considera consultar con un profesional de salud mental. El límite entre duelo y depresión no siempre es claro y la evaluación profesional puede ser necesaria para hacer la distinción.
+**Ejercicio inmediato:** Si no estas seguro de si lo que experimentas es tristeza de duelo o depresión, responde estas preguntas: ¿hay momentos (aunque sean breves) de alivio o de emoción positiva? ¿La tristeza tiene una causa identificable? ¿Puedes imaginar que en algun momento futuro te sentiras mejor? Si las tres respuestas son no, considera consultar con un profesional de salud mental. El límite entre duelo y depresión no siempre es claro y la evaluación profesional puede ser necesaria para hacer la distinción.
 
 La tristeza que se lleva toda la luz y no deja entrar ninguna es una señal de que el proceso necesita apoyo profesional, no solo tiempo.
 

@@ -69,7 +69,7 @@ Ruben duerme mal habitualmente y lo acepta como parte de su vida. La investigaci
 
 Los estudios prospectivos de Eus Van Someren y colegas muestran que el insomnio cronico es uno de los predictores más robustos del primer episodio de depresión mayor en personas sin historia de trastorno mental. La relación es bidireccional: el insomnio aumenta el riesgo de depresión, y la depresión produce insomnio. Pero también significa que el tratamiento del insomnio (TCC-I) puede prevenir el desarrollo de la depresión en personas con insomnio cronico.
 
-**Ejercicio inmediato:** Evalua la calidad de tu sueño habitual: ¿cuantas horas duermes? ¿Te despiertas descansado? Tienes dificultades para quedarte dormido o te despiertas en medio de la noche? Si el insomnio es un problema habitual, tratarlo no es solo por el bienestar inmediato: es una inversión en la prevención de la depresión.
+**Ejercicio inmediato:** Evalua la calidad de tu sueño habitual: ¿cuantas horas duermes? ¿Te despiertas descansado? ¿Tienes dificultades para quedarte dormido o te despiertas en medio de la noche? Si el insomnio es un problema habitual, tratarlo no es solo por el bienestar inmediato: es una inversión en la prevención de la depresión.
 
 El sueño que le niegas a tu cerebro no es solo una noche de descanso. Es una dosis de la sustancia que más protege tu salud mental. Y es la unica que no puedes almacenar.
 

@@ -111,7 +111,7 @@ Marcos ha aprendido que clientes diferentes necesitan enfoques de venta diferent
 
 Cada estilo de comprador requiere un enfoque diferente en la conversación de ventas: el Director necesita brevedad y orientación a resultados; el Analista necesita datos, pruebas, y tiempo; el Relacionador necesita conexión personal y escucha activa; el Sociable necesita energía, posibilidades, y visión.
 
-**Ejercicio inmediato:** Para tu próximo cliente potencial, observa en los primeros cinco minutos de conversación que estilo de comprador es: ¿hace preguntas directas sobre resultados y precio (Director)? ¿Pide datos detallados y estudios (Analista)? Se interesa primero por quien eres y como trabajas (Relacionador)? ¿Se entusiasma con las posibilidades y el potencial (Sociable)? Adapta el resto de la conversación al estilo que observas: más datos si es Analista, más relación si es Relacionador, más resultados si es Director, más visión si es Sociable.
+**Ejercicio inmediato:** Para tu próximo cliente potencial, observa en los primeros cinco minutos de conversación que estilo de comprador es: ¿hace preguntas directas sobre resultados y precio (Director)? ¿Pide datos detallados y estudios (Analista)? ¿Se interesa primero por quien eres y como trabajas (Relacionador)? ¿Se entusiasma con las posibilidades y el potencial (Sociable)? Adapta el resto de la conversación al estilo que observas: más datos si es Analista, más relación si es Relacionador, más resultados si es Director, más visión si es Sociable.
 
 El vendedor que tiene un solo estilo gana a los clientes que encajan en ese estilo y pierde a todos los demás.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que vender es una habilidad que se aprende con prá
 
 Para el emprendedor que quiere mejorar en ventas, la práctica deliberada incluye: ¿analizar las conversaciones de ventas después de cada una (que funcionó, que no, que haría diferente), buscar feedback explícito de los clientes que no compraron (por qué no?), y desarrollar intencionalmente las habilidades específicas que más impactan en el resultado (escucha, manejo de objeciones, cierre).
 
-**Ejercicio inmediato:** Después de tu próxima conversación de ventas (independientemente del resultado), dedica diez minutos a reflexionar sobre tres preguntas: ¿que momento de la conversación tuvo el mayor impacto (positivo o negativo) en el resultado? ¿Que pregunta habría cambiado la dinámica de la conversación si la hubiera hecho? Que hare diferente en la próxima? Esa reflexión de diez minutos, repetida después de cada conversación de ventas, produce una mejora acumulativa que transforma al emprendedor reticente en un vendedor efectivo.
+**Ejercicio inmediato:** Después de tu próxima conversación de ventas (independientemente del resultado), dedica diez minutos a reflexionar sobre tres preguntas: ¿que momento de la conversación tuvo el mayor impacto (positivo o negativo) en el resultado? ¿Que pregunta habría cambiado la dinámica de la conversación si la hubiera hecho? ¿Que hare diferente en la próxima? Esa reflexión de diez minutos, repetida después de cada conversación de ventas, produce una mejora acumulativa que transforma al emprendedor reticente en un vendedor efectivo.
 
 El emprendedor que reflexiona sobre cada conversación de ventas aprende de todas ellas. El que no reflexiona comete los mismos errores indefinidamente.
 

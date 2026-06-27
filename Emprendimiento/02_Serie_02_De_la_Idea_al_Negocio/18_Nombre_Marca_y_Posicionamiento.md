@@ -55,7 +55,7 @@ Marcos ha aprendido que el nombre perfecto no existe pero hay criterios claros p
 
 La investigación de Simon Laham sobre como los nombres afectan las decisiones muestra que los nombres más faciles de pronunciar producen mayor confianza y mayor disposición a comprar, independientemente del contenido que el nombre comunique. La fluidez cognitiva (la facilidad de procesamiento de un nombre) es un activo real del nombre de marca.
 
-**Ejercicio inmediato:** Para tu nombre actual o los candidatos que estas evaluando, aplica cinco criterios: ¿se puede pronunciar facilmente en español (o en el idioma de tu mercado) sin ambiguedad? ¿Es posible buscarlo en Google sin confundirse con algo completamente diferente? Esta disponible como dominio web (aunque sea con una extensión diferente a .com)? ¿Cuando lo escuchas por primera vez, queda en la memoria? Produce alguna asociación positiva con lo que el negocio hace o el problema que resuelve? Los nombres que superan los cinco criterios son candidatos sólidos.
+**Ejercicio inmediato:** Para tu nombre actual o los candidatos que estas evaluando, aplica cinco criterios: ¿se puede pronunciar facilmente en español (o en el idioma de tu mercado) sin ambiguedad? ¿Es posible buscarlo en Google sin confundirse con algo completamente diferente? ¿Esta disponible como dominio web (aunque sea con una extensión diferente a .com)? ¿Cuando lo escuchas por primera vez, queda en la memoria? ¿Produce alguna asociación positiva con lo que el negocio hace o el problema que resuelve? Los nombres que superan los cinco criterios son candidatos sólidos.
 
 El nombre que describe exactamente lo que haces es descriptivo. El que se queda en la mente es una marca.
 
@@ -69,7 +69,7 @@ Carlos ha invertido demasiado en una identidad visual antes de tener claridad so
 
 La investigación de Mark Borden sobre los momentos de actualización de marca más exitosos muestra que las rebrandings más efectivas no son las que cambian el aspecto visual sino las que reflejan una evolución del posicionamiento: el aspecto visual nuevo comunica quienes somos ahora de forma que el anterior ya no podía hacer.
 
-**Ejercicio inmediato:** Para tu identidad visual actual o la que estas planificando, aplica el criterio del posicionamiento: ¿cada elemento visual (logo, colores, tipografia) comunica algo específico sobre el posicionamiento que has elegido? ¿El color que has elegido es coherente con las emociones y asociaciones que el posicionamiento quiere producir? El estilo (moderno vs. clasico, minimalista vs. rico en detalle, profesional vs. cercano) refleja la personalidad de marca que quieres proyectar? Si alguna respuesta es no o no lo he pensado, ahí esta el trabajo de identidad visual que tienes pendiente.
+**Ejercicio inmediato:** Para tu identidad visual actual o la que estas planificando, aplica el criterio del posicionamiento: ¿cada elemento visual (logo, colores, tipografia) comunica algo específico sobre el posicionamiento que has elegido? ¿El color que has elegido es coherente con las emociones y asociaciones que el posicionamiento quiere producir? ¿El estilo (moderno vs. clasico, minimalista vs. rico en detalle, profesional vs. cercano) refleja la personalidad de marca que quieres proyectar? Si alguna respuesta es no o no lo he pensado, ahí esta el trabajo de identidad visual que tienes pendiente.
 
 La identidad visual que no esta al servicio del posicionamiento es solo estetica. Bonita puede ser, útil raramente lo es.
 
@@ -111,7 +111,7 @@ Carlos ha aprendido que una marca fuerte no requiere presupuesto de publicidad. 
 
 La investigación sobre el growth de startups de Hiten Shah muestra que las marcas más fuertes en el ecosistema startup fueron construidas por fundadores que comunican con voz autentica y específica en el medio donde esta su audiencia (Twitter, LinkedIn, podcasts, newsletters) antes que por campanas de publicidad masiva.
 
-**Ejercicio inmediato:** Identifica el medio donde tu cliente objetivo pasa más tiempo buscando información sobre tu sector (puede ser LinkedIn, YouTube, un foro específico, una comunidad de Slack, un grupo de Facebook). Elige ese medio como el canal principal de construcción de marca y comprometete a publicar contenido consistente (de valor real para el cliente, no publicidad disfrazada) una o dos veces por semana durante los próximos seis meses. La consistencia en un solo medio produce más notoriedad que la presencia inconsistente en cinco.
+**Ejercicio inmediato:** Identifica el medio donde tu cliente objetivo pasa más tiempo buscando información sobre tu sector (puede ser LinkedIn, YouTube, un foro específico, una comunidad de Slack, un grupo de Facebook). Elige ese medio como el canal principal de construcción de marca y comprométete a publicar contenido consistente (de valor real para el cliente, no publicidad disfrazada) una o dos veces por semana durante los próximos seis meses. La consistencia en un solo medio produce más notoriedad que la presencia inconsistente en cinco.
 
 La marca que construyes siendo consistentemente útil para tu cliente en el lugar donde el te busca vale más que la que construyes gastando en publicidad.
 

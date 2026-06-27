@@ -97,7 +97,7 @@ Escuchar lo que se dice sin escuchar cómo se siente el otro es la mitad de la e
 
 ## Capítulo 6: Preguntas que abren vs preguntas que cierran
 
-Como va el fin de semana? ¿Bien. ¿Que hiciste? Pues fui al cine. Solo? Si. Esta bien. Esa conversación no lleva a ninguna parte porque las preguntas no abren nada. Y sin apertura no hay conexión.
+Como va el fin de semana? ¿Bien. ¿Que hiciste? ¿Pues fui al cine. Solo? Si. Esta bien. Esa conversación no lleva a ninguna parte porque las preguntas no abren nada. Y sin apertura no hay conexión.
 
 **El Principio de la Pregunta como Invitación:** Las preguntas cerradas son eficientes para obtener datos. Las preguntas abiertas son eficientes para construir conexión. ¿Que te parecio la pelicula es mejor que te gusto? ¿Que fue lo más sorprendente del fin de semana es mejor que como fue el fin de semana? Las preguntas abiertas invitan al otro a pensar y a compartir en lugar de solo confirmar.
 

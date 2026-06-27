@@ -97,7 +97,7 @@ Carlos ha aprendido que el tiempo bien gestionado pero con baja energía produce
 
 La investigación de Matthew Walker sobre el sueño muestra que la privación de sueño tiene un impacto en el rendimiento cognitivo equivalente a la intoxicación alcoholica, y que las personas con sueño insuficiente subestiman sistemáticamente ese impacto porque la privación de sueño también degrada la capacidad de percibir el proprio deterioro.
 
-**Ejercicio inmediato:** Durante la próxima semana, registra tu nivel de energía (del 1 al 10) cada dos horas desde que te despiertas hasta que te acuestas. Al final de la semana, identifica los patrones: ¿a que horas del dia tienes energía más alta? ¿A que horas cae? Que actividades o situaciones aumentan tu energía y cuales la reducen? Alinea las tareas de mayor exigencia cognitiva con tus picos de energía y las rutinarias con tus valles.
+**Ejercicio inmediato:** Durante la próxima semana, registra tu nivel de energía (del 1 al 10) cada dos horas desde que te despiertas hasta que te acuestas. Al final de la semana, identifica los patrones: ¿a que horas del dia tienes energía más alta? ¿A que horas cae? ¿Que actividades o situaciones aumentan tu energía y cuales la reducen? Alinea las tareas de mayor exigencia cognitiva con tus picos de energía y las rutinarias con tus valles.
 
 La hora que trabajas con alta energía vale lo mismo en tiempo que la que trabajas con baja energía. No valen lo mismo en resultado.
 
@@ -139,7 +139,7 @@ Carlos ha aprendido que el sprint productivo de los primeros meses de emprendimi
 
 La investigación de Anders Ericsson sobre la práctica deliberada muestra que la calidad del trabajo cognitivo profundo disminuye significativamente después de cuatro horas de esfuerzo sostenido. Más allá de ese punto, el trabajo adicional produce output de menor calidad que requiere más revisión y corrección posterior, negando el tiempo ganado.
 
-**Ejercicio inmediato:** Diseña tu semana de trabajo ideal con el ritmo que podrías mantener durante cinco años sin quemarte: ¿que horas y que dias son para el trabajo profundo de mayor valor? ¿Que horas son para el trabajo operativo de menor intensidad cognitiva? Que tiempo es para la recuperación (física, mental, emocional) que hace posible el rendimiento sostenido? Compara esa semana ideal con tu semana real y reflexiona sobre la brecha.
+**Ejercicio inmediato:** Diseña tu semana de trabajo ideal con el ritmo que podrías mantener durante cinco años sin quemarte: ¿que horas y que dias son para el trabajo profundo de mayor valor? ¿Que horas son para el trabajo operativo de menor intensidad cognitiva? ¿Que tiempo es para la recuperación (física, mental, emocional) que hace posible el rendimiento sostenido? Compara esa semana ideal con tu semana real y reflexiona sobre la brecha.
 
 El emprendedor que trabaja de forma sostenible diez años produce más que el que trabaja al máximo dos y luego se quema. Y disfruta mucho más del proceso.
 

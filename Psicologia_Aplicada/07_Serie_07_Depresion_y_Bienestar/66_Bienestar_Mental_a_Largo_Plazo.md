@@ -27,7 +27,7 @@ El mayor estudio longitudinal sobre el bienestar humano tiene setenta y cinco a�
 
 La conclusión central: la calidad de las relaciones personales es el predictor más robusto del bienestar en la vejez, más que el estatus económico, el nivel educativo, o la inteligencia. Las personas con relaciones más calidas y de mayor calidad a los cincuenta años eran las más sanas y más felices a los ochenta. Y la soledad tiene efectos en la salud física y mental comparables a fumar o al sedentarismo.
 
-**Ejercicio inmediato:** Reflexiona sobre la calidad (no la cantidad) de tus relaciones más cercanas: ¿hay reciprocidad? ¿Puedes ser honesto sobre como ests? Te sientes conocido por esas personas? Las relaciones superficiales numerosas no producen el efecto protector que las relaciones genuinas pocas si producen.
+**Ejercicio inmediato:** Reflexiona sobre la calidad (no la cantidad) de tus relaciones más cercanas: ¿hay reciprocidad? ¿Puedes ser honesto sobre como ests? ¿Te sientes conocido por esas personas? Las relaciones superficiales numerosas no producen el efecto protector que las relaciones genuinas pocas si producen.
 
 Las relaciones que construyes a los treinta y cuarenta son la infraestructura de tu bienestar a los setenta. Cuida esa infraestructura ahora.
 
@@ -41,7 +41,7 @@ Ruben quiere entender el bienestar de forma sistemica, no solo como ausencia de 
 
 Seligman propone que cada uno de estos componentes es un fin en si mismo (no un medio para algo más), que contribuye al bienestar de forma independiente, y que puede medirse de forma separada. La investigación de Felicia Huppert y Timothy So sobre el florecimiento en dieciseis paises europeos muestra que solo el 17,5% de la población califica como floreciente cuando se evaluan criterios positivos de bienestar, no solo la ausencia de patologia.
 
-**Ejercicio inmediato:** Evalua tu nivel actual en cada componente del PERMA en una escala del 1 al 10: ¿cuantas emociones positivas experimentas regularmente? ¿Cuanto engagement profundo tienes en actividades? Cuanta calidad en tus relaciones? ¿Cuanto sentido de proposito? Cuantas experiencias de logró y competencia? El componente más bajo es donde la inversión en bienestar tiene mayor retorno.
+**Ejercicio inmediato:** Evalua tu nivel actual en cada componente del PERMA en una escala del 1 al 10: ¿cuantas emociones positivas experimentas regularmente? ¿Cuanto engagement profundo tienes en actividades? ¿Cuanta calidad en tus relaciones? ¿Cuanto sentido de proposito? ¿Cuantas experiencias de logró y competencia? El componente más bajo es donde la inversión en bienestar tiene mayor retorno.
 
 El bienestar no es la ausencia de sufrimiento. Es la presencia activa de los elementos que hacen que la vida valga la pena.
 
@@ -83,7 +83,7 @@ Elena tiene una vida que en muchos aspectos funciona bien pero que a veces parec
 
 El estudio de Patricia Boyle y colegas con adultos mayores muestra que tener un proposito de vida se asocia con un 57% menos de probabilidad de desarrollar alzhéimer y con mayor longevidad. El mecanismo propuesto incluye mayor motivación para los comportamientos de salud, mayor resiliencia ante los estresores, y posiblemente efectos directos sobre la neurobiologia del envejecimiento.
 
-**Ejercicio inmediato:** Reflexiona sobre estas preguntas: ¿que te importa profundamente? ¿Para qué quieres que sirva tu vida? Que quieres que digan sobre ti las personas que más te conocen cuando ya no estes? Las respuestas a esas preguntas son los vectores del proposito. No tienen que ser grandiosas: un buen padre, una persona honesta, o alguien que hizo mejor la vida de los que le rodearon son propositos tan validos como cambiar el mundo.
+**Ejercicio inmediato:** Reflexiona sobre estas preguntas: ¿que te importa profundamente? ¿Para qué quieres que sirva tu vida? ¿Que quieres que digan sobre ti las personas que más te conocen cuando ya no estes? Las respuestas a esas preguntas son los vectores del proposito. No tienen que ser grandiosas: un buen padre, una persona honesta, o alguien que hizo mejor la vida de los que le rodearon son propositos tan validos como cambiar el mundo.
 
 El proposito no se descubre. Se construye, decisión a decisión, a lo largo de la vida. Y se empieza a construir en cualquier momento.
 

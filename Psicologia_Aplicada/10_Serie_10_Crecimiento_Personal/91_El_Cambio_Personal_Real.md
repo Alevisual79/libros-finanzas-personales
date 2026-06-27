@@ -27,7 +27,7 @@ El problema no es que no quieras cambiar. Es que tienes razones inconscientes pa
 
 El proceso de identificar la inmunidad incluye: articular el compromiso de mejora (quiero hacer más ejercicio), identificar los comportamientos contrarios al compromiso (no hago ejercicio), identificar los compromisos ocultos que el no-cambio sirve (si hago ejercicio y fracaso públicamente, confirmara que no tengo disciplina), e identificar los grandes supuestos que sostienen esos compromisos ocultos (creo que si la gente me ve fallar, perdo su respeto).
 
-**Ejercicio inmediato:** Para un cambio que llevas tiempo queriendo hacer y no consigues, aplica el mapa de la inmunidad: ¿que comportamiento contrario al cambio sigues teniendo? ¿Que conseguirias (en terminos de seguridad, aprobación, o identidad) si no cambias? Que grande supuesto sostiene esa protección? La respuesta honesta a esas preguntas frecuentemente revela por qué el cambio que quieres no ha ocurrido todavia.
+**Ejercicio inmediato:** Para un cambio que llevas tiempo queriendo hacer y no consigues, aplica el mapa de la inmunidad: ¿que comportamiento contrario al cambio sigues teniendo? ¿Que conseguirias (en terminos de seguridad, aprobación, o identidad) si no cambias? ¿Que grande supuesto sostiene esa protección? La respuesta honesta a esas preguntas frecuentemente revela por qué el cambio que quieres no ha ocurrido todavia.
 
 El cambio que no ocurre después de varios intentos no es un problema de motivación. Es un problema de lo que el cambio amenaza.
 
@@ -41,7 +41,7 @@ Ruben ha intentado cambiar sus habitos de trabajo antes de estar realmente listo
 
 El error más común en el cambio personal es saltar de la contemplación a la acción sin pasar suficiente tiempo en la preparación: implementar comportamientos antes de haber identificado los obstaculos específicos, diseñado el entorno de soporte, y desarrollado los planes de contingencia para cuando el comportamiento falle (que inevitablemente fallara).
 
-**Ejercicio inmediato:** Para tu cambio pendiente, identifica en que etapa del modelo de Prochaska estas realmente (no donde quisieras estar): ¿estas todavia en contemplación (piensas en cambiar pero no has tomado acciones concretas)? ¿Estas en preparación (has hecho planes pero no has actuado)? Estas en acción (llevas menos de seis meses con el nuevo comportamiento)? Cada etapa requiere estrategias diferentes para progresar a la siguiente.
+**Ejercicio inmediato:** Para tu cambio pendiente, identifica en que etapa del modelo de Prochaska estas realmente (no donde quisieras estar): ¿estas todavia en contemplación (piensas en cambiar pero no has tomado acciones concretas)? ¿Estas en preparación (has hecho planes pero no has actuado)? ¿Estas en acción (llevas menos de seis meses con el nuevo comportamiento)? Cada etapa requiere estrategias diferentes para progresar a la siguiente.
 
 El cambio que empiezas en la etapa equivocada fracasa por las razones equivocadas. Conocer tu etapa real es el primer paso.
 
@@ -139,7 +139,7 @@ Elena ha esperado cambios rápidos y ha abandonado cuando no llegaban. La invest
 
 La investigación de Michael Mahoney sobre el cambio en psicoterapia muestra que los cambios que más duran son los que más tiempo han tardado en formarse, porque reflejan un proceso de asimilación profunda de nuevas formas de ver y de actuar que no puede acelerarse artificialmente.
 
-**Ejercicio inmediato:** Para el cambio que quieres realizar, preguntate: ¿cuanto tiempo creo que debería tardar este cambio? Luego multiplica esa estimación por tres o cuatro para tener una estimación más realista. La mayoría de los fracasos en el cambio no son fracasos del proceso sino fracasos de las expectativas de tiempo: las personas abandonan un proceso que funcionaria si le dieran más tiempo.
+**Ejercicio inmediato:** Para el cambio que quieres realizar, pregúntate: ¿cuanto tiempo creo que debería tardar este cambio? Luego multiplica esa estimación por tres o cuatro para tener una estimación más realista. La mayoría de los fracasos en el cambio no son fracasos del proceso sino fracasos de las expectativas de tiempo: las personas abandonan un proceso que funcionaria si le dieran más tiempo.
 
 El cambio que abandonas porque tarda demasiado era frecuentemente el que estaba a punto de llegar.
 
@@ -153,7 +153,7 @@ Isabel ha llegado a entender que el cambio no es un proyecto con un principio y 
 
 La investigación de William Miller y Stephen Rollnick sobre la entrevista motivacional muestra que la ambivalencia (querer y no querer cambiar al mismo tiempo) es una condición normal y esperada en cualquier proceso de cambio, no un obstaculo que hay que superar antes de empezar sino un material con el que trabajar durante el proceso.
 
-**Ejercicio inmediato:** En lugar de preguntarte como voy a cambiar X, práctica la pregunta: ¿que he aprendido de mis intentos anteriores de cambiar X? ¿Que ha funcionado parcialmente? Que obstaculos específicos han aparecido cada vez? ¿Que recursos no he usado todavia? Ese análisis retrospectivo honesto es el punto de partida más valioso para el próximo intento, que será diferente de los anteriores precisamente porque sabes más.
+**Ejercicio inmediato:** En lugar de preguntarte como voy a cambiar X, práctica la pregunta: ¿que he aprendido de mis intentos anteriores de cambiar X? ¿Que ha funcionado parcialmente? ¿Que obstaculos específicos han aparecido cada vez? ¿Que recursos no he usado todavia? Ese análisis retrospectivo honesto es el punto de partida más valioso para el próximo intento, que será diferente de los anteriores precisamente porque sabes más.
 
 El cambio que llega finalmente siempre viene precedido de todos los intentos fallidos que te enseñaron como.
 

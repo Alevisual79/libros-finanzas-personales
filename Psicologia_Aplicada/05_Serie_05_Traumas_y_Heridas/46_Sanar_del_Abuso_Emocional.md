@@ -27,7 +27,7 @@ El abuso emocional es frecuentemente el tipo de abuso que menos se reconoce como
 
 Las formas del abuso emocional incluyen: la crítica sistemática y la humillación, la invalidación de la experiencia y las emociones, el control del comportamiento y del entorno, el aislamiento de redes de apoyo, el gaslighting (manipular a alguien para qué dude de su propia percepción de la realidad), las amenazas, el silencio prolongado como castigo, y la alternancia impredecible entre afecto y rechazó.
 
-**Ejercicio inmediato:** Reflexiona sobre una relación pasada o actual y responde: ¿te sentias frecuentemente confundida sobre si tu percepción de los eventos era correcta? ¿Te disculpabas regularmente sin saber exactamente por qué? Caminabas sobre cascaras de huevo monitorizando el estado de humor del otro? ¿Tu sentido de quien eres se fue erosionando durante la relación? Si respondiste si a varias de estas preguntas, la relación puede haber incluido elementos de abuso emocional.
+**Ejercicio inmediato:** Reflexiona sobre una relación pasada o actual y responde: ¿te sentias frecuentemente confundida sobre si tu percepción de los eventos era correcta? ¿Te disculpabas regularmente sin saber exactamente por qué? ¿Caminabas sobre cascaras de huevo monitorizando el estado de humor del otro? ¿Tu sentido de quien eres se fue erosionando durante la relación? Si respondiste si a varias de estas preguntas, la relación puede haber incluido elementos de abuso emocional.
 
 El abuso que no tiene nombre seguirá confundiendote. Nombrarlo es el primer acto de recuperación de la realidad.
 

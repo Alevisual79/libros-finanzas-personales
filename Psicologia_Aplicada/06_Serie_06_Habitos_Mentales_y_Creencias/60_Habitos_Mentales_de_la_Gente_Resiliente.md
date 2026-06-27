@@ -55,7 +55,7 @@ Isabel ha observado que las personas resilientes no son necesariamente las que t
 
 La investigación de Crystal Park sobre la busqueda de significado en situaciones traumaticas muestra que las personas que consiguen encontrar algun significado a las experiencias difíciles (aunque sea después de tiempo) muestran mejor funcionamiento a largo plazo que las que no pueden.
 
-**Ejercicio inmediato:** Para la dificultad actual más importante, reflexiona sobre las tres dimensiones del sentido de coherencia: ¿entiendes la logica de por qué esta ocurriendo (comprensibilidad)? ¿Tienes alguno de los recursos que necesitas para afrontarla (manejabilidad)? Hay algo importante para ti en jeugo que justifica el esfuerzo de afrontarla (significatividad)? Las dimensiones más debiles son donde el trabajo de sentido de coherencia tiene mayor impacto.
+**Ejercicio inmediato:** Para la dificultad actual más importante, reflexiona sobre las tres dimensiones del sentido de coherencia: ¿entiendes la logica de por qué esta ocurriendo (comprensibilidad)? ¿Tienes alguno de los recursos que necesitas para afrontarla (manejabilidad)? ¿Hay algo importante para ti en jeugo que justifica el esfuerzo de afrontarla (significatividad)? Las dimensiones más debiles son donde el trabajo de sentido de coherencia tiene mayor impacto.
 
 La adversidad que no tiene sentido destruye. La que tiene alguno que puedes encontrar puede construir.
 

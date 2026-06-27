@@ -27,7 +27,7 @@ El pensamiento grupal tiene una definición precisa que va más allá del uso co
 
 Los ocho sintomas que Janis identifica incluyen: la ilusión de invulnerabilidad (el grupo cree que no puede equivocarse), la creencia en la moralidad inherente del grupo (el grupo asume que sus decisiones son éticas), la racionalización colectiva (se minimizan las señales de alarma), las vistas estereotipadas del adversario, la presión directa sobre los disidentes, la autocensura (los miembros evitan expresar dudas), la ilusión de unanimidad (el silencio se interpreta como acuerdo), y la presencia de guardianes de la mente (personas que protegen al grupo de información contraria).
 
-**Ejercicio inmediato:** Para el último grupo de decisión del que formas parte (equipo de trabajo, familia, grupo de amigos), reflexiona: ¿hay sintomas de pensamiento grupal presentes? ¿Hay temas de los que no se puede hablar? Hay señales de alarma que se minimizan sistemáticamente? ¿Hay miembros que nunca disienten? La presencia de tres o más de estos sintomas es una señal de alerta.
+**Ejercicio inmediato:** Para el último grupo de decisión del que formas parte (equipo de trabajo, familia, grupo de amigos), reflexiona: ¿hay sintomas de pensamiento grupal presentes? ¿Hay temas de los que no se puede hablar? ¿Hay señales de alarma que se minimizan sistemáticamente? ¿Hay miembros que nunca disienten? La presencia de tres o más de estos sintomas es una señal de alerta.
 
 El grupo que nunca tiene desacuerdos no es el que más se lleva bien. Es el que menos piensa.
 
@@ -41,7 +41,7 @@ Ruben aprende mejor de los casos concretos que de las definiciones abstractas. L
 
 El caso del transbordador Challenger (1986) muestra los mismos patrones: ingenieros de Morton Thiokol habían expresado preocupaciones sobre las juntas toricas en temperaturas bajas, pero en la reunión de decisión la mañana del lanzamiento, la logica del grupo (la NASA necesitaba el lanzamiento, había una audiencia viendo) superó las preocupaciones técnicas.
 
-**Ejercicio inmediato:** Reflexiona sobre una mala decisión grupal de la que hayas formado parte en el pasado. ¿Que sintomas de pensamiento grupal estaban presentes? ¿Habia información disponible que el grupo minimizo? Habia personas que tenían dudas y no las expresaron? Ese análisis retrospectivo produce aprendizaje que el análisis en el momento no puede producir.
+**Ejercicio inmediato:** Reflexiona sobre una mala decisión grupal de la que hayas formado parte en el pasado. ¿Que sintomas de pensamiento grupal estaban presentes? ¿Habia información disponible que el grupo minimizo? ¿Habia personas que tenían dudas y no las expresaron? Ese análisis retrospectivo produce aprendizaje que el análisis en el momento no puede producir.
 
 La mala decisión que no analizas solo se repite. La que analizas puede no volver.
 

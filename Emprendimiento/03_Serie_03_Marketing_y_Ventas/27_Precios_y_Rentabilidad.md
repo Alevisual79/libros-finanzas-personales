@@ -55,7 +55,7 @@ Carlos ha cambiado su enfoque de precios del coste al valor y ha duplicado su ma
 
 El precio basado en valor requiere conocer dos números: el valor monetario que el cliente recibe del producto o servicio (el resultado económico directo o indirecto de resolver el problema), y la disposición a pagar del cliente (el porcentaje de ese valor que el cliente estaria dispuesto a pagar por la solución). El precio optimo se encuentra entre esos dos números.
 
-**Ejercicio inmediato:** Para tu servicio o producto principal, calcula el valor que el cliente recibe: ¿si es un servicio de marketing, cuanto revenue adicional ha generado el cliente por tu trabajo? ¿Si es un servicio de ahorro de tiempo, cuantas horas ahorra el cliente y a que valor las ponemos? Si es un producto que resuelve un problema de negocio, cual es el coste del problema que resuelves? Ese número, el valor del cliente, es el techo teorico del precio. Tu precio debería ser entre el 10% y el 30% de ese valor para que el cliente perciba que el ROI es claro.
+**Ejercicio inmediato:** Para tu servicio o producto principal, calcula el valor que el cliente recibe: ¿si es un servicio de marketing, cuanto revenue adicional ha generado el cliente por tu trabajo? ¿Si es un servicio de ahorro de tiempo, cuantas horas ahorra el cliente y a que valor las ponemos? ¿Si es un producto que resuelve un problema de negocio, cual es el coste del problema que resuelves? Ese número, el valor del cliente, es el techo teorico del precio. Tu precio debería ser entre el 10% y el 30% de ese valor para que el cliente perciba que el ROI es claro.
 
 El precio que no puede explicarse en terminos del valor que el cliente recibe es el precio que el cliente no puede justificar.
 
@@ -111,7 +111,7 @@ Marcos ha aprendido que el precio que cobra posiciona su negocio tanto como cual
 
 El error es no tener ninguna de las dos estrategias: cobrar un precio intermedio sin ningún posicionamiento claro de por qué ese precio específico. Ese emprendedor compite en precio con los que son más baratos y en calidad con los que son más caros, sin ganar claramente en ninguna de las dos.
 
-**Ejercicio inmediato:** Para tu negocio, define explicitamente donde quieres posicionarte en el espectro de precio de tu sector: en el tercio más caro (donde el precio señala calidad premium y exclusividad), en el tercio medio (donde el precio es el más razonable para el nivel de calidad), o en el tercio más económico (donde el precio es la principal ventaja competitiva). Y preguntate si el precio que cobras actualmente es coherente con ese posicionamiento deseado.
+**Ejercicio inmediato:** Para tu negocio, define explicitamente donde quieres posicionarte en el espectro de precio de tu sector: en el tercio más caro (donde el precio señala calidad premium y exclusividad), en el tercio medio (donde el precio es el más razonable para el nivel de calidad), o en el tercio más económico (donde el precio es la principal ventaja competitiva). Y pregúntate si el precio que cobras actualmente es coherente con ese posicionamiento deseado.
 
 El precio que no tiene posicionamiento no tiene estrategia. Solo tiene un número.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que el precio no es una decisión que se toma una v
 
 La investigación de Simon-Kucher and Partners sobre las estrategias de pricing de empresas en crecimiento muestra que las que optimizan activamente su precio crecen en revenue un 25-30% más rápidamente que las que mantienen precios estaticos, sin necesariamente vender más unidades.
 
-**Ejercicio inmediato:** Establece una revisión anual de tu estrategia de precios en el calendario: para cada revisión, analiza cuatro factores: ¿ha aumentado el valor que tu producto o servicio ofrece al cliente (lo que justificaria subir el precio)?, ha cambiado el precio promedio de la competencia? ¿Ha cambiado la disposición a pagar del cliente? Ha cambiado el posicionamiento del negocio? Con esa revisión anual, la estrategia de precios evoluciona con el negocio en lugar de quedarse congelada en el precio que elegiste cuando empezaste.
+**Ejercicio inmediato:** Establece una revisión anual de tu estrategia de precios en el calendario: para cada revisión, analiza cuatro factores: ¿ha aumentado el valor que tu producto o servicio ofrece al cliente (lo que justificaria subir el precio)?, ha cambiado el precio promedio de la competencia? ¿Ha cambiado la disposición a pagar del cliente? ¿Ha cambiado el posicionamiento del negocio? Con esa revisión anual, la estrategia de precios evoluciona con el negocio en lugar de quedarse congelada en el precio que elegiste cuando empezaste.
 
 El precio de lanzamiento es un punto de partida. El precio que maximiza el valor del negocio requiere gestión continua.
 

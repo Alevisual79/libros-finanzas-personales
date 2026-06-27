@@ -27,7 +27,7 @@ Elena cree que los sesgos son el problema de otras personas. Personas menos inte
 
 La investigación de Kahneman muestra que el cerebro opera con dos sistemas: el Sistema 1, rápido, automático e impulsado por sesgos, y el Sistema 2, lento, deliberado y analitico. La mayoría de nuestras decisiones cotidianas, incluso las que creemos reflexivas, son producto del Sistema 1. El Sistema 2 entra en acción mucho menos de lo que creemos, y frecuentemente solo para racionalizar lo que el Sistema 1 ya decidió.
 
-**Ejercicio inmediato:** Piensa en una decisión importante que tomaste en el último mes. Ahora preguntate honestamente: ¿cuanto tiempo pasaste realmente analizando la información disponible, y cuanto tiempo justificando la conclusión a la que llegaste rápidamente de forma intuitiva?
+**Ejercicio inmediato:** Piensa en una decisión importante que tomaste en el último mes. Ahora pregúntate honestamente: ¿cuanto tiempo pasaste realmente analizando la información disponible, y cuanto tiempo justificando la conclusión a la que llegaste rápidamente de forma intuitiva?
 
 Tu cerebro no analiza primero y decide después. Decide primero y analiza después para convencerse de que la decisión fue buena.
 

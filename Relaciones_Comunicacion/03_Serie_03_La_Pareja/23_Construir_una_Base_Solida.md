@@ -71,7 +71,7 @@ Hay personas que estan en una relación porque lo quieren y hay personas que est
 
 El compromiso no se declara una sola vez en el altar o en el momento de oficializar la relación. Se renueva cada vez que surge una alternativa y se elige quedarse, cada vez que hay una crisis y se elige trabajarla, cada vez que la relación requiere esfuerzo y se elige hacerlo.
 
-**Ejercicio inmediato:** Preguntate honestamente: ¿si pudieras salir de tu relación actual sin ningún coste (social, económico, emocional), lo harías? La respuesta a esa pregunta es una medida directa de la calidad de tu compromiso actual. No para juzgarte. Para saber donde estas.
+**Ejercicio inmediato:** Pregúntate honestamente: ¿si pudieras salir de tu relación actual sin ningún coste (social, económico, emocional), lo harías? La respuesta a esa pregunta es una medida directa de la calidad de tu compromiso actual. No para juzgarte. Para saber donde estas.
 
 El compromiso que no se renueva activamente se convierte en inercia. Y la inercia no sostiene nada cuando viene el viento.
 

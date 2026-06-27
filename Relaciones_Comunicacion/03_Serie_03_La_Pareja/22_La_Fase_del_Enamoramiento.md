@@ -153,7 +153,7 @@ El amor maduro no es menos que el enamoramiento. Es diferente. Es la elección d
 
 Gottman describe este proceso cómo la construcción del mapa del amor: el conocimiento detallado y actualizado del mundo interior del otro, sus sueños, sus miedos, sus necesidades, sus valores. Ese mapa no existe al principio. Se construye con el tiempo y con la atención.
 
-**Ejercicio inmediato:** Si llevas suficiente tiempo en una relación como para que el enamoramiento inicial haya dado paso a algo diferente, reflexiona: ¿que ha construido vuestra relación en este período? ¿Amistad? Respeto? ¿Un sistema de comunicación que funciona? Lo que has construido es la base real de la relación.
+**Ejercicio inmediato:** Si llevas suficiente tiempo en una relación como para que el enamoramiento inicial haya dado paso a algo diferente, reflexiona: ¿que ha construido vuestra relación en este período? ¿Amistad? ¿Respeto? ¿Un sistema de comunicación que funciona? Lo que has construido es la base real de la relación.
 
 El enamoramiento es lo que te lleva a alguien. El amor maduro es lo que construyes con esa persona.
 

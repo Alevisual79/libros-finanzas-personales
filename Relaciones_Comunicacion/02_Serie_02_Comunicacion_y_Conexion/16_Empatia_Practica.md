@@ -131,7 +131,7 @@ Hay personas para las que la empatia no ocurre espontaneamente. La neurociencia 
 
 El resultado puede ser funcional sin ser natural, y funcional es suficiente para la mayoría de las relaciones. La persona que aprende a responder con comprensión aunque no la sienta automáticamente produce en el otro el mismo efecto que la que la siente de forma espontanea.
 
-**Ejercicio inmediato:** Si la empatia no te sale naturalmente, aprende tres preguntas que activen la perspectiva del otro en las conversaciones: ¿que es lo más difícil de esto para ti? ¿Como te hace sentir eso? Que necesitas en este momento? Usarlas de forma deliberada produce resultados parecidos a la empatia espontanea.
+**Ejercicio inmediato:** Si la empatia no te sale naturalmente, aprende tres preguntas que activen la perspectiva del otro en las conversaciones: ¿que es lo más difícil de esto para ti? ¿Como te hace sentir eso? ¿Que necesitas en este momento? Usarlas de forma deliberada produce resultados parecidos a la empatia espontanea.
 
 La empatia que requiere esfuerzo consciente es tan valida cómo la espontanea. El efecto en el otro es el mismo.
 

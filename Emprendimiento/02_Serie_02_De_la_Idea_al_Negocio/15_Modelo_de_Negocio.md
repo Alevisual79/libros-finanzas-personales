@@ -27,7 +27,7 @@ El modelo de negocio no es el plan de negocio. Es la logica de como el negocio c
 
 Netflix y Blockbuster vendian acceso a las mismas peliculas. Sus modelos de negocio eran radicalmente diferentes: Blockbuster cobraba por alquiler individual con penalizaciones por retraso; Netflix cobraba una suscripción mensual con acceso ilimitado. El modelo de Netflix produjó mayor retensión del cliente, mayor valor del cliente de por vida, y mayor escalabilidad que el de Blockbuster.
 
-**Ejercicio inmediato:** Para tu negocio actual, responde a estas cuatro preguntas que definen el modelo de negocio: ¿a quien creas valor? ¿Que problema o necesidad específica resuelves? Como entregas ese valor (que canal, que proceso)? ¿Como capturas el valor creado (como y cuando te pagan)? Esas cuatro respuestas son el esqueleto de tu modelo de negocio actual. Compararlo con modelos alternativos puede revelar opciones que produces más valor para el cliente y para el negocio simultaneamente.
+**Ejercicio inmediato:** Para tu negocio actual, responde a estas cuatro preguntas que definen el modelo de negocio: ¿a quien creas valor? ¿Que problema o necesidad específica resuelves? ¿Como entregas ese valor (que canal, que proceso)? ¿Como capturas el valor creado (como y cuando te pagan)? Esas cuatro respuestas son el esqueleto de tu modelo de negocio actual. Compararlo con modelos alternativos puede revelar opciones que produces más valor para el cliente y para el negocio simultaneamente.
 
 La empresa que tiene el mejor producto con el peor modeló de negocio frecuentemente pierde contra la que tiene un producto aceptable con el mejor modeló.
 
@@ -55,7 +55,7 @@ Marcos ha evaluado si su negocio debería adoptar un modelo de suscripción y ha
 
 La investigación de Zuora sobre las empresas con modelos de suscripción muestra que crecen aproximadamente cinco veces más rápido que las del S&P 500 porque el revenue recurrente tiene un efecto de compuesto similar al interés compuesto: cada cliente que se retiene se convierte en la base sobre la que se añaden nuevos clientes.
 
-**Ejercicio inmediato:** Para tu negocio, evalua si el modelo de suscripción podría aplicarse: ¿tu cliente usa tu producto o servicio de forma recurrente (semanal, mensual, anual)? ¿El valor de tu producto aumenta con el uso continuado o con el acceso permanente? Podrías ofrecer acceso continuo a algo que el cliente necesitaria comprar repetidamente de todas formas? Si las tres respuestas son afirmativas, el modelo de suscripción merece ser evaluado seriamente como alternativa o complemento a tu modelo actual.
+**Ejercicio inmediato:** Para tu negocio, evalua si el modelo de suscripción podría aplicarse: ¿tu cliente usa tu producto o servicio de forma recurrente (semanal, mensual, anual)? ¿El valor de tu producto aumenta con el uso continuado o con el acceso permanente? ¿Podrías ofrecer acceso continuo a algo que el cliente necesitaria comprar repetidamente de todas formas? Si las tres respuestas son afirmativas, el modelo de suscripción merece ser evaluado seriamente como alternativa o complemento a tu modelo actual.
 
 El cliente que te paga una vez es un comprador. El que te paga cada mes es una relación. Y las relaciones se valoran diferente.
 
@@ -69,7 +69,7 @@ Carlos ha evaluado si su producto debería tener una versión gratuita y ha apre
 
 La investigación de Alex Rampell sobre los modelos freemium muestra que funcionan bien cuando: el coste marginal de servir a un usuario gratuito adicional es cercano a cero (software, contenido digital), la propuesta de valor es suficientemente buena en la versión gratuita para crear habito pero suficientemente limitada para motivar la conversión a pago, y hay suficiente masa crítica de usuarios (los efectos de red o las references producen crecimiento organico sin coste de adquisición).
 
-**Ejercicio inmediato:** Para tu negocio, evalua el freemium con tres preguntas: ¿el coste de servir a un usuario gratuito es cercano a cero (si es un servicio físico o requiere tiempo del equipo, el freemium probablemente no es viable)? ¿La tasa de conversión de gratis a pago que necesitas para que el modelo sea viable es realista para tu mercado (tipicamente entre el 1% y el 5%)? El usuario gratuito trae otros usuarios que reducen el coste de adquisición? Si alguna de las tres respuestas es no, el freemium puede ser una trampa que regala valor sin capturarlo.
+**Ejercicio inmediato:** Para tu negocio, evalua el freemium con tres preguntas: ¿el coste de servir a un usuario gratuito es cercano a cero (si es un servicio físico o requiere tiempo del equipo, el freemium probablemente no es viable)? ¿La tasa de conversión de gratis a pago que necesitas para que el modelo sea viable es realista para tu mercado (tipicamente entre el 1% y el 5%)? ¿El usuario gratuito trae otros usuarios que reducen el coste de adquisición? Si alguna de las tres respuestas es no, el freemium puede ser una trampa que regala valor sin capturarlo.
 
 El gratis que construye el negocio de pago es una estrategia. El gratis que simplemente no cobra es un error.
 
@@ -151,9 +151,9 @@ Carlos ha llegado a entender que el modelo de negocio no es una decisión que se
 
 **El Principio del Modelo de Negocio como Decisión Estrategica Dinamica que Puede y Debe Evolucionar a Medida que el Negocio Aprende del Mercado y el Mercado Cambia:** Osterwalder propone que los mejores emprendedores gestionan su modelo de negocio cómo un portfolio de hipotesis en diferentes etapas de validación: algunos componentes del modelo son certezas (el cliente paga por esto), otros son probabilidades (este canal parece funcionar), y otros son hipotesis no probadas (creemos que este segmento adicional valoraria esto). El portfolio de innovación del modelo de negocio es el proceso de mover hipotesis hacía certezas o descartarlas.
 
-La investigación de Alex Osterwalder sobre las empresas que mejor gestionan la innovación del modelo de negocio muestra que tienen un proceso explícito de evaluación y revisión del modelo que ocurre al menos anualmente: ¿que partes del modelo funcionan mejor de lo esperado? ¿Cuales estan siendo cuestionadas por el mercado o por la competencia? Donde hay oportunidades de mejorar la logica del modelo?
+La investigación de Alex Osterwalder sobre las empresas que mejor gestionan la innovación del modelo de negocio muestra que tienen un proceso explícito de evaluación y revisión del modelo que ocurre al menos anualmente: ¿que partes del modelo funcionan mejor de lo esperado? ¿Cuales estan siendo cuestionadas por el mercado o por la competencia? ¿Donde hay oportunidades de mejorar la logica del modelo?
 
-**Ejercicio inmediato:** Esta semana, dedica una hora a revisar tu modelo de negocio actual con el Business Model Canvas: ¿cuales de los nueve bloques estan funcionando mejor de lo esperado? ¿Cuales estan produciendo menos valor de lo que podrían? Hay una opción de modeló alternativa que todavia no has probado y que merece un experimento? Esa hora de revisión anual del modelo puede producir más impacto en el crecimiento del negocio que semanas de mejora del producto.
+**Ejercicio inmediato:** Esta semana, dedica una hora a revisar tu modelo de negocio actual con el Business Model Canvas: ¿cuales de los nueve bloques estan funcionando mejor de lo esperado? ¿Cuales estan produciendo menos valor de lo que podrían? ¿Hay una opción de modeló alternativa que todavia no has probado y que merece un experimento? Esa hora de revisión anual del modelo puede producir más impacto en el crecimiento del negocio que semanas de mejora del producto.
 
 La empresa que no revisa su modelo de negocio cada año puede estar optimizando la ejecución del modelo equivocado.
 

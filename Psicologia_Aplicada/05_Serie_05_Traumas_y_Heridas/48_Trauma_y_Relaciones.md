@@ -27,7 +27,7 @@ Los estilos de apego que se desarrollaron en la infancia no se quedan en la infa
 
 Cindy Hazan y Phillip Shaver fueron los primeros en proponer que los estilos de apego se activan en las relaciones romanticas adultas: el estilo seguro, el ansioso (miedo intenso al abandono, busqueda de reaseguración), y el evitativo (incomodidad con la cercania, enfasis en la autonomía como defensa).
 
-**Ejercicio inmediato:** Reflexiona sobre tu patron habitual en relaciones intimas pasadas: ¿tiendes a preocuparte de que el otro te abandone? ¿Tiendes a incomodarte cuando la relación se vuelve muy cercana? O puedes tolerar tanto la cercania cómo la distancia sin que ninguna produzca alarma intensa? Identificar tu patron es el punto de partida para entender como el pasado influye en el presente.
+**Ejercicio inmediato:** Reflexiona sobre tu patron habitual en relaciones intimas pasadas: ¿tiendes a preocuparte de que el otro te abandone? ¿Tiendes a incomodarte cuando la relación se vuelve muy cercana? ¿O puedes tolerar tanto la cercania cómo la distancia sin que ninguna produzca alarma intensa? Identificar tu patron es el punto de partida para entender como el pasado influye en el presente.
 
 El apego que desarrollaste con tus primeros cuidadores es el borrador de relación que llevas a todas las relaciones importantes. Saber que borrador tienes es poder reescribirlo.
 

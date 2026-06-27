@@ -153,7 +153,7 @@ Carlos ha llegado a construir un sistema de marketing que le trae clientes de fo
 
 La investigación de Gary Vaynerchuk sobre el ciclo de atención del emprendedor muestra que los negocios que construyen un sistema integrado de marketing organico tipicamente necesitan entre seis y dieciocho meses para que el sistema comience a generar un flujo consistente de clientes, pero que una vez establecido, el flujo es más estable y de mayor calidad que el que produce la publicidad de pago.
 
-**Ejercicio inmediato:** Para tu negocio, diseña el sistema de marketing sin presupuesto que vas a construir en los próximos doce meses: ¿que canal organico es el principal (blog/SEO, LinkedIn, YouTube, podcast, eventos)? ¿Como alimentara ese canal a tu lista de email? Cómo usaras la lista de email para convertir suscriptores en clientes? ¿Como incentivara el sistema el boca a boca entre clientes satisfechos? Ese plan de doce meses, ejecutado de forma consistente, es el sistema de marketing que la mayoría de los emprendedores con presupuesto nunca llegan a construir.
+**Ejercicio inmediato:** Para tu negocio, diseña el sistema de marketing sin presupuesto que vas a construir en los próximos doce meses: ¿que canal organico es el principal (blog/SEO, LinkedIn, YouTube, podcast, eventos)? ¿Como alimentara ese canal a tu lista de email? ¿Cómo usaras la lista de email para convertir suscriptores en clientes? ¿Como incentivara el sistema el boca a boca entre clientes satisfechos? Ese plan de doce meses, ejecutado de forma consistente, es el sistema de marketing que la mayoría de los emprendedores con presupuesto nunca llegan a construir.
 
 El sistema de marketing que construiste con trabajo dura. El que compraste con dinero dura mientras pagas.
 

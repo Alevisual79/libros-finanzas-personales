@@ -55,7 +55,7 @@ Elena tiene una voz interna que comenta sus errores y sus deficiencias con una s
 
 La investigación de Kristin Neff muestra que la autocritica excesiva no produce mayor motivación ni mejor rendimiento (como muchas personas creen): produce mayor ansiedad y procrastinación. Las personas con mayor autocompasión (versus autocritica) muestran mayor motivación intrinseca, mayor persistencia ante el fracaso, y mayor bienestar.
 
-**Ejercicio inmediato:** Durante un dia, nota cada vez que escuches la voz crítica interna. No para silenciarla sino para observarla: ¿que dice exactamente? ¿Que tono usa? Si esa misma voz viniera de una persona real que conoces, como responderia a ella? La respuesta que darias a esa persona real es la respuesta más sana que puedes darte a ti mismo.
+**Ejercicio inmediato:** Durante un dia, nota cada vez que escuches la voz crítica interna. No para silenciarla sino para observarla: ¿que dice exactamente? ¿Que tono usa? ¿Si esa misma voz viniera de una persona real que conoces, como responderia a ella? La respuesta que darias a esa persona real es la respuesta más sana que puedes darte a ti mismo.
 
 La voz que te crítica desde dentro te daña de la misma forma que te dañaria si viniera de fuera. No la toleres más de lo que tolerarias la crítica de un agresor.
 
@@ -69,7 +69,7 @@ Isabel pasa tiempo considerable comparandose con sus colegas, sus amigos en rede
 
 El problema estructural de la comparación social como habito mental es que en el mundo moderno, con acceso a millones de personas a traves de redes sociales, siempre hay alguien más éxito, más atractivo, más inteligente, y más feliz (aparentemente). La comparación ascendente constante produce insatisfacción cronica porque el estandar es siempre movil.
 
-**Ejercicio inmediato:** Monitoriza tu comparación social durante una semana: ¿cuando se activa? ¿Con quien? En que dimensiones? Identifica si hay un patron específico (solo en redes sociales, solo en el trabajo, solo con cierto tipo de personas). El patron informa sobre el contexto específico que activa el habito y el contexto es donde la intervención es más efectiva.
+**Ejercicio inmediato:** Monitoriza tu comparación social durante una semana: ¿cuando se activa? ¿Con quien? ¿En que dimensiones? Identifica si hay un patron específico (solo en redes sociales, solo en el trabajo, solo con cierto tipo de personas). El patron informa sobre el contexto específico que activa el habito y el contexto es donde la intervención es más efectiva.
 
 La persona con quien te comparas favorablemente esta comparandose con alguien que la supera. La comparación social no tiene fin. Y no tiene que tenerlo porque no es la que determina tu valor.
 
@@ -97,7 +97,7 @@ Elena lleva tres dias reproduciendo mentalmente una conversación con su jefe do
 
 La investigación de Nolen-Hoeksema y Lyubomirsky muestra que el replay mental mantiene el estado emocional negativo originado por el evento original, lo que significa que la persona experimenta el malestar del evento original repetidamente. El antídoto cognitivo es la distinción entre análisis útil (extraer aprendizaje de un evento una vez, con el proposito de actuar diferente en el futuro) y replay no útil (reproducir el evento sin ese proposito específico).
 
-**Ejercicio inmediato:** Para el replay más activo en tu mente ahora mismo, preguntate: ¿he aprendido ya algo de esta situación que cambiara mi comportamiento en el futuro? Si si, el replay ya ha cumplido su función. Si sigues repitiendolo, es porque el habito se retroalimenta, no porque haya más que aprender. Autorizate a parar.
+**Ejercicio inmediato:** Para el replay más activo en tu mente ahora mismo, pregúntate: ¿he aprendido ya algo de esta situación que cambiara mi comportamiento en el futuro? Si si, el replay ya ha cumplido su función. Si sigues repitiendolo, es porque el habito se retroalimenta, no porque haya más que aprender. Autorizate a parar.
 
 La situación pasada que replays no cambiara por mucho que la reproduzcas. Pero tu estado de animo de hoy si puede cambiar si dejas de reproducirla.
 

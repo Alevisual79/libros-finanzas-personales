@@ -25,7 +25,7 @@ No todas las relaciones dañadas tienen el mismo potencial de reparación, y ent
 
 **El Principio de los Factores de Reparabilidad:** Las relaciones con mayor potencial de reparación son las en que ambas partes mantienen algun nivel de respeto basico mutuo, en que el daño, aunque significativo, no involucra abuso continuado o peligro físico o psicológico, y en que al menos una de las partes muestra disposición genuina, no solo declarada, de hacer el trabajo necesario. La ausencia de estos factores no hace imposible la reparación, pero la hace significativamente más difícil y menos probable.
 
-**Ejercicio inmediato:** Para la relación que estas considerando reparar, evalua honestamente estos tres factores: ¿hay respeto basico mutuo aun presente? ¿El daño no involucra abuso continuado? Hay disposición genuina, no solo declarada, de trabajar en ello?
+**Ejercicio inmediato:** Para la relación que estas considerando reparar, evalua honestamente estos tres factores: ¿hay respeto basico mutuo aun presente? ¿El daño no involucra abuso continuado? ¿Hay disposición genuina, no solo declarada, de trabajar en ello?
 
 No toda relación dañada se puede o se debe reparar. Evaluar honestamente el potencial real, antes de invertir energía, es el primer paso sensato.
 

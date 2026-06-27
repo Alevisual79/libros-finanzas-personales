@@ -83,7 +83,7 @@ Ruben ha aprendido que la atención es el recurso más escaso de la vida moderna
 
 La investigación de David Foster Wallace sobre la cultura de la distracción propone que la capacidad de elegir a que atender (y como atender) es la habilidad más difícil de desarrollar en la vida adulta, precisamente porque la cultura, la tecnología, y los sistemas económicos tienen incentivos poderosos para capturar esa atención y dirigirla hacía donde sirve a sus intereses, no a los del individuo.
 
-**Ejercicio inmediato:** Durante los próximos tres dias, práctica la elección deliberada de atención: ¿al comienzo de cada hora, preguntate a que quiero prestar atención en la próxima hora? (No que tengo que hacer sino a que quiero estar presente.) Al final del dia, reflexiona: ¿las horas del dia han reflejado mis elecciones de atención o la atención ha sido captada por lo que ha aparecido?
+**Ejercicio inmediato:** Durante los próximos tres dias, práctica la elección deliberada de atención: ¿al comienzo de cada hora, pregúntate a que quiero prestar atención en la próxima hora? (No que tengo que hacer sino a que quiero estar presente.) Al final del dia, reflexiona: ¿las horas del dia han reflejado mis elecciones de atención o la atención ha sido captada por lo que ha aparecido?
 
 La vida que vives es la que atienes. El resto es escenario.
 
@@ -125,7 +125,7 @@ Ruben esta en una transición profesional. Esos momentos son los que más requie
 
 La investigación de Wendy Wood sobre los habitos y los momentos de cambio confirma que los cambios de contexto (mudanzas, cambios de trabajo, inició de cursos academicos) son los momentos en que los habitos nuevos se forman más facilmente porque las señales contextuales del antiguo habito han desaparecido.
 
-**Ejercicio inmediato:** Si estas en una transición vital (o si hay una próxima) reflexiona: ¿que intención quiero que guie esta nueva etapa? ¿Que patrones del pasado no quiero reproducir? Que posibilidades abre esta transición que el estado anterior no abria? Las respuestas a esas preguntas en el momento de la transición producen el diseño deliberado de la nueva etapa antes de que el piloto automático tome el control.
+**Ejercicio inmediato:** Si estas en una transición vital (o si hay una próxima) reflexiona: ¿que intención quiero que guie esta nueva etapa? ¿Que patrones del pasado no quiero reproducir? ¿Que posibilidades abre esta transición que el estado anterior no abria? Las respuestas a esas preguntas en el momento de la transición producen el diseño deliberado de la nueva etapa antes de que el piloto automático tome el control.
 
 La transición que atraviesas sin intención reproduce el pasado con nuevo escenario. La que atraviesas con intención puede producir algo genuinamente diferente.
 

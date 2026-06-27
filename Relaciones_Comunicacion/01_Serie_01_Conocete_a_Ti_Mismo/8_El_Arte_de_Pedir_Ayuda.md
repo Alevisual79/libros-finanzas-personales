@@ -49,7 +49,7 @@ El curriculum de Isabel incluye treinta años resolviendo problemas que no eran 
 
 La autosuficiencia extrema también tiene un coste relacional: los demás se sienten excluidos, innecesarios, como si no te importaran lo suficiente para dejarlos entrar. Hay personas que interpretan la incapacidad de recibir del otro cómo una forma de rechazó.
 
-**Ejercicio inmediato:** Calcula el tiempo y la energía que has invertido en el último mes resolviendo cosas que podrías haber pedido a otros. Ahora preguntate: ¿que te impidio pedirlo? La respuesta honesta te dice exactamente cual es la trampa específica en que estas.
+**Ejercicio inmediato:** Calcula el tiempo y la energía que has invertido en el último mes resolviendo cosas que podrías haber pedido a otros. Ahora pregúntate: ¿que te impidio pedirlo? La respuesta honesta te dice exactamente cual es la trampa específica en que estas.
 
 La autosuficiencia total no es independencia. Es soledad disfrazada de fortaleza.
 
@@ -147,7 +147,7 @@ A veces pedimos y el otro no responde de la forma que esperabamos. O no responde
 
 Nedra Tawwab recomienda no hacer una unica petición y esperar. Si la petición es importante, vale la pena reformularla, ser más explícito sobre la necesidad, o buscar otras personas. La dependencia de que una sola persona responda a una necesidad es en si misma un tipo de dependencia problematica.
 
-**Ejercicio inmediato:** Piensa en una vez en que pediste ayuda y no la recibiste. ¿Que concluiste sobre el otro? Ahora preguntate: ¿hay otras explicaciones posibles ademas del rechazó? ¿Cual es la más probable? La respuesta honesta suele reducir el dolor del no.
+**Ejercicio inmediato:** Piensa en una vez en que pediste ayuda y no la recibiste. ¿Que concluiste sobre el otro? Ahora pregúntate: ¿hay otras explicaciones posibles ademas del rechazó? ¿Cual es la más probable? La respuesta honesta suele reducir el dolor del no.
 
 La no-respuesta del otro no siempre habla de ti. Casi siempre habla de sus propios recursos y límites.
 

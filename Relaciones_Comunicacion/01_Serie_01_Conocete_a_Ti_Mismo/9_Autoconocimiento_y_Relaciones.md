@@ -75,7 +75,7 @@ La introspección tiene un problema que nadie habla: puede producir la ilusión 
 
 Timothy Wilson, autor del libro Strangers to Ourselves, argumenta que las personas tienen un acceso muy limitado a los procesos mentales que guian su conducta. La introspection puede producir explicaciones plausibles que no corresponden a las causas reales de las propias acciones.
 
-**Ejercicio inmediato:** Piensa en una decisión reciente que tomaste en una relación y que justificaste con una razón logica. Ahora preguntate: ¿hay alguna razón emocional o inconsciente que podría explicar mejor esa decisión? La respuesta honesta a esa segunda pregunta suele ser más reveladora que la primera.
+**Ejercicio inmediato:** Piensa en una decisión reciente que tomaste en una relación y que justificaste con una razón logica. Ahora pregúntate: ¿hay alguna razón emocional o inconsciente que podría explicar mejor esa decisión? La respuesta honesta a esa segunda pregunta suele ser más reveladora que la primera.
 
 Conocerse no es construir una narrativa sobre uno mismo. Es ver lo que hay debajo de la narrativa.
 
@@ -89,7 +89,7 @@ Cuando el jefe de Ruben le dijo en la evaluación anual que tenía dificultades 
 
 Douglas Stone y Sheila Heen, autores de Thanks for the Feedback, identifican tres tipos de bloqueadores del feedback: el ataque a la credibilidad del que lo da (el no tiene razón para decirme esto), la identidad (esto cuestiona quien soy fundamentalmente) y el verdadero/falso (esto no es verdad). Los tres bloquean el procesamiento del feedback antes de que pueda producir aprendizaje.
 
-**Ejercicio inmediato:** Recuerda un feedback que hayas recibido recientemente y que hayas rechazado o minimizado. Sin defender tu rechazó, preguntate: ¿hay un 5% de verdad en ese feedback que podría ser útil? Solo el 5%. Esa fracción pequeña suele contener la información más valiosa.
+**Ejercicio inmediato:** Recuerda un feedback que hayas recibido recientemente y que hayas rechazado o minimizado. Sin defender tu rechazó, pregúntate: ¿hay un 5% de verdad en ese feedback que podría ser útil? Solo el 5%. Esa fracción pequeña suele contener la información más valiosa.
 
 El feedback que más duele suele ser el que más información útil contiene.
 

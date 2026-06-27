@@ -149,8 +149,47 @@ IMPERF_FIXES = [
     (re.compile(r'\bdeciais\b', re.IGNORECASE),   'decíais'),
 ]
 
+# 4b. Imperativos reflexivos sin tilde
+IMPER_FIXES = [
+    (re.compile(r'\bpreguntate\b',   re.IGNORECASE), 'pregúntate'),
+    (re.compile(r'\bcomprometete\b', re.IGNORECASE), 'comprométete'),
+    (re.compile(r'\blevantate\b',    re.IGNORECASE), 'levántate'),
+    (re.compile(r'\bdedicate\b',     re.IGNORECASE), 'dedícate'),
+    (re.compile(r'\bfijate\b',       re.IGNORECASE), 'fíjate'),
+    (re.compile(r'\benfocate\b',     re.IGNORECASE), 'enfócate'),
+    (re.compile(r'\brecuerdate\b',   re.IGNORECASE), 'recuérdate'),
+    (re.compile(r'\batrevete\b',     re.IGNORECASE), 'atrévete'),
+    (re.compile(r'\bpermitete\b',    re.IGNORECASE), 'permítete'),
+    (re.compile(r'\bmuevete\b',      re.IGNORECASE), 'muévete'),
+    (re.compile(r'\bimaginate\b',    re.IGNORECASE), 'imagínate'),
+    (re.compile(r'\bcomunicate\b',   re.IGNORECASE), 'comunícate'),
+    (re.compile(r'\bescuchate\b',    re.IGNORECASE), 'escúchate'),
+    (re.compile(r'\bobservate\b',    re.IGNORECASE), 'obsérvate'),
+    (re.compile(r'\bquedate\b',      re.IGNORECASE), 'quédate'),
+    (re.compile(r'\bmuestrate\b',    re.IGNORECASE), 'muéstrate'),
+    (re.compile(r'\btomate\b',       re.IGNORECASE), 'tómate'),
+    (re.compile(r'\banotalo\b',      re.IGNORECASE), 'anótalo'),
+    (re.compile(r'\bpruebalo\b',     re.IGNORECASE), 'pruébalo'),
+    (re.compile(r'\bescribelo\b',    re.IGNORECASE), 'escríbelo'),
+    (re.compile(r'\bpiensalo\b',     re.IGNORECASE), 'piénsalo'),
+    (re.compile(r'\bdejate\b',       re.IGNORECASE), 'déjate'),
+    (re.compile(r'\bcuidate\b',      re.IGNORECASE), 'cuídate'),
+    (re.compile(r'\bacuerdate\b',    re.IGNORECASE), 'acuérdate'),
+    (re.compile(r'\bconviertete\b',  re.IGNORECASE), 'conviértete'),
+]
+
 def fix_imperfect(line):
     for pattern, repl in IMPERF_FIXES:
+        def _repl(m, r=repl):
+            orig = m.group(0)
+            if orig[0].isupper():
+                return r[0].upper() + r[1:]
+            return r
+        line = pattern.sub(_repl, line)
+    return line
+
+def fix_imperatives(line):
+    for pattern, repl in IMPER_FIXES:
         def _repl(m, r=repl):
             orig = m.group(0)
             if orig[0].isupper():
@@ -197,6 +236,7 @@ def fix_line(line):
     line = fix_modelo(line)
     line = fix_conditional(line)
     line = fix_imperfect(line)
+    line = fix_imperatives(line)
     line = fix_q_colon(line)
     line = fix_q_afterq(line)
     line = fix_q_after_dot(line)

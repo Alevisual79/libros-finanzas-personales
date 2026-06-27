@@ -83,7 +83,7 @@ Ruben tiene la primera sesión concertada para la semana siguiente y no sabe que
 
 En la primera sesión, el psicologo preguntara sobre el motivo de consulta (que te ha traido aquí hoy?), la historia del problema (desde cuando, como ha evolucionado, que lo mejora o empeora), y el contexto de vida (trabajo, relaciones, historia personal relevante). No es necesario tener todo perfectamente ordenado: el psicologo esta acostumbrado a trabajar con información incompleta y desordenada.
 
-**Ejercicio inmediato:** Antes de la primera sesión, reflexiona sobre tres preguntas: ¿que es lo que más quieres que cambie? ¿Desde cuando llevas con este problema? Que has intentado hasta ahora para manejarlo? No para tener respuestas perfectas sino para entrar con algo de claridad sobre lo que quieres del proceso.
+**Ejercicio inmediato:** Antes de la primera sesión, reflexiona sobre tres preguntas: ¿que es lo que más quieres que cambie? ¿Desde cuando llevas con este problema? ¿Que has intentado hasta ahora para manejarlo? No para tener respuestas perfectas sino para entrar con algo de claridad sobre lo que quieres del proceso.
 
 La primera sesión no tiene que ser perfecta. Tiene que ser suficientemente honesta como para que el proceso pueda empezar.
 
@@ -139,7 +139,7 @@ Ruben ha postergado la psicoterapia en parte por el costo económico. El cálcul
 
 El cálculo del costo real de no tratar la depresión o la ansiedad incluye: el costo económico del rendimiento reducido en el trabajo (presentismo), el costo de las estrategias de afrontamiento disfuncionales (alcohol, consumo excesivo), el costo médico de los sintomas somaticos que la salud mental no tratada produce, y el costo de calidad de vida que es más difícil de cuantificar pero no menos real.
 
-**Ejercicio inmediato:** Haz el cálculo completo del costo de no tratar lo que tienes: ¿cuanto cuesta en rendimiento laboral reducido? ¿En estrategias de afrontamiento que tienen su propio costo? En calidad de vida reducida? Comparado con ese cálculo, el costo de la psicoterapia frecuentemente parece diferente.
+**Ejercicio inmediato:** Haz el cálculo completo del costo de no tratar lo que tienes: ¿cuanto cuesta en rendimiento laboral reducido? ¿En estrategias de afrontamiento que tienen su propio costo? ¿En calidad de vida reducida? Comparado con ese cálculo, el costo de la psicoterapia frecuentemente parece diferente.
 
 El costo de no tratar lo que tienes no aparece en ninguna factura. Pero lo estas pagando de todas formas.
 

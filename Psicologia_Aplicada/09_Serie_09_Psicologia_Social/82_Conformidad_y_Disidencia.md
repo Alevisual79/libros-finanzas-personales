@@ -41,7 +41,7 @@ Ruben se pregunta por qué en algunas situaciones su conformidad es mucho mayor 
 
 La investigación transcultural de Geert Hofstede y colegas muestra que la conformidad es mayor en culturas colectivistas (Japon, China, Korea) que en culturas individualistas (EEUU, Europa del norte), aunque el efecto existe en todas las culturas.
 
-**Ejercicio inmediato:** Para los grupos donde sientes mayor presión a conformarte (equipo de trabajo, familia, grupo de amigos), identifica que factores de la lista amplifican la presión: ¿hay unanimidad percibida? ¿Tienes menor estatus relativo? La tarea o decisión es ambigua? Identificar los factores que amplifican la presión es el primer paso para gestionarla.
+**Ejercicio inmediato:** Para los grupos donde sientes mayor presión a conformarte (equipo de trabajo, familia, grupo de amigos), identifica que factores de la lista amplifican la presión: ¿hay unanimidad percibida? ¿Tienes menor estatus relativo? ¿La tarea o decisión es ambigua? Identificar los factores que amplifican la presión es el primer paso para gestionarla.
 
 La presión de grupo que no reconoces como presión de grupo la llamas opinión propia.
 

@@ -55,7 +55,7 @@ Elena tiene treinta y cuatro años y una respuesta de ansiedad que se activa de 
 
 El resultado es que experiencias pasadas que la persona no recuerda conscientemente, o que recuerda sin carga emocional aparente, pueden estar generando respuestas emocionales, físicas y conductuales en el presente. El cuerpo ha aprendido que ciertos estímulos predicen peligro o dolor, y responde preventivamente sin consultar con la mente consciente que hace esa evaluación.
 
-**Ejercicio inmediato:** La próxima vez que tengas una reacción emocional o física que parece desproporcionada o inesperada dado el estímulo objetivo, en lugar de racionalizarla o suprimirla, preguntate: ¿a que me recuerda esto? ¿Con que otra situación o persona conecta esta sensación? Frecuentemente la memoria implícita deja esa pista cuando la buscas.
+**Ejercicio inmediato:** La próxima vez que tengas una reacción emocional o física que parece desproporcionada o inesperada dado el estímulo objetivo, en lugar de racionalizarla o suprimirla, pregúntate: ¿a que me recuerda esto? ¿Con que otra situación o persona conecta esta sensación? Frecuentemente la memoria implícita deja esa pista cuando la buscas.
 
 Tu cuerpo recuerda lo que tu mente prefiere no.
 
@@ -97,7 +97,7 @@ Elena tiene un colega al que describe como excesivamente competitivo, siempre tr
 
 Carl Jung llamaba a este material la sombra: todos los aspectos del yo que han sido excluidos de la narrativa consciente del self porque no encajaban con los valores, expectativas familiares o imagen social que la persona quería mantener. Este material no desaparece por ser excluido. Se proyecta sobre los demás, se convierte en irritación intensa ante ciertos comportamientos ajenos, o emerge como comportamiento compulsivo en momentos de bajo control.
 
-**Ejercicio inmediato:** Identifica a una persona que actualmente te irrita de forma intensa y repetida. Escribe con detalle los tres rasgos que más te molestan de esa persona. Luego preguntate honestamente, con toda la incomodidad que pueda generar la pregunta: ¿en que medida esos rasgos que describes en el otro estan también presentes, aunque de forma diferente, en ti mismo?
+**Ejercicio inmediato:** Identifica a una persona que actualmente te irrita de forma intensa y repetida. Escribe con detalle los tres rasgos que más te molestan de esa persona. Luego pregúntate honestamente, con toda la incomodidad que pueda generar la pregunta: ¿en que medida esos rasgos que describes en el otro estan también presentes, aunque de forma diferente, en ti mismo?
 
 Lo que más te irrita en los demás frecuentemente es lo que menos puedes ver en ti mismo.
 
@@ -123,7 +123,7 @@ Isabel toma decisiones importantes en un campo donde tiene más de veinte años 
 
 **El Principio de la Intuición como Conocimiento Experto Comprimido:** Gary Klein, psicolo que estudio durante años como toman decisiones los expertos bajo presión, encontró que los mejores bomberos, cirujanos y jugadores de ajedrez frecuentemente toman decisiones rápidas y acertadas que no pueden articular completamente en forma racional. Klein propone que la intuición experta es el resultado de un extenso procesamiento de patrones durante años de experiencia que permite reconocimiento rápido de situaciones similares. Daniel Kahneman, en diálogo intelectual con Klein, coincide en que la intuición de expertos en entornos regulares y predecibles (ajedrez, incendios) es confiable. La intuición en entornos irregulares y dificilmente predecibles (mercados financieros, predicciones políticas) es sistemáticamente menos confiable de lo que se siente.
 
-**Ejercicio inmediato:** La próxima vez que tengas una intuición fuerte sobre una decisión importante, preguntate: ¿tengo suficiente experiencia en este dominio específico para qué mi intuición sea confiable? Las respuestas que emergen de años de experiencia en entornos regulares merecen más peso que las que emergen de dominios nuevos o irregulares.
+**Ejercicio inmediato:** La próxima vez que tengas una intuición fuerte sobre una decisión importante, pregúntate: ¿tengo suficiente experiencia en este dominio específico para qué mi intuición sea confiable? Las respuestas que emergen de años de experiencia en entornos regulares merecen más peso que las que emergen de dominios nuevos o irregulares.
 
 La intuición no es magia ni siempre es sesgo. Es conocimiento acumulado que a veces llega antes que las palabras para explicarlo.
 

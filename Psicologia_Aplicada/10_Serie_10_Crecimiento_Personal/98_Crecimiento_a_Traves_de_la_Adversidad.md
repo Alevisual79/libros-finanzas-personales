@@ -27,7 +27,7 @@ La idea de que la adversidad puede fortalecer no es optimismo ilusorio. Tiene ba
 
 Las áreas donde se reporta crecimiento incluyen: mayor apreciación de la vida (las cosas pequeñas adquieren mayor valor), relaciones más profundas (mayor apreciación de los vinculos), mayor percepción de fortaleza personal (supe que podía atravesarlo), mayor apertura a nuevas posibilidades (la crisis reordeno las prioridades), y mayor desarrollo espiritual o existencial (preguntas más profundas sobre el significado).
 
-**Ejercicio inmediato:** Para la experiencia más difícil que has vivido hasta ahora (si tienes suficiente distancia temporal de ella), reflexiona sobre estas cinco áreas: ¿hay algo en tu apreciación de la vida que haya cambiado después de esa experiencia? ¿Hay relaciones que hayan ganado profundidad? Has descubierto una fortaleza en ti que no conocias? ¿Se han abierto posibilidades que antes no veías? Han cambiado tus preguntas sobre el significado? El PTG no es universal ni automático, pero identificarlo cuando existe produce una narrativa que integra la adversidad en la historia personal de forma menos destructiva.
+**Ejercicio inmediato:** Para la experiencia más difícil que has vivido hasta ahora (si tienes suficiente distancia temporal de ella), reflexiona sobre estas cinco áreas: ¿hay algo en tu apreciación de la vida que haya cambiado después de esa experiencia? ¿Hay relaciones que hayan ganado profundidad? ¿Has descubierto una fortaleza en ti que no conocias? ¿Se han abierto posibilidades que antes no veías? ¿Han cambiado tus preguntas sobre el significado? El PTG no es universal ni automático, pero identificarlo cuando existe produce una narrativa que integra la adversidad en la historia personal de forma menos destructiva.
 
 La experiencia que sobreviviste no te define por lo que te hizo. Te define por lo que hiciste con lo que te hizo.
 
@@ -69,7 +69,7 @@ Ruben ha aprendido más de sus fracasos que de sus éxitos, pero ha tardado en a
 
 La investigación de Carol Dweck sobre el mindset de crecimiento muestra que las personas con ese mindset interpretan los fracasos como información sobre que no funciona (que les permite ajustar el enfoque) en lugar de como evidencia de que no son suficientemente competentes (que produce abandono). Esa interpretación diferente del fracaso es la diferencia fundamental entre los que aprenden de el y los que no.
 
-**Ejercicio inmediato:** Para el fracaso profesional más significativo de los últimos tres años, realiza un análisis de fracaso estructurado: ¿que sabía antes del fracaso que debería haber pesado más en la decisión? ¿Que no sabía que ahora se? Que haría diferente con la información que tengo ahora? ¿Que habilidades o recursos me habrían ayudado a manejar mejor la situación? Ese análisis sistemático transforma el fracaso de experiencia dolorosa en capital de aprendizaje.
+**Ejercicio inmediato:** Para el fracaso profesional más significativo de los últimos tres años, realiza un análisis de fracaso estructurado: ¿que sabía antes del fracaso que debería haber pesado más en la decisión? ¿Que no sabía que ahora se? ¿Que haría diferente con la información que tengo ahora? ¿Que habilidades o recursos me habrían ayudado a manejar mejor la situación? Ese análisis sistemático transforma el fracaso de experiencia dolorosa en capital de aprendizaje.
 
 El fracaso que no analizas solo duele. El que analizas también enseña. Y la enseñanza compensa el dolor.
 
@@ -139,7 +139,7 @@ Ruben descubrió en su fracaso de negocio quienes eran sus amigos reales.
 
 La investigación sobre las relaciones que sobreviven a las adversidades compartidas muestra que las parejas y los grupos que han atravesado dificultades juntos muestran mayor cohesión y mayor confianza mutua que los que solo han compartido experiencias positivas. La adversidad compartida que se atraviesa con apoyo mutuo fortalece los vinculos de formas que las experiencias positivas no producen con la misma intensidad.
 
-**Ejercicio inmediato:** Reflexiona sobre las relaciones que se han fortalecido en los momentos de mayor dificultad de tu vida. ¿Que ha producido ese fortalecimiento? ¿Mayor vulnerabilidad compartida? Mayor apoyo mutuo? ¿Mayor honestidad? Esas mismas condiciones (vulnerabilidad, apoyo, honestidad) pueden cultivarse intencionalmente en las relaciones sin necesitar la adversidad como catalizador.
+**Ejercicio inmediato:** Reflexiona sobre las relaciones que se han fortalecido en los momentos de mayor dificultad de tu vida. ¿Que ha producido ese fortalecimiento? ¿Mayor vulnerabilidad compartida? ¿Mayor apoyo mutuo? ¿Mayor honestidad? Esas mismas condiciones (vulnerabilidad, apoyo, honestidad) pueden cultivarse intencionalmente en las relaciones sin necesitar la adversidad como catalizador.
 
 Las relaciones que sobreviven a lo peor son las que de verdad merecen lo mejor.
 

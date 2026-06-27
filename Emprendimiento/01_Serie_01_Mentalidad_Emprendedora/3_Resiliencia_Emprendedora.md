@@ -27,7 +27,7 @@ El emprendimiento tiene una forma específica de desarrollo que el que no la con
 
 La investigación de Clayton Christensen sobre la innovación disruptiva muestra un patron similar: las innovaciones disruptivas raramente superan a las soluciones establecidas en las metricas que el mercado actual valora en los primeros períodos. Solo cuando generan su propio mercado o mejoran en las metricas que ese mercado valora, la tracción se vuelve visible.
 
-**Ejercicio inmediato:** Para tu proyecto o negocio actual, reflexiona: ¿donde estas en la curva J? ¿Eres todavia en la fase descendente inicial (aprendiendo, ajustando, sin tracción visible todavia)? Eres en el punto de inflexion (empiezas a ver señales de tracción aunque todavia no son consistentes)? ¿Eres en la fase ascendente (la tracción es consistente y el aprendizaje se esta traduciendo en resultados)? Conocer tu posición en la curva cambia la interpretación de los resultados actuales.
+**Ejercicio inmediato:** Para tu proyecto o negocio actual, reflexiona: ¿donde estas en la curva J? ¿Eres todavia en la fase descendente inicial (aprendiendo, ajustando, sin tracción visible todavia)? ¿Eres en el punto de inflexion (empiezas a ver señales de tracción aunque todavia no son consistentes)? ¿Eres en la fase ascendente (la tracción es consistente y el aprendizaje se esta traduciendo en resultados)? Conocer tu posición en la curva cambia la interpretación de los resultados actuales.
 
 La fase más dura de la curva J no es la que duele más. Es la que más parece fracaso cuando en realidad es proceso.
 
@@ -139,7 +139,7 @@ Carlos ha buscado y encontrado los patrones comunes de los emprendedores que atr
 
 La investigación de Sara Blakely (fundadora de Spanx) sobre la cultura de fracaso en su empresa muestra que normalizar el fracaso como parte del proceso (en lugar de como señal de incompetencia) cambia la relación de todo el equipo con el riesgo y la innovación.
 
-**Ejercicio inmediato:** Identifica a un emprendedor que admires que haya atravesado una adversidad significativa (un fracaso de negocio, una crisis existencial, un pivote total). Estudia cómo la atraveso: ¿que hizo en los momentos más duros? ¿Que decidió no hacer? Que dijo que fue lo que lo mantuvo en el camino? Esos patrones son aplicables a tu situación aunque el contenido específico sea diferente.
+**Ejercicio inmediato:** Identifica a un emprendedor que admires que haya atravesado una adversidad significativa (un fracaso de negocio, una crisis existencial, un pivote total). Estudia cómo la atraveso: ¿que hizo en los momentos más duros? ¿Que decidió no hacer? ¿Que dijo que fue lo que lo mantuvo en el camino? Esos patrones son aplicables a tu situación aunque el contenido específico sea diferente.
 
 La resiliencia que no has vivido todavia ya la han vivido otros antes que tu. Vale la pena aprender de ellos antes de que llegue el momento de necesitarla.
 

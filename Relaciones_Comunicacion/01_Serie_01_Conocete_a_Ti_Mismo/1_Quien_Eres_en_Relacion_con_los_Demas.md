@@ -37,7 +37,7 @@ Clara tenía 33 años y una habilidad peculiar para elegir parejas emocionalment
 
 Los estudios de Mary Ainsworth con bebes de 12 meses mostraron que la reacción de un niño cuando su madre sale de la habitación predice con precisión estadistica como ese mismo niño, 25 años después, va a manejar sus relaciones romanticas. Los bebes con apego seguro buscaban consuelo y se calmaban. Los de apego ansioso lloraban sin consuelo. Los de apego evitativo fingian que no les importaba. Exactamente lo mismo que vemos en adultos durante una discusión de pareja.
 
-**Ejercicio inmediato:** Escribe sin pensar demasiado: ¿cuando alguien a quien quieres se aleja, que haces? ¿Cuando alguien se acerca mucho, que sientes? Cuando hay conflicto, tu primer impulso es atacar, huir o quedarte quieto? No hay respuestas correctas. Hay respuestas reveladoras.
+**Ejercicio inmediato:** Escribe sin pensar demasiado: ¿cuando alguien a quien quieres se aleja, que haces? ¿Cuando alguien se acerca mucho, que sientes? ¿Cuando hay conflicto, tu primer impulso es atacar, huir o quedarte quieto? No hay respuestas correctas. Hay respuestas reveladoras.
 
 Tu estilo de apego no es tu culpa. Seguir actuandolo sin cuestionarlo si lo es.
 
@@ -65,7 +65,7 @@ Cuando Isabel entra en una reunión, en menos de tres minutos ya sabe quien va a
 
 Aaron Beck, padre de la terapia cognitiva, llamó a esto esquemas cognitivos: estructuras mentales profundas que determinan como percibimos, interpretamos y recordamos la información social. Los esquemas relacionales se forman antes de los siete años y resisten la evidencia contraria con una tenacidad asombrosa.
 
-**Ejercicio inmediato:** Piensa en alguien con quien tengas tensión actualmente. Escribe tres supuestos que das por ciertos sobre sus intenciones. Ahora preguntate: ¿tengo evidencia real de esto o lo estoy deduciendo de mi mapa? ¿Que perderia si estuviera equivocado?
+**Ejercicio inmediato:** Piensa en alguien con quien tengas tensión actualmente. Escribe tres supuestos que das por ciertos sobre sus intenciones. Ahora pregúntate: ¿tengo evidencia real de esto o lo estoy deduciendo de mi mapa? ¿Que perderia si estuviera equivocado?
 
 Ver a los demás con más claridad empieza por ver con más claridad el cristal a traves del cual los miras.
 
@@ -121,7 +121,7 @@ No todas las heridas tienen cicatriz visible. Algunas se parecen a la normalidad
 
 No necesitas identificar tu herida con precisión quirurgica para empezar a trabajar. Basta con preguntarte: ¿que es lo que más me duele que alguien me haga en una relación? Lo que más duele cuando lo hace el otro generalmente apunta directamente a la herida más antigua.
 
-**Ejercicio inmediato:** Completa esta frase: Lo que más me duele que alguien me haga es... Ahora preguntate: ¿la primera vez que senti algo parecido, cuantos años tenía y con quien fue?
+**Ejercicio inmediato:** Completa esta frase: Lo que más me duele que alguien me haga es... Ahora pregúntate: ¿la primera vez que senti algo parecido, cuantos años tenía y con quien fue?
 
 Las heridas no te hacen debil. Ignorarlas si.
 

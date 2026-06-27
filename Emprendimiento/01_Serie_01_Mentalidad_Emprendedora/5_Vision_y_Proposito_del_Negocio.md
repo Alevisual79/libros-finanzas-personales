@@ -97,7 +97,7 @@ Carlos ha intentado articular el proposito de su negocio y cada vez que lo hace 
 
 Bill Damon en La senda del bien propone que el proposito genuino tiene dos caracteristicas: importa genuinamente a la persona (produce energía y motivación intrinsecos) y produce algo de valor para el mundo más allá de los beneficios del propio individuo. El proposito que no cumple las dos condiciones es o motivación personal sin impacto externo o altruismo sin combustible interno.
 
-**Ejercicio inmediato:** Para descubrir el proposito autentico de tu negocio, escribe las respuestas a las siguientes preguntas: ¿que problema en el mundo te molesta genuinamente y que tu negocio podría resolver? ¿Cual es la historia del momento en que sentiste mayor orgullo de lo que hace tu empresa? Que dirian tus mejores clientes que has cambiado en su vida o negocio? Los temas comunes que emergen de esas tres respuestas son los componentes del proposito que esta buscando.
+**Ejercicio inmediato:** Para descubrir el proposito autentico de tu negocio, escribe las respuestas a las siguientes preguntas: ¿que problema en el mundo te molesta genuinamente y que tu negocio podría resolver? ¿Cual es la historia del momento en que sentiste mayor orgullo de lo que hace tu empresa? ¿Que dirian tus mejores clientes que has cambiado en su vida o negocio? Los temas comunes que emergen de esas tres respuestas son los componentes del proposito que esta buscando.
 
 El proposito que suena bien pero no lo sientes cuando lo dices no es el tuyo. El que te produce algo en el pecho cuando lo piensas si lo es.
 
@@ -111,7 +111,7 @@ Lucia ha aprendido a mirar al largo plazo aunque su empresa todavia sea nueva.
 
 La investigación de James March sobre la exploración y la explotación en las organizaciones muestra que las empresas que solo explotan (optimizan lo que ya funciona) son vulnerables a la disrupción; las que solo exploran (buscan continuamente nuevas posibilidades) no generan suficiente ingreso para sobrevivir. El equilibrio entre explotar y explorar, con una visión de largo plazo que guia que explorar, es la formula de la longevidad organizacional.
 
-**Ejercicio inmediato:** Diseña tu visión de empresa a diez años en tres preguntas: ¿como es el mundo (o tu mercado) en diez años si tu empresa ha hecho bien su trabajo? ¿Como es tu empresa en diez años (tamaño, alcance, cultura, modeló de negocio)? Que tipo de persona has tenido que convertirte para dirigir esa empresa? Las respuestas no tienen que ser precisas: son el horizonte que orienta las decisiones estratégicas del año que viene.
+**Ejercicio inmediato:** Diseña tu visión de empresa a diez años en tres preguntas: ¿como es el mundo (o tu mercado) en diez años si tu empresa ha hecho bien su trabajo? ¿Como es tu empresa en diez años (tamaño, alcance, cultura, modeló de negocio)? ¿Que tipo de persona has tenido que convertirte para dirigir esa empresa? Las respuestas no tienen que ser precisas: son el horizonte que orienta las decisiones estratégicas del año que viene.
 
 El negocio pequeño que piensa en grande crece diferente del que piensa en pequeño. No porque tenga más recursos sino porque toma decisiones diferentes.
 

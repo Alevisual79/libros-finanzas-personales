@@ -41,7 +41,7 @@ Elena cree que todas las personas con ansiedad tienen el mismo problema. Que la 
 
 Esta especificidad importa practicamente porque las técnicas que funcionan bien para la ansiedad generalizada (tolerancia a la incertidumbre, reestructuración cognitiva) son diferentes de las que funcionan para el panico (técnicas de regulación fisiologica, psicoeducación sobre las sensaciones del panico) o para la ansiedad social (exposición graduada, reevaluación de creencias sobre el juicio ajeno).
 
-**Ejercicio inmediato:** Describe tu ansiedad con la mayor precisión posible: ¿ocurre en situaciones específicas o de forma generalizada? ¿Es más cognitive (pensamientos catastroficos) o más fisiologica (sensaciones corporales intensas)? Aparece de forma anticipatoria (antes del evento) o durante el evento? Esta precisión descriptiva es el primer paso hacía la intervención específica correcta.
+**Ejercicio inmediato:** Describe tu ansiedad con la mayor precisión posible: ¿ocurre en situaciones específicas o de forma generalizada? ¿Es más cognitive (pensamientos catastroficos) o más fisiologica (sensaciones corporales intensas)? ¿Aparece de forma anticipatoria (antes del evento) o durante el evento? Esta precisión descriptiva es el primer paso hacía la intervención específica correcta.
 
 Decir tengo ansiedad es como decir me duele algo. Necesitas ser más específico para saber que hacer con ello.
 
@@ -69,7 +69,7 @@ Isabel nota que su ansiedad no ocurre uniformemente. Se dispara especialmente en
 
 La terapia cognitiva, y su extensión la terapia cognitivo-conductual (TCC), que tiene la base de evidencia más sólida de cualquier intervención psicológica para los trastornos de ansiedad, trabaja directamente con estos patrones de pensamiento. No para producir pensamiento positivo irreal, sino para producir pensamiento más equilibrado y calibrado con la evidencia real disponible.
 
-**Ejercicio inmediato:** Identifica el pensamiento específico que genera tu mayor ansiedad actualmente. Luego aplica tres preguntas cognitivas: ¿cual es la evidencia real de que ese pensamiento es verdad? ¿Cual es la alternativa de interpretación más equilibrada que podría ser igualmente cierta? Si el evento temido ocurriera, podría manejarlo (aunque mal)?
+**Ejercicio inmediato:** Identifica el pensamiento específico que genera tu mayor ansiedad actualmente. Luego aplica tres preguntas cognitivas: ¿cual es la evidencia real de que ese pensamiento es verdad? ¿Cual es la alternativa de interpretación más equilibrada que podría ser igualmente cierta? ¿Si el evento temido ocurriera, podría manejarlo (aunque mal)?
 
 Tu ansiedad no vive en el mundo. Vive en tu interpretación del mundo. Esa es una muy buena noticia.
 
@@ -153,7 +153,7 @@ Isabel ha cambiado su relación con la ansiedad. Ya no la trata cómo una señal
 
 La meta no es no sentir ansiedad. Es desarrollar la capacidad de actuar a pesar de ella cuando la acción importa, y de calibrar la respuesta de ansiedad para que sea proporcional a las amenazas reales en lugar de responder con la misma intensidad a todas las posibilidades imaginadas.
 
-**Ejercicio inmediato:** La próxima vez que sientas ansiedad ante una situación, preguntate: ¿que valor mio esta en juego aquí? ¿Que me dice esta ansiedad sobre lo que me importa? Esta pregunta no elimina la ansiedad pero le da un significado que transforma la relación con ella de lucha a diálogo.
+**Ejercicio inmediato:** La próxima vez que sientas ansiedad ante una situación, pregúntate: ¿que valor mio esta en juego aquí? ¿Que me dice esta ansiedad sobre lo que me importa? Esta pregunta no elimina la ansiedad pero le da un significado que transforma la relación con ella de lucha a diálogo.
 
 La ansiedad no es un defecto de carácter. Es la señal de que te importa algo. El problema solo ocurre cuando esa señal es proporcional al temor y no a la realidad.
 

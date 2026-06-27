@@ -111,7 +111,7 @@ Carlos ha trabajado en la propuesta de valor pero tiene dificultades para conver
 
 La investigación de Nielsen sobre la lectura online muestra que el visitante de una web lee aproximadamente el 28% del texto de una página en una visita típica, y que los elementos que más atención reciben son el titular principal (que debe comunicar la propuesta de valor en una frase), los subtítulos (que deben comunicar beneficios específicos), y los testimonios de clientes.
 
-**Ejercicio inmediato:** Reescribe el titular principal de tu web (el que aparece primero y que el visitante ve antes de decidir si sigue leyendo) con el formato siguiente: ayudamos a (tipo de cliente específico) a (resultado específico que buscan) sin (frustración que quieren evitar). Por ejemplo: ayudamos a autonomos en el sector salud a conseguir más pacientes de pago sin depender de seguros médicos. Compara ese titular con el actual y preguntate cual comunica más valor en menos tiempo para tu cliente objetivo.
+**Ejercicio inmediato:** Reescribe el titular principal de tu web (el que aparece primero y que el visitante ve antes de decidir si sigue leyendo) con el formato siguiente: ayudamos a (tipo de cliente específico) a (resultado específico que buscan) sin (frustración que quieren evitar). Por ejemplo: ayudamos a autonomos en el sector salud a conseguir más pacientes de pago sin depender de seguros médicos. Compara ese titular con el actual y pregúntate cual comunica más valor en menos tiempo para tu cliente objetivo.
 
 El titular que no dice lo que haces en diez segundos ha perdido al visitante que necesitabas.
 

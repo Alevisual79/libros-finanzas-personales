@@ -25,7 +25,7 @@ La diferencia entre un equipo que funciona excepcionalmente y uno que simplement
 
 **El Principio del Equipo como Sistema Relacional:** El proyecto Aristotle de Google, una investigación extensa sobre que hace que los equipos sean efectivos, encontró que la composición de talento individual predecia mucho menos el éxito del equipo que factores relacionales cómo la seguridad psicológica, la claridad de roles, y el sentido de proposito compartido. Un equipo de estrellas individuales sin estos factores relacionales frecuentemente rinde peor que un equipo de talento más modesto con relaciones sólidas.
 
-**Ejercicio inmediato:** Evalua tu equipo actual en terminos relacionales, no de talento individual: ¿hay seguridad psicológica para expresar desacuerdo? ¿Hay claridad sobre los roles de cada uno? Hay sentido compartido de proposito?
+**Ejercicio inmediato:** Evalua tu equipo actual en terminos relacionales, no de talento individual: ¿hay seguridad psicológica para expresar desacuerdo? ¿Hay claridad sobre los roles de cada uno? ¿Hay sentido compartido de proposito?
 
 Un equipo de estrellas sin relaciones sólidas pierde, consistentemente, contra un equipo de talento modesto con buenas relaciones.
 

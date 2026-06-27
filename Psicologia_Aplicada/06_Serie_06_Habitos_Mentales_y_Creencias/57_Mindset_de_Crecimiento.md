@@ -41,7 +41,7 @@ Ruben tiene mindset fijo en varias áreas importantes de su vida. Entender las c
 
 La paradoja del mindset fijo es que la misma creencia que intenta proteger la imagen de competencia produce el comportamiento que limita el desarrollo real de competencia.
 
-**Ejercicio inmediato:** Para un área de tu vida donde tienes mindset fijo, reflexiona sobre estos indicadores: ¿evitas los desafios en esa área? ¿Abandons cuando encuentras dificultades? Te produce ansiedad recibir crítica en esa área? Si reconoces estos patrones, eso es el costo concreto del mindset fijo en tu vida.
+**Ejercicio inmediato:** Para un área de tu vida donde tienes mindset fijo, reflexiona sobre estos indicadores: ¿evitas los desafios en esa área? ¿Abandons cuando encuentras dificultades? ¿Te produce ansiedad recibir crítica en esa área? Si reconoces estos patrones, eso es el costo concreto del mindset fijo en tu vida.
 
 El mindset fijo no te protege de parecer incapaz. Solo te impide desarrollar la capacidad.
 

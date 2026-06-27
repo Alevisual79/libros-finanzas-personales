@@ -153,7 +153,7 @@ Elena finalmente presento el proyecto ambicioso que había guardado durante mese
 
 Una relación adulta con el fracaso no requiere amar fracasar. Requiere reconocer que el fracaso es una consecuencia predecible de intentar cosas importantes, que sus consecuencias prácticas suelen ser manejables, y que su coste para el yo puede reducirse con la autocompasión y un autoconcepto que no dependa del éxito para mantener su valor.
 
-**Ejercicio inmediato:** Escribe el miedo al fracaso específico que más te paraliza actualmente. Luego escribe: ¿si ocurriera ese fracaso, cuales serían las consecuencias prácticas reales? ¿Cuales las consecuencias para mi imagen y autoestima? Como podría manejar ambos tipos de consecuencias? Las respuestas frecuentemente revelan que el fracaso temido, aunque real, es manejable de una forma que el miedo previo no sugeria.
+**Ejercicio inmediato:** Escribe el miedo al fracaso específico que más te paraliza actualmente. Luego escribe: ¿si ocurriera ese fracaso, cuales serían las consecuencias prácticas reales? ¿Cuales las consecuencias para mi imagen y autoestima? ¿Como podría manejar ambos tipos de consecuencias? Las respuestas frecuentemente revelan que el fracaso temido, aunque real, es manejable de una forma que el miedo previo no sugeria.
 
 El fracaso rara vez es tan malo como el miedo a el. El problema es que tienes que atravesar el miedo para descubrirlo.
 
