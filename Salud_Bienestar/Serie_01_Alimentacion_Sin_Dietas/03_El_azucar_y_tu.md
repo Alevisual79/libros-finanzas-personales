@@ -16,7 +16,7 @@
 
 ## Prólogo: El ingrediente que está en todas partes
 
-El azúcar añadido está en el yogur "de dieta". En el zumo de naranja "natural". En el pan de molde "integral". En la salsa de tómate. En los cereales de desayuno "para niños".
+El azúcar añadido está en el yogur "de dieta". En el zumo de naranja "natural". En el pan de molde "integral". En la salsa de tomate. En los cereales de desayuno "para niños".
 
 No porque los fabricantes quieran hacer daño. Sino porque el azúcar hace que los productos sepan mejor, sean más adictivos y se vendan más.
 

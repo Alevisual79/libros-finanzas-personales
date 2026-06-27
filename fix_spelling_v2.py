@@ -167,7 +167,7 @@ IMPER_FIXES = [
     (re.compile(r'\bobservate\b',    re.IGNORECASE), 'obsérvate'),
     (re.compile(r'\bquedate\b',      re.IGNORECASE), 'quédate'),
     (re.compile(r'\bmuestrate\b',    re.IGNORECASE), 'muéstrate'),
-    (re.compile(r'\btomate\b',       re.IGNORECASE), 'tómate'),
+    # 'tomate' EXCLUIDO — es el vegetal en libros de salud/cocina
     (re.compile(r'\banotalo\b',      re.IGNORECASE), 'anótalo'),
     (re.compile(r'\bpruebalo\b',     re.IGNORECASE), 'pruébalo'),
     (re.compile(r'\bescribelo\b',    re.IGNORECASE), 'escríbelo'),
