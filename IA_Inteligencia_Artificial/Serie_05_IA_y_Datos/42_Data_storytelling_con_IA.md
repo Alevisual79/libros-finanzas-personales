@@ -102,7 +102,7 @@ Las tendencias más importantes:
 
 ## Capítulo 10: El cierre de la Serie 5
 
-Los datos son el activo más subestimado de la mayoría de organizaciones. La IA esta haciendo posible aprovechar ese activo sin necesidad de un equipo de cientificos de datos dedicados.
+Los datos son el activo más subestimado de la mayoría de organizaciones. La IA está haciendo posible aprovechar ese activo sin necesidad de un equipo de cientificos de datos dedicados.
 
 El profesional que aprende a trabajar con sus propios datos tiene una ventaja competitiva que crece a medida que los datos se acumulan y las herramientas mejoran.
 

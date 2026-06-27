@@ -139,7 +139,7 @@ Marcos ha aprendido a reconocer las señales de alarma de flujo de caja antes de
 
 Cualquiera de esas señales por si sola puede tener una explicación inocua. Dos o más de forma simultanea son una alerta sería que requiere análisis inmediato y acción.
 
-**Ejercicio inmediato:** Revisa las cuatro señales de alarma para tu negocio este mes: ¿el saldo bancario esta bajando aunque hayas tenido buen revenue?, has necesitado usar credito para gastos operativos?, las facturas pendientes de cobró han aumentado respecto al mes anterior?, tienes facturas a proveedores vencidas sin pagar? Si la respuesta a dos o más de esas preguntas es si, tienes un problema de flujo de caja activo que necesita atención prioritaria esta semana, no el mes que viene.
+**Ejercicio inmediato:** Revisa las cuatro señales de alarma para tu negocio este mes: ¿el saldo bancario está bajando aunque hayas tenido buen revenue?, has necesitado usar credito para gastos operativos?, las facturas pendientes de cobró han aumentado respecto al mes anterior?, tienes facturas a proveedores vencidas sin pagar? Si la respuesta a dos o más de esas preguntas es si, tienes un problema de flujo de caja activo que necesita atención prioritaria esta semana, no el mes que viene.
 
 El problema de flujo de caja que se detecta con dos señales de alarma es manejable. El que se detecta con cuatro es frecuentemente una crisis.
 

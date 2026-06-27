@@ -57,7 +57,7 @@ El push and pull autentico no es una tactica. Es simplemente tener una vida prop
 
 ## Capítulo 4: Cuando el interés no es reciproco
 
-Reconocer cuando el interés expresado no esta siendo correspondido, y responder a esa realidad con dignidad en lugar de con persistencia excesiva, es una habilidad importante del cortejo maduro.
+Reconocer cuando el interés expresado no está siendo correspondido, y responder a esa realidad con dignidad en lugar de con persistencia excesiva, es una habilidad importante del cortejo maduro.
 
 **El Principio del Reconocimiento de la No Reciprocidad:** Las señales consistentes de falta de reciprocidad (respuestas breves y poco entusiastas, ausencia de iniciativa propia, evasión de propuestas de encuentro) merecen ser reconocidas y respetadas, en lugar de interpretadas cómo un desafio a superar con más persistencia. La persistencia ante señales claras de desinteres no es romanticismo; es falta de respeto a la autonomía del otro.
 
@@ -109,9 +109,9 @@ Calibrar el momento apropiado para avanzar en la intensidad del cortejo (propone
 
 **El Principio de la Calibración Situacional sobre la Regla Fija:** No existe un número fijo de dias o de mensajes que determine el momento correcto para avanzar en el cortejo. La calibración más efectiva observa las señales específicas de reciprocidad y comodidad de la otra persona, ajustando el ritmo segun esas señales en lugar de seguir una regla generica aplicada uniformemente a cualquier situación.
 
-**Ejercicio inmediato:** Para tu situación actual de cortejo, en lugar de preguntarte cuanto tiempo debería esperar segun una regla generica, observa las señales específicas de reciprocidad que la otra persona esta mostrando y calibra tu ritmo segun esa información real.
+**Ejercicio inmediato:** Para tu situación actual de cortejo, en lugar de preguntarte cuanto tiempo debería esperar segun una regla generica, observa las señales específicas de reciprocidad que la otra persona está mostrando y calibra tu ritmo segun esa información real.
 
-No existe un número magico de dias correctos para avanzar en el cortejo. Existe la información específica que la otra persona te esta dando, si la observas con atención.
+No existe un número magico de dias correctos para avanzar en el cortejo. Existe la información específica que la otra persona te está dando, si la observas con atención.
 
 ---
 

@@ -79,7 +79,7 @@ El fracaso que imaginas rara vez es el que ocurre. Y el que ocurre rara vez es t
 
 Lucia ha aprendido que el mayor obstaculo para escalar su empresa no era una estrategia de marketing sino una cuestion de identidad: no se veía a si misma cómo la CEO de una empresa que factura varios millones.
 
-**El Principio de la Identidad Emprendedora como el Nivel más Profundo del Desarrollo del Emprendedor que Determina el Techo de lo que Puede Construirse:** James Clear propone que los cambios más profundos y duraderos ocurren cuando cambia la identidad (quien crees que eres) en lugar de solo el comportamiento (lo que haces). Para el emprendedor, esto significa que el nivel de empresa que puede construir esta limitado por el nivel de emprendedor que cree ser.
+**El Principio de la Identidad Emprendedora como el Nivel más Profundo del Desarrollo del Emprendedor que Determina el Techo de lo que Puede Construirse:** James Clear propone que los cambios más profundos y duraderos ocurren cuando cambia la identidad (quien crees que eres) en lugar de solo el comportamiento (lo que haces). Para el emprendedor, esto significa que el nivel de empresa que puede construir está limitado por el nivel de emprendedor que cree ser.
 
 La investigación de Herminia Ibarra sobre la identidad profesional muestra que las transiciones de identidad más exitosas (de empleado a emprendedor, de emprendedor a CEO) no ocurren de golpe sino a traves de experimentos de identidad: probar nuevas formas de actuar antes de haber adoptado completamente la nueva identidad, y usar la retroalimentación de esos experimentos para ir ajustando la imagen del yo.
 
@@ -125,7 +125,7 @@ Lucia ha aprendido a distinguir entre la confianza que hace posible el emprendim
 
 La investigación de Tasha Eurich muestra que el narcisismo (una forma extrema del ego no gestionado) en los fundadores esta correlacionado positivamente con el crecimiento inicial de la empresa (la confianza y la visión del narcisista atrae talento e inversión) pero negativamente con el rendimiento a largo plazo (la incapacidad del narcisista de escuchar feedback y admitir errores destruye lo que había construido).
 
-**Ejercicio inmediato:** Reflexiona sobre las últimas tres decisiones importantes de tu negocio. Para cada una, reflexiona: ¿tomaste esa decisión buscando activamente información contraria a tu posición inicial (y considerandola seriamente)? ¿O tomaste la decisión que tu intuición ya tenía y buscaste confirmación? La honestidad en la respuesta a esa pregunta revela el nivel de ego que esta mediando tus decisiones.
+**Ejercicio inmediato:** Reflexiona sobre las últimas tres decisiones importantes de tu negocio. Para cada una, reflexiona: ¿tomaste esa decisión buscando activamente información contraria a tu posición inicial (y considerandola seriamente)? ¿O tomaste la decisión que tu intuición ya tenía y buscaste confirmación? La honestidad en la respuesta a esa pregunta revela el nivel de ego que está mediando tus decisiones.
 
 El ego que no se gestiona no es tu aliado. Es el que te hace cometer los errores que no ves venir.
 

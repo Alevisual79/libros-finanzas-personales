@@ -133,7 +133,7 @@ Otra señal: observar de que se queja el otro. Las quejas relacionales suelen se
 
 **Ejercicio inmediato:** Identifica a la persona más importante en tu vida. Observa: ¿como te expresa su afecto? ¿De que se queja más frecuentemente? Si pudieras, preguntale directamente: ¿que es lo que más te hace sentir querido por mi? La respuesta que da es la información más directa sobre su lenguaje.
 
-La queja más frecuente del otro es la petición del amor que necesita y que no esta recibiendo.
+La queja más frecuente del otro es la petición del amor que necesita y que no está recibiendo.
 
 ---
 

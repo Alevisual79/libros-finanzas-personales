@@ -135,7 +135,7 @@ El proposito que no incluye a nadie más es un proyecto. El que incluye vinculos
 
 Elena ha entendido que el proposito no es solo una visión abstracta. Necesita expresarse en lo concreto del dia a dia.
 
-**El Principio del Proposito como práctica Cotidiana que se Expresa en Micro-momentos, no Solo en Grandes Proyectos:** La investigación de Martin Seligman sobre el bienestar y el sentido muestra que el proposito no se expresa solo en los grandes proyectos vitales sino en la calidad de la presencia y la atención en los micro-momentos del dia: la forma en que tratas a la persona que te atiende en el cafe, la atención que le das a un colega que esta pasando por un momento difícil, la forma en que realizas un trabajo rutinario con cuidado o descuido.
+**El Principio del Proposito como práctica Cotidiana que se Expresa en Micro-momentos, no Solo en Grandes Proyectos:** La investigación de Martin Seligman sobre el bienestar y el sentido muestra que el proposito no se expresa solo en los grandes proyectos vitales sino en la calidad de la presencia y la atención en los micro-momentos del dia: la forma en que tratas a la persona que te atiende en el cafe, la atención que le das a un colega que está pasando por un momento difícil, la forma en que realizas un trabajo rutinario con cuidado o descuido.
 
 Barbara Fredrickson y su investigación sobre las emociones positivas muestra que los micro-momentos de conexión (breves encuentros de genuina presencia y calidez con otros) tienen efectos acumulativos en el bienestar que son comparables a los de las relaciones profundas.
 

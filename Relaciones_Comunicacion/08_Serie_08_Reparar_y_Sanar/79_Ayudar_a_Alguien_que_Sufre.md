@@ -27,7 +27,7 @@ Una de las distinciones más importantes para ayudar efectivamente a alguien que
 
 **Ejercicio inmediato:** Reflexiona sobre tu propia tendencia al ayudar a otros: ¿te inclinas automáticamente hacía ofrecer soluciones, o tienes la capacidad de simplemente acompañar sin necesidad de resolver?
 
-Mucho del sufrimiento que ves en otros no esta esperando tu solución. Esta esperando tu presencia mientras lo atraviesan a su propio ritmo.
+Mucho del sufrimiento que ves en otros no está esperando tu solución. Está esperando tu presencia mientras lo atraviesan a su propio ritmo.
 
 ---
 
@@ -37,7 +37,7 @@ La presencia activa, distinta de la simple presencia física pasiva, requiere at
 
 **El Principio de la Presencia como Habilidad Entrenable:** La presencia activa incluye escucha sin la agenda de formular una respuesta inmediata, validación explícita de las emociones expresadas (eso suena realmente difícil), y la disposición de tolerar silencios incomodos sin la necesidad de llenarlos con consejos o distracciones. Esta capacidad, aunque más natural para algunas personas, se puede desarrollar deliberadamente con práctica.
 
-**Ejercicio inmediato:** En tu próxima conversación con alguien que esta sufriendo, práctica la presencia activa: escucha sin formular respuesta inmediata, valida explicitamente la emoción, y tolera el silencio sin necesidad de llenarlo.
+**Ejercicio inmediato:** En tu próxima conversación con alguien que está sufriendo, práctica la presencia activa: escucha sin formular respuesta inmediata, valida explicitamente la emoción, y tolera el silencio sin necesidad de llenarlo.
 
 La presencia activa no es un don natural que algunos tienen y otros no. Es una habilidad que se desarrolla con práctica deliberada.
 
@@ -45,7 +45,7 @@ La presencia activa no es un don natural que algunos tienen y otros no. Es una h
 
 ## Capítulo 3: Lo que decir y lo que no decir a alguien que sufre
 
-Ciertas frases y respuestas, aunque bien intencionadas, tienden consistentemente a generar más daño que alivio cuando se ofrecen a alguien que esta atravesando sufrimiento significativo.
+Ciertas frases y respuestas, aunque bien intencionadas, tienden consistentemente a generar más daño que alivio cuando se ofrecen a alguien que está atravesando sufrimiento significativo.
 
 **El Principio de las Respuestas que Minimizan Involuntariamente:** Frases como al menos podría ser peor, todo pasa por una razón, o entiendo exactamente como te sientes (cuando no se ha vivido una experiencia similar), aunque intentan ofrecer consuelo, frecuentemente comunican minimización del dolor específico de la persona, en lugar de la validación genuina que realmente necesita.
 
@@ -61,7 +61,7 @@ Acompañar a alguien que sufre requiere empatia genuina, pero distinguir entre l
 
 **El Principio de la Empatia con Limites Energeticos:** La empatia efectiva permite sentir y entender genuinamente el dolor de otra persona sin que ese dolor se convierta también en el propio de forma indistinguible. Mantener cierta diferenciación (esto es su dolor, que yo puedo acompañar, pero no es mi dolor que tengo que cargar como si fuera propio) permite sostener el apoyo de forma más sostenible.
 
-**Ejercicio inmediato:** Si acompañas a alguien que sufre y sientes que su dolor te esta agotando completamente, práctica nombrar internamente la distinción: este es su dolor, yo lo acompaño, no lo cargo como mio.
+**Ejercicio inmediato:** Si acompañas a alguien que sufre y sientes que su dolor te está agotando completamente, práctica nombrar internamente la distinción: este es su dolor, yo lo acompaño, no lo cargo como mio.
 
 La empatia que se convierte en absorción completa del dolor ajeno no ayuda a nadie por mucho tiempo. Agota a quien ayuda sin necesariamente beneficiar más a quien sufre.
 
@@ -71,7 +71,7 @@ La empatia que se convierte en absorción completa del dolor ajeno no ayuda a na
 
 Algunas personas que sufren, especialmente en ciertas etapas de su proceso, no estan listas o dispuestas a recibir el tipo de ayuda que se les ofrece, lo cual requiere respeto a su autonomía incluso cuando es difícil de aceptar para quien quiere ayudar.
 
-**El Principio del Respeto a la Autonomia del que Sufre:** Insistir en ayudar a alguien que explicitamente no quiere o no esta listo para esa ayuda, sin importar cuan bien intencionada sea la insistencia, frecuentemente genera resistencia adicional y puede sentirse cómo una imposición más que como apoyo. Respetar el derecho de la persona a decidir que tipo de ayuda quiere y cuando, mientras se comunica disponibilidad continuada, frecuentemente es más efectivo a largo plazo.
+**El Principio del Respeto a la Autonomia del que Sufre:** Insistir en ayudar a alguien que explicitamente no quiere o no está listo para esa ayuda, sin importar cuan bien intencionada sea la insistencia, frecuentemente genera resistencia adicional y puede sentirse cómo una imposición más que como apoyo. Respetar el derecho de la persona a decidir que tipo de ayuda quiere y cuando, mientras se comunica disponibilidad continuada, frecuentemente es más efectivo a largo plazo.
 
 **Ejercicio inmediato:** Si alguien a quien quieres ayudar ha rechazado tu ayuda específica, en lugar de insistir, comunica tu disponibilidad continuada (estoy aquí cuando estes listo) y respeta su decisión actual.
 

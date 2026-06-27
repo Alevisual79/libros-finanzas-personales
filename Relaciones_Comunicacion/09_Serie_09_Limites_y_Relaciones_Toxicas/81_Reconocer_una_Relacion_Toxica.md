@@ -47,7 +47,7 @@ El daño en una relación toxica raramente llega de golpe. Llega gradualmente, l
 
 Identificar señales de alarma específicas, incluso cuando aun parecen menores o explicables, ayuda a reconocer patrones potencialmente toxicos antes de que se intensifiquen significativamente.
 
-**El Principio de las Señales Tempranas Frecuentemente Ignoradas:** Las señales de alarma temprana de relaciones potencialmente toxicas incluyen críticas frecuentes disfrazadas de honestidad, control creciente sobre decisiones que deberían ser autonomas, inconsistencia entre lo que se dice y lo que se hace, y la sensación subjetiva persistente de que algo no esta bien, aun sin poder articular exactamente que es ese algo.
+**El Principio de las Señales Tempranas Frecuentemente Ignoradas:** Las señales de alarma temprana de relaciones potencialmente toxicas incluyen críticas frecuentes disfrazadas de honestidad, control creciente sobre decisiones que deberían ser autonomas, inconsistencia entre lo que se dice y lo que se hace, y la sensación subjetiva persistente de que algo no está bien, aun sin poder articular exactamente que es ese algo.
 
 **Ejercicio inmediato:** Para una relación que genera incomodidad difícil de articular, revisa esta lista de señales tempranas. ¿Cuantas reconoces presentes, aunque parezcan explicables individualmente?
 
@@ -131,7 +131,7 @@ No toda relación difícil es toxica. Pero toda relación toxica, mirada con hon
 
 El acto de nombrar correctamente una relación como toxica, en lugar de usar eufemismos que minimizan la realidad, es frecuentemente el primer paso necesario para poder tomar acción protectora efectiva.
 
-**El Principio del Lenguaje como Habilitador de Acción:** Usar eufemismos como complicado o difícil para describir relaciones que son genuinamente toxicas permite que la mente mantenga cierta distancia psicológica del problema real, dificultando la motivación necesaria para tomar acción. Nombrar la relación con precisión (esto es toxico, esto me esta dañando) genera la claridad emocional que frecuentemente se necesita para finalmente actuar.
+**El Principio del Lenguaje como Habilitador de Acción:** Usar eufemismos como complicado o difícil para describir relaciones que son genuinamente toxicas permite que la mente mantenga cierta distancia psicológica del problema real, dificultando la motivación necesaria para tomar acción. Nombrar la relación con precisión (esto es toxico, esto me está dañando) genera la claridad emocional que frecuentemente se necesita para finalmente actuar.
 
 **Ejercicio inmediato:** Para una relación que has estado describiendo con eufemismos suaves, práctica nombrarla con la precisión que merece, y observa como ese cambio de lenguaje afecta tu propia claridad sobre lo que necesitas hacer.
 

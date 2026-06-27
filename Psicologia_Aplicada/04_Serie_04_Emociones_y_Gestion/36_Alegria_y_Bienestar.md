@@ -91,7 +91,7 @@ La gratitud que dices de memoria ya no es gratitud. Es un ritual vacio. Necesita
 
 ## Capítulo 6: El flow: la alegria de la absorción total
 
-Ruben tiene momentos en que el tiempo parece desaparecer: cuando esta escribiendo especialmente bien, cuando toca la guitarra con amigos, cuando resuelve un problema técnico desafiante. Estos momentos son algunos de los más ricos en bienestar de la vida humana.
+Ruben tiene momentos en que el tiempo parece desaparecer: cuando está escribiendo especialmente bien, cuando toca la guitarra con amigos, cuando resuelve un problema técnico desafiante. Estos momentos son algunos de los más ricos en bienestar de la vida humana.
 
 **El Principio del Flow como Estado Optimo de Experiencia:** Mihaly Csikszentmihalyi define el flow como el estado de absorción completa en una actividad, caracterizado por fusión de la acción y la conciencia, perdida de la autoconsciencia, distorsión del tiempo, sensación de control, y experiencia intrinsecamente recompensante. Las condiciones del flow incluyen un equilibrio específico entre el nivel de desafio y el nivel de habilidad: cuando el desafio excede la habilidad, hay ansiedad; cuando la habilidad excede el desafio, hay aburrimiento; cuando estan equilibrados en nivel suficientemente alto, hay flow.
 
@@ -135,7 +135,7 @@ El asombro es el antídoto más rápido al egocentrismo que produce el sufrimien
 
 Isabel quiere alegria no solo en momentos especiales sino de fondo, cómo una condición base desde la que vivir.
 
-**El Principio del Bienestar Basal como Resultado de Habitos:** Sonja Lyubomirsky propone que el nivel basal de bienestar esta determinado por tres factores: el punto de ajuste genetico (aproximadamente el 50% de la varianza), las circunstancias de vida (aproximadamente el 10%), y las actividades y habitos deliberados (aproximadamente el 40%). El mayor margen de cambio esta en los habitos elegidos deliberadamente.
+**El Principio del Bienestar Basal como Resultado de Habitos:** Sonja Lyubomirsky propone que el nivel basal de bienestar está determinado por tres factores: el punto de ajuste genetico (aproximadamente el 50% de la varianza), las circunstancias de vida (aproximadamente el 10%), y las actividades y habitos deliberados (aproximadamente el 40%). El mayor margen de cambio esta en los habitos elegidos deliberadamente.
 
 Los habitos que la investigación muestra más consistentemente asociados con mayor bienestar basal incluyen: actividad física regular (efectos sobre el humor comparables a algunos antidepresivos segun meta-análisis de Craft y Perna), sueño de calidad suficiente, conexión social frecuente, actividades de contribución a otros, y práctica de mindfulness.
 

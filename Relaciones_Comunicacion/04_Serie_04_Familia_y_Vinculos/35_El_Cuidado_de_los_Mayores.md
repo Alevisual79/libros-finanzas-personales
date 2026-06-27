@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel esta cuidando a su madre con alzheimer mientras trabaja a tiempo completo, cria a sus propios hijos adolescentes y trata de mantener su matrimonio funcionando. Nadie le pregunta como esta ella. Todos preguntan como esta su madre.
+Isabel está cuidando a su madre con alzheimer mientras trabaja a tiempo completo, cria a sus propios hijos adolescentes y trata de mantener su matrimonio funcionando. Nadie le pregunta como esta ella. Todos preguntan como esta su madre.
 
 El cuidado de los padres mayores es uno de los roles más exigentes y menos reconocidos de la vida adulta. Combina la carga práctica del cuidado físico con el peso emocional de ver declinar a quienes una vez fueron los cuidadores, todo mientras la persona que cuida tiene que seguir sosteniendo el resto de su propia vida.
 
@@ -85,7 +85,7 @@ La mejor preparación para las decisiones médicas difíciles del futuro es la c
 
 La decisión de trasladar a un padre mayor a una residencia es frecuentemente una de las decisiones más dolorosas y cargadas de culpa que enfrentan los hijos cuidadores.
 
-**El Principio de la Residencia como Acto de Cuidado, no de Abandono:** La culpa asociada con la decisión de trasladar a un padre a una residencia frecuentemente no refleja la realidad de la decisión: en muchos casos, una residencia adecuada puede proporcionar un nivel de cuidado especializado, seguridad y estimulación social que el cuidado familiar en casa, especialmente cuando ya esta produciendo agotamiento severo en el cuidador, no puede ofrecer. Replantear esta decisión cómo un acto de cuidado responsable, en lugar de cómo un fracaso o abandono, ayuda a procesarla con menos culpa destructiva.
+**El Principio de la Residencia como Acto de Cuidado, no de Abandono:** La culpa asociada con la decisión de trasladar a un padre a una residencia frecuentemente no refleja la realidad de la decisión: en muchos casos, una residencia adecuada puede proporcionar un nivel de cuidado especializado, seguridad y estimulación social que el cuidado familiar en casa, especialmente cuando ya está produciendo agotamiento severo en el cuidador, no puede ofrecer. Replantear esta decisión cómo un acto de cuidado responsable, en lugar de cómo un fracaso o abandono, ayuda a procesarla con menos culpa destructiva.
 
 **Ejercicio inmediato:** Si estas considerando o has tomado la decisión de trasladar a un padre a una residencia, evalua objetivamente la calidad de cuidado que esa residencia puede proporcionar comparada con la calidad de cuidado que tu situación actual permite sostener de forma realista y sin agotamiento extremo.
 
@@ -99,7 +99,7 @@ Comunicarse con un padre que experimenta deterioro cognitivo (demencia, alzheime
 
 **El Principio de la Comunicación Adaptada a la Capacidad Presente:** Las técnicas de comunicación efectiva con personas con deterioro cognitivo (validar emociones en lugar de corregir hechos, usar frases simples y directas, evitar discusiones sobre la precisión de los recuerdos) requieren que el hijo deje de relacionarse con el padre cómo la persona plenamente capaz que era, y empiece a relacionarse con la persona que es ahora, sin que esto signifique amarlo o respetarlo menos.
 
-**Ejercicio inmediato:** Si te comunicas con un padre con deterioro cognitivo, práctica la técnica de validación emocional: en lugar de corregir un hecho incorrecto que mencione, responde a la emoción detras de lo que esta expresando.
+**Ejercicio inmediato:** Si te comunicas con un padre con deterioro cognitivo, práctica la técnica de validación emocional: en lugar de corregir un hecho incorrecto que mencione, responde a la emoción detras de lo que está expresando.
 
 Comunicarte bien con un padre con deterioro cognitivo requiere encontrarlo donde esta, no donde solia estar.
 

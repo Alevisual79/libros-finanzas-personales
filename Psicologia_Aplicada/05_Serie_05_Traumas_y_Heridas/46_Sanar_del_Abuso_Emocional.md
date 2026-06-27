@@ -37,7 +37,7 @@ El abuso que no tiene nombre seguirá confundiendote. Nombrarlo es el primer act
 
 Ruben ha vivido en una relación donde el otro le decía constantemente que su memoria de los eventos era incorrecta, que exageraba, que era demasiado sensible.
 
-**El Principio del Gaslighting como Manipulación de la Percepción de la Realidad:** El terminó gaslighting viene de la obra de teatro Gaslight (1944), en la que un marido manipula deliberadamente el entorno para hacer creer a su esposa que esta perdiendo la cordura. Robin Stern, psicóloga que ha investigado este fenómeno, lo define como el proceso por el cual una persona hace que otra dude sistemáticamente de su propia percepción, memoria, o cordura, como parte de un patron de control.
+**El Principio del Gaslighting como Manipulación de la Percepción de la Realidad:** El terminó gaslighting viene de la obra de teatro Gaslight (1944), en la que un marido manipula deliberadamente el entorno para hacer creer a su esposa que está perdiendo la cordura. Robin Stern, psicóloga que ha investigado este fenómeno, lo define como el proceso por el cual una persona hace que otra dude sistemáticamente de su propia percepción, memoria, o cordura, como parte de un patron de control.
 
 Las estrategias de gaslighting incluyen: negar que algo ocurrio (eso nunca paso, te lo estas imaginando), trivializar la reacción (estas exagerando, eres demasiado sensible), desviar el tema, y cuestionar la memoria. El efecto acumulativo es que la victima empieza a dudar de su propia percepción y a depender del abusador para interpretar la realidad.
 
@@ -83,7 +83,7 @@ Isabel nota que durante la relación abusiva fue perdiendo gradualmente el conta
 
 La recuperación de la identidad implica el proceso gradual de reconectar con las propias experiencias, preferencias, y valores con una voz interna distinta a la del abusador. Este proceso frecuentemente requiere apoyo terapeutico porque la voz interna del abusador se ha internalizado de tal forma que puede ser difícil distinguirla de la propia.
 
-**Ejercicio inmediato:** Empieza a construir una lista de preferencias pequeñas y específicas que son tuyas: ¿que tipo de musica te gusta cuando nadie más esta escuchando? ¿Que harías en una tarde libre si nadie tuviera opinión sobre ello? Estas preguntas pequeñas conectan con quien eres independientemente de las expectativas de otros.
+**Ejercicio inmediato:** Empieza a construir una lista de preferencias pequeñas y específicas que son tuyas: ¿que tipo de musica te gusta cuando nadie más está escuchando? ¿Que harías en una tarde libre si nadie tuviera opinión sobre ello? Estas preguntas pequeñas conectan con quien eres independientemente de las expectativas de otros.
 
 La identidad que el abuso erosiono no desaparecio. Empezo a esconderse. El proceso de recuperación es el de volver a escucharla.
 

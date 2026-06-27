@@ -45,7 +45,7 @@ Como fue el viaje? ¿Bien. Esa conversación ha terminado antes de empezar. ¿Qu
 
 La diferencia entre te gusto? y que te parecio? parece mínima. La primera puede responderse con si o no. La segunda requiere que el otro piense y comparta una perspectiva. La segunda produce cinco veces más conversación que la primera, porque invita en lugar de cerrar.
 
-**Ejercicio inmediato:** Durante una semana, sustituye tres preguntas cerradas por su versión abierta en cada conversación. ¿Como estas? por qué esta pasando en tu vida que más te importa ahora mismo. Fue buena la reunión? por qué fue lo más interesante de la reunión. Observa la diferencia en la calidad y la duración de las respuestas.
+**Ejercicio inmediato:** Durante una semana, sustituye tres preguntas cerradas por su versión abierta en cada conversación. ¿Como estas? por qué está pasando en tu vida que más te importa ahora mismo. Fue buena la reunión? por qué fue lo más interesante de la reunión. Observa la diferencia en la calidad y la duración de las respuestas.
 
 Una pregunta abierta no espera una respuesta específica. Crea el espacio para que el otro decida que compartir.
 
@@ -69,7 +69,7 @@ La primera respuesta es la puerta. Las siguientes preguntas son las que cruzan e
 
 Hay personas con las que sientes, al cabo de una hora, que te conoce de toda la vida. Y hay personas con las que puedes pasarte el dia y sentir que no has conectado con nada. La diferencia, a menudo, son las preguntas que hacen.
 
-**El Principio de la Pregunta como Espejo:** Una buena pregunta te hace pensar sobre ti mismo de una forma nueva. Te hace sentir que el otro esta prestando atención no solo a lo que dices sino a quien eres. Esa sensación de ser visto es una de las más potentes que puede producir una conversación.
+**El Principio de la Pregunta como Espejo:** Una buena pregunta te hace pensar sobre ti mismo de una forma nueva. Te hace sentir que el otro está prestando atención no solo a lo que dices sino a quien eres. Esa sensación de ser visto es una de las más potentes que puede producir una conversación.
 
 Arthur Aron, en su famoso experimento de las 36 preguntas, demostró que dos extraños pueden alcanzar un nivel de intimidad en 45 minutos equivalente a años de conocerse superficialmente, simplemente haciendose preguntas progresivamente más profundas. Las preguntas correctas no solo revelan información. Producen conexión.
 
@@ -99,7 +99,7 @@ Hay personas cuyas preguntas se sienten cómo una entrevista de trabajo. ¿Cuant
 
 **El Principio del Ritmo y el Espacio:** La diferencia entre preguntar y interrogar no esta en el contenido de las preguntas sino en el ritmo y el espacio entre ellas. El interrogatorio salta de una pregunta a otra sin dar espacio para que la respuesta se desarrolle. La conversación genuina hace una pregunta, escucha de verdad la respuesta, y deja que la siguiente pregunta surja naturalmente de lo que el otro ha compartido.
 
-El ritmo de las preguntas debe seguir el ritmo del otro, no el propio. Si el otro es reflexivo y tarda en responder, dar tiempo. Si el otro esta fluyendo, no interrumpir con otra pregunta hasta que haya terminado completamente.
+El ritmo de las preguntas debe seguir el ritmo del otro, no el propio. Si el otro es reflexivo y tarda en responder, dar tiempo. Si el otro está fluyendo, no interrumpir con otra pregunta hasta que haya terminado completamente.
 
 **Ejercicio inmediato:** En tu próxima conversación, después de hacer una pregunta, práctica no hacer la siguiente hasta que el otro haya terminado completamente de responder y haya pasado al menos cinco segundos de silencio. Ese espacio es lo que convierte una secuencia de preguntas en una conversación.
 
@@ -113,7 +113,7 @@ La pregunta bien formulada necesita espacio para ser respondida de verdad. Ese e
 
 **El Principio del Silencio como Parte de la Pregunta:** Una buena pregunta va seguida de silencio. No de otro comentario, no de una explicación de la pregunta, no de una respuesta propia que llene el espacio. Solo silencio que da al otro el tiempo que necesita para acceder a una respuesta real en lugar de la primera que aparece. Las respuestas que requieren silencio son casi siempre las más interesantes.
 
-Los mejores entrevistadores (en periodismo, en terapia, en coaching) tienen en común una tolerancia al silencio que la mayoría de personas no tiene. Saben que el silencio después de una buena pregunta no es un problema. Es donde la respuesta se esta gestando.
+Los mejores entrevistadores (en periodismo, en terapia, en coaching) tienen en común una tolerancia al silencio que la mayoría de personas no tiene. Saben que el silencio después de una buena pregunta no es un problema. Es donde la respuesta se está gestando.
 
 **Ejercicio inmediato:** Después de tu próxima pregunta importante, cuenta internamente hasta ocho antes de decir nada más. Ocho segundos de silencio se sienten eternos en una conversación. Observa con que frecuencia el otro empieza a hablar en ese tiempo con algo que no había dicho todavia.
 

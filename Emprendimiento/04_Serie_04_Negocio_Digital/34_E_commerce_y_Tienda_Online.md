@@ -69,7 +69,7 @@ Marcos ha rediseñado su tienda online siguiendo principios de conversión y ha 
 
 Las páginas de producto más efectivas tienen: fotos de alta calidad que muestran el producto desde multiples ángulos, una descripción que habla de los beneficios antes que de las especificaciones técnicas, prueba social (reviews y ratings), información clara sobre envió y devolución, y una llamada a la acción clara y prominente.
 
-**Ejercicio inmediato:** Instala un software de grabación de sesiones en tu tienda online (Hotjar, Microsoft Clarity, o Lucky Orange tienen planes gratuitos o de bajo coste) y observa grabaciones de las sesiones de usuarios reales en la página del producto que más vendes. Observa donde hacen click, donde se detienen, y donde abandonan. Esa información cualitativa, combinada con los datos de tasa de conversión, te dirá donde esta el mayor problema de UX que esta impidiendo las ventas.
+**Ejercicio inmediato:** Instala un software de grabación de sesiones en tu tienda online (Hotjar, Microsoft Clarity, o Lucky Orange tienen planes gratuitos o de bajo coste) y observa grabaciones de las sesiones de usuarios reales en la página del producto que más vendes. Observa donde hacen click, donde se detienen, y donde abandonan. Esa información cualitativa, combinada con los datos de tasa de conversión, te dirá donde esta el mayor problema de UX que está impidiendo las ventas.
 
 El diseño de la tienda que nadie ha observado usando no es un diseño probado. Es un diseño que el emprendedor cree que funciona.
 

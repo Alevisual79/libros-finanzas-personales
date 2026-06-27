@@ -53,7 +53,7 @@ Isabel ha aprendido que la gratitud no es solo una virtud ética. Es una herrami
 
 **El Principio de la Gratitud como Interrupción Deliberada de la Adaptación Hedonica:** La investigación de Robert Emmons y Michael McCullough sobre las intervenciones de gratitud muestra que las personas asignadas a escribir tres cosas por las que estan agradecidas cada semana durante diez semanas reportan mayor bienestar subjetivo, mejor salud física, y mayor satisfacción con la vida que los grupos de control. El efecto no es trivial: el tamaño del efecto es similar al de algunas intervenciones farmacologicas para la depresión leve.
 
-El mecanismo propuesto es que la gratitud interrumpe la adaptación hedonica al dirigir deliberadamente la atención hacía lo positivo que se tiene (que el cerebro tiende a ignorar porque ya esta adaptado a ello) en lugar de focalizarse en lo que falta.
+El mecanismo propuesto es que la gratitud interrumpe la adaptación hedonica al dirigir deliberadamente la atención hacía lo positivo que se tiene (que el cerebro tiende a ignorar porque ya está adaptado a ello) en lugar de focalizarse en lo que falta.
 
 **Ejercicio inmediato:** Durante los próximos veintiun dias, escribe cada noche tres cosas específicas del dia por las que estas genuinamente agradecido. La especificidad es importante: no familia y salud (demasiado generico para interrumpir la adaptación) sino que alguien te preparó el cafe esta mañana, que la reunión de trabajo terminó antes de lo esperado, que llovio y el sonido de la lluvia fue agradable. La especificidad ancla la atención en la experiencia real.
 

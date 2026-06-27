@@ -27,7 +27,7 @@ La ira tiene muy mala reputación. Se asocia con perdida de control, con daño a
 
 Dacher Keltner y sus colegas documentan que la ira no solo tiene función individual sino social: las personas que expresan ira apropiada en contextos de injusticia (no ira impulsiva sino ira dirigida a una causa) frecuentemente movilizan respuestas colectivas que reducen la injusticia. La ira que produce cambio social es una forma de ira bien gestionada.
 
-**Ejercicio inmediato:** La próxima vez que sientas ira, antes de suprimirla o expresarla impulsivamente, pregunta: ¿que injusticia o que límite violado esta senalando esta ira? La respuesta identifica si la ira tiene información útil (hay una injusticia real que requiere respuesta) o si esta siendo sobreactivada por una percepción inexacta.
+**Ejercicio inmediato:** La próxima vez que sientas ira, antes de suprimirla o expresarla impulsivamente, pregunta: ¿que injusticia o que límite violado está senalando esta ira? La respuesta identifica si la ira tiene información útil (hay una injusticia real que requiere respuesta) o si está siendo sobreactivada por una percepción inexacta.
 
 La ira que te cuenta que algo esta mal es una emoción funcionando correctamente. El problema no es la ira. Es lo que haces con ella.
 
@@ -157,7 +157,7 @@ Ruben ha aprendido que su ira no es su enemiga. Es una parte de el que tiene alg
 
 Esta distinción requiere práctica deliberada, especialmente en los momentos de mayor activación, cuando el secuestro amigdalar hace más difícil el acceso al cortex prefrontal. Las técnicas que más consistentemente apoyan esta distinción incluyen la respiración lenta (que activa el nervio vago y reduce la activación simpatica), el etiquetado emocional (James Pennebaker y sus colegas muestran que el simple acto de nombrar la emoción reduce su intensidad), y el timeout deliberado antes de responder.
 
-**Ejercicio inmediato:** Diseña tu protocolo personal de gestión de la ira: que señales personales indican que la ira esta escalando (antes del punto de flooding), que estrategia de interrupción usaras en ese momento (timeout, respiración, etiquetado emocional), y cuando y como retomaras la situación que la genero. Tener este protocolo preparado antes de que la ira aparezca es mucho más efectivo que intentar diseñarlo en el momento de mayor activación.
+**Ejercicio inmediato:** Diseña tu protocolo personal de gestión de la ira: que señales personales indican que la ira está escalando (antes del punto de flooding), que estrategia de interrupción usaras en ese momento (timeout, respiración, etiquetado emocional), y cuando y como retomaras la situación que la genero. Tener este protocolo preparado antes de que la ira aparezca es mucho más efectivo que intentar diseñarlo en el momento de mayor activación.
 
 No elimines tu ira. Aprende a escucharla sin dejar que ella hable por ti.
 

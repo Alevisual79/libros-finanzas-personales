@@ -65,7 +65,7 @@ La pregunta que el vendedor hace le enseña sobre el cliente. La que el cliente 
 
 Marcos ha aprendido que las objeciones no son un rechazó sino una solicitud de más información.
 
-**El Principio de las Objeciones como Solicitudes de Información Adicional que Indican que el Cliente Esta Considerando Activamente la Compra porque el que No Esta Interesado No Objeta, Simplemente Se Va:** Zig Ziglar proponia que la mayoría de las objeciones en ventas son falsas objeciones (el cliente da una razón de superficie que no es la razón real) o son solicitudes de más información (el cliente no esta seguro de algo específico y necesita que se lo aclares). Las objeciones más frecuentes en la mayoría de los negocios son variantes de cuatro fundamentales: precio muy alto, no tengo tiempo ahora, necesito pensarlo, y no es para mi.
+**El Principio de las Objeciones como Solicitudes de Información Adicional que Indican que el Cliente Está Considerando Activamente la Compra porque el que No Esta Interesado No Objeta, Simplemente Se Va:** Zig Ziglar proponia que la mayoría de las objeciones en ventas son falsas objeciones (el cliente da una razón de superficie que no es la razón real) o son solicitudes de más información (el cliente no esta seguro de algo específico y necesita que se lo aclares). Las objeciones más frecuentes en la mayoría de los negocios son variantes de cuatro fundamentales: precio muy alto, no tengo tiempo ahora, necesito pensarlo, y no es para mi.
 
 La investigación de Mike Weinberg sobre el manejo de objeciones muestra que las objeciones se manejan mejor cuando se escuchan completamente antes de responder (el cliente que siente que su objeción ha sido escuchada esta más abierto a la respuesta), se validan (su preocupación es razonable), y se responden con especificidad (no con argumentos genericos sino con información específica que aborda la preocupación concreta).
 
@@ -127,7 +127,7 @@ La investigación de Tom Sant sobre las propuestas de ventas ganadoras muestra q
 
 **Ejercicio inmediato:** Para tu próximo cliente potencial, estructura la propuesta en cuatro secciones: el problema tal cómo lo has entendido (usando las palabras del cliente, no las tuyas), tu solución específica para ese problema, el proceso de trabajo (que ocurre paso a paso), y el resultado esperado con un precio coherente con ese resultado. Antes de enviar la propuesta, verifica que las primeras dos partes (el problema y la solución) representan más del 60% del espacio total de la propuesta. Si el precio ocupa más espacio que el valor, la propuesta esta desequilibrada.
 
-La propuesta que empieza con el precio antes del valor esta pidiendo al cliente que compre sin entender lo que recibe.
+La propuesta que empieza con el precio antes del valor está pidiendo al cliente que compre sin entender lo que recibe.
 
 ---
 

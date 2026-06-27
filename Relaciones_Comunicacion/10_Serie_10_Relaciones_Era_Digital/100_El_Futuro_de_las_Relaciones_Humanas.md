@@ -135,7 +135,7 @@ El trabajo final, tanto de este libro como de toda esta colección sobre relacio
 
 **Ejercicio inmediato:** Reflexiona, integrando todo lo aprendido a lo largo de esta colección completa, sobre que tipo específico de relaciones quieres construir y mantener, y que decisiones concretas sobre tecnología apoyarian esa visión.
 
-El futuro de tus relaciones no esta determinado por la tecnología disponible. Esta determinado por las decisiones conscientes que tomas, dia tras dia, sobre como esa tecnología sirve o socava la conexión que realmente quieres tener.
+El futuro de tus relaciones no está determinado por la tecnología disponible. Está determinado por las decisiones conscientes que tomas, dia tras dia, sobre como esa tecnología sirve o socava la conexión que realmente quieres tener.
 
 ---
 

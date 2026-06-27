@@ -57,7 +57,7 @@ La investigación de Darley y Latane muestra que la probabilidad de ayuda cuando
 
 **Ejercicio inmediato:** La próxima vez que estes en un grupo donde algo requiere acción y nadie actua, considera que puedes ser tu quien rompa el efecto espectador. La investigación muestra que asignar la responsabilidad específicamente a alguien (tu, el de la chaqueta roja, llama a emergencias) interrumpe el efecto espectador y activa la acción.
 
-El grupo que no actua no esta formado por personas malas. Esta formado por personas que asumen que alguien más actuara.
+El grupo que no actua no está formado por personas malas. Está formado por personas que asumen que alguien más actuara.
 
 ---
 

@@ -87,7 +87,7 @@ Los conflictos dentro de un equipo, cuando se gestionan adecuadamente por el lí
 
 **Ejercicio inmediato:** Si hay un conflicto sin resolver en tu equipo, identifica los intereses subyacentes de cada parte (más allá de sus posiciones declaradas) y considera como podrías facilitar una conversación que aborde esos intereses directamente.
 
-Un líder que evita todo conflicto no esta creando armonia. Esta postergando una explosión más grande para más adelante.
+Un líder que evita todo conflicto no está creando armonia. Está postergando una explosión más grande para más adelante.
 
 ---
 
@@ -95,7 +95,7 @@ Un líder que evita todo conflicto no esta creando armonia. Esta postergando una
 
 La motivación genuina del equipo, distinta de la manipulación a traves de presión o incentivos artificiales, requiere entender las necesidades psicológicas reales que impulsan el compromiso humano con el trabajo.
 
-**El Principio de la Motivación Autonoma:** La teoria de la autodeterminación de Deci y Ryan identifica tres necesidades psicológicas basicas que impulsan la motivación genuina y sostenible: autonomía (sentir control sobre el propio trabajo), competencia (sentir que se esta desarrollando habilidad real), y relación (sentir conexión genuina con el equipo y el proposito del trabajo). Los líderes que satisfacen estas tres necesidades generan motivación más duradera que los que dependen exclusivamente de presión o de incentivos externos.
+**El Principio de la Motivación Autonoma:** La teoria de la autodeterminación de Deci y Ryan identifica tres necesidades psicológicas basicas que impulsan la motivación genuina y sostenible: autonomía (sentir control sobre el propio trabajo), competencia (sentir que se está desarrollando habilidad real), y relación (sentir conexión genuina con el equipo y el proposito del trabajo). Los líderes que satisfacen estas tres necesidades generan motivación más duradera que los que dependen exclusivamente de presión o de incentivos externos.
 
 **Ejercicio inmediato:** Evalua cuanto autonomía, oportunidad de desarrollo de competencia, y sentido de conexión ofreces actualmente a tu equipo. ¿Cual de las tres podría fortalecerse más facilmente desde tu posición?
 

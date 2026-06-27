@@ -111,7 +111,7 @@ No existe un cronograma universal para sanar de una ruptura. El tiempo necesario
 
 **El Principio de la Variabilidad Individual del Duelo:** Comparar el propio proceso de duelo con el de otras personas, o con expectativas culturales sobre cuanto debería durar el dolor de una ruptura, suele generar presión innecesaria que no acelera el proceso real. Cada persona procesa las perdidas a su propio ritmo, y la presión por sanar más rápido de lo que el proceso natural permite suele producir más sufrimiento, no menos.
 
-**Ejercicio inmediato:** Si sientes presión (propia o externa) por sanar de una ruptura más rápido de lo que estas haciendo, recuerda que no hay un cronograma correcto universal. Pregunta si tu proceso esta avanzando, aunque sea lentamente, en lugar de comparar su velocidad con un estandar arbitrario.
+**Ejercicio inmediato:** Si sientes presión (propia o externa) por sanar de una ruptura más rápido de lo que estas haciendo, recuerda que no hay un cronograma correcto universal. Pregunta si tu proceso está avanzando, aunque sea lentamente, en lugar de comparar su velocidad con un estandar arbitrario.
 
 El tiempo que necesitas para sanar no es el que otros tardaron. Es el que tu proceso real requiere.
 

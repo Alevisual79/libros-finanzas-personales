@@ -83,9 +83,9 @@ Elena ha empezado a entender que lo que le ocurre no es solo la respuesta al acc
 
 El tratamiento del TEPT Complejo requiere un enfoque más graduado y más largo que el del TEPT simple, porque antes de abordar las memorias traumaticas específicas es necesario construir las capacidades de regulación emocional, de relación terapeutica segura, y de estabilización que el trauma complejo frecuentemente no permitio desarrollar.
 
-**Ejercicio inmediato:** Si reconoces en tu experiencia no solo sintomas de re-experimentación de eventos específicos sino un patron más amplio de dificultad con la regulación emocional, la autoimagen, y las relaciones, que se remonta a la infancia, considera que el trabajo terapeutico puede requerir más tiempo y un enfoque más gradual que el tratamiento estandar del TEPT simple. La paciencia con el proceso no es debilidad: es comprensión de la complejidad de lo que se esta procesando.
+**Ejercicio inmediato:** Si reconoces en tu experiencia no solo sintomas de re-experimentación de eventos específicos sino un patron más amplio de dificultad con la regulación emocional, la autoimagen, y las relaciones, que se remonta a la infancia, considera que el trabajo terapeutico puede requerir más tiempo y un enfoque más gradual que el tratamiento estandar del TEPT simple. La paciencia con el proceso no es debilidad: es comprensión de la complejidad de lo que se está procesando.
 
-El trauma que duro años raramente se procesa en semanas. La duración del proceso terapeutico no mide la gravedad del problema sino la profundidad de lo que se esta sanando.
+El trauma que duro años raramente se procesa en semanas. La duración del proceso terapeutico no mide la gravedad del problema sino la profundidad de lo que se está sanando.
 
 ---
 
@@ -109,7 +109,7 @@ Isabel esta en proceso de buscar terapeuta pero todavia no ha podido empezar. Mi
 
 **El Principio del Autocuidado como Soporte, no como Sustitución del Tratamiento:** La investigación sobre el manejo del TEPT identifica varias estrategias de autocuidado que pueden reducir la intensidad de los sintomas aunque no sustituyan el tratamiento específico: el ejercicio aerobico regular (que reduce la activación del sistema de estres y mejora el sueño), el sueño de calidad (el sueño deteriorado amplifica todos los sintomas del TEPT), la reducción del alcohol y el cannabis (que frecuentemente se usan como automedication pero que a largo plazo aumentan los sintomas), las prácticas de regulación del sistema nervioso (respiración diafragmatica, mindfulness, relajación muscular progresiva), y el mantenimiento de conexiones sociales aunque la tendencia del TEPT sea el aislamiento.
 
-La psicoeducación (entender lo que esta ocurriendo en el sistema nervioso) reduce el componente de verguenza y confusión que frecuentemente acompañan al TEPT y facilita la busqueda de ayuda.
+La psicoeducación (entender lo que está ocurriendo en el sistema nervioso) reduce el componente de verguenza y confusión que frecuentemente acompañan al TEPT y facilita la busqueda de ayuda.
 
 **Ejercicio inmediato:** Identifica una de las estrategias de autocuidado mencionadas que podrías implementar esta semana de forma realista: una caminata diaria de veinte minutos, una práctica de respiración antes de dormir, o retomar el contacto con una persona de apoyo a quien hayas evitado por el aislamiento típico del TEPT. No para resolver el TEPT sino para reducir su impacto mientras buscas el apoyo profesional adecuado.
 
@@ -125,7 +125,7 @@ Ruben se siente solo con su experiencia del TEPT pero no sabe como hablar de ell
 
 La revelación selectiva implica elegir con cuidado a quien se dice algo, que se dice, y cuando se dice: empezar con personas de maxima confianza que han demostrado capacidad para escuchar sin juzgar y sin intentar solucionar, y no revelando más de lo que en ese momento se puede gestionar. El objetivo de la revelación no es que el otro entienda perfectamente el TEPT sino que la persona pueda sentirse menos sola y tener apoyo práctico cuando lo necesite.
 
-**Ejercicio inmediato:** Identifica una persona de tu vida a quien podrías decir una versión simple de lo que esta ocurriendo: después del [evento], me ha costado recuperarme y estoy buscando apoyo profesional. Una declaración simple que abre la puerta al apoyo sin requerir que el otro entienda completamente lo que es el TEPT.
+**Ejercicio inmediato:** Identifica una persona de tu vida a quien podrías decir una versión simple de lo que está ocurriendo: después del [evento], me ha costado recuperarme y estoy buscando apoyo profesional. Una declaración simple que abre la puerta al apoyo sin requerir que el otro entienda completamente lo que es el TEPT.
 
 No tienes que explicar el TEPT para pedir apoyo. A veces basta con decir que lo estas pasando mal y que te ayudaria que estuvieran.
 
@@ -147,7 +147,7 @@ La recuperación del TEPT no es una linea recta hacía arriba. Hay dias peores d
 
 ## Capítulo 10: Vivir después del TEPT: integración y nueva normalidad
 
-Isabel ha terminado el tratamiento del TEPT y esta aprendiendo a vivir después. No ha olvidado lo que ocurrio. Pero ha cambiado fundamentalmente la relación que tiene con esa experiencia.
+Isabel ha terminado el tratamiento del TEPT y está aprendiendo a vivir después. No ha olvidado lo que ocurrio. Pero ha cambiado fundamentalmente la relación que tiene con esa experiencia.
 
 **El Principio de la Integración como Meta de la Recuperación:** La meta del tratamiento del TEPT no es eliminar el recuerdo del evento traumatico sino integrarlo: que pueda ocupar su lugar en la narrativa autobiografica de la persona como algo que ocurrio en el pasado, que fue difícil y que dejó su huella, pero que ya no tiene el poder de secuestrar el presente.
 

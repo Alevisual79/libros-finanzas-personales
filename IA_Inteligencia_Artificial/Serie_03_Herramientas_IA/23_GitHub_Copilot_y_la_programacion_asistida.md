@@ -146,7 +146,7 @@ El trabajo que le apasiona — diseñar sistemas, resolver problemas complejos �
 
 ## Epílogo: El codigo como nueva escritura
 
-La programación asistida esta haciendo el codigo más accesible. Como la imprenta hizo más accesible la escritura sin eliminar la necesidad de escritores con talento, la IA esta haciendo más accesible el codigo sin eliminar la necesidad de programadores con criterio.
+La programación asistida está haciendo el codigo más accesible. Como la imprenta hizo más accesible la escritura sin eliminar la necesidad de escritores con talento, la IA está haciendo más accesible el codigo sin eliminar la necesidad de programadores con criterio.
 
 ---
 

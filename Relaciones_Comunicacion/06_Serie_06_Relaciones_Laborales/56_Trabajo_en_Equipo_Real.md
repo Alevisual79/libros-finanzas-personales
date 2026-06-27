@@ -63,7 +63,7 @@ Generar responsabilidad genuina en un equipo, donde los miembros se exigen mutua
 
 **Ejercicio inmediato:** Reflexiona sobre si en tu equipo los miembros se sienten con permiso de señalar entre si cuando algo no cumple el estandar esperado, o si esa función recae exclusivamente en el líder. ¿Que cambiaria si se distribuyera más?
 
-Un equipo donde solo el jefe exige cuentas no es un equipo de alto rendimiento. Es un equipo que rinde solo cuando el jefe esta mirando.
+Un equipo donde solo el jefe exige cuentas no es un equipo de alto rendimiento. Es un equipo que rinde solo cuando el jefe está mirando.
 
 ---
 

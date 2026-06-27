@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena tiene una teoria sobre por qué sus relaciones no funcionan: elige mal. Elige hombres que no estan disponibles, que no la valoran, que no la ven. Lo que Elena no ve todavia es que ella misma no se ve, no se valora y no esta disponible para si misma.
+Elena tiene una teoria sobre por qué sus relaciones no funcionan: elige mal. Elige hombres que no estan disponibles, que no la valoran, que no la ven. Lo que Elena no ve todavia es que ella misma no se ve, no se valora y no está disponible para si misma.
 
 La relación que tienes contigo mismo no es una relación más. Es la relación que determina todas las demás.
 

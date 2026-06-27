@@ -55,7 +55,7 @@ Isabel ha observado que las personas resilientes no son necesariamente las que t
 
 La investigación de Crystal Park sobre la busqueda de significado en situaciones traumaticas muestra que las personas que consiguen encontrar algun significado a las experiencias difíciles (aunque sea después de tiempo) muestran mejor funcionamiento a largo plazo que las que no pueden.
 
-**Ejercicio inmediato:** Para la dificultad actual más importante, reflexiona sobre las tres dimensiones del sentido de coherencia: ¿entiendes la logica de por qué esta ocurriendo (comprensibilidad)? ¿Tienes alguno de los recursos que necesitas para afrontarla (manejabilidad)? ¿Hay algo importante para ti en jeugo que justifica el esfuerzo de afrontarla (significatividad)? Las dimensiones más debiles son donde el trabajo de sentido de coherencia tiene mayor impacto.
+**Ejercicio inmediato:** Para la dificultad actual más importante, reflexiona sobre las tres dimensiones del sentido de coherencia: ¿entiendes la logica de por qué está ocurriendo (comprensibilidad)? ¿Tienes alguno de los recursos que necesitas para afrontarla (manejabilidad)? ¿Hay algo importante para ti en jeugo que justifica el esfuerzo de afrontarla (significatividad)? Las dimensiones más debiles son donde el trabajo de sentido de coherencia tiene mayor impacto.
 
 La adversidad que no tiene sentido destruye. La que tiene alguno que puedes encontrar puede construir.
 
@@ -125,7 +125,7 @@ Ruben ha notado que las personas más resilientes que conoce tienen en común la
 
 George Vaillant, en su investigación longitudinal sobre el desarrollo adulto, identifico el humor como uno de los mecanismos de defensa maduros: una forma de procesar el estres que produce adaptación sin negación. Las personas con mayor uso del humor en situaciones de estres muestran mayor bienestar a largo plazo.
 
-**Ejercicio inmediato:** Para la situación difícil más reciente que hayas vivido, reflexiona: ¿había algun elemento de absurdo o ironia que en ese momento no pudiste ver pero que en perspectiva si puedes? La distancia necesaria para el humor es frecuentemente la misma distancia que indica que se esta recuperando la perspectiva.
+**Ejercicio inmediato:** Para la situación difícil más reciente que hayas vivido, reflexiona: ¿había algun elemento de absurdo o ironia que en ese momento no pudiste ver pero que en perspectiva si puedes? La distancia necesaria para el humor es frecuentemente la misma distancia que indica que se está recuperando la perspectiva.
 
 Las personas que pueden reirse de sus propias dificultades no las toman menos en serio. Las llevan con más ligereza, que es una manera diferente de respetarlas.
 
@@ -149,7 +149,7 @@ La adversidad que solo sufres te cuesta. La que aprendes a aprender de ella te c
 
 Ruben ha aprendido que los recursos de resiliencia son más efectivos cuando se construyen antes de que vengan las dificultades que cuando se buscan en medio de ellas.
 
-**El Principio de la Resiliencia Pre-Activa como Inversión en el Futuro:** La investigación de Ann Masten sobre los factores protectores de la resiliencia muestra que los recursos que producen mayor resiliencia ante la adversidad son los que estan disponibles antes de que la adversidad ocurra: relaciones de apoyo establecidas, capacidades de regulación emocional practicadas, sentido de significado cultivado, habitos de salud sostenidos. La resiliencia que se construye en momento de calma es la que esta disponible cuando llega la tormenta.
+**El Principio de la Resiliencia Pre-Activa como Inversión en el Futuro:** La investigación de Ann Masten sobre los factores protectores de la resiliencia muestra que los recursos que producen mayor resiliencia ante la adversidad son los que estan disponibles antes de que la adversidad ocurra: relaciones de apoyo establecidas, capacidades de regulación emocional practicadas, sentido de significado cultivado, habitos de salud sostenidos. La resiliencia que se construye en momento de calma es la que está disponible cuando llega la tormenta.
 
 Rick Hanson, neurocientifico y autor de Hardwiring Happiness, propone que instalar deliberadamente las experiencias positivas (dejar que las experiencias buenas se procesen completamente en lugar de pasar por ellas rápidamente) construye la arquitectura cerebral de la resiliencia: más conexiones de recompensa, más recursos de regulación emocional disponibles.
 

@@ -17,7 +17,7 @@
 
 Elena tiene treinta y cuatro años y sus padres todavia la tratan como si tuviera catorce. Le preguntan con quien sale, le sugieren que coma mejor, le recuerdan que llame más. Nadie ha renegociado explicitamente la relación después de la infancia. El conflicto, silencioso pero constante, es el resultado de esa renegociación que nunca ocurrio.
 
-La relación entre padres e hijos adultos es una de las menos estudiadas y más difíciles de navegar, precisamente porque no existe un guion social claro de como debe ser. La relación padre-hijo pequeño tiene reglas claras: el padre cuida, decide, protege. La relación entre dos adultos que ademas son padre e hijo no tiene ese guion, y cada familia tiene que inventarlo, a menudo sin saber que lo esta haciendo.
+La relación entre padres e hijos adultos es una de las menos estudiadas y más difíciles de navegar, precisamente porque no existe un guion social claro de como debe ser. La relación padre-hijo pequeño tiene reglas claras: el padre cuida, decide, protege. La relación entre dos adultos que ademas son padre e hijo no tiene ese guion, y cada familia tiene que inventarlo, a menudo sin saber que lo está haciendo.
 
 ---
 

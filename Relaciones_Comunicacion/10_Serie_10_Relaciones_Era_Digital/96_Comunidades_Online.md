@@ -25,7 +25,7 @@ La necesidad humana fundamental de pertenecer a una comunidad con sentido compar
 
 **El Principio de la Tribu Reconfigurada:** Las comunidades online permiten conexión con personas que compartan intereses específicos, identidades, o experiencias, independientemente de la proximidad geografica que tradicionalmente limitaba esta posibilidad, generando una forma de pertenencia que puede ser genuinamente valiosa, aunque con caracteristicas distintas de las comunidades geograficas tradicionales.
 
-**Ejercicio inmediato:** Reflexiona sobre que necesidad específica de pertenencia buscas satisfacer a traves de tus comunidades online actuales, y si esa busqueda esta siendo genuinamente satisfecha.
+**Ejercicio inmediato:** Reflexiona sobre que necesidad específica de pertenencia buscas satisfacer a traves de tus comunidades online actuales, y si esa busqueda está siendo genuinamente satisfecha.
 
 Las comunidades online no son una versión inferior de la tribu humana tradicional. Son una forma reconfigurada que puede satisfacer necesidades reales, con sus propias caracteristicas específicas.
 

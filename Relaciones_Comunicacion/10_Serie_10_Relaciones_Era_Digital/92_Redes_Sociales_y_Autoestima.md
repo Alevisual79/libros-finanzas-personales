@@ -57,7 +57,7 @@ Lo que ves en redes sociales no es la vida de nadie. Es la versión editada y se
 
 ## Capítulo 4: Curar tu feed como curar tu entorno
 
-Gestionar deliberadamente el contenido al que se esta expuesto en redes sociales, similar a curar conscientemente cualquier otro aspecto del propio entorno, puede mejorar significativamente el impacto de estas plataformas en el bienestar.
+Gestionar deliberadamente el contenido al que se está expuesto en redes sociales, similar a curar conscientemente cualquier otro aspecto del propio entorno, puede mejorar significativamente el impacto de estas plataformas en el bienestar.
 
 **El Principio de la Curación Activa del Contenido:** Silenciar, dejar de seguir, o reducir la exposición a cuentas que generan comparación negativa consistente, mientras se aumenta la exposición a contenido que genuinamente aporta valor o inspiración positiva, es una forma de gestión activa del propio entorno digital, similar a cómo se gestionaria cualquier otro aspecto del entorno físico que afecta el bienestar.
 
@@ -107,7 +107,7 @@ Las imagenes que ves en redes sociales frecuentemente representan estandares edi
 
 El miedo a perderse experiencias que otros parecen estar viviendo, amplificado por la visibilidad constante de la actividad social de otros en redes, genera ansiedad específica que merece estrategias de gestión deliberadas.
 
-**El Principio del FOMO como Ansiedad Inducida por Visibilidad:** El miedo a perderse algo (FOMO) se intensifica específicamente por la visibilidad constante de las actividades de otros que las redes sociales proporcionan, generando una ansiedad que frecuentemente no refleja un deseo genuino de la actividad específica observada, sino una respuesta automática a la exposición de lo que se esta perdiendo en comparación con otros.
+**El Principio del FOMO como Ansiedad Inducida por Visibilidad:** El miedo a perderse algo (FOMO) se intensifica específicamente por la visibilidad constante de las actividades de otros que las redes sociales proporcionan, generando una ansiedad que frecuentemente no refleja un deseo genuino de la actividad específica observada, sino una respuesta automática a la exposición de lo que se está perdiendo en comparación con otros.
 
 **Ejercicio inmediato:** La próxima vez que experimentes FOMO al ver una actividad en redes sociales, evalua honestamente si realmente deseabas esa experiencia específica, o si el malestar viene principalmente de la comparación social que la visibilidad genera.
 

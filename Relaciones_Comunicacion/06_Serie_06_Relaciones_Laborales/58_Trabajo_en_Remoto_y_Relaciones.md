@@ -123,7 +123,7 @@ Mantener y transmitir una cultura organizacional coherente en un entorno complet
 
 **Ejercicio inmediato:** Reflexiona sobre que comportamientos visibles, más que documentos formales, estan realmente transmitiendo la cultura de tu organización remota. Esos comportamientos coinciden con los valores que la organización dice tener?
 
-La cultura de una empresa remota no vive en el documento de valores. Vive en cómo se comportan las personas cuando nadie esta mirando directamente.
+La cultura de una empresa remota no vive en el documento de valores. Vive en cómo se comportan las personas cuando nadie está mirando directamente.
 
 ---
 

@@ -37,7 +37,7 @@ El negocio que necesita que estes presente para funcionar no es un negocio. Es t
 
 Lucia ha aprendido que el emprendedor necesita tres sombreros diferentes y que el más común es el que menos ayuda a construir el negocio.
 
-**El Principio de los Tres Roles del Emprendedor como el Marco que Identifica en Que Rol Esta Pasando la Mayor Parte del Tiempo y Cual de los Tres Produce la Mayor Contribución al Negocio a Largo Plazo:** Gerber propone que el emprendedor exitoso tiene que gestionar tres roles: el técnico (el que hace el trabajo, el que produce el servicio o el producto), el directivo (el que organiza y gestiona el sistema para que el técnico pueda hacer su trabajo eficientemente), y el visionario o emprendedor (el que imagina el futuro del negocio y decide hacía donde ir). Los tres roles son necesarios pero tienen pesos diferentes en diferentes etapas.
+**El Principio de los Tres Roles del Emprendedor como el Marco que Identifica en Que Rol Está Pasando la Mayor Parte del Tiempo y Cual de los Tres Produce la Mayor Contribución al Negocio a Largo Plazo:** Gerber propone que el emprendedor exitoso tiene que gestionar tres roles: el técnico (el que hace el trabajo, el que produce el servicio o el producto), el directivo (el que organiza y gestiona el sistema para que el técnico pueda hacer su trabajo eficientemente), y el visionario o emprendedor (el que imagina el futuro del negocio y decide hacía donde ir). Los tres roles son necesarios pero tienen pesos diferentes en diferentes etapas.
 
 En las fases tempranas, el fundador necesita ser más técnico (porque no hay nadie más que lo haga). Pero a medida que el negocio crece, debe ir trasladando progresivamente el trabajo técnico a otros (empleados, freelancers, o sistemas) para poder dedicar más tiempo al rol directivo y al visionario.
 
@@ -57,7 +57,7 @@ Para el emprendedor en fases de transición del autoempleo al negocio, la constr
 
 **Ejercicio inmediato:** Esta semana, documenta el proceso de entrega de tu servicio o producto principal en menos de veinte pasos: ¿que ocurre desde que un cliente dice si hasta que recibe el resultado y queda satisfecho? Esa documentación no necesita ser perfecta: necesita ser lo suficientemente clara para que alguien sin experiencia previa pueda seguirla y producir un resultado aceptable. Ese documento es el primer activo del negocio que puede operar sin ti.
 
-El proceso que solo esta en tu cabeza es un activo que muere contigo. El que esta documentado es un activo de la empresa.
+El proceso que solo esta en tu cabeza es un activo que muere contigo. El que está documentado es un activo de la empresa.
 
 ---
 
@@ -135,7 +135,7 @@ El negocio que vale algo cuando lo vendes es el que vale algo mientras lo tienes
 
 Marcos ha tenido que revisar su modelo de negocio para asegurarse de que puede escalar sin que el crecimiento dependa de cuantas horas el puede trabajar.
 
-**El Principio del Modelo de Negocio Escalable como el que Permite Aumentar el Revenue sin un Incremento Proporcional en el Tiempo del Propietario o el Coste Operativo porque Esta Diseñado para Crecer sin Crear Cuellos de Botella:** Verne Harnish, en Scaling Up, propone que las empresas que logran escalar exitosamente tienen modelos de negocio donde el coste de servir a un cliente adicional decrece a medida que el volumen aumenta (economias de escala), y donde el crecimiento no requiere que el fundador trabaje más horas sino que el sistema trabaje más eficientemente.
+**El Principio del Modelo de Negocio Escalable como el que Permite Aumentar el Revenue sin un Incremento Proporcional en el Tiempo del Propietario o el Coste Operativo porque Está Diseñado para Crecer sin Crear Cuellos de Botella:** Verne Harnish, en Scaling Up, propone que las empresas que logran escalar exitosamente tienen modelos de negocio donde el coste de servir a un cliente adicional decrece a medida que el volumen aumenta (economias de escala), y donde el crecimiento no requiere que el fundador trabaje más horas sino que el sistema trabaje más eficientemente.
 
 Los modelos más escalables son los que tienen alguna combinación de: alta automatización del proceso de entrega, efectos de red (el producto es mejor con más usuarios), o alto margen que permite invertir en sistemas sin comprometer la rentabilidad.
 
@@ -149,7 +149,7 @@ El negocio que puede crecer sin que trabajes más horas es el que te da libertad
 
 Carlos ha llegado a entender que la transición del autoempleo al negocio no es un momento sino un proceso que puede tardar años pero que merece la inversión.
 
-**El Principio de la Transición del Autoempleo al Negocio como Proceso Gradual que Requiere la Construcción Progresiva de Sistemas, Equipo, y Procesos en Lugar de Como Transformación Inmediata:** Michael Gerber propone un proceso de tres fases para la transición: la innovation (diseñar el negocio ideal que queremos tener), la quantification (identificar las metricas que indican si el negocio ideal se esta acercando), y la orchestration (implementar los sistemas y procesos que producen los resultados medidos).
+**El Principio de la Transición del Autoempleo al Negocio como Proceso Gradual que Requiere la Construcción Progresiva de Sistemas, Equipo, y Procesos en Lugar de Como Transformación Inmediata:** Michael Gerber propone un proceso de tres fases para la transición: la innovation (diseñar el negocio ideal que queremos tener), la quantification (identificar las metricas que indican si el negocio ideal se está acercando), y la orchestration (implementar los sistemas y procesos que producen los resultados medidos).
 
 La investigación de Dan Sullivan sobre el crecimiento de emprendedores muestra que los que hacen la transición del autoempleo al negocio más exitosamente lo hacen de forma gradual: empiezan eliminando una dependencia del propietario cada trimestre, construyendo sistemas para sustituirla, y reinvirtiendo el tiempo liberado en las actividades de mayor valor estratégico.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Cuando Isabel le dice a su hijo siempre llegas tarde, no le esta dando información. Le esta lanzando un ataque. Aunque no lo pretenda. Aunque este convencida de que solo esta describiendo la realidad.
+Cuando Isabel le dice a su hijo siempre llegas tarde, no le está dando información. Le está lanzando un ataque. Aunque no lo pretenda. Aunque este convencida de que solo está describiendo la realidad.
 
 La forma en que hablamos a las personas que queremos puede acercarlas o alejarlas, independientemente de lo que queramos decir. El problema no es la intención. Es el lenguaje.
 
@@ -37,7 +37,7 @@ La violencia en la comunicación no es el volumen. Es la ausencia de conciencia 
 
 ## Capítulo 2: Observación vs interpretación
 
-Cuando Ruben dice mi jefe me ignora, no esta haciendo una observación. Esta haciendo una interpretación. La observación sería: en la última semana, mi jefe no me ha respondido tres mensajes y no me ha mirado en dos reuniones. La diferencia importa porque la interpretación ya contiene un juicio que activa defensividad. La observación abre la posibilidad de entender.
+Cuando Ruben dice mi jefe me ignora, no está haciendo una observación. Está haciendo una interpretación. La observación sería: en la última semana, mi jefe no me ha respondido tres mensajes y no me ha mirado en dos reuniones. La diferencia importa porque la interpretación ya contiene un juicio que activa defensividad. La observación abre la posibilidad de entender.
 
 **El Principio de la Camara de Video:** La observación en CNV es lo que una camara de video captaria: hechos concretos, específicos, verificables, sin adjetivos valorativos. Mi hijo ha llegado tarde tres veces esta semana es una observación. Mi hijo siempre llega tarde es una generalización. Mi hijo es irresponsable es un juicio. Solo la primera formulación permite una conversación.
 
@@ -65,7 +65,7 @@ Cuando nombras tu emoción real, el otro puede escucharte. Cuando lanzas un juic
 
 ## Capítulo 4: Necesidades: el corazón de la CNV
 
-Detras de cada crítica, de cada queja, de cada ataque verbal, hay una necesidad insatisfecha que no se esta expresando directamente. Cuando Isabel le dice a su marido nunca me ayudas, la necesidad real puede ser apoyo, reconocimiento, descanso o colaboración. Pero eso no es lo que dice. Dice nunca, que es una acusación.
+Detras de cada crítica, de cada queja, de cada ataque verbal, hay una necesidad insatisfecha que no se está expresando directamente. Cuando Isabel le dice a su marido nunca me ayudas, la necesidad real puede ser apoyo, reconocimiento, descanso o colaboración. Pero eso no es lo que dice. Dice nunca, que es una acusación.
 
 **El Principio de la Necesidad como Mensaje Real:** Rosenberg propone que toda comunicación, por destructiva que parezca en su forma, es un intento de satisfacer una necesidad. Los insultos son necesidades de ser escuchado expresadas de forma disfuncional. Las críticas son necesidades de mejora expresadas como ataques. Cuando aprendes a escuchar la necesidad detras del mensaje, la conversación cambia de nivel.
 
@@ -93,7 +93,7 @@ Una exigencia produce obediencia o resistencia. Una petición puede producir col
 
 ## Capítulo 6: Aplicar la CNV en conversaciones difíciles
 
-El momento en que más necesitas la CNV es exactamente el momento en que más difícil es aplicarla: cuando estas emocionalmente activado, cuando el otro esta atacando, cuando el conflicto ya empezó antes de que pudieras prepararte.
+El momento en que más necesitas la CNV es exactamente el momento en que más difícil es aplicarla: cuando estas emocionalmente activado, cuando el otro está atacando, cuando el conflicto ya empezó antes de que pudieras prepararte.
 
 **El Principio del Tiempo de Espera Emocional:** La CNV no se puede aplicar eficazmente cuando el sistema emocional esta completamente desbordado. El primer paso en una conversación difícil real es regularse a si mismo lo suficiente para poder acceder al proceso. Eso a veces significa pedir tiempo: necesito unos minutos antes de responder esto. No para evadir. Para poder estar presente cuando importa.
 
@@ -153,7 +153,7 @@ La CNV no se aprende en un libro ni en un taller. Se aprende aplicandola, equivo
 
 **El Principio del Proceso sobre la Perfección:** Nadie aplica la CNV perfectamente. El objetivo no es hablar siempre con el proceso completo en la cabeza. Es que los principios vayan permeando la forma de pensar sobre las relaciones: buscar la observación antes que el juicio, identificar la emoción real, conectar con la necesidad, hacer peticiones en lugar de exigencias. Esos cuatro habitos, aplicados gradualmente, cambian la calidad de toda la comunicación.
 
-**Ejercicio inmediato:** Esta semana, cada vez que vayas a criticar a alguien, para y pregúntate: ¿que necesidad mia no se esta satisfaciendo aquí? Luego piensa como podrías comunicar esa necesidad en lugar de la crítica. Hacerlo algunas veces es suficiente para empezar a cambiar el patron.
+**Ejercicio inmediato:** Esta semana, cada vez que vayas a criticar a alguien, para y pregúntate: ¿que necesidad mia no se está satisfaciendo aquí? Luego piensa como podrías comunicar esa necesidad en lugar de la crítica. Hacerlo algunas veces es suficiente para empezar a cambiar el patron.
 
 La CNV no es un lenguaje que se habla. Es una forma de ver que, con práctica, cambia todo lo que dices.
 

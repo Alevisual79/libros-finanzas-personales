@@ -25,7 +25,7 @@ La brecha entre el conocimiento intelectual de que una relación es dañina y la
 
 **El Principio de la Brecha entre Conocimiento y Acción:** Saber que una relación daña no activa automáticamente los recursos emocionales y prácticos necesarios para alejarse de ella, porque la decisión de alejarse compite con el vinculó de apego existente, el miedo a la incertidumbre del después, y frecuentemente la esperanza residual de que las cosas podrían cambiar. Cerrar esta brecha requiere más que conocimiento; requiere un proceso estructurado de preparación práctica y emocional.
 
-**Ejercicio inmediato:** Para una relación que sabes que necesitas dejar pero no has dejado, identifica específicamente que esta llenando la brecha entre tu conocimiento y tu acción: el vinculó de apego, el miedo a la incertidumbre, o la esperanza residual de cambio.
+**Ejercicio inmediato:** Para una relación que sabes que necesitas dejar pero no has dejado, identifica específicamente que está llenando la brecha entre tu conocimiento y tu acción: el vinculó de apego, el miedo a la incertidumbre, o la esperanza residual de cambio.
 
 Saber que algo te daña no te da automáticamente la capacidad de dejarlo. Esa capacidad requiere un proceso práctico que el conocimiento solo no proporciona.
 
@@ -47,7 +47,7 @@ Esperar sentirte suficientemente fuerte para salir de una relación toxica frecu
 
 Cuando es posible y apropiado tener una conversación explícita de alejamiento, formularla con claridad y sin excesiva justificación mejora la probabilidad de que se comunique efectivamente la decisión tomada.
 
-**El Principio de la Claridad sin Negociación Abierta:** Una conversación de alejamiento de una relación toxica se beneficia de formularse cómo una decisión ya tomada (he decidido alejarme de esta relación) en lugar de cómo una propuesta abierta a negociación (creo que deberiamos hablar de si esto esta funcionando), especialmente cuando la otra persona ha mostrado patrones de manipulación que podrían explotar cualquier apertura percibida.
+**El Principio de la Claridad sin Negociación Abierta:** Una conversación de alejamiento de una relación toxica se beneficia de formularse cómo una decisión ya tomada (he decidido alejarme de esta relación) en lugar de cómo una propuesta abierta a negociación (creo que deberiamos hablar de si esto está funcionando), especialmente cuando la otra persona ha mostrado patrones de manipulación que podrían explotar cualquier apertura percibida.
 
 **Ejercicio inmediato:** Si vas a tener una conversación de alejamiento, práctica formular tu mensaje cómo una decisión tomada y clara, sin abrir espacio para negociación extensa sobre si la decisión debería reconsiderarse.
 
@@ -99,7 +99,7 @@ Salir de una relación toxica, especialmente cuando involucra a una pareja de la
 
 **Ejercicio inmediato:** Si enfrentas presión externa para reconsiderar tu decisión de alejarte de una relación toxica, prepara una respuesta breve y firme que comunique tu decisión sin necesidad de justificar extensamente los detalles privados a quienes presionan.
 
-La presión externa para mantener una relación toxica frecuentemente viene de personas que no tienen el conocimiento completo de lo que realmente esta ocurriendo dentro de esa relación.
+La presión externa para mantener una relación toxica frecuentemente viene de personas que no tienen el conocimiento completo de lo que realmente está ocurriendo dentro de esa relación.
 
 ---
 

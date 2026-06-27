@@ -27,9 +27,9 @@ La ansiedad en las relaciones no ocurre en el vacio. Tiene raices en los patrone
 
 Mary Ainsworth, en sus investigaciones con el procedimiento de la situación extraña, identifico tres estilos de apego en bebes: el apego seguro (que se desarrolla cuando el cuidador es consistentemente responsivo), el apego ansioso-ambivalente (que se desarrolla cuando el cuidado es inconsistente: a veces disponible, a veces no), y el apego evitativo (que se desarrolla cuando el cuidado es sistemáticamente frio o rechazante). Estos estilos de apego infantil muestran continuidad estadistica con los estilos de apego adulto, aunque la experiencia posterior puede modificarlos.
 
-**Ejercicio inmediato:** Reflexiona sobre como te sientes en tus relaciones intimas cuando el otro no esta disponible (no responde mensajes, cancela planes, parece distante). Esa reacción es el modelo interno de trabajo en acción. No es solo sobre la relación actual. Es el eco de como experimentaste la disponibilidad de las figuras de cuidado temprano.
+**Ejercicio inmediato:** Reflexiona sobre como te sientes en tus relaciones intimas cuando el otro no está disponible (no responde mensajes, cancela planes, parece distante). Esa reacción es el modelo interno de trabajo en acción. No es solo sobre la relación actual. Es el eco de como experimentaste la disponibilidad de las figuras de cuidado temprano.
 
-La forma en que reaccionas cuando la persona que amas no esta disponible dice más sobre tu historia que sobre el presente.
+La forma en que reaccionas cuando la persona que amas no está disponible dice más sobre tu historia que sobre el presente.
 
 ---
 
@@ -99,7 +99,7 @@ La comunicación directa de la necesidad de apego (cuando estoy incertidumbre so
 
 **Ejercicio inmediato:** Para una necesidad relacional importante que tienes actualmente, práctica comunicarla en primera persona y con vulnerabilidad directa: no me haces sentir X (acusación) sino cuando ocurre Y, yo siento X y necesito Z (vulnerabilidad directa). La diferencia es la que existe entre atacar y pedir.
 
-La pareja que ataca al otro por no satisfacer una necesidad que nunca ha expresado claramente no esta pidiendo lo que necesita. Esta asegurandose de no conseguirlo.
+La pareja que ataca al otro por no satisfacer una necesidad que nunca ha expresado claramente no está pidiendo lo que necesita. Esta asegurandose de no conseguirlo.
 
 ---
 
@@ -147,7 +147,7 @@ La soledad que se siente en una relación no es sobre la relación. Es sobre lo 
 
 ## Capítulo 10: Construir relaciones más seguras desde la ansiedad de apego
 
-Ruben ha empezado a entender su patron de apego. No lo ha resuelto completamente. Pero ha ganado suficiente distancia observacional como para distinguir, en el calor de un episodio de ansiedad relacional, entre la realidad presente y el eco de experiencias pasadas que su sistema nervioso esta reproduciendo.
+Ruben ha empezado a entender su patron de apego. No lo ha resuelto completamente. Pero ha ganado suficiente distancia observacional como para distinguir, en el calor de un episodio de ansiedad relacional, entre la realidad presente y el eco de experiencias pasadas que su sistema nervioso está reproduciendo.
 
 **El Principio de la Conciencia del Patron como Primer Paso hacía la Elección:** La investigación de Mary Main sobre el apego adulto introdujó el concepto del adulto seguro-autonomo: no solo las personas que tuvieron apego seguro en la infancia, sino las personas que han podido integrar sus experiencias de apego, incluyendo las difíciles, en una narrativa coherente. Este adulto seguro-autonomo puede reconocer el patron, entender su origen, y elegir cómo responder en lugar de ser automáticamente gobernado por el.
 

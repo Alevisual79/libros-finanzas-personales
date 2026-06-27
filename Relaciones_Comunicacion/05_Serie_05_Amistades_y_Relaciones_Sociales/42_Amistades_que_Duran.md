@@ -37,9 +37,9 @@ La idea cultural de que los amigos de la infancia o la adolescencia son automát
 
 **El Principio de la Idealización Nostalgica:** La nostalgia hacía las amistades de juventud frecuentemente idealiza una conexión que existio en circunstancias muy distintas a las actuales (mismo contexto, mismas etapas de vida, mismo tiempo disponible) y que puede no sostenerse si las dos personas, ahora con vidas muy diferentes, intentaran reconstruirla desde cero hoy. Reconocer esto no devalua lo que esas amistades significaron, pero permite evaluar honestamente si siguen siendo amistades activas o si son, más precisamente, recuerdos compartidos valiosos.
 
-**Ejercicio inmediato:** Evalua honestamente una amistad antigua que conservas más por inercia o nostalgia que por conexión activa actual. Esta bien que sea lo que es. La claridad sobre que es realmente esa relación te libera de la presión de mantenerla como si fuera algo que ya no es.
+**Ejercicio inmediato:** Evalua honestamente una amistad antigua que conservas más por inercia o nostalgia que por conexión activa actual. Está bien que sea lo que es. La claridad sobre que es realmente esa relación te libera de la presión de mantenerla como si fuera algo que ya no es.
 
-No todos los amigos de siempre siguen siendo, realmente, amigos de ahora. Y eso esta bien.
+No todos los amigos de siempre siguen siendo, realmente, amigos de ahora. Y eso está bien.
 
 ---
 
@@ -97,7 +97,7 @@ Las amistades enfrentan tensiones significativas cuando las circunstancias de vi
 
 **El Principio de la Adaptación a la Divergencia:** Las amistades que sobreviven a divergencias significativas de circunstancias de vida son las que encuentran nuevas formas de conexión adaptadas a la nueva realidad, en lugar de aferrarse a la forma de relacionarse que funcionaba cuando las circunstancias eran similares. Esto puede significar cambiar el tipo de actividades compartidas, ajustar las expectativas de frecuencia de contacto, o simplemente aceptar una versión más modesta pero genuina de la conexión.
 
-**Ejercicio inmediato:** Si una amistad importante esta atravesando una divergencia significativa de circunstancias de vida, reflexiona sobre que nueva forma de conexión podría funcionar para la realidad actual de ambos, en lugar de intentar mantener la forma anterior que ya no es viable.
+**Ejercicio inmediato:** Si una amistad importante está atravesando una divergencia significativa de circunstancias de vida, reflexiona sobre que nueva forma de conexión podría funcionar para la realidad actual de ambos, en lugar de intentar mantener la forma anterior que ya no es viable.
 
 Las amistades que sobreviven a la divergencia de vidas no luchan contra el cambio. Se adaptan a el.
 

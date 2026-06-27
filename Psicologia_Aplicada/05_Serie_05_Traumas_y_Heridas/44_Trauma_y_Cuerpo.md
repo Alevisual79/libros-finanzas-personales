@@ -57,7 +57,7 @@ El SE trabaja con la conciencia de las sensaciones corporales (interoception), s
 
 **Ejercicio inmediato:** Identifica una parte de tu cuerpo que asocias con una sensación de bienestar o de seguridad: puede ser el calor del sol en la cara, la sensación de tus pies en el suelo, o la zona del pecho cuando el corazón esta tranquilo. Pasa treinta segundos prestando atención deliberada a esa sensación. Este ejercicio basico de recurso somatico es el punto de partida del trabajo del SE: establecer una base de seguridad en el cuerpo antes de explorar las zonas de tensión y de activación.
 
-El cuerpo que tiene zonas de seguridad puede explorar las de tensión con mayor seguridad. Encuentra primero lo que esta bien antes de ir hacía lo que duele.
+El cuerpo que tiene zonas de seguridad puede explorar las de tensión con mayor seguridad. Encuentra primero lo que está bien antes de ir hacía lo que duele.
 
 ---
 
@@ -77,7 +77,7 @@ El recuerdo que piensas en la cabeza se siente en el cuerpo. Trabajar solo con l
 
 ## Capítulo 5: La terapia sensoriomotriz: integrar el movimiento en el procesamiento
 
-Elena ha empezado una terapia sensoriomotriz con una terapeuta formada específicamente en este enfoque. Entiende poco de la teoria pero nota que algo diferente esta ocurriendo.
+Elena ha empezado una terapia sensoriomotriz con una terapeuta formada específicamente en este enfoque. Entiende poco de la teoria pero nota que algo diferente está ocurriendo.
 
 **El Principio del Movimiento como Lenguaje del Procesamiento del Trauma:** Pat Ogden, creadora de la Terapia Sensoriomotriz, propone que el cuerpo tiene su propio lenguaje que precede al lenguaje verbal: los impulsos de movimiento (que frecuentemente se interrumpieron durante el trauma porque la acción no fue posible o segura), las posturas defensivas, y los patrones de tensión y de colapso son expresiones de estados del sistema nervioso que pueden ser explorados y completados a traves del movimiento.
 
@@ -141,7 +141,7 @@ La investigación sobre la inflamación y el trauma (de Michael Maes y otros) mu
 
 **Ejercicio inmediato:** Identifica cual de los tres pilares biologicos (sueño, movimiento, o nutrición) esta más deteriorado en tu vida actual y tiene mayor impacto sobre tu bienestar y tu capacidad de regulación emocional. Diseña una intervención mínima pero consistente para ese pilar: no la versión perfecta sino la que puedes mantener.
 
-El cuerpo que sana del trauma necesita las condiciones biologicas para poder sanarse. No puedes procesar profundamente si el sistema esta operando en reserva.
+El cuerpo que sana del trauma necesita las condiciones biologicas para poder sanarse. No puedes procesar profundamente si el sistema está operando en reserva.
 
 ---
 

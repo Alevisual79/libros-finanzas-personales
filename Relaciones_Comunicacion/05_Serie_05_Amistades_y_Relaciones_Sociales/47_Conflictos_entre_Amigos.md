@@ -61,7 +61,7 @@ Las dinámicas de triangulación, similares a las que ocurren en sistemas famili
 
 **El Principio del Tercero como Complicador:** Cuando un amigo en común se involucra en un conflicto entre otros dos amigos, ya sea tomando partido, transmitiendo información entre las partes, o intentando mediar sin haber sido solicitado explicitamente, la dinámica de triangulación frecuentemente complica más la resolución que si las dos partes originales del conflicto se comunicaran directamente entre si.
 
-**Ejercicio inmediato:** Si estas en medio de un conflicto entre dos amigos, evalua si tu involucramiento esta ayudando a resolver el conflicto o simplemente lo esta prolongando al permitir que las partes evadan la comunicación directa entre ellas.
+**Ejercicio inmediato:** Si estas en medio de un conflicto entre dos amigos, evalua si tu involucramiento está ayudando a resolver el conflicto o simplemente lo está prolongando al permitir que las partes evadan la comunicación directa entre ellas.
 
 El mejor regalo que puedes dar a dos amigos en conflicto no es tomar partido. Es animarlos a hablar directamente entre ellos.
 
@@ -97,7 +97,7 @@ Recibir una disculpa de un amigo, especialmente después de un conflicto signifi
 
 **El Principio de la Aceptación sin Presión de Resolución Instantanea:** Recibir una disculpa genuina no obliga a sentir que el conflicto esta completamente resuelto de inmediato. Es posible aceptar una disculpa, reconocer el esfuerzo de reparación, y aun necesitar tiempo para que la confianza y la comodidad en la relación se restablezcan completamente.
 
-**Ejercicio inmediato:** Si has recibido recientemente una disculpa de un amigo, permite que tus propias emociones residuales (cualquier desconfianza o incomodidad persistente) tengan su propio tiempo de procesamiento, sin presionarte a sentir que todo esta resuelto solo porque la conversación de disculpa ya ocurrio.
+**Ejercicio inmediato:** Si has recibido recientemente una disculpa de un amigo, permite que tus propias emociones residuales (cualquier desconfianza o incomodidad persistente) tengan su propio tiempo de procesamiento, sin presionarte a sentir que todo está resuelto solo porque la conversación de disculpa ya ocurrio.
 
 Aceptar una disculpa no es lo mismo que sentirte completamente bien de inmediato. Ambos procesos tienen su propio tiempo.
 
@@ -105,7 +105,7 @@ Aceptar una disculpa no es lo mismo que sentirte completamente bien de inmediato
 
 ## Capítulo 8: Cuando el conflicto no se resuelve
 
-No todos los conflictos de amistad logran resolverse completamente, incluso con buena voluntad de ambas partes, y aceptar esta realidad permite gestionar la relación de forma más realista que insistir en una resolución que no esta ocurriendo.
+No todos los conflictos de amistad logran resolverse completamente, incluso con buena voluntad de ambas partes, y aceptar esta realidad permite gestionar la relación de forma más realista que insistir en una resolución que no está ocurriendo.
 
 **El Principio de la Resolución Parcial como Resultado Valido:** Algunos conflictos de amistad, especialmente los que involucran diferencias fundamentales de valores o de forma de relacionarse, pueden no resolverse completamente incluso después de conversaciones genuinas. Aceptar una resolución parcial (entender mejor la perspectiva del otro, sin necesariamente estar de acuerdo, y decidir continuar la amistad con esa diferencia reconocida) puede ser más realista y sostenible que insistir en una resolución completa que no es posible.
 

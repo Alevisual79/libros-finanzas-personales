@@ -176,7 +176,7 @@ El profesional que construye, refina y actualiza su stack tiene una ventaja que 
 
 Las mejores herramientas no se sienten como herramientas: se sienten como extensiones naturales del pensamiento.
 
-Cuando el stack esta bien construido, no piensas en las herramientas. Piensas en el trabajo. Las herramientas simplemente hacen posible lo que de otra forma no sería posible.
+Cuando el stack está bien construido, no piensas en las herramientas. Piensas en el trabajo. Las herramientas simplemente hacen posible lo que de otra forma no sería posible.
 
 Eso es lo que vale la pena construir.
 

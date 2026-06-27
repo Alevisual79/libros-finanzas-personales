@@ -29,7 +29,7 @@ La implicación práctica: los entornos muy estimulantes (fiestas numerosas, ofi
 
 **Ejercicio inmediato:** Reflexiona sobre tu patron energético en situaciones sociales: ¿te sientes más energizado o más agotado después de una reunión de trabajo con muchas personas? ¿Después de una conversation profunda uno a uno con alguien que te importa? Si la reunión agota y la conversation profunda recarga, es un patron típico de introversión.
 
-El introvertido que actua como extravertido en los entornos que lo requieren no esta siendo inautentico. Esta pagando un costo energético que el extravertido no paga.
+El introvertido que actua como extravertido en los entornos que lo requieren no está siendo inautentico. Está pagando un costo energético que el extravertido no paga.
 
 ---
 
@@ -85,7 +85,7 @@ La investigación neuroquimica de Robert Depue y colegas sugiere que los extrave
 
 **Ejercicio inmediato:** Diseña tu protocolo de recarga para después de los eventos sociales de alta estimulación (reuniones de trabajo, eventos sociales numerosos). El protocolo puede incluir tiempo solo (caminar sin auriculares, leer, descanso), actividad de baja estimulación, o simplemente no programar compromisos sociales en las horas posteriores. Tener el protocolo designado reduce el costo energético de los eventos.
 
-El introvertido que no recarga no es mal introvertido. Es un introvertido que esta acumulando una deuda de activación que pagara de alguna forma.
+El introvertido que no recarga no es mal introvertido. Es un introvertido que está acumulando una deuda de activación que pagara de alguna forma.
 
 ---
 
@@ -95,7 +95,7 @@ Isabel es introvertida y su pareja es extravertida. Las diferencias en necesidad
 
 **El Principio de las Diferencias en Extraversión como Fuente de Conflicto Relacional Manejable:** Las parejas con diferencias significativas en extraversión frecuentemente experimentan tensión alrededor de la cantidad y el tipo de actividad social: el extravertido quiere más eventos sociales, más interacción con amigos, más salidas; el introvertido necesita más tiempo en casa, más conversaciones profundas, y más quietud.
 
-Esta tensión no es irresoluble pero requiere comprensión de lo que las necesidades del otro expresan: el extravertido que busca salidas no esta rechazando la intimidad sino alimentando un sistema de activación que la introversión del otro no necesita de la misma forma. La negociación sobre el volumen de actividad social es una negociación sobre necesidades biologicamente diferentes, no sobre preferencias arbitrarias.
+Esta tensión no es irresoluble pero requiere comprensión de lo que las necesidades del otro expresan: el extravertido que busca salidas no está rechazando la intimidad sino alimentando un sistema de activación que la introversión del otro no necesita de la misma forma. La negociación sobre el volumen de actividad social es una negociación sobre necesidades biologicamente diferentes, no sobre preferencias arbitrarias.
 
 **Ejercicio inmediato:** Si tienes diferencias de extraversión con una persona importante en tu vida, reflexiona: ¿en las situaciones de tensión sobre actividad social, hay una formula de negociación que podría funcionar para ambos? El introvertido puede comprometerse a un mayor volumen de actividad social de lo que prefiere espontaneamente; el extravertido puede comprometerse a más tiempo de calidad en casa. La clave es que ambos reconozcan las necesidades del otro como legitimas, no como caprichos.
 

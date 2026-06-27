@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena lleva semanas bloqueada en un problema de arquitectura de software que no logra resolver. Ha probado los enfoques obvios. Ha consultado documentación. Ha pedido opinión a colegas con más experiencia. Nada funciona. La solución llega, finalmente, en la ducha de una mañana, cuando no esta pensando en el problema en absoluto. No es casualidad ni suerte. Es el resultado de un proceso cognitivo específico que el cerebro lleva a cabo precisamente cuando se aparta del esfuerzo deliberado sobre el problema.
+Elena lleva semanas bloqueada en un problema de arquitectura de software que no logra resolver. Ha probado los enfoques obvios. Ha consultado documentación. Ha pedido opinión a colegas con más experiencia. Nada funciona. La solución llega, finalmente, en la ducha de una mañana, cuando no está pensando en el problema en absoluto. No es casualidad ni suerte. Es el resultado de un proceso cognitivo específico que el cerebro lleva a cabo precisamente cuando se aparta del esfuerzo deliberado sobre el problema.
 
 ---
 
@@ -93,7 +93,7 @@ La libertad total es el paraiso de la procrastinación y el desierto de la creat
 
 Isabel tiene las mejores ideas en los momentos menos esperados: mientras conduce, duchándose, en medio de la noche. Nunca ha entendido por qué ocurre asi. La neurociencia tiene una explicación precisa.
 
-**El Principio de la Red de Modo Default como Motor de Incubación:** La red de modo default (Default Mode Network) es un conjunto de regiones cerebrales que se activa cuando el cerebro no esta enfocado en una tarea dirigida externamente: durante la ensoñación, la memoria episodica, la planificación del futuro y la mentalización. Marcus Raichle, neurocientifico de Washington University que identifico esta red, y posteriormente Roger Beaty y sus colegas, mostraron que la DMN tiene un rol central en los procesos creativos, especialmente en la generación de conexiones remotas entre conceptos que el pensamiento focalizado no establece.
+**El Principio de la Red de Modo Default como Motor de Incubación:** La red de modo default (Default Mode Network) es un conjunto de regiones cerebrales que se activa cuando el cerebro no está enfocado en una tarea dirigida externamente: durante la ensoñación, la memoria episodica, la planificación del futuro y la mentalización. Marcus Raichle, neurocientifico de Washington University que identifico esta red, y posteriormente Roger Beaty y sus colegas, mostraron que la DMN tiene un rol central en los procesos creativos, especialmente en la generación de conexiones remotas entre conceptos que el pensamiento focalizado no establece.
 
 Los estudios de imagenes cerebrales durante el insight creativo muestran que el momento del eureka se asocia con una activación sincronizada de la DMN y otras redes, incluyendo las de control ejecutivo, que raramente ocurre durante el pensamiento deliberado convergente. En otras palabras, el cerebro descansado que divaga es activamente creativo de formas que el cerebro concentrado en el problema no puede ser.
 

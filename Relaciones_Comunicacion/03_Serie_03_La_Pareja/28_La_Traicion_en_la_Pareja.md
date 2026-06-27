@@ -149,7 +149,7 @@ La relación que sobrevive a una traición no es la misma que existia antes. Tie
 
 ## Epílogo
 
-No todas las traiciones se perdonan, y no todas las relaciones sobreviven a ellas, ni deberían hacerlo necesariamente. Pero las parejas que atraviesan este proceso, sea hacía la reconstrucción o hacía un cierre digno, lo hacen mejor cuando entienden lo que esta pasando, se dan el tiempo necesario y buscan el apoyo adecuado.
+No todas las traiciones se perdonan, y no todas las relaciones sobreviven a ellas, ni deberían hacerlo necesariamente. Pero las parejas que atraviesan este proceso, sea hacía la reconstrucción o hacía un cierre digno, lo hacen mejor cuando entienden lo que está pasando, se dan el tiempo necesario y buscan el apoyo adecuado.
 
 El dolor de la traición es real y profundo. Pero no tiene por qué ser el final de la capacidad de confiar, ni en esta relación ni en las que vengan después, si se procesa con el cuidado que merece.
 

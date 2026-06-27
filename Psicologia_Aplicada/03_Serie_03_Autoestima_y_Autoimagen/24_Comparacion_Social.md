@@ -71,7 +71,7 @@ Jean Twenge, psicologa que ha estudiado el efecto de las pantallas en el bienest
 
 **Ejercicio inmediato:** Diseña un experimento de una semana: reduce el uso pasivo de redes sociales (scroll sin objetivo específico) a un máximo de veinte minutos diarios, concentrado en momentos específicos del dia. Evalua al final de la semana si hay diferencia en tu nivel de satisfacción con tu vida comparada con la semana anterior.
 
-La satisfacción con tu vida no debería fluctuar segun el tiempo que pasas mirando la vida de otros. Cuando lo hace, es una señal de que la comparación te esta gobernando.
+La satisfacción con tu vida no debería fluctuar segun el tiempo que pasas mirando la vida de otros. Cuando lo hace, es una señal de que la comparación te está gobernando.
 
 ---
 
@@ -79,7 +79,7 @@ La satisfacción con tu vida no debería fluctuar segun el tiempo que pasas mira
 
 Ruben quiere dejar de compararse con los demás pero no sabe bien con que reemplazar esa referencia. La respuesta es un tipo diferente de comparación: con uno mismo a lo largo del tiempo.
 
-**El Principio de la Comparación Temporal como Alternativa Funcional:** Martin Seligman y sus colegas de la psicología positiva proponen la comparación temporal (compararse con versiones anteriores de uno mismo) cómo una alternativa a la comparación social que preserva el valor informativo de la comparación (saber si se esta progresando) sin los costes de bienestar de la comparación social. La pregunta clave cambia de soy mejor que X a estoy mejor que quien era hace un año?
+**El Principio de la Comparación Temporal como Alternativa Funcional:** Martin Seligman y sus colegas de la psicología positiva proponen la comparación temporal (compararse con versiones anteriores de uno mismo) cómo una alternativa a la comparación social que preserva el valor informativo de la comparación (saber si se está progresando) sin los costes de bienestar de la comparación social. La pregunta clave cambia de soy mejor que X a estoy mejor que quien era hace un año?
 
 Esta forma de comparación tiene varias ventajas sobre la social: usa un grupo de referencia (tu mismo en el pasado) que comparte el mismo punto de partida, el mismo contexto y las mismas limitaciones que tu presente, elimina el problema del sesgo de selección del grupo de referencia, y produce un estandar que es por definición alcanzable porque ya has estado ahí.
 
@@ -95,7 +95,7 @@ Elena se compara con personas que tienen éxito en dimensiones que, cuando piens
 
 **El Principio de la Relevancia de Valores como Filtro de la Comparación:** Sheldon Solomon, Jeff Greenberg y Tom Pyszczynski, en su teoria del manejo del terror, proponen que la autoestima funciona en gran medida cómo un buffer ante la ansiedad existencial: sentirse valioso en las dimensiones que la cultura o el grupo definen como importantes. El problema es que las dimensiones que la cultura define como importantes (dinero, estatus, apariencia, éxito visible) pueden no ser las dimensiones que más importan a nivel individual.
 
-Identificar claramente los propios valores y compararse (cuando se hace) solo en las dimensiones que se alinean con esos valores reduce significativamente el impacto de la comparación social adversa. La persona que se compara en éxito financiero cuando lo que más valora es la profundidad de sus relaciones esta siendo gobernada por un estandar externo que no refleja sus propios criterios de una vida bien vivida.
+Identificar claramente los propios valores y compararse (cuando se hace) solo en las dimensiones que se alinean con esos valores reduce significativamente el impacto de la comparación social adversa. La persona que se compara en éxito financiero cuando lo que más valora es la profundidad de sus relaciones está siendo gobernada por un estandar externo que no refleja sus propios criterios de una vida bien vivida.
 
 **Ejercicio inmediato:** Identifica los tres dominios en los que te comparas más frecuentemente con otros. Luego identifica tus tres valores más importantes. Hay alineación o desalineación entre esos dominios de comparación y esos valores? Si hay desalineación, eso explica parcialmente por qué la comparación produce malestar sin orientar hacía nada que genuinamente te importa.
 

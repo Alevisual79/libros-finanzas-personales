@@ -73,7 +73,7 @@ Es común que las dos personas en una relación lleguen a estar listas para la e
 
 **El Principio de la Asimetria Temporal como Realidad Normal:** Las personas procesan la disponibilidad para el compromiso a ritmos diferentes, influidos por su historia personal, sus experiencias previas y su nivel actual de seguridad emocional. Esta asimetria, cuando se comunica honestamente (necesito más tiempo, no es un no definitivo) en lugar de ocultarse o forzarse, puede gestionarse sin que necesariamente termine la relación.
 
-**Ejercicio inmediato:** Si enfrentas una asimetria temporal en tu relación (tu listo para más compromiso, el otro no, o viceversa), considera como podrías comunicar honestamente esa diferencia sin presionar para una resolución inmediata que el otro no esta listo para dar.
+**Ejercicio inmediato:** Si enfrentas una asimetria temporal en tu relación (tu listo para más compromiso, el otro no, o viceversa), considera como podrías comunicar honestamente esa diferencia sin presionar para una resolución inmediata que el otro no está listo para dar.
 
 Que los tiempos no coincidan no significa que la relación no funcione. Significa que necesita paciencia y comunicación honesta sobre esa diferencia.
 

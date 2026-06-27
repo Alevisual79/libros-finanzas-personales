@@ -23,7 +23,7 @@ Elena hace lo que su amiga quiere porque, de lo contrario, se siente culpable de
 
 La manipulación emocional se define como el uso deliberado o habitual de tacticas psicológicas para influir en el comportamiento de otra persona a traves de sus emociones, de forma que sirva primariamente a los intereses de quien manipula.
 
-**El Principio de la Distinción entre Influencia Legitima y Manipulación:** La diferencia clave entre la influencia relacional legitima (pedir algo honestamente, expresar una necesidad) y la manipulación emocional es la transparencia y el respeto a la autonomía del otro. La influencia legitima es honesta sobre lo que se pide y por qué, y respeta el derecho del otro a decir no. La manipulación oculta sus verdaderas intenciones detras de tacticas que explotan vulnerabilidades emocionales para obtener cumplimiento sin que la otra persona perciba claramente lo que esta ocurriendo.
+**El Principio de la Distinción entre Influencia Legitima y Manipulación:** La diferencia clave entre la influencia relacional legitima (pedir algo honestamente, expresar una necesidad) y la manipulación emocional es la transparencia y el respeto a la autonomía del otro. La influencia legitima es honesta sobre lo que se pide y por qué, y respeta el derecho del otro a decir no. La manipulación oculta sus verdaderas intenciones detras de tacticas que explotan vulnerabilidades emocionales para obtener cumplimiento sin que la otra persona perciba claramente lo que está ocurriendo.
 
 **Ejercicio inmediato:** Para una solicitud reciente que te generaste sentir obligado a cumplir, evalua si fue una petición honesta y transparente, o si involucro tacticas que explotaron tus emociones para obtener tu cumplimiento.
 
@@ -33,7 +33,7 @@ La manipulación emocional se distingue de la petición honesta por su falta de 
 
 ## Capítulo 2: Las técnicas más comunes de manipulación
 
-Identificar las tacticas específicas de manipulación emocional, más que tener solo una impresión general de que algo no esta bien, facilita su reconocimiento cuando ocurren en tiempo real.
+Identificar las tacticas específicas de manipulación emocional, más que tener solo una impresión general de que algo no está bien, facilita su reconocimiento cuando ocurren en tiempo real.
 
 **El Principio de la Taxonomia de Tacticas:** Las técnicas de manipulación emocional más comunes incluyen la inducción de culpa, el victimismo estratégico, el silencio punitivo, la triangulación con terceros, el gaslighting sobre la realidad compartida, y el amor condicionado (retirar afecto como castigo o recompensa por cumplimiento). Cada una opera a traves de un mecanismo psicológico específico que se beneficia de ser entendido individualmente.
 

@@ -63,7 +63,7 @@ El defecto que tienes en un contexto puede ser exactamente el activo que necesit
 
 ## Capítulo 4: El reencuadre de perspectiva temporal
 
-Ruben esta viviendo una crisis que le parece enorme en el presente. La perspectiva temporal es una de las herramientas de reencuadre más poderosas.
+Ruben está viviendo una crisis que le parece enorme en el presente. La perspectiva temporal es una de las herramientas de reencuadre más poderosas.
 
 **El Principio de la Perspectiva Temporal como Amplificador o Reductor del Significado:** Los eventos tienen diferentes significados dependiendo del marcó temporal desde el que se evaluan. Lo que hoy parece una catastrofe puede ser, desde la perspectiva de cinco años, el punto de inflexion que cambio la trayectoria. Lo que hoy parece trivial puede tener consecuencias que solo serán visibles en retrospectiva.
 
@@ -107,11 +107,11 @@ El fracaso que procesas como información te hace más capaz. El que solo te hac
 
 Isabel vive con altos niveles de estres y los interpreta como señal de que algo esta mal. La investigación tiene una perspectiva diferente que puede cambiar su relación con el estres.
 
-**El Principio del Reencuadre del Estres como Recurso:** Kelly McGonigal, psicóloga de Stanford, propuso un reencuadre del estres basado en la investigación de Alia Crum y colegas: la creencia de que el estres es perjudicial para la salud se asocia con peores outcomes de salud que la creencia de que el estres es una señal de que algo importa y que el cuerpo se esta preparando para afrontarlo.
+**El Principio del Reencuadre del Estres como Recurso:** Kelly McGonigal, psicóloga de Stanford, propuso un reencuadre del estres basado en la investigación de Alia Crum y colegas: la creencia de que el estres es perjudicial para la salud se asocia con peores outcomes de salud que la creencia de que el estres es una señal de que algo importa y que el cuerpo se está preparando para afrontarlo.
 
 Crum y colegas muestran que simplemente informar a las personas de los beneficios potenciales del estres (mayor atención, mayor energía, mayor movilización de recursos) antes de una situación estresante produce mejores outcomes fisiologicos y cognitivos que informarles de sus costes. El marcó desde el que se interpreta la respuesta de estres modifica los efectos fisiologicos del estres.
 
-**Ejercicio inmediato:** La próxima vez que notes los signos físicos del estres (corazón acelerado, tensión muscular, mayor alerta), en lugar de interpretar esos signos como señal de que algo esta mal, reformula: mi cuerpo se esta preparando para afrontar algo que me importa. Esta reformulación no es negación del estres: es un cambio en el marcó que modifica su efecto.
+**Ejercicio inmediato:** La próxima vez que notes los signos físicos del estres (corazón acelerado, tensión muscular, mayor alerta), en lugar de interpretar esos signos como señal de que algo esta mal, reformula: mi cuerpo se está preparando para afrontar algo que me importa. Esta reformulación no es negación del estres: es un cambio en el marcó que modifica su efecto.
 
 El estres no es tu enemigo. Es la señal de que algo te importa lo suficiente como para qué tu cuerpo se movilice por ello.
 
@@ -139,7 +139,7 @@ Ruben ha visto como el reencuadre puede usarse de forma no saludable: para negar
 
 Viktor Frankl propuso que el ser humano puede elegir la actitud ante cualquier condición pero no puede elegir la condición: el reencuadre trabaja con la actitud, no con la realidad. Cuando la realidad requiere acción (una situación injusta, una relación abusiva, un daño real), el reencuadre que sustituye la acción es escapismo, no crecimiento.
 
-**Ejercicio inmediato:** Para las situaciones donde uses el reencuadre, verifica: ¿este reencuadre me permite tomar la acción necesaria o me esta dando una razón para no tomarla? Si lo segundo, puede estar funcionando como racionalización de la evitación.
+**Ejercicio inmediato:** Para las situaciones donde uses el reencuadre, verifica: ¿este reencuadre me permite tomar la acción necesaria o me está dando una razón para no tomarla? Si lo segundo, puede estar funcionando como racionalización de la evitación.
 
 El reencuadre que te ayuda a actuar es una herramienta. El que te da razones para no actuar cuando debería es una trampa.
 

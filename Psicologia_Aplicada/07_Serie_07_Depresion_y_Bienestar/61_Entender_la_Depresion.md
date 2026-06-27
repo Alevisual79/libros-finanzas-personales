@@ -99,7 +99,7 @@ La investigación de Stefan Klein sobre los circuitos de recompensa en la depres
 
 **Ejercicio inmediato:** Piensa en las tres o cuatro actividades que más disfrutabas hace un año. ¿Cuantas de ellas sigues disfrutando en la misma medida? Si la respuesta es ninguna o muy pocas, y eso lleva más de dos semanas, ese cambio en la capacidad de disfrute es información relevante sobre tu estado actual.
 
-Cuando la vida pierde color no es que la vida haya cambiado. Es que el sistema que percibe el color no esta funcionando bien.
+Cuando la vida pierde color no es que la vida haya cambiado. Es que el sistema que percibe el color no está funcionando bien.
 
 ---
 

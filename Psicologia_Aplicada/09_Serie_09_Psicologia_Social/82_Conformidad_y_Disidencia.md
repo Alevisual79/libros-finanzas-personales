@@ -111,7 +111,7 @@ Ruben ha visto en el mundo real que la disidencia tiene costes que la investigac
 
 La investigación de Charlan Nemeth sobre el valor del disidente en los grupos muestra, sin embargo, que los grupos que tienen disidentes producen soluciones más creativas y detectan más errores que los grupos sin disidentes, aunque los disidentes sean frecuentemente percibidos como molestos por los miembros del grupo.
 
-**Ejercicio inmediato:** Para la próxima vez que consideres expresar una disidencia con costes relacionales reales, reflexiona sobre el coste de no decirlo: ¿la decisión que el grupo esta tomando tiene consecuencias reales negativas que podrían evitarse? La disidencia que decides expresar o no depende de la proporción entre el coste de expresarla y el beneficio de que tu perspectiva este en la mesa.
+**Ejercicio inmediato:** Para la próxima vez que consideres expresar una disidencia con costes relacionales reales, reflexiona sobre el coste de no decirlo: ¿la decisión que el grupo está tomando tiene consecuencias reales negativas que podrían evitarse? La disidencia que decides expresar o no depende de la proporción entre el coste de expresarla y el beneficio de que tu perspectiva este en la mesa.
 
 La disidencia valiente no es la que no tiene coste. Es la que decide que el coste merece la pena.
 
@@ -149,7 +149,7 @@ La disidencia que no prácticas en lo pequeño no la tendras disponible en lo gr
 
 Elena ha llegado a entender que la independencia de criterio no es un rasgo de personalidad que se tiene o no se tiene. Es una práctica.
 
-**El Principio de la Independencia de Criterio como práctica Sostenida, no Rasgo Fijo:** La investigación de Jonathan Haidt sobre el razonamiento moral muestra que los seres humanos frecuentemente racionalizan posiciones que han adoptado por presión social en lugar de razonarlas de forma genuinamente independiente. La independencia de criterio no es la ausencia de influencia social (eso es imposible) sino la capacidad de reconocer cuando la influencia social esta operando y de elegir conscientemente si ceder o no a ella.
+**El Principio de la Independencia de Criterio como práctica Sostenida, no Rasgo Fijo:** La investigación de Jonathan Haidt sobre el razonamiento moral muestra que los seres humanos frecuentemente racionalizan posiciones que han adoptado por presión social en lugar de razonarlas de forma genuinamente independiente. La independencia de criterio no es la ausencia de influencia social (eso es imposible) sino la capacidad de reconocer cuando la influencia social está operando y de elegir conscientemente si ceder o no a ella.
 
 La investigación de Cass Sunstein sobre el deliberation day y las camaras de eco muestra que la exposición deliberada a perspectivas diferentes (especialmente de personas con las que no estamos de acuerdo) mantiene activa la capacidad de revisión crítica de las propias creencias.
 

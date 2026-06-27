@@ -15,11 +15,11 @@
 
 ## Prólogo
 
-Ruben sabe que algo va mal en la relación con su novia. No sabe exactamente que siente. Tampoco sabe decirlo. Cuando ella le pregunta que le pasa, el dice nada, estoy bien. No esta mintiendo intencionalmente. Genuinamente no tiene acceso a lo que siente con suficiente precisión para nombrarlo.
+Ruben sabe que algo va mal en la relación con su novia. No sabe exactamente que siente. Tampoco sabe decirlo. Cuando ella le pregunta que le pasa, el dice nada, estoy bien. No está mintiendo intencionalmente. Genuinamente no tiene acceso a lo que siente con suficiente precisión para nombrarlo.
 
 La inteligencia emocional no es sentir más. Es entender que sientes y por qué.
 
-Las emociones en el contexto relacional son el idioma más importante que existe. Cuando no sabes leerlo en ti mismo, no puedes comunicarte de verdad con nadie. Cuando no sabes leerlo en el otro, no puedes entender lo que te esta diciendo aunque hable en voz alta.
+Las emociones en el contexto relacional son el idioma más importante que existe. Cuando no sabes leerlo en ti mismo, no puedes comunicarte de verdad con nadie. Cuando no sabes leerlo en el otro, no puedes entender lo que te está diciendo aunque hable en voz alta.
 
 Este libro no es sobre suprimir emociones ni sobre expresarlas todas sin filtro. Es sobre aprender a leer el idioma emocional con suficiente fluidez para qué tus relaciones más importantes no dependan de que el otro adivine lo que sientes porque tu tampoco lo sabes.
 
@@ -63,7 +63,7 @@ Hay emociones que aparecen casi exclusivamente en el contexto de las relaciones:
 
 Jonathan Turner, sociologo de las emociones, clasifica las emociones sociales en cuatro familias: las que regulan la cohesión grupal (amor, orgullo, lealtad), las que regulan el rango y el estatus (vergüenza, culpa, envidia), las que regulan el intercambio (gratitud, obligación, resentimiento) y las que regulan la percepción de amenaza (miedo, ira, desconfianza).
 
-**Ejercicio inmediato:** Elige una emoción relacional que sientas frecuentemente y que te sea difícil gestionar: celos, culpa, vergüenza, resentimiento. Pregúntate: ¿que me esta diciendo esta emoción sobre el estado de esta relación? ¿Que información contiene que estoy ignorando?
+**Ejercicio inmediato:** Elige una emoción relacional que sientas frecuentemente y que te sea difícil gestionar: celos, culpa, vergüenza, resentimiento. Pregúntate: ¿que me está diciendo esta emoción sobre el estado de esta relación? ¿Que información contiene que estoy ignorando?
 
 Las emociones no son el problema. Son el mensajero. Matar al mensajero no resuelve el mensaje.
 
@@ -75,9 +75,9 @@ Hay personas que con solo entrar en una habitación te ponen de mal humor. Hay p
 
 **El Principio de los Activadores Relacionales:** Los demás no crean las emociones en nosotros. Activan emociones que ya estaban ahí, en forma de potencial, esperando el estímulo adecuado. Una persona que te activa ansiedad no es la fuente de tu ansiedad. Es la llave que abre la cerradura que ya existia en ti. Entender esto cambia radicalmente la responsabilidad emocional: el otro no es responsable de lo que sientes aunque sea el activador.
 
-Daniel Stern, psicoanalista suizo, describió los RIGs (Representaciones Generalizadas de las Interacciones), modelos internos de cómo se sienten ciertas interacciones, que se forman en la primera infancia y se reactivan en relaciones adultas similares. Cuando alguien te activa una emoción intensa sin razón aparente, probablemente esta activando un RIG antiguo.
+Daniel Stern, psicoanalista suizo, describió los RIGs (Representaciones Generalizadas de las Interacciones), modelos internos de cómo se sienten ciertas interacciones, que se forman en la primera infancia y se reactivan en relaciones adultas similares. Cuando alguien te activa una emoción intensa sin razón aparente, probablemente está activando un RIG antiguo.
 
-**Ejercicio inmediato:** Piensa en una persona que te activa emociones intensas de forma consistente. Quitando a esa persona del análisis, que sientes cuando estas cerca de ella? Ahora pregúntate: ¿cuando fue la primera vez que senti algo similar? La respuesta apunta al RIG que se esta activando.
+**Ejercicio inmediato:** Piensa en una persona que te activa emociones intensas de forma consistente. Quitando a esa persona del análisis, que sientes cuando estas cerca de ella? Ahora pregúntate: ¿cuando fue la primera vez que senti algo similar? La respuesta apunta al RIG que se está activando.
 
 Lo que sientes ante el otro te dice más sobre ti que sobre el otro.
 
@@ -101,7 +101,7 @@ La reacción te controla. La respuesta es tuya.
 
 La ira de Elena llega de cero a cien en segundos. Luego dice cosas que luego lamenta. El miedo de Ruben lo paraliza cuando hay conflicto: siente que si dice algo va a romper algo irreparable. La tristeza de Isabel se convierte en cierre: se retira, no llama, no pide. Cada uno gestiona las tres grandes emociones difíciles de una forma que hace exactamente lo contrario de lo que necesita.
 
-**El Principio de la Regulación Adaptativa:** Gestionar una emoción no significa suprimirla. Significa regularla: reducir su intensidad cuando esta desbordando o amplificarla cuando esta ausente pero debería estar presente. La ira gestionada bien comunica un límite violado. El miedo gestionado bien protege. La tristeza gestionada bien elabora una perdida. Las mismas emociones, gestionadas mal, destruyen relaciones.
+**El Principio de la Regulación Adaptativa:** Gestionar una emoción no significa suprimirla. Significa regularla: reducir su intensidad cuando está desbordando o amplificarla cuando esta ausente pero debería estar presente. La ira gestionada bien comunica un límite violado. El miedo gestionado bien protege. La tristeza gestionada bien elabora una perdida. Las mismas emociones, gestionadas mal, destruyen relaciones.
 
 James Gross, investigador de la regulación emocional en Stanford, identifica estrategias de regulación efectivas (reevaluación cognitiva, aceptación, resolución de problemas) y no efectivas (supresión, rumiación, evitación). Las estrategias no efectivas reducen el malestar a corto plazo y lo amplifican a largo plazo.
 

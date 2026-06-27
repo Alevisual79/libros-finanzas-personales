@@ -151,7 +151,7 @@ Marcos ha llegado a entender que la transición de empleado a emprendedor no es 
 
 **El Principio de la Transición al Emprendimiento como Proceso de Construcción de Identidad que Requiere Tiempo, Experiencia, y la Disposición a Ser Inexperto antes de Volverse Competente:** Herminia Ibarra en Working Identity propone que las transiciones de identidad profesional no ocurren de golpe sino a traves de experimentos: probar nuevas formas de actuar, ver como responden los demás y el mercado, y ajustar gradualmente la imagen del yo hasta que la nueva identidad se consolida.
 
-La investigación sobre el aprendizaje adulto de Malcolm Knowles muestra que los adultos aprenden mejor cuando el aprendizaje esta conectado con problemas reales que importan y cuando pueden aplicar inmediatamente lo que aprenden. Para el emprendedor en transición, esto significa que el aprendizaje más valioso viene de hacer, no de estudiar el hacer.
+La investigación sobre el aprendizaje adulto de Malcolm Knowles muestra que los adultos aprenden mejor cuando el aprendizaje está conectado con problemas reales que importan y cuando pueden aplicar inmediatamente lo que aprenden. Para el emprendedor en transición, esto significa que el aprendizaje más valioso viene de hacer, no de estudiar el hacer.
 
 **Ejercicio inmediato:** Reflexiona sobre las tres formas en que tu identidad profesional ha cambiado más desde que empezaste a emprender (o desde que empezaste a planear emprender). ¿Que creencias sobre ti mismo o sobre el trabajo han cambiado? ¿Que comportamientos has adoptado que antes no tenías? ¿Que has tenido que dejar ir? Esas tres respuestas son el mapa de la transformación de identidad que ya has hecho y que te orienta hacía la que todavia tienes por hacer.
 

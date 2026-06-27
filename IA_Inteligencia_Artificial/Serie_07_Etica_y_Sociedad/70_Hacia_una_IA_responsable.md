@@ -32,7 +32,7 @@ El debate sobre Hacia una IA responsable enfrenta posiciones optimistas, pesimis
 A nivel individual y colectivo, hay acciones concretas para influir positivamente en cómo se desarrolla Hacia una IA responsable: informarse con rigor, participar en los debates públicos, tomar decisiones activas sobre el uso de la tecnología y cultivar las capacidades más humanas.
 
 ## Capítulo 10: El horizonte posible
-El futuro de Hacia una IA responsable no esta determinado. Las decisiones que tomemos en los próximos años tendrán consecuencias que duraran décadas. Eso es una responsabilidad y una oportunidad simultaneamente.
+El futuro de Hacia una IA responsable no está determinado. Las decisiones que tomemos en los próximos años tendrán consecuencias que duraran décadas. Eso es una responsabilidad y una oportunidad simultaneamente.
 
 ## Epílogo
 La inteligencia artificial plantea preguntas que la humanidad nunca había tenido que responder. La calidad de esas respuestas dependera de cuanta gente informada participe en la conversación.

@@ -29,7 +29,7 @@ El estado de piloto automático es adaptativo en muchos contextos: libera recurs
 
 **Ejercicio inmediato:** Durante los próximos tres dias, cuando tomes una decisión de más de cinco minutos de impacto (que harás esta tarde, a quien responderás, como reaccionarás en una conversación difícil), pausa dos segundos y hazte la pregunta: ¿estoy eligiendo esto o simplemente respondiendo al automatismo del momento? La pregunta no cambia automáticamente la decisión pero interrumpe el piloto automático y abre un espacio de elección genuina.
 
-La vida que no examinas no la estas viviendo. La esta viviendo el habito.
+La vida que no examinas no la estas viviendo. La está viviendo el habito.
 
 ---
 

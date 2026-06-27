@@ -125,7 +125,7 @@ Isabel sabe intelectualmente que debería afrontar sus miedos pero no sabe como 
 
 Adicionalmente, Jeff Bezos popularizó el framework de la minimización del arrepentimiento: en lugar de evaluar si una acción produce suficiente esperanza de éxito, evaluar si la no-acción producira mayor arrepentimiento futuro que el fracaso en la acción. Para muchas personas, el arrepentimiento de no haber intentado supera con creces el dolor del fracaso en el intento.
 
-**Ejercicio inmediato:** Para una acción específica que el miedo esta bloqueando, formula una intención de implementación: el lunes a las 10am enviare la solicitud de empleo. No mañana sino el lunes. No a cualquier hora sino a las 10am. No lo pensare sino lo hare. La especificidad temporal y conductual reduce la ventana que el miedo tiene para interponer objeciones.
+**Ejercicio inmediato:** Para una acción específica que el miedo está bloqueando, formula una intención de implementación: el lunes a las 10am enviare la solicitud de empleo. No mañana sino el lunes. No a cualquier hora sino a las 10am. No lo pensare sino lo hare. La especificidad temporal y conductual reduce la ventana que el miedo tiene para interponer objeciones.
 
 La mejor forma de lidiar con el miedo antes de actuar es actuar antes de que el miedo tenga tiempo de construir su argumento completo.
 
@@ -139,7 +139,7 @@ Ruben piensa en veces que no actuo por miedo y considera si el arrepentimiento d
 
 Esta asimetria tiene implicaciones para la evaluación del miedo: el miedo que te impide actuar produce el tipo de arrepentimiento que más pesa con el tiempo. El dolor del fracaso en el intento tiende a ser más tolerable a largo plazo que la sensación persistente de lo que podría haber sido.
 
-**Ejercicio inmediato:** Proyectate diez años hacía el futuro y pregunta desde esa perspectiva: ¿si no intento esto que el miedo esta bloqueando ahora, como me sentire sobre esa decisión dentro de diez años? La respuesta desde esa perspectiva futura frecuentemente es diferente de la respuesta desde el presente inmediato, donde el miedo tiene mucho más peso.
+**Ejercicio inmediato:** Proyectate diez años hacía el futuro y pregunta desde esa perspectiva: ¿si no intento esto que el miedo está bloqueando ahora, como me sentire sobre esa decisión dentro de diez años? La respuesta desde esa perspectiva futura frecuentemente es diferente de la respuesta desde el presente inmediato, donde el miedo tiene mucho más peso.
 
 El miedo del presente dura horas o dias. El arrepentimiento de no haber actuado puede durar décadas.
 

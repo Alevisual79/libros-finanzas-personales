@@ -23,7 +23,7 @@ Isabel fue a una primera cita el año pasado. Se paso toda la noche intentando g
 
 La primera cita combina la emoción de la novedad con la ansiedad de la evaluación mutua, generando un estado psicológico específico que afecta significativamente la calidad de la conexión que se logra establecer.
 
-**El Principio de la Ansiedad Evaluativa como Obstaculo:** Cuando la atención durante una primera cita se dirige predominantemente hacía la autoevaluación (como me estoy viendo, que esta pensando de mi) en lugar de hacía la curiosidad genuina por la otra persona, la calidad de la conexión se reduce significativamente, porque la presencia real requiere atención disponible que la ansiedad evaluativa consume.
+**El Principio de la Ansiedad Evaluativa como Obstaculo:** Cuando la atención durante una primera cita se dirige predominantemente hacía la autoevaluación (como me estoy viendo, que está pensando de mi) en lugar de hacía la curiosidad genuina por la otra persona, la calidad de la conexión se reduce significativamente, porque la presencia real requiere atención disponible que la ansiedad evaluativa consume.
 
 **Ejercicio inmediato:** Antes de tu próxima primera cita, establece la intención explícita de dirigir tu atención hacía la curiosidad por la otra persona, reconociendo que la ansiedad evaluativa, aunque presente, no tiene que dominar tu experiencia.
 

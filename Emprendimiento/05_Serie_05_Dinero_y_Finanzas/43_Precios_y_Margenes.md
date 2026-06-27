@@ -71,7 +71,7 @@ Patrick McKenzie ha documentado su formula de subida de precio para SaaS: anunci
 
 **Ejercicio inmediato:** Si llevas más de doce meses sin subir precios y el mercado o tu propuesta de valor han evolucionado, diseña el plan de subida para los próximos noventa dias: calcula el precio objetivo (el que deberías cobrar basandote en el valor que produces y en la evolución del mercado), diseña el mensaje de comunicación a clientes actuales (enfocado en el valor adicional que han recibido o recibiran), y define la fecha de aplicación para nuevos clientes (inmediata) y para clientes actuales (treinta o sesenta dias). Un aumento del diez al veinte por ciento bien comunicado rara vez produce perdida de clientes si el valor que ofreces es real.
 
-El precio que llevas años sin subir esta perdiendo valor real con cada mes que pasa. La inflación no espera.
+El precio que llevas años sin subir está perdiendo valor real con cada mes que pasa. La inflación no espera.
 
 ---
 

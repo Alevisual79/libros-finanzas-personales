@@ -19,7 +19,7 @@ Casi ninguna pareja llega preparada para lo que la llegada de un hijo hace a su 
 
 Esto no es una falla personal. Es la consecuencia predecible de añadir una de las cargas de tiempo, sueño y atención más grandes que existen a una relación que antes tenía recursos limitados pero suficientes para sostenerse.
 
-Las parejas que atraviesan la crianza sin que la relación se erosione no son las que tienen hijos más faciles o menos estres económico. Son las que entienden lo que esta pasando y se preparan deliberadamente para protegerse mutuamente durante el proceso.
+Las parejas que atraviesan la crianza sin que la relación se erosione no son las que tienen hijos más faciles o menos estres económico. Son las que entienden lo que está pasando y se preparan deliberadamente para protegerse mutuamente durante el proceso.
 
 ---
 
@@ -91,7 +91,7 @@ Las discusiones sobre decisiones de crianza que ocurren delante de los hijos tie
 
 **El Principio de la Conversación Diferida:** Las parejas con mejores resultados en la gestión de desacuerdos de crianza tienen un acuerdo implícito o explícito: las decisiones de crianza que generan desacuerdo se discuten en privado, no delante de los hijos. Esto no significa fingir acuerdo total frente a los hijos, sino reservar la negociación del desacuerdo para un momento y lugar apropiados.
 
-**Ejercicio inmediato:** Acuerden una señal simple (una palabra o un gesto) que cualquiera de los dos pueda usar cuando sienta que un desacuerdo de crianza esta escalando delante de los hijos, indicando lo hablamos después. Practiquen usarla la próxima vez que surja una situación asi.
+**Ejercicio inmediato:** Acuerden una señal simple (una palabra o un gesto) que cualquiera de los dos pueda usar cuando sienta que un desacuerdo de crianza está escalando delante de los hijos, indicando lo hablamos después. Practiquen usarla la próxima vez que surja una situación asi.
 
 Los hijos no necesitan padres que nunca discrepan. Necesitan padres que resuelven sus discrepancias sin convertirlos en testigos del conflicto.
 

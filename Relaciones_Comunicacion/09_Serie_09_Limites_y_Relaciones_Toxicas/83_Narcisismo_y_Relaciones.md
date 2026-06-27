@@ -51,7 +51,7 @@ Identificar patrones consistentes asociados con rasgos narcisistas significativo
 
 **Ejercicio inmediato:** Revisa esta lista de patrones caracteristicos contra tu observación de la persona que te preocupa. ¿Cuantos de estos patrones reconoces como presentes de forma consistente?
 
-Reconocer estos patrones específicos, en lugar de una impresión vaga de que algo no esta bien, ayuda a evaluar con más precisión la naturaleza de la dinámica relacional.
+Reconocer estos patrones específicos, en lugar de una impresión vaga de que algo no está bien, ayuda a evaluar con más precisión la naturaleza de la dinámica relacional.
 
 ---
 
@@ -63,7 +63,7 @@ Las relaciones con personas con rasgos narcisistas significativos frecuentemente
 
 **Ejercicio inmediato:** Si reconoces este ciclo en una relación actual, identifica en que fase te encuentras actualmente: idealización, devaluación, o transición entre ambas.
 
-El ciclo de idealización y devaluación no es aleatorio. Es un patron predecible que, una vez reconocido, ayuda a entender mejor lo que esta ocurriendo en la relación.
+El ciclo de idealización y devaluación no es aleatorio. Es un patron predecible que, una vez reconocido, ayuda a entender mejor lo que está ocurriendo en la relación.
 
 ---
 

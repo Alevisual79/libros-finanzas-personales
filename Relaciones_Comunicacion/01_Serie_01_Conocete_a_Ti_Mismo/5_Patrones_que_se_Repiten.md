@@ -103,7 +103,7 @@ Verte con claridad no requiere verte con crueldad.
 
 El mayor obstaculo para cambiar un patron no es la ignorancia. Es el atractivo de lo familiar. El cerebro humano, ante dos opciones, prefiere consistentemente la conocida aunque sea peor que la desconocida aunque sea mejor. Lo familiar se siente seguro aunque sea disfuncional. Lo nuevo se siente arriesgado aunque sea mejor.
 
-**El Principio de la Familiaridad como Trampa:** Cuando alguien que tiene un patron de relaciones distantes conoce a alguien emocionalmente disponible, a menudo lo encuentra demasiado intenso o demasiado pegajoso. No porque lo sea. Sino porque la disponibilidad emocional activa una alarma de lo desconocido. El disconfort de lo nuevo se interpreta cómo la persona no es la adecuada. Cuando en realidad es la señal de que el patron esta siendo cuestionado.
+**El Principio de la Familiaridad como Trampa:** Cuando alguien que tiene un patron de relaciones distantes conoce a alguien emocionalmente disponible, a menudo lo encuentra demasiado intenso o demasiado pegajoso. No porque lo sea. Sino porque la disponibilidad emocional activa una alarma de lo desconocido. El disconfort de lo nuevo se interpreta cómo la persona no es la adecuada. Cuando en realidad es la señal de que el patron está siendo cuestionado.
 
 Joseph LeDoux explica que el cerebro emocional etiqueta las experiencias familiares como seguras por defecto, independientemente de si producen bienestar o malestar. Cambiar esa etiqueta requiere exposición repetida a lo nuevo en condiciones de seguridad.
 
@@ -135,7 +135,7 @@ El momento crítico no es antes del patron. Es durante. Cuando ya estas en la si
 
 Viktor Frankl lo llamó el último de los derechos humanos: la libertad de elegir la propia actitud ante cualquier estímulo. En la práctica relacional, ese derecho se ejerce en la pausa.
 
-**Ejercicio inmediato:** Esta semana, cuando notes que tu patron se esta activando, pon una mano en el pecho, respira lentamente tres veces y pregúntate: ¿que quiero hacer aquí frente a que hago automáticamente? No tienes que hacer algo diferente todavia. Solo notar la diferencia.
+**Ejercicio inmediato:** Esta semana, cuando notes que tu patron se está activando, pon una mano en el pecho, respira lentamente tres veces y pregúntate: ¿que quiero hacer aquí frente a que hago automáticamente? No tienes que hacer algo diferente todavia. Solo notar la diferencia.
 
 La pausa es el primer acto de libertad frente al patron.
 

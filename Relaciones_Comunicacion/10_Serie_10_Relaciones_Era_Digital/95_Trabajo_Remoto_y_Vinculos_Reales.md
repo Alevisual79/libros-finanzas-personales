@@ -25,7 +25,7 @@ El trabajo remoto ha transformado fundamentalmente cómo se forma y se mantiene 
 
 **El Principio de la Cultura sin Espacio Compartido:** La cultura de equipo en entornos presenciales se forma significativamente a traves de interacciones informales no estructuradas (comentarios casuales, observación de como otros manejan situaciones, la energía compartida del espacio físico). El trabajo remoto elimina la mayoría de estas oportunidades, requiriendo que la cultura se construya más deliberadamente a traves de prácticas y comunicaciones explícitas.
 
-**Ejercicio inmediato:** Reflexiona sobre cómo se forma la cultura de tu equipo remoto actualmente. Esta ocurriendo deliberadamente a traves de prácticas explícitas, o simplemente no esta ocurriendo de la forma orgánica en que ocurriria presencialmente?
+**Ejercicio inmediato:** Reflexiona sobre cómo se forma la cultura de tu equipo remoto actualmente. Está ocurriendo deliberadamente a traves de prácticas explícitas, o simplemente no está ocurriendo de la forma orgánica en que ocurriria presencialmente?
 
 La cultura de equipo en remoto no se forma por accidente como podría ocurrir presencialmente. Requiere construcción deliberada y explícita.
 

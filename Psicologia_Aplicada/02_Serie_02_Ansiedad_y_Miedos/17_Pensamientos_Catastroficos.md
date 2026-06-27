@@ -101,7 +101,7 @@ Elena preocupación sobre todo el tiempo. Pero hay dos tipos fundamentalmente di
 
 La identificación de si la preocupación actual es productiva o rumiativa es el primer paso para gestionarla de forma diferente. Si es productiva: completarla, planificar la acción y soltar. Si es rumiativa: interrumpirla con una de varias técnicas (tiempo de preocupación programado, aplazamiento de la preocupación, técnicas de distracción cognitiva) porque continuar en ella no produce ningún beneficio.
 
-**Ejercicio inmediato:** La próxima vez que estés en un ciclo de preocupación, pregúntate: ¿esta preocupación me esta llevando hacía una acción o solución específica, o esta repitiendose sin avanzar? Si es lo segundo, aplica el aplazamiento: me permito preocuparme por esto mañana entre las seis y las seis y media. Y cuando llegue ese momento, muchas preocupaciones habrán perdido su urgencia.
+**Ejercicio inmediato:** La próxima vez que estés en un ciclo de preocupación, pregúntate: ¿esta preocupación me está llevando hacía una acción o solución específica, o esta repitiendose sin avanzar? Si es lo segundo, aplica el aplazamiento: me permito preocuparme por esto mañana entre las seis y las seis y media. Y cuando llegue ese momento, muchas preocupaciones habrán perdido su urgencia.
 
 La preocupación que busca soluciones es útil. La que busca certeza que no existe no lo es nunca.
 
@@ -165,7 +165,7 @@ La catastrofización no desaparece de golpe. Se calibra gradualmente con la evid
 
 ## Epílogo
 
-Isabel llegó a la reunión con su jefe con una ansiedad moderada en lugar del terror que sentía cuando construia el escenario catastrofico la noche anterior. Habia practicado el cuestionamiento cognitivo: había evaluado la probabilidad real de un despido dado su desempeño reciente, había reconocido el pensamiento catastrofico por su nombre, y había recordado que sus predicciones catastroficas resultaban equivocadas en la mayor parte de los casos. Cuando su jefe le ofreció el aumento, no sintio la euforia que habría sentido desde el escenario de miedo. Sintio algo más sostenido: la satisfacción tranquila de alguien cuyo sistema predictivo esta aprendiendo a ser más preciso.
+Isabel llegó a la reunión con su jefe con una ansiedad moderada en lugar del terror que sentía cuando construia el escenario catastrofico la noche anterior. Habia practicado el cuestionamiento cognitivo: había evaluado la probabilidad real de un despido dado su desempeño reciente, había reconocido el pensamiento catastrofico por su nombre, y había recordado que sus predicciones catastroficas resultaban equivocadas en la mayor parte de los casos. Cuando su jefe le ofreció el aumento, no sintio la euforia que habría sentido desde el escenario de miedo. Sintio algo más sostenido: la satisfacción tranquila de alguien cuyo sistema predictivo está aprendiendo a ser más preciso.
 
 ---
 

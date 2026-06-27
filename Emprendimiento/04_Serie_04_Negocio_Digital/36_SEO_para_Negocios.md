@@ -15,15 +15,15 @@
 
 ## Prólogo
 
-Carlos tiene un negocio online que no aparece en Google. Sus potenciales clientes buscan exactamente lo que el ofrece y el no aparece en ninguna de las busquedas relevantes. Lucia tiene un blog con cien articulos que no genera trafico organico porque ninguno esta optimizado para las busquedas que su audiencia hace. Marcos tiene una web profesional con un buen diseño que aparece en la página tres de Google para las busquedas de su tipo de servicio. Los tres comparten el mismo problema: tienen un activo digital que no esta generando el trafico organico que podría. El SEO no es un lujo para empresas grandes. Es la herramienta que hace que el negocio sea visible para las personas que ya lo estan buscando.
+Carlos tiene un negocio online que no aparece en Google. Sus potenciales clientes buscan exactamente lo que el ofrece y el no aparece en ninguna de las busquedas relevantes. Lucia tiene un blog con cien articulos que no genera trafico organico porque ninguno esta optimizado para las busquedas que su audiencia hace. Marcos tiene una web profesional con un buen diseño que aparece en la página tres de Google para las busquedas de su tipo de servicio. Los tres comparten el mismo problema: tienen un activo digital que no está generando el trafico organico que podría. El SEO no es un lujo para empresas grandes. Es la herramienta que hace que el negocio sea visible para las personas que ya lo estan buscando.
 
 ---
 
 ## Capítulo 1: Cómo funciona Google: lo que el emprendedor necesita entender
 
-Para optimizar para Google, primero hay que entender que esta tratando de hacer Google.
+Para optimizar para Google, primero hay que entender que está tratando de hacer Google.
 
-**El Principio del SEO cómo la práctica de Optimizar Tu Contenido y Tu Sitio Web para qué Google Lo Vea cómo la Respuesta Más Relevante y Autorizada para Las Busquedas de Tu Audiencia Objetivo porque Google Quiere Mostrar los Resultados Más útiles para El Usuario:** Google tiene un objetivo claro: mostrar al usuario el resultado más relevante y de mayor calidad para su busqueda. Todo el algoritmo de Google (que tiene más de doscientos factores de ranking) esta diseñado para conseguir ese objetivo. Cuando entiendes eso, el SEO se simplifica: tu trabajo es hacer que tu contenido sea genuinamente el más útil y relevante para las busquedas de tu audiencia.
+**El Principio del SEO cómo la práctica de Optimizar Tu Contenido y Tu Sitio Web para qué Google Lo Vea cómo la Respuesta Más Relevante y Autorizada para Las Busquedas de Tu Audiencia Objetivo porque Google Quiere Mostrar los Resultados Más útiles para El Usuario:** Google tiene un objetivo claro: mostrar al usuario el resultado más relevante y de mayor calidad para su busqueda. Todo el algoritmo de Google (que tiene más de doscientos factores de ranking) está diseñado para conseguir ese objetivo. Cuando entiendes eso, el SEO se simplifica: tu trabajo es hacer que tu contenido sea genuinamente el más útil y relevante para las busquedas de tu audiencia.
 
 Los tres factores principales que Google evalua para determinar el ranking son: ¿la relevancia (el contenido responde específicamente a la busqueda del usuario?), la autoridad (cuantos otros sitios relevantes enlazan al tuyo, lo que Google interpreta como votos de confianza), y la experiencia de usuario (la web carga rápido, es facil de navegar en movil, y el usuario encuentra lo que busca?).
 
@@ -41,7 +41,7 @@ Lucia ha aprendido que no todas las palabras clave tienen el mismo valor para su
 
 Ahrefs y SEMrush (las herramientas de SEO más usadas profesionalmente) permiten investigar el volumen y la dificultad de cualquier palabra clave. Para el emprendedor que empieza sin presupuesto, Google Keyword Planner (gratuito) y la función de autocompletar de Google (que muestra las busquedas relacionadas más populares) son alternativas funcionales.
 
-**Ejercicio inmediato:** Para tu negocio, identifica tres tipos de palabras clave con diferentes niveles de intento de compra: informacional (el usuario busca aprender algo, por ejemplo cómo hacer X), de investigación (el usuario esta comparando opciones, por ejemplo el mejor servicio de X en Madrid), y transaccional (el usuario quiere comprar o contratar, por ejemplo contratar servicio de X precio). Crea un plan de contenido que incluya los tres tipos: el contenido informacional construye autoridad y atrae trafico amplio; el transaccional atrae trafico con mayor probabilidad de conversión inmediata.
+**Ejercicio inmediato:** Para tu negocio, identifica tres tipos de palabras clave con diferentes niveles de intento de compra: informacional (el usuario busca aprender algo, por ejemplo cómo hacer X), de investigación (el usuario está comparando opciones, por ejemplo el mejor servicio de X en Madrid), y transaccional (el usuario quiere comprar o contratar, por ejemplo contratar servicio de X precio). Crea un plan de contenido que incluya los tres tipos: el contenido informacional construye autoridad y atrae trafico amplio; el transaccional atrae trafico con mayor probabilidad de conversión inmediata.
 
 La palabra clave con mayor volumen de busqueda no es siempre la más valiosa. La que tiene mayor intento de compra puede tener menos trafico pero mayor conversión.
 
@@ -119,13 +119,13 @@ El articulo que responde la pregunta específica de tu cliente en la página uno
 
 ## Capítulo 8: Medir el SEO: como saber si la estrategia esta funcionando
 
-Lucia ha aprendido a medir el SEO con las metricas correctas para saber que esta funcionando y que no.
+Lucia ha aprendido a medir el SEO con las metricas correctas para saber que está funcionando y que no.
 
-**El Principio de La Medición del SEO como el Seguimiento de Las Metricas Correctas que Indican Si El Esfuerzo de Optimización Esta Produciendo Los Resultados Esperados en Terminos de Trafico Organico, Posicionamiento, y Conversión:** Las metricas fundamentales del SEO son: el trafico organico (número de visitas que llegan desde busquedas en Google, medido en Google Analytics), las posiciones en Google (el ranking de las palabras clave objetivo, medido en Google Search Console o herramientas de terceros como Ahrefs), el CTR organico (el porcentaje de personas que hacen clic en tu resultado cuando aparece en Google), y las conversiones del trafico organico (leads, compras, o acciones específicas que completan los visitantes que llegan desde Google).
+**El Principio de La Medición del SEO como el Seguimiento de Las Metricas Correctas que Indican Si El Esfuerzo de Optimización Está Produciendo Los Resultados Esperados en Terminos de Trafico Organico, Posicionamiento, y Conversión:** Las metricas fundamentales del SEO son: el trafico organico (número de visitas que llegan desde busquedas en Google, medido en Google Analytics), las posiciones en Google (el ranking de las palabras clave objetivo, medido en Google Search Console o herramientas de terceros como Ahrefs), el CTR organico (el porcentaje de personas que hacen clic en tu resultado cuando aparece en Google), y las conversiones del trafico organico (leads, compras, o acciones específicas que completan los visitantes que llegan desde Google).
 
 La investigación de Ahrefs sobre los plazos del SEO muestra que la mayoría del trafico organico de un articulo nuevo llega entre seis y doce meses después de su publicación. El SEO es una inversión a largo plazo y la medición debe hacerse en esos plazos para no sacar conclusiones incorrectas demasiado pronto.
 
-**Ejercicio inmediato:** Configura un dashboard de seguimiento de SEO con cuatro metricas mensuales: trafico organico total (de Google Analytics), número de palabras clave en el top 10 de Google (de Google Search Console), CTR organico promedio (de Google Search Console), y conversiones del trafico organico (de Google Analytics Goals). Revisa esas cuatro metricas una vez al mes y anota la tendencia. Si el trafico organico crece mes a mes, el SEO esta funcionando. Si no crece después de seis meses de trabajo consistente, hay que diagnosticar que esta fallando.
+**Ejercicio inmediato:** Configura un dashboard de seguimiento de SEO con cuatro metricas mensuales: trafico organico total (de Google Analytics), número de palabras clave en el top 10 de Google (de Google Search Console), CTR organico promedio (de Google Search Console), y conversiones del trafico organico (de Google Analytics Goals). Revisa esas cuatro metricas una vez al mes y anota la tendencia. Si el trafico organico crece mes a mes, el SEO está funcionando. Si no crece después de seis meses de trabajo consistente, hay que diagnosticar que está fallando.
 
 El SEO que no se mide no se puede mejorar. Y el que se mide con las metricas equivocadas produce conclusiones incorrectas.
 
@@ -149,13 +149,13 @@ El SEO que construyes sobre contenido genuinamente excelente no le teme a las ac
 
 Carlos ha construido un sistema de SEO que genera trafico organico creciente mes a mes.
 
-**El Principio del Sistema de SEO Integrado como La Combinación de Investigación de Palabras Clave, Creación sistemática de Contenido, Construcción de Backlinks, y Optimización técnica que Producen Crecimiento Compuesto de Trafico Organico que Aumenta con El Tiempo Sin Costo Adicional Proporcional:** El SEO, al contrario que la publicidad de pago, produce rendimientos compuestos: el articulo que escribiste hace seis meses sigue generando trafico hoy sin que hayas invertido nada adicional en el. Eso significa que el negocio que lleva dos años haciendo SEO correctamente no necesita gastar el mismo presupuesto de marketing que el que lleva dos meses porque parte del trafico viene de un activo que ya esta construido.
+**El Principio del Sistema de SEO Integrado como La Combinación de Investigación de Palabras Clave, Creación sistemática de Contenido, Construcción de Backlinks, y Optimización técnica que Producen Crecimiento Compuesto de Trafico Organico que Aumenta con El Tiempo Sin Costo Adicional Proporcional:** El SEO, al contrario que la publicidad de pago, produce rendimientos compuestos: el articulo que escribiste hace seis meses sigue generando trafico hoy sin que hayas invertido nada adicional en el. Eso significa que el negocio que lleva dos años haciendo SEO correctamente no necesita gastar el mismo presupuesto de marketing que el que lleva dos meses porque parte del trafico viene de un activo que ya está construido.
 
 La investigación de Ahrefs sobre el valor del trafico organico muestra que el trafico SEO es el canal de marketing con mayor ROI a largo plazo para la mayoría de los negocios digitales: el coste por adquisición de cliente disminuye progresivamente a medida que el activo SEO crece.
 
-**Ejercicio inmediato:** Define tu plan de SEO para los próximos doce meses en tres fases: la fase de base (meses uno a tres: auditoria técnica, investigación de palabras clave, y creación del contenido pilar), la fase de construcción (meses cuatro a nueve: publicación constante de contenido cluster y primeras acciones de link building), y la fase de optimización (meses diez a doce: análisis de que contenido ya esta generando trafico y optimización de los que estan cerca de la primera página para dar el empujon final). Ese plan de doce meses, ejecutado con consistencia, produce un activo de trafico organico que sigue creciendo después de los doce meses.
+**Ejercicio inmediato:** Define tu plan de SEO para los próximos doce meses en tres fases: la fase de base (meses uno a tres: auditoria técnica, investigación de palabras clave, y creación del contenido pilar), la fase de construcción (meses cuatro a nueve: publicación constante de contenido cluster y primeras acciones de link building), y la fase de optimización (meses diez a doce: análisis de que contenido ya está generando trafico y optimización de los que estan cerca de la primera página para dar el empujon final). Ese plan de doce meses, ejecutado con consistencia, produce un activo de trafico organico que sigue creciendo después de los doce meses.
 
-El SEO que empezaste hoy genera trafico en seis meses. El que empezaste hace seis meses ya esta generando trafico ahora mismo.
+El SEO que empezaste hoy genera trafico en seis meses. El que empezaste hace seis meses ya está generando trafico ahora mismo.
 
 ---
 

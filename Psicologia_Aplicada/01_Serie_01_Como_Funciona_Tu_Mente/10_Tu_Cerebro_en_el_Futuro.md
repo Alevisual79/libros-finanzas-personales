@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel tiene cincuenta y dos años y ha vivido la transición de un mundo sin internet a uno donde la inteligencia artificial puede escribir codigo, diagnosticar enfermedades y mantener conversaciones convincentes. Sus hijos viven en una realidad digital que ella solo entiende parcialmente. Sus padres viven en una realidad que ella ya no reconoce cómo la suya. En menos de treinta años, la relación del cerebro humano con la tecnología, con el conocimiento y con lo que significa ser inteligente ha cambiado más que en los mil años anteriores. Y segun todas las proyecciones, el ritmo de cambio se esta acelerando.
+Isabel tiene cincuenta y dos años y ha vivido la transición de un mundo sin internet a uno donde la inteligencia artificial puede escribir codigo, diagnosticar enfermedades y mantener conversaciones convincentes. Sus hijos viven en una realidad digital que ella solo entiende parcialmente. Sus padres viven en una realidad que ella ya no reconoce cómo la suya. En menos de treinta años, la relación del cerebro humano con la tecnología, con el conocimiento y con lo que significa ser inteligente ha cambiado más que en los mil años anteriores. Y segun todas las proyecciones, el ritmo de cambio se está acelerando.
 
 ---
 
@@ -65,9 +65,9 @@ La pregunta no es si la tecnología será capaz de modificar el cerebro. Ya pued
 
 Isabel cree que el deterioro cognitivo con la edad es inevitable. La neurociencia moderna tiene noticias más optimistas, aunque también más matizadas de lo que la divulgación entusiasta frecuentemente presenta.
 
-**El Principio de la Neurogenesis Adulta como Realidad Limitada y Modulable:** Elizabeth Gould y Charles Gross, de Princeton, demostraron en los años noventa contra el consenso cientifico previo, que el cerebro adulto de primates genera nuevas neuronas en el hipocampo. Investigaciones posteriores confirmaron la neurogenesis adulta en humanos, aunque su magnitud y relevancia funcional continua siendo debatida. Lo que si esta bien establecido es que el ritmo de neurogenesis adulta en el hipocampo es significativamente modulable: el ejercicio físico aerobico aumenta drasticamente la tasa de neurogenesis, mientras el estres cronico y la privación de sueño la reducen.
+**El Principio de la Neurogenesis Adulta como Realidad Limitada y Modulable:** Elizabeth Gould y Charles Gross, de Princeton, demostraron en los años noventa contra el consenso cientifico previo, que el cerebro adulto de primates genera nuevas neuronas en el hipocampo. Investigaciones posteriores confirmaron la neurogenesis adulta en humanos, aunque su magnitud y relevancia funcional continua siendo debatida. Lo que si está bien establecido es que el ritmo de neurogenesis adulta en el hipocampo es significativamente modulable: el ejercicio físico aerobico aumenta drasticamente la tasa de neurogenesis, mientras el estres cronico y la privación de sueño la reducen.
 
-La implicación no es que podamos regenerar el cerebro a voluntad cómo un musculo. Es que las decisiones de estilo de vida (ejercicio, sueño, estres, novedad cognitiva) tienen efectos reales sobre los procesos de mantenimiento y regeneración cerebral que determinan parcialmente la trayectoria del envejecimiento cognitivo. El envejecimiento cognitivo no es uniforme ni inevitable. Tiene una componente de elección que la mayoría de las personas no esta ejerciendo conscientemente.
+La implicación no es que podamos regenerar el cerebro a voluntad cómo un musculo. Es que las decisiones de estilo de vida (ejercicio, sueño, estres, novedad cognitiva) tienen efectos reales sobre los procesos de mantenimiento y regeneración cerebral que determinan parcialmente la trayectoria del envejecimiento cognitivo. El envejecimiento cognitivo no es uniforme ni inevitable. Tiene una componente de elección que la mayoría de las personas no está ejerciendo conscientemente.
 
 **Ejercicio inmediato:** Evalua cuales de los factores que promueven la neurogenesis y la plasticidad cerebral adulta estan presentes en tu vida actual: ejercicio aerobico regular, sueño de calidad suficiente, estres cronico bajo, exposición regular a novedad y desafio cognitivo. El factor más ausente es donde el potencial de mejora es mayor.
 
@@ -81,7 +81,7 @@ Ruben ha leido sobre los estudios de psilocibina y ketamina en el tratamiento de
 
 **El Principio de las Ventanas de Plasticidad como Mecanismo Terapeutico:** Robin Carhart-Harris, neurocientifico de la UCSF que ha liderado algunos de los estudios más rigurosos sobre psilocibina en depresión, propone que ciertas sustancias psicodelicas actuan aumentando temporalmente la neuroplasticidad del cerebro, creando una ventana de mayor receptividad al cambio psicológico que, combinada con psicoterapia, puede producir reorganizaciones cognitivas y emocionales que en condiciones normales son mucho más resistentes al cambio.
 
-Los resultados de estudios controlados con psilocibina para depresión resistente, ansiedad terminal y adicciones muestran eficacias que sorprenden incluso a los investigadores más cautelosos. Esto no significa que estas sustancias sean seguras o apropiadas para uso no supervisado. Significa que el estudio cientifico riguroso de mecanismos de acción que durante décadas fueron taboo esta produciendo herramientas terapeuticas genuinamente nuevas para condiciones que los tratamientos existentes gestionan mal.
+Los resultados de estudios controlados con psilocibina para depresión resistente, ansiedad terminal y adicciones muestran eficacias que sorprenden incluso a los investigadores más cautelosos. Esto no significa que estas sustancias sean seguras o apropiadas para uso no supervisado. Significa que el estudio cientifico riguroso de mecanismos de acción que durante décadas fueron taboo está produciendo herramientas terapeuticas genuinamente nuevas para condiciones que los tratamientos existentes gestionan mal.
 
 **Ejercicio inmediato:** Distingue entre la posición cultural o personal sobre el uso recreativo de psicodelicos y la capacidad de evaluar la evidencia cientifica emergente sobre sus aplicaciones terapeuticas específicas. Son preguntas diferentes que merecen evaluaciones separadas.
 
@@ -91,7 +91,7 @@ La neurociencia del futuro no respetara los tabues del pasado si la evidencia di
 
 ## Capítulo 6: El cerebro en el mundo de la realidad aumentada y virtual
 
-Elena, en su trabajo de diseño de software, usa ya herramientas de realidad aumentada. Sus hijos pasan horas en mundos virtuales inmersivos. La linea entre la experiencia física y la digital se esta borrando de formas que el cerebro evolutivamente no tiene marcó para procesar.
+Elena, en su trabajo de diseño de software, usa ya herramientas de realidad aumentada. Sus hijos pasan horas en mundos virtuales inmersivos. La linea entre la experiencia física y la digital se está borrando de formas que el cerebro evolutivamente no tiene marcó para procesar.
 
 **El Principio del Cerebro Que No Distingue Real de Simulado en Ciertos Niveles:** La investigación sobre el uso de realidad virtual en terapia de fobi y trauma (desarrollada por Albert Rizzo en USC) aprovecha un hecho neurologico fundamental: el cerebro procesa las experiencias virtuales inmersivas con muchos de los mismos circuitos que procesa las experiencias físicas reales. La amigdala responde al peligro virtual con activación similar al peligro físico. El hipocampo forma mapas espaciales de entornos virtuales. El sistema de recompensa responde a logros virtuales de formas comparables a los físicos.
 
@@ -109,7 +109,7 @@ Isabel trabaja en una organización donde la decisión mejor no la toma el líde
 
 **El Principio de la Inteligencia de Grupo como Emergencia Estructural:** Anita Woolley, investigadora de Carnegie Mellon, identifico en sus estudios lo que llamó la inteligencia colectiva de los grupos (factor C): una medida de rendimiento colectivo que predice mejor el desempeño de un grupo en tareas variadas que el promedio o el máximo de la inteligencia individual de sus miembros. Los factores que predicen alta inteligencia colectiva incluyen la sensibilidad social media del grupo, la distribución equitativa de la participación en la conversación (no dominación por un subconjunto de miembros), y la proporción de mujeres en el grupo.
 
-La tecnología esta amplificando las posibilidades de la inteligencia colectiva a escala antes imposible: plataformas de ciencia ciudadana que incorporan millones de observaciones de no especialistas, mercados de predicción que agregan información distribuida, y sistemas de IA que ayudan a identificar patrones en contribuciones masivas. La inteligencia del futuro probablemente no será la del individuo aumentado sino la del colectivo estructurado para integrar información distribuida efectivamente.
+La tecnología está amplificando las posibilidades de la inteligencia colectiva a escala antes imposible: plataformas de ciencia ciudadana que incorporan millones de observaciones de no especialistas, mercados de predicción que agregan información distribuida, y sistemas de IA que ayudan a identificar patrones en contribuciones masivas. La inteligencia del futuro probablemente no será la del individuo aumentado sino la del colectivo estructurado para integrar información distribuida efectivamente.
 
 **Ejercicio inmediato:** En tu próximo proyecto de equipo, diseña el proceso para que las personas menos dominantes del grupo contribuyan sus perspectivas antes de que los miembros más dominantes marquen la dirección de la conversación. Esa modificación estructural simple puede cambiar significativamente la calidad de la inteligencia colectiva producida.
 
@@ -119,7 +119,7 @@ La inteligencia del grupo no es la suma de la inteligencia individual. Es una pr
 
 ## Capítulo 8: Longevidad y el cerebro de cien años
 
-Ruben tiene treinta y un años y le resulta abstracto pensar en el envejecimiento cerebral. Pero la esperanza de vida esta aumentando de forma que la mayoría de los millennials podrían vivir hasta los noventa o cien años, y la calidad cognitiva de esas últimas décadas es en gran medida determinada por habitos establecidos en la tercera y cuarta década de vida.
+Ruben tiene treinta y un años y le resulta abstracto pensar en el envejecimiento cerebral. Pero la esperanza de vida está aumentando de forma que la mayoría de los millennials podrían vivir hasta los noventa o cien años, y la calidad cognitiva de esas últimas décadas es en gran medida determinada por habitos establecidos en la tercera y cuarta década de vida.
 
 **El Principio de la Reserva Cognitiva como Activo Construido a Largo Plazo:** Yaakov Stern, neuropsicólogo de Columbia, desarrollo el concepto de reserva cognitiva para explicar por qué personas con niveles equivalentes de patologia de Alzheimer en el cerebro difieren dramaticamente en sus sintomas clinicos. Quienes tienen mayor reserva cognitiva (educación superior, mayor estimulación cognitiva a lo largo de la vida, bilingüismo, redes sociales ricas) pueden compensar mayor daño neuronal antes de mostrar deterioro cognitivo significativo.
 
@@ -153,7 +153,7 @@ Isabel, después de pensar en todo lo que va a cambiar, necesita anclar su refle
 
 Geoffrey Hinton, uno de los padres de las redes neuronales y ex líder de IA en Google, señala con toda su comprensión técnica que la IA, por avanzada que sea, no tiene experiencia subjetiva, no tiene cuerpo que siente, no tiene mortalidad que enfrenta, no tiene amor que perder. Esas limitaciones no son defectos de los sistemas de IA actuales que versión futura corregira. Son consecuencias de lo que son. Y esas limitaciones son precisamente lo que hace al cerebro humano irreemplazable en los dominios que más importan.
 
-**Ejercicio inmediato:** Haz una lista de las actividades de tu vida que generan mayor sentido y satisfacción, no solo placer inmediato o éxito externo. Luego reflexiona: ¿de esas actividades, cuantas podría sustituir (o ya esta sustituyendo) la tecnología? ¿Y cuantas son profundamente, constitutivamente humanas de una forma que ninguna tecnología puede replicar?
+**Ejercicio inmediato:** Haz una lista de las actividades de tu vida que generan mayor sentido y satisfacción, no solo placer inmediato o éxito externo. Luego reflexiona: ¿de esas actividades, cuantas podría sustituir (o ya está sustituyendo) la tecnología? ¿Y cuantas son profundamente, constitutivamente humanas de una forma que ninguna tecnología puede replicar?
 
 El futuro de la inteligencia humana no esta en competir con las maquinas en lo que las maquinas hacen mejor. Está en ser profundamente humano en lo que las maquinas no pueden ser.
 
@@ -161,7 +161,7 @@ El futuro de la inteligencia humana no esta en competir con las maquinas en lo q
 
 ## Epílogo
 
-Isabel miro hacía el futuro y sintio dos cosas a la vez: el vertigo de lo que esta cambiando y la certeza tranquila de lo que no cambiara. Sus hijos navegaran un mundo que ella no puede predecir completamente. Pero lo que sabe es que quiere darles cerebros con reserva cognitiva sólida, la capacidad de tolerar la ambiguedad, la habilidad de aprender continuamente, y la claridad sobre lo que hace que una vida humana tenga valor. No porque esas cosas resuelvan todos los problemas. Sino porque son los cimientos desde los que cualquier futuro puede habitarse con dignidad.
+Isabel miro hacía el futuro y sintio dos cosas a la vez: el vertigo de lo que está cambiando y la certeza tranquila de lo que no cambiara. Sus hijos navegaran un mundo que ella no puede predecir completamente. Pero lo que sabe es que quiere darles cerebros con reserva cognitiva sólida, la capacidad de tolerar la ambiguedad, la habilidad de aprender continuamente, y la claridad sobre lo que hace que una vida humana tenga valor. No porque esas cosas resuelvan todos los problemas. Sino porque son los cimientos desde los que cualquier futuro puede habitarse con dignidad.
 
 ---
 

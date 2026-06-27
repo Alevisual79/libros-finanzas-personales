@@ -41,7 +41,7 @@ Ruben trabaja intensamente de lunes a viernes con menos sueño del que necesita 
 
 La investigación sobre la recuperación del sueño muestra que mientras que algunas funciones cognitivas se recuperan con el sueño de recuperación, otras muestran deficits persistentes. Y la respuesta inflamatoria y las alteraciones inmunologicas producidas por la privación cronica de sueño no se revierten completamente con una noche de sueño adicional.
 
-**Ejercicio inmediato:** Calcula tu deuda de sueño habitual: si necesitas ocho horas (la mayoría de los adultos) y duermes seis, acumulas catorce horas de deuda a la semana. Eso es casi dos noches completas de privación por semana, de forma cronica. Ese cálculo simple puede cambiar la percepción de cuanto esta costando el habito de dormir poco.
+**Ejercicio inmediato:** Calcula tu deuda de sueño habitual: si necesitas ocho horas (la mayoría de los adultos) y duermes seis, acumulas catorce horas de deuda a la semana. Eso es casi dos noches completas de privación por semana, de forma cronica. Ese cálculo simple puede cambiar la percepción de cuanto está costando el habito de dormir poco.
 
 Dormir de más el fin de semana compensa parte de la deuda. No borra los efectos que la deuda produjó durante la semana.
 
@@ -153,7 +153,7 @@ Isabel ha llegado a entender que el sueño no es un compartimento separado de la
 
 Disenar la vida para facilitar el sueño no es reducir los comportamientos a los que se disfruta: es entender que esos comportamientos tienen consecuencias sobre el sueño y tomar decisiones informadas sobre cuando y cuanto.
 
-**Ejercicio inmediato:** Diseña tu ritumal de preparación del sueño para los próximos treinta dias: una hora antes de la hora a la que quieres estar dormido, comienza el proceso de transición (luz tenue, temperatura del dormitorio baja, sin pantallas, actividad relajante). La consistencia de ese ritual se convierte en una señal para el sistema nervioso de que el sueño esta llegando.
+**Ejercicio inmediato:** Diseña tu ritumal de preparación del sueño para los próximos treinta dias: una hora antes de la hora a la que quieres estar dormido, comienza el proceso de transición (luz tenue, temperatura del dormitorio baja, sin pantallas, actividad relajante). La consistencia de ese ritual se convierte en una señal para el sistema nervioso de que el sueño está llegando.
 
 El sueño que no llega cuando lo necesitas no es el sueño que te ha fallado. Es el sueño que no has preparado durante el dia.
 

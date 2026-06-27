@@ -119,7 +119,7 @@ Algunos elementos de la conexión humana requieren genuinamente el cuerpo presen
 
 Desarrollar prácticas conscientes de uso de tecnología, similares al concepto de higiene en otros contextos de salud, protege la calidad de las relaciones de los efectos negativos potenciales del uso no consciente de dispositivos digitales.
 
-**El Principio de la Higiene como práctica Preventiva:** Similar a la higiene física que previene enfermedades, la higiene digital (límites de tiempo de pantalla, zonas y momentos libres de dispositivos, atención consciente a cuando la tecnología esta sustituyendo en lugar de complementar la conexión presencial) previene el deterioro relacional que el uso no consciente de tecnología puede generar gradualmente.
+**El Principio de la Higiene como práctica Preventiva:** Similar a la higiene física que previene enfermedades, la higiene digital (límites de tiempo de pantalla, zonas y momentos libres de dispositivos, atención consciente a cuando la tecnología está sustituyendo en lugar de complementar la conexión presencial) previene el deterioro relacional que el uso no consciente de tecnología puede generar gradualmente.
 
 **Ejercicio inmediato:** Identifica una práctica específica de higiene digital que podrías implementar esta semana para proteger la calidad de tus relaciones más importantes: una zona libre de moviles, un momento de desconexion consciente, un límite de tiempo en redes sociales.
 

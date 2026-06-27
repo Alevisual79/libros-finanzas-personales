@@ -27,7 +27,7 @@ El precio que eliges dice algo sobre tu negocio antes de que el cliente sepa nad
 
 Hermann Simon, en Confessions of the Pricing Man, propone que el precio es la decisión de negocio que tiene el mayor impacto en el margen y la menor atención de la mayoría de los emprendedores. Una mejora del 1% en el precio produce mejoras del 8-10% en el margen operativo, significativamente superior al impacto de mejoras equivalentes en volumen de ventas o en costes.
 
-**Ejercicio inmediato:** Para tu servicio o producto principal, calcula el impacto de una subida del 10% en el precio: ¿cuanto revenue adicional generaria si mantuvieras el mismo volumen de clientes? ¿Cuantos clientes podrías perder para que la subida siguiera siendo neutra en revenue? En la mayoría de los negocios de servicios, el precio puede subirse un 10-15% sin perder más de un 5-10% de los clientes, lo que produce un incremento neto de revenue. Ese cálculo simple muchas veces revela que el emprendedor esta dejando dinero sobre la mesa por miedo a perder clientes.
+**Ejercicio inmediato:** Para tu servicio o producto principal, calcula el impacto de una subida del 10% en el precio: ¿cuanto revenue adicional generaria si mantuvieras el mismo volumen de clientes? ¿Cuantos clientes podrías perder para que la subida siguiera siendo neutra en revenue? En la mayoría de los negocios de servicios, el precio puede subirse un 10-15% sin perder más de un 5-10% de los clientes, lo que produce un incremento neto de revenue. Ese cálculo simple muchas veces revela que el emprendedor está dejando dinero sobre la mesa por miedo a perder clientes.
 
 El precio que nunca sube es el precio de un negocio que nunca crece en margen.
 

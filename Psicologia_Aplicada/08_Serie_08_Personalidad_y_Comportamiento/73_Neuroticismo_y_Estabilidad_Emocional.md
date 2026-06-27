@@ -69,7 +69,7 @@ Elena tiene baja puntuación en neuroticismo (alta estabilidad emocional). Eso t
 
 La investigación de Paul Ekman sobre las microexpresiones y la conciencia emocional muestra que la capacidad de leer las emociones propias y ajenas es una habilidad separable de la estabilidad emocional: se puede tener alta estabilidad y baja conciencia emocional, lo que produce un deficit diferente del neuroticismo pero igualmente costoso en las relaciones.
 
-**Ejercicio inmediato:** Si eres estable emocionalmente y a veces recibes la retroalimentación de que no entiendes o no validas el sufrimiento de otros, práctica la pregunta de curiosidad en lugar del consejo inmediato: cuando alguien comparte dificultades contigo, antes de ofrecer soluciones, pregunta: ¿como te esta afectando eso? Esa pregunta invita al otro a ser escuchado antes de ser solucionado.
+**Ejercicio inmediato:** Si eres estable emocionalmente y a veces recibes la retroalimentación de que no entiendes o no validas el sufrimiento de otros, práctica la pregunta de curiosidad en lugar del consejo inmediato: cuando alguien comparte dificultades contigo, antes de ofrecer soluciones, pregunta: ¿como te está afectando eso? Esa pregunta invita al otro a ser escuchado antes de ser solucionado.
 
 La estabilidad emocional que no siente el sufrimiento propio no lo elimina. Solo lo hace invisible hasta que es grande.
 
@@ -93,11 +93,11 @@ El neuroticismo no cambia con la voluntad. Cambia con la práctica repetida de r
 
 Isabel se preocupa por cosas que, sabe racionalmente, son poco probables. El neuroticismo alto produce exactamente ese patron.
 
-**El Principio de la Preocupación como Intento de Control del Neuroticismo que se Retroalimenta:** La investigación de Thomas Borkovec sobre el trastorno de ansiedad generalizada muestra que la preocupación cronica (caracteristica del neuroticismo alto) cumple una función subjetiva de control: al imaginar los peores escenarios, la persona siente que se esta preparando para ellos. La paradoja es que la preocupación amplifica la sensación de amenaza y mantiene el sistema nervioso en estado de alerta, haciendo que la siguente preocupación sea más probable.
+**El Principio de la Preocupación como Intento de Control del Neuroticismo que se Retroalimenta:** La investigación de Thomas Borkovec sobre el trastorno de ansiedad generalizada muestra que la preocupación cronica (caracteristica del neuroticismo alto) cumple una función subjetiva de control: al imaginar los peores escenarios, la persona siente que se está preparando para ellos. La paradoja es que la preocupación amplifica la sensación de amenaza y mantiene el sistema nervioso en estado de alerta, haciendo que la siguente preocupación sea más probable.
 
 La investigación muestra que la intolerancia a la incertidumbre (la dificultad para tolerar no saber como van a resultar las cosas) es la variable central que mantiene la preocupación cronica. Las personas con alta intolerancia a la incertidumbre se preocupan más porque la preocupación, aunque sea agotadora, es preferible a la incertidumbre de no saber.
 
-**Ejercicio inmediato:** Para tu preocupación más recurrente, reflexiona: ¿que certeza específica esta buscando esta preocupación? (que el proyecto saldrá bien, que la relación es segura, que el futuro será predecible). Esa certeza no la puede dar la preocupación, que es exactamente su trampa. La alternativa es practicar la tolerancia a no saber: esto puede salir de distintas formas y puedo afrontar cualquiera de ellas.
+**Ejercicio inmediato:** Para tu preocupación más recurrente, reflexiona: ¿que certeza específica está buscando esta preocupación? (que el proyecto saldrá bien, que la relación es segura, que el futuro será predecible). Esa certeza no la puede dar la preocupación, que es exactamente su trampa. La alternativa es practicar la tolerancia a no saber: esto puede salir de distintas formas y puedo afrontar cualquiera de ellas.
 
 La preocupación que buscas certeza nunca la encuentra. Siempre hay un nivel más de incertidumbre que necesita ser resuelto.
 

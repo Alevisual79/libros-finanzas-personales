@@ -27,7 +27,7 @@ El emprendimiento tiene una forma específica de desarrollo que el que no la con
 
 La investigación de Clayton Christensen sobre la innovación disruptiva muestra un patron similar: las innovaciones disruptivas raramente superan a las soluciones establecidas en las metricas que el mercado actual valora en los primeros períodos. Solo cuando generan su propio mercado o mejoran en las metricas que ese mercado valora, la tracción se vuelve visible.
 
-**Ejercicio inmediato:** Para tu proyecto o negocio actual, reflexiona: ¿donde estas en la curva J? ¿Eres todavia en la fase descendente inicial (aprendiendo, ajustando, sin tracción visible todavia)? ¿Eres en el punto de inflexion (empiezas a ver señales de tracción aunque todavia no son consistentes)? ¿Eres en la fase ascendente (la tracción es consistente y el aprendizaje se esta traduciendo en resultados)? Conocer tu posición en la curva cambia la interpretación de los resultados actuales.
+**Ejercicio inmediato:** Para tu proyecto o negocio actual, reflexiona: ¿donde estas en la curva J? ¿Eres todavia en la fase descendente inicial (aprendiendo, ajustando, sin tracción visible todavia)? ¿Eres en el punto de inflexion (empiezas a ver señales de tracción aunque todavia no son consistentes)? ¿Eres en la fase ascendente (la tracción es consistente y el aprendizaje se está traduciendo en resultados)? Conocer tu posición en la curva cambia la interpretación de los resultados actuales.
 
 La fase más dura de la curva J no es la que duele más. Es la que más parece fracaso cuando en realidad es proceso.
 
@@ -97,7 +97,7 @@ Carlos ha aprendido que cuando mira el trimestre se desespera, pero cuando mira 
 
 La investigación sobre el efecto de perspectiva temporal en el emprendimiento de Melissa Cardon muestra que los emprendedores que mantienen una visión de largo plazo clara durante las adversidades del corto plazo muestran mayor persistencia. La visión no elimina el dolor del momento pero lo contextualiza en algo que tiene sentido dentro de un horizonte mayor.
 
-**Ejercicio inmediato:** Para el contratiempo emprendedor que más te esta afectando actualmente, práctica el cambio de perspectiva temporal: ¿como verá este momento en tres años alguien que haya fundado un negocio exitoso? Esa persona probablemente reconocera este momento cómo una de las fases de aprendizaje más importantes del camino. La perspectiva futura no elimina la dificultad presente pero la hace tolerable de una forma diferente.
+**Ejercicio inmediato:** Para el contratiempo emprendedor que más te está afectando actualmente, práctica el cambio de perspectiva temporal: ¿como verá este momento en tres años alguien que haya fundado un negocio exitoso? Esa persona probablemente reconocera este momento cómo una de las fases de aprendizaje más importantes del camino. La perspectiva futura no elimina la dificultad presente pero la hace tolerable de una forma diferente.
 
 El problema que parece enorme en el mes se vuelve pequeño en el año. Y el que parece enorme en el año, a veces ni se recuerda en los tres años.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben dice lo siento con frecuencia, pero nada cambia después. No es un hipocrita consciente; genuinamente cree que esta haciendo lo correcto al disculparse. El problema es que nunca le enseñaron que una disculpa sin cambio de comportamiento subsecuente es, para quien la recibe, solo ruido verbal que eventualmente deja de significar nada.
+Ruben dice lo siento con frecuencia, pero nada cambia después. No es un hipocrita consciente; genuinamente cree que está haciendo lo correcto al disculparse. El problema es que nunca le enseñaron que una disculpa sin cambio de comportamiento subsecuente es, para quien la recibe, solo ruido verbal que eventualmente deja de significar nada.
 
 ---
 
@@ -135,7 +135,7 @@ Después de ofrecer una disculpa genuina y hacer el trabajo de cambio correspond
 
 **Ejercicio inmediato:** Si has hecho el trabajo genuino de disculpa y cambio por un daño que causaste, y sigues atrapado en culpa excesiva mucho tiempo después, reflexiona sobre si ha llegado el momento de trabajar también en perdonarte a ti mismo.
 
-Disculparte y cambiar es el trabajo hacía el otro. Perdonarte a ti mismo, cuando ese trabajo ya esta hecho, es el trabajo que falta hacía ti.
+Disculparte y cambiar es el trabajo hacía el otro. Perdonarte a ti mismo, cuando ese trabajo ya está hecho, es el trabajo que falta hacía ti.
 
 ---
 

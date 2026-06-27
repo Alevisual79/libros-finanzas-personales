@@ -85,7 +85,7 @@ La forma más efectiva de subir la tarifa sin conflicto es aplicarla a los nuevo
 
 **Ejercicio inmediato:** Calcula tu tarifa objetivo para dentro de doce meses: ¿que tarifa necesitas para alcanzar el revenue mensual objetivo con el número de horas que quieres trabajar? Esa tarifa objetivo te da la brecha a cerrar. Diseña el plan para cerrarla: ¿que especialización adicional, que casos de éxito, o que nuevo posicionamiento necesitas para justificar esa tarifa ante los clientes en doce meses?
 
-La tarifa del freelance que nunca sube no es estable. Es la tarifa de alguien cuyo valor se esta depreciando en terminos reales.
+La tarifa del freelance que nunca sube no es estable. Es la tarifa de alguien cuyo valor se está depreciando en terminos reales.
 
 ---
 
@@ -111,7 +111,7 @@ Marcos ha aprendido que la mayoría de los problemas con clientes vienen de expe
 
 El contrató no es solo un documento legal: es la herramienta de gestión de expectativas que define exactamente que incluye y que no incluye el proyecto. Un contrató claro al principio previene el 80% de los conflictos que ocurren sin el.
 
-**Ejercicio inmediato:** Para tu próximo proyecto de cliente, incluye en el contrató o la propuesta aceptada los siguientes elementos: el alcance exacto del proyecto (que esta incluido en detalle), el alcance excluido (que no esta incluido y cómo se facturara si se necesita), los hitos y plazos específicos de entrega, el proceso de revisión y aprobación (cuantas rondas de revisión incluye el precio y cómo se facturan las adicionales), y las condiciones de pago (cuanto, cuando, y que método). Esos cinco elementos, documentados por escrito y aceptados por el cliente, eliminan la mayoría de los malentendidos.
+**Ejercicio inmediato:** Para tu próximo proyecto de cliente, incluye en el contrató o la propuesta aceptada los siguientes elementos: el alcance exacto del proyecto (que está incluido en detalle), el alcance excluido (que no está incluido y cómo se facturara si se necesita), los hitos y plazos específicos de entrega, el proceso de revisión y aprobación (cuantas rondas de revisión incluye el precio y cómo se facturan las adicionales), y las condiciones de pago (cuanto, cuando, y que método). Esos cinco elementos, documentados por escrito y aceptados por el cliente, eliminan la mayoría de los malentendidos.
 
 El conflicto con el cliente que podrías haber prevenido con un contrató claro es el más caro. No en dinero, sino en energía y en relación.
 

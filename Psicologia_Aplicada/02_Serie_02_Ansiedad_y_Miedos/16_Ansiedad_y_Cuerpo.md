@@ -43,7 +43,7 @@ Lawrence Kirmayer, psicologo clínico de McGill, documenta que entre el treinta 
 
 **Ejercicio inmediato:** Toma nota de tus tres sintomas físicos más recurrentes y considera si su aparición o intensidad se correlaciona con períodos de mayor ansiedad o estres. Este ejercicio de correlación temporal no prueba la conexión, pero frecuentemente la hace visible por primera vez.
 
-La ansiedad no vive solo en la cabeza. Vive en cada sistema que el cuerpo tiene para decirte que algo no esta bien.
+La ansiedad no vive solo en la cabeza. Vive en cada sistema que el cuerpo tiene para decirte que algo no está bien.
 
 ---
 
@@ -51,7 +51,7 @@ La ansiedad no vive solo en la cabeza. Vive en cada sistema que el cuerpo tiene 
 
 Isabel ha tenido varios ataques de panico en los que la sensación más aterradora es no poder respirar. Paradojicamente, lo que parece falta de aire es frecuentemente el resultado de respirar demasiado.
 
-**El Principio de la Hiperventilación como Amplificador Paradojico:** Durante la ansiedad intensa, la tendencia natural es acelerar la respiración (hiperventilación) para obtener más oxigeno. La paradoja es que la hiperventilación, al eliminar dioxido de carbono más rápido de lo que el cuerpo lo produce, reduce la acidez de la sangre (alcalosis respiratoria), lo que produce un espectro de sensaciones que son en si mismas alarmaantes: hormigueos en las manos y la cara, mareo, sensación de irrealidad, opresión toracica, palpitaciones. Estas sensaciones se interpretan como evidencia de que algo grave esta ocurriendo, lo que activa más ansiedad, que produce más hiperventilación, cerrando el ciclo.
+**El Principio de la Hiperventilación como Amplificador Paradojico:** Durante la ansiedad intensa, la tendencia natural es acelerar la respiración (hiperventilación) para obtener más oxigeno. La paradoja es que la hiperventilación, al eliminar dioxido de carbono más rápido de lo que el cuerpo lo produce, reduce la acidez de la sangre (alcalosis respiratoria), lo que produce un espectro de sensaciones que son en si mismas alarmaantes: hormigueos en las manos y la cara, mareo, sensación de irrealidad, opresión toracica, palpitaciones. Estas sensaciones se interpretan como evidencia de que algo grave está ocurriendo, lo que activa más ansiedad, que produce más hiperventilación, cerrando el ciclo.
 
 Robert Fried, fisiologo que ha investigado la respiración y la ansiedad, documenta que la reeducación respiratoria (aprender a respirar de forma diafragmatica y lenta incluso durante la activación ansiosa) puede interrumpir este ciclo con resultados rápidos y duraderos. La respiración no es solo una consecuencia de la ansiedad. Es una de sus palancas de control más accesibles.
 

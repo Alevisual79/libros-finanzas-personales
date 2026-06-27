@@ -61,7 +61,7 @@ Hay personas que pueden tener sexo con alguien y no sentir ninguna intimidad. Y 
 
 **El Principio de las Capas de la Intimidad:** Los investigadores distinguen al menos seis tipos de intimidad: emocional (compartir lo que sientes), intelectual (compartir como piensas), física (comodidad con el contacto corporal), experiencial (vivir cosas juntos), espiritual (compartir valores y sentido) y creativa (construir algo juntos). La mayoría de personas tiene acceso facil a uno o dos tipos y bloqueo en los demás. Alguien puede compartir sus pensamientos con facilidad pero no sus emociones. Otro puede compartir su cuerpo pero no sus miedos.
 
-Irene Goldenberg, especialista en terapia familiar, señal que los conflictos de intimidad en pareja suelen ser conflictos de capas: cada persona busca un tipo de intimidad distinto y ninguna de las dos ve claramente que la otra también esta intentando conectar, solo que desde una capa diferente.
+Irene Goldenberg, especialista en terapia familiar, señal que los conflictos de intimidad en pareja suelen ser conflictos de capas: cada persona busca un tipo de intimidad distinto y ninguna de las dos ve claramente que la otra también está intentando conectar, solo que desde una capa diferente.
 
 **Ejercicio inmediato:** De los seis tipos de intimidad, cual te resulta más facil? ¿Cual te cuesta más? ¿Con quien de tu vida tienes cada tipo? Ese mapa te dice donde estan tus fortalezas relacionales y donde estan tus puntos ciegos.
 

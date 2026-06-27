@@ -35,7 +35,7 @@ La autoestima no es lo que piensas de ti mismo cuando las cosas van bien. Es lo 
 
 ## Capítulo 2: Los seis pilares de la autoestima segun Branden
 
-Elena cree que su autoestima es baja y que solo puede mejorar cuando logre más cosas, adelgace, o tenga una relación estable. Esta creyendo que la autoestima es un resultado de las circunstancias externas. La investigación de Branden sugiere que sus pilares son internos y practicables independientemente de las circunstancias.
+Elena cree que su autoestima es baja y que solo puede mejorar cuando logre más cosas, adelgace, o tenga una relación estable. Está creyendo que la autoestima es un resultado de las circunstancias externas. La investigación de Branden sugiere que sus pilares son internos y practicables independientemente de las circunstancias.
 
 **El Principio de los Seis Pilares como prácticas, no como Logros:** Nathaniel Branden identifica seis prácticas que constituyen la autoestima: vivir conscientemente (prestar atención a la experiencia real en lugar de evitarla), autoaceptación (reconocerse sin negación ni sin exageración), autorresponsabilidad (asumir la responsabilidad de las propias elecciones y sus consecuencias), autoafirmación (defender las propias necesidades, valores y formas de ser), vivir con proposito (tener metas claras que guien las propias acciones), e integridad personal (actuar en congruencia con los propios valores).
 
@@ -53,7 +53,7 @@ Ruben tiene buena autoestima cuando le va bien en el trabajo y baja autoestima c
 
 **El Principio de la Autoestima No Contingente como Meta:** Jennifer Crocker, psicóloga de Ohio State que ha investigado la autoestima contingente extensamente, documenta que las personas cuya autoestima depende fuertemente de resultados externos (logros academicos, aprobación de otros, atractivo físico, rendimiento en competencias) experimentan mayor ansiedad, mayor volatilidad emocional, y peor bienestar general que las personas con autoestima más estable e incondicional. Paradojicamente, la busqueda activa de autoestima contingente (hacer cosas para sentirse mejor con uno mismo) produce frecuentemente el resultado opuesto.
 
-Mark Leary, psicologo de Duke, propone el concepto de sociometro: la autoestima cómo un medidor interno del grado en que la persona esta siendo aceptada y valorada por los grupos sociales que le importan. Cuando el sociometro marca bajo (rechazó o exclusión), la autoestima baja produce una señal de alarma que motiva comportamientos de reintegración. Este mecanismo explica por qué la autoestima es tan sensible a la aprobación social: evolucionó precisamente para monitorizar la posición social.
+Mark Leary, psicologo de Duke, propone el concepto de sociometro: la autoestima cómo un medidor interno del grado en que la persona está siendo aceptada y valorada por los grupos sociales que le importan. Cuando el sociometro marca bajo (rechazó o exclusión), la autoestima baja produce una señal de alarma que motiva comportamientos de reintegración. Este mecanismo explica por qué la autoestima es tan sensible a la aprobación social: evolucionó precisamente para monitorizar la posición social.
 
 **Ejercicio inmediato:** Identifica los tres dominios de los que tu autoestima depende más (logró profesional, aprobación de otros, apariencia física, relaciones, etc.). Luego pregunta: ¿cuando esos dominios van mal, como afecta eso a tu evaluación global de tu valor como persona? Si la conexión es fuerte y automática, tienes alta autoestima contingente en esos dominios.
 
@@ -81,7 +81,7 @@ Ruben descuida su sueño, come de forma irregular, no hace ejercicio, y pasa la 
 
 **El Principio del Comportamiento como Mensaje al Yo:** Martin Seligman, en su investigación sobre la psicología positiva, y Amy Cuddy, en su investigación sobre el lenguaje corporal, documentan desde distintos ángulos la misma idea: la forma en que nos tratamos físicamente (como dormimos, nos movemos, comemos, descansamos) comunica al cerebro mensajes sobre nuestro propio valor que influyen en el estado de animo y el sentido de eficacia.
 
-Christophe Andre, psiquiatra frances que ha escrito extensamente sobre la autoestima, propone que el cuidado basico del cuerpo no es trivial en relación con la autoestima: la persona que se cuida físicamente de forma consistente, no por obsesión sino por respeto al propio cuerpo, esta ejecutando una práctica de autovalia que el cerebro registra. El cuidado del cuerpo no es vanidad. Es la acción concreta de tratarse como alguien que vale la pena cuidar.
+Christophe Andre, psiquiatra frances que ha escrito extensamente sobre la autoestima, propone que el cuidado basico del cuerpo no es trivial en relación con la autoestima: la persona que se cuida físicamente de forma consistente, no por obsesión sino por respeto al propio cuerpo, está ejecutando una práctica de autovalia que el cerebro registra. El cuidado del cuerpo no es vanidad. Es la acción concreta de tratarse como alguien que vale la pena cuidar.
 
 **Ejercicio inmediato:** Identifica el área de cuidado físico que más has descuidado en el último mes. Diseña una acción específica para esta semana en esa área: no una transformación completa, solo un gesto concreto de cuidado. El objetivo no es la salud en si misma (aunque también). Es el mensaje que ese gesto envia al propio cerebro sobre el propio valor.
 

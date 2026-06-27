@@ -47,11 +47,11 @@ La dependencia emocional que sientes ahora frecuentemente tiene sus raices en un
 
 Identificar señales específicas y reconocibles de dependencia emocional ayuda a evaluar honestamente la presencia y el grado de este patron en las propias relaciones.
 
-**El Principio de los Indicadores específicos de Dependencia:** Las señales comunes de dependencia emocional incluyen ansiedad significativa cuando la persona de quien se depende no esta disponible, dificultad para tomar decisiones sin la aprobación de esa persona, una identidad propia que se siente fragil o incompleta sin la relación, y la tendencia a tolerar tratamiento insatisfactorio por miedo a la perdida de la relación más que por satisfacción genuina con ella.
+**El Principio de los Indicadores específicos de Dependencia:** Las señales comunes de dependencia emocional incluyen ansiedad significativa cuando la persona de quien se depende no está disponible, dificultad para tomar decisiones sin la aprobación de esa persona, una identidad propia que se siente fragil o incompleta sin la relación, y la tendencia a tolerar tratamiento insatisfactorio por miedo a la perdida de la relación más que por satisfacción genuina con ella.
 
 **Ejercicio inmediato:** Revisa estas señales específicas y evalua honestamente cuantas reconoces presentes en tu relación más significativa actualmente.
 
-Reconocer las señales específicas de dependencia emocional, en lugar de una sensación vaga de que algo no esta bien, permite una evaluación más honesta y precisa de tu propio patron.
+Reconocer las señales específicas de dependencia emocional, en lugar de una sensación vaga de que algo no está bien, permite una evaluación más honesta y precisa de tu propio patron.
 
 ---
 
@@ -69,7 +69,7 @@ El ciclo de dependencia se refuerza a si mismo cada vez que el comportamiento de
 
 ## Capítulo 5: Dependencia emocional y relaciones toxicas: la conexión
 
-La dependencia emocional aumenta significativamente la vulnerabilidad a permanecer en relaciones toxicas, porque la necesidad de la aprobación y presencia del otro puede superar la conciencia del daño que la relación esta causando.
+La dependencia emocional aumenta significativamente la vulnerabilidad a permanecer en relaciones toxicas, porque la necesidad de la aprobación y presencia del otro puede superar la conciencia del daño que la relación está causando.
 
 **El Principio de la Vulnerabilidad Aumentada a la Toxicidad:** Las personas con patrones de dependencia emocional significativa son particularmente vulnerables a permanecer en relaciones con dinámicas toxicas, porque su necesidad de la relación, independientemente de su calidad real, puede superar su capacidad de reconocer objetivamente el daño que estan experimentando, especialmente cuando la relación toxica incluye el ciclo de idealización-devaluación discutido en otros libros de esta serie.
 

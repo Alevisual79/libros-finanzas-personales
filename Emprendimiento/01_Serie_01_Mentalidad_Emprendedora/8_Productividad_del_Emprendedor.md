@@ -51,7 +51,7 @@ Los negocios que crecen no son los que hacen más cosas. Son los que hacen más 
 
 Carlos ha aprendido que el trabajo más importante de su negocio requiere períodos de concentración ininterrumpida que su entorno actual no le permite tener.
 
-**El Principio del Trabajo Profundo cómo la Actividad de Mayor Valor que Requiere Protección Deliberada porque el Entorno del Emprendimiento Esta Diseñado para Interrumpirla:** Cal Newport en Deep Work propone que la capacidad de concentrarse profundamente en tarea cognitivamente exigentes durante períodos extendidos es la habilidad más valiosa en la economía del conocimiento y la más amenazada por la cultura de la conectividad constante. El trabajo profundo (la producción de conocimiento, la estrategia, la creación de producto, el desarrollo de propuesta de valor) es el que más contribuye al crecimiento del negocio y el que más frecuentemente se interrumpe.
+**El Principio del Trabajo Profundo cómo la Actividad de Mayor Valor que Requiere Protección Deliberada porque el Entorno del Emprendimiento Está Diseñado para Interrumpirla:** Cal Newport en Deep Work propone que la capacidad de concentrarse profundamente en tarea cognitivamente exigentes durante períodos extendidos es la habilidad más valiosa en la economía del conocimiento y la más amenazada por la cultura de la conectividad constante. El trabajo profundo (la producción de conocimiento, la estrategia, la creación de producto, el desarrollo de propuesta de valor) es el que más contribuye al crecimiento del negocio y el que más frecuentemente se interrumpe.
 
 La investigación de Gloria Mark muestra que el trabajador promedio en la economía del conocimiento es interrumpido cada tres minutos y cuarenta segundos y necesita veintitres minutos para recuperar el nivel de concentración previo. En ese entorno, el trabajo profundo de calidad es praicamente imposible sin protección deliberada del tiempo.
 
@@ -149,7 +149,7 @@ El emprendedor que trabaja de forma sostenible diez años produce más que el qu
 
 Lucia ha llegado a entender que la productividad emprendedora no puede depender de la motivación porque la motivación fluctua.
 
-**El Principio del Sistema de Productividad cómo lo que Funciona cuando la Motivación No Esta porque Esta Diseñado para No Depender de Ella:** James Clear propone que los sistemas de habitos (rutinas automatizadas) son superiores a los objetivos para la productividad porque funcionan independientemente del nivel de motivación del momento. Un sistema de trabajo bien diseñado produce output incluso en los dias en que la motivación es mínima.
+**El Principio del Sistema de Productividad cómo lo que Funciona cuando la Motivación No Esta porque Está Diseñado para No Depender de Ella:** James Clear propone que los sistemas de habitos (rutinas automatizadas) son superiores a los objetivos para la productividad porque funcionan independientemente del nivel de motivación del momento. Un sistema de trabajo bien diseñado produce output incluso en los dias en que la motivación es mínima.
 
 La investigación de Roy Baumeister sobre el agotamiento del ego sugiere que la energía de autogobierno es limitada. Los sistemas que reducen el número de decisiones que hay que tomar (que hacer primero, cuando revisar el email, como empezar la mañana) conservan esa energía para las decisiones que realmente la requieren.
 

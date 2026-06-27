@@ -71,7 +71,7 @@ Una disculpa sin estos tres elementos no es realmente una disculpa reparadora. E
 
 Recibir una disculpa genuina con apertura, sin que esto signifique fingir que el dolor ha desaparecido instantaneamente, es la otra mitad necesaria del proceso de reparación relacional.
 
-**El Principio de la Apertura sin Presión de Resolución Instantanea:** Recibir una disculpa con apertura significa reconocer el esfuerzo genuino de quien la ofrece, sin sentirse obligado a declarar que todo esta resuelto inmediatamente si las emociones residuales todavia necesitan tiempo de procesamiento. La apertura y el tiempo necesario para sanar completamente no son mutuamente excluyentes.
+**El Principio de la Apertura sin Presión de Resolución Instantanea:** Recibir una disculpa con apertura significa reconocer el esfuerzo genuino de quien la ofrece, sin sentirse obligado a declarar que todo está resuelto inmediatamente si las emociones residuales todavia necesitan tiempo de procesamiento. La apertura y el tiempo necesario para sanar completamente no son mutuamente excluyentes.
 
 **Ejercicio inmediato:** Si has recibido recientemente una disculpa genuina, práctica reconocer explicitamente el esfuerzo de quien la ofreció, sin sentirte presionado a declarar una resolución completa que todavia no sientes genuinamente.
 

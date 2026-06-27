@@ -139,7 +139,7 @@ Lucia ha aprendido a medir el éxito del infoproducto con metricas que van más 
 
 La investigación de Thinkific sobre los patrones de revenue de sus creadores exitosos muestra que los que tienen mayor revenue a tres años tienen consistentemente alta completion rate y alto NPS, no necesariamente el mayor revenue de lanzamiento inicial.
 
-**Ejercicio inmediato:** Para tu curso actual (o el que vas a crear), define los cinco metricas que mediras periodicamente: revenue total, completion rate, NPS de los estudiantes que terminan, tasa de referidos, y ratio revenue/tiempo-del-creador. Para la completion rate y el NPS, crea un sistema de seguimiento automático (una encuesta a los quince y treinta dias de inició del curso). Esas metricas te dicen si el curso esta produciendo el resultado que promete y si los estudiantes lo recomendarian.
+**Ejercicio inmediato:** Para tu curso actual (o el que vas a crear), define los cinco metricas que mediras periodicamente: revenue total, completion rate, NPS de los estudiantes que terminan, tasa de referidos, y ratio revenue/tiempo-del-creador. Para la completion rate y el NPS, crea un sistema de seguimiento automático (una encuesta a los quince y treinta dias de inició del curso). Esas metricas te dicen si el curso está produciendo el resultado que promete y si los estudiantes lo recomendarian.
 
 El curso que vende bien pero que nadie completa tiene un problema de calidad que eventualmente destruira la reputación del creador. El que tienen alta completion rate construye la reputación que produce más ventas.
 

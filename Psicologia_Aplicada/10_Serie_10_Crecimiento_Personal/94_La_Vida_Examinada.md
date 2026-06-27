@@ -97,7 +97,7 @@ Elena reflexiona mucho pero frecuentemente esa reflexión no produce claridad si
 
 La diferencia entre la reflexión productiva y la rumiación no es el topico (ambas pueden centrarse en los mismos problemas) sino el proceso: la reflexión productiva avanza (produce comprensión nueva, genera opciones, conduce a aceptación o acción), mientras que la rumiación circula (vuelve repetidamente al mismo punto sin avanzar).
 
-**Ejercicio inmediato:** Para el pensamiento repetitivo que más energía consumes actualmente, reflexiona: ¿este pensamiento me esta produciendo comprensión nueva o solo me esta haciendo girar en circulos? Si la respuesta es girar en circulos, aplica el interruptor cognitivo: una actividad física de moderada intensidad (caminar, correr, nadar) durante veinte minutos. La investigación de Nolen-Hoeksema muestra que el ejercicio físico es uno de los interruptores más efectivos de la rumiación.
+**Ejercicio inmediato:** Para el pensamiento repetitivo que más energía consumes actualmente, reflexiona: ¿este pensamiento me está produciendo comprensión nueva o solo me está haciendo girar en circulos? Si la respuesta es girar en circulos, aplica el interruptor cognitivo: una actividad física de moderada intensidad (caminar, correr, nadar) durante veinte minutos. La investigación de Nolen-Hoeksema muestra que el ejercicio físico es uno de los interruptores más efectivos de la rumiación.
 
 La reflexión que no avanza no es reflexión. Es sufrimiento circular con apariencia de pensamiento.
 

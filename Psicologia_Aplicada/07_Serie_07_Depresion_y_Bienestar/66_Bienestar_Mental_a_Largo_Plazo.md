@@ -123,7 +123,7 @@ Ruben vive en modo hacer permanente. El bienestar a largo plazo requiere tambié
 
 **El Principio del Ser como práctica Necesaria en la Vida Contemporanea:** La filosofía budista y la psicología contemplativa convergen en identificar la capacidad de estar plenamente presente en el momento actual, sin agenda y sin juicio, cómo una fuente de bienestar que el modo hacer permanente hace imposible. Jon Kabat-Zinn propone que el modo ser (simplemente estar, sin orientación a logros o resultados) es una capacidad que se puede desarrollar y que produce efectos medibles en el bienestar.
 
-La investigación de Killingsworth y Gilbert muestra que la mente humana esta vagando el 47% del tiempo y que ese vagabundeo mental se asocia con menor bienestar que el estado de presencia en la actividad actual, independientemente de la actividad. La práctica de mindfulness entrena la capacidad de estar presente que el modo hacer permanente deteriora.
+La investigación de Killingsworth y Gilbert muestra que la mente humana está vagando el 47% del tiempo y que ese vagabundeo mental se asocia con menor bienestar que el estado de presencia en la actividad actual, independientemente de la actividad. La práctica de mindfulness entrena la capacidad de estar presente que el modo hacer permanente deteriora.
 
 **Ejercicio inmediato:** Esta semana, programa diez minutos diarios para simplemente sentarte sin agenda: sin teléfono, sin musica, sin tarea. No para meditar con técnica específica: solo para ser. Para muchas personas este ejercicio produce inicialmente incomodidad (la urgencia de hacer algo). Esa incomodidad es información sobre cuanto espacio ocupa el hacer en la vida.
 
@@ -141,7 +141,7 @@ La investigación neurocientifera de Marian Diamond sobre la neuroplasticidad y 
 
 **Ejercicio inmediato:** Imagina a la persona que quieres ser a los setenta años en tres dimensiones: ¿mentalmente (que tan aguda quieres que este tu mente?), físicamente (que nivel de función física quieres mantener?), y relacionalmente (que tipo de relaciones quieres tener?). Para cada dimensión, identifica un habito que podrías empezar a establecer ahora que construya hacía esa visión.
 
-La persona que seras a los setenta esta siendo formada por las decisiones que tomas a los treinta, los cuarenta, y los cincuenta. No en un sentido determinista. En un sentido probabilistico que favorece la inversión temprana.
+La persona que seras a los setenta está siendo formada por las decisiones que tomas a los treinta, los cuarenta, y los cincuenta. No en un sentido determinista. En un sentido probabilistico que favorece la inversión temprana.
 
 ---
 

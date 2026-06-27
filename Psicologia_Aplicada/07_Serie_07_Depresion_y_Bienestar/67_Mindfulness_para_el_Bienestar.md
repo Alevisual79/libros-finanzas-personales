@@ -63,7 +63,7 @@ El mindfulness que se aprende en una app no es el mismo que el que se aprende en
 
 ## Capítulo 4: La práctica formal: como meditar de forma que funcione
 
-Ruben ha intentado meditar pero no sabe si lo esta haciendo bien. El principal indicador de que lo esta haciendo bien es que lo siga haciendo.
+Ruben ha intentado meditar pero no sabe si lo está haciendo bien. El principal indicador de que lo está haciendo bien es que lo siga haciendo.
 
 **El Principio de la práctica Regular por Encima de la práctica Perfecta:** La investigación sobre el entrenamiento en mindfulness muestra que la consistencia de la práctica (dias por semana) predice los beneficios mejor que la duración de cada sesión. Un estudio de Willoughby Britton y colegas muestra que cinco minutos diarios de práctica durante ocho semanas producen cambios medibles en la regulación emocional, aunque con menor magnitud que la práctica de cuarenta y cinco minutos.
 
@@ -97,7 +97,7 @@ Ruben tiende a ser arrastrado por sus emociones. El mindfulness le ofrece una po
 
 La investigación de Judson Brewer y colegas sobre el mindfulness y la regulación emocional muestra que el entrenamiento en mindfulness reduce la reactividad de la amigdala y aumenta la capacidad de la corteza prefrontal para modular esa reactividad. En terminos prácticos: la persona que práctica mindfulness no experimenta emociones menos intensas sino que tiene más tiempo entre el estímulo y la respuesta, lo que permite elegir la respuesta en lugar de reaccionar automáticamente.
 
-**Ejercicio inmediato:** La próxima vez que experimentes una emoción negativa intensa, práctica el protocolo RAIN de Tara Brach: Reconoce la emoción (pon un nombre a lo que sientes), Acepta que esta presente (sin intentar eliminarla), Investiga donde se siente en el cuerpo (no en los pensamientos sino en las sensaciones físicas), y Nurture (lleva compasión a esa parte de ti que esta sufriendo). Ese protocolo rompe la fusión automática con la emoción.
+**Ejercicio inmediato:** La próxima vez que experimentes una emoción negativa intensa, práctica el protocolo RAIN de Tara Brach: Reconoce la emoción (pon un nombre a lo que sientes), Acepta que esta presente (sin intentar eliminarla), Investiga donde se siente en el cuerpo (no en los pensamientos sino en las sensaciones físicas), y Nurture (lleva compasión a esa parte de ti que está sufriendo). Ese protocolo rompe la fusión automática con la emoción.
 
 La emoción que observas con curiosidad no te controla. La que te convierte en ella si.
 
@@ -161,7 +161,7 @@ El mindfulness que produce malestar significativo es mindfulness mal dosificado 
 
 ## Epílogo
 
-Ruben lleva dieciocho meses practicando cinco minutos cada mañana antes de mirar el movil. No ha tenido ninguna experiencia de iluminación. Lo que si ha notado: se enfada con menos intensidad, o al menos tiene algo de espacio antes de responder cuando se enfada. Piensa menos tiempo en los problemas antes de dormir. Y cuando la mente empieza a rumiar, a veces nota que lo esta haciendo y puede redirigir la atención. No siempre. Pero con más frecuencia que antes. Y eso, después de dieciocho meses, le parece suficiente.
+Ruben lleva dieciocho meses practicando cinco minutos cada mañana antes de mirar el movil. No ha tenido ninguna experiencia de iluminación. Lo que si ha notado: se enfada con menos intensidad, o al menos tiene algo de espacio antes de responder cuando se enfada. Piensa menos tiempo en los problemas antes de dormir. Y cuando la mente empieza a rumiar, a veces nota que lo está haciendo y puede redirigir la atención. No siempre. Pero con más frecuencia que antes. Y eso, después de dieciocho meses, le parece suficiente.
 
 ---
 

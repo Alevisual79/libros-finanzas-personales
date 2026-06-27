@@ -139,7 +139,7 @@ Ruben ha considerado la medicación para la ansiedad pero tiene dudas: miedo a l
 
 Stefan Hofmann, investigador de Boston University especializado en TCC para ansiedad, documenta que la combinación de TCC con farmacoterapia produce mejores resultados que cualquiera de los dos tratamientos solos para la mayoría de los trastornos de ansiedad, y que la TCC produce cambios que persisten después de discontinuar la medicación, mientras los efectos de la medicación sola tienden a revertir con la discontinuación.
 
-**Ejercicio inmediato:** Si tu ansiedad es severa y esta interfiriendo significativamente en tu funcionamiento, habla con un profesional de la salud (psicologo o psiquiatra) antes de tomar cualquier decisión sobre medicación. La decisión sobre farmacoterapia requiere evaluación individual que ninguna lectura puede sustituir.
+**Ejercicio inmediato:** Si tu ansiedad es severa y está interfiriendo significativamente en tu funcionamiento, habla con un profesional de la salud (psicologo o psiquiatra) antes de tomar cualquier decisión sobre medicación. La decisión sobre farmacoterapia requiere evaluación individual que ninguna lectura puede sustituir.
 
 La medicación no es renunciar a gestionarlo. Para ciertos niveles de ansiedad, es la herramienta que permite que el trabajo de cambio real sea posible.
 
@@ -153,7 +153,7 @@ Elena ha leido sobre muchas técnicas. El reto ahora es integrarlas en un plan c
 
 Un plan personal de gestión de la ansiedad podría incluir: una técnica de regulación fisiologica para episodios agudos (respiración diafragmatica, técnica 5-4-3-2-1 de grounding), una práctica regular de exposición graduada a las situaciones evitadas, un habito de ejercicio aerobico como base fisiologica, y posiblemente práctica de mindfulness o trabajo con un terapeuta para los componentes cognitivos más persistentes. La clave es la consistencia en el tiempo, no la perfección en cada sesión.
 
-**Ejercicio inmediato:** Diseña tu plan personal de gestión de la ansiedad para los próximos treinta dias. Para cada técnica que incluyas, específica: cuando la practicaras, durante cuanto tiempo, y como evaluaras si esta funcionando. Un plan escrito con fechas específicas tiene más probabilidad de implementarse que una lista de buenas intenciones.
+**Ejercicio inmediato:** Diseña tu plan personal de gestión de la ansiedad para los próximos treinta dias. Para cada técnica que incluyas, específica: cuando la practicaras, durante cuanto tiempo, y como evaluaras si está funcionando. Un plan escrito con fechas específicas tiene más probabilidad de implementarse que una lista de buenas intenciones.
 
 No existe el plan perfecto de gestión de ansiedad. Existe el plan que realmente prácticas con suficiente consistencia como para qué produzca cambio.
 

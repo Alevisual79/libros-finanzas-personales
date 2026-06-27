@@ -29,7 +29,7 @@ Stefan Hofmann, investigador de Boston University especializado en ansiedad soci
 
 **Ejercicio inmediato:** Distingue entre situaciones sociales que encuentras simplemente agotadoras o poco preferibles (prefiero estar solo o en grupos pequeños) y situaciones sociales que evitas activamente por miedo a ser juzgado negativamente. Solo las segundas son ansiedad social propiamente dicha.
 
-No toda incomodidad social es ansiedad social. Pero si la evitación de situaciones sociales te esta costando algo importante, merece atención específica.
+No toda incomodidad social es ansiedad social. Pero si la evitación de situaciones sociales te está costando algo importante, merece atención específica.
 
 ---
 
@@ -53,9 +53,9 @@ Ruben en situaciones sociales tiene la sensación constante de estar siendo obse
 
 **El Principio de la Atención Autofocalizada como Amplificador de la Ansiedad:** Adrian Wells demostró que redirigir la atención hacía el interior (monitorizar los propios gestos, palabras, sudoración, rubor) en situaciones sociales produce dos efectos paradojicos: amplifica la percepción subjetiva de los propios sintomas de ansiedad (haciendo que la persona crea que sus sintomas son más visibles de lo que son), y reduce la calidad de la interacción al robar recursos cognitivos que deberían estar destinados a escuchar y responder a la otra persona. El resultado es una profezia autocumplida: la autobservación ansiosa deteriora la interacción, que parece confirmar el temor inicial.
 
-El experimento de cambio de foco de atención de Wells es esclarecedor: pedirle a personas con ansiedad social que en la misma situación pongan su atención deliberadamente en el entorno exterior (lo que el otro esta diciendo, el ambiente, los detalles de la situación) en lugar de en si mismas produce reducciones inmediatas de la ansiedad y mejoras en el rendimiento social que los propios participantes reportan como sorprendentes.
+El experimento de cambio de foco de atención de Wells es esclarecedor: pedirle a personas con ansiedad social que en la misma situación pongan su atención deliberadamente en el entorno exterior (lo que el otro está diciendo, el ambiente, los detalles de la situación) en lugar de en si mismas produce reducciones inmediatas de la ansiedad y mejoras en el rendimiento social que los propios participantes reportan como sorprendentes.
 
-**Ejercicio inmediato:** En tu próxima conversación con ansiedad social, práctica el cambio de foco deliberado: redirijo toda mi atención hacía lo que la otra persona esta diciendo (sus palabras exactas, el tono que usa, lo que parece importante para ella). Cada vez que notes que tu atención regresa hacía ti mismo, vuelve suavemente a la otra persona. El objetivo es escucharla de verdad, no monitorizarte a ti.
+**Ejercicio inmediato:** En tu próxima conversación con ansiedad social, práctica el cambio de foco deliberado: redirijo toda mi atención hacía lo que la otra persona está diciendo (sus palabras exactas, el tono que usa, lo que parece importante para ella). Cada vez que notes que tu atención regresa hacía ti mismo, vuelve suavemente a la otra persona. El objetivo es escucharla de verdad, no monitorizarte a ti.
 
 Cuando tu atención esta completamente en el otro, no le queda espacio para observarte a ti mismo. Y eso es exactamente lo que necesitas.
 

@@ -41,7 +41,7 @@ Elena experimenta envidia de dos formas muy diferentes: a veces la motiva a trab
 
 Las condiciones que determinan cual emerge incluyen: la percepción de que la ventaja del otro es merecida (tiende a producir envidia benigna) o inmerecida (tiende a producir envidia maligna), la similitud percibida con el envidiado (mayor similitud produce mayor envidia, frecuentemente maligna), y la dimensión en que se compara.
 
-**Ejercicio inmediato:** Para la envidia más intensa que experimentes actualmente, clasifica: ¿es principalmente benigna (deseas llegar donde el otro ha llegado) o maligna (deseas que el otro perdiera lo que tiene)? Si es maligna, reflexiona sobre la percepción de merecimiento: ¿crees que el otro no merecia lo que consiguio? Examina si hay evidencia objetiva para esa evaluación o si el juicio esta siendo generado por la envidia misma.
+**Ejercicio inmediato:** Para la envidia más intensa que experimentes actualmente, clasifica: ¿es principalmente benigna (deseas llegar donde el otro ha llegado) o maligna (deseas que el otro perdiera lo que tiene)? Si es maligna, reflexiona sobre la percepción de merecimiento: ¿crees que el otro no merecia lo que consiguio? Examina si hay evidencia objetiva para esa evaluación o si el juicio está siendo generado por la envidia misma.
 
 La envidia que quiere elevarte es un recurso. La que quiere hundir al otro es un coste. Saber cual tienes es saber que hacer con ella.
 

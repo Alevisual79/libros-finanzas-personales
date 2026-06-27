@@ -93,7 +93,7 @@ Un duelo que no avanza después de mucho tiempo no es debilidad personal. Es inf
 
 ## Capítulo 7: El dolor de la presencia ausente: alguien que sigue vivo pero ya no esta
 
-Una forma particularmente compleja de duelo relacional ocurre cuando la persona perdida sigue físicamente viva y presente en algunas circunstancias (un padre con demencia severa, un familiar distanciado que aun se ve ocasionalmente) pero la relación como existia ya no esta disponible.
+Una forma particularmente compleja de duelo relacional ocurre cuando la persona perdida sigue físicamente viva y presente en algunas circunstancias (un padre con demencia severa, un familiar distanciado que aun se ve ocasionalmente) pero la relación como existia ya no está disponible.
 
 **El Principio del Duelo de la Presencia Ausente:** Este tipo específico de duelo, donde la persona esta físicamente presente pero la relación ha cambiado fundamentalmente o desaparecido, genera una complejidad particular porque carece de los marcadores claros de finalización (un funeral, una ruptura definitiva) que ayudan a procesar otros tipos de perdida.
 

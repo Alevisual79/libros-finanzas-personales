@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena sabe exactamente lo que debería comer. Lo que pasa cuando llega al buffet libre es otra cosa. Isabel sabe que debería apagar el ordenador a las seis de la tarde. Las siete llega y todavia esta trabajando. Ruben sabe que debería guardar el dinero del extra de este mes. En lugar de eso lo ha gastado en tres cosas que no necesitaba. Los tres tienen el mismo problema: la brecha entre la versión de si mismos que sabe lo que quiere hacer y la versión que en el momento concreto hace algo diferente. Esa brecha es el territorio de la autorregulación, y la ciencia del comportamiento tiene mucho que decir sobre como reducirla sin que eso requiera convertirse en una persona diferente.
+Elena sabe exactamente lo que debería comer. Lo que pasa cuando llega al buffet libre es otra cosa. Isabel sabe que debería apagar el ordenador a las seis de la tarde. Las siete llega y todavia está trabajando. Ruben sabe que debería guardar el dinero del extra de este mes. En lugar de eso lo ha gastado en tres cosas que no necesitaba. Los tres tienen el mismo problema: la brecha entre la versión de si mismos que sabe lo que quiere hacer y la versión que en el momento concreto hace algo diferente. Esa brecha es el territorio de la autorregulación, y la ciencia del comportamiento tiene mucho que decir sobre como reducirla sin que eso requiera convertirse en una persona diferente.
 
 ---
 
@@ -43,7 +43,7 @@ Los intentos de replicar este efecto han producido resultados mixtos. La investi
 
 **Ejercicio inmediato:** Identifica el momento del dia donde tu autocontrol es más alto (generalmente la mañana, antes de que las demandas del dia se acumulen) y el momento donde es más bajo. Programa las decisiones más importantes y las tareas que requieren mayor autocontrol en el primer período. Las decisiones de menor importancia o los comportamientos que ya son habituales pueden hacerse en el segundo período sin coste significativo.
 
-La fuerza de voluntad que usas para cosas pequeñas no esta disponible para las grandes. Guarda la tuya para lo que importa.
+La fuerza de voluntad que usas para cosas pequeñas no está disponible para las grandes. Guarda la tuya para lo que importa.
 
 ---
 

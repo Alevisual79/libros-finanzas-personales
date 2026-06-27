@@ -61,7 +61,7 @@ No todos los conflictos laborales requieren intervención activa de un superior 
 
 **El Principio del Criterio de Intervención:** Los conflictos que requieren intervención activa son los que muestran escalada continua sin signos de resolución natural, los que afectan significativamente el desempeño o el bienestar del equipo más allá de las personas directamente involucradas, y los que involucran un desequilibrio de poder que impide una resolución equitativa sin mediación externa. Los conflictos menores entre personas con buena relación general frecuentemente se resuelven sin intervención si se les da espacio.
 
-**Ejercicio inmediato:** Si estas considerando intervenir en un conflicto del que eres testigo o responsable, evalua contra estos criterios: ¿esta escalando, esta afectando a otros más allá de las partes directas, hay un desequilibrio de poder relevante?
+**Ejercicio inmediato:** Si estas considerando intervenir en un conflicto del que eres testigo o responsable, evalua contra estos criterios: ¿está escalando, está afectando a otros más allá de las partes directas, hay un desequilibrio de poder relevante?
 
 No todo conflicto necesita que alguien intervenga. Pero el que cumple los criterios de riesgo, si lo necesita, y postergarlo lo empeora.
 

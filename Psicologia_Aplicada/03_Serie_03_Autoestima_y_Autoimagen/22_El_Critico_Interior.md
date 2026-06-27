@@ -97,7 +97,7 @@ Elena ha tenido su crítico interior durante tanto tiempo que ya no sabe bien do
 
 Esta distinción no es solo conceptual. Tiene implicaciones prácticas: cuando se puede observar el crítico desde el Self (ah, el crítico se ha activado de nuevo) en lugar de ser el crítico (soy incompetente), el espacio para elegir la respuesta aumenta significativamente.
 
-**Ejercicio inmediato:** Durante un dia, práctica la notación: cada vez que el crítico interior se active, nota en primera persona observadora ah, el crítico esta diciendo X. Esta práctica crea la distancia observacional entre tu y la voz crítica que es el primer paso de la diferenciación.
+**Ejercicio inmediato:** Durante un dia, práctica la notación: cada vez que el crítico interior se active, nota en primera persona observadora ah, el crítico está diciendo X. Esta práctica crea la distancia observacional entre tu y la voz crítica que es el primer paso de la diferenciación.
 
 No eres tu crítico interior. Eres quien lo escucha y puede elegir cuanto creerle.
 

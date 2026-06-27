@@ -41,7 +41,7 @@ Lucia ha aprendido que el posicionamiento no es lo que dices sobre tu empresa. E
 
 La investigación de Mark Ritson sobre el posicionamiento de marca muestra que las empresas con posicionamiento más claro (que puede articularse en una frase específica que diferencie al negocio de todos sus competidores) tienen mayor crecimiento de revenue, mayor retention de clientes, y mayor premium de precio que las de posicionamiento vago o no diferenciado.
 
-**Ejercicio inmediato:** Escribe tu declaración de posicionamiento en el formato clasico: para (cliente objetivo), (nombre del negocio) es el/la (categoría del producto o servicio) que (beneficio principal diferencial) porque (razón unica de creencia). Ejemplo: para empresas de servicios que crecen, (mi empresa) es la plataforma de gestión que más reduce el tiempo de gestión administrativa porque (tecnología específica o metodologia unica). Si no puedes completar esa frase con especificidad genuina, el posicionamiento todavia no esta claro.
+**Ejercicio inmediato:** Escribe tu declaración de posicionamiento en el formato clasico: para (cliente objetivo), (nombre del negocio) es el/la (categoría del producto o servicio) que (beneficio principal diferencial) porque (razón unica de creencia). Ejemplo: para empresas de servicios que crecen, (mi empresa) es la plataforma de gestión que más reduce el tiempo de gestión administrativa porque (tecnología específica o metodologia unica). Si no puedes completar esa frase con especificidad genuina, el posicionamiento todavia no está claro.
 
 El posicionamiento vago no posiciona. Solo ocupa espacio que la competencia puede llenar con algo más específico.
 
@@ -55,7 +55,7 @@ Marcos ha aprendido que el nombre perfecto no existe pero hay criterios claros p
 
 La investigación de Simon Laham sobre como los nombres afectan las decisiones muestra que los nombres más faciles de pronunciar producen mayor confianza y mayor disposición a comprar, independientemente del contenido que el nombre comunique. La fluidez cognitiva (la facilidad de procesamiento de un nombre) es un activo real del nombre de marca.
 
-**Ejercicio inmediato:** Para tu nombre actual o los candidatos que estas evaluando, aplica cinco criterios: ¿se puede pronunciar facilmente en español (o en el idioma de tu mercado) sin ambiguedad? ¿Es posible buscarlo en Google sin confundirse con algo completamente diferente? ¿Esta disponible como dominio web (aunque sea con una extensión diferente a .com)? ¿Cuando lo escuchas por primera vez, queda en la memoria? ¿Produce alguna asociación positiva con lo que el negocio hace o el problema que resuelve? Los nombres que superan los cinco criterios son candidatos sólidos.
+**Ejercicio inmediato:** Para tu nombre actual o los candidatos que estas evaluando, aplica cinco criterios: ¿se puede pronunciar facilmente en español (o en el idioma de tu mercado) sin ambiguedad? ¿Es posible buscarlo en Google sin confundirse con algo completamente diferente? ¿Está disponible como dominio web (aunque sea con una extensión diferente a .com)? ¿Cuando lo escuchas por primera vez, queda en la memoria? ¿Produce alguna asociación positiva con lo que el negocio hace o el problema que resuelve? Los nombres que superan los cinco criterios son candidatos sólidos.
 
 El nombre que describe exactamente lo que haces es descriptivo. El que se queda en la mente es una marca.
 

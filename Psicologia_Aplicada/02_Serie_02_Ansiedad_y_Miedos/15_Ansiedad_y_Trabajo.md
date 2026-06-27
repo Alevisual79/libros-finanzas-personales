@@ -77,7 +77,7 @@ La ansiedad del domingo no es sobre el domingo. Es sobre algo específico del tr
 
 ## Capítulo 5: Perfeccionismo y ansiedad laboral
 
-Ruben no descansa cuando un proyecto esta bien. Descansa cuando esta perfecto. Y la perfección, en su experiencia, siempre puede mejorar un poco más. Este patron, que percibe como exigencia y responsabilidad, tiene un precio en ansiedad cronica que paga silenciosamente.
+Ruben no descansa cuando un proyecto está bien. Descansa cuando esta perfecto. Y la perfección, en su experiencia, siempre puede mejorar un poco más. Este patron, que percibe como exigencia y responsabilidad, tiene un precio en ansiedad cronica que paga silenciosamente.
 
 **El Principio del Perfeccionismo Maladaptativo como Factor de Mantenimiento:** Paul Hewitt y Gordon Flett, investigadores del perfeccionismo en la Universidad de British Columbia, distinguen entre el perfeccionismo adaptativo (altos estandares con flexibilidad ante el no cumplimiento) y el perfeccionismo maladaptativo (altos estandares combinados con evaluación crítica intensa del yo cuando no se alcanzan y dudas sobre el propio rendimiento). El segundo predice consistentemente mayor ansiedad, mayor burnout y, paradojicamente, peor rendimiento a largo plazo por el impacto negativo del estres cronico y la paralización por miedo al error.
 
@@ -91,7 +91,7 @@ El trabajo perfecto que llega demasiado tarde o que agota a quien lo hace no es 
 
 ## Capítulo 6: Limites con el trabajo: la habilidad que nadie te ensenó
 
-Elena esta disponible para su empresa las veinticuatro horas del dia, los siete dias de la semana. No porque le exijan explicitamente. Porque la cultura de su empresa recompensa implicitamente la disponibilidad y ella ha interiorizado esa norma como si fuera propia. Pero los límites con el trabajo no son falta de compromiso. Son la condición para que el compromiso sea sostenible a largo plazo.
+Elena está disponible para su empresa las veinticuatro horas del dia, los siete dias de la semana. No porque le exijan explicitamente. Porque la cultura de su empresa recompensa implicitamente la disponibilidad y ella ha interiorizado esa norma como si fuera propia. Pero los límites con el trabajo no son falta de compromiso. Son la condición para que el compromiso sea sostenible a largo plazo.
 
 **El Principio de los Limites como Protección del Rendimiento Sostenible:** La investigación de Leslie Perlow, profesora de Harvard Business School, en empresas de consultoria intensiva, muestra que cuando se introducen límites estructurales al trabajo (tiempo libre predecible y protegido, reducción de la hiperconectividad) la productividad y la calidad del trabajo no se reducen y frecuentemente mejoran, mientras que la satisfacción y la retención de talento aumentan significativamente. Los límites no son el opuesto del rendimiento. Son su condición de posibilidad a largo plazo.
 

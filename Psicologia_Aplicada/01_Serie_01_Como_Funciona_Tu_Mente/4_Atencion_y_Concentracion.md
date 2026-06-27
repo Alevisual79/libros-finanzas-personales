@@ -93,7 +93,7 @@ El flujo no es suerte. Es la consecuencia natural de las condiciones correctas, 
 
 Isabel llega a casa después del trabajo, cena con su familia, y no puede recordar con claridad sobre que hablaron durante la cena. Su cuerpo estaba en la mesa pero su mente estaba procesando emails del dia, planificando el dia siguiente y rumiando sobre una decisión pendiente. Estaba, en el sentido más literal, ausente de su propia vida.
 
-**El Principio de la Presencia como práctica Deliberada:** La investigación de Matthew Killingsworth y Daniel Gilbert, publicada en Science en 2010, encontró que el ser humano pasa aproximadamente el cuarenta y siete por ciento del tiempo de vigilia con la mente divagando (pensando en algo diferente a lo que esta haciendo en ese momento), y que esa divagación mental se asocia consistentemente con menor felicidad independientemente de la actividad que se realice. El cerebro tiene un modo por defecto (Default Mode Network) que se activa automáticamente cuando no hay una tarea que demande atención deliberada, y que genera el pensamiento espontaneo, la planificación y la rumiación que compiten con la atención al presente.
+**El Principio de la Presencia como práctica Deliberada:** La investigación de Matthew Killingsworth y Daniel Gilbert, publicada en Science en 2010, encontró que el ser humano pasa aproximadamente el cuarenta y siete por ciento del tiempo de vigilia con la mente divagando (pensando en algo diferente a lo que está haciendo en ese momento), y que esa divagación mental se asocia consistentemente con menor felicidad independientemente de la actividad que se realice. El cerebro tiene un modo por defecto (Default Mode Network) que se activa automáticamente cuando no hay una tarea que demande atención deliberada, y que genera el pensamiento espontaneo, la planificación y la rumiación que compiten con la atención al presente.
 
 La práctica de mindfulness, en su esencia más basica, es el entrenamiento de la capacidad de detectar cuando la mente ha divagado y retornarla deliberadamente al presente sin juicio. Esta capacidad, entrenada regularmente, mejora la calidad de la presencia en todas las actividades cotidianas, no solo durante la meditación formal.
 
@@ -125,7 +125,7 @@ Elena ha notado que le cuesta cada vez más leer libros que le costaba terminar.
 
 Las actividades que requieren atención sostenida (leer libros, escuchar musica completa sin interrupciones, tener conversaciones largas sin revisar el teléfono) son, en este sentido, entrenamiento para la atención que produce adaptaciones cerebrales reales en la dirección opuesta a la sobreestimulación digital.
 
-**Ejercicio inmediato:** Reanuda (o inicia) el habito de leer libros físicos durante treinta minutos al dia sin interrupciones. Trata los primeros dias de inquietud e impulso de cambiar de actividad como el entrenamiento que es: la incomodidad inicial es la señal de que el musculo esta siendo ejercitado.
+**Ejercicio inmediato:** Reanuda (o inicia) el habito de leer libros físicos durante treinta minutos al dia sin interrupciones. Trata los primeros dias de inquietud e impulso de cambiar de actividad como el entrenamiento que es: la incomodidad inicial es la señal de que el musculo está siendo ejercitado.
 
 Leer libros en la era digital no es nostalgia. Es entrenamiento de atención sostenida que ninguna aplicación puede replicar.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ha llegado a dudar de su propia memoria en conversaciones con alguien específico en su vida. Cree, sinceramente, que el problema es su propia falta de atención o su memoria poco fiable. En realidad, descubre eventualmente, lo que esta experimentando es una dinámica sistemática y reconocible de manipulación que tiene un nombre específico, y entender ese nombre es el primer paso para dejar de culparse a si mismo por algo que otra persona esta haciendo deliberadamente.
+Ruben ha llegado a dudar de su propia memoria en conversaciones con alguien específico en su vida. Cree, sinceramente, que el problema es su propia falta de atención o su memoria poco fiable. En realidad, descubre eventualmente, lo que está experimentando es una dinámica sistemática y reconocible de manipulación que tiene un nombre específico, y entender ese nombre es el primer paso para dejar de culparse a si mismo por algo que otra persona está haciendo deliberadamente.
 
 ---
 
@@ -45,7 +45,7 @@ El gaslighting no llega de golpe con su intensidad completa. Se construye gradua
 
 ## Capítulo 3: técnicas comunes del gaslighter
 
-Identificar las tacticas específicas utilizadas en el gaslighting ayuda a reconocer el patron cuando ocurre en tiempo real, en lugar de solo experimentar confusión generalizada sin poder nombrar lo que esta pasando.
+Identificar las tacticas específicas utilizadas en el gaslighting ayuda a reconocer el patron cuando ocurre en tiempo real, en lugar de solo experimentar confusión generalizada sin poder nombrar lo que está pasando.
 
 **El Principio de las Tacticas Reconocibles:** Las técnicas comunes incluyen la negación directa de eventos (eso nunca paso), la minimización de reacciones validas (estas exagerando, eres demasiado sensible), el cuestionamiento de la memoria (estas confundiendo las cosas otra vez), y la reescritura de la historia compartida de forma que favorezca consistentemente la versión del manipulador.
 
@@ -61,9 +61,9 @@ Entender los mecanismos psicológicos que hacen efectivo el gaslighting, incluso
 
 **El Principio de la Vulnerabilidad Universal al Gaslighting sistemático:** Cualquier persona, independientemente de su solidez psicológica previa, puede desarrollar dudas significativas sobre su propia percepción cuando es expuesta consistentemente a la negación sistemática de su realidad, especialmente cuando viene de alguien con quien tiene una relación cercana y de confianza previa. Esto no refleja debilidad personal sino la efectividad real de esta tactica de manipulación.
 
-**Ejercicio inmediato:** Si has empezado a dudar significativamente de tu propia percepción en una relación específica, recuerda que esta duda no es evidencia de que tu percepción sea genuinamente poco confiable, sino evidencia de que el patron de manipulación esta siendo efectivo.
+**Ejercicio inmediato:** Si has empezado a dudar significativamente de tu propia percepción en una relación específica, recuerda que esta duda no es evidencia de que tu percepción sea genuinamente poco confiable, sino evidencia de que el patron de manipulación está siendo efectivo.
 
-Dudar de tu propia percepción después de gaslighting sostenido no significa que tu percepción sea mala. Significa que la manipulación esta funcionando como esta diseñada para funcionar.
+Dudar de tu propia percepción después de gaslighting sostenido no significa que tu percepción sea mala. Significa que la manipulación está funcionando como esta diseñada para funcionar.
 
 ---
 
@@ -123,7 +123,7 @@ Cuando el gaslighting es un patron central y persistente en una relación, salir
 
 **Ejercicio inmediato:** Si estas en una relación con gaslighting persistente, considera que la recuperación completa de tu confianza perceptiva podría requerir, como paso necesario, distanciarte de la exposición continuada a este patron.
 
-Es difícil reconstruir tu confianza en tu propia percepción mientras sigues expuesto al patron que la esta erosionando activamente. La distancia, cuando es posible, frecuentemente es necesaria.
+Es difícil reconstruir tu confianza en tu propia percepción mientras sigues expuesto al patron que la está erosionando activamente. La distancia, cuando es posible, frecuentemente es necesaria.
 
 ---
 

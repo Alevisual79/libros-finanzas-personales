@@ -149,7 +149,7 @@ El crecimiento que queda solo para ti tiene valor. El que encuentra una forma de
 
 Ruben, Isabel, y Elena no son las mismas personas que eran antes de las experiencias que les dieron forma. Sus historias incluyen capítulos dolorosos y capítulos de crecimiento que no habrían existido sin los dolorosos.
 
-**El Principio del Crecimiento Postraumatico como Integración en la Narrativa de Vida:** Dan McAdams propone que el bienestar a largo plazo esta conectado con la capacidad de construir una narrativa de vida coherente que integre los capítulos difíciles y los momentos de crecimiento. Esta narrativa no niega el sufrimiento ni glorifica el trauma: integra ambos en una historia en la que el yo que existe hoy esta conectado con el yo que era antes y con el yo que emergio de las experiencias difíciles.
+**El Principio del Crecimiento Postraumatico como Integración en la Narrativa de Vida:** Dan McAdams propone que el bienestar a largo plazo está conectado con la capacidad de construir una narrativa de vida coherente que integre los capítulos difíciles y los momentos de crecimiento. Esta narrativa no niega el sufrimiento ni glorifica el trauma: integra ambos en una historia en la que el yo que existe hoy está conectado con el yo que era antes y con el yo que emergio de las experiencias difíciles.
 
 El crecimiento postraumatico es, en última instancia, una forma de integración narrativa: el trauma que pudo haber fragmentado la narrativa de vida encuentra su lugar en una historia continua, con sentido, con textura.
 

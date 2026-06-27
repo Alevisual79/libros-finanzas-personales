@@ -83,7 +83,7 @@ El contacto de mantenimiento de red no es molesto cuando aporta valor específic
 
 Solicitar ayuda específica a la propia red profesional (una introducción, un consejo, una recomendación) requiere formulación cuidadosa que respete el tiempo y la posición del otro mientras comunica claramente lo que se necesita.
 
-**El Principio de la Solicitud específica y de Bajo Esfuerzo:** Las solicitudes profesionales más efectivas son específicas (que exactamente se esta pidiendo), de bajo esfuerzo para quien las recibe (facilitando la respuesta, por ejemplo proporcionando un texto pre-redactado para una introducción en lugar de pedir que la otra persona lo redacte desde cero), y respetuosas del derecho del otro a declinar sin presión adicional.
+**El Principio de la Solicitud específica y de Bajo Esfuerzo:** Las solicitudes profesionales más efectivas son específicas (que exactamente se está pidiendo), de bajo esfuerzo para quien las recibe (facilitando la respuesta, por ejemplo proporcionando un texto pre-redactado para una introducción en lugar de pedir que la otra persona lo redacte desde cero), y respetuosas del derecho del otro a declinar sin presión adicional.
 
 **Ejercicio inmediato:** Para una solicitud profesional que tienes pendiente de hacer, reformula tu pedido para que sea lo más específico y de bajo esfuerzo posible para quien lo recibe.
 

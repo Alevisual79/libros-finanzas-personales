@@ -121,7 +121,7 @@ Cambiar un patron establecido de exceso de trabajo y ausencia relacional requier
 
 **El Principio del Rediseño Estructurado:** El cambio sostenible en la relación con el trabajo requiere identificar específicamente los patrones a cambiar (horarios, disponibilidad, rumiación mental fuera del horario), establecer límites estructurales específicos para cada patron, comunicar esos límites explicitamente a colegas y superiores, y revisar periodicamente si los cambios se estan sosteniendo o si han erosionado de vuelta al patron anterior.
 
-**Ejercicio inmediato:** Diseña un plan específico de cambio en tu relación con el trabajo, incluyendo al menos un límite estructural concreto, su comunicación explícita a quien corresponda, y una fecha de revisión para evaluar si se esta sosteniendo.
+**Ejercicio inmediato:** Diseña un plan específico de cambio en tu relación con el trabajo, incluyendo al menos un límite estructural concreto, su comunicación explícita a quien corresponda, y una fecha de revisión para evaluar si se está sosteniendo.
 
 Querer trabajar menos no cambia nada. Diseñar específicamente como, comunicarlo, y revisarlo periodicamente, si.
 

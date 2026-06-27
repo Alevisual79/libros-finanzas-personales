@@ -65,7 +65,7 @@ NotebookLM (Google) es una de las herramientas más interesantes del ecosistema 
 
 ## Capítulo 4: Elicit — El asistente de investigación academica
 
-Elicit esta diseñado específicamente para investigación academica. Busca en bases de datos de papers cientificos y extrae información relevante de forma estructurada.
+Elicit está diseñado específicamente para investigación academica. Busca en bases de datos de papers cientificos y extrae información relevante de forma estructurada.
 
 **Funcionalidades clave:**
 - Busqueda semantica (no solo por palabras clave) en millones de papers

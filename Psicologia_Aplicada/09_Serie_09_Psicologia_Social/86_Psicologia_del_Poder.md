@@ -43,7 +43,7 @@ La investigación de Joris Lammers y colegas muestra que este efecto no requiere
 
 **Ejercicio inmediato:** Para una norma que aplicas a otros en tu entorno (puntualidad, comunicación clara, cumplimiento de compromisos), reflexiona honestamente: ¿aplico esa norma a mi mismo con la misma exigencia que la aplico a los demás? Si la respuesta es no, ese es el efecto Lord Acton en acción. Identificarlo es el primer paso para corregirlo.
 
-El poder que no te hace más exigente contigo mismo que con los demás ya te esta corrompiendo, aunque no lo sientas.
+El poder que no te hace más exigente contigo mismo que con los demás ya te está corrompiendo, aunque no lo sientas.
 
 ---
 

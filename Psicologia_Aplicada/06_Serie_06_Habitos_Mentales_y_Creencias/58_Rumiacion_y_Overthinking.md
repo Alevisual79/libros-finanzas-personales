@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben puede pasarse horas dando vueltas a la misma situación. No la esta resolviendo: la esta reproduciendo, la esta evaluando desde cada ángulo posible, esta imaginando lo que podría haber dicho de forma diferente, esta anticipando lo que podría salir mal, esta repasando lo que ya salió mal. El problema es que después de esas horas no tiene más claridad que al principio. Tiene más cansancio y peor estado de animo. Eso es el overthinking, eso es la rumia: el ciclo de pensamiento repetitivo que gira sin producir ni resolución ni descanso. Este libro es para entender por qué ocurre y como interrumpirlo.
+Ruben puede pasarse horas dando vueltas a la misma situación. No la está resolviendo: la está reproduciendo, la está evaluando desde cada ángulo posible, está imaginando lo que podría haber dicho de forma diferente, está anticipando lo que podría salir mal, está repasando lo que ya salió mal. El problema es que después de esas horas no tiene más claridad que al principio. Tiene más cansancio y peor estado de animo. Eso es el overthinking, eso es la rumia: el ciclo de pensamiento repetitivo que gira sin producir ni resolución ni descanso. Este libro es para entender por qué ocurre y como interrumpirlo.
 
 ---
 
@@ -25,7 +25,7 @@ La rumia se disfraza de pensamiento útil. La distinción importa.
 
 **El Principio de la Rumia como Pensamiento que Recircula sin Avanzar:** Susan Nolen-Hoeksema, que ha investigado la rumia durante tres décadas, la define como el ciclo repetitivo, pasivo, y centrado en los sentimientos negativos y sus causas y consecuencias. La distinción crítica respecto al pensamiento útil es la pasividad y la recirculación: la rumia reproduce el mismo material sin generar nuevas perspectivas ni acciones.
 
-El pensamiento útil tiene caracteristicas opuestas: esta orientado hacía la solución, genera nuevas perspectivas, evalua opciones, y termina en un plan de acción o en la aceptación de lo que no puede cambiarse. Una heuristica práctica: si llevas más de cinco minutos pensando en el mismo problema sin llegar a ninguna conclusión nueva, probablemente ya no estas pensando. Estas rumiando.
+El pensamiento útil tiene caracteristicas opuestas: está orientado hacía la solución, genera nuevas perspectivas, evalua opciones, y termina en un plan de acción o en la aceptación de lo que no puede cambiarse. Una heuristica práctica: si llevas más de cinco minutos pensando en el mismo problema sin llegar a ninguna conclusión nueva, probablemente ya no estas pensando. Estas rumiando.
 
 **Ejercicio inmediato:** Para la situación que más veces has rumiado en la última semana, evalua con honestidad: ¿en todas esas vueltas, llegaste a alguna conclusión nueva o plan de acción que no habías tenido en los primeros cinco minutos? Si no, todo ese tiempo fue rumia, no pensamiento. Esa evaluación honesta es el punto de partida para decidir si merece la inversión que le estas dando.
 
@@ -37,7 +37,7 @@ Pensar en un problema durante horas no te hace más sabio sobre el. Solo te hace
 
 Elena sabe que la rumia le hace daño pero no puede parar. Entender las funciones que cumple puede ayudar a encontrar alternativas.
 
-**El Principio de la Rumia como Estrategia de Afrontamiento que Tiene Costes Mayores que Beneficios:** La investigación de Nolen-Hoeksema identifica las funciones subjetivas que la rumia parece cumplir: la sensación de que se esta haciendo algo con el problema (aunque no se este haciendo nada), la sensación de que el análisis exhaustivo prevendran futuros errores, y la sensación de que el procesamiento emocional de lo que ocurrio requiere tiempo y repetición.
+**El Principio de la Rumia como Estrategia de Afrontamiento que Tiene Costes Mayores que Beneficios:** La investigación de Nolen-Hoeksema identifica las funciones subjetivas que la rumia parece cumplir: la sensación de que se está haciendo algo con el problema (aunque no se este haciendo nada), la sensación de que el análisis exhaustivo prevendran futuros errores, y la sensación de que el procesamiento emocional de lo que ocurrio requiere tiempo y repetición.
 
 La paradoja de la rumia es que produce exactamente lo opuesto de lo que intenta: en lugar de resolver el problema, lo mantiene activo; en lugar de prevenir futuros errores, produce el estado emocional que deteriora el juicio; en lugar de procesar las emociones, las amplifica y las prolonga.
 

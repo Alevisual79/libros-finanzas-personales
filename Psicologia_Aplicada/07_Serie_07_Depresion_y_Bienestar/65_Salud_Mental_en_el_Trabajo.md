@@ -139,7 +139,7 @@ Ruben ha tenido períodos de salud mental muy deteriorada que han afectado a su 
 
 La estrategia de revelación selectiva en el trabajo incluye: ¿evaluar la cultura del entorno (hay personas que han hablado de salud mental sin consecuencias negativas?), elegir con quien compartir (el jefe directo puede ser un aliado o un riesgo segun el caso), y pedir lo que se necesita de forma concreta (necesito reducir temporalmente mi carga de trabajo es más accionable que estoy pasandolo mal).
 
-**Ejercicio inmediato:** Si la salud mental esta afectando a tu rendimiento laboral, reflexiona: ¿quien en tu entorno laboral podría ser un aliado si compartieras lo que vives? No necesitas decirlo a todos. A veces una persona de confianza es suficiente para gestionar el entorno laboral durante un período de dificultad.
+**Ejercicio inmediato:** Si la salud mental está afectando a tu rendimiento laboral, reflexiona: ¿quien en tu entorno laboral podría ser un aliado si compartieras lo que vives? No necesitas decirlo a todos. A veces una persona de confianza es suficiente para gestionar el entorno laboral durante un período de dificultad.
 
 No tienes que declarar tu salud mental a todo el mundo. Pero tener al menos un aliado en el trabajo puede hacer la diferencia entre sobrevivir el período difícil y que el trabajo lo haga aun más difícil.
 

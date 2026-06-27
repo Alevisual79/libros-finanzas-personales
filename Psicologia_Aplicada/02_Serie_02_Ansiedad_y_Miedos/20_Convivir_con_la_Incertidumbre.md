@@ -97,7 +97,7 @@ Elena pasa la mayor parte de su tiempo mental en el futuro incierto. En el prese
 
 Jon Kabat-Zinn propone que la práctica de mindfulness es fundamentalmente una práctica de retorno al presente: cada vez que la mente divaga hacía el futuro incierto (como casi siempre hace), la práctica consiste en notar esa divagación y volver suavemente al presente. Con el tiempo, esta práctica reduce la automaticidad del viaje mental al futuro ansioso y aumenta el tiempo disponible para la experiencia del presente.
 
-**Ejercicio inmediato:** Durante las próximas veinticuatro horas, cada vez que notes que tu mente esta en el futuro incierto (planificando, preocupandose, imaginando escenarios), pausa y lleva la atención a lo que esta ocurriendo en este momento específico: las sensaciones físicas presentes, lo que ves y escuchas, la experiencia directa del momento. No para negar el futuro, sino para habitar el presente que la ansiedad por el futuro roba.
+**Ejercicio inmediato:** Durante las próximas veinticuatro horas, cada vez que notes que tu mente esta en el futuro incierto (planificando, preocupandose, imaginando escenarios), pausa y lleva la atención a lo que está ocurriendo en este momento específico: las sensaciones físicas presentes, lo que ves y escuchas, la experiencia directa del momento. No para negar el futuro, sino para habitar el presente que la ansiedad por el futuro roba.
 
 La ansiedad vive en el futuro que aun no existe. Tu, en cambio, vives en el presente que si existe.
 
@@ -133,7 +133,7 @@ La tolerancia a la incertidumbre no se decide. Se entrena. Como cualquier muscul
 
 ## Capítulo 9: Incertidumbre y confianza: el papel de los valores
 
-Ruben ha notado que su ansiedad ante la incertidumbre es mucho menor cuando sabe que actua de acuerdo con sus valores. No sabe como va a salir, pero sabe que esta tomando la mejor decisión posible dado quien es y lo que le importa. Esa congruencia produce una base de seguridad que la certeza sobre el resultado no puede proporcionar.
+Ruben ha notado que su ansiedad ante la incertidumbre es mucho menor cuando sabe que actua de acuerdo con sus valores. No sabe como va a salir, pero sabe que está tomando la mejor decisión posible dado quien es y lo que le importa. Esa congruencia produce una base de seguridad que la certeza sobre el resultado no puede proporcionar.
 
 **El Principio de los Valores como Ancla en la Incertidumbre:** Steven Hayes propone que cuando los valores estan claros y el comportamiento es congruente con ellos, la incertidumbre sobre el resultado pierde parte de su amenaza: independientemente de como salga, se sabía quien se era y lo que importaba mientras se actuaba. Viktor Frankl, desde su experiencia en los campos de concentración, propuso que la capacidad de encontrar sentido incluso en las situaciones más inciertas y dolorosas es una fuente de fortaleza psicológica que ningún recurso externo puede proporcionar.
 

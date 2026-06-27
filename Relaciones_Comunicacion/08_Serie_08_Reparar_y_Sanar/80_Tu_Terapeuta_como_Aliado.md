@@ -85,7 +85,7 @@ Algunos procesos terapeuticos parecen estancarse después de un período inicial
 
 **El Principio de la Comunicación Activa sobre el Estancamiento:** Cuando un proceso terapeutico parece no avanzar, la respuesta más efectiva generalmente no es abandonar silenciosamente ni continuar pasivamente, sino comunicar directamente al terapeuta esta percepción, lo cual puede llevar a ajustes en el enfoque, a la identificación de resistencias que estan bloqueando el proceso, o, en algunos casos, al reconocimiento honesto de que se necesita un ajuste más significativo, posiblemente incluyendo un cambio de terapeuta.
 
-**Ejercicio inmediato:** Si sientes que tu terapia actual no esta avanzando, considera comunicar esta percepción directamente a tu terapeuta en tu próxima sesión, en lugar de simplemente abandonar el proceso silenciosamente.
+**Ejercicio inmediato:** Si sientes que tu terapia actual no está avanzando, considera comunicar esta percepción directamente a tu terapeuta en tu próxima sesión, en lugar de simplemente abandonar el proceso silenciosamente.
 
 Sentir que la terapia no avanza no significa automáticamente que deberías abandonarla. Significa que hay una conversación importante por tener con tu terapeuta sobre eso.
 

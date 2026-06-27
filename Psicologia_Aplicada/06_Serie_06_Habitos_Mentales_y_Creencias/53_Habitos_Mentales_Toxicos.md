@@ -35,7 +35,7 @@ El habito mental que no entiendes no puedes cambiarlo. El que entiendes completa
 
 ## Capítulo 2: La rumia: el bucle que no resuelve nada
 
-Ruben lleva dias dando vueltas al mismo problema sin avanzar. Se dice que esta pensando en ello para resolverlo. Pero eso no es lo que esta haciendo.
+Ruben lleva dias dando vueltas al mismo problema sin avanzar. Se dice que está pensando en ello para resolverlo. Pero eso no es lo que está haciendo.
 
 **El Principio de la Rumia como Pensamiento Repetitivo sin Solución:** Susan Nolen-Hoeksema, psicóloga de Yale que ha investigado la rumia durante décadas, la define como el ciclo repetitivo y pasivo de pensamientos sobre los propios sentimientos de angustia y sus causas y consecuencias. La rumia se distingue de la reflexión productiva en que es pasiva y repetitiva: no genera nuevas perspectivas ni produce acciones; solo recircula el mismo material emocional.
 
@@ -127,7 +127,7 @@ Las estrategias de interrupción más investigadas incluyen: la activación cond
 
 **Ejercicio inmediato:** Para tu habito mental toxico principal, diseña un protocolo de interrupción: ¿cual es la señal de que el habito se ha activado, que diras internamente para nombrarlo, y que acción específica tomara inmediatamente después del nombramiento para interrumpir la rutina? El protocolo preparado de antemano es mucho más efectivo que la improvisación en el momento.
 
-Interrumpir un habito mental no requiere fuerza de voluntad. Requiere un protocolo que funciona mientras la fuerza de voluntad todavia no esta disponible.
+Interrumpir un habito mental no requiere fuerza de voluntad. Requiere un protocolo que funciona mientras la fuerza de voluntad todavia no está disponible.
 
 ---
 

@@ -71,7 +71,7 @@ Las intervenciones de psicología positiva con mayor evidencia incluyen: la prá
 
 **Ejercicio inmediato:** Accede al inventario de fortalezas de carácter VIA (Via Institute on Character) en VIAcharacter.org (es gratuito y tiene versión en español). Completa el cuestionario y lee las cinco fortalezas que más te caracterizan. Reflexiona: ¿en que áreas de tu vida usas esas fortalezas? ¿Donde podrías usarlas más?
 
-La psicología que solo elimina lo que esta mal deja un espacio vacio. La que ademas construye lo que esta bien construye una vida.
+La psicología que solo elimina lo que esta mal deja un espacio vacio. La que ademas construye lo que está bien construye una vida.
 
 ---
 

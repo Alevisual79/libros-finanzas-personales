@@ -153,7 +153,7 @@ Ruben ha pasado de reaccionar automáticamente a poder elegir como responder. El
 
 La meta de la regulación emocional no es la imperturbabilidad sino la responsividad: la capacidad de responder a los eventos de forma deliberada, desde los propios valores, en lugar de reaccionar automáticamente desde los patrones habituales.
 
-**Ejercicio inmediato:** Diseña tu protocolo personal de regulación emocional para tus situaciones difíciles más recurrentes: que situaciones lo desencadenan, que señales corporales y cognitivas te indican que la activación esta comenzando, que estrategia específica usaras en ese momento, y como retomaras la situación cuando estes en un estado más regulado. Tenerlo escrito antes de necesitarlo es la preparación que hace posible la responsividad.
+**Ejercicio inmediato:** Diseña tu protocolo personal de regulación emocional para tus situaciones difíciles más recurrentes: que situaciones lo desencadenan, que señales corporales y cognitivas te indican que la activación está comenzando, que estrategia específica usaras en ese momento, y como retomaras la situación cuando estes en un estado más regulado. Tenerlo escrito antes de necesitarlo es la preparación que hace posible la responsividad.
 
 La diferencia entre reactivo y responsivo no es la ausencia de emoción. Es el momento de decisión entre la emoción y la acción.
 

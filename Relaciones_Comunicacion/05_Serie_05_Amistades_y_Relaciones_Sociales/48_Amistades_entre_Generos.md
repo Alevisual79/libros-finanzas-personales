@@ -121,7 +121,7 @@ Algunas amistades mixtas eventualmente evolucionan hacía una relación romantic
 
 **El Principio de la Transición Comunicada:** Las amistades que evolucionan exitosamente hacía relaciones romanticas son las en que ambas personas comunican honestamente el cambio de sentimientos en lugar de actuar sobre el sin nombrarlo, y las que estan dispuestas a aceptar que la otra persona podría no compartir el mismo cambio de sentimientos sin que esto destruya necesariamente la amistad original.
 
-**Ejercicio inmediato:** Si sientes que tu amistad con alguien del genero opuesto esta evolucionando hacía algo romantico, considera como podrías comunicar este cambio honestamente, preparandote para la posibilidad de que la respuesta no sea la que esperas, sin que esto signifique automáticamente el fin de la amistad.
+**Ejercicio inmediato:** Si sientes que tu amistad con alguien del genero opuesto está evolucionando hacía algo romantico, considera como podrías comunicar este cambio honestamente, preparandote para la posibilidad de que la respuesta no sea la que esperas, sin que esto signifique automáticamente el fin de la amistad.
 
 Una amistad que evoluciona a algo romantico necesita la misma honestidad que cualquier otra transición importante de relación.
 

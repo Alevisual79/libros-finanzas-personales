@@ -99,7 +99,7 @@ La investigación de Michael Porter sobre la ventaja competitiva muestra que la 
 
 **Ejercicio inmediato:** Lleva un registro de uso del tiempo durante tres dias laborables: ¿en que actividades específicas inviertes cada hora? Clasifica cada actividad en: generación directa de revenue (ventas, entrega del servicio premium), construcción de capacidad de revenue (marketing, producto, relaciones), y soporte administrativo (contabilidad, logistica, coordinación). Si la tercera categoría supera el 30% del tiempo total, hay una oportunidad de delegación o automatización que podría liberar tiempo para las dos primeras.
 
-La hora que usas en soporte administrativo no esta disponible para generar el revenue que justifica contratar a alguien que haga el soporte administrativo.
+La hora que usas en soporte administrativo no está disponible para generar el revenue que justifica contratar a alguien que haga el soporte administrativo.
 
 ---
 
@@ -119,9 +119,9 @@ El crecimiento del bootstrapper puede ser más lento. Pero es suyo. Y eso tiene 
 
 ## Capítulo 8: Cuando el bootstrapping tiene límites: como saber si necesitas capital externo
 
-Lucia ha llegado a un punto en su negocio donde esta evaluando si el bootstrapping sigue siendo la estrategia correcta o si necesita capital externo.
+Lucia ha llegado a un punto en su negocio donde está evaluando si el bootstrapping sigue siendo la estrategia correcta o si necesita capital externo.
 
-**El Principio de la Decisión de Buscar Capital Externo como Basada en la Logica del Negocio (los números Justifican la Aceleración) en Lugar de en el Miedo (el Negocio No Puede Sobrevivir sin El):** Hay situaciones específicas en que el capital externo tiene sentido incluso para un bootstrapper convencido: cuando el mercado esta cambiando rápidamente y la velocidad de ejecución es crítica para capturar la oportunidad, cuando los efectos de red del negocio requieren masa crítica que solo puede alcanzarse con inversión acelerada, o cuando las economias de escala del negocio hacen que el capital externo produzca un retorno mucho mayor de lo que el bootstrapping permitiria.
+**El Principio de la Decisión de Buscar Capital Externo como Basada en la Logica del Negocio (los números Justifican la Aceleración) en Lugar de en el Miedo (el Negocio No Puede Sobrevivir sin El):** Hay situaciones específicas en que el capital externo tiene sentido incluso para un bootstrapper convencido: cuando el mercado está cambiando rápidamente y la velocidad de ejecución es crítica para capturar la oportunidad, cuando los efectos de red del negocio requieren masa crítica que solo puede alcanzarse con inversión acelerada, o cuando las economias de escala del negocio hacen que el capital externo produzca un retorno mucho mayor de lo que el bootstrapping permitiria.
 
 La clave es la distinción de Jason Calacanis: el capital externo tiene sentido cuando el negocio puede usar ese capital para acelerar algo que ya funciona (unit economics positivos, product-market fit demostrado, modeló de negocio probado). El capital externo como sustento de un negocio que todavia no funciona solo pospone y amplifica los problemas.
 

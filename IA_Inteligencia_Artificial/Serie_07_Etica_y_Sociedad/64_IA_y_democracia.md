@@ -32,7 +32,7 @@ El debate sobre IA y democracia enfrenta posiciones optimistas, pesimistas y pra
 A nivel individual y colectivo, hay acciones concretas para influir positivamente en cómo se desarrolla IA y democracia: informarse con rigor, participar en los debates públicos, tomar decisiones activas sobre el uso de la tecnología y cultivar las capacidades más humanas.
 
 ## Capítulo 10: El horizonte posible
-El futuro de IA y democracia no esta determinado. Las decisiones que tomemos en los próximos años tendrán consecuencias que duraran décadas. Eso es una responsabilidad y una oportunidad simultaneamente.
+El futuro de IA y democracia no está determinado. Las decisiones que tomemos en los próximos años tendrán consecuencias que duraran décadas. Eso es una responsabilidad y una oportunidad simultaneamente.
 
 ## Epílogo
 La inteligencia artificial plantea preguntas que la humanidad nunca había tenido que responder. La calidad de esas respuestas dependera de cuanta gente informada participe en la conversación.

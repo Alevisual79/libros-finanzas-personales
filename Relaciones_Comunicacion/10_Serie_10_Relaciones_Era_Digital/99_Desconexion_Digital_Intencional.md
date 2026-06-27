@@ -25,7 +25,7 @@ El modelo de negocio de muchas plataformas digitales se basa explicitamente en c
 
 **El Principio de la Atención como Recurso Finito en Competencia:** La atención humana es un recurso limitado, y las plataformas digitales, diseñadas deliberadamente para maximizar el tiempo de captura de esa atención, compiten directamente con las relaciones presenciales por ese mismo recurso finito, generando una competencia estructural que las relaciones humanas, sin ventajas de diseño persuasivo comparables, frecuentemente pierden.
 
-**Ejercicio inmediato:** Reflexiona sobre cómo la economía de la atención de las plataformas digitales esta compitiendo con tus relaciones más importantes por tu recurso de atención limitado.
+**Ejercicio inmediato:** Reflexiona sobre cómo la economía de la atención de las plataformas digitales está compitiendo con tus relaciones más importantes por tu recurso de atención limitado.
 
 Las plataformas digitales no compiten en igualdad de condiciones con tus relaciones. Estan diseñadas deliberadamente para capturar tu atención de formas que las relaciones humanas naturales no pueden replicar.
 
@@ -119,9 +119,9 @@ Un ritual regular de presencia sin tecnología no depende de tu fuerza de volunt
 
 El trabajo de fondo para una relación más saludable con la tecnología no es simplemente reducir el tiempo de uso, sino rediseñar fundamentalmente la relación psicológica con el dispositivo y lo que representa.
 
-**El Principio del Rediseño de la Relación sobre la Restricción Pura:** Las personas que logran cambios más duraderos en su relación con la tecnología no son las que simplemente imponen restricciones de tiempo, sino las que examinan y rediseñan las necesidades psicológicas subyacentes que el uso de tecnología esta intentando satisfacer (conexión, validación, escape de malestar), abordando esas necesidades de formas más directas y saludables.
+**El Principio del Rediseño de la Relación sobre la Restricción Pura:** Las personas que logran cambios más duraderos en su relación con la tecnología no son las que simplemente imponen restricciones de tiempo, sino las que examinan y rediseñan las necesidades psicológicas subyacentes que el uso de tecnología está intentando satisfacer (conexión, validación, escape de malestar), abordando esas necesidades de formas más directas y saludables.
 
-**Ejercicio inmediato:** Identifica que necesidad psicológica subyacente (conexión, validación, escape) tu uso de tecnología esta intentando satisfacer, y considera una forma más directa de satisfacer esa necesidad.
+**Ejercicio inmediato:** Identifica que necesidad psicológica subyacente (conexión, validación, escape) tu uso de tecnología está intentando satisfacer, y considera una forma más directa de satisfacer esa necesidad.
 
 Reducir el tiempo de pantalla sin abordar la necesidad subyacente que esa pantalla satisface produce cambios temporales. Rediseñar como satisfaces esa necesidad produce cambios más duraderos.
 

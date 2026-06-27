@@ -91,9 +91,9 @@ Los habitos que no examinas no los eliges. Los repites. Y repetir no es lo mismo
 
 ## Capítulo 6: La presencia plena: vivir en el momento
 
-Elena siente que hay momentos de su vida (una cena con amigos, un atardecer, una conversación importante) que no esta viviendo completamente porque su mente esta en otra parte.
+Elena siente que hay momentos de su vida (una cena con amigos, un atardecer, una conversación importante) que no está viviendo completamente porque su mente esta en otra parte.
 
-**El Principio de la Presencia como Calidad de la Experiencia Vivida:** Abraham Maslow, en su descripción de las experiencias cumbre, propone que los momentos de mayor bienestar son frecuentemente aquellos de mayor presencia: cuando la atención esta completamente en lo que se esta haciendo o experimentando, sin la mente en el pasado o el futuro. Esta calidad de presencia no ocurre automáticamente: requiere práctica deliberada.
+**El Principio de la Presencia como Calidad de la Experiencia Vivida:** Abraham Maslow, en su descripción de las experiencias cumbre, propone que los momentos de mayor bienestar son frecuentemente aquellos de mayor presencia: cuando la atención esta completamente en lo que se está haciendo o experimentando, sin la mente en el pasado o el futuro. Esta calidad de presencia no ocurre automáticamente: requiere práctica deliberada.
 
 La investigación de Mihaly Csikszentmihalyi sobre el flow muestra que los momentos de mayor bienestar subjetivo son aquellos de mayor absorción en la actividad presente. El flow y la presencia son experiencias cercanas: en ambas, el piloto automático y la divagación mental estan temporalmente silenciados.
 
@@ -107,7 +107,7 @@ La vida que no se vive en el momento en que ocurre no se vive en ningún otro. E
 
 Ruben ha notado que cuando su mente divaga, no lo hace aleatoriamente: vuelve siempre a los mismos temas.
 
-**El Principio de la Red de Modo por Defecto como Destino Habitual de la Mente:** La neurociencia ha identificado la red de modo por defecto (DMN): un circuito cerebral que se activa cuando la mente no esta focalizando en una tarea específica y que incluye áreas asociadas con el pensamiento sobre uno mismo, sobre los otros, y sobre el tiempo. La red de modo por defecto es la infraestructura neurologica del piloto automático.
+**El Principio de la Red de Modo por Defecto como Destino Habitual de la Mente:** La neurociencia ha identificado la red de modo por defecto (DMN): un circuito cerebral que se activa cuando la mente no está focalizando en una tarea específica y que incluye áreas asociadas con el pensamiento sobre uno mismo, sobre los otros, y sobre el tiempo. La red de modo por defecto es la infraestructura neurologica del piloto automático.
 
 La investigación muestra que la actividad de la red de modo por defecto tiende a focalizarse en: eventos del pasado (replays, nostalgia, arrepentimiento), el futuro (planificación, anticipación, preocupación), y el yo (autoevaluación, relaciones sociales). Conocer estos destinos habituales de la mente ayuda a entender el contenido del piloto automático propio.
 
@@ -121,7 +121,7 @@ A donde va tu mente cuando la dejas sola te dice más sobre lo que te importa qu
 
 Isabel ha tomado varias decisiones importantes en el último año en piloto automático: siguiendo la inercia o la presión social en lugar de elegir deliberadamente.
 
-**El Principio de la Conciencia como Requisito de la Elección Autentica:** La psicología existencial, desde Sartre hasta Victor Frankl y Irvin Yalom, propone que la autenticidad requiere la conciencia de que se esta eligiendo: no solo hacer lo que la inercia o la presión social producen sino reconocer que existe un espacio de decisión y habitarlo deliberadamente.
+**El Principio de la Conciencia como Requisito de la Elección Autentica:** La psicología existencial, desde Sartre hasta Victor Frankl y Irvin Yalom, propone que la autenticidad requiere la conciencia de que se está eligiendo: no solo hacer lo que la inercia o la presión social producen sino reconocer que existe un espacio de decisión y habitarlo deliberadamente.
 
 La investigación de Sheena Iyengar y Mark Lepper sobre la paradoja de la elección muestra que las personas tienen mejor bienestar cuando sus elecciones importantes estan alineadas con sus valores profundos. Esta alineación requiere que las decisiones sean deliberadas, no automáticas: ¿que el proceso de decisión incluya la pregunta esto es lo que yo elegiria si estuviera completamente consciente?
 
@@ -135,7 +135,7 @@ La decisión que tomas porque siempre lo has hecho asi no es una decisión. Es u
 
 Ruben ha empezado a meditar pero le cuesta llevar la atención plena a la vida fuera del cojin.
 
-**El Principio del Mindfulness Informal como práctica Continua:** Jon Kabat-Zinn distingue entre el mindfulness formal (práctica de meditación con tiempo designado) y el mindfulness informal (practicar la atención plena en las actividades cotidianas). El mindfulness informal es el que transforma el piloto automático en la vida ordinaria porque esta disponible en todo momento.
+**El Principio del Mindfulness Informal como práctica Continua:** Jon Kabat-Zinn distingue entre el mindfulness formal (práctica de meditación con tiempo designado) y el mindfulness informal (practicar la atención plena en las actividades cotidianas). El mindfulness informal es el que transforma el piloto automático en la vida ordinaria porque está disponible en todo momento.
 
 Las prácticas de mindfulness informal incluyen: comer con atención (sabores, texturas, sensaciones), caminar con atención (sensaciones físicas, lo que se ve y escucha), escuchar con atención plena (sin preparar la respuesta mientras el otro habla), y realizar tareas cotidianas (lavarse los dientes, fregar, ducharse) con atención deliberada en lugar de con la mente en otra parte.
 
@@ -151,7 +151,7 @@ Isabel ha llegado al final del libro con una comprensión más clara de hasta qu
 
 **El Principio de la Presencia como práctica, no como Estado Permanente:** Ninguna persona vive con atención plena constantemente: el piloto automático es parte del funcionamiento del sistema cognitivo. La meta no es eliminar el piloto automático sino reducirlo en los momentos y dominios donde más coste tiene, y desarrollar la capacidad de salir de el deliberadamente cuando se quiere estar presente.
 
-Tara Brach, maestra de meditación y psicologa, propone la práctica del RAIN (Reconocer, Aceptar, Investigar, Nutrir) como herramienta para trabajar con los momentos de mayor automatismo: reconocer que se esta en piloto automático, aceptar el estado sin juzgarlo, investigar con curiosidad lo que esta ocurriendo internamente, y nutrir el yo con compasión antes de elegir la respuesta.
+Tara Brach, maestra de meditación y psicologa, propone la práctica del RAIN (Reconocer, Aceptar, Investigar, Nutrir) como herramienta para trabajar con los momentos de mayor automatismo: reconocer que se esta en piloto automático, aceptar el estado sin juzgarlo, investigar con curiosidad lo que está ocurriendo internamente, y nutrir el yo con compasión antes de elegir la respuesta.
 
 **Ejercicio inmediato:** Diseña tu protocolo personal de retorno a la presencia para los momentos más costosos de piloto automático en tu vida. ¿Cuando te encuentres en piloto automático en esos momentos, que hará? ¿Una respiración deliberada, una pausa de diez segundos, el nombramiento del estado? El protocolo pequeño y específico es el que funciona cuando el automatismo ya se ha activado.
 

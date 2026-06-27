@@ -71,7 +71,7 @@ Ivan Misner, fundador de BNI, propone que el networking de mayor calidad no es e
 
 **Ejercicio inmediato:** Implementa el habito de la conexión semanal: cada semana, contacta con dos personas de tu red profesional que no hayas contactado recientemente, sin agenda específica. El proposito es mantener la relación viva, no conseguir nada inmediato. El emprendedor que mantiene ese habito durante un año tiene una red activa y calida a la que puede acudir cuando la necesite. El que no lo mantiene tiene que reconstruirla desde cero cada vez que la necesita.
 
-El contacto que mantienes sin necesidad inmediata es el que esta disponible cuando la necesidad es urgente.
+El contacto que mantienes sin necesidad inmediata es el que está disponible cuando la necesidad es urgente.
 
 ---
 
@@ -139,7 +139,7 @@ Lucia ha aprendido que sus habitos de comunicación con su equipo determinan en 
 
 Los habitos de comunicación del líder que más impactan la cultura incluyen: el habito de dar feedback específico y rápido después de las situaciones que lo merecen (en lugar de guardar los comentarios para las evaluaciones anuales), el habito de compartir información del negocio con el equipo (en lugar de guardarsela para si mismo), y el habito de hacer preguntas antes de dar respuestas (que produce un equipo que piensa en lugar de que espera instrucciones).
 
-**Ejercicio inmediato:** Adopta el habito del one-on-one semanal con cada miembro clave de tu equipo: treinta minutos por persona, con la agenda principalmente definida por ellos. Las preguntas base: ¿como estas? ¿Que te esta bloqueando? ¿Que podría yo hacer diferente para ayudarte mejor? Ese habito de treinta minutos por semana produce más información sobre el estado real del equipo que cualquier otro mecanismo de gestión.
+**Ejercicio inmediato:** Adopta el habito del one-on-one semanal con cada miembro clave de tu equipo: treinta minutos por persona, con la agenda principalmente definida por ellos. Las preguntas base: ¿como estas? ¿Que te está bloqueando? ¿Que podría yo hacer diferente para ayudarte mejor? Ese habito de treinta minutos por semana produce más información sobre el estado real del equipo que cualquier otro mecanismo de gestión.
 
 El líder que habla con cada miembro de su equipo treinta minutos por semana sabe lo que pasa en su empresa. El que no lo hace se entera cuando ya es un problema.
 

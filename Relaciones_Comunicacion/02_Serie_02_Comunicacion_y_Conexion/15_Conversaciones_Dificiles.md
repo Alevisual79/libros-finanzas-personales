@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Hay conversaciones que llevamos postergando semanas. Meses. A veces años. Conversaciones que sabemos que necesitamos tener pero que evitamos porque anticipamos el daño que pueden causar. La conversación con el amigo que te decepciono. La conversación con tu jefe sobre lo que no esta funcionando. La conversación con tu pareja sobre lo que nunca se dice.
+Hay conversaciones que llevamos postergando semanas. Meses. A veces años. Conversaciones que sabemos que necesitamos tener pero que evitamos porque anticipamos el daño que pueden causar. La conversación con el amigo que te decepciono. La conversación con tu jefe sobre lo que no está funcionando. La conversación con tu pareja sobre lo que nunca se dice.
 
 El coste de no tener esas conversaciones es más alto de lo que parece. Acumulan resentimiento. Crean distancia. Erosionan la confianza porque la otra persona nota que algo se evita aunque no sepa exactamente que.
 
@@ -31,7 +31,7 @@ Isabel lleva seis meses sabiendo que necesita hablar con su colaborador más cer
 
 Las investigaciones de Amy Edmondson sobre seguridad psicológica en equipos muestran que los equipos donde los miembros no tienen las conversaciones difíciles necesarias tienen peor rendimiento, mayor rotación y mayor nivel de frustración que los equipos donde esas conversaciones se tienen aunque sean incomodas.
 
-**Ejercicio inmediato:** Identifica la conversación difícil que llevas más tiempo postergando. Calcula el coste real de no tenerla: cuanto resentimiento has acumulado, cuanto ha empeorado la situación, cuanto espacio mental te esta ocupando. Ese cálculo suele revelar que el coste de la evitación es mayor que el de la conversación.
+**Ejercicio inmediato:** Identifica la conversación difícil que llevas más tiempo postergando. Calcula el coste real de no tenerla: cuanto resentimiento has acumulado, cuanto ha empeorado la situación, cuanto espacio mental te está ocupando. Ese cálculo suele revelar que el coste de la evitación es mayor que el de la conversación.
 
 Postponer una conversación difícil no te ahorra el dolor. Te lo cobra con intereses.
 
@@ -111,7 +111,7 @@ La verdad bien dicha conecta. La verdad mal dicha destruye lo que viene después
 
 La defensividad es la respuesta natural a percibir una amenaza. Cuando alguien se siente atacado, criticado o malentendido, se cierra para protegerse. La defensividad no es una conducta maliciosa. Es un mecanismo de supervivencia relacional.
 
-**El Principio de la Defensividad como Información:** Cuando el otro se pone a la defensiva en una conversación difícil, esa defensividad da información: el mensaje no esta llegando de la forma deseada, o el otro percibe una amenaza que no se pretendia. En lugar de insistir con el mismo mensaje o aumentar la presión, la respuesta más efectiva suele ser hacer una pausa: ¿noto que lo que digo te esta generando incomodidad, puedo intentar decirlo de otra manera?
+**El Principio de la Defensividad como Información:** Cuando el otro se pone a la defensiva en una conversación difícil, esa defensividad da información: el mensaje no está llegando de la forma deseada, o el otro percibe una amenaza que no se pretendia. En lugar de insistir con el mismo mensaje o aumentar la presión, la respuesta más efectiva suele ser hacer una pausa: ¿noto que lo que digo te está generando incomodidad, puedo intentar decirlo de otra manera?
 
 El paso atras ante la defensividad del otro no es capitulación. Es un reconocimiento de que la forma del mensaje necesita ajustarse para que el contenido pueda llegar.
 
@@ -137,7 +137,7 @@ Las conversaciones que importan merecen el canal más rico. El texto no lo es.
 
 ## Capítulo 9: Cuando no hay resolución, como cerrar
 
-No todas las conversaciones difíciles terminan con resolución. A veces el otro no esta listo. A veces el tema es demasiado complejo para una sola conversación. A veces la diferencia entre las dos personas es tan fundamental que no hay acuerdo posible y hay que aprender a convivir con ella.
+No todas las conversaciones difíciles terminan con resolución. A veces el otro no está listo. A veces el tema es demasiado complejo para una sola conversación. A veces la diferencia entre las dos personas es tan fundamental que no hay acuerdo posible y hay que aprender a convivir con ella.
 
 **El Principio del Cierre sin Resolución:** Una conversación puede terminar sin que el tema este resuelto y aun asi haber sido productiva si: ambas personas han podido expresar su perspectiva, el nivel de comprensión mutua es mayor que al principio, y se ha acordado un próximo paso aunque sea pequeño. La resolución completa no es el unico criterio de éxito de una conversación difícil.
 

@@ -27,7 +27,7 @@ La idea de convertirse en la mejor versión de uno mismo puede ser la motivació
 
 Laura King investiga el mejor yo posible (possible selves): la investigación muestra que visualizar el mejor yo posible en áreas específicas de la vida produce efectos positivos en el bienestar y la motivación cuando va acompanado de expectativas realistas, pero efectos negativos cuando la brecha entre el yo actual y el yo posible se vive como fracaso en lugar de como dirección.
 
-**Ejercicio inmediato:** Reflexiona sobre tu relación con el concepto de mejor versión de ti mismo: ¿cuando piensas en ella, lo que predomina es motivación (hay algo hacía donde quiero crecer) o juicio (no soy suficientemente bueno tal como soy)? Si predomina el juicio, el concepto esta funcionando como fuente de sufrimiento, no de crecimiento. Esa distinción es el primer paso para reformular la relación con el crecimiento personal.
+**Ejercicio inmediato:** Reflexiona sobre tu relación con el concepto de mejor versión de ti mismo: ¿cuando piensas en ella, lo que predomina es motivación (hay algo hacía donde quiero crecer) o juicio (no soy suficientemente bueno tal como soy)? Si predomina el juicio, el concepto está funcionando como fuente de sufrimiento, no de crecimiento. Esa distinción es el primer paso para reformular la relación con el crecimiento personal.
 
 La mejor versión de ti mismo no es la que crítica quien eres hoy. Es la que te muestra hacía donde puedes crecer desde quien eres hoy.
 

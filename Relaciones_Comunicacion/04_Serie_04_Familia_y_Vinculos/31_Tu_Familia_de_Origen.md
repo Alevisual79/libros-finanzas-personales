@@ -75,7 +75,7 @@ Ningun niño debería ser el puente entre dos adultos que no se hablan directame
 
 Los secretos familiares (sobre infidelidades, adicciones, perdidas, decisiones dolorosas) crean una atmosfera de información oculta que los miembros de la familia perciben aunque no puedan nombrarla.
 
-**El Principio del Secreto que se Siente sin Nombrarse:** La investigación sobre secretos familiares muestra que los niños perciben la tensión y la incongruencia que rodea a un secreto familiar, incluso sin conocer su contenido específico, lo que genera una sensación de que algo no esta bien sin poder identificarlo claramente. Esta percepción sin información produce ansiedad cronica de baja intensidad que puede persistir en la adultez incluso después de conocer el secreto original.
+**El Principio del Secreto que se Siente sin Nombrarse:** La investigación sobre secretos familiares muestra que los niños perciben la tensión y la incongruencia que rodea a un secreto familiar, incluso sin conocer su contenido específico, lo que genera una sensación de que algo no está bien sin poder identificarlo claramente. Esta percepción sin información produce ansiedad cronica de baja intensidad que puede persistir en la adultez incluso después de conocer el secreto original.
 
 **Ejercicio inmediato:** Hay algun tema en tu familia de origen del que nunca se hablaba abiertamente pero que sentias presente de alguna forma? Nombrarlo ahora, aunque sea solo para ti mismo, puede aliviar parte de esa tensión residual.
 

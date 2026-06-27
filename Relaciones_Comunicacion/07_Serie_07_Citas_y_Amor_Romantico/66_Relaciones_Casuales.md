@@ -23,7 +23,7 @@ Ruben tiene algo con alguien, pero ninguno de los dos ha definido que es exactam
 
 Las relaciones romanticas no exclusivas o sin compromiso formal abarcan una variedad de configuraciones específicas, cada una con sus propias dinámicas y expectativas implícitas que merecen ser nombradas explicitamente.
 
-**El Principio de la Diversidad de Configuraciones Casuales:** Las relaciones casuales pueden tomar formas distintas: encuentros unicos sin continuidad, conexiones recurrentes sin exclusividad pero con cierta regularidad, o relaciones con multiples dimensiones de intimidad (física y emocional) sin el compromiso formal de una relación exclusiva. Cada configuración tiene implicaciones distintas, y la falta de claridad sobre cual configuración específica se esta viviendo genera la mayoría de los problemas asociados con este tipo de relaciones.
+**El Principio de la Diversidad de Configuraciones Casuales:** Las relaciones casuales pueden tomar formas distintas: encuentros unicos sin continuidad, conexiones recurrentes sin exclusividad pero con cierta regularidad, o relaciones con multiples dimensiones de intimidad (física y emocional) sin el compromiso formal de una relación exclusiva. Cada configuración tiene implicaciones distintas, y la falta de claridad sobre cual configuración específica se está viviendo genera la mayoría de los problemas asociados con este tipo de relaciones.
 
 **Ejercicio inmediato:** Si estas actualmente en una relación sin definición clara, identifica específicamente que tipo de configuración describe mejor lo que estan viviendo, más allá de la etiqueta vaga de algo.
 

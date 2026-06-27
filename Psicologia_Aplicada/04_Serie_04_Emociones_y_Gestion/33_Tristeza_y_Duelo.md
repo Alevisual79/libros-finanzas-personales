@@ -153,7 +153,7 @@ Ruben ha aprendido que la tristeza no es el opuesto de la felicidad. Es parte de
 
 La tristeza, integrada en lugar de evitada, puede añadir profundidad y riqueza a la experiencia de vivir: una mayor apreciación de los momentos agradables por la conciencia de su transitoriedad, una mayor conexión con otros que también sufren, y una forma más honesta de relacionarse con la complejidad de la existencia.
 
-**Ejercicio inmediato:** La próxima vez que sientas tristeza, en lugar de intentar eliminarla lo antes posible, permite que exista durante un momento con curiosidad: ¿que esta señalando sobre lo que valoras, sobre lo que has perdido o estas perdiendo, sobre quien eres? Cinco minutos de presencia con la tristeza, sin catastrofizar ni minimizar, frecuentemente produce más procesamiento que horas de evitación.
+**Ejercicio inmediato:** La próxima vez que sientas tristeza, en lugar de intentar eliminarla lo antes posible, permite que exista durante un momento con curiosidad: ¿que está señalando sobre lo que valoras, sobre lo que has perdido o estas perdiendo, sobre quien eres? Cinco minutos de presencia con la tristeza, sin catastrofizar ni minimizar, frecuentemente produce más procesamiento que horas de evitación.
 
 La tristeza que se deja existir pasa. La que se reprime permanece.
 

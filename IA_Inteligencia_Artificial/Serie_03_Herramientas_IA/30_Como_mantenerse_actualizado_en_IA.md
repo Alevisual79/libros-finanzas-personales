@@ -190,7 +190,7 @@ La Serie 3 termina con la perspectiva más amplia: como mantenerse actualizado e
 
 La respuesta es un sistema, no una actitud. Un sistema de actualización selectiva, orientada a la aplicación práctica, que produce aprendizaje real en lugar de la ansiedad de estar siempre atras.
 
-La Serie 4 da un giro: de las herramientas a la creatividad. Como la IA esta transformando la creación artistica, el diseño, la escritura creativa y la innovación, y cual es el rol humano en ese proceso transformado.
+La Serie 4 da un giro: de las herramientas a la creatividad. Como la IA está transformando la creación artistica, el diseño, la escritura creativa y la innovación, y cual es el rol humano en ese proceso transformado.
 
 ---
 

@@ -55,7 +55,7 @@ Entender la situación del otro es la mitad. Entender cómo se siente en esa sit
 
 ## Capítulo 3: Empatia vs simpatia: la diferencia crucial
 
-Cuando Isabel le dice a su empleado que lamenta lo que esta pasando con su madre enferma y que debe ser muy difícil desde el punto de vista de la gestión del tiempo, no esta siendo empatica. Esta siendo simpatica desde su perspectiva de gestora. La empatia hubiera sido: ¿cuentame, que es lo más difícil de todo esto para ti?
+Cuando Isabel le dice a su empleado que lamenta lo que está pasando con su madre enferma y que debe ser muy difícil desde el punto de vista de la gestión del tiempo, no está siendo empatica. Está siendo simpatica desde su perspectiva de gestora. La empatia hubiera sido: ¿cuentame, que es lo más difícil de todo esto para ti?
 
 **El Principio de la Perspectiva Original:** La simpatia mira al otro desde la propia posición: lo que sería difícil para mi en tu situación. La empatia intenta acceder a la posición del otro: que es difícil específicamente para esta persona en esta situación. La simpatia a veces es suficiente y siempre es más facil. La empatia es lo que produce la sensación de haber sido realmente comprendido.
 
@@ -117,7 +117,7 @@ La empatia sin límites es fusión. Y la fusión es el fin de la empatia real po
 
 Las personas que no han desarrollado esa distinción experimentan la cercania emocional como amenazante porque no saben donde termina el otro y donde empiezan ellas. La empatia, para ellas, es demasiado arriesgada. El resultado es distancia emocional como forma de protección.
 
-**Ejercicio inmediato:** En la próxima conversación de alta carga emocional, práctica la pregunta interna: ¿que estoy sintiendo yo siendo testigo de esto, diferente de lo que el otro esta sintiendo? Esa distinción, mantenida con suavidad, es lo que permite estar completamente presente sin absorberse.
+**Ejercicio inmediato:** En la próxima conversación de alta carga emocional, práctica la pregunta interna: ¿que estoy sintiendo yo siendo testigo de esto, diferente de lo que el otro está sintiendo? Esa distinción, mantenida con suavidad, es lo que permite estar completamente presente sin absorberse.
 
 Puedes estar completamente presente con el otro sin perder el suelo propio. Esa es la empatia real.
 
@@ -141,7 +141,7 @@ La empatia que requiere esfuerzo consciente es tan valida cómo la espontanea. E
 
 El conflicto activa el sistema de defensa. Y cuando el sistema de defensa esta activo, la empatia hacía el otro es lo último que se produce espontaneamente. Es exactamente cuando más la necesitamos y más difícil es acceder a ella.
 
-**El Principio de la Empatia como Desescalada:** En el conflicto, el acto empatico más potente es intentar entender la perspectiva del otro antes de defender la propia. Escucho que esto es muy importante para ti, parece que necesitas que lo que sientes sea reconocido. Esa frase, dicha genuinamente, puede cambiar la dinámica del conflicto en ese momento porque muestra que el otro esta siendo escuchado antes de que nadie gane el argumento.
+**El Principio de la Empatia como Desescalada:** En el conflicto, el acto empatico más potente es intentar entender la perspectiva del otro antes de defender la propia. Escucho que esto es muy importante para ti, parece que necesitas que lo que sientes sea reconocido. Esa frase, dicha genuinamente, puede cambiar la dinámica del conflicto en ese momento porque muestra que el otro está siendo escuchado antes de que nadie gane el argumento.
 
 La paradoja de la empatia en el conflicto es que empezar por entender al otro, antes de defender la propia posición, es habitualmente la via más rápida para que la propia posición sea también escuchada. El otro que se siente comprendido esta mucho más disponible para la negociación que el que se siente atacado.
 

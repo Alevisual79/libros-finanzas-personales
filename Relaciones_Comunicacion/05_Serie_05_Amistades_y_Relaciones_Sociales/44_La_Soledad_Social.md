@@ -81,7 +81,7 @@ Más mensajes no significan más conexión. La hiperconectividad digital puede l
 
 ## Capítulo 6: Señales de alerta de soledad cronica
 
-Reconocer las señales de que la soledad se ha vuelto cronica y esta afectando significativamente el bienestar es importante para buscar ayuda o cambio antes de que el impacto sea más severo.
+Reconocer las señales de que la soledad se ha vuelto cronica y está afectando significativamente el bienestar es importante para buscar ayuda o cambio antes de que el impacto sea más severo.
 
 **El Principio de los Indicadores de Soledad Cronica:** Las señales de alerta incluyen sentimiento persistente de vacio o desconexion incluso en presencia de otros, evitación progresiva de oportunidades sociales, deterioro del sueño o del estado de animo sin otra causa identificable, y la sensación de que nadie realmente te conoce de verdad. La presencia consistente de varias de estas señales durante semanas o meses sugiere una soledad que requiere atención activa, no solo paciencia.
 

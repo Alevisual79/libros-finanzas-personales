@@ -45,7 +45,7 @@ La barrera para pedir ayuda es casi siempre más alta en tu cabeza que en la rea
 
 El curriculum de Isabel incluye treinta años resolviendo problemas que no eran suyos. también incluye treinta años de hipertensión, insomnio y esa fatiga de fondo que el descanso no arregla. Isabel llama a esto ser responsable. Su médico lo llama estres cronico por sobrecarga.
 
-**El Principio del Coste de la Autosuficiencia Total:** La autosuficiencia es una virtud hasta que se convierte en un mecanismo de defensa. La persona que nunca pide ayuda no esta siendo fuerte. Esta siendo inflexible. Esta pagando el coste de la sobrecarga sola cuando podría distribuirlo. Y ademas esta privando a los demás del placer de ayudarla, que es un placer real y una parte importante de lo que hace que las relaciones se sientan reciprocas.
+**El Principio del Coste de la Autosuficiencia Total:** La autosuficiencia es una virtud hasta que se convierte en un mecanismo de defensa. La persona que nunca pide ayuda no está siendo fuerte. Está siendo inflexible. Está pagando el coste de la sobrecarga sola cuando podría distribuirlo. Y ademas está privando a los demás del placer de ayudarla, que es un placer real y una parte importante de lo que hace que las relaciones se sientan reciprocas.
 
 La autosuficiencia extrema también tiene un coste relacional: los demás se sienten excluidos, innecesarios, como si no te importaran lo suficiente para dejarlos entrar. Hay personas que interpretan la incapacidad de recibir del otro cómo una forma de rechazó.
 

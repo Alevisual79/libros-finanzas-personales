@@ -33,13 +33,13 @@ Las relaciones familiares toxicas no son más difíciles por casualidad. Combina
 
 ## Capítulo 2: Padres toxicos: tipos y patrones
 
-Identificar patrones específicos de paternidad toxica, más que tener solo una impresión general de dificultad, ayuda a comprender mejor la dinámica particular que se esta experimentando y a desarrollar estrategias apropiadas para cada patron.
+Identificar patrones específicos de paternidad toxica, más que tener solo una impresión general de dificultad, ayuda a comprender mejor la dinámica particular que se está experimentando y a desarrollar estrategias apropiadas para cada patron.
 
 **El Principio de la Diversidad de Patrones Parentales Toxicos:** Los patrones comunes de paternidad toxica incluyen el padre controlador que no permite autonomía, el padre crítico que constantemente encuentra fallas, el padre emocionalmente ausente que nunca proporcionó validación emocional, y el padre que invierte los roles, esperando que el hijo provea el cuidado emocional que debería fluir en la dirección opuesta.
 
 **Ejercicio inmediato:** Identifica cual de estos patrones (controlador, crítico, ausente, invertido) describe mejor a tu progenitor problematico. Esa identificación específica ayuda a entender mejor la dinámica particular que enfrentas.
 
-No todo padre toxico lo es de la misma forma. Identificar el patron específico ayuda a entender mejor lo que realmente esta ocurriendo en esa relación.
+No todo padre toxico lo es de la misma forma. Identificar el patron específico ayuda a entender mejor lo que realmente está ocurriendo en esa relación.
 
 ---
 

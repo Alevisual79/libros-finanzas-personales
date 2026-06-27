@@ -71,7 +71,7 @@ La investigación de Karim Lakhani y Marco Iansiti sobre las empresas más resis
 
 **Ejercicio inmediato:** Para la actividad más crítica de tu negocio (la que más directamente entrega valor al cliente), documenta el proceso en menos de diez pasos. Esa documentación no necesita ser perfecta: necesita ser suficientemente clara para que alguien sin experiencia previa pudiera entender lo que hace falta hacer. El proceso documentado es el primer paso para poder delegarlo y para poder escalarlo.
 
-El proceso que solo esta en tu cabeza no puede ser ejecutado por nadie más que tu. El que esta documentado ya empieza a ser un activo.
+El proceso que solo esta en tu cabeza no puede ser ejecutado por nadie más que tu. El que está documentado ya empieza a ser un activo.
 
 ---
 
@@ -111,7 +111,7 @@ Lucia ha aprendido que el plan de equipo que más le ha servido no ha sido el or
 
 Jim Collins propone en Good to Great que las empresas más exitosas primero se aseguran de tener a las personas correctas en el autobus (y fuera del autobus a las incorrectas) antes de decidir hacía donde va el autobus. La capacidad de las personas determina las opciones estratégicas disponibles.
 
-**Ejercicio inmediato:** Identifica la brecha de capacidad que más esta limitando el crecimiento de tu negocio en este momento: ¿es una brecha en ventas (no tienes suficiente capacidad de conseguir clientes), en operaciones (no puedes entregar más sin más personas), o en tecnología/producto (no puedes desarrollar el producto suficientemente rápido)? Para esa brecha, reflexiona: ¿la mejor solución en este momento es contratar a tiempo completo, usar freelancers, hacer outsourcing, o desarrollar la habilidad internamente?
+**Ejercicio inmediato:** Identifica la brecha de capacidad que más está limitando el crecimiento de tu negocio en este momento: ¿es una brecha en ventas (no tienes suficiente capacidad de conseguir clientes), en operaciones (no puedes entregar más sin más personas), o en tecnología/producto (no puedes desarrollar el producto suficientemente rápido)? Para esa brecha, reflexiona: ¿la mejor solución en este momento es contratar a tiempo completo, usar freelancers, hacer outsourcing, o desarrollar la habilidad internamente?
 
 La persona correcta en el momento correcto cambia el ritmo del negocio. La incorrecta en cualquier momento lo ralentiza.
 

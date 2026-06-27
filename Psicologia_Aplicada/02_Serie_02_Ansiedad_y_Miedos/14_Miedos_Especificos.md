@@ -81,7 +81,7 @@ Ruben ha oido hablar de tratamientos de fobia con realidad virtual. Le parece in
 
 **El Principio de la Exposición Virtual como Alternativa Valida:** Albert Rizzo, director del laboratorio de realidad virtual y neurociencias cognitivas en el USC Institute for Creative Technologies, ha liderado durante dos décadas la investigación sobre el uso de la realidad virtual en el tratamiento de trastornos de ansiedad, incluyendo el TEPT en veteranos de guerra y las fobias específicas. Los estudios muestran que la exposición en realidad virtual produce activación fisiologica real (elevación de la frecuencia cardiaca, sudoración), respuestas emocionales comparables a las del estímulo real, y extinción del miedo condicionado con tasas de respuesta comparables a las de la exposición in vivo.
 
-La ventaja de la realidad virtual para las fobias es práctica: permite exposición graduada y repetida a estímulos que en la vida real son costosos o dificilmente controlables (volar en avion, encontrarse con aranas en distintos entornos, estar en alturas variadas) sin los costes logisticos ni los riesgos de la exposición real. Para ciertas fobias (volar, alturas, claustrofobia), la realidad virtual esta emergiendo cómo una alternativa a la exposición in vivo con eficacia comparable.
+La ventaja de la realidad virtual para las fobias es práctica: permite exposición graduada y repetida a estímulos que en la vida real son costosos o dificilmente controlables (volar en avion, encontrarse con aranas en distintos entornos, estar en alturas variadas) sin los costes logisticos ni los riesgos de la exposición real. Para ciertas fobias (volar, alturas, claustrofobia), la realidad virtual está emergiendo cómo una alternativa a la exposición in vivo con eficacia comparable.
 
 **Ejercicio inmediato:** Busca si existen aplicaciones de realidad virtual o videos de realidad inmersiva disponibles para tu tipo específico de fobia. Aunque no sea tratamiento profesional, la exposición inicial en formato virtual puede reducir la barrera de entrada a la exposición más intensa, especialmente para estímulos difíciles de acceder de forma graduada en la vida real.
 
@@ -139,7 +139,7 @@ Ruben ha tomado benzodiacepinas antes de situaciones que activan su miedo para m
 
 Michael Davis, neurocientifico de Emory University, ha investigado la D-cicloserina (DCS), un antibiotico que facilita la extinción del miedo condicionado, como posible potenciador del aprendizaje de la exposición. Los resultados iniciales son prometedores para ciertos tipos de fobia aunque aun no estan en uso clínico rutinario. La implicación clinica actual es clara: para el tratamiento de fobias con exposición, evitar las benzodiacepinas durante las sesiones de exposición para preservar el aprendizaje que la exposición produce.
 
-**Ejercicio inmediato:** Si has estado usando medicación ansiolítica para manejar las situaciones que activan tu fobia, habla con tu médico sobre si ese uso esta interfiriendo con el aprendizaje de extinction que la exposición produce. Esta conversación puede cambiar el plan de tratamiento.
+**Ejercicio inmediato:** Si has estado usando medicación ansiolítica para manejar las situaciones que activan tu fobia, habla con tu médico sobre si ese uso está interfiriendo con el aprendizaje de extinction que la exposición produce. Esta conversación puede cambiar el plan de tratamiento.
 
 La medicación que te hace sentir mejor durante la exposición puede estar impidiendo que la exposición cure la fobia.
 

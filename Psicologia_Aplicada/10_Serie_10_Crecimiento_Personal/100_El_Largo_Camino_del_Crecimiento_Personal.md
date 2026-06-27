@@ -111,7 +111,7 @@ Ruben ha evitado pensar en la muerte. La investigación sugiere que ese es un er
 
 Steve Jobs proponía que contemplar la propia muerte era la mejor herramienta para tomar las decisiones importantes: frente a la muerte, la mayor parte de las presiones externas (la opinión de los demás, el miedo al fracaso) pierden su fuerza, y lo que genuinamente importa se vuelve más visible. Investigaciones sobre el thinking about own death (TOD) confirman que la mortalidad saliente produce mayor orientación hacía los valores profundos y menor orientación hacía el estatus y la aprobación social.
 
-**Ejercicio inmediato:** práctica el ejercicio stoico de memento mori: durante cinco minutos, contempla que algún dia moriras y que ese dia podría ser más próximo de lo que esperas. Después reflexiona: ¿dado eso, que cambiaria en como uso el tiempo de esta semana? ¿Que conversaciones tendría que no he tenido? ¿Que proyectos empezaria? Esa claridad que la contemplación de la muerte produce no esta disponible de la misma forma en ninguna otra práctica.
+**Ejercicio inmediato:** práctica el ejercicio stoico de memento mori: durante cinco minutos, contempla que algún dia moriras y que ese dia podría ser más próximo de lo que esperas. Después reflexiona: ¿dado eso, que cambiaria en como uso el tiempo de esta semana? ¿Que conversaciones tendría que no he tenido? ¿Que proyectos empezaria? Esa claridad que la contemplación de la muerte produce no está disponible de la misma forma en ninguna otra práctica.
 
 La muerte que no piensas no deja de acercarse. Pero al pensarla, puedes decidir lo que importa antes de que ella decida.
 

@@ -25,7 +25,7 @@ El video de bienvenida tiene ahora versiones en español, ingles y frances. Sin 
 
 ## Capítulo 1: El video generativo como nueva categoría
 
-El video ha sido históricamente la forma de contenido más cara y compleja de producir. La IA esta reduciendo esa barrera de forma dramatica.
+El video ha sido históricamente la forma de contenido más cara y compleja de producir. La IA está reduciendo esa barrera de forma dramatica.
 
 Las tres categorías principales:
 
@@ -169,7 +169,7 @@ El video será, dentro de pocos años, tan accesible de producir como el texto e
 
 El video combina el poder narrativo del texto con el impacto emocional de la imagen. Ha sido el medio más potente y más inaccesible para los no profesionales.
 
-La IA esta cambiando eso. Y con ello, esta cambiando quien puede contar historias y a que escala.
+La IA está cambiando eso. Y con ello, está cambiando quien puede contar historias y a que escala.
 
 ---
 

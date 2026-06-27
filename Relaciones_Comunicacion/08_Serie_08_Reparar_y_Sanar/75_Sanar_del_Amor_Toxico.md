@@ -21,7 +21,7 @@ Elena sale de una relación en la que nada era abiertamente violento, ningún ep
 
 ## Capítulo 1: Que hace toxico al amor
 
-Una relación toxica se caracteriza por un patron consistente de dinámicas dañinas, más que por un solo evento dramatico, lo cual frecuentemente dificulta su identificación mientras se esta viviendo dentro de ella.
+Una relación toxica se caracteriza por un patron consistente de dinámicas dañinas, más que por un solo evento dramatico, lo cual frecuentemente dificulta su identificación mientras se está viviendo dentro de ella.
 
 **El Principio del Patron Acumulativo sobre el Evento Aislado:** Las relaciones toxicas se definen por patrones consistentes que erosionan progresivamente el bienestar de quien los experimenta: crítica constante disfrazada de honestidad, control disfrazado de preocupación, manipulación emocional, y una dinámica general donde la persona se siente cada vez más pequeña, más insegura, y más dependiente de la aprobación del otro. Ningun incidente aislado podría explicar completamente el daño; es la acumulación la que lo produce.
 
@@ -39,13 +39,13 @@ Las relaciones toxicas frecuentemente siguen un patron ciclico reconocible que a
 
 **Ejercicio inmediato:** Si reconoces este patron ciclico en tu relación actual o pasada, identifica específicamente las fases: cómo se ve la tensión creciente, cómo se ve el conflicto o daño, y cómo se ve la reconciliación que renueva la esperanza.
 
-El ciclo de tensión, conflicto y reconciliación intensa no es evidencia de que la relación realmente esta mejorando. Es, frecuentemente, el patron mismo que mantiene a alguien atrapado.
+El ciclo de tensión, conflicto y reconciliación intensa no es evidencia de que la relación realmente está mejorando. Es, frecuentemente, el patron mismo que mantiene a alguien atrapado.
 
 ---
 
 ## Capítulo 3: Por qué es tan difícil salir
 
-Salir de una relación toxica es significativamente más difícil de lo que parece desde fuera, debido a una combinación de factores psicológicos que mantienen a la persona atrapada incluso cuando reconoce intelectualmente que la relación le esta dañando.
+Salir de una relación toxica es significativamente más difícil de lo que parece desde fuera, debido a una combinación de factores psicológicos que mantienen a la persona atrapada incluso cuando reconoce intelectualmente que la relación le está dañando.
 
 **El Principio de los Multiples Anclajes psicológicos:** La dificultad de salir de una relación toxica involucra multiples factores simultaneos: el vinculó de apego que se ha formado, frecuentemente intensificado por el ciclo de tensión-reconciliación descrito anteriormente, la erosión de la autoestima que dificulta creer que se merece o se puede encontrar algo mejor, el aislamiento social que frecuentemente acompaña a estas relaciones, y en algunos casos, dependencia económica o práctica de la otra persona.
 

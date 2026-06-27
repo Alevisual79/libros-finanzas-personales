@@ -27,7 +27,7 @@ El primer error que la mayoría de las personas con ansiedad comete es tratarla 
 
 El problema no es el sistema. El problema es cuando este sistema, diseñado para amenazas físicas agudas y breves de la sabana africana, se activa cronica y desproporcionadamente en respuesta a amenazas abstractas, sociales o imaginadas del mundo moderno: una presentación en el trabajo, un mensaje sin respuesta, una decisión incierta. El sistema alarma funciona perfectamente. Solo que esta calibrado para un entorno que ya no existe.
 
-**Ejercicio inmediato:** La próxima vez que sientas ansiedad, en lugar de intentar suprimirla inmediatamente, identifica durante treinta segundos que amenaza específica esta señalizando: ¿a que le teme concretamente tu cerebro en este momento? Esta identificación no elimina la ansiedad pero cambia la relación con ella de combate a información.
+**Ejercicio inmediato:** La próxima vez que sientas ansiedad, en lugar de intentar suprimirla inmediatamente, identifica durante treinta segundos que amenaza específica está señalizando: ¿a que le teme concretamente tu cerebro en este momento? Esta identificación no elimina la ansiedad pero cambia la relación con ella de combate a información.
 
 La ansiedad no es tu enemiga. Es tu sistema de alarma disparandose en el momento y la magnitud equivocados. Eso es gestionable.
 
@@ -63,7 +63,7 @@ El ataque de panico no te puede matar aunque se sienta como si pudiera. Esta es 
 
 ## Capítulo 4: El papel de los pensamientos en la ansiedad
 
-Isabel nota que su ansiedad no ocurre uniformemente. Se dispara especialmente en respuesta a ciertos tipos de pensamientos: sobre lo que otros piensan de sus decisiones, sobre posibles fracasos futuros, sobre si esta haciendo suficiente o bien. Los pensamientos no son solo el resultado de la ansiedad. Frecuentemente son su causa más directa.
+Isabel nota que su ansiedad no ocurre uniformemente. Se dispara especialmente en respuesta a ciertos tipos de pensamientos: sobre lo que otros piensan de sus decisiones, sobre posibles fracasos futuros, sobre si está haciendo suficiente o bien. Los pensamientos no son solo el resultado de la ansiedad. Frecuentemente son su causa más directa.
 
 **El Principio de los Pensamientos como Generadores de Estado Emocional:** Aaron Beck, fundador de la terapia cognitiva, demostró que los estados emocionales (incluyendo la ansiedad) no son causados directamente por las situaciones externas sino por la interpretación cognitiva de esas situaciones. Las personas con ansiedad tienen patrones cognitivos específicos que predisponen a interpretaciones amenazantes: sobreestimación de la probabilidad de eventos negativos, catastrofización del impacto potencial de esos eventos, y subestimación de la propia capacidad para manejarlos.
 
@@ -111,7 +111,7 @@ Isabel evita hacer presentaciones en público desde hace años. Cada vez que pue
 
 La exposición graduada al estímulo temido, en condiciones controladas sin la respuesta de evitación, es el mecanismo terapeutico central de los tratamientos con mayor evidencia para los trastornos de ansiedad. No porque la exposición sea placentera en el momento (no lo es), sino porque proporciona al sistema nervioso la información que la evitación le impide obtener: que el estímulo temido, aunque activa la ansiedad, no produce el daño catastrofico anticipado.
 
-**Ejercicio inmediato:** Identifica una situación que evitas regularmente por ansiedad y que esa evitación te esta costando algo (oportunidades, relaciones, calidad de vida). Diseña una versión muy reducida de esa situación que podrías enfrentar esta semana: no la versión completa y aterradora, sino un primer paso de exposición graduada que sea incómodo pero manejable.
+**Ejercicio inmediato:** Identifica una situación que evitas regularmente por ansiedad y que esa evitación te está costando algo (oportunidades, relaciones, calidad de vida). Diseña una versión muy reducida de esa situación que podrías enfrentar esta semana: no la versión completa y aterradora, sino un primer paso de exposición graduada que sea incómodo pero manejable.
 
 Cada vez que evitas algo que temes, el miedo crece. Cada vez que lo enfrentas y sobrevives, el miedo mengua.
 
@@ -139,7 +139,7 @@ Elena lleva meses con ansiedad que interfiere en su funcionamiento diario: duerm
 
 Los tratamientos con mayor evidencia para los trastornos de ansiedad incluyen la terapia cognitivo-conductual (TCC) y, para algunos tipos y niveles de severidad, la medicación farmacologica (frecuentemente en combinación con TCC). El acceso temprano a tratamiento produce mejores resultados que el tratamiento tardio después de años de cronicidad. Las personas que esperan a que la situación sea insostenible para buscar ayuda frecuentemente llegan después de que la ansiedad ha organizado significativamente su vida en torno a sus demandas de evitación.
 
-**Ejercicio inmediato:** Evalua honestamente si tu ansiedad esta interfiriendo con áreas importantes de tu vida. Si la respuesta es si, actua en los próximos siete dias: busca un psicologo con formación en TCC, revisa si tu obra social cubre psicoterapia, o busca recursos de terapia digital si el acceso presencial es difícil. La barrera de buscar ayuda es generalmente mucho menor que el coste de no hacerlo.
+**Ejercicio inmediato:** Evalua honestamente si tu ansiedad está interfiriendo con áreas importantes de tu vida. Si la respuesta es si, actua en los próximos siete dias: busca un psicologo con formación en TCC, revisa si tu obra social cubre psicoterapia, o busca recursos de terapia digital si el acceso presencial es difícil. La barrera de buscar ayuda es generalmente mucho menor que el coste de no hacerlo.
 
 Pedir ayuda no es rendirse ante la ansiedad. Es actuar de la forma más inteligente posible para reducirla.
 

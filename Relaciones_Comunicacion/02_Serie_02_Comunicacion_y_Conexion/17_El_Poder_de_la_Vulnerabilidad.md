@@ -73,7 +73,7 @@ Cuando Ruben finalmente le dijo a su mejor amigo que tenía miedo de no ser sufi
 
 Brown lo llama the courage to be seen: el coraje de ser visto tal como eres, con tus dudas y tus miedos y tus imperfecciones, en lugar de con la versión editada que crees que los demás quieren ver. El coraje de ser visto es la condición de la conexión real.
 
-**Ejercicio inmediato:** En tu próxima conversación con alguien en quien confias, comparte algo real sobre como te esta yendo, no la versión positiva de cara a la galeria. Solo algo real. Observa como responde el otro. Esa respuesta suele ser más cercana y más profunda de lo que esperabas.
+**Ejercicio inmediato:** En tu próxima conversación con alguien en quien confias, comparte algo real sobre como te está yendo, no la versión positiva de cara a la galeria. Solo algo real. Observa como responde el otro. Esa respuesta suele ser más cercana y más profunda de lo que esperabas.
 
 Lo que más te avergüenza de ti mismo es frecuentemente lo que más te conecta con los demás.
 
@@ -85,7 +85,7 @@ La vulnerabilidad apropiada no es dejar de tener filtros. Es compartir lo que es
 
 **El Principio de la Vulnerabilidad Contextual:** La vulnerabilidad funciona cuando hay un contexto de relativa seguridad: cierto nivel de confianza previa, un entorno que permite la exposición, y una relación con suficiente profundidad como para recibir lo que se comparte. Compartir vulnerabilidad fuera de ese contexto produce incomodidad en el otro, no conexión.
 
-La calibración de la vulnerabilidad requiere leer la relación: cuanta confianza existe, que ha compartido el otro antes, si el contexto es el adecuado. Una buena regla: compartir algo del mismo nivel de vulnerabilidad que el otro ha compartido contigo, o un nivel ligeramente superior si la relación esta avanzando en esa dirección.
+La calibración de la vulnerabilidad requiere leer la relación: cuanta confianza existe, que ha compartido el otro antes, si el contexto es el adecuado. Una buena regla: compartir algo del mismo nivel de vulnerabilidad que el otro ha compartido contigo, o un nivel ligeramente superior si la relación está avanzando en esa dirección.
 
 **Ejercicio inmediato:** Identifica una relación en que quieres profundizar. Revisa el nivel de vulnerabilidad que el otro ha mostrado contigo. práctica compartir algo del mismo nivel o ligeramente superior en la próxima conversación. La reciprocidad en la vulnerabilidad es lo que profundiza las relaciones de forma gradual y segura.
 
@@ -97,11 +97,11 @@ La vulnerabilidad sin calibración puede alejar. Con calibración, siempre acerc
 
 Hay personas que comparten demasiado. Que convierten cada conversación en una sesión de terapia. Que buscan en cada interacción el nivel de profundidad que solo unas pocas relaciones pueden sostener. Eso produce en el otro incomodidad, agotamiento o distancia.
 
-**El Principio de la Vulnerabilidad como Reciprocidad:** La vulnerabilidad que funciona es bidireccional. No es un monologo de uno sobre sus problemas y miedos. Es un intercambio gradual donde ambas personas van compartiendo a medida que la confianza lo permite. La persona que siempre comparte en exceso no esta siendo vulnerable en el sentido relacional. Esta usando al otro como recipiente de su propio procesamiento interno.
+**El Principio de la Vulnerabilidad como Reciprocidad:** La vulnerabilidad que funciona es bidireccional. No es un monologo de uno sobre sus problemas y miedos. Es un intercambio gradual donde ambas personas van compartiendo a medida que la confianza lo permite. La persona que siempre comparte en exceso no está siendo vulnerable en el sentido relacional. Está usando al otro como recipiente de su propio procesamiento interno.
 
 La vulnerabilidad estratégica no es manipulación. Es conciencia de que lo que se comparte debe ser apropiado para la relación y el momento, y debe dejar espacio para la respuesta y la reciprocidad del otro.
 
-**Ejercicio inmediato:** Reflexiona sobre una relación en que tends a compartir en exceso. La próxima vez que estes en esa dinámica, para y pregunta: ¿como estas tu? ¿Que esta pasando en tu vida? El cambio de foco del interior al otro es lo que convierte el descargo unilateral en conversación real.
+**Ejercicio inmediato:** Reflexiona sobre una relación en que tends a compartir en exceso. La próxima vez que estes en esa dinámica, para y pregunta: ¿como estas tu? ¿Que está pasando en tu vida? El cambio de foco del interior al otro es lo que convierte el descargo unilateral en conversación real.
 
 La vulnerabilidad que conecta deja espacio para el otro. La que no lo deja, desconecta.
 
@@ -151,7 +151,7 @@ En el trabajo, la vulnerabilidad bien calibrada produce confianza. La perfecció
 
 ## Capítulo 10: El coraje de ser imperfecto
 
-La imperfección no es un defecto a corregir. Es la condición humana. Y resistirse a ella tiene un coste específico: la energía que se gasta en mantener la apariencia de perfección no esta disponible para vivir, crear y conectar.
+La imperfección no es un defecto a corregir. Es la condición humana. Y resistirse a ella tiene un coste específico: la energía que se gasta en mantener la apariencia de perfección no está disponible para vivir, crear y conectar.
 
 **El Principio de la Suficiencia:** Brown identifica en las personas que viven con autenticidad una creencia central común: soy suficiente. No perfecto. No superior. Suficiente tal como soy, con mis limitaciones y mis torpezas y mis cosas sin resolver. Esa creencia no la tienen porque tienen la vida perfecta. La tienen porque han decidido dejar de basar su valor en lo que producen, en como los perciben o en si estan a la altura de los estandares que nadie les ha pedido explicitamente pero que llevan años intentando alcanzar.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos tiene mucho conocimiento pero es completamente invisible online. Lucia tiene presencia online pero no esta construyendo autoridad en un área específica. Marcos tiene credenciales corporativas impresionantes pero no tiene ninguna presencia digital y cuando buscan su nombre en Google no aparece nada relevante. Los tres necesitan entender que en la economía digital, la invisibilidad es el mayor problema competitivo que puede tener un profesional o un emprendedor. La marca personal digital no es vanidad. Es el activo que genera oportunidades cuando no estas buscandolas activamente.
+Carlos tiene mucho conocimiento pero es completamente invisible online. Lucia tiene presencia online pero no está construyendo autoridad en un área específica. Marcos tiene credenciales corporativas impresionantes pero no tiene ninguna presencia digital y cuando buscan su nombre en Google no aparece nada relevante. Los tres necesitan entender que en la economía digital, la invisibilidad es el mayor problema competitivo que puede tener un profesional o un emprendedor. La marca personal digital no es vanidad. Es el activo que genera oportunidades cuando no estas buscandolas activamente.
 
 ---
 
@@ -23,7 +23,7 @@ Carlos tiene mucho conocimiento pero es completamente invisible online. Lucia ti
 
 En la economía digital, lo que no se ve no existe. Y lo que no existe no genera oportunidades.
 
-**El Principio de la Marca Personal Digital como el Activo que Genera Oportunidades Pasivas (Clientes que Llegan, Propuestas que Vienen, Colaboraciones que Se Ofrecen) Independientemente de Si El Emprendedor Esta Buscando Activamente porque El Mercado Digital Filtra por Visibilidad y Autoridad antes de Evaluar el Merito Real:** Tom Peters en Fast Company acuño el concepto de marca personal en 1997 con el articulo The Brand Called You: cada profesional es una marca con activos, reputación, y posicionamiento que puede gestionarse deliberadamente o ignorarse. En el entorno digital actual, ese concepto se ha amplificado: el cliente potencial busca en Google, mira el LinkedIn, y lee el contenido antes de contactar con cualquier proveedor.
+**El Principio de la Marca Personal Digital como el Activo que Genera Oportunidades Pasivas (Clientes que Llegan, Propuestas que Vienen, Colaboraciones que Se Ofrecen) Independientemente de Si El Emprendedor Está Buscando Activamente porque El Mercado Digital Filtra por Visibilidad y Autoridad antes de Evaluar el Merito Real:** Tom Peters en Fast Company acuño el concepto de marca personal en 1997 con el articulo The Brand Called You: cada profesional es una marca con activos, reputación, y posicionamiento que puede gestionarse deliberadamente o ignorarse. En el entorno digital actual, ese concepto se ha amplificado: el cliente potencial busca en Google, mira el LinkedIn, y lee el contenido antes de contactar con cualquier proveedor.
 
 La investigación de LinkedIn sobre el impacto de la presencia digital en los resultados profesionales muestra que los profesionales con perfiles de LinkedIn completos y presencia activa tienen estadisticamente más oportunidades de negocio, mayor facilidad para conseguir clientes, y mayor capacidad de cobrar precios premium que los equivalentes invisibles digitalmente.
 
@@ -139,7 +139,7 @@ Marcos ha aprendido que la marca personal que no evoluciona se vuelve obsoleta.
 
 La investigación de LinkedIn sobre los patrones de evolución de la marca personal de los profesionales más exitosos muestra que los que tienen mayor crecimiento a diez años han actualizado deliberadamente su posicionamiento entre dos y cuatro veces, cada vez en respuesta a la evolución de sus capacidades y del mercado.
 
-**Ejercicio inmediato:** Revisa tu marca personal actual contra la visión de dónde quieres estar en tres años: ¿el posicionamiento actual te llevara a ese lugar o necesita ajustarse? ¿El tipo de contenido que públicas atrae al tipo de oportunidades que quieres en tres años? ¿La audiencia que estas construyendo es la que te servira mejor en ese horizonte temporal? La respuesta a esas tres preguntas te indica si la marca personal actual esta bien orientada o si necesita una evolución deliberada.
+**Ejercicio inmediato:** Revisa tu marca personal actual contra la visión de dónde quieres estar en tres años: ¿el posicionamiento actual te llevara a ese lugar o necesita ajustarse? ¿El tipo de contenido que públicas atrae al tipo de oportunidades que quieres en tres años? ¿La audiencia que estas construyendo es la que te servira mejor en ese horizonte temporal? La respuesta a esas tres preguntas te indica si la marca personal actual está bien orientada o si necesita una evolución deliberada.
 
 La marca personal que no revisas periodicamente puede estar llevandote hacía donde fuiste, no hacía donde quieres ir.
 

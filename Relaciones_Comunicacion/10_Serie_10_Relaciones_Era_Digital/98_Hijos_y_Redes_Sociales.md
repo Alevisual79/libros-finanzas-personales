@@ -49,7 +49,7 @@ El acoso a traves de medios digitales presenta caracteristicas específicas (alc
 
 **El Principio de las Caracteristicas específicas del Bullying Digital:** El bullying digital puede ocurrir en cualquier momento (no limitado al horario escolar), puede involucrar audiencias más amplias que el bullying presencial tradicional, y frecuentemente persigue a la victima incluso en espacios que deberían sentirse seguros (el propio hogar, a traves del dispositivo personal), lo que requiere estrategias específicas de documentación, reporte, y apoyo emocional.
 
-**Ejercicio inmediato:** Si sospechas que tu hijo adolescente esta experimentando bullying digital, observa señales específicas (cambios de animo relacionados con el uso del teléfono, evitación de ciertas plataformas) y abre una conversación directa sin juicio.
+**Ejercicio inmediato:** Si sospechas que tu hijo adolescente está experimentando bullying digital, observa señales específicas (cambios de animo relacionados con el uso del teléfono, evitación de ciertas plataformas) y abre una conversación directa sin juicio.
 
 El bullying digital sigue a la victima incluso a casa, a traves de su propio dispositivo. Esta caracteristica específica requiere atención y estrategias distintas del bullying tradicional.
 

@@ -81,11 +81,11 @@ Perdonar no requiere decir que lo que te hicieron estuvo bien. Requiere decidir 
 
 ## Capítulo 6: Perdonar a quien no lo merece segun la logica
 
-Algunas personas que causaron daño significativo nunca muestran arrepentimiento genuino ni hacen ningún esfuerzo de reparación, lo que plantea la pregunta difícil de si el perdon tiene sentido cuando, segun cualquier logica de merito, no esta justificado.
+Algunas personas que causaron daño significativo nunca muestran arrepentimiento genuino ni hacen ningún esfuerzo de reparación, lo que plantea la pregunta difícil de si el perdon tiene sentido cuando, segun cualquier logica de merito, no está justificado.
 
 **El Principio del Perdon Independiente del Merito:** El perdon, entendido como proceso que beneficia principalmente a quien lo realiza, no requiere que la otra persona lo merezca segun ningún cálculo de justicia. De hecho, perdonar a alguien que nunca pidio perdon ni mostró arrepentimiento puede ser igualmente liberador, porque la liberación no depende de la respuesta o el merito de la otra persona.
 
-**Ejercicio inmediato:** Si cargas resentimiento hacía alguien que nunca ha mostrado arrepentimiento ni ha pedido perdon, reflexiona sobre si esperar ese reconocimiento como condición para tu propio perdon te esta manteniendo atrapado indefinidamente en el resentimiento.
+**Ejercicio inmediato:** Si cargas resentimiento hacía alguien que nunca ha mostrado arrepentimiento ni ha pedido perdon, reflexiona sobre si esperar ese reconocimiento como condición para tu propio perdon te está manteniendo atrapado indefinidamente en el resentimiento.
 
 El perdon no es un premio que la otra persona se gana con buen comportamiento. Es una decisión que tomas tu, para tu propia liberación, independientemente de lo que el otro haga o no haga.
 

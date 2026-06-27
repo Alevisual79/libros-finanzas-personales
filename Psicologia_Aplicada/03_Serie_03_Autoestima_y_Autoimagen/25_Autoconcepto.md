@@ -67,7 +67,7 @@ Ruben dice (y cree) que no le importa lo que los demás piensan de el. Pero su c
 
 **El Principio de la Disociación entre Autoconcepto Implicito y Explicito:** Greenwald y Banaji, investigadores de los sesgos implícitos de la Universidad de Harvard, documentaron que las actitudes y autoevaluaciones implícitas (que operan de forma automática e inconsciente) pueden diferir significativamente de las explícitas (las que la persona afirma conscientemente cuando se le pregunta). El autoconcepto implícito, formado en experiencias tempranas antes de que se desarrolle el pensamiento consciente sobre el yo, puede seguir guiando el comportamiento de forma automática incluso cuando el autoconcepto explícito lo contradice.
 
-Esta disociación explica comportamientos aparentemente contradictorios: la persona que dice que no le importa la aprobación ajena pero que sistemáticamente evita situaciones donde puede ser evaluado negativamente esta siendo guiada por su autoconcepto implícito, no por el que afirma.
+Esta disociación explica comportamientos aparentemente contradictorios: la persona que dice que no le importa la aprobación ajena pero que sistemáticamente evita situaciones donde puede ser evaluado negativamente está siendo guiada por su autoconcepto implícito, no por el que afirma.
 
 **Ejercicio inmediato:** Observa tu comportamiento en lugar de tus afirmaciones durante una semana. ¿Que hace alguien que actua de acuerdo con tus afirmaciones sobre ti mismo (no me importa la aprobación, soy bueno en situaciones sociales)? ¿Lo que describes realmente ocurre en tu comportamiento observable, o hay una brecha entre lo que afirmas y como actuas?
 
@@ -139,7 +139,7 @@ Isabel sabe exactamente quien es y como es. Rara vez se sorprende a si misma. Nu
 
 Una narrativa del yo que dice soy el tipo de persona que X cierra la posibilidad de descubrir que puedes ser también el tipo de persona que Y. El autoconcepto más funcional tiene suficiente coherencia para proporcionar continuidad y suficiente flexibilidad para permitir el descubrimiento y el cambio.
 
-**Ejercicio inmediato:** Identifica algo que te gustaria intentar pero que has descartado porque no encaja con como te ves a ti mismo. Pregunta: ¿si tu autoconcepto no dijera soy el tipo de persona que no hace X, estaria dispuesto a intentarlo? Si la respuesta es si, el autoconcepto esta siendo una barrera para la experiencia, no un reflejo preciso de quien eres.
+**Ejercicio inmediato:** Identifica algo que te gustaria intentar pero que has descartado porque no encaja con como te ves a ti mismo. Pregunta: ¿si tu autoconcepto no dijera soy el tipo de persona que no hace X, estaria dispuesto a intentarlo? Si la respuesta es si, el autoconcepto está siendo una barrera para la experiencia, no un reflejo preciso de quien eres.
 
 El autoconcepto que te impide probar cosas nuevas no es autoconocimiento. Es autolimitación.
 

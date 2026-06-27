@@ -125,7 +125,7 @@ Elena esta en un espectro entre dos extremos: por un lado hay personas que no ne
 
 El problema surge cuando la necesidad de aprobación se vuelve tan intensa que determina las decisiones importantes: que trabajos se aceptan, que opiniones se expresan, que relaciones se buscan. En ese punto, la necesidad de aprobación ha dejado de ser una señal de ajuste social y se ha convertido en un limitador de la autonomía y la autenticidad.
 
-**Ejercicio inmediato:** Evalua tu necesidad de aprobación en una dimensión específica: ¿cuando tomas decisiones importantes en tu vida, cuanto peso tiene la pregunta que pensaran otros sobre esta decisión? Si el peso es mayor que el de tu propia evaluación de lo que quieres y necesitas, la necesidad de aprobación esta limitando tu autonomía.
+**Ejercicio inmediato:** Evalua tu necesidad de aprobación en una dimensión específica: ¿cuando tomas decisiones importantes en tu vida, cuanto peso tiene la pregunta que pensaran otros sobre esta decisión? Si el peso es mayor que el de tu propia evaluación de lo que quieres y necesitas, la necesidad de aprobación está limitando tu autonomía.
 
 Importar lo que los demás piensan es normal. Que eso sea más importante que lo que tu piensas, no lo es.
 

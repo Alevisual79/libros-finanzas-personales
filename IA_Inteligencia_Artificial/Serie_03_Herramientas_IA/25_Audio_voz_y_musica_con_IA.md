@@ -112,13 +112,13 @@ La clonación de voz permite crear un modelo de una voz específica a partir de 
 
 **Coherencia de largo recorrido:** En composiciones musicales largas, la coherencia tematica y el desarrollo pueden debilitarse.
 
-**Identificación:** Herramientas de detección de audio sintetico existen pero son imperfectas. La capacidad de distinguir voz real de sintetica esta disminuyendo.
+**Identificación:** Herramientas de detección de audio sintetico existen pero son imperfectas. La capacidad de distinguir voz real de sintetica está disminuyendo.
 
 ---
 
 ## Capítulo 8: El impacto en la industria del audio
 
-La industria de los locutores, la musica de stock y la producción de audio basica esta siendo transformada.
+La industria de los locutores, la musica de stock y la producción de audio basica está siendo transformada.
 
 **Locutores:** El mercado de locution de volumen bajo (narración de documentos internos, e-learning corporativo estandar) esta muy expuesto. Los locutores con voces unicas, carisma y capacidades de actuación tienen mayor resiliencia.
 
@@ -150,7 +150,7 @@ La industria de los locutores, la musica de stock y la producción de audio basi
 
 **Separación de fuentes:** Extraer instrumentos o voces individuales de grabaciones complejas con precisión creciente.
 
-El audio, después de ser uno de los dominios más resistentes a la IA, se esta convirtiendo en uno de los más transformados.
+El audio, después de ser uno de los dominios más resistentes a la IA, se está convirtiendo en uno de los más transformados.
 
 ---
 

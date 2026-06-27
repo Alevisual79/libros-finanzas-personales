@@ -71,7 +71,7 @@ Esto no implica ignorar las debilidades: implica gestionar las debilidades (llev
 
 **Ejercicio inmediato:** Para cada miembro de tu equipo (si lideras), reflexiona: ¿conozco las dos o tres fortalezas principales de esta persona? ¿Le he dado oportunidades recientes de usar esas fortalezas en tareas significativas? Si no, esa es una oportunidad de desarrollo que no estas usando. Las conversaciones sobre fortalezas con los miembros del equipo son frecuentemente más efectivas para el desarrollo que las conversaciones sobre áreas de mejora.
 
-El equipo que cada miembro siente que puede ser lo mejor de si mismo es el equipo que más rinde. No el que cada miembro esta intentando corregir sus defectos.
+El equipo que cada miembro siente que puede ser lo mejor de si mismo es el equipo que más rinde. No el que cada miembro está intentando corregir sus defectos.
 
 ---
 
@@ -149,7 +149,7 @@ El líder que sabe lo mejor de cada miembro de su equipo tiene el activo más va
 
 Elena ha llegado a entender que el enfoque en fortalezas no es solo una herramienta de desarrollo. Es una filosofía de vida.
 
-**El Principio del Enfoque en Fortalezas como Actitud Fundamental hacía la Vida Propia y la de los Demás que Transforma la Calidad de las Relaciones y el Bienestar:** El enfoque en fortalezas no se limita al trabajo o al desarrollo personal: es una forma de ver al mundo y a las personas que tiene consecuencias profundas en la calidad de las relaciones. Las personas que habitualmente buscan las fortalezas en los demás (lo que funciona, lo que esta bien, lo que tiene potencial) reportan mayor satisfacción en sus relaciones y producen mayor florecimiento en las personas de su entorno.
+**El Principio del Enfoque en Fortalezas como Actitud Fundamental hacía la Vida Propia y la de los Demás que Transforma la Calidad de las Relaciones y el Bienestar:** El enfoque en fortalezas no se limita al trabajo o al desarrollo personal: es una forma de ver al mundo y a las personas que tiene consecuencias profundas en la calidad de las relaciones. Las personas que habitualmente buscan las fortalezas en los demás (lo que funciona, lo que está bien, lo que tiene potencial) reportan mayor satisfacción en sus relaciones y producen mayor florecimiento en las personas de su entorno.
 
 John Gottman y su investigación sobre las relaciones de pareja muestra que las relaciones exitosas tienen una proporción de interacciones positivas a negativas de al menos 5 a 1, y que los miembros de esas relaciones practican habitualmente el reconocimiento y la apreciación de las fortalezas del otro.
 

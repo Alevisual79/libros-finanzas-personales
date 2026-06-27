@@ -95,7 +95,7 @@ Las apps de citas son una herramienta poderosa cuando se usan con intención. Si
 
 Iniciar una conversación con alguien nuevo, ya sea a traves de una app o en persona, genera ansiedad comprensible, especialmente después de un período sin práctica reciente en este tipo de interacción.
 
-**El Principio del Mensaje específico sobre el Generico:** Los primeros mensajes más efectivos hacen referencia a algo específico del perfil o de la interacción de la otra persona, demostrando atención genuina, en lugar de saludos genericos que podrían enviarse a cualquier persona sin distinción. Esta especificidad tanto facilita una respuesta más genuina como reduce parte de la ansiedad de sentir que se esta enviando un mensaje al vacio.
+**El Principio del Mensaje específico sobre el Generico:** Los primeros mensajes más efectivos hacen referencia a algo específico del perfil o de la interacción de la otra persona, demostrando atención genuina, en lugar de saludos genericos que podrían enviarse a cualquier persona sin distinción. Esta especificidad tanto facilita una respuesta más genuina como reduce parte de la ansiedad de sentir que se está enviando un mensaje al vacio.
 
 **Ejercicio inmediato:** Para tu próximo primer mensaje, identifica algo específico en el perfil o la conversación previa de la persona, y haz referencia directa a ello en lugar de un saludo generico.
 

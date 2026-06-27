@@ -127,7 +127,7 @@ El mapa de relaciones que quieres en cinco años empieza a construirse hoy.
 
 ## Capítulo 8: Terminar relaciones que ya no tienen sentido
 
-A veces las relaciones no terminan. Se quedan. Por costumbre, por culpa, por no querer hacer el mal momento, por la historia compartida que hace que sea difícil imaginar que alguien que fue importante ya no tiene que estarlo. Pero mantener relaciones que ya no tienen sentido tiene un coste: el espacio que ocupan, energético y temporal, no esta disponible para relaciones que si lo tienen.
+A veces las relaciones no terminan. Se quedan. Por costumbre, por culpa, por no querer hacer el mal momento, por la historia compartida que hace que sea difícil imaginar que alguien que fue importante ya no tiene que estarlo. Pero mantener relaciones que ya no tienen sentido tiene un coste: el espacio que ocupan, energético y temporal, no está disponible para relaciones que si lo tienen.
 
 **El Principio del Cierre Relacional Honesto:** Cerrar una relación no siempre requiere una conversación dramatica o un momento de ruptura. A veces es simplemente dejar de invertir en ella, dejar que la frecuencia del contacto disminuya naturalmente, aceptar que esa persona fue importante en un capítulo de tu vida que ya cerro. Otras veces si requiere una conversación. La clave es hacer el cierre con honestidad, sin crueldad, y sin el resentimiento de seguir en algo que ya no funciona para ninguno de los dos.
 

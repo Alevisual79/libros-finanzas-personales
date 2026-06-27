@@ -69,7 +69,7 @@ Ruben participa en un estudio universitario aparentemente sobre evaluación de p
 
 El priming opera porque el cerebro funciona con asociaciones en red: activar un concepto o emoción aumenta la accesibilidad de todos los conceptos relacionados, creando un campo de activación que determina que pensamientos e interpretaciones emergen facilmente y cuales requieren esfuerzo deliberado. El ambiente físico, social y digital en que uno vive es un campo de priming constante que moldea lo que uno piensa sin que nadie lo haya elegido conscientemente.
 
-**Ejercicio inmediato:** Diseña el ambiente de tu espacio de trabajo para hacer priming positivo hacía los estados que quieres cultivar. Si quieres concentración, elimina distractores visuales. Si quieres creatividad, agrega elementos visuales variados y estimulantes. Tu entorno no es neutro. Esta haciendo priming todo el tiempo.
+**Ejercicio inmediato:** Diseña el ambiente de tu espacio de trabajo para hacer priming positivo hacía los estados que quieres cultivar. Si quieres concentración, elimina distractores visuales. Si quieres creatividad, agrega elementos visuales variados y estimulantes. Tu entorno no es neutro. Está haciendo priming todo el tiempo.
 
 Lo que rodea a tu mente antes de que pienses determina parcialmente lo que piensas.
 

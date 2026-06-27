@@ -153,7 +153,7 @@ Isabel ha llegado a entender que seguir adelante no significa dejar atras a quie
 
 Esta integración no tiene un punto de llegada definitivo: el duelo puede reactivarse en aniversarios o ante estímulos inesperados. Pero en el duelo integrado, estas reactivaciones son momentos de reconexion que se pueden atravesar sin perder el hilo de la vida presente.
 
-**Ejercicio inmediato:** Reflexiona sobre como describes a las personas importantes que has perdido: ¿los introduces en tu narrativa de quien eres? ¿Puedes hablar de ellos con el placer de lo que fueron ademas del dolor de la ausencia? La capacidad de hablar de los fallecidos con calidez ademas de con tristeza es uno de los indicadores de que el duelo esta siendo integrado.
+**Ejercicio inmediato:** Reflexiona sobre como describes a las personas importantes que has perdido: ¿los introduces en tu narrativa de quien eres? ¿Puedes hablar de ellos con el placer de lo que fueron ademas del dolor de la ausencia? La capacidad de hablar de los fallecidos con calidez ademas de con tristeza es uno de los indicadores de que el duelo está siendo integrado.
 
 Seguir adelante es hacer espacio para la vida presente sin borrar a quien ya no esta.
 

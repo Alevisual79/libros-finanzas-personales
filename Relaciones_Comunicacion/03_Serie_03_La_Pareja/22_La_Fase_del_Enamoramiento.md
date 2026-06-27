@@ -17,7 +17,7 @@
 
 Ruben tiene veintinueve años y lleva cuatro meses en el estado que el llama completamente loco por alguien. No puede pensar en otra cosa. Todo lo que hace lo hace pensando en ella. Cada momento en que no estan juntos cuenta el tiempo hasta que puedan estarlo. Sabe racionalmente que esto no puede durar para siempre. No le importa. Esta exactamente donde quiere estar.
 
-El enamoramiento es la experiencia emocional más intensa que la mayoría de los seres humanos vive. Y es una de las menos entendidas, no porque no haya investigación sobre ella sino porque nadie quiere estudiarla cuando la esta viviendo. La biología, la psicología y la química se combinan para producir un estado que altera la percepción, distorsiona el juicio y genera una sensación de completitud que ninguna otra experiencia puede igualar.
+El enamoramiento es la experiencia emocional más intensa que la mayoría de los seres humanos vive. Y es una de las menos entendidas, no porque no haya investigación sobre ella sino porque nadie quiere estudiarla cuando la está viviendo. La biología, la psicología y la química se combinan para producir un estado que altera la percepción, distorsiona el juicio y genera una sensación de completitud que ninguna otra experiencia puede igualar.
 
 Lo que es importante saber: el enamoramiento no es el amor. Es el inició de la posibilidad del amor.
 
@@ -55,7 +55,7 @@ Lo que ves durante el enamoramiento no es la persona completa. Es la persona pas
 
 La idealización en el enamoramiento no es solo ver lo bueno del otro. Es también proyectar en el otro cualidades que el otro no necesariamente tiene pero que nosotros necesitamos que tenga.
 
-**El Principio de la Proyección Enamorada:** En el enamoramiento, proyectamos en el otro nuestras esperanzas, nuestras necesidades y nuestra imagen de lo que queremos en una pareja. El otro, que aun no nos conoce bien y que esta en el mismo estado de enamoramiento, actua de formas que confirman esa proyección porque esta tratando de presentar su mejor versión. El resultado es que los dos se enamoran parcialmente de la persona real y parcialmente de la imagen que han construido sobre esa persona.
+**El Principio de la Proyección Enamorada:** En el enamoramiento, proyectamos en el otro nuestras esperanzas, nuestras necesidades y nuestra imagen de lo que queremos en una pareja. El otro, que aun no nos conoce bien y que esta en el mismo estado de enamoramiento, actua de formas que confirman esa proyección porque está tratando de presentar su mejor versión. El resultado es que los dos se enamoran parcialmente de la persona real y parcialmente de la imagen que han construido sobre esa persona.
 
 El momento en que la idealización empieza a desmoronarse, que ocurre inevitablemente, puede sentirse como decepción o como traición. En realidad es la llegada a la realidad: el momento en que se empieza a ver a la persona real, no a la proyección.
 
@@ -75,7 +75,7 @@ Las personas que entienden esta transición pueden navegarla conscientemente. La
 
 **Ejercicio inmediato:** Recuerda alguna relación que terminó cuando dejó de sentirse tan intensa como al principio. En retrospección, crees que la relación podría haber tenido base más allá de la euforia inicial? La pregunta no sirve para revivir lo que terminó. Sirve para calibrar mejor las decisiones futuras.
 
-La caida de la euforia no significa que el amor se acabó. Significa que la relación real esta empezando.
+La caida de la euforia no significa que el amor se acabó. Significa que la relación real está empezando.
 
 ---
 
@@ -161,7 +161,7 @@ El enamoramiento es lo que te lleva a alguien. El amor maduro es lo que construy
 
 ## Epílogo
 
-Ruben sabe que la euforia que siente no va a durar para siempre. Ya lo ha vivido antes. Esta vez, sin embargo, tiene algo que no tenía las otras veces: la conciencia de lo que esta viviendo, de sus mecanismos y de sus límites. Esa conciencia no le quita ni un gramo de la intensidad de lo que siente. Le da perspectiva sobre lo que esta construyendo.
+Ruben sabe que la euforia que siente no va a durar para siempre. Ya lo ha vivido antes. Esta vez, sin embargo, tiene algo que no tenía las otras veces: la conciencia de lo que está viviendo, de sus mecanismos y de sus límites. Esa conciencia no le quita ni un gramo de la intensidad de lo que siente. Le da perspectiva sobre lo que está construyendo.
 
 Y resulta que la perspectiva es exactamente lo que hace que el enamoramiento pueda convertirse en algo que dure.
 

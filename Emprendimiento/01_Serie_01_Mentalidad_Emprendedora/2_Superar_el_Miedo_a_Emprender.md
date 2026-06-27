@@ -139,7 +139,7 @@ Marcos ha aprendido a usar el miedo como información sobre donde esta su zona d
 
 Steven Pressfield, en La Guerra del Arte, propone el concepto de la resistencia: la fuerza que se opone a cualquier proyecto creativo o emprendedor de importancia. Propone que la intensidad de la resistencia (el miedo, la procrastinación, la duda) es proporcional a la importancia del proyecto. La resistencia más fuerte apunta hacía el trabajo más importante.
 
-**Ejercicio inmediato:** Reflexiona sobre las acciones emprendedoras que has estado evitando más consistentemente. Para cada una, reflexiona: ¿el miedo que siento ante esta acción es proporcional al riesgo real, o es proporcional a la importancia que tendría para mi negocio si la hiciera bien? Si la respuesta es lo segundo, el miedo esta apuntando exactamente hacía donde necesitas ir.
+**Ejercicio inmediato:** Reflexiona sobre las acciones emprendedoras que has estado evitando más consistentemente. Para cada una, reflexiona: ¿el miedo que siento ante esta acción es proporcional al riesgo real, o es proporcional a la importancia que tendría para mi negocio si la hiciera bien? Si la respuesta es lo segundo, el miedo está apuntando exactamente hacía donde necesitas ir.
 
 El mayor miedo que sientes sobre tu negocio probablemente apunta hacía tu mayor oportunidad de crecimiento.
 

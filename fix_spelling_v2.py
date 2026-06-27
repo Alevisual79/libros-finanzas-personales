@@ -199,7 +199,33 @@ def fix_imperatives(line):
     return line
 
 
-# 5. Errores de codificación ñ
+# 5. 'esta' → 'está' (verbo estar sin tilde)
+# Safe patterns: 'esta' + gerundio OR 'esta' + participio conocido
+_ESTA_COMPL = (
+    r'bien|claro|disponible|listo|hecho|dicho|relacionado|basado|demostrado|'
+    r'probado|confirmado|diseñado|pensado|comprobado|visto|expuesto|establecido|'
+    r'planteado|orientado|enfocado|definido|descrito|estudiado|analizado|'
+    r'vinculado|asociado|ligado|dado|reconocido|aceptado|documentado|'
+    r'compuesto|formado|integrado|organizado|estructurado|conectado|preparado|'
+    r'apoyado|respaldado|sustentado|justificado|permitido|prohibido|limitado|'
+    r'desarrollado|construido|adaptado|ajustado|modificado|dirigido|destinado|'
+    r'concebido|planificado|programado|comprendido|entendido|asumido|rechazado|'
+    r'aprobado|negado|superado|resuelto|incluido|excluido|dividido|distribuido|'
+    r'compuesto|constituido|formado|representado|determinado|condicionado'
+)
+RE_ESTA_PART = re.compile(rf'\besta\s+({_ESTA_COMPL})\b', re.IGNORECASE)
+RE_ESTA_GER  = re.compile(r'\besta\s+\w+ndo\b', re.IGNORECASE)
+
+def _esta_repl(m):
+    return 'Está ' if m.group(0)[0].isupper() else 'está '
+
+def fix_esta(line):
+    line = RE_ESTA_PART.sub(lambda m: _esta_repl(m) + m.group(1), line)
+    line = RE_ESTA_GER.sub(lambda m: _esta_repl(m) + m.group(0).split(None, 1)[1], line)
+    return line
+
+
+# 6. Errores de codificación ñ
 ENCOD_FIXES = [
     (re.compile(r'\bAniadir\b'),    'Añadir'),
     (re.compile(r'\baniadir\b'),    'añadir'),
@@ -237,6 +263,7 @@ def fix_line(line):
     line = fix_conditional(line)
     line = fix_imperfect(line)
     line = fix_imperatives(line)
+    line = fix_esta(line)
     line = fix_q_colon(line)
     line = fix_q_afterq(line)
     line = fix_q_after_dot(line)

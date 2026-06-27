@@ -83,7 +83,7 @@ Ruben cree que empatia significa estar de acuerdo con lo que siente el otro, o s
 
 Simon Baron-Cohen, psicologo de Cambridge, relaciona la empatia con la sistematización: las personas con alta sistematización y baja empatia (el perfil que describe a algunos ingenieros y personas en el espectro del autismo) pueden desarrollar empatia cognitiva precisa cómo una habilidad aprendida aunque no la experimenten de forma natural o automática. La empatia, en su dimensión cognitiva, se puede entrenar.
 
-**Ejercicio inmediato:** En tu próxima conversación de conflicto o tensión, antes de responder, pausa y formula en voz alta (o en silencio) la perspectiva del otro con la mayor precisión posible: que cree que esta pasando, que necesita, que teme. Puedes estar en desacuerdo con esa perspectiva. Pero formularla con precisión cambia la calidad de la interacción.
+**Ejercicio inmediato:** En tu próxima conversación de conflicto o tensión, antes de responder, pausa y formula en voz alta (o en silencio) la perspectiva del otro con la mayor precisión posible: que cree que está pasando, que necesita, que teme. Puedes estar en desacuerdo con esa perspectiva. Pero formularla con precisión cambia la calidad de la interacción.
 
 No tienes que estar de acuerdo con alguien para entender precisamente por qué piensa y siente lo que piensa y siente. Y esa comprensión es poder.
 
@@ -111,7 +111,7 @@ Elena tiene una colega que constantemente recurre a su empatia para obtener favo
 
 La distinción entre empatia y manipulación se aclara cuando se distingue entre responsabilidad empática (hacerse cargo de las emociones ajenas) y presencia empática (comprender las emociones ajenas sin absorberlas como propias). La primera es agotadora y erosiva de la autonomía de ambas personas. La segunda permite el apoyo genuino sin el coste del agotamiento.
 
-**Ejercicio inmediato:** Identifica una relación en la que sientes que tu empatia esta siendo usada para dificultar el establecimiento de límites que necesitas. práctica formular ese límite desde la comprensión empática: entiendo que esto te resulta difícil Y necesito que se respete este límite. La conjunción Y (no PERO) es la clave.
+**Ejercicio inmediato:** Identifica una relación en la que sientes que tu empatia está siendo usada para dificultar el establecimiento de límites que necesitas. práctica formular ese límite desde la comprensión empática: entiendo que esto te resulta difícil Y necesito que se respete este límite. La conjunción Y (no PERO) es la clave.
 
 Empatia no es responsabilizarse de cómo se siente el otro. Es comprender cómo se siente el otro. No son lo mismo.
 

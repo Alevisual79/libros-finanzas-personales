@@ -105,7 +105,7 @@ La motivación que espera solo la linea de meta se agota en el trayecto. La que 
 
 ## Capítulo 7: La maestria como fuente de motivación intrinseca
 
-Ruben ha notado que cuando siente que esta mejorando en algo, quiere seguir haciendolo. La maestria es una de las tres fuentes más robustas de motivación intrinseca.
+Ruben ha notado que cuando siente que está mejorando en algo, quiere seguir haciendolo. La maestria es una de las tres fuentes más robustas de motivación intrinseca.
 
 **El Principio de la Maestria como Motivación que se Alimenta de si Misma:** Daniel Pink, en su libro Drive, identifica la maestria (la progresión continua en una habilidad o área importante) cómo una de las tres fuentes fundamentales de motivación intrinseca juntó con la autonomía y el proposito. La investigación sobre la práctica deliberada de Anders Ericsson muestra que el progreso medible en una habilidad, producido por la práctica deliberada (fuera de la zona de confort, con retroalimentación inmediata), produce un ciclo de motivación que se retroalimenta: mejorar es satisfactorio, y esa satisfacción motiva a seguir mejorando.
 

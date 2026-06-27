@@ -81,7 +81,7 @@ Sin rituales regulares de liberación, el impacto de las relaciones difíciles s
 
 ## Capítulo 6: Red de apoyo exterior como ancla
 
-Mantener conexiones sólidas con personas fuera del contexto difícil proporciona una fuente de perspectiva, validación, y bienestar que no esta contaminada por la dinámica difícil que se esta navegando.
+Mantener conexiones sólidas con personas fuera del contexto difícil proporciona una fuente de perspectiva, validación, y bienestar que no esta contaminada por la dinámica difícil que se está navegando.
 
 **El Principio del Ancla Externa No Contaminada:** Las relaciones que existen completamente fuera del contexto difícil que se navega (amigos no relacionados con un trabajo toxico, familia no involucrada en un conflicto familiar específico) proporcionan una fuente de perspectiva y bienestar que no esta afectada por la dinámica difícil, funcionando cómo un ancla de estabilidad que el contexto difícil no puede tocar.
 

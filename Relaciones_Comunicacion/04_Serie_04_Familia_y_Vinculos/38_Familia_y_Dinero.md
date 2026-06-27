@@ -99,7 +99,7 @@ Los negocios familiares combinan las dinámicas de poder, jerarquía y conflicto
 
 **El Principio de la Doble Estructura de Relación:** En los negocios familiares, las relaciones operan en dos sistemas simultaneos: el sistema familiar (con sus jerarquías emocionales, lealtades e historia) y el sistema empresarial (con sus exigencias de eficiencia, meritocracia y resultados). Los negocios familiares más exitosos son los que han logrado establecer límites claros entre ambos sistemas: reglas de negocio que se aplican independientemente de la jerarquía familiar, y espacios familiares donde las dinámicas de negocio quedan fuera.
 
-**Ejercicio inmediato:** Si formas parte de un negocio familiar, identifica si existen reglas claras que separan las decisiones empresariales de las dinámicas familiares, o si ambos sistemas se mezclan constantemente generando confusión sobre que rol esta operando en cada momento.
+**Ejercicio inmediato:** Si formas parte de un negocio familiar, identifica si existen reglas claras que separan las decisiones empresariales de las dinámicas familiares, o si ambos sistemas se mezclan constantemente generando confusión sobre que rol está operando en cada momento.
 
 Un negocio familiar exitoso necesita límites claros entre cuando se es familia y cuando se es socio.
 
@@ -121,7 +121,7 @@ Las conversaciones de dinero familiar planificadas con calma producen acuerdos. 
 
 Las crisis económicas severas de un miembro de la familia (deudas significativas, perdida de empleo prolongada, problemas con el juego o las adicciones que generan crisis financiera) ponen a prueba los límites de ayuda familiar de formas particularmente difíciles.
 
-**El Principio de la Ayuda que No Perpetua el Problema:** Cuando la crisis económica de un familiar tiene raices en patrones de comportamiento problematico (adicciones, gasto descontrolado, evitación de responsabilidad), la ayuda económica sin condiciones puede, paradojicamente, perpetuar el problema en lugar de resolverlo. Evaluar honestamente si la ayuda que se esta considerando resuelve la crisis o simplemente la posterga es un ejercicio difícil pero necesario.
+**El Principio de la Ayuda que No Perpetua el Problema:** Cuando la crisis económica de un familiar tiene raices en patrones de comportamiento problematico (adicciones, gasto descontrolado, evitación de responsabilidad), la ayuda económica sin condiciones puede, paradojicamente, perpetuar el problema en lugar de resolverlo. Evaluar honestamente si la ayuda que se está considerando resuelve la crisis o simplemente la posterga es un ejercicio difícil pero necesario.
 
 **Ejercicio inmediato:** Si estas considerando ayudar económicamente a un familiar en crisis, evalua si esa ayuda resuelve la causa raiz del problema o simplemente posterga sus consecuencias. Considera si la ayuda condicionada a cambios específicos de comportamiento sería más efectiva que la ayuda incondicional.
 

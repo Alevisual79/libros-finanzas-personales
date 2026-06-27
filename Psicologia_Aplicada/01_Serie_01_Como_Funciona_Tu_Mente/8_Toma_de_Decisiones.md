@@ -91,7 +91,7 @@ No necesitas ser pesimista para hacer un premortem. Solo necesitas ser honesto s
 
 ## Capítulo 6: Decisiones reversibles versus irreversibles: no decidas igual lo mismo
 
-Elena tiene dos decisiones pendientes: cambiar el proveedor de una herramienta de software (facilmente reversible si no funciona) y mudarse a otra ciudad para un nuevo trabajo (dificilmente reversible a corto plazo). Las esta evaluando con el mismo nivel de análisis y la misma intolerancia al riesgo. Este error sistemático, tratar todas las decisiones con la misma postura frente al riesgo independientemente de su reversibilidad, tiene costes importantes en ambas direcciones.
+Elena tiene dos decisiones pendientes: cambiar el proveedor de una herramienta de software (facilmente reversible si no funciona) y mudarse a otra ciudad para un nuevo trabajo (dificilmente reversible a corto plazo). Las está evaluando con el mismo nivel de análisis y la misma intolerancia al riesgo. Este error sistemático, tratar todas las decisiones con la misma postura frente al riesgo independientemente de su reversibilidad, tiene costes importantes en ambas direcciones.
 
 **El Principio de la Calibración al Nivel de Reversibilidad:** Jeff Bezos popularizó la distinción entre decisiones de tipo 1 (altamente irreversibles, como puertas de una sola via) y tipo 2 (facilmente reversibles, como puertas de doble via). Su argumento es que las organizaciones y personas aplican el mismo nivel de análisis y precaución a ambos tipos, lo que produce lentitud excesiva en las decisiones tipo 2 (que deberían tomarse rápido y revertirse si no funcionan) y potencial imprudencia en las tipo 1 (que merecen más análisis antes del compromiso).
 
@@ -125,7 +125,7 @@ Ruben lleva dos años en un proyecto que no funciona. Ha invertido tiempo, diner
 
 Daniel Kahneman vincula la falacia del costo hundido con la aversión a la perdida: abandonar una inversión que no funciona implica reconocer la perdida, lo cual activa una aversión psicológica que el cerebro intenta evitar continuando la inversión, aunque eso solo amplifica la perdida total. La capacidad de reconocer la perdida y discontinuar es una de las habilidades de toma de decisiones más importantes y menos intuitivas.
 
-**Ejercicio inmediato:** Identifica un proyecto, relación, habito o inversión en la que continuas parcialmente por lo que ya invertiste. Pregúntate: ¿si empezara desde cero hoy, sin la historia de lo que ya he invertido, seguiria eligiendo esto? Si la respuesta es no o incierta, la falacia del costo hundido probablemente esta influenciando tu decisión de continuar.
+**Ejercicio inmediato:** Identifica un proyecto, relación, habito o inversión en la que continuas parcialmente por lo que ya invertiste. Pregúntate: ¿si empezara desde cero hoy, sin la historia de lo que ya he invertido, seguiria eligiendo esto? Si la respuesta es no o incierta, la falacia del costo hundido probablemente está influenciando tu decisión de continuar.
 
 Lo que ya invertiste no puede recuperarse. La unica decisión real que tienes es que hacer con lo que queda por delante.
 

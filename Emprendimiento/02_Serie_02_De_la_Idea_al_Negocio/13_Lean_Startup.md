@@ -63,7 +63,7 @@ El MVP que te da vergüenza lanzar frecuentemente es el correcto. Lo que te aver
 
 ## Capítulo 4: Las metricas que importan: distinguir las vanity metrics de las actionable metrics
 
-Marcos ha aprendido a distinguir las metricas que le hacen sentir bien de las que le dicen si el negocio esta funcionando.
+Marcos ha aprendido a distinguir las metricas que le hacen sentir bien de las que le dicen si el negocio está funcionando.
 
 **El Principio de las Metricas Accionables como las Unicas que Merecen Atención Regular porque Conectan las Acciones del Negocio con los Resultados de Cliente de Forma Que Produce Decisiones Mejores:** Ries distingue entre las vanity metrics (metricas que hacen que el emprendedor se sienta bien pero que no informan decisiones: número de usuarios registrados, seguidores en redes sociales, páginas vistas) y las actionable metrics (metricas que conectan acciones específicas con resultados específicos: porcentaje de usuarios activos, tasa de retención, conversión de prueba a pago, net promoter score).
 
@@ -83,9 +83,9 @@ Carlos ha tenido que pivotar dos veces en su negocio y ha aprendido que cada piv
 
 La investigación de Pivots and Business Model Innovation de los fundadores de Y Combinator muestra que muchos de los negocios más exitosos de los últimos veinte años (YouTube, Slack, Instagram, Twitter) comenzaron siendo productos radicalmente diferentes de lo que son ahora y pivotaron a partir de lo que observaron que sus usuarios hacían de forma inesperada o de una sub-funcionalidad que era más popular que el producto principal.
 
-**Ejercicio inmediato:** Para tu negocio actual, reflexiona: ¿hay señales en el comportamiento de tus clientes o en los datos de uso que sugieren que el mercado quiere algo diferente de lo que tu estas ofreciendo? Frecuentemente los clientes usan el producto de forma diferente a como fue diseñado, o un subconjunto específico de clientes tiene un uso que genera valor desproporcionado. Esas señales son candidatos a pivots que el mercado esta sugiriendo aunque nadie lo haya articulado explicitamente.
+**Ejercicio inmediato:** Para tu negocio actual, reflexiona: ¿hay señales en el comportamiento de tus clientes o en los datos de uso que sugieren que el mercado quiere algo diferente de lo que tu estas ofreciendo? Frecuentemente los clientes usan el producto de forma diferente a como fue diseñado, o un subconjunto específico de clientes tiene un uso que genera valor desproporcionado. Esas señales son candidatos a pivots que el mercado está sugiriendo aunque nadie lo haya articulado explicitamente.
 
-El pivot que el mercado te esta sugiriendo y que todavia no has hecho es la oportunidad que todavia no has visto.
+El pivot que el mercado te está sugiriendo y que todavia no has hecho es la oportunidad que todavia no has visto.
 
 ---
 
@@ -109,7 +109,7 @@ Marcos ha aprendido que las metricas que usaba para medir el progreso en su trab
 
 **El Principio de la Innovation Accounting como el Marco para Medir el Progreso de un Negocio en Fase de Busqueda de Modelo donde las Metricas Tradicionales No Aplican:** Ries propone el innovation accounting como alternativa a los indicadores de rendimiento tradicionales para empresas en fases de exploración: en lugar de medir los resultados del negocio (revenue, beneficio, cuota de mercado), mide el progreso del aprendizaje (cuantas hipotesis se han probado, cuantas han sido validadas, cuanta certeza sobre el modelo de negocio se ha ganado).
 
-La distinción que propone Ries es entre las metricas de output (lo que el negocio produce) y las metricas de aprendizaje (cuanto se sabe sobre si el modelo de negocio funciona). En fases tempranas, las metricas de aprendizaje son más útiles para tomar decisiones de inversión porque indican si el negocio esta avanzando hacía un modelo viable aunque los resultados financieros todavia sean bajos.
+La distinción que propone Ries es entre las metricas de output (lo que el negocio produce) y las metricas de aprendizaje (cuanto se sabe sobre si el modelo de negocio funciona). En fases tempranas, las metricas de aprendizaje son más útiles para tomar decisiones de inversión porque indican si el negocio está avanzando hacía un modelo viable aunque los resultados financieros todavia sean bajos.
 
 **Ejercicio inmediato:** Define tres metricas de aprendizaje para tu negocio en este momento: hipotesis sobre el cliente validadas (cuantas suposiciones sobre quien es tu cliente y que necesita has confirmado con evidencia de comportamiento), hipotesis sobre la solución validadas (cuantas suposiciones sobre como resuelves el problema han sido confirmadas por uso real), y hipotesis sobre el modelo de negocio validadas (cuantas suposiciones sobre como ganas dinero han sido confirmadas por pagos reales). Esas tres metricas te dicen más sobre el progreso real del negocio en fase temprana que cualquier proyección financiera.
 

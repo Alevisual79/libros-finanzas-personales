@@ -39,7 +39,7 @@ El canal que eliges no es solo una decisión de conveniencia. Es una decisión s
 
 ## Capítulo 2: El problema de los mensajes de texto
 
-El texto tiene problemas específicos que lo hacen peligroso para las conversaciones con contenido emocional. No hay tono de voz, asi que el lector proyecta el tono que espera o teme. No hay retroalimentación inmediata del otro, asi que el que escribe no sabe si el mensaje esta llegando bien. No hay posibilidad de corregir en tiempo real si algo no esta bien.
+El texto tiene problemas específicos que lo hacen peligroso para las conversaciones con contenido emocional. No hay tono de voz, asi que el lector proyecta el tono que espera o teme. No hay retroalimentación inmediata del otro, asi que el que escribe no sabe si el mensaje está llegando bien. No hay posibilidad de corregir en tiempo real si algo no está bien.
 
 **El Principio de la Proyección del Tono:** En ausencia de tono de voz real, el lector proyecta el tono que corresponde a su estado interno. Una persona ansiosa lee un texto neutro como amenazante. Una persona que tiene una suposición negativa sobre el remitente lee el mismo texto con tono crítico. Los emojis son intentos de compensar la ausencia de tono pero son imprecisos y culturalmente variables.
 
@@ -83,7 +83,7 @@ La pantalla conecta. La presencia une.
 
 Las redes sociales tienen una paradoja específica: son herramientas de conexión diseñadas de forma que incentivan la actuación de una identidad en lugar de la conexión real. Las personas muestran la versión editada de su vida, y esa versión crea comparaciones que producen en el observador la sensación de que todos los demás estan mejor.
 
-**El Principio de la Comparación Social Ascendente:** Las redes sociales estan diseñadas para mostrar los momentos mejores (vacaciones, logros, celebraciones). Nadie pública la tarde de martes en que estaba solo y aburrido. El resultado es que el espectador esta comparando su vida interior completa con el highlight reel de los demás. Esa comparación sistemáticamente produce la sensación de deficit propio.
+**El Principio de la Comparación Social Ascendente:** Las redes sociales estan diseñadas para mostrar los momentos mejores (vacaciones, logros, celebraciones). Nadie pública la tarde de martes en que estaba solo y aburrido. El resultado es que el espectador está comparando su vida interior completa con el highlight reel de los demás. Esa comparación sistemáticamente produce la sensación de deficit propio.
 
 Sherry Turkle, investigadora del MIT sobre tecnología y relaciones, muestra que el uso intensivo de redes sociales correlaciona con mayor soledad y menor satisfacción relacional, incluso cuando el número de conexiones digitales es alto. El número de conexiones digitales no sustituye la calidad de las conexiones reales.
 

@@ -155,7 +155,7 @@ Crear una cultura de pensamiento crítico en un equipo requiere, sobre todo, que
 
 **Ejercicio inmediato:** Esta semana, en una reunión de equipo, práctica hacer preguntas que cuestionen los supuestos del grupo (que evidencia tenemos para este supuesto? cual es nuestro mayor riesgo de estar equivocados aquí?) en lugar de simplemente construir sobre lo que ya se ha dicho. Observa como esas preguntas cambian la calidad de la conversación colectiva.
 
-Un equipo que nunca se cuestiona a si mismo no esta pensando. Esta ejecutando supuestos que nadie se ha molestado en verificar.
+Un equipo que nunca se cuestiona a si mismo no está pensando. Está ejecutando supuestos que nadie se ha molestado en verificar.
 
 ---
 

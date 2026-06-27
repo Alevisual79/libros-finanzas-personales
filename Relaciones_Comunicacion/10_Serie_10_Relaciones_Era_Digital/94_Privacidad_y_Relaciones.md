@@ -23,7 +23,7 @@ Ruben comparte abundantemente su vida sentimental en Instagram: fotos de cada ci
 
 El impulso de compartir públicamente aspectos de la vida romantica y relacional en redes sociales tiene raices psicológicas específicas que merecen comprensión antes de evaluar críticamente esta práctica.
 
-**El Principio de la Validación Social como Motivador:** Compartir contenido sobre relaciones romanticas frecuentemente cumple una función de validación social: la celebración pública refuerza la sensación de que la relación es real y valida, mientras la respuesta positiva de otros (likes, comentarios) proporciona una forma de reaseguramiento externo sobre el valor de la conexión que se esta viviendo.
+**El Principio de la Validación Social como Motivador:** Compartir contenido sobre relaciones romanticas frecuentemente cumple una función de validación social: la celebración pública refuerza la sensación de que la relación es real y valida, mientras la respuesta positiva de otros (likes, comentarios) proporciona una forma de reaseguramiento externo sobre el valor de la conexión que se está viviendo.
 
 **Ejercicio inmediato:** Reflexiona sobre tu propia motivación para compartir contenido sobre tus relaciones en redes sociales: ¿viene principalmente de un deseo genuino de celebrar, o de una busqueda de validación externa sobre la relación?
 
@@ -85,7 +85,7 @@ Después de una ruptura, las redes sociales frecuentemente se convierten en un e
 
 **El Principio del Conflicto Desplazado a lo público:** El uso de redes sociales para comunicar indirectamente con o sobre una expareja después de una ruptura (publicaciones pasivo-agresivas, narrativas públicas sobre quien tuvo la culpa) frecuentemente prolonga y complica el proceso de duelo y cierre que ambas partes necesitan, ademas de exponer el conflicto a una audiencia que generalmente no debería estar involucrada.
 
-**Ejercicio inmediato:** Si estas procesando una ruptura reciente, evalua honestamente si estas usando redes sociales para comunicar indirectamente con o sobre tu expareja, y considera si esa práctica esta ayudando o complicando tu proceso de cierre.
+**Ejercicio inmediato:** Si estas procesando una ruptura reciente, evalua honestamente si estas usando redes sociales para comunicar indirectamente con o sobre tu expareja, y considera si esa práctica está ayudando o complicando tu proceso de cierre.
 
 Usar redes sociales para batallas indirectas después de una ruptura generalmente prolonga el dolor en lugar de facilitarte el cierre que realmente necesitas.
 

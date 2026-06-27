@@ -41,7 +41,7 @@ Carlos ha aprendido que la diferencia entre los emprendedores que persisten y lo
 
 La investigación de Dweck con emprendedores muestra que los con mindset de crecimiento no solo persisten más sino que aprenden más de cada experiencia porque la abordan como información en lugar de como veredicto sobre su capacidad.
 
-**Ejercicio inmediato:** Para el área de tu negocio donde tienes más dificultades actualmente, reflexiona: ¿como estoy interpretando esas dificultades? ¿Como evidencia de que no soy suficientemente capaz (mindset fijo) o como información sobre que necesito aprender o cambiar (mindset de crecimiento)? Si la respuesta es lo primero, el mindset fijo esta funcionando como freno del aprendizaje. La intervención de Dweck más sencilla es cambiar la pregunta: ¿en lugar de no soy capaz de X, preguntar todavia no soy capaz de X, que necesito aprender?
+**Ejercicio inmediato:** Para el área de tu negocio donde tienes más dificultades actualmente, reflexiona: ¿como estoy interpretando esas dificultades? ¿Como evidencia de que no soy suficientemente capaz (mindset fijo) o como información sobre que necesito aprender o cambiar (mindset de crecimiento)? Si la respuesta es lo primero, el mindset fijo está funcionando como freno del aprendizaje. La intervención de Dweck más sencilla es cambiar la pregunta: ¿en lugar de no soy capaz de X, preguntar todavia no soy capaz de X, que necesito aprender?
 
 El todavia que añades a la frase cambia la relación que tienes con la capacidad que todavia no tienes.
 
@@ -125,7 +125,7 @@ Carlos ha aprendido a ver a sus competidores cómo una fuente de aprendizaje en 
 
 La investigación sobre la innovación por imitación de Oded Shenkar muestra que la mayoría de las innovaciones exitosas no son invenciones radicales sino mejoras significativas sobre lo que ya existia: el aprendizaje de lo que funciona y no funciona en los competidores y la mejora sobre ello es una estrategia de innovación completamente valida y frecuentemente más eficiente que la innovación desde cero.
 
-**Ejercicio inmediato:** Para los tres competidores más relevantes de tu mercado, realiza el siguiente análisis de aprendizaje: ¿que estan haciendo bien que tu no estas haciendo? ¿Que estan haciendo mal que tu podrías hacer mejor? ¿Que hueco en el mercado ninguno de los tres (incluido tu) esta atendiendo bien? Las respuestas a esas tres preguntas son la base de una estrategia que aprende de la competencia en lugar de solo temerla.
+**Ejercicio inmediato:** Para los tres competidores más relevantes de tu mercado, realiza el siguiente análisis de aprendizaje: ¿que estan haciendo bien que tu no estas haciendo? ¿Que estan haciendo mal que tu podrías hacer mejor? ¿Que hueco en el mercado ninguno de los tres (incluido tu) está atendiendo bien? Las respuestas a esas tres preguntas son la base de una estrategia que aprende de la competencia en lugar de solo temerla.
 
 El competidor que mejor ejecuta es tu mejor maestro gratuito. Solo tienes que observar con atención.
 

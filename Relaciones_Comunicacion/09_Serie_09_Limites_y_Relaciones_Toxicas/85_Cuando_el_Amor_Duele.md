@@ -39,7 +39,7 @@ El abuso emocional frecuentemente sigue un ciclo reconocible que combina períod
 
 **Ejercicio inmediato:** Si reconoces este patron ciclico en tu relación, identifica en que fase te encuentras actualmente y reflexiona sobre cuantas veces este ciclo se ha repetido a lo largo del tiempo.
 
-El ciclo de idealización, devaluación y descarte no es amor intenso y complejo. Es un patron reconocible de abuso que, una vez identificado, ayuda a entender lo que realmente esta ocurriendo.
+El ciclo de idealización, devaluación y descarte no es amor intenso y complejo. Es un patron reconocible de abuso que, una vez identificado, ayuda a entender lo que realmente está ocurriendo.
 
 ---
 
@@ -93,13 +93,13 @@ El abuso emocional no solo te hace sentir mal en el momento. Puede instalar cree
 
 ## Capítulo 7: Buscar ayuda cuando el amor duele
 
-Reconocer la necesidad de apoyo externo, ya sea de amigos de confianza, familiares, o profesionales especializados, es un paso crítico para procesar y eventualmente actuar sobre una relación que esta causando daño significativo.
+Reconocer la necesidad de apoyo externo, ya sea de amigos de confianza, familiares, o profesionales especializados, es un paso crítico para procesar y eventualmente actuar sobre una relación que está causando daño significativo.
 
 **El Principio del Apoyo Externo como Recurso Necesario:** Las dinámicas de abuso emocional frecuentemente distorsionan la percepción de quien las experimenta, lo cual hace particularmente valioso el apoyo de personas externas que pueden ofrecer perspectiva más clara sobre la situación. Buscar este apoyo, ya sea informal o profesional especializado, no es debilidad sino una estrategia inteligente frente a una situación que por su naturaleza dificulta la claridad individual.
 
 **Ejercicio inmediato:** Si estas en una relación que sospechas es abusiva pero no has buscado apoyo externo, identifica una persona de confianza con quien podrías compartir tu situación para obtener una perspectiva más clara.
 
-Las dinámicas abusivas distorsionan tu propia claridad sobre la situación. El apoyo externo no es opcional; es una herramienta necesaria para ver con más precisión lo que esta ocurriendo.
+Las dinámicas abusivas distorsionan tu propia claridad sobre la situación. El apoyo externo no es opcional; es una herramienta necesaria para ver con más precisión lo que está ocurriendo.
 
 ---
 

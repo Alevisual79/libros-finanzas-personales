@@ -81,7 +81,7 @@ Ruben sabe que las relaciones le ayudan pero cada interacción social le cuesta 
 
 **El Principio de las Relaciones como Recurso que Requiere Gestion Activa en la Depresión:** La depresión produce retirada social y al mismo tiempo el aislamiento profundiza la depresión. La solución no es forzar la sociabilidad hasta el agotamiento ni ceder al aislamiento completo, sino gestionar las relaciones de forma que maximice el apoyo y minimize el coste energético.
 
-Estrategias útiles incluyen: priorizar las relaciones que producen mayor apoyo y menor costo (las personas con quienes no hay que actuar como si se estuviera bien), comunicar las limitaciones actuales con honestidad cuando sea posible (decir a alguien de confianza que las cosas estan difíciles en lugar de fingir que todo esta bien), y preferir formatos de interacción de menor costo energético (un mensaje de texto en lugar de una llamada cuando la llamada es demasiado exigente).
+Estrategias útiles incluyen: priorizar las relaciones que producen mayor apoyo y menor costo (las personas con quienes no hay que actuar como si se estuviera bien), comunicar las limitaciones actuales con honestidad cuando sea posible (decir a alguien de confianza que las cosas estan difíciles en lugar de fingir que todo está bien), y preferir formatos de interacción de menor costo energético (un mensaje de texto en lugar de una llamada cuando la llamada es demasiado exigente).
 
 **Ejercicio inmediato:** Identifica las dos personas en tu vida con quienes la interacción te deja con más energía (o al menos no te consume tanta). Contacta con al menos una de ellas esta semana, en el formato que te sea más facil. No para hablar necesariamente de la depresión, sino simplemente para mantener el contacto.
 
@@ -151,7 +151,7 @@ Ruben esta en proceso de recuperación pero algunos dias son tan malos como al p
 
 **El Principio de la Recuperación No Lineal como Caracteristica Normal del Proceso:** La investigación sobre el curso de la depresión con tratamiento muestra que la recuperación es no lineal: hay semanas mejores y semanas peores, dias buenos dentro de episodios aun activos, y dias malos dentro de recuperaciones avanzadas. Esta variabilidad es normal y no indica fracaso del tratamiento.
 
-Martin Seligman propone que la expectativa de una recuperación lineal y constante crea una presión adicional que interfiere con el proceso real. Los dias malos dentro de la recuperación son parte de la recuperación, no evidencia de que la recuperación no esta ocurriendo.
+Martin Seligman propone que la expectativa de una recuperación lineal y constante crea una presión adicional que interfiere con el proceso real. Los dias malos dentro de la recuperación son parte de la recuperación, no evidencia de que la recuperación no está ocurriendo.
 
 **Ejercicio inmediato:** La próxima vez que tengas un dia malo en medio de un proceso de recuperación, práctica esta frase: esto es un dia malo, no es toda mi vida. Que hoy sea difícil no significa que mañana lo sea. Esa distinción entre lo temporal y lo permanente es exactamente el tipo de corrección cognitiva que el tratamiento busca instalar.
 

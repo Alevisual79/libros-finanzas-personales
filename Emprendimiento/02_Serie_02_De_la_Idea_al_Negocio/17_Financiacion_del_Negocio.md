@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Lucia ha decidido que necesita capital externo para alcanzar el crecimiento que su mercado le permite. Carlos esta evaluando si buscar un business angel que le ayude no solo con dinero sino con experiencia y contactos. Marcos, con su experiencia corporativa en la gestión de presupuestos, cree que entiende las finanzas bien pero se ha dado cuenta de que la financiación de startups es un mundo con sus propias reglas y su propia logica. Los tres necesitan entender cuando tiene sentido buscar financiación externa, que tipos existen, como funciona el proceso, y que sacrifican a cambio del capital.
+Lucia ha decidido que necesita capital externo para alcanzar el crecimiento que su mercado le permite. Carlos está evaluando si buscar un business angel que le ayude no solo con dinero sino con experiencia y contactos. Marcos, con su experiencia corporativa en la gestión de presupuestos, cree que entiende las finanzas bien pero se ha dado cuenta de que la financiación de startups es un mundo con sus propias reglas y su propia logica. Los tres necesitan entender cuando tiene sentido buscar financiación externa, que tipos existen, como funciona el proceso, y que sacrifican a cambio del capital.
 
 ---
 
@@ -93,7 +93,7 @@ El crowdfunding es una campana de marketing tanto cómo una herramienta de finan
 
 Lucia ha aprendido que el pitch no es una presentación de negocio. Es una historia sobre el futuro que el inversor puede ser parte de construir.
 
-**El Principio del Pitch cómo la Narrativa que Conecta el Problema del Mercado, la Solución del Emprendedor, y la Oportunidad de Inversión de Forma que el Inversor Puede Visualizar el Futuro que el Emprendedor Esta Construyendo:** Guy Kawasaki propone la estructura del pitch perfecto en diez slides: el problema, la solución, el modelo de negocio, la magia subyacente, el marketing y las ventas, la competencia, el equipo, las proyecciones, el estado actual (que tienes ya), y el capital que necesitas y cómo lo usaras. Esa estructura en diez slides puede presentarse en diez minutos y cubre todos los aspectos que un inversor necesita para tomar una decisión de due diligence.
+**El Principio del Pitch cómo la Narrativa que Conecta el Problema del Mercado, la Solución del Emprendedor, y la Oportunidad de Inversión de Forma que el Inversor Puede Visualizar el Futuro que el Emprendedor Está Construyendo:** Guy Kawasaki propone la estructura del pitch perfecto en diez slides: el problema, la solución, el modelo de negocio, la magia subyacente, el marketing y las ventas, la competencia, el equipo, las proyecciones, el estado actual (que tienes ya), y el capital que necesitas y cómo lo usaras. Esa estructura en diez slides puede presentarse en diez minutos y cubre todos los aspectos que un inversor necesita para tomar una decisión de due diligence.
 
 La investigación de Neilson sobre la psicología de los inversores en pitch competitions muestra que los primeros dos minutos del pitch (la presentación del problema y la solución) determinan el nivel de atención y emoción del inversor durante el resto de la presentación. Si el problema no produce un momento de reconocimiento en el inversor (si, ese es un problema real que merece atención), el resto del pitch tiene una audiencia desenganchada.
 

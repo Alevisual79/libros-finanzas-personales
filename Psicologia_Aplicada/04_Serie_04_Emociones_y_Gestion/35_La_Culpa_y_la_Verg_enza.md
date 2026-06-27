@@ -97,7 +97,7 @@ Ruben se ha dado cuenta de que parte de su identidad esta construida en torno a 
 
 El problema de la culpa como identidad es que, por definición, no tiene solución: si la culpa es quien soy, no hay acción que pueda reducirla permanentemente porque la perdida de la culpa amenazaria la identidad. La distinción entre la culpa como señal (que tiene la solución de responsabilizarse, reparar, y soltar) y la culpa como identidad (que no tiene solución porque la solución disolveria una parte de quien se cree ser) es el diagnostico que permite identificar el tipo de trabajo necesario.
 
-**Ejercicio inmediato:** Para tu culpa más persistente, pregunta: ¿si de repente te liberaras completamente de esta culpa, que perderia de ti? Si la respuesta incluye cosas como mi profundidad moral, mi seriedad, o mi forma de demostrar que me importa, la culpa esta funcionando como identidad, no como señal. Ese diagnostico no elimina la culpa pero identifica el nivel de trabajo que requiere.
+**Ejercicio inmediato:** Para tu culpa más persistente, pregunta: ¿si de repente te liberaras completamente de esta culpa, que perderia de ti? Si la respuesta incluye cosas como mi profundidad moral, mi seriedad, o mi forma de demostrar que me importa, la culpa está funcionando como identidad, no como señal. Ese diagnostico no elimina la culpa pero identifica el nivel de trabajo que requiere.
 
 La culpa que te define no tiene solución. Solo tiene mantenimiento. Y eso nunca era lo que la culpa se propuso ser.
 
@@ -125,7 +125,7 @@ Ruben hizo algo que daño a un amigo cercano. El amigo le ha perdonado formalmen
 
 La disculpa genuina, segun Aaron Lazare (médico y especialista en el tema), requiere: reconocimiento específico del daño producido (no lo que el otro siente sino lo que se hizo), aceptación de responsabilidad sin excusas que la diluyan, expresión de remordimiento genuino, y compromiso de cambio o reparación. La disculpa que incluye pero es que yo estaba pasando por... o pero tu también... no es una disculpa completa: es una disculpa con condicional, que frecuentemente produce más daño que no disculparse.
 
-**Ejercicio inmediato:** Si hay una persona en tu vida a quien dañaste y con quien todavia no has completado el proceso de reparación, considera si hay algo específico que podrías hacer (no decir solo que lo sientes sino algo que repare activamente el daño) que cerraria el ciclo de la culpa relacional. Si la persona ya no esta disponible o el contacto no es posible, considera una forma de reparación simbólica que cierre el ciclo internamente.
+**Ejercicio inmediato:** Si hay una persona en tu vida a quien dañaste y con quien todavia no has completado el proceso de reparación, considera si hay algo específico que podrías hacer (no decir solo que lo sientes sino algo que repare activamente el daño) que cerraria el ciclo de la culpa relacional. Si la persona ya no está disponible o el contacto no es posible, considera una forma de reparación simbólica que cierre el ciclo internamente.
 
 La culpa que tiene un destinatario específico pocas veces se resuelve solo en el interior. Necesita alguna acción en el exterior.
 

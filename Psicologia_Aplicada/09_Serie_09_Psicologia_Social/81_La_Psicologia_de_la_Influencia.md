@@ -23,7 +23,7 @@ Elena ha dicho que si a proyectos que no quería hacer porque alguien se los pid
 
 La influencia no es magia. Tiene una estructura.
 
-**El Principio de los Desencadenantes Automaticos como Base de la Influencia Social:** Robert Cialdini, en su investigación clasica sobre la persuasión y la influencia, identifica seis principios psicológicos que actuan como desencadenantes automáticos del comportamiento de cumplimiento: la reciprocidad (tendemos a devolver lo que nos han dado), la escasez (valoramos más lo que es raro o esta disminuyendo), la autoridad (seguimos a los expertos y figuras de autoridad), la consistencia (actuamos de acuerdo con nuestros compromisos previos), el agrado (accedemos más facilmente a los que nos gustan), y la prueba social (miramos a los demás para saber como actuar).
+**El Principio de los Desencadenantes Automaticos como Base de la Influencia Social:** Robert Cialdini, en su investigación clasica sobre la persuasión y la influencia, identifica seis principios psicológicos que actuan como desencadenantes automáticos del comportamiento de cumplimiento: la reciprocidad (tendemos a devolver lo que nos han dado), la escasez (valoramos más lo que es raro o está disminuyendo), la autoridad (seguimos a los expertos y figuras de autoridad), la consistencia (actuamos de acuerdo con nuestros compromisos previos), el agrado (accedemos más facilmente a los que nos gustan), y la prueba social (miramos a los demás para saber como actuar).
 
 Cialdini propone que estos principios son atajos cognitivos evolutivamente adaptativos: en la mayoría de los casos, seguirlos produce mejores resultados que deliberar cada decisión. Su problema es que pueden ser explotados deliberadamente por quienes los conocen y quieren aprovecharse de ellos.
 

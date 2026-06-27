@@ -23,7 +23,7 @@ Isabel siente que en su grupo de amigas siempre hay una dinámica que la incomod
 
 Un grupo de amigos no es simplemente la suma de varias amistades individuales. Desarrolla su propia dinámica, cultura y reglas implícitas que afectan a cada miembro de formas que las relaciones individuales por separado no explican completamente.
 
-**El Principio de la Identidad Grupal Emergente:** La psicología de grupos muestra que cualquier colección de individuos que interactua regularmente desarrolla una identidad grupal emergente, con normas implícitas (que se puede decir, que esta prohibido, cómo se toman las decisiones) que ninguno de los miembros individualmente decidió pero que el grupo en su conjunto ha generado a traves de la interacción repetida.
+**El Principio de la Identidad Grupal Emergente:** La psicología de grupos muestra que cualquier colección de individuos que interactua regularmente desarrolla una identidad grupal emergente, con normas implícitas (que se puede decir, que está prohibido, cómo se toman las decisiones) que ninguno de los miembros individualmente decidió pero que el grupo en su conjunto ha generado a traves de la interacción repetida.
 
 **Ejercicio inmediato:** Identifica una norma implícita de tu grupo de amigos (algo que todos saben que no se hace o se hace de cierta forma, sin que nadie lo haya dicho explicitamente). Nombrar esa norma es el primer paso para evaluarla críticamente.
 
@@ -61,7 +61,7 @@ La integración de nuevos miembros a un grupo de amigos establecido es un proces
 
 **El Principio de la Resistencia Natural al Cambio Grupal:** Los grupos establecidos tienden a mostrar resistencia natural, consciente o inconsciente, a la incorporación de nuevos miembros, porque la nueva persona altera el equilibrio de roles y dinámicas ya establecido. Los grupos que integran bien a nuevos miembros son los que reconocen esta tendencia y hacen esfuerzo activo de inclusión, en lugar de simplemente esperar que el nuevo miembro se adapte por su cuenta a una dinámica ya cristalizada.
 
-**Ejercicio inmediato:** Si tu grupo esta considerando incorporar a alguien nuevo, o si tu mismo eres nuevo en un grupo, identifica acciones específicas de inclusión (invitarlo activamente a participar en conversaciones, explicarle referencias internas del grupo) que faciliten la integración genuina.
+**Ejercicio inmediato:** Si tu grupo está considerando incorporar a alguien nuevo, o si tu mismo eres nuevo en un grupo, identifica acciones específicas de inclusión (invitarlo activamente a participar en conversaciones, explicarle referencias internas del grupo) que faciliten la integración genuina.
 
 Un grupo que no hace esfuerzo activo de inclusión para los nuevos miembros se queda, sin proponerselo, cada vez más cerrado.
 
@@ -99,7 +99,7 @@ El chisme o gossip dentro de un grupo de amigos, aunque común y a veces aparent
 
 **Ejercicio inmediato:** Reflexiona sobre la frecuencia del chisme negativo en tu grupo de amigos. Si es un patron frecuente, considera como eso podría estar afectando el nivel de confianza y vulnerabilidad genuina que el grupo permite.
 
-Un grupo que habla mal de sus miembros ausentes con frecuencia esta enseñando a todos sus miembros presentes que también hablaran mal de ellos cuando no esten.
+Un grupo que habla mal de sus miembros ausentes con frecuencia está enseñando a todos sus miembros presentes que también hablaran mal de ellos cuando no esten.
 
 ---
 

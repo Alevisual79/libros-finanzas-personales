@@ -85,7 +85,7 @@ Baymard Institute, que ha realizado la mayor investigación sobre el comportamie
 
 **Ejercicio inmediato:** Define el funnel de conversión de tu negocio digital en pasos específicos (por ejemplo: visita landing page > hace clic en boton de compra > llega al checkout > introduce datos de pago > completa la compra). Configura el seguimiento de cada paso en Google Analytics como objetivos o cómo una secuencia de eventos. Después de una semana de datos, identifica el paso donde se produce el mayor porcentaje de abandono. Ese es el cuello de botella que, si lo mejoras, tiene el mayor impacto potencial en el revenue total sin cambiar nada más.
 
-El cuello de botella del funnel que no has medido esta destruyendo oportunidades que no puedes recuperar porque no sabes donde estan.
+El cuello de botella del funnel que no has medido está destruyendo oportunidades que no puedes recuperar porque no sabes donde estan.
 
 ---
 
@@ -93,11 +93,11 @@ El cuello de botella del funnel que no has medido esta destruyendo oportunidades
 
 Marcos ha aprendido a usar el análisis de cohortes para entender cuando y por qué los clientes abandonan.
 
-**El Principio del análisis de Cohortes como El método de Agrupar Clientes que Se Han Unido en El Mismo Periodo y Rastrear Su Comportamiento a Lo Largo del Tiempo para Entender Si El Negocio Esta Mejorando La Retención o No en Las Sucesivas Cohortes:** El análisis de cohortes es especialmente útil para los negocios con suscripción o con clientes recurrentes: permite ver si los clientes que se unieron en enero del año pasado tienen mayor o menor retención que los que se unieron en julio, lo que puede revelar que las mejoras que hiciste en el onboarding o el producto entre enero y julio tuvieron el impacto esperado en la retención.
+**El Principio del análisis de Cohortes como El método de Agrupar Clientes que Se Han Unido en El Mismo Periodo y Rastrear Su Comportamiento a Lo Largo del Tiempo para Entender Si El Negocio Está Mejorando La Retención o No en Las Sucesivas Cohortes:** El análisis de cohortes es especialmente útil para los negocios con suscripción o con clientes recurrentes: permite ver si los clientes que se unieron en enero del año pasado tienen mayor o menor retención que los que se unieron en julio, lo que puede revelar que las mejoras que hiciste en el onboarding o el producto entre enero y julio tuvieron el impacto esperado en la retención.
 
 La investigación de Casey Winters (growth advisor de empresas como Pinterest y Reddit) sobre los patrones de retención de negocios digitales muestra que los productos con mejor retención no son los que adquieren más usuarios sino los que mejoran la retención de cohorte en cohorte gracias a las mejoras iterativas del producto.
 
-**Ejercicio inmediato:** Para tu negocio con clientes recurrentes o suscripción, construye una tabla de cohortes simple en Excel o Google Sheets: en las filas, las cohortes de clientes por mes de adquisición (enero, febrero, marzo, etc.). En las columnas, el porcentaje de clientes de esa cohorte que siguen activos al mes 1, mes 2, mes 3, etc. Si tienes al menos seis meses de datos, esa tabla te dirá rápidamente si la retención esta mejorando o empeorando con cada nueva cohorte, y si hay un mes específico donde la mayoría de los clientes abandonan (lo que señala un problema específico de producto o de expectativas).
+**Ejercicio inmediato:** Para tu negocio con clientes recurrentes o suscripción, construye una tabla de cohortes simple en Excel o Google Sheets: en las filas, las cohortes de clientes por mes de adquisición (enero, febrero, marzo, etc.). En las columnas, el porcentaje de clientes de esa cohorte que siguen activos al mes 1, mes 2, mes 3, etc. Si tienes al menos seis meses de datos, esa tabla te dirá rápidamente si la retención está mejorando o empeorando con cada nueva cohorte, y si hay un mes específico donde la mayoría de los clientes abandonan (lo que señala un problema específico de producto o de expectativas).
 
 La cohorte de clientes que abandona en el mes dos siempre tiene una razón. El análisis de datos la encuentra. La intuición raramente lo hace.
 
@@ -105,9 +105,9 @@ La cohorte de clientes que abandona en el mes dos siempre tiene una razón. El a
 
 ## Capítulo 7: Los datos cualitativos: como combinar los números con el entendimiento humano
 
-Carlos ha aprendido que los datos cuantitativos dicen que esta pasando pero los cualitativos explican por qué.
+Carlos ha aprendido que los datos cuantitativos dicen que está pasando pero los cualitativos explican por qué.
 
-**El Principio de Los Datos Cualitativos como El Complemento Necesario de Los Datos Cuantitativos Porque Los números Muestran Lo que Esta Pasando En El Negocio Pero Las Conversaciones, Las Encuestas, y Las Grabaciones de Sesión Explican Por Que Esta Pasando:** Cindy Alvarez en Lean Customer Development propone que los datos cuantitativos del negocio digital (las metricas, las tasas de conversión, los datos de cohortes) responden la pregunta de que esta ocurriendo, pero para entender por qué esta ocurriendo y como mejorarlo, se necesitan datos cualitativos: conversaciones con clientes, encuestas de satisfacción, grabaciones de sesiones de usuarios en la web, o tests de usuario.
+**El Principio de Los Datos Cualitativos como El Complemento Necesario de Los Datos Cuantitativos Porque Los números Muestran Lo que Está Pasando En El Negocio Pero Las Conversaciones, Las Encuestas, y Las Grabaciones de Sesión Explican Por Que Está Pasando:** Cindy Alvarez en Lean Customer Development propone que los datos cuantitativos del negocio digital (las metricas, las tasas de conversión, los datos de cohortes) responden la pregunta de que está ocurriendo, pero para entender por qué está ocurriendo y como mejorarlo, se necesitan datos cualitativos: conversaciones con clientes, encuestas de satisfacción, grabaciones de sesiones de usuarios en la web, o tests de usuario.
 
 La combinación de datos cuantitativos y cualitativos es la que produce las mejores decisiones: el dato cuantitativo identifica el problema (la tasa de conversión de la página de precio es del uno por ciento, mucho menor que la media del sector), y el dato cualitativo explica la causa (las grabaciones de sesiones muestran que los usuarios abandonan cuando leen los terminos del contrató sin haber visto todavia los precios).
 

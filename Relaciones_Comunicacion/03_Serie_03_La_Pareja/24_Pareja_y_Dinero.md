@@ -115,7 +115,7 @@ La relación entre dinero y poder en la pareja va más allá de quien gana más.
 
 **El Principio del Control Financiero como Dinamica de Poder:** En algunas relaciones, el control del dinero se convierte en una herramienta de poder: quien paga decide, quien controla las cuentas controla la libertad del otro. Esto puede ocurrir de forma no consciente en relaciones donde el dinero nunca se ha gestionado de forma equitativa, pero puede ser también una forma de control que en sus manifestaciones extremas se convierte en abuso económico.
 
-La señal más clara de que el dinero se esta usando como herramienta de control: uno de los dos no tiene acceso a información financiera, no puede tomar decisiones de gasto sin permiso del otro, o tiene que dar cuentas de cada euro que gasta mientras el otro no tiene las mismas restricciones.
+La señal más clara de que el dinero se está usando como herramienta de control: uno de los dos no tiene acceso a información financiera, no puede tomar decisiones de gasto sin permiso del otro, o tiene que dar cuentas de cada euro que gasta mientras el otro no tiene las mismas restricciones.
 
 **Ejercicio inmediato:** Evalua el equilibrio de poder financiero en tu relación: ¿cada uno tiene acceso propio a dinero? ¿Cada uno puede tomar decisiones de gasto razonables de forma autonoma? ¿Las decisiones financieras importantes se toman juntos? Si la respuesta a alguna de estas preguntas es no, hay una conversación sobre el equilibrio de poder que necesita tenerse.
 

@@ -141,7 +141,7 @@ Las aplicaciones de monitorización del estado de animo (mood tracking) permiten
 
 **Ejercicio inmediato:** Diseña tu plan de detección temprana: ¿cuales son las tres primeras señales que indican que tu estado de animo esta deteriorandose (cambios en el sueño, en el apetito, en el nivel de actividad, en los pensamientos, en las relaciones)? ¿Cuando aparecen esas señales, cuales son los dos primeros pasos que daras (contactar con tu psicologo, incrementar el ejercicio, activar tu red de apoyo)? Tener ese plan antes de necesitarlo es la clave.
 
-El episodio depresivo que detectas cuando comienza es más facil de interrumpir que el que detectas cuando ya esta establecido.
+El episodio depresivo que detectas cuando comienza es más facil de interrumpir que el que detectas cuando ya está establecido.
 
 ---
 

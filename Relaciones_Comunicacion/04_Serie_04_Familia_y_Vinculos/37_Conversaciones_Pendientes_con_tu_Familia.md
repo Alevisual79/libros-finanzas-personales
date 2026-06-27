@@ -41,7 +41,7 @@ El silencio prolongado sobre temas importantes en la familia no es neutral. Tien
 
 **Ejercicio inmediato:** Evalua el coste acumulado del silencio en una relación familiar específica. ¿Que distancia se ha generado en los años en que el tema importante no se ha hablado? Compara ese coste con el riesgo de tener la conversación.
 
-El silencio que parece proteger la relación familiar frecuentemente es lo que más la esta dañando.
+El silencio que parece proteger la relación familiar frecuentemente es lo que más la está dañando.
 
 ---
 
@@ -99,7 +99,7 @@ Hablar abiertamente sobre enfermedades graves o sobre la muerte con familiares m
 
 **El Principio de la Conversación sobre el Final como Regalo:** La investigación en cuidados paliativos muestra que las familias que logran hablar abiertamente sobre la enfermedad terminal o la proximidad de la muerte de un familiar reportan procesos de duelo posteriores significativamente más saludables que las familias que mantienen una conspiración de silencio sobre la situación, incluso cuando esa conspiración se hace con la intención de proteger al enfermo o a otros familiares.
 
-**Ejercicio inmediato:** Si hay una situación de enfermedad grave en tu familia que se esta evitando hablar abiertamente, considera, con sensibilidad y respeto por lo que la persona enferma quiera o no hablar, abrir un espacio para esa conversación.
+**Ejercicio inmediato:** Si hay una situación de enfermedad grave en tu familia que se está evitando hablar abiertamente, considera, con sensibilidad y respeto por lo que la persona enferma quiera o no hablar, abrir un espacio para esa conversación.
 
 El silencio sobre la muerte no protege a nadie. Solo posterga un dolor que de todas formas llegará.
 

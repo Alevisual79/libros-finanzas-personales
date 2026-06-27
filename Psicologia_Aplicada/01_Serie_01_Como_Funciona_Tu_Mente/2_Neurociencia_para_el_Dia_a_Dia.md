@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben tiene treinta y un años y cree que su memoria falla más que antes. Que se cansa más rápido de lo que debería. Que le cuesta concentrarse. Que duerme mal. Lleva años tratando estos problemas como defectos de carácter, señales de que no trabaja lo suficiente o no tiene suficiente disciplina. Nunca se le ha ocurrido tratarlos cómo lo que son: consecuencias predecibles de como esta tratando a su cerebro. El organo más complejo del universo conocido funciona mal no porque sea defectuoso, sino porque nadie le ensenó las instrucciones basicas.
+Ruben tiene treinta y un años y cree que su memoria falla más que antes. Que se cansa más rápido de lo que debería. Que le cuesta concentrarse. Que duerme mal. Lleva años tratando estos problemas como defectos de carácter, señales de que no trabaja lo suficiente o no tiene suficiente disciplina. Nunca se le ha ocurrido tratarlos cómo lo que son: consecuencias predecibles de como está tratando a su cerebro. El organo más complejo del universo conocido funciona mal no porque sea defectuoso, sino porque nadie le ensenó las instrucciones basicas.
 
 ---
 
@@ -119,7 +119,7 @@ La meditación no es espiritualidad. Es gimnasia para el prefrontal.
 
 ## Capítulo 8: El cerebro social: por qué necesitas a otros para funcionar
 
-Ruben trabaja en remoto hace dos años y ha ido reduciendo el contacto social gradualmente. Cree que es más eficiente asi, sin las distracciones de la interacción social. Lo que no ve es que su cerebro, un organo profundamente social por evolución, esta funcionando por debajo de su capacidad en el aislamiento progresivo.
+Ruben trabaja en remoto hace dos años y ha ido reduciendo el contacto social gradualmente. Cree que es más eficiente asi, sin las distracciones de la interacción social. Lo que no ve es que su cerebro, un organo profundamente social por evolución, está funcionando por debajo de su capacidad en el aislamiento progresivo.
 
 **El Principio del Cerebro como Organo Social:** Matthew Lieberman, neurocientico de UCLA, documenta en su investigación que el cerebro humano usa los mismos circuitos para procesar el dolor físico que para procesar la exclusión social, lo que sugiere que la necesidad de conexión social tiene un peso evolutivo comparable al de las necesidades físicas basicas. Los estudios de John Cacioppo sobre soledad muestran que el aislamiento social cronico deteriora la función cognitiva, aumenta los marcadores de inflamación sistemica y predice fuertemente el deterioro cognitive en la vejez.
 

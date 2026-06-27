@@ -49,7 +49,7 @@ La reconciliación genuina después de un daño significativo requiere tiempo co
 
 **El Principio del Tiempo Proporcional a la Profundidad del Daño:** El tiempo necesario para una reconciliación genuina es proporcional a la profundidad del daño causado, no a la conveniencia o impaciencia de cualquiera de las partes involucradas. Las reconciliaciones que se fuerzan en plazos artificialmente acelerados frecuentemente fracasan o producen una resolución superficial que colapsa posteriormente.
 
-**Ejercicio inmediato:** Si estas en un proceso de reconciliación, evalua honestamente si el ritmo actual respeta la profundidad real del daño, o si esta siendo forzado por impaciencia de alguna de las partes.
+**Ejercicio inmediato:** Si estas en un proceso de reconciliación, evalua honestamente si el ritmo actual respeta la profundidad real del daño, o si está siendo forzado por impaciencia de alguna de las partes.
 
 Una reconciliación forzada a un ritmo más rápido del que el daño real requiere generalmente fracasa, o produce solo una apariencia superficial de resolución.
 

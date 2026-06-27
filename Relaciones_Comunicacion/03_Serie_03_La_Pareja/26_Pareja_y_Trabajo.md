@@ -29,7 +29,7 @@ El trabajo no invade la vida de pareja porque las personas sean malas parejas. I
 
 **El Principio de la Permeabilidad Laboral:** Brigid Schulte, autora de Overwhelmed, documenta cómo la tecnología ha eliminado los límites temporales y espaciales que antes separaban el trabajo de la vida personal. El correo que llega a las diez de la noche, la expectativa de respuesta inmediata, la cultura de estar siempre disponible: todo esto convierte el trabajo en una presencia constante en lugar de un bloque de tiempo delimitado. El resultado es que las parejas comparten espacio físico pero no atención real, porque la atención esta capturada por el trabajo incluso cuando el cuerpo esta presente.
 
-**Ejercicio inmediato:** Durante una semana, registra cuantas veces revisas el correo o los mensajes de trabajo durante el tiempo que debería ser exclusivamente de pareja. El número, cuando se hace visible, suele sorprender. Esa es la medida real de cuanto el trabajo esta invadiendo el espacio que crees estar dando a la relación.
+**Ejercicio inmediato:** Durante una semana, registra cuantas veces revisas el correo o los mensajes de trabajo durante el tiempo que debería ser exclusivamente de pareja. El número, cuando se hace visible, suele sorprender. Esa es la medida real de cuanto el trabajo está invadiendo el espacio que crees estar dando a la relación.
 
 Estar físicamente presente no es lo mismo que estar disponible. Tu pareja sabe la diferencia aunque no la nombre.
 
@@ -43,7 +43,7 @@ Algunas personas no trabajan mucho por necesidad económica sino por una relaci�
 
 La pareja del workaholic vive una soledad particular: comparte la vida con alguien físicamente presente pero emocionalmente ausente, sin que haya una infidelidad o un conflicto explícito al que poder señalar.
 
-**Ejercicio inmediato:** Si reconoces el patron de workaholismo en ti o en tu pareja, pregúntate: ¿que necesidad emocional esta cubriendo el trabajo que la relación no esta cubriendo? La respuesta a esa pregunta es más útil que cualquier discusión sobre las horas trabajadas.
+**Ejercicio inmediato:** Si reconoces el patron de workaholismo en ti o en tu pareja, pregúntate: ¿que necesidad emocional está cubriendo el trabajo que la relación no está cubriendo? La respuesta a esa pregunta es más útil que cualquier discusión sobre las horas trabajadas.
 
 El trabajo excesivo casi nunca es solo sobre el trabajo. Es sobre lo que el trabajo permite evitar.
 

@@ -87,7 +87,7 @@ Las visitas presenciales en una relación a distancia tienen una carga emocional
 
 **El Principio de la Presión de la Visita Limitada:** La escasez de tiempo presencial en las relaciones a distancia puede generar la expectativa de que cada minuto de la visita debe ser maximamente positivo, lo que paradojicamente genera tensión cuando aparecen los conflictos normales de cualquier relación. Las parejas que gestionan mejor las visitas son las que aceptan que el tiempo presencial incluira también momentos normales (aburrimiento, pequeños desacuerdos, necesidad de espacio individual), no solo momentos idealizados de reconexion.
 
-**Ejercicio inmediato:** Antes de la próxima visita, hablen explicitamente de la expectativa de que no todo el tiempo juntos tiene que ser perfecto, y que esta bien tener momentos de normalidad, desacuerdo o espacio individual durante la visita, sin que eso signifique que la visita fue un fracaso.
+**Ejercicio inmediato:** Antes de la próxima visita, hablen explicitamente de la expectativa de que no todo el tiempo juntos tiene que ser perfecto, y que está bien tener momentos de normalidad, desacuerdo o espacio individual durante la visita, sin que eso signifique que la visita fue un fracaso.
 
 Las mejores visitas no son las que son perfectas todo el tiempo. Son las que se sienten reales.
 

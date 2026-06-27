@@ -27,7 +27,7 @@ El lanzamiento que imaginas en tu cabeza y el que ocurre en el mercado real rara
 
 La investigación de Andrew Chen sobre los patrones de crecimiento de empresas digitales muestra que la curva de crecimiento típica de una startup no es el hockey stick desde el dia del lanzamiento sino una curva lenta y casi plana durante los primeros meses seguida de una aceleración gradual cuando el product-market fit empieza a establecerse.
 
-**Ejercicio inmediato:** Para tu lanzamiento planificado, define el éxito en tres horizontes temporales: que constituiria éxito en el dia del lanzamiento (lo que es razonable esperar ese dia específico), en el primer mes (lo que indica que el lanzamiento ha generado tracción inicial), y en los primeros tres meses (lo que indica que el negocio esta ganando momentum). Esa definición gradual del éxito previene la decepción del dia del lanzamiento que lleva a muchos emprendedores a declarar el fracaso prematuramente.
+**Ejercicio inmediato:** Para tu lanzamiento planificado, define el éxito en tres horizontes temporales: que constituiria éxito en el dia del lanzamiento (lo que es razonable esperar ese dia específico), en el primer mes (lo que indica que el lanzamiento ha generado tracción inicial), y en los primeros tres meses (lo que indica que el negocio está ganando momentum). Esa definición gradual del éxito previene la decepción del dia del lanzamiento que lleva a muchos emprendedores a declarar el fracaso prematuramente.
 
 El lanzamiento que no genera el ruido que esperabas no es necesariamente un fracaso. Es el comienzo de un proceso que todavia no ha terminado.
 
@@ -111,7 +111,7 @@ Marcos ha diseñado un sistema de metricas específico para su período de lanza
 
 La investigación de Sean Ellis sobre los factores que predicen el crecimiento de startups muestra que la pregunta de la encuesta de producto-mercado fit (como te sentirías si ya no pudieras usar este producto? con la respuesta muy decepcionado como indicador positivo) es la metrica más predictiva del crecimiento sostenible: si más del 40% de los usuarios responden muy decepcionado, el negocio tiene base para crecer; si menos, el producto necesita mejora antes de escalar.
 
-**Ejercicio inmediato:** Diseña tu dashboard de lanzamiento con cuatro metricas específicas que mediras semanalmente durante los primeros dos meses: cuantos nuevos leads ha generado el lanzamiento, cuantos de esos leads se han convertido en primeros contactos o pruebas del producto, cuantos de los contactos o pruebas se han convertido en clientes de pago, y cual es el Net Promoter Score de los primeros clientes. Esas cuatro metricas, medidas semanalmente, te dicen si el lanzamiento esta funcionando y donde esta el cuello de botella.
+**Ejercicio inmediato:** Diseña tu dashboard de lanzamiento con cuatro metricas específicas que mediras semanalmente durante los primeros dos meses: cuantos nuevos leads ha generado el lanzamiento, cuantos de esos leads se han convertido en primeros contactos o pruebas del producto, cuantos de los contactos o pruebas se han convertido en clientes de pago, y cual es el Net Promoter Score de los primeros clientes. Esas cuatro metricas, medidas semanalmente, te dicen si el lanzamiento está funcionando y donde esta el cuello de botella.
 
 Las metricas que no mides no puedes gestionar. Y el lanzamiento sin metricas es un experimento sin resultado.
 

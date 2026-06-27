@@ -101,7 +101,7 @@ Las implicaciones prácticas para los profesionales creativos son importantes: s
 
 ## Capítulo 7: La estetica de lo generativo
 
-El arte generativo tiene una estetica propia que se esta volviendo identificable:
+El arte generativo tiene una estetica propia que se está volviendo identificable:
 
 **Lo reconocible:** Ciertas texturas, ciertos tipos de coherencia visual, ciertos patrones en el texto.
 

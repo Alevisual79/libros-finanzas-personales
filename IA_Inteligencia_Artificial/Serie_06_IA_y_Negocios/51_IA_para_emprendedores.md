@@ -1,10 +1,10 @@
 # IA para emprendedores
 ## Serie 6: IA y Negocios — Libro 1 de 10
 
-**La inteligencia artificial esta transformando los negocios en todos sus aspectos: ventas, marketing, operaciones, finanzas y recursos humanos.**
+**La inteligencia artificial está transformando los negocios en todos sus aspectos: ventas, marketing, operaciones, finanzas y recursos humanos.**
 
 ## Prólogo
-Este libro explora como IA para emprendedores se esta transformando con la IA.
+Este libro explora como IA para emprendedores se está transformando con la IA.
 
 Elena, Ruben e Isabel han aplicado estas prácticas en sus contextos respectivos. Sus experiencias ilustran tanto los beneficios reales como los obstaculos que hay que superar.
 

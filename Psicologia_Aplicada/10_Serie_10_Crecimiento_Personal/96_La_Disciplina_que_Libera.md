@@ -27,7 +27,7 @@ La disciplina no es la opuesta de la libertad. En su forma más útil, es su con
 
 La investigación de Roy Baumeister sobre el agotamiento del ego muestra que la toma de decisiones es costosa cognitivamente: cuantas más decisiones se toman en un dia, peor es la calidad de las decisiones posteriores. Las personas con alta disciplina reducen el número de decisiones que tienen que tomar deliberadamente automatizando las que son rutinarias y previsibles.
 
-**Ejercicio inmediato:** Identifica las tres decisiones rutinarias que más energía cognitiva consumen en tu vida (que comer en el desayuno, cuando hacer ejercicio, como empezar la jornada de trabajo). Para cada una, disena un protocolo fijo que elimine la decisión: el mismo desayuno de lunes a viernes, el ejercicio a la misma hora todos los dias, el mismo ritual de inició de jornada. La energía que liberas al automatizar esas decisiones esta disponible para lo que realmente requiere deliberación.
+**Ejercicio inmediato:** Identifica las tres decisiones rutinarias que más energía cognitiva consumen en tu vida (que comer en el desayuno, cuando hacer ejercicio, como empezar la jornada de trabajo). Para cada una, disena un protocolo fijo que elimine la decisión: el mismo desayuno de lunes a viernes, el ejercicio a la misma hora todos los dias, el mismo ritual de inició de jornada. La energía que liberas al automatizar esas decisiones está disponible para lo que realmente requiere deliberación.
 
 La persona disciplinada no tiene más fuerza de voluntad que tu. Toma menos decisiones que tu cada dia. Por eso le queda para lo que importa.
 
@@ -81,7 +81,7 @@ Elena ha llegado a entender que la disciplina en las relaciones es una forma de 
 
 **El Principio de la Fiabilidad Relacional como Forma de Disciplina que Construye Confianza y Profundidad en los Vinculos:** John Gottman y su investigación sobre las relaciones de pareja muestra que la confianza (la base de las relaciones de larga duración) se construye principalmente a traves de la consistencia en los momentos pequeños: estar presente cuando el otro lo necesita, cumplir los compromisos pequeños antes que los grandes, responder de forma predecible en los momentos de tensión. La disciplina relacional no es romantica en el sentido habitual: es la práctica diaria de estar donde se dijo que se estaria.
 
-La investigación de Sue Johnson sobre el apego adulto muestra que la seguridad en el apego (sentir que el otro esta disponible y respondera) es la base del amor adulto duradero, y que esa seguridad se construye a traves de la consistencia comportamental a lo largo del tiempo.
+La investigación de Sue Johnson sobre el apego adulto muestra que la seguridad en el apego (sentir que el otro está disponible y respondera) es la base del amor adulto duradero, y que esa seguridad se construye a traves de la consistencia comportamental a lo largo del tiempo.
 
 **Ejercicio inmediato:** Para las tres relaciones más importantes de tu vida, identifica un compromiso pequeño y consistente que podrías adoptar que mostraria fiabilidad a la persona que más te importa: llamar cada semana a una persona mayor de tu familia, llegar puntual a los acuerdos con tu pareja, responder los mensajes importantes en el mismo dia. Los compromisos pequeños y consistentes construyen más confianza que los gestos grandes y esporadicos.
 

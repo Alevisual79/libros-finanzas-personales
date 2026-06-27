@@ -41,7 +41,7 @@ Marcos ha aprendido que el proposito no es solo motivación interna. Tiene efect
 
 La investigación de Gallup sobre el engagement de los empleados muestra que los empleados que sienten que su trabajo tiene proposito (que contribuye a algo que importa) muestran mayor engagement, menor absentismo, mayor productividad, y menor intención de abandonar la empresa. Las empresas con proposito claro atraen candidatos más motivados y los retienen por más tiempo.
 
-**Ejercicio inmediato:** Pregunta a tres de tus mejores clientes o usuarios por qué te eligen a ti en lugar de a la competencia. Las respuestas que van más allá del precio y las caracteristicas del producto (te eligen porque confian en tu equipo, porque sienten que te importa genuinamente su éxito, porque el proposito de tu empresa resuena con sus valores) son las que revelan si tu proposito esta siendo percibido externamente y generando lealtad.
+**Ejercicio inmediato:** Pregunta a tres de tus mejores clientes o usuarios por qué te eligen a ti en lugar de a la competencia. Las respuestas que van más allá del precio y las caracteristicas del producto (te eligen porque confian en tu equipo, porque sienten que te importa genuinamente su éxito, porque el proposito de tu empresa resuena con sus valores) son las que revelan si tu proposito está siendo percibido externamente y generando lealtad.
 
 El proposito que solo tu ves no es una ventaja competitiva. El que tus clientes sienten si lo es.
 
@@ -55,7 +55,7 @@ Carlos ha aprendido del trabajo de Simon Sinek a comunicar su negocio empezando 
 
 La investigación de Gerald Zaltman muestra que el 95% de las decisiones de compra son inconscientes y emocionalmente influenciadas. Las comunicaciones que empiezan por el por qué tienen mayor probabilidad de conectar con ese sistema de decisión emocional.
 
-**Ejercicio inmediato:** práctica comunicar tu negocio en tres versiones: una que empieza por el que (hacemos X, que es Y), una que empieza por el como (lo hacemos de una forma que es Z), y una que empieza por el por qué (creemos que A, y por eso hacemos B de la forma C). Muestra las tres versiones a cinco personas que no te conocen bien y preguntales cual les genera más curiosidad sobre tu negocio y cual les explica mejor por qué deberías importarles. La respuesta te dirá si tu circulo de oro esta funcionando.
+**Ejercicio inmediato:** práctica comunicar tu negocio en tres versiones: una que empieza por el que (hacemos X, que es Y), una que empieza por el como (lo hacemos de una forma que es Z), y una que empieza por el por qué (creemos que A, y por eso hacemos B de la forma C). Muestra las tres versiones a cinco personas que no te conocen bien y preguntales cual les genera más curiosidad sobre tu negocio y cual les explica mejor por qué deberías importarles. La respuesta te dirá si tu circulo de oro está funcionando.
 
 La empresa que sabe comunicar su por qué atrae a las personas que tienen el mismo por qué. Y esos son los mejores clientes, empleados, y aliados.
 
@@ -97,7 +97,7 @@ Carlos ha intentado articular el proposito de su negocio y cada vez que lo hace 
 
 Bill Damon en La senda del bien propone que el proposito genuino tiene dos caracteristicas: importa genuinamente a la persona (produce energía y motivación intrinsecos) y produce algo de valor para el mundo más allá de los beneficios del propio individuo. El proposito que no cumple las dos condiciones es o motivación personal sin impacto externo o altruismo sin combustible interno.
 
-**Ejercicio inmediato:** Para descubrir el proposito autentico de tu negocio, escribe las respuestas a las siguientes preguntas: ¿que problema en el mundo te molesta genuinamente y que tu negocio podría resolver? ¿Cual es la historia del momento en que sentiste mayor orgullo de lo que hace tu empresa? ¿Que dirian tus mejores clientes que has cambiado en su vida o negocio? Los temas comunes que emergen de esas tres respuestas son los componentes del proposito que esta buscando.
+**Ejercicio inmediato:** Para descubrir el proposito autentico de tu negocio, escribe las respuestas a las siguientes preguntas: ¿que problema en el mundo te molesta genuinamente y que tu negocio podría resolver? ¿Cual es la historia del momento en que sentiste mayor orgullo de lo que hace tu empresa? ¿Que dirian tus mejores clientes que has cambiado en su vida o negocio? Los temas comunes que emergen de esas tres respuestas son los componentes del proposito que está buscando.
 
 El proposito que suena bien pero no lo sientes cuando lo dices no es el tuyo. El que te produce algo en el pecho cuando lo piensas si lo es.
 

@@ -29,7 +29,7 @@ El conflicto es inevitable. La forma de tenerlo, no.
 
 Las parejas que no discuten no son las que mejor se llevan. Son las que han dejado de decirse lo que piensan. El conflicto es la señal de que dos personas distintas siguen comprometidas en comunicarse aunque sea difícil.
 
-**El Principio del Conflicto como Termometro Relacional:** La ausencia de conflicto en una relación no indica armonia. Indica evitación. Las relaciones donde nadie discute nunca son relaciones donde alguien esta callando lo que piensa, adaptandose en exceso, o sencillamente desconectado. El conflicto, bien gestionado, es la evidencia de que la relación tiene suficiente confianza para aguantar la diferencia.
+**El Principio del Conflicto como Termometro Relacional:** La ausencia de conflicto en una relación no indica armonia. Indica evitación. Las relaciones donde nadie discute nunca son relaciones donde alguien está callando lo que piensa, adaptandose en exceso, o sencillamente desconectado. El conflicto, bien gestionado, es la evidencia de que la relación tiene suficiente confianza para aguantar la diferencia.
 
 John Gottman, tras décadas de investigación con parejas, llegó a una conclusión sorprendente: el 69% de los conflictos de pareja son perpetuos, es decir, nunca se resuelven definitivamente porque reflejan diferencias fundamentales de carácter o valores. Las parejas que funcionan bien no son las que resuelven todos sus conflictos. Son las que aprenden a gestionar los que no tienen solución y a resolver bien los que si la tienen.
 
@@ -59,7 +59,7 @@ Siempre llegas tarde es una crítica. Es tarde otra vez, habiamos quedado a las 
 
 **El Principio de la Especificidad Protectora:** La crítica generaliza sobre el carácter: siempre, nunca, eres un... La queja específica un comportamiento concreto: esta vez, hoy, en esta situación. La crítica activa el sistema de defensa del otro porque ataca quien es. La queja da información sobre un comportamiento que puede cambiar.
 
-Cuando Isabel le dice a su colaborador no puedes ser más organizado, le esta haciendo una crítica de carácter. Cuando le dice no recibi el informe que me pediste para el lunes, le esta haciendo una queja de conducta. La primera cierra. La segunda abre la posibilidad de respuesta.
+Cuando Isabel le dice a su colaborador no puedes ser más organizado, le está haciendo una crítica de carácter. Cuando le dice no recibi el informe que me pediste para el lunes, le está haciendo una queja de conducta. La primera cierra. La segunda abre la posibilidad de respuesta.
 
 **Ejercicio inmediato:** Reformula las tres críticas más frecuentes que tienes hacía alguien importante en tu vida. Cambia la forma general (eres, siempre, nunca) por la forma específica (ayer, en esa reunión, la última vez). La reformulación no cambia el contenido. Cambia si el otro puede escucharla.
 
@@ -75,7 +75,7 @@ El conflicto sube como el agua en una olla sin tapa. El tono aumenta. Las palabr
 
 Las investigaciones de Gottman muestran que cuando la frecuencia cardiaca supera los 100 latidos por minuto, la capacidad de escuchar, procesar y responder de forma no reactiva se deteriora significativamente. En ese estado, la unica intervención eficaz es el tiempo fuera.
 
-**Ejercicio inmediato:** Identifica las primeras señales en tu cuerpo de que un conflicto esta escalando: tensión en el pecho, calor en la cara, voz que sube. Esas señales son tu sistema de alarma temprana. La próxima vez que las detectes, tienes la opción de desescalar antes de que sea necesario parar del todo.
+**Ejercicio inmediato:** Identifica las primeras señales en tu cuerpo de que un conflicto está escalando: tensión en el pecho, calor en la cara, voz que sube. Esas señales son tu sistema de alarma temprana. La próxima vez que las detectes, tienes la opción de desescalar antes de que sea necesario parar del todo.
 
 La escalada que se detecta a tiempo se puede evitar. La que no se detecta destruye la conversación.
 
@@ -89,7 +89,7 @@ Cuando el conflicto esta demasiado caliente, parar no es huir. Es una intervenci
 
 Veinticinco minutos es el mínimo que tarda el sistema nervioso en recuperarse de la activación aguda del conflicto. Menos tiempo no produce la recuperación. El tiempo fuera optimo es de veinte a treinta minutos de actividad distractora sin rumiar sobre el conflicto.
 
-**Ejercicio inmediato:** La próxima vez que un conflicto este escalando, propone: necesito veinte minutos, vuelvo a las (hora concreta) para seguir. El margen de tiempo da al otro la seguridad de que no se esta evitando el tema. Solo se esta haciendo espacio para tenerlo mejor.
+**Ejercicio inmediato:** La próxima vez que un conflicto este escalando, propone: necesito veinte minutos, vuelvo a las (hora concreta) para seguir. El margen de tiempo da al otro la seguridad de que no se está evitando el tema. Solo se está haciendo espacio para tenerlo mejor.
 
 El tiempo fuera no es el final de la conversación. Es la condición para que la conversación real pueda ocurrir.
 
@@ -101,9 +101,9 @@ Durante el conflicto, la mayoría de las personas tienen dos conversaciones para
 
 **El Principio de la Voz Interna como Interferencia:** El monologo interno durante el conflicto amplifica el sesgo de confirmación: interpreta todo lo que dice el otro como evidencia de lo que ya se cree sobre el. Si creo que el otro no me respeta, interpreto cada una de sus palabras como evidencia de falta de respeto. La voz interna, en modo conflicto, no ayuda. Interfiere.
 
-Douglas Stone, en Difficult Conversations, propone suspender temporalmente la voz interna durante el conflicto y reemplazarla con una sola pregunta: ¿que esta intentando comunicarme esta persona? Esa pregunta redirige la atención del monologo propio a la escucha del otro.
+Douglas Stone, en Difficult Conversations, propone suspender temporalmente la voz interna durante el conflicto y reemplazarla con una sola pregunta: ¿que está intentando comunicarme esta persona? Esa pregunta redirige la atención del monologo propio a la escucha del otro.
 
-**Ejercicio inmediato:** En tu próximo conflicto, cuando notes que tu voz interna esta muy activa, para y hazte la pregunta: ¿que esta intentando decirme esta persona? Repitela cuantas veces sea necesario. Esa pregunta es más útil que cualquier argumento que tu voz interna este preparando.
+**Ejercicio inmediato:** En tu próximo conflicto, cuando notes que tu voz interna esta muy activa, para y hazte la pregunta: ¿que está intentando decirme esta persona? Repitela cuantas veces sea necesario. Esa pregunta es más útil que cualquier argumento que tu voz interna este preparando.
 
 La conversación más destructiva en un conflicto ocurre dentro de tu cabeza, no entre los dos.
 

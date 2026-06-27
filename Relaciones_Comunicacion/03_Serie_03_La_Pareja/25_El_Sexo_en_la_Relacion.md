@@ -59,7 +59,7 @@ El deseo que decrece en la pareja no esta muerto. Esta dormido bajo un peso que 
 
 Casi todas las parejas largas tienen en algun momento una brecha de deseo: uno quiere más frecuencia sexual que el otro. La brecha puede ser pequeña o grande, temporal o cronica. En todos los casos, produce tensión si no se gestiona.
 
-**El Principio de la Brecha como Negociación, no como Fallo:** La brecha de deseo en la pareja no significa que ninguno de los dos esta bien. Significa que los niveles de deseo son diferentes, que es estadisticamente lo más común. El problema no es la diferencia sino cómo se gestiona: si el de mayor deseo lo vive como rechazó personal y el de menor deseo lo vive como presión, la brecha produce resentimiento en los dos.
+**El Principio de la Brecha como Negociación, no como Fallo:** La brecha de deseo en la pareja no significa que ninguno de los dos está bien. Significa que los niveles de deseo son diferentes, que es estadisticamente lo más común. El problema no es la diferencia sino cómo se gestiona: si el de mayor deseo lo vive como rechazó personal y el de menor deseo lo vive como presión, la brecha produce resentimiento en los dos.
 
 La gestión efectiva de la brecha requiere que ambos la entiendan cómo una diferencia que se negocia y no cómo una deficiencia de ninguno, que el de mayor deseo aprenda a no interpreta el no como rechazó global, y que el de menor deseo encuentre formas de mantener la conexión intima aunque la frecuencia sexual no sea la que el otro preferiria.
 

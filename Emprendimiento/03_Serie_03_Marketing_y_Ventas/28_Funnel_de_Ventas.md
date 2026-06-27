@@ -41,7 +41,7 @@ Carlos ha mapeado su funnel en cinco etapas y puede optimizar cada una por separ
 
 La investigación de Forrester sobre los ciclos de compra B2B muestra que en el mercado B2B moderno el cliente completa el 67% de su proceso de decisión (investigación, comparación de alternativas, y formación de preferencia) antes de tomar contacto directo con el vendedor. Eso significa que las etapas de trafico y nutrición del funnel son ahora más importantes que nunca para el emprendedor B2B.
 
-**Ejercicio inmediato:** Para cada etapa de tu funnel, define una metrica específica que indique si esa etapa esta funcionando: trafico (número de visitantes unicos a la web por mes), captura (tasa de conversión de visitantes a leads), nutrición (tasa de apertura de emails y engagement con el contenido), conversión (tasa de leads que se convierten en clientes), y retención (porcentaje de clientes que repiten la compra o siguen activos después de seis meses). Con esas cinco metricas medidas mensualmente, puedes identificar donde en el funnel esta el mayor problema.
+**Ejercicio inmediato:** Para cada etapa de tu funnel, define una metrica específica que indique si esa etapa está funcionando: trafico (número de visitantes unicos a la web por mes), captura (tasa de conversión de visitantes a leads), nutrición (tasa de apertura de emails y engagement con el contenido), conversión (tasa de leads que se convierten en clientes), y retención (porcentaje de clientes que repiten la compra o siguen activos después de seis meses). Con esas cinco metricas medidas mensualmente, puedes identificar donde en el funnel esta el mayor problema.
 
 El funnel que no mides no puedes mejorar. Y el problema siempre esta en una etapa específica que los números revelan.
 
@@ -79,7 +79,7 @@ La tasa de conversión de visitante a lead que no mides no puedes mejorar. Y mej
 
 Carlos ha implementado una secuencia de nutrición que convierte el 12% de sus leads en clientes.
 
-**El Principio de la Nutrición de Leads como el Proceso de Construir Progresivamente la Confianza y el Interes del Lead mediante Contenido de Valor hasta que Esta Listo para la Conversión en Lugar de Intentar Vender Inmediatamente:** La investigación de Annuitas sobre el impacto del lead nurturing en las tasas de conversión muestra que los leads nutridos producen un 20% más de oportunidades de ventas que los no nutridos, y que las empresas que practican lead nurturing tienen significativamente mayor revenue que las que no. El lead que no esta listo para comprar hoy puede estarlo en tres semanas si recibe el contenido correcto que avanza su proceso de decisión.
+**El Principio de la Nutrición de Leads como el Proceso de Construir Progresivamente la Confianza y el Interes del Lead mediante Contenido de Valor hasta que Está Listo para la Conversión en Lugar de Intentar Vender Inmediatamente:** La investigación de Annuitas sobre el impacto del lead nurturing en las tasas de conversión muestra que los leads nutridos producen un 20% más de oportunidades de ventas que los no nutridos, y que las empresas que practican lead nurturing tienen significativamente mayor revenue que las que no. El lead que no está listo para comprar hoy puede estarlo en tres semanas si recibe el contenido correcto que avanza su proceso de decisión.
 
 El lead nurturing efectivo funciona porque replica el proceso natural de construcción de confianza entre dos personas: no pediriamos matrimonio en el primer dia de conocernos. El funnel replica esa logica: primero da valor (contenido útil), después construye credibilidad (casos de éxito, testimonios), después presenta la oferta (cuando la relación esta suficientemente desarrollada para que la oferta sea bienvenida).
 
@@ -99,7 +99,7 @@ La investigación de Baymard Institute sobre la optimización de checkout en e-c
 
 **Ejercicio inmediato:** Para el fondo de tu funnel (la página de venta o la propuesta comercial), verifica que incluye los cuatro elementos reductores de barrera: una garantía explícita (en que circunstancias devuelves el dinero o repites el servicio sin coste adicional), testimonios de clientes con situaciones similares a las del lead, una razón específica para actuar ahora (sin urgencia artificial: puede ser la disponibilidad actual o un bonus temporal), y un proceso de compra o contratación de máximo tres pasos sin fricción. Cada elemento que falta es una barrera que impide la conversión.
 
-El lead que esta listo para comprar solo necesita que no pongas obstaculos en el camino.
+El lead que está listo para comprar solo necesita que no pongas obstaculos en el camino.
 
 ---
 
@@ -113,7 +113,7 @@ Aaron Ross en Predictable Revenue propone el modelo de ventas predecible: separa
 
 **Ejercicio inmediato:** Para tus tres oportunidades de venta B2B actualmente en proceso (si las tienes), identifica en que etapa del funnel esta cada una: ¿conocen el problema y están evaluando soluciones, han identificado tu solución como candidata y estan en comparación, o estan en negociación del contrató? Para cada oportunidad, identifica la siguiente acción específica que moverias del lead a la siguiente etapa y ejecutala esta semana. El funnel B2B que no se mueve activamente se enfria.
 
-El funnel B2B que no tiene una próxima acción específica para cada oportunidad activa esta perdiendo esas oportunidades sin saber lo.
+El funnel B2B que no tiene una próxima acción específica para cada oportunidad activa está perdiendo esas oportunidades sin saber lo.
 
 ---
 

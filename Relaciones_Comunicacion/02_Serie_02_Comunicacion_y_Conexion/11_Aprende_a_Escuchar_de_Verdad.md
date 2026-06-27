@@ -19,7 +19,7 @@ En una conversación típica, la mayoría de las personas no escuchan lo que dic
 
 Escuchar parece facil porque es pasivo. En realidad es una de las habilidades más difíciles y más raras que existe.
 
-Elena lleva años quejandose de que nadie la escucha de verdad. Lo que todavia no ha visto es que ella tampoco escucha de verdad. Ruben cree que es buen oyente porque no interrumpe. Pero mientras el otro habla, Ruben ya esta construyendo su respuesta. Isabel escucha los hechos pero rara vez escucha las emociones que hay detras.
+Elena lleva años quejandose de que nadie la escucha de verdad. Lo que todavia no ha visto es que ella tampoco escucha de verdad. Ruben cree que es buen oyente porque no interrumpe. Pero mientras el otro habla, Ruben ya está construyendo su respuesta. Isabel escucha los hechos pero rara vez escucha las emociones que hay detras.
 
 La escucha es el acto relacional más poderoso que existe. Y nadie nos ensena a hacerlo.
 
@@ -43,7 +43,7 @@ Si no recordamos la mitad de lo que escuchamos, no estamos escuchando. Estamos o
 
 La escucha activa tiene mala reputación. En cursos de comunicación se ensenaan técnicas: asiente con la cabeza, repite lo último que dijo el otro, di mmm de vez en cuando. Esas técnicas, aplicadas sin presencia real, producen la apariencia de escucha sin la sustancia. Y la mayoría de personas nota la diferencia.
 
-**El Principio de la Presencia como Base:** La escucha activa real no empieza con técnicas. Empieza con una decisión: decidir que en este momento, lo más importante que puedo hacer es entender lo que esta diciendo esta persona. Esa decisión cambia el estado interno del oyente, y ese cambio interno, aunque no se exprese verbalmente, es percibido por quien habla. La presencia se siente aunque no se vea.
+**El Principio de la Presencia como Base:** La escucha activa real no empieza con técnicas. Empieza con una decisión: decidir que en este momento, lo más importante que puedo hacer es entender lo que está diciendo esta persona. Esa decisión cambia el estado interno del oyente, y ese cambio interno, aunque no se exprese verbalmente, es percibido por quien habla. La presencia se siente aunque no se vea.
 
 Carl Rogers identifico la escucha empatica cómo la condición más importante para el cambio terapeutico. Describio la experiencia de ser escuchado de verdad cómo una de las más poderosas que puede tener un ser humano: hace que el mundo parezca menos amenazante y permite ver las cosas con más claridad.
 
@@ -55,7 +55,7 @@ La escucha activa no es una postura. Es un estado. Y ese estado se construye con
 
 ## Capítulo 3: Escuchar sin juzgar
 
-Cuando Ruben le cuenta a su amigo que esta pensando en dejar su trabajo para montar algo propio, su amigo dice: ¿eso es arriesgado, no? Antes de escuchar el resto. El juicio prematuro cierra la conversación antes de que empiece. Ruben guarda el resto para si mismo.
+Cuando Ruben le cuenta a su amigo que está pensando en dejar su trabajo para montar algo propio, su amigo dice: ¿eso es arriesgado, no? Antes de escuchar el resto. El juicio prematuro cierra la conversación antes de que empiece. Ruben guarda el resto para si mismo.
 
 **El Principio de la Suspensión del Juicio:** Escuchar sin juzgar no significa estar de acuerdo con todo lo que el otro dice. Significa diferir el juicio hasta haber comprendido completamente. La evaluación prematura interrumpe la comprensión porque en cuanto formamos un juicio, dejamos de procesar información nueva: lo interpretamos todo a traves del filtro del juicio que ya hemos formado.
 
@@ -85,7 +85,7 @@ Tu cuerpo le dice al otro si estas escuchando antes de que digas una sola palabr
 
 Escuchar y empatizar no son lo mismo pero estan profundamente conectados. Puedes escuchar los hechos sin empatizar: entender que paso sin entender cómo se siente el otro respecto a lo que paso. La escucha empatica va un nivel más profundo.
 
-**El Principio de los Dos Niveles:** Toda comunicación tiene dos niveles: el contenido (lo que se dice) y la relación (cómo se siente el hablante). La mayoría de las personas responde al nivel de contenido e ignora el nivel relacional. Cuando alguien dice estoy agotado de esta situación, no solo esta comunicando un hecho. Esta comunicando algo sobre su estado emocional, su necesidad de que alguien entienda lo que esta viviendo. Responder con has probado a dormir más es responder al contenido. Responder con parece que estas en un momento muy difícil es responder al nivel relacional.
+**El Principio de los Dos Niveles:** Toda comunicación tiene dos niveles: el contenido (lo que se dice) y la relación (cómo se siente el hablante). La mayoría de las personas responde al nivel de contenido e ignora el nivel relacional. Cuando alguien dice estoy agotado de esta situación, no solo está comunicando un hecho. Está comunicando algo sobre su estado emocional, su necesidad de que alguien entienda lo que está viviendo. Responder con has probado a dormir más es responder al contenido. Responder con parece que estas en un momento muy difícil es responder al nivel relacional.
 
 El resultado de responder solo al contenido es una conversación técnicamente correcta en que el otro se va sintiendose no comprendido. El resultado de responder al nivel relacional es una conversación que el otro recuerda como el dia que alguien realmente me escuchó.
 
@@ -97,7 +97,7 @@ Escuchar lo que se dice sin escuchar cómo se siente el otro es la mitad de la e
 
 ## Capítulo 6: Preguntas que abren vs preguntas que cierran
 
-Como va el fin de semana? ¿Bien. ¿Que hiciste? ¿Pues fui al cine. Solo? Si. Esta bien. Esa conversación no lleva a ninguna parte porque las preguntas no abren nada. Y sin apertura no hay conexión.
+Como va el fin de semana? ¿Bien. ¿Que hiciste? ¿Pues fui al cine. Solo? Si. Está bien. Esa conversación no lleva a ninguna parte porque las preguntas no abren nada. Y sin apertura no hay conexión.
 
 **El Principio de la Pregunta como Invitación:** Las preguntas cerradas son eficientes para obtener datos. Las preguntas abiertas son eficientes para construir conexión. ¿Que te parecio la pelicula es mejor que te gusto? ¿Que fue lo más sorprendente del fin de semana es mejor que como fue el fin de semana? Las preguntas abiertas invitan al otro a pensar y a compartir en lugar de solo confirmar.
 
@@ -111,7 +111,7 @@ La calidad de las preguntas que haces determina la calidad de las conversaciones
 
 ## Capítulo 7: Cuando callarse es lo más poderoso
 
-Elena tiene el habito de llenar los silencios. Cuando hay una pausa en la conversación, inmediatamente dice algo para que el silencio no dure. Lo que no sabe es que en esos silencios el otro esta procesando, a punto de decir algo importante. Cuando Elena llena el silencio, interrumpe ese proceso.
+Elena tiene el habito de llenar los silencios. Cuando hay una pausa en la conversación, inmediatamente dice algo para que el silencio no dure. Lo que no sabe es que en esos silencios el otro está procesando, a punto de decir algo importante. Cuando Elena llena el silencio, interrumpe ese proceso.
 
 **El Principio del Silencio Activo:** El silencio en una conversación no es un vacio que hay que llenar. Es un espacio en que el otro procesa y se prepara para compartir algo más. Tolerar el silencio sin incomodidad es una de las habilidades más difíciles y más poderosas del oyente. Los mejores entrevistadores, los mejores terapeutas y los mejores líderes saben que el silencio después de una pregunta es parte de la respuesta.
 
@@ -125,13 +125,13 @@ El silencio que toleras es el espacio donde el otro encuentra lo que realmente q
 
 ## Capítulo 8: Escuchar lo que no se dice
 
-Cuando Ruben dice que todo esta bien con su jefa pero su postura se cierra y su tono se vuelve plano, algo no concuerda entre el mensaje verbal y el no verbal. Lo que no se dice suele contener la información más importante de la conversación.
+Cuando Ruben dice que todo está bien con su jefa pero su postura se cierra y su tono se vuelve plano, algo no concuerda entre el mensaje verbal y el no verbal. Lo que no se dice suele contener la información más importante de la conversación.
 
 **El Principio de la Brecha entre Contenido y Experiencia:** Lo que las personas dicen en voz alta no siempre es lo que estan experimentando. A veces porque no saben como nombrarlo. A veces porque no se sienten seguros para decirlo. El oyente que escucha solo las palabras pierde la mitad. El que escucha el tono, la postura, las pausas, lo que se empieza a decir y no se termina, tiene acceso a la conversación completa.
 
 Daniel Stern llamó a esto la sintonización afectiva: la capacidad de resonar con el estado interno del otro más allá de las palabras que usa. Los terapeutas expertos, los padres atentos y las personas con alta inteligencia emocional tienen esta capacidad desarrollada. No es magia. Es atención entrenada.
 
-**Ejercicio inmediato:** En tu próxima conversación significativa, presta atención a dos cosas ademas de las palabras: el tono de voz y la postura corporal. Cuando detectes una incongruencia entre lo que se dice y cómo se dice, pregunta suavemente: ¿noto que algo más esta pasando, estoy equivocado? La pregunta abre el segundo nivel de la conversación.
+**Ejercicio inmediato:** En tu próxima conversación significativa, presta atención a dos cosas ademas de las palabras: el tono de voz y la postura corporal. Cuando detectes una incongruencia entre lo que se dice y cómo se dice, pregunta suavemente: ¿noto que algo más está pasando, estoy equivocado? La pregunta abre el segundo nivel de la conversación.
 
 Las palabras dicen lo que el otro quiere decir. El cuerpo dice lo que siente.
 

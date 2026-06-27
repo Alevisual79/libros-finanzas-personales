@@ -25,7 +25,7 @@ Establecer límites relacionales, aunque intelectualmente se reconozca como nece
 
 **El Principio de las Multiples Barreras al Limite:** La dificultad de poner límites involucra tipicamente una combinación de factores: miedo al conflicto o al rechazó que la comunicación del límite podría generar, culpa anticipada por priorizar las propias necesidades, y en algunos casos, patrones aprendidos en la infancia donde expresar necesidades propias generaba consecuencias negativas que se internalizaron como evitación automática.
 
-**Ejercicio inmediato:** Para un límite que has estado postergando, identifica específicamente cual de estas barreras (miedo al conflicto, culpa anticipada, patron aprendido) esta operando más fuertemente en tu resistencia a comunicarlo.
+**Ejercicio inmediato:** Para un límite que has estado postergando, identifica específicamente cual de estas barreras (miedo al conflicto, culpa anticipada, patron aprendido) está operando más fuertemente en tu resistencia a comunicarlo.
 
 Poner límites no es difícil por casualidad. Hay barreras psicológicas específicas operando, y identificarlas es el primer paso para superarlas.
 
@@ -85,7 +85,7 @@ Establecer un límite es solo el primer paso; mantenerlo consistentemente frente
 
 **El Principio de la Consistencia frente a la Presión:** Las personas que reciben un límite nuevo frecuentemente presionan inicialmente para que se reconsidere o se abandone, especialmente si estaban acostumbradas a que ese límite no existiera previamente. Mantener el límite consistentemente, sin ceder a la presión inicial, es lo que eventualmente establece su credibilidad y su respeto por parte del otro.
 
-**Ejercicio inmediato:** Si has establecido recientemente un límite que esta siendo presionado, práctica una respuesta breve y consistente que reafirme el límite sin entrar en debate extenso sobre su validez.
+**Ejercicio inmediato:** Si has establecido recientemente un límite que está siendo presionado, práctica una respuesta breve y consistente que reafirme el límite sin entrar en debate extenso sobre su validez.
 
 El primer intento de presionar contra un límite nuevo es predecible. Mantenerte firme en ese primer momento establece si el límite será respetado en el futuro.
 

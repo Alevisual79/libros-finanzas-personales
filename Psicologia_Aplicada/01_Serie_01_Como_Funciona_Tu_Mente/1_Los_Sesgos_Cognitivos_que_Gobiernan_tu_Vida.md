@@ -147,7 +147,7 @@ Conocer tus sesgos es el primer paso. El segundo, mucho más difícil, es constr
 
 ## Capítulo 10: Vivir con un cerebro imperfecto
 
-Elena, Ruben e Isabel no van a eliminar sus sesgos. Nadie puede. Lo que pueden hacer es reducir el riesgo sistemático que los sesgos introducen en sus decisiones más importantes, sabiendo cuando su cerebro probablemente esta tomando atajos que distorsionan la realidad.
+Elena, Ruben e Isabel no van a eliminar sus sesgos. Nadie puede. Lo que pueden hacer es reducir el riesgo sistemático que los sesgos introducen en sus decisiones más importantes, sabiendo cuando su cerebro probablemente está tomando atajos que distorsionan la realidad.
 
 **El Principio de la Humildad Cognitiva como Ventaja:** Las personas que reconocen y gestionan activamente sus sesgos no toman decisiones perfectas, pero si toman decisiones sistemáticamente mejores que quienes creen no tenerlos. Philip Tetlock, en su investigación sobre expertos y predicciones, encontró que los mejores pronosticadores no eran los más seguros de si mismos, sino los que mantenian incertidumbre calibrada, revisaban sus predicciones ante nueva evidencia, y se cuestionaban activamente sus propias conclusiones.
 

@@ -45,7 +45,7 @@ El dolor de una traición no es debilidad. Es la respuesta normal del sistema ne
 
 ## Capítulo 3: Rabia, tristeza y vergüenza: las tres emociones de la traición
 
-La traición tipicamente genera una combinación compleja de al menos tres emociones distintas que interactuan entre si, complicando el proceso de identificar y procesar lo que realmente se esta sintiendo en cada momento.
+La traición tipicamente genera una combinación compleja de al menos tres emociones distintas que interactuan entre si, complicando el proceso de identificar y procesar lo que realmente se está sintiendo en cada momento.
 
 **El Principio de la Triada Emocional de la Traición:** La rabia hacía quien traiciono, la tristeza por lo perdido (la relación que se creía tener, la confianza que existia), y la vergüenza (frecuentemente irracional pero presente, sobre no haber visto las señales, sobre haber confiado) tienden a coexistir y a alternar en intensidad, generando una experiencia emocional compleja que requiere atención a cada componente por separado.
 

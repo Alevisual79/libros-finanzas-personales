@@ -83,7 +83,7 @@ Carlos ha aprendido a ver la competencia no cómo una amenaza sino como prueba d
 
 Mark Cuban propone que si ves a alguien haciendo dinero con algo similar a tu idea, eso es más validador que cualquier investigación de mercado: prueba que hay clientes dispuestos a pagar, que el modelo de negocio puede funcionar, y que la unica pregunta que queda es si tu puedes hacerlo mejor o diferente.
 
-**Ejercicio inmediato:** Realiza un análisis de la competencia en dos dimensiones: ¿quien esta resolviendo actualmente el mismo problema (aunque de forma diferente), y que estan haciendo mal o que segmento de clientes estan ignorando? Las respuestas a esas dos preguntas te dan tanto la validación de que el mercado existe como el mapa de dónde puede estar tu diferenciación.
+**Ejercicio inmediato:** Realiza un análisis de la competencia en dos dimensiones: ¿quien está resolviendo actualmente el mismo problema (aunque de forma diferente), y que estan haciendo mal o que segmento de clientes estan ignorando? Las respuestas a esas dos preguntas te dan tanto la validación de que el mercado existe como el mapa de dónde puede estar tu diferenciación.
 
 Si no tienes competidores, o tienes una idea brillante que nadie ha pensado, o tienes una idea que no tiene mercado. La segunda opción es más frecuente.
 

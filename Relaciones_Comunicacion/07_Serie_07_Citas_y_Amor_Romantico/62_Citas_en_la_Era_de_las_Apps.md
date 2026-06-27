@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben lleva un año usando aplicaciones de citas y ha tenido doce primeras citas. Ninguna ha llevado a una segunda. El problema, descubre eventualmente con algo de ayuda externa, no es la aplicación en si misma. Es la forma en que la esta usando, sin estrategia, sin reflexión, y sin entender las dinámicas psicológicas específicas que las apps de citas generan y que requieren un enfoque distinto del que el cortejo tradicional jamas requirio.
+Ruben lleva un año usando aplicaciones de citas y ha tenido doce primeras citas. Ninguna ha llevado a una segunda. El problema, descubre eventualmente con algo de ayuda externa, no es la aplicación en si misma. Es la forma en que la está usando, sin estrategia, sin reflexión, y sin entender las dinámicas psicológicas específicas que las apps de citas generan y que requieren un enfoque distinto del que el cortejo tradicional jamas requirio.
 
 ---
 
@@ -107,7 +107,7 @@ El ghosting duele, pero rara vez es la medida objetiva de tu valor que se siente
 
 Mantener conversaciones o citas con multiples personas simultaneamente en las etapas iniciales de exploración es una práctica común en el contexto de apps de citas, cuya ética depende fuertemente de la transparencia sobre esta práctica.
 
-**El Principio de la Transparencia sobre la Exclusividad No Asumida:** Tener citas con multiples personas antes de haber establecido exclusividad explícita no es inherentemente deshonesto, siempre que ninguna de las partes haya asumido o solicitado exclusividad que no se ha acordado mutuamente. El problema ético surge cuando se declara explícita o implicitamente exclusividad que en realidad no se esta practicando, no en la práctica de explorar multiples conexiones antes del compromiso formal.
+**El Principio de la Transparencia sobre la Exclusividad No Asumida:** Tener citas con multiples personas antes de haber establecido exclusividad explícita no es inherentemente deshonesto, siempre que ninguna de las partes haya asumido o solicitado exclusividad que no se ha acordado mutuamente. El problema ético surge cuando se declara explícita o implicitamente exclusividad que en realidad no se está practicando, no en la práctica de explorar multiples conexiones antes del compromiso formal.
 
 **Ejercicio inmediato:** Si estas teniendo citas paralelas con multiples personas, evalua si has comunicado claramente, cuando es relevante, que aun estas en fase de exploración sin exclusividad asumida, especialmente si alguna de las personas pregunta directamente.
 

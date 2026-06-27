@@ -49,7 +49,7 @@ No existe un entorno de trabajo universalmente bueno para ti. Existe el entorno 
 
 ## Capítulo 3: El efecto de la presencia: cuanto cambia saber que te observan
 
-Elena ha notado que la simple presencia de una camara en un espacio público cambia el comportamiento de las personas incluso cuando nadie esta viendo activamente la grabación.
+Elena ha notado que la simple presencia de una camara en un espacio público cambia el comportamiento de las personas incluso cuando nadie está viendo activamente la grabación.
 
 **El Principio del Efecto de la Observación como Cambio de Comportamiento por la Conciencia de ser Visto:** La investigación de Melissa Bateson y colegas muestra que la simple imagen de ojos en un poster (aunque claramente no sean ojos reales) en la sala de descanso de una oficina aumenta la limpieza del espacio significativamente. La imagen de ojos activa la conciencia de ser observado, que a su vez activa normas sociales de comportamiento cooperativo.
 

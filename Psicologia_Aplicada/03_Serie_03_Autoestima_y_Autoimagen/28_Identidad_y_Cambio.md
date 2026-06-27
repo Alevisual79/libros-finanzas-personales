@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben tiene treinta y dos años y siente que se esta convirtiendo en una persona diferente de quien era a los veinticinco. Sus valores han cambiado, sus prioridades han cambiado, su forma de relacionarse con el mundo ha cambiado. No esta seguro de si eso es bueno (he crecido) o malo (me he perdido en el camino). Esta pregunta, quien soy cuando ya no soy quien era, es una de las preguntas más fundamentales de la vida adulta y tiene respuestas más matizadas de lo que la cultura suele ofrecer.
+Ruben tiene treinta y dos años y siente que se está convirtiendo en una persona diferente de quien era a los veinticinco. Sus valores han cambiado, sus prioridades han cambiado, su forma de relacionarse con el mundo ha cambiado. No esta seguro de si eso es bueno (he crecido) o malo (me he perdido en el camino). Esta pregunta, quien soy cuando ya no soy quien era, es una de las preguntas más fundamentales de la vida adulta y tiene respuestas más matizadas de lo que la cultura suele ofrecer.
 
 ---
 
@@ -111,7 +111,7 @@ Ruben esta en un momento de transición: ha dejado un trabajo que le ocupaba muc
 
 William Bridges, asesor organizacional que adapto el concepto de transición al contexto contemporaneo, propone que las transiciones tienen tres fases: la terminación (soltar la identidad anterior), la zona neutral (la liminalidad de no saber todavia), y el nuevo comienzo. La zona neutral, aunque la persona frecuentemente intenta saltar sobre ella hacía el nuevo comienzo, es donde ocurre el trabajo más importante de reorganización de la identidad.
 
-**Ejercicio inmediato:** Si estas en una transición de identidad, identifica en cual de las tres fases de Bridges te encuentras. Si estas en la zona neutral, diseña una práctica deliberada para habitarla en lugar de saltarla: llevar un diario de lo que estas descubriendo sobre ti mismo en este período, permitirte explorar sin comprometerte todavia, o establecer una pequeña rutina que proporcione estructura mientras el marcó más amplio todavia esta siendo redefinido.
+**Ejercicio inmediato:** Si estas en una transición de identidad, identifica en cual de las tres fases de Bridges te encuentras. Si estas en la zona neutral, diseña una práctica deliberada para habitarla en lugar de saltarla: llevar un diario de lo que estas descubriendo sobre ti mismo en este período, permitirte explorar sin comprometerte todavia, o establecer una pequeña rutina que proporcione estructura mientras el marcó más amplio todavia está siendo redefinido.
 
 Los mejores capítulos de una vida frecuentemente empiezan en los momentos donde todavia no sabes como van a continuar.
 
