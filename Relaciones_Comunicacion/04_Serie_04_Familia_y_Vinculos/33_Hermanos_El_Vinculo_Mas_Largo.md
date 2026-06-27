@@ -27,7 +27,7 @@ El orden de nacimiento influye en la formación de la personalidad y en el rol q
 
 **El Principio de los Nichos de Hermanos:** Frank Sulloway, investigador de la psicología evolutiva de los hermanos, propone que los hermanos compiten por nichos distintos dentro de la atención parental, lo que lleva a que cada uno desarrolle estrategias y personalidades diferenciadas: el primogenito tiende hacía la responsabilidad y el logró, mientras los hermanos posteriores tienden a buscar nichos diferentes (la rebeldia, el humor, la creatividad) para diferenciarse y obtener atención de forma distinta.
 
-**Ejercicio inmediato:** Reflexiona sobre el nicho que ocupaste en tu familia segun tu orden de nacimiento. Cómo se manifiesta ese nicho en tu personalidad adulta y en tu forma de relacionarte con tus hermanos hoy?
+**Ejercicio inmediato:** Reflexiona sobre el nicho que ocupaste en tu familia segun tu orden de nacimiento. ¿Cómo se manifiesta ese nicho en tu personalidad adulta y en tu forma de relacionarte con tus hermanos hoy?
 
 El lugar que ocupaste en el orden familiar moldeo más de tu personalidad de lo que probablemente reconoces.
 

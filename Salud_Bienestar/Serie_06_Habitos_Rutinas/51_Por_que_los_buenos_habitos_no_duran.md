@@ -164,7 +164,7 @@ El nuevo hábito debe ser lo suficientemente sencillo como para no requerir moti
 Las recaídas no son el final del proceso de cambio. Son parte de él.
 
 **Los estudios sobre el cambio:**
-El modeló transteórico de Prochaska y DiClemente identifica las recaídas cómo una fase normal del proceso de cambio, no cómo un fracaso definitivo. La mayoría de las personas que cambian hábitos significativos (dejar de fumar, perder peso) lo consiguen tras varios intentos.
+El modelo transteórico de Prochaska y DiClemente identifica las recaídas cómo una fase normal del proceso de cambio, no cómo un fracaso definitivo. La mayoría de las personas que cambian hábitos significativos (dejar de fumar, perder peso) lo consiguen tras varios intentos.
 
 **El "desastre de la abstinencia" vs. la recaída:**
 La persona que rompe su rachas una vez y concluye "total, ya he fallado" y abandona experimenta el "desastre de la abstinencia". La persona que rompe la racha y vuelve al día siguiente sin drama tiene una recaída que no interrumpe el proceso.

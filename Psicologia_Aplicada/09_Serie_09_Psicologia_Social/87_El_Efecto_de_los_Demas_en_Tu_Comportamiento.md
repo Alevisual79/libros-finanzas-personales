@@ -27,7 +27,7 @@ La tendencia a explicar el comportamiento de los demás por su carácter y el pr
 
 El error fundamental de atribución tiene implicaciones prácticas importantes: cuando alguien se comporta de forma mala o inesperada, la primera pregunta debería ser que situación produce ese comportamiento, no que tipo de persona es. La pregunta situacional frecuentemente revela soluciones que la atribución de carácter no puede ofrecer.
 
-**Ejercicio inmediato:** Para la última persona cuyo comportamiento te ha decepcionado, reflexiona: que factores situacionales podrían estar contribuyendo a ese comportamiento? Presión de tiempo, ambiguedad de las expectativas, falta de recursos, dinámicas de grupo que no ves? No para excusar el comportamiento sino para entender si la situación puede cambiarse de formas que produzcan comportamientos diferentes.
+**Ejercicio inmediato:** Para la última persona cuyo comportamiento te ha decepcionado, reflexiona: ¿que factores situacionales podrían estar contribuyendo a ese comportamiento? ¿Presión de tiempo, ambiguedad de las expectativas, falta de recursos, dinámicas de grupo que no ves? No para excusar el comportamiento sino para entender si la situación puede cambiarse de formas que produzcan comportamientos diferentes.
 
 Cuando cambias la situación y el comportamiento cambia, aprendes más sobre lo que realmente lo causaba que cuando lo atribuias al carácter.
 
@@ -41,7 +41,7 @@ Ruben ha notado que a veces trabaja mejor cuando hay otros cerca y a veces mucho
 
 El resultado es que un tenista experto juega mejor en público que en privado (su respuesta dominante es la correcta) mientras que un aprendiz juega peor en público que en privado (su respuesta dominante es todavia el error). La misma audiencia produce efectos opuestos dependiendo del nivel de dominio de la tarea.
 
-**Ejercicio inmediato:** Para las tareas donde tu rendimiento fluctua dependiendo de si hay otros presentes, reflexiona: para cuales de estas tareas la presencia de otros mejora tu rendimiento (tareas bien dominadas) y para cuales lo empeora (tareas en aprendizaje)? Esa distinción te permite decidir cuando buscar contextos sociales para trabajar y cuando necesitas privacidad para aprender.
+**Ejercicio inmediato:** Para las tareas donde tu rendimiento fluctua dependiendo de si hay otros presentes, reflexiona: ¿para cuales de estas tareas la presencia de otros mejora tu rendimiento (tareas bien dominadas) y para cuales lo empeora (tareas en aprendizaje)? Esa distinción te permite decidir cuando buscar contextos sociales para trabajar y cuando necesitas privacidad para aprender.
 
 No existe un entorno de trabajo universalmente bueno para ti. Existe el entorno correcto para la tarea correcta.
 
@@ -55,7 +55,7 @@ Elena ha notado que la simple presencia de una camara en un espacio público cam
 
 La investigación de Robert Cialdini sobre las camaras de velocidad falsas muestra que son casi tan efectivas como las reales en reducir la velocidad de los conductores. El comportamiento cambia con la percepción de observación, independientemente de si la observación es real.
 
-**Ejercicio inmediato:** Para un comportamiento que quieres adoptar de forma más consistente, reflexiona: como podrías aumentar la sensación de observación o rendición de cuentas? No para vigilarte sino para usar el mismo mecanismo que produce cumplimiento social de forma intencional: un compañero de accountability, un registro público de compromisos, o un habito de reportar a alguien de confianza. La observación que diseñas para ti mismo puede ser más efectiva que la que viene de fuera.
+**Ejercicio inmediato:** Para un comportamiento que quieres adoptar de forma más consistente, reflexiona: ¿como podrías aumentar la sensación de observación o rendición de cuentas? No para vigilarte sino para usar el mismo mecanismo que produce cumplimiento social de forma intencional: un compañero de accountability, un registro público de compromisos, o un habito de reportar a alguien de confianza. La observación que diseñas para ti mismo puede ser más efectiva que la que viene de fuera.
 
 El comportamiento que solo tienes cuando alguien te mira no es un habito. Es una actuación.
 
@@ -83,7 +83,7 @@ Isabel administra programas de bienestar en su empresa y ha aprendido que las no
 
 La investigación de Robert Putnam sobre el capital social y sus efectos en la salud, la economía, y la democracia muestra que las comunidades con mayor capital social (medido por la participación civica, la confianza en los vecinos, y la densidad de asociaciones) tienen mejores resultados en práctica todos los indicadores de bienestar.
 
-**Ejercicio inmediato:** Reflexiona sobre tu nivel personal de contribución a la reciprocidad en tu entorno: eres la persona que da favores antes de pedirlos, o la que espera recibir antes de dar? El capital social de tu entorno inmediato (equipo, familia, comunidad) es en parte tu responsabilidad. Las pequeñas contribuciones de cada uno crean el entorno que beneficia a todos.
+**Ejercicio inmediato:** Reflexiona sobre tu nivel personal de contribución a la reciprocidad en tu entorno: ¿eres la persona que da favores antes de pedirlos, o la que espera recibir antes de dar? El capital social de tu entorno inmediato (equipo, familia, comunidad) es en parte tu responsabilidad. Las pequeñas contribuciones de cada uno crean el entorno que beneficia a todos.
 
 El entorno de confianza que no ayudas a construir tampoco podras aprovecharlo cuando lo necesites.
 
@@ -97,7 +97,7 @@ Ruben ha notado que algunas personas le dejan con más energía después de esta
 
 La investigación de Adam Kramer, Jamie Guillory, y Jeffrey Hancock sobre el contagio emocional en Facebook (el experimento ético cuestionado de 2012) muestra que la reducción experimental del contenido positivo en el feed de los usuarios (sin que ellos lo supieran) reducia la producción de contenido positivo de esos usuarios, sugiriendo contagio emocional a traves de redes sociales digitales.
 
-**Ejercicio inmediato:** Reflexiona sobre las personas con quienes pasas más tiempo en tu vida cotidiana. Para cada una, reflexiona: como te sientes emocionalmente después de pasar tiempo con esa persona? Si la respuesta sistemática es más agotado, más ansioso, o más negativo, esa persona puede ser una fuente de contagio emocional negativo que vale la pena gestionar intencionalmente (reduciendo el tiempo o estableciendo mayor distancia emocional en las interacciones).
+**Ejercicio inmediato:** Reflexiona sobre las personas con quienes pasas más tiempo en tu vida cotidiana. Para cada una, reflexiona: ¿como te sientes emocionalmente después de pasar tiempo con esa persona? Si la respuesta sistemática es más agotado, más ansioso, o más negativo, esa persona puede ser una fuente de contagio emocional negativo que vale la pena gestionar intencionalmente (reduciendo el tiempo o estableciendo mayor distancia emocional en las interacciones).
 
 Las personas con quien pasas tiempo son el entorno emocional en el que vives. No es neutral.
 
@@ -111,7 +111,7 @@ Elena ha rediseñado el espacio de trabajo de su equipo y ha observado cambios d
 
 La investigación de Ben Waber y colegas sobre los entornos de trabajo muestra que la colocación física de las personas (quien esta cerca de quien en la oficina) predice la frecuencia de comunicación mejor que la jerarquía formal o los objetivos compartidos: las personas que estan físicamente próximas se comunican más, independientemente de si su trabajo requiere esa comunicación.
 
-**Ejercicio inmediato:** Para un comportamiento de tu equipo o familia que quisieras cambiar, reflexiona: hay un cambio en el entorno físico que podría producir ese comportamiento de forma más natural? El espacio de reunión más pequeño que favorece la conversación, el lugar común que facilita el encuentro casual, la eliminación de la pantalla en la mesa del comedor. El entorno que no diseñas deliberadamente te diseña a ti.
+**Ejercicio inmediato:** Para un comportamiento de tu equipo o familia que quisieras cambiar, reflexiona: ¿hay un cambio en el entorno físico que podría producir ese comportamiento de forma más natural? El espacio de reunión más pequeño que favorece la conversación, el lugar común que facilita el encuentro casual, la eliminación de la pantalla en la mesa del comedor. El entorno que no diseñas deliberadamente te diseña a ti.
 
 El espacio que no piensas como herramienta igual trabaja para ti. Solo no sabes en que dirección.
 
@@ -125,7 +125,7 @@ Ruben llegó a una empresa nueva y entendió rápidamente que había normas no e
 
 La investigación de Karl Weick sobre el sensemaking organizacional muestra que los nuevos miembros de un grupo aprenden las normas implícitas observando los comportamientos que son recompensados o castigados socialmente (aunque esas recompensas y castigos sean sutiles: una sonrisa, un silencio, un comentario de aprobación o desaprobación).
 
-**Ejercicio inmediato:** En tu entorno de trabajo o familiar, identifica tres normas implícitas que todos siguen pero que nadie ha articulado explicitamente. Para cada una, reflexiona: esta norma produce el comportamiento que queremos en este grupo? Si la respuesta es no, la unica forma de cambiar una norma implícita es hacerla explícita y discutirla deliberadamente.
+**Ejercicio inmediato:** En tu entorno de trabajo o familiar, identifica tres normas implícitas que todos siguen pero que nadie ha articulado explicitamente. Para cada una, reflexiona: ¿esta norma produce el comportamiento que queremos en este grupo? Si la respuesta es no, la unica forma de cambiar una norma implícita es hacerla explícita y discutirla deliberadamente.
 
 La norma que nadie articuló pero todos siguen es frecuentemente la más poderosa de todas. Y la más difícil de cambiar precisamente porque nadie la ve.
 
@@ -139,7 +139,7 @@ Isabel ha llegado a entender que uno de los actos de autodeterminación más imp
 
 Esta investigación no implica determinismo social: implica que elegir el entorno social es una de las variables con mayor impacto en quien llegas a ser, más que la mayor parte de los esfuerzos de cambio individual.
 
-**Ejercicio inmediato:** Reflexiona sobre quien quieres ser en cinco años: que valores, que habitos, que nivel de rendimiento, que bienestar. Ahora reflexiona: las personas con quienes paso más tiempo actualmente modelan el camino hacía esa persona o se alejan de ella? La respuesta no siempre implica cambiar las personas (aunque a veces si) sino ser más deliberado sobre cuanto tiempo y de que tipo pasas con quien.
+**Ejercicio inmediato:** Reflexiona sobre quien quieres ser en cinco años: que valores, que habitos, que nivel de rendimiento, que bienestar. Ahora reflexiona: ¿las personas con quienes paso más tiempo actualmente modelan el camino hacía esa persona o se alejan de ella? La respuesta no siempre implica cambiar las personas (aunque a veces si) sino ser más deliberado sobre cuanto tiempo y de que tipo pasas con quien.
 
 El entorno que eliges te elige a ti. La pregunta es si lo estas eligiendo conscientemente.
 
@@ -149,11 +149,11 @@ El entorno que eliges te elige a ti. La pregunta es si lo estas eligiendo consci
 
 Elena ha llegado a entender que la relación entre el individuo y el entorno social no es unidireccional. Las personas también crean los entornos que las moldean.
 
-**El Principio de la Bidireccionalidad como Comprensión Madura de la Relación entre Persona y Situación:** Walter Mischel, cuyo trabajo sobre la interacción persona-situación es central en la psicología del siglo XX, propuso el modeló CAPS (Cognitive-Affective Processing System): el comportamiento no es determinado solo por el carácter ni solo por la situación sino por la interacción específica entre caracteristicas específicas de la persona y caracteristicas específicas de la situación.
+**El Principio de la Bidireccionalidad como Comprensión Madura de la Relación entre Persona y Situación:** Walter Mischel, cuyo trabajo sobre la interacción persona-situación es central en la psicología del siglo XX, propuso el modelo CAPS (Cognitive-Affective Processing System): el comportamiento no es determinado solo por el carácter ni solo por la situación sino por la interacción específica entre caracteristicas específicas de la persona y caracteristicas específicas de la situación.
 
 Las personas no son solo receptoras pasivas del entorno: también seleccionan sus entornos, los modifican, y evocan respuestas en los demás que refuerzan sus propias disposiciones. Las personas hostiles provocan respuestas hostiles que confirman su visión del mundo como hostil; las personas calorosas provocan respuestas calorosas que confirman su visión del mundo como acogedor.
 
-**Ejercicio inmediato:** Reflexiona sobre un patron de comportamiento que te gustaria cambiar. En lugar de preguntarte como cambiar el comportamiento directamente, reflexiona: que situaciones lo desencadenan? Que entornos lo facilitan? Que personas lo amplifican? Cambia primero el entorno que produce el comportamiento, antes de intentar cambiar el comportamiento directamente. Es mucho más efectivo.
+**Ejercicio inmediato:** Reflexiona sobre un patron de comportamiento que te gustaria cambiar. En lugar de preguntarte como cambiar el comportamiento directamente, reflexiona: ¿que situaciones lo desencadenan? ¿Que entornos lo facilitan? Que personas lo amplifican? Cambia primero el entorno que produce el comportamiento, antes de intentar cambiar el comportamiento directamente. Es mucho más efectivo.
 
 El comportamiento que intentas cambiar con fuerza de voluntad con el mismo entorno de siempre es el comportamiento que casi nunca cambia.
 

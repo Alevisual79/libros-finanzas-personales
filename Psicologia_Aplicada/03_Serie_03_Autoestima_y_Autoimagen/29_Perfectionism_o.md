@@ -27,7 +27,7 @@ El perfeccionismo se usa como cliché de autoelogio: la debilidad que en realida
 
 Lo que distingue el perfeccionismo de la excelencia no es el nivel del estandar sino la relación con el no cumplimiento: la persona orientada a la excelencia puede no alcanzar su estandar y seguir adelante con aprendizaje. La persona perfeccionista experimenta el no cumplimiento del estandar cómo una falla fundamental del yo, no solo de la actuación.
 
-**Ejercicio inmediato:** Evalua tu perfeccionismo usando la distinción de Hewitt y Flett: es principalmente autoorientado (me exijo demasiado a mi mismo), orientado a los demás (me frustro cuando los demás no alcanzan mis estandares) o prescrito socialmente (siento que los demás esperan perfección de mi)? La distinción importa porque cada tipo tiene intervención diferente.
+**Ejercicio inmediato:** Evalua tu perfeccionismo usando la distinción de Hewitt y Flett: ¿es principalmente autoorientado (me exijo demasiado a mi mismo), orientado a los demás (me frustro cuando los demás no alcanzan mis estandares) o prescrito socialmente (siento que los demás esperan perfección de mi)? La distinción importa porque cada tipo tiene intervención diferente.
 
 El perfeccionismo no es querer hacerlo bien. Es creer que si no es perfecto no es suficientemente bueno. Son cosas muy distintas.
 
@@ -41,7 +41,7 @@ Ruben cree que su perfeccionismo es responsable de la calidad de su trabajo. La 
 
 Los costes del perfeccionismo se extienden más allá del rendimiento: el perfeccionismo se asocia con mayor depresión (especialmente después de fracasos percibidos), mayor ansiedad cronica, mayor agotamiento y burnout, deterioro en las relaciones (por las demandas excesivas sobre uno mismo y los demás), y menor bienestar general. Roz Shafran, investigadora clinica de Oxford, ha documentado ademas que el perfeccionismo extremo es un factor de mantenimiento de varios trastornos (ansiedad, depresión, trastornos alimentarios) porque el mismo mecanismo que produce el perfeccionismo amplifica y mantiene estos trastornos.
 
-**Ejercicio inmediato:** Calcula el coste real de tu perfeccionismo en las últimas dos semanas: cuantas horas adicionales has dedicado a pulir trabajos más allá del punto de rendimientos decrecientes, cuantas entregas has retrasado, cuantas veces has sentido ansiedad que habrias evitado con estandares más funcionales. Ese cálculo hace visible un coste que el perfeccionismo frecuentemente oculta.
+**Ejercicio inmediato:** Calcula el coste real de tu perfeccionismo en las últimas dos semanas: cuantas horas adicionales has dedicado a pulir trabajos más allá del punto de rendimientos decrecientes, cuantas entregas has retrasado, cuantas veces has sentido ansiedad que habrías evitado con estandares más funcionales. Ese cálculo hace visible un coste que el perfeccionismo frecuentemente oculta.
 
 El perfeccionismo no te protege del fracaso. Te protege de entregar cosas imperfectas. Y esa protección tiene un precio muy alto.
 
@@ -81,7 +81,7 @@ Elena no entrega los informes tarde porque sea perezosa. Los entrega tarde porqu
 
 **El Principio de la Procrastinación como Evitación del Fracaso Anticipado:** Piers Steel, psicologo de la Universidad de Calgary y uno de los investigadores más influyentes sobre procrastinación, documenta que la procrastinación por perfeccionismo es la forma de procrastinación más ligada a la ansiedad: la persona no pospone porque no le importe sino porque le importa demasiado y el resultado imperfecto amenaza el yo. La procrastinación, en este contexto, es evitación del juicio que el resultado imperfecto podría generar.
 
-La paradoja es que la procrastinación perfeccionista frecuentemente produce resultados peores que habria producido la acción temprana (el tiempo comprimido al final fuerza más errores, produce mayor estres, y resulta en trabajos menos elaborados de los que habria producido un inició temprano con tiempo de revisión). El perfeccionismo que busca la perfección a traves de la procrastinación frecuentemente produce lo opuesto.
+La paradoja es que la procrastinación perfeccionista frecuentemente produce resultados peores que habría producido la acción temprana (el tiempo comprimido al final fuerza más errores, produce mayor estres, y resulta en trabajos menos elaborados de los que habría producido un inició temprano con tiempo de revisión). El perfeccionismo que busca la perfección a traves de la procrastinación frecuentemente produce lo opuesto.
 
 **Ejercicio inmediato:** Para una tarea que llevas posponiendo por perfeccionismo (todavia no estoy listo, necesito más preparación, no es el momento ideal), establece un inició inmediato en la forma más imperfecta posible: un borrador horrible, unos primeros párrafos sin editar, un esquema muy breve. El inició imperfecto rompe la paralisis y frecuentemente produce momentum que el esperar hasta estar listo nunca proporciona.
 

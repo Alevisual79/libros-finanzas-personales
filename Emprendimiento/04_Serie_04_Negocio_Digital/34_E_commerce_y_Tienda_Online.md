@@ -15,21 +15,21 @@
 
 ## Prólogo
 
-Lucia quiere vender los productos artesanales que hace en su tiempo libre y no sabe si montar una tienda Shopify o vender en marketplaces. Carlos ha estudiado el modeló de dropshipping y no sabe si es tan rentable cómo lo pintan en YouTube. Marcos quiere digitalizar parte de su negocio de servicios ofreciendo productos físicos asociados al servicio. Los tres necesitan entender la logica específica del e-commerce: un negocio de venta online tiene sus propias reglas, sus propias metricas, y sus propios errores que cuestan caro si no se conocen de antemano. El e-commerce no es difícil si se entiende bien. Es complicado si se improvisa.
+Lucia quiere vender los productos artesanales que hace en su tiempo libre y no sabe si montar una tienda Shopify o vender en marketplaces. Carlos ha estudiado el modelo de dropshipping y no sabe si es tan rentable cómo lo pintan en YouTube. Marcos quiere digitalizar parte de su negocio de servicios ofreciendo productos físicos asociados al servicio. Los tres necesitan entender la logica específica del e-commerce: un negocio de venta online tiene sus propias reglas, sus propias metricas, y sus propios errores que cuestan caro si no se conocen de antemano. El e-commerce no es difícil si se entiende bien. Es complicado si se improvisa.
 
 ---
 
 ## Capítulo 1: El modeló de e-commerce: los diferentes tipos y sus tradeoffs
 
-No todo e-commerce es igual. La elección del modeló determina el margen, la complejidad, y el potencial.
+No todo e-commerce es igual. La elección del modelo determina el margen, la complejidad, y el potencial.
 
 **El Principio de Los Modelos de E-Commerce como Fundamentalmente Diferentes en Sus Tradeoffs de Margen, Complejidad Operativa, y Potencial de Escalabilidad de Forma que el Modelo Correcto Depende de los Recursos, Habilidades, y Objetivos del Emprendedor:** Los modelos principales de e-commerce son: marca propia (el emprendedor crea o fabrica sus propios productos, tiene el mayor margen pero la mayor inversión inicial y el mayor riesgo de stock), dropshipping (el emprendedor vende productos de otros fabricantes que envian directamente al cliente final, sin stock pero con margen muy bajo y dependencia del proveedor), private label (el emprendedor vende un producto de fabricante que personaliza con su marca, margen medio y stock necesario), marketplaces (vender en Amazon, Etsy, o similar donde la plataforma ya tiene la demanda pero con comisiones y menor control de la relación con el cliente), y productos digitales (venta de ebooks, plantillas, o software, sin logistica pero con activo de conocimiento previo necesario).
 
 La investigación de Jungle Scout sobre los modelos de e-commerce más exitosos en Amazon muestra que el private label tiene consistentemente mayor margen y mayor sostenibilidad a largo plazo que el dropshipping, aunque requiere mayor inversión inicial.
 
-**Ejercicio inmediato:** Para elegir tu modeló de e-commerce, evalua cuatro criterios: cuanto capital tienes disponible para inversión inicial en stock (el dropshipping necesita muy poco, la marca propia puede necesitar diez veces más), cuanto tiempo puedes dedicar a la gestión operativa (logistica, atención al cliente, gestión de stock), cuanto margen necesitas para que el negocio sea rentable (el dropshipping tipicamente tiene margenes del 10-20%; la marca propia puede tener del 50-80%), y cuanto control quieres sobre la relación con el cliente (los marketplaces limitan ese control). El modeló que encaja con esos cuatro criterios es el correcto para tu situación.
+**Ejercicio inmediato:** Para elegir tu modelo de e-commerce, evalua cuatro criterios: cuanto capital tienes disponible para inversión inicial en stock (el dropshipping necesita muy poco, la marca propia puede necesitar diez veces más), cuanto tiempo puedes dedicar a la gestión operativa (logistica, atención al cliente, gestión de stock), cuanto margen necesitas para que el negocio sea rentable (el dropshipping tipicamente tiene margenes del 10-20%; la marca propia puede tener del 50-80%), y cuanto control quieres sobre la relación con el cliente (los marketplaces limitan ese control). El modelo que encaja con esos cuatro criterios es el correcto para tu situación.
 
-El modeló de e-commerce con el mayor margen potencial no es siempre el que puedes ejecutar mejor con tus recursos y habilidades actuales.
+El modelo de e-commerce con el mayor margen potencial no es siempre el que puedes ejecutar mejor con tus recursos y habilidades actuales.
 
 ---
 
@@ -97,7 +97,7 @@ Carlos ha aprendido que la logistica es el componente que más frecuentemente su
 
 Los modelos de logistica principales son: envió propio desde casa u oficina (el más económico para volumenes bajos pero el más intensivo en tiempo), fulfillment center (almacen y logistica externalizada como Amazon FBA o 3PL, mayor coste fijo pero sin tiempo operativo del emprendedor), y dropshipping (el proveedor envia directamente al cliente, sin stock pero con menor control de la calidad y el tiempo de entrega).
 
-**Ejercicio inmediato:** Para tu modeló de e-commerce actual o planificado, calcula el coste real de logistica por pedido: el coste de embalaje, el coste del envió (con el proveedor que usaras), el tiempo del emprendedor en preparar y enviar el pedido (valorado a su tarifa horaria), y el coste del seguro si aplica. Ese coste real por pedido incluido en el margen total te dirá si el precio actual es sostenible o si necesitas ajustar el precio, negociar mejores tarifas con el proveedor de logistica, o cambiar el modeló de fulfillment.
+**Ejercicio inmediato:** Para tu modelo de e-commerce actual o planificado, calcula el coste real de logistica por pedido: el coste de embalaje, el coste del envió (con el proveedor que usaras), el tiempo del emprendedor en preparar y enviar el pedido (valorado a su tarifa horaria), y el coste del seguro si aplica. Ese coste real por pedido incluido en el margen total te dirá si el precio actual es sostenible o si necesitas ajustar el precio, negociar mejores tarifas con el proveedor de logistica, o cambiar el modelo de fulfillment.
 
 El envió que cuesta más de lo esperado destruye el margen que el emprendedor calculo antes de incluirlo.
 
@@ -123,9 +123,9 @@ Lucia ha aprendido las cuatro metricas fundamentales del e-commerce que indican 
 
 **El Principio de Las Metricas del E-Commerce como las Cuatro Metricas Fundamentales que Juntas Indican si El Negocio Es Rentable y Escalable: La Tasa de Conversión, El Coste de Adquisición del Cliente, El Valor de Vida del Cliente, y El Margen Neto:** Las metricas fundamentales del e-commerce son: tasa de conversión (porcentaje de visitantes que compran, una buena tasa es del 1-3% para tiendas propias, más alta en marketplaces), CAC (coste de adquisición del cliente, cuanto cuesta conseguir un comprador a traves de los canales de marketing), LTV (lifetime value o valor de vida del cliente, cuanto revenue total genera un cliente durante toda la relación con el negocio), y margen neto (revenue total menos todos los costes, incluyendo producto, logistica, plataforma, y marketing).
 
-La regla de sostenibilidad del e-commerce: el LTV debe ser al menos tres veces el CAC. Si cuesta veinte euros conseguir un cliente y ese cliente solo compra una vez por diez euros, el modeló no funciona. Si el cliente compra tres veces al año por veinticinco euros cada vez, el LTV es setenta y cinco euros y el ratio LTV/CAC es 3.75, que es sostenible.
+La regla de sostenibilidad del e-commerce: el LTV debe ser al menos tres veces el CAC. Si cuesta veinte euros conseguir un cliente y ese cliente solo compra una vez por diez euros, el modelo no funciona. Si el cliente compra tres veces al año por veinticinco euros cada vez, el LTV es setenta y cinco euros y el ratio LTV/CAC es 3.75, que es sostenible.
 
-**Ejercicio inmediato:** Para tu tienda online, calcula las cuatro metricas del último mes: visitas totales y conversión rate (ventas divididas entre visitas), CAC (presupuesto de marketing dividido entre número de nuevos compradores), LTV estimado (ticket promedio por número promedio de compras por año), y margen neto (revenue menos todos los costes). Si el ratio LTV/CAC es inferior a 3, el negocio no es sostenible sin cambios en el modeló de adquisición o en la estrategia de retención.
+**Ejercicio inmediato:** Para tu tienda online, calcula las cuatro metricas del último mes: visitas totales y conversión rate (ventas divididas entre visitas), CAC (presupuesto de marketing dividido entre número de nuevos compradores), LTV estimado (ticket promedio por número promedio de compras por año), y margen neto (revenue menos todos los costes). Si el ratio LTV/CAC es inferior a 3, el negocio no es sostenible sin cambios en el modelo de adquisición o en la estrategia de retención.
 
 Las metricas del e-commerce que no calculas no existen para tu negocio. Y los problemas que no ves no puedes resolverlos.
 
@@ -153,7 +153,7 @@ Marcos ha construido una tienda online que genera revenue de forma creciente y p
 
 La investigación de BigCommerce sobre las tiendas online más exitosas muestra que tienen en común la optimización continua: mejoran sistemáticamente cada componente del negocio basandose en datos, en lugar de hacerlo de forma ad hoc. Esa cultura de optimización continua es lo que produce crecimiento acumulativo.
 
-**Ejercicio inmediato:** Establece un ciclo mensual de optimización para tu tienda online con tres preguntas: cual fue el mayor cuello de botella del embudo este mes (trafico, conversión, o retención)? Que cambio específico hare para mejorarlo el próximo mes? Como medire el impacto de ese cambio? Un solo cambio bien ejecutado por mes, orientado al cuello de botella principal, produce una mejora acumulativa que transforma el negocio en dos o tres años.
+**Ejercicio inmediato:** Establece un ciclo mensual de optimización para tu tienda online con tres preguntas: ¿cual fue el mayor cuello de botella del embudo este mes (trafico, conversión, o retención)? ¿Que cambio específico hare para mejorarlo el próximo mes? Como medire el impacto de ese cambio? Un solo cambio bien ejecutado por mes, orientado al cuello de botella principal, produce una mejora acumulativa que transforma el negocio en dos o tres años.
 
 El e-commerce que optimiza un componente por mes durante un año no tiene el mismo negocio que al principio. Tiene un negocio doce veces mejorado.
 

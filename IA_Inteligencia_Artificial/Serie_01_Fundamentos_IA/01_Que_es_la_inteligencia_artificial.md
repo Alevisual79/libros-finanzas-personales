@@ -100,11 +100,11 @@ El ciclo básico del machine learning tiene tres componentes: datos, modeló y f
 
 **Los datos** son los ejemplos de los que el sistema aprende. Para un clasificador de imágenes de perros y gatos, los datos son miles de imágenes etiquetadas como "perro" o "gato".
 
-**El modeló** es la estructura matemática que procesa los datos. Al principio, sus parámetros son aleatorios: el modeló produce predicciones incorrectas.
+**El modelo** es la estructura matemática que procesa los datos. Al principio, sus parámetros son aleatorios: el modelo produce predicciones incorrectas.
 
-**La función de pérdida** mide qué tan incorrectas son las predicciones. El algoritmo de entrenamiento ajusta los parámetros del modeló para minimizar esa pérdida, iterativamente, durante millones de ejemplos.
+**La función de pérdida** mide qué tan incorrectas son las predicciones. El algoritmo de entrenamiento ajusta los parámetros del modelo para minimizar esa pérdida, iterativamente, durante millones de ejemplos.
 
-Al final del entrenamiento, el modeló ha "aprendido" los patrones en los datos que son útiles para hacer la tarea. No sabe que "aprende": ejecuta operaciones matemáticas. Pero el resultado se parece mucho al aprendizaje.
+Al final del entrenamiento, el modelo ha "aprendido" los patrones en los datos que son útiles para hacer la tarea. No sabe que "aprende": ejecuta operaciones matemáticas. Pero el resultado se parece mucho al aprendizaje.
 
 ---
 

@@ -162,7 +162,7 @@ En España, el alta hospitalaria tras el parto vaginal es de 48-72 horas, y tras
 
 Hay un "agujero negro" de 5-6 semanas en que la mujer está en casa con un bebé nuevo, posiblemente con sutura perineal, con lactancia que está aprendiendo, con el baby blues o la depresión emergente, sin ningún contacto con el sistema.
 
-**El modeló de algunas comunidades:**
+**El modelo de algunas comunidades:**
 La visita domiciliaria de la matrona en los primeros días posparto (existente en algunas comunidades, en expansión) es la intervención más efectiva para el posparto. Detecta problemas de lactancia, valora la salud mental materna y proporciona apoyo en el momento más vulnerable.
 
 ---

@@ -25,7 +25,7 @@ La toxicidad en una amistad no se define por un solo evento dramatico, sino por 
 
 **El Principio del Patron sobre el Evento:** Una amistad toxica no se define por un conflicto puntual (que puede ocurrir en cualquier amistad saludable) sino por un patron repetido de dinámicas que generan daño emocional consistente: críticas disfrazadas de honestidad, falta reciproca de apoyo, manipulación, o desequilibrio cronico de quien da y quien recibe. El criterio más simple y confiable es el efecto acumulado: como te sientes consistentemente después de pasar tiempo con esa persona.
 
-**Ejercicio inmediato:** Para cada una de tus amistades cercanas, pregunta honestamente: como me siento, en promedio, después de pasar tiempo con esta persona? Mejor, igual, o peor que antes? La respuesta consistente, no la excepcional, es la información relevante.
+**Ejercicio inmediato:** Para cada una de tus amistades cercanas, pregunta honestamente: ¿como me siento, en promedio, después de pasar tiempo con esta persona? ¿Mejor, igual, o peor que antes? La respuesta consistente, no la excepcional, es la información relevante.
 
 Una amistad saludable te deja, en promedio, mejor de lo que estabas. Una toxica te deja, en promedio, peor.
 
@@ -37,7 +37,7 @@ Uno de los patrones toxicos más comunes en las amistades es la asimetria cronic
 
 **El Principio de la Reciprocidad Desequilibrada:** Las amistades saludables tienen un flujo bidireccional de apoyo a lo largo del tiempo, aunque no necesariamente equilibrado en cada momento específico. Las amistades toxicas de este tipo muestran un patron persistente y unidireccional: una persona siempre en crisis que necesita apoyo, y otra siempre disponible para darlo, sin que la balanza se equilibre nunca, ni siquiera en los momentos en que quien siempre da también necesitaria recibir.
 
-**Ejercicio inmediato:** Evalua una amistad en la que sientas que dasimas más de lo que recibes consistentemente. Cuando fue la última vez que esa persona te ofreció apoyo significativo sin que tu lo solicitaras explicitamente?
+**Ejercicio inmediato:** Evalua una amistad en la que sientas que dasimas más de lo que recibes consistentemente. ¿Cuando fue la última vez que esa persona te ofreció apoyo significativo sin que tu lo solicitaras explicitamente?
 
 Una amistad que solo fluye en una dirección no es una amistad equilibrada. Es un servicio de apoyo no remunerado.
 
@@ -49,7 +49,7 @@ Algunas personas justifican comentarios consistentemente hirientes hacía sus am
 
 **El Principio de la Honestidad Genuina vs la Crueldad Justificada:** La honestidad genuina entre amigos se caracteriza por ser ocasional, específica, constructiva y motivada por el bienestar del otro. La crueldad disfrazada de honestidad tiende a ser frecuente, generalizada (sobre el carácter, no sobre comportamientos específicos), y deja a quien la recibe sintiendose disminuido en lugar de informado de forma útil.
 
-**Ejercicio inmediato:** Si tienes un amigo que frecuentemente justifica comentarios hirientes como honestidad, evalua el patron: la crítica es ocasional y específica, o frecuente y generalizada? Te ayuda a mejorar algo concreto, o simplemente te hace sentir mal?
+**Ejercicio inmediato:** Si tienes un amigo que frecuentemente justifica comentarios hirientes como honestidad, evalua el patron: ¿la crítica es ocasional y específica, o frecuente y generalizada? ¿Te ayuda a mejorar algo concreto, o simplemente te hace sentir mal?
 
 La honestidad real te da algo útil. La crueldad disfrazada de honestidad solo te hace sentir pequeño.
 

@@ -27,7 +27,7 @@ Entender la logica del sistema de publicidad digital antes de gastar un euro es 
 
 Eso significa que un anuncio de alta calidad (relevante para la audiencia, con buen CTR, y que lleva a una landing page que convierte bien) puede ganar subastas a menor coste que un anuncio de baja calidad con mayor puja. La calidad del anuncio es competitiva en el mercado de la atención.
 
-**Ejercicio inmediato:** Antes de lanzar tu próxima campaña de publicidad digital, define con precisión las cuatro variables que determinan el resultado: el objetivo de la campaña (que quieres que haga el usuario: comprar, suscribirse, dejar sus datos?), la audiencia objetivo (quien específicamente, con que intereses, caracteristicas demograficas, y comportamientos?), el anuncio (que dices, cómo lo dices, y que imagen o video usas?), y la landing page (a donde envias al usuario después del clic y que le pides que haga?). Si cualquiera de las cuatro variables no esta bien definida, la campaña tendrá problemas independientemente del presupuesto.
+**Ejercicio inmediato:** Antes de lanzar tu próxima campaña de publicidad digital, define con precisión las cuatro variables que determinan el resultado: el objetivo de la campaña (que quieres que haga el usuario: ¿comprar, suscribirse, dejar sus datos?), la audiencia objetivo (quien específicamente, con que intereses, caracteristicas demograficas, y comportamientos?), el anuncio (que dices, cómo lo dices, y que imagen o video usas?), y la landing page (a donde envias al usuario después del clic y que le pides que haga?). Si cualquiera de las cuatro variables no esta bien definida, la campaña tendrá problemas independientemente del presupuesto.
 
 El presupuesto de publicidad digital gastado sin las cuatro variables bien definidas es dinero que enseña poco y produce poco.
 
@@ -139,7 +139,7 @@ Carlos ha identificado el canal de publicidad digital correcto para su tipo espe
 
 La investigación de eMarketer sobre el ROAS por canal muestra que Google Search tiene el mayor ROAS promedio seguido de Google Shopping, Meta Ads, y LinkedIn Ads (variable pero con mayor lifetime value de cliente en B2B).
 
-**Ejercicio inmediato:** Para tu negocio específico, responde estas tres preguntas para identificar el canal prioritario: tus clientes buscan activamente lo que ofreces en Google (si la respuesta es si, Google Search Ads)?, puedes describir a tu cliente ideal con criterios demograficos e intereses específicos y es B2C (si la respuesta es si, Meta Ads)?, y tu cliente ideal es un profesional con un cargo específico en una empresa (si la respuesta es si, LinkedIn Ads)? El canal que encaja con la respuesta es el que tiene mayor probabilidad de ser rentable para tu tipo de negocio.
+**Ejercicio inmediato:** Para tu negocio específico, responde estas tres preguntas para identificar el canal prioritario: ¿tus clientes buscan activamente lo que ofreces en Google (si la respuesta es si, Google Search Ads)?, puedes describir a tu cliente ideal con criterios demograficos e intereses específicos y es B2C (si la respuesta es si, Meta Ads)?, y tu cliente ideal es un profesional con un cargo específico en una empresa (si la respuesta es si, LinkedIn Ads)? El canal que encaja con la respuesta es el que tiene mayor probabilidad de ser rentable para tu tipo de negocio.
 
 La publicidad digital en el canal equivocado no es cuestion de presupuesto. Es cuestion de que el canal correcto existe para tu tipo de negocio.
 

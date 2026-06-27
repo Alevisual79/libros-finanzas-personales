@@ -91,7 +91,7 @@ Hay personas en tu vida que importan pero a las que hace meses o años que no de
 
 Las relaciones que se descuidan no mueren de golpe. Se deterioran lentamente. La frecuencia del contacto disminuye. La profundidad de las conversaciones se reduce. La sensación de conocerse mutuamente se va diluyendo. Hasta que un dia te das cuenta de que esa persona que fue importante en tu vida es ahora un conocido con historia compartida.
 
-**Ejercicio inmediato:** Identifica tres personas de tu mapa a las que llevas tiempo sin dar atención real. No mensajes de cumpleanos. Atención real. Elige una y ponla en contacto esta semana con una propuesta concreta: quedamos el jueves, te llamó el martes, que tal si comemos?
+**Ejercicio inmediato:** Identifica tres personas de tu mapa a las que llevas tiempo sin dar atención real. No mensajes de cumpleanos. Atención real. Elige una y ponla en contacto esta semana con una propuesta concreta: ¿quedamos el jueves, te llamó el martes, que tal si comemos?
 
 Las relaciones que descuidas no te avisan. Simplemente se van.
 
@@ -119,7 +119,7 @@ Si tu mapa relacional actual es el retrato de lo que tienes, el mapa de relacion
 
 Los estudios sobre el desarrollo de amistades adultas de William Rawlins muestran que las amistades adultas son significativamente más difíciles de iniciar y mantener que las de la infancia y la adolescencia porque requieren iniciativa deliberada. No ocurren en el contexto de instituciones compartidas cómo la escuela. Tienen que elegirse y mantenerse activamente.
 
-**Ejercicio inmediato:** Dibuja el mapa relacional que quieres tener en cinco años. Que nombres estan en el circulo intimo? Hay nombres nuevos? Hay nombres que ya no estan? Que tendría que cambiar en tu inversión relacional actual para que ese mapa se vuelva real?
+**Ejercicio inmediato:** Dibuja el mapa relacional que quieres tener en cinco años. ¿Que nombres estan en el circulo intimo? ¿Hay nombres nuevos? Hay nombres que ya no estan? ¿Que tendría que cambiar en tu inversión relacional actual para que ese mapa se vuelva real?
 
 El mapa de relaciones que quieres en cinco años empieza a construirse hoy.
 
@@ -133,7 +133,7 @@ A veces las relaciones no terminan. Se quedan. Por costumbre, por culpa, por no 
 
 Robert Weiss estudio las terminaciones de relaciones de amistad y encontró que la mayoría de amistades no terminan con un conflicto explícito sino con un gradual alejamiento que ninguno de los dos aborda directamente. A veces eso es lo más honesto. Otras veces es una evitación que deja a ambos en una zona gris incomoda.
 
-**Ejercicio inmediato:** Identifica una relación en tu mapa que mantenes más por inercia o culpa que por elección real. No tienes que hacer nada todavia. Solo preguntate: si pudiera diseñar mi vida relacional desde cero, incluiria esta relación? La respuesta honesta a esa pregunta es información importante.
+**Ejercicio inmediato:** Identifica una relación en tu mapa que mantenes más por inercia o culpa que por elección real. No tienes que hacer nada todavia. Solo preguntate: ¿si pudiera diseñar mi vida relacional desde cero, incluiria esta relación? La respuesta honesta a esa pregunta es información importante.
 
 Dejar ir una relación que ya no tiene sentido no es crueldad. Es honestidad hacía ti mismo y hacía el otro.
 
@@ -147,7 +147,7 @@ Las relaciones nuevas no crecen en un jardin lleno de maleza. Para qué entren p
 
 Las investigaciones sobre la formación de amistades adultas de Julianne Holt-Lunstad muestran que los adultos forman nuevas amistades profundas con mayor facilidad cuando hay un contexto de repetición sin presión: actividades regulares, grupos de interés compartido, entornos donde el contacto ocurre de forma natural y repetida sin que ninguno de los dos tenga que hacer un esfuerzo especial de iniciativa.
 
-**Ejercicio inmediato:** Identifica un contexto en tu vida actual que podría generar relaciones nuevas si le prestaras más atención: un grupo, una actividad, un entorno de trabajo. Que podría hacer para estar más presente y abierto en ese contexto?
+**Ejercicio inmediato:** Identifica un contexto en tu vida actual que podría generar relaciones nuevas si le prestaras más atención: ¿un grupo, una actividad, un entorno de trabajo. ¿Que podría hacer para estar más presente y abierto en ese contexto?
 
 Las relaciones nuevas no tocan a la puerta. Aparecen en los espacios que dejas para ellas.
 

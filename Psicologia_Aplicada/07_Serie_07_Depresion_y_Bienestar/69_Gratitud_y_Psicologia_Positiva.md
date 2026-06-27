@@ -69,7 +69,7 @@ Isabel ha estado en terapia durante años trabajando en reducir el sufrimiento. 
 
 Las intervenciones de psicología positiva con mayor evidencia incluyen: la práctica de gratitud (Emmons y McCullough), el uso de las fortalezas de carácter (Peterson y Seligman), la amabilidad activa (Lyubomirsky), las intervenciones de esperanza (Snyder), y la práctica de la bondad y la compasión (Neff).
 
-**Ejercicio inmediato:** Accede al inventario de fortalezas de carácter VIA (Via Institute on Character) en VIAcharacter.org (es gratuito y tiene versión en español). Completa el cuestionario y lee las cinco fortalezas que más te caracterizan. Reflexiona: en que áreas de tu vida usas esas fortalezas? Donde podrías usarlas más?
+**Ejercicio inmediato:** Accede al inventario de fortalezas de carácter VIA (Via Institute on Character) en VIAcharacter.org (es gratuito y tiene versión en español). Completa el cuestionario y lee las cinco fortalezas que más te caracterizan. Reflexiona: ¿en que áreas de tu vida usas esas fortalezas? ¿Donde podrías usarlas más?
 
 La psicología que solo elimina lo que esta mal deja un espacio vacio. La que ademas construye lo que esta bien construye una vida.
 
@@ -97,7 +97,7 @@ Elena tiende al pesimismo y lo justifica como realismo. La investigación sobre 
 
 La investigación de Shelley Taylor sobre el optimismo realista muestra que las ilusiones levemente positivas sobre las propias capacidades y el propio futuro (ilusiones que no son falsedades sino sesgos hacía lo positivo dentro de lo razonable) se asocian con mejor salud mental y física que la visión excesivamente realista de la realidad.
 
-**Ejercicio inmediato:** Para la situación más pesimista que tienes en este momento (donde pronosticas el peor resultado), práctica el análisis de estilo explicativo optimista: es permanente (siempre será asi) o temporal (esta vez, en este momento)? Es pervasivo (afecta a todo) o específico (solo a esta área)? Es personal (es por algo que soy o hago) o externo (hay factores fuera de mi control)? Reformula la situación con el estilo explicativo optimista, sin negar los hechos.
+**Ejercicio inmediato:** Para la situación más pesimista que tienes en este momento (donde pronosticas el peor resultado), práctica el análisis de estilo explicativo optimista: ¿es permanente (siempre será asi) o temporal (esta vez, en este momento)? ¿Es pervasivo (afecta a todo) o específico (solo a esta área)? Es personal (es por algo que soy o hago) o externo (hay factores fuera de mi control)? Reformula la situación con el estilo explicativo optimista, sin negar los hechos.
 
 El optimismo que se puede argumentar es más duradero que el que simplemente se declara.
 

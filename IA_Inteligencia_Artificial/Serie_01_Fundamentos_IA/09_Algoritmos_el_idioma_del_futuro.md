@@ -17,7 +17,7 @@
 
 Rubén no sabía que un algoritmo había decidido que no vería la oferta de trabajo que cambio la carrera de su amigo. El algoritmo de LinkedIn consideró que su perfil no encajaba con los parámetros de búsqueda del reclutador.
 
-Tampoco sabía que el interés que pagaba por su tarjeta de crédito era el resultado de un modeló de riesgo crediticio entrenado en millones de historiales. O que la ruta que su GPS eligió esa mañana fue calculada por un algoritmo que balanceó tiempo, distancia, consumo y datos de tráfico en tiempo real.
+Tampoco sabía que el interés que pagaba por su tarjeta de crédito era el resultado de un modelo de riesgo crediticio entrenado en millones de historiales. O que la ruta que su GPS eligió esa mañana fue calculada por un algoritmo que balanceó tiempo, distancia, consumo y datos de tráfico en tiempo real.
 
 Los algoritmos toman decisiones que afectan nuestras vidas constantemente. La mayoría de las personas no sabe que ocurre, mucho menos cómo.
 
@@ -101,9 +101,9 @@ Uno de los problemas más serios de los algoritmos de IA modernos es su opacidad
 
 Los modelos de deep learning con miles de millones de parámetros producen outputs sin que sea posible explicar paso a paso por qué tomaron esa decisión. Son cajas negras.
 
-Cuando un banco rechaza una solicitud de préstamo basándose en un modeló de riesgo de este tipo, el solicitante tiene derecho a saber por qué fue rechazado. Pero el banco puede no ser capaz de explicarlo de forma comprensible.
+Cuando un banco rechaza una solicitud de préstamo basándose en un modelo de riesgo de este tipo, el solicitante tiene derecho a saber por qué fue rechazado. Pero el banco puede no ser capaz de explicarlo de forma comprensible.
 
-El campo de la **explicabilidad de la IA** (XAI, Explainable AI) trabaja en técnicas para hacer los modelos más interpretables: LIME, SHAP, y otros métodos que aproximan cómo el modeló llegó a una decisión específica.
+El campo de la **explicabilidad de la IA** (XAI, Explainable AI) trabaja en técnicas para hacer los modelos más interpretables: LIME, SHAP, y otros métodos que aproximan cómo el modelo llegó a una decisión específica.
 
 El Reglamento General de Protección de Datos europeo (GDPR) establece el "derecho a la explicación" para decisiones automatizadas que afectan significativamente a las personas. Su implementación práctica es todavía inconsistente.
 

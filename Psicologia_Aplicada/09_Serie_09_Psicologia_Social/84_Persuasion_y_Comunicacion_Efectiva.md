@@ -23,11 +23,11 @@ Ruben tiene buenas ideas pero le cuesta que las personas con poder de decisión 
 
 Persuadir no es engañar. Pero el límite entre los dos merece ser pensado con cuidado.
 
-**El Principio de la Persuasión Etica como Comunicación que Sirve Intereses Reales del Interlocutor:** Richard Petty y John Cacioppo, en su modeló de elaboración probabilistica (ELM), distinguen dos rutas de la persuasión: la ruta central (que procesa los argumentos con cuidado y produce cambios de actitud duraderos basados en la evaluación de la calidad de los argumentos) y la ruta periferica (que usa atajos heuristicos cómo la credibilidad del emisor, el número de argumentos, o el atractivo del mensaje, produciendo cambios de actitud menos profundos y menos duraderos).
+**El Principio de la Persuasión Etica como Comunicación que Sirve Intereses Reales del Interlocutor:** Richard Petty y John Cacioppo, en su modelo de elaboración probabilistica (ELM), distinguen dos rutas de la persuasión: la ruta central (que procesa los argumentos con cuidado y produce cambios de actitud duraderos basados en la evaluación de la calidad de los argumentos) y la ruta periferica (que usa atajos heuristicos cómo la credibilidad del emisor, el número de argumentos, o el atractivo del mensaje, produciendo cambios de actitud menos profundos y menos duraderos).
 
 La persuasión ética opera preferentemente por la ruta central: proporciona argumentos de calidad que el interlocutor puede evaluar. La manipulación opera preferentemente por la ruta periferica: produce cambio de actitud a traves de atajos que evitan la evaluación crítica.
 
-**Ejercicio inmediato:** Para la próxima vez que quieras persuadir a alguien de algo, reflexiona: los argumentos que voy a usar resisten el escrutinio crítico? Si la respuesta es si, estas usando la ruta central. Si los argumentos son validos, la persuasión es legitima. Si son validos pero el interlocutor no los recibe bien, el problema es de comunicación, no de calidad de los argumentos.
+**Ejercicio inmediato:** Para la próxima vez que quieras persuadir a alguien de algo, reflexiona: ¿los argumentos que voy a usar resisten el escrutinio crítico? Si la respuesta es si, estas usando la ruta central. Si los argumentos son validos, la persuasión es legitima. Si son validos pero el interlocutor no los recibe bien, el problema es de comunicación, no de calidad de los argumentos.
 
 La persuasión que no resiste el escrutinio del que intentas persuadir ya tiene su nombre. No es persuasión.
 
@@ -41,7 +41,7 @@ Elena ha aprendido a separar los cuatro elementos que determinan si una comunica
 
 La investigación de George Lakoff sobre los marcos cognitivos muestra que las personas entienden los mensajes a traves de los marcos mentales preexistentes: un mismo hecho puede ser enmarcado de formas que lo hacen aceptable o inaceptable dependiendo de que marcó activa en el receptor.
 
-**Ejercicio inmediato:** Para tu próxima comunicación importante (presentación, propuesta, conversación difícil), identifica el tipo de procesamiento preferido de tu interlocutor principal: es una persona de datos (le gustan los números y la evidencia), de narrativa (aprende a traves de ejemplos y casos), de relaciones (le importa el impacto en las personas), o de valores (le importa si la propuesta es coherente con sus principios)? Adapta el formato y el orden de tus argumentos a ese tipo de procesamiento.
+**Ejercicio inmediato:** Para tu próxima comunicación importante (presentación, propuesta, conversación difícil), identifica el tipo de procesamiento preferido de tu interlocutor principal: ¿es una persona de datos (le gustan los números y la evidencia), de narrativa (aprende a traves de ejemplos y casos), de relaciones (le importa el impacto en las personas), o de valores (le importa si la propuesta es coherente con sus principios)? Adapta el formato y el orden de tus argumentos a ese tipo de procesamiento.
 
 El mensaje perfecto que no encaja con la forma en que tu interlocutor procesa la información es un mensaje perdido.
 
@@ -111,7 +111,7 @@ Isabel aprende en cada negociación difícil que las objeciones no son el fin de
 
 Cuando alguien objeta a una propuesta, la objeción es frecuentemente una posición (esto no funciona porque X) que cubre un interés (necesito que el proceso sea predecible/que no ponga en riesgo mi área/que me de control sobre Y). Responder a la posición sin entender el interés subyacente produce argumentación improductiva.
 
-**Ejercicio inmediato:** En la próxima conversación donde recibas una objeción fuerte, práctica la exploración del interés detras de la posición: en lugar de responder a la objeción directamente, pregunta: que es lo que te preocupa de esta propuesta? o que necesitaria tener para que esto funcionara desde tu perspectiva? Esas preguntas revelan el interés real que la posición cubre.
+**Ejercicio inmediato:** En la próxima conversación donde recibas una objeción fuerte, práctica la exploración del interés detras de la posición: en lugar de responder a la objeción directamente, pregunta: ¿que es lo que te preocupa de esta propuesta? o que necesitaria tener para que esto funcionara desde tu perspectiva? Esas preguntas revelan el interés real que la posición cubre.
 
 La objeción que atacas frontalmente se defiende. La que explorar con curiosidad se comprende.
 
@@ -125,7 +125,7 @@ Ruben ha aprendido que puede tener el argumento correcto y perder la conversaci�
 
 La investigación de Paul Ekman sobre las microexpresiones muestra que las personas detectan inconsistencias entre el mensaje verbal y el no verbal de forma automática, produciendo desconfianza aunque no puedan identificar explicitamente la fuente de esa desconfianza.
 
-**Ejercicio inmediato:** En tu próxima presentación o conversación importante, graba la parte no verbal de tu preparación (si es posible) o práctica frente a un espejo. Observa específicamente: hay congruencia entre lo que dices y tu postura, contacto visual, y tono de voz? Las incongruencias que no ves en ti mismo las sienten los demás antes de que las detectes.
+**Ejercicio inmediato:** En tu próxima presentación o conversación importante, graba la parte no verbal de tu preparación (si es posible) o práctica frente a un espejo. Observa específicamente: ¿hay congruencia entre lo que dices y tu postura, contacto visual, y tono de voz? Las incongruencias que no ves en ti mismo las sienten los demás antes de que las detectes.
 
 El argumento que tu cuerpo no apoya llega debilitado aunque las palabras sean perfectas.
 
@@ -139,7 +139,7 @@ Elena tiene conversaciones pendientes que ha estado evitando porque no sabe como
 
 Las conversaciones difíciles que se postergan generalmente empeoran porque los hechos se acumulan, las emociones crecen, y la identidad del otro se fija en una posición que cada vez es más difícil de revisar. El coste de iniciarlas generalmente es menor que el coste de postergarlas.
 
-**Ejercicio inmediato:** Para la conversación difícil que más has postergado, reflexiona: que es lo peor que podría pasar si la inicias esta semana? Que es lo peor que podría pasar si no la inicias en los próximos seis meses? La comparación de los costes frecuentemente muestra que el coste de la iniciación es menor que el coste del aplazamiento indefinido.
+**Ejercicio inmediato:** Para la conversación difícil que más has postergado, reflexiona: ¿que es lo peor que podría pasar si la inicias esta semana? ¿Que es lo peor que podría pasar si no la inicias en los próximos seis meses? La comparación de los costes frecuentemente muestra que el coste de la iniciación es menor que el coste del aplazamiento indefinido.
 
 La conversación que temes tener nunca es tan mala cómo la que te imaginas. La que no tienes siempre es peor de lo que calculabas.
 

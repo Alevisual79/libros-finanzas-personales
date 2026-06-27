@@ -121,7 +121,7 @@ Tener claridad sobre las propias necesidades y expectativas antes de entrar en u
 
 **El Principio del Autoconocimiento Previo:** Las personas que entran en relaciones casuales con mayor claridad previa sobre sus propias necesidades (su tolerancia real a la ambiguedad, su tendencia a desarrollar apego, sus límites emocionales) navegan estas relaciones de forma más saludable que las que entran sin esa reflexión previa, descubriendo reactivamente sus límites solo después de haberlos sobrepasado.
 
-**Ejercicio inmediato:** Antes de iniciar o continuar una relación casual, reflexiona honestamente sobre tu propia historia con este tipo de configuraciones: tiendes a desarrollar apego más allá de lo acordado? Tienes límites emocionales claros que necesitas proteger?
+**Ejercicio inmediato:** Antes de iniciar o continuar una relación casual, reflexiona honestamente sobre tu propia historia con este tipo de configuraciones: ¿tiendes a desarrollar apego más allá de lo acordado? ¿Tienes límites emocionales claros que necesitas proteger?
 
 Conocer tus propios límites antes de entrar en una relación casual te permite navegarla con más claridad que descubrirlos después de haberlos sobrepasado.
 

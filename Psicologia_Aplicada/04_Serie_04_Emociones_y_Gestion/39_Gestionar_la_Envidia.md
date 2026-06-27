@@ -41,7 +41,7 @@ Elena experimenta envidia de dos formas muy diferentes: a veces la motiva a trab
 
 Las condiciones que determinan cual emerge incluyen: la percepción de que la ventaja del otro es merecida (tiende a producir envidia benigna) o inmerecida (tiende a producir envidia maligna), la similitud percibida con el envidiado (mayor similitud produce mayor envidia, frecuentemente maligna), y la dimensión en que se compara.
 
-**Ejercicio inmediato:** Para la envidia más intensa que experimentes actualmente, clasifica: es principalmente benigna (deseas llegar donde el otro ha llegado) o maligna (deseas que el otro perdiera lo que tiene)? Si es maligna, reflexiona sobre la percepción de merecimiento: crees que el otro no merecia lo que consiguio? Examina si hay evidencia objetiva para esa evaluación o si el juicio esta siendo generado por la envidia misma.
+**Ejercicio inmediato:** Para la envidia más intensa que experimentes actualmente, clasifica: ¿es principalmente benigna (deseas llegar donde el otro ha llegado) o maligna (deseas que el otro perdiera lo que tiene)? Si es maligna, reflexiona sobre la percepción de merecimiento: ¿crees que el otro no merecia lo que consiguio? Examina si hay evidencia objetiva para esa evaluación o si el juicio esta siendo generado por la envidia misma.
 
 La envidia que quiere elevarte es un recurso. La que quiere hundir al otro es un coste. Saber cual tienes es saber que hacer con ella.
 
@@ -69,7 +69,7 @@ Isabel suprime la envidia en lugar de procesarla. Ruben a veces la alimenta rumi
 
 La rumia sobre la envidia tiene el coste adicional de mantener la activación emocional negativa sin producir ninguna acción útil. Brad Bushman documenta que rumiar sobre la emoción negativa la amplifica en lugar de procesarla. La via alternativa es el reconocimiento y la transformación: reconocer la envidia como señal de deseo, identificar el deseo específico, y usar ese deseo como combustible para la acción.
 
-**Ejercicio inmediato:** Para una envidia que actualmente suprimes o rumias, práctica el reconocimiento activo: esto que siento es envidia. Me dice que quiero X genuinamente. En lugar de suprimir o rumiar, pregunta: que acción específica podría acercarme a X?
+**Ejercicio inmediato:** Para una envidia que actualmente suprimes o rumias, práctica el reconocimiento activo: esto que siento es envidia. Me dice que quiero X genuinamente. En lugar de suprimir o rumiar, pregunta: ¿que acción específica podría acercarme a X?
 
 La envidia que se suprime o se rumia es un combustible que se quema sin mover nada. La que se transforma en acción te mueve.
 
@@ -97,7 +97,7 @@ Elena siente envidia del éxito de una amiga cercana. Esto le produce doble male
 
 Sara Algoe de la Universidad de Carolina del Norte investiga la distinción entre la envidia en relaciones cercanas y la admiración: la admiración produce mayor motivación de mejora que la envidia, y es más común en relaciones de alta calidad donde hay suficiente seguridad como para poder alegrarse genuinamente del éxito ajeno.
 
-**Ejercicio inmediato:** Para la envidia que sientes hacía un amigo o persona cercana, práctica la reencuadración hacía la admiración: lo que le ha ido bien a esta persona, que me dice sobre lo que es posible para alguien en mi situación? Su éxito, en lugar de evidencia de injusticia, es evidencia de que lo que yo quiero es alcanzable.
+**Ejercicio inmediato:** Para la envidia que sientes hacía un amigo o persona cercana, práctica la reencuadración hacía la admiración: ¿lo que le ha ido bien a esta persona, que me dice sobre lo que es posible para alguien en mi situación? Su éxito, en lugar de evidencia de injusticia, es evidencia de que lo que yo quiero es alcanzable.
 
 La persona cercana cuyo éxito te produce envidia puede ser tu mejor evidencia de que lo que quieres es posible.
 
@@ -139,7 +139,7 @@ Ruben ha pasado a una posición profesional que sabe que produce envidia en algu
 
 La alternativa más funcional incluye: compartir el proceso (no solo el resultado, lo que humaniza el logró y reduce la percepción de que fue facil o inmerecido), destacar la contribución de otros, y mantener conexión genuina con las personas del entorno.
 
-**Ejercicio inmediato:** Si eres consciente de que tu éxito produce envidia en alguien de tu entorno, reflexiona: has compartido el proceso de ese éxito con esa persona? A menudo la envidia del otro se reduce cuando el logró aparece como el resultado de un proceso difícil en lugar de cómo un resultado facil o arbitrario.
+**Ejercicio inmediato:** Si eres consciente de que tu éxito produce envidia en alguien de tu entorno, reflexiona: ¿has compartido el proceso de ese éxito con esa persona? A menudo la envidia del otro se reduce cuando el logró aparece como el resultado de un proceso difícil en lugar de cómo un resultado facil o arbitrario.
 
 El éxito que muestras sin proceso parece inmerecido. El que muestras con proceso parece humano.
 

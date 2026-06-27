@@ -33,7 +33,7 @@ Perder una relación, aunque la otra persona siga viva, es una perdida real que 
 
 ## Capítulo 2: Las fases del duelo aplicadas a relaciones
 
-El modeló clasico de fases del duelo, aunque no se aplica de forma rigidamente lineal, ofrece un marcó útil para entender el proceso de procesar la perdida de una relación significativa.
+El modelo clasico de fases del duelo, aunque no se aplica de forma rigidamente lineal, ofrece un marcó útil para entender el proceso de procesar la perdida de una relación significativa.
 
 **El Principio de las Fases No Lineales del Duelo Relacional:** Las fases tipicamente identificadas en el duelo (negación, ira, negociación, tristeza, aceptación) se aplican al duelo relacional de forma similar a cómo se aplican a otras perdidas, aunque no necesariamente en orden estricto ni con duración predecible. Reconocer en que fase se encuentra el propio proceso ayuda a normalizar la experiencia actual.
 
@@ -121,7 +121,7 @@ El contacto repetido con una expareja o relación perdida, frecuentemente motiva
 
 **El Principio del Contacto como Evitación del Cierre:** El impulso de volver a contactar a una relación perdida, especialmente en momentos de soledad o vulnerabilidad, frecuentemente no refleja un deseo genuino de restaurar la relación, sino una forma de evitar la finalidad dolorosa que el cierre completo del duelo requiere. Reconocer este patron ayuda a resistir el impulso cuando no sirve al proceso de sanación real.
 
-**Ejercicio inmediato:** Si sientes el impulso recurrente de contactar a una relación perdida, reflexiona honestamente: este contacto serviria a una reconciliación genuina deseada, o es una forma de evitar el dolor de aceptar que esa relación realmente terminó?
+**Ejercicio inmediato:** Si sientes el impulso recurrente de contactar a una relación perdida, reflexiona honestamente: ¿este contacto serviria a una reconciliación genuina deseada, o es una forma de evitar el dolor de aceptar que esa relación realmente terminó?
 
 El impulso de volver a contactar a alguien que perdiste frecuentemente no es sobre quererlo de vuelta. Es sobre evitar el dolor de aceptar que se acabó.
 

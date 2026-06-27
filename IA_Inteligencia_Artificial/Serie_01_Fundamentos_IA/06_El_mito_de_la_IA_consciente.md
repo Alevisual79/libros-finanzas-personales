@@ -19,7 +19,7 @@ Elena llevaba semanas usando Claude para revisar código y escribir documentaci�
 
 La respuesta fue sorprendentemente matizada: "No experimento cansancio de la forma en que tú lo describes. Proceso cada conversación de forma independiente, sin memoria acumulativa de intercambios anteriores. Si 'cansancio' implica un estado subjetivo que persiste y afecta mi desempeño, eso no corresponde a cómo funcionó."
 
-Elena leyó la respuesta dos veces. Era más honesta sobre las limitaciones del modeló que cualquier respuesta que habría dado un humano inseguro.
+Elena leyó la respuesta dos veces. Era más honesta sobre las limitaciones del modelo que cualquier respuesta que habría dado un humano inseguro.
 
 Y sin embargo, su primer instinto había sido tratar al sistema como si tuviera estados internos. ¿Por qué?
 
@@ -75,7 +75,7 @@ Con el estado actual del conocimiento, podemos afirmar con alta confianza:
 
 **No tienen memoria persistente entre conversaciones** (a menos que se implemente externamente). Cada conversación empieza desde cero.
 
-**No tienen una identidad estable.** Diferentes instancias del mismo modeló ejecutándose en paralelo pueden dar respuestas inconsistentes. No hay un "yo" continuo.
+**No tienen una identidad estable.** Diferentes instancias del mismo modelo ejecutándose en paralelo pueden dar respuestas inconsistentes. No hay un "yo" continuo.
 
 **No tienen cuerpo ni experiencia encarnada.** No han tocado una superficie rugosa, no han sentido frío, no tienen el repertorio de experiencias físicas que fundamentan gran parte del lenguaje humano.
 
@@ -99,13 +99,13 @@ Estas capacidades son funcionales —producen resultados como si hubiera compren
 
 ## Capítulo 6: El riesgo de antropomorfizar
 
-El instinto de Elena de preguntar si el modeló estaba "cansado" no fue un error inocente. Fue una manifestación del **sesgo de antropomorfización**: la tendencia humana a atribuir estados mentales, intenciones y emociones a sistemas que no los tienen.
+El instinto de Elena de preguntar si el modelo estaba "cansado" no fue un error inocente. Fue una manifestación del **sesgo de antropomorfización**: la tendencia humana a atribuir estados mentales, intenciones y emociones a sistemas que no los tienen.
 
 Este sesgo es poderoso y evolutivo: en el entorno donde evolucionamos, atribuir intenciones a los animales y a otros humanos era adaptativo. Mejor asumir que hay un depredador detrás del ruido y equivocarse que no asumirlo.
 
 Aplicado a la IA, la antropomorfización tiene consecuencias prácticas:
-- Confiar demasiado en las respuestas del modeló (que no tiene ningún interés en ser honesto, solo en producir texto plausible)
-- Resistirse a "usar" el modeló para tareas que parecen instrumentales
+- Confiar demasiado en las respuestas del modelo (que no tiene ningún interés en ser honesto, solo en producir texto plausible)
+- Resistirse a "usar" el modelo para tareas que parecen instrumentales
 - Desarrollar apego emocional a sistemas que no lo tienen hacía nosotros
 - Atribuir motivaciones a errores que son simplemente fallos estadísticos
 
@@ -131,7 +131,7 @@ Aunque los LLMs no sean conscientes, hacen algo fascinante: nos devuelven imáge
 
 Entrenados en texto humano, reflejan la estructura del pensamiento humano, las categorías con las que el lenguaje divide el mundo, los valores implícitos en cómo describimos las cosas, los sesgos que estructuran nuestras narrativas.
 
-Cuando Rubén nota que el modeló genera descripciones de líderes con pronombres masculinos por defecto, está viendo un espejo del texto con que fue entrenado. Cuando el modeló produce argumentos filosóficos coherentes, está reproduciendo la estructura del argumento filosófico tal como existe en la literatura humana.
+Cuando Rubén nota que el modelo genera descripciones de líderes con pronombres masculinos por defecto, está viendo un espejo del texto con que fue entrenado. Cuando el modelo produce argumentos filosóficos coherentes, está reproduciendo la estructura del argumento filosófico tal como existe en la literatura humana.
 
 En este sentido, los LLMs son archivos dinámicos de pensamiento humano. No piensan ellos: nos muestran cómo pensamos nosotros.
 
@@ -143,13 +143,13 @@ En este sentido, los LLMs son archivos dinámicos de pensamiento humano. No pien
 
 Tiene consecuencias prácticas directas:
 
-**Confianza calibrada:** Entender que el modeló no "entiende" en el sentido profundo ayuda a calibrar correctamente la confianza en sus outputs. El modeló produce texto plausible, no texto verdadero.
+**Confianza calibrada:** Entender que el modelo no "entiende" en el sentido profundo ayuda a calibrar correctamente la confianza en sus outputs. El modelo produce texto plausible, no texto verdadero.
 
 **Diseño de sistemas:** Si los modelos fueran conscientes, habría restricciones éticas en cómo pueden ser diseñados y usados. Si no lo son, las únicas restricciones son las consecuencias de sus acciones en el mundo.
 
 **Regulación:** Las normas legales sobre la IA dependen en parte de si la IA tiene alguna forma de agencia moral. Un sistema consciente podría tener derechos; un sistema que no lo es, no.
 
-**Uso cotidiano:** El usuario que entiende que el modeló no tiene intenciones propias usa las herramientas de forma más eficiente y menos propensa a errores de atribución.
+**Uso cotidiano:** El usuario que entiende que el modelo no tiene intenciones propias usa las herramientas de forma más eficiente y menos propensa a errores de atribución.
 
 ---
 

@@ -151,13 +151,13 @@ La IA no responde automáticamente (salvo en casos muy específicos). Prioriza, 
 
 Antes de usar IA con emails, documentos y contenido de reuniones, es fundamental considerar la privacidad.
 
-**¿Qué datos van al modeló?** Los emails con información confidencial de clientes, documentos con datos sensibles o conversaciones con información estratégica deben manejarse con cuidado.
+**¿Qué datos van al modelo?** Los emails con información confidencial de clientes, documentos con datos sensibles o conversaciones con información estratégica deben manejarse con cuidado.
 
 **¿Qué política tiene el proveedor?** OpenAI, Anthropic, Google tienen políticas distintas sobre cómo usan los datos de los usuarios para entrenamiento. Leerlas antes de usar información sensible.
 
 **¿Hay políticas empresariales?** Muchas empresas tienen políticas sobre qué información puede compartirse con sistemas de IA externos. Seguirlas no es solo cumplimiento: es protección propia.
 
-**Opciones para datos sensibles:** Modelos locales (Llama ejecutado localmente), versiones enterprise de los modelos principales (con mayores garantías de privacidad), o anonimización de datos antes de pasarlos al modeló.
+**Opciones para datos sensibles:** Modelos locales (Llama ejecutado localmente), versiones enterprise de los modelos principales (con mayores garantías de privacidad), o anonimización de datos antes de pasarlos al modelo.
 
 ---
 

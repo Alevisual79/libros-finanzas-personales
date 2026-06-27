@@ -21,7 +21,7 @@ Ruben ha revisado su movil cuarenta veces mientras leía este mismo libro, un da
 
 ## Capítulo 1: La economía de la atención y sus efectos en relaciones
 
-El modeló de negocio de muchas plataformas digitales se basa explicitamente en capturar y monetizar la atención humana, un objetivo que frecuentemente compite directamente con la atención disponible para las relaciones presenciales.
+El modelo de negocio de muchas plataformas digitales se basa explicitamente en capturar y monetizar la atención humana, un objetivo que frecuentemente compite directamente con la atención disponible para las relaciones presenciales.
 
 **El Principio de la Atención como Recurso Finito en Competencia:** La atención humana es un recurso limitado, y las plataformas digitales, diseñadas deliberadamente para maximizar el tiempo de captura de esa atención, compiten directamente con las relaciones presenciales por ese mismo recurso finito, generando una competencia estructural que las relaciones humanas, sin ventajas de diseño persuasivo comparables, frecuentemente pierden.
 
@@ -73,7 +73,7 @@ Más allá de los períodos completos de desconexion, desarrollar prácticas de 
 
 **El Principio de la Intencionalidad como práctica Cotidiana:** técnicas como preguntarse explicitamente el proposito antes de tomar el teléfono, establecer momentos específicos para revisar notificaciones en lugar de hacerlo constantemente, y practicar pausas conscientes antes de acciones automáticas de revisión, transforman el uso de tecnología de un patron reactivo automático a una práctica más deliberada y consciente.
 
-**Ejercicio inmediato:** La próxima vez que tomes tu teléfono por habito, pausa un momento y pregunta explicitamente: cual es mi proposito específico al tomarlo ahora?
+**Ejercicio inmediato:** La próxima vez que tomes tu teléfono por habito, pausa un momento y pregunta explicitamente: ¿cual es mi proposito específico al tomarlo ahora?
 
 El uso consciente de la tecnología no requiere eliminarla completamente. Requiere practicar la pausa deliberada antes de la acción automática de revisarla constantemente.
 

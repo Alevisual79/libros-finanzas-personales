@@ -27,7 +27,7 @@ Tener un gestor no te exime de entender los números de tu propio negocio.
 
 El emprendedor que no entiende sus números no puede saber si su negocio esta en buena salud o en riesgo, no puede evaluar si una inversión tiene sentido, y no puede detectar problemas financieros antes de que se conviertan en crisis. El gestor puede presentar la declaración de impuestos pero no puede tomar las decisiones de negocio que el emprendedor tiene que tomar.
 
-**Ejercicio inmediato:** Para evaluar tu nivel de alfabetización financiera actual, responde estas cinco preguntas sobre tu negocio sin mirar ningún informe: cual es tu revenue mensual promedio de los últimos tres meses?, cuales son tus tres mayores costes fijos mensuales?, cual es tu margen bruto aproximado?, cuanto dinero tienes actualmente en la cuenta bancaria del negocio?, y cuanto le debes a proveedores o a hacienda que todavia no has pagado? Si puedes responder las cinco preguntas con razonable precisión, tienes el nivel basico. Si no puedes, ese es el punto de partida.
+**Ejercicio inmediato:** Para evaluar tu nivel de alfabetización financiera actual, responde estas cinco preguntas sobre tu negocio sin mirar ningún informe: ¿cual es tu revenue mensual promedio de los últimos tres meses?, cuales son tus tres mayores costes fijos mensuales?, cual es tu margen bruto aproximado?, cuanto dinero tienes actualmente en la cuenta bancaria del negocio?, y cuanto le debes a proveedores o a hacienda que todavia no has pagado? Si puedes responder las cinco preguntas con razonable precisión, tienes el nivel basico. Si no puedes, ese es el punto de partida.
 
 El emprendedor que no sabe contestar esas cinco preguntas no gestiona su negocio. Solo trabaja en el.
 
@@ -53,7 +53,7 @@ Marcos ha aprendido a leer e interpretar la cuenta de resultados de su negocio e
 
 **El Principio de La Cuenta de Resultados (P&L) como El Informe que Muestra Si El Negocio Ha Ganado o Perdido Dinero en Un Periodo específico y Cuanto, Midiendo La Diferencia entre Los Ingresos y Los Gastos Devengados en Ese Periodo Independientemente de Cuando Se Han Cobrado o Pagado:** La cuenta de resultados tiene cinco lineas principales: el revenue o ventas netas (lo que el negocio ha facturado o tiene derecho a cobrar en el período), el margen bruto (revenue menos el coste directo de los productos o servicios vendidos), el EBITDA (beneficio antes de intereses, impuestos, depreciaciones, y amortizaciones, que representa el beneficio operativo del negocio), el beneficio antes de impuestos (EBITDA menos intereses y depreciaciones), y el beneficio neto (el resultado final después de pagar todos los impuestos).
 
-Las cinco preguntas que un emprendedor debe saber responder con su P&L mensual son: el revenue esta creciendo respecto al mes anterior y al mismo mes del año pasado?, el margen bruto se mantiene estable o esta mejorando?, los gastos generales crecen más despacio que el revenue (señal de escalabilidad)?, el EBITDA es positivo (el negocio genera caja operativa)?, y el beneficio neto es suficiente para justificar el riesgo y el trabajo del negocio?
+Las cinco preguntas que un emprendedor debe saber responder con su P&L mensual son: ¿el revenue esta creciendo respecto al mes anterior y al mismo mes del año pasado?, el margen bruto se mantiene estable o esta mejorando?, los gastos generales crecen más despacio que el revenue (señal de escalabilidad)?, el EBITDA es positivo (el negocio genera caja operativa)?, y el beneficio neto es suficiente para justificar el riesgo y el trabajo del negocio?
 
 **Ejercicio inmediato:** Pide a tu gestor o genera con tu herramienta de contabilidad la cuenta de resultados del último mes y del último trimestre. Lee el informe respondiendo las cinco preguntas anteriores. Si no puedes responder alguna de las cinco con los datos del informe, pide a tu gestor que te explique como encontrar esa información. Una sola sesión de treinta minutos con tu gestor para entender como leer tu P&L es la inversión de tiempo con mayor retorno que puedes hacer este mes.
 
@@ -83,7 +83,7 @@ Lucia ha resuelto las confusiones contables que le impedian entender sus propios
 
 La distinción más práctica para el emprendedor es entre el resultado contable (que sigue el principio del devengo y puede diferir significativamente del resultado de caja) y el flujo de caja real (lo que realmente entra y sale de la cuenta bancaria).
 
-**Ejercicio inmediato:** Para cada uno de los conceptos anteriores, pide a tu gestor que te de un ejemplo específico de tu negocio: que ingresos o gastos de tu negocio se devengan pero no se cobran o pagan en el mismo mes?, tienes activos que se estan amortizando en tu balance?, tienes provisiones activas por algun gasto estimado? Esos ejemplos concretos de tu propia realidad financiera hacen que los conceptos abstractos se vuelvan comprensibles.
+**Ejercicio inmediato:** Para cada uno de los conceptos anteriores, pide a tu gestor que te de un ejemplo específico de tu negocio: ¿que ingresos o gastos de tu negocio se devengan pero no se cobran o pagan en el mismo mes?, tienes activos que se estan amortizando en tu balance?, tienes provisiones activas por algun gasto estimado? Esos ejemplos concretos de tu propia realidad financiera hacen que los conceptos abstractos se vuelvan comprensibles.
 
 El concepto contable que no entiendes en tu propio negocio puede esconder un problema o una oportunidad que no puedes ver.
 
@@ -97,7 +97,7 @@ Marcos ha aprendido los requisitos legales de la facturación y ha evitado probl
 
 Los errores de facturación más comunes de los emprendedores son: emitir facturas sin número correlativo (que puede considerarse alteración de contabilidad), no incluir la retención de IRPF cuando es obligatoria, o no conservar copia de todas las facturas emitidas durante el período legal (cuatro años en España).
 
-**Ejercicio inmediato:** Revisa tu modeló de factura actual con esta lista de verificación: incluye todos los campos obligatorios que se han listado arriba?, la numeración es correlativa y sin saltos?, aplicas la retención de IRPF correctamente (el tipo correcto para tu actividad)?, conservas copia electronica de todas las facturas emitidas en los últimos cuatro años? Si alguno de esos elementos falta, corrije el modeló de factura esta semana antes de emitir la siguiente.
+**Ejercicio inmediato:** Revisa tu modelo de factura actual con esta lista de verificación: ¿incluye todos los campos obligatorios que se han listado arriba?, la numeración es correlativa y sin saltos?, aplicas la retención de IRPF correctamente (el tipo correcto para tu actividad)?, conservas copia electronica de todas las facturas emitidas en los últimos cuatro años? Si alguno de esos elementos falta, corrije el modelo de factura esta semana antes de emitir la siguiente.
 
 La factura incorrecta puede ser valida comercialmente pero invalida fiscalmente. Y la invalidez fiscal cuesta más de corregir que la inversión de hacerlo bien desde el principio.
 
@@ -111,7 +111,7 @@ Carlos ha revisado sus gastos deducibles con su gestor y ha encontrado varios qu
 
 Hay gastos con deducción parcial que muchos autonomos no aplican correctamente: el uso del vehiculo privado para el negocio (deducible en la proporción de uso profesional), los gastos del hogar cuando el autonomo trabaja desde casa (una proporción de los suministros y alquiler si se puede justificar), y los gastos de representación (comidas con clientes con límite).
 
-**Ejercicio inmediato:** Revisa con tu gestor los gastos deducibles de los últimos doce meses y compara la lista con los gastos reales que has tenido pero que quizas no has deducido: tienes gastos de formación no deducidos?, tienes cuotas de organizaciones profesionales o colegios?, tienes gastos de suscripciones a publicaciones profesionales? Frecuentemente, una revisión de los gastos no deducidos produce un ahorro fiscal significativo con efecto retroactivo en el ejercicio vigente.
+**Ejercicio inmediato:** Revisa con tu gestor los gastos deducibles de los últimos doce meses y compara la lista con los gastos reales que has tenido pero que quizas no has deducido: ¿tienes gastos de formación no deducidos?, tienes cuotas de organizaciones profesionales o colegios?, tienes gastos de suscripciones a publicaciones profesionales? Frecuentemente, una revisión de los gastos no deducidos produce un ahorro fiscal significativo con efecto retroactivo en el ejercicio vigente.
 
 El impuesto que pagas de más por no deducir lo que puedes deducir no es obligación legal. Es ignorancia opcional.
 
@@ -125,7 +125,7 @@ Lucia ha simplificado su comprensión del IVA y ya no tiene que preguntar al ges
 
 La declaración trimestral de IVA (modeló 303 en España) calcula: el total de IVA repercutido del trimestre (el IVA cobrado a los clientes), menos el total de IVA soportado deducible del trimestre (el IVA pagado en gastos del negocio), y el resultado es el IVA a pagar a hacienda o a compensar si el soportado supera al repercutido.
 
-**Ejercicio inmediato:** Para el próximo trimestre, calcula una estimación del IVA que pagaras basandote en el trimestre anterior: suma el IVA total de las facturas que emitiras este trimestre (generalmente el 21% de la base imponible) y resta el IVA de los gastos del negocio que tienes documentados con factura. El resultado es tu estimación de pago de IVA. Aparta ese importe en la cuenta de provisión fiscal separada para que el pago del modeló 303 no te pille sin liquidez.
+**Ejercicio inmediato:** Para el próximo trimestre, calcula una estimación del IVA que pagaras basandote en el trimestre anterior: suma el IVA total de las facturas que emitiras este trimestre (generalmente el 21% de la base imponible) y resta el IVA de los gastos del negocio que tienes documentados con factura. El resultado es tu estimación de pago de IVA. Aparta ese importe en la cuenta de provisión fiscal separada para que el pago del modelo 303 no te pille sin liquidez.
 
 El IVA que cobras al cliente no es tuyo. Guardarlo en la cuenta del negocio como si fuera revenue es el error que produce la sorpresa desagradable en la declaración trimestral.
 
@@ -161,7 +161,7 @@ El emprendedor que entiende sus números y los revisa semanalmente no es un cont
 
 ## Epílogo
 
-Lucia había evitado durante tres años mirar sus propios estados financieros. Los enviaba a la gestora, la gestora presentaba las declaraciones, y Lucia seguia trabajando sin saber exactamente como iba su negocio. En abril, decidió aprender a leer su P&L y su balance. Tardo una tarde con su gestora y una hoja de explicaciones personalizadas de su propia empresa. Desde entonces, lee los informes cada mes. Y en el mes de septiembre, leyendo el P&L, detecto algo que su gestora no le había señalado: el margen de uno de sus servicios había bajado del sesenta al cuarenta y dos por ciento en seis meses. Investigo la causa y descubrió que estaba subcontratando trabajo en ese servicio a un precio que no había actualizado con los precios del mercado. Dos semanas para corregirlo. Un año de no haberlo visto habria costado mucho más.
+Lucia había evitado durante tres años mirar sus propios estados financieros. Los enviaba a la gestora, la gestora presentaba las declaraciones, y Lucia seguia trabajando sin saber exactamente como iba su negocio. En abril, decidió aprender a leer su P&L y su balance. Tardo una tarde con su gestora y una hoja de explicaciones personalizadas de su propia empresa. Desde entonces, lee los informes cada mes. Y en el mes de septiembre, leyendo el P&L, detecto algo que su gestora no le había señalado: el margen de uno de sus servicios había bajado del sesenta al cuarenta y dos por ciento en seis meses. Investigo la causa y descubrió que estaba subcontratando trabajo en ese servicio a un precio que no había actualizado con los precios del mercado. Dos semanas para corregirlo. Un año de no haberlo visto habría costado mucho más.
 
 ---
 

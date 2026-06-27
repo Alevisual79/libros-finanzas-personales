@@ -27,7 +27,7 @@ La influencia no es magia. Tiene una estructura.
 
 Cialdini propone que estos principios son atajos cognitivos evolutivamente adaptativos: en la mayoría de los casos, seguirlos produce mejores resultados que deliberar cada decisión. Su problema es que pueden ser explotados deliberadamente por quienes los conocen y quieren aprovecharse de ellos.
 
-**Ejercicio inmediato:** En la próxima situación donde te sientas presionado a hacer algo, reflexiona: cual de los seis principios de Cialdini esta activo? Alguien te ha dado algo primero (reciprocidad)? La oferta esta a punto de desaparecer (escasez)? Una figura de autoridad lo recomienda? Identificar el principio activo no significa necesariamente resistirlo (puede ser legitimo) sino elegir conscientemente.
+**Ejercicio inmediato:** En la próxima situación donde te sientas presionado a hacer algo, reflexiona: ¿cual de los seis principios de Cialdini esta activo? ¿Alguien te ha dado algo primero (reciprocidad)? La oferta esta a punto de desaparecer (escasez)? ¿Una figura de autoridad lo recomienda? Identificar el principio activo no significa necesariamente resistirlo (puede ser legitimo) sino elegir conscientemente.
 
 La influencia que no reconoces no puedes evaluarla. La que reconoces puedes gestionarla.
 
@@ -41,7 +41,7 @@ Ruben recibio un regalo de un proveedor y después encontró muy difícil rechaz
 
 La investigación de Cialdini sobre las técnicas de influencia en el mundo real muestra que las organizaciones de recaudación de fondos que enviaban regalos no solicitados con sus solicitudes de donación (pegatinas, lapices) conseguian el doble de donaciones que las que enviaban solo la solicitud. El regalo activa la obligación de devolver con una potencia que supera su valor monetario.
 
-**Ejercicio inmediato:** Observa durante una semana las situaciones donde alguien te da algo antes de pedirte algo: información útil, un favor, un regalo, un elogio, tiempo. Reflexiona: esa generosidad inicial era genuina o estratégica? Si la respuesta es incierta, el hecho de que te hayas hecho la pregunta ya aumenta tu capacidad de elegir conscientemente si devuelves y cuanto.
+**Ejercicio inmediato:** Observa durante una semana las situaciones donde alguien te da algo antes de pedirte algo: información útil, un favor, un regalo, un elogio, tiempo. Reflexiona: ¿esa generosidad inicial era genuina o estratégica? Si la respuesta es incierta, el hecho de que te hayas hecho la pregunta ya aumenta tu capacidad de elegir conscientemente si devuelves y cuanto.
 
 El regalo que no reconoces como técnica de influencia te cuesta más de lo que vale.
 
@@ -55,7 +55,7 @@ Elena elige restaurantes por las resenas online. Ruben valida sus decisiones mir
 
 La investigación sobre las normas descriptivas (lo que la gente realmente hace) vs. las normas prescriptivas (lo que debería hacer) de Cialdini, Reno y Kallgren muestra que las normas descriptivas son frecuentemente más influyentes que las prescriptivas: decirle a la gente que el 75% de los hoteleros reutiliza las toallas produce más reutilización que decirles que es bueno para el medioambiente.
 
-**Ejercicio inmediato:** La próxima vez que uses la prueba social para tomar una decisión (resenas, lo que hace la mayoría), reflexiona: las personas cuyo comportamiento estas tomando como referencia son realmente similares a ti en los aspectos relevantes para esta decisión? La prueba social de personas diferentes a ti puede llevarte en direcciones que no te convienen.
+**Ejercicio inmediato:** La próxima vez que uses la prueba social para tomar una decisión (resenas, lo que hace la mayoría), reflexiona: ¿las personas cuyo comportamiento estas tomando como referencia son realmente similares a ti en los aspectos relevantes para esta decisión? La prueba social de personas diferentes a ti puede llevarte en direcciones que no te convienen.
 
 Hacer lo que hace la mayoría es una estrategia que funciona cuando la mayoría tiene información que tu no tienes. Cuando no la tiene, es solo ruido social.
 
@@ -69,7 +69,7 @@ Isabel ha visto como su empresa usa artificialmente la escasez en las ventas. La
 
 La investigación de Cialdini muestra que la escasez es especialmente potente cuando es reciente (el recurso que antes era abundante y ahora es escaso produce más reactancia psicológica que el que siempre fue escaso) y cuando hay competencia por el recurso escaso (otros también lo quieren). Estas dos condiciones juntas explican por qué las subastas y los precios flash producen comportamientos de compra que los compradores frecuentemente lamentan.
 
-**Ejercicio inmediato:** La próxima vez que sientas urgencia de actuar porque algo se va a acabar (oferta por tiempo limitado, plazas escasas, existencias limitadas), pausa y reflexiona: la escasez es real o es creada artificialmente para provocar urgencia? Si la escasez desapareciera, seguiria siendo una buena decisión? La respuesta a la segunda pregunta es la decisión sin el efecto de la escasez.
+**Ejercicio inmediato:** La próxima vez que sientas urgencia de actuar porque algo se va a acabar (oferta por tiempo limitado, plazas escasas, existencias limitadas), pausa y reflexiona: ¿la escasez es real o es creada artificialmente para provocar urgencia? ¿Si la escasez desapareciera, seguiria siendo una buena decisión? La respuesta a la segunda pregunta es la decisión sin el efecto de la escasez.
 
 La urgencia que viene de fuera es una señal de que alguien quiere que no pienses. Pensando ya tienes ventaja.
 
@@ -83,7 +83,7 @@ Ruben ha tomado decisiones médicas y financieras basadas en la recomendación d
 
 La investigación de Philip Tetlock sobre las predicciones de expertos muestra que los expertos en muchos campos (economía, geopolitica) no predicen mejor que el azar en sus áreas de supuesta expertise. La autoridad percibida y la autoridad real no siempre son la misma cosa.
 
-**Ejercicio inmediato:** Cuando alguien invoque su autoridad para influirte (un título, una posición, un credencial), reflexiona: tiene experiencia específica y demostrada en el área de la decisión que te propone? Los títulos y posiciones son señales de competencia en áreas específicas, no en todas las áreas. Un médico no es necesariamente un experto en finanzas; un directivo no es necesariamente un experto en psicología.
+**Ejercicio inmediato:** Cuando alguien invoque su autoridad para influirte (un título, una posición, un credencial), reflexiona: ¿tiene experiencia específica y demostrada en el área de la decisión que te propone? Los títulos y posiciones son señales de competencia en áreas específicas, no en todas las áreas. Un médico no es necesariamente un experto en finanzas; un directivo no es necesariamente un experto en psicología.
 
 La autoridad que no cuestioans asumes que es más real de lo que probablemente es.
 
@@ -97,7 +97,7 @@ Elena firmo un pequeño compromiso con una organización y meses después estaba
 
 La investigación de Cialdini sobre los compromisos escritos y públicos muestra que los compromisos que se escriben y que se conocen por otros son mucho más vinculantes que los puramente mentales, porque implican la identidad pública de la persona.
 
-**Ejercicio inmediato:** La próxima vez que alguien te pida un pequeño favor o compromiso, reflexiona: este pequeño si me llevara a un si más grande que no habria dado libremente desde el principio? La estructura pie-en-la-puerta es transparente una vez que la conoces. Cada compromiso debe evaluarse en sus propios meritos, no como consecuencia de compromisos anteriores.
+**Ejercicio inmediato:** La próxima vez que alguien te pida un pequeño favor o compromiso, reflexiona: ¿este pequeño si me llevara a un si más grande que no habría dado libremente desde el principio? La estructura pie-en-la-puerta es transparente una vez que la conoces. Cada compromiso debe evaluarse en sus propios meritos, no como consecuencia de compromisos anteriores.
 
 El si pequeño que das hoy es el ancla del si grande que te pediran mañana.
 
@@ -111,7 +111,7 @@ Ruben compra más de los vendedores que le caen bien, aunque no tenga conciencia
 
 Los factores que producen agrado incluyen: el atractivo físico (la investigación muestra que las personas atractivas son percibidas como más competentes, honestas, y socialmente habiles, el llamado efecto halo), la similitud (agradamos más a las personas similares a nosotros en actitudes, intereses, y background), la familiaridad (la mera exposición repetida produce agrado), y el elogio (nos gustan más quienes nos elogian).
 
-**Ejercicio inmediato:** La próxima vez que estes considerando una decisión influida por alguien, reflexiona: me agrada esta persona? Si la respuesta es si, aplica la separación: separando mentalmente a la persona de la propuesta, es la propuesta en si misma buena? El agrado por la persona no es información sobre la calidad de lo que propone.
+**Ejercicio inmediato:** La próxima vez que estes considerando una decisión influida por alguien, reflexiona: ¿me agrada esta persona? Si la respuesta es si, aplica la separación: ¿separando mentalmente a la persona de la propuesta, es la propuesta en si misma buena? El agrado por la persona no es información sobre la calidad de lo que propone.
 
 Que alguien te caiga bien es información sobre la relación. No es información sobre si tiene razón.
 
@@ -125,7 +125,7 @@ Isabel usa técnicas de influencia en su trabajo de recursos humanos. Quiere sab
 
 La distinción crítica de Cialdini: en la influencia ética, si el sujeto conociera todas las técnicas que se estan usando, seguiria siendo influido porque la decisión que se le propone genuinamente le conviene. En la manipulación, si conociera las técnicas, no cederia porque la decisión no le conviene.
 
-**Ejercicio inmediato:** Para las situaciones en que usas influencia sobre otros (en el trabajo, en la familia, en las relaciones), aplica el test de Cialdini: si la persona a la que intentas influir supiera exactamente lo que estas haciendo y por qué, seguiria siendo influida? Si la respuesta es si, la influencia es ética. Si no, considera si lo que estas haciendo es manipulación.
+**Ejercicio inmediato:** Para las situaciones en que usas influencia sobre otros (en el trabajo, en la familia, en las relaciones), aplica el test de Cialdini: ¿si la persona a la que intentas influir supiera exactamente lo que estas haciendo y por qué, seguiria siendo influida? Si la respuesta es si, la influencia es ética. Si no, considera si lo que estas haciendo es manipulación.
 
 La influencia que no resistiria la luz pública ya tiene su nombre. No es persuasión.
 
@@ -139,7 +139,7 @@ Ruben quiere influir en el comportamiento de sus clientes de forma ética. El nu
 
 Los nudges son éticos, segun Thaler y Sunstein, cuando son transparentes (se puede saber que hay un nudge), cuando benefician al sujeto (no solo al diseñador), y cuando preservan la posibilidad de optar por la alternativa.
 
-**Ejercicio inmediato:** En tu entorno (hogar, trabajo, relaciones), identifica tres oportunidades de nudge ético: donde podrías diseñar la opción por defecto para que el comportamiento más probable sea el que produces el mejor resultado para las personas involucradas? La opción de comida saludable que se coloca primero en el menu, el ahorro automático que requiere acción para cancelarse, la tarea importante que se programa en el calendario por defecto.
+**Ejercicio inmediato:** En tu entorno (hogar, trabajo, relaciones), identifica tres oportunidades de nudge ético: ¿donde podrías diseñar la opción por defecto para que el comportamiento más probable sea el que produces el mejor resultado para las personas involucradas? La opción de comida saludable que se coloca primero en el menu, el ahorro automático que requiere acción para cancelarse, la tarea importante que se programa en el calendario por defecto.
 
 El diseño del entorno que no cambia opciones pero facilita las mejores es la forma de influencia más honesta que existe.
 

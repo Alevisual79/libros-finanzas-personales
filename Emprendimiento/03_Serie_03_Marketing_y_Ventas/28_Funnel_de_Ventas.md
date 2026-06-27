@@ -23,7 +23,7 @@ Lucia tiene visitantes en su web pero no sabe como convertirlos en clientes. Car
 
 El funnel no es un metafora. Es el mapa de como el cliente pasa de desconocido a pagante.
 
-**El Principio del Funnel de Ventas como el Sistema que Mapea y Gestiona el Proceso de Decisión del Cliente desde el Primer Contacto hasta la Compra de Forma que el Negocio puede Medir y Mejorar cada Etapa en Lugar de Depender de la Improvisación:** Elias St. Elmo Lewis creo el modeló AIDA en 1898 (Awareness, Interest, Desire, Action) que fue el primer funnel de ventas documentado de la historia. Más de cien años después, el modeló sigue siendo valido en su estructura: el cliente primero conoce el negocio (awareness), luego desarrolla interés en lo que ofrece (interest), después desea el producto o servicio (desire), y finalmente toma la acción de compra (action).
+**El Principio del Funnel de Ventas como el Sistema que Mapea y Gestiona el Proceso de Decisión del Cliente desde el Primer Contacto hasta la Compra de Forma que el Negocio puede Medir y Mejorar cada Etapa en Lugar de Depender de la Improvisación:** Elias St. Elmo Lewis creo el modelo AIDA en 1898 (Awareness, Interest, Desire, Action) que fue el primer funnel de ventas documentado de la historia. Más de cien años después, el modelo sigue siendo valido en su estructura: el cliente primero conoce el negocio (awareness), luego desarrolla interés en lo que ofrece (interest), después desea el producto o servicio (desire), y finalmente toma la acción de compra (action).
 
 Russell Brunson en DotCom Secrets actualiza el concepto con el value ladder: el funnel eficaz no busca la venta inmediata sino que guia al cliente por una escalera de valor creciente, ofreciendo primero algo de bajo o ningún coste (que reduce la barrera de entrada), luego algo de mayor valor a menor precio, y finalmente el producto o servicio principal de mayor precio. Cada escalon del funnel construye la confianza necesaria para el siguiente.
 
@@ -55,7 +55,7 @@ Lucia ha optimizado la parte superior de su funnel y ha duplicado el número de 
 
 La investigación de HubSpot sobre los canales de adquisición de leads muestra que el trafico de SEO organico tiene la mayor tasa de conversión en leads (porque el usuario que busca activamente tiene mayor interés que el que ve un anuncio), seguido por los referidos (por la confianza previa) y el email marketing (por la relación existente).
 
-**Ejercicio inmediato:** Para la parte superior de tu funnel, identifica los dos o tres canales que generan el mayor número de visitantes cualificados (personas que tienen el problema que tu negocio resuelve y que podrían ser clientes potenciales). Para cada canal, calcula la tasa de conversión de visitante a lead: cuantos de los que llegan por ese canal dan el paso siguiente de dejar el email o iniciar contacto? El canal con mayor tasa de conversión (no mayor volumen) es el que merece más inversión de tiempo o presupuesto.
+**Ejercicio inmediato:** Para la parte superior de tu funnel, identifica los dos o tres canales que generan el mayor número de visitantes cualificados (personas que tienen el problema que tu negocio resuelve y que podrían ser clientes potenciales). Para cada canal, calcula la tasa de conversión de visitante a lead: ¿cuantos de los que llegan por ese canal dan el paso siguiente de dejar el email o iniciar contacto? El canal con mayor tasa de conversión (no mayor volumen) es el que merece más inversión de tiempo o presupuesto.
 
 El canal de trafico que más convierte no siempre es el que más trafico trae. Pero es el que más negocio produce.
 
@@ -105,13 +105,13 @@ El lead que esta listo para comprar solo necesita que no pongas obstaculos en el
 
 ## Capítulo 7: El funnel de ventas B2B: la logica del ciclo de ventas largo
 
-Marcos ha adaptado el modeló de funnel al ciclo largo de las ventas B2B.
+Marcos ha adaptado el modelo de funnel al ciclo largo de las ventas B2B.
 
 **El Principio del Funnel B2B como Diferente del B2C en la Duración del Ciclo, el número de Personas Involucradas, y los Tipos de Contenido que Son Más Efectivos en Cada Etapa porque El Proceso de Decisión Empresarial Es Fundamentalmente Diferente al Del Consumidor Individual:** En ventas B2B, el ciclo de ventas puede durar de semanas a meses, involucra multiples personas (el usuario del producto, el tomador de decisión, y frecuentemente el área financiera), y requiere una estrategia de contenido y relación diferente para cada perfil. El funnel B2B no puede depender de impulsos emocionales: debe construir la evidencia racional (ROI, casos de éxito, referencias) que el decisión-maker necesita para justificar la compra internamente.
 
-Aaron Ross en Predictable Revenue propone el modeló de ventas predecible: separar las funciones de generación de leads (los que buscan y cualifican), desarrollo de ventas (los que construyen la relación y califican la oportunidad), y cierre (los que convierten la oportunidad en contrató). Para el emprendedor que hace todo solo, el modeló es útil como marcó conceptual para gestionar las diferentes conversaciones en diferentes etapas del funnel.
+Aaron Ross en Predictable Revenue propone el modelo de ventas predecible: separar las funciones de generación de leads (los que buscan y cualifican), desarrollo de ventas (los que construyen la relación y califican la oportunidad), y cierre (los que convierten la oportunidad en contrató). Para el emprendedor que hace todo solo, el modelo es útil como marcó conceptual para gestionar las diferentes conversaciones en diferentes etapas del funnel.
 
-**Ejercicio inmediato:** Para tus tres oportunidades de venta B2B actualmente en proceso (si las tienes), identifica en que etapa del funnel esta cada una: conocen el problema y están evaluando soluciones, han identificado tu solución como candidata y estan en comparación, o estan en negociación del contrató? Para cada oportunidad, identifica la siguiente acción específica que moverias del lead a la siguiente etapa y ejecutala esta semana. El funnel B2B que no se mueve activamente se enfria.
+**Ejercicio inmediato:** Para tus tres oportunidades de venta B2B actualmente en proceso (si las tienes), identifica en que etapa del funnel esta cada una: ¿conocen el problema y están evaluando soluciones, han identificado tu solución como candidata y estan en comparación, o estan en negociación del contrató? Para cada oportunidad, identifica la siguiente acción específica que moverias del lead a la siguiente etapa y ejecutala esta semana. El funnel B2B que no se mueve activamente se enfria.
 
 El funnel B2B que no tiene una próxima acción específica para cada oportunidad activa esta perdiendo esas oportunidades sin saber lo.
 
@@ -139,7 +139,7 @@ Lucia ha aprendido que el funnel no termina en la primera compra sino que tiene 
 
 El funnel de retención incluye: el onboarding del cliente nuevo (los primeros noventa dias de la relación son los más críticos para la retención), el seguimiento proactivo (contactar con el cliente antes de que el contacte con el para resolver problemas o añadir valor), la escalera de productos (el siguiente producto o servicio natural en la relación con el cliente), y el programa de referidos (convertir al cliente satisfecho en promotor activo).
 
-**Ejercicio inmediato:** Para tus clientes que han completado al menos un proyecto o seis meses de servicio contigo, diseña una llamada o email de seguimiento específica: no para vender nada sino para preguntar como estan usando lo que compraron, si hay algo que podrías mejorar, y si hay algun reto nuevo en el que podrías ayudarles. Ese contacto proactivo produce mayor retención, mayor NPS, y frecuentemente nuevas oportunidades de venta que no habrias descubierto de otra forma.
+**Ejercicio inmediato:** Para tus clientes que han completado al menos un proyecto o seis meses de servicio contigo, diseña una llamada o email de seguimiento específica: no para vender nada sino para preguntar como estan usando lo que compraron, si hay algo que podrías mejorar, y si hay algun reto nuevo en el que podrías ayudarles. Ese contacto proactivo produce mayor retención, mayor NPS, y frecuentemente nuevas oportunidades de venta que no habrías descubierto de otra forma.
 
 El cliente que nunca has contactado proactivamente después de la primera compra no sabe que podrías ayudarle más. Eso es una perdida para los dos.
 

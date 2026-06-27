@@ -39,7 +39,7 @@ Más allá del tiempo compartido, la investigación identifica ingredientes espe
 
 **El Principio de los Tres Ingredientes de Allan y Adams:** La investigación sobre formación de amistades identifica tres condiciones necesarias: proximidad repetida (verse con regularidad), ausencia de estructura jerarquica (sentirse iguales), y vulnerabilidad compartida (revelar progresivamente más de uno mismo). Las relaciones que carecen de cualquiera de estos tres elementos tienden a estancarse en el nivel de conocido, sin avanzar hacía la amistad real.
 
-**Ejercicio inmediato:** Evalua una relación casual actual que te gustaria profundizar contra estos tres ingredientes. Cual falta más: la proximidad repetida, la sensación de igualdad, o la vulnerabilidad compartida? Ese es el ingrediente específico a trabajar.
+**Ejercicio inmediato:** Evalua una relación casual actual que te gustaria profundizar contra estos tres ingredientes. Cual falta más: ¿la proximidad repetida, la sensación de igualdad, o la vulnerabilidad compartida? Ese es el ingrediente específico a trabajar.
 
 La amistad no aparece por casualidad. Aparece cuando se dan, deliberada o accidentalmente, tres condiciones específicas.
 

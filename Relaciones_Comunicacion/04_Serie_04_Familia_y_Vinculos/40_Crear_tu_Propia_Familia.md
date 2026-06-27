@@ -23,11 +23,11 @@ Este es el último libro de la serie sobre familia, y trata sobre el acto final 
 
 ## Capítulo 1: El concepto de familia en el siglo veintiuno
 
-La noción de familia ha experimentado una transformación radical en las últimas décadas, expandiendose mucho más allá del modeló nuclear tradicional para incluir una diversidad de configuraciones que antes eran marginales o invisibles.
+La noción de familia ha experimentado una transformación radical en las últimas décadas, expandiendose mucho más allá del modelo nuclear tradicional para incluir una diversidad de configuraciones que antes eran marginales o invisibles.
 
 **El Principio de la Familia como Función, no como Forma:** Los investigadores contemporaneos en sociología familiar coinciden en que la definición más útil de familia no es estructural (quien esta biologicamente relacionado, quien vive en la misma casa) sino funcional: las personas que proporcionan apoyo emocional consistente, sentido de pertenencia y compromiso de largo plazo, independientemente de si esa relación es biológica, legal o elegida.
 
-**Ejercicio inmediato:** Define, en tus propias palabras, lo que significa familia para ti, sin referirte automáticamente a la definición tradicional. Que funciones específicas (apoyo, pertenencia, compromiso) buscas que tu familia, en cualquier forma que adopte, cumpla?
+**Ejercicio inmediato:** Define, en tus propias palabras, lo que significa familia para ti, sin referirte automáticamente a la definición tradicional. ¿Que funciones específicas (apoyo, pertenencia, compromiso) buscas que tu familia, en cualquier forma que adopte, cumpla?
 
 La familia que importa no es la que tiene la forma correcta. Es la que cumple la función que necesitas.
 
@@ -39,7 +39,7 @@ La decisión de tener o no tener hijos es una de las decisiones de vida más sig
 
 **El Principio de la Decisión Examinada:** La investigación sobre satisfacción de vida muestra que tanto las personas con hijos como las sin hijos pueden reportar altos niveles de bienestar, y que el factor más predictivo de satisfacción no es la decisión en si misma sino el grado en que esa decisión fue tomada conscientemente, alineada con los propios valores, en lugar de por presión social o por inercia de lo que se espera.
 
-**Ejercicio inmediato:** Si aun no has tomado esta decisión o la estas reconsiderando, reflexiona honestamente: estas considerando tener (o no tener) hijos porque es lo que realmente quieres, o porque es lo que se espera de ti? La claridad en esta distinción es fundamental para una decisión que te sirva genuinamente.
+**Ejercicio inmediato:** Si aun no has tomado esta decisión o la estas reconsiderando, reflexiona honestamente: ¿estas considerando tener (o no tener) hijos porque es lo que realmente quieres, o porque es lo que se espera de ti? La claridad en esta distinción es fundamental para una decisión que te sirva genuinamente.
 
 La decisión de tener hijos merece la misma reflexión consciente que cualquier otra decisión importante de vida, no la inercia de lo esperado.
 
@@ -107,13 +107,13 @@ Una familia que sabe explicitamente que valora puede navegar decisiones difícil
 
 ## Capítulo 8: Comunicar tu modeló de familia a los demás
 
-Las personas con configuraciones familiares no tradicionales frecuentemente enfrentan la necesidad de explicar o justificar su modeló de familia ante familiares extendidos, amigos o la sociedad en general, lo que puede generar fatiga emocional significativa.
+Las personas con configuraciones familiares no tradicionales frecuentemente enfrentan la necesidad de explicar o justificar su modelo de familia ante familiares extendidos, amigos o la sociedad en general, lo que puede generar fatiga emocional significativa.
 
-**El Principio de la Comunicación sin Justificación Excesiva:** Las personas que gestionan mejor las preguntas o comentarios externos sobre su configuración familiar no tradicional son las que han desarrollado respuestas claras y seguras, sin caer en la justificación excesiva que sugiere que deben defender su elección de vida ante cada persona que cuestiona. Comunicar el propio modeló de familia con confianza, sin necesidad de convencer a todos de su validez, preserva mejor el bienestar emocional.
+**El Principio de la Comunicación sin Justificación Excesiva:** Las personas que gestionan mejor las preguntas o comentarios externos sobre su configuración familiar no tradicional son las que han desarrollado respuestas claras y seguras, sin caer en la justificación excesiva que sugiere que deben defender su elección de vida ante cada persona que cuestiona. Comunicar el propio modelo de familia con confianza, sin necesidad de convencer a todos de su validez, preserva mejor el bienestar emocional.
 
-**Ejercicio inmediato:** Si frecuentemente te encuentras justificando excesivamente tu modeló de familia ante otros, prepara una respuesta breve y segura que comunique tu elección sin caer en la necesidad de convencer al interlocutor de que esta de acuerdo.
+**Ejercicio inmediato:** Si frecuentemente te encuentras justificando excesivamente tu modelo de familia ante otros, prepara una respuesta breve y segura que comunique tu elección sin caer en la necesidad de convencer al interlocutor de que esta de acuerdo.
 
-No necesitas el permiso de los demás para qué tu modeló de familia sea valido.
+No necesitas el permiso de los demás para qué tu modelo de familia sea valido.
 
 ---
 
@@ -133,7 +133,7 @@ Una familia pequeña no es una familia incompleta. Puede ser, de hecho, un espac
 
 El trabajo final de toda la serie sobre familia es la reflexión consciente sobre que legado, en terminos de valores, patrones y formas de relacionarse, se quiere dejar a las generaciones futuras, sean estas biologicas, elegidas, o simplemente las personas que se veran influidas por el propio ejemplo.
 
-**El Principio del Legado como Elección Consciente:** El trabajo de toda esta serie (entender la familia de origen, navegar la relación con padres e hijos adultos, gestionar hermanos, adaptarse a estructuras diversas, cuidar a los mayores, construir rituales, tener conversaciones pendientes, gestionar el dinero, perdonar y finalmente crear la propia familia) converge en una pregunta final: que legado, específicamente, quieres dejar tu, distinto del que heredaste, a quienes vengan después de ti?
+**El Principio del Legado como Elección Consciente:** El trabajo de toda esta serie (entender la familia de origen, navegar la relación con padres e hijos adultos, gestionar hermanos, adaptarse a estructuras diversas, cuidar a los mayores, construir rituales, tener conversaciones pendientes, gestionar el dinero, perdonar y finalmente crear la propia familia) converge en una pregunta final: ¿que legado, específicamente, quieres dejar tu, distinto del que heredaste, a quienes vengan después de ti?
 
 **Ejercicio inmediato:** Escribe una carta breve (no necesariamente para enviar) a las futuras generaciones de tu familia, biológica o elegida, describiendo los valores y patrones que esperas que hereden de ti. Esa carta es la articulación más clara posible de tu legado intencional.
 

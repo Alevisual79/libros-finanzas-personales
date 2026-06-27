@@ -25,7 +25,7 @@ La diferencia entre un equipo que funciona excepcionalmente y uno que simplement
 
 **El Principio del Equipo como Sistema Relacional:** El proyecto Aristotle de Google, una investigación extensa sobre que hace que los equipos sean efectivos, encontró que la composición de talento individual predecia mucho menos el éxito del equipo que factores relacionales cómo la seguridad psicológica, la claridad de roles, y el sentido de proposito compartido. Un equipo de estrellas individuales sin estos factores relacionales frecuentemente rinde peor que un equipo de talento más modesto con relaciones sólidas.
 
-**Ejercicio inmediato:** Evalua tu equipo actual en terminos relacionales, no de talento individual: hay seguridad psicológica para expresar desacuerdo? Hay claridad sobre los roles de cada uno? Hay sentido compartido de proposito?
+**Ejercicio inmediato:** Evalua tu equipo actual en terminos relacionales, no de talento individual: ¿hay seguridad psicológica para expresar desacuerdo? ¿Hay claridad sobre los roles de cada uno? Hay sentido compartido de proposito?
 
 Un equipo de estrellas sin relaciones sólidas pierde, consistentemente, contra un equipo de talento modesto con buenas relaciones.
 
@@ -35,9 +35,9 @@ Un equipo de estrellas sin relaciones sólidas pierde, consistentemente, contra 
 
 Patrick Lencioni identifica cinco disfunciones interrelacionadas que, en cascada, explican por qué la mayoría de los equipos no alcanzan su potencial, comenzando con la ausencia de confianza como raiz de todas las demás.
 
-**El Principio de la Cascada de Disfunciones:** Segun el modeló de Lencioni, la ausencia de confianza (no mostrar vulnerabilidad) lleva al miedo al conflicto (evitar el desacuerdo necesario), lo cual lleva a la falta de compromiso (decisiones ambiguas sin compromiso genuino), lo cual lleva a la evitación de la responsabilidad (no exigirse mutuamente cuentas), lo cual finalmente lleva a la falta de atención a los resultados colectivos (priorizar el ego individual sobre el éxito del equipo).
+**El Principio de la Cascada de Disfunciones:** Segun el modelo de Lencioni, la ausencia de confianza (no mostrar vulnerabilidad) lleva al miedo al conflicto (evitar el desacuerdo necesario), lo cual lleva a la falta de compromiso (decisiones ambiguas sin compromiso genuino), lo cual lleva a la evitación de la responsabilidad (no exigirse mutuamente cuentas), lo cual finalmente lleva a la falta de atención a los resultados colectivos (priorizar el ego individual sobre el éxito del equipo).
 
-**Ejercicio inmediato:** Identifica en cual de las cinco disfunciones se encuentra tu equipo actualmente con mayor intensidad. Recuerda que, segun el modeló, la disfunción base (falta de confianza) es generalmente donde debe empezar el trabajo de mejora.
+**Ejercicio inmediato:** Identifica en cual de las cinco disfunciones se encuentra tu equipo actualmente con mayor intensidad. Recuerda que, segun el modelo, la disfunción base (falta de confianza) es generalmente donde debe empezar el trabajo de mejora.
 
 Las cinco disfunciones de un equipo no son independientes. Son una cascada que empieza, casi siempre, en la ausencia de confianza basica.
 
@@ -61,7 +61,7 @@ Generar responsabilidad genuina en un equipo, donde los miembros se exigen mutua
 
 **El Principio de la Responsabilidad entre Pares:** Los equipos con alta responsabilidad colectiva no dependen exclusivamente de la supervisión jerarquica para mantener estandares altos. Han desarrollado normas donde los propios miembros del equipo se sienten con permiso y responsabilidad de señalar a sus pares cuando algo no cumple el estandar esperado, distribuyendo la función de control de calidad entre todos en lugar de concentrarla solo en el líder.
 
-**Ejercicio inmediato:** Reflexiona sobre si en tu equipo los miembros se sienten con permiso de señalar entre si cuando algo no cumple el estandar esperado, o si esa función recae exclusivamente en el líder. Que cambiaria si se distribuyera más?
+**Ejercicio inmediato:** Reflexiona sobre si en tu equipo los miembros se sienten con permiso de señalar entre si cuando algo no cumple el estandar esperado, o si esa función recae exclusivamente en el líder. ¿Que cambiaria si se distribuyera más?
 
 Un equipo donde solo el jefe exige cuentas no es un equipo de alto rendimiento. Es un equipo que rinde solo cuando el jefe esta mirando.
 
@@ -73,7 +73,7 @@ El reconocimiento explícito y regular de los logros colectivos, distinto del re
 
 **El Principio de la Celebración como Refuerzo de Identidad Colectiva:** Los equipos que celebran explicitamente sus logros colectivos, no solo las contribuciones individuales destacadas, refuerzan el sentido de que el equipo en su conjunto, no solo sus miembros individuales más visibles, es la unidad de éxito relevante. Esta práctica fortalece la motivación colectiva y reduce la competencia interna improductiva por reconocimiento individual.
 
-**Ejercicio inmediato:** Identifica un logró reciente de tu equipo que merezca celebración colectiva explícita. Que forma de reconocimiento, más allá del trabajo individual destacado, podría fortalecer el sentido de logró compartido?
+**Ejercicio inmediato:** Identifica un logró reciente de tu equipo que merezca celebración colectiva explícita. ¿Que forma de reconocimiento, más allá del trabajo individual destacado, podría fortalecer el sentido de logró compartido?
 
 Celebrar solo a las estrellas individuales del equipo enseña a todos que el éxito colectivo importa menos que el brillo personal.
 
@@ -85,7 +85,7 @@ Los patrones de comunicación disfuncional dentro de los equipos (información r
 
 **El Principio de la Comunicación Completa y Oportuna:** Los equipos con mejor desempeño tienden a compartir información relevante de forma proactiva (sin esperar a que se solicite explicitamente), verifican activamente la comprensión compartida en lugar de asumir que todos entienden lo mismo, y eligen canales de comunicación apropiados para la complejidad y sensibilidad del mensaje (reservando la comunicación escrita para información simple y la conversación directa para temas complejos o sensibles).
 
-**Ejercicio inmediato:** Identifica un patron de comunicación disfuncional específico en tu equipo (información retenida, suposiciones no verificadas, canal inapropiado). Que cambio concreto podría mejorarlo desde tu propio rol?
+**Ejercicio inmediato:** Identifica un patron de comunicación disfuncional específico en tu equipo (información retenida, suposiciones no verificadas, canal inapropiado). ¿Que cambio concreto podría mejorarlo desde tu propio rol?
 
 La mayoría de los problemas de comunicación en equipo no son sobre falta de inteligencia. Son sobre habitos específicos que se pueden identificar y cambiar.
 
@@ -141,7 +141,7 @@ No necesitas ser el líder del equipo para fortalecer su cultura. Cada miembro c
 
 ## Epílogo
 
-Un equipo no es un grupo de personas con el mismo objetivo. Es un grupo de personas que confian entre si lo suficiente para ser honestas. Elena, después de ver fracasar multiples actividades de team building, propuso algo diferente a su equipo: una conversación estructurada y honesta sobre las tensiones no dichas que existian. Fue incomodo. Pero produjó, en una tarde, más avance relacional que todas las actividades grupales del año anterior combinadas.
+Un equipo no es un grupo de personas con el mismo objetivo. Es un grupo de personas que confian entre si lo suficiente para ser honestas. Elena, después de ver fracasar multiples actividades de team building, propuso algo diferente a su equipo: una conversación estructurada y honesta sobre las tensiones no dichas que existían. Fue incomodo. Pero produjó, en una tarde, más avance relacional que todas las actividades grupales del año anterior combinadas.
 
 ---
 

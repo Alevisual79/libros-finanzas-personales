@@ -61,7 +61,7 @@ La calidad de la relación entre el paciente y el terapeuta, conocida como alian
 
 **El Principio de la Alianza como Factor Determinante:** La investigación sobre efectividad terapeutica muestra repetidamente que la calidad de la relación entre paciente y terapeuta (confianza, sensación de ser comprendido, colaboración genuina en el proceso) predice el resultado del tratamiento de forma más robusta que la técnica específica empleada, lo cual sugiere que la elección del terapeuta correcto, en terminos de ajuste personal, es tan importante como su capacitación técnica.
 
-**Ejercicio inmediato:** Evalua tu propia relación con tu terapeuta actual, si tienes uno: sientes confianza genuina, sensación de ser comprendido, y colaboración real en el proceso? Si la respuesta es no después de varias sesiones, considera si necesitas buscar un mejor ajuste.
+**Ejercicio inmediato:** Evalua tu propia relación con tu terapeuta actual, si tienes uno: ¿sientes confianza genuina, sensación de ser comprendido, y colaboración real en el proceso? Si la respuesta es no después de varias sesiones, considera si necesitas buscar un mejor ajuste.
 
 La conexión que sientes con tu terapeuta no es un detalle secundario. Es, segun la investigación, uno de los factores más importantes para que la terapia funcione.
 
@@ -97,7 +97,7 @@ Diferentes formatos terapeuticos (individual, de pareja, familiar) son apropiado
 
 **El Principio de la Adecuación del Formato al Sistema Relevante:** Las dificultades que son principalmente individuales (ansiedad personal, procesamiento de trauma propio) frecuentemente se benefician más de terapia individual, mientras las dificultades que son fundamentalmente relacionales (conflicto de pareja recurrente, dinámicas familiares disfuncionales) frecuentemente requieren la inclusión de las personas relevantes en el proceso terapeutico para abordar el sistema completo, no solo la experiencia individual de una persona dentro de el.
 
-**Ejercicio inmediato:** Reflexiona sobre tu dificultad actual: es principalmente individual, o involucra dinámicas con otras personas específicas que podrían beneficiarse de ser incluidas en el proceso terapeutico?
+**Ejercicio inmediato:** Reflexiona sobre tu dificultad actual: ¿es principalmente individual, o involucra dinámicas con otras personas específicas que podrían beneficiarse de ser incluidas en el proceso terapeutico?
 
 Algunas dificultades se resuelven mejor trabajando solo. Otras requieren trabajar el sistema relacional completo. Identificar cual es tu caso guia la elección de formato apropiado.
 
@@ -141,7 +141,7 @@ Terminar la terapia, como empezarla, merece ser una decisión consciente y conve
 
 ## Epílogo
 
-La terapia no es magica ni inmediata. Es una herramienta muy potente en manos de quien la usa correctamente. Ruben, después de entender mejor para qué sirve realmente el proceso terapeutico y como participar activamente en el, decidió darle una segunda oportunidad, esta vez con expectativas más realistas y mayor disposición a aplicar lo que trabajaba en sesión a su vida cotidiana. Dos años después, podía identificar con claridad cambios reales en sus patrones relacionales que, sin ese segundo intento informado, probablemente nunca habria logrado.
+La terapia no es magica ni inmediata. Es una herramienta muy potente en manos de quien la usa correctamente. Ruben, después de entender mejor para qué sirve realmente el proceso terapeutico y como participar activamente en el, decidió darle una segunda oportunidad, esta vez con expectativas más realistas y mayor disposición a aplicar lo que trabajaba en sesión a su vida cotidiana. Dos años después, podía identificar con claridad cambios reales en sus patrones relacionales que, sin ese segundo intento informado, probablemente nunca habría logrado.
 
 ---
 

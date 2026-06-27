@@ -35,7 +35,7 @@ El negocio que no gestiona el flujo de caja gestiona las sorpresas. Y las sorpre
 
 ## Capítulo 2: Los cobros: como acelerar el dinero que entra
 
-Lucia ha reducido su ciclo de cobró en treinta dias y ha transformado su liquidez sin cambiar nada de su modeló de negocio.
+Lucia ha reducido su ciclo de cobró en treinta dias y ha transformado su liquidez sin cambiar nada de su modelo de negocio.
 
 **El Principio de La Gestion de Cobros como La práctica de Reducir El Tiempo que Pasa entre La Entrega del Servicio o Producto y La Recepción del Pago porque Cada Dia que Tarda Un Cliente en Pagar Es Un Dia que El Dinero Trabaja Para El Cliente y No Para El Negocio:** Las estrategias de aceleración de cobros incluyen: facturar inmediatamente al completar el servicio o la entrega del producto (en lugar de facturar a fin de mes o cuando el cliente lo solicita), ofrecer incentivos por pago anticipado (descuentos del uno o el dos por ciento por pago en diez dias son frecuentemente el coste más barato de financiación disponible), cobrar anticipos o pagos parciales al inició del proyecto (especialmente en proyectos grandes o de larga duración), y implementar pagos automáticos recurrentes para clientes de larga duración.
 
@@ -65,7 +65,7 @@ El pago que haces el dia que corresponde segun el contrató es siempre mejor que
 
 Carlos ha aprendido a prever el flujo de caja a trece semanas y no vuelve a tener sorpresas de liquidez.
 
-**El Principio de La Previsión de Flujo de Caja como El Modelo que Permite Al Emprendedor Ver Con Antelación Cuantos Meses de Liquidez Tiene y Cuando Podria Haber Un Deficit de Caja, Dando Tiempo Suficiente Para Tomar Acciones Preventivas antes de Que El Problema Se Convierta en Una Crisis:** La herramienta más útil para el flujo de caja es la previsión a trece semanas: una hoja de cálculo que muestra semana a semana los cobros esperados (de facturas emitidas y de ventas previstas), los pagos comprometidos (facturas a pagar, nóminas, impuestos), y el saldo resultante. Esa visión a trece semanas permite identificar los períodos de potencial deficit con suficiente antelación para actuar.
+**El Principio de La Previsión de Flujo de Caja como El Modelo que Permite Al Emprendedor Ver Con Antelación Cuantos Meses de Liquidez Tiene y Cuando Podría Haber Un Deficit de Caja, Dando Tiempo Suficiente Para Tomar Acciones Preventivas antes de Que El Problema Se Convierta en Una Crisis:** La herramienta más útil para el flujo de caja es la previsión a trece semanas: una hoja de cálculo que muestra semana a semana los cobros esperados (de facturas emitidas y de ventas previstas), los pagos comprometidos (facturas a pagar, nóminas, impuestos), y el saldo resultante. Esa visión a trece semanas permite identificar los períodos de potencial deficit con suficiente antelación para actuar.
 
 Las acciones preventivas disponibles cuando se anticipa un deficit de caja incluyen: acelerar el cobró de facturas existentes (contacto proactivo a los clientes más cercanos al vencimiento), retrasar inversiones no urgentes, negociar un aplazamiento de pago con un proveedor, o activar una linea de credito que ya se tiene disponible pero no se ha usado.
 
@@ -139,7 +139,7 @@ Marcos ha aprendido a reconocer las señales de alarma de flujo de caja antes de
 
 Cualquiera de esas señales por si sola puede tener una explicación inocua. Dos o más de forma simultanea son una alerta sería que requiere análisis inmediato y acción.
 
-**Ejercicio inmediato:** Revisa las cuatro señales de alarma para tu negocio este mes: el saldo bancario esta bajando aunque hayas tenido buen revenue?, has necesitado usar credito para gastos operativos?, las facturas pendientes de cobró han aumentado respecto al mes anterior?, tienes facturas a proveedores vencidas sin pagar? Si la respuesta a dos o más de esas preguntas es si, tienes un problema de flujo de caja activo que necesita atención prioritaria esta semana, no el mes que viene.
+**Ejercicio inmediato:** Revisa las cuatro señales de alarma para tu negocio este mes: ¿el saldo bancario esta bajando aunque hayas tenido buen revenue?, has necesitado usar credito para gastos operativos?, las facturas pendientes de cobró han aumentado respecto al mes anterior?, tienes facturas a proveedores vencidas sin pagar? Si la respuesta a dos o más de esas preguntas es si, tienes un problema de flujo de caja activo que necesita atención prioritaria esta semana, no el mes que viene.
 
 El problema de flujo de caja que se detecta con dos señales de alarma es manejable. El que se detecta con cuatro es frecuentemente una crisis.
 

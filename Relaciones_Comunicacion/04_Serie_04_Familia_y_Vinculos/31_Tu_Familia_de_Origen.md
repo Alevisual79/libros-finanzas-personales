@@ -41,7 +41,7 @@ Cada familia tiene guiones no escritos sobre como deben comportarse sus miembros
 
 **El Principio del Guion Invisible:** Los guiones familiares (las cosas que se dicen siempre, los temas que nunca se tocan, las expectativas implícitas sobre éxito, sobre genero, sobre obediencia) operan cómo un sistema operativo invisible que dirige el comportamiento de los miembros de la familia sin que necesiten ser explicitados. Una persona puede pasar décadas operando segun un guion familiar que nunca ha sido nombrado conscientemente, simplemente porque siempre ha sido asi.
 
-**Ejercicio inmediato:** Completa esta frase tal cómo la habrias escuchado en tu infancia: en mi familia, lo que siempre se decía sobre el éxito o el dinero o las emociones era... Esa frase es un fragmento de tu guion familiar.
+**Ejercicio inmediato:** Completa esta frase tal cómo la habrías escuchado en tu infancia: en mi familia, lo que siempre se decía sobre el éxito o el dinero o las emociones era... Esa frase es un fragmento de tu guion familiar.
 
 El guion que no se nombra es el que más poder tiene sobre ti.
 
@@ -53,7 +53,7 @@ Las familias, especialmente las disfuncionales, tienden a asignar roles específ
 
 **El Principio de los Roles del Sistema:** La literatura sobre dinámica familiar identifica roles recurrentes: el héroe o sobreachiever que compensa las carencias familiares con logros, el chivo expiatorio que absorbe la culpa o el conflicto del sistema, el mediador que se encarga de mantener la paz a costa de sus propias necesidades, y el invisible que aprende a no necesitar nada para no generar carga. Estos roles, aprendidos en la infancia, suelen persistir en la adultez, manifestandose en patrones laborales y relacionales que replican la función que se aprendió a cumplir en casa.
 
-**Ejercicio inmediato:** Identifica que rol desempeñaste en tu familia de origen. Cómo se manifiesta ese mismo rol en tu vida adulta actual, en el trabajo o en tus relaciones?
+**Ejercicio inmediato:** Identifica que rol desempeñaste en tu familia de origen. ¿Cómo se manifiesta ese mismo rol en tu vida adulta actual, en el trabajo o en tus relaciones?
 
 El rol que jugaste de niño sin elegirlo puede seguir dirigiendo tu vida de adulto si no lo nombras.
 
@@ -89,7 +89,7 @@ Los patrones emocionales no se transmiten solo de padres a hijos. Tienen raices 
 
 **El Principio de la Transmisión Transgeneracional:** Los estudios sobre trauma transgeneracional muestran que las respuestas emocionales a eventos difíciles (guerras, migraciones, perdidas, pobreza) pueden transmitirse de generación en generación a traves de la crianza, incluso sin que se hable explicitamente de esos eventos. Los padres criados por personas que sobrevivieron a circunstancias difíciles a menudo desarrollan patrones de hipervigilancia, control o evitación emocional que luego transmiten, sin saberlo, a sus propios hijos.
 
-**Ejercicio inmediato:** Investiga, hablando con familiares mayores si es posible, que circunstancias difíciles atravesaron tus abuelos. Que patrones emocionales podrías rastrear desde esa generación hasta la tuya?
+**Ejercicio inmediato:** Investiga, hablando con familiares mayores si es posible, que circunstancias difíciles atravesaron tus abuelos. ¿Que patrones emocionales podrías rastrear desde esa generación hasta la tuya?
 
 Lo que tus abuelos no procesaron, tus padres heredaron sin saberlo. Y tu también.
 
@@ -113,7 +113,7 @@ La diferenciación es la capacidad de mantener la propia identidad, valores y de
 
 **El Principio de la Diferenciación de Bowen:** Bowen define la diferenciación del self cómo la capacidad de mantener un sentido claro de quien se es, incluso bajo presión del sistema familiar para conformarse. Las personas con baja diferenciación tienden a fusionarse con las opiniones y emociones familiares o, en el otro extremo, a cortar relaciones completamente para protegerse, sin encontrar el terminó medio: mantener conexión y autonomía al mismo tiempo.
 
-**Ejercicio inmediato:** Identifica una decisión de tu vida en la que sentiste presión familiar para hacer algo distinto a lo que querías. Como gestionaste esa tensión? Mantuviste tu posición sin cortar el vinculó, o cediste, o cortaste el contacto?
+**Ejercicio inmediato:** Identifica una decisión de tu vida en la que sentiste presión familiar para hacer algo distinto a lo que querías. ¿Como gestionaste esa tensión? ¿Mantuviste tu posición sin cortar el vinculó, o cediste, o cortaste el contacto?
 
 Diferenciarte de tu familia no significa alejarte de ella. Significa poder ser tu mismo dentro de la relación.
 
@@ -125,7 +125,7 @@ El perdon hacía la familia de origen es un proceso complejo que no requiere min
 
 **El Principio del Perdon sin Reconciliación Obligatoria:** El perdon, entendido cómo la liberación de la carga emocional del resentimiento, puede ocurrir independientemente de si la relación con la persona que causo el daño se mantiene activa o se distancia. Perdonar no obliga a reconectar ni a fingir que el daño no ocurrio. Es un proceso interno que beneficia principalmente a quien perdona, liberandolo del peso de cargar con la rabia o el resentimiento de forma indefinida.
 
-**Ejercicio inmediato:** Si hay alguien en tu familia de origen a quien sientes que necesitas perdonar, reflexiona: el perdon que estas considerando es para liberarte tu, o es una obligación que sientes que debes cumplir para mantener la relación? La distinción importa para que el proceso sea genuino.
+**Ejercicio inmediato:** Si hay alguien en tu familia de origen a quien sientes que necesitas perdonar, reflexiona: ¿el perdon que estas considerando es para liberarte tu, o es una obligación que sientes que debes cumplir para mantener la relación? La distinción importa para que el proceso sea genuino.
 
 Perdonar es para ti, no para quien te lastimo.
 

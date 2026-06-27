@@ -49,7 +49,7 @@ La parentalización, donde un hijo asume responsabilidades emocionales o prácti
 
 **El Principio de la Inversión de Roles como Daño Estructural:** Cuando un niño es colocado en la posición de proporcionar apoyo emocional, mediación de conflictos parentales, o cuidado práctico que excede lo apropiado para su edad, esta inversión de roles le priva de la experiencia de ser cuidado que necesita para su desarrollo, generando frecuentemente patrones de hiperresponsabilidad y dificultad para recibir cuidado en relaciones futuras.
 
-**Ejercicio inmediato:** Reflexiona si experimentaste parentalización en tu infancia: tuviste que cuidar emocional o practicamente a un padre de forma que excedia lo apropiado para tu edad? Identifica como ese patron podría manifestarse en tus relaciones actuales.
+**Ejercicio inmediato:** Reflexiona si experimentaste parentalización en tu infancia: ¿tuviste que cuidar emocional o practicamente a un padre de forma que excedia lo apropiado para tu edad? Identifica como ese patron podría manifestarse en tus relaciones actuales.
 
 La parentalización en la infancia no es simplemente madurar rápido. Es una inversión de roles que tiene consecuencias reales en como te relacionas de adulto.
 
@@ -73,7 +73,7 @@ Algunas familias practican un patron de invisibilización sistemática de cierto
 
 **El Principio de la Invisibilización como Daño Silencioso:** Crecer en una familia donde se es sistemáticamente menos atendido, validado o celebrado que otros miembros (frecuentemente un hermano favorito) genera un daño particular que es difícil de nombrar precisamente porque no involucra eventos dramaticos específicos, sino una ausencia consistente de atención que se acumula silenciosamente a lo largo de toda la infancia.
 
-**Ejercicio inmediato:** Reflexiona si experimentaste un patron de invisibilización en tu familia de origen, comparado con la atención que recibían otros miembros. Como crees que ese patron ha influido en tu autoestima actual?
+**Ejercicio inmediato:** Reflexiona si experimentaste un patron de invisibilización en tu familia de origen, comparado con la atención que recibían otros miembros. ¿Como crees que ese patron ha influido en tu autoestima actual?
 
 La invisibilización familiar no deja marcas visibles. Pero la ausencia consistente de atención y validación tiene un costo real en quien la experimenta.
 

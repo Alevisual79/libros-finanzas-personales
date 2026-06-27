@@ -49,11 +49,11 @@ El mensaje que cambia segun el canal comunica que no hay un mensaje. Hay una col
 
 ## Capítulo 3: El modeló hub and spoke: como organizar el sistema de canales
 
-Marcos ha adoptado el modeló hub and spoke para organizar su sistema de marketing integrado.
+Marcos ha adoptado el modelo hub and spoke para organizar su sistema de marketing integrado.
 
-**El Principio del Modelo Hub and Spoke cómo la Estructura donde un Canal Central (El Hub) Recibe y Distribuye a los Demás Canales (Los Spokes) en Lugar de Tener Multiples Canales que Funcionan de Forma Independiente y Desconectada:** Gary Vaynerchuk propone el modeló de contenido piramidal: un contenido central largo y exhaustivo (el hub) que se distribuye y adapta en multiples formatos cortos para diferentes canales (los spokes). El blog, el podcast, o el canal de YouTube es el hub donde se crea el contenido de mayor profundidad; las redes sociales, la newsletter, y el email marketing son los spokes donde se distribuye y amplifica.
+**El Principio del Modelo Hub and Spoke cómo la Estructura donde un Canal Central (El Hub) Recibe y Distribuye a los Demás Canales (Los Spokes) en Lugar de Tener Multiples Canales que Funcionan de Forma Independiente y Desconectada:** Gary Vaynerchuk propone el modelo de contenido piramidal: un contenido central largo y exhaustivo (el hub) que se distribuye y adapta en multiples formatos cortos para diferentes canales (los spokes). El blog, el podcast, o el canal de YouTube es el hub donde se crea el contenido de mayor profundidad; las redes sociales, la newsletter, y el email marketing son los spokes donde se distribuye y amplifica.
 
-Para el emprendedor con recursos limitados, el modeló hub and spoke es especialmente relevante porque permite multiplicar el alcance del mismo contenido sin necesidad de crear contenido completamente diferente para cada canal: el mismo articulo de blog puede convertirse en un thread de LinkedIn, un email de newsletter, un episodio de podcast, y cinco posts de Instagram.
+Para el emprendedor con recursos limitados, el modelo hub and spoke es especialmente relevante porque permite multiplicar el alcance del mismo contenido sin necesidad de crear contenido completamente diferente para cada canal: el mismo articulo de blog puede convertirse en un thread de LinkedIn, un email de newsletter, un episodio de podcast, y cinco posts de Instagram.
 
 **Ejercicio inmediato:** Define tu hub de contenido (el canal donde creas tu contenido más largo y más completo: blog, podcast, o YouTube) y tus tres canales spoke principales (donde distribuyes y adaptas ese contenido: LinkedIn, newsletter, y redes sociales). Para tu próximo contenido del hub, diseña cómo lo adaptaras para cada spoke: que fragmento del articulo se convierte en el post de LinkedIn, que datos o citas se convierten en el email de newsletter, y que historia específica se convierte en el post de Instagram o Twitter.
 
@@ -83,7 +83,7 @@ Lucia ha trabajado la coherencia de la experiencia del cliente en todos sus punt
 
 La investigación de Salesforce sobre las expectativas del cliente moderno muestra que el 76% de los consumidores esperan que las empresas entiendan sus necesidades y expectativas en todos los puntos de contacto, y que el 57% dejarian de comprar a una empresa que no proporciona experiencias coherentes.
 
-**Ejercicio inmediato:** Audita la coherencia de la experiencia del cliente en tu negocio: si un cliente potencial visita tu web, lee tu articulo de blog, recibe tu newsletter, y tiene una conversación de ventas contigo, recibe el mismo mensaje central y la misma experiencia de marca en todos los puntos? El tono de voz es coherente (igualmente formal o informal en todos los canales)? El posicionamiento es coherente (el mismo cliente objetivo y el mismo problema en todos los canales)? La propuesta de valor es coherente (los mismos beneficios y diferenciales en todos los puntos)? Las incoherencias que encuentres son el trabajo de integración que tienes por hacer.
+**Ejercicio inmediato:** Audita la coherencia de la experiencia del cliente en tu negocio: ¿si un cliente potencial visita tu web, lee tu articulo de blog, recibe tu newsletter, y tiene una conversación de ventas contigo, recibe el mismo mensaje central y la misma experiencia de marca en todos los puntos? ¿El tono de voz es coherente (igualmente formal o informal en todos los canales)? El posicionamiento es coherente (el mismo cliente objetivo y el mismo problema en todos los canales)? ¿La propuesta de valor es coherente (los mismos beneficios y diferenciales en todos los puntos)? Las incoherencias que encuentres son el trabajo de integración que tienes por hacer.
 
 La marca que se siente diferente en cada punto de contacto no es una marca. Es una colección de primeras impresiones.
 
@@ -93,7 +93,7 @@ La marca que se siente diferente en cada punto de contacto no es una marca. Es u
 
 Marcos ha implementado un sistema de atribución que le permite saber exactamente que canal genera más clientes.
 
-**El Principio de la Atribución de Marketing como el Proceso de Identificar Que Canal o Combinación de Canales Es Responsable de Cada Conversión para Poder Invertir los Recursos en los Canales de Mayor Retorno:** La atribución es uno de los mayores desafios del marketing integrado: cuando un cliente ha tenido multiples puntos de contacto antes de comprar (encontró el blog por SEO, leyo tres articulos, se suscribio a la newsletter, recibio seis emails, y después hizo click en un anuncio de retargeting antes de comprar), que canal recibe el credito de la venta? La atribución de último click atribuye el 100% al último canal; la de primer click al primero; la multitocate distribuye el credito entre todos.
+**El Principio de la Atribución de Marketing como el Proceso de Identificar Que Canal o Combinación de Canales Es Responsable de Cada Conversión para Poder Invertir los Recursos en los Canales de Mayor Retorno:** La atribución es uno de los mayores desafios del marketing integrado: ¿cuando un cliente ha tenido multiples puntos de contacto antes de comprar (encontró el blog por SEO, leyo tres articulos, se suscribio a la newsletter, recibio seis emails, y después hizo click en un anuncio de retargeting antes de comprar), que canal recibe el credito de la venta? La atribución de último click atribuye el 100% al último canal; la de primer click al primero; la multitocate distribuye el credito entre todos.
 
 La investigación de Google sobre los patrones de conversión muestra que en la mayoría de los sectores, la decisión de compra requiere entre seis y doce puntos de contacto y que ningún canal unico es responsable de la mayoría de las conversiones: son el conjunto de canales los que construyen la confianza que produce la decisión.
 
@@ -111,7 +111,7 @@ Carlos ha aprendido a distribuir su tiempo y presupuesto de marketing de forma e
 
 Ryan Holiday propone la regla de la distribución de presupuesto de marketing para emprendedores: concentra el 70% del presupuesto en lo que ya funciona (los canales que ya generan clientes de forma consistente), el 20% en probar los próximos canales más prometedores, y el 10% en experimentos de mayor riesgo y mayor potencial.
 
-**Ejercicio inmediato:** Para tu negocio, analiza los últimos doce meses de actividad de marketing: de cada canal que usas (blog/SEO, LinkedIn, email, eventos, referidos), cuantos clientes nuevos atribuyes a cada uno? Calcula el coste en tiempo y dinero de cada canal y el revenue generado por canal. Con esos datos, identifica el canal de mayor retorno (revenue generado dividido entre el coste del canal). Ese canal merece más inversión. El de menor retorno merece menos o ninguna.
+**Ejercicio inmediato:** Para tu negocio, analiza los últimos doce meses de actividad de marketing: ¿de cada canal que usas (blog/SEO, LinkedIn, email, eventos, referidos), cuantos clientes nuevos atribuyes a cada uno? Calcula el coste en tiempo y dinero de cada canal y el revenue generado por canal. Con esos datos, identifica el canal de mayor retorno (revenue generado dividido entre el coste del canal). Ese canal merece más inversión. El de menor retorno merece menos o ninguna.
 
 El presupuesto de marketing que se distribuye igualmente entre todos los canales produce resultados mediocres en todos. El que se concentra en los que funcionan produce resultados excepcionales en ellos.
 
@@ -153,7 +153,7 @@ Carlos ha llegado al punto donde su sistema de marketing genera leads de forma c
 
 La investigación sobre el crecimiento de negocios que han construido sistemas de marketing autonomos muestra que el tiempo de construcción del sistema (tipicamente entre doce y veinticuatro meses de trabajo consistente) produce un activo que genera ingresos con mucho mayor eficiencia que el marketing puramente manual.
 
-**Ejercicio inmediato:** Define el estado del sistema de marketing que quieres tener en doce meses: cuantos leads por mes genera el sistema automáticamente, cual es la tasa de conversión de esos leads a clientes, y cual es el revenue mensual recurrente que ese sistema produce. Esa visión a doce meses te da el norte hacía el que orienta todas las decisiones de marketing mensual. Y te permite hacer la pregunta correcta cada semana: esta acción que estoy considerando me acerca o me aleja del sistema que quiero tener en doce meses?
+**Ejercicio inmediato:** Define el estado del sistema de marketing que quieres tener en doce meses: cuantos leads por mes genera el sistema automáticamente, cual es la tasa de conversión de esos leads a clientes, y cual es el revenue mensual recurrente que ese sistema produce. Esa visión a doce meses te da el norte hacía el que orienta todas las decisiones de marketing mensual. Y te permite hacer la pregunta correcta cada semana: ¿esta acción que estoy considerando me acerca o me aleja del sistema que quiero tener en doce meses?
 
 El sistema de marketing que construyes hoy trabaja para ti mañana. El que no construyes hoy sigue sin trabajar para ti mañana.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel ha observado a lo largo de su carrera como algunas personas cambian cuando ascienden a posiciones de poder. Ruben ha tenido clientes con mucho dinero que, sin percibirlo, trataban a los demás de formas que no habrian tolerado de otros. Elena ha notado como en los grupos donde tiene poder de decisión sus propias percepciones cambian de formas que no siempre reconoce en el momento. El poder no es neutral: transforma a las personas que lo ejercen de formas predecibles, la mayoría de las veces sin que ellas lo perciban. Este libro es sobre esa transformación: su psicología, sus consecuencias, y como ejercer el poder de formas que no te corrompen a ti ni dañan a los que te rodean.
+Isabel ha observado a lo largo de su carrera como algunas personas cambian cuando ascienden a posiciones de poder. Ruben ha tenido clientes con mucho dinero que, sin percibirlo, trataban a los demás de formas que no habrían tolerado de otros. Elena ha notado como en los grupos donde tiene poder de decisión sus propias percepciones cambian de formas que no siempre reconoce en el momento. El poder no es neutral: transforma a las personas que lo ejercen de formas predecibles, la mayoría de las veces sin que ellas lo perciban. Este libro es sobre esa transformación: su psicología, sus consecuencias, y como ejercer el poder de formas que no te corrompen a ti ni dañan a los que te rodean.
 
 ---
 
@@ -27,7 +27,7 @@ El poder no solo cambia el comportamiento. Cambia literalmente la forma en que e
 
 La investigación de Sukhvinder Obhi y colegas muestra que el poder reduce la activación de las neuronas espejo (las neuronas responsables de la empatia y la resonancia con el otro): las personas en estados de poder altos muestran menor respuesta neural a las acciones de otros, produciendo menor empatia funcional incluso en personas que valoran la empatia.
 
-**Ejercicio inmediato:** Reflexiona sobre las últimas decisiones que has tomado en una posición de autoridad (como líder, padre, cliente con poder de compra). Para cada una, reflexiona: dedique tiempo a entender la perspectiva de la persona afectada antes de decidir? Si la respuesta es frecuentemente no, ese es el sindrome del poder en acción en tu propio comportamiento.
+**Ejercicio inmediato:** Reflexiona sobre las últimas decisiones que has tomado en una posición de autoridad (como líder, padre, cliente con poder de compra). Para cada una, reflexiona: ¿dedique tiempo a entender la perspectiva de la persona afectada antes de decidir? Si la respuesta es frecuentemente no, ese es el sindrome del poder en acción en tu propio comportamiento.
 
 El poder que no ejerce empatia activamente pierde la empatia pasivamente.
 
@@ -41,7 +41,7 @@ La famosa frase de Lord Acton no es retorica. Tiene base empirica.
 
 La investigación de Joris Lammers y colegas muestra que este efecto no requiere poder institucional: incluso el poder experimental (sentirse poderoso en el laboratorio) produce la misma asimetria moral. El mecanismo no es la malicia sino el sesgo cognitivo que el poder introduce en el procesamiento de la información sobre el propio comportamiento.
 
-**Ejercicio inmediato:** Para una norma que aplicas a otros en tu entorno (puntualidad, comunicación clara, cumplimiento de compromisos), reflexiona honestamente: aplico esa norma a mi mismo con la misma exigencia que la aplico a los demás? Si la respuesta es no, ese es el efecto Lord Acton en acción. Identificarlo es el primer paso para corregirlo.
+**Ejercicio inmediato:** Para una norma que aplicas a otros en tu entorno (puntualidad, comunicación clara, cumplimiento de compromisos), reflexiona honestamente: ¿aplico esa norma a mi mismo con la misma exigencia que la aplico a los demás? Si la respuesta es no, ese es el efecto Lord Acton en acción. Identificarlo es el primer paso para corregirlo.
 
 El poder que no te hace más exigente contigo mismo que con los demás ya te esta corrompiendo, aunque no lo sientas.
 
@@ -69,7 +69,7 @@ Ruben ha observado que los emprendedores con más éxito frecuentemente se vuelv
 
 En algunos contextos, este mayor apetito de riesgo es adaptativo: los líderes que toman riesgos calculados producen más innovación que los que son excesivamente cautelosos. El problema es cuando el poder elimina la calibración del riesgo: los estudios muestran que el exceso de confianza (overconfidence) es más frecuente en posiciones de alto poder que en posiciones de bajo poder.
 
-**Ejercicio inmediato:** Para tus últimas decisiones importantes en una posición de autoridad, reflexiona: busque activamente perspectivas que cuestionaran esa decisión antes de tomarla? Si la respuesta es frecuentemente no, el apetito de riesgo amplificado por el poder puede estar tomando decisiones que tu evaluación sin poder habria moderado.
+**Ejercicio inmediato:** Para tus últimas decisiones importantes en una posición de autoridad, reflexiona: ¿busque activamente perspectivas que cuestionaran esa decisión antes de tomarla? Si la respuesta es frecuentemente no, el apetito de riesgo amplificado por el poder puede estar tomando decisiones que tu evaluación sin poder habría moderado.
 
 El riesgo que no consultas con nadie porque tienes el poder de tomarlo solo es el que más probablemente te destruye.
 
@@ -83,7 +83,7 @@ Isabel ha visto líderes que llegaron a sus posiciones con humildad y que despu�
 
 Los sintomas incluyen: la identificación de la propia visión con la verdad objetiva, el desprecio de los procesos y restricciones institucionales, la creencia de que la historia juzgara las acciones mejor que los contemporaneos, y la perdida de interés por los detalles operativos.
 
-**Ejercicio inmediato:** Si llevas años en una posición de liderazgo, reflexiona: cuando fue la última vez que alguien te dio feedback crítico que te sorprendio genuinamente? Si la respuesta es hace mucho tiempo, hay dos posibles explicaciones: que realmente funcionas muy bien (posible pero improbable a largo plazo) o que las personas a tu alrededor han aprendido que el feedback crítico no es bienvenido. La segunda es mucho más frecuente que la primera.
+**Ejercicio inmediato:** Si llevas años en una posición de liderazgo, reflexiona: ¿cuando fue la última vez que alguien te dio feedback crítico que te sorprendio genuinamente? Si la respuesta es hace mucho tiempo, hay dos posibles explicaciones: que realmente funcionas muy bien (posible pero improbable a largo plazo) o que las personas a tu alrededor han aprendido que el feedback crítico no es bienvenido. La segunda es mucho más frecuente que la primera.
 
 El líder al que nadie le dice lo que no quiere oir ya no tiene información real sobre su propio rendimiento.
 
@@ -93,7 +93,7 @@ El líder al que nadie le dice lo que no quiere oir ya no tiene información rea
 
 Ruben quiere construir una empresa donde el poder no corrompa sino que facilite el trabajo de todos.
 
-**El Principio del Liderazgo de Servicio como Modelo que Usa el Poder para Crear Condiciones que Otros Florezcan:** Robert Greenleaf acuno el terminó servant leadership (liderazgo servil) para describir un modeló donde el líder usa su posición de poder principalmente para remover obstaculos, proporcionar recursos, y crear condiciones para que los demás funcionen bien, en lugar de usar el poder para destacar personalmente o para ejecutar su propia visión independientemente de las necesidades del equipo.
+**El Principio del Liderazgo de Servicio como Modelo que Usa el Poder para Crear Condiciones que Otros Florezcan:** Robert Greenleaf acuno el terminó servant leadership (liderazgo servil) para describir un modelo donde el líder usa su posición de poder principalmente para remover obstaculos, proporcionar recursos, y crear condiciones para que los demás funcionen bien, en lugar de usar el poder para destacar personalmente o para ejecutar su propia visión independientemente de las necesidades del equipo.
 
 La investigación de Adam Grant y colegas muestra que los líderes orientados a dar (givers en la terminologia de Grant) producen equipos con mayor productividad, menor rotación, y mayor engagement que los líderes orientados a recibir (takers), aunque en el corto plazo los takers frecuentemente parecen más eficaces.
 
@@ -111,7 +111,7 @@ Elena ha estudiado sistemas organizacionales y ha aprendido que el diseño insti
 
 La investigación de Philip Zimbardo sobre el efecto de las situaciones en el comportamiento (experimento de la prisión de Stanford) muestra que situaciones que dan poder sin restricción producen comportamientos abusivos incluso en personas que no tenían esa tendencia previamente. La situación, no solo el carácter, determina el comportamiento.
 
-**Ejercicio inmediato:** En tu área de influencia (empresa, equipo, familia), identifica quien tiene el poder de tomar decisiones importantes sin rendición de cuentas a nadie. Si la respuesta eres tu mismo, reflexiona: que mecanismo podrías instalar voluntariamente para que alguien con perspectiva diferente pueda cuestionar tus decisiones antes de que se ejecuten? Los mejores líderes instalan sus propios cheques antes de que se los impongan.
+**Ejercicio inmediato:** En tu área de influencia (empresa, equipo, familia), identifica quien tiene el poder de tomar decisiones importantes sin rendición de cuentas a nadie. Si la respuesta eres tu mismo, reflexiona: ¿que mecanismo podrías instalar voluntariamente para que alguien con perspectiva diferente pueda cuestionar tus decisiones antes de que se ejecuten? Los mejores líderes instalan sus propios cheques antes de que se los impongan.
 
 El poder sin rendición de cuentas que no te ha corrompido todavia no es garantía de que no lo hará. Es solo una promesa de que hasta ahora ha funcionado.
 
@@ -125,7 +125,7 @@ Isabel ha visto cómo la asimetria de poder entre manager y equipo, padre e hijo
 
 Esta dinámica produce que las personas con más poder reciben información sistemáticamente distorsionada a su favor: el equipo les dice lo que quieren oir, los hijos les muestran lo que les gusta ver, los clientes les halagan. La asimetria de poder crea una burbuja informativa que el que tiene poder raramente puede ver desde dentro.
 
-**Ejercicio inmediato:** Identifica tres relaciones en tu vida donde tienes significativamente más poder que el otro (como líder, padre, empleador). Para cada una, reflexiona: en esta relación, la persona con menos poder puede decirme lo que realmente piensa sin coste para ella? Si la respuesta es incierta, la información que recibes en esa relación es probablemente más positiva de lo que la realidad justifica.
+**Ejercicio inmediato:** Identifica tres relaciones en tu vida donde tienes significativamente más poder que el otro (como líder, padre, empleador). Para cada una, reflexiona: ¿en esta relación, la persona con menos poder puede decirme lo que realmente piensa sin coste para ella? Si la respuesta es incierta, la información que recibes en esa relación es probablemente más positiva de lo que la realidad justifica.
 
 La relación donde el que tiene menos poder solo te puede decir lo que quieres oir no es una relación. Es un espejo que te miente.
 
@@ -139,7 +139,7 @@ Ruben no tiene poder formal en muchas de las situaciones donde necesita influir.
 
 Solo los tres primeros requieren posición formal. El poder de referencia y el poder de experto son formas de influencia que cualquier persona puede desarrollar independientemente de su posición jerarquica, y la investigación sugiere que producen cambios de actitud más duraderos porque operan por convicción en lugar de por cumplimiento.
 
-**Ejercicio inmediato:** En un área donde necesitas influir sin autoridad formal (colegas, clientes, pares), identifica en cual de las cinco bases de poder puedes desarrollar mayor credibilidad: tienes o puedes desarrollar expertise específica que otros no tienen? Puedes desarrollar relaciones de confianza y referencia que te hagan influyente? El poder informal que construyes es más sólido que el formal que te pueden quitar.
+**Ejercicio inmediato:** En un área donde necesitas influir sin autoridad formal (colegas, clientes, pares), identifica en cual de las cinco bases de poder puedes desarrollar mayor credibilidad: ¿tienes o puedes desarrollar expertise específica que otros no tienen? ¿Puedes desarrollar relaciones de confianza y referencia que te hagan influyente? El poder informal que construyes es más sólido que el formal que te pueden quitar.
 
 La autoridad que te dan puede quitartela. La que te ganas la llevas contigo a donde vayas.
 
@@ -161,7 +161,7 @@ El poder que no recuerda de dónde vino ya no sabe a donde va.
 
 ## Epílogo
 
-Isabel puso en práctica algo simple: una vez al mes, pedía a las personas de su equipo que le dijeran en un formulario anonimo una cosa que podría hacer mejor como líder. Las primeras respuestas fueron vagas. Con el tiempo, cuando el equipo confirmo que el anonimato era real y que las respuestas no tenían consecuencias, empezaron a ser específicas y útiles. Algunas la incomodaron. Todas le enseñaron algo que no habria aprendido de otra manera. El feedback que recibía de su propio jefe, en cambio, siguio siendo vago y positivo. Entendio que la diferencia no era el carácter de las personas sino la asimetria de poder que les pedía que le dijeran lo que quería oir.
+Isabel puso en práctica algo simple: una vez al mes, pedía a las personas de su equipo que le dijeran en un formulario anonimo una cosa que podría hacer mejor como líder. Las primeras respuestas fueron vagas. Con el tiempo, cuando el equipo confirmo que el anonimato era real y que las respuestas no tenían consecuencias, empezaron a ser específicas y útiles. Algunas la incomodaron. Todas le enseñaron algo que no habría aprendido de otra manera. El feedback que recibía de su propio jefe, en cambio, siguio siendo vago y positivo. Entendio que la diferencia no era el carácter de las personas sino la asimetria de poder que les pedía que le dijeran lo que quería oir.
 
 ---
 

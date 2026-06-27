@@ -37,7 +37,7 @@ El desarrollo de inteligencia artificial conversacional cada vez más sofisticad
 
 **El Principio de la Distinción entre Simulación y Conexion Genuina:** Aunque la IA conversacional puede simular convincentemente ciertos aspectos de la interacción relacional (escucha aparente, respuestas empaticas programadas), la pregunta de si puede satisfacer las necesidades psicológicas profundas que la conexión humana genuina proporciona (ser visto por otra conciencia, vulnerabilidad mutua real) permanece cómo un área de investigación activa y de debate ético significativo.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propia perspectiva: que aspectos de la conexión humana crees que la IA podría llegar a replicar genuinamente, y cuales crees que requieren irreductiblemente otra conciencia humana presente?
+**Ejercicio inmediato:** Reflexiona sobre tu propia perspectiva: ¿que aspectos de la conexión humana crees que la IA podría llegar a replicar genuinamente, y cuales crees que requieren irreductiblemente otra conciencia humana presente?
 
 La IA puede simular convincentemente muchos aspectos de la conversación relacional. Si puede satisfacer las necesidades más profundas de conexión humana genuina sigue siendo una pregunta abierta y significativa.
 

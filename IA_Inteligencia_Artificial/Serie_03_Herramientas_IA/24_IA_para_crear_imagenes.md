@@ -33,7 +33,7 @@ El entrenamiento a escala (centenares de millones de pares imagen-texto) y CLIP 
 
 ## Capítulo 2: Midjourney — El estandar de calidad artistica
 
-Midjourney es el modeló de referencia para imagenes de calidad artistica. Sus fortalezas son la coherencia estetica, la creatividad visual y la facilidad de producir imagenes que parecen creadas por disenadores o fotografos profesionales.
+Midjourney es el modelo de referencia para imagenes de calidad artistica. Sus fortalezas son la coherencia estetica, la creatividad visual y la facilidad de producir imagenes que parecen creadas por disenadores o fotografos profesionales.
 
 **Acceso:** A traves de Discord (servidor oficial de Midjourney).
 
@@ -64,7 +64,7 @@ DALL-E 3, integrado en ChatGPT Plus, combina la capacidad de lenguaje de GPT-4 p
 
 ## Capítulo 4: Stable Diffusión — El codigo abierto
 
-Stable Diffusión, desarrollado por Stability AI, es el modeló open source de imagen más importante. Los pesos del modeló son públicos: cualquiera puede descargarlo y ejecutarlo localmente.
+Stable Diffusión, desarrollado por Stability AI, es el modelo open source de imagen más importante. Los pesos del modelo son públicos: cualquiera puede descargarlo y ejecutarlo localmente.
 
 **Fortalezas:**
 - Privacidad total: sin enviar imagenes a ningún servidor externo

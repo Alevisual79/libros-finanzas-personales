@@ -43,7 +43,7 @@ Algunas personas no trabajan mucho por necesidad económica sino por una relaci�
 
 La pareja del workaholic vive una soledad particular: comparte la vida con alguien físicamente presente pero emocionalmente ausente, sin que haya una infidelidad o un conflicto explícito al que poder señalar.
 
-**Ejercicio inmediato:** Si reconoces el patron de workaholismo en ti o en tu pareja, preguntate: que necesidad emocional esta cubriendo el trabajo que la relación no esta cubriendo? La respuesta a esa pregunta es más útil que cualquier discusión sobre las horas trabajadas.
+**Ejercicio inmediato:** Si reconoces el patron de workaholismo en ti o en tu pareja, preguntate: ¿que necesidad emocional esta cubriendo el trabajo que la relación no esta cubriendo? La respuesta a esa pregunta es más útil que cualquier discusión sobre las horas trabajadas.
 
 El trabajo excesivo casi nunca es solo sobre el trabajo. Es sobre lo que el trabajo permite evitar.
 
@@ -91,7 +91,7 @@ Cuando el trabajo gana sistemáticamente la competencia por tiempo y atención, 
 
 **El Principio del Coste de Oportunidad Relacional:** Cada hora que el trabajo gana sobre la relación tiene un coste de oportunidad: la conversación que no se tuvo, el momento de conexión que no ocurrio, la oportunidad de resolver una tensión pequeña antes de que crezca. Estos costes son invisibles en el momento (nadie nota la ausencia de una conversación que no se tuvo) pero se acumulan con el tiempo en una sensación de distancia que aparece, en retrospectiva, después de meses o años.
 
-**Ejercicio inmediato:** Pregunta a tu pareja: que has querido decirme o compartir conmigo en las últimas semanas que no has tenido el momento de hacer? La respuesta, si la hay, es exactamente el coste de oportunidad que el trabajo ha generado.
+**Ejercicio inmediato:** Pregunta a tu pareja: ¿que has querido decirme o compartir conmigo en las últimas semanas que no has tenido el momento de hacer? La respuesta, si la hay, es exactamente el coste de oportunidad que el trabajo ha generado.
 
 Lo que el trabajo gana, la relación lo pierde en silencio, hasta que el silencio se hace demasiado grande para ignorar.
 

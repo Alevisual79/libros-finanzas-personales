@@ -49,7 +49,7 @@ Identificar patrones consistentes asociados con rasgos narcisistas significativo
 
 **El Principio de los Patrones Caracteristicos:** Las personas con rasgos narcisistas significativos tipicamente muestran necesidad constante de admiración y validación, dificultad genuina para reconocer o validar las perspectivas y necesidades de otros, sensibilidad extrema a la crítica que se traduce en reacciones desproporcionadas, y una tendencia a usar a las personas cercanas instrumentalmente para sus propios objetivos de validación o beneficio.
 
-**Ejercicio inmediato:** Revisa esta lista de patrones caracteristicos contra tu observación de la persona que te preocupa. Cuantos de estos patrones reconoces como presentes de forma consistente?
+**Ejercicio inmediato:** Revisa esta lista de patrones caracteristicos contra tu observación de la persona que te preocupa. ¿Cuantos de estos patrones reconoces como presentes de forma consistente?
 
 Reconocer estos patrones específicos, en lugar de una impresión vaga de que algo no esta bien, ayuda a evaluar con más precisión la naturaleza de la dinámica relacional.
 
@@ -111,7 +111,7 @@ Los hijos criados por un padre o madre con rasgos narcisistas significativos exp
 
 **Ejercicio inmediato:** Si tienes hijos con un progenitor narcisista, observa si reconoces patrones específicos de supresión de necesidades propias o busqueda excesiva de validación en tus hijos, y considera buscar apoyo profesional especializado si es relevante.
 
-Los hijos de padres narcisistas necesitan apoyo específico para desarrollar patrones relacionales más saludables que los que el modeló parental narcisista les ofrece por defecto.
+Los hijos de padres narcisistas necesitan apoyo específico para desarrollar patrones relacionales más saludables que los que el modelo parental narcisista les ofrece por defecto.
 
 ---
 

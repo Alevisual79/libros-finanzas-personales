@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena ha notado algo desconcertante: es una persona diferente dependiendo del grupo con quien este. Con ciertos compañeros de trabajo, es más creativa y más directa; con otros, más callada y menos propensa a disentir. Con ciertos amigos, es más vulnerable; con otros, más protegida. Y ha presenciado como grupos enteros de personas razonables toman decisiones que individualmente ninguno de ellos habria tomado. Esto no la convierte en inconsistente: la convierte en humana. El comportamiento en grupo es uno de los fenómenos más potentes y menos comprendidos de la psicología. Este libro es sobre ese poder y como navegar sus efectos.
+Elena ha notado algo desconcertante: es una persona diferente dependiendo del grupo con quien este. Con ciertos compañeros de trabajo, es más creativa y más directa; con otros, más callada y menos propensa a disentir. Con ciertos amigos, es más vulnerable; con otros, más protegida. Y ha presenciado como grupos enteros de personas razonables toman decisiones que individualmente ninguno de ellos habría tomado. Esto no la convierte en inconsistente: la convierte en humana. El comportamiento en grupo es uno de los fenómenos más potentes y menos comprendidos de la psicología. Este libro es sobre ese poder y como navegar sus efectos.
 
 ---
 
@@ -27,7 +27,7 @@ La investigación más clasica de la psicología social muestra algo perturbador
 
 La investigación de Asch y sus seguidores muestra que la conformidad se activa incluso cuando la respuesta correcta es objetivamente obvia, se reduce significativamente cuando hay al menos un otro que diside, y es mayor en culturas colectivistas que individualistas. Los mecanismos incluyen la presión informacional (los otros pueden saber algo que yo no se) y la presión normativa (quiero ser aceptado por el grupo).
 
-**Ejercicio inmediato:** La próxima vez que estes en una reunión y hayas llegado a una conclusión diferente de la que expresa la mayoría, reflexiona: la razón por la que no expresas tu perspectiva es que el grupo podría tener información que tu no tienes (razón valida) o es que no quieres ser el unico que dice algo diferente (conformidad normativa)? Solo la segunda es conformidad en el sentido de Asch.
+**Ejercicio inmediato:** La próxima vez que estes en una reunión y hayas llegado a una conclusión diferente de la que expresa la mayoría, reflexiona: ¿la razón por la que no expresas tu perspectiva es que el grupo podría tener información que tu no tienes (razón valida) o es que no quieres ser el unico que dice algo diferente (conformidad normativa)? Solo la segunda es conformidad en el sentido de Asch.
 
 La conformidad que no reconoces te hace parte del grupo. A veces eso es exactamente lo correcto. Y a veces es exactamente el problema.
 
@@ -41,7 +41,7 @@ Ruben tiene un jefe que le pide cosas con las que no esta de acuerdo. El experim
 
 La investigación posterior de Herbert Kelman y colegas sobre la obediencia muestra tres mecanismos: la aceptación (se hace porque se cree en la autoridad), la identificación (se hace para mantener la relación con la autoridad), y la internalización (se hace porque es coherente con los propios valores). Solo el tercero es motivación autonoma; los dos primeros son formas de obediencia que pueden llevar a comportamientos contra los propios valores.
 
-**Ejercicio inmediato:** En tu entorno laboral, reflexiona: hay cosas que haces principalmente porque te las pide una figura de autoridad y que en otros contextos no harías? Identificar esas acciones no significa necesariamente no hacerlas (la jerarquía tiene su función) sino hacerlas conscientemente en lugar de automáticamente.
+**Ejercicio inmediato:** En tu entorno laboral, reflexiona: ¿hay cosas que haces principalmente porque te las pide una figura de autoridad y que en otros contextos no harías? Identificar esas acciones no significa necesariamente no hacerlas (la jerarquía tiene su función) sino hacerlas conscientemente en lugar de automáticamente.
 
 La obediencia que no reconoces como obediencia no es autonomía. Es obediencia que no sabes que es obediencia.
 
@@ -97,7 +97,7 @@ Ruben nota que en su grupo de amigos, aunque no hay líderes formales, siempre h
 
 La investigación de Keith Sawyer sobre la creatividad en grupos muestra que los grupos más creativos no son los dominados por el líder más brillante sino los que tienen una estructura de participación más igualitaria, donde multiples voces contribuyen. Los líderes que crean espacio para las voces menos dominantes producen mejores resultados colectivos.
 
-**Ejercicio inmediato:** En tu próximo grupo de trabajo o decisión, observa quien toma el liderazgo informal y por qué mecanismos. Es el que habla primero y con más seguridad? Es el que propone soluciones concretas? Es el que tiene la mayor credibilidad percibida? Ese diagnostico te permite decidir si ese liderazgo es el más adecuado para el grupo o si hay voces más valiosas siendo silenciadas.
+**Ejercicio inmediato:** En tu próximo grupo de trabajo o decisión, observa quien toma el liderazgo informal y por qué mecanismos. Es el que habla primero y con más seguridad? ¿Es el que propone soluciones concretas? Es el que tiene la mayor credibilidad percibida? Ese diagnostico te permite decidir si ese liderazgo es el más adecuado para el grupo o si hay voces más valiosas siendo silenciadas.
 
 El grupo que sigue al que más habla no siempre sigue al que mejor piensa. A veces son la misma persona. A veces no.
 
@@ -111,7 +111,7 @@ Isabel ha observado cómo la identidad de grupo puede producir juicios irraciona
 
 El experimento de los grupos mínimos de Tajfel demostró que los sesgos intergrupales emergen incluso cuando los grupos son formados de forma completamente arbitraria (por preferencias esteticas menores): las personas favorecen a los miembros de su grupo incluso cuando el grupo no tiene historia ni relevancia real para ellos. Este favoritismo del ingroup tiene consecuencias en la evaluación de las ideas, la asignación de recursos, y el juicio sobre las intenciones de los otros.
 
-**Ejercicio inmediato:** Identifica dos grupos en tu vida cotidiana (en el trabajo, en la vida social, o en la esfera pública) sobre los que tienes evaluaciones sistemáticamente positivas o negativas. Para cada uno, reflexiona: que información específica tienes que justifica esa evaluación? O es la evaluación basicamente una consecuencia del grupo de pertenencia (ingroup vs outgroup)?
+**Ejercicio inmediato:** Identifica dos grupos en tu vida cotidiana (en el trabajo, en la vida social, o en la esfera pública) sobre los que tienes evaluaciones sistemáticamente positivas o negativas. Para cada uno, reflexiona: ¿que información específica tienes que justifica esa evaluación? ¿O es la evaluación basicamente una consecuencia del grupo de pertenencia (ingroup vs outgroup)?
 
 El juicio que crees que es sobre los hechos podría ser sobre el grupo. Los hechos y el grupo no son lo mismo.
 
@@ -139,7 +139,7 @@ Elena lidera un equipo donde las personas no comparten sus ideas libremente. La 
 
 El Proyecto Aristóteles de Google, que analizó los factores que distinguen a los equipos de alto rendimiento, identifico la seguridad psicológica como el factor número uno que diferencia a los equipos más efectivos de los menos efectivos, por encima de la inteligencia individual de los miembros, la experiencia, o la compensación.
 
-**Ejercicio inmediato:** Para el equipo o grupo en el que tienes mayor influencia, evalua el nivel de seguridad psicológica: las personas comparten errores abiertamente? Hacen preguntas aunque puedan parecer basicas? Disienten de las opiniones del líder? Si la respuesta es no, identifica una acción que podrías tomar para incrementar la seguridad: admitir públicamente un error propio, celebrar una disidencia productiva, o responder a una pregunta con curiosidad en lugar de impaciencia.
+**Ejercicio inmediato:** Para el equipo o grupo en el que tienes mayor influencia, evalua el nivel de seguridad psicológica: ¿las personas comparten errores abiertamente? ¿Hacen preguntas aunque puedan parecer basicas? Disienten de las opiniones del líder? Si la respuesta es no, identifica una acción que podrías tomar para incrementar la seguridad: admitir públicamente un error propio, celebrar una disidencia productiva, o responder a una pregunta con curiosidad en lugar de impaciencia.
 
 El equipo donde nadie se atreve a decir lo que piensa no toma mejores decisiones. Toma decisiones más rápidas con peor calidad.
 
@@ -153,7 +153,7 @@ Isabel ha llegado a entender que los grupos a los que pertenece no son neutrales
 
 La investigación de Sorokin y colegas sobre la movilidad social muestra que las aspiraciones, los comportamientos, y los valores se adaptan a los grupos de referencia: las personas que cambian de grupo social tienden a adoptar los comportamientos y valores del nuevo grupo con el tiempo.
 
-**Ejercicio inmediato:** Evalua los tres grupos principales a los que perteneces: familia de origen, grupo de amigos, entorno laboral. Para cada uno, reflexiona: que valores, comportamientos, y actitudes refuerza ese grupo en ti? Los que refuerza son los que quieres que formen parte de quien eres? La respuesta a esa pregunta es información sobre si los grupos que tienes son los que te convienen.
+**Ejercicio inmediato:** Evalua los tres grupos principales a los que perteneces: familia de origen, grupo de amigos, entorno laboral. Para cada uno, reflexiona: ¿que valores, comportamientos, y actitudes refuerza ese grupo en ti? ¿Los que refuerza son los que quieres que formen parte de quien eres? La respuesta a esa pregunta es información sobre si los grupos que tienes son los que te convienen.
 
 Eres el promedio de las personas con quienes pasas el tiempo. Eso no es un dicho motivacional. Es una descripción de como funciona la transmisión social.
 
@@ -161,7 +161,7 @@ Eres el promedio de las personas con quienes pasas el tiempo. Eso no es un dicho
 
 ## Epílogo
 
-Elena cambio el formato de las reuniones de equipo. Empezo cada una con una pregunta: que podría salir mal con la decisión que estamos considerando? Alentaba la disidencia explicitamente. Las primeras semanas fueron incómodas: las personas estaban entrenadas para el consenso. Pero al cabo de un mes, las reuniones habían cambiado. La gente decía lo que pensaba. Las decisiones que se tomaban tenían en cuenta más perspectivas. Y el equipo, para sorpresa de todos incluyendo de Elena, empezó a producir mejores resultados. El grupo no había cambiado. Habia cambiado la seguridad con la que sus miembros se atrevian a ser ellos mismos dentro de el.
+Elena cambio el formato de las reuniones de equipo. Empezo cada una con una pregunta: ¿que podría salir mal con la decisión que estamos considerando? Alentaba la disidencia explicitamente. Las primeras semanas fueron incómodas: las personas estaban entrenadas para el consenso. Pero al cabo de un mes, las reuniones habían cambiado. La gente decía lo que pensaba. Las decisiones que se tomaban tenían en cuenta más perspectivas. Y el equipo, para sorpresa de todos incluyendo de Elena, empezó a producir mejores resultados. El grupo no había cambiado. Habia cambiado la seguridad con la que sus miembros se atrevian a ser ellos mismos dentro de el.
 
 ---
 

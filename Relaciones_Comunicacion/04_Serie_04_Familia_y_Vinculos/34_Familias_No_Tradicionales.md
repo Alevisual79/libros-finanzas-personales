@@ -17,7 +17,7 @@
 
 La familia nuclear con madre, padre e hijos biologicos viviendo juntos hasta la edad adulta es hoy, estadisticamente, minoria en muchas sociedades occidentales. Familias monoparentales, reconstituidas, homoparentales, de acogida, y comunidades de elección conviven y prosperan con la misma legitimidad, aunque a menudo sin las herramientas y guiones sociales que existen para la familia tradicional.
 
-Este libro no defiende un modeló de familia sobre otro. Defiende que cualquier estructura familiar, cuando se gestiona con consciencia, comunicación y cuidado, puede ofrecer a sus miembros lo que toda familia debería ofrecer: seguridad, pertenencia y amor.
+Este libro no defiende un modelo de familia sobre otro. Defiende que cualquier estructura familiar, cuando se gestiona con consciencia, comunicación y cuidado, puede ofrecer a sus miembros lo que toda familia debería ofrecer: seguridad, pertenencia y amor.
 
 ---
 
@@ -27,7 +27,7 @@ La diversidad de estructuras familiares contemporaneas refleja cambios sociales 
 
 **El Principio de la Función sobre la Forma:** La investigación contemporanea en psicología familiar converge en un hallazgo consistente: lo que predice el bienestar de los hijos no es la estructura familiar específica (número de padres, su orientación sexual, su relación biológica con los hijos) sino la calidad de las relaciones dentro de esa estructura: la calidez, la consistencia, la seguridad emocional y la ausencia de conflicto cronico no resuelto.
 
-**Ejercicio inmediato:** Si formas parte de una estructura familiar no tradicional, identifica las fortalezas específicas de tu estructura que quizas no reconoces explicitamente porque la comparación social tiende a enfocarse en lo que falta respecto al modeló tradicional.
+**Ejercicio inmediato:** Si formas parte de una estructura familiar no tradicional, identifica las fortalezas específicas de tu estructura que quizas no reconoces explicitamente porque la comparación social tiende a enfocarse en lo que falta respecto al modelo tradicional.
 
 Lo que hace bien a una familia no es su forma. Es la calidad de lo que ocurre dentro de ella.
 
@@ -63,7 +63,7 @@ Los hijos que viven entre dos hogares después de la separación de sus padres e
 
 **El Principio del Conflicto Parental como Factor de Riesgo Principal:** La investigación sobre el impacto del divorcio en los hijos es consistente en un hallazgo: lo que más predice el bienestar de los hijos no es el divorcio en si, sino el nivel de conflicto entre los padres que el hijo presencia después de la separación. Los hijos de padres separados que mantienen una coparentalidad respetuosa tienen resultados de bienestar similares a los hijos de familias intactas, mientras que los que presencian conflicto continuado tienen resultados significativamente peores.
 
-**Ejercicio inmediato:** Si eres padre o madre separado, evalua honestamente el nivel de conflicto que tus hijos presencian entre tu y tu expareja. Que cambio específico podrías hacer para reducir esa exposición, independientemente de tus sentimientos hacía tu expareja?
+**Ejercicio inmediato:** Si eres padre o madre separado, evalua honestamente el nivel de conflicto que tus hijos presencian entre tu y tu expareja. ¿Que cambio específico podrías hacer para reducir esa exposición, independientemente de tus sentimientos hacía tu expareja?
 
 No es la separación lo que daña a los hijos. Es el conflicto que continua después de ella.
 
@@ -75,7 +75,7 @@ Las familias formadas por parejas del mismo sexo, juntó con otros modelos emerg
 
 **El Principio de la Evidencia sobre el Prejuicio:** Decadas de investigación comparativa muestran consistentemente que los hijos criados en familias homoparentales tienen resultados de bienestar psicológico, social y académico equivalentes a los de hijos criados en familias heteroparentales, una vez controlados los factores socioeconomicos. Las dificultades que estos hijos enfrentan, cuando existen, suelen provenir del estigma social externo, no de la dinámica familiar interna.
 
-**Ejercicio inmediato:** Si formas parte de una familia homoparental o de un modeló familiar emergente, identifica las estrategias que usas (o podrías usar) para preparar a tus hijos a manejar con confianza las preguntas o comentarios externos sobre su estructura familiar.
+**Ejercicio inmediato:** Si formas parte de una familia homoparental o de un modelo familiar emergente, identifica las estrategias que usas (o podrías usar) para preparar a tus hijos a manejar con confianza las preguntas o comentarios externos sobre su estructura familiar.
 
 La ciencia es clara: lo que daña a los hijos de familias diversas no es la estructura familiar. Es el estigma que la sociedad proyecta sobre ella.
 
@@ -121,7 +121,7 @@ Cuanto más compleja la estructura familiar, más explícita necesita ser la com
 
 Las celebraciones familiares (cumpleaños, fiestas, graduaciones) pueden volverse particularmente complejas de gestionar en familias no tradicionales, donde multiples hogares o figuras parentales necesitan coordinarse.
 
-**El Principio de la Flexibilidad Ritual:** Las familias no tradicionales que gestionan mejor las celebraciones son las que han abandonado la expectativa de replicar exactamente el modeló tradicional de celebración unificada, y en su lugar han creado formatos propios (celebraciones divididas, rotativas, o conjuntas cuando es posible) que priorizan el bienestar de los hijos sobre la conveniencia o las expectativas de los adultos.
+**El Principio de la Flexibilidad Ritual:** Las familias no tradicionales que gestionan mejor las celebraciones son las que han abandonado la expectativa de replicar exactamente el modelo tradicional de celebración unificada, y en su lugar han creado formatos propios (celebraciones divididas, rotativas, o conjuntas cuando es posible) que priorizan el bienestar de los hijos sobre la conveniencia o las expectativas de los adultos.
 
 **Ejercicio inmediato:** Si tu familia tiene una estructura que complica las celebraciones tradicionales, dialoguen entre los adultos involucrados sobre un formato que priorice la experiencia de los hijos, incluso si requiere flexibilidad respecto a cómo se hacían las cosas tradicionalmente.
 
@@ -133,7 +133,7 @@ Las celebraciones familiares no tienen que verse como las de la familia tradicio
 
 Toda familia, independientemente de su estructura, se beneficia de construir conscientemente una identidad y cultura propia que de sentido de pertenencia a sus miembros.
 
-**El Principio de la Cultura Familiar Deliberada:** Las familias no tradicionales que reportan mayor cohesión y bienestar son las que han construido deliberadamente su propia cultura familiar (valores, rituales, formas de comunicarse) en lugar de medirse constantemente contra el modeló de familia tradicional que no representa su realidad. Esta construcción deliberada da a los hijos un sentido claro de pertenencia a algo específico y valioso, independientemente de su forma.
+**El Principio de la Cultura Familiar Deliberada:** Las familias no tradicionales que reportan mayor cohesión y bienestar son las que han construido deliberadamente su propia cultura familiar (valores, rituales, formas de comunicarse) en lugar de medirse constantemente contra el modelo de familia tradicional que no representa su realidad. Esta construcción deliberada da a los hijos un sentido claro de pertenencia a algo específico y valioso, independientemente de su forma.
 
 **Ejercicio inmediato:** Identifica tres valores o tradiciones que definen específicamente la cultura de tu familia, independientemente de su estructura. Esos elementos son la base de la identidad familiar que estas construyendo conscientemente.
 
@@ -143,7 +143,7 @@ La familia perfecta no existe. Pero la familia funcional si, en cualquier forma 
 
 ## Epílogo
 
-Cada estructura familiar trae sus propios desafios y sus propias fortalezas. Lo que determina el bienestar de quienes la forman no es cuanto se parezca al modeló que la sociedad considera estandar, sino cuanta intención, cuidado y comunicación consciente se ponga en construirla, dia a dia, de la forma que mejor sirva a quienes la habitan.
+Cada estructura familiar trae sus propios desafios y sus propias fortalezas. Lo que determina el bienestar de quienes la forman no es cuanto se parezca al modelo que la sociedad considera estandar, sino cuanta intención, cuidado y comunicación consciente se ponga en construirla, dia a dia, de la forma que mejor sirva a quienes la habitan.
 
 ---
 

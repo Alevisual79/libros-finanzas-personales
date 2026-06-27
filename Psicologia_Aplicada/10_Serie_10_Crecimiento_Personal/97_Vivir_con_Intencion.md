@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben tiene treinta y seis años y a veces siente que ha vivido los últimos cinco años en piloto automático: los dias se suceden, el trabajo avanza, las relaciones se mantienen, y sin embargo algo falta. Elena toma las decisiones importantes de su vida respondiendo a lo que el momento pide, a lo que la cultura espera, o a lo que le parece que debería hacer, raramente desde una reflexión deliberada sobre lo que genuinamente quiere. Isabel lleva décadas persiguiendo el éxito tal como su entorno lo define y se pregunta si habria perseguido lo mismo si se lo hubiera preguntado antes de empezar. Vivir con intención no es tener un plan perfecto para todo. Es haberse preguntado, con honestidad, que es lo que realmente quieres y por qué.
+Ruben tiene treinta y seis años y a veces siente que ha vivido los últimos cinco años en piloto automático: los dias se suceden, el trabajo avanza, las relaciones se mantienen, y sin embargo algo falta. Elena toma las decisiones importantes de su vida respondiendo a lo que el momento pide, a lo que la cultura espera, o a lo que le parece que debería hacer, raramente desde una reflexión deliberada sobre lo que genuinamente quiere. Isabel lleva décadas persiguiendo el éxito tal como su entorno lo define y se pregunta si habría perseguido lo mismo si se lo hubiera preguntado antes de empezar. Vivir con intención no es tener un plan perfecto para todo. Es haberse preguntado, con honestidad, que es lo que realmente quieres y por qué.
 
 ---
 
@@ -27,7 +27,7 @@ La mayor parte del tiempo no elegimos conscientemente. Respondemos a habitos, pr
 
 El estado de piloto automático es adaptativo en muchos contextos: libera recursos cognitivos para las tareas que requieren deliberación. Pero en las áreas donde las decisiones tienen mayor impacto en la vida (elecciones de carrera, relaciones, uso del tiempo, estilo de vida), el piloto automático frecuentemente reproduce los patrones del pasado en lugar de producir los que queremos para el futuro.
 
-**Ejercicio inmediato:** Durante los próximos tres dias, cuando tomes una decisión de más de cinco minutos de impacto (que harás esta tarde, a quien responderás, como reaccionarás en una conversación difícil), pausa dos segundos y hazte la pregunta: estoy eligiendo esto o simplemente respondiendo al automatismo del momento? La pregunta no cambia automáticamente la decisión pero interrumpe el piloto automático y abre un espacio de elección genuina.
+**Ejercicio inmediato:** Durante los próximos tres dias, cuando tomes una decisión de más de cinco minutos de impacto (que harás esta tarde, a quien responderás, como reaccionarás en una conversación difícil), pausa dos segundos y hazte la pregunta: ¿estoy eligiendo esto o simplemente respondiendo al automatismo del momento? La pregunta no cambia automáticamente la decisión pero interrumpe el piloto automático y abre un espacio de elección genuina.
 
 La vida que no examinas no la estas viviendo. La esta viviendo el habito.
 
@@ -69,7 +69,7 @@ Isabel ha llegado a entender que las decisiones más importantes no son sobre lo
 
 La investigación de Timothy Wilson sobre el self-knowledge muestra que las personas tienen una imagen de quien son que guia las decisiones de formas que frecuentemente no reconocen. Cambiar esa imagen (de soy alguien que no se defiende a soy alguien que establece límites claros) puede producir cambios de comportamiento que la intervención directa sobre el comportamiento no produce.
 
-**Ejercicio inmediato:** Para tres áreas importantes de tu vida (trabajo, relaciones, salud), escribe en una frase la identidad que quieres que esa área refleje: soy alguien que... Después reflexiona: mis comportamientos habituales en esa área reflejan esa identidad o la contradicen? Si la contradicen, que cambio mínimo de comportamiento sería el primer voto hacía la identidad que quieres construir?
+**Ejercicio inmediato:** Para tres áreas importantes de tu vida (trabajo, relaciones, salud), escribe en una frase la identidad que quieres que esa área refleje: soy alguien que... Después reflexiona: ¿mis comportamientos habituales en esa área reflejan esa identidad o la contradicen? ¿Si la contradicen, que cambio mínimo de comportamiento sería el primer voto hacía la identidad que quieres construir?
 
 La identidad que afirmas con tus actos cada dia es la que te conviertes con el tiempo. La que afirmas solo con palabras es la que dejas de ser gradualmente.
 
@@ -83,7 +83,7 @@ Ruben ha aprendido que la atención es el recurso más escaso de la vida moderna
 
 La investigación de David Foster Wallace sobre la cultura de la distracción propone que la capacidad de elegir a que atender (y como atender) es la habilidad más difícil de desarrollar en la vida adulta, precisamente porque la cultura, la tecnología, y los sistemas económicos tienen incentivos poderosos para capturar esa atención y dirigirla hacía donde sirve a sus intereses, no a los del individuo.
 
-**Ejercicio inmediato:** Durante los próximos tres dias, práctica la elección deliberada de atención: al comienzo de cada hora, preguntate a que quiero prestar atención en la próxima hora? (No que tengo que hacer sino a que quiero estar presente.) Al final del dia, reflexiona: las horas del dia han reflejado mis elecciones de atención o la atención ha sido captada por lo que ha aparecido?
+**Ejercicio inmediato:** Durante los próximos tres dias, práctica la elección deliberada de atención: ¿al comienzo de cada hora, preguntate a que quiero prestar atención en la próxima hora? (No que tengo que hacer sino a que quiero estar presente.) Al final del dia, reflexiona: ¿las horas del dia han reflejado mis elecciones de atención o la atención ha sido captada por lo que ha aparecido?
 
 La vida que vives es la que atienes. El resto es escenario.
 
@@ -97,7 +97,7 @@ Elena ha llegado a entender que las conversaciones más importantes de su vida n
 
 La investigación de Aaron Beck sobre las distorsiones cognitivas muestra que el diálogo interno negativo frecuentemente contiene patrones de pensamiento distorsionado (catastrofización, personalización, pensamiento todo-o-nada) que producen sufrimiento innecesario y decisiones suboptimas.
 
-**Ejercicio inmediato:** Durante los próximos siete dias, práctica la escucha de tu diálogo interno en los momentos de tensión o decisión: que me digo a mi mismo en estas situaciones? Ese diálogo interno tiene en cuenta toda la evidencia disponible o contiene patrones de distorsión? La pregunta de si tu diálogo interno trata la evidencia con la misma rigorosidad que tratarias la evidencia de un argumento externo es el inició del examen del diálogo interno.
+**Ejercicio inmediato:** Durante los próximos siete dias, práctica la escucha de tu diálogo interno en los momentos de tensión o decisión: ¿que me digo a mi mismo en estas situaciones? ¿Ese diálogo interno tiene en cuenta toda la evidencia disponible o contiene patrones de distorsión? La pregunta de si tu diálogo interno trata la evidencia con la misma rigorosidad que tratarias la evidencia de un argumento externo es el inició del examen del diálogo interno.
 
 La voz que más escuchas en tu vida es la tuya propia. Vale la pena saber si te dice la verdad.
 
@@ -125,7 +125,7 @@ Ruben esta en una transición profesional. Esos momentos son los que más requie
 
 La investigación de Wendy Wood sobre los habitos y los momentos de cambio confirma que los cambios de contexto (mudanzas, cambios de trabajo, inició de cursos academicos) son los momentos en que los habitos nuevos se forman más facilmente porque las señales contextuales del antiguo habito han desaparecido.
 
-**Ejercicio inmediato:** Si estas en una transición vital (o si hay una próxima) reflexiona: que intención quiero que guie esta nueva etapa? Que patrones del pasado no quiero reproducir? Que posibilidades abre esta transición que el estado anterior no abria? Las respuestas a esas preguntas en el momento de la transición producen el diseño deliberado de la nueva etapa antes de que el piloto automático tome el control.
+**Ejercicio inmediato:** Si estas en una transición vital (o si hay una próxima) reflexiona: ¿que intención quiero que guie esta nueva etapa? ¿Que patrones del pasado no quiero reproducir? Que posibilidades abre esta transición que el estado anterior no abria? Las respuestas a esas preguntas en el momento de la transición producen el diseño deliberado de la nueva etapa antes de que el piloto automático tome el control.
 
 La transición que atraviesas sin intención reproduce el pasado con nuevo escenario. La que atraviesas con intención puede producir algo genuinamente diferente.
 

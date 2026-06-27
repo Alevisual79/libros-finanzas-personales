@@ -27,7 +27,7 @@ Después del texto y las imagenes, el audio es el tercer gran dominio de la IA g
 
 **Voz sintetica:** Generar voz a partir de texto (Text-to-Speech o TTS). Ya no suena a robot.
 
-**Clonación de voz:** Crear un modeló de una voz específica a partir de muestras de audio. La IA puede entonces generar cualquier texto con esa voz.
+**Clonación de voz:** Crear un modelo de una voz específica a partir de muestras de audio. La IA puede entonces generar cualquier texto con esa voz.
 
 **Musica generativa:** Generar pistas musicales completas a partir de descripciones de texto o instrucciones de estilo.
 
@@ -49,7 +49,7 @@ Las herramientas de TTS actuales generan voz que supera en naturalidad a muchos 
 
 ## Capítulo 3: Clonación de voz
 
-La clonación de voz permite crear un modeló de una voz específica a partir de muestras de audio.
+La clonación de voz permite crear un modelo de una voz específica a partir de muestras de audio.
 
 **ElevenLabs Voice Cloning:** Con 1-2 minutos de muestra, una calidad aceptable. Con 30 minutos o más, calidad muy alta.
 

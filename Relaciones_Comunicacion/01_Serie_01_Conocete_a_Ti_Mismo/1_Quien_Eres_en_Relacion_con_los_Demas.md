@@ -35,9 +35,9 @@ Clara tenía 33 años y una habilidad peculiar para elegir parejas emocionalment
 
 **El Principio del Mapa Invisible:** John Bowlby demostró algo que la mayoría sigue sin aceptar: la forma en que aprendiste a relacionarte con tus cuidadores en los primeros años de vida se convierte en el template inconsciente de todas tus relaciones adultas. No como destino. Como punto de partida por defecto que se activa antes de que tu mente consciente tenga tiempo de opinar.
 
-Los estudios de Mary Ainsworth con bebes de 12 meses mostraron que la reacción de un nino cuando su madre sale de la habitación predice con precisión estadistica como ese mismo nino, 25 años después, va a manejar sus relaciones romanticas. Los bebes con apego seguro buscaban consuelo y se calmaban. Los de apego ansioso lloraban sin consuelo. Los de apego evitativo fingian que no les importaba. Exactamente lo mismo que vemos en adultos durante una discusión de pareja.
+Los estudios de Mary Ainsworth con bebes de 12 meses mostraron que la reacción de un niño cuando su madre sale de la habitación predice con precisión estadistica como ese mismo niño, 25 años después, va a manejar sus relaciones romanticas. Los bebes con apego seguro buscaban consuelo y se calmaban. Los de apego ansioso lloraban sin consuelo. Los de apego evitativo fingian que no les importaba. Exactamente lo mismo que vemos en adultos durante una discusión de pareja.
 
-**Ejercicio inmediato:** Escribe sin pensar demasiado: cuando alguien a quien quieres se aleja, que haces? Cuando alguien se acerca mucho, que sientes? Cuando hay conflicto, tu primer impulso es atacar, huir o quedarte quieto? No hay respuestas correctas. Hay respuestas reveladoras.
+**Ejercicio inmediato:** Escribe sin pensar demasiado: ¿cuando alguien a quien quieres se aleja, que haces? ¿Cuando alguien se acerca mucho, que sientes? Cuando hay conflicto, tu primer impulso es atacar, huir o quedarte quieto? No hay respuestas correctas. Hay respuestas reveladoras.
 
 Tu estilo de apego no es tu culpa. Seguir actuandolo sin cuestionarlo si lo es.
 
@@ -45,7 +45,7 @@ Tu estilo de apego no es tu culpa. Seguir actuandolo sin cuestionarlo si lo es.
 
 ## Capítulo 2: Por qué atraes siempre el mismo tipo de persona
 
-Marcos llevo tres años diciendo que su problema era que todas las mujeres que le gustaban eran emocionalmente inaccesibles. Un dia su terapeuta le pregunto algo distinto: que tienen en común todas las mujeres que nunca te han gustado? Marcos se quedo en silencio. La respuesta era incomoda: estaban disponibles.
+Marcos llevo tres años diciendo que su problema era que todas las mujeres que le gustaban eran emocionalmente inaccesibles. Un dia su terapeuta le pregunto algo distinto: ¿que tienen en común todas las mujeres que nunca te han gustado? Marcos se quedo en silencio. La respuesta era incomoda: estaban disponibles.
 
 **El Principio de la Zona de Confort Relacional:** No atraemos lo que queremos. Atraemos lo que nos resulta familiar. El cerebro interpreta familiaridad como seguridad, aunque esa familiaridad sea disfuncional. Si creciste en un entorno donde el amor llegaba con condiciones o distancia emocional, eso es lo que tu sistema nervioso reconoce como amor. Lo demás te parece aburrido, aunque objetivamente sea mejor.
 
@@ -65,7 +65,7 @@ Cuando Isabel entra en una reunión, en menos de tres minutos ya sabe quien va a
 
 Aaron Beck, padre de la terapia cognitiva, llamó a esto esquemas cognitivos: estructuras mentales profundas que determinan como percibimos, interpretamos y recordamos la información social. Los esquemas relacionales se forman antes de los siete años y resisten la evidencia contraria con una tenacidad asombrosa.
 
-**Ejercicio inmediato:** Piensa en alguien con quien tengas tensión actualmente. Escribe tres supuestos que das por ciertos sobre sus intenciones. Ahora preguntate: tengo evidencia real de esto o lo estoy deduciendo de mi mapa? Que perderia si estuviera equivocado?
+**Ejercicio inmediato:** Piensa en alguien con quien tengas tensión actualmente. Escribe tres supuestos que das por ciertos sobre sus intenciones. Ahora preguntate: ¿tengo evidencia real de esto o lo estoy deduciendo de mi mapa? ¿Que perderia si estuviera equivocado?
 
 Ver a los demás con más claridad empieza por ver con más claridad el cristal a traves del cual los miras.
 
@@ -93,7 +93,7 @@ Elena es encantadora en las cenas. Siempre tiene el chiste oportuno, la pregunta
 
 Brene Brown lleva más de veinte años estudiando la vulnerabilidad. Su hallazgo más importante: las personas que describen sentirse más conectadas con los demás son aquellas que se permiten ser vistas con sus imperfecciones. La conexión real no ocurre entre mascaras. Ocurre entre personas.
 
-**Ejercicio inmediato:** Piensa en la persona ante quien eres más tu mismo. Ahora en la persona ante quien más te cuidas. Que diferencia hay entre esas dos relaciones? La respuesta te dice donde sientes seguridad y donde no.
+**Ejercicio inmediato:** Piensa en la persona ante quien eres más tu mismo. Ahora en la persona ante quien más te cuidas. ¿Que diferencia hay entre esas dos relaciones? La respuesta te dice donde sientes seguridad y donde no.
 
 La mascara protege. Pero también aisla. Elegir cuando quitarsela es uno de los actos más valientes que existen.
 
@@ -107,7 +107,7 @@ Hay frases que se repiten en las familias como si fueran verdades universales: l
 
 Murray Bowen, fundador de la terapia familiar sistemica, demostró que los patrones relacionales disfuncionales se transmiten por lo menos tres generaciones. No por genética. Por repetición de conductas aprendidas que nadie cuestiona porque nadie las ve.
 
-**Ejercicio inmediato:** Escribe como manejaban el conflicto tus padres entre si. Como mostraban el afecto. Como reaccionaban al fracaso. Ahora mira tus propias relaciones: en cuales de esas áreas actuas de forma similar a como ellos actuaban, aunque no quieras?
+**Ejercicio inmediato:** Escribe como manejaban el conflicto tus padres entre si. Como mostraban el afecto. Como reaccionaban al fracaso. Ahora mira tus propias relaciones: ¿en cuales de esas áreas actuas de forma similar a como ellos actuaban, aunque no quieras?
 
 No elegiste tu familia de origen. Pero puedes elegir que conservas de ella y que decides reescribir.
 
@@ -119,9 +119,9 @@ No todas las heridas tienen cicatriz visible. Algunas se parecen a la normalidad
 
 **El Principio de la Herida que Dirige:** Lise Bourbeau identifica cinco heridas emocionales basicas: rechazó, abandono, humillación, traición e injusticia. Cada herida genera un conjunto de conductas defensivas que en su momento tuvieron sentido y que en la vida adulta generan exactamente aquello que más tememos. Quien tiene herida de abandono hace cosas que llevan al otro a alejarse. Quien tiene herida de traición controla tanto que el otro se ahoga.
 
-No necesitas identificar tu herida con precisión quirurgica para empezar a trabajar. Basta con preguntarte: que es lo que más me duele que alguien me haga en una relación? Lo que más duele cuando lo hace el otro generalmente apunta directamente a la herida más antigua.
+No necesitas identificar tu herida con precisión quirurgica para empezar a trabajar. Basta con preguntarte: ¿que es lo que más me duele que alguien me haga en una relación? Lo que más duele cuando lo hace el otro generalmente apunta directamente a la herida más antigua.
 
-**Ejercicio inmediato:** Completa esta frase: Lo que más me duele que alguien me haga es... Ahora preguntate: la primera vez que senti algo parecido, cuantos años tenía y con quien fue?
+**Ejercicio inmediato:** Completa esta frase: Lo que más me duele que alguien me haga es... Ahora preguntate: ¿la primera vez que senti algo parecido, cuantos años tenía y con quien fue?
 
 Las heridas no te hacen debil. Ignorarlas si.
 
@@ -135,7 +135,7 @@ Hay personas que ante el conflicto atacan. Otras que huyen. Otras que se congela
 
 Daniel Siegel, neurocientifico de la UCLA, explica que bajo estres relacional intenso el cortex prefrontal, la parte que piensa y razona, se desconecta parcialmente. Lo que queda al mando es el sistema limbico: reacciones primitivas diseñadas para la supervivencia, no para la intimidad.
 
-**Ejercicio inmediato:** Recuerda tu último conflicto significativo. Que hiciste en los primeros cinco minutos? Esa reacción inicial es tu patron. No juzgues. Observa. La observación sin juicio es el primer paso del cambio.
+**Ejercicio inmediato:** Recuerda tu último conflicto significativo. ¿Que hiciste en los primeros cinco minutos? Esa reacción inicial es tu patron. No juzgues. Observa. La observación sin juicio es el primer paso del cambio.
 
 No puedes cambiar una reacción que no ves. Ver es ya la mitad del trabajo.
 

@@ -69,7 +69,7 @@ Ruben tiene ansiedad cronica y no conecta ese estado con su habito de dormir poc
 
 Adicionalmente, la privación de sueño reduce la actividad del cortex prefrontal medial, que es el regulador de la amigdala: la region del cerebro que dice a la amigdala que este bien no es una amenaza real. Con el prefrontal debilitado y la amigdala hiperactivada, el estado de ansiedad generalizada es la consecuencia predecible.
 
-**Ejercicio inmediato:** La próxima vez que experimentes ansiedad intensa, reflexiona: cuantas horas has dormido en las últimas noches? El estado emocional que atribuyes a las circunstancias puede estar siendo amplificado por la privación de sueño. Esa recontextualización no elimina la ansiedad pero puede reducir la interpretación catastrofica de su intensidad.
+**Ejercicio inmediato:** La próxima vez que experimentes ansiedad intensa, reflexiona: ¿cuantas horas has dormido en las últimas noches? El estado emocional que atribuyes a las circunstancias puede estar siendo amplificado por la privación de sueño. Esa recontextualización no elimina la ansiedad pero puede reducir la interpretación catastrofica de su intensidad.
 
 La ansiedad que sientes después de dormir mal no es más real que la que sientes después de dormir bien. Es solo más ruidosa.
 
@@ -109,7 +109,7 @@ Elena trabaja hasta la medianoche y se pregunta si eso tiene sentido. Los datos 
 
 **El Principio de la Consolidación de Memoria Durante el Sueno como Servicio Cognitivo Critico:** La investigación de Matthew Walker sobre el sueño y la memoria muestra que el sueño de la noche siguiente al aprendizaje consolida lo aprendido: los sujetos que duermen después de aprender una nueva habilidad muestran mayor rendimiento al dia siguiente que los que permanecen despiertos. Y el sueño de la noche previa al aprendizaje prepara el hipocampo para capturar nueva información: la privación de sueño reduce la capacidad de formar nuevos recuerdos en un 40%.
 
-La investigación de Ullrich Wagner y colegas muestra que el sueño no solo consolida la información sino que la reorganiza para extraer patrones y encontrar soluciones creativas: los sujetos que dormian entre sesiones de resolución de problemas encontraban las soluciones con significativamente mayor frecuencia que los que permanecian despiertos.
+La investigación de Ullrich Wagner y colegas muestra que el sueño no solo consolida la información sino que la reorganiza para extraer patrones y encontrar soluciones creativas: los sujetos que dormían entre sesiones de resolución de problemas encontraban las soluciones con significativamente mayor frecuencia que los que permanecian despiertos.
 
 **Ejercicio inmediato:** Identifica el aprendizaje o el trabajo creativo más importante que tienes esta semana. Planifica hacer la parte más demandante cognitivamente por la mañana (después del sueño) en lugar de por la noche (cuando el cerebro lleva horas gastando sus recursos cognitivos). Y después de esa sesión de trabajo, si es posible, un sueño de veinte minutos consolida lo procesado sin producir inercia de sueño.
 

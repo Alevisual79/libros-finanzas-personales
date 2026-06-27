@@ -97,7 +97,7 @@ Isabel tiene que tomar decisiones importantes mientras esta en un episodio depre
 
 La recomendación clinica es posponer las decisiones importantes (cambios de trabajo, decisiones de relación, decisiones financieras mayores) durante los episodios depresivos siempre que sea posible, o al menos consultarlas con personas de confianza que puedan ofrecer una perspectiva menos sesgada.
 
-**Ejercicio inmediato:** Si tienes una decisión importante pendiente, evalua: puede posponerse hasta que estestes en un estado emocional más estable? Si no puede posponerse, quien podría ofrecerte una perspectiva externa sobre esa decisión? La decisión que te parece obvia desde la depresión frecuentemente se ve diferente desde la recuperación.
+**Ejercicio inmediato:** Si tienes una decisión importante pendiente, evalua: ¿puede posponerse hasta que estestes en un estado emocional más estable? ¿Si no puede posponerse, quien podría ofrecerte una perspectiva externa sobre esa decisión? La decisión que te parece obvia desde la depresión frecuentemente se ve diferente desde la recuperación.
 
 La depresión distorsiona el juicio sin que lo notes. No es el mejor estado para tomar decisiones que importan.
 
@@ -139,7 +139,7 @@ Isabel no ha hablado de su depresión con nadie en el trabajo porque tiene miedo
 
 La estrategia de divulgación selectiva (contar con ciertas personas de confianza y no con otras) permite obtener apoyo de las personas que estan en condiciones de proporcionarlo mientras se gestiona el riesgo del estigma en entornos menos seguros.
 
-**Ejercicio inmediato:** Evalua tu red de apoyo: hay al menos una persona (fuera del sistema de salud mental) con quien puedas hablar honestamente sobre lo que vives? Si no hay ninguna, eso es información importante sobre la necesidad de construir ese apoyo. Si hay alguna, considera si hablar con esa persona esta semana podría ser útil.
+**Ejercicio inmediato:** Evalua tu red de apoyo: ¿hay al menos una persona (fuera del sistema de salud mental) con quien puedas hablar honestamente sobre lo que vives? Si no hay ninguna, eso es información importante sobre la necesidad de construir ese apoyo. Si hay alguna, considera si hablar con esa persona esta semana podría ser útil.
 
 No tienes que contarselo a todo el mundo. Pero si necesitas contarselo a alguien. El aislamiento completo tiene un coste que no vale la pena pagar.
 

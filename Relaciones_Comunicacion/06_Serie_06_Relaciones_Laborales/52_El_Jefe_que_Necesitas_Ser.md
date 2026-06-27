@@ -35,9 +35,9 @@ Un título te da autoridad. Solo la relación que construyes te da liderazgo rea
 
 La investigación sobre liderazgo efectivo converge consistentemente en que la calidad de las relaciones que un líder construye con su equipo predice mejor el desempeño organizacional que casi cualquier otra variable, incluyendo la competencia técnica del líder mismo.
 
-**El Principio de la Relación como Base del Desempeño:** El modeló de liderazgo basado en intercambio líder-miembro (LMX) muestra que la calidad de la relación individual entre un líder y cada miembro de su equipo predice significativamente el desempeño, la satisfacción y la retención de ese miembro específico, más allá de políticas o procesos organizacionales generales aplicados de forma uniforme.
+**El Principio de la Relación como Base del Desempeño:** El modelo de liderazgo basado en intercambio líder-miembro (LMX) muestra que la calidad de la relación individual entre un líder y cada miembro de su equipo predice significativamente el desempeño, la satisfacción y la retención de ese miembro específico, más allá de políticas o procesos organizacionales generales aplicados de forma uniforme.
 
-**Ejercicio inmediato:** Evalua la calidad de tu relación individual con cada miembro de tu equipo, si lideras a otros. Hay alguien con quien la relación sea notablemente más debil? Que acción podría mejorarla?
+**Ejercicio inmediato:** Evalua la calidad de tu relación individual con cada miembro de tu equipo, si lideras a otros. Hay alguien con quien la relación sea notablemente más debil? ¿Que acción podría mejorarla?
 
 El liderazgo no es una habilidad técnica que se ejerce sobre procesos. Es una habilidad relacional que se ejerce sobre personas.
 
@@ -97,7 +97,7 @@ La motivación genuina del equipo, distinta de la manipulación a traves de pres
 
 **El Principio de la Motivación Autonoma:** La teoria de la autodeterminación de Deci y Ryan identifica tres necesidades psicológicas basicas que impulsan la motivación genuina y sostenible: autonomía (sentir control sobre el propio trabajo), competencia (sentir que se esta desarrollando habilidad real), y relación (sentir conexión genuina con el equipo y el proposito del trabajo). Los líderes que satisfacen estas tres necesidades generan motivación más duradera que los que dependen exclusivamente de presión o de incentivos externos.
 
-**Ejercicio inmediato:** Evalua cuanto autonomía, oportunidad de desarrollo de competencia, y sentido de conexión ofreces actualmente a tu equipo. Cual de las tres podría fortalecerse más facilmente desde tu posición?
+**Ejercicio inmediato:** Evalua cuanto autonomía, oportunidad de desarrollo de competencia, y sentido de conexión ofreces actualmente a tu equipo. ¿Cual de las tres podría fortalecerse más facilmente desde tu posición?
 
 Motivar de verdad no es presionar más fuerte. Es crear las condiciones donde la motivación surge naturalmente de necesidades psicológicas satisfechas.
 
@@ -109,7 +109,7 @@ Delegar responsabilidades efectivamente, sin caer ni en el microcontrol excesivo
 
 **El Principio de la Delegación con Apoyo Disponible:** La delegación efectiva transfiere responsabilidad y autoridad real sobre una tarea, juntó con claridad sobre las expectativas de resultado, mientras mantiene disponibilidad para apoyo cuando se solicita, sin intervenir de forma no solicitada que comunique desconfianza en la capacidad del delegado.
 
-**Ejercicio inmediato:** Identifica una tarea que has estado microgestionando innecesariamente. Que pasaria si delegaras la responsabilidad completa, manteniendote disponible solo si se solicita tu apoyo?
+**Ejercicio inmediato:** Identifica una tarea que has estado microgestionando innecesariamente. ¿Que pasaria si delegaras la responsabilidad completa, manteniendote disponible solo si se solicita tu apoyo?
 
 Delegar sin abandonar significa confiar lo suficiente para soltar el control, pero permanecer disponible lo suficiente para apoyar cuando se necesite.
 

@@ -23,11 +23,11 @@ Elena sabe exactamente lo que va a pasar antes de que ocurra: su jefe dirá algo
 
 La regulación emocional es la capacidad de influir sobre cuales emociones se tienen, cuando se tienen, y cómo se experimentan y expresan. No es la eliminación de las emociones. Es la capacidad de relacionarse con ellas de forma que no produzcan daño innecesario.
 
-**El Principio de la Regulación como Habilidad Desarrollable:** James Gross, psicologo de Stanford que ha desarrollado el modeló de proceso más influyente de la regulación emocional, propone que la regulación puede ocurrir en diferentes puntos del proceso emocional: antes de que la emoción se active (selección de situaciones, modificación de situaciones, despliegue atencional, cambio cognitivo) o después de que se haya activado (modulación de la respuesta). Las estrategias tempranas son generalmente más eficaces y menos costosas que las tardias, pero requieren mayor planificación y consciencia del propio ciclo emocional.
+**El Principio de la Regulación como Habilidad Desarrollable:** James Gross, psicologo de Stanford que ha desarrollado el modelo de proceso más influyente de la regulación emocional, propone que la regulación puede ocurrir en diferentes puntos del proceso emocional: antes de que la emoción se active (selección de situaciones, modificación de situaciones, despliegue atencional, cambio cognitivo) o después de que se haya activado (modulación de la respuesta). Las estrategias tempranas son generalmente más eficaces y menos costosas que las tardias, pero requieren mayor planificación y consciencia del propio ciclo emocional.
 
 La investigación de Gross y sus colegas muestra que las personas con mayor capacidad de regulación emocional muestran mejor salud mental, mejores relaciones interpersonales, mayor satisfacción laboral, y mejor salud física.
 
-**Ejercicio inmediato:** Identifica tu patron de regulación emocional más común en situaciones difíciles: tiendes a suprimir (no expresar la emoción aunque la sientes), a rumiarlo (pensar repetidamente en la situación), a explotar (expresar sin filtro), o a reevaluar (cambiar la perspectiva)? La identificación del patron habitual es el punto de partida para el cambio.
+**Ejercicio inmediato:** Identifica tu patron de regulación emocional más común en situaciones difíciles: ¿tiendes a suprimir (no expresar la emoción aunque la sientes), a rumiarlo (pensar repetidamente en la situación), a explotar (expresar sin filtro), o a reevaluar (cambiar la perspectiva)? La identificación del patron habitual es el punto de partida para el cambio.
 
 No puedes cambiar el patron de regulación que no puedes ver. Verlo es el primer paso.
 
@@ -35,9 +35,9 @@ No puedes cambiar el patron de regulación que no puedes ver. Verlo es el primer
 
 ## Capítulo 2: El modeló de proceso: cinco puntos de intervención
 
-Ruben quiere entender donde puede intervenir en su ciclo emocional. El modeló de proceso de Gross identifica cinco puntos específicos, cada uno con estrategias distintas.
+Ruben quiere entender donde puede intervenir en su ciclo emocional. El modelo de proceso de Gross identifica cinco puntos específicos, cada uno con estrategias distintas.
 
-**El Principio de los Cinco Puntos de Intervención Emocional:** El modeló identifica cinco estrategias segun el momento donde se aplican: selección de situaciones (elegir las que favorecen las emociones deseadas), modificación de situaciones (cambiar aspectos de la situación), despliegue atencional (dirigir la atención hacía o desde los aspectos emocionalmente relevantes), cambio cognitivo (modificar la evaluación de la situación), y modulación de la respuesta (influir sobre la respuesta emocional ya activa).
+**El Principio de los Cinco Puntos de Intervención Emocional:** El modelo identifica cinco estrategias segun el momento donde se aplican: selección de situaciones (elegir las que favorecen las emociones deseadas), modificación de situaciones (cambiar aspectos de la situación), despliegue atencional (dirigir la atención hacía o desde los aspectos emocionalmente relevantes), cambio cognitivo (modificar la evaluación de la situación), y modulación de la respuesta (influir sobre la respuesta emocional ya activa).
 
 La reevaluación cognitiva (cambio cognitivo) es la estrategia con mayor soporte empirico para la regulación efectiva: cambiar la forma de interpretar una situación puede reducir la intensidad emocional de forma significativa y sin los costes de la supresión.
 
@@ -69,7 +69,7 @@ Ruben ha desarrollado una habilidad notable para suprimir emociones en público.
 
 A largo plazo, la supresión tiene costes adicionales: mayor riesgo cardiovascular (Quartana y Burns), menor intimidad relacional (Srivastava y colegas muestran que los supresores habituales tienen redes sociales de menor calidad percibida), y mayor tendencia a la rumiación porque la emoción suprimida no se procesa sino que se aplaza.
 
-**Ejercicio inmediato:** Identifica el contexto donde más frecuentemente suprimes emociones que sientes. Que te costaria ser un poco más transparente en ese contexto, al menos con la persona más segura de ese entorno? La transparencia emocional no requiere compartir todo: requiere no pretender que no sientes lo que sientes.
+**Ejercicio inmediato:** Identifica el contexto donde más frecuentemente suprimes emociones que sientes. ¿Que te costaria ser un poco más transparente en ese contexto, al menos con la persona más segura de ese entorno? La transparencia emocional no requiere compartir todo: requiere no pretender que no sientes lo que sientes.
 
 Esconder lo que sientes no elimina la emoción. Solo la esconde de los demás mientras sigue presente en ti, pagando el alquiler interno.
 
@@ -161,7 +161,7 @@ La diferencia entre reactivo y responsivo no es la ausencia de emoción. Es el m
 
 ## Epílogo
 
-Elena noto el calor en la cara y la tensión en el pecho. Nombro internamente: esto es frustración. Respiro una vez antes de hablar. Lo que salió de su boca no fue lo que habitualmente salía. Fue algo que había elegido. El jefe no noto la diferencia. Elena si. Y esa diferencia, entre lo que habria dicho hace seis meses y lo que dijo ese dia, era exactamente el tamaño del espacio que había construido entre el estímulo y la respuesta. Un espacio que antes no existia.
+Elena noto el calor en la cara y la tensión en el pecho. Nombro internamente: esto es frustración. Respiro una vez antes de hablar. Lo que salió de su boca no fue lo que habitualmente salía. Fue algo que había elegido. El jefe no noto la diferencia. Elena si. Y esa diferencia, entre lo que habría dicho hace seis meses y lo que dijo ese dia, era exactamente el tamaño del espacio que había construido entre el estímulo y la respuesta. Un espacio que antes no existia.
 
 ---
 

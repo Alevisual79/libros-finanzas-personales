@@ -49,7 +49,7 @@ La confianza en comunidades online se construye a traves de mecanismos distintos
 
 **El Principio de la Confianza Construida sin Señales Fisicas:** En ausencia de las señales no verbales y el contexto físico compartido que facilitan la construcción rápida de confianza presencial, las comunidades online dependen más fuertemente de la consistencia del comportamiento a lo largo del tiempo, la calidad de las contribuciones, y la vulnerabilidad compartida progresiva para desarrollar confianza genuina entre sus miembros.
 
-**Ejercicio inmediato:** Reflexiona sobre cómo se ha construido (o no) la confianza en tu comunidad online más significativa. Que comportamientos específicos contribuyeron a esa construcción?
+**Ejercicio inmediato:** Reflexiona sobre cómo se ha construido (o no) la confianza en tu comunidad online más significativa. ¿Que comportamientos específicos contribuyeron a esa construcción?
 
 La confianza en comunidades digitales no se construye instantaneamente ni de la misma forma que presencialmente. Requiere tiempo y consistencia demostrada a traves de la interacción repetida.
 
@@ -61,7 +61,7 @@ El anonimato o pseudonimato común en muchas comunidades online tiene efectos co
 
 **El Principio del Doble Efecto del Anonimato:** El anonimato puede facilitar la expresión honesta de vulnerabilidades o identidades que la persona no se sentiria comoda compartiendo con su identidad pública conocida, pero también puede reducir la responsabilidad sentida por el comportamiento propio, facilitando agresión o deshonestidad que la identificación pública generalmente desincentiva.
 
-**Ejercicio inmediato:** Reflexiona sobre como el anonimato (propio o de otros) en tus comunidades online ha facilitado conexión genuina, o ha facilitado comportamiento problematico que la identificación habria desincentivado.
+**Ejercicio inmediato:** Reflexiona sobre como el anonimato (propio o de otros) en tus comunidades online ha facilitado conexión genuina, o ha facilitado comportamiento problematico que la identificación habría desincentivado.
 
 El anonimato en comunidades digitales no es uniformemente positivo o negativo. Facilita tanto la honestidad vulnerable cómo la deshonestidad sin consecuencias, segun el contexto específico.
 
@@ -109,7 +109,7 @@ Existe una distinción importante entre ser un seguidor pasivo de contenido (con
 
 **El Principio de la Participación Activa como Diferenciador de Beneficio:** Los beneficios psicológicos de pertenencia comunitaria (sentido de conexión, apoyo mutuo, identidad compartida) se obtienen principalmente a traves de la participación activa, no del simple consumo pasivo de contenido. Ser seguidor de una cuenta o canal no produce los mismos beneficios que ser miembro activo de una comunidad con interacción reciproca.
 
-**Ejercicio inmediato:** Evalua tu propio nivel de participación en tus comunidades online: eres principalmente un seguidor pasivo, o un miembro activo que contribuye e interactua genuinamente?
+**Ejercicio inmediato:** Evalua tu propio nivel de participación en tus comunidades online: ¿eres principalmente un seguidor pasivo, o un miembro activo que contribuye e interactua genuinamente?
 
 Seguir pasivamente una comunidad online no te da los beneficios de pertenencia genuina. Esos beneficios requieren participación activa y reciproca.
 

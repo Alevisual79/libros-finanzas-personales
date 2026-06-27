@@ -135,7 +135,7 @@ El asombro —la sensación ante algo que no se entiende completamente o que no 
 **La práctica:**
 - Buscar activamente lo que no se entiende en el propio campo de expertise
 - Hacer preguntas "estúpidas" (las que un principiante haría) en áreas donde uno es experto
-- Buscar casos que no encajan con el modeló habitual en lugar de ignorarlos
+- Buscar casos que no encajan con el modelo habitual en lugar de ignorarlos
 
 El mentor de Elena le dio un consejo que ella no olvidó: "Cuando algo no te sorprende, ten cuidado. Significa que estás viendo lo que esperas ver, no necesariamente lo que está ahí."
 

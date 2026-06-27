@@ -27,7 +27,7 @@ La introversión no es timidez. No es ansiedad social. No es ser anti-social.
 
 La implicación práctica: los entornos muy estimulantes (fiestas numerosas, oficinas de espacios abiertos, reuniones largas) activan a los extravertidos hacía su optimo pero sobreactivan a los introvertidos más allá del suyo. El introvertido que se retira de esos entornos no lo hace por fobia social sino por regulación de la activación.
 
-**Ejercicio inmediato:** Reflexiona sobre tu patron energético en situaciones sociales: te sientes más energizado o más agotado después de una reunión de trabajo con muchas personas? Después de una conversation profunda uno a uno con alguien que te importa? Si la reunión agota y la conversation profunda recarga, es un patron típico de introversión.
+**Ejercicio inmediato:** Reflexiona sobre tu patron energético en situaciones sociales: ¿te sientes más energizado o más agotado después de una reunión de trabajo con muchas personas? ¿Después de una conversation profunda uno a uno con alguien que te importa? Si la reunión agota y la conversation profunda recarga, es un patron típico de introversión.
 
 El introvertido que actua como extravertido en los entornos que lo requieren no esta siendo inautentico. Esta pagando un costo energético que el extravertido no paga.
 
@@ -69,7 +69,7 @@ Elena es extravertida y ha asumido que eso es siempre una ventaja. Hay contextos
 
 La investigación de Brian Little sobre la personalidad del profesor universitario muestra que los profesores altamente extravertidos, aunque son más carismaticos en el aula, frecuentemente producen menos investigación academica que los introvertidos, probablemente porque la investigación de calidad requiere períodos sostenidos de trabajo solitario para los que la extraversión alta no dispone naturalmente.
 
-**Ejercicio inmediato:** Si eres extravertido, identifica una tarea que requires trabajo profundo y sostenido en tu vida. Que estrategias usas para mantener la concentración? Hay momentos del dia donde esa concentración es más accesible? Los extravertidos que entienden su rasgo pueden diseñar condiciones que compensen la menor tolerancia natural al trabajo solitario.
+**Ejercicio inmediato:** Si eres extravertido, identifica una tarea que requires trabajo profundo y sostenido en tu vida. ¿Que estrategias usas para mantener la concentración? ¿Hay momentos del dia donde esa concentración es más accesible? Los extravertidos que entienden su rasgo pueden diseñar condiciones que compensen la menor tolerancia natural al trabajo solitario.
 
 La extraversión que funciona en la sala de reuniones puede ser el mismo rasgo que te cuesta cuando necesitas trabajar solo. Saber eso ya es la mitad de la solución.
 
@@ -97,7 +97,7 @@ Isabel es introvertida y su pareja es extravertida. Las diferencias en necesidad
 
 Esta tensión no es irresoluble pero requiere comprensión de lo que las necesidades del otro expresan: el extravertido que busca salidas no esta rechazando la intimidad sino alimentando un sistema de activación que la introversión del otro no necesita de la misma forma. La negociación sobre el volumen de actividad social es una negociación sobre necesidades biologicamente diferentes, no sobre preferencias arbitrarias.
 
-**Ejercicio inmediato:** Si tienes diferencias de extraversión con una persona importante en tu vida, reflexiona: en las situaciones de tensión sobre actividad social, hay una formula de negociación que podría funcionar para ambos? El introvertido puede comprometerse a un mayor volumen de actividad social de lo que prefiere espontaneamente; el extravertido puede comprometerse a más tiempo de calidad en casa. La clave es que ambos reconozcan las necesidades del otro como legitimas, no como caprichos.
+**Ejercicio inmediato:** Si tienes diferencias de extraversión con una persona importante en tu vida, reflexiona: ¿en las situaciones de tensión sobre actividad social, hay una formula de negociación que podría funcionar para ambos? El introvertido puede comprometerse a un mayor volumen de actividad social de lo que prefiere espontaneamente; el extravertido puede comprometerse a más tiempo de calidad en casa. La clave es que ambos reconozcan las necesidades del otro como legitimas, no como caprichos.
 
 Las necesidades de estimulación del extravertido no son superficiales. Las de quietud del introvertido no son antisociales. Son solo diferentes.
 
@@ -111,7 +111,7 @@ Ruben tiene que hacer presentaciones en su trabajo y le producen un nivel de act
 
 La investigación sobre la ansiedad ante el habla pública muestra que la preparación y la exposición gradual son las estrategias más efectivas, y que los introvertidos que se han expuesto repetidamente desarrollan una respuesta más modulada que los que evitan la exposición (que amplifica la ansiedad a largo plazo).
 
-**Ejercicio inmediato:** Para la próxima presentación o situación de alta exposición social que tengas, diseña tu protocolo de preparación: que necesitas dominar para sentirte suficientemente seguro? Cuanto tiempo de preparación es suficiente para reducir la incertidumbre a un nivel manejable? Y que necesitas después para recuperarte? Ese protocolo convierte una situación de alta activación en algo manejable.
+**Ejercicio inmediato:** Para la próxima presentación o situación de alta exposición social que tengas, diseña tu protocolo de preparación: ¿que necesitas dominar para sentirte suficientemente seguro? ¿Cuanto tiempo de preparación es suficiente para reducir la incertidumbre a un nivel manejable? Y que necesitas después para recuperarte? Ese protocolo convierte una situación de alta activación en algo manejable.
 
 El introvertido que se prepara bien no actua igual que el extravertido. Pero actua de forma que no le cuesta lo que le costaria sin preparación.
 
@@ -153,7 +153,7 @@ Isabel ha llegado a entender que sus rasgos no son problemas a corregir sino dat
 
 La investigación sobre el person-environment fit (ajuste persona-entorno) muestra que el desajuste entre la personalidad y el entorno laboral es uno de los principales predictores del burnout, la insatisfacción, y el bajo rendimiento. El ajuste produce mayor satisfacción, mayor rendimiento, y mayor bienestar.
 
-**Ejercicio inmediato:** Reflexiona sobre los entornos (laborales, sociales, físicos) donde tu te sientes más tu mismo: donde tu nivel de introversión o extraversión es un activo y no algo que tienes que compensar. Que caracteristicas tienen esos entornos? Que podrías hacer para tener más de esos entornos en tu vida?
+**Ejercicio inmediato:** Reflexiona sobre los entornos (laborales, sociales, físicos) donde tu te sientes más tu mismo: ¿donde tu nivel de introversión o extraversión es un activo y no algo que tienes que compensar. ¿Que caracteristicas tienen esos entornos? ¿Que podrías hacer para tener más de esos entornos en tu vida?
 
 La vida que más te conviene no es la que más te exige que seas diferente. Es la que más te permite ser quien eres mientras aun puedes crecer.
 

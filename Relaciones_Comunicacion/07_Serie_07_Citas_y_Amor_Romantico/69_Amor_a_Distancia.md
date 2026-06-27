@@ -73,7 +73,7 @@ Similar a lo discutido en el contexto de amistades a distancia, tener un plan cl
 
 **El Principio del Horizonte como Sosten psicológico:** Las relaciones romanticas a distancia sin ningún plan o fecha de reunificación tienden a generar mayor ansiedad y menor satisfacción sostenida que las que tienen un horizonte claro, incluso si ese horizonte esta a un año o más de distancia. La ausencia total de plan genera una sensación de limbo que es psicológicamente más difícil de sostener que una espera larga pero con dirección clara.
 
-**Ejercicio inmediato:** Si tu relación a distancia no tiene un plan claro de reunificación, considera tener esa conversación explicitamente: cuando o bajo que condiciones terminaria la distancia? Si la respuesta es incierta, identifica que información necesitan ambos para poder establecer un plan, aunque sea aproximado.
+**Ejercicio inmediato:** Si tu relación a distancia no tiene un plan claro de reunificación, considera tener esa conversación explicitamente: ¿cuando o bajo que condiciones terminaria la distancia? Si la respuesta es incierta, identifica que información necesitan ambos para poder establecer un plan, aunque sea aproximado.
 
 Una relación a distancia sin ningún horizonte de reunificación es más difícil de sostener que una con un plan, aunque ese plan este lejano.
 
@@ -85,7 +85,7 @@ En ausencia de la capacidad de verificación visual constante, la confianza se c
 
 **El Principio de la Confianza Construida sin Verificación Visual:** Las parejas a distancia construyen confianza principalmente a traves de la consistencia entre lo que se dice y lo que se observa en el comportamiento (responder cuando se dice que se respondera, mantener los planes acordados), más que a traves de cualquier forma de verificación visual o de vigilancia, que generalmente erosiona la confianza en lugar de construirla.
 
-**Ejercicio inmediato:** Evalua la consistencia de tu propio comportamiento en tu relación a distancia: cumples lo que dices, mantienes los planes acordados, comunicas proactivamente cuando algo cambia? Esa consistencia es la base real de la confianza que tu pareja puede tener en ti.
+**Ejercicio inmediato:** Evalua la consistencia de tu propio comportamiento en tu relación a distancia: ¿cumples lo que dices, mantienes los planes acordados, comunicas proactivamente cuando algo cambia? Esa consistencia es la base real de la confianza que tu pareja puede tener en ti.
 
 En la distancia, la confianza no se construye con lo que se puede verificar visualmente. Se construye con la consistencia demostrada entre palabras y acciones.
 
@@ -97,7 +97,7 @@ La ausencia de la convivencia diaria, con sus pequeñas friciones y realidades c
 
 **El Principio de la Idealización por Ausencia de Realidad Cotidiana:** Las relaciones a distancia, al carecer de la exposición a las pequeñas irritaciones y realidades de la convivencia diaria, pueden generar una versión idealizada de la pareja que se basa principalmente en los mejores momentos compartidos (visitas especiales, comunicación cuidadosamente elegida) sin la información completa que la convivencia real proporcionaria.
 
-**Ejercicio inmediato:** Reflexiona honestamente sobre si tu percepción de tu pareja a distancia podría estar idealizada por la ausencia de exposición a su realidad cotidiana completa. Que conversaciones podrían ayudar a tener una imagen más completa y realista?
+**Ejercicio inmediato:** Reflexiona honestamente sobre si tu percepción de tu pareja a distancia podría estar idealizada por la ausencia de exposición a su realidad cotidiana completa. ¿Que conversaciones podrían ayudar a tener una imagen más completa y realista?
 
 La distancia puede generar una versión idealizada de tu pareja que la convivencia real eventualmente complementara, para bien o para mal.
 
@@ -133,7 +133,7 @@ La diferencia entre una relación a distancia que se sostiene saludablemente y u
 
 **El Principio de la Gestion Deliberada como Diferenciador:** Las relaciones a distancia que sobreviven y eventualmente florecen no son las que tuvieron más suerte. Son las que gestionaron deliberadamente cada uno de los elementos críticos: comunicación intencional de calidad, plan claro de reunificación, confianza construida con consistencia, y conciencia activa del riesgo de idealización.
 
-**Ejercicio inmediato:** Evalua tu relación a distancia actual contra cada uno de los elementos discutidos en este libro. Cual de ellos necesita más atención deliberada en este momento?
+**Ejercicio inmediato:** Evalua tu relación a distancia actual contra cada uno de los elementos discutidos en este libro. ¿Cual de ellos necesita más atención deliberada en este momento?
 
 El amor a distancia no es imposible. Pero requiere más intención y diseño que la mayoría esta dispuesta a poner.
 
@@ -141,7 +141,7 @@ El amor a distancia no es imposible. Pero requiere más intención y diseño que
 
 ## Epílogo
 
-Ruben y la persona que conocio durante su viaje tuvieron, finalmente, la conversación que les había faltado: como sería exactamente esto en la práctica. Establecieron un ritmo de comunicación, un plan de visitas, y, lo más importante, una fecha aproximada para evaluar si la distancia podría cerrarse. No fue una garantía de éxito. Pero les dio la estructura que la pura buena intención nunca les habria dado por si sola.
+Ruben y la persona que conocio durante su viaje tuvieron, finalmente, la conversación que les había faltado: como sería exactamente esto en la práctica. Establecieron un ritmo de comunicación, un plan de visitas, y, lo más importante, una fecha aproximada para evaluar si la distancia podría cerrarse. No fue una garantía de éxito. Pero les dio la estructura que la pura buena intención nunca les habría dado por si sola.
 
 ---
 

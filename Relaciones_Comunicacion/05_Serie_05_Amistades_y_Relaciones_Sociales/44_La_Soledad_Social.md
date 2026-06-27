@@ -37,7 +37,7 @@ La soledad y el aislamiento social son conceptos relacionados pero distintos, y 
 
 **El Principio de la Distinción Subjetiva-Objetiva:** El aislamiento social es una condición objetiva: la cantidad real de contacto social que una persona tiene. La soledad es una experiencia subjetiva: la sensación de desconexion, independientemente de cuanto contacto social objetivo exista. Es posible estar socialmente aislado sin sentirse solo (las personas que eligen genuinamente la soledad), y es posible estar rodeado de gente y sentirse profundamente solo, si esas conexiones no son de la calidad o profundidad que la persona necesita.
 
-**Ejercicio inmediato:** Evalua tu situación actual en ambas dimensiones: cual es tu nivel objetivo de contacto social (cuantas interacciones tienes), y cual es tu nivel subjetivo de conexión (cuanto te sientes realmente conectado en esas interacciones)? Si hay una discrepancia entre ambos, esa discrepancia es la información clave.
+**Ejercicio inmediato:** Evalua tu situación actual en ambas dimensiones: ¿cual es tu nivel objetivo de contacto social (cuantas interacciones tienes), y cual es tu nivel subjetivo de conexión (cuanto te sientes realmente conectado en esas interacciones)? Si hay una discrepancia entre ambos, esa discrepancia es la información clave.
 
 Puedes estar rodeado de gente y sentirte completamente solo. La cantidad de contacto social no es lo mismo que la calidad de conexión.
 

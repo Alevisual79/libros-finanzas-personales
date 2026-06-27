@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ha visto cómo un comentario suyo en redes sociales recibio respuestas que le sorprendieron por su intensidad y por el comportamiento de personas que en persona probablemente no se habrian expresado asi. Elena ha observado como causas que parecian marginales pueden volverse virales en dias y transformar comportamientos a escala masiva. Isabel ha gestionado situaciones en su empresa donde rumores que circulaban en grupos de mensajeria interna habían transformado el estado de animo de equipos enteros antes de que nadie de la dirección supiera lo que estaba pasando. Las multitudes digitales son reales aunque no se reúnan físicamente. Y su psicología combina los mecanismos clasicos de la psicología de masas con fenómenos nuevos que solo internet hace posibles. Este libro es sobre esa psicología.
+Ruben ha visto cómo un comentario suyo en redes sociales recibio respuestas que le sorprendieron por su intensidad y por el comportamiento de personas que en persona probablemente no se habrían expresado asi. Elena ha observado como causas que parecian marginales pueden volverse virales en dias y transformar comportamientos a escala masiva. Isabel ha gestionado situaciones en su empresa donde rumores que circulaban en grupos de mensajeria interna habían transformado el estado de animo de equipos enteros antes de que nadie de la dirección supiera lo que estaba pasando. Las multitudes digitales son reales aunque no se reúnan físicamente. Y su psicología combina los mecanismos clasicos de la psicología de masas con fenómenos nuevos que solo internet hace posibles. Este libro es sobre esa psicología.
 
 ---
 
@@ -27,7 +27,7 @@ La psicología de las multitudes tiene un siglo de historia. La mayor parte de e
 
 Leon Festinger, Albert Pepitone, y Theodore Newcomb desarrollaron el concepto de desindividuación en los años cincuenta: el estado de menor autoconciencia y mayor sensibilidad a las normas del grupo que se produce cuando el individuo se percibe como anonimo dentro de un grupo mayor. Los experimentos de Philip Zimbardo sobre la desindividuación mostraron que las personas que usaban disfraces anonimizadores eran significativamente más agresivas en situaciones experimentales que las que mantenian su identidad visible.
 
-**Ejercicio inmediato:** La próxima vez que participes en una conversación en linea donde hay alta activación emocional (debate político, respuesta a una noticia, discusión en un foro), aplica la pregunta de la identidad visible: si mi nombre, mi cara, y las personas que me conocen pudieran ver exactamente lo que estoy a punto de escribir, seguiria escribiendo lo mismo? Si la respuesta es no, la desindividuación de la pantalla esta modulando tu comportamiento de formas que tu identidad real no aprobaria.
+**Ejercicio inmediato:** La próxima vez que participes en una conversación en linea donde hay alta activación emocional (debate político, respuesta a una noticia, discusión en un foro), aplica la pregunta de la identidad visible: ¿si mi nombre, mi cara, y las personas que me conocen pudieran ver exactamente lo que estoy a punto de escribir, seguiria escribiendo lo mismo? Si la respuesta es no, la desindividuación de la pantalla esta modulando tu comportamiento de formas que tu identidad real no aprobaria.
 
 El anonimato digital no cambia quien eres. Cambia quien crees que puedes ser sin consecuencias.
 
@@ -81,9 +81,9 @@ Elena ha visto casos de acoso en linea que han producido consecuencias reales gr
 
 **El Principio del Mobbing Digital como Forma de Violencia Colectiva Amplificada por la Desindividuación y la Ausencia de Coste Social Inmediato:** La investigación de Danah Boyd y colegas sobre el cyberbullying muestra que el acoso en linea combina los mecanismos classicos del acoso presencial con amplificadores específicos del entorno digital: la posibilidad de acoso las 24 horas, la audiencia potencialmente masiva (el contenido humillante puede ser visto por miles), la permanencia del contenido digital, y la reducción de la empatia hacía la victima producida por la ausencia de contacto cara a cara.
 
-La investigación de Jon Ronson en Publicamente Avergonzado muestra como las campanas de vilipendio en redes sociales pueden destruir la vida profesional y personal de personas que han cometido errores que en entornos pre-digitales habrian tenido consecuencias mucho más limitadas. La desproporción entre el error y la consecuencia es amplificada por la dinámica de masa que convierte el acoso en una actividad socialmente aprobada en el contexto específico.
+La investigación de Jon Ronson en Publicamente Avergonzado muestra como las campanas de vilipendio en redes sociales pueden destruir la vida profesional y personal de personas que han cometido errores que en entornos pre-digitales habrían tenido consecuencias mucho más limitadas. La desproporción entre el error y la consecuencia es amplificada por la dinámica de masa que convierte el acoso en una actividad socialmente aprobada en el contexto específico.
 
-**Ejercicio inmediato:** La próxima vez que te encuentres en una conversación en linea que se este convirtiendo en campana de verguenza o acoso hacía una persona específica, aplica el test de proporcionalidad: la consecuencia que esta produciendo esta campana es proporcional al error que la persona cometio? Si la respuesta es no, tu participación (incluso reactivando el contenido) contribuye a una dinámica que puede producir daño desproporcionado y que probablemente no aprobarias si la victima fuera alguien de tu entorno personal.
+**Ejercicio inmediato:** La próxima vez que te encuentres en una conversación en linea que se este convirtiendo en campana de verguenza o acoso hacía una persona específica, aplica el test de proporcionalidad: ¿la consecuencia que esta produciendo esta campana es proporcional al error que la persona cometio? Si la respuesta es no, tu participación (incluso reactivando el contenido) contribuye a una dinámica que puede producir daño desproporcionado y que probablemente no aprobarias si la victima fuera alguien de tu entorno personal.
 
 Participar en la humillación pública de alguien que no conoces porque muchos otros lo estan haciendo no te hace justiciero. Te hace parte de la multitud.
 
@@ -121,11 +121,11 @@ La audiencia digital que cuidas con tanta atención no te conoce. Solo conoce la
 
 Isabel ha visto movimientos sociales nacer en redes sociales y producir cambios en el mundo real.
 
-**El Principio de las Redes Sociales como Herramienta de Coordinación para la Acción Colectiva con Limites específicos:** La investigación de Clay Shirky sobre el poder de organización de las redes sociales muestra que internet reduce dramaticamente los costes de coordinación para la acción colectiva: las revoluciones de la Primavera Arabe, el movimiento #MeToo, y las protestas Black Lives Matter usaron las redes sociales para coordinar acciones que habrian requerido meses de organización en la era pre-digital.
+**El Principio de las Redes Sociales como Herramienta de Coordinación para la Acción Colectiva con Limites específicos:** La investigación de Clay Shirky sobre el poder de organización de las redes sociales muestra que internet reduce dramaticamente los costes de coordinación para la acción colectiva: las revoluciones de la Primavera Arabe, el movimiento #MeToo, y las protestas Black Lives Matter usaron las redes sociales para coordinar acciones que habrían requerido meses de organización en la era pre-digital.
 
 Sin embargo, la investigación de Malcolm Gladwell y otros sobre el slacktivism muestra que la acción en linea (compartir, firmar peticiones, cambiar la foto de perfil) puede sustituir a la acción real fuera de linea en lugar de prepararla o complementarla. El compromiso de bajo coste en linea puede producir la sensación de haber actuado sin producir el impacto real que requiere el compromiso de alto coste fuera de linea.
 
-**Ejercicio inmediato:** Para las causas que apoya a traves de comportamientos en linea (compartir, firmar, hashtags), reflexiona: cual es el impacto real que estas acciones producen vs. el impacto que podrías producir con acciones fuera de linea (donación monetaria, voluntariado, participación en procesos electorales)? Las acciones en linea son valiosas cuando complementan la acción real, no cuando la sustituyen.
+**Ejercicio inmediato:** Para las causas que apoya a traves de comportamientos en linea (compartir, firmar, hashtags), reflexiona: ¿cual es el impacto real que estas acciones producen vs. el impacto que podrías producir con acciones fuera de linea (donación monetaria, voluntariado, participación en procesos electorales)? Las acciones en linea son valiosas cuando complementan la acción real, no cuando la sustituyen.
 
 Compartir una causa no es apoyarla. Es anunciar que te importa. Apoyarla requiere algo más.
 
@@ -139,7 +139,7 @@ Ruben ha sentido que sus habitos de uso de redes sociales no siempre son los que
 
 La investigación de Jean Twenge y colegas sobre las generaciones digitales muestra que el aumento del tiempo de pantalla en adolescentes se correlaciona con mayor ansiedad, mayor depresión, y menor bienestar subjetivo, especialmente en chicas, aunque la dirección causal es objeto de debate.
 
-**Ejercicio inmediato:** Durante una semana, registra el tiempo de pantalla en cada aplicación social (la mayoría de los telefones tienen esta función nativa). Al final de la semana, reflexiona: el tiempo que he dedicado a cada plataforma es el que habria elegido deliberadamente si me hubieran preguntado al principio de la semana cuanto tiempo quiero dedicarle? La diferencia entre el tiempo elegido y el tiempo real es la captura atencional que el diseño persuasivo produce.
+**Ejercicio inmediato:** Durante una semana, registra el tiempo de pantalla en cada aplicación social (la mayoría de los telefones tienen esta función nativa). Al final de la semana, reflexiona: ¿el tiempo que he dedicado a cada plataforma es el que habría elegido deliberadamente si me hubieran preguntado al principio de la semana cuanto tiempo quiero dedicarle? La diferencia entre el tiempo elegido y el tiempo real es la captura atencional que el diseño persuasivo produce.
 
 El tiempo que la aplicación te roba sin que te des cuenta es el tiempo que podrías haber usado para lo que realmente importa.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel tiene cincuenta y dos años y acaba de enamorarse de alguien por primera vez sin esa euforia adolescente que recordaba de sus relaciones anteriores. No hay obsesión, no hay la sensación de no poder pensar en otra cosa. Hay, en su lugar, algo más tranquilo, más claro, más elegido. Y es mejor. Mucho mejor de lo que jamas habria imaginado que el amor pudiera sentirse.
+Isabel tiene cincuenta y dos años y acaba de enamorarse de alguien por primera vez sin esa euforia adolescente que recordaba de sus relaciones anteriores. No hay obsesión, no hay la sensación de no poder pensar en otra cosa. Hay, en su lugar, algo más tranquilo, más claro, más elegido. Y es mejor. Mucho mejor de lo que jamas habría imaginado que el amor pudiera sentirse.
 
 ---
 
@@ -25,7 +25,7 @@ El amor maduro, distinto del enamoramiento intenso de las primeras etapas de una
 
 **El Principio de la Diferencia Cualitativa del Amor Maduro:** El amor maduro no es una versión disminuida o aburrida del enamoramiento intenso, sino una experiencia psicológica cualitativamente distinta: más estable, menos dependiente de la novedad, y basada en un conocimiento profundo y realista del otro en lugar de en la idealización caracteristica del enamoramiento inicial. Esta diferencia no representa una perdida sino una evolución hacía una forma de amor más sostenible.
 
-**Ejercicio inmediato:** Si has experimentado tanto el enamoramiento intenso como el amor más maduro y estable, reflexiona sobre las diferencias cualitativas de ambas experiencias. Cual te ha producido mayor bienestar sostenido a largo plazo?
+**Ejercicio inmediato:** Si has experimentado tanto el enamoramiento intenso como el amor más maduro y estable, reflexiona sobre las diferencias cualitativas de ambas experiencias. ¿Cual te ha producido mayor bienestar sostenido a largo plazo?
 
 El amor maduro no es el amor que perdio su intensidad. Es el amor que encontró una forma más estable y sostenible de existir.
 
@@ -49,7 +49,7 @@ La calma y la estabilidad caracteristicas del amor maduro pueden confundirse, er
 
 **El Principio de la Distinción entre Calma y Aburrimiento:** La calma del amor maduro se caracteriza por seguridad y satisfacción genuina con la presencia del otro, mientras que el aburrimiento genuino se caracteriza por desconexion, falta de interés en la vida interior del otro, y ausencia de deseo de invertir en la relación. La confusión entre estos dos estados puede llevar a personas a abandonar relaciones genuinamente satisfactorias buscando la intensidad del enamoramiento que confunden con amor real.
 
-**Ejercicio inmediato:** Si te preguntas si la calma de tu relación actual es aburrimiento, evalua: sigues genuinamente interesado en la vida interior de tu pareja? Sigues queriendo invertir en la relación? Si la respuesta es si, lo que sientes es calma, no aburrimiento.
+**Ejercicio inmediato:** Si te preguntas si la calma de tu relación actual es aburrimiento, evalua: ¿sigues genuinamente interesado en la vida interior de tu pareja? ¿Sigues queriendo invertir en la relación? Si la respuesta es si, lo que sientes es calma, no aburrimiento.
 
 La calma del amor maduro y el aburrimiento se sienten parecidos en su intensidad reducida. Pero son experiencias fundamentalmente distintas.
 
@@ -61,7 +61,7 @@ La rutina en una relación de larga duración puede convertirse en un patron que
 
 **El Principio de la Rutina Consciente vs la Rutina Automatica:** La rutina que daña una relación es la que se vuelve completamente automática, sin presencia consciente (cenar juntos sin realmente conectar, dormir en la misma cama sin intimidad emocional). La rutina que fortalece la relación es la que, aunque repetida, mantiene elementos de presencia consciente y de elección activa de seguir conectando dentro de esa estructura predecible.
 
-**Ejercicio inmediato:** Identifica una rutina de tu relación actual que se ha vuelto completamente automática sin presencia consciente. Que pequeño ajuste podría devolverle algo de intencionalidad y conexión genuina?
+**Ejercicio inmediato:** Identifica una rutina de tu relación actual que se ha vuelto completamente automática sin presencia consciente. ¿Que pequeño ajuste podría devolverle algo de intencionalidad y conexión genuina?
 
 La rutina no es el enemigo del amor. La ausencia de presencia consciente dentro de la rutina, si lo es.
 
@@ -73,7 +73,7 @@ La vida sexual en el contexto del amor maduro tiene sus propias caracteristicas,
 
 **El Principio de la Sexualidad como Expresión de Conexion Evolucionada:** La sexualidad en el amor maduro tiende a estar más integrada con la conexión emocional general de la relación, menos impulsada por la novedad biológica del enamoramiento inicial, y con potencial de mayor profundidad de intimidad precisamente porque se basa en un conocimiento mutuo más completo que la sexualidad de las primeras etapas de conexión.
 
-**Ejercicio inmediato:** Reflexiona sobre como ha evolucionado tu vida sexual en una relación de larga duración. Que aspectos de esa evolución podrían representar profundización en lugar de simple disminución de intensidad?
+**Ejercicio inmediato:** Reflexiona sobre como ha evolucionado tu vida sexual en una relación de larga duración. ¿Que aspectos de esa evolución podrían representar profundización en lugar de simple disminución de intensidad?
 
 La sexualidad madura no es la sexualidad disminuida. Puede ser, con la atención adecuada, la sexualidad más profunda que la novedad inicial nunca permitio.
 

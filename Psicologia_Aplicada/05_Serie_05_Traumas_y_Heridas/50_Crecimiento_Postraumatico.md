@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben no habria elegido lo que le ocurrio. La crisis que pensó que lo destruiria. La relación que terminó en circunstancias devastadoras. El año en que todo parecio venirse abajo al mismo tiempo. No habria elegido ninguna de esas experiencias. Y sin embargo, si tuviera que describir quien es ahora en comparación con quien era antes de ellas, tendría que admitir que hay partes suyas que no estarian ahí sin el proceso de atravesar lo que creía que lo iba a destruir. Este libro es sobre ese fenómeno: el crecimiento postraumatico. No como promesa de que todo el sufrimiento produce crecimiento, porque no es cierto. Sino como documentación de un proceso real que ocurre en muchas personas.
+Ruben no habría elegido lo que le ocurrio. La crisis que pensó que lo destruiria. La relación que terminó en circunstancias devastadoras. El año en que todo parecio venirse abajo al mismo tiempo. No habría elegido ninguna de esas experiencias. Y sin embargo, si tuviera que describir quien es ahora en comparación con quien era antes de ellas, tendría que admitir que hay partes suyas que no estarian ahí sin el proceso de atravesar lo que creía que lo iba a destruir. Este libro es sobre ese fenómeno: el crecimiento postraumatico. No como promesa de que todo el sufrimiento produce crecimiento, porque no es cierto. Sino como documentación de un proceso real que ocurre en muchas personas.
 
 ---
 
@@ -55,9 +55,9 @@ Ruben quiere entender cuales son los mecanismos por los que el trauma puede prod
 
 Es la reconstrucción activa de esos esquemas, no el trauma en si, la que puede producir crecimiento. El crecimiento es mayor cuando: el trauma fue más severo, la persona tiene mayor capacidad de procesamiento reflexivo, hay apoyo social que facilita el proceso.
 
-**Ejercicio inmediato:** Reflexiona sobre la visión del mundo o de ti mismo que el trauma más importante de tu vida desafio. Que creias antes de esa experiencia que ya no puedes sostener de la misma forma? El desafio a esa creencia es frecuentemente el punto de partida del cambio más profundo.
+**Ejercicio inmediato:** Reflexiona sobre la visión del mundo o de ti mismo que el trauma más importante de tu vida desafio. ¿Que creías antes de esa experiencia que ya no puedes sostener de la misma forma? El desafio a esa creencia es frecuentemente el punto de partida del cambio más profundo.
 
-El trauma que sacude lo que creias que era sólido te da la oportunidad de construir algo más real en su lugar.
+El trauma que sacude lo que creías que era sólido te da la oportunidad de construir algo más real en su lugar.
 
 ---
 
@@ -147,13 +147,13 @@ El crecimiento que queda solo para ti tiene valor. El que encuentra una forma de
 
 ## Capítulo 10: El crecimiento como parte de la narrativa de vida
 
-Ruben, Isabel, y Elena no son las mismas personas que eran antes de las experiencias que les dieron forma. Sus historias incluyen capítulos dolorosos y capítulos de crecimiento que no habrian existido sin los dolorosos.
+Ruben, Isabel, y Elena no son las mismas personas que eran antes de las experiencias que les dieron forma. Sus historias incluyen capítulos dolorosos y capítulos de crecimiento que no habrían existido sin los dolorosos.
 
 **El Principio del Crecimiento Postraumatico como Integración en la Narrativa de Vida:** Dan McAdams propone que el bienestar a largo plazo esta conectado con la capacidad de construir una narrativa de vida coherente que integre los capítulos difíciles y los momentos de crecimiento. Esta narrativa no niega el sufrimiento ni glorifica el trauma: integra ambos en una historia en la que el yo que existe hoy esta conectado con el yo que era antes y con el yo que emergio de las experiencias difíciles.
 
 El crecimiento postraumatico es, en última instancia, una forma de integración narrativa: el trauma que pudo haber fragmentado la narrativa de vida encuentra su lugar en una historia continua, con sentido, con textura.
 
-**Ejercicio inmediato:** Escribe el título de los capítulos más importantes de tu vida, incluyendo los difíciles y los de crecimiento. Cómo se conectan? Que historia cuentan juntos? No necesitas que la historia sea heroica. Necesitas que sea tuya y que conecte los puntos.
+**Ejercicio inmediato:** Escribe el título de los capítulos más importantes de tu vida, incluyendo los difíciles y los de crecimiento. ¿Cómo se conectan? ¿Que historia cuentan juntos? No necesitas que la historia sea heroica. Necesitas que sea tuya y que conecte los puntos.
 
 La vida que tienes incluye todo lo que ha ocurrido. La narrativa que le das a esa vida es lo que la convierte en algo que tiene sentido.
 

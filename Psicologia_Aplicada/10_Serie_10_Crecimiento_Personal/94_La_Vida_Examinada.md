@@ -27,7 +27,7 @@ El autoconocimiento no es solo un valor filosofico. Tiene beneficios psicológic
 
 Su investigación, sin embargo, revela una paradoja preocupante: el 95% de las personas creen que tienen un buen nivel de autoconocimiento, pero solo el 10-15% cumplen los criterios del autoconocimiento real cuando se mide de forma objetiva. La brecha entre el autoconocimiento percibido y el real es enorme, y esa brecha produce decisiones, relaciones, y carreras que no estan alineadas con la realidad de quien uno es.
 
-**Ejercicio inmediato:** Reflexiona sobre las tres últimas decisiones importantes que tomaste. Para cada una, reflexiona: cual fue el proceso por el que tome esa decisión? Que valores o supuestos implícitos guiaron la decisión? Hay factores de mi personalidad o mis miedos que influenciaron la decisión de formas que no reconoci en el momento? Ese análisis retrospectivo es el inició del autoconocimiento real.
+**Ejercicio inmediato:** Reflexiona sobre las tres últimas decisiones importantes que tomaste. Para cada una, reflexiona: ¿cual fue el proceso por el que tome esa decisión? ¿Que valores o supuestos implícitos guiaron la decisión? Hay factores de mi personalidad o mis miedos que influenciaron la decisión de formas que no reconoci en el momento? Ese análisis retrospectivo es el inició del autoconocimiento real.
 
 El autoconocimiento que asumes sin examinar es con frecuencia una historia conveniente sobre quien crees que eres.
 
@@ -39,9 +39,9 @@ Elena pasa mucho tiempo reflexionando sobre si misma y sin embargo no siempre ll
 
 **El Principio de la Introspection como Herramienta con Limites Importantes que Requieren Ser Conocidos:** Timothy Wilson y Elizabeth Dunn han investigado los límites de la introspection: la capacidad de los seres humanos para acceder a las causas reales de sus propios pensamientos, sentimientos, y comportamientos. Sus conclusiones son sobrias: gran parte de los procesos mentales que determinan el comportamiento son inaccessibles a la conciencia, y cuando las personas introspectively, frecuentemente generan racionalizaciones plausibles que no reflejan los procesos reales.
 
-Tasha Eurich distingue entre los introspectos que aumentan el autoconocimiento y los que lo dificultan: preguntar por qué (por qué me siento asi? por qué he tomado esta decisión?) frecuentemente produce racionalización en lugar de comprensión, porque las respuestas al por qué son frecuentemente narrativas construidas después del hecho. Preguntar que (que estoy sintiendo? que patron de comportamiento estoy siguiendo? que podría hacer de forma diferente?) produce mayor utilidad porque focaliza en lo que es observable.
+Tasha Eurich distingue entre los introspectos que aumentan el autoconocimiento y los que lo dificultan: ¿preguntar por qué (por qué me siento asi? por qué he tomado esta decisión?) frecuentemente produce racionalización en lugar de comprensión, porque las respuestas al por qué son frecuentemente narrativas construidas después del hecho. Preguntar que (que estoy sintiendo? que patron de comportamiento estoy siguiendo? que podría hacer de forma diferente?) produce mayor utilidad porque focaliza en lo que es observable.
 
-**Ejercicio inmediato:** Para una situación que te genera confusión o malestar y sobre la que llevas tiempo preguntandote por qué, cambia la pregunta: en lugar de por qué me siento asi?, pregunta que estoy sintiendo exactamente? y que situaciones desencadenan este sentimiento? Las respuestas a las preguntas que son frecuentemente más accionables que las respuestas a los por qué.
+**Ejercicio inmediato:** Para una situación que te genera confusión o malestar y sobre la que llevas tiempo preguntandote por qué, cambia la pregunta: ¿en lugar de por qué me siento asi?, pregunta que estoy sintiendo exactamente? y que situaciones desencadenan este sentimiento? Las respuestas a las preguntas que son frecuentemente más accionables que las respuestas a los por qué.
 
 El por qué que te pregunta no siempre te lleva adonde piensas que te lleva. El que te dice con frecuencia si.
 
@@ -69,7 +69,7 @@ Isabel ha aprendido que el autoconocimiento que más falta en su vida no viene d
 
 El área ciega es el terreno del autoconocimiento que solo el feedback de otros puede revelar, y es frecuentemente donde estan los patrones que más nos limitan: la forma en que comunicamos que produce en los demás una impresión diferente de la que pretendemos, los patrones de comportamiento en situaciones de estres que no reconocemos en nosotros mismos, o los efectos de nuestras acciones en las personas de nuestro entorno que no vemos porque no tenemos acceso a sus perspectivas.
 
-**Ejercicio inmediato:** Identifica dos o tres personas de confianza en tu vida (que te conozcan bien y que tengan la confianza de decirte cosas incomodas) y pideles feedback específico sobre una pregunta concreta: cual es el patron de comportamiento que creen que te limita más en X área? La especificidad de la pregunta (en lugar de que piensas de mi en general?) produce respuestas más útiles y menos amenazantes de recibir.
+**Ejercicio inmediato:** Identifica dos o tres personas de confianza en tu vida (que te conozcan bien y que tengan la confianza de decirte cosas incomodas) y pideles feedback específico sobre una pregunta concreta: ¿cual es el patron de comportamiento que creen que te limita más en X área? ¿La especificidad de la pregunta (en lugar de que piensas de mi en general?) produce respuestas más útiles y menos amenazantes de recibir.
 
 El punto ciego que más te limita es el que no puedes ver tu solo. Necesitas los ojos de alguien que te quiere suficiente para decirtelo.
 
@@ -97,7 +97,7 @@ Elena reflexiona mucho pero frecuentemente esa reflexión no produce claridad si
 
 La diferencia entre la reflexión productiva y la rumiación no es el topico (ambas pueden centrarse en los mismos problemas) sino el proceso: la reflexión productiva avanza (produce comprensión nueva, genera opciones, conduce a aceptación o acción), mientras que la rumiación circula (vuelve repetidamente al mismo punto sin avanzar).
 
-**Ejercicio inmediato:** Para el pensamiento repetitivo que más energía consumes actualmente, reflexiona: este pensamiento me esta produciendo comprensión nueva o solo me esta haciendo girar en circulos? Si la respuesta es girar en circulos, aplica el interruptor cognitivo: una actividad física de moderada intensidad (caminar, correr, nadar) durante veinte minutos. La investigación de Nolen-Hoeksema muestra que el ejercicio físico es uno de los interruptores más efectivos de la rumiación.
+**Ejercicio inmediato:** Para el pensamiento repetitivo que más energía consumes actualmente, reflexiona: ¿este pensamiento me esta produciendo comprensión nueva o solo me esta haciendo girar en circulos? Si la respuesta es girar en circulos, aplica el interruptor cognitivo: una actividad física de moderada intensidad (caminar, correr, nadar) durante veinte minutos. La investigación de Nolen-Hoeksema muestra que el ejercicio físico es uno de los interruptores más efectivos de la rumiación.
 
 La reflexión que no avanza no es reflexión. Es sufrimiento circular con apariencia de pensamiento.
 
@@ -111,7 +111,7 @@ Isabel ha llegado a entender que el autoconocimiento más importante para su vid
 
 El mecanismo es el etiquetado emocional: nombrar una emoción con precisión activa el cortex prefrontal, que modula la respuesta de la amigdala. La precisión emocional no es un lujo de personas sensibles sino una herramienta de regulación que cualquier persona puede desarrollar con práctica.
 
-**Ejercicio inmediato:** Durante los próximos siete dias, práctica el etiquetado emocional preciso: cuando notes cualquier emoción, intenta nombrarla con la mayor especificidad posible. En lugar de estoy estresado, reflexiona: es ansiedad sobre algo futuro? Frustración sobre algo que no puedo controlar? Irritación con alguien específico? La precisión del etiquetado es el primer paso hacía la regulación efectiva.
+**Ejercicio inmediato:** Durante los próximos siete dias, práctica el etiquetado emocional preciso: cuando notes cualquier emoción, intenta nombrarla con la mayor especificidad posible. En lugar de estoy estresado, reflexiona: ¿es ansiedad sobre algo futuro? ¿Frustración sobre algo que no puedo controlar? Irritación con alguien específico? La precisión del etiquetado es el primer paso hacía la regulación efectiva.
 
 La emoción que no puedes nombrar con precisión no puedes gestionarla con precisión.
 
@@ -125,7 +125,7 @@ Ruben ha pasado años persiguiendo objetivos que, cuando los logró, descubrió 
 
 La investigación de Shalom Schwartz sobre los valores humanos universales identifica diez valores basicos que son reconocibles en todas las culturas humanas, y muestra que los conflictos internos frecuentemente reflejan conflictos entre valores (logró vs. benevolencia, poder vs. universalismo) que solo se pueden gestionar cuando se hacen explícitos.
 
-**Ejercicio inmediato:** Escribe los diez valores más importantes de tu vida sin reflexión excesiva (los que te vengan primero). Después ordenarlos de mayor a menor importancia. Ahora reflexiona: mis decisiones recientes importantes (tiempo, dinero, energía) estan alineadas con los tres primeros valores de la lista? Si no, hay una desalineación que puede ser la fuente de la sensación difusa de que algo no funciona bien aunque todo este bien en la superficie.
+**Ejercicio inmediato:** Escribe los diez valores más importantes de tu vida sin reflexión excesiva (los que te vengan primero). Después ordenarlos de mayor a menor importancia. Ahora reflexiona: ¿mis decisiones recientes importantes (tiempo, dinero, energía) estan alineadas con los tres primeros valores de la lista? Si no, hay una desalineación que puede ser la fuente de la sensación difusa de que algo no funciona bien aunque todo este bien en la superficie.
 
 Los valores que dices que tienes y los que revelan tus decisiones no siempre son los mismos. Los segundos son los reales.
 
@@ -139,7 +139,7 @@ Elena tiene una narrativa sobre su vida que guia sus elecciones de formas que no
 
 La investigación de Jonathan Adler y colegas muestra que la forma en que las personas narran su historia de vida (no los eventos en si sino como los interpretan y organizan) predice el bienestar psicológico: las narrativas de redención (eventos negativos que producen crecimiento) se asocian con mayor bienestar que las narrativas de contaminación (eventos positivos arruinados por negatividad), aunque los eventos objetivos sean similares.
 
-**Ejercicio inmediato:** Escribe en dos páginas la narrativa de tu vida hasta ahora: los capítulos principales, los momentos de inflexion, los personajes que han sido importantes, el tema central que conecta todo. Después reflexiona: esta narrativa te empodera (te cuenta como alguien que ha aprendido y crecido) o te victimiza (te cuenta como alguien a quien le han pasado cosas)? La narrativa que tienes sobre tu vida orienta la narrativa que construiras en el futuro.
+**Ejercicio inmediato:** Escribe en dos páginas la narrativa de tu vida hasta ahora: los capítulos principales, los momentos de inflexion, los personajes que han sido importantes, el tema central que conecta todo. Después reflexiona: ¿esta narrativa te empodera (te cuenta como alguien que ha aprendido y crecido) o te victimiza (te cuenta como alguien a quien le han pasado cosas)? La narrativa que tienes sobre tu vida orienta la narrativa que construiras en el futuro.
 
 La historia que te cuentas sobre tu vida es el guion de tu futuro. Vale la pena escribirla con intención.
 

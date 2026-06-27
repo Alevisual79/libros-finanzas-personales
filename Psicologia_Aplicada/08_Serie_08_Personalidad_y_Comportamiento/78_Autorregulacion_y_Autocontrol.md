@@ -27,7 +27,7 @@ La autorregulación no es supresión del deseo. Es algo más inteligente.
 
 La investigación de June Price Tangney y colegas muestra que las personas con mayor capacidad de autorregulación no son las que suprimen más sus emociones o que tienen mayor fuerza de voluntad en el sentido de resistir tentaciones. Son las que frecuentemente necesitan menos resistir porque han diseñado sus vidas de forma que las tentaciones aparecen menos: organizan mejor sus entornos, evitan situaciones donde la tentación es alta, y crean habitos que producen el comportamiento deseado automáticamente.
 
-**Ejercicio inmediato:** Reflexiona sobre una situación donde frecuentemente haces algo diferente de lo que quieres hacer. Reflexiona: es un problema de fuerza de voluntad en el momento o es un problema de arquitectura de la situación (la situación facilita el comportamiento no deseado y dificulta el deseado)? La segunda es mucho más manejable.
+**Ejercicio inmediato:** Reflexiona sobre una situación donde frecuentemente haces algo diferente de lo que quieres hacer. Reflexiona: ¿es un problema de fuerza de voluntad en el momento o es un problema de arquitectura de la situación (la situación facilita el comportamiento no deseado y dificulta el deseado)? La segunda es mucho más manejable.
 
 La autorregulación que se basa solo en resistir impulsos en el momento agota. La que rediseña los entornos y los habitos trabaja con el cerebro en lugar de contra el.
 
@@ -37,7 +37,7 @@ La autorregulación que se basa solo en resistir impulsos en el momento agota. L
 
 Ruben ha notado que sus peores decisiones las toma al final de un dia largo. Hay una explicación para ese patron.
 
-**El Principio del Agotamiento del Ego como Limitación Real (con Matices) de la Fuerza de Voluntad:** Roy Baumeister, Mark Muraven, y colegas propusieron el modeló de ego depletion (agotamiento del ego): la fuerza de voluntad funciona como un recurso que se agota con el uso. Los estudios originales mostraron que personas que habían ejercido autocontrol en una tarea mostraban menor autocontrol en tareas posteriores.
+**El Principio del Agotamiento del Ego como Limitación Real (con Matices) de la Fuerza de Voluntad:** Roy Baumeister, Mark Muraven, y colegas propusieron el modelo de ego depletion (agotamiento del ego): la fuerza de voluntad funciona como un recurso que se agota con el uso. Los estudios originales mostraron que personas que habían ejercido autocontrol en una tarea mostraban menor autocontrol en tareas posteriores.
 
 Los intentos de replicar este efecto han producido resultados mixtos. La investigación más reciente de Michael Inzlicht y colegas propone una versión más matizada: el autocontrol fluctua no por agotamiento de un recurso físico sino por cambios en la motivación y la atención a lo largo del dia. El cansancio psicológico reduce la disponibilidad para el esfuerzo cognitivo, lo que incluye el autocontrol.
 
@@ -51,11 +51,11 @@ La fuerza de voluntad que usas para cosas pequeñas no esta disponible para las 
 
 Isabel tiene hijos y se pregunta si el autocontrol es innato o se puede desarrollar.
 
-**El Principio del Autocontrol Infantil como Predictor de Outcomes Adultos con Matices Importantes:** Walter Mischel realizo en los años sesenta el experimento del marshmallow: ninos de cuatro años podían comer un marshmallow ahora o esperar quince minutos y recibir dos. Los estudios de seguimiento mostraron que los ninos que esperaron más tiempo tenían mejores resultados academicos y mayor bienestar social en la edad adulta.
+**El Principio del Autocontrol Infantil como Predictor de Outcomes Adultos con Matices Importantes:** Walter Mischel realizo en los años sesenta el experimento del marshmallow: niños de cuatro años podían comer un marshmallow ahora o esperar quince minutos y recibir dos. Los estudios de seguimiento mostraron que los niños que esperaron más tiempo tenían mejores resultados academicos y mayor bienestar social en la edad adulta.
 
 Sin embargo, la investigación más reciente de Tyler Watts y colegas con muestras más representativas matiza significativamente los resultados originales: el efecto predictivo del autocontrol infantil se reduce sustancialmente cuando se controla el nivel socioeconomico de la familia, sugiriendo que las diferencias en autocontrol infantil reflejan en parte diferencias en la confianza en el entorno. El autocontrol no es solo un rasgo innato: es una capacidad que se desarrolla en entornos que la hacen posible.
 
-**Ejercicio inmediato:** Si observas baja capacidad de autocontrol en tus hijos o en ti mismo, reflexiona: el entorno (físico y social) facilita o dificulta el autocontrol? La presencia de tentaciones constantes y la impredecibilidad del entorno reducen el autocontrol de forma racional. Disenar entornos más predecibles desarrolla el autocontrol más efectivamente que la insistencia en la voluntad.
+**Ejercicio inmediato:** Si observas baja capacidad de autocontrol en tus hijos o en ti mismo, reflexiona: ¿el entorno (físico y social) facilita o dificulta el autocontrol? La presencia de tentaciones constantes y la impredecibilidad del entorno reducen el autocontrol de forma racional. Disenar entornos más predecibles desarrolla el autocontrol más efectivamente que la insistencia en la voluntad.
 
 El autocontrol que juzgas como falta de carácter podría ser una respuesta racional a un entorno que no merece confianza.
 
@@ -69,7 +69,7 @@ Elena hace malas decisiones cuando esta emocionalmente activada. La regulación 
 
 La investigación sobre el hot/cold empathy gap de George Loewenstein muestra que cuando las personas estan en estados emocionales de alta activación (hambre, enfado, excitación sexual, miedo), subestiman sistemáticamente el efecto que ese estado tendrá sobre sus decisiones. Por eso las decisiones tomadas en estados emocionales intensos frecuentemente se lamentan en los estados emocionales más frios.
 
-**Ejercicio inmediato:** Para las tres áreas donde tomas decisiones que luego lamentas, reflexiona: en que estado emocional tomas esas decisiones? Alta activación (estres, enfado, ansiedad, euforia) o baja activación (calma, reflexión)? Si la respuesta es alta activación, establece una regla de no-decidir: en estados de alta activación emocional, esperar al menos veinte minutos antes de actuar.
+**Ejercicio inmediato:** Para las tres áreas donde tomas decisiones que luego lamentas, reflexiona: ¿en que estado emocional tomas esas decisiones? ¿Alta activación (estres, enfado, ansiedad, euforia) o baja activación (calma, reflexión)? Si la respuesta es alta activación, establece una regla de no-decidir: en estados de alta activación emocional, esperar al menos veinte minutos antes de actuar.
 
 La decisión que toma la emoción no es tu decisión. Es la decisión de la emoción con tu nombre.
 
@@ -97,7 +97,7 @@ Isabel sabe que si hay helado en el congelador, se lo comera. La solución no es
 
 Las estrategias de pre-compromiso incluyen: no comprar lo que no se quiere comer en exceso (no tenerlo en casa), comprometer públicamente los objetivos (aumentar el coste social del incumplimiento), y establecer sistemas de penalización o recompensa condicionados al cumplimiento del comportamiento deseado.
 
-**Ejercicio inmediato:** Para el área donde tu yo presente frecuentemente toma decisiones que tu yo futuro lamenta, diseña un pre-compromiso: que decisión puedes tomar ahora, cuando la tentación no esta activa, que proteja al yo futuro cuando si lo este? La estrategia más efectiva es la que reduce las opciones del yo tentado (no tener el alcohol en casa, no tener el movil en el dormitorio) en lugar de la que le pide que resista.
+**Ejercicio inmediato:** Para el área donde tu yo presente frecuentemente toma decisiones que tu yo futuro lamenta, diseña un pre-compromiso: ¿que decisión puedes tomar ahora, cuando la tentación no esta activa, que proteja al yo futuro cuando si lo este? La estrategia más efectiva es la que reduce las opciones del yo tentado (no tener el alcohol en casa, no tener el movil en el dormitorio) en lugar de la que le pide que resista.
 
 La batalla de la voluntad en el momento de la tentación siempre es más difícil que la batalla de la arquitectura antes de que la tentación llegue.
 
@@ -139,7 +139,7 @@ Isabel ha llegado a entender que el autocontrol que le cuesta más es el que va 
 
 James Clear propone que el cambio de identidad es la forma más potente de cambio de comportamiento precisamente porque elimina la necesidad del autocontrol: la persona que se identifica como no-fumador no necesita resistir el impulso de fumar cada vez; simplemente no lo hace porque no es lo que ella hace.
 
-**Ejercicio inmediato:** Para el comportamiento que más te cuesta autorregular, reflexiona: que tipo de persona quieres ser en esa área? Esa identidad específica: cómo se expresaria en el comportamiento concreto que tienes que tomar hoy? La pregunta no es puedo hacerlo sino es esto coherente con quien quiero ser? La segunda pregunta activa la identidad y reduce la necesidad del autocontrol puro.
+**Ejercicio inmediato:** Para el comportamiento que más te cuesta autorregular, reflexiona: ¿que tipo de persona quieres ser en esa área? Esa identidad específica: ¿cómo se expresaria en el comportamiento concreto que tienes que tomar hoy? ¿La pregunta no es puedo hacerlo sino es esto coherente con quien quiero ser? La segunda pregunta activa la identidad y reduce la necesidad del autocontrol puro.
 
 La autorregulación que lucha contra lo que quieres hacer cansa. La que expresa quien eres no necesita luchar.
 
@@ -153,7 +153,7 @@ Elena ha sido muy dura consigo misma cuando falla en la autorregulación. La inv
 
 La autocompasión no es complacencia ni ausencia de estandares. Es la calidez con uno mismo en el proceso de aspirar a los propios estandares y fallar periodicamente en alcanzarlos.
 
-**Ejercicio inmediato:** La próxima vez que falles en la autorregulación, práctica la autocompasión en lugar de la autocritica: reconoce el fallo honestamente (si, lo hice de nuevo), reconoce que esto es parte de la experiencia humana (muchas personas luchan con esto), y actua con calidez hacía ti mismo (que podría ayudarme la próxima vez?). Ese proceso produce más cambio sostenible que cualquier crítica severa.
+**Ejercicio inmediato:** La próxima vez que falles en la autorregulación, práctica la autocompasión en lugar de la autocritica: ¿reconoce el fallo honestamente (si, lo hice de nuevo), reconoce que esto es parte de la experiencia humana (muchas personas luchan con esto), y actua con calidez hacía ti mismo (que podría ayudarme la próxima vez?). Ese proceso produce más cambio sostenible que cualquier crítica severa.
 
 La dureza contigo mismo cuando fallas no te hace mejor. Te hace más probable de volver a fallar de la misma forma.
 

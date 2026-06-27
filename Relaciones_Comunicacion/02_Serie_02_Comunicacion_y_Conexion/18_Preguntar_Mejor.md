@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Las conversaciones más memorables que has tenido en tu vida probablemente tienen algo en común: alguien te hizo una pregunta que te hizo pensar de forma diferente sobre algo que creias conocer. Una pregunta que abrió algo que estaba cerrado. Una pregunta que te hizo sentir visto.
+Las conversaciones más memorables que has tenido en tu vida probablemente tienen algo en común: alguien te hizo una pregunta que te hizo pensar de forma diferente sobre algo que creías conocer. Una pregunta que abrió algo que estaba cerrado. Una pregunta que te hizo sentir visto.
 
 Las preguntas son la tecnología más antigua y más subutilizada de la conexión humana. La hacemos de forma automática, sin pensar en la diferencia entre una pregunta que abre y una que cierra. Y esa diferencia lo cambia todo.
 
@@ -39,13 +39,13 @@ Las mejores conversaciones no empiezan con lo que sabes. Empiezan con lo que qui
 
 ## Capítulo 2: Preguntas abiertas vs cerradas
 
-Como fue el viaje? Bien. Esa conversación ha terminado antes de empezar. Que fue lo más sorprendente del viaje? Esa pregunta puede durar una hora.
+Como fue el viaje? ¿Bien. Esa conversación ha terminado antes de empezar. ¿Que fue lo más sorprendente del viaje? Esa pregunta puede durar una hora.
 
 **El Principio de la Apertura como Invitación:** Las preguntas cerradas producen respuestas cerradas: si, no, bien, mal. Son útiles para obtener datos concretos y verificables. Son inutiles para construir conexión. Las preguntas abiertas invitan al otro a pensar, a seleccionar, a compartir algo de si mismo. No hay respuesta correcta porque la pregunta no tiene una respuesta unica. Eso la hace rica para la conversación.
 
 La diferencia entre te gusto? y que te parecio? parece mínima. La primera puede responderse con si o no. La segunda requiere que el otro piense y comparta una perspectiva. La segunda produce cinco veces más conversación que la primera, porque invita en lugar de cerrar.
 
-**Ejercicio inmediato:** Durante una semana, sustituye tres preguntas cerradas por su versión abierta en cada conversación. Como estas? por qué esta pasando en tu vida que más te importa ahora mismo. Fue buena la reunión? por qué fue lo más interesante de la reunión. Observa la diferencia en la calidad y la duración de las respuestas.
+**Ejercicio inmediato:** Durante una semana, sustituye tres preguntas cerradas por su versión abierta en cada conversación. ¿Como estas? por qué esta pasando en tu vida que más te importa ahora mismo. Fue buena la reunión? por qué fue lo más interesante de la reunión. Observa la diferencia en la calidad y la duración de las respuestas.
 
 Una pregunta abierta no espera una respuesta específica. Crea el espacio para que el otro decida que compartir.
 
@@ -59,7 +59,7 @@ Elena tiene la habilidad de escuchar la primera respuesta del otro y pasar al si
 
 Hal Gregersen, investigador del MIT sobre creatividad e innovación, llama a esto la pregunta catalitica: una pregunta que cambia la forma en que el entrevistado ve algo que creía conocer bien. Las preguntas cataliticas casi nunca son las primeras de la conversación. Son las que surgen de escuchar de verdad la primera respuesta y profundizar en lo que la hizo interesante.
 
-**Ejercicio inmediato:** En tu próxima conversación, cuando el otro termine de responder a tu primera pregunta, práctica hacer una pregunta de seguimiento antes de avanzar al siguiente tema: y que más? o que fue lo más sorprendente de eso? o como te hizo sentir eso? El segundo nivel es donde esta la conversación real.
+**Ejercicio inmediato:** En tu próxima conversación, cuando el otro termine de responder a tu primera pregunta, práctica hacer una pregunta de seguimiento antes de avanzar al siguiente tema: ¿y que más? o que fue lo más sorprendente de eso? o como te hizo sentir eso? El segundo nivel es donde esta la conversación real.
 
 La primera respuesta es la puerta. Las siguientes preguntas son las que cruzan el umbral.
 
@@ -73,7 +73,7 @@ Hay personas con las que sientes, al cabo de una hora, que te conoce de toda la 
 
 Arthur Aron, en su famoso experimento de las 36 preguntas, demostró que dos extraños pueden alcanzar un nivel de intimidad en 45 minutos equivalente a años de conocerse superficialmente, simplemente haciendose preguntas progresivamente más profundas. Las preguntas correctas no solo revelan información. Producen conexión.
 
-**Ejercicio inmediato:** Esta semana, en una conversación con alguien que quieres conocer mejor, haz una pregunta que no hayas hecho nunca: cual ha sido el período de tu vida en que más has aprendido? Que cambio en tu forma de ver las cosas algun libro, persona o experiencia en particular? Observa como esa pregunta cambia el nivel de la conversación.
+**Ejercicio inmediato:** Esta semana, en una conversación con alguien que quieres conocer mejor, haz una pregunta que no hayas hecho nunca: ¿cual ha sido el período de tu vida en que más has aprendido? ¿Que cambio en tu forma de ver las cosas algun libro, persona o experiencia en particular? Observa como esa pregunta cambia el nivel de la conversación.
 
 Las preguntas que haces determinan el tipo de relación que construyes.
 
@@ -95,7 +95,7 @@ La curiosidad no se finge. Pero si se puede entrenar como disposición.
 
 ## Capítulo 6: Preguntar sin interrogar
 
-Hay personas cuyas preguntas se sienten cómo una entrevista de trabajo. Cuantos años llevas trabajando en esto? Donde estudiaste? Tienes pareja? Cada pregunta es un item más de un formulario invisible. El resultado es que el otro se siente evaluado, no escuchado.
+Hay personas cuyas preguntas se sienten cómo una entrevista de trabajo. ¿Cuantos años llevas trabajando en esto? ¿Donde estudiaste? Tienes pareja? Cada pregunta es un item más de un formulario invisible. El resultado es que el otro se siente evaluado, no escuchado.
 
 **El Principio del Ritmo y el Espacio:** La diferencia entre preguntar y interrogar no esta en el contenido de las preguntas sino en el ritmo y el espacio entre ellas. El interrogatorio salta de una pregunta a otra sin dar espacio para que la respuesta se desarrolle. La conversación genuina hace una pregunta, escucha de verdad la respuesta, y deja que la siguiente pregunta surja naturalmente de lo que el otro ha compartido.
 
@@ -125,11 +125,11 @@ El silencio que toleras después de una pregunta es el espacio donde el otro enc
 
 Hay preguntas que tienen poder terapeutico sin ser parte de ninguna terapia. Preguntas que abren perspectivas que el otro no podía ver. Preguntas que permiten que el otro se escuche a si mismo diciendo algo que no sabía que pensaba.
 
-**El Principio de la Pregunta Generativa:** Las preguntas generativas son las que producen algo nuevo en el pensamiento del otro. No confirman lo que ya sabe. Abren una perspectiva diferente. Que te gustaria que fuera diferente en esta situación? es una pregunta generativa. Cuya responsabilidad es realmente ese problema? puede serlo. Si esta situación tuviera algo que enseñarte, que podría ser? es otra.
+**El Principio de la Pregunta Generativa:** Las preguntas generativas son las que producen algo nuevo en el pensamiento del otro. No confirman lo que ya sabe. Abren una perspectiva diferente. ¿Que te gustaria que fuera diferente en esta situación? es una pregunta generativa. Cuya responsabilidad es realmente ese problema? puede serlo. Si esta situación tuviera algo que enseñarte, que podría ser? es otra.
 
 El coaching efectivo, la terapia bien hecha, las mejores conversaciones entre amigos, tienen en común la presencia de preguntas generativas que producen en el otro una perspectiva nueva sobre algo que creía conocer. Esas preguntas no requieren formación especializada. Requieren escucha profunda y curiosidad genuina.
 
-**Ejercicio inmediato:** La próxima vez que un amigo te cuente un problema que lleva tiempo dando vueltas, en lugar de dar un consejo, haz una pregunta generativa: que parte de esto esta en tu control? o que podrías hacer diferente que no has probado todavia? o si el problema se resolviera mañana, cómo lo sabrias? Observa lo que la pregunta produce.
+**Ejercicio inmediato:** La próxima vez que un amigo te cuente un problema que lleva tiempo dando vueltas, en lugar de dar un consejo, haz una pregunta generativa: ¿que parte de esto esta en tu control? o que podrías hacer diferente que no has probado todavia? o si el problema se resolviera mañana, cómo lo sabrías? Observa lo que la pregunta produce.
 
 Un buen consejo dice lo que debes hacer. Una buena pregunta te ayuda a descubrir lo que ya sabes.
 
@@ -137,13 +137,13 @@ Un buen consejo dice lo que debes hacer. Una buena pregunta te ayuda a descubrir
 
 ## Capítulo 9: Preguntar en el conflicto
 
-El conflicto reduce la capacidad de hacer buenas preguntas. Cuando estamos activados emocionalmente, queremos expresar nuestra posición, no entender la del otro. Las preguntas que se hacen en el conflicto suelen ser preguntas retorica (como puedes decir eso?) o preguntas trampa (y entonces tu que hiciste?). Ninguna construye nada.
+El conflicto reduce la capacidad de hacer buenas preguntas. ¿Cuando estamos activados emocionalmente, queremos expresar nuestra posición, no entender la del otro. Las preguntas que se hacen en el conflicto suelen ser preguntas retorica (como puedes decir eso?) o preguntas trampa (y entonces tu que hiciste?). Ninguna construye nada.
 
 **El Principio de la Pregunta Genuina en el Conflicto:** Las preguntas genuinas en el conflicto son las que buscan realmente entender la perspectiva del otro, no las que buscan refutarla o atraparla. Puedo preguntarte como llegaste a esa conclusión? o que es lo que más te importa resolver aquí? o que necesitas que yo entienda de tu posición? son preguntas genuinas. Abren la conversación en lugar de cerrarla.
 
 Hacer preguntas genuinas en el conflicto requiere regular primero la propia activación emocional hasta el punto en que la curiosidad sea real, no una herramienta tactica. La pregunta que se formula como curiosidad pero que en realidad es un ataque, el otro la detecta y produce el efecto contrario.
 
-**Ejercicio inmediato:** En el próximo conflicto que tengas, antes de defender tu posición, haz una pregunta genuina que busque entender la perspectiva del otro: que es lo más importante para ti en esta situación? Escucha la respuesta completa antes de responder. Esa secuencia cambia el tono del conflicto.
+**Ejercicio inmediato:** En el próximo conflicto que tengas, antes de defender tu posición, haz una pregunta genuina que busque entender la perspectiva del otro: ¿que es lo más importante para ti en esta situación? Escucha la respuesta completa antes de responder. Esa secuencia cambia el tono del conflicto.
 
 En el conflicto, preguntar antes que defender es la estrategia más eficaz y la menos usada.
 
@@ -157,7 +157,7 @@ La mejora en la calidad de las preguntas no ocurre por leer sobre ella. Ocurre c
 
 Los mejores comunicadores del mundo, en cualquier campo, comparten el habito de revisar sus conversaciones para ver que funcionó y que podría mejorar. Esa revisión sistemática es lo que convierte la experiencia en aprendizaje.
 
-**Ejercicio inmediato:** Esta semana, después de tres conversaciones importantes, escribe en dos minutos: que preguntas hice? Cuales abrieron algo? Cuales cerraron? Que pregunta me arrepiento de no haber hecho? Esa revisión, hecha consistentemente, es el mecanismo de mejora más eficaz disponible.
+**Ejercicio inmediato:** Esta semana, después de tres conversaciones importantes, escribe en dos minutos: ¿que preguntas hice? ¿Cuales abrieron algo? Cuales cerraron? ¿Que pregunta me arrepiento de no haber hecho? Esa revisión, hecha consistentemente, es el mecanismo de mejora más eficaz disponible.
 
 Las preguntas que cambias hoy cambian las conversaciones que tienes mañana. Y las conversaciones que tienes mañana cambian las relaciones que construyes.
 

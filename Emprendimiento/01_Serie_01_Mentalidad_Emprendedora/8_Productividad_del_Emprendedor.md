@@ -41,7 +41,7 @@ Lucia ha aprendido que el 80/20 no es solo una curiosidad estadistica. Es el map
 
 La investigación de Gary Keller en La Cosa Más Importante (The One Thing) muestra que la focalización extrema en la actividad de mayor impacto produce resultados desproporcionados a traves del efecto de dominó: la actividad correcta facilita las siguientes actividades de forma no lineal.
 
-**Ejercicio inmediato:** Para tu negocio, identifica el 20/20: el 20% de tus clientes que genera el 80% de tu mejor facturación y satisfacción, y el 20% de tus actividades que produce el 80% de tu crecimiento. Para el 20% de clientes: como podrías tener más clientes similares a esos? Para el 20% de actividades: como podrías dedicarles más tiempo y reducir el tiempo en el 80% restante? Esas dos preguntas son las más estratégicas que puedes hacerte.
+**Ejercicio inmediato:** Para tu negocio, identifica el 20/20: el 20% de tus clientes que genera el 80% de tu mejor facturación y satisfacción, y el 20% de tus actividades que produce el 80% de tu crecimiento. Para el 20% de clientes: ¿como podrías tener más clientes similares a esos? Para el 20% de actividades: ¿como podrías dedicarles más tiempo y reducir el tiempo en el 80% restante? Esas dos preguntas son las más estratégicas que puedes hacerte.
 
 Los negocios que crecen no son los que hacen más cosas. Son los que hacen más de las cosas correctas.
 
@@ -97,7 +97,7 @@ Carlos ha aprendido que el tiempo bien gestionado pero con baja energía produce
 
 La investigación de Matthew Walker sobre el sueño muestra que la privación de sueño tiene un impacto en el rendimiento cognitivo equivalente a la intoxicación alcoholica, y que las personas con sueño insuficiente subestiman sistemáticamente ese impacto porque la privación de sueño también degrada la capacidad de percibir el proprio deterioro.
 
-**Ejercicio inmediato:** Durante la próxima semana, registra tu nivel de energía (del 1 al 10) cada dos horas desde que te despiertas hasta que te acuestas. Al final de la semana, identifica los patrones: a que horas del dia tienes energía más alta? A que horas cae? Que actividades o situaciones aumentan tu energía y cuales la reducen? Alinea las tareas de mayor exigencia cognitiva con tus picos de energía y las rutinarias con tus valles.
+**Ejercicio inmediato:** Durante la próxima semana, registra tu nivel de energía (del 1 al 10) cada dos horas desde que te despiertas hasta que te acuestas. Al final de la semana, identifica los patrones: ¿a que horas del dia tienes energía más alta? ¿A que horas cae? Que actividades o situaciones aumentan tu energía y cuales la reducen? Alinea las tareas de mayor exigencia cognitiva con tus picos de energía y las rutinarias con tus valles.
 
 La hora que trabajas con alta energía vale lo mismo en tiempo que la que trabajas con baja energía. No valen lo mismo en resultado.
 
@@ -125,7 +125,7 @@ Marcos ha descubierto que reducir el número de proyectos en los que trabaja en 
 
 La investigación de Mihaly Csikszentmihalyi sobre el flow muestra que el estado de maxima productividad y satisfacción (el flow) requiere la concentración completa en una tarea específica con la dificultad adecuada. El multitasking es incompatible con el flow.
 
-**Ejercicio inmediato:** Lista todos los proyectos activos en tu negocio en este momento (incluyendo los que estan en pausa pero en los que todavia piensas). Para cada uno, reflexiona: si pudiera trabajar solo en uno de ellos durante los próximos treinta dias, cual produciria el mayor impacto en el negocio? Si la respuesta es clara, considera si los demás proyectos podrían pausarse temporalmente para concentrar los recursos en el de mayor impacto.
+**Ejercicio inmediato:** Lista todos los proyectos activos en tu negocio en este momento (incluyendo los que estan en pausa pero en los que todavia piensas). Para cada uno, reflexiona: ¿si pudiera trabajar solo en uno de ellos durante los próximos treinta dias, cual produciria el mayor impacto en el negocio? Si la respuesta es clara, considera si los demás proyectos podrían pausarse temporalmente para concentrar los recursos en el de mayor impacto.
 
 El proyecto que haces bien es mejor que los tres que haces mediocremente. Y frecuentemente se hace en menos tiempo total.
 
@@ -139,7 +139,7 @@ Carlos ha aprendido que el sprint productivo de los primeros meses de emprendimi
 
 La investigación de Anders Ericsson sobre la práctica deliberada muestra que la calidad del trabajo cognitivo profundo disminuye significativamente después de cuatro horas de esfuerzo sostenido. Más allá de ese punto, el trabajo adicional produce output de menor calidad que requiere más revisión y corrección posterior, negando el tiempo ganado.
 
-**Ejercicio inmediato:** Diseña tu semana de trabajo ideal con el ritmo que podrías mantener durante cinco años sin quemarte: que horas y que dias son para el trabajo profundo de mayor valor? Que horas son para el trabajo operativo de menor intensidad cognitiva? Que tiempo es para la recuperación (física, mental, emocional) que hace posible el rendimiento sostenido? Compara esa semana ideal con tu semana real y reflexiona sobre la brecha.
+**Ejercicio inmediato:** Diseña tu semana de trabajo ideal con el ritmo que podrías mantener durante cinco años sin quemarte: ¿que horas y que dias son para el trabajo profundo de mayor valor? ¿Que horas son para el trabajo operativo de menor intensidad cognitiva? Que tiempo es para la recuperación (física, mental, emocional) que hace posible el rendimiento sostenido? Compara esa semana ideal con tu semana real y reflexiona sobre la brecha.
 
 El emprendedor que trabaja de forma sostenible diez años produce más que el que trabaja al máximo dos y luego se quema. Y disfruta mucho más del proceso.
 

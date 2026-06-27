@@ -27,7 +27,7 @@ El dinero externo no es gratis. Tiene un precio que no siempre se mide en porcen
 
 La investigación de Paul Gompers y Josh Lerner sobre el venture capital muestra que menos del 1% de las empresas que buscan financiación de venture capital la consiguen, y que el proceso de buscar esa financiación consume tiempo y energía del fundador que podría invertirse en el negocio. El coste de oportunidad del proceso de fundraising es significativo y debe incluirse en el cálculo.
 
-**Ejercicio inmediato:** Antes de iniciar ninguna busqueda de financiación externa, responde honestamente a estas tres preguntas: necesito este capital para hacer crecer el negocio o lo quiero porque se siente como validación? Tengo claro que control y decisiones estoy dispuesto a ceder a cambio del capital? Podria alcanzar el mismo objetivo con más tiempo y menos recursos en lugar de con capital externo? Las respuestas honestas a esas preguntas pueden ahorrarte meses de trabajo y energía que podrías dedicar al negocio.
+**Ejercicio inmediato:** Antes de iniciar ninguna busqueda de financiación externa, responde honestamente a estas tres preguntas: ¿necesito este capital para hacer crecer el negocio o lo quiero porque se siente como validación? ¿Tengo claro que control y decisiones estoy dispuesto a ceder a cambio del capital? Podría alcanzar el mismo objetivo con más tiempo y menos recursos en lugar de con capital externo? Las respuestas honestas a esas preguntas pueden ahorrarte meses de trabajo y energía que podrías dedicar al negocio.
 
 El capital externo que no necesitas es más caro de lo que crees. Aunque no lo pagues en interés o en equity.
 
@@ -63,13 +63,13 @@ El inversor que te llega a traves de alguien en quien confia ya llega con la mit
 
 ## Capítulo 4: El venture capital: para quien es y para quien no es
 
-Marcos ha evaluado el venture capital y ha aprendido que su modeló de negocio no encaja con lo que los fondos de VC necesitan.
+Marcos ha evaluado el venture capital y ha aprendido que su modelo de negocio no encaja con lo que los fondos de VC necesitan.
 
-**El Principio del Venture Capital como Tipo de Capital Apropiado Solo para Negocios con Potencial de Crecimiento Exponencial en Mercados Grandes porque su Modelo de Retorno Requiere Outliers:** El modeló de retorno del venture capital funciona como sigue: los fondos de VC invierten en veinte a treinta empresas sabiendo que la mayoría fallaran o tendrán retornos modestos, pero esperando que una o dos produciran retornos de cincuenta a cien veces la inversión inicial que compensaran todas las perdidas del portfolio. Eso significa que el VC solo puede invertir en negocios que tengan el potencial de convertirse en empresas de cientos de millones o miles de millones de valoración en un plazo de cinco a ocho años.
+**El Principio del Venture Capital como Tipo de Capital Apropiado Solo para Negocios con Potencial de Crecimiento Exponencial en Mercados Grandes porque su Modelo de Retorno Requiere Outliers:** El modelo de retorno del venture capital funciona como sigue: los fondos de VC invierten en veinte a treinta empresas sabiendo que la mayoría fallaran o tendrán retornos modestos, pero esperando que una o dos produciran retornos de cincuenta a cien veces la inversión inicial que compensaran todas las perdidas del portfolio. Eso significa que el VC solo puede invertir en negocios que tengan el potencial de convertirse en empresas de cientos de millones o miles de millones de valoración en un plazo de cinco a ocho años.
 
 La investigación de Peter Thiel sobre los criterios de inversión de VC muestra que los fondos buscan negocios con: mercado potencial de al menos mil millones de dolares, crecimiento de revenue de al menos un 100% anual en las primeras fases, ventaja competitiva defensible (tecnología, efectos de red, o marca), y un equipo fundador con las caracteristicas de los que han construido ese tipo de empresa antes.
 
-**Ejercicio inmediato:** Para tu negocio, aplica el filtro del venture capital: podría tu negocio convertirse en una empresa de cientos de millones de valoración en los próximos siete años? Si la respuesta honesta es probablemente no (que es la respuesta correcta para la mayoría de los buenos negocios), el venture capital no es el capital adecuado para tu negocio y buscar fondos de VC es consumir tiempo y energía en una busqueda que tiene poca probabilidad de éxito. Hay formas de capital más apropiadas para la mayoría de los buenos negocios.
+**Ejercicio inmediato:** Para tu negocio, aplica el filtro del venture capital: ¿podría tu negocio convertirse en una empresa de cientos de millones de valoración en los próximos siete años? Si la respuesta honesta es probablemente no (que es la respuesta correcta para la mayoría de los buenos negocios), el venture capital no es el capital adecuado para tu negocio y buscar fondos de VC es consumir tiempo y energía en una busqueda que tiene poca probabilidad de éxito. Hay formas de capital más apropiadas para la mayoría de los buenos negocios.
 
 El venture capital es la herramienta correcta para construir un cohete. Si construyes una empresa sólida y rentable, necesitas una herramienta diferente.
 
@@ -83,7 +83,7 @@ Carlos ha evaluado el crowdfunding como opción de financiación y ha aprendido 
 
 La investigación de Ethan Mollick sobre las caracteristicas de las campanas de crowdfunding exitosas muestra que las que mejor funcionan tienen comunidades preexistentes de seguidores entusiastas, videos de alta calidad que explican el producto de forma emocionalmente convincente, y objetivos de financiación realistas (el 80% de las campanas de Kickstarter que alcanzan su objetivo lo alcanzan en las primeras cuarenta y ocho horas gracias al impulso inicial de la red personal del creador).
 
-**Ejercicio inmediato:** Si el crowdfunding es una opción para tu negocio, evalua tres criterios antes de lanzar una campana: tienes una comunidad preexistente (email list, seguidores en redes sociales, clientes anteriores) suficientemente grande para generar el impulso inicial? Tu producto es lo suficientemente visual y narrativo para que un video de dos minutos lo explique convincentemente? El objetivo de financiación que necesitas es alcanzable con el 10-15% de tu comunidad actual? Si alguna respuesta es no, el crowdfunding tiene probabilidad baja de éxito.
+**Ejercicio inmediato:** Si el crowdfunding es una opción para tu negocio, evalua tres criterios antes de lanzar una campana: ¿tienes una comunidad preexistente (email list, seguidores en redes sociales, clientes anteriores) suficientemente grande para generar el impulso inicial? ¿Tu producto es lo suficientemente visual y narrativo para que un video de dos minutos lo explique convincentemente? El objetivo de financiación que necesitas es alcanzable con el 10-15% de tu comunidad actual? Si alguna respuesta es no, el crowdfunding tiene probabilidad baja de éxito.
 
 El crowdfunding es una campana de marketing tanto cómo una herramienta de financiación. Y como toda campana de marketing, necesita audiencia para funcionar.
 
@@ -93,11 +93,11 @@ El crowdfunding es una campana de marketing tanto cómo una herramienta de finan
 
 Lucia ha aprendido que el pitch no es una presentación de negocio. Es una historia sobre el futuro que el inversor puede ser parte de construir.
 
-**El Principio del Pitch cómo la Narrativa que Conecta el Problema del Mercado, la Solución del Emprendedor, y la Oportunidad de Inversión de Forma que el Inversor Puede Visualizar el Futuro que el Emprendedor Esta Construyendo:** Guy Kawasaki propone la estructura del pitch perfecto en diez slides: el problema, la solución, el modeló de negocio, la magia subyacente, el marketing y las ventas, la competencia, el equipo, las proyecciones, el estado actual (que tienes ya), y el capital que necesitas y cómo lo usaras. Esa estructura en diez slides puede presentarse en diez minutos y cubre todos los aspectos que un inversor necesita para tomar una decisión de due diligence.
+**El Principio del Pitch cómo la Narrativa que Conecta el Problema del Mercado, la Solución del Emprendedor, y la Oportunidad de Inversión de Forma que el Inversor Puede Visualizar el Futuro que el Emprendedor Esta Construyendo:** Guy Kawasaki propone la estructura del pitch perfecto en diez slides: el problema, la solución, el modelo de negocio, la magia subyacente, el marketing y las ventas, la competencia, el equipo, las proyecciones, el estado actual (que tienes ya), y el capital que necesitas y cómo lo usaras. Esa estructura en diez slides puede presentarse en diez minutos y cubre todos los aspectos que un inversor necesita para tomar una decisión de due diligence.
 
 La investigación de Neilson sobre la psicología de los inversores en pitch competitions muestra que los primeros dos minutos del pitch (la presentación del problema y la solución) determinan el nivel de atención y emoción del inversor durante el resto de la presentación. Si el problema no produce un momento de reconocimiento en el inversor (si, ese es un problema real que merece atención), el resto del pitch tiene una audiencia desenganchada.
 
-**Ejercicio inmediato:** Prepara la primera slide de tu pitch (la del problema) en tres versiones: una con estadisticas (X millones de personas tienen el problema Y que cuesta Z en perdidas), una con historia (cuenta la historia de un cliente específico que tiene el problema), y una con una pregunta que el inversor pueda contestar con su propia experiencia (han tenido problemas con X? Pues eso les ocurre a X millones de personas). Presenta las tres versiones a cinco personas de confianza y observa cual produce mayor reacción emocional. Usa esa versión.
+**Ejercicio inmediato:** Prepara la primera slide de tu pitch (la del problema) en tres versiones: ¿una con estadisticas (X millones de personas tienen el problema Y que cuesta Z en perdidas), una con historia (cuenta la historia de un cliente específico que tiene el problema), y una con una pregunta que el inversor pueda contestar con su propia experiencia (han tenido problemas con X? Pues eso les ocurre a X millones de personas). Presenta las tres versiones a cinco personas de confianza y observa cual produce mayor reacción emocional. Usa esa versión.
 
 El pitch que el inversor quiere oir no es el que describe tu negocio. Es el que le hace ver el problema que todavia no había visto claramente.
 
@@ -105,7 +105,7 @@ El pitch que el inversor quiere oir no es el que describe tu negocio. Es el que 
 
 ## Capítulo 7: Los terminos de la inversión: lo que debes entender antes de firmar
 
-Marcos ha tenido que estudiar con cuidado los terminos de un termsheet que recibio y ha descubierto que hay clausulas que le habrian costado caro si no las hubiera entendido.
+Marcos ha tenido que estudiar con cuidado los terminos de un termsheet que recibio y ha descubierto que hay clausulas que le habrían costado caro si no las hubiera entendido.
 
 **El Principio de la Comprensión Profunda de los Terminos de la Inversión como Prerequisito de la Negociación Inteligente porque Algunos Terminos Pueden Tener Más Impacto en el Fundador que la Valoración en Si:** Los terminos más críticos de un termsheet incluyen: la valoración (pre-money o post-money, que determina el porcentaje que retiene el fundador), las clausulas de liquidación preferente (que determinan cómo se distribuye el dinero en caso de venta), los derechos de veto del inversor (que decisiones requieren aprobación del inversor), los derechos de anti-dilución (que protegen al inversor si en una ronda futura la valoración baja), y el drag-along (el derecho del inversor de forzar al fundador a vender si hay una oferta de compra).
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que la decisión de financiación no es financiera.
 
 Jason Calacanis propone que la mejor estrategia de capital es la que permite al fundador construir el negocio que genuinamente quiere construir: si el objetivo es crear una empresa grande y rápida que pueda salir en bolsa, el VC tiene sentido. Si el objetivo es construir un negocio rentable, independiente, y sostenible, el bootstrapping o la deuda es generalmente mejor opción.
 
-**Ejercicio inmediato:** Define explicitamente tu estrategia de capital para los próximos tres años: que tipo de capital es el más coherente con el tipo de negocio que quieres construir y el nivel de control que necesitas mantener? Que hitos de negocio tendrías que alcanzar para qué cada tipo de capital (en orden de menor a mayor dilución y mayor a menor control) tuviera sentido? Esa estrategia de capital explícita te dara claridad sobre las decisiones financieras del camino.
+**Ejercicio inmediato:** Define explicitamente tu estrategia de capital para los próximos tres años: ¿que tipo de capital es el más coherente con el tipo de negocio que quieres construir y el nivel de control que necesitas mantener? ¿Que hitos de negocio tendrías que alcanzar para qué cada tipo de capital (en orden de menor a mayor dilución y mayor a menor control) tuviera sentido? Esa estrategia de capital explícita te dara claridad sobre las decisiones financieras del camino.
 
 La estrategia de capital que se alinea con lo que quieres construir vale más que el dinero que consigue.
 

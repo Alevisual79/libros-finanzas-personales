@@ -37,7 +37,7 @@ El momento de volver a las citas después de una ruptura es altamente individual
 
 **El Principio de las Dos Trampas Temporales:** Volver demasiado pronto frecuentemente refleja la necesidad de llenar inmediatamente el vacio de la soledad o de validar la propia capacidad de ser deseado, sin haber procesado realmente la perdida. Postergar indefinidamente frecuentemente refleja miedo acumulado al rechazó o a repetir el dolor, disfrazado de simplemente no estar listo de forma indefinida. Ambas trampas comparten una raiz común: la evitación de procesar completamente lo que ocurrio.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propia tendencia: te inclinas hacía volver demasiado pronto para llenar el vacio, o hacía postergar indefinidamente por miedo? Identificar tu patron típico es el primer paso para calibrarlo mejor.
+**Ejercicio inmediato:** Reflexiona sobre tu propia tendencia: ¿te inclinas hacía volver demasiado pronto para llenar el vacio, o hacía postergar indefinidamente por miedo? Identificar tu patron típico es el primer paso para calibrarlo mejor.
 
 Ni la prisa ni la postergación indefinida son la respuesta correcta. La respuesta correcta es el tiempo que tu proceso real de duelo necesita, ni más ni menos.
 

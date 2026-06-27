@@ -27,7 +27,7 @@ El primer error es creer que la procrastinación es falta de motivación o de di
 
 La investigación de Sirois y Timothy Pychyl muestra que la procrastinación no es principalmente sobre la gestión del tiempo sino sobre la gestión de las emociones: las personas procrastinan principalmente para evitar los estados emocionales negativos asociados con la tarea (aburrimiento, frustración, ansiedad, dudas sobre la propia competencia). El aplazamiento produce alivio inmediato (se evita la emoción negativa) a cambio de costes futuros (la tarea no realizada produce culpa y, eventualmente, más ansiedad).
 
-**Ejercicio inmediato:** Para la tarea que más has postergado esta semana, reflexiona: que emoción específica anticipas al empezarla? Aburrimiento? Ansiedad ante el posible fracaso? Frustración? Identificar la emoción específica es el primer paso para encontrar una estrategia que funcione mejor que el aplazamiento.
+**Ejercicio inmediato:** Para la tarea que más has postergado esta semana, reflexiona: ¿que emoción específica anticipas al empezarla? ¿Aburrimiento? Ansiedad ante el posible fracaso? ¿Frustración? Identificar la emoción específica es el primer paso para encontrar una estrategia que funcione mejor que el aplazamiento.
 
 La procrastinación no empieza en el futuro. Empieza en el presente con una emoción que no quieres tener.
 
@@ -41,7 +41,7 @@ Isabel procrastina de forma diferente a Ruben. Entender el tipo de procrastinaci
 
 Cada perfil requiere estrategias diferentes: el perfeccionista necesita reducir los estandares que hacen que empezar sea aterrador; el que tiene aversión a la tarea necesita técnicas de tolerancia al malestar; el que tiene falta de claridad necesita el primer paso operativo definido; el que sobreestima el tiempo necesita planificación más realista.
 
-**Ejercicio inmediato:** Identifica tu perfil principal de procrastinación. Para la tarea que más has pospuesto, reflexiona: la postergas porque tiene que salir perfecta? Porque la tarea en si misma es aversiva? Porque no sabes exactamente como empezar? El diagnostico del perfil dirige la estrategia.
+**Ejercicio inmediato:** Identifica tu perfil principal de procrastinación. Para la tarea que más has pospuesto, reflexiona: ¿la postergas porque tiene que salir perfecta? ¿Porque la tarea en si misma es aversiva? Porque no sabes exactamente como empezar? El diagnostico del perfil dirige la estrategia.
 
 La procrastinación que no entiendes solo puedes combatirla con fuerza de voluntad. La que entiendes puedes resolverla con estrategia.
 
@@ -153,7 +153,7 @@ Isabel ha llegado al final del libro y quiere construir una relación con el tra
 
 La investigación de Self-Determination Theory (Ryan y Deci) muestra que la motivación autonoma (hacer algo por su valor intrinseco o porque es coherente con la propia identidad) produce mayor rendimiento, mayor bienestar, y mayor persistencia que la motivación controlada (hacerlo por presión externa o culpa).
 
-**Ejercicio inmediato:** Para las tres tareas que más procrastinas, reflexiona: tienen algun valor o conexión con lo que te importa? Si la respuesta es no, esa información es relevante: quizas la procrastinación sea feedback de que esa tarea merece ser delegada, eliminada, o renegociada. Si la respuesta es si, conectar explicitamente la tarea con su valor (esto importa porque...) antes de empezar puede reducir la resistencia.
+**Ejercicio inmediato:** Para las tres tareas que más procrastinas, reflexiona: ¿tienen algun valor o conexión con lo que te importa? Si la respuesta es no, esa información es relevante: quizas la procrastinación sea feedback de que esa tarea merece ser delegada, eliminada, o renegociada. Si la respuesta es si, conectar explicitamente la tarea con su valor (esto importa porque...) antes de empezar puede reducir la resistencia.
 
 La productividad que no esta conectada con lo que importa es una carrera que no lleva a ningún lugar. Y la procrastinación, a veces, es la forma que tiene el cuerpo de decirtelo.
 

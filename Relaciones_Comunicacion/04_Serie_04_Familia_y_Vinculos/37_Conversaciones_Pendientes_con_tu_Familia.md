@@ -27,7 +27,7 @@ El aplazamiento de conversaciones familiares importantes no es simple pereza o f
 
 **El Principio de la Evitación Protectora:** Las conversaciones familiares que más se aplazan son las que involucran mayor vulnerabilidad emocional: expresar admiración, pedir perdon, confrontar un daño pasado. El aplazamiento funciona como una protección temporal contra el riesgo percibido (rechazó, conflicto, vergüenza), pero ese riesgo percibido frecuentemente es mayor que el riesgo real, y el coste de la evitación prolongada (la distancia emocional acumulada) suele ser mayor que el coste de la conversación misma.
 
-**Ejercicio inmediato:** Identifica una conversación familiar que llevas posponiendo. Que es exactamente lo que temes que ocurra si la tienes? Evalua si ese temor específico es realista o si esta inflado por la ansiedad de la anticipación.
+**Ejercicio inmediato:** Identifica una conversación familiar que llevas posponiendo. ¿Que es exactamente lo que temes que ocurra si la tienes? Evalua si ese temor específico es realista o si esta inflado por la ansiedad de la anticipación.
 
 Lo que tememos de una conversación difícil casi siempre es peor en nuestra imaginación que en la realidad.
 
@@ -39,7 +39,7 @@ El silencio prolongado sobre temas importantes en la familia no es neutral. Tien
 
 **El Principio del Coste Acumulativo del Silencio:** El silencio sobre temas familiares importantes (agravios no resueltos, sentimientos no expresados, perdones no pedidos) no mantiene la relación estatica. La erosiona gradualmente, creando una distancia emocional que se acumula con cada año que pasa sin que el tema se aborde. Lo que parece la opción más segura (no decir nada) frecuentemente es la opción que más daño produce a largo plazo.
 
-**Ejercicio inmediato:** Evalua el coste acumulado del silencio en una relación familiar específica. Que distancia se ha generado en los años en que el tema importante no se ha hablado? Compara ese coste con el riesgo de tener la conversación.
+**Ejercicio inmediato:** Evalua el coste acumulado del silencio en una relación familiar específica. ¿Que distancia se ha generado en los años en que el tema importante no se ha hablado? Compara ese coste con el riesgo de tener la conversación.
 
 El silencio que parece proteger la relación familiar frecuentemente es lo que más la esta dañando.
 
@@ -123,7 +123,7 @@ Algunas conversaciones familiares importantes, una vez tenidas, no producen el r
 
 **El Principio del Valor de la Conversación Independiente del Resultado:** El valor de tener una conversación familiar importante no depende exclusivamente de que el resultado sea el esperado. Hay valor en haber dicho la verdad, en haber expresado lo que se necesitaba expresar, independientemente de cómo lo recibe la otra persona. Medir el éxito de la conversación solo por la reacción del otro entrega a esa persona el control completo sobre si el esfuerzo valio la pena.
 
-**Ejercicio inmediato:** Si has tenido una conversación familiar importante que no salió como esperabas, reflexiona sobre el valor de haberla tenido independientemente del resultado: que ganaste tu, internamente, por haber dicho lo que necesitabas decir?
+**Ejercicio inmediato:** Si has tenido una conversación familiar importante que no salió como esperabas, reflexiona sobre el valor de haberla tenido independientemente del resultado: ¿que ganaste tu, internamente, por haber dicho lo que necesitabas decir?
 
 El valor de decir tu verdad no depende de que el otro la reciba de la forma que esperabas.
 

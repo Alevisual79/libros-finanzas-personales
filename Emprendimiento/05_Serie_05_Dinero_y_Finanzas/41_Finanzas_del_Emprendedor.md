@@ -83,7 +83,7 @@ Lucia ha implementado un sistema de control de gasto que le permite crecer sin p
 
 El control de gasto en el negocio no significa no gastar: significa gastar en lo que produce retorno medible y no gastar en lo que no lo produce. La pregunta correcta ante cualquier gasto no es puedo permitirmelo sino cuanto revenue o cuanta eficiencia produce este gasto y en cuanto tiempo recupero la inversión.
 
-**Ejercicio inmediato:** Revisa todos los gastos fijos recurrentes de tu negocio (suscripciones de software, servicios externos, publicidad recurrente) y aplica el test del ROI a cada uno: este gasto produce revenue directamente o reduce costes de forma medible? Si la respuesta es no o no lo se, ese es un gasto candidato a eliminar o revisar. Frecuentemente, los negocios tienen entre el diez y el veinte por ciento de sus gastos fijos en servicios que se contrataron por una razón que ya no existe o cuyo ROI nunca se midió.
+**Ejercicio inmediato:** Revisa todos los gastos fijos recurrentes de tu negocio (suscripciones de software, servicios externos, publicidad recurrente) y aplica el test del ROI a cada uno: ¿este gasto produce revenue directamente o reduce costes de forma medible? Si la respuesta es no o no lo se, ese es un gasto candidato a eliminar o revisar. Frecuentemente, los negocios tienen entre el diez y el veinte por ciento de sus gastos fijos en servicios que se contrataron por una razón que ya no existe o cuyo ROI nunca se midió.
 
 El gasto que no produce retorno medible no es una inversión. Es un coste que reduce el beneficio sin crear valor.
 
@@ -125,7 +125,7 @@ Lucia ha simplificado su gestión financiera usando las herramientas correctas p
 
 La elección de la herramienta financiera correcta depende del nivel de complejidad del negocio: un freelance sin empleados puede gestionar sus finanzas perfectamente con Holded o incluso con una hoja de cálculo bien diseñada. Un negocio con empleados, multiples lineas de producto, y revenue internacional necesita herramientas más completas.
 
-**Ejercicio inmediato:** Para tu nivel de complejidad actual, evalua las herramientas financieras que usas: tienes un software de facturación que genera facturas correctas fiscalmente y las registra automáticamente?, llevas un control automático de todos tus gastos del negocio?, tu gestor o asesor fiscal tiene acceso a la información que necesita de forma organizada? Si la respuesta a alguna de estas preguntas es no, ese es el área de herramientas que necesitas mejorar esta semana. El tiempo que ganas al automatizar la gestión financiera basica se puede invertir en actividades de mayor valor.
+**Ejercicio inmediato:** Para tu nivel de complejidad actual, evalua las herramientas financieras que usas: ¿tienes un software de facturación que genera facturas correctas fiscalmente y las registra automáticamente?, llevas un control automático de todos tus gastos del negocio?, tu gestor o asesor fiscal tiene acceso a la información que necesita de forma organizada? Si la respuesta a alguna de estas preguntas es no, ese es el área de herramientas que necesitas mejorar esta semana. El tiempo que ganas al automatizar la gestión financiera basica se puede invertir en actividades de mayor valor.
 
 La herramienta financiera correcta no es la más sofisticada. Es la que tu realmente usas y que te da la información que necesitas para tomar decisiones.
 

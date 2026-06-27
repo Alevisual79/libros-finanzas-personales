@@ -101,7 +101,7 @@ Hay personas que comparten demasiado. Que convierten cada conversación en una s
 
 La vulnerabilidad estratégica no es manipulación. Es conciencia de que lo que se comparte debe ser apropiado para la relación y el momento, y debe dejar espacio para la respuesta y la reciprocidad del otro.
 
-**Ejercicio inmediato:** Reflexiona sobre una relación en que tends a compartir en exceso. La próxima vez que estes en esa dinámica, para y pregunta: como estas tu? Que esta pasando en tu vida? El cambio de foco del interior al otro es lo que convierte el descargo unilateral en conversación real.
+**Ejercicio inmediato:** Reflexiona sobre una relación en que tends a compartir en exceso. La próxima vez que estes en esa dinámica, para y pregunta: ¿como estas tu? ¿Que esta pasando en tu vida? El cambio de foco del interior al otro es lo que convierte el descargo unilateral en conversación real.
 
 La vulnerabilidad que conecta deja espacio para el otro. La que no lo deja, desconecta.
 

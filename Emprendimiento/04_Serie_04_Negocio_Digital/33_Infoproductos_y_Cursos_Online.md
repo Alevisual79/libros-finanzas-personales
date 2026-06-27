@@ -79,7 +79,7 @@ El precio del infoproducto que el creador asume que es correcto raramente lo es.
 
 Carlos ha aprendido que el lanzamiento del infoproducto tiene su propia logica que es diferente al lanzamiento de un producto físico.
 
-**El Principio del Lanzamiento de Infoproducto como el Proceso de Activación de la Audiencia Preexistente para Generar la Mayor Concentración de Ventas en el Menor Periodo de Tiempo Posible Usando la Urgencia y la Escasez de Forma Autentica:** Jeff Walker en Launch propone el modeló PLF (Product Launch Formula): una secuencia de contenido de valor pre-lanzamiento (que educa a la audiencia sobre el problema que el curso resuelve, construye anticipación, y establece autoridad), seguida de un período de venta abierta de tiempo limitado (frecuentemente de cuatro a siete dias) con una deadline real (el curso se cierra o el precio sube después de la fecha). Ese modeló puede generar entre el 50% y el 80% de las ventas del trimestre en una semana.
+**El Principio del Lanzamiento de Infoproducto como el Proceso de Activación de la Audiencia Preexistente para Generar la Mayor Concentración de Ventas en el Menor Periodo de Tiempo Posible Usando la Urgencia y la Escasez de Forma Autentica:** Jeff Walker en Launch propone el modelo PLF (Product Launch Formula): una secuencia de contenido de valor pre-lanzamiento (que educa a la audiencia sobre el problema que el curso resuelve, construye anticipación, y establece autoridad), seguida de un período de venta abierta de tiempo limitado (frecuentemente de cuatro a siete dias) con una deadline real (el curso se cierra o el precio sube después de la fecha). Ese modelo puede generar entre el 50% y el 80% de las ventas del trimestre en una semana.
 
 La investigación de Hubspot sobre el impacto de la escasez en las tasas de conversión muestra que las ofertas con deadline real y justificada tienen tasas de conversión entre dos y tres veces superiores a las que estan siempre disponibles al mismo precio.
 
@@ -91,7 +91,7 @@ El infoproducto que se lanza sin audiencia previa necesita construir la audienci
 
 ## Capítulo 6: Marketing de infoproductos: como venderlo más allá del lanzamiento
 
-Lucia ha aprendido que el infoproducto que solo se vende en el lanzamiento tiene un modeló de revenue fragil.
+Lucia ha aprendido que el infoproducto que solo se vende en el lanzamiento tiene un modelo de revenue fragil.
 
 **El Principio del Marketing Evergreen del Infoproducto como el Sistema que Permite Vender el Infoproducto de Forma Continua después del Lanzamiento Inicial mediante Funneles Automatizados y Trafico Organico:** El lanzamiento inicial genera el mayor volumen de ventas en el menor tiempo, pero no puede repetirse indefinidamente sin agotar la audiencia. La estrategia de marketing evergreen convierte el infoproducto en un activo que vende de forma continua: a traves de un funnel de email automatizado que convierte nuevos suscriptores en compradores, a traves del trafico organico de SEO que atrae nuevos potenciales de forma continua, y a traves de afiliados que promueven el curso a sus audiencias.
 
@@ -119,13 +119,13 @@ El curso que tiene comunidad vende mejor, retiene mejor, y produce más referido
 
 ## Capítulo 8: La continuidad: como crear revenue recurrente con infoproductos
 
-Carlos ha creado un modeló de continuidad que genera revenue mensual recurrente de su conocimiento.
+Carlos ha creado un modelo de continuidad que genera revenue mensual recurrente de su conocimiento.
 
-**El Principio de la Continuidad en Infoproductos como el Modelo de Suscripción o Membresia que Convierte el Revenue de Uno Solo en Revenue Recurrente Mensual porque El Conocimiento que Necesita Actualización Continua Puede Venderse como Servicio Continuo:** El modeló de membresia para infoproductos es el que tiene mayor potencial de revenue recurrente y más estable: en lugar de vender el curso una vez (un pago unico por un contenido fijo), el creador vende acceso continuo a contenido que se actualiza, a la comunidad que sigue activa, y a nuevos recursos que se añaden regularmente. El cliente paga mensual o anualmente por ese acceso continuo.
+**El Principio de la Continuidad en Infoproductos como el Modelo de Suscripción o Membresia que Convierte el Revenue de Uno Solo en Revenue Recurrente Mensual porque El Conocimiento que Necesita Actualización Continua Puede Venderse como Servicio Continuo:** El modelo de membresia para infoproductos es el que tiene mayor potencial de revenue recurrente y más estable: en lugar de vender el curso una vez (un pago unico por un contenido fijo), el creador vende acceso continuo a contenido que se actualiza, a la comunidad que sigue activa, y a nuevos recursos que se añaden regularmente. El cliente paga mensual o anualmente por ese acceso continuo.
 
-Robbie Kellman Baxter en The Membership Economy documenta el crecimiento del modeló de membresia en la educación online: los creadores que han convertido sus cursos en modelos de membresia reportan mayor lifetime value del estudiante, mayor estabilidad del revenue, y mayor engagement de la comunidad que los de pago unico.
+Robbie Kellman Baxter en The Membership Economy documenta el crecimiento del modelo de membresia en la educación online: los creadores que han convertido sus cursos en modelos de membresia reportan mayor lifetime value del estudiante, mayor estabilidad del revenue, y mayor engagement de la comunidad que los de pago unico.
 
-**Ejercicio inmediato:** Para tu conocimiento específico, reflexiona sobre si hay una versión de continuidad que tiene sentido: hay actualizaciones constantes que justificarian una suscripción (como en un sector que cambia rápidamente), hay una comunidad activa que genera valor continuo, o hay nuevos recursos que el estudiante avanzado seguiria necesitando? Si la respuesta es si a alguna de esas preguntas, el modeló de membresia puede ser una extensión natural de tu infoproducto actual.
+**Ejercicio inmediato:** Para tu conocimiento específico, reflexiona sobre si hay una versión de continuidad que tiene sentido: ¿hay actualizaciones constantes que justificarian una suscripción (como en un sector que cambia rápidamente), hay una comunidad activa que genera valor continuo, o hay nuevos recursos que el estudiante avanzado seguiria necesitando? Si la respuesta es si a alguna de esas preguntas, el modelo de membresia puede ser una extensión natural de tu infoproducto actual.
 
 El curso que se compra una vez puede enseñarse una vez. El servicio que se suscribe se mejora indefinidamente.
 

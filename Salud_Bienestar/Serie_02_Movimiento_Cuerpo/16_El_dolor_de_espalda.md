@@ -44,7 +44,7 @@ Dolor de cuello, frecuentemente relacionado con la posición del cuello al traba
 
 ## Capítulo 2: Las causas reales del dolor lumbar común
 
-El modeló biomecánico clásico (la espalda duele porque hay algo estructuralmente mal) ha sido revisado.
+El modelo biomecánico clásico (la espalda duele porque hay algo estructuralmente mal) ha sido revisado.
 
 La evidencia actual muestra que:
 
@@ -55,7 +55,7 @@ La espalda necesita movimiento para nutrirse: los discos intervertebrales no tie
 Los músculos que sostienen la columna (multífidos, erector espinal, cuadrado lumbar, psoas, abdominales) cuando están débiles sobrecargan las estructuras pasivas (ligamentos, discos, articulaciones facetarias).
 
 **El estrés y las emociones tienen un papel real:**
-El modeló biopsicosocial del dolor está bien establecido: el estrés crónico, la ansiedad y el catastrofismo ante el dolor aumentan la experiencia dolorosa independientemente de la causa estructural.
+El modelo biopsicosocial del dolor está bien establecido: el estrés crónico, la ansiedad y el catastrofismo ante el dolor aumentan la experiencia dolorosa independientemente de la causa estructural.
 
 **El reposo prolongado empeora el dolor:**
 La recomendación de "reposo en cama" para el dolor de espalda ha sido abandonada. El movimiento gradual es mejor tratamiento.
@@ -168,7 +168,7 @@ El dolor crónico de espalda tiene frecuentemente un componente psicológico sig
 
 No porque el dolor "sea de la cabeza" o sea falso. Sino porque el sistema nervioso central amplifica el dolor en presencia de estrés, ansiedad, catastrofismo y vigilancia excesiva.
 
-El modeló biopsicosocial del dolor establece que el dolor es siempre una experiencia que integra factores físicos, psicológicos y sociales.
+El modelo biopsicosocial del dolor establece que el dolor es siempre una experiencia que integra factores físicos, psicológicos y sociales.
 
 Las intervenciones psicológicas (terapia cognitivo-conductual, mindfulness, educación en neurociencia del dolor) tienen evidencia sólida en el tratamiento del dolor crónico de espalda, especialmente cuando la vía puramente biomecánica ha dado resultados limitados.
 

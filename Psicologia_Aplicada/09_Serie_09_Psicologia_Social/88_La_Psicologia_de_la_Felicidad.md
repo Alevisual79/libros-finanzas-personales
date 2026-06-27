@@ -69,7 +69,7 @@ Ruben tiene una actividad en la que pierde la noción del tiempo y después se s
 
 La investigación de Csikszentmihalyi sobre el uso del tiempo y el bienestar muestra que las personas reportan mayor bienestar durante las actividades de flujo (frecuentemente trabajo desafiante, actividad física, o creación artistica) que durante las actividades pasivas de entretenimiento (televisión, redes sociales), aunque antes de realizarlas esperaban lo contrario.
 
-**Ejercicio inmediato:** Identifica las dos o tres actividades en tu vida donde con mayor frecuencia experimentas algo parecido al flujo: perdida de la noción del tiempo, absorción completa, sensación de competencia y desafio. Reflexiona: cuanto tiempo a la semana dedicas a esas actividades vs. cuanto a actividades de entretenimiento pasivo? Esa proporción es un buen predictor de cuanto flujo tienes en tu vida.
+**Ejercicio inmediato:** Identifica las dos o tres actividades en tu vida donde con mayor frecuencia experimentas algo parecido al flujo: perdida de la noción del tiempo, absorción completa, sensación de competencia y desafio. Reflexiona: ¿cuanto tiempo a la semana dedicas a esas actividades vs. ¿cuanto a actividades de entretenimiento pasivo? Esa proporción es un buen predictor de cuanto flujo tienes en tu vida.
 
 La felicidad que persigues descansando no es la misma que la que encuentras haciendo lo que te absorbe completamente.
 
@@ -83,7 +83,7 @@ Elena tiene más ingresos que hace cinco años y no se siente significativamente
 
 Más importante que cuanto ganas es cómo lo usas: la investigación de Elizabeth Dunn y Michael Norton muestra que gastar dinero en experiencias produce más felicidad que gastarlo en posesiones materiales, gastar en otros produce más felicidad que gastarlo en uno mismo, y la frecuencia de placeres pequeños produce más felicidad acumulada que la de placeres grandes y frecuentes.
 
-**Ejercicio inmediato:** Revisa los últimos tres meses de gastos discrecionales (gastos que no son necesidades). Para cada categoría, reflexiona: los gastos en esta categoría han aumentado genuinamente mi bienestar, o han sido adquisiciones a las que me he adaptado rápidamente? Esa revisión puede revelar una redistribución del gasto que produce más felicidad con el mismo dinero.
+**Ejercicio inmediato:** Revisa los últimos tres meses de gastos discrecionales (gastos que no son necesidades). Para cada categoría, reflexiona: ¿los gastos en esta categoría han aumentado genuinamente mi bienestar, o han sido adquisiciones a las que me he adaptado rápidamente? Esa revisión puede revelar una redistribución del gasto que produce más felicidad con el mismo dinero.
 
 El dinero no produce felicidad. Pero usarlo bien si que puede. La diferencia esta en como.
 
@@ -93,11 +93,11 @@ El dinero no produce felicidad. Pero usarlo bien si que puede. La diferencia est
 
 Isabel ha observado que las personas que más bienestar profundo expresan no son siempre las que más placeres tienen sino las que más sentido encuentran en lo que hacen.
 
-**El Principio de la Vida con Sentido como Forma de Bienestar que Complementa y Supera el Bienestar Hedonico en Durabilidad:** Martin Seligman, en su modeló PERMA de bienestar, distingue el bienestar hedonico (placer y ausencia de dolor) del bienestar eudaimonico (florecimiento, vita bona, vida con sentido y proposito). Las actividades que producen sentido (cuidar de otros, contribuir a algo más grande que uno mismo, desarrollar un oficio o habilidad, comprometerse con valores) producen bienestar más duradero y más resistente a la adversidad que las actividades puramente placenteras.
+**El Principio de la Vida con Sentido como Forma de Bienestar que Complementa y Supera el Bienestar Hedonico en Durabilidad:** Martin Seligman, en su modelo PERMA de bienestar, distingue el bienestar hedonico (placer y ausencia de dolor) del bienestar eudaimonico (florecimiento, vita bona, vida con sentido y proposito). Las actividades que producen sentido (cuidar de otros, contribuir a algo más grande que uno mismo, desarrollar un oficio o habilidad, comprometerse con valores) producen bienestar más duradero y más resistente a la adversidad que las actividades puramente placenteras.
 
 La investigación de Roy Baumeister y colegas muestra que el sentido y la felicidad no siempre coinciden: criar hijos reduce la felicidad hedonista del dia a dia (menos sueño, menos tiempo libre, más estres) pero aumenta el sentido de la vida. Las actividades más placenteras no son siempre las más significativas.
 
-**Ejercicio inmediato:** Para las áreas más importantes de tu vida (trabajo, relaciones, actividades), reflexiona: que área produce más placer? Que área produce más sentido? Si hay una gran discrepancia (mucho placer y poco sentido, o mucho sentido y poco placer), reflexiona sobre si esa distribución es la que quieres para tu bienestar a largo plazo o si hay ajustes que podrían producir un equilibrio más satisfactorio.
+**Ejercicio inmediato:** Para las áreas más importantes de tu vida (trabajo, relaciones, actividades), reflexiona: ¿que área produce más placer? ¿Que área produce más sentido? Si hay una gran discrepancia (mucho placer y poco sentido, o mucho sentido y poco placer), reflexiona sobre si esa distribución es la que quieres para tu bienestar a largo plazo o si hay ajustes que podrían producir un equilibrio más satisfactorio.
 
 La vida que tiene sentido sobrevive al dolor. La que solo tiene placer se quiebra en el primero.
 
@@ -125,7 +125,7 @@ Ruben tiende a ver los problemas como permanentes y pervasivos. La investigació
 
 La investigación de Seligman y colegas muestra que el estilo explicativo puede cambiarse a traves de la terapia cognitiva y de prácticas deliberadas de reencuadre, y que ese cambio reduce la depresión, mejora el rendimiento, y aumenta el bienestar.
 
-**Ejercicio inmediato:** Para el próximo problema o contratiempo que experimentes, práctica el cuestionamiento de las tres dimensiones: este problema es realmente permanente o es temporal? Es realmente pervasivo (afecta toda mi vida) o es específico de este contexto? Soy realmente el unico responsable o hay factores externos que contribuyen? El cuestionamiento no niega la realidad del problema sino que cuestiona las interpretaciones catastroficas que lo amplifican.
+**Ejercicio inmediato:** Para el próximo problema o contratiempo que experimentes, práctica el cuestionamiento de las tres dimensiones: ¿este problema es realmente permanente o es temporal? ¿Es realmente pervasivo (afecta toda mi vida) o es específico de este contexto? Soy realmente el unico responsable o hay factores externos que contribuyen? El cuestionamiento no niega la realidad del problema sino que cuestiona las interpretaciones catastroficas que lo amplifican.
 
 El problema real es un problema. El problema real más todas las interpretaciones catastroficas es sufrimiento innecesario.
 

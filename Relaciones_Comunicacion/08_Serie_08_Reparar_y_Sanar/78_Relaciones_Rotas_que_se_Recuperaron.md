@@ -25,7 +25,7 @@ Examinar patrones de reconciliaciones que efectivamente funcionaron, más allá 
 
 **El Principio de la Evidencia Empirica de la Reconciliación Posible:** La investigación sobre relaciones que sobrevivieron crisis significativas (infidelidad, traiciones graves, distanciamientos prolongados) y emergieron funcionales, muestra que estos casos no son excepciones milagrosas sino el resultado predecible de la aplicación consistente de ciertos principios específicos de reparación que se pueden identificar y replicar.
 
-**Ejercicio inmediato:** Identifica una relación que conoces (propia o de alguien cercano) que se rompio significativamente y se recupero. Que patrones específicos de comportamiento de ambas partes contribuyeron a esa recuperación exitosa?
+**Ejercicio inmediato:** Identifica una relación que conoces (propia o de alguien cercano) que se rompio significativamente y se recupero. ¿Que patrones específicos de comportamiento de ambas partes contribuyeron a esa recuperación exitosa?
 
 Las reconciliaciones exitosas no son milagros aleatorios. Son el resultado de principios identificables que se pueden aprender y aplicar.
 
@@ -97,7 +97,7 @@ Las relaciones que se reconcilian exitosamente después de un daño significativ
 
 **El Principio de la Transformación como Resultado Frecuente:** Muchas reconciliaciones exitosas producen relaciones que sus participantes describen como más conscientes, más comunicativas, y con límites más claros que la relación anterior a la crisis, precisamente porque el proceso de reconciliación forzo una examinación honesta que la relación previa nunca había atravesado.
 
-**Ejercicio inmediato:** Si has atravesado una reconciliación exitosa, reflexiona sobre cómo la relación actual difiere cualitativamente de la versión anterior a la crisis. Que elementos nuevos y más saludables se han incorporado?
+**Ejercicio inmediato:** Si has atravesado una reconciliación exitosa, reflexiona sobre cómo la relación actual difiere cualitativamente de la versión anterior a la crisis. ¿Que elementos nuevos y más saludables se han incorporado?
 
 La relación después de una reconciliación exitosa no siempre es igual a la de antes. Frecuentemente es una versión más consciente y más sólida.
 

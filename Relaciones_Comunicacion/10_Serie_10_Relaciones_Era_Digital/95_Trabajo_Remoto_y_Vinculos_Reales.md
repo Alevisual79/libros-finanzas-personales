@@ -51,7 +51,7 @@ Los equipos remotos que mantienen cohesión sólida han desarrollado tipicamente
 
 **Ejercicio inmediato:** Si tu equipo remoto no tiene rituales de conexión establecidos, propone uno específico y simple para implementar esta semana.
 
-Los equipos remotos cohesionados no tuvieron suerte con su cultura. Crearon deliberadamente los rituales que el espacio físico les habria dado por defecto.
+Los equipos remotos cohesionados no tuvieron suerte con su cultura. Crearon deliberadamente los rituales que el espacio físico les habría dado por defecto.
 
 ---
 
@@ -121,9 +121,9 @@ Los modelos de trabajo hibrido, que combinan presencia física parcial con traba
 
 **El Principio de la Inequidad de Acceso en el Modelo Hibrido:** Sin gestión deliberada, las conversaciones informales y la información compartida espontaneamente entre quienes estan físicamente presentes en la oficina puede generar una brecha de información y de conexión respecto a quienes trabajan remotamente en ese momento, creando efectivamente dos niveles de pertenencia al mismo equipo.
 
-**Ejercicio inmediato:** Si trabajas en un modeló hibrido, evalua si existe esta brecha de información o conexión entre quienes estan presentes físicamente y quienes trabajan remotamente, y considera que práctica podría nivelar ese acceso.
+**Ejercicio inmediato:** Si trabajas en un modelo hibrido, evalua si existe esta brecha de información o conexión entre quienes estan presentes físicamente y quienes trabajan remotamente, y considera que práctica podría nivelar ese acceso.
 
-El modeló hibrido, sin gestión deliberada, puede crear ciudadanos de primera y segunda clase dentro del mismo equipo, segun quien esta físicamente presente en cada momento.
+El modelo hibrido, sin gestión deliberada, puede crear ciudadanos de primera y segunda clase dentro del mismo equipo, segun quien esta físicamente presente en cada momento.
 
 ---
 
@@ -133,7 +133,7 @@ Las multiples herramientas digitales disponibles para equipos remotos (mensajeri
 
 **El Principio del Proposito Relacional como Criterio de Diseño:** Las herramientas digitales pueden optimizarse exclusivamente para la eficiencia de tareas, perdiendo oportunidades de facilitar conexión relacional, o pueden disenarse e usarse con intención dual, sirviendo tanto a la productividad como a la cohesión del equipo. Esta segunda aproximación requiere elección consciente, no solo optimización técnica.
 
-**Ejercicio inmediato:** Evalua las herramientas digitales que usa tu equipo remoto: estan optimizadas exclusivamente para eficiencia de tareas, o también sirven deliberadamente a la conexión relacional del equipo?
+**Ejercicio inmediato:** Evalua las herramientas digitales que usa tu equipo remoto: ¿estan optimizadas exclusivamente para eficiencia de tareas, o también sirven deliberadamente a la conexión relacional del equipo?
 
 Las herramientas digitales no tienen que elegir entre eficiencia y conexión. Con uso consciente, pueden servir a ambas, pero esa dualidad requiere intención explícita en su diseño y uso.
 

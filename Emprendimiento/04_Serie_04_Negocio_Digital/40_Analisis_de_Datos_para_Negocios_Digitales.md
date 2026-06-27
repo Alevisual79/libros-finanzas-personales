@@ -29,7 +29,7 @@ La investigación de McKinsey sobre las empresas basadas en datos muestra que la
 
 **Ejercicio inmediato:** Para introducir la cultura de datos en tu negocio digital, empieza con una sola hipotesis medible esta semana: algo que crees que es verdad sobre tu negocio (por ejemplo, creo que la mayoría de mis clientes llegan desde LinkedIn) y que puedes verificar con datos que ya tienes o que puedes empezar a medir. Busca en Google Analytics de dónde vienen realmente tus clientes. Si la realidad confirma tu hipotesis, bien. Si la contradice, tienes información valiosa que cambia una decisión. Ese proceso, repetido con las decisiones más importantes de tu negocio, es la cultura de datos en práctica.
 
-La decisión tomada con datos que la contradicen cuesta menos de lo que habria costado la decisión tomada solo con la intuición equivocada.
+La decisión tomada con datos que la contradicen cuesta menos de lo que habría costado la decisión tomada solo con la intuición equivocada.
 
 ---
 
@@ -41,7 +41,7 @@ Lucia ha aprendido a distinguir las metricas de vanidad de las metricas de acci�
 
 El peligro de las metricas de vanidad es que pueden producir falsa confianza: un emprendedor con doscientos mil seguidores en Instagram y cero ventas se siente mejor que el que tiene dos mil seguidores y veinte ventas al mes. Los datos de vanidad no generan revenue. Las metricas accionables guian las decisiones que si lo generan.
 
-**Ejercicio inmediato:** Lista las cinco metricas que actualmente mides (o que conoces) de tu negocio digital. Para cada una, pregunta: esta metrica me dice específicamente que decisión debería tomar o cambiar? Si la respuesta es no, es probablemente una metrica de vanidad. Identifica para cada área crítica de tu negocio (captación, conversión, retención, y revenue) una metrica accionable específica que guiara las decisiones en esa área. Esas cuatro metricas (una por área) son las que debes revisar cada semana.
+**Ejercicio inmediato:** Lista las cinco metricas que actualmente mides (o que conoces) de tu negocio digital. Para cada una, pregunta: ¿esta metrica me dice específicamente que decisión debería tomar o cambiar? Si la respuesta es no, es probablemente una metrica de vanidad. Identifica para cada área crítica de tu negocio (captación, conversión, retención, y revenue) una metrica accionable específica que guiara las decisiones en esa área. Esas cuatro metricas (una por área) son las que debes revisar cada semana.
 
 La metrica que no guia ninguna decisión es decorativa. La que cambia una decisión cada vez que la ves es un activo de negocio.
 
@@ -111,7 +111,7 @@ Carlos ha aprendido que los datos cuantitativos dicen que esta pasando pero los 
 
 La combinación de datos cuantitativos y cualitativos es la que produce las mejores decisiones: el dato cuantitativo identifica el problema (la tasa de conversión de la página de precio es del uno por ciento, mucho menor que la media del sector), y el dato cualitativo explica la causa (las grabaciones de sesiones muestran que los usuarios abandonan cuando leen los terminos del contrató sin haber visto todavia los precios).
 
-**Ejercicio inmediato:** Para el mayor problema que has identificado con datos cuantitativos en tu negocio digital esta semana, diseña un método para entender el por qué: si es un abandono en el checkout, instala Hotjar o Microsoft Clarity (gratuito) y analiza grabaciones de sesiones de usuarios que llegaron al checkout sin completar la compra. Si es alta tasa de cancelación de suscripciones, diseña una encuesta corta de dos preguntas que se envia automáticamente cuando alguien cancela (que esperabas que el producto hiciera por ti? Que es lo que no has conseguido?). Esas dos preguntas cuantitativas te dan el por qué del abandono.
+**Ejercicio inmediato:** Para el mayor problema que has identificado con datos cuantitativos en tu negocio digital esta semana, diseña un método para entender el por qué: ¿si es un abandono en el checkout, instala Hotjar o Microsoft Clarity (gratuito) y analiza grabaciones de sesiones de usuarios que llegaron al checkout sin completar la compra. Si es alta tasa de cancelación de suscripciones, diseña una encuesta corta de dos preguntas que se envia automáticamente cuando alguien cancela (que esperabas que el producto hiciera por ti? ¿Que es lo que no has conseguido?). Esas dos preguntas cuantitativas te dan el por qué del abandono.
 
 El dato que dice que hay un problema es útil. El que explica por qué hay un problema es el que permite resolverlo.
 
@@ -139,7 +139,7 @@ Marcos ha aprendido que la recopilación y el uso de datos de usuarios tiene imp
 
 La Agencia española de Protección de Datos (AEPD) ha sancionado a empresas de todos los tamaños por incumplimiento del RGPD, incluyendo pequeñas empresas y negocios online que no habían implementado las bases legales correctas para sus actividades de email marketing o tracking de analytics.
 
-**Ejercicio inmediato:** Audita el cumplimiento legal de tu negocio digital en tres áreas: tienes una política de privacidad clara y accesible en tu web que explica que datos recopilas, para que los usas, y como pueden ejercer sus derechos los usuarios?, tienes un banner de cookies que permite a los usuarios aceptar o rechazar las cookies no esenciales antes de que se activen?, tienes el consentimiento explícito de tus suscriptores de email para enviarles comunicaciones de marketing (no solo el email de transacción)? Si alguna de las tres respuestas es no, ahí esta el riesgo legal que debes resolver prioritariamente.
+**Ejercicio inmediato:** Audita el cumplimiento legal de tu negocio digital en tres áreas: ¿tienes una política de privacidad clara y accesible en tu web que explica que datos recopilas, para que los usas, y como pueden ejercer sus derechos los usuarios?, tienes un banner de cookies que permite a los usuarios aceptar o rechazar las cookies no esenciales antes de que se activen?, tienes el consentimiento explícito de tus suscriptores de email para enviarles comunicaciones de marketing (no solo el email de transacción)? Si alguna de las tres respuestas es no, ahí esta el riesgo legal que debes resolver prioritariamente.
 
 El cumplimiento legal del RGPD no es opcional. Y es más económico implementarlo correctamente desde el principio que pagar una sanción por no haberlo hecho.
 

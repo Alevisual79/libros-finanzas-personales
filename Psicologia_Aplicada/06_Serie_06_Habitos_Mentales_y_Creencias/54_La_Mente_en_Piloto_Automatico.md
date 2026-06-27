@@ -41,7 +41,7 @@ Elena ha llegado a un domingo por la tarde incapaz de recordar como paso la sema
 
 El piloto automático tiene costes específicos en la vida cotidiana: las decisiones importantes tomadas sin deliberación consciente (compras impulsivas, respuestas emocionales reactivas, elecciones que no reflejan los valores propios), la perdida de experiencias que se vivieron sin atención, y la invisibilidad de los patrones propios porque ocurren fuera del rango de la observación consciente.
 
-**Ejercicio inmediato:** Reflexiona sobre una decisión de la última semana que tomaste en piloto automático y que luego revisaste. Que habrias elegido si la decisión hubiera sido más deliberada? Esta reflexión ayuda a mapear los dominios de tu vida donde el piloto automático tiene mayor coste.
+**Ejercicio inmediato:** Reflexiona sobre una decisión de la última semana que tomaste en piloto automático y que luego revisaste. ¿Que habrías elegido si la decisión hubiera sido más deliberada? Esta reflexión ayuda a mapear los dominios de tu vida donde el piloto automático tiene mayor coste.
 
 Una vida vivida en piloto automático es una vida que se recuerda poco. Porque para recordar hay que haber estado presente.
 
@@ -83,7 +83,7 @@ Ruben ha llegado a entender que la mayor parte de lo que hace cada dia son habit
 
 La implicación para el piloto automático es que la mayor parte de la vida cotidiana (que se come, que se hace al llegar a casa, cómo se responde al estres, que se consume) esta determinada por habitos que se instalaron en otro momento y que rara vez se examinan. Vivir con mayor conciencia implica examinar los habitos que constituyen la vida cotidiana.
 
-**Ejercicio inmediato:** Identifica tres habitos cotidianos que no has elegido deliberadamente en mucho tiempo (si es que alguna vez los elegiste). Para cada uno, pregunta: si eligiera esto ahora, lo elegiria? Si la respuesta es no o no se, eso es información sobre habitos que podría valer la pena revisar.
+**Ejercicio inmediato:** Identifica tres habitos cotidianos que no has elegido deliberadamente en mucho tiempo (si es que alguna vez los elegiste). Para cada uno, pregunta: ¿si eligiera esto ahora, lo elegiria? Si la respuesta es no o no se, eso es información sobre habitos que podría valer la pena revisar.
 
 Los habitos que no examinas no los eliges. Los repites. Y repetir no es lo mismo que elegir.
 
@@ -111,7 +111,7 @@ Ruben ha notado que cuando su mente divaga, no lo hace aleatoriamente: vuelve si
 
 La investigación muestra que la actividad de la red de modo por defecto tiende a focalizarse en: eventos del pasado (replays, nostalgia, arrepentimiento), el futuro (planificación, anticipación, preocupación), y el yo (autoevaluación, relaciones sociales). Conocer estos destinos habituales de la mente ayuda a entender el contenido del piloto automático propio.
 
-**Ejercicio inmediato:** Durante el dia de mañana, en momentos de transición (caminar, esperar, conducir), nota donde va tu mente cuando divaga: al pasado? Al futuro? A preocupaciones específicas? A fantasias? Ese patron de divagación es el mapa de lo que tu mente considera más importante cuando no recibe instrucciones.
+**Ejercicio inmediato:** Durante el dia de mañana, en momentos de transición (caminar, esperar, conducir), nota donde va tu mente cuando divaga: ¿al pasado? ¿Al futuro? A preocupaciones específicas? ¿A fantasias? Ese patron de divagación es el mapa de lo que tu mente considera más importante cuando no recibe instrucciones.
 
 A donde va tu mente cuando la dejas sola te dice más sobre lo que te importa que cualquier lista de valores que podrías escribir.
 
@@ -123,9 +123,9 @@ Isabel ha tomado varias decisiones importantes en el último año en piloto auto
 
 **El Principio de la Conciencia como Requisito de la Elección Autentica:** La psicología existencial, desde Sartre hasta Victor Frankl y Irvin Yalom, propone que la autenticidad requiere la conciencia de que se esta eligiendo: no solo hacer lo que la inercia o la presión social producen sino reconocer que existe un espacio de decisión y habitarlo deliberadamente.
 
-La investigación de Sheena Iyengar y Mark Lepper sobre la paradoja de la elección muestra que las personas tienen mejor bienestar cuando sus elecciones importantes estan alineadas con sus valores profundos. Esta alineación requiere que las decisiones sean deliberadas, no automáticas: que el proceso de decisión incluya la pregunta esto es lo que yo elegiria si estuviera completamente consciente?
+La investigación de Sheena Iyengar y Mark Lepper sobre la paradoja de la elección muestra que las personas tienen mejor bienestar cuando sus elecciones importantes estan alineadas con sus valores profundos. Esta alineación requiere que las decisiones sean deliberadas, no automáticas: ¿que el proceso de decisión incluya la pregunta esto es lo que yo elegiria si estuviera completamente consciente?
 
-**Ejercicio inmediato:** Identifica una decisión que tienes pendiente que estas gestionando en piloto automático (siguiendo la inercia, la costumbre, o lo que otros esperan). Detente y pregunta: si elijo desde mis valores más profundos, sin la presión de la inercia o de la expectativa ajena, que elegiria? La respuesta puede ser la misma que la inercia. O puede no serlo. Pero al menos será una elección.
+**Ejercicio inmediato:** Identifica una decisión que tienes pendiente que estas gestionando en piloto automático (siguiendo la inercia, la costumbre, o lo que otros esperan). Detente y pregunta: ¿si elijo desde mis valores más profundos, sin la presión de la inercia o de la expectativa ajena, que elegiria? La respuesta puede ser la misma que la inercia. O puede no serlo. Pero al menos será una elección.
 
 La decisión que tomas porque siempre lo has hecho asi no es una decisión. Es una inercia con la apariencia de decisión.
 
@@ -153,7 +153,7 @@ Isabel ha llegado al final del libro con una comprensión más clara de hasta qu
 
 Tara Brach, maestra de meditación y psicologa, propone la práctica del RAIN (Reconocer, Aceptar, Investigar, Nutrir) como herramienta para trabajar con los momentos de mayor automatismo: reconocer que se esta en piloto automático, aceptar el estado sin juzgarlo, investigar con curiosidad lo que esta ocurriendo internamente, y nutrir el yo con compasión antes de elegir la respuesta.
 
-**Ejercicio inmediato:** Diseña tu protocolo personal de retorno a la presencia para los momentos más costosos de piloto automático en tu vida. Cuando te encuentres en piloto automático en esos momentos, que hará? Una respiración deliberada, una pausa de diez segundos, el nombramiento del estado? El protocolo pequeño y específico es el que funciona cuando el automatismo ya se ha activado.
+**Ejercicio inmediato:** Diseña tu protocolo personal de retorno a la presencia para los momentos más costosos de piloto automático en tu vida. ¿Cuando te encuentres en piloto automático en esos momentos, que hará? ¿Una respiración deliberada, una pausa de diez segundos, el nombramiento del estado? El protocolo pequeño y específico es el que funciona cuando el automatismo ya se ha activado.
 
 La presencia no se tiene. Se práctica. Y la práctica empieza por notar cuando no la tienes.
 

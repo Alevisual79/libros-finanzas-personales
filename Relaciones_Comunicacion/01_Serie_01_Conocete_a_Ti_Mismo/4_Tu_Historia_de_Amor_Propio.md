@@ -49,7 +49,7 @@ Elena necesita que su pareja le diga que es lista. Cuando no lo hace, se siente 
 
 Las investigaciones de Christopher Deci y Richard Ryan sobre motivación autonoma muestran que las personas que funcionan desde validación interna, hacen las cosas porque las valoran para si mismas, tienen mayor bienestar, relaciones más satisfactorias y mayor resistencia al fracaso que las que funcionan desde validación externa.
 
-**Ejercicio inmediato:** Identifica tres áreas en las que necesitas validación del otro para sentirte bien. Para cada una, preguntate: que tendría que ser verdad sobre mi mismo para no necesitar que el otro me lo confirme? La respuesta te dice que trabajo interior tienes pendiente.
+**Ejercicio inmediato:** Identifica tres áreas en las que necesitas validación del otro para sentirte bien. Para cada una, preguntate: ¿que tendría que ser verdad sobre mi mismo para no necesitar que el otro me lo confirme? La respuesta te dice que trabajo interior tienes pendiente.
 
 La validación del otro es un regalo. Depender de ella es una trampa.
 
@@ -63,7 +63,7 @@ El mayor crítico de Elena no es su ex pareja. No es su madre. No es su jefe. Es
 
 Aaron Beck identifico en la terapia cognitiva que la mayoría del sufrimiento psicológico no viene de los eventos en si sino de la interpretación automática que hacemos de ellos. En el plano relacional, cambiar el interprete interno es más eficaz que cambiar de relaciones.
 
-**Ejercicio inmediato:** Durante una semana, cada vez que tengas un pensamiento negativo sobre como el otro te percibe, anota el pensamiento y luego preguntate: que evidencia tengo de que esto es verdad? Que evidencia tengo de que no lo es? El simple acto de cuestionar el pensamiento reduce su poder.
+**Ejercicio inmediato:** Durante una semana, cada vez que tengas un pensamiento negativo sobre como el otro te percibe, anota el pensamiento y luego preguntate: ¿que evidencia tengo de que esto es verdad? ¿Que evidencia tengo de que no lo es? El simple acto de cuestionar el pensamiento reduce su poder.
 
 Lo que te dices sobre tus relaciones es más importante que lo que ocurre en ellas.
 
@@ -77,7 +77,7 @@ Cuando alguien le hacía un cumplido, Marcos lo rechazaba. Gracias, pero la verd
 
 Kristin Neff, investigadora de la autocompasión, demostró que las personas con críticos interiores muy activos no obtienen mejores resultados que las personas con autoevaluación equilibrada. Obtienen más ansiedad, más depresión y peores relaciones. El crítico no motiva. Paraliza o agota.
 
-**Ejercicio inmediato:** Escribe el último pensamiento autocritico que tuviste sobre ti mismo en el contexto de una relación. Ahora imagina que un amigo tuyo piensa eso sobre si mismo. Que le dirias? Aplicate lo mismo. La distancia de la tercera persona revela lo injusto que eres contigo mismo.
+**Ejercicio inmediato:** Escribe el último pensamiento autocritico que tuviste sobre ti mismo en el contexto de una relación. Ahora imagina que un amigo tuyo piensa eso sobre si mismo. ¿Que le dirias? Aplicate lo mismo. La distancia de la tercera persona revela lo injusto que eres contigo mismo.
 
 Tratarte mal no te protege de nada. Solo te prepara para aceptar que los demás también lo hagan.
 

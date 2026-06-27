@@ -37,7 +37,7 @@ La culpa anticipada, frecuentemente desproporcionada respecto a la legitimidad r
 
 **El Principio de la Culpa Desproporcionada:** La culpa que se anticipa al poner un límite frecuentemente excede significativamente lo que la situación objetiva justificaria, especialmente para personas con patrones de complacencia desarrollados desde la infancia. Reconocer esta desproporción, comparando el límite específico con cómo se evaluaria si otra persona lo estableciera en una situación similar, ayuda a calibrar la culpa con más precisión.
 
-**Ejercicio inmediato:** Para un límite que te genera culpa anticipada significativa, pregunta: si un amigo cercano estableciera este mismo límite en una situación similar, lo juzgarias tan severamente como te juzgas a ti mismo por considerarlo?
+**Ejercicio inmediato:** Para un límite que te genera culpa anticipada significativa, pregunta: ¿si un amigo cercano estableciera este mismo límite en una situación similar, lo juzgarias tan severamente como te juzgas a ti mismo por considerarlo?
 
 La culpa que sientes por poner un límite legitimo frecuentemente es mucho mayor de lo que la situación realmente justifica.
 

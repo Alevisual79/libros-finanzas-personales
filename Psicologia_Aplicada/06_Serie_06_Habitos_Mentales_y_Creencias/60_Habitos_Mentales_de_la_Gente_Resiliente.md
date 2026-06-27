@@ -25,9 +25,9 @@ La resiliencia no es algo que se tiene o no se tiene. Es algo que se hace.
 
 **El Principio de la Resiliencia como Resultado de Procesos, no de Rasgos Fijos:** George Bonanno, uno de los investigadores de resiliencia más citados, propone que la resiliencia no es un rasgo de personalidad fijo sino el resultado de un conjunto de procesos adaptativos que se pueden aprender. Sus investigaciones longitudinales con personas que han sufrido perdidas y traumas muestran que la capacidad de recuperación es altamente variable incluso en la misma persona segun el contexto y los recursos disponibles.
 
-Ann Masten, investigadora de Minnesota que lleva décadas estudiando la resiliencia en ninos, propone que la resiliencia emerge de lo que llama magia ordinaria: no de capacidades extraordinarias sino de la activación de sistemas adaptativos ordinarios como las relaciones de apoyo, la regulación emocional, la eficacia propia, y el sentido de significado.
+Ann Masten, investigadora de Minnesota que lleva décadas estudiando la resiliencia en niños, propone que la resiliencia emerge de lo que llama magia ordinaria: no de capacidades extraordinarias sino de la activación de sistemas adaptativos ordinarios como las relaciones de apoyo, la regulación emocional, la eficacia propia, y el sentido de significado.
 
-**Ejercicio inmediato:** Reflexiona sobre una dificultad pasada de la que te recuperaste bien. Que hiciste, pensaste, o a quien recurriste durante ese proceso que facilito tu recuperación? Identificar los recursos que ya usaste en el pasado es el punto de partida para hacerlos más deliberados en el futuro.
+**Ejercicio inmediato:** Reflexiona sobre una dificultad pasada de la que te recuperaste bien. ¿Que hiciste, pensaste, o a quien recurriste durante ese proceso que facilito tu recuperación? Identificar los recursos que ya usaste en el pasado es el punto de partida para hacerlos más deliberados en el futuro.
 
 La resiliencia que tuviste una vez esta en ti. No como algo que tienes sino como algo que sabes hacer. Y lo que sabes hacer puede hacerse más deliberado.
 
@@ -55,7 +55,7 @@ Isabel ha observado que las personas resilientes no son necesariamente las que t
 
 La investigación de Crystal Park sobre la busqueda de significado en situaciones traumaticas muestra que las personas que consiguen encontrar algun significado a las experiencias difíciles (aunque sea después de tiempo) muestran mejor funcionamiento a largo plazo que las que no pueden.
 
-**Ejercicio inmediato:** Para la dificultad actual más importante, reflexiona sobre las tres dimensiones del sentido de coherencia: entiendes la logica de por qué esta ocurriendo (comprensibilidad)? Tienes alguno de los recursos que necesitas para afrontarla (manejabilidad)? Hay algo importante para ti en jeugo que justifica el esfuerzo de afrontarla (significatividad)? Las dimensiones más debiles son donde el trabajo de sentido de coherencia tiene mayor impacto.
+**Ejercicio inmediato:** Para la dificultad actual más importante, reflexiona sobre las tres dimensiones del sentido de coherencia: ¿entiendes la logica de por qué esta ocurriendo (comprensibilidad)? ¿Tienes alguno de los recursos que necesitas para afrontarla (manejabilidad)? Hay algo importante para ti en jeugo que justifica el esfuerzo de afrontarla (significatividad)? Las dimensiones más debiles son donde el trabajo de sentido de coherencia tiene mayor impacto.
 
 La adversidad que no tiene sentido destruye. La que tiene alguno que puedes encontrar puede construir.
 
@@ -69,7 +69,7 @@ Ruben ha descubierto que una de las diferencias entre el y las personas que atra
 
 La investigación muestra que la autoeficacia generalizada predice la recuperación en multiples contextos: recuperación de enfermedades, adaptación a cambios laborales, respuesta a perdidas. No porque garantice el éxito sino porque produce la persistencia que hace más probable el éxito.
 
-**Ejercicio inmediato:** Construye tu lista de evidencia de autoeficacia: situaciones difíciles pasadas que atravesaste (aunque no perfectamente), capacidades que has desarrollado a lo largo de tu vida, momentos donde persististe cuando habria sido más facil rendirte. Esa lista es la evidencia de tu autoeficacia generalizada. Releerla en momentos de duda es una forma de acceder a ese recurso cuando más se necesita.
+**Ejercicio inmediato:** Construye tu lista de evidencia de autoeficacia: situaciones difíciles pasadas que atravesaste (aunque no perfectamente), capacidades que has desarrollado a lo largo de tu vida, momentos donde persististe cuando habría sido más facil rendirte. Esa lista es la evidencia de tu autoeficacia generalizada. Releerla en momentos de duda es una forma de acceder a ese recurso cuando más se necesita.
 
 No necesitas saber como resolver este problema específico para creer que puedes. Necesitas recordar que has resuelto otros que tampoco sabías como resolver cuando empezaron.
 
@@ -109,9 +109,9 @@ Elena ha notado que los momentos en que su resiliencia fue mayor fueron también
 
 **El Principio de las Relaciones de Apoyo como Amplificadores de la Resiliencia:** Judith Herman propone que la recuperación del trauma ocurre en el contexto de la relación con otros: la presencia de personas que proporcionan apoyo emocional, práctico, e informacional es uno de los predictores más robustos de la resiliencia.
 
-James Coan de la Universidad de Virginia documenta la corregulación: la presencia de una persona de apego seguro reduce la activación del sistema de amenaza de forma biológica. Y Emmy Werner, en su estudio longitudinal de Kauai sobre ninos en condiciones adversas, encontró que la relación con al menos un adulto que crea en ellos era el factor protector más consistente entre los ninos que superaban las adversidades.
+James Coan de la Universidad de Virginia documenta la corregulación: la presencia de una persona de apego seguro reduce la activación del sistema de amenaza de forma biológica. Y Emmy Werner, en su estudio longitudinal de Kauai sobre niños en condiciones adversas, encontró que la relación con al menos un adulto que crea en ellos era el factor protector más consistente entre los niños que superaban las adversidades.
 
-**Ejercicio inmediato:** Mapea tu red de resiliencia: quien son las dos o tres personas con quienes te sientes más capaz de afrontar las dificultades? Para cada una, reflexiona: cuanto has invertido en esa relación recientemente? Las relaciones de resiliencia, como cualquier recurso, se deterioran sin cuidado.
+**Ejercicio inmediato:** Mapea tu red de resiliencia: ¿quien son las dos o tres personas con quienes te sientes más capaz de afrontar las dificultades? Para cada una, reflexiona: ¿cuanto has invertido en esa relación recientemente? Las relaciones de resiliencia, como cualquier recurso, se deterioran sin cuidado.
 
 Las personas que atraviesan bien las dificultades no lo hacen solos. Lo hacen con personas específicas. Cuida esas personas como los recursos que son.
 
@@ -125,7 +125,7 @@ Ruben ha notado que las personas más resilientes que conoce tienen en común la
 
 George Vaillant, en su investigación longitudinal sobre el desarrollo adulto, identifico el humor como uno de los mecanismos de defensa maduros: una forma de procesar el estres que produce adaptación sin negación. Las personas con mayor uso del humor en situaciones de estres muestran mayor bienestar a largo plazo.
 
-**Ejercicio inmediato:** Para la situación difícil más reciente que hayas vivido, reflexiona: había algun elemento de absurdo o ironia que en ese momento no pudiste ver pero que en perspectiva si puedes? La distancia necesaria para el humor es frecuentemente la misma distancia que indica que se esta recuperando la perspectiva.
+**Ejercicio inmediato:** Para la situación difícil más reciente que hayas vivido, reflexiona: ¿había algun elemento de absurdo o ironia que en ese momento no pudiste ver pero que en perspectiva si puedes? La distancia necesaria para el humor es frecuentemente la misma distancia que indica que se esta recuperando la perspectiva.
 
 Las personas que pueden reirse de sus propias dificultades no las toman menos en serio. Las llevan con más ligereza, que es una manera diferente de respetarlas.
 
@@ -133,13 +133,13 @@ Las personas que pueden reirse de sus propias dificultades no las toman menos en
 
 ## Capítulo 9: El aprendizaje como postura ante la adversidad
 
-Isabel ha empezado a hacerse siempre la misma pregunta ante las dificultades: que puedo aprender de esto?
+Isabel ha empezado a hacerse siempre la misma pregunta ante las dificultades: ¿que puedo aprender de esto?
 
 **El Principio de la Orientación al Aprendizaje como Habito de Resiliencia:** Carol Dweck propone que la orientación al aprendizaje (que pregunta que puedo aprender?) en lugar de la orientación al rendimiento (que demuestra esto sobre mis capacidades?) produce mayor resiliencia porque transforma el fracaso de amenaza en información. Esta postura no ignora el coste emocional de la adversidad pero añade una dimensión que el simple sufrimiento no tiene.
 
 Richard Tedeschi y Lawrence Calhoun documentaron el crecimiento postraumatico: el cambio psicológico positivo que puede emerger del proceso de lucha con circunstancias altamente desafiantes. La orientación al aprendizaje no garantiza el crecimiento postraumatico pero crea las condiciones para que sea posible.
 
-**Ejercicio inmediato:** Para la dificultad más importante que estas atravesando ahora mismo, práctica la pregunta del aprendizaje: que información específica produce esta situación sobre lo que funciona, lo que no funciona, lo que valoras, o quien eres? Esa pregunta no disminuye el dolor pero añade una dimensión que hace que el dolor tenga algo que decir más allá del propio dolor.
+**Ejercicio inmediato:** Para la dificultad más importante que estas atravesando ahora mismo, práctica la pregunta del aprendizaje: ¿que información específica produce esta situación sobre lo que funciona, lo que no funciona, lo que valoras, o quien eres? Esa pregunta no disminuye el dolor pero añade una dimensión que hace que el dolor tenga algo que decir más allá del propio dolor.
 
 La adversidad que solo sufres te cuesta. La que aprendes a aprender de ella te cobra el mismo precio pero te da algo a cambio.
 
@@ -153,7 +153,7 @@ Ruben ha aprendido que los recursos de resiliencia son más efectivos cuando se 
 
 Rick Hanson, neurocientifico y autor de Hardwiring Happiness, propone que instalar deliberadamente las experiencias positivas (dejar que las experiencias buenas se procesen completamente en lugar de pasar por ellas rápidamente) construye la arquitectura cerebral de la resiliencia: más conexiones de recompensa, más recursos de regulación emocional disponibles.
 
-**Ejercicio inmediato:** Evalua el estado de tus recursos de resiliencia en este momento de relativa calma: tus relaciones de apoyo (estan mantenidas?), tu regulación emocional (tienes prácticas regulares?), tu sentido de significado (tienes conexión con algo que importa?), y tu salud física (sueño, ejercicio, alimentación). El recurso más debil es el que más necesitas fortalecer antes de que lo necesites urgentemente.
+**Ejercicio inmediato:** Evalua el estado de tus recursos de resiliencia en este momento de relativa calma: ¿tus relaciones de apoyo (estan mantenidas?), tu regulación emocional (tienes prácticas regulares?), tu sentido de significado (tienes conexión con algo que importa?), y tu salud física (sueño, ejercicio, alimentación). El recurso más debil es el que más necesitas fortalecer antes de que lo necesites urgentemente.
 
 La resiliencia que construyes cuando no la necesitas es la que tienes cuando si la necesitas. No esperes a la crisis para construir lo que te hará atravesarla.
 

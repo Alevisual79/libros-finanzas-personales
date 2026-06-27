@@ -55,7 +55,7 @@ Marcos ha aprendido que el nombre perfecto no existe pero hay criterios claros p
 
 La investigación de Simon Laham sobre como los nombres afectan las decisiones muestra que los nombres más faciles de pronunciar producen mayor confianza y mayor disposición a comprar, independientemente del contenido que el nombre comunique. La fluidez cognitiva (la facilidad de procesamiento de un nombre) es un activo real del nombre de marca.
 
-**Ejercicio inmediato:** Para tu nombre actual o los candidatos que estas evaluando, aplica cinco criterios: se puede pronunciar facilmente en español (o en el idioma de tu mercado) sin ambiguedad? Es posible buscarlo en Google sin confundirse con algo completamente diferente? Esta disponible como dominio web (aunque sea con una extensión diferente a .com)? Cuando lo escuchas por primera vez, queda en la memoria? Produce alguna asociación positiva con lo que el negocio hace o el problema que resuelve? Los nombres que superan los cinco criterios son candidatos sólidos.
+**Ejercicio inmediato:** Para tu nombre actual o los candidatos que estas evaluando, aplica cinco criterios: ¿se puede pronunciar facilmente en español (o en el idioma de tu mercado) sin ambiguedad? ¿Es posible buscarlo en Google sin confundirse con algo completamente diferente? Esta disponible como dominio web (aunque sea con una extensión diferente a .com)? ¿Cuando lo escuchas por primera vez, queda en la memoria? Produce alguna asociación positiva con lo que el negocio hace o el problema que resuelve? Los nombres que superan los cinco criterios son candidatos sólidos.
 
 El nombre que describe exactamente lo que haces es descriptivo. El que se queda en la mente es una marca.
 
@@ -69,7 +69,7 @@ Carlos ha invertido demasiado en una identidad visual antes de tener claridad so
 
 La investigación de Mark Borden sobre los momentos de actualización de marca más exitosos muestra que las rebrandings más efectivas no son las que cambian el aspecto visual sino las que reflejan una evolución del posicionamiento: el aspecto visual nuevo comunica quienes somos ahora de forma que el anterior ya no podía hacer.
 
-**Ejercicio inmediato:** Para tu identidad visual actual o la que estas planificando, aplica el criterio del posicionamiento: cada elemento visual (logo, colores, tipografia) comunica algo específico sobre el posicionamiento que has elegido? El color que has elegido es coherente con las emociones y asociaciones que el posicionamiento quiere producir? El estilo (moderno vs. clasico, minimalista vs. rico en detalle, profesional vs. cercano) refleja la personalidad de marca que quieres proyectar? Si alguna respuesta es no o no lo he pensado, ahí esta el trabajo de identidad visual que tienes pendiente.
+**Ejercicio inmediato:** Para tu identidad visual actual o la que estas planificando, aplica el criterio del posicionamiento: ¿cada elemento visual (logo, colores, tipografia) comunica algo específico sobre el posicionamiento que has elegido? ¿El color que has elegido es coherente con las emociones y asociaciones que el posicionamiento quiere producir? El estilo (moderno vs. clasico, minimalista vs. rico en detalle, profesional vs. cercano) refleja la personalidad de marca que quieres proyectar? Si alguna respuesta es no o no lo he pensado, ahí esta el trabajo de identidad visual que tienes pendiente.
 
 La identidad visual que no esta al servicio del posicionamiento es solo estetica. Bonita puede ser, útil raramente lo es.
 
@@ -97,7 +97,7 @@ Marcos ha tenido que trabajar su diferenciación en un mercado con varios compet
 
 La investigación de April Rinne sobre los mercados hipercompetitivos muestra que las empresas que crecen más rápidamente en mercados con muchos competidores no son las que hacen todo mejor que todos sino las que son la primera opción para un segmento específico de clientes que valoran lo que ellas hacen mejor que nadie.
 
-**Ejercicio inmediato:** Para los tres competidores más directos de tu negocio, realiza el siguiente análisis: en que criterio de elección es cada uno el más fuerte (precio, velocidad, calidad, especialización, servicio)? Que criterio de elección no cubre bien ninguno de los tres? Esa zona no cubierta es donde la diferenciación tiene mayor oportunidad. Si no hay zona no cubierta, la diferenciación puede estar en el segmento específico de cliente (quienes de los que buscan eso podrían valorar tu enfoque específico más que el de los competidores).
+**Ejercicio inmediato:** Para los tres competidores más directos de tu negocio, realiza el siguiente análisis: ¿en que criterio de elección es cada uno el más fuerte (precio, velocidad, calidad, especialización, servicio)? ¿Que criterio de elección no cubre bien ninguno de los tres? Esa zona no cubierta es donde la diferenciación tiene mayor oportunidad. Si no hay zona no cubierta, la diferenciación puede estar en el segmento específico de cliente (quienes de los que buscan eso podrían valorar tu enfoque específico más que el de los competidores).
 
 La empresa que intenta ser mejor en todo para todos acaba siendo mejor en nada para nadie.
 
@@ -153,7 +153,7 @@ Carlos ha llegado a entender que la marca no es la suma de sus partes. Es la coh
 
 La investigación de Interbrand sobre las marcas más valiosas del mundo muestra que el capital de marca no viene de ningún elemento individual sino de la coherencia con que todos los elementos (nombre, identidad visual, voz, promesa, experiencia del cliente) refuerzan el mismo posicionamiento a lo largo del tiempo.
 
-**Ejercicio inmediato:** Realiza una auditoria de coherencia de tu marca: el nombre, el logo, la voz de marca, la promesa de marca, y la experiencia del cliente estan todos alineados con el mismo posicionamiento? Si un cliente interactuara con cada uno de estos elementos por separado, llegaria a la misma conclusión sobre lo que es tu empresa y para quien es? Si alguno de los elementos produciria una imagen diferente del posicionamiento buscado, ahí esta el trabajo de coherencia de marca pendiente.
+**Ejercicio inmediato:** Realiza una auditoria de coherencia de tu marca: ¿el nombre, el logo, la voz de marca, la promesa de marca, y la experiencia del cliente estan todos alineados con el mismo posicionamiento? ¿Si un cliente interactuara con cada uno de estos elementos por separado, llegaria a la misma conclusión sobre lo que es tu empresa y para quien es? Si alguno de los elementos produciria una imagen diferente del posicionamiento buscado, ahí esta el trabajo de coherencia de marca pendiente.
 
 La marca que todos los elementos construyen en la misma dirección es la que más potente se vuelve con el tiempo.
 

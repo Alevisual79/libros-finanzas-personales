@@ -27,7 +27,7 @@ Las creencias sobre el dinero que limitan al emprendedor no son logicas. Son his
 
 La investigación de Morgan Housel en La psicología del Dinero muestra que el comportamiento financiero esta determinado mucho más por las experiencias personales con el dinero (especialmente en la infancia y la juventud) que por el conocimiento financiero racional. Conocer las mejores estrategias financieras no garantiza actuar conforme a ellas si las creencias implícitas apuntan en otra dirección.
 
-**Ejercicio inmediato:** Reflexiona sobre las tres frases que recuerdas haber escuchado sobre el dinero en tu infancia: de tus padres, de la escuela, de tu comunidad. Para cada una, reflexiona: que comportamiento de emprendedor produce esa creencia en mi? El emprendedor que no cobra lo que vale probablemente escuchó que el dinero es malo o que pedir dinero es de mala educación. Identificar el origen de la creencia no la elimina pero abre la posibilidad de cuestionarla.
+**Ejercicio inmediato:** Reflexiona sobre las tres frases que recuerdas haber escuchado sobre el dinero en tu infancia: de tus padres, de la escuela, de tu comunidad. Para cada una, reflexiona: ¿que comportamiento de emprendedor produce esa creencia en mi? El emprendedor que no cobra lo que vale probablemente escuchó que el dinero es malo o que pedir dinero es de mala educación. Identificar el origen de la creencia no la elimina pero abre la posibilidad de cuestionarla.
 
 Las creencias sobre el dinero que tienes son las que alguien te dio. No las que tu elegiste. Todavia puedes elegir unas diferentes.
 
@@ -41,7 +41,7 @@ Carlos ha aprendido que sus precios bajos no son una estrategia de penetración 
 
 La investigación de Daniel Ariely sobre el precio y el valor percibido muestra que los precios más altos frecuentemente aumentan el valor percibido del producto o servicio (el efecto precio-calidad). Los precios bajos no solo reducen el ingreso sino que frecuentemente señalan al mercado una calidad baja, produciendo el efecto contrario al buscado.
 
-**Ejercicio inmediato:** Identifica tu precio actual para el producto o servicio principal de tu negocio. Ahora reflexiona: si subieras ese precio un 20%, cuantos clientes actuales perderia razonablemente? Y cuantos clientes nuevos, con el precio más alto como señal de mayor calidad, podrías atraer? La mayoría de los emprendedores descubren que pueden subir precios sin perder clientes, y que los clientes que pierden a precios más altos no eran los más valiosos para el negocio a largo plazo.
+**Ejercicio inmediato:** Identifica tu precio actual para el producto o servicio principal de tu negocio. Ahora reflexiona: ¿si subieras ese precio un 20%, cuantos clientes actuales perderia razonablemente? ¿Y cuantos clientes nuevos, con el precio más alto como señal de mayor calidad, podrías atraer? La mayoría de los emprendedores descubren que pueden subir precios sin perder clientes, y que los clientes que pierden a precios más altos no eran los más valiosos para el negocio a largo plazo.
 
 El cliente que se va cuando subes el precio justo no era el cliente que quería construir tu negocio.
 
@@ -95,7 +95,7 @@ Lucia tiene ingresos en crecimiento pero un margen que se estrecha. Ha aprendido
 
 **El Principio de la Rentabilidad cómo la Metrica de Supervivencia a Largo Plazo más Importante que los Ingresos, y la Trampa del Crecimiento que Destruye el Margen:** Mike Michalowicz en Profit First propone que la forma en que la mayoría de los emprendedores gestionan las finanzas (ingresos - gastos = beneficio) es erronea porque deja el beneficio como el residuo de lo que queda después de los gastos. Su formula alternativa: ingresos - beneficio = gastos, que reserva el beneficio primero y obliga a gestionar los gastos dentro del margen disponible.
 
-La investigación de Shira Mor y colegas sobre el fracaso de empresas con alto crecimiento muestra que muchas empresas con crecimiento de ingresos rápido fracasan precisamente porque ese crecimiento consume efectivo más rápido de lo que los ingresos lo generan (el modeló de Unit Economics negativo que se esperaba resolver a escala).
+La investigación de Shira Mor y colegas sobre el fracaso de empresas con alto crecimiento muestra que muchas empresas con crecimiento de ingresos rápido fracasan precisamente porque ese crecimiento consume efectivo más rápido de lo que los ingresos lo generan (el modelo de Unit Economics negativo que se esperaba resolver a escala).
 
 **Ejercicio inmediato:** Calcula la rentabilidad real de tu negocio en tres números: el margen bruto (ingresos menos coste directo del producto o servicio), el margen operativo (margen bruto menos gastos operativos), y el margen neto (margen operativo menos impuestos e intereses). Si alguno de los tres es negativo o menor del esperado, identifica la linea de gasto que más lo comprime. La rentabilidad que conoces puede gestionarse. La que no conoces se erosiona sola.
 
@@ -125,7 +125,7 @@ Carlos ha tenido que combatir la mentalidad de escasez financiera que le llevaba
 
 La diferencia entre la mentalidad de escasez y la de abundancia no es ignorar los problemas financieros reales sino no dejar que el estres que producen comprometa la calidad de las decisiones que los resolverian.
 
-**Ejercicio inmediato:** En el próximo momento en que tomes una decisión financiera desde el miedo (bajar el precio, aceptar un cliente malo, sacrificar inversión necesaria), práctica la pregunta de abundancia: si supiera con certeza que el negocio va a sobrevivir y prosperar, que decisión tomaria en esta situación? La respuesta a esa pregunta frecuentemente es diferente de la que produce el miedo y frecuentemente es la decisión correcta.
+**Ejercicio inmediato:** En el próximo momento en que tomes una decisión financiera desde el miedo (bajar el precio, aceptar un cliente malo, sacrificar inversión necesaria), práctica la pregunta de abundancia: ¿si supiera con certeza que el negocio va a sobrevivir y prosperar, que decisión tomaria en esta situación? La respuesta a esa pregunta frecuentemente es diferente de la que produce el miedo y frecuentemente es la decisión correcta.
 
 Las mejores decisiones financieras de tu negocio probablemente las tomaras cuando no tengas miedo al dinero. Vale la pena practicar ese estado antes de necesitarlo.
 
@@ -137,7 +137,7 @@ Lucia ha cometido (y observado en otros) los mismos errores financieros una y ot
 
 **El Principio del Aprendizaje de los Errores Financieros Comunes como Superior a la Experiencia Personal de Cada Uno porque Permite Evitar los que Más Cuestan:** Los errores financieros más documentados en emprendedores incluyen: no monitorizar el flujo de caja regularmente (hasta que hay una crisis), mezclar finanzas personales y del negocio (hasta que ya no se sabe cual es la situación real de ninguno de los dos), no reservar para impuestos (hasta que llega la declaración), subir los gastos fijos al ritmo de los ingresos variables (hasta que los ingresos bajan y los gastos son inflexibles), y no negociar las condiciones de pago con clientes y proveedores (dejando la mayor parte del riesgo de liquidez en el emprendedor).
 
-**Ejercicio inmediato:** Para cada uno de los cinco errores más comunes, reflexiona: lo estoy cometiendo actualmente o lo he cometido en el pasado? Si la respuesta es si para alguno, ese es el error financiero de mayor prioridad a corregir en los próximos treinta dias. La correción de cada uno frecuentemente tarda menos de un dia de trabajo: abrir una cuenta de reserva de impuestos, instalar un software de contabilidad, revisar los contratos con clientes para mejorar las condiciones de pago.
+**Ejercicio inmediato:** Para cada uno de los cinco errores más comunes, reflexiona: ¿lo estoy cometiendo actualmente o lo he cometido en el pasado? Si la respuesta es si para alguno, ese es el error financiero de mayor prioridad a corregir en los próximos treinta dias. La correción de cada uno frecuentemente tarda menos de un dia de trabajo: abrir una cuenta de reserva de impuestos, instalar un software de contabilidad, revisar los contratos con clientes para mejorar las condiciones de pago.
 
 El error financiero que cometes porque nadie te advirtio que lo cometieras es comprensible. El que cometes habiendo sabido que era un error no lo es.
 

@@ -55,7 +55,7 @@ Elena tiene un autoconcepto muy centrado en su identidad profesional. Cuando el 
 
 Lisa Feldman Barrett y sus colegas confirmaron este efecto protector en investigaciones posteriores: las personas con mayor complejidad del autoconcepto muestran mayor estabilidad emocional ante experiencias negativas, porque el fracaso en un dominio no tiene acceso inmediato a todos los demás. Diversificar el autoconcepto es, paradojicamente, una estrategia de resiliencia.
 
-**Ejercicio inmediato:** Dibuja un mapa de tu autoconcepto: los distintos roles e identidades que componen quien eres (profesional, amigo, hijo, hermano, persona con aficiones, ciudadano, etc.). Luego evalua que tan independientes son esos dominios: si uno va mal, los contamina automáticamente a todos? Si la respuesta es si, el autoconcepto tiene baja complejidad y alta vulnerabilidad ante el fracaso en cualquier dominio.
+**Ejercicio inmediato:** Dibuja un mapa de tu autoconcepto: los distintos roles e identidades que componen quien eres (profesional, amigo, hijo, hermano, persona con aficiones, ciudadano, etc.). Luego evalua que tan independientes son esos dominios: ¿si uno va mal, los contamina automáticamente a todos? Si la respuesta es si, el autoconcepto tiene baja complejidad y alta vulnerabilidad ante el fracaso en cualquier dominio.
 
 Ser muchas cosas a la vez no te diluye. Te protege de que una cosa mala te lo quite todo.
 
@@ -69,7 +69,7 @@ Ruben dice (y cree) que no le importa lo que los demás piensan de el. Pero su c
 
 Esta disociación explica comportamientos aparentemente contradictorios: la persona que dice que no le importa la aprobación ajena pero que sistemáticamente evita situaciones donde puede ser evaluado negativamente esta siendo guiada por su autoconcepto implícito, no por el que afirma.
 
-**Ejercicio inmediato:** Observa tu comportamiento en lugar de tus afirmaciones durante una semana. Que hace alguien que actua de acuerdo con tus afirmaciones sobre ti mismo (no me importa la aprobación, soy bueno en situaciones sociales)? Lo que describes realmente ocurre en tu comportamiento observable, o hay una brecha entre lo que afirmas y como actuas?
+**Ejercicio inmediato:** Observa tu comportamiento en lugar de tus afirmaciones durante una semana. ¿Que hace alguien que actua de acuerdo con tus afirmaciones sobre ti mismo (no me importa la aprobación, soy bueno en situaciones sociales)? ¿Lo que describes realmente ocurre en tu comportamiento observable, o hay una brecha entre lo que afirmas y como actuas?
 
 No eres quien dices que eres. Eres lo que haces cuando nadie te mira y no tienes que impresionar a nadie.
 
@@ -125,7 +125,7 @@ Ruben tiene metas que persigue con esfuerzo pero que no siente como propias. Las
 
 Peter Gollwitzer, psicologo de la Universidad de New York que investiga la implementación de intenciones, muestra que las personas persiguen las metas más efectivamente cuando hay una conexión clara entre la meta y el autoconcepto: cuando el fracaso en perseguir la meta se ve como inconsistente con quien uno es, la motivación para seguir intentandolo es más robusta.
 
-**Ejercicio inmediato:** Para una meta importante que estas persiguiendo actualmente, pregunta: si alguien que me conoce bien me viera perseguir esta meta, le pareceria consistente con quien soy genuinamente, o le pareceria algo que hago porque creo que debo? Si la respuesta apunta a la segunda, vale la pena preguntarse si la meta es realmente tuya o prestada de otra expectativa.
+**Ejercicio inmediato:** Para una meta importante que estas persiguiendo actualmente, pregunta: ¿si alguien que me conoce bien me viera perseguir esta meta, le pareceria consistente con quien soy genuinamente, o le pareceria algo que hago porque creo que debo? Si la respuesta apunta a la segunda, vale la pena preguntarse si la meta es realmente tuya o prestada de otra expectativa.
 
 Las metas que no conectan con quien crees que eres son como correr en una dirección que no has elegido. El esfuerzo es real. La motivación, no.
 
@@ -139,7 +139,7 @@ Isabel sabe exactamente quien es y como es. Rara vez se sorprende a si misma. Nu
 
 Una narrativa del yo que dice soy el tipo de persona que X cierra la posibilidad de descubrir que puedes ser también el tipo de persona que Y. El autoconcepto más funcional tiene suficiente coherencia para proporcionar continuidad y suficiente flexibilidad para permitir el descubrimiento y el cambio.
 
-**Ejercicio inmediato:** Identifica algo que te gustaria intentar pero que has descartado porque no encaja con como te ves a ti mismo. Pregunta: si tu autoconcepto no dijera soy el tipo de persona que no hace X, estaria dispuesto a intentarlo? Si la respuesta es si, el autoconcepto esta siendo una barrera para la experiencia, no un reflejo preciso de quien eres.
+**Ejercicio inmediato:** Identifica algo que te gustaria intentar pero que has descartado porque no encaja con como te ves a ti mismo. Pregunta: ¿si tu autoconcepto no dijera soy el tipo de persona que no hace X, estaria dispuesto a intentarlo? Si la respuesta es si, el autoconcepto esta siendo una barrera para la experiencia, no un reflejo preciso de quien eres.
 
 El autoconcepto que te impide probar cosas nuevas no es autoconocimiento. Es autolimitación.
 

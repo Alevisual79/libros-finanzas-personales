@@ -25,7 +25,7 @@ Los cimientos de una relación duradera no se instalan solos. Se construyen deci
 
 ## Capítulo 1: Los pilares de una relación duradera
 
-John Gottman paso décadas estudiando parejas en un laboratorio que el llamó el love lab. Mapeaba sus interacciones durante dias, media sus respuestas fisiologicas durante las discusiones y luego los seguia durante años para ver cuales seguian juntos y cuales se separaban. Sus hallazgos son los más robustos que existen sobre lo que hace que las relaciones duren.
+John Gottman paso décadas estudiando parejas en un laboratorio que el llamó el love lab. Mapeaba sus interacciones durante dias, media sus respuestas fisiologicas durante las discusiones y luego los seguia durante años para ver cuales seguían juntos y cuales se separaban. Sus hallazgos son los más robustos que existen sobre lo que hace que las relaciones duren.
 
 **El Principio de los Cimientos de Gottman:** Gottman identifico el amor duradero cómo una estructura de tres niveles: cimientos de amistad profunda (conocimiento mutuo, admiración, consideración positiva), segundo nivel de gestión del conflicto (capacidad de manejar las diferencias sin que destruyan la relación), y nivel superior de creación de significado compartido (proyectos, rituales y valores que dan sentido a la relación). Sin los cimientos, nada de lo que se construya arriba puede mantenerse.
 
@@ -45,7 +45,7 @@ La confianza no se declara. Se construye en miles de momentos pequeños: el mome
 
 La confianza, una vez perdida de forma significativa, se puede reconstruir. Pero requiere tiempo, consistencia y la voluntad genuina de la persona que la daño de hacer lo que sea necesario para reconstruirla.
 
-**Ejercicio inmediato:** Piensa en la cuenta de confianza de tu relación actual. Hay más depositos que retiros en el balance total? Si hay un deficit, cuando ocurrio y que habria que hacer para que la cuenta volviera a ser positiva? La respuesta a esa pregunta es el trabajo más urgente de la relación.
+**Ejercicio inmediato:** Piensa en la cuenta de confianza de tu relación actual. Hay más depositos que retiros en el balance total? ¿Si hay un deficit, cuando ocurrio y que habría que hacer para que la cuenta volviera a ser positiva? La respuesta a esa pregunta es el trabajo más urgente de la relación.
 
 La confianza no se rompe de golpe casi nunca. Se erosiona momento a momento, elección a elección.
 
@@ -71,7 +71,7 @@ Hay personas que estan en una relación porque lo quieren y hay personas que est
 
 El compromiso no se declara una sola vez en el altar o en el momento de oficializar la relación. Se renueva cada vez que surge una alternativa y se elige quedarse, cada vez que hay una crisis y se elige trabajarla, cada vez que la relación requiere esfuerzo y se elige hacerlo.
 
-**Ejercicio inmediato:** Preguntate honestamente: si pudieras salir de tu relación actual sin ningún coste (social, económico, emocional), lo harías? La respuesta a esa pregunta es una medida directa de la calidad de tu compromiso actual. No para juzgarte. Para saber donde estas.
+**Ejercicio inmediato:** Preguntate honestamente: ¿si pudieras salir de tu relación actual sin ningún coste (social, económico, emocional), lo harías? La respuesta a esa pregunta es una medida directa de la calidad de tu compromiso actual. No para juzgarte. Para saber donde estas.
 
 El compromiso que no se renueva activamente se convierte en inercia. Y la inercia no sostiene nada cuando viene el viento.
 
@@ -99,7 +99,7 @@ Los rituales son el tejido de la vida compartida. No las grandes celebraciones. 
 
 Los rituales tienen un poder específico: crean sentido de continuidad y de identidad de pareja. Cuando la vida se pone difícil, los rituales son los que recuerdan que hay algo sólido debajo de la crisis actual.
 
-**Ejercicio inmediato:** Identifica los tres rituales que existen en tu relación actual (o que existian en la más reciente). Si no puedes identificar tres, propone este fin de semana crear uno pequeño con tu pareja: un cafe sin moviles, un paseo regular, una pelicula cada viernes. El ritual que empiezas ahora puede ser el que os sostenga dentro de cinco años.
+**Ejercicio inmediato:** Identifica los tres rituales que existen en tu relación actual (o que existían en la más reciente). Si no puedes identificar tres, propone este fin de semana crear uno pequeño con tu pareja: un cafe sin moviles, un paseo regular, una pelicula cada viernes. El ritual que empiezas ahora puede ser el que os sostenga dentro de cinco años.
 
 Los rituales no son los momentos grandes. Son los momentos pequeños que se repiten y dan forma a quien son juntos.
 
@@ -139,7 +139,7 @@ La conexión sexual en la pareja no es independiente de la conexión emocional. 
 
 **El Principio de la Intimidad como Ecosistema:** La vida sexual satisfactoria en la pareja a largo plazo no es el resultado de la técnica ni de la novedad exclusivamente. Es el resultado de un ecosistema de intimidad: seguridad emocional, comunicación sobre necesidades y deseos, confianza física y la disposición a ser vulnerable en el contexto de la intimidad sexual. Las parejas que priorizan el ecosistema completo tienen vidas sexuales más satisfactorias a largo plazo que las que se enfocan exclusivamente en el componente físico.
 
-**Ejercicio inmediato:** Reflexiona sobre la conexión entre la calidad de la comunicación emocional en tu relación y la calidad de la vida sexual. Hay correlación? Cuando la comunicación emocional es mejor, la intimidad sexual también lo es? Si la respuesta es si, eso te dice donde esta el trabajo más importante.
+**Ejercicio inmediato:** Reflexiona sobre la conexión entre la calidad de la comunicación emocional en tu relación y la calidad de la vida sexual. Hay correlación? ¿Cuando la comunicación emocional es mejor, la intimidad sexual también lo es? Si la respuesta es si, eso te dice donde esta el trabajo más importante.
 
 La vida sexual que quieres tener es casi siempre el resultado de la conexión emocional que construyes.
 

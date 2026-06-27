@@ -25,7 +25,7 @@ La mayoría de las disculpas que se ofrecen en la vida cotidiana fallan en repar
 
 **El Principio de los Defectos Recurrentes de la Disculpa Ineficaz:** Las disculpas que no logran reparar el daño tipicamente comparten ciertos defectos: son genericas en lugar de específicas sobre el daño causado, incluyen justificaciones que diluyen la responsabilidad (lo siento, pero estaba estresado), se centran más en aliviar la incomodidad de quien se disculpa que en reconocer el impacto en quien recibe la disculpa, y no se acompañan de ningún cambio de comportamiento subsecuente.
 
-**Ejercicio inmediato:** Revisa una disculpa reciente que ofreciste o recibiste. Tenia alguno de estos defectos: genericidad, justificación diluyente, centrarse en el propio alivio, o ausencia de cambio subsecuente?
+**Ejercicio inmediato:** Revisa una disculpa reciente que ofreciste o recibiste. Tenia alguno de estos defectos: ¿genericidad, justificación diluyente, centrarse en el propio alivio, o ausencia de cambio subsecuente?
 
 La mayoría de las disculpas fallan no por falta de buena intención, sino por defectos estructurales específicos que se pueden identificar y corregir.
 

@@ -27,7 +27,7 @@ La frase el cuerpo lleva la cuenta (the body keeps the score) es el título del 
 
 Peter Levine, creador del Somatic Experiencing, propone que el trauma es fundamentalmente una respuesta fisiologica incompleta: la energía movilizada para responder a la amenaza (lucha o huida) que no pudo ser descargada a traves de la acción queda almacenada en el cuerpo como tensión, como patrones respiratorios, y como estados de activación o de inhibición cronicos. Esta energía no descargada es lo que produce los sintomas del trauma, y procesarla requiere trabajar con el cuerpo, no solo con la narrativa mental.
 
-**Ejercicio inmediato:** Realiza un escaner corporal breve: con los ojos cerrados, recorre mentalmente tu cuerpo de la cabeza a los pies. Donde hay tensión? Donde hay calor o frio? Donde hay sensación de apretamiento o de expansión? Donde el cuerpo esta vivo y donde parece apagado? Sin intentar cambiar nada, solo observando. Este escaner es el punto de partida del trabajo somatico.
+**Ejercicio inmediato:** Realiza un escaner corporal breve: ¿con los ojos cerrados, recorre mentalmente tu cuerpo de la cabeza a los pies. ¿Donde hay tensión? ¿Donde hay calor o frio? Donde hay sensación de apretamiento o de expansión? ¿Donde el cuerpo esta vivo y donde parece apagado? Sin intentar cambiar nada, solo observando. Este escaner es el punto de partida del trabajo somatico.
 
 El cuerpo que llevas sabe más de lo que tu mente cree saber. Aprender a escucharlo es aprender a escuchar al trauma que todavia no has procesado.
 
@@ -41,7 +41,7 @@ Ruben no entiende por qué a veces se paraliza completamente ante situaciones de
 
 El trauma, desde la perspectiva polivagal, produce que el sistema nervioso quede atascado en estados de movilización o inmovilización cronica, con dificultad para regresar al estado de compromiso social incluso cuando la amenaza objetiva ya no existe. El tratamiento del trauma, desde esta perspectiva, implica trabajar para restaurar la capacidad del sistema nervioso de moverse fluidamente entre los tres estados segun el contexto real.
 
-**Ejercicio inmediato:** Identifica cuales son tus patrones habituales de activación: tiendes a la hiperactivación (tensión cronica, irritabilidad, dificultad para relajarse, pensamiento acelerado) o a la hipoactivación (embotamiento, desconexion, dificultad para sentir, fatiga cronica)? Ambos patrones son el sistema nervioso atascado en un estado que fue adaptativo durante el trauma pero que ya no corresponde al presente.
+**Ejercicio inmediato:** Identifica cuales son tus patrones habituales de activación: ¿tiendes a la hiperactivación (tensión cronica, irritabilidad, dificultad para relajarse, pensamiento acelerado) o a la hipoactivación (embotamiento, desconexion, dificultad para sentir, fatiga cronica)? Ambos patrones son el sistema nervioso atascado en un estado que fue adaptativo durante el trauma pero que ya no corresponde al presente.
 
 El sistema nervioso que se atasca en la alarma no es defectuoso. Es un sistema que aprendió a sobrevivir en un entorno donde la alarma era constante. El reto es enseñarle que el entorno ha cambiado.
 
@@ -125,7 +125,7 @@ Ruben tiene dificultad con el contacto físico en ciertas formas: el abrazo ines
 
 Algunas modalidades terapeuticas incorporan el toque de forma terapeutica y con consentimiento explícito: la terapia sensoriomotriz de Pat Ogden, la Hakomi de Ron Kurtz, y otros enfoques de psicoterapia somatica. En estos contextos, el toque terapeutico (cuando es aplicado por un profesional formado y con el consentimiento explícito del paciente) puede facilitar el procesamiento del trauma y la renegociación de la relación con el cuerpo propio.
 
-**Ejercicio inmediato:** Observa tu propia relación con el contacto físico: hay tipos de toque que produces bienestar? Hay tipos que produces incomodidad o activación? La observación de estas preferencias y reacciones, sin juzgarlas, proporciona información sobre como el trauma ha afectado tu relación con el cuerpo y con el contacto.
+**Ejercicio inmediato:** Observa tu propia relación con el contacto físico: ¿hay tipos de toque que produces bienestar? ¿Hay tipos que produces incomodidad o activación? La observación de estas preferencias y reacciones, sin juzgarlas, proporciona información sobre como el trauma ha afectado tu relación con el cuerpo y con el contacto.
 
 El cuerpo que fue invadido aprende a defenderse del contacto. Pero el cuerpo también puede aprender que el contacto seguro existe. Esa distinción requiere práctica lenta y consciente.
 
@@ -153,7 +153,7 @@ Ruben ha aprendido que el trabajo completo con el trauma requiere tanto el proce
 
 Los mejores tratamientos del trauma son los que abordan multiples dimensiones: el EMDR trabaja con la narrativa cognitiva, las emociones, las cogniciones negativas, y las sensaciones corporales. El Somatic Experiencing trabaja con las sensaciones y los impulsos de movimiento. La terapia de apego trabaja con los patrones relacionales. La terapia de esquemas trabaja con las creencias nucleares. El trabajo completo frecuentemente requiere varios de estos enfoques en distintos momentos del proceso.
 
-**Ejercicio inmediato:** Reflexiona sobre tu proceso de sanación actual (si estas en uno): en que dimensiones estas trabajando (cognitiva, emocional, somatica, relacional) y en cual hay menos atención? La dimensión más descuidada es probablemente donde hay más potencial de avance. Pregunta a tu terapeuta si hay recursos específicos para trabajar esa dimensión.
+**Ejercicio inmediato:** Reflexiona sobre tu proceso de sanación actual (si estas en uno): ¿en que dimensiones estas trabajando (cognitiva, emocional, somatica, relacional) y en cual hay menos atención? La dimensión más descuidada es probablemente donde hay más potencial de avance. Pregunta a tu terapeuta si hay recursos específicos para trabajar esa dimensión.
 
 El trauma no vive solo en los pensamientos. Sanar el trauma requiere ir donde vive: en el cuerpo, en las emociones, y en las relaciones. Cualquier proceso que ignore alguna de estas dimensiones es un proceso incompleto.
 

@@ -125,7 +125,7 @@ Marcos ha implementado un sistema de seguimiento del programa de referidos que l
 
 La investigación de Referral Factory sobre los patrones de los programas de referidos más exitosos muestra que los programas con mayor ROI son los que tienen un mecanismo de seguimiento del origen del referido (para saber quien refiere a quien y poder agradecerlo adecuadamente) y los que reconocen activamente a los clientes que más refieren.
 
-**Ejercicio inmediato:** Esta semana, añade una pregunta a tu proceso de incorporación de nuevos clientes: como nos encontraste? Si la respuesta es recomendación de alguien, anota el nombre de quien refirie y el del nuevo cliente en un registro. Ese registro te permite en tres meses calcular cuantos clientes llegan por referidos, quienes son tus mejores promotores (los que más refieren), y que tipos de clientes son los que más refieren (lo que te dice que tipo de cliente cultivar para generar más referidos).
+**Ejercicio inmediato:** Esta semana, añade una pregunta a tu proceso de incorporación de nuevos clientes: ¿como nos encontraste? Si la respuesta es recomendación de alguien, anota el nombre de quien refirie y el del nuevo cliente en un registro. Ese registro te permite en tres meses calcular cuantos clientes llegan por referidos, quienes son tus mejores promotores (los que más refieren), y que tipos de clientes son los que más refieren (lo que te dice que tipo de cliente cultivar para generar más referidos).
 
 El promotor que más refiere es el cliente que más merece que le cuides. Si no sabes quien es, no puedes cuidarle específicamente.
 

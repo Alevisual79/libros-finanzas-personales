@@ -55,13 +55,13 @@ La escucha activa no es una postura. Es un estado. Y ese estado se construye con
 
 ## Capítulo 3: Escuchar sin juzgar
 
-Cuando Ruben le cuenta a su amigo que esta pensando en dejar su trabajo para montar algo propio, su amigo dice: eso es arriesgado, no? Antes de escuchar el resto. El juicio prematuro cierra la conversación antes de que empiece. Ruben guarda el resto para si mismo.
+Cuando Ruben le cuenta a su amigo que esta pensando en dejar su trabajo para montar algo propio, su amigo dice: ¿eso es arriesgado, no? Antes de escuchar el resto. El juicio prematuro cierra la conversación antes de que empiece. Ruben guarda el resto para si mismo.
 
 **El Principio de la Suspensión del Juicio:** Escuchar sin juzgar no significa estar de acuerdo con todo lo que el otro dice. Significa diferir el juicio hasta haber comprendido completamente. La evaluación prematura interrumpe la comprensión porque en cuanto formamos un juicio, dejamos de procesar información nueva: lo interpretamos todo a traves del filtro del juicio que ya hemos formado.
 
 Los estudios de Richard Boyatzis sobre el coaching efectivo muestran que los coaches que suspenden el juicio durante la escucha activan en el otro el sistema nervioso parasimpatico, que facilita la apertura y el pensamiento creativo. Los que juzgan prematuramente activan el sistema simpatico, que genera defensividad y cierre.
 
-**Ejercicio inmediato:** La próxima vez que alguien te cuente algo con lo que no estes de acuerdo de entrada, práctica escuchar el relato completo antes de responder. Solo cuando el otro haya terminado, pregunta: puedo hacerte una pregunta antes de decir lo que pienso? Ese intervalo cambia la calidad de lo que dices después.
+**Ejercicio inmediato:** La próxima vez que alguien te cuente algo con lo que no estes de acuerdo de entrada, práctica escuchar el relato completo antes de responder. Solo cuando el otro haya terminado, pregunta: ¿puedo hacerte una pregunta antes de decir lo que pienso? Ese intervalo cambia la calidad de lo que dices después.
 
 El juicio que expresas antes de escuchar no es opinión. Es ruido que interrumpe la conexión.
 
@@ -97,13 +97,13 @@ Escuchar lo que se dice sin escuchar cómo se siente el otro es la mitad de la e
 
 ## Capítulo 6: Preguntas que abren vs preguntas que cierran
 
-Como va el fin de semana? Bien. Que hiciste? Pues fui al cine. Solo? Si. Esta bien. Esa conversación no lleva a ninguna parte porque las preguntas no abren nada. Y sin apertura no hay conexión.
+Como va el fin de semana? ¿Bien. ¿Que hiciste? Pues fui al cine. Solo? Si. Esta bien. Esa conversación no lleva a ninguna parte porque las preguntas no abren nada. Y sin apertura no hay conexión.
 
-**El Principio de la Pregunta como Invitación:** Las preguntas cerradas son eficientes para obtener datos. Las preguntas abiertas son eficientes para construir conexión. Que te parecio la pelicula es mejor que te gusto? Que fue lo más sorprendente del fin de semana es mejor que como fue el fin de semana? Las preguntas abiertas invitan al otro a pensar y a compartir en lugar de solo confirmar.
+**El Principio de la Pregunta como Invitación:** Las preguntas cerradas son eficientes para obtener datos. Las preguntas abiertas son eficientes para construir conexión. ¿Que te parecio la pelicula es mejor que te gusto? ¿Que fue lo más sorprendente del fin de semana es mejor que como fue el fin de semana? Las preguntas abiertas invitan al otro a pensar y a compartir en lugar de solo confirmar.
 
 Arthur Aron diseño el famoso experimento de las 36 preguntas en que dos extraños se hacían preguntas progresivamente más profundas. El nivel de conexión que alcanzaban en 45 minutos equivalia a años de conocerse superficialmente. Las preguntas correctas son el atajo a la intimidad.
 
-**Ejercicio inmediato:** Durante esta semana, en cada conversación con alguien que te importe, práctica hacer una pregunta de segundo nivel después de la primera respuesta. Como estas? Bien, con mucho trabajo. Que es lo que más te cuesta de esa carga? El segundo nivel es donde empieza la conversación real.
+**Ejercicio inmediato:** Durante esta semana, en cada conversación con alguien que te importe, práctica hacer una pregunta de segundo nivel después de la primera respuesta. ¿Como estas? ¿Bien, con mucho trabajo. ¿Que es lo que más te cuesta de esa carga? El segundo nivel es donde empieza la conversación real.
 
 La calidad de las preguntas que haces determina la calidad de las conversaciones que tienes.
 
@@ -131,7 +131,7 @@ Cuando Ruben dice que todo esta bien con su jefa pero su postura se cierra y su 
 
 Daniel Stern llamó a esto la sintonización afectiva: la capacidad de resonar con el estado interno del otro más allá de las palabras que usa. Los terapeutas expertos, los padres atentos y las personas con alta inteligencia emocional tienen esta capacidad desarrollada. No es magia. Es atención entrenada.
 
-**Ejercicio inmediato:** En tu próxima conversación significativa, presta atención a dos cosas ademas de las palabras: el tono de voz y la postura corporal. Cuando detectes una incongruencia entre lo que se dice y cómo se dice, pregunta suavemente: noto que algo más esta pasando, estoy equivocado? La pregunta abre el segundo nivel de la conversación.
+**Ejercicio inmediato:** En tu próxima conversación significativa, presta atención a dos cosas ademas de las palabras: el tono de voz y la postura corporal. Cuando detectes una incongruencia entre lo que se dice y cómo se dice, pregunta suavemente: ¿noto que algo más esta pasando, estoy equivocado? La pregunta abre el segundo nivel de la conversación.
 
 Las palabras dicen lo que el otro quiere decir. El cuerpo dice lo que siente.
 

@@ -23,7 +23,7 @@ Isabel tiene ochocientos seguidores en Instagram. Tiene dos personas a las que p
 
 Las plataformas de redes sociales han transformado fundamentalmente la forma en que se inician, mantienen y perciben las amistades, con efectos que combinan beneficios reales con costos significativos poco reconocidos.
 
-**El Principio de la Transformación de la Fricción Social:** Las redes sociales han reducido drasticamente la fricción necesaria para mantener contacto superficial con un número grande de personas, lo que permite mantener conexiones de baja intensidad que de otra forma se habrian perdido completamente. Sin embargo, esta misma reducción de fricción puede sustituir, en lugar de complementar, la inversión de mayor esfuerzo que las amistades profundas requieren, generando una ilusión de conexión amplia que no se traduce en apoyo real disponible.
+**El Principio de la Transformación de la Fricción Social:** Las redes sociales han reducido drasticamente la fricción necesaria para mantener contacto superficial con un número grande de personas, lo que permite mantener conexiones de baja intensidad que de otra forma se habrían perdido completamente. Sin embargo, esta misma reducción de fricción puede sustituir, en lugar de complementar, la inversión de mayor esfuerzo que las amistades profundas requieren, generando una ilusión de conexión amplia que no se traduce en apoyo real disponible.
 
 **Ejercicio inmediato:** Cuenta cuantas personas en tus redes sociales podrías contactar genuinamente en una crisis real, versus el número total de tus contactos o seguidores. Esa proporción es la medida real de tu capital social, no el número total.
 
@@ -49,7 +49,7 @@ Paradojicamente, las plataformas diseñadas para conectar a las personas pueden,
 
 **El Principio de la Conexion Pasiva Insuficiente:** La investigación distingue entre el uso activo de redes sociales (interacción directa, mensajes personales, comentarios sustantivos) y el uso pasivo (deslizar y observar contenido sin interactuar). El uso pasivo se asocia consistentemente con mayores niveles de soledad y menor bienestar, mientras el uso activo, cuando se dirige a relaciones ya significativas, puede tener efectos neutros o incluso positivos.
 
-**Ejercicio inmediato:** Evalua tu propio patron de uso de redes sociales: que proporción es observación pasiva de contenido ajeno versus interacción activa y personal con personas que te importan? Considera reducir lo primero y aumentar lo segundo.
+**Ejercicio inmediato:** Evalua tu propio patron de uso de redes sociales: ¿que proporción es observación pasiva de contenido ajeno versus interacción activa y personal con personas que te importan? Considera reducir lo primero y aumentar lo segundo.
 
 Mirar la vida de otros en una pantalla no te conecta con ellos. Hablar con ellos directamente, si.
 
@@ -97,7 +97,7 @@ Los grupos de mensajeria, especialmente los grandes y de actividad constante, pr
 
 **El Principio del Volumen vs la Calidad del Mensaje:** Los grupos de mensajeria con alto volumen de mensajes triviales (memes, comentarios sin sustancia) pueden generar la sensación de estar conectado sin la profundidad real de conexión, mientras que ese mismo volumen de notificaciones puede generar fatiga y, en ocasiones, evitación del grupo completo, incluyendo de los mensajes que si tienen valor de conexión real.
 
-**Ejercicio inmediato:** Evalua los grupos de mensajeria a los que perteneces. Cuales aportan conexión real (coordinación útil, conversaciones significativas) y cuales son principalmente ruido? Considera silenciar o salir de los que generan más fatiga que valor.
+**Ejercicio inmediato:** Evalua los grupos de mensajeria a los que perteneces. ¿Cuales aportan conexión real (coordinación útil, conversaciones significativas) y cuales son principalmente ruido? Considera silenciar o salir de los que generan más fatiga que valor.
 
 Un grupo de WhatsApp lleno de mensajes no es lo mismo que un grupo de amigos conectados. El volumen no es profundidad.
 

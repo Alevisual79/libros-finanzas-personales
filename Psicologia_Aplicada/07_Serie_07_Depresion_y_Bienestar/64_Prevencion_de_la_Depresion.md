@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel ha salido de su segundo episodio depresivo y tiene una certeza: no quiere un tercero. Su psicologo le ha explicado que cada episodio depresivo aumenta el riesgo de un siguiente y que la prevención activa es posible. Pero Isabel no sabe exactamente que significa prevenir la depresión en la práctica: es solo no tener estres? es tomar medicación de por vida? es algo más específico? Este libro es sobre las estrategias que la investigación ha demostrado que reducen el riesgo de nuevos episodios depresivos, con la evidencia de cada una.
+Isabel ha salido de su segundo episodio depresivo y tiene una certeza: no quiere un tercero. Su psicologo le ha explicado que cada episodio depresivo aumenta el riesgo de un siguiente y que la prevención activa es posible. Pero Isabel no sabe exactamente que significa prevenir la depresión en la práctica: ¿es solo no tener estres? es tomar medicación de por vida? es algo más específico? Este libro es sobre las estrategias que la investigación ha demostrado que reducen el riesgo de nuevos episodios depresivos, con la evidencia de cada una.
 
 ---
 
@@ -23,11 +23,11 @@ Isabel ha salido de su segundo episodio depresivo y tiene una certeza: no quiere
 
 La depresión tiene una logica de escalada que hace que la prevención sea más urgente de lo que parece.
 
-**El Principio del Kindling como Razon para la Prevención Proactiva:** Robert Post propone el modeló del kindling (encendido) para explicar la progresión de los episodios depresivos: los primeros episodios depresivos requieren precipitantes significativos (perdidas importantes, estresores mayores), pero con cada episodio sucesivo, los umbrales se reducen y la depresión puede activarse con estresores menores o incluso autonomamente. Este fenómeno, bien documentado en el trastorno bipolar pero también observable en la depresión unipolar, hace que la prevención de los primeros episodios (en personas con vulnerabilidad) y de los episodios subsiguientes (en personas con historia de episodios) sea una prioridad clinica.
+**El Principio del Kindling como Razon para la Prevención Proactiva:** Robert Post propone el modelo del kindling (encendido) para explicar la progresión de los episodios depresivos: los primeros episodios depresivos requieren precipitantes significativos (perdidas importantes, estresores mayores), pero con cada episodio sucesivo, los umbrales se reducen y la depresión puede activarse con estresores menores o incluso autonomamente. Este fenómeno, bien documentado en el trastorno bipolar pero también observable en la depresión unipolar, hace que la prevención de los primeros episodios (en personas con vulnerabilidad) y de los episodios subsiguientes (en personas con historia de episodios) sea una prioridad clinica.
 
 La investigación de John Teasdale y colegas que condujo al desarrollo de la MBCT parte de esta observación: en personas con tres o más episodios, el riesgo de recaida alcanza el 80% en los cinco años siguientes, y la intervención preventiva específica es más efectiva que confiar en que el siguiente episodio no ocurra.
 
-**Ejercicio inmediato:** Si has tenido un episodio depresivo, reflexiona: que factores precipitantes lo desencadenaron? Hay patrones comunes entre tus episodios (ciertos tipos de estresores, ciertos períodos del año, ciertas dinámicas relacionales)? Identificar esos patrones es el mapa de dónde centrar la prevención.
+**Ejercicio inmediato:** Si has tenido un episodio depresivo, reflexiona: ¿que factores precipitantes lo desencadenaron? ¿Hay patrones comunes entre tus episodios (ciertos tipos de estresores, ciertos períodos del año, ciertas dinámicas relacionales)? Identificar esos patrones es el mapa de dónde centrar la prevención.
 
 La depresión que conoces bien puede prevenirse mejor que la que te sorprende. El mapa de tus episodios anteriores es la guia para los que podrían venir.
 
@@ -69,7 +69,7 @@ Ruben duerme mal habitualmente y lo acepta como parte de su vida. La investigaci
 
 Los estudios prospectivos de Eus Van Someren y colegas muestran que el insomnio cronico es uno de los predictores más robustos del primer episodio de depresión mayor en personas sin historia de trastorno mental. La relación es bidireccional: el insomnio aumenta el riesgo de depresión, y la depresión produce insomnio. Pero también significa que el tratamiento del insomnio (TCC-I) puede prevenir el desarrollo de la depresión en personas con insomnio cronico.
 
-**Ejercicio inmediato:** Evalua la calidad de tu sueño habitual: cuantas horas duermes? Te despiertas descansado? Tienes dificultades para quedarte dormido o te despiertas en medio de la noche? Si el insomnio es un problema habitual, tratarlo no es solo por el bienestar inmediato: es una inversión en la prevención de la depresión.
+**Ejercicio inmediato:** Evalua la calidad de tu sueño habitual: ¿cuantas horas duermes? ¿Te despiertas descansado? Tienes dificultades para quedarte dormido o te despiertas en medio de la noche? Si el insomnio es un problema habitual, tratarlo no es solo por el bienestar inmediato: es una inversión en la prevención de la depresión.
 
 El sueño que le niegas a tu cerebro no es solo una noche de descanso. Es una dosis de la sustancia que más protege tu salud mental. Y es la unica que no puedes almacenar.
 
@@ -83,7 +83,7 @@ Isabel ha descubierto que sus episodios depresivos ocurren invariablemente despu
 
 La investigación de George Vaillant en el Estudio Longitudinal de Harvard (seguimiento de setenta y cinco años) identifica la calidad de las relaciones como el predictor más robusto de bienestar en la vejez, más que los ingresos, la inteligencia, o el estatus social. Las relaciones de calidad no solo hacen la vida más agradable: cambian la biología de forma que protege la salud mental.
 
-**Ejercicio inmediato:** Evalua la calidad de tu conexión social habitual: cuantas relaciones tienes donde puedes ser honesto sobre como te va realmente? Cuantas interacciones sociales genuinas (no transaccionales) tienes a la semana? Si la respuesta a cualquiera de esas preguntas es muy baja, invertir en construir o mantener conexiones sociales es una de las inversiones preventivas con mayor retorno.
+**Ejercicio inmediato:** Evalua la calidad de tu conexión social habitual: ¿cuantas relaciones tienes donde puedes ser honesto sobre como te va realmente? ¿Cuantas interacciones sociales genuinas (no transaccionales) tienes a la semana? Si la respuesta a cualquiera de esas preguntas es muy baja, invertir en construir o mantener conexiones sociales es una de las inversiones preventivas con mayor retorno.
 
 Las relaciones no son complementos de la vida: son infraestructura de la salud mental. Y la infraestructura que no se mantiene se deteriora.
 
@@ -125,7 +125,7 @@ Ruben ha notado que los períodos de mayor sentido en su vida son también los d
 
 La investigación de Carol Ryff sobre el bienestar psicológico identifica el sentido de proposito como uno de los seis componentes del bienestar que más robustamente predice la salud mental a largo plazo. Las personas con mayor sentido de proposito muestran menor inflamación sistemica, mejor sueño, y menor declive cognitivo en la vejez.
 
-**Ejercicio inmediato:** Reflexiona sobre las actividades en tu vida actual que te producen la mayor sensación de que lo que haces importa. Cuanto tiempo de tu semana ocupan esas actividades? La respuesta a esa pregunta te dice cuanto espacio tiene el sentido en tu vida cotidiana. Aumentar ese espacio, aunque sea incrementalmente, es una forma de construir resiliencia.
+**Ejercicio inmediato:** Reflexiona sobre las actividades en tu vida actual que te producen la mayor sensación de que lo que haces importa. ¿Cuanto tiempo de tu semana ocupan esas actividades? La respuesta a esa pregunta te dice cuanto espacio tiene el sentido en tu vida cotidiana. Aumentar ese espacio, aunque sea incrementalmente, es una forma de construir resiliencia.
 
 El proposito que da sentido a lo que vives no te protege de las dificultades. Te da las razones para atravesarlas.
 
@@ -139,7 +139,7 @@ Isabel ha aprendido a monitorizar su estado de animo como parte de su estrategia
 
 Las aplicaciones de monitorización del estado de animo (mood tracking) permiten registrar diariamente el estado de animo y los sintomas relevantes, generando un patron que hace visibles las señales de alerta tempranas que la memoria no retiene bien.
 
-**Ejercicio inmediato:** Diseña tu plan de detección temprana: cuales son las tres primeras señales que indican que tu estado de animo esta deteriorandose (cambios en el sueño, en el apetito, en el nivel de actividad, en los pensamientos, en las relaciones)? Cuando aparecen esas señales, cuales son los dos primeros pasos que daras (contactar con tu psicologo, incrementar el ejercicio, activar tu red de apoyo)? Tener ese plan antes de necesitarlo es la clave.
+**Ejercicio inmediato:** Diseña tu plan de detección temprana: ¿cuales son las tres primeras señales que indican que tu estado de animo esta deteriorandose (cambios en el sueño, en el apetito, en el nivel de actividad, en los pensamientos, en las relaciones)? ¿Cuando aparecen esas señales, cuales son los dos primeros pasos que daras (contactar con tu psicologo, incrementar el ejercicio, activar tu red de apoyo)? Tener ese plan antes de necesitarlo es la clave.
 
 El episodio depresivo que detectas cuando comienza es más facil de interrumpir que el que detectas cuando ya esta establecido.
 
@@ -149,11 +149,11 @@ El episodio depresivo que detectas cuando comienza es más facil de interrumpir 
 
 Isabel ha llegado a entender que la prevención de la depresión no es una lista de cosas que hacer cada dia sino un modo de diseñar la vida que minimiza la vulnerabilidad y maximiza la resiliencia.
 
-**El Principio del Diseno de Vida como Estrategia Preventiva Integral:** Martin Seligman propone en su modeló de la vida floreciente (flourishing) que el bienestar sostenido no es el resultado de estrategias puntuales sino del diseño de una vida que incluye elementos suficientes de cada uno de los componentes del bienestar: emociones positivas regulares, actividades de compromiso profundo, relaciones de calidad, sentido de proposito, y experiencias de logró.
+**El Principio del Diseno de Vida como Estrategia Preventiva Integral:** Martin Seligman propone en su modelo de la vida floreciente (flourishing) que el bienestar sostenido no es el resultado de estrategias puntuales sino del diseño de una vida que incluye elementos suficientes de cada uno de los componentes del bienestar: emociones positivas regulares, actividades de compromiso profundo, relaciones de calidad, sentido de proposito, y experiencias de logró.
 
 Este diseño no elimina la vulnerabilidad a la depresión para las personas que la tienen. Pero crea un suelo más sólido que absorbe mejor los golpes y reduce la amplitud de las oscilaciones.
 
-**Ejercicio inmediato:** Evalua tu vida actual en los cinco componentes del modeló PERMA de Seligman: emociones positivas (cuantas experiencias positivas tienes regularmente?), compromiso (cuantas actividades de flow o absorción completa?), relaciones (cuantas relaciones de calidad?), sentido (cuanto proposito sientes en lo que haces?), y logró (cuantas experiencias de competencia y progreso?). El componente más debil es donde la inversión preventiva tiene mayor retorno.
+**Ejercicio inmediato:** Evalua tu vida actual en los cinco componentes del modelo PERMA de Seligman: ¿emociones positivas (cuantas experiencias positivas tienes regularmente?), compromiso (cuantas actividades de flow o absorción completa?), relaciones (cuantas relaciones de calidad?), sentido (cuanto proposito sientes en lo que haces?), y logró (cuantas experiencias de competencia y progreso?). El componente más debil es donde la inversión preventiva tiene mayor retorno.
 
 La vida que protege tu mente no se diseña de una vez. Se construye, decisión a decisión, habito a habito, relación a relación. Y ese trabajo no termina nunca, que es lo mismo que decir que siempre hay algo que se puede mejorar.
 
@@ -161,7 +161,7 @@ La vida que protege tu mente no se diseña de una vez. Se construye, decisión a
 
 ## Epílogo
 
-Isabel tiene un diario de humor que revisa cada mañana. Cuando ve la linea bajar durante tres dias seguidos, activa su protocolo: llama a su psicologa, sale a caminar, y contacta con una amiga de confianza. En dos ocasiones en los últimos dieciocho meses, ese protocolo ha interrumpido lo que podría haber sido un tercer episodio completo. No sabe con certeza si lo habria sido. Pero sabe que, por primera vez desde que tiene episodios, no se siente indefensa ante el próximo.
+Isabel tiene un diario de humor que revisa cada mañana. Cuando ve la linea bajar durante tres dias seguidos, activa su protocolo: llama a su psicologa, sale a caminar, y contacta con una amiga de confianza. En dos ocasiones en los últimos dieciocho meses, ese protocolo ha interrumpido lo que podría haber sido un tercer episodio completo. No sabe con certeza si lo habría sido. Pero sabe que, por primera vez desde que tiene episodios, no se siente indefensa ante el próximo.
 
 ---
 

@@ -27,7 +27,7 @@ Todos tenemos una versión pública de nosotros mismos que difiere en algun grad
 
 El problema no es que exista la presentación pública del yo. Es cuando la diferencia entre el yo público y el yo privado es tan grande que la persona ya no se reconoce en su versión pública, cuando la energía dedicada a mantener la fachada es agotadora, o cuando el yo privado nunca tiene espacio para existir fuera de la soledad.
 
-**Ejercicio inmediato:** Evalua la diferencia entre tu yo público y tu yo privado: en que dimensiones principales difieren? Que aspectos de ti mismo nunca o casi nunca muestras en público? Esa lista es el mapa del yo que mantienes oculto y que podría tener valor si encontrara espacio para existir con más personas.
+**Ejercicio inmediato:** Evalua la diferencia entre tu yo público y tu yo privado: ¿en que dimensiones principales difieren? ¿Que aspectos de ti mismo nunca o casi nunca muestras en público? Esa lista es el mapa del yo que mantienes oculto y que podría tener valor si encontrara espacio para existir con más personas.
 
 Todos tenemos un yo público. El problema es cuando el público no tiene acceso a ningún aspecto del privado.
 
@@ -83,7 +83,7 @@ Ruben cambia quien es segun el grupo social en el que esta. No en el sentido de 
 
 Brene Brown concluye, basandose en su investigación cualitativa, que la verdadera pertenencia es paradojica: no requiere que seamos como los demás del grupo. Requiere que seamos nosotros mismos suficientemente para qué nuestra presencia genuina pueda ser recibida y aceptada.
 
-**Ejercicio inmediato:** Identifica un grupo social (profesional, familiar, de amigos) donde ajustas quien eres para encajar. Identifica específicamente que ajustas: que opiniones no dices, que valores ocultas, que aspectos de ti mismo no muestras. Luego pregunta: si ese grupo supiera esos aspectos de ti, los excluiria? La respuesta honesta frecuentemente revela que el miedo al rechazó es mayor que el riesgo real.
+**Ejercicio inmediato:** Identifica un grupo social (profesional, familiar, de amigos) donde ajustas quien eres para encajar. Identifica específicamente que ajustas: que opiniones no dices, que valores ocultas, que aspectos de ti mismo no muestras. Luego pregunta: ¿si ese grupo supiera esos aspectos de ti, los excluiria? La respuesta honesta frecuentemente revela que el miedo al rechazó es mayor que el riesgo real.
 
 El grupo que te acepta solo cuando eres quien no eres no te acepta a ti. El grupo que podría aceptarte tal como eres es el que vale la pena buscar.
 
@@ -121,11 +121,11 @@ La autenticidad no es un interruptor de todo o nada. Es un dimmer que ajustas se
 
 Elena esta en un espectro entre dos extremos: por un lado hay personas que no necesitan ninguna aprobación de nadie (y que frecuentemente son percibidas como arrogantes o insensibles al impacto de sus acciones); por el otro, hay personas que necesitan aprobación constante de todos para funcionar (y que viven con ansiedad cronica). El punto optimo esta en alguna parte entre los dos.
 
-**El Principio de la Necesidad Moderada de Aprobación como Normal y Funcional:** Mark Leary, con su modeló del sociometro, propone que la autoestima evolucionó precisamente para monitorizar el grado de aceptación social: una persona completamente indiferente a la aprobación de los demás tenderia a comportarse de formas que la excluirian del grupo, lo que en el entorno ancestral era un riesgo de supervivencia. Una necesidad moderada de aprobación es adaptativa y normal.
+**El Principio de la Necesidad Moderada de Aprobación como Normal y Funcional:** Mark Leary, con su modelo del sociometro, propone que la autoestima evolucionó precisamente para monitorizar el grado de aceptación social: una persona completamente indiferente a la aprobación de los demás tenderia a comportarse de formas que la excluirian del grupo, lo que en el entorno ancestral era un riesgo de supervivencia. Una necesidad moderada de aprobación es adaptativa y normal.
 
 El problema surge cuando la necesidad de aprobación se vuelve tan intensa que determina las decisiones importantes: que trabajos se aceptan, que opiniones se expresan, que relaciones se buscan. En ese punto, la necesidad de aprobación ha dejado de ser una señal de ajuste social y se ha convertido en un limitador de la autonomía y la autenticidad.
 
-**Ejercicio inmediato:** Evalua tu necesidad de aprobación en una dimensión específica: cuando tomas decisiones importantes en tu vida, cuanto peso tiene la pregunta que pensaran otros sobre esta decisión? Si el peso es mayor que el de tu propia evaluación de lo que quieres y necesitas, la necesidad de aprobación esta limitando tu autonomía.
+**Ejercicio inmediato:** Evalua tu necesidad de aprobación en una dimensión específica: ¿cuando tomas decisiones importantes en tu vida, cuanto peso tiene la pregunta que pensaran otros sobre esta decisión? Si el peso es mayor que el de tu propia evaluación de lo que quieres y necesitas, la necesidad de aprobación esta limitando tu autonomía.
 
 Importar lo que los demás piensan es normal. Que eso sea más importante que lo que tu piensas, no lo es.
 
@@ -139,7 +139,7 @@ Ruben sabe que si se muestra más autenticamente habrá personas que no lo acept
 
 Brene Brown propone que el coraje de ser autentico incluye el coraje de ser rechazado por esa autenticidad. La alternativa, ser aceptado por una versión del yo que no es genuina, es una forma de soledad particularmente dolorosa: la persona que no es vista nunca puede ser verdaderamente aceptada. El rechazó de quien realmente se es, aunque duela, proporciona información sobre el ajuste entre ese yo y ese grupo o persona. El rechazó de quien no se es no dice nada sobre el yo real.
 
-**Ejercicio inmediato:** Recuerda un rechazó o crítica que hayas recibido en el pasado cuando fuiste más autentico de lo habitual. Que aprendiste de ese rechazó sobre la compatibilidad entre tu y el contexto donde ocurrio? La reinterpretación del rechazó como información sobre el ajuste en lugar de como juicio sobre el valor puede reducir su impacto en la disposición a ser autentico en el futuro.
+**Ejercicio inmediato:** Recuerda un rechazó o crítica que hayas recibido en el pasado cuando fuiste más autentico de lo habitual. ¿Que aprendiste de ese rechazó sobre la compatibilidad entre tu y el contexto donde ocurrio? La reinterpretación del rechazó como información sobre el ajuste en lugar de como juicio sobre el valor puede reducir su impacto en la disposición a ser autentico en el futuro.
 
 Que alguien no te quiera porque eres quien genuinamente eres es más llevadero que que te quieran por quien finges ser.
 
@@ -147,7 +147,7 @@ Que alguien no te quiera porque eres quien genuinamente eres es más llevadero q
 
 ## Capítulo 10: Quererte en público: una práctica de toda la vida
 
-Isabel ha empezado a hacer algo pequeño pero significativo: en conversaciones donde normalmente habria dejado pasar sin comentar, expresa ahora una opinión genuina. No para provocar, sino porque esa opinión es suya y merece existir en el espacio compartido. La reacción no siempre es la que espera. Pero la sensación de haber estado presente, de haber existido de verdad en esa conversación en lugar de haber sido un espejo de lo que los demás querían escuchar, tiene un valor que no había podido medir hasta que lo experimento.
+Isabel ha empezado a hacer algo pequeño pero significativo: en conversaciones donde normalmente habría dejado pasar sin comentar, expresa ahora una opinión genuina. No para provocar, sino porque esa opinión es suya y merece existir en el espacio compartido. La reacción no siempre es la que espera. Pero la sensación de haber estado presente, de haber existido de verdad en esa conversación en lugar de haber sido un espejo de lo que los demás querían escuchar, tiene un valor que no había podido medir hasta que lo experimento.
 
 **El Principio del Mostrar como práctica Gradual y Valiente:** Brene Brown propone que la vulnerabilidad autentica es un musculo que se desarrolla con la práctica: cada vez que se muestra un aspecto genuino del yo en un contexto de riesgo moderado y la experiencia resulta tolerable, la capacidad de volver a hacerlo aumenta. No se empieza con la mayor vulnerabilidad. Se empieza con un paso pequeño que es real pero manejable.
 
@@ -161,7 +161,7 @@ Mostrarte no significa exponerte a cualquier precio. Significa no desaparecer co
 
 ## Epílogo
 
-Ruben en su próxima reunión de equipo dijo algo que le parecia genuinamente importante pero que antes habria callado porque no estaba seguro de que fuera bienvenido. La reacción fue interesante: uno de sus colegas discrepo, otro estuvo de acuerdo, y la conversación que siguio fue la más sustantiva que había tenido en meses en ese contexto. El Ruben que había callado habria evitado la posible discrepancia y se habria perdido también la conexión real. Ese dia aprendió algo que ninguna teoria podía haberle ensenado de la misma forma: que mostrarse tiene riesgos, si, pero que no mostrarse también los tiene. Y que los segundos son más silenciosos y más costosos.
+Ruben en su próxima reunión de equipo dijo algo que le parecia genuinamente importante pero que antes habría callado porque no estaba seguro de que fuera bienvenido. La reacción fue interesante: uno de sus colegas discrepo, otro estuvo de acuerdo, y la conversación que siguio fue la más sustantiva que había tenido en meses en ese contexto. El Ruben que había callado habría evitado la posible discrepancia y se habría perdido también la conexión real. Ese dia aprendió algo que ninguna teoria podía haberle ensenado de la misma forma: que mostrarse tiene riesgos, si, pero que no mostrarse también los tiene. Y que los segundos son más silenciosos y más costosos.
 
 ---
 

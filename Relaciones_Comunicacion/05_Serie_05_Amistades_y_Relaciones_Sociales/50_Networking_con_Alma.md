@@ -21,7 +21,7 @@ Elena odia el networking. Lo llama intercambio de tarjetas sin sentido, una actu
 
 ## Capítulo 1: Por qué el networking tradicional falla
 
-El modeló tradicional de networking, centrado en el intercambio rápido de tarjetas y la acumulación de contactos, falla sistemáticamente en producir relaciones profesionales de valor real, a pesar de ser la forma más común en que se práctica.
+El modelo tradicional de networking, centrado en el intercambio rápido de tarjetas y la acumulación de contactos, falla sistemáticamente en producir relaciones profesionales de valor real, a pesar de ser la forma más común en que se práctica.
 
 **El Principio de la Cantidad sin Profundidad:** La investigación sobre redes profesionales efectivas muestra consistentemente que el número de contactos acumulados predice poco sobre el valor real de una red profesional, mientras que la profundidad y la calidad de un número menor de relaciones predice significativamente mejor el acceso a oportunidades, información y apoyo profesional a largo plazo.
 

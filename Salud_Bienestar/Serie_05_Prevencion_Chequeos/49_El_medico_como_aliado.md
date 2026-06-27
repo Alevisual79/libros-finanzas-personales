@@ -198,9 +198,9 @@ Los datos de los wearables son más útiles para tendencias a lo largo del tiemp
 El sistema sanitario español tiene fortalezas notables: cobertura universal, atención primaria relativamente accesible, costes controlados. También tiene limitaciones: sobrecarga, listas de espera, tiempo de consulta insuficiente.
 
 Otros sistemas tienen aproximaciones diferentes:
-- El modeló escandinavo: mayor tiempo de consulta, mayor énfasis en la decisión compartida
-- El modeló anglosajón: mayor cultura de la segunda opinión, mayor participación del paciente
-- El modeló japonés: cultura de revisión médica preventiva muy arraigada
+- El modelo escandinavo: mayor tiempo de consulta, mayor énfasis en la decisión compartida
+- El modelo anglosajón: mayor cultura de la segunda opinión, mayor participación del paciente
+- El modelo japonés: cultura de revisión médica preventiva muy arraigada
 
 Lo que el paciente español puede adoptar, independientemente del sistema:
 - La preparación de la consulta

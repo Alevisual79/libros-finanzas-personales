@@ -35,7 +35,7 @@ Ninguno de los dos esta equivocado. Las dos experiencias reflejan patrones reale
 
 Esta diferencia, cuando no se entiende, produce uno de los conflictos más frecuentes en la pareja: uno dice que no puede tener sexo cuando hay distancia emocional, el otro dice que no puede reconectar emocionalmente sin la intimidad física primero. El conflicto no es sobre el sexo. Es sobre la dirección del camino hacía la conexión.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propio patron: necesitas sentirte emocionalmente conectado antes de desear sexualmente a tu pareja, o el sexo es para ti una via de acceso a la conexión emocional? Luego reflexiona sobre el patron de tu pareja. Si son diferentes, esa es la conversación que abre la comprensión mutua.
+**Ejercicio inmediato:** Reflexiona sobre tu propio patron: ¿necesitas sentirte emocionalmente conectado antes de desear sexualmente a tu pareja, o el sexo es para ti una via de acceso a la conexión emocional? Luego reflexiona sobre el patron de tu pareja. Si son diferentes, esa es la conversación que abre la comprensión mutua.
 
 El camino de vuelta a la conexión en la pareja es diferente para cada persona. Saber cual es el tuyo y cual es el del otro lo cambia todo.
 
@@ -63,7 +63,7 @@ Casi todas las parejas largas tienen en algun momento una brecha de deseo: uno q
 
 La gestión efectiva de la brecha requiere que ambos la entiendan cómo una diferencia que se negocia y no cómo una deficiencia de ninguno, que el de mayor deseo aprenda a no interpreta el no como rechazó global, y que el de menor deseo encuentre formas de mantener la conexión intima aunque la frecuencia sexual no sea la que el otro preferiria.
 
-**Ejercicio inmediato:** Si hay una brecha de deseo en tu relación, ten la conversación sobre ella fuera de un momento en que el rechazó ya ha ocurrido. En un momento de calma, la pregunta es: como gestionamos la diferencia de forma que ninguno de los dos se sienta mal? Esa conversación es la que produce acuerdos en lugar de patrones de culpa y presión.
+**Ejercicio inmediato:** Si hay una brecha de deseo en tu relación, ten la conversación sobre ella fuera de un momento en que el rechazó ya ha ocurrido. En un momento de calma, la pregunta es: ¿como gestionamos la diferencia de forma que ninguno de los dos se sienta mal? Esa conversación es la que produce acuerdos en lugar de patrones de culpa y presión.
 
 La brecha de deseo no es el problema. El silencio sobre la brecha de deseo es el problema.
 
@@ -105,7 +105,7 @@ Cuando el estres sube, el sexo suele ser lo primero en desaparecer de la agenda 
 
 Esto tiene implicaciones prácticas: en períodos de alto estres (trabajo intenso, problemas de salud, crisis financieras), la vida sexual de la pareja suele deteriorarse. La clave no es exigir que el deseo aparezca a pesar del estres sino crear condiciones que reduzcan el estres antes de intentar conectar intimamente.
 
-**Ejercicio inmediato:** La próxima vez que haya poca actividad sexual en tu pareja por estres, identifica el origen del estres y pregunta: que podría hacer yo para reducir la carga del otro esta semana? Una hora menos de carga puede ser más eficaz para la vida sexual que cualquier técnica de seducción.
+**Ejercicio inmediato:** La próxima vez que haya poca actividad sexual en tu pareja por estres, identifica el origen del estres y pregunta: ¿que podría hacer yo para reducir la carga del otro esta semana? Una hora menos de carga puede ser más eficaz para la vida sexual que cualquier técnica de seducción.
 
 Lo que le devuelve el deseo al otro no siempre es lo que pasa en el dormitorio. A veces es lo que pasa en el resto de la vida.
 
@@ -119,7 +119,7 @@ Los roles de genero que cada persona ha internalizado a lo largo de su vida apar
 
 El trabajo con los guiones sexuales en la pareja consiste en hacerlos conscientes: identificar que expectativas hay en cada uno sobre como debe ser el sexo en la pareja, y separar las que son verdaderamente propias de las que son culturales pero no sirven a la satisfacción real de ninguno.
 
-**Ejercicio inmediato:** Reflexiona sobre una expectativa no dicha que tienes sobre como debe ser la vida sexual en tu pareja. De dónde viene esa expectativa? La absorbiste de la cultura, de tu familia de origen, de relaciones anteriores? La pregunta no es para eliminar la expectativa sino para evaluarla: sigue siendo la que quieres tener?
+**Ejercicio inmediato:** Reflexiona sobre una expectativa no dicha que tienes sobre como debe ser la vida sexual en tu pareja. De dónde viene esa expectativa? ¿La absorbiste de la cultura, de tu familia de origen, de relaciones anteriores? La pregunta no es para eliminar la expectativa sino para evaluarla: ¿sigue siendo la que quieres tener?
 
 Lo que crees que debe ser el sexo en la pareja no siempre es lo que quieres que sea.
 

@@ -41,7 +41,7 @@ Elena evita los proyectos ambiciosos en su trabajo. Acepta tareas donde esta seg
 
 Brown propone que el miedo al fracaso es inseparable del miedo a la verguenza: el fracaso duele principalmente por la historia que nos contamos sobre lo que significa que los demás sepan que fracasamos. El antídoto que Brown propone no es el éxito sino la vulnerabilidad: la disposición a intentar cosas importantes aunque puedan salir mal, con la autocompasión como red de seguridad.
 
-**Ejercicio inmediato:** Calcula el coste de oportunidad de tu miedo al fracaso en los últimos tres años: que has dejado de intentar, que objetivos has reducido deliberadamente, que proyectos has pospuesto indefinidamente? Ese es el precio que ya has pagado por el miedo, independientemente de si algo ha fallado.
+**Ejercicio inmediato:** Calcula el coste de oportunidad de tu miedo al fracaso en los últimos tres años: ¿que has dejado de intentar, que objetivos has reducido deliberadamente, que proyectos has pospuesto indefinidamente? Ese es el precio que ya has pagado por el miedo, independientemente de si algo ha fallado.
 
 El miedo al fracaso raramente te protege de fracasar. Principalmente te protege de intentarlo. Y eso es un precio mucho mayor.
 
@@ -55,7 +55,7 @@ Ruben crece en una familia donde los errores se comentaban duramente y los logro
 
 La investigación de Dweck con niños muestra que el tipo de elogio que reciben modifica su relación con el fracaso: niños elogiados por su inteligencia (eres muy listo) desarrollan mayor evitación del desafio y mayor miedo al fracaso que niños elogiados por su esfuerzo (trabajaste mucho en esto), porque los primeros perciben que el elogio depende de rendir bien y temen que el fracaso revoque ese elogio. La cultura del fracaso que un adulto tiene hoy es en parte la herencia de los mensajes que recibio sobre el fracaso durante su formación.
 
-**Ejercicio inmediato:** Reflexiona sobre como respondian los adultos importantes en tu vida cuando de niño cometias errores o fracasabas en algo. Que mensajes implícitos recibiste sobre lo que el fracaso significaba? Identificar esos mensajes no los elimina, pero ayuda a reconocer cuando estan hablando en el presente disfrazados de evaluaciones objetivas.
+**Ejercicio inmediato:** Reflexiona sobre como respondian los adultos importantes en tu vida cuando de niño cometias errores o fracasabas en algo. ¿Que mensajes implícitos recibiste sobre lo que el fracaso significaba? Identificar esos mensajes no los elimina, pero ayuda a reconocer cuando estan hablando en el presente disfrazados de evaluaciones objetivas.
 
 El miedo al fracaso que sientes hoy frecuentemente tiene la voz de alguien de tu pasado. Saber de quien cambia cómo lo escuchas.
 
@@ -83,7 +83,7 @@ Ruben tiene como referente a varios emprendedores que cita regularmente como mod
 
 Thomas Edison, cuya respuesta clasica a los fracasos en el desarrollo de la bombilla (no fracasé, encontre diez mil formas que no funcionan) puede parecer un cliche, encarna sin embargo una relación funcional con el fracaso: es un dato sobre el sistema, no una sentencia sobre el yo. Esta relación no se adopta por conviction filosofica. Se construye con práctica deliberada de separar el resultado del experimento del valor de quien lo conduce.
 
-**Ejercicio inmediato:** Para un fracaso reciente, escribe específicamente que aprendiste de el que no sabías antes. No de forma superficial (aprendi que hay que intentarlo), sino con precisión: que información específica sobre el problema, sobre tu aproximación, o sobre el entorno te dio ese fracaso que no tenías antes? Esa información tiene valor aunque el resultado haya sido negativo.
+**Ejercicio inmediato:** Para un fracaso reciente, escribe específicamente que aprendiste de el que no sabías antes. No de forma superficial (aprendi que hay que intentarlo), sino con precisión: ¿que información específica sobre el problema, sobre tu aproximación, o sobre el entorno te dio ese fracaso que no tenías antes? Esa información tiene valor aunque el resultado haya sido negativo.
 
 El fracaso que no ensenó nada fue tiempo perdido. El fracaso del que aprendiste algo específico fue un experimento exitoso con un resultado inesperado.
 
@@ -153,7 +153,7 @@ Elena finalmente presento el proyecto ambicioso que había guardado durante mese
 
 Una relación adulta con el fracaso no requiere amar fracasar. Requiere reconocer que el fracaso es una consecuencia predecible de intentar cosas importantes, que sus consecuencias prácticas suelen ser manejables, y que su coste para el yo puede reducirse con la autocompasión y un autoconcepto que no dependa del éxito para mantener su valor.
 
-**Ejercicio inmediato:** Escribe el miedo al fracaso específico que más te paraliza actualmente. Luego escribe: si ocurriera ese fracaso, cuales serían las consecuencias prácticas reales? Cuales las consecuencias para mi imagen y autoestima? Como podría manejar ambos tipos de consecuencias? Las respuestas frecuentemente revelan que el fracaso temido, aunque real, es manejable de una forma que el miedo previo no sugeria.
+**Ejercicio inmediato:** Escribe el miedo al fracaso específico que más te paraliza actualmente. Luego escribe: ¿si ocurriera ese fracaso, cuales serían las consecuencias prácticas reales? ¿Cuales las consecuencias para mi imagen y autoestima? Como podría manejar ambos tipos de consecuencias? Las respuestas frecuentemente revelan que el fracaso temido, aunque real, es manejable de una forma que el miedo previo no sugeria.
 
 El fracaso rara vez es tan malo como el miedo a el. El problema es que tienes que atravesar el miedo para descubrirlo.
 

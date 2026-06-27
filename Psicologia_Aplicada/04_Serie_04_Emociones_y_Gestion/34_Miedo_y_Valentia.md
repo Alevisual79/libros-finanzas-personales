@@ -41,7 +41,7 @@ Elena cree que la valentía es la capacidad de no sentir miedo. Esta creencia la
 
 Brene Brown, en su investigación sobre la vulnerabilidad, propone que la valentía que más importa en la vida cotidiana no es la valentía heroica de circunstancias extremas sino la valentía ordinaria de ser honesto cuando cuesta, de intentar algo que puede salir mal, de mostrarse autentico cuando hay riesgo de rechazó. Esta valentía no requiere la ausencia del miedo. Requiere la decisión de que algo importa más que el miedo.
 
-**Ejercicio inmediato:** Identifica un acto de valentía cotidiana que estas posponiendo. Luego pregunta: que es lo que importa más que el miedo en esta situación? La respuesta debe ser algo concreto y genuino para ti (no para los demás): una relación que merece honestidad, una carrera que merece un intento, una vida que merece ser vivida desde tus valores. Ese valor concreto es el contrapeso del miedo.
+**Ejercicio inmediato:** Identifica un acto de valentía cotidiana que estas posponiendo. Luego pregunta: ¿que es lo que importa más que el miedo en esta situación? La respuesta debe ser algo concreto y genuino para ti (no para los demás): una relación que merece honestidad, una carrera que merece un intento, una vida que merece ser vivida desde tus valores. Ese valor concreto es el contrapeso del miedo.
 
 Esperar a no tener miedo para actuar es esperar algo que nunca llegará para las cosas que más importan. La valentía empieza donde el miedo empieza, no donde termina.
 
@@ -133,13 +133,13 @@ La mejor forma de lidiar con el miedo antes de actuar es actuar antes de que el 
 
 ## Capítulo 9: El regret de no actuar: el miedo que más dura
 
-Ruben piensa en veces que no actuo por miedo y considera si el arrepentimiento de no haber intentado ha sido mayor o menor que el arrepentimiento que habria sentido si hubiera intentado y fallado.
+Ruben piensa en veces que no actuo por miedo y considera si el arrepentimiento de no haber intentado ha sido mayor o menor que el arrepentimiento que habría sentido si hubiera intentado y fallado.
 
 **El Principio del Arrepentimiento de Inacción como Mayor a Largo Plazo:** Daniel Kahneman y sus colegas, y más recientemente Daniel Pink en su libro The Power of Regret, documentan una asimetria en el arrepentimiento a lo largo del tiempo: a corto plazo, las personas suelen arrepentirse más de las acciones que tomaron y salieron mal. A largo plazo, el patron se invierte: las personas se arrepienten más de lo que no hicieron, de los caminos no tomados, de las palabras no dichas, de los intentos no realizados.
 
 Esta asimetria tiene implicaciones para la evaluación del miedo: el miedo que te impide actuar produce el tipo de arrepentimiento que más pesa con el tiempo. El dolor del fracaso en el intento tiende a ser más tolerable a largo plazo que la sensación persistente de lo que podría haber sido.
 
-**Ejercicio inmediato:** Proyectate diez años hacía el futuro y pregunta desde esa perspectiva: si no intento esto que el miedo esta bloqueando ahora, como me sentire sobre esa decisión dentro de diez años? La respuesta desde esa perspectiva futura frecuentemente es diferente de la respuesta desde el presente inmediato, donde el miedo tiene mucho más peso.
+**Ejercicio inmediato:** Proyectate diez años hacía el futuro y pregunta desde esa perspectiva: ¿si no intento esto que el miedo esta bloqueando ahora, como me sentire sobre esa decisión dentro de diez años? La respuesta desde esa perspectiva futura frecuentemente es diferente de la respuesta desde el presente inmediato, donde el miedo tiene mucho más peso.
 
 El miedo del presente dura horas o dias. El arrepentimiento de no haber actuado puede durar décadas.
 
@@ -149,7 +149,7 @@ El miedo del presente dura horas o dias. El arrepentimiento de no haber actuado 
 
 Elena ha llegado a un punto donde el miedo todavia esta presente en las situaciones importantes pero ya no es el factor determinante de si actua o no actua. Ha aprendido a reconocerlo, a escuchar lo que señala, y a decidir después si la acción merece el costo del malestar.
 
-**El Principio del Miedo como Compas de los Valores:** Steven Hayes, creador de la Terapia de Aceptación y Compromiso, propone que el miedo frecuentemente señala en la dirección de lo que más importa: tenemos miedo de perder lo que amamos, de fallar en lo que más nos importa, de ser rechazados por quienes más deseamos conectar. Desde esta perspectiva, el miedo es un brujula de valores: señala hacía lo que es más significativo, aunque de forma negativa (mostrando lo que habria que perder).
+**El Principio del Miedo como Compas de los Valores:** Steven Hayes, creador de la Terapia de Aceptación y Compromiso, propone que el miedo frecuentemente señala en la dirección de lo que más importa: tenemos miedo de perder lo que amamos, de fallar en lo que más nos importa, de ser rechazados por quienes más deseamos conectar. Desde esta perspectiva, el miedo es un brujula de valores: señala hacía lo que es más significativo, aunque de forma negativa (mostrando lo que habría que perder).
 
 La relación madura con el miedo no es la eliminación del miedo sino la capacidad de dialogar con el: escuchó lo que me estas diciendo sobre lo que importa, noto el malestar que produces, y aun asi elijo actuar porque lo que señalas importa demasiado como para dejar que seas el unico factor que determine mis decisiones.
 
@@ -161,7 +161,7 @@ El miedo que te paraliza frente a lo que más importa es el precio de que algo i
 
 ## Epílogo
 
-Ruben envió la solicitud el lunes a las 10am, como había decidido el domingo. El corazón acelerado, las palmas sudadas, y el pensamiento de que quizas le dijeran que no. Se lo dijeron que no en esa primera empresa. Pero había roto seis meses de paralisis en un solo acto, y eso cambio la relación que tenía con su propio miedo de una forma que la segunda solicitud, la tercera, y la cuarta, que eventualmente resultaron en un si, no habrian producido de la misma forma. El si eventual importo. Pero el primer no fue lo que lo desbloqueo.
+Ruben envió la solicitud el lunes a las 10am, como había decidido el domingo. El corazón acelerado, las palmas sudadas, y el pensamiento de que quizas le dijeran que no. Se lo dijeron que no en esa primera empresa. Pero había roto seis meses de paralisis en un solo acto, y eso cambio la relación que tenía con su propio miedo de una forma que la segunda solicitud, la tercera, y la cuarta, que eventualmente resultaron en un si, no habrían producido de la misma forma. El si eventual importo. Pero el primer no fue lo que lo desbloqueo.
 
 ---
 

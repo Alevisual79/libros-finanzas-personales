@@ -21,13 +21,13 @@ Elena lleva siete años en el mismo tipo de trabajo y se pregunta si hay un trab
 
 ## Capítulo 1: El ajuste personalidad-trabajo: más importante de lo que se piensa
 
-La mayoría de las personas elige el trabajo por lo que puede hacer. Deberia también elegirlo por quien es.
+La mayoría de las personas elige el trabajo por lo que puede hacer. Debería también elegirlo por quien es.
 
 **El Principio del Person-Job Fit como Predictor de Rendimiento, Satisfacción, y Salud:** La investigación sobre el ajuste persona-trabajo muestra que la concordancia entre las caracteristicas de la personalidad y los requisitos del trabajo predice rendimiento, satisfacción, y bienestar laboral de forma significativa. Una revisión meta-analitica de Amy Kristof-Brown y colegas que integra 172 estudios muestra que el ajuste persona-organización, persona-trabajo, y persona-grupo son predictores robustos de la satisfacción laboral, el compromiso organizacional, y la intención de quedarse.
 
 La investigación de John Holland sobre los tipos vocacionales propone seis tipos de personalidad (realista, investigador, artistico, social, emprendedor, convencional) con la predicción de que el ajuste entre tipo de personalidad y tipo de entorno predice la satisfacción y el rendimiento laboral.
 
-**Ejercicio inmediato:** Reflexiona sobre los dos trabajos o roles que has tenido en los que te has sentido más y menos en tu lugar. Que caracteristicas de personalidad favorecian cada uno? Que caracteristicas requeria el trabajo que iban contra tu forma de ser natural? Ese ejercicio produce más información útil sobre el ajuste que cualquier test de vocación.
+**Ejercicio inmediato:** Reflexiona sobre los dos trabajos o roles que has tenido en los que te has sentido más y menos en tu lugar. ¿Que caracteristicas de personalidad favorecian cada uno? ¿Que caracteristicas requeria el trabajo que iban contra tu forma de ser natural? Ese ejercicio produce más información útil sobre el ajuste que cualquier test de vocación.
 
 El trabajo que te exige ser quien no eres cada dia no es trabajo. Es actuación de jornada completa.
 
@@ -83,7 +83,7 @@ Ruben tiene alta apertura a la experiencia. En el mundo laboral, ese rasgo tiene
 
 Sin embargo, la apertura alta puede correlacionar negativamente con el rendimiento en trabajos altamente estructurados y rutinarios: las personas con alta apertura tienden a buscar variedad y a aburrirse con la repetición, lo que puede producir baja performance y alta rotación en esos entornos.
 
-**Ejercicio inmediato:** Si tienes alta apertura a la experiencia, evalua tu trabajo actual: hay suficiente novedad, aprendizaje, y variedad para mantener tu engagement? Si la respuesta es no, reflexiona sobre como podrías introducir más apertura en el trabajo existente (nuevos proyectos, roles de innovación, aprendizaje de nuevas habilidades) o si el ajuste entre tu rasgo y el trabajo requiere un cambio más fundamental.
+**Ejercicio inmediato:** Si tienes alta apertura a la experiencia, evalua tu trabajo actual: ¿hay suficiente novedad, aprendizaje, y variedad para mantener tu engagement? Si la respuesta es no, reflexiona sobre como podrías introducir más apertura en el trabajo existente (nuevos proyectos, roles de innovación, aprendizaje de nuevas habilidades) o si el ajuste entre tu rasgo y el trabajo requiere un cambio más fundamental.
 
 La apertura que se aburre en un trabajo predecible no es el problema del trabajador. Es el problema del ajuste.
 
@@ -97,7 +97,7 @@ Elena es muy amable y ha recibido retroalimentación de que necesita ser más as
 
 La investigación de Timothy Judge y colegas sobre la amabilidad y los ingresos muestra que los hombres con alta amabilidad tienen menores ingresos que los de baja amabilidad. Este hallazgo refleja expectativas de genero en la negociación y en la asertividad, no una relación directa entre amabilidad y competencia.
 
-**Ejercicio inmediato:** Si tienes alta amabilidad y has recibido retroalimentación de que necesitas ser más asertivo, reflexiona: hay situaciones específicas donde la asertividad directa sería más efectiva sin comprometer tus valores de cooperación? La asertividad puede practicarse como habilidad sin requerir una reducción de la amabilidad como rasgo: son aspectos independientes del comportamiento.
+**Ejercicio inmediato:** Si tienes alta amabilidad y has recibido retroalimentación de que necesitas ser más asertivo, reflexiona: ¿hay situaciones específicas donde la asertividad directa sería más efectiva sin comprometer tus valores de cooperación? La asertividad puede practicarse como habilidad sin requerir una reducción de la amabilidad como rasgo: son aspectos independientes del comportamiento.
 
 La amabilidad que nunca dice no no es amabilidad. Es miedo disfrazado de buena voluntad.
 
@@ -111,7 +111,7 @@ Isabel lleva años intentando separar lo que las personas pueden hacer de lo que
 
 La meta-análisis de Piers Steel y Joseph Ones sobre los predictores del rendimiento laboral muestra que la inteligencia predice especialmente bien en trabajos con alta complejidad cognitiva, mientras que la responsabilidad predice el rendimiento de forma más uniforme. El ajuste personalidad-trabajo contribuye a la predicción del rendimiento independientemente de la capacidad cognitiva.
 
-**Ejercicio inmediato:** Para tu área de trabajo, reflexiona sobre dos preguntas separadas: tienes las capacidades cognitivas suficientes para hacer bien el trabajo? Tu personalidad se ajusta bien al tipo de trabajo (sus demandas, su estructura, su tipo de interacción)? Los problemas de rendimiento pueden venir de cualquiera de las dos y requieren soluciones diferentes.
+**Ejercicio inmediato:** Para tu área de trabajo, reflexiona sobre dos preguntas separadas: ¿tienes las capacidades cognitivas suficientes para hacer bien el trabajo? ¿Tu personalidad se ajusta bien al tipo de trabajo (sus demandas, su estructura, su tipo de interacción)? Los problemas de rendimiento pueden venir de cualquiera de las dos y requieren soluciones diferentes.
 
 El trabajo para el que tienes talento pero no personalidad será siempre un trabajo de esfuerzo. El que tiene ambas cosas es donde el rendimiento fluye.
 
@@ -125,7 +125,7 @@ Ruben lleva diez años en su carrera y nunca ha reflexionado sistemáticamente s
 
 El autoconocimiento de la personalidad permite identificar: los tipos de roles donde el rendimiento es más natural y sostenible, los estilos de liderazgo o gestión que producen más tensión, los entornos organizacionales que se ajustan mejor a los rasgos, y las áreas de desarrollo que compensan los deficits de personalidad más costosos.
 
-**Ejercicio inmediato:** Para los próximos tres a cinco años de tu carrera, diseña una reflexión de ajuste personalidad-trabajo: que tipo de roles requieren los rasgos que tienes más desarrollados? Que entornos organizacionales se ajustan mejor a tu nivel de introversión/extraversión, tu nivel de responsabilidad, y tu nivel de apertura? Esa reflexión produce más orientación que cualquier herramienta de planificación de carrera generica.
+**Ejercicio inmediato:** Para los próximos tres a cinco años de tu carrera, diseña una reflexión de ajuste personalidad-trabajo: ¿que tipo de roles requieren los rasgos que tienes más desarrollados? ¿Que entornos organizacionales se ajustan mejor a tu nivel de introversión/extraversión, tu nivel de responsabilidad, y tu nivel de apertura? Esa reflexión produce más orientación que cualquier herramienta de planificación de carrera generica.
 
 La carrera que construyes sin conocerte produce logros que no te satisfacen. La que construyes sabiendo quien eres tiene posibilidades de producir logros que también importan.
 
@@ -139,7 +139,7 @@ Isabel ha liderado equipos durante veinte años. La investigación sobre persona
 
 Las investigaciones más recientes muestran que diferentes situaciones requieren diferentes estilos de liderazgo y que los líderes más efectivos son los que tienen la flexibilidad para adaptar su estilo. Los introvertidos que lideran bien frecuentemente lo hacen a traves de una mayor escucha, mayor deliberación, y mayor implementación de las ideas del equipo.
 
-**Ejercicio inmediato:** Para tu estilo de liderazgo actual (o aspirado), reflexiona: que rasgos de personalidad tuyos actuan como recursos en el liderazgo y cuales como limitaciones? Para las limitaciones, hay comportamientos específicos (no cambios de rasgo sino cambios de comportamiento) que podrían compensarlas? El liderazgo efectivo no requiere una personalidad específica: requiere el conocimiento de la propia personalidad y la capacidad de diseñar el comportamiento de liderazgo en función de lo que la situación necesita.
+**Ejercicio inmediato:** Para tu estilo de liderazgo actual (o aspirado), reflexiona: ¿que rasgos de personalidad tuyos actuan como recursos en el liderazgo y cuales como limitaciones? ¿Para las limitaciones, hay comportamientos específicos (no cambios de rasgo sino cambios de comportamiento) que podrían compensarlas? El liderazgo efectivo no requiere una personalidad específica: requiere el conocimiento de la propia personalidad y la capacidad de diseñar el comportamiento de liderazgo en función de lo que la situación necesita.
 
 El líder que conoce sus rasgos puede compensar sus limitaciones. El que los ignora las exporta al equipo.
 
@@ -153,7 +153,7 @@ Elena se pregunta si la automatización y la inteligencia artificial cambian lo 
 
 La investigación de David Deming de Harvard sobre las habilidades laborales con mayor crecimiento de demanda en las últimas décadas muestra que las habilidades interpersonales y sociales son las que más se aprecian en el mercado laboral, y que estas son predictivas precisamente por los rasgos de personalidad que las facilitan.
 
-**Ejercicio inmediato:** Para las tres habilidades más importantes en tu trabajo actual, reflexiona: cuales son tipicamente humanas (requieren empatia, creatividad, o juicio moral) y cuales podrían ser automatizadas en los próximos cinco a diez años? Las primeras son las que merece la pena desarrollar y es donde tu personalidad aporta el mayor valor diferencial.
+**Ejercicio inmediato:** Para las tres habilidades más importantes en tu trabajo actual, reflexiona: ¿cuales son tipicamente humanas (requieren empatia, creatividad, o juicio moral) y cuales podrían ser automatizadas en los próximos cinco a diez años? Las primeras son las que merece la pena desarrollar y es donde tu personalidad aporta el mayor valor diferencial.
 
 Lo que te hace irremplazable en el trabajo no es lo que haces igual que una maquina. Es lo que solo tu puedes hacer de la forma en que lo haces.
 

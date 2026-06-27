@@ -61,7 +61,7 @@ Toda amistad atraviesa fases reconocibles, cada una con sus propias dinámicas y
 
 **El Principio de las Fases Diferenciadas:** La fase de inició de una amistad requiere alta inversión de tiempo y descubrimiento mutuo. La fase de profundidad requiere vulnerabilidad creciente y experiencias compartidas significativas. La fase de mantenimiento, una vez establecida la confianza, puede sostenerse con menos frecuencia de contacto pero requiere consistencia y la disposición de reconectar profundamente cuando se encuentran, en lugar de mantenerse en superficialidad permanente.
 
-**Ejercicio inmediato:** Identifica en que fase esta cada una de tus amistades más importantes actualmente. Las que estan en mantenimiento, tienen la consistencia necesaria? Las que estan en profundidad, tienen el tiempo y la vulnerabilidad que esa fase requiere?
+**Ejercicio inmediato:** Identifica en que fase esta cada una de tus amistades más importantes actualmente. Las que estan en mantenimiento, tienen la consistencia necesaria? ¿Las que estan en profundidad, tienen el tiempo y la vulnerabilidad que esa fase requiere?
 
 Cada fase de la amistad necesita un tipo diferente de inversión. Aplicar la estrategia equivocada a la fase equivocada agota la relación sin fortalecerla.
 

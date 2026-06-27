@@ -32,7 +32,7 @@ La cultura del alto rendimiento trata el descanso cómo la negación del trabajo
 
 Esta visión es fisiológicamente incorrecta.
 
-**El modeló del músculo:**
+**El modelo del músculo:**
 El entrenamiento muscular produce microrroturas en las fibras musculares. El crecimiento muscular ocurre durante el descanso posterior al entrenamiento, cuando el cuerpo repara esas fibras haciéndolas más fuertes. Sin el descanso, no hay crecimiento. Más entrenamiento sin recuperación produce lesión, no fuerza.
 
 **El paralelo cognitivo:**

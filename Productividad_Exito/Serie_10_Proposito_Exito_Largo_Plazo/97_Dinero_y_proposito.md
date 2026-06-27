@@ -63,7 +63,7 @@ En algunos contextos, el nivel de remuneración es una señal del valor producid
 
 La superposición entre "trabajo con propósito" y "trabajo bien pagado" existe. Encontrarla requiere análisis.
 
-**El modeló de Ikigai:**
+**El modelo de Ikigai:**
 El concepto japonés de ikigai propone cuatro círculos:
 - Lo que amas
 - Lo que el mundo necesita
@@ -122,7 +122,7 @@ Hay profesiones donde la tensión entre propósito y remuneración es estructura
 El emprendimiento tiene la capacidad de alinear propósito y remuneración más directamente que el trabajo por cuenta ajena, pero con mayores riesgos.
 
 **La ventaja:**
-El emprendedor puede elegir el problema que quiere resolver (propósito) y construir el modeló de negocio que lo haga sostenible económicamente. No hay intermediario que capture parte del valor creado.
+El emprendedor puede elegir el problema que quiere resolver (propósito) y construir el modelo de negocio que lo haga sostenible económicamente. No hay intermediario que capture parte del valor creado.
 
 **El riesgo:**
 El emprendimiento produce incertidumbre económica, especialmente en las primeras etapas. Muchos emprendimientos no funcionan. Y la "libertad" del emprendimiento frecuentemente viene con mayor cantidad de trabajo y menos estructura de lo que se anticipaba.

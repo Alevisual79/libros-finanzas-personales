@@ -43,7 +43,7 @@ No te conoces tan bien como crees. Esa es la primera verdad del autoconocimiento
 
 Hay personas que llevan años en terapia y siguen sin conocerse de verdad. Y hay personas que han desarrollado niveles profundos de autoconocimiento sin terapia, a traves de otras prácticas. El autoconocimiento no es el resultado exclusivo de la terapia. Es el resultado de cualquier práctica que te ponga en contacto con tus patrones internos con suficiente consistencia.
 
-**El Principio de las Multiples Rutas:** Las herramientas de autoconocimiento incluyen la escritura reflexiva, la meditación y el mindfulness, la terapia individual o grupal, el feedback estructurado de personas de confianza, la lectura reflexiva aplicada a uno mismo, los marcos tipologicos como el eneagrama o el modeló de los cinco grandes, y la revisión periodica de las propias decisiones y sus consecuencias. No hay una herramienta mejor que las demás. Hay herramientas que se adaptan mejor a distintos estilos y momentos.
+**El Principio de las Multiples Rutas:** Las herramientas de autoconocimiento incluyen la escritura reflexiva, la meditación y el mindfulness, la terapia individual o grupal, el feedback estructurado de personas de confianza, la lectura reflexiva aplicada a uno mismo, los marcos tipologicos como el eneagrama o el modelo de los cinco grandes, y la revisión periodica de las propias decisiones y sus consecuencias. No hay una herramienta mejor que las demás. Hay herramientas que se adaptan mejor a distintos estilos y momentos.
 
 Las investigaciones de Matthew Lieberman sobre la introspección muestran que no toda introspección produce autoconocimiento útil. La introspección centrada en el por qué tiende a generar rumiación. La introspección centrada en el que, que estoy sintiendo, que patron estoy mostrando, que necesito aquí, produce información más útil y accionable.
 
@@ -75,7 +75,7 @@ La introspección tiene un problema que nadie habla: puede producir la ilusión 
 
 Timothy Wilson, autor del libro Strangers to Ourselves, argumenta que las personas tienen un acceso muy limitado a los procesos mentales que guian su conducta. La introspection puede producir explicaciones plausibles que no corresponden a las causas reales de las propias acciones.
 
-**Ejercicio inmediato:** Piensa en una decisión reciente que tomaste en una relación y que justificaste con una razón logica. Ahora preguntate: hay alguna razón emocional o inconsciente que podría explicar mejor esa decisión? La respuesta honesta a esa segunda pregunta suele ser más reveladora que la primera.
+**Ejercicio inmediato:** Piensa en una decisión reciente que tomaste en una relación y que justificaste con una razón logica. Ahora preguntate: ¿hay alguna razón emocional o inconsciente que podría explicar mejor esa decisión? La respuesta honesta a esa segunda pregunta suele ser más reveladora que la primera.
 
 Conocerse no es construir una narrativa sobre uno mismo. Es ver lo que hay debajo de la narrativa.
 
@@ -89,7 +89,7 @@ Cuando el jefe de Ruben le dijo en la evaluación anual que tenía dificultades 
 
 Douglas Stone y Sheila Heen, autores de Thanks for the Feedback, identifican tres tipos de bloqueadores del feedback: el ataque a la credibilidad del que lo da (el no tiene razón para decirme esto), la identidad (esto cuestiona quien soy fundamentalmente) y el verdadero/falso (esto no es verdad). Los tres bloquean el procesamiento del feedback antes de que pueda producir aprendizaje.
 
-**Ejercicio inmediato:** Recuerda un feedback que hayas recibido recientemente y que hayas rechazado o minimizado. Sin defender tu rechazó, preguntate: hay un 5% de verdad en ese feedback que podría ser útil? Solo el 5%. Esa fracción pequeña suele contener la información más valiosa.
+**Ejercicio inmediato:** Recuerda un feedback que hayas recibido recientemente y que hayas rechazado o minimizado. Sin defender tu rechazó, preguntate: ¿hay un 5% de verdad en ese feedback que podría ser útil? Solo el 5%. Esa fracción pequeña suele contener la información más valiosa.
 
 El feedback que más duele suele ser el que más información útil contiene.
 
@@ -99,11 +99,11 @@ El feedback que más duele suele ser el que más información útil contiene.
 
 Hay cosas que todos los que te conocen ven sobre ti y que tu no ves. Esos son tus puntos ciegos. Pueden ser positivos (cualidades que no reconoces en ti mismo) o negativos (patrones que impactan a los demás sin que seas consciente). Los puntos ciegos negativos son especialmente costosos en el plano relacional porque los otros los ven y reaccionan ante ellos mientras tu no entiendes sus reacciones.
 
-**El Principio de la Ventana de Johari:** Joseph Luft e Harrington Ingham desarrollaron el modeló de la Ventana de Johari: cuatro cuadrantes que describen lo que es conocido para uno mismo y para los demás. El cuadrante del punto ciego, lo que los demás ven y tu no, es el más importante para el desarrollo relacional. Reducirlo requiere activamente pedir feedback y recibirlo sin defensas.
+**El Principio de la Ventana de Johari:** Joseph Luft e Harrington Ingham desarrollaron el modelo de la Ventana de Johari: cuatro cuadrantes que describen lo que es conocido para uno mismo y para los demás. El cuadrante del punto ciego, lo que los demás ven y tu no, es el más importante para el desarrollo relacional. Reducirlo requiere activamente pedir feedback y recibirlo sin defensas.
 
 Los puntos ciegos más comunes en el plano relacional incluyen: el impacto del tono de voz cuando esta tenso, la expresión facial cuando escucha, la intensidad emocional que proyecta en ciertos temas, y los momentos en que se percibe como poco disponible aunque crea estar presente.
 
-**Ejercicio inmediato:** Pregunta a alguien de confianza: hay algo en mi forma de relacionarme que a veces tiene un efecto en los demás que yo quiza no veo? Escucha la respuesta completa antes de responder. No defiendas. Solo agradece. La información que recibes es oro relacional.
+**Ejercicio inmediato:** Pregunta a alguien de confianza: ¿hay algo en mi forma de relacionarme que a veces tiene un efecto en los demás que yo quiza no veo? Escucha la respuesta completa antes de responder. No defiendas. Solo agradece. La información que recibes es oro relacional.
 
 Tu punto ciego no desaparece porque no lo veas. Desaparece cuando alguien te lo señala y tu decides mirarlo.
 
@@ -117,7 +117,7 @@ Hay personas que ante el trabajo son completamente distintas de como son con su 
 
 Erving Goffman describió la vida social cómo una actuación constante: presentamos diferentes versiones de nosotros mismos en diferentes escenarios. El problema no es la actuación en si sino cuando la actuación es permanente y no queda ningún espacio donde ser simplemente uno mismo.
 
-**Ejercicio inmediato:** Describe en pocas palabras quien eres en el trabajo, quien eres con tu familia de origen, quien eres con tus amigos intimos y quien eres cuando estas solo. Que tienen en común esas cuatro versiones? Lo que comparten todas es probablemente lo más cercano a tu yo autentico.
+**Ejercicio inmediato:** Describe en pocas palabras quien eres en el trabajo, quien eres con tu familia de origen, quien eres con tus amigos intimos y quien eres cuando estas solo. ¿Que tienen en común esas cuatro versiones? Lo que comparten todas es probablemente lo más cercano a tu yo autentico.
 
 No hay un yo autentico unico. Pero hay un nucleo que debería reconocerse en todas las versiones.
 
@@ -131,7 +131,7 @@ La falta de congruencia tiene un coste específico: el agotamiento de mantener v
 
 Carl Rogers, fundador de la psicoterapia humanista, identifico la congruencia, juntó con la empatia y la consideración positiva incondicional, como las tres condiciones necesarias para el cambio terapeutico. En el contexto relacional, la congruencia del terapeuta crea la confianza necesaria para que el cliente se abra. En cualquier relación, funciona del mismo modo.
 
-**Ejercicio inmediato:** Identifica una área de tu vida en que lo que dices y lo que haces no estan completamente alineados. No para juzgarte. Para ver la inconsistencia con claridad. Que tendría que cambiar, ya sea lo que dices o lo que haces, para qué hubiera mayor congruencia?
+**Ejercicio inmediato:** Identifica una área de tu vida en que lo que dices y lo que haces no estan completamente alineados. No para juzgarte. Para ver la inconsistencia con claridad. ¿Que tendría que cambiar, ya sea lo que dices o lo que haces, para qué hubiera mayor congruencia?
 
 Ser el mismo dentro y fuera no es perfección. Es honestidad consigo mismo.
 
@@ -145,7 +145,7 @@ La persona que cree que ya se conoce lo suficiente ha dejado de crecer. El autoc
 
 Las investigaciones longitudinales de Dan McAdams sobre la narrativa de identidad muestran que las personas que tienen relaciones más satisfactorias a lo largo del tiempo son las que muestran mayor capacidad de revisar y actualizar su narrativa sobre si mismas, incorporando nuevas experiencias e integrando las contradicciones.
 
-**Ejercicio inmediato:** Compara como te relacionabas hace diez años con como te relacionas ahora. En que has cambiado? En que sigues igual que entonces? Lo que sigue igual sin ser una elección consciente puede ser un patron que merece atención.
+**Ejercicio inmediato:** Compara como te relacionabas hace diez años con como te relacionas ahora. En que has cambiado? ¿En que sigues igual que entonces? Lo que sigue igual sin ser una elección consciente puede ser un patron que merece atención.
 
 No te conoceras a ti mismo de una vez. Es una conversación que dura toda la vida.
 

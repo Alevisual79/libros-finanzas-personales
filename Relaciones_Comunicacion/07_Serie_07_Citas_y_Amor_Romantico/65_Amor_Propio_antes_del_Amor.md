@@ -25,7 +25,7 @@ Distinguir entre la experiencia subjetiva de soledad (sentirse desconectado y ca
 
 **El Principio de la Independencia entre Estado Civil y Bienestar Emocional:** La investigación psicológica muestra consistentemente que el bienestar emocional depende mucho más de factores internos (autoestima, sentido de proposito, calidad de las relaciones de cualquier tipo) que de la presencia o ausencia específica de una pareja romantica. Estar solo, sin pareja, no es sinonimo de sentirse solo emocionalmente, ni tener pareja garantiza sentirse acompañado genuinamente.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propia experiencia: cuando has estado sin pareja, te sentias genuinamente solo, o tenías una vida plena independientemente de ese estado civil? Esa reflexión revela cuanto tu bienestar depende realmente de tener pareja.
+**Ejercicio inmediato:** Reflexiona sobre tu propia experiencia: ¿cuando has estado sin pareja, te sentias genuinamente solo, o tenías una vida plena independientemente de ese estado civil? Esa reflexión revela cuanto tu bienestar depende realmente de tener pareja.
 
 Estar sin pareja y sentirse solo son dos cosas diferentes que la cultura frecuentemente confunde como si fueran la misma.
 
@@ -49,7 +49,7 @@ Desarrollar una vida con sentido, propositos propios y conexiones significativas
 
 **El Principio de la Plenitud como Base, no como Resultado:** Las personas que construyen una vida plena (intereses propios, amistades significativas, sentido de proposito) antes de buscar activamente pareja tienden a elegir parejas desde un lugar de elección libre, no de necesidad desesperada, lo que produce relaciones más saludables y sostenibles. La plenitud no es el premio que se obtiene después de encontrar pareja; es la base desde la cual se busca esa pareja con más claridad.
 
-**Ejercicio inmediato:** Evalua tu vida actual independientemente de tu estado de pareja: tienes proyectos propios, amistades significativas, actividades que te dan sentido? Si hay vacios en estas áreas, ese es el trabajo previo más urgente, más allá de buscar pareja.
+**Ejercicio inmediato:** Evalua tu vida actual independientemente de tu estado de pareja: ¿tienes proyectos propios, amistades significativas, actividades que te dan sentido? Si hay vacios en estas áreas, ese es el trabajo previo más urgente, más allá de buscar pareja.
 
 Una vida plena no es lo que tienes después de encontrar pareja. Es lo que te permite elegir pareja desde la libertad en lugar de la necesidad.
 
@@ -97,7 +97,7 @@ La envidia hacía amigos o conocidos que tienen pareja, especialmente cuando se 
 
 **El Principio de la Envidia como Senal de Necesidad No Examinada:** La envidia hacía las relaciones de otros frecuentemente revela menos sobre el deseo genuino de tener exactamente esa relación específica, y más sobre una necesidad propia que se ha proyectado en la idea de tener pareja: validación social, sensación de normalidad, o simplemente la creencia de que la pareja resolveria automáticamente otras dificultades de la vida.
 
-**Ejercicio inmediato:** La próxima vez que sientas envidia hacía la relación de un amigo, pregunta específicamente: que necesidad propia estoy proyectando en esa envidia? La respuesta es más útil que la envidia misma.
+**Ejercicio inmediato:** La próxima vez que sientas envidia hacía la relación de un amigo, pregunta específicamente: ¿que necesidad propia estoy proyectando en esa envidia? La respuesta es más útil que la envidia misma.
 
 La envidia hacía las relaciones de otros raramente es sobre esa relación específica. Es sobre una necesidad propia que merece atención directa.
 
@@ -121,7 +121,7 @@ Existe una paradoja consistentemente observada en las dinámicas de atracción: 
 
 **El Principio de la Atracción de la Plenitud Independiente:** Las personas que proyectan plenitud y seguridad independiente (no necesito una pareja para estar bien, pero la quiero porque enriqueceria mi vida) generan una dinámica de atracción distinta de las que proyectan necesidad desesperada (necesito una pareja para sentirme completo). La primera dinámica tiende a generar más interés reciproco genuino que la segunda, que frecuentemente activa señales de alarma en potenciales parejas.
 
-**Ejercicio inmediato:** Reflexiona sobre desde que lugar emocional estas buscando pareja actualmente: desde la plenitud que quiere compartirse, o desde la necesidad que busca ser llenada? Esa diferencia, más que cualquier técnica específica, influye en tus resultados.
+**Ejercicio inmediato:** Reflexiona sobre desde que lugar emocional estas buscando pareja actualmente: ¿desde la plenitud que quiere compartirse, o desde la necesidad que busca ser llenada? Esa diferencia, más que cualquier técnica específica, influye en tus resultados.
 
 La paradoja no es injusta. Es logica: quien no necesita desesperadamente a otro tiene más capacidad de elegir bien, y eso mismo resulta atractivo.
 
@@ -141,7 +141,7 @@ El amor propio no se alcanza una vez. Se práctica, dia tras dia, de la misma fo
 
 ## Epílogo
 
-Buscar pareja desde el miedo a la soledad no funciona. Buscar desde el amor propio, si. Elena, después de reconocer su patron de buscar en cada relación lo que no tenía sola, dedicó un año a trabajar en su propia plenitud antes de volver a buscar pareja activamente: terapia, nuevos intereses, amistades más profundas. Cuando finalmente conocio a alguien que le importaba genuinamente, descubrió que la relación se sentía completamente diferente a las anteriores. No necesitaba que esa persona la completara. Queria compartir con ella una vida que ya se sentía completa por si misma.
+Buscar pareja desde el miedo a la soledad no funciona. Buscar desde el amor propio, si. Elena, después de reconocer su patron de buscar en cada relación lo que no tenía sola, dedicó un año a trabajar en su propia plenitud antes de volver a buscar pareja activamente: terapia, nuevos intereses, amistades más profundas. Cuando finalmente conocio a alguien que le importaba genuinamente, descubrió que la relación se sentía completamente diferente a las anteriores. No necesitaba que esa persona la completara. Quería compartir con ella una vida que ya se sentía completa por si misma.
 
 ---
 

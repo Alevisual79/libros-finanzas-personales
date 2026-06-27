@@ -67,7 +67,7 @@ Gemini (antes Bard), desarrollado por Google DeepMind, tiene una ventaja única:
 
 ## Capítulo 3: Llama — El modeló abierto de Meta
 
-Llama (desarrollado por Meta AI) es el modeló de IA más importante del mundo open source. A diferencia de GPT, Claude o Gemini, los pesos del modeló son públicos: cualquiera puede descargarlo y ejecutarlo localmente o modificarlo.
+Llama (desarrollado por Meta AI) es el modelo de IA más importante del mundo open source. A diferencia de GPT, Claude o Gemini, los pesos del modelo son públicos: cualquiera puede descargarlo y ejecutarlo localmente o modificarlo.
 
 **Sus fortalezas:**
 - Privacidad total: se puede ejecutar localmente sin enviar datos a ningún servidor externo
@@ -97,7 +97,7 @@ Microsoft Copilot (potenciado por GPT-4 de OpenAI y modelos propios) es la apues
 - Versión Copilot+ PC: funciones de IA locales en ordenadores compatibles
 
 **Sus límites:**
-- La calidad del modeló varía según la tarea y la versión
+- La calidad del modelo varía según la tarea y la versión
 - Precio: Copilot Pro (20$/mes) o Copilot for Microsoft 365 (30$/usuario/mes empresas)
 - Menos flexible fuera del ecosistema Microsoft
 
@@ -125,7 +125,7 @@ Perplexity es técnicamente diferente a los otros: es un motor de búsqueda con 
 
 ## Capítulo 6: Cómo elegir el modeló correcto
 
-La elección del modeló para cada tarea:
+La elección del modelo para cada tarea:
 
 **Para escritura profesional de alta calidad:** Claude Opus o Sonnet
 **Para análisis de datos con código:** ChatGPT Advanced Data Analysis o Claude
@@ -137,7 +137,7 @@ La elección del modeló para cada tarea:
 **Para imágenes:** DALL-E 3 (en ChatGPT), Midjourney, Stable Diffusión
 **Para tareas complejas de razonamiento:** o1 de OpenAI o equivalentes
 
-No hay un modeló mejor en absoluto. Hay modelos mejores para casos de uso específicos.
+No hay un modelo mejor en absoluto. Hay modelos mejores para casos de uso específicos.
 
 ---
 

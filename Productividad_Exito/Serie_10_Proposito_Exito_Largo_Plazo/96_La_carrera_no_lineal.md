@@ -26,9 +26,9 @@ A los treinta y seis, su trayectoria tenía sentido si se miraba hacía atrás. 
 
 ## Capítulo 1: El mito de la carrera lineal
 
-El modeló convencional de carrera es una escalera: se sube un peldaño después del otro, en dirección ascendente, en el mismo sector o empresa, hasta llegar a la cima.
+El modelo convencional de carrera es una escalera: se sube un peldaño después del otro, en dirección ascendente, en el mismo sector o empresa, hasta llegar a la cima.
 
-Este modeló describecon precisión una parte de las carreras del siglo XX.
+Este modelo describecon precisión una parte de las carreras del siglo XX.
 
 Describe con mucha menor precisión las carreras del siglo XXI.
 

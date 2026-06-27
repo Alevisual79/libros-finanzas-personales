@@ -125,7 +125,7 @@ La proteína es el sustrato para la síntesis muscular. Las recomendaciones actu
 La leucina es el aminoácido más potente como estímulo de la síntesis proteica. Presente en proteínas de origen animal (especialmente suero de leche, pollo, pescado), huevos y algunas legumbres.
 
 **La distribución de la proteína:**
-El modeló de proteína en la cena principalmente (el patrón mediterráneo tradicional tardío) es menos eficiente para la síntesis muscular que distribuirla en las tres comidas principales.
+El modelo de proteína en la cena principalmente (el patrón mediterráneo tradicional tardío) es menos eficiente para la síntesis muscular que distribuirla en las tres comidas principales.
 
 **La vitamina D:**
 La vitamina D tiene receptores en el músculo esquelético y es necesaria para su función normal. El déficit de vitamina D se asocia con mayor debilidad muscular y mayor riesgo de caídas. La suplementación mejora la función muscular en personas con déficit.

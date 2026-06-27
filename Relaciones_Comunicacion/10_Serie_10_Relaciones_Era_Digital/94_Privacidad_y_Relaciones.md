@@ -25,7 +25,7 @@ El impulso de compartir públicamente aspectos de la vida romantica y relacional
 
 **El Principio de la Validación Social como Motivador:** Compartir contenido sobre relaciones romanticas frecuentemente cumple una función de validación social: la celebración pública refuerza la sensación de que la relación es real y valida, mientras la respuesta positiva de otros (likes, comentarios) proporciona una forma de reaseguramiento externo sobre el valor de la conexión que se esta viviendo.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propia motivación para compartir contenido sobre tus relaciones en redes sociales: viene principalmente de un deseo genuino de celebrar, o de una busqueda de validación externa sobre la relación?
+**Ejercicio inmediato:** Reflexiona sobre tu propia motivación para compartir contenido sobre tus relaciones en redes sociales: ¿viene principalmente de un deseo genuino de celebrar, o de una busqueda de validación externa sobre la relación?
 
 Compartir tu relación en redes sociales puede ser celebración genuina o busqueda de validación externa. Entender cual es tu motivación principal informa si esa práctica te sirve realmente.
 
@@ -37,7 +37,7 @@ El concepto de compartir públicamente momentos de intimidad relacional presenta
 
 **El Principio de la Tensión entre Intimidad y Publicidad:** La intimidad, por su naturaleza, tradicionalmente requiere un espacio protegido y privado donde la vulnerabilidad puede expresarse sin la audiencia y el juicio público. Compartir momentos intimos públicamente introduce una audiencia que altera fundamentalmente la naturaleza de esos momentos, generando una versión hibrida que ya no es completamente privada ni completamente pública.
 
-**Ejercicio inmediato:** Reflexiona sobre un momento intimo de tu relación que compartiste públicamente. Como cambio la experiencia de ese momento el hecho de saber que sería compartido con una audiencia más amplia?
+**Ejercicio inmediato:** Reflexiona sobre un momento intimo de tu relación que compartiste públicamente. ¿Como cambio la experiencia de ese momento el hecho de saber que sería compartido con una audiencia más amplia?
 
 La intimidad compartida públicamente ya no es completamente intimidad. Se convierte en algo distinto, hibrido entre lo privado y lo público.
 

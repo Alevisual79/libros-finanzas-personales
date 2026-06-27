@@ -27,7 +27,7 @@ No todo debe automatizarse. Y no todo puede automatizarse. La distinción import
 
 Las tareas más faciles de automatizar son las que ocurren en respuesta a una acción del usuario (alguien se suscribe a la lista, automáticamente recibe una secuencia de bienvenida), las que siguen un patron temporal (el post de redes sociales del martes se programa el lunes), y las que requieren compilar y mover información entre sistemas (transferir datos de un formulario a una base de datos).
 
-**Ejercicio inmediato:** Lista todas las tareas que haces en tu negocio digital durante una semana típica. Para cada una, pregunta: esta tarea ocurre de la misma forma cada vez (o con variaciones predecibles)? Si la respuesta es si, es un candidato de automatización. Prioriza las que consumen más tiempo y las que tienen más impacto directo en el revenue (cómo la comunicación con nuevos leads o el seguimiento post-compra). Esas dos variables (tiempo consumido e impacto en revenue) determinan el mayor ROI de automatización.
+**Ejercicio inmediato:** Lista todas las tareas que haces en tu negocio digital durante una semana típica. Para cada una, pregunta: ¿esta tarea ocurre de la misma forma cada vez (o con variaciones predecibles)? Si la respuesta es si, es un candidato de automatización. Prioriza las que consumen más tiempo y las que tienen más impacto directo en el revenue (cómo la comunicación con nuevos leads o el seguimiento post-compra). Esas dos variables (tiempo consumido e impacto en revenue) determinan el mayor ROI de automatización.
 
 La tarea que automatizas una vez deja de consumir tu tiempo para siempre. Es la mejor inversión de tiempo que existe en el negocio digital.
 
@@ -97,7 +97,7 @@ Marcos ha automatizado el proceso de cobró y facturación y ha eliminado el tie
 
 La integración entre la plataforma de pagos y el CRM y el email marketing permite automatizaciones poderosas: cuando un cliente paga, automáticamente se le envia el recibo, se le da acceso al producto o servicio, se le añade al segmento correcto del email marketing, y se le envia el flow de bienvenida de cliente.
 
-**Ejercicio inmediato:** Mapea tu proceso de cobró actual e identifica los pasos manuales: generas facturas manualmente?, envias recordatorios de pago manualmente cuando alguien no paga?, el acceso al producto o servicio es manual después de confirmar el pago? Para cada uno de esos pasos manuales, identifica la herramienta que puede automatizarlo. La inversión de tiempo en configurar esas automatizaciones se recupera en pocas semanas con el tiempo administrativo que elimina.
+**Ejercicio inmediato:** Mapea tu proceso de cobró actual e identifica los pasos manuales: ¿generas facturas manualmente?, envias recordatorios de pago manualmente cuando alguien no paga?, el acceso al producto o servicio es manual después de confirmar el pago? Para cada uno de esos pasos manuales, identifica la herramienta que puede automatizarlo. La inversión de tiempo en configurar esas automatizaciones se recupera en pocas semanas con el tiempo administrativo que elimina.
 
 Cada factura que generas manualmente es un proceso que puedes automatizar una sola vez y que luego se genera solo.
 
@@ -125,7 +125,7 @@ Lucia ha creado un proceso de onboarding automatizado para nuevos clientes que p
 
 Los componentes de un onboarding automatizado de calidad incluyen: el email de bienvenida inmediato (que confirma la compra, establece las expectativas del proceso, y explica los primeros pasos), la secuencia de educación en los primeros siete dias (que guia al cliente a traves de los primeros hitos de valor), y el check-in automático en el dia catorce (que detecta si hay algun problema antes de que se convierta en una solicitud de devolución).
 
-**Ejercicio inmediato:** Para tu producto o servicio principal, diseña el onboarding automatizado de los primeros catorce dias: que seis emails le enviarias a un nuevo cliente para asegurar que consigue el valor que busca? El email 1 es la bienvenida y los primeros pasos. Los emails 2 a 5 son los hitos de progreso (cada dos dias, un email que guia al cliente al siguiente paso). El email 6 es el check-in del dia catorce que pregunta activamente si hay algo en lo que puedes ayudar. Esa secuencia, configurada en tu herramienta de email marketing, se activa automáticamente con cada nuevo cliente.
+**Ejercicio inmediato:** Para tu producto o servicio principal, diseña el onboarding automatizado de los primeros catorce dias: ¿que seis emails le enviarias a un nuevo cliente para asegurar que consigue el valor que busca? El email 1 es la bienvenida y los primeros pasos. Los emails 2 a 5 son los hitos de progreso (cada dos dias, un email que guia al cliente al siguiente paso). El email 6 es el check-in del dia catorce que pregunta activamente si hay algo en lo que puedes ayudar. Esa secuencia, configurada en tu herramienta de email marketing, se activa automáticamente con cada nuevo cliente.
 
 El onboarding que se hace igual de bien para el cliente número uno y para el cliente número cien es el que ha sido automatizado.
 

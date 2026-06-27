@@ -27,7 +27,7 @@ No todos los tratamientos para la depresión son iguales en evidencia.
 
 El meta-análisis de Pim Cuijpers y colegas sobre los efectos de la psicoterapia para la depresión analiza datos de cientos de estudios y muestra que la psicoterapia tiene un efecto moderado a grande en la depresión (d de Cohen entre 0.7 y 0.9), comparable al de la farmacoterapia. La combinación de psicoterapia y farmacoterapia es superior a cualquiera de los dos tratamientos por separado en la depresión moderada a severa.
 
-**Ejercicio inmediato:** Si estas recibiendo tratamiento para la depresión, reflexiona: que tipo de tratamiento estas recibiendo? Es evidenciado? Es suficiente para la severidad de tu depresión? Si no estas seguro, esta es una pregunta que puedes hacer directamente a tu profesional de referencia.
+**Ejercicio inmediato:** Si estas recibiendo tratamiento para la depresión, reflexiona: ¿que tipo de tratamiento estas recibiendo? ¿Es evidenciado? Es suficiente para la severidad de tu depresión? Si no estas seguro, esta es una pregunta que puedes hacer directamente a tu profesional de referencia.
 
 El tratamiento que no tiene evidencia puede hacer perder el tiempo que un tratamiento efectivo podría usar para producir recuperación.
 
@@ -41,7 +41,7 @@ Isabel tiene prejuicios contra la psicoterapia: cree que es solo hablar y que no
 
 La investigación de Zindel Segal, Mark Williams, y John Teasdale sobre la Terapia Cognitiva Basada en Mindfulness (MBCT) muestra que reduce el riesgo de recaida en personas con tres o más episodios depresivos en un 43% respecto al tratamiento habitual. La Terapia de Activación Conductual (TAC) es una versión simplificada y efectiva que se centra exclusivamente en incrementar la actividad reforzante sin el componente cognitivo.
 
-**Ejercicio inmediato:** Si estas en psicoterapia para la depresión, pregunta a tu terapeuta: que modeló terapeutico usas para la depresión? Cuales son los mecanismos de cambio que esperas activar con ese modeló? La psicoterapia efectiva para la depresión tiene una logica interna que el terapeuta debe poder explicar.
+**Ejercicio inmediato:** Si estas en psicoterapia para la depresión, pregunta a tu terapeuta: ¿que modeló terapeutico usas para la depresión? ¿Cuales son los mecanismos de cambio que esperas activar con ese modelo? La psicoterapia efectiva para la depresión tiene una logica interna que el terapeuta debe poder explicar.
 
 No toda psicoterapia es igual para la depresión. La evidencia es específica sobre que modelos funcionan y en que condiciones.
 
@@ -55,7 +55,7 @@ Ruben tiene miedo a los antidepresivos por mitos que ha escuchado: que crean dep
 
 Los mitos: los antidepresivos no crean dependencia física en el sentido clínico (no producen tolerancia ni conducta de busqueda); no cambian la personalidad (reducen los sintomas depresivos sin alterar el carácter fundamental); y no son para siempre (la duración del tratamiento depende de la historia de episodios). Si producen efectos secundarios (especialmente al inició) y requieren de dos a seis semanas para mostrar efecto completo.
 
-**Ejercicio inmediato:** Si tienes prejuicios contra los antidepresivos, identifica de dónde vienen: experiencia propia, experiencia de alguien cercano, o información de segunda mano de fuentes no necesariamente cientificas? Si la respuesta es la segunda o la tercera, considera que esa información puede no ser representativa de lo que la evidencia muestra.
+**Ejercicio inmediato:** Si tienes prejuicios contra los antidepresivos, identifica de dónde vienen: ¿experiencia propia, experiencia de alguien cercano, o información de segunda mano de fuentes no necesariamente cientificas? Si la respuesta es la segunda o la tercera, considera que esa información puede no ser representativa de lo que la evidencia muestra.
 
 Rechazar un tratamiento efectivo por mitos es tan costoso como aceptar un tratamiento ineficaz por entusiasmo.
 
@@ -93,7 +93,7 @@ El ejercicio es el antidepresivo que no tiene efectos secundarios. El que no lo 
 
 Isabel ha recibido mucha psicología negativa (eliminar lo que no funciona) y poca psicología positiva (construir lo que produce bienestar). La segunda es igual de importante.
 
-**El Principio de la psicología Positiva como Complemento Necesario a la Reducción de Sintomas:** Martin Seligman propone que la salud mental no es solo la ausencia de trastorno sino la presencia de bienestar positivo. Su modeló PERMA identifica cinco elementos del bienestar: emociones positivas, compromiso (flow), relaciones, significado, y logró. La intervención en estos elementos produce mejoras en el bienestar que complementan la reducción de sintomas que producen los tratamientos clasicos.
+**El Principio de la psicología Positiva como Complemento Necesario a la Reducción de Sintomas:** Martin Seligman propone que la salud mental no es solo la ausencia de trastorno sino la presencia de bienestar positivo. Su modelo PERMA identifica cinco elementos del bienestar: emociones positivas, compromiso (flow), relaciones, significado, y logró. La intervención en estos elementos produce mejoras en el bienestar que complementan la reducción de sintomas que producen los tratamientos clasicos.
 
 Las intervenciones de psicología positiva con mayor evidencia para la depresión incluyen la práctica de gratitud (identificar diariamente tres cosas por las que estar agradecido), las intervenciones de bondad (realizar actos de amabilidad deliberados), y las actividades de flujo (comprometerse regularmente en actividades que producen absorción completa de la atención).
 
@@ -111,7 +111,7 @@ Ruben ha descubierto que su episodio depresivo empezó después de un conflicto 
 
 La TIP parte de la premisa de que la depresión ocurre siempre en un contexto interpersonal y que mejorar ese contexto es una via directa hacía la recuperación.
 
-**Ejercicio inmediato:** Identifica el área interpersonal que más podría estar contribuyendo a tu estado actual: hay una perdida importante no procesada, un conflicto relacional cronico, un cambio vital significativo que no has podido integrar, o un aislamiento social que se ha instalado? Nombrar el área interpersonal central es el primer paso para trabajarla, con o sin terapeuta.
+**Ejercicio inmediato:** Identifica el área interpersonal que más podría estar contribuyendo a tu estado actual: ¿hay una perdida importante no procesada, un conflicto relacional cronico, un cambio vital significativo que no has podido integrar, o un aislamiento social que se ha instalado? Nombrar el área interpersonal central es el primer paso para trabajarla, con o sin terapeuta.
 
 La depresión rara vez ocurre en el vacio. Ocurre en el contexto de las relaciones que tienes y de las que ya no tienes.
 
@@ -153,7 +153,7 @@ Ruben ha salido del episodio depresivo más severo y siente la tentación de no 
 
 Las estrategias con mayor evidencia para la prevención de recaidas incluyen: el mantenimiento del tratamiento farmacologico durante al menos seis a doce meses después de la remisión (en personas con historia de multiples episodios, posiblemente de por vida), la MBCT para los que han tenido tres o más episodios, y el desarrollo de un plan de recaidas: un protocolo personal de que hacer si los sintomas regresan.
 
-**Ejercicio inmediato:** Desarrolla tu plan de prevención de recaidas: cuales son tus señales de alerta tempranas (los primeros cambios en el sueño, el apetito, el pensamiento, o la actividad que han precedido a tus episodios anteriores)? Que haras si las notas (a quien contactaras primero, que pasos daras)? Tener ese plan antes de necesitarlo es más útil que construirlo cuando la crisis ya esta instalada.
+**Ejercicio inmediato:** Desarrolla tu plan de prevención de recaidas: ¿cuales son tus señales de alerta tempranas (los primeros cambios en el sueño, el apetito, el pensamiento, o la actividad que han precedido a tus episodios anteriores)? ¿Que haras si las notas (a quien contactaras primero, que pasos daras)? Tener ese plan antes de necesitarlo es más útil que construirlo cuando la crisis ya esta instalada.
 
 La recuperación de la depresión no termina cuando los sintomas desaparecen. Empieza en ese momento.
 

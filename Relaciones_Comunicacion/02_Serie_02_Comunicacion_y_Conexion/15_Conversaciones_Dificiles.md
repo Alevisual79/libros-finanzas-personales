@@ -43,7 +43,7 @@ Douglas Stone, Bruce Patton y Sheila Heen proponen que toda conversación difíc
 
 **El Principio de las Tres Capas:** La conversación del asunto es la más obvia y la menos importante. La de los sentimientos es la que más necesita espacio pero menos lo recibe. La de la identidad es la más profunda y la que produce la mayor resistencia: cuando alguien crítica nuestra conducta, parte de nosotros lo interpreta cómo una amenaza a quien somos fundamentalmente.
 
-El modeló propone manejar cada capa de forma específica: explorar el asunto desde ambas perspectivas sin asumir que ninguna tiene la verdad completa, dar espacio a los sentimientos de ambos, y separar la crítica de conducta de la amenaza de identidad.
+El modelo propone manejar cada capa de forma específica: explorar el asunto desde ambas perspectivas sin asumir que ninguna tiene la verdad completa, dar espacio a los sentimientos de ambos, y separar la crítica de conducta de la amenaza de identidad.
 
 **Ejercicio inmediato:** Antes de tu próxima conversación difícil pendiente, escribe las tres conversaciones que tienes que tener: cual es el asunto, cuales son tus sentimientos al respecto, y que esta en juego para tu identidad. Esa preparación te da más claridad sobre lo que realmente necesitas de la conversación.
 
@@ -111,11 +111,11 @@ La verdad bien dicha conecta. La verdad mal dicha destruye lo que viene después
 
 La defensividad es la respuesta natural a percibir una amenaza. Cuando alguien se siente atacado, criticado o malentendido, se cierra para protegerse. La defensividad no es una conducta maliciosa. Es un mecanismo de supervivencia relacional.
 
-**El Principio de la Defensividad como Información:** Cuando el otro se pone a la defensiva en una conversación difícil, esa defensividad da información: el mensaje no esta llegando de la forma deseada, o el otro percibe una amenaza que no se pretendia. En lugar de insistir con el mismo mensaje o aumentar la presión, la respuesta más efectiva suele ser hacer una pausa: noto que lo que digo te esta generando incomodidad, puedo intentar decirlo de otra manera?
+**El Principio de la Defensividad como Información:** Cuando el otro se pone a la defensiva en una conversación difícil, esa defensividad da información: el mensaje no esta llegando de la forma deseada, o el otro percibe una amenaza que no se pretendia. En lugar de insistir con el mismo mensaje o aumentar la presión, la respuesta más efectiva suele ser hacer una pausa: ¿noto que lo que digo te esta generando incomodidad, puedo intentar decirlo de otra manera?
 
 El paso atras ante la defensividad del otro no es capitulación. Es un reconocimiento de que la forma del mensaje necesita ajustarse para que el contenido pueda llegar.
 
-**Ejercicio inmediato:** Recuerda una conversación difícil en que el otro se puso a la defensiva. Que podía haber producido esa defensividad? Habia algo en cómo lo dijiste que podía percibirse como ataque? Esa retrospección, aplicada a futuras conversaciones, aumenta la precisión con que se calibra el mensaje.
+**Ejercicio inmediato:** Recuerda una conversación difícil en que el otro se puso a la defensiva. ¿Que podía haber producido esa defensividad? ¿Habia algo en cómo lo dijiste que podía percibirse como ataque? Esa retrospección, aplicada a futuras conversaciones, aumenta la precisión con que se calibra el mensaje.
 
 La defensividad del otro no es el enemigo. Es la brujula que te dice que ajustes el rumbo.
 

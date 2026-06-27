@@ -27,7 +27,7 @@ El emprendimiento tiene una forma específica de desarrollo que el que no la con
 
 La investigación de Clayton Christensen sobre la innovación disruptiva muestra un patron similar: las innovaciones disruptivas raramente superan a las soluciones establecidas en las metricas que el mercado actual valora en los primeros períodos. Solo cuando generan su propio mercado o mejoran en las metricas que ese mercado valora, la tracción se vuelve visible.
 
-**Ejercicio inmediato:** Para tu proyecto o negocio actual, reflexiona: donde estas en la curva J? Eres todavia en la fase descendente inicial (aprendiendo, ajustando, sin tracción visible todavia)? Eres en el punto de inflexion (empiezas a ver señales de tracción aunque todavia no son consistentes)? Eres en la fase ascendente (la tracción es consistente y el aprendizaje se esta traduciendo en resultados)? Conocer tu posición en la curva cambia la interpretación de los resultados actuales.
+**Ejercicio inmediato:** Para tu proyecto o negocio actual, reflexiona: ¿donde estas en la curva J? ¿Eres todavia en la fase descendente inicial (aprendiendo, ajustando, sin tracción visible todavia)? Eres en el punto de inflexion (empiezas a ver señales de tracción aunque todavia no son consistentes)? ¿Eres en la fase ascendente (la tracción es consistente y el aprendizaje se esta traduciendo en resultados)? Conocer tu posición en la curva cambia la interpretación de los resultados actuales.
 
 La fase más dura de la curva J no es la que duele más. Es la que más parece fracaso cuando en realidad es proceso.
 
@@ -41,7 +41,7 @@ Marcos ha aprendido que la motivación con que empezó a emprender se ha ido ero
 
 La pasión que el grit requiere no es el entusiasmo variable del principio sino el interés sostenido hacía el problema que el negocio intenta resolver, aunque la emoción fluctue. La perseverancia no es la estupidez de seguir haciendo lo mismo que no funciona sino la capacidad de mantener el objetivo mientras se ajustan las estrategias.
 
-**Ejercicio inmediato:** Reflexiona sobre tu negocio: hay un problema que te importa genuinamente resolver (independientemente de si el modeló de negocio actual es el correcto)? Si la respuesta es si, tienes la base de pasión del grit. Si la respuesta es no, reflexiona si lo que te falta es conexión con el problema de fondo o si el problema de fondo ha dejado de importarte. La perseverancia sin pasión es martirio. La pasión sin perseverancia es una aspiración temporal.
+**Ejercicio inmediato:** Reflexiona sobre tu negocio: ¿hay un problema que te importa genuinamente resolver (independientemente de si el modelo de negocio actual es el correcto)? Si la respuesta es si, tienes la base de pasión del grit. Si la respuesta es no, reflexiona si lo que te falta es conexión con el problema de fondo o si el problema de fondo ha dejado de importarte. La perseverancia sin pasión es martirio. La pasión sin perseverancia es una aspiración temporal.
 
 El emprendedor que persevera no es el que nunca quiere rendirse. Es el que tiene una razón lo suficientemente buena para no rendirse hoy.
 
@@ -55,7 +55,7 @@ Carlos ha aprendido que los meses de mayor dificultad en su proyecto han sido ta
 
 La investigación de Noam Wasserman sobre los fundadores muestra que los co-fundadores no solo dividen el trabajo: dividen el peso psicológico de la adversidad. Los equipos fundadores con alta confianza mutua atraviesan los momentos críticos con más frecuencia que los fundadores solitarios, no porque tengan más recursos sino porque tienen con quien compartir la carga.
 
-**Ejercicio inmediato:** Identifica tu red de apoyo emprendedor: hay una o dos personas a quienes puedes llamar cuando las cosas van mal y que te dirá la verdad con amabilidad? Si no hay nadie en esa categoría, construir esa red es una de las inversiones de mayor retorno que puedes hacer. Busca un mentor que haya atravesado algo similar, un par emprendedor en quien confies, o un grupo de mastermind donde la honestidad mutua sea la norma.
+**Ejercicio inmediato:** Identifica tu red de apoyo emprendedor: ¿hay una o dos personas a quienes puedes llamar cuando las cosas van mal y que te dirá la verdad con amabilidad? Si no hay nadie en esa categoría, construir esa red es una de las inversiones de mayor retorno que puedes hacer. Busca un mentor que haya atravesado algo similar, un par emprendedor en quien confies, o un grupo de mastermind donde la honestidad mutua sea la norma.
 
 El emprendedor que no tiene a nadie con quien compartir los momentos difíciles tarda más en atravesarlos que el que si tiene.
 
@@ -97,7 +97,7 @@ Carlos ha aprendido que cuando mira el trimestre se desespera, pero cuando mira 
 
 La investigación sobre el efecto de perspectiva temporal en el emprendimiento de Melissa Cardon muestra que los emprendedores que mantienen una visión de largo plazo clara durante las adversidades del corto plazo muestran mayor persistencia. La visión no elimina el dolor del momento pero lo contextualiza en algo que tiene sentido dentro de un horizonte mayor.
 
-**Ejercicio inmediato:** Para el contratiempo emprendedor que más te esta afectando actualmente, práctica el cambio de perspectiva temporal: como verá este momento en tres años alguien que haya fundado un negocio exitoso? Esa persona probablemente reconocera este momento cómo una de las fases de aprendizaje más importantes del camino. La perspectiva futura no elimina la dificultad presente pero la hace tolerable de una forma diferente.
+**Ejercicio inmediato:** Para el contratiempo emprendedor que más te esta afectando actualmente, práctica el cambio de perspectiva temporal: ¿como verá este momento en tres años alguien que haya fundado un negocio exitoso? Esa persona probablemente reconocera este momento cómo una de las fases de aprendizaje más importantes del camino. La perspectiva futura no elimina la dificultad presente pero la hace tolerable de una forma diferente.
 
 El problema que parece enorme en el mes se vuelve pequeño en el año. Y el que parece enorme en el año, a veces ni se recuerda en los tres años.
 
@@ -111,7 +111,7 @@ Lucia sabe que cuando recuerda por qué empezó su empresa, la energía para seg
 
 La investigación de Michael Steger sobre el proposito y el bienestar muestra que las personas con mayor claridad de proposito muestran mayor resiliencia ante la adversidad, porque la adversidad puede integrarse en la narrativa del camino hacía el proposito sin destruir la coherencia de esa narrativa.
 
-**Ejercicio inmediato:** Escribe en dos párrafos la respuesta a la pregunta: por qué empece este negocio y para qué existe más allá de ganar dinero? Si la respuesta que escribes no te produce ningún nivel de energía o emoción al leerla, el proposito que has articulado todavia no es el real o se ha erosionado. Un proposito que conecta con algo genuinamente importante para ti es el que produce resiliencia. Uno que suena bien pero no lo sientes como tuyo no produce lo mismo.
+**Ejercicio inmediato:** Escribe en dos párrafos la respuesta a la pregunta: ¿por qué empece este negocio y para qué existe más allá de ganar dinero? Si la respuesta que escribes no te produce ningún nivel de energía o emoción al leerla, el proposito que has articulado todavia no es el real o se ha erosionado. Un proposito que conecta con algo genuinamente importante para ti es el que produce resiliencia. Uno que suena bien pero no lo sientes como tuyo no produce lo mismo.
 
 El dia que no tienes ganas de seguir, el proposito es lo unico que importa. Sin el, ese dia es el último. Con el, es solo un dia difícil.
 
@@ -139,7 +139,7 @@ Carlos ha buscado y encontrado los patrones comunes de los emprendedores que atr
 
 La investigación de Sara Blakely (fundadora de Spanx) sobre la cultura de fracaso en su empresa muestra que normalizar el fracaso como parte del proceso (en lugar de como señal de incompetencia) cambia la relación de todo el equipo con el riesgo y la innovación.
 
-**Ejercicio inmediato:** Identifica a un emprendedor que admires que haya atravesado una adversidad significativa (un fracaso de negocio, una crisis existencial, un pivote total). Estudia cómo la atraveso: que hizo en los momentos más duros? Que decidió no hacer? Que dijo que fue lo que lo mantuvo en el camino? Esos patrones son aplicables a tu situación aunque el contenido específico sea diferente.
+**Ejercicio inmediato:** Identifica a un emprendedor que admires que haya atravesado una adversidad significativa (un fracaso de negocio, una crisis existencial, un pivote total). Estudia cómo la atraveso: ¿que hizo en los momentos más duros? ¿Que decidió no hacer? Que dijo que fue lo que lo mantuvo en el camino? Esos patrones son aplicables a tu situación aunque el contenido específico sea diferente.
 
 La resiliencia que no has vivido todavia ya la han vivido otros antes que tu. Vale la pena aprender de ellos antes de que llegue el momento de necesitarla.
 
@@ -153,7 +153,7 @@ Lucia ha llegado a entender que su mayor ventaja competitiva no es su producto, 
 
 La investigación de Robert Sutton sobre la innovación en las organizaciones muestra que la mayoría de las innovaciones exitosas vinieron de proyectos que habían sobrevivido multiples intentos de cancelación antes de encontrar el product-market fit. La resiliencia del proyecto (y del equipo que lo lleva) fue lo que determino que llegará al punto donde el éxito era posible.
 
-**Ejercicio inmediato:** Para tu negocio o proyecto, reflexiona: cuantos de tus competidores directos han abandonado en los últimos doce meses? Cada uno que abandona no es solo un competidor menos: es evidencia de que el mercado premia a los que persisten. Si tu producto o servicio es razonablemente bueno y sigues en el mercado más tiempo que los que no persisten, el tiempo trabaja para ti.
+**Ejercicio inmediato:** Para tu negocio o proyecto, reflexiona: ¿cuantos de tus competidores directos han abandonado en los últimos doce meses? Cada uno que abandona no es solo un competidor menos: es evidencia de que el mercado premia a los que persisten. Si tu producto o servicio es razonablemente bueno y sigues en el mercado más tiempo que los que no persisten, el tiempo trabaja para ti.
 
 El mercado premia la resiliencia de una forma que no premia el talento ni la inteligencia. Porque el talento y la inteligencia son comunes. La resiliencia, menos.
 
@@ -161,7 +161,7 @@ El mercado premia la resiliencia de una forma que no premia el talento ni la int
 
 ## Epílogo
 
-Lucia no cerro la empresa durante los seis meses difíciles. No porque no tuviera miedo: lo tenía. No porque no pensara en dejarlo: lo pensó. Sino porque a la pregunta de que haría si cerrara la empresa, la respuesta honesta era que no lo sabía. Y esa incertidumbre del que llegaria después era mayor que la dificultad del presente. Tres meses después de los seis meses difíciles, la empresa había recuperado la estabilidad y había aprendido algo sobre su modeló de negocio que no habria aprendido en ninguna otra circunstancia. Los seis meses difíciles no habían sido el final del camino. Habian sido la parte del camino que más la había preparado para lo que vino después.
+Lucia no cerro la empresa durante los seis meses difíciles. No porque no tuviera miedo: lo tenía. No porque no pensara en dejarlo: lo pensó. Sino porque a la pregunta de que haría si cerrara la empresa, la respuesta honesta era que no lo sabía. Y esa incertidumbre del que llegaria después era mayor que la dificultad del presente. Tres meses después de los seis meses difíciles, la empresa había recuperado la estabilidad y había aprendido algo sobre su modelo de negocio que no habría aprendido en ninguna otra circunstancia. Los seis meses difíciles no habían sido el final del camino. Habían sido la parte del camino que más la había preparado para lo que vino después.
 
 ---
 

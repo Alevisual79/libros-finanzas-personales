@@ -130,7 +130,7 @@ Cuando alguien usa terapias alternativas para un síntoma que podría ser un cá
 
 ## Capítulo 7: La medicina integrativa — el modeló que une lo mejor
 
-La medicina integrativa es un enfoque que combina los mejores elementos de la medicina convencional con las terapias complementarias que tienen evidencia de eficacia, dentro de un modeló centrado en el paciente.
+La medicina integrativa es un enfoque que combina los mejores elementos de la medicina convencional con las terapias complementarias que tienen evidencia de eficacia, dentro de un modelo centrado en el paciente.
 
 **Los principios:**
 - La evidencia guía las decisiones, independientemente de la procedencia de la intervención

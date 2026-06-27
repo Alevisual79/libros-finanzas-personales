@@ -115,7 +115,7 @@ La adolescencia de los hijos trae sus propios desafios a la pareja: el conflicto
 
 **El Principio del Reencuentro Forzado:** La adolescencia de los hijos suele coincidir con un período en que la pareja, después de años centrados en el cuidado físico de hijos pequeños, se enfrenta de nuevo a tener que relacionarse el uno con el otro como personas, no solo como coequipo de crianza. Para algunas parejas, este reencuentro revela que han crecido juntos. Para otras, revela cuanto se han distanciado durante los años más intensos de crianza.
 
-**Ejercicio inmediato:** Si tienen hijos adolescentes, reflexionen juntos: como ha cambiado vuestra relación en los últimos cinco años, más allá de la crianza? Si la respuesta es que apenas se conocen como antes, ese es exactamente el trabajo de esta etapa.
+**Ejercicio inmediato:** Si tienen hijos adolescentes, reflexionen juntos: ¿como ha cambiado vuestra relación en los últimos cinco años, más allá de la crianza? Si la respuesta es que apenas se conocen como antes, ese es exactamente el trabajo de esta etapa.
 
 La adolescencia de los hijos es, paradojicamente, el momento en que la pareja vuelve a tener la oportunidad de reconocerse.
 

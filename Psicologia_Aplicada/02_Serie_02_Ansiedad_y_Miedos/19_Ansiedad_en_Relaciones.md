@@ -27,7 +27,7 @@ La ansiedad en las relaciones no ocurre en el vacio. Tiene raices en los patrone
 
 Mary Ainsworth, en sus investigaciones con el procedimiento de la situación extraña, identifico tres estilos de apego en bebes: el apego seguro (que se desarrolla cuando el cuidador es consistentemente responsivo), el apego ansioso-ambivalente (que se desarrolla cuando el cuidado es inconsistente: a veces disponible, a veces no), y el apego evitativo (que se desarrolla cuando el cuidado es sistemáticamente frio o rechazante). Estos estilos de apego infantil muestran continuidad estadistica con los estilos de apego adulto, aunque la experiencia posterior puede modificarlos.
 
-**Ejercicio inmediato:** Reflexiona sobre como te sientes en tus relaciones intimas cuando el otro no esta disponible (no responde mensajes, cancela planes, parece distante). Esa reacción es el modeló interno de trabajo en acción. No es solo sobre la relación actual. Es el eco de como experimentaste la disponibilidad de las figuras de cuidado temprano.
+**Ejercicio inmediato:** Reflexiona sobre como te sientes en tus relaciones intimas cuando el otro no esta disponible (no responde mensajes, cancela planes, parece distante). Esa reacción es el modelo interno de trabajo en acción. No es solo sobre la relación actual. Es el eco de como experimentaste la disponibilidad de las figuras de cuidado temprano.
 
 La forma en que reaccionas cuando la persona que amas no esta disponible dice más sobre tu historia que sobre el presente.
 
@@ -41,7 +41,7 @@ Ruben tiene un estilo de apego ansioso que se manifiesta de formas específicas 
 
 Las estrategias de hiperactivación incluyen: mantener el pensamiento constantemente orientado hacía el otro y la relación (rumiación relacional), magnificar las amenazas percibidas a la relación, buscar reaseguración de forma repetitiva, y usar el clinging (aferramiento) como respuesta al miedo de perder al otro. Estas estrategias, aunque reducen la ansiedad a corto plazo, frecuentemente aumentan la tensión en la relación y pueden producir precisamente el resultado que temen: el alejamiento del otro, agotado por la demanda de reaseguración constante.
 
-**Ejercicio inmediato:** Identifica dos o tres de tus conductas de reaseguración más habituales en relaciones intimas. Son conductas que realizas cuando sientes ansiedad relacional para reducirla. Ahora preguntate: a corto plazo, reducen la ansiedad? A largo plazo, mejoran la relación o aumentan la tensión?
+**Ejercicio inmediato:** Identifica dos o tres de tus conductas de reaseguración más habituales en relaciones intimas. Son conductas que realizas cuando sientes ansiedad relacional para reducirla. Ahora preguntate: ¿a corto plazo, reducen la ansiedad? ¿A largo plazo, mejoran la relación o aumentan la tensión?
 
 Las conductas que calman la ansiedad relacional a corto plazo frecuentemente la alimentan a largo plazo.
 
@@ -91,7 +91,7 @@ Lo que llamas química en las relaciones a veces es el reconocimiento de un bail
 
 ## Capítulo 6: Comunicar las necesidades de apego sin alienar al otro
 
-Isabel necesita más presencia y reaseguración de lo que su pareja le da naturalmente. Como puede comunicar esa necesidad sin que se convierta en demanda, sin activar la defensividad del otro, y sin sentir verguenza por tener esa necesidad?
+Isabel necesita más presencia y reaseguración de lo que su pareja le da naturalmente. ¿Como puede comunicar esa necesidad sin que se convierta en demanda, sin activar la defensividad del otro, y sin sentir verguenza por tener esa necesidad?
 
 **El Principio de la Vulnerabilidad Directa versus la Demanda Encubierta:** Susan Johnson, creadora de la Terapia Centrada en las Emociones para parejas (EFT), propone que en el apego ansioso hay frecuentemente una brecha entre la necesidad real (necesito sentir que me quieres y que estoy a salvo contigo) y la comunicación que se usa para expresarla (por qué no me respondiste el mensaje, siempre estas distraido). La segunda activa defensividad en el otro, el tercero comunica la vulnerabilidad que es el corazón de la necesidad real.
 
@@ -107,7 +107,7 @@ La pareja que ataca al otro por no satisfacer una necesidad que nunca ha expresa
 
 Ruben cree que su estilo de apego es fijo, que es simplemente quien es, y que no puede cambiar la forma en que experimenta la intimidad. La investigación sobre el apego adulto sugiere algo diferente.
 
-**El Principio del Apego Adquirido como Via de Cambio:** Sroufe y colegas de la Universidad de Minnesota documentaron en un estudio longitudinal de treinta años que aunque hay continuidad estadistica entre el apego infantil y el adulto, el cambio es posible a traves de relaciones reparadoras: relaciones significativas con personas con apego seguro (que pueden ser parejas, amigos, terapeutas) que proporcionan experiencias relacionales distintas de las que formaron el modeló interno de trabajo original.
+**El Principio del Apego Adquirido como Via de Cambio:** Sroufe y colegas de la Universidad de Minnesota documentaron en un estudio longitudinal de treinta años que aunque hay continuidad estadistica entre el apego infantil y el adulto, el cambio es posible a traves de relaciones reparadoras: relaciones significativas con personas con apego seguro (que pueden ser parejas, amigos, terapeutas) que proporcionan experiencias relacionales distintas de las que formaron el modelo interno de trabajo original.
 
 Mario Mikulincer y sus colegas documentaron que incluso la exposición breve a representaciones de figuras de apego seguras (a traves de imagenes o narrativas) activa temporalmente un estado de mayor seguridad en el apego que modifica el procesamiento de información relacional subsiguiente. El apego seguro adquirido, construido a traves de relaciones y trabajo terapeutico, produce cambios neurologicos y psicológicos reales aunque su desarrollo tome tiempo.
 
@@ -161,7 +161,7 @@ No puedes controlar cuando se activa tu sistema de apego. Pero puedes controlar 
 
 ## Epílogo
 
-Elena empezó a revelar su ansiedad relacional en terapia. Por primera vez, pudo ver el patron completo: las señales que activaban el sistema, las conductas que seguian, el efecto que esas conductas tenían en su pareja, el alivio temporal que producian y la tensión que generaban a largo plazo. Con esa visión más completa, empezó a trabajar no para eliminar la ansiedad (que siguio estando) sino para no dejar que fuera ella quien gestionara la relación. Su pareja lo noto. No con alivio, sino con una forma más profunda de conexión: la de alguien que empieza a conocer realmente a la persona con quien esta.
+Elena empezó a revelar su ansiedad relacional en terapia. Por primera vez, pudo ver el patron completo: las señales que activaban el sistema, las conductas que seguían, el efecto que esas conductas tenían en su pareja, el alivio temporal que producian y la tensión que generaban a largo plazo. Con esa visión más completa, empezó a trabajar no para eliminar la ansiedad (que siguio estando) sino para no dejar que fuera ella quien gestionara la relación. Su pareja lo noto. No con alivio, sino con una forma más profunda de conexión: la de alguien que empieza a conocer realmente a la persona con quien esta.
 
 ---
 

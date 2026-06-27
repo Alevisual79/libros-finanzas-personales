@@ -144,7 +144,7 @@ El pensamiento sistémico tiene sus propias limitaciones.
 Un mapa del sistema demasiado complejo puede producir parálisis en lugar de claridad. La clave es identificar los bucles y conexiones más relevantes, no mapear todo.
 
 **La ilusión de la predictibilidad:**
-El pensamiento sistémico mejora la comprensión de los sistemas complejos pero no los hace completamente predecibles. Los sistemas adaptativos (organizaciones, mercados, ecosistemas) producen comportamientos emergentes que ningún modeló puede anticipar del todo.
+El pensamiento sistémico mejora la comprensión de los sistemas complejos pero no los hace completamente predecibles. Los sistemas adaptativos (organizaciones, mercados, ecosistemas) producen comportamientos emergentes que ningún modelo puede anticipar del todo.
 
 **El tiempo:**
 El análisis sistémico requiere tiempo que las presiones operativas frecuentemente no permiten. La habilidad es hacer el análisis sistémico suficiente en el tiempo disponible —no perfecto— para tomar mejores decisiones.

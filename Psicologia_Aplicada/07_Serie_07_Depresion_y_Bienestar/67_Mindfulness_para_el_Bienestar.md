@@ -125,7 +125,7 @@ Ruben práctica mindfulness pero tiene dificultades con la segunda parte: tratar
 
 La investigación de Neff y colegas muestra que la autocompasión se asocia con mayor bienestar, menor depresión y ansiedad, mayor motivación intrinseca, y mayor resiliencia ante el fracaso. Y a diferencia de lo que muchas personas temen, la autocompasión no produce complacencia: produce mayor motivación para mejorar porque el cambio se orienta desde el cuidado en lugar del castigo.
 
-**Ejercicio inmediato:** La próxima vez que cometas un error o experimentes un fracaso, práctica la pausa de autocompasión de Neff: coloca una mano en el corazón, reconoce el sufrimiento (esto es doloroso, esto es difícil), nombra la humanidad común (no estoy solo en este sufrimiento, todos sufren asi en algun momento), y dirigete a ti mismo palabras de calidez (que puedo darme ahora que necesito?). El efecto físico de la mano en el corazón activa el sistema de cuidado que la autocritica desactiva.
+**Ejercicio inmediato:** La próxima vez que cometas un error o experimentes un fracaso, práctica la pausa de autocompasión de Neff: ¿coloca una mano en el corazón, reconoce el sufrimiento (esto es doloroso, esto es difícil), nombra la humanidad común (no estoy solo en este sufrimiento, todos sufren asi en algun momento), y dirigete a ti mismo palabras de calidez (que puedo darme ahora que necesito?). El efecto físico de la mano en el corazón activa el sistema de cuidado que la autocritica desactiva.
 
 La compasión que le niegas a ti mismo es la que más necesitas cuando más sufres.
 

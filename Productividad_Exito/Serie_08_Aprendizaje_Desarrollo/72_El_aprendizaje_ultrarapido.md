@@ -59,7 +59,7 @@ Rubén quería aprender edición de video. En lugar de aprender todo el software
 
 El perfeccionista quiere entender todo el sistema antes de empezar a practicar. El aprendiz eficiente aprende lo suficiente para empezar, práctica, aprende de la práctica, y vuelve a la teoría solo cuando la práctica lo requiere.
 
-**El modeló just-in-time:**
+**El modelo just-in-time:**
 Aprender la teoría que se necesita en el momento en que se necesita, no antes. La teoría que se aprende sin práctica inmediata se olvida rápidamente. La teoría que se aprende justo cuando la práctica la requiere se retiene porque es inmediatamente relevante.
 
 **La práctica como el mejor maestro:**
@@ -120,7 +120,7 @@ Una de las formas más eficaces de acelerar el aprendizaje: estudiar directament
 - Analizar qué hacen específicamente: ¿qué movimientos? ¿Qué secuencias? ¿Qué decisiones?
 - Imitar los patrones antes de crear los propios
 
-**El modeló mental del experto:**
+**El modelo mental del experto:**
 Los expertos tienen modelos mentales —estructuras cognitivas que organizan su percepción del dominio— que los principiantes no tienen. Acceder a esos modelos (a través de libros, conversaciones, observación) es un atajo poderoso para la comprensión del dominio.
 
 ---

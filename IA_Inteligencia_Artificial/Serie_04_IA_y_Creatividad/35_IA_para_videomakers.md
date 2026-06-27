@@ -107,7 +107,7 @@ El arte generativo tiene una estetica propia que se esta volviendo identificable
 
 **Lo que falta:** La imperfección intencional, el accidente productivo, la referencia personal que solo el creador que ha vivido algo puede incluir.
 
-**Lo que emerge:** Estilos nuevos que no existian antes de la IA, posibilidades esteticas que ningún humano habria explorado solo.
+**Lo que emerge:** Estilos nuevos que no existían antes de la IA, posibilidades esteticas que ningún humano habría explorado solo.
 
 ---
 
@@ -125,7 +125,7 @@ La creatividad como diferencial no desaparece: se desplaza. De la ejecución al 
 
 ## Capítulo 9: Los nuevos roles creativos
 
-La IA no solo cambia cómo se crea: crea nuevos roles que no existian:
+La IA no solo cambia cómo se crea: crea nuevos roles que no existían:
 
 **Director creativo de IA:** Profesional que dirige sistemas de IA para producir contenido creativo a escala con consistencia de marca.
 

@@ -15,19 +15,19 @@
 
 ## Prólogo
 
-Isabel perdio a su madre hace tres años. Al principio el mundo le dijo que tenía que hacer las cinco etapas del duelo y eventualmente aceptar la perdida. Ella no experimento cinco etapas ordenadas: experimento un estado caotico de emociones que iban y venían sin orden, momentos de aparente normalidad seguidos de oleadas de dolor que llegaban de improviso, y una persistente sensación de que algo estaba mal en ella por no estar en duelo de la forma en que el mundo esperaba. La investigación contemporanea sobre el duelo es mucho más matizada y compasiva que el modeló de las cinco etapas.
+Isabel perdio a su madre hace tres años. Al principio el mundo le dijo que tenía que hacer las cinco etapas del duelo y eventualmente aceptar la perdida. Ella no experimento cinco etapas ordenadas: experimento un estado caotico de emociones que iban y venían sin orden, momentos de aparente normalidad seguidos de oleadas de dolor que llegaban de improviso, y una persistente sensación de que algo estaba mal en ella por no estar en duelo de la forma en que el mundo esperaba. La investigación contemporanea sobre el duelo es mucho más matizada y compasiva que el modelo de las cinco etapas.
 
 ---
 
 ## Capítulo 1: El duelo en la ciencia contemporanea: más allá de las cinco etapas
 
-El modeló de las cinco etapas del duelo de Elisabeth Kübler-Ross es el más conocido y el más malinterpretado de la psicología del duelo.
+El modelo de las cinco etapas del duelo de Elisabeth Kübler-Ross es el más conocido y el más malinterpretado de la psicología del duelo.
 
 **El Principio del Duelo como Proceso Individual, no como Secuencia Universal:** Elisabeth Kübler-Ross propuso las cinco etapas (negación, ira, negociación, depresión, aceptación) en 1969 basandose en su trabajo clínico con personas moribundas, no con personas en duelo. Las etapas fueron propuestas como posibilidades, no cómo una secuencia obligatoria universal.
 
 La investigación empirica posterior ha mostrado que la mayoría de las personas en duelo no siguen esta secuencia: George Bonanno y sus colegas documentaron que el patron más común de duelo en adultos es una perturbación de moderada intensidad seguida de recuperación relativamente rápida, con variaciones enormes entre individuos.
 
-**Ejercicio inmediato:** Si estas en duelo o has atravesado uno, reflexiona sobre si tu experiencia coincidio con las cinco etapas. Reconocer que tu proceso es valido aunque no se ajuste al modeló más conocido puede reducir la culpa de no duelo correctamente.
+**Ejercicio inmediato:** Si estas en duelo o has atravesado uno, reflexiona sobre si tu experiencia coincidio con las cinco etapas. Reconocer que tu proceso es valido aunque no se ajuste al modelo más conocido puede reducir la culpa de no duelo correctamente.
 
 No existe una forma correcta de hacer el duelo. El que tienes, aunque no sea el que el libro describe, es el tuyo y es valido.
 
@@ -83,7 +83,7 @@ Ruben perdio a su perro de trece años y se sorprendio de la intensidad del duel
 
 La falta de reconocimiento social del duelo no reduce la intensidad de la experiencia: la puede amplificar, anadiendo la soledad y la verguenza al dolor de la perdida.
 
-**Ejercicio inmediato:** Reflexiona sobre si tienes duelos no reconocidos: perdidas que llevas sin el apoyo que un duelo más visible habria recibido. Darle a esa perdida el reconocimiento que merece, aunque sea solo internamente, puede ser el primer paso de su procesamiento.
+**Ejercicio inmediato:** Reflexiona sobre si tienes duelos no reconocidos: perdidas que llevas sin el apoyo que un duelo más visible habría recibido. Darle a esa perdida el reconocimiento que merece, aunque sea solo internamente, puede ser el primer paso de su procesamiento.
 
 Tu duelo no requiere la validación del mundo para ser real. Pero recibirla cuando es posible alivia la carga de cargarlo solo.
 
@@ -107,11 +107,11 @@ El ritual no hace que el dolor desaparezca. Pero le da un borde, una forma, que 
 
 Ruben pensaba que el duelo sano requeria desvincularse del fallecido y seguir adelante.
 
-**El Principio de los Lazos Continuados como Alternativa Saludable al Desapego:** Dennis Klass, Phyllis Silverman, y Steven Nickman propusieron en 1996 el modeló de los lazos continuados: una comprensión del duelo sano que no requiere el desapego del fallecido sino la transformación de la relación. La persona que ha perdido a alguien mantiene una relación interna con el fallecido que puede ser un recurso en lugar de un obstaculo.
+**El Principio de los Lazos Continuados como Alternativa Saludable al Desapego:** Dennis Klass, Phyllis Silverman, y Steven Nickman propusieron en 1996 el modelo de los lazos continuados: una comprensión del duelo sano que no requiere el desapego del fallecido sino la transformación de la relación. La persona que ha perdido a alguien mantiene una relación interna con el fallecido que puede ser un recurso en lugar de un obstaculo.
 
 Robert Klass y colegas documentan que los dolientes que mantienen una conexión continuada saludable con el fallecido muestran en muchos estudios mejor funcionamiento a largo plazo que los que intentan el desapego completo.
 
-**Ejercicio inmediato:** Reflexiona sobre tu relación con alguien a quien perdiste: todavia hablas con el en tu mente? Tomas decisiones pensando en lo que el aprobaria? Estas experiencias, lejos de ser señal de duelo patologico, pueden ser formas saludables de mantener la conexión.
+**Ejercicio inmediato:** Reflexiona sobre tu relación con alguien a quien perdiste: ¿todavia hablas con el en tu mente? ¿Tomas decisiones pensando en lo que el aprobaria? Estas experiencias, lejos de ser señal de duelo patologico, pueden ser formas saludables de mantener la conexión.
 
 No tienes que olvidar a quien perdiste para seguir adelante. La relación cambia de forma, pero no tiene que desaparecer.
 
@@ -139,7 +139,7 @@ Elena ha descubierto, sorprendida, que el duelo por su madre ha producido cambio
 
 Este crecimiento no borra el dolor de la perdida ni la minimiza. Puede coexistir con el dolor y la tristeza.
 
-**Ejercicio inmediato:** Si has atravesado una perdida importante, reflexiona sobre si hay algo que cambio en ti a raiz de esa perdida que valoras, aunque no lo habrias pedido. Esa reflexión puede ayudar a integrar la perdida en la narrativa de quien eres.
+**Ejercicio inmediato:** Si has atravesado una perdida importante, reflexiona sobre si hay algo que cambio en ti a raiz de esa perdida que valoras, aunque no lo habrías pedido. Esa reflexión puede ayudar a integrar la perdida en la narrativa de quien eres.
 
 El crecimiento que emerge del duelo no justifica la perdida. Pero puede hacer que la vida que sigue tenga una profundidad que antes no tenía.
 
@@ -153,7 +153,7 @@ Isabel ha llegado a entender que seguir adelante no significa dejar atras a quie
 
 Esta integración no tiene un punto de llegada definitivo: el duelo puede reactivarse en aniversarios o ante estímulos inesperados. Pero en el duelo integrado, estas reactivaciones son momentos de reconexion que se pueden atravesar sin perder el hilo de la vida presente.
 
-**Ejercicio inmediato:** Reflexiona sobre como describes a las personas importantes que has perdido: los introduces en tu narrativa de quien eres? Puedes hablar de ellos con el placer de lo que fueron ademas del dolor de la ausencia? La capacidad de hablar de los fallecidos con calidez ademas de con tristeza es uno de los indicadores de que el duelo esta siendo integrado.
+**Ejercicio inmediato:** Reflexiona sobre como describes a las personas importantes que has perdido: ¿los introduces en tu narrativa de quien eres? ¿Puedes hablar de ellos con el placer de lo que fueron ademas del dolor de la ausencia? La capacidad de hablar de los fallecidos con calidez ademas de con tristeza es uno de los indicadores de que el duelo esta siendo integrado.
 
 Seguir adelante es hacer espacio para la vida presente sin borrar a quien ya no esta.
 

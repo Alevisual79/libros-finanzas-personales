@@ -25,7 +25,7 @@ Este libro explora Bases de datos conversacionales desde la perspectiva práctic
 
 Preguntale a tus datos en lenguaje natural es uno de los dominios donde la IA ofrece mayor valor inmediato para los profesionales del conocimiento.
 
-La combinación de herramientas accesibles y capacidades crecientes ha democratizado el trabajo con datos de una forma que habria parecido imposible hace cinco años.
+La combinación de herramientas accesibles y capacidades crecientes ha democratizado el trabajo con datos de una forma que habría parecido imposible hace cinco años.
 
 ---
 

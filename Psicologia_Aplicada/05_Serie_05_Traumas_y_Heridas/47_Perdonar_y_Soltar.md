@@ -27,7 +27,7 @@ La comprensión más común del perdon esta llena de malentendidos que hacen que
 
 Enright distingue claramente el perdon de: la reconciliación (que requiere que el otro sea seguro y haya cambiado; el perdon no requiere ninguna de las dos cosas), el olvido (el perdon no borra la memoria), la excusa (el perdon reconoce que el daño fue real e injusto), y la minimización (el perdon no implica que lo que ocurrio no fue importante).
 
-**Ejercicio inmediato:** Reflexiona sobre una persona a quien te cuesta perdonar. Separa dos preguntas: sería seguro o deseable tener una relación con esa persona en el futuro? y podrías soltar el rencor y el resentimiento hacía ella independientemente de la respuesta a la primera pregunta? Estas dos preguntas son independientes. El perdon puede ocurrir sin reconciliación.
+**Ejercicio inmediato:** Reflexiona sobre una persona a quien te cuesta perdonar. Separa dos preguntas: ¿sería seguro o deseable tener una relación con esa persona en el futuro? y podrías soltar el rencor y el resentimiento hacía ella independientemente de la respuesta a la primera pregunta? Estas dos preguntas son independientes. El perdon puede ocurrir sin reconciliación.
 
 El perdon que no perdonas no dana al que cometio el daño. Solo dana a quien lo carga.
 
@@ -41,7 +41,7 @@ Elena carga con rencor hacía una persona que la trató injustamente hace años.
 
 Kathleen Lawler-Row de la Universidad East Carolina muestra que las personas con mayor disposición al perdon tienen menor presión arterial, mejor sistema inmune, menor nivel de cortisol, y mayor longevidad. El rencor es literalmente una carga fisiologica que el cuerpo lleva con sus costes en salud.
 
-**Ejercicio inmediato:** Identifica la ofensa o la persona hacía quien llevas mayor rencor. Cuando piensas en ese rencor, que sientes en el cuerpo? Tensión, calor, constricción? Esas sensaciones son el costo fisiologico que pagas por cargar ese rencor.
+**Ejercicio inmediato:** Identifica la ofensa o la persona hacía quien llevas mayor rencor. ¿Cuando piensas en ese rencor, que sientes en el cuerpo? ¿Tensión, calor, constricción? Esas sensaciones son el costo fisiologico que pagas por cargar ese rencor.
 
 El resentimiento que llevas no es gratis. Lo pagas cada vez que lo recuerdas, en la moneda del cuerpo.
 
@@ -51,11 +51,11 @@ El resentimiento que llevas no es gratis. Lo pagas cada vez que lo recuerdas, en
 
 Ruben quiere perdonar pero no sabe como hacerlo practicamente.
 
-**El Principio del Perdon como Proceso Gradual con Fases Identificables:** Robert Enright propone un modeló de perdon de cuatro fases: la fase de descubrimiento (reconocer el daño, la ira, el resentimiento, y los costes de cargarlos), la fase de decisión (elegir deliberadamente el perdon), la fase de trabajo (entender al ofensor desde una perspectiva más amplia, trabajar con la empatia y la compasión), y la fase de profundización (encontrar significado en la experiencia).
+**El Principio del Perdon como Proceso Gradual con Fases Identificables:** Robert Enright propone un modelo de perdon de cuatro fases: la fase de descubrimiento (reconocer el daño, la ira, el resentimiento, y los costes de cargarlos), la fase de decisión (elegir deliberadamente el perdon), la fase de trabajo (entender al ofensor desde una perspectiva más amplia, trabajar con la empatia y la compasión), y la fase de profundización (encontrar significado en la experiencia).
 
-Everett Worthington de Virginia Commonwealth University ha desarrollado el modeló REACH del perdon (Recall the hurt, Empathize, offer the Altruistic gift of forgiveness, Commit to forgive, Hold onto the forgiveness), que también proporciona un camino práctico y progresivo.
+Everett Worthington de Virginia Commonwealth University ha desarrollado el modelo REACH del perdon (Recall the hurt, Empathize, offer the Altruistic gift of forgiveness, Commit to forgive, Hold onto the forgiveness), que también proporciona un camino práctico y progresivo.
 
-**Ejercicio inmediato:** Ubicate en el modeló de Enright para la ofensa que más te cuesta perdonar: en que fase estas? Reconocer el daño (descubrimiento), considerar si quieres emprender el proceso (decisión), o ya trabajando en la empatia (trabajo)? El reconocimiento de la fase en que estas proporciona el siguiente paso.
+**Ejercicio inmediato:** Ubicate en el modelo de Enright para la ofensa que más te cuesta perdonar: ¿en que fase estas? ¿Reconocer el daño (descubrimiento), considerar si quieres emprender el proceso (decisión), o ya trabajando en la empatia (trabajo)? El reconocimiento de la fase en que estas proporciona el siguiente paso.
 
 El perdon no es un switch que se activa. Es un proceso que se recorre. Identificar donde estas te dice cual es el próximo paso.
 
@@ -69,7 +69,7 @@ Isabel lleva décadas sin poder perdonar a su madre por patrones de crianza que 
 
 La investigación de Sharon Lamb y Jeffrie Murphy sobre el perdon muestra que el perdon de las figuras parentales frecuentemente es el que produce mayor alivio emocional, mayor liberación del pasado, y mayor capacidad de relacionarse con intimidad en el presente.
 
-**Ejercicio inmediato:** Para la figura parental más difícil de perdonar, reflexiona desde la perspectiva de la limitación humana: que sabes sobre su propia historia, sus propias heridas, sus propias circunstancias que podrían explicar (no justificar) como actuo? Esta reflexión no absuelve sino que contextualiza.
+**Ejercicio inmediato:** Para la figura parental más difícil de perdonar, reflexiona desde la perspectiva de la limitación humana: ¿que sabes sobre su propia historia, sus propias heridas, sus propias circunstancias que podrían explicar (no justificar) como actuo? Esta reflexión no absuelve sino que contextualiza.
 
 El padre que no pudiste tener tenía su propia historia que le impidio ser el que necesitabas. Entender esa historia puede reducir el misterio que alimenta el rencor.
 
@@ -97,7 +97,7 @@ Elena confunde el perdon con renunciar a la justicia.
 
 Esta distinción es importante para muchas victimas de abuso: el miedo a que el perdon implique renunciar a la justicia es una de las razones más comunes para resistirse al proceso.
 
-**Ejercicio inmediato:** Para una ofensa que te cuesta perdonar, identifica específicamente que te preocupa que implique el perdon: renunciar a la justicia? Declarar que lo que ocurrio estuvo bien? Arriesgarte a que vuelva a ocurrir? Cada una de esas preocupaciones tiene una respuesta. Identifica la tuya y examina si el perdon realmente implicaria lo que temes.
+**Ejercicio inmediato:** Para una ofensa que te cuesta perdonar, identifica específicamente que te preocupa que implique el perdon: ¿renunciar a la justicia? ¿Declarar que lo que ocurrio estuvo bien? Arriesgarte a que vuelva a ocurrir? Cada una de esas preocupaciones tiene una respuesta. Identifica la tuya y examina si el perdon realmente implicaria lo que temes.
 
 Lo que temes que significa el perdon probablemente no es lo que significa. Pero sin claridad sobre esa distinción, el perdon seguirá pareciendo imposible.
 

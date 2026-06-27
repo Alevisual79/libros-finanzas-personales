@@ -71,7 +71,7 @@ Tu dolor relacional pasado es parte de tu historia. No tiene que ser el título 
 
 Más allá de simplemente sobrevivir experiencias relacionales difíciles, extraer aprendizajes específicos de ellas puede transformar su significado de pura perdida a también fuente de crecimiento, sin negar el dolor que produjeron.
 
-**El Principio del Aprendizaje sin Romantización del Sufrimiento:** Extraer lecciones genuinas de relaciones difíciles del pasado (sobre los propios límites, sobre patrones que se quieren cambiar, sobre lo que realmente se necesita en una relación) puede coexistir con el reconocimiento honesto de que esas experiencias fueron dolorosas y que, idealmente, no habrian tenido que ocurrir para aprender esas lecciones específicas.
+**El Principio del Aprendizaje sin Romantización del Sufrimiento:** Extraer lecciones genuinas de relaciones difíciles del pasado (sobre los propios límites, sobre patrones que se quieren cambiar, sobre lo que realmente se necesita en una relación) puede coexistir con el reconocimiento honesto de que esas experiencias fueron dolorosas y que, idealmente, no habrían tenido que ocurrir para aprender esas lecciones específicas.
 
 **Ejercicio inmediato:** Identifica una lección específica que has extraido de una relación difícil del pasado, reconociendo simultaneamente que el dolor de esa experiencia fue real y que no estas agradecido por haberla sufrido, solo por lo que aprendiste a pesar de ella.
 

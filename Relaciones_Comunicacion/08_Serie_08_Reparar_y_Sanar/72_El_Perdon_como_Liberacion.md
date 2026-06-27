@@ -25,7 +25,7 @@ El perdon, aunque intelectualmente se entienda como deseable, frecuentemente res
 
 **El Principio de la Resistencia psicológica al Perdon:** El rencor, aunque doloroso de cargar, cumple funciones psicológicas que dificultan soltarlo: proporciona una sensación de justicia moral (mantener al otro en deuda), protege contra la vulnerabilidad de reconectar emocionalmente con quien causo dolor, y a veces se convierte en parte de la identidad de la persona (ser la victima de esa situación específica). Estas funciones, aunque generalmente inconscientes, explican por qué el perdon resulta tan difícil incluso cuando se desea conscientemente.
 
-**Ejercicio inmediato:** Reflexiona sobre que función psicológica podría estar cumpliendo el rencor que cargas hacía alguien específico. Que obtienes, aunque sea de forma dolorosa, de mantener ese rencor activo?
+**Ejercicio inmediato:** Reflexiona sobre que función psicológica podría estar cumpliendo el rencor que cargas hacía alguien específico. ¿Que obtienes, aunque sea de forma dolorosa, de mantener ese rencor activo?
 
 El rencor que cargas no es solo dolor pasivo. Cumple funciones psicológicas, aunque dolorosas, que dificultan soltarlo incluso cuando lo deseas conscientemente.
 
@@ -133,7 +133,7 @@ El perdon hacía uno mismo, por errores propios pasados, sigue principios simila
 
 **El Principio del Doble Estandar de Severidad:** Muchas personas aplican estandares mucho más severos de juicio hacía sus propios errores que hacía errores similares cometidos por otros, lo que dificulta significativamente el proceso de autoperdon. Reconocer este doble estandar y trabajar hacía aplicar la misma compasión que se extenderia a otros en circunstancias similares facilita el proceso de perdonarse a uno mismo.
 
-**Ejercicio inmediato:** Para un error propio que sigues juzgando severamente, pregunta: si un amigo cercano hubiera cometido el mismo error en circunstancias similares, lo juzgarias con la misma severidad? Si la respuesta es no, esa discrepancia es información importante.
+**Ejercicio inmediato:** Para un error propio que sigues juzgando severamente, pregunta: ¿si un amigo cercano hubiera cometido el mismo error en circunstancias similares, lo juzgarias con la misma severidad? Si la respuesta es no, esa discrepancia es información importante.
 
 Te juzgas a ti mismo con una severidad que nunca aplicarias a un amigo en la misma situación. Perdonarte requiere aplicarte la misma compasión que ya sabes dar a otros.
 

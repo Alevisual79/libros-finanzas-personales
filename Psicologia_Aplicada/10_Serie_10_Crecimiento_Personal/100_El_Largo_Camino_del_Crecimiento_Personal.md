@@ -23,7 +23,7 @@ Este es el último libro de la colección psicología Aplicada. Elena, Ruben, e 
 
 El crecimiento personal no ocurre en el vacio. Ocurre dentro de las etapas del desarrollo humano que la psicología ha estudiado durante un siglo.
 
-**El Principio del Desarrollo como Proceso Continuo a lo Largo de Toda la Vida con Tareas específicas en Cada Etapa:** Erik Erikson propuso en 1950 el modeló de desarrollo psicosocial de ocho etapas que abarcan toda la vida humana. Cada etapa presenta una crisis o tensión que, bien resuelta, produce una virtud psicológica: la confianza vs. la desconfianza en la infancia (esperanza), la iniciativa vs. la culpa en la ninez temprana (proposito), la industria vs. la inferioridad en la ninez media (competencia), la identidad vs. la confusión de roles en la adolescencia (fidelidad), la intimidad vs. el aislamiento en la adultez temprana (amor), la generatividad vs. el estancamiento en la mediana edad (cuidado), y la integridad del ego vs. la desesperación en la vejez (sabiduría).
+**El Principio del Desarrollo como Proceso Continuo a lo Largo de Toda la Vida con Tareas específicas en Cada Etapa:** Erik Erikson propuso en 1950 el modelo de desarrollo psicosocial de ocho etapas que abarcan toda la vida humana. Cada etapa presenta una crisis o tensión que, bien resuelta, produce una virtud psicológica: la confianza vs. la desconfianza en la infancia (esperanza), la iniciativa vs. la culpa en la ninez temprana (proposito), la industria vs. la inferioridad en la ninez media (competencia), la identidad vs. la confusión de roles en la adolescencia (fidelidad), la intimidad vs. el aislamiento en la adultez temprana (amor), la generatividad vs. el estancamiento en la mediana edad (cuidado), y la integridad del ego vs. la desesperación en la vejez (sabiduría).
 
 Jean Piaget y Lev Vygotsky estudiaron el desarrollo cognitivo; Lawrence Kohlberg y Carol Gilligan el desarrollo moral. La conclusión común es que el desarrollo humano no se detiene en la adolescencia sino que continua, con tareas y posibilidades específicas en cada etapa de la vida adulta.
 
@@ -37,11 +37,11 @@ El crecimiento que necesitas no es el mismo en cada etapa de la vida. El que ign
 
 Isabel ha acumulado mucho conocimiento sobre psicología y desarrollo personal a lo largo de los años. La sabiduría, descubre, es algo diferente.
 
-**El Principio de la Sabiduria como Integración del Conocimiento, la Experiencia, y la Perspectiva que no puede Adquirirse Solo a traves del Aprendizaje:** Paul Baltes, del Instituto Max Planck de Berlin, estudio la sabiduría empiricamente durante décadas. Su modeló AARP (Berlin Wisdom Paradigm) define la sabiduría como expertise en pragmatica fundamental de la vida: el conocimiento sobre el significado y la conducta de la vida con alta calidad epistémica y del contexto. La sabiduría requiere: factual knowledge sobre la vida, conocimiento procedimental sobre el manejo de los asuntos vitales, conocimiento del contexto vital y de las diferencias individuales y culturales, relativismo (reconocer la pluralidad de los valores), e incertidumbre (reconocer los límites del conocimiento).
+**El Principio de la Sabiduria como Integración del Conocimiento, la Experiencia, y la Perspectiva que no puede Adquirirse Solo a traves del Aprendizaje:** Paul Baltes, del Instituto Max Planck de Berlin, estudio la sabiduría empiricamente durante décadas. Su modelo AARP (Berlin Wisdom Paradigm) define la sabiduría como expertise en pragmatica fundamental de la vida: el conocimiento sobre el significado y la conducta de la vida con alta calidad epistémica y del contexto. La sabiduría requiere: factual knowledge sobre la vida, conocimiento procedimental sobre el manejo de los asuntos vitales, conocimiento del contexto vital y de las diferencias individuales y culturales, relativismo (reconocer la pluralidad de los valores), e incertidumbre (reconocer los límites del conocimiento).
 
 La sabiduría no puede adquirirse solo a traves del aprendizaje: requiere la integración de la experiencia de vida (incluyendo la adversidad y el fracaso) con la reflexión sobre esa experiencia. Es el resultado de haber vivido mucho y haberlo pensado suficientemente.
 
-**Ejercicio inmediato:** Reflexiona sobre la diferencia entre el conocimiento que has adquirido (lo que sabes sobre psicología, desarrollo personal, relaciones, trabajo) y la sabiduría que has desarrollado (lo que puedes hacer con ese conocimiento en situaciones concretas de la vida real, con sus contradicciones y su incertidumbre). Que experiencias han contribuido más a tu sabiduría? Que conocimientos que tienes todavia no has podido integrar en sabiduría práctica?
+**Ejercicio inmediato:** Reflexiona sobre la diferencia entre el conocimiento que has adquirido (lo que sabes sobre psicología, desarrollo personal, relaciones, trabajo) y la sabiduría que has desarrollado (lo que puedes hacer con ese conocimiento en situaciones concretas de la vida real, con sus contradicciones y su incertidumbre). ¿Que experiencias han contribuido más a tu sabiduría? ¿Que conocimientos que tienes todavia no has podido integrar en sabiduría práctica?
 
 El conocimiento que no se vive no se convierte en sabiduría. La sabiduría que no se transmite se pierde.
 
@@ -55,7 +55,7 @@ Ruben ha aprendido que la madurez psicológica no es la eliminación de los conf
 
 La investigación moderna sobre la complejidad del self (self-complexity) de Patricia Linville muestra que las personas con mayor complejidad del self (que tienen multiples y diferenciadas dimensiones del yo) muestran mayor resiliencia ante las adversidades porque el fracaso en una dimensión no destruye toda la auto-imagen.
 
-**Ejercicio inmediato:** Identifica una polaridad en tu carácter que has tendido a resolver eliminando un polo en lugar de integrandolos: ambición y aceptación, independencia y conexión, acción y reflexión, racionalidad y emoción. Reflexiona: que pierdes cuando solo tienes acceso a un polo de esa polaridad? Que ganas cuando puedes moverse entre los dos? La madurez no es encontrar el punto medio sino poder acceder a toda la escala.
+**Ejercicio inmediato:** Identifica una polaridad en tu carácter que has tendido a resolver eliminando un polo en lugar de integrandolos: ambición y aceptación, independencia y conexión, acción y reflexión, racionalidad y emoción. Reflexiona: ¿que pierdes cuando solo tienes acceso a un polo de esa polaridad? ¿Que ganas cuando puedes moverse entre los dos? La madurez no es encontrar el punto medio sino poder acceder a toda la escala.
 
 La persona que solo puede ser una cosa se rompe cuando la vida le pide la otra. La que puede ser las dos sobrevive a ambas.
 
@@ -69,7 +69,7 @@ Elena ha aprendido que sus relaciones son el lugar donde mejor puede ver quien r
 
 La investigación de John Gottman muestra que las relaciones revelan dimensiones del carácter que no aparecen en la reflexión solitaria: la forma en que respondemos cuando el otro nos defrauda, la forma en que pedimos lo que necesitamos, la forma en que gestionamos el conflicto, la forma en que celebramos los éxitos del otro. Esas respuestas son el test de quien realmente somos, más honesto que cualquier cuestionario de personalidad.
 
-**Ejercicio inmediato:** Reflexiona sobre la relación más desafiante de tu vida actual (la que más te hace crecer aunque también más te incomoda). Que aspecto de ti mismo revela esa relación que las relaciones más comfortables no revelan? Que oportunidad de crecimiento específica ofrece esa dificultad relacional? Las relaciones difíciles son frecuentemente los espejos que más información ofrecen sobre quien somos.
+**Ejercicio inmediato:** Reflexiona sobre la relación más desafiante de tu vida actual (la que más te hace crecer aunque también más te incomoda). ¿Que aspecto de ti mismo revela esa relación que las relaciones más comfortables no revelan? ¿Que oportunidad de crecimiento específica ofrece esa dificultad relacional? Las relaciones difíciles son frecuentemente los espejos que más información ofrecen sobre quien somos.
 
 La persona que conoces mejor de ti misma no eres tu solo. Eres tu en relación con los que te importan.
 
@@ -83,7 +83,7 @@ Isabel piensa cada vez más en que querrá haber dejado cuando ya no este.
 
 La investigación de Dan McAdams sobre las narrativas generativas muestra que las personas con mayor orientación hacía la generatividad reportan mayor bienestar, mayor sentido de proposito, y mayor satisfacción vital en la mediana y la vejez. El cuidado por las generaciones futuras no es un sacrificio del bienestar presente: es frecuentemente uno de los mayores contribuidores a el.
 
-**Ejercicio inmediato:** Reflexiona sobre la pregunta del legado en sus tres formas: que quiero haber contribuido a las personas que me son cercanas? Que quiero haber contribuido a mi comunidad o profesión? Que quiero haber contribuido al mundo más amplio? No para establecer un estandar imposible sino para orientar la inversión del tiempo y la energía en la segunda mitad de la vida hacía lo que producira la satisfacción más profunda a largo plazo.
+**Ejercicio inmediato:** Reflexiona sobre la pregunta del legado en sus tres formas: ¿que quiero haber contribuido a las personas que me son cercanas? ¿Que quiero haber contribuido a mi comunidad o profesión? Que quiero haber contribuido al mundo más amplio? No para establecer un estandar imposible sino para orientar la inversión del tiempo y la energía en la segunda mitad de la vida hacía lo que producira la satisfacción más profunda a largo plazo.
 
 Vivir para dejar algo que vale la pena no es sacrificio. Es la forma más profunda de beneficio propio.
 
@@ -97,7 +97,7 @@ Elena, Ruben, e Isabel no son viejos todavia. Pero los patrones que establecen a
 
 Laura Carstensen y la Teoria de la Selectividad Socio-emocional muestran que a medida que las personas envejecen y perciben que el tiempo que les queda es más limitado, naturalmente reorienten sus prioridades hacía las relaciones y las experiencias que producen mayor significado, y hacía las emociones positivas. El envejecimiento no es solo deterioro: es frecuentemente una reorientación hacía lo que genuinamente importa.
 
-**Ejercicio inmediato:** Para las personas de mayor edad que conoces (padres, abuelos, mentores) que muestran mayor bienestar y satisfacción en la vejez, reflexiona: que han priorizado en su vida que produce ese resultado? Que patrones han establecido que ahora les sirven? Esas observaciones son información concreta sobre que decisiones tomar ahora para el envejecimiento que vendrá.
+**Ejercicio inmediato:** Para las personas de mayor edad que conoces (padres, abuelos, mentores) que muestran mayor bienestar y satisfacción en la vejez, reflexiona: ¿que han priorizado en su vida que produce ese resultado? ¿Que patrones han establecido que ahora les sirven? Esas observaciones son información concreta sobre que decisiones tomar ahora para el envejecimiento que vendrá.
 
 El envejecimiento que tienes a los setenta lo estas construyendo ahora. Y eso es una oportunidad, no una carga.
 
@@ -111,7 +111,7 @@ Ruben ha evitado pensar en la muerte. La investigación sugiere que ese es un er
 
 Steve Jobs proponía que contemplar la propia muerte era la mejor herramienta para tomar las decisiones importantes: frente a la muerte, la mayor parte de las presiones externas (la opinión de los demás, el miedo al fracaso) pierden su fuerza, y lo que genuinamente importa se vuelve más visible. Investigaciones sobre el thinking about own death (TOD) confirman que la mortalidad saliente produce mayor orientación hacía los valores profundos y menor orientación hacía el estatus y la aprobación social.
 
-**Ejercicio inmediato:** práctica el ejercicio stoico de memento mori: durante cinco minutos, contempla que algún dia moriras y que ese dia podría ser más próximo de lo que esperas. Después reflexiona: dado eso, que cambiaria en como uso el tiempo de esta semana? Que conversaciones tendría que no he tenido? Que proyectos empezaria? Esa claridad que la contemplación de la muerte produce no esta disponible de la misma forma en ninguna otra práctica.
+**Ejercicio inmediato:** práctica el ejercicio stoico de memento mori: durante cinco minutos, contempla que algún dia moriras y que ese dia podría ser más próximo de lo que esperas. Después reflexiona: ¿dado eso, que cambiaria en como uso el tiempo de esta semana? ¿Que conversaciones tendría que no he tenido? Que proyectos empezaria? Esa claridad que la contemplación de la muerte produce no esta disponible de la misma forma en ninguna otra práctica.
 
 La muerte que no piensas no deja de acercarse. Pero al pensarla, puedes decidir lo que importa antes de que ella decida.
 
@@ -125,7 +125,7 @@ Isabel lleva una vida de aprendizaje y ha llegado a entender que la integración
 
 Viktor Frankl propuso que la capacidad de dar sentido a la propia vida (de narrarla de forma que tenga coherencia y proposito) es la dimensión psicológica más específicamente humana y la fuente de la mayor resiliencia ante la adversidad.
 
-**Ejercicio inmediato:** Escribe en una página la historia de tu vida hasta ahora como si se la contaras a alguien que no te conoce: los momentos que más te han formado, las personas que más han influido en quien eres, los aprendizajes que más valoras, y el tema central que conecta todo. Después reflexiona: que historia emerge? Es una historia de crecimiento, de resistencia, de busqueda, de contribución? La respuesta revela el hilo narrativo de quien eres y orienta el siguiente capítulo.
+**Ejercicio inmediato:** Escribe en una página la historia de tu vida hasta ahora como si se la contaras a alguien que no te conoce: los momentos que más te han formado, las personas que más han influido en quien eres, los aprendizajes que más valoras, y el tema central que conecta todo. Después reflexiona: ¿que historia emerge? ¿Es una historia de crecimiento, de resistencia, de busqueda, de contribución? La respuesta revela el hilo narrativo de quien eres y orienta el siguiente capítulo.
 
 La historia de tu vida que no puedes contar todavia es la que estas escribiendo ahora. Escribe la que querrías haber escrito.
 
@@ -137,9 +137,9 @@ Elena ha aprendido que el crecimiento personal que más ha durado siempre ha ten
 
 **El Principio del Crecimiento Personal como Inherentemente Social: el Individuo Crece en Relación con su Comunidad y Contribuye a su Crecimiento:** Lev Vygotsky propuso que el desarrollo cognitivo ocurre primero en el plano intersubjetivo (entre personas) y solo después en el plano intrapsiquico (dentro del individuo). El crecimiento personal que se experimenta como puramente individual es frecuentemente el resultado de procesos relacionales y culturales que no se reconocen como tales.
 
-Las tradiciones contemplativas (el budismo, el sufismo, el hermetismo cristiano, la práctica judia del hevruta) han entendido que el crecimiento espiritual y personal requiere comunidad: el sangha budista, la havura judia, la comunidad benedictina. No porque el crecimiento solitario sea imposible sino porque el crecimiento en comunidad tiene dimensiones (el modeló, el diálogo, la práctica compartida, la accountability mutua) que el solitario no puede producir.
+Las tradiciones contemplativas (el budismo, el sufismo, el hermetismo cristiano, la práctica judia del hevruta) han entendido que el crecimiento espiritual y personal requiere comunidad: el sangha budista, la havura judia, la comunidad benedictina. No porque el crecimiento solitario sea imposible sino porque el crecimiento en comunidad tiene dimensiones (el modelo, el diálogo, la práctica compartida, la accountability mutua) que el solitario no puede producir.
 
-**Ejercicio inmediato:** Reflexiona sobre las comunidades que más han contribuido a tu crecimiento personal: familia, amigos, colegas, grupos de práctica, comunidades de aprendizaje. Para las que han sido más significativas, reflexiona: que condiciones hacían posible ese crecimiento en esa comunidad? Como podrías crear o unirte a una comunidad con condiciones similares en el próximo período de tu vida?
+**Ejercicio inmediato:** Reflexiona sobre las comunidades que más han contribuido a tu crecimiento personal: familia, amigos, colegas, grupos de práctica, comunidades de aprendizaje. Para las que han sido más significativas, reflexiona: ¿que condiciones hacían posible ese crecimiento en esa comunidad? ¿Como podrías crear o unirte a una comunidad con condiciones similares en el próximo período de tu vida?
 
 El crecimiento que alcanzas solo tiene tus propios límites. El que alcanzas con otros puede alcanzar los de todos.
 

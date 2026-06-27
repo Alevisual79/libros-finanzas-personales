@@ -23,7 +23,7 @@ Ruben se sienta a trabajar en un proyecto importante a las diez de la mañana. A
 
 La atención no es un interruptor que se enciende o apaga. Es un recurso con capacidad limitada, que se agota con el uso y se renueva con el descanso adecuado, y que opera bajo reglas neurologicas específicas que pocas personas conocen aunque todos usamos.
 
-**El Principio de la Atención como Presupuesto Cognitivo:** Daniel Kahneman propuso el modeló de la atención cómo un presupuesto cognitivo limitado: cada persona dispone de una cantidad finita de recursos atencionales en un período dado, y cada demanda cognitiva consume parte de ese presupuesto. Cuando el presupuesto se agota, la calidad del procesamiento cognitivo cae drasticamente aunque la persona no siempre sea consciente de esa caida. Los errores, las malas decisiones y la irritabilidad al final del dia son frecuentemente señales de presupuesto agotado, no de defectos de carácter.
+**El Principio de la Atención como Presupuesto Cognitivo:** Daniel Kahneman propuso el modelo de la atención cómo un presupuesto cognitivo limitado: cada persona dispone de una cantidad finita de recursos atencionales en un período dado, y cada demanda cognitiva consume parte de ese presupuesto. Cuando el presupuesto se agota, la calidad del procesamiento cognitivo cae drasticamente aunque la persona no siempre sea consciente de esa caida. Los errores, las malas decisiones y la irritabilidad al final del dia son frecuentemente señales de presupuesto agotado, no de defectos de carácter.
 
 Lo que los neurocientificos llaman fatiga de decisión describe el fenómeno documentado de que la calidad de las decisiones se deteriora sistemáticamente a medida que se toman más decisiones a lo largo del dia. Un estudio clasico sobre jueces mostró que las decisiones de libertad provisional otorgadas por jueces eran significativamente más favorables al inició de la jornada y después del almuerzo que al final de cada período, sugiriendo que el número de decisiones tomadas, no la dificultad intrinseca del caso, predecia el resultado.
 
@@ -83,7 +83,7 @@ Elena ha tenido experiencias en las que el tiempo desaparece: trabajando en un p
 
 La implicación práctica es que el flujo no ocurre por accidente. Sus condiciones (tarea con desafio calibrado, objetivo claro, feedback inmediato, ausencia de interrupciones) se pueden diseñar deliberadamente. Las personas que sistemáticamente experimentan más flujo en su vida cotidiana han aprendido a crear esas condiciones activamente, no a esperar que ocurran espontaneamente.
 
-**Ejercicio inmediato:** Identifica la actividad en tu vida en la que más frecuentemente experimentas estado de flujo. Analiza sus condiciones: que hace que esa actividad facilite el flujo mientras otras no lo hacen? Aplica esas condiciones deliberadamente a las tareas de trabajo que más te importan.
+**Ejercicio inmediato:** Identifica la actividad en tu vida en la que más frecuentemente experimentas estado de flujo. Analiza sus condiciones: ¿que hace que esa actividad facilite el flujo mientras otras no lo hacen? Aplica esas condiciones deliberadamente a las tareas de trabajo que más te importan.
 
 El flujo no es suerte. Es la consecuencia natural de las condiciones correctas, y esas condiciones se pueden diseñar.
 
@@ -109,7 +109,7 @@ Ruben trabaja sin pausas durante cuatro horas seguidas creyendo que eso maximiza
 
 **El Principio de los Ciclos Ultradianos de Atención:** Peretz Lavie, investigador del sueño, identifico ciclos de aproximadamente noventa minutos de alta y baja activación que operan durante la vigilia de forma analoga a los ciclos del sueño. Estos ciclos ultradianos producen ventanas naturales de alta concentración seguidas de períodos de menor capacidad atencional. Trabajar contra estos ciclos (forzando la concentración durante el período de baja activación) no los cancela. Solo genera mayor fatiga con menor productividad.
 
-Tony Schwartz, autor de The Power of Full Engagement, propone el modeló de gestión de energía (no de tiempo): la productividad sostenible no se logra trabajando más horas sino gestionando ciclos deliberados de esfuerzo y recuperación analogos al entrenamiento atletico. Los atletas de elite no entrenan ocho horas sin pausa. Alternan períodos de esfuerzo máximo con recuperación deliberada. Los trabajadores de conocimiento que aplican este modeló reportan mayor productividad en menos horas.
+Tony Schwartz, autor de The Power of Full Engagement, propone el modelo de gestión de energía (no de tiempo): la productividad sostenible no se logra trabajando más horas sino gestionando ciclos deliberados de esfuerzo y recuperación analogos al entrenamiento atletico. Los atletas de elite no entrenan ocho horas sin pausa. Alternan períodos de esfuerzo máximo con recuperación deliberada. Los trabajadores de conocimiento que aplican este modelo reportan mayor productividad en menos horas.
 
 **Ejercicio inmediato:** Experimenta con bloques de noventa minutos de trabajo profundo seguidos de quince a veinte minutos de descanso activo (caminar, estirar, estar sin pantallas). Muchas personas encuentran que producen más en tres ciclos de este tipo que en ocho horas de trabajo fragmentado.
 

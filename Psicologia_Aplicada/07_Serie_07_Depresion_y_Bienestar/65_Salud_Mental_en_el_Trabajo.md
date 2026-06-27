@@ -51,11 +51,11 @@ Los límites que no estableces en el trabajo no son los que no se necesitan. Son
 
 Ruben tiene más control sobre su trabajo que la mayoría (es autonomo), pero percibe muy poco control sobre los aspectos que más le importan.
 
-**El Principio del Control Percibido como Variable Central en la Salud Laboral:** El modeló demanda-control de Robert Karasek, uno de los modelos más influyentes en psicología de la salud laboral, propone que el riesgo para la salud mental emerge de la combinación de alta demanda (alta presión, muchas tareas, plazos ajustados) y bajo control (poca autonomía, poca capacidad de decisión sobre cómo se realiza el trabajo). Los trabajos de alta demanda-bajo control son los de mayor riesgo de enfermedades cardiovasculares, depresión, y burnout.
+**El Principio del Control Percibido como Variable Central en la Salud Laboral:** El modelo demanda-control de Robert Karasek, uno de los modelos más influyentes en psicología de la salud laboral, propone que el riesgo para la salud mental emerge de la combinación de alta demanda (alta presión, muchas tareas, plazos ajustados) y bajo control (poca autonomía, poca capacidad de decisión sobre cómo se realiza el trabajo). Los trabajos de alta demanda-bajo control son los de mayor riesgo de enfermedades cardiovasculares, depresión, y burnout.
 
 La investigación de Karasek y Theorell muestra que la autonomía en el trabajo (la capacidad de decidir como, cuando, y en que orden hacer el trabajo) es un factor protector de la salud mental que modera el efecto de la alta demanda. Los trabajadores con alta autonomía pueden manejar mayores cargas de trabajo sin los costes de salud que producen en trabajadores con baja autonomía.
 
-**Ejercicio inmediato:** En tu trabajo actual, identifica los aspectos sobre los que tienes más control (aunque sea pequeño). A continuación identifica los aspectos sobre los que tienes menos control. Para los segundos: hay alguno que pudieras incrementar, aunque fuera marginalmente? A veces el incremento de control es pequeño (elegir el orden de las tareas, la hora del almuerzo, el lugar donde trabajar) pero tiene efectos sobre la percepción de autonomía que son mayores de lo que el cambio concreto sugiere.
+**Ejercicio inmediato:** En tu trabajo actual, identifica los aspectos sobre los que tienes más control (aunque sea pequeño). A continuación identifica los aspectos sobre los que tienes menos control. Para los segundos: ¿hay alguno que pudieras incrementar, aunque fuera marginalmente? A veces el incremento de control es pequeño (elegir el orden de las tareas, la hora del almuerzo, el lugar donde trabajar) pero tiene efectos sobre la percepción de autonomía que son mayores de lo que el cambio concreto sugiere.
 
 El trabajo que te consume no siempre es el que tiene más carga. A veces es el que tiene menos control. Y el control, aunque sea pequeño, marca la diferencia.
 
@@ -83,7 +83,7 @@ Ruben tiene un cliente que le produce una tensión cronica que no ha resuelto. E
 
 La investigación de William Kahn sobre el compromiso en el trabajo muestra que las personas se comprometen cuando sienten seguridad psicológica: la confianza de que pueden mostrarse tal como son (incluyendo admitir errores, pedir ayuda, o expresar ideas) sin consecuencias negativas. Los entornos con alta seguridad psicológica producen mayor creatividad, mayor aprendizaje, y mejor rendimiento del equipo.
 
-**Ejercicio inmediato:** Para la relación laboral que más te cuesta en este momento, reflexiona: que ocurriria si abordaras directamente el problema? Si la respuesta es que las consecuencias serían manejables, considera iniciar esa conversación con un enfoque de busqueda de solución. Si las consecuencias podrían ser significativas, esa información es relevante para evaluar si ese entorno laboral es sostenible a largo plazo.
+**Ejercicio inmediato:** Para la relación laboral que más te cuesta en este momento, reflexiona: ¿que ocurriria si abordaras directamente el problema? Si la respuesta es que las consecuencias serían manejables, considera iniciar esa conversación con un enfoque de busqueda de solución. Si las consecuencias podrían ser significativas, esa información es relevante para evaluar si ese entorno laboral es sostenible a largo plazo.
 
 La relación laboral que no resuelves no desaparece. Se convierte en el contexto de tu vida cotidiana.
 
@@ -111,7 +111,7 @@ Ruben hace trabajo que a veces le parece sin sentido. Tiene que facturar, pero h
 
 La investigación muestra que incluso en trabajos con poca autonomía formal, los trabajadores que practican el job crafting muestran mayor satisfacción, mayor rendimiento, y menor tasa de burnout. El job crafting de significado (cambiar el marcó cognitivo de por qué se hace el trabajo) es especialmente accesible: los conserjes del hospital de Wrzesniewski que veían su trabajo como parte del cuidado de los pacientes mostraban mayor bienestar que los que lo veían como limpieza.
 
-**Ejercicio inmediato:** Para tu trabajo actual, identifica: con quien interactuas en tu trabajo (clientes, compañeros, usuarios) que te permite ver el impacto de lo que produces? Hacer más visible ese impacto (aunque sea a traves de un correo de agradecimiento de un cliente) es una forma de job crafting que no requiere cambiar el trabajo sino la forma en que lo ves.
+**Ejercicio inmediato:** Para tu trabajo actual, identifica: ¿con quien interactuas en tu trabajo (clientes, compañeros, usuarios) que te permite ver el impacto de lo que produces? Hacer más visible ese impacto (aunque sea a traves de un correo de agradecimiento de un cliente) es una forma de job crafting que no requiere cambiar el trabajo sino la forma en que lo ves.
 
 El trabajo que no tiene sentido para ti todavia puede tenerlo si cambias el ángulo desde el que lo ves. No siempre es posible. Pero más veces de lo que crees, si lo es.
 
@@ -137,9 +137,9 @@ Ruben ha tenido períodos de salud mental muy deteriorada que han afectado a su 
 
 **El Principio de la Revelación Selectiva en el Entorno Laboral como Estrategia de Gestion:** La investigación de Diane Quinn y colegas sobre el estigma de la salud mental en el trabajo muestra que el nivel de estigma varia significativamente por cultura organizacional, sector, y pais. Hablar de la salud mental en el trabajo es un riesgo que puede producir apoyo o estigma segun el contexto.
 
-La estrategia de revelación selectiva en el trabajo incluye: evaluar la cultura del entorno (hay personas que han hablado de salud mental sin consecuencias negativas?), elegir con quien compartir (el jefe directo puede ser un aliado o un riesgo segun el caso), y pedir lo que se necesita de forma concreta (necesito reducir temporalmente mi carga de trabajo es más accionable que estoy pasandolo mal).
+La estrategia de revelación selectiva en el trabajo incluye: ¿evaluar la cultura del entorno (hay personas que han hablado de salud mental sin consecuencias negativas?), elegir con quien compartir (el jefe directo puede ser un aliado o un riesgo segun el caso), y pedir lo que se necesita de forma concreta (necesito reducir temporalmente mi carga de trabajo es más accionable que estoy pasandolo mal).
 
-**Ejercicio inmediato:** Si la salud mental esta afectando a tu rendimiento laboral, reflexiona: quien en tu entorno laboral podría ser un aliado si compartieras lo que vives? No necesitas decirlo a todos. A veces una persona de confianza es suficiente para gestionar el entorno laboral durante un período de dificultad.
+**Ejercicio inmediato:** Si la salud mental esta afectando a tu rendimiento laboral, reflexiona: ¿quien en tu entorno laboral podría ser un aliado si compartieras lo que vives? No necesitas decirlo a todos. A veces una persona de confianza es suficiente para gestionar el entorno laboral durante un período de dificultad.
 
 No tienes que declarar tu salud mental a todo el mundo. Pero tener al menos un aliado en el trabajo puede hacer la diferencia entre sobrevivir el período difícil y que el trabajo lo haga aun más difícil.
 
@@ -153,7 +153,7 @@ Isabel ha llegado a entender que el trabajo que tiene ahora no puede ser el trab
 
 La investigación de Adam Grant sobre el significado en el trabajo muestra que los trabajadores que pueden usar sus fortalezas distintivas en el trabajo al menos una hora al dia muestran significativamente mayor satisfacción y menor burnout que los que nunca tienen esa oportunidad.
 
-**Ejercicio inmediato:** Diseña tu visión del trabajo sostenible a cinco años: como sería un dia de trabajo que pudieras mantener indefinidamente sin que destruyera tu salud? Que tendría que cambiar en tu trabajo actual para aproximarse a esa visión? La respuesta a esas preguntas es el mapa del trabajo que quieres construir.
+**Ejercicio inmediato:** Diseña tu visión del trabajo sostenible a cinco años: ¿como sería un dia de trabajo que pudieras mantener indefinidamente sin que destruyera tu salud? ¿Que tendría que cambiar en tu trabajo actual para aproximarse a esa visión? La respuesta a esas preguntas es el mapa del trabajo que quieres construir.
 
 El trabajo que destruye la salud para producir éxito no es éxito. Es una deuda que se pagara con la salud cuando ya no queden más recursos.
 

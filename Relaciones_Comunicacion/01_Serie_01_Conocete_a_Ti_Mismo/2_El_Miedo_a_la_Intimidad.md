@@ -35,7 +35,7 @@ Andres tenía una vida social envidiable. Quedadas, grupos de WhatsApp, planes c
 
 El psicologo Harry Stack Sullivan distinguio entre contacto social y contacto intimo. El contacto social intercambia información. El contacto intimo intercambia verdad. La mayoría de las conversaciones, incluso entre personas que se conocen hace años, son contacto social.
 
-**Ejercicio inmediato:** Piensa en las cinco personas con las que más tiempo pasas. Para cada una, escribe: sabe esta persona algo mio que me costaria que supiera? Si la respuesta es no en todos los casos, tienes muchos conocidos y poca intimidad.
+**Ejercicio inmediato:** Piensa en las cinco personas con las que más tiempo pasas. Para cada una, escribe: ¿sabe esta persona algo mio que me costaria que supiera? Si la respuesta es no en todos los casos, tienes muchos conocidos y poca intimidad.
 
 La intimidad no se construye con tiempo. Se construye con verdad compartida.
 
@@ -63,7 +63,7 @@ Hay personas que pueden tener sexo con alguien y no sentir ninguna intimidad. Y 
 
 Irene Goldenberg, especialista en terapia familiar, señal que los conflictos de intimidad en pareja suelen ser conflictos de capas: cada persona busca un tipo de intimidad distinto y ninguna de las dos ve claramente que la otra también esta intentando conectar, solo que desde una capa diferente.
 
-**Ejercicio inmediato:** De los seis tipos de intimidad, cual te resulta más facil? Cual te cuesta más? Con quien de tu vida tienes cada tipo? Ese mapa te dice donde estan tus fortalezas relacionales y donde estan tus puntos ciegos.
+**Ejercicio inmediato:** De los seis tipos de intimidad, cual te resulta más facil? ¿Cual te cuesta más? Con quien de tu vida tienes cada tipo? Ese mapa te dice donde estan tus fortalezas relacionales y donde estan tus puntos ciegos.
 
 No tienes que abrirte en todos los frentes a la vez. Empieza por la capa en que ya eres más fluido y avanza desde ahí.
 
@@ -77,7 +77,7 @@ Cuanto más se acercaba la novia de Pablo, más encontraba Pablo razones para al
 
 David Schnarch, terapeuta de pareja, describe este fenómeno como diferenciación baja: la incapacidad de mantener un sentido estable de uno mismo dentro de la conexión emocional con otro. El distanciador regula su ansiedad controlando la distancia. El buscador ansioso regula la suya persiguiendo la cercania. Juntos forman el ciclo de perseguidor-distanciador que Gottman identifica en el 80% de las parejas en conflicto.
 
-**Ejercicio inmediato:** Piensa en una relación importante. Cuando el otro se acerca mucho, que haces? Cuando el otro se aleja, que haces? Esas dos respuestas automáticas son tu termostato relacional. Solo puedes cambiarlo si primero lo ves.
+**Ejercicio inmediato:** Piensa en una relación importante. ¿Cuando el otro se acerca mucho, que haces? ¿Cuando el otro se aleja, que haces? Esas dos respuestas automáticas son tu termostato relacional. Solo puedes cambiarlo si primero lo ves.
 
 La paradoja del distanciador no se resuelve eligiendo la distancia. Se resuelve aprendiendo a tolerar la cercania.
 
@@ -91,7 +91,7 @@ Sofia llevaba dos años en una relación con un hombre casado. Antes había esta
 
 Los estudios de Kim Bartholomew sobre estilos de apego en adultos muestran que las personas con apego temeroso (que quieren intimidad pero la temen) consistentemente eligen parejas con baja disponibilidad emocional. No por masoquismo. Por protección.
 
-**Ejercicio inmediato:** En tus últimas relaciones significativas, como era la disponibilidad emocional del otro? Alta, media o baja? Que nivel de disponibilidad te resultaba comodo? Cual te incomodaba? La respuesta te habla de tu umbral de tolerancia a la intimidad real.
+**Ejercicio inmediato:** En tus últimas relaciones significativas, como era la disponibilidad emocional del otro? ¿Alta, media o baja? Que nivel de disponibilidad te resultaba comodo? ¿Cual te incomodaba? La respuesta te habla de tu umbral de tolerancia a la intimidad real.
 
 No es que no encuentres a la persona adecuada. Es que cuando la encuentras, la encuentras demasiado disponible para ser interesante.
 
@@ -117,7 +117,7 @@ Lola había trabajado años en terapia su miedo a la intimidad. Habia entendido 
 
 **El Principio de la Apertura Graduada:** La intimidad no funciona de cero a cien. Funciona en escalones. Compartir algo pequeño primero y ver cómo lo recibe el otro. Si la respuesta es segura, compartir algo un poco mayor. Construir confianza cómo se construye musculo: con resistencia progresiva, no con un esfuerzo heroico unico. Intentar pasar de totalmente cerrado a totalmente abierto de golpe es la receta para el trauma relacional, no para la intimidad.
 
-El modeló de penetración social de Altman y Taylor demuestra que las relaciones que perduran siguen un proceso de apertura gradual y reciproca. Cuando una persona se abre, la otra responde con una apertura similar. Cuando ese ciclo se interrumpe (uno se abre demasiado rápido o el otro no corresponde) la relación se desestabiliza.
+El modelo de penetración social de Altman y Taylor demuestra que las relaciones que perduran siguen un proceso de apertura gradual y reciproca. Cuando una persona se abre, la otra responde con una apertura similar. Cuando ese ciclo se interrumpe (uno se abre demasiado rápido o el otro no corresponde) la relación se desestabiliza.
 
 **Ejercicio inmediato:** Elige una persona de tu vida con quien quieras tener más intimidad. Identifica algo que no le has contado y que podrías contarle sin que suponga un riesgo enorme. No tu mayor secreto. Un paso. Comprueba como responde. Esa información te dice si la relación puede soportar más apertura.
 
@@ -147,7 +147,7 @@ Elena lleva años esperando que las relaciones profundas ocurran solas. Que algu
 
 Arthur Aron, psicologo de la State University of New York, realizo un experimento que se hizo famoso: hizo que dos extraños se hicieran mutuamente una serie de 36 preguntas progresivamente más intimas y luego se miraran a los ojos cuatro minutos. El resultado: niveles de conexión equivalentes a años de amistad. La conclusión no es que la intimidad es facil. Es que la intimidad tiene ingredientes específicos y cuando los aplicas, funciona.
 
-**Ejercicio inmediato:** Elige una relación que quieras profundizar. Proponte hacerle al otro una pregunta real esta semana, una que vaya más allá de lo cotidiano. Que es lo que más te ha costado en los últimos seis meses? Que es lo que más te orgullece de ti mismo y por qué? Que cambio harías en tu vida si supieras que no puedes fracasar? Las respuestas a esas preguntas construyen intimidad más rápido que años de conversaciones superficiales.
+**Ejercicio inmediato:** Elige una relación que quieras profundizar. Proponte hacerle al otro una pregunta real esta semana, una que vaya más allá de lo cotidiano. ¿Que es lo que más te ha costado en los últimos seis meses? ¿Que es lo que más te orgullece de ti mismo y por qué? Que cambio harías en tu vida si supieras que no puedes fracasar? Las respuestas a esas preguntas construyen intimidad más rápido que años de conversaciones superficiales.
 
 La intimidad no espera a que te sientas preparado. Ocurre cuando decides ir hacía ella.
 

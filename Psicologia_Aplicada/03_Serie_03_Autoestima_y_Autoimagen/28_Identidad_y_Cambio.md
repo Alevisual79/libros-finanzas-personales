@@ -27,7 +27,7 @@ La pregunta quien soy asume frecuentemente que hay una respuesta fija y estable:
 
 Erik Erikson, cuya teoria del desarrollo psicosocial sigue siendo una de las más influyentes, propuso que la identidad se forma a traves de una serie de crisis resolubles a lo largo de la vida: cada etapa plantea una tensión entre dos polaridades (identidad versus confusión, intimidad versus aislamiento, generatividad versus estancamiento) cuya resolución forma el carácter de la identidad adulta. El proceso no termina en la adolescencia. Continua mientras se vive.
 
-**Ejercicio inmediato:** Escribe una linea de tiempo breve de quien has sido en los últimos diez años, identificando dos o tres cambios significativos en tus valores, prioridades o forma de ver el mundo. Luego pregunta: hay un hilo de continuidad que conecta todas esas versiones? Ese hilo, si existe, es el nucleo de identidad que persiste a traves del cambio.
+**Ejercicio inmediato:** Escribe una linea de tiempo breve de quien has sido en los últimos diez años, identificando dos o tres cambios significativos en tus valores, prioridades o forma de ver el mundo. Luego pregunta: ¿hay un hilo de continuidad que conecta todas esas versiones? Ese hilo, si existe, es el nucleo de identidad que persiste a traves del cambio.
 
 Cambiar no significa perderse. Significa que la historia que eres tiene nuevos capítulos.
 
@@ -69,7 +69,7 @@ Isabel se da cuenta de que es una persona diferente con su madre que con sus ami
 
 La distinción útil es entre adaptación de estilo (cambiar como te expresas segun el contexto manteniendo el mismo nucleo de valores) y traición al yo (cambiar lo que piensas, lo que valores, o lo que necesitas para ser aceptado en ese contexto). La primera es habilidad social. La segunda es la que erosiona la autenticidad.
 
-**Ejercicio inmediato:** Identifica un contexto donde te sientes más tu mismo (más autentico, más libre de ser quien eres) y un contexto donde te sientes menos tu mismo (más forzado, más ajustado a lo que crees que esperan). Compara: la diferencia esta en como te expresas (adaptación de estilo) o en que valores o necesidades estas suprimiendo (traición al yo)?
+**Ejercicio inmediato:** Identifica un contexto donde te sientes más tu mismo (más autentico, más libre de ser quien eres) y un contexto donde te sientes menos tu mismo (más forzado, más ajustado a lo que crees que esperan). Compara: ¿la diferencia esta en como te expresas (adaptación de estilo) o en que valores o necesidades estas suprimiendo (traición al yo)?
 
 Ser diferente en distintos contextos no es falta de autenticidad. Es inteligencia social. Ser alguien diferente en distintos contextos, si lo es.
 

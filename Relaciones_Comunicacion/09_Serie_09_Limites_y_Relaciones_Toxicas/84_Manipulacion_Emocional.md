@@ -49,7 +49,7 @@ La inducción deliberada de culpa es una de las tacticas de manipulación más c
 
 **El Principio de la Explotación del Sentido Moral Genuino:** La culpa inducida funciona explotando el sentido moral autentico de la persona manipulada (su deseo genuino de no dañar a otros), redirigiendolo artificialmente hacía situaciones donde, en realidad, no hay un daño real involucrado, solo el deseo de quien manipula de obtener cumplimiento. Reconocer esta explotación ayuda a distinguir entre la culpa legitima (por un daño real) y la culpa inducida artificialmente.
 
-**Ejercicio inmediato:** La próxima vez que sientas culpa intensa después de poner un límite o decir no a alguien, evalua: hay un daño real que justifica esa culpa, o estoy experimentando culpa inducida artificialmente para conseguir mi cumplimiento?
+**Ejercicio inmediato:** La próxima vez que sientas culpa intensa después de poner un límite o decir no a alguien, evalua: ¿hay un daño real que justifica esa culpa, o estoy experimentando culpa inducida artificialmente para conseguir mi cumplimiento?
 
 No toda culpa que sientes es información valida de que hiciste algo malo. Algunas culpas son inducidas artificialmente para manipular tu cumplimiento.
 

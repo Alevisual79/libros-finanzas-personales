@@ -25,7 +25,7 @@ No todas las relaciones dañadas tienen el mismo potencial de reparación, y ent
 
 **El Principio de los Factores de Reparabilidad:** Las relaciones con mayor potencial de reparación son las en que ambas partes mantienen algun nivel de respeto basico mutuo, en que el daño, aunque significativo, no involucra abuso continuado o peligro físico o psicológico, y en que al menos una de las partes muestra disposición genuina, no solo declarada, de hacer el trabajo necesario. La ausencia de estos factores no hace imposible la reparación, pero la hace significativamente más difícil y menos probable.
 
-**Ejercicio inmediato:** Para la relación que estas considerando reparar, evalua honestamente estos tres factores: hay respeto basico mutuo aun presente? El daño no involucra abuso continuado? Hay disposición genuina, no solo declarada, de trabajar en ello?
+**Ejercicio inmediato:** Para la relación que estas considerando reparar, evalua honestamente estos tres factores: ¿hay respeto basico mutuo aun presente? ¿El daño no involucra abuso continuado? Hay disposición genuina, no solo declarada, de trabajar en ello?
 
 No toda relación dañada se puede o se debe reparar. Evaluar honestamente el potencial real, antes de invertir energía, es el primer paso sensato.
 
@@ -37,7 +37,7 @@ Más allá de la posibilidad técnica de reparación, decidir si vale la pena in
 
 **El Principio del Valor Relacional como Criterio de Inversión:** La decisión de invertir en la reparación de una relación dañada se beneficia de considerar el valor que esa relación aporta o aportaria si se repara exitosamente, comparado con el costo emocional del proceso de reparación mismo. Algunas relaciones, aunque técnicamente reparables, pueden no justificar la inversión si su valor potencial es bajo o si el patron de daño es probable que se repita.
 
-**Ejercicio inmediato:** Para la relación que consideras reparar, evalua honestamente: cuanto valor aportaria esta relación reparada a tu vida? Ese valor justifica el esfuerzo emocional que el proceso de reparación requeriria?
+**Ejercicio inmediato:** Para la relación que consideras reparar, evalua honestamente: ¿cuanto valor aportaria esta relación reparada a tu vida? ¿Ese valor justifica el esfuerzo emocional que el proceso de reparación requeriria?
 
 No toda relación reparable merece ser reparada. El valor que aporta, comparado con el costo del esfuerzo, es información relevante para la decisión.
 

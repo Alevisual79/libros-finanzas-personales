@@ -153,7 +153,7 @@ Isabel, después de pensar en todo lo que va a cambiar, necesita anclar su refle
 
 Geoffrey Hinton, uno de los padres de las redes neuronales y ex líder de IA en Google, señala con toda su comprensión técnica que la IA, por avanzada que sea, no tiene experiencia subjetiva, no tiene cuerpo que siente, no tiene mortalidad que enfrenta, no tiene amor que perder. Esas limitaciones no son defectos de los sistemas de IA actuales que versión futura corregira. Son consecuencias de lo que son. Y esas limitaciones son precisamente lo que hace al cerebro humano irreemplazable en los dominios que más importan.
 
-**Ejercicio inmediato:** Haz una lista de las actividades de tu vida que generan mayor sentido y satisfacción, no solo placer inmediato o éxito externo. Luego reflexiona: de esas actividades, cuantas podría sustituir (o ya esta sustituyendo) la tecnología? Y cuantas son profundamente, constitutivamente humanas de una forma que ninguna tecnología puede replicar?
+**Ejercicio inmediato:** Haz una lista de las actividades de tu vida que generan mayor sentido y satisfacción, no solo placer inmediato o éxito externo. Luego reflexiona: ¿de esas actividades, cuantas podría sustituir (o ya esta sustituyendo) la tecnología? ¿Y cuantas son profundamente, constitutivamente humanas de una forma que ninguna tecnología puede replicar?
 
 El futuro de la inteligencia humana no esta en competir con las maquinas en lo que las maquinas hacen mejor. Está en ser profundamente humano en lo que las maquinas no pueden ser.
 

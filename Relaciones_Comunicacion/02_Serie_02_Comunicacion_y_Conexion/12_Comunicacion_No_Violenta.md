@@ -57,7 +57,7 @@ Siento que no me respetas no es un sentimiento. Es un pensamiento disfrazado de 
 
 Lisa Feldman Barrett muestra que las personas con vocabulario emocional más rico tienen mejor regulación emocional y mejores relaciones interpersonales. La precisión emocional no es un lujo. Es una habilidad con consecuencias directas en la calidad de la comunicación.
 
-**Ejercicio inmediato:** Cuando vayas a decir siento que..., para y preguntate: que emoción real hay aquí? Tristeza? Miedo? Frustración? Sustituye la formulación por: me siento (emoción real). Observa como cambia la conversación.
+**Ejercicio inmediato:** Cuando vayas a decir siento que..., para y preguntate: ¿que emoción real hay aquí? ¿Tristeza? Miedo? ¿Frustración? Sustituye la formulación por: me siento (emoción real). Observa como cambia la conversación.
 
 Cuando nombras tu emoción real, el otro puede escucharte. Cuando lanzas un juicio disfrazado, solo puede defenderse.
 
@@ -71,7 +71,7 @@ Detras de cada crítica, de cada queja, de cada ataque verbal, hay una necesidad
 
 Las necesidades universales incluyen: autonomía, celebración, integridad, interdependencia, conexión, comprensión. Ninguna necesidad es correcta o incorrecta. Lo que puede ser funcional o disfuncional es la estrategia que usamos para satisfacerla.
 
-**Ejercicio inmediato:** Piensa en el último conflicto que tuviste. Que necesidad tuya no estaba siendo satisfecha? Que necesidad del otro crees que tampoco? Ver las dos necesidades en paralelo suele revelar que no eran incompatibles. Solo había dos estrategias que chocaban.
+**Ejercicio inmediato:** Piensa en el último conflicto que tuviste. ¿Que necesidad tuya no estaba siendo satisfecha? ¿Que necesidad del otro crees que tampoco? Ver las dos necesidades en paralelo suele revelar que no eran incompatibles. Solo había dos estrategias que chocaban.
 
 El conflicto casi nunca es sobre lo que parece. Es sobre necesidades que no se estan viendo.
 
@@ -81,7 +81,7 @@ El conflicto casi nunca es sobre lo que parece. Es sobre necesidades que no se e
 
 Si de verdad me quisieras, harías esto no es una petición. Es una exigencia disfrazada de condición afectiva. Una petición es algo que el otro puede decir que no sin consecuencias para la relación. Una exigencia es algo que si se rechaza activa crítica, castigo o retirada afectiva.
 
-**El Principio de la Petición Genuina:** En CNV, una petición tiene tres caracteristicas: es concreta y específica, es posible en el momento, y es genuina (el no del otro puede ser recibido sin reacción punitiva). Necesito que me ayudes a mover estos muebles el sabado, puedes? Es una petición limpia. Si no puedes, no pasa nada es el elemento de margen que la hace genuina.
+**El Principio de la Petición Genuina:** En CNV, una petición tiene tres caracteristicas: ¿es concreta y específica, es posible en el momento, y es genuina (el no del otro puede ser recibido sin reacción punitiva). Necesito que me ayudes a mover estos muebles el sabado, puedes? Es una petición limpia. Si no puedes, no pasa nada es el elemento de margen que la hace genuina.
 
 Eli Finkel documenta que las parejas en que las peticiones son específicas, razonables y recibibles tienen niveles significativamente más altos de satisfacción relacional que las parejas en que las peticiones son vagas o vienen acompanadas de presión implícita.
 
@@ -141,7 +141,7 @@ La situación más común cuando empiezas a practicar la CNV es que el otro no l
 
 Rosenberg lo describe con la imagen del girafee y el chacal: el girafee puede escuchar el lenguaje chacal (ataques, críticas, juicios) y traducirlo internamente a necesidades antes de responder.
 
-**Ejercicio inmediato:** La próxima vez que alguien te ataque verbalmente, práctica la traducción interna: que necesidad hay detras de ese ataque? Responde a la necesidad, no al ataque: parece que necesitas más apoyo en esto. Esa respuesta suele cambiar el tono de inmediato.
+**Ejercicio inmediato:** La próxima vez que alguien te ataque verbalmente, práctica la traducción interna: ¿que necesidad hay detras de ese ataque? Responde a la necesidad, no al ataque: parece que necesitas más apoyo en esto. Esa respuesta suele cambiar el tono de inmediato.
 
 No necesitas que el otro cambie para cambiar la conversación.
 
@@ -153,7 +153,7 @@ La CNV no se aprende en un libro ni en un taller. Se aprende aplicandola, equivo
 
 **El Principio del Proceso sobre la Perfección:** Nadie aplica la CNV perfectamente. El objetivo no es hablar siempre con el proceso completo en la cabeza. Es que los principios vayan permeando la forma de pensar sobre las relaciones: buscar la observación antes que el juicio, identificar la emoción real, conectar con la necesidad, hacer peticiones en lugar de exigencias. Esos cuatro habitos, aplicados gradualmente, cambian la calidad de toda la comunicación.
 
-**Ejercicio inmediato:** Esta semana, cada vez que vayas a criticar a alguien, para y preguntate: que necesidad mia no se esta satisfaciendo aquí? Luego piensa como podrías comunicar esa necesidad en lugar de la crítica. Hacerlo algunas veces es suficiente para empezar a cambiar el patron.
+**Ejercicio inmediato:** Esta semana, cada vez que vayas a criticar a alguien, para y preguntate: ¿que necesidad mia no se esta satisfaciendo aquí? Luego piensa como podrías comunicar esa necesidad en lugar de la crítica. Hacerlo algunas veces es suficiente para empezar a cambiar el patron.
 
 La CNV no es un lenguaje que se habla. Es una forma de ver que, con práctica, cambia todo lo que dices.
 

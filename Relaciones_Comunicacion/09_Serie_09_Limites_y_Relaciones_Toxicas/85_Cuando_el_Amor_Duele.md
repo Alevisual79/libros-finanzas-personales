@@ -25,7 +25,7 @@ Distinguir entre las dificultades normales de cualquier relación significativa 
 
 **El Principio de la Distinción Basada en Patron e Intención:** El amor difícil pero saludable incluye conflicto que se resuelve, respeto basico mantenido incluso en el desacuerdo, y dolor ocasional sin patron de daño deliberado o sistemático. El abuso emocional se caracteriza por un patron consistente de comportamiento diseñado, consciente o inconscientemente, para controlar, disminuir o dañar a la otra persona, sin que el respeto basico se mantenga durante esos episodios.
 
-**Ejercicio inmediato:** Para una relación que te genera dolor significativo, evalua: ese dolor surge de conflicto normal que se resuelve con respeto mutuo, o de un patron consistente que disminuye sistemáticamente tu bienestar?
+**Ejercicio inmediato:** Para una relación que te genera dolor significativo, evalua: ¿ese dolor surge de conflicto normal que se resuelve con respeto mutuo, o de un patron consistente que disminuye sistemáticamente tu bienestar?
 
 No toda relación que duele es abusiva. Pero toda relación genuinamente abusiva duele de una forma sistemática y patronizada que el amor difícil saludable no produce.
 
@@ -133,7 +133,7 @@ Desarrollar la capacidad de reconocer las señales tempranas de dinámicas abusi
 
 **El Principio del Reconocimiento Preventivo como Resultado del Trabajo de Recuperación:** Las personas que completan un trabajo genuino de recuperación de una relación abusiva frecuentemente desarrollan mayor capacidad de reconocer señales tempranas de patrones similares (control disfrazado de preocupación, ciclos de idealización intensa, críticas crecientes) en conexiones futuras, lo cual les permite tomar decisiones más informadas antes de que un patron similar se establezca profundamente.
 
-**Ejercicio inmediato:** Si has completado trabajo de recuperación de una relación abusiva pasada, identifica específicamente que señales tempranas aprendiste a reconocer que antes minimizabas o no veias.
+**Ejercicio inmediato:** Si has completado trabajo de recuperación de una relación abusiva pasada, identifica específicamente que señales tempranas aprendiste a reconocer que antes minimizabas o no veías.
 
 El trabajo de recuperación de una relación abusiva no solo te sana del pasado. Te da herramientas concretas de reconocimiento para proteger tu futuro.
 

@@ -34,7 +34,7 @@ La salud mental no es solo no tener depresión ni ansiedad. Es un estado positiv
 - Relaciones satisfactorias
 - Sentido de propósito y bienestar subjetivo
 
-**El modeló del bienestar psicológico de Ryff:**
+**El modelo del bienestar psicológico de Ryff:**
 La psicóloga Carol Ryff identifico seis dimensiones del bienestar psicológico:
 1. Autoaceptación (relación positiva con uno mismo)
 2. Relaciones positivas con los demás

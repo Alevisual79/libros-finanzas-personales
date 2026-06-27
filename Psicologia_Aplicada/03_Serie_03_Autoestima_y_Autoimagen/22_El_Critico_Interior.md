@@ -25,7 +25,7 @@ El crítico interior no nace con nosotros. Se aprende en entornos donde la crít
 
 **El Principio del Critico Interior como Voz Internalizada:** Paul Gilbert, creador de la Terapia Centrada en la Compasión, propone que el crítico interior es frecuentemente la internalización de voces externas (padres, maestros, pares significativos) que la persona ha hecho propias hasta el punto de confundirlas con su propio juicio. Esta internalización ocurre porque en la infancia el cerebro, que depende de las figuras de cuidado para sobrevivir, interpreta sus evaluaciones como información objetiva sobre la realidad.
 
-Richard Schwartz, creador del modeló de Sistema de Familia Interna (IFS), propone que el crítico interior es una parte del sistema psicológico que originalmente tenía una función protectora: criticar antes de que lo hicieran otros, para prepararse para el rechazó; mantener el estandar alto, para ser suficientemente bueno y merecer amor y aceptación. Esta función original no era maliciosa. Era adaptativa en un entorno donde la crítica externa era frecuente o amenazante.
+Richard Schwartz, creador del modelo de Sistema de Familia Interna (IFS), propone que el crítico interior es una parte del sistema psicológico que originalmente tenía una función protectora: criticar antes de que lo hicieran otros, para prepararse para el rechazó; mantener el estandar alto, para ser suficientemente bueno y merecer amor y aceptación. Esta función original no era maliciosa. Era adaptativa en un entorno donde la crítica externa era frecuente o amenazante.
 
 **Ejercicio inmediato:** Escucha tu crítico interior durante un dia y nota: en que contextos es más intenso, que tipo de críticas hace con más frecuencia, y en quien se parece su tono. Esta observación comienza el proceso de diferenciarte de el.
 
@@ -41,7 +41,7 @@ Elena tiene un crítico interior que opera de formas distintas segun la situaci�
 
 Cada tipo tiene su estrategia específica de intervención. El perfeccionista responde bien al cuestionamiento del estandar. El catastrofista responde al examen de la evidencia real. El comparador responde a la redirección de la comparación de fuera hacía adentro. Identificar el tipo dominante informa la técnica más apropiada.
 
-**Ejercicio inmediato:** De los tipos de crítico interior identificados, cual reconoces como el más frecuente en tu experiencia? El perfeccionista, el catastrofista, el comparador? Esa identificación es el primer paso para trabajar con el de forma específica en lugar de general.
+**Ejercicio inmediato:** De los tipos de crítico interior identificados, cual reconoces como el más frecuente en tu experiencia? ¿El perfeccionista, el catastrofista, el comparador? Esa identificación es el primer paso para trabajar con el de forma específica en lugar de general.
 
 Tu crítico interior no tiene un solo modo de operación. Conocer sus modos facilita saber como responder a cada uno.
 
@@ -63,7 +63,7 @@ La crítica que mejora tu comportamiento tiene valor. La que destruye tu sentido
 
 ## Capítulo 4: Como el crítico interior sostiene su autoridad
 
-Isabel sabe intelectualmente que su crítico interior no dice la verdad. Y sin embargo, cuando habla, tiene una autoridad que ningún argumento parece poder desafiar completamente. Como sostiene esa autoridad?
+Isabel sabe intelectualmente que su crítico interior no dice la verdad. Y sin embargo, cuando habla, tiene una autoridad que ningún argumento parece poder desafiar completamente. ¿Como sostiene esa autoridad?
 
 **El Principio de la Confirmación Sesgada del Critico:** El crítico interior sostiene su autoridad a traves del sesgo de confirmación: selecciona activamente la información que confirma sus evaluaciones negativas y descarta la que las contradice. Cuando dice eres incompetente, se fija en todos los errores y fracasos y pasa por alto los éxitos. Cuando dice nadie te quiere, recuerda los rechazos y olvida las aceptaciones. Esta selección sesgada de evidencia hace que sus conclusiones parezcan inevitables e incontestables porque la mente no tiene acceso al conjunto completo de datos.
 
@@ -83,7 +83,7 @@ Ruben quiere herramientas prácticas para cuando el crítico interior se activa 
 
 Las técnicas de defusión cognitiva de la ACT son igualmente útiles: en lugar de fusionarse con el contenido del crítico (el pensamiento soy incompetente), observarlo como pensamiento (estoy teniendo el pensamiento de que soy incompetente). Esta distancia lingüistica reduce el impacto automático sin requerir el análisis deliberado del contenido.
 
-**Ejercicio inmediato:** La próxima vez que tu crítico interior se active con intensidad, prueba preguntarle (en tu cabeza o por escrito): que temes que pasara si no me dices esto? La respuesta frecuentemente revela el miedo que subyace a la crítica y puede ser abordado más directamente que el contenido de la crítica en si.
+**Ejercicio inmediato:** La próxima vez que tu crítico interior se active con intensidad, prueba preguntarle (en tu cabeza o por escrito): ¿que temes que pasara si no me dices esto? La respuesta frecuentemente revela el miedo que subyace a la crítica y puede ser abordado más directamente que el contenido de la crítica en si.
 
 El crítico interior crítica porque tiene miedo. Hablar con ese miedo es más efectivo que luchar contra la crítica.
 
@@ -125,7 +125,7 @@ Ruben cree que su crítico interior es el motor de su rendimiento profesional. T
 
 El rendimiento excelente sostenido viene de estandares claros y motivación intrinseca, no de autocritica incesante. La diferencia esta en la emoción que acompaña al trabajo: comprometido y curioso en el primer caso, ansioso y defensivo en el segundo.
 
-**Ejercicio inmediato:** Evalua tu crítico interior profesional: te impulsa hacía estandares claros desde un lugar de comprometido interés, o te presiona desde el miedo al error y la verguenza? La diferencia entre los dos no es el estandar. Es la emoción que acompaña el proceso.
+**Ejercicio inmediato:** Evalua tu crítico interior profesional: ¿te impulsa hacía estandares claros desde un lugar de comprometido interés, o te presiona desde el miedo al error y la verguenza? La diferencia entre los dos no es el estandar. Es la emoción que acompaña el proceso.
 
 El crítico interior que te impulsa desde el miedo no te hace mejor en lo que haces. Te hace más ansioso mientras lo haces.
 

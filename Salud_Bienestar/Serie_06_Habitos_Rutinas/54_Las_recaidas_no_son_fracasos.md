@@ -34,8 +34,8 @@ El fumador medio intenta dejar de fumar entre 8 y 30 veces antes de lograrlo def
 **Los datos del peso:**
 El 95% de las personas que pierden peso significativo con una dieta lo recuperan parcialmente en 3 años. Pero quienes han mantenido pérdidas a largo plazo describen un proceso de múltiples intentos, aprendizaje y ajuste.
 
-**El modeló transteórico de Prochaska:**
-El modeló científico más usado para entender el cambio de conducta incluye explícitamente la recaída cómo una fase del proceso, no como el final. Las personas transitan por las fases (precontemplación → contemplación → preparación → acción → mantenimiento) frecuentemente volviendo atrás antes de estabilizarse.
+**El modelo transteórico de Prochaska:**
+El modelo científico más usado para entender el cambio de conducta incluye explícitamente la recaída cómo una fase del proceso, no como el final. Las personas transitan por las fases (precontemplación → contemplación → preparación → acción → mantenimiento) frecuentemente volviendo atrás antes de estabilizarse.
 
 **La implicación:**
 Si la recaída es estadísticamente la norma en el proceso de cambio, el problema no es tener recaídas. El problema es cómo se responde a ellas.
@@ -176,7 +176,7 @@ Cada intento fallido que termina en recaída no es pérdida de tiempo: es inform
 
 En el contexto clínico (adicciones, trastornos alimentarios, conductas compulsivas), la prevención de recaídas es un área de tratamiento formal.
 
-**El modeló de Marlatt:**
+**El modelo de Marlatt:**
 El programa de prevención de recaídas (RP) de Alan Marlatt incluye:
 - Identificación de situaciones de alto riesgo
 - Entrenamiento en habilidades de afrontamiento
@@ -184,7 +184,7 @@ El programa de prevención de recaídas (RP) de Alan Marlatt incluye:
 - Cambios en el estilo de vida para reducir el estrés global
 - Planificación de la respuesta ante la recaída
 
-Este modeló se aplica en el tratamiento de adicciones, pero sus principios son universalmente aplicables al cambio de hábitos.
+Este modelo se aplica en el tratamiento de adicciones, pero sus principios son universalmente aplicables al cambio de hábitos.
 
 **La TCC en las recaídas:**
 Los patrones cognitivos que llevan al abandono tras la recaída son los mismos que se trabajan en la TCC: el pensamiento de todo o nada, la catastrofización, la generalización excesiva.

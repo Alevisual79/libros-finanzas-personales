@@ -76,9 +76,9 @@ Y descubrió que la dispersión —su talón de Aquiles histórico— era en par
 
 ## Capítulo 4: Lo que Isabel aprendió
 
-Isabel aprendió que su problema no era el liderazgo sino el modeló de vida que lo acompañaba.
+Isabel aprendió que su problema no era el liderazgo sino el modelo de vida que lo acompañaba.
 
-Había ascendido y logrado lo que la cultura de su industria consideraba éxito. Y había llegado a un punto donde el modeló que la había traído hasta ahí no era el que la llevaría a donde quería ir en la segunda mitad de su carrera.
+Había ascendido y logrado lo que la cultura de su industria consideraba éxito. Y había llegado a un punto donde el modelo que la había traído hasta ahí no era el que la llevaría a donde quería ir en la segunda mitad de su carrera.
 
 Aprender a pedir ayuda, a delegar de verdad, a decir no sin culpa, a descansar sin sentirse irresponsable: estas no eran habilidades de liderazgo en el sentido convencional. Eran habilidades de sostenibilidad. Y resultan ser fundamentales para el liderazgo real a largo plazo.
 

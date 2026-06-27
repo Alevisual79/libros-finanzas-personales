@@ -37,7 +37,7 @@ Comprender las presiones, prioridades y limitaciones que un jefe enfrenta desde 
 
 **El Principio de la Perspectiva desde Arriba:** Los jefes operan bajo presiones que sus subordinados frecuentemente no ven: expectativas de sus propios superiores, restricciones de recursos que no controlan, y responsabilidades sobre resultados que dependen de factores fuera de su control directo. Entender este contexto, sin que esto excuse comportamientos genuinamente problematicos, permite interpretar mejor decisiones que de otra forma podrían parecer arbitrarias o injustas.
 
-**Ejercicio inmediato:** Identifica una decisión reciente de tu jefe que te resultó frustrante. Que presiones o limitaciones desde su propia posición podrían explicar, aunque no necesariamente justificar completamente, esa decisión?
+**Ejercicio inmediato:** Identifica una decisión reciente de tu jefe que te resultó frustrante. ¿Que presiones o limitaciones desde su propia posición podrían explicar, aunque no necesariamente justificar completamente, esa decisión?
 
 Entender las presiones de tu jefe no significa excusar todo lo que hace. Significa tener información más completa para interpretar sus decisiones.
 
@@ -133,7 +133,7 @@ Cuando la relación con un jefe es consistentemente problematica a pesar de los 
 
 **El Principio de la Evaluación Costo-Beneficio Honesta:** La decisión de permanecer en un trabajo con una relación problematica con el jefe debe considerar honestamente el impacto acumulado en el bienestar y el desarrollo profesional propio, comparado con el costo y el riesgo de buscar una alternativa. Permanecer indefinidamente en una situación que consistentemente drena el bienestar, esperando que mejore sin evidencia de que lo hará, frecuentemente tiene un costo mayor del que se reconoce.
 
-**Ejercicio inmediato:** Si llevas tiempo considerando si quedarte o irte debido a tu relación con tu jefe, haz una evaluación honesta: que evidencia tienes de que la situación mejorara, versus que evidencia tienes de que seguirá igual o peor?
+**Ejercicio inmediato:** Si llevas tiempo considerando si quedarte o irte debido a tu relación con tu jefe, haz una evaluación honesta: ¿que evidencia tienes de que la situación mejorara, versus que evidencia tienes de que seguirá igual o peor?
 
 Quedarse esperando que un jefe problematico cambie, sin evidencia real de cambio, frecuentemente tiene un costo mayor que el riesgo de buscar algo mejor.
 

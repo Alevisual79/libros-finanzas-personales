@@ -36,7 +36,7 @@ En la UE y en EE.UU., los suplementos no necesitan demostrar eficacia antes de s
 **La contaminación:**
 Algunos estudios han encontrado que los suplementos (especialmente los "naturales" y los deportivos) pueden contener ingredientes no declarados, dosis incorrectas o contaminantes. Los laboratorios certificados por terceros (NSF, USP, Informed Sport) ofrecen mayor garantía.
 
-**El modeló de negocio:**
+**El modelo de negocio:**
 La mayoría de los suplementos se venden por canales donde el vendedor tiene interés económico en que el consumidor compre más. Esto no los invalida, pero requiere filtro crítico.
 
 ---

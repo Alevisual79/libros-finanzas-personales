@@ -37,7 +37,7 @@ Entender el espectro completo entre pasividad y agresividad, con la asertividad 
 
 **El Principio del Espectro Comunicativo:** El estilo pasivo evita expresar necesidades propias por miedo al conflicto o al rechazó, generando resentimiento acumulado. El estilo agresivo expresa necesidades propias sin consideración del impacto en el otro, generando daño relacional y resistencia defensiva. El estilo asertivo expresa necesidades propias con claridad, considerando simultaneamente el impacto en el otro, generando comunicación efectiva sin sacrificar ni la honestidad ni la relación.
 
-**Ejercicio inmediato:** Identifica tu patron predominante en el trabajo: pasivo, agresivo o asertivo. Si te inclinas hacía uno de los extremos, que ajuste específico te acercaria al punto medio asertivo?
+**Ejercicio inmediato:** Identifica tu patron predominante en el trabajo: ¿pasivo, agresivo o asertivo. Si te inclinas hacía uno de los extremos, que ajuste específico te acercaria al punto medio asertivo?
 
 Conocer tu propio patron en el espectro de comunicación es el primer paso para desarrollar el equilibrio que la asertividad requiere.
 
@@ -59,7 +59,7 @@ Entender por qué evitas la asertividad es más útil que simplemente decirte qu
 
 Existen estructuras de comunicación específicas que facilitan la expresión asertiva, especialmente útil para quienes encuentran difícil improvisar este tipo de comunicación en el momento.
 
-**El Principio del Modelo DESC:** Una estructura efectiva para la comunicación asertiva incluye describir objetivamente la situación (sin juicio), expresar como te sientes o que piensas al respecto, especificar lo que necesitas o propones, y comunicar las consecuencias positivas de la solución propuesta. Este modeló, aunque puede sentirse artificial al principio, proporciona una estructura confiable cuando la comunicación espontanea resulta difícil.
+**El Principio del Modelo DESC:** Una estructura efectiva para la comunicación asertiva incluye describir objetivamente la situación (sin juicio), expresar como te sientes o que piensas al respecto, especificar lo que necesitas o propones, y comunicar las consecuencias positivas de la solución propuesta. Este modelo, aunque puede sentirse artificial al principio, proporciona una estructura confiable cuando la comunicación espontanea resulta difícil.
 
 **Ejercicio inmediato:** Para una situación actual que requiere comunicación asertiva, práctica formular tu mensaje usando esta estructura: describe la situación objetivamente, expresa tu sentir, específica tu necesidad, y comunica el beneficio de la solución propuesta.
 

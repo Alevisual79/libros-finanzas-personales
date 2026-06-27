@@ -41,15 +41,15 @@ Lo que cambio en 2022-2023 fue la calidad, la accesibilidad y la velocidad de me
 
 Las herramientas de imagen generativa más populares —Stable Diffusión, DALL-E, Midjourney— usan modelos de difusión.
 
-El proceso de entrenamiento de un modeló de difusión tiene dos fases:
+El proceso de entrenamiento de un modelo de difusión tiene dos fases:
 
 **Difusión hacía adelante:** Se toma una imagen real y se le añade ruido gradualmente, en pasos. Al final, la imagen es ruido puro.
 
-**Difusión hacía atrás:** El modeló aprende a invertir ese proceso: dado ruido, predice qué ruido fue añadido y lo elimina. Repitiendo esto muchos pasos, puede reconstruir la imagen original.
+**Difusión hacía atrás:** El modelo aprende a invertir ese proceso: dado ruido, predice qué ruido fue añadido y lo elimina. Repitiendo esto muchos pasos, puede reconstruir la imagen original.
 
 Para generar una imagen nueva: se parte de ruido puro y se aplica el proceso de difusión inversa, guiado por una descripción de texto. La "guía" de texto hace que el proceso converja en una imagen que corresponda a la descripción.
 
-El resultado: a partir de un prompt de texto, el modeló genera una imagen que no existía.
+El resultado: a partir de un prompt de texto, el modelo genera una imagen que no existía.
 
 ---
 
@@ -95,7 +95,7 @@ Los modelos más recientes procesan múltiples modalidades en el mismo sistema: 
 
 GPT-4V (con Visión) puede analizar imágenes. Claude 3 puede interpretar documentos con texto e imágenes. Gemini fue diseñado desde el principio para ser multimodal.
 
-La multimodalidad no es solo combinar modalidades: es entender las relaciones entre ellas. Un modeló multimodal puede describir una imagen, responder preguntas sobre ella, compararla con una descripción de texto, o generar variaciones.
+La multimodalidad no es solo combinar modalidades: es entender las relaciones entre ellas. Un modelo multimodal puede describir una imagen, responder preguntas sobre ella, compararla con una descripción de texto, o generar variaciones.
 
 La dirección del campo apunta hacía sistemas cada vez más integrados que procesen el mundo de la misma forma en que lo hace el ser humano: a través de múltiples canales sensoriales simultáneamente.
 

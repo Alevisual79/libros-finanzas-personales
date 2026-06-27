@@ -27,7 +27,7 @@ Elena cree que los sesgos son el problema de otras personas. Personas menos inte
 
 La investigación de Kahneman muestra que el cerebro opera con dos sistemas: el Sistema 1, rápido, automático e impulsado por sesgos, y el Sistema 2, lento, deliberado y analitico. La mayoría de nuestras decisiones cotidianas, incluso las que creemos reflexivas, son producto del Sistema 1. El Sistema 2 entra en acción mucho menos de lo que creemos, y frecuentemente solo para racionalizar lo que el Sistema 1 ya decidió.
 
-**Ejercicio inmediato:** Piensa en una decisión importante que tomaste en el último mes. Ahora preguntate honestamente: cuanto tiempo pasaste realmente analizando la información disponible, y cuanto tiempo justificando la conclusión a la que llegaste rápidamente de forma intuitiva?
+**Ejercicio inmediato:** Piensa en una decisión importante que tomaste en el último mes. Ahora preguntate honestamente: ¿cuanto tiempo pasaste realmente analizando la información disponible, y cuanto tiempo justificando la conclusión a la que llegaste rápidamente de forma intuitiva?
 
 Tu cerebro no analiza primero y decide después. Decide primero y analiza después para convencerse de que la decisión fue buena.
 
@@ -79,7 +79,7 @@ Lo que tu cerebro recuerda facilmente no es necesariamente lo que ocurre con má
 
 Ruben no predijo la caida de una empresa tecnologica en la que invirtió. Pero tres meses después del colapso, Ruben tiene la firme sensación de que en realidad había visto las señales con anticipación. Que lo sabía, aunque no actuara segun ese conocimiento. Su cerebro ha reescrito la historia para que tenga más sentido de lo que tenía cuando ocurrio.
 
-**El Principio de la Historia Reescrita:** El sesgo de retrospectiva, conocido coloquialmente como el efecto del lo sabía desde siempre, describe la tendencia a ver los eventos pasados como más predecibles de lo que eran en realidad antes de que ocurrieran. Baruch Fischhoff, psicologo de Carnegie Mellon, demostró que una vez que una persona conoce el resultado de un evento, encuentra extremadamente difícil reconstruir mentalmente como habria evaluado las probabilidades antes de saber el resultado.
+**El Principio de la Historia Reescrita:** El sesgo de retrospectiva, conocido coloquialmente como el efecto del lo sabía desde siempre, describe la tendencia a ver los eventos pasados como más predecibles de lo que eran en realidad antes de que ocurrieran. Baruch Fischhoff, psicologo de Carnegie Mellon, demostró que una vez que una persona conoce el resultado de un evento, encuentra extremadamente difícil reconstruir mentalmente como habría evaluado las probabilidades antes de saber el resultado.
 
 Este sesgo tiene consecuencias prácticas importantes. Hace que las personas aprendan menos de sus errores (porque reescriben el pasado para parecer que no cometieron errores reales), que juzguen con exceso de dureza a quienes tomaron decisiones que en retrospectiva parecen obvias, y que sobreestimen su propia capacidad predictiva, lo que lleva a asumir más riesgo del apropiado en decisiones futuras.
 
@@ -125,7 +125,7 @@ Ruben lleva cinco años en un trabajo que no le satisface. Sabe que podría camb
 
 La asimetria psicológica entre perder y ganar (que Kahneman y Tversky documentaron como aversión a la perdida) amplifica este sesgo: el dolor potencial de que el cambio salga mal se siente psicológicamente mayor que el beneficio equivalente de que salga bien, lo que hace que la opción de no cambiar parezca más segura de lo que estadisticamente es.
 
-**Ejercicio inmediato:** Identifica una situación en tu vida donde llevas tiempo manteniendo el statu quo sin revisarlo activamente. Ahora evaluala como si empezaras desde cero: elegirías esta opción si no hubiera historia previa que justificara continuar? Si la respuesta es incierta, ahí esta el sesgo actuando.
+**Ejercicio inmediato:** Identifica una situación en tu vida donde llevas tiempo manteniendo el statu quo sin revisarlo activamente. Ahora evaluala como si empezaras desde cero: ¿elegirías esta opción si no hubiera historia previa que justificara continuar? Si la respuesta es incierta, ahí esta el sesgo actuando.
 
 La inacción no es la ausencia de una decisión. Es la decisión de quedarse donde estas, tomada por defecto.
 

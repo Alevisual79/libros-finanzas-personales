@@ -25,7 +25,7 @@ Una relación toxica se caracteriza por un patron consistente de dinámicas dañ
 
 **El Principio del Patron Acumulativo sobre el Evento Aislado:** Las relaciones toxicas se definen por patrones consistentes que erosionan progresivamente el bienestar de quien los experimenta: crítica constante disfrazada de honestidad, control disfrazado de preocupación, manipulación emocional, y una dinámica general donde la persona se siente cada vez más pequeña, más insegura, y más dependiente de la aprobación del otro. Ningun incidente aislado podría explicar completamente el daño; es la acumulación la que lo produce.
 
-**Ejercicio inmediato:** Si sospechas que estuviste o estas en una relación toxica, en lugar de buscar un evento dramatico unico que la defina, evalua el patron acumulado: te sentias, en general, mejor o peor versión de ti mismo dentro de esa relación?
+**Ejercicio inmediato:** Si sospechas que estuviste o estas en una relación toxica, en lugar de buscar un evento dramatico unico que la defina, evalua el patron acumulado: ¿te sentias, en general, mejor o peor versión de ti mismo dentro de esa relación?
 
 Una relación toxica raramente tiene un solo momento que la defina. Tiene un patron acumulado que, mirado en retrospectiva, deja claro el daño que produjó.
 

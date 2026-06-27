@@ -27,7 +27,7 @@ El precio que eliges dice algo sobre tu negocio antes de que el cliente sepa nad
 
 Hermann Simon, en Confessions of the Pricing Man, propone que el precio es la decisión de negocio que tiene el mayor impacto en el margen y la menor atención de la mayoría de los emprendedores. Una mejora del 1% en el precio produce mejoras del 8-10% en el margen operativo, significativamente superior al impacto de mejoras equivalentes en volumen de ventas o en costes.
 
-**Ejercicio inmediato:** Para tu servicio o producto principal, calcula el impacto de una subida del 10% en el precio: cuanto revenue adicional generaria si mantuvieras el mismo volumen de clientes? Cuantos clientes podrías perder para que la subida siguiera siendo neutra en revenue? En la mayoría de los negocios de servicios, el precio puede subirse un 10-15% sin perder más de un 5-10% de los clientes, lo que produce un incremento neto de revenue. Ese cálculo simple muchas veces revela que el emprendedor esta dejando dinero sobre la mesa por miedo a perder clientes.
+**Ejercicio inmediato:** Para tu servicio o producto principal, calcula el impacto de una subida del 10% en el precio: ¿cuanto revenue adicional generaria si mantuvieras el mismo volumen de clientes? ¿Cuantos clientes podrías perder para que la subida siguiera siendo neutra en revenue? En la mayoría de los negocios de servicios, el precio puede subirse un 10-15% sin perder más de un 5-10% de los clientes, lo que produce un incremento neto de revenue. Ese cálculo simple muchas veces revela que el emprendedor esta dejando dinero sobre la mesa por miedo a perder clientes.
 
 El precio que nunca sube es el precio de un negocio que nunca crece en margen.
 
@@ -41,7 +41,7 @@ Lucia ha aprendido que bajar los precios para atraer más clientes frecuentement
 
 Seth Godin propone que el mejor cliente no es el más barato de conseguir sino el más valioso de tener: el cliente que paga el precio completo, usa completamente el producto o servicio, y te recomienda a otros similares a el. Ese cliente no lo atraes con el precio más bajo.
 
-**Ejercicio inmediato:** Analiza tus cinco clientes que más problemas te dan (los que más tiempo consumen en soporte, los que más discuten el precio, los que pagan más tarde, o los que menos valoran el trabajo): a que nivel de precio compraron? En la mayoría de los negocios, los clientes más problematicos son los que compraron con descuento o los que eligieron por precio. Esa observación no es una coincidencia: es una consecuencia de que el precio bajo atrae un perfil de cliente diferente al que el precio apropiado atrae.
+**Ejercicio inmediato:** Analiza tus cinco clientes que más problemas te dan (los que más tiempo consumen en soporte, los que más discuten el precio, los que pagan más tarde, o los que menos valoran el trabajo): ¿a que nivel de precio compraron? En la mayoría de los negocios, los clientes más problematicos son los que compraron con descuento o los que eligieron por precio. Esa observación no es una coincidencia: es una consecuencia de que el precio bajo atrae un perfil de cliente diferente al que el precio apropiado atrae.
 
 El cliente que te elige por precio te dejara cuando encuentre alguien más barato. El que te elige por valor se queda.
 
@@ -55,7 +55,7 @@ Carlos ha cambiado su enfoque de precios del coste al valor y ha duplicado su ma
 
 El precio basado en valor requiere conocer dos números: el valor monetario que el cliente recibe del producto o servicio (el resultado económico directo o indirecto de resolver el problema), y la disposición a pagar del cliente (el porcentaje de ese valor que el cliente estaria dispuesto a pagar por la solución). El precio optimo se encuentra entre esos dos números.
 
-**Ejercicio inmediato:** Para tu servicio o producto principal, calcula el valor que el cliente recibe: si es un servicio de marketing, cuanto revenue adicional ha generado el cliente por tu trabajo? Si es un servicio de ahorro de tiempo, cuantas horas ahorra el cliente y a que valor las ponemos? Si es un producto que resuelve un problema de negocio, cual es el coste del problema que resuelves? Ese número, el valor del cliente, es el techo teorico del precio. Tu precio debería ser entre el 10% y el 30% de ese valor para que el cliente perciba que el ROI es claro.
+**Ejercicio inmediato:** Para tu servicio o producto principal, calcula el valor que el cliente recibe: ¿si es un servicio de marketing, cuanto revenue adicional ha generado el cliente por tu trabajo? ¿Si es un servicio de ahorro de tiempo, cuantas horas ahorra el cliente y a que valor las ponemos? Si es un producto que resuelve un problema de negocio, cual es el coste del problema que resuelves? Ese número, el valor del cliente, es el techo teorico del precio. Tu precio debería ser entre el 10% y el 30% de ese valor para que el cliente perciba que el ROI es claro.
 
 El precio que no puede explicarse en terminos del valor que el cliente recibe es el precio que el cliente no puede justificar.
 
@@ -93,7 +93,7 @@ El precio que te permite vivir bien mientras sirves bien a tus clientes es el pr
 
 Carlos ha aprendido que el descuento puede usarse estratégicamente o puede convertirse en un habito que destruye el margen.
 
-**El Principio del Descuento Estrategico como el Uso del Descuento Solo en Situaciones específicas que Tienen un Objetivo Claro (Captar Nuevos Clientes, Liquidar Stock, o Acelerar una Decisión) en Lugar de Como Herramienta de Cierre de Ventas Habitual:** Los descuentos tienen tres efectos negativos no evidentes: reducen el margen del negocio de forma inmediata, entrenan al cliente a esperar el descuento antes de comprar (el cliente que siempre recibe descuento nunca compra al precio completo), y señalan que el precio original era inflado (si el producto puede venderse un 30% más barato, por qué costaba un 30% más?).
+**El Principio del Descuento Estrategico como el Uso del Descuento Solo en Situaciones específicas que Tienen un Objetivo Claro (Captar Nuevos Clientes, Liquidar Stock, o Acelerar una Decisión) en Lugar de Como Herramienta de Cierre de Ventas Habitual:** Los descuentos tienen tres efectos negativos no evidentes: ¿reducen el margen del negocio de forma inmediata, entrenan al cliente a esperar el descuento antes de comprar (el cliente que siempre recibe descuento nunca compra al precio completo), y señalan que el precio original era inflado (si el producto puede venderse un 30% más barato, por qué costaba un 30% más?).
 
 La investigación de McKinsey sobre los efectos de las estrategias de descuento muestra que los negocios que ofrecen descuentos habituales tienen tasas de retención de clientes significativamente inferiores a los que mantienen precios consistentes, precisamente porque los clientes atraidos por el descuento son los de menor lealtad.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que el precio no es una decisión que se toma una v
 
 La investigación de Simon-Kucher and Partners sobre las estrategias de pricing de empresas en crecimiento muestra que las que optimizan activamente su precio crecen en revenue un 25-30% más rápidamente que las que mantienen precios estaticos, sin necesariamente vender más unidades.
 
-**Ejercicio inmediato:** Establece una revisión anual de tu estrategia de precios en el calendario: para cada revisión, analiza cuatro factores: ha aumentado el valor que tu producto o servicio ofrece al cliente (lo que justificaria subir el precio)?, ha cambiado el precio promedio de la competencia? Ha cambiado la disposición a pagar del cliente? Ha cambiado el posicionamiento del negocio? Con esa revisión anual, la estrategia de precios evoluciona con el negocio en lugar de quedarse congelada en el precio que elegiste cuando empezaste.
+**Ejercicio inmediato:** Establece una revisión anual de tu estrategia de precios en el calendario: para cada revisión, analiza cuatro factores: ¿ha aumentado el valor que tu producto o servicio ofrece al cliente (lo que justificaria subir el precio)?, ha cambiado el precio promedio de la competencia? ¿Ha cambiado la disposición a pagar del cliente? Ha cambiado el posicionamiento del negocio? Con esa revisión anual, la estrategia de precios evoluciona con el negocio en lugar de quedarse congelada en el precio que elegiste cuando empezaste.
 
 El precio de lanzamiento es un punto de partida. El precio que maximiza el valor del negocio requiere gestión continua.
 

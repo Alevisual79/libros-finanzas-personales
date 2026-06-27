@@ -23,11 +23,11 @@ Carlos lleva seis meses trabajando en su producto antes de hablar con un solo cl
 
 El orden importa. Y la mayoría lo hace al reves.
 
-**El Principio de la Validación Previa como el Paso que la Mayoria de los Emprendedores Omite y que Determina si el Negocio Tendra Demanda Real:** Steve Blank propuso en The Four Steps to the Epiphany que la diferencia fundamental entre una startup y una empresa establecida es que una startup es una organización en busqueda de un modeló de negocio, no en ejecución de uno. Esa busqueda requiere validación del cliente antes de la construcción del producto: saber que el problema existe, que la solución propuesta lo resuelve, y que hay suficientes clientes dispuestos a pagar por esa resolución.
+**El Principio de la Validación Previa como el Paso que la Mayoria de los Emprendedores Omite y que Determina si el Negocio Tendra Demanda Real:** Steve Blank propuso en The Four Steps to the Epiphany que la diferencia fundamental entre una startup y una empresa establecida es que una startup es una organización en busqueda de un modelo de negocio, no en ejecución de uno. Esa busqueda requiere validación del cliente antes de la construcción del producto: saber que el problema existe, que la solución propuesta lo resuelve, y que hay suficientes clientes dispuestos a pagar por esa resolución.
 
 La investigación de CB Insights sobre las causas del fracaso de startups muestra que la razón número uno (citada en el 42% de los casos) es la falta de necesidad de mercado: el producto fue construido pero no había suficientes personas con el problema que resolvía o dispuestas a pagar el precio necesario para que el negocio fuera viable.
 
-**Ejercicio inmediato:** Antes de cualquier otra acción sobre tu idea de negocio, reflexiona sobre estas tres preguntas: el problema que resuelvo, es un problema que la gente experimenta regularmente (no ocasionalmente)? La persona que lo experimenta, lo intenta resolver activamente (lo que indica que le importa lo suficiente para buscar solución)? Hay suficientes personas en esa situación para construir un negocio viable? Si la respuesta a cualquiera de las tres es no o no lo se, la validación es tu primera prioridad.
+**Ejercicio inmediato:** Antes de cualquier otra acción sobre tu idea de negocio, reflexiona sobre estas tres preguntas: ¿el problema que resuelvo, es un problema que la gente experimenta regularmente (no ocasionalmente)? ¿La persona que lo experimenta, lo intenta resolver activamente (lo que indica que le importa lo suficiente para buscar solución)? Hay suficientes personas en esa situación para construir un negocio viable? Si la respuesta a cualquiera de las tres es no o no lo se, la validación es tu primera prioridad.
 
 La idea que no ha hablado con el mercado es solo una hipotesis. Y las hipotesis no pagan nóminas.
 
@@ -37,11 +37,11 @@ La idea que no ha hablado con el mercado es solo una hipotesis. Y las hipotesis 
 
 Lucia ha aprendido que las conversaciones con potenciales clientes son más valiosas que cualquier investigación de mercado comprada.
 
-**El Principio de la Entrevista de Descubrimiento cómo la Fuente Más Rica de Información sobre si el Problema es Real, Frecuente, y Prioritario para el Cliente:** Rob Fitzpatrick, en The Mom Test, propone que las entrevistas de validación de la mayoría de los emprendedores estan diseñadas para confirmar lo que quieren creer, no para descubrir la realidad. La gente es amable: si le preguntas si tu idea le parece buena, dirá que si aunque no la usaria. La técnica del Mom Test propone preguntar sobre el comportamiento pasado real del potencial cliente (como resuelves actualmente este problema?) en lugar de sobre sus predicciones de comportamiento futuro (usarias mi producto?).
+**El Principio de la Entrevista de Descubrimiento cómo la Fuente Más Rica de Información sobre si el Problema es Real, Frecuente, y Prioritario para el Cliente:** Rob Fitzpatrick, en The Mom Test, propone que las entrevistas de validación de la mayoría de los emprendedores estan diseñadas para confirmar lo que quieren creer, no para descubrir la realidad. La gente es amable: ¿si le preguntas si tu idea le parece buena, dirá que si aunque no la usaria. La técnica del Mom Test propone preguntar sobre el comportamiento pasado real del potencial cliente (como resuelves actualmente este problema?) en lugar de sobre sus predicciones de comportamiento futuro (usarias mi producto?).
 
 La investigación de Steve Blank sobre el customer discovery muestra que los fundadores que realizan al menos veinte a treinta entrevistas de descubrimiento antes de construir el producto tienen una probabilidad significativamente mayor de encontrar el product-market fit que los que construyen basandose en sus propias suposiciones.
 
-**Ejercicio inmediato:** Esta semana, organiza cinco conversaciones de veinte a treinta minutos con personas que potencialmente podrían ser tu cliente objetivo. El objetivo no es presentar tu idea sino entender su vida y sus problemas. Las preguntas clave: cuentame como gestionas actualmente X (el problema que tu idea resuelve). Con que frecuencia te ocurre? Cuanto te cuesta (en tiempo, dinero, frustración)? Que has intentado para resolverlo hasta ahora? Lo que escuches en esas cinco conversaciones vale más que cualquier plan de negocio que puedas escribir.
+**Ejercicio inmediato:** Esta semana, organiza cinco conversaciones de veinte a treinta minutos con personas que potencialmente podrían ser tu cliente objetivo. El objetivo no es presentar tu idea sino entender su vida y sus problemas. Las preguntas clave: ¿cuentame como gestionas actualmente X (el problema que tu idea resuelve). Con que frecuencia te ocurre? ¿Cuanto te cuesta (en tiempo, dinero, frustración)? Que has intentado para resolverlo hasta ahora? Lo que escuches en esas cinco conversaciones vale más que cualquier plan de negocio que puedas escribir.
 
 La conversación con el cliente que no quieres tener antes de construir es la que más necesitas.
 
@@ -51,7 +51,7 @@ La conversación con el cliente que no quieres tener antes de construir es la qu
 
 Carlos ha aprendido que el MVP no es el producto más pequeño que puedes construir. Es el experimento que prueba la hipotesis más importante.
 
-**El Principio del MVP como Experimento Diseñado para Probar la Hipotesis de Mayor Riesgo con el Menor Coste Posible en Lugar de como Versión Reducida del Producto Final:** Eric Ries, en The Lean Startup, define el MVP (Minimum Viable Product) cómo la versión del producto que permite comenzar el ciclo de aprendizaje construir-medir-aprender con el menor esfuerzo posible. La hipotesis de mayor riesgo es la suposición cuya falsedad destruiria el modeló de negocio: si esa suposición es falsa, todo lo demás es irrelevante.
+**El Principio del MVP como Experimento Diseñado para Probar la Hipotesis de Mayor Riesgo con el Menor Coste Posible en Lugar de como Versión Reducida del Producto Final:** Eric Ries, en The Lean Startup, define el MVP (Minimum Viable Product) cómo la versión del producto que permite comenzar el ciclo de aprendizaje construir-medir-aprender con el menor esfuerzo posible. La hipotesis de mayor riesgo es la suposición cuya falsedad destruiria el modelo de negocio: si esa suposición es falsa, todo lo demás es irrelevante.
 
 Dropbox, antes de construir el producto, lanzo un video que explicaba como funcionaria. Las personas que vieron el video y se registraron en la lista de espera validaron que el problema (la dificultad de sincronizar archivos entre dispositivos) era real y que la solución propuesta era la que el mercado buscaba. Esa validación, con cero lineas de codigo, fue suficiente para justificar la construcción.
 
@@ -81,9 +81,9 @@ Carlos ha aprendido a ver la competencia no cómo una amenaza sino como prueba d
 
 **El Principio de la Competencia como Señal de Validación de la Existencia del Mercado porque Si Hay Empresas Que Sobreviven Vendiendo algo Similar, el Problema es Real y el Mercado Paga:** Un error común del emprendedor es interpretar la ausencia de competencia como buena señal. Frecuentemente es la señal contraria: o el mercado no existe (nadie lo ha intentado porque no hay demanda suficiente) o los intentos anteriores fracasaron (lo que requiere entender por qué). La existencia de competencia, por el contrario, es prueba de que hay un mercado que paga.
 
-Mark Cuban propone que si ves a alguien haciendo dinero con algo similar a tu idea, eso es más validador que cualquier investigación de mercado: prueba que hay clientes dispuestos a pagar, que el modeló de negocio puede funcionar, y que la unica pregunta que queda es si tu puedes hacerlo mejor o diferente.
+Mark Cuban propone que si ves a alguien haciendo dinero con algo similar a tu idea, eso es más validador que cualquier investigación de mercado: prueba que hay clientes dispuestos a pagar, que el modelo de negocio puede funcionar, y que la unica pregunta que queda es si tu puedes hacerlo mejor o diferente.
 
-**Ejercicio inmediato:** Realiza un análisis de la competencia en dos dimensiones: quien esta resolviendo actualmente el mismo problema (aunque de forma diferente), y que estan haciendo mal o que segmento de clientes estan ignorando? Las respuestas a esas dos preguntas te dan tanto la validación de que el mercado existe como el mapa de dónde puede estar tu diferenciación.
+**Ejercicio inmediato:** Realiza un análisis de la competencia en dos dimensiones: ¿quien esta resolviendo actualmente el mismo problema (aunque de forma diferente), y que estan haciendo mal o que segmento de clientes estan ignorando? Las respuestas a esas dos preguntas te dan tanto la validación de que el mercado existe como el mapa de dónde puede estar tu diferenciación.
 
 Si no tienes competidores, o tienes una idea brillante que nadie ha pensado, o tienes una idea que no tiene mercado. La segunda opción es más frecuente.
 
@@ -93,11 +93,11 @@ Si no tienes competidores, o tienes una idea brillante que nadie ha pensado, o t
 
 Lucia ha aprendido que un buen producto para un mercado muy pequeño puede ser un negocio inviable aunque sea un éxito dentro de ese mercado.
 
-**El Principio del Mercado Total Accesible cómo la Metrica que Determina si el Tamano del Negocio Que Quieres Construir es Posible Dentro de la Oportunidad que el Mercado Ofrece:** La distinción clasica del análisis de mercado distingue entre el TAM (Total Addressable Market, el total del mercado si capturas el 100%), el SAM (Serviceable Addressable Market, la parte del TAM que puedes servir con tu modeló de negocio), y el SOM (Serviceable Obtainable Market, la parte realista del SAM que puedes capturar en el horizonte temporal de tu plan). El tamaño del SOM determina el tamaño del negocio que puedes construir.
+**El Principio del Mercado Total Accesible cómo la Metrica que Determina si el Tamano del Negocio Que Quieres Construir es Posible Dentro de la Oportunidad que el Mercado Ofrece:** La distinción clasica del análisis de mercado distingue entre el TAM (Total Addressable Market, el total del mercado si capturas el 100%), el SAM (Serviceable Addressable Market, la parte del TAM que puedes servir con tu modelo de negocio), y el SOM (Serviceable Obtainable Market, la parte realista del SAM que puedes capturar en el horizonte temporal de tu plan). El tamaño del SOM determina el tamaño del negocio que puedes construir.
 
 La investigación de Marc Andreessen sobre los criterios de inversión en empresas de alto crecimiento muestra que el mercado es el factor más importante: un equipo mediocre con un gran mercado tiene más probabilidades de éxito que un equipo excelente con un mercado pequeño, porque el mercado grande perdona muchos errores mientras que el mercado pequeño no permite ninguno.
 
-**Ejercicio inmediato:** Calcula el tamaño de tu mercado en números específicos: cuantas personas o empresas tienen el problema que resuelves (TAM)? De esas, cuantas podrías servir con tu modeló de negocio actual (SAM)? De esas, cuantas podrías razonablemente capturar en los próximos tres años (SOM)? Si el SOM multiplicado por tu precio promedio produce un negocio demasiado pequeño para tus objetivos, considera si el mercado esta mal definido o si los objetivos necesitan ajustarse.
+**Ejercicio inmediato:** Calcula el tamaño de tu mercado en números específicos: ¿cuantas personas o empresas tienen el problema que resuelves (TAM)? ¿De esas, cuantas podrías servir con tu modelo de negocio actual (SAM)? De esas, cuantas podrías razonablemente capturar en los próximos tres años (SOM)? Si el SOM multiplicado por tu precio promedio produce un negocio demasiado pequeño para tus objetivos, considera si el mercado esta mal definido o si los objetivos necesitan ajustarse.
 
 El mercado que es demasiado pequeño para tu ambición no se hace más grande por quererlo más.
 
@@ -105,13 +105,13 @@ El mercado que es demasiado pequeño para tu ambición no se hace más grande po
 
 ## Capítulo 7: Validar el modeló de negocio, no solo el producto
 
-Marcos ha aprendido que un producto que la gente quiere no garantiza un modeló de negocio que funcione.
+Marcos ha aprendido que un producto que la gente quiere no garantiza un modelo de negocio que funcione.
 
-**El Principio de la Validación del Modelo de Negocio como Diferente de la Validación del Producto porque Incluye la Verificación de que Los números Funcionan:** Alexander Osterwalder, en Business Model Generation, propone el Business Model Canvas como herramienta para mapear y validar los nueve componentes del modeló de negocio: el segmento de clientes, la propuesta de valor, los canales, las relaciones con clientes, las fuentes de ingresos, los recursos clave, las actividades clave, los socios clave, y la estructura de costes. Cada uno de esos nueve componentes es una hipotesis que necesita validación.
+**El Principio de la Validación del Modelo de Negocio como Diferente de la Validación del Producto porque Incluye la Verificación de que Los números Funcionan:** Alexander Osterwalder, en Business Model Generation, propone el Business Model Canvas como herramienta para mapear y validar los nueve componentes del modelo de negocio: el segmento de clientes, la propuesta de valor, los canales, las relaciones con clientes, las fuentes de ingresos, los recursos clave, las actividades clave, los socios clave, y la estructura de costes. Cada uno de esos nueve componentes es una hipotesis que necesita validación.
 
 La investigación de Bill Sahlman sobre los errores más comunes en los planes de negocio de Harvard Business School muestra que la hipotesis más frecuentemente incorrecta no es la del producto sino la del canal de distribución (como llegar al cliente) y la del coste de adquisición (cuanto cuesta conseguir cada cliente). Los modelos de negocio que no pueden adquirir clientes de forma rentable fracasan independientemente de la calidad del producto.
 
-**Ejercicio inmediato:** Para tu idea de negocio, valida los números fundamentales del modeló: si adquirir un cliente cuesta X (coste de adquisición), y ese cliente genera Y en margen bruto a lo largo de su vida con tu empresa (valor del cliente), el modeló es viable si Y es significativamente mayor que X. Calcula una estimación inicial de esos dos números con los datos que tienes disponibles. Si no puedes estimarlos, esa es la primera hipotesis que necesitas validar.
+**Ejercicio inmediato:** Para tu idea de negocio, valida los números fundamentales del modelo: si adquirir un cliente cuesta X (coste de adquisición), y ese cliente genera Y en margen bruto a lo largo de su vida con tu empresa (valor del cliente), el modelo es viable si Y es significativamente mayor que X. Calcula una estimación inicial de esos dos números con los datos que tienes disponibles. Si no puedes estimarlos, esa es la primera hipotesis que necesitas validar.
 
 Un producto que la gente quiere pero que no puede pagarte suficiente para cubrir el coste de conseguirlos es un hobby, no un negocio.
 
@@ -125,7 +125,7 @@ Carlos ha aprendido a identificar los patrones de validación falsa que producen
 
 La investigación de Geoffrey Moore en Crossing the Chasm muestra que los early adopters que validan una idea de negocio frecuentemente tienen necesidades y tolerancias al producto imperfecto que el mercado masivo no comparte. Un producto que validan los early adopters todavia necesita superar el abismo para llegar al mercado principal.
 
-**Ejercicio inmediato:** Para cada señal de validación que tienes actualmente sobre tu idea, reflexiona: esta validación viene de alguien que responderia de la misma forma si no me conociera? La persona que me dio esta validación es representativa del cliente que pagara? Baso esta validación en sus palabras o en sus acciones? Las respuestas honestas a estas preguntas probablemente revelaran que algunas de las validaciones que tienes son más fragiles de lo que pensabas.
+**Ejercicio inmediato:** Para cada señal de validación que tienes actualmente sobre tu idea, reflexiona: ¿esta validación viene de alguien que responderia de la misma forma si no me conociera? ¿La persona que me dio esta validación es representativa del cliente que pagara? Baso esta validación en sus palabras o en sus acciones? Las respuestas honestas a estas preguntas probablemente revelaran que algunas de las validaciones que tienes son más fragiles de lo que pensabas.
 
 La validación que buscas no es la que te sientes bien con ella. Es la que te duele si es negativa.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que la validación no termina con el lanzamiento. E
 
 Amazon tiene una cultura de experimentación permanente: cada nueva iniciativa (desde Amazon Prime hasta AWS) comienza cómo una hipotesis que se valida antes de la inversión total. Esa cultura de validación continua es lo que les ha permitido expandirse a mercados radicalmente diferentes con mayor probabilidad de éxito que la mayoría.
 
-**Ejercicio inmediato:** Diseña el sistema de validación continua de tu negocio: que hipotesis estas probando actualmente sobre tu cliente, tu producto, y tu modeló de negocio? Que metricas usas para saber si esas hipotesis son correctas? Con que frecuencia revisas esas metricas y ajustas las hipotesis? Un negocio que tiene respuestas claras a esas tres preguntas es un negocio que aprende más rápido que su competencia.
+**Ejercicio inmediato:** Diseña el sistema de validación continua de tu negocio: ¿que hipotesis estas probando actualmente sobre tu cliente, tu producto, y tu modelo de negocio? ¿Que metricas usas para saber si esas hipotesis son correctas? Con que frecuencia revisas esas metricas y ajustas las hipotesis? Un negocio que tiene respuestas claras a esas tres preguntas es un negocio que aprende más rápido que su competencia.
 
 El negocio que valida continuamente no necesita tener siempre razón. Solo necesita corregir el rumbo antes de que el error sea demasiado caro.
 
@@ -161,7 +161,7 @@ El negocio que valida continuamente no necesita tener siempre razón. Solo neces
 
 ## Epílogo
 
-Carlos tuvo la primera conversión con un potencial cliente en la cuarta semana de su proyecto. Esa conversation reveló que el problema que creía estar resolviendo no era el problema principal de su cliente. El problema principal era diferente: relacionado pero diferente. Si hubiera construido el producto completo antes de esa conversation, habria invertido seis meses en la dirección ligeramente equivocada. En su lugar, el conversation ocurrio en la semana cuatro. Ajusto la hipotesis, siguio validando, y a los tres meses tenía un MVP que respondia al problema real. La conversation incomoda que había postpuesto durante semanas fue el acto más valioso que hizo en todo el proceso.
+Carlos tuvo la primera conversión con un potencial cliente en la cuarta semana de su proyecto. Esa conversation reveló que el problema que creía estar resolviendo no era el problema principal de su cliente. El problema principal era diferente: relacionado pero diferente. Si hubiera construido el producto completo antes de esa conversation, habría invertido seis meses en la dirección ligeramente equivocada. En su lugar, el conversation ocurrio en la semana cuatro. Ajusto la hipotesis, siguio validando, y a los tres meses tenía un MVP que respondia al problema real. La conversation incomoda que había postpuesto durante semanas fue el acto más valioso que hizo en todo el proceso.
 
 ---
 

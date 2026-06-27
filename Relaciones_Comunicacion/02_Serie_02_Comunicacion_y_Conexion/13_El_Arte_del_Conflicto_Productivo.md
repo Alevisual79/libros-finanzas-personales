@@ -101,9 +101,9 @@ Durante el conflicto, la mayoría de las personas tienen dos conversaciones para
 
 **El Principio de la Voz Interna como Interferencia:** El monologo interno durante el conflicto amplifica el sesgo de confirmación: interpreta todo lo que dice el otro como evidencia de lo que ya se cree sobre el. Si creo que el otro no me respeta, interpreto cada una de sus palabras como evidencia de falta de respeto. La voz interna, en modo conflicto, no ayuda. Interfiere.
 
-Douglas Stone, en Difficult Conversations, propone suspender temporalmente la voz interna durante el conflicto y reemplazarla con una sola pregunta: que esta intentando comunicarme esta persona? Esa pregunta redirige la atención del monologo propio a la escucha del otro.
+Douglas Stone, en Difficult Conversations, propone suspender temporalmente la voz interna durante el conflicto y reemplazarla con una sola pregunta: ¿que esta intentando comunicarme esta persona? Esa pregunta redirige la atención del monologo propio a la escucha del otro.
 
-**Ejercicio inmediato:** En tu próximo conflicto, cuando notes que tu voz interna esta muy activa, para y hazte la pregunta: que esta intentando decirme esta persona? Repitela cuantas veces sea necesario. Esa pregunta es más útil que cualquier argumento que tu voz interna este preparando.
+**Ejercicio inmediato:** En tu próximo conflicto, cuando notes que tu voz interna esta muy activa, para y hazte la pregunta: ¿que esta intentando decirme esta persona? Repitela cuantas veces sea necesario. Esa pregunta es más útil que cualquier argumento que tu voz interna este preparando.
 
 La conversación más destructiva en un conflicto ocurre dentro de tu cabeza, no entre los dos.
 
@@ -115,7 +115,7 @@ Después de un conflicto difícil, especialmente si algo se dijo que no debería
 
 **El Principio de la Reparación como Habilidad Relacional:** Gottman identifico los intentos de reparación como uno de los predictores más poderosos de la salud relacional a largo plazo. Las parejas y las amistades saludables no son las que nunca dañan la relación en el conflicto. Son las que tienen la capacidad de repararla cuando ocurre el daño. Los intentos de reparación más efectivos comparten tres elementos: reconocen el daño específico causado, expresan algo de responsabilidad propia aunque sea parcial, y hacen una acción concreta en la dirección de restaurar la conexión.
 
-**Ejercicio inmediato:** Piensa en un conflicto reciente donde algo quedo sin reparar. Que podrías decir o hacer que reconociera el daño, asumiera parte de la responsabilidad y restaurara algo de la conexión? No tiene que ser perfecto. Tiene que ser genuino.
+**Ejercicio inmediato:** Piensa en un conflicto reciente donde algo quedo sin reparar. ¿Que podrías decir o hacer que reconociera el daño, asumiera parte de la responsabilidad y restaurara algo de la conexión? No tiene que ser perfecto. Tiene que ser genuino.
 
 Los conflictos que se reparan fortalecen la relación más que si nunca hubieran ocurrido.
 
@@ -129,7 +129,7 @@ El 69% de los conflictos de pareja, segun Gottman, son perpetuos. Existen porque
 
 La gestión efectiva de los conflictos perpetuos requiere que ambas personas puedan expresar sus sueños y necesidades dentro de la posición que defienden, que el otro escuche sin necesitar cambiarlos, y que se encuentren acuerdos temporales y prácticos que respeten ambas necesidades.
 
-**Ejercicio inmediato:** Identifica el conflicto más repetitivo de una relación importante. Acepta que probablemente no tiene solución definitiva. Pregunta: dado que este conflicto va a seguir existiendo, como podemos gestionarlo de la forma que nos haga menos daño? Esa pregunta abre conversaciones que la busqueda de solución no permite.
+**Ejercicio inmediato:** Identifica el conflicto más repetitivo de una relación importante. Acepta que probablemente no tiene solución definitiva. Pregunta: ¿dado que este conflicto va a seguir existiendo, como podemos gestionarlo de la forma que nos haga menos daño? Esa pregunta abre conversaciones que la busqueda de solución no permite.
 
 No todos los conflictos se resuelven. Todos se pueden gestionar mejor.
 
@@ -143,7 +143,7 @@ Hay personas que ante el conflicto se cierran completamente: monosilabos, cara d
 
 La intervención efectiva cuando alguien se congela es parar la conversación completamente, dar tiempo sin presión para la regulación, y volver cuando ambos esten en condiciones de procesar.
 
-**Ejercicio inmediato:** Si en el próximo conflicto el otro (o tu) se congela, propone explicitamente parar: parece que esto es demasiado ahora mismo, paramos treinta minutos y seguimos? La pregunta da permiso para el tiempo fuera sin que parezca una huida.
+**Ejercicio inmediato:** Si en el próximo conflicto el otro (o tu) se congela, propone explicitamente parar: ¿parece que esto es demasiado ahora mismo, paramos treinta minutos y seguimos? La pregunta da permiso para el tiempo fuera sin que parezca una huida.
 
 El congelamiento no es el fin del conflicto. Es una petición de pausa que no sabe como expresarse.
 

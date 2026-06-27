@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Lucia paso seis meses preparando su lanzamiento y cuando finalmente lo hizo, el resultado fue más silencioso de lo que había esperado. Carlos lanzo en la semana doce sin mucha preparación y consiguio sus primeros tres clientes en las dos semanas siguientes. Marcos planea un lanzamiento corporativo con videos de producción profesional, notas de prensa, y eventos de presentación. Los tres estan enfrentando la misma pregunta de formas diferentes: cómo se lanza un negocio de forma que genere tracción real desde el principio, en lugar de solo ruido temporal? Un lanzamiento no es un evento. Es el inició de un proceso de captación de tracción que puede durar meses.
+Lucia paso seis meses preparando su lanzamiento y cuando finalmente lo hizo, el resultado fue más silencioso de lo que había esperado. Carlos lanzo en la semana doce sin mucha preparación y consiguio sus primeros tres clientes en las dos semanas siguientes. Marcos planea un lanzamiento corporativo con videos de producción profesional, notas de prensa, y eventos de presentación. Los tres estan enfrentando la misma pregunta de formas diferentes: ¿cómo se lanza un negocio de forma que genere tracción real desde el principio, en lugar de solo ruido temporal? Un lanzamiento no es un evento. Es el inició de un proceso de captación de tracción que puede durar meses.
 
 ---
 
@@ -39,9 +39,9 @@ Marcos ha aprendido que hay diferentes estrategias de lanzamiento para diferente
 
 **El Principio de la Estrategia de Lanzamiento como Coherente con el Tipo de Negocio, el Tamano de la Audiencia Actual, y los Objetivos del Lanzamiento en Lugar de Universal y Aplicable a Todos los Casos:** Ryan Holiday identifica tres arquetipos de estrategia de lanzamiento: el lanzamiento silencioso (soft launch), donde el negocio empieza a operar sin anuncio formal para conseguir los primeros clientes y aprender antes de un lanzamiento público mayor; el lanzamiento de lista de espera (waitlist launch), donde se construye expectativa antes del lanzamiento creando una lista de personas interesadas; y el lanzamiento de comunidad (community launch), donde se activa una comunidad preexistente de seguidores en el momento del lanzamiento.
 
-La investigación de Gabriel Weinberg sobre las estrategias de tracción de startups muestra que el tipo de lanzamiento correcto depende del tamaño de la audiencia actual del emprendedor (grande, pequeña, o inexistente), del tipo de producto (físico, digital, o servicio), y del modeló de negocio (B2B o B2C).
+La investigación de Gabriel Weinberg sobre las estrategias de tracción de startups muestra que el tipo de lanzamiento correcto depende del tamaño de la audiencia actual del emprendedor (grande, pequeña, o inexistente), del tipo de producto (físico, digital, o servicio), y del modelo de negocio (B2B o B2C).
 
-**Ejercicio inmediato:** Para tu negocio, elige el arquetipo de lanzamiento más apropiado basado en tres preguntas: tienes ya una audiencia significativa (más de mil personas que te siguen o que han expresado interés)? Si si, el lanzamiento de comunidad puede generar mayor impacto. El producto es algo que beneficia de la espera y la exclusividad? Si si, el lanzamiento de lista de espera puede generar expectativa. Ninguna de las dos? El soft launch con primeros clientes reales es probablemente la mejor opción para aprender rápidamente.
+**Ejercicio inmediato:** Para tu negocio, elige el arquetipo de lanzamiento más apropiado basado en tres preguntas: ¿tienes ya una audiencia significativa (más de mil personas que te siguen o que han expresado interés)? ¿Si si, el lanzamiento de comunidad puede generar mayor impacto. El producto es algo que beneficia de la espera y la exclusividad? Si si, el lanzamiento de lista de espera puede generar expectativa. Ninguna de las dos? El soft launch con primeros clientes reales es probablemente la mejor opción para aprender rápidamente.
 
 La estrategia de lanzamiento que funciona es la que es coherente con lo que tienes, no con lo que has visto en las noticias de las grandes empresas.
 
@@ -69,7 +69,7 @@ Carlos ha evaluado el lanzamiento en plataformas de distribución de productos y
 
 La investigación de Ryan Hoover (fundador de Product Hunt) sobre los patrones de lanzamiento muestra que los lanzamientos que mejor funcionan en la plataforma tienen caracteristicas específicas: el producto resuelve un problema reconocible para la audiencia tecnologica, el creador tiene ya una red de seguidores que pueden votar y comentar, y el producto tiene una propuesta de valor que puede comunicarse en un headline de veinte palabras.
 
-**Ejercicio inmediato:** Para tu producto, evalua si el lanzamiento en Product Hunt tiene sentido: tu cliente objetivo frecuenta Product Hunt (si tu cliente es un abogado de cincuenta años, probablemente no)? Tienes una red suficientemente amplia en la plataforma para generar el impulso inicial (los primeros cien votos que generalmente determinan si un lanzamiento llega a la página principal)? El beneficio del producto puede comunicarse en una frase? Si las tres respuestas son si, Product Hunt puede ser un canal de distribución valioso. Si alguna es no, el tiempo se invierte mejor en otros canales.
+**Ejercicio inmediato:** Para tu producto, evalua si el lanzamiento en Product Hunt tiene sentido: ¿tu cliente objetivo frecuenta Product Hunt (si tu cliente es un abogado de cincuenta años, probablemente no)? ¿Tienes una red suficientemente amplia en la plataforma para generar el impulso inicial (los primeros cien votos que generalmente determinan si un lanzamiento llega a la página principal)? El beneficio del producto puede comunicarse en una frase? Si las tres respuestas son si, Product Hunt puede ser un canal de distribución valioso. Si alguna es no, el tiempo se invierte mejor en otros canales.
 
 La distribución en la plataforma donde esta tu audiencia real vale más que la que te da mayor visibilidad con la audiencia incorrecta.
 
@@ -83,7 +83,7 @@ Marcos ha aprendido que para negocios B2B, el lanzamiento más efectivo no es el
 
 La investigación de Mark Roberge de HubSpot sobre el crecimiento de startups B2B muestra que el canal de mayor conversión en B2B en las fases tempranas es consistentemente la referencia de un cliente satisfecho (que hace la introducción al siguiente cliente), significativamente por encima del inbound marketing, la publicidad, o los eventos.
 
-**Ejercicio inmediato:** Para tu negocio B2B, diseña tu estrategia de lanzamiento de ventas directas: quienes son las diez empresas que más se beneficiarian de tu producto en este momento? Quien en esas empresas es el tomador de decisión o el champion interno (el que podría promocionar tu producto internamente)? Tienes alguna conexión común que pudiera hacer una introducción calida? Empieza por las que tienen alguna conexión, no por las que requieren un cold outreach.
+**Ejercicio inmediato:** Para tu negocio B2B, diseña tu estrategia de lanzamiento de ventas directas: ¿quienes son las diez empresas que más se beneficiarian de tu producto en este momento? ¿Quien en esas empresas es el tomador de decisión o el champion interno (el que podría promocionar tu producto internamente)? Tienes alguna conexión común que pudiera hacer una introducción calida? Empieza por las que tienen alguna conexión, no por las que requieren un cold outreach.
 
 El lanzamiento B2B que más rápido genera revenue no es el que más ruido hace. Es el que llega directamente a la persona correcta con el mensaje correcto.
 
@@ -125,7 +125,7 @@ Carlos ha aprendido que el primer mes después del lanzamiento es el más críti
 
 La investigación de Brian Balfour sobre el crecimiento de startups muestra que las que mantienen el crecimiento post-lanzamiento tienen en común un proceso activo de captación de clientes que no depende del impulso del lanzamiento sino de los canales de adquisición que han construido.
 
-**Ejercicio inmediato:** Para la semana siguiente a tu lanzamiento, diseña un plan específico de actividades que mantengan el momentum: cuantos seguimientos haras a los leads del lanzamiento? Cuantas nuevas conversaciones de ventas tendras? Que contenido publicaras para mantener visible el negocio? Que cambios en el producto o en el marketing haras basandote en el feedback del primer dia? El post-lanzamiento con plan produce significativamente más resultado que el post-lanzamiento improvisado.
+**Ejercicio inmediato:** Para la semana siguiente a tu lanzamiento, diseña un plan específico de actividades que mantengan el momentum: ¿cuantos seguimientos haras a los leads del lanzamiento? ¿Cuantas nuevas conversaciones de ventas tendras? Que contenido publicaras para mantener visible el negocio? ¿Que cambios en el producto o en el marketing haras basandote en el feedback del primer dia? El post-lanzamiento con plan produce significativamente más resultado que el post-lanzamiento improvisado.
 
 El lanzamiento sin plan de post-lanzamiento es un cohete sin segunda etapa. Sube rápido pero no llega a orbita.
 
@@ -135,11 +135,11 @@ El lanzamiento sin plan de post-lanzamiento es un cohete sin segunda etapa. Sube
 
 Lucia ha relanzado su negocio con una nueva propuesta de valor seis meses después del lanzamiento inicial y el segundo lanzamiento ha tenido más impacto que el primero.
 
-**El Principio del Relanzamiento como Oportunidad de Aplicar el Aprendizaje del Lanzamiento Inicial para Generar Mayor Tracción con una Propuesta de Valor Más Ajustada y una Audiencia Más Caliente:** Muchos de los negocios más exitosos han pasado por uno o varios relanzamientos después de ajustar la propuesta de valor, el segmento de cliente, o el modeló de negocio. El relanzamiento permite comunicar al mercado que la empresa ha evolucionado y ofrece una segunda oportunidad a los que no respondieron al primer lanzamiento.
+**El Principio del Relanzamiento como Oportunidad de Aplicar el Aprendizaje del Lanzamiento Inicial para Generar Mayor Tracción con una Propuesta de Valor Más Ajustada y una Audiencia Más Caliente:** Muchos de los negocios más exitosos han pasado por uno o varios relanzamientos después de ajustar la propuesta de valor, el segmento de cliente, o el modelo de negocio. El relanzamiento permite comunicar al mercado que la empresa ha evolucionado y ofrece una segunda oportunidad a los que no respondieron al primer lanzamiento.
 
 La investigación de Steve Blank sobre los pivots y los relanzamientos muestra que el relanzamiento más efectivo no es el que tiene mejor producción o mayor presupuesto de marketing sino el que parte de un producto y una propuesta de valor significativamente mejorados por el aprendizaje del lanzamiento anterior.
 
-**Ejercicio inmediato:** Si tu primer lanzamiento no genero la tracción esperada, reflexiona antes de relanzar sobre tres preguntas: que ha cambiado en el producto o la propuesta de valor desde el primer lanzamiento que justificaría la atención del mercado de nuevo? A que nuevo segmento de cliente podrías dirigirte con el producto que tienes ahora? Que canal de distribución que no usaste en el primer lanzamiento podrías probar en el segundo? Las respuestas a esas tres preguntas son la estrategia del relanzamiento.
+**Ejercicio inmediato:** Si tu primer lanzamiento no genero la tracción esperada, reflexiona antes de relanzar sobre tres preguntas: ¿que ha cambiado en el producto o la propuesta de valor desde el primer lanzamiento que justificaría la atención del mercado de nuevo? ¿A que nuevo segmento de cliente podrías dirigirte con el producto que tienes ahora? Que canal de distribución que no usaste en el primer lanzamiento podrías probar en el segundo? Las respuestas a esas tres preguntas son la estrategia del relanzamiento.
 
 El relanzamiento que no tiene nada nuevo que decir es un lanzamiento repetido con la misma audiencia. El que tiene algo genuinamente nuevo que mostrar es una segunda oportunidad real.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que el lanzamiento es el inició de un proceso de t
 
 La investigación de Andrew Montalenti sobre los patrones de crecimiento de startups exitosas muestra que casi ninguna de ellas encontró su canal de tracción principal en el lanzamiento inicial: la mayoría lo descubrió a traves de la experimentación sistemática en los meses siguientes al lanzamiento.
 
-**Ejercicio inmediato:** Diseña tu sistema de experimentación de tracción para los tres meses post-lanzamiento: que dos o tres canales de adquisición probaras activamente (no probaras vagamente: probaras con dedicación suficiente para tener datos reales)? Como mediras el resultado de cada canal (coste de adquisición por canal, tasa de conversión, calidad del cliente adquirido)? Con que criterio decidiras que canal escalar y cual abandonar? Ese sistema de experimentación sistemática es lo que convierte el lanzamiento en el inició de la tracción.
+**Ejercicio inmediato:** Diseña tu sistema de experimentación de tracción para los tres meses post-lanzamiento: que dos o tres canales de adquisición probaras activamente (no probaras vagamente: ¿probaras con dedicación suficiente para tener datos reales)? ¿Como mediras el resultado de cada canal (coste de adquisición por canal, tasa de conversión, calidad del cliente adquirido)? Con que criterio decidiras que canal escalar y cual abandonar? Ese sistema de experimentación sistemática es lo que convierte el lanzamiento en el inició de la tracción.
 
 La tracción que buscas no esta en el dia del lanzamiento. Esta en los meses de experimentación y aprendizaje que siguen.
 

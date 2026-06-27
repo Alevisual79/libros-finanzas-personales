@@ -55,7 +55,7 @@ Marcos ha optimizado su perfil de LinkedIn y en tres meses ha recibido más prop
 
 La investigación de LinkedIn sobre los perfiles que generan más oportunidades muestra que los que tienen todos los componentes completos y optimizados reciben veintiun veces más visualizaciones que los incompletos.
 
-**Ejercicio inmediato:** Audita tu perfil de LinkedIn contra los seis componentes críticos: tienes una foto profesional actual?, el headline describe el valor que aportas o solo tu título de trabajo?, el about cuenta tu historia y propuesta de valor en tres párrafos o es solo un listado de responsabilidades?, la sección de experiencia incluye resultados medibles y logros específicos?, tienes al menos tres recomendaciones de clientes o colegas relevantes? Identifica el componente más debil y mejoralo esta semana. Un perfil mejorado genera más oportunidades que un perfil perfecto que no existe todavia.
+**Ejercicio inmediato:** Audita tu perfil de LinkedIn contra los seis componentes críticos: ¿tienes una foto profesional actual?, el headline describe el valor que aportas o solo tu título de trabajo?, el about cuenta tu historia y propuesta de valor en tres párrafos o es solo un listado de responsabilidades?, la sección de experiencia incluye resultados medibles y logros específicos?, tienes al menos tres recomendaciones de clientes o colegas relevantes? Identifica el componente más debil y mejoralo esta semana. Un perfil mejorado genera más oportunidades que un perfil perfecto que no existe todavia.
 
 El perfil de LinkedIn que describe lo que haces es un curriculum. El que describe el valor que produces para alguien específico es una herramienta de marketing.
 
@@ -139,7 +139,7 @@ Marcos ha aprendido que la marca personal que no evoluciona se vuelve obsoleta.
 
 La investigación de LinkedIn sobre los patrones de evolución de la marca personal de los profesionales más exitosos muestra que los que tienen mayor crecimiento a diez años han actualizado deliberadamente su posicionamiento entre dos y cuatro veces, cada vez en respuesta a la evolución de sus capacidades y del mercado.
 
-**Ejercicio inmediato:** Revisa tu marca personal actual contra la visión de dónde quieres estar en tres años: el posicionamiento actual te llevara a ese lugar o necesita ajustarse? El tipo de contenido que públicas atrae al tipo de oportunidades que quieres en tres años? La audiencia que estas construyendo es la que te servira mejor en ese horizonte temporal? La respuesta a esas tres preguntas te indica si la marca personal actual esta bien orientada o si necesita una evolución deliberada.
+**Ejercicio inmediato:** Revisa tu marca personal actual contra la visión de dónde quieres estar en tres años: ¿el posicionamiento actual te llevara a ese lugar o necesita ajustarse? ¿El tipo de contenido que públicas atrae al tipo de oportunidades que quieres en tres años? La audiencia que estas construyendo es la que te servira mejor en ese horizonte temporal? La respuesta a esas tres preguntas te indica si la marca personal actual esta bien orientada o si necesita una evolución deliberada.
 
 La marca personal que no revisas periodicamente puede estar llevandote hacía donde fuiste, no hacía donde quieres ir.
 

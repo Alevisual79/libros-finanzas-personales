@@ -25,7 +25,7 @@ El trabajo remoto ha transformado fundamentalmente la forma en que se forman y m
 
 **El Principio de la Eliminación de la Conexion Incidental:** Gran parte de la formación de relaciones laborales en entornos presenciales ocurre a traves de interacciones incidentales no estructuradas: conversaciones en el pasillo, almuerzos compartidos casuales, comentarios breves entre tareas. El trabajo remoto elimina la mayoría de estas oportunidades incidentales, lo que significa que la formación de relaciones requiere ahora intencionalidad explícita que antes no era necesaria.
 
-**Ejercicio inmediato:** Identifica que tipo de conexión incidental experimentabas en un entorno de oficina presencial que actualmente no tienes en remoto. Que reemplazo intencional podrías crear para esa función específica?
+**Ejercicio inmediato:** Identifica que tipo de conexión incidental experimentabas en un entorno de oficina presencial que actualmente no tienes en remoto. ¿Que reemplazo intencional podrías crear para esa función específica?
 
 El trabajo remoto no elimina la necesidad de conexión. Elimina la conexión que ocurria por accidente, exigiendo que ahora se cree con intención.
 
@@ -37,7 +37,7 @@ Más allá de la conexión social, el espacio físico compartido cumplia funcion
 
 **El Principio de las Funciones Perdidas del Espacio Compartido:** El espacio físico compartido facilitaba la detección temprana de problemas a traves de señales no verbales sutiles, la resolución rápida de pequeñas dudas sin necesidad de programar una reunión formal, y la sensación de presencia colectiva que reforzaba el sentido de pertenencia al equipo. El trabajo remoto requiere sustitutos deliberados para cada una de estas funciones, no solo para la comunicación explícita de información.
 
-**Ejercicio inmediato:** Identifica una función específica del espacio compartido (detección temprana de problemas, resolución rápida de dudas, sensación de presencia colectiva) que tu equipo remoto no ha reemplazado adecuadamente. Que herramienta o práctica podría llenar ese vacio?
+**Ejercicio inmediato:** Identifica una función específica del espacio compartido (detección temprana de problemas, resolución rápida de dudas, sensación de presencia colectiva) que tu equipo remoto no ha reemplazado adecuadamente. ¿Que herramienta o práctica podría llenar ese vacio?
 
 Lo que se pierde en remoto no es solo la charla social. Son funciones específicas de coordinación que requieren un sustituto deliberado.
 
@@ -61,7 +61,7 @@ Las videollamadas, herramienta predeterminada para muchas interacciones remotas,
 
 **El Principio del Ajuste de Herramienta al Proposito:** Las videollamadas funcionan bien para conversaciones que requieren matiz emocional, negociación, o construcción de relación, pero generan fatiga significativa cuando se usan en exceso para información que podría comunicarse de forma asincrona, y limitan la espontaneidad de las conversaciones laterales que ocurrian naturalmente en espacios físicos compartidos.
 
-**Ejercicio inmediato:** Evalua tu calendario actual de videollamadas. Cuales podrían convertirse en comunicación asincrona sin perder valor relacional, y cuales realmente requieren la riqueza de la interacción en video?
+**Ejercicio inmediato:** Evalua tu calendario actual de videollamadas. ¿Cuales podrían convertirse en comunicación asincrona sin perder valor relacional, y cuales realmente requieren la riqueza de la interacción en video?
 
 No toda comunicación necesita una videollamada. Pero la que requiere matiz emocional o construcción de confianza, casi siempre la necesita.
 
@@ -75,7 +75,7 @@ Los equipos remotos que mantienen cohesión sólida frecuentemente han desarroll
 
 **Ejercicio inmediato:** Si tu equipo remoto no tiene rituales de conexión establecidos, propone uno específico y simple: los primeros cinco minutos de la reunión semanal dedicados a conversación no laboral, por ejemplo.
 
-Los equipos remotos cohesionados no tuvieron suerte. Crearon deliberadamente los rituales que el espacio físico les habria dado gratis.
+Los equipos remotos cohesionados no tuvieron suerte. Crearon deliberadamente los rituales que el espacio físico les habría dado gratis.
 
 ---
 
@@ -133,9 +133,9 @@ Los modelos hibridos de trabajo, que combinan presencia física parcial con trab
 
 **El Principio de la Complejidad Hibrida:** Los modelos hibridos pueden generar dinámicas de exclusión sutil donde quienes estan presentes físicamente en ciertos momentos tienen acceso a información o conexión que quienes trabajan remotamente en ese momento no tienen, creando un sistema de dos niveles de información que, sin gestión deliberada, puede generar inequidad relacional significativa entre miembros del mismo equipo.
 
-**Ejercicio inmediato:** Si trabajas en un modeló hibrido, evalua si existe inequidad de información o conexión entre quienes estan presentes físicamente en ciertos momentos y quienes trabajan remotamente. Que práctica podría nivelar ese acceso?
+**Ejercicio inmediato:** Si trabajas en un modelo hibrido, evalua si existe inequidad de información o conexión entre quienes estan presentes físicamente en ciertos momentos y quienes trabajan remotamente. ¿Que práctica podría nivelar ese acceso?
 
-El modeló hibrido no combina automáticamente lo mejor de ambos mundos. Sin gestión deliberada, puede combinar los desafios de ambos sin los beneficios de ninguno.
+El modelo hibrido no combina automáticamente lo mejor de ambos mundos. Sin gestión deliberada, puede combinar los desafios de ambos sin los beneficios de ninguno.
 
 ---
 

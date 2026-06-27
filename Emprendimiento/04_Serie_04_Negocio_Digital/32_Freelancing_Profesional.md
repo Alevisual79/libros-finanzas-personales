@@ -23,7 +23,7 @@ Carlos ha dejado su trabajo para ser freelance y en el primer mes gana menos de 
 
 El freelance que se vende por hora no es un empresario. Es un empleado sin contrató fijo ni beneficios sociales.
 
-**El Principio del Freelancing Profesional como el Modelo de Negocio que Va Más allá de Venderse por Hora para Crear un Servicio con Valor Definido, Propuesta de Valor Clara, y Modelo de Revenue que No Dependa Exclusivamente del Tiempo del Proveedor:** Jonathan Stark en Hourly Billing is Nuts! propone que la mayoría de los freelances cometen el error de cobrar por hora (el mismo modeló de un empleado por cuenta ajena) en lugar de cobrar por valor (el resultado que el cliente recibe). El problema del cobró por hora es doble: el cliente tiene incentivo para qué trabajes menos horas (le conviene más eficiencia, no menos), y el freelance tiene un techo de revenue limitado por el número de horas que puede trabajar.
+**El Principio del Freelancing Profesional como el Modelo de Negocio que Va Más allá de Venderse por Hora para Crear un Servicio con Valor Definido, Propuesta de Valor Clara, y Modelo de Revenue que No Dependa Exclusivamente del Tiempo del Proveedor:** Jonathan Stark en Hourly Billing is Nuts! propone que la mayoría de los freelances cometen el error de cobrar por hora (el mismo modelo de un empleado por cuenta ajena) en lugar de cobrar por valor (el resultado que el cliente recibe). El problema del cobró por hora es doble: el cliente tiene incentivo para qué trabajes menos horas (le conviene más eficiencia, no menos), y el freelance tiene un techo de revenue limitado por el número de horas que puede trabajar.
 
 La investigación de Freelancers Unión sobre los patrones de revenue de freelancers muestra que los que cobran por proyecto o por valor (en lugar de por hora) tienen revenue promedio significativamente superior al de los que cobran por hora, con frecuencia trabajando menos horas.
 
@@ -83,7 +83,7 @@ Lucia ha subido su tarifa un 40% en el último año y ha mejorado la calidad de 
 
 La forma más efectiva de subir la tarifa sin conflicto es aplicarla a los nuevos clientes antes que a los actuales (que se benefician de un período de gracia como reconocimiento de la relación), y estar dispuesto a perder los clientes actuales que no acepten el nuevo precio (que frecuentemente son los de menor valor en terminos de margen y satisfacción).
 
-**Ejercicio inmediato:** Calcula tu tarifa objetivo para dentro de doce meses: que tarifa necesitas para alcanzar el revenue mensual objetivo con el número de horas que quieres trabajar? Esa tarifa objetivo te da la brecha a cerrar. Diseña el plan para cerrarla: que especialización adicional, que casos de éxito, o que nuevo posicionamiento necesitas para justificar esa tarifa ante los clientes en doce meses?
+**Ejercicio inmediato:** Calcula tu tarifa objetivo para dentro de doce meses: ¿que tarifa necesitas para alcanzar el revenue mensual objetivo con el número de horas que quieres trabajar? Esa tarifa objetivo te da la brecha a cerrar. Diseña el plan para cerrarla: ¿que especialización adicional, que casos de éxito, o que nuevo posicionamiento necesitas para justificar esa tarifa ante los clientes en doce meses?
 
 La tarifa del freelance que nunca sube no es estable. Es la tarifa de alguien cuyo valor se esta depreciando en terminos reales.
 
@@ -137,9 +137,9 @@ Carlos ha llegado al punto donde quiere escalar más allá de lo que puede hacer
 
 **El Principio de la Transición del Freelancer Solista a Estudio o Mini-Agencia como el Momento que Requiere Cambiar el Modelo de Negocio Fundamentalmente porque Implica Pasar de Vender Tiempo Propio a Organizar el Trabajo de Otros:** La decisión de escalar el freelancing tipicamente implica dos alternativas: productizar el servicio (convertirlo en un producto o programa estandarizado que puede entregarse a mayor número de clientes con mayor eficiencia), o construir un equipo (subcontratando trabajo a otros freelances o contratando empleados para poder servir a más clientes). Ambas alternativas cambian fundamentalmente la naturaleza del negocio.
 
-Paul Jarvis propone una tercera alternativa: el Company of One, el freelance deliberadamente solist que no escala porque ha diseñado un negocio que le permite vivir bien con el número de clientes que puede servir a alta calidad. No escalar es una elección legitima si el modeló económico lo permite.
+Paul Jarvis propone una tercera alternativa: el Company of One, el freelance deliberadamente solist que no escala porque ha diseñado un negocio que le permite vivir bien con el número de clientes que puede servir a alta calidad. No escalar es una elección legitima si el modelo económico lo permite.
 
-**Ejercicio inmediato:** Para tu situación actual como freelance, reflexiona sobre tres preguntas: quieres escalar el negocio (más revenue, más clientes, más complejidad) o quieres optimizarlo (mismo o menor número de clientes, mayor margen, mayor calidad de vida)? Si quieres escalar, cual es el primer paso: productizar el servicio, subcontratar trabajo, o contratar? Si quieres optimizar, que clientes tendrías que perder (los de menor margen o mayor complejidad) para mejorar la calidad de vida sin reducir el revenue total? No hay respuesta correcta universal: hay la que es correcta para ti en este momento.
+**Ejercicio inmediato:** Para tu situación actual como freelance, reflexiona sobre tres preguntas: ¿quieres escalar el negocio (más revenue, más clientes, más complejidad) o quieres optimizarlo (mismo o menor número de clientes, mayor margen, mayor calidad de vida)? Si quieres escalar, cual es el primer paso: ¿productizar el servicio, subcontratar trabajo, o contratar? ¿Si quieres optimizar, que clientes tendrías que perder (los de menor margen o mayor complejidad) para mejorar la calidad de vida sin reducir el revenue total? No hay respuesta correcta universal: hay la que es correcta para ti en este momento.
 
 El freelance que sabe exactamente que tipo de negocio quiere construir puede construirlo. El que no lo sabe construye lo que el mercado le da.
 
@@ -161,7 +161,7 @@ El freelance que trabaja con los clientes correctos, en el tipo de trabajo corre
 
 ## Epílogo
 
-Lucia miro sus números al final del año: había facturado un 45% más que el año anterior trabajando el mismo número de horas. Lo había conseguido haciendo tres cambios: había subido la tarifa un 40% (perdiendo dos clientes de los doce que tenía, que resultaron ser los dos más difíciles), se había especializado en un sector específico (salud digital), y había cambiado de cobrar por hora a cobrar por proyecto con precio fijo. Tres cambios en el modeló de negocio, no en las habilidades técnicas. Lo que había cambiado no era cuanto sabía hacer. Era cuanto valia lo que sabía hacer.
+Lucia miro sus números al final del año: había facturado un 45% más que el año anterior trabajando el mismo número de horas. Lo había conseguido haciendo tres cambios: había subido la tarifa un 40% (perdiendo dos clientes de los doce que tenía, que resultaron ser los dos más difíciles), se había especializado en un sector específico (salud digital), y había cambiado de cobrar por hora a cobrar por proyecto con precio fijo. Tres cambios en el modelo de negocio, no en las habilidades técnicas. Lo que había cambiado no era cuanto sabía hacer. Era cuanto valia lo que sabía hacer.
 
 ---
 

@@ -27,7 +27,7 @@ Durante la mayor parte del siglo XX, la psicología se centro en lo que falla. L
 
 La investigación de Gallup sobre el compromiso laboral muestra que los empleados que reportan usar sus fortalezas cada dia en el trabajo muestran seis veces mayor engagement, menos ausentismo, y mayor productividad que los que no. La investigación de Alex Linley y colegas muestra que las personas que usan sus fortalezas tienen mayor bienestar, menor estres, y mayor confianza en si mismas.
 
-**Ejercicio inmediato:** Reflexiona sobre las últimas dos semanas. Identifica tres momentos en los que te sentiste especialmente efectivo, energizado, y en tu elemento: momentos en que lo que hacías salía bien de forma casi natural. Que estabas haciendo en esos momentos? Que habilidades o capacidades estabas usando? Las respuestas a esas preguntas son indicadores de tus fortalezas.
+**Ejercicio inmediato:** Reflexiona sobre las últimas dos semanas. Identifica tres momentos en los que te sentiste especialmente efectivo, energizado, y en tu elemento: ¿momentos en que lo que hacías salía bien de forma casi natural. ¿Que estabas haciendo en esos momentos? ¿Que habilidades o capacidades estabas usando? Las respuestas a esas preguntas son indicadores de tus fortalezas.
 
 Las fortalezas no son las cosas que haces perfectamente. Son las que te energizan mientras las haces.
 
@@ -41,7 +41,7 @@ Isabel quiere conocer sus fortalezas de forma sistemática. El proyecto VIA ofre
 
 La investigación muestra que estas 24 fortalezas son universalmente reconocidas como virtudes en las principales culturas y tradiciones éticas del mundo, y que su uso activo se asocia con mayor bienestar, mayor resiliencia, y mayor satisfacción vital.
 
-**Ejercicio inmediato:** Completa el cuestionario VIA gratuito disponible en viacharacter.org (tarda aproximadamente quince minutos). Al revisar tus resultados, fijate especialmente en las cinco fortalezas principales (las que el cuestionario identifica como tus fortalezas caracteristicas): son reconocibles para ti? Se alinean con los momentos de mayor efectividad y energía que identificaste en el ejercicio anterior?
+**Ejercicio inmediato:** Completa el cuestionario VIA gratuito disponible en viacharacter.org (tarda aproximadamente quince minutos). Al revisar tus resultados, fijate especialmente en las cinco fortalezas principales (las que el cuestionario identifica como tus fortalezas caracteristicas): ¿son reconocibles para ti? ¿Se alinean con los momentos de mayor efectividad y energía que identificaste en el ejercicio anterior?
 
 Las fortalezas que el cuestionario te confirma ya las conocías. Las que te sorprenden merecen exploración adicional.
 
@@ -55,7 +55,7 @@ Ruben ha completado el VIA y tiene su lista de fortalezas principales. Ahora nec
 
 Alex Linley y colegas proponen que las fortalezas se reconocen no solo por el rendimiento que producen sino por la energía que generan: usar tus fortalezas te deja con más energía que cuando empezaste, mientras que usar tus debilidades te deja con menos (aunque el resultado del trabajo pueda ser bueno en ambos casos).
 
-**Ejercicio inmediato:** Para cada una de tus cinco fortalezas principales del VIA, reflexiona: cuando fue la última vez que use deliberadamente esta fortaleza en una tarea importante de mi trabajo o mi vida personal? Si la respuesta es raramente o nunca, esa es una fortaleza infrautilizada que tiene potencial significativo de aumentar tu bienestar y efectividad.
+**Ejercicio inmediato:** Para cada una de tus cinco fortalezas principales del VIA, reflexiona: ¿cuando fue la última vez que use deliberadamente esta fortaleza en una tarea importante de mi trabajo o mi vida personal? Si la respuesta es raramente o nunca, esa es una fortaleza infrautilizada que tiene potencial significativo de aumentar tu bienestar y efectividad.
 
 La fortaleza que no usas no es una fortaleza. Es un talento latente que espera ser activado.
 
@@ -69,7 +69,7 @@ Isabel gestiona equipos y quiere entender como aplicar el enfoque de fortalezas 
 
 Esto no implica ignorar las debilidades: implica gestionar las debilidades (llevarlas a un nivel funcional aceptable) en lugar de intentar convertirlas en fortalezas, y usar las fortalezas como motor principal del desarrollo.
 
-**Ejercicio inmediato:** Para cada miembro de tu equipo (si lideras), reflexiona: conozco las dos o tres fortalezas principales de esta persona? Le he dado oportunidades recientes de usar esas fortalezas en tareas significativas? Si no, esa es una oportunidad de desarrollo que no estas usando. Las conversaciones sobre fortalezas con los miembros del equipo son frecuentemente más efectivas para el desarrollo que las conversaciones sobre áreas de mejora.
+**Ejercicio inmediato:** Para cada miembro de tu equipo (si lideras), reflexiona: ¿conozco las dos o tres fortalezas principales de esta persona? ¿Le he dado oportunidades recientes de usar esas fortalezas en tareas significativas? Si no, esa es una oportunidad de desarrollo que no estas usando. Las conversaciones sobre fortalezas con los miembros del equipo son frecuentemente más efectivas para el desarrollo que las conversaciones sobre áreas de mejora.
 
 El equipo que cada miembro siente que puede ser lo mejor de si mismo es el equipo que más rinde. No el que cada miembro esta intentando corregir sus defectos.
 
@@ -83,7 +83,7 @@ Elena ha aprendido que las fortalezas de su pareja complementan las suyas de for
 
 En las relaciones personales, la investigación de Arthur Aron sobre las relaciones de expansión del self muestra que las relaciones con personas cuyas fortalezas son diferentes a las propias producen mayor crecimiento personal y mayor satisfacción relacional que las relaciones con personas muy similares, aunque estas últimas produzcan mayor comodidad inicial.
 
-**Ejercicio inmediato:** Para las relaciones más importantes de tu vida (pareja, socio, amigo cercano), reflexiona sobre las fortalezas del otro. Que fortalezas tiene esa persona que tu no tienes en la misma medida? En que áreas te complementa y te hace más efectivo de lo que serías solo? Esa conciencia explícita de la complementariedad de fortalezas frecuentemente aumenta el aprecio por el otro y reduce la tendencia a ver sus diferencias como defectos.
+**Ejercicio inmediato:** Para las relaciones más importantes de tu vida (pareja, socio, amigo cercano), reflexiona sobre las fortalezas del otro. ¿Que fortalezas tiene esa persona que tu no tienes en la misma medida? ¿En que áreas te complementa y te hace más efectivo de lo que serías solo? Esa conciencia explícita de la complementariedad de fortalezas frecuentemente aumenta el aprecio por el otro y reduce la tendencia a ver sus diferencias como defectos.
 
 La persona cuyas fortalezas son diferentes a las tuyas no es la que más se parece a ti. Es la que más te completa.
 
@@ -97,7 +97,7 @@ Ruben ha aprendido que sus fortalezas, llevadas al extremo o usadas en el contex
 
 La investigación de Adam Grant muestra que los givers (personas con alta fortaleza de generosidad) son los que mejor y peor les va en las organizaciones: los que mejor les va aprenden a establecer límites que protegen sus recursos; los que peor les va usan la fortaleza sin restricción hasta el agotamiento.
 
-**Ejercicio inmediato:** Para tu fortaleza más caracteristica, reflexiona: hay situaciones en tu vida donde el uso excesivo de esta fortaleza te ha causado problemas o ha producido costes para ti o para otros? El exceso de persistencia que no te deja cambiar de rumbo cuando la evidencia lo pide? El exceso de amabilidad que no te deja decir no? Identificar el exceso de tus fortalezas es tan valioso como identificar las fortalezas en si.
+**Ejercicio inmediato:** Para tu fortaleza más caracteristica, reflexiona: ¿hay situaciones en tu vida donde el uso excesivo de esta fortaleza te ha causado problemas o ha producido costes para ti o para otros? ¿El exceso de persistencia que no te deja cambiar de rumbo cuando la evidencia lo pide? El exceso de amabilidad que no te deja decir no? Identificar el exceso de tus fortalezas es tan valioso como identificar las fortalezas en si.
 
 La fortaleza sin conciencia de sus límites se convierte en su propio obstaculo.
 
@@ -125,7 +125,7 @@ Ruben ha observado que las personas que conocen bien sus fortalezas parecen recu
 
 La investigación de Christopher Peterson y colegas sobre las fortalezas de carácter y la recuperación de experiencias traumaticas (incluyendo el estudio de veteranos de guerra) muestra que las fortalezas de trascendencia (gratitud, esperanza, humor, espiritualidad) y las de humanidad (amor, amabilidad) son especialmente predictivas de la recuperación psicológica después de la adversidad.
 
-**Ejercicio inmediato:** Para el momento de mayor dificultad que has vivido en los últimos años, reflexiona: que fortalezas de carácter usaste para atravesarlo? Que fortalezas te ayudaron más a recuperarte? Ese conocimiento retrospectivo de tus fortalezas en la adversidad es especialmente valioso: te dice cuales son las que más puedes confiar cuando las necesites de nuevo.
+**Ejercicio inmediato:** Para el momento de mayor dificultad que has vivido en los últimos años, reflexiona: ¿que fortalezas de carácter usaste para atravesarlo? ¿Que fortalezas te ayudaron más a recuperarte? Ese conocimiento retrospectivo de tus fortalezas en la adversidad es especialmente valioso: te dice cuales son las que más puedes confiar cuando las necesites de nuevo.
 
 En la adversidad, tus fortalezas no te abandonan. Pero tienes que saber cuales son para poder usarlas.
 
@@ -139,7 +139,7 @@ Isabel quiere implementar un enfoque de fortalezas en su departamento.
 
 La práctica del liderazgo basado en fortalezas incluye: conversaciones regulares sobre lo que cada miembro del equipo hace mejor y con más energía, asignación de proyectos que alineen las tareas con las fortalezas individuales, y feedback que comienza identificando lo que funciona antes de abordar lo que puede mejorar.
 
-**Ejercicio inmediato:** Esta semana, ten una conversación con un miembro de tu equipo (o un colega cercano) cuyo proposito explícito sea explorar sus fortalezas: que actividades te energizan más? En que te sientes más en tu elemento? Cuando el trabajo parece fluir de forma natural? Esas preguntas son el punto de partida para un liderazgo que apalanca el talento existente en lugar de intentar corregir el deficit.
+**Ejercicio inmediato:** Esta semana, ten una conversación con un miembro de tu equipo (o un colega cercano) cuyo proposito explícito sea explorar sus fortalezas: ¿que actividades te energizan más? ¿En que te sientes más en tu elemento? Cuando el trabajo parece fluir de forma natural? Esas preguntas son el punto de partida para un liderazgo que apalanca el talento existente en lugar de intentar corregir el deficit.
 
 El líder que sabe lo mejor de cada miembro de su equipo tiene el activo más valioso de todos: personas que quieren ser lo mejor que pueden ser.
 

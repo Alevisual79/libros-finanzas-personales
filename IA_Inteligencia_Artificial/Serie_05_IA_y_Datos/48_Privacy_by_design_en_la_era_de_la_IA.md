@@ -25,7 +25,7 @@ Este libro explora Privacy by design en la era de la IA desde la perspectiva pr�
 
 Proteger los datos mientras se aprovecha su valor es uno de los dominios donde la IA ofrece mayor valor inmediato para los profesionales del conocimiento.
 
-La combinación de herramientas accesibles y capacidades crecientes ha democratizado el trabajo con datos de una forma que habria parecido imposible hace cinco años.
+La combinación de herramientas accesibles y capacidades crecientes ha democratizado el trabajo con datos de una forma que habría parecido imposible hace cinco años.
 
 ---
 

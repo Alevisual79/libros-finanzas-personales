@@ -39,7 +39,7 @@ Jasper (antes Jarvis) fue la primera herramienta de escritura de marketing con I
 
 **Caracteristicas clave:**
 - Flujos de trabajo predefinidos para casos de uso específicos (post de blog, copy de anuncio, email)
-- Brand Voice: el modeló aprende el tono y estilo de marca específico
+- Brand Voice: el modelo aprende el tono y estilo de marca específico
 - Jasper Art: generación de imagenes integrada
 - Integración con Surfer SEO para contenido optimizado para buscadores
 
@@ -117,7 +117,7 @@ El flujo más efectivo no es generar y publicar sin revisión. Es:
 
 **3. Edición con criterio:** El humano revisa con criterios específicos: precisión de hechos, tono de marca, relevancia para la audiencia, call to action efectivo.
 
-**4. Personalización:** Aniadir los elementos que hacen el contenido específico al contexto: ejemplos concretos, referencias a clientes específicos, voz autentica.
+**4. Personalización:** Añadir los elementos que hacen el contenido específico al contexto: ejemplos concretos, referencias a clientes específicos, voz autentica.
 
 **5. Revisión final:** Verificar que el contenido es correcto, que no hay alucinaciones de hechos, que el tono es el adecuado.
 
@@ -125,7 +125,7 @@ El flujo más efectivo no es generar y publicar sin revisión. Es:
 
 ## Capítulo 9: Cuando usar herramientas especializadas vs. LLMs generalistas
 
-La pregunta práctica: para qué pagar herramientas especializadas si ChatGPT o Claude pueden hacer lo mismo?
+La pregunta práctica: ¿para qué pagar herramientas especializadas si ChatGPT o Claude pueden hacer lo mismo?
 
 **Razones para herramientas especializadas:**
 - Flujos de trabajo preconfigurados que ahorran tiempo de prompting

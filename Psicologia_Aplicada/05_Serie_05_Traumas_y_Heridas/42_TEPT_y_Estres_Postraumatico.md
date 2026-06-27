@@ -151,9 +151,9 @@ Isabel ha terminado el tratamiento del TEPT y esta aprendiendo a vivir después.
 
 **El Principio de la Integración como Meta de la Recuperación:** La meta del tratamiento del TEPT no es eliminar el recuerdo del evento traumatico sino integrarlo: que pueda ocupar su lugar en la narrativa autobiografica de la persona como algo que ocurrio en el pasado, que fue difícil y que dejó su huella, pero que ya no tiene el poder de secuestrar el presente.
 
-La investigación de Richard Tedeschi y Lawrence Calhoun sobre el crecimiento postraumatico muestra que muchas personas, después de procesar el trauma, reportan cambios positivos que no habrian ocurrido sin ese proceso: mayor aprecio por la vida, mayor conexión con otros, mayor sentido de fortaleza personal, y mayor profundidad espiritual o existencial. Este crecimiento no borra el sufrimiento ni lo justifica retrospectivamente: ocurre en paralelo con el reconocimiento del dolor.
+La investigación de Richard Tedeschi y Lawrence Calhoun sobre el crecimiento postraumatico muestra que muchas personas, después de procesar el trauma, reportan cambios positivos que no habrían ocurrido sin ese proceso: mayor aprecio por la vida, mayor conexión con otros, mayor sentido de fortaleza personal, y mayor profundidad espiritual o existencial. Este crecimiento no borra el sufrimiento ni lo justifica retrospectivamente: ocurre en paralelo con el reconocimiento del dolor.
 
-**Ejercicio inmediato:** Si has completado o estas avanzado en el tratamiento del TEPT, reflexiona: que has aprendido sobre ti mismo a traves de este proceso que no habrias aprendido sin el? Que capacidades has desarrollado que no tenías antes? Esa reflexión no minimiza lo que costó el proceso sino que reconoce lo que el proceso produjó.
+**Ejercicio inmediato:** Si has completado o estas avanzado en el tratamiento del TEPT, reflexiona: ¿que has aprendido sobre ti mismo a traves de este proceso que no habrías aprendido sin el? ¿Que capacidades has desarrollado que no tenías antes? Esa reflexión no minimiza lo que costó el proceso sino que reconoce lo que el proceso produjó.
 
 La vida después del TEPT no es la misma que antes. A veces es más rica, más profunda, y más consciente. No porque el trauma valiera la pena. Sino porque la persona que lo proceso encontró en si misma recursos que no sabía que tenía.
 

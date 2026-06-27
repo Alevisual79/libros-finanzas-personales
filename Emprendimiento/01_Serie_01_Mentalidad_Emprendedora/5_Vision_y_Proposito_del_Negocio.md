@@ -29,7 +29,7 @@ La distinción que proponen es: el proposito (el por qué existe la empresa más
 
 **Ejercicio inmediato:** Para tu empresa o proyecto, escribe una versión inicial de los tres: tu proposito (para qué existe más allá del dinero), tu misión (que hace, para quien, y como), y tu visión (como será el mundo o tu empresa en cinco años si lo haces bien). No tiene que ser perfecta: es un borrador de trabajo. Comparar las tres te dirá si son coherentes entre si y si el proposito que has articulado produce genuina motivación cuando lo lees o solo suena bien.
 
-El negocio sin proposito es un mecanismo de generación de ingresos. El que tiene proposito es una causa con un modeló de negocio.
+El negocio sin proposito es un mecanismo de generación de ingresos. El que tiene proposito es una causa con un modelo de negocio.
 
 ---
 
@@ -81,9 +81,9 @@ Marcos ha aprendido que el proposito no es decorativo. Informa activamente las d
 
 **El Principio del Proposito como Marco de Decisiones Estrategicas que Facilita el No a Oportunidades que Parecen Atractivas pero que No Sirven al Por Que del Negocio:** Michael Porter propone que la estrategia es tanto lo que decides no hacer cómo lo que decides hacer: la coherencia estratégica requiere sacrificar oportunidades que parecen buenas pero que dispersan los recursos hacía áreas que no refuerzan la propuesta de valor central.
 
-Steve Jobs, cuando volvio a Apple en 1997, redujó la linea de productos de la empresa en un 70% aplicando un filtro simple: este producto sirve al por qué de Apple (empoderar la creatividad del individuo)? Si no, se elimina. Esa claridad de proposito permitio a Apple enfocarse en los productos que si cumplian el criterio y producir lo que se convertiria en el Imac, el Ipod, el Iphone, y el Ipad.
+Steve Jobs, cuando volvio a Apple en 1997, redujó la linea de productos de la empresa en un 70% aplicando un filtro simple: ¿este producto sirve al por qué de Apple (empoderar la creatividad del individuo)? Si no, se elimina. Esa claridad de proposito permitio a Apple enfocarse en los productos que si cumplian el criterio y producir lo que se convertiria en el Imac, el Ipod, el Iphone, y el Ipad.
 
-**Ejercicio inmediato:** Para las oportunidades de negocio que estas evaluando actualmente (nuevos servicios, nuevos mercados, nuevas asociaciones), aplica el filtro del proposito: esta oportunidad nos acerca al por qué del negocio o nos aleja de el? La oportunidad que nos aleja del por qué, aunque genere ingresos a corto plazo, puede debilitar la claridad de la propuesta de valor que hace al negocio unico.
+**Ejercicio inmediato:** Para las oportunidades de negocio que estas evaluando actualmente (nuevos servicios, nuevos mercados, nuevas asociaciones), aplica el filtro del proposito: ¿esta oportunidad nos acerca al por qué del negocio o nos aleja de el? La oportunidad que nos aleja del por qué, aunque genere ingresos a corto plazo, puede debilitar la claridad de la propuesta de valor que hace al negocio unico.
 
 La oportunidad que te aleja de tu por qué tiene el precio de quien eres como negocio.
 
@@ -97,7 +97,7 @@ Carlos ha intentado articular el proposito de su negocio y cada vez que lo hace 
 
 Bill Damon en La senda del bien propone que el proposito genuino tiene dos caracteristicas: importa genuinamente a la persona (produce energía y motivación intrinsecos) y produce algo de valor para el mundo más allá de los beneficios del propio individuo. El proposito que no cumple las dos condiciones es o motivación personal sin impacto externo o altruismo sin combustible interno.
 
-**Ejercicio inmediato:** Para descubrir el proposito autentico de tu negocio, escribe las respuestas a las siguientes preguntas: que problema en el mundo te molesta genuinamente y que tu negocio podría resolver? Cual es la historia del momento en que sentiste mayor orgullo de lo que hace tu empresa? Que dirian tus mejores clientes que has cambiado en su vida o negocio? Los temas comunes que emergen de esas tres respuestas son los componentes del proposito que esta buscando.
+**Ejercicio inmediato:** Para descubrir el proposito autentico de tu negocio, escribe las respuestas a las siguientes preguntas: ¿que problema en el mundo te molesta genuinamente y que tu negocio podría resolver? ¿Cual es la historia del momento en que sentiste mayor orgullo de lo que hace tu empresa? Que dirian tus mejores clientes que has cambiado en su vida o negocio? Los temas comunes que emergen de esas tres respuestas son los componentes del proposito que esta buscando.
 
 El proposito que suena bien pero no lo sientes cuando lo dices no es el tuyo. El que te produce algo en el pecho cuando lo piensas si lo es.
 
@@ -111,7 +111,7 @@ Lucia ha aprendido a mirar al largo plazo aunque su empresa todavia sea nueva.
 
 La investigación de James March sobre la exploración y la explotación en las organizaciones muestra que las empresas que solo explotan (optimizan lo que ya funciona) son vulnerables a la disrupción; las que solo exploran (buscan continuamente nuevas posibilidades) no generan suficiente ingreso para sobrevivir. El equilibrio entre explotar y explorar, con una visión de largo plazo que guia que explorar, es la formula de la longevidad organizacional.
 
-**Ejercicio inmediato:** Diseña tu visión de empresa a diez años en tres preguntas: como es el mundo (o tu mercado) en diez años si tu empresa ha hecho bien su trabajo? Como es tu empresa en diez años (tamaño, alcance, cultura, modeló de negocio)? Que tipo de persona has tenido que convertirte para dirigir esa empresa? Las respuestas no tienen que ser precisas: son el horizonte que orienta las decisiones estratégicas del año que viene.
+**Ejercicio inmediato:** Diseña tu visión de empresa a diez años en tres preguntas: ¿como es el mundo (o tu mercado) en diez años si tu empresa ha hecho bien su trabajo? ¿Como es tu empresa en diez años (tamaño, alcance, cultura, modeló de negocio)? Que tipo de persona has tenido que convertirte para dirigir esa empresa? Las respuestas no tienen que ser precisas: son el horizonte que orienta las decisiones estratégicas del año que viene.
 
 El negocio pequeño que piensa en grande crece diferente del que piensa en pequeño. No porque tenga más recursos sino porque toma decisiones diferentes.
 
@@ -125,7 +125,7 @@ Marcos ha tenido que aprender a comunicar su visión de tal forma que sus emplea
 
 La investigación de Priya Parker sobre la facilitación de grupos muestra que las visiones se comparten mejor a traves de historias que a traves de declaraciones abstractas: la historia de un cliente cuya vida cambio gracias al producto de la empresa comunica la visión de una forma que las declaraciones de misión no pueden igualar.
 
-**Ejercicio inmediato:** Articula la visión de tu empresa a traves de una historia específica: quien es la persona específica cuya vida o negocio sería diferente en diez años si tu empresa hubiera hecho bien su trabajo? Que sería diferente en su vida? Esa historia específica (no la declaración abstracta de la visión) es lo que hace que los demás puedan ver y creer en lo que todavia no existe.
+**Ejercicio inmediato:** Articula la visión de tu empresa a traves de una historia específica: ¿quien es la persona específica cuya vida o negocio sería diferente en diez años si tu empresa hubiera hecho bien su trabajo? ¿Que sería diferente en su vida? Esa historia específica (no la declaración abstracta de la visión) es lo que hace que los demás puedan ver y creer en lo que todavia no existe.
 
 La visión que no puede contarse como historia no puede inspirar como visión. Las historias mueven a la gente. Las declaraciones no.
 
@@ -137,9 +137,9 @@ Carlos ha vivido un momento en que la visión inicial de su negocio ya no se sos
 
 **El Principio de la Distinción entre Pivotar la Estrategia (Necesario) y Abandonar el Proposito (Costos) como Clave para Navegar los Cambios de Dirección sin Perder la Identidad:** Simon Sinek propone que las empresas que perduran cambian el como (las estrategias y los modelos de negocio) y el que (los productos y servicios específicos) pero no el por qué (el proposito fundamental). Un pivot estratégico es la busqueda de un camino diferente hacía el mismo destino; el abandono del proposito es cambiar el destino cuando el camino es difícil.
 
-La investigación de Eric Ries sobre los pivots en startups muestra que los pivots más exitosos son los que cambian el modeló o el mercado mientras mantienen el aprendizaje acumulado sobre el cliente y el problema, en lugar de empezar desde cero cada vez.
+La investigación de Eric Ries sobre los pivots en startups muestra que los pivots más exitosos son los que cambian el modelo o el mercado mientras mantienen el aprendizaje acumulado sobre el cliente y el problema, en lugar de empezar desde cero cada vez.
 
-**Ejercicio inmediato:** Para cualquier cambio de estrategia que estes considerando, reflexiona: este cambio mantiene o abandona el proposito original del negocio? Si mantiene el proposito pero cambia el camino para alcanzarlo, es un pivot inteligente. Si abandona el proposito para perseguir una oportunidad diferente, es un cambio de identidad que merece mayor deliberación.
+**Ejercicio inmediato:** Para cualquier cambio de estrategia que estes considerando, reflexiona: ¿este cambio mantiene o abandona el proposito original del negocio? Si mantiene el proposito pero cambia el camino para alcanzarlo, es un pivot inteligente. Si abandona el proposito para perseguir una oportunidad diferente, es un cambio de identidad que merece mayor deliberación.
 
 El pivot que cambia el camino y mantiene el destino es sabiduría. El que cambia el destino porque el camino es difícil es confusión.
 
@@ -161,7 +161,7 @@ El proposito que vive solo en el powerpoint esta muerto. El que vive en las deci
 
 ## Epílogo
 
-Lucia volvio a sus comienzos. Releyo el documento que había escrito cuando fundo la empresa, lleno de ideales y con muy poca claridad sobre el modeló de negocio. Tres años después, el modeló de negocio estaba mucho más claro pero el proposito había perdido la viveza que tenía en ese documento. Decidio dedicar dos horas a escribirlo de nuevo, con la experiencia de tres años pero con la honestidad de los comienzos. El resultado era más sobrio y más específico que la primera versión, pero igualmente real. Y cuando lo leyo a su equipo en la siguiente reunión de estrategia, algo cambia en la sala: no en los números ni en el modeló de negocio, sino en la forma en que todos recordaron por qué estaban ahí.
+Lucia volvio a sus comienzos. Releyo el documento que había escrito cuando fundo la empresa, lleno de ideales y con muy poca claridad sobre el modelo de negocio. Tres años después, el modelo de negocio estaba mucho más claro pero el proposito había perdido la viveza que tenía en ese documento. Decidio dedicar dos horas a escribirlo de nuevo, con la experiencia de tres años pero con la honestidad de los comienzos. El resultado era más sobrio y más específico que la primera versión, pero igualmente real. Y cuando lo leyo a su equipo en la siguiente reunión de estrategia, algo cambia en la sala: no en los números ni en el modelo de negocio, sino en la forma en que todos recordaron por qué estaban ahí.
 
 ---
 

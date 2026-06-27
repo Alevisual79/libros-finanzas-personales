@@ -69,7 +69,7 @@ Marcos ha tenido que experimentar con varios formatos para descubrir cual es el 
 
 La investigación de Neil Patel sobre el comportamiento de consumo de contenido muestra que el video es el formato de mayor crecimiento en consumo (YouTube es el segundo motor de busqueda del mundo), que el podcast tiene la audiencia más fidelizada y comprometida, y que el blog/SEO produce el trafico más sostenible a largo plazo.
 
-**Ejercicio inmediato:** Para elegir tu formato de contenido principal, responde tres preguntas: donde busca información sobre el problema que tu negocio resuelve tu cliente ideal (Google, YouTube, podcasts, LinkedIn)? Que formato de contenido disfrutas creando y podrías mantener con regularidad (si odias escribir, el blog será un suplicio; si te sientes bien hablando, el podcast o el video puede ser mejor)? Cual de los formatos alcanza de forma más natural a tu audiencia específica? La intersección de las tres respuestas es el formato de partida.
+**Ejercicio inmediato:** Para elegir tu formato de contenido principal, responde tres preguntas: ¿donde busca información sobre el problema que tu negocio resuelve tu cliente ideal (Google, YouTube, podcasts, LinkedIn)? ¿Que formato de contenido disfrutas creando y podrías mantener con regularidad (si odias escribir, el blog será un suplicio; si te sientes bien hablando, el podcast o el video puede ser mejor)? Cual de los formatos alcanza de forma más natural a tu audiencia específica? La intersección de las tres respuestas es el formato de partida.
 
 El mejor formato de contenido es el que puedes crear con calidad de forma consistente durante un año.
 
@@ -97,7 +97,7 @@ Lucia ha integrado el SEO en su estrategia de contenido y empieza a ver resultad
 
 La investigación de Moz sobre los factores de posicionamiento en Google muestra que los principales factores son la calidad del contenido (coherente con la intención de busqueda del usuario), la autoridad del dominio (cuantos sitios de calidad linkan al contenido), y la experiencia del usuario en la página (tiempo de permanencia, tasa de rebote). De los tres, el más accesible para el emprendedor sin presupuesto es la calidad del contenido.
 
-**Ejercicio inmediato:** Para tu articulo de contenido más importante, busca en Google la pregunta que ese articulo responde y observa los diez primeros resultados: cuanto de completo es cada uno, que información adicional podrías añadir, que preguntas secundarias podrías responder que ellos no responden? Reescribe o expande tu articulo para que sea genuinamente más útil que cualquiera de los diez primeros resultados. Eso, repetido sistemáticamente, es la estrategia de SEO accesible para el emprendedor sin equipo especializado.
+**Ejercicio inmediato:** Para tu articulo de contenido más importante, busca en Google la pregunta que ese articulo responde y observa los diez primeros resultados: ¿cuanto de completo es cada uno, que información adicional podrías añadir, que preguntas secundarias podrías responder que ellos no responden? Reescribe o expande tu articulo para que sea genuinamente más útil que cualquiera de los diez primeros resultados. Eso, repetido sistemáticamente, es la estrategia de SEO accesible para el emprendedor sin equipo especializado.
 
 El articulo que es genuinamente el más útil de la primera página de Google no necesita trucos de SEO. El SEO viene solo.
 

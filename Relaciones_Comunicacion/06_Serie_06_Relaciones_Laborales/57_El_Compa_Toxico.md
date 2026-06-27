@@ -61,7 +61,7 @@ La queja cronica, sin propuesta de solución ni acción correctiva, drena la ene
 
 **El Principio de la Redirección hacía la Acción:** Gestionar a un quejica cronico efectivamente requiere redirigir consistentemente la conversación desde la queja hacía la acción posible: que propones específicamente para mejorar esta situación, en lugar de simplemente validar repetidamente la queja sin avanzar hacía ninguna solución. Esta redirección, aplicada consistentemente, frecuentemente reduce la frecuencia de quejas sin propuesta porque elimina la recompensa social que la queja sin solución estaba recibiendo.
 
-**Ejercicio inmediato:** La próxima vez que alguien presente una queja cronica sin propuesta de solución, pregunta directamente: que crees que podriamos hacer al respecto? Observa como esta pregunta cambia la dinámica de la conversación.
+**Ejercicio inmediato:** La próxima vez que alguien presente una queja cronica sin propuesta de solución, pregunta directamente: ¿que crees que podriamos hacer al respecto? Observa como esta pregunta cambia la dinámica de la conversación.
 
 Validar repetidamente una queja sin solución no ayuda a quien se queja. Solo refuerza el patron de quejarse sin actuar.
 

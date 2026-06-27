@@ -31,7 +31,7 @@ Helen Fisher, biologa evolucionista de la Universidad Rutgers, paso décadas est
 
 Esta arquitectura neurologica tiene sentido evolutivo: garantiza que los humanos se mantengan motivados para buscar y retener una pareja reproductiva. Pero no esta diseñada para durar indefinidamente.
 
-**Ejercicio inmediato:** Reflexiona sobre tu último enamoramiento intenso. Cuales de los sintomas neurologicos reconoces: la obsesión con la persona, la energía exaltada, la sensación de que el tiempo pasa diferente cuando estan juntos? Reconocer estos sintomas como biologicos no los hace menos reales. Los hace más manejables.
+**Ejercicio inmediato:** Reflexiona sobre tu último enamoramiento intenso. Cuales de los sintomas neurologicos reconoces: ¿la obsesión con la persona, la energía exaltada, la sensación de que el tiempo pasa diferente cuando estan juntos? Reconocer estos sintomas como biologicos no los hace menos reales. Los hace más manejables.
 
 El enamoramiento no es un estado de claridad. Es un estado de intoxicación que se siente como claridad.
 
@@ -59,7 +59,7 @@ La idealización en el enamoramiento no es solo ver lo bueno del otro. Es tambi�
 
 El momento en que la idealización empieza a desmoronarse, que ocurre inevitablemente, puede sentirse como decepción o como traición. En realidad es la llegada a la realidad: el momento en que se empieza a ver a la persona real, no a la proyección.
 
-**Ejercicio inmediato:** Identifica dos o tres cualidades que proyectaste en una pareja pasada que luego resultaron ser más pequeñas, diferentes o directamente inexistentes de lo que habías imaginado. Que te dice eso sobre lo que necesitabas en ese momento? La proyección siempre habla más de uno mismo que de la persona en quien se proyecta.
+**Ejercicio inmediato:** Identifica dos o tres cualidades que proyectaste en una pareja pasada que luego resultaron ser más pequeñas, diferentes o directamente inexistentes de lo que habías imaginado. ¿Que te dice eso sobre lo que necesitabas en ese momento? La proyección siempre habla más de uno mismo que de la persona en quien se proyecta.
 
 Lo que proyectas en el otro es un mapa de lo que necesitas, no una descripción de quien es el.
 
@@ -85,7 +85,7 @@ El enamoramiento es el trailer. La relación es la pelicula. Y como todos los tr
 
 **El Principio de la Relación Post-Enamoramiento:** Cuando la euforia inicial decrece, lo que queda visible es la realidad de la relación: la calidad de la comunicación, la forma de gestionar el conflicto, la compatibilidad de los estilos de vida, la capacidad de estar juntos sin el estímulo constante de la novedad. Para muchas parejas, este es el momento en que descubren que la base era más delgada de lo que parecia desde el enamoramiento. Para otras, es el momento en que descubren que la relación tiene algo real y duradero.
 
-**Ejercicio inmediato:** Si llevas más de un año con tu pareja actual, reflexiona sobre como ha cambiado la relación desde los primeros meses. Que ha mejorado? Que problemas han aparecido que no eran visibles al principio? La evaluación honesta de esa diferencia es la evaluación de la base real de la relación.
+**Ejercicio inmediato:** Si llevas más de un año con tu pareja actual, reflexiona sobre como ha cambiado la relación desde los primeros meses. ¿Que ha mejorado? ¿Que problemas han aparecido que no eran visibles al principio? La evaluación honesta de esa diferencia es la evaluación de la base real de la relación.
 
 El enamoramiento te dice si quieres empezar la relación. La relación te dice si quieres continuarla.
 
@@ -99,7 +99,7 @@ Hay personas que confunden el enamoramiento intenso con el amor. Y hay personas 
 
 La dependencia en el enamoramiento tiene sus raices en el estilo de apego: las personas con apego ansioso son más vulnerables a confundir la hiperactivación del sistema de apego con el amor. La personas con apego seguro tienden a amar con más calma porque no necesitan al otro para regular su estado emocional.
 
-**Ejercicio inmediato:** Cuando piensas en la persona que te gusta, que es lo que sientes? Expansión (te sientes bien en tu propia vida cuando piensas en el o ella) o contracción (sientes ansiedad sobre si te quiere, si seguirá, si eres suficiente)? La distinción es información sobre si lo que hay es amor en desarrollo o dependencia en acción.
+**Ejercicio inmediato:** Cuando piensas en la persona que te gusta, que es lo que sientes? ¿Expansión (te sientes bien en tu propia vida cuando piensas en el o ella) o contracción (sientes ansiedad sobre si te quiere, si seguirá, si eres suficiente)? La distinción es información sobre si lo que hay es amor en desarrollo o dependencia en acción.
 
 El amor te hace sentir más tuyo. La dependencia te hace sentir que sin el otro no eres completo.
 
@@ -139,7 +139,7 @@ Algunas señales de alarma son más difíciles de ver durante el enamoramiento p
 
 Con el tiempo, la tolerancia inflada por el enamoramiento decrece y lo que quedaba oculto se hace visible. A veces lo que queda visible es perfectamente manejable. A veces es lo que debería haber interrumpido la relación al principio.
 
-**Ejercicio inmediato:** En tu relación actual o en la más reciente, identifica una conducta de la otra persona que has minimizado o racionalizado. Ponla en texto neutral, sin la carga emocional del enamoramiento: esa persona hace X con frecuencia Y. Si un amigo te dijera eso sobre su pareja, que le dirias?
+**Ejercicio inmediato:** En tu relación actual o en la más reciente, identifica una conducta de la otra persona que has minimizado o racionalizado. Ponla en texto neutral, sin la carga emocional del enamoramiento: ¿esa persona hace X con frecuencia Y. Si un amigo te dijera eso sobre su pareja, que le dirias?
 
 Lo que racionalizas durante el enamoramiento, lo gestionas durante la relación.
 
@@ -153,7 +153,7 @@ El amor maduro no es menos que el enamoramiento. Es diferente. Es la elección d
 
 Gottman describe este proceso cómo la construcción del mapa del amor: el conocimiento detallado y actualizado del mundo interior del otro, sus sueños, sus miedos, sus necesidades, sus valores. Ese mapa no existe al principio. Se construye con el tiempo y con la atención.
 
-**Ejercicio inmediato:** Si llevas suficiente tiempo en una relación como para que el enamoramiento inicial haya dado paso a algo diferente, reflexiona: que ha construido vuestra relación en este período? Amistad? Respeto? Un sistema de comunicación que funciona? Lo que has construido es la base real de la relación.
+**Ejercicio inmediato:** Si llevas suficiente tiempo en una relación como para que el enamoramiento inicial haya dado paso a algo diferente, reflexiona: ¿que ha construido vuestra relación en este período? ¿Amistad? Respeto? ¿Un sistema de comunicación que funciona? Lo que has construido es la base real de la relación.
 
 El enamoramiento es lo que te lleva a alguien. El amor maduro es lo que construyes con esa persona.
 

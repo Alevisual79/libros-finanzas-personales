@@ -150,7 +150,7 @@ Los antecedentes familiares de enfermedad cardiovascular, diabetes tipo 2, ciert
 El tabaco, el alcohol, el sedentarismo, la obesidad, la hipertensión, la hiperglucemia, el colesterol alto, el estrés crónico. Cada uno de estos es un objetivo concreto de acción preventiva.
 
 **La estratificación del riesgo:**
-Herramientas como SCORE2 (riesgo cardiovascular), el Findrisk (diabetes) o el modeló de predicción de riesgo de Alzheimer permiten cuantificar el riesgo personal y priorizar las intervenciones.
+Herramientas como SCORE2 (riesgo cardiovascular), el Findrisk (diabetes) o el modelo de predicción de riesgo de Alzheimer permiten cuantificar el riesgo personal y priorizar las intervenciones.
 
 ---
 

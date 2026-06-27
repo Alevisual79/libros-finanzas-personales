@@ -51,7 +51,7 @@ La IA está cambiando esta ecuación de forma radical. Un no analista con acceso
 
 ## Capítulo 3: Herramientas para análisis de datos con IA
 
-**ChatGPT con Code Interpreter (Advanced Data Analysis):** Puedes cargar archivos CSV, Excel o similares y hacer preguntas en lenguaje natural. El modeló ejecuta código Python real para analizar los datos y devuelve los resultados. Una de las herramientas más potentes y accesibles.
+**ChatGPT con Code Interpreter (Advanced Data Analysis):** Puedes cargar archivos CSV, Excel o similares y hacer preguntas en lenguaje natural. El modelo ejecuta código Python real para analizar los datos y devuelve los resultados. Una de las herramientas más potentes y accesibles.
 
 **Claude con archivos adjuntos:** Puede analizar datos tabulares cargados directamente en la conversación y generar código de análisis.
 
@@ -112,7 +112,7 @@ Ninguno de estos hallazgos sorprendió a Isabel completamente. Pero ahora tenía
 
 Rubén tenía tres años de datos de sus proyectos: cliente, sector, tipo de proyecto, valor del contrató, tiempo de cierre, tasa de éxito en propuestas.
 
-Preguntas que hizo al modeló:
+Preguntas que hizo al modelo:
 
 "¿Qué tipo de proyectos tienen la tasa de éxito más alta en mis propuestas?"
 → Los proyectos de estrategia de contenido para el sector tecnológico tienen una tasa de éxito del 73%, vs. 41% de media general.

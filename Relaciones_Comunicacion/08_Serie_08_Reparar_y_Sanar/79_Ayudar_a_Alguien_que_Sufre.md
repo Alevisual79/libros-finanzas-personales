@@ -25,7 +25,7 @@ Una de las distinciones más importantes para ayudar efectivamente a alguien que
 
 **El Principio de la Limitación de la Solución Externa:** Gran parte del sufrimiento humano significativo (duelo, decisiones difíciles de vida, procesos de crecimiento personal) no se resuelve con la intervención de un consejo externo, sino que requiere que la persona transite su propio proceso, con el apoyo de presencia y validación, más que con soluciones impuestas desde fuera, que frecuentemente generan resistencia en lugar de alivio.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propia tendencia al ayudar a otros: te inclinas automáticamente hacía ofrecer soluciones, o tienes la capacidad de simplemente acompañar sin necesidad de resolver?
+**Ejercicio inmediato:** Reflexiona sobre tu propia tendencia al ayudar a otros: ¿te inclinas automáticamente hacía ofrecer soluciones, o tienes la capacidad de simplemente acompañar sin necesidad de resolver?
 
 Mucho del sufrimiento que ves en otros no esta esperando tu solución. Esta esperando tu presencia mientras lo atraviesan a su propio ritmo.
 

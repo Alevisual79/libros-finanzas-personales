@@ -41,7 +41,7 @@ Isabel se pregunta por qué tiene las creencias que tiene sobre si misma. Entend
 
 Jeffrey Young, creador de la terapia de esquemas, propone que los esquemas disfuncionales tempranos (que incluyen creencias profundas sobre el yo y el mundo) se forman como respuesta a necesidades no cubiertas en la infancia y persisten en la adultez porque el sistema cognitivo los confirma activamente: se busca evidencia que los apoya y se ignora la evidencia que los contradice.
 
-**Ejercicio inmediato:** Para una creencia limitante que has identificado, rastrea su origen: cuando fue la primera vez que recuerdas haberla creido? Que experiencia o mensaje la instalo? Reconocer que la creencia fue aprendida en un contexto específico (no descubierta como verdad universal) es el inició de cuestionarla.
+**Ejercicio inmediato:** Para una creencia limitante que has identificado, rastrea su origen: ¿cuando fue la primera vez que recuerdas haberla creido? ¿Que experiencia o mensaje la instalo? Reconocer que la creencia fue aprendida en un contexto específico (no descubierta como verdad universal) es el inició de cuestionarla.
 
 La creencia que se instalo cuando tenías ocho años no tiene por qué ser verdad cuando tienes cuarenta.
 
@@ -53,9 +53,9 @@ Ruben tiene una colección de creencias limitantes que no reconoceria como tales
 
 **El Principio de las Categorias de Creencias Limitantes como Territorio Comun:** La investigación clinica de Aaron Beck, Albert Ellis, y Jeffrey Young permite identificar categorías comunes de creencias limitantes: las creencias de inmerecimiento (no merezco amor, éxito, o bienestar), las creencias de incapacidad (no soy capaz de X, no tengo lo necesario para Y), las creencias de peligro (el mundo es peligroso, las personas son poco fiables), las creencias de responsabilidad excesiva (soy responsable del bienestar de todos), y las creencias de impotencia (nada de lo que haga marcara diferencia).
 
-Martin Seligman propone que muchas creencias limitantes contienen los tres elementos de su modeló de impotencia aprendida reformulado: permanencia (esto será siempre asi), pervasividad (esto afecta a todo lo que hago), y personalización (esto ocurre porque hay algo mal en mi).
+Martin Seligman propone que muchas creencias limitantes contienen los tres elementos de su modelo de impotencia aprendida reformulado: permanencia (esto será siempre asi), pervasividad (esto afecta a todo lo que hago), y personalización (esto ocurre porque hay algo mal en mi).
 
-**Ejercicio inmediato:** Revisa la lista de categorías y reflexiona: cual es la que más reconoces en tu propia experiencia? Para esa categoría, formula dos o tres ejemplos específicos de cómo se manifiesta en tu vida. La especificidad transforma la categoría abstracta en algo concreto y examinable.
+**Ejercicio inmediato:** Revisa la lista de categorías y reflexiona: ¿cual es la que más reconoces en tu propia experiencia? Para esa categoría, formula dos o tres ejemplos específicos de cómo se manifiesta en tu vida. La especificidad transforma la categoría abstracta en algo concreto y examinable.
 
 Las creencias limitantes más poderosas son las que no se ven como creencias. Se ven como verdades sobre quien eres. Esa ilusión se deshace cuando se examina.
 
@@ -81,9 +81,9 @@ Ruben tiene pensamientos automáticos negativos pero no llega a la creencia más
 
 **El Principio de los Niveles del Pensamiento como Mapa para el Cambio:** Aaron Beck propone que el pensamiento funciona en tres niveles: los pensamientos automáticos (los primeros que aparecen en respuesta a una situación), las creencias intermedias (reglas y suposiciones sobre como debe funcionar el mundo), y las creencias nucleares (las creencias más profundas sobre el yo, los otros, y el mundo). Para producir cambio duradero, hay que llegar a las creencias nucleares.
 
-La técnica de la flecha descendente consiste en tomar un pensamiento automático negativo y preguntarse repetidamente: y si eso fuera verdad, que significaria eso sobre mi? La cadena de respuestas conduce desde el pensamiento automático hasta la creencia nuclear que lo genera.
+La técnica de la flecha descendente consiste en tomar un pensamiento automático negativo y preguntarse repetidamente: ¿y si eso fuera verdad, que significaria eso sobre mi? La cadena de respuestas conduce desde el pensamiento automático hasta la creencia nuclear que lo genera.
 
-**Ejercicio inmediato:** Toma un pensamiento automático negativo recurrente (algo que piensas regularmente sobre ti mismo). Aplica la flecha descendente: escribe el pensamiento, luego pregunta y si fuera verdad, que significaria eso sobre mi? Escribe la respuesta. Repite la pregunta con la respuesta. Repite cuatro o cinco veces. La última respuesta será probablemente la creencia nuclear.
+**Ejercicio inmediato:** Toma un pensamiento automático negativo recurrente (algo que piensas regularmente sobre ti mismo). Aplica la flecha descendente: ¿escribe el pensamiento, luego pregunta y si fuera verdad, que significaria eso sobre mi? Escribe la respuesta. Repite la pregunta con la respuesta. Repite cuatro o cinco veces. La última respuesta será probablemente la creencia nuclear.
 
 Atacar el pensamiento automático sin llegar a la creencia nuclear es limpiar los sintomas sin tratar la causa.
 
@@ -93,7 +93,7 @@ Atacar el pensamiento automático sin llegar a la creencia nuclear es limpiar lo
 
 Isabel ha identificado sus creencias limitantes pero no sabe como cambiarlas. El cambio cognitivo requiere estrategias específicas.
 
-**El Principio del Cambio de Creencias como Proceso Gradual:** La investigación cognitiva muestra que las creencias nucleares no cambian por decisión ni por comprensión intelectual sola: requieren experiencias que proporcionen evidencia contraria suficiente para que el sistema cognitivo actualice su modeló. Este proceso es gradual y requiere trabajo deliberado.
+**El Principio del Cambio de Creencias como Proceso Gradual:** La investigación cognitiva muestra que las creencias nucleares no cambian por decisión ni por comprensión intelectual sola: requieren experiencias que proporcionen evidencia contraria suficiente para que el sistema cognitivo actualice su modelo. Este proceso es gradual y requiere trabajo deliberado.
 
 Las estrategias más efectivas incluyen: el experimento conductual (diseñar comportamientos que produzcan experiencias que contradicen la creencia), la reestructuración cognitiva (sustituir la creencia limitante por una alternativa más equilibrada apoyada en la evidencia), el registro de datos (sistemáticamente documentar los eventos que contradicen la creencia para contrarrestar el sesgo confirmatorio), y el trabajo terapeutico con enfoques basados en la evidencia (TCC, terapia de esquemas).
 
@@ -125,7 +125,7 @@ Elena tiene creencias limitantes diferentes en su carrera, en sus relaciones, y 
 
 Carol Dweck ha investigado la especificidad de las creencias sobre la inteligencia y las habilidades: las personas pueden tener un mindset fijo (las capacidades son innatas y no cambian) en algunos dominios y un mindset de crecimiento (las capacidades se desarrollan) en otros. La especificidad implica que el trabajo de cambio puede focalizarse en los dominios más limitantes.
 
-**Ejercicio inmediato:** Mapea tus creencias limitantes por dominio: carrera/profesión, relaciones, salud/bienestar, familia, dinero, creatividad. En que dominio la creencia limitante tiene mayor impacto sobre tu vida actual? Esa es la prioridad para el trabajo de cambio.
+**Ejercicio inmediato:** Mapea tus creencias limitantes por dominio: ¿carrera/profesión, relaciones, salud/bienestar, familia, dinero, creatividad. En que dominio la creencia limitante tiene mayor impacto sobre tu vida actual? Esa es la prioridad para el trabajo de cambio.
 
 Las creencias limitantes no atacan todos los frentes con la misma intensidad. El trabajo de mayor impacto esta donde la limitación es más costosa.
 
@@ -139,7 +139,7 @@ Isabel ha empezado a notar que algunas de sus creencias limitantes no son solo p
 
 Claude Steele investigó la amenaza del estereotipo: la activación de los estereotipos negativos sobre el grupo de pertenencia en contextos de evaluación produce deterioro del rendimiento. Este mecanismo muestra como las creencias limitantes colectivas pueden producir exactamente los resultados que predicen.
 
-**Ejercicio inmediato:** Reflexiona sobre las creencias sobre lo que es posible para personas como tu que heredaste de tu familia o cultura de origen. Cuales son las que más reconoces todavia como activas en tu mente? Identificar su origen colectivo no las cancela automáticamente pero si reduce la sensación de que son verdades personales inevitables.
+**Ejercicio inmediato:** Reflexiona sobre las creencias sobre lo que es posible para personas como tu que heredaste de tu familia o cultura de origen. ¿Cuales son las que más reconoces todavia como activas en tu mente? Identificar su origen colectivo no las cancela automáticamente pero si reduce la sensación de que son verdades personales inevitables.
 
 La creencia de que personas como tu no pueden llegar a ciertos lugares no es un hecho sobre la realidad. Es una historia que tu grupo aprendió a creer. Y las historias se pueden cambiar.
 

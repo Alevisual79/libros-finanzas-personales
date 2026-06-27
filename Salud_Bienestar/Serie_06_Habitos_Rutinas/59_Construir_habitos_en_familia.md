@@ -163,7 +163,7 @@ Si los hábitos de salud son un punto de fricción importante en la pareja, pued
 Carmen tiene 58 años. Sus hijos son adultos. Sus hábitos de salud son los que son. Llevan décadas formados.
 
 Lo que puede hacer:
-- Ser el modeló para sus nietos (los hábitos de los abuelos influyen en los nietos)
+- Ser el modelo para sus nietos (los hábitos de los abuelos influyen en los nietos)
 - Crear contextos saludables cuando los nietos vienen a casa
 - Compartir su proceso de cambio con sus hijos sin imponerlo
 - Cuidar su propia salud como prioridad, sin esperar que la familia cambie a la vez

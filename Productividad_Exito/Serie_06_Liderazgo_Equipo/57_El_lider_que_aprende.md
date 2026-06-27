@@ -173,7 +173,7 @@ El nivel de humildad intelectual colectiva de un equipo es generalmente el refle
 
 Rubén descubrió algo incómodo en el segundo año de su negocio freelance: había dejado de aprender tan rápido como en el primero.
 
-Había encontrado un modeló de trabajo que funcionaba y lo había automatizado. El problema: el mercado evolucionaba y él no.
+Había encontrado un modelo de trabajo que funcionaba y lo había automatizado. El problema: el mercado evolucionaba y él no.
 
 Empezó a hacer tres cosas:
 1. Reunión mensual con un cliente diferente al suyo habitual, fuera de su zona de expertise, solo para escuchar cómo pensaban sobre su negocio.

@@ -27,7 +27,7 @@ La impulsividad no es solo actuar rápido. Tiene una estructura específica.
 
 La investigación de Sarah Whittle y colegas sobre los correlatos neurologicos de la impulsividad muestra que la impulsividad alta se asocia con mayor activación de la amigdala y menor activación del cortex prefrontal ventrolateral (el sistema de inhibición de respuesta), especialmente en estados de alta activación emocional.
 
-**Ejercicio inmediato:** Identifica tus dos o tres situaciones más frecuentes de comportamiento impulsivo. Para cada una, reflexiona: es principalmente impulsividad de recompensa (el impulso te lleva hacía algo que quieres) o de amenaza (el impulso te lleva lejos de algo que amenaza)? La distinción importa porque las estrategias difieren.
+**Ejercicio inmediato:** Identifica tus dos o tres situaciones más frecuentes de comportamiento impulsivo. Para cada una, reflexiona: ¿es principalmente impulsividad de recompensa (el impulso te lleva hacía algo que quieres) o de amenaza (el impulso te lleva lejos de algo que amenaza)? La distinción importa porque las estrategias difieren.
 
 El comportamiento impulsivo que no comprendes solo puedes lamentarlo. El que entiendes puedes anticiparlo.
 
@@ -49,7 +49,7 @@ La impulsividad es el cerebro actuando antes de que la parte pensante llegue. Da
 
 ## Capítulo 3: La impulsividad en el TDAH: cuando es un rasgo clínico
 
-Isabel trabaja con ninos con TDAH y ve la impulsividad cómo un patron clínico, no solo como falta de voluntad.
+Isabel trabaja con niños con TDAH y ve la impulsividad cómo un patron clínico, no solo como falta de voluntad.
 
 **El Principio del TDAH como Condición Neurologica que Amplifica la Impulsividad de Forma Significativa:** El trastorno por deficit de atención e hiperactividad incluye la impulsividad como uno de sus tres sintomas centrales. La investigación de Russell Barkley muestra que el TDAH no es un problema de no saber lo que se debería hacer sino de no poder seguir de forma consistente las reglas de comportamiento que se conocen, especialmente bajo condiciones de baja estimulación o alta activación emocional.
 
@@ -69,7 +69,7 @@ Ruben es mucho más impulsivo cuando esta cansado, hambriento, o frustrado. No e
 
 La investigación de Matthew Walker sobre el sueño muestra que la privación de sueño aumenta la reactividad de la amigdala hasta un 60% y reduce la actividad del cortex prefrontal. El cansancio no solo hace más difícil el autocontrol: hace que el Sistema 1 domine de forma más similar a cómo lo hace en personas con alta impulsividad.
 
-**Ejercicio inmediato:** La próxima vez que sientas el impulso de tomar una decisión importante o de actuar de forma que podría ser problematica, realiza un HALT: estas hambriento, angustiado, solo, o cansado? Si la respuesta es si a cualquiera, postpone la decisión hasta que ese estado cambie. Esa regla simple puede evitar un porcentaje significativo de los errores impulsivos.
+**Ejercicio inmediato:** La próxima vez que sientas el impulso de tomar una decisión importante o de actuar de forma que podría ser problematica, realiza un HALT: ¿estas hambriento, angustiado, solo, o cansado? Si la respuesta es si a cualquiera, postpone la decisión hasta que ese estado cambie. Esa regla simple puede evitar un porcentaje significativo de los errores impulsivos.
 
 No tomes ninguna decisión importante cuando tengas hambre, estres, soledad, o sueño. Tu cerebro en esos estados no es el cerebro que quieres tomando decisiones.
 
@@ -85,7 +85,7 @@ Richard Thaler y Cass Sunstein documentan las estrategias que las personas y las
 
 **Ejercicio inmediato:** Implementa la regla de las 24 horas para cualquier compra no esencial por encima de un umbral que determines. Cuando el impulso de comprar aparezca, pon el producto en la lista o en el carrito y espera 24 horas. Si al dia siguiente todavia lo quieres y tienes el dinero disponible, compralo. Este simple retraso elimina la mayoría de las compras impulsivas que se lamentan después.
 
-La compra que puedes hacer mañana también podias hacerla hoy. Si mañana ya no la quieres, el impulsivo era el que la compraba.
+La compra que puedes hacer mañana también podías hacerla hoy. Si mañana ya no la quieres, el impulsivo era el que la compraba.
 
 ---
 
@@ -111,7 +111,7 @@ Isabel como supervisora de recursos humanos ha visto como comportamientos impuls
 
 La investigación de Baumeister sobre el sistema de evasión del dolor vs. el sistema de aproximación al placer muestra que las personas en estado de activación de amenaza (miedo, rabia) tienen su sistema de evaluación de consecuencias significativamente reducido: la urgencia de eliminar la amenaza domina tanto el procesamiento que las consecuencias de la respuesta no son evaluadas correctamente.
 
-**Ejercicio inmediato:** Para las situaciones donde el comportamiento impulsivo ha tenido consecuencias graves, diseña un protocolo de emergencia personal: que haces cuando notas que estas en alta activación y en riesgo de actuar impulsivamente? Puede ser salir físicamente de la situación, llamar a alguien de confianza antes de actuar, o escribir lo que sientes antes de hacerlo verbalmente. El protocolo preparado en calma es más accesible en el calor del momento que la resolución de actuar con calma.
+**Ejercicio inmediato:** Para las situaciones donde el comportamiento impulsivo ha tenido consecuencias graves, diseña un protocolo de emergencia personal: ¿que haces cuando notas que estas en alta activación y en riesgo de actuar impulsivamente? Puede ser salir físicamente de la situación, llamar a alguien de confianza antes de actuar, o escribir lo que sientes antes de hacerlo verbalmente. El protocolo preparado en calma es más accesible en el calor del momento que la resolución de actuar con calma.
 
 El mayor poder que tienes sobre tu comportamiento impulsivo es el que ejerces antes de que el impulso llegue.
 
@@ -161,7 +161,7 @@ La pausa que prácticas cuando no la necesitas es la que tienes disponible cuand
 
 ## Epílogo
 
-Ruben instalo una extensión en el correo que retarda el envió de emails tres minutos. Tres minutos exactos. En ese tiempo puede leer el email enviado y retirarlo si lo considera necesario. En seis meses, ha retirado cuatro emails. Cuatro emails que, sabio como es en retrospectiva, habrian costado más de tres minutos de consecuencias. La tecnología hizo lo que la voluntad no podía garantizar: le dio el tiempo que la amigdala no podía darle. Y eso fue suficiente.
+Ruben instalo una extensión en el correo que retarda el envió de emails tres minutos. Tres minutos exactos. En ese tiempo puede leer el email enviado y retirarlo si lo considera necesario. En seis meses, ha retirado cuatro emails. Cuatro emails que, sabio como es en retrospectiva, habrían costado más de tres minutos de consecuencias. La tecnología hizo lo que la voluntad no podía garantizar: le dio el tiempo que la amigdala no podía darle. Y eso fue suficiente.
 
 ---
 

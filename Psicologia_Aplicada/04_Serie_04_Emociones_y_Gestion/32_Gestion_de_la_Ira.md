@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben tiene la teoria de que si aguanta suficiente, si nunca explota, si siempre es razonable, la ira no le causara problemas. Lo que no sabe es que la ira que no se expresa no desaparece: va acumulandose hasta que sale de la forma menos oportuna, o se queda dentro produciendo tensión muscular cronica, problemas cardiovasculares, y una irritabilidad de fondo que contamina su humor mucho más que una expresión directa y oportuna habria hecho. Suprimir la ira no es lo mismo que gestionarla. Y la diferencia importa más de lo que Ruben ha querido creer.
+Ruben tiene la teoria de que si aguanta suficiente, si nunca explota, si siempre es razonable, la ira no le causara problemas. Lo que no sabe es que la ira que no se expresa no desaparece: va acumulandose hasta que sale de la forma menos oportuna, o se queda dentro produciendo tensión muscular cronica, problemas cardiovasculares, y una irritabilidad de fondo que contamina su humor mucho más que una expresión directa y oportuna habría hecho. Suprimir la ira no es lo mismo que gestionarla. Y la diferencia importa más de lo que Ruben ha querido creer.
 
 ---
 
@@ -27,7 +27,7 @@ La ira tiene muy mala reputación. Se asocia con perdida de control, con daño a
 
 Dacher Keltner y sus colegas documentan que la ira no solo tiene función individual sino social: las personas que expresan ira apropiada en contextos de injusticia (no ira impulsiva sino ira dirigida a una causa) frecuentemente movilizan respuestas colectivas que reducen la injusticia. La ira que produce cambio social es una forma de ira bien gestionada.
 
-**Ejercicio inmediato:** La próxima vez que sientas ira, antes de suprimirla o expresarla impulsivamente, pregunta: que injusticia o que límite violado esta senalando esta ira? La respuesta identifica si la ira tiene información útil (hay una injusticia real que requiere respuesta) o si esta siendo sobreactivada por una percepción inexacta.
+**Ejercicio inmediato:** La próxima vez que sientas ira, antes de suprimirla o expresarla impulsivamente, pregunta: ¿que injusticia o que límite violado esta senalando esta ira? La respuesta identifica si la ira tiene información útil (hay una injusticia real que requiere respuesta) o si esta siendo sobreactivada por una percepción inexacta.
 
 La ira que te cuenta que algo esta mal es una emoción funcionando correctamente. El problema no es la ira. Es lo que haces con ella.
 
@@ -51,11 +51,11 @@ La interrupción del ciclo de ira no es rendición. Es la decisión de continuar
 
 Ruben supprime la ira porque cree que expresarla sería peor. Pero hay una tercera opción entre suprimir y explotar que es la que la investigación muestra como más funcional.
 
-**El Principio de la Regulación como Alternativa a la Supresión y a la Catarsis:** James Gross, psicologo de Stanford que ha desarrollado el modeló de proceso de la regulación emocional, documenta que la supresión emocional (inhibir la expresión emocional sin cambiar la experiencia interna) tiene costes significativos: aumenta la activación fisiologica, consume recursos cognitivos, deteriora la memoria de la conversación en curso, y en relaciones intimas, produce menor satisfacción y menor intimidad. El modeló hidraulico de la catarsis (desahogarse para liberar la ira acumulada), popularizado por el psicoanalisis, no recibe apoyo de la investigación: la expresión catartica de la ira frecuentemente la amplifica en lugar de reducirla.
+**El Principio de la Regulación como Alternativa a la Supresión y a la Catarsis:** James Gross, psicologo de Stanford que ha desarrollado el modelo de proceso de la regulación emocional, documenta que la supresión emocional (inhibir la expresión emocional sin cambiar la experiencia interna) tiene costes significativos: aumenta la activación fisiologica, consume recursos cognitivos, deteriora la memoria de la conversación en curso, y en relaciones intimas, produce menor satisfacción y menor intimidad. El modelo hidraulico de la catarsis (desahogarse para liberar la ira acumulada), popularizado por el psicoanalisis, no recibe apoyo de la investigación: la expresión catartica de la ira frecuentemente la amplifica en lugar de reducirla.
 
 La alternativa es la regulación: cambiar la respuesta emocional a traves de estrategias que modifican la evaluación de la situación (reevaluación cognitiva), la atención (desvinculación del estímulo provocador), o la respuesta fisiologica (respiración, relajación muscular).
 
-**Ejercicio inmediato:** Ante la ira, práctica la reevaluación cognitiva: sin negar la injusticia percibida, busca una perspectiva alternativa sobre la situación que reduzca la intensidad de la ira. Esto puede incluir considerar las intenciones del otro (es posible que no sea intencionado), el contexto (que factores podrían estar afectando su comportamiento), o la importancia relativa (en un año, esto importara tanto como ahora?). La reevaluación no resuelve el problema pero reduce la intensidad emocional a un nivel desde el que el problema puede abordarse más eficazmente.
+**Ejercicio inmediato:** Ante la ira, práctica la reevaluación cognitiva: ¿sin negar la injusticia percibida, busca una perspectiva alternativa sobre la situación que reduzca la intensidad de la ira. Esto puede incluir considerar las intenciones del otro (es posible que no sea intencionado), el contexto (que factores podrían estar afectando su comportamiento), o la importancia relativa (en un año, esto importara tanto como ahora?). La reevaluación no resuelve el problema pero reduce la intensidad emocional a un nivel desde el que el problema puede abordarse más eficazmente.
 
 No suprimas la ira. Regulala. Hay una diferencia, y esa diferencia mide el estado de tu sistema cardiovascular en veinte años.
 
@@ -143,7 +143,7 @@ a) la evaluación de la injusticia puede ser incorrecta o exagerada (lo que requ
 b) la forma en que la ira se expresa puede ser contraproducente incluso cuando la injusticia es real (lo que requiere regulación de la forma de expresión, no de la emoción en si), y (
 c) la ira puede cronificarse incluso cuando la injusticia ya no existe o ya no puede cambiarse (lo que requiere trabajo de procesamiento y aceptación).
 
-**Ejercicio inmediato:** Para tu ira más persistente en este momento, evalua: la injusticia que señala es real (o es exagerada por el umbral bajo por otras razones)? Si es real, la ira ha motivado alguna acción útil o solo ha producido sufrimiento sin cambio? Si el cambio es posible, que acción específica requiere la ira? Si el cambio no es posible, que proceso requiere para ser asimilada y soltada?
+**Ejercicio inmediato:** Para tu ira más persistente en este momento, evalua: ¿la injusticia que señala es real (o es exagerada por el umbral bajo por otras razones)? ¿Si es real, la ira ha motivado alguna acción útil o solo ha producido sufrimiento sin cambio? Si el cambio es posible, que acción específica requiere la ira? ¿Si el cambio no es posible, que proceso requiere para ser asimilada y soltada?
 
 Hay iras que merecen ser escuchadas porque tienen razón. Y hay iras que necesitan ser gestionadas porque cuestan más de lo que pueden conseguir.
 

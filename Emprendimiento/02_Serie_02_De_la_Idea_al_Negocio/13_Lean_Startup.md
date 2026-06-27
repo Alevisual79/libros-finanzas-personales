@@ -27,7 +27,7 @@ El mundo ha cambiado. La metodologia de negocios que funcionaba en un mundo esta
 
 La investigación de Steve Blank sobre el fracaso de startups en Silicon Valley mostró que la causa principal no era la falta de ejecución sino la ejecución perfecta de un plan basado en suposiciones incorrectas. El Lean Startup propone probar las suposiciones antes de ejecutar el plan.
 
-**Ejercicio inmediato:** Identifica las tres suposiciones más importantes de tu negocio que todavia no han sido probadas con el mercado real: la suposición sobre quien es tu cliente (que persona específica con que caracteristicas específicas tiene el problema), la suposición sobre el problema (que tan urgente y frecuente es), y la suposición sobre la solución (que tu propuesta es la que prefieren). Para cada una, reflexiona: como podría probarla o refutarla en menos de dos semanas?
+**Ejercicio inmediato:** Identifica las tres suposiciones más importantes de tu negocio que todavia no han sido probadas con el mercado real: la suposición sobre quien es tu cliente (que persona específica con que caracteristicas específicas tiene el problema), la suposición sobre el problema (que tan urgente y frecuente es), y la suposición sobre la solución (que tu propuesta es la que prefieren). Para cada una, reflexiona: ¿como podría probarla o refutarla en menos de dos semanas?
 
 El plan basado en suposiciones no probadas es un castillo construido sobre arena que el primer cliente real puede derribar.
 
@@ -79,11 +79,11 @@ Las metricas que mides son las que gestionas. Las que no mides se gestionan sola
 
 Carlos ha tenido que pivotar dos veces en su negocio y ha aprendido que cada pivot le acerco más al product-market fit que la dirección original.
 
-**El Principio del Pivot como Cambio de Estrategia Que Mantiene el Aprendizaje Acumulado en Lugar de Como Abandono que Descarta todo lo Anterior:** Ries define el pivot cómo un cambio estructurado de la estrategia (del modeló de negocio, del mercado objetivo, del canal de distribución, del producto) que mantiene el aprendizaje acumulado de los ciclos anteriores. El pivot no es rendirse: es usar lo que el mercado te ha enseñado para ir en una dirección diferente.
+**El Principio del Pivot como Cambio de Estrategia Que Mantiene el Aprendizaje Acumulado en Lugar de Como Abandono que Descarta todo lo Anterior:** Ries define el pivot cómo un cambio estructurado de la estrategia (del modelo de negocio, del mercado objetivo, del canal de distribución, del producto) que mantiene el aprendizaje acumulado de los ciclos anteriores. El pivot no es rendirse: es usar lo que el mercado te ha enseñado para ir en una dirección diferente.
 
 La investigación de Pivots and Business Model Innovation de los fundadores de Y Combinator muestra que muchos de los negocios más exitosos de los últimos veinte años (YouTube, Slack, Instagram, Twitter) comenzaron siendo productos radicalmente diferentes de lo que son ahora y pivotaron a partir de lo que observaron que sus usuarios hacían de forma inesperada o de una sub-funcionalidad que era más popular que el producto principal.
 
-**Ejercicio inmediato:** Para tu negocio actual, reflexiona: hay señales en el comportamiento de tus clientes o en los datos de uso que sugieren que el mercado quiere algo diferente de lo que tu estas ofreciendo? Frecuentemente los clientes usan el producto de forma diferente a como fue diseñado, o un subconjunto específico de clientes tiene un uso que genera valor desproporcionado. Esas señales son candidatos a pivots que el mercado esta sugiriendo aunque nadie lo haya articulado explicitamente.
+**Ejercicio inmediato:** Para tu negocio actual, reflexiona: ¿hay señales en el comportamiento de tus clientes o en los datos de uso que sugieren que el mercado quiere algo diferente de lo que tu estas ofreciendo? Frecuentemente los clientes usan el producto de forma diferente a como fue diseñado, o un subconjunto específico de clientes tiene un uso que genera valor desproporcionado. Esas señales son candidatos a pivots que el mercado esta sugiriendo aunque nadie lo haya articulado explicitamente.
 
 El pivot que el mercado te esta sugiriendo y que todavia no has hecho es la oportunidad que todavia no has visto.
 
@@ -107,11 +107,11 @@ El aprendizaje que ves con tus propios ojos en el comportamiento real del client
 
 Marcos ha aprendido que las metricas que usaba para medir el progreso en su trabajo corporativo no funcionan para medir el progreso de una startup.
 
-**El Principio de la Innovation Accounting como el Marco para Medir el Progreso de un Negocio en Fase de Busqueda de Modelo donde las Metricas Tradicionales No Aplican:** Ries propone el innovation accounting como alternativa a los indicadores de rendimiento tradicionales para empresas en fases de exploración: en lugar de medir los resultados del negocio (revenue, beneficio, cuota de mercado), mide el progreso del aprendizaje (cuantas hipotesis se han probado, cuantas han sido validadas, cuanta certeza sobre el modeló de negocio se ha ganado).
+**El Principio de la Innovation Accounting como el Marco para Medir el Progreso de un Negocio en Fase de Busqueda de Modelo donde las Metricas Tradicionales No Aplican:** Ries propone el innovation accounting como alternativa a los indicadores de rendimiento tradicionales para empresas en fases de exploración: en lugar de medir los resultados del negocio (revenue, beneficio, cuota de mercado), mide el progreso del aprendizaje (cuantas hipotesis se han probado, cuantas han sido validadas, cuanta certeza sobre el modelo de negocio se ha ganado).
 
-La distinción que propone Ries es entre las metricas de output (lo que el negocio produce) y las metricas de aprendizaje (cuanto se sabe sobre si el modeló de negocio funciona). En fases tempranas, las metricas de aprendizaje son más útiles para tomar decisiones de inversión porque indican si el negocio esta avanzando hacía un modeló viable aunque los resultados financieros todavia sean bajos.
+La distinción que propone Ries es entre las metricas de output (lo que el negocio produce) y las metricas de aprendizaje (cuanto se sabe sobre si el modelo de negocio funciona). En fases tempranas, las metricas de aprendizaje son más útiles para tomar decisiones de inversión porque indican si el negocio esta avanzando hacía un modelo viable aunque los resultados financieros todavia sean bajos.
 
-**Ejercicio inmediato:** Define tres metricas de aprendizaje para tu negocio en este momento: hipotesis sobre el cliente validadas (cuantas suposiciones sobre quien es tu cliente y que necesita has confirmado con evidencia de comportamiento), hipotesis sobre la solución validadas (cuantas suposiciones sobre como resuelves el problema han sido confirmadas por uso real), y hipotesis sobre el modeló de negocio validadas (cuantas suposiciones sobre como ganas dinero han sido confirmadas por pagos reales). Esas tres metricas te dicen más sobre el progreso real del negocio en fase temprana que cualquier proyección financiera.
+**Ejercicio inmediato:** Define tres metricas de aprendizaje para tu negocio en este momento: hipotesis sobre el cliente validadas (cuantas suposiciones sobre quien es tu cliente y que necesita has confirmado con evidencia de comportamiento), hipotesis sobre la solución validadas (cuantas suposiciones sobre como resuelves el problema han sido confirmadas por uso real), y hipotesis sobre el modelo de negocio validadas (cuantas suposiciones sobre como ganas dinero han sido confirmadas por pagos reales). Esas tres metricas te dicen más sobre el progreso real del negocio en fase temprana que cualquier proyección financiera.
 
 El progreso que no puedes medir no puedes gestionarlo. Y en fases tempranas, el progreso que más importa es el del aprendizaje.
 
@@ -125,7 +125,7 @@ Carlos ha aprendido que el Lean Startup no es solo para startups tecnologicas: s
 
 Ash Maurya, en Running Lean, adapta el framework para negocios de servicios y productos físicos: el concierge MVP (prestar el servicio manualmente antes de automatizarlo), el wizard of oz MVP (simular la tecnología que todavia no existe), y el smoke test (vender el producto antes de tenerlo) son técnicas aplicables independientemente del tipo de negocio.
 
-**Ejercicio inmediato:** Para tu negocio (independientemente de si es digital o físico), identifica como podrías probar la hipotesis principal en modo concierge o manual antes de invertir en automatización o tecnología. Una agencia de marketing puede probar su servicio premium con un cliente piloto antes de contratar un equipo. Un restaurante puede probar sus recetas con cenas privadas antes de abrir el local. Un software puede probarse con un servicio manual que simula lo que el software haría. Cuanto tiempo y dinero podrías ahorrar probando primero de forma manual?
+**Ejercicio inmediato:** Para tu negocio (independientemente de si es digital o físico), identifica como podrías probar la hipotesis principal en modo concierge o manual antes de invertir en automatización o tecnología. Una agencia de marketing puede probar su servicio premium con un cliente piloto antes de contratar un equipo. Un restaurante puede probar sus recetas con cenas privadas antes de abrir el local. Un software puede probarse con un servicio manual que simula lo que el software haría. ¿Cuanto tiempo y dinero podrías ahorrar probando primero de forma manual?
 
 La versión manual del negocio que prueba la idea es frecuentemente más rápida, más barata, y más rica en aprendizaje que la versión automatizada que se construye desde el principio.
 
@@ -139,7 +139,7 @@ Lucia ha tenido que adaptar la metodologia Lean Startup cuando su empresa creci�
 
 La investigación de Google Project Aristotle (el estudio interno de Google sobre que hace a los equipos más efectivos) muestra que la seguridad psicológica es el factor número uno que distingue a los equipos de alto rendimiento: supera a la inteligencia individual, la experiencia, y las habilidades técnicas.
 
-**Ejercicio inmediato:** Para tu equipo actual o futuro, reflexiona sobre como manejas los fracasos de los experimentos: cuando un experimento no funciona como esperabas, cómo lo comunicas al equipo? Lo analizas abiertamente como aprendizaje o se habla de el con incomodidad? El tono que usas cuando un experimento falla configura la disposición del equipo a seguir experimentando. práctica el análisis abierto de los fracasos como modeló para el equipo.
+**Ejercicio inmediato:** Para tu equipo actual o futuro, reflexiona sobre como manejas los fracasos de los experimentos: ¿cuando un experimento no funciona como esperabas, cómo lo comunicas al equipo? ¿Lo analizas abiertamente como aprendizaje o se habla de el con incomodidad? El tono que usas cuando un experimento falla configura la disposición del equipo a seguir experimentando. práctica el análisis abierto de los fracasos como modeló para el equipo.
 
 El equipo que aprende de los fracasos de otros no necesita cometerlos todos el mismo.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que el Lean Startup no es un proceso que se aplica 
 
 Amazon, quince años después de fundarla, sigue aplicando los principios del Lean Startup en cada nueva iniciativa: lanzar MVPs, medir los resultados, aprender del mercado, y escalar lo que funciona o matar lo que no. Esa cultura de experimentación continua es la que les ha permitido diversificar de forma exitosa en mercados radicalmente diferentes.
 
-**Ejercicio inmediato:** Diseña el sistema de experimentación continua de tu negocio para los próximos noventa dias: que hipotesis sobre el cliente, el producto, y el modeló probaras? Con que MVPs o experimentos? Que metricas usaras para evaluar los resultados? Que proceso de decisión usaras para escalar lo que funciona y matar lo que no? Esas cuatro preguntas en noventa dias te dan la estructura de la cultura Lean que tu negocio necesita.
+**Ejercicio inmediato:** Diseña el sistema de experimentación continua de tu negocio para los próximos noventa dias: ¿que hipotesis sobre el cliente, el producto, y el modelo probaras? ¿Con que MVPs o experimentos? Que metricas usaras para evaluar los resultados? ¿Que proceso de decisión usaras para escalar lo que funciona y matar lo que no? Esas cuatro preguntas en noventa dias te dan la estructura de la cultura Lean que tu negocio necesita.
 
 El negocio que sigue siendo un estudiante del mercado después de cinco años de operación tiene ventaja sobre el que cree que ya sabe todo lo que el mercado le puede ensenar.
 
@@ -161,7 +161,7 @@ El negocio que sigue siendo un estudiante del mercado después de cinco años de
 
 ## Epílogo
 
-Marcos no tiene vergüenza de su dieciocho meses en modo stealth. Pero si ha aprendido la lección. Su segundo negocio, que lanzo dos años después del primero, tuvo un MVP en el mercado en la semana seis. No porque el MVP fuera bueno: era bastante basico. Sino porque lo que aprendió en las tres semanas siguientes al lanzamiento cambio fundamentalmente la dirección del producto. Si hubiera esperado a tener un producto completo para lanzar, habria invertido dieciocho meses más en la dirección equivocada. El MVP imperfecto de la semana seis fue, paradojicamente, la decisión que más ahorro tiempo y dinero en todo el proceso.
+Marcos no tiene vergüenza de su dieciocho meses en modo stealth. Pero si ha aprendido la lección. Su segundo negocio, que lanzo dos años después del primero, tuvo un MVP en el mercado en la semana seis. No porque el MVP fuera bueno: era bastante basico. Sino porque lo que aprendió en las tres semanas siguientes al lanzamiento cambio fundamentalmente la dirección del producto. Si hubiera esperado a tener un producto completo para lanzar, habría invertido dieciocho meses más en la dirección equivocada. El MVP imperfecto de la semana seis fue, paradojicamente, la decisión que más ahorro tiempo y dinero en todo el proceso.
 
 ---
 

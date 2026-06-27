@@ -29,7 +29,7 @@ La traición en la pareja no se limita a la infidelidad sexual. Incluye cualquie
 
 **El Principio de la Traición como Ruptura de Acuerdo:** Shirley Glass, investigadora pionera en infidelidad, define la traición cómo la ruptura de las reglas implícitas o explícitas de la relación sobre exclusividad emocional o física. Esto incluye no solo el contacto sexual fuera de la relación, sino también las conexiones emocionales secretas que sustituyen la intimidad que debería existir en la pareja: la persona con quien se compartes los problemas más que con la pareja, la relación que se mantiene en secreto aunque no sea física.
 
-**Ejercicio inmediato:** Si estas evaluando si lo que ocurrio en tu relación constituye una traición, pregunta: violo un acuerdo explícito o implícito que teniamos sobre la exclusividad de nuestra relación? La respuesta a esa pregunta, más que la categoría específica del acto, es lo que define la traición.
+**Ejercicio inmediato:** Si estas evaluando si lo que ocurrio en tu relación constituye una traición, pregunta: ¿violo un acuerdo explícito o implícito que teniamos sobre la exclusividad de nuestra relación? La respuesta a esa pregunta, más que la categoría específica del acto, es lo que define la traición.
 
 La traición no siempre es lo que se ve en las peliculas. A veces es mucho más silenciosa y mucho más difícil de nombrar.
 

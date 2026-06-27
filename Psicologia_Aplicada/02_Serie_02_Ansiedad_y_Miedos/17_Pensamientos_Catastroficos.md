@@ -27,7 +27,7 @@ La catastrofización es el habito cognitivo de anticipar el peor resultado posib
 
 La catastrofización es la expresión extrema de este sesgo: no solo se procesa más la información negativa, sino que la mente construye activamente escenarios de amenaza más allá de la información disponible, usando la imaginación para simular desastres que podrían no materializarse nunca. El sistema que evoluciono para prepararse ante amenazas reales se ha hipertrofiado para prepararse ante amenazas imaginadas.
 
-**Ejercicio inmediato:** Recuerda los últimos tres pensamientos catastroficos que tuviste. Cuantos de esos escenarios temidos se materializaron realmente? Esta simple revisión histórica comienza a calibrar el sistema de predicción del cerebro contra la evidencia de sus propias predicciones pasadas.
+**Ejercicio inmediato:** Recuerda los últimos tres pensamientos catastroficos que tuviste. ¿Cuantos de esos escenarios temidos se materializaron realmente? Esta simple revisión histórica comienza a calibrar el sistema de predicción del cerebro contra la evidencia de sus propias predicciones pasadas.
 
 Tu mente imagina catastrofes con mucho más frecuencia de la que el mundo las produce. Esa estadistica personal es información útil.
 
@@ -41,7 +41,7 @@ Elena tiene pensamientos catastroficos sobre su salud. Un dolor de cabeza que no
 
 Dennis Greenberger y Christine Padesky, en su manual de TCC ampliamente utilizado, identifican la calificación de la credibilidad del pensamiento en el momento de la catastrofización (del cero al cien) cómo un primer paso clinicamente útil: muchos pensamientos catastroficos, cuando se examina su credibilidad honestamente, son percibidos por la persona como menos probables de lo que la intensidad emocional que producen sugeriria.
 
-**Ejercicio inmediato:** La próxima vez que notes un pensamiento catastrofico, califica su credibilidad: del cero (completamente improbable) al cien (casi completamente seguro). Luego pregunta: que evidencia real tengo para esta calificación? La distancia entre la intensidad emocional del pensamiento y su credibilidad real cuando se examina es frecuentemente reveladora.
+**Ejercicio inmediato:** La próxima vez que notes un pensamiento catastrofico, califica su credibilidad: del cero (completamente improbable) al cien (casi completamente seguro). Luego pregunta: ¿que evidencia real tengo para esta calificación? La distancia entre la intensidad emocional del pensamiento y su credibilidad real cuando se examina es frecuentemente reveladora.
 
 Un pensamiento que te produce una ansiedad de noventa no necesariamente tiene una probabilidad de noventa. Frecuentemente tiene una probabilidad de cinco con una intensidad emocional de noventa.
 
@@ -87,7 +87,7 @@ Ruben tiende a ir directamente al peor caso en cualquier situación incierta. La
 
 Este proceso cumple varias funciones: primero, revela que el peor caso es tan extremo y poco probable como el mejor caso (simetria que la catastrofización ignora). Segundo, en la mayoría de los casos el caso más probable, aunque puede ser incómodo o difícil, es significativamente menos dramatico que el peor caso. Tercero, estimula el pensamiento sobre la capacidad de manejar los diferentes resultados, lo que reduce el componente de indefensión que amplifica la ansiedad.
 
-**Ejercicio inmediato:** Para tu preocupación catastrofica actual más intensa, escribe: el peor caso posible (con toda su dramaticidad), el mejor caso posible (igualmente exagerado hacía lo positivo), y el caso más probable dado lo que realmente sabes. Luego pregunta: como podría manejar el caso más probable si ocurriera?
+**Ejercicio inmediato:** Para tu preocupación catastrofica actual más intensa, escribe: el peor caso posible (con toda su dramaticidad), el mejor caso posible (igualmente exagerado hacía lo positivo), y el caso más probable dado lo que realmente sabes. Luego pregunta: ¿como podría manejar el caso más probable si ocurriera?
 
 El cerebro ansioso vive en el peor caso. El cerebro calibrado vive en el caso probable. Hay una diferencia enorme entre los dos.
 
@@ -101,7 +101,7 @@ Elena preocupación sobre todo el tiempo. Pero hay dos tipos fundamentalmente di
 
 La identificación de si la preocupación actual es productiva o rumiativa es el primer paso para gestionarla de forma diferente. Si es productiva: completarla, planificar la acción y soltar. Si es rumiativa: interrumpirla con una de varias técnicas (tiempo de preocupación programado, aplazamiento de la preocupación, técnicas de distracción cognitiva) porque continuar en ella no produce ningún beneficio.
 
-**Ejercicio inmediato:** La próxima vez que estés en un ciclo de preocupación, preguntate: esta preocupación me esta llevando hacía una acción o solución específica, o esta repitiendose sin avanzar? Si es lo segundo, aplica el aplazamiento: me permito preocuparme por esto mañana entre las seis y las seis y media. Y cuando llegue ese momento, muchas preocupaciones habrán perdido su urgencia.
+**Ejercicio inmediato:** La próxima vez que estés en un ciclo de preocupación, preguntate: ¿esta preocupación me esta llevando hacía una acción o solución específica, o esta repitiendose sin avanzar? Si es lo segundo, aplica el aplazamiento: me permito preocuparme por esto mañana entre las seis y las seis y media. Y cuando llegue ese momento, muchas preocupaciones habrán perdido su urgencia.
 
 La preocupación que busca soluciones es útil. La que busca certeza que no existe no lo es nunca.
 
@@ -155,7 +155,7 @@ Isabel ha reducido sus episodios catastroficos con la práctica de varias técni
 
 **El Principio de la Calibración como Proceso a Largo Plazo:** La investigación de Philip Tetlock sobre calibración de predicciones muestra que los mejores pronosticadores no son los más optimistas ni los más pesimistas. Son los más calibrados: sus predicciones corresponden con sus tasas de precisión real. El mismo principio aplica a las predicciones que la mente ansiosa hace sobre amenazas personales. La catastrofización cronica es sistemáticamente mal calibrada hacía el polo negativo.
 
-La calibración se mejora con evidencia acumulada sobre las propias predicciones. Llevar un registro de los pensamientos catastroficos y sus resultados reales, durante un período de tres a seis meses, produce una base de datos personal que el cerebro puede consultar cuando el siguiente pensamiento catastrofico aparece: mis predicciones catastroficas han resultado ciertas en un cinco por ciento de los casos. Esta nueva predicción es igual de alarmante o tiene la credibilidad que le corresponde estadisticamente?
+La calibración se mejora con evidencia acumulada sobre las propias predicciones. Llevar un registro de los pensamientos catastroficos y sus resultados reales, durante un período de tres a seis meses, produce una base de datos personal que el cerebro puede consultar cuando el siguiente pensamiento catastrofico aparece: ¿mis predicciones catastroficas han resultado ciertas en un cinco por ciento de los casos. Esta nueva predicción es igual de alarmante o tiene la credibilidad que le corresponde estadisticamente?
 
 **Ejercicio inmediato:** Durante un mes, registra brevemente cada pensamiento catastrofico importante y su resultado real cuando este disponible. Al final del mes, calcula que proporción de tus predicciones catastroficas resultaron precisas. Esa proporción es la calibración que tu cerebro necesita para dejar de tratarlas todas como certezas.
 
@@ -165,7 +165,7 @@ La catastrofización no desaparece de golpe. Se calibra gradualmente con la evid
 
 ## Epílogo
 
-Isabel llegó a la reunión con su jefe con una ansiedad moderada en lugar del terror que sentía cuando construia el escenario catastrofico la noche anterior. Habia practicado el cuestionamiento cognitivo: había evaluado la probabilidad real de un despido dado su desempeño reciente, había reconocido el pensamiento catastrofico por su nombre, y había recordado que sus predicciones catastroficas resultaban equivocadas en la mayor parte de los casos. Cuando su jefe le ofreció el aumento, no sintio la euforia que habria sentido desde el escenario de miedo. Sintio algo más sostenido: la satisfacción tranquila de alguien cuyo sistema predictivo esta aprendiendo a ser más preciso.
+Isabel llegó a la reunión con su jefe con una ansiedad moderada en lugar del terror que sentía cuando construia el escenario catastrofico la noche anterior. Habia practicado el cuestionamiento cognitivo: había evaluado la probabilidad real de un despido dado su desempeño reciente, había reconocido el pensamiento catastrofico por su nombre, y había recordado que sus predicciones catastroficas resultaban equivocadas en la mayor parte de los casos. Cuando su jefe le ofreció el aumento, no sintio la euforia que habría sentido desde el escenario de miedo. Sintio algo más sostenido: la satisfacción tranquila de alguien cuyo sistema predictivo esta aprendiendo a ser más preciso.
 
 ---
 

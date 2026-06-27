@@ -27,7 +27,7 @@ Las creencias potenciadoras no son el opuesto de las limitantes. Son algo más e
 
 Las creencias potenciadoras no son afirmaciones positivas arbitrarias (soy poderoso, soy exitoso) sino creencias específicas sobre la propia capacidad, el significado de los eventos, y las posibilidades disponibles que estan calibradas a la realidad y que apoyan el comportamiento deseado: puedo aprender a hacer esto, los fracasos son parte del proceso de aprendizaje, hay personas que han conseguido esto y yo puedo hacerlo también.
 
-**Ejercicio inmediato:** Identifica una creencia que tuvieras sobre tus capacidades que ha cambiado con el tiempo (algo que creias que no podias hacer y que ahora puedes, o algo que creias imposible y que has conseguido). Esa creencia que cambio es evidencia de que las creencias sobre las propias capacidades no son fijas. Y si una cambio, otras pueden cambiar.
+**Ejercicio inmediato:** Identifica una creencia que tuvieras sobre tus capacidades que ha cambiado con el tiempo (algo que creías que no podías hacer y que ahora puedes, o algo que creías imposible y que has conseguido). Esa creencia que cambio es evidencia de que las creencias sobre las propias capacidades no son fijas. Y si una cambio, otras pueden cambiar.
 
 La creencia que te potencia no tiene que ser una declaración grandiosa. Solo tiene que ser honestamente más útil que la que la reemplaza.
 
@@ -41,7 +41,7 @@ Isabel tiene autoeficacia alta en algunos dominios y muy baja en otros. Entender
 
 La implicación práctica es que la autoeficacia puede desarrollarse deliberadamente: buscando experiencias de dominio (aunque pequeñas) en el dominio donde es baja, encontrando modelos que demuestren que el logró es posible para personas en situaciones similares, y trabajando con personas que proporcionen retroalimentación apoyadora de forma creible.
 
-**Ejercicio inmediato:** Para un dominio donde tu autoeficacia es baja, identifica: que logró pequeño pero real en ese dominio podría aumentar tu autoeficacia (experiencia de dominio)? Existe alguien que haya conseguido algo similar a lo que quieres y cuya situación sea comparable a la tuya (modelado vicario)? Esas dos fuentes son las más poderosas y las más accesibles.
+**Ejercicio inmediato:** Para un dominio donde tu autoeficacia es baja, identifica: ¿que logró pequeño pero real en ese dominio podría aumentar tu autoeficacia (experiencia de dominio)? ¿Existe alguien que haya conseguido algo similar a lo que quieres y cuya situación sea comparable a la tuya (modelado vicario)? Esas dos fuentes son las más poderosas y las más accesibles.
 
 La autoeficacia no se desarrolla proclamando que crees en ti mismo. Se desarrolla acumulando evidencia de que puedes.
 
@@ -55,7 +55,7 @@ Ruben tiende al pesimismo y lo ve como realismo. La investigación sobre el opti
 
 La investigación de Seligman y colegas muestra que el optimismo se asocia con mayor bienestar, mayor rendimiento en multiples dominios, y mejor salud física. Y que puede desarrollarse: el entrenamiento en estilos explicativos optimistas produce mejoras medibles en bienestar y rendimiento.
 
-**Ejercicio inmediato:** Para el próximo evento negativo que experimentes (pequeño es suficiente para practicar), aplica el análisis de atribución optimista: es esto permanente (siempre será asi) o temporal (esta vez, en esta situación)? Es pervasivo (arruina todo) o específico (solo afecta a esta área concreta)? Ese análisis interrumpe el estilo explicativo pesimista y entrena el optimista.
+**Ejercicio inmediato:** Para el próximo evento negativo que experimentes (pequeño es suficiente para practicar), aplica el análisis de atribución optimista: ¿es esto permanente (siempre será asi) o temporal (esta vez, en esta situación)? ¿Es pervasivo (arruina todo) o específico (solo afecta a esta área concreta)? Ese análisis interrumpe el estilo explicativo pesimista y entrena el optimista.
 
 El pesimismo que llamas realismo frecuentemente no es más preciso que el optimismo. Solo es más conocido.
 
@@ -83,7 +83,7 @@ Isabel experimenta el trabajo cotidiano como monotono pero sabe que tiene objeti
 
 Amy Wrzesniewski y Jane Dutton han investigado el job crafting: la forma en que las personas pueden redisenar su trabajo cotidiano para que tenga más conexión con su sentido de significado, independientemente del contenido formal del rol. La creencia de que el trabajo puede conectarse con algo que importa cambia la experiencia del trabajo sin que el trabajo cambie.
 
-**Ejercicio inmediato:** Para tu trabajo actual, reflexiona: que conexión hay entre lo que haces cada dia y algo que genuinamente te importa (aunque sea indirecta)? Si ayudas a personas específicas, que impacto tiene ese ayuda en sus vidas? Si produces algo, quien lo usa y como mejora su situación? Hacer visible esa conexión refuerza la creencia de que lo que se hace importa.
+**Ejercicio inmediato:** Para tu trabajo actual, reflexiona: ¿que conexión hay entre lo que haces cada dia y algo que genuinamente te importa (aunque sea indirecta)? ¿Si ayudas a personas específicas, que impacto tiene ese ayuda en sus vidas? Si produces algo, quien lo usa y como mejora su situación? Hacer visible esa conexión refuerza la creencia de que lo que se hace importa.
 
 El trabajo que crees que no importa y el que crees que importa no difieren en los hechos. Difieren en la creencia.
 
@@ -139,7 +139,7 @@ Isabel ha notado que ciertas personas en su vida activan consistentemente sus cr
 
 Nicholas Christakis y James Fowler documentaron en sus estudios sobre las redes sociales que los comportamientos y actitudes se propagan a traves de las redes hasta tres grados de separación. El entorno no solo refleja las creencias: las modela activamente.
 
-**Ejercicio inmediato:** Identifica las tres personas con quienes pasas más tiempo. Para cada una, reflexiona: que creencias sobre lo que es posible para ti apoyan consistentemente? Son principalmente potenciadoras o limitantes? Esta información no implica necesariamente eliminar personas de tu vida pero si gestionar que creencias alimentar con que personas.
+**Ejercicio inmediato:** Identifica las tres personas con quienes pasas más tiempo. Para cada una, reflexiona: ¿que creencias sobre lo que es posible para ti apoyan consistentemente? ¿Son principalmente potenciadoras o limitantes? Esta información no implica necesariamente eliminar personas de tu vida pero si gestionar que creencias alimentar con que personas.
 
 Las personas con quienes pasas el tiempo no solo afectan tu animo. Afectan lo que crees posible para ti.
 
@@ -149,7 +149,7 @@ Las personas con quienes pasas el tiempo no solo afectan tu animo. Afectan lo qu
 
 Ruben ha llegado a entender que el trabajo con las creencias no es una tarea que se termina sino un mantenimiento continuo de la arquitectura mental desde la que vive.
 
-**El Principio del Sistema de Creencias como Infraestructura del Yo:** Martin Seligman propone en su modeló de bienestar PERMA que las creencias sobre las propias capacidades (autoeficacia), el futuro (optimismo), y el significado de las acciones son componentes del bienestar que se mantienen y se actualizan a lo largo de la vida. No son conquistas que se hacen una vez sino capacidades que se cultivan.
+**El Principio del Sistema de Creencias como Infraestructura del Yo:** Martin Seligman propone en su modelo de bienestar PERMA que las creencias sobre las propias capacidades (autoeficacia), el futuro (optimismo), y el significado de las acciones son componentes del bienestar que se mantienen y se actualizan a lo largo de la vida. No son conquistas que se hacen una vez sino capacidades que se cultivan.
 
 La arquitectura de creencias potenciadoras que apoya una vida bien vivida incluye tipicamente: creencias sobre la propia capacidad de aprender y crecer, creencias sobre el significado de lo que se hace, creencias sobre la propia valia que no dependen del rendimiento, y creencias sobre las posibilidades disponibles que son calibradas a la realidad pero no innecesariamente restrictivas.
 

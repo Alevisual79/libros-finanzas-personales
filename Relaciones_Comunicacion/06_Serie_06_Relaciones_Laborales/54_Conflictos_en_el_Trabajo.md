@@ -25,7 +25,7 @@ El conflicto en cualquier entorno donde personas con diferentes perspectivas, re
 
 **El Principio del Conflicto como Subproducto de la Interdependencia:** Cualquier sistema donde multiples personas dependen unas de otras para lograr objetivos compartidos, con recursos limitados y perspectivas distintas, generara conflicto de forma natural y recurrente. La pregunta relevante no es como eliminar el conflicto (objetivo imposible e indeseable) sino como gestionarlo de forma que sea productivo en lugar de destructivo.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propia relación con el conflicto laboral: lo experimentas cómo una señal de que algo va mal que debe evitarse, o cómo una parte normal de la colaboración que requiere gestión activa? Ese marcó mental determina significativamente como respondes cuando surge.
+**Ejercicio inmediato:** Reflexiona sobre tu propia relación con el conflicto laboral: ¿lo experimentas cómo una señal de que algo va mal que debe evitarse, o cómo una parte normal de la colaboración que requiere gestión activa? Ese marcó mental determina significativamente como respondes cuando surge.
 
 El conflicto en el trabajo no es una señal de que algo esta roto. Es una caracteristica normal de cualquier sistema donde personas distintas colaboran.
 
@@ -49,7 +49,7 @@ La distinción entre conflicto de tarea (sobre el contenido del trabajo) y confl
 
 **El Principio de los Efectos Diferenciados:** La investigación de Karen Jehn muestra que el conflicto de tarea moderado, cuando se gestiona constructivamente, puede mejorar la calidad de las decisiones al introducir perspectivas diversas y desafiar el pensamiento grupal. El conflicto personal, en cambio, tiende a deteriorar consistentemente el desempeño y la cohesión del equipo, independientemente de cómo se gestione, porque ataca la relación misma en lugar de la calidad de la decisión.
 
-**Ejercicio inmediato:** Evalua un desacuerdo reciente en tu equipo: comenzo como conflicto de tarea legitimo (diferentes opiniones sobre la mejor decisión) o se convirtió, en algun punto, en conflicto personal (ataques sobre el carácter o la competencia de alguien)?
+**Ejercicio inmediato:** Evalua un desacuerdo reciente en tu equipo: ¿comenzo como conflicto de tarea legitimo (diferentes opiniones sobre la mejor decisión) o se convirtió, en algun punto, en conflicto personal (ataques sobre el carácter o la competencia de alguien)?
 
 El desacuerdo sobre la mejor decisión puede ser saludable. El ataque a la persona detras de la decisión casi nunca lo es.
 
@@ -61,7 +61,7 @@ No todos los conflictos laborales requieren intervención activa de un superior 
 
 **El Principio del Criterio de Intervención:** Los conflictos que requieren intervención activa son los que muestran escalada continua sin signos de resolución natural, los que afectan significativamente el desempeño o el bienestar del equipo más allá de las personas directamente involucradas, y los que involucran un desequilibrio de poder que impide una resolución equitativa sin mediación externa. Los conflictos menores entre personas con buena relación general frecuentemente se resuelven sin intervención si se les da espacio.
 
-**Ejercicio inmediato:** Si estas considerando intervenir en un conflicto del que eres testigo o responsable, evalua contra estos criterios: esta escalando, esta afectando a otros más allá de las partes directas, hay un desequilibrio de poder relevante?
+**Ejercicio inmediato:** Si estas considerando intervenir en un conflicto del que eres testigo o responsable, evalua contra estos criterios: ¿esta escalando, esta afectando a otros más allá de las partes directas, hay un desequilibrio de poder relevante?
 
 No todo conflicto necesita que alguien intervenga. Pero el que cumple los criterios de riesgo, si lo necesita, y postergarlo lo empeora.
 
@@ -71,7 +71,7 @@ No todo conflicto necesita que alguien intervenga. Pero el que cumple los criter
 
 Las conversaciones difíciles en el contexto laboral, similares en estructura a las conversaciones difíciles en cualquier relación, se benefician de un enfoque estructurado que separa los hechos, las emociones y las identidades en juego.
 
-**El Principio de las Tres Conversaciones Simultaneas:** Basandose en el modeló de Stone, Patton y Heen sobre conversaciones difíciles, cada conversación de conflicto laboral incluye simultaneamente una conversación sobre los hechos (que paso realmente, que es disputado), una conversación sobre las emociones (que sienten las partes involucradas), y una conversación sobre la identidad (que dice esta situación sobre quien soy como profesional). Abordar las tres dimensiones, en lugar de solo la primera, produce conversaciones más efectivas.
+**El Principio de las Tres Conversaciones Simultaneas:** Basandose en el modelo de Stone, Patton y Heen sobre conversaciones difíciles, cada conversación de conflicto laboral incluye simultaneamente una conversación sobre los hechos (que paso realmente, que es disputado), una conversación sobre las emociones (que sienten las partes involucradas), y una conversación sobre la identidad (que dice esta situación sobre quien soy como profesional). Abordar las tres dimensiones, en lugar de solo la primera, produce conversaciones más efectivas.
 
 **Ejercicio inmediato:** Para una conversación difícil pendiente en el trabajo, prepara tu enfoque considerando las tres dimensiones: que hechos necesitas clarificar, que emociones podrían estar presentes (las tuyas y las del otro), y que preocupaciones de identidad profesional podrían estar en juego.
 
@@ -133,7 +133,7 @@ La cultura general de una organización, específicamente sus normas implícitas
 
 **El Principio de la Cultura como Marco del Conflicto:** Las organizaciones con culturas que normalizan el desacuerdo respetuoso, que modelan desde el liderazgo la gestión constructiva de conflictos, y que tienen procesos claros para escalar disputas no resueltas, generan ambientes donde los conflictos individuales tienden a resolverse más constructivamente que en organizaciones donde el conflicto se evita sistemáticamente o se castiga la expresión de desacuerdo.
 
-**Ejercicio inmediato:** Reflexiona sobre la cultura de tu organización respecto al conflicto: se modela y se permite el desacuerdo respetuoso, o se castiga implícita o explicitamente la expresión de discrepancia? Esa cultura influye en como tus propios conflictos se desenvuelven.
+**Ejercicio inmediato:** Reflexiona sobre la cultura de tu organización respecto al conflicto: ¿se modela y se permite el desacuerdo respetuoso, o se castiga implícita o explicitamente la expresión de discrepancia? Esa cultura influye en como tus propios conflictos se desenvuelven.
 
 Una organización que castiga el desacuerdo no elimina el conflicto. Lo empuja a la clandestinidad, donde se vuelve más difícil de gestionar.
 

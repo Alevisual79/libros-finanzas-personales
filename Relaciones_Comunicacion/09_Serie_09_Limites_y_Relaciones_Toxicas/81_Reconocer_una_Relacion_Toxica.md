@@ -25,7 +25,7 @@ Una relación toxica se define por un patron consistente de dinámicas que erosi
 
 **El Principio del Efecto Acumulado como Criterio:** El criterio más confiable para identificar una relación toxica no es un evento dramatico unico, sino el efecto acumulado y consistente en el bienestar de la persona: se siente, en promedio y a lo largo del tiempo, sistemáticamente disminuida, ansiosa o insegura como resultado de esa relación, en contraste con las relaciones saludables que, incluso con sus dificultades normales, generalmente dejan a la persona sintiendose fortalecida.
 
-**Ejercicio inmediato:** Para una relación que sospechas podría ser toxica, evalua honestamente: como te sientes, en promedio, después de interactuar con esta persona? Mejor, igual, o sistemáticamente peor que antes de la interacción?
+**Ejercicio inmediato:** Para una relación que sospechas podría ser toxica, evalua honestamente: ¿como te sientes, en promedio, después de interactuar con esta persona? ¿Mejor, igual, o sistemáticamente peor que antes de la interacción?
 
 Una relación toxica no se define por un momento dramatico. Se define por como te deja, consistentemente, a lo largo del tiempo.
 
@@ -49,7 +49,7 @@ Identificar señales de alarma específicas, incluso cuando aun parecen menores 
 
 **El Principio de las Señales Tempranas Frecuentemente Ignoradas:** Las señales de alarma temprana de relaciones potencialmente toxicas incluyen críticas frecuentes disfrazadas de honestidad, control creciente sobre decisiones que deberían ser autonomas, inconsistencia entre lo que se dice y lo que se hace, y la sensación subjetiva persistente de que algo no esta bien, aun sin poder articular exactamente que es ese algo.
 
-**Ejercicio inmediato:** Para una relación que genera incomodidad difícil de articular, revisa esta lista de señales tempranas. Cuantas reconoces presentes, aunque parezcan explicables individualmente?
+**Ejercicio inmediato:** Para una relación que genera incomodidad difícil de articular, revisa esta lista de señales tempranas. ¿Cuantas reconoces presentes, aunque parezcan explicables individualmente?
 
 Las señales de alarma temprana frecuentemente se sienten, individualmente, como cosas que se pueden explicar o minimizar. Juntas, cuentan una historia diferente.
 

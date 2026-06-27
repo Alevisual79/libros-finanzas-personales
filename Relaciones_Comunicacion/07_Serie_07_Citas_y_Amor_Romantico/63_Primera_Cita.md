@@ -97,7 +97,7 @@ Distinguir entre la química genuina (que predice mejor la compatibilidad a larg
 
 **El Principio de los Indicadores de Quimica Genuina:** Las señales de química genuina incluyen la facilidad de la conversación sin esfuerzo forzado, el interés mutuo genuino expresado a traves de preguntas reciprocas, y la sensación de que el tiempo pasa rápidamente sin necesidad de llenar silencios incomodos artificialmente. La simple excitación de la novedad, en cambio, puede sentirse intensa pero frecuentemente carece de esta facilidad reciproca.
 
-**Ejercicio inmediato:** Después de tu próxima cita, evalua específicamente: la conversación fluyo con facilidad reciproca, o sentiste que tenías que esforzarte constantemente para mantenerla? Esa distinción es información útil sobre la calidad real de la conexión.
+**Ejercicio inmediato:** Después de tu próxima cita, evalua específicamente: ¿la conversación fluyo con facilidad reciproca, o sentiste que tenías que esforzarte constantemente para mantenerla? Esa distinción es información útil sobre la calidad real de la conexión.
 
 La química real se siente como facilidad. La simple emoción de la novedad frecuentemente se siente como esfuerzo intenso disfrazado de emoción.
 
@@ -133,7 +133,7 @@ Ciertos comportamientos específicos, identificados consistentemente en la inves
 
 **El Principio de los Errores Recurrentes Evitables:** Los comportamientos que más consistentemente generan impresiones negativas en primeras citas incluyen hablar predominantemente de uno mismo sin interés reciproco genuino, revisar constantemente el teléfono, hablar excesivamente mal de relaciones pasadas, y proyectar expectativas de compromiso desproporcionadas para una primera interacción.
 
-**Ejercicio inmediato:** Revisa esta lista de comportamientos problematicos e identifica honestamente si alguno es un patron que reconoces en tus propias citas pasadas. Que ajuste específico podrías hacer en tu próxima cita?
+**Ejercicio inmediato:** Revisa esta lista de comportamientos problematicos e identifica honestamente si alguno es un patron que reconoces en tus propias citas pasadas. ¿Que ajuste específico podrías hacer en tu próxima cita?
 
 Evitar los errores más comunes de las primeras citas no garantiza una conexión. Pero cometerlos consistentemente casi garantiza que no la habrá.
 
@@ -141,7 +141,7 @@ Evitar los errores más comunes de las primeras citas no garantiza una conexión
 
 ## Epílogo
 
-En una primera cita, el objetivo no es gustarle. Es descubrir si os gustais mutuamente. Isabel, después de reflexionar sobre su experiencia de actuación constante en su última primera cita, decidió en su siguiente intento dejar de monitorear cada palabra y simplemente estar presente con genuina curiosidad. Salio de esa cita sin saber si habria una segunda. Pero por primera vez en mucho tiempo, recordaba con claridad todo lo que la otra persona le había contado.
+En una primera cita, el objetivo no es gustarle. Es descubrir si os gustais mutuamente. Isabel, después de reflexionar sobre su experiencia de actuación constante en su última primera cita, decidió en su siguiente intento dejar de monitorear cada palabra y simplemente estar presente con genuina curiosidad. Salio de esa cita sin saber si habría una segunda. Pero por primera vez en mucho tiempo, recordaba con claridad todo lo que la otra persona le había contado.
 
 ---
 

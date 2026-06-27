@@ -27,7 +27,7 @@ El tiempo es diferente de todos los demás recursos porque es el unico que no pu
 
 La investigación de Cassie Mogilner y colegas sobre la percepción del tiempo muestra que las personas que piensan en el tiempo en terminos de meses y años (perspectiva larga) toman decisiones diferentes a las que piensan en dias y horas (perspectiva corta). Las personas con perspectiva larga invierten más en actividades con significado a largo plazo (relaciones, aprendizaje, proyectos significativos) aunque tengan menor gratificación inmediata.
 
-**Ejercicio inmediato:** Calcula cuantas semanas has vivido hasta ahora. Reflexiona: cuantas semanas te quedan si vives hasta los ochenta años? Esa cifra es un recurso específico, finito, y no renovable. Ahora reflexiona: las decisiones de uso del tiempo que tomó hoy reflejan la importancia que ese recurso tiene? Si la respuesta es frecuentemente no, esa es la brecha que este libro propone cerrar.
+**Ejercicio inmediato:** Calcula cuantas semanas has vivido hasta ahora. Reflexiona: ¿cuantas semanas te quedan si vives hasta los ochenta años? Esa cifra es un recurso específico, finito, y no renovable. Ahora reflexiona: ¿las decisiones de uso del tiempo que tomó hoy reflejan la importancia que ese recurso tiene? Si la respuesta es frecuentemente no, esa es la brecha que este libro propone cerrar.
 
 La semana que pasas sin haber decidido como usarla ya se ha ido. Y contaba.
 
@@ -55,7 +55,7 @@ Elena trabaja mucho pero rara vez tiene bloques de tiempo para trabajo profundo 
 
 La investigación de K. Anders Ericsson sobre la práctica deliberada muestra que los mayores de las distintas disciplinas raramente practican más de cuatro horas de práctica profunda al dia: la capacidad de trabajo cognitivo ininterrumpido de alta calidad es un recurso limitado que se agota y que requiere recuperación.
 
-**Ejercicio inmediato:** Durante los próximos cinco dias de trabajo, protege un bloque de noventa minutos cada mañana para trabajo profundo: sin email, sin notificaciones, sin reunión. Usa ese bloque para la tarea que más impacto tiene en tus objetivos pero que siempre postergamos porque no es urgente. Después de cinco dias, reflexiona: el impacto de esos noventa minutos diarios fue superior o inferior al de las restantes horas del dia? La respuesta te dirá si el trabajo profundo merece la protección que requiere.
+**Ejercicio inmediato:** Durante los próximos cinco dias de trabajo, protege un bloque de noventa minutos cada mañana para trabajo profundo: sin email, sin notificaciones, sin reunión. Usa ese bloque para la tarea que más impacto tiene en tus objetivos pero que siempre postergamos porque no es urgente. Después de cinco dias, reflexiona: ¿el impacto de esos noventa minutos diarios fue superior o inferior al de las restantes horas del dia? La respuesta te dirá si el trabajo profundo merece la protección que requiere.
 
 Las noventa mejores horas de trabajo de la semana no son las últimas noventa. Son las primeras noventa del dia, antes de que el mundo decida como usarlas.
 
@@ -69,7 +69,7 @@ Isabel ha llegado a entender que el calendario es el documento más honesto sobr
 
 Richard Thaler y Cass Sunstein proponen el concepto de la arquitectura de la elección: el diseño del entorno que hace más probable el comportamiento deseado. Aplicado al tiempo, significa diseñar el calendario de forma que los comportamientos más alineados con los valores más importantes sean los más faciles de realizar y los más alineados con los valores menos importantes sean los más difíciles.
 
-**Ejercicio inmediato:** Abre tu calendario de la última semana y clasifica cada bloque de tiempo por valor: a que valor (personal o profesional) sirvio esta actividad? Al final, calcula la proporción de tiempo dedicada a cada valor. Compara esa proporción con la jerarquía de valores que estableciste en el libro anterior. La discrepancia entre los dos es el mapa del problema.
+**Ejercicio inmediato:** Abre tu calendario de la última semana y clasifica cada bloque de tiempo por valor: ¿a que valor (personal o profesional) sirvio esta actividad? Al final, calcula la proporción de tiempo dedicada a cada valor. Compara esa proporción con la jerarquía de valores que estableciste en el libro anterior. La discrepancia entre los dos es el mapa del problema.
 
 El calendario que no has diseñado tu lo ha diseñado el mundo por ti. Y el mundo no tiene tus valores.
 
@@ -139,7 +139,7 @@ Ruben dice si a muchas más cosas de las que puede manejar bien. Aprender a deci
 
 La investigación de Barry Schwartz sobre la paradoja de la elección muestra que el exceso de opciones produce mayor ansiedad, mayor arrepentimiento, y menor satisfacción con las decisiones tomadas. Reducir deliberadamente el número de compromisos y opciones activos produce mayor claridad y mayor calidad en lo que se mantiene.
 
-**Ejercicio inmediato:** Para los próximos treinta dias, establece una regla de no si para cualquier nuevo compromiso: antes de decir si a cualquier solicitud de tiempo significativa (más de dos horas), espera veinticuatro horas. En ese período, reflexiona: si tuviera que hacerlo mañana, lo aceptaria? Si la respuesta es no, rechaza el compromiso. El no que das al compromiso equivocado es el si que das a lo que importa.
+**Ejercicio inmediato:** Para los próximos treinta dias, establece una regla de no si para cualquier nuevo compromiso: antes de decir si a cualquier solicitud de tiempo significativa (más de dos horas), espera veinticuatro horas. En ese período, reflexiona: ¿si tuviera que hacerlo mañana, lo aceptaria? Si la respuesta es no, rechaza el compromiso. El no que das al compromiso equivocado es el si que das a lo que importa.
 
 Cada si que das es un no que le das a algo más. El problema es que la mayoría de los si se toman sin tener presente el no implícito.
 
@@ -153,7 +153,7 @@ Elena ha llegado a entender que gestionar el tiempo no es una cuestion de produc
 
 La investigación de Bronnie Ware sobre los arrepentimientos de las personas en sus últimas semanas de vida muestra que los arrepentimientos más comunes no son haber trabajado menos o haber tomado menos riesgos, sino no haber tenido el coraje de vivir la vida que querían (en lugar de la que otros esperaban) y no haber mantenido las amistades que más importaban.
 
-**Ejercicio inmediato:** Escribe durante diez minutos sobre la siguiente pregunta: si dentro de veinte años pudiera mirar atras a la forma en que he vivido estos años, que sería lo que más lamentaria no haber hecho? Que relaciones, que proyectos, que experiencias, que contribuciones? Esa respuesta es un mapa del uso del tiempo que te arrepentiras de no haber tenido. La pregunta del arrepentimiento anticipado es una de las herramientas de decisión más poderosas que existen.
+**Ejercicio inmediato:** Escribe durante diez minutos sobre la siguiente pregunta: ¿si dentro de veinte años pudiera mirar atras a la forma en que he vivido estos años, que sería lo que más lamentaria no haber hecho? ¿Que relaciones, que proyectos, que experiencias, que contribuciones? Esa respuesta es un mapa del uso del tiempo que te arrepentiras de no haber tenido. La pregunta del arrepentimiento anticipado es una de las herramientas de decisión más poderosas que existen.
 
 La vida que quieres vivir no llega sola. La construyes decisión a decisión, hora a hora, dia a dia. O no la construyes.
 
@@ -161,7 +161,7 @@ La vida que quieres vivir no llega sola. La construyes decisión a decisión, ho
 
 ## Epílogo
 
-Elena bloqueo en su calendario todos los viernes por la tarde como tiempo para un proyecto personal que llevaba tres años diciendo que haría cuando tuviera tiempo. El tiempo nunca había llegado solo. Cuando lo programo, aparecio. Cuatro meses después, el proyecto existia en una forma que no habria existido si hubiera seguido esperando al tiempo libre que nunca llega. No había cambiado cuantas horas tenía. Habia cambiado que hacía con ellas. Y esa diferencia era la diferencia entre la vida que tenía y la vida que quería tener.
+Elena bloqueo en su calendario todos los viernes por la tarde como tiempo para un proyecto personal que llevaba tres años diciendo que haría cuando tuviera tiempo. El tiempo nunca había llegado solo. Cuando lo programo, aparecio. Cuatro meses después, el proyecto existia en una forma que no habría existido si hubiera seguido esperando al tiempo libre que nunca llega. No había cambiado cuantas horas tenía. Habia cambiado que hacía con ellas. Y esa diferencia era la diferencia entre la vida que tenía y la vida que quería tener.
 
 ---
 

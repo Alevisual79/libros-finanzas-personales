@@ -27,7 +27,7 @@ Los estereotipos no son un defecto del pensamiento. Son un mecanismo de eficienc
 
 El problema es que la categorización produce dos sesgos sistemáticos: la homogenización del outgroup (los miembros del grupo ajeno se perciben como más similares entre si de lo que son: todos los X son iguales) y la acentuación de las diferencias entre grupos (los grupos se perciben como más diferentes entre si de lo que son). Estos sesgos producen estereotipos que son simplificaciones excesivas de la realidad.
 
-**Ejercicio inmediato:** Identifica un grupo social sobre el que tienes creencias generalizadas (positivas o negativas). Reflexiona: cuantos miembros de ese grupo conoces personalmente y de forma suficientemente profunda como para basar una generalización? La proporción entre el número de personas conocidas y la fuerza de la generalización te da una medida de la solidez empirica de tu estereotipo.
+**Ejercicio inmediato:** Identifica un grupo social sobre el que tienes creencias generalizadas (positivas o negativas). Reflexiona: ¿cuantos miembros de ese grupo conoces personalmente y de forma suficientemente profunda como para basar una generalización? La proporción entre el número de personas conocidas y la fuerza de la generalización te da una medida de la solidez empirica de tu estereotipo.
 
 El estereotipo que tienes sobre un grupo que casi no conoces es una opinión sobre tu imaginación, no sobre el grupo.
 
@@ -41,7 +41,7 @@ Ruben cree que no tiene prejuicios raciales. La investigación sugiere que todos
 
 La interpretación de estos datos es controvertida: los críticos del IAT (como Gregory Mitchell y Patrick Friedersdorf) cuestionan su validez predictiva del comportamiento real. Los defensores (Banaji, Greenwald, Nosek) mantienen que revela patrones de asociación que, aunque no determinan el comportamiento, lo modulan de formas sutiles.
 
-**Ejercicio inmediato:** Completa el IAT gratuito disponible en implicit.harvard.edu en la categoría de tu elección (raza, genero, edad). Antes de interpretar el resultado, reflexiona: el resultado dice que soy racista o prejuicioso? No directamente: dice que tienes ciertas asociaciones automáticas producidas por la exposición cultural a determinadas representaciones. Esas asociaciones pueden coexistir con valores genuinamente igualitarios.
+**Ejercicio inmediato:** Completa el IAT gratuito disponible en implicit.harvard.edu en la categoría de tu elección (raza, genero, edad). Antes de interpretar el resultado, reflexiona: ¿el resultado dice que soy racista o prejuicioso? No directamente: dice que tienes ciertas asociaciones automáticas producidas por la exposición cultural a determinadas representaciones. Esas asociaciones pueden coexistir con valores genuinamente igualitarios.
 
 El sesgo implícito que niegan los que no lo han medido y el que exageran los que lo miden sin matices son igualmente inutils. El que se entiende con precisión puede gestionarse.
 
@@ -55,7 +55,7 @@ Isabel ha visto en su empresa como los estereotipos de genero afectan las decisi
 
 Estas diferencias no requieren prejuicio deliberado para producirse: operan a traves de las expectativas automáticas que los estereotipos crean sobre quien es competente en determinadas áreas.
 
-**Ejercicio inmediato:** En la próxima evaluación de rendimiento o decisión de contratación que hagas, aplica el blind review si es posible: evalua el trabajo separado de la identidad de quien lo produjó. Cuando el blind review no sea posible, aplica la pregunta explícita: si esta persona fuera de otro genero/edad/origen, evaluaria su trabajo de la misma manera? La pregunta no elimina el sesgo pero lo hace visible antes de que afecte la decisión.
+**Ejercicio inmediato:** En la próxima evaluación de rendimiento o decisión de contratación que hagas, aplica el blind review si es posible: evalua el trabajo separado de la identidad de quien lo produjó. Cuando el blind review no sea posible, aplica la pregunta explícita: ¿si esta persona fuera de otro genero/edad/origen, evaluaria su trabajo de la misma manera? La pregunta no elimina el sesgo pero lo hace visible antes de que afecte la decisión.
 
 El sesgo que no puedes ver tampoco puedes corregirlo. El que te obligas a ver ya puedes gestionarlo.
 
@@ -69,7 +69,7 @@ Ruben pertenece a un grupo que tiene un estereotipo negativo en ciertos contexto
 
 La investigación posterior muestra que la amenaza del estereotipo afecta a cualquier grupo que tiene un estereotipo negativo en un área específica: mujeres en matemáticas, blancos en atletismo, personas mayores en tests de memoria. El mecanismo es la carga cognitiva de gestionar la amenaza de confirmar el estereotipo.
 
-**Ejercicio inmediato:** Si perteneces a un grupo con estereotipos negativos en un área donde actuas, reflexiona: hay situaciones donde la conciencia de ese estereotipo ha interferido con tu rendimiento? Las investigaciones sobre reducción de amenaza del estereotipo muestran que reafirmar valores personales importantes antes de la tarea reduce el efecto. Identifica un valor que te importa profundamente y recuerdalo antes de entrar en situaciones de alta presión evaluativa.
+**Ejercicio inmediato:** Si perteneces a un grupo con estereotipos negativos en un área donde actuas, reflexiona: ¿hay situaciones donde la conciencia de ese estereotipo ha interferido con tu rendimiento? Las investigaciones sobre reducción de amenaza del estereotipo muestran que reafirmar valores personales importantes antes de la tarea reduce el efecto. Identifica un valor que te importa profundamente y recuerdalo antes de entrar en situaciones de alta presión evaluativa.
 
 El estereotipo que alguien tiene sobre tu grupo no te define. Pero si lo dejas entrar en tu mente en el momento de actuar, puede afectar como actuas.
 
@@ -97,7 +97,7 @@ Ruben quiere reducir sus propios sesgos. La investigación tiene resultados que 
 
 Sin embargo, las intervenciones de diversidad corporativa (talleres de sesgo implícito, formaciones de diversidad) muestran efectos más modestos y a veces contraproducentes: algunas investigaciones muestran que las formaciones obligatorias de diversidad producen reactancia y aumento del prejuicio en algunos grupos. Las intervenciones voluntarias y las que generan empatia perspectivista muestran mejores resultados.
 
-**Ejercicio inmediato:** Para un grupo social sobre el que tienes sesgos que reconoces, reflexiona: tienes contacto personal real con miembros de ese grupo en condiciones de igualdad de estatus (trabajo conjunto, amistad, colaboración)? Si no, esa es la intervención más efectiva disponible: no el entrenamiento de sesgo sino el contacto real con personas individuales que desmontan el estereotipo por su especificidad.
+**Ejercicio inmediato:** Para un grupo social sobre el que tienes sesgos que reconoces, reflexiona: ¿tienes contacto personal real con miembros de ese grupo en condiciones de igualdad de estatus (trabajo conjunto, amistad, colaboración)? Si no, esa es la intervención más efectiva disponible: no el entrenamiento de sesgo sino el contacto real con personas individuales que desmontan el estereotipo por su especificidad.
 
 El prejuicio que sobrevive a conocer bien a personas del grupo que prejuzgas es un prejuicio más difícil de mantener.
 
@@ -111,7 +111,7 @@ Isabel, a sus cincuenta y dos años, ha empezado a notar que el edadismo es un s
 
 La investigación de Becca Levy muestra que las personas mayores con actitudes más positivas hacía el envejecimiento viven un promedio de 7,5 años más que las que tienen actitudes más negativas, sugiriendo que los estereotipos sobre la vejez que internalizamos tienen efectos en la salud.
 
-**Ejercicio inmediato:** Reflexiona sobre tus propias creencias sobre el envejecimiento: que imaginas cuando piensas en una persona de setenta años en el trabajo? Que diferencia hace si esa persona es un colega vs. tu propio futuro? Las imagenes que tenemos del envejecimiento son frecuentemente estereotipos culturales más que realidades observadas individualmente.
+**Ejercicio inmediato:** Reflexiona sobre tus propias creencias sobre el envejecimiento: ¿que imaginas cuando piensas en una persona de setenta años en el trabajo? ¿Que diferencia hace si esa persona es un colega vs. tu propio futuro? Las imagenes que tenemos del envejecimiento son frecuentemente estereotipos culturales más que realidades observadas individualmente.
 
 El edadismo que toleras en la cultura que te rodea es el que te aplicaran a ti cuando llegue el momento.
 
@@ -139,7 +139,7 @@ Isabel quiere implementar cambios en los procesos de recursos humanos que reduzc
 
 Las organizaciones que han implementado audiciones ciegas en orquestas sinfónicas han aumentado la proporción de musicas femeninas de un 5% a un 36%. Las que han implementado CV ciegos en contratación han aumentado la diversidad de candidatos entrevistados significativamente.
 
-**Ejercicio inmediato:** En tu área de influencia (equipo, departamento, proceso que controlas), identifica un proceso donde el sesgo humano tiene el mayor impacto en los resultados (contratación, evaluación de rendimiento, asignación de proyectos). Reflexiona: hay un cambio estructural (anonimización, criterios explícitos previos, números en lugar de impresiones) que podría reducir el efecto del sesgo sin requerir que las personas tengan menos sesgo?
+**Ejercicio inmediato:** En tu área de influencia (equipo, departamento, proceso que controlas), identifica un proceso donde el sesgo humano tiene el mayor impacto en los resultados (contratación, evaluación de rendimiento, asignación de proyectos). Reflexiona: ¿hay un cambio estructural (anonimización, criterios explícitos previos, números en lugar de impresiones) que podría reducir el efecto del sesgo sin requerir que las personas tengan menos sesgo?
 
 El sesgo que atacas cambiando solo corazones y mentes cambia muy poco. El que atacas cambiando procesos cambia el resultado independientemente de los corazones y las mentes.
 
@@ -153,7 +153,7 @@ Elena ha llegado al final del libro con una comprensión más compleja de sus pr
 
 La investigación de Dolly Chugh sobre los decisores mayoritariamente buenos (mostly good) propone que el objetivo más útil no es la perfección moral sino la mejora continua: ser algo mejor mañana de lo que se fue hoy en cuanto a la equidad de las propias decisiones.
 
-**Ejercicio inmediato:** Establece una práctica de revisión de sesgo para las decisiones que más impacto tienen en otras personas (evaluaciones, contrataciones, asignaciones): antes de finalizar la decisión, aplica la pregunta: si la persona involucrada fuera de otro grupo (genero, edad, origen, apariencia), tomaria la misma decisión? Esa pregunta sistemática, aplicada consistentemente, es más efectiva que cualquier taller de un dia.
+**Ejercicio inmediato:** Establece una práctica de revisión de sesgo para las decisiones que más impacto tienen en otras personas (evaluaciones, contrataciones, asignaciones): antes de finalizar la decisión, aplica la pregunta: ¿si la persona involucrada fuera de otro grupo (genero, edad, origen, apariencia), tomaria la misma decisión? Esa pregunta sistemática, aplicada consistentemente, es más efectiva que cualquier taller de un dia.
 
 No puedes eliminar tus sesgos. Pero puedes instalar un proceso que los atrape antes de que afecten a las personas que dependen de tus decisiones.
 

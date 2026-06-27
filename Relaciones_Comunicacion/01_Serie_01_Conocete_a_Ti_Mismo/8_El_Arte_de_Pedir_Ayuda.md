@@ -35,7 +35,7 @@ La primera vez que Miguel pidio ayuda en la escuela, el profesor lo señalo ante
 
 Las investigaciones de Frank Flynn y Vanessa Lake sobre la solicitud de ayuda muestran que las personas consistentemente sobreestiman cuantas veces van a ser rechazadas cuando piden ayuda. En sus estudios, la tasa real de aceptación era entre dos y tres veces mayor de lo que los participantes esperaban.
 
-**Ejercicio inmediato:** Piensa en la última vez que necesitaste ayuda y no la pediste. Que te impidio pedirla? Que creias que iba a pasar si la pedias? Escribe esos miedos específicos. Verlos escritos suele revelar lo poco probables que son.
+**Ejercicio inmediato:** Piensa en la última vez que necesitaste ayuda y no la pediste. ¿Que te impidio pedirla? ¿Que creías que iba a pasar si la pedias? Escribe esos miedos específicos. Verlos escritos suele revelar lo poco probables que son.
 
 La barrera para pedir ayuda es casi siempre más alta en tu cabeza que en la realidad.
 
@@ -49,7 +49,7 @@ El curriculum de Isabel incluye treinta años resolviendo problemas que no eran 
 
 La autosuficiencia extrema también tiene un coste relacional: los demás se sienten excluidos, innecesarios, como si no te importaran lo suficiente para dejarlos entrar. Hay personas que interpretan la incapacidad de recibir del otro cómo una forma de rechazó.
 
-**Ejercicio inmediato:** Calcula el tiempo y la energía que has invertido en el último mes resolviendo cosas que podrías haber pedido a otros. Ahora preguntate: que te impidio pedirlo? La respuesta honesta te dice exactamente cual es la trampa específica en que estas.
+**Ejercicio inmediato:** Calcula el tiempo y la energía que has invertido en el último mes resolviendo cosas que podrías haber pedido a otros. Ahora preguntate: ¿que te impidio pedirlo? La respuesta honesta te dice exactamente cual es la trampa específica en que estas.
 
 La autosuficiencia total no es independencia. Es soledad disfrazada de fortaleza.
 
@@ -87,11 +87,11 @@ No es que no tengas a quien pedir. Es que tal vez no sabes a quien pedir cada ti
 
 Hay formas de pedir ayuda que en realidad son exigencias con forma de petición: sabes que lo que me vendría bien es que... Hay formas que son manipulación disfrazada: si de verdad me quisieras... Y hay formas que son peticiones reales, directas, con posibilidad genuina de ser rechazadas sin drama.
 
-**El Principio de la Petición Limpia:** Una petición limpia tiene cuatro elementos: es específica (que necesitas exactamente), es directa (se dice en primera persona sin rodeos), es con margen (incluye la posibilidad genuina de que el otro diga que no), y es sin deuda implícita (no viene cargada de expectativa de que el otro deba decir si). Necesito que me ayudes a mover estos muebles el sabado, puedes? Es una petición limpia. Si no puedes, no pasa nada es el elemento de margen que la hace genuina.
+**El Principio de la Petición Limpia:** Una petición limpia tiene cuatro elementos: ¿es específica (que necesitas exactamente), es directa (se dice en primera persona sin rodeos), es con margen (incluye la posibilidad genuina de que el otro diga que no), y es sin deuda implícita (no viene cargada de expectativa de que el otro deba decir si). Necesito que me ayudes a mover estos muebles el sabado, puedes? Es una petición limpia. Si no puedes, no pasa nada es el elemento de margen que la hace genuina.
 
 Marshall Rosenberg, creador de la Comunicación No Violenta, distingue entre petición y exigencia: en la petición, el no del otro se acepta. En la exigencia, el no del otro produce castigo o resentimiento. Muchas personas creen que piden cuando en realidad exigen.
 
-**Ejercicio inmediato:** práctica formular tres peticiones que tengas pendientes usando el formato: necesito... puedes...? Si dices que no, lo entiendo perfectamente. La última frase es la que convierte una exigencia en una petición real.
+**Ejercicio inmediato:** práctica formular tres peticiones que tengas pendientes usando el formato: ¿necesito... puedes...? Si dices que no, lo entiendo perfectamente. La última frase es la que convierte una exigencia en una petición real.
 
 La petición limpia incluye siempre la posibilidad del no.
 
@@ -119,7 +119,7 @@ Hay personas que piden demasiado: que el otro resuelva lo que ellas deberían re
 
 La dependencia se distingue del apoyo mutuo por una variable clave: la autonomía. En el apoyo mutuo, cada persona puede funcionar razonablemente bien sin el otro, aunque funcione mejor con el otro. En la dependencia, la ausencia del otro genera una disfunción que no se puede gestionar.
 
-**Ejercicio inmediato:** Piensa en tu relación más importante. Quien da más en este momento? Ha habido momentos en que el equilibrio era diferente? La dependencia se ve en el patron a largo plazo, no en el momento puntual.
+**Ejercicio inmediato:** Piensa en tu relación más importante. ¿Quien da más en este momento? ¿Ha habido momentos en que el equilibrio era diferente? La dependencia se ve en el patron a largo plazo, no en el momento puntual.
 
 El apoyo mutuo es lo que convierte una relación en algo sostenible a largo plazo.
 
@@ -131,9 +131,9 @@ En el trabajo, pedir ayuda tiene un estigma específico: el de la incompetencia.
 
 **El Principio de la Petición Estrategica en el Trabajo:** Las investigaciones de Alison Wood Brooks muestran que pedir consejo, a diferencia de lo que se suele temer, aumenta la percepción de competencia del que pide, no la reduce. Pedir consejo activa en el otro el sentido de ser valioso y útil, lo que genera una percepción positiva hacía quien pregunta. El estigma de pedir ayuda en el trabajo es en gran parte una percepción interna, no una realidad externa.
 
-La clave esta en cómo se pide: no soy incapaz, no entiendo nada sino que he intentado esto y esto y me encuentro con este problema específico, tienes alguna perspectiva al respecto? La segunda formulación muestra iniciativa y pensamiento previo, lo que refuerza la percepción de competencia.
+La clave esta en cómo se pide: ¿no soy incapaz, no entiendo nada sino que he intentado esto y esto y me encuentro con este problema específico, tienes alguna perspectiva al respecto? La segunda formulación muestra iniciativa y pensamiento previo, lo que refuerza la percepción de competencia.
 
-**Ejercicio inmediato:** Identifica un problema laboral que llevas más de dos dias intentando resolver solo. Formula una petición de ayuda específica a alguien de tu entorno laboral usando el formato: he intentado X e Y, me encuentro con Z, tienes alguna perspectiva? Observa la respuesta.
+**Ejercicio inmediato:** Identifica un problema laboral que llevas más de dos dias intentando resolver solo. Formula una petición de ayuda específica a alguien de tu entorno laboral usando el formato: ¿he intentado X e Y, me encuentro con Z, tienes alguna perspectiva? Observa la respuesta.
 
 Pedir ayuda inteligentemente en el trabajo no te hace parecer menos. Te hace parecer más.
 
@@ -147,7 +147,7 @@ A veces pedimos y el otro no responde de la forma que esperabamos. O no responde
 
 Nedra Tawwab recomienda no hacer una unica petición y esperar. Si la petición es importante, vale la pena reformularla, ser más explícito sobre la necesidad, o buscar otras personas. La dependencia de que una sola persona responda a una necesidad es en si misma un tipo de dependencia problematica.
 
-**Ejercicio inmediato:** Piensa en una vez en que pediste ayuda y no la recibiste. Que concluiste sobre el otro? Ahora preguntate: hay otras explicaciones posibles ademas del rechazó? Cual es la más probable? La respuesta honesta suele reducir el dolor del no.
+**Ejercicio inmediato:** Piensa en una vez en que pediste ayuda y no la recibiste. ¿Que concluiste sobre el otro? Ahora preguntate: ¿hay otras explicaciones posibles ademas del rechazó? ¿Cual es la más probable? La respuesta honesta suele reducir el dolor del no.
 
 La no-respuesta del otro no siempre habla de ti. Casi siempre habla de sus propios recursos y límites.
 
@@ -175,7 +175,7 @@ Isabel terminó este libro un domingo. El lunes llamó a su hermana por primera 
 
 Su hermana al otro lado del teléfono: gracias por decirmelo. Te escuchó.
 
-Treinta años de silencio. Dos frases. Una conexión que no habían tenido desde ninas.
+Treinta años de silencio. Dos frases. Una conexión que no habían tenido desde niñas.
 
 Pedir ayuda no es el final de la fortaleza. Es el principio de un tipo de relación que la fortaleza solitaria nunca puede construir.
 

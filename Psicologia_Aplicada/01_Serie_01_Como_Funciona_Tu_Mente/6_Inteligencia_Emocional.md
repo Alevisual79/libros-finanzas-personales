@@ -25,7 +25,7 @@ El terminó inteligencia emocional se ha usado tanto y tan imprecisamente que ha
 
 **El Principio de la IE como Conjunto de Habilidades Cognitivas:** Peter Salovey y John Mayer, los psicologos que originalmente definieron el concepto en 1990, propusieron la inteligencia emocional cómo la capacidad de percibir, usar, comprender y gestionar emociones de forma efectiva, tanto propias como ajenas. No es un rasgo de personalidad, ni amabilidad, ni positivismo. Es un conjunto específico de habilidades cognitivas relacionadas con el procesamiento de información emocional, que como todas las habilidades cognitivas puede medirse, varía entre personas, y puede desarrollarse con práctica.
 
-Daniel Goleman popularizó el concepto en 1995 con su libro Inteligencia Emocional, expandiendo el modeló original y añadiendo dimensiones como motivación y habilidades sociales. La investigación posterior, aunque ha matizado muchas de las afirmaciones maximalistas de Goleman, confirma que las habilidades emocionales (especialmente la regulación emocional y la empatia precisa) predicen significativamente el rendimiento laboral, la calidad de las relaciones y el bienestar, incluso controlando por inteligencia cognitiva general.
+Daniel Goleman popularizó el concepto en 1995 con su libro Inteligencia Emocional, expandiendo el modelo original y añadiendo dimensiones como motivación y habilidades sociales. La investigación posterior, aunque ha matizado muchas de las afirmaciones maximalistas de Goleman, confirma que las habilidades emocionales (especialmente la regulación emocional y la empatia precisa) predicen significativamente el rendimiento laboral, la calidad de las relaciones y el bienestar, incluso controlando por inteligencia cognitiva general.
 
 **Ejercicio inmediato:** Evalua honestamente en cual de las cuatro dimensiones basicas de la IE tienes más deficiencias: percibir emociones (reconocer lo que sientes con precisión), usar emociones (usar el estado emocional para facilitar el pensamiento), comprender emociones (entender como evolucionan y se relacionan) o gestionar emociones (regular el estado emocional propio y facilitar el de otros). El autodiagnostico preciso es el primer paso.
 
@@ -41,7 +41,7 @@ Isabel sabe que reaccionar con brusquedad a un empleado cuando esta estresada es
 
 Goleman llamó a esto secuestro amigdalar: el estado en que la activación emocional intensa reduce temporalmente la capacidad de procesamiento prefrontal, produciendo un comportamiento impulsivo que la persona frecuentemente lamenta una vez que el estado se calma. El reconocimiento temprano de las señales de activación (tensión muscular, aceleración cardiaca, respiración superficial) antes de que el secuestro sea completo es la ventana de oportunidad para la intervención regulatoria.
 
-**Ejercicio inmediato:** Identifica tus señales físicas tempranas de activación emocional intensa: que pasa en tu cuerpo antes de que pierdas el control de tu respuesta? Aprender a reconocer esas señales antes de que el secuestro sea completo te da una ventana de elección que no tienes después.
+**Ejercicio inmediato:** Identifica tus señales físicas tempranas de activación emocional intensa: ¿que pasa en tu cuerpo antes de que pierdas el control de tu respuesta? Aprender a reconocer esas señales antes de que el secuestro sea completo te da una ventana de elección que no tienes después.
 
 Entre el estímulo y la respuesta hay un espacio. La inteligencia emocional es la capacidad de encontrar ese espacio.
 
@@ -153,7 +153,7 @@ Ruben tiene treinta y un años y ha empezado a entender que su brillantez técni
 
 El desarrollo de la inteligencia emocional no es un proyecto de fin de semana en un taller de autoconocimiento. Es una práctica continua que se desarrolla precisamente en los momentos difíciles: cuando alguien te irrita, cuando estas bajo presión, cuando una negociación sale mal, cuando el miedo aparece antes de algo importante. Esos son los momentos de entrenamiento, no las excepciones a la práctica.
 
-**Ejercicio inmediato:** Identifica la situación de esta semana donde tu respuesta emocional fue menos adaptativa de lo que te habria gustado. No para juzgarte, sino como material de aprendizaje. Que habrias necesitado hacer de forma diferente? Que práctica específica podría prepararte mejor para la próxima vez?
+**Ejercicio inmediato:** Identifica la situación de esta semana donde tu respuesta emocional fue menos adaptativa de lo que te habría gustado. No para juzgarte, sino como material de aprendizaje. ¿Que habrías necesitado hacer de forma diferente? ¿Que práctica específica podría prepararte mejor para la próxima vez?
 
 La inteligencia emocional no se mide en como actuas cuando todo va bien. Se mide en como actuas cuando el miedo, la rabia o la verguenza llegan antes que el juicio.
 
@@ -161,7 +161,7 @@ La inteligencia emocional no se mide en como actuas cuando todo va bien. Se mide
 
 ## Epílogo
 
-Ruben se inscribio en un curso de comunicación asertiva. No porque le gustara la idea, sino porque su jefe fue lo suficientemente directo para decirle que sus ideas dejaban de llegar donde podían llegar porque la forma en que las presentaba activaba defensividad en los demás. Tres meses después, un proyecto suyo que antes habria sido rechazado antes de la segunda diapositiva fue aprobado por el comite directivo. No porque el proyecto hubiera cambiado. Porque Ruben había aprendido a presentarlo desde la comprensión de lo que el comite necesitaba escuchar, no desde la certeza de que tenía razón.
+Ruben se inscribio en un curso de comunicación asertiva. No porque le gustara la idea, sino porque su jefe fue lo suficientemente directo para decirle que sus ideas dejaban de llegar donde podían llegar porque la forma en que las presentaba activaba defensividad en los demás. Tres meses después, un proyecto suyo que antes habría sido rechazado antes de la segunda diapositiva fue aprobado por el comite directivo. No porque el proyecto hubiera cambiado. Porque Ruben había aprendido a presentarlo desde la comprensión de lo que el comite necesitaba escuchar, no desde la certeza de que tenía razón.
 
 ---
 

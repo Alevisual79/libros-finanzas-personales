@@ -57,7 +57,7 @@ Primero la idea central. Luego los datos, ejemplos o razones que la sustentan. F
 
 El error habitual es el inverso: contexto extenso, datos detallados, y la conclusión al final cuando el oyente ya ha perdido el hilo.
 
-**El modeló PREP:**
+**El modelo PREP:**
 - **P**oint (Punto): la tesis en una frase
 - **R**eason (Razón): por qué importa
 - **E**xample (Ejemplo): la evidencia concreta
@@ -132,7 +132,7 @@ Comprar tiempo para organizar el pensamiento. Un par de segundos de pausa antes 
 
 **Las técnicas:**
 - Repetir la pregunta o parafrasearse antes de responder
-- Usar el modeló punto → razón → ejemplo incluso en improvisación
+- Usar el modelo punto → razón → ejemplo incluso en improvisación
 - Si no se sabe, decirlo y proponer un momento para responder con la información correcta
 
 El peor hábito en la improvisación: responder inmediatamente con el primer pensamiento que surge, sin organización. Suena a pensamiento no procesado.
@@ -158,7 +158,7 @@ Rubén tenía un problema específico: hablaba atropelladamente cuando se entusi
 
 Lo que hizo durante tres meses:
 1. Grabó varias conversaciones y reuniones (con permiso). Las escuchó. La diferencia entre cómo creía que sonaba y cómo sonaba realmente fue reveladora.
-2. Practicó el modeló PREP en situaciones de bajo riesgo (conversaciones en reuniones pequeñas).
+2. Practicó el modelo PREP en situaciones de bajo riesgo (conversaciones en reuniones pequeñas).
 3. Se puso el objetivo de hacer una pausa de dos segundos antes de cada respuesta importante.
 
 Al cuarto mes, un colega le preguntó: "¿Has hecho algún curso de comunicación? Pareces mucho más claro cuando presentas."

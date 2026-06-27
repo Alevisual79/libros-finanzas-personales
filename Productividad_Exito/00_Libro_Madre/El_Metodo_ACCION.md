@@ -151,7 +151,7 @@ Los libros están diseñados para construir un sistema coherente, no para enseñ
 
 Antes de continuar, hay que hablar de la motivación.
 
-Muchas personas esperan estar motivadas para actuar. El modeló es: motivación → acción → resultado.
+Muchas personas esperan estar motivadas para actuar. El modelo es: motivación → acción → resultado.
 
 La investigación sobre el comportamiento muestra que funciona al revés: acción → resultado → motivación.
 

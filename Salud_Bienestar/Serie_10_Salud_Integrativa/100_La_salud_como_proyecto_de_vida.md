@@ -153,7 +153,7 @@ La salud tiene un efecto multiplicador en las redes sociales.
 
 Los estudios de Framingham muestran que la obesidad, el tabaquismo, la felicidad y los hábitos de salud se propagan por las redes sociales como contagios: no biológicos, sino conductuales y normativos.
 
-**El modeló que somos:**
+**El modelo que somos:**
 Los padres que se mueven tienen hijos más activos. Los profesores que duermen bien son más eficaces. Los líderes que gestionan bien su estrés construyen entornos menos tóxicos.
 
 La salud individual no es solo personal. Tiene consecuencias en el círculo de influencia de cada persona.

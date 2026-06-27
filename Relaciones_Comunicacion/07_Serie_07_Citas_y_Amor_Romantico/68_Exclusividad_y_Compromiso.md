@@ -37,7 +37,7 @@ Determinar el momento apropiado para tener la conversación de definición de re
 
 **El Principio de las Señales de Madurez de la Conexion:** El momento apropiado para la conversación de definición tiende a coincidir con señales específicas: la relación ha desarrollado patrones de regularidad y exclusividad de facto, ambas partes muestran señales de inversión emocional creciente, y la incertidumbre sobre el estado de la relación comienza a generar ansiedad o decisiones evitadas (como no explorar otras conexiones por lealtad implícita no confirmada).
 
-**Ejercicio inmediato:** Evalua tu relación actual contra estas señales: hay patrones de regularidad de facto, inversión emocional creciente, y ansiedad generada por la incertidumbre? Si varias estan presentes, ese es momento de considerar la conversación.
+**Ejercicio inmediato:** Evalua tu relación actual contra estas señales: ¿hay patrones de regularidad de facto, inversión emocional creciente, y ansiedad generada por la incertidumbre? Si varias estan presentes, ese es momento de considerar la conversación.
 
 No existe un número magico de meses para tener la conversación de definición. Existen señales específicas que indican que la relación esta lista para esa claridad.
 
@@ -85,7 +85,7 @@ Existe una distinción psicológica importante entre el compromiso genuino (elec
 
 **El Principio del Compromiso como Elección Activa:** El compromiso saludable se experimenta cómo una elección renovada activamente, que se siente expansiva porque refleja un deseo genuino de invertir en la relación. La sensación de estar atado, en cambio, se experimenta cómo una limitación impuesta, frecuentemente porque el compromiso se formo por presión externa o por miedo a las consecuencias de no comprometerse, más que por deseo genuino.
 
-**Ejercicio inmediato:** Reflexiona sobre tu compromiso actual, si lo tienes: lo experimentas cómo una elección activa que sigues queriendo renovar, o cómo una obligación que te limita sin sentido de elección genuina?
+**Ejercicio inmediato:** Reflexiona sobre tu compromiso actual, si lo tienes: ¿lo experimentas cómo una elección activa que sigues queriendo renovar, o cómo una obligación que te limita sin sentido de elección genuina?
 
 El compromiso que se siente como prisión no es compromiso saludable. Es obligación disfrazada de compromiso.
 
@@ -107,7 +107,7 @@ Definir lo que quieres no requiere presionar al otro para qué quiera lo mismo. 
 
 Una vez que la conversación de definición de relación ha ocurrido y se ha establecido un acuerdo de exclusividad, la relación entra en una fase diferente que requiere sus propios ajustes y expectativas.
 
-**El Principio de la Transición Post-Definición:** El establecimiento de exclusividad cambia algunos aspectos de la relación (mayor seguridad sobre el estado de la conexión, posiblemente mayor profundidad de vulnerabilidad compartida) pero no resuelve automáticamente otros desafios relacionales que existian antes de la conversación (diferencias de comunicación, compatibilidad de valores que aun requiere desarrollo). Esperar que la definición de la relación resuelva todos los desafios anteriores es una expectativa irrealista.
+**El Principio de la Transición Post-Definición:** El establecimiento de exclusividad cambia algunos aspectos de la relación (mayor seguridad sobre el estado de la conexión, posiblemente mayor profundidad de vulnerabilidad compartida) pero no resuelve automáticamente otros desafios relacionales que existían antes de la conversación (diferencias de comunicación, compatibilidad de valores que aun requiere desarrollo). Esperar que la definición de la relación resuelva todos los desafios anteriores es una expectativa irrealista.
 
 **Ejercicio inmediato:** Si has tenido recientemente la conversación de definición con tu pareja, reflexiona sobre que ha cambiado genuinamente en la relación y que desafios anteriores siguen presentes y requieren su propio trabajo continuado.
 
@@ -141,7 +141,7 @@ Una relación sin etiqueta puede ser sana, si fue elegida conscientemente despu�
 
 ## Epílogo
 
-La conversación de definir la relación es incomoda. No tenerla es peor. Elena, finalmente, le pregunto directamente a la persona con quien llevaba tres meses: que es esto para ti? La respuesta, que llegó con visible alivio de la otra persona también, confirmo que ambos querían lo mismo, pero ninguno se había atrevido a decirlo primero. La conversación que tanto temían resultó ser, al final, la que más había estado faltando.
+La conversación de definir la relación es incomoda. No tenerla es peor. Elena, finalmente, le pregunto directamente a la persona con quien llevaba tres meses: ¿que es esto para ti? La respuesta, que llegó con visible alivio de la otra persona también, confirmo que ambos querían lo mismo, pero ninguno se había atrevido a decirlo primero. La conversación que tanto temían resultó ser, al final, la que más había estado faltando.
 
 ---
 

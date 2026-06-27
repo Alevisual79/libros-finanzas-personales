@@ -25,7 +25,7 @@ La dependencia emocional se define cómo un patron donde el bienestar psicológi
 
 **El Principio de la Distinción entre Interdependencia Saludable y Dependencia Excesiva:** Todas las relaciones cercanas saludables involucran cierto grado de interdependencia, donde el bienestar de una persona se ve influido por la relación. La dependencia emocional excesiva se distingue por la magnitud y la rigidez de esa influencia: la persona dependiente no puede mantener su propio sentido de bienestar de forma independiente, y su autoestima fluctua dramaticamente segun la aprobación o desaprobación percibida del otro.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propio nivel de dependencia en tus relaciones más significativas: tu bienestar fluctua dramaticamente segun la aprobación de esa persona, o mantienes un nucleo estable de bienestar independiente de esa aprobación?
+**Ejercicio inmediato:** Reflexiona sobre tu propio nivel de dependencia en tus relaciones más significativas: ¿tu bienestar fluctua dramaticamente segun la aprobación de esa persona, o mantienes un nucleo estable de bienestar independiente de esa aprobación?
 
 La interdependencia saludable y la dependencia excesiva no son lo mismo. La diferencia esta en si puedes mantener un nucleo de bienestar propio independiente de la aprobación del otro.
 
@@ -61,7 +61,7 @@ La dependencia emocional en relaciones de pareja frecuentemente sigue un ciclo r
 
 **El Principio del Ciclo Autorreforzante:** El ciclo típico incluye períodos donde la presencia y aprobación del otro genera seguridad temporal, seguidos de episodios donde cualquier señal de distancia o desaprobación genera ansiedad intensa que se busca resolver a traves de comportamientos de busqueda de reaseguramiento, los cuales, si tienen éxito en obtener la validación buscada, refuerzan el patron completo, haciendolo más probable que se repita.
 
-**Ejercicio inmediato:** Identifica el ciclo específico en tu relación: que comportamientos de busqueda de reaseguramiento prácticas cuando sientes ansiedad por la posible desaprobación o distancia del otro?
+**Ejercicio inmediato:** Identifica el ciclo específico en tu relación: ¿que comportamientos de busqueda de reaseguramiento prácticas cuando sientes ansiedad por la posible desaprobación o distancia del otro?
 
 El ciclo de dependencia se refuerza a si mismo cada vez que el comportamiento de busqueda de reaseguramiento tiene éxito temporal, haciendolo más probable en el futuro.
 
@@ -133,7 +133,7 @@ El desarrollo de la capacidad de amar desde un lugar de seguridad interna, en lu
 
 **El Principio del Amor desde la Seguridad versus desde la Necesidad:** El amor maduro, discutido extensamente en otros libros de esta colección, se caracteriza por elegir activamente estar con alguien desde un lugar de relativa seguridad interna, en contraste con la dependencia emocional, que ama desde un lugar de necesidad desesperada que confunde la intensidad de esa necesidad con la profundidad del amor genuino.
 
-**Ejercicio inmediato:** Reflexiona sobre tu relación actual o más reciente: la sientes desde un lugar de elección activa y relativa seguridad, o desde un lugar de necesidad que se sentiria insostenible sin la presencia constante del otro?
+**Ejercicio inmediato:** Reflexiona sobre tu relación actual o más reciente: ¿la sientes desde un lugar de elección activa y relativa seguridad, o desde un lugar de necesidad que se sentiria insostenible sin la presencia constante del otro?
 
 El trabajo de superar la dependencia emocional no busca eliminar el amor o la cercania. Busca transformar el amor desde la necesidad desesperada hacía la elección desde la seguridad.
 

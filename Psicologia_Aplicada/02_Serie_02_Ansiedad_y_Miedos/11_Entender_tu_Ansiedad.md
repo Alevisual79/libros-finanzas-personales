@@ -27,7 +27,7 @@ El primer error que la mayoría de las personas con ansiedad comete es tratarla 
 
 El problema no es el sistema. El problema es cuando este sistema, diseñado para amenazas físicas agudas y breves de la sabana africana, se activa cronica y desproporcionadamente en respuesta a amenazas abstractas, sociales o imaginadas del mundo moderno: una presentación en el trabajo, un mensaje sin respuesta, una decisión incierta. El sistema alarma funciona perfectamente. Solo que esta calibrado para un entorno que ya no existe.
 
-**Ejercicio inmediato:** La próxima vez que sientas ansiedad, en lugar de intentar suprimirla inmediatamente, identifica durante treinta segundos que amenaza específica esta señalizando: a que le teme concretamente tu cerebro en este momento? Esta identificación no elimina la ansiedad pero cambia la relación con ella de combate a información.
+**Ejercicio inmediato:** La próxima vez que sientas ansiedad, en lugar de intentar suprimirla inmediatamente, identifica durante treinta segundos que amenaza específica esta señalizando: ¿a que le teme concretamente tu cerebro en este momento? Esta identificación no elimina la ansiedad pero cambia la relación con ella de combate a información.
 
 La ansiedad no es tu enemiga. Es tu sistema de alarma disparandose en el momento y la magnitud equivocados. Eso es gestionable.
 
@@ -41,7 +41,7 @@ Elena cree que todas las personas con ansiedad tienen el mismo problema. Que la 
 
 Esta especificidad importa practicamente porque las técnicas que funcionan bien para la ansiedad generalizada (tolerancia a la incertidumbre, reestructuración cognitiva) son diferentes de las que funcionan para el panico (técnicas de regulación fisiologica, psicoeducación sobre las sensaciones del panico) o para la ansiedad social (exposición graduada, reevaluación de creencias sobre el juicio ajeno).
 
-**Ejercicio inmediato:** Describe tu ansiedad con la mayor precisión posible: ocurre en situaciones específicas o de forma generalizada? Es más cognitive (pensamientos catastroficos) o más fisiologica (sensaciones corporales intensas)? Aparece de forma anticipatoria (antes del evento) o durante el evento? Esta precisión descriptiva es el primer paso hacía la intervención específica correcta.
+**Ejercicio inmediato:** Describe tu ansiedad con la mayor precisión posible: ¿ocurre en situaciones específicas o de forma generalizada? ¿Es más cognitive (pensamientos catastroficos) o más fisiologica (sensaciones corporales intensas)? Aparece de forma anticipatoria (antes del evento) o durante el evento? Esta precisión descriptiva es el primer paso hacía la intervención específica correcta.
 
 Decir tengo ansiedad es como decir me duele algo. Necesitas ser más específico para saber que hacer con ello.
 
@@ -51,7 +51,7 @@ Decir tengo ansiedad es como decir me duele algo. Necesitas ser más específico
 
 Ruben ha tenido dos episodios de lo que creía que era un ataque al corazón. Taquicardia intensa, dificultad para respirar, sensación de muerte inminente. En urgencias le dijeron que era un ataque de panico. No entendió bien que era eso ni por qué su cuerpo podía hacer algo tan aterrador sin que hubiera ninguna amenaza real.
 
-**El Principio del Ciclo de Retroalimentación del Panico:** David Clark, psicologo britanico que desarrollo uno de los modelos más influyentes del trastorno de panico, propone que los ataques de panico se mantienen a traves de un ciclo de retroalimentación: una sensación física normal (un ligero aumento del ritmo cardiaco) se interpreta catastroficamente (algo va muy mal con mi corazón), esa interpretación catastrofica activa más ansiedad, que produce más activación fisiologica (taquicardia más intensa), que se interpreta como confirmación de la catastrofe, cerrando el ciclo. El panico, segun este modeló, no es una señal de que algo este realmente mal con el cuerpo. Es el resultado de la interpretación catastrofica de sensaciones normales del sistema nervioso autonomo.
+**El Principio del Ciclo de Retroalimentación del Panico:** David Clark, psicologo britanico que desarrollo uno de los modelos más influyentes del trastorno de panico, propone que los ataques de panico se mantienen a traves de un ciclo de retroalimentación: una sensación física normal (un ligero aumento del ritmo cardiaco) se interpreta catastroficamente (algo va muy mal con mi corazón), esa interpretación catastrofica activa más ansiedad, que produce más activación fisiologica (taquicardia más intensa), que se interpreta como confirmación de la catastrofe, cerrando el ciclo. El panico, segun este modelo, no es una señal de que algo este realmente mal con el cuerpo. Es el resultado de la interpretación catastrofica de sensaciones normales del sistema nervioso autonomo.
 
 Esta comprensión es en si misma terapeutica: saber que las sensaciones del panico, aunque intensamente desagradables, no son peligrosas físicamente, reduce parcialmente el componente de miedo al miedo que mantiene el ciclo activo.
 
@@ -69,7 +69,7 @@ Isabel nota que su ansiedad no ocurre uniformemente. Se dispara especialmente en
 
 La terapia cognitiva, y su extensión la terapia cognitivo-conductual (TCC), que tiene la base de evidencia más sólida de cualquier intervención psicológica para los trastornos de ansiedad, trabaja directamente con estos patrones de pensamiento. No para producir pensamiento positivo irreal, sino para producir pensamiento más equilibrado y calibrado con la evidencia real disponible.
 
-**Ejercicio inmediato:** Identifica el pensamiento específico que genera tu mayor ansiedad actualmente. Luego aplica tres preguntas cognitivas: cual es la evidencia real de que ese pensamiento es verdad? Cual es la alternativa de interpretación más equilibrada que podría ser igualmente cierta? Si el evento temido ocurriera, podría manejarlo (aunque mal)?
+**Ejercicio inmediato:** Identifica el pensamiento específico que genera tu mayor ansiedad actualmente. Luego aplica tres preguntas cognitivas: ¿cual es la evidencia real de que ese pensamiento es verdad? ¿Cual es la alternativa de interpretación más equilibrada que podría ser igualmente cierta? Si el evento temido ocurriera, podría manejarlo (aunque mal)?
 
 Tu ansiedad no vive en el mundo. Vive en tu interpretación del mundo. Esa es una muy buena noticia.
 
@@ -153,7 +153,7 @@ Isabel ha cambiado su relación con la ansiedad. Ya no la trata cómo una señal
 
 La meta no es no sentir ansiedad. Es desarrollar la capacidad de actuar a pesar de ella cuando la acción importa, y de calibrar la respuesta de ansiedad para que sea proporcional a las amenazas reales en lugar de responder con la misma intensidad a todas las posibilidades imaginadas.
 
-**Ejercicio inmediato:** La próxima vez que sientas ansiedad ante una situación, preguntate: que valor mio esta en juego aquí? Que me dice esta ansiedad sobre lo que me importa? Esta pregunta no elimina la ansiedad pero le da un significado que transforma la relación con ella de lucha a diálogo.
+**Ejercicio inmediato:** La próxima vez que sientas ansiedad ante una situación, preguntate: ¿que valor mio esta en juego aquí? ¿Que me dice esta ansiedad sobre lo que me importa? Esta pregunta no elimina la ansiedad pero le da un significado que transforma la relación con ella de lucha a diálogo.
 
 La ansiedad no es un defecto de carácter. Es la señal de que te importa algo. El problema solo ocurre cuando esa señal es proporcional al temor y no a la realidad.
 

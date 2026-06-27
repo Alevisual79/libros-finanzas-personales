@@ -34,7 +34,7 @@ Los ladrones de tiempo modernos no entran por la ventana. Te las dan con una son
 
 Las aplicaciones más populares del mundo no son populares por accidente. Son populares por diseño.
 
-**El modeló de negocio:**
+**El modelo de negocio:**
 La mayoría de aplicaciones gratuitas venden publicidad. Los ingresos publicitarios dependen del tiempo que los usuarios pasan en la aplicación. El incentivo: maximizar el tiempo de atención.
 
 **Las técnicas:**
@@ -176,7 +176,7 @@ No lo apagaba. No lo dejaba boca abajo. Lo guardaba en el cajón, fuera de la vi
 
 En esas dos horas, Isabel producía más que en cualquier período de dos horas anterior. Las notificaciones esperaban. El mundo no se acababa.
 
-Al final del experimento de dos semanas, no quería volver al modeló anterior. El cajón paso a ser la posición normal del teléfono durante las horas de trabajo importante.
+Al final del experimento de dos semanas, no quería volver al modelo anterior. El cajón paso a ser la posición normal del teléfono durante las horas de trabajo importante.
 
 ---
 

@@ -25,7 +25,7 @@ Este libro explora El cientifico de datos aumentado desde la perspectiva prácti
 
 Como la IA esta cambiando el trabajo de quienes trabajan con datos es uno de los dominios donde la IA ofrece mayor valor inmediato para los profesionales del conocimiento.
 
-La combinación de herramientas accesibles y capacidades crecientes ha democratizado el trabajo con datos de una forma que habria parecido imposible hace cinco años.
+La combinación de herramientas accesibles y capacidades crecientes ha democratizado el trabajo con datos de una forma que habría parecido imposible hace cinco años.
 
 ---
 

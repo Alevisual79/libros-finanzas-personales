@@ -23,9 +23,9 @@ Isabel tiene cincuenta y dos años, ha leido los libros correctos, sabe la teori
 
 El bienestar emocional no es estar contento todo el tiempo. Esta definición es tan incorrecta que activamente daña a las personas que la adoptan como estandar.
 
-**El Principio del Bienestar como Funcionamiento Pleno, no como Estado Hedónico Constante:** Martin Seligman propone el modeló PERMA: Emociones Positivas, Compromiso (engagement), Relaciones positivas, Significado, y Logro como los cinco componentes del bienestar. Este modeló multidimensional captura que el bienestar no es sinónimo de la ausencia de emociones negativas.
+**El Principio del Bienestar como Funcionamiento Pleno, no como Estado Hedónico Constante:** Martin Seligman propone el modelo PERMA: Emociones Positivas, Compromiso (engagement), Relaciones positivas, Significado, y Logro como los cinco componentes del bienestar. Este modelo multidimensional captura que el bienestar no es sinónimo de la ausencia de emociones negativas.
 
-Carol Ryff propone seis dimensiones del bienestar psicológico: autoaceptación, relaciones positivas, autonomía, dominio del entorno, proposito en la vida, y crecimiento personal. Este modeló incluye explicitamente dimensiones de funcionamiento que van más allá del placer.
+Carol Ryff propone seis dimensiones del bienestar psicológico: autoaceptación, relaciones positivas, autonomía, dominio del entorno, proposito en la vida, y crecimiento personal. Este modelo incluye explicitamente dimensiones de funcionamiento que van más allá del placer.
 
 **Ejercicio inmediato:** Evalua tu bienestar usando las seis dimensiones de Ryff de uno a diez. El perfil que emerge muestra tus fortalezas actuales y las áreas que más necesitan atención: donde el trabajo tiene mayor potencial de mejora del bienestar.
 
@@ -69,7 +69,7 @@ Ruben se pregunta si su vida tiene suficiente significado. Esta pregunta tiene c
 
 Michael Steger de la Colorado State University propone que el significado tiene dos componentes: la comprensión (sentir que la propia vida tiene coherencia) y el proposito (sentir que se tiene metas hacía las que trabajar y que la propia existencia importa). Ambas dimensiones se asocian de forma independiente con mayor bienestar.
 
-**Ejercicio inmediato:** Responde estas tres preguntas: que es lo que más me importa en mi vida (no lo que creo que debería importarme)? Que hago con suficiente frecuencia que exprese eso? Hay una brecha entre lo que más me importa y como gasto mi tiempo y energía? Si la respuesta a la tercera es si, esa brecha es el trabajo más urgente de significado que tienes pendiente.
+**Ejercicio inmediato:** Responde estas tres preguntas: ¿que es lo que más me importa en mi vida (no lo que creo que debería importarme)? ¿Que hago con suficiente frecuencia que exprese eso? Hay una brecha entre lo que más me importa y como gasto mi tiempo y energía? Si la respuesta a la tercera es si, esa brecha es el trabajo más urgente de significado que tienes pendiente.
 
 Una vida ocupada sin significado es agotamiento. Una vida con significado tolera la ocupación sin perder el hilo.
 
@@ -83,7 +83,7 @@ Isabel es muy dura consigo misma cuando no llega al nivel que se propone. Esta d
 
 La investigación de Neff muestra que las personas con mayor autocompasión tienen mayor bienestar emocional, mayor resiliencia ante el fracaso, mayor capacidad de aprendizaje del error, y menor procrastinación. La autocompasión es uno de los factores de bienestar con mayor soporte empirico disponible.
 
-**Ejercicio inmediato:** Para esta semana, cuando cometas un error o no alcances un objetivo, práctica la respuesta autocompasiva en tres pasos: reconoce el malestar (esto duele), situa el error en la experiencia humana común (equivocarse es parte de ser humano), y formula una respuesta de cuidado genuino (que necesito ahora para seguir adelante?).
+**Ejercicio inmediato:** Para esta semana, cuando cometas un error o no alcances un objetivo, práctica la respuesta autocompasiva en tres pasos: ¿reconoce el malestar (esto duele), situa el error en la experiencia humana común (equivocarse es parte de ser humano), y formula una respuesta de cuidado genuino (que necesito ahora para seguir adelante?).
 
 La dureza contigo mismo no te hace mejor. Te hace más asustado. Y el miedo es un mal motor para la vida que quieres tener.
 
@@ -97,7 +97,7 @@ Ruben quiere ser más resiliente emocionalmente pero no tiene claro que signific
 
 Richard Davidson identifica que el cortex prefrontal izquierdo juega un papel crucial en la velocidad de recuperación emocional y que esta activación puede modificarse con práctica deliberada: meditación de mindfulness y ejercicio aerobico regular. Sus investigaciones con meditadores experimentados muestran diferencias estructurales y funcionales significativas en regiones cerebrales relacionadas con la regulación emocional.
 
-**Ejercicio inmediato:** Evalua tu patron de resiliencia en situaciones difíciles recientes: cuando algo malo ocurre, cuanto tiempo sueles tardar en recuperar un nivel de funcionamiento normal? Ese tiempo es tu linea base actual. La meta es reducirlo progresivamente con práctica deliberada, no llegar a cero.
+**Ejercicio inmediato:** Evalua tu patron de resiliencia en situaciones difíciles recientes: ¿cuando algo malo ocurre, cuanto tiempo sueles tardar en recuperar un nivel de funcionamiento normal? Ese tiempo es tu linea base actual. La meta es reducirlo progresivamente con práctica deliberada, no llegar a cero.
 
 La resiliencia no es no sentir. Es volver a funcionar antes. Y antes es siempre entrenable.
 
@@ -125,7 +125,7 @@ Ruben ha llegado a valorar la riqueza emocional de su vida más que la constanci
 
 Susan Cain, en Bittersweet, propone que la bittersweetness (la mezcla de alegria y tristeza, de lo bello y lo efimero) es una de las experiencias más ricas y más profundamente humanas, que las culturas contemporaneas tienden a suprimir en favor del positivismo obligatorio. Las obras de arte y la musica que más conectan profundamente con las personas frecuentemente incorporan esta calidad agridulce.
 
-**Ejercicio inmediato:** Identifica una experiencia emocional compleja de tu pasado que te ha producido crecimiento o comprensión que no habrias tenido sin ella. Reflexiona: ese crecimiento habria sido posible con una vida emocionalmente más plana? La respuesta ilumina por qué el bienestar real no puede ser solo la maximización de las emociones positivas.
+**Ejercicio inmediato:** Identifica una experiencia emocional compleja de tu pasado que te ha producido crecimiento o comprensión que no habrías tenido sin ella. Reflexiona: ¿ese crecimiento habría sido posible con una vida emocionalmente más plana? La respuesta ilumina por qué el bienestar real no puede ser solo la maximización de las emociones positivas.
 
 Una vida sin emociones complejas es cómo un libro sin conflicto. técnicamente puede existir. Pero nadie quiere leerlo.
 
@@ -161,7 +161,7 @@ El bienestar emocional no es la ausencia de problemas. Es la capacidad de seguir
 
 ## Epílogo
 
-Isabel hizo la evaluación honesta. No salió bien en todas las dimensiones. Habia áreas donde el bienestar que creía tener era más teoria que práctica. Pero esa evaluación honesta, que un año antes habria producido decepción paralizante, esta vez produjó algo diferente: un plan. No un plan perfecto sino un plan real, con los primeros pasos identificados y con la comprensión de que el trabajo no termina hoy sino que simplemente empieza desde aquí. Eso, el bienestar como práctica viva en lugar de como meta alcanzada, era la diferencia entre saber la teoria y vivir desde ella.
+Isabel hizo la evaluación honesta. No salió bien en todas las dimensiones. Habia áreas donde el bienestar que creía tener era más teoria que práctica. Pero esa evaluación honesta, que un año antes habría producido decepción paralizante, esta vez produjó algo diferente: un plan. No un plan perfecto sino un plan real, con los primeros pasos identificados y con la comprensión de que el trabajo no termina hoy sino que simplemente empieza desde aquí. Eso, el bienestar como práctica viva en lugar de como meta alcanzada, era la diferencia entre saber la teoria y vivir desde ella.
 
 ---
 

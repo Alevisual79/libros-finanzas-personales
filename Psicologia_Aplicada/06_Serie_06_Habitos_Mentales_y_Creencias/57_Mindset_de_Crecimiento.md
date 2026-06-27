@@ -15,19 +15,19 @@
 
 ## Prólogo
 
-Isabel era buena en matemáticas en primaria. Cuando llegó a secundaria, un profesor dijo delante de la clase que había personas con cabeza para las matemáticas y personas sin ella. Isabel estaba entre las segundas. Dejo de intentarlo. Treinta años después, trabaja en recursos humanos y calcula mentalmente que si hubiera continuado con las matemáticas, probablemente habria llegado a ser muy buena. La historia de Isabel es la historia del mindset fijo en acción: una creencia sobre las capacidades como algo innato que tiene el poder de determinar el recorrido de una vida entera. Este libro es sobre la alternativa, que la investigación muestra que produce trayectorias completamente diferentes.
+Isabel era buena en matemáticas en primaria. Cuando llegó a secundaria, un profesor dijo delante de la clase que había personas con cabeza para las matemáticas y personas sin ella. Isabel estaba entre las segundas. Dejo de intentarlo. Treinta años después, trabaja en recursos humanos y calcula mentalmente que si hubiera continuado con las matemáticas, probablemente habría llegado a ser muy buena. La historia de Isabel es la historia del mindset fijo en acción: una creencia sobre las capacidades como algo innato que tiene el poder de determinar el recorrido de una vida entera. Este libro es sobre la alternativa, que la investigación muestra que produce trayectorias completamente diferentes.
 
 ---
 
 ## Capítulo 1: El descubrimiento de Carol Dweck
 
-Todo empezó con una pregunta simple sobre como los ninos responden al fracaso.
+Todo empezó con una pregunta simple sobre como los niños responden al fracaso.
 
-**El Principio de los Dos Mindsets como Variable Explicativa del Rendimiento:** Carol Dweck, psicóloga de Stanford, empezó su investigación observando la reacción de diferentes ninos ante los problemas difíciles. Algunos respondian con más interés y esfuerzo. Otros se desmoronaban. Buscando explicar la diferencia, no encontró que los que respondian bien fueran más inteligentes: encontró que tenían creencias diferentes sobre la inteligencia.
+**El Principio de los Dos Mindsets como Variable Explicativa del Rendimiento:** Carol Dweck, psicóloga de Stanford, empezó su investigación observando la reacción de diferentes niños ante los problemas difíciles. Algunos respondian con más interés y esfuerzo. Otros se desmoronaban. Buscando explicar la diferencia, no encontró que los que respondian bien fueran más inteligentes: encontró que tenían creencias diferentes sobre la inteligencia.
 
 Los que respondian mal creían que la inteligencia es fija: tienes la que tienes, y el desafio revela cuanta tienes. Los que respondian bien creían que la inteligencia es maleable: los desafios y el esfuerzo la desarrollan. Dweck llamó a estas dos formas de relacionarse con las propias capacidades mindset fijo y mindset de crecimiento, y sus investigaciones muestran que esta diferencia predice el rendimiento académico, profesional, y deportivo de forma robusta.
 
-**Ejercicio inmediato:** Reflexiona sobre una capacidad específica que tienes (liderazgo, escritura, habilidad social, matemáticas, creatividad, deporte). Cuando piensas en esa capacidad, la ves como algo que tienes en cierta medida y que no cambia mucho (fijo) o como algo que puedes desarrollar con práctica y esfuerzo (crecimiento)? Identificar tu mindset en dominios específicos es el primer paso.
+**Ejercicio inmediato:** Reflexiona sobre una capacidad específica que tienes (liderazgo, escritura, habilidad social, matemáticas, creatividad, deporte). ¿Cuando piensas en esa capacidad, la ves como algo que tienes en cierta medida y que no cambia mucho (fijo) o como algo que puedes desarrollar con práctica y esfuerzo (crecimiento)? Identificar tu mindset en dominios específicos es el primer paso.
 
 La historia que te cuentas sobre si puedes crecer en un área determina si lo intentas. Y si lo intentas determina si lo consigues.
 
@@ -41,7 +41,7 @@ Ruben tiene mindset fijo en varias áreas importantes de su vida. Entender las c
 
 La paradoja del mindset fijo es que la misma creencia que intenta proteger la imagen de competencia produce el comportamiento que limita el desarrollo real de competencia.
 
-**Ejercicio inmediato:** Para un área de tu vida donde tienes mindset fijo, reflexiona sobre estos indicadores: evitas los desafios en esa área? Abandons cuando encuentras dificultades? Te produce ansiedad recibir crítica en esa área? Si reconoces estos patrones, eso es el costo concreto del mindset fijo en tu vida.
+**Ejercicio inmediato:** Para un área de tu vida donde tienes mindset fijo, reflexiona sobre estos indicadores: ¿evitas los desafios en esa área? ¿Abandons cuando encuentras dificultades? Te produce ansiedad recibir crítica en esa área? Si reconoces estos patrones, eso es el costo concreto del mindset fijo en tu vida.
 
 El mindset fijo no te protege de parecer incapaz. Solo te impide desarrollar la capacidad.
 
@@ -65,13 +65,13 @@ El desafio del que huyes cuando tienes mindset fijo es frecuentemente el que má
 
 Los padres de Isabel siempre le dijeron que era muy inteligente. Le sorprendio descubrir que ese tipo de elogio puede haber contribuido a su mindset fijo.
 
-**El Principio del Elogio del Talento como Generador de Mindset Fijo:** Dweck y colegas realizaron experimentos con ninos que demuestran el efecto del tipo de elogio sobre el mindset. Los ninos elogiados por su inteligencia (eres muy inteligente) mostraron después menor disposición a asumir desafios, menor persistencia ante las dificultades, y peores resultados que los elogiados por su esfuerzo (trabajaste muy duro en eso). El elogio del talento instala la creencia de que la capacidad es fija: si eres inteligente de forma innata, los desafios podrían revelar los límites de esa inteligencia.
+**El Principio del Elogio del Talento como Generador de Mindset Fijo:** Dweck y colegas realizaron experimentos con niños que demuestran el efecto del tipo de elogio sobre el mindset. Los niños elogiados por su inteligencia (eres muy inteligente) mostraron después menor disposición a asumir desafios, menor persistencia ante las dificultades, y peores resultados que los elogiados por su esfuerzo (trabajaste muy duro en eso). El elogio del talento instala la creencia de que la capacidad es fija: si eres inteligente de forma innata, los desafios podrían revelar los límites de esa inteligencia.
 
 Este hallazgo tiene implicaciones para el liderazgo, la educación, y la crianza: la forma en que se dan elogios y retroalimentación modula directamente el mindset.
 
-**Ejercicio inmediato:** Reflexiona sobre los elogios que recibiste en la infancia en áreas importantes: fueron principalmente elogios del talento (eres muy bueno en esto) o del proceso (trabajaste mucho en esto, mejoraste mucho, encontraste una estrategia muy creativa)? Esta reflexión puede iluminar el origen de tu mindset en esas áreas.
+**Ejercicio inmediato:** Reflexiona sobre los elogios que recibiste en la infancia en áreas importantes: ¿fueron principalmente elogios del talento (eres muy bueno en esto) o del proceso (trabajaste mucho en esto, mejoraste mucho, encontraste una estrategia muy creativa)? Esta reflexión puede iluminar el origen de tu mindset en esas áreas.
 
-El elogio que te dieron de nino sobre quien eras moldeo la creencia sobre quien podias llegar a ser.
+El elogio que te dieron de niño sobre quien eras moldeo la creencia sobre quien podías llegar a ser.
 
 ---
 
@@ -97,7 +97,7 @@ Isabel ha empezado a aplicar el mindset de crecimiento en su trabajo y nota que 
 
 El efecto del líder es especialmente potente: los líderes con mindset de crecimiento crean entornos donde los empleados se sienten más seguros de asumir riesgos, admitir errores, y aprender, lo que produce mayor creatividad y mayor rendimiento a largo plazo.
 
-**Ejercicio inmediato:** En tu contexto de trabajo, reflexiona: el ambiente que existe (creado por ti o por el equipo) apoya el aprendizaje y la experimentación o penaliza el error? Una acción concreta que podrías tomar para crear más espacio para el aprendizaje: dar retroalimentación sobre el proceso ademas del resultado, celebrar explicitamente un error que produjó un aprendizaje, o asumir públicamente un riesgo calculado.
+**Ejercicio inmediato:** En tu contexto de trabajo, reflexiona: ¿el ambiente que existe (creado por ti o por el equipo) apoya el aprendizaje y la experimentación o penaliza el error? Una acción concreta que podrías tomar para crear más espacio para el aprendizaje: dar retroalimentación sobre el proceso ademas del resultado, celebrar explicitamente un error que produjó un aprendizaje, o asumir públicamente un riesgo calculado.
 
 Una cultura que penaliza el error no produce menos errores. Produce menos aprendizaje.
 
@@ -111,7 +111,7 @@ Ruben había asumido que las personas con quienes tiene dificultades relacionale
 
 La investigación sobre el perdon de Enright y colegas muestra que el mindset de crecimiento sobre la capacidad de cambio de las personas se asocia con mayor disposición al perdon y mejores outcomes relacionales.
 
-**Ejercicio inmediato:** Para una persona en tu vida con quien tienes tensión cronica, reflexiona: que creencias tienes sobre si esa persona puede cambiar? Si la creencia es fija (es asi y no cambiara), que pasaria si la sustituyes por una de crecimiento (las personas cambian en las circunstancias correctas)? La segunda creencia no garantiza el cambio del otro pero si cambia como te relacionas con el.
+**Ejercicio inmediato:** Para una persona en tu vida con quien tienes tensión cronica, reflexiona: ¿que creencias tienes sobre si esa persona puede cambiar? ¿Si la creencia es fija (es asi y no cambiara), que pasaria si la sustituyes por una de crecimiento (las personas cambian en las circunstancias correctas)? La segunda creencia no garantiza el cambio del otro pero si cambia como te relacionas con el.
 
 La persona que es asi y siempre será asi existe en tu mente. En la realidad, las personas cambian cuando el contexto cambia.
 
@@ -139,7 +139,7 @@ Ruben tiene una relación ambivalente con el esfuerzo: a veces lo celebra, a vec
 
 La investigación de Angela Duckworth sobre el grit (la combinación de pasión y perseverancia a largo plazo) muestra que el esfuerzo sostenido en la dirección correcta, guiado por una pasión genuina y estrategias de práctica deliberada, predice el logró mejor que el talento innato. El talento multiplicado por el esfuerzo produce logró, y el esfuerzo cuenta dos veces en esa ecuación.
 
-**Ejercicio inmediato:** Para un objetivo que te importa y donde el progreso es lento, reflexiona: el esfuerzo que estas invirtiendo esta guiado por estrategias deliberadas de mejora o es esfuerzo sin reflexión sobre como mejorar? El primero produce crecimiento. El segundo es trabajo duro sin aprendizaje.
+**Ejercicio inmediato:** Para un objetivo que te importa y donde el progreso es lento, reflexiona: ¿el esfuerzo que estas invirtiendo esta guiado por estrategias deliberadas de mejora o es esfuerzo sin reflexión sobre como mejorar? El primero produce crecimiento. El segundo es trabajo duro sin aprendizaje.
 
 El esfuerzo sin estrategia produce agotamiento. El esfuerzo con práctica deliberada produce maestria.
 
@@ -149,7 +149,7 @@ El esfuerzo sin estrategia produce agotamiento. El esfuerzo con práctica delibe
 
 Isabel ha llegado al final del libro con una perspectiva diferente sobre las capacidades que tiene y las que puede desarrollar.
 
-**El Principio del Mindset de Crecimiento como Postura Ante la Vida:** Dweck propone que el mindset de crecimiento, en su forma más desarrollada, es más que una creencia sobre las capacidades: es una orientación general ante la vida que pregunta ante cualquier situación que puedo aprender aquí? en lugar de que dice esto sobre mis capacidades permanentes? Esta orientación produce una relación diferente con el fracaso, con la crítica, con los desafios, y con los otros.
+**El Principio del Mindset de Crecimiento como Postura Ante la Vida:** Dweck propone que el mindset de crecimiento, en su forma más desarrollada, es más que una creencia sobre las capacidades: ¿es una orientación general ante la vida que pregunta ante cualquier situación que puedo aprender aquí? en lugar de que dice esto sobre mis capacidades permanentes? Esta orientación produce una relación diferente con el fracaso, con la crítica, con los desafios, y con los otros.
 
 La investigación longitudinal de Dweck muestra que las personas con mayor mindset de crecimiento tienen mayor bienestar a largo plazo, mejores relaciones, mayor logró en sus dominios de interés, y mayor capacidad de recuperación ante la adversidad.
 

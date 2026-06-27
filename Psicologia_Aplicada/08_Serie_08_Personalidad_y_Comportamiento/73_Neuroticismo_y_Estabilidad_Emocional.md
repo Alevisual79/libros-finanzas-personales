@@ -27,7 +27,7 @@ El neuroticismo no es dramatismo ni debilidad. Es un rasgo con bases biologicas 
 
 La investigación neurobiologica de Jeffrey Gray y colegas identifica el sistema de inhibición conductual (BIS, Behavioral Inhibition System) como el sustrato neurológico del neuroticismo: un sistema que responde a señales de amenaza, novedad, y frustración con mayor activación y que produce la tendencia a la preocupación, la evitación, y la hipervigilancia caracteristicas del neuroticismo alto.
 
-**Ejercicio inmediato:** Reflexiona sobre tu patron de reactividad emocional: con que frecuencia experimentas emociones negativas moderadas o intensas durante la semana? Cuanto tiempo tardas en recuperarte de un evento estresante? Si la frecuencia es alta y la recuperación lenta, eso es el patron del neuroticismo alto. Nombrar el patron es el primer paso para gestionarlo.
+**Ejercicio inmediato:** Reflexiona sobre tu patron de reactividad emocional: ¿con que frecuencia experimentas emociones negativas moderadas o intensas durante la semana? ¿Cuanto tiempo tardas en recuperarte de un evento estresante? Si la frecuencia es alta y la recuperación lenta, eso es el patron del neuroticismo alto. Nombrar el patron es el primer paso para gestionarlo.
 
 El neuroticismo que has llamado dramatismo es un sistema nervioso más sensible al estres. No es un defecto de carácter.
 
@@ -55,7 +55,7 @@ Isabel tiene conflictos relacionales que se repiten de formas que le resultan fa
 
 Esto no significa que las personas con neuroticismo alto sean imposibles en las relaciones: significa que sus relaciones requieren mayor comunicación explícita (porque el neuroticismo alto produce más interpretaciones erroneas), mayor tolerancia a la incertidumbre sobre el estado de la relación, y parejas o amigos con capacidad para la comunicación afectiva directa.
 
-**Ejercicio inmediato:** En la próxima situación relacional donde te sientas herido o enfadado por el comportamiento del otro, práctica la verificación antes de la reacción: antes de asumir que el comportamiento del otro tenía la intención negativa que has interpretado, pregunta directamente: cuando dijiste X, que quisiste decir? La respuesta frecuentemente es diferente de la interpretación del neuroticismo.
+**Ejercicio inmediato:** En la próxima situación relacional donde te sientas herido o enfadado por el comportamiento del otro, práctica la verificación antes de la reacción: antes de asumir que el comportamiento del otro tenía la intención negativa que has interpretado, pregunta directamente: ¿cuando dijiste X, que quisiste decir? La respuesta frecuentemente es diferente de la interpretación del neuroticismo.
 
 El neuroticismo que interpreta el peor caso en las relaciones frecuentemente lo crea. La verificación interrumpe ese ciclo.
 
@@ -69,7 +69,7 @@ Elena tiene baja puntuación en neuroticismo (alta estabilidad emocional). Eso t
 
 La investigación de Paul Ekman sobre las microexpresiones y la conciencia emocional muestra que la capacidad de leer las emociones propias y ajenas es una habilidad separable de la estabilidad emocional: se puede tener alta estabilidad y baja conciencia emocional, lo que produce un deficit diferente del neuroticismo pero igualmente costoso en las relaciones.
 
-**Ejercicio inmediato:** Si eres estable emocionalmente y a veces recibes la retroalimentación de que no entiendes o no validas el sufrimiento de otros, práctica la pregunta de curiosidad en lugar del consejo inmediato: cuando alguien comparte dificultades contigo, antes de ofrecer soluciones, pregunta: como te esta afectando eso? Esa pregunta invita al otro a ser escuchado antes de ser solucionado.
+**Ejercicio inmediato:** Si eres estable emocionalmente y a veces recibes la retroalimentación de que no entiendes o no validas el sufrimiento de otros, práctica la pregunta de curiosidad en lugar del consejo inmediato: cuando alguien comparte dificultades contigo, antes de ofrecer soluciones, pregunta: ¿como te esta afectando eso? Esa pregunta invita al otro a ser escuchado antes de ser solucionado.
 
 La estabilidad emocional que no siente el sufrimiento propio no lo elimina. Solo lo hace invisible hasta que es grande.
 
@@ -83,7 +83,7 @@ Ruben busca estrategias específicas para reducir el impacto de su neuroticismo 
 
 La investigación de Kevin Ochsner y James Gross con neuroimagen muestra que la reevaluación cognitiva activa el cortex prefrontal (la regulación top-down) y reduce la actividad de la amigdala. Esta regulación puede entrenarse: la psicoterapia cognitiva y el mindfulness producen cambios medibles en la capacidad de regulación emocional que se asocian con reducciones en el neuroticismo a lo largo del tiempo.
 
-**Ejercicio inmediato:** La próxima vez que experimentes una emoción negativa intensa, práctica la reevaluación cognitiva en tres pasos: identifica el pensamiento automático que produce la emoción (si X entonces Y, por ejemplo si me crítica significa que soy incompetente), evalua la evidencia (es eso absolutamente cierto? existe evidencia contraria?), y genera una interpretación alternativa más equilibrada (puede que su crítica sea sobre esa tarea específica, no sobre mi competencia global). Ese proceso interrumpe la automaticidad del neuroticismo.
+**Ejercicio inmediato:** La próxima vez que experimentes una emoción negativa intensa, práctica la reevaluación cognitiva en tres pasos: ¿identifica el pensamiento automático que produce la emoción (si X entonces Y, por ejemplo si me crítica significa que soy incompetente), evalua la evidencia (es eso absolutamente cierto? existe evidencia contraria?), y genera una interpretación alternativa más equilibrada (puede que su crítica sea sobre esa tarea específica, no sobre mi competencia global). Ese proceso interrumpe la automaticidad del neuroticismo.
 
 El neuroticismo no cambia con la voluntad. Cambia con la práctica repetida de regulación que entrena el prefrontal para modular la amigdala.
 
@@ -97,7 +97,7 @@ Isabel se preocupa por cosas que, sabe racionalmente, son poco probables. El neu
 
 La investigación muestra que la intolerancia a la incertidumbre (la dificultad para tolerar no saber como van a resultar las cosas) es la variable central que mantiene la preocupación cronica. Las personas con alta intolerancia a la incertidumbre se preocupan más porque la preocupación, aunque sea agotadora, es preferible a la incertidumbre de no saber.
 
-**Ejercicio inmediato:** Para tu preocupación más recurrente, reflexiona: que certeza específica esta buscando esta preocupación? (que el proyecto saldrá bien, que la relación es segura, que el futuro será predecible). Esa certeza no la puede dar la preocupación, que es exactamente su trampa. La alternativa es practicar la tolerancia a no saber: esto puede salir de distintas formas y puedo afrontar cualquiera de ellas.
+**Ejercicio inmediato:** Para tu preocupación más recurrente, reflexiona: ¿que certeza específica esta buscando esta preocupación? (que el proyecto saldrá bien, que la relación es segura, que el futuro será predecible). Esa certeza no la puede dar la preocupación, que es exactamente su trampa. La alternativa es practicar la tolerancia a no saber: esto puede salir de distintas formas y puedo afrontar cualquiera de ellas.
 
 La preocupación que buscas certeza nunca la encuentra. Siempre hay un nivel más de incertidumbre que necesita ser resuelto.
 
@@ -125,7 +125,7 @@ Isabel ha estado en terapia y ha mejorado su bienestar pero su nivel de reactivi
 
 La Terapia de Aceptación y Compromiso (ACT) de Steven Hayes trabaja explicitamente con esta distinción: no intenta reducir el neuroticismo (la sensibilidad emocional) sino cambiar la relación con las emociones negativas que el neuroticismo produce, reduciendo la evitación experiencial y aumentando la tolerancia al malestar.
 
-**Ejercicio inmediato:** Si has estado en terapia y todavia sientes el neuroticismo, reflexiona: ha cambiado la frecuencia o la intensidad de las emociones negativas? O ha cambiado principalmente lo que haces cuando las tienes? La segunda es el cambio más común y más duradero que produce la psicoterapia con el neuroticismo.
+**Ejercicio inmediato:** Si has estado en terapia y todavia sientes el neuroticismo, reflexiona: ¿ha cambiado la frecuencia o la intensidad de las emociones negativas? ¿O ha cambiado principalmente lo que haces cuando las tienes? La segunda es el cambio más común y más duradero que produce la psicoterapia con el neuroticismo.
 
 El neuroticismo no desaparece con la psicoterapia. Pero la relación que tienes con el puede cambiar completamente.
 

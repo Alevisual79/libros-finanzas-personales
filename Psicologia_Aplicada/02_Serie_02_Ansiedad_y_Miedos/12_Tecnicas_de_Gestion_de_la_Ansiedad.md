@@ -27,7 +27,7 @@ La mayoría de los recursos disponibles para la gestión de la ansiedad estan or
 
 David Barlow, fundador del Centro de Ansiedad y Trastornos Relacionados de Boston y uno de los investigadores más influyentes en trastornos de ansiedad, distingue entre tratamientos paliativos (que reducen el malestar sin abordar las causas) y tratamientos curativos (que modifican los mecanismos que generan y mantienen el problema). La investigación muestra consistentemente que los tratamientos curativos de la ansiedad (fundamentalmente la TCC con exposición) producen mejoras más duraderas que los paliativos solos.
 
-**Ejercicio inmediato:** Evalua las técnicas de manejo de ansiedad que ya usas: son principalmente paliativas (reducen el malestar temporal) o también incluyen alguna técnica de cambio (exposición a lo temido, cuestionamiento de creencias ansiosas)? Si son principalmente paliativas, este libro añade el componente que falta.
+**Ejercicio inmediato:** Evalua las técnicas de manejo de ansiedad que ya usas: ¿son principalmente paliativas (reducen el malestar temporal) o también incluyen alguna técnica de cambio (exposición a lo temido, cuestionamiento de creencias ansiosas)? Si son principalmente paliativas, este libro añade el componente que falta.
 
 Gestionar la ansiedad es diferente de cambiarla. Ambas cosas tienen valor, pero en proporciones distintas segun lo que necesitas.
 
@@ -67,7 +67,7 @@ Elena evita las situaciones que activan su ansiedad con tanto cuidado que ha red
 
 **El Principio de la Extinción mediante Exposición Controlada:** La exposición graduada trabaja con el mecanismo de extinción del condicionamiento del miedo: cuando el cerebro aprende que un estímulo que predecia peligro (por experiencia previa o por aprendizaje vicariol) no produce el daño anticipado, la respuesta condicionada de miedo se extingue gradualmente. Este proceso requiere que la exposición ocurra sin la respuesta de evitación (que impediria la extinción) y de forma graduada (comenzando por versiones menos intensas del estímulo temido).
 
-Michelle Craske, directora del laboratorio de ansiedad de UCLA y una de las investigadoras más influyentes en el tratamiento de fobias, ha refinado el modeló de exposición con el concepto de inhibición de recuperación: la exposición más efectiva no es aquella donde la ansiedad disminuye completamente durante la sesión (habituación) sino aquella donde la persona aprende que puede tolerar la ansiedad y que el resultado temido no ocurre (aprendizaje inhibitorio). La meta es tolerar, no eliminar.
+Michelle Craske, directora del laboratorio de ansiedad de UCLA y una de las investigadoras más influyentes en el tratamiento de fobias, ha refinado el modelo de exposición con el concepto de inhibición de recuperación: la exposición más efectiva no es aquella donde la ansiedad disminuye completamente durante la sesión (habituación) sino aquella donde la persona aprende que puede tolerar la ansiedad y que el resultado temido no ocurre (aprendizaje inhibitorio). La meta es tolerar, no eliminar.
 
 **Ejercicio inmediato:** Construye una jerarquía de exposición para tu mayor fuente de evitación ansiosa: lista diez situaciones relacionadas con ese miedo, de la menos a la más aterradora, y asignale una puntuación de ansiedad estimada del cero al cien. Empieza esta semana con la situación que puntuaste más bajo: la que activa incomodidad pero no terror. Eso es exposición graduada.
 

@@ -27,7 +27,7 @@ La idea de convertirse en la mejor versión de uno mismo puede ser la motivació
 
 Laura King investiga el mejor yo posible (possible selves): la investigación muestra que visualizar el mejor yo posible en áreas específicas de la vida produce efectos positivos en el bienestar y la motivación cuando va acompanado de expectativas realistas, pero efectos negativos cuando la brecha entre el yo actual y el yo posible se vive como fracaso en lugar de como dirección.
 
-**Ejercicio inmediato:** Reflexiona sobre tu relación con el concepto de mejor versión de ti mismo: cuando piensas en ella, lo que predomina es motivación (hay algo hacía donde quiero crecer) o juicio (no soy suficientemente bueno tal como soy)? Si predomina el juicio, el concepto esta funcionando como fuente de sufrimiento, no de crecimiento. Esa distinción es el primer paso para reformular la relación con el crecimiento personal.
+**Ejercicio inmediato:** Reflexiona sobre tu relación con el concepto de mejor versión de ti mismo: ¿cuando piensas en ella, lo que predomina es motivación (hay algo hacía donde quiero crecer) o juicio (no soy suficientemente bueno tal como soy)? Si predomina el juicio, el concepto esta funcionando como fuente de sufrimiento, no de crecimiento. Esa distinción es el primer paso para reformular la relación con el crecimiento personal.
 
 La mejor versión de ti mismo no es la que crítica quien eres hoy. Es la que te muestra hacía donde puedes crecer desde quien eres hoy.
 
@@ -55,7 +55,7 @@ Elena ha llegado a distinguir entre el desarrollo personal que la acerca más a 
 
 La investigación de Corey Keyes sobre el florecimiento (flourishing) muestra que el florecimiento humano no es la ausencia de problemas ni la optimización de todas las metricas sino la presencia de bienestar positivo (emocional, psicológico, y social) simultaneamente. Las personas que florecen no son perfectas ni estan constantemente creciendo en todas las áreas: tienen áreas de suficiencia que les permiten enfocar la energía de crecimiento donde genuinamente importa.
 
-**Ejercicio inmediato:** Reflexiona sobre las áreas de tu vida donde buscas mejora actualmente. Para cada una, reflexiona: busco mejora en esta área porque esta alineada con mis valores genuinos (crecimiento autentico) o porque la cultura o mi entorno me dice que debería mejorar aquí (optimización por presión externa)? No hay respuesta correcta universal, pero la distinción produce mayor claridad sobre donde invertir la energía limitada del cambio.
+**Ejercicio inmediato:** Reflexiona sobre las áreas de tu vida donde buscas mejora actualmente. Para cada una, reflexiona: ¿busco mejora en esta área porque esta alineada con mis valores genuinos (crecimiento autentico) o porque la cultura o mi entorno me dice que debería mejorar aquí (optimización por presión externa)? No hay respuesta correcta universal, pero la distinción produce mayor claridad sobre donde invertir la energía limitada del cambio.
 
 Crecer en lo que genuinamente importa produce florecimiento. Crecer en todo porque no puedes dejar de mejorar produce agotamiento disfrazado de éxito.
 
@@ -83,7 +83,7 @@ Isabel ha aprendido que su perfeccionismo no la ha llevado a su mejor versión. 
 
 La investigación de Brene Brown sobre la vulnerabilidad y la verguenza muestra que el perfeccionismo es frecuentemente una forma de armadura: el intento de gestionar la verguenza y el juicio de los demás haciendo el trabajo tan bueno que sea imposible criticar. El costo es que ese intento nunca funciona (el crítico interior nunca esta satisfecho) y que la armadura también impide la conexión genuina y el riesgo creativo.
 
-**Ejercicio inmediato:** Para un proyecto o área donde el perfeccionismo te ha impedido actuar o avanzar, reflexiona: cual es el mínimo que produciria valor real aunque no sea perfecto? La regla del suficientemente bueno no es la renuncia a los estandares: es el reconocimiento de que el estandar perfecto que bloquea la acción produce menos valor que el estandar suficientemente bueno que permite la acción.
+**Ejercicio inmediato:** Para un proyecto o área donde el perfeccionismo te ha impedido actuar o avanzar, reflexiona: ¿cual es el mínimo que produciria valor real aunque no sea perfecto? La regla del suficientemente bueno no es la renuncia a los estandares: es el reconocimiento de que el estandar perfecto que bloquea la acción produce menos valor que el estandar suficientemente bueno que permite la acción.
 
 El mejor trabajo que no haces por miedo a que no sea perfecto vale exactamente lo mismo que si no existiera: nada.
 
@@ -139,7 +139,7 @@ Ruben ha entendido que el crecimiento personal genuino tiene sus propios plazos,
 
 La investigación de K. Anders Ericsson sobre la expertise muestra que el nivel de excelencia en cualquier dominio complejo requiere al menos diez años de práctica deliberada, y que no hay atajos para ese proceso de desarrollo profundo aunque haya formas de hacerlo más eficiente.
 
-**Ejercicio inmediato:** Para el área de crecimiento personal más importante para ti, reflexiona: estoy invirtiendo el tiempo y la práctica sostenida que ese nivel de desarrollo realmente requiere, o estoy buscando el atajo que no existe? La respuesta honesta a esa pregunta te dice si tu estrategia de crecimiento esta calibrada con la realidad del proceso.
+**Ejercicio inmediato:** Para el área de crecimiento personal más importante para ti, reflexiona: ¿estoy invirtiendo el tiempo y la práctica sostenida que ese nivel de desarrollo realmente requiere, o estoy buscando el atajo que no existe? La respuesta honesta a esa pregunta te dice si tu estrategia de crecimiento esta calibrada con la realidad del proceso.
 
 El crecimiento que dura una vida no cabe en un mes. Pero un mes bien usado cabe en el crecimiento que dura una vida.
 
@@ -153,7 +153,7 @@ Elena ha llegado a entender que la mejor versión de si misma no es un lugar don
 
 La investigación de Carol Dweck sobre el mindset de crecimiento propone algo similar: las personas con mindset de crecimiento no creen que van a llegar a un punto de perfección sino que pueden seguir desarrollandose a lo largo de toda la vida, y esa creencia es la que produce el desarrollo más sostenido.
 
-**Ejercicio inmediato:** Reformula tu relación con la mejora personal: en lugar de en que necesito mejorar, práctica la pregunta en que dirección quiero crecer esta semana? La primera pregunta implica un deficit actual que debe corregirse (marcó de problema). La segunda implica un potencial que puede desarrollarse (marcó de posibilidad). El cambio de marcó cambia la experiencia del proceso sin cambiar el contenido.
+**Ejercicio inmediato:** Reformula tu relación con la mejora personal: ¿en lugar de en que necesito mejorar, práctica la pregunta en que dirección quiero crecer esta semana? La primera pregunta implica un deficit actual que debe corregirse (marcó de problema). La segunda implica un potencial que puede desarrollarse (marcó de posibilidad). El cambio de marcó cambia la experiencia del proceso sin cambiar el contenido.
 
 La mejor versión de ti mismo no es un yo diferente al que eres. Es el mismo yo, más alineado con lo que genuinamente importa.
 

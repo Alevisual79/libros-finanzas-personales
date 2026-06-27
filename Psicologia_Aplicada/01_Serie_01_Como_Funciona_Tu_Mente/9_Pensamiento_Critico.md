@@ -41,7 +41,7 @@ Isabel lee que las ciudades con más heladerias tienen más crimenes. Alguien en
 
 Bradford Hill, epidemiologo britanico, propuso en 1965 nueve criterios para evaluar si una correlación observada podría ser causal, incluyendo la temporalidad (la causa debe preceder al efecto), la dosis-respuesta (a mayor dosis, mayor efecto), la plausibilidad biológica, y la replicación en distintos estudios. Estos criterios no garantizan la causalidad pero proporcionan un marcó para evaluar su probabilidad mucho más riguroso que simplemente observar que dos cosas se correlacionan.
 
-**Ejercicio inmediato:** La próxima vez que leas que A se asocia con B, pregunta activamente: podría haber una variable confusora C que cause tanto A como B? Podria ser la dirección causal inversa (B causa A en lugar de A causa B)? Podria ser una coincidencia estadistica? Este habito de cuestionamiento cambia completamente la calidad del consumo de información.
+**Ejercicio inmediato:** La próxima vez que leas que A se asocia con B, pregunta activamente: ¿podría haber una variable confusora C que cause tanto A como B? ¿Podría ser la dirección causal inversa (B causa A en lugar de A causa B)? Podría ser una coincidencia estadistica? Este habito de cuestionamiento cambia completamente la calidad del consumo de información.
 
 Que dos cosas ocurran juntas no significa que una cause la otra. Este error de interpretación esta en la raiz de la mitad de las malas políticas públicas del siglo XX.
 
@@ -63,7 +63,7 @@ Saber que las falacias existen es conocimiento. Saber verlas cuando ocurren es h
 
 ## Capítulo 4: Evaluar fuentes: no toda autoridad es igual
 
-Ruben ve un titular que dice Estudio confirma que X. Antes de compartirlo, debería hacerse varias preguntas que raramente se hace: quien hizo el estudio? Fue publicado en una revista revisada por pares o en un blog? Cual fue la metodologia? El tamaño de muestra justifica la conclusión? Los medios de comunicación generalizaron una conclusión que el estudio original presentaba con muchas más restricciones?
+Ruben ve un titular que dice Estudio confirma que X. Antes de compartirlo, debería hacerse varias preguntas que raramente se hace: ¿quien hizo el estudio? ¿Fue publicado en una revista revisada por pares o en un blog? Cual fue la metodologia? ¿El tamaño de muestra justifica la conclusión? Los medios de comunicación generalizaron una conclusión que el estudio original presentaba con muchas más restricciones?
 
 **El Principio de la Evaluación de Fuentes por Criterios Explícitos:** El movimiento de alfabetización mediatica, representado por investigadores como Mike Caulfield de la Universidad de Washington, propone un conjunto de criterios concretos para evaluar la credibilidad de fuentes: verificar la fuente original antes de compartir (go upstream), buscar la cobertura que hace otras fuentes reconocidas del mismo evento (lateral reading), y distinguir entre el estudio original y la interpretación mediatica del mismo (que frecuentemente es significativamente diferente en precisión y cautela).
 
@@ -83,7 +83,7 @@ Isabel lee que un tratamiento médico tiene una eficacia del ochenta por ciento.
 
 Gigerenzen también documenta que los médicos, no solo los pacientes, frecuentemente no pueden interpretar correctamente estadisticas basicas de sensibilidad y especificidad de tests diagnosticos. La literacia estadistica no es un lujo académico. Es una herramienta de supervivencia en la toma de decisiones de salud, inversiones y política.
 
-**Ejercicio inmediato:** La próxima vez que leas una estadistica médica, financiera o social presentada como porcentaje, busca el denominador: porcentaje de que? Cual es el número base sobre el que se calcula ese porcentaje? La diferencia entre el impacto que parece y el impacto real frecuentemente vive en ese denominador que nadie menciona.
+**Ejercicio inmediato:** La próxima vez que leas una estadistica médica, financiera o social presentada como porcentaje, busca el denominador: ¿porcentaje de que? ¿Cual es el número base sobre el que se calcula ese porcentaje? La diferencia entre el impacto que parece y el impacto real frecuentemente vive en ese denominador que nadie menciona.
 
 Un porcentaje sin denominador es una opinión disfrazada de dato.
 
@@ -137,7 +137,7 @@ Ruben no sabe que piensa mal. El Efecto Dunning-Kruger dice que la incompetencia
 
 **El Principio de la Metacognición como Autocorrector Cognitivo:** John Flavell, psicologo que definio el concepto de metacognición en los años setenta, la describe como el conocimiento que una persona tiene sobre sus propios procesos cognitivos y la capacidad de regularlos. Las investigaciones sobre pensamiento crítico muestran consistentemente que los pensadores más rigurosos no son necesariamente los más inteligentes, sino los que tienen mejor metacognición: saben cuando no saben, reconocen cuando sus conclusiones podrían estar sesgadas, y ajustan activamente sus estrategias cognitivas en respuesta a esa conciencia.
 
-La práctica de la metacognición incluye preguntas como: en que tipo de razonamiento soy menos confiable? Que sesgos son más caracteristicos de mi estilo cognitivo? Cuando me siento más seguro de algo, esa seguridad esta justificada por la solidez de la evidencia o por mi familiaridad con la conclusión? Estas preguntas, practicadas regularmente, producen un autocorrector cognitivo que la seguridad sin reflexión no puede proporcionar.
+La práctica de la metacognición incluye preguntas como: ¿en que tipo de razonamiento soy menos confiable? ¿Que sesgos son más caracteristicos de mi estilo cognitivo? Cuando me siento más seguro de algo, esa seguridad esta justificada por la solidez de la evidencia o por mi familiaridad con la conclusión? Estas preguntas, practicadas regularmente, producen un autocorrector cognitivo que la seguridad sin reflexión no puede proporcionar.
 
 **Ejercicio inmediato:** Lleva durante una semana un diario cognitivo muy simple: al final de cada dia, anota un juicio, conclusión o decisión que tomaste y que ahora, con perspectiva de pocas horas, ves que podría haber sido mejor. No para juzgarte, sino para identificar los patrones en tus errores cognitivos típicos.
 
@@ -161,7 +161,7 @@ Un equipo que nunca se cuestiona a si mismo no esta pensando. Esta ejecutando su
 
 ## Epílogo
 
-Ruben implementó una práctica simple: antes de compartir cualquier información en sus redes profesionales, aplica un checklist de tres preguntas: he verificado la fuente original? He buscado evidencia contradictoria? Puedo distinguir lo que el estudio dice de lo que el titular dice que dice? En el primer mes, el resultado fue que compartio un noventa por ciento menos de información. En el segundo mes, lo que compartio era significativamente más preciso y útil para sus contactos. No era más ignorante. Era más preciso sobre la diferencia entre saber y creer saber.
+Ruben implementó una práctica simple: antes de compartir cualquier información en sus redes profesionales, aplica un checklist de tres preguntas: ¿he verificado la fuente original? ¿He buscado evidencia contradictoria? Puedo distinguir lo que el estudio dice de lo que el titular dice que dice? En el primer mes, el resultado fue que compartio un noventa por ciento menos de información. En el segundo mes, lo que compartio era significativamente más preciso y útil para sus contactos. No era más ignorante. Era más preciso sobre la diferencia entre saber y creer saber.
 
 ---
 

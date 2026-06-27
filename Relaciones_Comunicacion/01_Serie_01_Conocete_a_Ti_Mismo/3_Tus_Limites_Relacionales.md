@@ -45,9 +45,9 @@ Los límites no son el problema. La falta de límites siempre lo es.
 
 ## Capítulo 2: Por qué no sabemos poner límites
 
-Cuando Miguel era nino y decía que no quería abrazar a los familiares, su madre le decía no seas maleducado. Cuando se negaba a compartir sus juguetes, le decían que era egoista. Cuando expresaba que algo no le parecia justo, le decían que no fuera dramatico. Miguel aprendió que sus límites no eran validos. A los 40 años sigue sin saber como ponerlos.
+Cuando Miguel era niño y decía que no quería abrazar a los familiares, su madre le decía no seas maleducado. Cuando se negaba a compartir sus juguetes, le decían que era egoista. Cuando expresaba que algo no le parecia justo, le decían que no fuera dramatico. Miguel aprendió que sus límites no eran validos. A los 40 años sigue sin saber como ponerlos.
 
-**El Principio del Aprendizaje Condicionado:** No sabemos poner límites porque nos enseñaron que no teniamos derecho a tenerlos. Las familias que no respetan los límites de los ninos crean adultos que no saben ponerselos a si mismos ni pedirlos a los demás. Esto no es un fallo de carácter. Es el resultado predecible de un aprendizaje específico que se puede desaprender.
+**El Principio del Aprendizaje Condicionado:** No sabemos poner límites porque nos enseñaron que no teniamos derecho a tenerlos. Las familias que no respetan los límites de los niños crean adultos que no saben ponerselos a si mismos ni pedirlos a los demás. Esto no es un fallo de carácter. Es el resultado predecible de un aprendizaje específico que se puede desaprender.
 
 Nedra Tawwab, especialista en límites y terapeuta, senala que la mayoría de personas que acuden a terapia por relaciones disfuncionales tienen en común una historia en la que sus límites infantiles no fueron respetados o fueron activamente sancionados.
 
@@ -93,7 +93,7 @@ El resentimiento es el GPS de los límites no puestos. Cada vez que sientes que 
 
 Nedra Tawwab propone un ejercicio de revisión semanal: al final de cada semana, identificar las situaciones en que te has sentido resentido, utilizado o agotado. El patron que emerge en cuatro semanas revela sistemáticamente donde estan los límites ausentes.
 
-**Ejercicio inmediato:** Esta semana, cuando notes resentimiento o incomodidad en una interacción, para y preguntate: que límite no puse aquí? o que límite puse que no se respeto? Anota las respuestas. No actues todavia. El primer paso es ver el patron.
+**Ejercicio inmediato:** Esta semana, cuando notes resentimiento o incomodidad en una interacción, para y preguntate: ¿que límite no puse aquí? o que límite puse que no se respeto? Anota las respuestas. No actues todavia. El primer paso es ver el patron.
 
 Antes de poner un límite tienes que saber donde necesitas uno.
 
@@ -143,13 +143,13 @@ Un límite que no sostienes le enseña al otro que puede ignorarlo.
 
 ## Capítulo 9: Limites y amor: no son opuestos
 
-La madre de Ana le decía siempre: si de verdad me quisieras, no me hablarias asi. Si fueras buena hija, vendrias más. Si me amaras, no te pondrias de su lado. Ana creció creyendo que el amor verdadero significa no tener límites. Que cuidar a alguien significa estar disponible siempre. Que las personas que ponen límites no quieren de verdad.
+La madre de Ana le decía siempre: si de verdad me quisieras, no me hablarias asi. Si fueras buena hija, vendrías más. Si me amaras, no te pondrias de su lado. Ana creció creyendo que el amor verdadero significa no tener límites. Que cuidar a alguien significa estar disponible siempre. Que las personas que ponen límites no quieren de verdad.
 
 **El Principio del Limite como Acto de Amor:** Los límites no se oponen al amor. Los límites son una condición para que el amor sea sostenible. Una persona sin límites no puede amar de forma generosa porque todo lo que da viene cargado de resentimiento, agotamiento o expectativa de reciprocidad no comunicada. Los límites saludables permiten dar desde la elección, no desde la obligación. Y lo que se da desde la elección es genuino. Lo que se da desde el miedo al no querer, no lo es.
 
 Terrence Real dice que la mayoría de personas que dicen amarse pero tienen relaciones disfuncionales no tienen un problema de amor. Tienen un problema de límites. El amor esta. La estructura que lo contiene, no.
 
-**Ejercicio inmediato:** Piensa en alguien a quien quieres de verdad. Identifica un límite que necesitas poner con esa persona. Ahora preguntate: poner ese límite es un acto de amor o de desamor? La respuesta honesta cambia como te sientes al ponerlo.
+**Ejercicio inmediato:** Piensa en alguien a quien quieres de verdad. Identifica un límite que necesitas poner con esa persona. Ahora preguntate: ¿poner ese límite es un acto de amor o de desamor? La respuesta honesta cambia como te sientes al ponerlo.
 
 Quien más quieres es con quien más límites necesitas. No porque el amor lo exija. Sino porque la relación lo vale.
 

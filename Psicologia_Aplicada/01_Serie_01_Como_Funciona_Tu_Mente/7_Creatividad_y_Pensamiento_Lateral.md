@@ -51,11 +51,11 @@ La creatividad que no descansa no descubre. El cerebro necesita irse a otra part
 
 Isabel enfrenta un problema recurrente en su departamento de RRHH que ha intentado resolver con los enfoques convencionales durante tres años sin éxito. No se le ha ocurrido que el problema podría requerir no una mejor solución al enfoque actual sino un enfoque completamente diferente al problema.
 
-**El Principio del Pensamiento Lateral como Cambio de Marco:** Edward de Bono acunó el terminó pensamiento lateral en 1967 para describir el proceso de resolver problemas mediante enfoques indirectos e inesperados, en contraste con el pensamiento vertical o logico que avanza paso a paso dentro de un marcó dado. El pensamiento lateral no busca la mejor solución dentro del marcó actual del problema sino que cuestiona el marcó mismo: que supuesto estoy dando por sentado? Que pasaria si el problema estuviera mal formulado? Que solución sería obvia si no existiera la restricción que parece más inmovible?
+**El Principio del Pensamiento Lateral como Cambio de Marco:** Edward de Bono acunó el terminó pensamiento lateral en 1967 para describir el proceso de resolver problemas mediante enfoques indirectos e inesperados, en contraste con el pensamiento vertical o logico que avanza paso a paso dentro de un marcó dado. El pensamiento lateral no busca la mejor solución dentro del marcó actual del problema sino que cuestiona el marcó mismo: ¿que supuesto estoy dando por sentado? ¿Que pasaria si el problema estuviera mal formulado? Que solución sería obvia si no existiera la restricción que parece más inmovible?
 
 El pensamiento lateral es especialmente valioso para los problemas que llevan mucho tiempo sin resolver precisamente porque las soluciones convencionales ya se han probado. Si el enfoque logico y directo no ha funcionado después de multiples intentos, es una señal de que el problema requiere un cambio de perspectiva, no un refinamiento de los enfoques existentes.
 
-**Ejercicio inmediato:** Para un problema importante que tienes sin resolver, escribe en papel el supuesto más fundamental que das por sentado sobre ese problema. Luego preguntate: y si ese supuesto fuera incorrecto o eliminable? Que soluciones se verian posibles desde esa perspectiva alternativa?
+**Ejercicio inmediato:** Para un problema importante que tienes sin resolver, escribe en papel el supuesto más fundamental que das por sentado sobre ese problema. Luego preguntate: ¿y si ese supuesto fuera incorrecto o eliminable? ¿Que soluciones se verian posibles desde esa perspectiva alternativa?
 
 Un problema que lleva años sin resolverse no necesita más de lo mismo. Necesita que lo veas desde un ángulo donde no hayas mirado aun.
 
@@ -81,7 +81,7 @@ Ruben cree que la creatividad requiere libertad total: sin restricciones, sin pl
 
 **El Principio de la Restricción como Generadora de Creatividad:** Patricia Stokes, investigadora de la creatividad artistica en Columbia University, estudio como las restricciones que los artistas se imponian a si mismos (trabajar exclusivamente con un tema, una técnica, una paleta de colores) generaban soluciones creativas que la libertad total no había producido. Patricia Caludia Quintino, en su investigación sobre creatividad en organizaciones, encontró que los equipos con recursos limitados frecuentemente producian soluciones más innovadoras que los equipos con recursos abundantes, porque la escasez forzaba busqueda de soluciones no convencionales.
 
-Phil Hansen, artista que desarrollo un temblor parkinsoniano en la mano, tomó la restricción de no poder dibujar lineas precisas y la convirtió en un estilo artistico completamente nuevo. Su mensaje es directo: cuando la restricción es inevitable, la creatividad esta en encontrar que puedes hacer dentro de ella que nunca habrias hecho sin ella.
+Phil Hansen, artista que desarrollo un temblor parkinsoniano en la mano, tomó la restricción de no poder dibujar lineas precisas y la convirtió en un estilo artistico completamente nuevo. Su mensaje es directo: cuando la restricción es inevitable, la creatividad esta en encontrar que puedes hacer dentro de ella que nunca habrías hecho sin ella.
 
 **Ejercicio inmediato:** Para un proyecto creativo que tengas, imponte deliberadamente una restricción que no sea necesaria desde afuera: hazlo sin usar tu herramienta favorita, en la mitad del tiempo habitual, con solo tres elementos, o usando solo una técnica que no has usado antes. Observa si la restricción te lleva a un lugar al que la libertad no te había llevado.
 

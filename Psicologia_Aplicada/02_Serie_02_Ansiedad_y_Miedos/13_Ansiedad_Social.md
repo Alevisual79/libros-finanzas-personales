@@ -35,9 +35,9 @@ No toda incomodidad social es ansiedad social. Pero si la evitación de situacio
 
 ## Capítulo 2: El modeló cognitivo de la ansiedad social
 
-Elena tiene ansiedad social en contextos profesionales específicos: presentaciones ante grupos grandes, reuniones con ejecutivos de alto nivel, situaciones donde se percibe evaluada. Su modeló implícito de estas situaciones es que hay una actuación esperada que probablemente no va a cumplir, y que el fracaso en cumplirla tendrá consecuencias sociales significativas.
+Elena tiene ansiedad social en contextos profesionales específicos: presentaciones ante grupos grandes, reuniones con ejecutivos de alto nivel, situaciones donde se percibe evaluada. Su modelo implícito de estas situaciones es que hay una actuación esperada que probablemente no va a cumplir, y que el fracaso en cumplirla tendrá consecuencias sociales significativas.
 
-**El Principio de la Amenaza Social Percibida como Motor:** David Clark y Adrian Wells desarrollaron el modeló cognitivo de la ansiedad social que ha guiado buena parte de la investigación y el tratamiento en las últimas tres décadas. Segun este modeló, la ansiedad social se mantiene a traves de varios mecanismos cognitivos interrelacionados: la atención autofocalizada (redirigir la atención hacía los propios pensamientos, sensaciones y comportamiento en lugar de hacía la situación externa), el procesamiento de la información social desde una perspectiva de observador negativo (imaginar cómo se ve uno mismo desde el exterior con distorsión negativa), y las conductas de seguridad (comportamientos que la persona usa para prevenir el resultado temido pero que frecuentemente lo hacen más probable).
+**El Principio de la Amenaza Social Percibida como Motor:** David Clark y Adrian Wells desarrollaron el modelo cognitivo de la ansiedad social que ha guiado buena parte de la investigación y el tratamiento en las últimas tres décadas. Segun este modelo, la ansiedad social se mantiene a traves de varios mecanismos cognitivos interrelacionados: la atención autofocalizada (redirigir la atención hacía los propios pensamientos, sensaciones y comportamiento en lugar de hacía la situación externa), el procesamiento de la información social desde una perspectiva de observador negativo (imaginar cómo se ve uno mismo desde el exterior con distorsión negativa), y las conductas de seguridad (comportamientos que la persona usa para prevenir el resultado temido pero que frecuentemente lo hacen más probable).
 
 Las conductas de seguridad son particularmente importantes: hablar menos para no decir nada incorrecto (que produce que la persona parezca menos interesante), evitar el contacto visual (que produce que parezca menos confiada), o preparar excesivamente lo que va a decir (que produce que la conversación se sienta forzada). Cada conducta de seguridad proporciona alivio de ansiedad a corto plazo y contribuye al problema a largo plazo.
 
@@ -69,7 +69,7 @@ Isabel sobreestima sistemáticamente el grado en que los demás la evaluan negat
 
 El efecto foco se amplifica con la ansiedad: cuando estamos ansiosos, la percepción de ser el centro de atención de los demás se exagera porque nuestra propia atención esta enfocada en nosotros mismos y proyectamos esa atención hacía afuera. Los demás estan, en realidad, ocupados fundamentalmente en sus propias preocupaciones, no evaluando las tuyas.
 
-**Ejercicio inmediato:** Piensa en una situación social reciente donde creiste que los demás te evaluaron negativamente. Estima el porcentaje de los presentes que realmente estaban pensando en ti negativamente después de la situación. Luego preguntate: cuando eres tu el observador de otros en situaciones similares, cuanto tiempo dedicaste realmente a pensar negativamente en ellos después? Esa comparación calibra la estimación.
+**Ejercicio inmediato:** Piensa en una situación social reciente donde creiste que los demás te evaluaron negativamente. Estima el porcentaje de los presentes que realmente estaban pensando en ti negativamente después de la situación. Luego preguntate: ¿cuando eres tu el observador de otros en situaciones similares, cuanto tiempo dedicaste realmente a pensar negativamente en ellos después? Esa comparación calibra la estimación.
 
 Los demás no piensan en ti tanto como tu piensas que piensan en ti. Estan demasiado ocupados pensando en si mismos.
 
@@ -97,7 +97,7 @@ Elena tiene un estandar implícito para su comportamiento social que ninguna per
 
 El ejercicio del doble estandar (preguntarse como reaccionaria ante la misma situación si la viviera un amigo cercano, no yo) es una de las técnicas cognitivas más sencillas y poderosas para la ansiedad social: produce un acceso rápido a un estandar más realista y compasivo que la persona normalmente ya aplica a los demás pero no a si misma.
 
-**Ejercicio inmediato:** Piensa en la situación social que más te avergüenza de las últimas semanas. Ahora imagina que fue tu mejor amigo, no tu, quien la vivio. Cómo lo consolarias? Que le dirias? Esa respuesta es el trató que mereces aplicarte a ti mismo.
+**Ejercicio inmediato:** Piensa en la situación social que más te avergüenza de las últimas semanas. Ahora imagina que fue tu mejor amigo, no tu, quien la vivio. ¿Cómo lo consolarias? ¿Que le dirias? Esa respuesta es el trató que mereces aplicarte a ti mismo.
 
 Eres el unico ser humano al que aplicas el estandar de no poder parecer humano. Nadie más vive segun esa regla.
 
@@ -121,7 +121,7 @@ La ansiedad que sientes en redes sociales no es sobre las redes sociales. Es tu 
 
 Isabel ha considerado la terapia para su ansiedad social pero no sabe bien que tipo buscar ni que esperar del proceso.
 
-**El Principio de la TCC con Exposición como Tratamiento de Primera Linea:** Las guias de tratamiento internacionales para la ansiedad social (incluyendo las de la APA y la NICE britanica) identifican la terapia cognitivo-conductual con componente de exposición como el tratamiento psicológico de primera linea, con los mayores tamaños de efecto en los meta-análisis disponibles. La TCC para ansiedad social tipicamente incluye psicoeducación sobre el modeló cognitivo de la ansiedad social, trabajo con el foco de atención, reestructuración de creencias ansiosas específicas, y el componente central de exposición graduada a las situaciones sociales temidas con eliminación de conductas de seguridad.
+**El Principio de la TCC con Exposición como Tratamiento de Primera Linea:** Las guias de tratamiento internacionales para la ansiedad social (incluyendo las de la APA y la NICE britanica) identifican la terapia cognitivo-conductual con componente de exposición como el tratamiento psicológico de primera linea, con los mayores tamaños de efecto en los meta-análisis disponibles. La TCC para ansiedad social tipicamente incluye psicoeducación sobre el modelo cognitivo de la ansiedad social, trabajo con el foco de atención, reestructuración de creencias ansiosas específicas, y el componente central de exposición graduada a las situaciones sociales temidas con eliminación de conductas de seguridad.
 
 Dos formatos adicionales con buena evidencia son la terapia cognitiva en formato de video feedback (donde la persona se ve a si misma en video en situaciones sociales para corregir la imagen distorsionada que su ansiedad produce) y la terapia de aceptación y compromiso (ACT), que trabaja con la aceptación de la ansiedad y la acción comprometida con los valores a pesar de ella.
 
@@ -139,7 +139,7 @@ Ruben cree que su ansiedad social viene de no saber como comportarse socialmente
 
 Para la pequeña proporción con deficit real de habilidades, el entrenamiento en habilidades sociales (contacto visual apropiado, escucha activa, iniciación y mantenimiento de conversación) tiene evidencia de eficacia como complemento a la TCC, no como sustitución de ella.
 
-**Ejercicio inmediato:** Evalua honestamente: tu dificultad en situaciones sociales se debe a que no sabes que hacer (deficit de habilidad) o a que sabes que hacer pero la ansiedad lo impide (deficit de rendimiento)? La respuesta determina si necesitas entrenar habilidades nuevas o trabajar la ansiedad que impide usar las que ya tienes.
+**Ejercicio inmediato:** Evalua honestamente: ¿tu dificultad en situaciones sociales se debe a que no sabes que hacer (deficit de habilidad) o a que sabes que hacer pero la ansiedad lo impide (deficit de rendimiento)? La respuesta determina si necesitas entrenar habilidades nuevas o trabajar la ansiedad que impide usar las que ya tienes.
 
 La mayoría de las personas con ansiedad social ya saben como relacionarse. Su problema no es el manual. Es el temblor que les impide leerlo.
 

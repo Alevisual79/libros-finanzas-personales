@@ -27,7 +27,7 @@ Las habilidades que te hacen valioso como empleado y las que te hacen valioso co
 
 La investigación de Melissa Cardon y colegas sobre la transición al emprendimiento muestra que los profesionales con mayor éxito previo en el empleo frecuentemente tienen mayor dificultad en la transición al emprendimiento, precisamente porque han interiorizado más profundamente los patrones del empleo que luego tienen que desinstalar.
 
-**Ejercicio inmediato:** Haz un inventario honesto de tus tres habitos o patrones mentales más arraigados del empleo. Para cada uno, reflexiona: este patron es útil en el emprendimiento o me limita? El patron de esperar aprobación antes de actuar, que sirve en jerarquías corporativas, bloquea el emprendimiento. El patron de buscar la perfección antes de mostrar, útil en ciertos entornos corporativos, bloquea el aprendizaje del mercado. Identificar los patrones que hay que desinstalar es el primer paso para hacerlo.
+**Ejercicio inmediato:** Haz un inventario honesto de tus tres habitos o patrones mentales más arraigados del empleo. Para cada uno, reflexiona: ¿este patron es útil en el emprendimiento o me limita? El patron de esperar aprobación antes de actuar, que sirve en jerarquías corporativas, bloquea el emprendimiento. El patron de buscar la perfección antes de mostrar, útil en ciertos entornos corporativos, bloquea el aprendizaje del mercado. Identificar los patrones que hay que desinstalar es el primer paso para hacerlo.
 
 El éxito que has tenido como empleado puede ser tu mayor obstaculo como emprendedor si no reconoces que las reglas han cambiado.
 
@@ -41,7 +41,7 @@ Marcos ha tenido que replantear completamente su relación con el dinero despué
 
 La investigación de Noam Wasserman sobre las decisiones económicas de los fundadores muestra que los ex-empleados frecuentemente infravaloran el tiempo que tardaran en generar ingresos equivalentes a su salario previo, y que este error de estimación es una de las principales causas de abandono temprano del emprendimiento.
 
-**Ejercicio inmediato:** Calcula tu runway económico personal: cuanto tiempo puedes operar con tus ahorros actuales sin ingresos del negocio, asumiendo tu nivel actual de gastos? Si el runway es menos de doce meses, o reduces los gastos personales (lo que más controlas) o generas ingresos del negocio más rápido antes de dejar el empleo. La claridad sobre el runway elimina la ansiedad económica difusa y la reemplaza por un problema específico con soluciones concretas.
+**Ejercicio inmediato:** Calcula tu runway económico personal: ¿cuanto tiempo puedes operar con tus ahorros actuales sin ingresos del negocio, asumiendo tu nivel actual de gastos? Si el runway es menos de doce meses, o reduces los gastos personales (lo que más controlas) o generas ingresos del negocio más rápido antes de dejar el empleo. La claridad sobre el runway elimina la ansiedad económica difusa y la reemplaza por un problema específico con soluciones concretas.
 
 El emprendedor que empieza sin claridad sobre su runway económico toma las decisiones de negocio con el miedo económico como co-piloto. Y el miedo es un mal estratega.
 
@@ -55,7 +55,7 @@ Carlos ha descubierto que la libertad de no tener jefe viene acompanada de la re
 
 La investigación sobre la autonomía y el rendimiento de Edward Deci y Richard Ryan muestra que la autonomía (la experiencia de elegir y ser el origen de las propias acciones) es una necesidad psicológica basica cuya satisfacción produce mayor bienestar y rendimiento. Sin embargo, la autonomía requiere una habilidad de autoregulación (planificar, priorizar, ejecutar sin supervisión externa) que los entornos de empleo raramente desarrollan en profundidad.
 
-**Ejercicio inmediato:** Diseña tu sistema de autodireción para la próxima semana: cuales son las tres prioridades más importantes de la semana (no las más urgentes sino las más importantes)? Que bloques de tiempo protegeras específicamente para trabajar en ellas? Quien o que podría interrumpirlos y cómo lo gestionaras? El sistema de autodireción tiene que ser explícito al principio porque la inercia del modo reactivo (responder a lo que aparece) domina sin un sistema deliberado.
+**Ejercicio inmediato:** Diseña tu sistema de autodireción para la próxima semana: ¿cuales son las tres prioridades más importantes de la semana (no las más urgentes sino las más importantes)? ¿Que bloques de tiempo protegeras específicamente para trabajar en ellas? Quien o que podría interrumpirlos y cómo lo gestionaras? El sistema de autodireción tiene que ser explícito al principio porque la inercia del modo reactivo (responder a lo que aparece) domina sin un sistema deliberado.
 
 La libertad de no tener jefe es real. La trampa es que sin sistema propio, el mundo se convierte en el jefe.
 
@@ -77,13 +77,13 @@ La red que construiste como empleado te abria puertas dentro de la organización
 
 ## Capítulo 5: De la estabilidad a la iteración: aprender a pivotar sin considerarlo fracaso
 
-Marcos ha tenido que pivotar su modeló de negocio tres veces en los primeros doce meses. Cada vez que pivotaba sentía que estaba admitiendo un fracaso. Ha aprendido que la iteración es el método, no la excepción.
+Marcos ha tenido que pivotar su modelo de negocio tres veces en los primeros doce meses. Cada vez que pivotaba sentía que estaba admitiendo un fracaso. Ha aprendido que la iteración es el método, no la excepción.
 
 **El Principio de la Iteración como el método Central del Emprendimiento que el Ex-Empleado Frecuentemente Interpreta como Inestabilidad o Fracaso:** Eric Ries en The Lean Startup propone el ciclo construir-medir-aprender como el método fundamental del emprendimiento: lanzar una versión mínima del producto, medir como responde el mercado, aprender de esa respuesta, y ajustar antes de invertir más recursos. Este ciclo de iteración rápida es lo opuesto al método corporativo de planificar extensamente antes de lanzar.
 
 El ex-empleado que ha trabajado en entornos donde los planes se siguen durante años y los cambios de dirección requieren aprobaciones extensas tiene dificultad para adoptar la velocidad de iteración del emprendimiento. La iteración rápida parece inestabilidad cuando en realidad es aprendizaje rápido.
 
-**Ejercicio inmediato:** Para tu proyecto actual, identifica la suposición más importante que todavia no has validado con el mercado real: la suposición sobre el cliente, el problema, o la solución cuya falsedad cambiaría fundamentalmente el modeló. Diseña el experimento más rápido y barato que podría validar o refutar esa suposición. Si cuesta más de una semana o de cien euros llevarlo a cabo, el experimento es demasiado grande.
+**Ejercicio inmediato:** Para tu proyecto actual, identifica la suposición más importante que todavia no has validado con el mercado real: la suposición sobre el cliente, el problema, o la solución cuya falsedad cambiaría fundamentalmente el modelo. Diseña el experimento más rápido y barato que podría validar o refutar esa suposición. Si cuesta más de una semana o de cien euros llevarlo a cabo, el experimento es demasiado grande.
 
 El plan que no ha visto el mercado es una hipotesis. El que lo ha visto y ha sobrevivido es una estrategia.
 
@@ -107,11 +107,11 @@ El emprendedor que hace todo el trabajo de su empresa no tiene una empresa. Tien
 
 Lucia ha tenido que recalibrar completamente su relación con el riesgo después de años en entornos donde reducir el riesgo era una virtud.
 
-**El Principio de la Gestion Inteligente del Riesgo como Diferente de la Aversión al Riesgo (que Paraliza) o la Buscada del Riesgo sin Criterio (que Destruye):** La investigación de Saras Sarasvathy sobre la cognición emprendedora muestra que los emprendedores expertos no son aversos al riesgo ni buscadores de riesgo: son gestores de riesgo que prefieren perder cantidades pequeñas en experimentos rápidamente en lugar de grandes cantidades en compromisos de largo plazo sin validación previa. Su logica es la del affordable loss (la perdida asequible): cuanta perdida puedo tolerar si esto no funciona? en lugar de cual es el valor esperado si funciona?.
+**El Principio de la Gestion Inteligente del Riesgo como Diferente de la Aversión al Riesgo (que Paraliza) o la Buscada del Riesgo sin Criterio (que Destruye):** La investigación de Saras Sarasvathy sobre la cognición emprendedora muestra que los emprendedores expertos no son aversos al riesgo ni buscadores de riesgo: son gestores de riesgo que prefieren perder cantidades pequeñas en experimentos rápidamente en lugar de grandes cantidades en compromisos de largo plazo sin validación previa. Su logica es la del affordable loss (la perdida asequible): ¿cuanta perdida puedo tolerar si esto no funciona? en lugar de cual es el valor esperado si funciona?.
 
 Jeff Bezos propuso la distinción entre decisiones reversibles e irreversibles: las irreversibles requieren cuidado y análisis porque no pueden corregirse; las reversibles pueden tomarse rápidamente con la información disponible y ajustarse si el resultado no es el esperado. La mayoría de las decisiones del emprendedor son reversibles.
 
-**Ejercicio inmediato:** Para la próxima decisión de negocio que estas posponiendo, clasifícala: es reversible o irreversible? Si es reversible, cuanto tiempo de análisis adicional realmente cambiaria la decisión? Si la respuesta es menos de una semana de diferencia en el resultado, el análisis adicional no justifica el tiempo. Tomala con la información que tienes y ajusta cuando tengas más.
+**Ejercicio inmediato:** Para la próxima decisión de negocio que estas posponiendo, clasifícala: ¿es reversible o irreversible? ¿Si es reversible, cuanto tiempo de análisis adicional realmente cambiaria la decisión? Si la respuesta es menos de una semana de diferencia en el resultado, el análisis adicional no justifica el tiempo. Tomala con la información que tienes y ajusta cuando tengas más.
 
 El riesgo que no gestionas no desaparece. Solo decide solo, sin tu participación.
 
@@ -125,7 +125,7 @@ Marcos ha tenido que aprender a pedir retroalimentación que sea útil en lugar 
 
 La investigación de Eric Ries sobre las técnicas de customer development (desarrollo de clientes) muestra que la retroalimentación útil del mercado no se obtiene preguntando si les gusta el producto sino observando si lo usan, si vuelven a usarlo, y si lo recomiendan a otros. El comportamiento real del cliente es más honesto que sus declaraciones.
 
-**Ejercicio inmediato:** Para la siguiente iteración de tu producto, servicio, o propuesta de valor, identifica tres formas de obtener retroalimentación de comportamiento en lugar de retroalimentación de opinión: en lugar de les gusta?, mide si lo usan. En lugar de lo recomendarian?, mide si lo recomiendan. La retroalimentación de comportamiento es más costosa de obtener que la de opinión pero tiene un valor de información infinitamente mayor.
+**Ejercicio inmediato:** Para la siguiente iteración de tu producto, servicio, o propuesta de valor, identifica tres formas de obtener retroalimentación de comportamiento en lugar de retroalimentación de opinión: ¿en lugar de les gusta?, mide si lo usan. En lugar de lo recomendarian?, mide si lo recomiendan. La retroalimentación de comportamiento es más costosa de obtener que la de opinión pero tiene un valor de información infinitamente mayor.
 
 La retroalimentación que más te gusta escuchar probablemente es la que menos necesitas escuchar.
 
@@ -139,7 +139,7 @@ Carlos ha aprendido que la soberania sobre el propio tiempo, que era una de las 
 
 Cal Newport propone en Deep Work que el trabajo cognitivo de mayor valor requiere períodos de concentración ininterrumpida que son imposibles en entornos de distracción constante. El emprendedor que trabaja desde casa o en espacio coworking sin estructura de tiempo tiene el mayor acceso potencial a ese trabajo profundo y, al mismo tiempo, la mayor vulnerabilidad a las interrupciones que lo destruyen.
 
-**Ejercicio inmediato:** Diseña tu estructura de tiempo semanal como emprendedor con la misma deliberación con que diseñarias la estructura de tiempo de un equipo: que bloques son para el trabajo profundo de mayor impacto (estrategia, creación, relaciones clave)? Que bloques son para las tareas operativas? Que bloques son para la recuperación que hace posible el rendimiento sostenido? Una vez diseñada, trata esa estructura como si la hubiera impuesto un jefe exigente que entiende lo que tu negocio necesita.
+**Ejercicio inmediato:** Diseña tu estructura de tiempo semanal como emprendedor con la misma deliberación con que diseñarias la estructura de tiempo de un equipo: ¿que bloques son para el trabajo profundo de mayor impacto (estrategia, creación, relaciones clave)? ¿Que bloques son para las tareas operativas? Que bloques son para la recuperación que hace posible el rendimiento sostenido? Una vez diseñada, trata esa estructura como si la hubiera impuesto un jefe exigente que entiende lo que tu negocio necesita.
 
 La soberania sobre el tiempo es la mayor libertad del emprendedor. Y la trampa más facil en la que caer.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que la transición de empleado a emprendedor no es 
 
 La investigación sobre el aprendizaje adulto de Malcolm Knowles muestra que los adultos aprenden mejor cuando el aprendizaje esta conectado con problemas reales que importan y cuando pueden aplicar inmediatamente lo que aprenden. Para el emprendedor en transición, esto significa que el aprendizaje más valioso viene de hacer, no de estudiar el hacer.
 
-**Ejercicio inmediato:** Reflexiona sobre las tres formas en que tu identidad profesional ha cambiado más desde que empezaste a emprender (o desde que empezaste a planear emprender). Que creencias sobre ti mismo o sobre el trabajo han cambiado? Que comportamientos has adoptado que antes no tenías? Que has tenido que dejar ir? Esas tres respuestas son el mapa de la transformación de identidad que ya has hecho y que te orienta hacía la que todavia tienes por hacer.
+**Ejercicio inmediato:** Reflexiona sobre las tres formas en que tu identidad profesional ha cambiado más desde que empezaste a emprender (o desde que empezaste a planear emprender). ¿Que creencias sobre ti mismo o sobre el trabajo han cambiado? ¿Que comportamientos has adoptado que antes no tenías? Que has tenido que dejar ir? Esas tres respuestas son el mapa de la transformación de identidad que ya has hecho y que te orienta hacía la que todavia tienes por hacer.
 
 El emprendedor que llegaras a ser no lo eras cuando empezaste. Lo seras cuando hayas hecho suficientes cosas que solo ese emprendedor puede hacer.
 

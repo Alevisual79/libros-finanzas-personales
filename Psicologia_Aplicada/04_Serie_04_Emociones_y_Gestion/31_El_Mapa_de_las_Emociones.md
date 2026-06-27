@@ -39,9 +39,9 @@ Ruben recibe crítica de un cliente y siente inmediatamente que ha fallado, que 
 
 **El Principio de la Emoción como Señal, no como Sentencia:** Paul Ekman, psicologo que ha dedicado su carrera al estudio de las emociones, propone que las emociones son señales adaptativas: son el sistema de alarma del organismo que comunica algo relevante sobre la situación (hay una amenaza, se ha perdido algo valioso, hay una injusticia). Pero como cualquier sistema de alarma, pueden activarse de forma imprecisa o desproporcionada, y su activación no implica que la interpretación inicial sea correcta.
 
-Aaron Beck, fundador de la terapia cognitiva, identifico la fusión emocional como uno de los errores cognitivos más comunes: la tendencia a tratar las emociones como pruebas de verdad (si lo siento, debe ser verdad). La alternativa no es ignorar la emoción sino tratarla como información que merece ser explorada (que me esta comunicando esto que siento?) antes de actuar sobre ella como si fuera una evaluación objetiva de la realidad.
+Aaron Beck, fundador de la terapia cognitiva, identifico la fusión emocional como uno de los errores cognitivos más comunes: ¿la tendencia a tratar las emociones como pruebas de verdad (si lo siento, debe ser verdad). La alternativa no es ignorar la emoción sino tratarla como información que merece ser explorada (que me esta comunicando esto que siento?) antes de actuar sobre ella como si fuera una evaluación objetiva de la realidad.
 
-**Ejercicio inmediato:** Ante una emoción intensa, práctica la distinción entre la emoción (siento X) y la interpretación (esto significa Y). La emoción es real. La interpretación que surge de ella merece ser cuestionada. Pregunta: que prueba objetiva tengo de que la interpretación que esta emoción sugiere es correcta?
+**Ejercicio inmediato:** Ante una emoción intensa, práctica la distinción entre la emoción (siento X) y la interpretación (esto significa Y). La emoción es real. La interpretación que surge de ella merece ser cuestionada. Pregunta: ¿que prueba objetiva tengo de que la interpretación que esta emoción sugiere es correcta?
 
 Lo que sientes es real. Lo que eso significa es una hipotesis que puede ser equivocada.
 
@@ -69,7 +69,7 @@ Ruben no sabe lo que siente hasta que presta atención a su cuerpo. La tensión 
 
 Lauri Nummenmaa y colegas de la Universidad de Aalto publicaron en 2013 un mapa del cuerpo de las emociones basado en datos de cientos de personas de diferentes culturas: diferentes emociones producen patrones de activación e inhibición corporales distintos y relativamente consistentes entre culturas (la ira activa el pecho y los brazos, el miedo activa el pecho y la garganta, la tristeza desactiva el torso, la alegria activa todo el cuerpo).
 
-**Ejercicio inmediato:** Cuando no sepas exactamente lo que sientes, haz un escaner corporal breve: cierra los ojos durante treinta segundos y recorre mentalmente tu cuerpo desde la cabeza hasta los pies. Donde hay tensión, presión, ligereza, calor, frio? Esas sensaciones somaticas son la primera capa del mapa emocional. La emoción etiquetada viene después.
+**Ejercicio inmediato:** Cuando no sepas exactamente lo que sientes, haz un escaner corporal breve: ¿cierra los ojos durante treinta segundos y recorre mentalmente tu cuerpo desde la cabeza hasta los pies. ¿Donde hay tensión, presión, ligereza, calor, frio? Esas sensaciones somaticas son la primera capa del mapa emocional. La emoción etiquetada viene después.
 
 Tu cuerpo sabe lo que sientes antes de que tu cabeza lo formule. Aprende a leer sus señales.
 
@@ -93,7 +93,7 @@ El vocabulario emocional que tienes es el tamaño del mapa que puedes construir.
 
 Isabel se siente avergonzada de sentir envidia. Culpable por sentir ira con sus hijos. Ansiosa por sentir tristeza. Estas son emociones secundarias: emociones sobre las propias emociones, que frecuentemente complican más el procesamiento emocional que la emoción original.
 
-**El Principio de las Emociones Secundarias como Capa Adicional de Procesamiento:** Marsha Linehan, en su teoria del comportamiento dialectico, distingue entre emociones primarias (la respuesta emocional inicial y directa a una situación) y emociones secundarias (la respuesta emocional a tener la emoción primaria). Las emociones secundarias son frecuentemente aprendidas culturalmente (los ninos aprenden que ciertas emociones son inaceptables en ciertos contextos) y pueden ser más intensas y más perturbadoras que la emoción original.
+**El Principio de las Emociones Secundarias como Capa Adicional de Procesamiento:** Marsha Linehan, en su teoria del comportamiento dialectico, distingue entre emociones primarias (la respuesta emocional inicial y directa a una situación) y emociones secundarias (la respuesta emocional a tener la emoción primaria). Las emociones secundarias son frecuentemente aprendidas culturalmente (los niños aprenden que ciertas emociones son inaceptables en ciertos contextos) y pueden ser más intensas y más perturbadoras que la emoción original.
 
 La verguenza por sentir ira, la culpa por sentir alegria cuando alguien más sufre, la ansiedad por sentir tristeza, son capas de procesamiento emocional que pueden mantenerse indefinidamente si no se identifican cómo lo que son: reacciones a la propia experiencia emocional, no respuestas a la situación original.
 
@@ -125,7 +125,7 @@ Elena ha oido hablar de inteligencia emocional como si fuera una cualidad fija q
 
 La investigación posterior, incluyendo meta-análisis de Daus y Ashkanasy y otros, muestra que la inteligencia emocional predice resultados significativos en el rendimiento laboral, las relaciones interpersonales, y el bienestar, aunque el tamaño del efecto varia segun el método de medición y el contexto. La buena noticia es que las habilidades que la componen (vocabulario emocional, reconocimiento de emociones en otros, regulación propia) son entrenable con programas específicos.
 
-**Ejercicio inmediato:** Evalua tu inteligencia emocional en cuatro dimensiones: percibir emociones (en ti y en otros), usar emociones para facilitar el pensamiento, entender las emociones (sus causas y consecuencias), y regular emociones (en ti y en otros). En cual de las cuatro eres más fuerte? En cual más debil? La dimensión más debil es el punto de desarrollo más urgente.
+**Ejercicio inmediato:** Evalua tu inteligencia emocional en cuatro dimensiones: ¿percibir emociones (en ti y en otros), usar emociones para facilitar el pensamiento, entender las emociones (sus causas y consecuencias), y regular emociones (en ti y en otros). En cual de las cuatro eres más fuerte? ¿En cual más debil? La dimensión más debil es el punto de desarrollo más urgente.
 
 La inteligencia emocional no es con lo que naces. Es con lo que puedes llegar si decides desarrollarla.
 
@@ -139,7 +139,7 @@ Ruben ha empezado a llevar lo que llama un diario emocional: cada tarde, escribe
 
 El mecanismo propuesto es la elaboración narrativa: la escritura convierte la experiencia emocional difusa en una historia con estructura, causas, y consecuencias, lo que facilita su procesamiento y reduce la rumiación que las emociones sin elaborar tienden a producir.
 
-**Ejercicio inmediato:** Durante una semana, escribe cada tarde durante cinco minutos sobre las emociones que has experimentado ese dia: que sentiste, cuando lo sentiste, que lo desencadeno, y como respondiste. Al final de la semana, busca patrones: hay emociones que se repiten? Hay situaciones o personas que desencadenan emociones específicas? Ese mapa es el primer paso de la gestión deliberada.
+**Ejercicio inmediato:** Durante una semana, escribe cada tarde durante cinco minutos sobre las emociones que has experimentado ese dia: que sentiste, cuando lo sentiste, que lo desencadeno, y como respondiste. Al final de la semana, busca patrones: ¿hay emociones que se repiten? ¿Hay situaciones o personas que desencadenan emociones específicas? Ese mapa es el primer paso de la gestión deliberada.
 
 Escribir sobre lo que sientes no es debilidad. Es el acto más praxico de autoconocimiento que tienes disponible cada dia.
 
@@ -153,7 +153,7 @@ Isabel ha llegado a una relación con sus emociones que podría describir como d
 
 La meta no es no sentir emociones difíciles. Es relacionarse con ellas de una forma que no las amplifique ni las suprima: con conciencia, con curiosidad, y con la capacidad de dejarlas pasar cuando han comunicado lo que necesitaban comunicar.
 
-**Ejercicio inmediato:** Identifica una emoción difícil que tiendes a amplificar (rumiación, expresión intensa) y una que tiendes a suprimir (ignorar, evitar). Para la primera, práctica la observación sin amplificación: nota la emoción, nombrala, y permite que exista sin actuar sobre ella inmediatamente. Para la segunda, práctica el reconocimiento: si la emoción estuviera aquí, que diria?
+**Ejercicio inmediato:** Identifica una emoción difícil que tiendes a amplificar (rumiación, expresión intensa) y una que tiendes a suprimir (ignorar, evitar). Para la primera, práctica la observación sin amplificación: nota la emoción, nombrala, y permite que exista sin actuar sobre ella inmediatamente. Para la segunda, práctica el reconocimiento: ¿si la emoción estuviera aquí, que diria?
 
 La relación madura con tus emociones no es dominarlas. Es conocerlas suficientemente bien como para que no te gobiernen sin tu permiso.
 

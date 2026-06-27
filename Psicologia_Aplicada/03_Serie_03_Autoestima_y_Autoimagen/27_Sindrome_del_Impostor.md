@@ -27,7 +27,7 @@ El sindrome del impostor no es un diagnostico clínico formal. Es un patron psic
 
 La investigación posterior reveló que el sindrome no es exclusivo de mujeres ni de entornos academicos: afecta a personas de ambos sexos en multiples contextos, con prevalencias estimadas que oscilan entre el setenta y el ochenta por ciento de la población que ha tenido algun episodio significativo de sentirse un impostor.
 
-**Ejercicio inmediato:** Piensa en un logró reciente importante. Cuando te lo reconocieron, cual fue tu primera reacción interna? Celebración genuina, incomodidad con el reconocimiento, o pensamientos sobre que fue suerte o que no lo mereces realmente? La respuesta mapea tu relación con tus propios logros.
+**Ejercicio inmediato:** Piensa en un logró reciente importante. ¿Cuando te lo reconocieron, cual fue tu primera reacción interna? ¿Celebración genuina, incomodidad con el reconocimiento, o pensamientos sobre que fue suerte o que no lo mereces realmente? La respuesta mapea tu relación con tus propios logros.
 
 Sentirte un impostor no significa que lo seas. Significa que tu sistema de atribución esta sesgado sistemáticamente en la dirección equivocada.
 
@@ -139,7 +139,7 @@ Ruben ha leido que el sindrome del impostor es principalmente un problema de muj
 
 Kevin Cokley y colegas de la Universidad de Texas documentaron que el sindrome es especialmente prevalente en miembros de grupos minorizados en sus entornos profesionales (minorias raciales y etnicas, primera generación universitaria, personas de clase trabajadora en entornos de clase media alta) porque la disonancia entre el entorno de origen y el entorno profesional crea una sensación adicional de no pertenecer.
 
-**Ejercicio inmediato:** Reflexiona sobre si tu sindrome del impostor tiene una dimensión de pertenencia de grupo: sientes que no perteneces a tu entorno profesional por alguna razón (origen, genero, edad, educación)? Si la respuesta es si, el sindrome tiene tanto un componente individual como uno de contexto social que puede abordarse tanto a nivel personal como buscando comunidades de personas con backgrounds similares en tu campo.
+**Ejercicio inmediato:** Reflexiona sobre si tu sindrome del impostor tiene una dimensión de pertenencia de grupo: ¿sientes que no perteneces a tu entorno profesional por alguna razón (origen, genero, edad, educación)? Si la respuesta es si, el sindrome tiene tanto un componente individual como uno de contexto social que puede abordarse tanto a nivel personal como buscando comunidades de personas con backgrounds similares en tu campo.
 
 El sindrome del impostor puede ser tanto una historia personal cómo una señal de un entorno que no refleja suficiente diversidad de la propia. Ambas perspectivas son validas.
 

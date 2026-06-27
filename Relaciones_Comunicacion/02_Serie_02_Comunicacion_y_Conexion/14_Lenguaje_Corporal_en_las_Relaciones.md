@@ -87,7 +87,7 @@ Cuando la madre de Ruben le dice que no pasa nada con su tono habitual de que si
 
 Las palabras se pueden controlar. El tono filtra mucho menos. El tono que comunica enfado cuando las palabras dicen calma, o que comunica falta de interés cuando las palabras dicen que se esta escuchando, desacredita el mensaje verbal en su totalidad.
 
-**Ejercicio inmediato:** Graba un fragmento de una conversación telefonica. Escuchala con la atención puesta solo en el tono, sin el contenido. Que comunica el tono que quizas el contenido no hace visible? La distancia entre las dos capas es información sobre tu congruencia comunicativa.
+**Ejercicio inmediato:** Graba un fragmento de una conversación telefonica. Escuchala con la atención puesta solo en el tono, sin el contenido. ¿Que comunica el tono que quizas el contenido no hace visible? La distancia entre las dos capas es información sobre tu congruencia comunicativa.
 
 Las palabras que dices son la letra. El tono de voz es la musica. Y la musica es lo que la gente baila.
 
@@ -143,7 +143,7 @@ Uno de los mitos más persistentes sobre el lenguaje corporal es que hay señale
 
 Paul Ekman, después de décadas estudiando el engaño, concluye que los mejores detectores de mentiras aciertan el 54% de las veces, apenas por encima del azar. La creencia de ser bueno detectando mentiras por el lenguaje corporal es generalmente erronea y puede generar desconfianza injustificada.
 
-**Ejercicio inmediato:** La próxima vez que notes una incongruencia entre lo que alguien dice y cómo lo dice, en lugar de concluir que esta mintiendo, haz una pregunta abierta: noto que algo más puede estar pasando, me equivoco? Esa pregunta da al otro la oportunidad de compartir lo que no esta diciendo con palabras.
+**Ejercicio inmediato:** La próxima vez que notes una incongruencia entre lo que alguien dice y cómo lo dice, en lugar de concluir que esta mintiendo, haz una pregunta abierta: ¿noto que algo más puede estar pasando, me equivoco? Esa pregunta da al otro la oportunidad de compartir lo que no esta diciendo con palabras.
 
 La incongruencia no es prueba de engaño. Es una invitación a preguntar.
 

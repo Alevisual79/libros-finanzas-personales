@@ -39,11 +39,11 @@ Lucia ha perdido tiempo con modelos que no encajaban con sus habilidades y recur
 
 **El Principio de la Elección del Modelo de Negocio Digital cómo la Decisión Más Importante del Principio porque Determina el Tipo de Trabajo, el Ritmo de Revenue, y el Potencial de Escalabilidad del Negocio:** Los modelos de negocio digital principales para el emprendedor individual son: servicios (freelancing, consultoria, coaching, donde el fundador entrega el servicio directamente con alto margen pero baja escalabilidad), infoproductos (cursos online, ebooks, plantillas, donde el conocimiento se vende en formato digital con alta escalabilidad pero requiere audiencia preexistente), SaaS (software como servicio, con alto potencial pero alta barrera de entrada y largo tiempo hasta el revenue), e-commerce (venta de productos físicos o digitales con logistica asociada), y afiliación (generar revenue recomendando productos de otros).
 
-Cada modeló tiene caracteristicas diferentes de tiempo hasta el primer revenue (los servicios son los más rápidos: se puede generar revenue en la primera semana), inversión inicial requerida, escalabilidad, y margen. El modeló correcto para cada emprendedor depende de sus habilidades, recursos, y objetivos.
+Cada modelo tiene caracteristicas diferentes de tiempo hasta el primer revenue (los servicios son los más rápidos: se puede generar revenue en la primera semana), inversión inicial requerida, escalabilidad, y margen. El modelo correcto para cada emprendedor depende de sus habilidades, recursos, y objetivos.
 
-**Ejercicio inmediato:** Para tu situación actual, evalua los cinco modelos de negocio digital con tres criterios: puedes generar tu primer revenue en menos de noventa dias con ese modeló (si los recursos son limitados, el tiempo hasta el primer revenue es crítico), tienes las habilidades o el conocimiento que requiere ese modeló, y el modeló puede crecer hasta el nivel de revenue que quieres sin que el crecimiento dependa completamente de que tu trabajes más horas? El modeló que pasa los tres filtros es el correcto para empezar.
+**Ejercicio inmediato:** Para tu situación actual, evalua los cinco modelos de negocio digital con tres criterios: ¿puedes generar tu primer revenue en menos de noventa dias con ese modelo (si los recursos son limitados, el tiempo hasta el primer revenue es crítico), tienes las habilidades o el conocimiento que requiere ese modelo, y el modelo puede crecer hasta el nivel de revenue que quieres sin que el crecimiento dependa completamente de que tu trabajes más horas? El modelo que pasa los tres filtros es el correcto para empezar.
 
-El modeló de negocio digital que produce revenue en la primera semana te enseña más en un mes que el que lo promete en seis meses.
+El modelo de negocio digital que produce revenue en la primera semana te enseña más en un mes que el que lo promete en seis meses.
 
 ---
 
@@ -55,7 +55,7 @@ Marcos ha descubierto que construyo demasiado antes de tener su primer cliente o
 
 La infraestructura mínima viable para la mayoría de los negocios de servicios digitales es: una página web simple (puede ser una landing page de una sola página), una forma de recibir pagos (Stripe, PayPal, o factura bancaria), y un medio de entrega del servicio (email, video call, o plataforma de gestión de proyectos). Con esas tres cosas, se puede empezar a generar revenue.
 
-**Ejercicio inmediato:** Para tu negocio online, define tu infraestructura mínima viable: que tres herramientas específicas necesitas para entregar tu servicio o producto al primer cliente? Si la lista supera tres herramientas, pregunta para cada una adicional si el primer cliente podría trabajar contigo sin ella. La infraestructura que el primer cliente no necesita puede esperar hasta que el primer cliente exista. Y si el primer cliente ya existe, tiene mucho más sentido invertir en la infraestructura porque el revenue lo financia.
+**Ejercicio inmediato:** Para tu negocio online, define tu infraestructura mínima viable: ¿que tres herramientas específicas necesitas para entregar tu servicio o producto al primer cliente? Si la lista supera tres herramientas, pregunta para cada una adicional si el primer cliente podría trabajar contigo sin ella. La infraestructura que el primer cliente no necesita puede esperar hasta que el primer cliente exista. Y si el primer cliente ya existe, tiene mucho más sentido invertir en la infraestructura porque el revenue lo financia.
 
 La infraestructura perfecta antes del primer cliente es una inversión que no tiene ROI todavia. El primer cliente, sin embargo, enseña exactamente que infraestructura necesitas.
 
@@ -111,7 +111,7 @@ Carlos ha llegado al punto donde debe decidir como escalar su negocio online.
 
 Reid Hoffman en Blitzscaling propone que la escalabilidad de un negocio digital depende principalmente de los efectos de red (los usuarios que se benefician de la presencia de otros usuarios) y de la distribución viral (cada usuario que trae a nuevos usuarios). No todos los negocios digitales tienen esos factores, y los que no los tienen tienen que escalar de forma diferente.
 
-**Ejercicio inmediato:** Para tu negocio online, identifica los tres obstaculos principales para triplicar tu revenue sin triplicar tu tiempo de trabajo: posiblemente sean la capacidad de producción (cuantos clientes puedes servir a alta calidad en un mes), el proceso de adquisición de clientes (puedes automatizar o delegar parte del proceso de captación), o el modeló de revenue (el precio actual por cliente o la recurrencia). Para cada obstaculo, identifica una solución específica que podrías implementar en los próximos tres meses.
+**Ejercicio inmediato:** Para tu negocio online, identifica los tres obstaculos principales para triplicar tu revenue sin triplicar tu tiempo de trabajo: posiblemente sean la capacidad de producción (cuantos clientes puedes servir a alta calidad en un mes), el proceso de adquisición de clientes (puedes automatizar o delegar parte del proceso de captación), o el modelo de revenue (el precio actual por cliente o la recurrencia). Para cada obstaculo, identifica una solución específica que podrías implementar en los próximos tres meses.
 
 El negocio online que no puede escalar sin que el fundador trabaje más horas es un autoempleo, no un negocio digital. La diferencia importa.
 
@@ -137,9 +137,9 @@ Marcos ha aprendido que la sostenibilidad del negocio online requiere decisión 
 
 **El Principio de la Sostenibilidad del Negocio Online como el Diseno de un Modelo que Puede Mantenerse a Largo Plazo sin Agotar al Fundador ni Depender de Condiciones Externas Que Pueden Cambiar:** Muchos negocios online crecen rápidamente durante uno o dos años y luego se estancan o colapsan porque fueron construidos sobre bases no sostenibles: dependencia de un solo algoritmo que cambia, modeló de revenue que requiere constante adquisición de clientes sin retención, o volumen de trabajo que el fundador no puede mantener a largo plazo sin agotarse.
 
-La investigación de Bo Burlingham sobre los negocios de impacto a largo plazo muestra que los que tienen mayor sostenibilidad tienen diversificación de fuentes de revenue (no dependencia de un solo cliente, canal, o producto), un modeló de revenue con componente recurrente (suscripciones, retainers, o clientes que repiten), y un ritmo de trabajo que el fundador puede mantener durante años sin burnout.
+La investigación de Bo Burlingham sobre los negocios de impacto a largo plazo muestra que los que tienen mayor sostenibilidad tienen diversificación de fuentes de revenue (no dependencia de un solo cliente, canal, o producto), un modelo de revenue con componente recurrente (suscripciones, retainers, o clientes que repiten), y un ritmo de trabajo que el fundador puede mantener durante años sin burnout.
 
-**Ejercicio inmediato:** Para tu negocio online, evalua la sostenibilidad en tres dimensiones: diversificación (si el canal de adquisición principal dejara de funcionar mañana, cuanto tardarias en recuperar el revenue), recurrencia (que porcentaje del revenue mensual es recurrente o muy predecible), y ritmo personal (podrías mantener el ritmo de trabajo actual durante dos años sin quemarte?). Si alguna respuesta revela fragilidad, ese es el área de sostenibilidad que necesitas fortalecer antes de que se convierta en una crisis.
+**Ejercicio inmediato:** Para tu negocio online, evalua la sostenibilidad en tres dimensiones: ¿diversificación (si el canal de adquisición principal dejara de funcionar mañana, cuanto tardarias en recuperar el revenue), recurrencia (que porcentaje del revenue mensual es recurrente o muy predecible), y ritmo personal (podrías mantener el ritmo de trabajo actual durante dos años sin quemarte?). Si alguna respuesta revela fragilidad, ese es el área de sostenibilidad que necesitas fortalecer antes de que se convierta en una crisis.
 
 El negocio online sostenible no es el que más rápido crece. Es el que sigue creciendo cuando los demás se han caido.
 
@@ -161,7 +161,7 @@ El negocio online que sabe donde quiere llegar toma mejores decisiones en el cam
 
 ## Epílogo
 
-Carlos lanzo su primer servicio online en la semana seis de su proyecto. La web era simple, el precio era provisional, y el servicio no estaba completamente definido. En la semana ocho tenía su primer cliente. En la semana quince, tres. A los seis meses, doce clientes activos y revenue mensual recurrente. La web todavia no era perfecta. El precio había cambiado dos veces. El servicio había evolucionado significativamente. Todo eso había ocurrido gracias a los clientes reales que había conseguido lanzando imperfecto. Lo que habria ocurrido si hubiera esperado a que todo estuviera perfecto: seguiria esperando.
+Carlos lanzo su primer servicio online en la semana seis de su proyecto. La web era simple, el precio era provisional, y el servicio no estaba completamente definido. En la semana ocho tenía su primer cliente. En la semana quince, tres. A los seis meses, doce clientes activos y revenue mensual recurrente. La web todavia no era perfecta. El precio había cambiado dos veces. El servicio había evolucionado significativamente. Todo eso había ocurrido gracias a los clientes reales que había conseguido lanzando imperfecto. Lo que habría ocurrido si hubiera esperado a que todo estuviera perfecto: seguiria esperando.
 
 ---
 

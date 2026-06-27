@@ -34,7 +34,7 @@ En la mayoría de campos profesionales, la "vida media" del conocimiento especí
 Estudios del Foro Económico Mundial estiman que el 50% de las habilidades laborales requerirán actualización significativa cada cinco años. En campos técnicos, el ciclo es más corto.
 
 **Las implicaciones:**
-El modeló de "aprendo en la escuela o universidad y luego aplico lo aprendido toda la vida" es funcionalmente obsoleto. El aprendizaje tiene que ser continuo no como aspiración sino como necesidad práctica de permanencia y relevancia profesional.
+El modelo de "aprendo en la escuela o universidad y luego aplico lo aprendido toda la vida" es funcionalmente obsoleto. El aprendizaje tiene que ser continuo no como aspiración sino como necesidad práctica de permanencia y relevancia profesional.
 
 **Lo que no se deprecia:**
 Las habilidades de aprendizaje en sí: saber cómo aprender de forma eficiente, cómo identificar lo que vale la pena aprender, cómo integrar conocimiento nuevo con conocimiento existente. Estas habilidades de segundo orden son las más valiosas en un entorno de cambio acelerado.
@@ -59,7 +59,7 @@ Un bloque de tiempo diario o casi diario dedicado a aprender. No necesariamente 
 No todo el aprendizaje tiene el mismo valor. La elección de qué aprender es tan importante como el hábito de aprender.
 
 **El conocimiento en T:**
-Un modeló útil para estructurar el aprendizaje profesional: profundidad en un área específica (la barra vertical de la T) más amplitud en áreas relacionadas (la barra horizontal).
+Un modelo útil para estructurar el aprendizaje profesional: profundidad en un área específica (la barra vertical de la T) más amplitud en áreas relacionadas (la barra horizontal).
 
 La profundidad crea expertise real y diferenciación. La amplitud crea conexiones entre disciplinas que generan ideas que los especialistas puros no ven.
 

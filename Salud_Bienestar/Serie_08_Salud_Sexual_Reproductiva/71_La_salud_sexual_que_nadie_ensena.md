@@ -43,11 +43,11 @@ La sexualidad cambia en cada etapa de la vida: adolescencia, adultez, maternidad
 
 ## Capítulo 2: El deseo sexual — cómo funciona realmente
 
-**El modeló de respuesta sexual:**
-El modeló clásico de Masters y Johnson describía una secuencia lineal: deseo → excitación → meseta → orgasmo → resolución. Útil pero simplificado.
+**El modelo de respuesta sexual:**
+El modelo clásico de Masters y Johnson describía una secuencia lineal: deseo → excitación → meseta → orgasmo → resolución. Útil pero simplificado.
 
-**El modeló circular (Basson):**
-La psicóloga Rosemary Basson propuso un modeló más realista, especialmente para las mujeres: el deseo no siempre precede a la excitación. En las relaciones establecidas, muchas personas (especialmente mujeres) empiezan con una predisposición neutral y el deseo emerge después de la estimulación física y emocional.
+**El modelo circular (Basson):**
+La psicóloga Rosemary Basson propuso un modelo más realista, especialmente para las mujeres: el deseo no siempre precede a la excitación. En las relaciones establecidas, muchas personas (especialmente mujeres) empiezan con una predisposición neutral y el deseo emerge después de la estimulación física y emocional.
 
 **El deseo espontáneo vs. el reactivo:**
 El deseo espontáneo: surge sin estímulo externo evidente. Más frecuente en hombres y en fases iniciales de las relaciones.
@@ -68,10 +68,10 @@ El deseo reactivo: emerge en respuesta a estímulos sexuales o al contacto. Igua
 
 ## Capítulo 3: El consentimiento — más allá del "no es no"
 
-El paradigma del consentimiento ha evolucionado en los últimos años hacía un modeló más complejo y más útil.
+El paradigma del consentimiento ha evolucionado en los últimos años hacía un modelo más complejo y más útil.
 
 **El consentimiento como proceso activo:**
-El consentimiento no es solo la ausencia de "no". Es la presencia activa y entusiasta de un "sí". El modeló FRIES (Planeado, Reversible, Informado, Entusiasta, Específico — Freely given, Reversible, Informed, Enthusiastic, Specific) describe las características del consentimiento genuino.
+El consentimiento no es solo la ausencia de "no". Es la presencia activa y entusiasta de un "sí". El modelo FRIES (Planeado, Reversible, Informado, Entusiasta, Específico — Freely given, Reversible, Informed, Enthusiastic, Specific) describe las características del consentimiento genuino.
 
 **Reversible:**
 El consentimiento puede retirarse en cualquier momento. Haber dicho sí antes no implica sí ahora. Esta dimensión es especialmente importante en relaciones establecidas.

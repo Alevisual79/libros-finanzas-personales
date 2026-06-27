@@ -71,7 +71,7 @@ El resentimiento silencioso por contribuciones desiguales en el cuidado de los p
 
 ## Capítulo 5: Tomar decisiones médicas por los padres
 
-A medida que los padres mayores pierden capacidad de tomar decisiones médicas autonomas, los hijos enfrentan la difícil responsabilidad de tomar decisiones en su nombre, a menudo sin tener claridad completa sobre lo que el padre habria querido.
+A medida que los padres mayores pierden capacidad de tomar decisiones médicas autonomas, los hijos enfrentan la difícil responsabilidad de tomar decisiones en su nombre, a menudo sin tener claridad completa sobre lo que el padre habría querido.
 
 **El Principio de la Decisión Sustituta Informada:** Las decisiones médicas tomadas en nombre de un padre que ya no puede decidir por si mismo se gestionan mejor cuando se basan en conversaciones previas sobre los valores y preferencias del padre (idealmente documentadas con anticipación), en lugar de en lo que el hijo cree que sería mejor segun su propio criterio. Cuando esas conversaciones previas no existieron, la decisión se vuelve significativamente más difícil y genera más carga emocional para quien la toma.
 
@@ -123,7 +123,7 @@ Mantener algun grado de vida propia (trabajo, relaciones, intereses personales) 
 
 **El Principio de la Sostenibilidad del Cuidador:** Los cuidadores que mantienen algun nivel de vida propia durante períodos prolongados de cuidado tienen mejores resultados de salud mental y son capaces de sostener el cuidado durante más tiempo que los que sacrifican completamente su propia vida. Proteger algun tiempo y espacio propio no es egoismo: es lo que permite seguir siendo un cuidador efectivo a largo plazo.
 
-**Ejercicio inmediato:** Identifica un aspecto de tu vida propia (una actividad, una relación, un momento de descanso) que has sacrificado completamente desde que asumiste el cuidado de tu padre. Que versión reducida pero sostenible de ese aspecto podrías recuperar?
+**Ejercicio inmediato:** Identifica un aspecto de tu vida propia (una actividad, una relación, un momento de descanso) que has sacrificado completamente desde que asumiste el cuidado de tu padre. ¿Que versión reducida pero sostenible de ese aspecto podrías recuperar?
 
 El cuidador que se desaparece completamente a si mismo no dura. El que protege algo propio puede sostener el cuidado por más tiempo.
 

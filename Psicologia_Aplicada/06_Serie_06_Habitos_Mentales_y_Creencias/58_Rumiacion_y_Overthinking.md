@@ -27,7 +27,7 @@ La rumia se disfraza de pensamiento útil. La distinción importa.
 
 El pensamiento útil tiene caracteristicas opuestas: esta orientado hacía la solución, genera nuevas perspectivas, evalua opciones, y termina en un plan de acción o en la aceptación de lo que no puede cambiarse. Una heuristica práctica: si llevas más de cinco minutos pensando en el mismo problema sin llegar a ninguna conclusión nueva, probablemente ya no estas pensando. Estas rumiando.
 
-**Ejercicio inmediato:** Para la situación que más veces has rumiado en la última semana, evalua con honestidad: en todas esas vueltas, llegaste a alguna conclusión nueva o plan de acción que no habías tenido en los primeros cinco minutos? Si no, todo ese tiempo fue rumia, no pensamiento. Esa evaluación honesta es el punto de partida para decidir si merece la inversión que le estas dando.
+**Ejercicio inmediato:** Para la situación que más veces has rumiado en la última semana, evalua con honestidad: ¿en todas esas vueltas, llegaste a alguna conclusión nueva o plan de acción que no habías tenido en los primeros cinco minutos? Si no, todo ese tiempo fue rumia, no pensamiento. Esa evaluación honesta es el punto de partida para decidir si merece la inversión que le estas dando.
 
 Pensar en un problema durante horas no te hace más sabio sobre el. Solo te hace más cansado.
 
@@ -41,7 +41,7 @@ Elena sabe que la rumia le hace daño pero no puede parar. Entender las funcione
 
 La paradoja de la rumia es que produce exactamente lo opuesto de lo que intenta: en lugar de resolver el problema, lo mantiene activo; en lugar de prevenir futuros errores, produce el estado emocional que deteriora el juicio; en lugar de procesar las emociones, las amplifica y las prolonga.
 
-**Ejercicio inmediato:** Para tu habito de rumia, identifica la función que parece cumplir subjetivamente: que te parece que estas haciendo cuando rumias? Esa función percibida es real (la rumia produce lo que crees que produce)? La investigación sugiere que probablemente no. Identificar la brecha entre la función percibida y la función real es el primer paso para buscar alternativas que si cumplan la función.
+**Ejercicio inmediato:** Para tu habito de rumia, identifica la función que parece cumplir subjetivamente: ¿que te parece que estas haciendo cuando rumias? ¿Esa función percibida es real (la rumia produce lo que crees que produce)? La investigación sugiere que probablemente no. Identificar la brecha entre la función percibida y la función real es el primer paso para buscar alternativas que si cumplan la función.
 
 La rumia que parece que te hace controlar el problema te hace exactamente lo contrario: el problema te controla a ti.
 
@@ -55,7 +55,7 @@ Ruben ha empezado a notar los patrones: la rumia se activa en momentos específi
 
 Conocer los detonadores de la rumia propia permite dos cosas: anticiparla (saber que después de X suelo empezar a rumiar) y preparar una estrategia de intervención antes de que el ciclo se establezca. La intervención es mucho más facil en los primeros treinta segundos que cuando el ciclo lleva veinte minutos.
 
-**Ejercicio inmediato:** Mapea los detonadores de tu rumia: en que momentos del dia ocurre más frecuentemente? En que contextos físicos? Después de que tipos de eventos? Con que emociones? Ese mapa te permite anticipar los momentos de mayor riesgo y preparar la estrategia de antemano.
+**Ejercicio inmediato:** Mapea los detonadores de tu rumia: ¿en que momentos del dia ocurre más frecuentemente? ¿En que contextos físicos? Después de que tipos de eventos? ¿Con que emociones? Ese mapa te permite anticipar los momentos de mayor riesgo y preparar la estrategia de antemano.
 
 La rumia que anticipas es la que puedes interrumpir. La que te sorprende ya tiene ventaja.
 
@@ -69,7 +69,7 @@ Isabel ha intentado decirse que pare de rumiar y no funciona. La interrupción c
 
 Las técnicas de interrupción conductual más efectivas para la rumia incluyen: la actividad física (incluso una caminata de diez minutos reduce significativamente la rumia), el cambio de entorno físico, el compromiso en una tarea que requiere atención deliberada (un problema que requiere concentración), y la conexión social (conversar con alguien sobre algo diferente al tema de la rumia).
 
-**Ejercicio inmediato:** Diseña tu plan de interrupción conductual para la próxima vez que notes la rumia comenzando: que actividad física o conductual hará inmediatamente? La especificidad del plan es lo que lo hace ejecutable en el momento en que el ciclo ya se ha iniciado y la motivación para interrumpirlo es baja.
+**Ejercicio inmediato:** Diseña tu plan de interrupción conductual para la próxima vez que notes la rumia comenzando: ¿que actividad física o conductual hará inmediatamente? La especificidad del plan es lo que lo hace ejecutable en el momento en que el ciclo ya se ha iniciado y la motivación para interrumpirlo es baja.
 
 No puedes pensar para salir de la rumia. Tienes que moverte, cambiar de lugar, o conectar con alguien. El cuerpo a veces puede lo que la mente no puede.
 
@@ -109,9 +109,9 @@ Ruben ha aprendido a interrumpir la rumia pero se pregunta que debe hacer en su 
 
 **El Principio del Pensamiento Resolutivo como Alternativa Deliberada a la Rumia:** La alternativa sana a la rumia no es dejar de pensar en los problemas sino pensar en ellos de forma diferente: de forma orientada al problema, orientada a la solución, y con un tiempo designado. La investigación de Nolen-Hoeksema muestra que la reflexión (pensamiento deliberado sobre las propias experiencias con apertura a nuevas perspectivas) produce outcomes muy distintos de la rumia.
 
-El protocolo del pensamiento resolutivo incluye: un tiempo limitado y designado para el pensamiento (no rumia a demanda sino reflexión estructurada), una pregunta orientadora específica (que puedo hacer al respecto? que aprendo de esto?), la busqueda de nuevas perspectivas (que veria alguien externo? que diria dentro de un año?), y el cierre con un plan de acción o con una decisión de aceptación.
+El protocolo del pensamiento resolutivo incluye: ¿un tiempo limitado y designado para el pensamiento (no rumia a demanda sino reflexión estructurada), una pregunta orientadora específica (que puedo hacer al respecto? que aprendo de esto?), la busqueda de nuevas perspectivas (que veria alguien externo? que diria dentro de un año?), y el cierre con un plan de acción o con una decisión de aceptación.
 
-**Ejercicio inmediato:** Para tu preocupación principal en este momento, práctica el pensamiento resolutivo con tiempo limitado: pon un temporizador de diez minutos, define la pregunta orientadora (que puedo hacer al respecto?), escribe todo lo que se te ocurra sobre esa pregunta, y al final del tiempo decide si hay un paso de acción o si vas a practicar la aceptación de lo que no puedes cambiar. Después del tiempo, deja el tema.
+**Ejercicio inmediato:** Para tu preocupación principal en este momento, práctica el pensamiento resolutivo con tiempo limitado: ¿pon un temporizador de diez minutos, define la pregunta orientadora (que puedo hacer al respecto?), escribe todo lo que se te ocurra sobre esa pregunta, y al final del tiempo decide si hay un paso de acción o si vas a practicar la aceptación de lo que no puedes cambiar. Después del tiempo, deja el tema.
 
 El pensamiento que tiene un punto de cierre produce resolución. El que no tiene fin produce agotamiento.
 
@@ -123,9 +123,9 @@ Isabel ha descubierto que debajo de su tendencia a rumiar hay creencias específ
 
 **El Principio de las Creencias Meta-Cognitivas como Motor de la Rumia:** Adrian Wells, investigador de los trastornos de ansiedad, propone que la rumia y la preocupación estan sostenidas por creencias metacognitivas (creencias sobre los propios procesos mentales): creencias positivas sobre la rumia (rumiando entiendo mejor el problema, preocupandome me preparó para lo peor) y creencias negativas (no puedo controlar mis pensamientos, si dejó de rumiar algo malo ocurrira).
 
-Las creencias positivas sobre la rumia son especialmente persistentes porque la rumia si cumple la función de generar la sensación de control, aunque no la realidad del control. Cuestionarlas requiere examinar la evidencia: en que situaciones concretas la rumia ha producido soluciones que no habrias tenido sin ella?
+Las creencias positivas sobre la rumia son especialmente persistentes porque la rumia si cumple la función de generar la sensación de control, aunque no la realidad del control. Cuestionarlas requiere examinar la evidencia: ¿en que situaciones concretas la rumia ha producido soluciones que no habrías tenido sin ella?
 
-**Ejercicio inmediato:** Escribe las creencias que tienes sobre tu rumiación: por qué crees que rumias? Que crees que produce? Examina la evidencia de cada creencia: en los últimos casos concretos de rumia, esas funciones que crees que cumple, las cumplio realmente? El examen de la evidencia frecuentemente muestra que las creencias sobre la utilidad de la rumia no tienen el soporte que parece que tienen.
+**Ejercicio inmediato:** Escribe las creencias que tienes sobre tu rumiación: ¿por qué crees que rumias? ¿Que crees que produce? Examina la evidencia de cada creencia: ¿en los últimos casos concretos de rumia, esas funciones que crees que cumple, las cumplio realmente? El examen de la evidencia frecuentemente muestra que las creencias sobre la utilidad de la rumia no tienen el soporte que parece que tienen.
 
 La creencia de que rumiar te ayuda a resolver el problema es la trampa más inteligente que tiene la rumia. Porque la mantiene activa precisamente mientras te convence de que es útil.
 

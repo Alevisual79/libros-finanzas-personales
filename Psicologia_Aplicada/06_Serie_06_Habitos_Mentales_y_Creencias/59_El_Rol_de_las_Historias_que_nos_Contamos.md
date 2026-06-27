@@ -55,7 +55,7 @@ Elena tiene una narrativa en la que ella es la persona que recibio la mano de ca
 
 Viktor Frankl propone que incluso en las circunstancias más extremas el ser humano retiene la libertad de elegir la actitud: la narrativa que incorpora tanto el reconocimiento del daño cómo la agencia personal produce mayor bienestar y mayor recuperación que la narrativa que solo reconoce el daño.
 
-**Ejercicio inmediato:** Si reconoces elementos de narrativa de victima en tu historia, reflexiona: sin negar los daños reales que has recibido, como describiriasla historia desde el ángulo de lo que has hecho con lo que te dieron (incluyendo lo que no elegiste)? La segunda narrativa no niega el daño sino que incorpora la agencia que el primero invisibiliza.
+**Ejercicio inmediato:** Si reconoces elementos de narrativa de victima en tu historia, reflexiona: ¿sin negar los daños reales que has recibido, como describiriasla historia desde el ángulo de lo que has hecho con lo que te dieron (incluyendo lo que no elegiste)? La segunda narrativa no niega el daño sino que incorpora la agencia que el primero invisibiliza.
 
 La historia de lo que te hicieron es real. La historia de lo que hiciste con ello también lo es. Solo la segunda te da poder para seguir adelante.
 
@@ -83,7 +83,7 @@ Isabel ha encontrado en algunos de los capítulos más dolorosos de su vida las 
 
 El contraste son las contamination sequences, momentos en que algo positivo es arruinado o contaminado por algo negativo, que se asocian con menor bienestar. La proporción de secuencias de redención versus contaminación en la narrativa de vida predice el bienestar adulto.
 
-**Ejercicio inmediato:** Identifica en tu historia una secuencia de redención: un momento difícil que fue el punto de partida de algo que valoras, aunque no lo habrias pedido. No para romanizar el sufrimiento sino para ver si hay conexiones causales entre lo difícil y lo valioso que tienes ahora. Esas conexiones son el material de las redemption sequences.
+**Ejercicio inmediato:** Identifica en tu historia una secuencia de redención: un momento difícil que fue el punto de partida de algo que valoras, aunque no lo habrías pedido. No para romanizar el sufrimiento sino para ver si hay conexiones causales entre lo difícil y lo valioso que tienes ahora. Esas conexiones son el material de las redemption sequences.
 
 El sufrimiento que encontró una función en tu historia ya no es solo sufrimiento. Es parte de quien eres por razones que puedes nombrar.
 
@@ -139,7 +139,7 @@ Isabel ha notado que la narrativa que tiene sobre si misma incluye muchas voces 
 
 La terapia narrativa de Michael White y David Epston trabaja específicamente con estas narrativas: identifica las historias dominantes que otros construyeron sobre el cliente, examina cómo se instalaron, y crea espacio para narrativas alternativas que sean más autenticas a la experiencia del cliente.
 
-**Ejercicio inmediato:** Identifica dos o tres narrativas sobre quien eres que probablemente no construiste tu sino que fueron construidas por otros y que interiorizaste: mensajes sobre tus capacidades, tu valor, tu lugar en el mundo que vienen de figuras específicas. Para cada una, pregunta: si esa narrativa viniera de alguien que no conocias, habrias elegido creerla?
+**Ejercicio inmediato:** Identifica dos o tres narrativas sobre quien eres que probablemente no construiste tu sino que fueron construidas por otros y que interiorizaste: mensajes sobre tus capacidades, tu valor, tu lugar en el mundo que vienen de figuras específicas. Para cada una, pregunta: ¿si esa narrativa viniera de alguien que no conocias, habrías elegido creerla?
 
 Las historias que otros te contaron sobre quien eras no tienen que ser las que tu te cuentas sobre quien eres.
 
@@ -147,7 +147,7 @@ Las historias que otros te contaron sobre quien eras no tienen que ser las que t
 
 ## Capítulo 10: La historia que quieres vivir
 
-Isabel, Ruben, y Elena han estado examinando las historias que se cuentan. Ahora vienen la pregunta más importante: cual es la historia que quieren vivir?
+Isabel, Ruben, y Elena han estado examinando las historias que se cuentan. Ahora vienen la pregunta más importante: ¿cual es la historia que quieren vivir?
 
 **El Principio de la Autoria Narrativa como Responsabilidad y Libertad:** Viktor Frankl, Martin Heidegger, y Jean-Paul Sartre, desde tradiciones diferentes, convergen en proponer que el ser humano es fundamentalmente el autor de su propia vida: no el autor de todas las circunstancias (que muchas veces no se eligen) sino el autor del significado que se da a esas circunstancias y de la historia que se construye con ellas.
 

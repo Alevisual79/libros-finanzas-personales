@@ -176,7 +176,7 @@ Todo equipo tiene, en algún momento, miembros cuyo comportamiento dificulta el 
 Tolerar el comportamiento porque el individuo produce resultados o porque la conversación es incómoda. La tolerancia tiene un costo colectivo: el mensaje que envía al resto del equipo es que las normas no se aplican igualmente.
 
 **La intervención:**
-Conversación directa, privada, con el modeló SBI: comportamiento específico, impacto en el equipo, expectativa de cambio. La mayoría de personas cambian cuando se les señala con claridad y sin recriminación cómo su comportamiento afecta al equipo.
+Conversación directa, privada, con el modelo SBI: comportamiento específico, impacto en el equipo, expectativa de cambio. La mayoría de personas cambian cuando se les señala con claridad y sin recriminación cómo su comportamiento afecta al equipo.
 
 ---
 

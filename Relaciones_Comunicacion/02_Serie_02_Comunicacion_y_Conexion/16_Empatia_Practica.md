@@ -33,7 +33,7 @@ Elena siempre supo como sentirse mal juntó con los demás. Cuando su amiga sufr
 
 Daniel Goleman distingue tres tipos de empatia: cognitiva (entender intelectualmente la perspectiva del otro), emocional (sentir lo que el otro siente) y la empatia compasiva (entender la perspectiva del otro y sentir el impulso de ayudar). Las tres son formas de empatia. Las tres se pueden desarrollar.
 
-**Ejercicio inmediato:** La próxima vez que alguien te cuente algo difícil, práctica la pregunta interna: como es estar siendo esta persona en este momento? No como sería para mi. Como es para ella. Esa distinción abre la empatia cognitiva.
+**Ejercicio inmediato:** La próxima vez que alguien te cuente algo difícil, práctica la pregunta interna: ¿como es estar siendo esta persona en este momento? No como sería para mi. Como es para ella. Esa distinción abre la empatia cognitiva.
 
 Empatia no es sentir lo mismo que el otro. Es entender cómo se siente ser el otro.
 
@@ -55,13 +55,13 @@ Entender la situación del otro es la mitad. Entender cómo se siente en esa sit
 
 ## Capítulo 3: Empatia vs simpatia: la diferencia crucial
 
-Cuando Isabel le dice a su empleado que lamenta lo que esta pasando con su madre enferma y que debe ser muy difícil desde el punto de vista de la gestión del tiempo, no esta siendo empatica. Esta siendo simpatica desde su perspectiva de gestora. La empatia hubiera sido: cuentame, que es lo más difícil de todo esto para ti?
+Cuando Isabel le dice a su empleado que lamenta lo que esta pasando con su madre enferma y que debe ser muy difícil desde el punto de vista de la gestión del tiempo, no esta siendo empatica. Esta siendo simpatica desde su perspectiva de gestora. La empatia hubiera sido: ¿cuentame, que es lo más difícil de todo esto para ti?
 
 **El Principio de la Perspectiva Original:** La simpatia mira al otro desde la propia posición: lo que sería difícil para mi en tu situación. La empatia intenta acceder a la posición del otro: que es difícil específicamente para esta persona en esta situación. La simpatia a veces es suficiente y siempre es más facil. La empatia es lo que produce la sensación de haber sido realmente comprendido.
 
 Brene Brown ilustra la diferencia con una imagen poderosa: la simpatia mira desde fuera del pozo donde esta el otro y dice lo siento, eso parece difícil. La empatia baja al pozo y dice se cómo se siente estar aquí, no estas solo.
 
-**Ejercicio inmediato:** En la próxima conversación donde alguien te cuente algo difícil, antes de responder, pregunta: que es lo más difícil de eso para ti? Esa pregunta te da acceso a la experiencia específica del otro en lugar de a tu proyección sobre lo que sería difícil para ti.
+**Ejercicio inmediato:** En la próxima conversación donde alguien te cuente algo difícil, antes de responder, pregunta: ¿que es lo más difícil de eso para ti? Esa pregunta te da acceso a la experiencia específica del otro en lugar de a tu proyección sobre lo que sería difícil para ti.
 
 La simpatia te hace sentir bien. La empatia hace que el otro se sienta comprendido. No son lo mismo.
 
@@ -89,7 +89,7 @@ La empatia se práctica en las conversaciones cotidianas, no en los grandes mome
 
 Cada una de estas prácticas parece simple y es difícil de mantener bajo presión emocional. La persona que naturalmente salta al consejo tiene que aprender a tolerar el espacio previo. La que naturalmente asume lo que el otro siente tiene que aprender a preguntar.
 
-**Ejercicio inmediato:** En esta semana, en cada conversación donde alguien te cuente algo difícil, práctica no dar consejo a menos que te lo pidan explicitamente. Solo refleja y pregunta. Cuanto dura la conversación? Cuanto comparte el otro? Esas diferencias son la evidencia de lo que la empatia práctica produce.
+**Ejercicio inmediato:** En esta semana, en cada conversación donde alguien te cuente algo difícil, práctica no dar consejo a menos que te lo pidan explicitamente. Solo refleja y pregunta. ¿Cuanto dura la conversación? ¿Cuanto comparte el otro? Esas diferencias son la evidencia de lo que la empatia práctica produce.
 
 La empatia no se demuestra con grandes gestos. Se práctica en las conversaciones ordinarias de cada dia.
 
@@ -117,7 +117,7 @@ La empatia sin límites es fusión. Y la fusión es el fin de la empatia real po
 
 Las personas que no han desarrollado esa distinción experimentan la cercania emocional como amenazante porque no saben donde termina el otro y donde empiezan ellas. La empatia, para ellas, es demasiado arriesgada. El resultado es distancia emocional como forma de protección.
 
-**Ejercicio inmediato:** En la próxima conversación de alta carga emocional, práctica la pregunta interna: que estoy sintiendo yo siendo testigo de esto, diferente de lo que el otro esta sintiendo? Esa distinción, mantenida con suavidad, es lo que permite estar completamente presente sin absorberse.
+**Ejercicio inmediato:** En la próxima conversación de alta carga emocional, práctica la pregunta interna: ¿que estoy sintiendo yo siendo testigo de esto, diferente de lo que el otro esta sintiendo? Esa distinción, mantenida con suavidad, es lo que permite estar completamente presente sin absorberse.
 
 Puedes estar completamente presente con el otro sin perder el suelo propio. Esa es la empatia real.
 
@@ -131,7 +131,7 @@ Hay personas para las que la empatia no ocurre espontaneamente. La neurociencia 
 
 El resultado puede ser funcional sin ser natural, y funcional es suficiente para la mayoría de las relaciones. La persona que aprende a responder con comprensión aunque no la sienta automáticamente produce en el otro el mismo efecto que la que la siente de forma espontanea.
 
-**Ejercicio inmediato:** Si la empatia no te sale naturalmente, aprende tres preguntas que activen la perspectiva del otro en las conversaciones: que es lo más difícil de esto para ti? Como te hace sentir eso? Que necesitas en este momento? Usarlas de forma deliberada produce resultados parecidos a la empatia espontanea.
+**Ejercicio inmediato:** Si la empatia no te sale naturalmente, aprende tres preguntas que activen la perspectiva del otro en las conversaciones: ¿que es lo más difícil de esto para ti? ¿Como te hace sentir eso? Que necesitas en este momento? Usarlas de forma deliberada produce resultados parecidos a la empatia espontanea.
 
 La empatia que requiere esfuerzo consciente es tan valida cómo la espontanea. El efecto en el otro es el mismo.
 

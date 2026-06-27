@@ -27,7 +27,7 @@ Los estilos de apego que se desarrollaron en la infancia no se quedan en la infa
 
 Cindy Hazan y Phillip Shaver fueron los primeros en proponer que los estilos de apego se activan en las relaciones romanticas adultas: el estilo seguro, el ansioso (miedo intenso al abandono, busqueda de reaseguración), y el evitativo (incomodidad con la cercania, enfasis en la autonomía como defensa).
 
-**Ejercicio inmediato:** Reflexiona sobre tu patron habitual en relaciones intimas pasadas: tiendes a preocuparte de que el otro te abandone? Tiendes a incomodarte cuando la relación se vuelve muy cercana? O puedes tolerar tanto la cercania cómo la distancia sin que ninguna produzca alarma intensa? Identificar tu patron es el punto de partida para entender como el pasado influye en el presente.
+**Ejercicio inmediato:** Reflexiona sobre tu patron habitual en relaciones intimas pasadas: ¿tiendes a preocuparte de que el otro te abandone? ¿Tiendes a incomodarte cuando la relación se vuelve muy cercana? O puedes tolerar tanto la cercania cómo la distancia sin que ninguna produzca alarma intensa? Identificar tu patron es el punto de partida para entender como el pasado influye en el presente.
 
 El apego que desarrollaste con tus primeros cuidadores es el borrador de relación que llevas a todas las relaciones importantes. Saber que borrador tienes es poder reescribirlo.
 
@@ -37,13 +37,13 @@ El apego que desarrollaste con tus primeros cuidadores es el borrador de relaci�
 
 Ruben tuvo un padre impredecible: a veces afectuoso, a veces frio, ocasionalmente explosivo.
 
-**El Principio del Apego Desorganizado como Trauma Relacional:** Mary Main y Erik Hesse propusieron que el apego desorganizado ocurre cuando el cuidador es al mismo tiempo la fuente de amenaza y la fuente potencial de confort. El nino enfrenta un dilema biológico sin solución: el instinto de apego le empuja hacía el cuidador cuando hay amenaza, pero el cuidador es la amenaza.
+**El Principio del Apego Desorganizado como Trauma Relacional:** Mary Main y Erik Hesse propusieron que el apego desorganizado ocurre cuando el cuidador es al mismo tiempo la fuente de amenaza y la fuente potencial de confort. El niño enfrenta un dilema biológico sin solución: el instinto de apego le empuja hacía el cuidador cuando hay amenaza, pero el cuidador es la amenaza.
 
 El apego desorganizado en la infancia se asocia con las mayores dificultades relacionales en la adultez: mayor tendencia a relaciones de idealización y devaluación, dificultad para regular la emoción en la intimidad, mayor tendencia a la disociación en situaciones de alta activación, y mayor dificultad para mantener la confianza bajo presión.
 
-**Ejercicio inmediato:** Reflexiona sobre si en tu infancia hubo cuidadores que eran a la vez fuente de seguridad y fuente de amenaza. Como podría estar influyendo en las relaciones adultas: tiendes a la idealización seguida de devaluación? Sientes confusión entre intimidad y peligro?
+**Ejercicio inmediato:** Reflexiona sobre si en tu infancia hubo cuidadores que eran a la vez fuente de seguridad y fuente de amenaza. Como podría estar influyendo en las relaciones adultas: ¿tiendes a la idealización seguida de devaluación? ¿Sientes confusión entre intimidad y peligro?
 
-El confundir intimidad con peligro no es irracionalidad. Es la consecuencia de haberlos experimentado mezclados cuando no podias elegir.
+El confundir intimidad con peligro no es irracionalidad. Es la consecuencia de haberlos experimentado mezclados cuando no podías elegir.
 
 ---
 
@@ -55,7 +55,7 @@ Elena no entiende por qué con ciertas personas y en ciertos contextos su compor
 
 Cuando el detonador se activa, el sistema nervioso responde al recuerdo traumatico como si la situación actual fuera identica a la pasada. La persona puede pasar de su estado habitual a un estado completamente diferente en segundos, sin poder explicar completamente por qué.
 
-**Ejercicio inmediato:** Para una relación actual donde experimentas reacciones que te sorprenden por su intensidad, identifica los detonadores específicos: que comportamiento del otro produce la reacción desproporcionada? La identificación del detonador es el primer paso para distinguir lo que pertenece al presente de lo que pertenece al pasado.
+**Ejercicio inmediato:** Para una relación actual donde experimentas reacciones que te sorprenden por su intensidad, identifica los detonadores específicos: ¿que comportamiento del otro produce la reacción desproporcionada? La identificación del detonador es el primer paso para distinguir lo que pertenece al presente de lo que pertenece al pasado.
 
 La reacción que el presente no justifica tiene deudas con el pasado. Identificar los detonadores es el primer paso de la deuda.
 
@@ -69,7 +69,7 @@ Ruben lo experimenta en todas sus relaciones: en cuanto la relación se vuelve v
 
 David Wallin, psicoterapeuta que ha investigado la intersección entre el apego y la psicoterapia, propone que la intimidad activa el trauma de apego porque la cercania genuina reactiva el temor aprendido de que ser conocido produce rechazó o daño. La vulnerabilidad que requiere la intimidad es exactamente la vulnerabilidad que el trauma aprendió a evitar.
 
-**Ejercicio inmediato:** Reflexiona sobre si tienes un patron de alejamiento cuando las relaciones se vuelven cercanas de verdad: cómo se manifiesta ese alejamiento? A traves de argumentos, de comportamientos que producen el rechazó del otro, de desconexion emocional?
+**Ejercicio inmediato:** Reflexiona sobre si tienes un patron de alejamiento cuando las relaciones se vuelven cercanas de verdad: ¿cómo se manifiesta ese alejamiento? ¿A traves de argumentos, de comportamientos que producen el rechazó del otro, de desconexion emocional?
 
 Alejarse cuando alguien se acerca demasiado no es falta de amor. Es la protección que aprendiste cuando acercarte era peligroso.
 
@@ -83,7 +83,7 @@ Isabel ha notado que tiende a acabar en relaciones con dinámicas similares a la
 
 Hay ademas una dinámica de busqueda de resolución: el sistema puede repetir el patron como intento inconsciente de resolverlo esta vez de forma diferente. Pero sin trabajo deliberado en el patron, la repetición produce el mismo resultado porque el script interno permanece igual.
 
-**Ejercicio inmediato:** Mapea las dos o tres relaciones más importantes de tu vida adulta: que patrones relacionales tenían en común? Comparalos con lo que recuerdas de los patrones relacionales de tu familia de origen. Las similitudes no son coincidencias: son el sistema reproduciendo lo conocido.
+**Ejercicio inmediato:** Mapea las dos o tres relaciones más importantes de tu vida adulta: ¿que patrones relacionales tenían en común? Comparalos con lo que recuerdas de los patrones relacionales de tu familia de origen. Las similitudes no son coincidencias: son el sistema reproduciendo lo conocido.
 
 El patron que repites en tus relaciones no lo eliges conscientemente. Lo repites porque es el unico que el sistema conoce hasta que aprendes otro.
 
@@ -125,7 +125,7 @@ Ruben no sabe si decirle a su pareja nueva lo que le ocurrio en el pasado.
 
 La guia general es que la transparencia sobre el propio trauma es una inversión en la intimidad, pero requiere timing y contexto adecuados para que esa inversión produzca retorno.
 
-**Ejercicio inmediato:** Para la relación actual más cercana, reflexiona: hay algo de tu historia de trauma que sería relevante compartir para que el otro entienda mejor algun patron de comportamiento que puede ser confuso para el? Diseña una versión que es suficientemente honesta para ser útil y suficientemente acotada para no sobrecargar al otro.
+**Ejercicio inmediato:** Para la relación actual más cercana, reflexiona: ¿hay algo de tu historia de trauma que sería relevante compartir para que el otro entienda mejor algun patron de comportamiento que puede ser confuso para el? Diseña una versión que es suficientemente honesta para ser útil y suficientemente acotada para no sobrecargar al otro.
 
 Compartir el trauma con tu pareja no es un deber ni una confesión. Es una invitación a la comprensión mutua, si la relación tiene la seguridad para sostenerlo.
 
@@ -153,7 +153,7 @@ Ruben ha aprendido que construir relaciones sanas después de un historial de tr
 
 La investigación sobre parejas de Gottman muestra que la proporción de momentos de conexión versus momentos de conflicto, y especialmente la capacidad de reparación tras el conflicto, son los predictores más robustos de la satisfacción relacional a largo plazo.
 
-**Ejercicio inmediato:** Reflexiona sobre tu capacidad de reparación en tus relaciones: cuando hay un malentendido o una ruptura en el vinculó, cuanto tiempo suele tardar el regreso a la conexión? Que dificulta la reparación? La habilidad de reparación es la que más directamente construye la seguridad relacional.
+**Ejercicio inmediato:** Reflexiona sobre tu capacidad de reparación en tus relaciones: ¿cuando hay un malentendido o una ruptura en el vinculó, cuanto tiempo suele tardar el regreso a la conexión? ¿Que dificulta la reparación? La habilidad de reparación es la que más directamente construye la seguridad relacional.
 
 La relación que puede repararse cuando se rompe es la que puede sostenerse. La habilidad de reparar vale más que la habilidad de no romper.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel ha estado en comites de dirección donde personas muy inteligentes han tomado decisiones que, vistas desde fuera, eran claramente malas. Ruben ha visto como startups brillantes tomaban giros estratégicos que terminaban en desastre, con un equipo directivo que en retrospectiva reconocia que todos habían tenido dudas pero nadie las había expresado. Elena ha participado en proyectos de equipo donde el trabajo grupal producia algo peor que lo que cualquiera de los miembros habria producido individualmente. El pensamiento grupal (groupthink) no es solo un concepto académico. Es una de las causas más frecuentes de fracaso organizacional y personal, y entenderlo es el primer paso para evitarlo.
+Isabel ha estado en comites de dirección donde personas muy inteligentes han tomado decisiones que, vistas desde fuera, eran claramente malas. Ruben ha visto como startups brillantes tomaban giros estratégicos que terminaban en desastre, con un equipo directivo que en retrospectiva reconocia que todos habían tenido dudas pero nadie las había expresado. Elena ha participado en proyectos de equipo donde el trabajo grupal producia algo peor que lo que cualquiera de los miembros habría producido individualmente. El pensamiento grupal (groupthink) no es solo un concepto académico. Es una de las causas más frecuentes de fracaso organizacional y personal, y entenderlo es el primer paso para evitarlo.
 
 ---
 
@@ -27,7 +27,7 @@ El pensamiento grupal tiene una definición precisa que va más allá del uso co
 
 Los ocho sintomas que Janis identifica incluyen: la ilusión de invulnerabilidad (el grupo cree que no puede equivocarse), la creencia en la moralidad inherente del grupo (el grupo asume que sus decisiones son éticas), la racionalización colectiva (se minimizan las señales de alarma), las vistas estereotipadas del adversario, la presión directa sobre los disidentes, la autocensura (los miembros evitan expresar dudas), la ilusión de unanimidad (el silencio se interpreta como acuerdo), y la presencia de guardianes de la mente (personas que protegen al grupo de información contraria).
 
-**Ejercicio inmediato:** Para el último grupo de decisión del que formas parte (equipo de trabajo, familia, grupo de amigos), reflexiona: hay sintomas de pensamiento grupal presentes? Hay temas de los que no se puede hablar? Hay señales de alarma que se minimizan sistemáticamente? Hay miembros que nunca disienten? La presencia de tres o más de estos sintomas es una señal de alerta.
+**Ejercicio inmediato:** Para el último grupo de decisión del que formas parte (equipo de trabajo, familia, grupo de amigos), reflexiona: ¿hay sintomas de pensamiento grupal presentes? ¿Hay temas de los que no se puede hablar? Hay señales de alarma que se minimizan sistemáticamente? ¿Hay miembros que nunca disienten? La presencia de tres o más de estos sintomas es una señal de alerta.
 
 El grupo que nunca tiene desacuerdos no es el que más se lleva bien. Es el que menos piensa.
 
@@ -41,7 +41,7 @@ Ruben aprende mejor de los casos concretos que de las definiciones abstractas. L
 
 El caso del transbordador Challenger (1986) muestra los mismos patrones: ingenieros de Morton Thiokol habían expresado preocupaciones sobre las juntas toricas en temperaturas bajas, pero en la reunión de decisión la mañana del lanzamiento, la logica del grupo (la NASA necesitaba el lanzamiento, había una audiencia viendo) superó las preocupaciones técnicas.
 
-**Ejercicio inmediato:** Reflexiona sobre una mala decisión grupal de la que hayas formado parte en el pasado. Que sintomas de pensamiento grupal estaban presentes? Habia información disponible que el grupo minimizo? Habia personas que tenían dudas y no las expresaron? Ese análisis retrospectivo produce aprendizaje que el análisis en el momento no puede producir.
+**Ejercicio inmediato:** Reflexiona sobre una mala decisión grupal de la que hayas formado parte en el pasado. ¿Que sintomas de pensamiento grupal estaban presentes? ¿Habia información disponible que el grupo minimizo? Habia personas que tenían dudas y no las expresaron? Ese análisis retrospectivo produce aprendizaje que el análisis en el momento no puede producir.
 
 La mala decisión que no analizas solo se repite. La que analizas puede no volver.
 
@@ -55,7 +55,7 @@ Isabel ha notado que los grupos frecuentemente toman decisiones más extremas de
 
 Los mecanismos incluyen: la persuasión informativa (en la discusión surgen más argumentos a favor de la posición mayoritaria que en contra, sesgando la percepción de la evidencia), y la comparación social (los miembros del grupo quieren ser vistos como más firmemente comprometidos con los valores del grupo que los demás, lo que produce escalada de posiciones).
 
-**Ejercicio inmediato:** Cuando un grupo del que formas parte tiende sistemáticamente hacía posiciones extremas (en política, en estrategia de empresa, en decisiones familiares), introduce deliberadamente perspectivas moderadas: no para cambiar la posición del grupo sino para interrumpir el mecanismo de escalada. La introducción de perspectivas moderadas no es debilidad: es el mecanismo que evita que el grupo acabe en posiciones que ninguno de sus miembros habria tomado individualmente.
+**Ejercicio inmediato:** Cuando un grupo del que formas parte tiende sistemáticamente hacía posiciones extremas (en política, en estrategia de empresa, en decisiones familiares), introduce deliberadamente perspectivas moderadas: no para cambiar la posición del grupo sino para interrumpir el mecanismo de escalada. La introducción de perspectivas moderadas no es debilidad: es el mecanismo que evita que el grupo acabe en posiciones que ninguno de sus miembros habría tomado individualmente.
 
 El grupo que te lleva más lejos de dónde estabas no siempre te lleva en la dirección correcta.
 
@@ -123,7 +123,7 @@ Isabel ha notado que las plataformas digitales parecen amplificar los fenómenos
 
 **El Principio de las Camaras de Eco Digitales como Versión Algoritmicamente Amplificada del Pensamiento Grupal:** La investigación de Eli Pariser sobre la burbuja de filtros muestra que los algoritmos de las plataformas digitales (Facebook, YouTube, Twitter/X) optimizan para el engagement, que se produce principalmente con contenido que confirma las creencias previas del usuario. El resultado son camaras de eco donde los usuarios son expuestos casi exclusivamente a perspectivas que refuerzan sus posiciones existentes.
 
-La investigación de Levi Boxell y colegas muestra que la polarización política en EEUU ha aumentado más rápidamente en los grupos demograficos que menos usan internet (mayores de 65 años), lo que sugiere que los algoritmos no son la causa principal de la polarización pero son amplificadores significativos de dinámicas que existian antes de los algoritmos.
+La investigación de Levi Boxell y colegas muestra que la polarización política en EEUU ha aumentado más rápidamente en los grupos demograficos que menos usan internet (mayores de 65 años), lo que sugiere que los algoritmos no son la causa principal de la polarización pero son amplificadores significativos de dinámicas que existían antes de los algoritmos.
 
 **Ejercicio inmediato:** Durante una semana, busca activamente información sobre un tema importante para ti en fuentes que no suelen estar en tu circulo habitual de información. No para cambiar tu opinión sino para asegurarte de que la base de información de tu opinión no esta sesgada por los algoritmos que han seleccionado lo que ves. La opinión que solo ha visto los argumentos que la confirman es una opinión con blind spots que no conoces.
 
@@ -153,7 +153,7 @@ Elena ha llegado a entender que la resistencia al pensamiento grupal empieza en 
 
 La investigación de Jonathan Baron sobre el pensamiento de buen-decisión muestra que las personas que estan motivadas por la precisión (querer tener la opinión más correcta posible) producen mejor razonamiento que las que estan motivadas por la confirmación (querer confirmar sus creencias previas) o por la impresión (querer parecer inteligentes o coherentes ante los demás).
 
-**Ejercicio inmediato:** Para la próxima semana, práctica la pregunta del pensamiento crítico antes de aceptar cualquier argumento que resuene con tus creencias previas: que evidencia contraria existiria si esto no fuera verdad? Si la respuesta es no se, busca esa evidencia. El argumento que no puede especificar que evidencia lo falsificaria no es cientifico aunque use lenguaje cientifico.
+**Ejercicio inmediato:** Para la próxima semana, práctica la pregunta del pensamiento crítico antes de aceptar cualquier argumento que resuene con tus creencias previas: ¿que evidencia contraria existiria si esto no fuera verdad? Si la respuesta es no se, busca esa evidencia. El argumento que no puede especificar que evidencia lo falsificaria no es cientifico aunque use lenguaje cientifico.
 
 El pensamiento grupal que más te atrapara es el del grupo que ya crees que tiene razón. El que ya cuestionas no te puede atrapar.
 
@@ -161,7 +161,7 @@ El pensamiento grupal que más te atrapara es el del grupo que ya crees que tien
 
 ## Epílogo
 
-Isabel implementó el pre-mortem en su equipo. Las primeras dos veces fue incomodo: las personas no sabían que decir cuando se les pedía imaginar el fracaso de un plan que el equipo había trabajado con entusiasmo. Pero en la tercera sesión, una analista junior imagino un escenario de fracaso que describió con precisión un riesgo que el equipo había minimizado sistemáticamente. El riesgo era real. Se gestiono antes de que se convirtiera en el fracaso que ella había descrito. Isabel no supo nunca con certeza si el pre-mortem había evitado ese fracaso. Pero supo que sin el, la conversación donde se identifico el riesgo probablemente no habria ocurrido.
+Isabel implementó el pre-mortem en su equipo. Las primeras dos veces fue incomodo: las personas no sabían que decir cuando se les pedía imaginar el fracaso de un plan que el equipo había trabajado con entusiasmo. Pero en la tercera sesión, una analista junior imagino un escenario de fracaso que describió con precisión un riesgo que el equipo había minimizado sistemáticamente. El riesgo era real. Se gestiono antes de que se convirtiera en el fracaso que ella había descrito. Isabel no supo nunca con certeza si el pre-mortem había evitado ese fracaso. Pero supo que sin el, la conversación donde se identifico el riesgo probablemente no habría ocurrido.
 
 ---
 

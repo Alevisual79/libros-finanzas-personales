@@ -43,7 +43,7 @@ Vivimos más conectados que nunca (teléfonos, redes sociales, videoconferencia)
 
 La soledad no es solo un estado emocional desagradable. Activa respuestas fisiológicas de estrés crónico.
 
-**El modeló de John Cacioppo:**
+**El modelo de John Cacioppo:**
 El investigador John Cacioppo (Universidad de Chicago) dedicó décadas a estudiar la biología de la soledad. Sus hallazgos muestran que la soledad:
 - Activa el sistema de vigilancia de amenazas (respuesta de lucha o huida crónica)
 - Aumenta el cortisol y los marcadores inflamatorios

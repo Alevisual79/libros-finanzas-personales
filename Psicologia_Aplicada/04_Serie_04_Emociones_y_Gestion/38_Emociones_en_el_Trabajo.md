@@ -41,7 +41,7 @@ Ruben trabaja en atención al cliente. La mayor parte de su jornada la dedica a 
 
 Meta-análisis de Hulsheger y Schewe documentan que el trabajo emocional intenso, especialmente el surface acting, se asocia con mayor agotamiento emocional, mayor intención de abandono, menor satisfacción laboral, y mayor sintomatologia física.
 
-**Ejercicio inmediato:** Evalua tu nivel de trabajo emocional en tu rol actual: con que frecuencia tienes que expresar emociones que no sientes o suprimir las que si sientes? Si el nivel es alto de forma sostenida, identifica estrategias para reducirlo o para recuperarte de el fuera del horario laboral.
+**Ejercicio inmediato:** Evalua tu nivel de trabajo emocional en tu rol actual: ¿con que frecuencia tienes que expresar emociones que no sientes o suprimir las que si sientes? Si el nivel es alto de forma sostenida, identifica estrategias para reducirlo o para recuperarte de el fuera del horario laboral.
 
 El trabajo que te exige fingir quien eres todo el dia tiene una fecha de caducidad. Calcula cuando llega la tuya.
 
@@ -69,7 +69,7 @@ Ruben acaba de asumir responsabilidades de liderazgo de un equipo pequeño y qui
 
 Walter Mischel y Roy Baumeister proponen que la capacidad de regular los propios impulsos y emociones es fundamental para el liderazgo efectivo porque el líder cuyas emociones son impredecibles para el equipo produce inseguridad que reduce el rendimiento del grupo.
 
-**Ejercicio inmediato:** Evalua tu nivel en las cuatro dimensiones de Goleman: conoces bien tus propias emociones y como influyen (autoconciencia)? Puedes regular tus respuestas en situaciones de alta presión (autoregulación)? Puedes leer las emociones de tu equipo con precisión (conciencia social)? Puedes gestionar las emociones en interacciones interpersonales (gestión de relaciones)? La dimensión más debil es el punto de desarrollo más urgente.
+**Ejercicio inmediato:** Evalua tu nivel en las cuatro dimensiones de Goleman: ¿conoces bien tus propias emociones y como influyen (autoconciencia)? ¿Puedes regular tus respuestas en situaciones de alta presión (autoregulación)? Puedes leer las emociones de tu equipo con precisión (conciencia social)? ¿Puedes gestionar las emociones en interacciones interpersonales (gestión de relaciones)? La dimensión más debil es el punto de desarrollo más urgente.
 
 El líder que no gestiona sus emociones gestiona al equipo desde sus estados no regulados.
 
@@ -125,7 +125,7 @@ Ruben a veces toma decisiones rápidas que luego lamenta, y otras veces se paral
 
 La heuristica útil es distinguir entre emociones relevantes para la decisión (señalan algo que merece atención) y emociones irrelevantes (estado de animo general, cansancio) que pueden estar sesgando la evaluación.
 
-**Ejercicio inmediato:** Para la próxima decisión laboral importante, distingue antes de decidir: hay emociones relevantes para esta decisión? Hay emociones irrelevantes que pueden estar sesgando la evaluación? Esta distinción no garantiza la decisión perfecta pero si mayor consciencia del proceso.
+**Ejercicio inmediato:** Para la próxima decisión laboral importante, distingue antes de decidir: ¿hay emociones relevantes para esta decisión? ¿Hay emociones irrelevantes que pueden estar sesgando la evaluación? Esta distinción no garantiza la decisión perfecta pero si mayor consciencia del proceso.
 
 Las emociones que escuchas en las decisiones importantes no son todas ruido. Pero no todas son señal tampoco.
 
@@ -153,7 +153,7 @@ Ruben ha aprendido que la gestión emocional en el trabajo no es solo una habili
 
 Los comportamientos que crean seguridad psicológica incluyen: reconocer explicitamente la propia incertidumbre, invitar a la participación activamente, responder al error con curiosidad en lugar de con castigo, y modelar la vulnerabilidad apropiada.
 
-**Ejercicio inmediato:** Evalua el nivel de seguridad psicológica de tu entorno con tres preguntas: los miembros del equipo expresan ideas no convencionales sin miedo? Admiten errores sin consecuencias desproporcionadas? Piden ayuda cuando la necesitan? Si las respuestas son frecuentemente no, identifica un comportamiento tuyo que podría aumentar la seguridad psicológica.
+**Ejercicio inmediato:** Evalua el nivel de seguridad psicológica de tu entorno con tres preguntas: ¿los miembros del equipo expresan ideas no convencionales sin miedo? ¿Admiten errores sin consecuencias desproporcionadas? Piden ayuda cuando la necesitan? Si las respuestas son frecuentemente no, identifica un comportamiento tuyo que podría aumentar la seguridad psicológica.
 
 El equipo que no puede expresar lo que siente trabaja con una mano atada. La seguridad psicológica es la que desata esa mano.
 

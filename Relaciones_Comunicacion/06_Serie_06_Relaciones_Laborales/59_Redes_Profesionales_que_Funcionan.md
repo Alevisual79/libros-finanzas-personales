@@ -141,7 +141,7 @@ El verdadero valor de tu red profesional no se mide en LinkedIn. Se mide en cuan
 
 ## Epílogo
 
-Una red profesional no es una lista. Es un ecosistema vivo que necesita nutrición constante. Ruben, después de reconocer que sus tres mil contactos no le habían dado nada de valor real, dejó de enfocarse en acumular más conexiones y empezó a invertir deliberadamente en quince relaciones específicas, ofreciendo valor genuino a cada una sin expectativa inmediata. Dos años después, tres de esas quince personas le habían abierto puertas que ningún número de contactos superficiales habria logrado.
+Una red profesional no es una lista. Es un ecosistema vivo que necesita nutrición constante. Ruben, después de reconocer que sus tres mil contactos no le habían dado nada de valor real, dejó de enfocarse en acumular más conexiones y empezó a invertir deliberadamente en quince relaciones específicas, ofreciendo valor genuino a cada una sin expectativa inmediata. Dos años después, tres de esas quince personas le habían abierto puertas que ningún número de contactos superficiales habría logrado.
 
 ---
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben estuvo en una reunión donde todos apoyaron una decisión que el consideraba mala. No dijo nada. Isabel ha visto como personas que individualmente son críticas y analiticas, en reunión con su equipo, de repente aprueban propuestas que en privado habrian cuestionado. Elena recuerda situaciones de su adolescencia donde hizo cosas que no quería hacer porque todo el mundo lo hacía. La conformidad es una de las fuerzas más potentes que moldean el comportamiento humano. Este libro es sobre esa fuerza: por qué existe, que la amplifica, que la reduce, y como desarrollar la capacidad de disentir cuando la situación lo requiere.
+Ruben estuvo en una reunión donde todos apoyaron una decisión que el consideraba mala. No dijo nada. Isabel ha visto como personas que individualmente son críticas y analiticas, en reunión con su equipo, de repente aprueban propuestas que en privado habrían cuestionado. Elena recuerda situaciones de su adolescencia donde hizo cosas que no quería hacer porque todo el mundo lo hacía. La conformidad es una de las fuerzas más potentes que moldean el comportamiento humano. Este libro es sobre esa fuerza: por qué existe, que la amplifica, que la reduce, y como desarrollar la capacidad de disentir cuando la situación lo requiere.
 
 ---
 
@@ -27,7 +27,7 @@ La conformidad no es falta de carácter. Es un sistema evolutivo que normalmente
 
 La investigación de Robert Cialdini sobre la prueba social muestra que la conformidad informacional (seguir al grupo porque el grupo puede saber algo que yo no se) es una estrategia altamente adaptativa en la mayoría de los contextos: si el restaurante tiene cola, probablemente es bueno; si todos los cientificos huyen del edificio, probablemente hay una razón. El problema es cuando la conformidad informacional se aplica en contextos donde el grupo no tiene mejor información que el individuo.
 
-**Ejercicio inmediato:** Reflexiona sobre las tres últimas veces que seguiste al grupo sin cuestionarlo. Para cada una, reflexiona: el grupo tenía genuinamente mejor información que tu (conformidad informacional adaptativa) o simplemente más personas que pensaban lo mismo (conformidad normativa por presión social)? La distinción determina si la conformidad fue una buena o mala estrategia en cada caso.
+**Ejercicio inmediato:** Reflexiona sobre las tres últimas veces que seguiste al grupo sin cuestionarlo. Para cada una, reflexiona: ¿el grupo tenía genuinamente mejor información que tu (conformidad informacional adaptativa) o simplemente más personas que pensaban lo mismo (conformidad normativa por presión social)? La distinción determina si la conformidad fue una buena o mala estrategia en cada caso.
 
 Seguir al grupo no es debilidad cuando el grupo sabe más. Es debilidad cuando solo es más.
 
@@ -41,7 +41,7 @@ Ruben se pregunta por qué en algunas situaciones su conformidad es mucho mayor 
 
 La investigación transcultural de Geert Hofstede y colegas muestra que la conformidad es mayor en culturas colectivistas (Japon, China, Korea) que en culturas individualistas (EEUU, Europa del norte), aunque el efecto existe en todas las culturas.
 
-**Ejercicio inmediato:** Para los grupos donde sientes mayor presión a conformarte (equipo de trabajo, familia, grupo de amigos), identifica que factores de la lista amplifican la presión: hay unanimidad percibida? Tienes menor estatus relativo? La tarea o decisión es ambigua? Identificar los factores que amplifican la presión es el primer paso para gestionarla.
+**Ejercicio inmediato:** Para los grupos donde sientes mayor presión a conformarte (equipo de trabajo, familia, grupo de amigos), identifica que factores de la lista amplifican la presión: ¿hay unanimidad percibida? ¿Tienes menor estatus relativo? La tarea o decisión es ambigua? Identificar los factores que amplifican la presión es el primer paso para gestionarla.
 
 La presión de grupo que no reconoces como presión de grupo la llamas opinión propia.
 
@@ -63,7 +63,7 @@ La disidencia que se rinde a la primera no es disidencia. Es teatro de la indepe
 
 ## Capítulo 4: El aliado solitario: el poder del que rompe la unanimidad
 
-Ruben recuerda que en la reunión que mencionamos al principio del libro, si hubiera habido solo una persona que dijera algo diferente, probablemente el habria hablado también.
+Ruben recuerda que en la reunión que mencionamos al principio del libro, si hubiera habido solo una persona que dijera algo diferente, probablemente el habría hablado también.
 
 **El Principio del Aliado Solitario como el Mayor Reductor de la Conformidad:** La investigación de Asch muestra que el factor que más reduce la conformidad no es el tamaño de la minoria sino la presencia de al menos una persona que rompe la unanimidad del grupo mayoritario. Cuando había un solo aliado que daba la respuesta correcta, la conformidad de los sujetos caía del 37% al 5%.
 
@@ -83,7 +83,7 @@ Elena se ha sorprendido creyendo cosas que después han resultado ser falsas. El
 
 La investigación sobre la desinformación en redes sociales de Soroush Vosoughi y colegas muestra que las noticias falsas se difunden más rápido y más ampliamente que las verdaderas en Twitter, en parte porque son más novedosas y sorprendentes, lo que las hace más compartibles (prueba social de la novedad).
 
-**Ejercicio inmediato:** Para las próximas tres piezas de información que recibas y que sean sorprendentes o que confirmen fuertemente tus creencias previas, práctica la verificación antes del reenvio: cual es la fuente original? Es una fuente con proceso de verificación? La sorpresa o la confirmación que sientes es una señal de baja vigilancia, no de alta fiabilidad.
+**Ejercicio inmediato:** Para las próximas tres piezas de información que recibas y que sean sorprendentes o que confirmen fuertemente tus creencias previas, práctica la verificación antes del reenvio: ¿cual es la fuente original? ¿Es una fuente con proceso de verificación? La sorpresa o la confirmación que sientes es una señal de baja vigilancia, no de alta fiabilidad.
 
 La noticia que te sorprende y que quieres compartir inmediatamente es precisamente la que más necesita ser verificada antes.
 
@@ -97,7 +97,7 @@ Isabel ha observado que en su empresa hay personas que saben que algo esta mal y
 
 La investigación de Amy Edmondson sobre la seguridad psicológica muestra que los equipos con mayor seguridad psicológica no solo tienen menor silencio organizacional sino que aprenden más rápido de sus errores y tienen menor tasa de errores graves en el largo plazo.
 
-**Ejercicio inmediato:** En tu entorno de trabajo, reflexiona: hay algo que sabes que podría mejorar el equipo o la organización y que no has dicho? Que te ha impedido decirlo? Si el impedimento es el miedo a las consecuencias relacionales, reflexiona sobre como podrías expresarlo de forma que reduzca ese riesgo: privadamente antes de la reunión, por escrito, o a traves de alguien con mayor capital social en el grupo.
+**Ejercicio inmediato:** En tu entorno de trabajo, reflexiona: ¿hay algo que sabes que podría mejorar el equipo o la organización y que no has dicho? ¿Que te ha impedido decirlo? Si el impedimento es el miedo a las consecuencias relacionales, reflexiona sobre como podrías expresarlo de forma que reduzca ese riesgo: privadamente antes de la reunión, por escrito, o a traves de alguien con mayor capital social en el grupo.
 
 El silencio que llamas prudencia es frecuentemente el que permite que el problema que ves continue.
 
@@ -111,7 +111,7 @@ Ruben ha visto en el mundo real que la disidencia tiene costes que la investigac
 
 La investigación de Charlan Nemeth sobre el valor del disidente en los grupos muestra, sin embargo, que los grupos que tienen disidentes producen soluciones más creativas y detectan más errores que los grupos sin disidentes, aunque los disidentes sean frecuentemente percibidos como molestos por los miembros del grupo.
 
-**Ejercicio inmediato:** Para la próxima vez que consideres expresar una disidencia con costes relacionales reales, reflexiona sobre el coste de no decirlo: la decisión que el grupo esta tomando tiene consecuencias reales negativas que podrían evitarse? La disidencia que decides expresar o no depende de la proporción entre el coste de expresarla y el beneficio de que tu perspectiva este en la mesa.
+**Ejercicio inmediato:** Para la próxima vez que consideres expresar una disidencia con costes relacionales reales, reflexiona sobre el coste de no decirlo: ¿la decisión que el grupo esta tomando tiene consecuencias reales negativas que podrían evitarse? La disidencia que decides expresar o no depende de la proporción entre el coste de expresarla y el beneficio de que tu perspectiva este en la mesa.
 
 La disidencia valiente no es la que no tiene coste. Es la que decide que el coste merece la pena.
 
@@ -125,7 +125,7 @@ Elena ha notado que buena parte de lo que compra esta influida por lo que tienen
 
 La investigación de Jonah Berger y Eric Schwartz sobre la visibilidad social del consumo muestra que los productos altamente visibles (coches, ropa, mobiliario exterior) son más susceptibles al contagio social que los productos privados (colchones, seguros).
 
-**Ejercicio inmediato:** Para tu próximo gasto importante (por encima de 500 euros), reflexiona: esta compra la iniciaste porque la necesitas o porque alguien de tu entorno tiene algo similar? La respuesta no determina si la compra es buena o mala, pero determina si la estas tomando desde tus propias prioridades o desde las de tu grupo de referencia.
+**Ejercicio inmediato:** Para tu próximo gasto importante (por encima de 500 euros), reflexiona: ¿esta compra la iniciaste porque la necesitas o porque alguien de tu entorno tiene algo similar? La respuesta no determina si la compra es buena o mala, pero determina si la estas tomando desde tus propias prioridades o desde las de tu grupo de referencia.
 
 Lo que compras cuando intentas no quedarte atras es el precio de la comparación social. No de la vida que quieres.
 
@@ -153,7 +153,7 @@ Elena ha llegado a entender que la independencia de criterio no es un rasgo de p
 
 La investigación de Cass Sunstein sobre el deliberation day y las camaras de eco muestra que la exposición deliberada a perspectivas diferentes (especialmente de personas con las que no estamos de acuerdo) mantiene activa la capacidad de revisión crítica de las propias creencias.
 
-**Ejercicio inmediato:** Identifica tres áreas de tu vida donde tienes creencias que nunca has cuestionado activamente y que comparte practicamente toda tu comunidad de referencia. Para cada una, reflexiona: que argumentos hacen las personas que no comparten esa creencia? No para cambiarla sino para asegurarte de que la tienes por razones propias y no solo por conformidad.
+**Ejercicio inmediato:** Identifica tres áreas de tu vida donde tienes creencias que nunca has cuestionado activamente y que comparte practicamente toda tu comunidad de referencia. Para cada una, reflexiona: ¿que argumentos hacen las personas que no comparten esa creencia? No para cambiarla sino para asegurarte de que la tienes por razones propias y no solo por conformidad.
 
 La creencia que nunca ha sido cuestionada no es tuya todavia. Es prestada del grupo que la produce.
 

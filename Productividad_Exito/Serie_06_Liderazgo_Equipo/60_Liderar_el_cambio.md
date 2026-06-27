@@ -43,7 +43,7 @@ Ver la resistencia como irracionalidad o como mal comportamiento. La resistencia
 
 ## Capítulo 2: Los modelos del cambio
 
-**El modeló de Kotter (8 pasos):**
+**El modelo de Kotter (8 pasos):**
 1. Crear sentido de urgencia
 2. Construir una coalición guía
 3. Desarrollar la visión del cambio
@@ -56,7 +56,7 @@ Ver la resistencia como irracionalidad o como mal comportamiento. La resistencia
 No es una receta infalible, pero identifica los elementos que el cambio exitoso necesita.
 
 **La curva del cambio de Kübler-Ross:**
-Adaptada del modeló de duelo, describe las etapas emocionales que las personas atraviesan en el cambio: negación → resistencia → exploración → compromiso. El líder del cambio necesita saber en qué etapa está cada persona y responder a esa etapa específica.
+Adaptada del modelo de duelo, describe las etapas emocionales que las personas atraviesan en el cambio: negación → resistencia → exploración → compromiso. El líder del cambio necesita saber en qué etapa está cada persona y responder a esa etapa específica.
 
 ---
 

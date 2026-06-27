@@ -51,7 +51,7 @@ La historia de la inteligencia artificial tiene setenta años. La mayor parte de
 
 Noviembre de 2022 cambio algo.
 
-El lanzamiento de ChatGPT al público general fue un momento bisagra. No porque ChatGPT fuera la primera IA de lenguaje avanzada —GPT-3 llevaba años disponible para investigadores—, sino porque fue la primera vez que cualquier persona podía acceder a una interfaz conversacional con un modeló de lenguaje de gran escala. Cien millones de usuarios en dos meses. El producto de adopción más rápida de la historia tecnológica.
+El lanzamiento de ChatGPT al público general fue un momento bisagra. No porque ChatGPT fuera la primera IA de lenguaje avanzada —GPT-3 llevaba años disponible para investigadores—, sino porque fue la primera vez que cualquier persona podía acceder a una interfaz conversacional con un modelo de lenguaje de gran escala. Cien millones de usuarios en dos meses. El producto de adopción más rápida de la historia tecnológica.
 
 Desde entonces, la curva no se ha aplanado. Se ha acelerado.
 

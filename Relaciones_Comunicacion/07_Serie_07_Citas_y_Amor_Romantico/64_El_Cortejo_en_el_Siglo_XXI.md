@@ -73,7 +73,7 @@ Existe una distinción ética importante entre la seducción genuina (que invita
 
 **El Principio de la Autonomia como Linea Etica:** La seducción ética preserva la capacidad de la otra persona de decidir libremente si quiere reciprocar el interés, basandose en información honesta sobre quien es realmente la persona que cortejea. La manipulación, en cambio, busca generar respuestas a traves de tacticas que distorsionan la percepción del otro (crear falsa escasez, generar inseguridad artificial, usar técnicas psicológicas de influencia que el otro no reconoce como tales).
 
-**Ejercicio inmediato:** Evalua honestamente tus propias tacticas de cortejo: invitan a una decisión libre e informada de la otra persona, o intentan generar una respuesta a traves de distorsión psicológica de su percepción?
+**Ejercicio inmediato:** Evalua honestamente tus propias tacticas de cortejo: ¿invitan a una decisión libre e informada de la otra persona, o intentan generar una respuesta a traves de distorsión psicológica de su percepción?
 
 La seducción ética invita a elegir libremente. La manipulación intenta forzar una elección a traves de distorsión psicológica.
 

@@ -27,7 +27,7 @@ No todo estres en el trabajo es ansiedad patologica. Hay un nivel de activación
 
 Alia Crum, investigadora de Stanford que estudia la psicología del estres, muestra que la creencia sobre el estres (si se ve como daño o como facilitador del rendimiento) modifica sus efectos biologicos: personas que ven el estres como facilitador del rendimiento muestran mejores perfiles hormonales y de salud ante el mismo nivel objetivo de estres que personas que lo ven como daño. La percepción del estres no es solo una actitud mental: modifica fisiologicamente como el cuerpo responde al mismo estímulo estresante.
 
-**Ejercicio inmediato:** Evalua tu estres laboral actual: tienes claridad sobre las demandas? Tienes el control y los recursos percibidos para manejarlas? Ves un punto final visible o es un estado cronico sin horizonte? Las respuestas determinan si estas en territorio de eustres o de distres.
+**Ejercicio inmediato:** Evalua tu estres laboral actual: ¿tienes claridad sobre las demandas? ¿Tienes el control y los recursos percibidos para manejarlas? Ves un punto final visible o es un estado cronico sin horizonte? Las respuestas determinan si estas en territorio de eustres o de distres.
 
 El estres que te impulsa y el que te destruye se sienten parecidos a corto plazo. La diferencia que importa es lo que hacen con el tiempo.
 
@@ -55,7 +55,7 @@ Elena cree que su burnout (que ya reconoce como tal) viene de trabajar demasiado
 
 Esta distinción importa practicamente porque intervenciones diferentes son apropiadas para cada desajuste. Un burnout por sobrecarga requiere intervención sobre la carga de trabajo. Un burnout por conflicto de valores puede requerir cambio de organización o de rol. Un burnout por falta de control requiere renegociación de la autonomía. Tratar todos los burnouts con la misma intervención (tomar más vacaciones, practicar autocuidado) es insuficiente cuando la causa raiz es estructural.
 
-**Ejercicio inmediato:** Evalua los seis desajustes para tu situación laboral actual: en cuales hay mayor diferencia entre lo que necesitas y lo que recibes? El desajuste más pronunciado es el que más contribuye a tu burnout y el que más merece atención específica.
+**Ejercicio inmediato:** Evalua los seis desajustes para tu situación laboral actual: ¿en cuales hay mayor diferencia entre lo que necesitas y lo que recibes? El desajuste más pronunciado es el que más contribuye a tu burnout y el que más merece atención específica.
 
 El burnout no se cura con yoga si viene de una injusticia que nunca se ha abordado.
 
@@ -97,7 +97,7 @@ Elena esta disponible para su empresa las veinticuatro horas del dia, los siete 
 
 La dificultad de establecer límites no es solo organizacional sino psicológica: muchas personas que trabajan mucho tienen identidades muy construidas alrededor del trabajo y de la imagen de ser el que más trabaja o el más comprometido. Establecer límites requiere revisar esa identidad, no solo implementar técnicas de gestión del tiempo.
 
-**Ejercicio inmediato:** Identifica un límite específico con el trabajo que necesitas pero que no has podido o querido establecer. Diseña cómo lo comunicarias a tu entorno laboral de forma que sea claro, razonable y profesional. Luego preguntate: por qué no lo has establecido hasta ahora? La respuesta a esa pregunta es más informativa que el límite en si.
+**Ejercicio inmediato:** Identifica un límite específico con el trabajo que necesitas pero que no has podido o querido establecer. Diseña cómo lo comunicarias a tu entorno laboral de forma que sea claro, razonable y profesional. Luego preguntate: ¿por qué no lo has establecido hasta ahora? La respuesta a esa pregunta es más informativa que el límite en si.
 
 Trabajar sin límites no es dedicación. Es el camino más corto hacía no poder trabajar en absoluto.
 
@@ -111,7 +111,7 @@ Isabel tiene un superior cuya gestión es una fuente continua de ansiedad: crít
 
 Atribuir toda la ansiedad laboral a deficiencias personales de gestión del estres en un entorno genuinamente toxico es doblemente dañino: no identifica la causa real y añade culpa personal al malestar que ya produce la situación. El trabajo de distinguir entre lo que se puede cambiar internamente (la respuesta personal) y lo que requiere cambio externo (la situación o el entorno) es más importante que cualquier técnica de manejo de estres.
 
-**Ejercicio inmediato:** Evalua tu situación laboral honestamente: el nivel de ansiedad que sientes es principalmente una respuesta a un entorno genuinamente problematico, o sería similar en cualquier entorno con las mismas demandas objetivas? Si la respuesta apunta claramente al entorno, la solución puede requerir cambiar el entorno, no solo mejorar la gestión del estres.
+**Ejercicio inmediato:** Evalua tu situación laboral honestamente: ¿el nivel de ansiedad que sientes es principalmente una respuesta a un entorno genuinamente problematico, o sería similar en cualquier entorno con las mismas demandas objetivas? Si la respuesta apunta claramente al entorno, la solución puede requerir cambiar el entorno, no solo mejorar la gestión del estres.
 
 Algunas ansiedades laborales son un problema de la persona en el entorno. Otras son un problema del entorno que cualquier persona sentiria. Saber cual tienes es el primer paso hacía el cambio correcto.
 
@@ -141,7 +141,7 @@ Christina Maslach propone que el burnout es frecuentemente una señal de que la 
 
 **Ejercicio inmediato:** Si estas en recuperación de burnout o ansiedad severa, utiliza ese tiempo para definir tres condiciones laborales no negociables para tu bienestar: límites que no cruzaras, relaciones que requieren cambio, cargas que no son sostenibles. Esas condiciones son la base de la renegociación que el regreso requiere.
 
-El burnout es costoso. también es una oportunidad de rediseñar la relación con el trabajo que la normalidad nunca habria permitido.
+El burnout es costoso. también es una oportunidad de rediseñar la relación con el trabajo que la normalidad nunca habría permitido.
 
 ---
 

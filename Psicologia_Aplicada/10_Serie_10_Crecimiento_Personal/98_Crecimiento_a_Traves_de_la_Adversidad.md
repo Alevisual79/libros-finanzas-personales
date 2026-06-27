@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena perdio un trabajo que era central en su identidad y tardo dos años en entender que esa perdida había reordenado sus prioridades de una forma que no habria ocurrido de otra manera. Ruben tuvo un fracaso de negocio que le parecio catastrofico en el momento y que tres años después reconoce como el aprendizaje más valioso de su carrera. Isabel ha atravesado una enfermedad grave que cambio su relación con el tiempo, las relaciones, y lo que considera importante de formas que ninguna experiencia positiva habria producido. Los tres han aprendido algo que la psicología confirma: la adversidad, cuando se atraviesa de cierta manera, produce crecimiento que la comodidad no puede producir.
+Elena perdio un trabajo que era central en su identidad y tardo dos años en entender que esa perdida había reordenado sus prioridades de una forma que no habría ocurrido de otra manera. Ruben tuvo un fracaso de negocio que le parecio catastrofico en el momento y que tres años después reconoce como el aprendizaje más valioso de su carrera. Isabel ha atravesado una enfermedad grave que cambio su relación con el tiempo, las relaciones, y lo que considera importante de formas que ninguna experiencia positiva habría producido. Los tres han aprendido algo que la psicología confirma: la adversidad, cuando se atraviesa de cierta manera, produce crecimiento que la comodidad no puede producir.
 
 ---
 
@@ -27,7 +27,7 @@ La idea de que la adversidad puede fortalecer no es optimismo ilusorio. Tiene ba
 
 Las áreas donde se reporta crecimiento incluyen: mayor apreciación de la vida (las cosas pequeñas adquieren mayor valor), relaciones más profundas (mayor apreciación de los vinculos), mayor percepción de fortaleza personal (supe que podía atravesarlo), mayor apertura a nuevas posibilidades (la crisis reordeno las prioridades), y mayor desarrollo espiritual o existencial (preguntas más profundas sobre el significado).
 
-**Ejercicio inmediato:** Para la experiencia más difícil que has vivido hasta ahora (si tienes suficiente distancia temporal de ella), reflexiona sobre estas cinco áreas: hay algo en tu apreciación de la vida que haya cambiado después de esa experiencia? Hay relaciones que hayan ganado profundidad? Has descubierto una fortaleza en ti que no conocias? Se han abierto posibilidades que antes no veias? Han cambiado tus preguntas sobre el significado? El PTG no es universal ni automático, pero identificarlo cuando existe produce una narrativa que integra la adversidad en la historia personal de forma menos destructiva.
+**Ejercicio inmediato:** Para la experiencia más difícil que has vivido hasta ahora (si tienes suficiente distancia temporal de ella), reflexiona sobre estas cinco áreas: ¿hay algo en tu apreciación de la vida que haya cambiado después de esa experiencia? ¿Hay relaciones que hayan ganado profundidad? Has descubierto una fortaleza en ti que no conocias? ¿Se han abierto posibilidades que antes no veías? Han cambiado tus preguntas sobre el significado? El PTG no es universal ni automático, pero identificarlo cuando existe produce una narrativa que integra la adversidad en la historia personal de forma menos destructiva.
 
 La experiencia que sobreviviste no te define por lo que te hizo. Te define por lo que hiciste con lo que te hizo.
 
@@ -41,7 +41,7 @@ Ruben se ha preguntado por qué algunas personas parecen recuperarse de las adve
 
 Los factores que predicen la resiliencia incluyen: las relaciones de apoyo (el predictor más robusto), el sentido de auto-eficacia (la creencia de que puedo hacer cosas que afectan mis resultados), la flexibilidad cognitiva (la capacidad de ver la situación desde multiples perspectivas), el sentido de sentido (la capacidad de encontrar un proposito en la experiencia), y los recursos materiales que reducen el estres secundario de la adversidad.
 
-**Ejercicio inmediato:** Para los factores de resiliencia identificados, reflexiona sobre tu situación actual: en cuales tienes mayor fortaleza? En cuales tienes mayor debilidad? El factor más deficitario es el que más merece inversión preventiva: antes de que llegue la próxima adversidad, no después.
+**Ejercicio inmediato:** Para los factores de resiliencia identificados, reflexiona sobre tu situación actual: ¿en cuales tienes mayor fortaleza? ¿En cuales tienes mayor debilidad? El factor más deficitario es el que más merece inversión preventiva: antes de que llegue la próxima adversidad, no después.
 
 La resiliencia que desarrollas en los tiempos faciles es la que tienes disponible en los tiempos difíciles.
 
@@ -51,11 +51,11 @@ La resiliencia que desarrollas en los tiempos faciles es la que tienes disponibl
 
 Elena atraveso un duelo que la cultura le decía que debería superar en plazos que no le resultaban realistas.
 
-**El Principio del Duelo como Proceso Natural con Gran Variabilidad Individual que no Puede Acelerarse Artificialmente:** Elisabeth Kubler-Ross propuso en 1969 las cinco etapas del duelo (negación, ira, negociación, depresión, aceptación) que se han vulgarizado hasta el punto de convertirse en una prescripción de cómo se debe vivir el duelo. La investigación posterior (incluyendo la propia Kubler-Ross antes de su muerte) ha matizado considerablemente ese modeló: las etapas no son lineales, no son universales, y no tienen duraciones predecibles.
+**El Principio del Duelo como Proceso Natural con Gran Variabilidad Individual que no Puede Acelerarse Artificialmente:** Elisabeth Kubler-Ross propuso en 1969 las cinco etapas del duelo (negación, ira, negociación, depresión, aceptación) que se han vulgarizado hasta el punto de convertirse en una prescripción de cómo se debe vivir el duelo. La investigación posterior (incluyendo la propia Kubler-Ross antes de su muerte) ha matizado considerablemente ese modelo: las etapas no son lineales, no son universales, y no tienen duraciones predecibles.
 
-George Bonanno muestra que las trayectorias de duelo son mucho más diversas de lo que el modeló de etapas sugiere: hay personas que experimentan resiliencia (poco duelo sostenido), recuperación gradual, duelo cronico, y duelo retrasado, y todas ellas pueden ser respuestas normales dependiendo de la persona, la perdida, y el contexto.
+George Bonanno muestra que las trayectorias de duelo son mucho más diversas de lo que el modelo de etapas sugiere: hay personas que experimentan resiliencia (poco duelo sostenido), recuperación gradual, duelo cronico, y duelo retrasado, y todas ellas pueden ser respuestas normales dependiendo de la persona, la perdida, y el contexto.
 
-**Ejercicio inmediato:** Si estas atravesando o has atravesado una perdida significativa, reflexiona: la forma en que estas viviendo el duelo es tu forma o es la forma que la cultura espera de ti? Hay una diferencia entre el duelo real y el duelo performativo (el que se expresa para cumplir con las expectativas de los demás). Tu duelo es tuyo. No tiene que ajustarse a ninguna plantilla.
+**Ejercicio inmediato:** Si estas atravesando o has atravesado una perdida significativa, reflexiona: ¿la forma en que estas viviendo el duelo es tu forma o es la forma que la cultura espera de ti? Hay una diferencia entre el duelo real y el duelo performativo (el que se expresa para cumplir con las expectativas de los demás). Tu duelo es tuyo. No tiene que ajustarse a ninguna plantilla.
 
 El duelo que te permites vivir en tu propio tiempo y a tu manera es el unico que realmente sana.
 
@@ -69,7 +69,7 @@ Ruben ha aprendido más de sus fracasos que de sus éxitos, pero ha tardado en a
 
 La investigación de Carol Dweck sobre el mindset de crecimiento muestra que las personas con ese mindset interpretan los fracasos como información sobre que no funciona (que les permite ajustar el enfoque) en lugar de como evidencia de que no son suficientemente competentes (que produce abandono). Esa interpretación diferente del fracaso es la diferencia fundamental entre los que aprenden de el y los que no.
 
-**Ejercicio inmediato:** Para el fracaso profesional más significativo de los últimos tres años, realiza un análisis de fracaso estructurado: que sabía antes del fracaso que debería haber pesado más en la decisión? Que no sabía que ahora se? Que haría diferente con la información que tengo ahora? Que habilidades o recursos me habrian ayudado a manejar mejor la situación? Ese análisis sistemático transforma el fracaso de experiencia dolorosa en capital de aprendizaje.
+**Ejercicio inmediato:** Para el fracaso profesional más significativo de los últimos tres años, realiza un análisis de fracaso estructurado: ¿que sabía antes del fracaso que debería haber pesado más en la decisión? ¿Que no sabía que ahora se? Que haría diferente con la información que tengo ahora? ¿Que habilidades o recursos me habrían ayudado a manejar mejor la situación? Ese análisis sistemático transforma el fracaso de experiencia dolorosa en capital de aprendizaje.
 
 El fracaso que no analizas solo duele. El que analizas también enseña. Y la enseñanza compensa el dolor.
 
@@ -83,7 +83,7 @@ Isabel atraveso una enfermedad que interrumpio su identidad construida durante d
 
 La reconstrucción de la identidad después de una fractura narrativa requiere: aceptar que la narrativa anterior ya no aplica completamente, explorar las nuevas posibilidades que la situación abre aunque sea doloroso (la persona que existia antes ya no existe de la misma forma, pero la persona que emerge puede tener dimensiones nuevas que la anterior no tenía), y construir una nueva narrativa que integre la adversidad como parte de la historia, no como su fin.
 
-**Ejercicio inmediato:** Si has atravesado una adversidad que ha interrumpido tu narrativa de identidad, reflexiona sobre la pregunta: quien soy ahora que no era antes de esta experiencia? No quien perdi (eso ya lo sabes) sino que ganaron en ti como resultado de lo que has atravesado. La persona que emerge de la adversidad no es la misma de antes. Puede ser más.
+**Ejercicio inmediato:** Si has atravesado una adversidad que ha interrumpido tu narrativa de identidad, reflexiona sobre la pregunta: ¿quien soy ahora que no era antes de esta experiencia? No quien perdi (eso ya lo sabes) sino que ganaron en ti como resultado de lo que has atravesado. La persona que emerge de la adversidad no es la misma de antes. Puede ser más.
 
 La identidad que la adversidad destruye frecuentemente no merecia ser conservada. La que surge de ella suele ser más autentica.
 
@@ -111,7 +111,7 @@ Elena ha aprendido que pedir apoyo en la adversidad no es debilidad sino intelig
 
 La investigación de James Pennebaker sobre la divulgación de experiencias traumaticas muestra que compartir las experiencias difíciles con personas de confianza (o a traves de la escritura) produce beneficios en la salud física y psicológica comparables a los de la psicoterapia.
 
-**Ejercicio inmediato:** Para la adversidad que estas atravesando actualmente (o la más reciente significativa), reflexiona: hay alguien en mi entorno a quien podría contarle esto de verdad (no la versión social sino la real)? Si la respuesta es no (no hay nadie o no quiero preocupar a nadie), reflexiona si esa reticencia a pedir apoyo es una elección genuina o el resultado de una creencia implícita de que no debería necesitar ayuda. Esa creencia, cuando existe, es frecuentemente un obstaculo mayor para la recuperación que la adversidad misma.
+**Ejercicio inmediato:** Para la adversidad que estas atravesando actualmente (o la más reciente significativa), reflexiona: ¿hay alguien en mi entorno a quien podría contarle esto de verdad (no la versión social sino la real)? Si la respuesta es no (no hay nadie o no quiero preocupar a nadie), reflexiona si esa reticencia a pedir apoyo es una elección genuina o el resultado de una creencia implícita de que no debería necesitar ayuda. Esa creencia, cuando existe, es frecuentemente un obstaculo mayor para la recuperación que la adversidad misma.
 
 Atravesar la adversidad solo cuando podrías no hacerlo no es fortaleza. Es un tipo de orgullo que cuesta demasiado.
 
@@ -125,7 +125,7 @@ Isabel ha aprendido que la forma más dura de la adversidad es frecuentemente la
 
 Su investigación muestra que la autocompasión (a diferencia del auto-estima, que requiere verse positivamente) no depende de los resultados externos y no produce complacencia: las personas con alta autocompasión muestran mayor motivación para cambiar comportamientos dañinos que las con baja autocompasión, porque el cambio no esta amenazado por el fracaso.
 
-**Ejercicio inmediato:** Para la forma en que te hablas a ti mismo cuando cometes un error o atraviesas una adversidad, reflexiona: le diria a un amigo querido lo que me digo a mi mismo en estas situaciones? Si la respuesta es no, práctica la conversión: reescribe el mensaje que te das a ti mismo como si se lo estuvieras diciendo a ese amigo que más quieres. Esa versión es la que mereces recibir.
+**Ejercicio inmediato:** Para la forma en que te hablas a ti mismo cuando cometes un error o atraviesas una adversidad, reflexiona: ¿le diria a un amigo querido lo que me digo a mi mismo en estas situaciones? Si la respuesta es no, práctica la conversión: reescribe el mensaje que te das a ti mismo como si se lo estuvieras diciendo a ese amigo que más quieres. Esa versión es la que mereces recibir.
 
 La dureza contigo mismo que llamas responsabilidad no te hace mejor. Te hace más fragil.
 
@@ -139,7 +139,7 @@ Ruben descubrió en su fracaso de negocio quienes eran sus amigos reales.
 
 La investigación sobre las relaciones que sobreviven a las adversidades compartidas muestra que las parejas y los grupos que han atravesado dificultades juntos muestran mayor cohesión y mayor confianza mutua que los que solo han compartido experiencias positivas. La adversidad compartida que se atraviesa con apoyo mutuo fortalece los vinculos de formas que las experiencias positivas no producen con la misma intensidad.
 
-**Ejercicio inmediato:** Reflexiona sobre las relaciones que se han fortalecido en los momentos de mayor dificultad de tu vida. Que ha producido ese fortalecimiento? Mayor vulnerabilidad compartida? Mayor apoyo mutuo? Mayor honestidad? Esas mismas condiciones (vulnerabilidad, apoyo, honestidad) pueden cultivarse intencionalmente en las relaciones sin necesitar la adversidad como catalizador.
+**Ejercicio inmediato:** Reflexiona sobre las relaciones que se han fortalecido en los momentos de mayor dificultad de tu vida. ¿Que ha producido ese fortalecimiento? ¿Mayor vulnerabilidad compartida? Mayor apoyo mutuo? ¿Mayor honestidad? Esas mismas condiciones (vulnerabilidad, apoyo, honestidad) pueden cultivarse intencionalmente en las relaciones sin necesitar la adversidad como catalizador.
 
 Las relaciones que sobreviven a lo peor son las que de verdad merecen lo mejor.
 
@@ -151,7 +151,7 @@ Elena ha llegado al final de este libro con más capacidad de encontrar sentido 
 
 **El Principio de la Construcción de Sentido como Proceso Activo que Transforma la Experiencia de la Adversidad en Parte Integrante de la Propia Historia:** Viktor Frankl propuso que el sufrimiento sin sentido es el más insoportable, y que la capacidad de encontrar (o construir) sentido en la adversidad es la diferencia fundamental entre el sufrimiento que destruye y el que fortalece.
 
-La investigación de Crystal Park sobre el modeló de significado en el ajuste al estres muestra que la construcción de sentido (meaning-making) después de una adversidad produce mayor bienestar psicológico a largo plazo que la sola gestión de las emociones, porque transforma la adversidad de experiencia ajena que ha irrumpido en la vida en parte integrante de la narrativa de quien uno es.
+La investigación de Crystal Park sobre el modelo de significado en el ajuste al estres muestra que la construcción de sentido (meaning-making) después de una adversidad produce mayor bienestar psicológico a largo plazo que la sola gestión de las emociones, porque transforma la adversidad de experiencia ajena que ha irrumpido en la vida en parte integrante de la narrativa de quien uno es.
 
 **Ejercicio inmediato:** Para la adversidad más significativa que has atravesado, completa la siguiente frase: gracias a haber atravesado esto, he llegado a entender que... Esa completación no minimiza el sufrimiento ni lo justifica. Reconoce que, independientemente de si el sufrimiento era necesario, algo ha crecido en ti que no existia antes de la experiencia.
 
@@ -161,7 +161,7 @@ El sentido de la adversidad no lo pone la adversidad. Lo pones tu con la forma e
 
 ## Epílogo
 
-Isabel miro atras, tres años después de la enfermedad, y reconoció con una claridad que antes no tenía que el período más difícil de su vida había sido también el que más la había ordenado. No las vacaciones, no los éxitos profesionales, no los momentos de maxima alegria. La enfermedad que había interrumpido su vida y le había obligado a preguntarse que merecia su tiempo limitado. La respuesta a esa pregunta había cambiado muchas cosas: algunas relaciones que nutria con más intención, algunos compromisos que había dejado ir sin culpa, y una sensación difusa pero real de que vivía más cerca de lo que le importaba de verdad. No lo llamaria agradecida por haber enfermado. Pero si reconocia que quien era ahora incluia algo que no habria sido posible sin ello.
+Isabel miro atras, tres años después de la enfermedad, y reconoció con una claridad que antes no tenía que el período más difícil de su vida había sido también el que más la había ordenado. No las vacaciones, no los éxitos profesionales, no los momentos de maxima alegria. La enfermedad que había interrumpido su vida y le había obligado a preguntarse que merecia su tiempo limitado. La respuesta a esa pregunta había cambiado muchas cosas: algunas relaciones que nutria con más intención, algunos compromisos que había dejado ir sin culpa, y una sensación difusa pero real de que vivía más cerca de lo que le importaba de verdad. No lo llamaria agradecida por haber enfermado. Pero si reconocia que quien era ahora incluia algo que no habría sido posible sin ello.
 
 ---
 

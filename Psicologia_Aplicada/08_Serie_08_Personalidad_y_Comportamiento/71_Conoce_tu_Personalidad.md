@@ -27,7 +27,7 @@ La personalidad no es un destino. Es un punto de partida.
 
 Walter Mischel, en su influyente crítica a la consistencia de la personalidad (la persona-situation debate), mostró que el comportamiento es más variable segun la situación de lo que los tests de personalidad sugieren: la misma persona puede ser muy puntual en el trabajo y muy impuntual en contextos sociales, muy asertiva en las relaciones personales y muy timida en las profesionales. Esto no invalida la personalidad como concepto sino que complica el modo en que se debe usar.
 
-**Ejercicio inmediato:** Identifica un rasgo de tu personalidad que consideras estable. Luego reflexiona: en que situaciones ese rasgo se expresa claramente y en cuales se modifica o desaparece? Esa variabilidad situacional no contradice el rasgo: ilustra los límites de la consistencia de la personalidad y la importancia del contexto.
+**Ejercicio inmediato:** Identifica un rasgo de tu personalidad que consideras estable. Luego reflexiona: ¿en que situaciones ese rasgo se expresa claramente y en cuales se modifica o desaparece? Esa variabilidad situacional no contradice el rasgo: ilustra los límites de la consistencia de la personalidad y la importancia del contexto.
 
 Conocer tu personalidad no te dice lo que haras. Te dice lo que tenderas a hacer cuando el contexto no lo modifique.
 
@@ -37,7 +37,7 @@ Conocer tu personalidad no te dice lo que haras. Te dice lo que tenderas a hacer
 
 Ruben ha tomado muchos tests de personalidad. El unico que la investigación valida con solidez es el de los Cinco Grandes.
 
-**El Principio del Modelo Big Five como el Marco de Personalidad con Mayor Evidencia Empirica:** El modeló de los Cinco Grandes (Big Five o OCEAN por sus siglas en ingles: Openness, Conscientiousness, Extraversión, Agreeableness, Neuroticism) emerge de análisis factoriales de los adjetivos utilizados para describir la personalidad en diferentes idiomas y culturas. Lewis Goldberg, Paul Costa, y Robert McCrae han sido los principales desarrolladores e investigadores de este modeló.
+**El Principio del Modelo Big Five como el Marco de Personalidad con Mayor Evidencia Empirica:** El modelo de los Cinco Grandes (Big Five o OCEAN por sus siglas en ingles: Openness, Conscientiousness, Extraversión, Agreeableness, Neuroticism) emerge de análisis factoriales de los adjetivos utilizados para describir la personalidad en diferentes idiomas y culturas. Lewis Goldberg, Paul Costa, y Robert McCrae han sido los principales desarrolladores e investigadores de este modelo.
 
 Los cinco factores son: apertura a la experiencia (curiosidad intelectual, creatividad, preferencia por la novedad), responsabilidad o escrupulosidad (organización, autodisciplina, fiabilidad), extraversión (sociabilidad, asertividad, busqueda de estimulación social), amabilidad (cooperación, confianza, empatia), y neuroticismo (tendencia a las emociones negativas, ansiedad, irritabilidad). La investigación transcultural muestra que estos cinco factores emergen de forma similar en diferentes culturas, lo que sugiere que pueden reflejar dimensiones universales de la personalidad.
 
@@ -55,7 +55,7 @@ Isabel tiene sus puntuaciones en el Big Five. Ahora quiere saber que significa e
 
 Brent Roberts y colegas han documentado en meta-análisis que los rasgos del Big Five predicen la longevidad, la salud, los logros laborales, y la satisfacción vital de forma comparable o superior a variables socioeconomicas como el nivel de ingresos o el nivel educativo.
 
-**Ejercicio inmediato:** Para tu puntuación más alta en el Big Five y la más baja, reflexiona: cómo se expresan en tu vida cotidiana? En que áreas de tu vida tu rasgo más alto actua como recurso? En que áreas tu rasgo más bajo actua como limitación? Esa reflexión específica produce más utilidad que la descripción generica del rasgo.
+**Ejercicio inmediato:** Para tu puntuación más alta en el Big Five y la más baja, reflexiona: ¿cómo se expresan en tu vida cotidiana? ¿En que áreas de tu vida tu rasgo más alto actua como recurso? En que áreas tu rasgo más bajo actua como limitación? Esa reflexión específica produce más utilidad que la descripción generica del rasgo.
 
 Los rasgos de personalidad no son deterministas. Son probabilidades condicionadas que el conocimiento y el esfuerzo pueden modificar.
 
@@ -83,7 +83,7 @@ Elena tiene veintisiete años y se pregunta si la personalidad que tiene ahora e
 
 La meta-análisis de Brent Roberts y colegas que integra datos de 92 estudios longitudinales muestra que la personalidad cambia más de lo que el estereotipo de que la personalidad es fija sugiere, especialmente en la década de los veinte a los treinta años. Y que los cambios deliberados (a traves de psicoterapia, nuevas relaciones, o esfuerzo sostenido) son posibles aunque más lentos que los cambios espontaneos.
 
-**Ejercicio inmediato:** Compara tu personalidad actual con cómo la describirias cinco años atras. Hay rasgos que han cambiado? Que experiencias o decisiones los cambiaron? Esa reflexión muestra que la personalidad tiene una historia de cambio que hace plausible el cambio futuro.
+**Ejercicio inmediato:** Compara tu personalidad actual con cómo la describirias cinco años atras. Hay rasgos que han cambiado? ¿Que experiencias o decisiones los cambiaron? Esa reflexión muestra que la personalidad tiene una historia de cambio que hace plausible el cambio futuro.
 
 No eres la misma persona que eras hace cinco años. Y no seras exactamente la misma que eres ahora dentro de cinco.
 
@@ -97,7 +97,7 @@ Isabel se pregunta si su introversión es innata o aprendida. La respuesta es m�
 
 La investigación de Sandra Scarr sobre la interacción genotipo-ambiente muestra que las personas con diferentes genotipos seleccionan activamente diferentes ambientes, lo que significa que el ambiente también esta parcialmente determinado por la genética. Esta complejidad hace que la distinción naturaleza-cultura sea menos útil que la comprensión de como los factores geneticos y ambientales interactuan.
 
-**Ejercicio inmediato:** Para un rasgo de tu personalidad que te cuesta (el neuroticismo alto, la introversión en contextos profesionales, la baja responsabilidad en ciertas áreas), reflexiona: que circunstancias hacen que ese rasgo se exprese más o menos? Identificar esas circunstancias es el primer paso para modificar el ambiente que activa el rasgo.
+**Ejercicio inmediato:** Para un rasgo de tu personalidad que te cuesta (el neuroticismo alto, la introversión en contextos profesionales, la baja responsabilidad en ciertas áreas), reflexiona: ¿que circunstancias hacen que ese rasgo se exprese más o menos? Identificar esas circunstancias es el primer paso para modificar el ambiente que activa el rasgo.
 
 Lo que es innato en tu personalidad no es inmutable. Es el punto de partida del que trabajas.
 
@@ -111,7 +111,7 @@ Ruben ha tenido un jefe con rasgos que no sabe como nombrar: encantador en públ
 
 Estos rasgos no son categorías discretas (todos los seres humanos tienen alguno de estos rasgos en grado variable) sino dimensiones en cuyos extremos se producen los comportamientos más problematicos. La investigación de Peter Jonason y colegas muestra que la triada oscura confiere ventajas en determinados contextos (especialmente los de alta competencia y baja cooperación) pero produce daño relacional y organizacional significativo.
 
-**Ejercicio inmediato:** Si reconoces algunos de estos rasgos en una persona de tu entorno, la información más útil no es la etiqueta sino el patron de comportamiento: te pide cosas y no reciproca? Sus promesas no se cumplen sistemáticamente? Te sientes peor después de interactuar con esa persona? Ese patron es la información que necesitas para gestionar la relación.
+**Ejercicio inmediato:** Si reconoces algunos de estos rasgos en una persona de tu entorno, la información más útil no es la etiqueta sino el patron de comportamiento: ¿te pide cosas y no reciproca? ¿Sus promesas no se cumplen sistemáticamente? Te sientes peor después de interactuar con esa persona? Ese patron es la información que necesitas para gestionar la relación.
 
 El nombre del rasgo de personalidad del otro no cambia el patron. El patron si puede cambiar como te relacionas con el.
 
@@ -121,9 +121,9 @@ El nombre del rasgo de personalidad del otro no cambia el patron. El patron si p
 
 Elena ha notado que es una persona completamente diferente en el trabajo que con los amigos. Se pregunta si eso significa que su personalidad no es estable.
 
-**El Principio de la Coherencia Condicional como Forma más Precisa de Entender la Consistencia:** Walter Mischel y Yuichi Shoda proponen el sistema cognitivo-afectivo de procesamiento (CAPS) como modeló que integra la consistencia de la personalidad con la variabilidad situacional. En este modeló, la personalidad es consistente en el patron de relaciones si-entonces: si la situación es X, entonces la persona tiende a comportarse Y.
+**El Principio de la Coherencia Condicional como Forma más Precisa de Entender la Consistencia:** Walter Mischel y Yuichi Shoda proponen el sistema cognitivo-afectivo de procesamiento (CAPS) como modeló que integra la consistencia de la personalidad con la variabilidad situacional. En este modelo, la personalidad es consistente en el patron de relaciones si-entonces: si la situación es X, entonces la persona tiende a comportarse Y.
 
-Este modeló explica por qué alguien puede ser muy asertivo con los amigos y poco asertivo en el trabajo: la asertividad se expresa de forma consistente en las situaciones que la activan (relaciones de confianza y horizontales) y no en las que la inhiben (relaciones jerarquicas donde la asertividad tiene costes percibidos). La coherencia no es en el comportamiento sino en el patron condicional.
+Este modelo explica por qué alguien puede ser muy asertivo con los amigos y poco asertivo en el trabajo: la asertividad se expresa de forma consistente en las situaciones que la activan (relaciones de confianza y horizontales) y no en las que la inhiben (relaciones jerarquicas donde la asertividad tiene costes percibidos). La coherencia no es en el comportamiento sino en el patron condicional.
 
 **Ejercicio inmediato:** Identifica dos contextos donde tu comportamiento parece contradictorio (en uno eres muy X, en el otro muy poco X). Formula la relación si-entonces: si el contexto es X (con que caracteristica), entonces me comporto Y; si el contexto es Z (con que otra caracteristica), entonces me comporto W. Ese patron condicional es tu personalidad en acción.
 
@@ -139,7 +139,7 @@ Ruben tiene ahora un mapa de su personalidad pero no sabe bien como usarlo.
 
 La investigación de Alex Linley sobre las fortalezas y los puntos debiles de personalidad muestra que el rendimiento más alto se produce cuando el entorno permite a la persona usar sus rasgos más fuertes en lugar de compensar los más debiles. Las estrategias más efectivas no son las de corrección de debilidades sino las de amplificación de fortalezas.
 
-**Ejercicio inmediato:** Para tus tres rasgos de personalidad más marcados (altos o bajos en el Big Five), reflexiona para cada uno: que tipo de trabajo, relaciones, o entornos permiten que ese rasgo sea un recurso? Cuales lo convierten en un problema? Esa información es un mapa para tomar decisiones más alineadas con quien eres.
+**Ejercicio inmediato:** Para tus tres rasgos de personalidad más marcados (altos o bajos en el Big Five), reflexiona para cada uno: ¿que tipo de trabajo, relaciones, o entornos permiten que ese rasgo sea un recurso? ¿Cuales lo convierten en un problema? Esa información es un mapa para tomar decisiones más alineadas con quien eres.
 
 El conocimiento de la personalidad que no informa las decisiones es solo autocomplacencia bien documentada.
 

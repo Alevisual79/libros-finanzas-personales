@@ -153,7 +153,7 @@ Ruben ha notado que cuando aprende algo nuevo de forma profunda (no solo memoriz
 
 Esta perspectiva cambia la motivación para aprender: no es solo una herramienta de productividad o ventaja competitiva, aunque lo sea. Es uno de los pocos mecanismos accesibles que permite al ser humano transformarse deliberadamente, expandir el espacio de lo que puede pensar y ver, y convertirse progresivamente en alguien con mayor capacidad de comprender y actuar en el mundo.
 
-**Ejercicio inmediato:** Identifica el último aprendizaje profundo que realmente cambio como entiendes algo importante, no solo añadio información a lo que ya creias. Reflexiona como ese cambio de comprensión cambio también algun aspecto de como te relacionas con el mundo. Esa es la diferencia entre información acumulada y aprendizaje real.
+**Ejercicio inmediato:** Identifica el último aprendizaje profundo que realmente cambio como entiendes algo importante, no solo añadio información a lo que ya creías. Reflexiona como ese cambio de comprensión cambio también algun aspecto de como te relacionas con el mundo. Esa es la diferencia entre información acumulada y aprendizaje real.
 
 Aprender para acumular datos y aprender para transformarse son proyectos diferentes con el mismo nombre.
 

@@ -41,7 +41,7 @@ Ruben tiene una fobia a hablar en público que, estrictamente hablando, es ansie
 
 Stanley Rachman, psicologo de Vancouver que ha investigado el miedo durante cinco décadas, documenta que las personas que han tenido exposición exitosa a su estímulo fobico (aunque fue aterradora en el momento) muestran reducciones de miedo que persisten mucho más tiempo que el alivio temporal que produce la evitación.
 
-**Ejercicio inmediato:** Calcula el coste real de tu evitación fobica: que oportunidades, experiencias o calidad de vida has perdido en los últimos cinco años por organizar tu vida alrededor de la evitación de ese estímulo? Ese cálculo frecuentemente proporciona la motivación para el trabajo de exposición que de otra manera resulta difícil justificar.
+**Ejercicio inmediato:** Calcula el coste real de tu evitación fobica: ¿que oportunidades, experiencias o calidad de vida has perdido en los últimos cinco años por organizar tu vida alrededor de la evitación de ese estímulo? Ese cálculo frecuentemente proporciona la motivación para el trabajo de exposición que de otra manera resulta difícil justificar.
 
 Tu miedo no es el problema. Organizar tu vida entera alrededor de evitarlo, si.
 
@@ -111,7 +111,7 @@ Elena sabe que el avion es el medio de transporte más seguro estadisticamente. 
 
 Dicho esto, las creencias específicas sobre el estímulo fobico pueden amplificar o reducir la respuesta de miedo. En la fobia a volar, creencias como cualquier turbulencia indica peligro grave o si noto algo inusual significa que algo va mal amplifican la respuesta de miedo más allá del condicionamiento basico. Trabajar estas creencias específicas con reestructuración cognitiva, aunque no sea suficiente por si solo, es un complemento útil a la exposición.
 
-**Ejercicio inmediato:** Identifica las creencias específicas que tienes sobre tu estímulo fobico: que predicciones concretas sobre lo que podría ocurrir hacen que el miedo sea tan intenso? Luego evalua la evidencia real para esas predicciones específicas. El objetivo no es convencerte de que todo es seguro, sino calibrar el nivel de amenaza real versus la amenaza percibida.
+**Ejercicio inmediato:** Identifica las creencias específicas que tienes sobre tu estímulo fobico: ¿que predicciones concretas sobre lo que podría ocurrir hacen que el miedo sea tan intenso? Luego evalua la evidencia real para esas predicciones específicas. El objetivo no es convencerte de que todo es seguro, sino calibrar el nivel de amenaza real versus la amenaza percibida.
 
 Saber que tu miedo es irracional no lo elimina. Exponerte a lo que temes si puede hacerlo.
 
@@ -147,13 +147,13 @@ La medicación que te hace sentir mejor durante la exposición puede estar impid
 
 ## Capítulo 10: Vivir más allá del miedo
 
-Isabel, después de aprender sobre el protocolo OST, busco un terapeuta entrenado en exposición para fobias a volar. La sesión fue la experiencia más aterradora y más liberadora de su vida. Tres semanas después, voló a una reunión de trabajo que habria rechazado. Nueve meses después, fue con su familia a unas vacaciones que habían pospuesto durante años por su fobia.
+Isabel, después de aprender sobre el protocolo OST, busco un terapeuta entrenado en exposición para fobias a volar. La sesión fue la experiencia más aterradora y más liberadora de su vida. Tres semanas después, voló a una reunión de trabajo que habría rechazado. Nueve meses después, fue con su familia a unas vacaciones que habían pospuesto durante años por su fobia.
 
 **El Principio de la Vida Recuperada como Meta Real del Tratamiento:** Las fobias específicas tienen el mayor impacto cuando se mide no solo el nivel de miedo ante el estímulo sino la vida que han reorganizado alrededor de la evitación: los destinos que no se visitan, los trabajos que no se aceptan, las experiencias que no se viven. El éxito del tratamiento no se mide solo por la reducción de la ansiedad ante el estímulo. Se mide por la expansión de la vida que era posible antes de que el miedo la contrajera.
 
 Ost, en su resumen de treinta años de investigación sobre tratamiento de fobias, concluye que el tratamiento exitoso de una fobia específica es uno de los cambios más rápidos y duraderos que puede producir una intervención psicológica: en la mayoría de los casos, una o pocas sesiones de exposición bien conducida producen cambios que persisten sin recaida significativa en seguimientos de cinco o diez años. Esta durabilidad distingue a la fobia específica de muchos otros trastornos psicológicos como uno de los más tractables.
 
-**Ejercicio inmediato:** Imagina tu vida sin la fobia que tienes actualmente. Que harías que ahora no haces? A donde irias? Que oportunidades aceptarias? Esa lista es la razón por la que vale la pena el trabajo de exposición. Guardala. Es el mapa del territorio que puedes recuperar.
+**Ejercicio inmediato:** Imagina tu vida sin la fobia que tienes actualmente. ¿Que harías que ahora no haces? ¿A donde irias? Que oportunidades aceptarias? Esa lista es la razón por la que vale la pena el trabajo de exposición. Guardala. Es el mapa del territorio que puedes recuperar.
 
 La vida al otro lado del miedo existe. Solo tienes que cruzar el miedo para llegar a ella.
 

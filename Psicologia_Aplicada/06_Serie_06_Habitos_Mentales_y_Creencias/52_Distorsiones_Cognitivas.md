@@ -27,7 +27,7 @@ Las distorsiones cognitivas no son señales de enfermedad mental. Son patrones d
 
 David Burns, en su libro Sentirse Bien, popularizó el catálogo de Beck y lo hizo accesible: las distorsiones cognitivas son formas de pensar que sistemáticamente sesgan la interpretación de los eventos en direcciones que producen sufrimiento emocional innecesario. Son atajos cognitivos que fueron adaptativos en contextos ancestrales pero que producen errores sistemáticos en el contexto moderno.
 
-**Ejercicio inmediato:** Reflexiona sobre un evento reciente que te produjó malestar emocional intenso y que en perspectiva resultó menos grave de lo que parecio en el momento. Que pensamiento lo desencadeno? Esa secuencia evento-pensamiento-emoción es exactamente el material de trabajo de este libro.
+**Ejercicio inmediato:** Reflexiona sobre un evento reciente que te produjó malestar emocional intenso y que en perspectiva resultó menos grave de lo que parecio en el momento. ¿Que pensamiento lo desencadeno? Esa secuencia evento-pensamiento-emoción es exactamente el material de trabajo de este libro.
 
 El pensamiento que te hace sentir mal en un segundo no es la realidad. Es una de las multiples interpretaciones posibles de la realidad, filtrada por tus sesgos cognitivos.
 
@@ -41,7 +41,7 @@ Isabel tiende a evaluar su rendimiento en terminos absolutos: o lo hizo perfecto
 
 La investigación de Beck y colegas muestra que el pensamiento todo-o-nada es especialmente prevalente en la depresión y en los trastornos de personalidad, y que intervenir sobre esta distorsión específica produce mejoras medibles en el estado de animo. El antídoto cognitivo es el pensamiento en escala de grises: evaluar en un continuum del uno al diez en lugar de en las categorías extremas de perfecto-fracasado.
 
-**Ejercicio inmediato:** Identifica una evaluación reciente que hiciste en terminos todo-o-nada (fue un fracaso total, lo echaste todo a perder, no sirvio para nada). Reevalua la experiencia en una escala del uno al diez: que puntuación le darias si tuvieras que ser honestamente preciso? Lo que probablemente tenías no era un cero.
+**Ejercicio inmediato:** Identifica una evaluación reciente que hiciste en terminos todo-o-nada (fue un fracaso total, lo echaste todo a perder, no sirvio para nada). Reevalua la experiencia en una escala del uno al diez: ¿que puntuación le darias si tuvieras que ser honestamente preciso? Lo que probablemente tenías no era un cero.
 
 La evaluación en blanco y negro produce sufrimiento que la realidad en gris no justifica.
 
@@ -55,7 +55,7 @@ Ruben se encuentra anticipando resultados catastroficos en situaciones de incert
 
 La investigación sobre la preocupación de Thomas Borkovec y colegas muestra que la anticipación catastrofica no solo no previene el evento catastrofico sino que produce el sufrimiento del peor caso incluso cuando ese caso no ocurre. En la mayoría de los casos el resultado es considerablemente menos malo que la predicción catastrofica.
 
-**Ejercicio inmediato:** Para una situación actual que te produce catastrofización, escribe el escenario catastrofico que predices. Luego escribe el escenario más probable (no el mejor, el más probable) y el escenario más optimista. Ahora evalua honestamente: en situaciones similares del pasado, cual de los tres escenarios ocurrio con mayor frecuencia?
+**Ejercicio inmediato:** Para una situación actual que te produce catastrofización, escribe el escenario catastrofico que predices. Luego escribe el escenario más probable (no el mejor, el más probable) y el escenario más optimista. Ahora evalua honestamente: ¿en situaciones similares del pasado, cual de los tres escenarios ocurrio con mayor frecuencia?
 
 Lo peor que puede pasar rara vez es lo que pasa. El sufrimiento de anticiparlo es completamente innecesario.
 
@@ -69,7 +69,7 @@ Elena asume frecuentemente que sabe lo que otros piensan sobre ella, sin haber p
 
 Philip Zimbardo y colaboradores documentan que las personas socialmente ansiosas tienen una tendencia especialmente marcada a la lectura mental negativa: asumen que sus errores sociales son tan visibles y tan graves para los observadores como les parecen a ellos mismos. El antídoto es la busqueda de evidencia real: preguntar, en lugar de asumir.
 
-**Ejercicio inmediato:** Identifica una situación reciente donde asumiste lo que otra persona pensaba de ti sin haberlo verificado. Si la relación lo permite, considera verificar directamente. Si no, reflexiona: que evidencia real tienes de que tu interpretación era correcta? Probablemente mucho menos de la que parecia.
+**Ejercicio inmediato:** Identifica una situación reciente donde asumiste lo que otra persona pensaba de ti sin haberlo verificado. Si la relación lo permite, considera verificar directamente. Si no, reflexiona: ¿que evidencia real tienes de que tu interpretación era correcta? Probablemente mucho menos de la que parecia.
 
 Lo que piensas que piensan los demás sobre ti es una historia que tu mente genera. Rara vez es lo que realmente piensan.
 
@@ -107,7 +107,7 @@ La mente que filtra lo malo ve solo la mitad de la realidad. La que puede ver am
 
 Elena tiene una lista interna larga de como debería ser ella, como deberían ser los otros, y como debería funcionar el mundo. Cada desviación de esa lista produce frustración o culpa.
 
-**El Principio de los Deberia como Fuente sistemática de Sufrimiento:** Albert Ellis propuso que los debería absolutos son una de las principales fuentes de sufrimiento emocional innecesario. Los debería son demandas absolutas que el mundo, los otros, o uno mismo sean de una forma específica, y que se sienten como necesidades cuando no lo son.
+**El Principio de los Debería como Fuente sistemática de Sufrimiento:** Albert Ellis propuso que los debería absolutos son una de las principales fuentes de sufrimiento emocional innecesario. Los debería son demandas absolutas que el mundo, los otros, o uno mismo sean de una forma específica, y que se sienten como necesidades cuando no lo son.
 
 Karen Horney acuno el terminó tirania de los debería para describir el sistema de normas internas que muchas personas llevan y que producen culpa sistemática cuando uno mismo no cumple y frustración sistemática cuando los otros no cumplen. El antídoto no es eliminar las preferencias sino transformar los debería absolutos en preferiria: en lugar de esto debería ser diferente, esto preferiria que fuera diferente.
 

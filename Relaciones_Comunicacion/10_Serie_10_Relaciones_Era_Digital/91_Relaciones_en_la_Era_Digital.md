@@ -109,7 +109,7 @@ A pesar de los avances tecnologicos en comunicación, ciertos elementos de la co
 
 **El Principio de los Elementos Irremplazables de la Presencia:** El contacto físico (un abrazo, la sincronia corporal de estar en el mismo espacio, las señales no verbales sutiles que la comunicación mediada no transmite completamente) activa procesos neurobiologicos específicos (liberación de oxitocina, sincronización de ritmos fisiologicos) que, segun la evidencia actual, la tecnología no logra replicar plenamente, independientemente de cuanto mejore la calidad de video o audio.
 
-**Ejercicio inmediato:** Identifica una relación importante que mantienes principalmente de forma digital. Que beneficio específico del contacto físico presencial podría estar faltando, y como podrías buscar oportunidades de encuentro presencial, aunque sea ocasional?
+**Ejercicio inmediato:** Identifica una relación importante que mantienes principalmente de forma digital. ¿Que beneficio específico del contacto físico presencial podría estar faltando, y como podrías buscar oportunidades de encuentro presencial, aunque sea ocasional?
 
 Algunos elementos de la conexión humana requieren genuinamente el cuerpo presente. Ninguna tecnología actual ha logrado replicar completamente lo que un abrazo real comunica.
 

@@ -39,7 +39,7 @@ Elena cree que su autoestima es baja y que solo puede mejorar cuando logre más 
 
 **El Principio de los Seis Pilares como prácticas, no como Logros:** Nathaniel Branden identifica seis prácticas que constituyen la autoestima: vivir conscientemente (prestar atención a la experiencia real en lugar de evitarla), autoaceptación (reconocerse sin negación ni sin exageración), autorresponsabilidad (asumir la responsabilidad de las propias elecciones y sus consecuencias), autoafirmación (defender las propias necesidades, valores y formas de ser), vivir con proposito (tener metas claras que guien las propias acciones), e integridad personal (actuar en congruencia con los propios valores).
 
-Lo crucial de esta lista es que son prácticas, no logros ni caracteristicas fijas. No se tienen o no se tienen. Se ejercen o no se ejercen. Esto significa que la autoestima, en el modeló de Branden, no es algo que se obtiene con el éxito externo sino algo que se construye con la forma en que se vive cada dia, independientemente de los resultados.
+Lo crucial de esta lista es que son prácticas, no logros ni caracteristicas fijas. No se tienen o no se tienen. Se ejercen o no se ejercen. Esto significa que la autoestima, en el modelo de Branden, no es algo que se obtiene con el éxito externo sino algo que se construye con la forma en que se vive cada dia, independientemente de los resultados.
 
 **Ejercicio inmediato:** De los seis pilares, identifica el que más deliberadamente prácticas en tu vida actual y el que menos. La diferencia entre los dos señala el área de mayor potencial de crecimiento en tu autoestima.
 
@@ -55,7 +55,7 @@ Ruben tiene buena autoestima cuando le va bien en el trabajo y baja autoestima c
 
 Mark Leary, psicologo de Duke, propone el concepto de sociometro: la autoestima cómo un medidor interno del grado en que la persona esta siendo aceptada y valorada por los grupos sociales que le importan. Cuando el sociometro marca bajo (rechazó o exclusión), la autoestima baja produce una señal de alarma que motiva comportamientos de reintegración. Este mecanismo explica por qué la autoestima es tan sensible a la aprobación social: evolucionó precisamente para monitorizar la posición social.
 
-**Ejercicio inmediato:** Identifica los tres dominios de los que tu autoestima depende más (logró profesional, aprobación de otros, apariencia física, relaciones, etc.). Luego pregunta: cuando esos dominios van mal, como afecta eso a tu evaluación global de tu valor como persona? Si la conexión es fuerte y automática, tienes alta autoestima contingente en esos dominios.
+**Ejercicio inmediato:** Identifica los tres dominios de los que tu autoestima depende más (logró profesional, aprobación de otros, apariencia física, relaciones, etc.). Luego pregunta: ¿cuando esos dominios van mal, como afecta eso a tu evaluación global de tu valor como persona? Si la conexión es fuerte y automática, tienes alta autoestima contingente en esos dominios.
 
 Construir la autoestima sobre resultados es construir sobre arena. Los resultados cambian. Tu valor no tiene por qué hacerlo.
 
@@ -69,7 +69,7 @@ Isabel puede rastrear muchos de sus patrones de autoestima baja hasta mensajes q
 
 Diana Baumrind, psicóloga que investigó los estilos parentales, y las investigaciones de John Gottman sobre la mentoria emocional muestran que los padres que reconocen y validan las emociones del niño (en lugar de negarlas o minimizarlas) producen hijos con mayor capacidad de autorregulación emocional y mayor estabilidad en el autoconcepto. El mensaje implícito de la validación emocional es tu experiencia interna es real y valida, lo que produce la base de un sentido de legitimidad del propio yo.
 
-**Ejercicio inmediato:** Identifica un mensaje que recibiste en tu infancia sobre tu valor (ya sea a traves de palabras directas, de como te trataban, o de lo que se celebraba y lo que se criticaba). Ese mensaje fue condicional o incondicional? Hoy, cuando funciona tu crítico interior, habla en la voz de quien?
+**Ejercicio inmediato:** Identifica un mensaje que recibiste en tu infancia sobre tu valor (ya sea a traves de palabras directas, de como te trataban, o de lo que se celebraba y lo que se criticaba). Ese mensaje fue condicional o incondicional? ¿Hoy, cuando funciona tu crítico interior, habla en la voz de quien?
 
 La voz que te crítica de adulto frecuentemente aprendió su tono en la infancia. Saber de quien es ya no la hace tuya.
 
@@ -125,7 +125,7 @@ Ruben se trata con una dureza extrema cuando comete errores. Esta dureza no prod
 
 Kristin Neff distingue entre la autoestima contingente al rendimiento (que baja con el error) y la autocompasión (que proporciona el mismo cuidado ante el error que se daria a un amigo en la misma situación). La autocompasión ante el error no reduce la responsabilidad ni la motivación para mejorar. Segun la investigación de Neff, aumenta la motivación intrinseca, el aprendizaje del error, y la capacidad de intentarlo de nuevo.
 
-**Ejercicio inmediato:** Recuerda un error reciente que todavia te genera autocritica. Escribe como respondiste internamente a ese error. Luego escribe como habrias respondido si ese mismo error lo hubiera cometido un amigo cercano. La diferencia entre las dos respuestas es la autocompasión que te niegas a ti mismo.
+**Ejercicio inmediato:** Recuerda un error reciente que todavia te genera autocritica. Escribe como respondiste internamente a ese error. Luego escribe como habrías respondido si ese mismo error lo hubiera cometido un amigo cercano. La diferencia entre las dos respuestas es la autocompasión que te niegas a ti mismo.
 
 Como te tratas cuando te equivocas dice más sobre tu autoestima que como te tratas cuando tienes éxito.
 
@@ -139,7 +139,7 @@ Elena tiene dificultad para mantener relaciones donde se siente vista y valorada
 
 Este mecanismo crea una trampa relacional: la persona con baja autoestima se aleja de las relaciones donde la tratan bien (porque producen incongruencia con el autoconcepto) y se acerca a las que confirman la baja autoevaluación. Romper este ciclo requiere primero cambiar el autoconcepto, o al menos cuestionar su precisión, para que el tratamiento positivo empiece a sentirse merecido en lugar de sospechoso.
 
-**Ejercicio inmediato:** Piensa en una relación en tu vida donde te tratan bien pero te resulta incomodo o no del todo creible ese buen trató. Pregunta: ese incomfort viene de que la persona te trata mal realmente, o de que trata bien a alguien (tu) que tu no crees que lo merece?
+**Ejercicio inmediato:** Piensa en una relación en tu vida donde te tratan bien pero te resulta incomodo o no del todo creible ese buen trató. Pregunta: ¿ese incomfort viene de que la persona te trata mal realmente, o de que trata bien a alguien (tu) que tu no crees que lo merece?
 
 Las relaciones que elegimos frecuentemente confirman lo que ya creemos sobre nosotros mismos. Cambiar lo que crees cambia las relaciones que eliges.
 

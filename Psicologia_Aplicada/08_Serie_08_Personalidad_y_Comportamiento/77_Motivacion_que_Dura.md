@@ -27,7 +27,7 @@ La motivación no es un deposito que se llena o se vacia. Tiene tipos con funcio
 
 La investigación de Deci y Ryan muestra que la motivación intrinseca produce mayor calidad de trabajo, mayor persistencia, mayor creatividad, y mayor bienestar que la extrinseca. Y que, paradojicamente, anadir recompensas externas a actividades que ya son intrinsecamente motivadoras puede reducir la motivación intrinseca (el efecto de sobrejustificación): cuando el pago externo llega, el cerebro puede reinterpretar la actividad como trabajo, no como algo que se hace por gusto.
 
-**Ejercicio inmediato:** Para las tres actividades más importantes de tu vida cotidiana (trabajo, hobby, relaciones), reflexiona: que porcentaje de la motivación para cada una es intrinseca (la actividad en si te importa) y que porcentaje es extrinseca (lo haces por las consecuencias, la aprobación, o la obligación)? Ese diagnostico revela donde tienes motivación sostenible y donde dependes de factores que pueden desaparecer.
+**Ejercicio inmediato:** Para las tres actividades más importantes de tu vida cotidiana (trabajo, hobby, relaciones), reflexiona: ¿que porcentaje de la motivación para cada una es intrinseca (la actividad en si te importa) y que porcentaje es extrinseca (lo haces por las consecuencias, la aprobación, o la obligación)? Ese diagnostico revela donde tienes motivación sostenible y donde dependes de factores que pueden desaparecer.
 
 La motivación que depende solo de factores externos es tan confiable como esos factores. La que viene de dentro resiste cuando los factores externos fallan.
 
@@ -41,7 +41,7 @@ Elena trabaja bien pero nunca se siente plena. La SDT tiene una explicación esp
 
 La investigación muestra que los entornos que satisfacen estas tres necesidades producen mayor motivación intrinseca, mayor rendimiento, y mayor bienestar. Los entornos que las frustran (trabajo altamente controlado, tareas sin retroalimentación, aislamiento social) producen motivación extrinseca o amotivación, con los costes correspondientes.
 
-**Ejercicio inmediato:** Para tu trabajo u ocupación principal, evalua las tres necesidades del 1 al 10: cuanta autonomía tienes sobre como haces el trabajo? Cuanta competencia sientes para los desafios que el trabajo plantea? Cuanta relación con personas o causas que te importan tiene el trabajo? Si hay alguna puntuación por debajo de 5, esa es la necesidad cuya satisfacción aumentaria más la motivación.
+**Ejercicio inmediato:** Para tu trabajo u ocupación principal, evalua las tres necesidades del 1 al 10: ¿cuanta autonomía tienes sobre como haces el trabajo? ¿Cuanta competencia sientes para los desafios que el trabajo plantea? Cuanta relación con personas o causas que te importan tiene el trabajo? Si hay alguna puntuación por debajo de 5, esa es la necesidad cuya satisfacción aumentaria más la motivación.
 
 La motivación que te falta no siempre es fuerza de voluntad. A veces es autonomía, competencia, o relación.
 
@@ -55,7 +55,7 @@ Ruben ha tenido momentos en el trabajo donde el tiempo pasa sin sentirlo y el tr
 
 Las condiciones del flujo incluyen: el equilibrio entre el desafio de la tarea y la habilidad de quien la realiza (demasiado desafio produce ansiedad; muy poco produce aburrimiento; el equilibrio produce flujo), la claridad de los objetivos de la tarea, y la retroalimentación inmediata sobre el progreso. La investigación muestra que el flujo ocurre con mayor frecuencia en actividades que tienen estas tres condiciones.
 
-**Ejercicio inmediato:** Identifica las dos o tres actividades en tu vida donde has experimentado flujo (trabajo o tiempo libre). Que caracteristicas tenían esas actividades? Cual era el nivel de desafio en relación a tus capacidades? Que retroalimentación inmediata recibía tu desempeno? Disenar más actividades con esas caracteristicas produce más flujo y, por tanto, más motivación intrinseca.
+**Ejercicio inmediato:** Identifica las dos o tres actividades en tu vida donde has experimentado flujo (trabajo o tiempo libre). ¿Que caracteristicas tenían esas actividades? ¿Cual era el nivel de desafio en relación a tus capacidades? Que retroalimentación inmediata recibía tu desempeno? Disenar más actividades con esas caracteristicas produce más flujo y, por tanto, más motivación intrinseca.
 
 El flujo no es el resultado de la motivación. Es la motivación en su forma más pura, y puede ser diseñado.
 
@@ -69,7 +69,7 @@ Isabel ha descubierto que su mayor motivación no viene de las recompensas sino 
 
 La investigación de Amy Wrzesniewski y colegas sobre la orientación al trabajo muestra que las personas que ven su trabajo cómo una vocación (una fuente de significado y proposito) muestran mayor compromiso, mayor satisfacción, y menor agotamiento que las que lo ven cómo un trabajo (fuente de ingreso) o una carrera (fuente de avance). Y que esa orientación puede cultivarse a traves del job crafting incluso en trabajos que no son vocacionalmente evidentes.
 
-**Ejercicio inmediato:** Para tu trabajo u ocupación principal, reflexiona: a quien ayuda lo que haces? Que sería diferente en la vida de esas personas si no lo hicieras? Esa pregunta, respondida con honestidad y especificidad, conecta la actividad cotidiana con el proposito. La conexión no tiene que ser grandiosa: un padre que trabaja para que sus hijos tengan oportunidades tiene proposito; un médico que atiende a pacientes con atención genuina tiene proposito.
+**Ejercicio inmediato:** Para tu trabajo u ocupación principal, reflexiona: ¿a quien ayuda lo que haces? ¿Que sería diferente en la vida de esas personas si no lo hicieras? Esa pregunta, respondida con honestidad y especificidad, conecta la actividad cotidiana con el proposito. La conexión no tiene que ser grandiosa: un padre que trabaja para que sus hijos tengan oportunidades tiene proposito; un médico que atiende a pacientes con atención genuina tiene proposito.
 
 El trabajo que no sabe para qué sirve es solo esfuerzo. El que lo sabe puede sostenerse cuando el esfuerzo se vuelve difícil.
 
@@ -83,7 +83,7 @@ Ruben tiene momentos de alta productividad justo antes de los deadlines. El mied
 
 La motivación por miedo activa el sistema nervioso simpatico (la respuesta de estres), que a corto plazo produce alta energía y concentración, pero a largo plazo produce agotamiento, rigidez cognitiva, y resistencia creciente. Los profesionales que trabajan cronicamente bajo motivación de miedo muestran tasas más altas de burnout que los que trabajan bajo motivación de proposito o maestria.
 
-**Ejercicio inmediato:** Para los proyectos o tareas donde tu motivación principal es evitar las consecuencias negativas (el miedo al fracaso, la desaprobación, o el castigo), reflexiona: hay una orientación alternativa disponible? Que podría ser valioso de esa actividad independientemente de las consecuencias? No se trata de suprimir el miedo (es útil hasta cierto punto) sino de no depender exclusivamente de el.
+**Ejercicio inmediato:** Para los proyectos o tareas donde tu motivación principal es evitar las consecuencias negativas (el miedo al fracaso, la desaprobación, o el castigo), reflexiona: ¿hay una orientación alternativa disponible? ¿Que podría ser valioso de esa actividad independientemente de las consecuencias? No se trata de suprimir el miedo (es útil hasta cierto punto) sino de no depender exclusivamente de el.
 
 La motivación que depende del miedo siempre necesita que el miedo sea suficientemente grande para activarse. Eso no es sostenible.
 
@@ -125,7 +125,7 @@ Isabel llegó al agotamiento laboral después de años de alta productividad. El
 
 La investigación de Matthew Grawitch y colegas sobre las organizaciones saludables muestra que las personas con mayor riesgo de burnout no son las menos motivadas sino frecuentemente las más motivadas: las que tienen alta motivación intrinseca y alto sentido de proposito en un entorno que no satisface sus necesidades de autonomía, competencia, o relación.
 
-**Ejercicio inmediato:** Si experimentas signos de agotamiento (cinismo, falta de energía, sensación de ineficacia), realiza un inventario de recursos vs. demandas: en que áreas hay más demandas de las que tienes recursos para cubrir? Y en que áreas tienes recursos que no se estan usando? El ajuste del equilibrio, no el aumento de la fuerza de voluntad, es la solución al burnout.
+**Ejercicio inmediato:** Si experimentas signos de agotamiento (cinismo, falta de energía, sensación de ineficacia), realiza un inventario de recursos vs. demandas: ¿en que áreas hay más demandas de las que tienes recursos para cubrir? ¿Y en que áreas tienes recursos que no se estan usando? El ajuste del equilibrio, no el aumento de la fuerza de voluntad, es la solución al burnout.
 
 El burnout que llamas falta de motivación es tu sistema diciendote que las demandas superan los recursos. Más esfuerzo no es la solución. Menos desequilibrio, si.
 

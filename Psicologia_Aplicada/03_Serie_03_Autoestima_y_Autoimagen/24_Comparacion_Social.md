@@ -27,7 +27,7 @@ La comparación social no es un defecto de carácter ni una patologia moderna. E
 
 El problema es que este mecanismo, diseñado para grupos de cien a ciento cincuenta personas conocidas, opera ahora en el contexto de redes sociales con miles de conexiones, donde el grupo de referencia para la comparación ya no son las personas conocidas del entorno sino una selección global de los mejores momentos de miles de personas. El sistema de comparación social opera con las mismas reglas de siempre en un entorno radicalmente diferente para el que no evolucionó.
 
-**Ejercicio inmediato:** Identifica quienes son actualmente tus grupos de referencia principales para la comparación social: compañeros de trabajo, conocidos en redes sociales, personas famosas de tu campo? Luego pregunta: es ese grupo de referencia representativo de la población real, o es una selección sesgada hacía los logros más visibles?
+**Ejercicio inmediato:** Identifica quienes son actualmente tus grupos de referencia principales para la comparación social: ¿compañeros de trabajo, conocidos en redes sociales, personas famosas de tu campo? Luego pregunta: ¿es ese grupo de referencia representativo de la población real, o es una selección sesgada hacía los logros más visibles?
 
 El grupo con el que te comparas determina si te sentiras por encima o por debajo de la media. Elegir el grupo es más importante de lo que crees.
 
@@ -41,7 +41,7 @@ Elena se compara frecuentemente con personas que considera más exitosas, más a
 
 Las plataformas digitales sesgan sistemáticamente la comparación ascendente porque la arquitectura del like y el seguimiento favorece la visibilidad de los logros (los mejores momentos, los éxitos, los resultados) sobre la realidad cotidiana (los fracasos, las dudas, los dias normales). El resultado es que la comparación social en redes sociales es estructuralmente adversa para el bienestar de la mayoría de los usuarios.
 
-**Ejercicio inmediato:** La próxima vez que hagas una comparación ascendente que produce malestar, pregunta: si tuviera acceso a toda la información sobre la vida de esa persona (no solo lo que muestra), seguiria queriendo exactamente esa vida? La pregunta frecuentemente revela que lo que se desea no es la vida del otro sino un atributo específico extraido de su contexto completo.
+**Ejercicio inmediato:** La próxima vez que hagas una comparación ascendente que produce malestar, pregunta: ¿si tuviera acceso a toda la información sobre la vida de esa persona (no solo lo que muestra), seguiria queriendo exactamente esa vida? La pregunta frecuentemente revela que lo que se desea no es la vida del otro sino un atributo específico extraido de su contexto completo.
 
 Compararte con la versión curada de la vida de otro no es compararte con esa persona. Es compararte con su presentación pública de si misma.
 
@@ -55,7 +55,7 @@ Ruben siente envidia cuando un colega de su misma edad consigue un ascenso que e
 
 Brene Brown, desde una perspectiva diferente, propone que la envidia señala un área donde la persona no se ha dado permiso para querer lo que quiere. Lo que envidias frecuentemente es lo que más genuinamente deseas pero que alguna creencia limitante te impide perseguir abiertamente.
 
-**Ejercicio inmediato:** Piensa en una persona específica a quien envidiaste recientemente. Identifica exactamente que envidiaste de ella: no de su vida completa, sino el atributo específico. Luego pregunta: ese atributo específico es algo que genuinamente deseo para mi vida? Si la respuesta es si, esa es información sobre lo que vale la pena perseguir.
+**Ejercicio inmediato:** Piensa en una persona específica a quien envidiaste recientemente. Identifica exactamente que envidiaste de ella: no de su vida completa, sino el atributo específico. Luego pregunta: ¿ese atributo específico es algo que genuinamente deseo para mi vida? Si la respuesta es si, esa es información sobre lo que vale la pena perseguir.
 
 La envidia que sientes no es la peor parte de ti. Es información sobre lo que más importa que todavia no te has permitido buscar.
 
@@ -67,7 +67,7 @@ Isabel ha notado que cuando pasa mucho tiempo en redes sociales, su sentido de l
 
 **El Principio del Efecto de Ancla en la Comparación Digital:** La investigación de Ethan Kross, psicologo de la Universidad de Michigan que estudio el bienestar subjetivo y el uso de redes sociales en experimentos con grupos de control, muestra que el uso pasivo de Facebook (mirar sin interactuar) se asocia con reducción del bienestar y mayor sensación de envidia tras la sesión, mientras el uso activo (publicar, comentar, conectar con personas específicas) no produce el mismo efecto negativo. El mecanismo es exactamente la comparación ascendente pasiva: mirar la vida curada de otros sin interacción ni contexto.
 
-Jean Twenge, psicologa que ha estudiado el efecto de las pantallas en el bienestar de adolescentes y adultos jóvenes, documenta que el incremento en el uso de smartphones y redes sociales en la última década coincide con aumentos significativos en las tasas de depresión y ansiedad, especialmente en mujeres jóvenes. La correlación no prueba causación pero es coherente con el modeló de la comparación social adversa como mecanismo.
+Jean Twenge, psicologa que ha estudiado el efecto de las pantallas en el bienestar de adolescentes y adultos jóvenes, documenta que el incremento en el uso de smartphones y redes sociales en la última década coincide con aumentos significativos en las tasas de depresión y ansiedad, especialmente en mujeres jóvenes. La correlación no prueba causación pero es coherente con el modelo de la comparación social adversa como mecanismo.
 
 **Ejercicio inmediato:** Diseña un experimento de una semana: reduce el uso pasivo de redes sociales (scroll sin objetivo específico) a un máximo de veinte minutos diarios, concentrado en momentos específicos del dia. Evalua al final de la semana si hay diferencia en tu nivel de satisfacción con tu vida comparada con la semana anterior.
 
@@ -139,7 +139,7 @@ Elena ha notado que cuando esta rodeada de personas que comparten valores simila
 
 Elegir el entorno social no significa eliminar a quienes tienen más o han logrado más. Significa cultivar relaciones con personas cuyo sistema de valores es lo suficientemente similar como para que la comparación, cuando ocurre, sea relevante para lo que genuinamente importa.
 
-**Ejercicio inmediato:** Evalua las personas que más frecuentemente activan tu comparación social adversa: su sistema de valores se alinea con el tuyo, o te comparas en dimensiones que en realidad no te importan tanto? Esta evaluación no es para eliminar relaciones sino para entender de dónde viene la presión de comparación más dañina.
+**Ejercicio inmediato:** Evalua las personas que más frecuentemente activan tu comparación social adversa: ¿su sistema de valores se alinea con el tuyo, o te comparas en dimensiones que en realidad no te importan tanto? Esta evaluación no es para eliminar relaciones sino para entender de dónde viene la presión de comparación más dañina.
 
 El entorno social que eliges no solo afecta tu estado de animo. Afecta los estandares con los que te mides a ti mismo.
 

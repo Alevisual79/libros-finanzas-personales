@@ -133,7 +133,7 @@ El objetivo final de un equilibrio saludable entre trabajo y vida personal no es
 
 **El Principio de la Elección Consciente del Precio:** Algunas personas eligen genuinamente períodos de trabajo intenso por razones que valoran (un proyecto significativo, una oportunidad de crecimiento profesional importante), y esa elección puede ser legitima si se hace con conciencia clara de su coste relacional y con el consentimiento informado de quienes se ven afectados por esa elección, en lugar de ser un patron inercial no examinado que se cobra el precio sin que la persona lo haya elegido conscientemente.
 
-**Ejercicio inmediato:** Para tu patron actual de trabajo, reflexiona: es una elección consciente cuyo precio relacional has evaluado y aceptado, o es un patron inercial que se ha cobrado costes que nunca elegiste conscientemente pagar?
+**Ejercicio inmediato:** Para tu patron actual de trabajo, reflexiona: ¿es una elección consciente cuyo precio relacional has evaluado y aceptado, o es un patron inercial que se ha cobrado costes que nunca elegiste conscientemente pagar?
 
 El trabajo intenso elegido conscientemente, con sus costes entendidos, es diferente del trabajo excesivo que simplemente ocurre sin que nadie haya decidido pagar su precio.
 

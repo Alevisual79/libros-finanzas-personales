@@ -35,11 +35,11 @@ La tristeza que sientes es proporcional a lo que importaba lo que perdiste. Es e
 
 ## Capítulo 2: Las etapas del duelo: el modeló que todos conocen mal
 
-Ruben ha oido hablar de las cinco etapas del duelo de Elisabeth Kübler-Ross: negación, ira, negociación, depresión, aceptación. Las usa como mapa para evaluar si su duelo va bien. El problema es que este uso del modeló es una malinterpretación que puede producir más sufrimiento del que alivia.
+Ruben ha oido hablar de las cinco etapas del duelo de Elisabeth Kübler-Ross: negación, ira, negociación, depresión, aceptación. Las usa como mapa para evaluar si su duelo va bien. El problema es que este uso del modelo es una malinterpretación que puede producir más sufrimiento del que alivia.
 
-**El Principio de las Etapas como Posibilidades, no como Secuencia Obligatoria:** Elisabeth Kübler-Ross desarrollo su modeló en 1969 basandose en su trabajo con pacientes terminales, no con personas en duelo por la perdida de otros. Las cinco etapas fueron propuestas como posibles estados emocionales que pueden experimentarse, no cómo una secuencia lineal obligatoria que todos deben seguir en ese orden.
+**El Principio de las Etapas como Posibilidades, no como Secuencia Obligatoria:** Elisabeth Kübler-Ross desarrollo su modelo en 1969 basandose en su trabajo con pacientes terminales, no con personas en duelo por la perdida de otros. Las cinco etapas fueron propuestas como posibles estados emocionales que pueden experimentarse, no cómo una secuencia lineal obligatoria que todos deben seguir en ese orden.
 
-La investigación empírica posterior sobre el duelo (especialmente los estudios longitudinales de George Bonanno de Columbia y Holly Prigerson) muestra que el duelo es mucho más variable de lo que el modeló de las cinco etapas sugiere: muchas personas no experimentan todas las etapas, algunas no experimentan ninguna de forma claramente delimitada, el orden varia enormemente, y el regreso a etapas anteriores es habitual. Bonanno documenta ademas que la resiliencia ante la perdida (recuperación relativamente rápida del funcionamiento normal, sin negación del dolor) es más común de lo que se pensaba: entre el 35% y el 65% de las personas muestran este patron.
+La investigación empírica posterior sobre el duelo (especialmente los estudios longitudinales de George Bonanno de Columbia y Holly Prigerson) muestra que el duelo es mucho más variable de lo que el modelo de las cinco etapas sugiere: muchas personas no experimentan todas las etapas, algunas no experimentan ninguna de forma claramente delimitada, el orden varia enormemente, y el regreso a etapas anteriores es habitual. Bonanno documenta ademas que la resiliencia ante la perdida (recuperación relativamente rápida del funcionamiento normal, sin negación del dolor) es más común de lo que se pensaba: entre el 35% y el 65% de las personas muestran este patron.
 
 **Ejercicio inmediato:** Liberate del calendario del duelo. Si tu duelo no sigue las cinco etapas en ese orden o a la velocidad que el entorno espera, eso no significa que tu duelo este mal. Significa que eres humano con un patron de duelo propio. La pregunta útil no es ¿estoy en la etapa correcta? sino ¿puedo funcionar en mi vida aunque con dificultad, y tengo apoyo para el proceso?
 
@@ -69,7 +69,7 @@ Ruben a veces no sabe si lo que siente es tristeza normal o depresión. Esta dis
 
 La depresión mayor, aunque frecuentemente incluye tristeza, tiene caracteristicas adicionales: anhedonia (incapacidad de sentir placer incluso en situaciones que normalmente lo producian), alteraciones del sueño y el apetito, fatiga significativa, dificultades cognitivas (concentración, memoria, decisión), sentimientos de inutilidad o culpa excesivos, y en casos severos, ideación suicida. La depresión produce un estrechamiento del mundo que la tristeza por duelo no produce necesariamente.
 
-**Ejercicio inmediato:** Si no estas seguro de si lo que experimentas es tristeza de duelo o depresión, responde estas preguntas: hay momentos (aunque sean breves) de alivio o de emoción positiva? La tristeza tiene una causa identificable? Puedes imaginar que en algun momento futuro te sentiras mejor? Si las tres respuestas son no, considera consultar con un profesional de salud mental. El límite entre duelo y depresión no siempre es claro y la evaluación profesional puede ser necesaria para hacer la distinción.
+**Ejercicio inmediato:** Si no estas seguro de si lo que experimentas es tristeza de duelo o depresión, responde estas preguntas: ¿hay momentos (aunque sean breves) de alivio o de emoción positiva? ¿La tristeza tiene una causa identificable? Puedes imaginar que en algun momento futuro te sentiras mejor? Si las tres respuestas son no, considera consultar con un profesional de salud mental. El límite entre duelo y depresión no siempre es claro y la evaluación profesional puede ser necesaria para hacer la distinción.
 
 La tristeza que se lleva toda la luz y no deja entrar ninguna es una señal de que el proceso necesita apoyo profesional, no solo tiempo.
 
@@ -123,9 +123,9 @@ Ruben descubrió que algunos de sus duelos más significativos, aunque fueron lo
 
 **El Principio del Crecimiento Postraumatico como Posibilidad, no como Obligación:** Richard Tedeschi y Lawrence Calhoun, psicologos de la Universidad de Carolina del Norte, desarrollaron el concepto de crecimiento postraumatico: el cambio psicológico positivo que puede surgir de la lucha con experiencias vitales altamente desafiantes. Este crecimiento puede incluir mayor apreciación de la vida, relaciones más profundas, mayor fortaleza personal, nuevas posibilidades, y desarrollo espiritual.
 
-Importante: el crecimiento postraumatico no es inevitable, no ocurre en todos, y su ausencia no es señal de fracaso ni de menor fuerza. Tampoco significa que la perdida valio la pena: el dolor sigue siendo real y la perdida sigue siendo real. Lo que la investigación muestra es que el proceso de elaborar el dolor puede, en algunas personas y en algunas condiciones, generar perspectivas y capacidades que no existian antes.
+Importante: el crecimiento postraumatico no es inevitable, no ocurre en todos, y su ausencia no es señal de fracaso ni de menor fuerza. Tampoco significa que la perdida valio la pena: el dolor sigue siendo real y la perdida sigue siendo real. Lo que la investigación muestra es que el proceso de elaborar el dolor puede, en algunas personas y en algunas condiciones, generar perspectivas y capacidades que no existían antes.
 
-**Ejercicio inmediato:** Si has atravesado un duelo significativo en el pasado, reflexiona: hay algo que sepas ahora, o algo que valores diferente ahora, que no habrias sabido o valorado sin esa perdida? La respuesta honesta (que puede ser si, no, o no lo se) es información sobre tu propio proceso, no una evaluación de la calidad de tu duelo.
+**Ejercicio inmediato:** Si has atravesado un duelo significativo en el pasado, reflexiona: ¿hay algo que sepas ahora, o algo que valores diferente ahora, que no habrías sabido o valorado sin esa perdida? La respuesta honesta (que puede ser si, no, o no lo se) es información sobre tu propio proceso, no una evaluación de la calidad de tu duelo.
 
 El dolor no es la última palabra de la perdida. Pero tampoco tiene que ser una lección obligatoria. A veces simplemente duele.
 
@@ -135,13 +135,13 @@ El dolor no es la última palabra de la perdida. Pero tampoco tiene que ser una 
 
 Isabel no quiere olvidar a su madre. Pero si quiere poder vivir con alegria de nuevo sin sentir que eso traiciona el duelo. Esta tensión es central en el proceso de elaboración.
 
-**El Principio de la Conexion Continuada como Modelo de Elaboración:** El modeló clasico del duelo, que proponia que el objetivo era desvincularse de la persona perdida para poder reinvertir energía en la vida, ha sido significativamente revisado. Phyllis Silverman y Dennis Klass proponen el modeló de la conexión continuada: las personas en duelo no se desprenden del vinculó con quien perdieron. Transforman ese vinculó desde una relación viva a una relación de memoria, legado e internalización.
+**El Principio de la Conexion Continuada como Modelo de Elaboración:** El modelo clasico del duelo, que proponia que el objetivo era desvincularse de la persona perdida para poder reinvertir energía en la vida, ha sido significativamente revisado. Phyllis Silverman y Dennis Klass proponen el modelo de la conexión continuada: las personas en duelo no se desprenden del vinculó con quien perdieron. Transforman ese vinculó desde una relación viva a una relación de memoria, legado e internalización.
 
-Este modeló explica por qué muchas personas sienten que honran mejor a quien perdieron viviendo bien que sufriendo indefinidamente. La conexión con quien se fue puede mantenerse a traves de rituales de memoria, de vivir valores que esa persona enseño, de conversaciones internas, o de formas de incluir al ausente en momentos importantes de la vida actual.
+Este modelo explica por qué muchas personas sienten que honran mejor a quien perdieron viviendo bien que sufriendo indefinidamente. La conexión con quien se fue puede mantenerse a traves de rituales de memoria, de vivir valores que esa persona enseño, de conversaciones internas, o de formas de incluir al ausente en momentos importantes de la vida actual.
 
 **Ejercicio inmediato:** Si estas en un proceso de duelo, identifica una forma de conexión continuada que funcione para ti: un ritual de memoria (una acción específica en fechas significativas), una forma de honrar su legado (algo que el o ella valoraba y que tu puedes continuar), o simplemente una forma de incluirlo mentalmente en los momentos importantes. Esta conexión no es negación del duelo. Es una forma de integrarlo en la vida que continua.
 
-Vivir bien no traiciona a quien perdiste. En muchos casos, es lo que habria querido para ti.
+Vivir bien no traiciona a quien perdiste. En muchos casos, es lo que habría querido para ti.
 
 ---
 
@@ -153,7 +153,7 @@ Ruben ha aprendido que la tristeza no es el opuesto de la felicidad. Es parte de
 
 La tristeza, integrada en lugar de evitada, puede añadir profundidad y riqueza a la experiencia de vivir: una mayor apreciación de los momentos agradables por la conciencia de su transitoriedad, una mayor conexión con otros que también sufren, y una forma más honesta de relacionarse con la complejidad de la existencia.
 
-**Ejercicio inmediato:** La próxima vez que sientas tristeza, en lugar de intentar eliminarla lo antes posible, permite que exista durante un momento con curiosidad: que esta señalando sobre lo que valoras, sobre lo que has perdido o estas perdiendo, sobre quien eres? Cinco minutos de presencia con la tristeza, sin catastrofizar ni minimizar, frecuentemente produce más procesamiento que horas de evitación.
+**Ejercicio inmediato:** La próxima vez que sientas tristeza, en lugar de intentar eliminarla lo antes posible, permite que exista durante un momento con curiosidad: ¿que esta señalando sobre lo que valoras, sobre lo que has perdido o estas perdiendo, sobre quien eres? Cinco minutos de presencia con la tristeza, sin catastrofizar ni minimizar, frecuentemente produce más procesamiento que horas de evitación.
 
 La tristeza que se deja existir pasa. La que se reprime permanece.
 

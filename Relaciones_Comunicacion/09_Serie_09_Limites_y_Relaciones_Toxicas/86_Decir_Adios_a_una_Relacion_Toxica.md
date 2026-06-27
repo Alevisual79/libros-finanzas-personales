@@ -61,7 +61,7 @@ Algunas situaciones de toxicidad significativa, especialmente las que involucran
 
 **El Principio de la Urgencia Proporcional al Riesgo:** Cuando existe riesgo significativo de manipulación intensificada, de escalada de comportamiento daniño, o cuando el patron de la relación ha demostrado que cualquier apertura gradual es explotada para revertir el proceso de alejamiento, un corte más inmediato y definitivo, aunque más difícil emocionalmente en el momento, frecuentemente protege mejor el bienestar a largo plazo.
 
-**Ejercicio inmediato:** Evalua tu situación específica: el patron de la relación sugiere que un alejamiento gradual sería respetado, o que cualquier apertura sería explotada para revertir tu decisión? Esa evaluación informa si necesitas un corte más abrupto.
+**Ejercicio inmediato:** Evalua tu situación específica: ¿el patron de la relación sugiere que un alejamiento gradual sería respetado, o que cualquier apertura sería explotada para revertir tu decisión? Esa evaluación informa si necesitas un corte más abrupto.
 
 No todas las salidas de relaciones toxicas pueden ser graduales. Algunas requieren un corte más definitivo, precisamente por el patron específico de la relación.
 

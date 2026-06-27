@@ -41,7 +41,7 @@ Lucia ha descubierto que su mayor miedo no es al fracaso sino al éxito: si esca
 
 La investigación de Carol Dweck sobre el mindset muestra que el miedo al fracaso es especialmente agudo en personas con mindset fijo (que interpretan el fracaso como evidencia de incompetencia) y significativamente menor en personas con mindset de crecimiento (que interpretan el fracaso como información sobre que cambiar). El miedo al éxito frecuentemente refleja creencias implícitas sobre la propia capacidad de estar a la altura de niveles mayores de éxito.
 
-**Ejercicio inmediato:** Para tu miedo emprendedor más prominente, identifica a cual de los tres tipos pertenece. Después reflexiona: que creencia fundamental lo sostiene? El miedo al fracaso frecuentemente sostiene la creencia de que el fracaso sería definitivo o irreversible. El miedo al éxito frecuentemente sostiene la creencia de que no eres suficientemente capaz para lo que el éxito requeriría. Identificar la creencia es el primer paso para cuestionarla.
+**Ejercicio inmediato:** Para tu miedo emprendedor más prominente, identifica a cual de los tres tipos pertenece. Después reflexiona: ¿que creencia fundamental lo sostiene? El miedo al fracaso frecuentemente sostiene la creencia de que el fracaso sería definitivo o irreversible. El miedo al éxito frecuentemente sostiene la creencia de que no eres suficientemente capaz para lo que el éxito requeriría. Identificar la creencia es el primer paso para cuestionarla.
 
 Los tres miedos tienen el mismo tratamiento: la acción suficientemente pequeña que el cerebro no percibe como amenaza hasta que ya estas dentro.
 
@@ -83,7 +83,7 @@ Lucia ha reencuadrado su relación con el fracaso después de un lanzamiento que
 
 La investigación de Carol Dweck muestra que el mismo evento objetivo (un fracaso en un lanzamiento, una propuesta rechazada, un cliente que cancela) produce consecuencias psicológicas completamente diferentes dependiendo de la interpretación: en el mindset fijo, el fracaso confirma una capacidad insuficiente; en el mindset de crecimiento, el fracaso informa sobre que ajustar. El reencuadre no es negar el fracaso sino cambiar la pregunta que se le hace: en lugar de que dice esto sobre quien soy, preguntar que dice esto sobre lo que necesito aprender o cambiar.
 
-**Ejercicio inmediato:** Para el fracaso o contratiempo más reciente en tu proyecto de negocio, práctica el análisis AAR (After Action Review) del ejercito: que debia ocurrir? Que ocurrio realmente? Por qué hubo diferencia? Que haría diferente la próxima vez? Ese análisis sistemático transforma el fracaso de experiencia dañina para la identidad en información útil para el siguiente intento.
+**Ejercicio inmediato:** Para el fracaso o contratiempo más reciente en tu proyecto de negocio, práctica el análisis AAR (After Action Review) del ejercito: ¿que debia ocurrir? ¿Que ocurrio realmente? Por qué hubo diferencia? ¿Que haría diferente la próxima vez? Ese análisis sistemático transforma el fracaso de experiencia dañina para la identidad en información útil para el siguiente intento.
 
 El fracaso que analizas es aprendizaje. El que evitas analizando solo es dolor.
 
@@ -139,7 +139,7 @@ Marcos ha aprendido a usar el miedo como información sobre donde esta su zona d
 
 Steven Pressfield, en La Guerra del Arte, propone el concepto de la resistencia: la fuerza que se opone a cualquier proyecto creativo o emprendedor de importancia. Propone que la intensidad de la resistencia (el miedo, la procrastinación, la duda) es proporcional a la importancia del proyecto. La resistencia más fuerte apunta hacía el trabajo más importante.
 
-**Ejercicio inmediato:** Reflexiona sobre las acciones emprendedoras que has estado evitando más consistentemente. Para cada una, reflexiona: el miedo que siento ante esta acción es proporcional al riesgo real, o es proporcional a la importancia que tendría para mi negocio si la hiciera bien? Si la respuesta es lo segundo, el miedo esta apuntando exactamente hacía donde necesitas ir.
+**Ejercicio inmediato:** Reflexiona sobre las acciones emprendedoras que has estado evitando más consistentemente. Para cada una, reflexiona: ¿el miedo que siento ante esta acción es proporcional al riesgo real, o es proporcional a la importancia que tendría para mi negocio si la hiciera bien? Si la respuesta es lo segundo, el miedo esta apuntando exactamente hacía donde necesitas ir.
 
 El mayor miedo que sientes sobre tu negocio probablemente apunta hacía tu mayor oportunidad de crecimiento.
 

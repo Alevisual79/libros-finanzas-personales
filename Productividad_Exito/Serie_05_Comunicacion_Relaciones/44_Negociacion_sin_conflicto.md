@@ -42,13 +42,13 @@ No negociar no evita el conflicto. Solo transfiere la decisión al otro lado. La
 ## Capítulo 2: Los dos errores fundamentales de la negociación
 
 **Error 1: La negociación como suma cero ("si yo gano, tú pierdes")**
-Este modeló de negociación —regateo puro— produce acuerdos mediocres y daña las relaciones. El objetivo es tomar todo lo que sea posible del lado opuesto.
+Este modelo de negociación —regateo puro— produce acuerdos mediocres y daña las relaciones. El objetivo es tomar todo lo que sea posible del lado opuesto.
 
 **Error 2: La rendición como amabilidad**
 Ceder en todo para evitar el conflicto. El resultado es un acuerdo que no satisface los intereses propios y una relación donde el otro aprende que puede pedir sin límite.
 
-**El modeló correcto:**
-Roger Fisher y William Ury, en "Getting to Yes" (Sí, de acuerdo), desarrollaron el modeló de negociación basada en principios: buscar acuerdos que satisfagan los intereses reales de ambas partes. No posiciones, sino intereses.
+**El modelo correcto:**
+Roger Fisher y William Ury, en "Getting to Yes" (Sí, de acuerdo), desarrollaron el modelo de negociación basada en principios: buscar acuerdos que satisfagan los intereses reales de ambas partes. No posiciones, sino intereses.
 
 ---
 

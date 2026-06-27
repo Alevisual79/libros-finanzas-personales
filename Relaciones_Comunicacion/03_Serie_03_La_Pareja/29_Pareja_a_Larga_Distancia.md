@@ -39,7 +39,7 @@ Existe la creencia popular de que las relaciones a distancia rara vez sobreviven
 
 **El Principio del Mito de la Fragilidad:** Los estudios comparativos entre parejas a distancia y parejas de proximidad muestran niveles similares de satisfacción relacional cuando se controla por la calidad de la comunicación, lo que sugiere que la distancia en si misma no es el factor determinante de éxito o fracaso. Lo que si predice el éxito de una relación a distancia es la existencia de un plan claro de reunificación (una fecha o un criterio para terminar la distancia), la calidad de la comunicación, y el nivel de compromiso de ambas partes antes de empezar el período de distancia.
 
-**Ejercicio inmediato:** Si estas preocupado por la viabilidad de tu relación a distancia, evalua los tres factores que realmente predicen el éxito: tienen un plan de reunificación claro? La comunicación es de calidad? El compromiso de ambos es sólido? Estas preguntas son más útiles que la simple pregunta de si la distancia es demasiado difícil.
+**Ejercicio inmediato:** Si estas preocupado por la viabilidad de tu relación a distancia, evalua los tres factores que realmente predicen el éxito: ¿tienen un plan de reunificación claro? ¿La comunicación es de calidad? El compromiso de ambos es sólido? Estas preguntas son más útiles que la simple pregunta de si la distancia es demasiado difícil.
 
 La distancia no es el enemigo de las relaciones. La falta de plan y de comunicación lo es.
 
@@ -99,7 +99,7 @@ Uno de los factores más predictivos del éxito de una relación a distancia es 
 
 **El Principio del Horizonte Compartido:** Las relaciones a distancia sin plan de reunificación tienden a generar mayor ansiedad y menor satisfacción a largo plazo que las que tienen un horizonte claro, incluso si ese horizonte esta lejano. La ausencia de plan produce una sensación de limbo indefinido que es psicológicamente más difícil de sostener que incluso una espera larga pero con fecha o criterio claro.
 
-**Ejercicio inmediato:** Si no tienen un plan claro de reunificación, tengan esa conversación explicitamente: cuando o bajo que condiciones específicas terminara el período de distancia? Si la respuesta es no lo sabemos, identifiquen que información necesitan para poder establecer un plan, aunque sea aproximado.
+**Ejercicio inmediato:** Si no tienen un plan claro de reunificación, tengan esa conversación explicitamente: ¿cuando o bajo que condiciones específicas terminara el período de distancia? Si la respuesta es no lo sabemos, identifiquen que información necesitan para poder establecer un plan, aunque sea aproximado.
 
 Una relación a distancia sin fecha de fin no es una relación a distancia. Es una relación sin dirección clara.
 
@@ -131,7 +131,7 @@ La tecnología puede acercar a una pareja a distancia o puede simplemente llenar
 
 ## Capítulo 10: Decidir el siguiente paso juntos
 
-Las relaciones a distancia exitosas tienden a moverse hacía algun tipo de resolución: la reunificación física, una decisión conjunta sobre el futuro, o en algunos casos, el reconocimiento honesto de que el modeló no es sostenible para ambos.
+Las relaciones a distancia exitosas tienden a moverse hacía algun tipo de resolución: la reunificación física, una decisión conjunta sobre el futuro, o en algunos casos, el reconocimiento honesto de que el modelo no es sostenible para ambos.
 
 **El Principio de la Decisión Conjunta sobre el Futuro:** El siguiente paso después de un período de distancia (quien se traslada, cuando, bajo que condiciones) es una de las decisiones más importantes que una pareja puede tomar, y funciona mejor cuando se trata genuinamente cómo una decisión conjunta, considerando las carreras, las redes de apoyo y las preferencias de ambos, en lugar de que automáticamente uno sacrifique más que el otro por default.
 

@@ -131,7 +131,7 @@ El fin de una amistad por un conflicto genuinamente irresoluble no es un fracaso
 
 Las amistades que sobreviven a conflictos significativos y emergen más fuertes son las que han atravesado un proceso genuino de reparación, no solo una resolución superficial del conflicto puntual.
 
-**El Principio de la Reconstrucción como Proceso, no Evento:** Reconstruir una amistad después de un daño significativo requiere tiempo, consistencia de comportamiento confiable, y la disposición de ambas partes a reconstruir gradualmente la vulnerabilidad y la confianza que existian antes del conflicto, en lugar de esperar que una sola conversación de reparación restaure instantaneamente todo lo que existia previamente.
+**El Principio de la Reconstrucción como Proceso, no Evento:** Reconstruir una amistad después de un daño significativo requiere tiempo, consistencia de comportamiento confiable, y la disposición de ambas partes a reconstruir gradualmente la vulnerabilidad y la confianza que existían antes del conflicto, en lugar de esperar que una sola conversación de reparación restaure instantaneamente todo lo que existia previamente.
 
 **Ejercicio inmediato:** Si estas en proceso de reconstruir una amistad después de un conflicto significativo, identifica una acción pequeña y concreta que podrías tomar esta semana para empezar a reconstruir, sin la expectativa de que la relación vuelva instantaneamente a su estado anterior.
 

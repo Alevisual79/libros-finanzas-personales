@@ -27,7 +27,7 @@ La busqueda de la certeza antes de decidir es una trampa que nunca llega a su de
 
 La investigación de Philip Tetlock sobre los pronosticos de los expertos muestra que los mejores predictores del futuro no son los que tienen más información sino los que tienen mejores marcos para pensar sobre la incertidumbre: los superforecasters de Tetlock son personas que mantienen multiples hipotesis simultaneamente, actualizan sus estimaciones con nueva información, y son calibradas sobre su propio nivel de incertidumbre.
 
-**Ejercicio inmediato:** Para la decisión que llevas más tiempo posponiendo por falta de información, reflexiona: que información adicional específica (no información en general sino información específica y obtenible) cambiaria realmente mi decisión? Si la respuesta es ninguna información realista que pudiera conseguir en los próximos siete dias, la información adicional es una excusa para no decidir, no un prerequisito para decidir bien.
+**Ejercicio inmediato:** Para la decisión que llevas más tiempo posponiendo por falta de información, reflexiona: ¿que información adicional específica (no información en general sino información específica y obtenible) cambiaria realmente mi decisión? Si la respuesta es ninguna información realista que pudiera conseguir en los próximos siete dias, la información adicional es una excusa para no decidir, no un prerequisito para decidir bien.
 
 La decisión que espera a tener toda la información no llega nunca. La que toma la mejor decisión con la información disponible, si.
 
@@ -67,9 +67,9 @@ Lucia ha aprendido que la pregunta correcta antes de una decisión de riesgo no 
 
 **El Principio del Affordable Loss como Marco de Decisión que Calibra el Riesgo por lo que Se Puede Tolerar Perder en lugar de por el Valor Esperado del Resultado:** Saras Sarasvathy, en su investigación sobre la cognición emprendedora experta, identifica el principio del affordable loss como uno de los cinco principios del razonamiento efectual que los emprendedores expertos usan. En lugar de preguntarse cual es el valor esperado de esta apuesta (que requiere estimaciones probabilisticas sobre el futuro muy inciertas), los emprendedores expertos se preguntan cuanto puedo perder en este experimento que sea tolerable si sale mal?
 
-Este cambio de pregunta tiene consecuencias importantes: reduce la paralisis de análisis (no necesitas un modeló financiero complejo para saber cuanto puedes permitirte perder), alinea el riesgo con la capacidad real de absorción, y convierte cada experimento en una apuesta acotada en lugar de una apuesta existencial.
+Este cambio de pregunta tiene consecuencias importantes: reduce la paralisis de análisis (no necesitas un modelo financiero complejo para saber cuanto puedes permitirte perder), alinea el riesgo con la capacidad real de absorción, y convierte cada experimento en una apuesta acotada en lugar de una apuesta existencial.
 
-**Ejercicio inmediato:** Para la próxima inversión de tu negocio (de tiempo, dinero, o recursos) que estes considerando, aplica el marcó del affordable loss: si esto sale completamente mal, cuanto tiempo y dinero habre gastado? Puedo tolerar esa perdida sin que ponga en riesgo la supervivencia del negocio? Si la respuesta es si, el riesgo es asequible y puede procederse con el experimento. Si la respuesta es no, la apuesta es demasiado grande para el punto en que esta el negocio.
+**Ejercicio inmediato:** Para la próxima inversión de tu negocio (de tiempo, dinero, o recursos) que estes considerando, aplica el marcó del affordable loss: ¿si esto sale completamente mal, cuanto tiempo y dinero habre gastado? ¿Puedo tolerar esa perdida sin que ponga en riesgo la supervivencia del negocio? Si la respuesta es si, el riesgo es asequible y puede procederse con el experimento. Si la respuesta es no, la apuesta es demasiado grande para el punto en que esta el negocio.
 
 La pregunta de cuanto puedo perder produce mejores decisiones de riesgo que la de cuanto puedo ganar. Porque la primera ancla en la realidad y la segunda en el optimismo.
 
@@ -85,7 +85,7 @@ El error más común en el emprendimiento es tratar las decisiones tipo 2 como t
 
 **Ejercicio inmediato:** Para las cinco decisiones de negocio que tienes pendientes en este momento, clasifícalas en tipo 1 (si sale mal y no puede corregirse, el impacto es muy significativo) o tipo 2 (si sale mal, puede corregirse con un coste razonable). Para las tipo 2, decide en cuarenta y ocho horas con la información disponible. Para las tipo 1, dedica el tiempo de análisis que merecen pero establece un plazo máximo para no extender el análisis indefinidamente.
 
-La decisión que tardas dos semanas en tomar cuando podias tomarla en dos dias tiene un coste de oportunidad real aunque no aparezca en ninguna hoja de cálculo.
+La decisión que tardas dos semanas en tomar cuando podías tomarla en dos dias tiene un coste de oportunidad real aunque no aparezca en ninguna hoja de cálculo.
 
 ---
 
@@ -97,7 +97,7 @@ Carlos ha aprendido que la intuición no es magia ni ruido: es el sistema rápid
 
 Daniel Kahneman matiza que la intuición solo es fiable cuando se ha desarrollado en entornos regulares (donde los patrones son estables), con larga experiencia (para que el sistema rápido haya aprendido los patrones correctos), y con retroalimentación rápida (para que los errores se corrijan antes de que el patron incorrecto se consolide). El entorno del emprendimiento en fases tempranas frecuentemente no cumple estas condiciones.
 
-**Ejercicio inmediato:** Para la próxima decisión importante donde tu intuición te dice claramente algo, reflexiona: tengo experiencia relevante en este tipo de decisión (he tomado decisiones similares antes y he aprendido de los resultados)? El entorno en que se basa mi intuición es similar al entorno actual? Si ambas respuestas son si, la intuición merece peso significativo. Si no, sometela a mayor escrutinio racional.
+**Ejercicio inmediato:** Para la próxima decisión importante donde tu intuición te dice claramente algo, reflexiona: ¿tengo experiencia relevante en este tipo de decisión (he tomado decisiones similares antes y he aprendido de los resultados)? ¿El entorno en que se basa mi intuición es similar al entorno actual? Si ambas respuestas son si, la intuición merece peso significativo. Si no, sometela a mayor escrutinio racional.
 
 La intuición que no ha sido entrenada por la experiencia y la retroalimentación es solo opinión con convicción. Que puede ser correcta o no, sin saberlo.
 
@@ -121,7 +121,7 @@ El proceso que sigues para decidir determina la calidad de tus decisiones más q
 
 Marcos ha aprendido que algunas decisiones mejoran con la inclusión de su equipo y otras empeoran.
 
-**El Principio de la Decisión Colectiva como Superior a la Individual en Condiciones específicas pero Inferior en Otras, y la Importancia de Saber Cuales Son Cuales:** Victor Vroom y Philip Yetton desarrollaron el modeló de liderazgo situacional para la toma de decisiones: que decisiones tomar en solitario, cuales consultar con individuos específicos, cuales consultar con el grupo, y cuales delegar al grupo. El modeló propone que la elección del proceso depende de la calidad de información necesaria, la importancia del compromiso del equipo con la decisión, y el tiempo disponible.
+**El Principio de la Decisión Colectiva como Superior a la Individual en Condiciones específicas pero Inferior en Otras, y la Importancia de Saber Cuales Son Cuales:** Victor Vroom y Philip Yetton desarrollaron el modelo de liderazgo situacional para la toma de decisiones: que decisiones tomar en solitario, cuales consultar con individuos específicos, cuales consultar con el grupo, y cuales delegar al grupo. El modelo propone que la elección del proceso depende de la calidad de información necesaria, la importancia del compromiso del equipo con la decisión, y el tiempo disponible.
 
 La investigación de James Surowiecki sobre la sabiduría de las masas muestra que los grupos son superiores a los individuos para estimar valores (promedios de estimaciones independientes) pero no para decisiones que requieren sintesis creativa o que estan sujetas a sesgos de grupo (groupthink, pensamiento grupal).
 

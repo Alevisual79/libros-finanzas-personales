@@ -29,7 +29,7 @@ El campo de la IA fue fundado formalmente en 1956 en una conferencia de verano e
 
 Pero las raíces son anteriores.
 
-**1943:** Warren McCulloch y Walter Pitts publican el primer modeló matemático de neurona artificial.
+**1943:** Warren McCulloch y Walter Pitts publican el primer modelo matemático de neurona artificial.
 
 **1948:** Norbert Wiener pública "Cybernetics", sentando las bases de la teoría de control y comunicación en sistemas complejos.
 
@@ -129,7 +129,7 @@ El secreto de AlexNet: deep learning con GPUs (tarjetas gráficas de videojuegos
 
 **2019:** GPT-2, que OpenAI no pública completo por miedo a su uso malicioso. En perspectiva, parece modesto comparado con lo que vino después.
 
-**2020:** GPT-3 con 175 mil millones de parámetros. El primer modeló que demuestra capacidades verdaderamente sorprendentes en tareas que no estaban en su entrenamiento explícito.
+**2020:** GPT-3 con 175 mil millones de parámetros. El primer modelo que demuestra capacidades verdaderamente sorprendentes en tareas que no estaban en su entrenamiento explícito.
 
 **2022:** ChatGPT, lanzado el 30 de noviembre. 100 millones de usuarios en dos meses. El producto de adopción más rápida de la historia tecnológica.
 

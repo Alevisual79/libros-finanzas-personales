@@ -33,7 +33,7 @@ La mayoría de las personas opera con una definición de éxito que no eligió.
 **Las fuentes del éxito heredado:**
 - La familia: "Estudia medicina, derecho, ingeniería — algo con futuro"
 - El grupo social de referencia: lo que las personas con quienes se compara están haciendo
-- La cultura dominante: el éxito que la publicidad, los medios y las redes sociales presentan como el modeló
+- La cultura dominante: el éxito que la publicidad, los medios y las redes sociales presentan como el modelo
 - La industria o profesión: las señales de estatus específicas del propio sector
 
 **El problema:**
@@ -166,7 +166,7 @@ Las decisiones que hacen la vida cotidiana —qué proyectos aceptar, cómo dist
 
 Elena revisó su definición de éxito diez años después de haberla empezado a construir.
 
-La primera versión, a los veintidós, era casi una copia del modeló de éxito de su industria. Cada revisión había añadido algo más suyo: la necesidad de trabajo con personas, no solo con código; la importancia de poder desconectar con frecuencia; el valor de aprender constantemente cosas nuevas.
+La primera versión, a los veintidós, era casi una copia del modelo de éxito de su industria. Cada revisión había añadido algo más suyo: la necesidad de trabajo con personas, no solo con código; la importancia de poder desconectar con frecuencia; el valor de aprender constantemente cosas nuevas.
 
 La definición actual no era glamurosa comparada con los criterios de su industria. Pero era suya. Y cuando evaluaba su vida contra ella, la mayoría de las semanas, la respuesta era positiva.
 

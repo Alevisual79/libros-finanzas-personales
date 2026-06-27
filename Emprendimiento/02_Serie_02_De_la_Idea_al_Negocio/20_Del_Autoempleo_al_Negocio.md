@@ -27,7 +27,7 @@ El autoempleo y el negocio se parecen por fuera. Por dentro son completamente di
 
 La diferencia operativa es simple: en el autoempleo, la ausencia del propietario hace que el negocio pare. En el negocio, la ausencia del propietario puede o no ser visible. El objetivo del emprendedor que quiere construir un negocio real es diseñar un sistema que funcione independientemente de su presencia física diaria.
 
-**Ejercicio inmediato:** Haz el experimento mental de las dos semanas: si te fueras de vacaciones completamente desconectado durante dos semanas (sin email, sin llamadas, sin decisiones), que pasaria en tu negocio? Los clientes seguirian siendo atendidos? Los pedidos seguirian procesandose? Los problemas seguirian resolviendose? Cada respuesta afirmativa indica un sistema que funciona sin ti. Cada respuesta negativa indica una dependencia del propietario que hay que eliminar para tener un negocio.
+**Ejercicio inmediato:** Haz el experimento mental de las dos semanas: ¿si te fueras de vacaciones completamente desconectado durante dos semanas (sin email, sin llamadas, sin decisiones), que pasaria en tu negocio? ¿Los clientes seguirian siendo atendidos? Los pedidos seguirian procesandose? ¿Los problemas seguirian resolviendose? Cada respuesta afirmativa indica un sistema que funciona sin ti. Cada respuesta negativa indica una dependencia del propietario que hay que eliminar para tener un negocio.
 
 El negocio que necesita que estes presente para funcionar no es un negocio. Es tu trabajo.
 
@@ -55,7 +55,7 @@ Carlos ha aprendido que la construcción de sistemas es el trabajo menos urgente
 
 Para el emprendedor en fases de transición del autoempleo al negocio, la construcción de sistemas empieza con la documentación: el proceso de entrega del servicio, el proceso de atención al cliente, el proceso de captación de nuevos clientes, y el proceso de gestión financiera. Cada proceso documentado es un candidato para la delegación.
 
-**Ejercicio inmediato:** Esta semana, documenta el proceso de entrega de tu servicio o producto principal en menos de veinte pasos: que ocurre desde que un cliente dice si hasta que recibe el resultado y queda satisfecho? Esa documentación no necesita ser perfecta: necesita ser lo suficientemente clara para que alguien sin experiencia previa pueda seguirla y producir un resultado aceptable. Ese documento es el primer activo del negocio que puede operar sin ti.
+**Ejercicio inmediato:** Esta semana, documenta el proceso de entrega de tu servicio o producto principal en menos de veinte pasos: ¿que ocurre desde que un cliente dice si hasta que recibe el resultado y queda satisfecho? Esa documentación no necesita ser perfecta: necesita ser lo suficientemente clara para que alguien sin experiencia previa pueda seguirla y producir un resultado aceptable. Ese documento es el primer activo del negocio que puede operar sin ti.
 
 El proceso que solo esta en tu cabeza es un activo que muere contigo. El que esta documentado es un activo de la empresa.
 
@@ -69,7 +69,7 @@ Marcos ha tenido que superar el miedo a contratar a su primera persona y ha apre
 
 La primera contratación no tiene que ser a tiempo completo ni en el rol más importante: puede ser una persona a tiempo parcial para las tareas de menor valor estratégico que más tiempo consumen al fundador (soporte administrativo, contabilidad basica, o entrega de partes del servicio que pueden estandarizarse).
 
-**Ejercicio inmediato:** Identifica las tres actividades que más tiempo de tu agenda consumen que podrían ser realizadas por alguien con menos experiencia que tu. Para la actividad de mayor peso (la que más tiempo te consume y que menos valor estratégico tiene), reflexiona: podría contratar a alguien (aunque sea a tiempo parcial o como freelancer) para que lo hiciera en lugar de yo? El coste de esa persona, si la frees para dedicar ese tiempo a actividades de mayor impacto, podría tener un retorno positivo? Frecuentemente la respuesta es si y el fundador no había hecho el cálculo.
+**Ejercicio inmediato:** Identifica las tres actividades que más tiempo de tu agenda consumen que podrían ser realizadas por alguien con menos experiencia que tu. Para la actividad de mayor peso (la que más tiempo te consume y que menos valor estratégico tiene), reflexiona: ¿podría contratar a alguien (aunque sea a tiempo parcial o como freelancer) para que lo hiciera en lugar de yo? ¿El coste de esa persona, si la frees para dedicar ese tiempo a actividades de mayor impacto, podría tener un retorno positivo? Frecuentemente la respuesta es si y el fundador no había hecho el cálculo.
 
 La primera persona que contratas no te cuesta dinero. Te da tiempo. Y el tiempo, en el emprendimiento, vale más que el dinero.
 
@@ -97,7 +97,7 @@ Marcos ha tenido que aprender un tipo de liderazgo diferente al que había pract
 
 La investigación de Amy Edmondson sobre los líderes que construyen equipos de alto rendimiento muestra que la caracteristica más común entre ellos es la capacidad de crear seguridad psicológica (el entorno donde el equipo puede tomar riesgos, admitir errores, y pedir ayuda sin miedo a consecuencias negativas) más que la capacidad técnica de hacer el trabajo.
 
-**Ejercicio inmediato:** Para la próxima tarea importante que tu equipo (si tienes uno) necesita realizar y que hasta ahora habrias hecho tu mismo, práctica el rol de facilitador en lugar de ejecutor: comunica el resultado esperado, da a la persona los recursos y la autoridad que necesita, y establece un punto de verificación intermedio en lugar de supervisar cada paso del proceso. El resultado puede ser ligeramente diferente de cómo lo habrias hecho tu. Y eso, en la mayoría de los casos, esta perfectamente bien.
+**Ejercicio inmediato:** Para la próxima tarea importante que tu equipo (si tienes uno) necesita realizar y que hasta ahora habrías hecho tu mismo, práctica el rol de facilitador en lugar de ejecutor: comunica el resultado esperado, da a la persona los recursos y la autoridad que necesita, y establece un punto de verificación intermedio en lugar de supervisar cada paso del proceso. El resultado puede ser ligeramente diferente de cómo lo habrías hecho tu. Y eso, en la mayoría de los casos, esta perfectamente bien.
 
 El líder que facilita el éxito de su equipo construye una empresa. El que hace todo el trabajo el mismo construye un empleo más complejo.
 
@@ -125,7 +125,7 @@ Lucia ha aprendido que la diferencia entre el autoempleo y el negocio no es solo
 
 Para los emprendedores que quieren crear un activo financiero realizable (que pueda venderse, fusionarse, o pasar a herederos), construir un negocio que funcione sin su presencia no es solo una preferencia de estilo de vida: es el prerequisito de cualquier salida de valor.
 
-**Ejercicio inmediato:** Para tu negocio, reflexiona sobre la pregunta de Warrillow: si tuvieras que vender tu negocio mañana, quien sería el comprador y cuanto pagaria? Si la respuesta honesta es nadie o muy poco porque el negocio depende de mi, ahí esta el trabajo que tienes por hacer para construir un activo de valor. Si hay un comprador potencial y un valor razonable, tienes un activo. La diferencia entre las dos situaciones es exactamente la diferencia entre el autoempleo y el negocio.
+**Ejercicio inmediato:** Para tu negocio, reflexiona sobre la pregunta de Warrillow: ¿si tuvieras que vender tu negocio mañana, quien sería el comprador y cuanto pagaria? Si la respuesta honesta es nadie o muy poco porque el negocio depende de mi, ahí esta el trabajo que tienes por hacer para construir un activo de valor. Si hay un comprador potencial y un valor razonable, tienes un activo. La diferencia entre las dos situaciones es exactamente la diferencia entre el autoempleo y el negocio.
 
 El negocio que vale algo cuando lo vendes es el que vale algo mientras lo tienes. Son el mismo.
 
@@ -133,13 +133,13 @@ El negocio que vale algo cuando lo vendes es el que vale algo mientras lo tienes
 
 ## Capítulo 9: La escalabilidad del modeló: diseñar para el crecimiento
 
-Marcos ha tenido que revisar su modeló de negocio para asegurarse de que puede escalar sin que el crecimiento dependa de cuantas horas el puede trabajar.
+Marcos ha tenido que revisar su modelo de negocio para asegurarse de que puede escalar sin que el crecimiento dependa de cuantas horas el puede trabajar.
 
 **El Principio del Modelo de Negocio Escalable como el que Permite Aumentar el Revenue sin un Incremento Proporcional en el Tiempo del Propietario o el Coste Operativo porque Esta Diseñado para Crecer sin Crear Cuellos de Botella:** Verne Harnish, en Scaling Up, propone que las empresas que logran escalar exitosamente tienen modelos de negocio donde el coste de servir a un cliente adicional decrece a medida que el volumen aumenta (economias de escala), y donde el crecimiento no requiere que el fundador trabaje más horas sino que el sistema trabaje más eficientemente.
 
 Los modelos más escalables son los que tienen alguna combinación de: alta automatización del proceso de entrega, efectos de red (el producto es mejor con más usuarios), o alto margen que permite invertir en sistemas sin comprometer la rentabilidad.
 
-**Ejercicio inmediato:** Para tu negocio, calcula el coste marginal de servir a un cliente adicional: si manaña duplicas el número de clientes, cuanto más tendrías que trabajar tu? Si la respuesta es el doble, el modeló no escala sin ti. Si la respuesta es un 20% más, el modeló tiene algo de escalabilidad. Si la respuesta es poco o nada más, el modeló es altamente escalable. El primer escenario requiere cambiar el modeló antes de escalar; el tercero es el que permite construir un negocio que crece sin crecer en horas del propietario.
+**Ejercicio inmediato:** Para tu negocio, calcula el coste marginal de servir a un cliente adicional: ¿si manaña duplicas el número de clientes, cuanto más tendrías que trabajar tu? Si la respuesta es el doble, el modelo no escala sin ti. Si la respuesta es un 20% más, el modelo tiene algo de escalabilidad. Si la respuesta es poco o nada más, el modelo es altamente escalable. El primer escenario requiere cambiar el modelo antes de escalar; el tercero es el que permite construir un negocio que crece sin crecer en horas del propietario.
 
 El negocio que puede crecer sin que trabajes más horas es el que te da libertad de tiempo mientras crece.
 
@@ -153,7 +153,7 @@ Carlos ha llegado a entender que la transición del autoempleo al negocio no es 
 
 La investigación de Dan Sullivan sobre el crecimiento de emprendedores muestra que los que hacen la transición del autoempleo al negocio más exitosamente lo hacen de forma gradual: empiezan eliminando una dependencia del propietario cada trimestre, construyendo sistemas para sustituirla, y reinvirtiendo el tiempo liberado en las actividades de mayor valor estratégico.
 
-**Ejercicio inmediato:** Diseña tu hoja de ruta de transición a tres años: que dependencias del propietario tienes actualmente y en que orden planeas eliminarlas? Para cada una, que sistema, proceso, o persona sustituye tu presencia? Cuanto tiempo te liberara esa sustitución y en que actividades de mayor valor estratégico lo invertiras? La hoja de ruta no tiene que ser precisa: tiene que ser suficientemente clara para guiar las decisiones trimestrales del proceso de transición.
+**Ejercicio inmediato:** Diseña tu hoja de ruta de transición a tres años: ¿que dependencias del propietario tienes actualmente y en que orden planeas eliminarlas? ¿Para cada una, que sistema, proceso, o persona sustituye tu presencia? Cuanto tiempo te liberara esa sustitución y en que actividades de mayor valor estratégico lo invertiras? La hoja de ruta no tiene que ser precisa: tiene que ser suficientemente clara para guiar las decisiones trimestrales del proceso de transición.
 
 El negocio que funciona sin ti no es el negocio del que estas ausente. Es el negocio que te ha dado libertad para estar donde más puedes contribuir.
 

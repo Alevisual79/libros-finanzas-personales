@@ -41,7 +41,7 @@ Ruben usa la culpa como sistema de control de calidad moral: se siente culpable 
 
 Sin embargo, la culpa desadaptativa (sentir culpa intensa por cosas que no son culpa propia, por situaciones que no podían controlarse, o en intensidades que exceden enormemente el daño real) no tiene esta función adaptativa. Produce sufrimiento sin aprendizaje y sin mejora. Las fuentes más comunes de culpa desadaptativa incluyen: asumir responsabilidad por el sufrimiento de otros que no depende de ti, aplicar estandares de hoy a decisiones tomadas con la información de ayer, y sentir culpa por necesidades y emociones normales que se aprendió que eran inaceptables.
 
-**Ejercicio inmediato:** Para tu culpa más persistente, responde estas preguntas: tenía control real sobre lo que ocurrio? Tome la decisión con la información y los recursos que tenía en ese momento? El daño real es proporcional a la intensidad de la culpa que sigo sintiendo? Si las respuestas sugieren que la culpa excede lo que la situación objetivamente requiere, eso es culpa desadaptativa que merece ser tratada como tal, no como evidencia moral honesta.
+**Ejercicio inmediato:** Para tu culpa más persistente, responde estas preguntas: ¿tenía control real sobre lo que ocurrio? ¿Tome la decisión con la información y los recursos que tenía en ese momento? El daño real es proporcional a la intensidad de la culpa que sigo sintiendo? Si las respuestas sugieren que la culpa excede lo que la situación objetivamente requiere, eso es culpa desadaptativa que merece ser tratada como tal, no como evidencia moral honesta.
 
 La culpa que excede el daño real no es honestidad moral. Es autocastigo.
 
@@ -63,13 +63,13 @@ La verguenza que se comparte con alguien que responde con empatia pierde la mita
 
 ## Capítulo 4: El origen cultural y familiar de la culpa y la verguenza
 
-Ruben siente verguenza por cosas que, cuando las analiza objetivamente, no habria evaluado como problematicas si le hubieran pasado a otra persona. La desproporción entre el juicio sobre si mismo y el juicio sobre otros le señala que hay un estandar interno que no fue elegido sino aprendido.
+Ruben siente verguenza por cosas que, cuando las analiza objetivamente, no habría evaluado como problematicas si le hubieran pasado a otra persona. La desproporción entre el juicio sobre si mismo y el juicio sobre otros le señala que hay un estandar interno que no fue elegido sino aprendido.
 
 **El Principio de la Culpa y la Vergüenza como Construcciones Culturales y Familiares:** Aunque la capacidad de sentir culpa y verguenza parece universal en todas las culturas, los contenidos específicos (que produce culpa, que produce verguenza, con que intensidad) varian enormemente segun la cultura y la familia de origen. Ruth Benedict distinguio entre culturas de la culpa (donde la transgresión de normas internas produce culpa independientemente de si otros la ven) y culturas de la verguenza (donde la evaluación negativa de otros es la fuente primaria de la emoción moral), aunque esta distinción binaria ha sido refinada por investigación posterior.
 
 A nivel familiar, los mensajes sobre que merece verguenza o culpa se transmiten tempranamente a traves de la reacción de los padres ante los errores del niño, los temas que nunca se hablan, y las normas implícitas sobre que aspectos del yo son aceptables o inaceptables. Estos mensajes, internalizados antes de la capacidad de evaluarlos crítica, determinan en gran medida los patrones adultos de culpa y verguenza.
 
-**Ejercicio inmediato:** Identifica la fuente familiar de tu culpa o verguenza más persistente: que mensaje específico sobre lo que es aceptable o inaceptable en ti esta detras de esa emoción? Ese mensaje, que probablemente fue aprendido en la infancia, no fue elegido conscientemente y puede ser cuestionado ahora con perspectiva adulta.
+**Ejercicio inmediato:** Identifica la fuente familiar de tu culpa o verguenza más persistente: ¿que mensaje específico sobre lo que es aceptable o inaceptable en ti esta detras de esa emoción? Ese mensaje, que probablemente fue aprendido en la infancia, no fue elegido conscientemente y puede ser cuestionado ahora con perspectiva adulta.
 
 El codigo moral con el que te juzgas en la intimidad fue programado cuando eras demasiado pequeño para elegirlo. Es hora de revisarlo.
 
@@ -97,7 +97,7 @@ Ruben se ha dado cuenta de que parte de su identidad esta construida en torno a 
 
 El problema de la culpa como identidad es que, por definición, no tiene solución: si la culpa es quien soy, no hay acción que pueda reducirla permanentemente porque la perdida de la culpa amenazaria la identidad. La distinción entre la culpa como señal (que tiene la solución de responsabilizarse, reparar, y soltar) y la culpa como identidad (que no tiene solución porque la solución disolveria una parte de quien se cree ser) es el diagnostico que permite identificar el tipo de trabajo necesario.
 
-**Ejercicio inmediato:** Para tu culpa más persistente, pregunta: si de repente te liberaras completamente de esta culpa, que perderia de ti? Si la respuesta incluye cosas como mi profundidad moral, mi seriedad, o mi forma de demostrar que me importa, la culpa esta funcionando como identidad, no como señal. Ese diagnostico no elimina la culpa pero identifica el nivel de trabajo que requiere.
+**Ejercicio inmediato:** Para tu culpa más persistente, pregunta: ¿si de repente te liberaras completamente de esta culpa, que perderia de ti? Si la respuesta incluye cosas como mi profundidad moral, mi seriedad, o mi forma de demostrar que me importa, la culpa esta funcionando como identidad, no como señal. Ese diagnostico no elimina la culpa pero identifica el nivel de trabajo que requiere.
 
 La culpa que te define no tiene solución. Solo tiene mantenimiento. Y eso nunca era lo que la culpa se propuso ser.
 
@@ -139,7 +139,7 @@ Elena a veces se siente avergonzada de cosas que, cuando las analiza, no son res
 
 John Bradshaw, trabajador social y terapeuta, desarrollo el concepto de verguenza toxica: la verguenza que no viene de un comportamiento específico sino de la comunicación repetida de que uno es fundamentalmente defectuoso. Esta verguenza toxica, a diferencia de la culpa sana, no puede resolverse porque no tiene un comportamiento específico que cambiar: es una evaluación del yo, no del comportamiento.
 
-**Ejercicio inmediato:** Para la verguenza que sientes sobre aspectos de ti mismo (no comportamientos sino caracteristicas), pregunta: es esta una evaluación que yo hago de mi mismo basandome en mis propios valores, o es una evaluación que aprendi de alguien que tenía inters en que me sintiera defectuoso? La distinción identifica si la verguenza señala algo que genuinamente quieres cambiar o si es una herramienta de control que puedes rechazar.
+**Ejercicio inmediato:** Para la verguenza que sientes sobre aspectos de ti mismo (no comportamientos sino caracteristicas), pregunta: ¿es esta una evaluación que yo hago de mi mismo basandome en mis propios valores, o es una evaluación que aprendi de alguien que tenía inters en que me sintiera defectuoso? La distinción identifica si la verguenza señala algo que genuinamente quieres cambiar o si es una herramienta de control que puedes rechazar.
 
 No toda verguenza que sientes es tuya. Algunas fueron depositadas en ti por otros. Puedes devolvérselas.
 

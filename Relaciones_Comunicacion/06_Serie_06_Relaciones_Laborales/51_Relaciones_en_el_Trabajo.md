@@ -61,7 +61,7 @@ La mayoría de los problemas relacionales en el entorno laboral tienen su origen
 
 **El Principio de los Fallos Recurrentes de Comunicación:** Los patrones de comunicación laboral más problematicos incluyen la suposición de que la información compartida es entendida sin verificación explícita, la evitación de conversaciones difíciles hasta que se acumulan en resentimiento, y la comunicación exclusivamente a traves de canales escritos (email, chat) para temas que requieren la riqueza de la comunicación verbal directa.
 
-**Ejercicio inmediato:** Identifica un patron de comunicación problematico en tu entorno laboral actual (suposiciones no verificadas, evitación de temas difíciles, o canal inadecuado para el tema). Que cambio específico podrías hacer para mejorarlo desde tu propio rol?
+**Ejercicio inmediato:** Identifica un patron de comunicación problematico en tu entorno laboral actual (suposiciones no verificadas, evitación de temas difíciles, o canal inadecuado para el tema). ¿Que cambio específico podrías hacer para mejorarlo desde tu propio rol?
 
 La mayoría de los conflictos laborales que parecen ser sobre personalidad son, en realidad, sobre comunicación que fallo en algun punto específico.
 
@@ -97,7 +97,7 @@ Las relaciones laborales más valiosas a menudo trascienden la jerarquía inmedi
 
 **El Principio del Capital Social Multidireccional:** Las personas con redes profesionales internas más diversas (que incluyen conexiones con superiores, pares y subordinados en distintas áreas de la organización) tienden a tener mejor acceso a información, más oportunidades de movilidad interna, y mayor capacidad de influencia organizacional que las que limitan sus relaciones exclusivamente a su equipo inmediato.
 
-**Ejercicio inmediato:** Identifica una persona de otro departamento o nivel organizacional con quien podrías iniciar o profundizar una conexión profesional. Que primer paso concreto podrías dar esta semana?
+**Ejercicio inmediato:** Identifica una persona de otro departamento o nivel organizacional con quien podrías iniciar o profundizar una conexión profesional. ¿Que primer paso concreto podrías dar esta semana?
 
 Limitar tus relaciones laborales solo a tu equipo inmediato limita también tu visión, tu influencia y tus oportunidades dentro de la organización.
 

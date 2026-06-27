@@ -49,7 +49,7 @@ Los grupos de amigos, como cualquier grupo social, pueden generar presión impl�
 
 **El Principio de la Conformidad Implicita:** La investigación clasica sobre conformidad social muestra que las personas frecuentemente ajustan sus opiniones y comportamientos expresados para alinearse con el grupo, incluso cuando internamente discrepan, debido al miedo al rechazó o al conflicto. Esta presión es particularmente fuerte en grupos de amigos cercanos, donde el coste percibido de la desviación (perder la pertenencia al grupo) se siente especialmente alto.
 
-**Ejercicio inmediato:** Identifica una opinión o decisión en la que sientes que te has conformado a la norma de tu grupo de amigos en contra de lo que realmente piensas o sientes. Que te impidio expresar tu discrepancia genuina?
+**Ejercicio inmediato:** Identifica una opinión o decisión en la que sientes que te has conformado a la norma de tu grupo de amigos en contra de lo que realmente piensas o sientes. ¿Que te impidio expresar tu discrepancia genuina?
 
 Un grupo de amigos saludable permite la discrepancia. Uno que la castiga con rechazó sutil no es tan seguro como parece.
 

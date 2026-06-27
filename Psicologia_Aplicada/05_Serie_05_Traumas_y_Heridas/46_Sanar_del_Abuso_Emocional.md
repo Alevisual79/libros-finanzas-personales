@@ -23,11 +23,11 @@ Isabel tardo años en llamarlo abuso. No había golpes, no había gritos todos l
 
 El abuso emocional es frecuentemente el tipo de abuso que menos se reconoce como abuso, tanto desde fuera como desde dentro.
 
-**El Principio del Abuso Emocional como Patron sistemático, no como Acto Aislado:** Lenore Walker, psicóloga que desarrollo el modeló del ciclo del abuso, y Patricia Evans, investigadora del abuso verbal, proponen que el abuso emocional no es una serie de incidentes aislados sino un patron sistemático de comportamientos que tienen el efecto acumulativo de erosionar la identidad, la autoimagen, y la capacidad de funcionamiento autonomo de la persona que lo recibe.
+**El Principio del Abuso Emocional como Patron sistemático, no como Acto Aislado:** Lenore Walker, psicóloga que desarrollo el modelo del ciclo del abuso, y Patricia Evans, investigadora del abuso verbal, proponen que el abuso emocional no es una serie de incidentes aislados sino un patron sistemático de comportamientos que tienen el efecto acumulativo de erosionar la identidad, la autoimagen, y la capacidad de funcionamiento autonomo de la persona que lo recibe.
 
 Las formas del abuso emocional incluyen: la crítica sistemática y la humillación, la invalidación de la experiencia y las emociones, el control del comportamiento y del entorno, el aislamiento de redes de apoyo, el gaslighting (manipular a alguien para qué dude de su propia percepción de la realidad), las amenazas, el silencio prolongado como castigo, y la alternancia impredecible entre afecto y rechazó.
 
-**Ejercicio inmediato:** Reflexiona sobre una relación pasada o actual y responde: te sentias frecuentemente confundida sobre si tu percepción de los eventos era correcta? Te disculpabas regularmente sin saber exactamente por qué? Caminabas sobre cascaras de huevo monitorizando el estado de humor del otro? Tu sentido de quien eres se fue erosionando durante la relación? Si respondiste si a varias de estas preguntas, la relación puede haber incluido elementos de abuso emocional.
+**Ejercicio inmediato:** Reflexiona sobre una relación pasada o actual y responde: ¿te sentias frecuentemente confundida sobre si tu percepción de los eventos era correcta? ¿Te disculpabas regularmente sin saber exactamente por qué? Caminabas sobre cascaras de huevo monitorizando el estado de humor del otro? ¿Tu sentido de quien eres se fue erosionando durante la relación? Si respondiste si a varias de estas preguntas, la relación puede haber incluido elementos de abuso emocional.
 
 El abuso que no tiene nombre seguirá confundiendote. Nombrarlo es el primer acto de recuperación de la realidad.
 
@@ -83,7 +83,7 @@ Isabel nota que durante la relación abusiva fue perdiendo gradualmente el conta
 
 La recuperación de la identidad implica el proceso gradual de reconectar con las propias experiencias, preferencias, y valores con una voz interna distinta a la del abusador. Este proceso frecuentemente requiere apoyo terapeutico porque la voz interna del abusador se ha internalizado de tal forma que puede ser difícil distinguirla de la propia.
 
-**Ejercicio inmediato:** Empieza a construir una lista de preferencias pequeñas y específicas que son tuyas: que tipo de musica te gusta cuando nadie más esta escuchando? Que harías en una tarde libre si nadie tuviera opinión sobre ello? Estas preguntas pequeñas conectan con quien eres independientemente de las expectativas de otros.
+**Ejercicio inmediato:** Empieza a construir una lista de preferencias pequeñas y específicas que son tuyas: ¿que tipo de musica te gusta cuando nadie más esta escuchando? ¿Que harías en una tarde libre si nadie tuviera opinión sobre ello? Estas preguntas pequeñas conectan con quien eres independientemente de las expectativas de otros.
 
 La identidad que el abuso erosiono no desaparecio. Empezo a esconderse. El proceso de recuperación es el de volver a escucharla.
 
@@ -111,7 +111,7 @@ Ruben cargaba con una culpa enorme por lo que había pasado en la relación.
 
 La distinción crítica es entre la culpa útil (reconocimiento de que las propias acciones causaron daño, con la responsabilidad apropiada) y la culpa inducida (asumir la responsabilidad por el comportamiento de otros). El trabajo de descolocar la culpa implica trazar una linea clara entre lo que es responsabilidad propia y lo que es responsabilidad del abusador.
 
-**Ejercicio inmediato:** Para la relación abusiva de tu historia, escribe una lista de las cosas de las que te has culpado. Para cada una, pregunta: esto fue un error que yo cometi y que causo el abuso? O el abuso habria ocurrido de todas formas? La distinción puede ser difícil de ver desde dentro, pero empezar a hacerla reduce la carga de culpa que no te pertenece.
+**Ejercicio inmediato:** Para la relación abusiva de tu historia, escribe una lista de las cosas de las que te has culpado. Para cada una, pregunta: ¿esto fue un error que yo cometi y que causo el abuso? ¿O el abuso habría ocurrido de todas formas? La distinción puede ser difícil de ver desde dentro, pero empezar a hacerla reduce la carga de culpa que no te pertenece.
 
 La culpa que llevas por el abuso que sufriste no es tuya. Fue puesta ahí deliberadamente. Devolversela a quien pertenece es parte de la recuperación.
 

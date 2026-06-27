@@ -27,7 +27,7 @@ El emprendedor no es el que tiene la mejor idea. Es el que tiene la mentalidad d
 
 La investigación de Saras Sarasvathy sobre la cognición emprendedora muestra que los emprendedores expertos (con varios negocios exitosos a sus espaldas) piensan de forma radicalmente diferente a los novatos: en lugar de empezar con objetivos y buscar los recursos necesarios (razonamiento causal), empiezan con los recursos que tienen y exploran que pueden crear con ellos (razonamiento effectual). Esa diferencia cognitiva no es innata: es un patron que puede aprenderse.
 
-**Ejercicio inmediato:** Haz un inventario de tus recursos actuales: que sabes hacer? Que conoces? Que contactos tienes? Que acceso tienes a recursos específicos? La pregunta del emprendedor con mentalidad effectual no es que necesito para empezar sino que puedo crear con lo que ya tengo. Ese cambio de pregunta frecuentemente revela posibilidades que la perspectiva de los recursos necesarios bloquea.
+**Ejercicio inmediato:** Haz un inventario de tus recursos actuales: ¿que sabes hacer? ¿Que conoces? Que contactos tienes? ¿Que acceso tienes a recursos específicos? La pregunta del emprendedor con mentalidad effectual no es que necesito para empezar sino que puedo crear con lo que ya tengo. Ese cambio de pregunta frecuentemente revela posibilidades que la perspectiva de los recursos necesarios bloquea.
 
 El emprendedor que espera a tener todo lo que necesita para empezar no empieza nunca.
 
@@ -41,7 +41,7 @@ Lucia ha aprendido que sus mejores decisiones de negocio no vinieron de análisi
 
 Jeff Bezos articulo esta distinción en sus cartas a los accionistas de Amazon: hay decisiones de tipo 1 (irreversibles, de alto impacto, que requieren análisis extenso) y decisiones de tipo 2 (reversibles, de bajo impacto, que pueden tomarse rápidamente y ajustarse). La mayoría de las decisiones del emprendedor en las fases tempranas son tipo 2, pero se tratan como tipo 1, lo que produce paralisis de análisis.
 
-**Ejercicio inmediato:** Para la decisión de negocio que llevas más tiempo posponiendo por falta de información, clasifícala: es tipo 1 (irreversible, de alto impacto) o tipo 2 (reversible, ajustable)? Si es tipo 2, establece un plazo de cuarenta y ocho horas para tomarla. La información adicional que obtendrías esperando más tiempo raramente cambia el resultado. La información que obtienes actuando si lo cambia.
+**Ejercicio inmediato:** Para la decisión de negocio que llevas más tiempo posponiendo por falta de información, clasifícala: ¿es tipo 1 (irreversible, de alto impacto) o tipo 2 (reversible, ajustable)? Si es tipo 2, establece un plazo de cuarenta y ocho horas para tomarla. La información adicional que obtendrías esperando más tiempo raramente cambia el resultado. La información que obtienes actuando si lo cambia.
 
 La decisión que puedes revertir no necesita el mismo análisis que la que no puedes.
 
@@ -55,7 +55,7 @@ Marcos tiene dificultades para tolerar la incertidumbre después de veinte años
 
 La investigación de Michelle Lamont sobre los patrones de pensamiento de los fundadores exitosos muestra que los que más prosperan no son los que más saben sino los que mejor toleran no saber: pueden actuar con confianza sobre información incompleta, ajustarse cuando la realidad difiere de sus supuestos, y no entrar en crisis de identidad cuando las cosas no van como estaba previsto.
 
-**Ejercicio inmediato:** Identifica las tres incertidumbres más importantes de tu proyecto o negocio actual. Para cada una, reflexiona: es una incertidumbre que puedo reducir con investigación (y merece el tiempo)? Es una incertidumbre que solo el mercado puede resolver (y merece experimentar en lugar de analizar)? Es una incertidumbre irreducible que tengo que aprender a tolerar? Esa clasificación produce estrategias diferentes para cada tipo.
+**Ejercicio inmediato:** Identifica las tres incertidumbres más importantes de tu proyecto o negocio actual. Para cada una, reflexiona: ¿es una incertidumbre que puedo reducir con investigación (y merece el tiempo)? ¿Es una incertidumbre que solo el mercado puede resolver (y merece experimentar en lugar de analizar)? Es una incertidumbre irreducible que tengo que aprender a tolerar? Esa clasificación produce estrategias diferentes para cada tipo.
 
 El negocio que esperas a entender perfectamente antes de lanzar ya lo ha lanzado otro.
 
@@ -69,7 +69,7 @@ Carlos tiene miedo de fracasar. Ese miedo es real. Pero la investigación sugier
 
 Scott Shane, en The Illusions of Entrepreneurship, analiza los datos reales de fracaso empresarial y muestra que, aunque significativos, son sistemáticamente menores de lo que la percepción popular sugiere. Ademas, el fracaso de una empresa raramente produce el catastrofismo personal (ruina económica total, daño irreparable a la reputación) que el miedo anticipa: la mayoría de los emprendedores que fracasan aprenden, se recuperan, y muchos tienen empresas exitosas después del fracaso.
 
-**Ejercicio inmediato:** Para el escenario de fracaso que más temes en tu proyecto, haz un ejercicio de worst case analysis: si el peor escenario que puedes imaginar ocurriera, que pasaria exactamente? Cuanto tiempo tardarias en recuperarte? Que recursos tendrías disponibles? Que habrias aprendido? La mayoría de las personas que hacen este ejercicio con honestidad descubren que el peor caso es significativamente mejor de lo que el miedo sugeria.
+**Ejercicio inmediato:** Para el escenario de fracaso que más temes en tu proyecto, haz un ejercicio de worst case analysis: ¿si el peor escenario que puedes imaginar ocurriera, que pasaria exactamente? ¿Cuanto tiempo tardarias en recuperarte? Que recursos tendrías disponibles? ¿Que habrías aprendido? La mayoría de las personas que hacen este ejercicio con honestidad descubren que el peor caso es significativamente mejor de lo que el miedo sugeria.
 
 El fracaso que imaginas rara vez es el que ocurre. Y el que ocurre rara vez es tan malo cómo lo imaginabas.
 
@@ -83,7 +83,7 @@ Lucia ha aprendido que el mayor obstaculo para escalar su empresa no era una est
 
 La investigación de Herminia Ibarra sobre la identidad profesional muestra que las transiciones de identidad más exitosas (de empleado a emprendedor, de emprendedor a CEO) no ocurren de golpe sino a traves de experimentos de identidad: probar nuevas formas de actuar antes de haber adoptado completamente la nueva identidad, y usar la retroalimentación de esos experimentos para ir ajustando la imagen del yo.
 
-**Ejercicio inmediato:** Escribe la respuesta a la pregunta: que tipo de emprendedor/empresario quiero ser en cinco años? No en terminos de resultados (facturación, equipo, mercado) sino en terminos de identidad: como tomó las decisiones? Como trató a mi equipo? Como pienso sobre los problemas? Como respondo al fracaso? Esa descripción es el arquetipo de identidad hacía el que puedes orientar tu desarrollo.
+**Ejercicio inmediato:** Escribe la respuesta a la pregunta: ¿que tipo de emprendedor/empresario quiero ser en cinco años? No en terminos de resultados (facturación, equipo, mercado) sino en terminos de identidad: ¿como tomó las decisiones? ¿Como trató a mi equipo? Como pienso sobre los problemas? ¿Como respondo al fracaso? Esa descripción es el arquetipo de identidad hacía el que puedes orientar tu desarrollo.
 
 El negocio que construyes tiene el techo del empresario que crees ser. Para levantar el techo, cambia la creencia.
 
@@ -97,7 +97,7 @@ Marcos tiene la tendencia de perderse en los detalles operativos del dia a dia y
 
 La investigación de Michael Gerber (El Mito del Emprendedor) muestra que la mayoría de los negocios que fracasan no lo hacen por falta de esfuerzo sino por falta de perspectiva sistemica: el emprendedor esta tan dentro del negocio (haciendo el trabajo) que no puede ver el negocio como sistema que necesita ser diseñado, no solo ejecutado.
 
-**Ejercicio inmediato:** Para tu negocio o proyecto, dibuja un diagrama de sistemas: cuales son los tres o cuatro componentes principales (producto, clientes, equipo, finanzas, marketing), y cuales son las interdependencias entre ellos? Cuando mejorar un componente sin entender su impacto en los demás, que consecuencias inesperadas pueden ocurrir? El diagrama no tiene que ser perfecto: el valor esta en el proceso de pensar sistemáticamente.
+**Ejercicio inmediato:** Para tu negocio o proyecto, dibuja un diagrama de sistemas: ¿cuales son los tres o cuatro componentes principales (producto, clientes, equipo, finanzas, marketing), y cuales son las interdependencias entre ellos? ¿Cuando mejorar un componente sin entender su impacto en los demás, que consecuencias inesperadas pueden ocurrir? El diagrama no tiene que ser perfecto: el valor esta en el proceso de pensar sistemáticamente.
 
 El emprendedor que trabaja en el negocio sin trabajar en el negocio construye una prisión que llama empresa.
 
@@ -105,7 +105,7 @@ El emprendedor que trabaja en el negocio sin trabajar en el negocio construye un
 
 ## Capítulo 7: La mentalidad de abundancia: recursos, colaboración, y crecimiento
 
-Carlos ha aprendido que la mentalidad de escasez (mis competidores son mis enemigos, los recursos son limitados, hay que proteger todo) le ha costado oportunidades que la mentalidad de abundancia habria capturado.
+Carlos ha aprendido que la mentalidad de escasez (mis competidores son mis enemigos, los recursos son limitados, hay que proteger todo) le ha costado oportunidades que la mentalidad de abundancia habría capturado.
 
 **El Principio de la Mentalidad de Abundancia como Disposición que Abre Más Oportunidades que la Mentalidad de Escasez en el Emprendimiento:** Stephen Covey propuso la distinción entre mentalidad de abundancia (la creencia de que hay suficiente para todos y que el éxito de otros no disminuye el propio) y mentalidad de escasez (la creencia de que los recursos son limitados y que el éxito de otros viene a expensas del propio). La mentalidad de abundancia produce comportamientos (colaboración, generosidad, apertura) que generan más oportunidades que los comportamientos de la mentalidad de escasez (competencia defensiva, secretismo, desconfianza).
 
@@ -125,7 +125,7 @@ Lucia ha aprendido a distinguir entre la confianza que hace posible el emprendim
 
 La investigación de Tasha Eurich muestra que el narcisismo (una forma extrema del ego no gestionado) en los fundadores esta correlacionado positivamente con el crecimiento inicial de la empresa (la confianza y la visión del narcisista atrae talento e inversión) pero negativamente con el rendimiento a largo plazo (la incapacidad del narcisista de escuchar feedback y admitir errores destruye lo que había construido).
 
-**Ejercicio inmediato:** Reflexiona sobre las últimas tres decisiones importantes de tu negocio. Para cada una, reflexiona: tomaste esa decisión buscando activamente información contraria a tu posición inicial (y considerandola seriamente)? O tomaste la decisión que tu intuición ya tenía y buscaste confirmación? La honestidad en la respuesta a esa pregunta revela el nivel de ego que esta mediando tus decisiones.
+**Ejercicio inmediato:** Reflexiona sobre las últimas tres decisiones importantes de tu negocio. Para cada una, reflexiona: ¿tomaste esa decisión buscando activamente información contraria a tu posición inicial (y considerandola seriamente)? ¿O tomaste la decisión que tu intuición ya tenía y buscaste confirmación? La honestidad en la respuesta a esa pregunta revela el nivel de ego que esta mediando tus decisiones.
 
 El ego que no se gestiona no es tu aliado. Es el que te hace cometer los errores que no ves venir.
 
@@ -133,11 +133,11 @@ El ego que no se gestiona no es tu aliado. Es el que te hace cometer los errores
 
 ## Capítulo 9: La curiosidad como motor: el emprendedor que nunca deja de aprender
 
-Marcos ha aprendido que la curiosidad que tenía de nino sobre como funcionaban las cosas es el activo más valioso que tiene como emprendedor.
+Marcos ha aprendido que la curiosidad que tenía de niño sobre como funcionaban las cosas es el activo más valioso que tiene como emprendedor.
 
 **El Principio de la Curiosidad como Ventaja Competitiva Sostenible del Emprendedor en Mercados que Cambian Más rápido de lo que Cualquier Conocimiento Previo puede Anticipar:** La investigación de Todd Kashdan sobre la curiosidad muestra que las personas con alta curiosidad aprenden más rápido en entornos nuevos, generan mayor satisfacción en el trabajo, tienen mejores relaciones, y muestran mayor resiliencia ante la adversidad. La curiosidad no es solo una disposición agradable: es una ventaja funcional en cualquier dominio que requiere adaptación continua.
 
-Charlie Munger, socio de Warren Buffett, propone el modeló mental del lattice work (estructura de celosia) de conocimientos: el conocimiento sobre muchas áreas diferentes (psicología, biología, historia, matemáticas, física) permite conectar patrones que el especialista en un solo área no puede ver. Los emprendedores con mayor amplitud de curiosidad tienen mayor acceso a esas conexiones entre dominios.
+Charlie Munger, socio de Warren Buffett, propone el modelo mental del lattice work (estructura de celosia) de conocimientos: el conocimiento sobre muchas áreas diferentes (psicología, biología, historia, matemáticas, física) permite conectar patrones que el especialista en un solo área no puede ver. Los emprendedores con mayor amplitud de curiosidad tienen mayor acceso a esas conexiones entre dominios.
 
 **Ejercicio inmediato:** Identifica un área completamente diferente a tu negocio actual que te genera curiosidad genuina (no que creas que debería generarte): historia medieval, biología marina, ajedrez, musica clasica, lo que sea. Dedica treinta minutos esta semana a explorar esa área sin agenda instrumentalizada. Las conexiones entre áreas distantes frecuentemente producen las innovaciones más originales.
 

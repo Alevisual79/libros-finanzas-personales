@@ -25,7 +25,7 @@ La introversión, en su definición psicológica precisa, tiene más que ver con
 
 **El Principio de la Regulación Energetica:** La distinción fundamental entre introversión y extroversión, segun la investigación en psicología de la personalidad, no es la capacidad o el deseo de relacionarse socialmente, sino cómo se gestiona la energía en relación con la estimulación: los introvertidos tienden a gastar energía en la interacción social y a recargarla en soledad, mientras los extrovertidos tienden a ganar energía de la interacción social y a perderla en soledad prolongada. Esto no determina cuanto disfrutan o valoran las relaciones, sino como necesitan gestionar su energía alrededor de ellas.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propio patron de energía: después de una interacción social significativa, te sientes energizado o necesitas tiempo solo para recuperarte? Esa respuesta, más que tu nivel de sociabilidad aparente, es el indicador real de tu temperamento.
+**Ejercicio inmediato:** Reflexiona sobre tu propio patron de energía: ¿después de una interacción social significativa, te sientes energizado o necesitas tiempo solo para recuperarte? Esa respuesta, más que tu nivel de sociabilidad aparente, es el indicador real de tu temperamento.
 
 Ser introvertido no significa que no disfrutas de la gente. Significa que gestionas tu energía de forma diferente alrededor de ella.
 
@@ -97,7 +97,7 @@ Disfrutar plenamente de las relaciones sociales como persona introvertida requie
 
 **El Principio de la Autenticidad sobre la Adaptación Forzada:** Las personas introvertidas que reportan mayor satisfacción en sus relaciones sociales son las que han dejado de intentar comportarse como extrovertidas para encajar, y en su lugar han diseñado su vida social de acuerdo con su temperamento real: menos eventos pero más significativos, relaciones más profundas en lugar de redes más amplias, y tiempo de recuperación sin culpa.
 
-**Ejercicio inmediato:** Identifica una forma en la que has estado forzandote a comportarte de manera extrovertida cuando no se ajusta a tu temperamento real. Que cambiarias si dejaras de intentar encajar en ese molde y disenaras tu vida social segun lo que realmente te funciona?
+**Ejercicio inmediato:** Identifica una forma en la que has estado forzandote a comportarte de manera extrovertida cuando no se ajusta a tu temperamento real. ¿Que cambiarias si dejaras de intentar encajar en ese molde y disenaras tu vida social segun lo que realmente te funciona?
 
 Disfrutar de las relaciones como introvertido no requiere convertirte en extrovertido. Requiere dejar de intentarlo.
 
@@ -109,7 +109,7 @@ La creencia de que el liderazgo efectivo requiere temperamento extrovertido es a
 
 **El Principio del Liderazgo Adaptado al Contexto:** La investigación de Adam Grant muestra que los líderes introvertidos tienden a ser particularmente efectivos liderando equipos proactivos, porque su tendencia a escuchar más y hablar menos crea espacio para que las ideas de los miembros del equipo se desarrollen, en contraste con líderes extrovertidos que pueden, sin intención, dominar la conversación y limitar la contribución de otros en ciertos contextos.
 
-**Ejercicio inmediato:** Si lideras un equipo o grupo y eres introvertido, identifica las fortalezas específicas de tu estilo de liderazgo (escucha, espacio para otros, reflexión antes de decidir) en lugar de medirte contra un modeló de liderazgo carismatico y extrovertido que no es el unico modeló efectivo.
+**Ejercicio inmediato:** Si lideras un equipo o grupo y eres introvertido, identifica las fortalezas específicas de tu estilo de liderazgo (escucha, espacio para otros, reflexión antes de decidir) en lugar de medirte contra un modelo de liderazgo carismatico y extrovertido que no es el unico modeló efectivo.
 
 El liderazgo introvertido no es liderazgo de segunda categoría. Es un estilo diferente, con sus propias fortalezas documentadas.
 
@@ -131,7 +131,7 @@ No necesitas muchos amigos. Necesitas los amigos correctos, conocidos con la pro
 
 La capacidad introvertida de procesar profundamente, escuchar con atención y conectar sin necesidad de constante estimulación social es, en muchos contextos, un don relacional que merece ser reconocido y cultivado, no compensado o disculpado.
 
-**El Principio del Valor de la Profundidad:** Las personas introvertidas frecuentemente aportan a sus relaciones cualidades específicamente valiosas: capacidad de escucha sostenida sin necesidad de llenar el silencio, reflexión cuidadosa antes de responder, y presencia atenta en lugar de estimulación constante. Reconocer estas cualidades cómo una contribución valiosa, en lugar de cómo una deficiencia comparada con el modeló extrovertido, cambia fundamentalmente la relación de la persona introvertida con su propio temperamento.
+**El Principio del Valor de la Profundidad:** Las personas introvertidas frecuentemente aportan a sus relaciones cualidades específicamente valiosas: capacidad de escucha sostenida sin necesidad de llenar el silencio, reflexión cuidadosa antes de responder, y presencia atenta en lugar de estimulación constante. Reconocer estas cualidades cómo una contribución valiosa, en lugar de cómo una deficiencia comparada con el modelo extrovertido, cambia fundamentalmente la relación de la persona introvertida con su propio temperamento.
 
 **Ejercicio inmediato:** Identifica una cualidad específica de tu temperamento introvertido que ha sido valiosa en tus relaciones (tu capacidad de escucha, tu reflexión cuidadosa, tu presencia tranquila). Reconoce explicitamente esa cualidad cómo una fortaleza, no como algo que compensar.
 

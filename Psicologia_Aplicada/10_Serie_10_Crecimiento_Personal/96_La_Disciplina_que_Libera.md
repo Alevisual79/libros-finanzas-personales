@@ -37,11 +37,11 @@ La persona disciplinada no tiene más fuerza de voluntad que tu. Toma menos deci
 
 Elena ha intentado usar la fuerza de voluntad para ser más disciplinada y ha fracasado sistemáticamente. La investigación explica por qué esa estrategia raramente funciona.
 
-**El Principio de la Disciplina como Superadora de la Fuerza de Voluntad porque no Depende de Ella:** La investigación de Baumeister sobre el ego depletion (agotamiento del ego) propuso que la fuerza de voluntad es un recurso limitado que se agota con el uso. Aunque investigaciones posteriores han matizado este modeló (las creencias sobre el agotamiento del ego tienen efectos sobre el agotamiento real), el consenso es claro: depender de la fuerza de voluntad como estrategia principal de autoregulación es una estrategia poco fiable a largo plazo.
+**El Principio de la Disciplina como Superadora de la Fuerza de Voluntad porque no Depende de Ella:** La investigación de Baumeister sobre el ego depletion (agotamiento del ego) propuso que la fuerza de voluntad es un recurso limitado que se agota con el uso. Aunque investigaciones posteriores han matizado este modelo (las creencias sobre el agotamiento del ego tienen efectos sobre el agotamiento real), el consenso es claro: depender de la fuerza de voluntad como estrategia principal de autoregulación es una estrategia poco fiable a largo plazo.
 
 La investigación de Wendy Wood sobre los habitos muestra que las personas con mayor autocontrol no son las que tienen mayor fuerza de voluntad sino las que tienen mejores habitos: su comportamiento esta más automatizado, lo que significa que necesitan menos fuerza de voluntad para mantenerlo. La autodisciplina excelente reduce la necesidad de fuerza de voluntad en lugar de requerirla más.
 
-**Ejercicio inmediato:** Para el comportamiento que has intentado mantener con fuerza de voluntad sin éxito, reflexiona: que cambio de entorno o rutina podría hacer ese comportamiento más automático y menos dependiente de la decisión consciente? El objetivo no es resistir la tentación con más fuerza sino diseñar el entorno para que la tentación aparezca menos.
+**Ejercicio inmediato:** Para el comportamiento que has intentado mantener con fuerza de voluntad sin éxito, reflexiona: ¿que cambio de entorno o rutina podría hacer ese comportamiento más automático y menos dependiente de la decisión consciente? El objetivo no es resistir la tentación con más fuerza sino diseñar el entorno para que la tentación aparezca menos.
 
 La batalla que ganas rediseñando el campo es más facil que la que ganas resistiendo en el mismo campo.
 
@@ -55,7 +55,7 @@ Isabel ha llegado a entender que los habitos son el mecanismo por el que la disc
 
 La investigación de David Neal y Wendy Wood muestra que el contexto es más poderoso que la intención en la determinación de los habitos: las personas que se mudaron a un nuevo apartamento o ciudad cambiaban sus habitos más facilmente que las que permanecian en el mismo contexto, porque el nuevo contexto no tenía las señales que desencadenaban los habitos anteriores.
 
-**Ejercicio inmediato:** Para el habito que quieres construir, diseña el sistema en los cuatro puntos del bucle: cual es la señal que lo desencadenara (un momento del dia, un lugar específico, un evento previo)? Cual es la rutina específica (no vaga sino concreta al nivel de dónde y cuando exactamente)? Cual es la recompensa inmediata que lo seguirá (algo genuinamente agradable)? El diseño del sistema es el trabajo que la mayoría de las personas no hace, y por eso los habitos no duran.
+**Ejercicio inmediato:** Para el habito que quieres construir, diseña el sistema en los cuatro puntos del bucle: ¿cual es la señal que lo desencadenara (un momento del dia, un lugar específico, un evento previo)? ¿Cual es la rutina específica (no vaga sino concreta al nivel de dónde y cuando exactamente)? Cual es la recompensa inmediata que lo seguirá (algo genuinamente agradable)? El diseño del sistema es el trabajo que la mayoría de las personas no hace, y por eso los habitos no duran.
 
 El habito que falla no es un problema de carácter. Es un problema de diseño del sistema.
 
@@ -125,7 +125,7 @@ Ruben ha aprendido que la mejor disciplina incluye el placer, no lo excluye.
 
 La investigación de Gabriele Oettingen sobre la psicología de los objetivos muestra que la visualización positiva pura (imaginar el resultado deseado sin obstaculos) reduce la motivación para el trabajo necesario, mientras que la visualización que incluye los obstaculos y los planes para superarlos (WOOP: Wish, Outcome, Obstacle, Plan) produce mayor acción.
 
-**Ejercicio inmediato:** Para la práctica disciplinada que más te cuesta mantener, diseña el placer que la acompanara: que experiencia genuinamente placentera puedes vincular a esa actividad que solo este disponible durante ella? El placer que vinculaselas convierte de sacrificio a actividad anticipada con algo bueno incorporado.
+**Ejercicio inmediato:** Para la práctica disciplinada que más te cuesta mantener, diseña el placer que la acompanara: ¿que experiencia genuinamente placentera puedes vincular a esa actividad que solo este disponible durante ella? El placer que vinculaselas convierte de sacrificio a actividad anticipada con algo bueno incorporado.
 
 La disciplina que incluye placer no requiere que seas mejor persona. Solo que seas más listo sobre cómo la diseñas.
 
@@ -153,7 +153,7 @@ Elena ha llegado a entender que la disciplina en su forma más profunda no es in
 
 James Clear propone que la disciplina más profunda es la que cambia la identidad: no hago ejercicio para perder peso (objetivo externo) sino porque soy una persona que cuida su cuerpo (identidad). Cada acto de disciplina es un voto a favor de la persona que quiero ser.
 
-**Ejercicio inmediato:** Para los próximos treinta dias, al final de cada dia, reflexiona sobre una sola pregunta: hoy he sido la persona que quiero ser? No perfectamente (eso es imposible) sino en lo que más importa. Si la respuesta es si, ese dia ha sido un dia bien vivido independientemente de los resultados. Si la respuesta es no, reflexiona sobre que podría hacer diferente mañana. Esa práctica de reflexión diaria es el corazón de la disciplina como práctica de carácter.
+**Ejercicio inmediato:** Para los próximos treinta dias, al final de cada dia, reflexiona sobre una sola pregunta: ¿hoy he sido la persona que quiero ser? No perfectamente (eso es imposible) sino en lo que más importa. Si la respuesta es si, ese dia ha sido un dia bien vivido independientemente de los resultados. Si la respuesta es no, reflexiona sobre que podría hacer diferente mañana. Esa práctica de reflexión diaria es el corazón de la disciplina como práctica de carácter.
 
 La persona que eres es el resultado acumulado de lo que has hecho cada dia. La buena noticia es que mañana puedes votar de nuevo.
 

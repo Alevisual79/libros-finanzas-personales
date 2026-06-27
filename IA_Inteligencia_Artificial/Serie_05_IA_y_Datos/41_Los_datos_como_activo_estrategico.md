@@ -25,7 +25,7 @@ Este libro explora Los datos como activo estratégico desde la perspectiva prác
 
 Por qué los datos son el recurso clave de la economía de la IA es uno de los dominios donde la IA ofrece mayor valor inmediato para los profesionales del conocimiento.
 
-La combinación de herramientas accesibles y capacidades crecientes ha democratizado el trabajo con datos de una forma que habria parecido imposible hace cinco años.
+La combinación de herramientas accesibles y capacidades crecientes ha democratizado el trabajo con datos de una forma que habría parecido imposible hace cinco años.
 
 ---
 

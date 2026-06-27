@@ -111,7 +111,7 @@ Ruben hace ejercicio, pero desde una motivación fundamentalmente punitiva: quem
 
 Esta distinción de motivación es crucial para el bienestar: dos personas que hacen exactamente el mismo ejercicio pueden tener efectos completamente diferentes en su imagen corporal segun la historia que se cuentan sobre por qué lo hacen.
 
-**Ejercicio inmediato:** Cuando hagas ejercicio esta semana, nota la motivación que acompaña el esfuerzo: estas castigando el cuerpo por lo que comiste, intentando compensar el cuerpo que tienes, o estas celebrando lo que el cuerpo puede hacer? La segunda motivación puede ser suficientemente reconfortante para que el ejercicio sea sostenible a largo plazo. La primera frecuentemente no lo es.
+**Ejercicio inmediato:** Cuando hagas ejercicio esta semana, nota la motivación que acompaña el esfuerzo: ¿estas castigando el cuerpo por lo que comiste, intentando compensar el cuerpo que tienes, o estas celebrando lo que el cuerpo puede hacer? La segunda motivación puede ser suficientemente reconfortante para que el ejercicio sea sostenible a largo plazo. La primera frecuentemente no lo es.
 
 El ejercicio que haces desde el odio a tu cuerpo no te hará quererlo más. El ejercicio que haces desde el cuidado, si puede.
 
@@ -121,7 +121,7 @@ El ejercicio que haces desde el odio a tu cuerpo no te hará quererlo más. El e
 
 Elena tiene una relación con la comida que esta contaminada por la imagen corporal: categoriza los alimentos en buenos y malos, siente culpa cuando come los malos, y alterna entre restricción y descontrol. Este ciclo, que es muy común, tiene más que ver con la imagen corporal que con la nutrición real.
 
-**El Principio de la Alimentación Intuitiva como Alternativa a la Dieta Cronica:** Evelyn Tribole y Elyse Resch, dietistas que desarrollaron el modeló de alimentación intuitiva, proponen diez principios para restaurar la relación natural con la comida: rechazar la mentalidad de dieta, honrar el hambre, hacer las paces con la comida (eliminar las categorías morales de buenos y malos), desafiar al policía de la comida (la voz que crítica las elecciones alimentarias), y respetar la saciedad entre otros. La investigación sobre alimentación intuitiva muestra que sus practicantes tienen mejor imagen corporal, menor insatisfacción corporal, menor ansiedad relacionada con la comida, y paradojicamente, mejores indicadores de salud metabolica que las personas en ciclos de dieta cronica.
+**El Principio de la Alimentación Intuitiva como Alternativa a la Dieta Cronica:** Evelyn Tribole y Elyse Resch, dietistas que desarrollaron el modelo de alimentación intuitiva, proponen diez principios para restaurar la relación natural con la comida: rechazar la mentalidad de dieta, honrar el hambre, hacer las paces con la comida (eliminar las categorías morales de buenos y malos), desafiar al policía de la comida (la voz que crítica las elecciones alimentarias), y respetar la saciedad entre otros. La investigación sobre alimentación intuitiva muestra que sus practicantes tienen mejor imagen corporal, menor insatisfacción corporal, menor ansiedad relacionada con la comida, y paradojicamente, mejores indicadores de salud metabolica que las personas en ciclos de dieta cronica.
 
 La guerra con la comida frecuentemente es una extensión de la guerra con el cuerpo. Hacer la paz con la comida puede ser parte del proceso de hacer la paz con el cuerpo.
 

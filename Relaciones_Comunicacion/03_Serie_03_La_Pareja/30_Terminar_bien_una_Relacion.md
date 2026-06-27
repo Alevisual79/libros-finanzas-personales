@@ -27,7 +27,7 @@ Muchas personas permanecen en relaciones que saben, en algun nivel, que han term
 
 **El Principio del Coste Hundido Emocional:** El sesgo del coste hundido, ampliamente estudiado en economía del comportamiento, opera también en las relaciones: cuanto más tiempo y energía se ha invertido en una relación, más difícil resulta terminarla, incluso cuando la evidencia indica que continuar no producira ningún resultado mejor. Este sesgo lleva a muchas personas a permanecer en relaciones terminadas durante años, racionalizando la permanencia con la inversión ya realizada en lugar de evaluar el futuro de forma independiente del pasado.
 
-**Ejercicio inmediato:** Si estas considerando terminar una relación, intenta evaluar la decisión sin contar el tiempo ya invertido, solo considerando: si empezara hoy esta relación sabiendo lo que se ahora, la elegiria? La respuesta a esa pregunta, libre del sesgo del coste hundido, suele ser más clara que la pregunta de si vale la pena seguir.
+**Ejercicio inmediato:** Si estas considerando terminar una relación, intenta evaluar la decisión sin contar el tiempo ya invertido, solo considerando: ¿si empezara hoy esta relación sabiendo lo que se ahora, la elegiria? La respuesta a esa pregunta, libre del sesgo del coste hundido, suele ser más clara que la pregunta de si vale la pena seguir.
 
 El tiempo que ya invertiste en una relación no es una razón para seguir invirtiendo más si ya no produce lo que necesitas.
 

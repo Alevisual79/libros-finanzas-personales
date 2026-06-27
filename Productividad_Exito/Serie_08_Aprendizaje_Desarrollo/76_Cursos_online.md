@@ -141,7 +141,7 @@ La orientación al certificado produce una forma de hacer el curso que maximiza 
 El certificado es útil si quien lo ve le da valor. En algunos contextos (ciertos employers, ciertos clientes) esto es verdad. En muchos otros, el portfolio de trabajo (los proyectos reales) tiene mucho más valor que el certificado.
 
 **La pregunta:**
-¿Qué necesito realmente: demostrar que hice el curso o demostrar que sé hacerlo? Si la respuesta es la segunda, el enfoque debería estar en la habilidad y el proyecto, no en el certificado.
+¿Qué necesito realmente: ¿demostrar que hice el curso o demostrar que sé hacerlo? Si la respuesta es la segunda, el enfoque debería estar en la habilidad y el proyecto, no en el certificado.
 
 ---
 

@@ -135,7 +135,7 @@ El trabajo de perdon, una vez avanzado significativamente, transforma no solo la
 
 **El Principio de la Liberación Posterior al Perdon:** Las personas que han logrado avanzar significativamente en un proceso de perdon familiar reportan no solo menos resentimiento hacía la persona específica, sino también mayor capacidad general de confiar, conectar y disfrutar de otras relaciones, como si la energía que antes se dedicaba a cargar con el resentimiento quedara disponible para otros propositos vitales.
 
-**Ejercicio inmediato:** Si has avanzado en un proceso de perdon familiar, reflexiona sobre que espacio emocional se ha liberado en tu vida que antes estaba ocupado por el resentimiento. Que podrías hacer con esa energía liberada?
+**Ejercicio inmediato:** Si has avanzado en un proceso de perdon familiar, reflexiona sobre que espacio emocional se ha liberado en tu vida que antes estaba ocupado por el resentimiento. ¿Que podrías hacer con esa energía liberada?
 
 El perdon no solo cambia tu relación con quien te dañó. Cambia tu relación con tu propia capacidad de vivir en paz.
 

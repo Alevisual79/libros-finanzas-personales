@@ -36,7 +36,7 @@ El trabajo es, simultáneamente, una fuente de salud y una fuente de enfermedad.
 - **La justicia organizacional:** Si se percibe que la organización es justa.
 - **Los valores:** Si el trabajo es coherente con los propios valores.
 
-**El modeló demanda-control (Karasek):**
+**El modelo demanda-control (Karasek):**
 El trabajo de alto riesgo para la salud es el que combina alta demanda + bajo control. Un cirujano tiene alta demanda y alto control: riesgo moderado. Un operario de cadena de montaje tiene alta demanda y bajo control: alto riesgo.
 
 ---

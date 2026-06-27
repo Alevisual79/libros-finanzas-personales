@@ -27,7 +27,7 @@ La mayoría de los negocios que no consiguen resultados en redes sociales no tie
 
 La investigación de Sprout Social sobre el comportamiento de los negocios en redes sociales muestra que las empresas que tienen mayor retorno de las redes sociales son las que estan en una o dos plataformas específicas donde esta su audiencia y publican con consistencia y calidad, no las que estan en todas las plataformas con presencia mediocre.
 
-**Ejercicio inmediato:** Para tu negocio, responde con honestidad: en que red social tiene tu cliente ideal una presencia activa (no solo una cuenta, sino donde realmente pasa tiempo y consume contenido)? Si no sabes la respuesta, pregunta a tus cinco mejores clientes que red social usan más para información profesional o para el tema relacionado con tu negocio. La respuesta a esa pregunta es la plataforma donde debes estar. Las demás pueden esperar.
+**Ejercicio inmediato:** Para tu negocio, responde con honestidad: ¿en que red social tiene tu cliente ideal una presencia activa (no solo una cuenta, sino donde realmente pasa tiempo y consume contenido)? Si no sabes la respuesta, pregunta a tus cinco mejores clientes que red social usan más para información profesional o para el tema relacionado con tu negocio. La respuesta a esa pregunta es la plataforma donde debes estar. Las demás pueden esperar.
 
 Estar en todas las redes sociales sin recursos es peor que estar en una sola bien.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a construir una estrategia de LinkedIn que le genera entre el 
 
 La investigación de Content Marketing Institute muestra que los negocios que integran redes sociales, newsletter, y SEO en una estrategia coherente tienen entre tres y cinco veces más conversión que los que usan cada canal de forma independiente y desconectada.
 
-**Ejercicio inmediato:** Diseña como conectas tu actividad en redes sociales con el resto de tu sistema de marketing: cada post incluye una llamada a la acción para suscribirse a tu newsletter o descargar un recurso? Los suscriptores de la newsletter reciben contenido exclusivo que no esta en las redes? Los leads de la newsletter tienen un proceso de seguimiento específico que los lleva a una conversación de ventas? La respuesta a esas tres preguntas diseña el embudo completo desde el seguidor de redes hasta el cliente.
+**Ejercicio inmediato:** Diseña como conectas tu actividad en redes sociales con el resto de tu sistema de marketing: ¿cada post incluye una llamada a la acción para suscribirse a tu newsletter o descargar un recurso? ¿Los suscriptores de la newsletter reciben contenido exclusivo que no esta en las redes? Los leads de la newsletter tienen un proceso de seguimiento específico que los lleva a una conversación de ventas? La respuesta a esas tres preguntas diseña el embudo completo desde el seguidor de redes hasta el cliente.
 
 Las redes sociales que no estan conectadas con el resto del sistema de marketing son el primer paso de un camino que termina en ningún lugar.
 

@@ -99,7 +99,7 @@ Los rituales de paso (graduaciones, primeras comuniones, mayoría de edad, jubil
 
 **El Principio del Reconocimiento Ritualizado:** Los rituales de paso ofrecen a la persona que atraviesa una transición importante un reconocimiento explícito y público de ese cambio, lo que facilita la integración psicológica de la nueva identidad o etapa de vida. Las familias que marcan deliberadamente estos momentos, incluso con rituales pequeños y propios, ayudan a sus miembros a procesar mejor las transiciones de vida que de otra forma podrían pasar sin reconocimiento explícito.
 
-**Ejercicio inmediato:** Identifica una transición importante, propia o de un miembro de tu familia, que se acerca o que ya ocurrio sin un reconocimiento ritual claro. Que pequeño ritual podría crear ese reconocimiento que falta?
+**Ejercicio inmediato:** Identifica una transición importante, propia o de un miembro de tu familia, que se acerca o que ya ocurrio sin un reconocimiento ritual claro. ¿Que pequeño ritual podría crear ese reconocimiento que falta?
 
 Los momentos importantes de la vida merecen ser marcados, no solo vividos de paso.
 
@@ -109,7 +109,7 @@ Los momentos importantes de la vida merecen ser marcados, no solo vividos de pas
 
 Contar y recontar la historia familiar (cómo se conocieron los padres, anecdotas de generaciones anteriores, momentos difíciles superados) es una forma de ritual narrativo que construye identidad y resiliencia en los hijos.
 
-**El Principio de la Narrativa Intergeneracional:** Marshall Duke, investigador de la narrativa familiar, encontró que los niños que conocen más detalles sobre la historia de su familia (incluyendo dificultades superadas, no solo éxitos) muestran mayor resiliencia emocional y sentido de identidad que los niños con menor conocimiento de su historia familiar. Conocer que la familia ha enfrentado y superado dificultades antes ofrece a los niños un modeló de que las dificultades se pueden superar.
+**El Principio de la Narrativa Intergeneracional:** Marshall Duke, investigador de la narrativa familiar, encontró que los niños que conocen más detalles sobre la historia de su familia (incluyendo dificultades superadas, no solo éxitos) muestran mayor resiliencia emocional y sentido de identidad que los niños con menor conocimiento de su historia familiar. Conocer que la familia ha enfrentado y superado dificultades antes ofrece a los niños un modelo de que las dificultades se pueden superar.
 
 **Ejercicio inmediato:** Comparte con tus hijos, o con quien forme tu familia actual, una historia específica de tu familia que incluya tanto un desafio como su superación. Esta narrativa, repetida ocasionalmente, se convierte en un recurso de resiliencia.
 

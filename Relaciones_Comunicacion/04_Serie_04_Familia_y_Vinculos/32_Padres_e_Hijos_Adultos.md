@@ -47,11 +47,11 @@ El padre que da demasiados consejos no siempre quiere controlar. A veces solo qu
 
 ## Capítulo 3: La autonomía del hijo adulto y el miedo del padre
 
-La autonomía creciente del hijo adulto, especialmente cuando implica decisiones que el padre no habria tomado, puede generar ansiedad parental que se manifiesta como crítica o intromisión.
+La autonomía creciente del hijo adulto, especialmente cuando implica decisiones que el padre no habría tomado, puede generar ansiedad parental que se manifiesta como crítica o intromisión.
 
 **El Principio del Miedo Disfrazado de Critica:** Gran parte de la crítica parental hacía las decisiones del hijo adulto (su carrera, su pareja, su forma de criar a sus propios hijos) tiene su origen en el miedo del padre a que el hijo sufra, no en un deseo genuino de controlar. Este miedo, sin embargo, se experimenta por el hijo como falta de confianza o respeto, generando un ciclo de defensividad mutua que dificulta la comunicación real.
 
-**Ejercicio inmediato:** La próxima vez que sientas crítica de tus padres sobre una decisión tuya, intenta preguntarles directamente: te preocupa algo específico sobre esta decisión? Nombrar el miedo subyacente puede cambiar la conversación de un conflicto sobre control a una conversación sobre preocupación real.
+**Ejercicio inmediato:** La próxima vez que sientas crítica de tus padres sobre una decisión tuya, intenta preguntarles directamente: ¿te preocupa algo específico sobre esta decisión? Nombrar el miedo subyacente puede cambiar la conversación de un conflicto sobre control a una conversación sobre preocupación real.
 
 Detras de mucha crítica parental hay miedo que nunca aprendió a expresarse de otra forma.
 
@@ -63,7 +63,7 @@ Cuando un hijo adulto vuelve a vivir con sus padres, ya sea por circunstancias e
 
 **El Principio de la Regresión de Roles bajo Convivencia:** La convivencia física activa automáticamente patrones de relación más antiguos, incluso entre adultos que han logrado una buena diferenciación cuando viven separados. Las familias que gestionan bien este período establecen explicitamente, desde el principio, los terminos de la convivencia (responsabilidades, autonomía, plazo) en lugar de dejar que los roles antiguos se reactiven por defecto.
 
-**Ejercicio inmediato:** Si estas en un período de convivencia con tus padres como adulto, o lo has estado, identifica que acuerdos explícitos existian (o faltaron) sobre autonomía y responsabilidades. La falta de esos acuerdos explícitos es la causa más común de conflicto en estas situaciones.
+**Ejercicio inmediato:** Si estas en un período de convivencia con tus padres como adulto, o lo has estado, identifica que acuerdos explícitos existían (o faltaron) sobre autonomía y responsabilidades. La falta de esos acuerdos explícitos es la causa más común de conflicto en estas situaciones.
 
 Volver a casa de adulto no tiene que significar volver a ser tratado como adolescente, si se negocia explicitamente desde el principio.
 
@@ -87,7 +87,7 @@ Muchas familias evitan ciertos temas durante décadas: el conflicto no resuelto,
 
 **El Principio de la Conversación Postergada:** Las conversaciones familiares más importantes suelen ser también las más postergadas, porque el coste percibido de abrirlas (el riesgo de conflicto, de dolor, de cambiar el equilibrio de la relación) parece mayor que el coste de seguir evitandolas. Sin embargo, la investigación sobre arrepentimientos al final de la vida muestra consistentemente que las personas se arrepienten más de las conversaciones que no tuvieron que de las que tuvieron, aunque hayan sido difíciles.
 
-**Ejercicio inmediato:** Identifica una conversación que llevas postergando con tus padres. Que es exactamente lo que temes que pase si la tienes? Evalua si ese temor es proporcional al coste real de seguir postergandola.
+**Ejercicio inmediato:** Identifica una conversación que llevas postergando con tus padres. ¿Que es exactamente lo que temes que pase si la tienes? Evalua si ese temor es proporcional al coste real de seguir postergandola.
 
 Las conversaciones que más evitamos con nuestros padres son casi siempre las que más necesitamos tener.
 
@@ -143,7 +143,7 @@ No todas las relaciones familiares dañinas requieren un corte total. Algunas re
 
 ## Epílogo
 
-Elena tuvo, finalmente, la conversación que llevaba años evitando con sus padres. Les dijo, con claridad y sin rabia, que necesitaba que confiaran en sus decisiones aunque fueran distintas a las que ellos habrian tomado. No fue una conversación facil. Pero fue el inició de una relación más adulta entre los tres, una que tardo meses en estabilizarse pero que, con el tiempo, resultó más honesta que la que tenían antes.
+Elena tuvo, finalmente, la conversación que llevaba años evitando con sus padres. Les dijo, con claridad y sin rabia, que necesitaba que confiaran en sus decisiones aunque fueran distintas a las que ellos habrían tomado. No fue una conversación facil. Pero fue el inició de una relación más adulta entre los tres, una que tardo meses en estabilizarse pero que, con el tiempo, resultó más honesta que la que tenían antes.
 
 La relación con tus padres puede cambiar. Pero alguien tiene que dar el primer paso.
 

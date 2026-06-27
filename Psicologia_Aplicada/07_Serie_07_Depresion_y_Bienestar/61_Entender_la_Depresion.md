@@ -65,7 +65,7 @@ Decirle a alguien con depresión que se anime con voluntad es como decirle a alg
 
 Elena se pregunta por qué ella y no otros. La investigación ofrece respuestas parciales pero útiles.
 
-**El Principio de la Depresión como Resultado de Factores Multiples en Interacción:** El modeló de dialesis-estres propone que la depresión emerge de la interacción entre vulnerabilidades preexistentes (geneticas, neurobiologicas, psicológicas) y factores precipitantes (eventos vitales estresantes, cronico estres, perdidas). Las personas con mayor vulnerabilidad pueden desarrollar depresión ante estresores menores; las personas con menor vulnerabilidad requieren estresores más intensos.
+**El Principio de la Depresión como Resultado de Factores Multiples en Interacción:** El modelo de dialesis-estres propone que la depresión emerge de la interacción entre vulnerabilidades preexistentes (geneticas, neurobiologicas, psicológicas) y factores precipitantes (eventos vitales estresantes, cronico estres, perdidas). Las personas con mayor vulnerabilidad pueden desarrollar depresión ante estresores menores; las personas con menor vulnerabilidad requieren estresores más intensos.
 
 La investigación genética de Kenneth Kendler y colegas en gemelos estima que la heredabilidad de la depresión es del 37-40%: hay una contribución genética significativa pero la experiencia ambiental tiene un peso mayor que en otros trastornos (cómo la esquizofrenia, donde la heredabilidad es más alta). Los eventos vitales adversos en la infancia, especialmente el abuso y el abandono, aumentan significativamente el riesgo de depresión en la adultez.
 
@@ -97,7 +97,7 @@ Isabel no lloraba. Solo había dejado de disfrutar. Ese es el sintoma central de
 
 La investigación de Stefan Klein sobre los circuitos de recompensa en la depresión muestra que la anhedonia no es simplemente no sentir placer: es una disfunción del sistema de anticipación de la recompensa. Las personas con anhedonia severa no solo no disfrutan de las actividades sino que tampoco anticipan el disfrute, lo que reduce la motivación para iniciar actividades que podrían en principio producir placer.
 
-**Ejercicio inmediato:** Piensa en las tres o cuatro actividades que más disfrutabas hace un año. Cuantas de ellas sigues disfrutando en la misma medida? Si la respuesta es ninguna o muy pocas, y eso lleva más de dos semanas, ese cambio en la capacidad de disfrute es información relevante sobre tu estado actual.
+**Ejercicio inmediato:** Piensa en las tres o cuatro actividades que más disfrutabas hace un año. ¿Cuantas de ellas sigues disfrutando en la misma medida? Si la respuesta es ninguna o muy pocas, y eso lleva más de dos semanas, ese cambio en la capacidad de disfrute es información relevante sobre tu estado actual.
 
 Cuando la vida pierde color no es que la vida haya cambiado. Es que el sistema que percibe el color no esta funcionando bien.
 
@@ -111,7 +111,7 @@ Elena nota que no puede pensar con claridad. No sabe si es estres o algo más.
 
 Ademas de los sesgos cognitivos, la depresión produce deterioro cognitivo medible: las personas con depresión muestran dificultades en la atención, la memoria de trabajo, la velocidad de procesamiento, y las funciones ejecutivas. Este deterioro cognitivo es una de las razones por las que el rendimiento laboral y académico disminuye en la depresión, y es reversible con el tratamiento.
 
-**Ejercicio inmediato:** Monitorea por una semana la frecuencia de pensamientos negativos sobre ti mismo (soy inutil, no sirvo para nada, nunca cambiara). No para analizarlos sino para cuantificarlos: cuantos de estos pensamientos tienes en un dia típico? La frecuencia alta de estos pensamientos en ausencia de evidencia real que los justifique es un marcador cognitivo de la depresión.
+**Ejercicio inmediato:** Monitorea por una semana la frecuencia de pensamientos negativos sobre ti mismo (soy inutil, no sirvo para nada, nunca cambiara). No para analizarlos sino para cuantificarlos: ¿cuantos de estos pensamientos tienes en un dia típico? La frecuencia alta de estos pensamientos en ausencia de evidencia real que los justifique es un marcador cognitivo de la depresión.
 
 La mente depresiva es una mente que miente sobre la realidad de forma sistemática. No es que no seas valioso: es que tu mente no puede verlo ahora mismo.
 

@@ -25,7 +25,7 @@ La traición, en su definición más precisa, va más allá de cualquier acción
 
 **El Principio de la Traición como Ruptura de Confianza Fundamental:** Lo que distingue a la traición de otras formas de daño relacional es que involucra específicamente la violación de una confianza que se asumia como segura: alguien en quien se confiaba actuo de una forma que rompe esa confianza basica, ya sea a traves de mentira sostenida, deslealtad, o acción directa contra el bienestar de quien confiaba en ellos.
 
-**Ejercicio inmediato:** Si has experimentado lo que sientes cómo una traición, identifica específicamente: que confianza basica se rompio? Esa identificación precisa ayuda a procesar la experiencia con más claridad.
+**Ejercicio inmediato:** Si has experimentado lo que sientes cómo una traición, identifica específicamente: ¿que confianza basica se rompio? Esa identificación precisa ayuda a procesar la experiencia con más claridad.
 
 Una traición no es solo un daño. Es la ruptura de una confianza que se asumia segura, lo que la hace particularmente difícil de procesar.
 

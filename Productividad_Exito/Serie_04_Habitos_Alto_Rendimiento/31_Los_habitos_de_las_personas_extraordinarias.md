@@ -61,7 +61,7 @@ No esperan a estar completamente seguros para actuar. Actúan con incertidumbre 
 
 ## Capítulo 3: El bucle del hábito — la mecánica
 
-Charles Duhigg popularizó el modeló del bucle del hábito en "El poder de los hábitos":
+Charles Duhigg popularizó el modelo del bucle del hábito en "El poder de los hábitos":
 
 **Señal → Rutina → Recompensa**
 

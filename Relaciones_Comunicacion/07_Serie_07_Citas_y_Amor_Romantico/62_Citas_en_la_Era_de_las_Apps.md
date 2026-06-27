@@ -25,7 +25,7 @@ Las aplicaciones de citas han transformado radicalmente la forma en que las pers
 
 **El Principio de la Transformación del Mercado Romantico:** La investigación sobre formación de parejas muestra que las aplicaciones de citas han desplazado significativamente a métodos tradicionales (conocer a alguien a traves de amigos, en el trabajo, en eventos sociales) cómo la via más común de inició de relaciones romanticas, especialmente entre generaciones más jóvenes. Este cambio estructural trae consigo dinámicas psicológicas nuevas que el cortejo tradicional no enfrentaba de la misma forma.
 
-**Ejercicio inmediato:** Reflexiona sobre como tu propia experiencia de citas ha cambiado en comparación con generaciones anteriores. Que dinámicas nuevas (volumen de opciones, comunicación mediada por texto antes del encuentro presencial) presentan desafios que tus padres o abuelos nunca enfrentaron?
+**Ejercicio inmediato:** Reflexiona sobre como tu propia experiencia de citas ha cambiado en comparación con generaciones anteriores. ¿Que dinámicas nuevas (volumen de opciones, comunicación mediada por texto antes del encuentro presencial) presentan desafios que tus padres o abuelos nunca enfrentaron?
 
 Las apps de citas no son simplemente una versión digital del cortejo tradicional. Son un fenómeno con su propia psicología que requiere entenderse específicamente.
 

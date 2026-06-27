@@ -25,7 +25,7 @@ Las plataformas de redes sociales no son neutras en su diseño; estan construida
 
 **El Principio del Diseño Persuasivo Intencional:** Las plataformas sociales emplean mecanismos de gratificación variable (similar a las maquinas tragamonedas), notificaciones diseñadas para generar ansiedad de revisión constante, y algoritmos optimizados para maximizar el engagement, frecuentemente priorizando contenido que genera reacción emocional intensa (incluyendo negativa) sobre contenido que genuinamente mejora el bienestar del usuario.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propio patron de uso de redes sociales: notas elementos de compulsión (revisar sin proposito claro, dificultad para dejar de usar la aplicación) que podrían reflejar el diseño persuasivo deliberado de la plataforma?
+**Ejercicio inmediato:** Reflexiona sobre tu propio patron de uso de redes sociales: ¿notas elementos de compulsión (revisar sin proposito claro, dificultad para dejar de usar la aplicación) que podrían reflejar el diseño persuasivo deliberado de la plataforma?
 
 Las redes sociales no estan diseñadas principalmente para tu bienestar. Estan diseñadas para maximizar tu tiempo de uso, lo cual no siempre es lo mismo.
 
@@ -73,7 +73,7 @@ El sistema de recompensa basado en likes y reacciones genera un ciclo neuroquimi
 
 **El Principio del Ciclo de Validación Dopaminergica:** Cada like o reacción positiva genera una pequeña liberación de dopamina que refuerza el comportamiento de publicar, generando un ciclo donde la busqueda de esta validación puede convertirse en una motivación central detras de las decisiones de que y como compartir, en lugar de que la publicación refleje una expresión autentica desconectada de esa busqueda de aprobación externa.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propia motivación al publicar contenido en redes sociales: lo haces principalmente desde un deseo de compartir autenticamente, o desde una busqueda activa de validación a traves de reacciones?
+**Ejercicio inmediato:** Reflexiona sobre tu propia motivación al publicar contenido en redes sociales: ¿lo haces principalmente desde un deseo de compartir autenticamente, o desde una busqueda activa de validación a traves de reacciones?
 
 El ciclo de dopamina de los likes puede convertir la expresión autentica en una busqueda calculada de validación externa, sin que la persona siempre note esta transformación en su propia motivación.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos explica lo que hace y los clientes asienten pero no compran. Lucia tiene clientes que la adoran pero no sabe como explicarles a los demás por qué deberían elegirla. Marcos sabe que su negocio es mejor que el de la competencia pero no puede articular por qué de una forma que convenza a alguien. Los tres tienen el mismo problema: no tienen una propuesta de valor clara. O la tienen pero no la han articulado de una forma que resuene en el cliente. La propuesta de valor no es el eslogan de tu empresa. Es la respuesta honesta a la pregunta más importante que el cliente te hace, aunque nunca en voz alta: por qué debería elegirte a ti en lugar de a cualquier alternativa, incluida la de no hacer nada?
+Carlos explica lo que hace y los clientes asienten pero no compran. Lucia tiene clientes que la adoran pero no sabe como explicarles a los demás por qué deberían elegirla. Marcos sabe que su negocio es mejor que el de la competencia pero no puede articular por qué de una forma que convenza a alguien. Los tres tienen el mismo problema: no tienen una propuesta de valor clara. O la tienen pero no la han articulado de una forma que resuene en el cliente. La propuesta de valor no es el eslogan de tu empresa. Es la respuesta honesta a la pregunta más importante que el cliente te hace, aunque nunca en voz alta: ¿por qué debería elegirte a ti en lugar de a cualquier alternativa, incluida la de no hacer nada?
 
 ---
 
@@ -23,11 +23,11 @@ Carlos explica lo que hace y los clientes asienten pero no compran. Lucia tiene 
 
 La propuesta de valor de la mayoría de los negocios no propone nada de valor.
 
-**El Principio de la Propuesta de Valor cómo la Declaración específica de que Problema Resuelves, Para Quien, Mejor que las Alternativas, y por qué el Cliente Deberia Creerte en Lugar de Como el Enunciado Generico de las Virtudes de Tu Empresa:** Alexander Osterwalder y Yves Pigneur en Value Proposition Design proponen que la propuesta de valor no es lo que el negocio cree que ofrece sino lo que el cliente percibe que recibe. Las propuestas de valor más frecuentes en las páginas web de negocios medianos son variantes de somos apasionados, ofrecemos calidad y servicio al cliente excepcional, o somos líderes en nuestro sector. Ninguna de esas frases es una propuesta de valor: son afirmaciones de merito que cualquier competidor podría hacer.
+**El Principio de la Propuesta de Valor cómo la Declaración específica de que Problema Resuelves, Para Quien, Mejor que las Alternativas, y por qué el Cliente Debería Creerte en Lugar de Como el Enunciado Generico de las Virtudes de Tu Empresa:** Alexander Osterwalder y Yves Pigneur en Value Proposition Design proponen que la propuesta de valor no es lo que el negocio cree que ofrece sino lo que el cliente percibe que recibe. Las propuestas de valor más frecuentes en las páginas web de negocios medianos son variantes de somos apasionados, ofrecemos calidad y servicio al cliente excepcional, o somos líderes en nuestro sector. Ninguna de esas frases es una propuesta de valor: son afirmaciones de merito que cualquier competidor podría hacer.
 
 Una propuesta de valor efectiva tiene cuatro componentes: el segmento de cliente específico para quien es (no todo el mundo), el trabajo o problema que el cliente quiere resolver (en las palabras del cliente, no en las de la empresa), la ganancia que el cliente recibe (el resultado positivo que busca), y el alivio de dolor (la frustración que elimina). Cuando los cuatro componentes son específicos y diferenciales, la propuesta de valor funciona.
 
-**Ejercicio inmediato:** Escribe la propuesta de valor actual de tu negocio como si la leyera un cliente potencial que no te conoce: es específica (nombra un tipo de cliente concreto y un problema concreto), es diferencial (explica por qué tu solución es mejor que las alternativas), y es creible (tiene algun elemento que haga que el cliente crea que puedes cumplir lo que prometes)? Si alguno de los tres criterios falla, ahí esta el trabajo de propuesta de valor pendiente.
+**Ejercicio inmediato:** Escribe la propuesta de valor actual de tu negocio como si la leyera un cliente potencial que no te conoce: ¿es específica (nombra un tipo de cliente concreto y un problema concreto), es diferencial (explica por qué tu solución es mejor que las alternativas), y es creible (tiene algun elemento que haga que el cliente crea que puedes cumplir lo que prometes)? Si alguno de los tres criterios falla, ahí esta el trabajo de propuesta de valor pendiente.
 
 La propuesta de valor que vale para cualquier negocio no vale para el tuyo.
 
@@ -41,7 +41,7 @@ Lucia ha aprendido que el error más común de la propuesta de valor es empezar 
 
 La investigación de Gerald Zaltman sobre la mente del consumidor muestra que el 95% de las decisiones de compra son impulsadas por el subconsciente y que la conexión emocional con el problema (el cliente siente que entiendes exactamente su situación) es el primer paso para generar la confianza necesaria para comprar.
 
-**Ejercicio inmediato:** Entrevista a tres clientes actuales con esta pregunta específica: antes de encontrarte con nosotros, como describirias el problema que tenías con X? Escucha la descripción exacta que usan, las palabras específicas, las emociones que expresan. Esas palabras son el material de tu propuesta de valor: el lenguaje que el cliente usa para describir su propio problema es el mismo que debería usar la propuesta de valor para describirlo. Es el lenguaje que más resuena en otros clientes con el mismo problema.
+**Ejercicio inmediato:** Entrevista a tres clientes actuales con esta pregunta específica: ¿antes de encontrarte con nosotros, como describirias el problema que tenías con X? Escucha la descripción exacta que usan, las palabras específicas, las emociones que expresan. Esas palabras son el material de tu propuesta de valor: el lenguaje que el cliente usa para describir su propio problema es el mismo que debería usar la propuesta de valor para describirlo. Es el lenguaje que más resuena en otros clientes con el mismo problema.
 
 La propuesta de valor escrita con las palabras del cliente resuena en el cliente. La escrita con las palabras del vendedor suena a publicidad.
 
@@ -69,7 +69,7 @@ Carlos ha aprendido que la propuesta de valor más poderosa no es la que el dice
 
 La investigación de BrightLocal sobre el comportamiento del consumidor muestra que el 91% de los consumidores lee opiniones online antes de tomar una decisión de compra, y que la credibilidad de las opiniones de clientes reales supera a la de cualquier declaración de la empresa sobre su propio producto.
 
-**Ejercicio inmediato:** Contacta a tus tres mejores clientes y pideles un testimonio específico con esta estructura: cual era la situación antes de trabajar conmigo, que ocurrio después de trabajar conmigo, y que resultado específico obtuviste? Los testimonios que siguen esa estructura (antes, proceso, después) son los más efectivos porque permiten al cliente potencial identificarse con la situación inicial y visualizar el resultado que podría obtener. Coloca esos testimonios en el lugar más visible de tu propuesta de valor (web, propuestas, presentaciones).
+**Ejercicio inmediato:** Contacta a tus tres mejores clientes y pideles un testimonio específico con esta estructura: ¿cual era la situación antes de trabajar conmigo, que ocurrio después de trabajar conmigo, y que resultado específico obtuviste? Los testimonios que siguen esa estructura (antes, proceso, después) son los más efectivos porque permiten al cliente potencial identificarse con la situación inicial y visualizar el resultado que podría obtener. Coloca esos testimonios en el lugar más visible de tu propuesta de valor (web, propuestas, presentaciones).
 
 La afirmación del vendedor produce escepticismo. El testimonio del cliente produce identificación.
 
@@ -97,7 +97,7 @@ Marcos ha aprendido que el precio no solo es lo que cobras. Es parte de lo que c
 
 La investigación de Hermann Simon sobre price management muestra que las empresas que alinean su precio con su posicionamiento (un precio premium para una propuesta de valor premium) tienen mayor margen y mayor lealtad de cliente que las que usan el precio como unica herramienta de diferenciación.
 
-**Ejercicio inmediato:** Para tu producto o servicio, reflexiona sobre si el precio actual es coherente con el posicionamiento que tienes o que quieres tener: si tu propuesta de valor es ser la opción de mayor calidad o más especializada del mercado, el precio es coherente con esa posición? Si tu precio es el más bajo del mercado y tu propuesta de valor no incluye ser la opción más económica, hay una incoherencia que puede dañar la percepción de valor. La coherencia entre propuesta de valor y precio es un activo que pocos emprendedores gestionan conscientemente.
+**Ejercicio inmediato:** Para tu producto o servicio, reflexiona sobre si el precio actual es coherente con el posicionamiento que tienes o que quieres tener: ¿si tu propuesta de valor es ser la opción de mayor calidad o más especializada del mercado, el precio es coherente con esa posición? Si tu precio es el más bajo del mercado y tu propuesta de valor no incluye ser la opción más económica, hay una incoherencia que puede dañar la percepción de valor. La coherencia entre propuesta de valor y precio es un activo que pocos emprendedores gestionan conscientemente.
 
 El precio que no encaja con la propuesta de valor genera confusión. La confusión no vende.
 
@@ -137,9 +137,9 @@ Marcos ha implementado un sistema para medir si su propuesta de valor realmente 
 
 **El Principio de la Medición de la Propuesta de Valor como el Proceso de Verificar si el Mensaje Llega y Resuena en el Cliente Objetivo mediante Metricas específicas que Indiquen si la Propuesta Esta Funcionando:** La propuesta de valor que no se mide no puede mejorarse. Las metricas más directas de la efectividad de la propuesta de valor en un contexto digital son: la tasa de conversión de visitantes de la web a leads (indica si el mensaje inicial convence), la tasa de conversión de leads a clientes (indica si el valor prometido es coherente con el valor entregado), y el Net Promoter Score (indica si los clientes que compraron sienten que recibieron el valor prometido).
 
-La investigación de Sean Ellis sobre el product-market fit usa una sola pregunta como proxy de la propuesta de valor efectiva: como te sentirias si ya no pudieras usar este producto o servicio? Si más del 40% de los clientes responden muy decepcionado, la propuesta de valor es suficientemente fuerte para el crecimiento organico.
+La investigación de Sean Ellis sobre el product-market fit usa una sola pregunta como proxy de la propuesta de valor efectiva: ¿como te sentirias si ya no pudieras usar este producto o servicio? Si más del 40% de los clientes responden muy decepcionado, la propuesta de valor es suficientemente fuerte para el crecimiento organico.
 
-**Ejercicio inmediato:** Esta semana, envía la pregunta de Ellis a tus últimos diez clientes activos: como te sentiriassi ya no pudieras trabajar con nosotros? con las opciones muy decepcionado, algo decepcionado, no me importaria, y ya no uso el servicio. Si menos del 40% responde muy decepcionado, la propuesta de valor (o la entrega del servicio) necesita trabajo. Si más del 40% responde muy decepcionado, tienes la base para escalar.
+**Ejercicio inmediato:** Esta semana, envía la pregunta de Ellis a tus últimos diez clientes activos: ¿como te sentiriassi ya no pudieras trabajar con nosotros? con las opciones muy decepcionado, algo decepcionado, no me importaria, y ya no uso el servicio. Si menos del 40% responde muy decepcionado, la propuesta de valor (o la entrega del servicio) necesita trabajo. Si más del 40% responde muy decepcionado, tienes la base para escalar.
 
 La propuesta de valor que el cliente defiende con un muy decepcionado es la que vale algo.
 
@@ -153,7 +153,7 @@ Carlos ha llegado a entender que la propuesta de valor no es un texto. Es la est
 
 La investigación de James Collins sobre las empresas de éxito duradero muestra que las que tienen mayor longevidad y mayor impacto son las que tienen una claridad de proposito y propuesta de valor que guia todas las decisiones de negocio, independientemente de las tendencias del mercado o las presiones de la competencia.
 
-**Ejercicio inmediato:** Para tu negocio, verifica que las últimas cinco decisiones importantes que has tomado (sobre producto, precio, tipo de cliente, canal de venta, o comunicación) son coherentes con la propuesta de valor que has definido. Si alguna decisión de las cinco no es coherente con la propuesta de valor, reflexiona: la decisión fue un error (y debería revertirse) o la propuesta de valor necesita actualizarse para reflejar la dirección real del negocio? La incoherencia entre la propuesta de valor y las decisiones de negocio es siempre una señal de algo que necesita atención.
+**Ejercicio inmediato:** Para tu negocio, verifica que las últimas cinco decisiones importantes que has tomado (sobre producto, precio, tipo de cliente, canal de venta, o comunicación) son coherentes con la propuesta de valor que has definido. Si alguna decisión de las cinco no es coherente con la propuesta de valor, reflexiona: ¿la decisión fue un error (y debería revertirse) o la propuesta de valor necesita actualizarse para reflejar la dirección real del negocio? La incoherencia entre la propuesta de valor y las decisiones de negocio es siempre una señal de algo que necesita atención.
 
 La propuesta de valor que guia el negocio es la que lo hace coherente. La que decora el sitio web no guia nada.
 

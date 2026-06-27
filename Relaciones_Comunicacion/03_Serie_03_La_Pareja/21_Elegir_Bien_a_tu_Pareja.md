@@ -27,13 +27,13 @@ Este libro no te va a decir a quien elegir. Te va a dar las herramientas para qu
 
 ## Capítulo 1: Por qué elegimos a quien elegimos
 
-Dos personas se conocen en una cena. Se miran, hablan treinta minutos y ambas sienten algo que no sienten cuando conocen a otra persona. Por qué esa persona específica? Por qué ese nivel de atracción que no aparece con la mayoría?
+Dos personas se conocen en una cena. Se miran, hablan treinta minutos y ambas sienten algo que no sienten cuando conocen a otra persona. ¿Por qué esa persona específica? ¿Por qué ese nivel de atracción que no aparece con la mayoría?
 
 **El Principio de la Familiaridad Inconsciente:** La investigación sobre la elección de pareja muestra que nos atrae lo que nos resulta familiar a nivel emocional, no lo que nos conviene a nivel racional. Si crecimos con un progenitor emocionalmente inaccesible, tendemos a sentir una atracción especial por personas emocionalmente inaccesibles. Si crecimos en un ambiente con alta crítica, tendemos a confundir la crítica con la atención. Lo familiar se siente como atracción aunque no sea bueno para nosotros.
 
 Harville Hendrix, terapeuta de parejas, llama a esto la elección del imago: elegimos inconscientemente a personas que replican la constelación emocional de nuestra infancia, con la esperanza inconsciente de resolver lo que no se resolvio entonces. La atracción intensa, paradojicamente, suele señalar no compatibilidad sino familiaridad del patron.
 
-**Ejercicio inmediato:** Piensa en las personas de las que te has enamorado. Que tienen en común? Hay algun patron de carácter o comportamiento que se repita? Ese patron es tu imago en acción. Nombrarlo no elimina la atracción. Pero te permite verla con más claridad antes de actuar sobre ella.
+**Ejercicio inmediato:** Piensa en las personas de las que te has enamorado. ¿Que tienen en común? ¿Hay algun patron de carácter o comportamiento que se repita? Ese patron es tu imago en acción. Nombrarlo no elimina la atracción. Pero te permite verla con más claridad antes de actuar sobre ella.
 
 No te enamoras de quien es mejor para ti. Te enamoras de quien te resulta emocionalmente familiar.
 
@@ -47,7 +47,7 @@ El estilo de apego que desarrollamos en la infancia (seguro, ansioso, evitativo 
 
 Amir Levine y Rachel Heller, en Attached, muestran que el apego seguro en la elección de pareja no es un destino sino que puede desarrollarse: la relación con una persona de apego seguro tiene el poder de mover gradualmente el estilo de apego del otro hacía mayor seguridad con el tiempo.
 
-**Ejercicio inmediato:** Identifica tu estilo de apego predominante. Si no lo conoces, busca el test de apego adulto de Levine y Heller y hazlo. Luego preguntate: el tipo de persona que me atrae tipicamente, tiene un estilo de apego compatible o incompatible con el mio? Esa información es crítica para la elección consciente.
+**Ejercicio inmediato:** Identifica tu estilo de apego predominante. Si no lo conoces, busca el test de apego adulto de Levine y Heller y hazlo. Luego preguntate: ¿el tipo de persona que me atrae tipicamente, tiene un estilo de apego compatible o incompatible con el mio? Esa información es crítica para la elección consciente.
 
 Lo que sientes cuando te enamoras de alguien no es solo química. Es la activación de tu historia de apego.
 
@@ -103,7 +103,7 @@ La cultura del amor romantico ha construido una narrativa sobre la elección de 
 
 La investigación sobre satisfacción relacional a largo plazo muestra sistemáticamente que las relaciones más satisfactorias no son las que empezaron con la mayor intensidad sino las que desarrollaron compromiso, respeto mutuo y comunicación efectiva con el tiempo.
 
-**Ejercicio inmediato:** Revisa las narrativas sobre el amor romantico que tienes asumidas. Cuales son tuyas y cuales son de la cultura? La diferencia importa porque las narrativas culturales no sirven al amor real que puedes tener. Sirven a la industria del entretenimiento que vende historias.
+**Ejercicio inmediato:** Revisa las narrativas sobre el amor romantico que tienes asumidas. ¿Cuales son tuyas y cuales son de la cultura? La diferencia importa porque las narrativas culturales no sirven al amor real que puedes tener. Sirven a la industria del entretenimiento que vende historias.
 
 El amor romantico que la cultura vende no es el que produce felicidad real. Es el que produce historias emocionantes.
 
@@ -127,7 +127,7 @@ La mayoría de las personas que buscan pareja tienen una lista de lo que quieren
 
 **El Principio de la Lista como Trampa Cognitiva:** Las listas de cualidades de pareja tienden a capturar atributos observables (altura, profesión, aspecto físico) y a ignorar los atributos que más predicen la satisfacción relacional a largo plazo (capacidad de regulación emocional, manejo del conflicto, consistencia entre lo que se dice y lo que se hace). Las personas que se casan o se emparejan siguiendo principalmente su lista reportan niveles de satisfacción significativamente menores a largo plazo que las que priorizan la calidad de la conexión y la compatibilidad.
 
-**Ejercicio inmediato:** Si tienes una lista de cualidades de pareja, revisala. Cuantos items son observables desde el exterior y cuantos son atributos de carácter y compatibilidad? Reescribe la lista poniendo primero lo que más predice la satisfacción a largo plazo y último lo que es más facil de ver pero menos relevante.
+**Ejercicio inmediato:** Si tienes una lista de cualidades de pareja, revisala. ¿Cuantos items son observables desde el exterior y cuantos son atributos de carácter y compatibilidad? Reescribe la lista poniendo primero lo que más predice la satisfacción a largo plazo y último lo que es más facil de ver pero menos relevante.
 
 La persona que buscas en tu lista y la persona que te hará feliz a largo plazo raramente son la misma persona.
 
@@ -141,7 +141,7 @@ Ruben sabe que la persona con la que lleva seis meses no es buena para el. Sus a
 
 El cerebro racional que dice no no esta equivocado. Esta procesando información que el sistema emocional esta ignorando.
 
-**Ejercicio inmediato:** Si hay una discrepancia entre lo que sientes en una relación y lo que ves con claridad cuando lo analizas, escribe un párrafo describiendo la relación como si fuera la de un amigo. Que le dirias a ese amigo? La distancia que da escribir en tercera persona suele revelar lo que la primera persona no puede ver.
+**Ejercicio inmediato:** Si hay una discrepancia entre lo que sientes en una relación y lo que ves con claridad cuando lo analizas, escribe un párrafo describiendo la relación como si fuera la de un amigo. ¿Que le dirias a ese amigo? La distancia que da escribir en tercera persona suele revelar lo que la primera persona no puede ver.
 
 Lo que el corazón dice que es amor y lo que el cerebro dice que es un patron a veces son exactamente lo mismo.
 
@@ -153,7 +153,7 @@ La elección de pareja no tiene que ser completamente racional. Pero si puede se
 
 **El Principio de la Elección Informada:** La elección consciente de pareja combina tres fuentes de información: lo que sientes (la atracción y la conexión emocional), lo que ves (las conductas reales de la persona, no las que proyectas o anticipas), y lo que sabes sobre ti mismo (tus patrones, tus necesidades, los valores que no son negociables). Las tres fuentes juntas producen una elección más robusta que cualquiera de las tres sola.
 
-John Gottman propone el modeló del templo del amor: tres pisos de amistad profunda, gestión del conflicto y creación de significado compartido. Una elección consciente evalua las tres dimensiones, no solo la atracción del nivel base.
+John Gottman propone el modelo del templo del amor: tres pisos de amistad profunda, gestión del conflicto y creación de significado compartido. Una elección consciente evalua las tres dimensiones, no solo la atracción del nivel base.
 
 **Ejercicio inmediato:** Para la relación o persona que te importa actualmente, evalua las tres fuentes de información por separado: que sientes, que ves en las conductas reales, y que sabes sobre tu historia y tus necesidades. Luego integra las tres. La integración produce una imagen más completa que cualquier fuente aislada.
 

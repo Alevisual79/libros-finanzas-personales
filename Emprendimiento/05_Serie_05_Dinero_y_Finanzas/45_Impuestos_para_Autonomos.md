@@ -51,9 +51,9 @@ Marcos ha aprendido a gestionar el IRPF de su negocio para no tener sorpresas en
 
 **El Principio del IRPF del Autonomo como El Impuesto sobre El Beneficio del Negocio que Se Paga de Dos Formas: A Traves de Las Retenciones que Los Clientes Aplican En Las Facturas (Si La Actividad Esta Sujeta a Retención) O A Traves De Los Pagos Fraccionados Trimestrales (Modelo 130 Para Las Actividades No Sujetas a Retención Obligatoria):** Los autonomos que facturan principalmente a empresas suelen tener retención del IRPF en sus facturas (generalmente del quince por ciento, aunque hay tipos reducidos para ciertas actividades o en los primeros años). Esa retención la ingresa el cliente directamente en hacienda y reduce lo que el autonomo tendrá que pagar en la declaración de la renta.
 
-Los autonomos que facturan principalmente a particulares (que no tienen obligación de retener) deben hacer pagos fraccionados trimestrales mediante el modeló 130, que es un pago a cuenta del IRPF anual calculado como el veinte por ciento del beneficio acumulado en el trimestre (menos las retenciones ya practicadas y los pagos fraccionados anteriores del año).
+Los autonomos que facturan principalmente a particulares (que no tienen obligación de retener) deben hacer pagos fraccionados trimestrales mediante el modelo 130, que es un pago a cuenta del IRPF anual calculado como el veinte por ciento del beneficio acumulado en el trimestre (menos las retenciones ya practicadas y los pagos fraccionados anteriores del año).
 
-**Ejercicio inmediato:** Para entender tu situación específica de IRPF, responde estas preguntas con tu gestor: tus clientes son principalmente empresas (que retienen en tu factura) o particulares (que no retienen)?, si son empresas, cual es el tipo de retención que aplican en tus facturas (15%, 7% si eres nuevo autonomo, u otro)?, si hay clientes particulares que no retienen, estas haciendo el modeló 130 trimestralmente? Con esas respuestas claras, tu gestor puede calcular el importe aproximado que pagaras en la declaración de la renta del año en curso para que puedas provisionarlo.
+**Ejercicio inmediato:** Para entender tu situación específica de IRPF, responde estas preguntas con tu gestor: ¿tus clientes son principalmente empresas (que retienen en tu factura) o particulares (que no retienen)?, si son empresas, cual es el tipo de retención que aplican en tus facturas (15%, 7% si eres nuevo autonomo, u otro)?, si hay clientes particulares que no retienen, estas haciendo el modelo 130 trimestralmente? Con esas respuestas claras, tu gestor puede calcular el importe aproximado que pagaras en la declaración de la renta del año en curso para que puedas provisionarlo.
 
 El IRPF que el autonomo no prevee es el que se convierte en la sorpresa del mes de junio cuando llega la declaración de la renta.
 
@@ -69,7 +69,7 @@ Los tipos de IVA más comunes en España son: el general del veintiun por ciento
 
 **Ejercicio inmediato:** Para el próximo trimestre, implementa el sistema de provisión de IVA: cada vez que cobres una factura con IVA, transfiere automáticamente el importe del IVA (el veintiun por ciento de la base imponible) a la cuenta de provisión fiscal separada. Al final del trimestre, ese importe menos el IVA de tus gastos del trimestre es exactamente lo que pagaras a hacienda. No habrá sorpresa porque el dinero ya estará apartado.
 
-El IVA que cobras al cliente y gastas en el negocio antes de pagar el modeló 303 es el IVA que luego no tienes para pagar a hacienda. Esa es la raiz de la mayoría de los problemas de IVA de los autonomos.
+El IVA que cobras al cliente y gastas en el negocio antes de pagar el modelo 303 es el IVA que luego no tienes para pagar a hacienda. Esa es la raiz de la mayoría de los problemas de IVA de los autonomos.
 
 ---
 
@@ -81,7 +81,7 @@ Lucia ha aumentado sus gastos deducibles con el asesoramiento de su gestora y ha
 
 Los gastos con afectación parcial (como el vehiculo o el hogar cuando se trabaja desde casa) son deducibles en la proporción de uso profesional, aunque su justificación puede ser compleja y conviene seguir el criterio específico del gestor para cada caso.
 
-**Ejercicio inmediato:** Con tu gestor, haz una revisión de los gastos del último ejercicio que podrían ser deducibles pero que no has aplicado: tienes gastos de formación profesional (cursos, libros, suscripciones a publicaciones del sector)?, tienes seguros profesionales (responsabilidad civil, de vida si es relevante para el negocio)?, has pagado cuotas de asociaciones o colegios profesionales?, tienes gastos de representación con clientes documentados? Cada gasto deducible que no has aplicado ha aumentado tu factura fiscal más de lo necesario.
+**Ejercicio inmediato:** Con tu gestor, haz una revisión de los gastos del último ejercicio que podrían ser deducibles pero que no has aplicado: ¿tienes gastos de formación profesional (cursos, libros, suscripciones a publicaciones del sector)?, tienes seguros profesionales (responsabilidad civil, de vida si es relevante para el negocio)?, has pagado cuotas de asociaciones o colegios profesionales?, tienes gastos de representación con clientes documentados? Cada gasto deducible que no has aplicado ha aumentado tu factura fiscal más de lo necesario.
 
 El gasto deducible que no aplicas no desaparece. Hacienda lo cobra igualmente aunque no fuera tu obligación.
 
@@ -109,7 +109,7 @@ Carlos ha empezado a aportar a su plan de pensión y ha reducido su factura fisc
 
 El impacto fiscal de una aportación de tres mil euros a un plan de pensión puede ser de entre novecientos euros (tipo marginal del treinta por ciento) y mil trescientos cincuenta euros (tipo marginal del cuarenta y cinco por ciento) de ahorro en la declaración de la renta, dependiendo del tramo de IRPF del autonomo.
 
-**Ejercicio inmediato:** Si tu beneficio anual es suficientemente alto para qué tus rendimientos del negocio tributen a tipos marginales superiores al treinta por ciento, calcula con tu gestor el importe optimo de aportación al plan de pensión para este año: que importe maximiza el beneficio fiscal dentro de los límites legales?, en que plan de pensión o PPES (Plan de Previsión Asegurada) tiene más sentido invertir basandote en tu perfil de riesgo y horizonte temporal? Esa decisión, tomada antes del treinta y uno de diciembre, puede producir un ahorro fiscal inmediato en la declaración de la renta del año siguiente.
+**Ejercicio inmediato:** Si tu beneficio anual es suficientemente alto para qué tus rendimientos del negocio tributen a tipos marginales superiores al treinta por ciento, calcula con tu gestor el importe optimo de aportación al plan de pensión para este año: ¿que importe maximiza el beneficio fiscal dentro de los límites legales?, en que plan de pensión o PPES (Plan de Previsión Asegurada) tiene más sentido invertir basandote en tu perfil de riesgo y horizonte temporal? Esa decisión, tomada antes del treinta y uno de diciembre, puede producir un ahorro fiscal inmediato en la declaración de la renta del año siguiente.
 
 El plan de pensión del autonomo no es solo ahorro para la jubilación. Es la herramienta de reducción fiscal legal más accesible disponible.
 
@@ -119,11 +119,11 @@ El plan de pensión del autonomo no es solo ahorro para la jubilación. Es la he
 
 Lucia ha mapeado todos los modelos tributarios que presenta cada año y tiene un calendario fiscal que le elimina las sorpresas.
 
-**El Principio del Calendario Fiscal del Autonomo como El Instrumento de Planificación que Muestra Todos Los Vencimientos Tributarios del Año con Sus Modelos, Plazos, y Importes Estimados para Que El Autonomo Nunca Se Vea Sorprendido por Un Plazo que Ha Olvidado:** Los modelos tributarios principales del autonomo en España son: el modeló 303 (declaración trimestral de IVA, en los primeros veinte dias de enero, abril, julio, y octubre), el modeló 390 (resumen anual de IVA, en enero), el modeló 130 (pago fraccionado trimestral de IRPF para actividades no sujetas a retención obligatoria, mismos plazos que el 303), el modeló 100 (declaración anual de la renta, entre abril y junio), y el modeló 347 (declaración anual de operaciones con terceros superiores a tres mil euros, en febrero).
+**El Principio del Calendario Fiscal del Autonomo como El Instrumento de Planificación que Muestra Todos Los Vencimientos Tributarios del Año con Sus Modelos, Plazos, y Importes Estimados para Que El Autonomo Nunca Se Vea Sorprendido por Un Plazo que Ha Olvidado:** Los modelos tributarios principales del autonomo en España son: el modelo 303 (declaración trimestral de IVA, en los primeros veinte dias de enero, abril, julio, y octubre), el modelo 390 (resumen anual de IVA, en enero), el modelo 130 (pago fraccionado trimestral de IRPF para actividades no sujetas a retención obligatoria, mismos plazos que el 303), el modelo 100 (declaración anual de la renta, entre abril y junio), y el modelo 347 (declaración anual de operaciones con terceros superiores a tres mil euros, en febrero).
 
-La presentación de estos modelos es responsabilidad del autonomo (aunque tipicamente la gestiona el gestor). El desconocimiento del plazo o del modeló no exime de la sanción correspondiente por presentación fuera de plazo.
+La presentación de estos modelos es responsabilidad del autonomo (aunque tipicamente la gestiona el gestor). El desconocimiento del plazo o del modelo no exime de la sanción correspondiente por presentación fuera de plazo.
 
-**Ejercicio inmediato:** Con tu gestor, crea un calendario fiscal personalizado para el próximo año con las fechas exactas de presentación de cada modeló, el importe estimado de cada liquidación basandose en el ejercicio anterior, y una fecha de provisión mensual para apartar el importe correspondiente. Ese calendario, guardado en tu agenda y con recordatorios automáticos quince dias antes de cada vencimiento, elimina el riesgo de perder un plazo fiscal.
+**Ejercicio inmediato:** Con tu gestor, crea un calendario fiscal personalizado para el próximo año con las fechas exactas de presentación de cada modelo, el importe estimado de cada liquidación basandose en el ejercicio anterior, y una fecha de provisión mensual para apartar el importe correspondiente. Ese calendario, guardado en tu agenda y con recordatorios automáticos quince dias antes de cada vencimiento, elimina el riesgo de perder un plazo fiscal.
 
 El plazo fiscal olvidado no se puede recuperar sin sanción. El que tienes en el calendario se paga a tiempo y sin coste adicional.
 

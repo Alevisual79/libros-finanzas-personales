@@ -120,7 +120,7 @@ El fin de semana ya no recupera. Antes, dos días de descanso bastaban para volv
 
 Uno de los errores más frecuentes al abordar el burnout es tratarlo cómo un problema individual que el individuo debe resolver con más resiliencia, mejor gestión del tiempo o más mindfulness.
 
-**El modeló de Demandas-Recursos:**
+**El modelo de Demandas-Recursos:**
 El burnout aparece cuando las demandas del trabajo (carga, presión, incertidumbre, conflicto emocional) superan de forma crónica los recursos disponibles (autonomía, apoyo social, reconocimiento, formación, tiempo).
 
 **Las causas organizacionales:**

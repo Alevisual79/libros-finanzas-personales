@@ -33,7 +33,7 @@ No discuten sobre el dinero porque tengan problemas económicos reales. Discuten
 
 Shlomo Benartzi, investigador del comportamiento económico, muestra que las actitudes ante el dinero se forman en la infancia a partir de las experiencias familiares y son profundamente resistentes al cambio racional. No se resuelven con más información financiera. Se gestionan con más comprensión mutua.
 
-**Ejercicio inmediato:** Piensa en como era la situación económica de tu familia de origen. Habia abundancia o escasez? Cómo se hablaba del dinero en tu casa? Que actitud tenía tu progenitor principal ante el gasto y el ahorro? Esas respuestas son el origen de tu actitud actual hacía el dinero, y probablemente son diferentes a las de tu pareja.
+**Ejercicio inmediato:** Piensa en como era la situación económica de tu familia de origen. Habia abundancia o escasez? ¿Cómo se hablaba del dinero en tu casa? Que actitud tenía tu progenitor principal ante el gasto y el ahorro? Esas respuestas son el origen de tu actitud actual hacía el dinero, y probablemente son diferentes a las de tu pareja.
 
 Cuando discutes sobre dinero con tu pareja, en realidad estan discutiendo dos historias de origen distintas sobre lo que el dinero significa.
 
@@ -55,15 +55,15 @@ El conflicto sobre dinero en la pareja es casi siempre un conflicto entre dos hi
 
 ## Capítulo 3: Modelos de gestión económica en pareja
 
-Hay tres modelos principales de gestión económica en pareja: el modeló de cuenta común (todo juntó), el modeló de cuenta separada (cada uno sus finanzas), y el modeló hibrido (cuentas separadas más una común para gastos compartidos). Ninguno es universalmente correcto. Cada uno tiene ventajas y desventajas dependiendo de la situación de la pareja.
+Hay tres modelos principales de gestión económica en pareja: el modelo de cuenta común (todo juntó), el modelo de cuenta separada (cada uno sus finanzas), y el modelo hibrido (cuentas separadas más una común para gastos compartidos). Ninguno es universalmente correcto. Cada uno tiene ventajas y desventajas dependiendo de la situación de la pareja.
 
-**El Principio del Modelo como Acuerdo, no como Herencia:** La mayoría de las parejas adoptan el modeló que sus padres usaban sin haberlo pensado deliberadamente. El problema es que ese modeló puede no ser el que mejor sirve a su situación específica. Una pareja donde uno tiene mucha más deuda que el otro puede necesitar un modeló diferente al de una pareja sin deudas. Una pareja donde uno es freelance y el otro tiene sueldo fijo puede necesitar un modeló diferente al de dos personas con sueldos estables.
+**El Principio del Modelo como Acuerdo, no como Herencia:** La mayoría de las parejas adoptan el modelo que sus padres usaban sin haberlo pensado deliberadamente. El problema es que ese modelo puede no ser el que mejor sirve a su situación específica. Una pareja donde uno tiene mucha más deuda que el otro puede necesitar un modelo diferente al de una pareja sin deudas. Una pareja donde uno es freelance y el otro tiene sueldo fijo puede necesitar un modelo diferente al de dos personas con sueldos estables.
 
-La investigación de Sonya Britt-Lutter sobre finanzas de pareja muestra que lo que más predice la satisfacción financiera en la pareja no es el modeló que usan sino la calidad de la comunicación sobre el modeló y la percepción de que el modeló es justo para ambos.
+La investigación de Sonya Britt-Lutter sobre finanzas de pareja muestra que lo que más predice la satisfacción financiera en la pareja no es el modelo que usan sino la calidad de la comunicación sobre el modelo y la percepción de que el modelo es justo para ambos.
 
-**Ejercicio inmediato:** Describe el modeló de gestión económica actual de tu pareja. No el que creeis que teneis sino el que realmente practicais. Luego pregunta si ese modeló es el que ambos elegirian si lo diseñarais desde cero hoy. La diferencia entre el modeló actual y el elegido es el espacio de la conversación necesaria.
+**Ejercicio inmediato:** Describe el modelo de gestión económica actual de tu pareja. No el que creeis que teneis sino el que realmente practicais. Luego pregunta si ese modelo es el que ambos elegirian si lo diseñarais desde cero hoy. La diferencia entre el modelo actual y el elegido es el espacio de la conversación necesaria.
 
-El modeló financiero que heredasteis no tiene que ser el que os conviene.
+El modelo financiero que heredasteis no tiene que ser el que os conviene.
 
 ---
 
@@ -89,7 +89,7 @@ Los secretos financieros en la pareja son más comunes de lo que se reconoce: ga
 
 Los secretos financieros casi siempre empiezan como proteción: de una crítica anticipada, de una reacción que se teme, de la incomodidad de tener que dar explicaciones. Y con el tiempo se convierten en una capa de deshonestidad que daña la confianza mucho más que el gasto o la deuda original.
 
-**Ejercicio inmediato:** Reflexiona honestamente: hay alguna información financiera que tu pareja no tiene y que debería tener para tomar decisiones informadas? Una deuda, un gasto habitual, una situación económica que no has compartido? Si la hay, el coste de seguir ocultandola es mayor que el de compartirla.
+**Ejercicio inmediato:** Reflexiona honestamente: ¿hay alguna información financiera que tu pareja no tiene y que debería tener para tomar decisiones informadas? ¿Una deuda, un gasto habitual, una situación económica que no has compartido? Si la hay, el coste de seguir ocultandola es mayor que el de compartirla.
 
 Un secreto financiero en la pareja no es un problema de dinero. Es un problema de confianza.
 
@@ -103,7 +103,7 @@ En la mayoría de las parejas, los ingresos no son iguales. Esa diferencia, cuan
 
 La gestión sana de la diferencia de ingresos requiere separar la contribución económica del valor como persona y como miembro de la pareja, reconocer las contribuciones no económicas (trabajo domestico, cuidado de los hijos, apoyo emocional) como tan validas como las económicas, y tomar decisiones financieras conjuntas independientemente de quien aporte más.
 
-**Ejercicio inmediato:** Si hay una diferencia significativa de ingresos en tu pareja, reflexiona: como afecta esa diferencia a quien toma las decisiones financieras en la práctica? Hay una voz que pesa más porque aporta más? Si la respuesta es si, esa es la conversación que necesita tenerse.
+**Ejercicio inmediato:** Si hay una diferencia significativa de ingresos en tu pareja, reflexiona: ¿como afecta esa diferencia a quien toma las decisiones financieras en la práctica? ¿Hay una voz que pesa más porque aporta más? Si la respuesta es si, esa es la conversación que necesita tenerse.
 
 El que gana más no tiene más razón. Solo más dinero. La razón se gana en la conversación.
 
@@ -117,7 +117,7 @@ La relación entre dinero y poder en la pareja va más allá de quien gana más.
 
 La señal más clara de que el dinero se esta usando como herramienta de control: uno de los dos no tiene acceso a información financiera, no puede tomar decisiones de gasto sin permiso del otro, o tiene que dar cuentas de cada euro que gasta mientras el otro no tiene las mismas restricciones.
 
-**Ejercicio inmediato:** Evalua el equilibrio de poder financiero en tu relación: cada uno tiene acceso propio a dinero? Cada uno puede tomar decisiones de gasto razonables de forma autonoma? Las decisiones financieras importantes se toman juntos? Si la respuesta a alguna de estas preguntas es no, hay una conversación sobre el equilibrio de poder que necesita tenerse.
+**Ejercicio inmediato:** Evalua el equilibrio de poder financiero en tu relación: ¿cada uno tiene acceso propio a dinero? ¿Cada uno puede tomar decisiones de gasto razonables de forma autonoma? Las decisiones financieras importantes se toman juntos? Si la respuesta a alguna de estas preguntas es no, hay una conversación sobre el equilibrio de poder que necesita tenerse.
 
 Una relación saludable con el dinero es aquella en que ninguno de los dos necesita pedir permiso para existir.
 
@@ -159,7 +159,7 @@ Los acuerdos financieros de la pareja necesitan ser claros (ambos saben que se h
 
 La conversación que abre cada revisión no es si estamos de acuerdo en lo que acordamos sino si lo que acordamos sigue sirviendo a quien somos hoy.
 
-**Ejercicio inmediato:** Identifica el acuerdo financiero más importante que tiene tu pareja actualmente (quien paga que, cómo se divide el gasto, cuanto ahorra cada uno). Cuando fue la última vez que lo revisasteis conscientemente? Si hace más de un año, es probable que al menos algo haya cambiado que justifique una conversación.
+**Ejercicio inmediato:** Identifica el acuerdo financiero más importante que tiene tu pareja actualmente (quien paga que, cómo se divide el gasto, cuanto ahorra cada uno). ¿Cuando fue la última vez que lo revisasteis conscientemente? Si hace más de un año, es probable que al menos algo haya cambiado que justifique una conversación.
 
 El mejor acuerdo financiero es el que se revisa antes de que deje de funcionar.
 
@@ -171,7 +171,7 @@ El dinero en la pareja no tiene por qué ser el campo de batalla más frecuente.
 
 Isabel y su marido llevaban veinte años sin hablar de dinero de verdad. Un asesor financiero les hizo sentarse a mirar sus finanzas juntos por primera vez. Fue incomodo. Hubo cosas que ninguno sabía del otro. Hubo una diferencia de actitud que no habían visto. Pero cuando salieron de esa conversación, tenían algo que no habían tenido antes: un proyecto financiero común que era de los dos.
 
-Ese proyecto cambio la relación de formas que ninguno habria anticipado.
+Ese proyecto cambio la relación de formas que ninguno habría anticipado.
 
 ---
 

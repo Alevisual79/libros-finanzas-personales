@@ -29,13 +29,13 @@ Tus emociones son información sobre tus relaciones, no obstaculos a superar.
 
 ## Capítulo 1: La inteligencia emocional aplicada a relaciones
 
-En 1990 Peter Salovey y John Mayer publicaron el primer modeló cientifico de inteligencia emocional. En 1995 Daniel Goleman lo popularizó con un libro que vendio millones de copias. Desde entonces, el terminó se usa tanto y en contextos tan distintos que ha perdido precisión. Usemos la definición original: la capacidad de percibir, usar, entender y manejar las emociones, propias y ajenas.
+En 1990 Peter Salovey y John Mayer publicaron el primer modelo cientifico de inteligencia emocional. En 1995 Daniel Goleman lo popularizó con un libro que vendio millones de copias. Desde entonces, el terminó se usa tanto y en contextos tan distintos que ha perdido precisión. Usemos la definición original: la capacidad de percibir, usar, entender y manejar las emociones, propias y ajenas.
 
 **El Principio de las Cuatro Competencias Emocionales:** Percibir: reconocer que estas sintiendo algo y nombrarlo con cierta precisión. Usar: aplicar ese conocimiento emocional de forma adaptativa. Entender: saber de dónde viene la emoción y que la desencadena. Manejar: regular la intensidad de la emoción sin suprimirla ni desbordarte. En el contexto relacional, estas cuatro competencias determinan la calidad de todas tus interacciones.
 
 Los estudios de Goleman en entornos laborales muestran que las competencias emocionales explican el 67% de las habilidades necesarias para el rendimiento superior, y que son especialmente determinantes en roles que implican interacción con otras personas.
 
-**Ejercicio inmediato:** En tu próxima conversación importante, práctica nombrar internamente lo que sientes durante la conversación. No para expresarlo. Solo para notarlo. Que emoción esta presente? A que intensidad? Esa práctica de observación es el primer nivel de inteligencia emocional.
+**Ejercicio inmediato:** En tu próxima conversación importante, práctica nombrar internamente lo que sientes durante la conversación. No para expresarlo. Solo para notarlo. ¿Que emoción esta presente? ¿A que intensidad? Esa práctica de observación es el primer nivel de inteligencia emocional.
 
 La inteligencia emocional empieza por saber que sientes. Lo demás viene después.
 
@@ -63,7 +63,7 @@ Hay emociones que aparecen casi exclusivamente en el contexto de las relaciones:
 
 Jonathan Turner, sociologo de las emociones, clasifica las emociones sociales en cuatro familias: las que regulan la cohesión grupal (amor, orgullo, lealtad), las que regulan el rango y el estatus (vergüenza, culpa, envidia), las que regulan el intercambio (gratitud, obligación, resentimiento) y las que regulan la percepción de amenaza (miedo, ira, desconfianza).
 
-**Ejercicio inmediato:** Elige una emoción relacional que sientas frecuentemente y que te sea difícil gestionar: celos, culpa, vergüenza, resentimiento. Preguntate: que me esta diciendo esta emoción sobre el estado de esta relación? Que información contiene que estoy ignorando?
+**Ejercicio inmediato:** Elige una emoción relacional que sientas frecuentemente y que te sea difícil gestionar: celos, culpa, vergüenza, resentimiento. Preguntate: ¿que me esta diciendo esta emoción sobre el estado de esta relación? ¿Que información contiene que estoy ignorando?
 
 Las emociones no son el problema. Son el mensajero. Matar al mensajero no resuelve el mensaje.
 
@@ -77,7 +77,7 @@ Hay personas que con solo entrar en una habitación te ponen de mal humor. Hay p
 
 Daniel Stern, psicoanalista suizo, describió los RIGs (Representaciones Generalizadas de las Interacciones), modelos internos de cómo se sienten ciertas interacciones, que se forman en la primera infancia y se reactivan en relaciones adultas similares. Cuando alguien te activa una emoción intensa sin razón aparente, probablemente esta activando un RIG antiguo.
 
-**Ejercicio inmediato:** Piensa en una persona que te activa emociones intensas de forma consistente. Quitando a esa persona del análisis, que sientes cuando estas cerca de ella? Ahora preguntate: cuando fue la primera vez que senti algo similar? La respuesta apunta al RIG que se esta activando.
+**Ejercicio inmediato:** Piensa en una persona que te activa emociones intensas de forma consistente. Quitando a esa persona del análisis, que sientes cuando estas cerca de ella? Ahora preguntate: ¿cuando fue la primera vez que senti algo similar? La respuesta apunta al RIG que se esta activando.
 
 Lo que sientes ante el otro te dice más sobre ti que sobre el otro.
 
@@ -119,7 +119,7 @@ Cuando una amiga de Elena consiguio el trabajo que ella quería, Elena sintio al
 
 Bertrand Russell escribió que la envidia es una de las causas más potentes de infelicidad. Pero también es uno de los indicadores más precisos de los propios valores y deseos insatisfechos. La envidia siempre apunta hacía algo que quieres pero que no estas persiguiendo o que crees que no mereces.
 
-**Ejercicio inmediato:** Piensa en alguien de tu entorno que te genere envidia. No el sentimiento de culpa. Solo observa: que tiene esa persona que te genera la emoción? Eso que envidias es información directa sobre lo que tu quieres. Ahora preguntate: que estoy haciendo para conseguirlo?
+**Ejercicio inmediato:** Piensa en alguien de tu entorno que te genere envidia. No el sentimiento de culpa. Solo observa: ¿que tiene esa persona que te genera la emoción? Eso que envidias es información directa sobre lo que tu quieres. Ahora preguntate: ¿que estoy haciendo para conseguirlo?
 
 La envidia es información disfrazada de emoción incomoda.
 
@@ -133,7 +133,7 @@ Cuando Isabel entra en una reunión con mal humor, en diez minutos el ambiente d
 
 En las relaciones intimas, la regulación emocional se hace parcialmente de forma conjunta. La calma de uno puede calmar al otro. La ansiedad de uno puede activar la del otro. Las parejas y familias emocionalmente saludables desarrollan sistemas de co-regulación que funcionan en los dos sentidos.
 
-**Ejercicio inmediato:** Observa durante una semana como cambia tu estado emocional segun con quien estes. Quien te eleva? Quien te drena? Esa información es relevante para decidir conscientemente cuanto tiempo y energía inviertes en cada relación.
+**Ejercicio inmediato:** Observa durante una semana como cambia tu estado emocional segun con quien estes. ¿Quien te eleva? ¿Quien te drena? Esa información es relevante para decidir conscientemente cuanto tiempo y energía inviertes en cada relación.
 
 No eres una isla emocional. Eres un sistema conectado a todos los que te rodean.
 
@@ -161,7 +161,7 @@ La seguridad emocional en una relación es la condición en que ambas personas p
 
 Amy Edmondson, profesora de Harvard, estudio la seguridad psicológica en equipos de trabajo y encontró que era el predictor más poderoso del rendimiento del equipo, por encima de la inteligencia o la experiencia de sus miembros. En las relaciones personales, el efecto es equivalente: las relaciones con alta seguridad emocional funcionan mejor, se recuperan más rápidamente del conflicto y producen mayor bienestar.
 
-**Ejercicio inmediato:** Piensa en la relación en que te sientes emocionalmente más seguro. Que hace esa persona o que condiciones de esa relación crean esa seguridad? Ahora piensa en como podrías crear esas mismas condiciones en tus otras relaciones.
+**Ejercicio inmediato:** Piensa en la relación en que te sientes emocionalmente más seguro. ¿Que hace esa persona o que condiciones de esa relación crean esa seguridad? Ahora piensa en como podrías crear esas mismas condiciones en tus otras relaciones.
 
 La seguridad emocional no ocurre. Se construye. Con coherencia, con honestidad y con la disposición a estar ahí cuando el otro se muestra.
 

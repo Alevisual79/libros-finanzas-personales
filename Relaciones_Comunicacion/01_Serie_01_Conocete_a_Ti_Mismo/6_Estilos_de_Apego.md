@@ -29,13 +29,13 @@ Tu estilo de apego no te condena. Te explica. Y lo que se explica, se puede camb
 
 ## Capítulo 1: La teoria del apego explicada sin jerga
 
-John Bowlby era un psicoanalista britanico que en los años 60 hizo algo que sus colegas consideraron una herejia: propuso que los seres humanos tienen una necesidad biológica de conexión, tan basica cómo la necesidad de alimento. Que los ninos no se apegan a sus cuidadores por costumbre sino por supervivencia. Y que la calidad de ese apego temprano deja una huella que dura toda la vida.
+John Bowlby era un psicoanalista britanico que en los años 60 hizo algo que sus colegas consideraron una herejia: propuso que los seres humanos tienen una necesidad biológica de conexión, tan basica cómo la necesidad de alimento. Que los niños no se apegan a sus cuidadores por costumbre sino por supervivencia. Y que la calidad de ese apego temprano deja una huella que dura toda la vida.
 
 **El Principio del Sistema de Apego:** El apego es el sistema neurologico que regula la busqueda de proximidad con figuras de seguridad cuando percibimos amenaza. En la infancia, esas figuras son los cuidadores. En la vida adulta, son las parejas, los amigos cercanos y en ciertos momentos, los terapeutas. Cuando el sistema de apego se activa, busca conexión. Cuando la encuentra de forma consistente, aprende a confiar. Cuando no la encuentra o la encuentra de forma impredecible, desarrolla estrategias alternativas de supervivencia que llamamos apego inseguro.
 
 Mary Ainsworth, colaboradora de Bowlby, diseño el experimento de la Situación Extrana para estudiar las diferentes formas en que los bebes respondian a la separación temporal de su cuidador. Los resultados revelaron cuatro patrones distintos que se observan también, con variaciones, en adultos.
 
-**Ejercicio inmediato:** Piensa en la persona más importante de tu vida actualmente. Cuando esa persona se aleja, aunque sea brevemente, que pasa en tu interior? Esa reacción es la primera pista de tu estilo de apego.
+**Ejercicio inmediato:** Piensa en la persona más importante de tu vida actualmente. ¿Cuando esa persona se aleja, aunque sea brevemente, que pasa en tu interior? Esa reacción es la primera pista de tu estilo de apego.
 
 El apego no es una teoria. Es lo que le pasa a tu sistema nervioso cuando alguien que te importa se va.
 
@@ -45,11 +45,11 @@ El apego no es una teoria. Es lo que le pasa a tu sistema nervioso cuando alguie
 
 Las personas con apego seguro no son personas sin problemas. Tienen conflictos, se llevan decepciones, cometen errores en sus relaciones. La diferencia esta en como gestionan esas dificultades: con más recursos, más calma y más confianza en que el problema tiene solución sin que la relación tenga que romperse.
 
-**El Principio de la Base Segura:** El apego seguro se desarrolla cuando el cuidador primario es suficientemente consistente, responsivo y emocionalmente disponible. No perfecto. Suficientemente bueno. El nino aprende que cuando necesita al cuidador, el cuidador estará ahí. Esa predicción interna, si el cuidador esta ahí cuando le necesito, se convierte en la base desde la que el adulto explora el mundo y las relaciones. Puede ir lejos porque sabe que puede volver.
+**El Principio de la Base Segura:** El apego seguro se desarrolla cuando el cuidador primario es suficientemente consistente, responsivo y emocionalmente disponible. No perfecto. Suficientemente bueno. El niño aprende que cuando necesita al cuidador, el cuidador estará ahí. Esa predicción interna, si el cuidador esta ahí cuando le necesito, se convierte en la base desde la que el adulto explora el mundo y las relaciones. Puede ir lejos porque sabe que puede volver.
 
 Solo el 55% de la población adulta tiene un estilo de apego seguro. El resto, el 45%, tiene algun tipo de apego inseguro. Eso significa que la mayoría de las relaciones adultas son interacciones entre personas con estrategias de apego inseguro, lo que explica buena parte de los conflictos cronicos de pareja.
 
-**Ejercicio inmediato:** Describe como sería para ti la relación de pareja ideal en terminos de cercania y distancia emocional. Cuanta presencia necesitas del otro? Cuanta independencia? Cuanta comunicación? Esa descripción es tu visión del apego. Comparala con tu patron real para ver la brecha.
+**Ejercicio inmediato:** Describe como sería para ti la relación de pareja ideal en terminos de cercania y distancia emocional. ¿Cuanta presencia necesitas del otro? ¿Cuanta independencia? Cuanta comunicación? Esa descripción es tu visión del apego. Comparala con tu patron real para ver la brecha.
 
 El apego seguro no es el fin de los problemas. Es la plataforma desde la que se resuelven.
 
@@ -63,7 +63,7 @@ Cada vez que la pareja de Ana tardaba en responder un mensaje, Ana sentía que a
 
 El problema en la vida adulta es que esa estrategia genera exactamente lo que más teme: el otro, ante la demanda constante de confirmación, tiende a alejarse. Y el alejamiento confirma el miedo al abandono. Un circulo vicioso perfecto.
 
-**Ejercicio inmediato:** Piensa en la última vez que sentiste ansiedad en una relación porque el otro no respondia o no estaba disponible. Que pensamiento automático tuviste sobre lo que eso significaba? Ahora preguntate: cual era la explicación alternativa más probable? Entrenar el pensamiento alternativo no elimina la ansiedad pero la reduce.
+**Ejercicio inmediato:** Piensa en la última vez que sentiste ansiedad en una relación porque el otro no respondia o no estaba disponible. ¿Que pensamiento automático tuviste sobre lo que eso significaba? Ahora preguntate: ¿cual era la explicación alternativa más probable? Entrenar el pensamiento alternativo no elimina la ansiedad pero la reduce.
 
 El miedo al abandono no viene del presente. Viene del pasado que el presente activa.
 
@@ -73,7 +73,7 @@ El miedo al abandono no viene del presente. Viene del pasado que el presente act
 
 Ruben valoraba su independencia por encima de todo. No necesitar a nadie le parecia una fortaleza. Cuando alguien se acercaba demasiado, sentía un impulso físico de retroceder. No lo entendia como miedo. Lo entendia como preferencia.
 
-**El Principio de la Desactivación del Sistema de Apego:** El apego evitativo se caracteriza por la desactivación del sistema de apego: la minimización de las necesidades de conexión y la supresión de las emociones relacionales como estrategia para no depender del otro. Esta estrategia fue adaptativa cuando el cuidador rechazaba o ignoraba las necesidades emocionales del nino: si pido conexión y me la niegan, aprendo a no pedirla.
+**El Principio de la Desactivación del Sistema de Apego:** El apego evitativo se caracteriza por la desactivación del sistema de apego: la minimización de las necesidades de conexión y la supresión de las emociones relacionales como estrategia para no depender del otro. Esta estrategia fue adaptativa cuando el cuidador rechazaba o ignoraba las necesidades emocionales del niño: si pido conexión y me la niegan, aprendo a no pedirla.
 
 El precio del apego evitativo es la soledad emocional. La persona funciona eficientemente en el mundo pero tiene dificultades para la intimidad real. Cuando alguien se acerca de verdad, el sistema de alarma se activa y la persona encuentra, consciente o inconscientemente, formas de crear distancia.
 
@@ -87,11 +87,11 @@ El apego evitativo no es falta de sentimientos. Es el aprendizaje de que expresa
 
 La madre de Carlos era la misma persona que a veces le daba el abrazo que necesitaba y que otras veces, sin previo aviso, explotaba o desaparecia emocionalmente. Carlos no podía predecir cual de las dos madres iba a aparecer. Aprendi a amar y a temer a la misma persona al mismo tiempo. De adulto, Carlos repite esa ecuación: siente que el amor implica necesariamente riesgo, que la cercania genera miedo y que el alejamiento genera vacio.
 
-**El Principio del Dilema sin Solución:** El apego desorganizado surge cuando la figura de apego es al mismo tiempo la fuente de amenaza y la fuente de seguridad. El nino esta en un dilema biológico sin solución: el instinto de apego le impulsa a buscar al cuidador cuando tiene miedo, pero ese mismo cuidador es la fuente del miedo. El resultado es un sistema de apego que no puede organizarse en ningún patron coherente.
+**El Principio del Dilema sin Solución:** El apego desorganizado surge cuando la figura de apego es al mismo tiempo la fuente de amenaza y la fuente de seguridad. El niño esta en un dilema biológico sin solución: el instinto de apego le impulsa a buscar al cuidador cuando tiene miedo, pero ese mismo cuidador es la fuente del miedo. El resultado es un sistema de apego que no puede organizarse en ningún patron coherente.
 
 Es el estilo de apego más difícil de trabajar y el que correlaciona más fuertemente con relaciones disfuncionales en la vida adulta. Pero también es modificable con trabajo terapeutico específico.
 
-**Ejercicio inmediato:** Piensa en una relación en que hayas sentido que querer al otro implicaba un riesgo que no sabías gestionar. Que riesgo era ese? Esa respuesta puede estar apuntando a la raiz del apego desorganizado.
+**Ejercicio inmediato:** Piensa en una relación en que hayas sentido que querer al otro implicaba un riesgo que no sabías gestionar. ¿Que riesgo era ese? Esa respuesta puede estar apuntando a la raiz del apego desorganizado.
 
 Cuando el amor da miedo, el miedo no es al amor. Es al dolor que el amor históricamente ha traido.
 
@@ -105,7 +105,7 @@ La combinación más común y más conflictiva en pareja es la del ansioso con e
 
 Amir Levine y Rachel Heller, autores del libro Maneras de Amar, documentaron que la mayoría de las personas con apego ansioso terminan en relaciones con personas de apego evitativo. No por azar. Por el atractivo de lo que complementa la herida, aunque no la cure.
 
-**Ejercicio inmediato:** Piensa en tu relación de pareja actual o la más reciente. Cual era tu estilo de apego y cual crees que era el del otro? Que danza creaban juntos? Describir la danza desde fuera produce una claridad que desde dentro es imposible.
+**Ejercicio inmediato:** Piensa en tu relación de pareja actual o la más reciente. ¿Cual era tu estilo de apego y cual crees que era el del otro? ¿Que danza creaban juntos? Describir la danza desde fuera produce una claridad que desde dentro es imposible.
 
 La danza se repite porque cada paso activa el siguiente. Conocerla es el primer paso para cambiar la coreografia.
 
@@ -119,7 +119,7 @@ El apego no se activa solo en el amor romantico. Se activa en cualquier relació
 
 Las investigaciones de Phil Shaver sobre el apego en el lugar de trabajo muestran que las personas con apego seguro tienen mayor satisfacción laboral, mejores relaciones con colegas y jefes, y mejor rendimiento que las personas con apego inseguro, independientemente de sus capacidades técnicas.
 
-**Ejercicio inmediato:** Piensa en tu relación con tu jefe actual o el más reciente. Que patron de apego reconoces en ti mismo en esa relación? Cómo se diferencia o se parece al que tienes en tus relaciones romanticas? Las similitudes revelan el estilo subyacente.
+**Ejercicio inmediato:** Piensa en tu relación con tu jefe actual o el más reciente. ¿Que patron de apego reconoces en ti mismo en esa relación? ¿Cómo se diferencia o se parece al que tienes en tus relaciones romanticas? Las similitudes revelan el estilo subyacente.
 
 El apego no distingue entre amor y trabajo. El sistema es el mismo. Los activadores cambian.
 
@@ -141,13 +141,13 @@ El estilo de apego que dificilmente te ves a ti mismo, el otro lo ve con clarida
 
 ## Capítulo 9: Cambiar hacía un apego más seguro
 
-La pregunta que más hacen las personas cuando aprenden sobre estilos de apego es: se puede cambiar? La respuesta es si, con matices. El estilo de apego original no desaparece. Pero se puede modificar de forma significativa con tres ingredientes: relaciones que ofrezcan experiencias correctoras, trabajo terapeutico específico y práctica deliberada de conductas asociadas al apego seguro.
+La pregunta que más hacen las personas cuando aprenden sobre estilos de apego es: ¿se puede cambiar? La respuesta es si, con matices. El estilo de apego original no desaparece. Pero se puede modificar de forma significativa con tres ingredientes: relaciones que ofrezcan experiencias correctoras, trabajo terapeutico específico y práctica deliberada de conductas asociadas al apego seguro.
 
 **El Principio de la Seguridad Adquirida:** Los investigadores llaman apego ganado o apego seguro adquirido al proceso mediante el cual una persona con apego inseguro desarrolla, a lo largo del tiempo, capacidades propias del apego seguro. Esto puede ocurrir a traves de la terapia, de relaciones de pareja o amistad suficientemente seguras y consistentes, o de ambas cosas juntas.
 
 Mario Mikulincer y Phillip Shaver han documentado que simplemente imaginar a una figura de apego seguro, aunque sea imaginaria, activa temporalmente los circuitos del apego seguro y mejora la regulación emocional. El apego seguro puede ser una práctica antes de ser un estado.
 
-**Ejercicio inmediato:** Identifica a alguien en tu vida que represente para ti la figura de apego más segura que hayas tenido o tengas. Puede ser una persona real o una figura imaginaria o histórica. Cuando te enfrentes a una situación de estres relacional, preguntate: que haría esta persona? Como me veria esta persona? Esa pregunta activa el sistema de apego seguro internamente.
+**Ejercicio inmediato:** Identifica a alguien en tu vida que represente para ti la figura de apego más segura que hayas tenido o tengas. Puede ser una persona real o una figura imaginaria o histórica. Cuando te enfrentes a una situación de estres relacional, preguntate: ¿que haría esta persona? ¿Como me veria esta persona? Esa pregunta activa el sistema de apego seguro internamente.
 
 El apego seguro no se hereda. Se puede construir.
 
@@ -159,9 +159,9 @@ La historia de Maria es la que más esperanza da en este campo. Tenia un apego a
 
 **El Principio de la Transformación Posible:** El apego ganado no significa haber tenido una infancia segura. Significa haber construido, a traves del trabajo propio y de relaciones suficientemente buenas, la capacidad de relacionarse desde un lugar más seguro. Los estudios longitudinales de apego muestran que entre el 25% y el 40% de los adultos cambian de categori de apego a lo largo de su vida, generalmente hacía mayor seguridad.
 
-Las relaciones con personas de apego seguro son particularmente potentes como agentes de cambio. La consistencia, la responsividad y la honestidad de una persona con apego seguro ofrece al otro una experiencia relacional correctora que va reescribiendo el modeló interno de relación.
+Las relaciones con personas de apego seguro son particularmente potentes como agentes de cambio. La consistencia, la responsividad y la honestidad de una persona con apego seguro ofrece al otro una experiencia relacional correctora que va reescribiendo el modelo interno de relación.
 
-**Ejercicio inmediato:** Escribe una carta a la versión futura de ti mismo con apego más seguro. Que tienes que hacer en los próximos doce meses para acercarte a esa versión? Que relaciones necesitas cultivar? Que patrones necesitas interrumpir? La carta concreta convierte el deseo vago en un plan.
+**Ejercicio inmediato:** Escribe una carta a la versión futura de ti mismo con apego más seguro. ¿Que tienes que hacer en los próximos doce meses para acercarte a esa versión? ¿Que relaciones necesitas cultivar? Que patrones necesitas interrumpir? La carta concreta convierte el deseo vago en un plan.
 
 El apego ganado es posible. No es rápido. No es facil. Es posible.
 

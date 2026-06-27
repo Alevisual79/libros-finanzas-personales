@@ -29,9 +29,9 @@ Chapman identifico cinco formas principales en que las personas expresan y perci
 
 **El Principio del Lenguaje Principal:** El lenguaje del amor principal no es una preferencia superficial. Corresponde a la forma en que la persona procesa el afecto a nivel emocional profundo. Cuando el otro habla el lenguaje equivocado, aunque lo haga con toda la intención del mundo, el mensaje de amor no llega. No porque no se enviara sino porque el receptor no esta equipado para recibirlo en ese canal.
 
-Chapman desarrollo el modeló a partir de su trabajo con cientos de parejas. Descubrio que la mayoría de los conflictos que presentaban como falta de amor eran en realidad conflictos de idioma: uno decía te quiero con palabras mientras el otro esperaba actos. Uno decía te quiero con regalos mientras el otro esperaba tiempo.
+Chapman desarrollo el modelo a partir de su trabajo con cientos de parejas. Descubrio que la mayoría de los conflictos que presentaban como falta de amor eran en realidad conflictos de idioma: uno decía te quiero con palabras mientras el otro esperaba actos. Uno decía te quiero con regalos mientras el otro esperaba tiempo.
 
-**Ejercicio inmediato:** Piensa en la última semana. Que hiciste para mostrar afecto a las personas que más te importan? Ahora preguntate: eso es lo que yo necesito recibir, o lo que el otro necesita? La diferencia entre las dos respuestas es tu punto de partida.
+**Ejercicio inmediato:** Piensa en la última semana. ¿Que hiciste para mostrar afecto a las personas que más te importan? Ahora preguntate: ¿eso es lo que yo necesito recibir, o lo que el otro necesita? La diferencia entre las dos respuestas es tu punto de partida.
 
 El amor que no se expresa en el idioma del otro llega como ruido de fondo. No como amor.
 
@@ -127,11 +127,11 @@ No tienes que esperar a que el otro adivine lo que necesitas. Puedes decirle com
 
 Conocer el propio lenguaje del amor es la mitad. La otra mitad es descubrir el lenguaje del otro, que a veces es diferente del tuyo.
 
-**El Principio de la Observación y la Pregunta:** El lenguaje del amor del otro se puede descubrir de dos formas: observar como expresa el amor (las personas dan en su propio idioma) y preguntar directamente (que es lo que más te hace sentir querido o valorado en esta relación?). La segunda via es más eficaz y más rápida, aunque requiere la incomodidad de una conversación directa sobre una pregunta que pocas personas han pensado.
+**El Principio de la Observación y la Pregunta:** El lenguaje del amor del otro se puede descubrir de dos formas: ¿observar como expresa el amor (las personas dan en su propio idioma) y preguntar directamente (que es lo que más te hace sentir querido o valorado en esta relación?). La segunda via es más eficaz y más rápida, aunque requiere la incomodidad de una conversación directa sobre una pregunta que pocas personas han pensado.
 
 Otra señal: observar de que se queja el otro. Las quejas relacionales suelen ser peticiones del lenguaje que falta. Nunca hablamos de verdad puede ser que necesita tiempo de calidad. No me valoras lo que hago puede ser actos de servicio. No me dices nunca que me quieres puede ser palabras de afirmación.
 
-**Ejercicio inmediato:** Identifica a la persona más importante en tu vida. Observa: como te expresa su afecto? De que se queja más frecuentemente? Si pudieras, preguntale directamente: que es lo que más te hace sentir querido por mi? La respuesta que da es la información más directa sobre su lenguaje.
+**Ejercicio inmediato:** Identifica a la persona más importante en tu vida. Observa: ¿como te expresa su afecto? ¿De que se queja más frecuentemente? Si pudieras, preguntale directamente: ¿que es lo que más te hace sentir querido por mi? La respuesta que da es la información más directa sobre su lenguaje.
 
 La queja más frecuente del otro es la petición del amor que necesita y que no esta recibiendo.
 

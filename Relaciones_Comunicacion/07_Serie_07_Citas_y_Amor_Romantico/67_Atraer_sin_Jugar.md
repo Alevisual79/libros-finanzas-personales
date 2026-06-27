@@ -121,7 +121,7 @@ La escasez (no estar siempre disponible, tener una vida propia ocupada) puede ge
 
 **El Principio de la Distinción entre Realidad y Tactica:** La escasez genuina (tener proyectos, amistades y una vida propia que limita naturalmente la disponibilidad) comunica autenticamente que la persona tiene una vida plena independiente de la conexión romantica en cuestion. La escasez artificial (fingir estar ocupado, tardar deliberadamente en responder como tactica calculada) es manipulación que, descubierta, daña significativamente la confianza en la relación.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propia disponibilidad en conexiones romanticas actuales: refleja genuinamente tu vida real, o estas fabricando artificialmente una escasez calculada para generar un efecto específico?
+**Ejercicio inmediato:** Reflexiona sobre tu propia disponibilidad en conexiones romanticas actuales: ¿refleja genuinamente tu vida real, o estas fabricando artificialmente una escasez calculada para generar un efecto específico?
 
 La escasez real es simplemente tener una vida propia. La escasez fabricada es manipulación que, tarde o temprano, se descubre.
 

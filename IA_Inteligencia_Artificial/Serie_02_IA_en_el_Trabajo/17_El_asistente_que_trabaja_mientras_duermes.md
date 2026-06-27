@@ -41,7 +41,7 @@ La diferencia es el nivel de autonomía y la dimensión temporal.
 
 Los agentes de IA combinan varios componentes:
 
-**Un modeló de razonamiento:** El LLM que planifica, decide y procesa.
+**Un modelo de razonamiento:** El LLM que planifica, decide y procesa.
 
 **Herramientas:** Capacidades que el agente puede usar para actuar en el mundo: buscar en internet, leer y escribir archivos, ejecutar código, llamar a APIs, enviar emails.
 
@@ -133,7 +133,7 @@ Los agentes son poderosos pero tienen limitaciones importantes que es fundamenta
 
 **Costes acumulativos:** Los agentes que usan APIs de LLMs generan costes por cada ejecución. Los flujos complejos pueden resultar sorprendentemente caros.
 
-**Límites de contexto:** Los agentes con mucha memoria o que procesan muchos documentos pueden llegar a los límites del contexto del modeló.
+**Límites de contexto:** Los agentes con mucha memoria o que procesan muchos documentos pueden llegar a los límites del contexto del modelo.
 
 ---
 

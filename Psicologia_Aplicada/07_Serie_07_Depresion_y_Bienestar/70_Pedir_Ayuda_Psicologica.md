@@ -27,7 +27,7 @@ El estigma de la salud mental opera principalmente dentro de uno mismo, no solo 
 
 Las creencias más comunes del autoestigma incluyen: las personas que necesitan psicologo son debiles (o locas), si pido ayuda es que no puedo con mi vida, lo que me pasa no es suficientemente grave para justificar una consulta, y debería poder resolverlo solo. Estas creencias no tienen soporte empirico (la ayuda psicológica es utilizada por personas de todos los niveles de funcionamiento y es una herramienta, no un signo de debilidad) pero son muy persistentes.
 
-**Ejercicio inmediato:** Identifica las creencias específicas de autoestigma que tienes sobre pedir ayuda psicológica. Para cada una, aplica el mismo examen de evidencia que aplicarias a cualquier otra creencia: que evidencia la apoya? Es consistente con lo que sabes sobre las personas que han pedido ayuda? La mayoría de esas creencias no sobreviven el examen de evidencia.
+**Ejercicio inmediato:** Identifica las creencias específicas de autoestigma que tienes sobre pedir ayuda psicológica. Para cada una, aplica el mismo examen de evidencia que aplicarias a cualquier otra creencia: ¿que evidencia la apoya? ¿Es consistente con lo que sabes sobre las personas que han pedido ayuda? La mayoría de esas creencias no sobreviven el examen de evidencia.
 
 Las personas que piden ayuda psicológica no son las más debiles. Son las que tienen suficiente inteligencia y coraje para usar los recursos disponibles.
 
@@ -55,7 +55,7 @@ Ruben tiene miedo de lo que podría descubrir en terapia. Eso lo ha mantenido fu
 
 La investigación de Jonathan Shedler sobre los efectos de la psicoterapia muestra que el conocimiento que produce la terapia frecuentemente no es más doloroso que la ignorancia: muchas personas describen el proceso de terapia como liberador en lugar de destructivo, porque el conocimiento de los propios patrones produce agencia (puedo hacer algo con esto) en lugar de impotencia.
 
-**Ejercicio inmediato:** Explicita el miedo que tienes sobre lo que podrías descubrir en terapia. Escribe la peor versión de lo que podría revelarse. Luego reflexiona: si eso fuera verdad, como te ayudaria no saberlo? La respuesta habitual es que no te ayudaria en absoluto. Y si es verdad, saberlo te da la posibilidad de hacer algo al respecto.
+**Ejercicio inmediato:** Explicita el miedo que tienes sobre lo que podrías descubrir en terapia. Escribe la peor versión de lo que podría revelarse. Luego reflexiona: ¿si eso fuera verdad, como te ayudaria no saberlo? La respuesta habitual es que no te ayudaria en absoluto. Y si es verdad, saberlo te da la posibilidad de hacer algo al respecto.
 
 Lo que sabes de ti mismo puedes trabajarlo. Lo que no sabes te trabaja a ti.
 
@@ -65,9 +65,9 @@ Lo que sabes de ti mismo puedes trabajarlo. Lo que no sabes te trabaja a ti.
 
 Isabel no sabe como elegir un psicologo y esa incertidumbre ha retrasado el proceso durante meses.
 
-**El Principio de la Alianza Terapeutica como el Predictor más Robusto del éxito de la Psicoterapia:** La investigación de Bruce Wampold y colegas sobre los factores curativos en la psicoterapia muestra que el factor que más predice el éxito (más que el modeló terapeutico específico) es la calidad de la alianza terapeutica: la relación de confianza, colaboración, y acuerdo sobre los objetivos entre el terapeuta y el cliente.
+**El Principio de la Alianza Terapeutica como el Predictor más Robusto del éxito de la Psicoterapia:** La investigación de Bruce Wampold y colegas sobre los factores curativos en la psicoterapia muestra que el factor que más predice el éxito (más que el modelo terapeutico específico) es la calidad de la alianza terapeutica: la relación de confianza, colaboración, y acuerdo sobre los objetivos entre el terapeuta y el cliente.
 
-Esto significa que el criterio más importante para elegir un psicologo no es solo su formación o su modeló terapeutico sino la calidad de la relación que se establece. La recomendación práctica: en las primeras sesiones, evalua si te sientes comprendido (el terapeuta entiende lo que describes), si sientes confianza (puedes decir cosas difíciles sin temer el juicio), y si la orientación del trabajo tiene sentido para ti (entiendes lo que se esta haciendo y por qué). Si alguno de esos elementos falta después de tres o cuatro sesiones, considera cambiar de psicologo.
+Esto significa que el criterio más importante para elegir un psicologo no es solo su formación o su modelo terapeutico sino la calidad de la relación que se establece. La recomendación práctica: en las primeras sesiones, evalua si te sientes comprendido (el terapeuta entiende lo que describes), si sientes confianza (puedes decir cosas difíciles sin temer el juicio), y si la orientación del trabajo tiene sentido para ti (entiendes lo que se esta haciendo y por qué). Si alguno de esos elementos falta después de tres o cuatro sesiones, considera cambiar de psicologo.
 
 **Ejercicio inmediato:** Si estas buscando psicologo, los criterios de busqueda más útiles son: formación específica en el área que te concierne (depresión, ansiedad, trauma, relaciones), modeló terapeutico con evidencia para tu problema (TCC para ansiedad y depresión, EMDR para trauma, TCC-I para insomnio, TFE para problemas de relación), y disponibilidad para explicar su enfoque. Los portales de busqueda de psicologos (como PsicoPedia o la web del Colegio de Psicologos) filtran por especialidad y ubicación.
 
@@ -83,7 +83,7 @@ Ruben tiene la primera sesión concertada para la semana siguiente y no sabe que
 
 En la primera sesión, el psicologo preguntara sobre el motivo de consulta (que te ha traido aquí hoy?), la historia del problema (desde cuando, como ha evolucionado, que lo mejora o empeora), y el contexto de vida (trabajo, relaciones, historia personal relevante). No es necesario tener todo perfectamente ordenado: el psicologo esta acostumbrado a trabajar con información incompleta y desordenada.
 
-**Ejercicio inmediato:** Antes de la primera sesión, reflexiona sobre tres preguntas: que es lo que más quieres que cambie? Desde cuando llevas con este problema? Que has intentado hasta ahora para manejarlo? No para tener respuestas perfectas sino para entrar con algo de claridad sobre lo que quieres del proceso.
+**Ejercicio inmediato:** Antes de la primera sesión, reflexiona sobre tres preguntas: ¿que es lo que más quieres que cambie? ¿Desde cuando llevas con este problema? Que has intentado hasta ahora para manejarlo? No para tener respuestas perfectas sino para entrar con algo de claridad sobre lo que quieres del proceso.
 
 La primera sesión no tiene que ser perfecta. Tiene que ser suficientemente honesta como para que el proceso pueda empezar.
 
@@ -95,7 +95,7 @@ Elena lleva seis sesiones en terapia y no nota avance. Se pregunta si debería c
 
 **El Principio de la Evaluación Regular del Progreso como práctica Terapeutica Recomendada:** La investigación de Scott Miller y colegas sobre la efectividad de la psicoterapia muestra que los terapeutas que monitoritan regularmente el progreso con medidas estandarizadas y que ajustan su enfoque cuando el progreso es insuficiente producen significativamente mejores resultados que los que no lo hacen.
 
-La comunicación sobre el progreso (o la falta de el) es una responsabilidad compartida del terapeuta y el cliente. Si después de seis a ocho sesiones no se nota ningún avance, es apropiado plantearlo directamente al terapeuta: noto que no estoy avanzando. Podemos hablar sobre si el enfoque actual es el más adecuado para mi situación? Un buen terapeuta recibira esa pregunta como información útil y no cómo una crítica personal.
+La comunicación sobre el progreso (o la falta de el) es una responsabilidad compartida del terapeuta y el cliente. Si después de seis a ocho sesiones no se nota ningún avance, es apropiado plantearlo directamente al terapeuta: ¿noto que no estoy avanzando. Podemos hablar sobre si el enfoque actual es el más adecuado para mi situación? Un buen terapeuta recibira esa pregunta como información útil y no cómo una crítica personal.
 
 **Ejercicio inmediato:** Si llevas en terapia sin sentir progreso y no has hablado sobre ello, plantealo en la próxima sesión. La frase puede ser: quiero hablar sobre como estoy evolucionando porque no tengo la claridad de si estamos avanzando en lo que más me preocupa. Esa conversación puede reorientar el trabajo o confirmar que el progreso es más lento de lo que esperas pero esta ocurriendo.
 
@@ -125,7 +125,7 @@ Isabel lleva tres meses en psicoterapia con una mejoria parcial. Su psicologa le
 
 La evaluación psiquiatrica no implica automáticamente medicación: es una evaluación especializada que puede concluir que la farmacoterapia no es necesaria en ese momento, o puede identificar indicaciones específicas donde la medicación sería útil como complemento a la psicoterapia.
 
-**Ejercicio inmediato:** Si tu psicologo ha sugerido una evaluación psiquiatrica y tienes resistencias, explicitalas con tu psicologo: cuales son tus miedos específicos sobre la medicación? Cuales son las preguntas que tendrías para el psiquiatra? Esa conversación puede aclarar lo que la evaluación puede y no puede implicar.
+**Ejercicio inmediato:** Si tu psicologo ha sugerido una evaluación psiquiatrica y tienes resistencias, explicitalas con tu psicologo: ¿cuales son tus miedos específicos sobre la medicación? ¿Cuales son las preguntas que tendrías para el psiquiatra? Esa conversación puede aclarar lo que la evaluación puede y no puede implicar.
 
 El psiquiatra que te evalua no te receta automáticamente. Te evalua para ver si la farmacoterapia es parte de la solución optima para tu situación específica.
 
@@ -139,7 +139,7 @@ Ruben ha postergado la psicoterapia en parte por el costo económico. El cálcul
 
 El cálculo del costo real de no tratar la depresión o la ansiedad incluye: el costo económico del rendimiento reducido en el trabajo (presentismo), el costo de las estrategias de afrontamiento disfuncionales (alcohol, consumo excesivo), el costo médico de los sintomas somaticos que la salud mental no tratada produce, y el costo de calidad de vida que es más difícil de cuantificar pero no menos real.
 
-**Ejercicio inmediato:** Haz el cálculo completo del costo de no tratar lo que tienes: cuanto cuesta en rendimiento laboral reducido? En estrategias de afrontamiento que tienen su propio costo? En calidad de vida reducida? Comparado con ese cálculo, el costo de la psicoterapia frecuentemente parece diferente.
+**Ejercicio inmediato:** Haz el cálculo completo del costo de no tratar lo que tienes: ¿cuanto cuesta en rendimiento laboral reducido? ¿En estrategias de afrontamiento que tienen su propio costo? En calidad de vida reducida? Comparado con ese cálculo, el costo de la psicoterapia frecuentemente parece diferente.
 
 El costo de no tratar lo que tienes no aparece en ninguna factura. Pero lo estas pagando de todas formas.
 

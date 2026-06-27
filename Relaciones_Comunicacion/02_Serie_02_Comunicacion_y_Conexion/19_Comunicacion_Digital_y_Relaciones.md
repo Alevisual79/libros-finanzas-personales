@@ -31,7 +31,7 @@ Cuando Ruben le manda un mensaje a su amigo voy bien, gracias!, su amigo recibe 
 
 Para conversaciones de coordinación (a que hora quedamos, has visto el informe, te mando el documento), el texto es perfecto. Para conversaciones que importan emocionalmente, el texto empobrece el mensaje hasta hacerlo meconible. La misma frase en texto y en persona puede comunicar cosas completamente diferentes.
 
-**Ejercicio inmediato:** Identifica una conversación importante que hayas tenido por texto en el último mes que hubiera sido mejor en persona o por teléfono. Que se perdio en el canal de texto? Que malentendidos ocurrieron que no hubieran ocurrido en persona? Ese ejercicio de retrospección calibra la elección del canal en futuras conversaciones.
+**Ejercicio inmediato:** Identifica una conversación importante que hayas tenido por texto en el último mes que hubiera sido mejor en persona o por teléfono. ¿Que se perdio en el canal de texto? ¿Que malentendidos ocurrieron que no hubieran ocurrido en persona? Ese ejercicio de retrospección calibra la elección del canal en futuras conversaciones.
 
 El canal que eliges no es solo una decisión de conveniencia. Es una decisión sobre cuanta riqueza puede tener la conversación.
 
@@ -45,7 +45,7 @@ El texto tiene problemas específicos que lo hacen peligroso para las conversaci
 
 Las investigaciones de Kristin Byron muestran que los receptores de comunicación escrita tienden a interpretar los mensajes de forma más negativa que la intención del emisor, especialmente en contextos de tensión previa o incertidumbre sobre el estado de la relación.
 
-**Ejercicio inmediato:** Revisa los últimos diez mensajes que has enviado por texto. Cuantos podrían ser malinterpretados en tono? Cuantos comunicaban algo que hubiera llegado mejor en otro canal? Esa revisión informa las elecciones de canal en las próximas conversaciones.
+**Ejercicio inmediato:** Revisa los últimos diez mensajes que has enviado por texto. ¿Cuantos podrían ser malinterpretados en tono? ¿Cuantos comunicaban algo que hubiera llegado mejor en otro canal? Esa revisión informa las elecciones de canal en las próximas conversaciones.
 
 El texto dice lo que escribiste. No siempre comunica lo que quisiste decir.
 
@@ -73,7 +73,7 @@ La videollamada es mejor que el texto y que el teléfono para conversaciones con
 
 Para conversaciones de coordinación, actualización y trabajo colaborativo, la videollamada es excelente. Para conversaciones de intimidad alta, apoyo emocional profundo o reparación relacional, la presencia física tiene un poder que la videollamada no puede igualar.
 
-**Ejercicio inmediato:** Identifica la relación más importante de tu vida a la que más tiempo te comunicas por digital. Cuando fue la última vez que estuvisteis en el mismo espacio físico? Si la respuesta es hace más de un mes, eso es información sobre la inversión en esa relación. La próxima semana, propone un encuentro presencial.
+**Ejercicio inmediato:** Identifica la relación más importante de tu vida a la que más tiempo te comunicas por digital. ¿Cuando fue la última vez que estuvisteis en el mismo espacio físico? Si la respuesta es hace más de un mes, eso es información sobre la inversión en esa relación. La próxima semana, propone un encuentro presencial.
 
 La pantalla conecta. La presencia une.
 
@@ -113,9 +113,9 @@ Hay conversaciones que ocurren por texto aunque no deberían. Y hay conversacion
 
 **El Principio de la Complejidad Emocional como Criterio:** La regla general: cuanto mayor es la complejidad emocional de una conversación, más canal rico necesita. Las conversaciones de bajo contenido emocional (coordinación, información, logistica) funcionan perfectamente por texto. Las conversaciones de alta complejidad emocional (conflictos, confesiones, apoyo en crisis, rupturas) requieren la mayor riqueza posible.
 
-Cuando una conversación con alta complejidad emocional tiene que ocurrir por texto por razones de distancia o circunstancia, hay prácticas que reducen el riesgo: escribir con más cuidado del habitual, evitar la ironia y el sarcasmo que no se pueden leer en el texto, ser explícito sobre el tono que se quiere comunicar (te escribo esto con mucho carino), y confirmar que el mensaje llegó cómo se pretendia (como te ha llegado esto?).
+Cuando una conversación con alta complejidad emocional tiene que ocurrir por texto por razones de distancia o circunstancia, hay prácticas que reducen el riesgo: ¿escribir con más cuidado del habitual, evitar la ironia y el sarcasmo que no se pueden leer en el texto, ser explícito sobre el tono que se quiere comunicar (te escribo esto con mucho carino), y confirmar que el mensaje llegó cómo se pretendia (como te ha llegado esto?).
 
-**Ejercicio inmediato:** Antes de enviar el próximo mensaje importante por texto, preguntate: si esta persona respondiera lo que escribo con el tono más negativo posible, cómo se leeria? Si la respuesta es mal, considera si el canal es el adecuado o si necesitas reformular el mensaje de forma más explicitamente amable.
+**Ejercicio inmediato:** Antes de enviar el próximo mensaje importante por texto, preguntate: ¿si esta persona respondiera lo que escribo con el tono más negativo posible, cómo se leeria? Si la respuesta es mal, considera si el canal es el adecuado o si necesitas reformular el mensaje de forma más explicitamente amable.
 
 El texto que podría leerse de la peor forma posible, probablemente se leera de la peor forma posible.
 

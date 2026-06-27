@@ -97,7 +97,7 @@ La tienda de GPTs de OpenAI tiene miles de GPTs creados por usuarios para casos 
 
 **La iteración:** La primera respuesta raramente es la final. Iterar —"hazlo más conciso", "añade más datos", "cambia el tono"— produce resultados significativamente mejores.
 
-**El contexto:** Cuanto más contexto relevante proporciones, mejor el output. No asumas que el modeló sabe cosas que no le has dicho.
+**El contexto:** Cuanto más contexto relevante proporciones, mejor el output. No asumas que el modelo sabe cosas que no le has dicho.
 
 ---
 
@@ -105,9 +105,9 @@ La tienda de GPTs de OpenAI tiene miles de GPTs creados por usuarios para casos 
 
 **Alucinaciones:** ChatGPT puede producir afirmaciones falsas con aparente seguridad. Siempre verifica hechos, datos, citas y referencias.
 
-**Fecha de corte:** El conocimiento del modeló tiene una fecha de corte. No tiene información sobre eventos recientes. La navegación web puede mitigar esto parcialmente.
+**Fecha de corte:** El conocimiento del modelo tiene una fecha de corte. No tiene información sobre eventos recientes. La navegación web puede mitigar esto parcialmente.
 
-**Ventana de contexto:** La conversación tiene un límite de longitud. En conversaciones muy largas, el modeló puede "olvidar" el principio.
+**Ventana de contexto:** La conversación tiene un límite de longitud. En conversaciones muy largas, el modelo puede "olvidar" el principio.
 
 **Capacidades de razonamiento:** GPT-4o es excelente en muchas tareas pero tiene limitaciones en razonamiento matemático complejo, lógica formal y problemas que requieren manipulación precisa de símbolos.
 
@@ -119,7 +119,7 @@ La tienda de GPTs de OpenAI tiene miles de GPTs creados por usuarios para casos 
 
 Para Rubén, ChatGPT transformó la escritura profesional:
 
-**Propuestas:** Proporciona el contexto del cliente, los objetivos, los servicios ofrecidos y el presupuesto aproximado. El modeló genera la estructura y el primer borrador. Rubén revisa, personaliza y ajusta el tono.
+**Propuestas:** Proporciona el contexto del cliente, los objetivos, los servicios ofrecidos y el presupuesto aproximado. El modelo genera la estructura y el primer borrador. Rubén revisa, personaliza y ajusta el tono.
 
 **Emails difíciles:** "Necesito rechazar una propuesta de colaboración de un excliente sin quemar la relación. El contexto es [contexto]. El email debe ser [tono]. Escríbeme opciones."
 
@@ -127,7 +127,7 @@ Para Rubén, ChatGPT transformó la escritura profesional:
 
 **Briefings:** "Basándote en esta información de proyecto, genera un briefing de dos páginas para presentar a mi equipo."
 
-En cada caso, ChatGPT genera la masa; Rubén aporta el criterio, la personalización y el conocimiento contextual que el modeló no tiene.
+En cada caso, ChatGPT genera la masa; Rubén aporta el criterio, la personalización y el conocimiento contextual que el modelo no tiene.
 
 ---
 
@@ -135,11 +135,11 @@ En cada caso, ChatGPT genera la masa; Rubén aporta el criterio, la personalizac
 
 Para Elena, las capacidades de análisis y código son las más valiosas:
 
-**Depuración:** Pegar el código con error y el mensaje de error. El modeló identifica el problema y propone la solución. Funciona en docenas de lenguajes.
+**Depuración:** Pegar el código con error y el mensaje de error. El modelo identifica el problema y propone la solución. Funciona en docenas de lenguajes.
 
 **Generación de código:** "Escríbeme una función en Python que tome un CSV con estas columnas y produzca este output." Para código de integración, scripts de procesamiento y utilidades: enorme ahorro de tiempo.
 
-**Análisis de datos:** Con Advanced Data Analysis, cargar un CSV y hacer preguntas en lenguaje natural. El modeló ejecuta código Python real para responder.
+**Análisis de datos:** Con Advanced Data Analysis, cargar un CSV y hacer preguntas en lenguaje natural. El modelo ejecuta código Python real para responder.
 
 **Documentación:** "Genera documentación para este código." "Explica qué hace esta función." Para equipos donde la documentación suele quedarse atrasada.
 
@@ -155,9 +155,9 @@ El mayor error con ChatGPT es usarlo de forma ad hoc. El mayor valor viene de in
 
 **Reuniones:** Antes de reuniones importantes, pedir ayuda para preparar preguntas, anticipar objeciones o estructurar la presentación.
 
-**Bloqueos creativos:** Cuando no sabes cómo empezar un documento, dar el contexto al modeló y pedir un punto de partida.
+**Bloqueos creativos:** Cuando no sabes cómo empezar un documento, dar el contexto al modelo y pedir un punto de partida.
 
-**Revisión de borradores:** Antes de enviar cualquier documento importante, pedir al modeló que lo revise con criterios específicos.
+**Revisión de borradores:** Antes de enviar cualquier documento importante, pedir al modelo que lo revise con criterios específicos.
 
 **Aprendizaje rápido:** Antes de una reunión sobre un tema que no dominas, pedir una explicación de los conceptos clave en lenguaje accesible.
 
