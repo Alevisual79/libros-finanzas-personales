@@ -1,7 +1,7 @@
 # El Rol de las Historias que nos Contamos
 ## Como la narrativa personal determina tu vida
 
-**Serie 06: Habitos Mentales y Creencias — Libro 9 de 10**
+**Serie 06: Hábitos Mentales y Creencias — Libro 9 de 10**
 
 ---
 
@@ -121,7 +121,7 @@ La historia de quien quieres ser es tan importante cómo la historia de quien er
 
 Ruben ha empezado a entender que sus dificultades para cambiar no son falta de voluntad. Son la coherencia del sistema con la narrativa de identidad que tiene.
 
-**El Principio de la Identidad Narrativa como Regulador del Comportamiento:** James Clear, en Atomicos Habitos, propone que el cambio de comportamiento más duradero ocurre cuando se cambia la narrativa de identidad: en lugar de yo quiero dejar de fumar (orientación al resultado), yo soy una persona que no fuma (orientación a la identidad). El comportamiento coherente con la identidad narrativa es el que se mantiene sin esfuerzo.
+**El Principio de la Identidad Narrativa como Regulador del Comportamiento:** James Clear, en Atomicos Hábitos, propone que el cambio de comportamiento más duradero ocurre cuando se cambia la narrativa de identidad: en lugar de yo quiero dejar de fumar (orientación al resultado), yo soy una persona que no fuma (orientación a la identidad). El comportamiento coherente con la identidad narrativa es el que se mantiene sin esfuerzo.
 
 Dan McAdams propone que la narrativa de identidad es la forma en que el yo regula el comportamiento: las acciones coherentes con quien se cree ser no requieren decisión deliberada. Las incoherentes producen tensión narrativa que se resuelve o cambiando el comportamiento o ajustando la narrativa.
 
@@ -165,7 +165,7 @@ Isabel escribió su historia una tarde de noviembre. Le llevo dos horas. Cuando 
 
 ---
 
-*Libro 59 de la colección psicología Aplicada, Libro 9 de 10 de Serie 06: Habitos Mentales y Creencias.*
+*Libro 59 de la colección psicología Aplicada, Libro 9 de 10 de Serie 06: Hábitos Mentales y Creencias.*
 
 ---
 

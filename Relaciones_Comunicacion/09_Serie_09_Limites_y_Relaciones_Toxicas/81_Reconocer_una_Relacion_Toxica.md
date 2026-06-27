@@ -109,9 +109,9 @@ Las dinámicas toxicas en el entorno laboral, ya sea con superiores, colegas o s
 
 **El Principio del Reconocimiento a pesar de la Dependencia Estructural:** Las relaciones laborales toxicas frecuentemente se toleran más tiempo de lo conveniente debido a la dependencia económica y a las complejidades prácticas de cambiar de trabajo, lo cual no significa que el reconocimiento honesto del patron toxico sea menos importante, incluso si la respuesta inmediata (salir del trabajo) no sea siempre inmediatamente posible.
 
-**Ejercicio inmediato:** Si experimentas una dinámica laboral que sospechas es toxica, aplica los mismos criterios de reconocimiento discutidos en este libro, independientemente de si la salida inmediata es practicamente posible en este momento.
+**Ejercicio inmediato:** Si experimentas una dinámica laboral que sospechas es toxica, aplica los mismos criterios de reconocimiento discutidos en este libro, independientemente de si la salida inmediata es prácticamente posible en este momento.
 
-Reconocer una dinámica laboral como toxica es el primer paso, incluso cuando la salida inmediata no sea practicamente posible todavia.
+Reconocer una dinámica laboral como toxica es el primer paso, incluso cuando la salida inmediata no sea prácticamente posible todavia.
 
 ---
 

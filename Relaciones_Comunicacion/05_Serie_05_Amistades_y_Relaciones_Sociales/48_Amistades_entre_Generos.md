@@ -141,7 +141,7 @@ La amistad entre personas de distinto genero es posible, rica y compleja. Requie
 
 ## Epílogo
 
-Ruben, después de la pregunta de su pareja, se tomó el tiempo de reflexionar honestamente sobre sus amistades. Concluyo que una era genuinamente platonica sin ambigüedad, y la otra tenía un componente de atracción que nunca había reconocido del todo, ni a si mismo ni a su pareja. Esa honestidad, incomoda al principio, le permitio tener una conversación más real con su pareja, y eventualmente establecer límites más claros con la amiga en cuestion, preservando ambas relaciones sobre una base más sólida.
+Ruben, después de la pregunta de su pareja, se tomó el tiempo de reflexionar honestamente sobre sus amistades. Concluyo que una era genuinamente platonica sin ambigüedad, y la otra tenía un componente de atracción que nunca había reconocido del todo, ni a si mismo ni a su pareja. Esa honestidad, incomoda al principio, le permitio tener una conversación más real con su pareja, y eventualmente establecer límites más claros con la amiga en cuestión, preservando ambas relaciones sobre una base más sólida.
 
 ---
 

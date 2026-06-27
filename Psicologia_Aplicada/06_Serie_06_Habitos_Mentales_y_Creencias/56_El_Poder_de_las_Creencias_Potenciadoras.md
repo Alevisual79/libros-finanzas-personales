@@ -1,7 +1,7 @@
 # El Poder de las Creencias Potenciadoras
 ## Cómo construir el sistema mental que apoya tu vida
 
-**Serie 06: Habitos Mentales y Creencias — Libro 6 de 10**
+**Serie 06: Hábitos Mentales y Creencias — Libro 6 de 10**
 
 ---
 
@@ -65,7 +65,7 @@ El pesimismo que llamas realismo frecuentemente no es más preciso que el optimi
 
 Elena tiene la creencia de que sus capacidades son basicamente fijas: es tan inteligente como es, tiene el talento que tiene. Carol Dweck le propone una perspectiva diferente.
 
-**El Principio del Mindset de Crecimiento como Creencia Potenciadora Fundamental:** Carol Dweck y sus colegas han investigado durante décadas la diferencia entre el mindset fijo (las capacidades son innatas y no cambian significativamente) y el mindset de crecimiento (las capacidades pueden desarrollarse a traves del esfuerzo, la práctica, y el aprendizaje). Las personas con mindset de crecimiento muestran mayor persistencia ante el fracaso, mayor busqueda de desafios que les permitan crecer, mayor aprendizaje de la crítica, y mayor logró a largo plazo.
+**El Principio del Mindset de Crecimiento como Creencia Potenciadora Fundamental:** Carol Dweck y sus colegas han investigado durante décadas la diferencia entre el mindset fijo (las capacidades son innatas y no cambian significativamente) y el mindset de crecimiento (las capacidades pueden desarrollarse a traves del esfuerzo, la práctica, y el aprendizaje). Las personas con mindset de crecimiento muestran mayor persistencia ante el fracaso, mayor búsqueda de desafios que les permitan crecer, mayor aprendizaje de la crítica, y mayor logró a largo plazo.
 
 Dweck propone que el mindset de crecimiento no es una declaración de que todo es posible sin límites (no todos podemos llegar a ser jugadores de la NBA con práctica) sino que las capacidades son más maleables de lo que el mindset fijo predice.
 
@@ -107,7 +107,7 @@ Tu valor no se negocia con tus resultados. Existe independientemente de ellos. L
 
 Elena sabe que quiere cambiar las creencias que la limitan pero no sabe si simplemente puede decidir creer algo diferente.
 
-**El Principio de la Creencia como Proceso de Acumulación de Evidencia:** Las creencias no se instalan por decisión sino por acumulación de evidencia. La investigación cognitiva muestra que el cambio de creencias requiere: la generación de alternativas creibles (no afirmaciones que contradicen toda la evidencia disponible), la busqueda deliberada de evidencia que apoya la nueva creencia, las experiencias que confirman la nueva creencia, y la revisión regular de la evidencia acumulada.
+**El Principio de la Creencia como Proceso de Acumulación de Evidencia:** Las creencias no se instalan por decisión sino por acumulación de evidencia. La investigación cognitiva muestra que el cambio de creencias requiere: la generación de alternativas creibles (no afirmaciones que contradicen toda la evidencia disponible), la búsqueda deliberada de evidencia que apoya la nueva creencia, las experiencias que confirman la nueva creencia, y la revisión regular de la evidencia acumulada.
 
 Albert Bandura propone que el camino más efectivo para instalar creencias de autoeficacia es el diseño de experiencias de dominio pequeñas y alcanzables que proporcionen evidencia acumulada de la capacidad: no comenzar con el objetivo final (que puede ser inalcanzable en el momento actual) sino con el primer paso que produce experiencia de éxito.
 
@@ -165,7 +165,7 @@ Ruben no elimino sus creencias limitantes de una vez. Fue acumulando evidencia c
 
 ---
 
-*Libro 56 de la colección psicología Aplicada, Libro 6 de 10 de Serie 06: Habitos Mentales y Creencias.*
+*Libro 56 de la colección psicología Aplicada, Libro 6 de 10 de Serie 06: Hábitos Mentales y Creencias.*
 
 ---
 

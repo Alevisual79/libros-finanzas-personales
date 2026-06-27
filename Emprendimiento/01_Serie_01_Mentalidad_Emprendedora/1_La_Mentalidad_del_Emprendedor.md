@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos tiene una idea de negocio desde hace dos años. Lucia lleva una empresa de servicios que funciona pero que siente que podría ser mucho más. Marcos tiene cuarenta y cinco años, veinte de experiencia en corporaciones, y la sensación creciente de que hay algo que quiere construir que solo puede construir si deja de trabajar para otros. Los tres tienen algo en común: la diferencia entre su situación actual y la que quieren no es una cuestion de recursos, de tiempo, ni de información. Es una cuestion de mentalidad. Este libro es sobre esos patrones de pensamiento que hacen que unos creen y otros esperen.
+Carlos tiene una idea de negocio desde hace dos años. Lucia lleva una empresa de servicios que funciona pero que siente que podría ser mucho más. Marcos tiene cuarenta y cinco años, veinte de experiencia en corporaciones, y la sensación creciente de que hay algo que quiere construir que solo puede construir si deja de trabajar para otros. Los tres tienen algo en común: la diferencia entre su situación actual y la que quieren no es una cuestión de recursos, de tiempo, ni de información. Es una cuestión de mentalidad. Este libro es sobre esos patrones de pensamiento que hacen que unos creen y otros esperen.
 
 ---
 
@@ -77,7 +77,7 @@ El fracaso que imaginas rara vez es el que ocurre. Y el que ocurre rara vez es t
 
 ## Capítulo 5: La identidad del emprendedor: convertirse en la persona que puede construir lo que quieres construir
 
-Lucia ha aprendido que el mayor obstaculo para escalar su empresa no era una estrategia de marketing sino una cuestion de identidad: no se veía a si misma cómo la CEO de una empresa que factura varios millones.
+Lucia ha aprendido que el mayor obstaculo para escalar su empresa no era una estrategia de marketing sino una cuestión de identidad: no se veía a si misma cómo la CEO de una empresa que factura varios millones.
 
 **El Principio de la Identidad Emprendedora como el Nivel más Profundo del Desarrollo del Emprendedor que Determina el Techo de lo que Puede Construirse:** James Clear propone que los cambios más profundos y duraderos ocurren cuando cambia la identidad (quien crees que eres) en lugar de solo el comportamiento (lo que haces). Para el emprendedor, esto significa que el nivel de empresa que puede construir está limitado por el nivel de emprendedor que cree ser.
 
@@ -139,7 +139,7 @@ Marcos ha aprendido que la curiosidad que tenía de niño sobre como funcionaban
 
 Charlie Munger, socio de Warren Buffett, propone el modelo mental del lattice work (estructura de celosia) de conocimientos: el conocimiento sobre muchas áreas diferentes (psicología, biología, historia, matemáticas, física) permite conectar patrones que el especialista en un solo área no puede ver. Los emprendedores con mayor amplitud de curiosidad tienen mayor acceso a esas conexiones entre dominios.
 
-**Ejercicio inmediato:** Identifica un área completamente diferente a tu negocio actual que te genera curiosidad genuina (no que creas que debería generarte): historia medieval, biología marina, ajedrez, musica clasica, lo que sea. Dedica treinta minutos esta semana a explorar esa área sin agenda instrumentalizada. Las conexiones entre áreas distantes frecuentemente producen las innovaciones más originales.
+**Ejercicio inmediato:** Identifica un área completamente diferente a tu negocio actual que te genera curiosidad genuina (no que creas que debería generarte): historia medieval, biología marina, ajedrez, musica clásica, lo que sea. Dedica treinta minutos esta semana a explorar esa área sin agenda instrumentalizada. Las conexiones entre áreas distantes frecuentemente producen las innovaciones más originales.
 
 El emprendedor más peligroso no es el que sabe más sobre su sector. Es el que sabe suficiente sobre muchos sectores para ver lo que nadie en ninguno de ellos ve.
 

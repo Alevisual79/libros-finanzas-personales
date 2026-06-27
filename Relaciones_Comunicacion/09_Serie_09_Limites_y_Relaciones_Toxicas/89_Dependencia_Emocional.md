@@ -35,11 +35,11 @@ La interdependencia saludable y la dependencia excesiva no son lo mismo. La dife
 
 La dependencia emocional frecuentemente tiene sus raices en patrones de apego desarrollados en la infancia, específicamente en experiencias donde el amor o la atención de los cuidadores principales fue inconsistente o condicional.
 
-**El Principio del Apego Ansioso como Base de la Dependencia:** Las personas que desarrollaron apego ansioso en la infancia (debido a cuidadores inconsistentemente disponibles, o cuya aprobación era condicional a ciertos comportamientos) frecuentemente desarrollan en la adultez patrones de dependencia emocional que replican esa busqueda temprana de aprobación condicional, buscando en sus relaciones adultas la seguridad y la validación incondicional que no recibieron consistentemente en la infancia.
+**El Principio del Apego Ansioso como Base de la Dependencia:** Las personas que desarrollaron apego ansioso en la infancia (debido a cuidadores inconsistentemente disponibles, o cuya aprobación era condicional a ciertos comportamientos) frecuentemente desarrollan en la adultez patrones de dependencia emocional que replican esa búsqueda temprana de aprobación condicional, buscando en sus relaciones adultas la seguridad y la validación incondicional que no recibieron consistentemente en la infancia.
 
 **Ejercicio inmediato:** Reflexiona sobre la disponibilidad y consistencia del afecto que recibiste de tus cuidadores principales en la infancia. Hay alguna conexión entre esa experiencia temprana y tus patrones actuales de dependencia emocional?
 
-La dependencia emocional que sientes ahora frecuentemente tiene sus raices en una busqueda de seguridad que comenzo mucho antes de la relación actual donde se manifiesta.
+La dependencia emocional que sientes ahora frecuentemente tiene sus raices en una búsqueda de seguridad que comenzo mucho antes de la relación actual donde se manifiesta.
 
 ---
 
@@ -59,11 +59,11 @@ Reconocer las señales específicas de dependencia emocional, en lugar de una se
 
 La dependencia emocional en relaciones de pareja frecuentemente sigue un ciclo reconocible que combina períodos de seguridad relativa con episodios de ansiedad intensa, generando una dinámica que se autorefuerza con el tiempo.
 
-**El Principio del Ciclo Autorreforzante:** El ciclo típico incluye períodos donde la presencia y aprobación del otro genera seguridad temporal, seguidos de episodios donde cualquier señal de distancia o desaprobación genera ansiedad intensa que se busca resolver a traves de comportamientos de busqueda de reaseguramiento, los cuales, si tienen éxito en obtener la validación buscada, refuerzan el patron completo, haciendolo más probable que se repita.
+**El Principio del Ciclo Autorreforzante:** El ciclo típico incluye períodos donde la presencia y aprobación del otro genera seguridad temporal, seguidos de episodios donde cualquier señal de distancia o desaprobación genera ansiedad intensa que se busca resolver a traves de comportamientos de búsqueda de reaseguramiento, los cuales, si tienen éxito en obtener la validación buscada, refuerzan el patron completo, haciendolo más probable que se repita.
 
-**Ejercicio inmediato:** Identifica el ciclo específico en tu relación: ¿que comportamientos de busqueda de reaseguramiento prácticas cuando sientes ansiedad por la posible desaprobación o distancia del otro?
+**Ejercicio inmediato:** Identifica el ciclo específico en tu relación: ¿que comportamientos de búsqueda de reaseguramiento prácticas cuando sientes ansiedad por la posible desaprobación o distancia del otro?
 
-El ciclo de dependencia se refuerza a si mismo cada vez que el comportamiento de busqueda de reaseguramiento tiene éxito temporal, haciendolo más probable en el futuro.
+El ciclo de dependencia se refuerza a si mismo cada vez que el comportamiento de búsqueda de reaseguramiento tiene éxito temporal, haciendolo más probable en el futuro.
 
 ---
 
@@ -117,13 +117,13 @@ Una identidad construida sobre multiples fuentes de valor es naturalmente menos 
 
 ## Capítulo 9: Terapia y dependencia emocional
 
-El trabajo terapeutico profesional frecuentemente acelera y profundiza significativamente el proceso de superar patrones de dependencia emocional, especialmente cuando estos patrones tienen raices profundas en experiencias de apego temprano.
+El trabajo terapéutico profesional frecuentemente acelera y profundiza significativamente el proceso de superar patrones de dependencia emocional, especialmente cuando estos patrones tienen raices profundas en experiencias de apego temprano.
 
-**El Principio del Apoyo Especializado para Patrones Profundos:** Dado que la dependencia emocional frecuentemente tiene sus raices en experiencias de apego de la infancia, el trabajo terapeutico especializado en apego o en patrones relacionales puede ofrecer herramientas específicas para procesar esas raices y desarrollar nuevos patrones, más allá de lo que la simple comprensión intelectual del problema puede lograr.
+**El Principio del Apoyo Especializado para Patrones Profundos:** Dado que la dependencia emocional frecuentemente tiene sus raices en experiencias de apego de la infancia, el trabajo terapéutico especializado en apego o en patrones relacionales puede ofrecer herramientas específicas para procesar esas raices y desarrollar nuevos patrones, más allá de lo que la simple comprensión intelectual del problema puede lograr.
 
-**Ejercicio inmediato:** Si reconoces patrones significativos de dependencia emocional que has intentado cambiar sin éxito significativo, considera buscar apoyo terapeutico especializado en apego o en patrones relacionales.
+**Ejercicio inmediato:** Si reconoces patrones significativos de dependencia emocional que has intentado cambiar sin éxito significativo, considera buscar apoyo terapéutico especializado en apego o en patrones relacionales.
 
-Los patrones de dependencia emocional con raices profundas en la infancia frecuentemente requieren más que comprensión intelectual. Se benefician del trabajo terapeutico especializado.
+Los patrones de dependencia emocional con raices profundas en la infancia frecuentemente requieren más que comprensión intelectual. Se benefician del trabajo terapéutico especializado.
 
 ---
 
@@ -141,7 +141,7 @@ El trabajo de superar la dependencia emocional no busca eliminar el amor o la ce
 
 ## Epílogo
 
-La dependencia emocional no es amor. Es miedo disfrazado de amor. Y tiene solución. Isabel, después de reconocer su propio patron de necesitar constantemente la aprobación de ciertas personas para sentirse bien, comenzo un trabajo terapeutico específico enfocado en sus patrones de apego. Meses después, aunque seguia valorando profundamente sus relaciones, notaba algo distinto: por primera vez, su bienestar no dependia tan fragilmente de la aprobación constante de otros.
+La dependencia emocional no es amor. Es miedo disfrazado de amor. Y tiene solución. Isabel, después de reconocer su propio patron de necesitar constantemente la aprobación de ciertas personas para sentirse bien, comenzo un trabajo terapéutico específico enfocado en sus patrones de apego. Meses después, aunque seguia valorando profundamente sus relaciones, notaba algo distinto: por primera vez, su bienestar no dependia tan fragilmente de la aprobación constante de otros.
 
 ---
 

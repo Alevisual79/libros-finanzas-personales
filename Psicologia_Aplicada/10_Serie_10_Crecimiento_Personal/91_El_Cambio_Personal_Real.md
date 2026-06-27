@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena lleva tres años diciendose que va a hacer ejercicio de forma regular. Ruben sabe exactamente que habitos necesita cambiar para que su negocio funcione mejor y lleva meses sin cambiarlos. Isabel ha intentado delegar más y microgestionar menos en cuatro ocasiones distintas, con distintos grados de éxito y fracaso. Los tres quieren cambiar. Los tres saben que necesitan cambiar. Y sin embargo el cambio no llega o no dura. Este libro no es sobre motivación ni sobre fuerza de voluntad. Es sobre la psicología real del cambio: por qué es tan difícil, que lo hace posible, y que estrategias tienen respaldo empirico para que el cambio que quieres sea el cambio que tienes.
+Elena lleva tres años diciendose que va a hacer ejercicio de forma regular. Ruben sabe exactamente que hábitos necesita cambiar para que su negocio funcione mejor y lleva meses sin cambiarlos. Isabel ha intentado delegar más y microgestionar menos en cuatro ocasiones distintas, con distintos grados de éxito y fracaso. Los tres quieren cambiar. Los tres saben que necesitan cambiar. Y sin embargo el cambio no llega o no dura. Este libro no es sobre motivación ni sobre fuerza de voluntad. Es sobre la psicología real del cambio: por qué es tan difícil, que lo hace posible, y que estrategias tienen respaldo empirico para que el cambio que quieres sea el cambio que tienes.
 
 ---
 
@@ -35,7 +35,7 @@ El cambio que no ocurre después de varios intentos no es un problema de motivac
 
 ## Capítulo 2: Las etapas del cambio: donde estas en el proceso
 
-Ruben ha intentado cambiar sus habitos de trabajo antes de estar realmente listo para cambiarlos. La investigación tiene algo que decir sobre el momento.
+Ruben ha intentado cambiar sus hábitos de trabajo antes de estar realmente listo para cambiarlos. La investigación tiene algo que decir sobre el momento.
 
 **El Principio de las Etapas del Cambio como Descripción del Proceso que Tiene que Preceder al Cambio de Comportamiento:** James Prochaska y Carlo DiClemente desarrollaron el modelo transteorico de cambio a partir de su investigación con personas que dejaban de fumar. Su modelo identifica cinco etapas: precontemplación (no se considera el cambio), contemplación (se piensa en el cambio pero no se actua), preparación (se planean acciones específicas), acción (se implementa el cambio), y mantenimiento (se sostiene el cambio en el tiempo).
 
@@ -65,11 +65,11 @@ A veces el camino más corto al pensamiento que quieres es hacer primero lo que 
 
 Isabel ha aprendido que intentar cambiar solo con fuerza de voluntad es mucho menos efectivo que cambiar el entorno.
 
-**El Principio del Diseno del Entorno como Herramienta de Cambio más Efectiva que la Fuerza de Voluntad:** La investigación de Wendy Wood sobre los habitos muestra que el 43% de los comportamientos diarios son habituales (automáticos, desencadenados por señales del entorno sin deliberación consciente). Si los habitos son desencadenados por el entorno, cambiar el entorno es frecuentemente más efectivo para cambiar los habitos que intentar inhibir el comportamiento habitual mediante la voluntad.
+**El Principio del Diseno del Entorno como Herramienta de Cambio más Efectiva que la Fuerza de Voluntad:** La investigación de Wendy Wood sobre los hábitos muestra que el 43% de los comportamientos diarios son habituales (automáticos, desencadenados por señales del entorno sin deliberación consciente). Si los hábitos son desencadenados por el entorno, cambiar el entorno es frecuentemente más efectivo para cambiar los hábitos que intentar inhibir el comportamiento habitual mediante la voluntad.
 
 La investigación de Brian Wansink (con algunas reservas por cuestiones metodologicas que han surgido posteriormente) y la investigación más robusta de Theresa Marteau y colegas sobre la arquitectura de la elección muestra que colocar los alimentos saludables más visibles y accesibles que los no saludables produce mayor consumo de los saludables sin esfuerzo consciente.
 
-**Ejercicio inmediato:** Para el habito que quieres adoptar, diseña el entorno para que el comportamiento deseado sea el más facil y el comportamiento no deseado sea el más difícil. Si quieres leer más, pon un libro en la mesilla y el teléfono en otra habitación. Si quieres comer menos azucar, no la tengas en casa. El entorno que tienes actualmente esta optimizado para los habitos que tienes. Cambia el entorno y cambias los habitos que facilita.
+**Ejercicio inmediato:** Para el hábito que quieres adoptar, diseña el entorno para que el comportamiento deseado sea el más facil y el comportamiento no deseado sea el más difícil. Si quieres leer más, pon un libro en la mesilla y el teléfono en otra habitación. Si quieres comer menos azucar, no la tengas en casa. El entorno que tienes actualmente esta optimizado para los hábitos que tienes. Cambia el entorno y cambias los hábitos que facilita.
 
 La fuerza de voluntad que usas para resistir el entorno que no has cambiado es energía que no puedes usar para cambiar otras cosas.
 
@@ -81,11 +81,11 @@ Ruben ha notado que los cambios de comportamiento que más han durado en su vida
 
 **El Principio del Cambio de Identidad como el Nivel más Profundo y más Duradero del Cambio Personal:** James Clear, en Atomic Habits, propone tres niveles de cambio: el cambio de resultados (quiero perder peso), el cambio de proceso (voy a seguir una dieta específica), y el cambio de identidad (soy una persona que cuida su salud). El cambio de identidad produce el cambio de proceso y de resultados de forma más natural que los otros dos niveles porque cada acción se convierte en un voto a favor de la identidad que quieres construir.
 
-La investigación de Wendy Wood y colegas sobre la identidad y los habitos muestra que las personas que se identifican con un comportamiento (soy corredor en lugar de estoy intentando correr más) mantienen ese comportamiento con mucha mayor consistencia que las que no lo hacen.
+La investigación de Wendy Wood y colegas sobre la identidad y los hábitos muestra que las personas que se identifican con un comportamiento (soy corredor en lugar de estoy intentando correr más) mantienen ese comportamiento con mucha mayor consistencia que las que no lo hacen.
 
-**Ejercicio inmediato:** Para el cambio que quieres realizar, reformulalo cómo una afirmación de identidad: en lugar de quiero hacer ejercicio, reflexiona sobre que tipo de persona haría ejercicio naturalmente y empieza a identificarte con esa persona. La próxima vez que tomes una decisión relacionada con ese habito, hazte la pregunta: ¿que haría la persona que quiero ser? Esa pregunta ancla la decisión en la identidad en lugar de en la motivación del momento.
+**Ejercicio inmediato:** Para el cambio que quieres realizar, reformulalo cómo una afirmación de identidad: en lugar de quiero hacer ejercicio, reflexiona sobre que tipo de persona haría ejercicio naturalmente y empieza a identificarte con esa persona. La próxima vez que tomes una decisión relacionada con ese hábito, hazte la pregunta: ¿que haría la persona que quiero ser? Esa pregunta ancla la decisión en la identidad en lugar de en la motivación del momento.
 
-El habito que adoptas como resultado de quien eres dura más que el habito que adoptas como esfuerzo de quien quieres ser.
+El hábito que adoptas como resultado de quien eres dura más que el hábito que adoptas como esfuerzo de quien quieres ser.
 
 ---
 
@@ -97,7 +97,7 @@ Elena ha abandonado sus propositos de cambio después de la primera recaida. La 
 
 Lo que Marlatt llama el efecto de violación de la abstinencia (abstinence violation effect): cuando alguien que intenta cambiar un comportamiento tiene una recaida, la interpreta como evidencia de que el cambio es imposible (todo o nada) y usa la recaida como justificación para abandonar completamente el esfuerzo. La prevención de recaidas trabaja en cambiar esa interpretación: la recaida es información sobre los obstaculos específicos del cambio, no evidencia de que el cambio es imposible.
 
-**Ejercicio inmediato:** Para el próximo dia que no cumplas con un comportamiento que estas intentando adoptar, práctica la regla de James Clear del nunca-faltes-dos-veces: el objetivo no es ser perfecto sino recuperarse rápidamente de las imperfecciones. Un dia sin ejercicio no arruina el habito. Dos semanas sin ejercicio si. La recaida que no interpreta como fracaso es información; la que interpreta como fracaso es el final del proceso.
+**Ejercicio inmediato:** Para el próximo dia que no cumplas con un comportamiento que estas intentando adoptar, práctica la regla de James Clear del nunca-faltes-dos-veces: el objetivo no es ser perfecto sino recuperarse rápidamente de las imperfecciones. Un dia sin ejercicio no arruina el hábito. Dos semanas sin ejercicio si. La recaida que no interpreta como fracaso es información; la que interpreta como fracaso es el final del proceso.
 
 Caerse una vez es un accidente. No levantarse es una decisión.
 
@@ -111,7 +111,7 @@ Isabel sabe que los cambios que ha mantenido en el largo plazo siempre han tenid
 
 La investigación de Nicholas Christakis y James Fowler sobre la transmisión social muestra que los comportamientos saludables se contagian en las redes sociales hasta tres grados de separación: no solo el entorno inmediato sino el entorno del entorno influye en el comportamiento.
 
-**Ejercicio inmediato:** Para el cambio que quieres realizar, identifica una persona de tu entorno que ya tiene el comportamiento que quieres adoptar y que podría ser un modelo o un compañero de apoyo. Comparte con esa persona tu compromiso de cambio de forma específica (no quiero cambiar mis habitos sino empezare a correr tres veces a la semana a partir del lunes). La especificidad del compromiso compartido aumenta significativamente la probabilidad de cumplirlo.
+**Ejercicio inmediato:** Para el cambio que quieres realizar, identifica una persona de tu entorno que ya tiene el comportamiento que quieres adoptar y que podría ser un modelo o un compañero de apoyo. Comparte con esa persona tu compromiso de cambio de forma específica (no quiero cambiar mis hábitos sino empezare a correr tres veces a la semana a partir del lunes). La especificidad del compromiso compartido aumenta significativamente la probabilidad de cumplirlo.
 
 El cambio que haces solo es el más difícil. El que haces con alguien que ya lo tiene es el más facil.
 
@@ -119,15 +119,15 @@ El cambio que haces solo es el más difícil. El que haces con alguien que ya lo
 
 ## Capítulo 8: El cambio en el trabajo: como transformar patrones profesionales profundos
 
-Ruben quiere cambiar su relación con la procrastinación en el trabajo. Los habitos profesionales tienen especificidades que el cambio general no siempre captura.
+Ruben quiere cambiar su relación con la procrastinación en el trabajo. Los hábitos profesionales tienen especificidades que el cambio general no siempre captura.
 
-**El Principio del Cambio Profesional como Requiriente de Comprensión del Ciclo Habito en el Contexto específico del Trabajo:** La investigación de Charles Duhigg sobre los habitos en el contexto organizacional muestra que los habitos profesionales estan especialmente arraigados porque se han formado en entornos de alta repetición (el mismo escritorio, los mismos colegas, las mismas señales desencadenadoras) durante largo tiempo. Para cambiar un habito profesional, es necesario identificar la señal específica que lo desencadena y la recompensa específica que lo mantiene.
+**El Principio del Cambio Profesional como Requiriente de Comprensión del Ciclo Hábito en el Contexto específico del Trabajo:** La investigación de Charles Duhigg sobre los hábitos en el contexto organizacional muestra que los hábitos profesionales estan especialmente arraigados porque se han formado en entornos de alta repetición (el mismo escritorio, los mismos colegas, las mismas señales desencadenadoras) durante largo tiempo. Para cambiar un hábito profesional, es necesario identificar la señal específica que lo desencadena y la recompensa específica que lo mantiene.
 
-La investigación de Teresa Amabile y Steven Kramer sobre el progreso en el trabajo muestra que los habitos profesionales se mantienen mejor cuando hay retroalimentación frecuente sobre el progreso (el principio del progreso): los proyectos y habitos que tienen señales claras de avance se mantienen con mayor facilidad que los que no tienen retroalimentación.
+La investigación de Teresa Amabile y Steven Kramer sobre el progreso en el trabajo muestra que los hábitos profesionales se mantienen mejor cuando hay retroalimentación frecuente sobre el progreso (el principio del progreso): los proyectos y hábitos que tienen señales claras de avance se mantienen con mayor facilidad que los que no tienen retroalimentación.
 
-**Ejercicio inmediato:** Para el habito profesional que quieres cambiar, identifica: ¿cual es la señal que lo desencadena (una notificación, un momento del dia, una emoción específica)? ¿Cual es la recompensa que obtiene (alivio del estres, sensación de conexión social, distracción de una tarea difícil)? Diseña un comportamiento de sustitución que proporcione la misma recompensa pero de una forma más útil para tus objetivos.
+**Ejercicio inmediato:** Para el hábito profesional que quieres cambiar, identifica: ¿cual es la señal que lo desencadena (una notificación, un momento del dia, una emoción específica)? ¿Cual es la recompensa que obtiene (alivio del estrés, sensación de conexión social, distracción de una tarea difícil)? Diseña un comportamiento de sustitución que proporcione la misma recompensa pero de una forma más útil para tus objetivos.
 
-El habito profesional que cambias entendiendo su función tiene más probabilidad de no volver que el que cambias suprimiendolo por fuerza.
+El hábito profesional que cambias entendiendo su función tiene más probabilidad de no volver que el que cambias suprimiendolo por fuerza.
 
 ---
 
@@ -135,7 +135,7 @@ El habito profesional que cambias entendiendo su función tiene más probabilida
 
 Elena ha esperado cambios rápidos y ha abandonado cuando no llegaban. La investigación sobre el tiempo del cambio real es más sobria.
 
-**El Principio del Cambio Real como Proceso que Requiere Mucho más Tiempo del que las Personas Esperan:** La investigación de Phillippa Lally y colegas muestra que el tiempo necesario para que un comportamiento se automatice (se convierta en habito) varia entre 18 y 254 dias con una mediana de 66 dias, muy diferente del mito de los 21 dias. Los cambios de comportamiento más complejos (los que requieren cambio de entorno, de relaciones, o de identidad) requieren frecuentemente entre seis meses y varios años de práctica sostenida.
+**El Principio del Cambio Real como Proceso que Requiere Mucho más Tiempo del que las Personas Esperan:** La investigación de Phillippa Lally y colegas muestra que el tiempo necesario para que un comportamiento se automatice (se convierta en hábito) varia entre 18 y 254 dias con una mediana de 66 dias, muy diferente del mito de los 21 dias. Los cambios de comportamiento más complejos (los que requieren cambio de entorno, de relaciones, o de identidad) requieren frecuentemente entre seis meses y varios años de práctica sostenida.
 
 La investigación de Michael Mahoney sobre el cambio en psicoterapia muestra que los cambios que más duran son los que más tiempo han tardado en formarse, porque reflejan un proceso de asimilación profunda de nuevas formas de ver y de actuar que no puede acelerarse artificialmente.
 
@@ -161,7 +161,7 @@ El cambio que llega finalmente siempre viene precedido de todos los intentos fal
 
 ## Epílogo
 
-Ruben dejó de intentar cambiar sus habitos de trabajo con fuerza de voluntad. En su lugar, cambio el entorno: cerro las aplicaciones de mensajeria hasta las doce del mediodia, puso el teléfono en otra habitación durante las primeras dos horas del dia, y añadio al calendario los bloques de trabajo profundo como si fueran reuniones inamovibles. No fue dramatico. Fue gradual. A los tres meses, los habitos que había intentado adoptar con fuerza de voluntad durante años habían aparecido de forma casi natural. El entorno que había diseñado lo facilitaba sin que tuviera que resistir nada. Eso, descubrió, era exactamente lo que había buscado: no cambiar haciendo un esfuerzo mayor sino cambiar haciendo el esfuerzo más inteligente.
+Ruben dejó de intentar cambiar sus hábitos de trabajo con fuerza de voluntad. En su lugar, cambio el entorno: cerro las aplicaciones de mensajeria hasta las doce del mediodia, puso el teléfono en otra habitación durante las primeras dos horas del dia, y añadio al calendario los bloques de trabajo profundo como si fueran reuniones inamovibles. No fue dramatico. Fue gradual. A los tres meses, los hábitos que había intentado adoptar con fuerza de voluntad durante años habían aparecido de forma casi natural. El entorno que había diseñado lo facilitaba sin que tuviera que resistir nada. Eso, descubrió, era exactamente lo que había buscado: no cambiar haciendo un esfuerzo mayor sino cambiar haciendo el esfuerzo más inteligente.
 
 ---
 

@@ -1,7 +1,7 @@
 # Comunicación Digital y Relaciones
 ## Cómo mantener conexiones reales en un mundo de pantallas
 
-**Serie 02: Comunicación y Conexion — Libro 9 de 10**
+**Serie 02: Comunicación y Conexión — Libro 9 de 10**
 
 ---
 
@@ -95,7 +95,7 @@ Las redes sociales que te hacen sentir menos no son una ventana al mundo. Son un
 
 ## Capítulo 6: Notificaciones y presencia en las conversaciones
 
-Ruben tiene el habito de poner el movil boca arriba en la mesa durante las comidas. No para usarlo. Solo por si acaso llega algo importante. El resultado es que una parte de su atención siempre esta en espera del movil, no en la persona que tiene delante.
+Ruben tiene el hábito de poner el movil boca arriba en la mesa durante las comidas. No para usarlo. Solo por si acaso llega algo importante. El resultado es que una parte de su atención siempre esta en espera del movil, no en la persona que tiene delante.
 
 **El Principio de la Atención Dividida como Mensaje:** Tener el movil visible durante una conversación en persona, aunque no se mire, reduce la calidad de la escucha y de la conexión. Produce en el otro la sensación de no ser suficientemente importante como para merecer la atención completa. El movil visible es una señal de disponibilidad para interrupciones que compite con la presencia en la conversación real.
 
@@ -173,7 +173,7 @@ Una norma pequeña. Un cambio considerable en la calidad de lo que había entre 
 
 ---
 
-*Libro 19 de la colección, Libro 9 de 10 de Serie 02: Comunicación y Conexion.*
+*Libro 19 de la colección, Libro 9 de 10 de Serie 02: Comunicación y Conexión.*
 
 ---
 

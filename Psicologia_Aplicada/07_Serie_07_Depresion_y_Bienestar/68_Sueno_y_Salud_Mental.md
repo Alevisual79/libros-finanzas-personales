@@ -23,9 +23,9 @@ Isabel duerme seis horas la mayoría de las noches. No por falta de tiempo sino 
 
 El sueño no es inactividad. Es el mantenimiento del sistema más importante que tienes.
 
-**El Principio del Sueno como Estado de Mantenimiento Activo del Cerebro:** Matthew Walker, neurocientífico de la Universidad de California en Berkeley y autor de Por qué dormimos, propone que el sueño es el estado biológico más importante que existe para la salud del cerebro y del cuerpo. Durante el sueño, el cerebro realiza procesos que son imposibles durante la vigilia: la consolidación de la memoria (el hipocampo transfiere la información del dia a la corteza para el almacenamiento a largo plazo), la eliminación de desechos metabolicos toxicos a traves del sistema glinfatico (incluyendo el amiloide beta, asociado con el alzhéimer), y la regulación emocional a traves del procesamiento durante el sueño REM.
+**El Principio del Sueno como Estado de Mantenimiento Activo del Cerebro:** Matthew Walker, neurocientífico de la Universidad de California en Berkeley y autor de Por qué dormimos, propone que el sueño es el estado biológico más importante que existe para la salud del cerebro y del cuerpo. Durante el sueño, el cerebro realiza procesos que son imposibles durante la vigilia: la consolidación de la memoria (el hipocampo transfiere la información del dia a la corteza para el almacenamiento a largo plazo), la eliminación de desechos metabólicos toxicos a traves del sistema glinfatico (incluyendo el amiloide beta, asociado con el alzhéimer), y la regulación emocional a traves del procesamiento durante el sueño REM.
 
-La investigación de Walker y colegas muestra que el sueño REM (caracterizado por movimientos rápidos de los ojos y la fase donde ocurren la mayoría de los sueños) es especialmente crítico para la salud emocional: durante el REM, el cerebro reactivar las memorias emocionales del dia pero en ausencia del cortisol (la hormona del estres), lo que permite procesar el contenido emocional sin la carga fisiológica del estres.
+La investigación de Walker y colegas muestra que el sueño REM (caracterizado por movimientos rápidos de los ojos y la fase donde ocurren la mayoría de los sueños) es especialmente crítico para la salud emocional: durante el REM, el cerebro reactivar las memorias emocionales del dia pero en ausencia del cortisol (la hormona del estrés), lo que permite procesar el contenido emocional sin la carga fisiológica del estrés.
 
 **Ejercicio inmediato:** Esta noche, intenta ir a dormir treinta minutos antes de lo habitual. No como experimento cientifico sino como observación personal: siente la diferencia en el estado de animo y la cognición al dia siguiente comparado con los dias en que duermes tu duración habitual.
 
@@ -41,7 +41,7 @@ Ruben trabaja intensamente de lunes a viernes con menos sueño del que necesita 
 
 La investigación sobre la recuperación del sueño muestra que mientras que algunas funciones cognitivas se recuperan con el sueño de recuperación, otras muestran deficits persistentes. Y la respuesta inflamatoria y las alteraciones inmunologicas producidas por la privación cronica de sueño no se revierten completamente con una noche de sueño adicional.
 
-**Ejercicio inmediato:** Calcula tu deuda de sueño habitual: si necesitas ocho horas (la mayoría de los adultos) y duermes seis, acumulas catorce horas de deuda a la semana. Eso es casi dos noches completas de privación por semana, de forma cronica. Ese cálculo simple puede cambiar la percepción de cuanto está costando el habito de dormir poco.
+**Ejercicio inmediato:** Calcula tu deuda de sueño habitual: si necesitas ocho horas (la mayoría de los adultos) y duermes seis, acumulas catorce horas de deuda a la semana. Eso es casi dos noches completas de privación por semana, de forma cronica. Ese cálculo simple puede cambiar la percepción de cuanto está costando el hábito de dormir poco.
 
 Dormir de más el fin de semana compensa parte de la deuda. No borra los efectos que la deuda produjó durante la semana.
 
@@ -63,7 +63,7 @@ El sueño y la depresión se retroalimentan. Tratar solo uno de los dos es trata
 
 ## Capítulo 4: Sueno y ansiedad: la relación que pocas personas entienden
 
-Ruben tiene ansiedad cronica y no conecta ese estado con su habito de dormir poco.
+Ruben tiene ansiedad cronica y no conecta ese estado con su hábito de dormir poco.
 
 **El Principio de la Privación de Sueno como Activador del Sistema de Amenaza:** La investigación de Matthew Walker y colegas muestra que una noche de privación de sueño aumenta la reactividad de la amigdala en un 60% comparado con el estado de sueño normal. La amigdala es el sistema de alarma emocional del cerebro: cuando esta hiperactivada, todo lo que ocurre parece una amenaza mayor de lo que es.
 
@@ -123,7 +123,7 @@ Ruben tiene cuarenta y cinco años y nota que su sueño ha cambiado en los últi
 
 **El Principio del Cambio del Sueno con la Edad como Fenómeno Normal pero Manejable:** La investigación sobre el sueño a lo largo de la vida muestra que la arquitectura del sueño cambia de forma significativa con la edad: la cantidad de sueño profundo de ondas lentas (el más reparador físicamente) disminuye con la edad, el tiempo de latencia del sueño aumenta (cuesta más tiempo quedarse dormido), y los despertares nocturnos aumentan en frecuencia. Estos cambios empiezan en la mediana edad y se aceleran con los años.
 
-Sin embargo, la investigación de Stuart Fogel y colegas muestra que parte del deterioro del sueño asociado a la edad es prevenible con los mismos habitos que optimizan el sueño en cualquier edad: ejercicio regular (especialmente por la mañana), exposición a la luz solar durante el dia, y mantenimiento de horarios de sueño consistentes.
+Sin embargo, la investigación de Stuart Fogel y colegas muestra que parte del deterioro del sueño asociado a la edad es prevenible con los mismos hábitos que optimizan el sueño en cualquier edad: ejercicio regular (especialmente por la mañana), exposición a la luz solar durante el dia, y mantenimiento de horarios de sueño consistentes.
 
 **Ejercicio inmediato:** Si notas que tu sueño ha cambiado en los últimos años y te produce malestar, evalua si hay algun componente de la higiene del sueño que podría mejorarse. Y si los cambios son significativos (despertar precoz consistente, insomnio de inició, hipersomnia), considera una evaluación con un especialista en medicina del sueño.
 
@@ -133,9 +133,9 @@ El sueño que cambia con la edad no es sueño irrecuperable. Es sueño que neces
 
 ## Capítulo 9: El sueño de la mente: sueños, procesamiento emocional, y salud mental
 
-Isabel ha notado que sus sueños son más intensos e inquietantes en los períodos de mayor estres. La investigación explica por qué.
+Isabel ha notado que sus sueños son más intensos e inquietantes en los períodos de mayor estrés. La investigación explica por qué.
 
-**El Principio del Sueno REM como Laboratorio de Procesamiento Emocional:** La hipotesis de Matthew Walker sobre la función del sueño REM propone que durante este estado, el cerebro reprocesa las experiencias emocionales del dia en un entorno neuroquimico bajo en noradrenalina (la molecula del estres), lo que permite reactivar el contenido emocional sin la carga fisiológica del estres original. Este proceso es lo que Walker llama destilar el veneno de los recuerdos dolorosos.
+**El Principio del Sueno REM como Laboratorio de Procesamiento Emocional:** La hipótesis de Matthew Walker sobre la función del sueño REM propone que durante este estado, el cerebro reprocesa las experiencias emocionales del dia en un entorno neuroquimico bajo en noradrenalina (la molecula del estrés), lo que permite reactivar el contenido emocional sin la carga fisiológica del estrés original. Este proceso es lo que Walker llama destilar el veneno de los recuerdos dolorosos.
 
 Las personas con TEPT muestran una disfunción de este proceso: sus sueños no destilan el veneno del trauma sino que lo reproducen fielmente, lo que perpetua la reactivación del sistema de amenaza. La Imagen de Ensayo Mental (IRT, de Barry Krakow) es una terapia específica para las pesadillas cronicas que modifica el contenido del sueño deliberadamente para romper ese ciclo.
 
@@ -149,7 +149,7 @@ Los sueños que te persiguen no son mensajes del inconsciente. Son el sistema de
 
 Isabel ha llegado a entender que el sueño no es un compartimento separado de la vida: es el resultado de como vive durante el dia.
 
-**El Principio del Sueno como Resultado de los Comportamientos durante la Vigilia:** Matthew Walker propone que la calidad del sueño es un espejo de los comportamientos diurnos: la exposición a la luz solar por la mañana regula el ritmo circadiano y facilita el sueño nocturno; el ejercicio moderado por la mañana o la tarde mejora la calidad del sueño; el manejo del estres cronico reduce la activación nocturna del sistema de amenaza; y el alcohol, la cafeina, y la luz azul en la tarde deterioran el sueño.
+**El Principio del Sueno como Resultado de los Comportamientos durante la Vigilia:** Matthew Walker propone que la calidad del sueño es un espejo de los comportamientos diurnos: la exposición a la luz solar por la mañana regula el ritmo circadiano y facilita el sueño nocturno; el ejercicio moderado por la mañana o la tarde mejora la calidad del sueño; el manejo del estrés cronico reduce la activación nocturna del sistema de amenaza; y el alcohol, la cafeina, y la luz azul en la tarde deterioran el sueño.
 
 Disenar la vida para facilitar el sueño no es reducir los comportamientos a los que se disfruta: es entender que esos comportamientos tienen consecuencias sobre el sueño y tomar decisiones informadas sobre cuando y cuanto.
 

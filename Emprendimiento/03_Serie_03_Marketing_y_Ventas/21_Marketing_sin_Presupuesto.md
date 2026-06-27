@@ -137,9 +137,9 @@ Marcos ha invertido en SEO durante seis meses y empieza a ver como Google le tra
 
 **El Principio del SEO cómo la Inversión a Largo Plazo en Visibilidad Orgánica que Produce un Canal de Adquisición de Clientes de Bajo Coste Marginal una vez que el Activo de Contenido Esta Creado:** El SEO (Search Engine Optimization) es el proceso de optimizar el contenido web para aparecer en los primeros resultados de Google cuando los clientes potenciales buscan información sobre el problema que el negocio resuelve. A diferencia de la publicidad de pago, el contenido bien posicionado en Google genera trafico de forma continua sin coste adicional.
 
-La investigación de Ahrefs sobre el trafico orgánico muestra que el top 3 de resultados de Google se lleva aproximadamente el 75% de los clics para cualquier busqueda, y que el contenido bien posicionado tiene un coste de adquisición de cliente significativamente menor que el de la publicidad de pago a largo plazo.
+La investigación de Ahrefs sobre el trafico orgánico muestra que el top 3 de resultados de Google se lleva aproximadamente el 75% de los clics para cualquier búsqueda, y que el contenido bien posicionado tiene un coste de adquisición de cliente significativamente menor que el de la publicidad de pago a largo plazo.
 
-**Ejercicio inmediato:** Identifica las tres busquedas más específicas que tu cliente ideal podría hacer cuando tiene el problema que tu negocio resuelve (no busquedas genericas como emprendimiento, sino específicas como como conseguir mi primer cliente de consultoria siendo autonomo). Para esas tres busquedas, verifica si tu web aparece en los resultados de Google y si no aparece, crea contenido específicamente diseñado para responder esa pregunta mejor que los resultados actuales.
+**Ejercicio inmediato:** Identifica las tres búsquedas más específicas que tu cliente ideal podría hacer cuando tiene el problema que tu negocio resuelve (no búsquedas genericas como emprendimiento, sino específicas como como conseguir mi primer cliente de consultoria siendo autonomo). Para esas tres búsquedas, verifica si tu web aparece en los resultados de Google y si no aparece, crea contenido específicamente diseñado para responder esa pregunta mejor que los resultados actuales.
 
 El contenido que responde la pregunta correcta mejor que nadie trabaja para ti mientras duermes. La publicidad para cuando dejas de pagar.
 
@@ -161,7 +161,7 @@ El sistema de marketing que construiste con trabajo dura. El que compraste con d
 
 ## Epílogo
 
-Carlos revisó sus números al cabo de dieciocho meses de marketing sin presupuesto: el 60% de sus clientes llegaban a traves de referencias de clientes anteriores, el 25% a traves de su contenido en LinkedIn, y el 15% a traves de busquedas orgánicas en Google. Habia invertido cero euros en publicidad de pago. Habia invertido entre seis y ocho horas a la semana en contenido, networking, y relaciones. La inversión de tiempo había producido un canal de adquisición de clientes que, ahora, trabajaba de forma bastante autonoma. No había sido rápido. Habia sido consistente.
+Carlos revisó sus números al cabo de dieciocho meses de marketing sin presupuesto: el 60% de sus clientes llegaban a traves de referencias de clientes anteriores, el 25% a traves de su contenido en LinkedIn, y el 15% a traves de búsquedas orgánicas en Google. Habia invertido cero euros en publicidad de pago. Habia invertido entre seis y ocho horas a la semana en contenido, networking, y relaciones. La inversión de tiempo había producido un canal de adquisición de clientes que, ahora, trabajaba de forma bastante autonoma. No había sido rápido. Habia sido consistente.
 
 ---
 

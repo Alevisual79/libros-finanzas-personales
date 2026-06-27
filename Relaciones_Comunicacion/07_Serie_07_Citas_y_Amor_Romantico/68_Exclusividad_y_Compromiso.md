@@ -35,7 +35,7 @@ Evitar la conversación de definir la relación no elimina el riesgo. Solo lo po
 
 Determinar el momento apropiado para tener la conversación de definición de relación requiere calibración segun señales específicas de la situación, más que seguir una regla generica sobre cuanto tiempo debe pasar.
 
-**El Principio de las Señales de Madurez de la Conexion:** El momento apropiado para la conversación de definición tiende a coincidir con señales específicas: la relación ha desarrollado patrones de regularidad y exclusividad de facto, ambas partes muestran señales de inversión emocional creciente, y la incertidumbre sobre el estado de la relación comienza a generar ansiedad o decisiones evitadas (como no explorar otras conexiones por lealtad implícita no confirmada).
+**El Principio de las Señales de Madurez de la Conexión:** El momento apropiado para la conversación de definición tiende a coincidir con señales específicas: la relación ha desarrollado patrones de regularidad y exclusividad de facto, ambas partes muestran señales de inversión emocional creciente, y la incertidumbre sobre el estado de la relación comienza a generar ansiedad o decisiones evitadas (como no explorar otras conexiones por lealtad implícita no confirmada).
 
 **Ejercicio inmediato:** Evalua tu relación actual contra estas señales: ¿hay patrones de regularidad de facto, inversión emocional creciente, y ansiedad generada por la incertidumbre? Si varias estan presentes, ese es momento de considerar la conversación.
 

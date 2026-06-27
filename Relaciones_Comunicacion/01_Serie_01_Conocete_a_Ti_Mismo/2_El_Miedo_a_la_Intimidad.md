@@ -103,7 +103,7 @@ La primera vez que Javier le dijo a alguien que le gustaba, esa persona se rio. 
 
 **El Principio de la Memoria Relacional Activa:** El cerebro no archiva las experiencias dolorosas como historia pasada. Las mantiene activas como sistema de alerta. Cada nueva situación relacional similar a la que causo dolor original activa la misma respuesta emocional que se tuvo entonces, aunque la situación actual sea completamente diferente. Este mecanismo, útil para sobrevivir en entornos hostiles, es desastroso para la intimidad porque convierte cada momento de apertura en una amenaza percibida.
 
-Joseph LeDoux, neurocientifico de NYU, demostró que el miedo aprendido puede grabarse de forma casi permanente en la amigdala cerebral. La buena noticia: también demostró que puede reaprenderse. El proceso se llama extinción y requiere exposición repetida a la situación temida sin que ocurra el resultado temido.
+Joseph LeDoux, neurocientífico de NYU, demostró que el miedo aprendido puede grabarse de forma casi permanente en la amigdala cerebral. La buena noticia: también demostró que puede reaprenderse. El proceso se llama extinción y requiere exposición repetida a la situación temida sin que ocurra el resultado temido.
 
 **Ejercicio inmediato:** Identifica un momento en que te abriste emocionalmente y el resultado fue doloroso. Ahora identifica un momento en que te abriste y el resultado fue positivo. La memoria dolorosa probablemente es más vivida. El cerebro da más peso al dolor que al placer. Compensar ese sesgo requiere buscar deliberadamente evidencia de que la apertura también funciona.
 
@@ -115,7 +115,7 @@ El pasado explica el presente. Pero no tiene por qué dictarlo.
 
 Lola había trabajado años en terapia su miedo a la intimidad. Habia entendido el origen. Habia identificado los patrones. Y sin embargo cuando llegaba el momento de mostrarse de verdad, algo se cerraba en su interior cómo una persiana. Entender no era suficiente. Necesitaba una técnica.
 
-**El Principio de la Apertura Graduada:** La intimidad no funciona de cero a cien. Funciona en escalones. Compartir algo pequeño primero y ver cómo lo recibe el otro. Si la respuesta es segura, compartir algo un poco mayor. Construir confianza cómo se construye musculo: con resistencia progresiva, no con un esfuerzo heroico unico. Intentar pasar de totalmente cerrado a totalmente abierto de golpe es la receta para el trauma relacional, no para la intimidad.
+**El Principio de la Apertura Graduada:** La intimidad no funciona de cero a cien. Funciona en escalones. Compartir algo pequeño primero y ver cómo lo recibe el otro. Si la respuesta es segura, compartir algo un poco mayor. Construir confianza cómo se construye músculo: con resistencia progresiva, no con un esfuerzo heroico unico. Intentar pasar de totalmente cerrado a totalmente abierto de golpe es la receta para el trauma relacional, no para la intimidad.
 
 El modelo de penetración social de Altman y Taylor demuestra que las relaciones que perduran siguen un proceso de apertura gradual y reciproca. Cuando una persona se abre, la otra responde con una apertura similar. Cuando ese ciclo se interrumpe (uno se abre demasiado rápido o el otro no corresponde) la relación se desestabiliza.
 

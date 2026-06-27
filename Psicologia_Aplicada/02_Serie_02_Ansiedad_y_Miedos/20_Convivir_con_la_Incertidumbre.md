@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel tiene una decisión pendiente sobre su carrera que no podrá resolverse con certeza antes de tomar la decisión. Su cerebro lleva semanas buscando la certeza que no existe: buscando más información, pidiendo opinión a más personas, planificando más escenarios posibles. La busqueda no reduce la incertidumbre. Solo multiplica los datos sin resolver la pregunta fundamental: ¿como puedo estar bien no sabiendo como va a salir esto?
+Isabel tiene una decisión pendiente sobre su carrera que no podrá resolverse con certeza antes de tomar la decisión. Su cerebro lleva semanas buscando la certeza que no existe: buscando más información, pidiendo opinión a más personas, planificando más escenarios posibles. La búsqueda no reduce la incertidumbre. Solo multiplica los datos sin resolver la pregunta fundamental: ¿como puedo estar bien no sabiendo como va a salir esto?
 
 ---
 
@@ -37,9 +37,9 @@ Resolver la incertidumbre actual no resuelve la intolerancia a la incertidumbre.
 
 Ruben prefiere saber que va a pasar algo malo antes de quedarse con la posibilidad de que podría no pasar. Esta preferencia por la certeza negativa sobre la incertidumbre positiva parece irracional pero tiene una base neurológica precisa.
 
-**El Principio de la Incertidumbre como Amenaza Neurológica:** Joshua Aronson, neurocientifico de NYU, y Archy de Berker, del University College London, demostraron en experimentos con neuroimagen que la incertidumbre sobre si algo malo va a ocurrir activa respuestas de ansiedad superiores a la certeza de que algo malo va a ocurrir. Esta paradoja neurológica tiene sentido evolutivo: un sistema de preparación para amenazas es más eficiente cuando puede predecir si y cuando ocurriran. La incertidumbre impide esa planificación y mantiene al sistema en un estado de alerta de alto coste energético.
+**El Principio de la Incertidumbre como Amenaza Neurológica:** Joshua Aronson, neurocientífico de NYU, y Archy de Berker, del University College London, demostraron en experimentos con neuroimagen que la incertidumbre sobre si algo malo va a ocurrir activa respuestas de ansiedad superiores a la certeza de que algo malo va a ocurrir. Esta paradoja neurológica tiene sentido evolutivo: un sistema de preparación para amenazas es más eficiente cuando puede predecir si y cuando ocurriran. La incertidumbre impide esa planificación y mantiene al sistema en un estado de alerta de alto coste energético.
 
-Read Montague, neurocientifico del Baylor College of Medicine que investiga la dopamina y la predicción, demostró que las neuronas dopaminergicas responden no a la recompensa en si misma sino a la precisión de la predicción: cuando el resultado coincide con la predicción, hay satisfacción. Cuando no coincide (sorpresa positiva), hay liberación de dopamina. Cuando hay incertidumbre (la predicción no puede formarse), hay un estado de arousal que el sistema interpreta como amenaza aunque no haya ningún estímulo negativamente valente.
+Read Montague, neurocientífico del Baylor College of Medicine que investiga la dopamina y la predicción, demostró que las neuronas dopaminergicas responden no a la recompensa en si misma sino a la precisión de la predicción: cuando el resultado coincide con la predicción, hay satisfacción. Cuando no coincide (sorpresa positiva), hay liberación de dopamina. Cuando hay incertidumbre (la predicción no puede formarse), hay un estado de arousal que el sistema interpreta como amenaza aunque no haya ningún estímulo negativamente valente.
 
 **Ejercicio inmediato:** La próxima vez que el cerebro busque activamente certeza (revisando información, pidiendo opinión a más personas, planificando todos los escenarios), observa ese impulso sin seguirlo automáticamente durante cinco minutos. Ese es el momento en que puedes ver la maquinaria de la intolerancia a la incertidumbre funcionando.
 
@@ -49,15 +49,15 @@ Tu cerebro no busca certeza porque tiene razón en que la necesitas. La busca po
 
 ## Capítulo 3: La busqueda de certeza: cuando el remedio es el veneno
 
-Elena pasa horas buscando información para reducir la incertidumbre sobre una decisión médica importante. Cada pieza de información nueva que encuentra no resuelve la incertidumbre. Genera nuevas preguntas y nuevas fuentes de incertidumbre que requieren más busqueda.
+Elena pasa horas buscando información para reducir la incertidumbre sobre una decisión médica importante. Cada pieza de información nueva que encuentra no resuelve la incertidumbre. Genera nuevas preguntas y nuevas fuentes de incertidumbre que requieren más búsqueda.
 
-**El Principio de la Espiral de Busqueda de Certeza:** La busqueda de certeza como respuesta a la ansiedad ante la incertidumbre produce el mismo ciclo que todas las conductas de seguridad: alivio temporal que refuerza la conducta, sin abordar el mecanismo subyacente. Ademas, en el caso específico de la busqueda de información en la era digital, la abundancia de información disponible hace que la busqueda produzca más material para la preocupación, no menos. Cada artículo que responde una pregunta plantea tres más, amplificando la sensación de incertidumbre en lugar de reducirla.
+**El Principio de la Espiral de Búsqueda de Certeza:** La búsqueda de certeza como respuesta a la ansiedad ante la incertidumbre produce el mismo ciclo que todas las conductas de seguridad: alivio temporal que refuerza la conducta, sin abordar el mecanismo subyacente. Ademas, en el caso específico de la búsqueda de información en la era digital, la abundancia de información disponible hace que la búsqueda produzca más material para la preocupación, no menos. Cada artículo que responde una pregunta plantea tres más, amplificando la sensación de incertidumbre en lugar de reducirla.
 
-Paul Salkovskis, cuya investigación sobre conductas de seguridad influyo en el tratamiento de multiples trastornos de ansiedad, propone que la reducción de las conductas de busqueda de certeza (sin buscar más información, sin pedir más reaseguración, sin planificar más escenarios) es uno de los componentes terapeuticos más importantes para la ansiedad generalizada, porque permite que el sistema nervioso aprenda gradualmente que puede tolerar la incertidumbre sin la busqueda compulsiva de certeza.
+Paul Salkovskis, cuya investigación sobre conductas de seguridad influyo en el tratamiento de multiples trastornos de ansiedad, propone que la reducción de las conductas de búsqueda de certeza (sin buscar más información, sin pedir más reaseguración, sin planificar más escenarios) es uno de los componentes terapéuticos más importantes para la ansiedad generalizada, porque permite que el sistema nervioso aprenda gradualmente que puede tolerar la incertidumbre sin la búsqueda compulsiva de certeza.
 
-**Ejercicio inmediato:** Identifica cuantas horas a la semana dedicas a buscar información, pedir opiniones, o planificar escenarios relacionados con tu mayor fuente de incertidumbre actual. Si es más de dos horas semanales en una situación sobre la que ya tienes suficiente información para actuar, esa es la busqueda de certeza compulsiva en acción. Esta semana, reduce ese tiempo a la mitad deliberadamente.
+**Ejercicio inmediato:** Identifica cuantas horas a la semana dedicas a buscar información, pedir opiniones, o planificar escenarios relacionados con tu mayor fuente de incertidumbre actual. Si es más de dos horas semanales en una situación sobre la que ya tienes suficiente información para actuar, esa es la búsqueda de certeza compulsiva en acción. Esta semana, reduce ese tiempo a la mitad deliberadamente.
 
-La busqueda de certeza que no termina no busca información. Busca alivio de ansiedad que la información nunca puede proporcionar de forma duradera.
+La búsqueda de certeza que no termina no busca información. Busca alivio de ansiedad que la información nunca puede proporcionar de forma duradera.
 
 ---
 
@@ -109,7 +109,7 @@ Ruben ha leido a los estoicos y encontrado en ellos un marcó para la incertidum
 
 **El Principio de la Dicotomia del Control como práctica Cognitiva:** Epicteto, filósofo estoico que vivio como esclavo antes de ser liberado, propuso la distinción fundamental de la filosofía estoica: hay cosas que dependen de nosotros (nuestros juicios, impulsos, deseos y aversiones) y cosas que no dependen de nosotros (el cuerpo, la reputación, los cargos, las riquezas). La sabiduría práctica consiste en distinguir entre estos dos dominios y enfocar el esfuerzo exclusivamente en el primero, con indiferencia hacía el segundo.
 
-Aaron Beck, al desarrollar la terapia cognitiva, llegó de forma independiente a una distinción similar: identificar los pensamientos automáticos negativos y evaluarlos críticamente para distinguir entre lo que se puede cambiar con acción y lo que requiere aceptación. La convergencia entre el estoicismo antiguo y la terapia cognitiva moderna sugiere que hay principios psicológicos sobre la gestión de la incertidumbre que trascienden epocas y metodologias.
+Aaron Beck, al desarrollar la terapia cognitiva, llegó de forma independiente a una distinción similar: identificar los pensamientos automáticos negativos y evaluarlos críticamente para distinguir entre lo que se puede cambiar con acción y lo que requiere aceptación. La convergencia entre el estoicismo antiguo y la terapia cognitiva moderna sugiere que hay principios psicológicos sobre la gestión de la incertidumbre que trascienden epocas y metodologías.
 
 **Ejercicio inmediato:** Para tu fuente de ansiedad por incertidumbre más importante, aplica la dicotomia del control estoica: escribe en dos columnas lo que depende de ti (tus acciones, tu respuesta, tu preparación) y lo que no depende de ti (las decisiones de otros, el azar, el futuro). Compromete toda tu energía con la primera columna. práctica el desapego activo hacía la segunda.
 
@@ -121,13 +121,13 @@ Lo que no depende de ti no merece tu ansiedad. Lo que si depende de ti merece tu
 
 Isabel entiende intelectualmente que necesita tolerar más la incertidumbre. No sabe como entrenar esa capacidad de forma sistemática.
 
-**El Principio de la Exposición a la Incertidumbre como Entrenamiento:** Dugas y Ladouceur, que desarrollaron el modelo de intolerancia a la incertidumbre y su tratamiento, proponen que la tolerancia a la incertidumbre se desarrolla a traves de un proceso de exposición graduada a situaciones inciertas sin las conductas de reducción de incertidumbre habituales. Este entrenamiento funciona de la misma forma que la exposición para las fobias: la exposición repetida a la incertidumbre sin la busqueda compulsiva de certeza enseña al sistema nervioso que puede tolerar la incertidumbre sin que ocurra la catastrofe anticipada.
+**El Principio de la Exposición a la Incertidumbre como Entrenamiento:** Dugas y Ladouceur, que desarrollaron el modelo de intolerancia a la incertidumbre y su tratamiento, proponen que la tolerancia a la incertidumbre se desarrolla a traves de un proceso de exposición graduada a situaciones inciertas sin las conductas de reducción de incertidumbre habituales. Este entrenamiento funciona de la misma forma que la exposición para las fobias: la exposición repetida a la incertidumbre sin la búsqueda compulsiva de certeza enseña al sistema nervioso que puede tolerar la incertidumbre sin que ocurra la catastrofe anticipada.
 
 Las exposiciones se diseñan de forma graduada: desde situaciones de bajo nivel de incertidumbre (no verificar el correo durante una hora) hasta situaciones de alto nivel (tomar una decisión importante sin buscar más información de la estrictamente necesaria). El entrenamiento no produce certeza. Produce un sistema nervioso que puede existir con la incertidumbre sin que esa existencia sea insoportable.
 
-**Ejercicio inmediato:** Diseña tu jerarquía personal de exposición a la incertidumbre: lista cinco situaciones inciertad ordenadas de menor a mayor incomodidad, en las que podrías abstenerte esta semana de tus conductas habituales de busqueda de certeza. Empieza por la más baja de la lista esta semana.
+**Ejercicio inmediato:** Diseña tu jerarquía personal de exposición a la incertidumbre: lista cinco situaciones inciertad ordenadas de menor a mayor incomodidad, en las que podrías abstenerte esta semana de tus conductas habituales de búsqueda de certeza. Empieza por la más baja de la lista esta semana.
 
-La tolerancia a la incertidumbre no se decide. Se entrena. Como cualquier musculo.
+La tolerancia a la incertidumbre no se decide. Se entrena. Como cualquier músculo.
 
 ---
 

@@ -83,7 +83,7 @@ La generación de video desde texto es el campo que avanza más rápido.
 
 **Beautiful.ai:** Diseno de presentaciones que se ajusta automáticamente para mantener coherencia visual.
 
-**Tome:** Similar a Gamma, con mayor enfasis en narrativa visual.
+**Tome:** Similar a Gamma, con mayor énfasis en narrativa visual.
 
 **Microsoft Copilot en PowerPoint:** Para usuarios del ecosistema Microsoft, genera presentaciones desde Word o a partir de instrucciones en lenguaje natural.
 
@@ -145,7 +145,7 @@ El flujo de producción de video corporativo con IA de Isabel:
 
 **Consentimiento:** Usar la imagen o voz de alguien sin su consentimiento para crear videos es un abuso legal y ético.
 
-**Transparencia:** Cuando el contenido usa avatares o video generativo, la transparencia con la audiencia es una cuestion de integridad.
+**Transparencia:** Cuando el contenido usa avatares o video generativo, la transparencia con la audiencia es una cuestión de integridad.
 
 **Derechos de entrenamiento:** Los modelos de video se entrenaron con video existente, generando controversias similares a las de la imagen generativa.
 

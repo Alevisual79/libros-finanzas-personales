@@ -1,7 +1,7 @@
 # Gestionar la Envidia
 ## Transformar la emoción más silenciada en combustible
 
-**Serie 04: Emociones y Gestion Emocional — Libro 9 de 10**
+**Serie 04: Emociones y Gestión Emocional — Libro 9 de 10**
 
 ---
 
@@ -65,7 +65,7 @@ Lo que envidias es lo que deseas. Y lo que deseas dice más sobre quien eres que
 
 Isabel suprime la envidia en lugar de procesarla. Ruben a veces la alimenta rumiando sobre la injusticia de que otros tengan lo que el no tiene. Ninguna de las dos estrategias funciona.
 
-**El Principio de los Dos Errores de Gestion de la Envidia:** La supresión tiene costes similares a la supresión de cualquier emoción: la emoción persiste sin procesarse, los deseos que señala no se identifican ni se abordan, y la energía que requiere la supresión reduce los recursos disponibles.
+**El Principio de los Dos Errores de Gestión de la Envidia:** La supresión tiene costes similares a la supresión de cualquier emoción: la emoción persiste sin procesarse, los deseos que señala no se identifican ni se abordan, y la energía que requiere la supresión reduce los recursos disponibles.
 
 La rumia sobre la envidia tiene el coste adicional de mantener la activación emocional negativa sin producir ninguna acción útil. Brad Bushman documenta que rumiar sobre la emoción negativa la amplifica en lugar de procesarla. La via alternativa es el reconocimiento y la transformación: reconocer la envidia como señal de deseo, identificar el deseo específico, y usar ese deseo como combustible para la acción.
 
@@ -135,7 +135,7 @@ Lo que envidias te dice adonde quieres ir. La meta que defines desde ahí te dic
 
 Ruben ha pasado a una posición profesional que sabe que produce envidia en algunos colegas. Esta situación tiene su propia complejidad que raramente se discute.
 
-**El Principio de la Gestion del éxito en Entornos de Comparación:** Van de Ven y colegas muestran que las personas objeto de envidia ajena frecuentemente adoptan estrategias de camuflaje del éxito (minimizar los logros públicamente) para reducir la envidia de los otros. Esta estrategia tiene sentido a corto plazo pero puede deteriorar la autenticidad.
+**El Principio de la Gestión del éxito en Entornos de Comparación:** Van de Ven y colegas muestran que las personas objeto de envidia ajena frecuentemente adoptan estrategias de camuflaje del éxito (minimizar los logros públicamente) para reducir la envidia de los otros. Esta estrategia tiene sentido a corto plazo pero puede deteriorar la autenticidad.
 
 La alternativa más funcional incluye: compartir el proceso (no solo el resultado, lo que humaniza el logró y reduce la percepción de que fue facil o inmerecido), destacar la contribución de otros, y mantener conexión genuina con las personas del entorno.
 
@@ -153,7 +153,7 @@ Ruben ha reducido su nivel de envidia de fondo a traves de un cambio en cómo se
 
 La claridad sobre los propios valores también reduce la envidia: cuando se tiene suficiente claridad sobre lo que genuinamente se valora, la comparación con personas que estan por delante en dimensiones menos importantes se vuelve menos activante.
 
-**Ejercicio inmediato:** Durante una semana, cuando notes el impulso de compararte con otros, sustituyelo por la pregunta estoy más cerca hoy de dónde quiero estar de lo que estaba hace seis meses? Esta sustitución sistemática construye el habito de la comparación temporal, que es igualmente motivadora y mucho menos corrosiva que la social.
+**Ejercicio inmediato:** Durante una semana, cuando notes el impulso de compararte con otros, sustituyelo por la pregunta estoy más cerca hoy de dónde quiero estar de lo que estaba hace seis meses? Esta sustitución sistemática construye el hábito de la comparación temporal, que es igualmente motivadora y mucho menos corrosiva que la social.
 
 La persona con quien más productivamente puedes compararte eres tu mismo de hace un año. Y probablemente hay más progreso ahí del que ves.
 
@@ -165,7 +165,7 @@ Ruben vió el ascenso del colega en LinkedIn un martes por la mañana. El estóm
 
 ---
 
-*Libro 39 de la colección psicología Aplicada, Libro 9 de 10 de Serie 04: Emociones y Gestion Emocional.*
+*Libro 39 de la colección psicología Aplicada, Libro 9 de 10 de Serie 04: Emociones y Gestión Emocional.*
 
 ---
 

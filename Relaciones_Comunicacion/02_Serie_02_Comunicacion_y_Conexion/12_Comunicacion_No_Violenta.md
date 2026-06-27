@@ -1,7 +1,7 @@
 # Comunicación No Violenta
 ## Expresa lo que necesitas sin herir ni alejarte
 
-**Serie 02: Comunicación y Conexion — Libro 2 de 10**
+**Serie 02: Comunicación y Conexión — Libro 2 de 10**
 
 ---
 
@@ -41,7 +41,7 @@ Cuando Ruben dice mi jefe me ignora, no está haciendo una observación. Está h
 
 **El Principio de la Camara de Video:** La observación en CNV es lo que una camara de video captaria: hechos concretos, específicos, verificables, sin adjetivos valorativos. Mi hijo ha llegado tarde tres veces esta semana es una observación. Mi hijo siempre llega tarde es una generalización. Mi hijo es irresponsable es un juicio. Solo la primera formulación permite una conversación.
 
-Jiddu Krishnamurti dijo que observar sin evaluar es la forma más elevada de inteligencia humana. No porque sea filosoficamente superior sino porque es practicamente más eficaz: cuando alguien recibe una observación, puede responder con información. Cuando recibe un juicio, solo puede defenderse o capitular.
+Jiddu Krishnamurti dijo que observar sin evaluar es la forma más elevada de inteligencia humana. No porque sea filosoficamente superior sino porque es prácticamente más eficaz: cuando alguien recibe una observación, puede responder con información. Cuando recibe un juicio, solo puede defenderse o capitular.
 
 **Ejercicio inmediato:** Toma una queja pendiente con alguien. Reescribela como observación específica sin adjetivos valorativos: el martes, dos veces esta semana, en la reunión de ayer. Esa versión es la que puede producir una conversación real.
 
@@ -151,7 +151,7 @@ No necesitas que el otro cambie para cambiar la conversación.
 
 La CNV no se aprende en un libro ni en un taller. Se aprende aplicandola, equivocandose, volviendo a intentarlo y poco a poco integrando los principios hasta que se convierten en algo más natural que lo que hacias antes.
 
-**El Principio del Proceso sobre la Perfección:** Nadie aplica la CNV perfectamente. El objetivo no es hablar siempre con el proceso completo en la cabeza. Es que los principios vayan permeando la forma de pensar sobre las relaciones: buscar la observación antes que el juicio, identificar la emoción real, conectar con la necesidad, hacer peticiones en lugar de exigencias. Esos cuatro habitos, aplicados gradualmente, cambian la calidad de toda la comunicación.
+**El Principio del Proceso sobre la Perfección:** Nadie aplica la CNV perfectamente. El objetivo no es hablar siempre con el proceso completo en la cabeza. Es que los principios vayan permeando la forma de pensar sobre las relaciones: buscar la observación antes que el juicio, identificar la emoción real, conectar con la necesidad, hacer peticiones en lugar de exigencias. Esos cuatro hábitos, aplicados gradualmente, cambian la calidad de toda la comunicación.
 
 **Ejercicio inmediato:** Esta semana, cada vez que vayas a criticar a alguien, para y pregúntate: ¿que necesidad mia no se está satisfaciendo aquí? Luego piensa como podrías comunicar esa necesidad en lugar de la crítica. Hacerlo algunas veces es suficiente para empezar a cambiar el patron.
 
@@ -169,7 +169,7 @@ El cambio en la comunicación no es rápido. Pero es de los pocos cambios que ti
 
 ---
 
-*Libro 12 de la colección, Libro 2 de 10 de Serie 02: Comunicación y Conexion.*
+*Libro 12 de la colección, Libro 2 de 10 de Serie 02: Comunicación y Conexión.*
 
 ---
 

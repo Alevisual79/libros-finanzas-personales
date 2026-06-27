@@ -21,7 +21,7 @@ Ruben tiene treinta y seis años y a veces siente que ha vivido los últimos cin
 
 ## Capítulo 1: El piloto automático: como funciona la mente que no elige
 
-La mayor parte del tiempo no elegimos conscientemente. Respondemos a habitos, presiones, y expectativas.
+La mayor parte del tiempo no elegimos conscientemente. Respondemos a hábitos, presiones, y expectativas.
 
 **El Principio del Piloto Automático como Estado por Defecto de la Mente que Requiere Esfuerzo Deliberado para Interrumpirse:** La investigación de Matthew Killingsworth y Daniel Gilbert muestra que el 47% del tiempo las personas estan pensando en algo diferente a lo que estan haciendo (mente errante). La investigación de John Bargh y colegas sobre el comportamiento automático muestra que una proporción significativa de los comportamientos socialmente complejos (incluidos comportamientos que las personas considerarian altamente deliberados) ocurren de forma automática sin conciencia deliberada.
 
@@ -29,7 +29,7 @@ El estado de piloto automático es adaptativo en muchos contextos: libera recurs
 
 **Ejercicio inmediato:** Durante los próximos tres dias, cuando tomes una decisión de más de cinco minutos de impacto (que harás esta tarde, a quien responderás, como reaccionarás en una conversación difícil), pausa dos segundos y hazte la pregunta: ¿estoy eligiendo esto o simplemente respondiendo al automatismo del momento? La pregunta no cambia automáticamente la decisión pero interrumpe el piloto automático y abre un espacio de elección genuina.
 
-La vida que no examinas no la estas viviendo. La está viviendo el habito.
+La vida que no examinas no la estas viviendo. La está viviendo el hábito.
 
 ---
 
@@ -37,7 +37,7 @@ La vida que no examinas no la estas viviendo. La está viviendo el habito.
 
 Elena ha aprendido de un curso sobre diseño de vida en Stanford una forma de pensar sobre las opciones vitales que le ha sido útil.
 
-**El Principio del Diseno de Vida como Aplicación de los Principios del Diseno Centrado en el Ser Humano a las Propias Elecciones Vitales:** Bill Burnett y Dave Evans, de la Escuela de Diseno de Stanford (d.school), desarrollaron el curso Designing Your Life (Disenar tu Vida), basado en los principios del design thinking aplicados a las decisiones vitales. Sus principios incluyen: el prototipado (probar antes de comprometerse), la reencuadración (ver los problemas como oportunidades de diseño), la orientación hacía la acción (iterar en lugar de planificar perfectamente), y la busqueda de colaboración (el buen diseño es social).
+**El Principio del Diseno de Vida como Aplicación de los Principios del Diseno Centrado en el Ser Humano a las Propias Elecciones Vitales:** Bill Burnett y Dave Evans, de la Escuela de Diseno de Stanford (d.school), desarrollaron el curso Designing Your Life (Disenar tu Vida), basado en los principios del design thinking aplicados a las decisiones vitales. Sus principios incluyen: el prototipado (probar antes de comprometerse), la reencuadración (ver los problemas como oportunidades de diseño), la orientación hacía la acción (iterar en lugar de planificar perfectamente), y la búsqueda de colaboración (el buen diseño es social).
 
 El diseño de vida parte de una premisa liberadora: no hay una vida perfecta esperando ser descubierta sino un espacio de posibilidades entre las que diseñar la vida con la información y los recursos que se tienen en cada momento.
 
@@ -53,7 +53,7 @@ Ruben tiene objetivos de negocio muy claros pero se pregunta si la consecución 
 
 **El Principio de los Objetivos de Aprendizaje y Proceso como Superior a los Objetivos de Resultado para el Bienestar y el Rendimiento a Largo Plazo:** Carol Dweck distingue entre los objetivos de rendimiento (hacer bien ante los demás, demostrar competencia, conseguir un resultado específico) y los objetivos de aprendizaje (desarrollar competencia, entender mejor, mejorar un proceso). Las personas con objetivos de aprendizaje muestran mayor resiliencia ante los fracasos, mayor persistencia, y mayor bienestar en el proceso de conseguir sus objetivos.
 
-La investigación de Gabriele Oettingen sobre la psicología de los objetivos muestra que la eficacia de un objetivo no depende solo de su claridad sino de que vaya acompanado de un plan específico para superar los obstaculos anticipados. Su metodologia WOOP (Wish, Outcome, Obstacle, Plan) produce consistentemente mayor tasa de consecución de objetivos que la fijación de objetivos sin planificación de obstaculos.
+La investigación de Gabriele Oettingen sobre la psicología de los objetivos muestra que la eficacia de un objetivo no depende solo de su claridad sino de que vaya acompanado de un plan específico para superar los obstaculos anticipados. Su metodología WOOP (Wish, Outcome, Obstacle, Plan) produce consistentemente mayor tasa de consecución de objetivos que la fijación de objetivos sin planificación de obstaculos.
 
 **Ejercicio inmediato:** Para tu objetivo más importante en los próximos seis meses, aplica el WOOP: Deseo (que quieres conseguir, en una frase), Resultado (como será tu vida cuando lo consigas, visualizalo en detalle), Obstaculo (cual es el principal obstaculo interno que puede impedirlo), Plan (que hare específicamente cuando aparezca ese obstaculo). El plan se formula cómo un si-entonces: si aparece el obstaculo X, entonces hare Y.
 
@@ -93,7 +93,7 @@ La vida que vives es la que atienes. El resto es escenario.
 
 Elena ha llegado a entender que las conversaciones más importantes de su vida no son las que tiene con otros sino las que tiene consigo misma.
 
-**El Principio del diálogo Interno como Determinante de la Experiencia Subjetiva y las Decisiones Vitales:** La investigación de Ethan Kross sobre el self-talk (diálogo interno) muestra que la forma en que las personas se hablan a si mismas en momentos de estres o de decisión tiene efectos significativos en el rendimiento, la regulación emocional, y el bienestar. Hablar a uno mismo en tercera persona (Ruben, que es lo mejor que puedes hacer ahora?) produce menor reactancia emocional y mejor rendimiento bajo presión que hablar en primera persona (que hago yo ahora?).
+**El Principio del diálogo Interno como Determinante de la Experiencia Subjetiva y las Decisiones Vitales:** La investigación de Ethan Kross sobre el self-talk (diálogo interno) muestra que la forma en que las personas se hablan a si mismas en momentos de estrés o de decisión tiene efectos significativos en el rendimiento, la regulación emocional, y el bienestar. Hablar a uno mismo en tercera persona (Ruben, que es lo mejor que puedes hacer ahora?) produce menor reactancia emocional y mejor rendimiento bajo presión que hablar en primera persona (que hago yo ahora?).
 
 La investigación de Aaron Beck sobre las distorsiones cognitivas muestra que el diálogo interno negativo frecuentemente contiene patrones de pensamiento distorsionado (catastrofización, personalización, pensamiento todo-o-nada) que producen sufrimiento innecesario y decisiones suboptimas.
 
@@ -123,7 +123,7 @@ Ruben esta en una transición profesional. Esos momentos son los que más requie
 
 **El Principio de las Transiciones Vitales como Ventanas de Oportunidad para Redefinir la Intención con la que se Vive:** William Bridges, en Transitions: Making Sense of Life's Changes, propone que las transiciones vitales (cambio de trabajo, mudanza, fin de una relación, inició de una nueva etapa) son los momentos donde el piloto automático se interrumpe naturalmente porque los patrones habituales ya no aplican. Esas interrupciones son incomodas, pero son también las oportunidades de mayor cambio deliberado: el nuevo comienzo (si se gestiona bien) puede establecerse con la intención que el comenzar-ya no permitia.
 
-La investigación de Wendy Wood sobre los habitos y los momentos de cambio confirma que los cambios de contexto (mudanzas, cambios de trabajo, inició de cursos académicos) son los momentos en que los habitos nuevos se forman más facilmente porque las señales contextuales del antiguo habito han desaparecido.
+La investigación de Wendy Wood sobre los hábitos y los momentos de cambio confirma que los cambios de contexto (mudanzas, cambios de trabajo, inició de cursos académicos) son los momentos en que los hábitos nuevos se forman más facilmente porque las señales contextuales del antiguo hábito han desaparecido.
 
 **Ejercicio inmediato:** Si estas en una transición vital (o si hay una próxima) reflexiona: ¿que intención quiero que guie esta nueva etapa? ¿Que patrones del pasado no quiero reproducir? ¿Que posibilidades abre esta transición que el estado anterior no abria? Las respuestas a esas preguntas en el momento de la transición producen el diseño deliberado de la nueva etapa antes de que el piloto automático tome el control.
 
@@ -135,13 +135,13 @@ La transición que atraviesas sin intención reproduce el pasado con nuevo escen
 
 Elena ha aprendido que incluso en las relaciones más intimas el piloto automático puede tomar el control de formas que no elegiriamos conscientemente.
 
-**El Principio de la Intención Relacional como Elección Deliberada de Como Queremos Estar Presentes en los Vinculos que más Importan:** La investigación de John Gottman sobre las parejas muestra que las diferencias entre las relaciones que funcionan bien y las que no no estan principalmente en la ausencia de conflicto sino en la intencionalidad de los momentos de conexión: las parejas que expresan deliberadamente apreciación, que responden activamente a los intentos de conexión del otro, y que crean rituales positivos compartidos muestran mayor satisfacción y mayor duración en la relación.
+**El Principio de la Intención Relacional como Elección Deliberada de Como Queremos Estar Presentes en los Vínculos que más Importan:** La investigación de John Gottman sobre las parejas muestra que las diferencias entre las relaciones que funcionan bien y las que no no estan principalmente en la ausencia de conflicto sino en la intencionalidad de los momentos de conexión: las parejas que expresan deliberadamente apreciación, que responden activamente a los intentos de conexión del otro, y que crean rituales positivos compartidos muestran mayor satisfacción y mayor duración en la relación.
 
 La investigación de Daniel Goleman sobre la presencia en las relaciones muestra que la calidad de la atención que se presta al otro en las interacciones (presencia total vs. presencia dividida por el teléfono o los pensamientos) es percibida y tiene efectos en la calidad de la relación.
 
 **Ejercicio inmediato:** Para la relación más importante de tu vida, diseña un ritual semanal de conexión intencional: un momento específico (el mismo dia y hora cada semana) dedicado exclusivamente a esa relación, sin pantallas, sin agenda de tareas pendientes, con presencia total. La intención que le das a ese ritual semanal produce más calidad relacional que los momentos no planeados de conexión.
 
-La relación que dejamos crecer sola sin riego intencional se vuelve lo que el tiempo y los habitos la hacen. No lo que elegiriamos si eligieramos.
+La relación que dejamos crecer sola sin riego intencional se vuelve lo que el tiempo y los hábitos la hacen. No lo que elegiriamos si eligieramos.
 
 ---
 
@@ -149,7 +149,7 @@ La relación que dejamos crecer sola sin riego intencional se vuelve lo que el t
 
 Isabel ha llegado al final de este libro con una visión de su vida cómo un proyecto coherente que puede diseñar con mayor deliberación.
 
-**El Principio de la Vida Integrada como Visión donde la Intención Atraviesa todas las Dimensiones y las Hace Coherentes entre Si:** Stephen Covey propone en Los 7 Habitos de la Gente Altamente Efectiva que la efectividad personal a largo plazo requiere la integración de todas las dimensiones de la vida (trabajo, relaciones, desarrollo personal, salud, contribución a la comunidad) bajo un conjunto coherente de valores y principios. La vida que no tiene ese hilo integrador frecuentemente produce éxito en algunas áreas y vacio en otras.
+**El Principio de la Vida Integrada como Visión donde la Intención Atraviesa todas las Dimensiones y las Hace Coherentes entre Si:** Stephen Covey propone en Los 7 Hábitos de la Gente Altamente Efectiva que la efectividad personal a largo plazo requiere la integración de todas las dimensiones de la vida (trabajo, relaciones, desarrollo personal, salud, contribución a la comunidad) bajo un conjunto coherente de valores y principios. La vida que no tiene ese hilo integrador frecuentemente produce éxito en algunas áreas y vacio en otras.
 
 La investigación sobre el bienestar de Martin Seligman (modeló PERMA: Positive emotions, Engagement, Relationships, Meaning, Achievement) propone que el florecimiento humano requiere contribuciones en todas las dimensiones simultaneamente, no la maximización de una a expensas de las otras.
 

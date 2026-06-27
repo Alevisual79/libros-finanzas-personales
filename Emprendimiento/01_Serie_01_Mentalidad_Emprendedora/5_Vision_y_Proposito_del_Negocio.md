@@ -93,7 +93,7 @@ La oportunidad que te aleja de tu por qué tiene el precio de quien eres como ne
 
 Carlos ha intentado articular el proposito de su negocio y cada vez que lo hace suena a marketing vacio. Hay un proceso para encontrar el proposito real.
 
-**El Principio del Proposito Autentico como Emergente del Proceso de Busqueda en Lugar de Diseñado de Fuera Hacia Dentro:** Simon Sinek en Find Your Why propone un proceso de descubrimiento del proposito que incluye: la recopilación de historias de momentos en que el fundador se ha sentido más orgulloso del negocio y más conectado con lo que hace, el análisis de los temas y contribuciones comunes que emergen de esas historias, y la formulación del proposito cómo una contribución específica a un cambio específico.
+**El Principio del Proposito Autentico como Emergente del Proceso de Búsqueda en Lugar de Diseñado de Fuera Hacia Dentro:** Simon Sinek en Find Your Why propone un proceso de descubrimiento del proposito que incluye: la recopilación de historias de momentos en que el fundador se ha sentido más orgulloso del negocio y más conectado con lo que hace, el análisis de los temas y contribuciones comunes que emergen de esas historias, y la formulación del proposito cómo una contribución específica a un cambio específico.
 
 Bill Damon en La senda del bien propone que el proposito genuino tiene dos características: importa genuinamente a la persona (produce energía y motivación intrinsecos) y produce algo de valor para el mundo más allá de los beneficios del propio individuo. El proposito que no cumple las dos condiciones es o motivación personal sin impacto externo o altruismo sin combustible interno.
 
@@ -135,7 +135,7 @@ La visión que no puede contarse como historia no puede inspirar como visión. L
 
 Carlos ha vivido un momento en que la visión inicial de su negocio ya no se sostenía ante la realidad del mercado.
 
-**El Principio de la Distinción entre Pivotar la Estrategia (Necesario) y Abandonar el Proposito (Costos) como Clave para Navegar los Cambios de Dirección sin Perder la Identidad:** Simon Sinek propone que las empresas que perduran cambian el como (las estrategias y los modelos de negocio) y el que (los productos y servicios específicos) pero no el por qué (el proposito fundamental). Un pivot estratégico es la busqueda de un camino diferente hacía el mismo destino; el abandono del proposito es cambiar el destino cuando el camino es difícil.
+**El Principio de la Distinción entre Pivotar la Estrategia (Necesario) y Abandonar el Proposito (Costos) como Clave para Navegar los Cambios de Dirección sin Perder la Identidad:** Simon Sinek propone que las empresas que perduran cambian el como (las estrategias y los modelos de negocio) y el que (los productos y servicios específicos) pero no el por qué (el proposito fundamental). Un pivot estratégico es la búsqueda de un camino diferente hacía el mismo destino; el abandono del proposito es cambiar el destino cuando el camino es difícil.
 
 La investigación de Eric Ries sobre los pivots en startups muestra que los pivots más exitosos son los que cambian el modelo o el mercado mientras mantienen el aprendizaje acumulado sobre el cliente y el problema, en lugar de empezar desde cero cada vez.
 

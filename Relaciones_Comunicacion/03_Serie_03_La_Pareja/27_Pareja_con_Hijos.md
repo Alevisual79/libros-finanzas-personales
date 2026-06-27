@@ -19,7 +19,7 @@ Casi ninguna pareja llega preparada para lo que la llegada de un hijo hace a su 
 
 Esto no es una falla personal. Es la consecuencia predecible de añadir una de las cargas de tiempo, sueño y atención más grandes que existen a una relación que antes tenía recursos limitados pero suficientes para sostenerse.
 
-Las parejas que atraviesan la crianza sin que la relación se erosione no son las que tienen hijos más faciles o menos estres económico. Son las que entienden lo que está pasando y se preparan deliberadamente para protegerse mutuamente durante el proceso.
+Las parejas que atraviesan la crianza sin que la relación se erosione no son las que tienen hijos más faciles o menos estrés económico. Son las que entienden lo que está pasando y se preparan deliberadamente para protegerse mutuamente durante el proceso.
 
 ---
 
@@ -77,7 +77,7 @@ El tiempo de pareja que sacrificas por los hijos hoy es el que les falta para cr
 
 Las diferencias en estilo de crianza, que pueden no haber sido visibles antes de tener hijos, se vuelven una fuente significativa de conflicto cuando cada miembro de la pareja trae expectativas distintas sobre disciplina, límites, y forma de relacionarse con los hijos.
 
-**El Principio del Estilo de Crianza como Valor Heredado:** Los estilos de crianza tienen raices profundas en la propia experiencia de haber sido criado, y suelen activarse de forma automática e inconsciente en momentos de estres con los hijos. Cuando dos personas con estilos distintos no han negociado conscientemente como van a criar juntos, los hijos reciben mensajes contradictorios y la pareja acumula conflicto sobre cada decisión de crianza.
+**El Principio del Estilo de Crianza como Valor Heredado:** Los estilos de crianza tienen raices profundas en la propia experiencia de haber sido criado, y suelen activarse de forma automática e inconsciente en momentos de estrés con los hijos. Cuando dos personas con estilos distintos no han negociado conscientemente como van a criar juntos, los hijos reciben mensajes contradictorios y la pareja acumula conflicto sobre cada decisión de crianza.
 
 **Ejercicio inmediato:** Describan el estilo de crianza con el que cada uno fue educado. Identifiquen que aspectos quieren replicar y cuales quieren evitar. Comparen las dos listas y negocien un enfoque conjunto, especialmente en las áreas donde hay más diferencia.
 

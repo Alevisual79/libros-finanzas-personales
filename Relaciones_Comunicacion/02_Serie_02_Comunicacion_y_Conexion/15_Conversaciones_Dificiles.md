@@ -1,7 +1,7 @@
 # Conversaciones Dificiles
 ## Como decir lo que necesitas decir sin destruir lo que importa
 
-**Serie 02: Comunicación y Conexion — Libro 5 de 10**
+**Serie 02: Comunicación y Conexión — Libro 5 de 10**
 
 ---
 
@@ -173,7 +173,7 @@ Las conversaciones difíciles no siempre van bien. Pero no tenerlas casi siempre
 
 ---
 
-*Libro 15 de la colección, Libro 5 de 10 de Serie 02: Comunicación y Conexion.*
+*Libro 15 de la colección, Libro 5 de 10 de Serie 02: Comunicación y Conexión.*
 
 ---
 

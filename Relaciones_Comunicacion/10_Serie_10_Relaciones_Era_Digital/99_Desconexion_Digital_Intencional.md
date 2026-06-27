@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ha revisado su movil cuarenta veces mientras leía este mismo libro, un dato que el registro de tiempo de pantalla de su dispositivo le revela con precisión incomoda. No fue por ninguna necesidad real de información urgente. Fue, simplemente, habito automático, un patron tan profundamente instalado que ocurre sin que la decisión consciente de revisar el teléfono llegue siquiera a formarse antes de la acción misma.
+Ruben ha revisado su movil cuarenta veces mientras leía este mismo libro, un dato que el registro de tiempo de pantalla de su dispositivo le revela con precisión incomoda. No fue por ninguna necesidad real de información urgente. Fue, simplemente, hábito automático, un patron tan profundamente instalado que ocurre sin que la decisión consciente de revisar el teléfono llegue siquiera a formarse antes de la acción misma.
 
 ---
 
@@ -47,11 +47,11 @@ Las notificaciones fragmentan tu presencia incluso cuando no actuas sobre ellas 
 
 Los períodos deliberados de desconexion tecnologica, conocidos como detox digital, han sido estudiados con cierto rigor cientifico, mostrando beneficios documentados aunque con matices importantes sobre su implementación efectiva.
 
-**El Principio de la Evidencia con Matices:** La investigación sobre detox digital muestra consistentemente mejoras en bienestar subjetivo, calidad de sueño, y satisfacción relacional durante y después de períodos de desconexion deliberada, aunque los beneficios tienden a ser más sostenidos cuando el detox se acompaña de cambios más permanentes de habito, en lugar de ser un evento aislado seguido de un retorno completo a los patrones anteriores.
+**El Principio de la Evidencia con Matices:** La investigación sobre detox digital muestra consistentemente mejoras en bienestar subjetivo, calidad de sueño, y satisfacción relacional durante y después de períodos de desconexion deliberada, aunque los beneficios tienden a ser más sostenidos cuando el detox se acompaña de cambios más permanentes de hábito, en lugar de ser un evento aislado seguido de un retorno completo a los patrones anteriores.
 
-**Ejercicio inmediato:** Planifica un período específico de detox digital (un dia, un fin de semana) y, más importante, identifica que cambio de habito más permanente podrías mantener después de ese período.
+**Ejercicio inmediato:** Planifica un período específico de detox digital (un dia, un fin de semana) y, más importante, identifica que cambio de hábito más permanente podrías mantener después de ese período.
 
-Un detox digital aislado produce beneficios temporales. Los beneficios más duraderos vienen de cambios de habito más permanentes que el detox puede ayudar a iniciar.
+Un detox digital aislado produce beneficios temporales. Los beneficios más duraderos vienen de cambios de hábito más permanentes que el detox puede ayudar a iniciar.
 
 ---
 
@@ -59,7 +59,7 @@ Un detox digital aislado produce beneficios temporales. Los beneficios más dura
 
 Implementar períodos de desconexion tecnologica compartidos a nivel familiar, donde todos los miembros participan conjuntamente, genera beneficios específicos de conexión que el detox individual no proporciona de la misma forma.
 
-**El Principio de la Desconexion Compartida como Experiencia de Vinculo:** Cuando una familia completa participa conjuntamente en un período de desconexion tecnologica, la experiencia no solo reduce el uso individual de dispositivos, sino que genera oportunidades específicas de interacción familiar compartida que de otra forma competirian constantemente con la disponibilidad individual de pantallas.
+**El Principio de la Desconexion Compartida como Experiencia de Vínculo:** Cuando una familia completa participa conjuntamente en un período de desconexion tecnologica, la experiencia no solo reduce el uso individual de dispositivos, sino que genera oportunidades específicas de interacción familiar compartida que de otra forma competirian constantemente con la disponibilidad individual de pantallas.
 
 **Ejercicio inmediato:** Propone a tu familia un período específico de desconexion compartida (una tarde, un dia completo) donde todos, incluyendo los adultos, participen igualmente.
 
@@ -73,7 +73,7 @@ Más allá de los períodos completos de desconexion, desarrollar prácticas de 
 
 **El Principio de la Intencionalidad como práctica Cotidiana:** técnicas como preguntarse explicitamente el proposito antes de tomar el teléfono, establecer momentos específicos para revisar notificaciones en lugar de hacerlo constantemente, y practicar pausas conscientes antes de acciones automáticas de revisión, transforman el uso de tecnología de un patron reactivo automático a una práctica más deliberada y consciente.
 
-**Ejercicio inmediato:** La próxima vez que tomes tu teléfono por habito, pausa un momento y pregunta explicitamente: ¿cual es mi proposito específico al tomarlo ahora?
+**Ejercicio inmediato:** La próxima vez que tomes tu teléfono por hábito, pausa un momento y pregunta explicitamente: ¿cual es mi proposito específico al tomarlo ahora?
 
 El uso consciente de la tecnología no requiere eliminarla completamente. Requiere practicar la pausa deliberada antes de la acción automática de revisarla constantemente.
 
@@ -107,11 +107,11 @@ El FOMO que sabotea tus intentos de desconexion frecuentemente es desproporciona
 
 Establecer rituales específicos y regulares de actividad completamente libre de tecnología ayuda a contrarrestar la tendencia por defecto hacía el uso constante de dispositivos digitales.
 
-**El Principio del Ritual como Estructura Protectora:** Rituales específicos (una caminata diaria sin teléfono, una comida familiar sin dispositivos, un tiempo de lectura física antes de dormir) crean estructura protegida donde la presencia sin tecnología se convierte en habito establecido, en lugar de depender de la fuerza de voluntad momento a momento para resistir la tentación constante del dispositivo.
+**El Principio del Ritual como Estructura Protectora:** Rituales específicos (una caminata diaria sin teléfono, una comida familiar sin dispositivos, un tiempo de lectura física antes de dormir) crean estructura protegida donde la presencia sin tecnología se convierte en hábito establecido, en lugar de depender de la fuerza de voluntad momento a momento para resistir la tentación constante del dispositivo.
 
 **Ejercicio inmediato:** Establece un ritual específico y regular de actividad completamente libre de tecnología que podrías implementar esta semana.
 
-Un ritual regular de presencia sin tecnología no depende de tu fuerza de voluntad diaria. Se convierte, con la repetición, en un habito establecido que protege ese espacio automáticamente.
+Un ritual regular de presencia sin tecnología no depende de tu fuerza de voluntad diaria. Se convierte, con la repetición, en un hábito establecido que protege ese espacio automáticamente.
 
 ---
 

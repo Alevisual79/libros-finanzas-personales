@@ -19,7 +19,7 @@ Elena se suscribio en 2023 a todos los boletines de IA que pudo encontrar. En tr
 
 Borro la mitad. Luego borro otra mitad. Al final se quedo con ocho. De esos ocho, tres los leía de verdad.
 
-La cuestion no era acceder a más información: era filtrar la información correcta y procesarla de forma que produjera aprendizaje real, no solo la sensación de estar actualizado.
+La cuestión no era acceder a más información: era filtrar la información correcta y procesarla de forma que produjera aprendizaje real, no solo la sensación de estar actualizado.
 
 ---
 

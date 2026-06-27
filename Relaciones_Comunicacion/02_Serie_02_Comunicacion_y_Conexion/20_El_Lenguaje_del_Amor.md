@@ -1,7 +1,7 @@
 # El Lenguaje del Amor
 ## Como expresar afecto de formas que la otra persona pueda recibir
 
-**Serie 02: Comunicación y Conexion — Libro 10 de 10**
+**Serie 02: Comunicación y Conexión — Libro 10 de 10**
 
 ---
 
@@ -99,7 +99,7 @@ El amor que se hace, no el que se dice, es el que algunas personas solo pueden s
 
 Hay personas que se sienten conectadas con un abrazo de una forma que ningún regalo ni ninguna palabra puede producir. El contacto físico es para ellas el canal principal de la conexión emocional. Sin ese contacto, la relación se siente distante aunque todo lo demás funcione.
 
-**El Principio de la Conexion Somatica:** El tacto activa la liberación de oxitocina, la hormona de la conexión y el vinculó. Hay personas para las que ese mecanismo es especialmente sensible: el contacto físico, en forma de abrazo, caricia, mano en el hombro o simplemente estar físicamente cerca, tiene un impacto emocional que otros canales no pueden igualar.
+**El Principio de la Conexión Somatica:** El tacto activa la liberación de oxitocina, la hormona de la conexión y el vinculó. Hay personas para las que ese mecanismo es especialmente sensible: el contacto físico, en forma de abrazo, caricia, mano en el hombro o simplemente estar físicamente cerca, tiene un impacto emocional que otros canales no pueden igualar.
 
 El contacto físico como lenguaje del amor no es exclusivamente sexual. Incluye el abrazo al llegar a casa, la mano que se toma en la mesa, el brazo que se pone sobre el hombro, la cabeza que apoya en el otro. Esos gestos, para las personas con este lenguaje, comunican seguridad, pertenencia y afecto de una forma que ninguna palabra puede replicar.
 
@@ -159,7 +159,7 @@ El objetivo a largo plazo no es solo hablar el lenguaje primario del otro. Es de
 
 Chapman señala que cuando ambas personas se sienten amadas de la forma que necesitan, la relación tiene reservas emocionales suficientes para atravesar los períodos difíciles sin perder la conexión. Las reservas emocionales son el resultado acumulado de expresar amor en el idioma del otro de forma consistente.
 
-**Ejercicio inmediato:** Esta semana, elige dos lenguajes del amor que no sean tu lenguaje primario y práctica uno de cada. Si tu lenguaje es los actos de servicio, di algo de aprecio específico (palabras) y organiza una hora de atención completa (tiempo). El esfuerzo deliberado de expandir el repertorio es lo que lo convierte gradualmente en habito.
+**Ejercicio inmediato:** Esta semana, elige dos lenguajes del amor que no sean tu lenguaje primario y práctica uno de cada. Si tu lenguaje es los actos de servicio, di algo de aprecio específico (palabras) y organiza una hora de atención completa (tiempo). El esfuerzo deliberado de expandir el repertorio es lo que lo convierte gradualmente en hábito.
 
 El amor que se expresa en todos los idiomas que el otro puede escuchar es el amor que realmente llega.
 
@@ -175,7 +175,7 @@ No cambiaron lo que sentían el uno por el otro. Cambiaron cómo lo decían. Y e
 
 ---
 
-*Libro 20 de la colección, Libro 10 de 10 de Serie 02: Comunicación y Conexion.*
+*Libro 20 de la colección, Libro 10 de 10 de Serie 02: Comunicación y Conexión.*
 
 ---
 

@@ -67,7 +67,7 @@ El contenido web que no aparece en Google no existe. Las herramientas de SEO con
 
 **Surfer SEO:** Analiza las páginas que rankean para una keyword y genera una guia de contenido. La IA genera el contenido siguiendo esa guia. El proceso: keyword research con IA, outline optimizado, redacción asistida, scoring de SEO en tiempo real.
 
-**Frase:** Similar a Surfer pero con mayor enfasis en la investigación de las preguntas que los usuarios hacen. Ideal para contenido informacional y FAQs.
+**Frase:** Similar a Surfer pero con mayor énfasis en la investigación de las preguntas que los usuarios hacen. Ideal para contenido informacional y FAQs.
 
 **MarketMuse:** Más orientado a estrategia de contenido a nivel de sitio web completo. Identifica gaps de contenido y oportunidades.
 

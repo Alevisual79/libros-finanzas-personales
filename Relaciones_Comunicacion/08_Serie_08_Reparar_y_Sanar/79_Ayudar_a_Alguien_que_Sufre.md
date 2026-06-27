@@ -97,7 +97,7 @@ El apoyo emocional que amigos y familiares pueden ofrecer, aunque valioso, tiene
 
 **El Principio del Reconocimiento de los Limites del Apoyo No Profesional:** El apoyo emocional informal, aunque valioso para muchas formas de sufrimiento cotidiano, tiene límites claros cuando el sufrimiento involucra condiciones de salud mental significativas (depresión clinica, trastornos de ansiedad severos, ideación suicida) que requieren intervención profesional especializada que el apoyo informal, sin importar cuan bien intencionado, no puede sustituir.
 
-**Ejercicio inmediato:** Si estas acompañando a alguien cuyo sufrimiento parece exceder lo que el apoyo informal puede manejar adecuadamente, evalua si ha llegado el momento de sugerir, con cuidado y respeto, la busqueda de apoyo profesional.
+**Ejercicio inmediato:** Si estas acompañando a alguien cuyo sufrimiento parece exceder lo que el apoyo informal puede manejar adecuadamente, evalua si ha llegado el momento de sugerir, con cuidado y respeto, la búsqueda de apoyo profesional.
 
 El apoyo de amigos y familia es valioso, pero tiene límites reales. Reconocer cuando se han alcanzado esos límites no es fracaso; es responsabilidad.
 
@@ -131,7 +131,7 @@ Apoyar a alguien con depresión o ansiedad requiere entender la condición espec
 
 Las personas que dedican significativo tiempo y energía a apoyar a otros que sufren, ya sea de forma puntual o como rol más constante en su vida, merecen reconocimiento de su propia necesidad de apoyo y cuidado.
 
-**El Principio de la Reciprocidad del Cuidado:** Las personas que cuidan emocionalmente de otros consistentemente, especialmente en roles de larga duración (padres de hijos con dificultades severas, parejas de personas con condiciones de salud mental cronicas), necesitan su propia red de apoyo y, frecuentemente, su propio espacio terapeutico, para sostener su capacidad de cuidado sin agotarse completamente en el proceso.
+**El Principio de la Reciprocidad del Cuidado:** Las personas que cuidan emocionalmente de otros consistentemente, especialmente en roles de larga duración (padres de hijos con dificultades severas, parejas de personas con condiciones de salud mental cronicas), necesitan su propia red de apoyo y, frecuentemente, su propio espacio terapéutico, para sostener su capacidad de cuidado sin agotarse completamente en el proceso.
 
 **Ejercicio inmediato:** Si te encuentras en un rol prolongado de cuidado emocional de otra persona, identifica tu propia red de apoyo actual. Es suficiente para sostener tu propio bienestar mientras sostienes el de la otra persona?
 

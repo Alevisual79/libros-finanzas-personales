@@ -135,11 +135,11 @@ El ser que no prácticas no desaparece. Pero se vuelve cada vez más inaccesible
 
 Elena piensa en como quiere estar mentalmente a los setenta y descubre que las decisiones que toma hoy ya estan formando ese futuro.
 
-**El Principio del Envejecimiento Exitoso como Resultado de Habitos Acumulados:** La investigación de Rowe y Kahn sobre el envejecimiento exitoso identifica tres componentes: la baja probabilidad de enfermedad y discapacidad, el mantenimiento de una alta función cognitiva y física, y el compromiso activo con la vida. Los tres componentes dependen en gran medida de los habitos mantenidos durante la vida media.
+**El Principio del Envejecimiento Exitoso como Resultado de Hábitos Acumulados:** La investigación de Rowe y Kahn sobre el envejecimiento exitoso identifica tres componentes: la baja probabilidad de enfermedad y discapacidad, el mantenimiento de una alta función cognitiva y física, y el compromiso activo con la vida. Los tres componentes dependen en gran medida de los hábitos mantenidos durante la vida media.
 
 La investigación neurocientifera de Marian Diamond sobre la neuroplasticidad y la de Michael Merzenich sobre el entrenamiento cognitivo muestran que el cerebro conserva la capacidad de cambio y adaptación a lo largo de la vida, y que el uso sostenido de capacidades cognitivas, relacionales, y creativas retrasa el declive cognitivo asociado al envejecimiento.
 
-**Ejercicio inmediato:** Imagina a la persona que quieres ser a los setenta años en tres dimensiones: ¿mentalmente (que tan aguda quieres que este tu mente?), físicamente (que nivel de función física quieres mantener?), y relacionalmente (que tipo de relaciones quieres tener?). Para cada dimensión, identifica un habito que podrías empezar a establecer ahora que construya hacía esa visión.
+**Ejercicio inmediato:** Imagina a la persona que quieres ser a los setenta años en tres dimensiones: ¿mentalmente (que tan aguda quieres que este tu mente?), físicamente (que nivel de función física quieres mantener?), y relacionalmente (que tipo de relaciones quieres tener?). Para cada dimensión, identifica un hábito que podrías empezar a establecer ahora que construya hacía esa visión.
 
 La persona que seras a los setenta está siendo formada por las decisiones que tomas a los treinta, los cuarenta, y los cincuenta. No en un sentido determinista. En un sentido probabilistico que favorece la inversión temprana.
 

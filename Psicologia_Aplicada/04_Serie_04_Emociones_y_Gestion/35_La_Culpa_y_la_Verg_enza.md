@@ -1,7 +1,7 @@
 # La Culpa y la Vergüenza
 ## Como liberarte de las emociones que te encadenan al pasado
 
-**Serie 04: Emociones y Gestion Emocional — Libro 5 de 10**
+**Serie 04: Emociones y Gestión Emocional — Libro 5 de 10**
 
 ---
 
@@ -151,7 +151,7 @@ Isabel ha llegado a una relación diferente con sus errores pasados. No los ha o
 
 **El Principio del Yo como Proceso en Construcción Continua:** Viktor Frankl, neurologo y psicologo que sobrevivio a los campos de concentración nazis, propuso que la responsabilidad humana no es solo sobre el pasado (lo que se ha hecho) sino sobre el futuro (lo que se puede hacer todavia con lo que se es y se tiene). La persona que se define completamente por sus errores pasados niega precisamente la capacidad de ser diferente en el futuro, que es la forma más genuina de responsabilizarse.
 
-Rick Hanson, psicologo y neurocientifico, propone que el cerebro puede aprender a relacionarse de forma diferente con los errores del pasado a traves de lo que llama la instalación deliberada de experiencias positivas: la práctica de hacer conscientes los momentos de reparación, de crecimiento, y de actuar de forma alineada con los propios valores, para contrarrestar el sesgo de negatividad que hace que los errores se recuerden con más fuerza que los aciertos.
+Rick Hanson, psicologo y neurocientífico, propone que el cerebro puede aprender a relacionarse de forma diferente con los errores del pasado a traves de lo que llama la instalación deliberada de experiencias positivas: la práctica de hacer conscientes los momentos de reparación, de crecimiento, y de actuar de forma alineada con los propios valores, para contrarrestar el sesgo de negatividad que hace que los errores se recuerden con más fuerza que los aciertos.
 
 **Ejercicio inmediato:** Para la culpa o la verguenza que más peso lleva, escribe una declaración de liberación en tres partes: esto es lo que ocurrio (descripción honesta sin minimización), esto es lo que aprendi y lo que cambie (el aprendizaje genuino), y esto es lo que me dejó: la libertad de seguir adelante sin que ese error defina quien soy. La liberación no es olvidar. Es decidir que el pasado informa pero no encarcela.
 
@@ -165,7 +165,7 @@ Isabel durmio una noche sin despertar pensando en esa decisión de los veinte a�
 
 ---
 
-*Libro 35 de la colección psicología Aplicada, Libro 5 de 10 de Serie 04: Emociones y Gestion Emocional.*
+*Libro 35 de la colección psicología Aplicada, Libro 5 de 10 de Serie 04: Emociones y Gestión Emocional.*
 
 ---
 

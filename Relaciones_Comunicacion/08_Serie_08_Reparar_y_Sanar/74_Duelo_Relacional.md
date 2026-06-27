@@ -33,7 +33,7 @@ Perder una relación, aunque la otra persona siga viva, es una perdida real que 
 
 ## Capítulo 2: Las fases del duelo aplicadas a relaciones
 
-El modelo clasico de fases del duelo, aunque no se aplica de forma rigidamente lineal, ofrece un marcó útil para entender el proceso de procesar la perdida de una relación significativa.
+El modelo clásico de fases del duelo, aunque no se aplica de forma rigidamente lineal, ofrece un marcó útil para entender el proceso de procesar la perdida de una relación significativa.
 
 **El Principio de las Fases No Lineales del Duelo Relacional:** Las fases tipicamente identificadas en el duelo (negación, ira, negociación, tristeza, aceptación) se aplican al duelo relacional de forma similar a cómo se aplican a otras perdidas, aunque no necesariamente en orden estricto ni con duración predecible. Reconocer en que fase se encuentra el propio proceso ayuda a normalizar la experiencia actual.
 
@@ -107,7 +107,7 @@ Cuando alguien sigue vivo pero la relación que tenías con ellos ya no existe, 
 
 Los disparadores sensoriales asociados con una relación perdida (objetos, lugares, musica) pueden reactivar el dolor del duelo de formas intensas e inesperadas, requiriendo estrategias conscientes de gestión.
 
-**El Principio de la Gestion Consciente de Disparadores:** Los disparadores sensoriales asociados con una relación perdida tienen el poder de reactivar emociones de duelo con intensidad sorprendente, incluso mucho tiempo después de la perdida. Gestionar estos disparadores conscientemente (decidir que hacer con objetos significativos, como manejar lugares o canciones asociadas) en lugar de evitarlos completamente o exponerse a ellos sin preparación, facilita un procesamiento más gradual.
+**El Principio de la Gestión Consciente de Disparadores:** Los disparadores sensoriales asociados con una relación perdida tienen el poder de reactivar emociones de duelo con intensidad sorprendente, incluso mucho tiempo después de la perdida. Gestionar estos disparadores conscientemente (decidir que hacer con objetos significativos, como manejar lugares o canciones asociadas) en lugar de evitarlos completamente o exponerse a ellos sin preparación, facilita un procesamiento más gradual.
 
 **Ejercicio inmediato:** Identifica un disparador específico (objeto, lugar, canción) asociado con tu relación perdida que sigue generando dolor intenso. Decide conscientemente como quieres gestionar ese disparador: guardarlo, deshacerte de el, o exponerte a el gradualmente con preparación.
 

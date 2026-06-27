@@ -147,7 +147,7 @@ No puedes cambiar lo que no puedes aceptar que existe. La aceptación es el prim
 
 ## Capítulo 10: Vivir con autocompasión como habito
 
-Ruben ha incorporado la autocompasión como habito diario: cuando se equivoca, tiene treinta segundos de pausa compasiva antes de responder. Cuando el crítico interno se activa con fuerza, nota su activación antes de fusionarse con su contenido. Cuando tiene un dia difícil, se trata con la amabilidad que daria a un amigo cercano.
+Ruben ha incorporado la autocompasión como hábito diario: cuando se equivoca, tiene treinta segundos de pausa compasiva antes de responder. Cuando el crítico interno se activa con fuerza, nota su activación antes de fusionarse con su contenido. Cuando tiene un dia difícil, se trata con la amabilidad que daria a un amigo cercano.
 
 **El Principio de la Autocompasión como Sistema Operativo, no como Aplicación:** Kristin Neff propone que la meta del trabajo con la autocompasión no es usarla como herramienta en momentos de crisis, sino incorporarla como el sistema operativo desde el que se procesa la experiencia de la vida en general. Esto no significa que la autocritica desaparezca completamente. Significa que la respuesta predeterminada ante el error y el sufrimiento es la compasión en lugar de la crítica.
 

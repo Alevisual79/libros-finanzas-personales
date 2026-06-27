@@ -59,7 +59,7 @@ La dificultad de salir de una relación toxica no es debilidad de carácter. Es 
 
 Después de terminar una relación toxica, es común experimentar un nivel de dependencia emocional residual hacía la expareja que puede sentirse confuso, especialmente cuando la relación en si era claramente daniña.
 
-**El Principio de la Dependencia como Residuo del Vinculo, no de la Calidad de la Relación:** El apego emocional que persiste después de terminar una relación toxica frecuentemente no se correlaciona con cuanto bien hacía esa persona, sino con la intensidad del vinculó de apego que se formo, a menudo intensificado precisamente por la inestabilidad y el ciclo de tensión-reconciliación de la relación toxica. Esto explica por qué algunas personas extranian intensamente relaciones que objetivamente las dañaron.
+**El Principio de la Dependencia como Residuo del Vínculo, no de la Calidad de la Relación:** El apego emocional que persiste después de terminar una relación toxica frecuentemente no se correlaciona con cuanto bien hacía esa persona, sino con la intensidad del vinculó de apego que se formo, a menudo intensificado precisamente por la inestabilidad y el ciclo de tensión-reconciliación de la relación toxica. Esto explica por qué algunas personas extranian intensamente relaciones que objetivamente las dañaron.
 
 **Ejercicio inmediato:** Si experimentas dependencia emocional persistente hacía una expareja de una relación que reconoces como toxica, recuerda que este apego es sobre la intensidad del vinculó, no sobre el valor real de esa relación.
 
@@ -83,7 +83,7 @@ El contacto cero no es venganza ni inmadurez. Es la herramienta más efectiva, s
 
 Las relaciones toxicas frecuentemente dejan a la persona con una autoestima significativamente erosionada que requiere trabajo activo de reconstrucción, no simplemente el paso del tiempo.
 
-**El Principio de la Reconstrucción Activa de la Identidad Erosionada:** La autoestima daniada por una relación toxica se beneficia de prácticas activas de reconstrucción: reconectar con actividades y logros independientes de la relación que generaron sentido de competencia, identificar conscientemente las distorsiones que la relación toxica instalo sobre la propia valia, y, frecuentemente, trabajo terapeutico que aborde las heridas más profundas.
+**El Principio de la Reconstrucción Activa de la Identidad Erosionada:** La autoestima daniada por una relación toxica se beneficia de prácticas activas de reconstrucción: reconectar con actividades y logros independientes de la relación que generaron sentido de competencia, identificar conscientemente las distorsiones que la relación toxica instalo sobre la propia valia, y, frecuentemente, trabajo terapéutico que aborde las heridas más profundas.
 
 **Ejercicio inmediato:** Identifica una creencia negativa sobre ti mismo que tu relación toxica instalo o reforzo (no soy suficiente, nadie me querrá mejor). Cuestiona activamente esa creencia con evidencia real de tu vida que la contradiga.
 
@@ -105,7 +105,7 @@ Una relación toxica puede enseñarte algo valioso sobre ti mismo. Pero ese apre
 
 ## Capítulo 8: Terapia como herramienta de recuperación
 
-El apoyo terapeutico profesional, especializado idealmente en relaciones abusivas o toxicas, frecuentemente acelera y profundiza significativamente el proceso de recuperación comparado con el procesamiento individual sin apoyo.
+El apoyo terapéutico profesional, especializado idealmente en relaciones abusivas o toxicas, frecuentemente acelera y profundiza significativamente el proceso de recuperación comparado con el procesamiento individual sin apoyo.
 
 **El Principio del Apoyo Especializado como Acelerador:** La complejidad psicológica de recuperarse de una relación toxica (procesando el trauma, reconstruyendo la autoestima, entendiendo los propios patrones de vulnerabilidad) frecuentemente se beneficia significativamente del apoyo de un profesional con experiencia específica en este tipo de dinámicas relacionales, que puede ofrecer herramientas y perspectiva que el procesamiento individual aislado dificilmente alcanza.
 

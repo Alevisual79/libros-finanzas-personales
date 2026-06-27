@@ -37,7 +37,7 @@ El miedo que nombras pierde parte de su poder sobre ti. El que no nombras toma l
 
 Lucia ha descubierto que su mayor miedo no es al fracaso sino al éxito: si escala su empresa, si contrata un equipo, si construye algo grande, tendrá que ser el tipo de persona que puede manejar todo eso. Y no sabe si es esa persona.
 
-**El Principio de los Tres Miedos Fundamentales del Emprendedor como Diferentes en su Origen y sus Estrategias de Gestion:** La literatura psicológica identifica tres miedos principales en el contexto del emprendimiento: el miedo al fracaso (las consecuencias negativas del no-éxito), el miedo al éxito (las responsabilidades y cambios de identidad que el éxito requiere), y el miedo al juicio (lo que piensan los demás). Cada uno tiene mecanismos diferentes y requiere estrategias diferentes.
+**El Principio de los Tres Miedos Fundamentales del Emprendedor como Diferentes en su Origen y sus Estrategias de Gestión:** La literatura psicológica identifica tres miedos principales en el contexto del emprendimiento: el miedo al fracaso (las consecuencias negativas del no-éxito), el miedo al éxito (las responsabilidades y cambios de identidad que el éxito requiere), y el miedo al juicio (lo que piensan los demás). Cada uno tiene mecanismos diferentes y requiere estrategias diferentes.
 
 La investigación de Carol Dweck sobre el mindset muestra que el miedo al fracaso es especialmente agudo en personas con mindset fijo (que interpretan el fracaso como evidencia de incompetencia) y significativamente menor en personas con mindset de crecimiento (que interpretan el fracaso como información sobre que cambiar). El miedo al éxito frecuentemente refleja creencias implícitas sobre la propia capacidad de estar a la altura de niveles mayores de éxito.
 
@@ -121,7 +121,7 @@ El mundo solo puede reaccionar a lo que existe. Y tu solo puedes aprender de la 
 
 Lucia ha aprendido que comprometerse públicamente con una acción hace que el miedo de no hacerla supere al miedo de hacerla.
 
-**El Principio del Compromiso público como Herramienta de Gestion del Miedo que Usa la Aversión a la Inconsistencia como Motor de Acción:** La investigación de Robert Cialdini sobre la influencia muestra que el compromiso y la consistencia son uno de los principios más poderosos del comportamiento humano: una vez que las personas se comprometen públicamente con algo, tienen una fuerte tendencia psicológica a ser consistentes con ese compromiso, incluso cuando las circunstancias cambian.
+**El Principio del Compromiso público como Herramienta de Gestión del Miedo que Usa la Aversión a la Inconsistencia como Motor de Acción:** La investigación de Robert Cialdini sobre la influencia muestra que el compromiso y la consistencia son uno de los principios más poderosos del comportamiento humano: una vez que las personas se comprometen públicamente con algo, tienen una fuerte tendencia psicológica a ser consistentes con ese compromiso, incluso cuando las circunstancias cambian.
 
 La investigación de Gail Matthews muestra que compartir los objetivos con una persona de confianza que pedira cuentas de su cumplimiento aumenta la probabilidad de conseguirlos significativamente. El compromiso público no elimina el miedo a la acción pero añade el miedo a la inconsistencia pública que frecuentemente supera al primero.
 

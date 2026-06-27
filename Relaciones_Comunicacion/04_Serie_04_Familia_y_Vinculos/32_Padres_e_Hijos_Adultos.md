@@ -1,7 +1,7 @@
 # Padres e Hijos Adultos
 ## Como redefinir la relación cuando los hijos crecen
 
-**Serie 04: Familia y Vinculos — Libro 2 de 10**
+**Serie 04: Familia y Vínculos — Libro 2 de 10**
 
 ---
 
@@ -149,7 +149,7 @@ La relación con tus padres puede cambiar. Pero alguien tiene que dar el primer 
 
 ---
 
-*Libro 32 de la colección, Libro 2 de 10 de Serie 04: Familia y Vinculos.*
+*Libro 32 de la colección, Libro 2 de 10 de Serie 04: Familia y Vínculos.*
 
 ---
 

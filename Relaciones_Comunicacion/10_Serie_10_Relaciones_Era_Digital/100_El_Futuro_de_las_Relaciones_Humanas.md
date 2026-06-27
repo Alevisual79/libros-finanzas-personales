@@ -35,7 +35,7 @@ El ritmo de cambio tecnologico que afecta a las relaciones humanas no se va a de
 
 El desarrollo de inteligencia artificial conversacional cada vez más sofisticada, incluyendo aplicaciones específicamente diseñadas para proporcionar compañia emocional, plantea preguntas nuevas sobre la naturaleza de la conexión y si puede ser genuinamente satisfecha por entidades no humanas.
 
-**El Principio de la Distinción entre Simulación y Conexion Genuina:** Aunque la IA conversacional puede simular convincentemente ciertos aspectos de la interacción relacional (escucha aparente, respuestas empaticas programadas), la pregunta de si puede satisfacer las necesidades psicológicas profundas que la conexión humana genuina proporciona (ser visto por otra conciencia, vulnerabilidad mutua real) permanece cómo un área de investigación activa y de debate ético significativo.
+**El Principio de la Distinción entre Simulación y Conexión Genuina:** Aunque la IA conversacional puede simular convincentemente ciertos aspectos de la interacción relacional (escucha aparente, respuestas empaticas programadas), la pregunta de si puede satisfacer las necesidades psicológicas profundas que la conexión humana genuina proporciona (ser visto por otra conciencia, vulnerabilidad mutua real) permanece cómo un área de investigación activa y de debate ético significativo.
 
 **Ejercicio inmediato:** Reflexiona sobre tu propia perspectiva: ¿que aspectos de la conexión humana crees que la IA podría llegar a replicar genuinamente, y cuales crees que requieren irreductiblemente otra conciencia humana presente?
 

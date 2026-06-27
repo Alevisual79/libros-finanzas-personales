@@ -123,11 +123,11 @@ Conoces a tu pareja como era hace cinco años. Conocer a quien es hoy requiere s
 
 La mayoría de las parejas hablan de los problemas cuando ya son problemas. Las parejas con comunicación más saludable hablan de las tendencias, las incomodidades y las necesidades antes de que se conviertan en conflictos.
 
-**El Principio de la Comunicación Proactiva:** La comunicación preventiva es hablar de lo que va bien y de lo que podría mejorar antes de que lo que podría mejorar se convierta en una crisis. Requiere un contexto de suficiente seguridad como para decir cosas incomodas sin que el otro las interprete como ataques, y un habito de revisión periodica de la relación fuera de los momentos de conflicto.
+**El Principio de la Comunicación Proactiva:** La comunicación preventiva es hablar de lo que va bien y de lo que podría mejorar antes de que lo que podría mejorar se convierta en una crisis. Requiere un contexto de suficiente seguridad como para decir cosas incomodas sin que el otro las interprete como ataques, y un hábito de revisión periodica de la relación fuera de los momentos de conflicto.
 
 Las parejas que tienen esta cultura de comunicación no son las que no tienen problemas. Son las que gestionan los problemas en etapas tempranas cuando todavia son manejables, en lugar de dejarlos acumularse hasta que la carga es demasiado grande.
 
-**Ejercicio inmediato:** Propone a tu pareja una conversación mensual de revisión de la relación. No para hablar de problemas sino para hablar de lo que va bien y de lo que cada uno necesita que podría mejorar. El formato puede ser simple: una cosa que valoro de este mes, una cosa que me gustaria que fuera diferente. La regularidad es lo que convierte esta conversación en habito en lugar de en evento de crisis.
+**Ejercicio inmediato:** Propone a tu pareja una conversación mensual de revisión de la relación. No para hablar de problemas sino para hablar de lo que va bien y de lo que cada uno necesita que podría mejorar. El formato puede ser simple: una cosa que valoro de este mes, una cosa que me gustaria que fuera diferente. La regularidad es lo que convierte esta conversación en hábito en lugar de en evento de crisis.
 
 Las relaciones que se revisan regularmente no necesitan grandes reparaciones. Las que no se revisan acumulan daño hasta que la reparación se hace muy costosa.
 
@@ -151,7 +151,7 @@ Las relaciones no son estaticas. Evolucionan con el tiempo, con las circunstanci
 
 **El Principio de la Relación como Proyecto Vivo:** Las parejas con mayor satisfacción a largo plazo no son las que establecieron un estado de la relación al principio y lo mantuvieron. Son las que han revisado y renegociado los acuerdos de la relación a medida que ambos han cambiado. Los acuerdos sobre el trabajo, los hijos, el dinero, la vida social, la intimidad y los proyectos que tenían sentido a los treinta pueden no tener sentido a los cuarenta y cinco. Revisar esos acuerdos de forma proactiva, antes de que la desalineación se convierta en crisis, es uno de los actos más inteligentes que puede hacer una pareja.
 
-**Ejercicio inmediato:** Identifica un acuerdo en tu relación que formaste hace más de dos años y que quizas ya no refleja donde estas cada uno ahora. No un acuerdo de pequeños habitos. Algo relevante: sobre trabajo, sobre familia, sobre donde vivis, sobre como dividis las responsabilidades. Propone a tu pareja revisarlo.
+**Ejercicio inmediato:** Identifica un acuerdo en tu relación que formaste hace más de dos años y que quizas ya no refleja donde estas cada uno ahora. No un acuerdo de pequeños hábitos. Algo relevante: sobre trabajo, sobre familia, sobre donde vivis, sobre como dividis las responsabilidades. Propone a tu pareja revisarlo.
 
 La relación que no se actualiza se convierte en el hogar de dos personas que ya no son quienes eran cuando la empezaron.
 

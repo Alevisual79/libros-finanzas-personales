@@ -21,9 +21,9 @@ Elena lleva dos años trabajando en remoto. Es, segun sus propias metricas, más
 
 ## Capítulo 1: El impacto del remoto en las relaciones laborales
 
-El trabajo remoto ha transformado fundamentalmente la forma en que se forman y mantienen las relaciones profesionales, eliminando la proximidad física casual que tradicionalmente facilitaba la formación de vinculos en el entorno de oficina.
+El trabajo remoto ha transformado fundamentalmente la forma en que se forman y mantienen las relaciones profesionales, eliminando la proximidad física casual que tradicionalmente facilitaba la formación de vínculos en el entorno de oficina.
 
-**El Principio de la Eliminación de la Conexion Incidental:** Gran parte de la formación de relaciones laborales en entornos presenciales ocurre a traves de interacciones incidentales no estructuradas: conversaciones en el pasillo, almuerzos compartidos casuales, comentarios breves entre tareas. El trabajo remoto elimina la mayoría de estas oportunidades incidentales, lo que significa que la formación de relaciones requiere ahora intencionalidad explícita que antes no era necesaria.
+**El Principio de la Eliminación de la Conexión Incidental:** Gran parte de la formación de relaciones laborales en entornos presenciales ocurre a traves de interacciones incidentales no estructuradas: conversaciones en el pasillo, almuerzos compartidos casuales, comentarios breves entre tareas. El trabajo remoto elimina la mayoría de estas oportunidades incidentales, lo que significa que la formación de relaciones requiere ahora intencionalidad explícita que antes no era necesaria.
 
 **Ejercicio inmediato:** Identifica que tipo de conexión incidental experimentabas en un entorno de oficina presencial que actualmente no tienes en remoto. ¿Que reemplazo intencional podrías crear para esa función específica?
 

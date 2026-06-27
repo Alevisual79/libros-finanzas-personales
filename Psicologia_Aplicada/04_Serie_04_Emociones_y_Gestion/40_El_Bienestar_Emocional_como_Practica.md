@@ -1,7 +1,7 @@
 # El Bienestar Emocional como práctica
 ## Cómo construir una vida emocionalmente sana
 
-**Serie 04: Emociones y Gestion Emocional — Libro 10 de 10**
+**Serie 04: Emociones y Gestión Emocional — Libro 10 de 10**
 
 ---
 
@@ -37,13 +37,13 @@ El bienestar que buscas si es estar bien siempre no es bienestar. Es negación. 
 
 Ruben quiere construir su bienestar sobre bases empiricamente sólidas. La investigación sobre los determinantes del bienestar tiene hallazgos consistentes que merecen conocerse.
 
-**El Principio de los Habitos de Alto Impacto como Base del Bienestar:** Sonja Lyubomirsky y colegas proponen que el mayor margen de influencia sobre el bienestar esta en las actividades y habitos deliberados (aproximadamente el 40% de la varianza), no en las circunstancias de vida (aproximadamente 10%) ni en el punto genetico de ajuste (aproximadamente 50%).
+**El Principio de los Hábitos de Alto Impacto como Base del Bienestar:** Sonja Lyubomirsky y colegas proponen que el mayor margen de influencia sobre el bienestar esta en las actividades y hábitos deliberados (aproximadamente el 40% de la varianza), no en las circunstancias de vida (aproximadamente 10%) ni en el punto genético de ajuste (aproximadamente 50%).
 
-Los habitos con mayor soporte empirico incluyen: actividad física regular (meta-análisis de Craft y Perna muestran efectos comparables a la farmacoterapia leve), sueño de calidad suficiente (Walker documenta que el sueño insuficiente deteriora el procesamiento emocional significativamente), conexión social frecuente y de calidad, práctica de gratitud específica (Emmons y McCullough), actos de amabilidad hacía otros (Lyubomirsky y colegas), y práctica de mindfulness (Davidson y colegas).
+Los hábitos con mayor soporte empirico incluyen: actividad física regular (meta-análisis de Craft y Perna muestran efectos comparables a la farmacoterapia leve), sueño de calidad suficiente (Walker documenta que el sueño insuficiente deteriora el procesamiento emocional significativamente), conexión social frecuente y de calidad, práctica de gratitud específica (Emmons y McCullough), actos de amabilidad hacía otros (Lyubomirsky y colegas), y práctica de mindfulness (Davidson y colegas).
 
-**Ejercicio inmediato:** De los seis habitos mencionados, identifica cual esta más ausente en tu vida actual y tendría mayor impacto si lo implementaras. Diseña la versión mínima viable: no la versión ideal sino la que puedes empezar mañana y mantener durante treinta dias.
+**Ejercicio inmediato:** De los seis hábitos mencionados, identifica cual esta más ausente en tu vida actual y tendría mayor impacto si lo implementaras. Diseña la versión mínima viable: no la versión ideal sino la que puedes empezar mañana y mantener durante treinta dias.
 
-El bienestar que se construye con grandes transformaciones raramente dura. El que se construye con habitos pequeños y consistentes, si.
+El bienestar que se construye con grandes transformaciones raramente dura. El que se construye con hábitos pequeños y consistentes, si.
 
 ---
 
@@ -119,7 +119,7 @@ El bienestar que requiere ausencia de sufrimiento no sobrevivira a la vida que r
 
 ## Capítulo 8: La vida emocionalmente rica: incluir lo complejo
 
-Ruben ha llegado a valorar la riqueza emocional de su vida más que la constancia del bienestar. Esta perspectiva es diferente de la busqueda del bienestar permanente.
+Ruben ha llegado a valorar la riqueza emocional de su vida más que la constancia del bienestar. Esta perspectiva es diferente de la búsqueda del bienestar permanente.
 
 **El Principio de la Vida Emocionalmente Rica como Alternativa:** Shigehiro Oishi y colegas documentan que las personas que valoran la riqueza emocional (variedad, profundidad, y abundancia de experiencias emocionales, incluyendo las negativas) muestran en algunos estudios mayor bienestar global que las que valoran principalmente las emociones positivas.
 
@@ -153,7 +153,7 @@ Ruben, Isabel, y Elena han aprendido cosas diferentes en estos libros. Pero las 
 
 Susan David añade: el bienestar no es la ausencia de dificultad. Es la presencia de recursos para relacionarse con la dificultad de forma que no nos destruya y que nos permita seguir viviendo en alineación con lo que importa.
 
-**Ejercicio inmediato:** Diseña tu práctica de bienestar emocional para los próximos seis meses en cuatro componentes: un habito de base (ejercicio, sueño, mindfulness), una práctica relacional (contacto regular con personas que nutren), una fuente de significado (algo que te conecta con algo más grande), y una práctica de autocompasión (una forma específica de tratarte bien cuando las cosas no van como querrias). Esos cuatro componentes, mantenidos con irregularidades pero consistencia, son el fundamento de una vida emocionalmente sana.
+**Ejercicio inmediato:** Diseña tu práctica de bienestar emocional para los próximos seis meses en cuatro componentes: un hábito de base (ejercicio, sueño, mindfulness), una práctica relacional (contacto regular con personas que nutren), una fuente de significado (algo que te conecta con algo más grande), y una práctica de autocompasión (una forma específica de tratarte bien cuando las cosas no van como querrias). Esos cuatro componentes, mantenidos con irregularidades pero consistencia, son el fundamento de una vida emocionalmente sana.
 
 El bienestar emocional no es la ausencia de problemas. Es la capacidad de seguir adelante con los que hay.
 
@@ -165,7 +165,7 @@ Isabel hizo la evaluación honesta. No salió bien en todas las dimensiones. Hab
 
 ---
 
-*Libro 40 de la colección psicología Aplicada, Libro 10 de 10 de Serie 04: Emociones y Gestion Emocional. Fin de la Serie 04.*
+*Libro 40 de la colección psicología Aplicada, Libro 10 de 10 de Serie 04: Emociones y Gestión Emocional. Fin de la Serie 04.*
 
 ---
 

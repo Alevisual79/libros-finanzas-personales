@@ -47,9 +47,9 @@ El deseo sexual en las relaciones largas no decrece porque el amor se acaba. Dec
 
 **El Principio de la Habituación y el Deseo:** El deseo prospera con la novedad. El cerebro responde con mayor activación dopaminergica a los estímulos nuevos que a los familiares. En las primeras etapas de una relación, todo es nuevo: el cuerpo del otro, la forma de moverse, los sonidos, las respuestas. Con el tiempo, la familiaridad reduce la respuesta dopaminergica. Esto no es un fallo de la relación. Es la arquitectura neurológica del deseo.
 
-Ademas, las relaciones largas acumulan carga de responsabilidades, estres cotidiano, roles no eroticos (ser el otro el que saca la basura, el que cuida cuando hay enfermedad, el que habla de las facturas) que crean una imagen del otro que compite con la imagen erotica.
+Ademas, las relaciones largas acumulan carga de responsabilidades, estrés cotidiano, roles no eroticos (ser el otro el que saca la basura, el que cuida cuando hay enfermedad, el que habla de las facturas) que crean una imagen del otro que compite con la imagen erotica.
 
-**Ejercicio inmediato:** Identifica los tres factores que más han contribuido a que el deseo en tu relación sea diferente a como era al principio. No para lamentarlos sino para saber con que estas trabajando. La habituación tiene soluciones. El estres tiene soluciones. Las dinámicas de rol tienen soluciones. El primer paso es identificar cuales de los tres son los más activos.
+**Ejercicio inmediato:** Identifica los tres factores que más han contribuido a que el deseo en tu relación sea diferente a como era al principio. No para lamentarlos sino para saber con que estas trabajando. La habituación tiene soluciones. El estrés tiene soluciones. Las dinámicas de rol tienen soluciones. El primer paso es identificar cuales de los tres son los más activos.
 
 El deseo que decrece en la pareja no esta muerto. Esta dormido bajo un peso que se puede levantar.
 
@@ -99,13 +99,13 @@ El deseo en la pareja larga no se encuentra. Se crea.
 
 ## Capítulo 6: Sexo y estres: por qué desaparece primero
 
-Cuando el estres sube, el sexo suele ser lo primero en desaparecer de la agenda de la pareja. No es una coincidencia. Es fisiologia.
+Cuando el estrés sube, el sexo suele ser lo primero en desaparecer de la agenda de la pareja. No es una coincidencia. Es fisiologia.
 
-**El Principio del Estres como Supresor del Deseo:** El estres activa el sistema de alerta del organismo (sistema simpatico), que es incompatible con el estado de relajación y apertura que el deseo requiere. El cortisol, la hormona del estres, suprime directamente la producción de estrogenos y testosterona, los principales impulsores hormonales del deseo. La persona bajo estres cronico no tiene menos deseo por razón psicológica sino por razón bioquimica.
+**El Principio del Estrés como Supresor del Deseo:** El estrés activa el sistema de alerta del organismo (sistema simpatico), que es incompatible con el estado de relajación y apertura que el deseo requiere. El cortisol, la hormona del estrés, suprime directamente la producción de estrogenos y testosterona, los principales impulsores hormonales del deseo. La persona bajo estrés cronico no tiene menos deseo por razón psicológica sino por razón bioquimica.
 
-Esto tiene implicaciones prácticas: en períodos de alto estres (trabajo intenso, problemas de salud, crisis financieras), la vida sexual de la pareja suele deteriorarse. La clave no es exigir que el deseo aparezca a pesar del estres sino crear condiciones que reduzcan el estres antes de intentar conectar intimamente.
+Esto tiene implicaciones prácticas: en períodos de alto estrés (trabajo intenso, problemas de salud, crisis financieras), la vida sexual de la pareja suele deteriorarse. La clave no es exigir que el deseo aparezca a pesar del estrés sino crear condiciones que reduzcan el estrés antes de intentar conectar intimamente.
 
-**Ejercicio inmediato:** La próxima vez que haya poca actividad sexual en tu pareja por estres, identifica el origen del estres y pregunta: ¿que podría hacer yo para reducir la carga del otro esta semana? Una hora menos de carga puede ser más eficaz para la vida sexual que cualquier técnica de seducción.
+**Ejercicio inmediato:** La próxima vez que haya poca actividad sexual en tu pareja por estrés, identifica el origen del estrés y pregunta: ¿que podría hacer yo para reducir la carga del otro esta semana? Una hora menos de carga puede ser más eficaz para la vida sexual que cualquier técnica de seducción.
 
 Lo que le devuelve el deseo al otro no siempre es lo que pasa en el dormitorio. A veces es lo que pasa en el resto de la vida.
 

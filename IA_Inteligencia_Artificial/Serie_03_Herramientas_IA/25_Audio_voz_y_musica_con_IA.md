@@ -134,7 +134,7 @@ La industria de los locutores, la musica de stock y la producción de audio basi
 
 **Deepfakes de audio:** Generar audio con la voz de alguien sin su consentimiento, especialmente para fines fraudulentos o de daño reputacional, es un abuso grave con potencial legal severo.
 
-**Transparencia:** Cuando se usa voz sintética en contenido público, la transparencia sobre su naturaleza es una cuestion ética importante.
+**Transparencia:** Cuando se usa voz sintética en contenido público, la transparencia sobre su naturaleza es una cuestión ética importante.
 
 **Licencias comerciales:** Verificar siempre las licencias de las herramientas antes de usar el audio generado en contenido comercial.
 

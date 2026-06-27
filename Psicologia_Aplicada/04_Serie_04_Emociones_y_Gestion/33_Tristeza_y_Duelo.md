@@ -1,7 +1,7 @@
 # Tristeza y Duelo
 ## Como atravesar el dolor sin atascarse en el
 
-**Serie 04: Emociones y Gestion Emocional — Libro 3 de 10**
+**Serie 04: Emociones y Gestión Emocional — Libro 3 de 10**
 
 ---
 
@@ -53,7 +53,7 @@ Isabel conoce a alguien cuya madre murio hace tres años y que todavia no puede 
 
 **El Principio del Duelo Complicado como Distinción Clinica:** El Duelo Complicado (también llamado Duelo Prolongado o Trastorno de Duelo Prolongado, incluido en el DSM-5-TR) se distingue del duelo normal por su duración, su intensidad, y el nivel de interferencia funcional que produce. Los criterios incluyen: intensidad de anhelo por la persona perdida que no disminuye con el tiempo (al menos doce meses después de la perdida en adultos), dificultad para aceptar la perdida, amargura o ira sobre la perdida, dificultad para comprometerse con actividades o relaciones, y significativa interferencia funcional.
 
-Holly Prigerson y sus colegas han documentado que el duelo complicado es un sindrome distinto de la depresión y la ansiedad, con correlatos neurobiologicos propios y que responde mejor a tratamientos específicos para el duelo (cómo la Terapia de Duelo Complicado de Shear y colaboradores) que a los tratamientos estandar para la depresión.
+Holly Prigerson y sus colegas han documentado que el duelo complicado es un síndrome distinto de la depresión y la ansiedad, con correlatos neurobiologicos propios y que responde mejor a tratamientos específicos para el duelo (cómo la Terapia de Duelo Complicado de Shear y colaboradores) que a los tratamientos estandar para la depresión.
 
 **Ejercicio inmediato:** Si llevas más de doce meses desde una perdida significativa y todavia el duelo interfiere significativamente en tu funcionamiento diario, considera buscar un psicologo con formación específica en duelo complicado. El duelo que no progresa no es señal de amor más profundo. Es señal de que el proceso necesita apoyo específico que las relaciones de apoyo, aunque necesarias, no pueden proporcionar solas.
 
@@ -135,7 +135,7 @@ El dolor no es la última palabra de la perdida. Pero tampoco tiene que ser una 
 
 Isabel no quiere olvidar a su madre. Pero si quiere poder vivir con alegria de nuevo sin sentir que eso traiciona el duelo. Esta tensión es central en el proceso de elaboración.
 
-**El Principio de la Conexion Continuada como Modelo de Elaboración:** El modelo clasico del duelo, que proponia que el objetivo era desvincularse de la persona perdida para poder reinvertir energía en la vida, ha sido significativamente revisado. Phyllis Silverman y Dennis Klass proponen el modelo de la conexión continuada: las personas en duelo no se desprenden del vinculó con quien perdieron. Transforman ese vinculó desde una relación viva a una relación de memoria, legado e internalización.
+**El Principio de la Conexión Continuada como Modelo de Elaboración:** El modelo clásico del duelo, que proponia que el objetivo era desvincularse de la persona perdida para poder reinvertir energía en la vida, ha sido significativamente revisado. Phyllis Silverman y Dennis Klass proponen el modelo de la conexión continuada: las personas en duelo no se desprenden del vinculó con quien perdieron. Transforman ese vinculó desde una relación viva a una relación de memoria, legado e internalización.
 
 Este modelo explica por qué muchas personas sienten que honran mejor a quien perdieron viviendo bien que sufriendo indefinidamente. La conexión con quien se fue puede mantenerse a traves de rituales de memoria, de vivir valores que esa persona enseño, de conversaciones internas, o de formas de incluir al ausente en momentos importantes de la vida actual.
 
@@ -165,7 +165,7 @@ Isabel puede hablar de su madre ahora sin desmoronarse. No siempre, no en todos 
 
 ---
 
-*Libro 33 de la colección psicología Aplicada, Libro 3 de 10 de Serie 04: Emociones y Gestion Emocional.*
+*Libro 33 de la colección psicología Aplicada, Libro 3 de 10 de Serie 04: Emociones y Gestión Emocional.*
 
 ---
 

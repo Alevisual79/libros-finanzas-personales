@@ -135,7 +135,7 @@ La compasión que le niegas a ti mismo es la que más necesitas cuando más sufr
 
 Isabel tiene una relación con su pareja donde ambos estan físicamente presentes pero psicológicamente ausentes gran parte del tiempo.
 
-**El Principio de la Presencia cómo la Mayor Forma de Conexion Relacional:** La investigación de John Gottman sobre las relaciones de pareja identifica el volverse hacía (turning toward) como uno de los predictores más robustos de la satisfacción en la relación: la disposición a responder a las tentativas de conexión del otro con presencia genuina en lugar de indiferencia o rechazó.
+**El Principio de la Presencia cómo la Mayor Forma de Conexión Relacional:** La investigación de John Gottman sobre las relaciones de pareja identifica el volverse hacía (turning toward) como uno de los predictores más robustos de la satisfacción en la relación: la disposición a responder a las tentativas de conexión del otro con presencia genuina en lugar de indiferencia o rechazó.
 
 La presencia genuina requiere la misma capacidad que entrena el mindfulness: la atención sostenida en el momento presente sin la distración de los pensamientos sobre el pasado o el futuro, sin la evaluación constante de lo que el otro dice, y sin la preparación de la próxima respuesta mientras el otro habla. Las personas que practican mindfulness muestran mayor calidad de escucha y mayor presencia en las interacciones sociales.
 

@@ -1,7 +1,7 @@
 # Regulación Emocional
 ## Como pasar de ser reactivo a ser responsivo
 
-**Serie 04: Emociones y Gestion Emocional — Libro 7 de 10**
+**Serie 04: Emociones y Gestión Emocional — Libro 7 de 10**
 
 ---
 
@@ -95,7 +95,7 @@ Ruben ha descubierto que cuando el nivel de activación es muy alto, las estrate
 
 **El Principio de la Regulación Descendente a Traves de lo Ascendente:** El sistema nervioso tiene dos vias: la descendente (cortex prefrontal hacía sistemas emocionales subcorticales) y la ascendente (señales corporales hacía sistemas emocionales). Cuando la activación es muy alta y la via descendente es poco accesible, las estrategias somaticas (ascendentes) son más efectivas.
 
-Las estrategias somaticas con mayor soporte empirico incluyen: respiración lenta y profunda (que activa el nervio vago y produce reducción de la activación simpatica), relajación muscular progresiva de Jacobson, ejercicio aerobico intenso (que metaboliza el cortisol producido por el estres), contacto físico con personas de apego (que produce oxitocina), y contacto con la naturaleza.
+Las estrategias somaticas con mayor soporte empirico incluyen: respiración lenta y profunda (que activa el nervio vago y produce reducción de la activación simpatica), relajación muscular progresiva de Jacobson, ejercicio aerobico intenso (que metaboliza el cortisol producido por el estrés), contacto físico con personas de apego (que produce oxitocina), y contacto con la naturaleza.
 
 **Ejercicio inmediato:** Identifica la estrategia somatica que más facilmente puedes implementar cuando el nivel de activación emocional es alto. Tener la estrategia elegida antes de necesitarla es la diferencia entre tener el extintor y buscarlo cuando ya hay fuego.
 
@@ -139,9 +139,9 @@ Elena quiere no solo regular mejor en momentos difíciles sino ser más resilien
 
 Davidson muestra que la resiliencia tiene correlatos neurales medibles (mayor activación del cortex prefrontal izquierdo relativo al derecho) y que estos correlatos pueden cambiar con práctica deliberada, específicamente con meditación de mindfulness regular. Sus investigaciones con meditadores experimentados muestran diferencias estructurales y funcionales significativas en regiones relacionadas con la regulación emocional.
 
-**Ejercicio inmediato:** Diseña un plan de entrenamiento de resiliencia a seis semanas que incluya al menos uno de los habitos con mayor soporte empirico: ejercicio aerobico regular, práctica de mindfulness diaria, o sueño de calidad suficiente. Solo uno, pero consistente durante seis semanas. La resiliencia se construye con habitos sostenidos, no con intervenciones ocasionales.
+**Ejercicio inmediato:** Diseña un plan de entrenamiento de resiliencia a seis semanas que incluya al menos uno de los hábitos con mayor soporte empirico: ejercicio aerobico regular, práctica de mindfulness diaria, o sueño de calidad suficiente. Solo uno, pero consistente durante seis semanas. La resiliencia se construye con hábitos sostenidos, no con intervenciones ocasionales.
 
-La resiliencia no se tiene o no se tiene. Se construye, cómo un musculo, con entrenamiento progresivo y consistente.
+La resiliencia no se tiene o no se tiene. Se construye, cómo un músculo, con entrenamiento progresivo y consistente.
 
 ---
 
@@ -165,7 +165,7 @@ Elena noto el calor en la cara y la tensión en el pecho. Nombro internamente: e
 
 ---
 
-*Libro 37 de la colección psicología Aplicada, Libro 7 de 10 de Serie 04: Emociones y Gestion Emocional.*
+*Libro 37 de la colección psicología Aplicada, Libro 7 de 10 de Serie 04: Emociones y Gestión Emocional.*
 
 ---
 

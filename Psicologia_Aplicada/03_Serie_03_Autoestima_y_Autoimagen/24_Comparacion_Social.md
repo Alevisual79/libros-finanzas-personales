@@ -105,7 +105,7 @@ Si te comparas en dimensiones que no te importan, el resultado de esa comparaci�
 
 ## Capítulo 7: Gratitud y perspectiva como antídotos
 
-Isabel experimenta comparación social adversa principalmente cuando esta bajo estres o cuando su satisfacción con su vida es baja. La gratitud, que no es negación de lo que falta sino reconocimiento activo de lo que hay, puede cambiar el punto de referencia de la comparación.
+Isabel experimenta comparación social adversa principalmente cuando esta bajo estrés o cuando su satisfacción con su vida es baja. La gratitud, que no es negación de lo que falta sino reconocimiento activo de lo que hay, puede cambiar el punto de referencia de la comparación.
 
 **El Principio de la Perspectiva como Modulador de la Comparación:** Robert Emmons, investigador de la gratitud de la Universidad de California Davis, y Michael McCullough, de la Universidad de Miami, documentan que las personas que practican regularmente el agradecimiento (a traves de diarios de gratitud u otras prácticas) reportan mayor satisfacción con su vida, mayor bienestar subjetivo, y menos envidia y comparación social adversa que los grupos de control. El mecanismo propuesto es que la gratitud cambia el punto de referencia de la evaluación: en lugar de comparar lo que tengo con lo que otros tienen o lo que podría tener, lo comparo con lo que no tendre o lo que podría no haber tenido.
 

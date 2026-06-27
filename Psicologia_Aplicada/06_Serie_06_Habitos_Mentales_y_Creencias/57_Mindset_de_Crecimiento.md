@@ -1,7 +1,7 @@
 # Mindset de Crecimiento
 ## Por qué la forma en que piensas sobre tus capacidades lo cambia todo
 
-**Serie 06: Habitos Mentales y Creencias — Libro 7 de 10**
+**Serie 06: Hábitos Mentales y Creencias — Libro 7 de 10**
 
 ---
 
@@ -51,7 +51,7 @@ El mindset fijo no te protege de parecer incapaz. Solo te impide desarrollar la 
 
 Elena ha empezado a desarrollar un mindset de crecimiento en su área profesional. Nota una diferencia en cómo se relaciona con los desafios.
 
-**El Principio del Mindset de Crecimiento como Orientación al Aprendizaje:** El mindset de crecimiento produce una orientación diferente: la meta es aprender y crecer, no demostrar la capacidad existente. Esta orientación produce comportamientos distintos: busqueda de desafios suficientemente difíciles para producir aprendizaje, persistencia ante las dificultades (que son parte del proceso de aprendizaje), mayor esfuerzo como inversión en el desarrollo, y apertura a la crítica como información útil para mejorar.
+**El Principio del Mindset de Crecimiento como Orientación al Aprendizaje:** El mindset de crecimiento produce una orientación diferente: la meta es aprender y crecer, no demostrar la capacidad existente. Esta orientación produce comportamientos distintos: búsqueda de desafios suficientemente difíciles para producir aprendizaje, persistencia ante las dificultades (que son parte del proceso de aprendizaje), mayor esfuerzo como inversión en el desarrollo, y apertura a la crítica como información útil para mejorar.
 
 La investigación de Jason Moser y colegas con electroencefalograma muestra que las personas con mindset de crecimiento muestran mayor activación en regiones cerebrales asociadas con el procesamiento de errores cuando cometen uno, y que esta mayor atención al error se asocia con mayor mejora posterior.
 
@@ -165,7 +165,7 @@ Isabel volvio a estudiar matemáticas a los cuarenta y ocho años. No para usarl
 
 ---
 
-*Libro 57 de la colección psicología Aplicada, Libro 7 de 10 de Serie 06: Habitos Mentales y Creencias.*
+*Libro 57 de la colección psicología Aplicada, Libro 7 de 10 de Serie 06: Hábitos Mentales y Creencias.*
 
 ---
 

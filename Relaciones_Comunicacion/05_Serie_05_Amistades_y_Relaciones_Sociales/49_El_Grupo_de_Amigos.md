@@ -47,7 +47,7 @@ El rol que ocupas en tu grupo de amigos no tiene que ser permanente. Pero cambia
 
 Los grupos de amigos, como cualquier grupo social, pueden generar presión implícita hacía la conformidad que dificulta la expresión autentica de opiniones, valores o decisiones que difieren de la norma grupal.
 
-**El Principio de la Conformidad Implicita:** La investigación clasica sobre conformidad social muestra que las personas frecuentemente ajustan sus opiniones y comportamientos expresados para alinearse con el grupo, incluso cuando internamente discrepan, debido al miedo al rechazó o al conflicto. Esta presión es particularmente fuerte en grupos de amigos cercanos, donde el coste percibido de la desviación (perder la pertenencia al grupo) se siente especialmente alto.
+**El Principio de la Conformidad Implicita:** La investigación clásica sobre conformidad social muestra que las personas frecuentemente ajustan sus opiniones y comportamientos expresados para alinearse con el grupo, incluso cuando internamente discrepan, debido al miedo al rechazó o al conflicto. Esta presión es particularmente fuerte en grupos de amigos cercanos, donde el coste percibido de la desviación (perder la pertenencia al grupo) se siente especialmente alto.
 
 **Ejercicio inmediato:** Identifica una opinión o decisión en la que sientes que te has conformado a la norma de tu grupo de amigos en contra de lo que realmente piensas o sientes. ¿Que te impidio expresar tu discrepancia genuina?
 
@@ -95,7 +95,7 @@ Las dinámicas toxicas de grupo rara vez tienen un villano claro. Tienen un patr
 
 El chisme o gossip dentro de un grupo de amigos, aunque común y a veces aparentemente inocuo, puede erosionar significativamente la confianza basica entre los miembros del grupo cuando se vuelve patron recurrente.
 
-**El Principio del Gossip como Erosión de Confianza:** Aunque el chisme ocasional puede cumplir funciones sociales legitimas (procesar emociones, fortalecer vinculos entre quienes lo comparten), el patron cronico de hablar negativamente sobre miembros ausentes del grupo genera un ambiente donde nadie confia completamente en que su información compartida no será discutida cuando no este presente, lo cual limita la vulnerabilidad genuina dentro del grupo.
+**El Principio del Gossip como Erosión de Confianza:** Aunque el chisme ocasional puede cumplir funciones sociales legitimas (procesar emociones, fortalecer vínculos entre quienes lo comparten), el patron cronico de hablar negativamente sobre miembros ausentes del grupo genera un ambiente donde nadie confia completamente en que su información compartida no será discutida cuando no este presente, lo cual limita la vulnerabilidad genuina dentro del grupo.
 
 **Ejercicio inmediato:** Reflexiona sobre la frecuencia del chisme negativo en tu grupo de amigos. Si es un patron frecuente, considera como eso podría estar afectando el nivel de confianza y vulnerabilidad genuina que el grupo permite.
 

@@ -23,7 +23,7 @@ Elena esta en tratamiento. Su psicologa le ayuda. Pero entre sesiones, hay una v
 
 La depresión no produce solo tristeza. Produce agotamiento. Y con agotamiento, hay que priorizar.
 
-**El Principio de la Gestion de Energia como Alternativa a la Gestion del Tiempo en la Depresión:** Tony Schwartz y Jim Loehr proponen que la unidad de alto rendimiento no es el tiempo sino la energía, y que la energía es un recurso que se puede gestionar deliberadamente. En la depresión, la energía disponible es reducida y el costo energético de cada actividad es mayor de lo habitual. Gestionar bien ese recurso reducido es la diferencia entre funcionar y no funcionar.
+**El Principio de la Gestión de Energia como Alternativa a la Gestión del Tiempo en la Depresión:** Tony Schwartz y Jim Loehr proponen que la unidad de alto rendimiento no es el tiempo sino la energía, y que la energía es un recurso que se puede gestionar deliberadamente. En la depresión, la energía disponible es reducida y el costo energético de cada actividad es mayor de lo habitual. Gestionar bien ese recurso reducido es la diferencia entre funcionar y no funcionar.
 
 La investigación de Martin Seligman sobre el principio del placer y la satisfacción sugiere que en período de energía baja, priorizar actividades de valor alto (las que más importan o las que más disfrute producen cuando la energía existe) sobre actividades de valor bajo (tareas que pueden delegarse o postponerse) maximiza el impacto de la energía disponible.
 
@@ -79,7 +79,7 @@ Tu cerebro necesita combustible para funcionar, incluyendo para recuperarse de l
 
 Ruben sabe que las relaciones le ayudan pero cada interacción social le cuesta el doble de energía que antes. Este capítulo es sobre como mantener las relaciones sin agotarse.
 
-**El Principio de las Relaciones como Recurso que Requiere Gestion Activa en la Depresión:** La depresión produce retirada social y al mismo tiempo el aislamiento profundiza la depresión. La solución no es forzar la sociabilidad hasta el agotamiento ni ceder al aislamiento completo, sino gestionar las relaciones de forma que maximice el apoyo y minimize el coste energético.
+**El Principio de las Relaciones como Recurso que Requiere Gestión Activa en la Depresión:** La depresión produce retirada social y al mismo tiempo el aislamiento profundiza la depresión. La solución no es forzar la sociabilidad hasta el agotamiento ni ceder al aislamiento completo, sino gestionar las relaciones de forma que maximice el apoyo y minimize el coste energético.
 
 Estrategias útiles incluyen: priorizar las relaciones que producen mayor apoyo y menor costo (las personas con quienes no hay que actuar como si se estuviera bien), comunicar las limitaciones actuales con honestidad cuando sea posible (decir a alguien de confianza que las cosas estan difíciles en lugar de fingir que todo está bien), y preferir formatos de interacción de menor costo energético (un mensaje de texto en lugar de una llamada cuando la llamada es demasiado exigente).
 
@@ -135,7 +135,7 @@ El autocuidado en la depresión es lo más aburrido del mundo. Y es lo que más 
 
 Isabel no ha hablado de su depresión con nadie en el trabajo porque tiene miedo de las consecuencias. Este capítulo es sobre como navegar esa decisión.
 
-**El Principio de la Divulgación Selectiva como Estrategia de Gestion del Estigma:** La decisión de hablar de la depresión en el entorno laboral o social requiere evaluar los beneficios (recibir apoyo, reducir la carga de disimular, conseguir ajustes en las expectativas) y los costes (posible estigma, cambios en como te perciben, consecuencias en el rendimiento percibido). La investigación de Stigma Research muestra que el nivel de estigma asociado a la depresión varia significativamente por entorno cultural y organizacional.
+**El Principio de la Divulgación Selectiva como Estrategia de Gestión del Estigma:** La decisión de hablar de la depresión en el entorno laboral o social requiere evaluar los beneficios (recibir apoyo, reducir la carga de disimular, conseguir ajustes en las expectativas) y los costes (posible estigma, cambios en como te perciben, consecuencias en el rendimiento percibido). La investigación de Stigma Research muestra que el nivel de estigma asociado a la depresión varia significativamente por entorno cultural y organizacional.
 
 La estrategia de divulgación selectiva (contar con ciertas personas de confianza y no con otras) permite obtener apoyo de las personas que estan en condiciones de proporcionarlo mientras se gestiona el riesgo del estigma en entornos menos seguros.
 
@@ -161,7 +161,7 @@ Los dias malos en la recuperación son parte del mapa, no una desviación del ca
 
 ## Epílogo
 
-Elena creo su rutina mínima: levantarse a las siete, desayuno, una hora de trabajo concentrado, otra hora de respuesta de emails, comida, veinte minutos de caminata, vuelta al trabajo, cena a las nueve, pantallas apagadas a las diez. No siempre lo cumplia. Pero cuando lo cumplia, los dias eran más manejables. Y con el tiempo, los dias manejables fueron más que los dias caos. Y cuando la depresión cedio, la rutina que había construido se quedo: no cómo una prisión sino cómo un habito que la sostenia incluso cuando no lo necesitaba urgentemente.
+Elena creo su rutina mínima: levantarse a las siete, desayuno, una hora de trabajo concentrado, otra hora de respuesta de emails, comida, veinte minutos de caminata, vuelta al trabajo, cena a las nueve, pantallas apagadas a las diez. No siempre lo cumplia. Pero cuando lo cumplia, los dias eran más manejables. Y con el tiempo, los dias manejables fueron más que los dias caos. Y cuando la depresión cedio, la rutina que había construido se quedo: no cómo una prisión sino cómo un hábito que la sostenia incluso cuando no lo necesitaba urgentemente.
 
 ---
 

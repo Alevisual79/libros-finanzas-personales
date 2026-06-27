@@ -1,7 +1,7 @@
 # El Mapa de las Emociones
 ## Aprende a nombrar lo que sientes para poder gestionarlo
 
-**Serie 04: Emociones y Gestion Emocional — Libro 1 de 10**
+**Serie 04: Emociones y Gestión Emocional — Libro 1 de 10**
 
 ---
 
@@ -23,7 +23,7 @@ Elena lleva tres dias sintiendose fatal sin saber exactamente por qué. No esta 
 
 Las emociones no se gestionan ignorandolas, suprimiendolas, o dramatizandolas. Se gestionan entendiendo que son, como funcionan, y lo que estan intentando comunicar. Para hacer eso necesitas primero poder nombrarlas con precisión.
 
-**El Principio de la Granularidad Emocional:** Lisa Feldman Barrett, neurocientifica del afecto de la Universidad Northeastern, propone el concepto de granularidad emocional: la capacidad de distinguir entre estados emocionales con mayor o menor precisión. Una persona con baja granularidad emocional etiqueta su malestar como sentirme mal. Una persona con alta granularidad emocional puede distinguir si lo que siente es decepción (expectativa no cumplida), frustración (obstaculo para una meta), verguenza (evaluación negativa del yo), o soledad (desconexion de otros deseada). Esa distinción no es semantica. Cada emoción tiene causas, funciones, y estrategias de regulación diferentes.
+**El Principio de la Granularidad Emocional:** Lisa Feldman Barrett, neurocientífica del afecto de la Universidad Northeastern, propone el concepto de granularidad emocional: la capacidad de distinguir entre estados emocionales con mayor o menor precisión. Una persona con baja granularidad emocional etiqueta su malestar como sentirme mal. Una persona con alta granularidad emocional puede distinguir si lo que siente es decepción (expectativa no cumplida), frustración (obstaculo para una meta), verguenza (evaluación negativa del yo), o soledad (desconexion de otros deseada). Esa distinción no es semantica. Cada emoción tiene causas, funciones, y estrategias de regulación diferentes.
 
 La investigación de Feldman Barrett muestra que las personas con mayor granularidad emocional muestran mejor regulación emocional, menor tendencia a conductas de riesgo en momentos de malestar, mayor bienestar general, y menor uso de estrategias de afrontamiento maladaptativas. Nombrar con precisión es el primer paso de la gestión.
 
@@ -43,7 +43,7 @@ Aaron Beck, fundador de la terapia cognitiva, identifico la fusión emocional co
 
 **Ejercicio inmediato:** Ante una emoción intensa, práctica la distinción entre la emoción (siento X) y la interpretación (esto significa Y). La emoción es real. La interpretación que surge de ella merece ser cuestionada. Pregunta: ¿que prueba objetiva tengo de que la interpretación que esta emoción sugiere es correcta?
 
-Lo que sientes es real. Lo que eso significa es una hipotesis que puede ser equivocada.
+Lo que sientes es real. Lo que eso significa es una hipótesis que puede ser equivocada.
 
 ---
 
@@ -65,7 +65,7 @@ Cada nueva palabra emocional que aprendes es una nueva region del mapa interno q
 
 Ruben no sabe lo que siente hasta que presta atención a su cuerpo. La tensión en los hombros. El apretamiento en el pecho. La sensación de ligereza cuando algo sale bien. El cuerpo registra las emociones antes de que el cerebro las etiquete.
 
-**El Principio del Cuerpo como Primer Registro Emocional:** Antonio Damasio, neurologo de la Universidad del Sur de California, propuso la hipotesis del marcador somatico: las emociones se representan en el cuerpo antes de que la consciencia les ponga nombre. Las personas con daño en las áreas cerebrales que procesan las señales corporales (insulas, cortex cingulado anterior) muestran dificultades significativas en la toma de decisiones, no porque hayan perdido la capacidad de razonar sino porque han perdido la información emocional que proporciona el cuerpo.
+**El Principio del Cuerpo como Primer Registro Emocional:** Antonio Damasio, neurologo de la Universidad del Sur de California, propuso la hipótesis del marcador somatico: las emociones se representan en el cuerpo antes de que la consciencia les ponga nombre. Las personas con daño en las áreas cerebrales que procesan las señales corporales (insulas, cortex cingulado anterior) muestran dificultades significativas en la toma de decisiones, no porque hayan perdido la capacidad de razonar sino porque han perdido la información emocional que proporciona el cuerpo.
 
 Lauri Nummenmaa y colegas de la Universidad de Aalto publicaron en 2013 un mapa del cuerpo de las emociones basado en datos de cientos de personas de diferentes culturas: diferentes emociones producen patrones de activación e inhibición corporales distintos y relativamente consistentes entre culturas (la ira activa el pecho y los brazos, el miedo activa el pecho y la garganta, la tristeza desactiva el torso, la alegria activa todo el cuerpo).
 
@@ -107,7 +107,7 @@ No te castigues por sentir lo que sientes. Ya hay suficiente emoción en la prim
 
 Ruben nota que sus emociones más intensas ocurren siempre en relación con otras personas: la verguenza (que requiere un observador real o imaginado), los celos (que requieren una relación con otro en riesgo), la gratitud (que requiere un benefactor), la compasión (que requiere alguien que sufre). Estas emociones sociales son las que más modelan el comportamiento en los grupos humanos.
 
-**El Principio de las Emociones como Pegamento Social:** Jonathan Haidt y Dacher Keltner, investigadores de las emociones morales y sociales, proponen que emociones cómo la gratitud, la verguenza, el orgullo, la elevación (la emoción que surge al contemplar actos de bondad extraordinaria) y los celos tienen funciones específicamente sociales: regulan el comportamiento en grupo, facilitan la cooperación, senalan las violaciones de normas sociales, y refuerzan los vinculos. Sin estas emociones, la vida social compleja sería imposible.
+**El Principio de las Emociones como Pegamento Social:** Jonathan Haidt y Dacher Keltner, investigadores de las emociones morales y sociales, proponen que emociones cómo la gratitud, la verguenza, el orgullo, la elevación (la emoción que surge al contemplar actos de bondad extraordinaria) y los celos tienen funciones específicamente sociales: regulan el comportamiento en grupo, facilitan la cooperación, senalan las violaciones de normas sociales, y refuerzan los vínculos. Sin estas emociones, la vida social compleja sería imposible.
 
 La investigación de Keltner muestra que culturas con mayor expresión y reconocimiento de estas emociones sociales muestran mayor cohesión social y mayor bienestar colectivo. Las emociones sociales no son debilidades: son la infraestructura emocional de la vida en comunidad.
 
@@ -133,7 +133,7 @@ La inteligencia emocional no es con lo que naces. Es con lo que puedes llegar si
 
 ## Capítulo 9: El mapa emocional en la práctica diaria
 
-Ruben ha empezado a llevar lo que llama un diario emocional: cada tarde, escribe brevemente que emociones predominaron en el dia, que las desencadeno, y como respondio. Este habito, que parece pequeño, ha producido cambios significativos en su autoconocimiento emocional.
+Ruben ha empezado a llevar lo que llama un diario emocional: cada tarde, escribe brevemente que emociones predominaron en el dia, que las desencadeno, y como respondio. Este hábito, que parece pequeño, ha producido cambios significativos en su autoconocimiento emocional.
 
 **El Principio del Registro Emocional como práctica de Autoconocimiento:** James Pennebaker, psicologo de la Universidad de Texas, ha investigado extensamente los beneficios de la escritura expresiva sobre experiencias emocionales. Su investigación muestra que escribir sobre emociones y su contexto durante quince minutos al dia durante tres a cuatro dias produce mejoras medibles en el bienestar físico y psicológico, incluyendo menor visitas médicas, mejor función inmune, menor distres psicológico, y mayor bienestar subjetivo.
 
@@ -165,7 +165,7 @@ Elena encontró las palabras. No en un libro de psicología ni en una terapia, s
 
 ---
 
-*Libro 31 de la colección psicología Aplicada, Libro 1 de 10 de Serie 04: Emociones y Gestion Emocional.*
+*Libro 31 de la colección psicología Aplicada, Libro 1 de 10 de Serie 04: Emociones y Gestión Emocional.*
 
 ---
 

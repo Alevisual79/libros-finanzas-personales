@@ -1,7 +1,7 @@
 # El Arte del Conflicto Productivo
 ## Discutir mejor para conectar más profundamente
 
-**Serie 02: Comunicación y Conexion — Libro 3 de 10**
+**Serie 02: Comunicación y Conexión — Libro 3 de 10**
 
 ---
 
@@ -125,11 +125,11 @@ Los conflictos que se reparan fortalecen la relación más que si nunca hubieran
 
 El 69% de los conflictos de pareja, segun Gottman, son perpetuos. Existen porque dos personas distintas tienen necesidades, valores o estilos diferentes que ninguna conversación va a cambiar. Pretender resolverlos definitivamente produce más frustración que la que existia antes.
 
-**El Principio de la Gestion sobre la Resolución:** Para los conflictos perpetuos, el objetivo no es resolverlos sino gestionarlos: desarrollar formas de tenerlos que no los escalen ni los agudicen, encontrar humor y ternura dentro de la diferencia, y hacer concesiones en los elementos perifericos mientras se protegen los fundamentales. Los conflictos sin solución bien gestionados se convierten en parte del paisaje de la relación, no en su amenaza.
+**El Principio de la Gestión sobre la Resolución:** Para los conflictos perpetuos, el objetivo no es resolverlos sino gestionarlos: desarrollar formas de tenerlos que no los escalen ni los agudicen, encontrar humor y ternura dentro de la diferencia, y hacer concesiones en los elementos perifericos mientras se protegen los fundamentales. Los conflictos sin solución bien gestionados se convierten en parte del paisaje de la relación, no en su amenaza.
 
 La gestión efectiva de los conflictos perpetuos requiere que ambas personas puedan expresar sus sueños y necesidades dentro de la posición que defienden, que el otro escuche sin necesitar cambiarlos, y que se encuentren acuerdos temporales y prácticos que respeten ambas necesidades.
 
-**Ejercicio inmediato:** Identifica el conflicto más repetitivo de una relación importante. Acepta que probablemente no tiene solución definitiva. Pregunta: ¿dado que este conflicto va a seguir existiendo, como podemos gestionarlo de la forma que nos haga menos daño? Esa pregunta abre conversaciones que la busqueda de solución no permite.
+**Ejercicio inmediato:** Identifica el conflicto más repetitivo de una relación importante. Acepta que probablemente no tiene solución definitiva. Pregunta: ¿dado que este conflicto va a seguir existiendo, como podemos gestionarlo de la forma que nos haga menos daño? Esa pregunta abre conversaciones que la búsqueda de solución no permite.
 
 No todos los conflictos se resuelven. Todos se pueden gestionar mejor.
 
@@ -155,7 +155,7 @@ El conflicto productivo no es una técnica. Es una cultura. Una forma de relacio
 
 **El Principio de la Cultura Relacional Construida:** Las relaciones donde el conflicto es saludable no llegaron a ese punto por accidente. Alguien inició conversaciones sobre como preferian manejarlo. Se acordaron normas, ya sea explícitas o implícitas: no hablar pasada cierta hora, no usar insultos, dar tiempo fuera cuando sea necesario. Esas normas, sostenidas en el tiempo, crean la cultura.
 
-Las culturas de conflicto saludable comparten tres elementos: la seguridad de que el conflicto no destruira la relación, las herramientas para manejarlo cuando escala, y la práctica suficiente para que las herramientas se vuelvan habito.
+Las culturas de conflicto saludable comparten tres elementos: la seguridad de que el conflicto no destruira la relación, las herramientas para manejarlo cuando escala, y la práctica suficiente para que las herramientas se vuelvan hábito.
 
 **Ejercicio inmediato:** En tu relación más importante, propone una conversación sobre como prefieren manejar los conflictos: que normas quieren tener, que conductas quieren evitar, que hacen cuando uno necesita parar. Esa conversación, tenida fuera del conflicto, es la base de la cultura de conflicto de la relación.
 
@@ -171,7 +171,7 @@ Ruben y su novia decidieron hablar sobre como querían discutir, por primera vez
 
 ---
 
-*Libro 13 de la colección, Libro 3 de 10 de Serie 02: Comunicación y Conexion.*
+*Libro 13 de la colección, Libro 3 de 10 de Serie 02: Comunicación y Conexión.*
 
 ---
 

@@ -119,7 +119,7 @@ Un conflicto que se intensifica por mensajes de texto raramente se resuelve con 
 
 La escalada de conflictos, donde un desacuerdo inicial relativamente menor crece progresivamente en intensidad y en las partes involucradas, sigue patrones predecibles que se pueden interrumpir con intervención temprana adecuada.
 
-**El Principio de la Interrupción Temprana de la Espiral:** Los conflictos escalan tipicamente a traves de un patron de reciprocidad negativa: cada parte responde a la acción de la otra con una acción ligeramente más intensa, generando una espiral ascendente. Interrumpir esta espiral requiere que al menos una parte rompa el patron de reciprocidad, respondiendo con desescalada (validación, busqueda de entendimiento) en lugar de con la siguiente escalada esperada.
+**El Principio de la Interrupción Temprana de la Espiral:** Los conflictos escalan tipicamente a traves de un patron de reciprocidad negativa: cada parte responde a la acción de la otra con una acción ligeramente más intensa, generando una espiral ascendente. Interrumpir esta espiral requiere que al menos una parte rompa el patron de reciprocidad, respondiendo con desescalada (validación, búsqueda de entendimiento) en lugar de con la siguiente escalada esperada.
 
 **Ejercicio inmediato:** Si estas en medio de un conflicto que muestra señales de escalada, identifica una acción de desescalada que podrías tomar tu, independientemente de si la otra parte lo hace primero: una pausa, una validación genuina, una pregunta de clarificación en lugar de una acusación.
 

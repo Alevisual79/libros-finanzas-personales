@@ -29,7 +29,7 @@ Cuanto más te conoces, menos te proyectas en los demás. Y cuando dejas de proy
 
 Dos amigos llevan años teniendo el mismo conflicto recurrente: uno siente que el otro no le escucha, el otro siente que el primero es exageradamente sensible. Llevan años en ese bucle porque ninguno de los dos se ha preguntado honestamente que parte le corresponde. El primero no ve cuanto exagera. El segundo no ve cuanto minimiza. Cada uno percibe al otro con claridad y a si mismo con ceguera.
 
-**El Principio de la Ecuanimidad Perceptual:** El autoconocimiento mejora las relaciones porque reduce la distorsión perceptual. Cuando sabes que tienes tendencia a exagerar bajo estres, puedes corregir la percepción en el momento. Cuando sabes que minimizas los problemas de los demás, puedes hacer el esfuerzo de escuchar más. Sin ese conocimiento, actuas desde el sesgo sin poder compensarlo.
+**El Principio de la Ecuanimidad Perceptual:** El autoconocimiento mejora las relaciones porque reduce la distorsión perceptual. Cuando sabes que tienes tendencia a exagerar bajo estrés, puedes corregir la percepción en el momento. Cuando sabes que minimizas los problemas de los demás, puedes hacer el esfuerzo de escuchar más. Sin ese conocimiento, actuas desde el sesgo sin poder compensarlo.
 
 Tasha Eurich, autora del libro Insight, realizo una investigación sobre el autoconocimiento con miles de participantes y llegó a una conclusión sorprendente: el 95% de las personas cree conocerse bien a si misma, pero solo el 10-15% cumple los criterios objetivos de autoconocimiento real. La brecha entre la autoestimación y el autoconocimiento real es enorme.
 
@@ -129,7 +129,7 @@ La falta de congruencia tiene un coste específico: el agotamiento de mantener v
 
 **El Principio de la Congruencia como Eficiencia:** La congruencia no es solo un valor ético. Es una estrategia de eficiencia. Cuando lo que sientes, lo que dices y lo que haces estan alineados, no necesitas energía para gestionar la inconsistencia. Esa energía liberada está disponible para todo lo demás. Las personas congruentes, ademas, generan más confianza en los demás porque son predecibles. Y la confianza es el combustible de todas las relaciones.
 
-Carl Rogers, fundador de la psicoterapia humanista, identifico la congruencia, juntó con la empatia y la consideración positiva incondicional, como las tres condiciones necesarias para el cambio terapeutico. En el contexto relacional, la congruencia del terapeuta crea la confianza necesaria para que el cliente se abra. En cualquier relación, funciona del mismo modo.
+Carl Rogers, fundador de la psicoterapia humanista, identifico la congruencia, juntó con la empatia y la consideración positiva incondicional, como las tres condiciones necesarias para el cambio terapéutico. En el contexto relacional, la congruencia del terapeuta crea la confianza necesaria para que el cliente se abra. En cualquier relación, funciona del mismo modo.
 
 **Ejercicio inmediato:** Identifica una área de tu vida en que lo que dices y lo que haces no estan completamente alineados. No para juzgarte. Para ver la inconsistencia con claridad. ¿Que tendría que cambiar, ya sea lo que dices o lo que haces, para qué hubiera mayor congruencia?
 

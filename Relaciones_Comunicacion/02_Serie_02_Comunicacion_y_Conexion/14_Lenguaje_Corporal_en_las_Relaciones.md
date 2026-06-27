@@ -1,7 +1,7 @@
 # Lenguaje Corporal en las Relaciones
 ## Lo que tu cuerpo dice cuando tu boca calla
 
-**Serie 02: Comunicación y Conexion — Libro 4 de 10**
+**Serie 02: Comunicación y Conexión — Libro 4 de 10**
 
 ---
 
@@ -55,7 +55,7 @@ La cara es el canal más difícil de controlar. Por eso es el más honesto.
 
 Cuando Elena esta cansada, su postura lo muestra antes de que ella lo diga. Los hombros caen, la espalda se curva, la cabeza baja ligeramente. Cuando esta energizada, el cuerpo se abre: espalda recta, pecho hacía delante, cabeza arriba. La postura no solo refleja el estado interno. también lo refuerza.
 
-**El Principio de la Retroalimentación Postura-Estado:** La investigación sobre retroalimentación corporal muestra que la postura no solo refleja el estado emocional sino que también lo modifica. Adoptar una postura expansiva durante dos minutos produce cambios hormonales medibles en la dirección de mayor confianza y menor estres. La influencia es bidireccional: el estado interno produce postura, pero la postura también produce estado interno.
+**El Principio de la Retroalimentación Postura-Estado:** La investigación sobre retroalimentación corporal muestra que la postura no solo refleja el estado emocional sino que también lo modifica. Adoptar una postura expansiva durante dos minutos produce cambios hormonales medibles en la dirección de mayor confianza y menor estrés. La influencia es bidireccional: el estado interno produce postura, pero la postura también produce estado interno.
 
 La postura en el contexto relacional comunica ademas estatus y apertura. Una postura abierta, sin barreras, orientada hacía el otro, comunica disponibilidad y confianza. Una postura cerrada comunica defensa o desconexion.
 
@@ -125,7 +125,7 @@ Lo que el otro no puede decir, su cuerpo ya lo dice. Aprende a escuchar en ese c
 
 Cuando dos personas estan genuinamente conectadas en una conversación, sus cuerpos empiezan a sincronizarse sin que ninguno de los dos lo planee: adoptan posturas similares, sincronizan el ritmo de habla, incluso la frecuencia cardiaca puede sincronizarse. Es el lenguaje corporal de la conexión en su forma más profunda.
 
-**El Principio de la Sincronia como Termometro de Conexion:** La sincronia corporal no es una técnica de manipulación. Es una consecuencia natural de la conexión genuina. Cuando la conexión es real, la sincronia ocurre sola. Cuando se fuerza artificialmente, suele resultar en algo raro o invasivo. La sincronia es el resultado de la conexión, no su causa.
+**El Principio de la Sincronia como Termometro de Conexión:** La sincronia corporal no es una técnica de manipulación. Es una consecuencia natural de la conexión genuina. Cuando la conexión es real, la sincronia ocurre sola. Cuando se fuerza artificialmente, suele resultar en algo raro o invasivo. La sincronia es el resultado de la conexión, no su causa.
 
 Los estudios de Uri Hasson sobre la sincronización cerebral entre hablante y oyente muestran que cuando la comunicación es efectiva, los patrones de activación cerebral del oyente espejean con un pequeño retraso los del hablante. La sincronización cerebral es la correlación neurológica de la comprensión.
 
@@ -171,7 +171,7 @@ Elena empezó a prestar atención a su propio lenguaje corporal en las conversac
 
 ---
 
-*Libro 14 de la colección, Libro 4 de 10 de Serie 02: Comunicación y Conexion.*
+*Libro 14 de la colección, Libro 4 de 10 de Serie 02: Comunicación y Conexión.*
 
 ---
 

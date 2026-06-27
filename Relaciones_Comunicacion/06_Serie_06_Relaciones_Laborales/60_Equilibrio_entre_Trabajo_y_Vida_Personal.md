@@ -21,7 +21,7 @@ Elena trabaja sesenta horas semanales y llama a eso compromiso. Sus relaciones p
 
 ## Capítulo 1: Por qué el equilibrio trabajo-vida es una cuestion relacional
 
-El llamado equilibrio entre trabajo y vida personal, frecuentemente discutido en terminos de horas y productividad, es en su nucleo una cuestion sobre la calidad y la cantidad de presencia disponible para las relaciones que dan sentido a la vida fuera del trabajo.
+El llamado equilibrio entre trabajo y vida personal, frecuentemente discutido en terminos de horas y productividad, es en su nucleo una cuestión sobre la calidad y la cantidad de presencia disponible para las relaciones que dan sentido a la vida fuera del trabajo.
 
 **El Principio de las Relaciones como Medida Real del Equilibrio:** El verdadero indicador de si existe equilibrio adecuado entre trabajo y vida personal no es el número de horas trabajadas en abstracto, sino la calidad y la cantidad de presencia disponible para las relaciones de pareja, familia y amistad que la persona valora. Una persona puede trabajar muchas horas y mantener relaciones sólidas si protege presencia de calidad en los momentos que comparte; otra puede trabajar pocas horas y aun asi tener relaciones deterioradas si su presencia, incluso fuera del trabajo, esta mentalmente capturada por preocupaciones laborales.
 

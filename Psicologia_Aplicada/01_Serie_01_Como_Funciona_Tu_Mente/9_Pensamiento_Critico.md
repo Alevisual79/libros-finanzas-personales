@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben recibe diariamente más información que un hombre del siglo XVIII recibio en toda su vida. Noticias, estudios, opiniones de expertos, datos estadisticos, graficos, titulares. Tiene la sensación de estar más informado que nunca. Lo que no tiene, porque nunca le ensenaron, es la capacidad de evaluar esa información con criterios rigurosos: distinguir el dato de la opinión, la correlación de la causalidad, la fuente confiable de la que no lo es, el argumento valido del falaz. En el mundo actual, la cantidad de información no protege contra la desinformación. La calidad del pensamiento, si.
+Ruben recibe diariamente más información que un hombre del siglo XVIII recibio en toda su vida. Noticias, estudios, opiniones de expertos, datos estadísticos, graficos, titulares. Tiene la sensación de estar más informado que nunca. Lo que no tiene, porque nunca le ensenaron, es la capacidad de evaluar esa información con criterios rigurosos: distinguir el dato de la opinión, la correlación de la causalidad, la fuente confiable de la que no lo es, el argumento valido del falaz. En el mundo actual, la cantidad de información no protege contra la desinformación. La calidad del pensamiento, si.
 
 ---
 
@@ -23,7 +23,7 @@ Ruben recibe diariamente más información que un hombre del siglo XVIII recibio
 
 El pensamiento crítico no es criticar todo ni ser esceptico de forma generica. Es un conjunto de habilidades cognitivas específicas para evaluar afirmaciones, argumentos y evidencia con criterios rigurosos, independientemente de quien las produzca o de si confirman las propias creencias previas.
 
-**El Principio del Pensamiento Crítico como Habilidad Democratica Esencial:** Carl Sagan, en El mundo y sus demonios, proponia que la ciencia, entendida como método de pensamiento crítico, es una vela en la oscuridad que protege contra el pensamiento magico, la manipulación y la pseudociencia. En la era de la desinformación masiva, las redes sociales que amplifican lo emocional sobre lo preciso, y los actores que deliberadamente manipulan la información pública, el pensamiento crítico no es un lujo intelectual. Es una herramienta de supervivencia en la participación democratica informada.
+**El Principio del Pensamiento Crítico como Habilidad Democrática Esencial:** Carl Sagan, en El mundo y sus demonios, proponia que la ciencia, entendida como método de pensamiento crítico, es una vela en la oscuridad que protege contra el pensamiento magico, la manipulación y la pseudociencia. En la era de la desinformación masiva, las redes sociales que amplifican lo emocional sobre lo preciso, y los actores que deliberadamente manipulan la información pública, el pensamiento crítico no es un lujo intelectual. Es una herramienta de supervivencia en la participación democrática informada.
 
 Diane Halpern, psicologa cognitiva que estudio extensamente la ensenanza del pensamiento crítico, lo define como el pensamiento deliberado orientado hacía la evaluación rigurosa de evidencia y argumentos para llegar a conclusiones justificadas. Es una habilidad que puede desarrollarse con práctica específica, que mejora con el conocimiento de los errores cognitivos típicos, y que requiere una disposición específica: la voluntad de seguir el argumento donde lleve, aunque no lleve donde se quería ir.
 
@@ -41,7 +41,7 @@ Isabel lee que las ciudades con más heladerias tienen más crimenes. Alguien en
 
 Bradford Hill, epidemiologo britanico, propuso en 1965 nueve criterios para evaluar si una correlación observada podría ser causal, incluyendo la temporalidad (la causa debe preceder al efecto), la dosis-respuesta (a mayor dosis, mayor efecto), la plausibilidad biológica, y la replicación en distintos estudios. Estos criterios no garantizan la causalidad pero proporcionan un marcó para evaluar su probabilidad mucho más riguroso que simplemente observar que dos cosas se correlacionan.
 
-**Ejercicio inmediato:** La próxima vez que leas que A se asocia con B, pregunta activamente: ¿podría haber una variable confusora C que cause tanto A como B? ¿Podría ser la dirección causal inversa (B causa A en lugar de A causa B)? ¿Podría ser una coincidencia estadistica? Este habito de cuestionamiento cambia completamente la calidad del consumo de información.
+**Ejercicio inmediato:** La próxima vez que leas que A se asocia con B, pregunta activamente: ¿podría haber una variable confusora C que cause tanto A como B? ¿Podría ser la dirección causal inversa (B causa A en lugar de A causa B)? ¿Podría ser una coincidencia estadística? Este hábito de cuestionamiento cambia completamente la calidad del consumo de información.
 
 Que dos cosas ocurran juntas no significa que una cause la otra. Este error de interpretación esta en la raiz de la mitad de las malas políticas públicas del siglo XX.
 
@@ -51,7 +51,7 @@ Que dos cosas ocurran juntas no significa que una cause la otra. Este error de i
 
 Elena debate sobre política laboral con un colega. El argumento del colega suena convincente. Pero hay algo que no encaja. Elena no puede identificar exactamente que es. Probablemente es una falacia lógica: un argumento que tiene la apariencia de ser valido pero que contiene un error estructural que invalida la conclusión.
 
-**El Principio del catálogo de Falacias como Herramienta de Evaluación:** Las falacias lógicas son patrones de argumento invalido que se repiten con suficiente frecuencia como para haber sido catalogadas y nombradas. Algunos ejemplos clasicos: el ad hominem (atacar al mensajero en lugar del mensaje), el hombre de paja (refutar una versión distorsionada del argumento del oponente en lugar del argumento real), la falacia del pendiente resbaladizo (asumir que A llevara inevitablemente a Z sin argumentar los pasos intermedios), el apelo a la autoridad (aceptar una afirmación porque la dice alguien famoso), y la falacia de la falsa dicotomia (presentar dos opciones como las unicas posibles cuando hay más).
+**El Principio del catálogo de Falacias como Herramienta de Evaluación:** Las falacias lógicas son patrones de argumento invalido que se repiten con suficiente frecuencia como para haber sido catalogadas y nombradas. Algunos ejemplos clásicos: el ad hominem (atacar al mensajero en lugar del mensaje), el hombre de paja (refutar una versión distorsionada del argumento del oponente en lugar del argumento real), la falacia del pendiente resbaladizo (asumir que A llevara inevitablemente a Z sin argumentar los pasos intermedios), el apelo a la autoridad (aceptar una afirmación porque la dice alguien famoso), y la falacia de la falsa dicotomia (presentar dos opciones como las unicas posibles cuando hay más).
 
 El conocimiento explícito de las falacias lógicas no hace al pensador crítico inmune a cometer errores. Pero si aumenta significativamente la capacidad de identificarlos en argumentos propios y ajenos. El catálogo de falacias es, en ese sentido, una herramienta cognitiva que amplifica la capacidad de evaluación crítica de cualquier argumento.
 
@@ -63,7 +63,7 @@ Saber que las falacias existen es conocimiento. Saber verlas cuando ocurren es h
 
 ## Capítulo 4: Evaluar fuentes: no toda autoridad es igual
 
-Ruben ve un titular que dice Estudio confirma que X. Antes de compartirlo, debería hacerse varias preguntas que raramente se hace: ¿quien hizo el estudio? ¿Fue publicado en una revista revisada por pares o en un blog? ¿Cual fue la metodologia? ¿El tamaño de muestra justifica la conclusión? ¿Los medios de comunicación generalizaron una conclusión que el estudio original presentaba con muchas más restricciones?
+Ruben ve un titular que dice Estudio confirma que X. Antes de compartirlo, debería hacerse varias preguntas que raramente se hace: ¿quien hizo el estudio? ¿Fue publicado en una revista revisada por pares o en un blog? ¿Cual fue la metodología? ¿El tamaño de muestra justifica la conclusión? ¿Los medios de comunicación generalizaron una conclusión que el estudio original presentaba con muchas más restricciones?
 
 **El Principio de la Evaluación de Fuentes por Criterios Explícitos:** El movimiento de alfabetización mediatica, representado por investigadores como Mike Caulfield de la Universidad de Washington, propone un conjunto de criterios concretos para evaluar la credibilidad de fuentes: verificar la fuente original antes de compartir (go upstream), buscar la cobertura que hace otras fuentes reconocidas del mismo evento (lateral reading), y distinguir entre el estudio original y la interpretación mediatica del mismo (que frecuentemente es significativamente diferente en precisión y cautela).
 
@@ -79,11 +79,11 @@ Leer más no te hace más informado si no evaluas lo que lees. Leer con criterio
 
 Isabel lee que un tratamiento médico tiene una eficacia del ochenta por ciento. Parece muy efectivo. Pero ochenta por ciento, sin más contexto, puede significar cosas muy distintas: ochenta por ciento de reducción de riesgo relativo de una enfermedad que tenía un riesgo basal del cero coma dos por ciento produce una reducción de riesgo absoluta de cero coma dieciséis por ciento, lo cual es mucho menos impresionante que el titula sugiere.
 
-**El Principio del Riesgo Relativo vs Absoluto como Distinción Crítica:** Gerd Gigerenzen, neurocientifico y director del Centro Harding para la Literacia del Riesgo en Berlin, ha dedicado su carrera a documentar cómo la presentación de estadísticas de salud publica en terminos de riesgo relativo en lugar de riesgo absoluto sistemáticamente distorsiona las decisiones de pacientes y médicos. Una intervención que reduce el riesgo de un evento del dos por ciento al uno por ciento tiene una reducción de riesgo relativa del cincuenta por ciento pero una reducción de riesgo absoluta de solo un punto porcentual. Presentar el cincuenta por ciento sin el contexto del riesgo basal es formalmente correcto y practicamentre enganoso.
+**El Principio del Riesgo Relativo vs Absoluto como Distinción Crítica:** Gerd Gigerenzen, neurocientífico y director del Centro Harding para la Literacia del Riesgo en Berlin, ha dedicado su carrera a documentar cómo la presentación de estadísticas de salud publica en terminos de riesgo relativo en lugar de riesgo absoluto sistemáticamente distorsiona las decisiones de pacientes y médicos. Una intervención que reduce el riesgo de un evento del dos por ciento al uno por ciento tiene una reducción de riesgo relativa del cincuenta por ciento pero una reducción de riesgo absoluta de solo un punto porcentual. Presentar el cincuenta por ciento sin el contexto del riesgo basal es formalmente correcto y practicamentre enganoso.
 
-Gigerenzen también documenta que los médicos, no solo los pacientes, frecuentemente no pueden interpretar correctamente estadisticas basicas de sensibilidad y especificidad de tests diagnósticos. La literacia estadistica no es un lujo académico. Es una herramienta de supervivencia en la toma de decisiones de salud, inversiones y política.
+Gigerenzen también documenta que los médicos, no solo los pacientes, frecuentemente no pueden interpretar correctamente estadísticas basicas de sensibilidad y especificidad de tests diagnósticos. La literacia estadística no es un lujo académico. Es una herramienta de supervivencia en la toma de decisiones de salud, inversiones y política.
 
-**Ejercicio inmediato:** La próxima vez que leas una estadistica médica, financiera o social presentada como porcentaje, busca el denominador: ¿porcentaje de que? ¿Cual es el número base sobre el que se calcula ese porcentaje? La diferencia entre el impacto que parece y el impacto real frecuentemente vive en ese denominador que nadie menciona.
+**Ejercicio inmediato:** La próxima vez que leas una estadística médica, financiera o social presentada como porcentaje, busca el denominador: ¿porcentaje de que? ¿Cual es el número base sobre el que se calcula ese porcentaje? La diferencia entre el impacto que parece y el impacto real frecuentemente vive en ese denominador que nadie menciona.
 
 Un porcentaje sin denominador es una opinión disfrazada de dato.
 
@@ -107,13 +107,13 @@ Las soluciones que solo ven el problema inmediato frecuentemente crean el proble
 
 Elena busca en internet información sobre un suplemento que le han recomendado. Los primeros cinco resultados que lee confirman su eficacia. Los cinco siguientes, que no busca, la cuestionan. Elena concluye que el suplemento es efectivo.
 
-**El Principio del Pensamiento Exploratorio sobre el Confirmatorio:** Ziva Kunda, psicóloga social, describió en sus investigaciones la diferencia entre la motivación dirigida por precisión (buscar genuinamente la mejor respuesta) y la motivación dirigida por conclusión (buscar la evidencia que apoya la conclusión ya preferida). Cuando la motivación es dirigida por conclusión, el proceso de busqueda de información es sistemáticamente sesgado: se buscan primero las fuentes que confirman, se evalua la evidencia confirmatoria con menor rigor crítico, y se detiene la busqueda cuando se ha acumulado suficiente evidencia confirmatoria.
+**El Principio del Pensamiento Exploratorio sobre el Confirmatorio:** Ziva Kunda, psicóloga social, describió en sus investigaciones la diferencia entre la motivación dirigida por precisión (buscar genuinamente la mejor respuesta) y la motivación dirigida por conclusión (buscar la evidencia que apoya la conclusión ya preferida). Cuando la motivación es dirigida por conclusión, el proceso de búsqueda de información es sistemáticamente sesgado: se buscan primero las fuentes que confirman, se evalua la evidencia confirmatoria con menor rigor crítico, y se detiene la búsqueda cuando se ha acumulado suficiente evidencia confirmatoria.
 
 La solución no es eliminar las propias preferencias (imposible) sino aplicar activamente la regla de buscar la evidencia más sólida en contra de la conclusión preferida antes de comprometerse con ella. Esta estrategia de falsabilidad activa, que Karl Popper propuso como fundamento del método cientifico, es igual de valida como norma cognitiva personal.
 
 **Ejercicio inmediato:** Para una creencia importante que mantienes actualmente, dedica treinta minutos a buscar activamente los tres argumentos o evidencias más sólidos en su contra. No para cambiar necesariamente la creencia, sino para asegurarte de que tu comprensión de la evidencia total es genuina y no selectiva.
 
-La creencia que no puede sobrevivir la busqueda activa de su mejor refutación es debil aunque sea comoda.
+La creencia que no puede sobrevivir la búsqueda activa de su mejor refutación es debil aunque sea comoda.
 
 ---
 

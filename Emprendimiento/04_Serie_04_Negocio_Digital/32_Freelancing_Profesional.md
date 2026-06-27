@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos ha dejado su trabajo para ser freelance y en el primer mes gana menos de la mitad de lo que ganaba antes. Lucia lleva tres años como freelance, tiene clientes, pero trabaja más horas que cuando era empleada y cobra menos por hora. Marcos quiere explorar el freelancing como opción para sus servicios de consultoria pero no sabe si puede sostenerse económicamente. Los tres necesitan entender algo fundamental sobre el freelancing profesional: es uno de los modelos de negocio más rápidos para generar revenue y uno de los que peores margenes produce si se gestiona mal. La diferencia entre el freelance que vive bien y el que sobrevive con estres no esta en las habilidades técnicas. Esta en como gestiona el negocio de ser freelance.
+Carlos ha dejado su trabajo para ser freelance y en el primer mes gana menos de la mitad de lo que ganaba antes. Lucia lleva tres años como freelance, tiene clientes, pero trabaja más horas que cuando era empleada y cobra menos por hora. Marcos quiere explorar el freelancing como opción para sus servicios de consultoria pero no sabe si puede sostenerse económicamente. Los tres necesitan entender algo fundamental sobre el freelancing profesional: es uno de los modelos de negocio más rápidos para generar revenue y uno de los que peores margenes produce si se gestiona mal. La diferencia entre el freelance que vive bien y el que sobrevive con estrés no esta en las habilidades técnicas. Esta en como gestiona el negocio de ser freelance.
 
 ---
 
@@ -93,7 +93,7 @@ La tarifa del freelance que nunca sube no es estable. Es la tarifa de alguien cu
 
 Carlos ha aprendido que la gestión del tiempo es la habilidad más importante del freelance.
 
-**El Principio de la Gestion del Tiempo del Freelance cómo la Distinción entre el Tiempo Facturable (el que Produce Revenue Directamente) y el No Facturable (el que Es Necesario pero No Produce Revenue) y la Gestion Deliberada de Ambos:** La mayoría de los freelances sobrestiman la cantidad de tiempo facturable que tienen disponible: en un dia laboral de ocho horas, las tareas no facturables (administración, comunicación, marketing, desarrollo de negocio, formación) tipicamente consumen entre el 30% y el 50% del tiempo. Eso significa que el tiempo facturable real es de cuatro a seis horas por dia, no ocho.
+**El Principio de la Gestión del Tiempo del Freelance cómo la Distinción entre el Tiempo Facturable (el que Produce Revenue Directamente) y el No Facturable (el que Es Necesario pero No Produce Revenue) y la Gestión Deliberada de Ambos:** La mayoría de los freelances sobrestiman la cantidad de tiempo facturable que tienen disponible: en un dia laboral de ocho horas, las tareas no facturables (administración, comunicación, marketing, desarrollo de negocio, formación) tipicamente consumen entre el 30% y el 50% del tiempo. Eso significa que el tiempo facturable real es de cuatro a seis horas por dia, no ocho.
 
 Paul Jarvis en Company of One propone que el freelance que gestiona bien su tiempo distingue entre tres tipos de trabajo: el trabajo profundo (el que produce el mayor valor para el cliente y requiere la mayor concentración), el trabajo de gestión del negocio (importante pero que puede hacerse con menor concentración), y el trabajo de mantenimiento (necesario pero que puede minimizarse o delegarse).
 
@@ -107,7 +107,7 @@ El freelance que no mide como distribuye su tiempo no puede mejorar su rentabili
 
 Marcos ha aprendido que la mayoría de los problemas con clientes vienen de expectativas mal gestionadas desde el principio.
 
-**El Principio de la Gestion de Expectativas del Cliente como el Prerequisito de la Satisfacción y de la Retención porque El Cliente Insatisfecho No Es Siempre El que Recibio Menor Calidad Sino El que Recibio Algo Diferente a Lo que Esperaba:** La investigación de Harvard Business Review sobre la satisfacción del cliente en servicios profesionales muestra que la mayoría de los conflictos entre proveedor y cliente en proyectos de servicio no vienen de falta de calidad técnica sino de diferencias en la interpretación del alcance del proyecto, los plazos esperados, o los entregables específicos.
+**El Principio de la Gestión de Expectativas del Cliente como el Prerequisito de la Satisfacción y de la Retención porque El Cliente Insatisfecho No Es Siempre El que Recibio Menor Calidad Sino El que Recibio Algo Diferente a Lo que Esperaba:** La investigación de Harvard Business Review sobre la satisfacción del cliente en servicios profesionales muestra que la mayoría de los conflictos entre proveedor y cliente en proyectos de servicio no vienen de falta de calidad técnica sino de diferencias en la interpretación del alcance del proyecto, los plazos esperados, o los entregables específicos.
 
 El contrató no es solo un documento legal: es la herramienta de gestión de expectativas que define exactamente que incluye y que no incluye el proyecto. Un contrató claro al principio previene el 80% de los conflictos que ocurren sin el.
 
@@ -121,11 +121,11 @@ El conflicto con el cliente que podrías haber prevenido con un contrató claro 
 
 Lucia ha construido un sistema de finanzas personales y profesionales que le da estabilidad aunque los ingresos mensual varien.
 
-**El Principio de la Estabilidad Financiera del Freelance como el Sistema de Gestion de Ingresos Variables que Crea una Base Estable para las Decisiones de Vida y de Negocio Independientemente de las Fluctuaciones Mensuales del Revenue:** La irregularidad de los ingresos es uno de los mayores desafios del freelance: el mes brillante seguido del mes vacio produce estres financiero y toma de decisiones bajo presión que raramente produce los mejores resultados. El sistema de gestión financiero del freelance debe convertir esa irregularidad en estabilidad percibida.
+**El Principio de la Estabilidad Financiera del Freelance como el Sistema de Gestión de Ingresos Variables que Crea una Base Estable para las Decisiones de Vida y de Negocio Independientemente de las Fluctuaciones Mensuales del Revenue:** La irregularidad de los ingresos es uno de los mayores desafios del freelance: el mes brillante seguido del mes vacio produce estrés financiero y toma de decisiones bajo presión que raramente produce los mejores resultados. El sistema de gestión financiero del freelance debe convertir esa irregularidad en estabilidad percibida.
 
 Mike Michalowicz en Profit First propone adaptar el sistema a la irregularidad del freelance: cuando los ingresos son buenos, separar un porcentaje mayor de lo normal para el fondo de estabilización (el colchon que financia los meses de menor ingreso). El freelance que tiene un fondo equivalente a tres meses de gastos puede tomar decisiones de negocio desde la abundancia en lugar de desde la urgencia.
 
-**Ejercicio inmediato:** Calcula tus gastos fijos mensuales mínimos (los que tienes independientemente de cuanto trabajes o cuanto ganes). Ese número es tu número de supervivencia: el revenue mínimo mensual que necesitas para mantener tu vida sin estres. Tu objetivo de revenue mensual debería ser al menos el doble de ese número (para tener margen de ahorro, inversión, e imprevistos). Si el revenue promedio de los últimos seis meses es inferior al doble de tu número de supervivencia, tienes que resolver el problema de revenue antes de optimizar cualquier otra cosa.
+**Ejercicio inmediato:** Calcula tus gastos fijos mensuales mínimos (los que tienes independientemente de cuanto trabajes o cuanto ganes). Ese número es tu número de supervivencia: el revenue mínimo mensual que necesitas para mantener tu vida sin estrés. Tu objetivo de revenue mensual debería ser al menos el doble de ese número (para tener margen de ahorro, inversión, e imprevistos). Si el revenue promedio de los últimos seis meses es inferior al doble de tu número de supervivencia, tienes que resolver el problema de revenue antes de optimizar cualquier otra cosa.
 
 El freelance que no sabe cuanto necesita para vivir no puede saber si su negocio es sostenible.
 
@@ -149,7 +149,7 @@ El freelance que sabe exactamente que tipo de negocio quiere construir puede con
 
 Marcos ha integrado todos los aprendizajes en un negocio de freelancing que funciona con coherencia.
 
-**El Principio del Freelancing Profesional Integrado como el Negocio donde La Especialización Clara, El Precio Correcto, La Gestion de Clientes Efectiva, y La Estabilidad Financiera Trabajan Juntos para Producir Un Nivel de Vida Sostenible y Satisfactorio:** El freelance profesional exitoso no lo es porque tenga las mejores habilidades técnicas del mercado. Lo es porque ha construido un negocio coherente: sabe exactamente para quien trabaja (especialización), cobra lo que su trabajo vale (precio correcto), tiene clientes que lo respetan y le pagan a tiempo (gestión de clientes), y tiene estabilidad financiera que le permite tomar decisiones desde la tranquilidad (finanzas sanas).
+**El Principio del Freelancing Profesional Integrado como el Negocio donde La Especialización Clara, El Precio Correcto, La Gestión de Clientes Efectiva, y La Estabilidad Financiera Trabajan Juntos para Producir Un Nivel de Vida Sostenible y Satisfactorio:** El freelance profesional exitoso no lo es porque tenga las mejores habilidades técnicas del mercado. Lo es porque ha construido un negocio coherente: sabe exactamente para quien trabaja (especialización), cobra lo que su trabajo vale (precio correcto), tiene clientes que lo respetan y le pagan a tiempo (gestión de clientes), y tiene estabilidad financiera que le permite tomar decisiones desde la tranquilidad (finanzas sanas).
 
 La investigación de Freelancers Unión sobre la satisfacción de los freelances muestra que los que reportan mayor satisfacción no son los que más ganan sino los que tienen mayor coherencia entre sus habilidades, sus valores, y el tipo de trabajo que hacen y los clientes con los que trabajan.
 

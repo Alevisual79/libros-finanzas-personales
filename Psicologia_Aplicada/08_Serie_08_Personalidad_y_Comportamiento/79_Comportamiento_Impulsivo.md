@@ -71,7 +71,7 @@ La investigación de Matthew Walker sobre el sueño muestra que la privación de
 
 **Ejercicio inmediato:** La próxima vez que sientas el impulso de tomar una decisión importante o de actuar de forma que podría ser problematica, realiza un HALT: ¿estas hambriento, angustiado, solo, o cansado? Si la respuesta es si a cualquiera, postpone la decisión hasta que ese estado cambie. Esa regla simple puede evitar un porcentaje significativo de los errores impulsivos.
 
-No tomes ninguna decisión importante cuando tengas hambre, estres, soledad, o sueño. Tu cerebro en esos estados no es el cerebro que quieres tomando decisiones.
+No tomes ninguna decisión importante cuando tengas hambre, estrés, soledad, o sueño. Tu cerebro en esos estados no es el cerebro que quieres tomando decisiones.
 
 ---
 

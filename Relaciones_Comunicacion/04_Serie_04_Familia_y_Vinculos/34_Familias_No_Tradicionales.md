@@ -1,7 +1,7 @@
 # Familias No Tradicionales
 ## Cómo funcionar bien en estructuras familiares diversas
 
-**Serie 04: Familia y Vinculos — Libro 4 de 10**
+**Serie 04: Familia y Vínculos — Libro 4 de 10**
 
 ---
 
@@ -47,13 +47,13 @@ Una familia monoparental no es una familia incompleta. Es una familia que se ben
 
 ## Capítulo 3: Familias reconstituidas: los nuevos vinculos
 
-Las familias reconstituidas, formadas tras la separación y nueva unión de uno o ambos progenitores, requieren la construcción deliberada de vinculos entre personas que no comparten historia previa.
+Las familias reconstituidas, formadas tras la separación y nueva unión de uno o ambos progenitores, requieren la construcción deliberada de vínculos entre personas que no comparten historia previa.
 
-**El Principio de la Construcción Gradual del Vinculo:** Patricia Papernow, investigadora especializada en familias reconstituidas, muestra que el error más común en estas familias es esperar que los nuevos vinculos (entre la pareja del progenitor y los hijos, entre hermanastros) se formen con la misma rapidez e intensidad que los vinculos biológicos. El proceso real de integración de una familia reconstituida toma tipicamente entre cuatro y siete años, y forzar la cercania antes de ese tiempo natural suele generar resistencia, no conexión.
+**El Principio de la Construcción Gradual del Vínculo:** Patricia Papernow, investigadora especializada en familias reconstituidas, muestra que el error más común en estas familias es esperar que los nuevos vínculos (entre la pareja del progenitor y los hijos, entre hermanastros) se formen con la misma rapidez e intensidad que los vínculos biológicos. El proceso real de integración de una familia reconstituida toma tipicamente entre cuatro y siete años, y forzar la cercania antes de ese tiempo natural suele generar resistencia, no conexión.
 
-**Ejercicio inmediato:** Si formas parte de una familia reconstituida reciente, ajusta tus expectativas sobre el ritmo de formación de vinculos. Identifica una acción pequeña que pueda construir conexión gradualmente, sin forzar una cercania que todavia no es orgánica.
+**Ejercicio inmediato:** Si formas parte de una familia reconstituida reciente, ajusta tus expectativas sobre el ritmo de formación de vínculos. Identifica una acción pequeña que pueda construir conexión gradualmente, sin forzar una cercania que todavia no es orgánica.
 
-Los vinculos en una familia reconstituida no se decretan. Se construyen, con tiempo y paciencia, ladrillo a ladrillo.
+Los vínculos en una familia reconstituida no se decretan. Se construyen, con tiempo y paciencia, ladrillo a ladrillo.
 
 ---
 
@@ -147,7 +147,7 @@ Cada estructura familiar trae sus propios desafios y sus propias fortalezas. Lo 
 
 ---
 
-*Libro 34 de la colección, Libro 4 de 10 de Serie 04: Familia y Vinculos.*
+*Libro 34 de la colección, Libro 4 de 10 de Serie 04: Familia y Vínculos.*
 
 ---
 

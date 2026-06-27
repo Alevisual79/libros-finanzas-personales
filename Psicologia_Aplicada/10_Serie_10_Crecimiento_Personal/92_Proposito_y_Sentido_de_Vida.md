@@ -15,15 +15,15 @@
 
 ## Prólogo
 
-Elena tiene un trabajo bien pagado, una vida social activa, y sin embargo a veces siente que algo le falta que no sabe nombrar exactamente. Ruben tiene éxito en su negocio y aun asi hay mañanas en que le cuesta levantarse porque no recuerda por qué exactamente hace lo que hace. Isabel ha llegado a los cincuenta y dos años con una carrera sólida y se pregunta si los próximos veinte años podrían tener un sentido diferente al que han tenido los anteriores. Los tres buscan algo que la psicología llama proposito o sentido de vida: una razón profunda que ordene las elecciones, de coherencia a las acciones, y que proporcione la resistencia que la vida difícil requiere. Este libro es sobre esa busqueda: su psicología, sus mecanismos, y como encontrar o construir el proposito que hace que la vida tenga más sentido.
+Elena tiene un trabajo bien pagado, una vida social activa, y sin embargo a veces siente que algo le falta que no sabe nombrar exactamente. Ruben tiene éxito en su negocio y aun asi hay mañanas en que le cuesta levantarse porque no recuerda por qué exactamente hace lo que hace. Isabel ha llegado a los cincuenta y dos años con una carrera sólida y se pregunta si los próximos veinte años podrían tener un sentido diferente al que han tenido los anteriores. Los tres buscan algo que la psicología llama proposito o sentido de vida: una razón profunda que ordene las elecciones, de coherencia a las acciones, y que proporcione la resistencia que la vida difícil requiere. Este libro es sobre esa búsqueda: su psicología, sus mecanismos, y como encontrar o construir el proposito que hace que la vida tenga más sentido.
 
 ---
 
 ## Capítulo 1: La diferencia entre placer y sentido: dos formas de bienestar
 
-El sentido y la felicidad no son lo mismo. Confundirlos produce busquedas que nunca llegan a su destino.
+El sentido y la felicidad no son lo mismo. Confundirlos produce búsquedas que nunca llegan a su destino.
 
-**El Principio del Bienestar Eudaimonico como Dimensión del Bienestar Diferente del Hedonico con Mayor Durabilidad:** Aristoteles distinguio entre el bien hedonico (el placer, la ausencia de dolor) y el bien eudaimonico (el florecimiento, la vida plena que realiza el potencial). Esta distinción clasica ha sido retomada por la psicología positiva moderna: Carol Ryff propone seis dimensiones del bienestar psicológico que van más allá del placer: autonomía, dominio del entorno, crecimiento personal, relaciones positivas, proposito en la vida, y autoaceptación.
+**El Principio del Bienestar Eudaimonico como Dimensión del Bienestar Diferente del Hedonico con Mayor Durabilidad:** Aristoteles distinguio entre el bien hedonico (el placer, la ausencia de dolor) y el bien eudaimonico (el florecimiento, la vida plena que realiza el potencial). Esta distinción clásica ha sido retomada por la psicología positiva moderna: Carol Ryff propone seis dimensiones del bienestar psicológico que van más allá del placer: autonomía, dominio del entorno, crecimiento personal, relaciones positivas, proposito en la vida, y autoaceptación.
 
 La investigación de Roy Baumeister, Kathleen Vohs, y colegas sobre la diferencia entre felicidad y sentido muestra que las dos pueden divergir: tener hijos reduce la felicidad hedonica del dia a dia pero aumenta el sentido de la vida; ayudar a otros produce mayor sentido pero no siempre mayor placer. Las personas más orientadas al sentido (en lugar de solo al placer) muestran mayor bienestar a largo plazo y mayor resiliencia ante la adversidad.
 
@@ -37,7 +37,7 @@ La vida que solo tiene placer es agradable hasta que llega el primer problema gr
 
 Ruben ha leido a Frankl y le ha impactado profundamente. La investigación de Frankl es el punto de partida de la psicología del sentido.
 
-**El Principio del Sentido como el Motivador Más Profundo del Ser Humano, Accesible Incluso en las Condiciones Más Extremas:** Viktor Frankl, psicologo austriaco que sobrevivio a los campos de concentración nazis (Auschwitz, Dachau), desarrollo la logoterapia: una forma de psicoterapia centrada en la busqueda del sentido cómo la motivación primaria humana. En su libro El Hombre en Busca de Sentido, Frankl describe como los prisioneros que encontraban un sentido a su sufrimiento (un proposito para sobrevivir, una persona a quien volver, una obra que terminar) mostraban mayor capacidad de resistencia psicológica que los que habían perdido el sentido.
+**El Principio del Sentido como el Motivador Más Profundo del Ser Humano, Accesible Incluso en las Condiciones Más Extremas:** Viktor Frankl, psicologo austriaco que sobrevivio a los campos de concentración nazis (Auschwitz, Dachau), desarrollo la logoterapia: una forma de psicoterapia centrada en la búsqueda del sentido cómo la motivación primaria humana. En su libro El Hombre en Busca de Sentido, Frankl describe como los prisioneros que encontraban un sentido a su sufrimiento (un proposito para sobrevivir, una persona a quien volver, una obra que terminar) mostraban mayor capacidad de resistencia psicológica que los que habían perdido el sentido.
 
 Frankl propone que el sentido puede encontrarse de tres formas: a traves de lo que damos al mundo (una obra, una acción, una contribución), a traves de lo que recibimos del mundo (la experiencia de la belleza, la verdad, o el amor), y a traves de la actitud con la que enfrentamos el sufrimiento inevitable.
 
@@ -93,7 +93,7 @@ El mismo trabajo hecho por empleo y hecho por vocación produce experiencias com
 
 Elena ha vivido una perdida importante que la ha obligado a replantear lo que le importa.
 
-**El Principio de la Adversidad como Catalizadora de la Busqueda de Sentido y el Crecimiento Postraumatico:** La investigación de Richard Tedeschi y Lawrence Calhoun sobre el crecimiento postraumatico (PTG, post-traumatic growth) muestra que muchas personas que han experimentado traumas significativos (perdidas, enfermedades graves, crisis vitales) reportan cambios positivos en su vida posterior que atribuyen directamente a esa experiencia: mayor apreciación de la vida, relaciones más profundas, mayor fuerza personal percibida, mayor apertura espiritual, y mayor sentido de posibilidades.
+**El Principio de la Adversidad como Catalizadora de la Búsqueda de Sentido y el Crecimiento Postraumatico:** La investigación de Richard Tedeschi y Lawrence Calhoun sobre el crecimiento postraumatico (PTG, post-traumatic growth) muestra que muchas personas que han experimentado traumas significativos (perdidas, enfermedades graves, crisis vitales) reportan cambios positivos en su vida posterior que atribuyen directamente a esa experiencia: mayor apreciación de la vida, relaciones más profundas, mayor fuerza personal percibida, mayor apertura espiritual, y mayor sentido de posibilidades.
 
 El PTG no niega el sufrimiento ni lo convierte en algo positivo: convive con el sufrimiento. Lo que cambia es la narrativa que la persona construye sobre el significado de la experiencia y su efecto en quien ha llegado a ser.
 
@@ -127,7 +127,7 @@ La investigación del Harvard Study of Adult Development (el estudio longitudina
 
 **Ejercicio inmediato:** Identifica las tres relaciones en tu vida que producen más sentido (no necesariamente las más frecuentes o las más comfortables sino las más significativas). Reflexiona: ¿estoy dedicando suficiente atención, presencia, y energía a estas relaciones en proporción a la importancia que tienen para el sentido de mi vida? ¿Si no, que podría cambiar para que la distribución de tu tiempo y energía refleje mejor lo que genuinamente importa?
 
-El proposito que no incluye a nadie más es un proyecto. El que incluye vinculos reales es una vida.
+El proposito que no incluye a nadie más es un proyecto. El que incluye vínculos reales es una vida.
 
 ---
 

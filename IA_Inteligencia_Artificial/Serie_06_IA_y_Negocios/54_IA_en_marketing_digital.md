@@ -27,7 +27,7 @@ Isabel aplico los principios de IA en marketing digital a la gestión de persona
 Elena evaluó e implementó herramientas de IA para IA en marketing digital en su empresa. Su principal aprendizaje: la tecnología es facil; la gestión del cambio es el trabajo real.
 
 ## Capítulo 7: Implementación paso a paso
-La metodologia de implementación: diagnóstico (2 semanas), selección de herramientas (2 semanas), piloto controlado (1 mes), evaluación y expansión o ajuste (1 mes).
+La metodología de implementación: diagnóstico (2 semanas), selección de herramientas (2 semanas), piloto controlado (1 mes), evaluación y expansión o ajuste (1 mes).
 
 ## Capítulo 8: Los errores más costosos
 Implementar sin redisenar el proceso, no involucrar al equipo, expectativas irrealistas, no medir el impacto y elegir la herramienta antes de entender el problema son los errores que más frecuentemente hacen fracasar las implementaciones.

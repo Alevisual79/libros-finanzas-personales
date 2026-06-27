@@ -37,7 +37,7 @@ El perdon que no perdonas no dana al que cometio el daño. Solo dana a quien lo 
 
 Elena carga con rencor hacía una persona que la trató injustamente hace años.
 
-**El Principio del Resentimiento como Carga Fisiológica:** La investigación en neurociencia y psicofisiologia ha documentado que el estado de resentimiento cronico activa el sistema de estres de forma similar a la exposición a una amenaza real. Charlotte vanOyen Witvliet, investigadora de la Universidad Calvin, documento que solo recordar ofensas mientras se mantiene el rencor produce aumentos en la frecuencia cardiaca, la tensión muscular, y la respuesta galvanica de la piel.
+**El Principio del Resentimiento como Carga Fisiológica:** La investigación en neurociencia y psicofisiologia ha documentado que el estado de resentimiento cronico activa el sistema de estrés de forma similar a la exposición a una amenaza real. Charlotte vanOyen Witvliet, investigadora de la Universidad Calvin, documento que solo recordar ofensas mientras se mantiene el rencor produce aumentos en la frecuencia cardiaca, la tensión muscular, y la respuesta galvanica de la piel.
 
 Kathleen Lawler-Row de la Universidad East Carolina muestra que las personas con mayor disposición al perdon tienen menor presión arterial, mejor sistema inmune, menor nivel de cortisol, y mayor longevidad. El rencor es literalmente una carga fisiológica que el cuerpo lleva con sus costes en salud.
 
@@ -49,7 +49,7 @@ El resentimiento que llevas no es gratis. Lo pagas cada vez que lo recuerdas, en
 
 ## Capítulo 3: Los modelos del perdon: pasos de un proceso
 
-Ruben quiere perdonar pero no sabe como hacerlo practicamente.
+Ruben quiere perdonar pero no sabe como hacerlo prácticamente.
 
 **El Principio del Perdon como Proceso Gradual con Fases Identificables:** Robert Enright propone un modelo de perdon de cuatro fases: la fase de descubrimiento (reconocer el daño, la ira, el resentimiento, y los costes de cargarlos), la fase de decisión (elegir deliberadamente el perdon), la fase de trabajo (entender al ofensor desde una perspectiva más amplia, trabajar con la empatia y la compasión), y la fase de profundización (encontrar significado en la experiencia).
 
@@ -93,7 +93,7 @@ El error que no puedes perdonarte tampoco te permite aprender de el completament
 
 Elena confunde el perdon con renunciar a la justicia.
 
-**El Principio de la Independencia del Perdon y la Justicia:** Jeffrie Murphy, filosofo del derecho que ha investigado el perdon, propone que el perdon y la justicia son independientes: uno puede perdonar a una persona por el daño que causo y al mismo tiempo buscar que sea responsabilizada de sus acciones. Perdonar no requiere abandonar la busqueda de justicia, y buscar justicia no requiere mantener el rencor.
+**El Principio de la Independencia del Perdon y la Justicia:** Jeffrie Murphy, filosofo del derecho que ha investigado el perdon, propone que el perdon y la justicia son independientes: uno puede perdonar a una persona por el daño que causo y al mismo tiempo buscar que sea responsabilizada de sus acciones. Perdonar no requiere abandonar la búsqueda de justicia, y buscar justicia no requiere mantener el rencor.
 
 Esta distinción es importante para muchas victimas de abuso: el miedo a que el perdon implique renunciar a la justicia es una de las razones más comunes para resistirse al proceso.
 
@@ -155,7 +155,7 @@ Frederic Luskin, investigador del perdon de Stanford, propone un enfoque del per
 
 **Ejercicio inmediato:** Esta semana, práctica el perdon en el nivel más bajo de la escala: alguien que condujo mal, alguien que fue descortes en una cola. práctica soltar esos microagravios deliberadamente. Esta práctica con agravios pequeños construye la capacidad de perdon que eventualmente puede aplicarse a agravios mayores.
 
-El perdon que prácticas en lo pequeño construye el musculo que eventualmente puede aplicarse a lo grande.
+El perdon que prácticas en lo pequeño construye el músculo que eventualmente puede aplicarse a lo grande.
 
 ---
 

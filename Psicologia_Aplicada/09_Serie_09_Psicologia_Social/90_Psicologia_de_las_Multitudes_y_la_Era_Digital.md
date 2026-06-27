@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ha visto cómo un comentario suyo en redes sociales recibio respuestas que le sorprendieron por su intensidad y por el comportamiento de personas que en persona probablemente no se habrían expresado asi. Elena ha observado como causas que parecian marginales pueden volverse virales en dias y transformar comportamientos a escala masiva. Isabel ha gestionado situaciones en su empresa donde rumores que circulaban en grupos de mensajeria interna habían transformado el estado de animo de equipos enteros antes de que nadie de la dirección supiera lo que estaba pasando. Las multitudes digitales son reales aunque no se reúnan físicamente. Y su psicología combina los mecanismos clasicos de la psicología de masas con fenómenos nuevos que solo internet hace posibles. Este libro es sobre esa psicología.
+Ruben ha visto cómo un comentario suyo en redes sociales recibio respuestas que le sorprendieron por su intensidad y por el comportamiento de personas que en persona probablemente no se habrían expresado asi. Elena ha observado como causas que parecian marginales pueden volverse virales en dias y transformar comportamientos a escala masiva. Isabel ha gestionado situaciones en su empresa donde rumores que circulaban en grupos de mensajeria interna habían transformado el estado de animo de equipos enteros antes de que nadie de la dirección supiera lo que estaba pasando. Las multitudes digitales son reales aunque no se reúnan físicamente. Y su psicología combina los mecanismos clásicos de la psicología de masas con fenómenos nuevos que solo internet hace posibles. Este libro es sobre esa psicología.
 
 ---
 
@@ -97,7 +97,7 @@ Ruben tiene dificultades para distinguir la información fiable de la que no lo 
 
 La investigación de John Cook, Sander van der Linden, y colegas sobre la inoculación contra la desinformación muestra que exponer a las personas a las técnicas retorica usadas para crear desinformación (antes de exponerlas a la desinformación específica) aumenta significativamente su capacidad de detectarla, de forma similar a cómo una vacuna médica funciona exponiendo al organismo a una versión debilitada del patogeno.
 
-**Ejercicio inmediato:** Aprende cinco técnicas retorica comunes en la desinformación: el hombre de paja (distorsionar la posición contraria para hacerla más facilmente atacable), la apelación a la autoridad falsa (citar a alguien como experto en un área donde no lo es), la falacia del pendiente resbaladizo (asumir que A llevara inevitablemente a Z), la apelación a la naturaleza (lo natural es bueno), y la anecdota como evidencia (usar un caso para refutar una estadistica). Reconocer estas técnicas es la primera linea de defensa contra la desinformación.
+**Ejercicio inmediato:** Aprende cinco técnicas retorica comunes en la desinformación: el hombre de paja (distorsionar la posición contraria para hacerla más facilmente atacable), la apelación a la autoridad falsa (citar a alguien como experto en un área donde no lo es), la falacia del pendiente resbaladizo (asumir que A llevara inevitablemente a Z), la apelación a la naturaleza (lo natural es bueno), y la anecdota como evidencia (usar un caso para refutar una estadística). Reconocer estas técnicas es la primera linea de defensa contra la desinformación.
 
 La persona que conoce las técnicas de la desinformación no puede ser enganada de la misma forma por ellas.
 
@@ -107,11 +107,11 @@ La persona que conoce las técnicas de la desinformación no puede ser enganada 
 
 Elena ha notado que su comportamiento en redes sociales no es identico a su comportamiento en la vida fuera de linea. Nadie lo es.
 
-**El Principio de la Gestion de la Impressión en Linea como Actividad Que Tiene Costes psicológicos específicos:** Erving Goffman propuso que la vida social es una actuación: gestionamos continuamente la impresión que producimos en los demás, presentando versiones de nosotros mismos adaptadas a la audiencia y el contexto. Las redes sociales amplifican este fenómeno al crear audiencias persistentes, masivas, y mixtas (amigos, colegas, desconocidos, familiares en el mismo espacio).
+**El Principio de la Gestión de la Impressión en Linea como Actividad Que Tiene Costes psicológicos específicos:** Erving Goffman propuso que la vida social es una actuación: gestionamos continuamente la impresión que producimos en los demás, presentando versiones de nosotros mismos adaptadas a la audiencia y el contexto. Las redes sociales amplifican este fenómeno al crear audiencias persistentes, masivas, y mixtas (amigos, colegas, desconocidos, familiares en el mismo espacio).
 
 La investigación de Sherry Turkle sobre la identidad en linea muestra que la gestión de la impresión en redes sociales puede producir una brecha entre el yo presentado (el yo curado, optimizado para la aprobación) y el yo real, con consecuencias psicológicas que incluyen mayor ansiedad, menor autenticidad, y una sensación difusa de fraude.
 
-**Ejercicio inmediato:** Reflexiona sobre la diferencia entre la versión de ti mismo que proyectas en redes sociales y la persona que eres en privado. No para eliminar la diferencia (algun nivel de gestión de impresión es normal y adaptativo) sino para asegurarte de que la brecha no es tan grande que la gestión de la impresión se convierta en una fuente continua de estres y inautenticidad.
+**Ejercicio inmediato:** Reflexiona sobre la diferencia entre la versión de ti mismo que proyectas en redes sociales y la persona que eres en privado. No para eliminar la diferencia (algun nivel de gestión de impresión es normal y adaptativo) sino para asegurarte de que la brecha no es tan grande que la gestión de la impresión se convierta en una fuente continua de estrés y inautenticidad.
 
 La audiencia digital que cuidas con tanta atención no te conoce. Solo conoce la versión que les has mostrado.
 
@@ -133,7 +133,7 @@ Compartir una causa no es apoyarla. Es anunciar que te importa. Apoyarla requier
 
 ## Capítulo 9: El bienestar digital: como usar la tecnología sin que ella te use a ti
 
-Ruben ha sentido que sus habitos de uso de redes sociales no siempre son los que el elegiria si pudiera elegir con más deliberación.
+Ruben ha sentido que sus hábitos de uso de redes sociales no siempre son los que el elegiria si pudiera elegir con más deliberación.
 
 **El Principio del Diseno Persuasivo como Sistema que Explota los Mecanismos psicológicos de la Recompensa Variable para Capturar la Atención:** Tristan Harris, ex diseñador de Google, ha popularizado el concepto de tecnología humana: la crítica a los sistemas de diseño de plataformas digitales que usan mecanismos de refuerzo variable (el mismo mecanismo que hace adictivo al slot machine) para maximizar el tiempo de pantalla a expensas del bienestar del usuario. El scroll infinito, las notificaciones, los likes, y el autoplay son técnicas de diseño específicas que explotan los mecanismos dopaminergicos de la recompensa.
 
@@ -151,7 +151,7 @@ Elena ha llegado al final de esta serie con una comprensión más profunda de co
 
 **El Principio de la Ciudadania Digital como Extensión de la Responsabilidad Civica al Espacio Digital:** La investigación de Yochai Benkler sobre la economía de la red muestra que internet es un bien común: su valor es producido colectivamente por todos sus usuarios, y la calidad del espacio digital (la fiabilidad de la información, las normas de comportamiento, la civildad del discurso) es determinada colectivamente por el comportamiento individual de millones de personas.
 
-La investigación de Frances Haugen y el trabajo del Centro para la Tecnologia Humana muestran que las decisiones de diseño de las plataformas digitales tienen consecuencias democraticas: los algoritmos que maximizan el engagement amplifican el contenido más polarizante y emocionalmente activador, con efectos documentados sobre la calidad del discurso público y la salud democratica.
+La investigación de Frances Haugen y el trabajo del Centro para la Tecnologia Humana muestran que las decisiones de diseño de las plataformas digitales tienen consecuencias democraticas: los algoritmos que maximizan el engagement amplifican el contenido más polarizante y emocionalmente activador, con efectos documentados sobre la calidad del discurso público y la salud democrática.
 
 **Ejercicio inmediato:** Para las plataformas digitales que usas regularmente, adopta una norma de ciudadania digital: antes de compartir cualquier contenido, aplica la regla SIFT de Mike Caulfield: Stop (detente antes de compartir), Investigate the source (verifica la fuente), Find better coverage (busca otras fuentes), Trace claims (traza el origen de las afirmaciones). Cuatro segundos de SIFT antes de cada compartición pueden producir un entorno informativo significativamente mejor si muchos los practican.
 

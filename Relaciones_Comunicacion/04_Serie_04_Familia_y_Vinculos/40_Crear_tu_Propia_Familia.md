@@ -1,7 +1,7 @@
 # Crear tu Propia Familia
 ## Definir lo que significa familia para ti en el siglo XXI
 
-**Serie 04: Familia y Vinculos — Libro 10 de 10**
+**Serie 04: Familia y Vínculos — Libro 10 de 10**
 
 ---
 
@@ -149,7 +149,7 @@ Los tres, de formas distintas, estan haciendo lo mismo: construir, con los ojos 
 
 ---
 
-*Libro 40 de la colección, Libro 10 de 10 de Serie 04: Familia y Vinculos. Fin de la Serie 04.*
+*Libro 40 de la colección, Libro 10 de 10 de Serie 04: Familia y Vínculos. Fin de la Serie 04.*
 
 ---
 

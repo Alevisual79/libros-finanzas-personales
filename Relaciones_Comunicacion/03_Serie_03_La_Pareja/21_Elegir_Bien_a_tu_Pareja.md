@@ -41,7 +41,7 @@ No te enamoras de quien es mejor para ti. Te enamoras de quien te resulta emocio
 
 ## Capítulo 2: El papel del apego en la elección de pareja
 
-El estilo de apego que desarrollamos en la infancia (seguro, ansioso, evitativo o desorganizado) no desaparece en la adultez. Se activa en las relaciones romanticas, especialmente en los momentos de estres y vulnerabilidad, y determina en gran medida a quien elegimos y como nos relacionamos con esa persona.
+El estilo de apego que desarrollamos en la infancia (seguro, ansioso, evitativo o desorganizado) no desaparece en la adultez. Se activa en las relaciones romanticas, especialmente en los momentos de estrés y vulnerabilidad, y determina en gran medida a quien elegimos y como nos relacionamos con esa persona.
 
 **El Principio del Apego como Filtro de Elección:** Las personas con apego ansioso tienden a elegir parejas con apego evitativo, produciendo dinámicas de persecución y huida que son cronicamente insatisfactorias pero intensamente familiares. Las personas con apego evitativo tienden a elegir parejas ansiosas, y el ciclo se repite. Las personas con apego seguro tienen una mayor capacidad de elegir en función de la compatibilidad real, no del patron.
 
@@ -97,9 +97,9 @@ Lo que te emociona al principio rara vez es lo que te satisface a largo plazo.
 
 ## Capítulo 6: El efecto del amor romantico en la percepción
 
-La cultura del amor romantico ha construido una narrativa sobre la elección de pareja que es poeticamente hermosa y practicamente destructiva: hay una persona unica para cada uno, cuando la encuentras lo sabes inmediatamente, el amor verdadero todo lo puede, si es el amor correcto no requiere esfuerzo.
+La cultura del amor romantico ha construido una narrativa sobre la elección de pareja que es poeticamente hermosa y prácticamente destructiva: hay una persona unica para cada uno, cuando la encuentras lo sabes inmediatamente, el amor verdadero todo lo puede, si es el amor correcto no requiere esfuerzo.
 
-**El Principio de la Narrativa Romantica como Distorsión:** La narrativa del amor romantico distorsiona la percepción de las relaciones de varias formas específicas: convierte la intensidad emocional en criterio de autenticidad (si no lo siento con locura, no es el verdadero amor), produce resistencia al trabajo relacional (si fuera el correcto no tendría que esforzarme), y genera busqueda perpetua de algo más intenso cuando la euforia inicial decrece.
+**El Principio de la Narrativa Romantica como Distorsión:** La narrativa del amor romantico distorsiona la percepción de las relaciones de varias formas específicas: convierte la intensidad emocional en criterio de autenticidad (si no lo siento con locura, no es el verdadero amor), produce resistencia al trabajo relacional (si fuera el correcto no tendría que esforzarme), y genera búsqueda perpetua de algo más intenso cuando la euforia inicial decrece.
 
 La investigación sobre satisfacción relacional a largo plazo muestra sistemáticamente que las relaciones más satisfactorias no son las que empezaron con la mayor intensidad sino las que desarrollaron compromiso, respeto mutuo y comunicación efectiva con el tiempo.
 

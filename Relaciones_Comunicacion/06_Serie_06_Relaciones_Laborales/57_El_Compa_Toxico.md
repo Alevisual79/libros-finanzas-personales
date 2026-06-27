@@ -107,7 +107,7 @@ Las excusas de quien no cumple consistentemente son interesantes psicológicamen
 
 Aunque cada perfil de persona difícil requiere matices específicos, ciertos principios generales de gestión aplican consistentemente a traves de todos los perfiles problematicos.
 
-**El Principio de los Fundamentos Comunes de Gestion:** Independientemente del perfil específico, la gestión efectiva de personas difíciles en el trabajo generalmente requiere documentación de comportamientos específicos a lo largo del tiempo, comunicación directa centrada en el comportamiento observable y su impacto (no en juicios de carácter), establecimiento de consecuencias claras y consistentes, y, cuando es necesario, la disposición de escalar a recursos humanos cuando los intentos directos de gestión no producen cambio.
+**El Principio de los Fundamentos Comunes de Gestión:** Independientemente del perfil específico, la gestión efectiva de personas difíciles en el trabajo generalmente requiere documentación de comportamientos específicos a lo largo del tiempo, comunicación directa centrada en el comportamiento observable y su impacto (no en juicios de carácter), establecimiento de consecuencias claras y consistentes, y, cuando es necesario, la disposición de escalar a recursos humanos cuando los intentos directos de gestión no producen cambio.
 
 **Ejercicio inmediato:** Para la persona difícil más relevante de tu entorno laboral actual, evalua si has aplicado consistentemente estos cuatro elementos: documentación, comunicación directa centrada en comportamiento, consecuencias claras, y disposición a escalar si es necesario.
 
@@ -131,9 +131,9 @@ Escalar a recursos humanos no es un fracaso personal en la gestión de conflicto
 
 Gestionar relaciones laborales problematicas tiene un coste emocional real que merece atención y cuidado activo, independientemente de cuan efectivamente se gestione la situación en si misma.
 
-**El Principio del Autocuidado durante la Gestion de Conflicto:** Las personas que gestionan situaciones laborales difíciles de forma sostenible son las que protegen activamente su propio bienestar durante el proceso: estableciendo límites sobre cuanto tiempo y energía mental dedican a pensar en la situación fuera del horario laboral, buscando apoyo de colegas de confianza o de profesionales si el estres es significativo, y recordando que su valor profesional no depende de resolver perfectamente cada relación difícil.
+**El Principio del Autocuidado durante la Gestión de Conflicto:** Las personas que gestionan situaciones laborales difíciles de forma sostenible son las que protegen activamente su propio bienestar durante el proceso: estableciendo límites sobre cuanto tiempo y energía mental dedican a pensar en la situación fuera del horario laboral, buscando apoyo de colegas de confianza o de profesionales si el estrés es significativo, y recordando que su valor profesional no depende de resolver perfectamente cada relación difícil.
 
-**Ejercicio inmediato:** Si estas gestionando actualmente una relación laboral difícil que te genera estres significativo, identifica una práctica específica de autocuidado (un límite de tiempo de rumiación, una conversación con alguien de confianza) que podrías implementar esta semana.
+**Ejercicio inmediato:** Si estas gestionando actualmente una relación laboral difícil que te genera estrés significativo, identifica una práctica específica de autocuidado (un límite de tiempo de rumiación, una conversación con alguien de confianza) que podrías implementar esta semana.
 
 Gestionar a una persona difícil en el trabajo no requiere que sacrifiques tu propio bienestar en el proceso. Protegerte a ti mismo es parte de la gestión efectiva, no un lujo adicional.
 
@@ -141,7 +141,7 @@ Gestionar a una persona difícil en el trabajo no requiere que sacrifiques tu pr
 
 ## Epílogo
 
-No todos los problemas en el trabajo son problemas de proceso. Algunos son problemas de personas. Y hay que saber gestionarlos. Isabel, después de identificar finalmente el patron específico de la persona que minaba su equipo (un caso clasico de sabotaje silencioso), comenzo a documentar instancias concretas durante seis semanas. Con esa documentación, la conversación con recursos humanos, que antes parecia imposible por la falta de evidencia clara, se volvio mucho más directa y productiva.
+No todos los problemas en el trabajo son problemas de proceso. Algunos son problemas de personas. Y hay que saber gestionarlos. Isabel, después de identificar finalmente el patron específico de la persona que minaba su equipo (un caso clásico de sabotaje silencioso), comenzo a documentar instancias concretas durante seis semanas. Con esa documentación, la conversación con recursos humanos, que antes parecia imposible por la falta de evidencia clara, se volvio mucho más directa y productiva.
 
 ---
 

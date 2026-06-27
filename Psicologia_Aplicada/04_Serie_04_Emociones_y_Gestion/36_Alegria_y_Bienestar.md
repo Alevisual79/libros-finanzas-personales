@@ -1,7 +1,7 @@
 # Alegria y Bienestar
 ## Como cultivar las emociones positivas sin falsificarlas
 
-**Serie 04: Emociones y Gestion Emocional — Libro 6 de 10**
+**Serie 04: Emociones y Gestión Emocional — Libro 6 de 10**
 
 ---
 
@@ -65,7 +65,7 @@ El bienestar no es máximo de alegria. Es suficiente de los cinco elementos que 
 
 Ruben nota que hay dos tipos de momentos buenos: los placenteros (comida rica, descanso, entretenimiento) y los satisfactorios (terminar un proyecto difícil, ayudar a alguien, superar un desafio). Son diferentes en su estructura y en lo que producen a largo plazo.
 
-**El Principio de la Distinción Hedonia-Eudaimonia:** Aristóteles distinguio entre hedone (placer, la busqueda de lo agradable) y eudaimonia (el florecimiento que viene de vivir de acuerdo con las propias capacidades y valores). Martin Seligman recoge esta distinción, diferenciando entre la vida placentera (maximización del placer sensorial), la vida comprometida (uso de las fortalezas en desafios significativos), y la vida con significado (contribución a algo más grande que uno mismo).
+**El Principio de la Distinción Hedonia-Eudaimonia:** Aristóteles distinguio entre hedone (placer, la búsqueda de lo agradable) y eudaimonia (el florecimiento que viene de vivir de acuerdo con las propias capacidades y valores). Martin Seligman recoge esta distinción, diferenciando entre la vida placentera (maximización del placer sensorial), la vida comprometida (uso de las fortalezas en desafios significativos), y la vida con significado (contribución a algo más grande que uno mismo).
 
 La investigación muestra que la adaptación hedonica afecta especialmente a los placeres sensoriales: el mismo estímulo produce cada vez menos placer con la repetición. Las fuentes de satisfacción eudaimonica son menos susceptibles a esta adaptación porque el nivel de desafio puede seguir creciendo.
 
@@ -135,13 +135,13 @@ El asombro es el antídoto más rápido al egocentrismo que produce el sufrimien
 
 Isabel quiere alegria no solo en momentos especiales sino de fondo, cómo una condición base desde la que vivir.
 
-**El Principio del Bienestar Basal como Resultado de Habitos:** Sonja Lyubomirsky propone que el nivel basal de bienestar está determinado por tres factores: el punto de ajuste genetico (aproximadamente el 50% de la varianza), las circunstancias de vida (aproximadamente el 10%), y las actividades y habitos deliberados (aproximadamente el 40%). El mayor margen de cambio esta en los habitos elegidos deliberadamente.
+**El Principio del Bienestar Basal como Resultado de Hábitos:** Sonja Lyubomirsky propone que el nivel basal de bienestar está determinado por tres factores: el punto de ajuste genético (aproximadamente el 50% de la varianza), las circunstancias de vida (aproximadamente el 10%), y las actividades y hábitos deliberados (aproximadamente el 40%). El mayor margen de cambio esta en los hábitos elegidos deliberadamente.
 
-Los habitos que la investigación muestra más consistentemente asociados con mayor bienestar basal incluyen: actividad física regular (efectos sobre el humor comparables a algunos antidepresivos segun meta-análisis de Craft y Perna), sueño de calidad suficiente, conexión social frecuente, actividades de contribución a otros, y práctica de mindfulness.
+Los hábitos que la investigación muestra más consistentemente asociados con mayor bienestar basal incluyen: actividad física regular (efectos sobre el humor comparables a algunos antidepresivos segun meta-análisis de Craft y Perna), sueño de calidad suficiente, conexión social frecuente, actividades de contribución a otros, y práctica de mindfulness.
 
-**Ejercicio inmediato:** Identifica el habito de los mencionados que más consistentemente esta ausente en tu vida actual. Solo uno. El más urgente. Diseña la versión más pequeña posible que puedas implementar mañana: no la versión ideal sino la versión mínima viable.
+**Ejercicio inmediato:** Identifica el hábito de los mencionados que más consistentemente esta ausente en tu vida actual. Solo uno. El más urgente. Diseña la versión más pequeña posible que puedas implementar mañana: no la versión ideal sino la versión mínima viable.
 
-El bienestar de fondo no viene de una gran transformación. Viene de habitos pequeños que se mantienen.
+El bienestar de fondo no viene de una gran transformación. Viene de hábitos pequeños que se mantienen.
 
 ---
 
@@ -165,7 +165,7 @@ Ruben encontró la chispa un martes por la tarde tocando la guitarra con dos ami
 
 ---
 
-*Libro 36 de la colección psicología Aplicada, Libro 6 de 10 de Serie 04: Emociones y Gestion Emocional.*
+*Libro 36 de la colección psicología Aplicada, Libro 6 de 10 de Serie 04: Emociones y Gestión Emocional.*
 
 ---
 

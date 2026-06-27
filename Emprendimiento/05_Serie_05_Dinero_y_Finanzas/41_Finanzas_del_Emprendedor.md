@@ -79,7 +79,7 @@ El negocio que tiene alto revenue y bajo margen trabaja mucho para ganar poco. E
 
 Lucia ha implementado un sistema de control de gasto que le permite crecer sin perder el control financiero.
 
-**El Principio del Control de Gasto como La práctica de Evaluar Cada Inversión o Gasto del Negocio en Terminos de Su ROI Esperado y De Su Coherencia con Las Prioridades Estratégicas del Negocio en Lugar de Aprobar Gastos Por Habito o Por Inercia:** Paul Graham propone que la austeridad en las fases tempranas del negocio (la mentalidad de ramen profitability) produce emprendedores más creativos y más disciplinados que los que tienen acceso facil a capital: cuando no puedes gastar, tienes que pensar como generar revenue sin gastos, lo que frecuentemente produce las soluciones más eficientes.
+**El Principio del Control de Gasto como La práctica de Evaluar Cada Inversión o Gasto del Negocio en Terminos de Su ROI Esperado y De Su Coherencia con Las Prioridades Estratégicas del Negocio en Lugar de Aprobar Gastos Por Hábito o Por Inercia:** Paul Graham propone que la austeridad en las fases tempranas del negocio (la mentalidad de ramen profitability) produce emprendedores más creativos y más disciplinados que los que tienen acceso facil a capital: cuando no puedes gastar, tienes que pensar como generar revenue sin gastos, lo que frecuentemente produce las soluciones más eficientes.
 
 El control de gasto en el negocio no significa no gastar: significa gastar en lo que produce retorno medible y no gastar en lo que no lo produce. La pregunta correcta ante cualquier gasto no es puedo permitirmelo sino cuanto revenue o cuanta eficiencia produce este gasto y en cuanto tiempo recupero la inversión.
 
@@ -97,7 +97,7 @@ Marcos ha aprendido que mezclar las finanzas personales y del negocio es el erro
 
 La separación financiera tiene tres componentes: una cuenta bancaria exclusivamente del negocio (donde entra todo el revenue y de dónde salen todos los gastos del negocio), una tarjeta de credito del negocio (para los gastos empresariales), y un salario explícito (una cantidad fija que el negocio paga mensualmente al emprendedor y que es el unico dinero del negocio que entra en sus finanzas personales).
 
-**Ejercicio inmediato:** Si todavia no tienes separación financiera completa, da los tres pasos esta semana: abre una cuenta bancaria exclusivamente para el negocio (muchos bancos tienen cuentas de empresa con poca o ninguna comisión fija), configura todos los cobros de clientes para qué lleguen a esa cuenta, y define el salario mensual que el negocio te pagara a ti (empieza por el mínimo que necesitas para vivir sin estres personal y aumentalo a medida que el beneficio del negocio lo permite). Esa separación simplifica radicalmente la gestión financiera y la declaración fiscal.
+**Ejercicio inmediato:** Si todavia no tienes separación financiera completa, da los tres pasos esta semana: abre una cuenta bancaria exclusivamente para el negocio (muchos bancos tienen cuentas de empresa con poca o ninguna comisión fija), configura todos los cobros de clientes para qué lleguen a esa cuenta, y define el salario mensual que el negocio te pagara a ti (empieza por el mínimo que necesitas para vivir sin estrés personal y aumentalo a medida que el beneficio del negocio lo permite). Esa separación simplifica radicalmente la gestión financiera y la declaración fiscal.
 
 El emprendedor que separa las finanzas del negocio y las personales duerme mejor. No porque gane más sino porque sabe exactamente cuanto gana.
 
@@ -121,7 +121,7 @@ El presupuesto incorrecto que se revisa y actualiza cada mes enseña más que el
 
 Lucia ha simplificado su gestión financiera usando las herramientas correctas para cada función.
 
-**El Principio de Las Herramientas Financieras como Los Instrumentos que Automatizan La Contabilidad Basica, El Seguimiento de Gastos, y La Declaración Fiscal Reduciendo El Tiempo Que El Emprendedor Dedica a Gestion Financiera y Aumentando La Precisión de Los Datos:** Las herramientas financieras principales para el emprendedor español son: Holded (contabilidad, facturación, y CRM integrados, orientada al mercado español), Quaderno (automatización de impuestos para e-commerce y SaaS), Factorial (gestión de nóminas si hay empleados), Stripe (cobros online con contabilidad integrada), y el propio Google Sheets o Excel para presupuestos y seguimiento financiero cuando el negocio todavia no justifica el coste de un software específico.
+**El Principio de Las Herramientas Financieras como Los Instrumentos que Automatizan La Contabilidad Basica, El Seguimiento de Gastos, y La Declaración Fiscal Reduciendo El Tiempo Que El Emprendedor Dedica a Gestión Financiera y Aumentando La Precisión de Los Datos:** Las herramientas financieras principales para el emprendedor español son: Holded (contabilidad, facturación, y CRM integrados, orientada al mercado español), Quaderno (automatización de impuestos para e-commerce y SaaS), Factorial (gestión de nóminas si hay empleados), Stripe (cobros online con contabilidad integrada), y el propio Google Sheets o Excel para presupuestos y seguimiento financiero cuando el negocio todavia no justifica el coste de un software específico.
 
 La elección de la herramienta financiera correcta depende del nivel de complejidad del negocio: un freelance sin empleados puede gestionar sus finanzas perfectamente con Holded o incluso con una hoja de cálculo bien diseñada. Un negocio con empleados, multiples lineas de producto, y revenue internacional necesita herramientas más completas.
 
@@ -155,7 +155,7 @@ La investigación de U.S. Bank sobre las causas de fracaso de pequeños negocios
 
 **Ejercicio inmediato:** Define tu rutina financiera mínima: que tres números revisas cada semana (saldo en cuenta bancaria, revenue facturado en lo que va de mes, y gastos comprometidos que quedan por pagar), que informe mensual produces (beneficio y perdida del mes, flujo de caja real, y comparación contra el presupuesto), y que reunión trimestral tienes con tu gestor (para revisar la situación fiscal y ajustar la planificación para el trimestre siguiente). Esas tres rutinas (semanal, mensual, y trimestral) son todo lo que un emprendedor individual necesita para mantener la claridad financiera sin dedicar tiempo excesivo a la gestión.
 
-El emprendedor con claridad financiera no necesita ser un experto en finanzas. Necesita los sistemas correctos y los habitos correctos de revisión.
+El emprendedor con claridad financiera no necesita ser un experto en finanzas. Necesita los sistemas correctos y los hábitos correctos de revisión.
 
 ---
 

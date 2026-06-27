@@ -51,7 +51,7 @@ Nombrar con precisión lo que ocurrio es el primer paso para poder procesarlo, s
 
 La infidelidad rara vez ocurre por una sola razón, y casi nunca ocurre simplemente porque la relación principal era mala o porque la persona que traiciono es fundamentalmente deshonesta.
 
-**El Principio de las Multiples Vias hacía la Infidelidad:** Esther Perel identifica multiples vias hacía la infidelidad que no siempre tienen que ver con la insatisfacción en la relación: la busqueda de una versión diferente de uno mismo (no de otra pareja sino de otra versión de la propia identidad), la respuesta a una crisis vital o de mediana edad, la oportunidad combinada con una vulnerabilidad emocional momentanea, y en algunos casos patrones repetitivos de infidelidad que reflejan dificultades personales más profundas con el compromiso o la intimidad.
+**El Principio de las Multiples Vias hacía la Infidelidad:** Esther Perel identifica multiples vias hacía la infidelidad que no siempre tienen que ver con la insatisfacción en la relación: la búsqueda de una versión diferente de uno mismo (no de otra pareja sino de otra versión de la propia identidad), la respuesta a una crisis vital o de mediana edad, la oportunidad combinada con una vulnerabilidad emocional momentanea, y en algunos casos patrones repetitivos de infidelidad que reflejan dificultades personales más profundas con el compromiso o la intimidad.
 
 Entender la via específica que llevo a la infidelidad, sin que eso la justifique, es información útil tanto para quien la cometio como para la pareja, porque informa sobre que necesita cambiar para que no se repita.
 
@@ -65,9 +65,9 @@ Entender por qué ocurrio no es excusarlo. Es la unica forma de evitar que vuelv
 
 Descubrir una infidelidad produce, en muchas personas, sintomas que coinciden con los del trauma: pensamientos intrusivos, hipervigilancia, dificultad para regular las emociones, y una sensación de que la realidad que se conocía ya no es confiable.
 
-**El Principio del Trauma del Descubrimiento:** La investigación sobre el impacto psicológico de descubrir una infidelidad muestra patrones similares a los del estres postraumatico: la persona revive obsesivamente la información descubierta, busca compulsivamente más detalles, y experimenta una crisis de la propia percepción de la realidad porque el pasado que creía conocer resulta haber sido, en parte, una mentira sostenida.
+**El Principio del Trauma del Descubrimiento:** La investigación sobre el impacto psicológico de descubrir una infidelidad muestra patrones similares a los del estrés postraumatico: la persona revive obsesivamente la información descubierta, busca compulsivamente más detalles, y experimenta una crisis de la propia percepción de la realidad porque el pasado que creía conocer resulta haber sido, en parte, una mentira sostenida.
 
-Este impacto traumatico necesita ser reconocido y tratado con la misma seriedad que cualquier otro trauma, no minimizado cómo un simple disgusto que pasara con el tiempo.
+Este impacto traumático necesita ser reconocido y tratado con la misma seriedad que cualquier otro trauma, no minimizado cómo un simple disgusto que pasara con el tiempo.
 
 **Ejercicio inmediato:** Si estas procesando el descubrimiento de una traición, permite que los sintomas que experimentas (los pensamientos intrusivos, la dificultad para dormir, la hipervigilancia) sean reconocidos como reacciones normales a un trauma, no como señales de que estas exagerando. Considera buscar apoyo profesional especializado en trauma e infidelidad.
 

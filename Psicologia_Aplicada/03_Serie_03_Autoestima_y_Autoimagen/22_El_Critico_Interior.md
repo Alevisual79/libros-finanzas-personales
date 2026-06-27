@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben tiene una voz en su cabeza que no descansa. Cuando termina un proyecto, le dice que podría haber sido mejor. Cuando tiene éxito, le advierte que fue suerte y que la próxima vez no lo lograra. Cuando comete un error, no lo deja pasar. Esta voz, que Ruben confunde con autoexigencia o con realismo, es su crítico interior. Y la distinción más importante que puede aprender sobre ella es esta: no es la verdad sobre quien es. Es un habito de pensamiento aprendido que opera con independencia de los hechos.
+Ruben tiene una voz en su cabeza que no descansa. Cuando termina un proyecto, le dice que podría haber sido mejor. Cuando tiene éxito, le advierte que fue suerte y que la próxima vez no lo lograra. Cuando comete un error, no lo deja pasar. Esta voz, que Ruben confunde con autoexigencia o con realismo, es su crítico interior. Y la distinción más importante que puede aprender sobre ella es esta: no es la verdad sobre quien es. Es un hábito de pensamiento aprendido que opera con independencia de los hechos.
 
 ---
 
@@ -93,7 +93,7 @@ El crítico interior crítica porque tiene miedo. Hablar con ese miedo es más e
 
 Elena ha tenido su crítico interior durante tanto tiempo que ya no sabe bien donde acaba el crítico y donde empieza ella. La voz crítica es tan familiar que parece ser simplemente quien es.
 
-**El Principio de la Diferenciación del Yo del Crítico:** Richard Schwartz propone que todas las personas tienen un Self central (que en la práctica clinica se describe como la parte capaz de curiosidad, calma, claridad, compasión, confianza, creatividad, valentía y conexión) que es distinto de las partes críticas, ansiosas o defensivas del sistema psicológico. El trabajo terapeutico consiste en fortalecer la presencia de este Self central como perspectiva desde la cual relacionarse con el crítico interior, en lugar de ser identicar al crítico.
+**El Principio de la Diferenciación del Yo del Crítico:** Richard Schwartz propone que todas las personas tienen un Self central (que en la práctica clinica se describe como la parte capaz de curiosidad, calma, claridad, compasión, confianza, creatividad, valentía y conexión) que es distinto de las partes críticas, ansiosas o defensivas del sistema psicológico. El trabajo terapéutico consiste en fortalecer la presencia de este Self central como perspectiva desde la cual relacionarse con el crítico interior, en lugar de ser identicar al crítico.
 
 Esta distinción no es solo conceptual. Tiene implicaciones prácticas: cuando se puede observar el crítico desde el Self (ah, el crítico se ha activado de nuevo) en lugar de ser el crítico (soy incompetente), el espacio para elegir la respuesta aumenta significativamente.
 

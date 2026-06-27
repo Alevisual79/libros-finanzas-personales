@@ -153,7 +153,7 @@ Elena ha llegado a entender que la independencia de criterio no es un rasgo de p
 
 La investigación de Cass Sunstein sobre el deliberation day y las camaras de eco muestra que la exposición deliberada a perspectivas diferentes (especialmente de personas con las que no estamos de acuerdo) mantiene activa la capacidad de revisión crítica de las propias creencias.
 
-**Ejercicio inmediato:** Identifica tres áreas de tu vida donde tienes creencias que nunca has cuestionado activamente y que comparte practicamente toda tu comunidad de referencia. Para cada una, reflexiona: ¿que argumentos hacen las personas que no comparten esa creencia? No para cambiarla sino para asegurarte de que la tienes por razones propias y no solo por conformidad.
+**Ejercicio inmediato:** Identifica tres áreas de tu vida donde tienes creencias que nunca has cuestionado activamente y que comparte prácticamente toda tu comunidad de referencia. Para cada una, reflexiona: ¿que argumentos hacen las personas que no comparten esa creencia? No para cambiarla sino para asegurarte de que la tienes por razones propias y no solo por conformidad.
 
 La creencia que nunca ha sido cuestionada no es tuya todavia. Es prestada del grupo que la produce.
 

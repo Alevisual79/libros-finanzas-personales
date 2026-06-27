@@ -149,7 +149,7 @@ El sesgo que atacas cambiando solo corazones y mentes cambia muy poco. El que at
 
 Elena ha llegado al final del libro con una comprensión más compleja de sus propios sesgos y con menos pretensión de que puede eliminarlos completamente.
 
-**El Principio de la Gestion del Sesgo como práctica Continua, no Estado Alcanzable:** La investigación de Patricia Devine sobre el proceso de desautomatización del prejuicio muestra que las personas que son conscientes de sus sesgos implícitos y que estan motivadas a reducirlos pueden hacerlo de forma parcial a lo largo del tiempo, pero no eliminarlos completamente. El objetivo no es la eliminación (que es imposible dado que el sesgo es el resultado de mecanismos cognitivos normales) sino la reducción y la gestión.
+**El Principio de la Gestión del Sesgo como práctica Continua, no Estado Alcanzable:** La investigación de Patricia Devine sobre el proceso de desautomatización del prejuicio muestra que las personas que son conscientes de sus sesgos implícitos y que estan motivadas a reducirlos pueden hacerlo de forma parcial a lo largo del tiempo, pero no eliminarlos completamente. El objetivo no es la eliminación (que es imposible dado que el sesgo es el resultado de mecanismos cognitivos normales) sino la reducción y la gestión.
 
 La investigación de Dolly Chugh sobre los decisores mayoritariamente buenos (mostly good) propone que el objetivo más útil no es la perfección moral sino la mejora continua: ser algo mejor mañana de lo que se fue hoy en cuanto a la equidad de las propias decisiones.
 

@@ -47,7 +47,7 @@ En la distancia, cien mensajes superficiales valen menos que una conversación p
 
 La incapacidad de verificar visualmente las actividades y el entorno de la pareja a distancia puede generar inseguridad y celos que requieren gestión consciente, distinguiendo entre la ansiedad generada por la incertidumbre estructural y las señales reales de preocupación legitima.
 
-**El Principio de la Gestion de la Incertidumbre sin Verificación:** Los celos en relaciones a distancia frecuentemente surgen de la incertidumbre estructural de no poder ver, no necesariamente de evidencia real de comportamiento problematico. Gestionar esto requiere trabajo interno sobre la propia tolerancia a la incertidumbre, en lugar de buscar formas de vigilancia o verificación constante que generalmente erosionan más la confianza de la que protegen.
+**El Principio de la Gestión de la Incertidumbre sin Verificación:** Los celos en relaciones a distancia frecuentemente surgen de la incertidumbre estructural de no poder ver, no necesariamente de evidencia real de comportamiento problematico. Gestionar esto requiere trabajo interno sobre la propia tolerancia a la incertidumbre, en lugar de buscar formas de vigilancia o verificación constante que generalmente erosionan más la confianza de la que protegen.
 
 **Ejercicio inmediato:** Si experimentas celos en tu relación a distancia, distingue si estan basados en evidencia real de comportamiento preocupante o simplemente en la incertidumbre de no poder verificar visualmente. Trabaja en la segunda con herramientas de manejo de ansiedad, no con más vigilancia.
 
@@ -59,7 +59,7 @@ Los celos en la distancia generalmente hablan más de tu propia tolerancia a la 
 
 Las visitas presenciales en una relación a distancia tienen una carga emocional desproporcionada respecto a su duración, lo que requiere gestión consciente de expectativas para que sean experiencias satisfactorias.
 
-**El Principio de la Expectativa Realista de la Visita:** Las visitas que generan mayor satisfacción no son las que se planifican con la expectativa de que cada minuto sea perfecto e intenso, sino las que incluyen tiempo de normalidad relajada juntó con momentos de conexión especial, reconociendo que la presión de hacer que cada visita sea excepcional puede generar más estres que disfrute genuino.
+**El Principio de la Expectativa Realista de la Visita:** Las visitas que generan mayor satisfacción no son las que se planifican con la expectativa de que cada minuto sea perfecto e intenso, sino las que incluyen tiempo de normalidad relajada juntó con momentos de conexión especial, reconociendo que la presión de hacer que cada visita sea excepcional puede generar más estrés que disfrute genuino.
 
 **Ejercicio inmediato:** Para tu próxima visita con tu pareja a distancia, planifica incluir tiempo de actividades normales y relajadas, no solo momentos especiales de alta intensidad, para reducir la presión de que todo el tiempo juntos sea excepcional.
 
@@ -119,7 +119,7 @@ La decisión de quien se muda para cerrar la distancia merece ser una decisión 
 
 Algunas relaciones a distancia, al eventualmente cerrarse y pasar a la convivencia real, revelan incompatibilidades que la distancia había mantenido ocultas o manejables, lo cual es una experiencia dolorosa pero informativa.
 
-**El Principio de la Revelación de Incompatibilidad por Proximidad:** La convivencia diaria expone aspectos de la compatibilidad (habitos cotidianos, estilos de comunicación bajo estres frecuente, formas de gestionar el espacio compartido) que la relación a distancia, con su comunicación más controlada y sus encuentros más espaciados, no había tenido oportunidad de revelar. Esto no significa que la relación a distancia fuera falsa, sino que estaba incompleta en su información.
+**El Principio de la Revelación de Incompatibilidad por Proximidad:** La convivencia diaria expone aspectos de la compatibilidad (hábitos cotidianos, estilos de comunicación bajo estrés frecuente, formas de gestionar el espacio compartido) que la relación a distancia, con su comunicación más controlada y sus encuentros más espaciados, no había tenido oportunidad de revelar. Esto no significa que la relación a distancia fuera falsa, sino que estaba incompleta en su información.
 
 **Ejercicio inmediato:** Si estas considerando cerrar una distancia significativa, anticipa la posibilidad de que la convivencia real revele desafios de compatibilidad que la distancia no había expuesto, y considera períodos de prueba de convivencia más cortos antes de compromisos más permanentes.
 
@@ -131,7 +131,7 @@ La distancia puede ocultar incompatibilidades reales que solo la convivencia rev
 
 La diferencia entre una relación a distancia que se sostiene saludablemente y una que se deteriora progresivamente generalmente radica en la presencia o ausencia de los elementos específicos discutidos en este libro: comunicación de calidad, plan claro, y gestión consciente de la confianza y la idealización.
 
-**El Principio de la Gestion Deliberada como Diferenciador:** Las relaciones a distancia que sobreviven y eventualmente florecen no son las que tuvieron más suerte. Son las que gestionaron deliberadamente cada uno de los elementos críticos: comunicación intencional de calidad, plan claro de reunificación, confianza construida con consistencia, y conciencia activa del riesgo de idealización.
+**El Principio de la Gestión Deliberada como Diferenciador:** Las relaciones a distancia que sobreviven y eventualmente florecen no son las que tuvieron más suerte. Son las que gestionaron deliberadamente cada uno de los elementos críticos: comunicación intencional de calidad, plan claro de reunificación, confianza construida con consistencia, y conciencia activa del riesgo de idealización.
 
 **Ejercicio inmediato:** Evalua tu relación a distancia actual contra cada uno de los elementos discutidos en este libro. ¿Cual de ellos necesita más atención deliberada en este momento?
 

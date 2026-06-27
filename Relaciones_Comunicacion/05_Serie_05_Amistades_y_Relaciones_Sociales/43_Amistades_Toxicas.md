@@ -119,7 +119,7 @@ Terminar una amistad que daña no requiere drama. Solo requiere la decisión con
 
 Las dinámicas de amistad toxica adquieren una complejidad adicional cuando ocurren con un familiar, donde la presión social y emocional para mantener el vinculó es significativamente mayor que con un amigo no familiar.
 
-**El Principio de la Distinción entre Obligación y Calidad de Vinculo:** El hecho de que una relación sea familiar no la exime de los mismos criterios de evaluación que cualquier otra relación: si el patron es consistentemente toxico, merece la misma consideración de límites o distancia que se aplicaria a una amistad no familiar, aunque la ejecución práctica de esos límites pueda requerir mayor sensibilidad debido a la permanencia estructural del vinculó familiar.
+**El Principio de la Distinción entre Obligación y Calidad de Vínculo:** El hecho de que una relación sea familiar no la exime de los mismos criterios de evaluación que cualquier otra relación: si el patron es consistentemente toxico, merece la misma consideración de límites o distancia que se aplicaria a una amistad no familiar, aunque la ejecución práctica de esos límites pueda requerir mayor sensibilidad debido a la permanencia estructural del vinculó familiar.
 
 **Ejercicio inmediato:** Si tienes una relación familiar con dinámicas toxicas similares a las descritas en este libro, aplica los mismos criterios de evaluación (efecto consistente en tu bienestar) que aplicarias a una amistad, ajustando la estrategia de gestión segun las particularidades de mantener un vinculó familiar.
 

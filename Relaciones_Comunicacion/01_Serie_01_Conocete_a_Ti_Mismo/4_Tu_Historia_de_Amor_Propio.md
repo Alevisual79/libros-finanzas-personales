@@ -147,7 +147,7 @@ Construir una relación sana contigo mismo no es un proyecto de fin de semana. E
 
 La psicologa Kristin Neff identifica tres componentes de la autocompasión como base de una relación sana consigo mismo: amabilidad contigo mismo en lugar de crítica, reconocimiento de la humanidad compartida en lugar de aislamiento, y atención plena en lugar de identificación con el sufrimiento.
 
-**Ejercicio inmediato:** Al final de cada dia esta semana, escribe una frase sobre algo que hiciste bien, aunque sea pequeño. No para engañarte. Para entrenar el musculo de mirarte con equidad, no solo con crítica. Un dia de práctica no cambia nada. Treinta dias cambian el habito.
+**Ejercicio inmediato:** Al final de cada dia esta semana, escribe una frase sobre algo que hiciste bien, aunque sea pequeño. No para engañarte. Para entrenar el músculo de mirarte con equidad, no solo con crítica. Un dia de práctica no cambia nada. Treinta dias cambian el hábito.
 
 Tratarte bien no es lo que haces cuando todo va bien. Es lo que haces especialmente cuando no va bien.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel tiene una historia relacional que preferiria no haber vivido: relaciones que la dañaron, decisiones que en retrospectiva lamenta, períodos enteros de su vida que asocia con dolor más que con crecimiento. La cuestion, descubre con el tiempo, no es borrar esa historia ni fingir que no ocurrio. Es encontrar la forma de integrarla en quien es hoy, sin que la defina completamente ni la mantenga prisionera de un pasado que ya no puede cambiar.
+Isabel tiene una historia relacional que preferiria no haber vivido: relaciones que la dañaron, decisiones que en retrospectiva lamenta, períodos enteros de su vida que asocia con dolor más que con crecimiento. La cuestión, descubre con el tiempo, no es borrar esa historia ni fingir que no ocurrio. Es encontrar la forma de integrarla en quien es hoy, sin que la defina completamente ni la mantenga prisionera de un pasado que ya no puede cambiar.
 
 ---
 
@@ -105,11 +105,11 @@ Tu historia difícil del pasado merece ser contada cuando es relevante. No tiene
 
 ## Capítulo 8: Cuando la terapia ayuda a integrar el pasado
 
-El trabajo terapeutico, especialmente con enfoques especializados en procesamiento de experiencias difíciles, puede facilitar significativamente la integración saludable de relaciones pasadas difíciles en la narrativa personal.
+El trabajo terapéutico, especialmente con enfoques especializados en procesamiento de experiencias difíciles, puede facilitar significativamente la integración saludable de relaciones pasadas difíciles en la narrativa personal.
 
-**El Principio del Apoyo Profesional para la Integración Compleja:** Cuando la integración del pasado relacional difícil resulta particularmente compleja o resistente al trabajo individual (patrones que se repiten a pesar de la comprensión intelectual, dolor que persiste con intensidad significativa después de mucho tiempo), el apoyo terapeutico profesional, incluyendo enfoques especializados en trauma cuando es relevante, frecuentemente facilita avances que el trabajo individual aislado no logra.
+**El Principio del Apoyo Profesional para la Integración Compleja:** Cuando la integración del pasado relacional difícil resulta particularmente compleja o resistente al trabajo individual (patrones que se repiten a pesar de la comprensión intelectual, dolor que persiste con intensidad significativa después de mucho tiempo), el apoyo terapéutico profesional, incluyendo enfoques especializados en trauma cuando es relevante, frecuentemente facilita avances que el trabajo individual aislado no logra.
 
-**Ejercicio inmediato:** Si llevas tiempo intentando integrar una experiencia relacional difícil del pasado sin avance significativo, considera si el apoyo terapeutico profesional podría ofrecer herramientas que el trabajo individual no ha logrado proporcionar.
+**Ejercicio inmediato:** Si llevas tiempo intentando integrar una experiencia relacional difícil del pasado sin avance significativo, considera si el apoyo terapéutico profesional podría ofrecer herramientas que el trabajo individual no ha logrado proporcionar.
 
 Algunas integraciones del pasado relacional son demasiado complejas para hacerse completamente solo. Buscar apoyo profesional no es debilidad; es reconocer la complejidad real del trabajo.
 
@@ -141,7 +141,7 @@ Tu historia relacional difícil no determina automáticamente quien eres en el f
 
 ## Epílogo
 
-Tu historia relacional no es tu condena. Es el material con el que construyes quien eres. Isabel, después de años de evitar mirar directamente su historia relacional difícil, finalmente la examino con honestidad y compasión, con apoyo terapeutico cuando lo necesito. No cambio lo que había ocurrido. Cambio su relación con esa historia, pasando de sentirse definida por ella a sentirse, por primera vez, cómo la autora consciente de lo que vendría después.
+Tu historia relacional no es tu condena. Es el material con el que construyes quien eres. Isabel, después de años de evitar mirar directamente su historia relacional difícil, finalmente la examino con honestidad y compasión, con apoyo terapéutico cuando lo necesito. No cambio lo que había ocurrido. Cambio su relación con esa historia, pasando de sentirse definida por ella a sentirse, por primera vez, cómo la autora consciente de lo que vendría después.
 
 ---
 

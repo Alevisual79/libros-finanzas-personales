@@ -15,21 +15,21 @@
 
 ## Prólogo
 
-Marcos ha estudiado a emprendedores exitosos buscando el patron común. No es la inteligencia excepcional, que tienen unos pero no todos. No es el timing perfecto, que es parcialmente suerte. No es el capital inicial, que algunos tuvieron y muchos no. El patron que aparece de forma más consistente en los que construyen empresas sólidas en el largo plazo es un conjunto de habitos diarios que parecen aburridos cuando los describes y poderosos cuando observas su efecto acumulado en meses y años. Carlos ha empezado a adoptar algunos de esos habitos y ya nota la diferencia en su nivel de energía, claridad, y progreso. Lucia ha construido las rutinas que hacen posible gestionar una empresa en crecimiento sin sacrificar todo lo demás que importa en su vida.
+Marcos ha estudiado a emprendedores exitosos buscando el patron común. No es la inteligencia excepcional, que tienen unos pero no todos. No es el timing perfecto, que es parcialmente suerte. No es el capital inicial, que algunos tuvieron y muchos no. El patron que aparece de forma más consistente en los que construyen empresas sólidas en el largo plazo es un conjunto de hábitos diarios que parecen aburridos cuando los describes y poderosos cuando observas su efecto acumulado en meses y años. Carlos ha empezado a adoptar algunos de esos hábitos y ya nota la diferencia en su nivel de energía, claridad, y progreso. Lucia ha construido las rutinas que hacen posible gestionar una empresa en crecimiento sin sacrificar todo lo demás que importa en su vida.
 
 ---
 
 ## Capítulo 1: El poder acumulativo de los habitos diarios: por qué las cosas pequeñas determinan los grandes resultados
 
-Los habitos no son los grandes momentos de decisión. Son las pequeñas acciones que se repiten hasta que los grandes momentos se deciden solos.
+Los hábitos no son los grandes momentos de decisión. Son las pequeñas acciones que se repiten hasta que los grandes momentos se deciden solos.
 
-**El Principio del Interes Compuesto de los Habitos como el Mecanismo por el que Pequeñas Mejoras Diarias Producen Grandes Diferencias en el Largo Plazo:** James Clear en Atomic Habits propone que mejorar un 1% cada dia produce, al cabo de un año, un resultado que es el 37 veces mejor que el punto de partida (1.01 elevado a 365). Esta matemática del habito no es literalmente exacta en todos los contextos pero captura la esencia: los habitos que se mantienen en el tiempo producen efectos no lineales que parecen invisibles en el corto plazo y transformadores en el largo.
+**El Principio del Interes Compuesto de los Hábitos como el Mecanismo por el que Pequeñas Mejoras Diarias Producen Grandes Diferencias en el Largo Plazo:** James Clear en Atomic Habits propone que mejorar un 1% cada dia produce, al cabo de un año, un resultado que es el 37 veces mejor que el punto de partida (1.01 elevado a 365). Esta matemática del hábito no es literalmente exacta en todos los contextos pero captura la esencia: los hábitos que se mantienen en el tiempo producen efectos no lineales que parecen invisibles en el corto plazo y transformadores en el largo.
 
-La investigación de Jeffrey Miller sobre el éxito de largo plazo en diversas profesiones muestra que los profesionales de mayor rendimiento en un plazo de veinte años no son los que empezaron con mayor talento sino los que mantuvieron habitos de práctica y mejora más consistentes a lo largo del tiempo. La consistencia supera al talento en horizontes temporales largos.
+La investigación de Jeffrey Miller sobre el éxito de largo plazo en diversas profesiones muestra que los profesionales de mayor rendimiento en un plazo de veinte años no son los que empezaron con mayor talento sino los que mantuvieron hábitos de práctica y mejora más consistentes a lo largo del tiempo. La consistencia supera al talento en horizontes temporales largos.
 
-**Ejercicio inmediato:** Identifica un habito diario de cinco minutos que, si lo mantuvieras consistentemente durante un año, produciria el mayor impacto acumulado en tu negocio. Puede ser revisar las metricas clave cada mañana, leer sobre tu sector quince minutos al dia, llamar a un cliente a la semana, o escribir tres ideas de mejora del negocio cada mañana. La especificidad del habito (que, cuando, cuanto) es lo que lo hace accionable.
+**Ejercicio inmediato:** Identifica un hábito diario de cinco minutos que, si lo mantuvieras consistentemente durante un año, produciria el mayor impacto acumulado en tu negocio. Puede ser revisar las metricas clave cada mañana, leer sobre tu sector quince minutos al dia, llamar a un cliente a la semana, o escribir tres ideas de mejora del negocio cada mañana. La especificidad del hábito (que, cuando, cuanto) es lo que lo hace accionable.
 
-El habito de cinco minutos que mantienes un año supera en impacto al sprint de cuarenta horas que mantienes una semana.
+El hábito de cinco minutos que mantienes un año supera en impacto al sprint de cuarenta horas que mantienes una semana.
 
 ---
 
@@ -49,9 +49,9 @@ La mañana que controlas antes de que nadie te llame es la que determina la cali
 
 ## Capítulo 3: El habito de la planificación semanal: la inversión de noventa minutos que lo ordena todo
 
-Lucia ha convertido la revisión semanal en el habito de mayor retorno de su semana.
+Lucia ha convertido la revisión semanal en el hábito de mayor retorno de su semana.
 
-**El Principio de la Revisión Semanal como el Habito que Convierte la Experiencia en Aprendizaje y Produce Claridad Estratégica en el Negocio de Forma Regular:** David Allen en GTD propone la revisión semanal como el habito central del sistema de productividad: revisar todas las áreas de responsabilidad, actualizar el estado de los proyectos, identificar las prioridades de la semana siguiente, y asegurar que nada importante se pierde entre las urgencias del dia a dia.
+**El Principio de la Revisión Semanal como el Hábito que Convierte la Experiencia en Aprendizaje y Produce Claridad Estratégica en el Negocio de Forma Regular:** David Allen en GTD propone la revisión semanal como el hábito central del sistema de productividad: revisar todas las áreas de responsabilidad, actualizar el estado de los proyectos, identificar las prioridades de la semana siguiente, y asegurar que nada importante se pierde entre las urgencias del dia a dia.
 
 Para el emprendedor, la revisión semanal tiene una dimensión adicional: la revisión de las metricas clave del negocio (ingresos, gastos, pipeline de ventas, principales KPIs del producto) que produce una visión de la situación real del negocio que el trabajo dia a dia frecuentemente oscurece.
 
@@ -63,13 +63,13 @@ La empresa que reviews semanalmente la gestionas. La que solo revisas en crisis 
 
 ## Capítulo 4: El habito de la conexión: nutrir las relaciones como estrategia de negocio
 
-Marcos ha desarrollado el habito de dedicar tiempo semanal a nutrir relaciones que no tienen agenda inmediata.
+Marcos ha desarrollado el hábito de dedicar tiempo semanal a nutrir relaciones que no tienen agenda inmediata.
 
-**El Principio de la Conexion Relacional como Habito Estratégico que Construye el Capital Social del Emprendedor de Forma Consistente sin Depender de las Urgencias:** La investigación de Adam Grant en Give and Take muestra que los profesionales más exitosos a largo plazo no son los que más toman sino los que dan más valor a su red, incluyendo cuando no hay una necesidad inmediata de esa red. El capital social (las relaciones de confianza y reciprocidad) se construye en los momentos en que no se necesita y se usa en los momentos en que si se necesita.
+**El Principio de la Conexión Relacional como Hábito Estratégico que Construye el Capital Social del Emprendedor de Forma Consistente sin Depender de las Urgencias:** La investigación de Adam Grant en Give and Take muestra que los profesionales más exitosos a largo plazo no son los que más toman sino los que dan más valor a su red, incluyendo cuando no hay una necesidad inmediata de esa red. El capital social (las relaciones de confianza y reciprocidad) se construye en los momentos en que no se necesita y se usa en los momentos en que si se necesita.
 
 Ivan Misner, fundador de BNI, propone que el networking de mayor calidad no es el que ocurre en eventos específicos de networking sino el que ocurre en las conversaciones regulares de mantenimiento de relaciones: el emprendedor que llama a un contacto valioso sin agenda específica más que preguntar como esta y que necesita, antes que el que solo llama cuando necesita algo.
 
-**Ejercicio inmediato:** Implementa el habito de la conexión semanal: cada semana, contacta con dos personas de tu red profesional que no hayas contactado recientemente, sin agenda específica. El proposito es mantener la relación viva, no conseguir nada inmediato. El emprendedor que mantiene ese habito durante un año tiene una red activa y calida a la que puede acudir cuando la necesite. El que no lo mantiene tiene que reconstruirla desde cero cada vez que la necesita.
+**Ejercicio inmediato:** Implementa el hábito de la conexión semanal: cada semana, contacta con dos personas de tu red profesional que no hayas contactado recientemente, sin agenda específica. El proposito es mantener la relación viva, no conseguir nada inmediato. El emprendedor que mantiene ese hábito durante un año tiene una red activa y calida a la que puede acudir cuando la necesite. El que no lo mantiene tiene que reconstruirla desde cero cada vez que la necesita.
 
 El contacto que mantienes sin necesidad inmediata es el que está disponible cuando la necesidad es urgente.
 
@@ -77,13 +77,13 @@ El contacto que mantienes sin necesidad inmediata es el que está disponible cua
 
 ## Capítulo 5: El habito del aprendizaje diario: la lectura y la reflexión como herramientas de negocio
 
-Carlos ha convertido la lectura diaria en uno de sus habitos más valorados como emprendedor.
+Carlos ha convertido la lectura diaria en uno de sus hábitos más valorados como emprendedor.
 
 **El Principio del Aprendizaje Deliberado Diario cómo la Mejor Inversión de Tiempo del Emprendedor porque Produce Rentabilidad Acumulada en Conocimiento y Perspectiva:** Warren Buffett afirma dedicar el 80% de su dia de trabajo a leer. Charlie Munger propone que convertirse en una maquina de aprendizaje es el activo más valioso que cualquier persona puede construir. Ambos son ejemplos extremos de un patron común entre los emprendedores e inversores de mayor éxito a largo plazo: dedican tiempo regular y deliberado al aprendizaje, no solo a la ejecución.
 
-La investigación de Tom Corley sobre los habitos de las personas ricas vs. las de bajos ingresos muestra que el 88% de las personas de altos ingresos leen durante al menos treinta minutos al dia con fines de mejora personal o profesional, comparado con el 2% de las de bajos ingresos. La correlación no implica causalidad pero si indica que el habito de aprendizaje diario es coherente con el éxito a largo plazo.
+La investigación de Tom Corley sobre los hábitos de las personas ricas vs. las de bajos ingresos muestra que el 88% de las personas de altos ingresos leen durante al menos treinta minutos al dia con fines de mejora personal o profesional, comparado con el 2% de las de bajos ingresos. La correlación no implica causalidad pero si indica que el hábito de aprendizaje diario es coherente con el éxito a largo plazo.
 
-**Ejercicio inmediato:** Establece un habito de lectura diaria de veinte minutos en los dos temas más relevantes para tu negocio actual (puede ser sobre tu sector, sobre marketing, sobre liderazgo, o sobre psicología del cliente). Para hacerlo habitual sin necesitar motivación: asignale el mismo momento del dia (por ejemplo, los veinte minutos de comida), usa ebooks para tener siempre el libro disponible, y mantén un cuaderno donde anotas una idea de cada sesión de lectura. La nota de una idea por sesión es el paso de la información al aprendizaje integrado.
+**Ejercicio inmediato:** Establece un hábito de lectura diaria de veinte minutos en los dos temas más relevantes para tu negocio actual (puede ser sobre tu sector, sobre marketing, sobre liderazgo, o sobre psicología del cliente). Para hacerlo habitual sin necesitar motivación: asignale el mismo momento del dia (por ejemplo, los veinte minutos de comida), usa ebooks para tener siempre el libro disponible, y mantén un cuaderno donde anotas una idea de cada sesión de lectura. La nota de una idea por sesión es el paso de la información al aprendizaje integrado.
 
 El emprendedor que lee treinta minutos al dia durante cinco años ha leído el equivalente a varios PhDs en los temas que más importan para su negocio. Sin dejar de gestionar el negocio.
 
@@ -97,7 +97,7 @@ Lucia ha aprendido que sin reflexión deliberada, la experiencia acumulada no se
 
 Séneca escribió en el siglo I que es necesario examinar los dias pasados para no repetir los errores y aprovechar mejor los aciertos. La práctica estoica del examen del dia (reflexionar sobre lo que se ha hecho bien, lo que se ha hecho mal, y lo que se podría mejorar) es una versión antigua de lo que la psicología moderna llama reflective practice.
 
-**Ejercicio inmediato:** Adopta un habito de reflexión diaria de cinco a diez minutos al final del dia laboral: ¿escribe las respuestas a tres preguntas. ¿Que ha ido bien hoy y por qué? ¿Que no ha ido como esperaba y que puedo aprender de ello? ¿Que es la cosa más importante que hare diferente mañana? Esas tres preguntas en cinco minutos producen más aprendizaje por dia que cualquier otra inversión similar de tiempo.
+**Ejercicio inmediato:** Adopta un hábito de reflexión diaria de cinco a diez minutos al final del dia laboral: ¿escribe las respuestas a tres preguntas. ¿Que ha ido bien hoy y por qué? ¿Que no ha ido como esperaba y que puedo aprender de ello? ¿Que es la cosa más importante que hare diferente mañana? Esas tres preguntas en cinco minutos producen más aprendizaje por dia que cualquier otra inversión similar de tiempo.
 
 Cinco minutos de reflexión al final de cada dia valen más que cien dias de experiencia sin reflexión.
 
@@ -107,11 +107,11 @@ Cinco minutos de reflexión al final de cada dia valen más que cien dias de exp
 
 Marcos ha descubierto que el tiempo que dedica al ejercicio físico no le quita tiempo a la productividad sino que se lo da.
 
-**El Principio del Ejercicio Físico Regular como Herramienta de Productividad Cognitiva con Efectos Documentados en la Calidad del Pensamiento, la Regulación Emocional, y la Resiliencia al Estres:** La investigación de John Ratey, en Spark: The Revolutionary New Science of Exercise and the Brain, muestra que el ejercicio aerobico regular (treinta minutos cinco veces por semana, a intensidad moderada) aumenta la producción de BDNF (factor neutrofico derivado del cerebro), lo que mejora la neuroplasticidad, la memoria, la concentración, y la capacidad de aprendizaje.
+**El Principio del Ejercicio Físico Regular como Herramienta de Productividad Cognitiva con Efectos Documentados en la Calidad del Pensamiento, la Regulación Emocional, y la Resiliencia al Estrés:** La investigación de John Ratey, en Spark: The Revolutionary New Science of Exercise and the Brain, muestra que el ejercicio aerobico regular (treinta minutos cinco veces por semana, a intensidad moderada) aumenta la producción de BDNF (factor neutrofico derivado del cerebro), lo que mejora la neuroplasticidad, la memoria, la concentración, y la capacidad de aprendizaje.
 
 La investigación de las empresas de mayor rendimiento (Google, Apple, Salesforce) muestra que invierten significativamente en las instalaciones y el tiempo para el ejercicio de sus empleados, no como beneficio social sino como inversión en productividad: el empleado que hace ejercicio regular rinde más cognitivamente, tiene menos bajas por enfermedad, y produce decisiones de mayor calidad.
 
-**Ejercicio inmediato:** Si no tienes un habito de ejercicio regular, empieza esta semana con la versión mínima viable: veinte minutos de caminata rápida tres dias a la semana, a la misma hora cada dia. El objetivo no es estar en forma (aunque es un beneficio): es usar el ejercicio como herramienta de productividad cognitiva y de regulación emocional. Compara tu estado mental y la calidad de tus ideas en los dias que haces ejercicio vs. los que no durante un mes.
+**Ejercicio inmediato:** Si no tienes un hábito de ejercicio regular, empieza esta semana con la versión mínima viable: veinte minutos de caminata rápida tres dias a la semana, a la misma hora cada dia. El objetivo no es estar en forma (aunque es un beneficio): es usar el ejercicio como herramienta de productividad cognitiva y de regulación emocional. Compara tu estado mental y la calidad de tus ideas en los dias que haces ejercicio vs. los que no durante un mes.
 
 El emprendedor que hace ejercicio no es el que tiene más tiempo libre. Es el que sabe que el ejercicio le da más tiempo de calidad que el que le quita.
 
@@ -133,13 +133,13 @@ El emprendedor que nunca desconecta nunca se recupera completamente. Y el que nu
 
 ## Capítulo 9: Los habitos de la comunicación: la disciplina que hace posible las relaciones de equipo
 
-Lucia ha aprendido que sus habitos de comunicación con su equipo determinan en gran medida la cultura de la empresa.
+Lucia ha aprendido que sus hábitos de comunicación con su equipo determinan en gran medida la cultura de la empresa.
 
-**El Principio de los Habitos de Comunicación del Lider como Molde de la Cultura Organizacional porque el Equipo Aprende a Comunicar Observando Como Comunica el Fundador:** La investigación de Kim Scott en Radical Candor muestra que los mejores líderes tienen un habito de feedback que combina el cuidado genuino por la persona con el desafio directo al rendimiento: no el feedback amable que evita los problemas ni el feedback brutal que destruye la moral, sino el honesto y amable que ayuda a la persona a mejorar.
+**El Principio de los Hábitos de Comunicación del Lider como Molde de la Cultura Organizacional porque el Equipo Aprende a Comunicar Observando Como Comunica el Fundador:** La investigación de Kim Scott en Radical Candor muestra que los mejores líderes tienen un hábito de feedback que combina el cuidado genuino por la persona con el desafio directo al rendimiento: no el feedback amable que evita los problemas ni el feedback brutal que destruye la moral, sino el honesto y amable que ayuda a la persona a mejorar.
 
-Los habitos de comunicación del líder que más impactan la cultura incluyen: el habito de dar feedback específico y rápido después de las situaciones que lo merecen (en lugar de guardar los comentarios para las evaluaciones anuales), el habito de compartir información del negocio con el equipo (en lugar de guardarsela para si mismo), y el habito de hacer preguntas antes de dar respuestas (que produce un equipo que piensa en lugar de que espera instrucciones).
+Los hábitos de comunicación del líder que más impactan la cultura incluyen: el hábito de dar feedback específico y rápido después de las situaciones que lo merecen (en lugar de guardar los comentarios para las evaluaciones anuales), el hábito de compartir información del negocio con el equipo (en lugar de guardarsela para si mismo), y el hábito de hacer preguntas antes de dar respuestas (que produce un equipo que piensa en lugar de que espera instrucciones).
 
-**Ejercicio inmediato:** Adopta el habito del one-on-one semanal con cada miembro clave de tu equipo: treinta minutos por persona, con la agenda principalmente definida por ellos. Las preguntas base: ¿como estas? ¿Que te está bloqueando? ¿Que podría yo hacer diferente para ayudarte mejor? Ese habito de treinta minutos por semana produce más información sobre el estado real del equipo que cualquier otro mecanismo de gestión.
+**Ejercicio inmediato:** Adopta el hábito del one-on-one semanal con cada miembro clave de tu equipo: treinta minutos por persona, con la agenda principalmente definida por ellos. Las preguntas base: ¿como estas? ¿Que te está bloqueando? ¿Que podría yo hacer diferente para ayudarte mejor? Ese hábito de treinta minutos por semana produce más información sobre el estado real del equipo que cualquier otro mecanismo de gestión.
 
 El líder que habla con cada miembro de su equipo treinta minutos por semana sabe lo que pasa en su empresa. El que no lo hace se entera cuando ya es un problema.
 
@@ -147,21 +147,21 @@ El líder que habla con cada miembro de su equipo treinta minutos por semana sab
 
 ## Capítulo 10: Integrar los habitos: el sistema de rutinas que construye el emprendedor que quieres ser
 
-Marcos ha llegado al final de esta serie con claridad sobre el sistema de habitos que quiere construir como emprendedor.
+Marcos ha llegado al final de esta serie con claridad sobre el sistema de hábitos que quiere construir como emprendedor.
 
-**El Principio del Sistema de Habitos como el Resultado de Largo Plazo de las Decisiones de Corto Plazo sobre Como Usar el Tiempo de Forma Regular y Deliberada:** BJ Fogg, en Tiny Habits, propone que el cambio de habitos más efectivo no viene de la motivación sino del diseño: hacer el habito deseado tan pequeño y tan facil de iniciar que el cerebro no lo perciba cómo una amenaza, y vincularlo a un comportamiento que ya ocurre (el anclaje del habito).
+**El Principio del Sistema de Hábitos como el Resultado de Largo Plazo de las Decisiones de Corto Plazo sobre Como Usar el Tiempo de Forma Regular y Deliberada:** BJ Fogg, en Tiny Habits, propone que el cambio de hábitos más efectivo no viene de la motivación sino del diseño: hacer el hábito deseado tan pequeño y tan facil de iniciar que el cerebro no lo perciba cómo una amenaza, y vincularlo a un comportamiento que ya ocurre (el anclaje del hábito).
 
-James Clear propone que la identidad es el nivel más profundo del cambio de habitos: no hago ejercicio para perder peso (objetivo) sino porque soy alguien que cuida su cuerpo (identidad). Cada habito que adoptas es un voto a favor de la identidad del emprendedor que quieres ser.
+James Clear propone que la identidad es el nivel más profundo del cambio de hábitos: no hago ejercicio para perder peso (objetivo) sino porque soy alguien que cuida su cuerpo (identidad). Cada hábito que adoptas es un voto a favor de la identidad del emprendedor que quieres ser.
 
-**Ejercicio inmediato:** Diseña tu sistema de habitos emprendedor para los próximos noventa dias en cuatro categorías: habitos de rendimiento (los que más directamente impactan los resultados del negocio), habitos de aprendizaje (los que más rápidamente aumentan tu conocimiento y habilidad), habitos de recuperación (los que te permiten seguir en el largo plazo sin quemarte), y habitos de relación (los que construyen el capital social que el emprendimiento requiere). Para cada uno, define la versión mínima viable que puedes mantener incluso en la semana más ocupada.
+**Ejercicio inmediato:** Diseña tu sistema de hábitos emprendedor para los próximos noventa dias en cuatro categorías: hábitos de rendimiento (los que más directamente impactan los resultados del negocio), hábitos de aprendizaje (los que más rápidamente aumentan tu conocimiento y habilidad), hábitos de recuperación (los que te permiten seguir en el largo plazo sin quemarte), y hábitos de relación (los que construyen el capital social que el emprendimiento requiere). Para cada uno, define la versión mínima viable que puedes mantener incluso en la semana más ocupada.
 
-El sistema de habitos que funciona en la peor semana es el unico que realmente se convierte en habito.
+El sistema de hábitos que funciona en la peor semana es el unico que realmente se convierte en hábito.
 
 ---
 
 ## Epílogo
 
-Carlos no cambio todos sus habitos a la vez. Empezo con uno: la revisión de metricas de veinte minutos cada mañana. A los dos meses, anado el bloque de trabajo profundo de noventa minutos antes de revisar el email. A los cuatro meses, la revisión semanal de noventa minutos. A los seis meses, la lectura diaria de veinte minutos. Cada habito que añadia parecia pequeño e insignificante en el momento. Lo que no había anticipado era el efecto compuesto: seis meses después de empezar el primero, su ritmo de trabajo, su claridad de decisión, y su progreso en el negocio eran notablemente diferentes de los que había tenido antes. No porque hubiera trabajado más horas. Sino porque las horas que trabajaba tenían una calidad diferente. Y esa calidad había venido de los habitos.
+Carlos no cambio todos sus hábitos a la vez. Empezo con uno: la revisión de metricas de veinte minutos cada mañana. A los dos meses, anado el bloque de trabajo profundo de noventa minutos antes de revisar el email. A los cuatro meses, la revisión semanal de noventa minutos. A los seis meses, la lectura diaria de veinte minutos. Cada hábito que añadia parecia pequeño e insignificante en el momento. Lo que no había anticipado era el efecto compuesto: seis meses después de empezar el primero, su ritmo de trabajo, su claridad de decisión, y su progreso en el negocio eran notablemente diferentes de los que había tenido antes. No porque hubiera trabajado más horas. Sino porque las horas que trabajaba tenían una calidad diferente. Y esa calidad había venido de los hábitos.
 
 ---
 

@@ -107,7 +107,7 @@ La presión externa para mantener una relación toxica frecuentemente viene de p
 
 Cuando existe dependencia económica significativa de la persona de la cual se busca alejarse, la planificación práctica de seguridad financiera se convierte en un componente esencial del proceso de salida, no un detalle secundario.
 
-**El Principio de la Seguridad económica como Prerequisito práctico:** La dependencia económica puede generar una sensación de imposibilidad práctica de salir, independientemente de la claridad emocional sobre la necesidad de hacerlo. Planificar recursos económicos alternativos (ahorros propios, apoyo familiar, recursos de asistencia disponibles, busqueda de empleo) antes o durante el proceso de salida reduce significativamente esta barrera práctica.
+**El Principio de la Seguridad económica como Prerequisito práctico:** La dependencia económica puede generar una sensación de imposibilidad práctica de salir, independientemente de la claridad emocional sobre la necesidad de hacerlo. Planificar recursos económicos alternativos (ahorros propios, apoyo familiar, recursos de asistencia disponibles, búsqueda de empleo) antes o durante el proceso de salida reduce significativamente esta barrera práctica.
 
 **Ejercicio inmediato:** Si la dependencia económica es una barrera para tu salida de una relación toxica, identifica un primer paso concreto hacía mayor independencia económica que podrías dar esta semana, aunque sea pequeño.
 

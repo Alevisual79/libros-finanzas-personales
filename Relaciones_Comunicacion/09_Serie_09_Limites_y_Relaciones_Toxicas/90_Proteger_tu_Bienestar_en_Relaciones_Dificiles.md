@@ -23,7 +23,7 @@ Elena trabaja en un entorno laboral toxico, tiene una relación familiar complic
 
 Distinguir entre las situaciones donde es posible y deseable cambiar o salir completamente de un entorno difícil, y aquellas donde, temporalmente, se requiere desarrollar estrategias de protección mientras se permanece en el, es una distinción práctica importante.
 
-**El Principio de la Estrategia Adaptada a la Realidad de la Situación:** No todas las situaciones relacionales difíciles permiten una salida inmediata: limitaciones económicas, vinculos familiares permanentes, o circunstancias prácticas pueden requerir permanencia temporal en un entorno difícil. En estos casos, la estrategia apropiada no es solo planificar la salida eventual, sino también desarrollar herramientas concretas de protección del bienestar mientras esa salida se hace posible.
+**El Principio de la Estrategia Adaptada a la Realidad de la Situación:** No todas las situaciones relacionales difíciles permiten una salida inmediata: limitaciones económicas, vínculos familiares permanentes, o circunstancias prácticas pueden requerir permanencia temporal en un entorno difícil. En estos casos, la estrategia apropiada no es solo planificar la salida eventual, sino también desarrollar herramientas concretas de protección del bienestar mientras esa salida se hace posible.
 
 **Ejercicio inmediato:** Para una situación relacional difícil actual, evalua honestamente: ¿es una situación de la que puedes salir relativamente pronto, o requiere estrategias de protección mientras permaneces en ella por un período más largo?
 

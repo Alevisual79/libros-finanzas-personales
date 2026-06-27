@@ -1,7 +1,7 @@
 # Hermanos: El Vinculo Más Largo
 ## Cómo gestionar la relación con hermanos a lo largo de la vida
 
-**Serie 04: Familia y Vinculos — Libro 3 de 10**
+**Serie 04: Familia y Vínculos — Libro 3 de 10**
 
 ---
 
@@ -147,7 +147,7 @@ Ruben, después de tres años de silencio, envió un mensaje breve a uno de sus 
 
 ---
 
-*Libro 33 de la colección, Libro 3 de 10 de Serie 04: Familia y Vinculos.*
+*Libro 33 de la colección, Libro 3 de 10 de Serie 04: Familia y Vínculos.*
 
 ---
 

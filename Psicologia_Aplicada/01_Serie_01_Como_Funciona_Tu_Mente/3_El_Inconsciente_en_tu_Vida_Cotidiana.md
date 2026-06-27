@@ -51,7 +51,7 @@ Si el problema siempre eres los demás, probablemente el problema eres tu y un e
 
 Elena tiene treinta y cuatro años y una respuesta de ansiedad que se activa de forma aparentemente arbitraria en ciertas reuniones de trabajo. No hay nada objetivamente amenazante en la situación. Pero algo en su cuerpo responde como si lo hubiera. Su terapeuta le pregunta si recuerda experiencias similares de amenaza o humillación en contextos de evaluación o autoridad. No lo recuerda directamente. Pero su cuerpo lo recuerda perfectamente.
 
-**El Principio de la Memoria que no Necesita Ser Recordada:** Bessel van der Kolk, psiquiatra especializado en trauma de la Universidad de Boston, documenta en El Cuerpo Lleva la Cuenta que la memoria traumatica y emocional se almacena frecuentemente en sistemas de memoria implícita, que no requieren recuerdo consciente deliberado para influir en el comportamiento y las respuestas emocionales. Estos sistemas incluyen la memoria procedural (como montar en bici), la memoria emocional condicionada, y las respuestas somaticas que el cuerpo ha aprendido a asociar con ciertos estímulos sin que la mente consciente registre la conexión.
+**El Principio de la Memoria que no Necesita Ser Recordada:** Bessel van der Kolk, psiquiatra especializado en trauma de la Universidad de Boston, documenta en El Cuerpo Lleva la Cuenta que la memoria traumática y emocional se almacena frecuentemente en sistemas de memoria implícita, que no requieren recuerdo consciente deliberado para influir en el comportamiento y las respuestas emocionales. Estos sistemas incluyen la memoria procedural (como montar en bici), la memoria emocional condicionada, y las respuestas somaticas que el cuerpo ha aprendido a asociar con ciertos estímulos sin que la mente consciente registre la conexión.
 
 El resultado es que experiencias pasadas que la persona no recuerda conscientemente, o que recuerda sin carga emocional aparente, pueden estar generando respuestas emocionales, físicas y conductuales en el presente. El cuerpo ha aprendido que ciertos estímulos predicen peligro o dolor, y responde preventivamente sin consultar con la mente consciente que hace esa evaluación.
 
@@ -105,15 +105,15 @@ Lo que más te irrita en los demás frecuentemente es lo que menos puedes ver en
 
 ## Capítulo 7: Habitos automáticos: el piloto que vuela más del ochenta por ciento del tiempo
 
-Ruben se despierta, prepara cafe de la misma manera, toma la misma ruta al trabajo, pide el mismo desayuno. No son decisiones. Son habitos que su cerebro ejecuta automáticamente para conservar energía cognitiva para las decisiones que requieren deliberación genuina. El problema es que muchos de los habitos que ejecuta de forma automática son habitos que en su momento le convino desarrollar, pero que ya no le sirven.
+Ruben se despierta, prepara cafe de la misma manera, toma la misma ruta al trabajo, pide el mismo desayuno. No son decisiones. Son hábitos que su cerebro ejecuta automáticamente para conservar energía cognitiva para las decisiones que requieren deliberación genuina. El problema es que muchos de los hábitos que ejecuta de forma automática son hábitos que en su momento le convino desarrollar, pero que ya no le sirven.
 
-**El Principio del Bucle del Habito:** Charles Duhigg, periodista y autor de El Poder de los Habitos, popularizó la investigación neurocientifica sobre la estructura de los habitos: un ciclo de tres elementos compuesto por una señal que desencadena el habito, una rutina automática que el habito produce, y una recompensa que refuerza el ciclo. Ann Graybiel, neurocientifica del MIT, demostró que a medida que un comportamiento se convierte en habito, el control sobre ese comportamiento se transfiere gradualmente de los circuitos de decisión consciente en la corteza prefrontal a los ganglios basales, una estructura más antigua y automática.
+**El Principio del Bucle del Hábito:** Charles Duhigg, periodista y autor de El Poder de los Hábitos, popularizó la investigación neurocientífica sobre la estructura de los hábitos: un ciclo de tres elementos compuesto por una señal que desencadena el hábito, una rutina automática que el hábito produce, y una recompensa que refuerza el ciclo. Ann Graybiel, neurocientífica del MIT, demostró que a medida que un comportamiento se convierte en hábito, el control sobre ese comportamiento se transfiere gradualmente de los circuitos de decisión consciente en la corteza prefrontal a los ganglios basales, una estructura más antigua y automática.
 
-Esto significa que los habitos establecidos son literalmente diferentes a nivel neurológico de las acciones deliberadas: operan de forma más eficiente, requieren menos energía cognitiva, y son mucho más resistentes a la interrupción voluntaria que simplemente decidir hacerlo de otra manera. Cambiar un habito requiere comprender su ciclo específico, no solo querer cambiarlo.
+Esto significa que los hábitos establecidos son literalmente diferentes a nivel neurológico de las acciones deliberadas: operan de forma más eficiente, requieren menos energía cognitiva, y son mucho más resistentes a la interrupción voluntaria que simplemente decidir hacerlo de otra manera. Cambiar un hábito requiere comprender su ciclo específico, no solo querer cambiarlo.
 
-**Ejercicio inmediato:** Identifica un habito que quieres cambiar. En lugar de intentar suprimirlo con fuerza de voluntad, identifica la señal específica que lo desencadena y la recompensa específica que proporciona. Luego diseña una rutina alternativa que responda a la misma señal y proporcione la misma recompensa. Reemplazar es siempre más efectivo que suprimir.
+**Ejercicio inmediato:** Identifica un hábito que quieres cambiar. En lugar de intentar suprimirlo con fuerza de voluntad, identifica la señal específica que lo desencadena y la recompensa específica que proporciona. Luego diseña una rutina alternativa que responda a la misma señal y proporcione la misma recompensa. Reemplazar es siempre más efectivo que suprimir.
 
-No puedes simplemente dejar de tener un habito. Solo puedes reemplazarlo por otro que tenga la misma señal y proporcione la misma recompensa.
+No puedes simplemente dejar de tener un hábito. Solo puedes reemplazarlo por otro que tenga la misma señal y proporcione la misma recompensa.
 
 ---
 
@@ -149,7 +149,7 @@ Isabel, después del coaching, no ha resuelto todos sus patrones inconscientes. 
 
 La paradoja fundamental es que cuanto más se conoce lo inconsciente, más se descubre que hay. No porque el inconsciente sea infinito, sino porque el conocimiento propio aumenta la sensibilidad para detectar nuevas capas. Llegar a ser genuinamente el autor de tu propia vida requiere precisamente este trabajo: ver lo que te dirige antes de que hayas decidido que te dirija.
 
-**Ejercicio inmediato:** Identifica una decisión importante que tomaste en el último año y que ahora, con perspectiva, reconoces que estuvo más influenciada por factores inconscientes (miedo, esquema, habito, proyección) de lo que creías en el momento. ¿Que habrías necesitado saber sobre ti mismo para haber tomado una decisión más genuinamente libre?
+**Ejercicio inmediato:** Identifica una decisión importante que tomaste en el último año y que ahora, con perspectiva, reconoces que estuvo más influenciada por factores inconscientes (miedo, esquema, hábito, proyección) de lo que creías en el momento. ¿Que habrías necesitado saber sobre ti mismo para haber tomado una decisión más genuinamente libre?
 
 Conocerte no es un proyecto de fin de semana. Es el trabajo de una vida. Y empieza siempre con la misma pregunta: ¿que no estoy viendo?
 

@@ -35,7 +35,7 @@ Las relaciones laborales no son el adorno de tu trabajo. Son, segun toda la evid
 
 No todas las relaciones laborales son del mismo tipo, y entender las distinciones entre colega, aliado y amigo ayuda a gestionar expectativas apropiadas para cada tipo de vinculó.
 
-**El Principio de los Niveles de Vinculo Profesional:** Un colega es alguien con quien se comparte espacio y objetivos de trabajo sin necesariamente una conexión personal significativa. Un aliado es alguien que apoya activamente el éxito profesional del otro, con cierta reciprocidad de apoyo más allá de lo estrictamente requerido. Un amigo en el trabajo incluye, ademas de estos elementos, una conexión personal genuina que trasciende el contexto laboral. Confundir estos niveles (esperar lealtad de amigo de alguien que es solo colega) genera decepciones evitables.
+**El Principio de los Niveles de Vínculo Profesional:** Un colega es alguien con quien se comparte espacio y objetivos de trabajo sin necesariamente una conexión personal significativa. Un aliado es alguien que apoya activamente el éxito profesional del otro, con cierta reciprocidad de apoyo más allá de lo estrictamente requerido. Un amigo en el trabajo incluye, ademas de estos elementos, una conexión personal genuina que trasciende el contexto laboral. Confundir estos niveles (esperar lealtad de amigo de alguien que es solo colega) genera decepciones evitables.
 
 **Ejercicio inmediato:** Clasifica a las personas más relevantes de tu entorno laboral segun estos tres niveles. Tus expectativas hacía cada una, estan calibradas segun el nivel real de la relación, o esperas de un colega lo que solo un amigo podría dar?
 
@@ -119,7 +119,7 @@ Las complicaciones relacionales en el trabajo que se evitan no desaparecen. Se a
 
 La política organizacional, entendida como las dinámicas de poder, influencia y alianzas dentro de una empresa, es una realidad ineludible que se puede navegar con ética e inteligencia, en lugar de evitarse completamente o jugarse de forma destructiva.
 
-**El Principio de la Politica Saludable vs Destructiva:** La política organizacional saludable implica construir relaciones genuinas, comunicar con transparencia, y buscar influencia a traves de la contribución real de valor. La política destructiva implica manipulación, desinformación estratégica, y busqueda de poder a expensas de otros. Navegar bien la política de oficina no significa evitarla completamente (lo cual es generalmente imposible e ingenuo), sino practicar su versión saludable de forma consistente.
+**El Principio de la Politica Saludable vs Destructiva:** La política organizacional saludable implica construir relaciones genuinas, comunicar con transparencia, y buscar influencia a traves de la contribución real de valor. La política destructiva implica manipulación, desinformación estratégica, y búsqueda de poder a expensas de otros. Navegar bien la política de oficina no significa evitarla completamente (lo cual es generalmente imposible e ingenuo), sino practicar su versión saludable de forma consistente.
 
 **Ejercicio inmediato:** Reflexiona sobre tu propia forma de navegar la dinámica de poder e influencia en tu organización. Te alineas más con la versión saludable (relaciones genuinas, transparencia) o has caido en patrones de la versión destructiva?
 

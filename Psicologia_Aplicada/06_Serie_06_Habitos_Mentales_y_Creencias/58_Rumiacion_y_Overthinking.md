@@ -1,7 +1,7 @@
 # Rumiación y Overthinking
 ## Como apagar la mente cuando no para de dar vueltas
 
-**Serie 06: Habitos Mentales y Creencias — Libro 8 de 10**
+**Serie 06: Hábitos Mentales y Creencias — Libro 8 de 10**
 
 ---
 
@@ -41,7 +41,7 @@ Elena sabe que la rumia le hace daño pero no puede parar. Entender las funcione
 
 La paradoja de la rumia es que produce exactamente lo opuesto de lo que intenta: en lugar de resolver el problema, lo mantiene activo; en lugar de prevenir futuros errores, produce el estado emocional que deteriora el juicio; en lugar de procesar las emociones, las amplifica y las prolonga.
 
-**Ejercicio inmediato:** Para tu habito de rumia, identifica la función que parece cumplir subjetivamente: ¿que te parece que estas haciendo cuando rumias? ¿Esa función percibida es real (la rumia produce lo que crees que produce)? La investigación sugiere que probablemente no. Identificar la brecha entre la función percibida y la función real es el primer paso para buscar alternativas que si cumplan la función.
+**Ejercicio inmediato:** Para tu hábito de rumia, identifica la función que parece cumplir subjetivamente: ¿que te parece que estas haciendo cuando rumias? ¿Esa función percibida es real (la rumia produce lo que crees que produce)? La investigación sugiere que probablemente no. Identificar la brecha entre la función percibida y la función real es el primer paso para buscar alternativas que si cumplan la función.
 
 La rumia que parece que te hace controlar el problema te hace exactamente lo contrario: el problema te controla a ti.
 
@@ -51,7 +51,7 @@ La rumia que parece que te hace controlar el problema te hace exactamente lo con
 
 Ruben ha empezado a notar los patrones: la rumia se activa en momentos específicos y en contextos específicos.
 
-**El Principio de los Detonadores como Oportunidad de Intervención Temprana:** La investigación sobre los habitos (Duhigg, Clear) y sobre la rumia específicamente muestra que la rumia tiene detonadores identificables: estados emocionales específicos (ansiedad, frustración, tristeza), contextos físicos (el coche, la cama, la ducha), momentos del dia (la noche es especialmente propensa a la rumia), y tipos de eventos (comparación social, fracasos específicos, conflictos relacionales).
+**El Principio de los Detonadores como Oportunidad de Intervención Temprana:** La investigación sobre los hábitos (Duhigg, Clear) y sobre la rumia específicamente muestra que la rumia tiene detonadores identificables: estados emocionales específicos (ansiedad, frustración, tristeza), contextos físicos (el coche, la cama, la ducha), momentos del dia (la noche es especialmente propensa a la rumia), y tipos de eventos (comparación social, fracasos específicos, conflictos relacionales).
 
 Conocer los detonadores de la rumia propia permite dos cosas: anticiparla (saber que después de X suelo empezar a rumiar) y preparar una estrategia de intervención antes de que el ciclo se establezca. La intervención es mucho más facil en los primeros treinta segundos que cuando el ciclo lleva veinte minutos.
 
@@ -97,7 +97,7 @@ Elena ha empezado a practicar mindfulness y nota que cambia algo en su relación
 
 La distinción es crucial para la rumia: la persona que se funde con sus pensamientos rumiantes es arrastrada por ellos; la que puede observarlos como pensamientos que pasan puede dejarlos pasar sin seguirlos. La práctica de MBCT ha demostrado ser tan efectiva cómo la farmacoterapia para prevenir recaidas en depresión, y su mecanismo central es exactamente este cambio en la relación con los pensamientos.
 
-**Ejercicio inmediato:** La próxima vez que notes la rumia comenzando, práctica la defusión: en lugar de seguir el hilo del pensamiento, observalo como si fuera una nube que pasa por el cielo. Nota que el pensamiento esta ahí sin engancharte en su contenido. No tienes que resolverlo ni hacerlo desaparecer: solo observarlo pasar. Ese ejercicio, aunque parece simple, entrena el musculo de la defusión.
+**Ejercicio inmediato:** La próxima vez que notes la rumia comenzando, práctica la defusión: en lugar de seguir el hilo del pensamiento, observalo como si fuera una nube que pasa por el cielo. Nota que el pensamiento esta ahí sin engancharte en su contenido. No tienes que resolverlo ni hacerlo desaparecer: solo observarlo pasar. Ese ejercicio, aunque parece simple, entrena el músculo de la defusión.
 
 Los pensamientos que observas sin seguirlos pierden su poder para arrastrarte. La rumia necesita que la sigas para funcionar.
 
@@ -109,7 +109,7 @@ Ruben ha aprendido a interrumpir la rumia pero se pregunta que debe hacer en su 
 
 **El Principio del Pensamiento Resolutivo como Alternativa Deliberada a la Rumia:** La alternativa sana a la rumia no es dejar de pensar en los problemas sino pensar en ellos de forma diferente: de forma orientada al problema, orientada a la solución, y con un tiempo designado. La investigación de Nolen-Hoeksema muestra que la reflexión (pensamiento deliberado sobre las propias experiencias con apertura a nuevas perspectivas) produce outcomes muy distintos de la rumia.
 
-El protocolo del pensamiento resolutivo incluye: ¿un tiempo limitado y designado para el pensamiento (no rumia a demanda sino reflexión estructurada), una pregunta orientadora específica (que puedo hacer al respecto? que aprendo de esto?), la busqueda de nuevas perspectivas (que veria alguien externo? que diria dentro de un año?), y el cierre con un plan de acción o con una decisión de aceptación.
+El protocolo del pensamiento resolutivo incluye: ¿un tiempo limitado y designado para el pensamiento (no rumia a demanda sino reflexión estructurada), una pregunta orientadora específica (que puedo hacer al respecto? que aprendo de esto?), la búsqueda de nuevas perspectivas (que veria alguien externo? que diria dentro de un año?), y el cierre con un plan de acción o con una decisión de aceptación.
 
 **Ejercicio inmediato:** Para tu preocupación principal en este momento, práctica el pensamiento resolutivo con tiempo limitado: ¿pon un temporizador de diez minutos, define la pregunta orientadora (que puedo hacer al respecto?), escribe todo lo que se te ocurra sobre esa pregunta, y al final del tiempo decide si hay un paso de acción o si vas a practicar la aceptación de lo que no puedes cambiar. Después del tiempo, deja el tema.
 
@@ -151,11 +151,11 @@ Elena ha llegado a un punto donde quiere no solo interrumpir los episodios de ru
 
 **El Principio de la Quietud Mental como Resultado de prácticas Sostenidas:** La investigación de Richard Davidson y colegas sobre los efectos a largo plazo de la práctica de meditación muestra que los meditadores experimentados tienen menor actividad de la red de modo por defecto en reposo y mayor actividad en regiones de autorregulación emocional que las personas sin práctica de meditación. Esto sugiere que la práctica sostenida de mindfulness puede reducir estructuralmente la tendencia a la rumia espontanea.
 
-Los habitos que la investigación asocia con menor tendencia a la rumia incluyen: la práctica regular de mindfulness, el ejercicio físico regular (que reduce la rumiación de forma robusta), el sueño de calidad suficiente, la conexión social regular, y la práctica de actividades que producen flow (que ocupan la atención completamente durante períodos regulares).
+Los hábitos que la investigación asocia con menor tendencia a la rumia incluyen: la práctica regular de mindfulness, el ejercicio físico regular (que reduce la rumiación de forma robusta), el sueño de calidad suficiente, la conexión social regular, y la práctica de actividades que producen flow (que ocupan la atención completamente durante períodos regulares).
 
-**Ejercicio inmediato:** Diseña un plan de habitos que apunta a construir una mente más quieta a largo plazo. Elige uno de los habitos mencionados, la versión más pequeña que puedas implementar de forma sostenida, y comprométete con el durante un mes antes de añadir otro. Los habitos que construyen la quietud mental se construyen lentamente pero sus efectos son estructurales.
+**Ejercicio inmediato:** Diseña un plan de hábitos que apunta a construir una mente más quieta a largo plazo. Elige uno de los hábitos mencionados, la versión más pequeña que puedas implementar de forma sostenida, y comprométete con el durante un mes antes de añadir otro. Los hábitos que construyen la quietud mental se construyen lentamente pero sus efectos son estructurales.
 
-La mente que no para de dar vueltas no se calma de una vez. Se calma poco a poco, habito a habito, práctica a práctica. Y cada vez que la aquietas un poco, hay algo ahí debajo que merece la pena encontrar.
+La mente que no para de dar vueltas no se calma de una vez. Se calma poco a poco, hábito a hábito, práctica a práctica. Y cada vez que la aquietas un poco, hay algo ahí debajo que merece la pena encontrar.
 
 ---
 
@@ -165,7 +165,7 @@ Ruben tuvo la rumiación habitual después de la reunión difícil. Pero esta ve
 
 ---
 
-*Libro 58 de la colección psicología Aplicada, Libro 8 de 10 de Serie 06: Habitos Mentales y Creencias.*
+*Libro 58 de la colección psicología Aplicada, Libro 8 de 10 de Serie 06: Hábitos Mentales y Creencias.*
 
 ---
 

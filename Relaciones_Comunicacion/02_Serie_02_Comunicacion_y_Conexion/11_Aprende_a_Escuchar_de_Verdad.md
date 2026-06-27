@@ -1,7 +1,7 @@
 # Aprende a Escuchar de Verdad
 ## La habilidad que transforma todas tus relaciones
 
-**Serie 02: Comunicación y Conexion — Libro 1 de 10**
+**Serie 02: Comunicación y Conexión — Libro 1 de 10**
 
 ---
 
@@ -45,7 +45,7 @@ La escucha activa tiene mala reputación. En cursos de comunicación se ensenaan
 
 **El Principio de la Presencia como Base:** La escucha activa real no empieza con técnicas. Empieza con una decisión: decidir que en este momento, lo más importante que puedo hacer es entender lo que está diciendo esta persona. Esa decisión cambia el estado interno del oyente, y ese cambio interno, aunque no se exprese verbalmente, es percibido por quien habla. La presencia se siente aunque no se vea.
 
-Carl Rogers identifico la escucha empatica cómo la condición más importante para el cambio terapeutico. Describio la experiencia de ser escuchado de verdad cómo una de las más poderosas que puede tener un ser humano: hace que el mundo parezca menos amenazante y permite ver las cosas con más claridad.
+Carl Rogers identifico la escucha empatica cómo la condición más importante para el cambio terapéutico. Describio la experiencia de ser escuchado de verdad cómo una de las más poderosas que puede tener un ser humano: hace que el mundo parezca menos amenazante y permite ver las cosas con más claridad.
 
 **Ejercicio inmediato:** En tu próxima conversación, pon el movil boca abajo o fuera de la vista. No por educación. Para eliminar el principal competidor de tu atención. Observa como cambia la calidad de tu escucha con ese solo cambio.
 
@@ -111,7 +111,7 @@ La calidad de las preguntas que haces determina la calidad de las conversaciones
 
 ## Capítulo 7: Cuando callarse es lo más poderoso
 
-Elena tiene el habito de llenar los silencios. Cuando hay una pausa en la conversación, inmediatamente dice algo para que el silencio no dure. Lo que no sabe es que en esos silencios el otro está procesando, a punto de decir algo importante. Cuando Elena llena el silencio, interrumpe ese proceso.
+Elena tiene el hábito de llenar los silencios. Cuando hay una pausa en la conversación, inmediatamente dice algo para que el silencio no dure. Lo que no sabe es que en esos silencios el otro está procesando, a punto de decir algo importante. Cuando Elena llena el silencio, interrumpe ese proceso.
 
 **El Principio del Silencio Activo:** El silencio en una conversación no es un vacio que hay que llenar. Es un espacio en que el otro procesa y se prepara para compartir algo más. Tolerar el silencio sin incomodidad es una de las habilidades más difíciles y más poderosas del oyente. Los mejores entrevistadores, los mejores terapeutas y los mejores líderes saben que el silencio después de una pregunta es parte de la respuesta.
 
@@ -155,7 +155,7 @@ No puedes escuchar y hacer otra cosa. Puedes oir y hacer otra cosa. Son cosas di
 
 La escucha no mejora por leer sobre ella. Mejora con práctica deliberada en las conversaciones reales de cada dia. Y la práctica requiere lo mismo que cualquier otra habilidad: atención consciente, retroalimentación y repetición.
 
-**El Principio de la práctica Gradual:** No es necesario transformar todas las conversaciones en ejercicios de escucha profunda. Lo que si es posible es elegir una o dos conversaciones al dia para practicar deliberadamente. Con el tiempo, lo que era esfuerzo consciente se convierte en habito. Y el habito de escuchar bien cambia la calidad de todas tus relaciones sin que tengas que pensarlo.
+**El Principio de la práctica Gradual:** No es necesario transformar todas las conversaciones en ejercicios de escucha profunda. Lo que si es posible es elegir una o dos conversaciones al dia para practicar deliberadamente. Con el tiempo, lo que era esfuerzo consciente se convierte en hábito. Y el hábito de escuchar bien cambia la calidad de todas tus relaciones sin que tengas que pensarlo.
 
 Las investigaciones de Anders Ericsson sobre la práctica deliberada muestran que la diferencia entre los oyentes expertos y los ordinarios no es el talento natural. Es la cantidad y calidad de la práctica consciente. Los mejores escuchadores no nacieron siendolo. Practicaron.
 
@@ -175,7 +175,7 @@ No había cambiado lo que decía. Habia cambiado como escuchaba. Eso fue suficie
 
 ---
 
-*Libro 11 de la colección, Libro 1 de 10 de Serie 02: Comunicación y Conexion.*
+*Libro 11 de la colección, Libro 1 de 10 de Serie 02: Comunicación y Conexión.*
 
 ---
 

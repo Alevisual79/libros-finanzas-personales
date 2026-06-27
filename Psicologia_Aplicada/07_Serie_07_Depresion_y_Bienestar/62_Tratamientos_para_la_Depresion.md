@@ -41,7 +41,7 @@ Isabel tiene prejuicios contra la psicoterapia: cree que es solo hablar y que no
 
 La investigación de Zindel Segal, Mark Williams, y John Teasdale sobre la Terapia Cognitiva Basada en Mindfulness (MBCT) muestra que reduce el riesgo de recaida en personas con tres o más episodios depresivos en un 43% respecto al tratamiento habitual. La Terapia de Activación Conductual (TAC) es una versión simplificada y efectiva que se centra exclusivamente en incrementar la actividad reforzante sin el componente cognitivo.
 
-**Ejercicio inmediato:** Si estas en psicoterapia para la depresión, pregunta a tu terapeuta: ¿que modeló terapeutico usas para la depresión? ¿Cuales son los mecanismos de cambio que esperas activar con ese modelo? La psicoterapia efectiva para la depresión tiene una lógica interna que el terapeuta debe poder explicar.
+**Ejercicio inmediato:** Si estas en psicoterapia para la depresión, pregunta a tu terapeuta: ¿que modeló terapéutico usas para la depresión? ¿Cuales son los mecanismos de cambio que esperas activar con ese modelo? La psicoterapia efectiva para la depresión tiene una lógica interna que el terapeuta debe poder explicar.
 
 No toda psicoterapia es igual para la depresión. La evidencia es específica sobre que modelos funcionan y en que condiciones.
 
@@ -53,7 +53,7 @@ Ruben tiene miedo a los antidepresivos por mitos que ha escuchado: que crean dep
 
 **El Principio de los Antidepresivos como Medicamentos con Evidencia Robusta y Mitos Infundados:** Los antidepresivos de segunda generación (ISRSs cómo la fluoxetina, la sertralina; IRSNs cómo la venlafaxina) tienen evidencia sólida de eficacia en la depresión moderada a severa. El meta-análisis de Andrea Cipriani y colegas publicado en The Lancet en 2018 analizó datos de 522 ensayos y 116.000 participantes y confirmo que los 21 antidepresivos estudiados son más efectivos que el placebo, con diferencias de tamaño entre ellos.
 
-Los mitos: los antidepresivos no crean dependencia física en el sentido clínico (no producen tolerancia ni conducta de busqueda); no cambian la personalidad (reducen los sintomas depresivos sin alterar el carácter fundamental); y no son para siempre (la duración del tratamiento depende de la historia de episodios). Si producen efectos secundarios (especialmente al inició) y requieren de dos a seis semanas para mostrar efecto completo.
+Los mitos: los antidepresivos no crean dependencia física en el sentido clínico (no producen tolerancia ni conducta de búsqueda); no cambian la personalidad (reducen los sintomas depresivos sin alterar el carácter fundamental); y no son para siempre (la duración del tratamiento depende de la historia de episodios). Si producen efectos secundarios (especialmente al inició) y requieren de dos a seis semanas para mostrar efecto completo.
 
 **Ejercicio inmediato:** Si tienes prejuicios contra los antidepresivos, identifica de dónde vienen: ¿experiencia propia, experiencia de alguien cercano, o información de segunda mano de fuentes no necesariamente cientificas? Si la respuesta es la segunda o la tercera, considera que esa información puede no ser representativa de lo que la evidencia muestra.
 
@@ -81,9 +81,9 @@ Ruben sabe que el ejercicio le ayudaria pero no puede convencerse de hacerlo. Co
 
 **El Principio del Ejercicio Físico como Tratamiento con Evidencia Comparable a la Farmacoterapia en Depresión Leve-Moderada:** El meta-análisis de Falko Smits y colegas sobre el ejercicio como tratamiento para la depresión muestra tamaños del efecto entre 0.8 y 1.1 (grande) en la reducción de sintomas depresivos. En depresión leve a moderada, el ejercicio regular (3-5 sesiones semanales de intensidad moderada durante 30-45 minutos) tiene eficacia comparable a la farmacoterapia.
 
-Los mecanismos incluyen: aumento de la neurogenesis en el hipocampo (el ejercicio es uno de los estímulos más potentes para la producción de BDNF, factor de crecimiento neuronal), reducción de la inflamación (que se asocia con la depresión), regulación del eje hipotalamo-hipofisis-suprarrenal (el sistema de estres), y aumento de las monoaminas (serotonina, dopamina, noradrenalina).
+Los mecanismos incluyen: aumento de la neurogenesis en el hipocampo (el ejercicio es uno de los estímulos más potentes para la producción de BDNF, factor de crecimiento neuronal), reducción de la inflamación (que se asocia con la depresión), regulación del eje hipotalamo-hipofisis-suprarrenal (el sistema de estrés), y aumento de las monoaminas (serotonina, dopamina, noradrenalina).
 
-**Ejercicio inmediato:** Esta semana, comienza con diez minutos diarios de caminata. No treinta. No cinco dias a la semana. Diez minutos cada dia. El objetivo no es el rendimiento atletico sino la consistencia del habito. Diez minutos es suficientemente pequeño para no tener excusa y suficientemente grande para producir beneficio. En dos semanas, podras evaluar si ha tenido algun efecto en tu estado de animo.
+**Ejercicio inmediato:** Esta semana, comienza con diez minutos diarios de caminata. No treinta. No cinco dias a la semana. Diez minutos cada dia. El objetivo no es el rendimiento atletico sino la consistencia del hábito. Diez minutos es suficientemente pequeño para no tener excusa y suficientemente grande para producir beneficio. En dos semanas, podras evaluar si ha tenido algun efecto en tu estado de animo.
 
 El ejercicio es el antidepresivo que no tiene efectos secundarios. El que no lo toma no es porque no quiera mejorar sino porque la depresión hace que el primer paso parezca imposible.
 
@@ -93,7 +93,7 @@ El ejercicio es el antidepresivo que no tiene efectos secundarios. El que no lo 
 
 Isabel ha recibido mucha psicología negativa (eliminar lo que no funciona) y poca psicología positiva (construir lo que produce bienestar). La segunda es igual de importante.
 
-**El Principio de la psicología Positiva como Complemento Necesario a la Reducción de Sintomas:** Martin Seligman propone que la salud mental no es solo la ausencia de trastorno sino la presencia de bienestar positivo. Su modelo PERMA identifica cinco elementos del bienestar: emociones positivas, compromiso (flow), relaciones, significado, y logró. La intervención en estos elementos produce mejoras en el bienestar que complementan la reducción de sintomas que producen los tratamientos clasicos.
+**El Principio de la psicología Positiva como Complemento Necesario a la Reducción de Sintomas:** Martin Seligman propone que la salud mental no es solo la ausencia de trastorno sino la presencia de bienestar positivo. Su modelo PERMA identifica cinco elementos del bienestar: emociones positivas, compromiso (flow), relaciones, significado, y logró. La intervención en estos elementos produce mejoras en el bienestar que complementan la reducción de sintomas que producen los tratamientos clásicos.
 
 Las intervenciones de psicología positiva con mayor evidencia para la depresión incluyen la práctica de gratitud (identificar diariamente tres cosas por las que estar agradecido), las intervenciones de bondad (realizar actos de amabilidad deliberados), y las actividades de flujo (comprometerse regularmente en actividades que producen absorción completa de la atención).
 

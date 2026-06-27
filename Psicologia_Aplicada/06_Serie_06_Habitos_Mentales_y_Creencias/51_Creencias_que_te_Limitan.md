@@ -1,7 +1,7 @@
 # Creencias que te Limitan
 ## Identifica y desmonta los programas mentales que frenan tu vida
 
-**Serie 06: Habitos Mentales y Creencias — Libro 1 de 10**
+**Serie 06: Hábitos Mentales y Creencias — Libro 1 de 10**
 
 ---
 
@@ -65,7 +65,7 @@ Las creencias limitantes más poderosas son las que no se ven como creencias. Se
 
 Elena tiene la creencia de que no es buena liderando personas. Cuando examina la evidencia, encuentra algo interesante.
 
-**El Principio del Examen de Evidencia como Herramienta de Desmantelamiento:** Aaron Beck desarrollo la técnica del examen de evidencia como herramienta central de la terapia cognitiva: cuando se identifica una creencia negativa sobre uno mismo, se examina sistemáticamente la evidencia que la apoya y la evidencia que la contradice, con la misma rigurosidad con que se evaluaria cualquier hipotesis empirica.
+**El Principio del Examen de Evidencia como Herramienta de Desmantelamiento:** Aaron Beck desarrollo la técnica del examen de evidencia como herramienta central de la terapia cognitiva: cuando se identifica una creencia negativa sobre uno mismo, se examina sistemáticamente la evidencia que la apoya y la evidencia que la contradice, con la misma rigurosidad con que se evaluaria cualquier hipótesis empirica.
 
 La investigación cognitiva muestra que las personas con creencias limitantes tienen un sesgo confirmatario robusto: recuerdan más facilmente los eventos que confirman la creencia y procesan menos profundamente los que la contradicen. El examen deliberado de la evidencia contradictoria interrumpe este sesgo y proporciona una evaluación más equilibrada.
 
@@ -95,7 +95,7 @@ Isabel ha identificado sus creencias limitantes pero no sabe como cambiarlas. El
 
 **El Principio del Cambio de Creencias como Proceso Gradual:** La investigación cognitiva muestra que las creencias nucleares no cambian por decisión ni por comprensión intelectual sola: requieren experiencias que proporcionen evidencia contraria suficiente para que el sistema cognitivo actualice su modelo. Este proceso es gradual y requiere trabajo deliberado.
 
-Las estrategias más efectivas incluyen: el experimento conductual (diseñar comportamientos que produzcan experiencias que contradicen la creencia), la reestructuración cognitiva (sustituir la creencia limitante por una alternativa más equilibrada apoyada en la evidencia), el registro de datos (sistemáticamente documentar los eventos que contradicen la creencia para contrarrestar el sesgo confirmatorio), y el trabajo terapeutico con enfoques basados en la evidencia (TCC, terapia de esquemas).
+Las estrategias más efectivas incluyen: el experimento conductual (diseñar comportamientos que produzcan experiencias que contradicen la creencia), la reestructuración cognitiva (sustituir la creencia limitante por una alternativa más equilibrada apoyada en la evidencia), el registro de datos (sistemáticamente documentar los eventos que contradicen la creencia para contrarrestar el sesgo confirmatorio), y el trabajo terapéutico con enfoques basados en la evidencia (TCC, terapia de esquemas).
 
 **Ejercicio inmediato:** Para tu creencia limitante principal, diseña un experimento conductual: un comportamiento que podrías hacer esta semana que, si tuviera éxito, proporcionaria evidencia contraria a la creencia. El experimento debe ser lo suficientemente pequeño para ser realizable pero lo suficientemente diferente de tu patron habitual para producir nueva información.
 
@@ -165,7 +165,7 @@ Elena identifico la creencia: las personas como yo no lideran equipos. La rastre
 
 ---
 
-*Libro 51 de la colección psicología Aplicada, Libro 1 de 10 de Serie 06: Habitos Mentales y Creencias.*
+*Libro 51 de la colección psicología Aplicada, Libro 1 de 10 de Serie 06: Hábitos Mentales y Creencias.*
 
 ---
 

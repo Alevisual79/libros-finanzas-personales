@@ -93,7 +93,7 @@ Una solicitud de conexión personalizada se siente como el inició de una relaci
 
 ## Capítulo 7: Construir una red que se sostenga
 
-Las redes profesionales que aportan valor durante toda una carrera, no solo en momentos puntuales de busqueda de empleo, se construyen con mantenimiento activo y consistente, no solo con la acumulación inicial de contactos.
+Las redes profesionales que aportan valor durante toda una carrera, no solo en momentos puntuales de búsqueda de empleo, se construyen con mantenimiento activo y consistente, no solo con la acumulación inicial de contactos.
 
 **El Principio del Mantenimiento Proactivo de la Red:** Las redes profesionales que se mantienen valiosas a largo plazo requieren contacto periodico, incluso de baja intensidad, con los contactos más valiosos, similar a como las amistades requieren mantenimiento activo. Contactar a alguien solo cuando se necesita algo específico de ellos, sin contacto en los períodos neutros, debilita progresivamente la relación hasta que se vuelve incomodo retomarla.
 

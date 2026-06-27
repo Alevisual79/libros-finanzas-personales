@@ -159,7 +159,7 @@ Carlos ha llegado a entender que vender no es algo que le ocurre al negocio. Es 
 
 Brian Tracy propone que la habilidad de ventas, como cualquier habilidad, se desarrolla con la práctica deliberada: cada conversación de ventas es una oportunidad de aprender que funciona y que no, de ajustar el mensaje, y de mejorar la capacidad de conectar el producto con el problema del cliente.
 
-**Ejercicio inmediato:** Diseña tu habito de ventas semanal para los próximos noventa dias: ¿cuantas conversaciones con potenciales clientes tendras por semana? ¿Cuantas propuestas enviares? ¿Cuantos seguimientos haras a las propuestas anteriores? Esos tres números, mantenidos de forma consistente durante noventa dias, producen un pipeline de ventas que hace las ventas predecibles en lugar de aleatorias.
+**Ejercicio inmediato:** Diseña tu hábito de ventas semanal para los próximos noventa dias: ¿cuantas conversaciones con potenciales clientes tendras por semana? ¿Cuantas propuestas enviares? ¿Cuantos seguimientos haras a las propuestas anteriores? Esos tres números, mantenidos de forma consistente durante noventa dias, producen un pipeline de ventas que hace las ventas predecibles en lugar de aleatorias.
 
 El emprendedor que vende todos los dias aprende del mercado todos los dias. Y eso es una ventaja que el que no vende nunca puede tener.
 

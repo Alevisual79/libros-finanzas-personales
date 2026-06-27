@@ -83,7 +83,7 @@ Una pareja puede acompañarte en tu vacio. No puede ser la solución completa a 
 
 Desarrollar la capacidad de disfrutar genuinamente del tiempo solo, más allá de simplemente tolerarlo como período de espera hasta encontrar pareja, es una habilidad psicológica que mejora significativamente el bienestar general y, paradojicamente, la calidad de las relaciones futuras.
 
-**El Principio de la Soledad como Espacio de Desarrollo, no de Vacio:** Las personas que aprenden a disfrutar genuinamente de su tiempo solo (desarrollando intereses propios, practicando el autoconocimiento, disfrutando de su propia compañia) llegan a las relaciones romanticas desde un lugar de elección en lugar de escape de algo intolerable. Esta capacidad de disfrutar de la soledad no es un sustituto del deseo de pareja; es una base que mejora la calidad de esa busqueda.
+**El Principio de la Soledad como Espacio de Desarrollo, no de Vacio:** Las personas que aprenden a disfrutar genuinamente de su tiempo solo (desarrollando intereses propios, practicando el autoconocimiento, disfrutando de su propia compañia) llegan a las relaciones romanticas desde un lugar de elección en lugar de escape de algo intolerable. Esta capacidad de disfrutar de la soledad no es un sustituto del deseo de pareja; es una base que mejora la calidad de esa búsqueda.
 
 **Ejercicio inmediato:** Identifica una actividad que podrías disfrutar genuinamente haciendo solo esta semana, no como sustituto de la compañia que prefieres, sino como práctica deliberada de disfrute de tu propia presencia.
 
@@ -117,7 +117,7 @@ Tu vida no esta en pausa esperando a que llegue una pareja. Tiene valor ahora, i
 
 ## Capítulo 9: La paradoja: quien no necesita pareja, la encuentra mejor
 
-Existe una paradoja consistentemente observada en las dinámicas de atracción: las personas que no dependen desesperadamente de encontrar pareja para sentirse completas frecuentemente resultan más atractivas y tienen mejores resultados en la busqueda de relaciones significativas.
+Existe una paradoja consistentemente observada en las dinámicas de atracción: las personas que no dependen desesperadamente de encontrar pareja para sentirse completas frecuentemente resultan más atractivas y tienen mejores resultados en la búsqueda de relaciones significativas.
 
 **El Principio de la Atracción de la Plenitud Independiente:** Las personas que proyectan plenitud y seguridad independiente (no necesito una pareja para estar bien, pero la quiero porque enriqueceria mi vida) generan una dinámica de atracción distinta de las que proyectan necesidad desesperada (necesito una pareja para sentirme completo). La primera dinámica tiende a generar más interés reciproco genuino que la segunda, que frecuentemente activa señales de alarma en potenciales parejas.
 

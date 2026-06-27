@@ -1,7 +1,7 @@
 # Habitos Mentales Toxicos
 ## Como romper los ciclos de pensamiento que te danan
 
-**Serie 06: Habitos Mentales y Creencias — Libro 3 de 10**
+**Serie 06: Hábitos Mentales y Creencias — Libro 3 de 10**
 
 ---
 
@@ -15,21 +15,21 @@
 
 ## Prólogo
 
-Isabel tiene un conjunto de patrones mentales que reconoce pero que no puede parar. La comparación constante con los demás. La autoexigencia que nunca se satisface por completo. La crítica interna que comenta cada decisión con el tono de un juez severo. El replay mental de conversaciones pasadas buscando que debería haber dicho de forma diferente. Sabe que estos patrones le hacen daño. Pero saber que hacen daño no es suficiente para dejar de hacerlos: son habitos, y los habitos funcionan de forma automática por su propia naturaleza. Este libro es para entender por qué esos habitos mentales son tan persistentes y como interrumpirlos con herramientas específicas.
+Isabel tiene un conjunto de patrones mentales que reconoce pero que no puede parar. La comparación constante con los demás. La autoexigencia que nunca se satisface por completo. La crítica interna que comenta cada decisión con el tono de un juez severo. El replay mental de conversaciones pasadas buscando que debería haber dicho de forma diferente. Sabe que estos patrones le hacen daño. Pero saber que hacen daño no es suficiente para dejar de hacerlos: son hábitos, y los hábitos funcionan de forma automática por su propia naturaleza. Este libro es para entender por qué esos hábitos mentales son tan persistentes y como interrumpirlos con herramientas específicas.
 
 ---
 
 ## Capítulo 1: Que hace toxicos a los habitos mentales
 
-Los habitos mentales toxicos no son malas intenciones. Son patrones automatizados que se instalaron en algun momento por alguna razón.
+Los hábitos mentales toxicos no son malas intenciones. Son patrones automatizados que se instalaron en algun momento por alguna razón.
 
-**El Principio de los Habitos Mentales como Patrones Neuronales Automatizados:** Charles Duhigg, en El Poder de los Habitos, explica que todo habito sigue un bucle de tres componentes: la señal (el detonador que activa el patron), la rutina (el comportamiento o pensamiento habitual), y la recompensa (el beneficio que el habito produce, aunque sea mínimo o a corto plazo). Los habitos mentales toxicos tienen la misma estructura.
+**El Principio de los Hábitos Mentales como Patrones Neuronales Automatizados:** Charles Duhigg, en El Poder de los Hábitos, explica que todo hábito sigue un bucle de tres componentes: la señal (el detonador que activa el patron), la rutina (el comportamiento o pensamiento habitual), y la recompensa (el beneficio que el hábito produce, aunque sea mínimo o a corto plazo). Los hábitos mentales toxicos tienen la misma estructura.
 
-Lo que hace toxicos a ciertos habitos mentales no es que no produzcan ningún beneficio sino que el coste a largo plazo supera ampliamente el beneficio a corto plazo. La rumia produce la sensación de estar haciendo algo con el problema (beneficio) pero deteriora el bienestar sin resolver el problema (coste). La autocritica intensa produce la sensación de que se toman las normas en serio (beneficio) pero produce ansiedad y procrastinación (coste).
+Lo que hace toxicos a ciertos hábitos mentales no es que no produzcan ningún beneficio sino que el coste a largo plazo supera ampliamente el beneficio a corto plazo. La rumia produce la sensación de estar haciendo algo con el problema (beneficio) pero deteriora el bienestar sin resolver el problema (coste). La autocritica intensa produce la sensación de que se toman las normas en serio (beneficio) pero produce ansiedad y procrastinación (coste).
 
-**Ejercicio inmediato:** Identifica tu habito mental toxico más frecuente (rumia, autocritica, comparación social, preocupación, replay de conversaciones). Reflexiona: ¿que recompensa a corto plazo produce? Identificar el beneficio real del habito es el primer paso para encontrar alternativas que proporcionen el mismo beneficio sin el mismo coste.
+**Ejercicio inmediato:** Identifica tu hábito mental toxico más frecuente (rumia, autocritica, comparación social, preocupación, replay de conversaciones). Reflexiona: ¿que recompensa a corto plazo produce? Identificar el beneficio real del hábito es el primer paso para encontrar alternativas que proporcionen el mismo beneficio sin el mismo coste.
 
-El habito mental que no entiendes no puedes cambiarlo. El que entiendes completamente ya esta a medio camino de ser sustituido.
+El hábito mental que no entiendes no puedes cambiarlo. El que entiendes completamente ya esta a medio camino de ser sustituido.
 
 ---
 
@@ -51,7 +51,7 @@ La rumia que lleva dias no resuelve nada que no se resolvio en los primeros cinc
 
 Elena tiene una voz interna que comenta sus errores y sus deficiencias con una severidad que nunca toleraria de una persona real. Esta voz la acompana constantemente.
 
-**El Principio del Crítico Interno como Patron Aprendido con Costes Reales:** Paul Gilbert, desarrollador de la Terapia Centrada en la Compasión, propone que la autocritica excesiva activa los mismos sistemas neurológicos de amenaza que la crítica externa: las mismas regiones de estres y defensa que se activan ante un ataque externo se activan ante el ataque del crítico interno. La autocritica intensa es literalmente estresante de forma biológica.
+**El Principio del Crítico Interno como Patron Aprendido con Costes Reales:** Paul Gilbert, desarrollador de la Terapia Centrada en la Compasión, propone que la autocritica excesiva activa los mismos sistemas neurológicos de amenaza que la crítica externa: las mismas regiones de estrés y defensa que se activan ante un ataque externo se activan ante el ataque del crítico interno. La autocritica intensa es literalmente estresante de forma biológica.
 
 La investigación de Kristin Neff muestra que la autocritica excesiva no produce mayor motivación ni mejor rendimiento (como muchas personas creen): produce mayor ansiedad y procrastinación. Las personas con mayor autocompasión (versus autocritica) muestran mayor motivación intrinseca, mayor persistencia ante el fracaso, y mayor bienestar.
 
@@ -67,9 +67,9 @@ Isabel pasa tiempo considerable comparandose con sus colegas, sus amigos en rede
 
 **El Principio de la Comparación Social Ascendente como Ciclo sin Fin:** Leon Festinger propuso la teoria de la comparación social: tendemos a evaluar nuestras opiniones y capacidades comparandonos con otros, especialmente con personas similares a nosotros. La comparación ascendente (con personas que percibimos mejores en algun aspecto) produce aspiración o envidia dependiendo de si la brecha parece alcanzable.
 
-El problema estructural de la comparación social como habito mental es que en el mundo moderno, con acceso a millones de personas a traves de redes sociales, siempre hay alguien más éxito, más atractivo, más inteligente, y más feliz (aparentemente). La comparación ascendente constante produce insatisfacción cronica porque el estandar es siempre movil.
+El problema estructural de la comparación social como hábito mental es que en el mundo moderno, con acceso a millones de personas a traves de redes sociales, siempre hay alguien más éxito, más atractivo, más inteligente, y más feliz (aparentemente). La comparación ascendente constante produce insatisfacción cronica porque el estandar es siempre movil.
 
-**Ejercicio inmediato:** Monitoriza tu comparación social durante una semana: ¿cuando se activa? ¿Con quien? ¿En que dimensiones? Identifica si hay un patron específico (solo en redes sociales, solo en el trabajo, solo con cierto tipo de personas). El patron informa sobre el contexto específico que activa el habito y el contexto es donde la intervención es más efectiva.
+**Ejercicio inmediato:** Monitoriza tu comparación social durante una semana: ¿cuando se activa? ¿Con quien? ¿En que dimensiones? Identifica si hay un patron específico (solo en redes sociales, solo en el trabajo, solo con cierto tipo de personas). El patron informa sobre el contexto específico que activa el hábito y el contexto es donde la intervención es más efectiva.
 
 La persona con quien te comparas favorablemente esta comparandose con alguien que la supera. La comparación social no tiene fin. Y no tiene que tenerlo porque no es la que determina tu valor.
 
@@ -97,7 +97,7 @@ Elena lleva tres dias reproduciendo mentalmente una conversación con su jefe do
 
 La investigación de Nolen-Hoeksema y Lyubomirsky muestra que el replay mental mantiene el estado emocional negativo originado por el evento original, lo que significa que la persona experimenta el malestar del evento original repetidamente. El antídoto cognitivo es la distinción entre análisis útil (extraer aprendizaje de un evento una vez, con el proposito de actuar diferente en el futuro) y replay no útil (reproducir el evento sin ese proposito específico).
 
-**Ejercicio inmediato:** Para el replay más activo en tu mente ahora mismo, pregúntate: ¿he aprendido ya algo de esta situación que cambiara mi comportamiento en el futuro? Si si, el replay ya ha cumplido su función. Si sigues repitiendolo, es porque el habito se retroalimenta, no porque haya más que aprender. Autorizate a parar.
+**Ejercicio inmediato:** Para el replay más activo en tu mente ahora mismo, pregúntate: ¿he aprendido ya algo de esta situación que cambiara mi comportamiento en el futuro? Si si, el replay ya ha cumplido su función. Si sigues repitiendolo, es porque el hábito se retroalimenta, no porque haya más que aprender. Autorizate a parar.
 
 La situación pasada que replays no cambiara por mucho que la reproduzcas. Pero tu estado de animo de hoy si puede cambiar si dejas de reproducirla.
 
@@ -119,15 +119,15 @@ La audiencia que te juzga en tu cabeza esta mucho menos atenta a lo que haces de
 
 ## Capítulo 8: Romper el ciclo: estrategias para interrumpir los habitos mentales toxicos
 
-Isabel sabe que tiene habitos mentales toxicos pero no sabe como interrumpirlos en el momento en que se activan.
+Isabel sabe que tiene hábitos mentales toxicos pero no sabe como interrumpirlos en el momento en que se activan.
 
-**El Principio de la Interrupción Deliberada como Primera Herramienta:** La investigación sobre la modificación de habitos muestra que la interrupción deliberada (reconocer el habito en el momento en que se activa y hacer algo diferente) es el primer paso del cambio. No requiere que el habito desaparezca inmediatamente: solo que se cree un espacio entre la señal y la rutina automática.
+**El Principio de la Interrupción Deliberada como Primera Herramienta:** La investigación sobre la modificación de hábitos muestra que la interrupción deliberada (reconocer el hábito en el momento en que se activa y hacer algo diferente) es el primer paso del cambio. No requiere que el hábito desaparezca inmediatamente: solo que se cree un espacio entre la señal y la rutina automática.
 
-Las estrategias de interrupción más investigadas incluyen: la activación conductual (hacer algo físicamente diferente: levantarse, moverse, cambiar de entorno), la atención plena al habito (nombrarlo sin juzgarlo: estoy en rumia ahora mismo), la técnica del tiempo de preocupación de Borkovec (designar un momento específico del dia para preocuparse, y redirigir la preocupación al tiempo designado cuando aparece fuera de ese momento), y el cuestionamiento socrático de la creencia que genera el habito.
+Las estrategias de interrupción más investigadas incluyen: la activación conductual (hacer algo físicamente diferente: levantarse, moverse, cambiar de entorno), la atención plena al hábito (nombrarlo sin juzgarlo: estoy en rumia ahora mismo), la técnica del tiempo de preocupación de Borkovec (designar un momento específico del dia para preocuparse, y redirigir la preocupación al tiempo designado cuando aparece fuera de ese momento), y el cuestionamiento socrático de la creencia que genera el hábito.
 
-**Ejercicio inmediato:** Para tu habito mental toxico principal, diseña un protocolo de interrupción: ¿cual es la señal de que el habito se ha activado, que diras internamente para nombrarlo, y que acción específica tomara inmediatamente después del nombramiento para interrumpir la rutina? El protocolo preparado de antemano es mucho más efectivo que la improvisación en el momento.
+**Ejercicio inmediato:** Para tu hábito mental toxico principal, diseña un protocolo de interrupción: ¿cual es la señal de que el hábito se ha activado, que diras internamente para nombrarlo, y que acción específica tomara inmediatamente después del nombramiento para interrumpir la rutina? El protocolo preparado de antemano es mucho más efectivo que la improvisación en el momento.
 
-Interrumpir un habito mental no requiere fuerza de voluntad. Requiere un protocolo que funciona mientras la fuerza de voluntad todavia no está disponible.
+Interrumpir un hábito mental no requiere fuerza de voluntad. Requiere un protocolo que funciona mientras la fuerza de voluntad todavia no está disponible.
 
 ---
 
@@ -135,11 +135,11 @@ Interrumpir un habito mental no requiere fuerza de voluntad. Requiere un protoco
 
 Ruben ha conseguido interrumpir su rumia pero nota que algo la busca: hay algo que la rumia proporcionaba y que necesita un sustituto.
 
-**El Principio del Reemplazo de Habito como Cambio Sostenible:** Charles Duhigg propone que el cambio de habito más efectivo no es la eliminación sino el reemplazo: mantener la señal y la recompensa del habito pero sustituir la rutina por una que proporcione la misma recompensa con menores costes.
+**El Principio del Reemplazo de Hábito como Cambio Sostenible:** Charles Duhigg propone que el cambio de hábito más efectivo no es la eliminación sino el reemplazo: mantener la señal y la recompensa del hábito pero sustituir la rutina por una que proporcione la misma recompensa con menores costes.
 
-En el caso de los habitos mentales toxicos, la recompensa suele ser: una sensación de control sobre el problema (rumia), protección contra el juicio (audiencia imaginaria), prevención del peor caso (preocupación). Sustituir el habito requiere encontrar alternativas que proporcionen esas sensaciones de control, protección, y prevención sin el coste emocional habitual.
+En el caso de los hábitos mentales toxicos, la recompensa suele ser: una sensación de control sobre el problema (rumia), protección contra el juicio (audiencia imaginaria), prevención del peor caso (preocupación). Sustituir el hábito requiere encontrar alternativas que proporcionen esas sensaciones de control, protección, y prevención sin el coste emocional habitual.
 
-**Ejercicio inmediato:** Para tu habito mental toxico, identifica la recompensa que proporciona a corto plazo. Luego identifica dos o tres alternativas que podrían proporcionar la misma recompensa con menores costes: la reflexión productiva en lugar de la rumia, la comunicación directa en lugar de la lectura mental, el plan de contingencia en lugar de la preocupación. Esas alternativas son el nucleo del reemplazo.
+**Ejercicio inmediato:** Para tu hábito mental toxico, identifica la recompensa que proporciona a corto plazo. Luego identifica dos o tres alternativas que podrían proporcionar la misma recompensa con menores costes: la reflexión productiva en lugar de la rumia, la comunicación directa en lugar de la lectura mental, el plan de contingencia en lugar de la preocupación. Esas alternativas son el nucleo del reemplazo.
 
 No puedes dejar de hacer algo sin tener claro con que lo reemplazas. El vacio mental, como el físico, lo llena lo primero que encuentre.
 
@@ -147,25 +147,25 @@ No puedes dejar de hacer algo sin tener claro con que lo reemplazas. El vacio me
 
 ## Capítulo 10: Construir un entorno mental más sano
 
-Isabel ha llegado al final del libro con un mapa de sus habitos mentales toxicos y herramientas para interrumpirlos. El último paso es diseñar el entorno mental que los hace menos probables.
+Isabel ha llegado al final del libro con un mapa de sus hábitos mentales toxicos y herramientas para interrumpirlos. El último paso es diseñar el entorno mental que los hace menos probables.
 
-**El Principio del Entorno como Modulador de la Probabilidad de los Habitos:** James Clear, en Atomicos Habitos, propone que el entorno tiene tanto impacto sobre los habitos cómo la fuerza de voluntad. El entorno puede diseñarse para hacer más difíciles los habitos que se quieren eliminar y más faciles los que se quieren incorporar.
+**El Principio del Entorno como Modulador de la Probabilidad de los Hábitos:** James Clear, en Atomicos Hábitos, propone que el entorno tiene tanto impacto sobre los hábitos cómo la fuerza de voluntad. El entorno puede diseñarse para hacer más difíciles los hábitos que se quieren eliminar y más faciles los que se quieren incorporar.
 
-En el caso de los habitos mentales, el entorno relevante incluye: las fuentes de información que se consume (redes sociales que activan la comparación social, noticias que alimentan la preocupación), las personas con quienes se comparte el tiempo (que pueden amplificar o reducir la rumia), y las prácticas regulares que fortalecen la mente (mindfulness, ejercicio, sueño) y que reducen la vulnerabilidad a los habitos toxicos.
+En el caso de los hábitos mentales, el entorno relevante incluye: las fuentes de información que se consume (redes sociales que activan la comparación social, noticias que alimentan la preocupación), las personas con quienes se comparte el tiempo (que pueden amplificar o reducir la rumia), y las prácticas regulares que fortalecen la mente (mindfulness, ejercicio, sueño) y que reducen la vulnerabilidad a los hábitos toxicos.
 
-**Ejercicio inmediato:** Identifica un cambio en tu entorno que reduciria la probabilidad de tu habito mental toxico más costoso. Puede ser reducir el tiempo en redes sociales, tener un protocolo de cierre del dia laboral que interrumpa la rumia sobre el trabajo, o crear una práctica regular de mindfulness que fortalezca el musculo de la observación sin fusión.
+**Ejercicio inmediato:** Identifica un cambio en tu entorno que reduciria la probabilidad de tu hábito mental toxico más costoso. Puede ser reducir el tiempo en redes sociales, tener un protocolo de cierre del dia laboral que interrumpa la rumia sobre el trabajo, o crear una práctica regular de mindfulness que fortalezca el músculo de la observación sin fusión.
 
-El habito mental que se alimenta de un entorno específico es más debil cuando ese entorno cambia. El entorno es el primer aliado del cambio.
+El hábito mental que se alimenta de un entorno específico es más debil cuando ese entorno cambia. El entorno es el primer aliado del cambio.
 
 ---
 
 ## Epílogo
 
-Isabel empezó a nombrar los habitos en el momento en que los reconocia: ah, esto es el crítico interno. Ah, esto es rumia. No los detuvo inmediatamente: los habitos no funcionan asi. Pero el nombramiento produjó algo. Una pequeña distancia entre el habito y ella. Suficiente para ver que no eran ella: eran patrones que habían aprendido a funcionar de forma automática. Y los patrones que se ven ya son un poco menos automáticos. Solo un poco. Pero ese poco fue suficiente para empezar.
+Isabel empezó a nombrar los hábitos en el momento en que los reconocia: ah, esto es el crítico interno. Ah, esto es rumia. No los detuvo inmediatamente: los hábitos no funcionan asi. Pero el nombramiento produjó algo. Una pequeña distancia entre el hábito y ella. Suficiente para ver que no eran ella: eran patrones que habían aprendido a funcionar de forma automática. Y los patrones que se ven ya son un poco menos automáticos. Solo un poco. Pero ese poco fue suficiente para empezar.
 
 ---
 
-*Libro 53 de la colección psicología Aplicada, Libro 3 de 10 de Serie 06: Habitos Mentales y Creencias.*
+*Libro 53 de la colección psicología Aplicada, Libro 3 de 10 de Serie 06: Hábitos Mentales y Creencias.*
 
 ---
 

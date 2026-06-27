@@ -23,7 +23,7 @@ Isabel tiene cincuenta y dos años y no puede volar en avion. Ha rechazado oport
 
 La palabra fobia se usa coloquialmente para describir cualquier cosa que da mucho miedo o que alguien prefiere evitar fuertemente. La fobia clinica es algo más específico: un miedo persistente, excesivo y desproporcionado ante un estímulo específico que genera evitación o malestar intenso que interfiere en el funcionamiento normal.
 
-**El Principio del Miedo Condicionado como Mecanismo Central:** Joseph LeDoux, en su investigación sobre los circuitos neuronales del miedo, demostró que las fobias se forman y mantienen a traves del condicionamiento del miedo: una asociación aprendida entre un estímulo (el avion, la araña, la altura) y una respuesta de amenaza que se graba en el circuito amigdalar con gran resistencia a la extinción. Esta asociación puede formarse por experiencia directa traumatica, por observación de la respuesta de miedo en otros, o (en algunos casos) por predisposición evolutiva hacía estímulos que eran genuinamente peligrosos en el entorno ancestral.
+**El Principio del Miedo Condicionado como Mecanismo Central:** Joseph LeDoux, en su investigación sobre los circuitos neuronales del miedo, demostró que las fobias se forman y mantienen a traves del condicionamiento del miedo: una asociación aprendida entre un estímulo (el avion, la araña, la altura) y una respuesta de amenaza que se graba en el circuito amigdalar con gran resistencia a la extinción. Esta asociación puede formarse por experiencia directa traumática, por observación de la respuesta de miedo en otros, o (en algunos casos) por predisposición evolutiva hacía estímulos que eran genuinamente peligrosos en el entorno ancestral.
 
 Los tipos más comunes de fobias específicas son: animales (arañas, serpientes, perros, insectos), entorno natural (alturas, tormentas, agua), sangre-inyección-daño (con la particularidad neurológica de activar vasovagal en lugar de hiperactivación), situacional (aviones, ascensores, espacios cerrados), y otras (por ejemplo, vomitar, atragantarse, ruidos fuertes). Cada tipo tiene particularidades específicas que informan el tratamiento.
 
@@ -51,7 +51,7 @@ Tu miedo no es el problema. Organizar tu vida entera alrededor de evitarlo, si.
 
 Elena tiene una fobia a las inyecciones que la lleva a evitar chequeos médicos, análisis de sangre, y cualquier procedimiento que pueda involucrar una aguja. Su médico esta preocupado por la falta de seguimiento médico. Elena lo sabe y sigue evitando.
 
-**El Principio de la Exposición como Recablearción Neural:** La exposición terapeutica al estímulo fobico, realizada de forma graduada y controlada sin la respuesta de evitación, es el tratamiento con mayor evidencia disponible para las fobias específicas. Un meta-análisis de Wolitzky-Taylor y colegas encontró tasas de respuesta del noventa por ciento para fobias específicas tratadas con exposición, con resultados que persisten a largo plazo.
+**El Principio de la Exposición como Recablearción Neural:** La exposición terapéutica al estímulo fobico, realizada de forma graduada y controlada sin la respuesta de evitación, es el tratamiento con mayor evidencia disponible para las fobias específicas. Un meta-análisis de Wolitzky-Taylor y colegas encontró tasas de respuesta del noventa por ciento para fobias específicas tratadas con exposición, con resultados que persisten a largo plazo.
 
 El mecanismo neurológico es la extinción del condicionamiento del miedo: la exposición repetida al estímulo sin el daño anticipado debilita gradualmente la asociación amigdalar entre el estímulo y la respuesta de amenaza. Michelle Craske, cuya investigación ha refinado los protocolos de exposición, propone que la exposición es más efectiva cuando maximiza el aprendizaje inhibitorio: la persona no solo se habitua (se acostumbra) sino que aprende activamente que el resultado catastrofico no ocurre, que puede tolerar la ansiedad, y que los sintomas de ansiedad disminuyen con el tiempo aunque no inmediatamente.
 
@@ -69,7 +69,7 @@ Isabel tiene una fobia específica que actua de forma diferente a la mayoría: l
 
 Esta técnica, ensenada antes de la exposición, cambia completamente el perfil de riesgo del tratamiento para la fobia SID y permite la exposición graduada sin el riesgo de desmayo que de otra forma podría reforzar el miedo.
 
-**Ejercicio inmediato:** Si tienes fobia SID, práctica ahora la técnica de tensión aplicada sin ningún estímulo fobico: tensa los musculos de piernas, abdomen y torax durante quince segundos (como si intentaras levantar algo muy pesado o quisiera que te sonrojaran la cara), suelta, repite cinco veces. Este es el ejercicio de preparación para cuando la necesites con el estímulo real.
+**Ejercicio inmediato:** Si tienes fobia SID, práctica ahora la técnica de tensión aplicada sin ningún estímulo fobico: tensa los músculos de piernas, abdomen y torax durante quince segundos (como si intentaras levantar algo muy pesado o quisiera que te sonrojaran la cara), suelta, repite cinco veces. Este es el ejercicio de preparación para cuando la necesites con el estímulo real.
 
 La fobia a la sangre tiene un tratamiento específico que ningún otro tipo de fobia requiere. Saber esto ya cambia las posibilidades.
 
@@ -137,7 +137,7 @@ Ruben ha tomado benzodiacepinas antes de situaciones que activan su miedo para m
 
 **El Principio del Efecto Contraproducente de la Medicación Ansiolítica en la Exposición:** La investigación sobre el uso de benzodiacepinas (alprazolam, lorazepam) durante la exposición para fobias muestra un resultado contraintuitivo: aunque reducen la ansiedad durante la exposición, pueden deteriorar el aprendizaje inhibitorio que la exposición busca producir. El mecanismo propuesto es que la reducción de ansiedad producida por la medicación reduce la señal de aprendizaje que el sistema nervioso necesita para actualizar la asociación de miedo.
 
-Michael Davis, neurocientifico de Emory University, ha investigado la D-cicloserina (DCS), un antibiotico que facilita la extinción del miedo condicionado, como posible potenciador del aprendizaje de la exposición. Los resultados iniciales son prometedores para ciertos tipos de fobia aunque aun no estan en uso clínico rutinario. La implicación clinica actual es clara: para el tratamiento de fobias con exposición, evitar las benzodiacepinas durante las sesiones de exposición para preservar el aprendizaje que la exposición produce.
+Michael Davis, neurocientífico de Emory University, ha investigado la D-cicloserina (DCS), un antibiotico que facilita la extinción del miedo condicionado, como posible potenciador del aprendizaje de la exposición. Los resultados iniciales son prometedores para ciertos tipos de fobia aunque aun no estan en uso clínico rutinario. La implicación clinica actual es clara: para el tratamiento de fobias con exposición, evitar las benzodiacepinas durante las sesiones de exposición para preservar el aprendizaje que la exposición produce.
 
 **Ejercicio inmediato:** Si has estado usando medicación ansiolítica para manejar las situaciones que activan tu fobia, habla con tu médico sobre si ese uso está interfiriendo con el aprendizaje de extinction que la exposición produce. Esta conversación puede cambiar el plan de tratamiento.
 
@@ -161,7 +161,7 @@ La vida al otro lado del miedo existe. Solo tienes que cruzar el miedo para lleg
 
 ## Epílogo
 
-Isabel voló. No sin miedo. Con el miedo presente pero ya no en el asiento del conductor. El terapeuta le había enseñado exactamente lo que iba a sentir y por qué, había practicado con ella cada fase del vuelo en la consulta, y la había expuesto gradualmente a todo lo que podía exponerla antes de subir al avion real. Cuando el avion despego, Isabel noto la ansiedad familiar. Pero noto algo diferente también: que la ansiedad no aumentaba hacía el panico. Que podía existir con ella sin que la dominara. Esa fue la experiencia que ningún argumento sobre la seguridad estadistica de los aviones había podido darle.
+Isabel voló. No sin miedo. Con el miedo presente pero ya no en el asiento del conductor. El terapeuta le había enseñado exactamente lo que iba a sentir y por qué, había practicado con ella cada fase del vuelo en la consulta, y la había expuesto gradualmente a todo lo que podía exponerla antes de subir al avion real. Cuando el avion despego, Isabel noto la ansiedad familiar. Pero noto algo diferente también: que la ansiedad no aumentaba hacía el panico. Que podía existir con ella sin que la dominara. Esa fue la experiencia que ningún argumento sobre la seguridad estadística de los aviones había podido darle.
 
 ---
 

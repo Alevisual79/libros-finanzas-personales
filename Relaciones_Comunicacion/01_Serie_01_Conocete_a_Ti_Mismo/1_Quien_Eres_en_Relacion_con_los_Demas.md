@@ -35,7 +35,7 @@ Clara tenía 33 años y una habilidad peculiar para elegir parejas emocionalment
 
 **El Principio del Mapa Invisible:** John Bowlby demostró algo que la mayoría sigue sin aceptar: la forma en que aprendiste a relacionarte con tus cuidadores en los primeros años de vida se convierte en el template inconsciente de todas tus relaciones adultas. No como destino. Como punto de partida por defecto que se activa antes de que tu mente consciente tenga tiempo de opinar.
 
-Los estudios de Mary Ainsworth con bebes de 12 meses mostraron que la reacción de un niño cuando su madre sale de la habitación predice con precisión estadistica como ese mismo niño, 25 años después, va a manejar sus relaciones romanticas. Los bebes con apego seguro buscaban consuelo y se calmaban. Los de apego ansioso lloraban sin consuelo. Los de apego evitativo fingian que no les importaba. Exactamente lo mismo que vemos en adultos durante una discusión de pareja.
+Los estudios de Mary Ainsworth con bebes de 12 meses mostraron que la reacción de un niño cuando su madre sale de la habitación predice con precisión estadística como ese mismo niño, 25 años después, va a manejar sus relaciones romanticas. Los bebes con apego seguro buscaban consuelo y se calmaban. Los de apego ansioso lloraban sin consuelo. Los de apego evitativo fingian que no les importaba. Exactamente lo mismo que vemos en adultos durante una discusión de pareja.
 
 **Ejercicio inmediato:** Escribe sin pensar demasiado: ¿cuando alguien a quien quieres se aleja, que haces? ¿Cuando alguien se acerca mucho, que sientes? ¿Cuando hay conflicto, tu primer impulso es atacar, huir o quedarte quieto? No hay respuestas correctas. Hay respuestas reveladoras.
 
@@ -51,7 +51,7 @@ Marcos llevo tres años diciendo que su problema era que todas las mujeres que l
 
 Helen Fisher demostró en estudios de neuroimagen que el enamoramiento activa los mismos circuitos que la adicción. Y como toda adicción, buscamos reproducir la primera experiencia de referencia aunque nos haga daño. La buena noticia es que los circuitos neuronales son plasticos. La mala: cambiarlos requiere incomodidad deliberada, no simplemente querer cambiar.
 
-**Ejercicio inmediato:** Lista las tres personas con las que has tenido vinculos más intensos, romanticos o no. Escribe tres adjetivos para cada una. Busca el patron común. Ese patron te dice más sobre ti que sobre ellos.
+**Ejercicio inmediato:** Lista las tres personas con las que has tenido vínculos más intensos, romanticos o no. Escribe tres adjetivos para cada una. Busca el patron común. Ese patron te dice más sobre ti que sobre ellos.
 
 No escoges con quien te enamoras. Pero si puedes decidir con quien te quedas cuando el enamoramiento pasa.
 
@@ -61,7 +61,7 @@ No escoges con quien te enamoras. Pero si puedes decidir con quien te quedas cua
 
 Cuando Isabel entra en una reunión, en menos de tres minutos ya sabe quien va a ser problematico, quien es de fiar y quien va a intentar aprovecharse. Tiene razón el 60% de las veces. El otro 40% son proyecciones. El problema es que Isabel no sabe distinguir cuales son cuales.
 
-**El Principio de que el Mapa No es el Territorio:** Cada persona lleva un mapa mental de como funciona el mundo relacional. Ese mapa se dibuja en la infancia y se actualiza poco, aunque la realidad cambie. Si en tu mapa los hombres son impredecibles, tenderas a interpretar la conducta masculina a traves de ese filtro aunque el hombre en cuestion sea el más estable del planeta. El mapa no es el territorio. Pero tu cerebro actua como si lo fuera.
+**El Principio de que el Mapa No es el Territorio:** Cada persona lleva un mapa mental de como funciona el mundo relacional. Ese mapa se dibuja en la infancia y se actualiza poco, aunque la realidad cambie. Si en tu mapa los hombres son impredecibles, tenderas a interpretar la conducta masculina a traves de ese filtro aunque el hombre en cuestión sea el más estable del planeta. El mapa no es el territorio. Pero tu cerebro actua como si lo fuera.
 
 Aaron Beck, padre de la terapia cognitiva, llamó a esto esquemas cognitivos: estructuras mentales profundas que determinan como percibimos, interpretamos y recordamos la información social. Los esquemas relacionales se forman antes de los siete años y resisten la evidencia contraria con una tenacidad asombrosa.
 
@@ -133,7 +133,7 @@ Hay personas que ante el conflicto atacan. Otras que huyen. Otras que se congela
 
 **El Principio del Modo por Defecto:** Tu patron de conflicto es el conjunto de reacciones automáticas que se activan cuando sientes que una relación importante esta en riesgo. Se forma en la infancia como estrategia de supervivencia y se solidifica en la adolescencia. En la vida adulta se activa en milisegundos, antes de que puedas pensar, y su misión es protegerte del dolor relacional aunque a menudo genere exactamente ese dolor.
 
-Daniel Siegel, neurocientifico de la UCLA, explica que bajo estres relacional intenso el cortex prefrontal, la parte que piensa y razona, se desconecta parcialmente. Lo que queda al mando es el sistema limbico: reacciones primitivas diseñadas para la supervivencia, no para la intimidad.
+Daniel Siegel, neurocientífico de la UCLA, explica que bajo estrés relacional intenso el cortex prefrontal, la parte que piensa y razona, se desconecta parcialmente. Lo que queda al mando es el sistema limbico: reacciones primitivas diseñadas para la supervivencia, no para la intimidad.
 
 **Ejercicio inmediato:** Recuerda tu último conflicto significativo. ¿Que hiciste en los primeros cinco minutos? Esa reacción inicial es tu patron. No juzgues. Observa. La observación sin juicio es el primer paso del cambio.
 

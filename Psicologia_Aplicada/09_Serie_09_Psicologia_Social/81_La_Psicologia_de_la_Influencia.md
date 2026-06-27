@@ -23,7 +23,7 @@ Elena ha dicho que si a proyectos que no quería hacer porque alguien se los pid
 
 La influencia no es magia. Tiene una estructura.
 
-**El Principio de los Desencadenantes Automáticos como Base de la Influencia Social:** Robert Cialdini, en su investigación clasica sobre la persuasión y la influencia, identifica seis principios psicológicos que actuan como desencadenantes automáticos del comportamiento de cumplimiento: la reciprocidad (tendemos a devolver lo que nos han dado), la escasez (valoramos más lo que es raro o está disminuyendo), la autoridad (seguimos a los expertos y figuras de autoridad), la consistencia (actuamos de acuerdo con nuestros compromisos previos), el agrado (accedemos más facilmente a los que nos gustan), y la prueba social (miramos a los demás para saber como actuar).
+**El Principio de los Desencadenantes Automáticos como Base de la Influencia Social:** Robert Cialdini, en su investigación clásica sobre la persuasión y la influencia, identifica seis principios psicológicos que actuan como desencadenantes automáticos del comportamiento de cumplimiento: la reciprocidad (tendemos a devolver lo que nos han dado), la escasez (valoramos más lo que es raro o está disminuyendo), la autoridad (seguimos a los expertos y figuras de autoridad), la consistencia (actuamos de acuerdo con nuestros compromisos previos), el agrado (accedemos más facilmente a los que nos gustan), y la prueba social (miramos a los demás para saber como actuar).
 
 Cialdini propone que estos principios son atajos cognitivos evolutivamente adaptativos: en la mayoría de los casos, seguirlos produce mejores resultados que deliberar cada decisión. Su problema es que pueden ser explotados deliberadamente por quienes los conocen y quieren aprovecharse de ellos.
 
@@ -51,7 +51,7 @@ El regalo que no reconoces como técnica de influencia te cuesta más de lo que 
 
 Elena elige restaurantes por las resenas online. Ruben valida sus decisiones mirando que hacen personas similares a el. La prueba social opera constantemente.
 
-**El Principio de la Prueba Social como Atajo que Funciona la Mayor Parte del Tiempo:** La investigación de Cialdini y colegas sobre la prueba social muestra que las personas son más probables de hacer algo si ven a otros hacerlo, especialmente en situaciones de incertidumbre y cuando los otros son similares a ellas. En los experimentos clasicos, personas que pasaban por la calle miraban hacía arriba cuando veían a un grupo de personas mirando hacía arriba, y la probabilidad de mirar aumentaba con el tamaño del grupo observador.
+**El Principio de la Prueba Social como Atajo que Funciona la Mayor Parte del Tiempo:** La investigación de Cialdini y colegas sobre la prueba social muestra que las personas son más probables de hacer algo si ven a otros hacerlo, especialmente en situaciones de incertidumbre y cuando los otros son similares a ellas. En los experimentos clásicos, personas que pasaban por la calle miraban hacía arriba cuando veían a un grupo de personas mirando hacía arriba, y la probabilidad de mirar aumentaba con el tamaño del grupo observador.
 
 La investigación sobre las normas descriptivas (lo que la gente realmente hace) vs. las normas prescriptivas (lo que debería hacer) de Cialdini, Reno y Kallgren muestra que las normas descriptivas son frecuentemente más influyentes que las prescriptivas: decirle a la gente que el 75% de los hoteleros reutiliza las toallas produce más reutilización que decirles que es bueno para el medioambiente.
 
@@ -65,7 +65,7 @@ Hacer lo que hace la mayoría es una estrategia que funciona cuando la mayoría 
 
 Isabel ha visto como su empresa usa artificialmente la escasez en las ventas. La escasez real y la artificial producen los mismos efectos psicológicos.
 
-**El Principio de la Escasez como Amplificador del Valor Percibido:** La investigación de Stephen Worchel y colegas muestra que los objetos se perciben como más valiosos cuando son escasos: en el experimento clasico, galletas identicas eran valoradas más alto cuando había pocas en el tarro que cuando había muchas, aunque las galletas eran exactamente las mismas.
+**El Principio de la Escasez como Amplificador del Valor Percibido:** La investigación de Stephen Worchel y colegas muestra que los objetos se perciben como más valiosos cuando son escasos: en el experimento clásico, galletas identicas eran valoradas más alto cuando había pocas en el tarro que cuando había muchas, aunque las galletas eran exactamente las mismas.
 
 La investigación de Cialdini muestra que la escasez es especialmente potente cuando es reciente (el recurso que antes era abundante y ahora es escaso produce más reactancia psicológica que el que siempre fue escaso) y cuando hay competencia por el recurso escaso (otros también lo quieren). Estas dos condiciones juntas explican por qué las subastas y los precios flash producen comportamientos de compra que los compradores frecuentemente lamentan.
 

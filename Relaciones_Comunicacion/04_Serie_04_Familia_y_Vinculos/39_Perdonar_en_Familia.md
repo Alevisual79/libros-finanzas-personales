@@ -1,7 +1,7 @@
 # Perdonar en Familia
 ## Como soltar el peso de los rencores sin borrar la historia
 
-**Serie 04: Familia y Vinculos — Libro 9 de 10**
+**Serie 04: Familia y Vínculos — Libro 9 de 10**
 
 ---
 
@@ -37,7 +37,7 @@ Perdonar no es decir que lo que paso no importo. Es decidir dejar de cargar con 
 
 El perdon hacía miembros de la familia tiene complejidades específicas que no estan presentes, o estan presentes con menor intensidad, en el perdon hacía personas fuera del circulo familiar.
 
-**El Principio de la Complejidad del Vinculo Permanente:** El perdon familiar es más difícil que otros tipos de perdon por varias razones específicas: la relación frecuentemente continua (a diferencia de otras relaciones que se pueden terminar completamente), las expectativas culturales sobre la obligación de perdonar a la familia son más fuertes, y el daño familiar frecuentemente ocurrio durante la infancia, cuando la persona tenía menos recursos para procesarlo de forma saludable en el momento en que ocurrio.
+**El Principio de la Complejidad del Vínculo Permanente:** El perdon familiar es más difícil que otros tipos de perdon por varias razones específicas: la relación frecuentemente continua (a diferencia de otras relaciones que se pueden terminar completamente), las expectativas culturales sobre la obligación de perdonar a la familia son más fuertes, y el daño familiar frecuentemente ocurrio durante la infancia, cuando la persona tenía menos recursos para procesarlo de forma saludable en el momento en que ocurrio.
 
 **Ejercicio inmediato:** Si estas procesando el perdon hacía un familiar, reconoce explicitamente que esta dificultad adicional es real y esperada, no una señal de que algo esta mal contigo por no haber perdonado todavia.
 
@@ -143,11 +143,11 @@ El perdon no solo cambia tu relación con quien te dañó. Cambia tu relación c
 
 ## Epílogo
 
-Perdonar no significa olvidar. Significa soltar el peso de lo que te hicieron para qué deje de gobernarte. Elena, después de meses de trabajo terapeutico, finalmente nombro la rabia que llevaba años disfrazada de indiferencia hacía su madre. No llegó a una reconciliación completa. Pero llegó a algo igualmente valioso: la libertad de no cargar más con un resentimiento que llevaba toda su vida adulta sin saber que estaba cargando.
+Perdonar no significa olvidar. Significa soltar el peso de lo que te hicieron para qué deje de gobernarte. Elena, después de meses de trabajo terapéutico, finalmente nombro la rabia que llevaba años disfrazada de indiferencia hacía su madre. No llegó a una reconciliación completa. Pero llegó a algo igualmente valioso: la libertad de no cargar más con un resentimiento que llevaba toda su vida adulta sin saber que estaba cargando.
 
 ---
 
-*Libro 39 de la colección, Libro 9 de 10 de Serie 04: Familia y Vinculos.*
+*Libro 39 de la colección, Libro 9 de 10 de Serie 04: Familia y Vínculos.*
 
 ---
 

@@ -1,7 +1,7 @@
 # Familia y Dinero
 ## El tema que nadie habla y todos sienten
 
-**Serie 04: Familia y Vinculos — Libro 8 de 10**
+**Serie 04: Familia y Vínculos — Libro 8 de 10**
 
 ---
 
@@ -147,7 +147,7 @@ El dinero en la familia no es sobre el dinero. Es sobre el poder, el amor y la j
 
 ---
 
-*Libro 38 de la colección, Libro 8 de 10 de Serie 04: Familia y Vinculos.*
+*Libro 38 de la colección, Libro 8 de 10 de Serie 04: Familia y Vínculos.*
 
 ---
 

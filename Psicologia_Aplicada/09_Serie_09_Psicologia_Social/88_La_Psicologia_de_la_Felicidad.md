@@ -95,7 +95,7 @@ Isabel ha observado que las personas que más bienestar profundo expresan no son
 
 **El Principio de la Vida con Sentido como Forma de Bienestar que Complementa y Supera el Bienestar Hedonico en Durabilidad:** Martin Seligman, en su modelo PERMA de bienestar, distingue el bienestar hedonico (placer y ausencia de dolor) del bienestar eudaimonico (florecimiento, vita bona, vida con sentido y proposito). Las actividades que producen sentido (cuidar de otros, contribuir a algo más grande que uno mismo, desarrollar un oficio o habilidad, comprometerse con valores) producen bienestar más duradero y más resistente a la adversidad que las actividades puramente placenteras.
 
-La investigación de Roy Baumeister y colegas muestra que el sentido y la felicidad no siempre coinciden: criar hijos reduce la felicidad hedonista del dia a dia (menos sueño, menos tiempo libre, más estres) pero aumenta el sentido de la vida. Las actividades más placenteras no son siempre las más significativas.
+La investigación de Roy Baumeister y colegas muestra que el sentido y la felicidad no siempre coinciden: criar hijos reduce la felicidad hedonista del dia a dia (menos sueño, menos tiempo libre, más estrés) pero aumenta el sentido de la vida. Las actividades más placenteras no son siempre las más significativas.
 
 **Ejercicio inmediato:** Para las áreas más importantes de tu vida (trabajo, relaciones, actividades), reflexiona: ¿que área produce más placer? ¿Que área produce más sentido? Si hay una gran discrepancia (mucho placer y poco sentido, o mucho sentido y poco placer), reflexiona sobre si esa distribución es la que quieres para tu bienestar a largo plazo o si hay ajustes que podrían producir un equilibrio más satisfactorio.
 
@@ -109,9 +109,9 @@ Elena ha probado la meditación con escepticismo inicial y con creciente convicc
 
 **El Principio de la Presencia Mental como práctica que Reduce el Sufrimiento Producido por la Mente Errante:** La investigación de Matthew Killingsworth y Daniel Gilbert (2010), que recogio datos de 250.000 experiencias de 5.000 personas a traves de una app, muestra que las personas pasan el 47% de su tiempo con la mente errante (pensando en algo diferente a lo que estan haciendo) y que esa mente errante produce estados emocionales negativos con mayor frecuencia que la mente presente, independientemente de la actividad que se realice.
 
-La investigación de Jon Kabat-Zinn sobre la reducción del estres basada en la atención plena (MBSR) y la investigación neurocientifia de Richard Davidson y colegas muestra que la práctica regular de meditación produce cambios en la activación prefrontal que se asocian con mayor regulación emocional y mayor bienestar, y que estos cambios son detectables en la estructura cerebral después de ocho semanas de práctica.
+La investigación de Jon Kabat-Zinn sobre la reducción del estrés basada en la atención plena (MBSR) y la investigación neurocientifia de Richard Davidson y colegas muestra que la práctica regular de meditación produce cambios en la activación prefrontal que se asocian con mayor regulación emocional y mayor bienestar, y que estos cambios son detectables en la estructura cerebral después de ocho semanas de práctica.
 
-**Ejercicio inmediato:** Durante los próximos siete dias, práctica cinco minutos de atención plena cada mañana antes de mirar el teléfono: sientate, cierra los ojos, y pon toda la atención en la sensación de la respiración. Cuando la mente se vaya (y se ira), observalo sin juicio y vuelve a la respiración. Cinco minutos son suficientes para comenzar a desarrollar el musculo de la atención plena. El efecto se acumula con la práctica diaria.
+**Ejercicio inmediato:** Durante los próximos siete dias, práctica cinco minutos de atención plena cada mañana antes de mirar el teléfono: sientate, cierra los ojos, y pon toda la atención en la sensación de la respiración. Cuando la mente se vaya (y se ira), observalo sin juicio y vuelve a la respiración. Cinco minutos son suficientes para comenzar a desarrollar el músculo de la atención plena. El efecto se acumula con la práctica diaria.
 
 La mente que viaja constantemente al pasado o al futuro vive en el unico lugar donde la felicidad no puede encontrarse.
 
@@ -121,7 +121,7 @@ La mente que viaja constantemente al pasado o al futuro vive en el unico lugar d
 
 Ruben tiende a ver los problemas como permanentes y pervasivos. La investigación de Martin Seligman sugiere que ese estilo explicativo puede cambiarse.
 
-**El Principio del Estilo Explicativo como Habito de Interpretación que Puede Entrenarse hacía el Optimismo:** Martin Seligman propone que el estilo explicativo (la forma habitual en que las personas explican los eventos negativos) tiene tres dimensiones: la permanencia (este problema es permanente vs. temporal), la pervasividad (este problema afecta toda mi vida vs. solo este área), y la personalización (este problema es mi culpa vs. de factores externos). Las personas con estilo optimista tienden a explicar los problemas como temporales, específicos, y externos; las pesimistas como permanentes, pervasivos, e internos.
+**El Principio del Estilo Explicativo como Hábito de Interpretación que Puede Entrenarse hacía el Optimismo:** Martin Seligman propone que el estilo explicativo (la forma habitual en que las personas explican los eventos negativos) tiene tres dimensiones: la permanencia (este problema es permanente vs. temporal), la pervasividad (este problema afecta toda mi vida vs. solo este área), y la personalización (este problema es mi culpa vs. de factores externos). Las personas con estilo optimista tienden a explicar los problemas como temporales, específicos, y externos; las pesimistas como permanentes, pervasivos, e internos.
 
 La investigación de Seligman y colegas muestra que el estilo explicativo puede cambiarse a traves de la terapia cognitiva y de prácticas deliberadas de reencuadre, y que ese cambio reduce la depresión, mejora el rendimiento, y aumenta el bienestar.
 
@@ -137,7 +137,7 @@ Isabel ha observado que las personas más generosas en su empresa son frecuentem
 
 **El Principio de la Conducta Prosocial como Generadora de Bienestar para el que Ayuda, no Solo para el que Recibe:** La investigación de Elizabeth Dunn, Lara Aknin, y Michael Norton muestra que gastar dinero en otros (donaciones, regalos) produce mayor aumento del bienestar que gastar en uno mismo, y este efecto se replica en culturas muy diferentes (Canada, India, Uganda, Sudafrica). El mecanismo propuesto incluye: el aumento de la conectividad social, la mayor sensación de competencia (soy capaz de hacer algo bueno), y la distracción del foco en los propios problemas.
 
-La investigación de Stephen Post y Jill Neimark sobre los beneficios del altruismo muestra que el voluntariado regular se asocia con mayor longevidad, menor estres, menor depresión, y mayor satisfacción con la vida, con un efecto particularmente robusto en personas mayores.
+La investigación de Stephen Post y Jill Neimark sobre los beneficios del altruismo muestra que el voluntariado regular se asocia con mayor longevidad, menor estrés, menor depresión, y mayor satisfacción con la vida, con un efecto particularmente robusto en personas mayores.
 
 **Ejercicio inmediato:** Esta semana, realiza un acto de generosidad deliberado: una donación, un favor no solicitado, un tiempo dedicado a alguien que lo necesita. Observa como te sientes antes y después. No para condicionar tu generosidad al beneficio propio sino para tener evidencia personal de que el bienestar y la generosidad no son opuestos sino frecuentemente coinciden.
 
@@ -149,7 +149,7 @@ La persona que da para ser feliz descubre que la felicidad llega como subproduct
 
 Elena ha llegado al final de este libro con más herramientas y con más humildad sobre cuanto puede controlar.
 
-**El Principio de la Felicidad como práctica, no como Destino:** La investigación de Sonja Lyubomirsky sobre la felicidad sostenible muestra que las actividades intencionales (prácticas deliberadas cómo la gratitud, la amabilidad, el cuidado de las relaciones, la busqueda del flujo) son las que más impacto tienen en el bienestar a largo plazo, más que las circunstancias. Pero estas actividades requieren esfuerzo sostenido y variación: la adaptación hedonica erosiona incluso las prácticas de bienestar si se realizan de forma mecanica.
+**El Principio de la Felicidad como práctica, no como Destino:** La investigación de Sonja Lyubomirsky sobre la felicidad sostenible muestra que las actividades intencionales (prácticas deliberadas cómo la gratitud, la amabilidad, el cuidado de las relaciones, la búsqueda del flujo) son las que más impacto tienen en el bienestar a largo plazo, más que las circunstancias. Pero estas actividades requieren esfuerzo sostenido y variación: la adaptación hedonica erosiona incluso las prácticas de bienestar si se realizan de forma mecanica.
 
 La investigación de Barbara Fredrickson sobre la broaden-and-build theory muestra que las emociones positivas no son solo el resultado de una vida bien vivida sino que construyen los recursos (cognitivos, sociales, físicos) que hacen posible una vida bien vivida: son la causa y el efecto a la vez.
 

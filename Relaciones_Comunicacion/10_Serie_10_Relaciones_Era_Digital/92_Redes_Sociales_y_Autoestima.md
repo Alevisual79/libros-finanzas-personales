@@ -69,13 +69,13 @@ Curar tu feed de redes sociales no es debilidad ni evasión. Es la misma gestió
 
 ## Capítulo 5: La dopamina de los likes: el ciclo
 
-El sistema de recompensa basado en likes y reacciones genera un ciclo neuroquimico específico que puede convertirse en un patron de busqueda compulsiva de validación externa a traves de la publicación de contenido.
+El sistema de recompensa basado en likes y reacciones genera un ciclo neuroquimico específico que puede convertirse en un patron de búsqueda compulsiva de validación externa a traves de la publicación de contenido.
 
-**El Principio del Ciclo de Validación Dopaminergica:** Cada like o reacción positiva genera una pequeña liberación de dopamina que refuerza el comportamiento de publicar, generando un ciclo donde la busqueda de esta validación puede convertirse en una motivación central detras de las decisiones de que y como compartir, en lugar de que la publicación refleje una expresión autentica desconectada de esa busqueda de aprobación externa.
+**El Principio del Ciclo de Validación Dopaminergica:** Cada like o reacción positiva genera una pequeña liberación de dopamina que refuerza el comportamiento de publicar, generando un ciclo donde la búsqueda de esta validación puede convertirse en una motivación central detras de las decisiones de que y como compartir, en lugar de que la publicación refleje una expresión autentica desconectada de esa búsqueda de aprobación externa.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propia motivación al publicar contenido en redes sociales: ¿lo haces principalmente desde un deseo de compartir autenticamente, o desde una busqueda activa de validación a traves de reacciones?
+**Ejercicio inmediato:** Reflexiona sobre tu propia motivación al publicar contenido en redes sociales: ¿lo haces principalmente desde un deseo de compartir autenticamente, o desde una búsqueda activa de validación a traves de reacciones?
 
-El ciclo de dopamina de los likes puede convertir la expresión autentica en una busqueda calculada de validación externa, sin que la persona siempre note esta transformación en su propia motivación.
+El ciclo de dopamina de los likes puede convertir la expresión autentica en una búsqueda calculada de validación externa, sin que la persona siempre note esta transformación en su propia motivación.
 
 ---
 
@@ -119,7 +119,7 @@ El FOMO no es deseo genuino de una experiencia específica. Es, frecuentemente, 
 
 Períodos deliberados de pausa en el uso de redes sociales, conocidos como detox digital, han demostrado en multiples estudios mejorar significativamente el bienestar subjetivo y la autoestima de quienes los practican.
 
-**El Principio del Descanso como Restaurador de Perspectiva:** Los períodos de pausa deliberada en el uso de redes sociales permiten que los efectos acumulados de la comparación social y la busqueda de validación se disipen, restaurando una perspectiva más equilibrada sobre la propia vida que no esta constantemente contaminada por la comparación con el contenido curado de otros.
+**El Principio del Descanso como Restaurador de Perspectiva:** Los períodos de pausa deliberada en el uso de redes sociales permiten que los efectos acumulados de la comparación social y la búsqueda de validación se disipen, restaurando una perspectiva más equilibrada sobre la propia vida que no esta constantemente contaminada por la comparación con el contenido curado de otros.
 
 **Ejercicio inmediato:** Planifica un período específico de descanso de redes sociales (un fin de semana, una semana completa) y observa el impacto en tu estado de animo durante y después de ese período.
 

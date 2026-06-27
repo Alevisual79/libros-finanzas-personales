@@ -1,7 +1,7 @@
 # Miedo y Valentia
 ## Como actuar aunque tengas miedo
 
-**Serie 04: Emociones y Gestion Emocional — Libro 4 de 10**
+**Serie 04: Emociones y Gestión Emocional — Libro 4 de 10**
 
 ---
 
@@ -51,9 +51,9 @@ Esperar a no tener miedo para actuar es esperar algo que nunca llegará para las
 
 Ruben siente el miedo en el cuerpo antes de que su mente lo nombre: la aceleración del corazón, la tensión en el pecho, la sudoración en las palmas, la mente que se acelera y el estómago que se aprieta. Conocer lo que pasa en el cuerpo cuando el miedo se activa puede ayudar a manejarlo de forma más efectiva.
 
-**El Principio de la Respuesta de Estres como Recurso, no como Obstaculo:** Walter Cannon describió en 1915 la respuesta de lucha o huida: ante una amenaza percibida, el sistema simpatico se activa produciendo aumento de la frecuencia cardiaca, redistribución de sangre hacía los musculos, dilatación de las vias respiratorias, y supresión de funciones no urgentes. Estas respuestas preparan el organismo para una acción intensa e inmediata.
+**El Principio de la Respuesta de Estrés como Recurso, no como Obstaculo:** Walter Cannon describió en 1915 la respuesta de lucha o huida: ante una amenaza percibida, el sistema simpatico se activa produciendo aumento de la frecuencia cardiaca, redistribución de sangre hacía los músculos, dilatación de las vias respiratorias, y supresión de funciones no urgentes. Estas respuestas preparan el organismo para una acción intensa e inmediata.
 
-Kelly McGonigal, en La Alegria del Estres, propone que la interpretación de esta activación fisiológica tiene consecuencias sobre el rendimiento: las personas que interpretan los sintomas de la activación fisiológica como recursos (energía para actuar, preparación para la situación) muestran mejor rendimiento en situaciones de estres que las que los interpretan como señales de peligro o debilidad. Esta reinterpretación, que Alison Wood Brooks ha estudiado experimentalmente como reencuadramiento de la ansiedad en excitación, muestra que el simple etiquetado diferente (esto es excitación, no miedo) puede mejorar el rendimiento en tareas de evaluación.
+Kelly McGonigal, en La Alegria del Estrés, propone que la interpretación de esta activación fisiológica tiene consecuencias sobre el rendimiento: las personas que interpretan los sintomas de la activación fisiológica como recursos (energía para actuar, preparación para la situación) muestran mejor rendimiento en situaciones de estrés que las que los interpretan como señales de peligro o debilidad. Esta reinterpretación, que Alison Wood Brooks ha estudiado experimentalmente como reencuadramiento de la ansiedad en excitación, muestra que el simple etiquetado diferente (esto es excitación, no miedo) puede mejorar el rendimiento en tareas de evaluación.
 
 **Ejercicio inmediato:** La próxima vez que sientas la activación fisiológica del miedo antes de una situación desafiante, en lugar de intentar calmarte (que frecuentemente no funciona bien), práctica el reencuadramiento: dite a ti mismo estoy emocionado o estoy listo para esto en lugar de estoy nervioso o tengo miedo. La activación fisiológica es la misma. La interpretación es diferente, y la interpretación afecta al rendimiento.
 
@@ -165,7 +165,7 @@ Ruben envió la solicitud el lunes a las 10am, como había decidido el domingo. 
 
 ---
 
-*Libro 34 de la colección psicología Aplicada, Libro 4 de 10 de Serie 04: Emociones y Gestion Emocional.*
+*Libro 34 de la colección psicología Aplicada, Libro 4 de 10 de Serie 04: Emociones y Gestión Emocional.*
 
 ---
 

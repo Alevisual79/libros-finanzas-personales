@@ -31,7 +31,7 @@ Tu estilo de apego no te condena. Te explica. Y lo que se explica, se puede camb
 
 John Bowlby era un psicoanalista britanico que en los años 60 hizo algo que sus colegas consideraron una herejia: propuso que los seres humanos tienen una necesidad biológica de conexión, tan basica cómo la necesidad de alimento. Que los niños no se apegan a sus cuidadores por costumbre sino por supervivencia. Y que la calidad de ese apego temprano deja una huella que dura toda la vida.
 
-**El Principio del Sistema de Apego:** El apego es el sistema neurológico que regula la busqueda de proximidad con figuras de seguridad cuando percibimos amenaza. En la infancia, esas figuras son los cuidadores. En la vida adulta, son las parejas, los amigos cercanos y en ciertos momentos, los terapeutas. Cuando el sistema de apego se activa, busca conexión. Cuando la encuentra de forma consistente, aprende a confiar. Cuando no la encuentra o la encuentra de forma impredecible, desarrolla estrategias alternativas de supervivencia que llamamos apego inseguro.
+**El Principio del Sistema de Apego:** El apego es el sistema neurológico que regula la búsqueda de proximidad con figuras de seguridad cuando percibimos amenaza. En la infancia, esas figuras son los cuidadores. En la vida adulta, son las parejas, los amigos cercanos y en ciertos momentos, los terapeutas. Cuando el sistema de apego se activa, busca conexión. Cuando la encuentra de forma consistente, aprende a confiar. Cuando no la encuentra o la encuentra de forma impredecible, desarrolla estrategias alternativas de supervivencia que llamamos apego inseguro.
 
 Mary Ainsworth, colaboradora de Bowlby, diseño el experimento de la Situación Extrana para estudiar las diferentes formas en que los bebes respondian a la separación temporal de su cuidador. Los resultados revelaron cuatro patrones distintos que se observan también, con variaciones, en adultos.
 
@@ -89,7 +89,7 @@ La madre de Carlos era la misma persona que a veces le daba el abrazo que necesi
 
 **El Principio del Dilema sin Solución:** El apego desorganizado surge cuando la figura de apego es al mismo tiempo la fuente de amenaza y la fuente de seguridad. El niño esta en un dilema biológico sin solución: el instinto de apego le impulsa a buscar al cuidador cuando tiene miedo, pero ese mismo cuidador es la fuente del miedo. El resultado es un sistema de apego que no puede organizarse en ningún patron coherente.
 
-Es el estilo de apego más difícil de trabajar y el que correlaciona más fuertemente con relaciones disfuncionales en la vida adulta. Pero también es modificable con trabajo terapeutico específico.
+Es el estilo de apego más difícil de trabajar y el que correlaciona más fuertemente con relaciones disfuncionales en la vida adulta. Pero también es modificable con trabajo terapéutico específico.
 
 **Ejercicio inmediato:** Piensa en una relación en que hayas sentido que querer al otro implicaba un riesgo que no sabías gestionar. ¿Que riesgo era ese? Esa respuesta puede estar apuntando a la raiz del apego desorganizado.
 
@@ -99,7 +99,7 @@ Cuando el amor da miedo, el miedo no es al amor. Es al dolor que el amor histór
 
 ## Capítulo 6: Como los estilos de apego interactuan en pareja
 
-La combinación más común y más conflictiva en pareja es la del ansioso con el evitativo. El ansioso necesita confirmación constante. El evitativo se siente agobiado por esa necesidad y se retira. El ansioso, ante la retirada, eleva su busqueda de confirmación. El evitativo, ante la escalada, se retira más. Ninguno de los dos entiende por qué el otro actua como actua. Y los dos sufren.
+La combinación más común y más conflictiva en pareja es la del ansioso con el evitativo. El ansioso necesita confirmación constante. El evitativo se siente agobiado por esa necesidad y se retira. El ansioso, ante la retirada, eleva su búsqueda de confirmación. El evitativo, ante la escalada, se retira más. Ninguno de los dos entiende por qué el otro actua como actua. Y los dos sufren.
 
 **El Principio de la Danza de los Estilos:** Cada par de estilos de apego crea una danza característica. El ansioso-ansioso crea hipervinculos intensos con explosiones frecuentes. El evitativo-evitativo crea convivencia fria con mucha independencia y poca intimidad. El seguro con cualquier inseguro tiende a estabilizar al inseguro, aunque no sin coste. La clave es entender la danza para poder salir de ella.
 
@@ -141,13 +141,13 @@ El estilo de apego que dificilmente te ves a ti mismo, el otro lo ve con clarida
 
 ## Capítulo 9: Cambiar hacía un apego más seguro
 
-La pregunta que más hacen las personas cuando aprenden sobre estilos de apego es: ¿se puede cambiar? La respuesta es si, con matices. El estilo de apego original no desaparece. Pero se puede modificar de forma significativa con tres ingredientes: relaciones que ofrezcan experiencias correctoras, trabajo terapeutico específico y práctica deliberada de conductas asociadas al apego seguro.
+La pregunta que más hacen las personas cuando aprenden sobre estilos de apego es: ¿se puede cambiar? La respuesta es si, con matices. El estilo de apego original no desaparece. Pero se puede modificar de forma significativa con tres ingredientes: relaciones que ofrezcan experiencias correctoras, trabajo terapéutico específico y práctica deliberada de conductas asociadas al apego seguro.
 
 **El Principio de la Seguridad Adquirida:** Los investigadores llaman apego ganado o apego seguro adquirido al proceso mediante el cual una persona con apego inseguro desarrolla, a lo largo del tiempo, capacidades propias del apego seguro. Esto puede ocurrir a traves de la terapia, de relaciones de pareja o amistad suficientemente seguras y consistentes, o de ambas cosas juntas.
 
 Mario Mikulincer y Phillip Shaver han documentado que simplemente imaginar a una figura de apego seguro, aunque sea imaginaria, activa temporalmente los circuitos del apego seguro y mejora la regulación emocional. El apego seguro puede ser una práctica antes de ser un estado.
 
-**Ejercicio inmediato:** Identifica a alguien en tu vida que represente para ti la figura de apego más segura que hayas tenido o tengas. Puede ser una persona real o una figura imaginaria o histórica. Cuando te enfrentes a una situación de estres relacional, pregúntate: ¿que haría esta persona? ¿Como me veria esta persona? Esa pregunta activa el sistema de apego seguro internamente.
+**Ejercicio inmediato:** Identifica a alguien en tu vida que represente para ti la figura de apego más segura que hayas tenido o tengas. Puede ser una persona real o una figura imaginaria o histórica. Cuando te enfrentes a una situación de estrés relacional, pregúntate: ¿que haría esta persona? ¿Como me veria esta persona? Esa pregunta activa el sistema de apego seguro internamente.
 
 El apego seguro no se hereda. Se puede construir.
 

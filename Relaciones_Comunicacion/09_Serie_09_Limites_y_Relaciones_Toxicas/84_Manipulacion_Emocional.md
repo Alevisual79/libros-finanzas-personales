@@ -131,7 +131,7 @@ Tener respuestas preparadas para momentos de manipulación te permite actuar con
 
 Cuando la manipulación es un patron consistente y central en una relación, salir de esa dinámica, ya sea estableciendo límites significativos o terminando la relación completamente, frecuentemente requiere los mismos principios discutidos para relaciones toxicas en general.
 
-**El Principio de la Salida como Proceso, no como Evento Unico:** Salir de una dinámica manipuladora establecida frecuentemente requiere un proceso gradual de reconocimiento, fortalecimiento de la propia confianza en la percepción, busqueda de apoyo externo, y eventualmente acción concreta (límites firmes o distancia significativa), en lugar de esperar un momento de claridad unica que resuelva todo instantaneamente.
+**El Principio de la Salida como Proceso, no como Evento Unico:** Salir de una dinámica manipuladora establecida frecuentemente requiere un proceso gradual de reconocimiento, fortalecimiento de la propia confianza en la percepción, búsqueda de apoyo externo, y eventualmente acción concreta (límites firmes o distancia significativa), en lugar de esperar un momento de claridad unica que resuelva todo instantaneamente.
 
 **Ejercicio inmediato:** Si estas en proceso de salir de una dinámica manipuladora, identifica en que etapa de este proceso te encuentras, y que paso siguiente específico podrías dar.
 

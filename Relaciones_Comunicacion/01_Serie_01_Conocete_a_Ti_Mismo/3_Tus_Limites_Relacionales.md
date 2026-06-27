@@ -35,7 +35,7 @@ Teresa llegó a terapia diciendo que todos en su vida la aprovechaban. Su madre 
 
 **El Principio del Limite como Definición:** Un límite relacional es la declaración explícita o implícita de lo que es aceptable para ti en una relación. No es una norma que impones al otro. Es información que das al otro sobre quien eres y como necesitas ser tratado. Los límites no controlan al otro. Te definen a ti. Sin límites, los demás no saben realmente con quien estan relacionandose porque tu no se lo estas diciendo.
 
-Henry Cloud y John Townsend, autores del libro clasico sobre límites, definen estos como vallas que protegen el jardin de tu vida. No para impedir que nadie entre, sino para que lo que entra no destruya lo que has cultivado.
+Henry Cloud y John Townsend, autores del libro clásico sobre límites, definen estos como vallas que protegen el jardin de tu vida. No para impedir que nadie entre, sino para que lo que entra no destruya lo que has cultivado.
 
 **Ejercicio inmediato:** Identifica una situación actual en la que te sientas resentido, utilizado o agotado. Ese resentimiento es casi siempre una señal de que hay un límite no puesto o no respetado. No actues todavia. Solo observa la señal.
 
@@ -63,7 +63,7 @@ Sara nunca decía que no en el trabajo. Era la empleada del año tres años segu
 
 **El Principio del Coste Acumulativo:** Los costes de vivir sin límites no se pagan todos de golpe. Se pagan poco a poco, en pequeñas cuotas de resentimiento, agotamiento, salud y autenticidad perdida. Hasta que un dia el cuerpo o la mente presenta la factura completa y el importe ya no se puede pagar en cuotas.
 
-Las investigaciones sobre burnout de Christina Maslach muestran que el agotamiento emocional cronico, principal componente del sindrome, esta directamente correlacionado con la ausencia de control sobre la propia carga. La incapacidad de decir no es una de las causas más consistentes de ese agotamiento.
+Las investigaciones sobre burnout de Christina Maslach muestran que el agotamiento emocional cronico, principal componente del síndrome, esta directamente correlacionado con la ausencia de control sobre la propia carga. La incapacidad de decir no es una de las causas más consistentes de ese agotamiento.
 
 **Ejercicio inmediato:** Haz una lista de las cinco cosas a las que has dicho si en el último mes y que hubiera preferido decir no. Multiplica el tiempo y energía invertidos. Eso es lo que la falta de límites te costo en un solo mes.
 
@@ -159,7 +159,7 @@ Quien más quieres es con quien más límites necesitas. No porque el amor lo ex
 
 El mayor problema con los límites no es ponerlos. Es mantenerlos. Especialmente cuando el otro reacciona mal, cuando la culpa aparece, cuando la relación parece en riesgo. Mantener un límite cuando hay presión es uno de los ejercicios más difíciles y más transformadores que existen.
 
-**El Principio de la Consistencia del Limite:** Un límite que se mantiene cuando no hay presión pero cede cuando la hay no es un límite. Es una sugerencia. La consistencia no significa rigidez. Significa que el límite sobrevive a la incomodidad del momento, a la reacción del otro, al impulso de ceder para restaurar la paz. La consistencia se construye cómo un musculo: con repetición progresiva y tolerancia al malestar.
+**El Principio de la Consistencia del Limite:** Un límite que se mantiene cuando no hay presión pero cede cuando la hay no es un límite. Es una sugerencia. La consistencia no significa rigidez. Significa que el límite sobrevive a la incomodidad del momento, a la reacción del otro, al impulso de ceder para restaurar la paz. La consistencia se construye cómo un músculo: con repetición progresiva y tolerancia al malestar.
 
 Los estudios sobre cambio de comportamiento relacional muestran que el período crítico es el primero. Cuando alguien pone un límite nuevo con alguien con quien no lo había tenido antes, el otro suele testear el límite inmediatamente, consciente o inconscientemente. Si el límite cede en ese primer test, se refuerza el patron anterior.
 

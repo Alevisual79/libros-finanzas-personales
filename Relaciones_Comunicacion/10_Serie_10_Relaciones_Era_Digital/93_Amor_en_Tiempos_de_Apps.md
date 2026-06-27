@@ -23,7 +23,7 @@ Isabel tiene cincuenta y cuatro años y ha vuelto al mercado de citas digitales 
 
 El panorama de aplicaciones y plataformas de citas ha evolucionado significativamente, creando un ecosistema complejo con multiples opciones especializadas segun edad, intereses, o tipo de relación buscada.
 
-**El Principio de la Diversificación del Mercado de Citas:** El ecosistema actual incluye aplicaciones generalistas de amplio uso, plataformas especializadas en relaciones serías versus casuales, y comunidades de nicho organizadas alrededor de intereses, religion, o demografia específica. Esta diversificación permite mayor precisión en la busqueda, pero también genera complejidad sobre cual plataforma es más apropiada para los objetivos específicos de cada persona.
+**El Principio de la Diversificación del Mercado de Citas:** El ecosistema actual incluye aplicaciones generalistas de amplio uso, plataformas especializadas en relaciones serías versus casuales, y comunidades de nicho organizadas alrededor de intereses, religion, o demografia específica. Esta diversificación permite mayor precisión en la búsqueda, pero también genera complejidad sobre cual plataforma es más apropiada para los objetivos específicos de cada persona.
 
 **Ejercicio inmediato:** Si estas considerando usar aplicaciones de citas, investiga las opciones disponibles que mejor se alineen con tus objetivos específicos (relación sería, casual, comunidad de interés compartido) en lugar de usar la primera aplicación generica que encuentres.
 
@@ -35,7 +35,7 @@ El ecosistema de citas digitales no es uniforme. Diferentes plataformas sirven a
 
 Cada plataforma de citas digitales ha desarrollado, con el tiempo, una cultura particular de usuarios y expectativas que difiere significativamente de otras, lo cual merece consideración antes de elegir donde invertir tiempo y energía.
 
-**El Principio de la Cultura específica de Plataforma:** Las diferentes aplicaciones de citas atraen poblaciones de usuarios con expectativas y comportamientos culturalmente distintos: algunas tienden hacía conexiones más casuales, otras hacía busqueda de relaciones serías, y otras hacía demograficas específicas de edad o intereses. Entender esta cultura particular antes de invertir tiempo significativo evita expectativas desalineadas con la realidad de la plataforma elegida.
+**El Principio de la Cultura específica de Plataforma:** Las diferentes aplicaciones de citas atraen poblaciones de usuarios con expectativas y comportamientos culturalmente distintos: algunas tienden hacía conexiones más casuales, otras hacía búsqueda de relaciones serías, y otras hacía demograficas específicas de edad o intereses. Entender esta cultura particular antes de invertir tiempo significativo evita expectativas desalineadas con la realidad de la plataforma elegida.
 
 **Ejercicio inmediato:** Si usas o estas considerando usar una aplicación específica, investiga su reputación y cultura general entre usuarios similares a ti, para calibrar expectativas realistas sobre lo que esa plataforma específica tipicamente ofrece.
 
@@ -119,7 +119,7 @@ Una videollamada antes del primer encuentro presencial no es excesiva precaució
 
 A pesar de sus avances tecnologicos, las aplicaciones de citas tienen limitaciones inherentes para replicar ciertos elementos de la conexión humana que solo emergen en el contexto del encuentro presencial real.
 
-**El Principio de los Limites Tecnologicos de la Conexion:** Elementos cómo la química física genuina, la sincronia corporal, el olor, y la totalidad de las señales no verbales sutiles que se intercambian en presencia física directa, no pueden ser evaluados completamente a traves de ningún medio digital, independientemente de cuanto avance la tecnología de comunicación. Esto explica por qué algunas conexiones que parecian prometedoras digitalmente no se sostienen en el encuentro presencial.
+**El Principio de los Limites Tecnologicos de la Conexión:** Elementos cómo la química física genuina, la sincronia corporal, el olor, y la totalidad de las señales no verbales sutiles que se intercambian en presencia física directa, no pueden ser evaluados completamente a traves de ningún medio digital, independientemente de cuanto avance la tecnología de comunicación. Esto explica por qué algunas conexiones que parecian prometedoras digitalmente no se sostienen en el encuentro presencial.
 
 **Ejercicio inmediato:** Si has experimentado la discrepancia entre una conexión digital prometedora y un encuentro presencial decepcionante, recuerda que esta discrepancia refleja limitaciones reales del medio digital, no necesariamente un error de evaluación de tu parte.
 
@@ -129,13 +129,13 @@ Las aplicaciones de citas pueden facilitar el encuentro inicial, pero no pueden 
 
 ## Capítulo 10: Integrar lo digital en una busqueda de pareja real
 
-El uso efectivo de las herramientas digitales de citas requiere integrarlas cómo un componente de una estrategia más amplia de busqueda de conexión, no cómo la totalidad de esa estrategia.
+El uso efectivo de las herramientas digitales de citas requiere integrarlas cómo un componente de una estrategia más amplia de búsqueda de conexión, no cómo la totalidad de esa estrategia.
 
-**El Principio de la Integración Estratégica:** Las personas que tienen mejores resultados en su busqueda de pareja a traves de medios digitales son las que integran estas herramientas con otras estrategias de conexión (actividades sociales presenciales, redes de amigos, intereses compartidos en comunidad), en lugar de depender exclusivamente de las aplicaciones como unica via de busqueda.
+**El Principio de la Integración Estratégica:** Las personas que tienen mejores resultados en su búsqueda de pareja a traves de medios digitales son las que integran estas herramientas con otras estrategias de conexión (actividades sociales presenciales, redes de amigos, intereses compartidos en comunidad), en lugar de depender exclusivamente de las aplicaciones como unica via de búsqueda.
 
 **Ejercicio inmediato:** Si estas buscando pareja activamente, evalua si tu estrategia actual depende exclusivamente de aplicaciones digitales, o si la complementas con otras formas de conexión presencial que podrían ampliar tus oportunidades.
 
-Las aplicaciones de citas son una herramienta valiosa, pero funcionan mejor como parte de una estrategia más amplia, no cómo la totalidad de tu busqueda de conexión.
+Las aplicaciones de citas son una herramienta valiosa, pero funcionan mejor como parte de una estrategia más amplia, no cómo la totalidad de tu búsqueda de conexión.
 
 ---
 

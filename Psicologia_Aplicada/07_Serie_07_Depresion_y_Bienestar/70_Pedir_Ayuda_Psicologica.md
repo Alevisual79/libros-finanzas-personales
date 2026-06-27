@@ -65,11 +65,11 @@ Lo que sabes de ti mismo puedes trabajarlo. Lo que no sabes te trabaja a ti.
 
 Isabel no sabe como elegir un psicologo y esa incertidumbre ha retrasado el proceso durante meses.
 
-**El Principio de la Alianza Terapeutica como el Predictor más Robusto del éxito de la Psicoterapia:** La investigación de Bruce Wampold y colegas sobre los factores curativos en la psicoterapia muestra que el factor que más predice el éxito (más que el modelo terapeutico específico) es la calidad de la alianza terapeutica: la relación de confianza, colaboración, y acuerdo sobre los objetivos entre el terapeuta y el cliente.
+**El Principio de la Alianza Terapéutica como el Predictor más Robusto del éxito de la Psicoterapia:** La investigación de Bruce Wampold y colegas sobre los factores curativos en la psicoterapia muestra que el factor que más predice el éxito (más que el modelo terapéutico específico) es la calidad de la alianza terapéutica: la relación de confianza, colaboración, y acuerdo sobre los objetivos entre el terapeuta y el cliente.
 
-Esto significa que el criterio más importante para elegir un psicologo no es solo su formación o su modelo terapeutico sino la calidad de la relación que se establece. La recomendación práctica: en las primeras sesiones, evalua si te sientes comprendido (el terapeuta entiende lo que describes), si sientes confianza (puedes decir cosas difíciles sin temer el juicio), y si la orientación del trabajo tiene sentido para ti (entiendes lo que se está haciendo y por qué). Si alguno de esos elementos falta después de tres o cuatro sesiones, considera cambiar de psicologo.
+Esto significa que el criterio más importante para elegir un psicologo no es solo su formación o su modelo terapéutico sino la calidad de la relación que se establece. La recomendación práctica: en las primeras sesiones, evalua si te sientes comprendido (el terapeuta entiende lo que describes), si sientes confianza (puedes decir cosas difíciles sin temer el juicio), y si la orientación del trabajo tiene sentido para ti (entiendes lo que se está haciendo y por qué). Si alguno de esos elementos falta después de tres o cuatro sesiones, considera cambiar de psicologo.
 
-**Ejercicio inmediato:** Si estas buscando psicologo, los criterios de busqueda más útiles son: formación específica en el área que te concierne (depresión, ansiedad, trauma, relaciones), modeló terapeutico con evidencia para tu problema (TCC para ansiedad y depresión, EMDR para trauma, TCC-I para insomnio, TFE para problemas de relación), y disponibilidad para explicar su enfoque. Los portales de busqueda de psicologos (como PsicoPedia o la web del Colegio de Psicologos) filtran por especialidad y ubicación.
+**Ejercicio inmediato:** Si estas buscando psicologo, los criterios de búsqueda más útiles son: formación específica en el área que te concierne (depresión, ansiedad, trauma, relaciones), modeló terapéutico con evidencia para tu problema (TCC para ansiedad y depresión, EMDR para trauma, TCC-I para insomnio, TFE para problemas de relación), y disponibilidad para explicar su enfoque. Los portales de búsqueda de psicologos (como PsicoPedia o la web del Colegio de Psicologos) filtran por especialidad y ubicación.
 
 El psicologo con quien conectas bien y te ayuda es el psicologo adecuado para ti. No el más famoso ni el más caro.
 
@@ -79,7 +79,7 @@ El psicologo con quien conectas bien y te ayuda es el psicologo adecuado para ti
 
 Ruben tiene la primera sesión concertada para la semana siguiente y no sabe que va a ocurrir.
 
-**El Principio de la Primera Sesión como Evaluación Mutua, no Examen:** La primera sesión de psicoterapia tiene dos funciones: la evaluación del terapeuta (recoger información para entender el problema y formular una hipotesis de trabajo) y la evaluación del cliente (ver si el terapeuta es alguien con quien puede trabajar). Entenderla como evaluación mutua en lugar de examen reduce la ansiedad que frecuentemente produce.
+**El Principio de la Primera Sesión como Evaluación Mutua, no Examen:** La primera sesión de psicoterapia tiene dos funciones: la evaluación del terapeuta (recoger información para entender el problema y formular una hipótesis de trabajo) y la evaluación del cliente (ver si el terapeuta es alguien con quien puede trabajar). Entenderla como evaluación mutua en lugar de examen reduce la ansiedad que frecuentemente produce.
 
 En la primera sesión, el psicologo preguntara sobre el motivo de consulta (que te ha traido aquí hoy?), la historia del problema (desde cuando, como ha evolucionado, que lo mejora o empeora), y el contexto de vida (trabajo, relaciones, historia personal relevante). No es necesario tener todo perfectamente ordenado: el psicologo esta acostumbrado a trabajar con información incompleta y desordenada.
 
@@ -93,7 +93,7 @@ La primera sesión no tiene que ser perfecta. Tiene que ser suficientemente hone
 
 Elena lleva seis sesiones en terapia y no nota avance. Se pregunta si debería continuar.
 
-**El Principio de la Evaluación Regular del Progreso como práctica Terapeutica Recomendada:** La investigación de Scott Miller y colegas sobre la efectividad de la psicoterapia muestra que los terapeutas que monitoritan regularmente el progreso con medidas estandarizadas y que ajustan su enfoque cuando el progreso es insuficiente producen significativamente mejores resultados que los que no lo hacen.
+**El Principio de la Evaluación Regular del Progreso como práctica Terapéutica Recomendada:** La investigación de Scott Miller y colegas sobre la efectividad de la psicoterapia muestra que los terapeutas que monitoritan regularmente el progreso con medidas estandarizadas y que ajustan su enfoque cuando el progreso es insuficiente producen significativamente mejores resultados que los que no lo hacen.
 
 La comunicación sobre el progreso (o la falta de el) es una responsabilidad compartida del terapeuta y el cliente. Si después de seis a ocho sesiones no se nota ningún avance, es apropiado plantearlo directamente al terapeuta: ¿noto que no estoy avanzando. Podemos hablar sobre si el enfoque actual es el más adecuado para mi situación? Un buen terapeuta recibira esa pregunta como información útil y no cómo una crítica personal.
 

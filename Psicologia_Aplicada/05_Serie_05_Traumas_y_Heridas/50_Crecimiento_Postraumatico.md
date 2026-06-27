@@ -23,9 +23,9 @@ Ruben no habría elegido lo que le ocurrio. La crisis que pensó que lo destruir
 
 El crecimiento postraumatico es uno de los conceptos más malinterpretados de la psicología positiva.
 
-**El Principio del Crecimiento Postraumatico como Coexistente con el Sufrimiento:** Richard Tedeschi y Lawrence Calhoun, psicologos de la Universidad de Carolina del Norte que acunaron el terminó en 1996, lo definen como el cambio psicológico positivo que emerge del proceso de lucha con circunstancias altamente desafiantes. Dos aspectos son fundamentales: emerge del proceso de lucha (no de la experiencia traumatica en si), y puede coexistir con el dolor y el TEPT (no los reemplaza).
+**El Principio del Crecimiento Postraumatico como Coexistente con el Sufrimiento:** Richard Tedeschi y Lawrence Calhoun, psicologos de la Universidad de Carolina del Norte que acunaron el terminó en 1996, lo definen como el cambio psicológico positivo que emerge del proceso de lucha con circunstancias altamente desafiantes. Dos aspectos son fundamentales: emerge del proceso de lucha (no de la experiencia traumática en si), y puede coexistir con el dolor y el TEPT (no los reemplaza).
 
-El crecimiento postraumatico no es una respuesta universal: no todas las personas que atraviesan experiencias traumaticas lo experimentan. Y no es una narrativa obligatoria.
+El crecimiento postraumatico no es una respuesta universal: no todas las personas que atraviesan experiencias traumáticas lo experimentan. Y no es una narrativa obligatoria.
 
 **Ejercicio inmediato:** Reflexiona sobre una experiencia difícil que hayas atravesado y que ya tiene cierta distancia temporal. Hay algo en quien eres ahora que no estaria ahí sin esa experiencia? No para justificar la experiencia sino para reconocer lo que produjó.
 
@@ -69,7 +69,7 @@ Elena tiende a pensar mucho sobre sus experiencias difíciles. Se pregunta si es
 
 La rumiación deliberada es uno de los predictores más robustos del crecimiento postraumatico. La rumiación intrusiva que no evoluciona hacía la deliberada se asocia más con el TEPT persistente.
 
-**Ejercicio inmediato:** Distingue en tu experiencia entre el pensamiento intrusivo y el pensamiento deliberado. Aumentar la proporción del segundo, a traves de la escritura reflexiva o de la conversación terapeutica, puede facilitar el procesamiento y el crecimiento.
+**Ejercicio inmediato:** Distingue en tu experiencia entre el pensamiento intrusivo y el pensamiento deliberado. Aumentar la proporción del segundo, a traves de la escritura reflexiva o de la conversación terapéutica, puede facilitar el procesamiento y el crecimiento.
 
 La diferencia entre el pensamiento que te persigue y el que tu diriges es la diferencia entre el trauma que te controla y el trauma que estas procesando.
 
@@ -81,7 +81,7 @@ Isabel descubrió que el apoyo que recibía de ciertas personas durante su crisi
 
 **El Principio de las Relaciones de Apoyo como Facilitadoras del Crecimiento:** La investigación de Tedeschi y Calhoun muestra que el apoyo social de calidad facilita el crecimiento postraumatico. Las personas que tienen acceso a personas que escuchan sin juzgar y que pueden sostener la incertidumbre muestran mayor crecimiento que las que atraviesan el proceso en aislamiento.
 
-La relación terapeutica es un contexto especialmente poderoso: un terapeuta que puede tolerar el sufrimiento sin intentar resolverlo prematuramente, que facilita el procesamiento reflexivo, proporciona un andamio para el crecimiento.
+La relación terapéutica es un contexto especialmente poderoso: un terapeuta que puede tolerar el sufrimiento sin intentar resolverlo prematuramente, que facilita el procesamiento reflexivo, proporciona un andamio para el crecimiento.
 
 **Ejercicio inmediato:** Identifica una persona de tu vida que tiene la capacidad de escuchar tus experiencias difíciles sin intentar resolverlas. Esa persona es un recurso para el crecimiento postraumatico. Cultiva esa relación deliberadamente.
 

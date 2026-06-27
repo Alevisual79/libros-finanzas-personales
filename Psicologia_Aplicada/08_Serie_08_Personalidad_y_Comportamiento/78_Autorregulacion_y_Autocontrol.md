@@ -25,11 +25,11 @@ La autorregulación no es supresión del deseo. Es algo más inteligente.
 
 **El Principio de la Autorregulación como Alineación entre el Comportamiento y los Valores, no Supresión:** Roy Baumeister y colegas definen la autorregulación cómo la capacidad de modificar los propios respuestas (pensamientos, emociones, impulsos, comportamientos) para alinearlos con los objetivos y valores propios. No es la supresión de todos los deseos o impulsos sino la capacidad de gestionar los que interfieren con lo que genuinamente se quiere.
 
-La investigación de June Price Tangney y colegas muestra que las personas con mayor capacidad de autorregulación no son las que suprimen más sus emociones o que tienen mayor fuerza de voluntad en el sentido de resistir tentaciones. Son las que frecuentemente necesitan menos resistir porque han diseñado sus vidas de forma que las tentaciones aparecen menos: organizan mejor sus entornos, evitan situaciones donde la tentación es alta, y crean habitos que producen el comportamiento deseado automáticamente.
+La investigación de June Price Tangney y colegas muestra que las personas con mayor capacidad de autorregulación no son las que suprimen más sus emociones o que tienen mayor fuerza de voluntad en el sentido de resistir tentaciones. Son las que frecuentemente necesitan menos resistir porque han diseñado sus vidas de forma que las tentaciones aparecen menos: organizan mejor sus entornos, evitan situaciones donde la tentación es alta, y crean hábitos que producen el comportamiento deseado automáticamente.
 
 **Ejercicio inmediato:** Reflexiona sobre una situación donde frecuentemente haces algo diferente de lo que quieres hacer. Reflexiona: ¿es un problema de fuerza de voluntad en el momento o es un problema de arquitectura de la situación (la situación facilita el comportamiento no deseado y dificulta el deseado)? La segunda es mucho más manejable.
 
-La autorregulación que se basa solo en resistir impulsos en el momento agota. La que rediseña los entornos y los habitos trabaja con el cerebro en lugar de contra el.
+La autorregulación que se basa solo en resistir impulsos en el momento agota. La que rediseña los entornos y los hábitos trabaja con el cerebro en lugar de contra el.
 
 ---
 
@@ -65,11 +65,11 @@ El autocontrol que juzgas como falta de carácter podría ser una respuesta raci
 
 Elena hace malas decisiones cuando esta emocionalmente activada. La regulación emocional y la autorregulación son la misma cosa.
 
-**El Principio de la Regulación Emocional como Componente Central de la Autorregulación:** James Gross propone que la regulación emocional (la capacidad de modificar la intensidad, duración, o tipo de emoción que se experimenta) es parte integral de la autorregulación. Las personas con mayor capacidad de regulación emocional toman mejores decisiones bajo estres y muestran mayor bienestar.
+**El Principio de la Regulación Emocional como Componente Central de la Autorregulación:** James Gross propone que la regulación emocional (la capacidad de modificar la intensidad, duración, o tipo de emoción que se experimenta) es parte integral de la autorregulación. Las personas con mayor capacidad de regulación emocional toman mejores decisiones bajo estrés y muestran mayor bienestar.
 
 La investigación sobre el hot/cold empathy gap de George Loewenstein muestra que cuando las personas estan en estados emocionales de alta activación (hambre, enfado, excitación sexual, miedo), subestiman sistemáticamente el efecto que ese estado tendrá sobre sus decisiones. Por eso las decisiones tomadas en estados emocionales intensos frecuentemente se lamentan en los estados emocionales más frios.
 
-**Ejercicio inmediato:** Para las tres áreas donde tomas decisiones que luego lamentas, reflexiona: ¿en que estado emocional tomas esas decisiones? ¿Alta activación (estres, enfado, ansiedad, euforia) o baja activación (calma, reflexión)? Si la respuesta es alta activación, establece una regla de no-decidir: en estados de alta activación emocional, esperar al menos veinte minutos antes de actuar.
+**Ejercicio inmediato:** Para las tres áreas donde tomas decisiones que luego lamentas, reflexiona: ¿en que estado emocional tomas esas decisiones? ¿Alta activación (estrés, enfado, ansiedad, euforia) o baja activación (calma, reflexión)? Si la respuesta es alta activación, establece una regla de no-decidir: en estados de alta activación emocional, esperar al menos veinte minutos antes de actuar.
 
 La decisión que toma la emoción no es tu decisión. Es la decisión de la emoción con tu nombre.
 
@@ -109,7 +109,7 @@ Elena tiene tantas opciones en su vida que la fatiga de decisión le quita la ca
 
 **El Principio de la Fatiga de Decisión como Reducción de la Calidad de las Decisiones con el Volumen:** La investigación de Roy Baumeister, Kathleen Vohs, y colegas sobre la fatiga de decisión muestra que la calidad de las decisiones se deteriora con el número de decisiones tomadas: los jueces de libertad condicional son más propensos a conceder libertad a primera hora de la mañana y después de los descansos que al final de las sesiones.
 
-La implicación para la autorregulación: reducir el número de decisiones que requieren esfuerzo cognitivo (mediante habitos, rutinas, y sistemas) libera capacidad para las decisiones que realmente importan.
+La implicación para la autorregulación: reducir el número de decisiones que requieren esfuerzo cognitivo (mediante hábitos, rutinas, y sistemas) libera capacidad para las decisiones que realmente importan.
 
 **Ejercicio inmediato:** Identifica las tres áreas de tu vida donde tomas más decisiones repetitivas (que comer, que ropa ponerte, como organizar el trabajo). Para cada una, diseña un sistema o una regla que elimine la decisión: un menu semanal fijo, un sistema de ropa capsule, un bloque de tiempo fijo para las tareas recurrentes. La reducción de decisiones triviales aumenta la calidad de las decisiones que importan.
 
@@ -135,7 +135,7 @@ El espacio entre lo que sientes y lo que haces es donde eres libre. Sin ese espa
 
 Isabel ha llegado a entender que el autocontrol que le cuesta más es el que va en contra de quien quiere ser.
 
-**El Principio de la Identidad cómo la Forma Más Robusta de Autorregulación:** La investigación de Wendy Wood y colegas sobre los habitos muestra que los comportamientos más sostenibles son los que estan alineados con la identidad de la persona. Cuando el comportamiento es coherente con la identidad, no requiere autocontrol: es simplemente ser quien se es.
+**El Principio de la Identidad cómo la Forma Más Robusta de Autorregulación:** La investigación de Wendy Wood y colegas sobre los hábitos muestra que los comportamientos más sostenibles son los que estan alineados con la identidad de la persona. Cuando el comportamiento es coherente con la identidad, no requiere autocontrol: es simplemente ser quien se es.
 
 James Clear propone que el cambio de identidad es la forma más potente de cambio de comportamiento precisamente porque elimina la necesidad del autocontrol: la persona que se identifica como no-fumador no necesita resistir el impulso de fumar cada vez; simplemente no lo hace porque no es lo que ella hace.
 
@@ -161,7 +161,7 @@ La dureza contigo mismo cuando fallas no te hace mejor. Te hace más probable de
 
 ## Epílogo
 
-Ruben elimino las apps de compras del movil y solo accede a ellas desde el ordenador. No fue una cuestion de voluntad: fue una cuestion de arquitectura. Sus compras impulsivas disminuyeron un 70% en tres semanas. La voluntad no cambio. El entorno cambio, y el entorno hizo el trabajo que la voluntad no podía sostener sola. Lo mismo hizo con la ropa de deporte la noche anterior, con el movil en otra habitación al dormir, y con el agua en el escritorio en lugar del refresco. Cada cambio de entorno hizo un poco más facil ser la persona que quería ser. Sin que tuviera que esforzarse en ser esa persona cada vez desde cero.
+Ruben elimino las apps de compras del movil y solo accede a ellas desde el ordenador. No fue una cuestión de voluntad: fue una cuestión de arquitectura. Sus compras impulsivas disminuyeron un 70% en tres semanas. La voluntad no cambio. El entorno cambio, y el entorno hizo el trabajo que la voluntad no podía sostener sola. Lo mismo hizo con la ropa de deporte la noche anterior, con el movil en otra habitación al dormir, y con el agua en el escritorio en lugar del refresco. Cada cambio de entorno hizo un poco más facil ser la persona que quería ser. Sin que tuviera que esforzarse en ser esa persona cada vez desde cero.
 
 ---
 

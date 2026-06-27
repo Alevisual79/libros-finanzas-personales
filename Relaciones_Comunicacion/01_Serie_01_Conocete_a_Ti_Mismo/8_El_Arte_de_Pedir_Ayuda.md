@@ -43,7 +43,7 @@ La barrera para pedir ayuda es casi siempre más alta en tu cabeza que en la rea
 
 ## Capítulo 2: La trampa de la autosuficiencia
 
-El curriculum de Isabel incluye treinta años resolviendo problemas que no eran suyos. también incluye treinta años de hipertensión, insomnio y esa fatiga de fondo que el descanso no arregla. Isabel llama a esto ser responsable. Su médico lo llama estres cronico por sobrecarga.
+El curriculum de Isabel incluye treinta años resolviendo problemas que no eran suyos. también incluye treinta años de hipertensión, insomnio y esa fatiga de fondo que el descanso no arregla. Isabel llama a esto ser responsable. Su médico lo llama estrés cronico por sobrecarga.
 
 **El Principio del Coste de la Autosuficiencia Total:** La autosuficiencia es una virtud hasta que se convierte en un mecanismo de defensa. La persona que nunca pide ayuda no está siendo fuerte. Está siendo inflexible. Está pagando el coste de la sobrecarga sola cuando podría distribuirlo. Y ademas está privando a los demás del placer de ayudarla, que es un placer real y una parte importante de lo que hace que las relaciones se sientan reciprocas.
 
@@ -127,7 +127,7 @@ El apoyo mutuo es lo que convierte una relación en algo sostenible a largo plaz
 
 ## Capítulo 8: Pedir ayuda en el trabajo sin perder credibilidad
 
-En el trabajo, pedir ayuda tiene un estigma específico: el de la incompetencia. La mayoría de profesionales prefieren luchar solos con un problema durante horas antes que preguntar a un colega por miedo a parecer menos capaces. El resultado es trabajo de menor calidad, mayor tiempo invertido y mayor estres, todo para evitar una percepción negativa que probablemente no ocurriria.
+En el trabajo, pedir ayuda tiene un estigma específico: el de la incompetencia. La mayoría de profesionales prefieren luchar solos con un problema durante horas antes que preguntar a un colega por miedo a parecer menos capaces. El resultado es trabajo de menor calidad, mayor tiempo invertido y mayor estrés, todo para evitar una percepción negativa que probablemente no ocurriria.
 
 **El Principio de la Petición Estratégica en el Trabajo:** Las investigaciones de Alison Wood Brooks muestran que pedir consejo, a diferencia de lo que se suele temer, aumenta la percepción de competencia del que pide, no la reduce. Pedir consejo activa en el otro el sentido de ser valioso y útil, lo que genera una percepción positiva hacía quien pregunta. El estigma de pedir ayuda en el trabajo es en gran parte una percepción interna, no una realidad externa.
 

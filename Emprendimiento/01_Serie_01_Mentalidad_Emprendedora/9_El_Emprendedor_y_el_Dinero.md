@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos tiene dificultades para cobrar lo que su trabajo vale. Cada vez que tiene que poner precio a sus servicios, siente que podría perder el cliente si pide demasiado. Lucia sabe que su empresa es rentable pero tiene una relación de ansiedad con el dinero que no consigue entender del todo: revisa las cuentas bancarias tres veces al dia y no puede dormir bien cuando hay facturas pendientes de cobró. Marcos viene de un salario alto y ahora tiene que manejar el flujo de caja irregular del emprendimiento, con meses de ingresos altos y meses de ingresos bajos que le producen un nivel de estres que no sabe muy bien como gestionar. Los tres necesitan lo mismo: una relación más sana y más inteligente con el dinero.
+Carlos tiene dificultades para cobrar lo que su trabajo vale. Cada vez que tiene que poner precio a sus servicios, siente que podría perder el cliente si pide demasiado. Lucia sabe que su empresa es rentable pero tiene una relación de ansiedad con el dinero que no consigue entender del todo: revisa las cuentas bancarias tres veces al dia y no puede dormir bien cuando hay facturas pendientes de cobró. Marcos viene de un salario alto y ahora tiene que manejar el flujo de caja irregular del emprendimiento, con meses de ingresos altos y meses de ingresos bajos que le producen un nivel de estrés que no sabe muy bien como gestionar. Los tres necesitan lo mismo: una relación más sana y más inteligente con el dinero.
 
 ---
 
@@ -53,7 +53,7 @@ Lucia ha tenido que desarrollar una nueva relación con la irregularidad del flu
 
 **El Principio del Flujo de Caja como el Vital Sign del Negocio que Merece Atención Regular sin Producir Ansiedad Diaria que Distorsiona las Decisiones:** La investigación de Steven Kaplan sobre las causas de fracaso empresarial muestra que la mayoría de los negocios que fracasan no lo hacen porque son malos negocios sino porque se quedan sin efectivo antes de poder llegar al punto de rentabilidad. El flujo de caja (el dinero que entra y sale del negocio en cada período) es el vital sign del negocio, más importante incluso que la rentabilidad en las fases tempranas.
 
-La ansiedad del flujo de caja (la tensión psicológica producida por la irregularidad de los ingresos emprendedores vs. la regularidad de los gastos) es una de las fuentes de estres más comunes del emprendedor y puede producir decisiones financieras suboptimas: aceptar clientes malos por necesidad de ingresos, sacrificar inversión en crecimiento por miedo a quedarse sin efectivo, o al contrario, gastar sin sistema en los meses de mayores ingresos.
+La ansiedad del flujo de caja (la tensión psicológica producida por la irregularidad de los ingresos emprendedores vs. la regularidad de los gastos) es una de las fuentes de estrés más comunes del emprendedor y puede producir decisiones financieras suboptimas: aceptar clientes malos por necesidad de ingresos, sacrificar inversión en crecimiento por miedo a quedarse sin efectivo, o al contrario, gastar sin sistema en los meses de mayores ingresos.
 
 **Ejercicio inmediato:** Implementa un sistema de monitoreo de flujo de caja semanal de quince minutos: cada lunes, revisa el efectivo disponible, los ingresos esperados en las próximas cuatro semanas, y los gastos comprometidos en el mismo período. Ese vistazo semanal te da la información necesaria sin la ansiedad de la revisión diaria que produce sensación de crisis continua aunque la situación real sea manejable.
 
@@ -123,7 +123,7 @@ Carlos ha tenido que combatir la mentalidad de escasez financiera que le llevaba
 
 **El Principio de la Mentalidad de Abundancia Financiera como Actitud que Facilita la Toma de Riesgos Calibrados y la Inversión en Crecimiento que la Mentalidad de Escasez Bloquea:** La investigación de Sendhil Mullainathan y Eldar Shafir sobre la psicología de la escasez muestra que la experiencia subjetiva de escasez (económica o de tiempo) estrecha el enfoque cognitivo hacía el problema inmediato (el tunel) a expensas de la perspectiva de largo plazo. Los emprendedores en dificultades financieras toman decisiones de corto plazo que frecuentemente empeoran la situación a largo plazo, no porque sean irracionales sino porque la escasez literalmente estrecha el campo de visión.
 
-La diferencia entre la mentalidad de escasez y la de abundancia no es ignorar los problemas financieros reales sino no dejar que el estres que producen comprometa la calidad de las decisiones que los resolverian.
+La diferencia entre la mentalidad de escasez y la de abundancia no es ignorar los problemas financieros reales sino no dejar que el estrés que producen comprometa la calidad de las decisiones que los resolverian.
 
 **Ejercicio inmediato:** En el próximo momento en que tomes una decisión financiera desde el miedo (bajar el precio, aceptar un cliente malo, sacrificar inversión necesaria), práctica la pregunta de abundancia: ¿si supiera con certeza que el negocio va a sobrevivir y prosperar, que decisión tomaria en esta situación? La respuesta a esa pregunta frecuentemente es diferente de la que produce el miedo y frecuentemente es la decisión correcta.
 
@@ -145,7 +145,7 @@ El error financiero que cometes porque nadie te advirtio que lo cometieras es co
 
 ## Capítulo 10: Integrar la relación con el dinero: del comportamiento reactivo al sistema financiero deliberado
 
-Marcos ha llegado a entender que su relación con el dinero como emprendedor no es una cuestion de personalidad sino de sistema.
+Marcos ha llegado a entender que su relación con el dinero como emprendedor no es una cuestión de personalidad sino de sistema.
 
 **El Principio del Sistema Financiero Deliberado cómo la Estructura que Reemplaza los Comportamientos Reactivos del Dinero por Comportamientos Intencionales que Sirven al Negocio:** Mike Michalowicz propone Profit First cómo un sistema financiero específico: multiples cuentas bancarias (ingresos, impuestos, beneficio, gastos operativos) con porcentajes predefinidos que se transfieren automáticamente en cada ingreso. La estructura automática elimina la necesidad de tomar decisiones financieras correctas en cada momento: el sistema decide por ti en base a los principios que estableciste cuando lo diseñaste.
 
@@ -159,7 +159,7 @@ El sistema financiero que diseñas cuando las cosas van bien es el que te salva 
 
 ## Epílogo
 
-Carlos subio sus precios un 30%. Perdio dos clientes. Gano tres nuevos con el precio más alto como señal de mayor calidad. Su facturación total subio un 25% con el mismo número de clientes y significativamente menos estres por la sensación de no ser suficientemente valorado. La subida de precios no había sido una decisión financiera: había sido una decisión psicológica sobre lo que creía que valia su trabajo. Y cambiar esa creencia había cambiado el número. No al reves.
+Carlos subio sus precios un 30%. Perdio dos clientes. Gano tres nuevos con el precio más alto como señal de mayor calidad. Su facturación total subio un 25% con el mismo número de clientes y significativamente menos estrés por la sensación de no ser suficientemente valorado. La subida de precios no había sido una decisión financiera: había sido una decisión psicológica sobre lo que creía que valia su trabajo. Y cambiar esa creencia había cambiado el número. No al reves.
 
 ---
 

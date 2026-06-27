@@ -23,13 +23,13 @@ Carlos lleva seis meses trabajando en su producto antes de hablar con un solo cl
 
 El orden importa. Y la mayoría lo hace al reves.
 
-**El Principio de la Validación Previa como el Paso que la Mayoria de los Emprendedores Omite y que Determina si el Negocio Tendra Demanda Real:** Steve Blank propuso en The Four Steps to the Epiphany que la diferencia fundamental entre una startup y una empresa establecida es que una startup es una organización en busqueda de un modelo de negocio, no en ejecución de uno. Esa busqueda requiere validación del cliente antes de la construcción del producto: saber que el problema existe, que la solución propuesta lo resuelve, y que hay suficientes clientes dispuestos a pagar por esa resolución.
+**El Principio de la Validación Previa como el Paso que la Mayoria de los Emprendedores Omite y que Determina si el Negocio Tendra Demanda Real:** Steve Blank propuso en The Four Steps to the Epiphany que la diferencia fundamental entre una startup y una empresa establecida es que una startup es una organización en búsqueda de un modelo de negocio, no en ejecución de uno. Esa búsqueda requiere validación del cliente antes de la construcción del producto: saber que el problema existe, que la solución propuesta lo resuelve, y que hay suficientes clientes dispuestos a pagar por esa resolución.
 
 La investigación de CB Insights sobre las causas del fracaso de startups muestra que la razón número uno (citada en el 42% de los casos) es la falta de necesidad de mercado: el producto fue construido pero no había suficientes personas con el problema que resolvía o dispuestas a pagar el precio necesario para que el negocio fuera viable.
 
 **Ejercicio inmediato:** Antes de cualquier otra acción sobre tu idea de negocio, reflexiona sobre estas tres preguntas: ¿el problema que resuelvo, es un problema que la gente experimenta regularmente (no ocasionalmente)? ¿La persona que lo experimenta, lo intenta resolver activamente (lo que indica que le importa lo suficiente para buscar solución)? ¿Hay suficientes personas en esa situación para construir un negocio viable? Si la respuesta a cualquiera de las tres es no o no lo se, la validación es tu primera prioridad.
 
-La idea que no ha hablado con el mercado es solo una hipotesis. Y las hipotesis no pagan nóminas.
+La idea que no ha hablado con el mercado es solo una hipótesis. Y las hipótesis no pagan nóminas.
 
 ---
 
@@ -49,13 +49,13 @@ La conversación con el cliente que no quieres tener antes de construir es la qu
 
 ## Capítulo 3: El MVP: la versión mínima viable que prueba lo que más importa
 
-Carlos ha aprendido que el MVP no es el producto más pequeño que puedes construir. Es el experimento que prueba la hipotesis más importante.
+Carlos ha aprendido que el MVP no es el producto más pequeño que puedes construir. Es el experimento que prueba la hipótesis más importante.
 
-**El Principio del MVP como Experimento Diseñado para Probar la Hipotesis de Mayor Riesgo con el Menor Coste Posible en Lugar de como Versión Reducida del Producto Final:** Eric Ries, en The Lean Startup, define el MVP (Minimum Viable Product) cómo la versión del producto que permite comenzar el ciclo de aprendizaje construir-medir-aprender con el menor esfuerzo posible. La hipotesis de mayor riesgo es la suposición cuya falsedad destruiria el modelo de negocio: si esa suposición es falsa, todo lo demás es irrelevante.
+**El Principio del MVP como Experimento Diseñado para Probar la Hipótesis de Mayor Riesgo con el Menor Coste Posible en Lugar de como Versión Reducida del Producto Final:** Eric Ries, en The Lean Startup, define el MVP (Minimum Viable Product) cómo la versión del producto que permite comenzar el ciclo de aprendizaje construir-medir-aprender con el menor esfuerzo posible. La hipótesis de mayor riesgo es la suposición cuya falsedad destruiria el modelo de negocio: si esa suposición es falsa, todo lo demás es irrelevante.
 
 Dropbox, antes de construir el producto, lanzo un video que explicaba como funcionaria. Las personas que vieron el video y se registraron en la lista de espera validaron que el problema (la dificultad de sincronizar archivos entre dispositivos) era real y que la solución propuesta era la que el mercado buscaba. Esa validación, con cero lineas de código, fue suficiente para justificar la construcción.
 
-**Ejercicio inmediato:** Para tu idea de negocio, identifica la hipotesis de mayor riesgo: la suposición que, si fuera falsa, cambiaría todo. Diseña el experimento más pequeño y más rápido que podría validarla o refutarla. Ese experimento, no el producto completo, es tu primer MVP. El coste de ese experimento debería ser medido en dias y cientos de euros, no en meses y miles.
+**Ejercicio inmediato:** Para tu idea de negocio, identifica la hipótesis de mayor riesgo: la suposición que, si fuera falsa, cambiaría todo. Diseña el experimento más pequeño y más rápido que podría validarla o refutarla. Ese experimento, no el producto completo, es tu primer MVP. El coste de ese experimento debería ser medido en dias y cientos de euros, no en meses y miles.
 
 El MVP que más miedo te da lanzar probablemente es el que más necesitas lanzar.
 
@@ -93,7 +93,7 @@ Si no tienes competidores, o tienes una idea brillante que nadie ha pensado, o t
 
 Lucia ha aprendido que un buen producto para un mercado muy pequeño puede ser un negocio inviable aunque sea un éxito dentro de ese mercado.
 
-**El Principio del Mercado Total Accesible cómo la Metrica que Determina si el Tamano del Negocio Que Quieres Construir es Posible Dentro de la Oportunidad que el Mercado Ofrece:** La distinción clasica del análisis de mercado distingue entre el TAM (Total Addressable Market, el total del mercado si capturas el 100%), el SAM (Serviceable Addressable Market, la parte del TAM que puedes servir con tu modelo de negocio), y el SOM (Serviceable Obtainable Market, la parte realista del SAM que puedes capturar en el horizonte temporal de tu plan). El tamaño del SOM determina el tamaño del negocio que puedes construir.
+**El Principio del Mercado Total Accesible cómo la Metrica que Determina si el Tamano del Negocio Que Quieres Construir es Posible Dentro de la Oportunidad que el Mercado Ofrece:** La distinción clásica del análisis de mercado distingue entre el TAM (Total Addressable Market, el total del mercado si capturas el 100%), el SAM (Serviceable Addressable Market, la parte del TAM que puedes servir con tu modelo de negocio), y el SOM (Serviceable Obtainable Market, la parte realista del SAM que puedes capturar en el horizonte temporal de tu plan). El tamaño del SOM determina el tamaño del negocio que puedes construir.
 
 La investigación de Marc Andreessen sobre los criterios de inversión en empresas de alto crecimiento muestra que el mercado es el factor más importante: un equipo mediocre con un gran mercado tiene más probabilidades de éxito que un equipo excelente con un mercado pequeño, porque el mercado grande perdona muchos errores mientras que el mercado pequeño no permite ninguno.
 
@@ -107,11 +107,11 @@ El mercado que es demasiado pequeño para tu ambición no se hace más grande po
 
 Marcos ha aprendido que un producto que la gente quiere no garantiza un modelo de negocio que funcione.
 
-**El Principio de la Validación del Modelo de Negocio como Diferente de la Validación del Producto porque Incluye la Verificación de que Los números Funcionan:** Alexander Osterwalder, en Business Model Generation, propone el Business Model Canvas como herramienta para mapear y validar los nueve componentes del modelo de negocio: el segmento de clientes, la propuesta de valor, los canales, las relaciones con clientes, las fuentes de ingresos, los recursos clave, las actividades clave, los socios clave, y la estructura de costes. Cada uno de esos nueve componentes es una hipotesis que necesita validación.
+**El Principio de la Validación del Modelo de Negocio como Diferente de la Validación del Producto porque Incluye la Verificación de que Los números Funcionan:** Alexander Osterwalder, en Business Model Generation, propone el Business Model Canvas como herramienta para mapear y validar los nueve componentes del modelo de negocio: el segmento de clientes, la propuesta de valor, los canales, las relaciones con clientes, las fuentes de ingresos, los recursos clave, las actividades clave, los socios clave, y la estructura de costes. Cada uno de esos nueve componentes es una hipótesis que necesita validación.
 
-La investigación de Bill Sahlman sobre los errores más comunes en los planes de negocio de Harvard Business School muestra que la hipotesis más frecuentemente incorrecta no es la del producto sino la del canal de distribución (como llegar al cliente) y la del coste de adquisición (cuanto cuesta conseguir cada cliente). Los modelos de negocio que no pueden adquirir clientes de forma rentable fracasan independientemente de la calidad del producto.
+La investigación de Bill Sahlman sobre los errores más comunes en los planes de negocio de Harvard Business School muestra que la hipótesis más frecuentemente incorrecta no es la del producto sino la del canal de distribución (como llegar al cliente) y la del coste de adquisición (cuanto cuesta conseguir cada cliente). Los modelos de negocio que no pueden adquirir clientes de forma rentable fracasan independientemente de la calidad del producto.
 
-**Ejercicio inmediato:** Para tu idea de negocio, valida los números fundamentales del modelo: si adquirir un cliente cuesta X (coste de adquisición), y ese cliente genera Y en margen bruto a lo largo de su vida con tu empresa (valor del cliente), el modelo es viable si Y es significativamente mayor que X. Calcula una estimación inicial de esos dos números con los datos que tienes disponibles. Si no puedes estimarlos, esa es la primera hipotesis que necesitas validar.
+**Ejercicio inmediato:** Para tu idea de negocio, valida los números fundamentales del modelo: si adquirir un cliente cuesta X (coste de adquisición), y ese cliente genera Y en margen bruto a lo largo de su vida con tu empresa (valor del cliente), el modelo es viable si Y es significativamente mayor que X. Calcula una estimación inicial de esos dos números con los datos que tienes disponibles. Si no puedes estimarlos, esa es la primera hipótesis que necesitas validar.
 
 Un producto que la gente quiere pero que no puede pagarte suficiente para cubrir el coste de conseguirlos es un hobby, no un negocio.
 
@@ -149,11 +149,11 @@ La certeza que necesitas para lanzar nunca llega. La confianza suficiente para i
 
 Marcos ha llegado a entender que la validación no termina con el lanzamiento. Es el proceso permanente del negocio inteligente.
 
-**El Principio de la Validación como Proceso Continuo del Negocio en Lugar de Fase Previa al Lanzamiento porque el Mercado Cambia y las Hipotesis que Funcionan Hoy Pueden No Funcionar Mañana:** La investigación de Michael Tushman y Charles O'Reilly sobre la ambidestria organizacional muestra que las empresas que prosperan en el largo plazo mantienen simultaneamente la explotación de lo que funciona actualmente y la exploración de lo que podría funcionar en el futuro. La validación continua es el mecanismo de esa exploración.
+**El Principio de la Validación como Proceso Continuo del Negocio en Lugar de Fase Previa al Lanzamiento porque el Mercado Cambia y las Hipótesis que Funcionan Hoy Pueden No Funcionar Mañana:** La investigación de Michael Tushman y Charles O'Reilly sobre la ambidestria organizacional muestra que las empresas que prosperan en el largo plazo mantienen simultaneamente la explotación de lo que funciona actualmente y la exploración de lo que podría funcionar en el futuro. La validación continua es el mecanismo de esa exploración.
 
-Amazon tiene una cultura de experimentación permanente: cada nueva iniciativa (desde Amazon Prime hasta AWS) comienza cómo una hipotesis que se valida antes de la inversión total. Esa cultura de validación continua es lo que les ha permitido expandirse a mercados radicalmente diferentes con mayor probabilidad de éxito que la mayoría.
+Amazon tiene una cultura de experimentación permanente: cada nueva iniciativa (desde Amazon Prime hasta AWS) comienza cómo una hipótesis que se valida antes de la inversión total. Esa cultura de validación continua es lo que les ha permitido expandirse a mercados radicalmente diferentes con mayor probabilidad de éxito que la mayoría.
 
-**Ejercicio inmediato:** Diseña el sistema de validación continua de tu negocio: ¿que hipotesis estas probando actualmente sobre tu cliente, tu producto, y tu modelo de negocio? ¿Que metricas usas para saber si esas hipotesis son correctas? ¿Con que frecuencia revisas esas metricas y ajustas las hipotesis? Un negocio que tiene respuestas claras a esas tres preguntas es un negocio que aprende más rápido que su competencia.
+**Ejercicio inmediato:** Diseña el sistema de validación continua de tu negocio: ¿que hipótesis estas probando actualmente sobre tu cliente, tu producto, y tu modelo de negocio? ¿Que metricas usas para saber si esas hipótesis son correctas? ¿Con que frecuencia revisas esas metricas y ajustas las hipótesis? Un negocio que tiene respuestas claras a esas tres preguntas es un negocio que aprende más rápido que su competencia.
 
 El negocio que valida continuamente no necesita tener siempre razón. Solo necesita corregir el rumbo antes de que el error sea demasiado caro.
 
@@ -161,7 +161,7 @@ El negocio que valida continuamente no necesita tener siempre razón. Solo neces
 
 ## Epílogo
 
-Carlos tuvo la primera conversión con un potencial cliente en la cuarta semana de su proyecto. Esa conversation reveló que el problema que creía estar resolviendo no era el problema principal de su cliente. El problema principal era diferente: relacionado pero diferente. Si hubiera construido el producto completo antes de esa conversation, habría invertido seis meses en la dirección ligeramente equivocada. En su lugar, el conversation ocurrio en la semana cuatro. Ajusto la hipotesis, siguio validando, y a los tres meses tenía un MVP que respondia al problema real. La conversation incomoda que había postpuesto durante semanas fue el acto más valioso que hizo en todo el proceso.
+Carlos tuvo la primera conversión con un potencial cliente en la cuarta semana de su proyecto. Esa conversation reveló que el problema que creía estar resolviendo no era el problema principal de su cliente. El problema principal era diferente: relacionado pero diferente. Si hubiera construido el producto completo antes de esa conversation, habría invertido seis meses en la dirección ligeramente equivocada. En su lugar, el conversation ocurrio en la semana cuatro. Ajusto la hipótesis, siguio validando, y a los tres meses tenía un MVP que respondia al problema real. La conversation incomoda que había postpuesto durante semanas fue el acto más valioso que hizo en todo el proceso.
 
 ---
 

@@ -21,7 +21,7 @@ Isabel recibe un mensaje de su jefe que dice solo necesito hablar contigo mañan
 
 ## Capítulo 1: Que es la catastrofización y por qué el cerebro la práctica
 
-La catastrofización es el habito cognitivo de anticipar el peor resultado posible en una situación ambigua o incierta, frecuentemente con una viveza y un detalle que la convierte en una experiencia casi tan real como el evento que imagina.
+La catastrofización es el hábito cognitivo de anticipar el peor resultado posible en una situación ambigua o incierta, frecuentemente con una viveza y un detalle que la convierte en una experiencia casi tan real como el evento que imagina.
 
 **El Principio del Sesgo de Negatividad como Origen Evolutivo:** El cerebro humano tiene una asimetria fundamental en el procesamiento de las amenazas potenciales versus las oportunidades potenciales: los estímulos negativos reciben más procesamiento, se recuerdan con más viveza, y generan respuestas de mayor intensidad que los estímulos positivos equivalentes. Rick Hanson, neuropsicólogo que ha estudiado este sesgo extensamente, lo describe como cerebro de velcro para lo negativo y teflon para lo positivo: las malas experiencias se adhieren con facilidad y las buenas resbalan. Este sesgo fue adaptativo en el entorno ancestral donde subestimar una amenaza podía costar la vida, pero sobreestimar una oportunidad raramente costaba tanto.
 
@@ -29,7 +29,7 @@ La catastrofización es la expresión extrema de este sesgo: no solo se procesa 
 
 **Ejercicio inmediato:** Recuerda los últimos tres pensamientos catastroficos que tuviste. ¿Cuantos de esos escenarios temidos se materializaron realmente? Esta simple revisión histórica comienza a calibrar el sistema de predicción del cerebro contra la evidencia de sus propias predicciones pasadas.
 
-Tu mente imagina catastrofes con mucho más frecuencia de la que el mundo las produce. Esa estadistica personal es información útil.
+Tu mente imagina catastrofes con mucho más frecuencia de la que el mundo las produce. Esa estadística personal es información útil.
 
 ---
 
@@ -37,7 +37,7 @@ Tu mente imagina catastrofes con mucho más frecuencia de la que el mundo las pr
 
 Elena tiene pensamientos catastroficos sobre su salud. Un dolor de cabeza que normalmente ignoraria se convierte en la señal de un tumor cerebral. Una fatiga pasajera evoca enfermedades graves. Este ciclo tiene una estructura predecible que, una vez vista, permite interrumpirlo antes de que alcance su punto de mayor intensidad.
 
-**El Principio del Ciclo Amigdalar de la Catastrofización:** El ciclo del pensamiento catastrofico sigue una secuencia identificable: un estímulo ambiguo o levemente amenazante activa la amigdala, que genera una primera evaluación rápida de amenaza (puede ser algo malo). Esta activación inicial produce busqueda de más información confirmatoria (el pensamiento catastrofico comienza a construirse), que genera más activación emocional, que produce más busqueda confirmatoria en la misma dirección. El ciclo puede escalar desde una incomodidad leve hasta un nivel de ansiedad intensa en minutos, especialmente por la noche cuando los recursos del Sistema 2 para la evaluación crítica son más bajos.
+**El Principio del Ciclo Amigdalar de la Catastrofización:** El ciclo del pensamiento catastrofico sigue una secuencia identificable: un estímulo ambiguo o levemente amenazante activa la amigdala, que genera una primera evaluación rápida de amenaza (puede ser algo malo). Esta activación inicial produce búsqueda de más información confirmatoria (el pensamiento catastrofico comienza a construirse), que genera más activación emocional, que produce más búsqueda confirmatoria en la misma dirección. El ciclo puede escalar desde una incomodidad leve hasta un nivel de ansiedad intensa en minutos, especialmente por la noche cuando los recursos del Sistema 2 para la evaluación crítica son más bajos.
 
 Dennis Greenberger y Christine Padesky, en su manual de TCC ampliamente utilizado, identifican la calificación de la credibilidad del pensamiento en el momento de la catastrofización (del cero al cien) cómo un primer paso clinicamente útil: muchos pensamientos catastroficos, cuando se examina su credibilidad honestamente, son percibidos por la persona como menos probables de lo que la intensidad emocional que producen sugeriria.
 
@@ -53,7 +53,7 @@ Ruben tiene sus propios patrones catastroficos específicos. No todos los pensam
 
 **El Principio de la Taxonomia Cognitiva como Guia de Intervención:** Aaron Beck y sus colegas identificaron distorsiones cognitivas específicas que subyacen a los patrones catastroficos. La catastrofización propiamente dicha implica magnificar la probabilidad o el impacto de un evento negativo. La sobregeneralización extiende un evento negativo específico a una conclusión global. La lectura mental asume conocer lo que otros piensan de forma negativa. La predicción del futuro asume que el resultado negativo es inevitable. La magnificación y minimización amplifica los aspectos negativos y reduce los positivos. El razonamiento emocional concluye que algo es verdad porque se siente como verdad.
 
-Cada uno de estos patrones tiene un cuestionamiento cognitivo específico que lo aborda: la catastrofización se trabaja con evaluación realista de probabilidades, la sobregeneralización con busqueda de excepciones al patron, la lectura mental con reconocimiento de la imposibilidad de saber con certeza lo que otro piensa, y el razonamiento emocional con la distinción entre sentir algo y que sea verdad.
+Cada uno de estos patrones tiene un cuestionamiento cognitivo específico que lo aborda: la catastrofización se trabaja con evaluación realista de probabilidades, la sobregeneralización con búsqueda de excepciones al patron, la lectura mental con reconocimiento de la imposibilidad de saber con certeza lo que otro piensa, y el razonamiento emocional con la distinción entre sentir algo y que sea verdad.
 
 **Ejercicio inmediato:** Identifica el tipo de pensamiento catastrofico que más frecuentemente tienes. Luego escribe el cuestionamiento específico que se aplica a ese tipo: si es predicción del futuro, pregunta que evidencia real tengo de que ese resultado es inevitable. Si es lectura mental, pregunta como puedo saber con certeza lo que esa persona piensa.
 
@@ -113,7 +113,7 @@ Isabel catastrofiza especialmente ante situaciones inciertas. No sabe el resulta
 
 **El Principio de la Catastrofización como Respuesta a la Intolerancia a la Incertidumbre:** Michel Dugas y su equipo documentaron que la intolerancia a la incertidumbre (la tendencia a percibir la incertidumbre como inaceptable e intolerable) predice de forma robusta tanto la frecuencia cómo la intensidad de los pensamientos catastroficos. El catastrofico no construye el peor escenario por pesimismo. Lo construye porque un escenario concreto, aunque malo, es menos angustiante que la indefinición: saber que va a pasar mal al menos permite prepararse. La incertidumbre no permite ninguna preparación.
 
-Esta comprensión sugiere que trabajar la tolerancia a la incertidumbre es más eficaz para la catastrofización cronica que trabajar solo los pensamientos catastroficos individuales. Las técnicas de tolerancia a la incertidumbre incluyen la exposición deliberada a situaciones de resultado incierto sin las conductas de busqueda de certeza habituales.
+Esta comprensión sugiere que trabajar la tolerancia a la incertidumbre es más eficaz para la catastrofización cronica que trabajar solo los pensamientos catastroficos individuales. Las técnicas de tolerancia a la incertidumbre incluyen la exposición deliberada a situaciones de resultado incierto sin las conductas de búsqueda de certeza habituales.
 
 **Ejercicio inmediato:** Identifica una situación incierta actual. Identifica las conductas que usas para reducir la incertidumbre (buscar información excesiva, pedir reaseguración repetida, planificar compulsivamente todos los escenarios). Elige una de esas conductas y abstente de ella hoy. La incomodidad que produce es la tolerancia que estas entrenando.
 

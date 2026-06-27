@@ -23,7 +23,7 @@ Ruben cree que la disciplina es para personas con una fuerza de voluntad que el 
 
 La disciplina no es la opuesta de la libertad. En su forma más útil, es su condición.
 
-**El Principio de la Disciplina como Automatización de las Decisiones Correctas que Libera Recursos Cognitivos para lo que Importa:** Jocko Willink, exoficial de la Marina de EEUU, propuso la idea de que la disciplina es libertad en sentido práctico: las personas con alta disciplina no toman las decisiones difíciles (levantarse, hacer ejercicio, trabajar en lo importante) cada dia porque las han convertido en habitos automáticos. Esa automatización libera los recursos cognitivos y emocionales para las decisiones que realmente requieren deliberación.
+**El Principio de la Disciplina como Automatización de las Decisiones Correctas que Libera Recursos Cognitivos para lo que Importa:** Jocko Willink, exoficial de la Marina de EEUU, propuso la idea de que la disciplina es libertad en sentido práctico: las personas con alta disciplina no toman las decisiones difíciles (levantarse, hacer ejercicio, trabajar en lo importante) cada dia porque las han convertido en hábitos automáticos. Esa automatización libera los recursos cognitivos y emocionales para las decisiones que realmente requieren deliberación.
 
 La investigación de Roy Baumeister sobre el agotamiento del ego muestra que la toma de decisiones es costosa cognitivamente: cuantas más decisiones se toman en un dia, peor es la calidad de las decisiones posteriores. Las personas con alta disciplina reducen el número de decisiones que tienen que tomar deliberadamente automatizando las que son rutinarias y previsibles.
 
@@ -39,7 +39,7 @@ Elena ha intentado usar la fuerza de voluntad para ser más disciplinada y ha fr
 
 **El Principio de la Disciplina como Superadora de la Fuerza de Voluntad porque no Depende de Ella:** La investigación de Baumeister sobre el ego depletion (agotamiento del ego) propuso que la fuerza de voluntad es un recurso limitado que se agota con el uso. Aunque investigaciones posteriores han matizado este modelo (las creencias sobre el agotamiento del ego tienen efectos sobre el agotamiento real), el consenso es claro: depender de la fuerza de voluntad como estrategia principal de autoregulación es una estrategia poco fiable a largo plazo.
 
-La investigación de Wendy Wood sobre los habitos muestra que las personas con mayor autocontrol no son las que tienen mayor fuerza de voluntad sino las que tienen mejores habitos: su comportamiento esta más automatizado, lo que significa que necesitan menos fuerza de voluntad para mantenerlo. La autodisciplina excelente reduce la necesidad de fuerza de voluntad en lugar de requerirla más.
+La investigación de Wendy Wood sobre los hábitos muestra que las personas con mayor autocontrol no son las que tienen mayor fuerza de voluntad sino las que tienen mejores hábitos: su comportamiento esta más automatizado, lo que significa que necesitan menos fuerza de voluntad para mantenerlo. La autodisciplina excelente reduce la necesidad de fuerza de voluntad en lugar de requerirla más.
 
 **Ejercicio inmediato:** Para el comportamiento que has intentado mantener con fuerza de voluntad sin éxito, reflexiona: ¿que cambio de entorno o rutina podría hacer ese comportamiento más automático y menos dependiente de la decisión consciente? El objetivo no es resistir la tentación con más fuerza sino diseñar el entorno para que la tentación aparezca menos.
 
@@ -49,15 +49,15 @@ La batalla que ganas rediseñando el campo es más facil que la que ganas resist
 
 ## Capítulo 3: Los habitos como arquitectura de la disciplina
 
-Isabel ha llegado a entender que los habitos son el mecanismo por el que la disciplina se vuelve sostenible.
+Isabel ha llegado a entender que los hábitos son el mecanismo por el que la disciplina se vuelve sostenible.
 
-**El Principio de los Habitos cómo la Infraestructura que Hace la Disciplina Sostenible sin Esfuerzo Constante:** James Clear en Atomic Habits propone que la autodisciplina que produce resultados a largo plazo no se basa en motivación o fuerza de voluntad sino en sistemas: la arquitectura de habitos que hace que los comportamientos correctos sean los más faciles y los incorrectos los más difíciles. Los cuatro pasos del bucle del habito (señal, anhelo, rutina, recompensa) son los puntos de intervention donde el sistema puede diseñarse.
+**El Principio de los Hábitos cómo la Infraestructura que Hace la Disciplina Sostenible sin Esfuerzo Constante:** James Clear en Atomic Habits propone que la autodisciplina que produce resultados a largo plazo no se basa en motivación o fuerza de voluntad sino en sistemas: la arquitectura de hábitos que hace que los comportamientos correctos sean los más faciles y los incorrectos los más difíciles. Los cuatro pasos del bucle del hábito (señal, anhelo, rutina, recompensa) son los puntos de intervention donde el sistema puede diseñarse.
 
-La investigación de David Neal y Wendy Wood muestra que el contexto es más poderoso que la intención en la determinación de los habitos: las personas que se mudaron a un nuevo apartamento o ciudad cambiaban sus habitos más facilmente que las que permanecian en el mismo contexto, porque el nuevo contexto no tenía las señales que desencadenaban los habitos anteriores.
+La investigación de David Neal y Wendy Wood muestra que el contexto es más poderoso que la intención en la determinación de los hábitos: las personas que se mudaron a un nuevo apartamento o ciudad cambiaban sus hábitos más facilmente que las que permanecian en el mismo contexto, porque el nuevo contexto no tenía las señales que desencadenaban los hábitos anteriores.
 
-**Ejercicio inmediato:** Para el habito que quieres construir, diseña el sistema en los cuatro puntos del bucle: ¿cual es la señal que lo desencadenara (un momento del dia, un lugar específico, un evento previo)? ¿Cual es la rutina específica (no vaga sino concreta al nivel de dónde y cuando exactamente)? ¿Cual es la recompensa inmediata que lo seguirá (algo genuinamente agradable)? El diseño del sistema es el trabajo que la mayoría de las personas no hace, y por eso los habitos no duran.
+**Ejercicio inmediato:** Para el hábito que quieres construir, diseña el sistema en los cuatro puntos del bucle: ¿cual es la señal que lo desencadenara (un momento del dia, un lugar específico, un evento previo)? ¿Cual es la rutina específica (no vaga sino concreta al nivel de dónde y cuando exactamente)? ¿Cual es la recompensa inmediata que lo seguirá (algo genuinamente agradable)? El diseño del sistema es el trabajo que la mayoría de las personas no hace, y por eso los hábitos no duran.
 
-El habito que falla no es un problema de carácter. Es un problema de diseño del sistema.
+El hábito que falla no es un problema de carácter. Es un problema de diseño del sistema.
 
 ---
 
@@ -65,13 +65,13 @@ El habito que falla no es un problema de carácter. Es un problema de diseño de
 
 Ruben suele empezar los proyectos con alta intensidad y abandonarlos cuando la intensidad disminuye. La investigación sugiere que la estrategia correcta es la inversa.
 
-**El Principio de la Consistencia como Superior a la Intensidad para el Cambio de Comportamiento a Largo Plazo:** La investigación sobre la formación de habitos de Phillippa Lally muestra que la consistencia (hacer algo cada dia, aunque sea en la versión mínima posible) es más predictiva de la formación del habito que la intensidad (hacerlo en sesiones largas e intensas con gaps entre ellas). El habito que se forma es el que el cerebro ejecuta de forma automática, y la automatización requiere repetición consistente más que esfuerzo masivo.
+**El Principio de la Consistencia como Superior a la Intensidad para el Cambio de Comportamiento a Largo Plazo:** La investigación sobre la formación de hábitos de Phillippa Lally muestra que la consistencia (hacer algo cada dia, aunque sea en la versión mínima posible) es más predictiva de la formación del hábito que la intensidad (hacerlo en sesiones largas e intensas con gaps entre ellas). El hábito que se forma es el que el cerebro ejecuta de forma automática, y la automatización requiere repetición consistente más que esfuerzo masivo.
 
-James Clear propone la regla de nunca-faltes-dos-veces: cuando se pierde un dia del habito (inevitable), el objetivo es recuperarse al dia siguiente antes que mantener el streak perfecto. Un dia perdido no daña el habito. Dos dias seguidos empieza a debilitar la automatización.
+James Clear propone la regla de nunca-faltes-dos-veces: cuando se pierde un dia del hábito (inevitable), el objetivo es recuperarse al dia siguiente antes que mantener el streak perfecto. Un dia perdido no daña el hábito. Dos dias seguidos empieza a debilitar la automatización.
 
-**Ejercicio inmediato:** Para un habito que quieres construir, define la versión mínima viable del habito: la cantidad tan pequeña que sería ridiculo no hacerla incluso en el dia con menos tiempo y energía. Para el ejercicio, podrían ser cinco minutos de caminata. Para la escritura, podría ser una frase. Para la meditación, podría ser dos minutos. La versión mínima viable es el seguro contra el abandono en los dias difíciles.
+**Ejercicio inmediato:** Para un hábito que quieres construir, define la versión mínima viable del hábito: la cantidad tan pequeña que sería ridiculo no hacerla incluso en el dia con menos tiempo y energía. Para el ejercicio, podrían ser cinco minutos de caminata. Para la escritura, podría ser una frase. Para la meditación, podría ser dos minutos. La versión mínima viable es el seguro contra el abandono en los dias difíciles.
 
-El habito que haces en la versión mínima los dias malos es el que se convierte en habito. El que solo haces cuando tienes ganas es una aspiración intermitente.
+El hábito que haces en la versión mínima los dias malos es el que se convierte en hábito. El que solo haces cuando tienes ganas es una aspiración intermitente.
 
 ---
 
@@ -79,7 +79,7 @@ El habito que haces en la versión mínima los dias malos es el que se convierte
 
 Elena ha llegado a entender que la disciplina en las relaciones es una forma de respeto y amor que va más allá de las palabras.
 
-**El Principio de la Fiabilidad Relacional como Forma de Disciplina que Construye Confianza y Profundidad en los Vinculos:** John Gottman y su investigación sobre las relaciones de pareja muestra que la confianza (la base de las relaciones de larga duración) se construye principalmente a traves de la consistencia en los momentos pequeños: estar presente cuando el otro lo necesita, cumplir los compromisos pequeños antes que los grandes, responder de forma predecible en los momentos de tensión. La disciplina relacional no es romantica en el sentido habitual: es la práctica diaria de estar donde se dijo que se estaria.
+**El Principio de la Fiabilidad Relacional como Forma de Disciplina que Construye Confianza y Profundidad en los Vínculos:** John Gottman y su investigación sobre las relaciones de pareja muestra que la confianza (la base de las relaciones de larga duración) se construye principalmente a traves de la consistencia en los momentos pequeños: estar presente cuando el otro lo necesita, cumplir los compromisos pequeños antes que los grandes, responder de forma predecible en los momentos de tensión. La disciplina relacional no es romantica en el sentido habitual: es la práctica diaria de estar donde se dijo que se estaria.
 
 La investigación de Sue Johnson sobre el apego adulto muestra que la seguridad en el apego (sentir que el otro está disponible y respondera) es la base del amor adulto duradero, y que esa seguridad se construye a traves de la consistencia comportamental a lo largo del tiempo.
 
@@ -121,7 +121,7 @@ El autocuidado que sacrificas cuando más lo necesitas es exactamente cuando má
 
 Ruben ha aprendido que la mejor disciplina incluye el placer, no lo excluye.
 
-**El Principio de la Integración del Placer en los Sistemas de Disciplina como Requisito de la Sostenibilidad a Largo Plazo:** La investigación de Katy Milkman sobre los nudges de comportamiento y el cambio de habitos incluye su trabajo sobre la tentación bundling (bundling de tentaciones): la estrategia de vincular actividades que producen placer inmediato con actividades que producen beneficio a largo plazo pero que son menos placenteras inmediatamente. El ejemplo prototipico: solo escuchar la serie que te gusta mientras haces ejercicio.
+**El Principio de la Integración del Placer en los Sistemas de Disciplina como Requisito de la Sostenibilidad a Largo Plazo:** La investigación de Katy Milkman sobre los nudges de comportamiento y el cambio de hábitos incluye su trabajo sobre la tentación bundling (bundling de tentaciones): la estrategia de vincular actividades que producen placer inmediato con actividades que producen beneficio a largo plazo pero que son menos placenteras inmediatamente. El ejemplo prototipico: solo escuchar la serie que te gusta mientras haces ejercicio.
 
 La investigación de Gabriele Oettingen sobre la psicología de los objetivos muestra que la visualización positiva pura (imaginar el resultado deseado sin obstaculos) reduce la motivación para el trabajo necesario, mientras que la visualización que incluye los obstaculos y los planes para superarlos (WOOP: Wish, Outcome, Obstacle, Plan) produce mayor acción.
 

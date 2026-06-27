@@ -19,7 +19,7 @@ Tres relaciones de pareja. Tres personas completamente distintas en personalidad
 
 Si en cada relación aparece el mismo problema con distinta cara, el denominador común no es la otra persona. Eres tu. No como culpa. Como información.
 
-Los patrones relacionales no son fatalidad ni destino. Son habitos. Y los habitos, aunque los más profundos cuestan más, se pueden cambiar. Pero solo se pueden cambiar cuando se ven. Y la mayoría de personas nunca ven sus patrones porque los patrones, por definición, se sienten como normalidad.
+Los patrones relacionales no son fatalidad ni destino. Son hábitos. Y los hábitos, aunque los más profundos cuestan más, se pueden cambiar. Pero solo se pueden cambiar cuando se ven. Y la mayoría de personas nunca ven sus patrones porque los patrones, por definición, se sienten como normalidad.
 
 Cuando Elena estaba en su primera relación disfuncional, no sabía que era un patron. Cuando estaba en la segunda, sospechaba que algo se repetia. Cuando llegó la tercera, ya era imposible negarlo.
 
@@ -61,9 +61,9 @@ No aprendiste tus patrones. Los absorbiste. Esa es la diferencia entre culpa y r
 
 Freud describió en 1920 algo que llamaba compulsión a la repetición: la tendencia humana a reproducir, en el presente, situaciones dolorosas del pasado. No por masoquismo. Por el impulso inconsciente de encontrar, esta vez, un final diferente. La persona que tuvo un padre crítico busca inconscientemente parejas críticas. No porque le gusten las críticas. Porque en el fondo espera que esta vez el crítico acabe validando.
 
-**El Principio del Final Alternativo:** La repetición compulsiva no es autodestructiva en su intención. Es un intento, siempre frustrado, de resolver un conflicto antiguo en un escenario nuevo. El problema es que el conflicto antiguo no se puede resolver en el escenario nuevo. Solo se puede resolver en la fuente: en el trabajo terapeutico sobre la herida original. Buscar ese final alternativo en relaciones externas es como intentar curar una infección con analgesia.
+**El Principio del Final Alternativo:** La repetición compulsiva no es autodestructiva en su intención. Es un intento, siempre frustrado, de resolver un conflicto antiguo en un escenario nuevo. El problema es que el conflicto antiguo no se puede resolver en el escenario nuevo. Solo se puede resolver en la fuente: en el trabajo terapéutico sobre la herida original. Buscar ese final alternativo en relaciones externas es como intentar curar una infección con analgesia.
 
-Las investigaciones en neurociencia de Bessel van der Kolk confirman que los patrones de repetición traumatica son neurológicos ademas de psicológicos: el cerebro literalmente recrea las condiciones de la herida original en la esperanza de que esta vez el resultado sea diferente.
+Las investigaciones en neurociencia de Bessel van der Kolk confirman que los patrones de repetición traumática son neurológicos ademas de psicológicos: el cerebro literalmente recrea las condiciones de la herida original en la esperanza de que esta vez el resultado sea diferente.
 
 **Ejercicio inmediato:** Piensa en la relación más difícil de tu vida. ¿Que es lo que más te dolio de esa relación? Ahora piensa: ¿en tu historia más temprana, hay alguien con quien sientes que algo similar no se resolvio bien? La conexión entre esas dos preguntas revela la repetición compulsiva en acción.
 

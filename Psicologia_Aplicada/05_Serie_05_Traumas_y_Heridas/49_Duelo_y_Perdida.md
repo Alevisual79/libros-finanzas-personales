@@ -37,7 +37,7 @@ No existe una forma correcta de hacer el duelo. El que tienes, aunque no sea el 
 
 Ruben no esperaba que el duelo por su amigo fallecido fuera tan físico: el agotamiento, el dolor en el pecho, la dificultad para concentrarse.
 
-**El Principio del Duelo como Estado biológico que Afecta al Cuerpo Entero:** Mary-Frances O'Connor, neurocientifica que ha investigado el duelo con neuroimagen, documenta que el duelo activa regiones cerebrales asociadas tanto con el dolor físico como con el dolor social: la corteza insular anterior y la corteza cingulada anterior se activan también durante el duelo. El dolor del duelo es literal, no solo metaforico.
+**El Principio del Duelo como Estado biológico que Afecta al Cuerpo Entero:** Mary-Frances O'Connor, neurocientífica que ha investigado el duelo con neuroimagen, documenta que el duelo activa regiones cerebrales asociadas tanto con el dolor físico como con el dolor social: la corteza insular anterior y la corteza cingulada anterior se activan también durante el duelo. El dolor del duelo es literal, no solo metaforico.
 
 El duelo también produce efectos fisiológicos documentados: elevación del cortisol y la adrenalina, alteración del sueño, cambios en el apetito, y supresión temporal del sistema inmune.
 

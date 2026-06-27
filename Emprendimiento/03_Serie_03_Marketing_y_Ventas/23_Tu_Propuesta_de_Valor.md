@@ -125,7 +125,7 @@ Lucia ha aprendido a articular su propuesta de valor de forma diferente en las c
 
 La investigación de Neil Rackham sobre las conversaciones de ventas de mayor conversión muestra que el vendedor efectivo adapta la presentación del producto al contexto específico del cliente usando las palabras y los ejemplos que más resuenan con la situación particular de ese cliente.
 
-**Ejercicio inmediato:** Para tu próxima conversación de ventas, práctica la propuesta de valor en tres versiones de treinta segundos cada una: la versión para el cliente que tiene el problema urgente (enfasis en la rapidez de la solución), la del cliente que busca la opción más segura (enfasis en la fiabilidad y los casos de éxito), y la del cliente que busca el mejor valor por dinero (enfasis en el retorno de la inversión). Tener las tres versiones preparadas te permite adaptar el mensaje al tipo de cliente sin improvisar.
+**Ejercicio inmediato:** Para tu próxima conversación de ventas, práctica la propuesta de valor en tres versiones de treinta segundos cada una: la versión para el cliente que tiene el problema urgente (énfasis en la rapidez de la solución), la del cliente que busca la opción más segura (énfasis en la fiabilidad y los casos de éxito), y la del cliente que busca el mejor valor por dinero (énfasis en el retorno de la inversión). Tener las tres versiones preparadas te permite adaptar el mensaje al tipo de cliente sin improvisar.
 
 La propuesta de valor que nunca cambia no se ha adaptado al cliente. Se ha repetido al cliente.
 

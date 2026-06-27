@@ -1,7 +1,7 @@
 # Emociones en el Trabajo
 ## Cómo gestionar lo que sientes en el entorno profesional
 
-**Serie 04: Emociones y Gestion Emocional — Libro 8 de 10**
+**Serie 04: Emociones y Gestión Emocional — Libro 8 de 10**
 
 ---
 
@@ -165,7 +165,7 @@ Isabel rediseno la política de evaluación para incluir conversaciones estructu
 
 ---
 
-*Libro 38 de la colección psicología Aplicada, Libro 8 de 10 de Serie 04: Emociones y Gestion Emocional.*
+*Libro 38 de la colección psicología Aplicada, Libro 8 de 10 de Serie 04: Emociones y Gestión Emocional.*
 
 ---
 

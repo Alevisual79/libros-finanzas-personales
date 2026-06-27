@@ -83,7 +83,7 @@ Una conversación de meses por mensaje de texto no es progreso hacía una relaci
 
 La abundancia de opciones que las apps de citas presentan genera una paradoja psicológica: más opciones disponibles puede, contraintuitivamente, dificultar el compromiso genuino con cualquier conexión específica.
 
-**El Principio del Sindrome de la Siguiente Mejor Opción:** La disponibilidad constante de nuevas opciones potenciales, característica del formato de las apps de citas, puede generar una mentalidad de comparación permanente donde ninguna conexión actual se siente suficientemente segura como para invertir plenamente, porque siempre existe la posibilidad teorica de que la siguiente opción sea mejor. Esta mentalidad sabotea activamente la profundización de cualquier conexión específica.
+**El Principio del Síndrome de la Siguiente Mejor Opción:** La disponibilidad constante de nuevas opciones potenciales, característica del formato de las apps de citas, puede generar una mentalidad de comparación permanente donde ninguna conexión actual se siente suficientemente segura como para invertir plenamente, porque siempre existe la posibilidad teorica de que la siguiente opción sea mejor. Esta mentalidad sabotea activamente la profundización de cualquier conexión específica.
 
 **Ejercicio inmediato:** Si reconoces este patron en ti mismo, considera limitar deliberadamente tu uso simultaneo de la aplicación mientras desarrollas una conexión prometedora, para reducir la tentación constante de comparación con opciones alternativas.
 
@@ -117,7 +117,7 @@ Tener citas paralelas antes de la exclusividad no es traición. Fingir exclusivi
 
 ## Capítulo 9: Cuando las apps se vuelven adictivas
 
-El diseño de muchas aplicaciones de citas incorpora mecanismos de gratificación variable similares a los de otras tecnologías adictivas, lo que puede generar patrones de uso compulsivo que van más allá de la busqueda genuina de conexión.
+El diseño de muchas aplicaciones de citas incorpora mecanismos de gratificación variable similares a los de otras tecnologías adictivas, lo que puede generar patrones de uso compulsivo que van más allá de la búsqueda genuina de conexión.
 
 **El Principio de la Gratificación Variable como Mecanismo Adictivo:** Las notificaciones de match, los mensajes inesperados, y la posibilidad constante de una nueva conexión interesante activan los mismos circuitos de recompensa intermitente que hacen adictivos a los juegos de azar y otras tecnologías diseniadas para maximizar el engagement. Reconocer este mecanismo ayuda a usar las aplicaciones con más intención consciente en lugar de respuesta automática a su diseño persuasivo.
 

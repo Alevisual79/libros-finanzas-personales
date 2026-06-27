@@ -27,7 +27,7 @@ El mercado cambia más rápido de lo que cualquier formación puede anticipar. L
 
 La investigación de Arie de Geus sobre las empresas longevas (estudio de Shell sobre las empresas con más de cien años de existencia) muestra que la capacidad de aprender más rápido que el entorno cambia es la característica más común entre las organizaciones que sobreviven décadas y siglos. Las que no aprenden rápidamente se vuelven irrelevantes cuando el entorno cambia.
 
-**Ejercicio inmediato:** Calcula tu velocidad actual de aprendizaje emprendedor: ¿en el último trimestre, que has aprendido que no sabías antes? ¿Cuanto de ese aprendizaje ha venido de la experiencia directa (hacer y observar los resultados) y cuanto de la formación (libros, cursos, mentores, pares)? Reflexiona sobre que cambio específico en tus habitos de aprendizaje podría aumentar la velocidad con que aprendes lo que tu negocio necesita en este momento.
+**Ejercicio inmediato:** Calcula tu velocidad actual de aprendizaje emprendedor: ¿en el último trimestre, que has aprendido que no sabías antes? ¿Cuanto de ese aprendizaje ha venido de la experiencia directa (hacer y observar los resultados) y cuanto de la formación (libros, cursos, mentores, pares)? Reflexiona sobre que cambio específico en tus hábitos de aprendizaje podría aumentar la velocidad con que aprendes lo que tu negocio necesita en este momento.
 
 El emprendedor que aprende más rápido que su competidor no necesita tener mejor producto hoy. Solo necesita aprender más rápido que ellos.
 
@@ -51,13 +51,13 @@ El todavia que añades a la frase cambia la relación que tienes con la capacida
 
 Lucia ha aprendido que el mercado es el mejor maestro que tiene, si sabe como escucharlo.
 
-**El Principio del Mercado como Fuente de Aprendizaje Más Valiosa que Cualquier Curso o Libro para el Emprendedor porque Proporciona Retroalimentación Real sobre Hipotesis Reales:** Eric Ries propone el ciclo construir-medir-aprender como el método central del aprendizaje emprendedor: construir la versión mínima del producto, medir como responde el mercado, y aprender de esa medición para el siguiente ciclo. Este ciclo produce aprendizaje a una velocidad que ninguna formación teorica puede igualar.
+**El Principio del Mercado como Fuente de Aprendizaje Más Valiosa que Cualquier Curso o Libro para el Emprendedor porque Proporciona Retroalimentación Real sobre Hipótesis Reales:** Eric Ries propone el ciclo construir-medir-aprender como el método central del aprendizaje emprendedor: construir la versión mínima del producto, medir como responde el mercado, y aprender de esa medición para el siguiente ciclo. Este ciclo produce aprendizaje a una velocidad que ninguna formación teorica puede igualar.
 
-La investigación de Steve Blank sobre el customer development (el desarrollo del cliente) muestra que las hipotesis sobre el cliente, el problema, y la solución que los fundadores tienen al inició son casi siempre parcialmente incorrectas, y que el aprendizaje del mercado (a traves de conversaciones con clientes potenciales, experimentos con MVPs, y análisis de los datos de uso) es el unico método para convertir esas hipotesis en conocimiento accionable.
+La investigación de Steve Blank sobre el customer development (el desarrollo del cliente) muestra que las hipótesis sobre el cliente, el problema, y la solución que los fundadores tienen al inició son casi siempre parcialmente incorrectas, y que el aprendizaje del mercado (a traves de conversaciones con clientes potenciales, experimentos con MVPs, y análisis de los datos de uso) es el unico método para convertir esas hipótesis en conocimiento accionable.
 
-**Ejercicio inmediato:** Identifica la hipotesis más importante que tu negocio tiene actualmente sobre el cliente, el problema, o la solución que no ha sido validada explicitamente con el mercado real. Diseña el experimento más rápido y barato que podría validarla o refutarla. La semana que viene, ejecuta ese experimento y analiza los resultados. Lo que aprendas de el vale más que cualquier otro aprendizaje que hayas planeado.
+**Ejercicio inmediato:** Identifica la hipótesis más importante que tu negocio tiene actualmente sobre el cliente, el problema, o la solución que no ha sido validada explicitamente con el mercado real. Diseña el experimento más rápido y barato que podría validarla o refutarla. La semana que viene, ejecuta ese experimento y analiza los resultados. Lo que aprendas de el vale más que cualquier otro aprendizaje que hayas planeado.
 
-La hipotesis que no prueban es solo una opinión. La que pruebas se convierte en conocimiento o en la corrección que necesitabas.
+La hipótesis que no prueban es solo una opinión. La que pruebas se convierte en conocimiento o en la corrección que necesitabas.
 
 ---
 
@@ -91,13 +91,13 @@ El aprendizaje que otro emprenderor ya ha hecho con su propio dinero y tiempo, s
 
 ## Capítulo 6: Los habitos de aprendizaje del emprendedor de alto rendimiento
 
-Lucia ha construido habitos de aprendizaje que produce el mayor retorno en el menor tiempo posible.
+Lucia ha construido hábitos de aprendizaje que produce el mayor retorno en el menor tiempo posible.
 
-**El Principio de los Habitos de Aprendizaje cómo la Infraestructura que Garantiza el Aprendizaje Continuo sin Requerir Motivación Variable:** James Clear propone que los habitos de aprendizaje (leer regularmente, reflexionar sobre las experiencias, buscar retroalimentación activamente, experimentar con nuevas ideas) son más efectivos cuando se disenan como habitos con señales, rutinas, y recompensas específicas que cuando dependen de la motivación del momento.
+**El Principio de los Hábitos de Aprendizaje cómo la Infraestructura que Garantiza el Aprendizaje Continuo sin Requerir Motivación Variable:** James Clear propone que los hábitos de aprendizaje (leer regularmente, reflexionar sobre las experiencias, buscar retroalimentación activamente, experimentar con nuevas ideas) son más efectivos cuando se disenan como hábitos con señales, rutinas, y recompensas específicas que cuando dependen de la motivación del momento.
 
-La investigación de Roger Martin sobre las empresas más innovadoras muestra que sus líderes tienen habitos de aprendizaje que incluyen: la exposición regular a perspectivas de fuera del sector (lectura de otras industrias, conversaciones con personas de dominios diferentes), la práctica deliberada de hacer preguntas antes de dar respuestas, y la reflexión regular sobre sus propias suposiciones y sesgos.
+La investigación de Roger Martin sobre las empresas más innovadoras muestra que sus líderes tienen hábitos de aprendizaje que incluyen: la exposición regular a perspectivas de fuera del sector (lectura de otras industrias, conversaciones con personas de dominios diferentes), la práctica deliberada de hacer preguntas antes de dar respuestas, y la reflexión regular sobre sus propias suposiciones y sesgos.
 
-**Ejercicio inmediato:** Diseña tu stack de aprendizaje emprendedor para los próximos tres meses: que leerás (un libro por mes en las áreas más relevantes para tu negocio actual), a quien hablaras (tres conversaciones con personas que han resuelto problemas similares a los tuyos), que experimentaras (dos o tres experimentos específicos para probar hipotesis clave del negocio), y como reflexionaras sobre todo ello (una revisión semanal de quince minutos). El stack de aprendizaje deliberado produce más que el aprendizaje por exposición casual que es la norma.
+**Ejercicio inmediato:** Diseña tu stack de aprendizaje emprendedor para los próximos tres meses: que leerás (un libro por mes en las áreas más relevantes para tu negocio actual), a quien hablaras (tres conversaciones con personas que han resuelto problemas similares a los tuyos), que experimentaras (dos o tres experimentos específicos para probar hipótesis clave del negocio), y como reflexionaras sobre todo ello (una revisión semanal de quince minutos). El stack de aprendizaje deliberado produce más que el aprendizaje por exposición casual que es la norma.
 
 El emprendedor que aprende por sistema tiene ventaja sobre el que aprende solo cuando la urgencia lo fuerza.
 
@@ -121,7 +121,7 @@ El cliente que te dice lo que no quieres oir es el que más valor te da. El que 
 
 Carlos ha aprendido a ver a sus competidores cómo una fuente de aprendizaje en lugar de solo cómo una amenaza.
 
-**El Principio del análisis Competitivo como Fuente de Aprendizaje sobre las Hipotesis del Mercado que Otros Han Probado con su Propio Dinero y Tiempo:** Michael Porter propone en Competitive Strategy que el análisis de la competencia no es solo un ejercicio de posicionamiento sino de aprendizaje: los movimientos que la competencia hace (y no hace) son hipotesis sobre el mercado que ya han sido probadas y cuyo resultado es observable.
+**El Principio del análisis Competitivo como Fuente de Aprendizaje sobre las Hipótesis del Mercado que Otros Han Probado con su Propio Dinero y Tiempo:** Michael Porter propone en Competitive Strategy que el análisis de la competencia no es solo un ejercicio de posicionamiento sino de aprendizaje: los movimientos que la competencia hace (y no hace) son hipótesis sobre el mercado que ya han sido probadas y cuyo resultado es observable.
 
 La investigación sobre la innovación por imitación de Oded Shenkar muestra que la mayoría de las innovaciones exitosas no son invenciones radicales sino mejoras significativas sobre lo que ya existia: el aprendizaje de lo que funciona y no funciona en los competidores y la mejora sobre ello es una estrategia de innovación completamente valida y frecuentemente más eficiente que la innovación desde cero.
 
@@ -137,7 +137,7 @@ Lucia ha aprendido que los emprendedores que crean los negocios más exitosos fr
 
 **El Principio del Aprendizaje de las Tendencias como Habilidad que Permite al Emprendedor Posicionarse antes de que la Oportunidad sea Visible para Todo el Mercado:** Paul Graham de Y Combinator propone que los mejores negocios surgen en el cruce de tres elementos: una tendencia que cambia el mercado, un problema real que esa tendencia crea o amplifica, y una solución que es posible gracias a la tendencia. El aprendizaje de las tendencias requiere leer señales debiles antes de que se conviertan en señales fuertes.
 
-Mary Meeker, en su informe anual de tendencias de Internet, ha identificado consistentemente durante dos décadas las tendencias más importantes del ecosistema digital con varios años de anticipación. Su metodologia (observar los cambios en los comportamientos de los consumidores antes que en los mercados financieros) es aplicable a cualquier sector.
+Mary Meeker, en su informe anual de tendencias de Internet, ha identificado consistentemente durante dos décadas las tendencias más importantes del ecosistema digital con varios años de anticipación. Su metodología (observar los cambios en los comportamientos de los consumidores antes que en los mercados financieros) es aplicable a cualquier sector.
 
 **Ejercicio inmediato:** Identifica las tres tendencias (tecnologicas, sociales, regulatorias, o económicas) que más podrían impactar tu sector en los próximos tres años. Para cada una, reflexiona: ¿que nuevos problemas crea esta tendencia que hoy no tienen buena solución? ¿Que negocios actuales hace obsoletos? ¿Que nuevas posibilidades abre para negocios nuevos? Las tendencias no son solo amenazas; son el material con que se construyen los mejores negocios de la próxima década.
 

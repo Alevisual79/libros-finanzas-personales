@@ -27,7 +27,7 @@ El dinero externo no es gratis. Tiene un precio que no siempre se mide en porcen
 
 La investigación de Paul Gompers y Josh Lerner sobre el venture capital muestra que menos del 1% de las empresas que buscan financiación de venture capital la consiguen, y que el proceso de buscar esa financiación consume tiempo y energía del fundador que podría invertirse en el negocio. El coste de oportunidad del proceso de fundraising es significativo y debe incluirse en el cálculo.
 
-**Ejercicio inmediato:** Antes de iniciar ninguna busqueda de financiación externa, responde honestamente a estas tres preguntas: ¿necesito este capital para hacer crecer el negocio o lo quiero porque se siente como validación? ¿Tengo claro que control y decisiones estoy dispuesto a ceder a cambio del capital? ¿Podría alcanzar el mismo objetivo con más tiempo y menos recursos en lugar de con capital externo? Las respuestas honestas a esas preguntas pueden ahorrarte meses de trabajo y energía que podrías dedicar al negocio.
+**Ejercicio inmediato:** Antes de iniciar ninguna búsqueda de financiación externa, responde honestamente a estas tres preguntas: ¿necesito este capital para hacer crecer el negocio o lo quiero porque se siente como validación? ¿Tengo claro que control y decisiones estoy dispuesto a ceder a cambio del capital? ¿Podría alcanzar el mismo objetivo con más tiempo y menos recursos en lugar de con capital externo? Las respuestas honestas a esas preguntas pueden ahorrarte meses de trabajo y energía que podrías dedicar al negocio.
 
 El capital externo que no necesitas es más caro de lo que crees. Aunque no lo pagues en interés o en equity.
 
@@ -69,7 +69,7 @@ Marcos ha evaluado el venture capital y ha aprendido que su modelo de negocio no
 
 La investigación de Peter Thiel sobre los criterios de inversión de VC muestra que los fondos buscan negocios con: mercado potencial de al menos mil millones de dolares, crecimiento de revenue de al menos un 100% anual en las primeras fases, ventaja competitiva defensible (tecnología, efectos de red, o marca), y un equipo fundador con las características de los que han construido ese tipo de empresa antes.
 
-**Ejercicio inmediato:** Para tu negocio, aplica el filtro del venture capital: ¿podría tu negocio convertirse en una empresa de cientos de millones de valoración en los próximos siete años? Si la respuesta honesta es probablemente no (que es la respuesta correcta para la mayoría de los buenos negocios), el venture capital no es el capital adecuado para tu negocio y buscar fondos de VC es consumir tiempo y energía en una busqueda que tiene poca probabilidad de éxito. Hay formas de capital más apropiadas para la mayoría de los buenos negocios.
+**Ejercicio inmediato:** Para tu negocio, aplica el filtro del venture capital: ¿podría tu negocio convertirse en una empresa de cientos de millones de valoración en los próximos siete años? Si la respuesta honesta es probablemente no (que es la respuesta correcta para la mayoría de los buenos negocios), el venture capital no es el capital adecuado para tu negocio y buscar fondos de VC es consumir tiempo y energía en una búsqueda que tiene poca probabilidad de éxito. Hay formas de capital más apropiadas para la mayoría de los buenos negocios.
 
 El venture capital es la herramienta correcta para construir un cohete. Si construyes una empresa sólida y rentable, necesitas una herramienta diferente.
 
@@ -97,7 +97,7 @@ Lucia ha aprendido que el pitch no es una presentación de negocio. Es una histo
 
 La investigación de Neilson sobre la psicología de los inversores en pitch competitions muestra que los primeros dos minutos del pitch (la presentación del problema y la solución) determinan el nivel de atención y emoción del inversor durante el resto de la presentación. Si el problema no produce un momento de reconocimiento en el inversor (si, ese es un problema real que merece atención), el resto del pitch tiene una audiencia desenganchada.
 
-**Ejercicio inmediato:** Prepara la primera slide de tu pitch (la del problema) en tres versiones: ¿una con estadisticas (X millones de personas tienen el problema Y que cuesta Z en perdidas), una con historia (cuenta la historia de un cliente específico que tiene el problema), y una con una pregunta que el inversor pueda contestar con su propia experiencia (han tenido problemas con X? Pues eso les ocurre a X millones de personas). Presenta las tres versiones a cinco personas de confianza y observa cual produce mayor reacción emocional. Usa esa versión.
+**Ejercicio inmediato:** Prepara la primera slide de tu pitch (la del problema) en tres versiones: ¿una con estadísticas (X millones de personas tienen el problema Y que cuesta Z en perdidas), una con historia (cuenta la historia de un cliente específico que tiene el problema), y una con una pregunta que el inversor pueda contestar con su propia experiencia (han tenido problemas con X? Pues eso les ocurre a X millones de personas). Presenta las tres versiones a cinco personas de confianza y observa cual produce mayor reacción emocional. Usa esa versión.
 
 El pitch que el inversor quiere oir no es el que describe tu negocio. Es el que le hace ver el problema que todavia no había visto claramente.
 

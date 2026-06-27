@@ -25,7 +25,7 @@ La depresión se confunde frecuentemente con cosas que no es. Aclarar la confusi
 
 **El Principio de la Depresión como Trastorno del Funcionamiento, no de la Voluntad:** La Organización Mundial de la Salud define la depresión cómo un trastorno mental caracterizado por tristeza persistente, perdida de interés en actividades que antes se disfrutaban, e incapacidad para realizar las actividades cotidianas durante al menos dos semanas. La distinción crítica respecto a la tristeza ordinaria es la persistencia y la pervasividad: no es un mal dia o una semana difícil sino un estado que altera el funcionamiento global durante un período sostenido.
 
-La investigación neurobiologica de Ronald Duman y colegas muestra que la depresión implica cambios medibles en la estructura y función cerebral: reducción del volumen del hipocampo, alteraciones en los circuitos de recompensa, y disfunción en los sistemas de regulación del estres. Estos cambios no se producen por falta de voluntad sino por la interacción de factores biológicos, psicológicos, y ambientales.
+La investigación neurobiologica de Ronald Duman y colegas muestra que la depresión implica cambios medibles en la estructura y función cerebral: reducción del volumen del hipocampo, alteraciones en los circuitos de recompensa, y disfunción en los sistemas de regulación del estrés. Estos cambios no se producen por falta de voluntad sino por la interacción de factores biológicos, psicológicos, y ambientales.
 
 **Ejercicio inmediato:** Si reconoces elementos del estado que describe este prólogo en tu propia experiencia, toma nota de cuanto tiempo llevas en ese estado, como afecta al sueño y al apetito, y cuanto ha cambiado tu capacidad de sentir placer en cosas que antes te producian disfrute. Esa información es relevante para evaluar si lo que vives merece atención profesional.
 
@@ -51,7 +51,7 @@ El estado de animo que llevas tanto tiempo que ya lo ves como tu personalidad po
 
 Ruben siempre pensó que la depresión era solo emocional. La neurociencia le muestra algo más complejo.
 
-**El Principio de la Depresión como Trastorno del Cerebro con Correlatos Medibles:** La hipotesis monoaminergica clasica (la depresión como deficit de serotonina o noradrenalina) ha sido reemplazada por modelos más complejos. Ronald Duman de Yale propone que la depresión implica atrofia de las conexiones sinapticas en el cortex prefrontal y el hipocampo, y que los antidepresivos efectivos actuan restaurando esas conexiones.
+**El Principio de la Depresión como Trastorno del Cerebro con Correlatos Medibles:** La hipótesis monoaminergica clásica (la depresión como deficit de serotonina o noradrenalina) ha sido reemplazada por modelos más complejos. Ronald Duman de Yale propone que la depresión implica atrofia de las conexiones sinapticas en el cortex prefrontal y el hipocampo, y que los antidepresivos efectivos actuan restaurando esas conexiones.
 
 La investigación de Helen Mayberg con neuroimagen identifica el área subgenual del cortex cingulado anterior (área 25 de Brodmann) cómo un nodo crítico en los circuitos de la depresión: hiperactiva en la depresión, se normaliza con tratamientos efectivos tanto farmacológicos como psicológicos. Esta convergencia de tratamientos en el mismo circuito sugiere que la psicoterapia y la farmacoterapia actuan sobre la misma biología, aunque por vias diferentes.
 
@@ -65,11 +65,11 @@ Decirle a alguien con depresión que se anime con voluntad es como decirle a alg
 
 Elena se pregunta por qué ella y no otros. La investigación ofrece respuestas parciales pero útiles.
 
-**El Principio de la Depresión como Resultado de Factores Multiples en Interacción:** El modelo de dialesis-estres propone que la depresión emerge de la interacción entre vulnerabilidades preexistentes (geneticas, neurobiologicas, psicológicas) y factores precipitantes (eventos vitales estresantes, cronico estres, perdidas). Las personas con mayor vulnerabilidad pueden desarrollar depresión ante estresores menores; las personas con menor vulnerabilidad requieren estresores más intensos.
+**El Principio de la Depresión como Resultado de Factores Multiples en Interacción:** El modelo de dialesis-estrés propone que la depresión emerge de la interacción entre vulnerabilidades preexistentes (genéticas, neurobiologicas, psicológicas) y factores precipitantes (eventos vitales estresantes, cronico estrés, perdidas). Las personas con mayor vulnerabilidad pueden desarrollar depresión ante estresores menores; las personas con menor vulnerabilidad requieren estresores más intensos.
 
 La investigación genética de Kenneth Kendler y colegas en gemelos estima que la heredabilidad de la depresión es del 37-40%: hay una contribución genética significativa pero la experiencia ambiental tiene un peso mayor que en otros trastornos (cómo la esquizofrenia, donde la heredabilidad es más alta). Los eventos vitales adversos en la infancia, especialmente el abuso y el abandono, aumentan significativamente el riesgo de depresión en la adultez.
 
-**Ejercicio inmediato:** Reflexiona sobre tu historia de factores de riesgo: historia familiar de depresión, experiencias adversas en la infancia, cronico estres, aislamiento social, historia de episodios anteriores. Conocer tu perfil de riesgo no produce determinismo sino preparación: las personas con mayor vulnerabilidad pueden beneficiarse de estrategias de prevención más proactivas.
+**Ejercicio inmediato:** Reflexiona sobre tu historia de factores de riesgo: historia familiar de depresión, experiencias adversas en la infancia, cronico estrés, aislamiento social, historia de episodios anteriores. Conocer tu perfil de riesgo no produce determinismo sino preparación: las personas con mayor vulnerabilidad pueden beneficiarse de estrategias de prevención más proactivas.
 
 Conocer tu vulnerabilidad no es pesimismo. Es la información que necesitas para cuidarte de forma inteligente.
 
@@ -85,7 +85,7 @@ La investigación de David Goldberg y colegas sobre la depresión en atención p
 
 **Ejercicio inmediato:** Evalua si reconoces en tu vida alguno de estos sintomas atipicos de forma persistente: irritabilidad inusual, fatiga que no mejora con el descanso, dificultades de concentración nuevas, retirada de actividades sociales que antes disfrutabas. Si varios de estos han estado presentes durante más de dos semanas, merece una evaluación por un profesional.
 
-La depresión que no reconoces no puede tratarse. Y la que se normaliza como agotamiento o estres frecuentemente es depresión.
+La depresión que no reconoces no puede tratarse. Y la que se normaliza como agotamiento o estrés frecuentemente es depresión.
 
 ---
 
@@ -105,7 +105,7 @@ Cuando la vida pierde color no es que la vida haya cambiado. Es que el sistema q
 
 ## Capítulo 7: Depresión y cognición: cómo la mente depresiva piensa
 
-Elena nota que no puede pensar con claridad. No sabe si es estres o algo más.
+Elena nota que no puede pensar con claridad. No sabe si es estrés o algo más.
 
 **El Principio de la Depresión como Trastorno Cognitivo ademas de Emocional:** La investigación de Aaron Beck sobre la cognición en la depresión identifica la triada cognitiva: pensamientos negativos sobre uno mismo (soy inadecuado), sobre el mundo (las circunstancias me son adversas), y sobre el futuro (el sufrimiento continuara). Estos sesgos cognitivos no son solo consecuencias de la depresión sino que la mantienen activamente.
 
@@ -149,7 +149,7 @@ Los pensamientos de muerte no son un deseo de no existir. Son un deseo de que el
 
 Elena ha llegado al final de este libro con una comprensión diferente de lo que lleva viviendo. El primer paso hacía la recuperación es el que muchos posponen.
 
-**El Principio de la Busqueda de Ayuda como Acto de Fortaleza:** La investigación muestra que el tiempo medio entre el inició de los sintomas depresivos y la busqueda de ayuda profesional es de varios años. Las barreras más frecuentes incluyen el estigma (la vergüenza de tener un problema mental), la normalización (creer que es solo estres o agotamiento), la creencia de que debería poder con ello solo, y el desconocimiento de los tratamientos efectivos disponibles.
+**El Principio de la Búsqueda de Ayuda como Acto de Fortaleza:** La investigación muestra que el tiempo medio entre el inició de los sintomas depresivos y la búsqueda de ayuda profesional es de varios años. Las barreras más frecuentes incluyen el estigma (la vergüenza de tener un problema mental), la normalización (creer que es solo estrés o agotamiento), la creencia de que debería poder con ello solo, y el desconocimiento de los tratamientos efectivos disponibles.
 
 La investigación de Klaus Linde y colegas en el German Depressión Foundation muestra que el tratamiento de la depresión tiene tasas de efectividad altas: entre el 60 y el 80% de las personas responden al tratamiento adecuado (psicoterapia, farmacoterapia, o ambas). La depresión no tratada tiende a cronificarse; la tratada a tiempo tiene mejor pronostico.
 

@@ -35,11 +35,11 @@ Una traición no es solo un daño. Es la ruptura de una confianza que se asumia 
 
 Descubrir una traición significativa frecuentemente produce respuestas psicológicas comparables a las del trauma, incluyendo pensamientos intrusivos y una crisis de la percepción de la realidad previamente conocida.
 
-**El Principio de la Traición como Trauma Relacional:** La investigación sobre el impacto de la traición muestra patrones similares a los del estres postraumatico: revivir obsesivamente la información descubierta, hipervigilancia hacía nuevas señales de engaño, y una sensación de que la realidad que se conocía anteriormente era, en parte, una ilusión. Este impacto merece ser tratado con la misma seriedad que cualquier otro trauma significativo.
+**El Principio de la Traición como Trauma Relacional:** La investigación sobre el impacto de la traición muestra patrones similares a los del estrés postraumatico: revivir obsesivamente la información descubierta, hipervigilancia hacía nuevas señales de engaño, y una sensación de que la realidad que se conocía anteriormente era, en parte, una ilusión. Este impacto merece ser tratado con la misma seriedad que cualquier otro trauma significativo.
 
 **Ejercicio inmediato:** Si estas procesando una traición reciente, reconoce que los sintomas que experimentas (pensamientos intrusivos, dificultad para confiar, hipervigilancia) son respuestas normales a un trauma relacional real, no señales de que estas exagerando.
 
-El dolor de una traición no es debilidad. Es la respuesta normal del sistema nervioso a una ruptura traumatica de la confianza basica.
+El dolor de una traición no es debilidad. Es la respuesta normal del sistema nervioso a una ruptura traumática de la confianza basica.
 
 ---
 
@@ -131,7 +131,7 @@ Toda relación siempre tuvo incertidumbre inherente. La traición solo te hizo c
 
 Las personas que atraviesan y procesan genuinamente una traición significativa frecuentemente emergen con una versión de si mismas que ha cambiado de formas que merecen reconocimiento, tanto en sus aspectos difíciles como en su potencial de crecimiento.
 
-**El Principio del Crecimiento Postraumatico:** La investigación sobre crecimiento postraumatico muestra que algunas personas, después de procesar adecuadamente experiencias traumaticas significativas cómo una traición mayor, desarrollan mayor claridad sobre sus propios valores, mayor aprecio por las relaciones que si son confiables, y mayor resiliencia para futuras dificultades, sin que esto minimice el dolor real que la experiencia produjó.
+**El Principio del Crecimiento Postraumatico:** La investigación sobre crecimiento postraumatico muestra que algunas personas, después de procesar adecuadamente experiencias traumáticas significativas cómo una traición mayor, desarrollan mayor claridad sobre sus propios valores, mayor aprecio por las relaciones que si son confiables, y mayor resiliencia para futuras dificultades, sin que esto minimice el dolor real que la experiencia produjó.
 
 **Ejercicio inmediato:** Si has procesado suficientemente una traición significativa, reflexiona sobre que has aprendido sobre ti mismo, sobre tus valores, o sobre lo que realmente necesitas en las relaciones, a partir de esa experiencia difícil.
 

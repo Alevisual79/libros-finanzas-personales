@@ -37,7 +37,7 @@ El negocio que no gestiona el flujo de caja gestiona las sorpresas. Y las sorpre
 
 Lucia ha reducido su ciclo de cobró en treinta dias y ha transformado su liquidez sin cambiar nada de su modelo de negocio.
 
-**El Principio de La Gestion de Cobros como La práctica de Reducir El Tiempo que Pasa entre La Entrega del Servicio o Producto y La Recepción del Pago porque Cada Dia que Tarda Un Cliente en Pagar Es Un Dia que El Dinero Trabaja Para El Cliente y No Para El Negocio:** Las estrategias de aceleración de cobros incluyen: facturar inmediatamente al completar el servicio o la entrega del producto (en lugar de facturar a fin de mes o cuando el cliente lo solicita), ofrecer incentivos por pago anticipado (descuentos del uno o el dos por ciento por pago en diez dias son frecuentemente el coste más barato de financiación disponible), cobrar anticipos o pagos parciales al inició del proyecto (especialmente en proyectos grandes o de larga duración), y implementar pagos automáticos recurrentes para clientes de larga duración.
+**El Principio de La Gestión de Cobros como La práctica de Reducir El Tiempo que Pasa entre La Entrega del Servicio o Producto y La Recepción del Pago porque Cada Dia que Tarda Un Cliente en Pagar Es Un Dia que El Dinero Trabaja Para El Cliente y No Para El Negocio:** Las estrategias de aceleración de cobros incluyen: facturar inmediatamente al completar el servicio o la entrega del producto (en lugar de facturar a fin de mes o cuando el cliente lo solicita), ofrecer incentivos por pago anticipado (descuentos del uno o el dos por ciento por pago en diez dias son frecuentemente el coste más barato de financiación disponible), cobrar anticipos o pagos parciales al inició del proyecto (especialmente en proyectos grandes o de larga duración), y implementar pagos automáticos recurrentes para clientes de larga duración.
 
 La investigación de Atradius sobre los patrones de pago B2B en Europa muestra que el plazo medio de pago real supera en un treinta por ciento el plazo acordado contractualmente, y que las empresas con sistemas de seguimiento activo de cobros cobran entre quince y treinta dias antes que las que no los tienen.
 
@@ -51,7 +51,7 @@ El dia que cobras antes al cliente es un dia que el dinero trabaja para tu negoc
 
 Marcos ha reorganizado sus pagos y ha mejorado su liquidez media mensual sin reducir ningún gasto.
 
-**El Principio de La Gestion de Pagos como La práctica de Pagar las Obligaciones en El último Momento Posible Dentro del Plazo Acordado y De Negociar Los Mejores Terminos de Pago con Los Proveedores para Maximizar El Tiempo en que El Dinero Permanece en El Negocio:** El principio basico de la gestión de pagos es simple: cobrar lo antes posible y pagar lo más tarde posible (dentro de los plazos acordados). Esa diferencia de timing entre cobros y pagos es el ciclo de conversión de caja del negocio, y cuanto más corto es ese ciclo, menos capital de trabajo necesita el negocio para operar.
+**El Principio de La Gestión de Pagos como La práctica de Pagar las Obligaciones en El último Momento Posible Dentro del Plazo Acordado y De Negociar Los Mejores Terminos de Pago con Los Proveedores para Maximizar El Tiempo en que El Dinero Permanece en El Negocio:** El principio basico de la gestión de pagos es simple: cobrar lo antes posible y pagar lo más tarde posible (dentro de los plazos acordados). Esa diferencia de timing entre cobros y pagos es el ciclo de conversión de caja del negocio, y cuanto más corto es ese ciclo, menos capital de trabajo necesita el negocio para operar.
 
 Las estrategias de optimización de pagos incluyen: negociar plazos de pago más largos con los proveedores principales (treinta dias es el estandar, sesenta o noventa dias es posible en relaciones de largo plazo), centralizar todos los pagos en uno o dos dias fijos al mes (lo que facilita la planificación y reduce el riesgo de pago accidental en momentos de liquidez baja), y priorizar los pagos en función de las consecuencias del impago (los pagos críticos para la continuidad del negocio primero, los más flexibles después).
 
@@ -93,11 +93,11 @@ El emprendedor con fondo de emergencia toma mejores decisiones cuando vienen los
 
 Marcos ha aprendido a gestionar la estacionalidad de su negocio para que los buenos meses financien los malos.
 
-**El Principio de La Gestion de La Estacionalidad como La Estrategia de Planificar El Uso de Los Excedentes de Los Meses Buenos para Financiar Los Gastos de Los Meses Malos, Evitando el Ciclo de Estres Financiero Que Produce La Estacionalidad en Los Negocios Que No La Planifican:** La mayoría de los negocios tienen estacionalidad: meses de alto revenue y meses de bajo revenue. El error más común es gastar proporcionalmente al revenue de cada mes (gasto alto en meses buenos, problemas de liquidez en meses malos). La gestión correcta es gastar a un nivel constante que sea sostenible incluyendo los meses malos, y durante los meses buenos acumular el excedente para financiar los malos.
+**El Principio de La Gestión de La Estacionalidad como La Estrategia de Planificar El Uso de Los Excedentes de Los Meses Buenos para Financiar Los Gastos de Los Meses Malos, Evitando el Ciclo de Estrés Financiero Que Produce La Estacionalidad en Los Negocios Que No La Planifican:** La mayoría de los negocios tienen estacionalidad: meses de alto revenue y meses de bajo revenue. El error más común es gastar proporcionalmente al revenue de cada mes (gasto alto en meses buenos, problemas de liquidez en meses malos). La gestión correcta es gastar a un nivel constante que sea sostenible incluyendo los meses malos, y durante los meses buenos acumular el excedente para financiar los malos.
 
 La investigación de Deloitte sobre la gestión financiera de pymes muestra que el setenta por ciento de los problemas de liquidez de pequeñas empresas ocurren en los dos meses posteriores al pico de mayor actividad, precisamente cuando los excedentes deberían estar disponibles pero se han gastado o se han comprometido en inversiones mal temporalizadas.
 
-**Ejercicio inmediato:** Si tu negocio tiene estacionalidad, mapea los últimos doce meses de revenue mes a mes y calcula la media mensual. Define tu nivel de gasto operativo fijo basandote en esa media (no en los meses pico). Para los meses de mayor revenue que la media, automatiza el traspaso del excedente a la cuenta de reservas del negocio. Para los meses de menor revenue, usa esas reservas para mantener el nivel de gasto sin estres. Ese sistema convierte la estacionalidad de un problema recurrente en un fenómeno gestionado.
+**Ejercicio inmediato:** Si tu negocio tiene estacionalidad, mapea los últimos doce meses de revenue mes a mes y calcula la media mensual. Define tu nivel de gasto operativo fijo basandote en esa media (no en los meses pico). Para los meses de mayor revenue que la media, automatiza el traspaso del excedente a la cuenta de reservas del negocio. Para los meses de menor revenue, usa esas reservas para mantener el nivel de gasto sin estrés. Ese sistema convierte la estacionalidad de un problema recurrente en un fenómeno gestionado.
 
 La estacionalidad que no se planifica produce una crisis dos veces al año. La que se planifica es solo una característica del negocio.
 
@@ -127,7 +127,7 @@ La provisión fiscal correcta depende del tipo de impuesto y de la situación de
 
 **Ejercicio inmediato:** Para el próximo trimestre, abre una cuenta de provisión fiscal separada en tu banco (o usa una sub-cuenta si tu banco lo permite) y transfiere mensualmente el porcentaje estimado de impuestos sobre el beneficio generado ese mes. Pide a tu gestor que te calcule el porcentaje correcto basandose en tu situación fiscal específica (autonomo en estimación directa, módulos, o sociedad limitada tienen reglas diferentes). Cuando llegue el vencimiento fiscal trimestral, el dinero estará disponible sin crear ninguna tensión de liquidez.
 
-El emprendedor que no aparta los impuestos mensualmente los paga igualmente. Solo que con mucho más estres en el momento del vencimiento.
+El emprendedor que no aparta los impuestos mensualmente los paga igualmente. Solo que con mucho más estrés en el momento del vencimiento.
 
 ---
 
@@ -149,7 +149,7 @@ El problema de flujo de caja que se detecta con dos señales de alarma es maneja
 
 Carlos ha construido un sistema de gestión de flujo de caja que le da tranquilidad y le permite tomar decisiones de inversión con confianza.
 
-**El Principio del Sistema de Flujo de Caja Integrado como La Combinación de Gestion Activa de Cobros, Optimización de Pagos, Previsión sistemática, Fondo de Emergencia, y Provisión Fiscal que Convierte La Gestion de Liquidez de Una Preocupación Reactiva en Un Proceso Proactivo y Predecible:** El flujo de caja no es solo una medida financiera: es la señal vital del negocio. Gestionarlo bien significa que el emprendedor sabe en todo momento cuanta liquidez tiene, cuanta tendrá en las próximas semanas, y que acciones específicas puede tomar si el resultado esperado no es el correcto.
+**El Principio del Sistema de Flujo de Caja Integrado como La Combinación de Gestión Activa de Cobros, Optimización de Pagos, Previsión sistemática, Fondo de Emergencia, y Provisión Fiscal que Convierte La Gestión de Liquidez de Una Preocupación Reactiva en Un Proceso Proactivo y Predecible:** El flujo de caja no es solo una medida financiera: es la señal vital del negocio. Gestionarlo bien significa que el emprendedor sabe en todo momento cuanta liquidez tiene, cuanta tendrá en las próximas semanas, y que acciones específicas puede tomar si el resultado esperado no es el correcto.
 
 La investigación de SCORE (el programa de mentoria de pequeñas empresas de EE.UU.) sobre los factores que más diferencian a los negocios que sobreviven diez años de los que cierran antes muestra que la gestión sistemática del flujo de caja (con previsión, provisión, y seguimiento activo) es uno de los tres factores que más predicen la supervivencia a largo plazo.
 
@@ -161,7 +161,7 @@ El flujo de caja bien gestionado no elimina los problemas del negocio. Garantiza
 
 ## Epílogo
 
-Carlos vivio su primer agosto sin estres financiero. El cliente grande que pagaba a noventa dias seguia pagando a noventa dias: eso no había cambiado. Lo que había cambiado era que lo había anticipado en la previsión de flujo de caja a trece semanas desde mayo. Y en junio, cuando la previsión le mostró que agosto iba a ser el mes de menor liquidez del año, había activado el factoring de dos de las facturas grandes y había trasladado algunos gastos discrecionales a septiembre. Agosto llegó, el cliente pago a sus noventa dias como siempre, y Carlos había pagado todas sus obligaciones sin usar el credito de emergencia. Primera vez en dos años. El problema no había desaparecido. Habia aprendido a verlo venir.
+Carlos vivio su primer agosto sin estrés financiero. El cliente grande que pagaba a noventa dias seguia pagando a noventa dias: eso no había cambiado. Lo que había cambiado era que lo había anticipado en la previsión de flujo de caja a trece semanas desde mayo. Y en junio, cuando la previsión le mostró que agosto iba a ser el mes de menor liquidez del año, había activado el factoring de dos de las facturas grandes y había trasladado algunos gastos discrecionales a septiembre. Agosto llegó, el cliente pago a sus noventa dias como siempre, y Carlos había pagado todas sus obligaciones sin usar el credito de emergencia. Primera vez en dos años. El problema no había desaparecido. Habia aprendido a verlo venir.
 
 ---
 

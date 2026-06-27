@@ -23,7 +23,7 @@ Elena tiene la sensación constante de estar ocupada pero sin avanzar en lo que 
 
 El tiempo es diferente de todos los demás recursos porque es el unico que no puede recuperarse.
 
-**El Principio del Tiempo como el Unico Recurso No Renovable que Hace que su Gestion sea una Decisión Existencial, no Solo Operativa:** Oliver Burkeman, en Cuatro Mil Semanas, propone que la vida humana media tiene aproximadamente cuatro mil semanas. Esta perspectiva matematicamente sencilla produce una conclusión ineludible: dado que el tiempo es el unico recurso que no puede generarse, ahorrarse, ni recuperarse una vez gastado, decidir a que dedicar el tiempo es la decisión más importante de una vida, más que cualquier decisión financiera, profesional, o relacional.
+**El Principio del Tiempo como el Unico Recurso No Renovable que Hace que su Gestión sea una Decisión Existencial, no Solo Operativa:** Oliver Burkeman, en Cuatro Mil Semanas, propone que la vida humana media tiene aproximadamente cuatro mil semanas. Esta perspectiva matematicamente sencilla produce una conclusión ineludible: dado que el tiempo es el unico recurso que no puede generarse, ahorrarse, ni recuperarse una vez gastado, decidir a que dedicar el tiempo es la decisión más importante de una vida, más que cualquier decisión financiera, profesional, o relacional.
 
 La investigación de Cassie Mogilner y colegas sobre la percepción del tiempo muestra que las personas que piensan en el tiempo en terminos de meses y años (perspectiva larga) toman decisiones diferentes a las que piensan en dias y horas (perspectiva corta). Las personas con perspectiva larga invierten más en actividades con significado a largo plazo (relaciones, aprendizaje, proyectos significativos) aunque tengan menor gratificación inmediata.
 
@@ -95,7 +95,7 @@ Elena ha llegado a entender que el problema no es solo cuanto tiempo tiene sino 
 
 **El Principio de la Atención como el Recurso más Escaso en la Era Digital que Determina la Calidad Real del Tiempo más que la Cantidad:** William James, padre de la psicología americana, escribió en 1890 que la facultad de traer voluntariamente la atención errante una y otra vez es la raiz misma del juicio, el carácter, y la voluntad. La investigación moderna confirma que la calidad de la atención (cuanto de la mente esta realmente presente en lo que se hace) determina la calidad de la experiencia y del output más que la cantidad de tiempo dedicada.
 
-La investigación de Adam Alter sobre los habitos digitales muestra que el teléfono inteligente reduce la calidad de la atención en conversaciones, trabajo, y momentos de disfrute incluso cuando no se está usando activamente: su mera presencia visible sobre la mesa reduce la calidad de las interacciones sociales porque una parte de la mente permanece atenta a las posibles notificaciones.
+La investigación de Adam Alter sobre los hábitos digitales muestra que el teléfono inteligente reduce la calidad de la atención en conversaciones, trabajo, y momentos de disfrute incluso cuando no se está usando activamente: su mera presencia visible sobre la mesa reduce la calidad de las interacciones sociales porque una parte de la mente permanece atenta a las posibles notificaciones.
 
 **Ejercicio inmediato:** Para las tres actividades más importantes de tu dia (trabajo profundo, relaciones, descanso), práctica el monotasking: haz solo esa cosa, con el teléfono en otra habitación y las notificaciones desactivadas. La calidad de la atención que produces en una hora de monotasking supera con frecuencia la de tres horas de multitasking interrumpido.
 
@@ -135,7 +135,7 @@ El descanso que más descansa no es el que no hace nada. Es el que hace algo que
 
 Ruben dice si a muchas más cosas de las que puede manejar bien. Aprender a decir no es la habilidad más productiva que puede desarrollar.
 
-**El Principio del No Como la Decisión de Mayor Valor en la Gestion del Tiempo porque Protege el Si de lo más Importante:** Greg McKeown, en Esencialismo, propone que el ejecutivo o profesional que intenta hacerlo todo bien con el mismo nivel de excelencia produce el resultado contrario al que busca: un nivel modesto de contribución en muchos frentes en lugar de un nivel excelente de contribución en el frente que más importa. La lógica del esencialismo es que el éxito requiere la eliminación deliberada de lo no esencial.
+**El Principio del No Como la Decisión de Mayor Valor en la Gestión del Tiempo porque Protege el Si de lo más Importante:** Greg McKeown, en Esencialismo, propone que el ejecutivo o profesional que intenta hacerlo todo bien con el mismo nivel de excelencia produce el resultado contrario al que busca: un nivel modesto de contribución en muchos frentes en lugar de un nivel excelente de contribución en el frente que más importa. La lógica del esencialismo es que el éxito requiere la eliminación deliberada de lo no esencial.
 
 La investigación de Barry Schwartz sobre la paradoja de la elección muestra que el exceso de opciones produce mayor ansiedad, mayor arrepentimiento, y menor satisfacción con las decisiones tomadas. Reducir deliberadamente el número de compromisos y opciones activos produce mayor claridad y mayor calidad en lo que se mantiene.
 
@@ -147,9 +147,9 @@ Cada si que das es un no que le das a algo más. El problema es que la mayoría 
 
 ## Capítulo 10: El tiempo como expresión de la vida que quieres vivir
 
-Elena ha llegado a entender que gestionar el tiempo no es una cuestion de productividad. Es una cuestion de vida.
+Elena ha llegado a entender que gestionar el tiempo no es una cuestión de productividad. Es una cuestión de vida.
 
-**El Principio de la Gestion del Tiempo como el Acto de Disenar Conscientemente la Vida que se Quiere Vivir en el Tiempo que se Tiene:** Oliver Burkeman propone que la crisis central de la gestión del tiempo moderna es que hemos tratado el tiempo cómo un problema de eficiencia (cómo hacer más en menos tiempo) cuando es en realidad un problema de finitud (como vivir bien sabiendo que el tiempo es limitado). La solución no es mayor eficiencia sino mayor intencionalidad: decidir conscientemente a que merece el tiempo que se tiene.
+**El Principio de la Gestión del Tiempo como el Acto de Disenar Conscientemente la Vida que se Quiere Vivir en el Tiempo que se Tiene:** Oliver Burkeman propone que la crisis central de la gestión del tiempo moderna es que hemos tratado el tiempo cómo un problema de eficiencia (cómo hacer más en menos tiempo) cuando es en realidad un problema de finitud (como vivir bien sabiendo que el tiempo es limitado). La solución no es mayor eficiencia sino mayor intencionalidad: decidir conscientemente a que merece el tiempo que se tiene.
 
 La investigación de Bronnie Ware sobre los arrepentimientos de las personas en sus últimas semanas de vida muestra que los arrepentimientos más comunes no son haber trabajado menos o haber tomado menos riesgos, sino no haber tenido el coraje de vivir la vida que querían (en lugar de la que otros esperaban) y no haber mantenido las amistades que más importaban.
 

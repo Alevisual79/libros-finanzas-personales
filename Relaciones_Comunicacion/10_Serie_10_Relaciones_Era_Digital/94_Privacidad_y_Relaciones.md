@@ -25,9 +25,9 @@ El impulso de compartir públicamente aspectos de la vida romantica y relacional
 
 **El Principio de la Validación Social como Motivador:** Compartir contenido sobre relaciones romanticas frecuentemente cumple una función de validación social: la celebración pública refuerza la sensación de que la relación es real y valida, mientras la respuesta positiva de otros (likes, comentarios) proporciona una forma de reaseguramiento externo sobre el valor de la conexión que se está viviendo.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propia motivación para compartir contenido sobre tus relaciones en redes sociales: ¿viene principalmente de un deseo genuino de celebrar, o de una busqueda de validación externa sobre la relación?
+**Ejercicio inmediato:** Reflexiona sobre tu propia motivación para compartir contenido sobre tus relaciones en redes sociales: ¿viene principalmente de un deseo genuino de celebrar, o de una búsqueda de validación externa sobre la relación?
 
-Compartir tu relación en redes sociales puede ser celebración genuina o busqueda de validación externa. Entender cual es tu motivación principal informa si esa práctica te sirve realmente.
+Compartir tu relación en redes sociales puede ser celebración genuina o búsqueda de validación externa. Entender cual es tu motivación principal informa si esa práctica te sirve realmente.
 
 ---
 

@@ -388,6 +388,268 @@ ESDRUJ_FIXES = [
     (re.compile(r'\bfisico\b',        re.IGNORECASE), 'físico'),
     (re.compile(r'\bfisicas\b',       re.IGNORECASE), 'físicas'),
     (re.compile(r'\bfisicos\b',       re.IGNORECASE), 'físicos'),
+    # hábito/s (very common in psychology/productivity books)
+    (re.compile(r'\bhabito\b',        re.IGNORECASE), 'hábito'),
+    (re.compile(r'\bhabitos\b',       re.IGNORECASE), 'hábitos'),
+    # búsqueda/s (common in AI/research books)
+    (re.compile(r'\bbusqueda\b',      re.IGNORECASE), 'búsqueda'),
+    (re.compile(r'\bbusquedas\b',     re.IGNORECASE), 'búsquedas'),
+    # metodología/s
+    (re.compile(r'\bmetodologia\b',   re.IGNORECASE), 'metodología'),
+    (re.compile(r'\bmetodologias\b',  re.IGNORECASE), 'metodologías'),
+    # ingeniería
+    (re.compile(r'\bingenieria\b',    re.IGNORECASE), 'ingeniería'),
+    # estrés (invariable)
+    (re.compile(r'\bestres\b',        re.IGNORECASE), 'estrés'),
+    # síndrome/s
+    (re.compile(r'\bsindrome\b',      re.IGNORECASE), 'síndrome'),
+    (re.compile(r'\bsindromes\b',     re.IGNORECASE), 'síndromes'),
+    # específic*
+    (re.compile(r'\bespecifica\b',    re.IGNORECASE), 'específica'),
+    (re.compile(r'\bespecifico\b',    re.IGNORECASE), 'específico'),
+    (re.compile(r'\bespecificas\b',   re.IGNORECASE), 'específicas'),
+    (re.compile(r'\bespecificos\b',   re.IGNORECASE), 'específicos'),
+    (re.compile(r'\bespecificamente\b', re.IGNORECASE), 'específicamente'),
+    # terapéutic*
+    (re.compile(r'\bterapeutica\b',   re.IGNORECASE), 'terapéutica'),
+    (re.compile(r'\bterapeutico\b',   re.IGNORECASE), 'terapéutico'),
+    (re.compile(r'\bterapeuticas\b',  re.IGNORECASE), 'terapéuticas'),
+    (re.compile(r'\bterapeuticos\b',  re.IGNORECASE), 'terapéuticos'),
+    # traumátic*
+    (re.compile(r'\btraumatica\b',    re.IGNORECASE), 'traumática'),
+    (re.compile(r'\btraumatico\b',    re.IGNORECASE), 'traumático'),
+    (re.compile(r'\btraumaticas\b',   re.IGNORECASE), 'traumáticas'),
+    (re.compile(r'\btraumaticos\b',   re.IGNORECASE), 'traumáticos'),
+    # prácticamente
+    (re.compile(r'\bpracticamente\b', re.IGNORECASE), 'prácticamente'),
+    # electrónic*
+    (re.compile(r'\belectronica\b',   re.IGNORECASE), 'electrónica'),
+    (re.compile(r'\belectronico\b',   re.IGNORECASE), 'electrónico'),
+    (re.compile(r'\belectronicas\b',  re.IGNORECASE), 'electrónicas'),
+    (re.compile(r'\belectronicos\b',  re.IGNORECASE), 'electrónicos'),
+    # página/s
+    (re.compile(r'\bpagina\b',        re.IGNORECASE), 'página'),
+    (re.compile(r'\bpaginas\b',       re.IGNORECASE), 'páginas'),
+    # orgán(o) — careful: órgano vs organización
+    (re.compile(r'\borgano\b',        re.IGNORECASE), 'órgano'),
+    (re.compile(r'\borganos\b',       re.IGNORECASE), 'órganos'),
+    # síntesis
+    (re.compile(r'\bsintesis\b',      re.IGNORECASE), 'síntesis'),
+    # hipótesis
+    (re.compile(r'\bhipotesis\b',     re.IGNORECASE), 'hipótesis'),
+    # énfasis
+    (re.compile(r'\benfasis\b',       re.IGNORECASE), 'énfasis'),
+    # ámbito/s
+    (re.compile(r'\bambito\b',        re.IGNORECASE), 'ámbito'),
+    (re.compile(r'\bambitos\b',       re.IGNORECASE), 'ámbitos'),
+    # índice/s
+    (re.compile(r'\bindice\b',        re.IGNORECASE), 'índice'),
+    (re.compile(r'\bindices\b',       re.IGNORECASE), 'índices'),
+    # víncul*
+    (re.compile(r'\bvinculo\b',       re.IGNORECASE), 'vínculo'),
+    (re.compile(r'\bvinculos\b',      re.IGNORECASE), 'vínculos'),
+    # músculo/s
+    (re.compile(r'\bmusculo\b',       re.IGNORECASE), 'músculo'),
+    (re.compile(r'\bmusculos\b',      re.IGNORECASE), 'músculos'),
+    # cronológic*
+    (re.compile(r'\bcronologica\b',   re.IGNORECASE), 'cronológica'),
+    (re.compile(r'\bcronologico\b',   re.IGNORECASE), 'cronológico'),
+    # genétic*
+    (re.compile(r'\bgenetica\b',      re.IGNORECASE), 'genética'),
+    (re.compile(r'\bgenetico\b',      re.IGNORECASE), 'genético'),
+    (re.compile(r'\bgeneticas\b',     re.IGNORECASE), 'genéticas'),
+    (re.compile(r'\bgeneticos\b',     re.IGNORECASE), 'genéticos'),
+    # metabólic*
+    (re.compile(r'\bmetabolica\b',    re.IGNORECASE), 'metabólica'),
+    (re.compile(r'\bmetabolico\b',    re.IGNORECASE), 'metabólico'),
+    (re.compile(r'\bmetabolicas\b',   re.IGNORECASE), 'metabólicas'),
+    (re.compile(r'\bmetabolicos\b',   re.IGNORECASE), 'metabólicos'),
+    # epidemiológic*
+    (re.compile(r'\bepidemiologica\b',re.IGNORECASE), 'epidemiológica'),
+    (re.compile(r'\bepidemiologico\b',re.IGNORECASE), 'epidemiológico'),
+    # estadístic*
+    (re.compile(r'\bestadistica\b',   re.IGNORECASE), 'estadística'),
+    (re.compile(r'\bestadistico\b',   re.IGNORECASE), 'estadístico'),
+    (re.compile(r'\bestadisticas\b',  re.IGNORECASE), 'estadísticas'),
+    (re.compile(r'\bestadisticos\b',  re.IGNORECASE), 'estadísticos'),
+    # democrátic*
+    (re.compile(r'\bdemocratica\b',   re.IGNORECASE), 'democrática'),
+    (re.compile(r'\bdemocratico\b',   re.IGNORECASE), 'democrático'),
+    # neurocientífic*
+    (re.compile(r'\bneurocientifico\b', re.IGNORECASE), 'neurocientífico'),
+    (re.compile(r'\bneurocientifica\b', re.IGNORECASE), 'neurocientífica'),
+    # clásic*
+    (re.compile(r'\bclasica\b',       re.IGNORECASE), 'clásica'),
+    (re.compile(r'\bclasico\b',       re.IGNORECASE), 'clásico'),
+    (re.compile(r'\bclasicas\b',      re.IGNORECASE), 'clásicas'),
+    (re.compile(r'\bclasicos\b',      re.IGNORECASE), 'clásicos'),
+    # típic*
+    (re.compile(r'\btipica\b',        re.IGNORECASE), 'típica'),
+    (re.compile(r'\btipico\b',        re.IGNORECASE), 'típico'),
+    (re.compile(r'\btipicas\b',       re.IGNORECASE), 'típicas'),
+    (re.compile(r'\btipicos\b',       re.IGNORECASE), 'típicos'),
+    # narraciones (singular: narración — but these singulars missing accent)
+    (re.compile(r'\bnarracion\b',     re.IGNORECASE), 'narración'),
+    # situación (singular only — plural 'situaciones' is correct)
+    (re.compile(r'\bsituacion\b',     re.IGNORECASE), 'situación'),
+    # relación (singular only)
+    (re.compile(r'\brelacion\b',      re.IGNORECASE), 'relación'),
+    # información (singular only)
+    (re.compile(r'\binformacion\b',   re.IGNORECASE), 'información'),
+    # comunicación (singular only)
+    (re.compile(r'\bcomunicacion\b',  re.IGNORECASE), 'comunicación'),
+    # decisión (singular only)
+    (re.compile(r'\bdecision\b',      re.IGNORECASE), 'decisión'),
+    # solución (singular only)
+    (re.compile(r'\bsolucion\b',      re.IGNORECASE), 'solución'),
+    # función (singular only)
+    (re.compile(r'\bfuncion\b',       re.IGNORECASE), 'función'),
+    # presentación (singular only)
+    (re.compile(r'\bpresentacion\b',  re.IGNORECASE), 'presentación'),
+    # organización (singular only)
+    (re.compile(r'\borganizacion\b',  re.IGNORECASE), 'organización'),
+    # intervención (singular only)
+    (re.compile(r'\bintervencion\b',  re.IGNORECASE), 'intervención'),
+    # evaluación (singular only)
+    (re.compile(r'\bevaluacion\b',    re.IGNORECASE), 'evaluación'),
+    # investigación (singular only)
+    (re.compile(r'\binvestigacion\b', re.IGNORECASE), 'investigación'),
+    # generación (singular only)
+    (re.compile(r'\bgeneracion\b',    re.IGNORECASE), 'generación'),
+    # atención (singular only)
+    (re.compile(r'\batencion\b',      re.IGNORECASE), 'atención'),
+    # introducción (singular only)
+    (re.compile(r'\bintroduccion\b',  re.IGNORECASE), 'introducción'),
+    # creación (singular only)
+    (re.compile(r'\bcreacion\b',      re.IGNORECASE), 'creación'),
+    # producción (singular only)
+    (re.compile(r'\bproduccion\b',    re.IGNORECASE), 'producción'),
+    # protección (singular only)
+    (re.compile(r'\bproteccion\b',    re.IGNORECASE), 'protección'),
+    # percepción (singular only)
+    (re.compile(r'\bpercepcion\b',    re.IGNORECASE), 'percepción'),
+    # concentración (singular only)
+    (re.compile(r'\bconcentracion\b', re.IGNORECASE), 'concentración'),
+    # dirección (singular only)
+    (re.compile(r'\bdireccion\b',     re.IGNORECASE), 'dirección'),
+    # posición (singular only)
+    (re.compile(r'\bposicion\b',      re.IGNORECASE), 'posición'),
+    # composición (singular only)
+    (re.compile(r'\bcomposicion\b',   re.IGNORECASE), 'composición'),
+    # distribución (singular only)
+    (re.compile(r'\bdistribucion\b',  re.IGNORECASE), 'distribución'),
+    # contribución (singular only)
+    (re.compile(r'\bcontribucion\b',  re.IGNORECASE), 'contribución'),
+    # conclusión (singular only)
+    (re.compile(r'\bconclusion\b',    re.IGNORECASE), 'conclusión'),
+    # publicación (singular only)
+    (re.compile(r'\bpublicacion\b',   re.IGNORECASE), 'publicación'),
+    # explicación (singular only)
+    (re.compile(r'\bexplicacion\b',   re.IGNORECASE), 'explicación'),
+    # implementación (singular only)
+    (re.compile(r'\bimplementacion\b',re.IGNORECASE), 'implementación'),
+    # institución (singular only)
+    (re.compile(r'\binstitucion\b',   re.IGNORECASE), 'institución'),
+    # población (singular only)
+    (re.compile(r'\bpoblacion\b',     re.IGNORECASE), 'población'),
+    # evolución (singular only)
+    (re.compile(r'\bevolucion\b',     re.IGNORECASE), 'evolución'),
+    # depresión (singular only)
+    (re.compile(r'\bdepresion\b',     re.IGNORECASE), 'depresión'),
+    # presión (singular only)
+    (re.compile(r'\bpresion\b',       re.IGNORECASE), 'presión'),
+    # prevención (singular only)
+    (re.compile(r'\bprevencion\b',    re.IGNORECASE), 'prevención'),
+    # afirmación (singular only)
+    (re.compile(r'\bafirmacion\b',    re.IGNORECASE), 'afirmación'),
+    # mención (singular only)
+    (re.compile(r'\bmencion\b',       re.IGNORECASE), 'mención'),
+    # educación (singular only)
+    (re.compile(r'\beducacion\b',     re.IGNORECASE), 'educación'),
+    # fundación (singular only)
+    (re.compile(r'\bfundacion\b',     re.IGNORECASE), 'fundación'),
+    # participación (singular only)
+    (re.compile(r'\bparticipacion\b', re.IGNORECASE), 'participación'),
+    # acción (singular only) — careful: 'accion' matches "acción"
+    (re.compile(r'\baccion\b',        re.IGNORECASE), 'acción'),
+    # reacción (singular only)
+    (re.compile(r'\breaccion\b',      re.IGNORECASE), 'reacción'),
+    # interacción (singular only)
+    (re.compile(r'\binteraccion\b',   re.IGNORECASE), 'interacción'),
+    # satisfacción (singular only)
+    (re.compile(r'\bsatisfaccion\b',  re.IGNORECASE), 'satisfacción'),
+    # adopción (singular only)
+    (re.compile(r'\badopcion\b',      re.IGNORECASE), 'adopción'),
+    # absorción (singular only)
+    (re.compile(r'\babsorcion\b',     re.IGNORECASE), 'absorción'),
+    # implicación (singular only)
+    (re.compile(r'\bimplicacion\b',   re.IGNORECASE), 'implicación'),
+    # habitación (singular only)
+    (re.compile(r'\bhabitacion\b',    re.IGNORECASE), 'habitación'),
+    # observación (singular only)
+    (re.compile(r'\bobservacion\b',   re.IGNORECASE), 'observación'),
+    # transformación (singular only)
+    (re.compile(r'\btransformacion\b',re.IGNORECASE), 'transformación'),
+    # confrontación (singular only)
+    (re.compile(r'\bconfrontacion\b', re.IGNORECASE), 'confrontación'),
+    # denominación (singular only)
+    (re.compile(r'\bdenominacion\b',  re.IGNORECASE), 'denominación'),
+    # conversación (singular only)
+    (re.compile(r'\bconversacion\b',  re.IGNORECASE), 'conversación'),
+    # aplicación (singular only)
+    (re.compile(r'\baplicacion\b',    re.IGNORECASE), 'aplicación'),
+    # recuperación (singular only)
+    (re.compile(r'\brecuperacion\b',  re.IGNORECASE), 'recuperación'),
+    # regulación (singular only)
+    (re.compile(r'\bregulacion\b',    re.IGNORECASE), 'regulación'),
+    # manipulación (singular only)
+    (re.compile(r'\bmanipulacion\b',  re.IGNORECASE), 'manipulación'),
+    # resolución (singular only)
+    (re.compile(r'\bresolucion\b',    re.IGNORECASE), 'resolución'),
+    # versión (singular only)
+    (re.compile(r'\bversion\b',       re.IGNORECASE), 'versión'),
+    # cuestión (singular only)
+    (re.compile(r'\bcuestion\b',      re.IGNORECASE), 'cuestión'),
+    # atracción (singular only)
+    (re.compile(r'\batraccion\b',     re.IGNORECASE), 'atracción'),
+    # inspiración (singular only)
+    (re.compile(r'\binspiracion\b',   re.IGNORECASE), 'inspiración'),
+    # motivación (singular only)
+    (re.compile(r'\bmotivacion\b',    re.IGNORECASE), 'motivación'),
+    # adaptación (singular only)
+    (re.compile(r'\badaptacion\b',    re.IGNORECASE), 'adaptación'),
+    # comprensión (singular only)
+    (re.compile(r'\bcomprension\b',   re.IGNORECASE), 'comprensión'),
+    # conexión (singular only)
+    (re.compile(r'\bconexion\b',      re.IGNORECASE), 'conexión'),
+    # dimensión (singular only)
+    (re.compile(r'\bdimension\b',     re.IGNORECASE), 'dimensión'),
+    # intención (singular only)
+    (re.compile(r'\bintencion\b',     re.IGNORECASE), 'intención'),
+    # tensión (singular only)
+    (re.compile(r'\btension\b',       re.IGNORECASE), 'tensión'),
+    # noción (singular only)
+    (re.compile(r'\bnocion\b',        re.IGNORECASE), 'noción'),
+    # selección (singular only)
+    (re.compile(r'\bseleccion\b',     re.IGNORECASE), 'selección'),
+    # recomendación (singular only)
+    (re.compile(r'\brecomendacion\b', re.IGNORECASE), 'recomendación'),
+    # dedicación (singular only)
+    (re.compile(r'\bdedicacion\b',    re.IGNORECASE), 'dedicación'),
+    # gestión (singular only)
+    (re.compile(r'\bgestion\b',       re.IGNORECASE), 'gestión'),
+    # repetición (singular only)
+    (re.compile(r'\brepeticion\b',    re.IGNORECASE), 'repetición'),
+    # descripción (singular only)
+    (re.compile(r'\bdescripcion\b',   re.IGNORECASE), 'descripción'),
+    # perfección (singular only)
+    (re.compile(r'\bperfeccion\b',    re.IGNORECASE), 'perfección'),
+    # definición (singular only)
+    (re.compile(r'\bdefinicion\b',    re.IGNORECASE), 'definición'),
+    # condición (singular only)
+    (re.compile(r'\bcondicion\b',     re.IGNORECASE), 'condición'),
+    # percepción (already above)
+    # posición (already above)
 ]
 
 def fix_esdrujulas(line):

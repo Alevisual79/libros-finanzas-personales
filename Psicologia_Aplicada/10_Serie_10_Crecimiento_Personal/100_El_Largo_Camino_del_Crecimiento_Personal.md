@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Este es el último libro de la colección psicología Aplicada. Elena, Ruben, e Isabel han atravesado con nosotros diez series de diez libros: la mente y como funciona, la ansiedad y los miedos, la autoestima, las emociones, el trauma, los habitos mentales, la depresión, la personalidad, la influencia social, y el crecimiento personal. Han aprendido, han cambiado algunos de sus patrones, han entendido mejor por qué hacen lo que hacen, y han encontrado herramientas que les permiten funcionar mejor. Este último libro es el más ambicioso de la colección: no es sobre una habilidad específica sino sobre la visión de conjunto. El crecimiento personal no es un proyecto con un fin sino el camino de toda una vida. Este libro es sobre ese camino.
+Este es el último libro de la colección psicología Aplicada. Elena, Ruben, e Isabel han atravesado con nosotros diez series de diez libros: la mente y como funciona, la ansiedad y los miedos, la autoestima, las emociones, el trauma, los hábitos mentales, la depresión, la personalidad, la influencia social, y el crecimiento personal. Han aprendido, han cambiado algunos de sus patrones, han entendido mejor por qué hacen lo que hacen, y han encontrado herramientas que les permiten funcionar mejor. Este último libro es el más ambicioso de la colección: no es sobre una habilidad específica sino sobre la visión de conjunto. El crecimiento personal no es un proyecto con un fin sino el camino de toda una vida. Este libro es sobre ese camino.
 
 ---
 
@@ -93,7 +93,7 @@ Vivir para dejar algo que vale la pena no es sacrificio. Es la forma más profun
 
 Elena, Ruben, e Isabel no son viejos todavia. Pero los patrones que establecen ahora determinaran como envejeceran.
 
-**El Principio del Envejecimiento Exitoso como Posible con Prioridades específicas que Pueden Establecerse Mucho Antes de la Vejez:** La investigación de George Vaillant en el Harvard Study of Adult Development muestra que el envejecimiento exitoso (mantener salud física, psicológica, y social hasta una edad avanzada) esta predicho por factores que se establecen décadas antes: la ausencia de abuso de sustancias, el no fumar, el ejercicio regular, el peso saludable, el manejo adaptativo del estres, la educación continua, y especialmente la calidad de las relaciones.
+**El Principio del Envejecimiento Exitoso como Posible con Prioridades específicas que Pueden Establecerse Mucho Antes de la Vejez:** La investigación de George Vaillant en el Harvard Study of Adult Development muestra que el envejecimiento exitoso (mantener salud física, psicológica, y social hasta una edad avanzada) esta predicho por factores que se establecen décadas antes: la ausencia de abuso de sustancias, el no fumar, el ejercicio regular, el peso saludable, el manejo adaptativo del estrés, la educación continua, y especialmente la calidad de las relaciones.
 
 Laura Carstensen y la Teoria de la Selectividad Socio-emocional muestran que a medida que las personas envejecen y perciben que el tiempo que les queda es más limitado, naturalmente reorienten sus prioridades hacía las relaciones y las experiencias que producen mayor significado, y hacía las emociones positivas. El envejecimiento no es solo deterioro: es frecuentemente una reorientación hacía lo que genuinamente importa.
 
@@ -125,7 +125,7 @@ Isabel lleva una vida de aprendizaje y ha llegado a entender que la integración
 
 Viktor Frankl propuso que la capacidad de dar sentido a la propia vida (de narrarla de forma que tenga coherencia y proposito) es la dimensión psicológica más específicamente humana y la fuente de la mayor resiliencia ante la adversidad.
 
-**Ejercicio inmediato:** Escribe en una página la historia de tu vida hasta ahora como si se la contaras a alguien que no te conoce: los momentos que más te han formado, las personas que más han influido en quien eres, los aprendizajes que más valoras, y el tema central que conecta todo. Después reflexiona: ¿que historia emerge? ¿Es una historia de crecimiento, de resistencia, de busqueda, de contribución? La respuesta revela el hilo narrativo de quien eres y orienta el siguiente capítulo.
+**Ejercicio inmediato:** Escribe en una página la historia de tu vida hasta ahora como si se la contaras a alguien que no te conoce: los momentos que más te han formado, las personas que más han influido en quien eres, los aprendizajes que más valoras, y el tema central que conecta todo. Después reflexiona: ¿que historia emerge? ¿Es una historia de crecimiento, de resistencia, de búsqueda, de contribución? La respuesta revela el hilo narrativo de quien eres y orienta el siguiente capítulo.
 
 La historia de tu vida que no puedes contar todavia es la que estas escribiendo ahora. Escribe la que querrías haber escrito.
 

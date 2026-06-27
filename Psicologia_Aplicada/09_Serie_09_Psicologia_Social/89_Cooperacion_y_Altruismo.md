@@ -35,13 +35,13 @@ Todo lo que tienes que no construiste tu mismo es el resultado de la cooperació
 
 ## Capítulo 2: La empatia como base del altruismo: sentir lo que siente el otro
 
-Isabel ha visto cómo la empatia hacía casos concretos moviliza mucho más la acción que las estadisticas abstractas.
+Isabel ha visto cómo la empatia hacía casos concretos moviliza mucho más la acción que las estadísticas abstractas.
 
-**El Principio de la Empatia como Activador Motivacional del Comportamiento Prosocial:** La investigación de C. Daniel Batson sobre el altruismo y la empatia propone la hipotesis empatia-altruismo: cuando sentimos empatia hacía una persona específica en necesidad, ese estado emocional produce motivación altruista genuina (ayudar porque queremos reducir el sufrimiento del otro) en lugar de solo motivación egoista (ayudar para sentirnos mejor o para evitar sentirnos culpables).
+**El Principio de la Empatia como Activador Motivacional del Comportamiento Prosocial:** La investigación de C. Daniel Batson sobre el altruismo y la empatia propone la hipótesis empatia-altruismo: cuando sentimos empatia hacía una persona específica en necesidad, ese estado emocional produce motivación altruista genuina (ayudar porque queremos reducir el sufrimiento del otro) en lugar de solo motivación egoista (ayudar para sentirnos mejor o para evitar sentirnos culpables).
 
-La investigación de Paul Slovic sobre el colapso de la compasión (compassión fade) muestra que la empatia y el impulso de ayudar son más fuertes hacía una persona individual con historia que hacía grupos numerosos de personas en necesidad: donar a una niña africana con nombre y foto moviliza más ayuda que donar a los ocho millones de niños en riesgo. Las estadisticas anonimizadas anestesian la empatia que las historias individuales activan.
+La investigación de Paul Slovic sobre el colapso de la compasión (compassión fade) muestra que la empatia y el impulso de ayudar son más fuertes hacía una persona individual con historia que hacía grupos numerosos de personas en necesidad: donar a una niña africana con nombre y foto moviliza más ayuda que donar a los ocho millones de niños en riesgo. Las estadísticas anonimizadas anestesian la empatia que las historias individuales activan.
 
-**Ejercicio inmediato:** Para la próxima causa social o iniciativa de ayuda que consideres apoyar, busca la historia individual de una persona afectada (con nombre, contexto, historia) en lugar de solo las estadisticas. La historia individual activa la empatia que las estadisticas no activan, y esa empatia produce mayor compromiso sostenido.
+**Ejercicio inmediato:** Para la próxima causa social o iniciativa de ayuda que consideres apoyar, busca la historia individual de una persona afectada (con nombre, contexto, historia) en lugar de solo las estadísticas. La historia individual activa la empatia que las estadísticas no activan, y esa empatia produce mayor compromiso sostenido.
 
 Los números describen el problema. Las personas lo hacen real.
 
@@ -111,7 +111,7 @@ Isabel quiere crear en su empresa una cultura donde dar sea la norma y no la exc
 
 Sin embargo, Grant también muestra que los givers individuales en entornos de takers son frecuentemente los que peor les va: son explotados por los takers y quemados por el exceso de demandas. La cultura del dar funciona cuando es sistemica (la norma del grupo) y cuando hay mecanismos que protegen a los givers de la explotación.
 
-**Ejercicio inmediato:** En tu entorno de trabajo, reflexiona: cuando alguien tiene una pregunta que puedo responder o una necesidad con la que puedo ayudar, cuál es mi primera reacción: ¿ofrezco la ayuda, cálculo si puedo permitirmelo, o esperó que me la pidan? El habito de la generosidad proactiva (ofrecer antes de que te pidan) es el que más contribuye a una cultura de dar y es el más infrecuente.
+**Ejercicio inmediato:** En tu entorno de trabajo, reflexiona: cuando alguien tiene una pregunta que puedo responder o una necesidad con la que puedo ayudar, cuál es mi primera reacción: ¿ofrezco la ayuda, cálculo si puedo permitirmelo, o esperó que me la pidan? El hábito de la generosidad proactiva (ofrecer antes de que te pidan) es el que más contribuye a una cultura de dar y es el más infrecuente.
 
 El que espera que le pidan ayuda nunca sabe cuanta ayuda ha dejado sin dar.
 
@@ -153,7 +153,7 @@ Ruben ha llegado a entender que el éxito que consigue solo y el que consigue ay
 
 La investigación de Yochai Benkler sobre la economía de la cooperación muestra que los sistemas de producción cooperativa distribuida (Wikipedia, el software de código abierto, las plataformas de conocimiento compartido) producen resultados de calidad igual o superior a los mercados capitalistas en áreas específicas, sugiriendo que la cooperación no es solo altruista sino frecuentemente también económicamente superior.
 
-**Ejercicio inmediato:** Identifica un recurso que tienes (conocimiento, conexiones, tiempo, experiencia) cuya compartición no te costaría nada o muy poco pero podría beneficiar significativamente a alguien de tu entorno. Compartelo esta semana sin expectativa de retorno inmediato. El habito de la generosidad proactiva, practicado consistentemente, transforma la calidad de las relaciones y los entornos donde se vive y trabaja.
+**Ejercicio inmediato:** Identifica un recurso que tienes (conocimiento, conexiones, tiempo, experiencia) cuya compartición no te costaría nada o muy poco pero podría beneficiar significativamente a alguien de tu entorno. Compartelo esta semana sin expectativa de retorno inmediato. El hábito de la generosidad proactiva, practicado consistentemente, transforma la calidad de las relaciones y los entornos donde se vive y trabaja.
 
 El éxito que se comparte crece. El que se guarda solo conserva lo que ya tiene.
 

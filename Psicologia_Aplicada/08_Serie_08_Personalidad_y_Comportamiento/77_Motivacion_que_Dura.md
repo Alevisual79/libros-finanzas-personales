@@ -81,7 +81,7 @@ Ruben tiene momentos de alta productividad justo antes de los deadlines. El mied
 
 **El Principio del Miedo como Motivador de Corto Plazo con Costes de Largo Plazo:** La investigación de Carol Dweck y colegas sobre la orientación a la evitación del fracaso vs la orientación al logró muestra que las personas motivadas principalmente por el miedo al fracaso (orientación de evitación) son activas bajo alta presión pero producen menos innovación, tienen menor bienestar, y muestran mayor agotamiento a lo largo del tiempo que las motivadas por el logró (orientación de aproximación).
 
-La motivación por miedo activa el sistema nervioso simpatico (la respuesta de estres), que a corto plazo produce alta energía y concentración, pero a largo plazo produce agotamiento, rigidez cognitiva, y resistencia creciente. Los profesionales que trabajan cronicamente bajo motivación de miedo muestran tasas más altas de burnout que los que trabajan bajo motivación de proposito o maestria.
+La motivación por miedo activa el sistema nervioso simpatico (la respuesta de estrés), que a corto plazo produce alta energía y concentración, pero a largo plazo produce agotamiento, rigidez cognitiva, y resistencia creciente. Los profesionales que trabajan cronicamente bajo motivación de miedo muestran tasas más altas de burnout que los que trabajan bajo motivación de proposito o maestria.
 
 **Ejercicio inmediato:** Para los proyectos o tareas donde tu motivación principal es evitar las consecuencias negativas (el miedo al fracaso, la desaprobación, o el castigo), reflexiona: ¿hay una orientación alternativa disponible? ¿Que podría ser valioso de esa actividad independientemente de las consecuencias? No se trata de suprimir el miedo (es útil hasta cierto punto) sino de no depender exclusivamente de el.
 
@@ -137,7 +137,7 @@ Ruben ha llegado a entender que no puede controlar si se siente motivado. Pero s
 
 **El Principio de las Condiciones de Motivación como Variables Disenables:** La investigación sugiere que aunque la motivación no se puede forzar directamente (no puedes decidir sentirte motivado), si pueden diseñarse las condiciones que la hacen más probable: la claridad del objetivo, el desafio adecuado, la autonomía en cómo se aborda la tarea, la conexión con el proposito de la actividad, y la retroalimentación inmediata sobre el progreso.
 
-BJ Fogg propone que la motivación es un recurso poco confiable y que diseñar comportamientos que funcionen incluso con motivación mínima (habitos y sistemas) es más sostenible que depender de altos picos de motivación para completar las tareas importantes.
+BJ Fogg propone que la motivación es un recurso poco confiable y que diseñar comportamientos que funcionen incluso con motivación mínima (hábitos y sistemas) es más sostenible que depender de altos picos de motivación para completar las tareas importantes.
 
 **Ejercicio inmediato:** Para la actividad más importante que quieres sostener, diseña sus condiciones de motivación: reduce la tarea a su versión mínima para cuando la motivación es baja, conectala con su proposito más grande, y crea un sistema de retroalimentación del progreso. El objetivo es que la actividad pueda sostenerse incluso en los dias donde la motivación es escasa.
 

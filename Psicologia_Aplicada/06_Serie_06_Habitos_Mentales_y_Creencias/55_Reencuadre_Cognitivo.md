@@ -1,7 +1,7 @@
 # Reencuadre Cognitivo
 ## Cómo cambiar la perspectiva para cambiar la experiencia
 
-**Serie 06: Habitos Mentales y Creencias — Libro 5 de 10**
+**Serie 06: Hábitos Mentales y Creencias — Libro 5 de 10**
 
 ---
 
@@ -39,7 +39,7 @@ Ruben ha tenido un fracaso profesional que interpreta como demostración de su i
 
 **El Principio del Reencuadre de Contenido como Cambio de Significado:** El reencuadre de contenido cambia lo que algo significa manteniendo el contexto: el mismo fracaso puede ser interpretado como incompetencia (Marco A) o como información valiosa sobre lo que no funciona (Marco B), como demostración de los límites propios (Marco A) o como el coste del aprendizaje en terreno nuevo (Marco B).
 
-Richard Lazarus, investigador del estres y el afrontamiento, propone que la valoración cognitiva de un evento (lo que significa) es la variable más importante en la determinación de la respuesta de estres: el mismo evento produce respuestas de estres muy diferentes dependiendo de si es interpretado como amenaza o como desafio. El reencuadre de amenaza en desafio es una de las aplicaciones más estudiadas del reencuadre cognitivo.
+Richard Lazarus, investigador del estrés y el afrontamiento, propone que la valoración cognitiva de un evento (lo que significa) es la variable más importante en la determinación de la respuesta de estrés: el mismo evento produce respuestas de estrés muy diferentes dependiendo de si es interpretado como amenaza o como desafio. El reencuadre de amenaza en desafio es una de las aplicaciones más estudiadas del reencuadre cognitivo.
 
 **Ejercicio inmediato:** Para el fracaso o la dificultad más reciente que estas interpretando como amenaza (a tu imagen, tu competencia, o tus posibilidades), reformulalo como desafio: ¿que tendrías que aprender, desarrollar, o hacer de manera diferente para responder a este desafio? La reformulación de amenaza en desafio activa el sistema de aproximación en lugar del sistema de evitación.
 
@@ -79,7 +79,7 @@ Casi nada de lo que hoy parece definitivo lo es. La perspectiva temporal lo reve
 
 Elena tiene un conflicto con una colega a quien ha construido en su mente como adversaria. El reencuadre de perspectiva sobre el otro puede cambiar la dinámica sin que ninguno de los dos tenga que cambiar su comportamiento.
 
-**El Principio del Reencuadre Relacional como Cambio en la Atribución Causal:** Fritz Heider propuso la teoria de la atribución: tendemos a explicar el comportamiento de otros en terminos de disposición interna (es una persona egoista, es agresiva, es poco fiable) cuando a menudo hay explicaciones situacionales (estaba bajo estres, no tenía información, había un conflicto de intereses que yo desconozco).
+**El Principio del Reencuadre Relacional como Cambio en la Atribución Causal:** Fritz Heider propuso la teoria de la atribución: tendemos a explicar el comportamiento de otros en terminos de disposición interna (es una persona egoista, es agresiva, es poco fiable) cuando a menudo hay explicaciones situacionales (estaba bajo estrés, no tenía información, había un conflicto de intereses que yo desconozco).
 
 Este sesgo (llamado el error fundamental de atribución) produce narrativas sobre los otros que son más negativas y más fijas de lo justificado. El reencuadre relacional consiste en generar explicaciones alternativas del comportamiento del otro que incluyan factores situacionales: ¿que podría estar ocurriendo en su vida que explica (aunque no justifique) este comportamiento?
 
@@ -105,15 +105,15 @@ El fracaso que procesas como información te hace más capaz. El que solo te hac
 
 ## Capítulo 7: El reencuadre del estres: la respuesta que ayuda
 
-Isabel vive con altos niveles de estres y los interpreta como señal de que algo esta mal. La investigación tiene una perspectiva diferente que puede cambiar su relación con el estres.
+Isabel vive con altos niveles de estrés y los interpreta como señal de que algo esta mal. La investigación tiene una perspectiva diferente que puede cambiar su relación con el estrés.
 
-**El Principio del Reencuadre del Estres como Recurso:** Kelly McGonigal, psicóloga de Stanford, propuso un reencuadre del estres basado en la investigación de Alia Crum y colegas: la creencia de que el estres es perjudicial para la salud se asocia con peores outcomes de salud que la creencia de que el estres es una señal de que algo importa y que el cuerpo se está preparando para afrontarlo.
+**El Principio del Reencuadre del Estrés como Recurso:** Kelly McGonigal, psicóloga de Stanford, propuso un reencuadre del estrés basado en la investigación de Alia Crum y colegas: la creencia de que el estrés es perjudicial para la salud se asocia con peores outcomes de salud que la creencia de que el estrés es una señal de que algo importa y que el cuerpo se está preparando para afrontarlo.
 
-Crum y colegas muestran que simplemente informar a las personas de los beneficios potenciales del estres (mayor atención, mayor energía, mayor movilización de recursos) antes de una situación estresante produce mejores outcomes fisiológicos y cognitivos que informarles de sus costes. El marcó desde el que se interpreta la respuesta de estres modifica los efectos fisiológicos del estres.
+Crum y colegas muestran que simplemente informar a las personas de los beneficios potenciales del estrés (mayor atención, mayor energía, mayor movilización de recursos) antes de una situación estresante produce mejores outcomes fisiológicos y cognitivos que informarles de sus costes. El marcó desde el que se interpreta la respuesta de estrés modifica los efectos fisiológicos del estrés.
 
-**Ejercicio inmediato:** La próxima vez que notes los signos físicos del estres (corazón acelerado, tensión muscular, mayor alerta), en lugar de interpretar esos signos como señal de que algo esta mal, reformula: mi cuerpo se está preparando para afrontar algo que me importa. Esta reformulación no es negación del estres: es un cambio en el marcó que modifica su efecto.
+**Ejercicio inmediato:** La próxima vez que notes los signos físicos del estrés (corazón acelerado, tensión muscular, mayor alerta), en lugar de interpretar esos signos como señal de que algo esta mal, reformula: mi cuerpo se está preparando para afrontar algo que me importa. Esta reformulación no es negación del estrés: es un cambio en el marcó que modifica su efecto.
 
-El estres no es tu enemigo. Es la señal de que algo te importa lo suficiente como para qué tu cuerpo se movilice por ello.
+El estrés no es tu enemigo. Es la señal de que algo te importa lo suficiente como para qué tu cuerpo se movilice por ello.
 
 ---
 
@@ -149,9 +149,9 @@ El reencuadre que te ayuda a actuar es una herramienta. El que te da razones par
 
 Isabel ha llegado al final del libro y quiere incorporar el reencuadre como práctica habitual, no como herramienta de emergencia.
 
-**El Principio del Reencuadre como Musculo que se Desarrolla con práctica:** La investigación sobre la flexibilidad cognitiva muestra que la capacidad de generar multiples perspectivas sobre la misma situación puede desarrollarse con práctica deliberada. Las personas que practican regularmente la generación de interpretaciones alternativas muestran mayor flexibilidad cognitiva general y mayor resiliencia ante la adversidad.
+**El Principio del Reencuadre como Músculo que se Desarrolla con práctica:** La investigación sobre la flexibilidad cognitiva muestra que la capacidad de generar multiples perspectivas sobre la misma situación puede desarrollarse con práctica deliberada. Las personas que practican regularmente la generación de interpretaciones alternativas muestran mayor flexibilidad cognitiva general y mayor resiliencia ante la adversidad.
 
-Las prácticas que desarrollan la habilidad de reencuadre incluyen: la escritura reflexiva sobre las interpretaciones de los eventos cotidianos, la lectura de perspectivas diversas (literatura, filosofía, otras culturas), la exposición deliberada a puntos de vista diferentes del propio, y el trabajo terapeutico con enfoques cognitivos.
+Las prácticas que desarrollan la habilidad de reencuadre incluyen: la escritura reflexiva sobre las interpretaciones de los eventos cotidianos, la lectura de perspectivas diversas (literatura, filosofía, otras culturas), la exposición deliberada a puntos de vista diferentes del propio, y el trabajo terapéutico con enfoques cognitivos.
 
 **Ejercicio inmediato:** Esta semana, cuando algo te produzca una emoción negativa intensa, práctica el ejercicio de las tres perspectivas: escribe la situación desde tu perspectiva actual, luego desde la perspectiva de alguien que lo viera de forma diferente, luego desde la perspectiva que tendrías en diez años. Estas tres perspectivas son el entrenamiento basico de la flexibilidad cognitiva.
 
@@ -165,7 +165,7 @@ Elena llevo semanas viendo su perfeccionismo cómo un fallo. Un dia, en lugar de
 
 ---
 
-*Libro 55 de la colección psicología Aplicada, Libro 5 de 10 de Serie 06: Habitos Mentales y Creencias.*
+*Libro 55 de la colección psicología Aplicada, Libro 5 de 10 de Serie 06: Hábitos Mentales y Creencias.*
 
 ---
 

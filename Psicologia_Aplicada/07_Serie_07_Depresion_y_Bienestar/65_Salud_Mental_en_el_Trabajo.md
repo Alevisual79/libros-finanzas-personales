@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben trabaja en marketing freelance en un entorno de alta exigencia: los plazos son ajustados, los clientes son exigentes, y la incertidumbre del trabajo autonomo es constante. Ha normalizado el estres como parte del precio del éxito. Lo que no ha normalizado es que ese nivel de estres tiene consecuencias para su salud mental que va a pagar, antes o después, de una forma u otra. Este libro es sobre la salud mental en el entorno laboral: los riesgos específicos que el trabajo produce, las estrategias que la investigación muestra que funcionan, y como construir una relación con el trabajo que no destruya la mente.
+Ruben trabaja en marketing freelance en un entorno de alta exigencia: los plazos son ajustados, los clientes son exigentes, y la incertidumbre del trabajo autonomo es constante. Ha normalizado el estrés como parte del precio del éxito. Lo que no ha normalizado es que ese nivel de estrés tiene consecuencias para su salud mental que va a pagar, antes o después, de una forma u otra. Este libro es sobre la salud mental en el entorno laboral: los riesgos específicos que el trabajo produce, las estrategias que la investigación muestra que funcionan, y como construir una relación con el trabajo que no destruya la mente.
 
 ---
 
@@ -23,7 +23,7 @@ Ruben trabaja en marketing freelance en un entorno de alta exigencia: los plazos
 
 El burnout no es solo cansancio. Es un agotamiento sistemático con consecuencias específicas.
 
-**El Principio del Burnout como Trastorno clínico con Tres Dimensiones específicas:** Christina Maslach define el burnout cómo un sindrome de agotamiento emocional, despersonalización (o cinismo, la distancia emocional hacía el trabajo y las personas implicadas), y reducción de la sensación de logró personal que emerge de la exposición cronica a estresores laborales. La OMS incluyó el burnout en la CIE-11 en 2019 cómo un fenómeno ocupacional (no un trastorno mental) que requiere atención.
+**El Principio del Burnout como Trastorno clínico con Tres Dimensiones específicas:** Christina Maslach define el burnout cómo un síndrome de agotamiento emocional, despersonalización (o cinismo, la distancia emocional hacía el trabajo y las personas implicadas), y reducción de la sensación de logró personal que emerge de la exposición cronica a estresores laborales. La OMS incluyó el burnout en la CIE-11 en 2019 cómo un fenómeno ocupacional (no un trastorno mental) que requiere atención.
 
 La investigación de Maslach y colegas identifica seis áreas de desajuste que predicen el burnout: desajuste entre la carga de trabajo y la capacidad, entre el nivel de control y la responsabilidad, entre las recompensas y el esfuerzo, entre la comunidad (relaciones en el trabajo) y el aislamiento, entre los valores propios y los de la organización, y entre el sentido de justicia y la percepción de inequidad.
 
@@ -37,7 +37,7 @@ El burnout no lo produces tu solo. Es el resultado de un desajuste entre lo que 
 
 Isabel tiene dificultades para decir no en el trabajo por miedo a las consecuencias. Pero los límites que no establece tienen costes que no ve inmediatamente.
 
-**El Principio de los Limites Laborales como Gestion de Recursos, no como Egoismo:** La investigación de Sabine Sonnentag sobre recuperación del estres laboral muestra que la recuperación efectiva del trabajo (el proceso de restaurar los recursos agotados durante la jornada laboral) requiere desconexion psicológica del trabajo fuera de las horas laborales. La persona que no desconecta del trabajo en su tiempo libre no recupera los recursos que el siguiente dia laboral va a consumir, produciendo un deficit acumulativo que eventualmente conduce al burnout.
+**El Principio de los Limites Laborales como Gestión de Recursos, no como Egoismo:** La investigación de Sabine Sonnentag sobre recuperación del estrés laboral muestra que la recuperación efectiva del trabajo (el proceso de restaurar los recursos agotados durante la jornada laboral) requiere desconexion psicológica del trabajo fuera de las horas laborales. La persona que no desconecta del trabajo en su tiempo libre no recupera los recursos que el siguiente dia laboral va a consumir, produciendo un deficit acumulativo que eventualmente conduce al burnout.
 
 Los límites en el trabajo no son solo horarios de entrada y salida: incluyen la gestión de las expectativas de disponibilidad (los emails y mensajes fuera de horario), la capacidad de decir no a responsabilidades que exceden la capacidad razonable, y la protección del tiempo de recuperación (vacaciones, fines de semana, descanso diario).
 
@@ -65,7 +65,7 @@ El trabajo que te consume no siempre es el que tiene más carga. A veces es el q
 
 Elena trabaja sin descanso real y se pregunta por qué cada vez rinde menos aunque trabaja más horas.
 
-**El Principio de la Recuperación como Componente del Rendimiento, no Oposición al el:** La investigación de Sabine Sonnentag y colegas sobre los mecanismos de recuperación del estres laboral identifica cuatro tipos de experiencias de recuperación: desconexion psicológica (no pensar en el trabajo), relajación, busqueda de desafios (actividades estimulantes fuera del trabajo), y control (elegir libremente como usar el tiempo libre).
+**El Principio de la Recuperación como Componente del Rendimiento, no Oposición al el:** La investigación de Sabine Sonnentag y colegas sobre los mecanismos de recuperación del estrés laboral identifica cuatro tipos de experiencias de recuperación: desconexion psicológica (no pensar en el trabajo), relajación, búsqueda de desafios (actividades estimulantes fuera del trabajo), y control (elegir libremente como usar el tiempo libre).
 
 Peretz Lavie, investigador del sueño, mostró que el rendimiento cognitivo sigue ciclos ultradianos de 90-120 minutos de alta eficiencia seguidos de períodos de eficiencia reducida. Trabajar durante los períodos de eficiencia reducida sin descanso no solo no produce trabajo de calidad sino que profundiza el deterioro de la eficiencia en el ciclo siguiente.
 
@@ -83,7 +83,7 @@ Ruben tiene un cliente que le produce una tensión cronica que no ha resuelto. E
 
 La investigación de William Kahn sobre el compromiso en el trabajo muestra que las personas se comprometen cuando sienten seguridad psicológica: la confianza de que pueden mostrarse tal como son (incluyendo admitir errores, pedir ayuda, o expresar ideas) sin consecuencias negativas. Los entornos con alta seguridad psicológica producen mayor creatividad, mayor aprendizaje, y mejor rendimiento del equipo.
 
-**Ejercicio inmediato:** Para la relación laboral que más te cuesta en este momento, reflexiona: ¿que ocurriria si abordaras directamente el problema? Si la respuesta es que las consecuencias serían manejables, considera iniciar esa conversación con un enfoque de busqueda de solución. Si las consecuencias podrían ser significativas, esa información es relevante para evaluar si ese entorno laboral es sostenible a largo plazo.
+**Ejercicio inmediato:** Para la relación laboral que más te cuesta en este momento, reflexiona: ¿que ocurriria si abordaras directamente el problema? Si la respuesta es que las consecuencias serían manejables, considera iniciar esa conversación con un enfoque de búsqueda de solución. Si las consecuencias podrían ser significativas, esa información es relevante para evaluar si ese entorno laboral es sostenible a largo plazo.
 
 La relación laboral que no resuelves no desaparece. Se convierte en el contexto de tu vida cotidiana.
 
@@ -91,7 +91,7 @@ La relación laboral que no resuelves no desaparece. Se convierte en el contexto
 
 ## Capítulo 6: El perfeccionismo laboral: el estandar que nunca es suficiente
 
-Isabel tiene estandares de trabajo altisimos que la han llevado al éxito pero también a un nivel de estres que no puede mantener.
+Isabel tiene estandares de trabajo altisimos que la han llevado al éxito pero también a un nivel de estrés que no puede mantener.
 
 **El Principio del Perfeccionismo Laboral como Factor de Riesgo de Burnout:** Paul Hewitt y Gordon Flett distinguen entre el perfeccionismo adaptativo (estandares altos que motivan sin producir ansiedad excesiva ante la imperfección) y el perfeccionismo maladaptativo (estandares inalcanzables, crítica severa ante cualquier imperfección, y alta ansiedad ante el error). El segundo se asocia con burnout, procrastinación (evitar empezar para evitar el riesgo de imperfección), y deterioro de la salud mental.
 
@@ -123,7 +123,7 @@ Elena revisa el correo del trabajo a las once de la noche. No porque quiera sino
 
 **El Principio de la Desconexion Digital como Condición Necesaria para la Recuperación:** La investigación de Arlie Hochschild sobre las segundas jornadas (el trabajo domestico que se hace después del trabajo remunerado) se actualiza en el siglo XXI con la hiperconectividad digital: las expectativas de disponibilidad permanente a traves del movil eliminan el tiempo de recuperación psicológica entre jornadas laborales.
 
-La investigación de Sabine Sonnentag y Britta Bayer sobre la desconexion psicológica del trabajo muestra que es la variable que más predice la recuperación del estres laboral: las personas que pueden desconectar psicológicamente del trabajo en su tiempo libre muestran mayor bienestar, mayor energía al dia siguiente, y menor riesgo de burnout.
+La investigación de Sabine Sonnentag y Britta Bayer sobre la desconexion psicológica del trabajo muestra que es la variable que más predice la recuperación del estrés laboral: las personas que pueden desconectar psicológicamente del trabajo en su tiempo libre muestran mayor bienestar, mayor energía al dia siguiente, y menor riesgo de burnout.
 
 **Ejercicio inmediato:** Esta noche, carga el movil fuera del dormitorio. Si lo usas como despertador, compra un despertador (cuestan menos de diez euros). El dormitorio sin movil elimina la última exposición al trabajo antes de dormir y la primera al levantarte, que son los dos momentos más críticos para la desconexion psicológica.
 
@@ -135,7 +135,7 @@ La conectividad permanente que parece productividad es deuda de recuperación qu
 
 Ruben ha tenido períodos de salud mental muy deteriorada que han afectado a su trabajo. No ha hablado de ello con nadie por miedo al juicio.
 
-**El Principio de la Revelación Selectiva en el Entorno Laboral como Estrategia de Gestion:** La investigación de Diane Quinn y colegas sobre el estigma de la salud mental en el trabajo muestra que el nivel de estigma varia significativamente por cultura organizacional, sector, y pais. Hablar de la salud mental en el trabajo es un riesgo que puede producir apoyo o estigma segun el contexto.
+**El Principio de la Revelación Selectiva en el Entorno Laboral como Estrategia de Gestión:** La investigación de Diane Quinn y colegas sobre el estigma de la salud mental en el trabajo muestra que el nivel de estigma varia significativamente por cultura organizacional, sector, y pais. Hablar de la salud mental en el trabajo es un riesgo que puede producir apoyo o estigma segun el contexto.
 
 La estrategia de revelación selectiva en el trabajo incluye: ¿evaluar la cultura del entorno (hay personas que han hablado de salud mental sin consecuencias negativas?), elegir con quien compartir (el jefe directo puede ser un aliado o un riesgo segun el caso), y pedir lo que se necesita de forma concreta (necesito reducir temporalmente mi carga de trabajo es más accionable que estoy pasandolo mal).
 
@@ -161,7 +161,7 @@ El trabajo que destruye la salud para producir éxito no es éxito. Es una deuda
 
 ## Epílogo
 
-Ruben renegocio sus contratos con dos clientes que le producian el mayor estres y despidio al tercero que le hacía imposible la desconexion. Sus ingresos bajaron un veinte por ciento durante tres meses. Su salud mental mejoro un cuarenta por ciento desde el primer mes. Calculo que la diferencia económica no cubria el coste de lo que el estres le estaba haciendo. Y una vez que hizo ese cálculo, la decisión fue más facil de lo que había imaginado.
+Ruben renegocio sus contratos con dos clientes que le producian el mayor estrés y despidio al tercero que le hacía imposible la desconexion. Sus ingresos bajaron un veinte por ciento durante tres meses. Su salud mental mejoro un cuarenta por ciento desde el primer mes. Calculo que la diferencia económica no cubria el coste de lo que el estrés le estaba haciendo. Y una vez que hizo ese cálculo, la decisión fue más facil de lo que había imaginado.
 
 ---
 

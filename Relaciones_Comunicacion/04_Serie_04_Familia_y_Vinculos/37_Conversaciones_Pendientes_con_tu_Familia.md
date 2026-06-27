@@ -1,7 +1,7 @@
 # Conversaciones Pendientes con tu Familia
 ## Las conversaciones que cambian las relaciones familiares para siempre
 
-**Serie 04: Familia y Vinculos — Libro 7 de 10**
+**Serie 04: Familia y Vínculos — Libro 7 de 10**
 
 ---
 
@@ -147,7 +147,7 @@ Las conversaciones que llevas aplazando son exactamente las que más pueden sana
 
 ---
 
-*Libro 37 de la colección, Libro 7 de 10 de Serie 04: Familia y Vinculos.*
+*Libro 37 de la colección, Libro 7 de 10 de Serie 04: Familia y Vínculos.*
 
 ---
 

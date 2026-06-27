@@ -83,7 +83,7 @@ La dificultad de salir de una relación narcisista no es debilidad personal. Es 
 
 Para situaciones donde salir completamente de la relación no es inmediatamente posible o elegido (relaciones familiares, situaciones laborales con limitaciones prácticas), existen estrategias específicas que pueden reducir el impacto del daño mientras se permanece en contacto.
 
-**El Principio de la Gestion Estratégica con Limites Claros:** Gestionar una relación con alguien narcisista mientras se permanece en contacto requiere límites particularmente claros y consistentemente mantenidos, reducción de la vulnerabilidad emocional compartida (compartir menos información que pueda usarse en contra), y el desarrollo de fuentes de validación y apoyo independientes de esa relación específica.
+**El Principio de la Gestión Estratégica con Limites Claros:** Gestionar una relación con alguien narcisista mientras se permanece en contacto requiere límites particularmente claros y consistentemente mantenidos, reducción de la vulnerabilidad emocional compartida (compartir menos información que pueda usarse en contra), y el desarrollo de fuentes de validación y apoyo independientes de esa relación específica.
 
 **Ejercicio inmediato:** Si necesitas mantener contacto con alguien con rasgos narcisistas significativos, identifica un límite específico que podrías establecer y mantener consistentemente para reducir el impacto en tu bienestar.
 
@@ -109,7 +109,7 @@ Los hijos criados por un padre o madre con rasgos narcisistas significativos exp
 
 **El Principio del Impacto Desarrollativo específico:** Los hijos de padres narcisistas frecuentemente aprenden a suprimir sus propias necesidades para atender las del progenitor narcisista, desarrollan patrones de búsqueda de validación externa, o en algunos casos, internalizan los mismos patrones narcisistas como modeló aprendido de relacionarse. Reconocer estos impactos específicos ayuda a buscar apoyo apropiado, ya sea para los hijos directamente o para el otro progenitor que busca compensar este impacto.
 
-**Ejercicio inmediato:** Si tienes hijos con un progenitor narcisista, observa si reconoces patrones específicos de supresión de necesidades propias o busqueda excesiva de validación en tus hijos, y considera buscar apoyo profesional especializado si es relevante.
+**Ejercicio inmediato:** Si tienes hijos con un progenitor narcisista, observa si reconoces patrones específicos de supresión de necesidades propias o búsqueda excesiva de validación en tus hijos, y considera buscar apoyo profesional especializado si es relevante.
 
 Los hijos de padres narcisistas necesitan apoyo específico para desarrollar patrones relacionales más saludables que los que el modelo parental narcisista les ofrece por defecto.
 
@@ -119,9 +119,9 @@ Los hijos de padres narcisistas necesitan apoyo específico para desarrollar pat
 
 El proceso de recuperación después de una relación significativa con alguien narcisista frecuentemente requiere tiempo y trabajo específico, dado el impacto particular que estas relaciones tienen en la autoestima y en la confianza en la propia percepción.
 
-**El Principio de la Recuperación Especializada:** La recuperación de una relación narcisista frecuentemente se beneficia de trabajo terapeutico especializado que ayude a reconstruir la confianza en la propia percepción (frecuentemente erosionada por gaslighting y manipulación), procesar el vinculó de apego intermitente que la relación genero, y reconstruir la autoestima daniada por el patron de devaluación experimentado.
+**El Principio de la Recuperación Especializada:** La recuperación de una relación narcisista frecuentemente se beneficia de trabajo terapéutico especializado que ayude a reconstruir la confianza en la propia percepción (frecuentemente erosionada por gaslighting y manipulación), procesar el vinculó de apego intermitente que la relación genero, y reconstruir la autoestima daniada por el patron de devaluación experimentado.
 
-**Ejercicio inmediato:** Si estas en proceso de recuperación después de una relación narcisista, considera buscar apoyo terapeutico específico en este tipo de dinámica, no solo terapia general de recuperación de relaciones.
+**Ejercicio inmediato:** Si estas en proceso de recuperación después de una relación narcisista, considera buscar apoyo terapéutico específico en este tipo de dinámica, no solo terapia general de recuperación de relaciones.
 
 La recuperación de una relación narcisista frecuentemente requiere atención específica al tipo particular de daño que estas relaciones generan, más allá de la recuperación general de cualquier ruptura.
 
@@ -131,7 +131,7 @@ La recuperación de una relación narcisista frecuentemente requiere atención e
 
 Reconocer honestamente los propios rasgos narcisistas, cuando estan presentes y generan daño relacional, es un acto de madurez psicológica que abre la posibilidad de trabajo de cambio genuino.
 
-**El Principio de la Autoevaluación Honesta sin Autocastigo Excesivo:** Reconocer rasgos narcisistas propios (necesidad excesiva de validación, dificultad para reconocer las necesidades de otros, sensibilidad desproporcionada a la crítica) no requiere autocastigo severo, pero si requiere honestidad genuina sobre el impacto que estos rasgos pueden estar teniendo en las relaciones cercanas, y la disposición de trabajar activamente, frecuentemente con apoyo terapeutico, en desarrollar mayor empatia y regulación emocional.
+**El Principio de la Autoevaluación Honesta sin Autocastigo Excesivo:** Reconocer rasgos narcisistas propios (necesidad excesiva de validación, dificultad para reconocer las necesidades de otros, sensibilidad desproporcionada a la crítica) no requiere autocastigo severo, pero si requiere honestidad genuina sobre el impacto que estos rasgos pueden estar teniendo en las relaciones cercanas, y la disposición de trabajar activamente, frecuentemente con apoyo terapéutico, en desarrollar mayor empatia y regulación emocional.
 
 **Ejercicio inmediato:** Reflexiona honestamente sobre si reconoces patrones narcisistas en ti mismo. Si los reconoces, considera que primer paso de trabajo (terapia, mayor atención consciente a las necesidades de otros) podrías tomar.
 
@@ -141,7 +141,7 @@ Reconocer rasgos narcisistas en ti mismo no te convierte en una mala persona. Pe
 
 ## Epílogo
 
-No todo rasgo narcisista implica un trastorno. Pero todos los rasgos narcisistas sin atención implican daño relacional. Isabel, después de leer y reconocer con honestidad los patrones de su matrimonio de veinte años, no decidió terminar inmediatamente la relación. Pero si comenzo, por primera vez, a establecer límites más claros y a buscar apoyo terapeutico propio para procesar el impacto que dos décadas de esa dinámica habían tenido en su propia autoestima.
+No todo rasgo narcisista implica un trastorno. Pero todos los rasgos narcisistas sin atención implican daño relacional. Isabel, después de leer y reconocer con honestidad los patrones de su matrimonio de veinte años, no decidió terminar inmediatamente la relación. Pero si comenzo, por primera vez, a establecer límites más claros y a buscar apoyo terapéutico propio para procesar el impacto que dos décadas de esa dinámica habían tenido en su propia autoestima.
 
 ---
 

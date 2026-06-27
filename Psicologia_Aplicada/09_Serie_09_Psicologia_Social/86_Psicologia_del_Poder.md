@@ -23,11 +23,11 @@ Isabel ha observado a lo largo de su carrera como algunas personas cambian cuand
 
 El poder no solo cambia el comportamiento. Cambia literalmente la forma en que el cerebro procesa la información.
 
-**El Principio de la Desinhibición Neural como Mecanismo Central del Efecto del Poder:** La investigación de Dacher Keltner y colegas en Berkeley muestra que el poder produce lo que Keltner llama el sindrome del poder: una constelación de cambios cognitivos y comportamentales que incluyen mayor impulsividad, menor capacidad de tomar perspectiva del otro, mayor atribución de comportamientos a causas internas (ignorando el contexto), y menor inhibición social.
+**El Principio de la Desinhibición Neural como Mecanismo Central del Efecto del Poder:** La investigación de Dacher Keltner y colegas en Berkeley muestra que el poder produce lo que Keltner llama el síndrome del poder: una constelación de cambios cognitivos y comportamentales que incluyen mayor impulsividad, menor capacidad de tomar perspectiva del otro, mayor atribución de comportamientos a causas internas (ignorando el contexto), y menor inhibición social.
 
 La investigación de Sukhvinder Obhi y colegas muestra que el poder reduce la activación de las neuronas espejo (las neuronas responsables de la empatia y la resonancia con el otro): las personas en estados de poder altos muestran menor respuesta neural a las acciones de otros, produciendo menor empatia funcional incluso en personas que valoran la empatia.
 
-**Ejercicio inmediato:** Reflexiona sobre las últimas decisiones que has tomado en una posición de autoridad (como líder, padre, cliente con poder de compra). Para cada una, reflexiona: ¿dedique tiempo a entender la perspectiva de la persona afectada antes de decidir? Si la respuesta es frecuentemente no, ese es el sindrome del poder en acción en tu propio comportamiento.
+**Ejercicio inmediato:** Reflexiona sobre las últimas decisiones que has tomado en una posición de autoridad (como líder, padre, cliente con poder de compra). Para cada una, reflexiona: ¿dedique tiempo a entender la perspectiva de la persona afectada antes de decidir? Si la respuesta es frecuentemente no, ese es el síndrome del poder en acción en tu propio comportamiento.
 
 El poder que no ejerce empatia activamente pierde la empatia pasivamente.
 
@@ -51,11 +51,11 @@ El poder que no te hace más exigente contigo mismo que con los demás ya te est
 
 Isabel ha notado que a medida que ascienden en la jerarquía, muchos líderes escuchan menos y hablan más. La investigación lo confirma.
 
-**El Principio de la Reducción de Empatia como Consecuencia Documentada del Poder:** La investigación de Michael Kraus, Dacher Keltner, y Paul Piff muestra que las personas de mayor estatus socioeconomico (un proxy del poder) muestran menor empatia en experimentos de toma de perspectiva (reading the mind in the eyes test), menor atención a las seales emocionales de los otros, y menor respuesta fisiológica al estres ajeno.
+**El Principio de la Reducción de Empatia como Consecuencia Documentada del Poder:** La investigación de Michael Kraus, Dacher Keltner, y Paul Piff muestra que las personas de mayor estatus socioeconomico (un proxy del poder) muestran menor empatia en experimentos de toma de perspectiva (reading the mind in the eyes test), menor atención a las seales emocionales de los otros, y menor respuesta fisiológica al estrés ajeno.
 
 Estos resultados no implican que el poder produce personas malas: implican que el poder produce personas que necesitan menos de los demás (tienen más recursos para resolver sus propios problemas) y que por tanto prestan menos atención a los demás. La empatia es, en parte, una respuesta a la dependencia: cuando no necesitas a los otros, los procesas menos.
 
-**Ejercicio inmediato:** Si tienes una posición de poder (líder, padre, persona con recursos), instala practicamente la empatia que el poder erosiona: en las próximas cinco conversaciones con personas que tienen menos poder que tu, práctica la escucha activa completa (sin interrumpir, sin preparar tu respuesta mientras el otro habla, sin dar la solución antes de haber entendido el problema). La empatia que no se práctica deliberadamente en el poder desaparece sin que lo notes.
+**Ejercicio inmediato:** Si tienes una posición de poder (líder, padre, persona con recursos), instala prácticamente la empatia que el poder erosiona: en las próximas cinco conversaciones con personas que tienen menos poder que tu, práctica la escucha activa completa (sin interrumpir, sin preparar tu respuesta mientras el otro habla, sin dar la solución antes de haber entendido el problema). La empatia que no se práctica deliberadamente en el poder desaparece sin que lo notes.
 
 El líder que ya no necesita escuchar porque tiene poder suficiente para imponer ya no es un líder. Es un problema.
 
@@ -79,7 +79,7 @@ El riesgo que no consultas con nadie porque tienes el poder de tomarlo solo es e
 
 Isabel ha visto líderes que llegaron a sus posiciones con humildad y que después de años en el poder se han vuelto irreconocibles.
 
-**El Principio del Sindrome de Hubris como Transformación del Lider Efectivo en Lider Arrogante por el Poder Prolongado:** David Owen, médico y ex ministro britanico, describe el sindrome de hubris (soberbia) en líderes que han ejercido el poder durante largos períodos: un patron de narcisismo, exceso de confianza, desconexion de la realidad, y convicción de que solo ellos pueden ver con claridad lo que otros no ven. El sindrome de hubris no se da en todos los líderes con poder, pero su frecuencia aumenta con la duración y el grado de poder.
+**El Principio del Síndrome de Hubris como Transformación del Lider Efectivo en Lider Arrogante por el Poder Prolongado:** David Owen, médico y ex ministro britanico, describe el síndrome de hubris (soberbia) en líderes que han ejercido el poder durante largos períodos: un patron de narcisismo, exceso de confianza, desconexion de la realidad, y convicción de que solo ellos pueden ver con claridad lo que otros no ven. El síndrome de hubris no se da en todos los líderes con poder, pero su frecuencia aumenta con la duración y el grado de poder.
 
 Los sintomas incluyen: la identificación de la propia visión con la verdad objetiva, el desprecio de los procesos y restricciones institucionales, la creencia de que la historia juzgara las acciones mejor que los contemporaneos, y la perdida de interés por los detalles operativos.
 
@@ -147,13 +147,13 @@ La autoridad que te dan puede quitartela. La que te ganas la llevas contigo a do
 
 ## Capítulo 10: Vivir bien con el poder: hacía el poder consciente
 
-Elena ha llegado a entender que el poder no es inherentemente malo. La cuestion es cómo se ejerce y con que conciencia.
+Elena ha llegado a entender que el poder no es inherentemente malo. La cuestión es cómo se ejerce y con que conciencia.
 
 **El Principio del Poder Consciente como Ejercicio del Poder con Plena Conciencia de sus Efectos psicológicos sobre Uno Mismo:** Dacher Keltner en su libro The Power Paradox propone que el poder se gana a traves de las conductas que benefician a otros (empatia, cooperación, generosidad) pero que una vez obtenido, tiende a producir exactamente las conductas opuestas (egocentrismo, impulsividad, menor empatia). El poder consciente es el ejercicio del poder con plena conciencia de esta paradoja y con prácticas deliberadas que compensen sus efectos psicológicos.
 
 Las prácticas que Keltner identifica incluyen: mantener relaciones de igualdad real (no solo con personas que dependen de ti), buscar activamente el feedback crítico, recordar regularmente las formas en que dependes de otros, y aplicar las mismas normas que aplicarias a otros a tu propio comportamiento.
 
-**Ejercicio inmediato:** Esta semana, escribe tres formas en que tu posición actual (en el trabajo, en la familia, en la comunidad) depende de la colaboración y el trabajo de personas con menos poder que tu. Ese ejercicio de gratitud y dependencia reconocida es el antídoto más efectivo contra el sindrome del poder porque recuerda la realidad que el poder tiende a hacer invisible.
+**Ejercicio inmediato:** Esta semana, escribe tres formas en que tu posición actual (en el trabajo, en la familia, en la comunidad) depende de la colaboración y el trabajo de personas con menos poder que tu. Ese ejercicio de gratitud y dependencia reconocida es el antídoto más efectivo contra el síndrome del poder porque recuerda la realidad que el poder tiende a hacer invisible.
 
 El poder que no recuerda de dónde vino ya no sabe a donde va.
 

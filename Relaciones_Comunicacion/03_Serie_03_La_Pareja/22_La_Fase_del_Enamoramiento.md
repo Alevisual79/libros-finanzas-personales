@@ -71,7 +71,7 @@ La investigación sobre la duración del enamoramiento converge en un período d
 
 **El Principio de la Transición Quimica:** La caida de la euforia inicial no es el fin del amor. Es la transición a otro tipo de amor: más tranquilo, más profundo, más sostenible. El problema es que muchas personas interpretan esta transición como que el amor se ha acabado o como que eligieron a la persona equivocada, cuando en realidad es la arquitectura biológica del vinculó que reemplaza a la arquitectura biológica del enamoramiento.
 
-Las personas que entienden esta transición pueden navegarla conscientemente. Las que no la entienden pueden abandonar relaciones que tenían todo para ser profundas en busqueda del estado de euforia que por definición no puede mantenerse indefinidamente.
+Las personas que entienden esta transición pueden navegarla conscientemente. Las que no la entienden pueden abandonar relaciones que tenían todo para ser profundas en búsqueda del estado de euforia que por definición no puede mantenerse indefinidamente.
 
 **Ejercicio inmediato:** Recuerda alguna relación que terminó cuando dejó de sentirse tan intensa como al principio. En retrospección, crees que la relación podría haber tenido base más allá de la euforia inicial? La pregunta no sirve para revivir lo que terminó. Sirve para calibrar mejor las decisiones futuras.
 
@@ -109,7 +109,7 @@ El amor te hace sentir más tuyo. La dependencia te hace sentir que sin el otro 
 
 Durante el enamoramiento, el sexo y la atracción física son partes integrales del estado neurológico. La oxitocina que se libera durante el contacto físico y el orgasmo refuerza el vinculó emocional, lo que puede producir una sensación de conexión más profunda de la que la relación real justifica en ese momento.
 
-**El Principio del Vinculo Sexual Prematuro:** Las investigaciones sobre apego y sexo muestran que el contacto sexual temprano, especialmente en personas con tendencia al apego ansioso, puede producir un vinculó emocional que precede y supera la base real de la relación. El resultado es la sensación de haberse enamorado de alguien con quien apenas has tenido tiempo de construir una relación real.
+**El Principio del Vínculo Sexual Prematuro:** Las investigaciones sobre apego y sexo muestran que el contacto sexual temprano, especialmente en personas con tendencia al apego ansioso, puede producir un vinculó emocional que precede y supera la base real de la relación. El resultado es la sensación de haberse enamorado de alguien con quien apenas has tenido tiempo de construir una relación real.
 
 Esto no es un argumento contra el sexo temprano en una relación. Es un argumento para ser consciente de que el vinculó que el sexo produce puede distorsionar la evaluación de la relación en sus primeras etapas.
 

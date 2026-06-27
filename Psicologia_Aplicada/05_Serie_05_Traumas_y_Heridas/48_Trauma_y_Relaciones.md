@@ -25,7 +25,7 @@ Los estilos de apego que se desarrollaron en la infancia no se quedan en la infa
 
 **El Principio del Apego Adulto como Continuación del Apego Infantil:** Mary Main y sus colegas desarrollaron la Entrevista de Apego Adulto, que evalua la forma en que los adultos organizan y cuentan la historia de su apego temprano. Sus investigaciones muestran que esa forma predice con gran precisión el estilo de apego que sus propios hijos desarrollaran.
 
-Cindy Hazan y Phillip Shaver fueron los primeros en proponer que los estilos de apego se activan en las relaciones romanticas adultas: el estilo seguro, el ansioso (miedo intenso al abandono, busqueda de reaseguración), y el evitativo (incomodidad con la cercania, enfasis en la autonomía como defensa).
+Cindy Hazan y Phillip Shaver fueron los primeros en proponer que los estilos de apego se activan en las relaciones romanticas adultas: el estilo seguro, el ansioso (miedo intenso al abandono, búsqueda de reaseguración), y el evitativo (incomodidad con la cercania, énfasis en la autonomía como defensa).
 
 **Ejercicio inmediato:** Reflexiona sobre tu patron habitual en relaciones intimas pasadas: ¿tiendes a preocuparte de que el otro te abandone? ¿Tiendes a incomodarte cuando la relación se vuelve muy cercana? ¿O puedes tolerar tanto la cercania cómo la distancia sin que ninguna produzca alarma intensa? Identificar tu patron es el punto de partida para entender como el pasado influye en el presente.
 
@@ -51,9 +51,9 @@ El confundir intimidad con peligro no es irracionalidad. Es la consecuencia de h
 
 Elena no entiende por qué con ciertas personas y en ciertos contextos su comportamiento cambia de forma tan dramatica.
 
-**El Principio de los Detonadores Relacionales como Activadores del Estado Traumatico:** El trauma relacional se activa en el contexto de las relaciones intimas a traves de detonadores: situaciones específicas que recuerdan a las situaciones traumaticas del pasado. Estos detonadores son frecuentemente muy específicos: un tono de voz particular, una mirada, una frase que resonó en otro contexto, un silencio prolongado.
+**El Principio de los Detonadores Relacionales como Activadores del Estado Traumático:** El trauma relacional se activa en el contexto de las relaciones intimas a traves de detonadores: situaciones específicas que recuerdan a las situaciones traumáticas del pasado. Estos detonadores son frecuentemente muy específicos: un tono de voz particular, una mirada, una frase que resonó en otro contexto, un silencio prolongado.
 
-Cuando el detonador se activa, el sistema nervioso responde al recuerdo traumatico como si la situación actual fuera identica a la pasada. La persona puede pasar de su estado habitual a un estado completamente diferente en segundos, sin poder explicar completamente por qué.
+Cuando el detonador se activa, el sistema nervioso responde al recuerdo traumático como si la situación actual fuera identica a la pasada. La persona puede pasar de su estado habitual a un estado completamente diferente en segundos, sin poder explicar completamente por qué.
 
 **Ejercicio inmediato:** Para una relación actual donde experimentas reacciones que te sorprenden por su intensidad, identifica los detonadores específicos: ¿que comportamiento del otro produce la reacción desproporcionada? La identificación del detonador es el primer paso para distinguir lo que pertenece al presente de lo que pertenece al pasado.
 
@@ -79,9 +79,9 @@ Alejarse cuando alguien se acerca demasiado no es falta de amor. Es la protecci�
 
 Isabel ha notado que tiende a acabar en relaciones con dinámicas similares a las que vivio en su infancia.
 
-**El Principio de la Compulsión de Repetición como Busqueda de Resolución:** La explicación contemporanea propone que el sistema nervioso tiene una tendencia a recrear situaciones familiares (aunque sean daninas) porque la familiaridad se siente como seguridad relativa: lo conocido, aunque duela, se sabe como navegar.
+**El Principio de la Compulsión de Repetición como Búsqueda de Resolución:** La explicación contemporanea propone que el sistema nervioso tiene una tendencia a recrear situaciones familiares (aunque sean daninas) porque la familiaridad se siente como seguridad relativa: lo conocido, aunque duela, se sabe como navegar.
 
-Hay ademas una dinámica de busqueda de resolución: el sistema puede repetir el patron como intento inconsciente de resolverlo esta vez de forma diferente. Pero sin trabajo deliberado en el patron, la repetición produce el mismo resultado porque el script interno permanece igual.
+Hay ademas una dinámica de búsqueda de resolución: el sistema puede repetir el patron como intento inconsciente de resolverlo esta vez de forma diferente. Pero sin trabajo deliberado en el patron, la repetición produce el mismo resultado porque el script interno permanece igual.
 
 **Ejercicio inmediato:** Mapea las dos o tres relaciones más importantes de tu vida adulta: ¿que patrones relacionales tenían en común? Comparalos con lo que recuerdas de los patrones relacionales de tu familia de origen. Las similitudes no son coincidencias: son el sistema reproduciendo lo conocido.
 
@@ -95,7 +95,7 @@ Ruben quiere cambiar sus patrones relacionales pero no sabe si eso es posible da
 
 **El Principio del Cambio del Estilo de Apego a Traves de Experiencias Correctivas:** Mary Main y sus colegas documentaron el concepto de apego adquirido: personas que tuvieron apego inseguro en la infancia pero que a traves de relaciones posteriores desarrollaron un estilo de apego más seguro. El cerebro adulto conserva suficiente plasticidad para reorganizar los modelos de trabajo internos del apego.
 
-La relación terapeutica es uno de los contextos donde este cambio ocurre más sistemáticamente: un terapeuta que proporciona una relación predeciblemente segura proporciona una experiencia correctiva que gradualmente reorganiza los modelos de apego.
+La relación terapéutica es uno de los contextos donde este cambio ocurre más sistemáticamente: un terapeuta que proporciona una relación predeciblemente segura proporciona una experiencia correctiva que gradualmente reorganiza los modelos de apego.
 
 **Ejercicio inmediato:** Identifica una relación en tu vida actual que tiene características de apego seguro: la persona es predeciblemente disponible, no te juzga, y puede reparar las rupturas en la relación. Esa relación es un recurso de cambio del estilo de apego. Invierte deliberadamente en ella.
 

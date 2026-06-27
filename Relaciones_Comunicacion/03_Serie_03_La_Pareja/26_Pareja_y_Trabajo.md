@@ -113,7 +113,7 @@ El cuerpo necesita una señal clara de que el trabajo ha terminado. Sin esa señ
 
 Cuando las jornadas de los dos miembros de la pareja son estructuralmente incompatibles (turnos diferentes, viajes frecuentes, husos horarios distintos en trabajo remoto internacional), el desafio no es de actitud sino de logistica real.
 
-**El Principio de la Logistica como Determinante de Conexion:** Las parejas con jornadas incompatibles necesitan ser más deliberadas, no menos, sobre la creación de tiempo de conexión. Esto puede incluir comunicación programada (llamadas en momentos específicos), rituales que no dependen de estar físicamente juntos (un mensaje de buenos dias, una llamada antes de dormir), y la planificación proactiva de los momentos en que las agendas si coinciden para que sean de calidad maxima.
+**El Principio de la Logistica como Determinante de Conexión:** Las parejas con jornadas incompatibles necesitan ser más deliberadas, no menos, sobre la creación de tiempo de conexión. Esto puede incluir comunicación programada (llamadas en momentos específicos), rituales que no dependen de estar físicamente juntos (un mensaje de buenos dias, una llamada antes de dormir), y la planificación proactiva de los momentos en que las agendas si coinciden para que sean de calidad maxima.
 
 **Ejercicio inmediato:** Si tienen jornadas incompatibles, identifiquen los unicos momentos de la semana en que ambos estan disponibles simultaneamente. Protejan esos momentos como sagrados, sin excepciones de trabajo. Si no hay ningún momento de coincidencia, esa es una señal de que la estructura laboral actual necesita ser revisada para que la relación sea sostenible.
 

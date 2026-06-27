@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ha visto a dos personas atravesar circunstancias similares de forma radicalmente diferente: uno se hunde, el otro encuentra la forma de seguir adelante. No parece una cuestion de fortaleza ni de suerte en el sentido estrecho. Hay algo en la forma en que una persona se relaciona con la adversidad, en los recursos que tiene disponibles, y en el sentido que encuentra en lo que ocurre, que determina si la adversidad la aplasta o la transforma. Ese algo es la resiliencia. Y el hallazgo más importante de la investigación sobre la resiliencia es que no es un rasgo fijo que se tiene o no se tiene: es una capacidad que puede desarrollarse, cultivarse, y fortalecerse deliberadamente.
+Ruben ha visto a dos personas atravesar circunstancias similares de forma radicalmente diferente: uno se hunde, el otro encuentra la forma de seguir adelante. No parece una cuestión de fortaleza ni de suerte en el sentido estrecho. Hay algo en la forma en que una persona se relaciona con la adversidad, en los recursos que tiene disponibles, y en el sentido que encuentra en lo que ocurre, que determina si la adversidad la aplasta o la transforma. Ese algo es la resiliencia. Y el hallazgo más importante de la investigación sobre la resiliencia es que no es un rasgo fijo que se tiene o no se tiene: es una capacidad que puede desarrollarse, cultivarse, y fortalecerse deliberadamente.
 
 ---
 
@@ -53,7 +53,7 @@ Ruben asume que la resiliencia es una habilidad individual. La investigación su
 
 **El Principio de las Relaciones como Fuente Primaria de Resiliencia:** Ann Masten y sus colegas, en su revisión de décadas de investigación sobre la resiliencia, concluyen que el factor que más consistentemente predice la resiliencia ante la adversidad no es ningún rasgo individual sino la calidad de las relaciones: la presencia de al menos un adulto estable y afectuoso en la infancia (para los niños), y la presencia de relaciones de apoyo de calidad en la adultez.
 
-La neurobiologia explica esta conexión: el sistema nervioso se regula en relación, a traves de la co-regulación (la tendencia del sistema nervioso de sincronizarse con sistemas nerviosos regulados de otras personas). Una persona con acceso a relaciones de apoyo genuino tiene acceso a recursos regulatorios externos que amplian su ventana de tolerancia al estres y le permiten recuperarse más rápidamente de la perturbación.
+La neurobiologia explica esta conexión: el sistema nervioso se regula en relación, a traves de la co-regulación (la tendencia del sistema nervioso de sincronizarse con sistemas nerviosos regulados de otras personas). Una persona con acceso a relaciones de apoyo genuino tiene acceso a recursos regulatorios externos que amplian su ventana de tolerancia al estrés y le permiten recuperarse más rápidamente de la perturbación.
 
 **Ejercicio inmediato:** Identifica a las personas de tu vida que más consistentemente producen en ti una sensación de apoyo y de seguridad. No las más importantes en terminos de roles sociales sino las que genuinamente te nutren. Para cada una, reflexiona: ¿que frecuencia de contacto tienes con ellas? La inversión deliberada en estas relaciones es una de las intervenciones de resiliencia más directamente accesibles.
 
@@ -147,11 +147,11 @@ La resiliencia que se cultiva solo es más fragil que la que se cultiva en comun
 
 ## Capítulo 10: La resiliencia como estilo de vida: practicar cada dia
 
-Isabel ha llegado a entender que la resiliencia no es un objetivo que se alcanza sino una práctica cotidiana: la acumulación de habitos, relaciones, y perspectivas que construyen la capacidad de recuperarse cuando la adversidad inevitablemente llega.
+Isabel ha llegado a entender que la resiliencia no es un objetivo que se alcanza sino una práctica cotidiana: la acumulación de hábitos, relaciones, y perspectivas que construyen la capacidad de recuperarse cuando la adversidad inevitablemente llega.
 
-**El Principio de la Resiliencia como práctica Cotidiana:** Rick Hanson, neurocientifico y psicologo, propone en sus libros sobre la fortaleza del cerebro que la resiliencia se construye a traves de la práctica deliberada de instalar experiencias positivas en la memoria: prestar atención deliberada a los momentos de bienestar, conexión, competencia, y proposito durante suficiente tiempo para que se consoliden en las redes neuronales. Este proceso no niega la dificultad sino que construye recursos que estan disponibles cuando la dificultad llega.
+**El Principio de la Resiliencia como práctica Cotidiana:** Rick Hanson, neurocientífico y psicologo, propone en sus libros sobre la fortaleza del cerebro que la resiliencia se construye a traves de la práctica deliberada de instalar experiencias positivas en la memoria: prestar atención deliberada a los momentos de bienestar, conexión, competencia, y proposito durante suficiente tiempo para que se consoliden en las redes neuronales. Este proceso no niega la dificultad sino que construye recursos que estan disponibles cuando la dificultad llega.
 
-La práctica cotidiana de la resiliencia incluye los habitos ya mencionados (sueño, ejercicio, conexión) y también prácticas específicas de perspectiva: la gratitud específica, la reflexión sobre los propios valores y proposito, y la inversión deliberada en las relaciones de apoyo.
+La práctica cotidiana de la resiliencia incluye los hábitos ya mencionados (sueño, ejercicio, conexión) y también prácticas específicas de perspectiva: la gratitud específica, la reflexión sobre los propios valores y proposito, y la inversión deliberada en las relaciones de apoyo.
 
 **Ejercicio inmediato:** Diseña tu práctica diaria de resiliencia: una acción pequeña de cada uno de los cuatro factores. Para las relaciones: un contacto breve de calidad con alguien de tu red de apoyo. Para la regulación emocional: cinco minutos de práctica de mindfulness o de respiración. Para la autoeficacia: completar una tarea que has estado aplazando. Para el proposito: un momento de reflexión sobre por qué lo que haces hoy importa. Cuatro acciones que juntas construyen la base de una resiliencia cotidiana.
 

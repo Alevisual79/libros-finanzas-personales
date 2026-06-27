@@ -35,7 +35,7 @@ El emprendedor que trabaja doce horas en actividades de bajo valor produce menos
 
 ## Capítulo 2: El principio de Pareto aplicado al negocio: el 80/20 del emprendedor
 
-Lucia ha aprendido que el 80/20 no es solo una curiosidad estadistica. Es el mapa de dónde invertir el tiempo.
+Lucia ha aprendido que el 80/20 no es solo una curiosidad estadística. Es el mapa de dónde invertir el tiempo.
 
 **El Principio de Pareto como Herramienta de Identificación de las Actividades, Clientes, y Productos de Mayor Impacto que Merecen el Mayor Porcentaje del Tiempo Emprendedor:** Richard Koch, en El Principio 80/20, aplica la ley de Pareto al negocio y al tiempo personal: en la mayoría de los negocios, el 20% de los clientes genera el 80% de los ingresos, el 20% de los productos genera el 80% del beneficio, y el 20% de las actividades produce el 80% de los resultados. La implicación es clara: si puedes identificar ese 20% de mayor impacto y concentrar en el una mayor proporción del tiempo y los recursos, el resultado mejora dramaticamente sin trabajar más horas.
 
@@ -65,7 +65,7 @@ Noventa minutos de trabajo profundo producen más que cuatro horas de trabajo fr
 
 Lucia ha reemplazado su lista de tareas infinita con un sistema de prioridades que clarifica cada dia lo que más importa.
 
-**El Principio del Sistema de Prioridades como Superior a la Lista de Tareas para la Productividad del Emprendedor porque Distingue el Valor de las Actividades en Lugar de Solo Registrarlas:** David Allen en Getting Things Done (GTD) propone que el estres cognitivo del emprendedor no viene de tener mucho que hacer sino de tener muchas cosas sin capturar y sin decidir en que momento se harán. Su sistema de captura, clarificación, organización, reflexión, y ejecución reduce ese estres al externalizar la gestión de las tareas de la mente al sistema.
+**El Principio del Sistema de Prioridades como Superior a la Lista de Tareas para la Productividad del Emprendedor porque Distingue el Valor de las Actividades en Lugar de Solo Registrarlas:** David Allen en Getting Things Done (GTD) propone que el estrés cognitivo del emprendedor no viene de tener mucho que hacer sino de tener muchas cosas sin capturar y sin decidir en que momento se harán. Su sistema de captura, clarificación, organización, reflexión, y ejecución reduce ese estrés al externalizar la gestión de las tareas de la mente al sistema.
 
 James Clear propone la distinción entre listas de tareas (que solo registran lo que hay que hacer) y planes de acción (que especifican cuando y donde exactamente se hará cada tarea). La investigación de Peter Gollwitzer sobre las intenciones de implementación muestra que especificar cuándo y donde se hará una acción (si ocurre X, entonces hare Y) aumenta significativamente la probabilidad de realizarla.
 
@@ -79,7 +79,7 @@ El dia que terminas sabiendo exactamente que harás mañana empieza mejor que el
 
 Marcos ha desarrollado un protocolo para gestionar las interrupciones que antes le consumian el dia.
 
-**El Principio de la Gestion Proactiva de las Interrupciones como Prerequisito de la Productividad del Emprendedor en un Entorno que Genera Interrupciones Constantes:** La investigación de Gloria Mark y Alex Soojung-Kim Pang muestra que las interrupciones no solo cuestan el tiempo de la interrupción sino el tiempo de recuperación de la concentración (en promedio veintitres minutos). El coste real de cuatro interrupciones de cinco minutos en una mañana de cuatro horas no es veinte minutos sino potencialmente dos horas de concentración perdida.
+**El Principio de la Gestión Proactiva de las Interrupciones como Prerequisito de la Productividad del Emprendedor en un Entorno que Genera Interrupciones Constantes:** La investigación de Gloria Mark y Alex Soojung-Kim Pang muestra que las interrupciones no solo cuestan el tiempo de la interrupción sino el tiempo de recuperación de la concentración (en promedio veintitres minutos). El coste real de cuatro interrupciones de cinco minutos en una mañana de cuatro horas no es veinte minutos sino potencialmente dos horas de concentración perdida.
 
 El protocolo de gestión de interrupciones del emprendedor incluye: horarios específicos para revisar el email y los mensajes (en lugar de respuesta continua), una política de interrupción para el equipo (que tipos de problemas justifican interrumpir el trabajo profundo y cuales pueden esperar), y una comunicación explícita de los horarios de disponibilidad.
 
@@ -93,7 +93,7 @@ El email que no revisas cada veinte minutos sigue siendo el mismo email que el q
 
 Carlos ha aprendido que el tiempo bien gestionado pero con baja energía produce menos que el tiempo mal gestionado pero con alta energía.
 
-**El Principio de la Gestion de la Energia como Prerequisito de la Productividad Sostenida porque la Calidad del Trabajo Depende del Estado Energético más que de las Horas Trabajadas:** Jim Loehr y Tony Schwartz, en The Power of Full Engagement, proponen que la productividad de alto rendimiento sostenida requiere la gestión de cuatro dimensiones de la energía: física (salud, sueño, ejercicio, nutrición), emocional (estado de animo, relaciones, regulación emocional), mental (concentración, pensamiento creativo, capacidad de decisión), y espiritual (conexión con el proposito, los valores, y lo que importa). La degradación de cualquiera de las cuatro reduce la productividad total.
+**El Principio de la Gestión de la Energia como Prerequisito de la Productividad Sostenida porque la Calidad del Trabajo Depende del Estado Energético más que de las Horas Trabajadas:** Jim Loehr y Tony Schwartz, en The Power of Full Engagement, proponen que la productividad de alto rendimiento sostenida requiere la gestión de cuatro dimensiones de la energía: física (salud, sueño, ejercicio, nutrición), emocional (estado de animo, relaciones, regulación emocional), mental (concentración, pensamiento creativo, capacidad de decisión), y espiritual (conexión con el proposito, los valores, y lo que importa). La degradación de cualquiera de las cuatro reduce la productividad total.
 
 La investigación de Matthew Walker sobre el sueño muestra que la privación de sueño tiene un impacto en el rendimiento cognitivo equivalente a la intoxicación alcoholica, y que las personas con sueño insuficiente subestiman sistemáticamente ese impacto porque la privación de sueño también degrada la capacidad de percibir el proprio deterioro.
 
@@ -107,7 +107,7 @@ La hora que trabajas con alta energía vale lo mismo en tiempo que la que trabaj
 
 Lucia ha aprendido que su productividad personal tiene un techo que solo la delegación puede levantar.
 
-**El Principio de la Delegación cómo la Herramienta de Productividad más Ignorada por los Emprendedores porque Confunden el Control con el Resultado:** Michael Gerber propone que el emprendedor que no delega tiene una empresa con un empleado (el mismo) y un sistema que no puede escalar. La delegación no es solo una cuestion de eficiencia: es la diferencia entre el negocio que crece y el que se queda limitado por las horas del fundador.
+**El Principio de la Delegación cómo la Herramienta de Productividad más Ignorada por los Emprendedores porque Confunden el Control con el Resultado:** Michael Gerber propone que el emprendedor que no delega tiene una empresa con un empleado (el mismo) y un sistema que no puede escalar. La delegación no es solo una cuestión de eficiencia: es la diferencia entre el negocio que crece y el que se queda limitado por las horas del fundador.
 
 La investigación de David Kolb y Roger Boyatzis sobre el aprendizaje organizacional muestra que la delegación efectiva requiere cuatro componentes: la claridad sobre el resultado esperado (no el proceso sino el resultado), la autoridad suficiente para que el delegado pueda tomar las decisiones necesarias, los recursos necesarios, y el sistema de seguimiento que no sea supervisión constante sino verificación de resultados.
 
@@ -149,7 +149,7 @@ El emprendedor que trabaja de forma sostenible diez años produce más que el qu
 
 Lucia ha llegado a entender que la productividad emprendedora no puede depender de la motivación porque la motivación fluctua.
 
-**El Principio del Sistema de Productividad cómo lo que Funciona cuando la Motivación No Esta porque Está Diseñado para No Depender de Ella:** James Clear propone que los sistemas de habitos (rutinas automatizadas) son superiores a los objetivos para la productividad porque funcionan independientemente del nivel de motivación del momento. Un sistema de trabajo bien diseñado produce output incluso en los dias en que la motivación es mínima.
+**El Principio del Sistema de Productividad cómo lo que Funciona cuando la Motivación No Esta porque Está Diseñado para No Depender de Ella:** James Clear propone que los sistemas de hábitos (rutinas automatizadas) son superiores a los objetivos para la productividad porque funcionan independientemente del nivel de motivación del momento. Un sistema de trabajo bien diseñado produce output incluso en los dias en que la motivación es mínima.
 
 La investigación de Roy Baumeister sobre el agotamiento del ego sugiere que la energía de autogobierno es limitada. Los sistemas que reducen el número de decisiones que hay que tomar (que hacer primero, cuando revisar el email, como empezar la mañana) conservan esa energía para las decisiones que realmente la requieren.
 

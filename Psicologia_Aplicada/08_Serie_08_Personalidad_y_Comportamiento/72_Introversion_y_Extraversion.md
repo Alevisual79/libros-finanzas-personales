@@ -65,7 +65,7 @@ El trabajo que favorece a los introvertidos no es el trabajo facil. Es el trabaj
 
 Elena es extravertida y ha asumido que eso es siempre una ventaja. Hay contextos donde no lo es.
 
-**El Principio de la Extraversión Alta como Factor de Riesgo en Entornos de Alta Reflexividad:** La extraversión alta se asocia con mayor busqueda de estimulación, mayor necesidad de interacción social, y menor tolerancia al aburrimiento. En entornos que requieren trabajo solitario y profundo, reflexión sin distracción, o tolerancia a la ambiguedad sin necesidad de validación inmediata, la extraversión alta puede ser un factor que dificulta el rendimiento.
+**El Principio de la Extraversión Alta como Factor de Riesgo en Entornos de Alta Reflexividad:** La extraversión alta se asocia con mayor búsqueda de estimulación, mayor necesidad de interacción social, y menor tolerancia al aburrimiento. En entornos que requieren trabajo solitario y profundo, reflexión sin distracción, o tolerancia a la ambiguedad sin necesidad de validación inmediata, la extraversión alta puede ser un factor que dificulta el rendimiento.
 
 La investigación de Brian Little sobre la personalidad del profesor universitario muestra que los profesores altamente extravertidos, aunque son más carismaticos en el aula, frecuentemente producen menos investigación académica que los introvertidos, probablemente porque la investigación de calidad requiere períodos sostenidos de trabajo solitario para los que la extraversión alta no dispone naturalmente.
 

@@ -1,7 +1,7 @@
 # Rituales y Tradiciones Familiares
 ## Por qué las rutinas compartidas crean identidad y cohesión
 
-**Serie 04: Familia y Vinculos — Libro 6 de 10**
+**Serie 04: Familia y Vínculos — Libro 6 de 10**
 
 ---
 
@@ -147,7 +147,7 @@ Los rituales familiares no son superstición. Son el cemento que une. Elena, que
 
 ---
 
-*Libro 36 de la colección, Libro 6 de 10 de Serie 04: Familia y Vinculos.*
+*Libro 36 de la colección, Libro 6 de 10 de Serie 04: Familia y Vínculos.*
 
 ---
 

@@ -23,13 +23,13 @@ Isabel tiene un nivel de reactividad emocional que le parece excesivo incluso a 
 
 El neuroticismo no es dramatismo ni debilidad. Es un rasgo con bases biológicas específicas.
 
-**El Principio del Neuroticismo como Sensibilidad Amplificada al Estres y a la Amenaza:** El neuroticismo es uno de los cinco rasgos del Big Five y se define cómo la tendencia a experimentar emociones negativas (ansiedad, tristeza, irritabilidad, verguenza, hostilidad) con mayor frecuencia e intensidad que la media, y a recuperarse de esas emociones con mayor lentitud. Las personas con neuroticismo alto no tienen vidas objetivamente más difíciles: tienen un sistema de respuesta al estres más sensible y reactivo.
+**El Principio del Neuroticismo como Sensibilidad Amplificada al Estrés y a la Amenaza:** El neuroticismo es uno de los cinco rasgos del Big Five y se define cómo la tendencia a experimentar emociones negativas (ansiedad, tristeza, irritabilidad, verguenza, hostilidad) con mayor frecuencia e intensidad que la media, y a recuperarse de esas emociones con mayor lentitud. Las personas con neuroticismo alto no tienen vidas objetivamente más difíciles: tienen un sistema de respuesta al estrés más sensible y reactivo.
 
 La investigación neurobiologica de Jeffrey Gray y colegas identifica el sistema de inhibición conductual (BIS, Behavioral Inhibition System) como el sustrato neurológico del neuroticismo: un sistema que responde a señales de amenaza, novedad, y frustración con mayor activación y que produce la tendencia a la preocupación, la evitación, y la hipervigilancia características del neuroticismo alto.
 
 **Ejercicio inmediato:** Reflexiona sobre tu patron de reactividad emocional: ¿con que frecuencia experimentas emociones negativas moderadas o intensas durante la semana? ¿Cuanto tiempo tardas en recuperarte de un evento estresante? Si la frecuencia es alta y la recuperación lenta, eso es el patron del neuroticismo alto. Nombrar el patron es el primer paso para gestionarlo.
 
-El neuroticismo que has llamado dramatismo es un sistema nervioso más sensible al estres. No es un defecto de carácter.
+El neuroticismo que has llamado dramatismo es un sistema nervioso más sensible al estrés. No es un defecto de carácter.
 
 ---
 
@@ -79,7 +79,7 @@ La estabilidad emocional que no siente el sufrimiento propio no lo elimina. Solo
 
 Ruben busca estrategias específicas para reducir el impacto de su neuroticismo en la vida cotidiana.
 
-**El Principio de la Regulación Emocional como Habilidad Entrenable que Modula el Neuroticismo:** James Gross, investigador de la regulación emocional en Stanford, identifica multiples estrategias de regulación que difieren en su efectividad: la supresión emocional (no mostrar ni reconocer la emoción) reduce la expresión pero no el estres fisiológico y produce deterioro en el funcionamiento cognitivo y en las relaciones; la reevaluación cognitiva (cambiar la forma de pensar sobre la situación que produce la emoción) reduce tanto la expresión como el estres fisiológico y no tiene los costes de la supresión.
+**El Principio de la Regulación Emocional como Habilidad Entrenable que Modula el Neuroticismo:** James Gross, investigador de la regulación emocional en Stanford, identifica multiples estrategias de regulación que difieren en su efectividad: la supresión emocional (no mostrar ni reconocer la emoción) reduce la expresión pero no el estrés fisiológico y produce deterioro en el funcionamiento cognitivo y en las relaciones; la reevaluación cognitiva (cambiar la forma de pensar sobre la situación que produce la emoción) reduce tanto la expresión como el estrés fisiológico y no tiene los costes de la supresión.
 
 La investigación de Kevin Ochsner y James Gross con neuroimagen muestra que la reevaluación cognitiva activa el cortex prefrontal (la regulación top-down) y reduce la actividad de la amigdala. Esta regulación puede entrenarse: la psicoterapia cognitiva y el mindfulness producen cambios medibles en la capacidad de regulación emocional que se asocian con reducciones en el neuroticismo a lo largo del tiempo.
 
@@ -135,9 +135,9 @@ El neuroticismo no desaparece con la psicoterapia. Pero la relación que tienes 
 
 Ruben busca prácticas específicas para reducir el impacto cotidiano del neuroticismo en su bienestar.
 
-**El Principio del Cuidado del Sistema Nervioso como Prioridad para el Neuroticismo Alto:** La investigación sobre la biología del estres (Selye, McEwen) muestra que el sistema nervioso autonomo del neuroticismo alto esta cronicamente más activado que el del neuroticismo bajo: produce más cortisol en respuesta a los estresores, tiene mayor activación de la amigdala ante señales de amenaza, y se recupera más lentamente. Cuidar ese sistema requiere estrategias específicas.
+**El Principio del Cuidado del Sistema Nervioso como Prioridad para el Neuroticismo Alto:** La investigación sobre la biología del estrés (Selye, McEwen) muestra que el sistema nervioso autonomo del neuroticismo alto esta cronicamente más activado que el del neuroticismo bajo: produce más cortisol en respuesta a los estresores, tiene mayor activación de la amigdala ante señales de amenaza, y se recupera más lentamente. Cuidar ese sistema requiere estrategias específicas.
 
-Las estrategias con mayor evidencia para regular el sistema nervioso sobreactivado incluyen: el ejercicio aerobico regular (que reduce la activación basal del sistema de estres), el sueño de calidad (que procesa las memorias emocionales del dia y restaura la regulación emocional), la práctica de mindfulness (que entrena la modulación prefrontal de la amigdala), y la reducción de los estresores innecesarios (los que pueden eliminarse o reducirse sin coste significativo).
+Las estrategias con mayor evidencia para regular el sistema nervioso sobreactivado incluyen: el ejercicio aerobico regular (que reduce la activación basal del sistema de estrés), el sueño de calidad (que procesa las memorias emocionales del dia y restaura la regulación emocional), la práctica de mindfulness (que entrena la modulación prefrontal de la amigdala), y la reducción de los estresores innecesarios (los que pueden eliminarse o reducirse sin coste significativo).
 
 **Ejercicio inmediato:** Para esta semana, elige la estrategia de cuidado del sistema nervioso que más te falta en tu vida actual: sueño (si duermes menos de siete horas), ejercicio (si haces menos de veinte minutos diarios de actividad física), o mindfulness (si no tienes ninguna práctica de regulación emocional deliberada). Implementa la versión más pequeña posible de esa estrategia y mantela durante dos semanas.
 
@@ -149,11 +149,11 @@ El sistema nervioso que no cuidas te lo recuerda de formas que no puedes ignorar
 
 Isabel ha llegado al final del libro con una comprensión diferente de su reactividad emocional. No es un defecto. Es un rasgo con el que puede aprender a vivir bien.
 
-**El Principio de la Aceptación del Neuroticismo como Punto de Partida para la Gestion Efectiva:** La investigación de Kristin Neff sobre la autocompasión muestra que las personas que se relacionan con sus propias dificultades (incluyendo los rasgos de personalidad que les cuestan) con autocompasión en lugar de autocritica muestran mayor motivación para el cambio, mayor bienestar, y mayor capacidad de regulación emocional.
+**El Principio de la Aceptación del Neuroticismo como Punto de Partida para la Gestión Efectiva:** La investigación de Kristin Neff sobre la autocompasión muestra que las personas que se relacionan con sus propias dificultades (incluyendo los rasgos de personalidad que les cuestan) con autocompasión en lugar de autocritica muestran mayor motivación para el cambio, mayor bienestar, y mayor capacidad de regulación emocional.
 
 Aceptar el neuroticismo como parte de quien se es no es resignarse a que controle la vida. Es reconocerlo con honestidad para poder gestionarlo de forma efectiva en lugar de gastas energía en combatir lo que es.
 
-**Ejercicio inmediato:** Escribe una carta de compasión a la parte de ti que tiene neuroticismo: reconoce que el sistema nervioso más sensible al estres tiene un coste real, que ese coste no es culpa tuya, y que hay cosas que puedes hacer (que ya estas haciendo al leer este libro) para gestionarlo mejor. La autocompasión que escribes se internaliza de forma diferente a la que solo piensas.
+**Ejercicio inmediato:** Escribe una carta de compasión a la parte de ti que tiene neuroticismo: reconoce que el sistema nervioso más sensible al estrés tiene un coste real, que ese coste no es culpa tuya, y que hay cosas que puedes hacer (que ya estas haciendo al leer este libro) para gestionarlo mejor. La autocompasión que escribes se internaliza de forma diferente a la que solo piensas.
 
 El neuroticismo que conoces ya no puede sorprenderte de la misma forma. Y lo que no te sorprende, no te controla de la misma manera.
 
@@ -161,7 +161,7 @@ El neuroticismo que conoces ya no puede sorprenderte de la misma forma. Y lo que
 
 ## Epílogo
 
-Isabel dejó de llamarse dramatica. Empezo a llamarse sensible al estres. El cambio de nombre parecia pequeño pero cambio algo en cómo se relacionaba con sus propias reacciones: en lugar de juzgarlas como excesivas, empezó a tratarlas como información de un sistema de alarma muy calibrado. A veces ese sistema se disparaba sin razón suficiente. Pero Isabel aprendió que cuando se disparaba, no era una crisis: era solo el sistema haciendo lo que siempre había hecho. Y eso, con el tiempo, lo hacía considerablemente más manejable.
+Isabel dejó de llamarse dramatica. Empezo a llamarse sensible al estrés. El cambio de nombre parecia pequeño pero cambio algo en cómo se relacionaba con sus propias reacciones: en lugar de juzgarlas como excesivas, empezó a tratarlas como información de un sistema de alarma muy calibrado. A veces ese sistema se disparaba sin razón suficiente. Pero Isabel aprendió que cuando se disparaba, no era una crisis: era solo el sistema haciendo lo que siempre había hecho. Y eso, con el tiempo, lo hacía considerablemente más manejable.
 
 ---
 

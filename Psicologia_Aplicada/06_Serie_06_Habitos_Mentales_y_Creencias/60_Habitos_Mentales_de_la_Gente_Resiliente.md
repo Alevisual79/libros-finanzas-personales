@@ -1,7 +1,7 @@
 # Habitos Mentales de la Gente Resiliente
 ## Lo que hacen mentalmente las personas que se recuperan bien
 
-**Serie 06: Habitos Mentales y Creencias — Libro 10 de 10**
+**Serie 06: Hábitos Mentales y Creencias — Libro 10 de 10**
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ha notado algo en las personas que conoce que atraviesan las dificultades mejor que otros: no parecen tener vidas más faciles. Tienen las mismas perdidas, los mismos fracasos, las mismas incertidumbres. Pero tienen una relación diferente con esas dificultades. Cuando las cosas se ponen mal, parecen hacer algo diferente en sus mentes que les permite recuperarse antes. Este libro es sobre esos habitos mentales específicos: lo que hacen mentalmente las personas resilientes que les permite atravesar las dificultades sin que las destruyan.
+Ruben ha notado algo en las personas que conoce que atraviesan las dificultades mejor que otros: no parecen tener vidas más faciles. Tienen las mismas perdidas, los mismos fracasos, las mismas incertidumbres. Pero tienen una relación diferente con esas dificultades. Cuando las cosas se ponen mal, parecen hacer algo diferente en sus mentes que les permite recuperarse antes. Este libro es sobre esos hábitos mentales específicos: lo que hacen mentalmente las personas resilientes que les permite atravesar las dificultades sin que las destruyan.
 
 ---
 
@@ -41,7 +41,7 @@ Elena ha notado que las personas que se recuperan bien de las dificultades parec
 
 Esta flexibilidad incluye: la capacidad de reencuadrar las experiencias difíciles (encontrar perspectivas alternativas que reduzcan la carga emocional sin negar la realidad), la capacidad de distinguir lo que puede cambiarse de lo que no (y actuar sobre lo primero mientras se acepta lo segundo), y la capacidad de tolerar la ambiguedad sin colapsar ante la incertidumbre.
 
-**Ejercicio inmediato:** Para una dificultad actual, práctica deliberadamente la flexibilidad cognitiva: escribe tres perspectivas completamente diferentes sobre la misma situación (la catastrofica, la realista, y la de crecimiento). No necesitas creer las tres igualmente: el ejercicio de generarlas entrena el musculo de la flexibilidad.
+**Ejercicio inmediato:** Para una dificultad actual, práctica deliberadamente la flexibilidad cognitiva: escribe tres perspectivas completamente diferentes sobre la misma situación (la catastrofica, la realista, y la de crecimiento). No necesitas creer las tres igualmente: el ejercicio de generarlas entrena el músculo de la flexibilidad.
 
 La mente que solo puede ver desde un ángulo es vulnerable a ese ángulo. La que puede moverse tiene más opciones para adaptarse.
 
@@ -53,7 +53,7 @@ Isabel ha observado que las personas resilientes no son necesariamente las que t
 
 **El Principio del Sentido de Coherencia como Protector ante la Adversidad:** Aaron Antonovsky, médico israelí que investigó la salud en supervivientes del holocausto, desarrollo el concepto de sentido de coherencia: la tendencia a percibir los eventos vitales como comprensibles (tienen una lógica que puedo entender), manejables (tengo los recursos para afrontarlos), y significativos (merece la pena invertir el esfuerzo de afrontarlos). Este sentido de coherencia, no los eventos en si, es lo que predice la adaptación sana.
 
-La investigación de Crystal Park sobre la busqueda de significado en situaciones traumaticas muestra que las personas que consiguen encontrar algun significado a las experiencias difíciles (aunque sea después de tiempo) muestran mejor funcionamiento a largo plazo que las que no pueden.
+La investigación de Crystal Park sobre la búsqueda de significado en situaciones traumáticas muestra que las personas que consiguen encontrar algun significado a las experiencias difíciles (aunque sea después de tiempo) muestran mejor funcionamiento a largo plazo que las que no pueden.
 
 **Ejercicio inmediato:** Para la dificultad actual más importante, reflexiona sobre las tres dimensiones del sentido de coherencia: ¿entiendes la lógica de por qué está ocurriendo (comprensibilidad)? ¿Tienes alguno de los recursos que necesitas para afrontarla (manejabilidad)? ¿Hay algo importante para ti en jeugo que justifica el esfuerzo de afrontarla (significatividad)? Las dimensiones más debiles son donde el trabajo de sentido de coherencia tiene mayor impacto.
 
@@ -121,9 +121,9 @@ Las personas que atraviesan bien las dificultades no lo hacen solos. Lo hacen co
 
 Ruben ha notado que las personas más resilientes que conoce tienen en común la capacidad de encontrar humor incluso en situaciones difíciles.
 
-**El Principio del Humor como Regulador del Estres y la Perspectiva:** La investigación sobre el humor en contextos de adversidad muestra que el humor no es negación de la dificultad sino una forma de regulación que: proporciona distancia emocional del evento estresante, activa el sistema de recompensa produciendo un estado emocional positivo en momentos difíciles, y crea conexión social con otros que comparten la situación.
+**El Principio del Humor como Regulador del Estrés y la Perspectiva:** La investigación sobre el humor en contextos de adversidad muestra que el humor no es negación de la dificultad sino una forma de regulación que: proporciona distancia emocional del evento estresante, activa el sistema de recompensa produciendo un estado emocional positivo en momentos difíciles, y crea conexión social con otros que comparten la situación.
 
-George Vaillant, en su investigación longitudinal sobre el desarrollo adulto, identifico el humor como uno de los mecanismos de defensa maduros: una forma de procesar el estres que produce adaptación sin negación. Las personas con mayor uso del humor en situaciones de estres muestran mayor bienestar a largo plazo.
+George Vaillant, en su investigación longitudinal sobre el desarrollo adulto, identifico el humor como uno de los mecanismos de defensa maduros: una forma de procesar el estrés que produce adaptación sin negación. Las personas con mayor uso del humor en situaciones de estrés muestran mayor bienestar a largo plazo.
 
 **Ejercicio inmediato:** Para la situación difícil más reciente que hayas vivido, reflexiona: ¿había algun elemento de absurdo o ironia que en ese momento no pudiste ver pero que en perspectiva si puedes? La distancia necesaria para el humor es frecuentemente la misma distancia que indica que se está recuperando la perspectiva.
 
@@ -135,7 +135,7 @@ Las personas que pueden reirse de sus propias dificultades no las toman menos en
 
 Isabel ha empezado a hacerse siempre la misma pregunta ante las dificultades: ¿que puedo aprender de esto?
 
-**El Principio de la Orientación al Aprendizaje como Habito de Resiliencia:** Carol Dweck propone que la orientación al aprendizaje (que pregunta que puedo aprender?) en lugar de la orientación al rendimiento (que demuestra esto sobre mis capacidades?) produce mayor resiliencia porque transforma el fracaso de amenaza en información. Esta postura no ignora el coste emocional de la adversidad pero añade una dimensión que el simple sufrimiento no tiene.
+**El Principio de la Orientación al Aprendizaje como Hábito de Resiliencia:** Carol Dweck propone que la orientación al aprendizaje (que pregunta que puedo aprender?) en lugar de la orientación al rendimiento (que demuestra esto sobre mis capacidades?) produce mayor resiliencia porque transforma el fracaso de amenaza en información. Esta postura no ignora el coste emocional de la adversidad pero añade una dimensión que el simple sufrimiento no tiene.
 
 Richard Tedeschi y Lawrence Calhoun documentaron el crecimiento postraumatico: el cambio psicológico positivo que puede emerger del proceso de lucha con circunstancias altamente desafiantes. La orientación al aprendizaje no garantiza el crecimiento postraumatico pero crea las condiciones para que sea posible.
 
@@ -149,9 +149,9 @@ La adversidad que solo sufres te cuesta. La que aprendes a aprender de ella te c
 
 Ruben ha aprendido que los recursos de resiliencia son más efectivos cuando se construyen antes de que vengan las dificultades que cuando se buscan en medio de ellas.
 
-**El Principio de la Resiliencia Pre-Activa como Inversión en el Futuro:** La investigación de Ann Masten sobre los factores protectores de la resiliencia muestra que los recursos que producen mayor resiliencia ante la adversidad son los que estan disponibles antes de que la adversidad ocurra: relaciones de apoyo establecidas, capacidades de regulación emocional practicadas, sentido de significado cultivado, habitos de salud sostenidos. La resiliencia que se construye en momento de calma es la que está disponible cuando llega la tormenta.
+**El Principio de la Resiliencia Pre-Activa como Inversión en el Futuro:** La investigación de Ann Masten sobre los factores protectores de la resiliencia muestra que los recursos que producen mayor resiliencia ante la adversidad son los que estan disponibles antes de que la adversidad ocurra: relaciones de apoyo establecidas, capacidades de regulación emocional practicadas, sentido de significado cultivado, hábitos de salud sostenidos. La resiliencia que se construye en momento de calma es la que está disponible cuando llega la tormenta.
 
-Rick Hanson, neurocientifico y autor de Hardwiring Happiness, propone que instalar deliberadamente las experiencias positivas (dejar que las experiencias buenas se procesen completamente en lugar de pasar por ellas rápidamente) construye la arquitectura cerebral de la resiliencia: más conexiones de recompensa, más recursos de regulación emocional disponibles.
+Rick Hanson, neurocientífico y autor de Hardwiring Happiness, propone que instalar deliberadamente las experiencias positivas (dejar que las experiencias buenas se procesen completamente en lugar de pasar por ellas rápidamente) construye la arquitectura cerebral de la resiliencia: más conexiones de recompensa, más recursos de regulación emocional disponibles.
 
 **Ejercicio inmediato:** Evalua el estado de tus recursos de resiliencia en este momento de relativa calma: ¿tus relaciones de apoyo (estan mantenidas?), tu regulación emocional (tienes prácticas regulares?), tu sentido de significado (tienes conexión con algo que importa?), y tu salud física (sueño, ejercicio, alimentación). El recurso más debil es el que más necesitas fortalecer antes de que lo necesites urgentemente.
 
@@ -161,11 +161,11 @@ La resiliencia que construyes cuando no la necesitas es la que tienes cuando si 
 
 ## Epílogo
 
-Ruben miro su lista de habitos mentales de resiliencia y reconoció algo: ya tenía algunos. La flexibilidad cognitiva, había llegado a ella por las malas. La orientación al aprendizaje, la había desarrollado en los fracasos. Las relaciones de apoyo, había invertido en ellas sin saber exactamente por qué. No partia de cero. Partia de una base que había construido a traves de los años, en gran parte sin darse cuenta. Lo que podía hacer ahora era hacerlo más deliberado. Conocer lo que tenía y cultivarlo. Y en lo que todavia le faltaba, empezar ahora, en calma, antes de que la próxima tormenta llegará.
+Ruben miro su lista de hábitos mentales de resiliencia y reconoció algo: ya tenía algunos. La flexibilidad cognitiva, había llegado a ella por las malas. La orientación al aprendizaje, la había desarrollado en los fracasos. Las relaciones de apoyo, había invertido en ellas sin saber exactamente por qué. No partia de cero. Partia de una base que había construido a traves de los años, en gran parte sin darse cuenta. Lo que podía hacer ahora era hacerlo más deliberado. Conocer lo que tenía y cultivarlo. Y en lo que todavia le faltaba, empezar ahora, en calma, antes de que la próxima tormenta llegará.
 
 ---
 
-*Libro 60 de la colección psicología Aplicada, Libro 10 de 10 de Serie 06: Habitos Mentales y Creencias. Fin de la Serie 06.*
+*Libro 60 de la colección psicología Aplicada, Libro 10 de 10 de Serie 06: Hábitos Mentales y Creencias. Fin de la Serie 06.*
 
 ---
 

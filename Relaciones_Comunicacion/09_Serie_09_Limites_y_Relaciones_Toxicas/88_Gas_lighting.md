@@ -131,7 +131,7 @@ Es difícil reconstruir tu confianza en tu propia percepción mientras sigues ex
 
 Después de salir de una dinámica de gaslighting, el trabajo de reconstruir activamente la confianza en la propia capacidad de percibir e interpretar la realidad correctamente es un proceso específico que merece atención deliberada.
 
-**El Principio de la Reconstrucción Activa de la Confianza Perceptiva:** Reconstruir la confianza en la propia percepción después del gaslighting requiere prácticas específicas: validar conscientemente las propias observaciones sin necesidad de confirmación externa constante, practicar confiar en la propia memoria en situaciones de bajo riesgo para reconstruir gradualmente esa confianza, y frecuentemente, trabajo terapeutico especializado que ayude a procesar el impacto específico de esta forma de manipulación.
+**El Principio de la Reconstrucción Activa de la Confianza Perceptiva:** Reconstruir la confianza en la propia percepción después del gaslighting requiere prácticas específicas: validar conscientemente las propias observaciones sin necesidad de confirmación externa constante, practicar confiar en la propia memoria en situaciones de bajo riesgo para reconstruir gradualmente esa confianza, y frecuentemente, trabajo terapéutico especializado que ayude a procesar el impacto específico de esta forma de manipulación.
 
 **Ejercicio inmediato:** Identifica una situación de bajo riesgo donde podrías practicar confiar conscientemente en tu propia percepción sin buscar confirmación externa constante, cómo un paso pequeño hacía la reconstrucción de esa confianza.
 

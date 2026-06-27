@@ -23,9 +23,9 @@ Ruben ha pasado gran parte de su desarrollo profesional intentando corregir sus 
 
 Durante la mayor parte del siglo XX, la psicología se centro en lo que falla. La psicología positiva propone centrase en lo que funciona.
 
-**El Principio de las Fortalezas como el Enfasis que Produce Mayor Florecimiento que el Enfasis en las Debilidades:** Martin Seligman y Mihaly Csikszentmihalyi lanzaron formalmente la psicología positiva en 2000 con un artículo programatico en American Psychologist: una propuesta de reorientar la psicología hacía el estudio del funcionamiento optimo humano en lugar de solo el disfuncionamiento. Uno de los pilares de este programa es el estudio de las fortalezas de carácter.
+**El Principio de las Fortalezas como el Énfasis que Produce Mayor Florecimiento que el Énfasis en las Debilidades:** Martin Seligman y Mihaly Csikszentmihalyi lanzaron formalmente la psicología positiva en 2000 con un artículo programatico en American Psychologist: una propuesta de reorientar la psicología hacía el estudio del funcionamiento optimo humano en lugar de solo el disfuncionamiento. Uno de los pilares de este programa es el estudio de las fortalezas de carácter.
 
-La investigación de Gallup sobre el compromiso laboral muestra que los empleados que reportan usar sus fortalezas cada dia en el trabajo muestran seis veces mayor engagement, menos ausentismo, y mayor productividad que los que no. La investigación de Alex Linley y colegas muestra que las personas que usan sus fortalezas tienen mayor bienestar, menor estres, y mayor confianza en si mismas.
+La investigación de Gallup sobre el compromiso laboral muestra que los empleados que reportan usar sus fortalezas cada dia en el trabajo muestran seis veces mayor engagement, menos ausentismo, y mayor productividad que los que no. La investigación de Alex Linley y colegas muestra que las personas que usan sus fortalezas tienen mayor bienestar, menor estrés, y mayor confianza en si mismas.
 
 **Ejercicio inmediato:** Reflexiona sobre las últimas dos semanas. Identifica tres momentos en los que te sentiste especialmente efectivo, energizado, y en tu elemento: ¿momentos en que lo que hacías salía bien de forma casi natural. ¿Que estabas haciendo en esos momentos? ¿Que habilidades o capacidades estabas usando? Las respuestas a esas preguntas son indicadores de tus fortalezas.
 
@@ -123,7 +123,7 @@ Ruben ha observado que las personas que conocen bien sus fortalezas parecen recu
 
 **El Principio del Conocimiento de las Fortalezas como Recurso psicológico que Amortiza el Impacto de la Adversidad:** La investigación de Karen Reivich y Andrew Shatte sobre la resiliencia muestra que uno de los factores que distingue a las personas más resilientes es el conocimiento claro de sus propias fortalezas, que actua como ancla de identidad en los momentos de crisis: cuando todo lo demás falla, saben que siguen siendo la persona con esas capacidades, y eso facilita la recuperación.
 
-La investigación de Christopher Peterson y colegas sobre las fortalezas de carácter y la recuperación de experiencias traumaticas (incluyendo el estudio de veteranos de guerra) muestra que las fortalezas de trascendencia (gratitud, esperanza, humor, espiritualidad) y las de humanidad (amor, amabilidad) son especialmente predictivas de la recuperación psicológica después de la adversidad.
+La investigación de Christopher Peterson y colegas sobre las fortalezas de carácter y la recuperación de experiencias traumáticas (incluyendo el estudio de veteranos de guerra) muestra que las fortalezas de trascendencia (gratitud, esperanza, humor, espiritualidad) y las de humanidad (amor, amabilidad) son especialmente predictivas de la recuperación psicológica después de la adversidad.
 
 **Ejercicio inmediato:** Para el momento de mayor dificultad que has vivido en los últimos años, reflexiona: ¿que fortalezas de carácter usaste para atravesarlo? ¿Que fortalezas te ayudaron más a recuperarte? Ese conocimiento retrospectivo de tus fortalezas en la adversidad es especialmente valioso: te dice cuales son las que más puedes confiar cuando las necesites de nuevo.
 
@@ -135,7 +135,7 @@ En la adversidad, tus fortalezas no te abandonan. Pero tienes que saber cuales s
 
 Isabel quiere implementar un enfoque de fortalezas en su departamento.
 
-**El Principio del Liderazgo Basado en Fortalezas como Modelo que Produce Mayor Engagement y Rendimiento que el Modelo de Gestion de Deficiencias:** La investigación de Marcus Buckingham y Ashley Goodall sobre el liderazgo basado en fortalezas muestra que los líderes que se centran en identificar y amplificar las fortalezas de sus equipos producen mayor rendimiento que los que se centran en identificar y corregir sus debilidades. El mecanismo es la motivación intrinseca: las personas trabajan con mayor energía y compromiso en las áreas donde sienten que estan siendo lo mejor de si mismas.
+**El Principio del Liderazgo Basado en Fortalezas como Modelo que Produce Mayor Engagement y Rendimiento que el Modelo de Gestión de Deficiencias:** La investigación de Marcus Buckingham y Ashley Goodall sobre el liderazgo basado en fortalezas muestra que los líderes que se centran en identificar y amplificar las fortalezas de sus equipos producen mayor rendimiento que los que se centran en identificar y corregir sus debilidades. El mecanismo es la motivación intrinseca: las personas trabajan con mayor energía y compromiso en las áreas donde sienten que estan siendo lo mejor de si mismas.
 
 La práctica del liderazgo basado en fortalezas incluye: conversaciones regulares sobre lo que cada miembro del equipo hace mejor y con más energía, asignación de proyectos que alineen las tareas con las fortalezas individuales, y feedback que comienza identificando lo que funciona antes de abordar lo que puede mejorar.
 

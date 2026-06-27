@@ -1,7 +1,7 @@
 # La Mente en Piloto Automatico
 ## Como recuperar el control de tu vida mental
 
-**Serie 06: Habitos Mentales y Creencias — Libro 4 de 10**
+**Serie 06: Hábitos Mentales y Creencias — Libro 4 de 10**
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben conduce durante veinte minutos y llega a su destino sin poder recordar practicamente nada del trayecto. Come mientras mira el teléfono y cuando termina no recuerda el sabor de lo que comio. Mantiene conversaciones mientras una parte de su mente esta en otro sitio. Lleva horas, a veces dias, en modo piloto automático: el cuerpo hace las cosas pero la mente esta en otra parte. Esto no solo es una perdida de la experiencia presente: es también la condición en que los habitos no examinados, las reacciones automáticas, y los patrones no conscientes toman las decisiones. Recuperar la mente del piloto automático es recuperar la agencia sobre la propia vida.
+Ruben conduce durante veinte minutos y llega a su destino sin poder recordar prácticamente nada del trayecto. Come mientras mira el teléfono y cuando termina no recuerda el sabor de lo que comio. Mantiene conversaciones mientras una parte de su mente esta en otro sitio. Lleva horas, a veces dias, en modo piloto automático: el cuerpo hace las cosas pero la mente esta en otra parte. Esto no solo es una perdida de la experiencia presente: es también la condición en que los hábitos no examinados, las reacciones automáticas, y los patrones no conscientes toman las decisiones. Recuperar la mente del piloto automático es recuperar la agencia sobre la propia vida.
 
 ---
 
@@ -77,15 +77,15 @@ La reacción que produces antes de poder evitarla no es inevitable. Es automáti
 
 ## Capítulo 5: Los habitos y el piloto automático: el sistema en que vivimos
 
-Ruben ha llegado a entender que la mayor parte de lo que hace cada dia son habitos: patrones de comportamiento que se activan automáticamente en respuesta a señales específicas.
+Ruben ha llegado a entender que la mayor parte de lo que hace cada dia son hábitos: patrones de comportamiento que se activan automáticamente en respuesta a señales específicas.
 
-**El Principio de los Habitos como Infraestructura del Piloto Automático:** La investigación de David Neal y Wendy Wood muestra que el 45% de las decisiones que tomamos cada dia son en realidad habitos: respuestas automáticas a señales específicas, no decisiones deliberadas. Esta cifra no es sorprendente si se considera que el cerebro trata de reducir el coste cognitivo de las operaciones frecuentes convirtiendolas en habitos.
+**El Principio de los Hábitos como Infraestructura del Piloto Automático:** La investigación de David Neal y Wendy Wood muestra que el 45% de las decisiones que tomamos cada dia son en realidad hábitos: respuestas automáticas a señales específicas, no decisiones deliberadas. Esta cifra no es sorprendente si se considera que el cerebro trata de reducir el coste cognitivo de las operaciones frecuentes convirtiendolas en hábitos.
 
-La implicación para el piloto automático es que la mayor parte de la vida cotidiana (que se come, que se hace al llegar a casa, cómo se responde al estres, que se consume) esta determinada por habitos que se instalaron en otro momento y que rara vez se examinan. Vivir con mayor conciencia implica examinar los habitos que constituyen la vida cotidiana.
+La implicación para el piloto automático es que la mayor parte de la vida cotidiana (que se come, que se hace al llegar a casa, cómo se responde al estrés, que se consume) esta determinada por hábitos que se instalaron en otro momento y que rara vez se examinan. Vivir con mayor conciencia implica examinar los hábitos que constituyen la vida cotidiana.
 
-**Ejercicio inmediato:** Identifica tres habitos cotidianos que no has elegido deliberadamente en mucho tiempo (si es que alguna vez los elegiste). Para cada uno, pregunta: ¿si eligiera esto ahora, lo elegiria? Si la respuesta es no o no se, eso es información sobre habitos que podría valer la pena revisar.
+**Ejercicio inmediato:** Identifica tres hábitos cotidianos que no has elegido deliberadamente en mucho tiempo (si es que alguna vez los elegiste). Para cada uno, pregunta: ¿si eligiera esto ahora, lo elegiria? Si la respuesta es no o no se, eso es información sobre hábitos que podría valer la pena revisar.
 
-Los habitos que no examinas no los eliges. Los repites. Y repetir no es lo mismo que elegir.
+Los hábitos que no examinas no los eliges. Los repites. Y repetir no es lo mismo que elegir.
 
 ---
 
@@ -165,7 +165,7 @@ Ruben llegó a casa un jueves y en lugar de coger el teléfono automáticamente,
 
 ---
 
-*Libro 54 de la colección psicología Aplicada, Libro 4 de 10 de Serie 06: Habitos Mentales y Creencias.*
+*Libro 54 de la colección psicología Aplicada, Libro 4 de 10 de Serie 06: Hábitos Mentales y Creencias.*
 
 ---
 

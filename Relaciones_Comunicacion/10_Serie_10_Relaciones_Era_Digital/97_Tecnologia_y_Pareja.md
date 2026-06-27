@@ -45,13 +45,13 @@ El phubbing no es un comportamiento neutral o inocuo. Tiene un impacto medible e
 
 ## Capítulo 3: Reglas de pareja sobre tecnología
 
-Establecer acuerdos explícitos sobre el uso de tecnología dentro de la relación, en lugar de operar segun habitos individuales no negociados, mejora significativamente la gestión de las tensiones que la tecnología puede generar.
+Establecer acuerdos explícitos sobre el uso de tecnología dentro de la relación, en lugar de operar segun hábitos individuales no negociados, mejora significativamente la gestión de las tensiones que la tecnología puede generar.
 
-**El Principio de los Acuerdos Explicitos sobre Habitos Implicitos:** Las parejas que gestionan mejor la tensión tecnologica son las que han negociado explicitamente reglas específicas (sin teléfonos durante las comidas, una hora límite de uso antes de dormir, espacios o momentos completamente libres de dispositivos) en lugar de simplemente continuar con habitos individuales que nunca fueron conversados ni acordados conjuntamente.
+**El Principio de los Acuerdos Explicitos sobre Hábitos Implicitos:** Las parejas que gestionan mejor la tensión tecnologica son las que han negociado explicitamente reglas específicas (sin teléfonos durante las comidas, una hora límite de uso antes de dormir, espacios o momentos completamente libres de dispositivos) en lugar de simplemente continuar con hábitos individuales que nunca fueron conversados ni acordados conjuntamente.
 
 **Ejercicio inmediato:** Propone a tu pareja una conversación explícita para establecer dos o tres reglas específicas sobre el uso de tecnología en momentos compartidos.
 
-Las reglas tecnologicas explícitas y acordadas conjuntamente previenen mucho más conflicto que dejar que cada persona opere segun sus propios habitos individuales no negociados.
+Las reglas tecnologicas explícitas y acordadas conjuntamente previenen mucho más conflicto que dejar que cada persona opere segun sus propios hábitos individuales no negociados.
 
 ---
 
@@ -71,7 +71,7 @@ Algunas conversaciones de pareja simplemente no funcionan bien por texto. Recono
 
 La presencia continuada de exparejas en las redes sociales de uno o ambos miembros de una pareja actual genera tensiones específicas que requieren gestión consciente y conversación explícita.
 
-**El Principio de la Gestion Consciente del Contacto Residual:** Mantener conexión en redes sociales con exparejas, especialmente con interacción activa (likes, comentarios), puede generar inseguridad legitima en la pareja actual, y gestionar esta situación requiere conversación honesta sobre los límites apropiados, en lugar de minimizar automáticamente la preocupación del otro o mantener el contacto sin ninguna consideración de su impacto.
+**El Principio de la Gestión Consciente del Contacto Residual:** Mantener conexión en redes sociales con exparejas, especialmente con interacción activa (likes, comentarios), puede generar inseguridad legitima en la pareja actual, y gestionar esta situación requiere conversación honesta sobre los límites apropiados, en lugar de minimizar automáticamente la preocupación del otro o mantener el contacto sin ninguna consideración de su impacto.
 
 **Ejercicio inmediato:** Si tienes conexiones de redes sociales con exparejas que generan tensión en tu relación actual, ten una conversación honesta con tu pareja sobre que límites específicos podrían reducir esa tensión.
 
@@ -99,7 +99,7 @@ Cuando el uso de tecnología (redes sociales, videojuegos, otros dispositivos) a
 
 **Ejercicio inmediato:** Si sospechas que tu propio uso de tecnología o el de tu pareja ha alcanzado un nivel problematico que afecta la relación, considera tener una conversación honesta al respecto, posiblemente buscando apoyo profesional si el patron es severo.
 
-El uso excesivo de tecnología que daña la relación no es simplemente un mal habito menor. Puede ser un patron adictivo que merece la misma seriedad que otras formas de adicción que afectan a la pareja.
+El uso excesivo de tecnología que daña la relación no es simplemente un mal hábito menor. Puede ser un patron adictivo que merece la misma seriedad que otras formas de adicción que afectan a la pareja.
 
 ---
 
@@ -107,7 +107,7 @@ El uso excesivo de tecnología que daña la relación no es simplemente un mal h
 
 Establecer espacios físicos específicos en el hogar donde los dispositivos digitales no estan permitidos crea estructuralmente oportunidades de conexión que de otra forma competirian constantemente con la disponibilidad de pantallas.
 
-**El Principio del Espacio Estructural como Facilitador de Conexion:** Designar zonas específicas del hogar (el dormitorio, la mesa de comedor) como libres de dispositivos digitales elimina estructuralmente la tentación constante de revisar el teléfono, creando un espacio protegido donde la conexión presencial tiene más probabilidad de ocurrir sin competencia digital.
+**El Principio del Espacio Estructural como Facilitador de Conexión:** Designar zonas específicas del hogar (el dormitorio, la mesa de comedor) como libres de dispositivos digitales elimina estructuralmente la tentación constante de revisar el teléfono, creando un espacio protegido donde la conexión presencial tiene más probabilidad de ocurrir sin competencia digital.
 
 **Ejercicio inmediato:** Propone a tu pareja designar una zona específica de su hogar como libre de dispositivos digitales, y observa el impacto en la calidad de la conexión en ese espacio.
 

@@ -23,7 +23,7 @@ Ruben se comporta de forma diferente cuando esta con sus amigos del colegio que 
 
 La tendencia a explicar el comportamiento de los demás por su carácter y el propio por la situación es uno de los sesgos más robustos de la psicología social.
 
-**El Principio del Error Fundamental de Atribución como Sesgo sistemático que Sobrestima el Caracter y Subestima la Situación:** Lee Ross acuno el terminó error fundamental de atribución para describir la tendencia humana a explicar el comportamiento de los demás por sus disposiciones internas (personalidad, valores, inteligencia) mientras se minimizan los factores situacionales. En el experimento clasico de Jones y Harris, los sujetos atribuian las opiniones expresadas en un ensayo asignado al carácter del escritor incluso cuando sabían que el escritor había sido obligado a escribir en esa posición.
+**El Principio del Error Fundamental de Atribución como Sesgo sistemático que Sobrestima el Caracter y Subestima la Situación:** Lee Ross acuno el terminó error fundamental de atribución para describir la tendencia humana a explicar el comportamiento de los demás por sus disposiciones internas (personalidad, valores, inteligencia) mientras se minimizan los factores situacionales. En el experimento clásico de Jones y Harris, los sujetos atribuian las opiniones expresadas en un ensayo asignado al carácter del escritor incluso cuando sabían que el escritor había sido obligado a escribir en esa posición.
 
 El error fundamental de atribución tiene implicaciones prácticas importantes: cuando alguien se comporta de forma mala o inesperada, la primera pregunta debería ser que situación produce ese comportamiento, no que tipo de persona es. La pregunta situacional frecuentemente revela soluciones que la atribución de carácter no puede ofrecer.
 
@@ -55,9 +55,9 @@ Elena ha notado que la simple presencia de una camara en un espacio público cam
 
 La investigación de Robert Cialdini sobre las camaras de velocidad falsas muestra que son casi tan efectivas como las reales en reducir la velocidad de los conductores. El comportamiento cambia con la percepción de observación, independientemente de si la observación es real.
 
-**Ejercicio inmediato:** Para un comportamiento que quieres adoptar de forma más consistente, reflexiona: ¿como podrías aumentar la sensación de observación o rendición de cuentas? No para vigilarte sino para usar el mismo mecanismo que produce cumplimiento social de forma intencional: un compañero de accountability, un registro público de compromisos, o un habito de reportar a alguien de confianza. La observación que diseñas para ti mismo puede ser más efectiva que la que viene de fuera.
+**Ejercicio inmediato:** Para un comportamiento que quieres adoptar de forma más consistente, reflexiona: ¿como podrías aumentar la sensación de observación o rendición de cuentas? No para vigilarte sino para usar el mismo mecanismo que produce cumplimiento social de forma intencional: un compañero de accountability, un registro público de compromisos, o un hábito de reportar a alguien de confianza. La observación que diseñas para ti mismo puede ser más efectiva que la que viene de fuera.
 
-El comportamiento que solo tienes cuando alguien te mira no es un habito. Es una actuación.
+El comportamiento que solo tienes cuando alguien te mira no es un hábito. Es una actuación.
 
 ---
 
@@ -139,7 +139,7 @@ Isabel ha llegado a entender que uno de los actos de autodeterminación más imp
 
 Esta investigación no implica determinismo social: implica que elegir el entorno social es una de las variables con mayor impacto en quien llegas a ser, más que la mayor parte de los esfuerzos de cambio individual.
 
-**Ejercicio inmediato:** Reflexiona sobre quien quieres ser en cinco años: que valores, que habitos, que nivel de rendimiento, que bienestar. Ahora reflexiona: ¿las personas con quienes paso más tiempo actualmente modelan el camino hacía esa persona o se alejan de ella? La respuesta no siempre implica cambiar las personas (aunque a veces si) sino ser más deliberado sobre cuanto tiempo y de que tipo pasas con quien.
+**Ejercicio inmediato:** Reflexiona sobre quien quieres ser en cinco años: que valores, que hábitos, que nivel de rendimiento, que bienestar. Ahora reflexiona: ¿las personas con quienes paso más tiempo actualmente modelan el camino hacía esa persona o se alejan de ella? La respuesta no siempre implica cambiar las personas (aunque a veces si) sino ser más deliberado sobre cuanto tiempo y de que tipo pasas con quien.
 
 El entorno que eliges te elige a ti. La pregunta es si lo estas eligiendo conscientemente.
 

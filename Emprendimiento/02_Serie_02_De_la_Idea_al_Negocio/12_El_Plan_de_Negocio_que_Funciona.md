@@ -23,7 +23,7 @@ Lucia paso tres semanas escribiendo un plan de negocio de cuarenta páginas para
 
 El plan de negocio que la mayoría escribe no sirve para lo que creen que sirve.
 
-**El Principio del Plan de Negocio como Herramienta de Pensamiento Más que como Documento de Presentación porque su Valor esta en el Proceso de Creación No en el Producto Final:** Steve Blank propone que el plan de negocio tradicional (con proyecciones a cinco años, análisis extenso de mercado, y estrategia detallada) es útil para empresas en mercados establecidos con modelos probados, pero contraproducente para startups: crea la ilusión de certeza sobre un negocio que todavia es una serie de hipotesis sin validar. El plan extenso puede llevar meses de trabajo para producir un documento que el mercado contradira en las primeras semanas de operación.
+**El Principio del Plan de Negocio como Herramienta de Pensamiento Más que como Documento de Presentación porque su Valor esta en el Proceso de Creación No en el Producto Final:** Steve Blank propone que el plan de negocio tradicional (con proyecciones a cinco años, análisis extenso de mercado, y estrategia detallada) es útil para empresas en mercados establecidos con modelos probados, pero contraproducente para startups: crea la ilusión de certeza sobre un negocio que todavia es una serie de hipótesis sin validar. El plan extenso puede llevar meses de trabajo para producir un documento que el mercado contradira en las primeras semanas de operación.
 
 Guy Kawasaki propone la regla del plan de una página: si no puedes explicar tu negocio en una página, o el negocio es demasiado complicado o no lo entiendes suficientemente bien. La claridad que la restricción de una página obliga a encontrar vale más que la falsa precisión de un documento de cuarenta.
 
@@ -39,9 +39,9 @@ Carlos ha aprendido que el Business Model Canvas le dice en una hora lo que el p
 
 **El Principio del Business Model Canvas como Marco de Planificación que Mapea los Componentes Esenciales del Negocio en un Formato Visual que Facilita la Iteración rápida:** Alexander Osterwalder y Yves Pigneur desarrollaron el Business Model Canvas como alternativa al plan de negocio tradicional: nueve bloques que capturan los elementos fundamentales de cualquier modelo de negocio (segmentos de clientes, propuesta de valor, canales, relaciones con clientes, fuentes de ingresos, recursos clave, actividades clave, socios clave, estructura de costes) en un formato de una página que puede revisarse y actualizarse facilmente.
 
-La ventaja del canvas sobre el plan tradicional no es solo la brevedad sino el enfoque en las hipotesis: cada bloque del canvas es una suposición sobre como funciona el negocio que puede validarse o refutarse con el mercado. El canvas que ha sobrevivido seis meses de contacto con el mercado es radicalmente diferente del que se llenó al principio, y eso es exactamente lo que debería ocurrir.
+La ventaja del canvas sobre el plan tradicional no es solo la brevedad sino el enfoque en las hipótesis: cada bloque del canvas es una suposición sobre como funciona el negocio que puede validarse o refutarse con el mercado. El canvas que ha sobrevivido seis meses de contacto con el mercado es radicalmente diferente del que se llenó al principio, y eso es exactamente lo que debería ocurrir.
 
-**Ejercicio inmediato:** Descarga el Business Model Canvas (disponible gratuitamente en strategyzer.com) y complétalo para tu negocio actual en menos de dos horas. Usa notas adhesivas (físicas o digitales) en cada bloque para que sea facil actualizar cuando el mercado te enseñe que alguna hipotesis era incorrecta. El canvas que completas en dos horas produce más aprendizaje sobre tu negocio que el plan de negocio que tardas semanas en escribir.
+**Ejercicio inmediato:** Descarga el Business Model Canvas (disponible gratuitamente en strategyzer.com) y complétalo para tu negocio actual en menos de dos horas. Usa notas adhesivas (físicas o digitales) en cada bloque para que sea facil actualizar cuando el mercado te enseñe que alguna hipótesis era incorrecta. El canvas que completas en dos horas produce más aprendizaje sobre tu negocio que el plan de negocio que tardas semanas en escribir.
 
 El canvas que se puede actualizar en cinco minutos vale más que el plan que tardaste semanas en escribir y que nunca volviste a abrir.
 
@@ -121,7 +121,7 @@ La persona correcta en el momento correcto cambia el ritmo del negocio. La incor
 
 Carlos ha aprendido que los mejores emprendedores que conoce no son los más optimistas sino los que tienen mejores planes de contingencia.
 
-**El Principio del Plan de Contingencia como Preparación para los Escenarios de Mayor Riesgo que Reduce el Impacto cuando Ocurren y Acelera la Recuperación:** La investigación de Klein y Crandall sobre la toma de decisiones en situaciones de crisis muestra que los equipos que han pensado de antemano en los escenarios de riesgo y tienen planes de respuesta preparados se recuperan más rápidamente de las crisis que los que tienen que improvisar bajo presión. La preparación reduce el tiempo de respuesta y la calidad de las decisiones bajo estres.
+**El Principio del Plan de Contingencia como Preparación para los Escenarios de Mayor Riesgo que Reduce el Impacto cuando Ocurren y Acelera la Recuperación:** La investigación de Klein y Crandall sobre la toma de decisiones en situaciones de crisis muestra que los equipos que han pensado de antemano en los escenarios de riesgo y tienen planes de respuesta preparados se recuperan más rápidamente de las crisis que los que tienen que improvisar bajo presión. La preparación reduce el tiempo de respuesta y la calidad de las decisiones bajo estrés.
 
 Para el emprendedor, los escenarios de contingencia más importantes generalmente son: ¿que ocurre si el principal canal de adquisición de clientes falla (el algoritmo de la red social cambia, el cliente principal cancela el contrató)? ¿Que ocurre si el ingreso es un 50% menor de lo esperado durante seis meses? ¿Que ocurre si el proveedor principal no puede cumplir?
 
@@ -135,11 +135,11 @@ El plan de contingencia que nunca usas es el mejor que puedes tener. Y el mejor 
 
 Marcos ha aprendido que el plan que no se actualiza regularmente deja de ser útil rápidamente.
 
-**El Principio de la Planificación como Proceso Continuo en Lugar de Evento Puntual porque el Mercado Cambia y las Hipotesis del Plan Cambian con el:** Jeff Bezos propone que el plan es importante pero que los emprendedores deben ser persistentes en sus objetivos y flexibles en los detalles. La persistencia se aplica al por qué y al que del negocio (el proposito y el resultado); la flexibilidad se aplica al como (las estrategias y las tacticas).
+**El Principio de la Planificación como Proceso Continuo en Lugar de Evento Puntual porque el Mercado Cambia y las Hipótesis del Plan Cambian con el:** Jeff Bezos propone que el plan es importante pero que los emprendedores deben ser persistentes en sus objetivos y flexibles en los detalles. La persistencia se aplica al por qué y al que del negocio (el proposito y el resultado); la flexibilidad se aplica al como (las estrategias y las tacticas).
 
 La revisión trimestral del plan de negocio (en lugar de anual, que es demasiado infrecuente para el ritmo del emprendimiento temprano) permite mantener la claridad estratégica mientras se ajustan las tacticas al aprendizaje del trimestre anterior.
 
-**Ejercicio inmediato:** Establece una revisión trimestral de tu plan de negocio (canvas o plan simplificado) con una agenda específica: ¿que hipotesis del trimestre pasado han sido confirmadas por el mercado? ¿Cuales han sido refutadas? ¿Que es lo que más ha cambiado en la situación del mercado o del negocio? ¿Que ajustes en la estrategia o el modelo produce esa información? Noventa minutos al trimestre para actualizar el plan valen la claridad que producen.
+**Ejercicio inmediato:** Establece una revisión trimestral de tu plan de negocio (canvas o plan simplificado) con una agenda específica: ¿que hipótesis del trimestre pasado han sido confirmadas por el mercado? ¿Cuales han sido refutadas? ¿Que es lo que más ha cambiado en la situación del mercado o del negocio? ¿Que ajustes en la estrategia o el modelo produce esa información? Noventa minutos al trimestre para actualizar el plan valen la claridad que producen.
 
 El plan que revisas cada trimestre y que ya no se parece al del año anterior no es un fracaso del plan. Es evidencia de que estas aprendiendo.
 

@@ -1,7 +1,7 @@
 # Tu Familia de Origen
 ## Entiende de dónde vienes para elegir como quieres ser
 
-**Serie 04: Familia y Vinculos — Libro 1 de 10**
+**Serie 04: Familia y Vínculos — Libro 1 de 10**
 
 ---
 
@@ -151,7 +151,7 @@ No cambio todo de golpe. Pero empezó a notar el momento exacto en que el patron
 
 ---
 
-*Libro 31 de la colección, Libro 1 de 10 de Serie 04: Familia y Vinculos.*
+*Libro 31 de la colección, Libro 1 de 10 de Serie 04: Familia y Vínculos.*
 
 ---
 

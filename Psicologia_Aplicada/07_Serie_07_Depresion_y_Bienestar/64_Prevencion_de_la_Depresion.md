@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel ha salido de su segundo episodio depresivo y tiene una certeza: no quiere un tercero. Su psicologo le ha explicado que cada episodio depresivo aumenta el riesgo de un siguiente y que la prevención activa es posible. Pero Isabel no sabe exactamente que significa prevenir la depresión en la práctica: ¿es solo no tener estres? es tomar medicación de por vida? es algo más específico? Este libro es sobre las estrategias que la investigación ha demostrado que reducen el riesgo de nuevos episodios depresivos, con la evidencia de cada una.
+Isabel ha salido de su segundo episodio depresivo y tiene una certeza: no quiere un tercero. Su psicologo le ha explicado que cada episodio depresivo aumenta el riesgo de un siguiente y que la prevención activa es posible. Pero Isabel no sabe exactamente que significa prevenir la depresión en la práctica: ¿es solo no tener estrés? es tomar medicación de por vida? es algo más específico? Este libro es sobre las estrategias que la investigación ha demostrado que reducen el riesgo de nuevos episodios depresivos, con la evidencia de cada una.
 
 ---
 
@@ -55,7 +55,7 @@ Elena ha aprendido que el ejercicio no es solo un tratamiento para la depresión
 
 Los mecanismos neurobiologicos incluyen: el aumento del BDNF (factor de crecimiento nervioso que contrarresta la atrofia del hipocampo que se observa en la depresión), la regulación del eje hipotalamo-hipofisis-suprarrenal, la reducción de la inflamación sistemica (que se asocia con la depresión), y la producción de endorfinas y endocannabinoides que producen estados de animo positivos.
 
-**Ejercicio inmediato:** Si actualmente no tienes un habito de ejercicio regular, esta semana da el paso más pequeño posible en esa dirección: sal a caminar quince minutos cada dia durante siete dias. No el plan perfecto: el primer paso real. La consistencia durante las primeras dos semanas es el predictor más robusto de si el habito se instalara.
+**Ejercicio inmediato:** Si actualmente no tienes un hábito de ejercicio regular, esta semana da el paso más pequeño posible en esa dirección: sal a caminar quince minutos cada dia durante siete dias. No el plan perfecto: el primer paso real. La consistencia durante las primeras dos semanas es el predictor más robusto de si el hábito se instalara.
 
 El ejercicio que haces cuando no estas deprimido es el que previene la depresión. El que haces cuando ya estas deprimido la trata. Ambos importan, pero el preventivo es el que más se subestima.
 
@@ -63,7 +63,7 @@ El ejercicio que haces cuando no estas deprimido es el que previene la depresió
 
 ## Capítulo 4: El sueño como prevención: la intervención más infravalorada
 
-Ruben duerme mal habitualmente y lo acepta como parte de su vida. La investigación sugiere que ese habito tiene un coste para su salud mental a largo plazo.
+Ruben duerme mal habitualmente y lo acepta como parte de su vida. La investigación sugiere que ese hábito tiene un coste para su salud mental a largo plazo.
 
 **El Principio del Sueno de Calidad como Factor de Resiliencia ante la Depresión:** La investigación de Matthew Walker y colegas sobre el sueño y la salud mental muestra que la privación de sueño activa la amigdala (el sistema de alarma emocional) y reduce la regulación prefrontal del sistema limbico, produciendo exactamente el patron de reactividad emocional que caracteriza la vulnerabilidad a la depresión.
 
@@ -79,7 +79,7 @@ El sueño que le niegas a tu cerebro no es solo una noche de descanso. Es una do
 
 Isabel ha descubierto que sus episodios depresivos ocurren invariablemente después de períodos de aislamiento social. La conexión social no es un lujo: es un factor protector.
 
-**El Principio de la Conexion Social como Factor Protector de Primera Magnitud:** John Cacioppo, investigador de la soledad, propone que el aislamiento social tiene efectos fisiológicos directos comparables a factores de riesgo clasicos como el tabaco: activa el sistema de amenaza, aumenta la inflamación sistemica, y perturba el sueño. Sus estudios muestran que la soledad predice el deterioro cognitivo, la morbilidad, y la mortalidad de forma robusta.
+**El Principio de la Conexión Social como Factor Protector de Primera Magnitud:** John Cacioppo, investigador de la soledad, propone que el aislamiento social tiene efectos fisiológicos directos comparables a factores de riesgo clásicos como el tabaco: activa el sistema de amenaza, aumenta la inflamación sistemica, y perturba el sueño. Sus estudios muestran que la soledad predice el deterioro cognitivo, la morbilidad, y la mortalidad de forma robusta.
 
 La investigación de George Vaillant en el Estudio Longitudinal de Harvard (seguimiento de setenta y cinco años) identifica la calidad de las relaciones como el predictor más robusto de bienestar en la vejez, más que los ingresos, la inteligencia, o el estatus social. Las relaciones de calidad no solo hacen la vida más agradable: cambian la biología de forma que protege la salud mental.
 
@@ -91,15 +91,15 @@ Las relaciones no son complementos de la vida: son infraestructura de la salud m
 
 ## Capítulo 6: La regulación del estres cronico como prevención
 
-Ruben vive con un nivel de estres cronico que normalizo hace años. La investigación le muestra el coste de esa normalización.
+Ruben vive con un nivel de estrés cronico que normalizo hace años. La investigación le muestra el coste de esa normalización.
 
-**El Principio del Estres Cronico como Factor de Riesgo Modificable para la Depresión:** La investigación de Bruce McEwen sobre la carga alosttica muestra que el estres cronico produce cambios fisiológicos acumulativos en el cerebro y el cuerpo que aumentan la vulnerabilidad a la depresión: atrofia del hipocampo, hiperactividad del eje HPA (hipotalamo-hipofisis-suprarrenal), y aumento de la inflamación sistemica.
+**El Principio del Estrés Cronico como Factor de Riesgo Modificable para la Depresión:** La investigación de Bruce McEwen sobre la carga alosttica muestra que el estrés cronico produce cambios fisiológicos acumulativos en el cerebro y el cuerpo que aumentan la vulnerabilidad a la depresión: atrofia del hipocampo, hiperactividad del eje HPA (hipotalamo-hipofisis-suprarrenal), y aumento de la inflamación sistemica.
 
-La investigación sobre el burnout de Christina Maslach muestra que el agotamiento cronico producido por el exceso de demanda sin suficiente recuperación es un precursor común de la depresión. La intervención sobre el estres cronico (reducción de las fuentes de estres, desarrollo de estrategias de recuperación, establecimiento de límites) es una forma de prevención de la depresión.
+La investigación sobre el burnout de Christina Maslach muestra que el agotamiento cronico producido por el exceso de demanda sin suficiente recuperación es un precursor común de la depresión. La intervención sobre el estrés cronico (reducción de las fuentes de estrés, desarrollo de estrategias de recuperación, establecimiento de límites) es una forma de prevención de la depresión.
 
-**Ejercicio inmediato:** Identifica la principal fuente de estres cronico en tu vida (la que más persistentemente consume tu energía). Hay un paso concreto que puedas dar esta semana para reducir esa fuente (establecer un límite, delegar algo, renegociar un compromiso)? El estres que reduces hoy es riesgo que eliminas mañana.
+**Ejercicio inmediato:** Identifica la principal fuente de estrés cronico en tu vida (la que más persistentemente consume tu energía). Hay un paso concreto que puedas dar esta semana para reducir esa fuente (establecer un límite, delegar algo, renegociar un compromiso)? El estrés que reduces hoy es riesgo que eliminas mañana.
 
-El estres que normalizas no desaparece. Se acumula en el cuerpo y en el cerebro hasta que aparece de una forma que ya no puedes ignorar.
+El estrés que normalizas no desaparece. Se acumula en el cuerpo y en el cerebro hasta que aparece de una forma que ya no puedes ignorar.
 
 ---
 
@@ -155,7 +155,7 @@ Este diseño no elimina la vulnerabilidad a la depresión para las personas que 
 
 **Ejercicio inmediato:** Evalua tu vida actual en los cinco componentes del modelo PERMA de Seligman: ¿emociones positivas (cuantas experiencias positivas tienes regularmente?), compromiso (cuantas actividades de flow o absorción completa?), relaciones (cuantas relaciones de calidad?), sentido (cuanto proposito sientes en lo que haces?), y logró (cuantas experiencias de competencia y progreso?). El componente más debil es donde la inversión preventiva tiene mayor retorno.
 
-La vida que protege tu mente no se diseña de una vez. Se construye, decisión a decisión, habito a habito, relación a relación. Y ese trabajo no termina nunca, que es lo mismo que decir que siempre hay algo que se puede mejorar.
+La vida que protege tu mente no se diseña de una vez. Se construye, decisión a decisión, hábito a hábito, relación a relación. Y ese trabajo no termina nunca, que es lo mismo que decir que siempre hay algo que se puede mejorar.
 
 ---
 

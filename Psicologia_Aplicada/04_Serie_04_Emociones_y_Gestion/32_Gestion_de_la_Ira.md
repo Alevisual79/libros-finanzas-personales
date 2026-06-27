@@ -1,7 +1,7 @@
 # Gestion de la Ira
 ## Cómo manejar la rabia sin explotar ni reprimirla
 
-**Serie 04: Emociones y Gestion Emocional — Libro 2 de 10**
+**Serie 04: Emociones y Gestión Emocional — Libro 2 de 10**
 
 ---
 
@@ -111,7 +111,7 @@ Ruben tiene claro que su mayor riesgo con la ira no es en situaciones de trabajo
 
 John Gottman, en su investigación sobre parejas, documentó que la ira en si misma no es lo que más predice el deterioro de las relaciones: las parejas que expresan ira acompañada de afecto y humor de fondo pueden mantener relaciones satisfactorias. Lo que predice el deterioro es la ira acompañada de desprecio, que comunica una evaluación negativa fundamental del otro.
 
-**Ejercicio inmediato:** Establece una regla personal: no tener conversaciones sobre temas importantes de conflicto en los primeros treinta minutos después de llegar a casa del trabajo, en momentos de hambre intensa, o cuando la fatiga es extrema. Estos estados de recursos bajos (hambre, fatiga, estres post-trabajo) reducen el umbral de activación de la ira y la capacidad de regularla. Proteger estos momentos es proteger las relaciones.
+**Ejercicio inmediato:** Establece una regla personal: no tener conversaciones sobre temas importantes de conflicto en los primeros treinta minutos después de llegar a casa del trabajo, en momentos de hambre intensa, o cuando la fatiga es extrema. Estos estados de recursos bajos (hambre, fatiga, estrés post-trabajo) reducen el umbral de activación de la ira y la capacidad de regularla. Proteger estos momentos es proteger las relaciones.
 
 El afecto que tienes por las personas que más te importan merece la misma regulación emocional que les das a los desconocidos en el trabajo.
 
@@ -125,7 +125,7 @@ Isabel subestima el impacto de la ira cronica en su salud física. La investigac
 
 Redford Williams, cardiológo de Duke que ha investigado la hostilidad durante décadas, propone que la combinación específica de ira cronicamente alta, cinismo, y expresión agresiva (no la ira episodica y expresada apropiadamente) es la que produce mayor riesgo cardiovascular.
 
-**Ejercicio inmediato:** Si tu nivel de irritabilidad o hostilidad de fondo es persistentemente alto, evalua si hay factores de estilo de vida que lo estan amplificando: sueño insuficiente (que reduce el umbral de activación de la ira y la capacidad prefrontal de regulación), actividad física insuficiente (que produce mayor reactividad al estres), o estres cronico no gestionado. Estos factores no son la causa de la ira pero son amplificadores que pueden reducirse.
+**Ejercicio inmediato:** Si tu nivel de irritabilidad o hostilidad de fondo es persistentemente alto, evalua si hay factores de estilo de vida que lo estan amplificando: sueño insuficiente (que reduce el umbral de activación de la ira y la capacidad prefrontal de regulación), actividad física insuficiente (que produce mayor reactividad al estrés), o estrés cronico no gestionado. Estos factores no son la causa de la ira pero son amplificadores que pueden reducirse.
 
 Lo que le haces a tu carácter con la ira sin regular, te lo haces también a tu corazón.
 
@@ -169,7 +169,7 @@ Ruben dijo la frase. Con voz tranquila, aunque le costara, ante su pareja: cuand
 
 ---
 
-*Libro 32 de la colección psicología Aplicada, Libro 2 de 10 de Serie 04: Emociones y Gestion Emocional.*
+*Libro 32 de la colección psicología Aplicada, Libro 2 de 10 de Serie 04: Emociones y Gestión Emocional.*
 
 ---
 

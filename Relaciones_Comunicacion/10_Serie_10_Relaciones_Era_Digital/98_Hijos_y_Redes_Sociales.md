@@ -23,7 +23,7 @@ Elena no tiene hijos, y observa con cierta distancia el dilema constante de su a
 
 El cerebro adolescente, en pleno desarrollo de sus capacidades de regulación emocional y de evaluación de consecuencias a largo plazo, presenta una vulnerabilidad específica a los mecanismos de diseño persuasivo de las plataformas de redes sociales.
 
-**El Principio de la Vulnerabilidad Neurodevelopmental específica:** El cerebro adolescente, con un sistema de busqueda de recompensa particularmente activo y una corteza prefrontal (responsable de la regulación y el juicio a largo plazo) aun en desarrollo, es especialmente susceptible a los mecanismos de gratificación variable y de validación social que las redes sociales explotan deliberadamente, lo que explica por qué los adolescentes frecuentemente muestran patrones de uso más compulsivos que los adultos.
+**El Principio de la Vulnerabilidad Neurodevelopmental específica:** El cerebro adolescente, con un sistema de búsqueda de recompensa particularmente activo y una corteza prefrontal (responsable de la regulación y el juicio a largo plazo) aun en desarrollo, es especialmente susceptible a los mecanismos de gratificación variable y de validación social que las redes sociales explotan deliberadamente, lo que explica por qué los adolescentes frecuentemente muestran patrones de uso más compulsivos que los adultos.
 
 **Ejercicio inmediato:** Si tienes hijos adolescentes, considera esta vulnerabilidad neurodevelopmental específica al evaluar su uso de redes sociales, reconociendo que enfrentan un desafio neurológico distinto al que los adultos enfrentan con la misma tecnología.
 
@@ -131,7 +131,7 @@ Pedirle a un adolescente que use la tecnología de forma saludable mientras el p
 
 Gestionar la relación de un adolescente con la tecnología no es un problema que se resuelve de una vez con una regla establecida, sino una conversación continua que evoluciona con la edad, la madurez, y las circunstancias cambiantes.
 
-**El Principio de la Gestion como Proceso Evolutivo:** Las familias que navegan mejor este tema lo tratan cómo una conversación en desarrollo continuo, revisando periodicamente los acuerdos establecidos a medida que el adolescente madura y las circunstancias cambian, en lugar de establecer reglas fijas en un momento específico y esperar que permanezcan apropiadas indefinidamente.
+**El Principio de la Gestión como Proceso Evolutivo:** Las familias que navegan mejor este tema lo tratan cómo una conversación en desarrollo continuo, revisando periodicamente los acuerdos establecidos a medida que el adolescente madura y las circunstancias cambian, en lugar de establecer reglas fijas en un momento específico y esperar que permanezcan apropiadas indefinidamente.
 
 **Ejercicio inmediato:** Si las reglas de tecnología con tu hijo adolescente no se han revisado en mucho tiempo, propone una conversación de actualización que considere su madurez y circunstancias actuales.
 

@@ -23,7 +23,7 @@ Ruben ha tenido cuatro jefes en cinco años. Segun su propio relato, todos eran 
 
 La relación con un superior directo combina dinámicas de poder asimetrico con la necesidad de colaboración genuina, una combinación que la mayoría de las personas nunca aprende a navegar deliberadamente.
 
-**El Principio de la Asimetria que Requiere Gestion Activa:** A diferencia de las relaciones entre pares, la relación con un superior tiene una asimetria de poder estructural que no se puede eliminar pero si se puede gestionar conscientemente. Las personas que gestionan mejor esta relación no intentan ignorar la jerarquía ni se subordinan pasivamente a ella, sino que aprenden a operar efectivamente dentro de esa estructura, influyendo y comunicando de formas adaptadas a esa realidad.
+**El Principio de la Asimetria que Requiere Gestión Activa:** A diferencia de las relaciones entre pares, la relación con un superior tiene una asimetria de poder estructural que no se puede eliminar pero si se puede gestionar conscientemente. Las personas que gestionan mejor esta relación no intentan ignorar la jerarquía ni se subordinan pasivamente a ella, sino que aprenden a operar efectivamente dentro de esa estructura, influyendo y comunicando de formas adaptadas a esa realidad.
 
 **Ejercicio inmediato:** Reflexiona sobre tu propia forma de relacionarte con la autoridad en el trabajo. Tiendes a la pasividad excesiva (esperar instrucciones sin iniciativa) o a la resistencia excesiva (oponerte automáticamente a la dirección de tu jefe)? Ninguno de los dos extremos gestiona bien la asimetria.
 
@@ -73,7 +73,7 @@ Proporcionar retroalimentación constructiva a un superior, aunque culturalmente
 
 **El Principio del Feedback Ascendente Estratégico:** El feedback hacía un superior es más efectivo cuando se ofrece en privado (no en presencia de otros), se enfoca en el impacto específico de un comportamiento en el trabajo (no en juicios sobre el carácter), y se enmarca en torno a una solicitud de ayuda o de mejora colaborativa, en lugar de una crítica directa que podría percibirse cómo un desafio a la autoridad.
 
-**Ejercicio inmediato:** Si tienes feedback pendiente de dar a tu jefe, prepara cómo lo formularias usando un enfoque centrado en el impacto específico y enmarcado como busqueda de mejora colaborativa.
+**Ejercicio inmediato:** Si tienes feedback pendiente de dar a tu jefe, prepara cómo lo formularias usando un enfoque centrado en el impacto específico y enmarcado como búsqueda de mejora colaborativa.
 
 El feedback hacía arriba bien formulado no desafia la autoridad. Busca mejorar la colaboración de forma que beneficia a ambos.
 
@@ -83,7 +83,7 @@ El feedback hacía arriba bien formulado no desafia la autoridad. Busca mejorar 
 
 Algunos jefes, por sus propias limitaciones o inseguridades, no actuan como aliados del desarrollo profesional de sus subordinados, lo que requiere estrategias distintas de las que funcionan con jefes más favorables.
 
-**El Principio de la Gestion Realista de Relaciones No Aliadas:** Cuando un jefe no muestra disposición a apoyar activamente el desarrollo profesional de un subordinado, las estrategias efectivas incluyen documentar logros propios de forma independiente (sin depender exclusivamente del reconocimiento del jefe), buscar mentores o aliados alternativos dentro de la organización, y mantener el desempeño profesional consistente que protege la reputación propia independientemente de la relación específica con ese jefe.
+**El Principio de la Gestión Realista de Relaciones No Aliadas:** Cuando un jefe no muestra disposición a apoyar activamente el desarrollo profesional de un subordinado, las estrategias efectivas incluyen documentar logros propios de forma independiente (sin depender exclusivamente del reconocimiento del jefe), buscar mentores o aliados alternativos dentro de la organización, y mantener el desempeño profesional consistente que protege la reputación propia independientemente de la relación específica con ese jefe.
 
 **Ejercicio inmediato:** Si tu jefe actual no actua como aliado de tu desarrollo, identifica una fuente alternativa de apoyo profesional (un mentor, un patrocinador, un colega de mayor experiencia) que podrías cultivar de forma independiente.
 
@@ -119,7 +119,7 @@ Un jefe pasivo no va a llenar el vacio de liderazgo por iniciativa propia. Frecu
 
 Algunos jefes muestran patrones de comportamiento que van más allá de estilos difíciles pero gestionables, entrando en territorio de comportamiento abusivo, discriminatorio o eticamente problematico que requiere respuestas más serías.
 
-**El Principio de la Distinción entre Difícil y Daniño:** Es importante distinguir entre un jefe con un estilo difícil (exigente, poco comunicativo, con limitaciones de habilidad relacional) y un jefe genuinamente daniño (que humilla, discrimina, manipula sistemáticamente o crea un ambiente de trabajo psicológicamente inseguro). El primero requiere estrategias de adaptación y comunicación; el segundo requiere documentación, busqueda de apoyo en recursos humanos, y posiblemente la decisión de salir de esa situación laboral.
+**El Principio de la Distinción entre Difícil y Daniño:** Es importante distinguir entre un jefe con un estilo difícil (exigente, poco comunicativo, con limitaciones de habilidad relacional) y un jefe genuinamente daniño (que humilla, discrimina, manipula sistemáticamente o crea un ambiente de trabajo psicológicamente inseguro). El primero requiere estrategias de adaptación y comunicación; el segundo requiere documentación, búsqueda de apoyo en recursos humanos, y posiblemente la decisión de salir de esa situación laboral.
 
 **Ejercicio inmediato:** Evalua honestamente si tu situación actual con tu jefe cae en la categoría de difícil pero gestionable, o en la categoría de daniña que requiere acción más sería. La distinción determina la estrategia apropiada.
 

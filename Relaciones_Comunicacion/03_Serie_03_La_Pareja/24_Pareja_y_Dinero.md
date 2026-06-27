@@ -85,7 +85,7 @@ Las parejas que hablan de dinero regularmente en calma raramente necesitan habla
 
 Los secretos financieros en la pareja son más comunes de lo que se reconoce: gastos ocultos, deudas que el otro no sabe, ahorros secretos, compras que se esconden. Y son especialmente corrosivos para la confianza porque combinan el problema económico con el problema de la honestidad.
 
-**El Principio de la Transparencia como Base de la Gestion Conjunta:** La gestión financiera efectiva en pareja requiere visibilidad mutua de la situación real. No porque ninguno de los dos tenga derecho a controlar las finanzas del otro, sino porque las decisiones financieras de uno tienen impacto en la situación del otro, y ese impacto no puede gestionarse sin información.
+**El Principio de la Transparencia como Base de la Gestión Conjunta:** La gestión financiera efectiva en pareja requiere visibilidad mutua de la situación real. No porque ninguno de los dos tenga derecho a controlar las finanzas del otro, sino porque las decisiones financieras de uno tienen impacto en la situación del otro, y ese impacto no puede gestionarse sin información.
 
 Los secretos financieros casi siempre empiezan como proteción: de una crítica anticipada, de una reacción que se teme, de la incomodidad de tener que dar explicaciones. Y con el tiempo se convierten en una capa de deshonestidad que daña la confianza mucho más que el gasto o la deuda original.
 

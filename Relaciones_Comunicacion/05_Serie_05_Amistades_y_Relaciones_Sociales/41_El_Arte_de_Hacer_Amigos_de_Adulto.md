@@ -121,7 +121,7 @@ La amistad masculina a menudo se construye hombro a hombro, no cara a cara. Las 
 
 La amistad entre mujeres tiende culturalmente a priorizar la comunicación verbal directa y la vulnerabilidad emocional explícita como vehiculos principales de conexión, lo que trae sus propias fortalezas y sus propios desafios.
 
-**El Principio de la Profundidad Verbal como Norma:** Las amistades femeninas tienden a desarrollarse con mayor enfasis en conversación directa sobre emociones y experiencias personales, lo que puede acelerar la sensación de cercania pero también puede generar mayor vulnerabilidad a conflictos relacionados con la confianza, los secretos compartidos y las expectativas de apoyo emocional reciproco.
+**El Principio de la Profundidad Verbal como Norma:** Las amistades femeninas tienden a desarrollarse con mayor énfasis en conversación directa sobre emociones y experiencias personales, lo que puede acelerar la sensación de cercania pero también puede generar mayor vulnerabilidad a conflictos relacionados con la confianza, los secretos compartidos y las expectativas de apoyo emocional reciproco.
 
 **Ejercicio inmediato:** Si eres mujer y buscas construir amistades nuevas, considera que el ritmo de vulnerabilidad compartida importa: revelar demasiado demasiado rápido puede generar incomodidad, mientras que la revelación gradual y reciproca suele construir confianza de forma más sostenible.
 

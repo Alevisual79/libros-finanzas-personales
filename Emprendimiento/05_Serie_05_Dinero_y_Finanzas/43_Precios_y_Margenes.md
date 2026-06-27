@@ -159,7 +159,7 @@ El negocio que revisa su precio cada año tiene una ventaja que el que no lo hac
 
 ## Epílogo
 
-Marcos llevo meses sin atreverse a subir precios. Su consultoria había mejorado significativamente en los dos últimos años: su metodologia era más refinada, sus resultados eran más predecibles, y sus clientes tenían excelentes resultados medibles. Pero su precio era el mismo que cuando empezó. En febrero, decidió hacer el experimento: los próximos tres nuevos clientes los ofreceria al precio que creía que merecia (un cuarenta por ciento más que el anterior). Los tres aceptaron sin objeción. En ese momento entendió que el precio bajo no era el precio correcto. Era el precio que el miedo había fijado. Y el miedo había dejado de ser una buena consejera de estrategia.
+Marcos llevo meses sin atreverse a subir precios. Su consultoria había mejorado significativamente en los dos últimos años: su metodología era más refinada, sus resultados eran más predecibles, y sus clientes tenían excelentes resultados medibles. Pero su precio era el mismo que cuando empezó. En febrero, decidió hacer el experimento: los próximos tres nuevos clientes los ofreceria al precio que creía que merecia (un cuarenta por ciento más que el anterior). Los tres aceptaron sin objeción. En ese momento entendió que el precio bajo no era el precio correcto. Era el precio que el miedo había fijado. Y el miedo había dejado de ser una buena consejera de estrategia.
 
 ---
 

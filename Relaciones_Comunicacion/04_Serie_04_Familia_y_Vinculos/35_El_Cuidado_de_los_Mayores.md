@@ -1,7 +1,7 @@
 # El Cuidado de los Mayores
 ## Cómo gestionar la relación con padres envejecidos sin perder la tuya
 
-**Serie 04: Familia y Vinculos — Libro 5 de 10**
+**Serie 04: Familia y Vínculos — Libro 5 de 10**
 
 ---
 
@@ -39,7 +39,7 @@ El agotamiento cronico de los cuidadores familiares, conocido como burnout del c
 
 **El Principio del Agotamiento No Reconocido:** Los cuidadores familiares experimentan tasas significativamente más altas de depresión, ansiedad y problemas de salud física que la población general, pero su sufrimiento frecuentemente no es reconocido socialmente porque la atención (médica, familiar, social) se centra exclusivamente en la persona mayor que recibe el cuidado. Este patron de invisibilidad puede llevar a los cuidadores a sentir que no tienen derecho a expresar su propio agotamiento.
 
-**Ejercicio inmediato:** Si eres cuidador de un familiar mayor, evalua honestamente tus propios niveles de agotamiento físico y emocional usando algun indicador objetivo (calidad de sueño, niveles de irritabilidad, sintomas físicos de estres). Tu bienestar es tan relevante como el de la persona que cuidas.
+**Ejercicio inmediato:** Si eres cuidador de un familiar mayor, evalua honestamente tus propios niveles de agotamiento físico y emocional usando algun indicador objetivo (calidad de sueño, niveles de irritabilidad, sintomas físicos de estrés). Tu bienestar es tan relevante como el de la persona que cuidas.
 
 El cuidador que se agota no puede cuidar bien. Reconocer tu propio agotamiento no es egoismo. Es mantenimiento necesario.
 
@@ -147,7 +147,7 @@ Cuidar a un mayor es uno de los actos de amor más exigentes que existen. Y uno 
 
 ---
 
-*Libro 35 de la colección, Libro 5 de 10 de Serie 04: Familia y Vinculos.*
+*Libro 35 de la colección, Libro 5 de 10 de Serie 04: Familia y Vínculos.*
 
 ---
 

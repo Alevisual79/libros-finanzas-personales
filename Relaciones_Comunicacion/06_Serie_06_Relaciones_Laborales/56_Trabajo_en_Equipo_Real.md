@@ -87,7 +87,7 @@ Los patrones de comunicación disfuncional dentro de los equipos (información r
 
 **Ejercicio inmediato:** Identifica un patron de comunicación disfuncional específico en tu equipo (información retenida, suposiciones no verificadas, canal inapropiado). ¿Que cambio concreto podría mejorarlo desde tu propio rol?
 
-La mayoría de los problemas de comunicación en equipo no son sobre falta de inteligencia. Son sobre habitos específicos que se pueden identificar y cambiar.
+La mayoría de los problemas de comunicación en equipo no son sobre falta de inteligencia. Son sobre hábitos específicos que se pueden identificar y cambiar.
 
 ---
 

@@ -23,7 +23,7 @@ Ruben es diferente en público de como es en privado. En privado es curioso, tie
 
 Todos tenemos una versión pública de nosotros mismos que difiere en algun grado de la versión privada. La pregunta no es si hay diferencia (siempre la hay), sino cuanto cuesta esa diferencia y si vale la pena.
 
-**El Principio de la Presentación del Yo como Gestion de Impresiones:** Erving Goffman, sociologo canadiense, propuso en su obra clasica La Presentación del Yo en la Vida Cotidiana que la interacción social es fundamentalmente una actuación teatral: las personas presentan una fachada que busca comunicar una imagen específica al auditorio, gestionando la información que revelan y la que ocultan para controlar la impresión que producen. Esta gestión de impresiones no es deshonestidad. Es un componente inevitable de la interacción social.
+**El Principio de la Presentación del Yo como Gestión de Impresiones:** Erving Goffman, sociologo canadiense, propuso en su obra clásica La Presentación del Yo en la Vida Cotidiana que la interacción social es fundamentalmente una actuación teatral: las personas presentan una fachada que busca comunicar una imagen específica al auditorio, gestionando la información que revelan y la que ocultan para controlar la impresión que producen. Esta gestión de impresiones no es deshonestidad. Es un componente inevitable de la interacción social.
 
 El problema no es que exista la presentación pública del yo. Es cuando la diferencia entre el yo público y el yo privado es tan grande que la persona ya no se reconoce en su versión pública, cuando la energía dedicada a mantener la fachada es agotadora, o cuando el yo privado nunca tiene espacio para existir fuera de la soledad.
 
@@ -65,7 +65,7 @@ La autenticidad no requiere ser vulnerable con todos. Requiere ser genuino con a
 
 Elena revisa lo que dice en las reuniones antes de decirlo para asegurarse de que va a parecer bien. Esta revisión preventiva del yo en función de la percepción esperada de los demás consume recursos cognitivos y produce una versión de si misma que no coincide completamente con quien es.
 
-**El Principio del Coste Cognitivo de la Gestion de Imagen:** Robert Cialdini, en su investigación sobre la influencia social, y Thomas Gilovich, en su investigación sobre el efecto foco, documentan que las personas sobreestiman sistemáticamente el grado en que los demás las evaluan y el tiempo que los demás dedican a pensar en ellas. El efecto foco produce la sensación de estar bajo un microscopio social que en realidad no existe con esa intensidad.
+**El Principio del Coste Cognitivo de la Gestión de Imagen:** Robert Cialdini, en su investigación sobre la influencia social, y Thomas Gilovich, en su investigación sobre el efecto foco, documentan que las personas sobreestiman sistemáticamente el grado en que los demás las evaluan y el tiempo que los demás dedican a pensar en ellas. El efecto foco produce la sensación de estar bajo un microscopio social que en realidad no existe con esa intensidad.
 
 Ademas del coste de la sobreestimación del juicio, hay el coste cognitivo de la gestión de imagen: los recursos mentales dedicados a monitorizar la propia presentación en lugar de estar presentes en la interacción. La persona muy preocupada por como parece frecuentemente esta menos presente en la conversación, lo que deteriora la calidad de la interacción y produce la desconexion que temía producir.
 
@@ -99,7 +99,7 @@ El miedo a compartir aspectos menos perfectos en digital es comprensible dado el
 
 **Ejercicio inmediato:** Identifica una publicación en redes sociales que podrías hacer esta semana que sea genuinamente más tuya que tus publicaciones habituales, sin ser indiscreta. Puede ser una opinión que no has compartido, una experiencia imperfecta, una duda que tienes. Nota la diferencia en el tipo de respuesta que genera versus las publicaciones más curadas.
 
-La cuestion no es cuanto compartes en digital. Es si lo que compartes se parece a quien realmente eres.
+La cuestión no es cuanto compartes en digital. Es si lo que compartes se parece a quien realmente eres.
 
 ---
 
@@ -149,7 +149,7 @@ Que alguien no te quiera porque eres quien genuinamente eres es más llevadero q
 
 Isabel ha empezado a hacer algo pequeño pero significativo: en conversaciones donde normalmente habría dejado pasar sin comentar, expresa ahora una opinión genuina. No para provocar, sino porque esa opinión es suya y merece existir en el espacio compartido. La reacción no siempre es la que espera. Pero la sensación de haber estado presente, de haber existido de verdad en esa conversación en lugar de haber sido un espejo de lo que los demás querían escuchar, tiene un valor que no había podido medir hasta que lo experimento.
 
-**El Principio del Mostrar como práctica Gradual y Valiente:** Brene Brown propone que la vulnerabilidad autentica es un musculo que se desarrolla con la práctica: cada vez que se muestra un aspecto genuino del yo en un contexto de riesgo moderado y la experiencia resulta tolerable, la capacidad de volver a hacerlo aumenta. No se empieza con la mayor vulnerabilidad. Se empieza con un paso pequeño que es real pero manejable.
+**El Principio del Mostrar como práctica Gradual y Valiente:** Brene Brown propone que la vulnerabilidad autentica es un músculo que se desarrolla con la práctica: cada vez que se muestra un aspecto genuino del yo en un contexto de riesgo moderado y la experiencia resulta tolerable, la capacidad de volver a hacerlo aumenta. No se empieza con la mayor vulnerabilidad. Se empieza con un paso pequeño que es real pero manejable.
 
 La meta no es llegar a un estado de transparencia total sin miedo al juicio. Es desarrollar la capacidad de mostrarse de forma genuina con suficiente frecuencia como para tener relaciones reales, conversaciones reales, y la sensación de existir de verdad en el mundo social, no solo como observador desde un lugar seguro pero solitario.
 

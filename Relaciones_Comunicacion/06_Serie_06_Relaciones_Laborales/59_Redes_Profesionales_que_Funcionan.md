@@ -23,7 +23,7 @@ Ruben tiene tres mil contactos en LinkedIn. Ninguno le ha conseguido trabajo, le
 
 La investigación sobre acceso a oportunidades profesionales muestra consistentemente que las redes de contactos, más que las calificaciones formales documentadas en un currículum, predicen significativamente el acceso a las mejores oportunidades de carrera.
 
-**El Principio del Mercado Oculto de Oportunidades:** Mark Granovetter, en su investigación clasica sobre la fuerza de los vinculos debiles, encontró que la mayoría de las oportunidades laborales significativas se obtienen a traves de conexiones de red, no a traves de aplicaciones formales a posiciones publicadas. Una porción sustancial del mercado laboral de mayor calidad nunca se publica formalmente; se accede a traves de relaciones y recomendaciones.
+**El Principio del Mercado Oculto de Oportunidades:** Mark Granovetter, en su investigación clásica sobre la fuerza de los vínculos debiles, encontró que la mayoría de las oportunidades laborales significativas se obtienen a traves de conexiones de red, no a traves de aplicaciones formales a posiciones publicadas. Una porción sustancial del mercado laboral de mayor calidad nunca se publica formalmente; se accede a traves de relaciones y recomendaciones.
 
 **Ejercicio inmediato:** Reflexiona sobre tus últimas dos o tres oportunidades profesionales significativas. Llegaron a traves de una aplicación formal o a traves de una conexión de red? Esa reflexión informa donde deberías invertir más energía.
 

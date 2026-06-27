@@ -1,7 +1,7 @@
 # Preguntar Mejor
 ## Las preguntas correctas cambian las conversaciones y las relaciones
 
-**Serie 02: Comunicación y Conexion — Libro 8 de 10**
+**Serie 02: Comunicación y Conexión — Libro 8 de 10**
 
 ---
 
@@ -123,7 +123,7 @@ El silencio que toleras después de una pregunta es el espacio donde el otro enc
 
 ## Capítulo 8: Preguntas que sanan
 
-Hay preguntas que tienen poder terapeutico sin ser parte de ninguna terapia. Preguntas que abren perspectivas que el otro no podía ver. Preguntas que permiten que el otro se escuche a si mismo diciendo algo que no sabía que pensaba.
+Hay preguntas que tienen poder terapéutico sin ser parte de ninguna terapia. Preguntas que abren perspectivas que el otro no podía ver. Preguntas que permiten que el otro se escuche a si mismo diciendo algo que no sabía que pensaba.
 
 **El Principio de la Pregunta Generativa:** Las preguntas generativas son las que producen algo nuevo en el pensamiento del otro. No confirman lo que ya sabe. Abren una perspectiva diferente. ¿Que te gustaria que fuera diferente en esta situación? es una pregunta generativa. Cuya responsabilidad es realmente ese problema? puede serlo. Si esta situación tuviera algo que enseñarte, que podría ser? es otra.
 
@@ -153,9 +153,9 @@ En el conflicto, preguntar antes que defender es la estrategia más eficaz y la 
 
 La mejora en la calidad de las preguntas no ocurre por leer sobre ella. Ocurre con práctica deliberada en las conversaciones cotidianas. Y la práctica requiere atención consciente a algo que normalmente se hace de forma completamente automática.
 
-**El Principio de la práctica Consciente:** Las preguntas mejoran con revisión: después de una conversación, pregúntate si las preguntas que hiciste fueron abiertas o cerradas, si dejaste espacio para las respuestas, si hubo alguna pregunta generativa. Ese tipo de revisión, hecha con regularidad, produce mejoras que van sedimentando hasta que las buenas preguntas se vuelven habito.
+**El Principio de la práctica Consciente:** Las preguntas mejoran con revisión: después de una conversación, pregúntate si las preguntas que hiciste fueron abiertas o cerradas, si dejaste espacio para las respuestas, si hubo alguna pregunta generativa. Ese tipo de revisión, hecha con regularidad, produce mejoras que van sedimentando hasta que las buenas preguntas se vuelven hábito.
 
-Los mejores comunicadores del mundo, en cualquier campo, comparten el habito de revisar sus conversaciones para ver que funcionó y que podría mejorar. Esa revisión sistemática es lo que convierte la experiencia en aprendizaje.
+Los mejores comunicadores del mundo, en cualquier campo, comparten el hábito de revisar sus conversaciones para ver que funcionó y que podría mejorar. Esa revisión sistemática es lo que convierte la experiencia en aprendizaje.
 
 **Ejercicio inmediato:** Esta semana, después de tres conversaciones importantes, escribe en dos minutos: ¿que preguntas hice? ¿Cuales abrieron algo? ¿Cuales cerraron? ¿Que pregunta me arrepiento de no haber hecho? Esa revisión, hecha consistentemente, es el mecanismo de mejora más eficaz disponible.
 
@@ -173,7 +173,7 @@ La pregunta correcta es más poderosa que la respuesta correcta.
 
 ---
 
-*Libro 18 de la colección, Libro 8 de 10 de Serie 02: Comunicación y Conexion.*
+*Libro 18 de la colección, Libro 8 de 10 de Serie 02: Comunicación y Conexión.*
 
 ---
 

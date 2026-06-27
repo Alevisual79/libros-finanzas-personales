@@ -91,7 +91,7 @@ El precio que te permite vivir bien mientras sirves bien a tus clientes es el pr
 
 ## Capítulo 6: El descuento: cuando tiene sentido y cuando destruye el negocio
 
-Carlos ha aprendido que el descuento puede usarse estratégicamente o puede convertirse en un habito que destruye el margen.
+Carlos ha aprendido que el descuento puede usarse estratégicamente o puede convertirse en un hábito que destruye el margen.
 
 **El Principio del Descuento Estratégico como el Uso del Descuento Solo en Situaciones específicas que Tienen un Objetivo Claro (Captar Nuevos Clientes, Liquidar Stock, o Acelerar una Decisión) en Lugar de Como Herramienta de Cierre de Ventas Habitual:** Los descuentos tienen tres efectos negativos no evidentes: ¿reducen el margen del negocio de forma inmediata, entrenan al cliente a esperar el descuento antes de comprar (el cliente que siempre recibe descuento nunca compra al precio completo), y señalan que el precio original era inflado (si el producto puede venderse un 30% más barato, por qué costaba un 30% más?).
 

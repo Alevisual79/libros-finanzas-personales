@@ -1,7 +1,7 @@
 # El Poder de la Vulnerabilidad
 ## Por qué mostrarte tal como eres es tu mayor fortaleza
 
-**Serie 02: Comunicación y Conexion — Libro 7 de 10**
+**Serie 02: Comunicación y Conexión — Libro 7 de 10**
 
 ---
 
@@ -55,7 +55,7 @@ La persona más fuerte que conoces también necesita ser sostenida a veces. Solo
 
 La culpa dice hice algo malo. La verguenza dice soy algo malo. La culpa puede motivar el cambio. La verguenza lo paraliza. Esta distinción, investigada durante décadas por Brene Brown, es una de las más importantes para entender cómo la vulnerabilidad funciona o deja de funcionar.
 
-**El Principio de la Verguenza como Enemigo de la Conexion:** La verguenza es la emoción que más directamente bloquea la vulnerabilidad. Cuando sentimos verguenza de algo de nosotros mismos, lo ocultamos. Y lo que ocultamos no puede ser visto ni aceptado ni amado. La verguenza no resuelve lo que la produce. Lo perpetua.
+**El Principio de la Verguenza como Enemigo de la Conexión:** La verguenza es la emoción que más directamente bloquea la vulnerabilidad. Cuando sentimos verguenza de algo de nosotros mismos, lo ocultamos. Y lo que ocultamos no puede ser visto ni aceptado ni amado. La verguenza no resuelve lo que la produce. Lo perpetua.
 
 La investigación de Brown muestra que la verguenza crece en el silencio y en el secreto. Y se reduce cuando se habla. No porque hablar la resuelva, sino porque exponerla a la luz rompe el poder que tiene cuando se queda en la oscuridad. Las personas que comparten su verguenza con alguien de confianza experimentan una reducción significativa de su intensidad.
 
@@ -69,7 +69,7 @@ La verguenza que no se nombra gobierna. La que se nombra, se puede gestionar.
 
 Cuando Ruben finalmente le dijo a su mejor amigo que tenía miedo de no ser suficiente en su trabajo nuevo, su amigo no lo miro con lastima. Lo miro de frente y le dijo: yo llevo dos años sintiendome igual. Ninguno de los dos había tenido una conversación asi antes. Ninguno de los dos olvido esa noche.
 
-**El Principio de la Vulnerabilidad como Puente de Conexion:** La vulnerabilidad conecta porque rompe la ilusión de que los demás lo tienen todo resuelto mientras tu eres el unico que lucha. Cuando alguien muestra su vulnerabilidad con autenticidad, activa en el otro el reconocimiento: yo también. Ese reconocimiento es la base de la conexión real. No la perfección compartida. La humanidad compartida.
+**El Principio de la Vulnerabilidad como Puente de Conexión:** La vulnerabilidad conecta porque rompe la ilusión de que los demás lo tienen todo resuelto mientras tu eres el unico que lucha. Cuando alguien muestra su vulnerabilidad con autenticidad, activa en el otro el reconocimiento: yo también. Ese reconocimiento es la base de la conexión real. No la perfección compartida. La humanidad compartida.
 
 Brown lo llama the courage to be seen: el coraje de ser visto tal como eres, con tus dudas y tus miedos y tus imperfecciones, en lugar de con la versión editada que crees que los demás quieren ver. El coraje de ser visto es la condición de la conexión real.
 
@@ -173,7 +173,7 @@ Lo que temía que lo alejaria fue exactamente lo que lo acerco.
 
 ---
 
-*Libro 17 de la colección, Libro 7 de 10 de Serie 02: Comunicación y Conexion.*
+*Libro 17 de la colección, Libro 7 de 10 de Serie 02: Comunicación y Conexión.*
 
 ---
 

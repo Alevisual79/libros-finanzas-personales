@@ -71,7 +71,7 @@ La rutina no es el enemigo del amor. La ausencia de presencia consciente dentro 
 
 La vida sexual en el contexto del amor maduro tiene sus propias características, distintas de la intensidad del deseo en las primeras etapas de una relación, que merecen ser entendidas sin la presión de replicar esa intensidad inicial indefinidamente.
 
-**El Principio de la Sexualidad como Expresión de Conexion Evolucionada:** La sexualidad en el amor maduro tiende a estar más integrada con la conexión emocional general de la relación, menos impulsada por la novedad biológica del enamoramiento inicial, y con potencial de mayor profundidad de intimidad precisamente porque se basa en un conocimiento mutuo más completo que la sexualidad de las primeras etapas de conexión.
+**El Principio de la Sexualidad como Expresión de Conexión Evolucionada:** La sexualidad en el amor maduro tiende a estar más integrada con la conexión emocional general de la relación, menos impulsada por la novedad biológica del enamoramiento inicial, y con potencial de mayor profundidad de intimidad precisamente porque se basa en un conocimiento mutuo más completo que la sexualidad de las primeras etapas de conexión.
 
 **Ejercicio inmediato:** Reflexiona sobre como ha evolucionado tu vida sexual en una relación de larga duración. ¿Que aspectos de esa evolución podrían representar profundización en lugar de simple disminución de intensidad?
 
@@ -119,7 +119,7 @@ El amor después de la perdida no es un amor disminuido por el miedo a perder de
 
 El amor romantico en la edad avanzada, frecuentemente invisibilizado o tratado como menos relevante culturalmente, es tan real, valioso y necesario como en cualquier otra etapa de la vida, con sus propias dinámicas específicas que merecen reconocimiento.
 
-**El Principio de la Continuidad del Deseo de Conexion:** La investigación sobre relaciones en la tercera edad muestra consistentemente que el deseo de conexión romantica e intimidad no desaparece con la edad, a pesar de los estereotipos culturales que tienden a desexualizar e invisibilizar a las personas mayores. Las relaciones romanticas en esta etapa de la vida tienen su propio valor, incluyendo companerismo, apoyo mutuo, e intimidad física y emocional adaptada a las circunstancias de esta etapa.
+**El Principio de la Continuidad del Deseo de Conexión:** La investigación sobre relaciones en la tercera edad muestra consistentemente que el deseo de conexión romantica e intimidad no desaparece con la edad, a pesar de los estereotipos culturales que tienden a desexualizar e invisibilizar a las personas mayores. Las relaciones romanticas en esta etapa de la vida tienen su propio valor, incluyendo companerismo, apoyo mutuo, e intimidad física y emocional adaptada a las circunstancias de esta etapa.
 
 **Ejercicio inmediato:** Si eres una persona mayor considerando o viviendo una relación romantica, o conoces a alguien en esta situación, reflexiona sobre como los estereotipos culturales podrían estar limitando innecesariamente la legitimidad percibida de ese deseo de conexión.
 

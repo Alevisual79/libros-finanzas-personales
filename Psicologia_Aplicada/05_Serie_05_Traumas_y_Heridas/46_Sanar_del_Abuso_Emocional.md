@@ -81,7 +81,7 @@ Isabel nota que durante la relación abusiva fue perdiendo gradualmente el conta
 
 **El Principio del Abuso como Erosión de la Identidad:** El abuso emocional sostenido produce lo que Judith Herman llama la alteración de la identidad: la persona puede experimentar una sensación de estar vacia, sin saber bien que le gusta, que quiere, ni quien es independientemente de la relación abusiva. Esta erosión es en parte el resultado del proceso del abusador de definir la realidad de la victima: decirle quien es, que quiere, que siente, que es correcto o incorrecto.
 
-La recuperación de la identidad implica el proceso gradual de reconectar con las propias experiencias, preferencias, y valores con una voz interna distinta a la del abusador. Este proceso frecuentemente requiere apoyo terapeutico porque la voz interna del abusador se ha internalizado de tal forma que puede ser difícil distinguirla de la propia.
+La recuperación de la identidad implica el proceso gradual de reconectar con las propias experiencias, preferencias, y valores con una voz interna distinta a la del abusador. Este proceso frecuentemente requiere apoyo terapéutico porque la voz interna del abusador se ha internalizado de tal forma que puede ser difícil distinguirla de la propia.
 
 **Ejercicio inmediato:** Empieza a construir una lista de preferencias pequeñas y específicas que son tuyas: ¿que tipo de musica te gusta cuando nadie más está escuchando? ¿Que harías en una tarde libre si nadie tuviera opinión sobre ello? Estas preguntas pequeñas conectan con quien eres independientemente de las expectativas de otros.
 
@@ -137,7 +137,7 @@ Elena quiere una relación nueva pero tiene miedo de volver a elegir mal.
 
 **El Principio de la Recalibración del Sistema de Detección en Nuevas Relaciones:** El abuso emocional produce dos tipos de errores en las relaciones nuevas: la hipervigilancia (ver señales de abuso donde no las hay, cerrarse prematuramente), y la hipersensibilidad invertida (minimizar señales reales de abuso porque el sistema esta calibrado para tolerar patrones abusivos como normales).
 
-La investigación sugiere avanzar gradualmente en la intimidad, usar el apoyo terapeutico para procesar las reacciones a medida que la nueva relación se desarrolla, y desarrollar listas específicas de comportamientos en lugar de juicios globales.
+La investigación sugiere avanzar gradualmente en la intimidad, usar el apoyo terapéutico para procesar las reacciones a medida que la nueva relación se desarrolla, y desarrollar listas específicas de comportamientos en lugar de juicios globales.
 
 **Ejercicio inmediato:** Define dos o tres comportamientos específicos que serían para ti indicadores de respeto en una relación nueva. Estos indicadores dan un criterio específico a observar en lugar de depender del juicio global, que puede estar distorsionado por el trauma.
 

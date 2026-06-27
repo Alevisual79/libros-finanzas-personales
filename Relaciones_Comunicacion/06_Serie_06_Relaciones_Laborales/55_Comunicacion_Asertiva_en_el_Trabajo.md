@@ -131,9 +131,9 @@ La asertividad con un superior no requiere ser menos honesto. Requiere ser hones
 
 La asertividad, como cualquier habilidad de comunicación, se desarrolla con práctica deliberada y consistente, no con la simple comprensión intelectual de sus principios.
 
-**El Principio de la práctica Graduada:** Desarrollar asertividad como habito sostenible requiere practicar en situaciones de riesgo progresivamente mayor: empezando con solicitudes pequeñas y de bajo riesgo, y avanzando gradualmente hacía conversaciones más difíciles a medida que la confianza y la habilidad se desarrollan con la experiencia repetida.
+**El Principio de la práctica Graduada:** Desarrollar asertividad como hábito sostenible requiere practicar en situaciones de riesgo progresivamente mayor: empezando con solicitudes pequeñas y de bajo riesgo, y avanzando gradualmente hacía conversaciones más difíciles a medida que la confianza y la habilidad se desarrollan con la experiencia repetida.
 
-**Ejercicio inmediato:** Identifica una situación de bajo riesgo esta semana donde podrías practicar asertividad de forma segura, como primer paso hacía el desarrollo de este habito de forma más consistente.
+**Ejercicio inmediato:** Identifica una situación de bajo riesgo esta semana donde podrías practicar asertividad de forma segura, como primer paso hacía el desarrollo de este hábito de forma más consistente.
 
 La asertividad no se adquiere leyendo sobre ella. Se adquiere practicandola, empezando pequeño, hasta que se convierte en tu forma natural de comunicarte.
 

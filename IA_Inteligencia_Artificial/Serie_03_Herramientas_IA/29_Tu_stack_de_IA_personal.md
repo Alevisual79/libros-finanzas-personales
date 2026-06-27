@@ -27,11 +27,11 @@ El mejor stack de IA no es el que tiene más herramientas. Es el que produce má
 
 Un stack de herramientas es el conjunto de herramientas que usas de forma sistemática y complementaria para un conjunto de tareas.
 
-El concepto viene de la ingenieria de software (el "tech stack" de una aplicación: base de datos, backend, frontend, infraestructura). La misma lógica aplicada a las herramientas de productividad personal.
+El concepto viene de la ingeniería de software (el "tech stack" de una aplicación: base de datos, backend, frontend, infraestructura). La misma lógica aplicada a las herramientas de productividad personal.
 
 Un buen stack de IA para un profesional del conocimiento tiene:
 - Un LLM principal para escritura, análisis y razonamiento
-- Una herramienta de busqueda e investigación
+- Una herramienta de búsqueda e investigación
 - Herramientas específicas para los casos de uso más recurrentes
 - Un sistema de gestión del conocimiento para capturar lo generado
 
@@ -43,11 +43,11 @@ Para quien empieza, el stack mínimo que produce el 80% del valor:
 
 **LLM principal:** ChatGPT Plus o Claude Pro (20 dolares mes). Para la gran mayoría de tareas de escritura, análisis y razonamiento.
 
-**Busqueda con IA:** Perplexity Pro (20 dolares mes). Para investigación con fuentes actualizadas.
+**Búsqueda con IA:** Perplexity Pro (20 dolares mes). Para investigación con fuentes actualizadas.
 
 **Total:** 40 dolares mes. ROI positivo para cualquier profesional que recupere más de dos horas de trabajo al mes.
 
-Este stack cubre: escritura de textos, análisis de documentos, busqueda e investigación, respuestas a preguntas complejas.
+Este stack cubre: escritura de textos, análisis de documentos, búsqueda e investigación, respuestas a preguntas complejas.
 
 ---
 
@@ -55,11 +55,11 @@ Este stack cubre: escritura de textos, análisis de documentos, busqueda e inves
 
 **LLM principal:** Claude Sonnet para escritura de alta calidad
 **LLM secundario:** ChatGPT para iteración rápida e imagenes con DALL-E
-**Busqueda:** Perplexity Pro
+**Búsqueda:** Perplexity Pro
 **Imagenes:** Midjourney para imagenes de alta calidad
 **Video:** CapCut para edición rápida de contenido social
 **Escritura especializada:** Sin herramientas adicionales (Claude es suficiente)
-**Gestion de redes sociales:** Buffer con IA integrada
+**Gestión de redes sociales:** Buffer con IA integrada
 **Total:** Aproximadamente 80 dolares mes
 
 Cobertura: escritura de propuestas, contenido de marketing, imagenes para clientes, investigación de mercado, gestión de redes sociales.
@@ -71,7 +71,7 @@ Cobertura: escritura de propuestas, contenido de marketing, imagenes para client
 **LLM principal:** Claude Pro para análisis de documentos y escritura
 **Herramienta de reuniones:** Otter.ai para transcripción y resumen automático
 **análisis de datos:** ChatGPT Advanced Data Analysis para explorar datos de RRHH
-**Gestion del conocimiento:** NotebookLM para la base de conocimiento de RRHH
+**Gestión del conocimiento:** NotebookLM para la base de conocimiento de RRHH
 **Video:** Synthesia para onboarding y formación
 **Total:** Aproximadamente 80-100 dolares mes
 
@@ -83,7 +83,7 @@ Cobertura: análisis de datos de RRHH, documentación de reuniones, base de cono
 
 **LLM principal:** Claude Pro para análisis y escritura
 **Código:** GitHub Copilot (integrado en VS Code)
-**Busqueda técnica:** Perplexity Pro
+**Búsqueda técnica:** Perplexity Pro
 **Investigación:** Elicit para papers académicos cuando es necesario
 **Reuniones:** Fireflies para documentación automática
 **Agentes:** n8n self-hosted para automatizaciones
@@ -165,7 +165,7 @@ Un stack de IA bien construido y bien usado es una ventaja competitiva real y cr
 No porque las herramientas sean exclusivas (estan disponibles para todos), sino porque:
 - El proceso de construirlo desarrolla criterio sobre donde la IA ayuda y donde no
 - Los prompts y flujos de trabajo refinados representan inversión acumulada de conocimiento
-- El habito de actualizar el stack mantiene la ventaja en el tiempo
+- El hábito de actualizar el stack mantiene la ventaja en el tiempo
 - La integración sistemática produce ganancias exponenciales sobre el uso ad hoc
 
 El profesional que construye, refina y actualiza su stack tiene una ventaja que se amplia con el tiempo respecto a quien usa la IA de forma ocasional.

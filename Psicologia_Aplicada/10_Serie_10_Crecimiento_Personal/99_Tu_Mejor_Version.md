@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena siente que la presión de ser la mejor versión de si misma la agota más que la motiva. Ruben consume contenido de desarrollo personal que le hace sentir que nunca es suficiente, que siempre hay algo más que optimizar, una habilidad que mejorar, un habito que adoptar. Isabel ha llegado a los cincuenta con la sospecha de que la busqueda de la mejor versión de si misma ha sido a veces una forma de no aceptarse tal como es. Los tres necesitan lo mismo: una comprensión más matizada del crecimiento personal que incluya la aceptación, que distinga el desarrollo genuino de la optimización compulsiva, y que ponga el progreso al servicio de la vida en lugar de la vida al servicio del progreso.
+Elena siente que la presión de ser la mejor versión de si misma la agota más que la motiva. Ruben consume contenido de desarrollo personal que le hace sentir que nunca es suficiente, que siempre hay algo más que optimizar, una habilidad que mejorar, un hábito que adoptar. Isabel ha llegado a los cincuenta con la sospecha de que la búsqueda de la mejor versión de si misma ha sido a veces una forma de no aceptarse tal como es. Los tres necesitan lo mismo: una comprensión más matizada del crecimiento personal que incluya la aceptación, que distinga el desarrollo genuino de la optimización compulsiva, y que ponga el progreso al servicio de la vida en lugar de la vida al servicio del progreso.
 
 ---
 
@@ -23,7 +23,7 @@ Elena siente que la presión de ser la mejor versión de si misma la agota más 
 
 La idea de convertirse en la mejor versión de uno mismo puede ser la motivación más potente o la fuente más sutil de sufrimiento innecesario.
 
-**El Principio de la Mejor Versión como Concepto que Puede Servir al Florecimiento o a la Comparación Perpetua segun Cómo se Use:** El concepto de mejor versión de uno mismo (best self) esta presente en practicamente toda la literatura de desarrollo personal de las últimas décadas. En su versión liberadora, propone que hay un potencial sin realizar en cada persona que puede desarrollarse con intención y práctica. En su versión opresiva, se convierte en un estandar de perfección inalcanzable que hace que cualquier estado actual sea insatisfactorio.
+**El Principio de la Mejor Versión como Concepto que Puede Servir al Florecimiento o a la Comparación Perpetua segun Cómo se Use:** El concepto de mejor versión de uno mismo (best self) esta presente en prácticamente toda la literatura de desarrollo personal de las últimas décadas. En su versión liberadora, propone que hay un potencial sin realizar en cada persona que puede desarrollarse con intención y práctica. En su versión opresiva, se convierte en un estandar de perfección inalcanzable que hace que cualquier estado actual sea insatisfactorio.
 
 Laura King investiga el mejor yo posible (possible selves): la investigación muestra que visualizar el mejor yo posible en áreas específicas de la vida produce efectos positivos en el bienestar y la motivación cuando va acompanado de expectativas realistas, pero efectos negativos cuando la brecha entre el yo actual y el yo posible se vive como fracaso en lugar de como dirección.
 
@@ -161,7 +161,7 @@ La mejor versión de ti mismo no es un yo diferente al que eres. Es el mismo yo,
 
 ## Epílogo
 
-Ruben dejó de consumir contenido de productividad y optimización durante dos meses. No como renuncia al desarrollo personal sino como experimento: quería saber si el tiempo que había dedicado a aprender sobre crecimiento había producido más crecimiento real que el tiempo que había dedicado a practicar. La respuesta fue inequivoca: en esos dos meses, sin podcasts sobre habitos ni libros sobre productividad, había avanzado más en las cosas que genuinamente le importaban que en los dos meses anteriores saturados de input sobre como avanzar. El aprendizaje sobre el crecimiento no había producido el crecimiento. La práctica si.
+Ruben dejó de consumir contenido de productividad y optimización durante dos meses. No como renuncia al desarrollo personal sino como experimento: quería saber si el tiempo que había dedicado a aprender sobre crecimiento había producido más crecimiento real que el tiempo que había dedicado a practicar. La respuesta fue inequivoca: en esos dos meses, sin podcasts sobre hábitos ni libros sobre productividad, había avanzado más en las cosas que genuinamente le importaban que en los dos meses anteriores saturados de input sobre como avanzar. El aprendizaje sobre el crecimiento no había producido el crecimiento. La práctica si.
 
 ---
 

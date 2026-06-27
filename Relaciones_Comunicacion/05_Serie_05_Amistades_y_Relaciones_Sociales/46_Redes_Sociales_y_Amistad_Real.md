@@ -47,7 +47,7 @@ Lo que ves en las redes sociales de tus amigos no es su vida. Es la versión de 
 
 Paradojicamente, las plataformas diseñadas para conectar a las personas pueden, en ciertos patrones de uso, amplificar en lugar de reducir la experiencia subjetiva de soledad.
 
-**El Principio de la Conexion Pasiva Insuficiente:** La investigación distingue entre el uso activo de redes sociales (interacción directa, mensajes personales, comentarios sustantivos) y el uso pasivo (deslizar y observar contenido sin interactuar). El uso pasivo se asocia consistentemente con mayores niveles de soledad y menor bienestar, mientras el uso activo, cuando se dirige a relaciones ya significativas, puede tener efectos neutros o incluso positivos.
+**El Principio de la Conexión Pasiva Insuficiente:** La investigación distingue entre el uso activo de redes sociales (interacción directa, mensajes personales, comentarios sustantivos) y el uso pasivo (deslizar y observar contenido sin interactuar). El uso pasivo se asocia consistentemente con mayores niveles de soledad y menor bienestar, mientras el uso activo, cuando se dirige a relaciones ya significativas, puede tener efectos neutros o incluso positivos.
 
 **Ejercicio inmediato:** Evalua tu propio patron de uso de redes sociales: ¿que proporción es observación pasiva de contenido ajeno versus interacción activa y personal con personas que te importan? Considera reducir lo primero y aumentar lo segundo.
 

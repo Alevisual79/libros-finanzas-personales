@@ -1,7 +1,7 @@
 # Empatia práctica
 ## Cómo entender al otro sin perderte a ti mismo
 
-**Serie 02: Comunicación y Conexion — Libro 6 de 10**
+**Serie 02: Comunicación y Conexión — Libro 6 de 10**
 
 ---
 
@@ -173,7 +173,7 @@ Eso es lo que la empatia real produce en los dos.
 
 ---
 
-*Libro 16 de la colección, Libro 6 de 10 de Serie 02: Comunicación y Conexion.*
+*Libro 16 de la colección, Libro 6 de 10 de Serie 02: Comunicación y Conexión.*
 
 ---
 

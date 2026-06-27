@@ -23,7 +23,7 @@ Elena tiene cuatrocientas conversaciones activas en su movil. Tiene, segun su pr
 
 La transformación tecnologica de las últimas décadas ha alterado fundamentalmente cómo se inician, mantienen, y en algunos casos terminan las relaciones humanas, con efectos que combinan beneficios significativos con costos frecuentemente subestimados.
 
-**El Principio de la Transformación Estructural de la Conexion:** Internet ha eliminado gran parte de la fricción que tradicionalmente limitaba el número de relaciones que una persona podía mantener (proximidad geografica, tiempo disponible para comunicación), permitiendo una amplitud de conexiones sin precedentes históricos. Sin embargo, esta eliminación de fricción no ha producido necesariamente mayor profundidad relacional; con frecuencia, ha producido mayor amplitud a expensas de esa profundidad.
+**El Principio de la Transformación Estructural de la Conexión:** Internet ha eliminado gran parte de la fricción que tradicionalmente limitaba el número de relaciones que una persona podía mantener (proximidad geografica, tiempo disponible para comunicación), permitiendo una amplitud de conexiones sin precedentes históricos. Sin embargo, esta eliminación de fricción no ha producido necesariamente mayor profundidad relacional; con frecuencia, ha producido mayor amplitud a expensas de esa profundidad.
 
 **Ejercicio inmediato:** Reflexiona sobre como ha cambiado tu propia capacidad de mantener relaciones desde que la tecnología eliminó las barreras tradicionales. Esa amplitud adicional se ha traducido en más conexión profunda, o principalmente en más conexión superficial?
 

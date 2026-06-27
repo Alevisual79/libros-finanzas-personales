@@ -1,7 +1,7 @@
 # Distorsiones Cognitivas
 ## Errores de pensamiento que distorsionan tu realidad
 
-**Serie 06: Habitos Mentales y Creencias — Libro 2 de 10**
+**Serie 06: Hábitos Mentales y Creencias — Libro 2 de 10**
 
 ---
 
@@ -67,7 +67,7 @@ Elena asume frecuentemente que sabe lo que otros piensan sobre ella, sin haber p
 
 **El Principio de la Lectura Mental como Proyección del Autocritico Interno:** La lectura mental es la tendencia a asumir que sabemos lo que otros piensan (especialmente sobre nosotros) sin evidencia suficiente. La investigación de Burns muestra que la lectura mental tiende a proyectar el propio crítico interno: asumimos que los otros nos ven de la forma en que la voz crítica nos ve a nosotros mismos.
 
-Philip Zimbardo y colaboradores documentan que las personas socialmente ansiosas tienen una tendencia especialmente marcada a la lectura mental negativa: asumen que sus errores sociales son tan visibles y tan graves para los observadores como les parecen a ellos mismos. El antídoto es la busqueda de evidencia real: preguntar, en lugar de asumir.
+Philip Zimbardo y colaboradores documentan que las personas socialmente ansiosas tienen una tendencia especialmente marcada a la lectura mental negativa: asumen que sus errores sociales son tan visibles y tan graves para los observadores como les parecen a ellos mismos. El antídoto es la búsqueda de evidencia real: preguntar, en lugar de asumir.
 
 **Ejercicio inmediato:** Identifica una situación reciente donde asumiste lo que otra persona pensaba de ti sin haberlo verificado. Si la relación lo permite, considera verificar directamente. Si no, reflexiona: ¿que evidencia real tienes de que tu interpretación era correcta? Probablemente mucho menos de la que parecia.
 
@@ -165,7 +165,7 @@ Ruben empezó a notar los patrones. Cada vez que el teléfono no sonaba, la lect
 
 ---
 
-*Libro 52 de la colección psicología Aplicada, Libro 2 de 10 de Serie 06: Habitos Mentales y Creencias.*
+*Libro 52 de la colección psicología Aplicada, Libro 2 de 10 de Serie 06: Hábitos Mentales y Creencias.*
 
 ---
 

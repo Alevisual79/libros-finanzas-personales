@@ -17,7 +17,7 @@
 
 El mentor de Elena tenía un problema cronico: necesitaba mantenerse actualizado en campos que evolucionaban demasiado rápido. La cantidad de papers, artículos, informes y libros relevantes era imposible de procesar de forma lineal.
 
-Con la combinación de Perplexity para busqueda actualizada, NotebookLM para analizar sus propios documentos, y Elicit para investigación académica, transformó su proceso de aprendizaje. No leyo más: leyo más selectivamente y absorbio mejor lo que leía.
+Con la combinación de Perplexity para búsqueda actualizada, NotebookLM para analizar sus propios documentos, y Elicit para investigación académica, transformó su proceso de aprendizaje. No leyo más: leyo más selectivamente y absorbio mejor lo que leía.
 
 ---
 
@@ -34,7 +34,7 @@ La IA puede ayudar de tres formas:
 
 ## Capítulo 2: Perplexity — La busqueda del futuro
 
-Perplexity es un motor de busqueda con IA que combina busqueda web en tiempo real con sintesis de respuestas con fuentes citadas.
+Perplexity es un motor de búsqueda con IA que combina búsqueda web en tiempo real con síntesis de respuestas con fuentes citadas.
 
 **Por qué es diferente a Google:**
 - Responde preguntas directamente en lugar de proporcionar enlaces
@@ -42,7 +42,7 @@ Perplexity es un motor de busqueda con IA que combina busqueda web en tiempo rea
 - Permite preguntas de seguimiento que mantienen el contexto
 - No tiene publicidad que comprometa la neutralidad de los resultados
 
-**Perplexity Pro (20 dolares mes):** Acceso a GPT-4, Claude y otros modelos avanzados, mayor número de busquedas, modo Deep Research para investigaciones más exhaustivas.
+**Perplexity Pro (20 dolares mes):** Acceso a GPT-4, Claude y otros modelos avanzados, mayor número de búsquedas, modo Deep Research para investigaciones más exhaustivas.
 
 **Ideal para:** Investigación de mercado, seguimiento de tendencias, investigación antes de reuniones, verificación rápida de hechos con fuentes.
 
@@ -68,10 +68,10 @@ NotebookLM (Google) es una de las herramientas más interesantes del ecosistema 
 Elicit está diseñado específicamente para investigación académica. Busca en bases de datos de papers cientificos y extrae información relevante de forma estructurada.
 
 **Funcionalidades clave:**
-- Busqueda semantica (no solo por palabras clave) en millones de papers
-- Extracción automática de: muestra, metodologia, resultados, limitaciones
+- Búsqueda semantica (no solo por palabras clave) en millones de papers
+- Extracción automática de: muestra, metodología, resultados, limitaciones
 - Comparación de multiples estudios en una tabla
-- Identificación de papers relevantes que no aparecen en la busqueda inicial
+- Identificación de papers relevantes que no aparecen en la búsqueda inicial
 
 **Ideal para:** Profesionales que necesitan basar sus decisiones en evidencia académica, investigadores que hacen revisión de literatura, cualquiera que quiera entender que dice la ciencia sobre un tema.
 
@@ -101,7 +101,7 @@ El proceso de investigación con IA más efectivo:
 
 **4. Actualización:** Configurar alertas en Perplexity o usar buscadores convencionales para seguimiento de novedades.
 
-**5. Sintesis:** Usar un LLM generalista para sintetizar todo lo investigado en un documento coherente.
+**5. Síntesis:** Usar un LLM generalista para sintetizar todo lo investigado en un documento coherente.
 
 ---
 
@@ -125,7 +125,7 @@ El conocimiento investigado y aprendido tiene valor solo si se organiza y se pue
 
 **Obsidian con IA:** Sistema de notas basado en Markdown con plugins de IA que conectan conceptos automáticamente, generan resumenes de notas y sugieren conexiones entre ideas.
 
-**Notion AI:** Integración de IA en el sistema de gestión de conocimiento más popular. Busqueda semantica en las propias notas, generación de contenido dentro del contexto existente.
+**Notion AI:** Integración de IA en el sistema de gestión de conocimiento más popular. Búsqueda semantica en las propias notas, generación de contenido dentro del contexto existente.
 
 **Reflect:** Aplicación de notas con IA integrada que conecta automáticamente conceptos y genera red de conocimiento.
 

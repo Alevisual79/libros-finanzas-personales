@@ -21,9 +21,9 @@ Elena ha notado algo desconcertante: es una persona diferente dependiendo del gr
 
 ## Capítulo 1: La conformidad: el poder de los otros sobre nuestras percepciones
 
-La investigación más clasica de la psicología social muestra algo perturbador.
+La investigación más clásica de la psicología social muestra algo perturbador.
 
-**El Principio de la Conformidad como Tendencia Automática a Alinearse con la Mayoria:** Solomon Asch realizo en los años cincuenta el experimento clasico de conformidad: puso a sujetos en grupos donde todos los otros miembros eran confederados del experimento, y demostró que el 75% de los sujetos conformaban al menos una vez su respuesta con la del grupo, respondiendo que dos lineas claramente diferentes tenían la misma longitud, simplemente porque todos los demás del grupo decía que las tenían.
+**El Principio de la Conformidad como Tendencia Automática a Alinearse con la Mayoria:** Solomon Asch realizo en los años cincuenta el experimento clásico de conformidad: puso a sujetos en grupos donde todos los otros miembros eran confederados del experimento, y demostró que el 75% de los sujetos conformaban al menos una vez su respuesta con la del grupo, respondiendo que dos lineas claramente diferentes tenían la misma longitud, simplemente porque todos los demás del grupo decía que las tenían.
 
 La investigación de Asch y sus seguidores muestra que la conformidad se activa incluso cuando la respuesta correcta es objetivamente obvia, se reduce significativamente cuando hay al menos un otro que diside, y es mayor en culturas colectivistas que individualistas. Los mecanismos incluyen la presión informacional (los otros pueden saber algo que yo no se) y la presión normativa (quiero ser aceptado por el grupo).
 
