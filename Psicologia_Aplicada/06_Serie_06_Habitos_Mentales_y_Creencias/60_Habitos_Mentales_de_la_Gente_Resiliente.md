@@ -51,11 +51,11 @@ La mente que solo puede ver desde un ángulo es vulnerable a ese ángulo. La que
 
 Isabel ha observado que las personas resilientes no son necesariamente las que tienen más recursos externos. Son las que encuentran sentido a lo que les ocurre.
 
-**El Principio del Sentido de Coherencia como Protector ante la Adversidad:** Aaron Antonovsky, médico israelí que investigó la salud en supervivientes del holocausto, desarrollo el concepto de sentido de coherencia: la tendencia a percibir los eventos vitales como comprensibles (tienen una logica que puedo entender), manejables (tengo los recursos para afrontarlos), y significativos (merece la pena invertir el esfuerzo de afrontarlos). Este sentido de coherencia, no los eventos en si, es lo que predice la adaptación sana.
+**El Principio del Sentido de Coherencia como Protector ante la Adversidad:** Aaron Antonovsky, médico israelí que investigó la salud en supervivientes del holocausto, desarrollo el concepto de sentido de coherencia: la tendencia a percibir los eventos vitales como comprensibles (tienen una lógica que puedo entender), manejables (tengo los recursos para afrontarlos), y significativos (merece la pena invertir el esfuerzo de afrontarlos). Este sentido de coherencia, no los eventos en si, es lo que predice la adaptación sana.
 
 La investigación de Crystal Park sobre la busqueda de significado en situaciones traumaticas muestra que las personas que consiguen encontrar algun significado a las experiencias difíciles (aunque sea después de tiempo) muestran mejor funcionamiento a largo plazo que las que no pueden.
 
-**Ejercicio inmediato:** Para la dificultad actual más importante, reflexiona sobre las tres dimensiones del sentido de coherencia: ¿entiendes la logica de por qué está ocurriendo (comprensibilidad)? ¿Tienes alguno de los recursos que necesitas para afrontarla (manejabilidad)? ¿Hay algo importante para ti en jeugo que justifica el esfuerzo de afrontarla (significatividad)? Las dimensiones más debiles son donde el trabajo de sentido de coherencia tiene mayor impacto.
+**Ejercicio inmediato:** Para la dificultad actual más importante, reflexiona sobre las tres dimensiones del sentido de coherencia: ¿entiendes la lógica de por qué está ocurriendo (comprensibilidad)? ¿Tienes alguno de los recursos que necesitas para afrontarla (manejabilidad)? ¿Hay algo importante para ti en jeugo que justifica el esfuerzo de afrontarla (significatividad)? Las dimensiones más debiles son donde el trabajo de sentido de coherencia tiene mayor impacto.
 
 La adversidad que no tiene sentido destruye. La que tiene alguno que puedes encontrar puede construir.
 

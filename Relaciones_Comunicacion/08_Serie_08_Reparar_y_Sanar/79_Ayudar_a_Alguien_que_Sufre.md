@@ -59,7 +59,7 @@ Las frases que intentan consolar minimizando el dolor casi siempre comunican lo 
 
 Acompañar a alguien que sufre requiere empatia genuina, pero distinguir entre la empatia saludable y la absorción completa del dolor del otro es esencial para poder sostener el apoyo sin agotarse.
 
-**El Principio de la Empatia con Limites Energeticos:** La empatia efectiva permite sentir y entender genuinamente el dolor de otra persona sin que ese dolor se convierta también en el propio de forma indistinguible. Mantener cierta diferenciación (esto es su dolor, que yo puedo acompañar, pero no es mi dolor que tengo que cargar como si fuera propio) permite sostener el apoyo de forma más sostenible.
+**El Principio de la Empatia con Limites Energéticos:** La empatia efectiva permite sentir y entender genuinamente el dolor de otra persona sin que ese dolor se convierta también en el propio de forma indistinguible. Mantener cierta diferenciación (esto es su dolor, que yo puedo acompañar, pero no es mi dolor que tengo que cargar como si fuera propio) permite sostener el apoyo de forma más sostenible.
 
 **Ejercicio inmediato:** Si acompañas a alguien que sufre y sientes que su dolor te está agotando completamente, práctica nombrar internamente la distinción: este es su dolor, yo lo acompaño, no lo cargo como mio.
 
@@ -119,7 +119,7 @@ Sugerir terapia a alguien que sufre no es decirle que ya no quieres ayudarlo. Es
 
 Acompañar a alguien que experimenta depresión o ansiedad significativa requiere comprensión específica de estas condiciones, distinta de la comprensión general del sufrimiento cotidiano, para poder ofrecer apoyo efectivo sin generar daño involuntario.
 
-**El Principio de la Comprensión específica de la Condición:** La depresión y la ansiedad clinica tienen caracteristicas específicas (la depresión puede manifestarse como ausencia de energía que no responde a motivación externa, la ansiedad puede generar evitación que no responde simplemente a tranquilización verbal) que requieren comprensión informada para evitar respuestas bien intencionadas pero contraproducentes, como simplemente decir animate o no te preocupes tanto.
+**El Principio de la Comprensión específica de la Condición:** La depresión y la ansiedad clinica tienen características específicas (la depresión puede manifestarse como ausencia de energía que no responde a motivación externa, la ansiedad puede generar evitación que no responde simplemente a tranquilización verbal) que requieren comprensión informada para evitar respuestas bien intencionadas pero contraproducentes, como simplemente decir animate o no te preocupes tanto.
 
 **Ejercicio inmediato:** Si acompañas a alguien con depresión o ansiedad, considera educarte específicamente sobre estas condiciones (a traves de recursos confiables) para entender mejor que tipo de apoyo es realmente útil versus contraproducente.
 

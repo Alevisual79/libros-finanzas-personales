@@ -51,7 +51,7 @@ Para muchas personas, especialmente aquellas distanciadas de su familia biológi
 
 **El Principio de la Amistad como Parentesco Funcional:** Las redes de amistad profunda y de largo plazo pueden proporcionar el mismo nivel de apoyo emocional, presencia en momentos críticos, y compromiso de largo plazo que tradicionalmente se esperaba de la familia biológica. Reconocer estas relaciones como familia elegida, en lugar de simplemente como amistad, les otorga el reconocimiento y la prioridad que merecen en la propia vida.
 
-**Ejercicio inmediato:** Identifica las personas en tu vida que cumplen funciones de familia (apoyo consistente, presencia en momentos importantes, compromiso de largo plazo) independientemente de si son familiares biologicos. Considera como podrías honrar y fortalecer esas relaciones con la misma intencionalidad que se aplicaria a la familia tradicional.
+**Ejercicio inmediato:** Identifica las personas en tu vida que cumplen funciones de familia (apoyo consistente, presencia en momentos importantes, compromiso de largo plazo) independientemente de si son familiares biológicos. Considera como podrías honrar y fortalecer esas relaciones con la misma intencionalidad que se aplicaria a la familia tradicional.
 
 Si tus amigos te dan lo que la familia debería dar, son tu familia, independientemente del terminó que la sociedad use para describirlos.
 
@@ -131,7 +131,7 @@ Una familia pequeña no es una familia incompleta. Puede ser, de hecho, un espac
 
 ## Capítulo 10: El legado que quieres dejar
 
-El trabajo final de toda la serie sobre familia es la reflexión consciente sobre que legado, en terminos de valores, patrones y formas de relacionarse, se quiere dejar a las generaciones futuras, sean estas biologicas, elegidas, o simplemente las personas que se veran influidas por el propio ejemplo.
+El trabajo final de toda la serie sobre familia es la reflexión consciente sobre que legado, en terminos de valores, patrones y formas de relacionarse, se quiere dejar a las generaciones futuras, sean estas biológicas, elegidas, o simplemente las personas que se veran influidas por el propio ejemplo.
 
 **El Principio del Legado como Elección Consciente:** El trabajo de toda esta serie (entender la familia de origen, navegar la relación con padres e hijos adultos, gestionar hermanos, adaptarse a estructuras diversas, cuidar a los mayores, construir rituales, tener conversaciones pendientes, gestionar el dinero, perdonar y finalmente crear la propia familia) converge en una pregunta final: ¿que legado, específicamente, quieres dejar tu, distinto del que heredaste, a quienes vengan después de ti?
 

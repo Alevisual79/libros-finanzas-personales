@@ -27,7 +27,7 @@ El mejor stack de IA no es el que tiene más herramientas. Es el que produce má
 
 Un stack de herramientas es el conjunto de herramientas que usas de forma sistemática y complementaria para un conjunto de tareas.
 
-El concepto viene de la ingenieria de software (el "tech stack" de una aplicación: base de datos, backend, frontend, infraestructura). La misma logica aplicada a las herramientas de productividad personal.
+El concepto viene de la ingenieria de software (el "tech stack" de una aplicación: base de datos, backend, frontend, infraestructura). La misma lógica aplicada a las herramientas de productividad personal.
 
 Un buen stack de IA para un profesional del conocimiento tiene:
 - Un LLM principal para escritura, análisis y razonamiento
@@ -82,14 +82,14 @@ Cobertura: análisis de datos de RRHH, documentación de reuniones, base de cono
 ## Capítulo 5: El stack de la directora de tecnología (Elena)
 
 **LLM principal:** Claude Pro para análisis y escritura
-**Codigo:** GitHub Copilot (integrado en VS Code)
+**Código:** GitHub Copilot (integrado en VS Code)
 **Busqueda técnica:** Perplexity Pro
-**Investigación:** Elicit para papers academicos cuando es necesario
+**Investigación:** Elicit para papers académicos cuando es necesario
 **Reuniones:** Fireflies para documentación automática
 **Agentes:** n8n self-hosted para automatizaciones
 **Total:** Aproximadamente 60-80 dolares mes
 
-Cobertura: escritura técnica y de gestión, asistencia en codigo, documentación de reuniones, investigación técnica, automatización de flujos de trabajo.
+Cobertura: escritura técnica y de gestión, asistencia en código, documentación de reuniones, investigación técnica, automatización de flujos de trabajo.
 
 ---
 

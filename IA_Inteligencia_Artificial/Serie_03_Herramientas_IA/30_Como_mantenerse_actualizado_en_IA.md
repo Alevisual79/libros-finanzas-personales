@@ -66,7 +66,7 @@ La senial real:
 - AI Breakfast: Más orientado a negocios y aplicaciones prácticas
 
 **Para información técnica:**
-- Papers with Code: Nuevos papers con implementaciones de codigo
+- Papers with Code: Nuevos papers con implementaciones de código
 - Arxiv Sanity (Andrej Karpathy): Selección de papers relevantes de arxiv
 - Hugging Face Blog: Noticias y tutoriales técnicos del ecosistema open source
 
@@ -184,7 +184,7 @@ Enseniar a otros no solo consolida el aprendizaje: crea visibilidad y posicionam
 
 ## Capítulo 10: El cierre de la Serie 3
 
-Esta serie ha recorrido el ecosistema de herramientas de IA: de los grandes modelos generalistas a las especializadas en codigo, imagen, audio, video, escritura, investigación y productividad.
+Esta serie ha recorrido el ecosistema de herramientas de IA: de los grandes modelos generalistas a las especializadas en código, imagen, audio, video, escritura, investigación y productividad.
 
 La Serie 3 termina con la perspectiva más amplia: como mantenerse actualizado en un campo que cambia constantemente sin ser consumido por esa velocidad.
 

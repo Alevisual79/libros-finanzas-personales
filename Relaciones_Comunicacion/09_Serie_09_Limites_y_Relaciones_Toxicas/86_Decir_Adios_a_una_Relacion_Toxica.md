@@ -119,7 +119,7 @@ La dependencia económica es una barrera real, no una excusa. Planificarla activ
 
 Contar con una red de apoyo activa durante el proceso de salir de una relación toxica mejora significativamente tanto la probabilidad de éxito del proceso como el bienestar emocional durante un período particularmente difícil.
 
-**El Principio del Apoyo Externo como Recurso Critico:** Las personas que cuentan con apoyo activo de amigos, familia, o profesionales durante el proceso de salida de una relación toxica tienden a tener procesos más exitosos y menos propensos a la reversión (volver a la relación) que las que intentan navegar el proceso completamente solas, sin esa red de sostenimiento.
+**El Principio del Apoyo Externo como Recurso Crítico:** Las personas que cuentan con apoyo activo de amigos, familia, o profesionales durante el proceso de salida de una relación toxica tienden a tener procesos más exitosos y menos propensos a la reversión (volver a la relación) que las que intentan navegar el proceso completamente solas, sin esa red de sostenimiento.
 
 **Ejercicio inmediato:** Identifica específicamente a quien en tu vida podrías activar como apoyo durante tu proceso de salida de una relación toxica, y considera contactar a esa persona o personas explicitamente para solicitar ese apoyo.
 
@@ -131,7 +131,7 @@ Salir de una relación toxica sola es posible, pero significativamente más dif�
 
 El período inmediatamente posterior a la salida de una relación toxica tiene sus propios desafios específicos en distintas escalas de tiempo, y anticipar esos desafios ayuda a navegarlos con más preparación.
 
-**El Principio de los Desafios Escalonados del Periodo Posterior:** El primer dia frecuentemente involucra shock y posiblemente alivio inmediato. La primera semana suele traer la realidad práctica de la ausencia y posibles intentos de contacto de la otra persona. El primer mes frecuentemente incluye fluctuaciones emocionales significativas, incluyendo momentos de duda sobre la decisión, que requieren el apoyo continuado de la red establecida.
+**El Principio de los Desafios Escalonados del Período Posterior:** El primer dia frecuentemente involucra shock y posiblemente alivio inmediato. La primera semana suele traer la realidad práctica de la ausencia y posibles intentos de contacto de la otra persona. El primer mes frecuentemente incluye fluctuaciones emocionales significativas, incluyendo momentos de duda sobre la decisión, que requieren el apoyo continuado de la red establecida.
 
 **Ejercicio inmediato:** Si estas en cualquiera de estas etapas (primer dia, primera semana, primer mes) después de salir de una relación toxica, identifica los desafios específicos de tu etapa actual y que apoyo necesitas específicamente para navegarlos.
 

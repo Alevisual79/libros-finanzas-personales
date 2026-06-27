@@ -23,7 +23,7 @@ Carlos tiene un negocio rentable sobre el papel pero en agosto no puede pagar la
 
 El beneficio te dice si el negocio gana dinero. El flujo de caja te dice si sobrevive el mes que viene.
 
-**El Principio del Flujo de Caja como El Movimiento Real de Dinero que Entra y Sale del Negocio en Un Periodo específico y que Determina La Capacidad del Negocio de Pagar Sus Obligaciones en El Momento en que Son Exigibles Independientemente de Si El Negocio Es Rentable a Largo Plazo:** La diferencia entre el beneficio contable y el flujo de caja real puede ser enorme: un negocio puede tener beneficio de cincuenta mil euros en el trimestre pero cero liquidez si ha facturado mucho pero sus clientes aun no han pagado, si ha invertido en stock o en equipamiento, o si tiene grandes pagos de impuestos pendientes.
+**El Principio del Flujo de Caja como El Movimiento Real de Dinero que Entra y Sale del Negocio en Un Período específico y que Determina La Capacidad del Negocio de Pagar Sus Obligaciones en El Momento en que Son Exigibles Independientemente de Si El Negocio Es Rentable a Largo Plazo:** La diferencia entre el beneficio contable y el flujo de caja real puede ser enorme: un negocio puede tener beneficio de cincuenta mil euros en el trimestre pero cero liquidez si ha facturado mucho pero sus clientes aun no han pagado, si ha invertido en stock o en equipamiento, o si tiene grandes pagos de impuestos pendientes.
 
 La investigación de U.S. Bank muestra que el ochenta y dos por ciento de los fracasos de pequeñas empresas son causados por problemas de flujo de caja, no por falta de rentabilidad. Muchos negocios mueren rentables: han generado más valor del que han consumido, pero no en el momento correcto para poder pagar sus obligaciones.
 
@@ -99,7 +99,7 @@ La investigación de Deloitte sobre la gestión financiera de pymes muestra que 
 
 **Ejercicio inmediato:** Si tu negocio tiene estacionalidad, mapea los últimos doce meses de revenue mes a mes y calcula la media mensual. Define tu nivel de gasto operativo fijo basandote en esa media (no en los meses pico). Para los meses de mayor revenue que la media, automatiza el traspaso del excedente a la cuenta de reservas del negocio. Para los meses de menor revenue, usa esas reservas para mantener el nivel de gasto sin estres. Ese sistema convierte la estacionalidad de un problema recurrente en un fenómeno gestionado.
 
-La estacionalidad que no se planifica produce una crisis dos veces al año. La que se planifica es solo una caracteristica del negocio.
+La estacionalidad que no se planifica produce una crisis dos veces al año. La que se planifica es solo una característica del negocio.
 
 ---
 
@@ -135,7 +135,7 @@ El emprendedor que no aparta los impuestos mensualmente los paga igualmente. Sol
 
 Marcos ha aprendido a reconocer las señales de alarma de flujo de caja antes de que se conviertan en una crisis.
 
-**El Principio de Las Señales de Alarma de Flujo de Caja como Los Indicadores Tempranos que Anticipan Un Problema de Liquidez con Suficiente Antelación para Tomar Medidas Preventivas antes de Que La Situación Se Vuelva Critica:** Las principales señales de alarma de flujo de caja son: el saldo bancario que baja mes a mes aunque el negocio sea rentable (señal de un problema de cobró o de sobreinversión), la necesidad recurrente de usar la linea de credito para pagar gastos operativos (señal de que los costes fijos superan la capacidad de generación de caja), el aumento de las facturas pendientes de cobró (señal de deterioro en la gestión de clientes o de clientes con problemas financieros), y el retraso sistemático en el pago a proveedores (señal de que la liquidez ya esta en niveles críticos).
+**El Principio de Las Señales de Alarma de Flujo de Caja como Los Indicadores Tempranos que Anticipan Un Problema de Liquidez con Suficiente Antelación para Tomar Medidas Preventivas antes de Que La Situación Se Vuelva Crítica:** Las principales señales de alarma de flujo de caja son: el saldo bancario que baja mes a mes aunque el negocio sea rentable (señal de un problema de cobró o de sobreinversión), la necesidad recurrente de usar la linea de credito para pagar gastos operativos (señal de que los costes fijos superan la capacidad de generación de caja), el aumento de las facturas pendientes de cobró (señal de deterioro en la gestión de clientes o de clientes con problemas financieros), y el retraso sistemático en el pago a proveedores (señal de que la liquidez ya esta en niveles críticos).
 
 Cualquiera de esas señales por si sola puede tener una explicación inocua. Dos o más de forma simultanea son una alerta sería que requiere análisis inmediato y acción.
 

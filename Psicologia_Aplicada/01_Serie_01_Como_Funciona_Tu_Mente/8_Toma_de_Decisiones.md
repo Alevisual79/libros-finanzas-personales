@@ -27,7 +27,7 @@ La mayoría de las personas toman decisiones importantes usando los mismos proce
 
 El problema es que el Sistema 1 genera confianza subjetiva independientemente de su precisión objetiva. Las personas que deciden siguiendo la tripa en contextos donde la tripa no tiene los datos para decidir bien se sienten tan seguras como las que deciden con evidencia sólida. La confianza no es una señal de calidad de la decisión.
 
-**Ejercicio inmediato:** Para tu próxima decisión importante, identifica si es el tipo de decisión donde la intuición experta podría ser confiable (tienes vasta experiencia en situaciones similares con feedback rápido) o si es el tipo que requiere análisis deliberado (situación nueva, alta incertidumbre, consecuencias a largo plazo). El diagnostico correcto del tipo de decisión determina el proceso correcto para tomarla.
+**Ejercicio inmediato:** Para tu próxima decisión importante, identifica si es el tipo de decisión donde la intuición experta podría ser confiable (tienes vasta experiencia en situaciones similares con feedback rápido) o si es el tipo que requiere análisis deliberado (situación nueva, alta incertidumbre, consecuencias a largo plazo). El diagnóstico correcto del tipo de decisión determina el proceso correcto para tomarla.
 
 La confianza que sientes al decidir no te dice nada sobre si la decisión es buena. Solo te dice que tan comodo se siente el Sistema 1 con la elección.
 

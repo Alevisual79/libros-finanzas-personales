@@ -51,7 +51,7 @@ La fuerza de voluntad que usas para cosas pequeñas no está disponible para las
 
 Isabel tiene hijos y se pregunta si el autocontrol es innato o se puede desarrollar.
 
-**El Principio del Autocontrol Infantil como Predictor de Outcomes Adultos con Matices Importantes:** Walter Mischel realizo en los años sesenta el experimento del marshmallow: niños de cuatro años podían comer un marshmallow ahora o esperar quince minutos y recibir dos. Los estudios de seguimiento mostraron que los niños que esperaron más tiempo tenían mejores resultados academicos y mayor bienestar social en la edad adulta.
+**El Principio del Autocontrol Infantil como Predictor de Outcomes Adultos con Matices Importantes:** Walter Mischel realizo en los años sesenta el experimento del marshmallow: niños de cuatro años podían comer un marshmallow ahora o esperar quince minutos y recibir dos. Los estudios de seguimiento mostraron que los niños que esperaron más tiempo tenían mejores resultados académicos y mayor bienestar social en la edad adulta.
 
 Sin embargo, la investigación más reciente de Tyler Watts y colegas con muestras más representativas matiza significativamente los resultados originales: el efecto predictivo del autocontrol infantil se reduce sustancialmente cuando se controla el nivel socioeconomico de la familia, sugiriendo que las diferencias en autocontrol infantil reflejan en parte diferencias en la confianza en el entorno. El autocontrol no es solo un rasgo innato: es una capacidad que se desarrolla en entornos que la hacen posible.
 
@@ -81,7 +81,7 @@ Ruben tiene muchas intenciones que no se convierten en comportamiento. La invest
 
 **El Principio de las Intenciones de Implementación como Puentes entre la Intención y la Acción:** Peter Gollwitzer y colegas desarrollaron el concepto de intenciones de implementación: planes específicos del tipo cuando [situación X], hare [comportamiento Y]. La investigación muestra que las personas que forman intenciones de implementación específicas son hasta dos o tres veces más probables de completar sus intenciones que las que solo forman intenciones de meta.
 
-El mecanismo es neurologico: la intención de implementación crea un vinculó automático entre la situación especificada (cuando) y la respuesta especificada (entonces), de forma que cuando aparece la situación el comportamiento se activa sin decisión consciente deliberada.
+El mecanismo es neurológico: la intención de implementación crea un vinculó automático entre la situación especificada (cuando) y la respuesta especificada (entonces), de forma que cuando aparece la situación el comportamiento se activa sin decisión consciente deliberada.
 
 **Ejercicio inmediato:** Elige una intención que has tenido dificultad en convertir en acción. Formula una intención de implementación específica: cuando [situación concreta: hora, lugar, estado, precedente], entonces hare [comportamiento específico y mínimo]. Escribe la formula. La especificidad es crítica: cuanto más específica la situación y el comportamiento, más fuerte el vinculó automático que el cerebro crea.
 

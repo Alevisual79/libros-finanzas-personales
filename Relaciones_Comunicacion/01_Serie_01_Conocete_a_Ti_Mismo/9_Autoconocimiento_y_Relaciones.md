@@ -17,7 +17,7 @@
 
 El autoconocimiento tiene mala prensa. Se asocia con el narcisismo de quien habla solo de si mismo, con la navel-gazing de quien se mira el ombligo mientras el mundo gira. Pero el autoconocimiento real es exactamente lo opuesto: es la condición para dejar de proyectar en los demás lo que no ves en ti mismo.
 
-La persona que no se conoce confunde sus propias emociones con las del otro. Atribuye sus intenciones al otro. Critica en el otro lo que no reconoce en si misma. Busca en el otro lo que no se da a si misma. El autoconocimiento no es narcisismo. Es la base sin la que ninguna relación profunda es posible.
+La persona que no se conoce confunde sus propias emociones con las del otro. Atribuye sus intenciones al otro. Crítica en el otro lo que no reconoce en si misma. Busca en el otro lo que no se da a si misma. El autoconocimiento no es narcisismo. Es la base sin la que ninguna relación profunda es posible.
 
 Este libro es el más práctico de la serie. No habla de teorias sino de herramientas concretas: como usar la escritura, como recibir feedback, como identificar los puntos ciegos, como ser el mismo dentro y fuera de las relaciones.
 
@@ -75,7 +75,7 @@ La introspección tiene un problema que nadie habla: puede producir la ilusión 
 
 Timothy Wilson, autor del libro Strangers to Ourselves, argumenta que las personas tienen un acceso muy limitado a los procesos mentales que guian su conducta. La introspection puede producir explicaciones plausibles que no corresponden a las causas reales de las propias acciones.
 
-**Ejercicio inmediato:** Piensa en una decisión reciente que tomaste en una relación y que justificaste con una razón logica. Ahora pregúntate: ¿hay alguna razón emocional o inconsciente que podría explicar mejor esa decisión? La respuesta honesta a esa segunda pregunta suele ser más reveladora que la primera.
+**Ejercicio inmediato:** Piensa en una decisión reciente que tomaste en una relación y que justificaste con una razón lógica. Ahora pregúntate: ¿hay alguna razón emocional o inconsciente que podría explicar mejor esa decisión? La respuesta honesta a esa segunda pregunta suele ser más reveladora que la primera.
 
 Conocerse no es construir una narrativa sobre uno mismo. Es ver lo que hay debajo de la narrativa.
 
@@ -141,7 +141,7 @@ Ser el mismo dentro y fuera no es perfección. Es honestidad consigo mismo.
 
 La persona que cree que ya se conoce lo suficiente ha dejado de crecer. El autoconocimiento no es un punto de llegada. Es un proceso que se desarrolla a medida que cambian las circunstancias, los roles y las etapas de la vida. Quien eras en tus relaciones a los veinte no es quien eres a los cuarenta. O debería no serlo.
 
-**El Principio del Autoconocimiento Dinamico:** Las personas cambian. Las circunstancias cambian. Las relaciones cambian. El autoconocimiento que teniamos a los veinte sobre como nos relacionamos puede ser completamente obsoleto a los cuarenta si hemos vivido experiencias que nos han transformado. Un autoconocimiento útil es uno que se revisa periodicamente, no uno que se construye una vez y se da por definitivo.
+**El Principio del Autoconocimiento Dinámico:** Las personas cambian. Las circunstancias cambian. Las relaciones cambian. El autoconocimiento que teniamos a los veinte sobre como nos relacionamos puede ser completamente obsoleto a los cuarenta si hemos vivido experiencias que nos han transformado. Un autoconocimiento útil es uno que se revisa periodicamente, no uno que se construye una vez y se da por definitivo.
 
 Las investigaciones longitudinales de Dan McAdams sobre la narrativa de identidad muestran que las personas que tienen relaciones más satisfactorias a lo largo del tiempo son las que muestran mayor capacidad de revisar y actualizar su narrativa sobre si mismas, incorporando nuevas experiencias e integrando las contradicciones.
 

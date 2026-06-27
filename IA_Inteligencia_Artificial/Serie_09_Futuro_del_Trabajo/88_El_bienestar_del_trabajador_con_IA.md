@@ -15,7 +15,7 @@ Las implicaciones de El bienestar del trabajador con IA se sienten ya en organiz
 
 ## Capítulo 3: Los marcos de referencia
 
-Para entender y navegar El bienestar del trabajador con IA necesitamos marcos conceptuales rigurosos provenientes de la investigación academica, la práctica profesional y el debate ético.
+Para entender y navegar El bienestar del trabajador con IA necesitamos marcos conceptuales rigurosos provenientes de la investigación académica, la práctica profesional y el debate ético.
 
 ## Capítulo 4: El caso de Elena
 

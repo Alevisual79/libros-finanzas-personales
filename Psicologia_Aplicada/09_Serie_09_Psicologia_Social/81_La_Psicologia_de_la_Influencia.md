@@ -23,7 +23,7 @@ Elena ha dicho que si a proyectos que no quería hacer porque alguien se los pid
 
 La influencia no es magia. Tiene una estructura.
 
-**El Principio de los Desencadenantes Automaticos como Base de la Influencia Social:** Robert Cialdini, en su investigación clasica sobre la persuasión y la influencia, identifica seis principios psicológicos que actuan como desencadenantes automáticos del comportamiento de cumplimiento: la reciprocidad (tendemos a devolver lo que nos han dado), la escasez (valoramos más lo que es raro o está disminuyendo), la autoridad (seguimos a los expertos y figuras de autoridad), la consistencia (actuamos de acuerdo con nuestros compromisos previos), el agrado (accedemos más facilmente a los que nos gustan), y la prueba social (miramos a los demás para saber como actuar).
+**El Principio de los Desencadenantes Automáticos como Base de la Influencia Social:** Robert Cialdini, en su investigación clasica sobre la persuasión y la influencia, identifica seis principios psicológicos que actuan como desencadenantes automáticos del comportamiento de cumplimiento: la reciprocidad (tendemos a devolver lo que nos han dado), la escasez (valoramos más lo que es raro o está disminuyendo), la autoridad (seguimos a los expertos y figuras de autoridad), la consistencia (actuamos de acuerdo con nuestros compromisos previos), el agrado (accedemos más facilmente a los que nos gustan), y la prueba social (miramos a los demás para saber como actuar).
 
 Cialdini propone que estos principios son atajos cognitivos evolutivamente adaptativos: en la mayoría de los casos, seguirlos produce mejores resultados que deliberar cada decisión. Su problema es que pueden ser explotados deliberadamente por quienes los conocen y quieren aprovecharse de ellos.
 
@@ -79,7 +79,7 @@ La urgencia que viene de fuera es una señal de que alguien quiere que no piense
 
 Ruben ha tomado decisiones médicas y financieras basadas en la recomendación de personas que se presentaban como autoridades. No todas eran lo que parecian.
 
-**El Principio de la Autoridad como Atajo Cognitivo con Limites Importantes:** La investigación de Stanley Milgram (ya mencionada en el libro anterior) mostró el extremo del principio de autoridad. Pero la influencia de la autoridad opera también en niveles mucho menos dramaticos: los experimentos de Cialdini muestran que la percepción de autoridad (títulos academicos, uniforme, lenguaje técnico) produce cumplimiento incluso cuando la persona no ha demostrado competencia en el área específica.
+**El Principio de la Autoridad como Atajo Cognitivo con Limites Importantes:** La investigación de Stanley Milgram (ya mencionada en el libro anterior) mostró el extremo del principio de autoridad. Pero la influencia de la autoridad opera también en niveles mucho menos dramaticos: los experimentos de Cialdini muestran que la percepción de autoridad (títulos académicos, uniforme, lenguaje técnico) produce cumplimiento incluso cuando la persona no ha demostrado competencia en el área específica.
 
 La investigación de Philip Tetlock sobre las predicciones de expertos muestra que los expertos en muchos campos (economía, geopolitica) no predicen mejor que el azar en sus áreas de supuesta expertise. La autoridad percibida y la autoridad real no siempre son la misma cosa.
 

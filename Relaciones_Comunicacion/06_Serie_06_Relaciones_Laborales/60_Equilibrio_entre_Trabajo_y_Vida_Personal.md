@@ -71,7 +71,7 @@ Estar físicamente presente con la mente en el trabajo no es realmente estar pre
 
 La expectativa, cultural o autoimpuesta, de disponibilidad laboral constante (responder correos a cualquier hora, estar siempre accesible) erosiona progresivamente la capacidad de desconexion necesaria para el bienestar y las relaciones personales.
 
-**El Principio de la Disponibilidad como Elección, no como Obligación Automatica:** La disponibilidad laboral constante frecuentemente no es una exigencia explícita del empleador sino una expectativa autoimpuesta o culturalmente normalizada que la persona podría cuestionar y renegociar. Las personas que establecen límites claros de disponibilidad, comunicandolos explicitamente, frecuentemente descubren que el coste profesional de esos límites es mucho menor de lo que anticipaban.
+**El Principio de la Disponibilidad como Elección, no como Obligación Automática:** La disponibilidad laboral constante frecuentemente no es una exigencia explícita del empleador sino una expectativa autoimpuesta o culturalmente normalizada que la persona podría cuestionar y renegociar. Las personas que establecen límites claros de disponibilidad, comunicandolos explicitamente, frecuentemente descubren que el coste profesional de esos límites es mucho menor de lo que anticipaban.
 
 **Ejercicio inmediato:** Identifica una expectativa de disponibilidad constante que has asumido sin cuestionar. Considera si esa expectativa es realmente requerida explicitamente, o si es una norma autoimpuesta que podrías renegociar.
 

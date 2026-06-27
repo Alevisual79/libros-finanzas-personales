@@ -37,7 +37,7 @@ Cuando cambias la situación y el comportamiento cambia, aprendes más sobre lo 
 
 Ruben ha notado que a veces trabaja mejor cuando hay otros cerca y a veces mucho peor. La investigación explica el patron.
 
-**El Principio de la Facilitación Social como Mejora del Rendimiento en Tareas Dominadas y Deterioro en Tareas No Dominadas con Audiencia:** Robert Zajonc propuso en 1965 una explicación unificada de los efectos contradictorios de la presencia de otros en el rendimiento: la presencia de otros produce arousal (activación fisiologica), que facilita las respuestas dominantes (las más automáticas y bien aprendidas) y interfiere con las no-dominantes (las que requieren esfuerzo cognitivo y que todavia no estan bien aprendidas).
+**El Principio de la Facilitación Social como Mejora del Rendimiento en Tareas Dominadas y Deterioro en Tareas No Dominadas con Audiencia:** Robert Zajonc propuso en 1965 una explicación unificada de los efectos contradictorios de la presencia de otros en el rendimiento: la presencia de otros produce arousal (activación fisiológica), que facilita las respuestas dominantes (las más automáticas y bien aprendidas) y interfiere con las no-dominantes (las que requieren esfuerzo cognitivo y que todavia no estan bien aprendidas).
 
 El resultado es que un tenista experto juega mejor en público que en privado (su respuesta dominante es la correcta) mientras que un aprendiz juega peor en público que en privado (su respuesta dominante es todavia el error). La misma audiencia produce efectos opuestos dependiendo del nivel de dominio de la tarea.
 
@@ -107,7 +107,7 @@ Las personas con quien pasas tiempo son el entorno emocional en el que vives. No
 
 Elena ha rediseñado el espacio de trabajo de su equipo y ha observado cambios de comportamiento que no esperaba.
 
-**El Principio del Entorno Fisico como Variable que Moldea el Comportamiento Social sin Conciencia Deliberada:** La investigación de Robert Gifford sobre la psicología ambiental muestra que el entorno físico (iluminación, temperatura, ruido, disposición del espacio) moldea el comportamiento de formas que las personas frecuentemente no reconocen. La investigación de Eric Anderman y colegas sobre los entornos escolares muestra que el diseño del aula afecta la cooperación, el rendimiento, y el comportamiento de los estudiantes.
+**El Principio del Entorno Físico como Variable que Moldea el Comportamiento Social sin Conciencia Deliberada:** La investigación de Robert Gifford sobre la psicología ambiental muestra que el entorno físico (iluminación, temperatura, ruido, disposición del espacio) moldea el comportamiento de formas que las personas frecuentemente no reconocen. La investigación de Eric Anderman y colegas sobre los entornos escolares muestra que el diseño del aula afecta la cooperación, el rendimiento, y el comportamiento de los estudiantes.
 
 La investigación de Ben Waber y colegas sobre los entornos de trabajo muestra que la colocación física de las personas (quien esta cerca de quien en la oficina) predice la frecuencia de comunicación mejor que la jerarquía formal o los objetivos compartidos: las personas que estan físicamente próximas se comunican más, independientemente de si su trabajo requiere esa comunicación.
 
@@ -149,7 +149,7 @@ El entorno que eliges te elige a ti. La pregunta es si lo estas eligiendo consci
 
 Elena ha llegado a entender que la relación entre el individuo y el entorno social no es unidireccional. Las personas también crean los entornos que las moldean.
 
-**El Principio de la Bidireccionalidad como Comprensión Madura de la Relación entre Persona y Situación:** Walter Mischel, cuyo trabajo sobre la interacción persona-situación es central en la psicología del siglo XX, propuso el modelo CAPS (Cognitive-Affective Processing System): el comportamiento no es determinado solo por el carácter ni solo por la situación sino por la interacción específica entre caracteristicas específicas de la persona y caracteristicas específicas de la situación.
+**El Principio de la Bidireccionalidad como Comprensión Madura de la Relación entre Persona y Situación:** Walter Mischel, cuyo trabajo sobre la interacción persona-situación es central en la psicología del siglo XX, propuso el modelo CAPS (Cognitive-Affective Processing System): el comportamiento no es determinado solo por el carácter ni solo por la situación sino por la interacción específica entre características específicas de la persona y características específicas de la situación.
 
 Las personas no son solo receptoras pasivas del entorno: también seleccionan sus entornos, los modifican, y evocan respuestas en los demás que refuerzan sus propias disposiciones. Las personas hostiles provocan respuestas hostiles que confirman su visión del mundo como hostil; las personas calorosas provocan respuestas calorosas que confirman su visión del mundo como acogedor.
 

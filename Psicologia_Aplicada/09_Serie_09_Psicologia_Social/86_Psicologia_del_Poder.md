@@ -51,7 +51,7 @@ El poder que no te hace más exigente contigo mismo que con los demás ya te est
 
 Isabel ha notado que a medida que ascienden en la jerarquía, muchos líderes escuchan menos y hablan más. La investigación lo confirma.
 
-**El Principio de la Reducción de Empatia como Consecuencia Documentada del Poder:** La investigación de Michael Kraus, Dacher Keltner, y Paul Piff muestra que las personas de mayor estatus socioeconomico (un proxy del poder) muestran menor empatia en experimentos de toma de perspectiva (reading the mind in the eyes test), menor atención a las seales emocionales de los otros, y menor respuesta fisiologica al estres ajeno.
+**El Principio de la Reducción de Empatia como Consecuencia Documentada del Poder:** La investigación de Michael Kraus, Dacher Keltner, y Paul Piff muestra que las personas de mayor estatus socioeconomico (un proxy del poder) muestran menor empatia en experimentos de toma de perspectiva (reading the mind in the eyes test), menor atención a las seales emocionales de los otros, y menor respuesta fisiológica al estres ajeno.
 
 Estos resultados no implican que el poder produce personas malas: implican que el poder produce personas que necesitan menos de los demás (tienen más recursos para resolver sus propios problemas) y que por tanto prestan menos atención a los demás. La empatia es, en parte, una respuesta a la dependencia: cuando no necesitas a los otros, los procesas menos.
 
@@ -121,7 +121,7 @@ El poder sin rendición de cuentas que no te ha corrompido todavia no es garant�
 
 Isabel ha visto cómo la asimetria de poder entre manager y equipo, padre e hijo, o pareja mayor y menor, deforma las dinámicas relacionales de formas que los que tienen el poder frecuentemente no perciben.
 
-**El Principio de la Asimetria de Poder como Distorsionador de las Dinamicas Relacionales:** La investigación de Letitia Ann Peplau sobre el poder en las relaciones muestra que en cualquier relación con asimetria de poder, la persona con menos poder es más probable de adaptar su comportamiento a las preferencias de la persona con más poder, de interpretar las acciones de esta de forma más favorable de lo que son, y de suprimir su propio desacuerdo para preservar la relación.
+**El Principio de la Asimetria de Poder como Distorsionador de las Dinámicas Relacionales:** La investigación de Letitia Ann Peplau sobre el poder en las relaciones muestra que en cualquier relación con asimetria de poder, la persona con menos poder es más probable de adaptar su comportamiento a las preferencias de la persona con más poder, de interpretar las acciones de esta de forma más favorable de lo que son, y de suprimir su propio desacuerdo para preservar la relación.
 
 Esta dinámica produce que las personas con más poder reciben información sistemáticamente distorsionada a su favor: el equipo les dice lo que quieren oir, los hijos les muestran lo que les gusta ver, los clientes les halagan. La asimetria de poder crea una burbuja informativa que el que tiene poder raramente puede ver desde dentro.
 

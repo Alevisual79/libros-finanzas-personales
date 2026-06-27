@@ -37,9 +37,9 @@ El grupo que nunca tiene desacuerdos no es el que más se lleva bien. Es el que 
 
 Ruben aprende mejor de los casos concretos que de las definiciones abstractas. Los casos históricos de pensamiento grupal son ilustrativos.
 
-**El Principio de los Casos Historicos como Laboratorio para Entender los Mecanismos del Pensamiento Grupal:** Janis analizó la invasión de Bahia de Cochinos (1961) como el caso prototipico de pensamiento grupal: el equipo de Kennedy, formado por personas muy capaces, aprobó un plan de invasión que tenía defectos obvios que ninguno de ellos expreso en las reuniones, aunque algunos los reconocieron en privado. Los mecanismos incluian: la cohesión del grupo recien formado (la nueva administración quería demostrar competencia), la presión de tiempo (había un calendario), la presencia de un líder fuerte que había expresado su preferencia por el plan, y la falta de mecanismos para la disidencia.
+**El Principio de los Casos Históricos como Laboratorio para Entender los Mecanismos del Pensamiento Grupal:** Janis analizó la invasión de Bahia de Cochinos (1961) como el caso prototipico de pensamiento grupal: el equipo de Kennedy, formado por personas muy capaces, aprobó un plan de invasión que tenía defectos obvios que ninguno de ellos expreso en las reuniones, aunque algunos los reconocieron en privado. Los mecanismos incluian: la cohesión del grupo recien formado (la nueva administración quería demostrar competencia), la presión de tiempo (había un calendario), la presencia de un líder fuerte que había expresado su preferencia por el plan, y la falta de mecanismos para la disidencia.
 
-El caso del transbordador Challenger (1986) muestra los mismos patrones: ingenieros de Morton Thiokol habían expresado preocupaciones sobre las juntas toricas en temperaturas bajas, pero en la reunión de decisión la mañana del lanzamiento, la logica del grupo (la NASA necesitaba el lanzamiento, había una audiencia viendo) superó las preocupaciones técnicas.
+El caso del transbordador Challenger (1986) muestra los mismos patrones: ingenieros de Morton Thiokol habían expresado preocupaciones sobre las juntas toricas en temperaturas bajas, pero en la reunión de decisión la mañana del lanzamiento, la lógica del grupo (la NASA necesitaba el lanzamiento, había una audiencia viendo) superó las preocupaciones técnicas.
 
 **Ejercicio inmediato:** Reflexiona sobre una mala decisión grupal de la que hayas formado parte en el pasado. ¿Que sintomas de pensamiento grupal estaban presentes? ¿Habia información disponible que el grupo minimizo? ¿Habia personas que tenían dudas y no las expresaron? Ese análisis retrospectivo produce aprendizaje que el análisis en el momento no puede producir.
 
@@ -149,7 +149,7 @@ El equipo donde nunca hay conflicto visible tiene mucho conflicto invisible. El 
 
 Elena ha llegado a entender que la resistencia al pensamiento grupal empieza en el nivel individual.
 
-**El Principio del Pensamiento Critico como práctica Individual que Hace Posible la Contribución al Grupo:** El pensamiento crítico (la evaluación sistemática de la calidad de los argumentos y la evidencia, independientemente de quien los produce) es la base individual del buen pensamiento grupal. Las personas que no practican el pensamiento crítico en privado no pueden contribuirlo en público cuando la presión social es alta.
+**El Principio del Pensamiento Crítico como práctica Individual que Hace Posible la Contribución al Grupo:** El pensamiento crítico (la evaluación sistemática de la calidad de los argumentos y la evidencia, independientemente de quien los produce) es la base individual del buen pensamiento grupal. Las personas que no practican el pensamiento crítico en privado no pueden contribuirlo en público cuando la presión social es alta.
 
 La investigación de Jonathan Baron sobre el pensamiento de buen-decisión muestra que las personas que estan motivadas por la precisión (querer tener la opinión más correcta posible) producen mejor razonamiento que las que estan motivadas por la confirmación (querer confirmar sus creencias previas) o por la impresión (querer parecer inteligentes o coherentes ante los demás).
 

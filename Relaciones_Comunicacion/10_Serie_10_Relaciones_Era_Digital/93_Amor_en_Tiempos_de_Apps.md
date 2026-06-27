@@ -71,7 +71,7 @@ Tener acceso a infinitas opciones potenciales no te ayuda a elegir mejor. Frecue
 
 La transición desde la conexión inicial dentro de la aplicación hacía un encuentro presencial real es frecuentemente el paso más difícil y más postergado del proceso completo de citas digitales.
 
-**El Principio de la Transición como Punto Critico:** Muchas conexiones prometedoras en aplicaciones de citas nunca se convierten en encuentros presenciales, ya sea por la comodidad de mantenerse en la fase de mensajeria sin el riesgo del encuentro real, o por la perdida gradual de momentum cuando esta transición se posterga excesivamente. Proponer activamente el encuentro presencial relativamente pronto, una vez establecido interés mutuo, mejora significativamente las probabilidades de que la conexión se materialice.
+**El Principio de la Transición como Punto Crítico:** Muchas conexiones prometedoras en aplicaciones de citas nunca se convierten en encuentros presenciales, ya sea por la comodidad de mantenerse en la fase de mensajeria sin el riesgo del encuentro real, o por la perdida gradual de momentum cuando esta transición se posterga excesivamente. Proponer activamente el encuentro presencial relativamente pronto, una vez establecido interés mutuo, mejora significativamente las probabilidades de que la conexión se materialice.
 
 **Ejercicio inmediato:** Para una conversación actual en una app de citas que muestra interés mutuo genuino, considera proponer un encuentro presencial en los próximos dias, en lugar de continuar la conversación de mensajeria indefinidamente.
 
@@ -131,7 +131,7 @@ Las aplicaciones de citas pueden facilitar el encuentro inicial, pero no pueden 
 
 El uso efectivo de las herramientas digitales de citas requiere integrarlas cómo un componente de una estrategia más amplia de busqueda de conexión, no cómo la totalidad de esa estrategia.
 
-**El Principio de la Integración Estrategica:** Las personas que tienen mejores resultados en su busqueda de pareja a traves de medios digitales son las que integran estas herramientas con otras estrategias de conexión (actividades sociales presenciales, redes de amigos, intereses compartidos en comunidad), en lugar de depender exclusivamente de las aplicaciones como unica via de busqueda.
+**El Principio de la Integración Estratégica:** Las personas que tienen mejores resultados en su busqueda de pareja a traves de medios digitales son las que integran estas herramientas con otras estrategias de conexión (actividades sociales presenciales, redes de amigos, intereses compartidos en comunidad), en lugar de depender exclusivamente de las aplicaciones como unica via de busqueda.
 
 **Ejercicio inmediato:** Si estas buscando pareja activamente, evalua si tu estrategia actual depende exclusivamente de aplicaciones digitales, o si la complementas con otras formas de conexión presencial que podrían ampliar tus oportunidades.
 

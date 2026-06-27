@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben dice que es introvertido. Lo usa como excusa para no salir de su zona de confort relacional, para rechazar invitaciones que en realidad le gustaria aceptar, para evitar el esfuerzo de profundizar relaciones que valora. La introversión, sin embargo, es una caracteristica del temperamento, no un destino que justifique evitar la conexión que se necesita y se desea.
+Ruben dice que es introvertido. Lo usa como excusa para no salir de su zona de confort relacional, para rechazar invitaciones que en realidad le gustaria aceptar, para evitar el esfuerzo de profundizar relaciones que valora. La introversión, sin embargo, es una característica del temperamento, no un destino que justifique evitar la conexión que se necesita y se desea.
 
 ---
 
@@ -23,7 +23,7 @@ Ruben dice que es introvertido. Lo usa como excusa para no salir de su zona de c
 
 La introversión, en su definición psicológica precisa, tiene más que ver con cómo se regula la energía en relación con la estimulación social que con timidez o incapacidad social.
 
-**El Principio de la Regulación Energetica:** La distinción fundamental entre introversión y extroversión, segun la investigación en psicología de la personalidad, no es la capacidad o el deseo de relacionarse socialmente, sino cómo se gestiona la energía en relación con la estimulación: los introvertidos tienden a gastar energía en la interacción social y a recargarla en soledad, mientras los extrovertidos tienden a ganar energía de la interacción social y a perderla en soledad prolongada. Esto no determina cuanto disfrutan o valoran las relaciones, sino como necesitan gestionar su energía alrededor de ellas.
+**El Principio de la Regulación Energética:** La distinción fundamental entre introversión y extroversión, segun la investigación en psicología de la personalidad, no es la capacidad o el deseo de relacionarse socialmente, sino cómo se gestiona la energía en relación con la estimulación: los introvertidos tienden a gastar energía en la interacción social y a recargarla en soledad, mientras los extrovertidos tienden a ganar energía de la interacción social y a perderla en soledad prolongada. Esto no determina cuanto disfrutan o valoran las relaciones, sino como necesitan gestionar su energía alrededor de ellas.
 
 **Ejercicio inmediato:** Reflexiona sobre tu propio patron de energía: ¿después de una interacción social significativa, te sientes energizado o necesitas tiempo solo para recuperarte? Esa respuesta, más que tu nivel de sociabilidad aparente, es el indicador real de tu temperamento.
 
@@ -57,7 +57,7 @@ Los introvertidos no se relacionan peor. Se relacionan diferente, frecuentemente
 
 ## Capítulo 4: Gestionar el agotamiento social
 
-El agotamiento después de interacciones sociales prolongadas o intensas es una experiencia real y fisiologica para las personas introvertidas, y aprender a gestionarlo proactivamente mejora significativamente la calidad de vida social.
+El agotamiento después de interacciones sociales prolongadas o intensas es una experiencia real y fisiológica para las personas introvertidas, y aprender a gestionarlo proactivamente mejora significativamente la calidad de vida social.
 
 **El Principio de la Recuperación Planificada:** Las personas introvertidas que gestionan mejor su vida social son las que planifican proactivamente períodos de recuperación después de eventos sociales significativos, en lugar de programar actividades sociales de alta intensidad consecutivas sin tiempo de recarga. Esta planificación no es evitación social; es gestión inteligente de un recurso (la energía social) que es genuinamente limitado para el temperamento introvertido.
 
@@ -71,7 +71,7 @@ Planificar tiempo de recuperación después de un evento social no es debilidad.
 
 Dado que la energía social es un recurso limitado para las personas introvertidas, seleccionar conscientemente en que compromisos sociales invertir esa energía, en lugar de aceptar todas las invitaciones disponibles, mejora significativamente la calidad de la vida social.
 
-**El Principio de la Selección Estrategica:** Las personas introvertidas que reportan mayor satisfacción social no son las que asisten a más eventos sociales, sino las que han desarrollado criterio para seleccionar a cuales eventos asistir basandose en cuanto valor de conexión esperan obtener, priorizando calidad sobre cantidad de compromisos sociales.
+**El Principio de la Selección Estratégica:** Las personas introvertidas que reportan mayor satisfacción social no son las que asisten a más eventos sociales, sino las que han desarrollado criterio para seleccionar a cuales eventos asistir basandose en cuanto valor de conexión esperan obtener, priorizando calidad sobre cantidad de compromisos sociales.
 
 **Ejercicio inmediato:** Para las próximas invitaciones sociales que recibas, evalua conscientemente, antes de responder automáticamente con un si, cuanto valor de conexión real esperas de ese evento específico, y usa esa evaluación para decidir si vale la pena tu energía limitada.
 

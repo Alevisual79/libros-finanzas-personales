@@ -79,7 +79,7 @@ El negocio que tiene alto revenue y bajo margen trabaja mucho para ganar poco. E
 
 Lucia ha implementado un sistema de control de gasto que le permite crecer sin perder el control financiero.
 
-**El Principio del Control de Gasto como La práctica de Evaluar Cada Inversión o Gasto del Negocio en Terminos de Su ROI Esperado y De Su Coherencia con Las Prioridades Estrategicas del Negocio en Lugar de Aprobar Gastos Por Habito o Por Inercia:** Paul Graham propone que la austeridad en las fases tempranas del negocio (la mentalidad de ramen profitability) produce emprendedores más creativos y más disciplinados que los que tienen acceso facil a capital: cuando no puedes gastar, tienes que pensar como generar revenue sin gastos, lo que frecuentemente produce las soluciones más eficientes.
+**El Principio del Control de Gasto como La práctica de Evaluar Cada Inversión o Gasto del Negocio en Terminos de Su ROI Esperado y De Su Coherencia con Las Prioridades Estratégicas del Negocio en Lugar de Aprobar Gastos Por Habito o Por Inercia:** Paul Graham propone que la austeridad en las fases tempranas del negocio (la mentalidad de ramen profitability) produce emprendedores más creativos y más disciplinados que los que tienen acceso facil a capital: cuando no puedes gastar, tienes que pensar como generar revenue sin gastos, lo que frecuentemente produce las soluciones más eficientes.
 
 El control de gasto en el negocio no significa no gastar: significa gastar en lo que produce retorno medible y no gastar en lo que no lo produce. La pregunta correcta ante cualquier gasto no es puedo permitirmelo sino cuanto revenue o cuanta eficiencia produce este gasto y en cuanto tiempo recupero la inversión.
 
@@ -149,7 +149,7 @@ El gestor que solo te dice cuanto debes a hacienda te cobra más de lo que te ah
 
 Carlos ha integrado la gestión financiera en su rutina y ahora toma mejores decisiones de negocio porque entiende sus números.
 
-**El Principio de Las Finanzas Integradas como El Sistema donde El Seguimiento Automatico de Revenue y Costes, La Separación Financiera Correcta, El Presupuesto Actualizado, y El Asesoramiento Fiscal Proactivo Trabajan Juntos para Dar Al Emprendedor La Claridad Financiera que Permite Tomar Decisiones con Confianza:** El emprendedor con claridad financiera no es el que más estudia finanzas: es el que tiene los sistemas correctos para que la información financiera esté disponible y actualizada cuando la necesita, y que entiende los tres o cuatro números críticos que le dicen si el negocio va bien o va mal.
+**El Principio de Las Finanzas Integradas como El Sistema donde El Seguimiento Automático de Revenue y Costes, La Separación Financiera Correcta, El Presupuesto Actualizado, y El Asesoramiento Fiscal Proactivo Trabajan Juntos para Dar Al Emprendedor La Claridad Financiera que Permite Tomar Decisiones con Confianza:** El emprendedor con claridad financiera no es el que más estudia finanzas: es el que tiene los sistemas correctos para que la información financiera esté disponible y actualizada cuando la necesita, y que entiende los tres o cuatro números críticos que le dicen si el negocio va bien o va mal.
 
 La investigación de U.S. Bank sobre las causas de fracaso de pequeños negocios muestra que el ochenta y dos por ciento de los fracasos de empresas son resultado de problemas de flujo de caja, no de falta de rentabilidad. Tener el sistema financiero correcto no es una formalidad administrativa: es la diferencia entre detectar los problemas a tiempo y descubrirlos cuando ya es demasiado tarde.
 

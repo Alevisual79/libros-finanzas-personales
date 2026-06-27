@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ayuda a colegas con su trabajo aunque no le paguen por ello. Elena dona a organizaciones que trabajan con personas que nunca conocera. Isabel dedica parte de su tiempo a mentorizar a profesionales jóvenes sin esperar nada a cambio. Los tres hacen cosas que, desde la perspectiva de un modelo económico estandar, no tiene sentido: dedican recursos (tiempo, dinero, energía) a beneficiar a otros a un coste personal real. Este libro es sobre por qué lo hacen: la psicología de la cooperación y el altruismo, su base evolutiva y neurologica, las condiciones que la facilitan o la dificultan, y como hacerlo de forma más efectiva.
+Ruben ayuda a colegas con su trabajo aunque no le paguen por ello. Elena dona a organizaciones que trabajan con personas que nunca conocera. Isabel dedica parte de su tiempo a mentorizar a profesionales jóvenes sin esperar nada a cambio. Los tres hacen cosas que, desde la perspectiva de un modelo económico estandar, no tiene sentido: dedican recursos (tiempo, dinero, energía) a beneficiar a otros a un coste personal real. Este libro es sobre por qué lo hacen: la psicología de la cooperación y el altruismo, su base evolutiva y neurológica, las condiciones que la facilitan o la dificultan, y como hacerlo de forma más efectiva.
 
 ---
 
@@ -151,7 +151,7 @@ Ruben ha llegado a entender que el éxito que consigue solo y el que consigue ay
 
 **El Principio de la Cooperación como Estrategia de Florecimiento que no Requiere Sacrificar el Propio Interes sino Ampliarlo:** El marcó del juego de suma positiva (vs. suma cero) propone que en muchos contextos el éxito de otros puede ampliar el espacio de posibilidades para todos, en lugar de reducirlo. La economía del conocimiento, donde compartir información no te la quita sino que frecuentemente te produce más, es el ejemplo más claro: el profesional que comparte su expertise pública y generosamente frecuentemente gana más credibilidad, más conexiones, y más oportunidades que el que la guarda celosamente.
 
-La investigación de Yochai Benkler sobre la economía de la cooperación muestra que los sistemas de producción cooperativa distribuida (Wikipedia, el software de codigo abierto, las plataformas de conocimiento compartido) producen resultados de calidad igual o superior a los mercados capitalistas en áreas específicas, sugiriendo que la cooperación no es solo altruista sino frecuentemente también económicamente superior.
+La investigación de Yochai Benkler sobre la economía de la cooperación muestra que los sistemas de producción cooperativa distribuida (Wikipedia, el software de código abierto, las plataformas de conocimiento compartido) producen resultados de calidad igual o superior a los mercados capitalistas en áreas específicas, sugiriendo que la cooperación no es solo altruista sino frecuentemente también económicamente superior.
 
 **Ejercicio inmediato:** Identifica un recurso que tienes (conocimiento, conexiones, tiempo, experiencia) cuya compartición no te costaría nada o muy poco pero podría beneficiar significativamente a alguien de tu entorno. Compartelo esta semana sin expectativa de retorno inmediato. El habito de la generosidad proactiva, practicado consistentemente, transforma la calidad de las relaciones y los entornos donde se vive y trabaja.
 

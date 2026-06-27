@@ -23,7 +23,7 @@ Ruben conduce durante veinte minutos y llega a su destino sin poder recordar pra
 
 El piloto automático no es un defecto del sistema cognitivo. Es uno de sus mecanismos más sofisticados.
 
-**El Principio del Procesamiento Automatico como Eficiencia Adaptativa:** Daniel Kahneman distingue dos sistemas de procesamiento cognitivo: el Sistema 1 (automático, rápido, sin esfuerzo, inconsciente) y el Sistema 2 (deliberado, lento, con esfuerzo, consciente). El Sistema 1 maneja la mayor parte de las operaciones cognitivas ordinarias: conducir en rutas conocidas, leer textos familiares, interpretar expresiones emocionales, tomar decisiones rutinarias.
+**El Principio del Procesamiento Automático como Eficiencia Adaptativa:** Daniel Kahneman distingue dos sistemas de procesamiento cognitivo: el Sistema 1 (automático, rápido, sin esfuerzo, inconsciente) y el Sistema 2 (deliberado, lento, con esfuerzo, consciente). El Sistema 1 maneja la mayor parte de las operaciones cognitivas ordinarias: conducir en rutas conocidas, leer textos familiares, interpretar expresiones emocionales, tomar decisiones rutinarias.
 
 La razón de que el Sistema 1 exista es la eficiencia: el Sistema 2 tiene capacidad limitada y se agota con el uso (lo que Roy Baumeister llama agotamiento del ego). Si cada decisión y cada percepción requiriera procesamiento deliberado, el sistema cognitivo se agotaria en minutos. El piloto automático es el mecanismo por el que el cerebro reserva los recursos del Sistema 2 para las situaciones que lo requieren.
 
@@ -37,7 +37,7 @@ El piloto automático es eficiente pero caro: te cobra en experiencia no vivida 
 
 Elena ha llegado a un domingo por la tarde incapaz de recordar como paso la semana. Esta sensación de que la vida se va sin vivirla es uno de los costes del piloto automático.
 
-**El Principio del Piloto Automatico como Perdida de Presencia y Agencia:** Daniel Gilbert y Matthew Killingsworth realizaron un estudio con más de dos mil personas usando muestreo experiencial en tiempo real, y encontraron que las personas pasan aproximadamente el 47% de su tiempo de vigilia pensando en algo diferente a lo que estan haciendo. Y que este estado de mente divagante se asocia con menor felicidad que el estado de atención al presente, independientemente de la actividad que se este realizando.
+**El Principio del Piloto Automático como Perdida de Presencia y Agencia:** Daniel Gilbert y Matthew Killingsworth realizaron un estudio con más de dos mil personas usando muestreo experiencial en tiempo real, y encontraron que las personas pasan aproximadamente el 47% de su tiempo de vigilia pensando en algo diferente a lo que estan haciendo. Y que este estado de mente divagante se asocia con menor felicidad que el estado de atención al presente, independientemente de la actividad que se este realizando.
 
 El piloto automático tiene costes específicos en la vida cotidiana: las decisiones importantes tomadas sin deliberación consciente (compras impulsivas, respuestas emocionales reactivas, elecciones que no reflejan los valores propios), la perdida de experiencias que se vivieron sin atención, y la invisibilidad de los patrones propios porque ocurren fuera del rango de la observación consciente.
 
@@ -65,7 +65,7 @@ Tres minutos de atención deliberada a la respiración no te iluminara. Pero te 
 
 Isabel se sorprende frecuentemente por sus propias reacciones: responde de una forma y luego piensa que no era lo que quería responder. Las reacciones automáticas son el piloto automático en las relaciones.
 
-**El Principio de la Reactividad Automatica como Programa sin Revisión:** Los patrones de reacción emocional y conductual que se instalaron en la infancia o en experiencias tempranas significativas tienden a activarse de forma automática en situaciones que tienen similitud con los contextos originales. Estos patrones son adaptativos en el contexto original pero pueden ser disfuncionales en el contexto actual.
+**El Principio de la Reactividad Automática como Programa sin Revisión:** Los patrones de reacción emocional y conductual que se instalaron en la infancia o en experiencias tempranas significativas tienden a activarse de forma automática en situaciones que tienen similitud con los contextos originales. Estos patrones son adaptativos en el contexto original pero pueden ser disfuncionales en el contexto actual.
 
 Viktor Frankl propuso que entre el estímulo y la respuesta hay un espacio, y que en ese espacio esta la libertad humana. El piloto automático elimina ese espacio: el estímulo produce la respuesta directamente, sin deliberación. El trabajo de la conciencia plena es recuperar ese espacio.
 
@@ -79,7 +79,7 @@ La reacción que produces antes de poder evitarla no es inevitable. Es automáti
 
 Ruben ha llegado a entender que la mayor parte de lo que hace cada dia son habitos: patrones de comportamiento que se activan automáticamente en respuesta a señales específicas.
 
-**El Principio de los Habitos como Infraestructura del Piloto Automatico:** La investigación de David Neal y Wendy Wood muestra que el 45% de las decisiones que tomamos cada dia son en realidad habitos: respuestas automáticas a señales específicas, no decisiones deliberadas. Esta cifra no es sorprendente si se considera que el cerebro trata de reducir el coste cognitivo de las operaciones frecuentes convirtiendolas en habitos.
+**El Principio de los Habitos como Infraestructura del Piloto Automático:** La investigación de David Neal y Wendy Wood muestra que el 45% de las decisiones que tomamos cada dia son en realidad habitos: respuestas automáticas a señales específicas, no decisiones deliberadas. Esta cifra no es sorprendente si se considera que el cerebro trata de reducir el coste cognitivo de las operaciones frecuentes convirtiendolas en habitos.
 
 La implicación para el piloto automático es que la mayor parte de la vida cotidiana (que se come, que se hace al llegar a casa, cómo se responde al estres, que se consume) esta determinada por habitos que se instalaron en otro momento y que rara vez se examinan. Vivir con mayor conciencia implica examinar los habitos que constituyen la vida cotidiana.
 
@@ -107,7 +107,7 @@ La vida que no se vive en el momento en que ocurre no se vive en ningún otro. E
 
 Ruben ha notado que cuando su mente divaga, no lo hace aleatoriamente: vuelve siempre a los mismos temas.
 
-**El Principio de la Red de Modo por Defecto como Destino Habitual de la Mente:** La neurociencia ha identificado la red de modo por defecto (DMN): un circuito cerebral que se activa cuando la mente no está focalizando en una tarea específica y que incluye áreas asociadas con el pensamiento sobre uno mismo, sobre los otros, y sobre el tiempo. La red de modo por defecto es la infraestructura neurologica del piloto automático.
+**El Principio de la Red de Modo por Defecto como Destino Habitual de la Mente:** La neurociencia ha identificado la red de modo por defecto (DMN): un circuito cerebral que se activa cuando la mente no está focalizando en una tarea específica y que incluye áreas asociadas con el pensamiento sobre uno mismo, sobre los otros, y sobre el tiempo. La red de modo por defecto es la infraestructura neurológica del piloto automático.
 
 La investigación muestra que la actividad de la red de modo por defecto tiende a focalizarse en: eventos del pasado (replays, nostalgia, arrepentimiento), el futuro (planificación, anticipación, preocupación), y el yo (autoevaluación, relaciones sociales). Conocer estos destinos habituales de la mente ayuda a entender el contenido del piloto automático propio.
 

@@ -71,7 +71,7 @@ Asumir que entiendes las expectativas de tu jefe sin verificarlo es una de las f
 
 Proporcionar retroalimentación constructiva a un superior, aunque culturalmente menos común y más difícil que recibirla, es posible y valioso cuando se hace con el formato y el momento apropiados.
 
-**El Principio del Feedback Ascendente Estrategico:** El feedback hacía un superior es más efectivo cuando se ofrece en privado (no en presencia de otros), se enfoca en el impacto específico de un comportamiento en el trabajo (no en juicios sobre el carácter), y se enmarca en torno a una solicitud de ayuda o de mejora colaborativa, en lugar de una crítica directa que podría percibirse cómo un desafio a la autoridad.
+**El Principio del Feedback Ascendente Estratégico:** El feedback hacía un superior es más efectivo cuando se ofrece en privado (no en presencia de otros), se enfoca en el impacto específico de un comportamiento en el trabajo (no en juicios sobre el carácter), y se enmarca en torno a una solicitud de ayuda o de mejora colaborativa, en lugar de una crítica directa que podría percibirse cómo un desafio a la autoridad.
 
 **Ejercicio inmediato:** Si tienes feedback pendiente de dar a tu jefe, prepara cómo lo formularias usando un enfoque centrado en el impacto específico y enmarcado como busqueda de mejora colaborativa.
 

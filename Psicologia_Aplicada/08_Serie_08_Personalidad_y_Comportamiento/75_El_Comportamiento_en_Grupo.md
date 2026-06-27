@@ -23,7 +23,7 @@ Elena ha notado algo desconcertante: es una persona diferente dependiendo del gr
 
 La investigación más clasica de la psicología social muestra algo perturbador.
 
-**El Principio de la Conformidad como Tendencia Automatica a Alinearse con la Mayoria:** Solomon Asch realizo en los años cincuenta el experimento clasico de conformidad: puso a sujetos en grupos donde todos los otros miembros eran confederados del experimento, y demostró que el 75% de los sujetos conformaban al menos una vez su respuesta con la del grupo, respondiendo que dos lineas claramente diferentes tenían la misma longitud, simplemente porque todos los demás del grupo decía que las tenían.
+**El Principio de la Conformidad como Tendencia Automática a Alinearse con la Mayoria:** Solomon Asch realizo en los años cincuenta el experimento clasico de conformidad: puso a sujetos en grupos donde todos los otros miembros eran confederados del experimento, y demostró que el 75% de los sujetos conformaban al menos una vez su respuesta con la del grupo, respondiendo que dos lineas claramente diferentes tenían la misma longitud, simplemente porque todos los demás del grupo decía que las tenían.
 
 La investigación de Asch y sus seguidores muestra que la conformidad se activa incluso cuando la respuesta correcta es objetivamente obvia, se reduce significativamente cuando hay al menos un otro que diside, y es mayor en culturas colectivistas que individualistas. Los mecanismos incluyen la presión informacional (los otros pueden saber algo que yo no se) y la presión normativa (quiero ser aceptado por el grupo).
 
@@ -93,11 +93,11 @@ El rendimiento que tienes con otros no es mejor ni peor que el que tienes solo. 
 
 Ruben nota que en su grupo de amigos, aunque no hay líderes formales, siempre hay quien propone y quien sigue. La investigación explica ese fenómeno.
 
-**El Principio de la Emergencia del Liderazgo como Proceso Social Predecible:** La investigación de Timothy Judge y colegas sobre el liderazgo informal muestra que en grupos sin estructura de autoridad formal, los miembros que toman el liderazgo informal muestran caracteristicas específicas: mayor extraversión (son los que más hablan y con mayor fluidez), mayor apertura (proponen nuevas ideas con mayor frecuencia), y mayor dominancia no verbal (ocupan más espacio físico y hacen más contacto visual).
+**El Principio de la Emergencia del Liderazgo como Proceso Social Predecible:** La investigación de Timothy Judge y colegas sobre el liderazgo informal muestra que en grupos sin estructura de autoridad formal, los miembros que toman el liderazgo informal muestran características específicas: mayor extraversión (son los que más hablan y con mayor fluidez), mayor apertura (proponen nuevas ideas con mayor frecuencia), y mayor dominancia no verbal (ocupan más espacio físico y hacen más contacto visual).
 
 La investigación de Keith Sawyer sobre la creatividad en grupos muestra que los grupos más creativos no son los dominados por el líder más brillante sino los que tienen una estructura de participación más igualitaria, donde multiples voces contribuyen. Los líderes que crean espacio para las voces menos dominantes producen mejores resultados colectivos.
 
-**Ejercicio inmediato:** En tu próximo grupo de trabajo o decisión, observa quien toma el liderazgo informal y por qué mecanismos. Es el que habla primero y con más seguridad? ¿Es el que propone soluciones concretas? ¿Es el que tiene la mayor credibilidad percibida? Ese diagnostico te permite decidir si ese liderazgo es el más adecuado para el grupo o si hay voces más valiosas siendo silenciadas.
+**Ejercicio inmediato:** En tu próximo grupo de trabajo o decisión, observa quien toma el liderazgo informal y por qué mecanismos. Es el que habla primero y con más seguridad? ¿Es el que propone soluciones concretas? ¿Es el que tiene la mayor credibilidad percibida? Ese diagnóstico te permite decidir si ese liderazgo es el más adecuado para el grupo o si hay voces más valiosas siendo silenciadas.
 
 El grupo que sigue al que más habla no siempre sigue al que mejor piensa. A veces son la misma persona. A veces no.
 

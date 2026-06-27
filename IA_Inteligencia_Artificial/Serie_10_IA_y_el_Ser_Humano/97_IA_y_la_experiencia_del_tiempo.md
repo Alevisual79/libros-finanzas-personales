@@ -15,7 +15,7 @@ Las implicaciones de IA y la experiencia del tiempo se sienten ya en organizacio
 
 ## Capítulo 3: Los marcos de referencia
 
-Para entender y navegar IA y la experiencia del tiempo necesitamos marcos conceptuales rigurosos provenientes de la investigación academica, la práctica profesional y el debate ético.
+Para entender y navegar IA y la experiencia del tiempo necesitamos marcos conceptuales rigurosos provenientes de la investigación académica, la práctica profesional y el debate ético.
 
 ## Capítulo 4: El caso de Elena
 

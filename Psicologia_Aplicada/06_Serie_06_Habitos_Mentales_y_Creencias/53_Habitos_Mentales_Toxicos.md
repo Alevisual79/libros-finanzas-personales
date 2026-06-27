@@ -51,7 +51,7 @@ La rumia que lleva dias no resuelve nada que no se resolvio en los primeros cinc
 
 Elena tiene una voz interna que comenta sus errores y sus deficiencias con una severidad que nunca toleraria de una persona real. Esta voz la acompana constantemente.
 
-**El Principio del Critico Interno como Patron Aprendido con Costes Reales:** Paul Gilbert, desarrollador de la Terapia Centrada en la Compasión, propone que la autocritica excesiva activa los mismos sistemas neurologicos de amenaza que la crítica externa: las mismas regiones de estres y defensa que se activan ante un ataque externo se activan ante el ataque del crítico interno. La autocritica intensa es literalmente estresante de forma biológica.
+**El Principio del Crítico Interno como Patron Aprendido con Costes Reales:** Paul Gilbert, desarrollador de la Terapia Centrada en la Compasión, propone que la autocritica excesiva activa los mismos sistemas neurológicos de amenaza que la crítica externa: las mismas regiones de estres y defensa que se activan ante un ataque externo se activan ante el ataque del crítico interno. La autocritica intensa es literalmente estresante de forma biológica.
 
 La investigación de Kristin Neff muestra que la autocritica excesiva no produce mayor motivación ni mejor rendimiento (como muchas personas creen): produce mayor ansiedad y procrastinación. Las personas con mayor autocompasión (versus autocritica) muestran mayor motivación intrinseca, mayor persistencia ante el fracaso, y mayor bienestar.
 
@@ -93,7 +93,7 @@ La preocupación que no produce un plan de acción no es preparación. Es sufrim
 
 Elena lleva tres dias reproduciendo mentalmente una conversación con su jefe donde cree que no respondio bien. Cada replay produce la misma incomodidad que la conversación original.
 
-**El Principio del Replay Mental como Rumia de Eventos Pasados:** El replay mental (también llamado rumiación retrospectiva) es la reproducción repetitiva de eventos pasados con evaluación de como deberían haber sido diferentes. Comparte con la rumia general la caracteristica de ser repetitivo y pasivo, pero su especificidad es la orientación hacía el pasado irrevocable.
+**El Principio del Replay Mental como Rumia de Eventos Pasados:** El replay mental (también llamado rumiación retrospectiva) es la reproducción repetitiva de eventos pasados con evaluación de como deberían haber sido diferentes. Comparte con la rumia general la característica de ser repetitivo y pasivo, pero su especificidad es la orientación hacía el pasado irrevocable.
 
 La investigación de Nolen-Hoeksema y Lyubomirsky muestra que el replay mental mantiene el estado emocional negativo originado por el evento original, lo que significa que la persona experimenta el malestar del evento original repetidamente. El antídoto cognitivo es la distinción entre análisis útil (extraer aprendizaje de un evento una vez, con el proposito de actuar diferente en el futuro) y replay no útil (reproducir el evento sin ese proposito específico).
 

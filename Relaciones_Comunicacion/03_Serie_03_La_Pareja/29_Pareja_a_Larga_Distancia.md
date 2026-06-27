@@ -61,7 +61,7 @@ Cien mensajes superficiales no sustituyen a una conversación real de treinta mi
 
 Los rituales que en las relaciones de proximidad ocurren de forma natural (el desayuno juntos, el saludo al llegar a casa) necesitan ser creados deliberadamente en las relaciones a distancia.
 
-**El Principio del Ritual como Sustituto de la Presencia Fisica:** Las parejas a distancia que crean rituales específicos de conexión (una llamada a la misma hora cada dia, una pelicula vista simultaneamente aunque separados, un juego o aplicación compartida) reportan mayor sensación de cercania que las que dejan la comunicación completamente espontanea y sin estructura. Estos rituales crean una sensación de rutina compartida que, aunque mediada por la tecnología, cumple una función similar a la de los rituales de las parejas de proximidad.
+**El Principio del Ritual como Sustituto de la Presencia Física:** Las parejas a distancia que crean rituales específicos de conexión (una llamada a la misma hora cada dia, una pelicula vista simultaneamente aunque separados, un juego o aplicación compartida) reportan mayor sensación de cercania que las que dejan la comunicación completamente espontanea y sin estructura. Estos rituales crean una sensación de rutina compartida que, aunque mediada por la tecnología, cumple una función similar a la de los rituales de las parejas de proximidad.
 
 **Ejercicio inmediato:** Diseñen un ritual de conexión diario o semanal específico para su relación a distancia: una hora fija de llamada, una actividad compartida a distancia, un mensaje ritual al despertar o al dormir. La consistencia del ritual es lo que produce la sensación de cercania, no su elaboración.
 

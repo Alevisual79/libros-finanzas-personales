@@ -55,9 +55,9 @@ Elena terminó una relación que reconoce como emocionalmente abusiva hace dos a
 
 Judith Herman clasifica el abuso emocional sostenido dentro de la categoría del trauma complejo, especialmente cuando ocurre en relaciones de dependencia. El perfil de sintomas que produce es similar al del TEPT complejo: dificultades de regulación emocional, alteraciones de la identidad, y problemas con las relaciones.
 
-**Ejercicio inmediato:** Reflexiona sobre si reconoces algunos de estos efectos en tu experiencia actual o pasada. No como diagnostico sino como mapa de lo que puede necesitar atención en el proceso de recuperación.
+**Ejercicio inmediato:** Reflexiona sobre si reconoces algunos de estos efectos en tu experiencia actual o pasada. No como diagnóstico sino como mapa de lo que puede necesitar atención en el proceso de recuperación.
 
-Los efectos del abuso emocional no son debilidad. Son la respuesta logica de un sistema nervioso que estuvo bajo amenaza cronica.
+Los efectos del abuso emocional no son debilidad. Son la respuesta lógica de un sistema nervioso que estuvo bajo amenaza cronica.
 
 ---
 

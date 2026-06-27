@@ -25,7 +25,7 @@ Solucio descubierta: ElevenLabs para clonar su voz con veinte minutos de grabaci
 
 Después del texto y las imagenes, el audio es el tercer gran dominio de la IA generativa. Tres categorías principales:
 
-**Voz sintetica:** Generar voz a partir de texto (Text-to-Speech o TTS). Ya no suena a robot.
+**Voz sintética:** Generar voz a partir de texto (Text-to-Speech o TTS). Ya no suena a robot.
 
 **Clonación de voz:** Crear un modelo de una voz específica a partir de muestras de audio. La IA puede entonces generar cualquier texto con esa voz.
 
@@ -94,7 +94,7 @@ La clonación de voz permite crear un modelo de una voz específica a partir de 
 
 **Para empresas:**
 - Narración automatizada de e-learning y formación interna
-- Atención al cliente con voz sintetica natural
+- Atención al cliente con voz sintética natural
 - Locuciones para videos corporativos sin contratar locutor
 
 **Para ruben (marketing):**
@@ -112,7 +112,7 @@ La clonación de voz permite crear un modelo de una voz específica a partir de 
 
 **Coherencia de largo recorrido:** En composiciones musicales largas, la coherencia tematica y el desarrollo pueden debilitarse.
 
-**Identificación:** Herramientas de detección de audio sintetico existen pero son imperfectas. La capacidad de distinguir voz real de sintetica está disminuyendo.
+**Identificación:** Herramientas de detección de audio sintético existen pero son imperfectas. La capacidad de distinguir voz real de sintética está disminuyendo.
 
 ---
 
@@ -134,7 +134,7 @@ La industria de los locutores, la musica de stock y la producción de audio basi
 
 **Deepfakes de audio:** Generar audio con la voz de alguien sin su consentimiento, especialmente para fines fraudulentos o de daño reputacional, es un abuso grave con potencial legal severo.
 
-**Transparencia:** Cuando se usa voz sintetica en contenido público, la transparencia sobre su naturaleza es una cuestion ética importante.
+**Transparencia:** Cuando se usa voz sintética en contenido público, la transparencia sobre su naturaleza es una cuestion ética importante.
 
 **Licencias comerciales:** Verificar siempre las licencias de las herramientas antes de usar el audio generado en contenido comercial.
 

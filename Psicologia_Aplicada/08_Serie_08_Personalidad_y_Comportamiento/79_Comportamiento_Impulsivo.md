@@ -25,7 +25,7 @@ La impulsividad no es solo actuar rápido. Tiene una estructura específica.
 
 **El Principio de la Impulsividad como Respuesta sin Suficiente Deliberación a una Senal de Recompensa o Amenaza:** La investigación de Edeline Voon y colegas define la impulsividad cómo la tendencia a actuar ante señales de recompensa o amenaza sin considerar suficientemente las consecuencias. Tiene dos componentes principales: la impulsividad de recompensa (actuar ante la anticipación de una recompensa inmediata: la compra impulsiva, el apostarse el dinero, el comer el postre) y la impulsividad de amenaza (actuar ante una percepción de amenaza sin deliberación: el comportamiento agresivo, la respuesta defensiva, la huida).
 
-La investigación de Sarah Whittle y colegas sobre los correlatos neurologicos de la impulsividad muestra que la impulsividad alta se asocia con mayor activación de la amigdala y menor activación del cortex prefrontal ventrolateral (el sistema de inhibición de respuesta), especialmente en estados de alta activación emocional.
+La investigación de Sarah Whittle y colegas sobre los correlatos neurológicos de la impulsividad muestra que la impulsividad alta se asocia con mayor activación de la amigdala y menor activación del cortex prefrontal ventrolateral (el sistema de inhibición de respuesta), especialmente en estados de alta activación emocional.
 
 **Ejercicio inmediato:** Identifica tus dos o tres situaciones más frecuentes de comportamiento impulsivo. Para cada una, reflexiona: ¿es principalmente impulsividad de recompensa (el impulso te lleva hacía algo que quieres) o de amenaza (el impulso te lleva lejos de algo que amenaza)? La distinción importa porque las estrategias difieren.
 
@@ -51,13 +51,13 @@ La impulsividad es el cerebro actuando antes de que la parte pensante llegue. Da
 
 Isabel trabaja con niños con TDAH y ve la impulsividad cómo un patron clínico, no solo como falta de voluntad.
 
-**El Principio del TDAH como Condición Neurologica que Amplifica la Impulsividad de Forma Significativa:** El trastorno por deficit de atención e hiperactividad incluye la impulsividad como uno de sus tres sintomas centrales. La investigación de Russell Barkley muestra que el TDAH no es un problema de no saber lo que se debería hacer sino de no poder seguir de forma consistente las reglas de comportamiento que se conocen, especialmente bajo condiciones de baja estimulación o alta activación emocional.
+**El Principio del TDAH como Condición Neurológica que Amplifica la Impulsividad de Forma Significativa:** El trastorno por deficit de atención e hiperactividad incluye la impulsividad como uno de sus tres sintomas centrales. La investigación de Russell Barkley muestra que el TDAH no es un problema de no saber lo que se debería hacer sino de no poder seguir de forma consistente las reglas de comportamiento que se conocen, especialmente bajo condiciones de baja estimulación o alta activación emocional.
 
-El TDAH produce impulsividad a traves de un deficit en la inhibición comportamental, un deficit en la memoria de trabajo, y un deficit en la regulación emocional. Estos tres deficits interactuan para producir el patron de impulsividad caracteristico.
+El TDAH produce impulsividad a traves de un deficit en la inhibición comportamental, un deficit en la memoria de trabajo, y un deficit en la regulación emocional. Estos tres deficits interactuan para producir el patron de impulsividad característico.
 
-**Ejercicio inmediato:** Si te reconoces en las caracteristicas del TDAH (patron persistente de impulsividad, inatensión, y dificultad para seguir reglas a pesar de conocerlas, que interfiere en multiples áreas de la vida), considera la evaluación profesional. El TDAH no tratado produce costes acumulados en relaciones, trabajo, y salud que el tratamiento puede reducir significativamente.
+**Ejercicio inmediato:** Si te reconoces en las características del TDAH (patron persistente de impulsividad, inatensión, y dificultad para seguir reglas a pesar de conocerlas, que interfiere en multiples áreas de la vida), considera la evaluación profesional. El TDAH no tratado produce costes acumulados en relaciones, trabajo, y salud que el tratamiento puede reducir significativamente.
 
-La impulsividad que llamas debilidad de carácter podría ser el resultado de un sistema de inhibición neurologico que funciona diferente. El conocimiento de eso ya cambia como te relacionas con ella.
+La impulsividad que llamas debilidad de carácter podría ser el resultado de un sistema de inhibición neurológico que funciona diferente. El conocimiento de eso ya cambia como te relacionas con ella.
 
 ---
 
@@ -123,7 +123,7 @@ Ruben ha empezado a meditar y nota que su impulsividad ha disminuido ligeramente
 
 **El Principio del Mindfulness como Entrenamiento del Sistema de Inhibición de la Respuesta:** La investigación de Judson Brewer y colegas sobre el mindfulness y la impulsividad muestra que la práctica regular de mindfulness reduce la impulsividad a traves de un mecanismo específico: entrena la conciencia del impulso antes de que se actue, creando el espacio entre el estímulo y la respuesta que permite la elección deliberada.
 
-El mecanismo neurologico incluye mayor activación del cortex prefrontal y mayor regulación de la amigdala documentados en personas con práctica regular de mindfulness. Brewer propone que el mindfulness no suprime el impulso sino que cambia la relación con el: en lugar de identificarse automáticamente con el impulso y actuar, la persona lo observa cómo un fenómeno mental que pasa.
+El mecanismo neurológico incluye mayor activación del cortex prefrontal y mayor regulación de la amigdala documentados en personas con práctica regular de mindfulness. Brewer propone que el mindfulness no suprime el impulso sino que cambia la relación con el: en lugar de identificarse automáticamente con el impulso y actuar, la persona lo observa cómo un fenómeno mental que pasa.
 
 **Ejercicio inmediato:** Esta semana, práctica cinco minutos diarios de observación de impulsos: sienta en silencio y cuando notes el impulso de moverse, coger el movil, o pensar en otra cosa, observalo sin seguirlo durante treinta segundos. Esa práctica en un contexto neutro entrena la capacidad de observar el impulso antes de actuar que luego puede aplicarse en los contextos de mayor carga.
 

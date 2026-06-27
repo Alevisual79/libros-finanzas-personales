@@ -131,7 +131,7 @@ Un plan de salida a largo plazo, aunque tome tiempo en materializarse, te da alg
 
 Reconocer que, en algunas circunstancias específicas, permanecer temporalmente en una situación difícil mientras se construyen los recursos necesarios para una salida más segura es una decisión estratégica valida, no una falla de coraje.
 
-**El Principio de la Permanencia Estrategica vs la Resignación Pasiva:** Existe una diferencia importante entre permanecer en una situación difícil de forma estratégica (con un plan activo, mientras se construyen recursos específicos para una salida más segura) y permanecer por resignación pasiva sin ningún plan ni trabajo activo hacía el cambio. La primera es una decisión valida y madura; la segunda perpetua indefinidamente una situación que merece cambiar.
+**El Principio de la Permanencia Estratégica vs la Resignación Pasiva:** Existe una diferencia importante entre permanecer en una situación difícil de forma estratégica (con un plan activo, mientras se construyen recursos específicos para una salida más segura) y permanecer por resignación pasiva sin ningún plan ni trabajo activo hacía el cambio. La primera es una decisión valida y madura; la segunda perpetua indefinidamente una situación que merece cambiar.
 
 **Ejercicio inmediato:** Si estas permaneciendo en una situación difícil actualmente, evalua honestamente si tu permanencia es estratégica (con plan activo) o resignada (sin trabajo hacía el cambio). Si es la segunda, identifica un primer paso hacía convertirla en la primera.
 

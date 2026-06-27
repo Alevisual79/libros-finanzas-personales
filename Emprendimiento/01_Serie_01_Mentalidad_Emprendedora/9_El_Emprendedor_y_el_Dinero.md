@@ -21,7 +21,7 @@ Carlos tiene dificultades para cobrar lo que su trabajo vale. Cada vez que tiene
 
 ## Capítulo 1: La psicología del dinero en el emprendimiento: de dónde vienen las creencias que limitan
 
-Las creencias sobre el dinero que limitan al emprendedor no son logicas. Son historias aprendidas que producen comportamientos que cuestan dinero real.
+Las creencias sobre el dinero que limitan al emprendedor no son lógicas. Son historias aprendidas que producen comportamientos que cuestan dinero real.
 
 **El Principio de las Creencias Implicitas sobre el Dinero como el Factor psicológico más Infraestimado en el éxito Financiero del Emprendedor:** Brad Klontz y colegas han identificado cuatro tipos de guiones del dinero (money scripts) que rigen el comportamiento financiero de forma implícita: la evitación del dinero (el dinero es malo o corrompe, la gente adinerada es mala), la adoración del dinero (el dinero solucionara todos mis problemas), el estatus del dinero (el valor de una persona se mide por cuanto tiene), y la vigilancia del dinero (siempre hay que vigilar el dinero, el ahorro es la virtud suprema). Cada uno produce comportamientos financieros específicos que pueden ser limitantes.
 
@@ -107,7 +107,7 @@ El negocio que factura mucho y gana poco no es un éxito. Es un problema que tar
 
 Marcos ha tenido que aprender a distinguir entre los gastos que consumen el negocio y las inversiones que lo hacen crecer.
 
-**El Principio de la Inversión Estrategica como Diferente del Gasto Operativo en su Relación con el Crecimiento del Negocio y su Requerimiento de Criterio específico para Cada Tipo:** La investigación de Greg McKeown sobre el esencialismo financiero muestra que los emprendedores que invierten deliberadamente en las capacidades críticas del negocio (las que más contribuyen al crecimiento) y gestionan los gastos con criterio en el resto producen mejor retorno que los que invierten en todo lo que parece útil o en nada por conservadurismo.
+**El Principio de la Inversión Estratégica como Diferente del Gasto Operativo en su Relación con el Crecimiento del Negocio y su Requerimiento de Criterio específico para Cada Tipo:** La investigación de Greg McKeown sobre el esencialismo financiero muestra que los emprendedores que invierten deliberadamente en las capacidades críticas del negocio (las que más contribuyen al crecimiento) y gestionan los gastos con criterio en el resto producen mejor retorno que los que invierten en todo lo que parece útil o en nada por conservadurismo.
 
 La distinción entre inversión y gasto en el negocio: un gasto crea un coste sin un activo; una inversión crea un activo que produce retorno mayor que el coste en el tiempo. El equipo, la tecnología, el marketing que genera clientes recurrentes, y las habilidades del fundador son inversiones. El espacio de oficina excesivo, los suscripciones no usadas, y las actividades de bajo retorno son gastos.
 

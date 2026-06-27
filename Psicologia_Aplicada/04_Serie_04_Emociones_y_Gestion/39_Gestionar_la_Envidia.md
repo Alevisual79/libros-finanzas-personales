@@ -121,7 +121,7 @@ Las redes sociales te muestran los mejores momentos de todos los demás. Y tu ve
 
 Isabel ha encontrado un uso práctico para la envidia: usa la información sobre lo que envidia para definir objetivos. Este proceso requiere algunos pasos específicos.
 
-**El Principio de la Envidia como Punto de Partida para la Definición de Metas:** Peter Gollwitzer propone que las metas más poderosas tienen tres caracteristicas: especificidad, relevancia personal, y alcanzabilidad percibida. La envidia proporciona el segundo elemento de forma natural: lo que se envidia es lo que importa genuinamente. La transformación de la envidia en meta requiere tomar ese deseo genuino y aplicarle especificidad y evaluación de alcanzabilidad.
+**El Principio de la Envidia como Punto de Partida para la Definición de Metas:** Peter Gollwitzer propone que las metas más poderosas tienen tres características: especificidad, relevancia personal, y alcanzabilidad percibida. La envidia proporciona el segundo elemento de forma natural: lo que se envidia es lo que importa genuinamente. La transformación de la envidia en meta requiere tomar ese deseo genuino y aplicarle especificidad y evaluación de alcanzabilidad.
 
 La investigación de Duckworth sobre el grit muestra que las metas que emergen de pasiones genuinas (no de presiones externas) tienen mayor tasa de persistencia a largo plazo. Y la envidia es uno de los indicadores más honestos de las pasiones genuinas.
 

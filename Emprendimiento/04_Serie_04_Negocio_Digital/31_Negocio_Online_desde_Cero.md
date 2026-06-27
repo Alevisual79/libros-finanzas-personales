@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos tiene una idea para un negocio online pero no sabe por donde empezar. Lucia ha intentado tres negocios digitales diferentes en dos años y ninguno ha generado ingresos consistentes. Marcos viene del mundo corporativo y entiende bien los negocios pero no entiende la logica específica del entorno digital. Los tres necesitan entender algo antes de seguir: el negocio online no es magico ni automático. Es un negocio real que opera en un entorno digital. Las mismas reglas fundamentales aplican: cliente real, problema real, solución real, propuesta de valor real. La parte digital cambia los canales y las herramientas. No cambia los fundamentos.
+Carlos tiene una idea para un negocio online pero no sabe por donde empezar. Lucia ha intentado tres negocios digitales diferentes en dos años y ninguno ha generado ingresos consistentes. Marcos viene del mundo corporativo y entiende bien los negocios pero no entiende la lógica específica del entorno digital. Los tres necesitan entender algo antes de seguir: el negocio online no es magico ni automático. Es un negocio real que opera en un entorno digital. Las mismas reglas fundamentales aplican: cliente real, problema real, solución real, propuesta de valor real. La parte digital cambia los canales y las herramientas. No cambia los fundamentos.
 
 ---
 
@@ -23,11 +23,11 @@ Carlos tiene una idea para un negocio online pero no sabe por donde empezar. Luc
 
 La mayoría de los negocios online fracasan por exactamente las mismas razones que los negocios físicos.
 
-**El Principio del Negocio Online como Negocio Real en un Entorno Digital que Requiere los Mismos Fundamentos de Todo Negocio: Un Cliente Real, Un Problema Real, Una Solución Real, y Un Modelo de Revenue Sostenible en Lugar de la Creencia de que Internet Es una Maquina de Dinero Automatico:** Paul Graham en sus ensayos sobre startups propone que el mayor error de los emprendedores digitales es confundir la facilidad de la herramienta tecnologica (crear una web cuesta cien euros y un fin de semana) con la facilidad del negocio en si (conseguir clientes que paguen por algo que resuelve un problema real tarda meses de trabajo). La tecnología resuelve la infraestructura del negocio, no el negocio en si.
+**El Principio del Negocio Online como Negocio Real en un Entorno Digital que Requiere los Mismos Fundamentos de Todo Negocio: Un Cliente Real, Un Problema Real, Una Solución Real, y Un Modelo de Revenue Sostenible en Lugar de la Creencia de que Internet Es una Maquina de Dinero Automático:** Paul Graham en sus ensayos sobre startups propone que el mayor error de los emprendedores digitales es confundir la facilidad de la herramienta tecnologica (crear una web cuesta cien euros y un fin de semana) con la facilidad del negocio en si (conseguir clientes que paguen por algo que resuelve un problema real tarda meses de trabajo). La tecnología resuelve la infraestructura del negocio, no el negocio en si.
 
 La investigación de CB Insights sobre las razones de fracaso de startups digitales muestra que el 42% fracasan por falta de product-market fit (nadie quería pagar por lo que ofrecian), el 29% por problemas de cash flow, y el 23% por falta de equipo adecuado. Solo el 6% fracasan por problemas tecnologicos. El problema del negocio online no es la tecnología. Es el negocio.
 
-**Ejercicio inmediato:** Para tu idea de negocio online, responde tres preguntas antes de construir nada: quien es el cliente específico que tiene el problema que quieres resolver (no todo el mundo: alguien específico), estas seguro de que ese cliente tiene ese problema y esta dispuesto a pagar por resolverlo (no lo asumas: preguntaselo), y quien más está resolviendo ese problema (la existencia de competencia es una señal positiva, no negativa). Si no puedes responder las tres preguntas con especificidad, el primer trabajo es responderlas antes de escribir una linea de codigo o diseñar una sola página web.
+**Ejercicio inmediato:** Para tu idea de negocio online, responde tres preguntas antes de construir nada: quien es el cliente específico que tiene el problema que quieres resolver (no todo el mundo: alguien específico), estas seguro de que ese cliente tiene ese problema y esta dispuesto a pagar por resolverlo (no lo asumas: preguntaselo), y quien más está resolviendo ese problema (la existencia de competencia es una señal positiva, no negativa). Si no puedes responder las tres preguntas con especificidad, el primer trabajo es responderlas antes de escribir una linea de código o diseñar una sola página web.
 
 El negocio online que falla por falta de mercado no fue un error de tecnología. Fue un error de comprensión del mercado.
 
@@ -39,7 +39,7 @@ Lucia ha perdido tiempo con modelos que no encajaban con sus habilidades y recur
 
 **El Principio de la Elección del Modelo de Negocio Digital cómo la Decisión Más Importante del Principio porque Determina el Tipo de Trabajo, el Ritmo de Revenue, y el Potencial de Escalabilidad del Negocio:** Los modelos de negocio digital principales para el emprendedor individual son: servicios (freelancing, consultoria, coaching, donde el fundador entrega el servicio directamente con alto margen pero baja escalabilidad), infoproductos (cursos online, ebooks, plantillas, donde el conocimiento se vende en formato digital con alta escalabilidad pero requiere audiencia preexistente), SaaS (software como servicio, con alto potencial pero alta barrera de entrada y largo tiempo hasta el revenue), e-commerce (venta de productos físicos o digitales con logistica asociada), y afiliación (generar revenue recomendando productos de otros).
 
-Cada modelo tiene caracteristicas diferentes de tiempo hasta el primer revenue (los servicios son los más rápidos: se puede generar revenue en la primera semana), inversión inicial requerida, escalabilidad, y margen. El modelo correcto para cada emprendedor depende de sus habilidades, recursos, y objetivos.
+Cada modelo tiene características diferentes de tiempo hasta el primer revenue (los servicios son los más rápidos: se puede generar revenue en la primera semana), inversión inicial requerida, escalabilidad, y margen. El modelo correcto para cada emprendedor depende de sus habilidades, recursos, y objetivos.
 
 **Ejercicio inmediato:** Para tu situación actual, evalua los cinco modelos de negocio digital con tres criterios: ¿puedes generar tu primer revenue en menos de noventa dias con ese modelo (si los recursos son limitados, el tiempo hasta el primer revenue es crítico), tienes las habilidades o el conocimiento que requiere ese modelo, y el modelo puede crecer hasta el nivel de revenue que quieres sin que el crecimiento dependa completamente de que tu trabajes más horas? El modelo que pasa los tres filtros es el correcto para empezar.
 
@@ -65,7 +65,7 @@ La infraestructura perfecta antes del primer cliente es una inversión que no ti
 
 Carlos ha aprendido que los primeros clientes raramente vienen del canal que el pensó que vendrían.
 
-**El Principio de los Primeros Clientes como el Objetivo Principal y Prioritario de los Primeros Noventa Dias del Negocio Online porque Nada Valida El Modelo de Negocio Ni Enseña Más que Un Cliente Real que Paga por Lo que Ofreces:** Eric Ries en The Lean Startup propone que el experimento más valioso en las fases tempranas de un negocio digital no es el codigo, el diseño, o el marketing: es la venta. La primera venta, aunque sea pequeña, valida que hay alguien dispuesto a pagar por lo que el negocio ofrece. Esa validación es irreemplazable.
+**El Principio de los Primeros Clientes como el Objetivo Principal y Prioritario de los Primeros Noventa Dias del Negocio Online porque Nada Valida El Modelo de Negocio Ni Enseña Más que Un Cliente Real que Paga por Lo que Ofreces:** Eric Ries en The Lean Startup propone que el experimento más valioso en las fases tempranas de un negocio digital no es el código, el diseño, o el marketing: es la venta. La primera venta, aunque sea pequeña, valida que hay alguien dispuesto a pagar por lo que el negocio ofrece. Esa validación es irreemplazable.
 
 Las estrategias de adquisición de primeros clientes para el negocio digital nuevo son, en orden de velocidad de resultado: la red personal (contactar directamente a las personas de la red que podrían necesitar el servicio o conocer a alguien que lo necesita), los grupos online donde esta la audiencia objetivo (grupos de LinkedIn, Facebook, o Slack donde los potenciales clientes participan activamente y donde puedes aportar valor antes de hacer ninguna oferta), y las plataformas de freelancing (Upwork, Fiverr, Malt, donde hay demanda existente para ciertos tipos de servicios).
 
@@ -91,7 +91,7 @@ La web que no convierte no necesita más diseño. Necesita más claridad.
 
 ## Capítulo 6: El precio en el negocio online: como fijar lo que cobras en un entorno digital
 
-Marcos ha aprendido que los precios del entorno digital tienen su propia logica que no siempre es la del mundo físico.
+Marcos ha aprendido que los precios del entorno digital tienen su propia lógica que no siempre es la del mundo físico.
 
 **El Principio del Precio en el Negocio Digital como Determinado por el Valor para el Cliente y No por el Coste de Producción porque en el Mundo Digital el Coste Marginal de Entrega Es Frecuentemente Cercano a Cero y El Precio puede Ser Independiente de El:** La peculiaridad del negocio digital es que el coste marginal de servir a un cliente adicional puede ser muy bajo o casi cero (un curso online adicional, un software que un usuario más usa, o una plantilla digital descargada por mil personas en lugar de cien no aumenta significativamente el coste de producción). Eso significa que el precio puede (y debe) basarse en el valor para el cliente en lugar de en el coste más margen.
 

@@ -37,7 +37,7 @@ La marca que crees tener no importa. La que tienen en la mente tus clientes es l
 
 Lucia ha aprendido que el posicionamiento no es lo que dices sobre tu empresa. Es lo que el cliente piensa de forma automática cuando escucha tu nombre.
 
-**El Principio del Posicionamiento cómo la Decisión más Estrategica de la Marca porque Determina como el Cliente Organiza Mentalmente tu Negocio en Relación con las Alternativas:** Al Ries y Jack Trout, en Positioning: The Battle for Your Mind, proponen que el posicionamiento no es lo que haces con el producto sino lo que haces con la mente del cliente potencial. La posición que ocupa un negocio en la mente del cliente (el primer de su categoría que viene a la mente) es la ventaja competitiva más valiosa y la más difícil de desplazar.
+**El Principio del Posicionamiento cómo la Decisión más Estratégica de la Marca porque Determina como el Cliente Organiza Mentalmente tu Negocio en Relación con las Alternativas:** Al Ries y Jack Trout, en Positioning: The Battle for Your Mind, proponen que el posicionamiento no es lo que haces con el producto sino lo que haces con la mente del cliente potencial. La posición que ocupa un negocio en la mente del cliente (el primer de su categoría que viene a la mente) es la ventaja competitiva más valiosa y la más difícil de desplazar.
 
 La investigación de Mark Ritson sobre el posicionamiento de marca muestra que las empresas con posicionamiento más claro (que puede articularse en una frase específica que diferencie al negocio de todos sus competidores) tienen mayor crecimiento de revenue, mayor retention de clientes, y mayor premium de precio que las de posicionamiento vago o no diferenciado.
 
@@ -93,7 +93,7 @@ La empresa que habla con voz propia y coherente tiene personalidad. La que habla
 
 Marcos ha tenido que trabajar su diferenciación en un mercado con varios competidores similares.
 
-**El Principio de la Diferenciación Real como Diferente del Precio Más Bajo o las Caracteristicas Adicionales porque la Diferenciación Sostenible Viene de la Comprensión Profunda de lo que el Cliente Más Valora y que la Competencia No Ofrece Igual:** Michael Porter distingue tres estrategias genéricas de posicionamiento competitivo: liderazgo en costes (ser el más barato), diferenciación (ofrecer algo que los competidores no pueden o no ofrecen), y enfoque (servir a un segmento muy específico mejor que nadie que sirve al segmento general). La mayoría de los emprendedores intentan combinar las tres y acaban sin ser el mejor en ninguna.
+**El Principio de la Diferenciación Real como Diferente del Precio Más Bajo o las Características Adicionales porque la Diferenciación Sostenible Viene de la Comprensión Profunda de lo que el Cliente Más Valora y que la Competencia No Ofrece Igual:** Michael Porter distingue tres estrategias genéricas de posicionamiento competitivo: liderazgo en costes (ser el más barato), diferenciación (ofrecer algo que los competidores no pueden o no ofrecen), y enfoque (servir a un segmento muy específico mejor que nadie que sirve al segmento general). La mayoría de los emprendedores intentan combinar las tres y acaban sin ser el mejor en ninguna.
 
 La investigación de April Rinne sobre los mercados hipercompetitivos muestra que las empresas que crecen más rápidamente en mercados con muchos competidores no son las que hacen todo mejor que todos sino las que son la primera opción para un segmento específico de clientes que valoran lo que ellas hacen mejor que nadie.
 

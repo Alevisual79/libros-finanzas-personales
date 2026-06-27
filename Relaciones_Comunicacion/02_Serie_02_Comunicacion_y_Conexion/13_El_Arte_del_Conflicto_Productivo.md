@@ -63,7 +63,7 @@ Cuando Isabel le dice a su colaborador no puedes ser más organizado, le está h
 
 **Ejercicio inmediato:** Reformula las tres críticas más frecuentes que tienes hacía alguien importante en tu vida. Cambia la forma general (eres, siempre, nunca) por la forma específica (ayer, en esa reunión, la última vez). La reformulación no cambia el contenido. Cambia si el otro puede escucharla.
 
-Critica el comportamiento. Respeta a la persona.
+Crítica el comportamiento. Respeta a la persona.
 
 ---
 
@@ -71,7 +71,7 @@ Critica el comportamiento. Respeta a la persona.
 
 El conflicto sube como el agua en una olla sin tapa. El tono aumenta. Las palabras se vuelven más duras. Los argumentos se sustituyen por ataques. En algun momento alguien dice algo que no debería. La escalada es el momento en que el conflicto deja de ser sobre el tema y empieza a ser sobre el conflicto mismo.
 
-**El Principio de la Detección Temprana:** La escalada tiene una trayectoria predecible: primero aumenta la activación fisiologica, luego la capacidad cognitiva se reduce, finalmente el control sobre lo que se dice se pierde. El momento optimo para intervenir es el primero, antes de que la activación sea tan alta que la desescalada sea imposible.
+**El Principio de la Detección Temprana:** La escalada tiene una trayectoria predecible: primero aumenta la activación fisiológica, luego la capacidad cognitiva se reduce, finalmente el control sobre lo que se dice se pierde. El momento optimo para intervenir es el primero, antes de que la activación sea tan alta que la desescalada sea imposible.
 
 Las investigaciones de Gottman muestran que cuando la frecuencia cardiaca supera los 100 latidos por minuto, la capacidad de escuchar, procesar y responder de forma no reactiva se deteriora significativamente. En ese estado, la unica intervención eficaz es el tiempo fuera.
 
@@ -137,7 +137,7 @@ No todos los conflictos se resuelven. Todos se pueden gestionar mejor.
 
 ## Capítulo 9: El congelamiento en el conflicto
 
-Hay personas que ante el conflicto se cierran completamente: monosilabos, cara de piedra, ausencia total de expresión emocional. Desde fuera parece calma. Desde dentro es todo lo contrario: la activación fisiologica es tan alta que el sistema nervioso ha preferido bloquear la expresión antes que desbordarse.
+Hay personas que ante el conflicto se cierran completamente: monosilabos, cara de piedra, ausencia total de expresión emocional. Desde fuera parece calma. Desde dentro es todo lo contrario: la activación fisiológica es tan alta que el sistema nervioso ha preferido bloquear la expresión antes que desbordarse.
 
 **El Principio del Congelamiento como Sobrecarga:** El congelamiento no es indiferencia. Es una respuesta de sobrecarga del sistema nervioso que se ha desconectado para protegerse. La persona que se congela necesita tiempo y regulación antes de poder volver a la conversación. Insistir en seguir hablando con alguien que esta congelado no produce más comunicación. Produce más congelamiento.
 

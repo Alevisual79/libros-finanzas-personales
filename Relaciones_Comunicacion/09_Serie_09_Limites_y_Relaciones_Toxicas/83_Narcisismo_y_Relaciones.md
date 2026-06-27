@@ -23,11 +23,11 @@ Isabel lleva veinte años casada con alguien que, de forma consistente y aparent
 
 El narcisismo, como terminó clínico, se refiere a un patron de grandiosidad, necesidad de admiración, y falta de empatia que existe en un espectro de intensidad, desde rasgos relativamente comunes hasta el trastorno de personalidad narcisista clinicamente diagnosticable.
 
-**El Principio de la Distinción entre Rasgo y Trastorno:** Tener algunos rasgos narcisistas (cierta necesidad de admiración, cierta dificultad ocasional con la empatia) es común en la población general y no constituye necesariamente un trastorno. El trastorno de personalidad narcisista, en cambio, requiere un patron pervasivo y persistente que afecta significativamente el funcionamiento relacional, cumpliendo criterios diagnosticos específicos que un profesional de salud mental puede evaluar.
+**El Principio de la Distinción entre Rasgo y Trastorno:** Tener algunos rasgos narcisistas (cierta necesidad de admiración, cierta dificultad ocasional con la empatia) es común en la población general y no constituye necesariamente un trastorno. El trastorno de personalidad narcisista, en cambio, requiere un patron pervasivo y persistente que afecta significativamente el funcionamiento relacional, cumpliendo criterios diagnósticos específicos que un profesional de salud mental puede evaluar.
 
 **Ejercicio inmediato:** Si sospechas rasgos narcisistas en alguien cercano, evalua si lo que observas son rasgos ocasionales o un patron pervasivo y consistente que afecta significativamente la calidad de la relación.
 
-No toda persona con rasgos narcisistas tiene un trastorno clínico. Pero un patron pervasivo y consistente de estos rasgos, independientemente del diagnostico formal, tiene impacto relacional real.
+No toda persona con rasgos narcisistas tiene un trastorno clínico. Pero un patron pervasivo y consistente de estos rasgos, independientemente del diagnóstico formal, tiene impacto relacional real.
 
 ---
 
@@ -47,9 +47,9 @@ El narcisismo no es todo o nada. Es un espectro, y la ubicación específica en 
 
 Identificar patrones consistentes asociados con rasgos narcisistas significativos ayuda a entender mejor las dinámicas relacionales con esa persona y a ajustar las expectativas y estrategias en consecuencia.
 
-**El Principio de los Patrones Caracteristicos:** Las personas con rasgos narcisistas significativos tipicamente muestran necesidad constante de admiración y validación, dificultad genuina para reconocer o validar las perspectivas y necesidades de otros, sensibilidad extrema a la crítica que se traduce en reacciones desproporcionadas, y una tendencia a usar a las personas cercanas instrumentalmente para sus propios objetivos de validación o beneficio.
+**El Principio de los Patrones Característicos:** Las personas con rasgos narcisistas significativos tipicamente muestran necesidad constante de admiración y validación, dificultad genuina para reconocer o validar las perspectivas y necesidades de otros, sensibilidad extrema a la crítica que se traduce en reacciones desproporcionadas, y una tendencia a usar a las personas cercanas instrumentalmente para sus propios objetivos de validación o beneficio.
 
-**Ejercicio inmediato:** Revisa esta lista de patrones caracteristicos contra tu observación de la persona que te preocupa. ¿Cuantos de estos patrones reconoces como presentes de forma consistente?
+**Ejercicio inmediato:** Revisa esta lista de patrones característicos contra tu observación de la persona que te preocupa. ¿Cuantos de estos patrones reconoces como presentes de forma consistente?
 
 Reconocer estos patrones específicos, en lugar de una impresión vaga de que algo no está bien, ayuda a evaluar con más precisión la naturaleza de la dinámica relacional.
 
@@ -83,7 +83,7 @@ La dificultad de salir de una relación narcisista no es debilidad personal. Es 
 
 Para situaciones donde salir completamente de la relación no es inmediatamente posible o elegido (relaciones familiares, situaciones laborales con limitaciones prácticas), existen estrategias específicas que pueden reducir el impacto del daño mientras se permanece en contacto.
 
-**El Principio de la Gestion Estrategica con Limites Claros:** Gestionar una relación con alguien narcisista mientras se permanece en contacto requiere límites particularmente claros y consistentemente mantenidos, reducción de la vulnerabilidad emocional compartida (compartir menos información que pueda usarse en contra), y el desarrollo de fuentes de validación y apoyo independientes de esa relación específica.
+**El Principio de la Gestion Estratégica con Limites Claros:** Gestionar una relación con alguien narcisista mientras se permanece en contacto requiere límites particularmente claros y consistentemente mantenidos, reducción de la vulnerabilidad emocional compartida (compartir menos información que pueda usarse en contra), y el desarrollo de fuentes de validación y apoyo independientes de esa relación específica.
 
 **Ejercicio inmediato:** Si necesitas mantener contacto con alguien con rasgos narcisistas significativos, identifica un límite específico que podrías establecer y mantener consistentemente para reducir el impacto en tu bienestar.
 

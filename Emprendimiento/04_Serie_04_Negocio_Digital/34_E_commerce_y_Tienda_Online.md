@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Lucia quiere vender los productos artesanales que hace en su tiempo libre y no sabe si montar una tienda Shopify o vender en marketplaces. Carlos ha estudiado el modelo de dropshipping y no sabe si es tan rentable cómo lo pintan en YouTube. Marcos quiere digitalizar parte de su negocio de servicios ofreciendo productos físicos asociados al servicio. Los tres necesitan entender la logica específica del e-commerce: un negocio de venta online tiene sus propias reglas, sus propias metricas, y sus propios errores que cuestan caro si no se conocen de antemano. El e-commerce no es difícil si se entiende bien. Es complicado si se improvisa.
+Lucia quiere vender los productos artesanales que hace en su tiempo libre y no sabe si montar una tienda Shopify o vender en marketplaces. Carlos ha estudiado el modelo de dropshipping y no sabe si es tan rentable cómo lo pintan en YouTube. Marcos quiere digitalizar parte de su negocio de servicios ofreciendo productos físicos asociados al servicio. Los tres necesitan entender la lógica específica del e-commerce: un negocio de venta online tiene sus propias reglas, sus propias metricas, y sus propios errores que cuestan caro si no se conocen de antemano. El e-commerce no es difícil si se entiende bien. Es complicado si se improvisa.
 
 ---
 
@@ -49,11 +49,11 @@ La plataforma perfecta en abstracto puede ser la incorrecta para tu producto esp
 
 ## Capítulo 3: El producto: como elegir que vender online
 
-Carlos ha aprendido que el producto correcto para el e-commerce tiene caracteristicas específicas que lo hacen más viable.
+Carlos ha aprendido que el producto correcto para el e-commerce tiene características específicas que lo hacen más viable.
 
 **El Principio del Producto Correcto Para el E-Commerce como el que Tiene un Mercado Verificado, Margen Suficiente, Viabilidad de Envio, y Diferenciación Que Permite Competir sin Basarse Solo en Precio:** La investigación de Jungle Scout sobre los productos más exitosos en e-commerce muestra patrones comunes: tienen demanda verificada (la gente los busca activamente en Google o Amazon), son lo suficientemente ligeros y pequeños para tener costes de envió razonables, tienen margen suficiente después de todos los costes (producto, embalaje, envió, plataforma, marketing), y tienen algun elemento de diferenciación que impide la competencia directa por precio.
 
-Los peores productos para el e-commerce tienen caracteristicas opuestas: son pesados o fragiles (costes de envió altos), tienen alta competencia con productos identicos en Amazon (compiten solo en precio), tienen margen bruto inferior al 50% (que se consume facilmente con los costes de marketing y plataforma), o son productos de moda que pueden volverse obsoletos rápidamente.
+Los peores productos para el e-commerce tienen características opuestas: son pesados o fragiles (costes de envió altos), tienen alta competencia con productos identicos en Amazon (compiten solo en precio), tienen margen bruto inferior al 50% (que se consume facilmente con los costes de marketing y plataforma), o son productos de moda que pueden volverse obsoletos rápidamente.
 
 **Ejercicio inmediato:** Para tu producto o los candidatos que estas evaluando, calcula el margen real incluyendo todos los costes: precio de venta menos coste de producto, embalaje, envió, comisión de la plataforma, y un 20-30% de coste de marketing (el coste de adquisición del cliente). Si el margen después de todos esos costes es inferior al 15-20% del precio de venta, el producto no es viable a menos que puedas aumentar el precio de venta o reducir significativamente algun coste.
 
@@ -79,11 +79,11 @@ El diseño de la tienda que nadie ha observado usando no es un diseño probado. 
 
 Lucia ha aprendido que el trafico es el problema principal de toda tienda online nueva.
 
-**El Principio del Trafico de E-Commerce como el Mayor Desafio del Negocio Online porque La Tienda Más Bonita y El Producto Mejor Sin Visitantes Genera Cero Ventas y Que El Trafico Cualificado Es El Activo más Escaso y Más Valioso del E-Commerce:** Los canales de trafico para e-commerce son: SEO de producto (optimizar las páginas de producto para qué aparezcan en Google cuando el cliente busca ese tipo de producto), publicidad de pago (Google Shopping y Meta Ads son los más efectivos para e-commerce), social media organico (Instagram y Pinterest son especialmente efectivos para productos visuales), marketplaces (Amazon, Etsy) que ya tienen trafico propio, email marketing (el canal de mayor conversión para tiendas online existentes), y referidos de clientes satisfechos.
+**El Principio del Trafico de E-Commerce como el Mayor Desafio del Negocio Online porque La Tienda Más Bonita y El Producto Mejor Sin Visitantes Genera Cero Ventas y Que El Trafico Cualificado Es El Activo más Escaso y Más Valioso del E-Commerce:** Los canales de trafico para e-commerce son: SEO de producto (optimizar las páginas de producto para qué aparezcan en Google cuando el cliente busca ese tipo de producto), publicidad de pago (Google Shopping y Meta Ads son los más efectivos para e-commerce), social media orgánico (Instagram y Pinterest son especialmente efectivos para productos visuales), marketplaces (Amazon, Etsy) que ya tienen trafico propio, email marketing (el canal de mayor conversión para tiendas online existentes), y referidos de clientes satisfechos.
 
-La investigación de Statista sobre el trafico de e-commerce muestra que las tiendas online con mayor conversión combinan tipicamente dos o tres canales de trafico: uno de pago (que produce resultados inmediatos pero requiere presupuesto continuo) y uno organico (que tarda más en producir resultados pero tiene menor coste marginal a largo plazo).
+La investigación de Statista sobre el trafico de e-commerce muestra que las tiendas online con mayor conversión combinan tipicamente dos o tres canales de trafico: uno de pago (que produce resultados inmediatos pero requiere presupuesto continuo) y uno orgánico (que tarda más en producir resultados pero tiene menor coste marginal a largo plazo).
 
-**Ejercicio inmediato:** Para tu tienda online, define la estrategia de trafico para los primeros tres meses con un canal de pago (Meta Ads o Google Shopping con un presupuesto mínimo de dos a cinco euros diarios para empezar a tener datos) y un canal organico (Instagram o Pinterest si el producto es visual, SEO de blog si tu audiencia busca en Google). El canal de pago te da datos rápidos sobre que funciona; el canal organico construye el activo de largo plazo.
+**Ejercicio inmediato:** Para tu tienda online, define la estrategia de trafico para los primeros tres meses con un canal de pago (Meta Ads o Google Shopping con un presupuesto mínimo de dos a cinco euros diarios para empezar a tener datos) y un canal orgánico (Instagram o Pinterest si el producto es visual, SEO de blog si tu audiencia busca en Google). El canal de pago te da datos rápidos sobre que funciona; el canal orgánico construye el activo de largo plazo.
 
 La tienda online perfecta sin trafico genera cero ventas. El trafico imperfecto genera datos. Los datos mejoran la tienda. La tienda mejorada convierte mejor el trafico siguiente.
 

@@ -106,7 +106,7 @@ No existen atajos reales para este proceso. Pero el camino existe incluso desde 
 
 El tiempo es, de todos los recursos disponibles, el aliado más poderoso de la resiliencia financiera.
 
-Una situación financiera frágil puede convertirse en resiliente en un periodo de tres a cinco años de decisiones consistentes. Una situación resiliente puede convertirse en sólida en diez o quince años. Una situación sólida puede convertirse, con el tiempo suficiente, en antifrágil en veinte o treinta años.
+Una situación financiera frágil puede convertirse en resiliente en un período de tres a cinco años de decisiones consistentes. Una situación resiliente puede convertirse en sólida en diez o quince años. Una situación sólida puede convertirse, con el tiempo suficiente, en antifrágil en veinte o treinta años.
 
 El proceso es necesariamente lento. No existe forma de comprimirlo en meses, por mucha urgencia que se sienta. Pero cada año que pasa con las decisiones correctas añade una capa más de protección que, acumulada, hace la vida progresivamente más libre. Don Alberto, mirando hacia atrás, ve con claridad lo que setenta años le han enseñado: el tiempo perdona poco la falta de estructura, pero recompensa generosamente la paciencia bien dirigida.
 

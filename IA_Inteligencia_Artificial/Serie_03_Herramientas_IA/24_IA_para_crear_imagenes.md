@@ -117,7 +117,7 @@ A diferencia de los prompts de texto, los prompts para imagenes tienen sus propi
 
 **Para creadores de contenido:**
 - Thumbnails de YouTube y portadas de podcast
-- Ilustraciones para articulos y newsletters
+- Ilustraciones para artículos y newsletters
 
 ---
 

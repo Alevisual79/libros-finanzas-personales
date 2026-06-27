@@ -69,7 +69,7 @@ Los malentendidos digitales no se resuelven en digital. Se resuelven en persona 
 
 La videollamada es mejor que el texto y que el teléfono para conversaciones con contenido emocional. Pero tampoco es lo mismo que estar en persona. La distancia física crea una barrera sutil que reduce la profundidad de la conexión incluso cuando la imagen es perfecta.
 
-**El Principio de la Presencia Fisica como Condición de Intimidad:** La presencia física activa canales de comunicación que ningún sistema digital puede replicar: el olfato (que tiene conexiones directas con el sistema limbico), el tacto (que activa la liberación de oxitocina), y la sensación de compartir el mismo espacio físico que produce una sensación de co-presencia que la camara no puede dar.
+**El Principio de la Presencia Física como Condición de Intimidad:** La presencia física activa canales de comunicación que ningún sistema digital puede replicar: el olfato (que tiene conexiones directas con el sistema limbico), el tacto (que activa la liberación de oxitocina), y la sensación de compartir el mismo espacio físico que produce una sensación de co-presencia que la camara no puede dar.
 
 Para conversaciones de coordinación, actualización y trabajo colaborativo, la videollamada es excelente. Para conversaciones de intimidad alta, apoyo emocional profundo o reparación relacional, la presencia física tiene un poder que la videollamada no puede igualar.
 

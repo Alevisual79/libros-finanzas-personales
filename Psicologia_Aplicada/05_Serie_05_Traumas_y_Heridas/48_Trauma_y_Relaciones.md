@@ -97,7 +97,7 @@ Ruben quiere cambiar sus patrones relacionales pero no sabe si eso es posible da
 
 La relación terapeutica es uno de los contextos donde este cambio ocurre más sistemáticamente: un terapeuta que proporciona una relación predeciblemente segura proporciona una experiencia correctiva que gradualmente reorganiza los modelos de apego.
 
-**Ejercicio inmediato:** Identifica una relación en tu vida actual que tiene caracteristicas de apego seguro: la persona es predeciblemente disponible, no te juzga, y puede reparar las rupturas en la relación. Esa relación es un recurso de cambio del estilo de apego. Invierte deliberadamente en ella.
+**Ejercicio inmediato:** Identifica una relación en tu vida actual que tiene características de apego seguro: la persona es predeciblemente disponible, no te juzga, y puede reparar las rupturas en la relación. Esa relación es un recurso de cambio del estilo de apego. Invierte deliberadamente en ella.
 
 El apego que no tuviste en la infancia puede desarrollarse en la adultez. Pero necesita relaciones específicas que proporcionen lo que faltó.
 
@@ -107,7 +107,7 @@ El apego que no tuviste en la infancia puede desarrollarse en la adultez. Pero n
 
 Elena nota que hay aspectos de la intimidad física con su pareja que pueden producirle disociación o malestar intenso que no entiende bien.
 
-**El Principio del Trauma Almacenado en el Cuerpo como Interferencia con la Intimidad Fisica:** La investigación de Bessel van der Kolk y sus colegas muestra que la intimidad física puede activar memorias somaticas del trauma: tensiones, respuestas de alarma, impulsos de alejamiento, disociación que se producen sin decisión consciente.
+**El Principio del Trauma Almacenado en el Cuerpo como Interferencia con la Intimidad Física:** La investigación de Bessel van der Kolk y sus colegas muestra que la intimidad física puede activar memorias somaticas del trauma: tensiones, respuestas de alarma, impulsos de alejamiento, disociación que se producen sin decisión consciente.
 
 La sexualidad trauma-informada reconoce que el cuerpo que ha sido traumatizado necesita un proceso gradual y consciente de reconstrucción de la seguridad en la intimidad física, incluyendo comunicación abierta con la pareja sobre los propios límites y respuestas.
 
@@ -135,11 +135,11 @@ Compartir el trauma con tu pareja no es un deber ni una confesión. Es una invit
 
 Isabel ha aprendido a distinguir entre las relaciones que producen reparación y las que reproducen los patrones del trauma.
 
-**El Principio de las Caracteristicas de las Relaciones que Sanan:** Judith Herman propone que la recuperación del trauma requiere experiencias relacionales específicas: seguridad (el otro es predeciblemente no amenazante), confianza (las palabras y los comportamientos son coherentes), elección (la persona tiene autonomía), colaboración (hay reciprocidad), y empoderamiento (la relación refuerza el sentido de capacidad propio).
+**El Principio de las Características de las Relaciones que Sanan:** Judith Herman propone que la recuperación del trauma requiere experiencias relacionales específicas: seguridad (el otro es predeciblemente no amenazante), confianza (las palabras y los comportamientos son coherentes), elección (la persona tiene autonomía), colaboración (hay reciprocidad), y empoderamiento (la relación refuerza el sentido de capacidad propio).
 
-Las relaciones que retraumatizan tienen las caracteristicas opuestas. Saber distinguir entre unas y otras, especialmente cuando el sistema esta calibrado para sentirse comodo con patrones disfuncionales, es una habilidad que se desarrolla gradualmente.
+Las relaciones que retraumatizan tienen las características opuestas. Saber distinguir entre unas y otras, especialmente cuando el sistema esta calibrado para sentirse comodo con patrones disfuncionales, es una habilidad que se desarrolla gradualmente.
 
-**Ejercicio inmediato:** Evalua una relación cercana actual usando las cinco caracteristicas de Herman. Donde la relación puntua bajo, esa es la dimensión que más limita el potencial sanador de la relación.
+**Ejercicio inmediato:** Evalua una relación cercana actual usando las cinco características de Herman. Donde la relación puntua bajo, esa es la dimensión que más limita el potencial sanador de la relación.
 
 No todas las relaciones sanan. Saber distinguir las que sanan de las que danan es la habilidad de relación más importante después del trauma.
 

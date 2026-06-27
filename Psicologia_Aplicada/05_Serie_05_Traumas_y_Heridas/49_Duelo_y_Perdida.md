@@ -39,9 +39,9 @@ Ruben no esperaba que el duelo por su amigo fallecido fuera tan físico: el agot
 
 **El Principio del Duelo como Estado biológico que Afecta al Cuerpo Entero:** Mary-Frances O'Connor, neurocientifica que ha investigado el duelo con neuroimagen, documenta que el duelo activa regiones cerebrales asociadas tanto con el dolor físico como con el dolor social: la corteza insular anterior y la corteza cingulada anterior se activan también durante el duelo. El dolor del duelo es literal, no solo metaforico.
 
-El duelo también produce efectos fisiologicos documentados: elevación del cortisol y la adrenalina, alteración del sueño, cambios en el apetito, y supresión temporal del sistema inmune.
+El duelo también produce efectos fisiológicos documentados: elevación del cortisol y la adrenalina, alteración del sueño, cambios en el apetito, y supresión temporal del sistema inmune.
 
-**Ejercicio inmediato:** Si estas en duelo, presta atención deliberada a las necesidades físicas basicas: sueño, alimentación, movimiento suave. Estas necesidades no son opcionales: son los cimientos biologicos sobre los que el procesamiento emocional del duelo puede ocurrir.
+**Ejercicio inmediato:** Si estas en duelo, presta atención deliberada a las necesidades físicas basicas: sueño, alimentación, movimiento suave. Estas necesidades no son opcionales: son los cimientos biológicos sobre los que el procesamiento emocional del duelo puede ocurrir.
 
 El duelo es también una experiencia del cuerpo. Las necesidades del cuerpo en duelo merecen la misma atención que las del alma en duelo.
 

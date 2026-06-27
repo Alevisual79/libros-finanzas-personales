@@ -107,7 +107,7 @@ La bondad que produces en otros tiene un efecto de retorno en ti que ninguna ter
 
 Isabel ha tratado la salud física y la mental como dominios separados. La investigación muestra que son el mismo sistema.
 
-**El Principio de la Salud Fisica como Determinante del Bienestar Mental y Viceversa:** La investigación sobre la conexión mente-cuerpo muestra que la salud física y la mental son interdependientes de forma más profunda de lo que la medicina tradicional reconoció durante mucho tiempo. El eje intestino-cerebro, la neuroinmunologia, y la psiconeuroendocrinologia documentan mecanismos biologicos específicos a traves de los cuales el estado físico afecta directamente al funcionamiento mental.
+**El Principio de la Salud Física como Determinante del Bienestar Mental y Viceversa:** La investigación sobre la conexión mente-cuerpo muestra que la salud física y la mental son interdependientes de forma más profunda de lo que la medicina tradicional reconoció durante mucho tiempo. El eje intestino-cerebro, la neuroinmunologia, y la psiconeuroendocrinologia documentan mecanismos biológicos específicos a traves de los cuales el estado físico afecta directamente al funcionamiento mental.
 
 Los tres comportamientos que la investigación identifica como mayores predictores del bienestar a largo plazo son: el sueño de calidad (Matthew Walker documenta su efecto sobre la cognición, la salud cardiovascular, el sistema inmune, y la salud mental), el ejercicio regular (Wendy Suzuki muestra sus efectos sobre el hipocampo, la memoria, y el estado de animo), y la alimentación rica en fibra y antiinflamatoria (el microbioma intestinal afecta la producción de neurotransmisores).
 
@@ -149,7 +149,7 @@ La persona que seras a los setenta está siendo formada por las decisiones que t
 
 Isabel ha llegado a entender que el bienestar no es un estado que se alcanza y se mantiene. Es una práctica diaria que se sostiene o se abandona.
 
-**El Principio del Bienestar como Proceso Dinamico que Requiere Mantenimiento Activo:** Carol Ryff y colegas proponen que el bienestar psicológico es multidimensional y dinámico: no es un rasgo estable sino el resultado de la interacción continua entre la persona y su entorno, mediada por las elecciones y prácticas cotidianas. Este modelo implica que el bienestar puede cultivarse activamente y que puede deteriorarse si se descuida.
+**El Principio del Bienestar como Proceso Dinámico que Requiere Mantenimiento Activo:** Carol Ryff y colegas proponen que el bienestar psicológico es multidimensional y dinámico: no es un rasgo estable sino el resultado de la interacción continua entre la persona y su entorno, mediada por las elecciones y prácticas cotidianas. Este modelo implica que el bienestar puede cultivarse activamente y que puede deteriorarse si se descuida.
 
 La investigación sobre la adaptación hedonica de Lyubomirsky, Sheldon, y Schkade muestra que los eventos positivos (ganar la loteria, conseguir el trabajo soñado, encontrar la pareja) producen aumentos de bienestar que se disipan con el tiempo a medida que la persona se adapta a la nueva situación. Esto significa que el bienestar sostenido no viene de conseguir cosas sino de las prácticas habituales que se mantienen independientemente de lo que se consigue.
 

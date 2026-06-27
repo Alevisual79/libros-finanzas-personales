@@ -23,7 +23,7 @@ Ruben ha pasado gran parte de su desarrollo profesional intentando corregir sus 
 
 Durante la mayor parte del siglo XX, la psicología se centro en lo que falla. La psicología positiva propone centrase en lo que funciona.
 
-**El Principio de las Fortalezas como el Enfasis que Produce Mayor Florecimiento que el Enfasis en las Debilidades:** Martin Seligman y Mihaly Csikszentmihalyi lanzaron formalmente la psicología positiva en 2000 con un articulo programatico en American Psychologist: una propuesta de reorientar la psicología hacía el estudio del funcionamiento optimo humano en lugar de solo el disfuncionamiento. Uno de los pilares de este programa es el estudio de las fortalezas de carácter.
+**El Principio de las Fortalezas como el Enfasis que Produce Mayor Florecimiento que el Enfasis en las Debilidades:** Martin Seligman y Mihaly Csikszentmihalyi lanzaron formalmente la psicología positiva en 2000 con un artículo programatico en American Psychologist: una propuesta de reorientar la psicología hacía el estudio del funcionamiento optimo humano en lugar de solo el disfuncionamiento. Uno de los pilares de este programa es el estudio de las fortalezas de carácter.
 
 La investigación de Gallup sobre el compromiso laboral muestra que los empleados que reportan usar sus fortalezas cada dia en el trabajo muestran seis veces mayor engagement, menos ausentismo, y mayor productividad que los que no. La investigación de Alex Linley y colegas muestra que las personas que usan sus fortalezas tienen mayor bienestar, menor estres, y mayor confianza en si mismas.
 
@@ -41,7 +41,7 @@ Isabel quiere conocer sus fortalezas de forma sistemática. El proyecto VIA ofre
 
 La investigación muestra que estas 24 fortalezas son universalmente reconocidas como virtudes en las principales culturas y tradiciones éticas del mundo, y que su uso activo se asocia con mayor bienestar, mayor resiliencia, y mayor satisfacción vital.
 
-**Ejercicio inmediato:** Completa el cuestionario VIA gratuito disponible en viacharacter.org (tarda aproximadamente quince minutos). Al revisar tus resultados, fíjate especialmente en las cinco fortalezas principales (las que el cuestionario identifica como tus fortalezas caracteristicas): ¿son reconocibles para ti? ¿Se alinean con los momentos de mayor efectividad y energía que identificaste en el ejercicio anterior?
+**Ejercicio inmediato:** Completa el cuestionario VIA gratuito disponible en viacharacter.org (tarda aproximadamente quince minutos). Al revisar tus resultados, fíjate especialmente en las cinco fortalezas principales (las que el cuestionario identifica como tus fortalezas características): ¿son reconocibles para ti? ¿Se alinean con los momentos de mayor efectividad y energía que identificaste en el ejercicio anterior?
 
 Las fortalezas que el cuestionario te confirma ya las conocías. Las que te sorprenden merecen exploración adicional.
 
@@ -51,7 +51,7 @@ Las fortalezas que el cuestionario te confirma ya las conocías. Las que te sorp
 
 Ruben ha completado el VIA y tiene su lista de fortalezas principales. Ahora necesita entender que hacer con ella.
 
-**El Principio de las Fortalezas Caracteristicas como Aquellas que Producen Mayor Sentido de Autenticidad, Energia, y Aprendizaje rápido:** Martin Seligman propone que las fortalezas caracteristicas (las principales cinco del VIA) tienen cuatro indicadores que las distinguen de las fortalezas no caracteristicas: un sentido de autenticidad cuando las usas (esto soy yo de verdad), emoción y entusiasmo cuando las ejercitas, aprendizaje rápido de las habilidades relacionadas con ellas, y un deseo de encontrar formas de usarlas más.
+**El Principio de las Fortalezas Características como Aquellas que Producen Mayor Sentido de Autenticidad, Energia, y Aprendizaje rápido:** Martin Seligman propone que las fortalezas características (las principales cinco del VIA) tienen cuatro indicadores que las distinguen de las fortalezas no características: un sentido de autenticidad cuando las usas (esto soy yo de verdad), emoción y entusiasmo cuando las ejercitas, aprendizaje rápido de las habilidades relacionadas con ellas, y un deseo de encontrar formas de usarlas más.
 
 Alex Linley y colegas proponen que las fortalezas se reconocen no solo por el rendimiento que producen sino por la energía que generan: usar tus fortalezas te deja con más energía que cuando empezaste, mientras que usar tus debilidades te deja con menos (aunque el resultado del trabajo pueda ser bueno en ambos casos).
 
@@ -97,7 +97,7 @@ Ruben ha aprendido que sus fortalezas, llevadas al extremo o usadas en el contex
 
 La investigación de Adam Grant muestra que los givers (personas con alta fortaleza de generosidad) son los que mejor y peor les va en las organizaciones: los que mejor les va aprenden a establecer límites que protegen sus recursos; los que peor les va usan la fortaleza sin restricción hasta el agotamiento.
 
-**Ejercicio inmediato:** Para tu fortaleza más caracteristica, reflexiona: ¿hay situaciones en tu vida donde el uso excesivo de esta fortaleza te ha causado problemas o ha producido costes para ti o para otros? ¿El exceso de persistencia que no te deja cambiar de rumbo cuando la evidencia lo pide? ¿El exceso de amabilidad que no te deja decir no? Identificar el exceso de tus fortalezas es tan valioso como identificar las fortalezas en si.
+**Ejercicio inmediato:** Para tu fortaleza más característica, reflexiona: ¿hay situaciones en tu vida donde el uso excesivo de esta fortaleza te ha causado problemas o ha producido costes para ti o para otros? ¿El exceso de persistencia que no te deja cambiar de rumbo cuando la evidencia lo pide? ¿El exceso de amabilidad que no te deja decir no? Identificar el exceso de tus fortalezas es tan valioso como identificar las fortalezas en si.
 
 La fortaleza sin conciencia de sus límites se convierte en su propio obstaculo.
 
@@ -105,13 +105,13 @@ La fortaleza sin conciencia de sus límites se convierte en su propio obstaculo.
 
 ## Capítulo 7: Desarrollar nuevas fortalezas: el papel del esfuerzo y la práctica
 
-Isabel sabe que tiene fortalezas caracteristicas, pero también quiere desarrollar fortalezas en áreas donde actualmente es más debil.
+Isabel sabe que tiene fortalezas características, pero también quiere desarrollar fortalezas en áreas donde actualmente es más debil.
 
 **El Principio del Desarrollo de Fortalezas como Posible a traves del Esfuerzo Deliberado aunque con Rendimientos Diferentes segun el Talento Natural:** La investigación de Carol Dweck sobre el mindset de crecimiento muestra que las habilidades pueden desarrollarse con esfuerzo y práctica, y que la creencia de que pueden desarrollarse predice el desarrollo mejor que la inteligencia o el talento inicial. Sin embargo, el ritmo de desarrollo y el nivel de excelencia alcanzable es diferente segun el talento natural: desarrollar una fortaleza es más rápido y más natural que desarrollar una debilidad hasta el mismo nivel.
 
 Anders Ericsson y su investigación sobre la práctica deliberada muestra que el desarrollo de cualquier habilidad requiere práctica fuera de la zona de comfort: actividades diseñadas específicamente para abordar las limitaciones actuales, con retroalimentación frecuente y ajuste continuo.
 
-**Ejercicio inmediato:** Para una fortaleza que quieres desarrollar (no tu fortaleza caracteristica sino un área donde quieres crecer), identifica el nivel mínimo de competencia que necesitas para que esa área no sea una limitación real en tu vida o trabajo. La meta no tiene que ser la excelencia sino la funcionalidad. Con esa meta más modesta, el esfuerzo necesario es mucho más manejable.
+**Ejercicio inmediato:** Para una fortaleza que quieres desarrollar (no tu fortaleza característica sino un área donde quieres crecer), identifica el nivel mínimo de competencia que necesitas para que esa área no sea una limitación real en tu vida o trabajo. La meta no tiene que ser la excelencia sino la funcionalidad. Con esa meta más modesta, el esfuerzo necesario es mucho más manejable.
 
 Desarrollar una debilidad hasta que deje de ser un obstaculo es diferente de intentar convertirla en una fortaleza. El primer objetivo es alcanzable. El segundo es costoso.
 

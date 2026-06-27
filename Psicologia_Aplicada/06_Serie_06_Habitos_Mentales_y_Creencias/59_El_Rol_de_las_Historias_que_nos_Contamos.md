@@ -23,7 +23,7 @@ Isabel tiene una historia sobre si misma que cuenta de forma coherente: quien es
 
 Los seres humanos no solo tienen experiencias. Las organizamos en historias.
 
-**El Principio de la Narrativa como Estructura Fundamental de la Mente:** Jerome Bruner, psicologo cognitivo que ha investigado el pensamiento narrativo, propone que los seres humanos tienen dos modos fundamentales de pensamiento: el logico-paradigmatico (que busca verdades generales a traves de la razón y la evidencia) y el narrativo (que da sentido a las experiencias particulares organizandolas en historias con personajes, motivaciones, y tramas). El modo narrativo es el dominante en la construcción del yo y de la experiencia cotidiana.
+**El Principio de la Narrativa como Estructura Fundamental de la Mente:** Jerome Bruner, psicologo cognitivo que ha investigado el pensamiento narrativo, propone que los seres humanos tienen dos modos fundamentales de pensamiento: el lógico-paradigmatico (que busca verdades generales a traves de la razón y la evidencia) y el narrativo (que da sentido a las experiencias particulares organizandolas en historias con personajes, motivaciones, y tramas). El modo narrativo es el dominante en la construcción del yo y de la experiencia cotidiana.
 
 Dan McAdams, psicologo de Northwestern University, propone que el yo es una historia: la identidad personal es la narrativa de vida que cada persona construye sobre quien es, de dónde viene, y a donde va. Esta narrativa es activa y dinámica: se actualiza constantemente con las nuevas experiencias y produce predicciones sobre lo que es posible en el futuro.
 

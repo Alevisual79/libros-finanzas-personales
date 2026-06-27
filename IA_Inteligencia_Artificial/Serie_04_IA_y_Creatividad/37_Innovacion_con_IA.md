@@ -25,7 +25,7 @@ La conversación reveló que la creatividad con IA es un territorio nuevo que ca
 
 ## Capítulo 1: El estado actual
 
-La IA generativa ha cambiado la producción creativa de forma radical en los últimos tres años. Texto, imagen, audio, video, codigo: todos los medios de expresión tienen ahora herramientas de generación asistida que producen outputs de calidad sorprendente.
+La IA generativa ha cambiado la producción creativa de forma radical en los últimos tres años. Texto, imagen, audio, video, código: todos los medios de expresión tienen ahora herramientas de generación asistida que producen outputs de calidad sorprendente.
 
 La pregunta ya no es si la IA puede crear. Es que significa crear cuando la IA también puede hacerlo.
 
@@ -37,7 +37,7 @@ Los modelos generativos pueden:
 - Generar texto fluido, coherente y en multiples estilos
 - Crear imagenes con calidad artistica profesional
 - Componer musica en estilos específicos
-- Generar codigo funcional
+- Generar código funcional
 - Producir video de calidad creciente
 
 La velocidad y el volumen de lo que puede generar superan con creces lo que cualquier humano puede producir solo.

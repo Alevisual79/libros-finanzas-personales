@@ -23,7 +23,7 @@ Isabel tiene a alguien en su equipo que mina el ambiente sin que nadie pueda se�
 
 Identificar patrones específicos de comportamiento problematico, en lugar de simplemente etiquetar a alguien como difícil de forma generica, permite desarrollar estrategias de gestión más precisas y efectivas para cada tipo.
 
-**El Principio de la Tipologia como Herramienta de Diagnostico:** Las personas difíciles en el trabajo no son un grupo homogeneo. Cada patron específico (el saboteador silencioso, el que se apropia del credito ajeno, el quejica cronico, el chismoso, el pasivo-agresivo) tiene una dinámica psicológica distinta y requiere una estrategia de gestión diferenciada. Diagnosticar correctamente el patron específico es el primer paso para una intervención efectiva.
+**El Principio de la Tipologia como Herramienta de Diagnóstico:** Las personas difíciles en el trabajo no son un grupo homogeneo. Cada patron específico (el saboteador silencioso, el que se apropia del credito ajeno, el quejica cronico, el chismoso, el pasivo-agresivo) tiene una dinámica psicológica distinta y requiere una estrategia de gestión diferenciada. Diagnosticar correctamente el patron específico es el primer paso para una intervención efectiva.
 
 **Ejercicio inmediato:** Identifica el patron específico de comportamiento problematico de alguien en tu entorno laboral actual. La identificación precisa, más que la etiqueta generica de difícil, guia la estrategia apropiada.
 

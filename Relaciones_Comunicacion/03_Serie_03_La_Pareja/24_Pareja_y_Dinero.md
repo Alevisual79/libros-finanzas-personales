@@ -113,7 +113,7 @@ El que gana más no tiene más razón. Solo más dinero. La razón se gana en la
 
 La relación entre dinero y poder en la pareja va más allá de quien gana más. Incluye quien controla el gasto, quien toma las decisiones financieras, quien tiene acceso a la información financiera y quien puede gastar de forma autonoma.
 
-**El Principio del Control Financiero como Dinamica de Poder:** En algunas relaciones, el control del dinero se convierte en una herramienta de poder: quien paga decide, quien controla las cuentas controla la libertad del otro. Esto puede ocurrir de forma no consciente en relaciones donde el dinero nunca se ha gestionado de forma equitativa, pero puede ser también una forma de control que en sus manifestaciones extremas se convierte en abuso económico.
+**El Principio del Control Financiero como Dinámica de Poder:** En algunas relaciones, el control del dinero se convierte en una herramienta de poder: quien paga decide, quien controla las cuentas controla la libertad del otro. Esto puede ocurrir de forma no consciente en relaciones donde el dinero nunca se ha gestionado de forma equitativa, pero puede ser también una forma de control que en sus manifestaciones extremas se convierte en abuso económico.
 
 La señal más clara de que el dinero se está usando como herramienta de control: uno de los dos no tiene acceso a información financiera, no puede tomar decisiones de gasto sin permiso del otro, o tiene que dar cuentas de cada euro que gasta mientras el otro no tiene las mismas restricciones.
 

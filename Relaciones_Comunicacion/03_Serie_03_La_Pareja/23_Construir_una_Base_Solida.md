@@ -25,7 +25,7 @@ Los cimientos de una relación duradera no se instalan solos. Se construyen deci
 
 ## Capítulo 1: Los pilares de una relación duradera
 
-John Gottman paso décadas estudiando parejas en un laboratorio que el llamó el love lab. Mapeaba sus interacciones durante dias, media sus respuestas fisiologicas durante las discusiones y luego los seguia durante años para ver cuales seguían juntos y cuales se separaban. Sus hallazgos son los más robustos que existen sobre lo que hace que las relaciones duren.
+John Gottman paso décadas estudiando parejas en un laboratorio que el llamó el love lab. Mapeaba sus interacciones durante dias, media sus respuestas fisiológicas durante las discusiones y luego los seguia durante años para ver cuales seguían juntos y cuales se separaban. Sus hallazgos son los más robustos que existen sobre lo que hace que las relaciones duren.
 
 **El Principio de los Cimientos de Gottman:** Gottman identifico el amor duradero cómo una estructura de tres niveles: cimientos de amistad profunda (conocimiento mutuo, admiración, consideración positiva), segundo nivel de gestión del conflicto (capacidad de manejar las diferencias sin que destruyan la relación), y nivel superior de creación de significado compartido (proyectos, rituales y valores que dan sentido a la relación). Sin los cimientos, nada de lo que se construya arriba puede mantenerse.
 

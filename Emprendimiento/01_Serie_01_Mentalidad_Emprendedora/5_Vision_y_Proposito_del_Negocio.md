@@ -41,7 +41,7 @@ Marcos ha aprendido que el proposito no es solo motivación interna. Tiene efect
 
 La investigación de Gallup sobre el engagement de los empleados muestra que los empleados que sienten que su trabajo tiene proposito (que contribuye a algo que importa) muestran mayor engagement, menor absentismo, mayor productividad, y menor intención de abandonar la empresa. Las empresas con proposito claro atraen candidatos más motivados y los retienen por más tiempo.
 
-**Ejercicio inmediato:** Pregunta a tres de tus mejores clientes o usuarios por qué te eligen a ti en lugar de a la competencia. Las respuestas que van más allá del precio y las caracteristicas del producto (te eligen porque confian en tu equipo, porque sienten que te importa genuinamente su éxito, porque el proposito de tu empresa resuena con sus valores) son las que revelan si tu proposito está siendo percibido externamente y generando lealtad.
+**Ejercicio inmediato:** Pregunta a tres de tus mejores clientes o usuarios por qué te eligen a ti en lugar de a la competencia. Las respuestas que van más allá del precio y las características del producto (te eligen porque confian en tu equipo, porque sienten que te importa genuinamente su éxito, porque el proposito de tu empresa resuena con sus valores) son las que revelan si tu proposito está siendo percibido externamente y generando lealtad.
 
 El proposito que solo tu ves no es una ventaja competitiva. El que tus clientes sienten si lo es.
 
@@ -51,7 +51,7 @@ El proposito que solo tu ves no es una ventaja competitiva. El que tus clientes 
 
 Carlos ha aprendido del trabajo de Simon Sinek a comunicar su negocio empezando por el por qué en lugar de por el que.
 
-**El Principio del Circulo de Oro como Marco para Comunicar el Negocio desde el Por Que que Activa el Sistema Limbico en Lugar del Que que Solo Activa el Neocortex:** Simon Sinek propone en Start with Why que la mayoría de las empresas comunican de fuera hacía adentro (que hacen, cómo lo hacen, y raramente por qué lo hacen) mientras que las empresas y líderes más inspiradores comunican de dentro hacía afuera (por qué existen, cómo lo hacen, y que hacen como resultado). La diferencia no es solo retorica: el por qué activa el sistema limbico (que gobierna las decisiones y las emociones) mientras que el que activa el neocortex (que procesa hechos y logica).
+**El Principio del Circulo de Oro como Marco para Comunicar el Negocio desde el Por Que que Activa el Sistema Limbico en Lugar del Que que Solo Activa el Neocortex:** Simon Sinek propone en Start with Why que la mayoría de las empresas comunican de fuera hacía adentro (que hacen, cómo lo hacen, y raramente por qué lo hacen) mientras que las empresas y líderes más inspiradores comunican de dentro hacía afuera (por qué existen, cómo lo hacen, y que hacen como resultado). La diferencia no es solo retorica: el por qué activa el sistema limbico (que gobierna las decisiones y las emociones) mientras que el que activa el neocortex (que procesa hechos y lógica).
 
 La investigación de Gerald Zaltman muestra que el 95% de las decisiones de compra son inconscientes y emocionalmente influenciadas. Las comunicaciones que empiezan por el por qué tienen mayor probabilidad de conectar con ese sistema de decisión emocional.
 
@@ -65,9 +65,9 @@ La empresa que sabe comunicar su por qué atrae a las personas que tienen el mis
 
 Lucia ha aprendido que cuando su visión del negocio es clara, las decisiones de su equipo son más alineadas incluso cuando ella no esta presente.
 
-**El Principio de la Visión como Sistema de Toma de Decisiones Distribuido que Permite al Equipo Actuar de Forma Alineada sin Supervisión Constante:** Jim Collins en Good to Great muestra que una de las caracteristicas de las empresas que pasan de buenas a excelentes es la claridad de visión que permite a los empleados tomar decisiones consistentes con la dirección de la empresa sin necesidad de consultar constantemente a la dirección.
+**El Principio de la Visión como Sistema de Toma de Decisiones Distribuido que Permite al Equipo Actuar de Forma Alineada sin Supervisión Constante:** Jim Collins en Good to Great muestra que una de las características de las empresas que pasan de buenas a excelentes es la claridad de visión que permite a los empleados tomar decisiones consistentes con la dirección de la empresa sin necesidad de consultar constantemente a la dirección.
 
-La investigación de Chip y Dan Heath sobre la comunicación de las ideas muestra que las ideas pegajosas (que se recuerdan y que guian el comportamiento) tienen caracteristicas específicas: son simples, inesperadas, concretas, creibles, emotivas, y cuentan una historia. Una visión bien comunicada tiene estas caracteristicas: es lo suficientemente simple para recordarse, lo suficientemente concreta para guiar decisiones, y lo suficientemente emotiva para inspirar acción.
+La investigación de Chip y Dan Heath sobre la comunicación de las ideas muestra que las ideas pegajosas (que se recuerdan y que guian el comportamiento) tienen características específicas: son simples, inesperadas, concretas, creibles, emotivas, y cuentan una historia. Una visión bien comunicada tiene estas características: es lo suficientemente simple para recordarse, lo suficientemente concreta para guiar decisiones, y lo suficientemente emotiva para inspirar acción.
 
 **Ejercicio inmediato:** Pide a tres miembros de tu equipo (si tienes equipo) que te expliquen con sus propias palabras cual es la visión de la empresa y que decisiones esa visión guiaria en situaciones específicas. La discrepancia entre lo que escuchas y lo que tu pensabas que habían entendido es el mapa de trabajo de comunicación de visión que tienes por hacer.
 
@@ -79,7 +79,7 @@ La visión que solo entiende el fundador es una visión que solo puede ejecutar 
 
 Marcos ha aprendido que el proposito no es decorativo. Informa activamente las decisiones estratégicas.
 
-**El Principio del Proposito como Marco de Decisiones Estrategicas que Facilita el No a Oportunidades que Parecen Atractivas pero que No Sirven al Por Que del Negocio:** Michael Porter propone que la estrategia es tanto lo que decides no hacer cómo lo que decides hacer: la coherencia estratégica requiere sacrificar oportunidades que parecen buenas pero que dispersan los recursos hacía áreas que no refuerzan la propuesta de valor central.
+**El Principio del Proposito como Marco de Decisiones Estratégicas que Facilita el No a Oportunidades que Parecen Atractivas pero que No Sirven al Por Que del Negocio:** Michael Porter propone que la estrategia es tanto lo que decides no hacer cómo lo que decides hacer: la coherencia estratégica requiere sacrificar oportunidades que parecen buenas pero que dispersan los recursos hacía áreas que no refuerzan la propuesta de valor central.
 
 Steve Jobs, cuando volvio a Apple en 1997, redujó la linea de productos de la empresa en un 70% aplicando un filtro simple: ¿este producto sirve al por qué de Apple (empoderar la creatividad del individuo)? Si no, se elimina. Esa claridad de proposito permitio a Apple enfocarse en los productos que si cumplian el criterio y producir lo que se convertiria en el Imac, el Ipod, el Iphone, y el Ipad.
 
@@ -95,7 +95,7 @@ Carlos ha intentado articular el proposito de su negocio y cada vez que lo hace 
 
 **El Principio del Proposito Autentico como Emergente del Proceso de Busqueda en Lugar de Diseñado de Fuera Hacia Dentro:** Simon Sinek en Find Your Why propone un proceso de descubrimiento del proposito que incluye: la recopilación de historias de momentos en que el fundador se ha sentido más orgulloso del negocio y más conectado con lo que hace, el análisis de los temas y contribuciones comunes que emergen de esas historias, y la formulación del proposito cómo una contribución específica a un cambio específico.
 
-Bill Damon en La senda del bien propone que el proposito genuino tiene dos caracteristicas: importa genuinamente a la persona (produce energía y motivación intrinsecos) y produce algo de valor para el mundo más allá de los beneficios del propio individuo. El proposito que no cumple las dos condiciones es o motivación personal sin impacto externo o altruismo sin combustible interno.
+Bill Damon en La senda del bien propone que el proposito genuino tiene dos características: importa genuinamente a la persona (produce energía y motivación intrinsecos) y produce algo de valor para el mundo más allá de los beneficios del propio individuo. El proposito que no cumple las dos condiciones es o motivación personal sin impacto externo o altruismo sin combustible interno.
 
 **Ejercicio inmediato:** Para descubrir el proposito autentico de tu negocio, escribe las respuestas a las siguientes preguntas: ¿que problema en el mundo te molesta genuinamente y que tu negocio podría resolver? ¿Cual es la historia del momento en que sentiste mayor orgullo de lo que hace tu empresa? ¿Que dirian tus mejores clientes que has cambiado en su vida o negocio? Los temas comunes que emergen de esas tres respuestas son los componentes del proposito que está buscando.
 

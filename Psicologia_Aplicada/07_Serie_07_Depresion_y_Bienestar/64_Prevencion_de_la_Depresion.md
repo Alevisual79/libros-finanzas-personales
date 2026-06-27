@@ -21,7 +21,7 @@ Isabel ha salido de su segundo episodio depresivo y tiene una certeza: no quiere
 
 ## Capítulo 1: Por qué la prevención importa: el modeló del kindling
 
-La depresión tiene una logica de escalada que hace que la prevención sea más urgente de lo que parece.
+La depresión tiene una lógica de escalada que hace que la prevención sea más urgente de lo que parece.
 
 **El Principio del Kindling como Razon para la Prevención Proactiva:** Robert Post propone el modelo del kindling (encendido) para explicar la progresión de los episodios depresivos: los primeros episodios depresivos requieren precipitantes significativos (perdidas importantes, estresores mayores), pero con cada episodio sucesivo, los umbrales se reducen y la depresión puede activarse con estresores menores o incluso autonomamente. Este fenómeno, bien documentado en el trastorno bipolar pero también observable en la depresión unipolar, hace que la prevención de los primeros episodios (en personas con vulnerabilidad) y de los episodios subsiguientes (en personas con historia de episodios) sea una prioridad clinica.
 
@@ -79,7 +79,7 @@ El sueño que le niegas a tu cerebro no es solo una noche de descanso. Es una do
 
 Isabel ha descubierto que sus episodios depresivos ocurren invariablemente después de períodos de aislamiento social. La conexión social no es un lujo: es un factor protector.
 
-**El Principio de la Conexion Social como Factor Protector de Primera Magnitud:** John Cacioppo, investigador de la soledad, propone que el aislamiento social tiene efectos fisiologicos directos comparables a factores de riesgo clasicos como el tabaco: activa el sistema de amenaza, aumenta la inflamación sistemica, y perturba el sueño. Sus estudios muestran que la soledad predice el deterioro cognitivo, la morbilidad, y la mortalidad de forma robusta.
+**El Principio de la Conexion Social como Factor Protector de Primera Magnitud:** John Cacioppo, investigador de la soledad, propone que el aislamiento social tiene efectos fisiológicos directos comparables a factores de riesgo clasicos como el tabaco: activa el sistema de amenaza, aumenta la inflamación sistemica, y perturba el sueño. Sus estudios muestran que la soledad predice el deterioro cognitivo, la morbilidad, y la mortalidad de forma robusta.
 
 La investigación de George Vaillant en el Estudio Longitudinal de Harvard (seguimiento de setenta y cinco años) identifica la calidad de las relaciones como el predictor más robusto de bienestar en la vejez, más que los ingresos, la inteligencia, o el estatus social. Las relaciones de calidad no solo hacen la vida más agradable: cambian la biología de forma que protege la salud mental.
 
@@ -93,7 +93,7 @@ Las relaciones no son complementos de la vida: son infraestructura de la salud m
 
 Ruben vive con un nivel de estres cronico que normalizo hace años. La investigación le muestra el coste de esa normalización.
 
-**El Principio del Estres Cronico como Factor de Riesgo Modificable para la Depresión:** La investigación de Bruce McEwen sobre la carga alosttica muestra que el estres cronico produce cambios fisiologicos acumulativos en el cerebro y el cuerpo que aumentan la vulnerabilidad a la depresión: atrofia del hipocampo, hiperactividad del eje HPA (hipotalamo-hipofisis-suprarrenal), y aumento de la inflamación sistemica.
+**El Principio del Estres Cronico como Factor de Riesgo Modificable para la Depresión:** La investigación de Bruce McEwen sobre la carga alosttica muestra que el estres cronico produce cambios fisiológicos acumulativos en el cerebro y el cuerpo que aumentan la vulnerabilidad a la depresión: atrofia del hipocampo, hiperactividad del eje HPA (hipotalamo-hipofisis-suprarrenal), y aumento de la inflamación sistemica.
 
 La investigación sobre el burnout de Christina Maslach muestra que el agotamiento cronico producido por el exceso de demanda sin suficiente recuperación es un precursor común de la depresión. La intervención sobre el estres cronico (reducción de las fuentes de estres, desarrollo de estrategias de recuperación, establecimiento de límites) es una forma de prevención de la depresión.
 
@@ -111,7 +111,7 @@ Elena ha aprendido que parte de su vulnerabilidad a la depresión es la dificult
 
 La investigación de Marsha Linehan sobre el trastorno límite de personalidad (que tiene alta comorbilidad con la depresión) identifica la desregulación emocional (alta sensibilidad emocional, alta reactividad, lenta recuperación) cómo la vulnerabilidad central que el tratamiento debe abordar. Sus habilidades de DBT (tolerancia al malestar, regulación emocional, mindfulness, efectividad interpersonal) son aplicables a la prevención de la depresión en personas con alta reactividad emocional.
 
-**Ejercicio inmediato:** La próxima vez que experimentes una emoción negativa intensa, práctica el protocolo TIPP de Linehan: Temperatura (agua fria en la cara o munieca para reducir la activación fisiologica), Ejercicio intenso breve (para reducir la activación del sistema nervioso), Respiración pausada, y Relajación muscular progresiva. No para eliminar la emoción sino para reducir la intensidad fisiologica antes de trabajar con el contenido.
+**Ejercicio inmediato:** La próxima vez que experimentes una emoción negativa intensa, práctica el protocolo TIPP de Linehan: Temperatura (agua fria en la cara o munieca para reducir la activación fisiológica), Ejercicio intenso breve (para reducir la activación del sistema nervioso), Respiración pausada, y Relajación muscular progresiva. No para eliminar la emoción sino para reducir la intensidad fisiológica antes de trabajar con el contenido.
 
 La emoción que no puedes regular te arrastra. La que puedes regular la navegas.
 

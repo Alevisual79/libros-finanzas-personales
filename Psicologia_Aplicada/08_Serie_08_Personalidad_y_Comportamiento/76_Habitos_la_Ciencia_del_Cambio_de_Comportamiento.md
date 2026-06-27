@@ -39,7 +39,7 @@ Ruben quiere construir habitos de ejercicio pero los que ha intentado siempre se
 
 **El Principio de los Habitos Minimos como Base para los Grandes:** James Clear propone en Habitos Atomicos que el error más común en el cambio de comportamiento es intentar cambios demasiado grandes demasiado pronto. La alternativa es la regla de los dos minutos: la versión inicial de cualquier habito debería durar no más de dos minutos. No hacer ejercicio treinta minutos sino ponerse la ropa de deporte. No escribir un capítulo sino abrir el documento y escribir una frase.
 
-El mecanismo es neurologico: los habitos se consolidan a traves de la repetición, y la repetición requiere que el comportamiento ocurra. Un comportamiento de dos minutos que ocurre todos los dias durante un mes produce más consolidación del habito que un comportamiento de treinta minutos que ocurre tres veces y luego se abandona. La consistencia es más importante que la intensidad en la formación inicial del habito.
+El mecanismo es neurológico: los habitos se consolidan a traves de la repetición, y la repetición requiere que el comportamiento ocurra. Un comportamiento de dos minutos que ocurre todos los dias durante un mes produce más consolidación del habito que un comportamiento de treinta minutos que ocurre tres veces y luego se abandona. La consistencia es más importante que la intensidad en la formación inicial del habito.
 
 **Ejercicio inmediato:** Para el habito que más te cuesta sostener, reduce su versión al mínimo posible: no la sesión de ejercicio completa sino los primeros dos minutos de la sesión; no la meditación de veinte minutos sino sentarse en silencio durante un minuto. práctica esa versión mínima todos los dias durante dos semanas antes de expandirla. La versión mínima que ocurre diario construye el habito que la versión maxima que ocurre rara vez no puede.
 
@@ -51,7 +51,7 @@ El habito ambicioso que abandonas en diez dias produce menos cambio que el habit
 
 Elena tiene habitos establecidos pero no sabe como usar los existentes para construir los nuevos.
 
-**El Principio del Stacking de Habitos como Estrategia para Anclar Nuevos Comportamientos:** BJ Fogg, investigador del Laboratorio de Tecnologia Persuasiva de Stanford, propone el concepto de habito diminuto y la formula: después de hacer [HABITO EXISTENTE], hare [NUEVO COMPORTAMIENTO MINIMO]. Esta formula aprovecha la estructura neurologica del habito existente (la señal esta ya establecida) para anclar el nuevo comportamiento.
+**El Principio del Stacking de Habitos como Estrategia para Anclar Nuevos Comportamientos:** BJ Fogg, investigador del Laboratorio de Tecnologia Persuasiva de Stanford, propone el concepto de habito diminuto y la formula: después de hacer [HABITO EXISTENTE], hare [NUEVO COMPORTAMIENTO MINIMO]. Esta formula aprovecha la estructura neurológica del habito existente (la señal esta ya establecida) para anclar el nuevo comportamiento.
 
 Fogg ha demostrado con miles de participantes en su programa Tiny Habits que los habitos se consolidan más rápido cuando se anclan a comportamientos existentes que cuando se intentan anclar solo a horas o lugares. La razón es que el habito existente ya tiene una señal consolidada en los ganglios basales, y esa señal puede usarse como detonador del nuevo comportamiento.
 

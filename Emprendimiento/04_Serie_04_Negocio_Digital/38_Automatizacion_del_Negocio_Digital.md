@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos trabaja doce horas diarias en su negocio digital y cuando para de trabajar, el negocio para. Lucia tiene claro que quiere un negocio más automatizado pero cada vez que intenta automatizar algo se enreda en la tecnología y acaba haciendo las cosas manualmente. Marcos viene del mundo corporativo donde la automatización era responsabilidad del departamento de IT y no sabe por donde empezar como emprendedor individual. Los tres necesitan entender algo fundamental: la automatización del negocio digital no es solo una herramienta de eficiencia. Es el componente que distingue el negocio que escala del que tiene un techo limitado por las horas del fundador. Y en 2024, automatizar un negocio digital no requiere conocimiento técnico avanzado: requiere entender la logica correcta.
+Carlos trabaja doce horas diarias en su negocio digital y cuando para de trabajar, el negocio para. Lucia tiene claro que quiere un negocio más automatizado pero cada vez que intenta automatizar algo se enreda en la tecnología y acaba haciendo las cosas manualmente. Marcos viene del mundo corporativo donde la automatización era responsabilidad del departamento de IT y no sabe por donde empezar como emprendedor individual. Los tres necesitan entender algo fundamental: la automatización del negocio digital no es solo una herramienta de eficiencia. Es el componente que distingue el negocio que escala del que tiene un techo limitado por las horas del fundador. Y en 2024, automatizar un negocio digital no requiere conocimiento técnico avanzado: requiere entender la lógica correcta.
 
 ---
 
@@ -51,7 +51,7 @@ El flow de email que configuras esta semana sigue enviandose el año que viene s
 
 Marcos ha implementado un CRM automatizado y ha dejado de perder oportunidades de negocio por falta de seguimiento.
 
-**El Principio del CRM Automatizado como El Sistema que Rastrea El Estado de Cada Lead y Cliente en El Pipeline de Ventas y Activa Acciones Automaticas (Emails, Recordatorios, Tareas) Basadas en El Comportamiento y El Estado de Cada Contacto:** El problema más común del emprendedor sin CRM es perder leads por falta de seguimiento: alguien muestra interés, hay una conversación inicial, y después el lead se enfria porque el emprendedor no hizo seguimiento en el momento correcto. Un CRM con automatización resuelve ese problema activando secuencias de seguimiento automático en los momentos precisos.
+**El Principio del CRM Automatizado como El Sistema que Rastrea El Estado de Cada Lead y Cliente en El Pipeline de Ventas y Activa Acciones Automáticas (Emails, Recordatorios, Tareas) Basadas en El Comportamiento y El Estado de Cada Contacto:** El problema más común del emprendedor sin CRM es perder leads por falta de seguimiento: alguien muestra interés, hay una conversación inicial, y después el lead se enfria porque el emprendedor no hizo seguimiento en el momento correcto. Un CRM con automatización resuelve ese problema activando secuencias de seguimiento automático en los momentos precisos.
 
 Las herramientas de CRM para el emprendedor individual o el equipo pequeño van desde las más simples y gratuitas (HubSpot CRM gratuito, que ya incluye automatización basica) hasta las más completas y de pago (ActiveCampaign, que combina email marketing y CRM con automatización avanzada).
 
@@ -65,7 +65,7 @@ El lead que no esta en el CRM no existe para el negocio. El que esta, puede reci
 
 Carlos ha automatizado la programación de contenido en redes sociales y ha recuperado dos horas diarias que ahora dedica a trabajo de mayor valor.
 
-**El Principio de La Programación y Distribución Automatica de Contenido en Redes Sociales como La Estrategia que Permite Mantener Presencia Consistente en Multiples Plataformas sin Tener que Publicar Manualmente en Tiempo Real:** Buffer, Hootsuite, o Later (herramientas de programación de redes sociales) permiten crear el contenido de toda la semana o el mes en un bloque concentrado de tiempo y programarlo para que se publique automáticamente en los horarios optimos de cada plataforma.
+**El Principio de La Programación y Distribución Automática de Contenido en Redes Sociales como La Estrategia que Permite Mantener Presencia Consistente en Multiples Plataformas sin Tener que Publicar Manualmente en Tiempo Real:** Buffer, Hootsuite, o Later (herramientas de programación de redes sociales) permiten crear el contenido de toda la semana o el mes en un bloque concentrado de tiempo y programarlo para que se publique automáticamente en los horarios optimos de cada plataforma.
 
 Cal Newport en Deep Work propone que el trabajo de mayor valor (el trabajo creativo, estratégico, y de alta concentración) debe hacerse en bloques de tiempo ininterrumpido. La gestión reactiva de redes sociales (publicar en el momento, responder a cada notificación en tiempo real) fragmenta el tiempo de trabajo y destruye la capacidad de trabajo profundo.
 
@@ -105,13 +105,13 @@ Cada factura que generas manualmente es un proceso que puedes automatizar una so
 
 ## Capítulo 7: Los conectores de automatización: cómo hacer que todas las herramientas hablen entre si
 
-Carlos ha descubierto las plataformas de automatización sin codigo que conectan todas sus herramientas sin necesidad de programación.
+Carlos ha descubierto las plataformas de automatización sin código que conectan todas sus herramientas sin necesidad de programación.
 
-**El Principio de Los Conectores de Automatización como Las Plataformas que Permiten Conectar Diferentes Herramientas de Negocio Sin Conocimiento de Programación Mediante Reglas de Si-Entonces Que Automatizan Los Flujos de Información Entre Sistemas:** Zapier, Make (antes Integromat), y n8n son plataformas de automatización sin codigo que actuan como conectores entre las diferentes herramientas del negocio digital. Su logica es simple: cuando ocurre un evento en la herramienta A (trigger), automáticamente se realiza una acción en la herramienta B (action).
+**El Principio de Los Conectores de Automatización como Las Plataformas que Permiten Conectar Diferentes Herramientas de Negocio Sin Conocimiento de Programación Mediante Reglas de Si-Entonces Que Automatizan Los Flujos de Información Entre Sistemas:** Zapier, Make (antes Integromat), y n8n son plataformas de automatización sin código que actuan como conectores entre las diferentes herramientas del negocio digital. Su lógica es simple: cuando ocurre un evento en la herramienta A (trigger), automáticamente se realiza una acción en la herramienta B (action).
 
 Por ejemplo: cuando alguien rellena el formulario de contacto de la web (trigger), automáticamente se crea un contacto en el CRM (action 1), se envia un email de bienvenida (action 2), y se añade a una lista específica de Slack para notificar al equipo (action 3). Todo sin intervención manual.
 
-**Ejercicio inmediato:** Identifica una sola integración que te ahorraria más tiempo si estuviera automatizada (por ejemplo, pasar manualmente los contactos de un formulario al CRM, o publicar en redes sociales cuando públicas un nuevo articulo de blog, o notificar por Slack cuando recibes un nuevo pago). Configura esa unica automatización en Zapier (tiene plan gratuito con hasta cien tareas al mes). Una automatización bien configurada te dara la confianza y el aprendizaje para implementar la siguiente.
+**Ejercicio inmediato:** Identifica una sola integración que te ahorraria más tiempo si estuviera automatizada (por ejemplo, pasar manualmente los contactos de un formulario al CRM, o publicar en redes sociales cuando públicas un nuevo artículo de blog, o notificar por Slack cuando recibes un nuevo pago). Configura esa unica automatización en Zapier (tiene plan gratuito con hasta cien tareas al mes). Una automatización bien configurada te dara la confianza y el aprendizaje para implementar la siguiente.
 
 La primera automatización que configuras te enseña más que todo lo que has leido sobre automatización hasta ahora.
 
@@ -149,7 +149,7 @@ La automatización que no se mide puede seguir ejecutandose aunque haya dejado d
 
 Carlos ha construido un negocio digital que funciona con mayor eficiencia porque los sistemas hacen la mayor parte del trabajo rutinario.
 
-**El Principio del Negocio Digital Automatizado como El Sistema Donde Los Flujos de Trabajo Criticos (Captación, Nurturing, Venta, Onboarding, Atención al Cliente) Estan Automatizados de Forma que El Fundador Puede Concentrar Su Tiempo en El Trabajo de Mayor Valor Estrategico:** El objetivo final de la automatización del negocio digital no es eliminar el trabajo del fundador (que siempre necesitara juicio, creatividad, y relaciones) sino liberar su tiempo de las tareas repetitivas para que pueda dedicarse al trabajo de mayor valor: la estrategia, las relaciones con clientes clave, el producto, y el crecimiento.
+**El Principio del Negocio Digital Automatizado como El Sistema Donde Los Flujos de Trabajo Críticos (Captación, Nurturing, Venta, Onboarding, Atención al Cliente) Estan Automatizados de Forma que El Fundador Puede Concentrar Su Tiempo en El Trabajo de Mayor Valor Estratégico:** El objetivo final de la automatización del negocio digital no es eliminar el trabajo del fundador (que siempre necesitara juicio, creatividad, y relaciones) sino liberar su tiempo de las tareas repetitivas para que pueda dedicarse al trabajo de mayor valor: la estrategia, las relaciones con clientes clave, el producto, y el crecimiento.
 
 Ray Dalio en Principios propone que el trabajo de los líderes es diseñar la maquina que produce los resultados, no ser la maquina ellos mismos. La automatización es la herramienta que convierte al fundador en diseñador del sistema en lugar de en ejecutor del sistema.
 

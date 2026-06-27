@@ -101,7 +101,7 @@ La mascara protege. Pero también aisla. Elegir cuando quitarsela es uno de los 
 
 ## Capítulo 6: Como tu familia de origen moldea tus relaciones
 
-Hay frases que se repiten en las familias como si fueran verdades universales: los hombres no lloran, el dinero es para gastarlo, no fies de nadie, la familia es lo primero. Se transmiten sin cuestionarse de generación en generación y se convierten en el codigo invisible con el que interpretamos todas nuestras relaciones.
+Hay frases que se repiten en las familias como si fueran verdades universales: los hombres no lloran, el dinero es para gastarlo, no fies de nadie, la familia es lo primero. Se transmiten sin cuestionarse de generación en generación y se convierten en el código invisible con el que interpretamos todas nuestras relaciones.
 
 **El Principio de la Herencia Relacional:** La familia de origen es la primera y más potente escuela relacional que tenemos. Ahi aprendemos si el mundo es seguro o peligroso, si el amor es incondicional o tiene precio, si los conflictos se resuelven con diálogo o con silencio. Esas lecciones no se aprenden en libros. Se aprenden en el cuerpo, en el sistema nervioso, en los patrones automáticos que luego aplicamos sin recordar de dónde vienen.
 

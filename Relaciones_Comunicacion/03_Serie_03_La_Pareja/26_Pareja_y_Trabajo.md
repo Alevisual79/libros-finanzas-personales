@@ -77,7 +77,7 @@ La carga domestica que no se ve es la que más pesa.
 
 La ambición profesional de uno de los miembros de la pareja puede generar tensión cuando implica sacrificios que afectan al otro: traslados, jornadas extremas, períodos de inversión de tiempo que reducen drasticamente la disponibilidad para la relación.
 
-**El Principio del Apoyo Mutuo a la Ambición:** Las parejas que navegan bien la ambición individual de cada uno tienen una caracteristica común: tratan los proyectos de carrera del otro como proyectos de la pareja, no como amenazas individuales a gestionar. Esto requiere negociación explícita sobre los límites de los sacrificios aceptables (cuanto tiempo, cuanto traslado, cuanta inversión económica) y la disposición de turnarse el apoyo: en un período apoyo tu ambición, en otro apoyas la mia.
+**El Principio del Apoyo Mutuo a la Ambición:** Las parejas que navegan bien la ambición individual de cada uno tienen una característica común: tratan los proyectos de carrera del otro como proyectos de la pareja, no como amenazas individuales a gestionar. Esto requiere negociación explícita sobre los límites de los sacrificios aceptables (cuanto tiempo, cuanto traslado, cuanta inversión económica) y la disposición de turnarse el apoyo: en un período apoyo tu ambición, en otro apoyas la mia.
 
 **Ejercicio inmediato:** Hablen de los proyectos de ambición profesional de cada uno para los próximos tres años. Identifiquen donde podrían chocar (tiempo, ubicación, dinero) y negocien anticipadamente como apoyarse mutuamente sin que ninguno sacrifique permanentemente sus propios proyectos.
 

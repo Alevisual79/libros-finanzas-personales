@@ -93,7 +93,7 @@ El crecimiento que emerge del trauma no ocurre en el vacio. Las relaciones que t
 
 Ruben se pregunta si el hecho de que todavia tenga sintomas del trauma significa que no ha habido crecimiento.
 
-**El Principio de la Coexistencia del Crecimiento y el Sufrimiento como Fenomeno Normal:** La investigación empirica muestra de forma consistente que el crecimiento y el TEPT no son mutuamente excluyentes: muchas personas reportan tanto sintomas del TEPT como cambios positivos significativos al mismo tiempo.
+**El Principio de la Coexistencia del Crecimiento y el Sufrimiento como Fenómeno Normal:** La investigación empirica muestra de forma consistente que el crecimiento y el TEPT no son mutuamente excluyentes: muchas personas reportan tanto sintomas del TEPT como cambios positivos significativos al mismo tiempo.
 
 Algunos estudios muestran una relación en forma de U invertida entre la severidad del trauma y el crecimiento: el trauma demasiado leve no desafia suficientemente los esquemas, y el demasiado severo puede sobrepasar la capacidad de procesamiento. Los traumas de severidad moderada-alta con recursos suficientes son los que más frecuentemente producen crecimiento.
 

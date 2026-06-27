@@ -39,7 +39,7 @@ Ruben ha buscado la felicidad en los logros profesionales. La investigación sug
 
 **El Principio de las Relaciones de Calidad como el Predictor más Robusto y Consistente de Bienestar a Largo Plazo:** El Harvard Study of Adult Development, que ha seguido a cientos de hombres desde la adolescencia durante más de ochenta años, es uno de los estudios longitudinales más largos sobre la felicidad. Su conclusión principal, presentada por Robert Waldinger y Marc Schulz: la calidad de las relaciones cercanas es el predictor más robusto de la salud física y el bienestar a los setenta y ochenta años, más que el estatus socioeconomico, la inteligencia, o el estilo de vida.
 
-La investigación de John Cacioppo y William Patrick sobre la soledad muestra que la soledad cronica es tan perjudicial para la salud como fumar quince cigarrillos al dia, y que sus efectos biologicos incluyen mayor activación del sistema inmune inflamatorio, mayor presión sanguinea, y menor calidad del sueño.
+La investigación de John Cacioppo y William Patrick sobre la soledad muestra que la soledad cronica es tan perjudicial para la salud como fumar quince cigarrillos al dia, y que sus efectos biológicos incluyen mayor activación del sistema inmune inflamatorio, mayor presión sanguinea, y menor calidad del sueño.
 
 **Ejercicio inmediato:** Reflexiona sobre el tiempo que dedicas a las relaciones cercanas en comparación con el tiempo que dedicas a logros profesionales o materiales. Muchas personas descubren que invierten la mayor parte de su energía en lo que menos impacto tiene en su bienestar a largo plazo. Esta semana, identifica una relación importante que has descuidado y toma una acción concreta para nutrirla.
 
@@ -51,7 +51,7 @@ En el final del camino, la pregunta no es cuanto conseguiste. Es con quien estab
 
 Isabel ha aprendido que la gratitud no es solo una virtud ética. Es una herramienta psicológica con efectos medibles.
 
-**El Principio de la Gratitud como Interrupción Deliberada de la Adaptación Hedonica:** La investigación de Robert Emmons y Michael McCullough sobre las intervenciones de gratitud muestra que las personas asignadas a escribir tres cosas por las que estan agradecidas cada semana durante diez semanas reportan mayor bienestar subjetivo, mejor salud física, y mayor satisfacción con la vida que los grupos de control. El efecto no es trivial: el tamaño del efecto es similar al de algunas intervenciones farmacologicas para la depresión leve.
+**El Principio de la Gratitud como Interrupción Deliberada de la Adaptación Hedonica:** La investigación de Robert Emmons y Michael McCullough sobre las intervenciones de gratitud muestra que las personas asignadas a escribir tres cosas por las que estan agradecidas cada semana durante diez semanas reportan mayor bienestar subjetivo, mejor salud física, y mayor satisfacción con la vida que los grupos de control. El efecto no es trivial: el tamaño del efecto es similar al de algunas intervenciones farmacológicas para la depresión leve.
 
 El mecanismo propuesto es que la gratitud interrumpe la adaptación hedonica al dirigir deliberadamente la atención hacía lo positivo que se tiene (que el cerebro tiende a ignorar porque ya está adaptado a ello) en lugar de focalizarse en lo que falta.
 

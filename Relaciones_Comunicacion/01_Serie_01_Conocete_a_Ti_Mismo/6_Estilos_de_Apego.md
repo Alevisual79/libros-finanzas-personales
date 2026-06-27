@@ -31,7 +31,7 @@ Tu estilo de apego no te condena. Te explica. Y lo que se explica, se puede camb
 
 John Bowlby era un psicoanalista britanico que en los años 60 hizo algo que sus colegas consideraron una herejia: propuso que los seres humanos tienen una necesidad biológica de conexión, tan basica cómo la necesidad de alimento. Que los niños no se apegan a sus cuidadores por costumbre sino por supervivencia. Y que la calidad de ese apego temprano deja una huella que dura toda la vida.
 
-**El Principio del Sistema de Apego:** El apego es el sistema neurologico que regula la busqueda de proximidad con figuras de seguridad cuando percibimos amenaza. En la infancia, esas figuras son los cuidadores. En la vida adulta, son las parejas, los amigos cercanos y en ciertos momentos, los terapeutas. Cuando el sistema de apego se activa, busca conexión. Cuando la encuentra de forma consistente, aprende a confiar. Cuando no la encuentra o la encuentra de forma impredecible, desarrolla estrategias alternativas de supervivencia que llamamos apego inseguro.
+**El Principio del Sistema de Apego:** El apego es el sistema neurológico que regula la busqueda de proximidad con figuras de seguridad cuando percibimos amenaza. En la infancia, esas figuras son los cuidadores. En la vida adulta, son las parejas, los amigos cercanos y en ciertos momentos, los terapeutas. Cuando el sistema de apego se activa, busca conexión. Cuando la encuentra de forma consistente, aprende a confiar. Cuando no la encuentra o la encuentra de forma impredecible, desarrolla estrategias alternativas de supervivencia que llamamos apego inseguro.
 
 Mary Ainsworth, colaboradora de Bowlby, diseño el experimento de la Situación Extrana para estudiar las diferentes formas en que los bebes respondian a la separación temporal de su cuidador. Los resultados revelaron cuatro patrones distintos que se observan también, con variaciones, en adultos.
 
@@ -101,7 +101,7 @@ Cuando el amor da miedo, el miedo no es al amor. Es al dolor que el amor histór
 
 La combinación más común y más conflictiva en pareja es la del ansioso con el evitativo. El ansioso necesita confirmación constante. El evitativo se siente agobiado por esa necesidad y se retira. El ansioso, ante la retirada, eleva su busqueda de confirmación. El evitativo, ante la escalada, se retira más. Ninguno de los dos entiende por qué el otro actua como actua. Y los dos sufren.
 
-**El Principio de la Danza de los Estilos:** Cada par de estilos de apego crea una danza caracteristica. El ansioso-ansioso crea hipervinculos intensos con explosiones frecuentes. El evitativo-evitativo crea convivencia fria con mucha independencia y poca intimidad. El seguro con cualquier inseguro tiende a estabilizar al inseguro, aunque no sin coste. La clave es entender la danza para poder salir de ella.
+**El Principio de la Danza de los Estilos:** Cada par de estilos de apego crea una danza característica. El ansioso-ansioso crea hipervinculos intensos con explosiones frecuentes. El evitativo-evitativo crea convivencia fria con mucha independencia y poca intimidad. El seguro con cualquier inseguro tiende a estabilizar al inseguro, aunque no sin coste. La clave es entender la danza para poder salir de ella.
 
 Amir Levine y Rachel Heller, autores del libro Maneras de Amar, documentaron que la mayoría de las personas con apego ansioso terminan en relaciones con personas de apego evitativo. No por azar. Por el atractivo de lo que complementa la herida, aunque no la cure.
 

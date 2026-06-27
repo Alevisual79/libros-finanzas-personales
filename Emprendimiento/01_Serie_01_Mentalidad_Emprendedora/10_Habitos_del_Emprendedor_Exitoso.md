@@ -51,7 +51,7 @@ La mañana que controlas antes de que nadie te llame es la que determina la cali
 
 Lucia ha convertido la revisión semanal en el habito de mayor retorno de su semana.
 
-**El Principio de la Revisión Semanal como el Habito que Convierte la Experiencia en Aprendizaje y Produce Claridad Estrategica en el Negocio de Forma Regular:** David Allen en GTD propone la revisión semanal como el habito central del sistema de productividad: revisar todas las áreas de responsabilidad, actualizar el estado de los proyectos, identificar las prioridades de la semana siguiente, y asegurar que nada importante se pierde entre las urgencias del dia a dia.
+**El Principio de la Revisión Semanal como el Habito que Convierte la Experiencia en Aprendizaje y Produce Claridad Estratégica en el Negocio de Forma Regular:** David Allen en GTD propone la revisión semanal como el habito central del sistema de productividad: revisar todas las áreas de responsabilidad, actualizar el estado de los proyectos, identificar las prioridades de la semana siguiente, y asegurar que nada importante se pierde entre las urgencias del dia a dia.
 
 Para el emprendedor, la revisión semanal tiene una dimensión adicional: la revisión de las metricas clave del negocio (ingresos, gastos, pipeline de ventas, principales KPIs del producto) que produce una visión de la situación real del negocio que el trabajo dia a dia frecuentemente oscurece.
 
@@ -65,7 +65,7 @@ La empresa que reviews semanalmente la gestionas. La que solo revisas en crisis 
 
 Marcos ha desarrollado el habito de dedicar tiempo semanal a nutrir relaciones que no tienen agenda inmediata.
 
-**El Principio de la Conexion Relacional como Habito Estrategico que Construye el Capital Social del Emprendedor de Forma Consistente sin Depender de las Urgencias:** La investigación de Adam Grant en Give and Take muestra que los profesionales más exitosos a largo plazo no son los que más toman sino los que dan más valor a su red, incluyendo cuando no hay una necesidad inmediata de esa red. El capital social (las relaciones de confianza y reciprocidad) se construye en los momentos en que no se necesita y se usa en los momentos en que si se necesita.
+**El Principio de la Conexion Relacional como Habito Estratégico que Construye el Capital Social del Emprendedor de Forma Consistente sin Depender de las Urgencias:** La investigación de Adam Grant en Give and Take muestra que los profesionales más exitosos a largo plazo no son los que más toman sino los que dan más valor a su red, incluyendo cuando no hay una necesidad inmediata de esa red. El capital social (las relaciones de confianza y reciprocidad) se construye en los momentos en que no se necesita y se usa en los momentos en que si se necesita.
 
 Ivan Misner, fundador de BNI, propone que el networking de mayor calidad no es el que ocurre en eventos específicos de networking sino el que ocurre en las conversaciones regulares de mantenimiento de relaciones: el emprendedor que llama a un contacto valioso sin agenda específica más que preguntar como esta y que necesita, antes que el que solo llama cuando necesita algo.
 
@@ -107,7 +107,7 @@ Cinco minutos de reflexión al final de cada dia valen más que cien dias de exp
 
 Marcos ha descubierto que el tiempo que dedica al ejercicio físico no le quita tiempo a la productividad sino que se lo da.
 
-**El Principio del Ejercicio Fisico Regular como Herramienta de Productividad Cognitiva con Efectos Documentados en la Calidad del Pensamiento, la Regulación Emocional, y la Resiliencia al Estres:** La investigación de John Ratey, en Spark: The Revolutionary New Science of Exercise and the Brain, muestra que el ejercicio aerobico regular (treinta minutos cinco veces por semana, a intensidad moderada) aumenta la producción de BDNF (factor neutrofico derivado del cerebro), lo que mejora la neuroplasticidad, la memoria, la concentración, y la capacidad de aprendizaje.
+**El Principio del Ejercicio Físico Regular como Herramienta de Productividad Cognitiva con Efectos Documentados en la Calidad del Pensamiento, la Regulación Emocional, y la Resiliencia al Estres:** La investigación de John Ratey, en Spark: The Revolutionary New Science of Exercise and the Brain, muestra que el ejercicio aerobico regular (treinta minutos cinco veces por semana, a intensidad moderada) aumenta la producción de BDNF (factor neutrofico derivado del cerebro), lo que mejora la neuroplasticidad, la memoria, la concentración, y la capacidad de aprendizaje.
 
 La investigación de las empresas de mayor rendimiento (Google, Apple, Salesforce) muestra que invierten significativamente en las instalaciones y el tiempo para el ejercicio de sus empleados, no como beneficio social sino como inversión en productividad: el empleado que hace ejercicio regular rinde más cognitivamente, tiene menos bajas por enfermedad, y produce decisiones de mayor calidad.
 

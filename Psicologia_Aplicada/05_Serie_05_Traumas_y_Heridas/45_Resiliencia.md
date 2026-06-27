@@ -27,7 +27,7 @@ La resiliencia se presenta frecuentemente como invulnerabilidad: la persona resi
 
 Esta distinción es importante porque la imagen de la persona resiliente que nunca llora ni sufre puede producir verguenza en las personas que si sienten el impacto de la adversidad: si soy resiliente, no debería afectarme tanto. La resiliencia real incluye sentir el impacto. La diferencia esta en la recuperación.
 
-**Ejercicio inmediato:** Reflexiona sobre episodios de adversidad de tu vida pasada. En cuales de ellos pudiste recuperar un nivel de funcionamiento razonablemente normal? ¿Que caracteristicas tenían esos episodios o esas circunstancias que facilitaron la recuperación? Esa reflexión identifica los recursos de resiliencia que ya tienes disponibles, aunque no los hayas llamado asi.
+**Ejercicio inmediato:** Reflexiona sobre episodios de adversidad de tu vida pasada. En cuales de ellos pudiste recuperar un nivel de funcionamiento razonablemente normal? ¿Que características tenían esos episodios o esas circunstancias que facilitaron la recuperación? Esa reflexión identifica los recursos de resiliencia que ya tienes disponibles, aunque no los hayas llamado asi.
 
 La resiliencia que ya tienes es el punto de partida para construir más. Reconocerla antes de intentar desarrollarla.
 
@@ -37,7 +37,7 @@ La resiliencia que ya tienes es el punto de partida para construir más. Reconoc
 
 Isabel quiere construir resiliencia deliberadamente. Para ello necesita saber que factores la componen y cuales puede influir.
 
-**El Principio de la Resiliencia como Multifactorial y Dinamica:** La investigación de Emmy Werner, que siguio a 698 niños de la isla de Kauai (Hawaii) durante cuarenta años, fue uno de los primeros estudios longitudinales sobre la resiliencia y identifico factores protectores a tres niveles: individual (temperamento, capacidades cognitivas, sentido de la competencia y de la eficacia propia), familiar (al menos un cuidador estable y afectuoso, estructura y reglas claras), y comunitario (escuelas que apoyan, sistemas de fe, redes de pares positivos).
+**El Principio de la Resiliencia como Multifactorial y Dinámica:** La investigación de Emmy Werner, que siguio a 698 niños de la isla de Kauai (Hawaii) durante cuarenta años, fue uno de los primeros estudios longitudinales sobre la resiliencia y identifico factores protectores a tres niveles: individual (temperamento, capacidades cognitivas, sentido de la competencia y de la eficacia propia), familiar (al menos un cuidador estable y afectuoso, estructura y reglas claras), y comunitario (escuelas que apoyan, sistemas de fe, redes de pares positivos).
 
 La investigación posterior, sintetizada por Ann Masten en su concepto de la magia ordinaria de la resiliencia, muestra que la resiliencia no es el resultado de recursos extraordinarios sino de sistemas ordinarios funcionando bien: relaciones de apoyo, regulación emocional suficiente, autoeficacia (la creencia en la propia capacidad de afectar el entorno), y sentido de significado o proposito.
 
@@ -93,7 +93,7 @@ El significado ante la adversidad no es negar el dolor. Es encontrar algo que le
 
 Isabel sabe que la regulación emocional es importante pero no tiene claro cómo se conecta específicamente con la resiliencia.
 
-**El Principio de la Regulación Emocional como Componente Critico de la Resiliencia:** La resiliencia requiere la capacidad de sentir el impacto emocional de la adversidad sin ser completamente abrumado por el: lo suficientemente abierto para procesar lo que ocurre, sin tanta apertura como para perder la capacidad de funcionar. Richard Davidson llama a esto la ventana de tolerancia: el rango de activación emocional dentro del cual la persona puede seguir funcionando de forma relativamente coherente.
+**El Principio de la Regulación Emocional como Componente Crítico de la Resiliencia:** La resiliencia requiere la capacidad de sentir el impacto emocional de la adversidad sin ser completamente abrumado por el: lo suficientemente abierto para procesar lo que ocurre, sin tanta apertura como para perder la capacidad de funcionar. Richard Davidson llama a esto la ventana de tolerancia: el rango de activación emocional dentro del cual la persona puede seguir funcionando de forma relativamente coherente.
 
 Las personas con mayor resiliencia no tienen necesariamente menos intensidad emocional: tienen mayor amplitud en su ventana de tolerancia. Esta amplitud se desarrolla a traves de la práctica de estrategias de regulación (mindfulness, respiración, apoyo relacional) y a traves de experiencias acumuladas de haber podido tolerar y recuperarse de emociones intensas.
 
@@ -135,11 +135,11 @@ La resiliencia que tienes cuando llega la tormenta es la que construiste cuando 
 
 Ruben vive en una sociedad que enfatiza la resiliencia individual. Pero la investigación muestra que la resiliencia tiene dimensiones comunitarias igualmente importantes.
 
-**El Principio de la Resiliencia Comunitaria como Sistema de Apoyo Mutuo:** Froma Walsh, investigadora de la resiliencia familiar, y otros investigadores han documentado que la resiliencia no es solo un atributo individual sino también una caracteristica de las familias, las comunidades, y las organizaciones. Las comunidades con mayor resiliencia se caracterizan por: cohesión social, sistemas de apoyo mutuo, narrativas colectivas de superación, y acceso a recursos compartidos.
+**El Principio de la Resiliencia Comunitaria como Sistema de Apoyo Mutuo:** Froma Walsh, investigadora de la resiliencia familiar, y otros investigadores han documentado que la resiliencia no es solo un atributo individual sino también una característica de las familias, las comunidades, y las organizaciones. Las comunidades con mayor resiliencia se caracterizan por: cohesión social, sistemas de apoyo mutuo, narrativas colectivas de superación, y acceso a recursos compartidos.
 
 Las personas que pertenecen a comunidades con alta resiliencia tienen, en promedio, mayor resiliencia individual porque tienen acceso a recursos (apoyo, significado compartido, sentido de pertenencia) que no estan disponibles para los individuos aislados. La resiliencia que se construye en comunidad es más robusta que la que se construye en solitario.
 
-**Ejercicio inmediato:** Identifica una comunidad (puede ser pequeña: ¿una familia, un grupo de amigos, una asociación, una comunidad de práctica) de la que formas parte y que tiene caracteristicas de resiliencia. ¿Que puedes contribuir a esa comunidad que fortalezca su cohesión y su capacidad colectiva de apoyo mutuo? La contribución a la resiliencia comunitaria refuerza simultaneamente la propia.
+**Ejercicio inmediato:** Identifica una comunidad (puede ser pequeña: ¿una familia, un grupo de amigos, una asociación, una comunidad de práctica) de la que formas parte y que tiene características de resiliencia. ¿Que puedes contribuir a esa comunidad que fortalezca su cohesión y su capacidad colectiva de apoyo mutuo? La contribución a la resiliencia comunitaria refuerza simultaneamente la propia.
 
 La resiliencia que se cultiva solo es más fragil que la que se cultiva en comunidad. El yo resiliente necesita del nosotros resiliente para sostenerse.
 

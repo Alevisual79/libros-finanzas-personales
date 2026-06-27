@@ -89,7 +89,7 @@ Si las señales de alarma se minimizan en el enamoramiento, las señales positiv
 
 La seguridad que produce una persona emocionalmente disponible y consistente puede sentirse al principio como falta de intensidad. Con el tiempo, se convierte en el fundamento de la relación más satisfactoria posible.
 
-**Ejercicio inmediato:** Describe a la persona en tu vida que mejor te hace sentir de forma consistente, no la que más excitación produce sino la que más seguridad. Compara sus caracteristicas con las de las personas de las que te enamoras tipicamente. La diferencia entre los dos perfiles es información sobre lo que valoras frente a lo que te conviene.
+**Ejercicio inmediato:** Describe a la persona en tu vida que mejor te hace sentir de forma consistente, no la que más excitación produce sino la que más seguridad. Compara sus características con las de las personas de las que te enamoras tipicamente. La diferencia entre los dos perfiles es información sobre lo que valoras frente a lo que te conviene.
 
 Lo que te emociona al principio rara vez es lo que te satisface a largo plazo.
 

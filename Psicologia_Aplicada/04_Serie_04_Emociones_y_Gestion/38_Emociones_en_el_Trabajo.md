@@ -23,7 +23,7 @@ Isabel tiene la teoria de que las emociones y el trabajo profesional son dominio
 
 La creencia de que el trabajo ideal es un espacio de pura racionalidad es ubicua en las culturas profesionales occidentales. La neurociencia la desmiente de forma consistente.
 
-**El Principio de las Emociones como Constituyentes de la Razon:** Antonio Damasio, en sus estudios de pacientes con daño en la corteza prefrontal ventromedial, documenta que estas personas son incapaces de tomar decisiones funcionales a pesar de mantener intactas sus capacidades de razonamiento logico. Sin la información emocional, el razonamiento abstracto no puede priorizar entre opciones equivalentes logicamente. Las emociones no interrumpen la toma de decisiones. Son parte de su infraestructura.
+**El Principio de las Emociones como Constituyentes de la Razon:** Antonio Damasio, en sus estudios de pacientes con daño en la corteza prefrontal ventromedial, documenta que estas personas son incapaces de tomar decisiones funcionales a pesar de mantener intactas sus capacidades de razonamiento lógico. Sin la información emocional, el razonamiento abstracto no puede priorizar entre opciones equivalentes logicamente. Las emociones no interrumpen la toma de decisiones. Son parte de su infraestructura.
 
 Alicia Grandey, psicóloga del trabajo de Penn State, documenta que los trabajadores gastan recursos cognitivos y emocionales significativos gestionando sus emociones en el entorno laboral, y que este gasto tiene consecuencias sobre el bienestar y el rendimiento. Ignorar las emociones en el trabajo no las elimina. Solo hace el gasto invisible e inmanejable.
 
@@ -79,7 +79,7 @@ El líder que no gestiona sus emociones gestiona al equipo desde sus estados no 
 
 Isabel sabe que el estado emocional del equipo tiene impacto en el rendimiento. Pero subestima la velocidad con que las emociones se transmiten en los grupos.
 
-**El Principio del Contagio Emocional como Fenomeno Grupal:** Elaine Hatfield documenta que las emociones se transmiten entre personas a traves de un proceso automático e inconsciente de sincronización facial y postural. El contagio emocional explica por qué una persona en un estado emocional negativo puede cambiar el estado de todo un equipo en minutos.
+**El Principio del Contagio Emocional como Fenómeno Grupal:** Elaine Hatfield documenta que las emociones se transmiten entre personas a traves de un proceso automático e inconsciente de sincronización facial y postural. El contagio emocional explica por qué una persona en un estado emocional negativo puede cambiar el estado de todo un equipo en minutos.
 
 Sigal Barsade de Yale documenta que las emociones positivas del líder se propagan al equipo, y que equipos con mayor proporción de emociones positivas compartidas muestran mayor cooperación, menor conflicto, y mejor rendimiento en tareas que requieren coordinación.
 
@@ -147,7 +147,7 @@ Lo que inviertes en el bienestar emocional de las personas que trabajan contigo 
 
 ## Capítulo 10: Construir un entorno emocionalmente inteligente
 
-Ruben ha aprendido que la gestión emocional en el trabajo no es solo una habilidad individual. Es también una caracteristica del entorno que puede diseñarse.
+Ruben ha aprendido que la gestión emocional en el trabajo no es solo una habilidad individual. Es también una característica del entorno que puede diseñarse.
 
 **El Principio de la Seguridad psicológica como Entorno para la Inteligencia Emocional:** Amy Edmondson propone que los equipos que funcionan mejor pueden expresar miedo, dudas, y emociones sin temor a represalias. La seguridad psicológica (la creencia de que no seras penalizado por expresar ideas, preguntas, preocupaciones, o errores) es la condición de entorno que permite que la inteligencia emocional individual se traduzca en inteligencia emocional colectiva.
 

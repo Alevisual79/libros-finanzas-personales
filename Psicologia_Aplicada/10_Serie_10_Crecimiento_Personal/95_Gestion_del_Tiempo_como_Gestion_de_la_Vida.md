@@ -135,7 +135,7 @@ El descanso que más descansa no es el que no hace nada. Es el que hace algo que
 
 Ruben dice si a muchas más cosas de las que puede manejar bien. Aprender a decir no es la habilidad más productiva que puede desarrollar.
 
-**El Principio del No Como la Decisión de Mayor Valor en la Gestion del Tiempo porque Protege el Si de lo más Importante:** Greg McKeown, en Esencialismo, propone que el ejecutivo o profesional que intenta hacerlo todo bien con el mismo nivel de excelencia produce el resultado contrario al que busca: un nivel modesto de contribución en muchos frentes en lugar de un nivel excelente de contribución en el frente que más importa. La logica del esencialismo es que el éxito requiere la eliminación deliberada de lo no esencial.
+**El Principio del No Como la Decisión de Mayor Valor en la Gestion del Tiempo porque Protege el Si de lo más Importante:** Greg McKeown, en Esencialismo, propone que el ejecutivo o profesional que intenta hacerlo todo bien con el mismo nivel de excelencia produce el resultado contrario al que busca: un nivel modesto de contribución en muchos frentes en lugar de un nivel excelente de contribución en el frente que más importa. La lógica del esencialismo es que el éxito requiere la eliminación deliberada de lo no esencial.
 
 La investigación de Barry Schwartz sobre la paradoja de la elección muestra que el exceso de opciones produce mayor ansiedad, mayor arrepentimiento, y menor satisfacción con las decisiones tomadas. Reducir deliberadamente el número de compromisos y opciones activos produce mayor claridad y mayor calidad en lo que se mantiene.
 

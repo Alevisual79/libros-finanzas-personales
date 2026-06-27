@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ha escuchado tantas veces que debería ser más agradecido que la gratitud le suena a obligación moral, no a recurso psicológico. Tiene una reacción de rechazó ante la idea de los diarios de gratitud y las listas de cosas positivas. Lo que no sabe es que la investigación sobre la gratitud en las últimas dos décadas ha demostrado efectos biologicos y psicológicos específicos que van mucho más allá de lo que la cultura popular del pensamiento positivo ha convertido en cliche. Este libro es sobre la ciencia real de la gratitud y la psicología positiva: que son, como funcionan, y como practicarlas de forma que produzcan cambios reales.
+Ruben ha escuchado tantas veces que debería ser más agradecido que la gratitud le suena a obligación moral, no a recurso psicológico. Tiene una reacción de rechazó ante la idea de los diarios de gratitud y las listas de cosas positivas. Lo que no sabe es que la investigación sobre la gratitud en las últimas dos décadas ha demostrado efectos biológicos y psicológicos específicos que van mucho más allá de lo que la cultura popular del pensamiento positivo ha convertido en cliche. Este libro es sobre la ciencia real de la gratitud y la psicología positiva: que son, como funcionan, y como practicarlas de forma que produzcan cambios reales.
 
 ---
 
@@ -51,7 +51,7 @@ La gratitud expresada al otro produce mayor bienestar que la gratitud guardada. 
 
 Ruben nota que los eventos negativos del dia le impactan más y le duran más que los positivos equivalentes. Esto no es pesimismo personal: es biología.
 
-**El Principio del Sesgo de Negatividad como Configuración por Defecto del Cerebro:** Paul Rozin y Edward Royzman documentaron que las experiencias negativas tienen un mayor impacto en el estado de animo y la memoria que las positivas equivalentes: una mala noticia pesa más que una buena, una crítica duele más que un elogio, y los recuerdos negativos son más accesibles que los positivos. Este sesgo tiene una logica evolutiva: los errores podían ser letales, por lo que el cerebro les presta más atención.
+**El Principio del Sesgo de Negatividad como Configuración por Defecto del Cerebro:** Paul Rozin y Edward Royzman documentaron que las experiencias negativas tienen un mayor impacto en el estado de animo y la memoria que las positivas equivalentes: una mala noticia pesa más que una buena, una crítica duele más que un elogio, y los recuerdos negativos son más accesibles que los positivos. Este sesgo tiene una lógica evolutiva: los errores podían ser letales, por lo que el cerebro les presta más atención.
 
 El problema es que ese sesgo, adaptativo en entornos de amenaza física real, produce en el entorno moderno una percepción distorsionada de la realidad: los eventos negativos se sobreestiman y los positivos se subestiman. La práctica de la gratitud es, entre otras cosas, un entrenamiento deliberado para contrarrestar este sesgo y prestar atención a lo positivo que el cerebro tiende a pasar por alto.
 
@@ -121,7 +121,7 @@ La bondad que produces en otros regresa a ti de formas que no puedes predecir pe
 
 Isabel ha pasado años sin experimentar asombro genuino. Ha estado demasiado ocupada con la cabeza abajo.
 
-**El Principio del Asombro como Emoción Positiva con Efectos Biologicos y psicológicos específicos:** Dacher Keltner y Jonathan Haidt proponen el asombro cómo una emoción positiva que emerge de la percepción de algo vasto que desafía la comprensión actual del mundo. El asombro produce una experiencia de pequenez del yo (el ego se disuelve momentaneamente ante algo mayor) y apertura cognitiva (disposición a revisar las propias estructuras de comprensión).
+**El Principio del Asombro como Emoción Positiva con Efectos Biológicos y psicológicos específicos:** Dacher Keltner y Jonathan Haidt proponen el asombro cómo una emoción positiva que emerge de la percepción de algo vasto que desafía la comprensión actual del mundo. El asombro produce una experiencia de pequenez del yo (el ego se disuelve momentaneamente ante algo mayor) y apertura cognitiva (disposición a revisar las propias estructuras de comprensión).
 
 La investigación de Jennifer Stellar y colegas muestra que las experiencias de asombro reducen los marcadores inflamatorios (interleucinas) y producen mayor bienestar. Las fuentes más accesibles de asombro incluyen la naturaleza (especialmente los grandes espacios naturales), la musica, el arte, la arquitectura, y los relatos de la grandeza humana.
 

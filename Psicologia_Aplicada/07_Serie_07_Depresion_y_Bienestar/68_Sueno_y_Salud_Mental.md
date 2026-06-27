@@ -25,7 +25,7 @@ El sueño no es inactividad. Es el mantenimiento del sistema más importante que
 
 **El Principio del Sueno como Estado de Mantenimiento Activo del Cerebro:** Matthew Walker, neurocientífico de la Universidad de California en Berkeley y autor de Por qué dormimos, propone que el sueño es el estado biológico más importante que existe para la salud del cerebro y del cuerpo. Durante el sueño, el cerebro realiza procesos que son imposibles durante la vigilia: la consolidación de la memoria (el hipocampo transfiere la información del dia a la corteza para el almacenamiento a largo plazo), la eliminación de desechos metabolicos toxicos a traves del sistema glinfatico (incluyendo el amiloide beta, asociado con el alzhéimer), y la regulación emocional a traves del procesamiento durante el sueño REM.
 
-La investigación de Walker y colegas muestra que el sueño REM (caracterizado por movimientos rápidos de los ojos y la fase donde ocurren la mayoría de los sueños) es especialmente crítico para la salud emocional: durante el REM, el cerebro reactivar las memorias emocionales del dia pero en ausencia del cortisol (la hormona del estres), lo que permite procesar el contenido emocional sin la carga fisiologica del estres.
+La investigación de Walker y colegas muestra que el sueño REM (caracterizado por movimientos rápidos de los ojos y la fase donde ocurren la mayoría de los sueños) es especialmente crítico para la salud emocional: durante el REM, el cerebro reactivar las memorias emocionales del dia pero en ausencia del cortisol (la hormona del estres), lo que permite procesar el contenido emocional sin la carga fisiológica del estres.
 
 **Ejercicio inmediato:** Esta noche, intenta ir a dormir treinta minutos antes de lo habitual. No como experimento cientifico sino como observación personal: siente la diferencia en el estado de animo y la cognición al dia siguiente comparado con los dias en que duermes tu duración habitual.
 
@@ -107,7 +107,7 @@ Las pastillas para dormir te dan el sueño que necesitas a corto plazo. La TCC-I
 
 Elena trabaja hasta la medianoche y se pregunta si eso tiene sentido. Los datos sobre sueño y rendimiento cognitivo tienen algo que decir.
 
-**El Principio de la Consolidación de Memoria Durante el Sueno como Servicio Cognitivo Critico:** La investigación de Matthew Walker sobre el sueño y la memoria muestra que el sueño de la noche siguiente al aprendizaje consolida lo aprendido: los sujetos que duermen después de aprender una nueva habilidad muestran mayor rendimiento al dia siguiente que los que permanecen despiertos. Y el sueño de la noche previa al aprendizaje prepara el hipocampo para capturar nueva información: la privación de sueño reduce la capacidad de formar nuevos recuerdos en un 40%.
+**El Principio de la Consolidación de Memoria Durante el Sueno como Servicio Cognitivo Crítico:** La investigación de Matthew Walker sobre el sueño y la memoria muestra que el sueño de la noche siguiente al aprendizaje consolida lo aprendido: los sujetos que duermen después de aprender una nueva habilidad muestran mayor rendimiento al dia siguiente que los que permanecen despiertos. Y el sueño de la noche previa al aprendizaje prepara el hipocampo para capturar nueva información: la privación de sueño reduce la capacidad de formar nuevos recuerdos en un 40%.
 
 La investigación de Ullrich Wagner y colegas muestra que el sueño no solo consolida la información sino que la reorganiza para extraer patrones y encontrar soluciones creativas: los sujetos que dormían entre sesiones de resolución de problemas encontraban las soluciones con significativamente mayor frecuencia que los que permanecian despiertos.
 
@@ -121,7 +121,7 @@ El tiempo que dedicas a dormir no se lo robas al trabajo. Se lo devuelves multip
 
 Ruben tiene cuarenta y cinco años y nota que su sueño ha cambiado en los últimos años. Esto tiene una explicación y, en parte, un remedio.
 
-**El Principio del Cambio del Sueno con la Edad como Fenomeno Normal pero Manejable:** La investigación sobre el sueño a lo largo de la vida muestra que la arquitectura del sueño cambia de forma significativa con la edad: la cantidad de sueño profundo de ondas lentas (el más reparador físicamente) disminuye con la edad, el tiempo de latencia del sueño aumenta (cuesta más tiempo quedarse dormido), y los despertares nocturnos aumentan en frecuencia. Estos cambios empiezan en la mediana edad y se aceleran con los años.
+**El Principio del Cambio del Sueno con la Edad como Fenómeno Normal pero Manejable:** La investigación sobre el sueño a lo largo de la vida muestra que la arquitectura del sueño cambia de forma significativa con la edad: la cantidad de sueño profundo de ondas lentas (el más reparador físicamente) disminuye con la edad, el tiempo de latencia del sueño aumenta (cuesta más tiempo quedarse dormido), y los despertares nocturnos aumentan en frecuencia. Estos cambios empiezan en la mediana edad y se aceleran con los años.
 
 Sin embargo, la investigación de Stuart Fogel y colegas muestra que parte del deterioro del sueño asociado a la edad es prevenible con los mismos habitos que optimizan el sueño en cualquier edad: ejercicio regular (especialmente por la mañana), exposición a la luz solar durante el dia, y mantenimiento de horarios de sueño consistentes.
 
@@ -135,7 +135,7 @@ El sueño que cambia con la edad no es sueño irrecuperable. Es sueño que neces
 
 Isabel ha notado que sus sueños son más intensos e inquietantes en los períodos de mayor estres. La investigación explica por qué.
 
-**El Principio del Sueno REM como Laboratorio de Procesamiento Emocional:** La hipotesis de Matthew Walker sobre la función del sueño REM propone que durante este estado, el cerebro reprocesa las experiencias emocionales del dia en un entorno neuroquimico bajo en noradrenalina (la molecula del estres), lo que permite reactivar el contenido emocional sin la carga fisiologica del estres original. Este proceso es lo que Walker llama destilar el veneno de los recuerdos dolorosos.
+**El Principio del Sueno REM como Laboratorio de Procesamiento Emocional:** La hipotesis de Matthew Walker sobre la función del sueño REM propone que durante este estado, el cerebro reprocesa las experiencias emocionales del dia en un entorno neuroquimico bajo en noradrenalina (la molecula del estres), lo que permite reactivar el contenido emocional sin la carga fisiológica del estres original. Este proceso es lo que Walker llama destilar el veneno de los recuerdos dolorosos.
 
 Las personas con TEPT muestran una disfunción de este proceso: sus sueños no destilan el veneno del trauma sino que lo reproducen fielmente, lo que perpetua la reactivación del sistema de amenaza. La Imagen de Ensayo Mental (IRT, de Barry Krakow) es una terapia específica para las pesadillas cronicas que modifica el contenido del sueño deliberadamente para romper ese ciclo.
 

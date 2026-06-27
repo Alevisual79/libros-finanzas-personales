@@ -67,7 +67,7 @@ Elena es extravertida y ha asumido que eso es siempre una ventaja. Hay contextos
 
 **El Principio de la Extraversión Alta como Factor de Riesgo en Entornos de Alta Reflexividad:** La extraversión alta se asocia con mayor busqueda de estimulación, mayor necesidad de interacción social, y menor tolerancia al aburrimiento. En entornos que requieren trabajo solitario y profundo, reflexión sin distracción, o tolerancia a la ambiguedad sin necesidad de validación inmediata, la extraversión alta puede ser un factor que dificulta el rendimiento.
 
-La investigación de Brian Little sobre la personalidad del profesor universitario muestra que los profesores altamente extravertidos, aunque son más carismaticos en el aula, frecuentemente producen menos investigación academica que los introvertidos, probablemente porque la investigación de calidad requiere períodos sostenidos de trabajo solitario para los que la extraversión alta no dispone naturalmente.
+La investigación de Brian Little sobre la personalidad del profesor universitario muestra que los profesores altamente extravertidos, aunque son más carismaticos en el aula, frecuentemente producen menos investigación académica que los introvertidos, probablemente porque la investigación de calidad requiere períodos sostenidos de trabajo solitario para los que la extraversión alta no dispone naturalmente.
 
 **Ejercicio inmediato:** Si eres extravertido, identifica una tarea que requires trabajo profundo y sostenido en tu vida. ¿Que estrategias usas para mantener la concentración? ¿Hay momentos del dia donde esa concentración es más accesible? Los extravertidos que entienden su rasgo pueden diseñar condiciones que compensen la menor tolerancia natural al trabajo solitario.
 
@@ -121,7 +121,7 @@ El introvertido que se prepara bien no actua igual que el extravertido. Pero act
 
 Elena (extravertida) ha asumido que el mundo funciona bien para todos. Ruben (introvertido) sabe que no.
 
-**El Principio del Sesgo Extravertido como Caracteristica Estructural de los Entornos Modernos:** Susan Cain documenta en El poder de los introvertidos que los entornos laborales y educativos modernos estan estructurados de formas que favorecen sistemáticamente a los extravertidos: los espacios abiertos de trabajo eliminan la privacidad; las dinámicas de brainstorming en grupo favorecen las ideas que se verbalizan rápido sobre las que requieren reflexión; las evaluaciones de liderazgo premian la visibilidad y la asertividad vocal; y la cultura de reunión constante desfavorece el trabajo profundo.
+**El Principio del Sesgo Extravertido como Característica Estructural de los Entornos Modernos:** Susan Cain documenta en El poder de los introvertidos que los entornos laborales y educativos modernos estan estructurados de formas que favorecen sistemáticamente a los extravertidos: los espacios abiertos de trabajo eliminan la privacidad; las dinámicas de brainstorming en grupo favorecen las ideas que se verbalizan rápido sobre las que requieren reflexión; las evaluaciones de liderazgo premian la visibilidad y la asertividad vocal; y la cultura de reunión constante desfavorece el trabajo profundo.
 
 Este sesgo no es inevitable: la investigación de Cain y otros muestra que los entornos que permiten períodos de trabajo solitario intercalados con colaboración producen mayor innovación que los de colaboración continua, beneficiando tanto a introvertidos como extravertidos.
 
@@ -135,7 +135,7 @@ Los entornos no son neutrales. Los que los conocen bien pueden disenarlos para q
 
 Ruben no se ve como líder porque no encaja con la imagen que tiene de lo que es un líder.
 
-**El Principio del Liderazgo Introvertido como Igualmente Efectivo en los Contextos Adecuados:** La investigación de Adam Grant, Francesca Gino, y David Hofmann muestra que los líderes introvertidos superan a los extravertidos cuando lideran equipos proactivos (que toman iniciativas propias), mientras que los extravertidos superan a los introvertidos con equipos pasivos que esperan dirección. Esto significa que la efectividad del liderazgo depende de la interacción entre el estilo del líder y las caracteristicas del equipo.
+**El Principio del Liderazgo Introvertido como Igualmente Efectivo en los Contextos Adecuados:** La investigación de Adam Grant, Francesca Gino, y David Hofmann muestra que los líderes introvertidos superan a los extravertidos cuando lideran equipos proactivos (que toman iniciativas propias), mientras que los extravertidos superan a los introvertidos con equipos pasivos que esperan dirección. Esto significa que la efectividad del liderazgo depende de la interacción entre el estilo del líder y las características del equipo.
 
 Los atributos de liderazgo asociados con la introversión incluyen: mayor escucha activa, menor tendencia a interrumpir, mayor disposición a implementar las ideas del equipo, y mayor profundidad en las decisiones que requieren reflexión. Los del extraversión incluyen: mayor carisma inicial, mayor motivación del equipo, y mayor visibilidad organizacional.
 
@@ -153,7 +153,7 @@ Isabel ha llegado a entender que sus rasgos no son problemas a corregir sino dat
 
 La investigación sobre el person-environment fit (ajuste persona-entorno) muestra que el desajuste entre la personalidad y el entorno laboral es uno de los principales predictores del burnout, la insatisfacción, y el bajo rendimiento. El ajuste produce mayor satisfacción, mayor rendimiento, y mayor bienestar.
 
-**Ejercicio inmediato:** Reflexiona sobre los entornos (laborales, sociales, físicos) donde tu te sientes más tu mismo: ¿donde tu nivel de introversión o extraversión es un activo y no algo que tienes que compensar. ¿Que caracteristicas tienen esos entornos? ¿Que podrías hacer para tener más de esos entornos en tu vida?
+**Ejercicio inmediato:** Reflexiona sobre los entornos (laborales, sociales, físicos) donde tu te sientes más tu mismo: ¿donde tu nivel de introversión o extraversión es un activo y no algo que tienes que compensar. ¿Que características tienen esos entornos? ¿Que podrías hacer para tener más de esos entornos en tu vida?
 
 La vida que más te conviene no es la que más te exige que seas diferente. Es la que más te permite ser quien eres mientras aun puedes crecer.
 

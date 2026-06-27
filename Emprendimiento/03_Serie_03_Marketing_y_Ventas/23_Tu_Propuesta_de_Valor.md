@@ -107,7 +107,7 @@ El precio que no encaja con la propuesta de valor genera confusión. La confusi�
 
 Carlos ha trabajado en la propuesta de valor pero tiene dificultades para convertirla en texto que realmente funcione en su web.
 
-**El Principio de la Comunicación de la Propuesta de Valor como el Arte de Traducir el Concepto de Valor en Mensajes específicos que el Cliente Puede Leer, Entender, y Reconocer Como Relevantes para Su Situación:** Ann Handley en Everybody Writes propone que la buena escritura de marketing no habla sobre el producto sino sobre el cliente: usa el tu en lugar del nosotros, habla del resultado que el cliente recibe en lugar de las caracteristicas del producto, y es específica en lugar de generica.
+**El Principio de la Comunicación de la Propuesta de Valor como el Arte de Traducir el Concepto de Valor en Mensajes específicos que el Cliente Puede Leer, Entender, y Reconocer Como Relevantes para Su Situación:** Ann Handley en Everybody Writes propone que la buena escritura de marketing no habla sobre el producto sino sobre el cliente: usa el tu en lugar del nosotros, habla del resultado que el cliente recibe en lugar de las características del producto, y es específica en lugar de generica.
 
 La investigación de Nielsen sobre la lectura online muestra que el visitante de una web lee aproximadamente el 28% del texto de una página en una visita típica, y que los elementos que más atención reciben son el titular principal (que debe comunicar la propuesta de valor en una frase), los subtítulos (que deben comunicar beneficios específicos), y los testimonios de clientes.
 
@@ -137,7 +137,7 @@ Marcos ha implementado un sistema para medir si su propuesta de valor realmente 
 
 **El Principio de la Medición de la Propuesta de Valor como el Proceso de Verificar si el Mensaje Llega y Resuena en el Cliente Objetivo mediante Metricas específicas que Indiquen si la Propuesta Está Funcionando:** La propuesta de valor que no se mide no puede mejorarse. Las metricas más directas de la efectividad de la propuesta de valor en un contexto digital son: la tasa de conversión de visitantes de la web a leads (indica si el mensaje inicial convence), la tasa de conversión de leads a clientes (indica si el valor prometido es coherente con el valor entregado), y el Net Promoter Score (indica si los clientes que compraron sienten que recibieron el valor prometido).
 
-La investigación de Sean Ellis sobre el product-market fit usa una sola pregunta como proxy de la propuesta de valor efectiva: ¿como te sentirias si ya no pudieras usar este producto o servicio? Si más del 40% de los clientes responden muy decepcionado, la propuesta de valor es suficientemente fuerte para el crecimiento organico.
+La investigación de Sean Ellis sobre el product-market fit usa una sola pregunta como proxy de la propuesta de valor efectiva: ¿como te sentirias si ya no pudieras usar este producto o servicio? Si más del 40% de los clientes responden muy decepcionado, la propuesta de valor es suficientemente fuerte para el crecimiento orgánico.
 
 **Ejercicio inmediato:** Esta semana, envía la pregunta de Ellis a tus últimos diez clientes activos: ¿como te sentiriassi ya no pudieras trabajar con nosotros? con las opciones muy decepcionado, algo decepcionado, no me importaria, y ya no uso el servicio. Si menos del 40% responde muy decepcionado, la propuesta de valor (o la entrega del servicio) necesita trabajo. Si más del 40% responde muy decepcionado, tienes la base para escalar.
 

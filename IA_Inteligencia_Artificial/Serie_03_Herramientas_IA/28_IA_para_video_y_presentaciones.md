@@ -133,7 +133,7 @@ El flujo de producción de video corporativo con IA de Isabel:
 
 **Larga duración:** La calidad cae significativamente en videos de más de 30-60 segundos generados desde texto.
 
-**Fisicas complejas:** Agua, fuego, telas, objetos en interacción compleja: los modelos de video luchan con la simulación de física realista.
+**Físicas complejas:** Agua, fuego, telas, objetos en interacción compleja: los modelos de video luchan con la simulación de física realista.
 
 **Detección:** Los videos generados por IA son cada vez más difíciles de detectar. Las implicaciones para la desinformación son serías.
 

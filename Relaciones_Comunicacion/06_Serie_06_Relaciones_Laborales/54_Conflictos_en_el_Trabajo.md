@@ -21,13 +21,13 @@ Elena evita los conflictos en el trabajo hasta que explotan. Cuando explotan, de
 
 ## Capítulo 1: Por qué el conflicto laboral es inevitable
 
-El conflicto en cualquier entorno donde personas con diferentes perspectivas, recursos limitados y objetivos a veces divergentes trabajan juntas no es una anomalia que indica disfunción, sino una caracteristica estructural inevitable de la colaboración humana.
+El conflicto en cualquier entorno donde personas con diferentes perspectivas, recursos limitados y objetivos a veces divergentes trabajan juntas no es una anomalia que indica disfunción, sino una característica estructural inevitable de la colaboración humana.
 
 **El Principio del Conflicto como Subproducto de la Interdependencia:** Cualquier sistema donde multiples personas dependen unas de otras para lograr objetivos compartidos, con recursos limitados y perspectivas distintas, generara conflicto de forma natural y recurrente. La pregunta relevante no es como eliminar el conflicto (objetivo imposible e indeseable) sino como gestionarlo de forma que sea productivo en lugar de destructivo.
 
 **Ejercicio inmediato:** Reflexiona sobre tu propia relación con el conflicto laboral: ¿lo experimentas cómo una señal de que algo va mal que debe evitarse, o cómo una parte normal de la colaboración que requiere gestión activa? Ese marcó mental determina significativamente como respondes cuando surge.
 
-El conflicto en el trabajo no es una señal de que algo esta roto. Es una caracteristica normal de cualquier sistema donde personas distintas colaboran.
+El conflicto en el trabajo no es una señal de que algo esta roto. Es una característica normal de cualquier sistema donde personas distintas colaboran.
 
 ---
 

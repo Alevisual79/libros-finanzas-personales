@@ -99,7 +99,7 @@ Los hijos no necesitan padres que nunca discrepan. Necesitan padres que resuelve
 
 ## Capítulo 7: La segunda crisis: hijos pequeños en edad escolar
 
-Después de la crisis inicial del primer hijo, muchas parejas experimentan una segunda caida en satisfacción cuando los hijos llegan a la edad escolar, período en que las actividades extraescolares, las exigencias academicas y la logistica familiar alcanzan un nuevo pico de complejidad.
+Después de la crisis inicial del primer hijo, muchas parejas experimentan una segunda caida en satisfacción cuando los hijos llegan a la edad escolar, período en que las actividades extraescolares, las exigencias académicas y la logistica familiar alcanzan un nuevo pico de complejidad.
 
 **El Principio de la Sobrecarga Logistica:** La segunda crisis de pareja con hijos no es emocional en el mismo sentido que la primera. Es logistica: la cantidad de tareas de coordinación (llevar y traer, actividades, tareas escolares, organización social de los hijos) puede saturar el tiempo y la energía disponible para la relación de pareja de forma tan severa cómo la falta de sueño del primer año.
 

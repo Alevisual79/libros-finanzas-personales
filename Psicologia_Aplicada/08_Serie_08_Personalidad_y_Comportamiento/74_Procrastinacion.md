@@ -41,7 +41,7 @@ Isabel procrastina de forma diferente a Ruben. Entender el tipo de procrastinaci
 
 Cada perfil requiere estrategias diferentes: el perfeccionista necesita reducir los estandares que hacen que empezar sea aterrador; el que tiene aversión a la tarea necesita técnicas de tolerancia al malestar; el que tiene falta de claridad necesita el primer paso operativo definido; el que sobreestima el tiempo necesita planificación más realista.
 
-**Ejercicio inmediato:** Identifica tu perfil principal de procrastinación. Para la tarea que más has pospuesto, reflexiona: ¿la postergas porque tiene que salir perfecta? ¿Porque la tarea en si misma es aversiva? ¿Porque no sabes exactamente como empezar? El diagnostico del perfil dirige la estrategia.
+**Ejercicio inmediato:** Identifica tu perfil principal de procrastinación. Para la tarea que más has pospuesto, reflexiona: ¿la postergas porque tiene que salir perfecta? ¿Porque la tarea en si misma es aversiva? ¿Porque no sabes exactamente como empezar? El diagnóstico del perfil dirige la estrategia.
 
 La procrastinación que no entiendes solo puedes combatirla con fuerza de voluntad. La que entiendes puedes resolverla con estrategia.
 
@@ -51,7 +51,7 @@ La procrastinación que no entiendes solo puedes combatirla con fuerza de volunt
 
 Ruben sabe que lo que hace ahora afectara a su yo del futuro. Pero ese yo futuro le parece un extraño.
 
-**El Principio del Descuento Temporal como Base Neurologica de la Procrastinación:** La investigación de Hal Ersner-Hershfield y colegas con neuroimagen muestra que cuando las personas piensan en su yo futuro, las regiones cerebrales que se activan son similares a las que se activan cuando piensan en personas extrans, no en si mismas. Esto explica por qué es tan facil delegar las tareas desagradables al yo futuro: ese yo futuro se percibe como alguien diferente que se hará cargo.
+**El Principio del Descuento Temporal como Base Neurológica de la Procrastinación:** La investigación de Hal Ersner-Hershfield y colegas con neuroimagen muestra que cuando las personas piensan en su yo futuro, las regiones cerebrales que se activan son similares a las que se activan cuando piensan en personas extrans, no en si mismas. Esto explica por qué es tan facil delegar las tareas desagradables al yo futuro: ese yo futuro se percibe como alguien diferente que se hará cargo.
 
 El descuento temporal (la tendencia a valorar las recompensas inmediatas más que las futuras equivalentes) es el mecanismo económico que subyace a la procrastinación: el alivio inmediato de no tener que hacer la tarea ahora supera en valor percibido las consecuencias negativas de no haberla hecho en el futuro, aunque racionalmente se sabe que esas consecuencias llegaran.
 
@@ -105,7 +105,7 @@ El entorno que tiene todas las distracciones disponibles te pide que uses volunt
 
 ## Capítulo 7: La autocompasión como herramienta contra la procrastinación cronica
 
-Ruben se crítica duramente cuando procrastina. Esa autocritica amplia el problema.
+Ruben se critica duramente cuando procrastina. Esa autocritica amplia el problema.
 
 **El Principio de la Autocompasión como Facilitador del Inicio tras la Procrastinación:** La investigación de Michael Wohl, Timothy Pychyl, y Shannon Bennett muestra que las personas que se perdonan a si mismas después de haber procrastinado muestran menor procrastinación en las ocasiones siguientes. El mecanismo propuesto: la autocritica severa tras la procrastinación produce mayor malestar emocional, que produce mayor evitación en el siguiente episodio. La autocompasión rompe ese ciclo.
 

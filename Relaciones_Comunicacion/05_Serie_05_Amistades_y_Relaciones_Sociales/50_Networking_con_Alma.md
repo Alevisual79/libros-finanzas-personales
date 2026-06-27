@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena odia el networking. Lo llama intercambio de tarjetas sin sentido, una actuación social donde nadie es realmente honesto sobre lo que quiere del otro. Tiene razón en el diagnostico: gran parte del networking tradicional efectivamente se siente transaccional y vacio. Se equivoca, sin embargo, en el tratamiento: la solución no es evitar el networking, sino redefinir completamente cómo se práctica.
+Elena odia el networking. Lo llama intercambio de tarjetas sin sentido, una actuación social donde nadie es realmente honesto sobre lo que quiere del otro. Tiene razón en el diagnóstico: gran parte del networking tradicional efectivamente se siente transaccional y vacio. Se equivoca, sin embargo, en el tratamiento: la solución no es evitar el networking, sino redefinir completamente cómo se práctica.
 
 ---
 
@@ -49,7 +49,7 @@ El principio de ofrecer valor genuino antes de solicitar algo a cambio es el fun
 
 **El Principio de la Reciprocidad Generosa:** Adam Grant, investigador de la dinámica de dar y recibir en contextos profesionales, demuestra que las personas que adoptan una postura de generosidad (ofrecer ayuda, conexiones o recursos sin expectativa inmediata de retorno) construyen redes profesionales más sólidas y duraderas a largo plazo que las que operan con una mentalidad estrictamente transaccional de intercambio equitativo inmediato.
 
-**Ejercicio inmediato:** Identifica una forma específica en que podrías ofrecer valor a alguien en tu red profesional esta semana, sin pedir nada a cambio: una introducción útil, un articulo relevante, un consejo basado en tu experiencia.
+**Ejercicio inmediato:** Identifica una forma específica en que podrías ofrecer valor a alguien en tu red profesional esta semana, sin pedir nada a cambio: una introducción útil, un artículo relevante, un consejo basado en tu experiencia.
 
 El networking más efectivo no empieza preguntando que necesito. Empieza preguntando que puedo ofrecer.
 

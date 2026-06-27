@@ -81,7 +81,7 @@ El conflicto casi nunca es sobre lo que parece. Es sobre necesidades que no se e
 
 Si de verdad me quisieras, harías esto no es una petición. Es una exigencia disfrazada de condición afectiva. Una petición es algo que el otro puede decir que no sin consecuencias para la relación. Una exigencia es algo que si se rechaza activa crítica, castigo o retirada afectiva.
 
-**El Principio de la Petición Genuina:** En CNV, una petición tiene tres caracteristicas: ¿es concreta y específica, es posible en el momento, y es genuina (el no del otro puede ser recibido sin reacción punitiva). Necesito que me ayudes a mover estos muebles el sabado, puedes? Es una petición limpia. Si no puedes, no pasa nada es el elemento de margen que la hace genuina.
+**El Principio de la Petición Genuina:** En CNV, una petición tiene tres características: ¿es concreta y específica, es posible en el momento, y es genuina (el no del otro puede ser recibido sin reacción punitiva). Necesito que me ayudes a mover estos muebles el sabado, puedes? Es una petición limpia. Si no puedes, no pasa nada es el elemento de margen que la hace genuina.
 
 Eli Finkel documenta que las parejas en que las peticiones son específicas, razonables y recibibles tienen niveles significativamente más altos de satisfacción relacional que las parejas en que las peticiones son vagas o vienen acompanadas de presión implícita.
 

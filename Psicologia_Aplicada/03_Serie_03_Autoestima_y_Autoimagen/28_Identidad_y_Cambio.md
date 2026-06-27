@@ -55,7 +55,7 @@ Ruben define gran parte de su identidad a traves de su trabajo. Cuando le va bie
 
 Las transiciones profesionales (despidos, cambios de carrera, jubilación) son particularmente destabilizadoras para personas con identidad muy centrada en el trabajo, porque la pregunta quien soy ahora que ya no soy mi trabajo carece de respuesta si el trabajo era la mayor parte de la respuesta a quien soy.
 
-**Ejercicio inmediato:** Completa la frase yo soy de diez formas diferentes. Cuenta cuantas de las diez tienen que ver con tu trabajo y cuantas tienen que ver con otras dimensiones (relaciones, valores, aficiones, caracteristicas de personalidad). Si más de cinco de las diez son sobre el trabajo, hay una concentración de identidad que puede crear vulnerabilidad.
+**Ejercicio inmediato:** Completa la frase yo soy de diez formas diferentes. Cuenta cuantas de las diez tienen que ver con tu trabajo y cuantas tienen que ver con otras dimensiones (relaciones, valores, aficiones, características de personalidad). Si más de cinco de las diez son sobre el trabajo, hay una concentración de identidad que puede crear vulnerabilidad.
 
 Lo que haces es una parte importante de quien eres. Pero no puede ser todo, porque los trabajos cambian y las personas quedan.
 

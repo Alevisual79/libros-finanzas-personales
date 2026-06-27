@@ -28,7 +28,7 @@ Lo leyó dos veces. Luego lo calculó a mano, de otra forma, para asegurarse de 
 
 El total que aportaría en ese tiempo: 400 x 276 meses = 110.400 euros.
 
-La diferencia: casi 170.000 euros generados sin trabajar. Solo por el tiempo y la matematica.
+La diferencia: casi 170.000 euros generados sin trabajar. Solo por el tiempo y la matemática.
 
 "Ana", llamó desde el ordenador. "Ven a ver esto."
 

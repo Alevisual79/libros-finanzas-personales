@@ -15,7 +15,7 @@ Las implicaciones de De la carrera profesional a la cartera de habilidades se si
 
 ## Capítulo 3: Los marcos de referencia
 
-Para entender y navegar De la carrera profesional a la cartera de habilidades necesitamos marcos conceptuales rigurosos provenientes de la investigación academica, la práctica profesional y el debate ético.
+Para entender y navegar De la carrera profesional a la cartera de habilidades necesitamos marcos conceptuales rigurosos provenientes de la investigación académica, la práctica profesional y el debate ético.
 
 ## Capítulo 4: El caso de Elena
 

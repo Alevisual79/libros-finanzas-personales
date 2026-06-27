@@ -85,9 +85,9 @@ El dinero que viene con condiciones sobre quien debes ser no es generosidad. Es 
 
 Las decisiones sobre como repartir recursos familiares (herencias, ayuda económica, regalos) entre varios hijos generan tensión cuando se confunde la igualdad numerica con la equidad real, que considera las circunstancias diferentes de cada persona.
 
-**El Principio de la Equidad Contextual:** La igualdad estricta (dar exactamente lo mismo a cada hijo) no siempre produce la sensación de justicia que se busca, especialmente cuando las circunstancias de los hijos son significativamente diferentes (uno con discapacidad, uno que ha contribuido más al cuidado de los padres, uno con mayores necesidades económicas). La equidad considera estas diferencias, pero requiere una comunicación explícita de la logica usada para evitar que se perciba como favoritismo en lugar de justicia contextual.
+**El Principio de la Equidad Contextual:** La igualdad estricta (dar exactamente lo mismo a cada hijo) no siempre produce la sensación de justicia que se busca, especialmente cuando las circunstancias de los hijos son significativamente diferentes (uno con discapacidad, uno que ha contribuido más al cuidado de los padres, uno con mayores necesidades económicas). La equidad considera estas diferencias, pero requiere una comunicación explícita de la lógica usada para evitar que se perciba como favoritismo en lugar de justicia contextual.
 
-**Ejercicio inmediato:** Si estas en una posición de decidir un reparto familiar entre varios hijos o herederos, considera si la igualdad estricta o la equidad contextual es más apropiada para tu situación específica, y comunica explicitamente la logica de tu decisión para minimizar malentendidos.
+**Ejercicio inmediato:** Si estas en una posición de decidir un reparto familiar entre varios hijos o herederos, considera si la igualdad estricta o la equidad contextual es más apropiada para tu situación específica, y comunica explicitamente la lógica de tu decisión para minimizar malentendidos.
 
 Dar lo mismo a todos no siempre es justo. A veces, ser justo requiere dar diferente, pero con razones claras.
 
@@ -109,7 +109,7 @@ Un negocio familiar exitoso necesita límites claros entre cuando se es familia 
 
 Las conversaciones sobre dinero en la familia tienden a degenerar en conflicto cuando se tienen sin estructura, en el calor del momento, o cuando ya hay resentimiento acumulado de larga data.
 
-**El Principio de la Conversación Financiera Familiar Estructurada:** Las conversaciones de dinero familiar más productivas comparten caracteristicas con las conversaciones financieras de pareja efectivas: se planifican con anticipación en lugar de surgir espontaneamente en momentos de tensión, tienen un objetivo claro y limitado, y se centran en datos y acuerdos concretos en lugar de en acusaciones generales sobre el carácter o las intenciones de los demás.
+**El Principio de la Conversación Financiera Familiar Estructurada:** Las conversaciones de dinero familiar más productivas comparten características con las conversaciones financieras de pareja efectivas: se planifican con anticipación en lugar de surgir espontaneamente en momentos de tensión, tienen un objetivo claro y limitado, y se centran en datos y acuerdos concretos en lugar de en acusaciones generales sobre el carácter o las intenciones de los demás.
 
 **Ejercicio inmediato:** Si necesitas tener una conversación de dinero con tu familia extendida, prepara un objetivo específico y limitado para esa conversación, y elige un momento de calma, sin la presencia de un conflicto activo, para tenerla.
 

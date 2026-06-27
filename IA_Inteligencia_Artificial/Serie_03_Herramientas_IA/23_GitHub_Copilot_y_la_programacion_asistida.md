@@ -17,15 +17,15 @@
 
 Elena lleva diez años programando. Los últimos dos años, nunca programa sola.
 
-No porque tenga un colega a su lado. Porque tiene GitHub Copilot integrado en su editor de codigo, sugiriendole la siguiente linea, generando funciones completas a partir de un comentario, explicando que hace codigo que no ha escrito ella, y proponiendole correcciones cuando algo falla.
+No porque tenga un colega a su lado. Porque tiene GitHub Copilot integrado en su editor de código, sugiriendole la siguiente linea, generando funciones completas a partir de un comentario, explicando que hace código que no ha escrito ella, y proponiendole correcciones cuando algo falla.
 
 ---
 
 ## Capítulo 1: Que es la programación asistida por IA
 
-La programación asistida por IA usa modelos de lenguaje entrenados en codigo para ayudar a los programadores en el proceso de escritura.
+La programación asistida por IA usa modelos de lenguaje entrenados en código para ayudar a los programadores en el proceso de escritura.
 
-A diferencia de los chatbots de codigo, las herramientas de programación asistida se integran directamente en el entorno de desarrollo (IDE) y sugieren codigo en tiempo real mientras escribes.
+A diferencia de los chatbots de código, las herramientas de programación asistida se integran directamente en el entorno de desarrollo (IDE) y sugieren código en tiempo real mientras escribes.
 
 ---
 
@@ -34,8 +34,8 @@ A diferencia de los chatbots de codigo, las herramientas de programación asisti
 GitHub Copilot, desarrollado por GitHub y OpenAI, fue la primera herramienta mainstream de programación asistida (lanzada en 2021).
 
 **Sus capacidades:**
-- Autocompletado inteligente: sugiere el resto de la linea o bloque de codigo
-- Generación a partir de comentarios: escribe un comentario describiendo la función; Copilot genera el codigo
+- Autocompletado inteligente: sugiere el resto de la linea o bloque de código
+- Generación a partir de comentarios: escribe un comentario describiendo la función; Copilot genera el código
 - Copilot Chat: chat integrado en el IDE para preguntas, depuración y explicaciones
 - Code review: revisión asistida en GitHub pull requests
 - Soporte de lenguajes: Python, JavaScript, TypeScript, Go, Rust, Java, C++, PHP y más
@@ -62,10 +62,10 @@ GitHub Copilot, desarrollado por GitHub y OpenAI, fue la primera herramienta mai
 GitHub público en 2022 un estudio donde los desarrolladores con Copilot completaron tareas un 55% más rápido que los que no lo usaron.
 
 Pero la historia es más matizada:
-- Para codigo nuevo y estandar: el ahorro es real y significativo
-- Para codigo complejo y específico: el beneficio es menor
+- Para código nuevo y estandar: el ahorro es real y significativo
+- Para código complejo y específico: el beneficio es menor
 - Para depuración: Copilot puede sugerir fixes para errores comunes
-- Para comprensión de codigo heredado: una de las capacidades más valoradas
+- Para comprensión de código heredado: una de las capacidades más valoradas
 
 ---
 
@@ -73,9 +73,9 @@ Pero la historia es más matizada:
 
 Elena usa un flujo que maximiza el valor de Copilot:
 
-**Para codigo nuevo:** Empieza con un comentario descriptivo detallado. Copilot genera la función. Elena revisa y ajusta.
+**Para código nuevo:** Empieza con un comentario descriptivo detallado. Copilot genera la función. Elena revisa y ajusta.
 
-**Para depuración:** Pega el codigo con error en Copilot Chat juntó con el mensaje de error.
+**Para depuración:** Pega el código con error en Copilot Chat juntó con el mensaje de error.
 
 **Para refactorización:** Copilot sugiere la mejora; review, testing y merge si es mejor.
 
@@ -87,15 +87,15 @@ Elena usa un flujo que maximiza el valor de Copilot:
 
 ## Capítulo 6: Los riesgos de la programación asistida
 
-**Codigo no verificado:** El codigo generado puede contener bugs o vulnerabilidades. La revisión cuidadosa es obligatoria.
+**Código no verificado:** El código generado puede contener bugs o vulnerabilidades. La revisión cuidadosa es obligatoria.
 
 **Dependencia excesiva:** Programadores que delegan demasiado pueden degradar sus habilidades de resolución de problemas.
 
-**Propiedad intelectual:** Copilot esta entrenado en codigo público de GitHub, incluyendo codigo con licencias restrictivas.
+**Propiedad intelectual:** Copilot esta entrenado en código público de GitHub, incluyendo código con licencias restrictivas.
 
-**Seguridad:** Estudios muestran que Copilot a veces sugiere codigo con vulnerabilidades conocidas.
+**Seguridad:** Estudios muestran que Copilot a veces sugiere código con vulnerabilidades conocidas.
 
-**Privacidad:** El codigo pasa por servidores de GitHub/Microsoft.
+**Privacidad:** El código pasa por servidores de GitHub/Microsoft.
 
 ---
 
@@ -113,11 +113,11 @@ Ruben, sin experiencia de programación formal, aprendió a generar scripts de P
 
 ## Capítulo 8: El futuro de la programación con IA
 
-**Agentes de codigo:** Sistemas como Devin (Cognition AI) que pueden escribir features completas a partir de una descripción de alto nivel.
+**Agentes de código:** Sistemas como Devin (Cognition AI) que pueden escribir features completas a partir de una descripción de alto nivel.
 
 **Multi-archivo y multi-repositorio:** Los sistemas del futuro entenderan la arquitectura completa del proyecto.
 
-**Generación de tests:** Cobertura de tests generada automáticamente para codigo existente o nuevo.
+**Generación de tests:** Cobertura de tests generada automáticamente para código existente o nuevo.
 
 **Revisión de seguridad:** análisis automático de vulnerabilidades con sugerencias de corrección.
 
@@ -138,7 +138,7 @@ Lo que la evidencia actual sugiere:
 
 Elena no teme a Copilot. Lo ve como el salto más significativo en productividad de su carrera.
 
-'Pase de escribir 200 lineas de codigo al dia a poder escribir 500. Pero más importante: pase de pasar el 30% de mi tiempo en codigo rutinario a pasar el 80% en las partes interesantes del problema.'
+'Pase de escribir 200 lineas de código al dia a poder escribir 500. Pero más importante: pase de pasar el 30% de mi tiempo en código rutinario a pasar el 80% en las partes interesantes del problema.'
 
 El trabajo que le apasiona — diseñar sistemas, resolver problemas complejos — no lo hace Copilot. Copilot hace el trabajo que había que hacer para llegar a ese trabajo.
 
@@ -146,7 +146,7 @@ El trabajo que le apasiona — diseñar sistemas, resolver problemas complejos �
 
 ## Epílogo: El codigo como nueva escritura
 
-La programación asistida está haciendo el codigo más accesible. Como la imprenta hizo más accesible la escritura sin eliminar la necesidad de escritores con talento, la IA está haciendo más accesible el codigo sin eliminar la necesidad de programadores con criterio.
+La programación asistida está haciendo el código más accesible. Como la imprenta hizo más accesible la escritura sin eliminar la necesidad de escritores con talento, la IA está haciendo más accesible el código sin eliminar la necesidad de programadores con criterio.
 
 ---
 

@@ -79,7 +79,7 @@ La persona que conoces mejor de ti misma no eres tu solo. Eres tu en relación c
 
 Isabel piensa cada vez más en que querrá haber dejado cuando ya no este.
 
-**El Principio del Legado como Extensión del Crecimiento Personal más allá de la Propia Vida que da Profundidad al Desarrollo en la Mediana y Vejez:** Erik Erikson identifico la generatividad (la preocupación por guiar a la siguiente generación y contribuir a un mundo mejor que el que se recibio) cómo la tarea central de la mediana edad. La generatividad no requiere tener hijos biologicos: puede expresarse a traves de la mentoria, la creación artistica o intelectual, la contribución a instituciones, o cualquier otra forma de dejar algo para los que vienen después.
+**El Principio del Legado como Extensión del Crecimiento Personal más allá de la Propia Vida que da Profundidad al Desarrollo en la Mediana y Vejez:** Erik Erikson identifico la generatividad (la preocupación por guiar a la siguiente generación y contribuir a un mundo mejor que el que se recibio) cómo la tarea central de la mediana edad. La generatividad no requiere tener hijos biológicos: puede expresarse a traves de la mentoria, la creación artistica o intelectual, la contribución a instituciones, o cualquier otra forma de dejar algo para los que vienen después.
 
 La investigación de Dan McAdams sobre las narrativas generativas muestra que las personas con mayor orientación hacía la generatividad reportan mayor bienestar, mayor sentido de proposito, y mayor satisfacción vital en la mediana y la vejez. El cuidado por las generaciones futuras no es un sacrificio del bienestar presente: es frecuentemente uno de los mayores contribuidores a el.
 

@@ -71,7 +71,7 @@ A nivel familiar, los mensajes sobre que merece verguenza o culpa se transmiten 
 
 **Ejercicio inmediato:** Identifica la fuente familiar de tu culpa o verguenza más persistente: ¿que mensaje específico sobre lo que es aceptable o inaceptable en ti esta detras de esa emoción? Ese mensaje, que probablemente fue aprendido en la infancia, no fue elegido conscientemente y puede ser cuestionado ahora con perspectiva adulta.
 
-El codigo moral con el que te juzgas en la intimidad fue programado cuando eras demasiado pequeño para elegirlo. Es hora de revisarlo.
+El código moral con el que te juzgas en la intimidad fue programado cuando eras demasiado pequeño para elegirlo. Es hora de revisarlo.
 
 ---
 
@@ -95,9 +95,9 @@ Ruben se ha dado cuenta de que parte de su identidad esta construida en torno a 
 
 **El Principio de la Culpa como Identidad versus Culpa como Señal:** La culpa que se cronifica y se convierte en parte de la identidad (soy alguien que lleva la culpa de X) ha dejado de ser una señal emocional que motiva el cambio y se ha convertido en un rasgo de carácter. Esta transformation de señal a identidad tiene varias funciones psicológicas: puede servir como forma de control (si me siento suficientemente culpable, no lo repetire), como evidencia de profundidad moral (las personas verdaderamente morales se sienten culpables), o como forma de atraer el cuidado de otros.
 
-El problema de la culpa como identidad es que, por definición, no tiene solución: si la culpa es quien soy, no hay acción que pueda reducirla permanentemente porque la perdida de la culpa amenazaria la identidad. La distinción entre la culpa como señal (que tiene la solución de responsabilizarse, reparar, y soltar) y la culpa como identidad (que no tiene solución porque la solución disolveria una parte de quien se cree ser) es el diagnostico que permite identificar el tipo de trabajo necesario.
+El problema de la culpa como identidad es que, por definición, no tiene solución: si la culpa es quien soy, no hay acción que pueda reducirla permanentemente porque la perdida de la culpa amenazaria la identidad. La distinción entre la culpa como señal (que tiene la solución de responsabilizarse, reparar, y soltar) y la culpa como identidad (que no tiene solución porque la solución disolveria una parte de quien se cree ser) es el diagnóstico que permite identificar el tipo de trabajo necesario.
 
-**Ejercicio inmediato:** Para tu culpa más persistente, pregunta: ¿si de repente te liberaras completamente de esta culpa, que perderia de ti? Si la respuesta incluye cosas como mi profundidad moral, mi seriedad, o mi forma de demostrar que me importa, la culpa está funcionando como identidad, no como señal. Ese diagnostico no elimina la culpa pero identifica el nivel de trabajo que requiere.
+**Ejercicio inmediato:** Para tu culpa más persistente, pregunta: ¿si de repente te liberaras completamente de esta culpa, que perderia de ti? Si la respuesta incluye cosas como mi profundidad moral, mi seriedad, o mi forma de demostrar que me importa, la culpa está funcionando como identidad, no como señal. Ese diagnóstico no elimina la culpa pero identifica el nivel de trabajo que requiere.
 
 La culpa que te define no tiene solución. Solo tiene mantenimiento. Y eso nunca era lo que la culpa se propuso ser.
 
@@ -139,7 +139,7 @@ Elena a veces se siente avergonzada de cosas que, cuando las analiza, no son res
 
 John Bradshaw, trabajador social y terapeuta, desarrollo el concepto de verguenza toxica: la verguenza que no viene de un comportamiento específico sino de la comunicación repetida de que uno es fundamentalmente defectuoso. Esta verguenza toxica, a diferencia de la culpa sana, no puede resolverse porque no tiene un comportamiento específico que cambiar: es una evaluación del yo, no del comportamiento.
 
-**Ejercicio inmediato:** Para la verguenza que sientes sobre aspectos de ti mismo (no comportamientos sino caracteristicas), pregunta: ¿es esta una evaluación que yo hago de mi mismo basandome en mis propios valores, o es una evaluación que aprendi de alguien que tenía inters en que me sintiera defectuoso? La distinción identifica si la verguenza señala algo que genuinamente quieres cambiar o si es una herramienta de control que puedes rechazar.
+**Ejercicio inmediato:** Para la verguenza que sientes sobre aspectos de ti mismo (no comportamientos sino características), pregunta: ¿es esta una evaluación que yo hago de mi mismo basandome en mis propios valores, o es una evaluación que aprendi de alguien que tenía inters en que me sintiera defectuoso? La distinción identifica si la verguenza señala algo que genuinamente quieres cambiar o si es una herramienta de control que puedes rechazar.
 
 No toda verguenza que sientes es tuya. Algunas fueron depositadas en ti por otros. Puedes devolvérselas.
 

@@ -133,7 +133,7 @@ El trabajo final de integrar el pasado relacional difícil es usar esa integraci
 
 **El Principio de la Elección Consciente del Futuro a partir del Pasado Integrado:** Una vez que el pasado relacional difícil ha sido procesado e integrado de forma saludable, se abre la posibilidad de elegir conscientemente que patrones se quieren conservar (resiliencia desarrollada, lecciones aprendidas) y cuales se quieren conscientemente dejar atras, en lugar de simplemente repetir automáticamente lo que la historia paso dejó instalado.
 
-**Ejercicio inmediato:** A partir de tu historia relacional integrada, escribe tres caracteristicas específicas de como quieres relacionarte de aquí en adelante, eligiendolas conscientemente en lugar de simplemente heredarlas por defecto de tu pasado.
+**Ejercicio inmediato:** A partir de tu historia relacional integrada, escribe tres características específicas de como quieres relacionarte de aquí en adelante, eligiendolas conscientemente en lugar de simplemente heredarlas por defecto de tu pasado.
 
 Tu historia relacional difícil no determina automáticamente quien eres en el futuro. Integrada conscientemente, te da la base desde la cual elegir quien quieres ser.
 

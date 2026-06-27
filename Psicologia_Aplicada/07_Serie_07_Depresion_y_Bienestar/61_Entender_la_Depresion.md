@@ -25,11 +25,11 @@ La depresión se confunde frecuentemente con cosas que no es. Aclarar la confusi
 
 **El Principio de la Depresión como Trastorno del Funcionamiento, no de la Voluntad:** La Organización Mundial de la Salud define la depresión cómo un trastorno mental caracterizado por tristeza persistente, perdida de interés en actividades que antes se disfrutaban, e incapacidad para realizar las actividades cotidianas durante al menos dos semanas. La distinción crítica respecto a la tristeza ordinaria es la persistencia y la pervasividad: no es un mal dia o una semana difícil sino un estado que altera el funcionamiento global durante un período sostenido.
 
-La investigación neurobiologica de Ronald Duman y colegas muestra que la depresión implica cambios medibles en la estructura y función cerebral: reducción del volumen del hipocampo, alteraciones en los circuitos de recompensa, y disfunción en los sistemas de regulación del estres. Estos cambios no se producen por falta de voluntad sino por la interacción de factores biologicos, psicológicos, y ambientales.
+La investigación neurobiologica de Ronald Duman y colegas muestra que la depresión implica cambios medibles en la estructura y función cerebral: reducción del volumen del hipocampo, alteraciones en los circuitos de recompensa, y disfunción en los sistemas de regulación del estres. Estos cambios no se producen por falta de voluntad sino por la interacción de factores biológicos, psicológicos, y ambientales.
 
 **Ejercicio inmediato:** Si reconoces elementos del estado que describe este prólogo en tu propia experiencia, toma nota de cuanto tiempo llevas en ese estado, como afecta al sueño y al apetito, y cuanto ha cambiado tu capacidad de sentir placer en cosas que antes te producian disfrute. Esa información es relevante para evaluar si lo que vives merece atención profesional.
 
-La depresión no es debilidad de carácter. Es un trastorno médico con causas biologicas y tratamientos efectivos, igual que la diabetes o la hipertensión.
+La depresión no es debilidad de carácter. Es un trastorno médico con causas biológicas y tratamientos efectivos, igual que la diabetes o la hipertensión.
 
 ---
 
@@ -39,7 +39,7 @@ Isabel pensó durante años que lo que vivía no era depresión porque tenía mo
 
 **El Principio del Espectro Depresivo como Variedad de Presentaciones Clinicas:** El DSM-5 y la CIE-11 reconocen multiples tipos de trastorno depresivo: el trastorno depresivo mayor (episodios de al menos dos semanas con cinco o más sintomas), la distimia o trastorno depresivo persistente (estado de animo deprimido la mayor parte del tiempo durante al menos dos años, con sintomas menos intensos pero más cronicos), el trastorno afectivo estacional (episodios depresivos relacionados con cambios de estación), y otras formas.
 
-La investigación de Gordon Parker y colegas muestra que la depresión tiene fenotipos clinicos diferentes que responden mejor a tratamientos diferentes: la depresión melancolica (con anhedonia severa y patrones biologicos marcados) responde mejor a la farmacoterapia que a la psicoterapia sola, mientras que la depresión no melancolica muestra mayor respuesta a la psicoterapia.
+La investigación de Gordon Parker y colegas muestra que la depresión tiene fenotipos clinicos diferentes que responden mejor a tratamientos diferentes: la depresión melancolica (con anhedonia severa y patrones biológicos marcados) responde mejor a la farmacoterapia que a la psicoterapia sola, mientras que la depresión no melancolica muestra mayor respuesta a la psicoterapia.
 
 **Ejercicio inmediato:** Si llevas meses o años con un estado de animo moderadamente bajo que nunca llega a la crisis pero que tampoco desaparece, considera que podrías estar viviendo una distimia. La distimia es frecuentemente invisible porque se normaliza: la persona asume que simplemente es como es. Esa normalización es parte de lo que hace que la distimia tenga baja tasa de tratamiento.
 
@@ -53,7 +53,7 @@ Ruben siempre pensó que la depresión era solo emocional. La neurociencia le mu
 
 **El Principio de la Depresión como Trastorno del Cerebro con Correlatos Medibles:** La hipotesis monoaminergica clasica (la depresión como deficit de serotonina o noradrenalina) ha sido reemplazada por modelos más complejos. Ronald Duman de Yale propone que la depresión implica atrofia de las conexiones sinapticas en el cortex prefrontal y el hipocampo, y que los antidepresivos efectivos actuan restaurando esas conexiones.
 
-La investigación de Helen Mayberg con neuroimagen identifica el área subgenual del cortex cingulado anterior (área 25 de Brodmann) cómo un nodo crítico en los circuitos de la depresión: hiperactiva en la depresión, se normaliza con tratamientos efectivos tanto farmacologicos como psicológicos. Esta convergencia de tratamientos en el mismo circuito sugiere que la psicoterapia y la farmacoterapia actuan sobre la misma biología, aunque por vias diferentes.
+La investigación de Helen Mayberg con neuroimagen identifica el área subgenual del cortex cingulado anterior (área 25 de Brodmann) cómo un nodo crítico en los circuitos de la depresión: hiperactiva en la depresión, se normaliza con tratamientos efectivos tanto farmacológicos como psicológicos. Esta convergencia de tratamientos en el mismo circuito sugiere que la psicoterapia y la farmacoterapia actuan sobre la misma biología, aunque por vias diferentes.
 
 **Ejercicio inmediato:** La próxima vez que notes el pensamiento de que debería ser capaz de salir de esto con voluntad, recuerda este capítulo: los cambios que produce la depresión en el cerebro son tan reales cómo un hueso roto. No los ves en un escaner ordinario pero estan ahí. La voluntad no puede reparar conexiones sinapticas, igual que no puede soldar un hueso.
 
@@ -93,7 +93,7 @@ La depresión que no reconoces no puede tratarse. Y la que se normaliza como ago
 
 Isabel no lloraba. Solo había dejado de disfrutar. Ese es el sintoma central de la depresión que menos se entiende.
 
-**El Principio de la Anhedonia como Marcador Cardinal de la Depresión:** La anhedonia (la incapacidad para experimentar placer en actividades que antes lo producian) es considerada por muchos investigadores el sintoma más específico de la depresión. A diferencia de la tristeza (que puede experimentarse en duelo normal, frustración, o decepción), la anhedonia raramente ocurre fuera de los estados depresivos y es un predictor más robusto de los correlatos biologicos de la depresión.
+**El Principio de la Anhedonia como Marcador Cardinal de la Depresión:** La anhedonia (la incapacidad para experimentar placer en actividades que antes lo producian) es considerada por muchos investigadores el sintoma más específico de la depresión. A diferencia de la tristeza (que puede experimentarse en duelo normal, frustración, o decepción), la anhedonia raramente ocurre fuera de los estados depresivos y es un predictor más robusto de los correlatos biológicos de la depresión.
 
 La investigación de Stefan Klein sobre los circuitos de recompensa en la depresión muestra que la anhedonia no es simplemente no sentir placer: es una disfunción del sistema de anticipación de la recompensa. Las personas con anhedonia severa no solo no disfrutan de las actividades sino que tampoco anticipan el disfrute, lo que reduce la motivación para iniciar actividades que podrían en principio producir placer.
 

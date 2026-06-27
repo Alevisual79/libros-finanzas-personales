@@ -245,6 +245,162 @@ def fix_encoding(line):
     return line
 
 
+# 7. Adjetivos/sustantivos sin tilde (esdrújulas — siempre llevan tilde)
+# Safe: only words that cannot be verb forms (no ambiguity)
+ESDRUJ_FIXES = [
+    # académic*
+    (re.compile(r'\bacademica\b',     re.IGNORECASE), 'académica'),
+    (re.compile(r'\bacademico\b',     re.IGNORECASE), 'académico'),
+    (re.compile(r'\bacademicas\b',    re.IGNORECASE), 'académicas'),
+    (re.compile(r'\bacademicos\b',    re.IGNORECASE), 'académicos'),
+    # económic*
+    (re.compile(r'\beconomica\b',     re.IGNORECASE), 'económica'),
+    (re.compile(r'\beconomico\b',     re.IGNORECASE), 'económico'),
+    (re.compile(r'\beconomicas\b',    re.IGNORECASE), 'económicas'),
+    (re.compile(r'\beconomicos\b',    re.IGNORECASE), 'económicos'),
+    # técnic*
+    (re.compile(r'\btecnica\b',       re.IGNORECASE), 'técnica'),
+    (re.compile(r'\btecnico\b',       re.IGNORECASE), 'técnico'),
+    (re.compile(r'\btecnicas\b',      re.IGNORECASE), 'técnicas'),
+    (re.compile(r'\btecnicos\b',      re.IGNORECASE), 'técnicos'),
+    # característic*
+    (re.compile(r'\bcaracteristica\b',  re.IGNORECASE), 'característica'),
+    (re.compile(r'\bcaracteristico\b',  re.IGNORECASE), 'característico'),
+    (re.compile(r'\bcaracteristicas\b', re.IGNORECASE), 'características'),
+    (re.compile(r'\bcaracteristicos\b', re.IGNORECASE), 'característicos'),
+    # lógic*
+    (re.compile(r'\blogica\b',        re.IGNORECASE), 'lógica'),
+    (re.compile(r'\blogico\b',        re.IGNORECASE), 'lógico'),
+    (re.compile(r'\blogicas\b',       re.IGNORECASE), 'lógicas'),
+    (re.compile(r'\blogicos\b',       re.IGNORECASE), 'lógicos'),
+    # código (noun; "yo codifico" is different)
+    (re.compile(r'\bcodigo\b',        re.IGNORECASE), 'código'),
+    (re.compile(r'\bcodigos\b',       re.IGNORECASE), 'códigos'),
+    # orgánic*
+    (re.compile(r'\borganica\b',      re.IGNORECASE), 'orgánica'),
+    (re.compile(r'\borganico\b',      re.IGNORECASE), 'orgánico'),
+    (re.compile(r'\borganicas\b',     re.IGNORECASE), 'orgánicas'),
+    (re.compile(r'\borganicos\b',     re.IGNORECASE), 'orgánicos'),
+    # diagnóstic*
+    (re.compile(r'\bdiagnostico\b',   re.IGNORECASE), 'diagnóstico'),
+    (re.compile(r'\bdiagnosticos\b',  re.IGNORECASE), 'diagnósticos'),
+    # fisiológic*
+    (re.compile(r'\bfisiologica\b',   re.IGNORECASE), 'fisiológica'),
+    (re.compile(r'\bfisiologico\b',   re.IGNORECASE), 'fisiológico'),
+    (re.compile(r'\bfisiologicas\b',  re.IGNORECASE), 'fisiológicas'),
+    (re.compile(r'\bfisiologicos\b',  re.IGNORECASE), 'fisiológicos'),
+    # psicológic*
+    (re.compile(r'\bpsicologica\b',   re.IGNORECASE), 'psicológica'),
+    (re.compile(r'\bpsicologico\b',   re.IGNORECASE), 'psicológico'),
+    (re.compile(r'\bpsicologicas\b',  re.IGNORECASE), 'psicológicas'),
+    (re.compile(r'\bpsicologicos\b',  re.IGNORECASE), 'psicológicos'),
+    # biológic*
+    (re.compile(r'\bbiologica\b',     re.IGNORECASE), 'biológica'),
+    (re.compile(r'\bbiologico\b',     re.IGNORECASE), 'biológico'),
+    (re.compile(r'\bbiologicas\b',    re.IGNORECASE), 'biológicas'),
+    (re.compile(r'\bbiologicos\b',    re.IGNORECASE), 'biológicos'),
+    # automátic*
+    (re.compile(r'\bautomatica\b',    re.IGNORECASE), 'automática'),
+    (re.compile(r'\bautomatico\b',    re.IGNORECASE), 'automático'),
+    (re.compile(r'\bautomaticas\b',   re.IGNORECASE), 'automáticas'),
+    (re.compile(r'\bautomaticos\b',   re.IGNORECASE), 'automáticos'),
+    # históric*
+    (re.compile(r'\bhistorica\b',     re.IGNORECASE), 'histórica'),
+    (re.compile(r'\bhistorico\b',     re.IGNORECASE), 'histórico'),
+    (re.compile(r'\bhistoricas\b',    re.IGNORECASE), 'históricas'),
+    (re.compile(r'\bhistoricos\b',    re.IGNORECASE), 'históricos'),
+    # estratégic*
+    (re.compile(r'\bestrategica\b',   re.IGNORECASE), 'estratégica'),
+    (re.compile(r'\bestrategico\b',   re.IGNORECASE), 'estratégico'),
+    (re.compile(r'\bestrategicas\b',  re.IGNORECASE), 'estratégicas'),
+    (re.compile(r'\bestrategicos\b',  re.IGNORECASE), 'estratégicos'),
+    # sistemátic*
+    (re.compile(r'\bsistematica\b',   re.IGNORECASE), 'sistemática'),
+    (re.compile(r'\bsistematico\b',   re.IGNORECASE), 'sistemático'),
+    (re.compile(r'\bsistematicas\b',  re.IGNORECASE), 'sistemáticas'),
+    (re.compile(r'\bsistematicos\b',  re.IGNORECASE), 'sistemáticos'),
+    # sintétic*
+    (re.compile(r'\bsintetica\b',     re.IGNORECASE), 'sintética'),
+    (re.compile(r'\bsintetico\b',     re.IGNORECASE), 'sintético'),
+    (re.compile(r'\bsinteticas\b',    re.IGNORECASE), 'sintéticas'),
+    (re.compile(r'\bsinteticos\b',    re.IGNORECASE), 'sintéticos'),
+    # enérgic* / energétic*
+    (re.compile(r'\benergetica\b',    re.IGNORECASE), 'energética'),
+    (re.compile(r'\benergetico\b',    re.IGNORECASE), 'energético'),
+    (re.compile(r'\benergeticas\b',   re.IGNORECASE), 'energéticas'),
+    (re.compile(r'\benergeticos\b',   re.IGNORECASE), 'energéticos'),
+    # crític* EXCLUIDO — 'critica/critico' también son formas verbales de "criticar"
+    # farmacológic*
+    (re.compile(r'\bfarmacologica\b', re.IGNORECASE), 'farmacológica'),
+    (re.compile(r'\bfarmacologico\b', re.IGNORECASE), 'farmacológico'),
+    (re.compile(r'\bfarmacologicas\b',re.IGNORECASE), 'farmacológicas'),
+    (re.compile(r'\bfarmacologicos\b',re.IGNORECASE), 'farmacológicos'),
+    # neurológic*
+    (re.compile(r'\bneurologica\b',   re.IGNORECASE), 'neurológica'),
+    (re.compile(r'\bneurologico\b',   re.IGNORECASE), 'neurológico'),
+    (re.compile(r'\bneurologicas\b',  re.IGNORECASE), 'neurológicas'),
+    (re.compile(r'\bneurologicos\b',  re.IGNORECASE), 'neurológicos'),
+    # analógic*
+    (re.compile(r'\banalogica\b',     re.IGNORECASE), 'analógica'),
+    (re.compile(r'\banalogico\b',     re.IGNORECASE), 'analógico'),
+    # matemátic*
+    (re.compile(r'\bmatematica\b',    re.IGNORECASE), 'matemática'),
+    (re.compile(r'\bmatematico\b',    re.IGNORECASE), 'matemático'),
+    (re.compile(r'\bmatematicas\b',   re.IGNORECASE), 'matemáticas'),
+    (re.compile(r'\bmatematicos\b',   re.IGNORECASE), 'matemáticos'),
+    # fenómeno
+    (re.compile(r'\bfenomeno\b',      re.IGNORECASE), 'fenómeno'),
+    (re.compile(r'\bfenomenos\b',     re.IGNORECASE), 'fenómenos'),
+    # análisis (invariable)
+    (re.compile(r'\banalisis\b',      re.IGNORECASE), 'análisis'),
+    # método/s
+    (re.compile(r'\bmetodo\b',        re.IGNORECASE), 'método'),
+    (re.compile(r'\bmetodos\b',       re.IGNORECASE), 'métodos'),
+    # número/s
+    (re.compile(r'\bnumero\b',        re.IGNORECASE), 'número'),
+    (re.compile(r'\bnumeros\b',       re.IGNORECASE), 'números'),
+    # teléfono/s
+    (re.compile(r'\btelefono\b',      re.IGNORECASE), 'teléfono'),
+    (re.compile(r'\btelefonos\b',     re.IGNORECASE), 'teléfonos'),
+    # período/s
+    (re.compile(r'\bperiodo\b',       re.IGNORECASE), 'período'),
+    (re.compile(r'\bperiodos\b',      re.IGNORECASE), 'períodos'),
+    # artículo/s
+    (re.compile(r'\barticulo\b',      re.IGNORECASE), 'artículo'),
+    (re.compile(r'\barticulos\b',     re.IGNORECASE), 'artículos'),
+    # último/s/a/as
+    (re.compile(r'\bultimo\b',        re.IGNORECASE), 'último'),
+    (re.compile(r'\bultima\b',        re.IGNORECASE), 'última'),
+    (re.compile(r'\bultimos\b',       re.IGNORECASE), 'últimos'),
+    (re.compile(r'\bultimas\b',       re.IGNORECASE), 'últimas'),
+    # próximo/s/a/as
+    (re.compile(r'\bproximo\b',       re.IGNORECASE), 'próximo'),
+    (re.compile(r'\bproxima\b',       re.IGNORECASE), 'próxima'),
+    (re.compile(r'\bproximos\b',      re.IGNORECASE), 'próximos'),
+    (re.compile(r'\bproximas\b',      re.IGNORECASE), 'próximas'),
+    # dinámico/s/a/as
+    (re.compile(r'\bdinamica\b',      re.IGNORECASE), 'dinámica'),
+    (re.compile(r'\bdinamico\b',      re.IGNORECASE), 'dinámico'),
+    (re.compile(r'\bdinamicas\b',     re.IGNORECASE), 'dinámicas'),
+    (re.compile(r'\bdinamicos\b',     re.IGNORECASE), 'dinámicos'),
+    # físic* (careful: fisico/fisica as adj for subject "physical"; not verb)
+    (re.compile(r'\bfisica\b',        re.IGNORECASE), 'física'),
+    (re.compile(r'\bfisico\b',        re.IGNORECASE), 'físico'),
+    (re.compile(r'\bfisicas\b',       re.IGNORECASE), 'físicas'),
+    (re.compile(r'\bfisicos\b',       re.IGNORECASE), 'físicos'),
+]
+
+def fix_esdrujulas(line):
+    for pattern, repl in ESDRUJ_FIXES:
+        def _repl(m, r=repl):
+            orig = m.group(0)
+            if orig[0].isupper():
+                return r[0].upper() + r[1:]
+            return r
+        line = pattern.sub(_repl, line)
+    return line
+
+
 # ── Procesado por línea ──────────────────────────────────────────────────────
 
 def fix_line(line):
@@ -264,6 +420,7 @@ def fix_line(line):
     line = fix_imperfect(line)
     line = fix_imperatives(line)
     line = fix_esta(line)
+    line = fix_esdrujulas(line)
     line = fix_q_colon(line)
     line = fix_q_afterq(line)
     line = fix_q_after_dot(line)

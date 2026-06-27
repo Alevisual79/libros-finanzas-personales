@@ -73,7 +73,7 @@ Mantener una red profesional activa requiere contacto periodico, pero existe una
 
 **El Principio del Contacto de Valor Espaciado:** El mantenimiento efectivo de relaciones profesionales se beneficia de contacto periodico (no constante) que aporte valor específico en cada interacción: compartir un recurso relevante para los intereses conocidos del contacto, felicitar por un logró específico observado, o simplemente reconectar genuinamente después de un período razonable sin contacto, en lugar de mensajes frecuentes sin contenido sustantivo.
 
-**Ejercicio inmediato:** Identifica a una persona de tu red con quien no has tenido contacto en más de seis meses. Envia un mensaje que aporte algo de valor específico (un articulo relevante, una felicitación por un logró que viste, una pregunta genuina sobre su trabajo actual).
+**Ejercicio inmediato:** Identifica a una persona de tu red con quien no has tenido contacto en más de seis meses. Envia un mensaje que aporte algo de valor específico (un artículo relevante, una felicitación por un logró que viste, una pregunta genuina sobre su trabajo actual).
 
 El contacto de mantenimiento de red no es molesto cuando aporta valor específico. Es molesto solo cuando es generico o demasiado frecuente sin sustancia.
 
@@ -107,7 +107,7 @@ Dar antes de pedir no es una tactica de manipulación. Es la base genuina de cua
 
 Las relaciones de mentoria, donde una persona con más experiencia ofrece guia y perspectiva a alguien con menos experiencia, requieren iniciativa específica para encontrarlas y cuidado deliberado para mantenerlas valiosas a lo largo del tiempo.
 
-**El Principio de la Mentoria como Relación Activa:** Las relaciones de mentoria más valiosas no se inician con una solicitud formal y generica de ser mi mentor, sino con interacciones organicas que demuestran interés genuino en el conocimiento y la perspectiva del mentor potencial, evolucionando gradualmente hacía una relación más formal de guia continuada. Mantener viva la relación requiere que el mentee tome iniciativa consistente, mostrando progreso y aplicación del consejo recibido.
+**El Principio de la Mentoria como Relación Activa:** Las relaciones de mentoria más valiosas no se inician con una solicitud formal y generica de ser mi mentor, sino con interacciones orgánicas que demuestran interés genuino en el conocimiento y la perspectiva del mentor potencial, evolucionando gradualmente hacía una relación más formal de guia continuada. Mantener viva la relación requiere que el mentee tome iniciativa consistente, mostrando progreso y aplicación del consejo recibido.
 
 **Ejercicio inmediato:** Identifica una persona con experiencia que admires y de quien te gustaria aprender. En lugar de pedir formalmente ser tu mentor, inicia una conversación genuina sobre un tema específico de su experiencia que te interese.
 

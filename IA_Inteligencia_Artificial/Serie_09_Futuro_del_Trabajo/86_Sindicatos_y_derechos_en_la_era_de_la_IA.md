@@ -15,7 +15,7 @@ Las implicaciones de Sindicatos y derechos en la era de la IA se sienten ya en o
 
 ## Capítulo 3: Los marcos de referencia
 
-Para entender y navegar Sindicatos y derechos en la era de la IA necesitamos marcos conceptuales rigurosos provenientes de la investigación academica, la práctica profesional y el debate ético.
+Para entender y navegar Sindicatos y derechos en la era de la IA necesitamos marcos conceptuales rigurosos provenientes de la investigación académica, la práctica profesional y el debate ético.
 
 ## Capítulo 4: El caso de Elena
 

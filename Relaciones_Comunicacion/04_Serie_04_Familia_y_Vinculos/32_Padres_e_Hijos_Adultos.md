@@ -49,7 +49,7 @@ El padre que da demasiados consejos no siempre quiere controlar. A veces solo qu
 
 La autonomía creciente del hijo adulto, especialmente cuando implica decisiones que el padre no habría tomado, puede generar ansiedad parental que se manifiesta como crítica o intromisión.
 
-**El Principio del Miedo Disfrazado de Critica:** Gran parte de la crítica parental hacía las decisiones del hijo adulto (su carrera, su pareja, su forma de criar a sus propios hijos) tiene su origen en el miedo del padre a que el hijo sufra, no en un deseo genuino de controlar. Este miedo, sin embargo, se experimenta por el hijo como falta de confianza o respeto, generando un ciclo de defensividad mutua que dificulta la comunicación real.
+**El Principio del Miedo Disfrazado de Crítica:** Gran parte de la crítica parental hacía las decisiones del hijo adulto (su carrera, su pareja, su forma de criar a sus propios hijos) tiene su origen en el miedo del padre a que el hijo sufra, no en un deseo genuino de controlar. Este miedo, sin embargo, se experimenta por el hijo como falta de confianza o respeto, generando un ciclo de defensividad mutua que dificulta la comunicación real.
 
 **Ejercicio inmediato:** La próxima vez que sientas crítica de tus padres sobre una decisión tuya, intenta preguntarles directamente: ¿te preocupa algo específico sobre esta decisión? Nombrar el miedo subyacente puede cambiar la conversación de un conflicto sobre control a una conversación sobre preocupación real.
 

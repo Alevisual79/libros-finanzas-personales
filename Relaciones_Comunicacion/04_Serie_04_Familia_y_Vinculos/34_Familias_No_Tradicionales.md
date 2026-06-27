@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-La familia nuclear con madre, padre e hijos biologicos viviendo juntos hasta la edad adulta es hoy, estadisticamente, minoria en muchas sociedades occidentales. Familias monoparentales, reconstituidas, homoparentales, de acogida, y comunidades de elección conviven y prosperan con la misma legitimidad, aunque a menudo sin las herramientas y guiones sociales que existen para la familia tradicional.
+La familia nuclear con madre, padre e hijos biológicos viviendo juntos hasta la edad adulta es hoy, estadisticamente, minoria en muchas sociedades occidentales. Familias monoparentales, reconstituidas, homoparentales, de acogida, y comunidades de elección conviven y prosperan con la misma legitimidad, aunque a menudo sin las herramientas y guiones sociales que existen para la familia tradicional.
 
 Este libro no defiende un modelo de familia sobre otro. Defiende que cualquier estructura familiar, cuando se gestiona con consciencia, comunicación y cuidado, puede ofrecer a sus miembros lo que toda familia debería ofrecer: seguridad, pertenencia y amor.
 
@@ -49,9 +49,9 @@ Una familia monoparental no es una familia incompleta. Es una familia que se ben
 
 Las familias reconstituidas, formadas tras la separación y nueva unión de uno o ambos progenitores, requieren la construcción deliberada de vinculos entre personas que no comparten historia previa.
 
-**El Principio de la Construcción Gradual del Vinculo:** Patricia Papernow, investigadora especializada en familias reconstituidas, muestra que el error más común en estas familias es esperar que los nuevos vinculos (entre la pareja del progenitor y los hijos, entre hermanastros) se formen con la misma rapidez e intensidad que los vinculos biologicos. El proceso real de integración de una familia reconstituida toma tipicamente entre cuatro y siete años, y forzar la cercania antes de ese tiempo natural suele generar resistencia, no conexión.
+**El Principio de la Construcción Gradual del Vinculo:** Patricia Papernow, investigadora especializada en familias reconstituidas, muestra que el error más común en estas familias es esperar que los nuevos vinculos (entre la pareja del progenitor y los hijos, entre hermanastros) se formen con la misma rapidez e intensidad que los vinculos biológicos. El proceso real de integración de una familia reconstituida toma tipicamente entre cuatro y siete años, y forzar la cercania antes de ese tiempo natural suele generar resistencia, no conexión.
 
-**Ejercicio inmediato:** Si formas parte de una familia reconstituida reciente, ajusta tus expectativas sobre el ritmo de formación de vinculos. Identifica una acción pequeña que pueda construir conexión gradualmente, sin forzar una cercania que todavia no es organica.
+**Ejercicio inmediato:** Si formas parte de una familia reconstituida reciente, ajusta tus expectativas sobre el ritmo de formación de vinculos. Identifica una acción pequeña que pueda construir conexión gradualmente, sin forzar una cercania que todavia no es orgánica.
 
 Los vinculos en una familia reconstituida no se decretan. Se construyen, con tiempo y paciencia, ladrillo a ladrillo.
 
@@ -99,7 +99,7 @@ Muchas personas, especialmente aquellas que han sido rechazadas o distanciadas d
 
 **El Principio de la Familia Elegida como Recurso Legitimo:** La investigación sobre redes de apoyo, especialmente en comunidades LGBTQ y otras poblaciones marginadas que frecuentemente enfrentan rechazó de la familia biológica, muestra que la familia elegida puede proporcionar el mismo nivel de apoyo emocional, sentido de pertenencia y seguridad que la familia biológica idealmente proporcionaria. No es una familia de segunda categoría. Es una familia real, formada por elección en lugar de por biología.
 
-**Ejercicio inmediato:** Si tienes una red de familia elegida, reflexiona sobre como podrías honrar y fortalecer esas relaciones con la misma intención con que se cultivan las relaciones familiares biologicas: rituales, comunicación regular, compromiso mutuo.
+**Ejercicio inmediato:** Si tienes una red de familia elegida, reflexiona sobre como podrías honrar y fortalecer esas relaciones con la misma intención con que se cultivan las relaciones familiares biológicas: rituales, comunicación regular, compromiso mutuo.
 
 La familia que eliges puede ser tan real, tan sólida y tan importante cómo la familia en la que naciste.
 

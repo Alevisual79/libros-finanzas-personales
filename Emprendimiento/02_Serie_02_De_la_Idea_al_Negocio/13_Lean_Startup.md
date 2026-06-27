@@ -27,7 +27,7 @@ El mundo ha cambiado. La metodologia de negocios que funcionaba en un mundo esta
 
 La investigación de Steve Blank sobre el fracaso de startups en Silicon Valley mostró que la causa principal no era la falta de ejecución sino la ejecución perfecta de un plan basado en suposiciones incorrectas. El Lean Startup propone probar las suposiciones antes de ejecutar el plan.
 
-**Ejercicio inmediato:** Identifica las tres suposiciones más importantes de tu negocio que todavia no han sido probadas con el mercado real: la suposición sobre quien es tu cliente (que persona específica con que caracteristicas específicas tiene el problema), la suposición sobre el problema (que tan urgente y frecuente es), y la suposición sobre la solución (que tu propuesta es la que prefieren). Para cada una, reflexiona: ¿como podría probarla o refutarla en menos de dos semanas?
+**Ejercicio inmediato:** Identifica las tres suposiciones más importantes de tu negocio que todavia no han sido probadas con el mercado real: la suposición sobre quien es tu cliente (que persona específica con que características específicas tiene el problema), la suposición sobre el problema (que tan urgente y frecuente es), y la suposición sobre la solución (que tu propuesta es la que prefieren). Para cada una, reflexiona: ¿como podría probarla o refutarla en menos de dos semanas?
 
 El plan basado en suposiciones no probadas es un castillo construido sobre arena que el primer cliente real puede derribar.
 

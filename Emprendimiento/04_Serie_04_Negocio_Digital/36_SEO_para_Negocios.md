@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos tiene un negocio online que no aparece en Google. Sus potenciales clientes buscan exactamente lo que el ofrece y el no aparece en ninguna de las busquedas relevantes. Lucia tiene un blog con cien articulos que no genera trafico organico porque ninguno esta optimizado para las busquedas que su audiencia hace. Marcos tiene una web profesional con un buen diseño que aparece en la página tres de Google para las busquedas de su tipo de servicio. Los tres comparten el mismo problema: tienen un activo digital que no está generando el trafico organico que podría. El SEO no es un lujo para empresas grandes. Es la herramienta que hace que el negocio sea visible para las personas que ya lo estan buscando.
+Carlos tiene un negocio online que no aparece en Google. Sus potenciales clientes buscan exactamente lo que el ofrece y el no aparece en ninguna de las busquedas relevantes. Lucia tiene un blog con cien artículos que no genera trafico orgánico porque ninguno esta optimizado para las busquedas que su audiencia hace. Marcos tiene una web profesional con un buen diseño que aparece en la página tres de Google para las busquedas de su tipo de servicio. Los tres comparten el mismo problema: tienen un activo digital que no está generando el trafico orgánico que podría. El SEO no es un lujo para empresas grandes. Es la herramienta que hace que el negocio sea visible para las personas que ya lo estan buscando.
 
 ---
 
@@ -27,7 +27,7 @@ Para optimizar para Google, primero hay que entender que está tratando de hacer
 
 Los tres factores principales que Google evalua para determinar el ranking son: ¿la relevancia (el contenido responde específicamente a la busqueda del usuario?), la autoridad (cuantos otros sitios relevantes enlazan al tuyo, lo que Google interpreta como votos de confianza), y la experiencia de usuario (la web carga rápido, es facil de navegar en movil, y el usuario encuentra lo que busca?).
 
-**Ejercicio inmediato:** Busca en Google las diez frases que tu cliente ideal escribiria para encontrar tu negocio o servicio. Observa que aparece en la primera página para esas busquedas: quienes son los competidores que ocupan esas posiciones, que tipo de contenido tienen (articulos de blog, páginas de servicio, videos), y cuanto texto tienen de media. Esa información te dice el nivel de contenido que necesitas producir para competir por esas posiciones.
+**Ejercicio inmediato:** Busca en Google las diez frases que tu cliente ideal escribiria para encontrar tu negocio o servicio. Observa que aparece en la primera página para esas busquedas: quienes son los competidores que ocupan esas posiciones, que tipo de contenido tienen (artículos de blog, páginas de servicio, videos), y cuanto texto tienen de media. Esa información te dice el nivel de contenido que necesitas producir para competir por esas posiciones.
 
 Google no tiene preferencias: tiene objetivos. Entender sus objetivos es entender las reglas del juego.
 
@@ -53,9 +53,9 @@ Marcos ha aplicado el SEO on-page a su web y ha visto como sus posiciones en Goo
 
 **El Principio del SEO On-Page cómo la Optimización de Cada página de Tu Web para qué Google Entienda de Que Trata esa página y Para Quien Es Relevante Usando Señales Claras que Los Buscadores Interpretan como Relevancia:** Los factores de SEO on-page más importantes son: el título de la página (el H1 que es el primer elemento que Google lee para entender el tema de la página), el meta título (el texto que aparece en los resultados de busqueda de Google, que debe incluir la palabra clave principal y ser atractivo para generar clics), la meta descripción (el texto descriptivo bajo el título en Google, que no afecta directamente al ranking pero si a la tasa de clics), la estructura de encabezados (H1, H2, H3 que organizan el contenido de forma jerarquica), y la densidad y distribución natural de la palabra clave principal a lo largo del texto.
 
-Brian Dean en Backlinko ha documentado que los articulos más largos (de 1.800 a 2.500 palabras) tienen en promedio mayor posicionamiento en Google que los articulos cortos, porque responden con mayor profundidad a la busqueda del usuario.
+Brian Dean en Backlinko ha documentado que los artículos más largos (de 1.800 a 2.500 palabras) tienen en promedio mayor posicionamiento en Google que los artículos cortos, porque responden con mayor profundidad a la busqueda del usuario.
 
-**Ejercicio inmediato:** Elige tu página o articulo más importante y aplica una auditoria de SEO on-page: ¿el título H1 incluye la palabra clave principal?, el meta título tiene menos de 60 caracteres e incluye la palabra clave y una propuesta de valor atractiva?, el contenido responde de forma completa y específica a la busqueda (es el contenido más útil que podrías encontrar en internet sobre ese tema?), y hay enlaces internos a otras páginas relevantes de tu web? Mejora los elementos que no cumplan esas condiciones y observa el impacto en Google Search Console en las próximas cuatro a ocho semanas.
+**Ejercicio inmediato:** Elige tu página o artículo más importante y aplica una auditoria de SEO on-page: ¿el título H1 incluye la palabra clave principal?, el meta título tiene menos de 60 caracteres e incluye la palabra clave y una propuesta de valor atractiva?, el contenido responde de forma completa y específica a la busqueda (es el contenido más útil que podrías encontrar en internet sobre ese tema?), y hay enlaces internos a otras páginas relevantes de tu web? Mejora los elementos que no cumplan esas condiciones y observa el impacto en Google Search Console en las próximas cuatro a ocho semanas.
 
 La página optimizada para SEO no es la que tiene más palabras clave. Es la que responde mejor a la pregunta del usuario.
 
@@ -105,15 +105,15 @@ El negocio local que no tiene perfil de Google My Business deja que sus competid
 
 ## Capítulo 7: La estrategia de contenido para SEO: como crear contenido que posiciona
 
-Carlos ha desarrollado una estrategia de contenido para SEO que genera trafico organico creciente cada mes.
+Carlos ha desarrollado una estrategia de contenido para SEO que genera trafico orgánico creciente cada mes.
 
-**El Principio de La Estrategia de Contenido para SEO como La Creación sistemática de Contenido que Responde a Las Busquedas específicas de Tu Audiencia en Cada Fase del Proceso de Compra para Construir Autoridad Organica en Tu Nicho a Largo Plazo:** La estrategia de contenido para SEO efectiva tiene tres niveles: el contenido pilar (uno o dos articulos o páginas de maxima profundidad sobre el tema principal de tu negocio, que buscan posicionar por las palabras clave más importantes), el contenido de cluster (multiples articulos más específicos que cubren subtemas relacionados con el tema pilar y enlazan al pilar principal), y el contenido de longtail (articulos que responden preguntas muy específicas con baja competencia).
+**El Principio de La Estrategia de Contenido para SEO como La Creación sistemática de Contenido que Responde a Las Busquedas específicas de Tu Audiencia en Cada Fase del Proceso de Compra para Construir Autoridad Orgánica en Tu Nicho a Largo Plazo:** La estrategia de contenido para SEO efectiva tiene tres niveles: el contenido pilar (uno o dos artículos o páginas de maxima profundidad sobre el tema principal de tu negocio, que buscan posicionar por las palabras clave más importantes), el contenido de cluster (multiples artículos más específicos que cubren subtemas relacionados con el tema pilar y enlazan al pilar principal), y el contenido de longtail (artículos que responden preguntas muy específicas con baja competencia).
 
 HubSpot ha documentado con su modelo de pillar-cluster que los sitios que organizan su contenido en temas pilar con clusters de contenido relacionado tienen mejor posicionamiento y mayor autoridad en Google que los que publican contenido desconectado sobre temas variados.
 
-**Ejercicio inmediato:** Para tu negocio, define tu tema pilar de SEO: el tema sobre el que quieres ser referente en Google (por ejemplo, consultoria de marketing digital para restaurantes). Luego lista diez subtemas específicos relacionados que puedes desarrollar en articulos individuales (por ejemplo, redes sociales para restaurantes, email marketing para restaurantes, Google Ads para restaurantes). Ese conjunto de once piezas de contenido (el pilar más los diez clusters) es el nucleo de tu estrategia de SEO para los próximos seis meses.
+**Ejercicio inmediato:** Para tu negocio, define tu tema pilar de SEO: el tema sobre el que quieres ser referente en Google (por ejemplo, consultoria de marketing digital para restaurantes). Luego lista diez subtemas específicos relacionados que puedes desarrollar en artículos individuales (por ejemplo, redes sociales para restaurantes, email marketing para restaurantes, Google Ads para restaurantes). Ese conjunto de once piezas de contenido (el pilar más los diez clusters) es el nucleo de tu estrategia de SEO para los próximos seis meses.
 
-El articulo que responde la pregunta específica de tu cliente en la página uno de Google trabaja veinticuatro horas al dia los trescientos sesenta y cinco dias del año sin coste adicional.
+El artículo que responde la pregunta específica de tu cliente en la página uno de Google trabaja veinticuatro horas al dia los trescientos sesenta y cinco dias del año sin coste adicional.
 
 ---
 
@@ -121,11 +121,11 @@ El articulo que responde la pregunta específica de tu cliente en la página uno
 
 Lucia ha aprendido a medir el SEO con las metricas correctas para saber que está funcionando y que no.
 
-**El Principio de La Medición del SEO como el Seguimiento de Las Metricas Correctas que Indican Si El Esfuerzo de Optimización Está Produciendo Los Resultados Esperados en Terminos de Trafico Organico, Posicionamiento, y Conversión:** Las metricas fundamentales del SEO son: el trafico organico (número de visitas que llegan desde busquedas en Google, medido en Google Analytics), las posiciones en Google (el ranking de las palabras clave objetivo, medido en Google Search Console o herramientas de terceros como Ahrefs), el CTR organico (el porcentaje de personas que hacen clic en tu resultado cuando aparece en Google), y las conversiones del trafico organico (leads, compras, o acciones específicas que completan los visitantes que llegan desde Google).
+**El Principio de La Medición del SEO como el Seguimiento de Las Metricas Correctas que Indican Si El Esfuerzo de Optimización Está Produciendo Los Resultados Esperados en Terminos de Trafico Orgánico, Posicionamiento, y Conversión:** Las metricas fundamentales del SEO son: el trafico orgánico (número de visitas que llegan desde busquedas en Google, medido en Google Analytics), las posiciones en Google (el ranking de las palabras clave objetivo, medido en Google Search Console o herramientas de terceros como Ahrefs), el CTR orgánico (el porcentaje de personas que hacen clic en tu resultado cuando aparece en Google), y las conversiones del trafico orgánico (leads, compras, o acciones específicas que completan los visitantes que llegan desde Google).
 
-La investigación de Ahrefs sobre los plazos del SEO muestra que la mayoría del trafico organico de un articulo nuevo llega entre seis y doce meses después de su publicación. El SEO es una inversión a largo plazo y la medición debe hacerse en esos plazos para no sacar conclusiones incorrectas demasiado pronto.
+La investigación de Ahrefs sobre los plazos del SEO muestra que la mayoría del trafico orgánico de un artículo nuevo llega entre seis y doce meses después de su publicación. El SEO es una inversión a largo plazo y la medición debe hacerse en esos plazos para no sacar conclusiones incorrectas demasiado pronto.
 
-**Ejercicio inmediato:** Configura un dashboard de seguimiento de SEO con cuatro metricas mensuales: trafico organico total (de Google Analytics), número de palabras clave en el top 10 de Google (de Google Search Console), CTR organico promedio (de Google Search Console), y conversiones del trafico organico (de Google Analytics Goals). Revisa esas cuatro metricas una vez al mes y anota la tendencia. Si el trafico organico crece mes a mes, el SEO está funcionando. Si no crece después de seis meses de trabajo consistente, hay que diagnosticar que está fallando.
+**Ejercicio inmediato:** Configura un dashboard de seguimiento de SEO con cuatro metricas mensuales: trafico orgánico total (de Google Analytics), número de palabras clave en el top 10 de Google (de Google Search Console), CTR orgánico promedio (de Google Search Console), y conversiones del trafico orgánico (de Google Analytics Goals). Revisa esas cuatro metricas una vez al mes y anota la tendencia. Si el trafico orgánico crece mes a mes, el SEO está funcionando. Si no crece después de seis meses de trabajo consistente, hay que diagnosticar que está fallando.
 
 El SEO que no se mide no se puede mejorar. Y el que se mide con las metricas equivocadas produce conclusiones incorrectas.
 
@@ -147,13 +147,13 @@ El SEO que construyes sobre contenido genuinamente excelente no le teme a las ac
 
 ## Capítulo 10: Integrar el SEO: del primer articulo a la maquina de trafico organico
 
-Carlos ha construido un sistema de SEO que genera trafico organico creciente mes a mes.
+Carlos ha construido un sistema de SEO que genera trafico orgánico creciente mes a mes.
 
-**El Principio del Sistema de SEO Integrado como La Combinación de Investigación de Palabras Clave, Creación sistemática de Contenido, Construcción de Backlinks, y Optimización técnica que Producen Crecimiento Compuesto de Trafico Organico que Aumenta con El Tiempo Sin Costo Adicional Proporcional:** El SEO, al contrario que la publicidad de pago, produce rendimientos compuestos: el articulo que escribiste hace seis meses sigue generando trafico hoy sin que hayas invertido nada adicional en el. Eso significa que el negocio que lleva dos años haciendo SEO correctamente no necesita gastar el mismo presupuesto de marketing que el que lleva dos meses porque parte del trafico viene de un activo que ya está construido.
+**El Principio del Sistema de SEO Integrado como La Combinación de Investigación de Palabras Clave, Creación sistemática de Contenido, Construcción de Backlinks, y Optimización técnica que Producen Crecimiento Compuesto de Trafico Orgánico que Aumenta con El Tiempo Sin Costo Adicional Proporcional:** El SEO, al contrario que la publicidad de pago, produce rendimientos compuestos: el artículo que escribiste hace seis meses sigue generando trafico hoy sin que hayas invertido nada adicional en el. Eso significa que el negocio que lleva dos años haciendo SEO correctamente no necesita gastar el mismo presupuesto de marketing que el que lleva dos meses porque parte del trafico viene de un activo que ya está construido.
 
-La investigación de Ahrefs sobre el valor del trafico organico muestra que el trafico SEO es el canal de marketing con mayor ROI a largo plazo para la mayoría de los negocios digitales: el coste por adquisición de cliente disminuye progresivamente a medida que el activo SEO crece.
+La investigación de Ahrefs sobre el valor del trafico orgánico muestra que el trafico SEO es el canal de marketing con mayor ROI a largo plazo para la mayoría de los negocios digitales: el coste por adquisición de cliente disminuye progresivamente a medida que el activo SEO crece.
 
-**Ejercicio inmediato:** Define tu plan de SEO para los próximos doce meses en tres fases: la fase de base (meses uno a tres: auditoria técnica, investigación de palabras clave, y creación del contenido pilar), la fase de construcción (meses cuatro a nueve: publicación constante de contenido cluster y primeras acciones de link building), y la fase de optimización (meses diez a doce: análisis de que contenido ya está generando trafico y optimización de los que estan cerca de la primera página para dar el empujon final). Ese plan de doce meses, ejecutado con consistencia, produce un activo de trafico organico que sigue creciendo después de los doce meses.
+**Ejercicio inmediato:** Define tu plan de SEO para los próximos doce meses en tres fases: la fase de base (meses uno a tres: auditoria técnica, investigación de palabras clave, y creación del contenido pilar), la fase de construcción (meses cuatro a nueve: publicación constante de contenido cluster y primeras acciones de link building), y la fase de optimización (meses diez a doce: análisis de que contenido ya está generando trafico y optimización de los que estan cerca de la primera página para dar el empujon final). Ese plan de doce meses, ejecutado con consistencia, produce un activo de trafico orgánico que sigue creciendo después de los doce meses.
 
 El SEO que empezaste hoy genera trafico en seis meses. El que empezaste hace seis meses ya está generando trafico ahora mismo.
 
@@ -161,7 +161,7 @@ El SEO que empezaste hoy genera trafico en seis meses. El que empezaste hace sei
 
 ## Epílogo
 
-Lucia miro el informe de Google Analytics de su blog un año después de haber implementado su estrategia de SEO: el trafico organico mensual había pasado de doscientas visitas al mes (que había tenido durante dos años con cien articulos sin optimizar) a cuatro mil doscientas visitas al mes. La diferencia no había sido publicar más articulos. Habia sido publicar los articulos correctos (los que respondian a las busquedas que su audiencia hacía en Google), optimizados correctamente, y construir autoridad con backlinks de calidad. Cuatro mil visitas organicas al mes, sin presupuesto de publicidad, mes tras mes. Eso es el valor del activo bien construido.
+Lucia miro el informe de Google Analytics de su blog un año después de haber implementado su estrategia de SEO: el trafico orgánico mensual había pasado de doscientas visitas al mes (que había tenido durante dos años con cien artículos sin optimizar) a cuatro mil doscientas visitas al mes. La diferencia no había sido publicar más artículos. Habia sido publicar los artículos correctos (los que respondian a las busquedas que su audiencia hacía en Google), optimizados correctamente, y construir autoridad con backlinks de calidad. Cuatro mil visitas orgánicas al mes, sin presupuesto de publicidad, mes tras mes. Eso es el valor del activo bien construido.
 
 ---
 

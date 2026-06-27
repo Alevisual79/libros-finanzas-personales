@@ -27,7 +27,7 @@ La motivación no es un deposito que se llena o se vacia. Tiene tipos con funcio
 
 La investigación de Deci y Ryan muestra que la motivación intrinseca produce mayor calidad de trabajo, mayor persistencia, mayor creatividad, y mayor bienestar que la extrinseca. Y que, paradojicamente, anadir recompensas externas a actividades que ya son intrinsecamente motivadoras puede reducir la motivación intrinseca (el efecto de sobrejustificación): cuando el pago externo llega, el cerebro puede reinterpretar la actividad como trabajo, no como algo que se hace por gusto.
 
-**Ejercicio inmediato:** Para las tres actividades más importantes de tu vida cotidiana (trabajo, hobby, relaciones), reflexiona: ¿que porcentaje de la motivación para cada una es intrinseca (la actividad en si te importa) y que porcentaje es extrinseca (lo haces por las consecuencias, la aprobación, o la obligación)? Ese diagnostico revela donde tienes motivación sostenible y donde dependes de factores que pueden desaparecer.
+**Ejercicio inmediato:** Para las tres actividades más importantes de tu vida cotidiana (trabajo, hobby, relaciones), reflexiona: ¿que porcentaje de la motivación para cada una es intrinseca (la actividad en si te importa) y que porcentaje es extrinseca (lo haces por las consecuencias, la aprobación, o la obligación)? Ese diagnóstico revela donde tienes motivación sostenible y donde dependes de factores que pueden desaparecer.
 
 La motivación que depende solo de factores externos es tan confiable como esos factores. La que viene de dentro resiste cuando los factores externos fallan.
 
@@ -55,7 +55,7 @@ Ruben ha tenido momentos en el trabajo donde el tiempo pasa sin sentirlo y el tr
 
 Las condiciones del flujo incluyen: el equilibrio entre el desafio de la tarea y la habilidad de quien la realiza (demasiado desafio produce ansiedad; muy poco produce aburrimiento; el equilibrio produce flujo), la claridad de los objetivos de la tarea, y la retroalimentación inmediata sobre el progreso. La investigación muestra que el flujo ocurre con mayor frecuencia en actividades que tienen estas tres condiciones.
 
-**Ejercicio inmediato:** Identifica las dos o tres actividades en tu vida donde has experimentado flujo (trabajo o tiempo libre). ¿Que caracteristicas tenían esas actividades? ¿Cual era el nivel de desafio en relación a tus capacidades? ¿Que retroalimentación inmediata recibía tu desempeno? Disenar más actividades con esas caracteristicas produce más flujo y, por tanto, más motivación intrinseca.
+**Ejercicio inmediato:** Identifica las dos o tres actividades en tu vida donde has experimentado flujo (trabajo o tiempo libre). ¿Que características tenían esas actividades? ¿Cual era el nivel de desafio en relación a tus capacidades? ¿Que retroalimentación inmediata recibía tu desempeno? Disenar más actividades con esas características produce más flujo y, por tanto, más motivación intrinseca.
 
 El flujo no es el resultado de la motivación. Es la motivación en su forma más pura, y puede ser diseñado.
 

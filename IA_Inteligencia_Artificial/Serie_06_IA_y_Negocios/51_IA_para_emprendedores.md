@@ -9,7 +9,7 @@ Este libro explora como IA para emprendedores se está transformando con la IA.
 Elena, Ruben e Isabel han aplicado estas prácticas en sus contextos respectivos. Sus experiencias ilustran tanto los beneficios reales como los obstaculos que hay que superar.
 
 ## Capítulo 1: El estado del arte
-Las empresas que lideran en IA para emprendedores con IA comparten caracteristicas comunes: inician con casos de uso bien definidos, miden resultados con rigor y escalan gradualmente.
+Las empresas que lideran en IA para emprendedores con IA comparten características comunes: inician con casos de uso bien definidos, miden resultados con rigor y escalan gradualmente.
 
 ## Capítulo 2: Las oportunidades
 Las tres oportunidades de mayor impacto en esta área son la automatización de tareas repetitivas, la personalización a escala y el análisis predictivo para anticipar tendencias.
@@ -27,7 +27,7 @@ Isabel aplico los principios de IA para emprendedores a la gestión de personas.
 Elena evaluó e implementó herramientas de IA para IA para emprendedores en su empresa. Su principal aprendizaje: la tecnología es facil; la gestión del cambio es el trabajo real.
 
 ## Capítulo 7: Implementación paso a paso
-La metodologia de implementación: diagnostico (2 semanas), selección de herramientas (2 semanas), piloto controlado (1 mes), evaluación y expansión o ajuste (1 mes).
+La metodologia de implementación: diagnóstico (2 semanas), selección de herramientas (2 semanas), piloto controlado (1 mes), evaluación y expansión o ajuste (1 mes).
 
 ## Capítulo 8: Los errores más costosos
 Implementar sin redisenar el proceso, no involucrar al equipo, expectativas irrealistas, no medir el impacto y elegir la herramienta antes de entender el problema son los errores que más frecuentemente hacen fracasar las implementaciones.

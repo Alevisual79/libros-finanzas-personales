@@ -21,7 +21,7 @@ Ruben se sienta a trabajar en un proyecto importante a las diez de la mañana. A
 
 ## Capítulo 1: La atención como recurso finito y renovable
 
-La atención no es un interruptor que se enciende o apaga. Es un recurso con capacidad limitada, que se agota con el uso y se renueva con el descanso adecuado, y que opera bajo reglas neurologicas específicas que pocas personas conocen aunque todos usamos.
+La atención no es un interruptor que se enciende o apaga. Es un recurso con capacidad limitada, que se agota con el uso y se renueva con el descanso adecuado, y que opera bajo reglas neurológicas específicas que pocas personas conocen aunque todos usamos.
 
 **El Principio de la Atención como Presupuesto Cognitivo:** Daniel Kahneman propuso el modelo de la atención cómo un presupuesto cognitivo limitado: cada persona dispone de una cantidad finita de recursos atencionales en un período dado, y cada demanda cognitiva consume parte de ese presupuesto. Cuando el presupuesto se agota, la calidad del procesamiento cognitivo cae drasticamente aunque la persona no siempre sea consciente de esa caida. Los errores, las malas decisiones y la irritabilidad al final del dia son frecuentemente señales de presupuesto agotado, no de defectos de carácter.
 
@@ -119,7 +119,7 @@ El descanso no es la ausencia de trabajo. Es la condición que hace posible el t
 
 ## Capítulo 8: La atención en la era de la sobreestimulación
 
-Elena ha notado que le cuesta cada vez más leer libros que le costaba terminar. Que prefiere articulos cortos. Que las peliculas largas le resultan difíciles de seguir. No es que la cultura haya empeorado. Es que su capacidad de atención sostenida se ha condicionado gradualmente a ciclos más cortos por años de consumo digital fragmentado.
+Elena ha notado que le cuesta cada vez más leer libros que le costaba terminar. Que prefiere artículos cortos. Que las peliculas largas le resultan difíciles de seguir. No es que la cultura haya empeorado. Es que su capacidad de atención sostenida se ha condicionado gradualmente a ciclos más cortos por años de consumo digital fragmentado.
 
 **El Principio de la Atención como Musculo Entrenable o Atrofiable:** Michael Merzenich, cuya investigación sobre neuroplasticidad establece que el cerebro cambia en respuesta al entrenamiento, señala que el uso intensivo de tecnología digital que premia la atención breve y el cambio frecuente de estímulos puede condicionar al cerebro hacía ciclos atencionales más cortos y mayor necesidad de novedad. No porque el cerebro sea dañado irreversiblemente, sino porque se adapta al entorno en que opera. El mismo mecanismo de plasticidad que puede deteriorar la atención sostenida puede recuperarla con el entrenamiento apropiado.
 
@@ -161,7 +161,7 @@ En la economía de la atención, la persona que decide donde va su atención tie
 
 ## Epílogo
 
-Ruben implementó su protocolo personal de atención en un mes de prueba. Telefono en modo avion de nueve a doce cada dia laborable. Dos bloques de trabajo profundo de noventa minutos cada uno. Sin correo antes de las doce. Al final del mes, había producido más en el proyecto que importaba que en los tres meses anteriores combinados. El problema nunca había sido falta de capacidad. Habia sido la fragmentación sistemática de la capacidad que tenía en un entorno que nunca le había exigido protegerla.
+Ruben implementó su protocolo personal de atención en un mes de prueba. Teléfono en modo avion de nueve a doce cada dia laborable. Dos bloques de trabajo profundo de noventa minutos cada uno. Sin correo antes de las doce. Al final del mes, había producido más en el proyecto que importaba que en los tres meses anteriores combinados. El problema nunca había sido falta de capacidad. Habia sido la fragmentación sistemática de la capacidad que tenía en un entorno que nunca le había exigido protegerla.
 
 ---
 

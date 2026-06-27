@@ -63,7 +63,7 @@ Freud describió en 1920 algo que llamaba compulsión a la repetición: la tende
 
 **El Principio del Final Alternativo:** La repetición compulsiva no es autodestructiva en su intención. Es un intento, siempre frustrado, de resolver un conflicto antiguo en un escenario nuevo. El problema es que el conflicto antiguo no se puede resolver en el escenario nuevo. Solo se puede resolver en la fuente: en el trabajo terapeutico sobre la herida original. Buscar ese final alternativo en relaciones externas es como intentar curar una infección con analgesia.
 
-Las investigaciones en neurociencia de Bessel van der Kolk confirman que los patrones de repetición traumatica son neurologicos ademas de psicológicos: el cerebro literalmente recrea las condiciones de la herida original en la esperanza de que esta vez el resultado sea diferente.
+Las investigaciones en neurociencia de Bessel van der Kolk confirman que los patrones de repetición traumatica son neurológicos ademas de psicológicos: el cerebro literalmente recrea las condiciones de la herida original en la esperanza de que esta vez el resultado sea diferente.
 
 **Ejercicio inmediato:** Piensa en la relación más difícil de tu vida. ¿Que es lo que más te dolio de esa relación? Ahora piensa: ¿en tu historia más temprana, hay alguien con quien sientes que algo similar no se resolvio bien? La conexión entre esas dos preguntas revela la repetición compulsiva en acción.
 
@@ -77,7 +77,7 @@ Los patrones relacionales son infinitamente variados en sus detalles pero conver
 
 **El Principio de las Categorias de Patron:** El patron del rescatador: siempre terminas cuidando a personas en crisis y acabas agotado. El patron del invisible: das mucho pero nunca pides, y te sientes no visto. El patron del complaciente: dices si a todo para evitar conflicto y te sientes vacio. El patron del distanciador: te acercas cuando el otro se aleja y te alejas cuando el otro se acerca. El patron del saboteador: cuando las cosas van bien, inconscientemente encuentras la forma de estropearlas.
 
-Cada patron tiene una logica interna. El rescatador siente valor cuando ayuda. El invisible teme la carga que supone para los demás. El complaciente teme el rechazó. El distanciador teme la intimidad. El saboteador teme el éxito o no se cree merecededor de algo bueno.
+Cada patron tiene una lógica interna. El rescatador siente valor cuando ayuda. El invisible teme la carga que supone para los demás. El complaciente teme el rechazó. El distanciador teme la intimidad. El saboteador teme el éxito o no se cree merecededor de algo bueno.
 
 **Ejercicio inmediato:** De los cinco patrones, cual reconoces más en ti mismo? No tienes que elegir solo uno. Pueden coexistir varios. Ahora pregúntate: ¿que necesidad satisface ese patron? La necesidad no es el problema. La forma de satisfacerla si puede serlo.
 

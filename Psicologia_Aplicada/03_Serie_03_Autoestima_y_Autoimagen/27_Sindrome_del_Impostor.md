@@ -21,11 +21,11 @@ Isabel acaba de ser promovida a directora de departamento después de diez años
 
 ## Capítulo 1: Que es el sindrome del impostor
 
-El sindrome del impostor no es un diagnostico clínico formal. Es un patron psicológico documentado por primera vez en 1978 por las psicologas Pauline Clance y Suzanne Imes que describe la experiencia de sentirse un fraude a pesar de la evidencia objetiva de competencia y éxito.
+El sindrome del impostor no es un diagnóstico clínico formal. Es un patron psicológico documentado por primera vez en 1978 por las psicologas Pauline Clance y Suzanne Imes que describe la experiencia de sentirse un fraude a pesar de la evidencia objetiva de competencia y éxito.
 
-**El Principio de la Brecha entre Logro Externo y Sentido Interno de Competencia:** Clance e Imes identificaron que muchas personas de alto rendimiento, especialmente mujeres en entornos academicos y profesionales de alta demanda, vivían con la sensación persistente de no merecer sus logros. Atribuian sus éxitos a factores externos (suerte, casualidad, engañar a los demás) y sus fracasos a factores internos (incompetencia, incapacidad fundamental). Esta asimetria en la atribución produce un estado de ansiedad cronica ante la posibilidad de ser descubierto.
+**El Principio de la Brecha entre Logro Externo y Sentido Interno de Competencia:** Clance e Imes identificaron que muchas personas de alto rendimiento, especialmente mujeres en entornos académicos y profesionales de alta demanda, vivían con la sensación persistente de no merecer sus logros. Atribuian sus éxitos a factores externos (suerte, casualidad, engañar a los demás) y sus fracasos a factores internos (incompetencia, incapacidad fundamental). Esta asimetria en la atribución produce un estado de ansiedad cronica ante la posibilidad de ser descubierto.
 
-La investigación posterior reveló que el sindrome no es exclusivo de mujeres ni de entornos academicos: afecta a personas de ambos sexos en multiples contextos, con prevalencias estimadas que oscilan entre el setenta y el ochenta por ciento de la población que ha tenido algun episodio significativo de sentirse un impostor.
+La investigación posterior reveló que el sindrome no es exclusivo de mujeres ni de entornos académicos: afecta a personas de ambos sexos en multiples contextos, con prevalencias estimadas que oscilan entre el setenta y el ochenta por ciento de la población que ha tenido algun episodio significativo de sentirse un impostor.
 
 **Ejercicio inmediato:** Piensa en un logró reciente importante. ¿Cuando te lo reconocieron, cual fue tu primera reacción interna? ¿Celebración genuina, incomodidad con el reconocimiento, o pensamientos sobre que fue suerte o que no lo mereces realmente? La respuesta mapea tu relación con tus propios logros.
 
@@ -69,7 +69,7 @@ Ruben puede rastrear su sindrome hasta mensajes específicos recibidos en la inf
 
 La combinación de estos factores produce una sensación de ser el unico que no es tan bueno como parece, que se mantiene precisamente porque el sindrome del impostor impide la vulnerabilidad que revelaria que los demás sienten lo mismo.
 
-**Ejercicio inmediato:** Identifica el contexto o entorno donde el sindrome del impostor es más intenso para ti. Luego identifica que caracteristica específica de ese entorno (la visibilidad, la comparación con personas percibidas como más competentes, la historia de logros de otros en ese espacio) contribuye más al sindrome. La especificidad del contexto sugiere que el sindrome no es una evaluación global de tu competencia sino una respuesta a ese entorno particular.
+**Ejercicio inmediato:** Identifica el contexto o entorno donde el sindrome del impostor es más intenso para ti. Luego identifica que característica específica de ese entorno (la visibilidad, la comparación con personas percibidas como más competentes, la historia de logros de otros en ese espacio) contribuye más al sindrome. La especificidad del contexto sugiere que el sindrome no es una evaluación global de tu competencia sino una respuesta a ese entorno particular.
 
 El sindrome del impostor no dice nada sobre quien eres en general. Dice algo sobre como te sientes en ese entorno específico.
 
@@ -105,7 +105,7 @@ El sindrome del impostor predice que te van a descubrir. La exposición acumula 
 
 ## Capítulo 7: Mentorias y sindrome del impostor: el aislamiento que lo alimenta
 
-Elena se ha resistido a buscar mentores porque le da verguenza que alguien con más experiencia descubra lo poco que sabe. Este razonamiento es caracteristico del sindrome del impostor y produce precisamente el aislamiento que lo alimenta.
+Elena se ha resistido a buscar mentores porque le da verguenza que alguien con más experiencia descubra lo poco que sabe. Este razonamiento es característico del sindrome del impostor y produce precisamente el aislamiento que lo alimenta.
 
 **El Principio de la Vulnerabilidad Compartida como Antidoto:** El sindrome del impostor prospera en el secreto y el aislamiento. La persona con el sindrome cree que es la unica que se siente asi, lo que refuerza la sensación de ser un impostor (si fuera realmente competente, no tendría estas dudas). La conversación honesta sobre las propias inseguridades con personas de confianza frecuentemente revela que la sensación es mucho más compartida de lo que el sindrome permite creer.
 
@@ -151,7 +151,7 @@ Isabel ha empezado a practicar lo que llama declaraciones de competencia calibra
 
 **El Principio de la Competencia Suficiente como Estandar Realista:** Valerie Young propone que la meta del trabajo con el sindrome del impostor no es alcanzar la certeza absoluta sobre la propia competencia (que es imposible y que el sindrome usaria para elevar aun más el estandar) sino desarrollar una tolerancia funcional a la incertidumbre sobre la propia competencia: puedo actuar con competencia aunque no este seguro de ser el más competente, aunque cometa errores, aunque haya cosas que no se.
 
-Esta tolerancia a la incompletud del propio conocimiento es en realidad la caracteristica más honesta de los expertos reales: cuanto más saben, más reconocen lo que no saben, y pueden actuar con confianza desde lo que saben sin que eso les paralice.
+Esta tolerancia a la incompletud del propio conocimiento es en realidad la característica más honesta de los expertos reales: cuanto más saben, más reconocen lo que no saben, y pueden actuar con confianza desde lo que saben sin que eso les paralice.
 
 **Ejercicio inmediato:** Escribe tu declaración de competencia calibrada para el área donde el sindrome del impostor es más intenso. No perfecto, no el mejor, no sin dudas. Sino: tengo X experiencia específica, he manejado Y situaciones similares, puedo hacer Z aunque hay cosas que todavia estoy aprendiendo. Esa declaración es más verdadera que la del sindrome, y es desde la que puedes actuar con mayor estabilidad.
 

@@ -129,7 +129,7 @@ La envidia es información disfrazada de emoción incomoda.
 
 Cuando Isabel entra en una reunión con mal humor, en diez minutos el ambiente de toda la sala ha cambiado. No porque haya dicho nada especialmente negativo. El contagio emocional es involuntario y bidireccional: absorbemos el estado emocional de quienes nos rodean y transmitimos el nuestro, sin palabras, a traves de microexpresiones, tono de voz y postura.
 
-**El Principio del Sistema Nervioso Compartido:** Las neuronas espejo, descubiertas por Giacomo Rizzolatti, son el mecanismo neurologico del contagio emocional: neuronas que se activan tanto cuando hacemos algo como cuando vemos a otro hacerlo. Este mecanismo es la base de la empatia. Pero también significa que el estado emocional de las personas con quienes convivimos nos afecta directamente a nivel neurologico, no solo psicológico.
+**El Principio del Sistema Nervioso Compartido:** Las neuronas espejo, descubiertas por Giacomo Rizzolatti, son el mecanismo neurológico del contagio emocional: neuronas que se activan tanto cuando hacemos algo como cuando vemos a otro hacerlo. Este mecanismo es la base de la empatia. Pero también significa que el estado emocional de las personas con quienes convivimos nos afecta directamente a nivel neurológico, no solo psicológico.
 
 En las relaciones intimas, la regulación emocional se hace parcialmente de forma conjunta. La calma de uno puede calmar al otro. La ansiedad de uno puede activar la del otro. Las parejas y familias emocionalmente saludables desarrollan sistemas de co-regulación que funcionan en los dos sentidos.
 

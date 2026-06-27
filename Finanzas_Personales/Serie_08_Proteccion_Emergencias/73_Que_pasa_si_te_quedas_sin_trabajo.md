@@ -96,7 +96,7 @@ Si hay hipoteca, préstamos o deudas significativas, el error más frecuente es 
 
 Esa comunicación proactiva, incómoda pero necesaria, cambia completamente las opciones disponibles.
 
-Muchos bancos tienen protocolos específicos para clientes que han perdido el trabajo: periodos de carencia en la hipoteca durante los que solo se pagan intereses, congelación temporal de cuotas, renegociación del calendario de pagos.
+Muchos bancos tienen protocolos específicos para clientes que han perdido el trabajo: períodos de carencia en la hipoteca durante los que solo se pagan intereses, congelación temporal de cuotas, renegociación del calendario de pagos.
 
 En España existe el Código de Buenas Prácticas Bancarias para hipotecas, que obliga a las entidades adheridas a ofrecer ciertas medidas de alivio a deudores hipotecarios en dificultad. Hay que solicitarlo activamente.
 

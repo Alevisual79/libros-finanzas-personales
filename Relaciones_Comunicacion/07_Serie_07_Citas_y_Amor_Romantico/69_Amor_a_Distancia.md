@@ -23,7 +23,7 @@ Ruben conocio a alguien durante un viaje. Los dos sintieron una conexión que ni
 
 Cuando una relación comienza ya en condición de distancia geografica significativa, sin haber tenido una fase previa de proximidad, enfrenta desafios específicos distintos de las relaciones que se vuelven a distancia después de haber empezado de forma presencial.
 
-**El Principio de la Base Construida sin Presencia Fisica:** Las relaciones que inician a distancia deben construir su conocimiento mutuo y su confianza inicial exclusivamente a traves de comunicación mediada (mensajes, llamadas, video), sin el beneficio de las señales no verbales y la información sensorial que el encuentro presencial temprano normalmente proporciona. Esto requiere mayor intencionalidad comunicativa desde el principio para compensar esa ausencia.
+**El Principio de la Base Construida sin Presencia Física:** Las relaciones que inician a distancia deben construir su conocimiento mutuo y su confianza inicial exclusivamente a traves de comunicación mediada (mensajes, llamadas, video), sin el beneficio de las señales no verbales y la información sensorial que el encuentro presencial temprano normalmente proporciona. Esto requiere mayor intencionalidad comunicativa desde el principio para compensar esa ausencia.
 
 **Ejercicio inmediato:** Si estas iniciando una relación a distancia desde el principio, evalua si estas teniendo suficiente comunicación de calidad (no solo mensajes superficiales) para construir el conocimiento mutuo que normalmente se desarrollaria a traves de encuentros presenciales repetidos.
 
@@ -107,7 +107,7 @@ La distancia puede generar una versión idealizada de tu pareja que la convivenc
 
 La decisión sobre quien se traslada para cerrar la distancia geografica, y cuando, es una de las decisiones más significativas que una pareja a distancia enfrenta, y merece ser tratada cómo una decisión genuinamente conjunta.
 
-**El Principio de la Decisión Conjunta sin Default Automatico:** La decisión sobre quien se muda para cerrar la distancia no debería recaer automáticamente sobre la persona con menos atadura percibida (menos carrera establecida, menos red social local) sin una conversación genuina que considere las circunstancias reales, las preferencias y los sacrificios de ambas partes de forma equitativa.
+**El Principio de la Decisión Conjunta sin Default Automático:** La decisión sobre quien se muda para cerrar la distancia no debería recaer automáticamente sobre la persona con menos atadura percibida (menos carrera establecida, menos red social local) sin una conversación genuina que considere las circunstancias reales, las preferencias y los sacrificios de ambas partes de forma equitativa.
 
 **Ejercicio inmediato:** Si estan considerando cerrar la distancia, dediquen una conversación explícita a explorar todas las opciones de quien se muda, sin asumir automáticamente la opción que parece más obvia o conveniente.
 

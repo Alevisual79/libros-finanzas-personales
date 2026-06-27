@@ -37,11 +37,11 @@ El perdon que no perdonas no dana al que cometio el daño. Solo dana a quien lo 
 
 Elena carga con rencor hacía una persona que la trató injustamente hace años.
 
-**El Principio del Resentimiento como Carga Fisiologica:** La investigación en neurociencia y psicofisiologia ha documentado que el estado de resentimiento cronico activa el sistema de estres de forma similar a la exposición a una amenaza real. Charlotte vanOyen Witvliet, investigadora de la Universidad Calvin, documento que solo recordar ofensas mientras se mantiene el rencor produce aumentos en la frecuencia cardiaca, la tensión muscular, y la respuesta galvanica de la piel.
+**El Principio del Resentimiento como Carga Fisiológica:** La investigación en neurociencia y psicofisiologia ha documentado que el estado de resentimiento cronico activa el sistema de estres de forma similar a la exposición a una amenaza real. Charlotte vanOyen Witvliet, investigadora de la Universidad Calvin, documento que solo recordar ofensas mientras se mantiene el rencor produce aumentos en la frecuencia cardiaca, la tensión muscular, y la respuesta galvanica de la piel.
 
-Kathleen Lawler-Row de la Universidad East Carolina muestra que las personas con mayor disposición al perdon tienen menor presión arterial, mejor sistema inmune, menor nivel de cortisol, y mayor longevidad. El rencor es literalmente una carga fisiologica que el cuerpo lleva con sus costes en salud.
+Kathleen Lawler-Row de la Universidad East Carolina muestra que las personas con mayor disposición al perdon tienen menor presión arterial, mejor sistema inmune, menor nivel de cortisol, y mayor longevidad. El rencor es literalmente una carga fisiológica que el cuerpo lleva con sus costes en salud.
 
-**Ejercicio inmediato:** Identifica la ofensa o la persona hacía quien llevas mayor rencor. ¿Cuando piensas en ese rencor, que sientes en el cuerpo? ¿Tensión, calor, constricción? Esas sensaciones son el costo fisiologico que pagas por cargar ese rencor.
+**Ejercicio inmediato:** Identifica la ofensa o la persona hacía quien llevas mayor rencor. ¿Cuando piensas en ese rencor, que sientes en el cuerpo? ¿Tensión, calor, constricción? Esas sensaciones son el costo fisiológico que pagas por cargar ese rencor.
 
 El resentimiento que llevas no es gratis. Lo pagas cada vez que lo recuerdas, en la moneda del cuerpo.
 
@@ -109,7 +109,7 @@ Ruben esperaba que el perdon fuera una decisión que se toma una vez y se mantie
 
 **El Principio del Perdon como Proceso No Lineal:** La investigación empirica sobre el perdon muestra que el proceso frecuentemente es no lineal: hay avances en la reducción del resentimiento, seguidos de regresiones donde el resentimiento vuelve con intensidad. Estos retrocesos no son señal de fracaso.
 
-Enright propone que el perdon puede ser parcial y que el perdon parcial ya tiene valor real: produce alivio emocional, reduce el coste fisiologico del resentimiento, y mejora el bienestar incluso si el proceso no llega a su forma más completa.
+Enright propone que el perdon puede ser parcial y que el perdon parcial ya tiene valor real: produce alivio emocional, reduce el coste fisiológico del resentimiento, y mejora el bienestar incluso si el proceso no llega a su forma más completa.
 
 **Ejercicio inmediato:** Evalua el nivel de rencor que llevas hacía la persona que más te cuesta perdonar en una escala del uno al diez. No como meta de llegar a cero sino como punto de partida: si el proceso de perdon consiguiera llevarlo de un nueve a un seis, eso ya tendría valor.
 

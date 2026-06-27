@@ -111,7 +111,7 @@ La vulnerabilidad que conecta deja espacio para el otro. La que no lo deja, desc
 
 Cuando alguien te comparte algo vulnerable, tu respuesta en ese momento determina si esa relación tiene la posibilidad de profundizar o si la persona cierra esa puerta para siempre.
 
-**El Principio de la Respuesta que Honra:** Las respuestas que honran la vulnerabilidad tienen algunas caracteristicas comunes: reconocen lo que se acaba de compartir, no lo minimizan ni lo resuelven prematuramente, y comunican que lo compartido no ha cambiado la relación en sentido negativo. Las respuestas que no honran la vulnerabilidad son las que cambian de tema, la minimizan (eso es normal, a todos nos pasa) o la usan como oportunidad para aconsejar cuando no se ha pedido consejo.
+**El Principio de la Respuesta que Honra:** Las respuestas que honran la vulnerabilidad tienen algunas características comunes: reconocen lo que se acaba de compartir, no lo minimizan ni lo resuelven prematuramente, y comunican que lo compartido no ha cambiado la relación en sentido negativo. Las respuestas que no honran la vulnerabilidad son las que cambian de tema, la minimizan (eso es normal, a todos nos pasa) o la usan como oportunidad para aconsejar cuando no se ha pedido consejo.
 
 Brown describe el momento de la respuesta a la vulnerabilidad como el momento más delicado de una relación. Una respuesta que honra ese momento construye confianza de una forma que ningún otro acto puede. Una respuesta que no lo honra cierra algo que puede no volver a abrirse.
 

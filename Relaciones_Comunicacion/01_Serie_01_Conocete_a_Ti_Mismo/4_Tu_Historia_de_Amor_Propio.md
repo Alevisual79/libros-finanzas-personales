@@ -73,7 +73,7 @@ Lo que te dices sobre tus relaciones es más importante que lo que ocurre en ell
 
 Cuando alguien le hacía un cumplido, Marcos lo rechazaba. Gracias, pero la verdad es que no fue para tanto. Cuando alguien le expresaba afecto, se ponía incomodo. Cuando alguien lo elegía, buscaba el defecto. Marcos tenía un crítico interior tan activo que cualquier cosa positiva que venía del exterior era inmediatamente desactivada.
 
-**El Principio del Critico como Protector Fallido:** El crítico interior no nacio para hacer daño. Nacio como mecanismo de protección: si yo me crítico primero, el crítico externo no me sorprende. Si rebajo mis expectativas, el fracaso no duele tanto. Si me anticipo al rechazó, no me pilla desprevenido. El problema es que ese mecanismo, útil en contextos de evaluación real, funciona todo el tiempo, incluso cuando no hay amenaza.
+**El Principio del Crítico como Protector Fallido:** El crítico interior no nacio para hacer daño. Nacio como mecanismo de protección: si yo me crítico primero, el crítico externo no me sorprende. Si rebajo mis expectativas, el fracaso no duele tanto. Si me anticipo al rechazó, no me pilla desprevenido. El problema es que ese mecanismo, útil en contextos de evaluación real, funciona todo el tiempo, incluso cuando no hay amenaza.
 
 Kristin Neff, investigadora de la autocompasión, demostró que las personas con críticos interiores muy activos no obtienen mejores resultados que las personas con autoevaluación equilibrada. Obtienen más ansiedad, más depresión y peores relaciones. El crítico no motiva. Paraliza o agota.
 

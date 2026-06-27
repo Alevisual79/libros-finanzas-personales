@@ -23,11 +23,11 @@ Ruben pertenece a cinco grupos de Discord, comunidades organizadas alrededor de 
 
 La necesidad humana fundamental de pertenecer a una comunidad con sentido compartido encuentra, en la era digital, nuevas formas de expresión que coexisten con, y en algunos casos sustituyen parcialmente a, las comunidades tradicionales basadas en geografía.
 
-**El Principio de la Tribu Reconfigurada:** Las comunidades online permiten conexión con personas que compartan intereses específicos, identidades, o experiencias, independientemente de la proximidad geografica que tradicionalmente limitaba esta posibilidad, generando una forma de pertenencia que puede ser genuinamente valiosa, aunque con caracteristicas distintas de las comunidades geograficas tradicionales.
+**El Principio de la Tribu Reconfigurada:** Las comunidades online permiten conexión con personas que compartan intereses específicos, identidades, o experiencias, independientemente de la proximidad geografica que tradicionalmente limitaba esta posibilidad, generando una forma de pertenencia que puede ser genuinamente valiosa, aunque con características distintas de las comunidades geograficas tradicionales.
 
 **Ejercicio inmediato:** Reflexiona sobre que necesidad específica de pertenencia buscas satisfacer a traves de tus comunidades online actuales, y si esa busqueda está siendo genuinamente satisfecha.
 
-Las comunidades online no son una versión inferior de la tribu humana tradicional. Son una forma reconfigurada que puede satisfacer necesidades reales, con sus propias caracteristicas específicas.
+Las comunidades online no son una versión inferior de la tribu humana tradicional. Son una forma reconfigurada que puede satisfacer necesidades reales, con sus propias características específicas.
 
 ---
 
@@ -47,7 +47,7 @@ No todas las comunidades online ofrecen el mismo tipo de conexión. Entender la 
 
 La confianza en comunidades online se construye a traves de mecanismos distintos de los disponibles en comunidades presenciales, requiriendo tiempo e interacción consistente para desarrollarse de forma genuina.
 
-**El Principio de la Confianza Construida sin Señales Fisicas:** En ausencia de las señales no verbales y el contexto físico compartido que facilitan la construcción rápida de confianza presencial, las comunidades online dependen más fuertemente de la consistencia del comportamiento a lo largo del tiempo, la calidad de las contribuciones, y la vulnerabilidad compartida progresiva para desarrollar confianza genuina entre sus miembros.
+**El Principio de la Confianza Construida sin Señales Físicas:** En ausencia de las señales no verbales y el contexto físico compartido que facilitan la construcción rápida de confianza presencial, las comunidades online dependen más fuertemente de la consistencia del comportamiento a lo largo del tiempo, la calidad de las contribuciones, y la vulnerabilidad compartida progresiva para desarrollar confianza genuina entre sus miembros.
 
 **Ejercicio inmediato:** Reflexiona sobre cómo se ha construido (o no) la confianza en tu comunidad online más significativa. ¿Que comportamientos específicos contribuyeron a esa construcción?
 

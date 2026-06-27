@@ -21,7 +21,7 @@ Ruben tiene treinta y tantos años y siente que su vida va atrasada. No porque s
 
 ## Capítulo 1: Por qué el cerebro compara: el origen evolutivo de la comparación social
 
-La comparación social no es un defecto de carácter ni una patologia moderna. Es un mecanismo neurologico que evolucionó para funciones específicas y útiles en el contexto de la vida en grupos pequeños.
+La comparación social no es un defecto de carácter ni una patologia moderna. Es un mecanismo neurológico que evolucionó para funciones específicas y útiles en el contexto de la vida en grupos pequeños.
 
 **El Principio de la Comparación Social como Mecanismo de Evaluación:** Leon Festinger, psicologo social que propuso la teoria de la comparación social en 1954, observo que los seres humanos tienen una necesidad fundamental de evaluar sus propias opiniones y capacidades, y que cuando no hay criterios objetivos disponibles para esa evaluación, usan la comparación con otros como método alternativo. En un grupo de cazadores-recolectores, saber si eres más rápido que la media o menos habil en la caza que el promedio era información adaptativa para calibrar el propio rol en el grupo.
 

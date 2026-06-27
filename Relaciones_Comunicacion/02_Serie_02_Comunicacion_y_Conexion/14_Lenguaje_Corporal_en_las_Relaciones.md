@@ -29,7 +29,7 @@ La investigación de Albert Mehrabian de los años 60 ha sido distorsionada hast
 
 **El Principio de la Congruencia Multicanal:** La comunicación ocurre en multiples canales simultaneamente: las palabras, el tono de voz, las expresiones faciales, la postura corporal, los gestos, la distancia física y el contacto. Cuando todos los canales dicen lo mismo, el mensaje es claro y genera confianza. Cuando dicen cosas diferentes, el receptor nota la incongruencia aunque no pueda nombrarlo.
 
-Los componentes de la comunicación no verbal incluyen: las expresiones faciales universales segun Ekman, la postura y orientación del cuerpo, los gestos, el contacto visual, el tono y ritmo de la voz, la distancia interpersonal y el contacto físico. Cada canal tiene su propia logica y sus propias normas culturales.
+Los componentes de la comunicación no verbal incluyen: las expresiones faciales universales segun Ekman, la postura y orientación del cuerpo, los gestos, el contacto visual, el tono y ritmo de la voz, la distancia interpersonal y el contacto físico. Cada canal tiene su propia lógica y sus propias normas culturales.
 
 **Ejercicio inmediato:** En la próxima conversación importante, presta atención a cuantos canales no verbales puedes percibir a la vez: cara, postura, gestos, voz. No analices. Solo percibe. La información que recibiras es cualitativamente diferente a la que obtienes si solo escuchas las palabras.
 
@@ -71,7 +71,7 @@ El contacto visual es uno de los gestos relacionales más poderosos y más cultu
 
 **El Principio del Contacto Visual Calibrado:** El contacto visual optimo en una conversación en culturas occidentales es aproximadamente el 60-70% del tiempo. Más tiempo puede sentirse como presión o evaluación. Menos puede sentirse como evitación. En contextos de escucha empatica, el porcentaje sube naturalmente. La clave es que sea naturalizado, no calculado.
 
-La investigación de Stephen Kosslyn y Robin Rosenberg muestra que cuando dos personas mantienen contacto visual genuino, se produce una sincronización de los sistemas nerviosos que es uno de los sustratos neurologicos de la conexión interpersonal. El contacto visual no es solo un canal de información. Es un mecanismo de sincronización.
+La investigación de Stephen Kosslyn y Robin Rosenberg muestra que cuando dos personas mantienen contacto visual genuino, se produce una sincronización de los sistemas nerviosos que es uno de los sustratos neurológicos de la conexión interpersonal. El contacto visual no es solo un canal de información. Es un mecanismo de sincronización.
 
 **Ejercicio inmediato:** En tu próxima conversación importante, práctica mantener contacto visual de forma naturalizada, sin ser continuo ni intenso. Cuando mires hacía otro lado, hazlo de forma contemplativa, no evasiva. Observa el efecto en la calidad de la conexión.
 
@@ -127,7 +127,7 @@ Cuando dos personas estan genuinamente conectadas en una conversación, sus cuer
 
 **El Principio de la Sincronia como Termometro de Conexion:** La sincronia corporal no es una técnica de manipulación. Es una consecuencia natural de la conexión genuina. Cuando la conexión es real, la sincronia ocurre sola. Cuando se fuerza artificialmente, suele resultar en algo raro o invasivo. La sincronia es el resultado de la conexión, no su causa.
 
-Los estudios de Uri Hasson sobre la sincronización cerebral entre hablante y oyente muestran que cuando la comunicación es efectiva, los patrones de activación cerebral del oyente espejean con un pequeño retraso los del hablante. La sincronización cerebral es la correlación neurologica de la comprensión.
+Los estudios de Uri Hasson sobre la sincronización cerebral entre hablante y oyente muestran que cuando la comunicación es efectiva, los patrones de activación cerebral del oyente espejean con un pequeño retraso los del hablante. La sincronización cerebral es la correlación neurológica de la comprensión.
 
 **Ejercicio inmediato:** En una conversación en que notes que hay buena conexión, observa si hay sincronia corporal espontanea: posturas similares, ritmo de habla parecido, gestos que se corresponden. No la provokes. Solo observala como indicador de conexión real.
 

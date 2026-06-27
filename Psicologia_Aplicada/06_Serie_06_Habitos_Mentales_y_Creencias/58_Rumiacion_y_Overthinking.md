@@ -25,7 +25,7 @@ La rumia se disfraza de pensamiento útil. La distinción importa.
 
 **El Principio de la Rumia como Pensamiento que Recircula sin Avanzar:** Susan Nolen-Hoeksema, que ha investigado la rumia durante tres décadas, la define como el ciclo repetitivo, pasivo, y centrado en los sentimientos negativos y sus causas y consecuencias. La distinción crítica respecto al pensamiento útil es la pasividad y la recirculación: la rumia reproduce el mismo material sin generar nuevas perspectivas ni acciones.
 
-El pensamiento útil tiene caracteristicas opuestas: está orientado hacía la solución, genera nuevas perspectivas, evalua opciones, y termina en un plan de acción o en la aceptación de lo que no puede cambiarse. Una heuristica práctica: si llevas más de cinco minutos pensando en el mismo problema sin llegar a ninguna conclusión nueva, probablemente ya no estas pensando. Estas rumiando.
+El pensamiento útil tiene características opuestas: está orientado hacía la solución, genera nuevas perspectivas, evalua opciones, y termina en un plan de acción o en la aceptación de lo que no puede cambiarse. Una heuristica práctica: si llevas más de cinco minutos pensando en el mismo problema sin llegar a ninguna conclusión nueva, probablemente ya no estas pensando. Estas rumiando.
 
 **Ejercicio inmediato:** Para la situación que más veces has rumiado en la última semana, evalua con honestidad: ¿en todas esas vueltas, llegaste a alguna conclusión nueva o plan de acción que no habías tenido en los primeros cinco minutos? Si no, todo ese tiempo fue rumia, no pensamiento. Esa evaluación honesta es el punto de partida para decidir si merece la inversión que le estas dando.
 

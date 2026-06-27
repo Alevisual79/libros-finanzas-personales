@@ -73,7 +73,7 @@ La calidad de tus relaciones es la calidad de tu vida. No es una metafora.
 
 Hay personas que después de estar con ellas te sientes mejor de lo que estabas antes. Y hay personas con las que, después de una hora, sientes que necesitas tres horas de soledad para recuperarte. Ambas son parte de tu vida. La pregunta es si la proporción entre las dos es sostenible.
 
-**El Principio del Balance Energetico Relacional:** No todas las relaciones nos afectan de la misma forma ni en la misma dirección. Algunas activan, inspiran, generan energía. Otras demandan, agotan, drenan. La mayoría de las relaciones hacen ambas cosas en distintos momentos. El problema surge cuando el saldo neto de una relación es sistemáticamente negativo: siempre drenan, nunca nutren.
+**El Principio del Balance Energético Relacional:** No todas las relaciones nos afectan de la misma forma ni en la misma dirección. Algunas activan, inspiran, generan energía. Otras demandan, agotan, drenan. La mayoría de las relaciones hacen ambas cosas en distintos momentos. El problema surge cuando el saldo neto de una relación es sistemáticamente negativo: siempre drenan, nunca nutren.
 
 Esto no significa que las relaciones que nutren son las que nunca tienen problemas. Significa que, a lo largo del tiempo, la interacción con esa persona te deja con más recursos de los que tenías antes o, al menos, no te deja en deficit sistemático. Las relaciones de alta calidad pueden ser exigentes y aun asi nutrirse.
 

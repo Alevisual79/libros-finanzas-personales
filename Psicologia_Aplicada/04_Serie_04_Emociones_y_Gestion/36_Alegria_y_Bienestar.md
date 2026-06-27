@@ -109,7 +109,7 @@ Elena nota que sus momentos de mayor alegria casi siempre involucran a otras per
 
 **El Principio de las Relaciones como Factor Más Robusto del Bienestar:** El Estudio de Harvard sobre el Desarrollo Adulto, el estudio longitudinal más largo sobre bienestar (más de ochenta años de seguimiento), concluye que la calidad de las relaciones interpersonales es el predictor más robusto del bienestar a largo plazo. Robert Waldinger, director actual del estudio, resume: no es riqueza ni fama ni trabajo duro lo que mantiene a la gente feliz a lo largo de su vida. Son las buenas relaciones.
 
-Julianne Holt-Lunstad y colegas documentaron en meta-análisis que la soledad y el aislamiento social tienen un efecto sobre la mortalidad comparable al tabaquismo. Las relaciones no son el complemento del bienestar: son uno de sus fundamentos biologicos.
+Julianne Holt-Lunstad y colegas documentaron en meta-análisis que la soledad y el aislamiento social tienen un efecto sobre la mortalidad comparable al tabaquismo. Las relaciones no son el complemento del bienestar: son uno de sus fundamentos biológicos.
 
 **Ejercicio inmediato:** Identifica una relación en tu vida que produce emociones positivas genuinas y que no recibe suficiente atención en tu semana típica. Agenda un contacto específico con esa persona esta semana: no una obligación social sino un contacto elegido por lo que esa relación genuinamente aporta.
 
@@ -121,7 +121,7 @@ La alegria que viene de estar con alguien que te nutre de verdad es una de las p
 
 Ruben experimenta una emoción específica ante ciertos paisajes, ciertas musicas, ciertos momentos de belleza inesperada: una sensación de pequeñez propia combinada con algo grande y significativo. Esta emoción, el asombro, tiene propiedades específicas sobre el bienestar.
 
-**El Principio del Asombro como Regularizador del Yo:** Dacher Keltner y Jonathan Haidt proponen que el asombro tiene dos caracteristicas fundamentales: vastedad (percepción de algo que excede los marcos actuales de comprensión) y necesidad de acomodación (actualizar los marcos para integrar la experiencia). El asombro produce una reducción del yo que paradojicamente produce mayor bienestar.
+**El Principio del Asombro como Regularizador del Yo:** Dacher Keltner y Jonathan Haidt proponen que el asombro tiene dos características fundamentales: vastedad (percepción de algo que excede los marcos actuales de comprensión) y necesidad de acomodación (actualizar los marcos para integrar la experiencia). El asombro produce una reducción del yo que paradojicamente produce mayor bienestar.
 
 La investigación de Keltner muestra que el asombro produce: mayor generosidad, menor egocentrismo, mayor sentido del tiempo disponible, y mayor conectividad con otros. El asombro nos saca de nosotros mismos de una forma que resulta nutricia.
 

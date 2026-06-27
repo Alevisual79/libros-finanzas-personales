@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel tiene cincuenta y dos años y ha vivido la transición de un mundo sin internet a uno donde la inteligencia artificial puede escribir codigo, diagnosticar enfermedades y mantener conversaciones convincentes. Sus hijos viven en una realidad digital que ella solo entiende parcialmente. Sus padres viven en una realidad que ella ya no reconoce cómo la suya. En menos de treinta años, la relación del cerebro humano con la tecnología, con el conocimiento y con lo que significa ser inteligente ha cambiado más que en los mil años anteriores. Y segun todas las proyecciones, el ritmo de cambio se está acelerando.
+Isabel tiene cincuenta y dos años y ha vivido la transición de un mundo sin internet a uno donde la inteligencia artificial puede escribir código, diagnosticar enfermedades y mantener conversaciones convincentes. Sus hijos viven en una realidad digital que ella solo entiende parcialmente. Sus padres viven en una realidad que ella ya no reconoce cómo la suya. En menos de treinta años, la relación del cerebro humano con la tecnología, con el conocimiento y con lo que significa ser inteligente ha cambiado más que en los mil años anteriores. Y segun todas las proyecciones, el ritmo de cambio se está acelerando.
 
 ---
 
@@ -93,7 +93,7 @@ La neurociencia del futuro no respetara los tabues del pasado si la evidencia di
 
 Elena, en su trabajo de diseño de software, usa ya herramientas de realidad aumentada. Sus hijos pasan horas en mundos virtuales inmersivos. La linea entre la experiencia física y la digital se está borrando de formas que el cerebro evolutivamente no tiene marcó para procesar.
 
-**El Principio del Cerebro Que No Distingue Real de Simulado en Ciertos Niveles:** La investigación sobre el uso de realidad virtual en terapia de fobi y trauma (desarrollada por Albert Rizzo en USC) aprovecha un hecho neurologico fundamental: el cerebro procesa las experiencias virtuales inmersivas con muchos de los mismos circuitos que procesa las experiencias físicas reales. La amigdala responde al peligro virtual con activación similar al peligro físico. El hipocampo forma mapas espaciales de entornos virtuales. El sistema de recompensa responde a logros virtuales de formas comparables a los físicos.
+**El Principio del Cerebro Que No Distingue Real de Simulado en Ciertos Niveles:** La investigación sobre el uso de realidad virtual en terapia de fobi y trauma (desarrollada por Albert Rizzo en USC) aprovecha un hecho neurológico fundamental: el cerebro procesa las experiencias virtuales inmersivas con muchos de los mismos circuitos que procesa las experiencias físicas reales. La amigdala responde al peligro virtual con activación similar al peligro físico. El hipocampo forma mapas espaciales de entornos virtuales. El sistema de recompensa responde a logros virtuales de formas comparables a los físicos.
 
 Jeremy Bailenson, fundador del Virtual Human Interaction Lab en Stanford, ha documentado como las experiencias en realidad virtual pueden cambiar actitudes, comportamientos y memorias de formas que las experiencias físicas equivalentes producen, porque el cerebro no tiene mecanismos evolutivos para detectar la diferencia. Esto tiene aplicaciones terapeuticas fascinantes y riesgos de manipulación igualmente significativos.
 
@@ -123,7 +123,7 @@ Ruben tiene treinta y un años y le resulta abstracto pensar en el envejecimient
 
 **El Principio de la Reserva Cognitiva como Activo Construido a Largo Plazo:** Yaakov Stern, neuropsicólogo de Columbia, desarrollo el concepto de reserva cognitiva para explicar por qué personas con niveles equivalentes de patologia de Alzheimer en el cerebro difieren dramaticamente en sus sintomas clinicos. Quienes tienen mayor reserva cognitiva (educación superior, mayor estimulación cognitiva a lo largo de la vida, bilingüismo, redes sociales ricas) pueden compensar mayor daño neuronal antes de mostrar deterioro cognitivo significativo.
 
-La reserva cognitiva no se acumula en los años del deterioro. Se acumula durante toda la vida y especialmente en la mediana edad. Los habitos de estimulación cognitiva, conexión social, ejercicio físico y aprendizaje continuo que se practican entre los treinta y los sesenta tienen un efecto protector sobre la función cognitiva en la vejez que ningún tratamiento post-diagnostico puede replicar.
+La reserva cognitiva no se acumula en los años del deterioro. Se acumula durante toda la vida y especialmente en la mediana edad. Los habitos de estimulación cognitiva, conexión social, ejercicio físico y aprendizaje continuo que se practican entre los treinta y los sesenta tienen un efecto protector sobre la función cognitiva en la vejez que ningún tratamiento post-diagnóstico puede replicar.
 
 **Ejercicio inmediato:** Evalua los habitos que más contribuyen a la reserva cognitiva a largo plazo (estimulación cognitiva variada, relaciones sociales ricas, ejercicio aerobico, aprendizaje de nuevas habilidades, posiblemente un segundo idioma). Para cada uno, clasifica tu nivel actual del uno al diez. El con menor puntuación es donde la inversión tendrá mayor retorno a largo plazo.
 

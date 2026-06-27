@@ -21,7 +21,7 @@ No es falta de energía. Es falta de límites.
 
 Un límite no es un muro. No es egoismo disfrazado de autoprotección. No es una forma de alejarse de los demás. Un límite es la linea que define donde terminas tu y donde empieza el otro. Sin esa linea, las relaciones no funcionan. Sin esa linea, no hay yo que relacionarse con nadie.
 
-Isabel nunca aprendió a decir que no porque en su familia decir que no significaba dejar de ser querida. Treinta años después sigue operando con ese codigo, aunque el coste sea su salud, su tiempo y, paradojicamente, la calidad de sus relaciones.
+Isabel nunca aprendió a decir que no porque en su familia decir que no significaba dejar de ser querida. Treinta años después sigue operando con ese código, aunque el coste sea su salud, su tiempo y, paradojicamente, la calidad de sus relaciones.
 
 Este libro es para todas las personas que quieren a los demás pero no saben como cuidarse al mismo tiempo. Para las que dicen si cuando quieren decir no. Para las que confunden el amor con la disponibilidad total.
 
@@ -79,7 +79,7 @@ No todos los límites son iguales. El que te incomoda cuando alguien invade tu e
 
 Melissa Urban, experta en límites, senala que la mayoría de personas tiene límites bien desarrollados en un área y completamente ausentes en otra. Alguien puede defender con claridad su espacio físico pero ser incapaz de poner límites emocionales.
 
-**Ejercicio inmediato:** Para cada tipo de límite, puntua del 1 al 10 tu comodidad poniendolo. Fisico, emocional, intelectual, material, digital. El área con puntuación más baja es donde más trabajo tienes pendiente.
+**Ejercicio inmediato:** Para cada tipo de límite, puntua del 1 al 10 tu comodidad poniendolo. Físico, emocional, intelectual, material, digital. El área con puntuación más baja es donde más trabajo tienes pendiente.
 
 Saber que tipo de límite necesitas es la mitad del camino para ponerlo.
 

@@ -53,7 +53,7 @@ Isabel tiende a la catastrofización: cuando algo sale mal, interpreta automáti
 
 **El Principio de la Reevaluación como Cambio de Perspectiva Honesto:** La reevaluación cognitiva no es el pensamiento positivo falso sino el cambio honesto de perspectiva sobre lo que ocurre. Aaron Beck y Albert Ellis desarrollaron frameworks para identificar y reevaluar evaluaciones automáticas negativas: el ABC de Ellis y la identificación de distorsiones cognitivas de Beck.
 
-Gross y colegas muestran en neuroimagen que la reevaluación cognitiva produce cambios medibles en la activación de la amigdala: cuando los participantes reevaluan una imagen emocionalmente intensa, la activación de la amigdala se reduce. No es solo una estrategia psicológica: produce efectos biologicos reales.
+Gross y colegas muestran en neuroimagen que la reevaluación cognitiva produce cambios medibles en la activación de la amigdala: cuando los participantes reevaluan una imagen emocionalmente intensa, la activación de la amigdala se reduce. No es solo una estrategia psicológica: produce efectos biológicos reales.
 
 **Ejercicio inmediato:** Para una situación que te produce malestar emocional intenso, escribe la interpretación automática que genera tu mente. Luego genera al menos tres interpretaciones alternativas igualmente posibles desde los datos disponibles. No necesariamente más positivas: simplemente diferentes. Este proceso activa la corteza prefrontal y reduce la fusión con la interpretación inicial.
 
@@ -65,7 +65,7 @@ La interpretación que tu mente genera primero es solo una de las que podría ge
 
 Ruben ha desarrollado una habilidad notable para suprimir emociones en público. El coste de esa habilidad no es gratuito.
 
-**El Principio del Coste Fisiologico y Relacional de la Supresión:** Gross y Richards documentaron que suprimir la expresión de emociones produce: mayor activación fisiologica tanto en el supresor como en su interlocutor, mayor tensión muscular facial aunque no visible, peor memoria de la conversación, y menor satisfacción del interlocutor con la interacción.
+**El Principio del Coste Fisiológico y Relacional de la Supresión:** Gross y Richards documentaron que suprimir la expresión de emociones produce: mayor activación fisiológica tanto en el supresor como en su interlocutor, mayor tensión muscular facial aunque no visible, peor memoria de la conversación, y menor satisfacción del interlocutor con la interacción.
 
 A largo plazo, la supresión tiene costes adicionales: mayor riesgo cardiovascular (Quartana y Burns), menor intimidad relacional (Srivastava y colegas muestran que los supresores habituales tienen redes sociales de menor calidad percibida), y mayor tendencia a la rumiación porque la emoción suprimida no se procesa sino que se aplaza.
 

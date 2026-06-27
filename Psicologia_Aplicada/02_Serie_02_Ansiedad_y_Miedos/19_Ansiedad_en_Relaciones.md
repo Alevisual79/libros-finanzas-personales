@@ -109,7 +109,7 @@ Ruben cree que su estilo de apego es fijo, que es simplemente quien es, y que no
 
 **El Principio del Apego Adquirido como Via de Cambio:** Sroufe y colegas de la Universidad de Minnesota documentaron en un estudio longitudinal de treinta años que aunque hay continuidad estadistica entre el apego infantil y el adulto, el cambio es posible a traves de relaciones reparadoras: relaciones significativas con personas con apego seguro (que pueden ser parejas, amigos, terapeutas) que proporcionan experiencias relacionales distintas de las que formaron el modelo interno de trabajo original.
 
-Mario Mikulincer y sus colegas documentaron que incluso la exposición breve a representaciones de figuras de apego seguras (a traves de imagenes o narrativas) activa temporalmente un estado de mayor seguridad en el apego que modifica el procesamiento de información relacional subsiguiente. El apego seguro adquirido, construido a traves de relaciones y trabajo terapeutico, produce cambios neurologicos y psicológicos reales aunque su desarrollo tome tiempo.
+Mario Mikulincer y sus colegas documentaron que incluso la exposición breve a representaciones de figuras de apego seguras (a traves de imagenes o narrativas) activa temporalmente un estado de mayor seguridad en el apego que modifica el procesamiento de información relacional subsiguiente. El apego seguro adquirido, construido a traves de relaciones y trabajo terapeutico, produce cambios neurológicos y psicológicos reales aunque su desarrollo tome tiempo.
 
 **Ejercicio inmediato:** Identifica una relación en tu vida (puede ser una amistad, un mentor, incluso un terapeuta) donde experimentas consistentemente seguridad: la persona es disponible cuando la necesitas, responde de forma consistente, y no hace que te preguntes si la relación esta en riesgo. Invierte en esa relación. La experiencia de apego seguro repetida es uno de los mecanismos de cambio más poderosos disponibles.
 
@@ -133,7 +133,7 @@ La relación terapeutica puede ser la primera experiencia de apego seguro que el
 
 ## Capítulo 9: La soledad de la ansiedad relacional
 
-Isabel tiene pareja y buenos amigos y se siente profundamente sola. No sola de personas, sino sola en el sentido de no sentir que puede ser completamente vista y aceptada tal como es, incluyendo su ansiedad, su necesidad, su miedo. Este tipo de soledad, que coexiste con las relaciones, es caracteristico de la ansiedad de apego no resuelta.
+Isabel tiene pareja y buenos amigos y se siente profundamente sola. No sola de personas, sino sola en el sentido de no sentir que puede ser completamente vista y aceptada tal como es, incluyendo su ansiedad, su necesidad, su miedo. Este tipo de soledad, que coexiste con las relaciones, es característico de la ansiedad de apego no resuelta.
 
 **El Principio de la Soledad como Desconexion de la Propia Necesidad:** John Cacioppo, neurocientico de la Universidad de Chicago que dedicó su carrera al estudio de la soledad, propone que la soledad no es la ausencia de personas sino la percepción de estar desconectado de lo que más importa: ser conocido, ser querido tal cómo se es, pertenecer genuinamente. Esta soledad puede coexistir con multiples relaciones superficiales e incluso con una pareja, cuando hay aspectos del yo (las necesidades de apego, el miedo, la vulnerabilidad) que se ocultan sistemáticamente por miedo al rechazó o a la sobrecarga del otro.
 
@@ -153,7 +153,7 @@ Ruben ha empezado a entender su patron de apego. No lo ha resuelto completamente
 
 La diferencia entre ser gobernado por el apego ansioso y gestionarlo de forma más consciente no es eliminar la ansiedad relacional. Es desarrollar la capacidad metacognitiva de observarla (ah, mi sistema de apego esta activado), entender lo que la activo, y elegir la respuesta desde un lugar más deliberado que la reacción automática.
 
-**Ejercicio inmediato:** Diseña un protocolo personal para los episodios de ansiedad relacional: cuando noto que mi sistema de apego se ha activado, hago estas tres cosas antes de actuar desde la ansiedad (puede ser: esperar una hora antes de mandar mensajes desde la ansiedad, hablar con alguien de confianza sobre lo que siento, practicar la respiración para reducir el arousal fisiologico). Ese protocolo no elimina la ansiedad pero crea espacio entre la activación y la respuesta.
+**Ejercicio inmediato:** Diseña un protocolo personal para los episodios de ansiedad relacional: cuando noto que mi sistema de apego se ha activado, hago estas tres cosas antes de actuar desde la ansiedad (puede ser: esperar una hora antes de mandar mensajes desde la ansiedad, hablar con alguien de confianza sobre lo que siento, practicar la respiración para reducir el arousal fisiológico). Ese protocolo no elimina la ansiedad pero crea espacio entre la activación y la respuesta.
 
 No puedes controlar cuando se activa tu sistema de apego. Pero puedes controlar lo que haces mientras esta activado.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Marcos lleva dos años como emprendedor y ha notado algo: las personas que más admira en el ecosistema emprendedor tienen en común una caracteristica que no es la inteligencia ni la experiencia ni los recursos. Es la velocidad y la calidad con que aprenden. Carlos ha descubierto que lo que aprende en un trimestre de emprendimiento activo supera lo que aprendió en dos años de MBA. Lucia ha aprendido que las habilidades que más valor han producido en su empresa no eran las que tenía cuando la fundo sino las que fue adquiriendo a medida que el negocio las requeria. Los tres han llegado a la misma conclusión: en un entorno que cambia más rápido de lo que cualquier conocimiento previo puede anticipar, la capacidad de aprender es la ventaja competitiva más duradera que un emprendedor puede tener.
+Marcos lleva dos años como emprendedor y ha notado algo: las personas que más admira en el ecosistema emprendedor tienen en común una característica que no es la inteligencia ni la experiencia ni los recursos. Es la velocidad y la calidad con que aprenden. Carlos ha descubierto que lo que aprende en un trimestre de emprendimiento activo supera lo que aprendió en dos años de MBA. Lucia ha aprendido que las habilidades que más valor han producido en su empresa no eran las que tenía cuando la fundo sino las que fue adquiriendo a medida que el negocio las requeria. Los tres han llegado a la misma conclusión: en un entorno que cambia más rápido de lo que cualquier conocimiento previo puede anticipar, la capacidad de aprender es la ventaja competitiva más duradera que un emprendedor puede tener.
 
 ---
 
@@ -25,7 +25,7 @@ El mercado cambia más rápido de lo que cualquier formación puede anticipar. L
 
 **El Principio del Aprendizaje Continuo cómo la Ventaja Competitiva más Sostenible del Emprendedor porque No Puede Ser Imitada tan Facilmente como el Producto o la Tecnologia:** Ray Dalio, en Principles, propone el ciclo de aprendizaje que describe el éxito sostenido: establecer objetivos, actuar, encontrar los problemas, diagnosticar las causas, diseñar soluciones, e implementarlas, y empezar de nuevo. La capacidad de completar ese ciclo más rápidamente que los competidores es lo que produce ventaja sostenible.
 
-La investigación de Arie de Geus sobre las empresas longevas (estudio de Shell sobre las empresas con más de cien años de existencia) muestra que la capacidad de aprender más rápido que el entorno cambia es la caracteristica más común entre las organizaciones que sobreviven décadas y siglos. Las que no aprenden rápidamente se vuelven irrelevantes cuando el entorno cambia.
+La investigación de Arie de Geus sobre las empresas longevas (estudio de Shell sobre las empresas con más de cien años de existencia) muestra que la capacidad de aprender más rápido que el entorno cambia es la característica más común entre las organizaciones que sobreviven décadas y siglos. Las que no aprenden rápidamente se vuelven irrelevantes cuando el entorno cambia.
 
 **Ejercicio inmediato:** Calcula tu velocidad actual de aprendizaje emprendedor: ¿en el último trimestre, que has aprendido que no sabías antes? ¿Cuanto de ese aprendizaje ha venido de la experiencia directa (hacer y observar los resultados) y cuanto de la formación (libros, cursos, mentores, pares)? Reflexiona sobre que cambio específico en tus habitos de aprendizaje podría aumentar la velocidad con que aprendes lo que tu negocio necesita en este momento.
 

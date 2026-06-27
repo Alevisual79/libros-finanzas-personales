@@ -83,7 +83,7 @@ Una conversación de meses por mensaje de texto no es progreso hacía una relaci
 
 La abundancia de opciones que las apps de citas presentan genera una paradoja psicológica: más opciones disponibles puede, contraintuitivamente, dificultar el compromiso genuino con cualquier conexión específica.
 
-**El Principio del Sindrome de la Siguiente Mejor Opción:** La disponibilidad constante de nuevas opciones potenciales, caracteristica del formato de las apps de citas, puede generar una mentalidad de comparación permanente donde ninguna conexión actual se siente suficientemente segura como para invertir plenamente, porque siempre existe la posibilidad teorica de que la siguiente opción sea mejor. Esta mentalidad sabotea activamente la profundización de cualquier conexión específica.
+**El Principio del Sindrome de la Siguiente Mejor Opción:** La disponibilidad constante de nuevas opciones potenciales, característica del formato de las apps de citas, puede generar una mentalidad de comparación permanente donde ninguna conexión actual se siente suficientemente segura como para invertir plenamente, porque siempre existe la posibilidad teorica de que la siguiente opción sea mejor. Esta mentalidad sabotea activamente la profundización de cualquier conexión específica.
 
 **Ejercicio inmediato:** Si reconoces este patron en ti mismo, considera limitar deliberadamente tu uso simultaneo de la aplicación mientras desarrollas una conexión prometedora, para reducir la tentación constante de comparación con opciones alternativas.
 

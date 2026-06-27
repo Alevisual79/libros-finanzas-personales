@@ -35,9 +35,9 @@ Las técnicas de seducción pueden generar una primera cita. Rara vez generan un
 
 La distinción entre presentarse autenticamente (mostrando la mejor versión genuina de uno mismo) y actuar un papel calculado para generar atracción es fundamental para construir conexiones que tengan base sólida desde el inició.
 
-**El Principio de la Mejor Versión Autentica:** Presentarse autenticamente no significa mostrar cada aspecto de uno mismo sin filtro alguno desde el primer momento, sino mostrar genuinamente la mejor versión de quien realmente se es, sin inventar caracteristicas, intereses o comportamientos que no reflejan la realidad de la persona, simplemente porque se calculan como más atractivos.
+**El Principio de la Mejor Versión Autentica:** Presentarse autenticamente no significa mostrar cada aspecto de uno mismo sin filtro alguno desde el primer momento, sino mostrar genuinamente la mejor versión de quien realmente se es, sin inventar características, intereses o comportamientos que no reflejan la realidad de la persona, simplemente porque se calculan como más atractivos.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propia forma de presentarte en citas o conexiones nuevas. Estas mostrando tu mejor versión autentica, o estas actuando caracteristicas que no son genuinamente tuyas porque crees que generan más atracción?
+**Ejercicio inmediato:** Reflexiona sobre tu propia forma de presentarte en citas o conexiones nuevas. Estas mostrando tu mejor versión autentica, o estas actuando características que no son genuinamente tuyas porque crees que generan más atracción?
 
 Tu mejor versión autentica es más atractiva, a largo plazo, que cualquier versión actuada que no puedas sostener una vez que la relación se profundice.
 

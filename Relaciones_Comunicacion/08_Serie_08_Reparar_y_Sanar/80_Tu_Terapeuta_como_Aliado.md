@@ -37,7 +37,7 @@ Existen multiples enfoques terapeuticos con fundamentos teoricos y métodos dist
 
 **El Principio de la Adecuación del Enfoque a la Necesidad:** Diferentes enfoques terapeuticos (cognitivo-conductual, psicodinamico, sistemico-familiar, centrado en soluciones, entre otros) tienen fortalezas específicas para distintos tipos de dificultades: la terapia cognitivo-conductual frecuentemente es efectiva para ansiedad y depresión con técnicas concretas, la terapia psicodinamica puede ser más apropiada para patrones relacionales profundos y de larga data, y la terapia sistemica es particularmente útil para dificultades familiares o de pareja.
 
-**Ejercicio inmediato:** Investiga brevemente las caracteristicas basicas de dos o tres enfoques terapeuticos que podrían ser relevantes para tu situación específica, antes de elegir un terapeuta.
+**Ejercicio inmediato:** Investiga brevemente las características basicas de dos o tres enfoques terapeuticos que podrían ser relevantes para tu situación específica, antes de elegir un terapeuta.
 
 No toda terapia es igual. Elegir el enfoque apropiado para tu necesidad específica mejora significativamente la probabilidad de que el proceso te sea útil.
 

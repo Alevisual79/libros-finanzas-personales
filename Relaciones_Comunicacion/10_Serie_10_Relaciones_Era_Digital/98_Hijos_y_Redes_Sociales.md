@@ -25,9 +25,9 @@ El cerebro adolescente, en pleno desarrollo de sus capacidades de regulación em
 
 **El Principio de la Vulnerabilidad Neurodevelopmental específica:** El cerebro adolescente, con un sistema de busqueda de recompensa particularmente activo y una corteza prefrontal (responsable de la regulación y el juicio a largo plazo) aun en desarrollo, es especialmente susceptible a los mecanismos de gratificación variable y de validación social que las redes sociales explotan deliberadamente, lo que explica por qué los adolescentes frecuentemente muestran patrones de uso más compulsivos que los adultos.
 
-**Ejercicio inmediato:** Si tienes hijos adolescentes, considera esta vulnerabilidad neurodevelopmental específica al evaluar su uso de redes sociales, reconociendo que enfrentan un desafio neurologico distinto al que los adultos enfrentan con la misma tecnología.
+**Ejercicio inmediato:** Si tienes hijos adolescentes, considera esta vulnerabilidad neurodevelopmental específica al evaluar su uso de redes sociales, reconociendo que enfrentan un desafio neurológico distinto al que los adultos enfrentan con la misma tecnología.
 
-El cerebro adolescente no es simplemente menos disciplinado con las redes sociales. Tiene una vulnerabilidad neurologica específica que el diseño de estas plataformas explota deliberadamente.
+El cerebro adolescente no es simplemente menos disciplinado con las redes sociales. Tiene una vulnerabilidad neurológica específica que el diseño de estas plataformas explota deliberadamente.
 
 ---
 
@@ -45,13 +45,13 @@ El impacto de Instagram en la autoestima adolescente no es especulación. Es un 
 
 ## Capítulo 3: Bullying digital y como gestionarlo
 
-El acoso a traves de medios digitales presenta caracteristicas específicas (alcance amplio, posible anonimato del agresor, presencia constante a traves del dispositivo) que lo distinguen del bullying tradicional y requieren estrategias de gestión adaptadas.
+El acoso a traves de medios digitales presenta características específicas (alcance amplio, posible anonimato del agresor, presencia constante a traves del dispositivo) que lo distinguen del bullying tradicional y requieren estrategias de gestión adaptadas.
 
-**El Principio de las Caracteristicas específicas del Bullying Digital:** El bullying digital puede ocurrir en cualquier momento (no limitado al horario escolar), puede involucrar audiencias más amplias que el bullying presencial tradicional, y frecuentemente persigue a la victima incluso en espacios que deberían sentirse seguros (el propio hogar, a traves del dispositivo personal), lo que requiere estrategias específicas de documentación, reporte, y apoyo emocional.
+**El Principio de las Características específicas del Bullying Digital:** El bullying digital puede ocurrir en cualquier momento (no limitado al horario escolar), puede involucrar audiencias más amplias que el bullying presencial tradicional, y frecuentemente persigue a la victima incluso en espacios que deberían sentirse seguros (el propio hogar, a traves del dispositivo personal), lo que requiere estrategias específicas de documentación, reporte, y apoyo emocional.
 
 **Ejercicio inmediato:** Si sospechas que tu hijo adolescente está experimentando bullying digital, observa señales específicas (cambios de animo relacionados con el uso del teléfono, evitación de ciertas plataformas) y abre una conversación directa sin juicio.
 
-El bullying digital sigue a la victima incluso a casa, a traves de su propio dispositivo. Esta caracteristica específica requiere atención y estrategias distintas del bullying tradicional.
+El bullying digital sigue a la victima incluso a casa, a traves de su propio dispositivo. Esta característica específica requiere atención y estrategias distintas del bullying tradicional.
 
 ---
 
@@ -93,7 +93,7 @@ Las reglas de pantalla impuestas sin participación del adolescente generan más
 
 ## Capítulo 7: Cuando las redes son una huida de problemas reales
 
-El uso excesivo de redes sociales en adolescentes frecuentemente funciona, similar a otros patrones discutidos en este libro para adultos, cómo una forma de evitar o escapar de dificultades reales (ansiedad social, problemas familiares, dificultades academicas) que requieren atención directa.
+El uso excesivo de redes sociales en adolescentes frecuentemente funciona, similar a otros patrones discutidos en este libro para adultos, cómo una forma de evitar o escapar de dificultades reales (ansiedad social, problemas familiares, dificultades académicas) que requieren atención directa.
 
 **El Principio de la Función de Evitación del Uso Excesivo:** Cuando un adolescente muestra un patron particularmente intenso de uso de redes sociales, vale la pena explorar que dificultad subyacente podría estar evitando o escapando a traves de ese uso, en lugar de tratar el uso excesivo unicamente como el problema en si mismo, sin considerar su posible función de evitación.
 

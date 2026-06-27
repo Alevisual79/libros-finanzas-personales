@@ -123,7 +123,7 @@ Existe una paradoja consistentemente observada en las dinámicas de atracción: 
 
 **Ejercicio inmediato:** Reflexiona sobre desde que lugar emocional estas buscando pareja actualmente: ¿desde la plenitud que quiere compartirse, o desde la necesidad que busca ser llenada? Esa diferencia, más que cualquier técnica específica, influye en tus resultados.
 
-La paradoja no es injusta. Es logica: quien no necesita desesperadamente a otro tiene más capacidad de elegir bien, y eso mismo resulta atractivo.
+La paradoja no es injusta. Es lógica: quien no necesita desesperadamente a otro tiene más capacidad de elegir bien, y eso mismo resulta atractivo.
 
 ---
 

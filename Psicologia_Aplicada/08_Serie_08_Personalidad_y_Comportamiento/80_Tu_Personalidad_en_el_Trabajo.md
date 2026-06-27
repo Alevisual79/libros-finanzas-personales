@@ -23,11 +23,11 @@ Elena lleva siete años en el mismo tipo de trabajo y se pregunta si hay un trab
 
 La mayoría de las personas elige el trabajo por lo que puede hacer. Debería también elegirlo por quien es.
 
-**El Principio del Person-Job Fit como Predictor de Rendimiento, Satisfacción, y Salud:** La investigación sobre el ajuste persona-trabajo muestra que la concordancia entre las caracteristicas de la personalidad y los requisitos del trabajo predice rendimiento, satisfacción, y bienestar laboral de forma significativa. Una revisión meta-analitica de Amy Kristof-Brown y colegas que integra 172 estudios muestra que el ajuste persona-organización, persona-trabajo, y persona-grupo son predictores robustos de la satisfacción laboral, el compromiso organizacional, y la intención de quedarse.
+**El Principio del Person-Job Fit como Predictor de Rendimiento, Satisfacción, y Salud:** La investigación sobre el ajuste persona-trabajo muestra que la concordancia entre las características de la personalidad y los requisitos del trabajo predice rendimiento, satisfacción, y bienestar laboral de forma significativa. Una revisión meta-analitica de Amy Kristof-Brown y colegas que integra 172 estudios muestra que el ajuste persona-organización, persona-trabajo, y persona-grupo son predictores robustos de la satisfacción laboral, el compromiso organizacional, y la intención de quedarse.
 
 La investigación de John Holland sobre los tipos vocacionales propone seis tipos de personalidad (realista, investigador, artistico, social, emprendedor, convencional) con la predicción de que el ajuste entre tipo de personalidad y tipo de entorno predice la satisfacción y el rendimiento laboral.
 
-**Ejercicio inmediato:** Reflexiona sobre los dos trabajos o roles que has tenido en los que te has sentido más y menos en tu lugar. ¿Que caracteristicas de personalidad favorecian cada uno? ¿Que caracteristicas requeria el trabajo que iban contra tu forma de ser natural? Ese ejercicio produce más información útil sobre el ajuste que cualquier test de vocación.
+**Ejercicio inmediato:** Reflexiona sobre los dos trabajos o roles que has tenido en los que te has sentido más y menos en tu lugar. ¿Que características de personalidad favorecian cada uno? ¿Que características requeria el trabajo que iban contra tu forma de ser natural? Ese ejercicio produce más información útil sobre el ajuste que cualquier test de vocación.
 
 El trabajo que te exige ser quien no eres cada dia no es trabajo. Es actuación de jornada completa.
 

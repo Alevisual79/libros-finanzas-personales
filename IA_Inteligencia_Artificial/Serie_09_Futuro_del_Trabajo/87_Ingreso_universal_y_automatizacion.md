@@ -15,7 +15,7 @@ Las implicaciones de Ingreso universal y automatización se sienten ya en organi
 
 ## Capítulo 3: Los marcos de referencia
 
-Para entender y navegar Ingreso universal y automatización necesitamos marcos conceptuales rigurosos provenientes de la investigación academica, la práctica profesional y el debate ético.
+Para entender y navegar Ingreso universal y automatización necesitamos marcos conceptuales rigurosos provenientes de la investigación académica, la práctica profesional y el debate ético.
 
 ## Capítulo 4: El caso de Elena
 

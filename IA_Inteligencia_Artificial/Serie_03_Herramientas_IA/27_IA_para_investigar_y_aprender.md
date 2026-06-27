@@ -17,13 +17,13 @@
 
 El mentor de Elena tenía un problema cronico: necesitaba mantenerse actualizado en campos que evolucionaban demasiado rápido. La cantidad de papers, artículos, informes y libros relevantes era imposible de procesar de forma lineal.
 
-Con la combinación de Perplexity para busqueda actualizada, NotebookLM para analizar sus propios documentos, y Elicit para investigación academica, transformó su proceso de aprendizaje. No leyo más: leyo más selectivamente y absorbio mejor lo que leía.
+Con la combinación de Perplexity para busqueda actualizada, NotebookLM para analizar sus propios documentos, y Elicit para investigación académica, transformó su proceso de aprendizaje. No leyo más: leyo más selectivamente y absorbio mejor lo que leía.
 
 ---
 
 ## Capítulo 1: El problema de la sobrecarga de información
 
-El volumen de información disponible crece más rápido que nuestra capacidad de procesarla. Cada dia se publican miles de papers academicos, millones de articulos, incontable contenido en redes.
+El volumen de información disponible crece más rápido que nuestra capacidad de procesarla. Cada dia se publican miles de papers académicos, millones de artículos, incontable contenido en redes.
 
 La IA puede ayudar de tres formas:
 **Filtrando:** Identificar lo relevante entre el ruido
@@ -50,7 +50,7 @@ Perplexity es un motor de busqueda con IA que combina busqueda web en tiempo rea
 
 ## Capítulo 3: NotebookLM — Tu propio asistente de investigación
 
-NotebookLM (Google) es una de las herramientas más interesantes del ecosistema IA para el conocimiento. Permite cargar documentos propios (PDFs, articulos, notas, transcripciones) y hacer preguntas sobre ellos en lenguaje natural.
+NotebookLM (Google) es una de las herramientas más interesantes del ecosistema IA para el conocimiento. Permite cargar documentos propios (PDFs, artículos, notas, transcripciones) y hacer preguntas sobre ellos en lenguaje natural.
 
 **Casos de uso de Isabel:**
 - Cargar toda la documentación de un proceso de RRHH y hacer preguntas específicas
@@ -65,7 +65,7 @@ NotebookLM (Google) es una de las herramientas más interesantes del ecosistema 
 
 ## Capítulo 4: Elicit — El asistente de investigación academica
 
-Elicit está diseñado específicamente para investigación academica. Busca en bases de datos de papers cientificos y extrae información relevante de forma estructurada.
+Elicit está diseñado específicamente para investigación académica. Busca en bases de datos de papers cientificos y extrae información relevante de forma estructurada.
 
 **Funcionalidades clave:**
 - Busqueda semantica (no solo por palabras clave) en millones de papers
@@ -73,7 +73,7 @@ Elicit está diseñado específicamente para investigación academica. Busca en 
 - Comparación de multiples estudios en una tabla
 - Identificación de papers relevantes que no aparecen en la busqueda inicial
 
-**Ideal para:** Profesionales que necesitan basar sus decisiones en evidencia academica, investigadores que hacen revisión de literatura, cualquiera que quiera entender que dice la ciencia sobre un tema.
+**Ideal para:** Profesionales que necesitan basar sus decisiones en evidencia académica, investigadores que hacen revisión de literatura, cualquiera que quiera entender que dice la ciencia sobre un tema.
 
 ---
 
@@ -95,7 +95,7 @@ El proceso de investigación con IA más efectivo:
 
 **1. Orientación:** Usar Perplexity o ChatGPT para una visión general rápida del tema. Entender el paisaje y la terminologia.
 
-**2. Investigación primaria:** Para investigación que requiere evidencia academica: Elicit y Consensus para papers relevantes.
+**2. Investigación primaria:** Para investigación que requiere evidencia académica: Elicit y Consensus para papers relevantes.
 
 **3. Profundidad:** Para temas específicos, cargar los documentos más relevantes en NotebookLM y hacer preguntas profundas.
 

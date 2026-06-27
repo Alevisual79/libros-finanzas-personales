@@ -65,7 +65,7 @@ Los rasgos de personalidad no son deterministas. Son probabilidades condicionada
 
 Ruben ha tomado el MBTI en su empresa y le han asignado un tipo (INTJ). Quiere saber que puede confiar en ese resultado.
 
-**El Principio del MBTI como Herramienta Popular con Limitaciones Psicometricas Significativas:** El Myers-Briggs Type Indicator es el test de personalidad más usado en el mundo (dos millones de personas lo toman cada año, frecuentemente en entornos corporativos) y al mismo tiempo uno de los más criticados por los psicologos academicos. Sus limitaciones principales son: la clasificación en tipos discretos (INTJ, ENFP, etc.) en lugar de dimensiones continuas, lo que produce que el mismo individuo obtenga tipos diferentes en diferentes momentos; la baja fiabilidad test-retest (aproximadamente el 50% de las personas obtiene un tipo diferente si repiten el test cuatro semanas después); y la debil correlación con el Big Five, que tiene mayor evidencia de validez.
+**El Principio del MBTI como Herramienta Popular con Limitaciones Psicometricas Significativas:** El Myers-Briggs Type Indicator es el test de personalidad más usado en el mundo (dos millones de personas lo toman cada año, frecuentemente en entornos corporativos) y al mismo tiempo uno de los más criticados por los psicologos académicos. Sus limitaciones principales son: la clasificación en tipos discretos (INTJ, ENFP, etc.) en lugar de dimensiones continuas, lo que produce que el mismo individuo obtenga tipos diferentes en diferentes momentos; la baja fiabilidad test-retest (aproximadamente el 50% de las personas obtiene un tipo diferente si repiten el test cuatro semanas después); y la debil correlación con el Big Five, que tiene mayor evidencia de validez.
 
 Esto no significa que el MBTI no tenga ninguna utilidad: puede ser una herramienta de reflexión y de conversación sobre diferencias de estilo. Pero no debería usarse para decisiones de contratación o de asignación de roles, para lo que su evidencia es insuficiente.
 
@@ -125,7 +125,7 @@ Elena ha notado que es una persona completamente diferente en el trabajo que con
 
 Este modelo explica por qué alguien puede ser muy asertivo con los amigos y poco asertivo en el trabajo: la asertividad se expresa de forma consistente en las situaciones que la activan (relaciones de confianza y horizontales) y no en las que la inhiben (relaciones jerarquicas donde la asertividad tiene costes percibidos). La coherencia no es en el comportamiento sino en el patron condicional.
 
-**Ejercicio inmediato:** Identifica dos contextos donde tu comportamiento parece contradictorio (en uno eres muy X, en el otro muy poco X). Formula la relación si-entonces: si el contexto es X (con que caracteristica), entonces me comporto Y; si el contexto es Z (con que otra caracteristica), entonces me comporto W. Ese patron condicional es tu personalidad en acción.
+**Ejercicio inmediato:** Identifica dos contextos donde tu comportamiento parece contradictorio (en uno eres muy X, en el otro muy poco X). Formula la relación si-entonces: si el contexto es X (con que característica), entonces me comporto Y; si el contexto es Z (con que otra característica), entonces me comporto W. Ese patron condicional es tu personalidad en acción.
 
 No eres diferente en diferentes contextos. Eres la misma persona que responde diferente a diferentes señales. Eso es coherencia, no contradicción.
 

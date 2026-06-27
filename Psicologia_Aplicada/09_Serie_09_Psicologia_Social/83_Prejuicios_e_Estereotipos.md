@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel ha contratado a personas en su carrera de recursos humanos y, mirando en retrospectiva, algunas de sus decisiones de contratación tenían sesgos que no reconocia en el momento. Ruben ha tratado de forma diferente a personas que no se lo merecian, basandose en categorías que no tenían relevancia para la situación. Elena ha recibido tratos diferentes en su vida que no estaban justificados por su comportamiento sino por caracteristicas de su apariencia o identidad. Los prejuicios y los estereotipos no son aberraciones de mentes malas: son el resultado de mecanismos cognitivos normales que en determinados contextos producen errores sistemáticos con consecuencias reales para personas reales. Este libro es sobre esos mecanismos y sobre como reducir el daño que producen.
+Isabel ha contratado a personas en su carrera de recursos humanos y, mirando en retrospectiva, algunas de sus decisiones de contratación tenían sesgos que no reconocia en el momento. Ruben ha tratado de forma diferente a personas que no se lo merecian, basandose en categorías que no tenían relevancia para la situación. Elena ha recibido tratos diferentes en su vida que no estaban justificados por su comportamiento sino por características de su apariencia o identidad. Los prejuicios y los estereotipos no son aberraciones de mentes malas: son el resultado de mecanismos cognitivos normales que en determinados contextos producen errores sistemáticos con consecuencias reales para personas reales. Este libro es sobre esos mecanismos y sobre como reducir el daño que producen.
 
 ---
 
@@ -23,7 +23,7 @@ Isabel ha contratado a personas en su carrera de recursos humanos y, mirando en 
 
 Los estereotipos no son un defecto del pensamiento. Son un mecanismo de eficiencia con costes.
 
-**El Principio de la Categorización Social como Estrategia Cognitiva de Eficiencia con Errores Sistematicos:** Henri Tajfel propuso que la categorización social (clasificar a las personas en grupos: hombre/mujer, joven/mayor, de mi grupo/de otro grupo) es un mecanismo cognitivo que simplifica el procesamiento de información social. Sin esta categorización, el cerebro tendría que procesar cada persona cómo un individuo completamente nuevo, lo que sería cognitivamente inmanejable.
+**El Principio de la Categorización Social como Estrategia Cognitiva de Eficiencia con Errores Sistemáticos:** Henri Tajfel propuso que la categorización social (clasificar a las personas en grupos: hombre/mujer, joven/mayor, de mi grupo/de otro grupo) es un mecanismo cognitivo que simplifica el procesamiento de información social. Sin esta categorización, el cerebro tendría que procesar cada persona cómo un individuo completamente nuevo, lo que sería cognitivamente inmanejable.
 
 El problema es que la categorización produce dos sesgos sistemáticos: la homogenización del outgroup (los miembros del grupo ajeno se perciben como más similares entre si de lo que son: todos los X son iguales) y la acentuación de las diferencias entre grupos (los grupos se perciben como más diferentes entre si de lo que son). Estos sesgos producen estereotipos que son simplificaciones excesivas de la realidad.
 
@@ -37,7 +37,7 @@ El estereotipo que tienes sobre un grupo que casi no conoces es una opinión sob
 
 Ruben cree que no tiene prejuicios raciales. La investigación sugiere que todos tenemos sesgos que no somos conscientes de tener.
 
-**El Principio del Sesgo Implicito como Actitud Automatica que Opera por Debajo de la Conciencia:** Mahzarin Banaji y Anthony Greenwald desarrollaron el Implicit Association Test (IAT): una prueba que mide la velocidad de asociación entre conceptos para revelar actitudes implícitas que el individuo puede no reconocer conscientemente. Los resultados muestran que la mayoría de las personas (incluyendo las que se identifican como no prejuiciosas) muestran asociaciones implícitas que favorecen a los grupos dominantes sobre los subordinados.
+**El Principio del Sesgo Implicito como Actitud Automática que Opera por Debajo de la Conciencia:** Mahzarin Banaji y Anthony Greenwald desarrollaron el Implicit Association Test (IAT): una prueba que mide la velocidad de asociación entre conceptos para revelar actitudes implícitas que el individuo puede no reconocer conscientemente. Los resultados muestran que la mayoría de las personas (incluyendo las que se identifican como no prejuiciosas) muestran asociaciones implícitas que favorecen a los grupos dominantes sobre los subordinados.
 
 La interpretación de estos datos es controvertida: los críticos del IAT (como Gregory Mitchell y Patrick Friedersdorf) cuestionan su validez predictiva del comportamiento real. Los defensores (Banaji, Greenwald, Nosek) mantienen que revela patrones de asociación que, aunque no determinan el comportamiento, lo modulan de formas sutiles.
 
@@ -63,9 +63,9 @@ El sesgo que no puedes ver tampoco puedes corregirlo. El que te obligas a ver ya
 
 ## Capítulo 4: La amenaza del estereotipo: como los estereotipos afectan al que los recibe
 
-Ruben pertenece a un grupo que tiene un estereotipo negativo en ciertos contextos academicos. La investigación de Claude Steele explica por qué ese estereotipo puede afectar su rendimiento.
+Ruben pertenece a un grupo que tiene un estereotipo negativo en ciertos contextos académicos. La investigación de Claude Steele explica por qué ese estereotipo puede afectar su rendimiento.
 
-**El Principio de la Amenaza del Estereotipo como Reducción del Rendimiento en Contextos donde el Estereotipo es Relevante:** Claude Steele y Joshua Aronson demostraron en 1995 que los estudiantes afroamericanos rindinan peor en tests academicos cuando se les decía que el test medía habilidad intelectual (activando la amenaza del estereotipo negativo sobre inteligencia afroamericana) que cuando se les decía que era un ejercicio sin implicaciones para la inteligencia. La diferencia en rendimiento no era debida a diferencias de preparación sino al efecto cognitivo de la amenaza del estereotipo.
+**El Principio de la Amenaza del Estereotipo como Reducción del Rendimiento en Contextos donde el Estereotipo es Relevante:** Claude Steele y Joshua Aronson demostraron en 1995 que los estudiantes afroamericanos rindinan peor en tests académicos cuando se les decía que el test medía habilidad intelectual (activando la amenaza del estereotipo negativo sobre inteligencia afroamericana) que cuando se les decía que era un ejercicio sin implicaciones para la inteligencia. La diferencia en rendimiento no era debida a diferencias de preparación sino al efecto cognitivo de la amenaza del estereotipo.
 
 La investigación posterior muestra que la amenaza del estereotipo afecta a cualquier grupo que tiene un estereotipo negativo en un área específica: mujeres en matemáticas, blancos en atletismo, personas mayores en tests de memoria. El mecanismo es la carga cognitiva de gestionar la amenaza de confirmar el estereotipo.
 

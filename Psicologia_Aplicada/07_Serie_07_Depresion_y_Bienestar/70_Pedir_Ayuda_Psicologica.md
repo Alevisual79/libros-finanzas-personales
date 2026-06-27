@@ -121,7 +121,7 @@ La terapia que funciona en formato online es mejor que la presencial que no pued
 
 Isabel lleva tres meses en psicoterapia con una mejoria parcial. Su psicologa le ha sugerido una evaluación psiquiatrica. Isabel tiene muchos miedos al respecto.
 
-**El Principio de la Psiquiatria y la Psicoterapia como Complementos, no Competidores:** La investigación muestra que para la depresión moderada a severa, la combinación de psicoterapia y farmacoterapia es superior a cualquiera de los dos tratamientos por separado. Los psiquiatras son médicos especializados en el diagnostico y tratamiento farmacologico de los trastornos mentales; los psicologos son especialistas en el tratamiento psicológico. La colaboración entre ambos es la mejor práctica clinica para los casos más complejos.
+**El Principio de la Psiquiatria y la Psicoterapia como Complementos, no Competidores:** La investigación muestra que para la depresión moderada a severa, la combinación de psicoterapia y farmacoterapia es superior a cualquiera de los dos tratamientos por separado. Los psiquiatras son médicos especializados en el diagnóstico y tratamiento farmacológico de los trastornos mentales; los psicologos son especialistas en el tratamiento psicológico. La colaboración entre ambos es la mejor práctica clinica para los casos más complejos.
 
 La evaluación psiquiatrica no implica automáticamente medicación: es una evaluación especializada que puede concluir que la farmacoterapia no es necesaria en ese momento, o puede identificar indicaciones específicas donde la medicación sería útil como complemento a la psicoterapia.
 

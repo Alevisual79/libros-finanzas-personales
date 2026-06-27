@@ -59,13 +59,13 @@ Una ruptura clara y compasiva duele menos, a largo plazo, que una ambigua y prol
 
 ## Capítulo 4: Gestionar el dolor de la ruptura
 
-El dolor después de una ruptura tiene componentes neurologicos similares a los de la adicción y el duelo, lo que explica por qué puede sentirse tan físicamente intenso, no solo emocionalmente.
+El dolor después de una ruptura tiene componentes neurológicos similares a los de la adicción y el duelo, lo que explica por qué puede sentirse tan físicamente intenso, no solo emocionalmente.
 
 **El Principio del Duelo como Proceso Necesario:** Helen Fisher, en su investigación sobre el rechazó romantico, muestra que el cerebro de una persona que atraviesa una ruptura activa áreas similares a las de la abstinencia de sustancias, lo que explica la intensidad física del dolor de ruptura. Este dolor sigue un proceso similar al duelo, con fases de negación, anhelo, ira y eventual aceptación, y necesita tiempo para procesarse, no solo voluntad de superarlo rápidamente.
 
 **Ejercicio inmediato:** Si estas atravesando el dolor de una ruptura, permite que el proceso tome el tiempo que necesite, sin la presión de superarlo en un plazo arbitrario. Apoyate en tu red social, mantén rutinas basicas de cuidado personal, y considera que la intensidad del dolor inicial es temporal aunque se sienta permanente.
 
-El dolor de una ruptura no es debilidad. Es la respuesta neurologica normal a la perdida de un vinculó que era real.
+El dolor de una ruptura no es debilidad. Es la respuesta neurológica normal a la perdida de un vinculó que era real.
 
 ---
 

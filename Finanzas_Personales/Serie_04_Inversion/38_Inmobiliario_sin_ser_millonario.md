@@ -86,7 +86,7 @@ La objeción tiene algo de verdad psicológica. El inmueble físico crea una sen
 
 Pero en términos financieros, la comparación es más complicada.
 
-El inmueble físico: capital elevado para entrar (50.000-80.000 euros de entrada). Riesgo concentrado en un solo activo. Iliquidez total (vender tarda meses). Gestión activa (inquilinos, mantenimiento, seguros, administrador, periodos de vacío). Rentabilidad neta real después de gastos: 2-4% en muchos mercados.
+El inmueble físico: capital elevado para entrar (50.000-80.000 euros de entrada). Riesgo concentrado en un solo activo. Iliquidez total (vender tarda meses). Gestión activa (inquilinos, mantenimiento, seguros, administrador, períodos de vacío). Rentabilidad neta real después de gastos: 2-4% en muchos mercados.
 
 El REIT o ETF de REITs: entrada desde 50 euros. Diversificación entre cientos de inmuebles en múltiples países y sectores. Liquidez inmediata (vende en segundos en el broker). Sin gestión. Rentabilidad histórica comparable al inmobiliario directo.
 

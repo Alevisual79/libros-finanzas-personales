@@ -29,7 +29,7 @@ Laura King investiga el mejor yo posible (possible selves): la investigación mu
 
 **Ejercicio inmediato:** Reflexiona sobre tu relación con el concepto de mejor versión de ti mismo: ¿cuando piensas en ella, lo que predomina es motivación (hay algo hacía donde quiero crecer) o juicio (no soy suficientemente bueno tal como soy)? Si predomina el juicio, el concepto está funcionando como fuente de sufrimiento, no de crecimiento. Esa distinción es el primer paso para reformular la relación con el crecimiento personal.
 
-La mejor versión de ti mismo no es la que crítica quien eres hoy. Es la que te muestra hacía donde puedes crecer desde quien eres hoy.
+La mejor versión de ti mismo no es la que critica quien eres hoy. Es la que te muestra hacía donde puedes crecer desde quien eres hoy.
 
 ---
 
@@ -109,7 +109,7 @@ Elena ha aprendido que la creencia en la propia capacidad de cambiar es un prere
 
 **El Principio de la Autoeficacia cómo la Creencia en la Propia Capacidad de Producir Resultados en un Area específica que Predice el Rendimiento Mejor que las Capacidades Actuales:** Albert Bandura desarrollo el concepto de autoeficacia: la creencia específica en la propia capacidad de ejecutar las acciones necesarias para conseguir un resultado en un área específica. La autoeficacia no es la confianza global en uno mismo (que es menos predictiva) sino la creencia específica en áreas específicas.
 
-La investigación de Bandura muestra que la autoeficacia se desarrolla a traves de cuatro fuentes: las experiencias de dominio (los éxitos pasados en el área), la modelización vicaria (ver a otros similares conseguir el resultado), la persuasión social (la animación de personas que uno respeta), y los estados fisiologicos y emocionales (interpretar el estado fisiologico de la activación como entusiasmo en lugar de ansiedad).
+La investigación de Bandura muestra que la autoeficacia se desarrolla a traves de cuatro fuentes: las experiencias de dominio (los éxitos pasados en el área), la modelización vicaria (ver a otros similares conseguir el resultado), la persuasión social (la animación de personas que uno respeta), y los estados fisiológicos y emocionales (interpretar el estado fisiológico de la activación como entusiasmo en lugar de ansiedad).
 
 **Ejercicio inmediato:** Para un área donde tu autoeficacia es baja (crees que no puedes hacer algo que quisieras poder hacer), identifica la experiencia de dominio más pequeña posible que podrías conseguir en los próximos siete dias: algo tan pequeño que sea ridiculo fracasar. Conseguirlo produce evidencia de que eres capaz de esa acción, que es la materia prima con la que se construye la autoeficacia.
 

@@ -23,7 +23,7 @@ Ruben tiene treinta y seis años y a veces siente que ha vivido los últimos cin
 
 La mayor parte del tiempo no elegimos conscientemente. Respondemos a habitos, presiones, y expectativas.
 
-**El Principio del Piloto Automatico como Estado por Defecto de la Mente que Requiere Esfuerzo Deliberado para Interrumpirse:** La investigación de Matthew Killingsworth y Daniel Gilbert muestra que el 47% del tiempo las personas estan pensando en algo diferente a lo que estan haciendo (mente errante). La investigación de John Bargh y colegas sobre el comportamiento automático muestra que una proporción significativa de los comportamientos socialmente complejos (incluidos comportamientos que las personas considerarian altamente deliberados) ocurren de forma automática sin conciencia deliberada.
+**El Principio del Piloto Automático como Estado por Defecto de la Mente que Requiere Esfuerzo Deliberado para Interrumpirse:** La investigación de Matthew Killingsworth y Daniel Gilbert muestra que el 47% del tiempo las personas estan pensando en algo diferente a lo que estan haciendo (mente errante). La investigación de John Bargh y colegas sobre el comportamiento automático muestra que una proporción significativa de los comportamientos socialmente complejos (incluidos comportamientos que las personas considerarian altamente deliberados) ocurren de forma automática sin conciencia deliberada.
 
 El estado de piloto automático es adaptativo en muchos contextos: libera recursos cognitivos para las tareas que requieren deliberación. Pero en las áreas donde las decisiones tienen mayor impacto en la vida (elecciones de carrera, relaciones, uso del tiempo, estilo de vida), el piloto automático frecuentemente reproduce los patrones del pasado en lugar de producir los que queremos para el futuro.
 
@@ -123,7 +123,7 @@ Ruben esta en una transición profesional. Esos momentos son los que más requie
 
 **El Principio de las Transiciones Vitales como Ventanas de Oportunidad para Redefinir la Intención con la que se Vive:** William Bridges, en Transitions: Making Sense of Life's Changes, propone que las transiciones vitales (cambio de trabajo, mudanza, fin de una relación, inició de una nueva etapa) son los momentos donde el piloto automático se interrumpe naturalmente porque los patrones habituales ya no aplican. Esas interrupciones son incomodas, pero son también las oportunidades de mayor cambio deliberado: el nuevo comienzo (si se gestiona bien) puede establecerse con la intención que el comenzar-ya no permitia.
 
-La investigación de Wendy Wood sobre los habitos y los momentos de cambio confirma que los cambios de contexto (mudanzas, cambios de trabajo, inició de cursos academicos) son los momentos en que los habitos nuevos se forman más facilmente porque las señales contextuales del antiguo habito han desaparecido.
+La investigación de Wendy Wood sobre los habitos y los momentos de cambio confirma que los cambios de contexto (mudanzas, cambios de trabajo, inició de cursos académicos) son los momentos en que los habitos nuevos se forman más facilmente porque las señales contextuales del antiguo habito han desaparecido.
 
 **Ejercicio inmediato:** Si estas en una transición vital (o si hay una próxima) reflexiona: ¿que intención quiero que guie esta nueva etapa? ¿Que patrones del pasado no quiero reproducir? ¿Que posibilidades abre esta transición que el estado anterior no abria? Las respuestas a esas preguntas en el momento de la transición producen el diseño deliberado de la nueva etapa antes de que el piloto automático tome el control.
 

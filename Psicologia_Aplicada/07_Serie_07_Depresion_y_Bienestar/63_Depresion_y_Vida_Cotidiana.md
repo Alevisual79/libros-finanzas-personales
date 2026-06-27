@@ -37,7 +37,7 @@ La depresión te da menos energía para vivir. La gestión inteligente es decidi
 
 Ruben se despierta a las tres de la madrugada y no puede volver a dormir. Ese patron es muy común en la depresión y se puede trabajar.
 
-**El Principio de la Higiene del Sueno como Intervención Critica en la Depresión:** La alteración del sueño es uno de los sintomas más frecuentes y más discapacitantes de la depresión: insomnio de mantenimiento (despertarse en medio de la noche), despertar precoz, o hipersomnia (dormir en exceso sin que el sueño sea reparador). Y la falta de sueño profundiza la depresión, creando un ciclo que se retroalimenta.
+**El Principio de la Higiene del Sueno como Intervención Crítica en la Depresión:** La alteración del sueño es uno de los sintomas más frecuentes y más discapacitantes de la depresión: insomnio de mantenimiento (despertarse en medio de la noche), despertar precoz, o hipersomnia (dormir en exceso sin que el sueño sea reparador). Y la falta de sueño profundiza la depresión, creando un ciclo que se retroalimenta.
 
 El meta-análisis de Colleen Carney y colegas sobre la Terapia Cognitivo-Conductual para el Insomnio (TCC-I) muestra que es tan efectiva cómo la farmacoterapia para el insomnio a corto plazo y más efectiva a largo plazo. Las estrategias incluyen: mantener horarios regulares de sueño incluso en períodos de mal sueño, reducir el tiempo en cama a las horas que se duerme realmente (restricción del sueño), y trabajar las cogniciones sobre el sueño que producen ansiedad anticipatoria.
 
@@ -109,7 +109,7 @@ Elena ha notado que los dias sin estructura son los peores. Los dias con agenda 
 
 **El Principio de la Rutina como Protesis Conductual en la Depresión:** Cuando la motivación y la energía estan bajas, la rutina proporciona estructura que reduce el número de decisiones que hay que tomar (cada decisión consume energía en la depresión), crea predictibilidad que reduce la ansiedad sobre lo que viene, y produce un ciclo basico de actividad que mantiene el sistema funcionando.
 
-La investigación sobre la terapia de ritmos sociales de Ellen Frank y Holly Swartz, desarrollada inicialmente para el trastorno bipolar, muestra que la regularidad de los ritmos sociales (horas de sueño, comidas, actividad, contacto social) estabiliza los ritmos biologicos y reduce la frecuencia y severidad de los episodios depresivos.
+La investigación sobre la terapia de ritmos sociales de Ellen Frank y Holly Swartz, desarrollada inicialmente para el trastorno bipolar, muestra que la regularidad de los ritmos sociales (horas de sueño, comidas, actividad, contacto social) estabiliza los ritmos biológicos y reduce la frecuencia y severidad de los episodios depresivos.
 
 **Ejercicio inmediato:** Diseña tu rutina mínima para mañana: hora de levantarte, desayuno, una tarea prioritaria del trabajo, comida, una actividad breve de activación física, cena, hora de desconexion de pantallas. No una rutina perfecta sino la más basica posible. Esa estructura, aunque sea mínima, es mejor que no tener ninguna.
 
@@ -121,7 +121,7 @@ La rutina en la depresión no es rigidez. Es el andamio que sostiene la vida cua
 
 Ruben ha intentado el autocuidado de Instagram (banos con velas, diarios de gratitud decorados) y no le ha funcionado. El autocuidado efectivo en la depresión se parece a otra cosa.
 
-**El Principio del Autocuidado como Acciones que Reducen la Carga Fisiologica, no como Actividades de Disfrute:** El autocuidado efectivo en la depresión no requiere disfrute (que la anhedonia hace imposible) sino acciones que reducen la carga fisiologica y mantienen el sistema funcionando: sueño regular, alimentación regular, ejercicio moderado, reducción del alcohol y las sustancias, mantenimiento de la higiene personal basica, y reducción de los estresores innecesarios.
+**El Principio del Autocuidado como Acciones que Reducen la Carga Fisiológica, no como Actividades de Disfrute:** El autocuidado efectivo en la depresión no requiere disfrute (que la anhedonia hace imposible) sino acciones que reducen la carga fisiológica y mantienen el sistema funcionando: sueño regular, alimentación regular, ejercicio moderado, reducción del alcohol y las sustancias, mantenimiento de la higiene personal basica, y reducción de los estresores innecesarios.
 
 La investigación sobre el rol del alcohol en la depresión muestra que aunque inicialmente parece reducir la ansiedad y producir un estado de animo más positivo, el alcohol es un depresor del sistema nervioso central y profundiza la depresión a medio plazo. Las personas con depresión que consumen alcohol de forma problematica tienen peores outcomes del tratamiento.
 
@@ -149,7 +149,7 @@ No tienes que contarselo a todo el mundo. Pero si necesitas contarselo a alguien
 
 Ruben esta en proceso de recuperación pero algunos dias son tan malos como al principio. Eso no significa que el tratamiento no funcione.
 
-**El Principio de la Recuperación No Lineal como Caracteristica Normal del Proceso:** La investigación sobre el curso de la depresión con tratamiento muestra que la recuperación es no lineal: hay semanas mejores y semanas peores, dias buenos dentro de episodios aun activos, y dias malos dentro de recuperaciones avanzadas. Esta variabilidad es normal y no indica fracaso del tratamiento.
+**El Principio de la Recuperación No Lineal como Característica Normal del Proceso:** La investigación sobre el curso de la depresión con tratamiento muestra que la recuperación es no lineal: hay semanas mejores y semanas peores, dias buenos dentro de episodios aun activos, y dias malos dentro de recuperaciones avanzadas. Esta variabilidad es normal y no indica fracaso del tratamiento.
 
 Martin Seligman propone que la expectativa de una recuperación lineal y constante crea una presión adicional que interfiere con el proceso real. Los dias malos dentro de la recuperación son parte de la recuperación, no evidencia de que la recuperación no está ocurriendo.
 

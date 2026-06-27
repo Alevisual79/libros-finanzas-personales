@@ -15,7 +15,7 @@ Las implicaciones de IA y salud mental se sienten ya en organizaciones, profesio
 
 ## Capítulo 3: Los marcos de referencia
 
-Para entender y navegar IA y salud mental necesitamos marcos conceptuales rigurosos provenientes de la investigación academica, la práctica profesional y el debate ético.
+Para entender y navegar IA y salud mental necesitamos marcos conceptuales rigurosos provenientes de la investigación académica, la práctica profesional y el debate ético.
 
 ## Capítulo 4: El caso de Elena
 

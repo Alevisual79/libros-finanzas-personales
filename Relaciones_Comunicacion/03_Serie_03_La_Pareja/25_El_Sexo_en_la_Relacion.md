@@ -19,7 +19,7 @@ El deseo en la pareja a largo plazo tiene una trayectoria casi universal que nad
 
 Rara vez es eso.
 
-Esther Perel, terapeuta de parejas especializada en deseo y erotismo en las relaciones largas, argumenta que el deseo y el amor tienen logicas distintas que en ocasiones se contradicen: el amor busca la seguridad, la cercania y la predecibilidad. El deseo prospera en la distancia, la novedad y la incertidumbre. La paradoja es que lo que construye una relación sólida (la seguridad y la familiaridad) puede ser exactamente lo que reduce el deseo.
+Esther Perel, terapeuta de parejas especializada en deseo y erotismo en las relaciones largas, argumenta que el deseo y el amor tienen lógicas distintas que en ocasiones se contradicen: el amor busca la seguridad, la cercania y la predecibilidad. El deseo prospera en la distancia, la novedad y la incertidumbre. La paradoja es que lo que construye una relación sólida (la seguridad y la familiaridad) puede ser exactamente lo que reduce el deseo.
 
 Este libro es sobre esa paradoja y sobre como navegarla.
 
@@ -43,9 +43,9 @@ El camino de vuelta a la conexión en la pareja es diferente para cada persona. 
 
 ## Capítulo 2: Por qué el deseo decrece con el tiempo
 
-El deseo sexual en las relaciones largas no decrece porque el amor se acaba. Decrece por razones biologicas, psicológicas y de dinámica relacional que son perfectamente comprensibles y parcialmente manejables.
+El deseo sexual en las relaciones largas no decrece porque el amor se acaba. Decrece por razones biológicas, psicológicas y de dinámica relacional que son perfectamente comprensibles y parcialmente manejables.
 
-**El Principio de la Habituación y el Deseo:** El deseo prospera con la novedad. El cerebro responde con mayor activación dopaminergica a los estímulos nuevos que a los familiares. En las primeras etapas de una relación, todo es nuevo: el cuerpo del otro, la forma de moverse, los sonidos, las respuestas. Con el tiempo, la familiaridad reduce la respuesta dopaminergica. Esto no es un fallo de la relación. Es la arquitectura neurologica del deseo.
+**El Principio de la Habituación y el Deseo:** El deseo prospera con la novedad. El cerebro responde con mayor activación dopaminergica a los estímulos nuevos que a los familiares. En las primeras etapas de una relación, todo es nuevo: el cuerpo del otro, la forma de moverse, los sonidos, las respuestas. Con el tiempo, la familiaridad reduce la respuesta dopaminergica. Esto no es un fallo de la relación. Es la arquitectura neurológica del deseo.
 
 Ademas, las relaciones largas acumulan carga de responsabilidades, estres cotidiano, roles no eroticos (ser el otro el que saca la basura, el que cuida cuando hay enfermedad, el que habla de las facturas) que crean una imagen del otro que compite con la imagen erotica.
 

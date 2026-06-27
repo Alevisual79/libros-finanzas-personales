@@ -121,7 +121,7 @@ No puedes dar desde el vacio. El autocuidado no es egoismo. Es el mantenimiento 
 
 Ruben ha recibido crítica pública de un colega sobre un trabajo que presento. La crítica fue dura y parcialmente injusta. Su respuesta habitual sería rumiación intensa, autocritica amplificada, y preocupación persistente sobre lo que el colega y otros piensan de el.
 
-**El Principio de la Autocompasión ante la Critica Externa:** Gilbert y sus colegas documentan que las personas con mayor autocompasión muestran mayor estabilidad del estado de animo ante la crítica externa, mayor capacidad de evaluar la crítica con perspectiva (que parte puede ser útil, que parte es exageración o injusticia), y menor tendencia a la rumiación posicritica. La autocompasión actua como amortiguador entre la crítica externa y la autoevaluación interna: la persona compasiva consigo misma puede escuchar la crítica sin que esta determine inmediatamente su sentido de valor.
+**El Principio de la Autocompasión ante la Crítica Externa:** Gilbert y sus colegas documentan que las personas con mayor autocompasión muestran mayor estabilidad del estado de animo ante la crítica externa, mayor capacidad de evaluar la crítica con perspectiva (que parte puede ser útil, que parte es exageración o injusticia), y menor tendencia a la rumiación posicritica. La autocompasión actua como amortiguador entre la crítica externa y la autoevaluación interna: la persona compasiva consigo misma puede escuchar la crítica sin que esta determine inmediatamente su sentido de valor.
 
 Esta estabilidad no viene de indiferencia ante la crítica sino de un sentido de valor suficientemente estable para que la crítica sea procesada como información (que puedo aprender) en lugar de como sentencia (quien soy).
 

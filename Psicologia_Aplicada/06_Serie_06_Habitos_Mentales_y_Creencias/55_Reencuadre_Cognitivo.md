@@ -53,11 +53,11 @@ Isabel ve su tendencia a necesitar mucho tiempo antes de decidir cómo un defect
 
 **El Principio del Reencuadre de Contexto como Relativización del Valor:** El reencuadre de contexto mantiene el significado del comportamiento o la situación pero cambia el contexto en el que se evalua: un comportamiento que es un problema en un contexto puede ser una fortaleza en otro. La lentitud para decidir que es un problema en contextos de rapidez y urgencia puede ser un activo invaluable en contextos que requieren deliberación cuidadosa.
 
-Milton Erickson, psicoterapeuta que desarrollo muchas de las técnicas de reencuadre, usaba frecuentemente el reencuadre de contexto para transformar como los pacientes veían sus caracteristicas: el perfeccionismo que paraliza en los plazos comerciales puede ser exactamente lo que se necesita en la investigación médica.
+Milton Erickson, psicoterapeuta que desarrollo muchas de las técnicas de reencuadre, usaba frecuentemente el reencuadre de contexto para transformar como los pacientes veían sus características: el perfeccionismo que paraliza en los plazos comerciales puede ser exactamente lo que se necesita en la investigación médica.
 
-**Ejercicio inmediato:** Identifica una caracteristica propia que habitualmente ves cómo un defecto. Reflexiona: ¿en que contextos esa misma caracteristica sería una fortaleza? ¿Donde sería exactamente lo que se necesita? El reencuadre de contexto no niega que la caracteristica produce problemas en algunos contextos: clarifica que no es inherentemente negativa sino dependiente del contexto.
+**Ejercicio inmediato:** Identifica una característica propia que habitualmente ves cómo un defecto. Reflexiona: ¿en que contextos esa misma característica sería una fortaleza? ¿Donde sería exactamente lo que se necesita? El reencuadre de contexto no niega que la característica produce problemas en algunos contextos: clarifica que no es inherentemente negativa sino dependiente del contexto.
 
-El defecto que tienes en un contexto puede ser exactamente el activo que necesitas en otro. El valor de una caracteristica depende siempre de dónde se aplica.
+El defecto que tienes en un contexto puede ser exactamente el activo que necesitas en otro. El valor de una característica depende siempre de dónde se aplica.
 
 ---
 
@@ -109,7 +109,7 @@ Isabel vive con altos niveles de estres y los interpreta como señal de que algo
 
 **El Principio del Reencuadre del Estres como Recurso:** Kelly McGonigal, psicóloga de Stanford, propuso un reencuadre del estres basado en la investigación de Alia Crum y colegas: la creencia de que el estres es perjudicial para la salud se asocia con peores outcomes de salud que la creencia de que el estres es una señal de que algo importa y que el cuerpo se está preparando para afrontarlo.
 
-Crum y colegas muestran que simplemente informar a las personas de los beneficios potenciales del estres (mayor atención, mayor energía, mayor movilización de recursos) antes de una situación estresante produce mejores outcomes fisiologicos y cognitivos que informarles de sus costes. El marcó desde el que se interpreta la respuesta de estres modifica los efectos fisiologicos del estres.
+Crum y colegas muestran que simplemente informar a las personas de los beneficios potenciales del estres (mayor atención, mayor energía, mayor movilización de recursos) antes de una situación estresante produce mejores outcomes fisiológicos y cognitivos que informarles de sus costes. El marcó desde el que se interpreta la respuesta de estres modifica los efectos fisiológicos del estres.
 
 **Ejercicio inmediato:** La próxima vez que notes los signos físicos del estres (corazón acelerado, tensión muscular, mayor alerta), en lugar de interpretar esos signos como señal de que algo esta mal, reformula: mi cuerpo se está preparando para afrontar algo que me importa. Esta reformulación no es negación del estres: es un cambio en el marcó que modifica su efecto.
 

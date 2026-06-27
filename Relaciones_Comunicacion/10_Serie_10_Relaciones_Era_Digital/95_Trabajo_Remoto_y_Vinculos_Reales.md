@@ -87,7 +87,7 @@ La integración de nuevos miembros a un equipo completamente remoto presenta des
 
 **Ejercicio inmediato:** Si tienes un nuevo miembro de equipo en su primer mes remoto, identifica una conexión específica que podrías facilitar deliberadamente esta semana para acelerar su integración.
 
-El primer mes de un nuevo miembro remoto no se gestiona igual que presencialmente. Requiere estructura más intensiva y deliberada para compensar la ausencia de integración organica.
+El primer mes de un nuevo miembro remoto no se gestiona igual que presencialmente. Requiere estructura más intensiva y deliberada para compensar la ausencia de integración orgánica.
 
 ---
 

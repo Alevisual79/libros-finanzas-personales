@@ -15,7 +15,7 @@ Las implicaciones de Educación para un mundo con IA se sienten ya en organizaci
 
 ## Capítulo 3: Los marcos de referencia
 
-Para entender y navegar Educación para un mundo con IA necesitamos marcos conceptuales rigurosos provenientes de la investigación academica, la práctica profesional y el debate ético.
+Para entender y navegar Educación para un mundo con IA necesitamos marcos conceptuales rigurosos provenientes de la investigación académica, la práctica profesional y el debate ético.
 
 ## Capítulo 4: El caso de Elena
 

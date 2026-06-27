@@ -107,7 +107,7 @@ La paz que el estoicismo ofrece no es la de que las cosas vayan bien. Es la de s
 
 Elena ha aprendido que pedir apoyo en la adversidad no es debilidad sino inteligencia.
 
-**El Principio del Apoyo Social como el Factor Más Robusto de Protección en la Adversidad con Efectos Biologicos Documentados:** La investigación de Sheldon Cohen y colegas sobre el apoyo social y la salud muestra que las personas con redes de apoyo social más densas y de mayor calidad tienen mejor función inmune, menor riesgo de enfermedades cardiovasculares, mayor longevidad, y mayor resiliencia ante el estres agudo. El apoyo social no es un lujo: es un recurso biologicamente relevante.
+**El Principio del Apoyo Social como el Factor Más Robusto de Protección en la Adversidad con Efectos Biológicos Documentados:** La investigación de Sheldon Cohen y colegas sobre el apoyo social y la salud muestra que las personas con redes de apoyo social más densas y de mayor calidad tienen mejor función inmune, menor riesgo de enfermedades cardiovasculares, mayor longevidad, y mayor resiliencia ante el estres agudo. El apoyo social no es un lujo: es un recurso biologicamente relevante.
 
 La investigación de James Pennebaker sobre la divulgación de experiencias traumaticas muestra que compartir las experiencias difíciles con personas de confianza (o a traves de la escritura) produce beneficios en la salud física y psicológica comparables a los de la psicoterapia.
 

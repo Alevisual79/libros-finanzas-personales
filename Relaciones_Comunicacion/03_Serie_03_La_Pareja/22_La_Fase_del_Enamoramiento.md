@@ -27,11 +27,11 @@ Lo que es importante saber: el enamoramiento no es el amor. Es el inició de la 
 
 Helen Fisher, biologa evolucionista de la Universidad Rutgers, paso décadas estudiando los cerebros de personas enamoradas en escaner. Lo que encontró cambio la forma de entender el enamoramiento: no es una emoción. Es un sistema de motivación profundamente arraigado, más cercano al hambre y la sed que a la alegria o la tristeza.
 
-**El Principio de la Neurologia del Amor:** Durante el enamoramiento, el cerebro experimenta una cascada de cambios bioquimicos específicos: aumento de dopamina (la molecula de la recompensa y la motivación), norepinefrina (que produce la hiperatención y la energía exaltada) y feniletilamina, juntó con una reducción significativa de serotonina (que produce la obsesividad caracteristica). El resultado es un estado que se parece, neurologicamente, a la adicción: la persona amada se convierte en el foco de toda la atención, y la ausencia de esa persona produce sintomas similares a los de la privación de una sustancia.
+**El Principio de la Neurologia del Amor:** Durante el enamoramiento, el cerebro experimenta una cascada de cambios bioquimicos específicos: aumento de dopamina (la molecula de la recompensa y la motivación), norepinefrina (que produce la hiperatención y la energía exaltada) y feniletilamina, juntó con una reducción significativa de serotonina (que produce la obsesividad característica). El resultado es un estado que se parece, neurologicamente, a la adicción: la persona amada se convierte en el foco de toda la atención, y la ausencia de esa persona produce sintomas similares a los de la privación de una sustancia.
 
-Esta arquitectura neurologica tiene sentido evolutivo: garantiza que los humanos se mantengan motivados para buscar y retener una pareja reproductiva. Pero no esta diseñada para durar indefinidamente.
+Esta arquitectura neurológica tiene sentido evolutivo: garantiza que los humanos se mantengan motivados para buscar y retener una pareja reproductiva. Pero no esta diseñada para durar indefinidamente.
 
-**Ejercicio inmediato:** Reflexiona sobre tu último enamoramiento intenso. Cuales de los sintomas neurologicos reconoces: ¿la obsesión con la persona, la energía exaltada, la sensación de que el tiempo pasa diferente cuando estan juntos? Reconocer estos sintomas como biologicos no los hace menos reales. Los hace más manejables.
+**Ejercicio inmediato:** Reflexiona sobre tu último enamoramiento intenso. Cuales de los sintomas neurológicos reconoces: ¿la obsesión con la persona, la energía exaltada, la sensación de que el tiempo pasa diferente cuando estan juntos? Reconocer estos sintomas como biológicos no los hace menos reales. Los hace más manejables.
 
 El enamoramiento no es un estado de claridad. Es un estado de intoxicación que se siente como claridad.
 
@@ -39,13 +39,13 @@ El enamoramiento no es un estado de claridad. Es un estado de intoxicación que 
 
 ## Capítulo 2: Por qué todo parece perfecto al principio
 
-Elena lleva dos meses con su nuevo novio y todo en el le parece excepcional. Tiene un sentido del humor perfecto. Es increiblemente atento. No ha visto en el ninguna caracteristica que le moleste. Su mejor amiga, que lo ha visto una vez, dice que le parece un poco egocéntrico. Elena no puede imaginar como su amiga puede ver eso.
+Elena lleva dos meses con su nuevo novio y todo en el le parece excepcional. Tiene un sentido del humor perfecto. Es increiblemente atento. No ha visto en el ninguna característica que le moleste. Su mejor amiga, que lo ha visto una vez, dice que le parece un poco egocéntrico. Elena no puede imaginar como su amiga puede ver eso.
 
 **El Principio del Filtro de Confirmación del Enamoramiento:** Durante el enamoramiento, el cerebro tiene activo un sesgo de confirmación poderoso: busca y amplifica la información que confirma que la persona amada es excepcional, y filtra o minimiza la información que la contradice. Esto no es debilidad cognitiva. Es el efecto de la dopamina y la norepinefrina sobre el cortex prefrontal, que es exactamente el área cerebral responsable del juicio crítico.
 
 El resultado es que en los primeros meses de enamoramiento, la percepción del otro es sistemáticamente optimista. Lo que en otra persona sería una señal de alarma, en el objeto del enamoramiento se convierte en una peculiaridad encantadora o simplemente no se ve.
 
-**Ejercicio inmediato:** Piensa en la persona de la que estas enamorado actualmente o en la última de la que lo estuviste. Existe alguna caracteristica que otros ven o que tu mismos intuyes pero que estan minimizando? No para actuar sobre ella necesariamente. Solo para verla.
+**Ejercicio inmediato:** Piensa en la persona de la que estas enamorado actualmente o en la última de la que lo estuviste. Existe alguna característica que otros ven o que tu mismos intuyes pero que estan minimizando? No para actuar sobre ella necesariamente. Solo para verla.
 
 Lo que ves durante el enamoramiento no es la persona completa. Es la persona pasada por el filtro de tu cerebro enamorado.
 
@@ -107,7 +107,7 @@ El amor te hace sentir más tuyo. La dependencia te hace sentir que sin el otro 
 
 ## Capítulo 7: Sexo y enamoramiento: la trampa biológica
 
-Durante el enamoramiento, el sexo y la atracción física son partes integrales del estado neurologico. La oxitocina que se libera durante el contacto físico y el orgasmo refuerza el vinculó emocional, lo que puede producir una sensación de conexión más profunda de la que la relación real justifica en ese momento.
+Durante el enamoramiento, el sexo y la atracción física son partes integrales del estado neurológico. La oxitocina que se libera durante el contacto físico y el orgasmo refuerza el vinculó emocional, lo que puede producir una sensación de conexión más profunda de la que la relación real justifica en ese momento.
 
 **El Principio del Vinculo Sexual Prematuro:** Las investigaciones sobre apego y sexo muestran que el contacto sexual temprano, especialmente en personas con tendencia al apego ansioso, puede producir un vinculó emocional que precede y supera la base real de la relación. El resultado es la sensación de haberse enamorado de alguien con quien apenas has tenido tiempo de construir una relación real.
 

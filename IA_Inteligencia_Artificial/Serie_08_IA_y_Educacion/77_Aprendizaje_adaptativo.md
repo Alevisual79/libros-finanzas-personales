@@ -15,7 +15,7 @@ Las implicaciones de Aprendizaje adaptativo se sienten ya en organizaciones, pro
 
 ## Capítulo 3: Los marcos de referencia
 
-Para entender y navegar Aprendizaje adaptativo necesitamos marcos conceptuales rigurosos provenientes de la investigación academica, la práctica profesional y el debate ético.
+Para entender y navegar Aprendizaje adaptativo necesitamos marcos conceptuales rigurosos provenientes de la investigación académica, la práctica profesional y el debate ético.
 
 ## Capítulo 4: El caso de Elena
 

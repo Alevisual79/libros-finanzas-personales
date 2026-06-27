@@ -15,7 +15,7 @@
 
 ## Prólogo: El dilema del escritor
 
-Ruben era buen escritor. Sus propuestas ganaban cuentas. Sus articulos conseguian engagement. Pero cada pieza de contenido le costaba tiempo que no tenía.
+Ruben era buen escritor. Sus propuestas ganaban cuentas. Sus artículos conseguian engagement. Pero cada pieza de contenido le costaba tiempo que no tenía.
 
 La llegada de herramientas de escritura con IA no lo hizo un escritor peor. Lo convirtió en un escritor que produce diez veces más en el mismo tiempo. La calidad no fue el problema: el volumen era el cuello de botella, y la IA lo elimino.
 
@@ -37,7 +37,7 @@ Más allá de los LLMs generalistas (ChatGPT, Claude), existe un ecosistema de h
 
 Jasper (antes Jarvis) fue la primera herramienta de escritura de marketing con IA que alcanzo escala. En 2025 sigue siendo referencia en el espacio de contenido de marketing.
 
-**Caracteristicas clave:**
+**Características clave:**
 - Flujos de trabajo predefinidos para casos de uso específicos (post de blog, copy de anuncio, email)
 - Brand Voice: el modelo aprende el tono y estilo de marca específico
 - Jasper Art: generación de imagenes integrada
@@ -51,7 +51,7 @@ Jasper (antes Jarvis) fue la primera herramienta de escritura de marketing con I
 
 Copy.ai ofrece una experiencia más accesible y orientada a la conversión:
 
-**Caracteristicas:**
+**Características:**
 - Plan gratuito con límite mensual de palabras
 - Más de 90 plantillas para diferentes tipos de copy
 - Workflows: secuencias automatizadas de tareas de escritura
@@ -103,7 +103,7 @@ La consistencia en redes sociales requiere volumen de contenido. La IA puede gen
 
 **Buffer AI:** Genera variantes de posts para diferentes redes a partir de un texto base. La misma pieza de contenido adaptada para Twitter, LinkedIn, Instagram y Facebook.
 
-**Lately:** Toma contenido largo (articulos, transcripciones de webinars) y lo convierte automáticamente en multiples posts de redes sociales.
+**Lately:** Toma contenido largo (artículos, transcripciones de webinars) y lo convierte automáticamente en multiples posts de redes sociales.
 
 ---
 
@@ -149,7 +149,7 @@ La respuesta depende del volumen, la complejidad y el tamaño del equipo.
 
 **Personalización a escala:** Versiones de un mismo contenido adaptadas automáticamente para diferentes segmentos de audiencia, idiomas y canales.
 
-**Multi-step content chains:** Un articulo largo que genera automáticamente tweets, LinkedIn posts, email newsletter, guion de video y transcripción de podcast.
+**Multi-step content chains:** Un artículo largo que genera automáticamente tweets, LinkedIn posts, email newsletter, guion de video y transcripción de podcast.
 
 **Analytics de contenido cerrados en bucle:** La IA aprende que tipo de contenido produce mejores resultados y ajusta su generación.
 

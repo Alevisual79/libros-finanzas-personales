@@ -35,11 +35,11 @@ Tu cerebro no analiza primero y decide después. Decide primero y analiza despu�
 
 ## Capítulo 2: El sesgo de confirmación: ver solo lo que ya crees
 
-Ruben investiga empresas en las que invertir. Lee articulos, estudia balances, consulta analistas. Pero hay algo que no nota: de los veinte articulos que leyera esta semana, quince confirmaban su hipotesis inicial y cinco la cuestionaban. Y los cinco que la cuestionaban los leyo mucho más rápido, con mucho menos atención, buscando activamente razones para descartarlos.
+Ruben investiga empresas en las que invertir. Lee artículos, estudia balances, consulta analistas. Pero hay algo que no nota: de los veinte artículos que leyera esta semana, quince confirmaban su hipotesis inicial y cinco la cuestionaban. Y los cinco que la cuestionaban los leyo mucho más rápido, con mucho menos atención, buscando activamente razones para descartarlos.
 
 **El Principio del Filtro Confirmatorio:** El sesgo de confirmación es la tendencia del cerebro a buscar, interpretar y recordar información de manera que confirme las creencias previas, ignorando o minimizando la evidencia contradictoria. Peter Wason, psicologo britanico, demostró en experimentos clasicos que las personas buscan activamente confirmar sus hipotesis en lugar de intentar refutarlas, incluso cuando la estrategia de refutación sería logicamente más eficiente para encontrar la verdad.
 
-Lo particularmente insidioso del sesgo de confirmación es que se intensifica con la exposición a más información. Un cerebro con acceso ilimitado a información, como el que habitamos en la era digital, tiene más material para seleccionar confirmatoriamente. Más articulos que leer selectivamente. Más voces que escuchar solo cuando dicen lo que ya creemos. La abundancia de información no corrige el sesgo. Lo amplifica.
+Lo particularmente insidioso del sesgo de confirmación es que se intensifica con la exposición a más información. Un cerebro con acceso ilimitado a información, como el que habitamos en la era digital, tiene más material para seleccionar confirmatoriamente. Más artículos que leer selectivamente. Más voces que escuchar solo cuando dicen lo que ya creemos. La abundancia de información no corrige el sesgo. Lo amplifica.
 
 **Ejercicio inmediato:** Sobre una creencia importante que tienes actualmente, ya sea política, de negocio, o personal, busca activamente los tres argumentos más sólidos en contra de esa creencia. No para cambiarla necesariamente, sino para probar que puedes encontrarlos y comprenderlos con honestidad.
 

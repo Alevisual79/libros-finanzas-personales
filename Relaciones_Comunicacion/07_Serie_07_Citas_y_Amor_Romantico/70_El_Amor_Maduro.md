@@ -23,7 +23,7 @@ Isabel tiene cincuenta y dos años y acaba de enamorarse de alguien por primera 
 
 El amor maduro, distinto del enamoramiento intenso de las primeras etapas de una relación, se caracteriza por una calidad diferente de conexión, basada en elección consciente más que en intensidad química involuntaria.
 
-**El Principio de la Diferencia Cualitativa del Amor Maduro:** El amor maduro no es una versión disminuida o aburrida del enamoramiento intenso, sino una experiencia psicológica cualitativamente distinta: más estable, menos dependiente de la novedad, y basada en un conocimiento profundo y realista del otro en lugar de en la idealización caracteristica del enamoramiento inicial. Esta diferencia no representa una perdida sino una evolución hacía una forma de amor más sostenible.
+**El Principio de la Diferencia Cualitativa del Amor Maduro:** El amor maduro no es una versión disminuida o aburrida del enamoramiento intenso, sino una experiencia psicológica cualitativamente distinta: más estable, menos dependiente de la novedad, y basada en un conocimiento profundo y realista del otro en lugar de en la idealización característica del enamoramiento inicial. Esta diferencia no representa una perdida sino una evolución hacía una forma de amor más sostenible.
 
 **Ejercicio inmediato:** Si has experimentado tanto el enamoramiento intenso como el amor más maduro y estable, reflexiona sobre las diferencias cualitativas de ambas experiencias. ¿Cual te ha producido mayor bienestar sostenido a largo plazo?
 
@@ -33,7 +33,7 @@ El amor maduro no es el amor que perdio su intensidad. Es el amor que encontró 
 
 ## Capítulo 2: La elección consciente como acto de amor
 
-A diferencia del enamoramiento, que ocurre involuntariamente como resultado de procesos biologicos automáticos, el amor maduro se renueva activamente a traves de la elección consciente repetida de continuar invirtiendo en la relación.
+A diferencia del enamoramiento, que ocurre involuntariamente como resultado de procesos biológicos automáticos, el amor maduro se renueva activamente a traves de la elección consciente repetida de continuar invirtiendo en la relación.
 
 **El Principio del Amor como Verbo Repetido:** El amor maduro se expresa no cómo un estado pasivo que simplemente se siente, sino cómo una serie de elecciones activas repetidas: elegir la paciencia en momentos de frustración, elegir la generosidad cuando sería más facil ser egoista, elegir seguir invirtiendo cuando la novedad ya no proporciona motivación automática. Esta cualidad de elección activa es lo que distingue al amor maduro del enamoramiento involuntario.
 
@@ -45,7 +45,7 @@ El enamoramiento te ocurre. El amor maduro lo eliges, una y otra vez, incluso en
 
 ## Capítulo 3: Amor y aburrimiento: como distinguirlos
 
-La calma y la estabilidad caracteristicas del amor maduro pueden confundirse, erroneamente, con aburrimiento o perdida de interés, una confusión que merece examinarse con cuidado para no sabotear relaciones genuinamente satisfactorias.
+La calma y la estabilidad características del amor maduro pueden confundirse, erroneamente, con aburrimiento o perdida de interés, una confusión que merece examinarse con cuidado para no sabotear relaciones genuinamente satisfactorias.
 
 **El Principio de la Distinción entre Calma y Aburrimiento:** La calma del amor maduro se caracteriza por seguridad y satisfacción genuina con la presencia del otro, mientras que el aburrimiento genuino se caracteriza por desconexion, falta de interés en la vida interior del otro, y ausencia de deseo de invertir en la relación. La confusión entre estos dos estados puede llevar a personas a abandonar relaciones genuinamente satisfactorias buscando la intensidad del enamoramiento que confunden con amor real.
 
@@ -59,7 +59,7 @@ La calma del amor maduro y el aburrimiento se sienten parecidos en su intensidad
 
 La rutina en una relación de larga duración puede convertirse en un patron que erosiona la conexión si se vuelve completamente automática y desconectada, o puede convertirse en el tejido que sostiene la seguridad y la previsibilidad valiosa de la relación, dependiendo de cómo se gestione.
 
-**El Principio de la Rutina Consciente vs la Rutina Automatica:** La rutina que daña una relación es la que se vuelve completamente automática, sin presencia consciente (cenar juntos sin realmente conectar, dormir en la misma cama sin intimidad emocional). La rutina que fortalece la relación es la que, aunque repetida, mantiene elementos de presencia consciente y de elección activa de seguir conectando dentro de esa estructura predecible.
+**El Principio de la Rutina Consciente vs la Rutina Automática:** La rutina que daña una relación es la que se vuelve completamente automática, sin presencia consciente (cenar juntos sin realmente conectar, dormir en la misma cama sin intimidad emocional). La rutina que fortalece la relación es la que, aunque repetida, mantiene elementos de presencia consciente y de elección activa de seguir conectando dentro de esa estructura predecible.
 
 **Ejercicio inmediato:** Identifica una rutina de tu relación actual que se ha vuelto completamente automática sin presencia consciente. ¿Que pequeño ajuste podría devolverle algo de intencionalidad y conexión genuina?
 
@@ -69,7 +69,7 @@ La rutina no es el enemigo del amor. La ausencia de presencia consciente dentro 
 
 ## Capítulo 5: Amor maduro y sexualidad
 
-La vida sexual en el contexto del amor maduro tiene sus propias caracteristicas, distintas de la intensidad del deseo en las primeras etapas de una relación, que merecen ser entendidas sin la presión de replicar esa intensidad inicial indefinidamente.
+La vida sexual en el contexto del amor maduro tiene sus propias características, distintas de la intensidad del deseo en las primeras etapas de una relación, que merecen ser entendidas sin la presión de replicar esa intensidad inicial indefinidamente.
 
 **El Principio de la Sexualidad como Expresión de Conexion Evolucionada:** La sexualidad en el amor maduro tiende a estar más integrada con la conexión emocional general de la relación, menos impulsada por la novedad biológica del enamoramiento inicial, y con potencial de mayor profundidad de intimidad precisamente porque se basa en un conocimiento mutuo más completo que la sexualidad de las primeras etapas de conexión.
 

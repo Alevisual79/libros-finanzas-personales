@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben es el más brillante tecnomente de su equipo. Sus análisis son precisos, sus soluciones elegantes, su codigo impecable. también es el que más conflictos tiene con los demás, el que pierde los papeles en situaciones de presión, el que no entiende por qué sus ideas brillantes son rechazadas cuando las presenta. Su jefe lo describe cómo un ingeniero extraordinario y un colega difícil. Ruben atribuye los problemas a que los demás no entienden la excelencia técnica. Su jefe piensa algo distinto: que Ruben no entiende a las personas, incluyendo a si mismo.
+Ruben es el más brillante tecnomente de su equipo. Sus análisis son precisos, sus soluciones elegantes, su código impecable. también es el que más conflictos tiene con los demás, el que pierde los papeles en situaciones de presión, el que no entiende por qué sus ideas brillantes son rechazadas cuando las presenta. Su jefe lo describe cómo un ingeniero extraordinario y un colega difícil. Ruben atribuye los problemas a que los demás no entienden la excelencia técnica. Su jefe piensa algo distinto: que Ruben no entiende a las personas, incluyendo a si mismo.
 
 ---
 
@@ -63,9 +63,9 @@ Decir estoy estresado cuando lo que sientes es avergonzado es como decir tengo d
 
 ## Capítulo 4: Regulación emocional: gestionar sin suprimir
 
-Elena tiene una colega que la irrita profundamente. Cada reunión con ella activa una reacción interna que Elena suprime con esfuerzo visible. La supresión, que parece una forma adulta de gestión emocional, tiene costes documentados: agota los recursos cognitivos, se filtra en lenguaje no verbal que los demás perciben, y aumenta la respuesta fisiologica de estres en lugar de reducirla.
+Elena tiene una colega que la irrita profundamente. Cada reunión con ella activa una reacción interna que Elena suprime con esfuerzo visible. La supresión, que parece una forma adulta de gestión emocional, tiene costes documentados: agota los recursos cognitivos, se filtra en lenguaje no verbal que los demás perciben, y aumenta la respuesta fisiológica de estres en lugar de reducirla.
 
-**El Principio de la Regulación Adaptativa versus Supresión:** James Gross, psicologo de Stanford y uno de los investigadores más influyentes en regulación emocional, distingue entre estrategias de regulación que son más o menos adaptativas segun el momento de la respuesta emocional en que intervienen. La supresión (inhibir la expresión de la emoción ya activada) es costosa cognitivamente y biologicamente. La reevaluación cognitiva (cambiar la forma de interpretar la situación que genera la emoción, antes de que la respuesta emocional se active completamente) es más eficiente y produce menos coste cognitivo y fisiologico.
+**El Principio de la Regulación Adaptativa versus Supresión:** James Gross, psicologo de Stanford y uno de los investigadores más influyentes en regulación emocional, distingue entre estrategias de regulación que son más o menos adaptativas segun el momento de la respuesta emocional en que intervienen. La supresión (inhibir la expresión de la emoción ya activada) es costosa cognitivamente y biologicamente. La reevaluación cognitiva (cambiar la forma de interpretar la situación que genera la emoción, antes de que la respuesta emocional se active completamente) es más eficiente y produce menos coste cognitivo y fisiológico.
 
 La reevaluación no es pensamiento positivo ni minimización del problema. Es encontrar una interpretación alternativa de la situación que sea igualmente valida pero que active una respuesta emocional más adaptativa. Cuando Isabel interpreta el comportamiento difícil de un empleado como evidencia de sus propias limitaciones, activa una respuesta de amenaza. Cuando lo interpreta cómo un problema a resolver, activa una respuesta orientada a la acción.
 
@@ -123,11 +123,11 @@ Ruben evita los conflictos directos. Cuando surge una tensión, tiende a alejars
 
 **El Principio de la Asertividad como Inteligencia Emocional Aplicada:** Ronald Riggio, psicologo social de Claremont McKenna, propone que la asertividad (la capacidad de expresar opiniones, necesidades y límites directamente sin agresividad) es una de las manifestaciones más importantes de la inteligencia emocional, porque requiere tanto autoconocimiento emocional (saber lo que necesitas y sientes) como regulación emocional (expresarlo sin ser dominado por el miedo o la ira) y habilidad social (hacerlo de forma que el otro pueda escucharlo).
 
-Chris Voss, ex negociador del FBI y autor de Never Split the Difference, documenta como las técnicas de negociación más efectivas (escucha activa calibrada, etiquetado emocional, preguntas calibradas) son todas manifestaciones de inteligencia emocional aplicada. La negociación de alta efectividad no es primar la logica sobre la emoción. Es usar la comprensión precisa de las emociones de ambas partes para crear soluciones que satisfagan las necesidades reales debajo de las posiciones declaradas.
+Chris Voss, ex negociador del FBI y autor de Never Split the Difference, documenta como las técnicas de negociación más efectivas (escucha activa calibrada, etiquetado emocional, preguntas calibradas) son todas manifestaciones de inteligencia emocional aplicada. La negociación de alta efectividad no es primar la lógica sobre la emoción. Es usar la comprensión precisa de las emociones de ambas partes para crear soluciones que satisfagan las necesidades reales debajo de las posiciones declaradas.
 
 **Ejercicio inmediato:** En tu próximo conflicto o negociación, antes de presentar tu posición, dedica tres minutos a articular en voz alta (o en silencio) las necesidades y miedos de la otra persona con la mayor precisión posible. Esta comprensión previa cambia completamente la calidad de la conversación posterior.
 
-Quien comprende mejor las emociones en una negociación tiene más poder que quien tiene más argumentos logicos.
+Quien comprende mejor las emociones en una negociación tiene más poder que quien tiene más argumentos lógicos.
 
 ---
 
@@ -135,7 +135,7 @@ Quien comprende mejor las emociones en una negociación tiene más poder que qui
 
 Isabel quiere desarrollar su inteligencia emocional. Ha leido libros. Ha tomado tests de IE. Ha asistido a talleres. Pero tiene la sensación de que no ha cambiado mucho en el aspecto que más necesita: la regulación emocional bajo presión.
 
-**El Principio del Entrenamiento específico sobre el Conocimiento Teorico:** Richard Davidson, neurocientifico de la Universidad de Wisconsin y pionero en la neurociencia del entrenamiento emocional, demuestra que el conocimiento teorico sobre emociones tiene efectos muy limitados sobre la regulación emocional real. Lo que produce cambio neurologico medible es la práctica específica: meditación de mindfulness que entrena la conciencia metacognitiva de los propios estados emocionales, exposición gradual a situaciones que activan respuestas emocionales con práctica deliberada de regulación, y la práctica de habilidades sociales específicas en contextos reales con feedback.
+**El Principio del Entrenamiento específico sobre el Conocimiento Teorico:** Richard Davidson, neurocientifico de la Universidad de Wisconsin y pionero en la neurociencia del entrenamiento emocional, demuestra que el conocimiento teorico sobre emociones tiene efectos muy limitados sobre la regulación emocional real. Lo que produce cambio neurológico medible es la práctica específica: meditación de mindfulness que entrena la conciencia metacognitiva de los propios estados emocionales, exposición gradual a situaciones que activan respuestas emocionales con práctica deliberada de regulación, y la práctica de habilidades sociales específicas en contextos reales con feedback.
 
 Davidson documenta que incluso entrenamientos breves de mindfulness (ocho semanas de treinta minutos diarios) producen cambios medibles en la activación relativa de las cortezas prefrontales izquierda y derecha, lo cual se correlaciona con mayor resiliencia emocional y tendencia hacía estados emocionales positivos.
 

@@ -41,7 +41,7 @@ Postponer una conversación difícil no te ahorra el dolor. Te lo cobra con inte
 
 Douglas Stone, Bruce Patton y Sheila Heen proponen que toda conversación difícil contiene en realidad tres conversaciones simultaneas: la del asunto (que paso), la de los sentimientos (como nos sentimos al respecto) y la de la identidad (que dice esto sobre quienes somos).
 
-**El Principio de las Tres Capas:** La conversación del asunto es la más obvia y la menos importante. La de los sentimientos es la que más necesita espacio pero menos lo recibe. La de la identidad es la más profunda y la que produce la mayor resistencia: cuando alguien crítica nuestra conducta, parte de nosotros lo interpreta cómo una amenaza a quien somos fundamentalmente.
+**El Principio de las Tres Capas:** La conversación del asunto es la más obvia y la menos importante. La de los sentimientos es la que más necesita espacio pero menos lo recibe. La de la identidad es la más profunda y la que produce la mayor resistencia: cuando alguien critica nuestra conducta, parte de nosotros lo interpreta cómo una amenaza a quien somos fundamentalmente.
 
 El modelo propone manejar cada capa de forma específica: explorar el asunto desde ambas perspectivas sin asumir que ninguna tiene la verdad completa, dar espacio a los sentimientos de ambos, y separar la crítica de conducta de la amenaza de identidad.
 

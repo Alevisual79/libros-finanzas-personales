@@ -15,17 +15,17 @@
 
 ## Prólogo
 
-Isabel tiene un nivel de reactividad emocional que le parece excesivo incluso a ella misma. Un comentario crítico en el trabajo puede ocupar su mente durante horas. Una incertidumbre sobre el futuro puede convertirse en una preocupación que le impide dormir. Cuando las cosas van bien, sospecha que no durara. Ha asumido que es dramatica o que se lo toma todo demasiado a pecho, y que eso es un defecto. Lo que no sabe es que lo que experimenta tiene nombre cientifico (neuroticismo), tiene base neurologica, y que, aunque no desaparece con la voluntad, puede gestionarse de formas que hacen la vida significativamente más manejable.
+Isabel tiene un nivel de reactividad emocional que le parece excesivo incluso a ella misma. Un comentario crítico en el trabajo puede ocupar su mente durante horas. Una incertidumbre sobre el futuro puede convertirse en una preocupación que le impide dormir. Cuando las cosas van bien, sospecha que no durara. Ha asumido que es dramatica o que se lo toma todo demasiado a pecho, y que eso es un defecto. Lo que no sabe es que lo que experimenta tiene nombre cientifico (neuroticismo), tiene base neurológica, y que, aunque no desaparece con la voluntad, puede gestionarse de formas que hacen la vida significativamente más manejable.
 
 ---
 
 ## Capítulo 1: El neuroticismo: lo que la ciencia dice sobre la tendencia a las emociones negativas
 
-El neuroticismo no es dramatismo ni debilidad. Es un rasgo con bases biologicas específicas.
+El neuroticismo no es dramatismo ni debilidad. Es un rasgo con bases biológicas específicas.
 
 **El Principio del Neuroticismo como Sensibilidad Amplificada al Estres y a la Amenaza:** El neuroticismo es uno de los cinco rasgos del Big Five y se define cómo la tendencia a experimentar emociones negativas (ansiedad, tristeza, irritabilidad, verguenza, hostilidad) con mayor frecuencia e intensidad que la media, y a recuperarse de esas emociones con mayor lentitud. Las personas con neuroticismo alto no tienen vidas objetivamente más difíciles: tienen un sistema de respuesta al estres más sensible y reactivo.
 
-La investigación neurobiologica de Jeffrey Gray y colegas identifica el sistema de inhibición conductual (BIS, Behavioral Inhibition System) como el sustrato neurológico del neuroticismo: un sistema que responde a señales de amenaza, novedad, y frustración con mayor activación y que produce la tendencia a la preocupación, la evitación, y la hipervigilancia caracteristicas del neuroticismo alto.
+La investigación neurobiologica de Jeffrey Gray y colegas identifica el sistema de inhibición conductual (BIS, Behavioral Inhibition System) como el sustrato neurológico del neuroticismo: un sistema que responde a señales de amenaza, novedad, y frustración con mayor activación y que produce la tendencia a la preocupación, la evitación, y la hipervigilancia características del neuroticismo alto.
 
 **Ejercicio inmediato:** Reflexiona sobre tu patron de reactividad emocional: ¿con que frecuencia experimentas emociones negativas moderadas o intensas durante la semana? ¿Cuanto tiempo tardas en recuperarte de un evento estresante? Si la frecuencia es alta y la recuperación lenta, eso es el patron del neuroticismo alto. Nombrar el patron es el primer paso para gestionarlo.
 
@@ -79,7 +79,7 @@ La estabilidad emocional que no siente el sufrimiento propio no lo elimina. Solo
 
 Ruben busca estrategias específicas para reducir el impacto de su neuroticismo en la vida cotidiana.
 
-**El Principio de la Regulación Emocional como Habilidad Entrenable que Modula el Neuroticismo:** James Gross, investigador de la regulación emocional en Stanford, identifica multiples estrategias de regulación que difieren en su efectividad: la supresión emocional (no mostrar ni reconocer la emoción) reduce la expresión pero no el estres fisiologico y produce deterioro en el funcionamiento cognitivo y en las relaciones; la reevaluación cognitiva (cambiar la forma de pensar sobre la situación que produce la emoción) reduce tanto la expresión como el estres fisiologico y no tiene los costes de la supresión.
+**El Principio de la Regulación Emocional como Habilidad Entrenable que Modula el Neuroticismo:** James Gross, investigador de la regulación emocional en Stanford, identifica multiples estrategias de regulación que difieren en su efectividad: la supresión emocional (no mostrar ni reconocer la emoción) reduce la expresión pero no el estres fisiológico y produce deterioro en el funcionamiento cognitivo y en las relaciones; la reevaluación cognitiva (cambiar la forma de pensar sobre la situación que produce la emoción) reduce tanto la expresión como el estres fisiológico y no tiene los costes de la supresión.
 
 La investigación de Kevin Ochsner y James Gross con neuroimagen muestra que la reevaluación cognitiva activa el cortex prefrontal (la regulación top-down) y reduce la actividad de la amigdala. Esta regulación puede entrenarse: la psicoterapia cognitiva y el mindfulness producen cambios medibles en la capacidad de regulación emocional que se asocian con reducciones en el neuroticismo a lo largo del tiempo.
 
@@ -93,7 +93,7 @@ El neuroticismo no cambia con la voluntad. Cambia con la práctica repetida de r
 
 Isabel se preocupa por cosas que, sabe racionalmente, son poco probables. El neuroticismo alto produce exactamente ese patron.
 
-**El Principio de la Preocupación como Intento de Control del Neuroticismo que se Retroalimenta:** La investigación de Thomas Borkovec sobre el trastorno de ansiedad generalizada muestra que la preocupación cronica (caracteristica del neuroticismo alto) cumple una función subjetiva de control: al imaginar los peores escenarios, la persona siente que se está preparando para ellos. La paradoja es que la preocupación amplifica la sensación de amenaza y mantiene el sistema nervioso en estado de alerta, haciendo que la siguente preocupación sea más probable.
+**El Principio de la Preocupación como Intento de Control del Neuroticismo que se Retroalimenta:** La investigación de Thomas Borkovec sobre el trastorno de ansiedad generalizada muestra que la preocupación cronica (característica del neuroticismo alto) cumple una función subjetiva de control: al imaginar los peores escenarios, la persona siente que se está preparando para ellos. La paradoja es que la preocupación amplifica la sensación de amenaza y mantiene el sistema nervioso en estado de alerta, haciendo que la siguente preocupación sea más probable.
 
 La investigación muestra que la intolerancia a la incertidumbre (la dificultad para tolerar no saber como van a resultar las cosas) es la variable central que mantiene la preocupación cronica. Las personas con alta intolerancia a la incertidumbre se preocupan más porque la preocupación, aunque sea agotadora, es preferible a la incertidumbre de no saber.
 

@@ -85,7 +85,7 @@ La integración de nuevos miembros a un equipo completamente remoto presenta des
 
 **El Principio de la Integración Estructurada en Ausencia de Incidentalidad:** El onboarding remoto exitoso requiere estructurar deliberadamente oportunidades de conexión que en un entorno presencial ocurririan de forma natural: asignar un compañero de bienvenida específico, programar conversaciones uno a uno con cada miembro del equipo durante las primeras semanas, y crear oportunidades explícitas de mostrar la cultura y las relaciones informales del equipo que de otra forma el nuevo miembro tardaria mucho en descubrir por su cuenta.
 
-**Ejercicio inmediato:** Si tienes un nuevo miembro de equipo en proceso de integración remota, identifica una conexión específica que podrías facilitar deliberadamente esta semana, en lugar de esperar que ocurra de forma organica.
+**Ejercicio inmediato:** Si tienes un nuevo miembro de equipo en proceso de integración remota, identifica una conexión específica que podrías facilitar deliberadamente esta semana, en lugar de esperar que ocurra de forma orgánica.
 
 La integración de un nuevo miembro en remoto no sucede por accidente, como podría suceder en una oficina. Requiere ser diseñada deliberadamente.
 

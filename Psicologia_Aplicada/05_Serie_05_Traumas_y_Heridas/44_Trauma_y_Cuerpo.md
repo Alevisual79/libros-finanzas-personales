@@ -25,7 +25,7 @@ La frase el cuerpo lleva la cuenta (the body keeps the score) es el título del 
 
 **El Principio del Trauma como Experiencia Somatica, no Solo Mental:** Van der Kolk y sus colegas documentaron que el TEPT produce cambios físicos medibles en el cerebro y en el cuerpo: cambios en la estructura y la función de la amigdala (que procesa las amenazas), del hipocampo (que contextualiza las memorias en el tiempo y el espacio), y del cortex prefrontal (que regula las respuestas emocionales). Estos cambios producen que el cuerpo de la persona traumatizada siga respondiendo a estímulos neutros como si fueran amenazas, mucho después de que la amenaza real haya pasado.
 
-Peter Levine, creador del Somatic Experiencing, propone que el trauma es fundamentalmente una respuesta fisiologica incompleta: la energía movilizada para responder a la amenaza (lucha o huida) que no pudo ser descargada a traves de la acción queda almacenada en el cuerpo como tensión, como patrones respiratorios, y como estados de activación o de inhibición cronicos. Esta energía no descargada es lo que produce los sintomas del trauma, y procesarla requiere trabajar con el cuerpo, no solo con la narrativa mental.
+Peter Levine, creador del Somatic Experiencing, propone que el trauma es fundamentalmente una respuesta fisiológica incompleta: la energía movilizada para responder a la amenaza (lucha o huida) que no pudo ser descargada a traves de la acción queda almacenada en el cuerpo como tensión, como patrones respiratorios, y como estados de activación o de inhibición cronicos. Esta energía no descargada es lo que produce los sintomas del trauma, y procesarla requiere trabajar con el cuerpo, no solo con la narrativa mental.
 
 **Ejercicio inmediato:** Realiza un escaner corporal breve: ¿con los ojos cerrados, recorre mentalmente tu cuerpo de la cabeza a los pies. ¿Donde hay tensión? ¿Donde hay calor o frio? ¿Donde hay sensación de apretamiento o de expansión? ¿Donde el cuerpo esta vivo y donde parece apagado? Sin intentar cambiar nada, solo observando. Este escaner es el punto de partida del trabajo somatico.
 
@@ -69,7 +69,7 @@ Ruben ha oido que el EMDR trabaja con el cuerpo ademas de con los recuerdos. Est
 
 Durante el procesamiento con estimulación bilateral, el terapeuta monitoriza tanto el cambio en la evaluación cognitiva como en las sensaciones corporales. La resolución del procesamiento se confirma, entre otros indicadores, cuando las sensaciones corporales asociadas al recuerdo han cambiado: cuando la tensión que acompañaba al recuerdo se ha reducido o transformado en algo neutro o positivo. Esta atención a la dimensión somatica es parte de por qué el EMDR produce cambios que la terapia puramente verbal frecuentemente no consigue.
 
-**Ejercicio inmediato:** Para un recuerdo que produce malestar, observa que sensaciones corporales lo acompañan cuando lo evocas: donde esta en el cuerpo, que forma tiene, que caracteristicas tiene. Esta observación, sin intentar cambiar nada, aumenta la conciencia de la dimensión somatica del trauma y prepara el terreno para el trabajo terapeutico específico.
+**Ejercicio inmediato:** Para un recuerdo que produce malestar, observa que sensaciones corporales lo acompañan cuando lo evocas: donde esta en el cuerpo, que forma tiene, que características tiene. Esta observación, sin intentar cambiar nada, aumenta la conciencia de la dimensión somatica del trauma y prepara el terreno para el trabajo terapeutico específico.
 
 El recuerdo que piensas en la cabeza se siente en el cuerpo. Trabajar solo con la cabeza es trabajar con la mitad del problema.
 
@@ -107,7 +107,7 @@ La respiración que modulas deliberadamente es la misma que el sistema nervioso 
 
 Isabel ha descubierto que el yoga produce efectos que la terapia verbal no había conseguido. La investigación sobre el yoga como tratamiento complementario del trauma la ayuda a entender por qué.
 
-**El Principio del Yoga como Renegociación de la Relación con el Cuerpo en el Trauma:** Bessel van der Kolk y su equipo realizaron estudios controlados sobre el yoga como tratamiento del TEPT, encontrando que un programa de yoga especializado producía mejoras significativas en los sintomas del TEPT, comparables en algunos estudios a tratamientos farmacologicos. El mecanismo propuesto es que el yoga desarrolla la interoception (la conciencia de las sensaciones internas del cuerpo), que es frecuentemente muy reducida en personas con trauma (que aprenden a desconectarse del cuerpo para no sentir el malestar).
+**El Principio del Yoga como Renegociación de la Relación con el Cuerpo en el Trauma:** Bessel van der Kolk y su equipo realizaron estudios controlados sobre el yoga como tratamiento del TEPT, encontrando que un programa de yoga especializado producía mejoras significativas en los sintomas del TEPT, comparables en algunos estudios a tratamientos farmacológicos. El mecanismo propuesto es que el yoga desarrolla la interoception (la conciencia de las sensaciones internas del cuerpo), que es frecuentemente muy reducida en personas con trauma (que aprenden a desconectarse del cuerpo para no sentir el malestar).
 
 El yoga orientado al trauma (trauma-sensitive yoga) es específicamente adaptado para este contexto: enfatiza la elección de los movimientos, la atención a las sensaciones internas, y el control del practicante sobre su propia práctica, en lugar de la corrección externa y las posturas desafiantes que pueden retraumatizar.
 
@@ -133,21 +133,21 @@ El cuerpo que fue invadido aprende a defenderse del contacto. Pero el cuerpo tam
 
 ## Capítulo 9: Nutrición, sueño, y cuerpo en el trauma: la base biológica
 
-Isabel ha descubierto que su proceso de sanación del trauma mejora significativamente cuando cuida los fundamentos biologicos: el sueño, la alimentación, y el movimiento. Esto no es sorprendente desde la perspectiva de la neurobiologia del trauma.
+Isabel ha descubierto que su proceso de sanación del trauma mejora significativamente cuando cuida los fundamentos biológicos: el sueño, la alimentación, y el movimiento. Esto no es sorprendente desde la perspectiva de la neurobiologia del trauma.
 
 **El Principio de la Base biológica como Prerequisito del Trabajo con el Trauma:** El sistema nervioso autonomo que ha de ser renegociado en el trabajo con el trauma es un sistema biológico que funciona mejor cuando sus necesidades basicas estan cubiertas. Matthew Walker ha documentado que la privación de sueño reduce la capacidad del cortex prefrontal de modular la respuesta de la amigdala: un cerebro privado de sueño tiene mayor reactividad emocional y menor capacidad de regulación. El sueño es también cuando el cerebro procesa y consolida las experiencias emocionales del dia.
 
 La investigación sobre la inflamación y el trauma (de Michael Maes y otros) muestra que el trauma cronico produce niveles elevados de inflamación sistémica, que se asocian con mayor sensibilidad al estres y mayor riesgo de depresión. El ejercicio aerobico regular, la alimentación antiinflamatoria, y el sueño de calidad pueden reducir estos niveles de inflamación y proporcionar una base biológica más estable para el trabajo con el trauma.
 
-**Ejercicio inmediato:** Identifica cual de los tres pilares biologicos (sueño, movimiento, o nutrición) esta más deteriorado en tu vida actual y tiene mayor impacto sobre tu bienestar y tu capacidad de regulación emocional. Diseña una intervención mínima pero consistente para ese pilar: no la versión perfecta sino la que puedes mantener.
+**Ejercicio inmediato:** Identifica cual de los tres pilares biológicos (sueño, movimiento, o nutrición) esta más deteriorado en tu vida actual y tiene mayor impacto sobre tu bienestar y tu capacidad de regulación emocional. Diseña una intervención mínima pero consistente para ese pilar: no la versión perfecta sino la que puedes mantener.
 
-El cuerpo que sana del trauma necesita las condiciones biologicas para poder sanarse. No puedes procesar profundamente si el sistema está operando en reserva.
+El cuerpo que sana del trauma necesita las condiciones biológicas para poder sanarse. No puedes procesar profundamente si el sistema está operando en reserva.
 
 ---
 
 ## Capítulo 10: Integrar cuerpo y mente: el camino completo de la sanación
 
-Ruben ha aprendido que el trabajo completo con el trauma requiere tanto el procesamiento cognitivo (entender, nombrar, contextualizar) como el procesamiento somatico (completar la respuesta fisiologica incompleta, renegociar la relación con el cuerpo). Ninguno de los dos es suficiente por si solo.
+Ruben ha aprendido que el trabajo completo con el trauma requiere tanto el procesamiento cognitivo (entender, nombrar, contextualizar) como el procesamiento somatico (completar la respuesta fisiológica incompleta, renegociar la relación con el cuerpo). Ninguno de los dos es suficiente por si solo.
 
 **El Principio de la Integración como Meta de la Sanación del Trauma:** Daniel Siegel propone la integración como meta de la salud mental en general y del proceso de sanación del trauma en particular: la integración es la capacidad de mantener diferenciadas las distintas partes del sistema (cognitiva, emocional, somatica, relacional) mientras se conectan en una experiencia coherente. El trauma produce fragmentación: la memoria esta separada de la emoción, la emoción del cuerpo, el cuerpo de la narrativa. La sanación es la reintegración de estas partes.
 

@@ -117,7 +117,7 @@ El FOMO no es deseo genuino de una experiencia específica. Es, frecuentemente, 
 
 ## Capítulo 9: Descansos de redes: por qué y como
 
-Periodos deliberados de pausa en el uso de redes sociales, conocidos como detox digital, han demostrado en multiples estudios mejorar significativamente el bienestar subjetivo y la autoestima de quienes los practican.
+Períodos deliberados de pausa en el uso de redes sociales, conocidos como detox digital, han demostrado en multiples estudios mejorar significativamente el bienestar subjetivo y la autoestima de quienes los practican.
 
 **El Principio del Descanso como Restaurador de Perspectiva:** Los períodos de pausa deliberada en el uso de redes sociales permiten que los efectos acumulados de la comparación social y la busqueda de validación se disipen, restaurando una perspectiva más equilibrada sobre la propia vida que no esta constantemente contaminada por la comparación con el contenido curado de otros.
 

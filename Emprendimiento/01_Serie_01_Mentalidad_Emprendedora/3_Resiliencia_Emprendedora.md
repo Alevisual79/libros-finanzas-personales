@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Lucia paso por un período de seis meses en que cada semana había un nuevo problema: un cliente importante que cancelaba, un empleado que se iba, un problema con el producto que había que resolver de urgencia. Su entorno le preguntaba si no se estaba planteando volver al trabajo por cuenta ajena. Carlos tuvo un lanzamiento que no genero ni un cliente en el primer mes, y empezó a cuestionarse si su idea tenía algun futuro. Marcos descubrió, tres meses después de dejar su trabajo corporativo, que emprender era mucho más duro de lo que imaginaba desde dentro de una multinacional. Los tres estuvieron a punto de abandonar. La resiliencia que los mantuvo en el camino no era una caracteristica innata: era el resultado de entender como funciona la adversidad y de tener las herramientas para atravesarla.
+Lucia paso por un período de seis meses en que cada semana había un nuevo problema: un cliente importante que cancelaba, un empleado que se iba, un problema con el producto que había que resolver de urgencia. Su entorno le preguntaba si no se estaba planteando volver al trabajo por cuenta ajena. Carlos tuvo un lanzamiento que no genero ni un cliente en el primer mes, y empezó a cuestionarse si su idea tenía algun futuro. Marcos descubrió, tres meses después de dejar su trabajo corporativo, que emprender era mucho más duro de lo que imaginaba desde dentro de una multinacional. Los tres estuvieron a punto de abandonar. La resiliencia que los mantuvo en el camino no era una característica innata: era el resultado de entender como funciona la adversidad y de tener las herramientas para atravesarla.
 
 ---
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben fue diagnosticado con depresión mayor hace seis meses. Desde entonces ha recibido información contradictoria: su médico le receto antidepresivos, un amigo le dijo que solo necesitaba hacer ejercicio, un familiar le sugirió que los antidepresivos lo convertiran en un zombie, y un articulo en internet le aseguró que la meditación cura la depresión sin necesidad de farmacos. Ruben no sabe que creer. Este libro es un mapa de los tratamientos que la investigación ha demostrado que funcionan, con que intensidad, para qué perfiles, y cómo se complementan.
+Ruben fue diagnosticado con depresión mayor hace seis meses. Desde entonces ha recibido información contradictoria: su médico le receto antidepresivos, un amigo le dijo que solo necesitaba hacer ejercicio, un familiar le sugirió que los antidepresivos lo convertiran en un zombie, y un artículo en internet le aseguró que la meditación cura la depresión sin necesidad de farmacos. Ruben no sabe que creer. Este libro es un mapa de los tratamientos que la investigación ha demostrado que funcionan, con que intensidad, para qué perfiles, y cómo se complementan.
 
 ---
 
@@ -41,7 +41,7 @@ Isabel tiene prejuicios contra la psicoterapia: cree que es solo hablar y que no
 
 La investigación de Zindel Segal, Mark Williams, y John Teasdale sobre la Terapia Cognitiva Basada en Mindfulness (MBCT) muestra que reduce el riesgo de recaida en personas con tres o más episodios depresivos en un 43% respecto al tratamiento habitual. La Terapia de Activación Conductual (TAC) es una versión simplificada y efectiva que se centra exclusivamente en incrementar la actividad reforzante sin el componente cognitivo.
 
-**Ejercicio inmediato:** Si estas en psicoterapia para la depresión, pregunta a tu terapeuta: ¿que modeló terapeutico usas para la depresión? ¿Cuales son los mecanismos de cambio que esperas activar con ese modelo? La psicoterapia efectiva para la depresión tiene una logica interna que el terapeuta debe poder explicar.
+**Ejercicio inmediato:** Si estas en psicoterapia para la depresión, pregunta a tu terapeuta: ¿que modeló terapeutico usas para la depresión? ¿Cuales son los mecanismos de cambio que esperas activar con ese modelo? La psicoterapia efectiva para la depresión tiene una lógica interna que el terapeuta debe poder explicar.
 
 No toda psicoterapia es igual para la depresión. La evidencia es específica sobre que modelos funcionan y en que condiciones.
 
@@ -79,7 +79,7 @@ En la depresión, la acción no espera a la motivación. La precede. Ese es el s
 
 Ruben sabe que el ejercicio le ayudaria pero no puede convencerse de hacerlo. Conocer la magnitud de su efecto podría cambiar esa evaluación.
 
-**El Principio del Ejercicio Fisico como Tratamiento con Evidencia Comparable a la Farmacoterapia en Depresión Leve-Moderada:** El meta-análisis de Falko Smits y colegas sobre el ejercicio como tratamiento para la depresión muestra tamaños del efecto entre 0.8 y 1.1 (grande) en la reducción de sintomas depresivos. En depresión leve a moderada, el ejercicio regular (3-5 sesiones semanales de intensidad moderada durante 30-45 minutos) tiene eficacia comparable a la farmacoterapia.
+**El Principio del Ejercicio Físico como Tratamiento con Evidencia Comparable a la Farmacoterapia en Depresión Leve-Moderada:** El meta-análisis de Falko Smits y colegas sobre el ejercicio como tratamiento para la depresión muestra tamaños del efecto entre 0.8 y 1.1 (grande) en la reducción de sintomas depresivos. En depresión leve a moderada, el ejercicio regular (3-5 sesiones semanales de intensidad moderada durante 30-45 minutos) tiene eficacia comparable a la farmacoterapia.
 
 Los mecanismos incluyen: aumento de la neurogenesis en el hipocampo (el ejercicio es uno de los estímulos más potentes para la producción de BDNF, factor de crecimiento neuronal), reducción de la inflamación (que se asocia con la depresión), regulación del eje hipotalamo-hipofisis-suprarrenal (el sistema de estres), y aumento de las monoaminas (serotonina, dopamina, noradrenalina).
 
@@ -121,9 +121,9 @@ La depresión rara vez ocurre en el vacio. Ocurre en el contexto de las relacion
 
 Elena ha probado dos antidepresivos sin respuesta satisfactoria. Su psicologo le habla de otras opciones que no conocía.
 
-**El Principio de los Tratamientos Biologicos de Segunda Linea para la Depresión Resistente:** Cuando la depresión no responde a dos o más antidepresivos en dosis y duración adecuadas (depresión resistente al tratamiento), existen opciones adicionales con evidencia: la estimulación magnetica transcraneal (EMT), la terapia electroconvulsiva (TEC) para los casos más severos, y la ketamina/esketamina (aprobada por la FDA en 2019 para la depresión resistente).
+**El Principio de los Tratamientos Biológicos de Segunda Linea para la Depresión Resistente:** Cuando la depresión no responde a dos o más antidepresivos en dosis y duración adecuadas (depresión resistente al tratamiento), existen opciones adicionales con evidencia: la estimulación magnetica transcraneal (EMT), la terapia electroconvulsiva (TEC) para los casos más severos, y la ketamina/esketamina (aprobada por la FDA en 2019 para la depresión resistente).
 
-La TEC tiene una imagen negativa por su historia y su representación en el cine que no corresponde a la TEC moderna: bajo anestesia general, sin convulsión visible, con alta efectividad en la depresión severa y resistente. La investigación muestra tasas de respuesta del 60-80% en depresión resistente al tratamiento, superiores a cualquier otra opción farmacologica.
+La TEC tiene una imagen negativa por su historia y su representación en el cine que no corresponde a la TEC moderna: bajo anestesia general, sin convulsión visible, con alta efectividad en la depresión severa y resistente. La investigación muestra tasas de respuesta del 60-80% en depresión resistente al tratamiento, superiores a cualquier otra opción farmacológica.
 
 **Ejercicio inmediato:** Si llevas tiempo con tratamiento sin respuesta satisfactoria, considera pedir una segunda opinión especializada en psiquiatria o una evaluación en una unidad especializada en depresión resistente. La falta de respuesta al primer tratamiento no significa que el tratamiento no existira. Significa que ese tratamiento específico no es el correcto para ti.
 
@@ -151,7 +151,7 @@ Ruben ha salido del episodio depresivo más severo y siente la tentación de no 
 
 **El Principio de la Prevención de Recaidas como Parte del Tratamiento, no un Extra:** El 50% de las personas que han tenido un episodio de depresión mayor tendrá al menos uno más a lo largo de su vida. El 80% de los que han tenido dos episodios tendrán un tercero. Esta escalada del riesgo hace que la prevención de recaidas sea una prioridad clinica tan importante como el tratamiento del episodio agudo.
 
-Las estrategias con mayor evidencia para la prevención de recaidas incluyen: el mantenimiento del tratamiento farmacologico durante al menos seis a doce meses después de la remisión (en personas con historia de multiples episodios, posiblemente de por vida), la MBCT para los que han tenido tres o más episodios, y el desarrollo de un plan de recaidas: un protocolo personal de que hacer si los sintomas regresan.
+Las estrategias con mayor evidencia para la prevención de recaidas incluyen: el mantenimiento del tratamiento farmacológico durante al menos seis a doce meses después de la remisión (en personas con historia de multiples episodios, posiblemente de por vida), la MBCT para los que han tenido tres o más episodios, y el desarrollo de un plan de recaidas: un protocolo personal de que hacer si los sintomas regresan.
 
 **Ejercicio inmediato:** Desarrolla tu plan de prevención de recaidas: ¿cuales son tus señales de alerta tempranas (los primeros cambios en el sueño, el apetito, el pensamiento, o la actividad que han precedido a tus episodios anteriores)? ¿Que haras si las notas (a quien contactaras primero, que pasos daras)? Tener ese plan antes de necesitarlo es más útil que construirlo cuando la crisis ya esta instalada.
 

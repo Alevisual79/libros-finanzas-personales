@@ -49,7 +49,7 @@ El perdon familiar es objetivamente más difícil que otros tipos de perdon. No 
 
 El rencor no procesado hacía un familiar, aunque pueda sentirse como protección o como justicia merecida, tiene costes emocionales y de salud documentados que afectan principalmente a quien carga con el.
 
-**El Principio del Coste Fisiologico del Resentimiento:** La investigación en psicología de la salud muestra que el resentimiento cronico no procesado se asocia con niveles elevados de cortisol, mayor riesgo cardiovascular, y peor calidad de sueño, entre otros impactos en la salud física. El resentimiento que se mantiene como forma de protección o de justicia frecuentemente termina dañando más a quien lo carga que a la persona hacía quien se dirige.
+**El Principio del Coste Fisiológico del Resentimiento:** La investigación en psicología de la salud muestra que el resentimiento cronico no procesado se asocia con niveles elevados de cortisol, mayor riesgo cardiovascular, y peor calidad de sueño, entre otros impactos en la salud física. El resentimiento que se mantiene como forma de protección o de justicia frecuentemente termina dañando más a quien lo carga que a la persona hacía quien se dirige.
 
 **Ejercicio inmediato:** Reflexiona sobre el coste físico y emocional que el resentimiento hacía un familiar específico está teniendo en tu vida actual: en tu sueño, tu estado de animo, tu capacidad de disfrutar otras relaciones. Ese coste es información relevante sobre si vale la pena seguir cargando con el.
 
