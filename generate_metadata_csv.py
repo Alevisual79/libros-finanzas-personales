@@ -203,16 +203,20 @@ def _build_md_index(base):
 
 
 def _prologue_excerpt(md_path, max_chars=600):
-    """Extract first 2 paragraphs after ## Prologue (or ## Prólogo)."""
+    """Extract first 2 paragraphs after ## Prologue/Prólogo/Preface/Introducción."""
     if not md_path or not os.path.exists(md_path):
         return ""
     in_prologue = False
     paragraphs = []
     current = []
-    with open(md_path, encoding="utf-8") as f:
+    SECTION_RE = re.compile(
+        r'^##\s+(Prologue|Prólogo|Prologo|Preface|Prefacio|Introduction|Introduccion|Introducción)',
+        re.IGNORECASE
+    )
+    with open(md_path, encoding="utf-8-sig") as f:
         for line in f:
             stripped = line.strip()
-            if re.match(r'^##\s+(Prologue|Prólogo|Prologo)', stripped, re.IGNORECASE):
+            if SECTION_RE.match(stripped):
                 in_prologue = True
                 continue
             if in_prologue:
@@ -372,12 +376,13 @@ with open(out_path, "w", encoding="utf-8-sig", newline="") as csvf:
             # Find markdown path via index
             md_path = MD_INDEX.get((col_folder, num), "")
 
-            # Description: ES uses HTML sinopsis+bullets; EN enriches with Prologue
+            # Description: always try to enrich from .md when HTML desc is short
             html_desc = _build_description(rec, lang)
-            if lang == "en" and md_path:
+            if md_path and (lang == "en" or len(html_desc or "") < 300):
                 prologue = _prologue_excerpt(md_path, max_chars=700)
                 if prologue:
-                    tagline = _get_str(rec, "desc")
+                    tagline = (_get_str(rec, "desc") if lang == "en"
+                               else (html_desc.strip() if html_desc else ""))
                     desc = f"{tagline}\n\n{prologue}" if tagline else prologue
                 else:
                     desc = html_desc
