@@ -1,17 +1,12 @@
 # AI for Analysts
-## Transforming Data Into Insights
 
 **Series 2: AI at Work — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Transforming Data Into Insights
 
 ### Prologue
 Elena's analytics team had a mountain of customer data and a bottleneck: turning raw data into insights required SQL fluency, statistics knowledge, and time. AI removed two of those three requirements for many common tasks.

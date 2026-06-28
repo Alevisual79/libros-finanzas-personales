@@ -1,17 +1,12 @@
 # Anxiety Without Medication
-## Managing Anxiety Through Evidence-Based Behavioral and Cognitive Tools
 
 **Series 4: Mind and Emotions — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Managing Anxiety Through Evidence-Based Behavioral and Cognitive Tools
 
 ### Prologue
 Elena had never been diagnosed with an anxiety disorder. She would not have described herself as an anxious person. She described herself as "someone who worries a lot" — about her job performance, about whether people liked her, about whether she was making the right decisions, about the future. She managed this by being very organized, very prepared, and very busy.

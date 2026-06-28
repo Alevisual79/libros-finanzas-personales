@@ -1,17 +1,12 @@
 # Patrones que se Repiten
-## Por qué atraes siempre la misma persona con distinto nombre
 
 **Serie 01: Conocete a Ti Mismo — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué atraes siempre la misma persona con distinto nombre
 
 ### Prólogo
 Tres relaciones de pareja. Tres personas completamente distintas en personalidad, profesión y origen. El mismo conflicto central en las tres. Elena lo llama mala suerte. Su terapeuta lo llama patron.

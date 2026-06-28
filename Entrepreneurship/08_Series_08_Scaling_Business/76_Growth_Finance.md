@@ -1,17 +1,12 @@
 # Growth Finance
-## Funding expansion, managing the growth gap, and building a scalable financial structure
 
 **Series 08: Scaling Business — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Funding expansion, managing the growth gap, and building a scalable financial structure
 
 ### Prologue
 By her fourth year of running a healthcare staffing company, Lisa had discovered the paradox that traps the most successful small businesses: growing faster required more cash upfront, and the business was consuming cash faster than it was generating it. Not because the business was losing money — it was profitably placing nurses and allied health professionals with hospitals and clinics across three states — but because the mechanism of growth consumed capital before the revenue from that growth arrived.

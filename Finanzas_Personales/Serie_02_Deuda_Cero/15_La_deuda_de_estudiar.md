@@ -1,7 +1,5 @@
 # La deuda de estudiar: Préstamos universitarios y cómo salir
 
-## Para los que empezaron su vida adulta con el contador en negativo
-
 **Serie Finanzas Personales — Serie 2: Deuda Cero — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Para los que empezaron su vida adulta con el contador en negativo
 
 ### Prólogo: La inversión que nadie garantiza
 

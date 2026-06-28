@@ -1,17 +1,12 @@
 # Mental Health Is Health
-## Integrating Mental and Physical Wellbeing
 
 **Series 4: Mind and Emotions — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Integrating Mental and Physical Wellbeing
 
 ### Prologue
 The division between mental health and physical health is a historical artifact of how medicine organized itself — not a description of how the body actually works. The brain is an organ. The mind is a function of that organ. Psychological states produce measurable physiological changes, and physiological states produce measurable psychological changes. They are the same system.

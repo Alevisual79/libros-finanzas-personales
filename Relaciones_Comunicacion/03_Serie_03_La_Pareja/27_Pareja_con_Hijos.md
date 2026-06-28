@@ -1,17 +1,12 @@
 # Pareja con Hijos
-## Mantener la relación viva mientras se construye una familia
 
 **Serie 03: La Pareja — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Mantener la relación viva mientras se construye una familia
 
 ### Prólogo
 Casi ninguna pareja llega preparada para lo que la llegada de un hijo hace a su relación. La investigación sobre satisfacción conyugal muestra una caida consistente y bien documentada en los primeros años después del nacimiento del primer hijo, independientemente de cuanto se quisiera a ese hijo o cuanto se amaba a la pareja antes de tenerlo.

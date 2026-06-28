@@ -1,7 +1,5 @@
 # La atención: El recurso más escaso del siglo XXI
 
-## Por qué cada vez nos cuesta más concentrarnos
-
 **Serie Productividad y Éxito — Serie 3: Enfoque y Concentración — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué cada vez nos cuesta más concentrarnos
 
 ### Prólogo: La economía de la atención
 

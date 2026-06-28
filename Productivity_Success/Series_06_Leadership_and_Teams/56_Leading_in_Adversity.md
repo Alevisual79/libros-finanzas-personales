@@ -1,17 +1,12 @@
 # Leading in Adversity
-## The leadership qualities that only crisis reveals and develops
 
 **Series 6: Leadership and Teams — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The leadership qualities that only crisis reveals and develops
 
 ### Prologue
 The professional crisis arrived for Sophie in her fourth year as a team leader, in the form she had not anticipated: not a business failure, not a personnel conflict, not a budget cut, but a global pandemic that transformed the team's physical working reality overnight and placed the immediate care and psychological stability of her team members alongside the ongoing demands of organizational performance.

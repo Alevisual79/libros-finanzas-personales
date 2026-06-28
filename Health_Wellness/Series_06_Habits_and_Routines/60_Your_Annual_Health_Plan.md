@@ -1,17 +1,12 @@
 # Your Annual Health Plan
-## Building a Year of Intentional Health
 
 **Series 6: Habits and Routines — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building a Year of Intentional Health
 
 ### Prologue
 Most people approach health reactively: they see a doctor when sick, think about sleep when exhausted, consider diet after a weight gain, and address exercise when they feel guilty. This reactive approach means that health receives attention only when it is already failing.

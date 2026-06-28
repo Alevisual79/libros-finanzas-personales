@@ -1,17 +1,12 @@
 # Machine Learning Without the Math
-## What You Really Need to Know
 
 **Series 1: AI Fundamentals — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What You Really Need to Know
 
 ### Prologue
 Ruben attended a webinar about machine learning for marketers. Within ten minutes, the presenter had introduced gradient descent, loss functions, and backpropagation. Ruben closed the tab.

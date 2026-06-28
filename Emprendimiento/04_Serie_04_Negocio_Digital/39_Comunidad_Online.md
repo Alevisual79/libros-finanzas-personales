@@ -1,17 +1,12 @@
 # Comunidad Online
-## Cómo construir una tribu digital alrededor de tu negocio
 
 **Serie 04: Negocio Digital — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir una tribu digital alrededor de tu negocio
 
 ### Prólogo
 Carlos ha intentado construir una comunidad online pero los miembros se unen y no participan. Lucia tiene un grupo de Facebook con quinientos miembros que esta prácticamente muerto. Marcos no entiende bien si una comunidad online puede ser un activo de negocio real o es solo un coste de tiempo sin retorno claro. Los tres necesitan entender una distinción fundamental: la comunidad online no es un grupo de personas que se siguen mutuamente. Es un espacio donde las personas con un interés o una identidad común se conectan, aprenden, y se ayudan mutuamente. Y eso, bien construido, es uno de los activos de negocio más valiosos que existe.

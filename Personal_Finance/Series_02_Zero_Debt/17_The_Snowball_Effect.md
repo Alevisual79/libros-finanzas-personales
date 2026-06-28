@@ -1,17 +1,12 @@
 # The Snowball Effect
-## Two Methods for Getting Out of Debt — and When to Use Each
 
 **Series 2: Zero Debt — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Two Methods for Getting Out of Debt — and When to Use Each
 
 ### Prologue
 Elena had four debts. A credit card at 22.9% APR with a $4,200 balance. A personal loan at 11.5% with a $7,800 balance and 28 months remaining. A car loan at 6.9% with a $9,400 balance and 38 months remaining. And her smallest debt: a store card at 19.9% with a $480 balance she'd been carrying for two years.

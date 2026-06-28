@@ -1,7 +1,5 @@
 # El descanso estratégico
 
-## Por qué descansar bien es parte del rendimiento
-
 **Serie Productividad y Éxito — Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué descansar bien es parte del rendimiento
 
 ### Prólogo: El sábado que cambio el resultado del lunes
 

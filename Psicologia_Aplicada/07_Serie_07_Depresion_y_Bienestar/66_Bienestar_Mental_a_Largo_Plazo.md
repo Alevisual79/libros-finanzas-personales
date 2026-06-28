@@ -1,17 +1,12 @@
 # Bienestar Mental a Largo Plazo
-## Cómo construir una vida que proteja tu mente
 
 **Serie 07: Depresión y Bienestar Mental — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir una vida que proteja tu mente
 
 ### Prólogo
 Elena tiene treinta y cuatro años y empieza a preguntarse como quiere estar mentalmente a los cincuenta, a los sesenta, a los setenta. Hasta ahora había manejado la salud mental de forma reactiva: cuando algo fallaba, buscaba ayuda. Pero hay otro modo de relacionarse con la salud mental que es proactivo: diseñar la vida de forma que las condiciones del bienestar esten presentes por defecto. Este libro es sobre ese diseño a largo plazo, basado en lo que la investigación longitudinal ha identificado como los factores que más robustamente predicen el bienestar mental a lo largo de la vida.

@@ -1,17 +1,12 @@
 # The Noise That Makes You Sick
-## The Health Effects of Environmental Noise
 
 **Series 9: Environment and Lifestyle — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Health Effects of Environmental Noise
 
 ### Prologue
 Noise is so pervasive in modern environments that we have largely normalized it — the traffic outside, the aircraft overhead, the open office floor plan, the construction, the neighbor's music. We adapt behaviorally, but the body does not fully adapt physiologically. Research over the past two decades has established that chronic environmental noise is a significant health risk — not merely an irritant — with documented effects on cardiovascular disease, sleep, cognitive function, and mental health.

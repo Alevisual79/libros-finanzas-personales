@@ -1,17 +1,12 @@
 # Erectile Dysfunction
-## Understanding, Treating, and What It Tells You About Your Health
 
 **Series 8: Sexual and Reproductive Health — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding, Treating, and What It Tells You About Your Health
 
 ### Prologue
 Erectile dysfunction (ED) affects an estimated 30 million American men. It is among the most common sexual health conditions across all ages, with a prevalence that rises dramatically from approximately 5% in men under 40 to 15-25% in men in their 60s and 70% in their 70s. Despite this prevalence, it is underdiagnosed and undertreated — primarily because men don't discuss it with their physicians, and physicians don't routinely ask.

@@ -1,17 +1,12 @@
 # Brainstorming That Actually Works
-## The research-backed approach to group idea generation
 
 **Series 7: Creativity and Innovation — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The research-backed approach to group idea generation
 
 ### Prologue
 The marketing team's monthly brainstorming session had become one of Priya's most dreaded professional obligations. Eight people gathered around a conference table for ninety minutes; the same three individuals dominated the discussion; the ideas that were generated were variations on approaches the team had used before; and the session ended with the same general frustration that no genuinely new direction had emerged, despite ninety minutes of collective effort.

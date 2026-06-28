@@ -1,17 +1,12 @@
 # Emotional Regulation
-## How to Shape Your Emotional Experience Without Suppressing It
 
 **Series 4: Emotions and Emotional Management — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Shape Your Emotional Experience Without Suppressing It
 
 ### Prologue
 Sara described her emotional life as a pressure cooker. For weeks, she would manage: professional, composed, functional. Then something small would tip the balance — a minor frustration, an offhand comment, a moment of unexpected stress — and everything she had been containing would emerge at once, disproportionate to the trigger and exhausting for everyone involved, including herself. She had tried, repeatedly, to stop this pattern through the exercise of willpower — deciding to be less emotional, resolving not to react — and found that willpower was precisely the wrong tool. The containment was itself the problem. What she had never been taught was how to do something other than the binary of complete suppression or complete expression.

@@ -1,17 +1,12 @@
 # Customer Journey
-## Designing every touchpoint from stranger to loyal advocate
 
 **Series 07: Customers and Value — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Designing every touchpoint from stranger to loyal advocate
 
 ### Prologue
 When Christina analyzed the eighteen months of customer data from her online learning platform for graphic designers, she found something initially puzzling: her most satisfied customers — measured by survey scores, completion rates, and the enthusiastic testimonials they provided — were not the customers who were most likely to renew their annual subscription. The renewal rate for customers who gave her platform a nine or ten out of ten satisfaction score was only sixty-eight percent. The renewal rate for customers who gave eight or nine satisfaction scores was seventy-two percent.

@@ -1,7 +1,5 @@
 # El perfeccionismo que paraliza
 
-## Por qué buscar lo perfecto es el enemigo de lo hecho
-
 **Serie Productividad y Éxito — Serie 1: Mentalidad y Creencias — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué buscar lo perfecto es el enemigo de lo hecho
 
 ### Prólogo: La presentación que nunca terminó
 

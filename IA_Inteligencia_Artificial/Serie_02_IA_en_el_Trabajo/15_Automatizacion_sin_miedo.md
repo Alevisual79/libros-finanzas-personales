@@ -1,17 +1,12 @@
 # Automatización sin miedo
-## Qué automatizar, qué no, y cómo hacer la transición
 
 **Serie 2: IA en el Trabajo — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Qué automatizar, qué no, y cómo hacer la transición
 
 ### Prólogo: El proceso que nadie quería tocar
 

@@ -1,17 +1,12 @@
 # Critical Thinking
-## Reasoning Well in a World of Noise
 
 **Series 1: How Your Mind Works — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Reasoning Well in a World of Noise
 
 ### Prologue
 When Omar was 28, he became convinced that a supplement he read about online would significantly improve his cognitive performance. The evidence was compelling — testimonials, before-and-after stories, references to studies with impressive-sounding statistics. He ordered a three-month supply. When the supplement didn't produce the effects he expected, he consulted his friend who had a biology degree, who gently walked him through why the evidence he had found was nearly worthless: testimonials are not controlled observations, the studies referenced were poorly designed, the statistics were presented misleadingly, and the claims had not been independently replicated. He had read extensively and reasoned carefully — but he had not read critically.

@@ -1,17 +1,12 @@
 # Seasonal Income
-## Capitalizing on Calendar Opportunities
 
 **Series 5: Multiple Income Streams — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Capitalizing on Calendar Opportunities
 
 ### Prologue
 Ruben noticed something about his freelance income: it wasn't distributed evenly across the year. Q4 (October-December) was consistently his highest-revenue quarter — by 30-40%. Clients wanted end-of-year branding refreshes, holiday materials, and marketing for the new year. The work was abundant and clients were less price-sensitive.

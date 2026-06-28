@@ -1,7 +1,5 @@
 # El dinero y el tiempo: La ecuación que nadie te enseñó
 
-## Valor hora, coste de oportunidad y decisiones financieras que sí tienen sentido
-
 **Serie Finanzas Personales — Serie 1: Mindset del Dinero — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Valor hora, coste de oportunidad y decisiones financieras que sí tienen sentido
 
 ### Prólogo: Lo que Don Alberto entendió tarde
 

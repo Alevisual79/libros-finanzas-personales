@@ -1,7 +1,5 @@
 # Deporte con poco tiempo
 
-## Entrenamientos de 20-30 minutos que dan resultados reales
-
 **Serie Salud y Bienestar — Serie 2: Movimiento y Cuerpo — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entrenamientos de 20-30 minutos que dan resultados reales
 
 ### Prólogo: La excusa que todos usamos
 

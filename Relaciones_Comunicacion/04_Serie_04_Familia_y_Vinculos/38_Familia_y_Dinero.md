@@ -1,17 +1,12 @@
 # Familia y Dinero
-## El tema que nadie habla y todos sienten
 
 **Serie 04: Familia y Vínculos — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El tema que nadie habla y todos sienten
 
 ### Prólogo
 En la familia de Isabel, el dinero nunca se menciona directamente. Todos saben, sin que nadie lo diga, quien tiene más. Nadie lo dice en voz alta. El resentimiento que esa desigualdad silenciosa genera es antiguo, y se manifiesta en formas indirectas que nadie reconoce cómo lo que realmente son: conflicto sobre dinero disfrazado de conflicto sobre otra cosa.

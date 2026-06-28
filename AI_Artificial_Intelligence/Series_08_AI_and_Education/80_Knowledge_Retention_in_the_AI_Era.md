@@ -1,17 +1,12 @@
 # Knowledge Retention in the AI Era
-## Learning That Sticks When AI Can Remember for You
 
 **Series 8: AI and Education — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Learning That Sticks When AI Can Remember for You
 
 ### Prologue
 Why memorize when you can look it up? The question predates AI — it was asked about search engines in 2003. The answer then is the same now: because knowledge in your head enables thinking that knowledge in a database does not.

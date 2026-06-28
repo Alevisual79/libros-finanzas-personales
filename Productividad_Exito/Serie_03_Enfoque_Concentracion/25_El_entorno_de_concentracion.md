@@ -1,7 +1,5 @@
 # El entorno de concentración
 
-## Diseñar el espacio físico y digital para que el foco sea fácil
-
 **Serie Productividad y Éxito — Serie 3: Enfoque y Concentración — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Diseñar el espacio físico y digital para que el foco sea fácil
 
 ### Prólogo: El escritorio que trabaja contra ti
 

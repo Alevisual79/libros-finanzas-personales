@@ -1,17 +1,12 @@
 # Investing in the Business
-## How to make smart capital decisions that accelerate growth
 
 **Series 05: Business Finance — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to make smart capital decisions that accelerate growth
 
 ### Prologue
 After four years of building her executive coaching practice, Isabel had generated enough surplus cash to invest in growing the business. She had $80,000 in her business account beyond her operating reserve, and a list of potential investments: a professional website redesign ($12,000), a new coaching certification ($4,500), a speaking coach to develop her conference keynote presence ($8,000), a podcast production setup ($6,000), a marketing consultant retainer ($3,000/month), and hiring an operations assistant ($48,000/year). She had identified more investment opportunities than she had capital for all of them and needed a framework for deciding which to pursue.

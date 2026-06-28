@@ -1,17 +1,12 @@
 # Tu Personalidad en el Trabajo
-## Cómo usar quien eres para construir la carrera que te conviene
 
 **Serie 08: Personalidad y Comportamiento — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo usar quien eres para construir la carrera que te conviene
 
 ### Prólogo
 Elena lleva siete años en el mismo tipo de trabajo y se pregunta si hay un trabajo que se ajuste mejor a quien es. Ruben tiene un perfil de personalidad que funciona extraordinariamente bien en ciertos contextos y que en otros le cuesta. Y Isabel, a sus cincuenta y dos años de directora de recursos humanos, ha visto como el desajuste entre la personalidad y el trabajo es una de las causas más subestimadas del bajo rendimiento y la insatisfacción laboral cronica. Este libro es sobre ese ajuste: lo que la investigación dice sobre la relación entre la personalidad y el trabajo, como identificar donde ese ajuste es mejor, y como usar el conocimiento de quien eres para construir una carrera más alineada con lo que eres.

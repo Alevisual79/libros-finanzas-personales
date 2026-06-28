@@ -1,17 +1,12 @@
 # Claude, Gemini y Llama: más allá de ChatGPT
-## El ecosistema de modelos de IA y cómo elegir el adecuado para cada tarea
 
 **Serie 3: Herramientas de IA — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El ecosistema de modelos de IA y cómo elegir el adecuado para cada tarea
 
 ### Prólogo: El mercado de los asistentes inteligentes
 

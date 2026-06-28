@@ -1,7 +1,5 @@
 # El plan de vida a 10 años
 
-## Cómo diseñar la próxima década intencionalmente
-
 **Serie Productividad y Éxito — Serie 10: Propósito y Éxito a Largo Plazo — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo diseñar la próxima década intencionalmente
 
 ### Prólogo: La conversación sobre el futuro que Elena nunca había tenido
 

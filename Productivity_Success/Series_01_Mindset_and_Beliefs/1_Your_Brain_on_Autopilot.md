@@ -1,17 +1,12 @@
 # Your Brain on Autopilot
-## Identifying the Automatic Patterns That Run Your Professional Life
 
 **Series 1: Mindset and Beliefs — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Identifying the Automatic Patterns That Run Your Professional Life
 
 ### Prologue
 Camila arrived at the office at 7:52 a.m., eight minutes before anyone else, as she had done every working day for three years. She made coffee, opened her laptop, and immediately checked her email — 47 new messages since midnight. She began responding in the order they arrived, which meant that by 9:00 a.m. she had cleared the administrative debris but had not touched the contract that was due to a client at noon. By 10:30, two colleagues had stopped by her desk with questions. She answered both without hesitation. By noon, the contract was still unfinished.

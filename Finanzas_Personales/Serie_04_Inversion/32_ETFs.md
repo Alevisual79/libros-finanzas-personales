@@ -1,7 +1,5 @@
 # ETFs: El instrumento que los ricos no quieren que conozcas
 
-## Cómo funcionan, por qué son casi perfectos y cómo empezar hoy aunque no sepas nada de bolsa
-
 **Serie Finanzas Personales — Serie 4: Inversión desde Cero — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo funcionan, por qué son casi perfectos y cómo empezar hoy aunque no sepas nada de bolsa
 
 ### Prólogo: El despacho del banco
 

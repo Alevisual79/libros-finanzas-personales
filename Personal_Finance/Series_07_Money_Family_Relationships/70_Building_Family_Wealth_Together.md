@@ -1,17 +1,12 @@
 # Building Family Wealth Together
-## A Generational Wealth Strategy
 
 **Series 7: Money, Family & Relationships — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A Generational Wealth Strategy
 
 ### Prologue
 Isabel grew up without generational wealth. Her parents were working-class immigrants who prioritized their children's education over accumulation. They succeeded at that priority — Isabel and her siblings all attended college, all built stable professional lives. But they didn't leave behind financial assets, and Isabel started her adult financial life entirely from zero.

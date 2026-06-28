@@ -1,7 +1,5 @@
 # Escribir claro
 
-## Comunicación escrita que convence, informa y no aburre
-
 **Serie Productividad y Éxito — Serie 5: Comunicación y Relaciones Profesionales — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Comunicación escrita que convence, informa y no aburre
 
 ### Prólogo: El correo que nadie leyó
 

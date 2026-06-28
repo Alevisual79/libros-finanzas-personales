@@ -1,17 +1,12 @@
 # Courtship in the 21st Century
-## How to show interest without losing your authenticity
 
 **Series 7: Dating and Romantic Love — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to show interest without losing your authenticity
 
 ### Prologue
 Owen had a system.

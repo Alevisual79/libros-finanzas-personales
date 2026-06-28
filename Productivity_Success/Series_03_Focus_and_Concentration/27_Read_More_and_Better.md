@@ -1,17 +1,12 @@
 # Read More and Better
-## The science of deep reading — and why it's one of the most powerful things you can do for your career
 
 **Series 3: Focus and Concentration — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The science of deep reading — and why it's one of the most powerful things you can do for your career
 
 ### Prologue
 Nadia had always considered herself a reader. Growing up, she had consumed novels with the abandon of someone who had no other obligation; in university, she had read voraciously for her coursework and for pleasure simultaneously. By her mid-thirties, she was reading approximately one book per month — usually on her phone, in fragments, during commutes and lunch breaks and the ten minutes before sleep when she was often too tired to retain much.

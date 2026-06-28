@@ -1,17 +1,12 @@
 # Gestionar la Envidia
-## Transformar la emoción más silenciada en combustible
 
 **Serie 04: Emociones y Gestión Emocional — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Transformar la emoción más silenciada en combustible
 
 ### Prólogo
 Ruben no envidia a nadie. O al menos eso es lo que se dice a si mismo. Pero cuando ve que un colega con menos experiencia consigue un ascenso que el quería, lo que siente en el estómago no es solo decepción. Y cuando le va bien a un amigo que le ha costado menos que a el, lo que siente durante un segundo antes de la sonrisa es algo que preferiria no examinar demasiado. La envidia es la emoción más universalmente negada, la más cargada de moralidad, y paradojicamente una de las que más información útil puede proporcionar sobre lo que realmente importa. Este libro propone parar de negarla para poder usarla.

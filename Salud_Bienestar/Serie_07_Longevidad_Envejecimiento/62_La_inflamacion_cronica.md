@@ -1,7 +1,5 @@
 # La inflamación crónica que envejece
 
-## Qué la causa, cómo medirla y cómo reducirla para frenar el deterioro acelerado
-
 **Serie Salud y Bienestar — Serie 7: Longevidad y Envejecimiento — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Qué la causa, cómo medirla y cómo reducirla para frenar el deterioro acelerado
 
 ### Prólogo: El fuego que no se ve
 

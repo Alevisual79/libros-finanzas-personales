@@ -1,17 +1,12 @@
 # Trauma de Infancia
-## Cómo lo que ocurrio en los primeros años sigue operando hoy
 
 **Serie 05: Traumas y Heridas — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo lo que ocurrio en los primeros años sigue operando hoy
 
 ### Prólogo
 Ruben tuvo una infancia que desde fuera parecia normal. Sus padres estaban presentes, no había violencia, había suficiente dinero para cubrir las necesidades. Pero hay cosas que no recuerda con exactitud y hay patrones que no entiende bien: la dificultad para confiar, la tendencia a anticipar el abandono en las relaciones, el nivel de hipervigilancia de fondo que parece excesivo para alguien que vive una vida objetivamente tranquila. El trauma de infancia no requiere que haya habido violencia o catastrofe. Requiere que haya habido experiencias que el sistema nervioso en desarrollo no pudo procesar completamente, y que esas experiencias hayan dejado patrones que siguen operando en el adulto.

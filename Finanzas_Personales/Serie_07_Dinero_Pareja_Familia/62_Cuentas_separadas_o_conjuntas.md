@@ -1,7 +1,5 @@
 # Cuentas separadas, cuenta conjunta o las dos
 
-## Los modelos financieros en pareja y cómo elegir el que funciona
-
 **Serie Finanzas Personales — Serie 7: Dinero en Pareja y Familia — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Los modelos financieros en pareja y cómo elegir el que funciona
 
 ### Prólogo: La pregunta que Carlos no esperaba
 

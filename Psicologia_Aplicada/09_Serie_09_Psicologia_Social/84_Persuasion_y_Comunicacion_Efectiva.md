@@ -1,17 +1,12 @@
 # Persuasión y Comunicación Efectiva
-## Como comunicar para que los demás te escuchen de verdad
 
 **Serie 09: psicología Social e Influencia — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como comunicar para que los demás te escuchen de verdad
 
 ### Prólogo
 Ruben tiene buenas ideas pero le cuesta que las personas con poder de decisión las tomen en serio. Elena ha presentado propuestas que creía que eran sólidas y se ha encontrado con resistencia que no esperaba. Isabel ha tenido que dar malas noticias, gestionar conversaciones difíciles, y convencer a equipos enteros de cambiar su forma de trabajar. Los tres necesitan lo mismo: entender como funciona la persuasión real, no la manipulación, sino la comunicación que conecta con las razones por las que las personas toman decisiones y cambian de opinión. Este libro es sobre esa comunicación: su psicología, sus técnicas, y sus límites éticos.

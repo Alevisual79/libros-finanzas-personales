@@ -1,7 +1,5 @@
 # Hábitos digitales y salud
 
-## Gestionar el tiempo de pantalla para vivir mejor: sin demonizar la tecnología y sin dejar que te domine
-
 **Serie Salud y Bienestar — Serie 6: Hábitos y Rutinas — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Gestionar el tiempo de pantalla para vivir mejor: sin demonizar la tecnología y sin dejar que te domine
 
 ### Prólogo: La adicción que no parece adicción
 

@@ -1,7 +1,5 @@
 # Gestionar tu reputación profesional
 
-## Cómo te perciben los demás y cómo influir en eso
-
 **Serie Productividad y Éxito — Serie 5: Comunicación y Relaciones Profesionales — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo te perciben los demás y cómo influir en eso
 
 ### Prólogo: La reunión a la que no invitaron a Rubén
 

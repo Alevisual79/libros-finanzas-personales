@@ -1,17 +1,12 @@
 # Chrononutrition
-## How When You Eat Shapes Your Health
 
 **Series 10: Integrative Health — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How When You Eat Shapes Your Health
 
 ### Prologue
 Nutrition science has long asked what we eat. Chrononutrition asks when we eat — and has found that the timing of food intake interacts with circadian biology to produce health effects that are surprisingly independent of dietary composition.

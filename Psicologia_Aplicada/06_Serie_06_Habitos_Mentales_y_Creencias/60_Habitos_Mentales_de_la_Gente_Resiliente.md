@@ -1,17 +1,12 @@
 # Hábitos Mentales de la Gente Resiliente
-## Lo que hacen mentalmente las personas que se recuperan bien
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que hacen mentalmente las personas que se recuperan bien
 
 ### Prólogo
 Ruben ha notado algo en las personas que conoce que atraviesan las dificultades mejor que otros: no parecen tener vidas más fáciles. Tienen las mismas perdidas, los mismos fracasos, las mismas incertidumbres. Pero tienen una relación diferente con esas dificultades. Cuando las cosas se ponen mal, parecen hacer algo diferente en sus mentes que les permite recuperarse antes. Este libro es sobre esos hábitos mentales específicos: lo que hacen mentalmente las personas resilientes que les permite atravesar las dificultades sin que las destruyan.

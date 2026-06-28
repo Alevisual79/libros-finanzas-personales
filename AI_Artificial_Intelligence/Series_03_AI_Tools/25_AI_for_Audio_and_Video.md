@@ -1,17 +1,12 @@
 # AI for Audio and Video
-## Voice Cloning Transcription and Automated Editing
 
 **Series 3: AI Tools — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Voice Cloning Transcription and Automated Editing
 
 ### Prologue
 The podcast that would have taken three hours to edit now takes forty minutes. The video that required a studio voice-over now uses a synthetic voice indistinguishable from a real one. The tools exist. The question is how to use them responsibly and effectively.

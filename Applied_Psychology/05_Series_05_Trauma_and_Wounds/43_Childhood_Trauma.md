@@ -1,17 +1,12 @@
 # Childhood Trauma
-## How Early Wounds Shape the Adult You Became
 
 **Series 5: Trauma and Wounds — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Early Wounds Shape the Adult You Became
 
 ### Prologue
 Elena had spent most of her adult life being surprised by her own reactions. She would become intensely anxious in situations where others seemed perfectly comfortable. She found it nearly impossible to ask for help, even when she needed it desperately. She worked compulsively, without knowing exactly why, and found it difficult to stop even when her body was asking her to. She was, by external measure, competent and accomplished. She was also, by internal measure, frequently terrified and exhausted in ways she couldn't attribute to any present-day cause. The causes were not in the present. They were in a childhood she mostly remembered as ordinary, and that her therapist eventually helped her recognize as considerably less ordinary than she had known.

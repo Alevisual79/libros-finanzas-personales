@@ -1,17 +1,12 @@
 # Leading Change
-## The essential skills for navigating organizational transformation
 
 **Series 6: Leadership and Teams — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The essential skills for navigating organizational transformation
 
 ### Prologue
 In his eleventh year of professional leadership, Marcus was asked to lead a significant organizational change initiative — the restructuring of a division that touched two hundred people and required the reconfiguration of processes that had been in place for eight years. He accepted with confidence. He had led teams through many challenges; he was widely respected in the organization; he had excellent relationships with the key stakeholders.

@@ -1,17 +1,12 @@
 # Contraception
-## Evidence-Based Guidance on Birth Control Options
 
 **Series 8: Sexual and Reproductive Health — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Evidence-Based Guidance on Birth Control Options
 
 ### Prologue
 Contraception is among the most significant health decisions most sexually active people make — and yet the information most people receive about contraceptive options is incomplete, outdated, or distorted by both cultural bias and clinical inertia. The most effective methods are often underutilized; the least effective methods are often overused because they require no prescription.

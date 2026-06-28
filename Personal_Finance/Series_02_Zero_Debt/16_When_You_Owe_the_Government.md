@@ -1,17 +1,12 @@
 # When You Owe the Government
-## Navigating Tax Debt Effectively
 
 **Series 2: Zero Debt — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Navigating Tax Debt Effectively
 
 ### Prologue
 The letter from the IRS arrived on a Tuesday. Ruben recognized the envelope — the IRS used a specific format — and put it on his counter unopened for three days. When he finally opened it, it was a CP2000 notice: the IRS had information that didn't match his return and was proposing an additional assessment of $4,800 in taxes plus $1,200 in penalties and interest.

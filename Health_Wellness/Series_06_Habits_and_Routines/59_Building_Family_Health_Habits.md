@@ -1,17 +1,12 @@
 # Building Family Health Habits
-## Creating a Health-Positive Home for Everyone
 
 **Series 6: Habits and Routines — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Creating a Health-Positive Home for Everyone
 
 ### Prologue
 Individual health is inseparable from household health. The food available in the kitchen, the evening norms of the household, the exercise culture of the family, and the stress management modeled by parents all shape the health behaviors and health trajectories of every person who shares the home. You can make excellent individual health decisions and live in a household that systematically undermines them — or you can create a household environment where healthy behaviors are the natural default for everyone.

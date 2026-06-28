@@ -1,7 +1,5 @@
 # El cuerpo después de los 40
 
-## Cómo cambia el metabolismo y cómo adaptar el ejercicio y la alimentación
-
 **Serie Salud y Bienestar — Serie 2: Movimiento y Cuerpo — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo cambia el metabolismo y cómo adaptar el ejercicio y la alimentación
 
 ### Prólogo: Lo que cambia y lo que no tiene por qué
 

@@ -1,17 +1,12 @@
 # Forgiveness and Letting Go
-## Releasing the Resentment That Imprisons You
 
 **Series 5: Trauma and Wounds — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Releasing the Resentment That Imprisons You
 
 ### Prologue
 For eleven years, Paulo carried what had been done to him like ballast in his chest — a sustained, specific weight that his therapist eventually named as resentment. The person who had done the harm was no longer in his life, had never apologized, and, as far as Paulo knew, had never experienced any consequence proportionate to the harm they had caused. He thought about them more than he thought about most of the living people in his present life. He did not want to forgive them. Forgiveness, as he understood it, would mean something like: it's okay that this happened, or: you are absolved, or: I am giving you a gift you don't deserve. None of these felt acceptable. What he didn't know yet was that forgiveness, as the research understands it, means none of these things.

@@ -1,17 +1,12 @@
 # Empatia práctica
-## Cómo entender al otro sin perderte a ti mismo
 
 **Serie 02: Comunicación y Conexión — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo entender al otro sin perderte a ti mismo
 
 ### Prólogo
 La empatia tiene fama de ser algo que se siente espontaneamente hacía ciertas personas en ciertos momentos. Si no lo sientes, no eres empatico. Si lo sientes, lo eres.

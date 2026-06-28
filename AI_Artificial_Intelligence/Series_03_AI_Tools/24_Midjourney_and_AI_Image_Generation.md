@@ -1,17 +1,12 @@
 # Midjourney and AI Image Generation
-## Creating Visual Content with AI
 
 **Series 3: AI Tools — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Creating Visual Content with AI
 
 ### Prologue
 Ruben's design budget was a fraction of his clients' expectations. AI image generation changed the economics. But using it well — producing images that communicate, not just images that look impressive — required understanding both the tools and the aesthetics.

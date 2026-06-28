@@ -1,7 +1,5 @@
 # Divorcios y dinero
 
-## Protegerse, negociar y reconstruir
-
 **Serie Finanzas Personales — Serie 7: Dinero en Pareja y Familia — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Protegerse, negociar y reconstruir
 
 ### Prólogo: El primer divorcio del cuñado
 

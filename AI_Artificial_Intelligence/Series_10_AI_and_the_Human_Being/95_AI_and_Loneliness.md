@@ -1,17 +1,12 @@
 # AI and Loneliness
-## Connection and Isolation in the Digital Age
 
 **Series 10: AI and the Human Being — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Connection and Isolation in the Digital Age
 
 ### Prologue
 The paradox of the hyper-connected era: more tools for communication than any previous generation, higher rates of reported loneliness than any previous measurement. AI adds another layer to a problem that is not primarily a technology problem.

@@ -1,17 +1,12 @@
 # AI for Writers and Storytellers
-## Collaboration Without Losing Your Voice
 
 **Series 4: AI and Creativity — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Collaboration Without Losing Your Voice
 
 ### Prologue
 Ruben had published a newsletter for three years. His voice — the reason 8,000 people subscribed — was the one thing AI could mimic but not replicate. When he started using AI to help write, preserving that voice became the central challenge.

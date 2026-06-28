@@ -1,17 +1,12 @@
 # Real Passive Income
-## What It Actually Takes to Earn While You Sleep
 
 **Series 5: Multiple Income Streams — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What It Actually Takes to Earn While You Sleep
 
 ### Prologue
 The phrase "passive income" has been weaponized by the internet. YouTube ads promise it. Instagram influencers display the lifestyle it allegedly funds. Courses sell it as a product. The phrase implies income that arrives without work — money that appears in your bank account while you sleep, vacation, or do nothing in particular.

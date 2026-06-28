@@ -1,17 +1,12 @@
 # Neuroscience for Everyday Life
-## What Brain Science Tells Us About Who We Are
 
 **Series 1: How Your Mind Works — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Brain Science Tells Us About Who We Are
 
 ### Prologue
 When Amara first heard that the feeling of "falling in love" was partly a dopamine and norepinephrine surge in the brain's reward circuitry, she was insulted. Love, reduced to neurochemistry? It felt like being told that a symphony was just vibrating air molecules. But as she studied neuroscience further, something shifted. Knowing that her terror before public speaking was a primitive threat-detection circuit firing — the same one that once protected humans from predators — didn't make the fear smaller. It made it stranger and more interesting. It became something she could work with rather than be overwhelmed by.

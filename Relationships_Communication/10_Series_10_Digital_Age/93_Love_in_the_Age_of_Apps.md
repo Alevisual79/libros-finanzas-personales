@@ -1,17 +1,12 @@
 # Love in the Age of Apps
-## Dating, commitment and connection in the digital world
 
 **Series 10: Relationships in the Digital Age — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Dating, commitment and connection in the digital world
 
 ### Prologue
 Mia had been on every major dating platform at least once and had strong professional opinions about all of them.

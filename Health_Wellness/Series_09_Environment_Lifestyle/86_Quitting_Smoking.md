@@ -1,17 +1,12 @@
 # Quitting Smoking — The Science of Cessation and What Actually Works
-## The Science of Cessation and What Actually Works
 
 **Series 9: Environment and Lifestyle — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science of Cessation and What Actually Works
 
 ### Prologue
 Marcus had smoked for twenty-two years. He had tried to quit eleven times — cold turkey, nicotine patches, hypnotherapy, an app that was supposed to help, and once, memorably, a bet with a colleague that lasted four days before he bummed a cigarette outside a conference hall in the rain. Each failure felt like proof of a character flaw: weakness, lack of discipline, the inability to do what other people seemed to manage without much fuss. What Marcus did not know — what most smokers do not know — is that his failures were not evidence of weakness. They were evidence of biology.

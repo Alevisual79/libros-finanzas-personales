@@ -1,17 +1,12 @@
 # Negotiation Without Conflict
-## How to get what you need without damaging what matters
 
 **Series 5: Communication and Relationships — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to get what you need without damaging what matters
 
 ### Prologue
 Daniel had always experienced negotiation as a form of combat — a contest in which one party won and the other lost, and in which the relationship between them was either the casualty of the contest or the reason to concede. He was uncomfortable with both options: the aggressive negotiation that won what it sought but left the relationship damaged, and the accommodating negotiation that preserved the relationship at the cost of the outcome.

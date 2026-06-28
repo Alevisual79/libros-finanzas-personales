@@ -1,17 +1,12 @@
 # La psicología de la Felicidad
-## Lo que la ciencia dice que realmente nos hace felices
 
 **Serie 09: psicología Social e Influencia — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que la ciencia dice que realmente nos hace felices
 
 ### Prólogo
 Elena persigue la felicidad de la manera en que la cultura le ha ensenado: más éxito profesional, mejor apartamento, más vacaciones, relaciones romanticas que funcionen. Y sin embargo, cuando obtiene lo que buscaba, la felicidad que esperaba frecuentemente no llega con la intensidad ni la duración que anticipaba. Ruben cree que será feliz cuando llegue a un nivel de ingresos específico, cuando tenga la libertad de trabajar desde donde quiera, cuando haya alcanzado determinadas metas. Isabel lleva décadas acumulando evidencia de que las cosas que el sentido común dice que producen felicidad a largo plazo frecuentemente no son las que más la producen. Este libro es sobre lo que la ciencia de la psicología positiva ha descubierto sobre la felicidad: lo que importa, lo que no importa tanto como creemos, y lo que podemos hacer hoy.

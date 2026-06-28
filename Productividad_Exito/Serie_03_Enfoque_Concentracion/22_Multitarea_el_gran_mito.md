@@ -1,7 +1,5 @@
 # Multitarea: El gran mito de la productividad
 
-## Por qué hacer varias cosas a la vez te hace peor en todas
-
 **Serie Productividad y Éxito — Serie 3: Enfoque y Concentración — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué hacer varias cosas a la vez te hace peor en todas
 
 ### Prólogo: El orgullo de hacer diez cosas a la vez
 

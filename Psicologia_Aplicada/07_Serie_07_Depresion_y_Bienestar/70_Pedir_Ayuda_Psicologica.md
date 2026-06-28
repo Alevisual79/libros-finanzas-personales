@@ -1,17 +1,12 @@
 # Pedir Ayuda psicológica
-## Como dar el paso que muchos posponen indefinidamente
 
 **Serie 07: Depresión y Bienestar Mental — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como dar el paso que muchos posponen indefinidamente
 
 ### Prólogo
 Isabel llevo dos años sintiendose mal antes de pedir ayuda psicológica. No porque no supiera que la ayuda existia. No porque no tuviera medios económicos para acceder a ella. Sino porque había dentro de ella un conjunto de barreras que lo impedia: la creencia de que debería poder con esto sola, la verguenza de necesitar ayuda, el miedo a lo que descubriria, la incertidumbre de si lo que vivía justificaba la consulta, y la procrastinación alimentada por todas las anteriores. Esos dos años fueron innecesarios. Este libro es sobre las barreras que llevan a que la mayoría de las personas que necesitan ayuda psicológica tarden años en pedirla, y sobre como dar el paso que muchos posponen indefinidamente.

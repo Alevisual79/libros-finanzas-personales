@@ -1,17 +1,12 @@
 # Small Changes Big Results
-## The Science of Incremental Improvement
 
 **Series 6: Habits and Routines — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science of Incremental Improvement
 
 ### Prologue
 The most common reason people's health improvement attempts fail is not lack of motivation or willpower — it is the gap between the size of the change attempted and the size of the change that is sustainable. People attempt large changes with large initial motivation, which wanes, at which point the large change becomes unsustainable. They return to baseline and conclude that they can't change, rather than that they chose an unsustainable change.

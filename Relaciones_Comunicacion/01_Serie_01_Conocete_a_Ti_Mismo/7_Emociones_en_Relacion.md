@@ -1,17 +1,12 @@
 # Emociones en Relación
-## Por qué sientes lo que sientes cuando estas con los demás
 
 **Serie 01: Conocete a Ti Mismo — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué sientes lo que sientes cuando estas con los demás
 
 ### Prólogo
 Ruben sabe que algo va mal en la relación con su novia. No sabe exactamente que siente. Tampoco sabe decirlo. Cuando ella le pregunta que le pasa, el dice nada, estoy bien. No está mintiendo intencionalmente. Genuinamente no tiene acceso a lo que siente con suficiente precisión para nombrarlo.

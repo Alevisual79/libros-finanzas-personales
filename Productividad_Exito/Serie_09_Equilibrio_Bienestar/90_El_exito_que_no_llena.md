@@ -1,7 +1,5 @@
 # El éxito que no llena
 
-## Qué pasa cuando logras lo que querías y no te sientes satisfecho
-
 **Serie Productividad y Éxito — Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Qué pasa cuando logras lo que querías y no te sientes satisfecho
 
 ### Prólogo: El lunes después de la cima
 

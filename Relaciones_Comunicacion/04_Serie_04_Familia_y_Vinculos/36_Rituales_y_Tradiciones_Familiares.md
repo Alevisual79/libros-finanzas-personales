@@ -1,17 +1,12 @@
 # Rituales y Tradiciones Familiares
-## Por qué las rutinas compartidas crean identidad y cohesión
 
 **Serie 04: Familia y Vínculos — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué las rutinas compartidas crean identidad y cohesión
 
 ### Prólogo
 Elena no tuvo rituales familiares estables en su infancia. Sus padres se mudaban con frecuencia, las celebraciones cambiaban de forma cada año, y no existia ninguna rutina que se sintiera como nuestra de forma consistente. Ahora, formando su propia familia, no sabe como crear rituales propios. El resultado es una sensación de soltar amarras permanente, como si su familia actual flotara sin ningún ancla que la sostenga en el tiempo.

@@ -1,17 +1,12 @@
 # Social Media and Real Friendship
-## The difference between followers and friends
 
 **Series 5: Friendships and Social Relationships — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The difference between followers and friends
 
 ### Prologue
 Jordan had 847 followers on Instagram and three people in Toronto he could call if something went genuinely wrong.

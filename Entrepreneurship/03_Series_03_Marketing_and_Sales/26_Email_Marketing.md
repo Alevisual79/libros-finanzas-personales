@@ -1,17 +1,12 @@
 # Email Marketing
-## The highest-ROI channel most businesses underinvest in
 
 **Series 03: Marketing and Sales — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The highest-ROI channel most businesses underinvest in
 
 ### Prologue
 When Priya launched her online course on financial planning for freelancers, she had spent eight months building the curriculum, recording the videos, and creating the supporting workbooks. She had also spent the same eight months building her email list: a weekly newsletter for freelancers about managing irregular income, negotiating rates, and building financial resilience. By the time the course launched, her email list had 6,200 subscribers. The launch email to that list generated $47,000 in course sales in the first week — from a list that had cost her nothing to build except the time invested in producing genuinely useful weekly content.

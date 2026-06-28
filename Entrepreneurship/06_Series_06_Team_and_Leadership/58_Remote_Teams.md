@@ -1,17 +1,12 @@
 # Remote Teams
-## Leading and building high performance in a distributed world
 
 **Series 06: Team and Leadership — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Leading and building high performance in a distributed world
 
 ### Prologue
 When Amy's digital marketing consultancy went fully remote in 2020, the transition was forced and disorganized. Computers were moved to home offices, Zoom accounts were created, and the team that had worked together in an open-plan space for three years suddenly found itself distributed across seven different home environments. In the first month, the team's output maintained approximately its previous level — out of sheer momentum and goodwill. By month three, the problems that remote work revealed were undeniable: three team members who had been reliable contributors in the office became difficult to reach; the collaborative energy that had made the team creative and innovative felt absent; and the interpersonal tensions that had been manageable in person became acute in a text-based communication environment.

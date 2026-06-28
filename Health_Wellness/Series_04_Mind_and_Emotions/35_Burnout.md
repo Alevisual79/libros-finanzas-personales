@@ -1,17 +1,12 @@
 # Burnout
-## When You Have Nothing Left to Give
 
 **Series 4: Mind and Emotions — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When You Have Nothing Left to Give
 
 ### Prologue
 Elena had been high-performing for eight years. She had produced results, been promoted twice, and been described by her manager as "the person we can always count on." She had also answered emails at midnight, worked through every vacation, taken on every emergency request, and never said no to any deadline.

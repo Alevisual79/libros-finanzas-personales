@@ -1,17 +1,12 @@
 # Errores Financieros del Emprendedor
-## Los siete errores que matan negocios rentables
 
 **Serie 05: Dinero y Finanzas del Negocio — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Los siete errores que matan negocios rentables
 
 ### Prólogo
 Elena Ruben e Isabel cometen los mismos errores financieros que cometen la mayoría de los emprendedores: mezclar dinero personal y de negocio ignorar el flujo de caja y no entender sus margenes.

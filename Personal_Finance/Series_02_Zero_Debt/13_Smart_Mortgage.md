@@ -1,17 +1,12 @@
 # Smart Mortgage
-## What Your Home Loan Should and Should Not Cost You
 
 **Series 2: Zero Debt — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Your Home Loan Should and Should Not Cost You
 
 ### Prologue
 Isabel had been making her mortgage payment every month for eleven years without once sitting down to understand what it actually was. The number arrived in her bank statement like a fact of nature — $1,347 per month, consistent and inevitable, the price of the home she lived in. She knew she owed "around $180,000 still" and had "about nineteen years left," but she had not looked at her amortization schedule since the closing, had never calculated her total interest cost over the loan's life, and had never investigated whether refinancing could reduce what she paid. She paid. The bank received. The relationship was, from her side of the table, entirely passive.

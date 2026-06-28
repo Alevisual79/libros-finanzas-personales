@@ -1,17 +1,12 @@
 # The Stress That Kills You Slowly
-## Chronic Stress and Your Health
 
 **Series 4: Mind and Emotions — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Chronic Stress and Your Health
 
 ### Prologue
 Stress killed Ruben's father at 58. Not in the way people mean when they say stress killed someone — not a sudden cardiac event during a fight with his boss. It was the cumulative physiological erosion of thirty years of chronic financial stress, extended working hours, inadequate sleep, and the persistent activation of a threat-response system that never fully deactivated.

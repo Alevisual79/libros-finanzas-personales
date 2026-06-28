@@ -1,7 +1,5 @@
 # El médico como aliado, no como oráculo
 
-## Cómo ser un paciente activo, bien informado y capaz de sacar el máximo del sistema sanitario
-
 **Serie Salud y Bienestar — Serie 5: Prevención y Chequeos — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo ser un paciente activo, bien informado y capaz de sacar el máximo del sistema sanitario
 
 ### Prólogo: La consulta de cinco minutos
 

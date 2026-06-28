@@ -1,17 +1,12 @@
 # Miedos específicos
-## Como enfrentar y superar las fobias que limitan tu vida
 
 **Serie 02: Ansiedad y Miedos — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como enfrentar y superar las fobias que limitan tu vida
 
 ### Prólogo
 Isabel tiene cincuenta y dos años y no puede volar en avion. Ha rechazado oportunidades de trabajo, ha evitado viajes familiares, ha organizado su vida entera alrededor de un miedo que sabe que es irracional pero que no puede ignorar. Cada vez que ha tenido que enfrentarlo ha recurrido a medicación o alcohol para manejarlo. Lo lleva con vergüenza, como si fuera una debilidad de carácter que una persona adulta y competente no debería tener. No es una debilidad de carácter. Es un aprendizaje condicionado del sistema nervioso que tiene un tratamiento específico, altamente efectivo, y frecuentemente más breve de lo que imagina.

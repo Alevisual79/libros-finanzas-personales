@@ -1,17 +1,12 @@
 # Trabajo en Remoto y Relaciones
-## Cómo mantener vínculos reales cuando no compartes espacio físico
 
 **Serie 06: Relaciones Laborales — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo mantener vínculos reales cuando no compartes espacio físico
 
 ### Prólogo
 Elena lleva dos años trabajando en remoto. Es, según sus propias metricas, más productiva que nunca. también se siente más sola que nunca en el contexto laboral. Y durante mucho tiempo no tuvo claro si esta segunda observación importaba realmente, comparada con la primera, hasta que empezó a notar que su desempeño a largo plazo dependia de algo más que de su productividad individual aislada.

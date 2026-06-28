@@ -1,17 +1,12 @@
 # Gaslighting
-## When someone makes you doubt your own reality
 
 **Series 9: Boundaries and Toxic Relationships — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When someone makes you doubt your own reality
 
 ### Prologue
 Camille had a specific memory that had returned to her repeatedly in the year after she left.

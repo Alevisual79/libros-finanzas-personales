@@ -1,17 +1,12 @@
 # Purpose and Health
-## How Meaning Shapes the Body
 
 **Series 10: Integrative Health — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Meaning Shapes the Body
 
 ### Prologue
 Purpose — a sense of direction, meaning, and reason for being — is among the most psychologically fundamental human needs. But the research increasingly shows that purpose is not merely psychologically important: it predicts physical health, disease onset, and mortality with effect sizes that rival established biomedical risk factors.

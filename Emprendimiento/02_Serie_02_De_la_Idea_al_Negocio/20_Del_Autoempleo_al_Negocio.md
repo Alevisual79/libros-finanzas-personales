@@ -1,17 +1,12 @@
 # Del Autoempleo al Negocio
-## Cómo construir un negocio que funcione cuando tu no estas
 
 **Serie 02: De la Idea al Negocio — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir un negocio que funcione cuando tu no estas
 
 ### Prólogo
 Carlos lleva dos años de emprendimiento y se ha dado cuenta de algo: si el se va de vacaciones dos semanas, el negocio para. El tiene un buen nivel de vida pero no tiene un negocio: tiene un puesto de trabajo donde el es el jefe y el empleado al mismo tiempo. Lucia quiere escalar pero cada vez que añade un cliente, ella trabaja más porque es la que entrega el servicio. Marcos lo tenía claro desde el principio: quería construir una empresa, no comprar un empleo. La transición del autoempleo al negocio real es la que más emprendedores no logran y la que determina si el emprendimiento fue una aventura personal o la construcción de algo que dura más que tu.

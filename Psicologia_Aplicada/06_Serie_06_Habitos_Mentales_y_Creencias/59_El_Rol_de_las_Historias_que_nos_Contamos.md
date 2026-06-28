@@ -1,17 +1,12 @@
 # El Rol de las Historias que nos Contamos
-## Como la narrativa personal determina tu vida
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como la narrativa personal determina tu vida
 
 ### Prólogo
 Isabel tiene una historia sobre si misma que cuenta de forma coherente: quien es, de dónde viene, que le paso, por qué es como es. Esta historia no es solo una descripción de los hechos: es una construcción que selecciona ciertos hechos, los organiza de cierta manera, les atribuye ciertos significados, y excluye otros que no encajan bien. Y esa historia, sin que Isabel lo haya decidido explicitamente, determina gran parte de lo que ella espera de si misma, de los otros, y del futuro. Este libro es sobre el poder de las narrativas personales y sobre como cambiarlas cuando ya no son las que queremos.

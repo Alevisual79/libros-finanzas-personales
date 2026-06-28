@@ -1,17 +1,12 @@
 # Long-Term Mental Wellbeing
-## Building a Life That Sustains Psychological Health Over Time
 
 **Series 7: Depression and Mental Wellbeing — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building a Life That Sustains Psychological Health Over Time
 
 ### Prologue
 Decades of research on what makes a life psychologically sustainable — what produces and maintains the wellbeing that is distinct from the absence of disorder — have yielded a picture that is more complex and more interesting than the popular conversation about mental health suggests. The conversation about wellbeing has too often been reduced to either the therapeutic frame (addressing what is wrong) or the positive psychology popularization (accumulating positive emotions through gratitude lists and optimism exercises). The research tells a more nuanced story: long-term psychological health is not primarily produced by feeling good in any given moment, or by the absence of difficulty, but by specific structural features of a life that create the conditions in which human beings characteristically flourish.

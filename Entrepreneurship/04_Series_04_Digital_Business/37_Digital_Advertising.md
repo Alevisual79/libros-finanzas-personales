@@ -1,17 +1,12 @@
 # Digital Advertising
-## How to make paid traffic work for your business
 
 **Series 04: Digital Business — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to make paid traffic work for your business
 
 ### Prologue
 For the first two years of her sustainable skincare brand, Leila relied entirely on organic marketing: content, community, and referrals. By the end of year two, she had $180,000 in annual revenue and a growing email list of 4,200 engaged subscribers. She was proud of what she had built without paid advertising — and she was worried that organic growth was plateauing. The same referral network was generating the same volume of new customers it had generated six months earlier; the content was attracting the same audience it had been attracting; the growth curve was flattening.

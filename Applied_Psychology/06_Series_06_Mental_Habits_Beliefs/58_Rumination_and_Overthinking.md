@@ -1,17 +1,12 @@
 # Rumination and Overthinking
-## Breaking Free from the Thought Loops That Keep You Stuck
 
 **Series 6: Mental Habits and Beliefs — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Breaking Free from the Thought Loops That Keep You Stuck
 
 ### Prologue
 The argument with her sister had been three weeks ago, and Paola was still in it. Not in the actual argument — that had ended with an unresolved silence that both of them had quietly retreated from — but in the mental version of it, which was ongoing. She had replayed it hundreds of times: what she had said, what her sister had said, what she should have said, what she wished she had not said, what her sister had probably really meant, what this said about their relationship, whether she was a person who handled conflict well (she clearly was not), whether this would affect her sister's wedding, whether she was too sensitive. She was not, she was aware, enjoying these thoughts. She was not solving anything with them. She was, in some important sense she could not quite articulate, doing something to herself with them that she did not choose and did not know how to stop.

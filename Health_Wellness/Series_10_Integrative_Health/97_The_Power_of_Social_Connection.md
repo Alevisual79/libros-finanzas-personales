@@ -1,17 +1,12 @@
 # The Power of Social Connection
-## Social Bonds as a Health Determinant
 
 **Series 10: Integrative Health — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Social Bonds as a Health Determinant
 
 ### Prologue
 Social connection — belonging to something beyond oneself, having people who matter and matter to us — is one of the most powerful predictors of health outcomes available. The effect sizes in the research are substantial: the mortality risk of social isolation is comparable to smoking 15 cigarettes per day.

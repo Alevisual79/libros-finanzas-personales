@@ -1,17 +1,12 @@
 # Dropshipping
-## The Real Economics of Selling Without Inventory
 
 **Series 9: Business & Extra Income — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Real Economics of Selling Without Inventory
 
 ### Prologue
 Dropshipping is perhaps the most aggressively marketed business model in the online entrepreneurship world. The pitch is compelling: sell products without buying inventory, without handling shipping, without a warehouse. Set up a store; find a supplier; pocket the margin.

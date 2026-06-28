@@ -1,17 +1,12 @@
 # Living 100 Years in Good Health
-## The Emerging Science of Maximum Healthspan
 
 **Series 7: Longevity and Aging — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Emerging Science of Maximum Healthspan
 
 ### Prologue
 The number of centenarians worldwide is growing rapidly — from approximately 151,000 in 2000 to over 600,000 today, with projections suggesting several million by 2050. These are not people eking out their final years in nursing homes. The most striking finding from centenarian research is that people who live to 100 tend to have been healthier than their peers for most of their lives — they are not just surviving longer, they are experiencing less disease for longer.

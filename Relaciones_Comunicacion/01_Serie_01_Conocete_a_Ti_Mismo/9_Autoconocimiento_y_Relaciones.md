@@ -1,17 +1,12 @@
 # Autoconocimiento y Relaciones
-## Como conocerte mejor transforma tus vínculos
 
 **Serie 01: Conocete a Ti Mismo — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como conocerte mejor transforma tus vínculos
 
 ### Prólogo
 El autoconocimiento tiene mala prensa. Se asocia con el narcisismo de quien habla solo de si mismo, con la navel-gazing de quien se mira el ombligo mientras el mundo gira. Pero el autoconocimiento real es exactamente lo opuesto: es la condición para dejar de proyectar en los demás lo que no ves en ti mismo.

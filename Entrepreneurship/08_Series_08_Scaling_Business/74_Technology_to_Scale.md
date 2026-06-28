@@ -1,17 +1,12 @@
 # Technology to Scale
-## Choosing, implementing, and getting value from the tools that grow with you
 
 **Series 08: Scaling Business — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Choosing, implementing, and getting value from the tools that grow with you
 
 ### Prologue
 When Thomas decided to upgrade his commercial cleaning company's technology infrastructure, he made the decision the way most founders make it: he attended a trade show, spoke with several software vendors, and selected the platform with the most features and the most impressive demo. The implementation took five months and cost $180,000. Eighteen months later, sixty percent of the system's features were unused, two of the four modules had been turned off because they required workflow changes his team hadn't adopted, and the integration between the new software and his accounting system was still producing errors.

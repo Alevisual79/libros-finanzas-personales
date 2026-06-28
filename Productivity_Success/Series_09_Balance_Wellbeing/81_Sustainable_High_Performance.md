@@ -1,17 +1,12 @@
 # Sustainable High Performance
-## The science of performing at your best without destroying your health
 
 **Series 9: Balance and Wellbeing — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The science of performing at your best without destroying your health
 
 ### Prologue
 Dr. Sarah Chen had been called "the most productive person in her department" for three consecutive years. She published more papers, saw more patients, and chaired more committees than any of her colleagues. She was the first to arrive and the last to leave. She responded to emails within minutes at 11 p.m. She had not taken a proper vacation in four years.

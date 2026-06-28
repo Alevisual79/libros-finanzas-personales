@@ -1,7 +1,5 @@
 # La salud mental es salud
 
-## Desmontar el estigma, integrar la psicología en el cuidado y construir bienestar psicológico duradero
-
 **Serie Salud y Bienestar — Serie 4: Mente y Emociones — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Desmontar el estigma, integrar la psicología en el cuidado y construir bienestar psicológico duradero
 
 ### Prólogo: La salud que falta
 

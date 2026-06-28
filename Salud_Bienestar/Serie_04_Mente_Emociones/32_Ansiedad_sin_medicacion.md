@@ -1,7 +1,5 @@
 # Ansiedad sin medicación de por vida
 
-## Herramientas que funcionan para el día a día cuando la ansiedad no desaparece sola
-
 **Serie Salud y Bienestar — Serie 4: Mente y Emociones — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Herramientas que funcionan para el día a día cuando la ansiedad no desaparece sola
 
 ### Prólogo: El acompañante no invitado
 

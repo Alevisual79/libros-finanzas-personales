@@ -1,17 +1,12 @@
 # The Evening Routine
-## How You End Your Day Determines How You Begin the Next
 
 **Series 6: Habits and Routines — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How You End Your Day Determines How You Begin the Next
 
 ### Prologue
 Most productivity and health advice focuses on the morning routine: wake early, exercise, eat well, meditate, set intentions. Less attention is paid to what creates the conditions for a good morning — the evening that precedes it. The choices made in the two to three hours before sleep shape sleep quality, next-day cognitive function, emotional regulation, and how well intentions are executed when morning actually arrives.

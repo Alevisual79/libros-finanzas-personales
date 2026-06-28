@@ -1,17 +1,12 @@
 # Forgiveness as Liberation
-## Forgiving not for the other but for yourself
 
 **Series 8: Repair and Heal — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Forgiving not for the other but for yourself
 
 ### Prologue
 Marcus had been asked, by his therapist, what he thought forgiveness would feel like.

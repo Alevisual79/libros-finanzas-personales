@@ -1,17 +1,12 @@
 # Finance for Scaling
-## The financial infrastructure that supports business growth
 
 **Series 05: Business Finance — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The financial infrastructure that supports business growth
 
 ### Prologue
 For the first four years, Rachel's HR technology consulting practice grew steadily and profitably: revenue from $180,000 in year one to $840,000 in year four, margins consistently healthy, cash flow manageable. The financial management that had worked for a solo practice with two contractors worked because the business was small enough that Rachel could hold its financial picture in her head.

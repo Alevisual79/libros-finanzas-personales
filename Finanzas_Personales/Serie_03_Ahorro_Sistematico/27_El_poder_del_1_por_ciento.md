@@ -1,7 +1,5 @@
 # El poder del 1%
 
-## Mejorar las finanzas en pequeños pasos que se acumulan de forma exponencial
-
 **Serie Finanzas Personales — Serie 3: Ahorro Sistemático — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Mejorar las finanzas en pequeños pasos que se acumulan de forma exponencial
 
 ### Prólogo: El ciclismo y las finanzas
 

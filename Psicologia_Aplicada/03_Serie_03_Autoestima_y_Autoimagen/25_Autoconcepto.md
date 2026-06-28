@@ -1,17 +1,12 @@
 # Autoconcepto
-## La historia que te cuentas sobre ti mismo y si es verdad
 
 **Serie 03: Autoestima y Autoimagen — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La historia que te cuentas sobre ti mismo y si es verdad
 
 ### Prólogo
 Isabel se describe a si misma de formas muy específicas cuando alguien le pregunta como es: soy una persona muy ansiosa, no soy creativa, soy mejor trabajando sola que en equipo, nunca he sido buena con los números. Cada una de estas afirmaciones las hace con la certeza de quien describe un hecho objetivo. Pero si la presionamos un poco, descubrimos que la mayoría de ellas son interpretaciones de experiencias pasadas que se solidificaron en certezas sobre el yo. El autoconcepto no es un retrato fiel de quien eres. Es la historia que te cuentas sobre quien eres, y como toda historia, selecciona, omite y enfatiza de formas que no siempre corresponden con la realidad completa.

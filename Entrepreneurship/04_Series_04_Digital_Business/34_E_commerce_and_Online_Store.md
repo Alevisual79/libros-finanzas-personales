@@ -1,17 +1,12 @@
 # E-commerce and Online Store
-## Building a profitable online store in a competitive market
 
 **Series 04: Digital Business — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building a profitable online store in a competitive market
 
 ### Prologue
 When Sam launched her online store selling handmade leather goods — wallets, bags, and accessories made from ethically sourced vegetable-tanned leather — she joined an e-commerce market with millions of sellers, several dominant platforms, and no obvious reason why another handmade leather goods store should exist. Three years later, her store generates $380,000 annually, employs two part-time craftspeople, and has a waiting list for custom orders. She did not compete on price (her wallet costs $125 versus $25 for the next most accessible alternative). She did not compete on marketing budget. She competed on story, craftsmanship transparency, and the specific values that a specific, growing segment of consumers is willing to pay significantly more to align with.

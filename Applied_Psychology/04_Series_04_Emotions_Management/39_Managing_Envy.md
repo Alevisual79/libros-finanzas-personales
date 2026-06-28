@@ -1,17 +1,12 @@
 # Managing Envy
-## From a Destructive Emotion to a Useful Signal
 
 **Series 4: Emotions and Emotional Management — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## From a Destructive Emotion to a Useful Signal
 
 ### Prologue
 Clara and Sofia had been close friends since graduate school. When Sofia's first novel was published to significant critical attention, Clara discovered something in herself she hadn't known was there: a persistent, uncomfortable response to her friend's success that went beyond simple joy and contained, alongside genuine pleasure for Sofia, a quality she recognized with shame as envy. She wanted what Sofia had — not instead of her, not without wanting Sofia to have it, but alongside the genuine happiness. The envy was uncomfortable precisely because it coexisted with real love for her friend and real joy at her success. Clara had always thought of envy as a simple, ugly emotion that clean-hearted people didn't feel. What she was discovering was considerably more complicated.

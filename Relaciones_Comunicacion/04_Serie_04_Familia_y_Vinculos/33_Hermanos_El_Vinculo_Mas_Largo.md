@@ -1,17 +1,12 @@
 # Hermanos: El Vínculo Más Largo
-## Cómo gestionar la relación con hermanos a lo largo de la vida
 
 **Serie 04: Familia y Vínculos — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo gestionar la relación con hermanos a lo largo de la vida
 
 ### Prólogo
 Ruben tiene dos hermanos. No se han hablado en tres años. Ninguno recuerda con precisión como empezó el distanciamiento: una discusión sobre la herencia de sus padres que se mezclo con resentimientos más antiguos que ninguno había nombrado nunca. Lo que queda es el silencio, y la sensación de que el tiempo que pasa hace cada vez más difícil romperlo.

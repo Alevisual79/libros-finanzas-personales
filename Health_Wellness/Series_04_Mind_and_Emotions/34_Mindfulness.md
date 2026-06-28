@@ -1,17 +1,12 @@
 # Mindfulness
-## The Evidence Behind the Practice
 
 **Series 4: Mind and Emotions — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Evidence Behind the Practice
 
 ### Prologue
 Mindfulness has been commodified, commercialized, and claimed by wellness culture to the point where many thoughtful people are instinctively skeptical of it. This is understandable — the same word is applied to everything from serious 8-week clinical programs to $200 meditation apps.

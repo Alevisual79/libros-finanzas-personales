@@ -1,7 +1,5 @@
 # Análisis de sangre: Cómo leer los tuyos
 
-## Entender los números que el médico no tiene tiempo de explicar en los cinco minutos de consulta
-
 **Serie Salud y Bienestar — Serie 5: Prevención y Chequeos — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entender los números que el médico no tiene tiempo de explicar en los cinco minutos de consulta
 
 ### Prólogo: El papel lleno de números que nadie explica
 

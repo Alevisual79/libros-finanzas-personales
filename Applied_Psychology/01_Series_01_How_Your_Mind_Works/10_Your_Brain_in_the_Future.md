@@ -1,17 +1,12 @@
 # Your Brain in the Future
-## Neuroscience, Technology, and the Evolving Mind
 
 **Series 1: How Your Mind Works — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Neuroscience, Technology, and the Evolving Mind
 
 ### Prologue
 Leila was 34 when she participated in a brain-computer interface research study at a university neuroscience lab. Electrodes placed on her scalp recorded her brain activity as she imagined moving a cursor on a screen — and the cursor moved. It was clumsy and imprecise, but it was also startling in a way that she hadn't anticipated: the technology made visible something about her own mind that she had never directly seen. In the days afterward, she found herself thinking differently about the brain she had always experienced but never observed. What was it becoming? What would it become in her children's lifetimes? What were the limits of its transformation, and did those limits matter?

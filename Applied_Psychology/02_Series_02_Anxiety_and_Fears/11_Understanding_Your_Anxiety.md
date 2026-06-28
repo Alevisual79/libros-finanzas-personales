@@ -1,17 +1,12 @@
 # Understanding Your Anxiety
-## The Science Behind Your Nervous System's Alarm Response
 
 **Series 2: Anxiety and Fears — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science Behind Your Nervous System's Alarm Response
 
 ### Prologue
 Marcus had his first panic attack in the cereal aisle of a grocery store. He was thirty-four years old, a project manager who had navigated deadlines, difficult clients, and the ordinary turbulence of adult life without much psychological drama. Then, on a Tuesday afternoon with a box of granola in his hand, his heart began to race, his vision narrowed, and a wave of absolute certainty told him he was dying. He wasn't. He was experiencing what millions of people experience every year — an alarm system in full, unmistakable, overwhelming activation. But he didn't know that yet.

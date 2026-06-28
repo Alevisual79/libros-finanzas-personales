@@ -1,17 +1,12 @@
 # The Psychology of Influence
-## How and Why We Are Persuaded — and How to Protect Yourself
 
 **Series 9: Social Psychology and Influence — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How and Why We Are Persuaded — and How to Protect Yourself
 
 ### Prologue
 Robert Cialdini's "Influence: The Psychology of Persuasion" — first published in 1984 and still one of the best-selling books in behavioral science — began with a confession: Cialdini believed he was among the most easily persuaded people he knew, and this susceptibility had motivated his systematic study of what made people say yes. His investigation led him to three years of undercover fieldwork in the influence industries — sales, marketing, fundraising, recruitment, public relations — and to the identification of six "weapons of influence" that practitioners in these fields had discovered, often without formal psychological training, through decades of trial and error.

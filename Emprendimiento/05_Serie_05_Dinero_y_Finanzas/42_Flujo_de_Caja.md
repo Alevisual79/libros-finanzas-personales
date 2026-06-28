@@ -1,17 +1,12 @@
 # Flujo de Caja
-## El pulso que mantiene vivo el negocio
 
 **Serie 05: Dinero y Finanzas del Negocio — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El pulso que mantiene vivo el negocio
 
 ### Prólogo
 Carlos tiene un negocio rentable sobre el papel pero en agosto no puede pagar la nómina del colaborador porque los clientes grandes pagan a noventa dias. Lucia ha tenido su mejor año en facturación pero en diciembre tiene menos dinero en el banco que a principio de año porque ha invertido mucho sin planificarlo. Marcos viene del mundo corporativo donde había un departamento de tesoreria que gestionaba el flujo de caja y ahora descubre que esa es su responsabilidad personal. Los tres necesitan entender algo crítico: el flujo de caja no es lo mismo que el beneficio. Y un negocio puede morir de falta de liquidez aunque sea rentable.

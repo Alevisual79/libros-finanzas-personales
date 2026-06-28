@@ -1,17 +1,12 @@
 # The Body After 40
-## Exercise and Health in the Decade That Changes Everything
 
 **Series 2: Movement and Body — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Exercise and Health in the Decade That Changes Everything
 
 ### Prologue
 The 40s are the decade when the body's physiological changes become impossible to ignore. Recovery takes longer. Muscle seems harder to maintain. The weight that was easy to lose at 30 doesn't respond the same way at 42. Sleep is less restorative. Joints make new noises.

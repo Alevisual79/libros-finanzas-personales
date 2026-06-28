@@ -1,7 +1,5 @@
 # El sueño de los hijos y el desvelo de los padres
 
-## Rutinas de sueño para toda la familia cuando el cansancio amenaza con ser el estado permanente
-
 **Serie Salud y Bienestar — Serie 3: Sueño y Descanso — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Rutinas de sueño para toda la familia cuando el cansancio amenaza con ser el estado permanente
 
 ### Prólogo: El cansancio que no termina
 

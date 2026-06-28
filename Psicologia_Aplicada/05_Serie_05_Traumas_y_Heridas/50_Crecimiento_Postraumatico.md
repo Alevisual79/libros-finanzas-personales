@@ -1,17 +1,12 @@
 # Crecimiento Postraumatico
-## Como salir transformado de lo que creo que te iba a destruir
 
 **Serie 05: Traumas y Heridas — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como salir transformado de lo que creo que te iba a destruir
 
 ### Prólogo
 Ruben no habría elegido lo que le ocurrio. La crisis que pensó que lo destruiria. La relación que terminó en circunstancias devastadoras. El año en que todo parecio venirse abajo al mismo tiempo. No habría elegido ninguna de esas experiencias. Y sin embargo, si tuviera que describir quien es ahora en comparación con quien era antes de ellas, tendría que admitir que hay partes suyas que no estarian ahí sin el proceso de atravesar lo que creía que lo iba a destruir. Este libro es sobre ese fenómeno: el crecimiento postraumatico. No como promesa de que todo el sufrimiento produce crecimiento, porque no es cierto. Sino como documentación de un proceso real que ocurre en muchas personas.

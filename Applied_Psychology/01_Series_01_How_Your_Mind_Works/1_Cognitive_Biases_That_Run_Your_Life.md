@@ -1,17 +1,12 @@
 # Cognitive Biases That Run Your Life
-## The 20 Most Influential Biases and How to Manage Them
 
 **Series 1: How Your Mind Works — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The 20 Most Influential Biases and How to Manage Them
 
 ### Prologue
 Marcus had spent three weeks researching laptops before making his purchase. He read reviews, compared specifications, and consulted friends. Yet within hours of buying, he found himself dismissing articles that criticized his chosen brand and gravitating toward forums where users praised it. He wasn't lying to himself, exactly — he genuinely believed the positive content was more credible. But something subtle had hijacked his reasoning, something operating entirely beneath his conscious awareness.

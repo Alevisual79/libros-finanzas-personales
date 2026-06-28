@@ -1,17 +1,12 @@
 # Intentional Digital Disconnection
-## How to recover presence in a world of notifications
 
 **Series 10: Relationships in the Digital Age — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to recover presence in a world of notifications
 
 ### Prologue
 Mia had taken three days off from social media in January and had found the experience so uncomfortable that she had ended it after thirty-six hours.

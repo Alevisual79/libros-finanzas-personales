@@ -1,17 +1,12 @@
 # Rewrite Your Financial Story
-## The Narrative That Determines Your Future
 
 **Series 1: Financial Mindset — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Narrative That Determines Your Future
 
 ### Prologue
 Ruben had never told anyone his financial story out loud. Not because it was particularly dramatic, but because telling it would require acknowledging the pattern — the version of events that made sense of how he'd ended up at 34 with no retirement savings and $9,000 in credit card debt.

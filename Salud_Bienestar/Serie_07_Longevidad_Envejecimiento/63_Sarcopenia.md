@@ -1,7 +1,5 @@
 # Sarcopenia: La pérdida de músculo que nadie menciona
 
-## Por qué el músculo es la clave de la longevidad y cómo preservarlo en cada década de vida
-
 **Serie Salud y Bienestar — Serie 7: Longevidad y Envejecimiento — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué el músculo es la clave de la longevidad y cómo preservarlo en cada década de vida
 
 ### Prólogo: La fuerza que se escapa sin que nadie lo note
 

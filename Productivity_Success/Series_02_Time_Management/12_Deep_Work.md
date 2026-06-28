@@ -1,17 +1,12 @@
 # Deep Work
-## The competitive advantage that almost no one is developing
 
 **Series 2: Time Management — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The competitive advantage that almost no one is developing
 
 ### Prologue
 Rafa had not had a genuinely quiet workday in years. He could not remember the last time he had sat with a complex problem for three uninterrupted hours. The mornings were eaten by email that had arrived overnight; the meetings began at nine and often ran until noon; the afternoons were a mix of Slack messages, back-to-back calls, and the half-hour fragments between them that he used to catch up on everything else. He produced output continuously. He almost never produced anything he was truly proud of.

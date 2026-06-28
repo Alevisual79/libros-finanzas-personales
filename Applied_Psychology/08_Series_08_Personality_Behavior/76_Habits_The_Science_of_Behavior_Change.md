@@ -1,17 +1,12 @@
 # Habits: The Science of Behavior Change
-## How Automatic Behavior Works and How to Change It
 
 **Series 8: Personality and Behavior — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Automatic Behavior Works and How to Change It
 
 ### Prologue
 The ritual was so automatic that Lucas had difficulty explaining it to his therapist when she asked him to describe what happened between arriving home from work and watching television. He arrived home. He changed clothes. He made a snack. He sat on the couch. At some point, the television was on. He was not certain when each step had initiated; the sequence had achieved a fluency that made its individual components nearly invisible. The whole sequence occupied perhaps fifteen minutes. In those fifteen minutes, the decisions about where to spend the next several hours of his life — decisions that, made deliberately, might have been made very differently — had effectively been made without his participation.

@@ -1,17 +1,12 @@
 # Energy Not Time
-## Why managing your energy is more important than managing your hours
 
 **Series 4: High Performance Habits — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why managing your energy is more important than managing your hours
 
 ### Prologue
 Marcus noticed the pattern in the data he had been gathering on his own professional performance for three months. He had been tracking his output quality at hourly intervals throughout each workday, using a simple five-point scale. The pattern was consistent across the weeks: peak quality between 8:00 and 11:00 AM, declining through the afternoon, with a modest recovery between 4:00 and 6:00 PM before falling again in the evening.

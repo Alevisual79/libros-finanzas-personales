@@ -1,7 +1,5 @@
 # Herencias y donaciones: Cómo pagar lo mínimo legal
 
-## Impuesto de sucesiones por comunidades, estrategias y planificación
-
 **Serie Finanzas Personales — Serie 10: Impuestos y Patrimonio — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Impuesto de sucesiones por comunidades, estrategias y planificación
 
 ### Prólogo: La llamada de teléfono que no esperaban
 

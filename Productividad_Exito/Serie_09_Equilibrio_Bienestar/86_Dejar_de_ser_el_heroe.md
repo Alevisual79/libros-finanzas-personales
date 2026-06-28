@@ -1,7 +1,5 @@
 # Dejar de ser el héroe
 
-## Cómo dejar de hacerlo todo tú y permitir que otros ayuden
-
 **Serie Productividad y Éxito — Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo dejar de hacerlo todo tú y permitir que otros ayuden
 
 ### Prólogo: El salvavidas que se está ahogando
 

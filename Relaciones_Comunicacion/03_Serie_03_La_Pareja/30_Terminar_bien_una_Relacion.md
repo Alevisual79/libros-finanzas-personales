@@ -1,17 +1,12 @@
 # Terminar bien una Relación
-## Como cerrar un ciclo de pareja con dignidad y aprendizaje
 
 **Serie 03: La Pareja — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como cerrar un ciclo de pareja con dignidad y aprendizaje
 
 ### Prólogo
 No todas las relaciones estan destinadas a durar para siempre, y eso no significa que hayan sido un fracaso. Algunas relaciones cumplen su proposito en un período de la vida y luego, naturalmente o por circunstancias, llegan a su fin. La forma en que ese final se gestiona determina en gran medida el daño que produce, tanto en el momento como en la capacidad de ambas personas de seguir adelante y de confiar de nuevo en el futuro.

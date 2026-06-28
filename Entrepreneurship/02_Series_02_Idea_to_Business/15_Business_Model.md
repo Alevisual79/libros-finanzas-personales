@@ -1,17 +1,12 @@
 # Business Model
-## Choosing how your company makes money is the most strategic decision
 
 **Series 02: From Idea to Business — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Choosing how your company makes money is the most strategic decision
 
 ### Prologue
 Two entrepreneurs built businesses solving the same problem: helping small restaurants manage their supply chain orders more efficiently. One built a SaaS platform charging $150 per month per restaurant; the other built a marketplace connecting restaurants to suppliers, taking a 3% transaction fee on every order placed. Both products were technically equivalent. Both served the same customer with the same solution to the same problem. Five years later, one business had $4 million in annual recurring revenue and was growing at 25% per year. The other had $800,000 in revenue and had plateaued. The difference was not the product. It was the business model.

@@ -1,17 +1,12 @@
 # The Freelance Economy and AI
-## Building a Sustainable Independent Practice
 
 **Series 9: Future of Work — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building a Sustainable Independent Practice
 
 ### Prologue
 Ruben's freelance business was threatened and empowered by the same technology. AI could replace some of what he offered; it could not replace his client relationships, his judgment, or his ability to translate a client's vague instinct into a clear strategy.

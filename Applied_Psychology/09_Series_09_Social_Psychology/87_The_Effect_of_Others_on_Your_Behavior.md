@@ -1,17 +1,12 @@
 # The Effect of Others on Your Behavior
-## How Social Presence Shapes What We Do and Who We Are
 
 **Series 9: Social Psychology and Influence — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Social Presence Shapes What We Do and Who We Are
 
 ### Prologue
 Gordon Allport's classic definition of social psychology — the scientific study of how the actual, imagined, or implied presence of other people affects an individual's thoughts, feelings, and behavior — contains a phrase that deserves more attention than it typically receives: "imagined or implied presence." We are not merely affected by the people who are physically present with us; we are affected by the people we imagine are watching us, by the internalized standards of social groups we belong to, and by the presence of others implied by the social contexts we inhabit even when no one specific is actually there.

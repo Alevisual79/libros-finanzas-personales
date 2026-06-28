@@ -1,17 +1,12 @@
 # Conformity and Dissent
-## The Psychology of Going Along and Speaking Up
 
 **Series 9: Social Psychology and Influence — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Psychology of Going Along and Speaking Up
 
 ### Prologue
 In November 2001, a flight attendant on American Airlines Flight 63 noticed something suspicious about a passenger who was attempting to light his shoe. She was not certain; the behavior was ambiguous; other crew members did not appear alarmed. She was aware, on some level, that raising the alarm would create a scene, might be wrong, might embarrass the passenger if the behavior was innocent, and might require her to be the person who made an uncomfortable situation uncomfortable. She raised the alarm. The passenger — Richard Reid, the "shoe bomber" — was restrained. The 197 people on board survived.

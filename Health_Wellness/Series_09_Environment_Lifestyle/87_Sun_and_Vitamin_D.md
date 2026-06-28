@@ -1,17 +1,12 @@
 # Sun and Vitamin D
-## The Solar-Nutrient Paradox and Your Health
 
 **Series 9: Environment and Lifestyle — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Solar-Nutrient Paradox and Your Health
 
 ### Prologue
 The sun is the source of life on Earth — and a significant source of health in human beings. Sunlight drives Vitamin D synthesis, regulates circadian rhythms, and influences mood through mechanisms that go beyond Vitamin D itself. And yet the sun is also the primary environmental cause of skin cancer, the most common cancer in the United States.

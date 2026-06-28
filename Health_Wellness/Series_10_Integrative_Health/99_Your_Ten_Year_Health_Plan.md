@@ -1,17 +1,12 @@
 # Your Ten-Year Health Plan
-## Designing Your Long-Term Health Strategy
 
 **Series 10: Integrative Health — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Designing Your Long-Term Health Strategy
 
 ### Prologue
 Most health behavior is driven by crisis: symptoms appear, a diagnosis is made, or a frightening test result arrives — and then action is taken. Preventive health, by contrast, requires acting in the absence of immediate consequences: eating well when you feel fine, exercising when nothing hurts, scheduling preventive screenings when you have no symptoms.

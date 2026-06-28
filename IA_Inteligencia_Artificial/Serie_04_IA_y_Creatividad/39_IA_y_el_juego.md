@@ -1,17 +1,12 @@
 # IA y el juego
-## Diseno de juegos, mundos procedurales y experiencias interactivas
 
 **Serie 4: IA y Creatividad — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Diseno de juegos, mundos procedurales y experiencias interactivas
 
 ### Prólogo
 Elena, Ruben e Isabel se reunieron para hablar de un tema que les preocupaba a los tres por razones distintas: la creatividad en la era de la IA.

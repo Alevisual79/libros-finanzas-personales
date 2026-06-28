@@ -1,17 +1,12 @@
 # Social Comparison
-## How We Measure Ourselves Against Others — and Why It Hurts
 
 **Series 3: Self-Esteem and Self-Image — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How We Measure Ourselves Against Others — and Why It Hurts
 
 ### Prologue
 Daniel had a friend from college who was, by most objective measures, doing well. Same field, adjacent work, reasonable career trajectory. Daniel kept up with this friend's life through a combination of direct conversation, LinkedIn updates, and social media, and found that this particular friend had the specific ability to make Daniel feel subtly diminished after every interaction — not through anything the friend said or did (he was genuinely kind) but through the simple fact of being, in certain visible ways, ahead: a more prestigious position, a larger apartment, a recently completed project that received recognition. Daniel noticed that he compared himself to this friend more often than to most people he knew, and that the comparison was nearly always unflattering. He also noticed that his other friend — the one who was doing less well in the same field — generated almost no comparison at all.

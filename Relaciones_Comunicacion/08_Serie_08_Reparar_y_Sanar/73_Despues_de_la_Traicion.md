@@ -1,17 +1,12 @@
 # Después de la Traición
-## Cómo vivir y decidir cuando alguien que amabas te fallo
 
 **Serie 08: Reparar y Sanar — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo vivir y decidir cuando alguien que amabas te fallo
 
 ### Prólogo
 Isabel descubrió que una persona de confianza le había mentido durante años, una mentira sostenida que reconfiguro retroactivamente su comprensión de toda la relación. No sabe con certeza si lo que siente es dolor, rabia o vergüenza. La respuesta, descubre con el tiempo, es que son los tres simultaneamente, entrelazados de una forma que ninguna emoción individual puede capturar completamente.

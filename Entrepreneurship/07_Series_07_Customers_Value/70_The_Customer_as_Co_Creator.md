@@ -1,17 +1,12 @@
 # The Customer as Co-Creator
-## Involving your customers in building what they need
 
 **Series 07: Customers and Value — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Involving your customers in building what they need
 
 ### Prologue
 After four years of building his supply chain analytics platform, Daniel had developed a clear philosophy about how product decisions should be made: gather customer feedback, filter it through the team's understanding of the market, and build what the product team believed would be most valuable. Customers provided the inputs; the product team made the decisions. It was a reasonable philosophy, and it produced reasonable results.

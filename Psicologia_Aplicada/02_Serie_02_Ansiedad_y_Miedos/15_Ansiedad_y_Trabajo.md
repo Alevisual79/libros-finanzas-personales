@@ -1,17 +1,12 @@
 # Ansiedad y Trabajo
-## Cómo gestionar el estrés laboral antes de que te queme
 
 **Serie 02: Ansiedad y Miedos — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo gestionar el estrés laboral antes de que te queme
 
 ### Prólogo
 Elena lleva tres años en una empresa donde la presión es constante, las expectativas son altas y la cultura implicitamente recompensa estar siempre disponible y siempre al borde del límite. No reconoce que tiene un problema. Reconoce que el domingo por la tarde tiene una ansiedad que le impide disfrutar el fin de semana. Reconoce que se despierta a las tres de la mañana pensando en trabajo. Reconoce que ha cancelado vacaciones dos veces porque no encontraba el momento oportuno para irse. Pero lo llama compromiso, exigencia consigo misma, profesionalidad. La linea entre el compromiso real y el daño real es más delgada de lo que cree.

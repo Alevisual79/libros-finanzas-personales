@@ -1,17 +1,12 @@
 # Fear of Failure
-## Overcoming the Anxiety That Holds You Back
 
 **Series 2: Anxiety and Fears — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Overcoming the Anxiety That Holds You Back
 
 ### Prologue
 Zack had been working on the same novel for eleven years. He had 340 pages of draft, two complete alternative openings, detailed character notes that ran to sixty pages, and an outline for the remaining third that he had rewritten four times. He had not shown any of it to anyone. When pressed by friends who knew about the project, he described himself as a perfectionist who wanted to get it right before sharing. The more honest answer, which he arrived at in therapy at 41, was simpler: as long as the novel remained unfinished and unread, it could not fail. Incompletion was the strategy. The fear of failure was the engine.

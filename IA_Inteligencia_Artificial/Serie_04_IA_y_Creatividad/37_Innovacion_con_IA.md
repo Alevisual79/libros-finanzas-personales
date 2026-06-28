@@ -1,17 +1,12 @@
 # Innovación con IA
-## Como la IA está acelerando el proceso de ideación y diseño de productos
 
 **Serie 4: IA y Creatividad — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como la IA está acelerando el proceso de ideación y diseño de productos
 
 ### Prólogo
 Elena, Ruben e Isabel se reunieron para hablar de un tema que les preocupaba a los tres por razones distintas: la creatividad en la era de la IA.

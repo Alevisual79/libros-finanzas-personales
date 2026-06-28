@@ -1,17 +1,12 @@
 # AI Copywriting
-## Marketing Content in the Age of Intelligent Generation
 
 **Series 4: AI and Creativity — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Marketing Content in the Age of Intelligent Generation
 
 ### Prologue
 Ruben's content agency doubled output in one quarter after integrating AI into the copywriting process. Revenue did not double. The market was figuring out that more content was not the same as more value. The reckoning for the industry had begun.

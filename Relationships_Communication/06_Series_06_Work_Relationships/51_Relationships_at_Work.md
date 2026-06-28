@@ -1,17 +1,12 @@
 # Relationships at Work
-## How to build professional bonds that enhance your life
 
 **Series 6: Work Relationships — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to build professional bonds that enhance your life
 
 ### Prologue
 Sandra had been in her new management role for six weeks when she understood, with uncomfortable clarity, that her previous model of professional success was inadequate for the job she now had.

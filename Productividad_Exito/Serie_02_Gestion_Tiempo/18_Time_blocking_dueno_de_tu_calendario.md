@@ -1,7 +1,5 @@
 # Time blocking: Dueño de tu calendario
 
-## Bloquear tiempo para lo que importa antes de que lo robe lo urgente
-
 **Serie Productividad y Éxito — Serie 2: Gestión del Tiempo — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Bloquear tiempo para lo que importa antes de que lo robe lo urgente
 
 ### Prólogo: El ingeniero que diseña su tiempo
 

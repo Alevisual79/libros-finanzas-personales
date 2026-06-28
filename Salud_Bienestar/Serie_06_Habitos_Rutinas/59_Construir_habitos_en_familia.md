@@ -1,7 +1,5 @@
 # Construir hábitos en familia
 
-## Cómo alinear a todos en casa hacía una vida más saludable sin convertirlo en una guerra
-
 **Serie Salud y Bienestar — Serie 6: Hábitos y Rutinas — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo alinear a todos en casa hacía una vida más saludable sin convertirlo en una guerra
 
 ### Prólogo: La familia que no acompaña
 

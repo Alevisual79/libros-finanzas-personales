@@ -1,17 +1,12 @@
 # Failure as Teacher
-## What entrepreneurial failure teaches, how to learn it, and how to carry it forward
 
 **Series 09: Entrepreneur as Person — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What entrepreneurial failure teaches, how to learn it, and how to carry it forward
 
 ### Prologue
 The business had failed in the most ordinary way: not dramatically, not in a single catastrophic event, but gradually, through a slow attrition of the assumptions on which it had been built. Tom had spent four years building a marketplace for skilled tradespeople — a platform that would connect contractors with quality labor and give independent tradespeople reliable work. By year three, it was clear that the unit economics would never work at scale. By year four, the remaining capital was exhausted and the business was closed.

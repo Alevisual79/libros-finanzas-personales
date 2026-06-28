@@ -1,7 +1,5 @@
 # La declaración de la renta que te devuelve más
 
-## Deducciones reales que casi nadie aplica
-
 **Serie Finanzas Personales — Serie 10: Impuestos y Patrimonio — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Deducciones reales que casi nadie aplica
 
 ### Prólogo: Lo que Ana encontró revisando el borrador
 

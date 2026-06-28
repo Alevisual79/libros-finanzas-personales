@@ -1,7 +1,5 @@
 # Piel sana a cualquier edad
 
-## Lo que realmente funciona y lo que es marketing: evidencia, no promesas
-
 **Serie Salud y Bienestar — Serie 7: Longevidad y Envejecimiento — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que realmente funciona y lo que es marketing: evidencia, no promesas
 
 ### Prólogo: El mercado que te vende miedo
 

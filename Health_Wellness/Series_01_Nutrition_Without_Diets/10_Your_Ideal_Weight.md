@@ -1,17 +1,12 @@
 # Your Ideal Weight
-## What the Science Actually Says
 
 **Series 1: Nutrition Without Diets — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What the Science Actually Says
 
 ### Prologue
 The pursuit of an "ideal weight" drives enormous suffering. People diet, restrict, binge, yo-yo, and feel chronic shame about their bodies based on targets derived from population averages, aesthetic ideals, and charts developed 70 years ago. The evidence about what weight actually means for health — and what range is genuinely optimal for a specific individual — is considerably more nuanced than the number on a scale suggests.

@@ -1,7 +1,5 @@
 # El líder agotado
 
-## Cómo mantener la energía cuando liderar drena
-
 **Serie Productividad y Éxito — Serie 6: Liderazgo y Trabajo en Equipo — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo mantener la energía cuando liderar drena
 
 ### Prólogo: La pregunta que nadie hacía
 

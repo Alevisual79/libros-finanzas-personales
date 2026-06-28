@@ -1,7 +1,5 @@
 # Dormir en pareja cuando uno de los dos no deja dormir
 
-## Ronquidos, apnea y soluciones prácticas para recuperar el descanso compartido
-
 **Serie Salud y Bienestar — Serie 3: Sueño y Descanso — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Ronquidos, apnea y soluciones prácticas para recuperar el descanso compartido
 
 ### Prólogo: La cama compartida que separa
 

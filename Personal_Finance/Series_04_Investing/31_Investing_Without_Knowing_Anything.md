@@ -1,17 +1,12 @@
 # Investing Without Knowing Anything
-## Your First Steps in the Market
 
 **Series 4: Investing — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Your First Steps in the Market
 
 ### Prologue
 Elena opened her first investment account on a Sunday afternoon in February. She was 31 years old, had $14,000 in a high-yield savings account, and had been meaning to invest for two years. She had a 401(k) at work — she contributed enough to get the employer match — but she'd never bought anything in a brokerage account.

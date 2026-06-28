@@ -1,17 +1,12 @@
 # Healthy Environment Without Willpower
-## Designing Your Life to Make Health the Easy Choice
 
 **Series 6: Habits and Routines — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Designing Your Life to Make Health the Easy Choice
 
 ### Prologue
 The people we admire for their health habits are usually not disciplined in the way we imagine. They're not constantly resisting temptation through heroic acts of willpower. They have, often without fully recognizing it, arranged their environments so that healthy choices are the path of least resistance and unhealthy choices require more effort.

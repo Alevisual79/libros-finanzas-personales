@@ -1,17 +1,12 @@
 # Tristeza y Duelo
-## Como atravesar el dolor sin atascarse en el
 
 **Serie 04: Emociones y Gestión Emocional — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como atravesar el dolor sin atascarse en el
 
 ### Prólogo
 Isabel perdio a su madre hace ocho meses. Los primeros dos meses fueron de un dolor agudo que todos reconocian como duelo normal. A los tres meses, la expectativa implícita del entorno empezó a ser que ya debería estar mejor. A los seis, se sentía avergonzada de seguir sintiendose tan afectada. A los ocho, ha aprendido algo que nadie le ensenó: que el duelo no funciona según el calendario de la comodidad de los demás, y que la tristeza que sigue siendo intensa no es señal de que algo este mal en ella. Es señal de que amo mucho a quien perdio.

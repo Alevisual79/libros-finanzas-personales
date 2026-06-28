@@ -1,17 +1,12 @@
 # Relaciones en la Era Digital
-## Como navegar el amor, la amistad y el trabajo en el mundo conectado
 
 **Serie 10: Relaciones en la Era Digital — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como navegar el amor, la amistad y el trabajo en el mundo conectado
 
 ### Prólogo
 Elena tiene cuatrocientas conversaciones activas en su móvil. Tiene, según su propia evaluación honesta, cuatro relaciones que considera realmente reales y sostenidas. La hiperconectividad que la tecnología ofrece, descubre con el tiempo, no produce automáticamente conexión genuina. Frecuentemente, simplemente la simula con suficiente convincimiento para que la diferencia tarde en hacerse visible.

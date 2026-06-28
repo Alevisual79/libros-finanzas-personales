@@ -1,17 +1,12 @@
 # Pricing and Profitability
-## How to price with confidence and protect your margins
 
 **Series 03: Marketing and Sales — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to price with confidence and protect your margins
 
 ### Prologue
 When Elena started her business strategy consulting practice, she priced her first client engagement at $4,000 for a six-week project. The client accepted immediately — which she celebrated until a colleague mentioned that the client had budgeted $15,000 for the engagement and had expected to negotiate down to $10,000. She had left $6,000 to $11,000 on the table from her first client, based on a pricing decision made entirely from her fear of being told no.

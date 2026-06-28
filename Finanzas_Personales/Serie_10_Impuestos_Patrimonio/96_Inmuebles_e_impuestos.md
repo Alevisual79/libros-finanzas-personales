@@ -1,7 +1,5 @@
 # Inmuebles e impuestos: La combinación más compleja
 
-## IBI, plusvalía, rendimientos del capital y todo lo que afecta al propietario
-
 **Serie Finanzas Personales — Serie 10: Impuestos y Patrimonio — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## IBI, plusvalía, rendimientos del capital y todo lo que afecta al propietario
 
 ### Prólogo: El piso que nadie sabía que seguía costando dinero
 

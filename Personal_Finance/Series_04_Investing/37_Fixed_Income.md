@@ -1,17 +1,12 @@
 # Fixed Income
-## Bonds, Treasury Securities and Their Role
 
 **Series 4: Investing — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Bonds, Treasury Securities and Their Role
 
 ### Prologue
 Isabel, at 52, had an all-equity investment portfolio until her financial advisor introduced the concept of bond allocation. "You're getting closer to the years when you'll actually need this money," the advisor said. "Stocks can drop 40% right when you need to withdraw. Bonds provide a buffer."

@@ -1,7 +1,5 @@
 # Pensar distinto
 
-## Técnicas de pensamiento lateral para resolver problemas de forma nueva
-
 **Serie Productividad y Éxito — Serie 7: Creatividad e Innovación — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Técnicas de pensamiento lateral para resolver problemas de forma nueva
 
 ### Prólogo: El problema que se resolvió desde el lado equivocado
 

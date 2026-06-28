@@ -1,7 +1,5 @@
 # Pequeños cambios, grandes resultados
 
-## El método kaizen aplicado a la salud: por qué los cambios mínimos y consistentes ganan a los grandes y explosivos
-
 **Serie Salud y Bienestar — Serie 6: Hábitos y Rutinas — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El método kaizen aplicado a la salud: por qué los cambios mínimos y consistentes ganan a los grandes y explosivos
 
 ### Prólogo: El 1% que lo cambia todo
 

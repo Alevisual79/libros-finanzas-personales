@@ -1,17 +1,12 @@
 # Reconciliarse con el Pasado
-## Cómo integrar las relaciones difíciles en tu historia personal
 
 **Serie 08: Reparar y Sanar — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo integrar las relaciones difíciles en tu historia personal
 
 ### Prólogo
 Isabel tiene una historia relacional que preferiria no haber vivido: relaciones que la dañaron, decisiones que en retrospectiva lamenta, períodos enteros de su vida que asocia con dolor más que con crecimiento. La cuestión, descubre con el tiempo, no es borrar esa historia ni fingir que no ocurrio. Es encontrar la forma de integrarla en quien es hoy, sin que la defina completamente ni la mantenga prisionera de un pasado que ya no puede cambiar.

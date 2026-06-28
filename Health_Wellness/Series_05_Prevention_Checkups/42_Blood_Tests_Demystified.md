@@ -1,17 +1,12 @@
 # Blood Tests Demystified
-## What Your Lab Results Actually Mean
 
 **Series 5: Prevention and Checkups — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Your Lab Results Actually Mean
 
 ### Prologue
 Elena's annual lab results arrived in her online patient portal with a column of numbers, asterisks next to several values outside the "normal" range, and no context. She spent forty minutes on various health websites, became briefly alarmed about her liver, discovered that her mildly elevated ALT could mean everything from fatty liver disease to the fact that she had exercised the previous day, and eventually gave up and waited for her physician to call — who reached her 9 days later to say everything was fine.

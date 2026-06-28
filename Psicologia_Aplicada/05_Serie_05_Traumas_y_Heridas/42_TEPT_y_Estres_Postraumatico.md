@@ -1,17 +1,12 @@
 # TEPT y Estrés Postraumatico
-## Entender y tratar el trauma cuando no desaparece solo
 
 **Serie 05: Traumas y Heridas — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entender y tratar el trauma cuando no desaparece solo
 
 ### Prólogo
 Elena fue en un accidente de coche hace dos años. Fisicamente se recupero sin secuelas. Pero hay cosas que no han vuelto a ser iguales: no puede ir de pasajera sin tensarse completamente, los frenazos bruscos la disparan, hay noches en que se despierta con el corazón acelerado reviviendo el impacto. Su médico le dijo que era normal después de un accidente. Pero dos años después, las mismas reacciones siguen presentes con casi la misma intensidad. No se trata de que sea débil o de que no haya intentado superarlo. Se trata de que su sistema nervioso todavía no ha procesado completamente lo que ocurrio, y que ese procesamiento no ocurre automáticamente con el paso del tiempo.

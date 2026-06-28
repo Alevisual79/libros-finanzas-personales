@@ -1,17 +1,12 @@
 # Emergency Fund
-## Building Three to Six Months of Security
 
 **Series 3: Systematic Savings — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building Three to Six Months of Security
 
 ### Prologue
 Ruben's car failed its state inspection in February. The mechanic's estimate: $1,400 for repairs needed to pass. He had $380 in checking and $210 in a savings account he'd started three months earlier.

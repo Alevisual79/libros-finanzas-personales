@@ -1,17 +1,12 @@
 # Reprogram Your Inner Dialogue
-## How the voice in your head shapes your performance — and how to change what it says
 
 **Series 1: Mindset and Beliefs — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How the voice in your head shapes your performance — and how to change what it says
 
 ### Prologue
 The voice in Camila's head had a specific tone and a specific vocabulary. It said "you should have known better" after mistakes. It said "they're all watching" before presentations. It said "you'll never be as good as" before comparisons. It had been saying these things, in this tone, for as long as Camila could remember. It was so constant that it had become invisible — not a voice she heard but the medium through which she heard everything.

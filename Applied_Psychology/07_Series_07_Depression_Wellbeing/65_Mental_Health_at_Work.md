@@ -1,17 +1,12 @@
 # Mental Health at Work
-## Building Psychological Safety and Thriving in Professional Life
 
 **Series 7: Depression and Mental Wellbeing — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building Psychological Safety and Thriving in Professional Life
 
 ### Prologue
 Marcus had been at the company for six years when depression began affecting his work. He knew it before anyone else did — before his performance review showed it, before his manager noticed the dropped deadlines, before his colleagues began to wonder about the colleague who had previously been present and engaged and was now consistently late to meetings and quiet when he arrived. He had not told anyone. The decision was not primarily about shame, though shame was present. It was a practical calculation: he worked in a performance-driven culture in which vulnerability was a risk, and he was uncertain — not unreasonably, given what he knew about his workplace — that disclosure would be received as professionalism and treated with discretion rather than documented as a performance problem and held against him.

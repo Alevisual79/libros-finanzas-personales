@@ -1,17 +1,12 @@
 # Feedback From Reality
-## How to design a life that tells you the truth about your performance
 
 **Series 8: Learning and Development — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to design a life that tells you the truth about your performance
 
 ### Prologue
 The engineer in charge of the bridge project had been submitting optimistic progress reports for eleven months. The deadline was six weeks away. The structural challenges that had emerged in month four — the ones that would have required a significant timeline revision if they had been communicated directly — had been softened in the monthly updates, framed as "manageable risks" and "areas under active mitigation." The project sponsors had received no clear signal that the bridge would not be ready on time. Six weeks before the deadline, reality provided the feedback that the reporting system had withheld: the project was four months behind schedule.

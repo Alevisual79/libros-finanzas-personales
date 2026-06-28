@@ -1,17 +1,12 @@
 # Money Is Not Dirty
-## Dismantling the beliefs that keep you broke
 
 **Series 1: Financial Mindset — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Dismantling the beliefs that keep you broke
 
 ### Prologue
 Ruben grew up in a household where his parents never discussed money at the dinner table. It wasn't forbidden — it simply didn't happen. When he asked his mother why they couldn't afford a new bike one Christmas, she changed the subject. When his father got a raise, nobody mentioned it. Money was treated as something slightly shameful, like a bodily function: everyone had it, everyone dealt with it, and polite people didn't bring it up.

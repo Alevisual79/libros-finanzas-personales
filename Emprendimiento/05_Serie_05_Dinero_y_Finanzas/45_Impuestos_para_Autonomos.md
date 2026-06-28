@@ -1,17 +1,12 @@
 # Impuestos para Autonomos
-## Sin sorpresas con hacienda
 
 **Serie 05: Dinero y Finanzas del Negocio — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Sin sorpresas con hacienda
 
 ### Prólogo
 Carlos pago en la declaración de la renta del primer año como autonomo cinco mil euros más de lo que esperaba. Lucia paga sus impuestos correctamente pero nunca ha optimizado su situación fiscal y sospecha que paga más de lo que le corresponde. Marcos viene de haber tenido IRPF retenido en nómina durante veinte años y ahora tiene que gestionar sus propios impuestos por primera vez. Los tres necesitan entender el sistema fiscal del autonomo en España: no es complicado cuando se entiende la lógica. Es sorprendente cuando no se entiende y los vencimientos llegan inesperados.

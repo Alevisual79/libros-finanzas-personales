@@ -1,17 +1,12 @@
 # New Professions
-## Jobs That Will Exist in 2030 That Do Not Exist Today
 
 **Series 9: Future of Work — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Jobs That Will Exist in 2030 That Do Not Exist Today
 
 ### Prologue
 Elena's job title, 'AI Systems Integration Architect', did not exist five years ago. The skills it required were real and valuable. The profession had emerged because the technology had emerged. She wondered what the next generation of professions would look like.

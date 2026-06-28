@@ -1,17 +1,12 @@
 # Relaciones en el Trabajo
-## Cómo construir vínculos profesionales que potencien tu carrera y tu bienestar
 
 **Serie 06: Relaciones Laborales — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir vínculos profesionales que potencien tu carrera y tu bienestar
 
 ### Prólogo
 Elena trabaja con personas extraordinarias y se siente sola en la oficina. Llega, hace su trabajo con excelencia, y se va sin haber construido ninguna conexión real con quienes la rodean ocho horas al dia, cinco dias a la semana. Las relaciones laborales, descubre con el tiempo, no son simplemente herramientas instrumentales para conseguir objetivos profesionales. Son el tejido que determina si esas ocho horas diarias se viven con sentido de pertenencia o con aislamiento silencioso.

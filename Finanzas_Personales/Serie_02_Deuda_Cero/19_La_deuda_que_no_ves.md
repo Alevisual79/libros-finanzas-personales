@@ -1,7 +1,5 @@
 # La deuda que no ves
 
-## Suscripciones, hábitos y decisiones pequeñas que te cuestan más de lo que crees
-
 **Serie Finanzas Personales — Serie 2: Deuda Cero — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Suscripciones, hábitos y decisiones pequeñas que te cuestan más de lo que crees
 
 ### Prólogo: El dinero que desaparece sin rastro
 

@@ -1,7 +1,5 @@
 # Primero págate a ti
 
-## El sistema de ahorro automático que no requiere fuerza de voluntad
-
 **Serie Finanzas Personales — Serie 3: Ahorro Sistemático — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El sistema de ahorro automático que no requiere fuerza de voluntad
 
 ### Prólogo: El orden que lo cambia todo
 

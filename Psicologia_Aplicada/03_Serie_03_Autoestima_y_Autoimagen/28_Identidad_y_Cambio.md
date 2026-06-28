@@ -1,17 +1,12 @@
 # Identidad y Cambio
-## Como evolucionar sin perderte en el proceso
 
 **Serie 03: Autoestima y Autoimagen — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como evolucionar sin perderte en el proceso
 
 ### Prólogo
 Ruben tiene treinta y dos años y siente que se está convirtiendo en una persona diferente de quien era a los veinticinco. Sus valores han cambiado, sus prioridades han cambiado, su forma de relacionarse con el mundo ha cambiado. No esta seguro de si eso es bueno (he crecido) o malo (me he perdido en el camino). Esta pregunta, quien soy cuando ya no soy quien era, es una de las preguntas más fundamentales de la vida adulta y tiene respuestas más matizadas de lo que la cultura suele ofrecer.

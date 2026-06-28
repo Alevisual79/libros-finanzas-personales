@@ -1,17 +1,12 @@
 # El Cambio Personal Real
-## Por qué queremos cambiar y no cambiamos y como finalmente cambiar
 
 **Serie 10: Crecimiento Personal — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué queremos cambiar y no cambiamos y como finalmente cambiar
 
 ### Prólogo
 Elena lleva tres años diciendose que va a hacer ejercicio de forma regular. Ruben sabe exactamente que hábitos necesita cambiar para que su negocio funcione mejor y lleva meses sin cambiarlos. Isabel ha intentado delegar más y microgestionar menos en cuatro ocasiones distintas, con distintos grados de éxito y fracaso. Los tres quieren cambiar. Los tres saben que necesitan cambiar. Y sin embargo el cambio no llega o no dura. Este libro no es sobre motivación ni sobre fuerza de voluntad. Es sobre la psicología real del cambio: por qué es tan difícil, que lo hace posible, y que estrategias tienen respaldo empirico para que el cambio que quieres sea el cambio que tienes.

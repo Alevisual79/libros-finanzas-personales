@@ -1,17 +1,12 @@
 # Years of Work vs. Investment
-## The Trade-Offs Made Visible
 
 **Series 6: Financial Freedom — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Trade-Offs Made Visible
 
 ### Prologue
 Ruben did a calculation one evening that genuinely surprised him. He'd been working as a freelancer for 9 years. In those 9 years, he'd earned approximately $720,000 in gross income. After taxes, expenses, and living costs, he had $62,000 in investment accounts — approximately 8.6% of what he'd earned.

@@ -1,17 +1,12 @@
 # IA débil, IA fuerte, AGI
-## Desmontando los mitos sobre la superinteligencia y dónde estamos realmente
 
 **Serie 1: Fundamentos de IA — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Desmontando los mitos sobre la superinteligencia y dónde estamos realmente
 
 ### Prólogo: La pregunta del CEO
 

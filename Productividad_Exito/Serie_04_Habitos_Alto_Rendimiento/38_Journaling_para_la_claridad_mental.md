@@ -1,7 +1,5 @@
 # Journaling para la claridad mental
 
-## Escribir para pensar mejor, no para recordar
-
 **Serie Productividad y Éxito — Serie 4: Hábitos de Alto Rendimiento — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Escribir para pensar mejor, no para recordar
 
 ### Prólogo: El problema con los pensamientos en bucle
 

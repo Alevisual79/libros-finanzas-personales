@@ -1,17 +1,12 @@
 # Amistades que Duran
-## Como cultivar relaciones de amistad a largo plazo
 
 **Serie 05: Amistades y Relaciones Sociales — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como cultivar relaciones de amistad a largo plazo
 
 ### Prólogo
 Ruben tiene amigos del colegio con los que habla una vez al año. Los llama sus mejores amigos. En realidad son sus más antiguos conocidos: personas con quienes comparte historia pero con quienes ya no comparte vida real. La distinción, aunque incomoda, es importante para entender que hace que una amistad realmente dure en calidad, no solo en años de conocerse.

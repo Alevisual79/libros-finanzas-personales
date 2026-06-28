@@ -1,7 +1,5 @@
 # Tarjetas de crédito: El producto financiero más caro del mundo
 
-## Cómo funcionan, cómo te atrapan y cómo destruirlas de una vez por todas
-
 **Serie Finanzas Personales — Serie 2: Deuda Cero — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo funcionan, cómo te atrapan y cómo destruirlas de una vez por todas
 
 ### Prólogo: El plástico más rentable de la historia
 

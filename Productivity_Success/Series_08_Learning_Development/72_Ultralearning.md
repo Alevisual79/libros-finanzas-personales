@@ -1,17 +1,12 @@
 # Ultralearning
-## The strategies behind aggressive, self-directed skill acquisition
 
 **Series 8: Learning and Development — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The strategies behind aggressive, self-directed skill acquisition
 
 ### Prologue
 When Scott Young announced that he had completed the four-year MIT computer science curriculum in twelve months, teaching himself all the material from publicly available course recordings and textbooks and completing the same examinations as MIT students, the response in the learning community was a combination of incredulity and intense curiosity. Not because the feat was impossible — self-directed learning of challenging material has always been possible — but because the methodology was replicable: the principles Young had used to accelerate his learning were not genius-level specific but learnable general strategies.

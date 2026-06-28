@@ -1,17 +1,12 @@
 # Límites que Protegen
-## Cómo construir límites relacionales que funcionen de verdad
 
 **Serie 09: Límites y Relaciones Toxicas — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir límites relacionales que funcionen de verdad
 
 ### Prólogo
 Ruben sabe que necesita poner límites en varias de sus relaciones. Pero cuando llega el momento específico de hacerlo, siempre encuentra una razón plausible para postergarlo: no es el momento adecuado, podría malinterpretarse, quizás la situación mejore por si sola. El límite que nunca se dice, descubre eventualmente, no existe en ningún sentido práctico, sin importar cuanta claridad tenga internamente sobre su necesidad.

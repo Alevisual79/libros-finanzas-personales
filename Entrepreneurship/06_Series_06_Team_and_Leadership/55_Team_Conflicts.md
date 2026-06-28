@@ -1,17 +1,12 @@
 # Team Conflicts
-## Turning friction into fuel: how to address conflict before it destroys your team
 
 **Series 06: Team and Leadership — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Turning friction into fuel: how to address conflict before it destroys your team
 
 ### Prologue
 The conflict that nearly destroyed Marcus's content marketing agency didn't begin as a dramatic confrontation. It began as a curt email, followed by a missed acknowledgment, followed by a conspicuous absence from a collaborative meeting, followed by months of quiet tension between his two most senior employees — his creative director and his operations manager — that gradually infected the entire team. By the time Marcus recognized it as a problem serious enough to require his direct involvement, the creative director was considering leaving and the operations manager had begun looking for the operational information she needed through alternative channels specifically to avoid direct contact with the creative director.

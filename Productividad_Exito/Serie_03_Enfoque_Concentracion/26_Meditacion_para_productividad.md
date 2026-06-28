@@ -1,7 +1,5 @@
 # Meditación para productividad
 
-## Sin filosofía: técnicas de atención con resultados medibles
-
 **Serie Productividad y Éxito — Serie 3: Enfoque y Concentración — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Sin filosofía: técnicas de atención con resultados medibles
 
 ### Prólogo: El escéptico que lo intento
 

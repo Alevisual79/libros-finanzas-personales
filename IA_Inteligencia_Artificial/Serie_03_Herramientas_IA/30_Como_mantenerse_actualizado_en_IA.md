@@ -1,17 +1,12 @@
 # Cómo mantenerse actualizado en IA
-## Estrategias para no perderse en el ruido del campo que más rápido cambia
 
 **Serie 3: Herramientas de IA — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Estrategias para no perderse en el ruido del campo que más rápido cambia
 
 ### Prólogo: El boletin que Elena borro
 

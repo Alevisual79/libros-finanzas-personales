@@ -1,17 +1,12 @@
 # AI Productivity Tools
-## Notion AI Zapier and the Automation Ecosystem
 
 **Series 3: AI Tools — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Notion AI Zapier and the Automation Ecosystem
 
 ### Prologue
 Isabel's team documented nothing. Every process lived in people's heads. When two key people left in the same quarter, institutional knowledge walked out the door. AI documentation tools came too late for that crisis — but not for the next one.

@@ -1,7 +1,5 @@
 # El pensamiento sistémico
 
-## Ver las conexiones que los demás no ven
-
 **Serie Productividad y Éxito — Serie 7: Creatividad e Innovación — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Ver las conexiones que los demás no ven
 
 ### Prólogo: La solución que creo tres problemas
 

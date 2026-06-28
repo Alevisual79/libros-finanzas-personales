@@ -1,7 +1,5 @@
 # Minimalismo financiero
 
-## Gastar menos sin sentirte privado de nada que importe de verdad
-
 **Serie Finanzas Personales — Serie 3: Ahorro Sistemático — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Gastar menos sin sentirte privado de nada que importe de verdad
 
 ### Prólogo: Tener menos para vivir más
 

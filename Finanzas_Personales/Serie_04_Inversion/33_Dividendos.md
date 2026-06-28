@@ -1,7 +1,5 @@
 # Dividendos: Que el dinero trabaje mientras tú duermes
 
-## Cómo construir una cartera de ingresos pasivos reales que no depende de vender nada
-
 **Serie Finanzas Personales — Serie 4: Inversión desde Cero — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir una cartera de ingresos pasivos reales que no depende de vender nada
 
 ### Prólogo: Los 920 euros de don Alberto
 

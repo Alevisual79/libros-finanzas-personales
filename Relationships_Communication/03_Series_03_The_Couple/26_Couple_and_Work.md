@@ -1,17 +1,12 @@
 # Couple and Work
-## How to balance career and intimacy
 
 **Series 3: The Couple — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to balance career and intimacy
 
 ### Prologue
 James had a rule: he did not take calls after eight in the evening. He considered this a firm boundary between his professional and personal life. What he had not noticed, until Claire pointed it out in a conversation he had been dreading for weeks, was that the rule governed calls — not his laptop, not the emails he checked during dinner, not the mental space that his work occupied even when he was nominally present in the household.

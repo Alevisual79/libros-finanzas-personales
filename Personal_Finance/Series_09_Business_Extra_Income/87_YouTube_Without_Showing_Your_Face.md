@@ -1,17 +1,12 @@
 # YouTube Without Showing Your Face
-## Faceless Video Content as a Business Model
 
 **Series 9: Business & Extra Income — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Faceless Video Content as a Business Model
 
 ### Prologue
 Ruben had been watching YouTube channels about design and freelancing for years, studying how the most successful creators structured their content, built their audiences, and discussed money openly. One evening he noticed something that changed his thinking: several of the channels he most respected and whose income he most envied never showed the creator's face at all. One channel — screen recordings of design software with a voiceover narrating the process — had 380,000 subscribers and estimated monthly ad revenue of $8,000–$12,000. Another, consisting entirely of animated text and stock footage explaining business concepts, had passed one million subscribers. The creator behind it remained completely anonymous. Ruben, who had always assumed YouTube required performing on camera, felt something he rarely felt: the barrier he thought existed had disappeared.

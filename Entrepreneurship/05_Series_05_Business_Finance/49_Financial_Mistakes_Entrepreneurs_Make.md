@@ -1,17 +1,12 @@
 # Financial Mistakes Entrepreneurs Make
-## The most common and costly errors — and how to avoid them
 
 **Series 05: Business Finance — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The most common and costly errors — and how to avoid them
 
 ### Prologue
 James had built what looked, from the outside, like a successful landscape design business: a recognizable brand, a strong referral network, a portfolio of impressive residential and commercial projects. When his accountant sat down with him to review his finances at the end of his fifth year in business, the picture that emerged was more complicated. Despite $1.1 million in revenue, the business had generated less than $40,000 in net profit. James was working sixty hours a week and paying himself a salary that was fifteen percent below what he had earned as an employee before starting the business. He had no retirement savings, no cash reserve worth speaking of, and no clear understanding of how the business had generated so much revenue with so little to show for it.

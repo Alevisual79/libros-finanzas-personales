@@ -1,17 +1,12 @@
 # Toxins in the Home — What Environmental Health Science Actually Shows
-## A Science-Based Guide to Indoor Chemical Exposure and Risk
 
 **Series 9: Environment and Lifestyle — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A Science-Based Guide to Indoor Chemical Exposure and Risk
 
 ### Prologue
 Marcus had always considered himself health-conscious. He ate organic produce, exercised regularly, and avoided smoking. But when his daughter developed recurrent respiratory infections and his own chronic headaches refused to respond to any treatment, he began questioning what was happening inside the four walls he called home. A visit from an indoor air quality consultant revealed VOC levels from his freshly renovated basement that exceeded EPA guidelines, formaldehyde off-gassing from new cabinetite, and a mold colony quietly growing behind his bathroom tiles. The revelation was simultaneously alarming and liberating: there was something he could actually do.

@@ -1,17 +1,12 @@
 # Digital Habits and Health
-## Managing Your Relationship With Technology
 
 **Series 6: Habits and Routines — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Managing Your Relationship With Technology
 
 ### Prologue
 The average American adult now spends more than 11 hours per day interacting with screens. For many people, the phone is the first thing they see in the morning and the last thing they interact with before sleep. Social media platforms are designed by teams of behavioral scientists to maximize time spent and emotional engagement — the product is your attention, and the metrics that define success are measured in minutes of engagement per day.

@@ -1,17 +1,12 @@
 # The LAUNCH Method
-## What business schools don't teach you about entrepreneurship
 
 **Mother Book - Entrepreneurship Collection**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What business schools don't teach you about entrepreneurship
 
 ### Prologue
 Elena wants to create her own startup but keeps waiting for the perfect moment. Ruben already works for himself but doesn't know how to scale what he does. Isabel has been thinking about opening her own business for twenty years and there is always a reason not to.

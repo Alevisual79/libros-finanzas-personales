@@ -1,17 +1,12 @@
 # Remote Work and Relationships
-## How to maintain real bonds when you don't share space
 
 **Series 6: Work Relationships — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to maintain real bonds when you don't share space
 
 ### Prologue
 Sandra's team had been fully remote for three years before she joined it, and then partially remote — two days in the office, three at home — for the year and a half of her tenure.

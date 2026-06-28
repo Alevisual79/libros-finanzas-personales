@@ -1,17 +1,12 @@
 # Your Salary Is Not Enough
-## Why One Income Source Is a Financial Risk
 
 **Series 5: Multiple Income Streams — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why One Income Source Is a Financial Risk
 
 ### Prologue
 Elena's salary is $78,000 a year. It arrives reliably every two weeks. It funds her life: her apartment, her food, her savings, her social life, her Roth IRA contributions.

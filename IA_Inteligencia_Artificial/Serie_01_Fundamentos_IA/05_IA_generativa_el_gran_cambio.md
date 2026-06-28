@@ -1,17 +1,12 @@
 # IA generativa: El gran cambio
-## Texto, imagen, audio y vídeo creados por máquinas: qué significa realmente
 
 **Serie 1: Fundamentos de IA — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Texto, imagen, audio y vídeo creados por máquinas: qué significa realmente
 
 ### Prólogo: El diseñador que dejó de existir
 

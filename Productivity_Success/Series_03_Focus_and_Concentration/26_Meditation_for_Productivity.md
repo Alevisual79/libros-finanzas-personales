@@ -1,17 +1,12 @@
 # Meditation for Productivity
-## What the science says about training the focused mind
 
 **Series 3: Focus and Concentration — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What the science says about training the focused mind
 
 ### Prologue
 Camila tried meditation three times before it worked. The first time was in her twenties — a yoga class that ended with five minutes of guided relaxation that she spent making a mental list of what to have for dinner. The second time was an app that promised improved focus and calm, which she used for eleven consecutive days before forgetting, which felt like adequate evidence that it had not worked. The third time was different only in that it lasted longer: two weeks of erratic ten-minute sessions before she abandoned it again.

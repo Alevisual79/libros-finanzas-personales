@@ -1,7 +1,5 @@
 # Autocompasión sin excusas
 
-## Ser amable contigo mismo sin perder la exigencia
-
 **Serie Productividad y Éxito — Serie 1: Mentalidad y Creencias — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Ser amable contigo mismo sin perder la exigencia
 
 ### Prólogo: La voz que nunca descansa
 

@@ -1,17 +1,12 @@
 # Team Culture
-## How to build and maintain the invisible force that drives everything else
 
 **Series 6: Leadership and Teams — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to build and maintain the invisible force that drives everything else
 
 ### Prologue
 Marcus became aware of team culture the way most managers do: when he joined a new team and immediately noticed that something was different from the team he had left. Not the work, not the compensation, not the organizational resources — those were roughly equivalent. The way people talked to each other. The kinds of problems they surfaced in meetings. The speed with which they made decisions. The quality of the conversations when something went wrong. The invisible dynamics that determined whether the team was a place where excellent work was natural or a place where mediocrity was the path of least resistance.

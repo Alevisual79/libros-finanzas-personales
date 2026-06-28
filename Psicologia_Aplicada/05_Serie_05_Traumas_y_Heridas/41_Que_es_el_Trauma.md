@@ -1,17 +1,12 @@
 # Que es el Trauma
-## Entender la herida invisible que más condiciona tu vida
 
 **Serie 05: Traumas y Heridas — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entender la herida invisible que más condiciona tu vida
 
 ### Prólogo
 Ruben no cree haber tenido traumas. No ha vivido una guerra, no ha sufrido violencia física, no ha pasado por ninguna de las catastrofes que la cultura asocia con el trauma. Pero hay patrones en su vida que no entiende completamente: reacciones desproporcionadas en ciertos contextos, dificultad para confiar en ciertas personas, un nivel de alerta de fondo que parece excesivo para la tranquilidad objetiva de su vida actual. El trauma no es solo lo que ocurrio en escenarios extremos. Es cualquier experiencia que el sistema nervioso no pudo procesar completamente en su momento, y que sigue operando en el presente como si la amenaza todavía estuviera activa. Muchas más personas de las que creen tienen algo que procesar.

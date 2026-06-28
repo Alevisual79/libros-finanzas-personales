@@ -1,17 +1,12 @@
 # Entrepreneurial Resilience
-## How not to quit when everything invites you to give up
 
 **Series 01: Entrepreneurial Mindset — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How not to quit when everything invites you to give up
 
 ### Prologue
 James had launched his meal planning platform eighteen months ago. In that time, he had pivoted the product twice, lost one co-founder to burnout, rebuilt his tech stack from scratch, run through two-thirds of his initial savings, and generated exactly zero recurring revenue despite forty-seven conversations with potential paying customers. His LinkedIn showed a founder's optimism. His private life showed someone who was running on sleep deprivation, family tension, and the increasingly urgent question of whether he was being resilient or delusional.

@@ -1,17 +1,12 @@
 # AI and Relationships
-## Companionship Emotion and the Human Connection
 
 **Series 10: AI and the Human Being — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Companionship Emotion and the Human Connection
 
 ### Prologue
 The elderly widower who found more daily conversation with an AI companion than with any human in his life was not a science fiction scenario in 2025. It was a documented social pattern raising both compassion and alarm.

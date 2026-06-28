@@ -1,17 +1,12 @@
 # The Power of Compound Interest
-## The Eighth Wonder of the World
 
 **Series 4: Investing — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Eighth Wonder of the World
 
 ### Prologue
 Isabel's financial advisor showed her a chart at their first meeting that she still talks about years later. On the left axis: dollars. On the bottom axis: years. Two lines starting at the same point. The top line: a person who invested $5,000/year from age 22 to 32 — ten years — and then stopped. The bottom line: a person who started at 32 and invested $5,000/year for the next thirty years — thirty years — and then stopped.

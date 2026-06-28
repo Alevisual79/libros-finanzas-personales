@@ -1,7 +1,5 @@
 # El hábito del movimiento
 
-## Cómo incorporar más actividad en una vida sedentaria sin ir al gimnasio ni tener tiempo extra
-
 **Serie Salud y Bienestar — Serie 6: Hábitos y Rutinas — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo incorporar más actividad en una vida sedentaria sin ir al gimnasio ni tener tiempo extra
 
 ### Prólogo: El ejercicio que no es ejercicio
 

@@ -1,17 +1,12 @@
 # Manipulación Emocional
-## Reconocer y protegerse de quien usa tus emociones en tu contra
 
 **Serie 09: Límites y Relaciones Toxicas — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Reconocer y protegerse de quien usa tus emociones en tu contra
 
 ### Prólogo
 Elena hace lo que su amiga quiere porque, de lo contrario, se siente culpable de una forma que no puede explicar racionalmente. Nunca se ha preguntado directamente si eso que hace es realmente lo que ella quiere, porque la pregunta misma genera una incomodidad que prefiere evitar. La manipulación, descubre eventualmente, no siempre grita ni se anuncia dramaticamente. A veces susurra, tan suavemente que se confunde con la propia voz interior.

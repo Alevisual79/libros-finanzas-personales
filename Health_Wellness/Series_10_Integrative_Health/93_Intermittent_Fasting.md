@@ -1,17 +1,12 @@
 # Intermittent Fasting
-## The Evidence Behind Time-Restricted Eating
 
 **Series 10: Integrative Health — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Evidence Behind Time-Restricted Eating
 
 ### Prologue
 Intermittent fasting (IF) — various patterns of cycling between periods of eating and not eating — has become one of the most discussed dietary approaches of the past decade. Driven by impressive animal studies, a cascade of popular books, and genuine human clinical data, IF has attracted both enthusiasts who claim transformative effects and critics who argue it offers no advantages over standard caloric restriction.

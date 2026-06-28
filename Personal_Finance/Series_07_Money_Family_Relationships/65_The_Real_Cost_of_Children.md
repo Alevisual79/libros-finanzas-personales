@@ -1,17 +1,12 @@
 # The Real Cost of Children
-## The Budget Every Parent Should Know Before Deciding
 
 **Series 7: Money, Family & Relationships — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Budget Every Parent Should Know Before Deciding
 
 ### Prologue
 Elena and her partner Marco have been together for three years. The question of children has come up — carefully, circling it from different angles. They both want, approximately, the same things in life. But when the question of children comes up specifically, Elena finds herself uncertain in a way that is partly emotional and partly mathematical.

@@ -1,17 +1,12 @@
 # The MIND Method
-## Applied psychology to understand and transform yourself
 
 **Mother Book - Applied Psychology Collection**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Applied psychology to understand and transform yourself
 
 ### Prologue
 Elena has performance anxiety she calls perfectionism. Ruben has low self-esteem he calls realism. Isabel has fear of abandonment she calls independence. All three have a story they have not finished reading.

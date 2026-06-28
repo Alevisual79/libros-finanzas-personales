@@ -1,17 +1,12 @@
 # AI and Democracy
-## Algorithms Influence and the Public Sphere
 
 **Series 7: Ethics and Society — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Algorithms Influence and the Public Sphere
 
 ### Prologue
 The role of social media algorithms in political polarization has been debated for years. AI supercharges that debate: the same algorithms now generate the content, target it, and optimize for the engagement signals that define political virality.

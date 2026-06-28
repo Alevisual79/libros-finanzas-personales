@@ -1,7 +1,5 @@
 # El plan de salud para los próximos 10 años
 
-## Integrar todo en un sistema personal: el mapa completo de la salud preventiva
-
 **Serie Salud y Bienestar — Serie 10: Salud Integrativa — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Integrar todo en un sistema personal: el mapa completo de la salud preventiva
 
 ### Prólogo: Lo que nadie te da hecho
 

@@ -1,17 +1,12 @@
 # Emotional Manipulation
-## Recognizing and protecting yourself from those who use your emotions
 
 **Series 9: Boundaries and Toxic Relationships — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Recognizing and protecting yourself from those who use your emotions
 
 ### Prologue
 Sana had spent two years wondering why conversations with her colleague that began as straightforward professional exchanges consistently ended with her feeling that she had agreed to something she had not intended to agree to.

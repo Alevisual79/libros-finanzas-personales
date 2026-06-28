@@ -1,17 +1,12 @@
 # Depression Prevention
-## Building the Life That Protects Against Mental Illness
 
 **Series 7: Depression and Mental Wellbeing — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building the Life That Protects Against Mental Illness
 
 ### Prologue
 The most visible conversation about depression focuses on its treatment: what to do when depression has already arrived. Less visible but equally important is the conversation about prevention: what can be done before depression arrives, or before an initial episode recurs. This is not a conversation about guarantee — no lifestyle, no set of practices, no degree of psychological health immunizes anyone against depression, which is influenced by genetic, developmental, and circumstantial factors that individual preventive action cannot fully control. But it is a conversation about the substantial evidence that specific practices, environments, and social conditions significantly reduce the risk of developing depression and reduce the risk of recurrence for those who have experienced it. The conversation about prevention is also the conversation about what genuinely protects and nourishes mental health — which is valuable information for everyone, not only for those who have experienced depression.

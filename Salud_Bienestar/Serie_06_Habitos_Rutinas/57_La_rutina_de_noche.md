@@ -1,7 +1,5 @@
 # La rutina de noche
 
-## Preparar el cuerpo y la mente para el descanso: el ritual que hace posible el sueño que necesitas
-
 **Serie Salud y Bienestar — Serie 6: Hábitos y Rutinas — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Preparar el cuerpo y la mente para el descanso: el ritual que hace posible el sueño que necesitas
 
 ### Prólogo: Las últimas horas del día
 

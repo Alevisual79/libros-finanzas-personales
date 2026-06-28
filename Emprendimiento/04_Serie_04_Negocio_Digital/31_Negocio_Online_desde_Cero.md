@@ -1,17 +1,12 @@
 # Negocio Online desde Cero
-## Cómo crear un negocio digital que genere ingresos reales
 
 **Serie 04: Negocio Digital — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo crear un negocio digital que genere ingresos reales
 
 ### Prólogo
 Carlos tiene una idea para un negocio online pero no sabe por donde empezar. Lucia ha intentado tres negocios digitales diferentes en dos años y ninguno ha generado ingresos consistentes. Marcos viene del mundo corporativo y entiende bien los negocios pero no entiende la lógica específica del entorno digital. Los tres necesitan entender algo antes de seguir: el negocio online no es magico ni automático. Es un negocio real que opera en un entorno digital. Las mismas reglas fundamentales aplican: cliente real, problema real, solución real, propuesta de valor real. La parte digital cambia los canales y las herramientas. No cambia los fundamentos.

@@ -1,17 +1,12 @@
 # Systems Thinking for Problem Solvers
-## The framework for understanding and changing complex situations
 
 **Series 7: Creativity and Innovation — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The framework for understanding and changing complex situations
 
 ### Prologue
 Raj's supply chain improvement initiative had produced exactly the kind of result he had learned to recognize: the problem in one location had been solved, and three months later an equivalent problem had appeared in a different location. The pattern was familiar — he had seen it in previous projects, in colleagues' projects, and in the organizational discussions of persistent problems that returned despite sustained attention. The problem was not being solved; it was being relocated.

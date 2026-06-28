@@ -1,17 +1,12 @@
 # Identity and Change
-## Who You Are When Everything Shifts
 
 **Series 3: Self-Esteem and Self-Image — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Who You Are When Everything Shifts
 
 ### Prologue
 For seventeen years, Rafael had been a surgeon. Not a person who performed surgery, but a surgeon — in the complete sense in which a profession can organize an identity. His schedule, his vocabulary, his social world, his sense of what constituted a good day, his answer to every introduction, his understanding of what he was for in the world — all of it was organized around the fact of being a surgeon. When a hand tremor required him, at fifty-two, to step away from the operating room, the medical career did not simply end. Something more fundamental was disrupted: the organizing structure through which he had understood who he was. He was surprised to discover that this disruption felt less like grief for the specific work and more like the disorientation of a person who does not know where they are standing.

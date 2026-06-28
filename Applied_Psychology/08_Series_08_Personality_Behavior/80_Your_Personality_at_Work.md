@@ -1,17 +1,12 @@
 # Your Personality at Work
-## How Who You Are Shapes How You Work — and What to Do About It
 
 **Series 8: Personality and Behavior — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Who You Are Shapes How You Work — and What to Do About It
 
 ### Prologue
 When Elena interviewed for her current position, she had presented the most professionally confident version of herself: proactive, collaborative, decisive, comfortable with ambiguity. The presentation was accurate, in the sense that these were genuine capabilities she possessed. What she had not fully disclosed — to her employer or to herself — was the other side of her psychological profile: the need for more than two days' notice before significant changes to her work plan, the genuine difficulty with the open-plan office where the role was based, the energy cost of the prolonged client entertainment that the role required. She had been hired for her genuine strengths without either party adequately attending to the genuine fit challenges.

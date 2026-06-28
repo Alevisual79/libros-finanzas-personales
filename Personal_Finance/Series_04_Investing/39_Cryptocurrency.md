@@ -1,17 +1,12 @@
 # Cryptocurrency
-## Understanding the Risk and Reality
 
 **Series 4: Investing — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding the Risk and Reality
 
 ### Prologue
 When Bitcoin hit $69,000 in November 2021, Ruben's social circle was consumed with crypto. Everyone seemed to have made money. His neighbor had bought Ethereum at $1,200 and was watching it at $4,800. His college friend had invested $10,000 in a smaller altcoin and was tracking 10× gains.

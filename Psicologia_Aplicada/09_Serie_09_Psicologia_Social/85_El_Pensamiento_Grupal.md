@@ -1,17 +1,12 @@
 # El Pensamiento Grupal
-## Por qué los grupos inteligentes toman decisiones estupidas
 
 **Serie 09: psicología Social e Influencia — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué los grupos inteligentes toman decisiones estupidas
 
 ### Prólogo
 Isabel ha estado en comites de dirección donde personas muy inteligentes han tomado decisiones que, vistas desde fuera, eran claramente malas. Ruben ha visto como startups brillantes tomaban giros estratégicos que terminaban en desastre, con un equipo directivo que en retrospectiva reconocia que todos habían tenido dudas pero nadie las había expresado. Elena ha participado en proyectos de equipo donde el trabajo grupal producia algo peor que lo que cualquiera de los miembros habría producido individualmente. El pensamiento grupal (groupthink) no es solo un concepto académico. Es una de las causas más frecuentes de fracaso organizacional y personal, y entenderlo es el primer paso para evitarlo.

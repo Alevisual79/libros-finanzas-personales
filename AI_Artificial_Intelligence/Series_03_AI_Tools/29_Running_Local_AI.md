@@ -1,17 +1,12 @@
 # Running Local AI
-## Privacy Control and Open-Source Models
 
 **Series 3: AI Tools — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Privacy Control and Open-Source Models
 
 ### Prologue
 When the Snowden revelations came, many people began routing email through encrypted servers. The instinct — control over sensitive data — is healthy. For AI, running models locally offers the same kind of control. For some use cases, it matters enormously.

@@ -1,7 +1,5 @@
 # Fondos indexados vs. fondos activos: El debate que ya está resuelto
 
-## Por qué casi siempre gana el índice y por qué los gestores profesionales prefieren que no lo sepas
-
 **Serie Finanzas Personales — Serie 4: Inversión desde Cero — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué casi siempre gana el índice y por qué los gestores profesionales prefieren que no lo sepas
 
 ### Prólogo: La apuesta de Buffett
 

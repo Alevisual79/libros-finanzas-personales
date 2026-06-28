@@ -1,17 +1,12 @@
 # Your Relationship With Food Is Broken
-## And How to Fix It Without a Diet
 
 **Series 1: Nutrition Without Diets — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## And How to Fix It Without a Diet
 
 ### Prologue
 Elena had been on seven diets in ten years. She had lost and regained the same twenty pounds four times. The problem was not the diets — it was the relationship with food that made the diets necessary.

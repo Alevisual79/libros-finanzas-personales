@@ -1,17 +1,12 @@
 # Stress Management That Works
-## Evidence-based approaches for reducing and channeling professional stress
 
 **Series 9: Balance and Wellbeing — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Evidence-based approaches for reducing and channeling professional stress
 
 ### Prologue
 Sarah's first response to the most stressful periods of her professional life had been the same as most people's: the attempt to manage stress by eliminating the stressors. When the stressors were genuinely removable, this worked. When they were not — and in a demanding professional context, most of the most significant stressors are not removable in the short term — the strategy of waiting for the stress to go away before addressing it had produced the specific outcome that waiting always produces: the stress had continued, and the costs of the unmanaged stress had accumulated.

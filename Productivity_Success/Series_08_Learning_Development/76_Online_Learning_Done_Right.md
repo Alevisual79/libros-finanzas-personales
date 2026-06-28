@@ -1,17 +1,12 @@
 # Online Learning Done Right
-## The strategies that convert digital courses into genuine capability
 
 **Series 8: Learning and Development — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The strategies that convert digital courses into genuine capability
 
 ### Prologue
 Marco had completed eleven online courses in the previous two years. He had paid for eight of them. He had finished seven. He had applied the content of two to his actual professional practice. The completion certificates were in a folder on his computer.

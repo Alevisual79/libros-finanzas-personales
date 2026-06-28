@@ -1,17 +1,12 @@
 # Primera Cita
-## Como estar presente y mostrar quien eres de verdad
 
 **Serie 07: Citas y Amor Romantico — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como estar presente y mostrar quien eres de verdad
 
 ### Prólogo
 Isabel fue a una primera cita el año pasado. Se paso toda la noche intentando gustarle a el: calculando cada respuesta, monitoreando su propia expresión facial, preguntandose constantemente que impresión estaba generando. Al final de la noche, no recordaba casi nada de lo que el le había contado. Habia estado tan ocupada actuando que se había perdido completamente la oportunidad de conocerlo, y de conocerse a si misma en esa interacción.

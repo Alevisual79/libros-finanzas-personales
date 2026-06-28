@@ -1,7 +1,5 @@
 # Leer más y mejor
 
-## Técnicas de lectura eficiente para el que no tiene tiempo pero quiere aprender
-
 **Serie Productividad y Éxito — Serie 3: Enfoque y Concentración — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Técnicas de lectura eficiente para el que no tiene tiempo pero quiere aprender
 
 ### Prólogo: La pila de libros sin leer
 

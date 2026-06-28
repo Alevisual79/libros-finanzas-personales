@@ -1,17 +1,12 @@
 # Understanding Depression
-## What Depression Actually Is and How It Works
 
 **Series 7: Depression and Mental Wellbeing — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Depression Actually Is and How It Works
 
 ### Prologue
 When Anna's doctor first used the word "depression" to describe what she had been experiencing for seven months, her immediate reaction was resistance. She was not depressed. She was going through a difficult period. She was exhausted and stressed and struggling to find motivation, but she was not one of those people who couldn't get out of bed, who cried constantly, who had given up. She was functional — mostly. She was getting through the days — barely. She did not fit the image she had of depression, which was something more dramatic, more visible, more obviously catastrophic than the grey, muffled, effortful existence she was managing. Her doctor explained, gently, that what she was describing — the persistent low mood, the loss of interest in things she had previously enjoyed, the exhaustion that sleep didn't fix, the difficulty concentrating, the sense that the future would be like the present indefinitely — was precisely what depression is: not always the dramatic version, but reliably the one she was describing.

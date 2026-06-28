@@ -1,17 +1,12 @@
 # The Flow State
-## The psychology of optimal experience — and how to enter it more often
 
 **Series 3: Focus and Concentration — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The psychology of optimal experience — and how to enter it more often
 
 ### Prologue
 Nadia was forty minutes into the competitive brief when she noticed that something had changed. The office around her had not changed — it was still mid-afternoon, the usual ambient hum of the open plan, the occasional voice and footstep. But she was not registering any of it. She was somewhere inside the brief, moving through its logic with an ease and fluency that her earlier, resistant drafts had not suggested was possible. The arguments were connecting. The language was finding itself. An hour later, she looked up and discovered it was 5:30, that her tea had gone cold, that she had missed two Slack messages and not noticed, and that the brief on her screen was, by quite a margin, the best work of its kind she had ever produced.

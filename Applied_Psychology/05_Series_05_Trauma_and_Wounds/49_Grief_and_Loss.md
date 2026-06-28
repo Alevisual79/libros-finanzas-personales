@@ -1,17 +1,12 @@
 # Grief and Loss
-## Navigating Traumatic Bereavement
 
 **Series 5: Trauma and Wounds — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Navigating Traumatic Bereavement
 
 ### Prologue
 Maya's brother died in an accident that she was also in. She was not seriously injured; he was killed instantly. She had been the one who called their parents. She had been the one who identified him. She had been, in the terrible clarity of trauma, functional at the moment when he was gone, and she had remained functional — she thought she had remained functional — for the months that followed. She had gone to the funeral, she had spoken at the service, she had done all the things that the grieving sibling does. What she had not been able to do, for almost a year, was cry. Not because she was numb to the loss — the loss was present constantly — but because every time she approached the grief, the trauma of the accident arrived first, and the trauma response (the flash of the impact, the smell, the sound, the catastrophic activation of the body in crisis) overwhelmed the grief, and she would shut down. She was not failing to grieve. She was trying to grieve in a body and nervous system that hadn't been treated for the trauma she was carrying alongside the loss.

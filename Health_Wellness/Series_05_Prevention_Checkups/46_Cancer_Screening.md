@@ -1,17 +1,12 @@
 # Cancer Screening
-## What Screening Tests Are Recommended and Why
 
 **Series 5: Prevention and Checkups — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Screening Tests Are Recommended and Why
 
 ### Prologue
 Cancer screening is one of the most value-laden areas of medicine. The same test can save a life (by finding a cancer early enough to cure it) and harm a life (by finding an abnormality that would never have caused harm, leading to unnecessary treatment with real side effects). Understanding which screens are recommended, for whom, at what ages, and why requires engaging with this complexity.

@@ -1,17 +1,12 @@
 # Marketing de Referidos
-## Cómo hacer que tus clientes traigan más clientes
 
 **Serie 03: Marketing y Ventas — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo hacer que tus clientes traigan más clientes
 
 ### Prólogo
 Carlos ha descubierto que sus mejores clientes llegaron de otros clientes. Lucia sabe que los referidos son su mejor canal pero no hace nada activo para generarlos. Marcos viene del mundo corporativo donde los programas de referidos eran una iniciativa de marketing que alguien gestionaba. Los tres comparten la misma oportunidad ignorada: el cliente satisfecho que ya tiene es el activo de marketing más poderoso que puede tener un negocio, y la mayoría de los emprendedores no hacen casi nada para activarlo sistemáticamente. El marketing de referidos no ocurre por accidente cuando el producto es bueno. Ocurre por diseño cuando el emprendedor lo construye.

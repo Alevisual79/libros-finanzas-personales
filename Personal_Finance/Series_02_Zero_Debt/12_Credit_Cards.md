@@ -1,17 +1,12 @@
 # Credit Cards
-## How to Use Them Without Being Used
 
 **Series 2: Zero Debt — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Use Them Without Being Used
 
 ### Prologue
 Elena had four credit cards. She did not remember opening all of them. One had come in the mail after a store promotion at a clothing retailer she rarely visited anymore. One was the card she had had since college, carrying a $4,200 balance and a 22.9% APR that she had finally begun paying down seriously. One was a travel rewards card her friend had recommended two years ago, currently carrying $800 from a weekend trip she had split with other people but ended up absorbing. And one was a card she had opened to take advantage of a 0% introductory rate — that promotion had expired eight months ago, and the balance of $1,100 was now accruing interest at 19.99%. She had four cards, three balances, two interest rates, and one growing sense that these products were not serving her the way she had imagined when she applied for them.

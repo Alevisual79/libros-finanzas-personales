@@ -1,17 +1,12 @@
 # Catastrophic Thinking
-## Breaking the Pattern of Imagining the Worst
 
 **Series 2: Anxiety and Fears — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Breaking the Pattern of Imagining the Worst
 
 ### Prologue
 When Yara's daughter didn't answer her phone at 10:47 PM, the first thought was: she's out with friends, phone on silent. The second thought arrived before the first had fully formed: what if she's been in an accident? The third thought was already in the hospital. The fourth was at the funeral. By the time Yara's daughter called back twelve minutes later (she had been in the shower), Yara had experienced, in vivid emotional detail, the loss of her child. The twelve minutes had felt like an ordeal. The subsequent normality felt like a gift she didn't deserve.

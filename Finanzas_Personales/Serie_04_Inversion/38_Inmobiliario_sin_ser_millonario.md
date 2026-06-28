@@ -1,7 +1,5 @@
 # Inmobiliario sin ser millonario
 
-## Formas de acceder al sector inmobiliario con poco capital y sin comprarte un piso
-
 **Serie Finanzas Personales — Serie 4: Inversión desde Cero — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Formas de acceder al sector inmobiliario con poco capital y sin comprarte un piso
 
 ### Prólogo: El cuñado que compró en 2006
 

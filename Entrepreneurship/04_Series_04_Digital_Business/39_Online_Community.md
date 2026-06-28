@@ -1,17 +1,12 @@
 # Online Community
-## Building a loyal audience that grows your business
 
 **Series 04: Digital Business — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building a loyal audience that grows your business
 
 ### Prologue
 When Mia started her nutrition coaching practice for endurance athletes, she had a standard problem: how do you serve more clients than one person can handle one-on-one without compromising the relationship quality that makes one-on-one coaching valuable? The standard answer was to hire more coaches, which meant managing people and systems rather than doing the work she loved. Her answer was different: she built an online community.

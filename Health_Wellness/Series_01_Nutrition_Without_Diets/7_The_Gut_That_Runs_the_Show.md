@@ -1,17 +1,12 @@
 # The Gut That Runs the Show
-## Microbiome Digestion and Your Second Brain
 
 **Series 1: Nutrition Without Diets — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Microbiome Digestion and Your Second Brain
 
 ### Prologue
 The gut contains approximately 38 trillion microorganisms — bacteria, fungi, viruses, and archaea — collectively called the gut microbiome. This community weighs approximately 2 kilograms, contains more genes than the entire human genome, and influences health outcomes that extend far beyond digestion: immune function, mental health, metabolic regulation, inflammatory disease, and possibly longevity.

@@ -1,7 +1,5 @@
 # El sistema de planificación semanal
 
-## Diseñar cada semana para que las prioridades no se pierdan
-
 **Serie Productividad y Éxito — Serie 2: Gestión del Tiempo — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Diseñar cada semana para que las prioridades no se pierdan
 
 ### Prólogo: La semana que no planeó nadie
 

@@ -1,17 +1,12 @@
 # Gestionar a tu Jefe
-## Estrategias para tener una relación productiva con quien tienes sobre ti
 
 **Serie 06: Relaciones Laborales — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Estrategias para tener una relación productiva con quien tienes sobre ti
 
 ### Prólogo
 Ruben ha tenido cuatro jefes en cinco años. Según su propio relato, todos eran malos de alguna forma específica: uno demasiado controlador, otro demasiado ausente, otro injusto, otro incompetente. El único denominador común en las cuatro situaciones es Ruben mismo, lo cual no significa que los jefes fueran necesariamente buenos, sino que merece la pena examinar que parte de la dinámica relacional el mismo estaba contribuyendo a crear o a sostener.

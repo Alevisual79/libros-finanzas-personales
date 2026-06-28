@@ -1,17 +1,12 @@
 # The LLC and S-Corp Question
-## Which Business Structure Is Right for You?
 
 **Series 10: Taxes & Wealth — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Which Business Structure Is Right for You?
 
 ### Prologue
 By year three of freelancing, Ruben's CPA asked him a question he hadn't considered: "Are you still operating as a sole proprietor?"

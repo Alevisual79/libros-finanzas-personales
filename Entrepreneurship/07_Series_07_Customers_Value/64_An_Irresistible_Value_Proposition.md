@@ -1,17 +1,12 @@
 # An Irresistible Value Proposition
-## How to communicate what you offer so the right customers can't say no
 
 **Series 07: Customers and Value — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to communicate what you offer so the right customers can't say no
 
 ### Prologue
 The forty-seven-word value proposition on Marcus's cybersecurity consulting website was technically accurate. It described his services, his credentials, his approach, and his target market. It sounded professional. It also looked nearly identical to the value propositions on a dozen competing websites, and it generated almost no inbound inquiries from the small and mid-sized businesses he most wanted to serve.

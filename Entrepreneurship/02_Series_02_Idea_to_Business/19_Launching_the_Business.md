@@ -1,17 +1,12 @@
 # Launching the Business
-## A launch strategy that generates traction from day one
 
 **Series 02: From Idea to Business — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A launch strategy that generates traction from day one
 
 ### Prologue
 When Mei launched her online marketplace for handmade home goods, she had spent four months building the platform, curating sixty sellers, photographing product samples, developing a brand identity, and writing about two hundred product descriptions. On launch day, she sent a single email to her personal contact list, posted on her personal Instagram, and published a press release that two journalists read and one ignored. In the first two weeks, she had forty-seven visitors to the website, two transactions, and the slowly dawning realization that she had confused building the business with launching it.

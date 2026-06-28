@@ -1,17 +1,12 @@
 # Self-Concept
-## Who You Think You Are — and How It Shapes Everything
 
 **Series 3: Self-Esteem and Self-Image — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Who You Think You Are — and How It Shapes Everything
 
 ### Prologue
 When Ana was asked to describe herself in a job application, she wrote: project manager, organized, reliable, good with deadlines. When asked to describe herself in a dating profile, she wrote: introvert, reader, dog person, terrible at small talk. When her therapist asked her to describe herself in a session focused on her mood, she said: anxious, trying, never quite enough. These were not lies; each self-description was accurate in its context. What Ana had not considered — and what the therapist eventually reflected back to her — was that none of these descriptions was complete, none of them was fixed, and all of them together still didn't add up to who she actually was. The question of who she was had, in a sense, never been properly asked.

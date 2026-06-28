@@ -1,17 +1,12 @@
 # The Relationships That Sustain You
-## The science and practice of the human connections that support professional thriving
 
 **Series 9: Balance and Wellbeing — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The science and practice of the human connections that support professional thriving
 
 ### Prologue
 The longest running study of adult development in scientific history began in 1938. The Harvard Study of Adult Development — the longitudinal research project that followed 724 men from adolescence through old age, collecting data on their physical health, mental health, and life satisfaction across eight decades — has produced one of the most important and most consistently replicated findings in the social science of wellbeing: the quality of relationships is the strongest predictor of long-term health and happiness that the study has found. Not wealth, not intelligence, not professional achievement, not genetic advantage. The quality of the relationships.

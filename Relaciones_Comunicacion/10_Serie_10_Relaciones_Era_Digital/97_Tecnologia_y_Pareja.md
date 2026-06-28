@@ -1,17 +1,12 @@
 # Tecnologia y Pareja
-## Cómo gestionar el móvil, las pantallas y la presencia en la relación
 
 **Serie 10: Relaciones en la Era Digital — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo gestionar el móvil, las pantallas y la presencia en la relación
 
 ### Prólogo
 Isabel lleva una hora mirando su móvil sentada en el sofa. Su pareja lleva una hora mirando su propio móvil, sentado a su lado en ese mismo sofa. Juntos, sin proponerselo, llevan una hora completa sin mirarse el uno al otro, dos personas físicamente presentes y mentalmente ausentes, compartiendo espacio sin compartir realmente nada.

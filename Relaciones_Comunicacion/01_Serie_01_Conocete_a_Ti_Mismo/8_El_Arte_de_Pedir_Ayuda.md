@@ -1,17 +1,12 @@
 # El Arte de Pedir Ayuda
-## Por qué nos cuesta tanto y como aprender a hacerlo
 
 **Serie 01: Conocete a Ti Mismo — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué nos cuesta tanto y como aprender a hacerlo
 
 ### Prólogo
 Isabel resuelve los problemas de todos. En el trabajo es la que sabe. En casa es la que puede. En su grupo de amigos es la que escucha. Lleva cincuenta y dos años siendo el soporte de todo el mundo a su alrededor. Y lleva cinquenta y dos años sin pedirle a nadie que la soporte a ella.

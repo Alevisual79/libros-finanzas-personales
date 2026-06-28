@@ -1,17 +1,12 @@
 # Guilt and Shame
-## Two Emotions That Look the Same and Work Very Differently
 
 **Series 4: Emotions and Emotional Management — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Two Emotions That Look the Same and Work Very Differently
 
 ### Prologue
 When Marco was twelve, he broke a lamp during an argument with his brother and, in the confusion, let his brother take the blame. His mother scolded his brother; Marco said nothing. The event was minor — the lamp was inexpensive, the scolding was brief, no one was hurt — but Marco thought about it for years afterward. Not continuously, but reliably: in quiet moments, in the half-hour before sleep, occasionally when something reminded him of his brother's face in that moment. He felt, when he thought about it, a specific quality of discomfort that he could not quite name. He also felt, distinctly, a more diffuse and less specific disturbance that arose when he considered what the episode "said about him" — a quality of person who would let his brother take undeserved blame. The first feeling was actionable; the second felt like a verdict. The difference between them, though he didn't have words for it yet, was the difference between guilt and shame.

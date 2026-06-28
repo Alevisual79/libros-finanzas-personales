@@ -1,7 +1,5 @@
 # Retiro anticipado a los 45: Un plan concreto
 
-## Matemáticas, estrategia y sacrificios reales para quien quiere parar antes de los 50
-
 **Serie Finanzas Personales — Serie 6: Libertad Financiera — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Matemáticas, estrategia y sacrificios reales para quien quiere parar antes de los 50
 
 ### Prólogo: La conversación del cumpleaños
 

@@ -1,17 +1,12 @@
 # Time Blocking
-## The scheduling practice that closes the gap between intention and action
 
 **Series 2: Time Management — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The scheduling practice that closes the gap between intention and action
 
 ### Prologue
 Rafa's to-do list was never empty. This was not a problem; it was a law of professional life. What was a problem was that the most important items on the list — the ones he had been moving forward from one week's list to the next — were not items he did when time was available. They were items he did when they became urgent enough to displace the reactive work that normally filled his time.

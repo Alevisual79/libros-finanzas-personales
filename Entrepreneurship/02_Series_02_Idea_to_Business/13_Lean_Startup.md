@@ -1,17 +1,12 @@
 # Lean Startup
-## The methodology that changed how businesses are created
 
 **Series 02: From Idea to Business — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The methodology that changed how businesses are created
 
 ### Prologue
 In 2011, Eric Ries published "The Lean Startup," a book that synthesized ideas from lean manufacturing, agile software development, and Steve Blank's customer development methodology into a practical framework for building new businesses under conditions of extreme uncertainty. The book became one of the most influential entrepreneurial texts of the decade, not because it described something entirely new but because it gave names and structure to a set of practices that the most effective entrepreneurs had been using intuitively for years, and made those practices accessible to people who were not yet intuitive about them.

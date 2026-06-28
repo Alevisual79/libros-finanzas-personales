@@ -1,17 +1,12 @@
 # Depression and Daily Life
-## Living With and Managing Depression Day to Day
 
 **Series 7: Depression and Mental Wellbeing — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Living With and Managing Depression Day to Day
 
 ### Prologue
 The clinical literature describes depression in diagnostic criteria, neurobiological mechanisms, and treatment outcomes. What it less fully conveys is what depression actually does to a day — to the specific, ordinary texture of hours and decisions and interactions that constitute a human life. For Thomas, who had been managing a depressive disorder for three years, depression was most concretely the shower he couldn't bring himself to take, the emails he didn't answer, the friends he stopped calling because the effort of the call exceeded whatever he might get from it, the food that had no taste, the bed that he returned to at midday not because he was physically tired but because there seemed to be no more reason to be upright. The clinical descriptions were accurate; they just didn't fully capture what it was like to try to construct a functional day out of the materials that depression left.

@@ -1,7 +1,5 @@
 # La salud ósea después de los 50
 
-## Osteoporosis, calcio y mucho más que leche: la guía completa para huesos fuertes
-
 **Serie Salud y Bienestar — Serie 7: Longevidad y Envejecimiento — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Osteoporosis, calcio y mucho más que leche: la guía completa para huesos fuertes
 
 ### Prólogo: La fractura que lo cambia todo
 

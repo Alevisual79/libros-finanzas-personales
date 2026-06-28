@@ -1,17 +1,12 @@
 # Selling Online
-## E-Commerce and Digital Sales for Regular People
 
 **Series 5: Multiple Income Streams — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## E-Commerce and Digital Sales for Regular People
 
 ### Prologue
 Elena's first experience with online selling was accidental. She listed a mid-century modern lamp she no longer needed on Facebook Marketplace. It sold in 45 minutes for $85. She'd paid $12 for it at a garage sale the previous summer.

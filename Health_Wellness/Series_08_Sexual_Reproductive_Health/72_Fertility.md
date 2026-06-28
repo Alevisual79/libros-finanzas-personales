@@ -1,17 +1,12 @@
 # Fertility
-## Understanding Reproductive Potential and Fertility Challenges
 
 **Series 8: Sexual and Reproductive Health — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding Reproductive Potential and Fertility Challenges
 
 ### Prologue
 Fertility is often something people assume will work until the moment they try to conceive — and then discover may not. Approximately 1 in 8 couples in the United States experience infertility (defined as inability to conceive after 12 months of regular unprotected intercourse, or 6 months for women over 35). The emotional weight of fertility struggles is substantial; the medical options have never been better.

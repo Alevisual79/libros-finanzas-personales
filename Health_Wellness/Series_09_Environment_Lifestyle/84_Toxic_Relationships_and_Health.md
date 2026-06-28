@@ -1,17 +1,12 @@
 # Toxic Relationships and Health
-## How Relationship Quality Shapes Physical Wellbeing
 
 **Series 9: Environment and Lifestyle — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Relationship Quality Shapes Physical Wellbeing
 
 ### Prologue
 The quality of our closest relationships is among the most powerful determinants of physical health — yet it rarely appears on standard health risk assessments alongside blood pressure and cholesterol. Research on relationship quality and health reveals connections so robust that they demand inclusion in any comprehensive account of what makes people healthy or ill.

@@ -1,17 +1,12 @@
 # Writing Clearly
-## The professional skill that distinguishes the good from the genuinely excellent
 
 **Series 5: Communication and Relationships — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The professional skill that distinguishes the good from the genuinely excellent
 
 ### Prologue
 Valentina had been copying and refining her prose for fifteen years. She had learned, in school, to write in the academic register — the formal, passive, nominalized style that her professors had rewarded and that she had brought into her professional writing without questioning. Her emails were clear but formal; her reports were thorough but dense; her memos were complete but rarely read in full.

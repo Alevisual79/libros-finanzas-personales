@@ -1,17 +1,12 @@
 # Miedo y Valentia
-## Como actuar aunque tengas miedo
 
 **Serie 04: Emociones y Gestión Emocional — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como actuar aunque tengas miedo
 
 ### Prólogo
 Ruben lleva seis meses queriendo cambiar de trabajo. El nuevo trabajo sería mejor en casi todos los aspectos: más acorde con sus valores, mejor remunerado, más alineado con la dirección profesional que quiere seguir. Y seis meses después sigue en el mismo sitio. Cuando se pregunta honestamente por qué, la respuesta no tiene que ver con la logistica ni con la preparación. Tiene que ver con el miedo: al rechazó, al fracaso, a equivocarse en la decisión. El miedo no tiene que ver con si el cambio vale la pena. Tiene que ver con si puede tolerar la incertidumbre del proceso. Y eso, descubrir que el miedo puede paralizar incluso cuando la lógica dice que hay que moverse, es la primera lección sobre como funciona el miedo en la vida adulta.

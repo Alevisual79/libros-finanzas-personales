@@ -1,17 +1,12 @@
 # Referral Marketing
-## Making word-of-mouth your most powerful growth engine
 
 **Series 03: Marketing and Sales — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Making word-of-mouth your most powerful growth engine
 
 ### Prologue
 Daniel ran a financial planning practice. Over seven years, he had built a client base of eighty-three families. He had never spent a dollar on marketing. He had no website for most of those seven years. He had no social media presence. His practice had been built entirely through referrals — introductions from clients who valued his work and had recommended him, without prompting and without incentive, to people in their networks who needed what he offered. Every one of his clients had come through a personal introduction from someone who knew his work. His practice was fully booked. His revenue grew every year. His customer acquisition cost was zero.

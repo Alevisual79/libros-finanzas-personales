@@ -1,17 +1,12 @@
 # Meetings That Do Not Kill You
-## How to make meetings productive, fewer, and survivable
 
 **Series 2: Time Management — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to make meetings productive, fewer, and survivable
 
 ### Prologue
 Every week, Rafa attended nineteen meetings. He had counted. They averaged forty-seven minutes, occupied approximately fourteen hours, and produced — by his honest reckoning — approximately three hours of value. The remaining eleven hours produced status updates that could have been emails, alignment conversations that generated alignment he could have achieved by walking over to the relevant colleague's desk, and one meeting that existed primarily, as far as he could tell, because it had existed every week for the past four years and no one had ever asked whether it should continue.

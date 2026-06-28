@@ -1,17 +1,12 @@
 # Habit Stacking
-## How to chain your habits together into a system that runs itself
 
 **Series 4: High Performance Habits — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to chain your habits together into a system that runs itself
 
 ### Prologue
 Marcus had eight habits he was trying to establish simultaneously. He knew, from reading James Clear and B.J. Fogg and Charles Duhigg, that eight simultaneous habits was probably too many. He tried them anyway. Three survived the first month; one survived the first year. The survivors were not the most important of the eight; they were the ones that happened to have the strongest environmental support and the most forgiving structure.

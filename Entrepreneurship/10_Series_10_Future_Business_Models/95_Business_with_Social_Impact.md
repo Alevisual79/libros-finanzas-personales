@@ -1,17 +1,12 @@
 # Business with Social Impact
-## Building profitable businesses that create genuine social value
 
 **Series 10: Future Business Models — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building profitable businesses that create genuine social value
 
 ### Prologue
 When Maya launched her workforce development company ten years ago, the business model was simple: train unemployed adults in digital skills, place them in technology jobs, and charge employers a placement fee. The social impact was clear. The commercial viability was not.

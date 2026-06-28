@@ -1,7 +1,5 @@
 # Resiliencia financiera: Construir para aguantar cualquier tormenta
 
-## El concepto más infravalorado de las finanzas personales
-
 **Serie Finanzas Personales — Serie 8: Protección y Emergencias — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El concepto más infravalorado de las finanzas personales
 
 ### Prólogo: Cuatro personas, cuatro tormentas
 

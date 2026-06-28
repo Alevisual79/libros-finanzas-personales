@@ -1,17 +1,12 @@
 # Prejuicios e Estereotipos
-## Cómo funciona la mente que categoriza y como reducir el daño
 
 **Serie 09: psicología Social e Influencia — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo funciona la mente que categoriza y como reducir el daño
 
 ### Prólogo
 Isabel ha contratado a personas en su carrera de recursos humanos y, mirando en retrospectiva, algunas de sus decisiones de contratación tenían sesgos que no reconocia en el momento. Ruben ha tratado de forma diferente a personas que no se lo merecian, basandose en categorías que no tenían relevancia para la situación. Elena ha recibido tratos diferentes en su vida que no estaban justificados por su comportamiento sino por características de su apariencia o identidad. Los prejuicios y los estereotipos no son aberraciones de mentes malas: son el resultado de mecanismos cognitivos normales que en determinados contextos producen errores sistemáticos con consecuencias reales para personas reales. Este libro es sobre esos mecanismos y sobre como reducir el daño que producen.

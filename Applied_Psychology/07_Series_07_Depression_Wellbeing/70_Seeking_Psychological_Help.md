@@ -1,17 +1,12 @@
 # Seeking Psychological Help
-## How to Find the Right Support and Make the Most of It
 
 **Series 7: Depression and Mental Wellbeing — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Find the Right Support and Make the Most of It
 
 ### Prologue
 The decision to seek psychological help is, for many people, one of the most difficult decisions they will make — not because the need is unclear but because the barriers are substantial. The barriers are multiple: stigma (the fear of being judged for needing help); uncertainty (not knowing what kind of help is available or appropriate); practical obstacles (cost, access, time, knowing where to start); and the specific features of the conditions that make help-seeking most necessary (depression reduces motivation and initiative; anxiety produces avoidance; shame reduces the willingness to disclose).

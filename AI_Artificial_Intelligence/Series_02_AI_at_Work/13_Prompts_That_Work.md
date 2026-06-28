@@ -1,17 +1,12 @@
 # Prompts That Work
-## The Art and Science of Communicating with AI
 
 **Series 2: AI at Work — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Art and Science of Communicating with AI
 
 ### Prologue
 'Write me an email' gives you a generic email. 'Write a 150-word email to a client of three years proposing a renewal meeting, professional but warm tone' gives you something usable. The difference is not magic. It is method.

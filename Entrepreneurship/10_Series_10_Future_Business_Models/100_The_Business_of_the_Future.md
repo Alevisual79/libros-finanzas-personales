@@ -1,17 +1,12 @@
 # The Business of the Future
-## Building enterprises that thrive in a world of permanent change
 
 **Series 10: Future Business Models — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building enterprises that thrive in a world of permanent change
 
 ### Prologue
 When Victor was asked to address a group of early-stage founders at the end of a three-day entrepreneurship conference, he was the last speaker before the final dinner. His audience had spent three days absorbing frameworks, models, and case studies. They had heard from successful founders about their growth strategies, from investors about what they looked for in fundable businesses, and from experts about the specific technologies — AI, blockchain, personalization, platforms — that were reshaping business across industries.

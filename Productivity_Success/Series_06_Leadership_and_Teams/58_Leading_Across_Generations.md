@@ -1,17 +1,12 @@
 # Leading Across Generations
-## Understanding and leveraging the generational diversity of the modern team
 
 **Series 6: Leadership and Teams — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and leveraging the generational diversity of the modern team
 
 ### Prologue
 Marcus's team of eight included professionals whose birth years spanned more than two decades. The oldest had entered the workforce before the internet was widely available; the youngest had never worked in a non-digitally-networked environment. Their career expectations, their relationship to work-life integration, their preferences for communication and feedback, their orientations toward authority and institutional loyalty — these were shaped by fundamentally different formative experiences, and the differences were occasionally visible in the team's interpersonal dynamics.

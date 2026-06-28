@@ -1,7 +1,5 @@
 # Sexualidad y envejecimiento
 
-## El deseo, los cambios y cómo mantener una vida sexual satisfactoria en cualquier etapa de la vida
-
 **Serie Salud y Bienestar — Serie 8: Salud Sexual y Reproductiva — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El deseo, los cambios y cómo mantener una vida sexual satisfactoria en cualquier etapa de la vida
 
 ### Prólogo: Lo que nadie dice sobre el sexo después de los 60
 

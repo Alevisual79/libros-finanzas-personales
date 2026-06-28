@@ -1,17 +1,12 @@
 # Comportamiento Impulsivo
-## Como parar antes de que la reacción te cueste lo que no quieres perder
 
 **Serie 08: Personalidad y Comportamiento — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como parar antes de que la reacción te cueste lo que no quieres perder
 
 ### Prólogo
 Ruben envió el email cuando todavía estaba furioso. Tardo cinco minutos en escribirlo y tres semanas en recuperarse de las consecuencias. Isabel dijo algo en una reunión que supo inmediatamente que no debería haber dicho. La cara de la persona a quien se lo dijo tardo meses en recuperar la calidez anterior. Elena hizo una compra grande un sabado por la tarde de impulso. El lunes por la mañana la devolvio, pero el daño financiero de las dos horas entre la compra y el cierre de la tienda no era recuperable. El comportamiento impulsivo tiene en común que ocurre en el espacio donde debería haber una pausa. Este libro es sobre esa pausa: por qué no existe cuando más la necesitamos, y como construirla.

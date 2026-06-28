@@ -1,17 +1,12 @@
 # Trauma and Relationships
-## How Wounds Shape the Way We Connect
 
 **Series 5: Trauma and Wounds — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Wounds Shape the Way We Connect
 
 ### Prologue
 By the time James came to couples therapy, he and his partner had been together for seven years and had developed what both of them, separately, described as a specific, exhausting pattern. Something would happen — something his partner did or didn't do — and James would disconnect, withdraw, and become distant in a way that was simultaneously impenetrable and deeply alarming to the partner, who would pursue and attempt to reconnect, which would cause James to withdraw further. Neither of them understood what was happening. From James's perspective, he was protecting himself from something he couldn't quite name. From his partner's perspective, the person she loved kept disappearing at the moments when she most needed him. What their couples therapist eventually helped them see was that what was happening between them was, in important ways, older than their relationship — it was James's nervous system replaying the most important thing it had ever learned about what happened when people got too close.

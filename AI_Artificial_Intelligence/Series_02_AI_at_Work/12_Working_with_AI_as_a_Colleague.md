@@ -1,17 +1,12 @@
 # Working with AI as a Colleague
-## The New Skill of Managing Intelligent Machines
 
 **Series 2: AI at Work — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The New Skill of Managing Intelligent Machines
 
 ### Prologue
 Ruben's team had five people. In early 2025 they added a sixth member: a set of AI tools he started calling 'the assistant'. It never arrived late, never had a bad day, and produced first drafts in seconds. Learning to direct it well was the real work.

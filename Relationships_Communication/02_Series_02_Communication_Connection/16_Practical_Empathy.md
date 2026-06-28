@@ -1,17 +1,12 @@
 # Practical Empathy
-## How to put yourself in someone else's shoes without losing yourself
 
 **Series 2: Communication and Connection — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to put yourself in someone else's shoes without losing yourself
 
 ### Prologue
 Sarah had been told, at various points in her life, that she was an empathetic person. She took care of people. She noticed when they were struggling. She asked the right questions. These were all true.

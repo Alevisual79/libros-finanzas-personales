@@ -1,17 +1,12 @@
 # Sleep and Mental Health
-## Why Sleep Is the Foundation of Psychological Wellbeing
 
 **Series 7: Depression and Mental Wellbeing — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why Sleep Is the Foundation of Psychological Wellbeing
 
 ### Prologue
 Daniel had been sleeping five to six hours a night for most of his adult life. He considered this a personal characteristic — a feature of his constitution, like his height or his metabolism — rather than a choice or a problem. He was busy; sleep seemed like the most efficient thing to sacrifice when time was limited; and he had learned to function in a state that he had ceased to recognize as impaired because it had become his baseline. When his therapist eventually asked him to track his sleep and his mood together, the correlation was startling: the days following shorter sleep were characterized by more negative emotion, more interpersonal friction, more cognitive errors, more difficulty with decisions that usually felt manageable. He had not been unaffected by his sleep deprivation; he had been adapted to not noticing the effects.

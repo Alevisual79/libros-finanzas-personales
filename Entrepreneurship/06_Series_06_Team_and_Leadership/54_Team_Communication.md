@@ -1,17 +1,12 @@
 # Team Communication
-## How to keep your team aligned, informed, and moving together
 
 **Series 06: Team and Leadership — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to keep your team aligned, informed, and moving together
 
 ### Prologue
 When Chloe's UX design studio grew from four to eleven people in eighteen months, the communication that had worked flawlessly at four people stopped working at eleven. The problems were incremental and then suddenly pervasive: a project manager and a lead designer who were working at cross-purposes on the same deliverable because neither knew what the other had committed to the client; a team meeting where six people had prepared for a discussion that the organizer had decided to postpone but hadn't communicated; a new hire who spent her first three weeks uncertain about basic processes and too uncomfortable to ask. None of these were dramatic failures. Together, they added up to a team that was increasingly anxious, inefficient, and frustrating to work in.

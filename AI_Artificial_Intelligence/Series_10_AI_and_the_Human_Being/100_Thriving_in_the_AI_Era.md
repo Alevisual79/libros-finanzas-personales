@@ -1,17 +1,12 @@
 # Thriving in the AI Era
-## The NOVA Method Applied to Your Life
 
 **Series 10: AI and the Human Being — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The NOVA Method Applied to Your Life
 
 ### Prologue
 Elena, Ruben, and Isabel had been on different journeys through the ten series of this collection. They arrived at the same destination: not AI experts, but people with the judgment to use AI well, the skills to contribute what AI cannot, and the adaptability to keep learning as everything changes.

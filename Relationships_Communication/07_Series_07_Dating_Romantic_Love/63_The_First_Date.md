@@ -1,17 +1,12 @@
 # The First Date
-## How to be present and show who you really are
 
 **Series 7: Dating and Romantic Love — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to be present and show who you really are
 
 ### Prologue
 Valentina had not been on a first date in twenty-three years.

@@ -1,7 +1,5 @@
 # Medicina preventiva desde los 30
 
-## El plan de chequeos, revisiones y hábitos según la edad — porque la prevención no espera a los síntomas
-
 **Serie Salud y Bienestar — Serie 5: Prevención y Chequeos — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El plan de chequeos, revisiones y hábitos según la edad — porque la prevención no espera a los síntomas
 
 ### Prólogo: La salud que se construye antes de necesitarla
 

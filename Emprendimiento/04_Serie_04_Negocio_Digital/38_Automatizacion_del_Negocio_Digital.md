@@ -1,17 +1,12 @@
 # Automatización del Negocio Digital
-## Cómo hacer que el negocio trabaje mientras duermes
 
 **Serie 04: Negocio Digital — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo hacer que el negocio trabaje mientras duermes
 
 ### Prólogo
 Carlos trabaja doce horas diarias en su negocio digital y cuando para de trabajar, el negocio para. Lucia tiene claro que quiere un negocio más automatizado pero cada vez que intenta automatizar algo se enreda en la tecnología y acaba haciendo las cosas manualmente. Marcos viene del mundo corporativo donde la automatización era responsabilidad del departamento de IT y no sabe por donde empezar como emprendedor individual. Los tres necesitan entender algo fundamental: la automatización del negocio digital no es solo una herramienta de eficiencia. Es el componente que distingue el negocio que escala del que tiene un techo limitado por las horas del fundador. Y en 2024, automatizar un negocio digital no requiere conocimiento técnico avanzado: requiere entender la lógica correcta.

@@ -1,17 +1,12 @@
 # Motivating Without Money
-## The real sources of professional engagement and sustained performance
 
 **Series 6: Leadership and Teams — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The real sources of professional engagement and sustained performance
 
 ### Prologue
 Marcus's first significant managerial challenge was a team member who was clearly not engaged. The work was being done — adequately, without obvious errors — but without the initiative, creativity, or quality that he knew the team member was capable of. The performance review process had identified "development opportunities"; the compensation review had resulted in a meaningful raise. Neither intervention had changed the team member's engagement level by any amount that Marcus could detect.

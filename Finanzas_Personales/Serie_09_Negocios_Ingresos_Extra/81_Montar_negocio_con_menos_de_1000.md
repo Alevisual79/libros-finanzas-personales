@@ -1,7 +1,5 @@
 # Montar un negocio con menos de 1.000€
 
-## Negocios de bajo coste y alta rentabilidad para empezar desde cero
-
 **Serie Finanzas Personales — Serie 9: Negocios e Ingresos Extra — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Negocios de bajo coste y alta rentabilidad para empezar desde cero
 
 ### Prólogo: La tarde que Marta dejó de esperar el momento perfecto
 

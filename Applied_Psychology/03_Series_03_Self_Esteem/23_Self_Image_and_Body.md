@@ -1,17 +1,12 @@
 # Self-Image and Body
-## How We See Ourselves and Why It Matters
 
 **Series 3: Self-Esteem and Self-Image — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How We See Ourselves and Why It Matters
 
 ### Prologue
 When a photograph was taken at her 40th birthday, Laura was surrounded by people she loved, in a moment she remembered as happy. When she looked at the photograph the next day, she could not identify the moment in the image — the person she saw did not match the person she remembered being. The experience was unsettling in a way she had difficulty articulating: the photograph was accurate, she supposed, in some literal sense, but what she saw in it seemed like a different person than the one she had been that evening. She had spent twenty years on some version of a diet, twenty years of looking at her body with critical attention, twenty years of believing that what she saw in the mirror was more definitively "her" than anything she actually did in the world.

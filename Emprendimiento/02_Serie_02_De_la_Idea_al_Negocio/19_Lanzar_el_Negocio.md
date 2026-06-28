@@ -1,17 +1,12 @@
 # Lanzar el Negocio
-## Estrategia de lanzamiento que genera tracción desde el dia uno
 
 **Serie 02: De la Idea al Negocio — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Estrategia de lanzamiento que genera tracción desde el dia uno
 
 ### Prólogo
 Lucia paso seis meses preparando su lanzamiento y cuando finalmente lo hizo, el resultado fue más silencioso de lo que había esperado. Carlos lanzo en la semana doce sin mucha preparación y consiguio sus primeros tres clientes en las dos semanas siguientes. Marcos planea un lanzamiento corporativo con videos de producción profesional, notas de prensa, y eventos de presentación. Los tres estan enfrentando la misma pregunta de formas diferentes: ¿cómo se lanza un negocio de forma que genere tracción real desde el principio, en lugar de solo ruido temporal? Un lanzamiento no es un evento. Es el inició de un proceso de captación de tracción que puede durar meses.

@@ -1,17 +1,12 @@
 # Tu Mapa Relacional
-## Dibuja el ecosistema de relaciones que tienes y el que quieres tener
 
 **Serie 01: Conocete a Ti Mismo — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Dibuja el ecosistema de relaciones que tienes y el que quieres tener
 
 ### Prólogo
 Elena tiene 347 contactos en el móvil y tres personas a las que llamaria si algo fuera realmente mal. Ruben tiene un grupo de WhatsApp de doce personas con las que queda regularmente y ninguna que sepa realmente quien es. Isabel tiene familia, colegas, vecinos y conocidos de gym. Y se siente sola.

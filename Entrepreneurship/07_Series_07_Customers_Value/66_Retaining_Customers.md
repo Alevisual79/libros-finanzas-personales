@@ -1,17 +1,12 @@
 # Retaining Customers
-## The economics of loyalty and how to build it deliberately
 
 **Series 07: Customers and Value — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The economics of loyalty and how to build it deliberately
 
 ### Prologue
 In his fifth year of running a managed IT services business for small law firms, Will discovered a financial truth that changed how he ran his company. His business had grown from twelve clients in year one to thirty-eight clients in year five, adding an average of seven new clients per year. But he was working as hard in year five as in year one, earning only modestly more, and feeling like the business was not accumulating the value that five years of effort should have produced.

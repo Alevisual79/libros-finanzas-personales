@@ -1,17 +1,12 @@
 # El Poder de la Vulnerabilidad
-## Por qué mostrarte tal como eres es tu mayor fortaleza
 
 **Serie 02: Comunicación y Conexión — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué mostrarte tal como eres es tu mayor fortaleza
 
 ### Prólogo
 Ruben tiene treinta y dos años y nunca ha dicho estoy asustado a nadie que no sea el interior de su cabeza. Ha aprendido muy bien que los hombres no tienen miedo, o al menos no lo muestran. El resultado es que las personas a su alrededor no saben quien es realmente. Y el tampoco se lo ha permitido saber.

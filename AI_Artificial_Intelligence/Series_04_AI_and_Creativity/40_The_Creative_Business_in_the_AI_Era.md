@@ -1,17 +1,12 @@
 # The Creative Business in the AI Era
-## Positioning and Pricing When Anyone Can Produce
 
 **Series 4: AI and Creativity — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Positioning and Pricing When Anyone Can Produce
 
 ### Prologue
 Isabel's design team went from five people to three after AI tools tripled productivity. The remaining two designers were exceptional. The three who left were competent. The distinction that had not mattered before — exceptional vs. competent — suddenly mattered enormously.

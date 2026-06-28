@@ -1,17 +1,12 @@
 # Anxiety and Work
-## Managing Performance Pressure and Workplace Stress
 
 **Series 2: Anxiety and Fears — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Managing Performance Pressure and Workplace Stress
 
 ### Prologue
 By all visible measures, Maya was thriving at 36. She had been promoted twice in four years, managed a team she respected, and received consistently strong performance reviews. She also spent Sunday evenings in a state of dread that intensified through Sunday night into Monday morning; checked her email at midnight on Tuesdays to ensure nothing was going wrong with a project; rehearsed upcoming difficult conversations with colleagues for hours in the shower; and by Thursday of most weeks felt such anticipatory exhaustion about the next week that the weekend barely registered as rest. Her output was high. Her experience of that output was suffering.

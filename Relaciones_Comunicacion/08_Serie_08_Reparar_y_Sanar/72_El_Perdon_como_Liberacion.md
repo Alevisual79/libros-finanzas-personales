@@ -1,17 +1,12 @@
 # El Perdon como Liberación
-## Perdonar no para el otro sino para ti mismo
 
 **Serie 08: Reparar y Sanar — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Perdonar no para el otro sino para ti mismo
 
 ### Prólogo
 Elena lleva cinco años sin hablar con una amiga. No recuerda exactamente por qué empezó el silencio: una discusión que se enredo con resentimientos más antiguos, palabras dichas que ninguna de las dos ha querido revisar. El rencor, con el tiempo, se ha vuelto más familiar que la amistad que reemplazo, una presencia constante que Elena carga sin siquiera notar ya su peso.

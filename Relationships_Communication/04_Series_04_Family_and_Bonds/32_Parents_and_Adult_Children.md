@@ -1,17 +1,12 @@
 # Parents and Adult Children
-## How to redefine the relationship when children grow up
 
 **Series 4: Family and Bonds — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to redefine the relationship when children grow up
 
 ### Prologue
 Rosa's son had graduated from university at twenty-two and moved to another city. Her daughter had married at twenty-eight and was now raising her own children. Rosa was fifty-six and was, in what felt like the space of a few years, no longer primarily a mother of children she was responsible for but a mother of adults who were responsible for themselves.

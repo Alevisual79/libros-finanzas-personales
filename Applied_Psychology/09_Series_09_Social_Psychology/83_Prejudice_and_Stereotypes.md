@@ -1,17 +1,12 @@
 # Prejudice and Stereotypes
-## The Psychology of Bias and What We Can Actually Do About It
 
 **Series 9: Social Psychology and Influence — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Psychology of Bias and What We Can Actually Do About It
 
 ### Prologue
 When Patricia Devine published her landmark 1989 paper on prejudice and automatic versus controlled processing, she made a claim that was both scientifically rigorous and personally important: stereotypes are automatically activated in the minds of virtually everyone who grows up in a culture that contains them, regardless of those people's conscious attitudes toward the groups the stereotypes describe. The research she conducted showed that both high-prejudice and low-prejudice individuals showed automatic activation of racial stereotypes when subliminally primed with racial cues. What distinguished low-prejudice individuals was not the absence of stereotype activation but the presence of controlled processes that overrode and suppressed the automatic response.

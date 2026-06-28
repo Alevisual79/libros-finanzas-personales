@@ -1,7 +1,5 @@
 # La salud de la próstata
 
-## Prevención, hiperplasia benigna y cáncer de próstata sin alarmismo: lo que necesitas saber
-
 **Serie Salud y Bienestar — Serie 8: Salud Sexual y Reproductiva — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Prevención, hiperplasia benigna y cáncer de próstata sin alarmismo: lo que necesitas saber
 
 ### Prólogo: El miedo que no se nombra
 

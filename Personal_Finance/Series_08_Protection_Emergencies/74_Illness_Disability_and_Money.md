@@ -1,17 +1,12 @@
 # Illness, Disability and Money
-## Protecting Your Income When You Can't Work
 
 **Series 8: Protection & Emergencies — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Protecting Your Income When You Can't Work
 
 ### Prologue
 Isabel's colleague at work — a 44-year-old project manager with a good salary, a mortgage, and two teenagers — had a stroke. He was in the hospital for three weeks, in rehabilitation for two months, and unable to work for four months. He returned to work with some residual difficulties that required accommodation.

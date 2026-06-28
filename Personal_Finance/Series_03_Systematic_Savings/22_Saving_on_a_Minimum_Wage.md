@@ -1,17 +1,12 @@
 # Saving on a Minimum Wage
-## Building Savings When Money Is Tight
 
 **Series 3: Systematic Savings — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building Savings When Money Is Tight
 
 ### Prologue
 Not everyone reading a personal finance book earns $78,000 like Elena or has the income flexibility of a freelancer like Ruben. Many people are working for minimum wage or just above it — $15-$18/hour — and the advice to "save 10% of your income" translates to $100-$120/month before taxes on a full-time minimum wage job.

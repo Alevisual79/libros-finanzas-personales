@@ -1,17 +1,12 @@
 # Perdonar en Familia
-## Como soltar el peso de los rencores sin borrar la historia
 
 **Serie 04: Familia y Vínculos — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como soltar el peso de los rencores sin borrar la historia
 
 ### Prólogo
 Elena tiene rabia contra su madre y no lo sabe. Cree que lo que siente es indiferencia, una distancia emocional que atribuye simplemente a que no tienen mucho en común. La rabia disfrazada de indiferencia es, de todas las formas de rabia no procesada, la más difícil de identificar y de curar, precisamente porque se siente como ausencia de sentimiento en lugar de como sentimiento intenso.

@@ -1,17 +1,12 @@
 # Breathing — How Breath Practice Affects the Nervous System and Health
-## The Science Behind Controlled Breathing and Its Effects on Body and Mind
 
 **Series 10: Integrative Health — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science Behind Controlled Breathing and Its Effects on Body and Mind
 
 ### Prologue
 Marcus had been sitting in the cardiologist's waiting room for forty minutes when he noticed his hands were trembling. His heart had been racing irregularly for weeks — episodes that lasted hours, left him drenched in sweat, and sent him spiraling into catastrophic thinking. He was forty-four, ran three times a week, ate reasonably well, and had no history of cardiac disease. What his cardiologist would eventually tell him, after ruling out arrhythmia and structural abnormalities, was something that surprised him: the problem, in large part, was how he breathed.

@@ -1,7 +1,5 @@
 # El suelo pélvico: El músculo olvidado
 
-## Incontinencia, prolapso y disfunción sexual: cómo prevenir y recuperar la función pélvica
-
 **Serie Salud y Bienestar — Serie 8: Salud Sexual y Reproductiva — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Incontinencia, prolapso y disfunción sexual: cómo prevenir y recuperar la función pélvica
 
 ### Prólogo: El músculo que nadie menciona
 

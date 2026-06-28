@@ -1,7 +1,5 @@
 # El Método RESET: El sistema que nadie te enseñó para tener salud real
 
-## Por qué sabes lo que tienes que hacer y no lo haces, y cómo cambiar eso para siempre
-
 **Libro 0 — El libro que lees antes de leer cualquier otro de esta serie**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué sabes lo que tienes que hacer y no lo haces, y cómo cambiar eso para siempre
 
 ### Prólogo: Lo que todos sabemos y nadie aplica
 

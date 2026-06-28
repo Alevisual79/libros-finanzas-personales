@@ -1,17 +1,12 @@
 # Conformidad y Disidencia
-## Por qué seguimos al grupo y cuando es valiente no hacerlo
 
 **Serie 09: psicología Social e Influencia — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué seguimos al grupo y cuando es valiente no hacerlo
 
 ### Prólogo
 Ruben estuvo en una reunión donde todos apoyaron una decisión que el consideraba mala. No dijo nada. Isabel ha visto como personas que individualmente son críticas y analiticas, en reunión con su equipo, de repente aprueban propuestas que en privado habrían cuestionado. Elena recuerda situaciones de su adolescencia donde hizo cosas que no quería hacer porque todo el mundo lo hacía. La conformidad es una de las fuerzas más potentes que moldean el comportamiento humano. Este libro es sobre esa fuerza: por qué existe, que la amplifica, que la reduce, y como desarrollar la capacidad de disentir cuando la situación lo requiere.

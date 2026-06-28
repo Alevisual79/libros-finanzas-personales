@@ -1,17 +1,12 @@
 # The Continuous Learning Mindset
-## Why the best entrepreneurs never stop being students
 
 **Series 01: Entrepreneurial Mindset — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why the best entrepreneurs never stop being students
 
 ### Prologue
 Priya had been building software products for twelve years before she became a founder. She knew product development the way a musician knows their instrument — intuitively, deeply, in ways she could not always articulate but could always deploy. When she launched her project management tool for creative agencies, she expected the product knowledge to be her primary advantage. What she discovered was that the entrepreneurial context required learning at a speed and across domains that her previous career had never demanded. In a single week, she needed to understand SaaS pricing psychology, cold email conversion rates, early-stage hiring practices, and the legal requirements for her first commercial contract.

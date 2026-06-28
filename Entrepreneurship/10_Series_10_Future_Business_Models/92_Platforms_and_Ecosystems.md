@@ -1,17 +1,12 @@
 # Platforms and Ecosystems
-## Building businesses that connect and create value between multiple sides
 
 **Series 10: Future Business Models — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building businesses that connect and create value between multiple sides
 
 ### Prologue
 When Marcus launched his marketplace for independent fitness instructors and fitness seekers, he thought the product was simple: connect people who wanted to teach fitness classes with people who wanted to take them. It turned out to be the hardest product he had ever built.

@@ -1,7 +1,5 @@
 # Tu peso ideal no es el que crees
 
-## Composición corporal, músculo y la obsesión con la báscula
-
 **Serie Salud y Bienestar — Serie 1: Alimentación Sin Dietas — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Composición corporal, músculo y la obsesión con la báscula
 
 ### Prólogo: El número que nos obsesiona
 

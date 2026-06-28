@@ -1,17 +1,12 @@
 # Emotional Dependency
-## When love becomes an irresistible need
 
 **Series 9: Boundaries and Toxic Relationships — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When love becomes an irresistible need
 
 ### Prologue
 Sana had come to understand, after the friendship ended and after several months of processing, that what she had been calling her "deep capacity for connection" had also been something else.

@@ -1,17 +1,12 @@
 # The Role of the Stories We Tell Ourselves
-## How Narrative Shapes Identity, Memory, and Possibility
 
 **Series 6: Mental Habits and Beliefs — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Narrative Shapes Identity, Memory, and Possibility
 
 ### Prologue
 Alejandro had two different versions of his own life that he told, depending on who was asking and in what context. The professional version was a coherent narrative of progression — challenges met, skills developed, opportunities seized. The private version was something more discouraging: a series of near-misses, fortunate accidents, and performances that had been sufficient but never excellent. Both versions were built from the same factual material. Both were, in their different ways, accurate in the sense of including events that actually occurred and omitting events that didn't. What made them different was not the events but the organizational principle — the interpretive frame that connected events into a story with a particular meaning about the person at its center. He had not consciously chosen either version. They had accumulated over years of telling and retelling, shaping and reshaping. The version he was in depended on factors he couldn't entirely predict: his mood, the context, who was asking, how the recent past had gone.

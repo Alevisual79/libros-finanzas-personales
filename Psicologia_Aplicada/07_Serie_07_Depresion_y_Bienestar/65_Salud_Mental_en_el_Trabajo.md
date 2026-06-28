@@ -1,17 +1,12 @@
 # Salud Mental en el Trabajo
-## Como cuidar la mente en entornos de alta presión
 
 **Serie 07: Depresión y Bienestar Mental — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como cuidar la mente en entornos de alta presión
 
 ### Prólogo
 Ruben trabaja en marketing freelance en un entorno de alta exigencia: los plazos son ajustados, los clientes son exigentes, y la incertidumbre del trabajo autonomo es constante. Ha normalizado el estrés como parte del precio del éxito. Lo que no ha normalizado es que ese nivel de estrés tiene consecuencias para su salud mental que va a pagar, antes o después, de una forma u otra. Este libro es sobre la salud mental en el entorno laboral: los riesgos específicos que el trabajo produce, las estrategias que la investigación muestra que funcionan, y como construir una relación con el trabajo que no destruya la mente.

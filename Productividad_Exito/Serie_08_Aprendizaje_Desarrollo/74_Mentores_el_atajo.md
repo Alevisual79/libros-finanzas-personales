@@ -1,7 +1,5 @@
 # Mentores: El atajo que pocos aprovechan
 
-## Cómo encontrar y aprovechar a personas que ya llegaron donde quieres ir
-
 **Serie Productividad y Éxito — Serie 8: Aprendizaje y Desarrollo Personal — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo encontrar y aprovechar a personas que ya llegaron donde quieres ir
 
 ### Prólogo: La pregunta que cambio la trayectoria de Elena
 

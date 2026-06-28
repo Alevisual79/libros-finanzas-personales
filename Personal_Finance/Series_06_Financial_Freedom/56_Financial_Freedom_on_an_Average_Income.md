@@ -1,17 +1,12 @@
 # Financial Freedom on an Average Income
-## A Realistic Path to Financial Freedom Without a High Salary
 
 **Series 6: Financial Freedom — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A Realistic Path to Financial Freedom Without a High Salary
 
 ### Prologue
 Elena pulled up her paycheck one Tuesday evening and did something she rarely did: she actually looked at it. Not just the net deposit number, which she'd memorized from habit, but the full breakdown — gross pay, federal withholding, state taxes, Social Security, Medicare, her 401(k) contribution, health insurance premium. By the time all those deductions came through, her $78,000 annual salary produced a monthly take-home of roughly $4,850. She set her coffee down and thought about the people she followed online who talked about financial freedom. Most of them seemed to have started businesses, landed tech jobs with equity, or married partners who made serious money. She was none of those things. She was a marketing coordinator in a mid-sized city who ate out too often, paid $1,400 in rent, and had only recently opened a Roth IRA. Was freedom even in the cards for someone like her?

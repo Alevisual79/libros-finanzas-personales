@@ -1,7 +1,5 @@
 # La revisión semanal
 
-## El hábito de reflexión que separa a los que mejoran de los que se estancan
-
 **Serie Productividad y Éxito — Serie 4: Hábitos de Alto Rendimiento — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El hábito de reflexión que separa a los que mejoran de los que se estancan
 
 ### Prólogo: El corredor que nunca mira el mapa
 

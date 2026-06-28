@@ -1,17 +1,12 @@
 # Marketing on a Budget
-## How to grow your customer base without spending a fortune
 
 **Series 03: Marketing and Sales — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to grow your customer base without spending a fortune
 
 ### Prologue
 When Diane launched her specialty food company from her home kitchen, her total marketing budget for the first year was $400: enough for a small amount of promotional packaging, some samples for potential stockists, and a minimal website. She had no social media advertising budget, no PR firm, and no brand identity designer on retainer. What she had was a product people genuinely loved, a willingness to show up personally at farmers markets and food festivals every weekend for eight months, and a discipline about building genuine relationships with the customers, journalists, and retail buyers who would become the foundation of her distribution.

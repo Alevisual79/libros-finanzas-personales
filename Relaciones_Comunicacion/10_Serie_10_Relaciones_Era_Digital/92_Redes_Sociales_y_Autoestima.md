@@ -1,17 +1,12 @@
 # Redes Sociales y Autoestima
-## Como las plataformas digitales afectan tu relación contigo mismo
 
 **Serie 10: Relaciones en la Era Digital — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como las plataformas digitales afectan tu relación contigo mismo
 
 ### Prólogo
 Ruben mira Instagram cuando se siente solo, buscando algo que llene esa sensación de vacio momentaneo. Instagram, consistentemente, le hace sentirse más solo después de usarlo, no menos. El sabe esto, con bastante claridad intelectual, y lo sigue haciendo de todas formas, atrapado en un patron que entiende pero que no ha logrado cambiar.

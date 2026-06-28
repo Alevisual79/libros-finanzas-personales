@@ -1,7 +1,5 @@
 # El hábito de aprendizaje continuo
 
-## Cómo mantenerse actualizado y relevante en un mundo que cambia rápido
-
 **Serie Productividad y Éxito — Serie 4: Hábitos de Alto Rendimiento — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo mantenerse actualizado y relevante en un mundo que cambia rápido
 
 ### Prólogo: La curva de obsolescencia
 

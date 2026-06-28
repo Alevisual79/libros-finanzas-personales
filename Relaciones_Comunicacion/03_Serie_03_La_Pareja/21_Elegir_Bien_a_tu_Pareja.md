@@ -1,17 +1,12 @@
 # Elegir Bien a tu Pareja
-## Lo que nadie te dijo sobre escoger a la persona correcta
 
 **Serie 03: La Pareja — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que nadie te dijo sobre escoger a la persona correcta
 
 ### Prólogo
 Elena se enamoro tres veces antes de los treinta y cinco. Las tres veces lo sintio con la misma intensidad. Las tres veces pensó que era el definitivo. Y las tres veces descubrió, con el tiempo, que había elegido a alguien que no era bueno para ella. No por mala suerte. Por los mismos patrones que repitió sin verlos.

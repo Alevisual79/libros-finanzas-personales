@@ -1,7 +1,5 @@
 # Insomnio: Causas reales y soluciones que funcionan
 
-## Sin pastillas de por vida: el tratamiento que los médicos no siempre tienen tiempo de explicar
-
 **Serie Salud y Bienestar — Serie 3: Sueño y Descanso — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Sin pastillas de por vida: el tratamiento que los médicos no siempre tienen tiempo de explicar
 
 ### Prólogo: El insomnio que no se ve
 

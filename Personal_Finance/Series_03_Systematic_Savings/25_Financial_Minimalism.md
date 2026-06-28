@@ -1,17 +1,12 @@
 # Financial Minimalism
-## Spending Less by Wanting Less
 
 **Series 3: Systematic Savings — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Spending Less by Wanting Less
 
 ### Prologue
 Ruben has always been drawn to minimal aesthetics. His apartment has little furniture, chosen carefully. His wardrobe is small and good. He doesn't acquire things compulsively. He'd always thought of himself as a non-materialist.

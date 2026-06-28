@@ -1,7 +1,5 @@
 # El sol, la vitamina D y la verdad a medias
 
-## Cómo exponerse al sol de forma inteligente y qué hay de cierto en el debate sobre la vitamina D
-
 **Serie Salud y Bienestar — Serie 9: Entorno y Estilo de Vida — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo exponerse al sol de forma inteligente y qué hay de cierto en el debate sobre la vitamina D
 
 ### Prólogo: El miedo al sol
 

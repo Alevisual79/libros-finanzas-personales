@@ -1,17 +1,12 @@
 # Prostate Health
-## Understanding and Managing Prostate Conditions
 
 **Series 8: Sexual and Reproductive Health — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Managing Prostate Conditions
 
 ### Prologue
 The prostate gland generates more medical discussion, anxiety, and over-treatment than almost any other organ. Prostate cancer is the most commonly diagnosed non-skin cancer in American men; yet most prostate cancers are slow-growing and will never cause symptoms or death. BPH (benign prostatic hyperplasia) affects the majority of men over 60 and significantly affects quality of life. Prostatitis causes significant pain and is often inadequately evaluated.

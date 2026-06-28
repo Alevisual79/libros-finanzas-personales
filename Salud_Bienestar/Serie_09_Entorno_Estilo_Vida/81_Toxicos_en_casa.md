@@ -1,7 +1,5 @@
 # Tóxicos en casa
 
-## Los productos cotidianos que afectan tu salud y las alternativas reales
-
 **Serie Salud y Bienestar — Serie 9: Entorno y Estilo de Vida — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Los productos cotidianos que afectan tu salud y las alternativas reales
 
 ### Prólogo: Lo que hay en el armario de debajo del fregadero
 

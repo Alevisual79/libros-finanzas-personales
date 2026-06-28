@@ -1,7 +1,5 @@
 # Proteger el patrimonio de los acreedores
 
-## Lo que es legal, lo que no, y lo que pocos hacen
-
 **Serie Finanzas Personales — Serie 8: Protección y Emergencias — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que es legal, lo que no, y lo que pocos hacen
 
 ### Prólogo: La empresa del cuñado
 

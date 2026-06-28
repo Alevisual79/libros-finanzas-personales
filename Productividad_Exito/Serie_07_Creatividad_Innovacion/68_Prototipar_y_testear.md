@@ -1,7 +1,5 @@
 # Prototipar y testear
 
-## Dejar de planear y empezar a aprender haciendo
-
 **Serie Productividad y Éxito — Serie 7: Creatividad e Innovación — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Dejar de planear y empezar a aprender haciendo
 
 ### Prólogo: El plan perfecto que nadie uso
 

@@ -1,17 +1,12 @@
 # Delegating for Real
-## The leadership leverage point that most managers never master
 
 **Series 6: Leadership and Teams — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The leadership leverage point that most managers never master
 
 ### Prologue
 When Sophie became a formal team leader for the first time, she brought with her the work ethic that had made her a standout individual contributor: thorough, detail-oriented, unwilling to let quality slip. These were genuine strengths. In the leadership role, they became liabilities.

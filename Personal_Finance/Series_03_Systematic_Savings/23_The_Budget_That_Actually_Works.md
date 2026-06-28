@@ -1,17 +1,12 @@
 # The Budget That Actually Works
-## Zero-Based Budgeting and Envelope Systems
 
 **Series 3: Systematic Savings — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Zero-Based Budgeting and Envelope Systems
 
 ### Prologue
 Elena had tried budgets before. She'd made spreadsheets with income and expense categories, assigned amounts to each, and felt organized and responsible for about two weeks. Then an expense she hadn't anticipated appeared, the spreadsheet stopped reflecting reality, and she quietly closed the tab.

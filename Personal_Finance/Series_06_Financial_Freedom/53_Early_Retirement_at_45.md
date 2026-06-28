@@ -1,17 +1,12 @@
 # Early Retirement at 45
-## What It Requires and Whether It Is Worth It
 
 **Series 6: Financial Freedom — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What It Requires and Whether It Is Worth It
 
 ### Prologue
 A colleague of Ruben's retired at 44. Not to a beach — he took on smaller, more interesting projects at his own pace, did some volunteering, traveled for several months a year, and occasionally consulted for former clients when he wanted to. He described it not as "not working" but as "working only when I want to."

@@ -1,17 +1,12 @@
 # El Método MENTE
-## Psicología práctica para entenderte y transformarte
 
 **Libro Madre — Colección Psicología Aplicada**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Psicología práctica para entenderte y transformarte
 
 ### Prólogo
 Elena tiene ansiedad de rendimiento que llama 'perfeccionismo'. Rubén tiene baja autoestima que llama 'realismo'. Isabel tiene miedo al abandono que llama 'independencia'. Los tres tienen una historia que no han terminado de leer.

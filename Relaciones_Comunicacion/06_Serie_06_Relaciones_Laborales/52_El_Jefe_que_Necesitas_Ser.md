@@ -1,17 +1,12 @@
 # El Jefe que Necesitas Ser
-## Liderar personas desde la relación, no desde el miedo
 
 **Serie 06: Relaciones Laborales — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Liderar personas desde la relación, no desde el miedo
 
 ### Prólogo
 Isabel lleva veinte años trabajando en recursos humanos. Ha visto a cientos de profesionales brillantes técnicamente que arruinaban equipos enteros por no saber relacionarse con las personas que dirigian. El patron se repite con una consistencia que debería ser, según Isabel, el primer tema que se ensena a cualquiera que asciende a un puesto de liderazgo, y rara vez lo es.

@@ -1,17 +1,12 @@
 # AI Meetings and Communication
-## How AI Changes Professional Interaction
 
 **Series 2: AI at Work — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How AI Changes Professional Interaction
 
 ### Prologue
 Ruben tracked his time in meetings for a month. He found that 60% of meeting time could have been handled with a well-structured async communication supported by AI. The other 40% required human presence more than ever.

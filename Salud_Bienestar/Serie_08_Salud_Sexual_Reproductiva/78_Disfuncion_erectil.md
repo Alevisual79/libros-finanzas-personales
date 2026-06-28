@@ -1,7 +1,5 @@
 # Disfunción eréctil: Más que un problema sexual
 
-## Lo que revela sobre la salud cardiovascular y cómo tratarla de forma integral
-
 **Serie Salud y Bienestar — Serie 8: Salud Sexual y Reproductiva — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que revela sobre la salud cardiovascular y cómo tratarla de forma integral
 
 ### Prólogo: Lo que David no decía
 

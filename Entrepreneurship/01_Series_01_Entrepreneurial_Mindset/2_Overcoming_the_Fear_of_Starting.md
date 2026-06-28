@@ -1,17 +1,12 @@
 # Overcoming the Fear of Starting
-## How to launch even when your head says it's not the right time
 
 **Series 01: Entrepreneurial Mindset — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to launch even when your head says it's not the right time
 
 ### Prologue
 Nadia had the business plan in a folder on her desktop for fourteen months. She opened it periodically, adjusted a number here, refined a paragraph there, and closed it again. The business — a specialized recruiting firm for mid-sized tech companies in her region — was as ready as a business plan can be. She had the industry experience. She had the contacts. She had the savings. What she did not have, and kept waiting to acquire, was the certainty that it was the right time.

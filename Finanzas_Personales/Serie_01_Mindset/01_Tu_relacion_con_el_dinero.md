@@ -1,7 +1,5 @@
 # Tu relación con el dinero está rota (y no es culpa tuya)
 
-## Por qué pensamos mal sobre el dinero desde la infancia y cómo reprogramar todo
-
 **Serie Finanzas Personales — Serie 1: Mindset del Dinero — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué pensamos mal sobre el dinero desde la infancia y cómo reprogramar todo
 
 ### Prólogo: Lo que aprendiste antes de saber leer
 

@@ -1,17 +1,12 @@
 # Type 2 Diabetes Prevention
-## The Lifestyle Choices That Determine Your Risk
 
 **Series 5: Prevention and Checkups — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Lifestyle Choices That Determine Your Risk
 
 ### Prologue
 Ruben's HbA1c of 5.8% placed him in the pre-diabetic range — glucose metabolism already shifting away from normal. His reaction: "I thought diabetes was something that happened to other kinds of people." He was 34, not overweight by standard BMI classifications, and had no family history he was aware of. He had, however, been sedentary for 6 years, consumed a diet high in refined carbohydrates and sugary drinks, and accumulated approximately 8 pounds of visceral fat he couldn't see because it was intra-abdominal.

@@ -1,5 +1,4 @@
 # El Método NOVA
-## Guía para entender, usar y prosperar en la era de la inteligencia artificial
 
 **Por qué la IA no es el futuro: ya es el presente, y esto es lo que necesitas hacer ahora**
 
@@ -13,7 +12,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Guía para entender, usar y prosperar en la era de la inteligencia artificial
 
 ### Prólogo: Tres personas ante la misma revolución
 

@@ -1,17 +1,12 @@
 # Family Rituals and Traditions
-## Why shared routines create identity and cohesion
 
 **Series 4: Family and Bonds — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why shared routines create identity and cohesion
 
 ### Prologue
 Every Christmas Eve of Rosa's childhood, her grandmother had made the same soup. The recipe was not exceptional — it was a straightforward vegetable broth with noodles and the particular herb combination that her grandmother had learned from her own mother — but the ritual of it, the specific smell of the kitchen in the late afternoon of December twenty-fourth, the particular bowl, the gathering of the family around the table before the soup was served: this had been the organizing center of her childhood December.

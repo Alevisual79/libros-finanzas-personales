@@ -1,17 +1,12 @@
 # Who You Are in Relationship
-## Discover your relational style and why you repeat the same patterns
 
 **Series 1: Know Yourself in Relationships — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Discover your relational style and why you repeat the same patterns
 
 ### Prologue
 Ana had been sitting in her car for eleven minutes. Inside the house, her husband Marcus waited with dinner on the table — a gesture she knew was loving, and yet the sight of it through the window made something in her chest tighten. She wasn't angry at him. She wasn't sure what she was. She had spent the whole drive home rehearsing a conversation about feeling unseen, but the moment she imagined his face — open, patient, already a little hurt — the words dissolved into silence. She turned the key back in the ignition, then stopped herself. *Why do I do this?* she thought. *Why do I always do this?*

@@ -1,17 +1,12 @@
 # Consumer Credit
-## When It Makes Sense and When It Does Not
 
 **Series 2: Zero Debt — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When It Makes Sense and When It Does Not
 
 ### Prologue
 Elena needed a new laptop for work. Her current machine was four years old, running slow, and she'd already lost two proposals because of crashes during video calls. The right laptop would cost $1,400. She had $800 in her savings account — not earmarked for anything critical, but not exactly surplus either.

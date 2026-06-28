@@ -1,17 +1,12 @@
 # Non-Traditional Families
-## How to function well in diverse family structures
 
 **Series 4: Family and Bonds — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to function well in diverse family structures
 
 ### Prologue
 Mei had two mothers. Not two women who both played the role of mother — two distinct people with distinct relationships to her: the woman who had given birth to her in Guangdong Province in 1987, whom she had never met, and the woman in Vancouver who had adopted her at five months and raised her with genuine care for thirty-eight years. She also had, somewhere, a biological father; and she had an adoptive father who had died when she was twelve. And she had a stepfather who had entered her mother's life when Mei was fifteen and who she had never fully known how to relate to — not unkindly, but from a distance that had never quite closed.

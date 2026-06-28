@@ -1,17 +1,12 @@
 # The 5-Hour Workday
-## The science of doing less to achieve more — and what it means for how we work
 
 **Series 2: Time Management — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The science of doing less to achieve more — and what it means for how we work
 
 ### Prologue
 Lucía's company tried an experiment. For six weeks, the marketing team would operate on a five-hour workday — structured, intensive hours from 8:00 AM to 1:00 PM, with the rest of the day available for personal use. The experiment was not expected to succeed; it was expected to produce the data that would justify returning to the normal schedule.

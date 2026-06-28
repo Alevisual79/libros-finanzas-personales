@@ -1,7 +1,5 @@
 # Gestión emocional para personas con enfermedades crónicas
 
-## Vivir bien cuando el cuerpo duele: herramientas reales para una carga que no desaparece
-
 **Serie Salud y Bienestar — Serie 4: Mente y Emociones — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Vivir bien cuando el cuerpo duele: herramientas reales para una carga que no desaparece
 
 ### Prólogo: Cuando el cuerpo se convierte en un trabajo a tiempo completo
 

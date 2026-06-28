@@ -1,17 +1,12 @@
 # Real Personal Change
-## What the Science Says About How People Actually Change
 
 **Series 10: Personal Growth — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What the Science Says About How People Actually Change
 
 ### Prologue
 The self-help industry — valued at over $11 billion in the United States alone — is sustained by a population that sincerely wants to change and regularly fails to do so through the methods most widely available. The pattern is familiar: an inspiring book, a moving seminar, a compelling resolution produces a period of genuine effort followed by gradual reversion to prior patterns. The effort was real. The desire was genuine. The method was inadequate.

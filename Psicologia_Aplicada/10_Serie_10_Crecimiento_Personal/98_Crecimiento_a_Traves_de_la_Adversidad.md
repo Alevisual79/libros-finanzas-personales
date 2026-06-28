@@ -1,17 +1,12 @@
 # Crecimiento a Traves de la Adversidad
-## Lo que las dificultades te ensenan sobre ti mismo
 
 **Serie 10: Crecimiento Personal — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que las dificultades te ensenan sobre ti mismo
 
 ### Prólogo
 Elena perdio un trabajo que era central en su identidad y tardo dos años en entender que esa perdida había reordenado sus prioridades de una forma que no habría ocurrido de otra manera. Ruben tuvo un fracaso de negocio que le parecio catastrofico en el momento y que tres años después reconoce como el aprendizaje más valioso de su carrera. Isabel ha atravesado una enfermedad grave que cambio su relación con el tiempo, las relaciones, y lo que considera importante de formas que ninguna experiencia positiva habría producido. Los tres han aprendido algo que la psicología confirma: la adversidad, cuando se atraviesa de cierta manera, produce crecimiento que la comodidad no puede producir.

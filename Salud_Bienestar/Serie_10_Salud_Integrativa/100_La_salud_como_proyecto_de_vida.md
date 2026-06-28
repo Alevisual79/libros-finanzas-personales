@@ -1,7 +1,5 @@
 # La salud como proyecto de vida
 
-## El manifiesto final del Método RESET
-
 **Serie Salud y Bienestar — Serie 10: Salud Integrativa — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El manifiesto final del Método RESET
 
 ### Prólogo: El último libro
 

@@ -1,17 +1,12 @@
 # The Second Source
-## Building Your First Additional Income Stream
 
 **Series 5: Multiple Income Streams — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building Your First Additional Income Stream
 
 ### Prologue
 The first $500 Elena ever made outside of her salary arrived in her bank account on a Thursday. She'd helped a small business owner she met at a professional event redesign their email marketing strategy. Three hours of her time, a deliverable, and an invoice for $500.

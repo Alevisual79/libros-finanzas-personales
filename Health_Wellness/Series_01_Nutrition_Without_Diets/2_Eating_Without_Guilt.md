@@ -1,17 +1,12 @@
 # Eating Without Guilt
-## How to Enjoy Food and Feel Good About It
 
 **Series 1: Nutrition Without Diets — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Enjoy Food and Feel Good About It
 
 ### Prologue
 Ruben described his eating as "60% discipline, 40% guilt." He ate well most of the time, worked out regularly, and cared about his health — and still felt guilty about nearly every food choice that wasn't on his mental "approved" list.

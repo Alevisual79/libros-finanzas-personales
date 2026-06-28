@@ -1,7 +1,5 @@
 # Cultura de equipo
 
-## Por qué la cultura come a la estrategia y cómo construirla
-
 **Serie Productividad y Éxito — Serie 6: Liderazgo y Trabajo en Equipo — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué la cultura come a la estrategia y cómo construirla
 
 ### Prólogo: La frase que cambio la perspectiva de Isabel
 

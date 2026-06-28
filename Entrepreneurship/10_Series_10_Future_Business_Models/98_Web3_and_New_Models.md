@@ -1,17 +1,12 @@
 # Web3 and New Models
-## Understanding decentralized technologies and their business implications
 
 **Series 10: Future Business Models — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding decentralized technologies and their business implications
 
 ### Prologue
 Rafael had been skeptical of blockchain technology since its first wave of hype. The speculative excess he had observed in cryptocurrency markets, the failures of early NFT projects, and the technical complexity that surrounded Web3 conversations had led him to dismiss the whole domain as a solution in search of problems.

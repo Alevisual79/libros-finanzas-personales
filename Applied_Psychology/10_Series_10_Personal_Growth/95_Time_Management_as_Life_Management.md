@@ -1,17 +1,12 @@
 # Time Management as Life Management
-## The Psychology of How We Use Our Most Finite Resource
 
 **Series 10: Personal Growth — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Psychology of How We Use Our Most Finite Resource
 
 ### Prologue
 In 1989, Stephen Covey introduced the "time management matrix" — a two-by-two grid organizing activities by urgency and importance — and proposed that most people spend the majority of their time in the urgent-but-not-important quadrant (responding to others' priorities) and the urgent-and-important quadrant (genuine crises), while neglecting the not-urgent-but-important quadrant (strategic planning, relationship investment, personal development) that determines the long-term quality of one's life. The insight was not new — Dwight Eisenhower had made the same distinction decades earlier — but Covey's synthesis reached millions of people and correctly identified a pattern that research has subsequently documented: people's time use tends to be driven by urgency signals rather than by importance assessment, with significant consequences for their sense of meaning, effectiveness, and wellbeing.

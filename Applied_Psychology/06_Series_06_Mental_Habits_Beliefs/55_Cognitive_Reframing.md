@@ -1,17 +1,12 @@
 # Cognitive Reframing
-## Changing the Frame Changes Everything
 
 **Series 6: Mental Habits and Beliefs — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Changing the Frame Changes Everything
 
 ### Prologue
 When Marguerite's business failed after three years, her first interpretation was also her dominant one for months: she had failed. She had invested time, money, and identity into something that had not worked, and the conclusion she drew was a direct line from the outcome to a verdict on herself. This interpretation was not arbitrary — it had evidence, it had emotional logic, it had the weight of a genuine loss behind it. But it was also not the only interpretation available. An investor who looked at the same situation might see three years of accelerated learning in market dynamics, customer behavior, operational challenges, and leadership — experience that would make her more capable in subsequent ventures than she had been before the first. A developmental psychologist might see a significant identity challenge that, if engaged with rather than avoided, would produce the post-traumatic growth that Book 50 of this collection describes. The event was fixed. The frame was not.

@@ -1,17 +1,12 @@
 # AI Bias
-## When Algorithms Discriminate and What to Do About It
 
 **Series 7: Ethics and Society — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When Algorithms Discriminate and What to Do About It
 
 ### Prologue
 ProPublica's analysis of the COMPAS recidivism algorithm in 2016 showed that it was systematically harsher on Black defendants. The company argued the algorithm was accurate. The critics argued accuracy was not the right standard. Both sides had a point.

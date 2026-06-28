@@ -1,17 +1,12 @@
 # Learn to Really Listen
-## The skill that transforms all your relationships
 
 **Series 2: Communication and Connection — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The skill that transforms all your relationships
 
 ### Prologue
 David had always believed he was a good listener. He remembered details. He rarely interrupted. When his wife Elena told him about a problem at work, he paid attention — and then, within about thirty seconds, he began generating solutions. Effective ones, usually. He was good at this.

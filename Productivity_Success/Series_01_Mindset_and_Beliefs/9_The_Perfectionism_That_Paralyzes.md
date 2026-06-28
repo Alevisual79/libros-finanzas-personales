@@ -1,17 +1,12 @@
 # The Perfectionism That Paralyzes
-## Why the pursuit of flawlessness undermines the excellence you're seeking
 
 **Series 1: Mindset and Beliefs — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why the pursuit of flawlessness undermines the excellence you're seeking
 
 ### Prologue
 Thomas had not missed a single deadline in eleven years. This was true, and it was less impressive than it sounded, because it was achieved through a specific mechanism: Thomas set internal deadlines three weeks before external ones, then spent the first two weeks producing work he considered good enough, and the final week revising it to a standard that satisfied him — a standard that was, his colleagues had learned, significantly higher than what any project actually required.

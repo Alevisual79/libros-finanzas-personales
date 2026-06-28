@@ -1,7 +1,5 @@
 # Testamento y voluntades: El trámite que aplazas y no deberías
 
-## Hacerlo fácil y rápido: por qué importa y cómo se hace
-
 **Serie Finanzas Personales — Serie 8: Protección y Emergencias — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Hacerlo fácil y rápido: por qué importa y cómo se hace
 
 ### Prólogo: La pregunta que Carlos no quería hacerse
 

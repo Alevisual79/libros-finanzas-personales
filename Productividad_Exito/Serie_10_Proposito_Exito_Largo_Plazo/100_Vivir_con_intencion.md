@@ -1,7 +1,5 @@
 # Vivir con intención
 
-## El manifiesto final del Método ACCIÓN
-
 **Serie Productividad y Éxito — Serie 10: Propósito y Éxito a Largo Plazo — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El manifiesto final del Método ACCIÓN
 
 ### Prólogo: El reencuentro de los tres
 

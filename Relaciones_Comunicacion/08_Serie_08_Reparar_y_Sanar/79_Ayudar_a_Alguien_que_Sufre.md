@@ -1,17 +1,12 @@
 # Ayudar a Alguien que Sufre
-## Como acompañar sin cargar, estar sin agotarte
 
 **Serie 08: Reparar y Sanar — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como acompañar sin cargar, estar sin agotarte
 
 ### Prólogo
 Isabel sabe que su hijo sufre. No sabe como ayudarle sin que la conversación termine inevitablemente en una pelea sobre soluciones que el rechaza, sobre consejos que el no pidio, sobre una ayuda que, sin que ella lo note, se ha convertido en presión en lugar de apoyo. El problema, descubre eventualmente, es que quiere resolver lo que en realidad solo puede acompañar.

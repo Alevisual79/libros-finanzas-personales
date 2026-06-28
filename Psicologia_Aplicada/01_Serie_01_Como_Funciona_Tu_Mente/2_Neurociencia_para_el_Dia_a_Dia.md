@@ -1,17 +1,12 @@
 # Neurociencia para el Dia a Dia
-## Lo que tu cerebro necesita que sepas sobre el
 
 **Serie 01: Como Funciona Tu Mente — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que tu cerebro necesita que sepas sobre el
 
 ### Prólogo
 Ruben tiene treinta y un años y cree que su memoria falla más que antes. Que se cansa más rápido de lo que debería. Que le cuesta concentrarse. Que duerme mal. Lleva años tratando estos problemas como defectos de carácter, señales de que no trabaja lo suficiente o no tiene suficiente disciplina. Nunca se le ha ocurrido tratarlos cómo lo que son: consecuencias predecibles de como está tratando a su cerebro. El órgano más complejo del universo conocido funciona mal no porque sea defectuoso, sino porque nadie le ensenó las instrucciones basicas.

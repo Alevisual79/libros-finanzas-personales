@@ -1,7 +1,5 @@
 # El estrés que te mata despacio
 
-## Cómo el cortisol crónico destruye tu salud y qué hacer antes de que sea tarde
-
 **Serie Salud y Bienestar — Serie 4: Mente y Emociones — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo el cortisol crónico destruye tu salud y qué hacer antes de que sea tarde
 
 ### Prólogo: El estado de emergencia permanente
 

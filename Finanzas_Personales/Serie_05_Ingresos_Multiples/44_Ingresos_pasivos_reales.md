@@ -1,7 +1,5 @@
 # Ingresos pasivos reales vs. ingresos pasivos del Instagram
 
-## La diferencia entre los de verdad y los del postureo, y cómo construir los primeros
-
 **Serie Finanzas Personales — Serie 5: Ingresos Múltiples — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La diferencia entre los de verdad y los del postureo, y cómo construir los primeros
 
 ### Prólogo: El curso que el cuñado iba a lanzar
 

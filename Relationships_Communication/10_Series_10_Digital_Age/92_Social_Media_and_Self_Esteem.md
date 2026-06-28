@@ -1,17 +1,12 @@
 # Social Media and Self-Esteem
-## How platforms affect your relationship with yourself
 
 **Series 10: Relationships in the Digital Age — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How platforms affect your relationship with yourself
 
 ### Prologue
 Mia had developed, over ten years of professional and personal social media use, a specific skill: she could look at the performance data of a post — the number of likes, the reach, the engagement rate — without it affecting her sense of self.

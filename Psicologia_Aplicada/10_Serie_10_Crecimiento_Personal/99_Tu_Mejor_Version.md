@@ -1,17 +1,12 @@
 # Tu Mejor Versión
-## Un concepto que libera cuando lo usas bien y aplasta cuando lo usas mal
 
 **Serie 10: Crecimiento Personal — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Un concepto que libera cuando lo usas bien y aplasta cuando lo usas mal
 
 ### Prólogo
 Elena siente que la presión de ser la mejor versión de si misma la agota más que la motiva. Ruben consume contenido de desarrollo personal que le hace sentir que nunca es suficiente, que siempre hay algo más que optimizar, una habilidad que mejorar, un hábito que adoptar. Isabel ha llegado a los cincuenta con la sospecha de que la búsqueda de la mejor versión de si misma ha sido a veces una forma de no aceptarse tal como es. Los tres necesitan lo mismo: una comprensión más matizada del crecimiento personal que incluya la aceptación, que distinga el desarrollo genuino de la optimización compulsiva, y que ponga el progreso al servicio de la vida en lugar de la vida al servicio del progreso.

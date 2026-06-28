@@ -1,17 +1,12 @@
 # Mature Love
-## From fleeting passion to the love that chooses every day
 
 **Series 7: Dating and Romantic Love — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## From fleeting passion to the love that chooses every day
 
 ### Prologue
 Owen had been in a relationship for eleven months when he noticed something he had not noticed in any previous relationship, because previous relationships had not lasted long enough for it to become visible.

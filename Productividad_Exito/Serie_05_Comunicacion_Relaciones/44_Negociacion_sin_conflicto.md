@@ -1,7 +1,5 @@
 # Negociación sin conflicto
 
-## Técnicas de negociación para personas que odian negociar
-
 **Serie Productividad y Éxito — Serie 5: Comunicación y Relaciones Profesionales — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Técnicas de negociación para personas que odian negociar
 
 ### Prólogo: Lo que dejó de pedir
 

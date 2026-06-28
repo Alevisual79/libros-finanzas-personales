@@ -1,7 +1,5 @@
 # Inversiones y fiscalidad: Lo que Hacienda se lleva de tus ganancias
 
-## IRPF, plusvalías, dividendos y cómo optimizar la fiscalidad del inversor
-
 **Serie Finanzas Personales — Serie 10: Impuestos y Patrimonio — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## IRPF, plusvalías, dividendos y cómo optimizar la fiscalidad del inversor
 
 ### Prólogo: La primera declaración con ganancias
 

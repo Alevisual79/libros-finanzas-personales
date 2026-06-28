@@ -1,17 +1,12 @@
 # Ansiedad Social
-## Cómo superar el miedo a lo que los demás piensen de ti
 
 **Serie 02: Ansiedad y Miedos — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo superar el miedo a lo que los demás piensen de ti
 
 ### Prólogo
 Ruben tiene veintinueve años y la mayor parte de sus interacciones sociales las realiza con un nivel de vigilancia interna que la mayoría de las personas nunca experimentara: monitorizando constantemente sus propias palabras y gestos para detectar errores, evaluando continuamente cómo lo perciben los demás, repasando mentalmente después de cada conversación todo lo que dijo mal. No es que no le gusten las personas. Es que relacionarse con ellas tiene un coste cognitivo y emocional que la mayoría no paga.

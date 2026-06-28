@@ -1,17 +1,12 @@
 # Professional Freelancing
-## How to build a high-value freelance career, not just gig work
 
 **Series 04: Digital Business — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to build a high-value freelance career, not just gig work
 
 ### Prologue
 The word "freelancing" carries two very different meanings depending on who uses it. For the person working multiple low-paying gig economy jobs to stitch together a subsistence income, freelancing is insecurity rebranded as flexibility. For the person building a high-value, well-positioned practice in a specific professional domain, freelancing is a deliberate career architecture that produces higher income, greater autonomy, and more meaningful work than most employment alternatives.

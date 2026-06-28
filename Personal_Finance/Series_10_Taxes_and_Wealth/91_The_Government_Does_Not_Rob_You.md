@@ -1,17 +1,12 @@
 # The Government Does Not Rob You
-## Understanding How US Taxes Actually Work
 
 **Series 10: Taxes and Wealth — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding How US Taxes Actually Work
 
 ### Prologue
 Elena had always felt a vague sense of dread when April arrived. Not the kind tied to deadlines or paperwork — though those added to it — but something deeper: a suspicion that the government was somehow taking far more than its fair share. She remembered her mother's complaints about taxes, her father's grumbling that "they take half of everything," and these impressions had settled into her as fact before she ever earned her first paycheck. When she finally reviewed her pay stub after landing her marketing job and saw the withholding amounts, her stomach dropped. Federal income tax. Social Security. Medicare. State income tax. The numbers seemed to confirm everything she'd grown up believing.

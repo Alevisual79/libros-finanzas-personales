@@ -1,7 +1,5 @@
 # El estado de flujo
 
-## Cómo entrar en el estado donde el tiempo desaparece y el trabajo fluye
-
 **Serie Productividad y Éxito — Serie 3: Enfoque y Concentración — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo entrar en el estado donde el tiempo desaparece y el trabajo fluye
 
 ### Prólogo: Las tres horas que desaparecieron
 

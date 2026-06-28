@@ -1,7 +1,5 @@
 # El aprendizaje ultrarrápido
 
-## Cómo adquirir nuevas habilidades en semanas, no en años
-
 **Serie Productividad y Éxito — Serie 8: Aprendizaje y Desarrollo Personal — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo adquirir nuevas habilidades en semanas, no en años
 
 ### Prólogo: Cuatro horas para aprender ukelele
 

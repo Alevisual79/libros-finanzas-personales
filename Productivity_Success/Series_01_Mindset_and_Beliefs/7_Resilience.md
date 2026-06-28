@@ -1,17 +1,12 @@
 # Resilience
-## How to recover, adapt, and grow stronger through professional adversity
 
 **Series 1: Mindset and Beliefs — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to recover, adapt, and grow stronger through professional adversity
 
 ### Prologue
 Six months after her company folded — a business she had spent four years building, that had employed twenty people, and that she had believed in completely — Isabel still could not explain what had happened without a catch in her throat. The failure had been real and complex and costly: personal savings gone, professional reputation requiring reconstruction, and a team she had genuinely cared about dispersed into circumstances she couldn't monitor or control.

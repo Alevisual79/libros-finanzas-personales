@@ -1,7 +1,5 @@
 # Liderar el cambio
 
-## Cómo conseguir que las personas abracen lo que no pidieron
-
 **Serie Productividad y Éxito — Serie 6: Liderazgo y Trabajo en Equipo — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo conseguir que las personas abracen lo que no pidieron
 
 ### Prólogo: El cambio que nadie quería
 

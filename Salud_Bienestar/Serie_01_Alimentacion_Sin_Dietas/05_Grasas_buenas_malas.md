@@ -1,7 +1,5 @@
 # Grasas buenas, grasas malas
 
-## La verdad sobre el aceite, el aguacate, el colesterol y la grasa que de verdad importa evitar
-
 **Serie Salud y Bienestar — Serie 1: Alimentación Sin Dietas — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La verdad sobre el aceite, el aguacate, el colesterol y la grasa que de verdad importa evitar
 
 ### Prólogo: El macronutriente más malentendido
 

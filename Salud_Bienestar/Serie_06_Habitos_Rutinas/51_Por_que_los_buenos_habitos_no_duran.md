@@ -1,7 +1,5 @@
 # Por qué los buenos hábitos no duran
 
-## La neurociencia del cambio de hábitos: por qué fallamos y cómo dejar de hacerlo
-
 **Serie Salud y Bienestar — Serie 6: Hábitos y Rutinas — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La neurociencia del cambio de hábitos: por qué fallamos y cómo dejar de hacerlo
 
 ### Prólogo: El ciclo del fracaso conocido
 

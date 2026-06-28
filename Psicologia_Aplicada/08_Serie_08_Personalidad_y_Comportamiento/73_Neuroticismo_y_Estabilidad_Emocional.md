@@ -1,17 +1,12 @@
 # Neuroticismo y Estabilidad Emocional
-## Entender tu tendencia a la reactividad emocional
 
 **Serie 08: Personalidad y Comportamiento — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entender tu tendencia a la reactividad emocional
 
 ### Prólogo
 Isabel tiene un nivel de reactividad emocional que le parece excesivo incluso a ella misma. Un comentario crítico en el trabajo puede ocupar su mente durante horas. Una incertidumbre sobre el futuro puede convertirse en una preocupación que le impide dormir. Cuando las cosas van bien, sospecha que no durara. Ha asumido que es dramatica o que se lo toma todo demasiado a pecho, y que eso es un defecto. Lo que no sabe es que lo que experimenta tiene nombre cientifico (neuroticismo), tiene base neurológica, y que, aunque no desaparece con la voluntad, puede gestionarse de formas que hacen la vida significativamente más manejable.

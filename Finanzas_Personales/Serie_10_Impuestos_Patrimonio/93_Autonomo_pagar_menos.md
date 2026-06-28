@@ -1,7 +1,5 @@
 # Autónomo: Cómo pagar menos a Hacienda de forma legal
 
-## Gastos deducibles y estrategia fiscal para el trabajador por cuenta propia
-
 **Serie Finanzas Personales — Serie 10: Impuestos y Patrimonio — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Gastos deducibles y estrategia fiscal para el trabajador por cuenta propia
 
 ### Prólogo: La conversación que Marta tuvo con su gestor
 

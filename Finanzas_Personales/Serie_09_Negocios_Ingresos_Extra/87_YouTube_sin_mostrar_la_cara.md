@@ -1,7 +1,5 @@
 # YouTube sin mostrar la cara
 
-## Canales de voz, animación y texto que generan ingresos reales
-
 **Serie Finanzas Personales — Serie 9: Negocios e Ingresos Extra — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Canales de voz, animación y texto que generan ingresos reales
 
 ### Prólogo: Alejandro y los apuntes que nadie veía
 

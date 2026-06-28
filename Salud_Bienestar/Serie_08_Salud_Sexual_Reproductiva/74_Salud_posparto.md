@@ -1,7 +1,5 @@
 # Salud posparto: El cuarto trimestre
 
-## La recuperación que el sistema olvida: cuerpo, mente y relaciones después del parto
-
 **Serie Salud y Bienestar — Serie 8: Salud Sexual y Reproductiva — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La recuperación que el sistema olvida: cuerpo, mente y relaciones después del parto
 
 ### Prólogo: La madre que nadie ve
 

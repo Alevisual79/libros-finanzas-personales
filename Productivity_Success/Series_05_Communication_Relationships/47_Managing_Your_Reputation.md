@@ -1,17 +1,12 @@
 # Managing Your Reputation
-## The deliberate cultivation of what others believe about you
 
 **Series 5: Communication and Relationships — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The deliberate cultivation of what others believe about you
 
 ### Prologue
 Valentina had not been managing her reputation; she had been hoping it managed itself. She worked hard, produced good results, and treated her colleagues well. She assumed, reasonably, that these facts were visible and that the professional reputation she was accumulating was commensurate with them.

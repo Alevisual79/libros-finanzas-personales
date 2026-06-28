@@ -1,17 +1,12 @@
 # Padres e Hijos Adultos
-## Como redefinir la relación cuando los hijos crecen
 
 **Serie 04: Familia y Vínculos — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como redefinir la relación cuando los hijos crecen
 
 ### Prólogo
 Elena tiene treinta y cuatro años y sus padres todavía la tratan como si tuviera catorce. Le preguntan con quien sale, le sugieren que coma mejor, le recuerdan que llame más. Nadie ha renegociado explicitamente la relación después de la infancia. El conflicto, silencioso pero constante, es el resultado de esa renegociación que nunca ocurrio.

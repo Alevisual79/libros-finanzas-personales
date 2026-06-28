@@ -1,17 +1,12 @@
 # análisis de Datos para Negocios Digitales
-## Como tomar decisiones basadas en datos y no en intuición
 
 **Serie 04: Negocio Digital — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como tomar decisiones basadas en datos y no en intuición
 
 ### Prólogo
 Carlos toma todas las decisiones de su negocio digital por intuición y no mide nada con sistematismo. Lucia tiene Google Analytics instalado pero nunca lo mira porque no sabe que buscar en los datos. Marcos viene del mundo corporativo donde había departamentos enteros dedicados al análisis de datos y no sabe como aplicar esa cultura de datos a su pequeño negocio digital sin los recursos de una gran empresa. Los tres necesitan entender algo fundamental: en el negocio digital, los datos sobre el comportamiento del cliente son gratuitos y estan disponibles en tiempo real. El emprendedor que sabe que medir y como interpretarlo tiene una ventaja competitiva que sus equivalentes que improvisan no tienen.

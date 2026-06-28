@@ -1,17 +1,12 @@
 # AI That Speaks
-## Voice Recognition, Speech Synthesis, and Conversational AI
 
 **Series 1: AI Fundamentals — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Voice Recognition, Speech Synthesis, and Conversational AI
 
 ### Prologue
 Ruben recorded a podcast and had it transcribed, translated, and turned into a synthetic voice version in a different language — all with AI. He barely understood how any of it worked. He wanted to.

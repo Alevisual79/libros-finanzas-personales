@@ -1,7 +1,5 @@
 # Hábitos de noche: Preparar el éxito del día siguiente
 
-## La rutina nocturna como herramienta de rendimiento
-
 **Serie Productividad y Éxito — Serie 4: Hábitos de Alto Rendimiento — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La rutina nocturna como herramienta de rendimiento
 
 ### Prólogo: La persona que controla las mañanas controla la vida
 

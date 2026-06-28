@@ -1,17 +1,12 @@
 # La psicología de la Influencia
-## Por qué hacemos lo que hacemos cuando hay otros de por medio
 
 **Serie 09: psicología Social e Influencia — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué hacemos lo que hacemos cuando hay otros de por medio
 
 ### Prólogo
 Elena ha dicho que si a proyectos que no quería hacer porque alguien se los pidio de una manera que le fue difícil rechazar. Ruben ha comprado cosas que no necesitaba después de interacciones con vendedores que, mirando en retrospectiva, siguieron patrones muy específicos. Isabel ha visto como personas brillantes en su empresa tomaban decisiones irracionales bajo la influencia de otros que no lo eran tanto. Los tres han sido influidos de formas que no reconocieron en el momento. Este libro es sobre esos patrones: como funciona la influencia, que mecanismos psicológicos la hacen posible, y como desarrollar la capacidad de reconocerla para poder elegir conscientemente si ceder o no a ella.

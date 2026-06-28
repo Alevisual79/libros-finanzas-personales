@@ -1,7 +1,5 @@
 # El ingreso estacional: Aprovechar los picos del año
 
-## Navidad, verano, Black Friday y otras fechas clave que puedes convertir en oportunidades de ingreso
-
 **Serie Finanzas Personales — Serie 5: Ingresos Múltiples — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Navidad, verano, Black Friday y otras fechas clave que puedes convertir en oportunidades de ingreso
 
 ### Prólogo: El octubre de Marta
 

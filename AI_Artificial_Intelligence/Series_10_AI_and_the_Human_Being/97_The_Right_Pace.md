@@ -1,17 +1,12 @@
 # The Right Pace
-## Choosing How Fast to Adopt AI
 
 **Series 10: AI and the Human Being — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Choosing How Fast to Adopt AI
 
 ### Prologue
 Elena adopted every new AI tool immediately. She was perpetually at the frontier — and perpetually distracted, partially competent at many things, and deeply skilled at none. The pace of AI adoption is a choice with real consequences.

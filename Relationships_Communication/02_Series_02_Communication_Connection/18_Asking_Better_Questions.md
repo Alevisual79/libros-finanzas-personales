@@ -1,17 +1,12 @@
 # Asking Better Questions
-## The right questions change conversations and relationships
 
 **Series 2: Communication and Connection — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The right questions change conversations and relationships
 
 ### Prologue
 There was a specific type of conversation that David was very good at: the conversation in which he provided information, analysis, or solutions. He was efficient, knowledgeable, and genuinely helpful in these modes. He had spent twenty years becoming very good at providing answers.

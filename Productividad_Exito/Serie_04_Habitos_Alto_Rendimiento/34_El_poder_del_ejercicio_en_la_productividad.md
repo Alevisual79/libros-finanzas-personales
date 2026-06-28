@@ -1,7 +1,5 @@
 # El poder del ejercicio en la productividad
 
-## Cómo moverse mejora el rendimiento cognitivo
-
 **Serie Productividad y Éxito — Serie 4: Hábitos de Alto Rendimiento — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo moverse mejora el rendimiento cognitivo
 
 ### Prólogo: El hack más subestimado
 

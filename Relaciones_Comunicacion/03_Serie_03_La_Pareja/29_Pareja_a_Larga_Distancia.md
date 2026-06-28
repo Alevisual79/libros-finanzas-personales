@@ -1,17 +1,12 @@
 # Pareja a Larga Distancia
-## Cómo mantener vivo el amor cuando los kilometros se interponen
 
 **Serie 03: La Pareja — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo mantener vivo el amor cuando los kilometros se interponen
 
 ### Prólogo
 Ruben lleva ocho meses en una relación a distancia. Su pareja vive en otro pais por motivos de trabajo. Se ven cada seis u ocho semanas. Entre las visitas, hay videollamadas, mensajes y una sensación constante de estar construyendo algo que no se puede tocar de la forma en que se construyen otras relaciones.

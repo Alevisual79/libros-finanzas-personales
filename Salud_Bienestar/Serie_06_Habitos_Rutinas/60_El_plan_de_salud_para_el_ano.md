@@ -1,7 +1,5 @@
 # El plan de salud para el año
 
-## Cómo diseñar y seguir un plan de bienestar de 12 meses que realmente funcione en la vida real
-
 **Serie Salud y Bienestar — Serie 6: Hábitos y Rutinas — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo diseñar y seguir un plan de bienestar de 12 meses que realmente funcione en la vida real
 
 ### Prólogo: Por qué los planes de año nuevo fallan
 

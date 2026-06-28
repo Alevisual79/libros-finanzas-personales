@@ -1,7 +1,5 @@
 # Fertilidad: Lo que hay que saber antes de intentarlo
 
-## Factores de estilo de vida, salud reproductiva y cómo prepararse para el embarazo
-
 **Serie Salud y Bienestar — Serie 8: Salud Sexual y Reproductiva — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Factores de estilo de vida, salud reproductiva y cómo prepararse para el embarazo
 
 ### Prólogo: Lo que nadie te dice cuando decides tener hijos
 

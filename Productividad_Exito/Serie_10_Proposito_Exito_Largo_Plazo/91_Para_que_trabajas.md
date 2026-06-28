@@ -1,7 +1,5 @@
 # ¿Para qué trabajas?
 
-## La pregunta más importante que casi nadie se hace
-
 **Serie Productividad y Éxito — Serie 10: Propósito y Éxito a Largo Plazo — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La pregunta más importante que casi nadie se hace
 
 ### Prólogo: La pregunta que Isabel no supo responder
 

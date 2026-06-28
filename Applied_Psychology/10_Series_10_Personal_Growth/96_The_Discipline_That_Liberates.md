@@ -1,17 +1,12 @@
 # The Discipline That Liberates
-## The Paradox of Freedom Through Constraint
 
 **Series 10: Personal Growth — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Paradox of Freedom Through Constraint
 
 ### Prologue
 Freedom is commonly understood as the absence of constraint — the maximization of options, the removal of limits, the capacity to do whatever one chooses. Research in psychology and behavioral economics has substantially complicated this picture, documenting that the proliferation of options produces not greater satisfaction but greater paralysis and greater regret; that the absence of structure produces not greater creativity but greater anxiety; and that the individuals who report the greatest subjective freedom in their lives are often those whose daily behaviors are most constrained by deliberate self-imposed discipline.

@@ -1,17 +1,12 @@
 # Los grandes modelos de lenguaje
-## Por qué ChatGPT no sabe nada pero parece que sabe todo
 
 **Serie 1: Fundamentos de IA — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué ChatGPT no sabe nada pero parece que sabe todo
 
 ### Prólogo: La pregunta de la analítica
 

@@ -1,7 +1,5 @@
 # La práctica deliberada
 
-## La diferencia entre practicar y practicar bien
-
 **Serie Productividad y Éxito — Serie 8: Aprendizaje y Desarrollo Personal — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La diferencia entre practicar y practicar bien
 
 ### Prólogo: Veinte años de piano y no mejorar
 

@@ -1,17 +1,12 @@
 # The Burned-Out Leader
-## Recognizing, recovering from, and preventing the depletion that ends careers
 
 **Series 6: Leadership and Teams — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Recognizing, recovering from, and preventing the depletion that ends careers
 
 ### Prologue
 Sophie reached year seven of her leadership career before the pattern became undeniable: the Sunday evening dread that had begun as occasional was now consistent; the work that had once felt meaningful increasingly felt like a performance she was maintaining rather than a purpose she was serving; the team members who had once energized her now felt, on her worst days, like sources of obligation rather than relationships. Her performance was intact — the deliverables were delivered, the metrics were met, the organizational perception of her was unchanged. But she was experiencing her professional life from a position of progressive depletion rather than progressive engagement.

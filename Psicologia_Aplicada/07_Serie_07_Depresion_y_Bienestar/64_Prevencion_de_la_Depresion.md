@@ -1,17 +1,12 @@
 # Prevención de la Depresión
-## Hábitos y estrategias para proteger tu salud mental
 
 **Serie 07: Depresión y Bienestar Mental — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Hábitos y estrategias para proteger tu salud mental
 
 ### Prólogo
 Isabel ha salido de su segundo episodio depresivo y tiene una certeza: no quiere un tercero. Su psicologo le ha explicado que cada episodio depresivo aumenta el riesgo de un siguiente y que la prevención activa es posible. Pero Isabel no sabe exactamente que significa prevenir la depresión en la práctica: ¿es solo no tener estrés? es tomar medicación de por vida? es algo más específico? Este libro es sobre las estrategias que la investigación ha demostrado que reducen el riesgo de nuevos episodios depresivos, con la evidencia de cada una.

@@ -1,17 +1,12 @@
 # Children and Sleep
-## What Parents Need to Know to Help the Whole Family Rest
 
 **Series 3: Sleep and Rest — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Parents Need to Know to Help the Whole Family Rest
 
 ### Prologue
 When a child doesn't sleep, nobody sleeps. The exhaustion of new parenthood, the challenges of toddler bedtime battles, the mystery of school-age sleep resistance, and the adolescent sleep schedule inversion are among the most universal parenting experiences. Each phase has its own biology, its own challenges, and its own evidence-based solutions.

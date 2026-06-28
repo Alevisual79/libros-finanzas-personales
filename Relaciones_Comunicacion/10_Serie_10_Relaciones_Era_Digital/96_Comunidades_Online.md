@@ -1,17 +1,12 @@
 # Comunidades Online
-## Cómo encontrar tribu en internet sin perder el suelo bajo los pies
 
 **Serie 10: Relaciones en la Era Digital — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo encontrar tribu en internet sin perder el suelo bajo los pies
 
 ### Prólogo
 Ruben pertenece a cinco grupos de Discord, comunidades organizadas alrededor de intereses que le importan genuinamente. En ninguno de ellos, sin embargo, se sentiria cómodo llamando a las tres de la madrugada en una crisis real. Esa observación, simple pero reveladora, dice algo importante sobre la diferencia entre pertenecer a una comunidad y tener relaciones de la profundidad que una crisis genuina requeriria.

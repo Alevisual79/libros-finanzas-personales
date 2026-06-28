@@ -1,17 +1,12 @@
 # The Rested Brain
-## Why sleep is the highest-leverage investment in your professional performance
 
 **Series 3: Focus and Concentration — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why sleep is the highest-leverage investment in your professional performance
 
 ### Prologue
 Camila prided herself on requiring less sleep than most. She had concluded, sometime in her late twenties, that her natural sleep requirement was approximately six hours — that she functioned adequately on six and could function on five in a pinch. She was frequently in a pinch. She kept a notebook about her work and was proud of how early she was up and writing. She consumed coffee in volumes that were clearly compensatory, and she had a characteristic afternoon slump between two and four that she attributed to the coffee wearing off.

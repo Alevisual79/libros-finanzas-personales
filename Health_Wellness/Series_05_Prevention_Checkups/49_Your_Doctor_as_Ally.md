@@ -1,17 +1,12 @@
 # Your Doctor as Ally
-## How to Have More Effective Medical Appointments
 
 **Series 5: Prevention and Checkups — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Have More Effective Medical Appointments
 
 ### Prologue
 The average primary care appointment in the United States lasts 17 minutes. In that time, the physician is expected to address the reason for the visit, review medications, check for concerning symptoms, maintain preventive care, complete documentation, address any new concerns the patient mentions at the end ("by the way, I've been having this chest pain..."), and satisfy insurance coding requirements.

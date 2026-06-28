@@ -1,7 +1,5 @@
 # El legado
 
-## Qué quieres que quede cuando no estés
-
 **Serie Productividad y Éxito — Serie 10: Propósito y Éxito a Largo Plazo — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Qué quieres que quede cuando no estés
 
 ### Prólogo: La conversación que cambio la perspectiva de Isabel
 

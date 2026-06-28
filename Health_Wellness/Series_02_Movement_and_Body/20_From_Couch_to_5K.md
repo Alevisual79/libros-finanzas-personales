@@ -1,17 +1,12 @@
 # From Couch to 5K
-## The Proven Plan for Becoming a Runner From Zero
 
 **Series 2: Movement and Body — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Proven Plan for Becoming a Runner From Zero
 
 ### Prologue
 The 5K distance — 3.1 miles — sits at the intersection of accessible and meaningful. It is short enough that almost any healthy person can train for it within 8-12 weeks of starting from scratch. It is long enough to require real training, real commitment, and real accomplishment. More people have become runners through the Couch to 5K (C25K) concept than through any other structured running program.

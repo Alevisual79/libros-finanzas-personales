@@ -1,17 +1,12 @@
 # Helping Someone Who Suffers
-## How to accompany without loading yourself, be present without exhausting yourself
 
 **Series 8: Repair and Heal — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to accompany without loading yourself, be present without exhausting yourself
 
 ### Prologue
 Elena had known, when Marcus told her about Rachel's affair, that she was a good listener.

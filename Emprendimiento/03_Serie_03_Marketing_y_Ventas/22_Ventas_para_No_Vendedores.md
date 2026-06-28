@@ -1,17 +1,12 @@
 # Ventas para No Vendedores
-## Cómo vender sin sentirte falso ni agresivo
 
 **Serie 03: Marketing y Ventas — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo vender sin sentirte falso ni agresivo
 
 ### Prólogo
 Lucia es extraordinaria en la entrega del servicio y profundamente incomoda en el proceso de venta. Carlos ha perdido tres clientes potenciales que estaban interesados porque no supo como cerrar la conversación. Marcos viene del mundo corporativo donde las ventas las hacían otros y nunca ha tenido que vender nada directamente. Los tres comparten la misma creencia erronea: que vender requiere ser un tipo especial de persona, extrovertida, insistente, y dispuesta a presionar. Esa creencia es falsa. Y es responsable de más negocios fracasados que cualquier problema de producto.

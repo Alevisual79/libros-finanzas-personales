@@ -1,17 +1,12 @@
 # Ending a Relationship Well
-## How to close a chapter without destroying yourself
 
 **Series 3: The Couple — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to close a chapter without destroying yourself
 
 ### Prologue
 This book takes seriously a topic that the relationship literature treats with less care than it deserves: the ending of a romantic relationship that has been genuinely significant — the process of separation, its emotional landscape, its practical dimensions, and the specific work of moving through it in a way that preserves one's own integrity and, where possible, the dignified end of something that once genuinely mattered.

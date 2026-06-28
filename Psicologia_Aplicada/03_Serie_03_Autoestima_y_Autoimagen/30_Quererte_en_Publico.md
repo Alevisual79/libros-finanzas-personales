@@ -1,17 +1,12 @@
 # Quererte en público
-## Como mostrar quien eres sin vergüenza ni miedo
 
 **Serie 03: Autoestima y Autoimagen — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como mostrar quien eres sin vergüenza ni miedo
 
 ### Prólogo
 Ruben es diferente en público de como es en privado. En privado es curioso, tiene opiniones claras, hace bromas inteligentes, comparte sus dudas con facilidad. En público se vuelve cauteloso, midiendo cada palabra, preocupado por si lo que dice encaja, por si tiene algo valioso que aportar. Esta diferencia entre el Ruben privado y el Ruben público no es simplemente timidez. Es el resultado de haber aprendido que mostrarse tal como uno es tiene un riesgo que en privado no existe: el riesgo del juicio, del rechazó, de la evaluación de los demás sobre si lo que eres es suficientemente bueno.

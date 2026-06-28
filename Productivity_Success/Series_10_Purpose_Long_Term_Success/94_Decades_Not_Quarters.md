@@ -1,17 +1,12 @@
 # Decades, Not Quarters
-## The long-game thinking that produces the most significant professional lives
 
 **Series 10: Purpose and Long-Term Success — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The long-game thinking that produces the most significant professional lives
 
 ### Prologue
 The dominant time horizon in the contemporary professional environment is the quarter. The quarterly earnings review, the quarterly performance assessment, the quarterly goal-setting cycle — these are the temporal frames that shape the organizational mind and, over time, the professional mind that operates within it. The quarter is a useful planning unit for many organizational purposes. As a career planning unit, it is substantially too short to produce the most significant professional outcomes.

@@ -1,17 +1,12 @@
 # La Fase del Enamoramiento
-## Que pasa en tu cerebro y como navegar la euforia sin perderte
 
 **Serie 03: La Pareja — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Que pasa en tu cerebro y como navegar la euforia sin perderte
 
 ### Prólogo
 Ruben tiene veintinueve años y lleva cuatro meses en el estado que el llama completamente loco por alguien. No puede pensar en otra cosa. Todo lo que hace lo hace pensando en ella. Cada momento en que no estan juntos cuenta el tiempo hasta que puedan estarlo. Sabe racionalmente que esto no puede durar para siempre. No le importa. Esta exactamente donde quiere estar.

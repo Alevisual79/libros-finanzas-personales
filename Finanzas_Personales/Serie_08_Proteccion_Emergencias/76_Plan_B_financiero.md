@@ -1,7 +1,5 @@
 # Plan B financiero: Siempre tener una salida
 
-## Construcción de una red de seguridad personal para lo inesperado
-
 **Serie Finanzas Personales — Serie 8: Protección y Emergencias — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Construcción de una red de seguridad personal para lo inesperado
 
 ### Prólogo: El no que Carlos no pudo decir
 

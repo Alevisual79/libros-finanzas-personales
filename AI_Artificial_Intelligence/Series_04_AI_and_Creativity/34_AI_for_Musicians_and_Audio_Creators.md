@@ -1,17 +1,12 @@
 # AI for Musicians and Audio Creators
-## The Sound of Machine Collaboration
 
 **Series 4: AI and Creativity — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Sound of Machine Collaboration
 
 ### Prologue
 The producer who used to spend four hours on a drum arrangement can now generate thirty variations in twenty minutes. The question is not whether this changes music. It is what kind of changes are gains and what kind are losses.

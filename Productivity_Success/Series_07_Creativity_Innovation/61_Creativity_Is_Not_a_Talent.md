@@ -1,17 +1,12 @@
 # Creativity Is Not a Talent
-## The research-backed truth about where great ideas come from
 
 **Series 7: Creativity and Innovation — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The research-backed truth about where great ideas come from
 
 ### Prologue
 Elena had spent most of her professional career believing she was not creative. The belief had been formed early — in school, when the students who drew well and wrote original stories had seemed to possess a natural aptitude she did not share — and it had hardened through years of professional experience in which she had identified herself as an implementer: the person who executed others' ideas well, not the person who generated them.

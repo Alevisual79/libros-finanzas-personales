@@ -1,7 +1,5 @@
 # Vivir 100 años en buen estado
 
-## Las zonas azules, los centenarios y las lecciones reales para el mundo moderno
-
 **Serie Salud y Bienestar — Serie 7: Longevidad y Envejecimiento — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Las zonas azules, los centenarios y las lecciones reales para el mundo moderno
 
 ### Prólogo: El siglo que se vuelve posible
 

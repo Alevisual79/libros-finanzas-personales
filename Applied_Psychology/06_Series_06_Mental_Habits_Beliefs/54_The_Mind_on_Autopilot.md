@@ -1,17 +1,12 @@
 # The Mind on Autopilot
-## Understanding Your Default Mode and Reclaiming Conscious Choice
 
 **Series 6: Mental Habits and Beliefs — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding Your Default Mode and Reclaiming Conscious Choice
 
 ### Prologue
 If you asked David what he had thought about on his commute to work this morning, he would not be able to tell you. He had driven a familiar route, responded to routine situations, arrived at his destination — and had been, for the duration, somewhere else entirely. Not asleep, not unconscious: he had been in his default mode, the mental state that characterizes the mind when it is not engaged by a specific external task. In his default mode, his mind had wandered through tomorrow's meeting, a conversation from last week, a vague anxiety about something he couldn't quite specify, a brief planning sequence about the weekend, and the ongoing low-level evaluation of his life against some standard he had never explicitly articulated. None of this was consciously chosen. It happened the way breathing happens — automatically, continually, without directing it.

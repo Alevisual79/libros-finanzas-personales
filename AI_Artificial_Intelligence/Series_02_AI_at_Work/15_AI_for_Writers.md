@@ -1,17 +1,12 @@
 # AI for Writers
-## Writing Better and Faster with Intelligent Assistance
 
 **Series 2: AI at Work — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Writing Better and Faster with Intelligent Assistance
 
 ### Prologue
 Ruben produced three times as much content in the same hours after integrating AI. But the first month was disorienting: what was his value if AI could produce serviceable copy in seconds? The answer changed how he thought about his profession.

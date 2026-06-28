@@ -1,17 +1,12 @@
 # Long Distance Relationship
-## How to maintain the bond when geography separates
 
 **Series 3: The Couple — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to maintain the bond when geography separates
 
 ### Prologue
 Claire and James had spent eleven months living in different cities, two years before their marriage. James had taken a project in another city that extended from a planned three months to nearly a year. The relationship had survived. More than survived: Claire, in retrospect, believed that the specific challenges of that period had developed capacities in both of them — for honest communication, for the genuine articulation of need, for the deliberate investment in the relationship against the pull of the easier alternatives available in each of their separate daily lives — that the relationship in the same city had not required and might not have developed.

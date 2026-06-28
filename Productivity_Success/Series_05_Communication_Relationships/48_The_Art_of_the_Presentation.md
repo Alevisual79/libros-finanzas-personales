@@ -1,17 +1,12 @@
 # The Art of the Presentation
-## How to design and deliver talks that people actually remember
 
 **Series 5: Communication and Relationships — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to design and deliver talks that people actually remember
 
 ### Prologue
 Daniel had given hundreds of presentations in his career. He knew this because he had been giving them since his first year in the professional world, at a rate of roughly two per month. He had never, in those years, been told that a presentation was particularly bad. He had also never been told that a presentation was particularly good. The feedback, when it came, was of the form "good job" or "nice work" — the same generic positive evaluation that, as Book 45 observed, provides no useful developmental information.

@@ -1,17 +1,12 @@
 # From Employee to Entrepreneur
-## The hardest and most necessary mindset shift
 
 **Series 01: Entrepreneurial Mindset — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The hardest and most necessary mindset shift
 
 ### Prologue
 For eleven years, Claire had been excellent at her job. As a senior product manager at a mid-sized software company, she had learned to navigate ambiguity, influence without authority, and build products people loved — all skills, she reasoned, that would translate directly into building her own company. When she finally made the leap at thirty-eight, she discovered something that no one had clearly warned her about: the skills that had made her exceptional as an employee were not the same skills that entrepreneurship required. Some transferred. Many did not. And the differences were not in the technical domains she had anticipated; they were in the deepest assumptions about how work works.

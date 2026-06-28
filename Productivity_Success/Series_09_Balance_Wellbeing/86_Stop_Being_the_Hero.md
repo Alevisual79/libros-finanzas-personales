@@ -1,17 +1,12 @@
 # Stop Being the Hero
-## Why indispensability is the enemy of sustainable success
 
 **Series 9: Balance and Wellbeing — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why indispensability is the enemy of sustainable success
 
 ### Prologue
 James had built his career on indispensability. He was the person who stayed when others left, who knew the systems that no one else had bothered to understand, and who could be relied on to handle the crisis at the moment the crisis arrived. His manager described him, with genuine admiration, as "the person who holds everything together." His colleagues depended on him. The organization trusted him.

@@ -1,17 +1,12 @@
 # Why Good Habits Never Last
-## Breaking the Cycle of Failed Good Intentions
 
 **Series 6: Habits and Routines — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Breaking the Cycle of Failed Good Intentions
 
 ### Prologue
 Every January, millions of people resolve to change their lives. They sign up for gym memberships, buy salad spinners, download meditation apps, and purchase habit-tracking journals with the best of intentions. By February, most of those intentions have quietly dissolved into the rhythm of ordinary life, and the gym is conspicuously emptier. This is not a story of weakness or lack of character. It is a story of misunderstanding how human behavior actually works.

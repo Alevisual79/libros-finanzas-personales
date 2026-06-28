@@ -1,7 +1,5 @@
 # La crononutrición
 
-## El impacto de cuándo comes, no solo qué comes: los ritmos circadianos y la alimentación
-
 **Serie Salud y Bienestar — Serie 10: Salud Integrativa — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El impacto de cuándo comes, no solo qué comes: los ritmos circadianos y la alimentación
 
 ### Prólogo: El trabajador de turno
 

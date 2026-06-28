@@ -1,17 +1,12 @@
 # Neural Networks Explained
-## The Architecture Behind the Intelligence
 
 **Series 1: AI Fundamentals — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Architecture Behind the Intelligence
 
 ### Prologue
 When people ask how AI 'thinks', they often get one of two answers: 'it's just statistics' (dismissive) or 'it's too complex to explain' (evasive). Neither is satisfying or accurate.

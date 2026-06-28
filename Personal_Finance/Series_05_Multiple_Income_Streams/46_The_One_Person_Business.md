@@ -1,17 +1,12 @@
 # The One-Person Business
-## Building a Sustainable Business Solo
 
 **Series 5: Multiple Income Streams — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building a Sustainable Business Solo
 
 ### Prologue
 Ruben's design business has no employees. It has no office. It has no investors, no partners, and no corporate hierarchy. It has one person — him — and approximately $340,000 in annual revenue.

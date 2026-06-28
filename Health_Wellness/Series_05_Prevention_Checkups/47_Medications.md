@@ -1,17 +1,12 @@
 # Medications
-## Using Prescription Drugs Safely and Effectively
 
 **Series 5: Prevention and Checkups — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Using Prescription Drugs Safely and Effectively
 
 ### Prologue
 Isabel took six medications. She knew what three of them were for. She wasn't sure why she'd been started on one of them (prescribed by a specialist two years earlier, never reviewed by her primary care). She didn't know which of them she should take with food, which to avoid with grapefruit, or what to do if she missed a dose.

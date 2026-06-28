@@ -1,17 +1,12 @@
 # Your Job in 2030
-## What Disappears What Emerges and How to Position Yourself
 
 **Series 2: AI at Work — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Disappears What Emerges and How to Position Yourself
 
 ### Prologue
 Elena found a journal from 2020 listing her five-year career goals. Reading it in 2026 mixed nostalgia with wonder. She had achieved most technical goals — but the work looked nothing like she had imagined.

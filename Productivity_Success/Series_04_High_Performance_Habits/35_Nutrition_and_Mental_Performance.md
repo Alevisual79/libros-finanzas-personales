@@ -1,17 +1,12 @@
 # Nutrition and Mental Performance
-## What you eat is what your brain thinks with
 
 **Series 4: High Performance Habits — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What you eat is what your brain thinks with
 
 ### Prologue
 Nadia had not thought much about the relationship between her lunch and her afternoon performance until a research article stopped her in the middle of her reading. The article — a summary of the emerging field of nutritional psychiatry, led by researchers including Felice Jacka in Melbourne — described systematic relationships between dietary patterns and cognitive function, mood, and mental health that were not the product of placebo or researcher bias but of rigorous randomized trials showing that what people eat directly shapes how their brains work.

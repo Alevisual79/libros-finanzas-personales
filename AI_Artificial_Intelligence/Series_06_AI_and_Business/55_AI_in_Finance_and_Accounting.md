@@ -1,17 +1,12 @@
 # AI in Finance and Accounting
-## Automation Fraud Detection and Analysis
 
 **Series 6: AI and Business — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Automation Fraud Detection and Analysis
 
 ### Prologue
 The accounting team that spent three weeks on month-end close now takes five days. The audit preparation that required four external consultants now requires two. The question everyone is asking: where did those hours go? The answer: to higher-value work.

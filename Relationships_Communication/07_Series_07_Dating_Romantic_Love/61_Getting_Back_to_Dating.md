@@ -1,17 +1,12 @@
 # Getting Back to Dating
-## How to recover confidence after a breakup
 
 **Series 7: Dating and Romantic Love — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to recover confidence after a breakup
 
 ### Prologue
 Maya had been divorced for fourteen months when she made the profile.

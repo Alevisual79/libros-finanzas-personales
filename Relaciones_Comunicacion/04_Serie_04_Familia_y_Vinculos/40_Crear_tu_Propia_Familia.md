@@ -1,17 +1,12 @@
 # Crear tu Propia Familia
-## Definir lo que significa familia para ti en el siglo XXI
 
 **Serie 04: Familia y Vínculos — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Definir lo que significa familia para ti en el siglo XXI
 
 ### Prólogo
 Ruben no tiene hijos y no quiere tenerlos. Isabel tuvo los hijos que se esperaba de ella y ahora, con cincuenta y dos años, no esta segura de haberlos querido tener realmente, aunque los ama profundamente ahora que existen. Elena no sabe lo que quiere todavía. Los tres, de formas distintas, necesitan la misma cosa: permiso para decidir conscientemente, en lugar de seguir un guion que asumieron sin examinar.

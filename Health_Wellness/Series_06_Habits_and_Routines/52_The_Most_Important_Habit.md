@@ -1,17 +1,12 @@
 # The Most Important Habit
-## The One Change That Makes All Others Easier
 
 **Series 6: Habits and Routines — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The One Change That Makes All Others Easier
 
 ### Prologue
 What if there were one habit that, once established, made every other healthy change more likely to succeed? Not because it is magic, but because it operates at the root of the behavioral and physiological systems that govern all other health decisions. What if the key to eating better, exercising more, managing stress, and maintaining energy throughout the day was not any of those things directly, but something else entirely — something that most people either neglect or dramatically underestimate?

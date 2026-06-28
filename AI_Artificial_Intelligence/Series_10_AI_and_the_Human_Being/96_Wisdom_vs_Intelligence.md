@@ -1,17 +1,12 @@
 # Wisdom vs. Intelligence
-## What AI Cannot Know
 
 **Series 10: AI and the Human Being — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What AI Cannot Know
 
 ### Prologue
 The Mentor had spent forty years in technology research. He was one of the first researchers to publish on neural networks. When people asked him if AI would become wise, his answer was always the same: 'Wisdom is not a function of information processing capacity.'

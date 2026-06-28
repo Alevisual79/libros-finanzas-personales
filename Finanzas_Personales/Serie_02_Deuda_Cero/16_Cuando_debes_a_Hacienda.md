@@ -1,7 +1,5 @@
 # Cuando debes a Hacienda
 
-## Deudas fiscales, planes de pago y cómo negociar con la Agencia Tributaria sin perder la cabeza
-
 **Serie Finanzas Personales — Serie 2: Deuda Cero — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Deudas fiscales, planes de pago y cómo negociar con la Agencia Tributaria sin perder la cabeza
 
 ### Prólogo: El acreedor que no negocia como los demás
 

@@ -1,17 +1,12 @@
 # The Falling in Love Phase
-## What happens in your brain and how to navigate the euphoria
 
 **Series 3: The Couple — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What happens in your brain and how to navigate the euphoria
 
 ### Prologue
 James still remembered the first three months with Claire: the specific quality of existing in a world that had gained an additional dimension. Colors were more saturated. Food tasted better. His professional frustrations felt manageable in a way they hadn't before. He had known, intellectually, that this was neurochemistry. He had not cared.

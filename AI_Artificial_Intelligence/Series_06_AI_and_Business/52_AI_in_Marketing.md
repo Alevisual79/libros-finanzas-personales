@@ -1,17 +1,12 @@
 # AI in Marketing
-## Personalization Content and Campaign Optimization
 
 **Series 6: AI and Business — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Personalization Content and Campaign Optimization
 
 ### Prologue
 Ruben's best client saw a 340% improvement in email open rates after implementing AI-driven segmentation. The content barely changed. The targeting changed completely. The lesson: AI marketing is often a distribution problem, not a content problem.

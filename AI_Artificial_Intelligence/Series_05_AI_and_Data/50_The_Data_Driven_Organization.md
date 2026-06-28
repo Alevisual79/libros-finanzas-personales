@@ -1,17 +1,12 @@
 # The Data-Driven Organization
-## Building AI-Ready Data Culture
 
 **Series 5: AI and Data — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building AI-Ready Data Culture
 
 ### Prologue
 Isabel's company had the data. They had the tools. They did not have the culture. Dashboards went unread. Decisions were made by intuition even when data existed. The problem was not technical.

@@ -1,17 +1,12 @@
 # ChatGPT in Depth
-## Everything You Need to Know About the Most Popular AI
 
 **Series 3: AI Tools — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Everything You Need to Know About the Most Popular AI
 
 ### Prologue
 ChatGPT has more than 100 million users. Most of them use a fraction of its capabilities. This book is for the user who wants to go from casual to expert.

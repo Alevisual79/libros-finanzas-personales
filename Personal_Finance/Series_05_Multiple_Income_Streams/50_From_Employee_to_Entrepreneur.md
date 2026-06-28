@@ -1,17 +1,12 @@
 # From Employee to Entrepreneur
-## Making the Leap Without Destroying Your Finances
 
 **Series 5: Multiple Income Streams — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Making the Leap Without Destroying Your Finances
 
 ### Prologue
 Ruben didn't leap — he bridged.

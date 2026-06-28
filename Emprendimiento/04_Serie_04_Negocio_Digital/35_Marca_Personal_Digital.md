@@ -1,17 +1,12 @@
 # Marca Personal Digital
-## Cómo construir autoridad online que genera oportunidades
 
 **Serie 04: Negocio Digital — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir autoridad online que genera oportunidades
 
 ### Prólogo
 Carlos tiene mucho conocimiento pero es completamente invisible online. Lucia tiene presencia online pero no está construyendo autoridad en un área específica. Marcos tiene credenciales corporativas impresionantes pero no tiene ninguna presencia digital y cuando buscan su nombre en Google no aparece nada relevante. Los tres necesitan entender que en la economía digital, la invisibilidad es el mayor problema competitivo que puede tener un profesional o un emprendedor. La marca personal digital no es vanidad. Es el activo que genera oportunidades cuando no estas buscandolas activamente.

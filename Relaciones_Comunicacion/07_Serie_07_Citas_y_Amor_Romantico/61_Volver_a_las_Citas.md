@@ -1,17 +1,12 @@
 # Volver a las Citas
-## Como recuperar la confianza y el disfrute después de una ruptura
 
 **Serie 07: Citas y Amor Romantico — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como recuperar la confianza y el disfrute después de una ruptura
 
 ### Prólogo
 Elena lleva dos años sin salir con nadie después de su última ruptura. No es que no quiera conocer a alguien. Es que no sabe como volver a empezar, como dar el primer paso de algo que antes ocurria con naturalidad y que ahora se siente como un territorio completamente desconocido, cargado de miedo a repetir el dolor que todavía recuerda con claridad.

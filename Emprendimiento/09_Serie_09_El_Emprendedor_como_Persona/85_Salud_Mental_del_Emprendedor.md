@@ -1,17 +1,12 @@
 # Salud Mental del Emprendedor
-## Guia práctica para emprendedores
 
 **Serie 09: El Emprendedor como Persona — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Guia práctica para emprendedores
 
 ### Prólogo
 Una guia imprescindible para emprendedores que quieren crecer con criterio.

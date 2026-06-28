@@ -1,17 +1,12 @@
 # Limiting Beliefs
-## Identify and Dismantle the Mental Programs That Hold You Back
 
 **Series 6: Mental Habits and Beliefs — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Identify and Dismantle the Mental Programs That Hold You Back
 
 ### Prologue
 For as long as he could remember, Gabriel had operated with a set of certainties about himself that he had never questioned because they had never felt like beliefs — they had felt like facts. He was not the kind of person who takes risks. He was not creative. He was not good at speaking in public. He was not someone people found particularly interesting. These statements floated through his internal monologue so naturally that examining them required real effort; they had the quality of background furniture, present without being noticed. It took a significant life disruption — a sudden career change that forced him into situations his "facts" said he was unequipped for — to begin noticing that the certainties were not as solid as they had seemed. He was, in the new context, taking risks. He was finding ways to be interesting. The furniture he had arranged his entire sense of self around was, it turned out, not load-bearing.

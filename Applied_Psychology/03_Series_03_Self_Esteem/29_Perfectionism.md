@@ -1,17 +1,12 @@
 # Perfectionism
-## When High Standards Become Self-Defeating
 
 **Series 3: Self-Esteem and Self-Image — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When High Standards Become Self-Defeating
 
 ### Prologue
 Elisa spent two hours on an email that most people would have sent in ten minutes. Not because the email required two hours — it didn't; the information was simple and the recipient was a colleague — but because she needed it to be right. She revised the opening three times, reconsidered the word choice in the second paragraph, deleted and rewrote the concluding sentence four times, and read the final version six times before sending it with the lingering conviction that there was probably something in it that could have been better. She did not think of this as perfectionism. She thought of it as caring about quality. The idea that these might not be the same thing had not yet occurred to her.

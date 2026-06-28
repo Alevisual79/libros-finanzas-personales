@@ -1,17 +1,12 @@
 # La Culpa y la Vergüenza
-## Como liberarte de las emociones que te encadenan al pasado
 
 **Serie 04: Emociones y Gestión Emocional — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como liberarte de las emociones que te encadenan al pasado
 
 ### Prólogo
 Isabel tiene cuarenta y dos años y todavía pierde el sueño por cosas que hizo a los veinte. Una decisión que le parecio bien en ese momento y que resultado mal. Una cosa que dijo en una discusión que no debería haber dicho. Un período de vida en que fue una persona que hoy no reconoce como si misma. La culpa y la verguenza la tienen encadenada a versiones del pasado con una fuerza que no guarda ninguna proporción con el daño real de lo que ocurrio. Y eso encadenamiento, que siente como honestidad moral, en realidad no la hace mejor persona. Solo la hace más miserable.

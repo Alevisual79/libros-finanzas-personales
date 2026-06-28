@@ -1,7 +1,5 @@
 # El seguro de vida: Cuándo tiene sentido y cuándo no
 
-## Sin venderlo, con datos
-
 **Serie Finanzas Personales — Serie 8: Protección y Emergencias — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Sin venderlo, con datos
 
 ### Prólogo: La conversación de Carlos y Ana
 

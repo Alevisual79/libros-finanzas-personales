@@ -1,17 +1,12 @@
 # Difficult Conversations
-## How to talk about what nobody wants to talk about
 
 **Series 2: Communication and Connection — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to talk about what nobody wants to talk about
 
 ### Prologue
 There was a conversation David had been not-having with his brother for three years. Not the kind of not-having where you forget to have it, but the specific, deliberate kind where you are aware, in the background of most interactions with the person, that something important is sitting unaddressed between you. You work around it. You soften your language in its vicinity. You are, in some fundamental sense, managing the relationship rather than being in it.

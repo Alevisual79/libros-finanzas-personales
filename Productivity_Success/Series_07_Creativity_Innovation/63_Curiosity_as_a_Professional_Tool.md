@@ -1,17 +1,12 @@
 # Curiosity as a Professional Tool
-## The underrated cognitive habit that drives innovation and learning
 
 **Series 7: Creativity and Innovation — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The underrated cognitive habit that drives innovation and learning
 
 ### Prologue
 Elena had noticed, in the most creative professionals she had worked with, a quality that was more fundamental than any specific skill: a genuine, active, apparently insatiable interest in how things work, why people behave as they do, and what would happen if the established approach were changed. It showed up not as a grand intellectual program but as a consistent behavioral pattern — the question asked when most people didn't ask, the tangent followed when most people stayed on the main path, the book read outside the immediate professional domain, the unexpected connection drawn that no one else had drawn.

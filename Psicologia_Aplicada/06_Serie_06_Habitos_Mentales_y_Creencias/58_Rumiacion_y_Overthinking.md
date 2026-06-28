@@ -1,17 +1,12 @@
 # Rumiación y Overthinking
-## Como apagar la mente cuando no para de dar vueltas
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como apagar la mente cuando no para de dar vueltas
 
 ### Prólogo
 Ruben puede pasarse horas dando vueltas a la misma situación. No la está resolviendo: la está reproduciendo, la está evaluando desde cada ángulo posible, está imaginando lo que podría haber dicho de forma diferente, está anticipando lo que podría salir mal, está repasando lo que ya salió mal. El problema es que después de esas horas no tiene más claridad que al principio. Tiene más cansancio y peor estado de ánimo. Eso es el overthinking, eso es la rumia: el ciclo de pensamiento repetitivo que gira sin producir ni resolución ni descanso. Este libro es para entender por qué ocurre y como interrumpirlo.

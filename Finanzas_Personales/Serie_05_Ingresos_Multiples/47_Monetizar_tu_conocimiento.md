@@ -1,7 +1,5 @@
 # Monetizar tu conocimiento
 
-## Cursos, ebooks, consultoría e infoproductos: convierte lo que sabes en ingresos
-
 **Serie Finanzas Personales — Serie 5: Ingresos Múltiples — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cursos, ebooks, consultoría e infoproductos: convierte lo que sabes en ingresos
 
 ### Prólogo: El ebook que Marta escribió en dos semanas
 

@@ -1,7 +1,5 @@
 # Pantallas, luz azul y el robo de tu sueño
 
-## Cómo la tecnología destruye el descanso y qué hacer al respecto
-
 **Serie Salud y Bienestar — Serie 3: Sueño y Descanso — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo la tecnología destruye el descanso y qué hacer al respecto
 
 ### Prólogo: El ladrón de sueño más normalizado
 

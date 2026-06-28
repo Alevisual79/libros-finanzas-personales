@@ -1,7 +1,5 @@
 # Tu relación con la comida está rota
 
-## Por qué fallamos en todas las dietas y cómo salir de ese ciclo para siempre
-
 **Serie Salud y Bienestar — Serie 1: Alimentación Sin Dietas — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué fallamos en todas las dietas y cómo salir de ese ciclo para siempre
 
 ### Prólogo: La dieta que empezará el lunes
 

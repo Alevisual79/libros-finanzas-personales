@@ -1,17 +1,12 @@
 # AI in the Classroom
-## Opportunities and Challenges for Educators
 
 **Series 8: AI and Education — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Opportunities and Challenges for Educators
 
 ### Prologue
 The teacher who assigned an essay on climate change in October 2022 received the same essays she always had. The teacher who assigned the same essay in October 2023 received essays that were suspiciously well-structured and referenced papers the students could not have read. ChatGPT had arrived.

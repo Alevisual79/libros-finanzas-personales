@@ -1,7 +1,5 @@
 # El arte de decir no
 
-## Cómo rechazar sin culpa y sin arruinar relaciones
-
 **Serie Productividad y Éxito — Serie 2: Gestión del Tiempo — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo rechazar sin culpa y sin arruinar relaciones
 
 ### Prólogo: La agenda de los que no dicen no
 

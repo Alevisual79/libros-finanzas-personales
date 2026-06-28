@@ -1,17 +1,12 @@
 # The Entrepreneur and Money
-## The psychological relationship with money that determines business success
 
 **Series 01: Entrepreneurial Mindset — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The psychological relationship with money that determines business success
 
 ### Prologue
 When Eduardo's consulting firm crossed $500,000 in annual revenue, he felt anxious rather than elated. He could not have fully explained why. On paper, the milestone was what he had worked toward for three years. In his emotional experience, the growth felt threatening rather than satisfying — as if more revenue meant more exposure, more risk, more possibility of the loss that would hurt more now than it had when the amounts were smaller. He began to make decisions that, in retrospect, were designed to keep the business small: turning down a large contract that would have required hiring, avoiding the investment in marketing infrastructure that would have scaled acquisition, structuring his pricing in ways that capped his revenue without his consciously intending them to.

@@ -1,17 +1,12 @@
 # Anxiety Management Techniques
-## Evidence-Based Tools for Calming the Nervous System
 
 **Series 2: Anxiety and Fears — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Evidence-Based Tools for Calming the Nervous System
 
 ### Prologue
 Priya had collected strategies the way some people collect self-help books: breathing exercises, journaling prompts, grounding techniques, apps with guided meditations, a blue light filter for her phone. She practiced them sporadically and believed in them fully between practice sessions. What she didn't have was a framework for understanding why any of them worked, which meant she couldn't choose the right tool for the right moment, couldn't troubleshoot when a technique didn't work, and tended to abandon everything when anxiety was at its worst — precisely when the tools were most needed. Learning that her anxiety had a physiology and that her techniques were acting on specific aspects of that physiology changed how she used them. Not the tools themselves, but the understanding — and that turned out to matter.

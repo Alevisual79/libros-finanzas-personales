@@ -1,17 +1,12 @@
 # Financial Resilience
-## Building a Life That Can Withstand the Unexpected
 
 **Series 8: Protection & Emergencies — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building a Life That Can Withstand the Unexpected
 
 ### Prologue
 Resilience, in engineering, describes a material's ability to absorb energy from impact and return to its original form. A resilient structure doesn't avoid stress — it absorbs it, distributes it, and recovers.

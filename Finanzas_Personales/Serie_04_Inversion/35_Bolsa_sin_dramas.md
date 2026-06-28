@@ -1,7 +1,5 @@
 # Bolsa sin dramas
 
-## Cómo invertir en renta variable sin perder el sueño ni tomar decisiones de las que te arrepentirás
-
 **Serie Finanzas Personales — Serie 4: Inversión desde Cero — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo invertir en renta variable sin perder el sueño ni tomar decisiones de las que te arrepentirás
 
 ### Prólogo: El miércoles que casi lo arruinó todo
 

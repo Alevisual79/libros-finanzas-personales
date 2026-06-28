@@ -1,17 +1,12 @@
 # La Vida Examinada
-## Cómo usar la reflexión para crecer sin quedarte atrapado en ella
 
 **Serie 10: Crecimiento Personal — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo usar la reflexión para crecer sin quedarte atrapado en ella
 
 ### Prólogo
 Socrates dijo que la vida no examinada no merece ser vivida. Elena examina su vida con tanta intensidad que a veces la paraliza. Ruben casi nunca se detiene a examinar nada: vive en la acción constante sin pausa para entender a donde va ni por qué. Isabel tiene una práctica de reflexión pero siente que no siempre sabe como usarla bien: a veces la reflexión produce claridad y otras la produce confusión. Los tres necesitan lo mismo: aprender a usar la reflexión como herramienta de crecimiento en lugar de como fuente de paralisis o como actividad que solo saben evitar. Este libro es sobre ese uso inteligente de la reflexión.

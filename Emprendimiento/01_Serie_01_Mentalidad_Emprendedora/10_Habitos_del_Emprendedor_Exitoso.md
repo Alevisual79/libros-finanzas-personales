@@ -1,17 +1,12 @@
 # Hábitos del Emprendedor Exitoso
-## Las rutinas que construyen negocios antes del mediodia
 
 **Serie 01: Mentalidad Emprendedora — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Las rutinas que construyen negocios antes del mediodia
 
 ### Prólogo
 Marcos ha estudiado a emprendedores exitosos buscando el patron común. No es la inteligencia excepcional, que tienen unos pero no todos. No es el timing perfecto, que es parcialmente suerte. No es el capital inicial, que algunos tuvieron y muchos no. El patron que aparece de forma más consistente en los que construyen empresas sólidas en el largo plazo es un conjunto de hábitos diarios que parecen aburridos cuando los describes y poderosos cuando observas su efecto acumulado en meses y años. Carlos ha empezado a adoptar algunos de esos hábitos y ya nota la diferencia en su nivel de energía, claridad, y progreso. Lucia ha construido las rutinas que hacen posible gestionar una empresa en crecimiento sin sacrificar todo lo demás que importa en su vida.

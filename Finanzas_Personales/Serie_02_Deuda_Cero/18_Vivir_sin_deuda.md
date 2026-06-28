@@ -1,7 +1,5 @@
 # Vivir sin deuda en el mundo moderno
 
-## Es posible. Y no tienes que renunciar a todo para conseguirlo.
-
 **Serie Finanzas Personales — Serie 2: Deuda Cero — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Es posible. Y no tienes que renunciar a todo para conseguirlo.
 
 ### Prólogo: La pregunta que nadie se hace
 

@@ -1,17 +1,12 @@
 # Entrepreneur Burnout
-## Recognizing, recovering from, and preventing the exhaustion that threatens founders
 
 **Series 09: Entrepreneur as Person — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Recognizing, recovering from, and preventing the exhaustion that threatens founders
 
 ### Prologue
 Three years into building his software development agency, Marcus noticed the symptoms one at a time, as if they were unrelated events: the mornings when getting out of bed required an act of will rather than the habitual movement it had always been; the client calls he found himself dreading rather than anticipating; the creative problem-solving that used to energize him and now felt like moving through sand; and the persistent sense that he was doing everything wrong, even when the business by every external measure was succeeding.

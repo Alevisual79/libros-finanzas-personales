@@ -1,7 +1,5 @@
 # La diversidad que genera ideas
 
-## Por qué los equipos diversos piensan mejor
-
 **Serie Productividad y Éxito — Serie 7: Creatividad e Innovación — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué los equipos diversos piensan mejor
 
 ### Prólogo: El equipo que nadie cuestionaba
 

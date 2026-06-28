@@ -1,17 +1,12 @@
 # Los Pilares de la Autoestima
-## Lo que nadie te ensenó sobre quererte bien
 
 **Serie 03: Autoestima y Autoimagen — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que nadie te ensenó sobre quererte bien
 
 ### Prólogo
 Isabel lleva años diciendose que necesita mejorar su autoestima. Ha leido libros de autoayuda, ha hecho afirmaciones frente al espejo, ha intentado pensar en positivo. Nada ha cambiado de forma duradera. La razón es que ninguna de esas cosas aborda lo que la autoestima realmente es. La autoestima no es la suma de cosas buenas que te dices sobre ti mismo. Es la relación que tienes contigo mismo: con tus acciones, tus valores, tus límites, y tu capacidad de ser honesto sobre tus errores sin que eso destruya tu sentido de valor.

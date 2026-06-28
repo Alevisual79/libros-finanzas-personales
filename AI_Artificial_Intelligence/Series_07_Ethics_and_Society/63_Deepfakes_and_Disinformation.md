@@ -1,17 +1,12 @@
 # Deepfakes and Disinformation
-## AI-Powered Manipulation at Scale
 
 **Series 7: Ethics and Society — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## AI-Powered Manipulation at Scale
 
 ### Prologue
 The video that appeared to show a political figure saying something outrageous was viewed 40 million times before fact-checkers identified it as a deepfake. By then, the damage was done. This is the new information environment.

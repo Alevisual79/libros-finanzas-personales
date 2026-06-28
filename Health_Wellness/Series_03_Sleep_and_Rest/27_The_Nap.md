@@ -1,17 +1,12 @@
 # The Nap
-## How to Rest During the Day Without Ruining Your Night
 
 **Series 3: Sleep and Rest — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Rest During the Day Without Ruining Your Night
 
 ### Prologue
 The afternoon slump is one of the most universal human experiences. Between approximately 1pm and 3pm, alertness dips, cognitive performance declines, and the appeal of lying down becomes compelling. This is not a sign of weakness or inadequate sleep — it is a biologically programmed reduction in alertness called the "post-lunch dip," driven by the circadian rhythm and independent of food intake.

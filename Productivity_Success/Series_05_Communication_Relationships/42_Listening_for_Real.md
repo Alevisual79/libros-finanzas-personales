@@ -1,17 +1,12 @@
 # Listening for Real
-## The rarest and most powerful communication skill you can develop
 
 **Series 5: Communication and Relationships — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The rarest and most powerful communication skill you can develop
 
 ### Prologue
 Daniel spent his professional life talking — presenting strategies, explaining decisions, defending positions. He was considered a good communicator. He could structure an argument, hold a room, and deliver complex ideas with clarity. His direct reports consistently rated his communication positively.

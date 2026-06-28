@@ -1,17 +1,12 @@
 # Money and Purpose
-## Navigating the relationship between financial success and meaningful work
 
 **Series 10: Purpose and Long-Term Success — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Navigating the relationship between financial success and meaningful work
 
 ### Prologue
 The cultural narrative about money and purpose in professional life tends toward one of two poles, each of which is demonstrably inadequate. The first is the purity narrative: the truly purposeful professional does not think about money, cares only about the mission, and is content with whatever the mission provides. This narrative is inspirational, widespread, and practically unsustainable for most people in most circumstances. The second is the cynicism narrative: purpose is a luxury of the financially secure; everyone else works for the money, and the professional who claims otherwise is naive or dishonest. This narrative is equally unhelpful: it denies the specific human need for meaning that the research consistently documents and that most professionals feel, regardless of their financial circumstances.

@@ -1,17 +1,12 @@
 # The Sexual Health Nobody Teaches
-## What Adults Need to Know About Sexual Health
 
 **Series 8: Sexual and Reproductive Health — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Adults Need to Know About Sexual Health
 
 ### Prologue
 Sexual health education in the United States is patchy, inconsistent, and often focused on abstinence or disease prevention rather than the full picture of sexual health across a lifespan. Adults may leave their formal education with minimal knowledge of sexual anatomy, pleasure, consent, common sexual dysfunctions, or how to have effective conversations with a healthcare provider about sexual concerns.

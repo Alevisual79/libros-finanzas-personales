@@ -1,17 +1,12 @@
 # AI Safety
-## The Technical and Political Challenge of Aligned Intelligence
 
 **Series 7: Ethics and Society — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Technical and Political Challenge of Aligned Intelligence
 
 ### Prologue
 The AI safety researchers at Anthropic, DeepMind, and elsewhere are working on problems that most people have not heard of: mesa-optimization, specification gaming, reward hacking. These are not science fiction problems. They are engineering problems that exist today.

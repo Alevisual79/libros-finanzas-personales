@@ -1,17 +1,12 @@
 # Chronic Inflammation
-## The Silent Engine of Aging and Disease
 
 **Series 7: Longevity and Aging — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Silent Engine of Aging and Disease
 
 ### Prologue
 Acute inflammation is a survival mechanism. When you cut your finger, the redness, heat, and swelling are the immune system mobilizing to kill pathogens, remove debris, and begin repair. This acute inflammatory response is essential, time-limited, and beneficial.

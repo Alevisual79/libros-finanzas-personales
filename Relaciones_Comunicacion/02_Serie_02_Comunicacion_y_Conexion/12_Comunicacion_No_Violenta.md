@@ -1,17 +1,12 @@
 # Comunicación No Violenta
-## Expresa lo que necesitas sin herir ni alejarte
 
 **Serie 02: Comunicación y Conexión — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Expresa lo que necesitas sin herir ni alejarte
 
 ### Prólogo
 Cuando Isabel le dice a su hijo siempre llegas tarde, no le está dando información. Le está lanzando un ataque. Aunque no lo pretenda. Aunque este convencida de que solo está describiendo la realidad.

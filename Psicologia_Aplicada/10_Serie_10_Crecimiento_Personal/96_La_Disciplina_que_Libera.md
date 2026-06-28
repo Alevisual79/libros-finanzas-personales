@@ -1,17 +1,12 @@
 # La Disciplina que Libera
-## Cómo construir la coherencia que convierte las intenciones en realidad
 
 **Serie 10: Crecimiento Personal — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir la coherencia que convierte las intenciones en realidad
 
 ### Prólogo
 Ruben cree que la disciplina es para personas con una fuerza de voluntad que el no tiene. Elena la ve como algo aburrido y restrictivo que se opone a la espontaneidad que valora. Isabel la asocia con privación y rigidez. Los tres tienen de la disciplina una imagen que la investigación psicológica no confirma: no es sufrimiento sostenido ni privación perpetua ni supresión de lo que queremos. La disciplina real, la que produce resultados a largo plazo, es una forma de libertad: la libertad de no tener que tomar la misma decisión difícil una y otra vez, la libertad de poder confiar en que seras la persona que quieres ser aunque no tengas ganas en el momento.

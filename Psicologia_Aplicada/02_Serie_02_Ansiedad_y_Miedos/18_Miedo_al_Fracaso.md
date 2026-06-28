@@ -1,17 +1,12 @@
 # Miedo al Fracaso
-## Como dejar de que el miedo a equivocarte te paralice
 
 **Serie 02: Ansiedad y Miedos — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como dejar de que el miedo a equivocarte te paralice
 
 ### Prólogo
 Ruben tiene una idea de negocio que lleva dos años en su cabeza. Ha hecho investigación de mercado, ha hablado con potenciales clientes, ha redactado un plan de negocio. No ha dado el paso. Cuando se pregunta honestamente por qué, la respuesta que emerge después de todas las razones racionales que da públicamente es más simple y menos racional: tiene miedo de intentarlo y fracasar. No miedo de que el negocio no funcione. Miedo de lo que ese fracaso significaria sobre el. Sobre si puede. Sobre si vale.

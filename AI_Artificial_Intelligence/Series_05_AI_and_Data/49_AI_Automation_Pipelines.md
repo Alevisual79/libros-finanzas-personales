@@ -1,17 +1,12 @@
 # AI Automation Pipelines
-## Connecting Data Tools and Workflows
 
 **Series 5: AI and Data — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Connecting Data Tools and Workflows
 
 ### Prologue
 Elena's team spent two hours per day on tasks that could have been automated. The tools existed. The design did not. Building automation pipelines is the discipline of removing humans from work that does not benefit from human involvement.

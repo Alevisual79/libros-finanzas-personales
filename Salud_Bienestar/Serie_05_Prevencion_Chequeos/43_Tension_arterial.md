@@ -1,7 +1,5 @@
 # Tensión arterial: El asesino silencioso
 
-## Prevenir, controlar y vivir bien con hipertensión — sin fatalismo y con información real
-
 **Serie Salud y Bienestar — Serie 5: Prevención y Chequeos — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Prevenir, controlar y vivir bien con hipertensión — sin fatalismo y con información real
 
 ### Prólogo: El número que no duele pero mata
 

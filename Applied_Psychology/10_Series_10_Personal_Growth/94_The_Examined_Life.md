@@ -1,17 +1,12 @@
 # The Examined Life
-## The Psychology of Self-Knowledge and Why It Matters
 
 **Series 10: Personal Growth — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Psychology of Self-Knowledge and Why It Matters
 
 ### Prologue
 Socrates' assertion that "the unexamined life is not worth living" was made at his trial for impiety and corrupting the youth of Athens — the prosecution of a man who had spent his life in the pursuit of self-knowledge and the examination of the assumptions underlying how people live. The claim was not a counsel of perpetual introspection or philosophic navel-gazing; it was an argument that a life lived without genuine self-understanding — without honest examination of one's values, assumptions, and the consistency between what one believes and how one lives — is a life impoverished at its foundations.

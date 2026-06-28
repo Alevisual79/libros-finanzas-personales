@@ -1,7 +1,5 @@
 # La siesta: De estigma a herramienta
 
-## Cómo usar el descanso diurno para rendir más, sin arruinar el sueño nocturno
-
 **Serie Salud y Bienestar — Serie 3: Sueño y Descanso — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo usar el descanso diurno para rendir más, sin arruinar el sueño nocturno
 
 ### Prólogo: La siesta tiene mala fama
 

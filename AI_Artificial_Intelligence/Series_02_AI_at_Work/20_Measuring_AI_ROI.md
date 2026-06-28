@@ -1,17 +1,12 @@
 # Measuring AI ROI
-## Knowing What Is Actually Working
 
 **Series 2: AI at Work — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Knowing What Is Actually Working
 
 ### Prologue
 Isabel's CFO asked for a report on the ROI of the company's AI investments. She realized she had not set up measurement from the start. Building the measurement framework retrospectively was much harder than building it before deployment.

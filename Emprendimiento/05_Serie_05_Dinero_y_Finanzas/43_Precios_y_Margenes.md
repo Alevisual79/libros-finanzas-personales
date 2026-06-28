@@ -1,17 +1,12 @@
 # Precios y Margenes
-## Como cobrar bien sin perder clientes
 
 **Serie 05: Dinero y Finanzas del Negocio — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como cobrar bien sin perder clientes
 
 ### Prólogo
 Carlos cobra cuatrocientos euros por un servicio que sus competidores cobran ochocientos. Lucia tiene el precio más alto del mercado en su nicho y sus clientes son los más satisfechos y los que más repiten. Marcos lleva dos años sin subir precios por miedo a perder clientes y su margen real ha bajado un veinte por ciento por la inflación. Los tres necesitan entender algo que contradice la intuición del emprendedor recien empezado: el precio bajo no es una ventaja competitiva. Es frecuentemente una señal de falta de confianza en el valor que se ofrece. Y el precio correcto no es el más bajo. Es el que refleja el valor real para el cliente.

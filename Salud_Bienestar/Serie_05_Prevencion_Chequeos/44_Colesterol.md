@@ -1,7 +1,5 @@
 # Colesterol: La historia completa
 
-## Más allá del número en la analítica: qué importa realmente y qué no
-
 **Serie Salud y Bienestar — Serie 5: Prevención y Chequeos — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Más allá del número en la analítica: qué importa realmente y qué no
 
 ### Prólogo: El villano que no lo es del todo
 

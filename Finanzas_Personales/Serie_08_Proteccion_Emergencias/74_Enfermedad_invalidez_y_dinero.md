@@ -1,7 +1,5 @@
 # Enfermedad, invalidez y dinero
 
-## Lo que nadie quiere pensar hasta que pasa
-
 **Serie Finanzas Personales — Serie 8: Protección y Emergencias — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que nadie quiere pensar hasta que pasa
 
 ### Prólogo: El compañero de Marta
 

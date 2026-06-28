@@ -1,17 +1,12 @@
 # Taxes for the Self-Employed
-## What you owe, when you owe it, and how to pay less legally
 
 **Series 05: Business Finance — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What you owe, when you owe it, and how to pay less legally
 
 ### Prologue
 When Zoe left her corporate marketing job to start her consulting practice, she was prepared for the income volatility, the self-directed schedule, and the challenge of building a client base. She was not prepared for the tax bill. In her first year of self-employment, she earned $95,000 in consulting revenue — more than she had made as an employee — and owed $28,000 in combined federal income tax and self-employment tax. She had not made quarterly estimated tax payments. She paid the entire $28,000 from her savings in April, plus a penalty for underpayment of estimated taxes, and started her second year of business with a depleted cash reserve and a thorough education in the specific tax obligations of self-employment.

@@ -1,17 +1,12 @@
 # Reinventing Your Career
-## How to Reposition Yourself for the Next Decade
 
 **Series 9: Future of Work — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Reposition Yourself for the Next Decade
 
 ### Prologue
 Ruben's professional identity had been built around one skill: creating compelling marketing copy. When AI could produce serviceable copy in seconds, that identity needed expanding. Not discarding — expanding. The question was which direction.

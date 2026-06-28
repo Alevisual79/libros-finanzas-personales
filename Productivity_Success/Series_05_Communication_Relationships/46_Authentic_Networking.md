@@ -1,17 +1,12 @@
 # Authentic Networking
-## Building professional relationships that last — without feeling manipulative
 
 **Series 5: Communication and Relationships — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building professional relationships that last — without feeling manipulative
 
 ### Prologue
 Daniel disliked networking. He had attended the events, collected the cards, and sent the follow-up emails with connections he would never become. He had felt, through these activities, the mild contamination of instrumentality — the sense that he was using people as means rather than relating to them as ends, that the relationship was in service of some future benefit rather than genuinely valuable in itself.

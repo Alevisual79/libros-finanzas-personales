@@ -1,17 +1,12 @@
 # Hijos y Redes Sociales
-## Como navegar el mundo digital con los adolescentes
 
 **Serie 10: Relaciones en la Era Digital — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como navegar el mundo digital con los adolescentes
 
 ### Prólogo
 Elena no tiene hijos, y observa con cierta distancia el dilema constante de su amiga Isabel, quien tiene dos adolescentes y enfrenta un debate diario, sin ganadores claros, sobre el uso de redes sociales de sus hijos. No hay consenso establecido sobre las reglas correctas, ni entre padres, ni entre expertos, ni siquiera dentro de la propia experiencia de Isabel de un dia al siguiente.

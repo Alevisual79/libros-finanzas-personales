@@ -1,7 +1,5 @@
 # Educar a tus hijos sobre el dinero
 
-## Lo que aprenden antes de los 12 los define para siempre
-
 **Serie Finanzas Personales — Serie 7: Dinero en Pareja y Familia — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que aprenden antes de los 12 los define para siempre
 
 ### Prólogo: La tarde del supermercado
 

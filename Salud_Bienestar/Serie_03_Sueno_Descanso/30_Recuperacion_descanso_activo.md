@@ -1,7 +1,5 @@
 # Recuperación: El descanso activo que también es entrenamiento
 
-## Más allá del sueño nocturno: todas las formas en que el cuerpo y la mente se reparan
-
 **Serie Salud y Bienestar — Serie 3: Sueño y Descanso — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Más allá del sueño nocturno: todas las formas en que el cuerpo y la mente se reparan
 
 ### Prólogo: Descansar es más que dormir
 

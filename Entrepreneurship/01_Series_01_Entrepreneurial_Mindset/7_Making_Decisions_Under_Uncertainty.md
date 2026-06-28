@@ -1,17 +1,12 @@
 # Making Decisions Under Uncertainty
-## The art of deciding when you don't have enough information
 
 **Series 01: Entrepreneurial Mindset — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The art of deciding when you don't have enough information
 
 ### Prologue
 Thomas had been in the same decision for eleven weeks. He needed to choose between two strategic paths for his e-commerce platform: deepen into the luxury goods vertical where he had traction, or expand into the home goods market where a large competitor appeared to be struggling. Both paths had compelling arguments. Both had genuine risks. He had more data than he had started with, but not certainty — because certainty was not available. The information needed to know which path was right would only exist after the path had been chosen.

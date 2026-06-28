@@ -1,17 +1,12 @@
 # Privacy in the AI Era
-## What Happens to Your Data
 
 **Series 7: Ethics and Society — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Happens to Your Data
 
 ### Prologue
 When Ruben installed a fitness app, he agreed to terms he did not read that allowed his health data to be used for training AI models. The legal notice was clear. The practical implications were not.

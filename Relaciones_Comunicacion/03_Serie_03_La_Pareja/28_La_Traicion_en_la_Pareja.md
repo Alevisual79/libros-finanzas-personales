@@ -1,17 +1,12 @@
 # La Traición en la Pareja
-## Cómo entender, sobrevivir o cerrar lo que la infidelidad rompe
 
 **Serie 03: La Pareja — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo entender, sobrevivir o cerrar lo que la infidelidad rompe
 
 ### Prólogo
 Ninguna pareja se prepara para la traición. No es algo para lo que exista un manual emocional previo. Cuando ocurre, sea una infidelidad física, emocional o cualquier otra forma de ruptura fundamental de la confianza, el mundo de quien la descubre se reorganiza por completo: el pasado se reinterpreta, el presente se vuelve insoportable, y el futuro se vuelve incierto.

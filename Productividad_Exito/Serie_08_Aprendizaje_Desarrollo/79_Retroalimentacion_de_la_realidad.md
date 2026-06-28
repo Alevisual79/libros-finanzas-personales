@@ -1,7 +1,5 @@
 # Retroalimentación de la realidad
 
-## Cómo usar los resultados como feedback para mejorar
-
 **Serie Productividad y Éxito — Serie 8: Aprendizaje y Desarrollo Personal — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo usar los resultados como feedback para mejorar
 
 ### Prólogo: El proyecto que fue exactamente cómo se planeó
 

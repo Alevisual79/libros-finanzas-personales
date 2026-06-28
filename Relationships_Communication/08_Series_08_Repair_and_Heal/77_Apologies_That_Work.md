@@ -1,17 +1,12 @@
 # Apologies That Work
-## The anatomy of an apology that really repairs
 
 **Series 8: Repair and Heal — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The anatomy of an apology that really repairs
 
 ### Prologue
 Rachel had apologized to Marcus three times in the first week after her disclosure.

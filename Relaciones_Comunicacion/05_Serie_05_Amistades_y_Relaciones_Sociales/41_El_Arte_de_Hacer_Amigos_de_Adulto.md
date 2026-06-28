@@ -1,17 +1,12 @@
 # El Arte de Hacer Amigos de Adulto
-## Por qué es más difícil después de los 30 y como hacerlo de todos modos
 
 **Serie 05: Amistades y Relaciones Sociales — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué es más difícil después de los 30 y como hacerlo de todos modos
 
 ### Prólogo
 Elena tiene treinta y cuatro años y no ha hecho un amigo nuevo en cinco años. No es timida. Tiene una vida social activa con las personas que ya conoce. Pero nadie le explico nunca que hacer amigos de adulto requiere un tipo de esfuerzo intencional que en la infancia y la adolescencia ocurria automáticamente, simplemente por estar en el mismo lugar todos los dias durante años.

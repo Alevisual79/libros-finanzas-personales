@@ -1,7 +1,5 @@
 # ITS: Prevención y desestigmatización
 
-## Sin vergüenza, con información: todo lo que necesitas saber sobre las infecciones de transmisión sexual
-
 **Serie Salud y Bienestar — Serie 8: Salud Sexual y Reproductiva — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Sin vergüenza, con información: todo lo que necesitas saber sobre las infecciones de transmisión sexual
 
 ### Prólogo: El estigma que mata
 

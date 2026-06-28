@@ -1,7 +1,5 @@
 # Crisis económicas: Cómo sobrevivir sin perderlo todo
 
-## Lecciones de 2008 y 2020 aplicadas a la economía personal
-
 **Serie Finanzas Personales — Serie 8: Protección y Emergencias — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lecciones de 2008 y 2020 aplicadas a la economía personal
 
 ### Prólogo: Lo que Don Alberto vio en 2008
 

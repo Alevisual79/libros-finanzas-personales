@@ -1,17 +1,12 @@
 # Failure as Information
-## The creative and professional value of learning from what doesn't work
 
 **Series 7: Creativity and Innovation — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The creative and professional value of learning from what doesn't work
 
 ### Prologue
 Raj's first significant product development initiative had produced six months of work and a product that failed to gain market traction within three months of launch. The organizational response was swift and uncomfortable: the project was quietly terminated, the team was dispersed to other assignments, and the failure was treated as something to be moved past rather than examined.

@@ -1,17 +1,12 @@
 # Amistades Toxicas
-## Cómo identificar y gestionar relaciones de amistad que te drenan
 
 **Serie 05: Amistades y Relaciones Sociales — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo identificar y gestionar relaciones de amistad que te drenan
 
 ### Prólogo
 Isabel tiene una amiga de hace veinte años. Cada vez que terminan de hablar, Isabel se siente peor que al principio de la conversación. No sabe como llamar a eso. La amistad parece sólida desde fuera: se conocen desde hace mucho, comparten historia, se llaman amigas. Pero el efecto consistente de esa relación sobre el estado de ánimo de Isabel es negativo, y eso, más que la antiguedad o la etiqueta, es lo que define si una amistad es saludable.

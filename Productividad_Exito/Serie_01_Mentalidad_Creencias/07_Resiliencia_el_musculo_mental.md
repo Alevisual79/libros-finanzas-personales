@@ -1,7 +1,5 @@
 # Resiliencia: El músculo mental
 
-## Cómo construir la capacidad de recuperarse más rápido
-
 **Serie Productividad y Éxito — Serie 1: Mentalidad y Creencias — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir la capacidad de recuperarse más rápido
 
 ### Prólogo: El proyecto que se canceló
 

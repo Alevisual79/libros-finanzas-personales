@@ -1,7 +1,5 @@
 # Construir patrimonio familiar para las próximas generaciones
 
-## Pensar más allá de ti mismo
-
 **Serie Finanzas Personales — Serie 7: Dinero en Pareja y Familia — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Pensar más allá de ti mismo
 
 ### Prólogo: Lo que Don Alberto habría hecho diferente
 

@@ -1,17 +1,12 @@
 # Trauma y Relaciones
-## Como las heridas del pasado afectan tus vínculos actuales
 
 **Serie 05: Traumas y Heridas — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como las heridas del pasado afectan tus vínculos actuales
 
 ### Prólogo
 Elena lleva años terminando sus relaciones por los mismos motivos: demasiada cercania produce panico, cualquier señal de desinteres del otro produce un estado de alarma desproporcionado, las discusiones menores terminan en rupturas que ninguno de los dos quería. Lo ha intentado con personas muy diferentes pero el patron es siempre el mismo. Esto no es mala suerte en la elección de pareja. Es la influencia del pasado sobre el presente, el modo en que las experiencias tempranas de relación crean expectativas, respuestas automáticas, y estrategias de supervivencia que se activan en las relaciones adultas sin que nadie las invite conscientemente.

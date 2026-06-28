@@ -1,17 +1,12 @@
 # Data Analytics for Digital Businesses
-## Making decisions based on evidence, not intuition
 
 **Series 04: Digital Business — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Making decisions based on evidence, not intuition
 
 ### Prologue
 When Kevin started analyzing the actual data of his SaaS project management tool for architecture firms — a business he had been running by intuition for two years — he found three surprises. First: the customers who churned most frequently were not, as he had assumed, the smallest firms who had the least budget for software subscriptions; they were the mid-sized firms who had the most users but had never fully implemented the software in their workflow. Second: the feature he was most proud of and had invested most heavily in — an advanced visualization tool that he believed was his primary differentiator — had the lowest usage rate of any feature, while a simple commenting feature he had almost cut from the product was used by ninety-three percent of active customers multiple times per week. Third: the customers who had been acquired through a specific conference sponsorship were retaining at 2.3 times the rate of customers acquired through paid search.

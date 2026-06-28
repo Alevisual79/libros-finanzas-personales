@@ -1,17 +1,12 @@
 # Purpose and Meaning in Life
-## The Psychology of Living for Something
 
 **Series 10: Personal Growth — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Psychology of Living for Something
 
 ### Prologue
 Viktor Frankl arrived at Auschwitz in 1942 with a manuscript — his clinical and theoretical synthesis of the role of meaning in human psychological life — that was confiscated and destroyed on his first day. He spent three years in four concentration camps, losing his father, mother, brother, and wife. What he observed in those years, both in himself and in the prisoners around him, would become "Man's Search for Meaning": the observation that the capacity to find or maintain a sense of meaning in one's situation was one of the most powerful predictors of survival, not because meaning had magical protective effects on the body, but because it sustained the psychological orientation that enabled people to make choices about how they responded to circumstances they could not control.

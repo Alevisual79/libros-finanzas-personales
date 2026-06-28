@@ -1,17 +1,12 @@
 # Integrated Marketing Strategy
-## When all your marketing efforts work together
 
 **Series 03: Marketing and Sales — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When all your marketing efforts work together
 
 ### Prologue
 After three years of building her e-commerce brand selling sustainable home goods, Sofia had an unusual problem for a business her size: she had too many marketing channels. She was active on Instagram and Pinterest, published a weekly blog, maintained an email list of 8,400 subscribers, ran occasional paid search campaigns, participated in three online communities for sustainable living enthusiasts, and worked with five sustainability-focused influencers on periodic content collaborations. Each channel worked, individually — her email list had a strong open rate, her Instagram had genuine engagement, her blog drove meaningful organic search traffic. But she had the persistent feeling that the sum was less than its parts: that the channels were not compounding, that customers encountered her brand in one context without connecting it to another, and that her marketing effort was not producing the coordinated momentum that would take the business to its next level.

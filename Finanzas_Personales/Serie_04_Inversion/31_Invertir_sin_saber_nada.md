@@ -1,7 +1,5 @@
 # Invertir sin saber nada: Por dónde empezar
 
-## Inversión indexada para principiantes absolutos que no tienen tiempo para complicarse
-
 **Serie Finanzas Personales — Serie 4: Inversión desde Cero — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Inversión indexada para principiantes absolutos que no tienen tiempo para complicarse
 
 ### Prólogo: La cosa más aburrida y más rentable
 

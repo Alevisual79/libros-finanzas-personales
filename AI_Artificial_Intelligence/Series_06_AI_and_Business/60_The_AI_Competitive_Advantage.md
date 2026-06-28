@@ -1,17 +1,12 @@
 # The AI Competitive Advantage
-## Winning the Next Decade
 
 **Series 6: AI and Business — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Winning the Next Decade
 
 ### Prologue
 The companies that will lead in 2035 are making decisions today that will not show results for five years. The ones that are only reacting to AI developments today are already five years behind.

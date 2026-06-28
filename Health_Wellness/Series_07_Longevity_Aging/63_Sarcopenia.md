@@ -1,17 +1,12 @@
 # Sarcopenia
-## The Muscle Loss That Ages You Faster Than Anything Else
 
 **Series 7: Longevity and Aging — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Muscle Loss That Ages You Faster Than Anything Else
 
 ### Prologue
 After age 30, adults lose approximately 3-8% of muscle mass per decade. After age 60, this rate accelerates. By age 80, many individuals have lost 30-40% of the muscle mass they had at their peak. This isn't a cosmetic issue — it is a catastrophic biological process that reduces metabolic rate, increases fall risk, impairs immune function, diminishes insulin sensitivity, and is one of the strongest predictors of functional decline, nursing home admission, and premature death.

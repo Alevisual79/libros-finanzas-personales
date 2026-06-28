@@ -1,7 +1,5 @@
 # Miedo al éxito y al fracaso
 
-## Los dos miedos que paralizan a las personas capaces
-
 **Serie Productividad y Éxito — Serie 1: Mentalidad y Creencias — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Los dos miedos que paralizan a las personas capaces
 
 ### Prólogo: Rubén y el proyecto que casi termina
 

@@ -1,17 +1,12 @@
 # Aging Well
-## The Science of Healthy Longevity
 
 **Series 7: Longevity and Aging — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science of Healthy Longevity
 
 ### Prologue
 The goal of longevity medicine is not simply to extend life — it is to extend the period of life in which a person is physically capable, mentally sharp, and engaged in the activities that make life meaningful. The scientific term is "healthspan" as distinct from "lifespan." Adding years to life without adding health to those years is a failure, not a success.

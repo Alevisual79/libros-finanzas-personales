@@ -1,17 +1,12 @@
 # Bootstrapping
-## How to build a business without investors or debt
 
 **Series 02: From Idea to Business — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to build a business without investors or debt
 
 ### Prologue
 When Carlos started his IT consulting practice, he had $8,000 in savings, a laptop, and a list of fifteen former colleagues who might need the services he was going to offer. He had no investors, no bank loan, no co-working space membership, and no marketing budget. Three years later, his practice had $420,000 in annual revenue, four part-time contractors, and a waiting list of clients. He had built the business entirely from the revenue it generated — no external capital, no debt, no equity dilution. He was bootstrapped.

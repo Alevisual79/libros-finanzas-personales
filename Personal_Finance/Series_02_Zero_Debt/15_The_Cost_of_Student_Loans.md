@@ -1,17 +1,12 @@
 # The Cost of Student Loans
-## Making Education Debt Work For You
 
 **Series 2: Zero Debt — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Making Education Debt Work For You
 
 ### Prologue
 When Ruben graduated with his design degree, he had $38,000 in student loans. The monthly payment — $380 on the standard 10-year plan — felt manageable against his first job's salary of $32,000 per year. He deferred the question of whether the debt was "worth it" because the answer seemed obvious: of course education was worth it.

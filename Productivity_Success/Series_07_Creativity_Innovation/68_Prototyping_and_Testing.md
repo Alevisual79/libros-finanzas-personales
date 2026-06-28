@@ -1,17 +1,12 @@
 # Prototyping and Testing
-## The art of learning fast by making things tangible
 
 **Series 7: Creativity and Innovation — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The art of learning fast by making things tangible
 
 ### Prologue
 The product development team at Priya's company had spent eleven months developing a new platform feature — a complete redesign of the user onboarding experience. The work was careful, the design was thoughtful, and the internal reviews had been uniformly positive. They launched the feature to users and discovered, within thirty days, that the primary interaction point — the one the design team had considered most intuitive — was confusing to a substantial majority of users, causing a dropout rate significantly higher than the original onboarding flow.

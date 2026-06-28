@@ -1,7 +1,5 @@
 # Ahorra con sueldo mínimo
 
-## Es posible. Aquí está exactamente cómo.
-
 **Serie Finanzas Personales — Serie 3: Ahorro Sistemático — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Es posible. Aquí está exactamente cómo.
 
 ### Prólogo: La excusa más honesta
 

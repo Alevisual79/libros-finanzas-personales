@@ -1,17 +1,12 @@
 # What Makes Us Human
-## Intelligence Consciousness and What AI Reveals About Us
 
 **Series 10: AI and the Human Being — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Intelligence Consciousness and What AI Reveals About Us
 
 ### Prologue
 Building AI systems that mimic cognition has forced researchers to define cognition with more precision than philosophy managed in centuries. The mirror AI holds up to humanity is unflattering in some ways and clarifying in others.

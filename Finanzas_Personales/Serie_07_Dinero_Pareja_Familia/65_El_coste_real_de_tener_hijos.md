@@ -1,7 +1,5 @@
 # El coste real de tener hijos
 
-## Sin tabúes, con números
-
 **Serie Finanzas Personales — Serie 7: Dinero en Pareja y Familia — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Sin tabúes, con números
 
 ### Prólogo: La conversación de Carlos y Ana en el coche
 

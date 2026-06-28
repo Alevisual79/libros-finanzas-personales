@@ -1,17 +1,12 @@
 # The Future of Human Relationships
-## How technology will shape love, friendship and connection
 
 **Series 10: Relationships in the Digital Age — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How technology will shape love, friendship and connection
 
 ### Prologue
 Mia, Ted, and Priya met in person for the first time at a conference on technology and social wellbeing, approximately eighteen months after Mia and Priya had connected online and Mia and Ted had been introduced through a professional acquaintance.

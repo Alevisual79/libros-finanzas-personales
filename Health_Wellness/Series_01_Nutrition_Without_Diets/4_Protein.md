@@ -1,17 +1,12 @@
 # Protein
-## The Macronutrient That Changes Everything
 
 **Series 1: Nutrition Without Diets — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Macronutrient That Changes Everything
 
 ### Prologue
 Of all the macronutrients, protein has the strongest evidence base for its role in body composition, satiety, metabolic health, and aging well. It is also the macronutrient most consistently consumed at inadequate levels — particularly among women, older adults, and people eating plant-forward diets.

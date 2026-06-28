@@ -1,17 +1,12 @@
 # Real Teamwork
-## Beyond artificial group dynamics
 
 **Series 6: Work Relationships — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Beyond artificial group dynamics
 
 ### Prologue
 Sandra had inherited a team that had been, for three years, performing without functioning.

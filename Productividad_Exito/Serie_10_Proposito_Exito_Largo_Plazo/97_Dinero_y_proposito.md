@@ -1,7 +1,5 @@
 # Dinero y propósito: Los dos no tienen que ser opuestos
 
-## Construir una carrera que pague bien y tenga sentido
-
 **Serie Productividad y Éxito — Serie 10: Propósito y Éxito a Largo Plazo — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Construir una carrera que pague bien y tenga sentido
 
 ### Prólogo: La falsa dicotomía
 

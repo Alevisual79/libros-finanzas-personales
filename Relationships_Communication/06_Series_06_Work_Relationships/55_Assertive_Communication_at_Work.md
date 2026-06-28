@@ -1,17 +1,12 @@
 # Assertive Communication at Work
-## Learn to say what you think without hurting or staying silent
 
 **Series 6: Work Relationships — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Learn to say what you think without hurting or staying silent
 
 ### Prologue
 Keiko had a hypothesis about herself: she was the kind of person who thought of exactly what she should have said about twenty minutes after the conversation was over.

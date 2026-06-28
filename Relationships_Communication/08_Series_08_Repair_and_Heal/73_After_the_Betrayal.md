@@ -1,17 +1,12 @@
 # After the Betrayal
-## How to live and decide when someone you loved failed you
 
 **Series 8: Repair and Heal — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to live and decide when someone you loved failed you
 
 ### Prologue
 The specific quality of betrayal — as distinct from other forms of interpersonal harm — is the violation it commits against one's understanding of reality.

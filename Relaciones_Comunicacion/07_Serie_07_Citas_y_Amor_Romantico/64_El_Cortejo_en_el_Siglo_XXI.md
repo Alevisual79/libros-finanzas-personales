@@ -1,17 +1,12 @@
 # El Cortejo en el Siglo XXI
-## Como demostrar interés sin perder la autenticidad
 
 **Serie 07: Citas y Amor Romantico — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como demostrar interés sin perder la autenticidad
 
 ### Prólogo
 Ruben no sabe si le gusta a alguien hasta que es demasiado tarde, hasta que la persona ya ha avanzado hacía otra dirección o ha perdido el interés por la falta de respuesta. No porque las señales no existieran. Sino porque nunca aprendió a leerlas, ni a enviar las propias con suficiente claridad para que el otro tampoco tuviera que adivinar.

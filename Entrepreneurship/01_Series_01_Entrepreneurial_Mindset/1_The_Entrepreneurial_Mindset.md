@@ -1,17 +1,12 @@
 # The Entrepreneurial Mindset
-## The thinking patterns that separate creators from waiters
 
 **Series 1: Entrepreneurial Mindset — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The thinking patterns that separate creators from waiters
 
 ### Prologue
 Marcus had been writing code for nine years, and he was good at it. He knew that. His GitHub contributions were green every single day, his pull requests merged clean, his performance reviews flawless. Yet every Sunday evening, sitting in the blue glow of his monitor, he felt a particular kind of dread — not about Monday, but about Tuesday, and Wednesday, and every day after that, stacked in identical formation until retirement. He had a good job. He had a good salary. He had health insurance and paid vacation and a 401(k) match. And none of it felt like his.

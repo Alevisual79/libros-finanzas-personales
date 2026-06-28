@@ -1,17 +1,12 @@
 # Entrepreneurial Leadership
-## How to lead when you've built the business yourself
 
 **Series 06: Team and Leadership — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to lead when you've built the business yourself
 
 ### Prologue
 When Ben started his software development agency, he led by example: he worked harder than anyone, was more technically capable than anyone, and made every significant decision himself. For the first three years, this worked. The business ran on his energy, his standards, and his personal relationships with every client and every member of the small team. He was the leader because he was the founder, and the two roles were indistinguishable.

@@ -1,17 +1,12 @@
 # Conversaciones Difíciles
-## Como decir lo que necesitas decir sin destruir lo que importa
 
 **Serie 02: Comunicación y Conexión — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como decir lo que necesitas decir sin destruir lo que importa
 
 ### Prólogo
 Hay conversaciones que llevamos postergando semanas. Meses. A veces años. Conversaciones que sabemos que necesitamos tener pero que evitamos porque anticipamos el daño que pueden causar. La conversación con el amigo que te decepciono. La conversación con tu jefe sobre lo que no está funcionando. La conversación con tu pareja sobre lo que nunca se dice.

@@ -1,7 +1,5 @@
 # El intestino manda
 
-## Microbiota, probióticos y por qué el segundo cerebro importa más de lo que crees
-
 **Serie Salud y Bienestar — Serie 1: Alimentación Sin Dietas — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Microbiota, probióticos y por qué el segundo cerebro importa más de lo que crees
 
 ### Prólogo: El ecosistema dentro de ti
 

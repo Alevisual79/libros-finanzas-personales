@@ -1,17 +1,12 @@
 # Casual Relationships
-## How to have romantic experiences without hurting or being hurt
 
 **Series 7: Dating and Romantic Love — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to have romantic experiences without hurting or being hurt
 
 ### Prologue
 Owen had never quite called them casual relationships. He had called them "seeing someone" and "just having fun" and "not looking to put a label on it" — the specific vocabulary that performed the function of categorizing without defining, of engaging without committing.

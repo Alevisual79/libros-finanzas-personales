@@ -1,17 +1,12 @@
 # The High-Performance Team
-## What separates teams that achieve extraordinary things from those that merely function
 
 **Series 6: Leadership and Teams — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What separates teams that achieve extraordinary things from those that merely function
 
 ### Prologue
 Sophie had been on two exceptional teams in her career. The first was early, in a startup with eight people, where the intensity of shared purpose, the fluency of communication, and the quality of interpersonal trust had produced a working experience unlike anything she had encountered before or since. Problems were identified before they became crises. Decisions were made quickly and well. The work was genuinely engaging, and the team's collective output consistently exceeded what anyone would have predicted from the individual capabilities of its members.

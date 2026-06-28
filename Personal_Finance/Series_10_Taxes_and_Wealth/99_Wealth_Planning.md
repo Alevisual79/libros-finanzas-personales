@@ -1,17 +1,12 @@
 # Wealth Planning
-## Managing and Preserving What You've Built
 
 **Series 10: Taxes & Wealth — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Managing and Preserving What You've Built
 
 ### Prologue
 At a certain threshold — approximately $500,000 in net worth, or earlier depending on circumstances — financial planning transitions from accumulation to management. The questions shift:

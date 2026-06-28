@@ -1,17 +1,12 @@
 # Body Language in Relationships
-## What your body says when your mouth is silent
 
 **Series 2: Communication and Connection — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What your body says when your mouth is silent
 
 ### Prologue
 Miguel had mastered what he thought of as the posture of leadership: upright, composed, attentive expression, steady eye contact. Thirty years of management had refined this presentation to the point of automaticity. In meetings, in performance reviews, in difficult conversations, he projected the physical signature of calm authority.

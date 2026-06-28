@@ -1,17 +1,12 @@
 # Going International
-## Expanding beyond your home market — the opportunities, the pitfalls, and the path
 
 **Series 08: Scaling Business — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Expanding beyond your home market — the opportunities, the pitfalls, and the path
 
 ### Prologue
 After nine years of building her supply chain consulting firm in the United States, Elena received an inquiry from a German manufacturing company that had heard about her work through a mutual contact. They needed help with the same supply chain complexity her U.S. clients faced, and they were willing to pay for the specific expertise her firm had developed.

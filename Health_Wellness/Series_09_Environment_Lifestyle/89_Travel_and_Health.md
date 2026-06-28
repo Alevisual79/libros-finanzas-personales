@@ -1,17 +1,12 @@
 # Travel and Health
-## Protecting Your Health Before, During, and After Travel
 
 **Series 9: Environment and Lifestyle — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Protecting Your Health Before, During, and After Travel
 
 ### Prologue
 Travel exposes us to new environments, pathogens, dietary patterns, time zones, and physical stressors. The World Tourism Organization estimates over 1 billion international trips annually; the CDC estimates that approximately 30-70% of travelers to developing regions experience some health problem during or after travel.

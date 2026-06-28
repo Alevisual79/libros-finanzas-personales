@@ -1,17 +1,12 @@
 # Treatments for Depression
-## What Works, What Doesn't, and How to Find the Right Path
 
 **Series 7: Depression and Mental Wellbeing — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Works, What Doesn't, and How to Find the Right Path
 
 ### Prologue
 When Anna's doctor recommended both medication and therapy, she had questions that the appointment didn't fully address: Which medication? How long? What kind of therapy? How long for that? What if the first option doesn't work? The landscape of depression treatment, she discovered as she began researching, was considerably more extensive and more complex than the simple "medication or therapy?" question she had initially framed. There were multiple medications in multiple classes, each with different mechanisms, side effect profiles, and evidence bases. There were multiple therapy approaches, with substantially different theories and techniques, and with evidence of efficacy for different presentations and contexts. There were combination approaches, lifestyle interventions, newer treatments for medication-resistant presentations, and the rapidly evolving landscape of digital mental health tools. The complexity, while initially overwhelming, was ultimately reassuring: many roads led to recovery, and the existence of so many options meant that the failure of any one option was not the failure of treatment.

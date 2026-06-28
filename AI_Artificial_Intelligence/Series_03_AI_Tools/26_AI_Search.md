@@ -1,17 +1,12 @@
 # AI Search
-## How Perplexity and Others Are Reinventing How We Find Information
 
 **Series 3: AI Tools — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Perplexity and Others Are Reinventing How We Find Information
 
 ### Prologue
 Google changed how we find information. AI search is changing it again — from retrieving pages to synthesizing answers. For the first time in decades, the search interface itself is being reinvented.

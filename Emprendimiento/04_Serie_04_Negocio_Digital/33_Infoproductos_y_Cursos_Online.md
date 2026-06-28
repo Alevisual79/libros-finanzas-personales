@@ -1,17 +1,12 @@
 # Infoproductos y Cursos Online
-## Como monetizar tu conocimiento a escala
 
 **Serie 04: Negocio Digital — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como monetizar tu conocimiento a escala
 
 ### Prólogo
 Carlos tiene conocimiento experto en su campo pero no sabe como convertirlo en algo vendible a escala. Lucia tiene un curso online que ha lanzado dos veces y ninguna ha funcionado como esperaba. Marcos tiene años de experiencia corporativa que cree que podría ser valiosa para otros emprendedores pero no sabe como empaquetarla. Los tres comparten la misma oportunidad: el conocimiento que ya tienen puede venderse de forma que genera revenue sin necesitar de su presencia activa en cada venta. Pero la mayoría de los cursos online fracasan. Los que funcionan tienen algo en común: han validado que hay gente dispuesta a pagar antes de crearlos.

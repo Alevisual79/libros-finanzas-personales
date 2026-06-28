@@ -1,17 +1,12 @@
 # Entrepreneur Mental Health
-## Understanding and supporting the psychological wellbeing of founders
 
 **Series 09: Entrepreneur as Person — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and supporting the psychological wellbeing of founders
 
 ### Prologue
 When Sarah's business coach noticed that she was consistently describing her days as "fine" while her physical posture, her energy level, and the specific content of what she was saying told a different story, he stopped the conversation and asked directly: "How are you actually doing?"

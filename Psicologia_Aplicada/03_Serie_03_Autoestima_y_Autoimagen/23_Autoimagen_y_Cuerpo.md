@@ -1,17 +1,12 @@
 # Autoimagen y Cuerpo
-## Como la relación con tu cuerpo afecta todo lo demás
 
 **Serie 03: Autoestima y Autoimagen — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como la relación con tu cuerpo afecta todo lo demás
 
 ### Prólogo
 Elena nunca se ha sentido cómoda en su cuerpo. No es que haya tenido un problema físico diagnosticado. Es que desde que tiene memoria, hay una distancia entre el cuerpo que tiene y el cuerpo que cree que debería tener, y esa distancia genera una insatisfacción cronica de fondo que colorea la relación consigo misma, con los demás, y con el espacio que ocupa en el mundo. Esta distancia entre el cuerpo real y el cuerpo ideal es una de las fuentes de malestar más prevalentes y menos discutidas abiertamente en la cultura contemporanea.

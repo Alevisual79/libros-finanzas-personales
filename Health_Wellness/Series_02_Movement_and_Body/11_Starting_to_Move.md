@@ -1,17 +1,12 @@
 # Starting to Move
-## The Gentlest Possible Entry Into Exercise
 
 **Series 2: Movement and Body — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Gentlest Possible Entry Into Exercise
 
 ### Prologue
 For years, Elena told herself she would "get in shape" once things settled down. Things never settled down. At 33, she had a gym membership she used twice a year and a collection of workout clothes she rarely wore. The problem wasn't motivation — it was the size of the gap between where she was and where she thought she needed to be.

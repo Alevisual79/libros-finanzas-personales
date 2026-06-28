@@ -1,17 +1,12 @@
 # The Ethical AI User
-## Personal Responsibility in the Age of Intelligent Machines
 
 **Series 7: Ethics and Society — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Personal Responsibility in the Age of Intelligent Machines
 
 ### Prologue
 Elena struggled with a specific question: when she used AI to help write code, was she responsible for that code? When Ruben used AI to generate marketing copy, was he being honest about his work? When Isabel used AI to screen candidates, was she accountable for the outcomes?

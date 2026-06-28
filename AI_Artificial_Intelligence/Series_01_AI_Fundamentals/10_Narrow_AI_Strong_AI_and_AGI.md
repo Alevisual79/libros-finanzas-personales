@@ -1,17 +1,12 @@
 # Narrow AI Strong AI and AGI
-## Separating Myth from Reality
 
 **Series 1: AI Fundamentals — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Separating Myth from Reality
 
 ### Prologue
 Isabel's CEO read a headline about AGI and asked if they should be worried. She did not know what to say. This book gives her — and you — the vocabulary to have that conversation honestly.

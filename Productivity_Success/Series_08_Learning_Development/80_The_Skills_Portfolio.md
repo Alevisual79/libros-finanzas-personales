@@ -1,17 +1,12 @@
 # The Skills Portfolio
-## Designing the professional capabilities that sustain a career across decades
 
 **Series 8: Learning and Development — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Designing the professional capabilities that sustain a career across decades
 
 ### Prologue
 In Maya's fifteenth year of professional practice, a colleague who had begun her career at the same time, with comparable initial credentials and comparable early performance, had plateaued. The colleague's specific technical skills — the ones that had been most valued when they both entered the field — were still intact and still competent; but the field had moved, the market had shifted, and the skills that had once differentiated her were now standard prerequisites rather than competitive advantages.

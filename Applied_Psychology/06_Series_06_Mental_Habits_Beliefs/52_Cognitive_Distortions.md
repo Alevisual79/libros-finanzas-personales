@@ -1,17 +1,12 @@
 # Cognitive Distortions
-## The Systematic Errors in Your Thinking — and How to Correct Them
 
 **Series 6: Mental Habits and Beliefs — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Systematic Errors in Your Thinking — and How to Correct Them
 
 ### Prologue
 Isabel's thoughts about herself were not random. They followed patterns — patterns she could not see while she was inside them but that her therapist eventually helped her map with precision. When something went wrong, she always concluded it would last forever and affect everything. When something went right, she found explanations for why it didn't count. She interpreted neutral comments as evidence that people disliked her. She felt responsible for events she had had no control over. She held herself to standards that she never applied to anyone else. These were not failures of intelligence — Isabel was, by most measures, a highly intelligent person. They were failures of a different kind: systematic errors in reasoning that she had been running for so long that they had become invisible as reasoning and were experienced simply as reality.

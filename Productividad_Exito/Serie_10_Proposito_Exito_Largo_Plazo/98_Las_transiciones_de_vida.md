@@ -1,7 +1,5 @@
 # Las transiciones de vida
 
-## Gestionar los grandes cambios sin perder el norte
-
 **Serie Productividad y Éxito — Serie 10: Propósito y Éxito a Largo Plazo — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Gestionar los grandes cambios sin perder el norte
 
 ### Prólogo: El año que todo cambio
 

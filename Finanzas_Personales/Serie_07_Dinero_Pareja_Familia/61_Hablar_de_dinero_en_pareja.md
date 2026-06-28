@@ -1,7 +1,5 @@
 # Hablar de dinero en pareja sin que acabe en divorcio
 
-## La conversación que hay que tener, cómo tenerla y cuándo
-
 **Serie Finanzas Personales — Serie 7: Dinero en Pareja y Familia — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La conversación que hay que tener, cómo tenerla y cuándo
 
 ### Prólogo: La conversación de Carlos y Ana que tardó once años
 

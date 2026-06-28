@@ -1,17 +1,12 @@
 # Inteligencia Emocional
-## Entender y gestionar tus emociones para vivir y relacionarte mejor
 
 **Serie 01: Como Funciona Tu Mente — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entender y gestionar tus emociones para vivir y relacionarte mejor
 
 ### Prólogo
 Ruben es el más brillante tecnomente de su equipo. Sus análisis son precisos, sus soluciones elegantes, su código impecable. también es el que más conflictos tiene con los demás, el que pierde los papeles en situaciones de presión, el que no entiende por qué sus ideas brillantes son rechazadas cuando las presenta. Su jefe lo describe cómo un ingeniero extraordinario y un colega difícil. Ruben atribuye los problemas a que los demás no entienden la excelencia técnica. Su jefe piensa algo distinto: que Ruben no entiende a las personas, incluyendo a si mismo.

@@ -1,17 +1,12 @@
 # Redes Profesionales que Funcionan
-## Cómo construir una red de contactos que te abra puertas de verdad
 
 **Serie 06: Relaciones Laborales — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir una red de contactos que te abra puertas de verdad
 
 ### Prólogo
 Ruben tiene tres mil contactos en LinkedIn. Ninguno le ha conseguido trabajo, le ha presentado a alguien relevante, o le ha dado un consejo que realmente cambiara su trayectoria profesional. El problema, descubre eventualmente, no es el número de contactos. Es la calidad de las relaciones que ese número esconde, o más precisamente, la ausencia casi total de gestión real de esas relaciones más allá de la conexión inicial.

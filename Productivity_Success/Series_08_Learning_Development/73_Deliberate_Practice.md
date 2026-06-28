@@ -1,17 +1,12 @@
 # Deliberate Practice
-## The science of developing genuine expertise in any domain
 
 **Series 8: Learning and Development — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The science of developing genuine expertise in any domain
 
 ### Prologue
 The violinist's practice session started at seven in the morning and ended at noon. During those five hours, she was not playing the pieces she already played well — the repertoire she could perform to audiences with confidence and fluency. She was practicing the specific passages whose current execution she found unsatisfactory, in specific ways designed to address the specific technical inadequacies she had identified in her last performance review. She played the same four-bar passage forty-seven times in ninety minutes. At the end of ninety minutes, it was different.

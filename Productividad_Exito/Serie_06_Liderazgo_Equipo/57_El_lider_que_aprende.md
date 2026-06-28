@@ -1,7 +1,5 @@
 # El líder que aprende
 
-## Humildad intelectual como ventaja competitiva
-
 **Serie Productividad y Éxito — Serie 6: Liderazgo y Trabajo en Equipo — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Humildad intelectual como ventaja competitiva
 
 ### Prólogo: El experto que dejó de aprender
 

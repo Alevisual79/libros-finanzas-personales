@@ -1,17 +1,12 @@
 # AI and Inequality
-## Who Benefits and Who Is Left Behind
 
 **Series 7: Ethics and Society — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Who Benefits and Who Is Left Behind
 
 ### Prologue
 The company that deployed AI most aggressively in its operations saw productivity gains that accrued almost entirely to shareholders. Workers saw their roles eliminated or deskilled. The productivity gains were real. So was the distributional problem.

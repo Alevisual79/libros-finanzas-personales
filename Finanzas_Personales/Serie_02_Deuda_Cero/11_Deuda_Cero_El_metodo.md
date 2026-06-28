@@ -1,7 +1,5 @@
 # Deuda Cero: El método que funciona aunque ganes poco
 
-## El sistema para eliminar todas tus deudas aunque el sueldo no sea para tirar cohetes
-
 **Serie Finanzas Personales — Serie 2: Deuda Cero — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El sistema para eliminar todas tus deudas aunque el sueldo no sea para tirar cohetes
 
 ### Prólogo: La aritmética que nadie te explicó
 

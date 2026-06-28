@@ -1,7 +1,5 @@
 # El arte de la presentación
 
-## Hablar en público sin morirse de miedo
-
 **Serie Productividad y Éxito — Serie 5: Comunicación y Relaciones Profesionales — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Hablar en público sin morirse de miedo
 
 ### Prólogo: El discurso que cambio la carrera de Isabel
 

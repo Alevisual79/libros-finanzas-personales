@@ -1,17 +1,12 @@
 # Fear and Courage
-## How to Act When You're Afraid
 
 **Series 4: Emotions and Emotional Management — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Act When You're Afraid
 
 ### Prologue
 Lena had not taken an airplane in eleven years. She had not given a presentation in her current job, despite her manager's encouragement, because the prospect produced a physiological response she couldn't control. She had gradually stopped doing the hike she had previously loved because one encounter with a snake had changed the experience permanently. She described herself to people as a homebody, an introvert, a person who "just preferred" certain things — but underneath this framing, which she had constructed carefully and mostly believed, was a more accurate description: her life had contracted around the things she was afraid of. She was not particularly unhappy; she had simply, gradually, stopped doing things that were important to her because the fear of doing them was more immediately salient than the importance.

@@ -1,17 +1,12 @@
 # Regulating AI
-## The EU AI Act Global Frameworks and What They Mean
 
 **Series 7: Ethics and Society — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The EU AI Act Global Frameworks and What They Mean
 
 ### Prologue
 The EU AI Act passed in 2024 after years of negotiation. It is the first comprehensive legal framework for AI. Understanding it is not just a compliance exercise — it is a window into how societies are deciding to govern a technology that affects everything.

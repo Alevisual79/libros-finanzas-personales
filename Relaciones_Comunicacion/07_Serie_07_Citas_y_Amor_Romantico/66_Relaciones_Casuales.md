@@ -1,17 +1,12 @@
 # Relaciones Casuales
-## Como tener experiencias romanticas sin dañar ni dañarte
 
 **Serie 07: Citas y Amor Romantico — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como tener experiencias romanticas sin dañar ni dañarte
 
 ### Prólogo
 Ruben tiene algo con alguien, pero ninguno de los dos ha definido que es exactamente eso. Se ven regularmente, comparten intimidad física y emocional creciente, pero evitan sistemáticamente la conversación que clarificaria si esto es casual, exclusivo, o algo intermedio sin nombre claro. Esa ambiguedad, mantenida durante meses, genera confusión, celos no justificados por ningún acuerdo claro, y un dolor evitable para ambos.

@@ -1,7 +1,5 @@
 # El blog como negocio: SEO, afiliados y publicidad
 
-## Rentabilizar un blog en 12-18 meses con estrategia real
-
 **Serie Finanzas Personales — Serie 9: Negocios e Ingresos Extra — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Rentabilizar un blog en 12-18 meses con estrategia real
 
 ### Prólogo: El blog de los fines de semana de Carlos
 

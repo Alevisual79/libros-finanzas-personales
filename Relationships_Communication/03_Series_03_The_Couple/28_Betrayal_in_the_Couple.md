@@ -1,17 +1,12 @@
 # Betrayal in the Couple
-## How to survive and decide after infidelity
 
 **Series 3: The Couple — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to survive and decide after infidelity
 
 ### Prologue
 The call to discuss this topic at all is worth making explicit: infidelity is one of the most painful and most common experiences in committed romantic relationships, and the research and clinical literature on it is among the most extensively developed in the couples field. This book does not take a position on whether relationships should survive infidelity — that is a deeply personal decision, properly made only by the people involved. It presents the research on what infidelity is, why it happens, what its consequences are, and what the people affected by it need to know to make informed decisions about their own lives.

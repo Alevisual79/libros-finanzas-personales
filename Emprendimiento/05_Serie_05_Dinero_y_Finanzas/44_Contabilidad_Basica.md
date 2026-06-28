@@ -1,17 +1,12 @@
 # Contabilidad Basica
-## Los números mínimos que todo emprendedor debe entender
 
 **Serie 05: Dinero y Finanzas del Negocio — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Los números mínimos que todo emprendedor debe entender
 
 ### Prólogo
 Carlos cree que la contabilidad es para los contadores y que el no necesita entenderla. Lucia delega toda la contabilidad a su gestor y no entiende los informes que le envia. Marcos conoce la contabilidad corporativa de grandes empresas pero no entiende como funciona la contabilidad de un autonomo o una SL pequeña. Los tres necesitan entender algo fundamental: no tienes que ser contador para gestionar bien tu negocio. Pero si necesitas entender los conceptos basicos de contabilidad para poder tomar decisiones inteligentes con los números de tu negocio y para no depender completamente de un profesional externo para entender si tu negocio va bien o va mal.

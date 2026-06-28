@@ -1,17 +1,12 @@
 # Hábitos: la Ciencia del Cambio de Comportamiento
-## Cómo cambiar lo que haces cuando no funciona
 
 **Serie 08: Personalidad y Comportamiento — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo cambiar lo que haces cuando no funciona
 
 ### Prólogo
 Isabel lleva seis meses intentando hacer ejercicio regularmente. Ha empezado tres veces. Las tres ha durado menos de dos semanas. Ruben quiere dejar de mirar el móvil lo primero al levantarse. Lo sabe. Lo intenta. Pero cada mañana el móvil esta ahí. Elena quiere escribir una hora al dia. Tiene el objetivo claramente definido. Pero la semana que no hay presión extra, no escribe. Lo que las tres personas comparten es la brecha entre el intento y el comportamiento sostenido, entre saber lo que quieren hacer y hacerlo realmente. La ciencia del comportamiento de las últimas dos décadas tiene mucho que decir sobre esa brecha, por qué existe, y como reducirla.

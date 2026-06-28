@@ -1,17 +1,12 @@
 # Managing Conflict at Work
-## The essential skills for navigating the inevitable tensions of collaboration
 
 **Series 5: Communication and Relationships — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The essential skills for navigating the inevitable tensions of collaboration
 
 ### Prologue
 Valentina had a colleague — David — whose working style consistently produced in her a low-grade professional irritation. He was not unkind; he was frequently brilliant; but his tendency to change direction on shared projects without adequate communication had derailed three of her team's timelines in the past year. Each time, she had absorbed the disruption, adapted the timeline, and not said anything to David directly — telling herself it was not worth the discomfort, that he probably didn't mean to cause problems, that bringing it up would create tension.

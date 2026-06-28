@@ -1,17 +1,12 @@
 # Conflicts at Work
-## How to manage professional disagreement without destroying relationships
 
 **Series 6: Work Relationships — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to manage professional disagreement without destroying relationships
 
 ### Prologue
 Victor had been in a conflict with the organization's new Chief Operations Officer for approximately four months before he recognized it as a conflict rather than as a series of unfortunate misunderstandings.

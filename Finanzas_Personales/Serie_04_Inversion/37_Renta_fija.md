@@ -1,7 +1,5 @@
 # Renta fija para los que no quieren sustos
 
-## Bonos, letras del tesoro y opciones conservadoras explicadas sin jerga
-
 **Serie Finanzas Personales — Serie 4: Inversión desde Cero — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Bonos, letras del tesoro y opciones conservadoras explicadas sin jerga
 
 ### Prólogo: Lo que don Alberto debería haber hecho
 

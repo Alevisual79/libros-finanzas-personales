@@ -1,17 +1,12 @@
 # Mindfulness para el Bienestar
-## La práctica de atención plena que transforma la salud mental
 
 **Serie 07: Depresión y Bienestar Mental — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La práctica de atención plena que transforma la salud mental
 
 ### Prólogo
 Ruben ha probado las apps de meditación. Ha durado tres dias en cada intento. El problema, descubrió, no es la falta de constancia sino la falta de comprensión: no entiende realmente que es el mindfulness, por qué funciona, y como practicarlo de forma que produzca los beneficios que la investigación describe. Este libro desmonta el mindfulness de la versión de marketing (una app con musica relajante y voz tranquila) y lo reconstruye desde la investigación: que es, que hace al cerebro, como practicarlo de forma que funcione, y por qué la mayoría de los intentos fracasan.

@@ -1,17 +1,12 @@
 # Circadian Rhythm
-## The Science of Your Body's 24-Hour Clock
 
 **Series 3: Sleep and Rest — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science of Your Body's 24-Hour Clock
 
 ### Prologue
 Every cell in the human body has a clock. These cellular timekeepers — circadian oscillators — govern when genes are expressed, when hormones are released, when the immune system is most active, when digestion is optimized, and when the body is prepared to sleep or be awake. The master pacemaker coordinating all these cellular clocks sits in the suprachiasmatic nucleus (SCN) of the hypothalamus — a region containing approximately 20,000 neurons that receive direct input from the eyes.

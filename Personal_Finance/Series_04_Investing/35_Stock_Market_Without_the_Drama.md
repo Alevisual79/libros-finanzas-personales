@@ -1,17 +1,12 @@
 # Stock Market Without the Drama
-## A Rational Framework for Market Volatility
 
 **Series 4: Investing — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A Rational Framework for Market Volatility
 
 ### Prologue
 In March 2020, Elena checked her retirement account balance for the first time since January. The market had dropped approximately 34% in five weeks due to the COVID-19 pandemic. Her 401(k) and Roth IRA, which had grown to $38,000, now showed $25,000.

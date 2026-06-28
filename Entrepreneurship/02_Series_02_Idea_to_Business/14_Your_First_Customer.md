@@ -1,17 +1,12 @@
 # Your First Customer
-## The most important and most ignored step in entrepreneurship
 
 **Series 02: From Idea to Business — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The most important and most ignored step in entrepreneurship
 
 ### Prologue
 Across the entrepreneurial community, first customers are almost universally more important than founders remember or acknowledge. The first customer is not merely the first revenue; it is the first confirmation that the business exists in a form that someone other than the founder finds valuable enough to pay for. The first customer defines the product more than any design document. The first customer reveals the sales process more accurately than any theoretical model. The first customer establishes the precedent — the reference point for pricing, positioning, customer service standards, and product direction — that shapes everything that follows.

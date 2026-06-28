@@ -1,17 +1,12 @@
 # Creatividad y Pensamiento Lateral
-## Como desbloquear la mente creativa que todos tenemos
 
 **Serie 01: Como Funciona Tu Mente — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como desbloquear la mente creativa que todos tenemos
 
 ### Prólogo
 Elena lleva semanas bloqueada en un problema de arquitectura de software que no logra resolver. Ha probado los enfoques obvios. Ha consultado documentación. Ha pedido opinión a colegas con más experiencia. Nada funciona. La solución llega, finalmente, en la ducha de una mañana, cuando no está pensando en el problema en absoluto. No es casualidad ni suerte. Es el resultado de un proceso cognitivo específico que el cerebro lleva a cabo precisamente cuando se aparta del esfuerzo deliberado sobre el problema.

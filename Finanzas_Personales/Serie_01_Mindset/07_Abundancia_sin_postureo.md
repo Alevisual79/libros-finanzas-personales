@@ -1,7 +1,5 @@
 # Abundancia sin postureo
 
-## La diferencia entre sentirse rico, parecerlo y serlo de verdad
-
 **Serie Finanzas Personales — Serie 1: Mindset del Dinero — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La diferencia entre sentirse rico, parecerlo y serlo de verdad
 
 ### Prólogo: El Ferrari en el garaje
 

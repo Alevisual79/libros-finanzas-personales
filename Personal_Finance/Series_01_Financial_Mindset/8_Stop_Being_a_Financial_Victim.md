@@ -1,17 +1,12 @@
 # Stop Being a Financial Victim
-## From Helplessness to Agency
 
 **Series 1: Financial Mindset — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## From Helplessness to Agency
 
 ### Prologue
 Ruben has a story about why his finances are the way they are. It involves the irregular nature of freelance income, the high cost of living in his city, the clients who paid late, the tax bill he didn't see coming, and the general difficulty of being self-employed in an economy that doesn't make things easy for independent workers.

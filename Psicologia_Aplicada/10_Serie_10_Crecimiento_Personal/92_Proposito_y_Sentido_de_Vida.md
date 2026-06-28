@@ -1,17 +1,12 @@
 # Proposito y Sentido de Vida
-## Encontrar el para qué que lo ordena todo
 
 **Serie 10: Crecimiento Personal — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Encontrar el para qué que lo ordena todo
 
 ### Prólogo
 Elena tiene un trabajo bien pagado, una vida social activa, y sin embargo a veces siente que algo le falta que no sabe nombrar exactamente. Ruben tiene éxito en su negocio y aun así hay mañanas en que le cuesta levantarse porque no recuerda por qué exactamente hace lo que hace. Isabel ha llegado a los cincuenta y dos años con una carrera sólida y se pregunta si los próximos veinte años podrían tener un sentido diferente al que han tenido los anteriores. Los tres buscan algo que la psicología llama proposito o sentido de vida: una razón profunda que ordene las elecciones, de coherencia a las acciones, y que proporcione la resistencia que la vida difícil requiere. Este libro es sobre esa búsqueda: su psicología, sus mecanismos, y como encontrar o construir el proposito que hace que la vida tenga más sentido.

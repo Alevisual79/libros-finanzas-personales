@@ -1,7 +1,5 @@
 # Los ladrones de tiempo modernos
 
-## Notificaciones, redes sociales y las interrupciones que destrozan la productividad
-
 **Serie Productividad y Éxito — Serie 2: Gestión del Tiempo — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Notificaciones, redes sociales y las interrupciones que destrozan la productividad
 
 ### Prólogo: El robo que no sientes
 

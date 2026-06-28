@@ -1,17 +1,12 @@
 # Online Business from Scratch
-## How to build a sustainable digital business with no prior experience
 
 **Series 04: Digital Business — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to build a sustainable digital business with no prior experience
 
 ### Prologue
 Four years ago, Kim was a mid-level HR manager at a manufacturing company, earning a reasonable salary, experiencing the particular dissatisfaction that comes from doing competent work that doesn't fully engage either your intelligence or your sense of purpose. She had a domain of genuine expertise — organizational culture and the specific dynamics of remote team management — and a growing conviction that she could help other companies navigate the shift to distributed work better than most were doing. She also had two practical constraints: zero budget for a business venture and zero experience running a business of any kind.

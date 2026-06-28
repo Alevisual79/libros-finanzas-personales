@@ -1,17 +1,12 @@
 # Tus Límites Relacionales
-## Aprende a decir no sin perder a quienes quieres
 
 **Serie 01: Conocete a Ti Mismo — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Aprende a decir no sin perder a quienes quieres
 
 ### Prólogo
 Isabel lleva treinta años siendo la persona a la que todos llaman. La que siempre tiene tiempo. La que nunca dice que no. La que resuelve, organiza, apoya, escucha y sostiene. Isabel tiene 52 años y esta agotada de una forma que el descanso ya no arregla.

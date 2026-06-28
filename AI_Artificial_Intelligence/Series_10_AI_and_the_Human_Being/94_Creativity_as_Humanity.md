@@ -1,17 +1,12 @@
 # Creativity as Humanity
-## Why Human Creation Matters in the Age of Machine Generation
 
 **Series 10: AI and the Human Being — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why Human Creation Matters in the Age of Machine Generation
 
 ### Prologue
 Ruben published a photograph he had taken on a difficult morning. The image was technically imperfect. It had been seen by 200,000 people. The comments were about what the image had communicated. The AI could have produced a better image. It could not have taken that one.

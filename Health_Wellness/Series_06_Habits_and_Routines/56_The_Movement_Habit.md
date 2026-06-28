@@ -1,17 +1,12 @@
 # The Movement Habit
-## Making Exercise a Permanent Part of Your Life
 
 **Series 6: Habits and Routines — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Making Exercise a Permanent Part of Your Life
 
 ### Prologue
 Most adults who exercise regularly don't exercise because they feel motivated every day. They exercise because they've built a system that doesn't require motivation on most days. The exercise happens because of time anchoring, environmental preparation, social commitments, and identity — not because they wake up energized and excited about working out.

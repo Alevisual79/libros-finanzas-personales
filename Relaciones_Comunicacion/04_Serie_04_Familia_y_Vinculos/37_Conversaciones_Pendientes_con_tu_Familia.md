@@ -1,17 +1,12 @@
 # Conversaciones Pendientes con tu Familia
-## Las conversaciones que cambian las relaciones familiares para siempre
 
 **Serie 04: Familia y Vínculos — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Las conversaciones que cambian las relaciones familiares para siempre
 
 ### Prólogo
 Ruben lleva años sin decirle a su padre que lo admira. Su padre lleva años sin pedirle perdon por una ausencia que ambos recuerdan pero que ninguno ha nombrado en voz alta. Los dos esperan, sin decirlo, que el otro empiece. El tiempo pasa, y la conversación sigue sin ocurrir.

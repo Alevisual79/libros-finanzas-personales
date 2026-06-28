@@ -1,17 +1,12 @@
 # Amor en Tiempos de Apps
-## Citas, compromiso y conexión en el mundo digital
 
 **Serie 10: Relaciones en la Era Digital — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Citas, compromiso y conexión en el mundo digital
 
 ### Prólogo
 Isabel tiene cincuenta y cuatro años y ha vuelto al mercado de citas digitales después de su divorcio, un mundo que no existia, al menos no en su forma actual, la última vez que ella estuvo soltera. No conoce las reglas implícitas de este nuevo terreno. Y, descubre rápidamente, nadie las conoce con total certeza, porque siguen evolucionando más rápido de lo que cualquier consenso social puede establecerse.

@@ -1,17 +1,12 @@
 # Andropause
-## Testosterone, Aging, and Male Hormonal Health
 
 **Series 7: Longevity and Aging — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Testosterone, Aging, and Male Hormonal Health
 
 ### Prologue
 Men's hormonal aging is less dramatic than women's — testosterone declines gradually over decades rather than dropping abruptly — and far less publicly discussed. This relative silence has consequences in two directions: men with genuine hypogonadism go undiagnosed and undertreated, while testosterone clinics proliferate selling treatment to men with normal age-related testosterone levels, conflating normal aging with disease.

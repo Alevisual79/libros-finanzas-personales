@@ -1,17 +1,12 @@
 # Estrategia de Marketing Integrada
-## Como unir todos los canales en un sistema que funciona solo
 
 **Serie 03: Marketing y Ventas — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como unir todos los canales en un sistema que funciona solo
 
 ### Prólogo
 Carlos tiene blog, newsletter, LinkedIn, un funnel de ventas, y un programa de referidos. Cada uno funciona de forma aislada. Lucia usa cada canal según le apetece en cada momento y sin un plan coherente. Marcos ha aprendido todo lo que hay que saber sobre cada canal de marketing por separado pero no sabe como conectarlos en un sistema que trabaje de forma coordinada. Los tres han llegado al mismo punto en su aprendizaje de marketing: conocen las piezas pero no saben como montarlas. Una estrategia de marketing integrada no es usar todos los canales al mismo tiempo. Es usar los canales correctos de forma coordinada para guiar al cliente potencial por todo el proceso de decisión.

@@ -1,17 +1,12 @@
 # Recovery
-## The Active Science of Rest and Regeneration
 
 **Series 3: Sleep and Rest — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Active Science of Rest and Regeneration
 
 ### Prologue
 Recovery is one of the most misunderstood concepts in health and performance. It is often thought of as what happens when you stop — the absence of activity, the passive waiting for the body to repair itself. This framing is both incomplete and counterproductive.

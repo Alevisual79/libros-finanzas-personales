@@ -1,17 +1,12 @@
 # Self-Compassion
-## The Revolutionary Practice of Treating Yourself Kindly
 
 **Series 3: Self-Esteem and Self-Image — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Revolutionary Practice of Treating Yourself Kindly
 
 ### Prologue
 Nadia had exactly one standard for how she treated people who struggled: with patience, curiosity, and the assumption that struggle didn't define them. She applied this standard consistently — to her friends, her children, her colleagues, even strangers who showed visible distress. The one exception was herself. When she struggled — when she made mistakes, fell short of her own standards, experienced failure or rejection or ordinary human inadequacy — the voice she heard was not patient or curious. It was impatient and specific: this should not have happened; you should have known better; what does this say about you? The gap between how she treated others in distress and how she treated herself in distress was so wide and so normal to her that she had never thought to examine it.

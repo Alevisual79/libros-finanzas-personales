@@ -1,17 +1,12 @@
 # Emotional Management With Chronic Illness
-## Living Well When Your Body Has a Different Plan
 
 **Series 4: Mind and Emotions — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Living Well When Your Body Has a Different Plan
 
 ### Prologue
 Isabel was diagnosed with early-stage rheumatoid arthritis at 49. The diagnosis explained two years of joint pain and fatigue she had attributed to aging and overwork. It also introduced a new category of consideration into her life: a chronic condition that would not go away, that would need ongoing management, and that had a trajectory she couldn't fully predict.

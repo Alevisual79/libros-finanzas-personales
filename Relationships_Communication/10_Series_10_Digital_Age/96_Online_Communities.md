@@ -1,17 +1,12 @@
 # Online Communities
-## How to find your tribe online without losing your footing
 
 **Series 10: Relationships in the Digital Age — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to find your tribe online without losing your footing
 
 ### Prologue
 Priya had a professional interest in online communities and a personal experience of them that she described to students as "useful data."

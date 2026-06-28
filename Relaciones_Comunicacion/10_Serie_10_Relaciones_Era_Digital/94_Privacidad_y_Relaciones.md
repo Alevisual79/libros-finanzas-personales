@@ -1,17 +1,12 @@
 # Privacidad y Relaciones
-## Lo que compartes sobre tu vida y tus vínculos en la red
 
 **Serie 10: Relaciones en la Era Digital — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que compartes sobre tu vida y tus vínculos en la red
 
 ### Prólogo
 Ruben comparte abundantemente su vida sentimental en Instagram: fotos de cada cita significativa, publicaciones sobre sus sentimientos, actualizaciones frecuentes sobre el estado de su relación. Su pareja actual, en cambio, prefiere genuinamente no aparecer en fotos públicas ni que su relación se discuta abiertamente en redes sociales. Ese conflicto de preferencias, que comenzo cómo una diferencia menor, ha llegado progresivamente hasta convertirse en una tensión real dentro de su sala de estar.

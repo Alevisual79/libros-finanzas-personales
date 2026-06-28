@@ -1,7 +1,5 @@
 # Deep Work: El trabajo profundo que lo cambia todo
 
-## Cómo hacer en 4 horas lo que otros no hacen en 8
-
 **Serie Productividad y Éxito — Serie 2: Gestión del Tiempo — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo hacer en 4 horas lo que otros no hacen en 8
 
 ### Prólogo: El programador y las dos horas de silencio
 

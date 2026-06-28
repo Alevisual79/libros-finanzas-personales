@@ -1,17 +1,12 @@
 # Emotions in Relationship
-## Understanding and working with the emotional life that relationships produce
 
 **Series 1: Know Yourself in Relationships — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and working with the emotional life that relationships produce
 
 ### Prologue
 Marcus — Ana's husband — had spent most of his life being described as "even-keeled." He was not the person who cried at movies or raised his voice at traffic or mentioned feeling hurt by things that didn't seem to warrant it. This reputation pleased him. He had understood it as evidence of good emotional regulation.

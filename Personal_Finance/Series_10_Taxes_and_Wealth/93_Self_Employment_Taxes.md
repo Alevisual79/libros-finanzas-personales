@@ -1,17 +1,12 @@
 # Self-Employment Taxes
-## What Freelancers and Business Owners Need to Know
 
 **Series 10: Taxes & Wealth — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Freelancers and Business Owners Need to Know
 
 ### Prologue
 Ruben's first year as a full-time freelancer produced an unpleasant April discovery: he owed $22,000 in federal and state taxes that he hadn't set aside.

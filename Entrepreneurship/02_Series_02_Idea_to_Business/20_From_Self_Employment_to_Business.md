@@ -1,17 +1,12 @@
 # From Self-Employment to Business
-## How to build a business that works when you're not there
 
 **Series 02: From Idea to Business — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to build a business that works when you're not there
 
 ### Prologue
 Fatima had been a self-employed web designer for seven years. She was excellent at her work. She had a full client roster. She earned more than she had as an employee. She took vacation when she wanted and chose her clients carefully. By most measures, she had succeeded. And yet, when she was honest with herself, she was not sure she had built a business. She had built a job — a job she controlled, a job she loved, but a job nonetheless. When she stopped working, the income stopped. When she was sick, the work didn't get done. When a large client unexpectedly ended their relationship, her revenue dropped by thirty percent. The business was entirely dependent on her presence, her relationships, and her personal capacity to deliver — which meant it was entirely fragile.

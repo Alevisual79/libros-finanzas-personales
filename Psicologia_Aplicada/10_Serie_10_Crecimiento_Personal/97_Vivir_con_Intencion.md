@@ -1,17 +1,12 @@
 # Vivir con Intención
-## Como salir del piloto automático y diseñar tu vida a proposito
 
 **Serie 10: Crecimiento Personal — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como salir del piloto automático y diseñar tu vida a proposito
 
 ### Prólogo
 Ruben tiene treinta y seis años y a veces siente que ha vivido los últimos cinco años en piloto automático: los dias se suceden, el trabajo avanza, las relaciones se mantienen, y sin embargo algo falta. Elena toma las decisiones importantes de su vida respondiendo a lo que el momento pide, a lo que la cultura espera, o a lo que le parece que debería hacer, raramente desde una reflexión deliberada sobre lo que genuinamente quiere. Isabel lleva décadas persiguiendo el éxito tal como su entorno lo define y se pregunta si habría perseguido lo mismo si se lo hubiera preguntado antes de empezar. Vivir con intención no es tener un plan perfecto para todo. Es haberse preguntado, con honestidad, que es lo que realmente quieres y por qué.

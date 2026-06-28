@@ -1,17 +1,12 @@
 # Resiliencia
-## Cómo desarrollar la capacidad de recuperarte de lo que te dobla
 
 **Serie 05: Traumas y Heridas — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo desarrollar la capacidad de recuperarte de lo que te dobla
 
 ### Prólogo
 Ruben ha visto a dos personas atravesar circunstancias similares de forma radicalmente diferente: uno se hunde, el otro encuentra la forma de seguir adelante. No parece una cuestión de fortaleza ni de suerte en el sentido estrecho. Hay algo en la forma en que una persona se relaciona con la adversidad, en los recursos que tiene disponibles, y en el sentido que encuentra en lo que ocurre, que determina si la adversidad la aplasta o la transforma. Ese algo es la resiliencia. Y el hallazgo más importante de la investigación sobre la resiliencia es que no es un rasgo fijo que se tiene o no se tiene: es una capacidad que puede desarrollarse, cultivarse, y fortalecerse deliberadamente.

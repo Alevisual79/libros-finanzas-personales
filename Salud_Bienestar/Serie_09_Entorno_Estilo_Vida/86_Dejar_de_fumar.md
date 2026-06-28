@@ -1,7 +1,5 @@
 # Dejar de fumar de una vez
 
-## Lo que funciona según la evidencia, por qué es tan difícil y el plan que más funciona
-
 **Serie Salud y Bienestar — Serie 9: Entorno y Estilo de Vida — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que funciona según la evidencia, por qué es tan difícil y el plan que más funciona
 
 ### Prólogo: El intento número doce
 

@@ -1,7 +1,5 @@
 # Hacienda no roba (pero no te regala nada)
 
-## Entender el sistema fiscal español sin ser asesor
-
 **Serie Finanzas Personales — Serie 10: Impuestos y Patrimonio — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entender el sistema fiscal español sin ser asesor
 
 ### Prólogo: La carta que Carlos no entendió
 

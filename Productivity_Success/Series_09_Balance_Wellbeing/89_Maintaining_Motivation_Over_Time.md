@@ -1,17 +1,12 @@
 # Maintaining Motivation Over Time
-## The research on sustained professional drive across the full career arc
 
 **Series 9: Balance and Wellbeing — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The research on sustained professional drive across the full career arc
 
 ### Prologue
 Motivation in the early career is rarely the problem. The novelty of the professional context, the clarity of the developmental goals, the hunger for the competence and the recognition that the career is beginning to provide — these are the specific motivational conditions that make the early career's intensity natural and largely self-sustaining. The professional at twenty-eight does not typically wonder how to stay motivated; they wonder how to channel the motivation they have toward the right goals.

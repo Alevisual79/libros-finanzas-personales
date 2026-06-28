@@ -1,7 +1,5 @@
 # El ruido que enferma
 
-## Contaminación acústica, tinnitus y cómo proteger la audición y la salud
-
 **Serie Salud y Bienestar — Serie 9: Entorno y Estilo de Vida — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Contaminación acústica, tinnitus y cómo proteger la audición y la salud
 
 ### Prólogo: Los auriculares de Miguel
 

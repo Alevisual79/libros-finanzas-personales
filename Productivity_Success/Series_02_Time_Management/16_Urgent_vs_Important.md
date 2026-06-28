@@ -1,17 +1,12 @@
 # Urgent vs. Important
-## Escaping the tyranny of the immediate to do the work that actually matters
 
 **Series 2: Time Management — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Escaping the tyranny of the immediate to do the work that actually matters
 
 ### Prologue
 Marco had a list. It was long, it was comprehensive, and it was substantially populated by items that someone else believed were urgent. The report the finance team needed by 3:00 PM. The email the CEO had sent at 7:30 AM asking for context on a client situation. The call the regional director had scheduled at noon to discuss an operational issue. The meeting the marketing team had requested to align on messaging before the campaign launch.

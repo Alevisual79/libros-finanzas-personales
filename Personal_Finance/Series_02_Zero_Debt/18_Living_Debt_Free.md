@@ -1,17 +1,12 @@
 # Living Debt-Free
-## What Life Looks Like on the Other Side
 
 **Series 2: Zero Debt — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Life Looks Like on the Other Side
 
 ### Prologue
 Ruben made his last loan payment on a Thursday in October. He transferred the final $340 from his checking account, and by Friday morning the balance read zero. He had been expecting the moment to feel significant — a milestone after 26 months of aggressive payoff. Instead, it felt like nothing. Just a number changing in an app.

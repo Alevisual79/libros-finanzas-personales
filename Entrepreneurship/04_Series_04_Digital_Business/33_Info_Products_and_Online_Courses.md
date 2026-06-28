@@ -1,17 +1,12 @@
 # Info Products and Online Courses
-## Packaging your knowledge to create scalable income
 
 **Series 04: Digital Business — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Packaging your knowledge to create scalable income
 
 ### Prologue
 Grace spent seventeen years as a high school science teacher and curriculum developer before doing the calculation that changed her career: she taught her chemistry curriculum to approximately 125 students per year at a salary that required her to be present in a classroom five days per week, forty weeks per year. She was excellent at her work, and she had refined her curriculum through thousands of hours of classroom observation and refinement until it was genuinely exceptional — better, by measurable student outcomes, than most commercially available chemistry curricula.

@@ -1,17 +1,12 @@
 # Showing Yourself in Public
-## The Psychology of Authentic Self-Expression
 
 **Series 3: Self-Esteem and Self-Image — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Psychology of Authentic Self-Expression
 
 ### Prologue
 For most of her adult life, Ingrid had been good at seeming like someone slightly different from who she actually was. Not dishonest exactly — she didn't fabricate; she curated. With colleagues, she was collegial and professionally engaged and said nothing about the interior life that ran parallel to her working hours. With acquaintances, she was pleasant and interested and offered nothing that could be used as evidence against her. Even with friends she trusted, she kept a portion of herself back — the opinions she suspected were too strong, the experiences she suspected were too strange, the vulnerabilities she suspected were too much. She had refined this management of her presentation across decades until it was nearly effortless, and she had discovered, gradually, that the effortlessness of it was its own kind of exhaustion.

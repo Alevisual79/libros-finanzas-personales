@@ -1,7 +1,5 @@
 # Viajes y salud
 
-## Cómo mantener los hábitos, prevenir los problemas más frecuentes y volver sintiéndote bien
-
 **Serie Salud y Bienestar — Serie 9: Entorno y Estilo de Vida — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo mantener los hábitos, prevenir los problemas más frecuentes y volver sintiéndote bien
 
 ### Prólogo: El viaje que siempre deshace todo
 

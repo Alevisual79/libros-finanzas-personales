@@ -1,17 +1,12 @@
 # Sadness and Grief
-## Moving Through Loss Without Being Lost in It
 
 **Series 4: Emotions and Emotional Management — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Moving Through Loss Without Being Lost in It
 
 ### Prologue
 Three years after her mother died, Priya still had not cried. She had organized the funeral, managed the estate, supported her siblings, and returned to work within two weeks. People commented on how well she was handling it. She had lost weight, was sleeping less, found herself less interested in things she had previously cared about — but none of this she connected to grief. Grief, in her mental model, involved crying and not being able to function, and she was functioning. When her therapist eventually asked about the loss directly, she discovered that she had not been grieving so much as managing the grief away, and that the weight and the sleep and the interest were all symptoms of the grief she hadn't recognized as grief because it didn't look the way she expected.

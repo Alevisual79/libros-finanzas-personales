@@ -1,17 +1,12 @@
 # Finanzas del Emprendedor
-## Lo que necesitas saber sobre el dinero de tu negocio
 
 **Serie 05: Dinero y Finanzas del Negocio — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que necesitas saber sobre el dinero de tu negocio
 
 ### Prólogo
 Carlos lleva dos años con su negocio rentable sobre el papel pero siempre con problemas de dinero a fin de mes. Lucia ha generado su mejor año en revenue pero ha pagado más impuestos de lo que esperaba y no entiende por qué. Marcos ha venido del mundo corporativo donde había un equipo financiero que se encargaba de todo esto y ahora descubre que como emprendedor individual tiene que entender números que nunca ha necesitado entender antes. Los tres comparten el mismo problema: tener un negocio que genera revenue no es suficiente. Hay que entender como funciona el dinero del negocio para poder tomar decisiones inteligentes con el.

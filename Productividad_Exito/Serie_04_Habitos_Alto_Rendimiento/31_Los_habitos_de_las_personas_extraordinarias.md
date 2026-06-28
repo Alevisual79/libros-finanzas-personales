@@ -1,7 +1,5 @@
 # Los hábitos de las personas extraordinarias
 
-## Qué hacen diferente las personas que logran mucho
-
 **Serie Productividad y Éxito — Serie 4: Hábitos de Alto Rendimiento — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Qué hacen diferente las personas que logran mucho
 
 ### Prólogo: El secreto que no es un secreto
 

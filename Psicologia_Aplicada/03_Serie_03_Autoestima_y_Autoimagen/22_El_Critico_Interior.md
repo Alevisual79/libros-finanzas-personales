@@ -1,17 +1,12 @@
 # El Critico Interior
-## Como silenciar la voz que te boicotea
 
 **Serie 03: Autoestima y Autoimagen — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como silenciar la voz que te boicotea
 
 ### Prólogo
 Ruben tiene una voz en su cabeza que no descansa. Cuando termina un proyecto, le dice que podría haber sido mejor. Cuando tiene éxito, le advierte que fue suerte y que la próxima vez no lo lograra. Cuando comete un error, no lo deja pasar. Esta voz, que Ruben confunde con autoexigencia o con realismo, es su crítico interior. Y la distinción más importante que puede aprender sobre ella es esta: no es la verdad sobre quien es. Es un hábito de pensamiento aprendido que opera con independencia de los hechos.

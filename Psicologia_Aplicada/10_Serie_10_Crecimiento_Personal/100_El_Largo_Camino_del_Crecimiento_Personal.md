@@ -1,17 +1,12 @@
 # El Largo Camino del Crecimiento Personal
-## Una visión de toda la vida del desarrollo humano
 
 **Serie 10: Crecimiento Personal — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Una visión de toda la vida del desarrollo humano
 
 ### Prólogo
 Este es el último libro de la colección psicología Aplicada. Elena, Ruben, e Isabel han atravesado con nosotros diez series de diez libros: la mente y como funciona, la ansiedad y los miedos, la autoestima, las emociones, el trauma, los hábitos mentales, la depresión, la personalidad, la influencia social, y el crecimiento personal. Han aprendido, han cambiado algunos de sus patrones, han entendido mejor por qué hacen lo que hacen, y han encontrado herramientas que les permiten funcionar mejor. Este último libro es el más ambicioso de la colección: no es sobre una habilidad específica sino sobre la visión de conjunto. El crecimiento personal no es un proyecto con un fin sino el camino de toda una vida. Este libro es sobre ese camino.

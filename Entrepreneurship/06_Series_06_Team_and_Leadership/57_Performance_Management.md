@@ -1,17 +1,12 @@
 # Performance Management
-## Getting the best from your team — every day, not just once a year
 
 **Series 06: Team and Leadership — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Getting the best from your team — every day, not just once a year
 
 ### Prologue
 Before starting his own architecture firm, David had worked at three organizations with formal performance management processes. Two had involved annual performance reviews: lengthy forms, competency ratings, and conversations that employees dreaded and managers performed as a compliance ritual rather than a genuine development activity. The third had involved quarterly check-ins that were more useful but still primarily backward-looking: assessing what had happened rather than shaping what would happen.

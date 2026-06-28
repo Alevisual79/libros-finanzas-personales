@@ -1,17 +1,12 @@
 # Cooperation and Altruism
-## Why We Help Each Other — and When We Don't
 
 **Series 9: Social Psychology and Influence — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why We Help Each Other — and When We Don't
 
 ### Prologue
 In 2004, a genetic epidemiologist named David Sloan Wilson proposed that human beings are, in the most literal and precise sense, "the ultrasocial species" — the only species, among all the social species on Earth, that has built extensive cooperation with genetically unrelated strangers. Ants cooperate, but with genetic relatives. Chimpanzees cooperate, but within small groups of individuals with extensive prior relationship. Humans cooperate with millions of strangers who share no genetic relationship and no prior acquaintance, in institutional structures (markets, states, religions, universities) that span generations and continents.

@@ -1,17 +1,12 @@
 # The Blog as a Business
-## Monetizing Content in the Current Advertising Environment
 
 **Series 9: Business & Extra Income — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Monetizing Content in the Current Advertising Environment
 
 ### Prologue
 Elena had been writing her marketing blog on and off for two years, mostly as a creative outlet, a place to organize her thoughts on consumer psychology and brand strategy. She had maybe 400 subscribers, a handful of comments each week, and a nagging sense that she was leaving something on the table. Her posts were well-researched and her voice was clear, but she had never once thought of the blog as a business. It was a hobby. A productive one, maybe, but a hobby. Then a colleague mentioned that a personal finance blogger she followed had disclosed earning $11,000 in a single month from display ads and affiliate commissions, and Elena went home that night and stared at her own Google Analytics dashboard for the first time in months.

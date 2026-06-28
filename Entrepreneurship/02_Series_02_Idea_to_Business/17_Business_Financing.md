@@ -1,17 +1,12 @@
 # Business Financing
-## When to seek external money and how to get it
 
 **Series 02: From Idea to Business — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When to seek external money and how to get it
 
 ### Prologue
 Nina had been running her food technology company for eighteen months when she reached what she came to think of as the "false ceiling": a revenue level she couldn't exceed with her current resources, but that she was confident she could significantly surpass if she had the capital to hire a sales team, accelerate product development, and build the operations infrastructure for a larger customer base. The revenue was real; the growth opportunity was visible; the capital was missing.

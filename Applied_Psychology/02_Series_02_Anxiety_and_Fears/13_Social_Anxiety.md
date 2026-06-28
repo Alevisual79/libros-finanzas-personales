@@ -1,17 +1,12 @@
 # Social Anxiety
-## Understanding and Overcoming the Fear of Being Judged
 
 **Series 2: Anxiety and Fears — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Overcoming the Fear of Being Judged
 
 ### Prologue
 Carlos could manage almost anything alone. He ran three miles every morning, maintained a complex software project, read voraciously, and held a household together with genuine competence. What he could not manage was being seen. At work he was largely silent in meetings, not because he had nothing to contribute — he drafted detailed observations in his head — but because the prospect of saying them aloud, of having everyone turn and look at him, of possibly being wrong in front of witnesses, triggered a wave of physical dread that drowned his voice before it could emerge. By 30, he had spent fifteen years working around his social anxiety rather than through it, creating a life with a narrowing perimeter.

@@ -1,17 +1,12 @@
 # Supplements — Which Ones Work, Which Don't, and How to Evaluate Claims
-## A Science-Based Guide to the $150 Billion Supplement Industry
 
 **Series 10: Integrative Health — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A Science-Based Guide to the $150 Billion Supplement Industry
 
 ### Prologue
 Jennifer was fifty-three when she walked into a health food store intending to buy vitamin C and walked out forty-five minutes later having spent $340. The store's nutrition consultant — enthusiastic, knowledgeable-sounding, and entirely unregulated — had walked her through a protocol of twelve different supplements to address her fatigue, hormonal changes, joint discomfort, and "cellular aging." Each recommendation came with a confident explanation that sounded scientific enough to be convincing: antioxidant cascades, mitochondrial support, telomere protection, adaptogenic response. Jennifer wasn't naive; she held a graduate degree and was skeptical of most health marketing. But the consultant seemed to know what she was talking about, the products were in a respectable-looking store, and Jennifer's fatigue was real enough that she was willing to try almost anything.

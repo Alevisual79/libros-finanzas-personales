@@ -1,17 +1,12 @@
 # Impulsive Behavior
-## Understanding and Managing the Impulse-Action Gap
 
 **Series 8: Personality and Behavior — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Managing the Impulse-Action Gap
 
 ### Prologue
 The message was sent before Ryan had consciously decided to send it. Not literally — the physical act of typing and pressing send was deliberate enough. But the decision process that preceded it had been compressed to the point of near-invisibility: he was angry, he composed a response to the email, and he sent it. The time between receiving the email and sending the response was perhaps ninety seconds. The consequences of the response — which he recognized, within minutes of sending, as aggressive, disproportionate, and professionally damaging — unfolded over days and required significant repair effort to address. The familiar pattern of rapid action followed by slower regret was one he had experienced enough times to recognize, and not frequently enough to have fundamentally changed.

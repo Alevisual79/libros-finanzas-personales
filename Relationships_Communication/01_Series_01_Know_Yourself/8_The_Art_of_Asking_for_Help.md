@@ -1,17 +1,12 @@
 # The Art of Asking for Help
-## Why the most capable people struggle most with receiving support
 
 **Series 1: Know Yourself in Relationships — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why the most capable people struggle most with receiving support
 
 ### Prologue
 Tom had, for most of his adult life, prided himself on not needing anyone to deal with anything. This was not a performance; he genuinely believed it to be true. He managed. He adapted. When things were difficult, he found the next best option, adjusted his expectations, and continued. He had needed a plumber once, and a doctor when he broke his wrist. Beyond that, the resources he required were internal.

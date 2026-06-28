@@ -1,17 +1,12 @@
 # Self-Directed Learning with AI
-## Building Your Personal Curriculum
 
 **Series 8: AI and Education — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building Your Personal Curriculum
 
 ### Prologue
 Ruben taught himself to code with YouTube, Stack Overflow, and three books. In 2025, he taught himself to build basic AI automations with Claude, a handful of prompts, and two afternoons. The time to learn a new skill has collapsed.

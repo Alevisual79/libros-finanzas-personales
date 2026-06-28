@@ -1,17 +1,12 @@
 # Your Relational Boundaries
-## The research and practice of limits that protect and connect
 
 **Series 1: Know Yourself in Relationships — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The research and practice of limits that protect and connect
 
 ### Prologue
 Patricia had never used the word "no" in her marriage. Not exactly. She had said "that's difficult for me" and "I'm not sure" and "maybe we could talk about it." She had not, in twenty-five years, said a clean, uncomplicated no to someone she loved and left the no standing.

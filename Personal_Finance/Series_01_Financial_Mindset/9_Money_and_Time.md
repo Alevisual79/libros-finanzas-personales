@@ -1,17 +1,12 @@
 # Money and Time
-## The Most Important Trade-Off in Personal Finance
 
 **Series 1: Financial Mindset — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Most Important Trade-Off in Personal Finance
 
 ### Prologue
 Elena has often thought about the year she worked 60-hour weeks to meet a launch deadline. The project succeeded; she was recognized; her performance review was excellent. And she has almost no memory of that year beyond the project. She doesn't remember what she did on weekends. She doesn't remember conversations with friends. The year exists in her recollection primarily as a professional event, not a personal life.

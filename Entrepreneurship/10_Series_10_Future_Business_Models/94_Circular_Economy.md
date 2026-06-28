@@ -1,17 +1,12 @@
 # Circular Economy
-## Building businesses that eliminate waste and regenerate value through circular flows
 
 **Series 10: Future Business Models — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building businesses that eliminate waste and regenerate value through circular flows
 
 ### Prologue
 Lena had built her activewear brand over eight years, and she was proud of what she had created: a line of high-performance athletic wear with strong materials, fair labor practices, and a loyal following. What disturbed her — increasingly, as the volume of her business grew — was the end of life of her products.

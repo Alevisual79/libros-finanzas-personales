@@ -1,17 +1,12 @@
 # FIRE
-## Financial Independence, Retire Early: The Real Math
 
 **Series 6: Financial Freedom — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Financial Independence, Retire Early: The Real Math
 
 ### Prologue
 Ruben had been reading about FIRE for three weeks when he mentioned it to Elena over coffee. He'd stumbled onto the Mr. Money Mustache blog through a freelancer forum, and something about the mathematics had hooked him. People were retiring in their thirties and forties — not because they had unusually high incomes, but because they had unusually high savings rates. One couple profiled had retired with $850,000 and were living on $34,000 per year in Colorado, hiking three days a week and growing a garden. Ruben showed Elena the post. She read it twice. "Is this real?" she asked. Ruben shrugged. "The math checks out," he said. "I've been running the numbers for two days."

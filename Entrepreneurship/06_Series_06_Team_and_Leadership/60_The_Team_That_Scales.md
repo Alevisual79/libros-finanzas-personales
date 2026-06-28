@@ -1,17 +1,12 @@
 # The Team That Scales
-## Building an organization that grows without losing what made it great
 
 **Series 06: Team and Leadership — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building an organization that grows without losing what made it great
 
 ### Prologue
 When Luke started his food safety consulting firm, he had a clear competitive advantage: the quality of his individual judgment, grounded in fifteen years of FDA regulatory experience. Clients hired Luke. His name was the brand, his relationships were the client base, and his expertise was the product. The business he built around himself was excellent and, by his fifth year, was earning $1.8 million annually.

@@ -1,7 +1,5 @@
 # Las relaciones que sostienen
 
-## Por qué las personas de alto rendimiento necesitan su tribu más que nadie
-
 **Serie Productividad y Éxito — Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué las personas de alto rendimiento necesitan su tribu más que nadie
 
 ### Prólogo: El estudio que duró 80 años
 

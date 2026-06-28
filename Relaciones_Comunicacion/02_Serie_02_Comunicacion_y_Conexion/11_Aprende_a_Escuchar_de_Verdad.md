@@ -1,17 +1,12 @@
 # Aprende a Escuchar de Verdad
-## La habilidad que transforma todas tus relaciones
 
 **Serie 02: Comunicación y Conexión — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La habilidad que transforma todas tus relaciones
 
 ### Prólogo
 En una conversación típica, la mayoría de las personas no escuchan lo que dice el otro. Esperan su turno para hablar. Piensan en lo que van a responder mientras el otro todavía habla. Asienten con la cabeza como señal de que siguen ahí, aunque mentalmente esten en otro lugar.

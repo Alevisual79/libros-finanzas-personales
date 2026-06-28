@@ -1,7 +1,5 @@
 # El negocio local que funciona en internet
 
-## Llevar un negocio físico al mundo digital sin perder la esencia
-
 **Serie Finanzas Personales — Serie 9: Negocios e Ingresos Extra — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Llevar un negocio físico al mundo digital sin perder la esencia
 
 ### Prólogo: La peluquería de la mujer de Felipe
 

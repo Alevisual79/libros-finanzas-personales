@@ -1,17 +1,12 @@
 # Insomnia
-## Understanding and Overcoming the Most Common Sleep Disorder
 
 **Series 3: Sleep and Rest — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Overcoming the Most Common Sleep Disorder
 
 ### Prologue
 Isabel had not slept through the night in three years. She would fall asleep around 10:30pm, wake between 2 and 3am, and then lie awake for 1-3 hours thinking, worrying, and watching the clock. By morning she was exhausted and anxious. She had tried melatonin, chamomile tea, a white noise machine, weighted blankets, and two different sleeping pills (which helped her fall asleep but left her groggy and didn't prevent the 3am awakening).

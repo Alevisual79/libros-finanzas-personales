@@ -1,17 +1,12 @@
 # Name, Brand and Positioning
-## The invisible assets that make people choose you
 
 **Series 02: From Idea to Business — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The invisible assets that make people choose you
 
 ### Prologue
 Two management consulting practices launched in the same city in the same year, serving the same market (mid-sized manufacturing companies) with the same core service (operational efficiency consulting). Three years later, one had twelve clients and $1.8 million in revenue. The other had three clients and $280,000 in revenue. The services were comparable in quality; the founders had similar experience levels. The difference was almost entirely attributable to the clarity and coherence of how each business presented itself: its name, its visual identity, its articulation of what it was for and for whom, and the consistency with which that articulation was expressed across every interaction.

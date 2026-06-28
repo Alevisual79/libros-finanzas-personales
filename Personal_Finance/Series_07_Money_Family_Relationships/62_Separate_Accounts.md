@@ -1,17 +1,12 @@
 # Separate Accounts
-## The Pros and Cons of Financial Independence in a Partnership
 
 **Series 7: Money, Family & Relationships — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Pros and Cons of Financial Independence in a Partnership
 
 ### Prologue
 When Ruben moved in with Daniela eighteen months ago, the question of how to handle money came up immediately and was resolved immediately — which is to say, it wasn't really resolved at all. They agreed to split rent and utilities down the middle and keep everything else separate. It felt clean and fair and uncomplicated. Ruben had his accounts; Daniela had hers. They Venmoed each other for shared expenses, went out on a mental ledger of approximately even, and otherwise stayed in their own financial lanes. For a while, this felt like the ideal modern arrangement. No resentment, no surveillance, no need to justify what either of them spent on anything.

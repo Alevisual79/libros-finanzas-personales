@@ -1,17 +1,12 @@
 # Sueno y Salud Mental
-## Por qué dormir bien es la intervención psicológica más subestimada
 
 **Serie 07: Depresión y Bienestar Mental — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué dormir bien es la intervención psicológica más subestimada
 
 ### Prólogo
 Isabel duerme seis horas la mayoría de las noches. No por falta de tiempo sino porque asume que con seis horas es suficiente. Es uno de los errores más costosos para su salud mental, aunque ella no lo sabe. La investigación sobre el sueño de las últimas dos décadas ha producido una de las inversiones más dramaticas en la comprensión de un proceso biológico: lo que se pensaba que era tiempo muerto resulta ser el período de mayor actividad de mantenimiento del cerebro, con consecuencias para la salud mental que la mayoría de las personas no estan considerando. Este libro es sobre esa investigación y lo que implica para la vida cotidiana.

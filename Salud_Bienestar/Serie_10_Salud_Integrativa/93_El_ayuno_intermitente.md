@@ -1,7 +1,5 @@
 # El ayuno intermitente sin mitos
 
-## Lo que la ciencia dice realmente sobre el ayuno, sus beneficios, sus límites y para quién funciona
-
 **Serie Salud y Bienestar — Serie 10: Salud Integrativa — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que la ciencia dice realmente sobre el ayuno, sus beneficios, sus límites y para quién funciona
 
 ### Prólogo: La moda que tiene base científica
 

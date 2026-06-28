@@ -1,7 +1,5 @@
 # El cerebro que envejece
 
-## Prevenir el deterioro cognitivo con ciencia: qué funciona, qué no y qué todavía no sabemos
-
 **Serie Salud y Bienestar — Serie 7: Longevidad y Envejecimiento — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Prevenir el deterioro cognitivo con ciencia: qué funciona, qué no y qué todavía no sabemos
 
 ### Prólogo: Los olvidos que asustan
 

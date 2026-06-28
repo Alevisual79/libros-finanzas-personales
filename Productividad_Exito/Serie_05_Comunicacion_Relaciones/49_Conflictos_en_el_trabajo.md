@@ -1,7 +1,5 @@
 # Conflictos en el trabajo
 
-## Cómo manejar las tensiones sin destruir las relaciones
-
 **Serie Productividad y Éxito — Serie 5: Comunicación y Relaciones Profesionales — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo manejar las tensiones sin destruir las relaciones
 
 ### Prólogo: El conflicto que nadie quiso nombrar
 

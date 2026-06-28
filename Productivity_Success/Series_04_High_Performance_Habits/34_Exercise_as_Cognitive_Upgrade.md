@@ -1,17 +1,12 @@
 # Exercise as Cognitive Upgrade
-## The neuroscience of movement — and why the best investment in your brain is physical
 
 **Series 4: High Performance Habits — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The neuroscience of movement — and why the best investment in your brain is physical
 
 ### Prologue
 Marcus had always separated his professional life from his physical life in the way that the general culture separates them: exercise was for health, for appearance, for the management of the cardiovascular risks that sedentary professional work created. It was a personal matter, an off-hours matter, something he did when the professional day permitted. When the professional day did not permit — which was often — the exercise was the first thing to go.

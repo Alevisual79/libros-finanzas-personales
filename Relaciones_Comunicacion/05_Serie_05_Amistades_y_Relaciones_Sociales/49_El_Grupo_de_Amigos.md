@@ -1,17 +1,12 @@
 # El Grupo de Amigos
-## Cómo funcionar bien dentro de una dinámica grupal
 
 **Serie 05: Amistades y Relaciones Sociales — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo funcionar bien dentro de una dinámica grupal
 
 ### Prólogo
 Isabel siente que en su grupo de amigas siempre hay una dinámica que la incomoda pero que nunca ha sabido nombrar con precisión. Algo sobre quien decide los planes, quien interrumpe a quien, quien queda fuera de ciertas conversaciones sin que nadie lo diga explicitamente. Los grupos de amigos, descubre, tienen su propia psicología, distinta de la suma de las amistades individuales que los componen.

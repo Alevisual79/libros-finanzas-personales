@@ -1,17 +1,12 @@
 # Validate Your Business Idea
-## How to know if your idea has a market before investing everything
 
 **Series 02: From Idea to Business — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to know if your idea has a market before investing everything
 
 ### Prologue
 Leo had spent nine months and forty thousand dollars building a mobile app for independent fitness trainers. The app allowed trainers to schedule clients, track payments, and send workout plans from a single platform. It was well-designed. The code was clean. The interface was intuitive. When he launched, he discovered the problem: independent fitness trainers, in overwhelming numbers, used WhatsApp and a simple spreadsheet to manage their business, preferred that combination to any dedicated software, and were not willing to pay for an alternative that they perceived as solving a problem they had already solved.

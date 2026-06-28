@@ -1,17 +1,12 @@
 # High-Value Customers
-## Identifying, winning, and keeping the clients who matter most
 
 **Series 07: Customers and Value — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Identifying, winning, and keeping the clients who matter most
 
 ### Prologue
 When Julie reviewed her client list at the end of her sixth year as an executive communications consultant, she found that her forty-one active clients fell into a profoundly uneven distribution. Her top eight clients — twenty percent of her client count — generated sixty-seven percent of her revenue. The next twelve clients generated twenty-three percent. The remaining twenty-one clients — fifty percent of her client count — generated only ten percent of her revenue, while requiring approximately forty-five percent of her administrative time (due to higher per-project communication overhead, more scope discussions, and more billing complexity).

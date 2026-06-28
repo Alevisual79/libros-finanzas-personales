@@ -1,17 +1,12 @@
 # Tu Propuesta de Valor
-## Por qué te eligen a ti en lugar de a la competencia
 
 **Serie 03: Marketing y Ventas — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué te eligen a ti en lugar de a la competencia
 
 ### Prólogo
 Carlos explica lo que hace y los clientes asienten pero no compran. Lucia tiene clientes que la adoran pero no sabe como explicarles a los demás por qué deberían elegirla. Marcos sabe que su negocio es mejor que el de la competencia pero no puede articular por qué de una forma que convenza a alguien. Los tres tienen el mismo problema: no tienen una propuesta de valor clara. O la tienen pero no la han articulado de una forma que resuene en el cliente. La propuesta de valor no es el eslogan de tu empresa. Es la respuesta honesta a la pregunta más importante que el cliente te hace, aunque nunca en voz alta: ¿por qué debería elegirte a ti en lugar de a cualquier alternativa, incluida la de no hacer nada?

@@ -1,17 +1,12 @@
 # Tu Historia de Amor Propio
-## Como la relación que tienes contigo mismo afecta todas las demás
 
 **Serie 01: Conocete a Ti Mismo — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como la relación que tienes contigo mismo afecta todas las demás
 
 ### Prólogo
 Elena tiene una teoria sobre por qué sus relaciones no funcionan: elige mal. Elige hombres que no estan disponibles, que no la valoran, que no la ven. Lo que Elena no ve todavía es que ella misma no se ve, no se valora y no está disponible para si misma.

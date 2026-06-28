@@ -1,17 +1,12 @@
 # Freelancing From Zero
-## How to Start Getting Paid for What You Already Know
 
 **Series 5: Multiple Income Streams — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Start Getting Paid for What You Already Know
 
 ### Prologue
 Ruben didn't plan to become a freelancer. He took a graphic design job after college, worked at an agency for two years, and was laid off when the agency lost a major client. He had $3,200 in savings, three months until his lease renewed, and a portfolio of work he'd done at the agency.

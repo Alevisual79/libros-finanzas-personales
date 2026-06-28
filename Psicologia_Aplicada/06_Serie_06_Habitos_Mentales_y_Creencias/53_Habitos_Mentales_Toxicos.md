@@ -1,17 +1,12 @@
 # Hábitos Mentales Toxicos
-## Como romper los ciclos de pensamiento que te danan
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como romper los ciclos de pensamiento que te danan
 
 ### Prólogo
 Isabel tiene un conjunto de patrones mentales que reconoce pero que no puede parar. La comparación constante con los demás. La autoexigencia que nunca se satisface por completo. La crítica interna que comenta cada decisión con el tono de un juez severo. El replay mental de conversaciones pasadas buscando que debería haber dicho de forma diferente. Sabe que estos patrones le hacen daño. Pero saber que hacen daño no es suficiente para dejar de hacerlos: son hábitos, y los hábitos funcionan de forma automática por su propia naturaleza. Este libro es para entender por qué esos hábitos mentales son tan persistentes y como interrumpirlos con herramientas específicas.

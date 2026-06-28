@@ -1,17 +1,12 @@
 # Mindset de Crecimiento
-## Por qué la forma en que piensas sobre tus capacidades lo cambia todo
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué la forma en que piensas sobre tus capacidades lo cambia todo
 
 ### Prólogo
 Isabel era buena en matemáticas en primaria. Cuando llegó a secundaria, un profesor dijo delante de la clase que había personas con cabeza para las matemáticas y personas sin ella. Isabel estaba entre las segundas. Dejo de intentarlo. Treinta años después, trabaja en recursos humanos y calcula mentalmente que si hubiera continuado con las matemáticas, probablemente habría llegado a ser muy buena. La historia de Isabel es la historia del mindset fijo en acción: una creencia sobre las capacidades como algo innato que tiene el poder de determinar el recorrido de una vida entera. Este libro es sobre la alternativa, que la investigación muestra que produce trayectorias completamente diferentes.

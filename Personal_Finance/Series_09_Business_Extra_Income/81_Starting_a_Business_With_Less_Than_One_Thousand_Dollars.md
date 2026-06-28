@@ -1,17 +1,12 @@
 # Starting a Business With Less Than $1,000
-## Service Businesses That Cost Almost Nothing to Start
 
 **Series 9: Business & Extra Income — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Service Businesses That Cost Almost Nothing to Start
 
 ### Prologue
 Elena had been doing it for months without realizing it. Every time a colleague needed help structuring a presentation, she stayed late and reworked the slides. When her manager asked her to write copy for a product launch email, she delivered something that got a 34% open rate — double the company average. When a friend started a small boutique, Elena mapped out a three-month content calendar over a Saturday afternoon, just because she found it interesting. Her skills were real, in demand, and she was giving them away for free. One Tuesday evening, running the numbers on her checking account balance — $1,247 after bills — she asked herself a question she'd never asked before: what would someone pay for this?

@@ -1,7 +1,5 @@
 # Aprender a aprender
 
-## Las técnicas de aprendizaje más eficaces que nadie enseña en el colegio
-
 **Serie Productividad y Éxito — Serie 8: Aprendizaje y Desarrollo Personal — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Las técnicas de aprendizaje más eficaces que nadie enseña en el colegio
 
 ### Prólogo: Diez años de cursos y pocas habilidades nuevas
 

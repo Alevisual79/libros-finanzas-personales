@@ -1,17 +1,12 @@
 # Books That Transform
-## How to read with the depth that changes professional practice
 
 **Series 8: Learning and Development — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to read with the depth that changes professional practice
 
 ### Prologue
 Maya had read more than forty books in the previous year. She could recommend most of them with genuine enthusiasm. When her colleague asked her which of the forty had actually changed how she worked, she paused — and named four.

@@ -1,17 +1,12 @@
 # Sales Funnel
-## Turning strangers into loyal customers, step by step
 
 **Series 03: Marketing and Sales — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Turning strangers into loyal customers, step by step
 
 ### Prologue
 When Oliver launched his SaaS platform for restaurant inventory management, he was proud of his conversion rate from free trial to paid subscription: eleven percent. He had read that the average SaaS free-to-paid conversion rate was around five to eight percent, so eleven percent seemed like evidence of product-market fit and a healthy business. Then a friend who had scaled a SaaS company to $20 million in revenue asked him a question he couldn't answer: what was his conversion rate from website visitor to free trial? He didn't know. After installing the tracking to find out, the answer was one-point-two percent.

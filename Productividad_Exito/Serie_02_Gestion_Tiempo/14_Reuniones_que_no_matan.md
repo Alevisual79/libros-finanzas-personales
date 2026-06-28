@@ -1,7 +1,5 @@
 # Reuniones que no matan
 
-## Por qué la mayoría de reuniones son un fraude y cómo hacer las que sí funcionan
-
 **Serie Productividad y Éxito — Serie 2: Gestión del Tiempo — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué la mayoría de reuniones son un fraude y cómo hacer las que sí funcionan
 
 ### Prólogo: El martes de Isabel
 

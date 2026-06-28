@@ -1,17 +1,12 @@
 # The Sleep You Never Get
-## Why Sleep Is the Most Important Health Behavior
 
 **Series 3: Sleep and Rest — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why Sleep Is the Most Important Health Behavior
 
 ### Prologue
 Elena described her sleep as "fine." She got 6-6.5 hours most nights, rarely felt rested, relied on two coffees to get through her morning, and felt a daily energy deficit that she attributed to her busy life. She didn't consider herself a poor sleeper. She was simply someone who had adapted to functioning below her sleep-adequate baseline for so long that the deficit felt normal.

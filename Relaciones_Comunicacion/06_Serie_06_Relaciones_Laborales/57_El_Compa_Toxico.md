@@ -1,17 +1,12 @@
 # El Compa Toxico
-## Cómo gestionar personas difíciles en el entorno laboral
 
 **Serie 06: Relaciones Laborales — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo gestionar personas difíciles en el entorno laboral
 
 ### Prólogo
 Isabel tiene a alguien en su equipo que mina el ambiente sin que nadie pueda señalar exactamente cómo lo hace. No hay un evento dramatico que pueda citar como evidencia. Es una acumulación de comentarios sutiles, de energía negativa difusa, de pequeñas acciones que individualmente parecen menores pero que, en conjunto, dejan al equipo agotado. Ese perfil, descubre Isabel después de años en recursos humanos, es de los más difíciles de gestionar precisamente porque es difícil de nombrar con precisión.

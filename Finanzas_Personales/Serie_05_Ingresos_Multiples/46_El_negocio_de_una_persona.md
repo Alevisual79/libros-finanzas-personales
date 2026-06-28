@@ -1,7 +1,5 @@
 # El negocio de una persona
 
-## Construir algo rentable sin empleados, sin oficina y sin complicarte la vida
-
 **Serie Finanzas Personales — Serie 5: Ingresos Múltiples — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Construir algo rentable sin empleados, sin oficina y sin complicarte la vida
 
 ### Prólogo: La pregunta que Marta se hizo
 

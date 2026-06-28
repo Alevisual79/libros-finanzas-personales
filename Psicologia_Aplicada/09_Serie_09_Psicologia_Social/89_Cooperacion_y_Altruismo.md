@@ -1,17 +1,12 @@
 # Cooperación y Altruismo
-## Por qué ayudamos a los demás y como hacerlo mejor
 
 **Serie 09: psicología Social e Influencia — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué ayudamos a los demás y como hacerlo mejor
 
 ### Prólogo
 Ruben ayuda a colegas con su trabajo aunque no le paguen por ello. Elena dona a organizaciones que trabajan con personas que nunca conocera. Isabel dedica parte de su tiempo a mentorizar a profesionales jóvenes sin esperar nada a cambio. Los tres hacen cosas que, desde la perspectiva de un modelo económico estandar, no tiene sentido: dedican recursos (tiempo, dinero, energía) a beneficiar a otros a un coste personal real. Este libro es sobre por qué lo hacen: la psicología de la cooperación y el altruismo, su base evolutiva y neurológica, las condiciones que la facilitan o la dificultan, y como hacerlo de forma más efectiva.

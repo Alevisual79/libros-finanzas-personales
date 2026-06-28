@@ -1,17 +1,12 @@
 # Duelo Relacional
-## Como cerrar el ciclo de una relación perdida
 
 **Serie 08: Reparar y Sanar — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como cerrar el ciclo de una relación perdida
 
 ### Prólogo
 Ruben sigue pensando en una expareja tres años después de la ruptura. No porque la quiera de vuelta; sabe con claridad que esa relación había terminado por buenas razones. Sino porque, descubre eventualmente con ayuda, nunca hizo realmente el duelo de esa perdida. Sigue ahí, sin procesarse, ocupando un espacio mental que tres años deberían haber resuelto pero que, sin el trabajo adecuado, simplemente se ha quedado congelado.

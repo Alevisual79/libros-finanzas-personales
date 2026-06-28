@@ -1,7 +1,5 @@
 # Sociedad Limitada: Cuándo tiene sentido y cuándo no
 
-## La decisión que más afecta a tu fiscalidad y a tu responsabilidad
-
 **Serie Finanzas Personales — Serie 10: Impuestos y Patrimonio — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La decisión que más afecta a tu fiscalidad y a tu responsabilidad
 
 ### Prólogo: La pregunta que Marta se llevó a casa
 

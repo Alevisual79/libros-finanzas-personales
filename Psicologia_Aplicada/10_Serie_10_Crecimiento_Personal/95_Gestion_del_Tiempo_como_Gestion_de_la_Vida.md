@@ -1,17 +1,12 @@
 # Gestión del Tiempo como Gestión de la Vida
-## La herramienta que lo ordena todo desde los valores
 
 **Serie 10: Crecimiento Personal — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La herramienta que lo ordena todo desde los valores
 
 ### Prólogo
 Elena tiene la sensación constante de estar ocupada pero sin avanzar en lo que realmente importa. Ruben trabaja más horas que nadie de su entorno y sin embargo siente que su productividad no refleja ese tiempo. Isabel ha llegado a la mediana edad con la sensación de que el tiempo se acelera y de que los años no estan dejando el rastro que esperaba. Los tres tienen el mismo número de horas al dia que cualquier otra persona. Lo que hacen con esas horas, sin embargo, es radicalmente diferente y produce resultados radicalmente diferentes. Este libro no es solo sobre productividad. Es sobre la gestión del tiempo como el acto fundamental de gestión de la propia vida: decidir que merece las horas que tienes.

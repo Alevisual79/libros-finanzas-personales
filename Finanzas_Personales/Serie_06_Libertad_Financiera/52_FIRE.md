@@ -1,7 +1,5 @@
 # FIRE: El movimiento que asusta a los bancos
 
-## Financial Independence, Retire Early explicado para españoles sin rodeos ni romanticismos
-
 **Serie Finanzas Personales — Serie 6: Libertad Financiera — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Financial Independence, Retire Early explicado para españoles sin rodeos ni romanticismos
 
 ### Prólogo: El guión que nadie cuestionó
 

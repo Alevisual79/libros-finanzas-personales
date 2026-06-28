@@ -1,17 +1,12 @@
 # Digital Communication and Relationships
-## How to maintain real connections in a world of screens
 
 **Series 2: Communication and Connection — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to maintain real connections in a world of screens
 
 ### Prologue
 Sarah had 847 followers on Instagram, 312 Facebook friends, a WhatsApp group for her book club, a group chat for her family, and a professional Twitter account that she updated irregularly. She texted at a rate that would have seemed inconceivable to her twenty-years-younger self. She was, by every objective measure, more connected than she had ever been.

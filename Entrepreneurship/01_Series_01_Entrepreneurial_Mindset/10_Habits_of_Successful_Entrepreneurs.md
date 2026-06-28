@@ -1,17 +1,12 @@
 # Habits of Successful Entrepreneurs
-## The routines that build businesses before noon
 
 **Series 01: Entrepreneurial Mindset — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The routines that build businesses before noon
 
 ### Prologue
 The morning routine has become, in entrepreneurial culture, almost a mythology. Founders wake at five, meditate for twenty minutes, exercise for forty-five, journal for fifteen, read for thirty, and arrive at their desks by seven, productive and centered, having already accomplished more before breakfast than most people accomplish in a day. This mythology is compelling and partially true. The habits that successful entrepreneurs maintain — particularly their morning practices — are genuinely different from the habits of people who struggle to build businesses. But the mythology obscures what actually matters: not the specific practices themselves but the functions those practices serve, and the understanding that makes those practices sustainable rather than performative.

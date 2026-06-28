@@ -1,7 +1,5 @@
 # Saunas, baños fríos y recuperación
 
-## La evidencia detrás de las tendencias: qué funciona, qué es hype y cómo usarlos bien
-
 **Serie Salud y Bienestar — Serie 10: Salud Integrativa — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La evidencia detrás de las tendencias: qué funciona, qué es hype y cómo usarlos bien
 
 ### Prólogo: Los bañistas del lago Bañolas
 

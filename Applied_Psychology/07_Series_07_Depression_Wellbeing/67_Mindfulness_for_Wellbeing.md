@@ -1,17 +1,12 @@
 # Mindfulness for Wellbeing
-## How Present-Moment Awareness Transforms Mental Health
 
 **Series 7: Depression and Mental Wellbeing — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Present-Moment Awareness Transforms Mental Health
 
 ### Prologue
 The word mindfulness has become so ubiquitous in contemporary culture — appearing in corporate training programs, elementary school curricula, smartphone apps, and yoga studio marketing — that it risks becoming meaningless. The proliferation has generated both a genuine dissemination of a useful practice and a significant dilution of what the practice actually involves and what the research actually supports. For every rigorous application of evidence-based mindfulness training in a clinical setting, there are dozens of commodified mindfulness products that bear the label without the substance.

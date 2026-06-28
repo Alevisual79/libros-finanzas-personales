@@ -1,17 +1,12 @@
 # Professional Networks That Work
-## How to build a contact network that opens real doors
 
 **Series 6: Work Relationships — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to build a contact network that opens real doors
 
 ### Prologue
 Victor had been in his industry for twenty-two years and had, over that time, built something that he did not usually think of as a "professional network" because the word felt like it described something colder than what he had.

@@ -1,7 +1,5 @@
 # Envejecer bien: Lo que la ciencia dice que funciona
 
-## Los pilares de la longevidad saludable — sin pseudociencia y con evidencia real
-
 **Serie Salud y Bienestar — Serie 7: Longevidad y Envejecimiento — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Los pilares de la longevidad saludable — sin pseudociencia y con evidencia real
 
 ### Prólogo: El envejecimiento que elegimos
 

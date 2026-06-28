@@ -1,17 +1,12 @@
 # Disculpas que Funcionan
-## La anatomía de una disculpa que realmente repara
 
 **Serie 08: Reparar y Sanar — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La anatomía de una disculpa que realmente repara
 
 ### Prólogo
 Ruben dice lo siento con frecuencia, pero nada cambia después. No es un hipocrita consciente; genuinamente cree que está haciendo lo correcto al disculparse. El problema es que nunca le enseñaron que una disculpa sin cambio de comportamiento subsecuente es, para quien la recibe, solo ruido verbal que eventualmente deja de significar nada.

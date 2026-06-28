@@ -1,17 +1,12 @@
 # Alegria y Bienestar
-## Como cultivar las emociones positivas sin falsificarlas
 
 **Serie 04: Emociones y Gestión Emocional — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como cultivar las emociones positivas sin falsificarlas
 
 ### Prólogo
 Ruben tiene todo lo que debería hacerle feliz según los estandares culturales: trabajo estable, relación de pareja, salud, amigos. Y sin embargo hay dias en que se levanta con la sensación de que le falta algo, una chispa que no sabe bien como encender. Cuando busca en internet encuentra la presión del positivismo obligatorio: siente gratitud, sonrie más, piensa en positivo. Esos consejos le producen el efecto contrario: le hacen sentir que su falta de alegria constante es un fallo personal adicional al que ya tenía. Este libro propone algo diferente: que la alegria genuina no se fabrica con optimismo forzado sino que se cultiva entendiendo como funciona y creando las condiciones en que puede aparecer.

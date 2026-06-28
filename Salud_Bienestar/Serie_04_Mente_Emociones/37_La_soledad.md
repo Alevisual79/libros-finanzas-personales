@@ -1,7 +1,5 @@
 # La soledad: El factor de riesgo que nadie habla
 
-## Conexión social y salud física: la ciencia detrás del vínculo más ignorado de la medicina
-
 **Serie Salud y Bienestar — Serie 4: Mente y Emociones — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Conexión social y salud física: la ciencia detrás del vínculo más ignorado de la medicina
 
 ### Prólogo: El aislamiento invisible
 

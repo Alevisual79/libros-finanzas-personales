@@ -1,17 +1,12 @@
 # Sales for Non-Salespeople
-## How to sell without feeling like you're selling
 
 **Series 03: Marketing and Sales — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to sell without feeling like you're selling
 
 ### Prologue
 Jordan had spent twelve years as a software architect before starting his own consulting practice. He was exceptionally skilled at his work: clients who hired him consistently described him as the best technical advisor they had worked with. He had strong opinions, clear expertise, and a genuine desire to help businesses solve difficult technology problems. He had everything a consultant needs to succeed — except one thing. He could not sell.

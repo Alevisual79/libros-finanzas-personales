@@ -1,17 +1,12 @@
 # Emotional Wellbeing as Practice
-## Integrating a Lifetime of Emotional Intelligence
 
 **Series 4: Emotions and Emotional Management — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Integrating a Lifetime of Emotional Intelligence
 
 ### Prologue
 At the end of a year in which she had lost her mother, changed careers, and moved to a different city, Isabel took stock. The year had been, by objective assessment, one of the hardest of her adult life. She had been genuinely bereft, genuinely frightened, genuinely angry, genuinely sad. She had also been, she recognized with some surprise, more fully present to her own experience than she had been in the preceding decade of relative comfort and routine. The difficult emotions had demanded attention; attending to them had revealed a richness of interior life that easier years had allowed her to ignore. She was not grateful for the difficulties — that would have been a distortion. She was, somehow, a more complete person than she had been before them.

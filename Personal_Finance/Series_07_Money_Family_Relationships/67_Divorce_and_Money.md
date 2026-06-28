@@ -1,17 +1,12 @@
 # Divorce and Money
-## Protecting Yourself Before, During, and After
 
 **Series 7: Money, Family & Relationships — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Protecting Yourself Before, During, and After
 
 ### Prologue
 Elena had been in the relationship for four years when the cracks became impossible to ignore. She and her boyfriend had moved in together eighteen months ago, and the financial incompatibilities that had seemed manageable at a distance had become glaring up close. He didn't pay his share of utilities on time. He had borrowed $2,000 from her — twice — and paid back neither loan. His credit card debt exceeded $30,000. They weren't married, which meant the legal complications were less severe, but as she started to untangle her finances from his, Elena realized how thoroughly she had blurred the line between her money and theirs. Her name was on the lease, and his was on the streaming subscriptions she actually used. It felt petty and complicated at the same time.

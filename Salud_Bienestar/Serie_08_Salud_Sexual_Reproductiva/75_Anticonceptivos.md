@@ -1,7 +1,5 @@
 # Anticonceptivos: La guía completa sin ideología
 
-## Opciones, efectos, comparativa y cómo elegir el método que funciona para ti
-
 **Serie Salud y Bienestar — Serie 8: Salud Sexual y Reproductiva — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Opciones, efectos, comparativa y cómo elegir el método que funciona para ti
 
 ### Prólogo: La decisión que nadie explica bien
 

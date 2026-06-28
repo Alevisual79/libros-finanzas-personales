@@ -1,17 +1,12 @@
 # AI and Mental Health
-## Tools Risks and the Therapeutic Frontier
 
 **Series 10: AI and the Human Being — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Tools Risks and the Therapeutic Frontier
 
 ### Prologue
 Woebot launched as a mental health chatbot in 2017. Millions of people found it useful. Some found it transformative. Critics worried about the replacement of professional care by an algorithm. The evidence was more nuanced than either the enthusiasm or the alarm.

@@ -1,17 +1,12 @@
 # Social Loneliness
-## How to get out of isolation even when surrounded by people
 
 **Series 5: Friendships and Social Relationships — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to get out of isolation even when surrounded by people
 
 ### Prologue
 Jordan had been in Toronto for eight months when he noticed that loneliness was not what he had expected it to be.

@@ -1,17 +1,12 @@
 # Decision Making
-## The Science of Choosing Well
 
 **Series 1: How Your Mind Works — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science of Choosing Well
 
 ### Prologue
 Rachel had a list. Every time a major decision loomed — a career change, a large purchase, a relationship question — she wrote out the pros and cons, weighted them, and tallied the score. It was a system she trusted, and it had produced, by most measures, a good life. But when she read about the psychology of decision-making for the first time at 45, as preparation for a leadership role she had just accepted, she discovered something unsettling: the rational deliberation she had relied on all her life was only one of several processes that determined her choices, and not always the most influential one. The feelings she had before she started the list, the order in which options came to mind, the way the question was framed, the emotional state she was in when she sat down to write — all of these influenced the outcome in ways she had never noticed.

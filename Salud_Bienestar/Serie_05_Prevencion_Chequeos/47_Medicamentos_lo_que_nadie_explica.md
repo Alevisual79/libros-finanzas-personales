@@ -1,7 +1,5 @@
 # Medicamentos: Lo que nadie te explica
 
-## Interacciones, efectos secundarios y cómo gestionar la polimedicación con seguridad
-
 **Serie Salud y Bienestar — Serie 5: Prevención y Chequeos — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Interacciones, efectos secundarios y cómo gestionar la polimedicación con seguridad
 
 ### Prólogo: El cajón de los medicamentos
 

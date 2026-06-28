@@ -1,17 +1,12 @@
 # AI and Identity
-## Who Are You in a World of Intelligent Machines
 
 **Series 10: AI and the Human Being — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Who Are You in a World of Intelligent Machines
 
 ### Prologue
 Isabel's professional identity had been built around her ability to read people, make nuanced judgments, and guide complex organizational decisions. When AI could do parts of each of these things, she found herself asking: what exactly am I good for?

@@ -1,7 +1,5 @@
 # Productos digitales: Crear una vez, vender mil veces
 
-## Templates, ebooks, cursos y herramientas que trabajan mientras tú no
-
 **Serie Finanzas Personales — Serie 9: Negocios e Ingresos Extra — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Templates, ebooks, cursos y herramientas que trabajan mientras tú no
 
 ### Prólogo: El segundo producto de Marta
 

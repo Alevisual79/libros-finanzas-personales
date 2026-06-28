@@ -1,17 +1,12 @@
 # Networking with Soul
-## How to connect professionally without feeling fake
 
 **Series 5: Friendships and Social Relationships — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to connect professionally without feeling fake
 
 ### Prologue
 Jordan had attended a networking event in his first week in Toronto and had felt, immediately and durably, that he was doing something slightly degrading.

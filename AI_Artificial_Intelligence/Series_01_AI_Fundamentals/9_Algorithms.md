@@ -1,17 +1,12 @@
 # Algorithms
-## The Language of the Future
 
 **Series 1: AI Fundamentals — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Language of the Future
 
 ### Prologue
 Ruben did not know an algorithm had decided he would not see the job posting that changed his friend's career. LinkedIn's system had ruled out his profile. This book is about the invisible decisions algorithms make.

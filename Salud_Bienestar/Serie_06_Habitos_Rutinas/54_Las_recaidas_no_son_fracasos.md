@@ -1,7 +1,5 @@
 # Las recaídas no son fracasos
 
-## Por qué volver a empezar es parte del proceso — y cómo hacerlo sin destruirse en el intento
-
 **Serie Salud y Bienestar — Serie 6: Hábitos y Rutinas — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué volver a empezar es parte del proceso — y cómo hacerlo sin destruirse en el intento
 
 ### Prólogo: El miércoles que lo arruinó todo
 

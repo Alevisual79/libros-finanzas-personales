@@ -1,17 +1,12 @@
 # The Loneliness of the Founder
-## Understanding and addressing the unique isolation of entrepreneurial leadership
 
 **Series 09: Entrepreneur as Person — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and addressing the unique isolation of entrepreneurial leadership
 
 ### Prologue
 At a dinner party, someone asked Jonathan what it was like to run his own business. He gave the answer he always gave: it was rewarding, challenging, and something he wouldn't trade. The answer was true, as far as it went.

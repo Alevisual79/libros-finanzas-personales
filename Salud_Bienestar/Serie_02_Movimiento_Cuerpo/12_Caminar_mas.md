@@ -1,7 +1,5 @@
 # Caminar más: La medicina más infravalorada
 
-## Por qué el simple acto de caminar lo cambia todo para tu salud
-
 **Serie Salud y Bienestar — Serie 2: Movimiento y Cuerpo — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué el simple acto de caminar lo cambia todo para tu salud
 
 ### Prólogo: El ejercicio que ya sabes hacer
 

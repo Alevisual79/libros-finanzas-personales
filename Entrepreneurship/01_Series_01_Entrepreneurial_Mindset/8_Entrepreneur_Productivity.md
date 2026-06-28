@@ -1,17 +1,12 @@
 # Entrepreneur Productivity
-## How to do more of what matters and less of what doesn't
 
 **Series 01: Entrepreneurial Mindset — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to do more of what matters and less of what doesn't
 
 ### Prologue
 Rachel had been working twelve-hour days for eighteen months and was producing a fraction of the output she expected from those hours. Her calendar was full of meetings. Her inbox was a perpetual backlog. Her to-do list grew faster than she completed it. She had the startup founder's classic problem: extreme busyness combined with the persistent suspicion that the busyness was not translating into the progress the business actually needed.

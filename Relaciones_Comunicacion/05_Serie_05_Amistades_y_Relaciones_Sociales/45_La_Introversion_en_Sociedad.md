@@ -1,17 +1,12 @@
 # La Introversión en Sociedad
-## Como relacionarte bien siendo introvertido sin agotarte
 
 **Serie 05: Amistades y Relaciones Sociales — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como relacionarte bien siendo introvertido sin agotarte
 
 ### Prólogo
 Ruben dice que es introvertido. Lo usa como excusa para no salir de su zona de confort relacional, para rechazar invitaciones que en realidad le gustaria aceptar, para evitar el esfuerzo de profundizar relaciones que valora. La introversión, sin embargo, es una característica del temperamento, no un destino que justifique evitar la conexión que se necesita y se desea.

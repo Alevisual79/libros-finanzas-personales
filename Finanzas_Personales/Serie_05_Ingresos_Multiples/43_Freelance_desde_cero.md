@@ -1,7 +1,5 @@
 # Freelance desde cero: Vende lo que ya sabes hacer
 
-## Monetiza tus habilidades sin montar una empresa ni complicarte la vida
-
 **Serie Finanzas Personales — Serie 5: Ingresos Múltiples — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Monetiza tus habilidades sin montar una empresa ni complicarte la vida
 
 ### Prólogo: La llamada que Marta no esperaba
 

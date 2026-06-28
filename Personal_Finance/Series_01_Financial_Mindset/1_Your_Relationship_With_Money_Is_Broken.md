@@ -1,17 +1,12 @@
 # Your Relationship With Money Is Broken
-## And How to Fix It
 
 **Series 1: Financial Mindset — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## And How to Fix It
 
 ### Prologue
 Elena earns $68,000 a year and has $400 in savings. Not because she spends recklessly — she doesn't buy luxury items, she doesn't gamble — but because every time money comes in, something seems to immediately pull it out. A weekend trip here, a new laptop there, a dinner she didn't plan for. She's been telling herself for three years that she'll start saving "when things calm down." Things haven't calmed down.

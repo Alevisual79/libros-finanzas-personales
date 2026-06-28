@@ -1,17 +1,12 @@
 # Speaking Well
-## The art and science of verbal communication that moves people
 
 **Series 5: Communication and Relationships — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The art and science of verbal communication that moves people
 
 ### Prologue
 Valentina had excellent ideas. Her colleagues knew this; her manager knew this; the ideas themselves showed up, usually, in the minutes from meetings she had not attended — ideas that had drifted from her tentative articulation into someone else's clearer statement and eventually into the record under another name.

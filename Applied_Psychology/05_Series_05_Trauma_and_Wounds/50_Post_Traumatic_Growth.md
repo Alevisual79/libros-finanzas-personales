@@ -1,17 +1,12 @@
 # Post-Traumatic Growth
-## How Suffering Can Become the Ground of Genuine Change
 
 **Series 5: Trauma and Wounds — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Suffering Can Become the Ground of Genuine Change
 
 ### Prologue
 Kenji did not talk about his illness as a gift. The cancer diagnosis at 38, the two years of treatment, the year of reconstruction that followed — none of it was something he would have chosen, and the idea that he should be grateful for it struck him as distasteful. What he acknowledged, with genuine care for accuracy, was that he was different on the other side of it than he had been before: different in ways that he would not have arrived at without the experience, different in ways that he recognized as, by his own accounting, improvements. He was more present. He was more selective about what he spent his limited time on. He was more openly loving with the people he loved. He had a relationship with his own mortality that gave his daily life a quality of seriousness and attention that he had not had before. He had not grown because of the illness. He had grown through the struggle with the illness — and the distinction, he had come to believe, mattered enormously.

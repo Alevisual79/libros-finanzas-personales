@@ -1,7 +1,5 @@
 # Seguros: Cuáles necesitas y cuáles son un timo
 
-## Guía sin comisiones para protegerte sin arruinarte en primas
-
 **Serie Finanzas Personales — Serie 8: Protección y Emergencias — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Guía sin comisiones para protegerte sin arruinarte en primas
 
 ### Prólogo: El cuñado y sus seguros
 

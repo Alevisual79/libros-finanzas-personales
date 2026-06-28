@@ -1,17 +1,12 @@
 # Modern Time Thieves
-## The invisible forces stealing your hours — and how to stop them
 
 **Series 2: Time Management — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The invisible forces stealing your hours — and how to stop them
 
 ### Prologue
 Marco had done the math. He worked approximately fifty hours per week — five or six hours more than the conventional forty, which he considered modest for someone at his professional level. He was genuinely busy during those fifty hours: always in motion, always responding, always attending to something. At the end of any given week, he could account, in general terms, for most of those hours.

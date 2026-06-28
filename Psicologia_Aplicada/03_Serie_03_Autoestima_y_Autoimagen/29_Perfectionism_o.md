@@ -1,17 +1,12 @@
 # Perfeccionismo
-## De ser el enemigo del bien a ser el aliado de lo excelente
 
 **Serie 03: Autoestima y Autoimagen — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## De ser el enemigo del bien a ser el aliado de lo excelente
 
 ### Prólogo
 Elena entrega cada informe tres dias después de lo prometido. No porque no trabaje suficiente. Sino porque hay siempre algo más que mejorar, una frase que suena mejor de otra forma, una tabla que podría organizarse de forma más clara, un argumento que podría desarrollarse con más precisión. Sus colegas entregan a tiempo trabajos que son suficientemente buenos. Elena entrega tarde trabajos que son marginalmente mejores pero que han costado el triple de tiempo y han generado una presión que ella llama exigencia pero que sus compañeros, observando los circulos oscuros bajo sus ojos, llamarian agotamiento.

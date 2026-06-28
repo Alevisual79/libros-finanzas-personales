@@ -1,17 +1,12 @@
 # Influence Without Authority
-## How to move people and projects without formal power
 
 **Series 5: Communication and Relationships — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to move people and projects without formal power
 
 ### Prologue
 Daniel had been in a position for three years that required him to coordinate the work of twelve colleagues over whom he had no managerial authority. He was a project lead — not their manager. He needed their time, their cooperation, and sometimes their best work; he had no formal power to require any of it. What he had was influence — or the potential to develop it, if he could understand what influence actually was and how to build it deliberately.

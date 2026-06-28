@@ -1,17 +1,12 @@
 # Broken Relationships That Recovered
-## Stories and strategies of real reconciliation
 
 **Series 8: Repair and Heal — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Stories and strategies of real reconciliation
 
 ### Prologue
 Dara had been sitting in a coffee shop waiting for her daughter for twenty minutes when she understood that the specific quality of her anxiety was different from the anxiety she had felt before difficult conversations in the past.

@@ -1,17 +1,12 @@
 # Stretching and Mobility
-## The Investment in Your Future Body
 
 **Series 2: Movement and Body — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Investment in Your Future Body
 
 ### Prologue
 Flexibility and mobility are among the most neglected components of physical fitness. Most people stretch occasionally (before exercise, if at all) and don't practice systematic mobility work at all. The consequence accumulates slowly: progressively tighter hips, a stiffer spine, reduced range of motion in the shoulders, and a body that feels increasingly rigid — a process most people accept as an inevitable feature of aging.

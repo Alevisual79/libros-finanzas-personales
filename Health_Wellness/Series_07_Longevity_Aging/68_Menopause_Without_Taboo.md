@@ -1,17 +1,12 @@
 # Menopause Without Taboo
-## Understanding and Navigating the Hormonal Transition
 
 **Series 7: Longevity and Aging — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Navigating the Hormonal Transition
 
 ### Prologue
 Menopause is one of the most significant biological transitions in a woman's life — and one of the most poorly understood and least discussed. For a period that affects half the population and has health implications spanning decades, the combination of cultural silence, medical under-education, and marketing noise has left most women navigating a major hormonal transition with inadequate information and unnecessary suffering.

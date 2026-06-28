@@ -1,17 +1,12 @@
 # The Number
-## Calculating Exactly What You Need to Retire
 
 **Series 6: Financial Freedom — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Calculating Exactly What You Need to Retire
 
 ### Prologue
 Elena had been staring at the retirement calculator on her laptop for twenty minutes when she finally closed it in frustration. The problem wasn't that the tool was hard to use — it was that she didn't know what to put in the most important field. "Annual spending in retirement." She'd been guessing $50,000, then $60,000, then $45,000, and each number produced a wildly different "amount you need to save." The difference between her high and low guesses was $375,000. How could she build a plan around a target she couldn't even estimate to within $375,000? She pushed the laptop aside and went to get another cup of coffee, feeling the particular frustration of someone who wants to be responsible but doesn't know where to start.

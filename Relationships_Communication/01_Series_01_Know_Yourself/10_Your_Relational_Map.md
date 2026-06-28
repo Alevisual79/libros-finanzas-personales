@@ -1,17 +1,12 @@
 # Your Relational Map
-## Seeing the full landscape of your relationships and where you want to go
 
 **Series 1: Know Yourself in Relationships — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Seeing the full landscape of your relationships and where you want to go
 
 ### Prologue
 At the end of a long, gradually deepening year of the kind of honest conversation that neither of them had been having before, Ana asked Marcus to do an exercise a therapist had suggested: to draw a map of their relationship. Not a diagram of the house, or a timeline of the marriage — a map. Who are the people at the center? Who is in the middle distance? Where are the edges? What is the terrain between us and the people we care about?

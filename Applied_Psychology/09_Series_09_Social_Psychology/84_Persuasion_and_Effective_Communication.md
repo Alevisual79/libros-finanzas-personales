@@ -1,17 +1,12 @@
 # Persuasion and Effective Communication
-## The Science of Changing Minds and Being Understood
 
 **Series 9: Social Psychology and Influence — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science of Changing Minds and Being Understood
 
 ### Prologue
 The physician was trying to persuade her patient to take the medication that would prevent his second heart attack. She had the medical evidence, the clinical authority, the institutional support of her hospital's cardiology department, and a genuine concern for her patient's wellbeing. He had not filled the prescription from three weeks earlier. In their conversation, she presented the mortality statistics, explained the mechanism of action, described the side effects and how to manage them, and concluded with the recommendation that he begin the medication as soon as possible. He nodded throughout the conversation. He did not fill the prescription.

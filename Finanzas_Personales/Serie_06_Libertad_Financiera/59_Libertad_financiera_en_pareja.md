@@ -1,7 +1,5 @@
 # Libertad financiera en pareja
 
-## Cuando dos tienen que ponerse de acuerdo en el mismo objetivo durante décadas
-
 **Serie Finanzas Personales — Serie 6: Libertad Financiera — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cuando dos tienen que ponerse de acuerdo en el mismo objetivo durante décadas
 
 ### Prólogo: La conversación que Carlos y Ana no habían tenido
 

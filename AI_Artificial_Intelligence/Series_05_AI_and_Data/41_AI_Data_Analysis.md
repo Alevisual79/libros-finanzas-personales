@@ -1,17 +1,12 @@
 # AI Data Analysis
-## Asking Better Questions of Your Data
 
 **Series 5: AI and Data — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Asking Better Questions of Your Data
 
 ### Prologue
 Elena had terabytes of server logs and zero actionable insights. The data was not the problem. The questions were. AI did not solve the data problem — it lowered the cost of asking better questions.

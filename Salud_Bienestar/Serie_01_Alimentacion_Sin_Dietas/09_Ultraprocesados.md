@@ -1,7 +1,5 @@
 # Ultraprocesados: Lo que comes sin saber que comes
 
-## Cómo los alimentos manufacturados secuestran tu salud, tu hambre y tu paladar
-
 **Serie Salud y Bienestar — Serie 1: Alimentación Sin Dietas — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo los alimentos manufacturados secuestran tu salud, tu hambre y tu paladar
 
 ### Prólogo: El alimento que no es alimento
 

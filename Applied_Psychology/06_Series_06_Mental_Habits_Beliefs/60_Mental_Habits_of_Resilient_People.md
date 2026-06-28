@@ -1,17 +1,12 @@
 # Mental Habits of Resilient People
-## The Cognitive Patterns That Protect and Strengthen the Mind
 
 **Series 6: Mental Habits and Beliefs — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Cognitive Patterns That Protect and Strengthen the Mind
 
 ### Prologue
 If you surveyed the people in your life who seem to navigate difficulty most effectively — who recover from setbacks without prolonged collapse, who maintain perspective in crisis, who bounce back and sometimes forward from circumstances that seem to devastate others — you would likely find that their advantages are not primarily external. They are not necessarily the people with the most resources, the most support, or the fewest challenges. What they have that is most consequential is typically internal: a set of mental habits that, practiced over time, have become the default architecture of their psychological response to adversity.

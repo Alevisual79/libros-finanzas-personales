@@ -1,17 +1,12 @@
 # Entrepreneur Finances
-## Managing money as a business owner: what they don't teach you
 
 **Series 05: Business Finance — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Managing money as a business owner: what they don't teach you
 
 ### Prologue
 Before she started her event planning company, Sandra had never thought much about business finances. She was good at the work of planning events — creative, organized, detail-oriented, excellent with clients — and she assumed that the financial side would be straightforward: earn more than you spend, pay your taxes, keep the books. What she discovered in her first year was that the financial management of a business is qualitatively more complex than personal financial management, and that the skills and habits that had served her well in managing her personal finances were inadequate for managing a business.

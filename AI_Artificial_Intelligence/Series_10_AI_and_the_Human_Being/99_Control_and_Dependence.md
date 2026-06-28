@@ -1,17 +1,12 @@
 # Control and Dependence
-## Keeping Human Agency in the AI Era
 
 **Series 10: AI and the Human Being — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Keeping Human Agency in the AI Era
 
 ### Prologue
 Ruben realized he could no longer write a first draft without AI. The blank page that had once been uncomfortable but surmountable now felt paralyzing. The tool had become a crutch. He spent a weekend writing without AI. It was harder than he expected.

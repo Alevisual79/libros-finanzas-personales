@@ -1,7 +1,5 @@
 # Identidad financiera: Quién eres cuando nadie te ve gastar
 
-## Cómo tu identidad determina tu cuenta bancaria más que cualquier estrategia
-
 **Serie Finanzas Personales — Serie 1: Mindset del Dinero — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo tu identidad determina tu cuenta bancaria más que cualquier estrategia
 
 ### Prólogo: El dato que nadie explica
 

@@ -1,17 +1,12 @@
 # AI in Human Resources
-## Hiring Retention and the People Function
 
 **Series 6: AI and Business — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Hiring Retention and the People Function
 
 ### Prologue
 Isabel had mixed feelings about AI in HR. The efficiency gains were real. So were the risks: automated hiring systems that discriminate, sentiment analysis that invades privacy, performance systems that optimize metrics rather than outcomes.

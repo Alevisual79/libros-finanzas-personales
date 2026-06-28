@@ -1,17 +1,12 @@
 # Choosing Your Partner Well
-## What nobody told you about choosing the right person
 
 **Series 3: The Couple — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What nobody told you about choosing the right person
 
 ### Prologue
 Claire had made a list, at twenty-eight, of what she was looking for in a partner. It was a good list: kind, funny, ambitious, intellectually curious, emotionally available, stable. She had been fairly rigorous about it. When she met James at thirty-two, he met most of the criteria. When they married two years later, she was confident she had chosen well.

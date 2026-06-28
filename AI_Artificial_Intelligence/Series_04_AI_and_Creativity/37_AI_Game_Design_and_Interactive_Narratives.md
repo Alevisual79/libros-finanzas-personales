@@ -1,17 +1,12 @@
 # AI Game Design and Interactive Narratives
-## Procedural Generation and the New Player Experience
 
 **Series 4: AI and Creativity — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Procedural Generation and the New Player Experience
 
 ### Prologue
 Elena played an indie game generated largely by AI for three hours before noticing the seams. Then she thought: does it matter that a computer generated the world, if the experience was genuinely immersive?

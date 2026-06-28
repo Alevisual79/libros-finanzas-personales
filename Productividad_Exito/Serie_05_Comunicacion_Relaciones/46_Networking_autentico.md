@@ -1,7 +1,5 @@
 # Networking auténtico
 
-## Construir una red de contactos sin sentirte falso ni transaccional
-
 **Serie Productividad y Éxito — Serie 5: Comunicación y Relaciones Profesionales — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Construir una red de contactos sin sentirte falso ni transaccional
 
 ### Prólogo: La fiesta que Elena evitaba
 

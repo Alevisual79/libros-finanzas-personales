@@ -1,17 +1,12 @@
 # Exclusivity and Commitment
-## How to talk about what this is and where we are going
 
 **Series 7: Dating and Romantic Love — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to talk about what this is and where we are going
 
 ### Prologue
 Valentina and Stefan had been seeing each other for three months — the coffee, then dinner, then the walks and the gradual accumulation of the specific shared reference points that constitute the early architecture of a relationship — before she understood that they had not yet talked about what they were doing.

@@ -1,17 +1,12 @@
 # Trabajo en Equipo Real
-## Más allá de las dinámicas de grupo artificiales
 
 **Serie 06: Relaciones Laborales — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Más allá de las dinámicas de grupo artificiales
 
 ### Prólogo
 Elena asiste a actividades de team building organizadas por su empresa con regularidad. El lunes siguiente a cada una, el equipo se comporta exactamente igual que antes: las mismas tensiones no dichas, las mismas dinámicas de desconfianza sutil, los mismos silencios en las reuniones donde nadie se atreve a discrepar abiertamente. El problema, descubre con el tiempo, nunca fue la actividad. Es la relación subyacente que ninguna actividad de un dia puede transformar.

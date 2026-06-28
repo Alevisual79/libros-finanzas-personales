@@ -1,17 +1,12 @@
 # The Power of Empowering Beliefs
-## How What You Believe About Yourself Shapes What You Can Become
 
 **Series 6: Mental Habits and Beliefs — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How What You Believe About Yourself Shapes What You Can Become
 
 ### Prologue
 Serena was not someone anyone had ever called naturally talented. Her early academic record was mediocre, her early athletic performance unremarkable, her early social confidence fragile. What made her trajectory unusual — the PhD in mathematics, the competitive ultramarathons, the reputation as someone who could be counted on in precisely the situations that required steadiness — was not the discovery of hidden talent but something else: a shift, occurring in early adulthood through a combination of encounters and deliberate cultivation, in what she believed about herself and what was possible for her. The shift was not from false beliefs to rose-colored ones. It was from beliefs that constrained possibility to beliefs that expanded it — while remaining, in both cases, genuinely held.

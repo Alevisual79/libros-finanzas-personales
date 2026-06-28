@@ -1,17 +1,12 @@
 # If You Lose Your Job
-## A Financial Survival Guide for Job Loss
 
 **Series 8: Protection & Emergencies — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A Financial Survival Guide for Job Loss
 
 ### Prologue
 Elena got the call on a Thursday afternoon. Her company was doing a layoff. Her position was eliminated effective immediately. She had two weeks of severance per year of service — six years meant twelve weeks. After that, she was on her own.

@@ -1,17 +1,12 @@
 # Gratitud y psicología Positiva
-## Las prácticas que cambian la estructura del cerebro hacía el bienestar
 
 **Serie 07: Depresión y Bienestar Mental — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Las prácticas que cambian la estructura del cerebro hacía el bienestar
 
 ### Prólogo
 Ruben ha escuchado tantas veces que debería ser más agradecido que la gratitud le suena a obligación moral, no a recurso psicológico. Tiene una reacción de rechazó ante la idea de los diarios de gratitud y las listas de cosas positivas. Lo que no sabe es que la investigación sobre la gratitud en las últimas dos décadas ha demostrado efectos biológicos y psicológicos específicos que van mucho más allá de lo que la cultura popular del pensamiento positivo ha convertido en cliche. Este libro es sobre la ciencia real de la gratitud y la psicología positiva: que son, como funcionan, y como practicarlas de forma que produzcan cambios reales.

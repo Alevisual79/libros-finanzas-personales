@@ -1,7 +1,5 @@
 # Mindfulness sin incienso ni postureo
 
-## Meditación práctica para quien no tiene tiempo, no cree en las modas y necesita resultados reales
-
 **Serie Salud y Bienestar — Serie 4: Mente y Emociones — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Meditación práctica para quien no tiene tiempo, no cree en las modas y necesita resultados reales
 
 ### Prólogo: Cuando "meditar" suena a otra cosa
 

@@ -1,17 +1,12 @@
 # Style Voice and Authenticity
-## What Remains Human in AI-Assisted Creation
 
 **Series 4: AI and Creativity — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Remains Human in AI-Assisted Creation
 
 ### Prologue
 Ruben's most popular newsletter issue was the one he wrote in one session, without AI, about a conversation with his father. His AI-assisted issues had better structure and broader appeal. That particular one had something else. He spent months thinking about the difference.

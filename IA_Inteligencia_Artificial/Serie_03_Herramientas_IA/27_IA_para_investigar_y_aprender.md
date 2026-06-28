@@ -1,17 +1,12 @@
 # IA para investigar y aprender
-## Perplexity, NotebookLM y las herramientas del investigador moderno
 
 **Serie 3: Herramientas de IA — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Perplexity, NotebookLM y las herramientas del investigador moderno
 
 ### Prólogo: La biblioteca infinita
 

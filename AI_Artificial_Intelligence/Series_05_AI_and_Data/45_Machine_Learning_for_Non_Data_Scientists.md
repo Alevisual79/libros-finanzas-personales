@@ -1,17 +1,12 @@
 # Machine Learning for Non-Data Scientists
-## Building Models Without a PhD
 
 **Series 5: AI and Data — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building Models Without a PhD
 
 ### Prologue
 The AutoML platforms of 2024 would have required a PhD to build five years earlier. The democratization of ML is real — with real limits. Knowing where those limits are is part of what this book teaches.

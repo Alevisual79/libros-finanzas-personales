@@ -1,7 +1,5 @@
 # Ingresos con propiedades sin comprar nada
 
-## Airbnb, alquiler de garajes, espacios y activos físicos que puedes monetizar sin ser propietario
-
 **Serie Finanzas Personales — Serie 5: Ingresos Múltiples — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Airbnb, alquiler de garajes, espacios y activos físicos que puedes monetizar sin ser propietario
 
 ### Prólogo: La plaza de garaje de don Alberto
 

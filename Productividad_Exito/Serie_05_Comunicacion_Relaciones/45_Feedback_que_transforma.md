@@ -1,7 +1,5 @@
 # Feedback que transforma
 
-## Cómo dar y recibir retroalimentación sin que nadie se muera
-
 **Serie Productividad y Éxito — Serie 5: Comunicación y Relaciones Profesionales — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo dar y recibir retroalimentación sin que nadie se muera
 
 ### Prólogo: El feedback que no llegó
 

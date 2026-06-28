@@ -1,17 +1,12 @@
 # Expatriate Taxation
-## Taxes for Americans Living and Working Abroad
 
 **Series 10: Taxes & Wealth — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Taxes for Americans Living and Working Abroad
 
 ### Prologue
 The United States is one of only two countries in the world (the other is Eritrea) that taxes its citizens on worldwide income regardless of where they live. An American who moves to Portugal, Japan, or Argentina and earns income there must still file US tax returns — and potentially pay US taxes — even if they haven't set foot in the US for years.

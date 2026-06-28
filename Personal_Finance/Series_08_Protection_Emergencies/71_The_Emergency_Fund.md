@@ -1,17 +1,12 @@
 # The Emergency Fund
-## Why Three to Six Months Is the Floor, Not the Target
 
 **Series 8: Protection & Emergencies — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why Three to Six Months Is the Floor, Not the Target
 
 ### Prologue
 Elena had been doing everything right for six months. She had cut back on dining out, automated a $400 monthly transfer to savings, and for the first time in her adult life, she had a balance in her account that felt like more than a mirage. Then her car died on the freeway on a Tuesday morning. The tow was $180. The repair — a timing chain she had been warned about for two years but had ignored — came to $2,800. She paid it. Mostly. She put $1,400 on a credit card, depleted the savings she had accumulated, and found herself staring at a nearly-empty account three days later, feeling like she was back at zero. The worst part was not the money itself. It was the feeling that the financial system she had been building had collapsed at the first real test.

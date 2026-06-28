@@ -1,17 +1,12 @@
 # The Entrepreneur and Money
-## The psychology, the decisions, and the meaning of financial life in entrepreneurship
 
 **Series 09: Entrepreneur as Person — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The psychology, the decisions, and the meaning of financial life in entrepreneurship
 
 ### Prologue
 For the first four years of his career as an independent consultant, David had charged what felt comfortable: rates that were above the market's lowest but safely below the highest, prices that wouldn't prompt clients to question his value or compare him unfavorably to better-known competitors. He told himself this was strategic modesty — appropriate humility in a competitive market. His coach eventually helped him see it differently.

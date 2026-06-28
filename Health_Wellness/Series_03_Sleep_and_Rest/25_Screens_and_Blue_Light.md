@@ -1,17 +1,12 @@
 # Screens and Blue Light
-## The Technology Habit That Is Stealing Your Sleep
 
 **Series 3: Sleep and Rest — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Technology Habit That Is Stealing Your Sleep
 
 ### Prologue
 Ruben's bedtime ritual: work until 10:30pm, switch to YouTube on his laptop, check Instagram and Twitter on his phone, and fall asleep with his phone on his chest or nightstand, screen facing up. On average he spent 80 minutes with screens after 9pm. He wondered why he couldn't fall asleep before midnight despite feeling physically tired.

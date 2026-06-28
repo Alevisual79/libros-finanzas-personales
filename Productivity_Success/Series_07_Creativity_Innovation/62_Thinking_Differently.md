@@ -1,17 +1,12 @@
 # Thinking Differently
-## The cognitive tools that produce genuinely original solutions
 
 **Series 7: Creativity and Innovation — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The cognitive tools that produce genuinely original solutions
 
 ### Prologue
 Raj had been working on the same supply chain problem for three weeks. He had consulted the relevant technical literature, had spoken with colleagues who had faced similar problems, and had applied the established analytical frameworks his training had provided. Each approach produced the same class of solution — variations on the approaches that the industry had been using for a decade, none of which addressed the specific constraints of his problem.

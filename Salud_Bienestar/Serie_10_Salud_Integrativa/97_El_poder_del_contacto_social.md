@@ -1,7 +1,5 @@
 # El poder del contacto social en la salud
 
-## Por qué la soledad mata, la conexión sana y cómo construir vínculos que protejan la salud
-
 **Serie Salud y Bienestar — Serie 10: Salud Integrativa — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué la soledad mata, la conexión sana y cómo construir vínculos que protejan la salud
 
 ### Prólogo: El experimento de los huérfanos
 

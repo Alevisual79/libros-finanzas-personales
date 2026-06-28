@@ -1,7 +1,5 @@
 # Carbohidratos sin miedo
 
-## Cuándo y cuáles comer para tener energía sin engordar
-
 **Serie Salud y Bienestar — Serie 1: Alimentación Sin Dietas — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cuándo y cuáles comer para tener energía sin engordar
 
 ### Prólogo: El macronutriente perseguido
 

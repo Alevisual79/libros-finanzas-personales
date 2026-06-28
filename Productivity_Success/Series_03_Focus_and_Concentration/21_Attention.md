@@ -1,17 +1,12 @@
 # Attention
-## The most valuable resource you have — and why you're letting it be stolen
 
 **Series 3: Focus and Concentration — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The most valuable resource you have — and why you're letting it be stolen
 
 ### Prologue
 Camila noticed it first during a Saturday morning with her daughter. They were building something — a model, a puzzle, she couldn't now quite remember — and she had been genuinely present for approximately seven minutes before her mind had drifted to the project deadline on Monday. She caught it, returned her attention, was present for another four minutes, and drifted again. By the end of the hour, she had been physically present for the entire time and genuinely present for perhaps twenty minutes of it.

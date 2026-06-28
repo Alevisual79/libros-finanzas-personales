@@ -1,17 +1,12 @@
 # Emociones en el Trabajo
-## Cómo gestionar lo que sientes en el entorno profesional
 
 **Serie 04: Emociones y Gestión Emocional — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo gestionar lo que sientes en el entorno profesional
 
 ### Prólogo
 Isabel tiene la teoria de que las emociones y el trabajo profesional son dominios separados: en el trabajo se razona, se analiza, se decide. Las emociones son para después. Esta separación, que comparten muchos profesionales, no refleja como funciona realmente el cerebro ni cómo se toman realmente las decisiones. Las emociones no se quedan en la puerta de la oficina. Entran contigo, afectan cada decisión que tomas, cada conversación que tienes, y cada evaluación que recibes. La pregunta no es si tienes emociones en el trabajo. Es si las gestionas o dejas que te gestionen ellas a ti.

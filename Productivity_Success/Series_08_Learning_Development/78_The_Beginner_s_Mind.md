@@ -1,17 +1,12 @@
 # The Beginner's Mind
-## What expertise costs and how to recover what it takes away
 
 **Series 8: Learning and Development — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What expertise costs and how to recover what it takes away
 
 ### Prologue
 Marco's senior client meeting had not gone as planned. He had been presenting an approach that, in his assessment as an eight-year veteran of the consulting industry, was the obvious solution to the client's operational challenge. The client's team had pushed back with increasing frustration. Three-quarters through the meeting, one of the client's junior analysts — a person two years out of university — had asked a question about the fundamental premise of the approach that Marco had never considered, because it had never occurred to him to question a premise that eight years of industry practice had treated as settled.

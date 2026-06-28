@@ -1,7 +1,5 @@
 # Brainstorming que funciona
 
-## Por qué la mayoría de las sesiones de ideas son un desastre y cómo hacerlas bien
-
 **Serie Productividad y Éxito — Serie 7: Creatividad e Innovación — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué la mayoría de las sesiones de ideas son un desastre y cómo hacerlas bien
 
 ### Prólogo: La sesión que no produjó nada
 

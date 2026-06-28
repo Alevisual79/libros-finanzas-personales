@@ -1,17 +1,12 @@
 # Síndrome del Impostor
-## Como dejar de sentir que te van a descubrir
 
 **Serie 03: Autoestima y Autoimagen — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como dejar de sentir que te van a descubrir
 
 ### Prólogo
 Isabel acaba de ser promovida a directora de departamento después de diez años de trabajo excelente y evaluaciones consistentemente altas. En lugar de celebrarlo, lo que siente fundamentalmente es miedo: miedo a que, ahora que tendrá más visibilidad, los demás descubran que en realidad no es tan capaz como han creido. Que ha tenido suerte, ha estado en el lugar correcto en el momento correcto, y que cualquier dia alguien va a darse cuenta de que no merece estar donde esta. Esta no es una evaluación precisa de su competencia. Es el síndrome del impostor en su forma más clásica.

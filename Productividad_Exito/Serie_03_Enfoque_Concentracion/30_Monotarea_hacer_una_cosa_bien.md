@@ -1,7 +1,5 @@
 # Monotarea: Hacer una cosa y hacerla bien
 
-## La habilidad más contracultural y más eficaz del siglo XXI
-
 **Serie Productividad y Éxito — Serie 3: Enfoque y Concentración — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La habilidad más contracultural y más eficaz del siglo XXI
 
 ### Prólogo: La cosa más difícil del mundo moderno
 

@@ -1,17 +1,12 @@
 # Sugar and You
-## The Real Story About the Most Controversial Ingredient
 
 **Series 1: Nutrition Without Diets — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Real Story About the Most Controversial Ingredient
 
 ### Prologue
 Sugar has become the nutritional villain of our era — blamed for obesity, diabetes, cancer, addiction, inflammation, and decay. The demonization is so complete that many people feel genuine fear about consuming it. The reality is more nuanced, more interesting, and ultimately more useful.

@@ -1,17 +1,12 @@
 # What You Should Know Before the Emergency
-## Preparing for Medical Situations Before They Happen
 
 **Series 5: Prevention and Checkups — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Preparing for Medical Situations Before They Happen
 
 ### Prologue
 Isabel's mother died at 67 from a stroke that might have been preventable. Not because the medical care was inadequate — the paramedics and hospital team were excellent. But because no one in the family knew her medication list; because her primary care records weren't at the hospital she was taken to; because she hadn't mentioned the transient weakness episodes she'd had over the previous three weeks because she thought they were stress.

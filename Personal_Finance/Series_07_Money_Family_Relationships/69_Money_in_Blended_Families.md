@@ -1,17 +1,12 @@
 # Money in Blended Families
-## Managing Money When Families Combine
 
 **Series 7: Money, Family & Relationships — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Managing Money When Families Combine
 
 ### Prologue
 When Isabel remarried at 46, she came to the relationship with two teenagers, a house with a small mortgage, $38,000 in savings, and a clear sense of how she managed money. Her husband, David, came with one younger child, child support obligations of $800/month, a different approach to spending, and his own set of financial patterns.

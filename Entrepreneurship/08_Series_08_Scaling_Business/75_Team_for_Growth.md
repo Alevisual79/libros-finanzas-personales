@@ -1,17 +1,12 @@
 # Team for Growth
-## Building the human capital that makes scaling possible
 
 **Series 08: Scaling Business — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building the human capital that makes scaling possible
 
 ### Prologue
 The team that carried Josephine's boutique hotel management company through its first four years — a group of seven people she had personally hired, trained, and nurtured through the company's early challenges — was a magnificent small-team organism: flexible, loyal, deeply aligned with her vision, and capable of handling almost anything because everyone did almost everything.

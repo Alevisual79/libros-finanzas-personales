@@ -1,17 +1,12 @@
 # The Human Premium
-## Why Human Skills Matter More Than Ever
 
 **Series 9: Future of Work — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why Human Skills Matter More Than Ever
 
 ### Prologue
 Isabel made a decision to lay off three people after an AI analysis recommended it based on performance data. Six months later, with the benefit of context the AI did not have, she knew it had been the wrong decision. The analysis was technically correct. The judgment was wrong.

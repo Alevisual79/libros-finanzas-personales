@@ -1,17 +1,12 @@
 # Amor Propio antes del Amor
-## Por qué la mejor relación empieza contigo mismo
 
 **Serie 07: Citas y Amor Romantico — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué la mejor relación empieza contigo mismo
 
 ### Prólogo
 Elena se pone en pareja buscando lo que no tiene sola: validación, sentido de completitud, una identidad que se siente insuficiente por si misma. El resultado, relación tras relación, es siempre el mismo: una dependencia que agota a su pareja y que nunca llena el vacio que originalmente busco llenar, porque ese vacio nunca fue, en realidad, sobre la ausencia de una pareja.

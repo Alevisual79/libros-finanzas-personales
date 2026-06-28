@@ -1,17 +1,12 @@
 # ¿Qué es la inteligencia artificial?
-## El libro que debiste leer antes de que todo el mundo empezara a hablar de IA
 
 **Serie 1: Fundamentos de IA — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El libro que debiste leer antes de que todo el mundo empezara a hablar de IA
 
 ### Prólogo: La reunión donde nadie entendió nada
 

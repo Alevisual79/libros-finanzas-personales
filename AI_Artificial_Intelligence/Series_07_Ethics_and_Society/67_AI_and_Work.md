@@ -1,17 +1,12 @@
 # AI and Work
-## The Social Consequences of Technological Unemployment
 
 **Series 7: Ethics and Society — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Social Consequences of Technological Unemployment
 
 ### Prologue
 Isabel had to lay off three administrative staff whose roles had been fully automated. The business case was clear. The human cost was real. The policy framework for what to do about it was absent.

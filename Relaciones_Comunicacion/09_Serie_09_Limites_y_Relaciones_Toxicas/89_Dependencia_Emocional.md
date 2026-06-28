@@ -1,17 +1,12 @@
 # Dependencia Emocional
-## Cuando el amor se convierte en necesidad irresistible
 
 **Serie 09: Límites y Relaciones Toxicas — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cuando el amor se convierte en necesidad irresistible
 
 ### Prólogo
 Isabel necesita la aprobación de ciertas personas específicas en su vida para sentirse genuinamente bien consigo misma. Sin notarlo conscientemente durante mucho tiempo, ha construido buena parte de su vida en función de no decepcionar a esas personas, organizando decisiones importantes alrededor de su aprobación anticipada más que alrededor de sus propios deseos genuinos. Ese patron tiene un nombre específico en la psicología, y nombrarlo correctamente es el primer paso para empezar a trabajarlo.

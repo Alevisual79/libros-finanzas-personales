@@ -1,17 +1,12 @@
 # Systems to Scale
-## Building the operational infrastructure that makes growth sustainable
 
 **Series 08: Scaling Business — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building the operational infrastructure that makes growth sustainable
 
 ### Prologue
 When Ryan's food distribution company reached $5 million in annual revenue, he began to feel the limits of the informal coordination that had carried the business through its first four years. His team of fourteen people managed orders, logistics, supplier relationships, and customer accounts through a combination of email, text messages, spreadsheets, and collective memory. Everyone knew their jobs; most things worked most of the time.

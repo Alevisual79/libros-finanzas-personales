@@ -1,17 +1,12 @@
 # The Latte Factor
-## Small Daily Spending and Its Real Cumulative Impact
 
 **Series 3: Systematic Savings — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Small Daily Spending and Its Real Cumulative Impact
 
 ### Prologue
 David Bach's "latte factor" — the observation that small daily purchases, invested instead of spent, compound to significant sums over time — became one of the most controversial ideas in personal finance. Critics argued it was condescending (telling poor people to skip coffee while ignoring structural economic problems). Defenders argued it was the most concrete illustration of compounding available.

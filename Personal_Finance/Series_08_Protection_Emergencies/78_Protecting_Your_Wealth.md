@@ -1,17 +1,12 @@
 # Protecting Your Wealth
-## Insurance, Liability, and Asset Protection Strategies
 
 **Series 8: Protection & Emergencies — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Insurance, Liability, and Asset Protection Strategies
 
 ### Prologue
 Isabel spent 25 years building her financial position. She started with $18,000 in savings and a salary that barely covered her expenses. Through consistent saving, disciplined investing, and avoiding major financial mistakes, she reached her early 50s with a net worth approaching $400,000 — her retirement account, her home equity, and her smaller taxable investment account.

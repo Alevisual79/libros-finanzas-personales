@@ -1,17 +1,12 @@
 # Fear of Money
-## The Emotion That Blocks Financial Progress
 
 **Series 1: Financial Mindset — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Emotion That Blocks Financial Progress
 
 ### Prologue
 Isabel has a specific ritual for dealing with financial mail. She picks it up from the mailbox, puts it on the kitchen counter, and leaves it there. Sometimes for a week. Sometimes longer. She doesn't throw it away — that would feel irresponsible — and she doesn't open it right away, because opening it would require being prepared to deal with whatever's inside.

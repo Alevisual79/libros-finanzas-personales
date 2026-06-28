@@ -1,17 +1,12 @@
 # Superar el Miedo a Emprender
-## Cómo arrancar aunque tu cabeza diga que no es el momento
 
 **Serie 01: Mentalidad Emprendedora — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo arrancar aunque tu cabeza diga que no es el momento
 
 ### Prólogo
 Carlos lleva dos años con la idea en la cabeza y nueve meses con el plan en el cajón. No le falta inteligencia ni preparación: tiene un MBA, cinco años de experiencia en su sector, y un mercado que ha estudiado más que la mayoría. Lo que le falta es la capacidad de dar el paso a pesar del miedo. Lucia sabía que tenía que contratar a su primer empleado hace un año pero el miedo a delegar mal, a no poder pagar la nómina, a perder el control de la calidad la había paralizado. Marcos tenía claridad sobre lo que quería construir pero el miedo al juicio de sus colegas corporativos que pudieran pensar que había cometido un error dejando la seguridad del salario le frenaba. Los tres tienen miedo. Este libro es sobre como seguir adelante a pesar de el.

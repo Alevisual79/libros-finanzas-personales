@@ -1,7 +1,5 @@
 # Medicina convencional y alternativa: Lo que funciona de cada una
 
-## Sin dogmas, con evidencia: cómo navegar el panorama de la salud moderna
-
 **Serie Salud y Bienestar — Serie 10: Salud Integrativa — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Sin dogmas, con evidencia: cómo navegar el panorama de la salud moderna
 
 ### Prólogo: La consulta dividida
 

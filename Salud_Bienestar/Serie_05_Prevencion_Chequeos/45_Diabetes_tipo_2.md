@@ -1,7 +1,5 @@
 # Diabetes tipo 2: La epidemia que podemos frenar
 
-## Prevención, diagnóstico precoz y control sin fatalismo — porque la diabetes tipo 2 no es inevitable
-
 **Serie Salud y Bienestar — Serie 5: Prevención y Chequeos — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Prevención, diagnóstico precoz y control sin fatalismo — porque la diabetes tipo 2 no es inevitable
 
 ### Prólogo: La enfermedad que avanza sin avisar
 

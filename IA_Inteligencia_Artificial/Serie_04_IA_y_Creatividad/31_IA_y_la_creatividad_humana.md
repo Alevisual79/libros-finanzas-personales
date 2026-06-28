@@ -1,17 +1,12 @@
 # IA y la creatividad humana
-## Por qué la maquina que crea no elimina al creador
 
 **Serie 4: IA y Creatividad — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué la maquina que crea no elimina al creador
 
 ### Prólogo
 Elena, Ruben e Isabel se reunieron para hablar de un tema que les preocupaba a los tres por razones distintas: la creatividad en la era de la IA.

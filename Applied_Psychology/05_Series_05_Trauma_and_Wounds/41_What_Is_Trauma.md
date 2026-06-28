@@ -1,17 +1,12 @@
 # What Is Trauma
-## Understanding the Invisible Wound That Shapes Your Life
 
 **Series 5: Trauma and Wounds — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding the Invisible Wound That Shapes Your Life
 
 ### Prologue
 For as long as she could remember, certain situations produced in Nina a response she couldn't explain. A raised voice — any raised voice, including one of warm surprise — made her flinch. Conflict at work produced a level of anxiety that she knew, intellectually, was disproportionate to the situation. She had difficulty trusting people she genuinely liked. She slept lightly and startled easily. She had explained these traits to herself as personality: she was sensitive, she was anxious, she was "just like that." What she had not considered was that they might be the legible residue of something that had happened to her — that what she experienced as personality might more accurately be understood as adaptation.

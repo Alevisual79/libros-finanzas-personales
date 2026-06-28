@@ -1,7 +1,5 @@
 # Urgente vs. Importante: La matriz que te salva
 
-## La herramienta de Eisenhower explicada de verdad
-
 **Serie Productividad y Éxito — Serie 2: Gestión del Tiempo — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La herramienta de Eisenhower explicada de verdad
 
 ### Prólogo: El presidente que tenía que elegir
 

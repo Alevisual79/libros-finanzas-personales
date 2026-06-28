@@ -1,17 +1,12 @@
 # El Efecto de los Demás en Tu Comportamiento
-## Como el entorno social moldea lo que haces
 
 **Serie 09: psicología Social e Influencia — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como el entorno social moldea lo que haces
 
 ### Prólogo
 Ruben se comporta de forma diferente cuando esta con sus amigos del colegio que cuando esta en una reunión de trabajo. Elena trabaja de forma diferente cuando esta sola en casa que cuando esta en la oficina con sus colegas. Isabel ha notado que los mismos empleados rinden de formas muy diferentes dependiendo del equipo al que pertenecen, del líder que tienen, y del entorno físico donde trabajan. Ninguno de ellos es inconsistente o falso: estan respondiendo a lo que la psicología social llama el poder de la situación. Este libro es sobre ese poder: como el entorno social moldea el comportamiento de formas que frecuentemente sobrepasan el carácter individual, y como usar ese conocimiento para diseñar mejores contextos para ti y para los que te rodean.

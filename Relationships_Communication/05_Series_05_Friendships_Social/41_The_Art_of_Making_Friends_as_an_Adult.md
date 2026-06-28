@@ -1,17 +1,12 @@
 # The Art of Making Friends as an Adult
-## Why it's harder after 30 and how to do it anyway
 
 **Series 5: Friendships and Social Relationships — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why it's harder after 30 and how to do it anyway
 
 ### Prologue
 Jordan had moved to Toronto at thirty-four for a job that represented, professionally, exactly what he had been working toward for seven years. Personally, it represented something he had underestimated: the specific experience of being new in a city where everyone else had already assembled their lives.

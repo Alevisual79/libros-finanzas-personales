@@ -1,17 +1,12 @@
 # Desconexion Digital Intencional
-## Como recuperar la presencia en un mundo de notificaciones
 
 **Serie 10: Relaciones en la Era Digital — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como recuperar la presencia en un mundo de notificaciones
 
 ### Prólogo
 Ruben ha revisado su móvil cuarenta veces mientras leía este mismo libro, un dato que el registro de tiempo de pantalla de su dispositivo le revela con precisión incomoda. No fue por ninguna necesidad real de información urgente. Fue, simplemente, hábito automático, un patron tan profundamente instalado que ocurre sin que la decisión consciente de revisar el teléfono llegue siquiera a formarse antes de la acción misma.

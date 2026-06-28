@@ -1,17 +1,12 @@
 # Joints and the Years
-## Understanding and Managing Joint Health as You Age
 
 **Series 7: Longevity and Aging — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Managing Joint Health as You Age
 
 ### Prologue
 Joint pain is one of the most common complaints in adults over 40 — and one of the most common reasons people stop exercising, reduce activity, and begin a spiral of deconditioning that accelerates aging. The misconception that joint pain is an inevitable consequence of aging and that "rest is best" for painful joints has caused substantial harm. Most joint pain is manageable, most activity is beneficial, and the trajectory of joint health is substantially within individual influence.

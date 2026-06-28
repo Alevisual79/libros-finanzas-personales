@@ -1,7 +1,5 @@
 # Alto rendimiento sostenible
 
-## La diferencia entre exprimir y desarrollar
-
 **Serie Productividad y Éxito — Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La diferencia entre exprimir y desarrollar
 
 ### Prólogo: El maratonista y el velocista
 

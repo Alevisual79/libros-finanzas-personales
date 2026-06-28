@@ -1,17 +1,12 @@
 # When Love Hurts
-## Distinguishing difficult love from emotional abuse
 
 **Series 9: Boundaries and Toxic Relationships — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Distinguishing difficult love from emotional abuse
 
 ### Prologue
 Camille had a question she had been circling for months without quite landing on it, and the question was: was this abuse?

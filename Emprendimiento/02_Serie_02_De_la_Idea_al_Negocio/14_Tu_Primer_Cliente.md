@@ -1,17 +1,12 @@
 # Tu Primer Cliente
-## El paso más importante y más ignorado del emprendimiento
 
 **Serie 02: De la Idea al Negocio — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El paso más importante y más ignorado del emprendimiento
 
 ### Prólogo
 Carlos ha lanzado su página web, ha abierto perfiles en todas las redes sociales, ha diseñado su logo, ha escrito su plan de negocio, y lleva tres meses sin haber hablado con un solo cliente potencial. Lucia tuvo su primer cliente en la semana tres, no porque tuviera un producto perfecto sino porque fue a buscarlo en lugar de esperar a que llegará. Marcos tiene veinte años de relaciones profesionales y todavía no ha aprovechado ninguna para conseguir su primer cliente porque siente que pedirle a sus contactos que le compren algo le pone en una posición incomoda. El primer cliente no llega solo. Hay que ir a buscarlo. Y el proceso de buscarlo es el proceso que más directamente enseña si el negocio tiene futuro.

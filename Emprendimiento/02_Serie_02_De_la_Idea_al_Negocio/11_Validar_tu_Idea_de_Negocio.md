@@ -1,17 +1,12 @@
 # Validar tu Idea de Negocio
-## Como saber si tu idea tiene mercado antes de invertir todo
 
 **Serie 02: De la Idea al Negocio — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como saber si tu idea tiene mercado antes de invertir todo
 
 ### Prólogo
 Carlos lleva seis meses trabajando en su producto antes de hablar con un solo cliente potencial. Lucia tiene una idea que le parece brillante y que tres amigos le han dicho que es brillante también. Marcos ha invertido sus ahorros en desarrollar una plataforma tecnologica para un mercado que asume que existe. Los tres estan en el punto más peligroso del emprendimiento: enamorados de su idea antes de saber si el mercado la quiere. La mayoría de los fracasos emprendedores no ocurren porque el fundador sea poco inteligente o poco trabajador. Ocurren porque el producto se construye antes de validar que hay suficiente gente dispuesta a pagar por el. Este libro es sobre como saber si tu idea tiene mercado antes de invertir todo lo que tienes.

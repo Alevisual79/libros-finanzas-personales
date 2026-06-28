@@ -1,7 +1,5 @@
 # El plan financiero personal: Juntarlo todo
 
-## Cómo integrar los 5 pilares en un plan de vida real
-
 **Serie Finanzas Personales — Serie 10: Impuestos y Patrimonio — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo integrar los 5 pilares en un plan de vida real
 
 ### Prólogo: El último libro y el primero
 

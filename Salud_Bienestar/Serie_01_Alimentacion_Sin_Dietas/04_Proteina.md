@@ -1,7 +1,5 @@
 # Proteína: el nutriente que todos subestiman
 
-## Por qué comer más proteína lo cambia todo
-
 **Serie Salud y Bienestar — Serie 1: Alimentación Sin Dietas — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué comer más proteína lo cambia todo
 
 ### Prólogo: El nutriente más ignorado en las dietas populares
 

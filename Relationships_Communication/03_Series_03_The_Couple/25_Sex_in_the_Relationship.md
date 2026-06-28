@@ -1,17 +1,12 @@
 # Sex in the Relationship
-## How to maintain intimate connection over time
 
 **Series 3: The Couple — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to maintain intimate connection over time
 
 ### Prologue
 Isabelle had read, in her forties, that the average long-term couple has sex approximately once a week in their thirties and approximately once a month in their sixties, with the trajectory between those points generally declining. The statistic had not surprised her. What had surprised her was the degree to which the conversation about the decline — the actual, honest conversation between her and her husband about what was happening and why and what, if anything, either of them wanted to do about it — had been missing from their marriage for several years.

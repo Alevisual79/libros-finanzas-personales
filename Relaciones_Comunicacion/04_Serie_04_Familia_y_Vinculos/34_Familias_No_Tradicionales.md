@@ -1,17 +1,12 @@
 # Familias No Tradicionales
-## Cómo funcionar bien en estructuras familiares diversas
 
 **Serie 04: Familia y Vínculos — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo funcionar bien en estructuras familiares diversas
 
 ### Prólogo
 La familia nuclear con madre, padre e hijos biológicos viviendo juntos hasta la edad adulta es hoy, estadisticamente, minoria en muchas sociedades occidentales. Familias monoparentales, reconstituidas, homoparentales, de acogida, y comunidades de elección conviven y prosperan con la misma legitimidad, aunque a menudo sin las herramientas y guiones sociales que existen para la familia tradicional.

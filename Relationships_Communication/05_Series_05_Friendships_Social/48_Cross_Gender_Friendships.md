@@ -1,17 +1,12 @@
 # Cross-Gender Friendships
-## The complexities of mixed-gender friendships
 
 **Series 5: Friendships and Social Relationships — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The complexities of mixed-gender friendships
 
 ### Prologue
 Jordan and Priya had met at a professional event six months after Jordan had moved to Toronto. They had ended up in the same conversation group and had talked, unexpectedly, for most of the evening — about their respective work, about the city, about the specific experience of building a life in a place that doesn't yet know you. Priya had given him recommendations for the neighborhoods he hadn't yet discovered. He had made her laugh twice.

@@ -1,17 +1,12 @@
 # Productividad del Emprendedor
-## Cómo hacer más de lo que importa y menos de lo que no importa
 
 **Serie 01: Mentalidad Emprendedora — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo hacer más de lo que importa y menos de lo que no importa
 
 ### Prólogo
 Carlos trabaja doce horas al dia y siente que no avanza. Lucia trabaja ocho horas bien organizadas y su negocio crece más rápido que el de la mayoría de sus competidores que trabajan más que ella. Marcos viene de un entorno corporativo donde la productividad se media en horas de presencia y ha tenido que reinventar completamente su relación con el tiempo y el trabajo. Los tres han tenido que aprender la diferencia entre estar ocupado y ser productivo: una distinción que en el empleo muchas veces no importa (el empleado que parece ocupado es percibido como buen empleado), pero que en el emprendimiento es la diferencia entre el negocio que crece y el que se consume en actividades sin retorno.

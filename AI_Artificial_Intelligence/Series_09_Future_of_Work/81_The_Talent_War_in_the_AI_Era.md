@@ -1,17 +1,12 @@
 # The Talent War in the AI Era
-## What Companies Are Really Looking For
 
 **Series 9: Future of Work — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Companies Are Really Looking For
 
 ### Prologue
 Isabel had three open positions she could not fill — not because the candidates were unqualified by traditional measures, but because none of them had the AI fluency the roles required. The job descriptions had not been updated. The market had.

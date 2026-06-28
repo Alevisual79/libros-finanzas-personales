@@ -1,17 +1,12 @@
 # Relational Grief
-## How to close the cycle of a lost relationship
 
 **Series 8: Repair and Heal — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to close the cycle of a lost relationship
 
 ### Prologue
 Elena had not expected the grief to be this large.

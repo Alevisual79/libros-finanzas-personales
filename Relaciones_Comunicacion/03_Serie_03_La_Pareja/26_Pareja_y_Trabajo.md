@@ -1,17 +1,12 @@
 # Pareja y Trabajo
-## Cómo construir una carrera y una relación sin que una destruya a la otra
 
 **Serie 03: La Pareja — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir una carrera y una relación sin que una destruya a la otra
 
 ### Prólogo
 Isabel dirige el departamento de recursos humanos de una empresa mediana. Su pareja es consultor independiente con jornadas que se extienden hasta la noche. Entre los dos, hay semanas en que se ven menos de tres horas despiertas juntos. Aman su trabajo. Aman su relación. Y no saben como tener las dos cosas al mismo tiempo sin que alguna se resienta.

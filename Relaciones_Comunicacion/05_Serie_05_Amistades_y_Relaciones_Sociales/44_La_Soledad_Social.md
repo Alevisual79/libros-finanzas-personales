@@ -1,17 +1,12 @@
 # La Soledad Social
-## Como salir del aislamiento aunque estes rodeado de gente
 
 **Serie 05: Amistades y Relaciones Sociales — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como salir del aislamiento aunque estes rodeado de gente
 
 ### Prólogo
 Elena asiste a treinta eventos de networking al año. Conoce a cientos de personas. Tiene cientos de contactos en LinkedIn. Y se siente sola la mayor parte del tiempo. La soledad moderna, descubre, no tiene que ver con cuanta gente hay cerca físicamente. Tiene que ver con la calidad de las conexiones que esa cercania produce.

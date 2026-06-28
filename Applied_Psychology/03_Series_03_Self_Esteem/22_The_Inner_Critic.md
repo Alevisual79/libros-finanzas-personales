@@ -1,17 +1,12 @@
 # The Inner Critic
-## Understanding and Quieting the Voice of Self-Judgment
 
 **Series 3: Self-Esteem and Self-Image — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Quieting the Voice of Self-Judgment
 
 ### Prologue
 Valeria had two voices. One of them said reasonable things in a reasonable tone — what to cook for dinner, when to call her mother, how to frame a proposal to her team. The other voice was less reasonable and never quiet: it noticed when she said the slightly wrong thing in a meeting and replayed it for hours afterward; it compared her to a colleague who had published more and concluded, briefly but repeatably, that she was falling behind; it monitored her face in the bathroom mirror and made specific observations she did not invite. This second voice was very familiar — she had known it so long that she had difficulty distinguishing between what it said and what she thought. The psychological literature had a name for it. Her therapist gave it to her: the inner critic.

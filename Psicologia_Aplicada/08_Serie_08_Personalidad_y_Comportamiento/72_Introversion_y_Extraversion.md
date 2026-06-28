@@ -1,17 +1,12 @@
 # Introversión y Extraversión
-## Entender y optimizar tu forma de relacionarte con el mundo
 
 **Serie 08: Personalidad y Comportamiento — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entender y optimizar tu forma de relacionarte con el mundo
 
 ### Prólogo
 Ruben es introvertido en un mundo que valora la extraversión. Sus reuniones de trabajo le agotan de una forma que parece no ocurrirle a sus colegas. Las fiestas le producen una incomodidad que compensa actuando de forma más sociable de lo que se siente. Y sin embargo, en conversaciones uno a uno, con las personas adecuadas, en el contexto adecuado, puede ser profundo, conectado, y vibrante. Este libro es sobre la introversión y la extraversión: lo que son, lo que no son, y como usar el conocimiento de dónde se situa uno en esa dimensión para construir una vida que sea sostenible y que permita el florecimiento.

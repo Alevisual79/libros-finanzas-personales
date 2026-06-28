@@ -1,17 +1,12 @@
 # Dopamine and Distraction
-## The neuroscience of why you can't stop checking your phone — and what to do about it
 
 **Series 3: Focus and Concentration — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The neuroscience of why you can't stop checking your phone — and what to do about it
 
 ### Prologue
 Camila had a ritual she did not choose and could not explain. She would set her phone on her desk face-down — a deliberate act of distraction management — and return to her work. Within seven minutes, on average, she would find herself reaching for the phone without any conscious decision to do so. She would not have been aware of wanting to check it. She would simply find it in her hand.

@@ -1,17 +1,12 @@
 # SEO para Negocios
-## Como aparecer en Google cuando tus clientes te buscan
 
 **Serie 04: Negocio Digital — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como aparecer en Google cuando tus clientes te buscan
 
 ### Prólogo
 Carlos tiene un negocio online que no aparece en Google. Sus potenciales clientes buscan exactamente lo que el ofrece y el no aparece en ninguna de las búsquedas relevantes. Lucia tiene un blog con cien artículos que no genera trafico orgánico porque ninguno está optimizado para las búsquedas que su audiencia hace. Marcos tiene una web profesional con un buen diseño que aparece en la página tres de Google para las búsquedas de su tipo de servicio. Los tres comparten el mismo problema: tienen un activo digital que no está generando el trafico orgánico que podría. El SEO no es un lujo para empresas grandes. Es la herramienta que hace que el negocio sea visible para las personas que ya lo estan buscando.

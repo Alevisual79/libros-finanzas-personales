@@ -1,7 +1,5 @@
 # Padres mayores y dependencia económica
 
-## Cuando tienes que ayudar a tus padres y a tus hijos al mismo tiempo
-
 **Serie Finanzas Personales — Serie 7: Dinero en Pareja y Familia — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cuando tienes que ayudar a tus padres y a tus hijos al mismo tiempo
 
 ### Prólogo: El sándwich de Don Alberto
 

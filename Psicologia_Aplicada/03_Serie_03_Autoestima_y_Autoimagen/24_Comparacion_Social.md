@@ -1,17 +1,12 @@
 # Comparación Social
-## Como dejar de medirte con los demás y empezar a medirte contigo mismo
 
 **Serie 03: Autoestima y Autoimagen — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como dejar de medirte con los demás y empezar a medirte contigo mismo
 
 ### Prólogo
 Ruben tiene treinta y tantos años y siente que su vida va atrasada. No porque sus circunstancias sean objetivamente malas (tiene trabajo, tiene relaciones, tiene salud). Sino porque cuando las compara con las de personas de su misma edad, parece que todos han llegado más lejos, tienen más, y estan más seguros de dónde van. Esta sensación de retraso relativo, que no tiene ninguna base en necesidades concretas incumplidas sino en la diferencia entre su posición y la de otros, es el producto de la comparación social. Y es una de las formas más eficaces de hacerse miserable independientemente de lo que se tenga.

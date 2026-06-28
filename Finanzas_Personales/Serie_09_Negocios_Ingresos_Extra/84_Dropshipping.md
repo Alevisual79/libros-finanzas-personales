@@ -1,7 +1,5 @@
 # Dropshipping sin los engaños de los gurús
 
-## Lo que funciona de verdad, lo que no, y cómo no perder dinero en el intento
-
 **Serie Finanzas Personales — Serie 9: Negocios e Ingresos Extra — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que funciona de verdad, lo que no, y cómo no perder dinero en el intento
 
 ### Prólogo: Felipe durante el desempleo
 

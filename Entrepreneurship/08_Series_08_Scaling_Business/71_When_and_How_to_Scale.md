@@ -1,17 +1,12 @@
 # When and How to Scale
-## The decision framework for moving from a good small business to a great big one
 
 **Series 08: Scaling Business — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The decision framework for moving from a good small business to a great big one
 
 ### Prologue
 By her seventh year of running an executive search firm for healthcare companies, Sophia had built something genuinely excellent: a team of six, a deep network of relationships across hospital systems and medical device companies, a methodology that produced placed candidates who stayed at higher rates than industry averages, and annual revenue of $2.4 million. Every year for the past four years, she had asked herself the same question: should she scale?

@@ -1,7 +1,5 @@
 # Entorno saludable sin fuerza de voluntad
 
-## Diseñar tu vida para que las buenas decisiones sean las más fáciles y las malas las más difíciles
-
 **Serie Salud y Bienestar — Serie 6: Hábitos y Rutinas — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Diseñar tu vida para que las buenas decisiones sean las más fáciles y las malas las más difíciles
 
 ### Prólogo: El supermercado más inteligente que tú
 

@@ -1,17 +1,12 @@
 # Tu Cerebro en el Futuro
-## Como la tecnología y la ciencia cambiaran la mente humana
 
 **Serie 01: Como Funciona Tu Mente — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como la tecnología y la ciencia cambiaran la mente humana
 
 ### Prólogo
 Isabel tiene cincuenta y dos años y ha vivido la transición de un mundo sin internet a uno donde la inteligencia artificial puede escribir código, diagnosticar enfermedades y mantener conversaciones convincentes. Sus hijos viven en una realidad digital que ella solo entiende parcialmente. Sus padres viven en una realidad que ella ya no reconoce cómo la suya. En menos de treinta años, la relación del cerebro humano con la tecnología, con el conocimiento y con lo que significa ser inteligente ha cambiado más que en los mil años anteriores. Y según todas las proyecciones, el ritmo de cambio se está acelerando.

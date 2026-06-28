@@ -1,17 +1,12 @@
 # Professional Reinvention
-## The research and practice of successful career transformation
 
 **Series 10: Purpose and Long-Term Success — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The research and practice of successful career transformation
 
 ### Prologue
 The career as a single, continuous trajectory — the organization entered at twenty-two and the retirement from at sixty-five, with a single professional identity maintained throughout — is no longer the dominant career form, and has not been for at least two decades. The research on contemporary career patterns finds that the average professional changes their primary professional role multiple times across their working life, that an increasing proportion make at least one substantial career reinvention (a change of field, function, or professional identity), and that the forces driving this pattern — technological change, organizational restructuring, the extension of healthy working life, and the evolution of individual values across the adult lifespan — are accelerating rather than reversing.

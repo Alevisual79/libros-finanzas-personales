@@ -1,17 +1,12 @@
 # Exclusividad y Compromiso
-## Como hablar de que es esto y hacía donde vamos
 
 **Serie 07: Citas y Amor Romantico — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como hablar de que es esto y hacía donde vamos
 
 ### Prólogo
 Elena lleva tres meses con alguien y no sabe si son pareja o no. Se ven varias veces a la semana, han conocido a algunos amigos del otro, comparten una intimidad creciente. Pero ninguno de los dos ha preguntado directamente que es esto. Los dos tienen miedo de romper algo que se siente bien, sin saber que esa misma evitación es lo que eventualmente podría romperlo, por la ansiedad acumulada de la incertidumbre no resuelta.

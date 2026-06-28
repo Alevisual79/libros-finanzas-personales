@@ -1,7 +1,5 @@
 # Influencia sin autoridad
 
-## Cómo conseguir que la gente haga cosas cuando no eres su jefe
-
 **Serie Productividad y Éxito — Serie 5: Comunicación y Relaciones Profesionales — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo conseguir que la gente haga cosas cuando no eres su jefe
 
 ### Prólogo: Elena necesitaba ayuda que no podía exigir
 

@@ -1,17 +1,12 @@
 # The Comparison Trap
-## How to stop measuring your worth against others — and what to measure instead
 
 **Series 1: Mindset and Beliefs — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to stop measuring your worth against others — and what to measure instead
 
 ### Prologue
 Diego opened LinkedIn every morning. He wasn't entirely sure why — the practice had become reflexive, sandwiched between turning off his alarm and making coffee. What he found, every morning, was evidence that everyone around him was advancing faster than he was. A peer's promotion announcement. A former classmate's startup funding. Someone younger with an impressive new title. A conference speaking opportunity that someone he didn't know had secured.

@@ -1,17 +1,12 @@
 # El Método LANZAR
-## Lo que las escuelas de negocio no te enseñan sobre emprender
 
 **Libro Madre — Colección Emprendimiento**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que las escuelas de negocio no te enseñan sobre emprender
 
 ### Prólogo
 Elena quiere crear su propia startup pero sigue esperando el momento perfecto. Rubén ya trabaja por su cuenta pero no sabe cómo escalar lo que hace. Isabel lleva veinte años pensando en abrir su propio negocio y siempre aparece una razón para no hacerlo.

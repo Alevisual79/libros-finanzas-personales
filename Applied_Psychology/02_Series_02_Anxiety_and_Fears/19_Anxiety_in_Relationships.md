@@ -1,17 +1,12 @@
 # Anxiety in Relationships
-## How Fear Affects Connection and How to Reclaim It
 
 **Series 2: Anxiety and Fears — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Fear Affects Connection and How to Reclaim It
 
 ### Prologue
 From the outside, Marta and Jorge looked like a solid couple. Fourteen years together, two children, a shared home. From the inside, Marta spent a disproportionate amount of energy trying to determine, in any given interaction, what Jorge was thinking and whether it boded well or ill for the relationship. A distracted response to her text meant he was pulling away. A cancelled plan meant he was losing interest. A kind gesture meant something was wrong and he was compensating. She interpreted the relationship constantly, and the interpretation was almost always anxious, almost always in the direction of threat. Jorge found this exhausting. Marta found it unavoidable. Neither of them fully understood why it was happening or what to do about it.

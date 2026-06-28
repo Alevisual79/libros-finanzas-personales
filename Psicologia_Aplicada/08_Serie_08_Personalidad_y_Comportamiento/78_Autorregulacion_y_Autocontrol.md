@@ -1,17 +1,12 @@
 # Autorregulación y Autocontrol
-## Como tomar decisiones alineadas con quien quieres ser
 
 **Serie 08: Personalidad y Comportamiento — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como tomar decisiones alineadas con quien quieres ser
 
 ### Prólogo
 Elena sabe exactamente lo que debería comer. Lo que pasa cuando llega al buffet libre es otra cosa. Isabel sabe que debería apagar el ordenador a las seis de la tarde. Las siete llega y todavía está trabajando. Ruben sabe que debería guardar el dinero del extra de este mes. En lugar de eso lo ha gastado en tres cosas que no necesitaba. Los tres tienen el mismo problema: la brecha entre la versión de si mismos que sabe lo que quiere hacer y la versión que en el momento concreto hace algo diferente. Esa brecha es el territorio de la autorregulación, y la ciencia del comportamiento tiene mucho que decir sobre como reducirla sin que eso requiera convertirse en una persona diferente.

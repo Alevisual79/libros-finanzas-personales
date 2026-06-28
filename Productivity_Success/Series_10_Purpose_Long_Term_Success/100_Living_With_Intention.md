@@ -1,17 +1,12 @@
 # Living With Intention
-## The practice of the deliberate life, and the completion of a professional journey
 
 **Series 10: Purpose and Long-Term Success — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The practice of the deliberate life, and the completion of a professional journey
 
 ### Prologue
 One hundred books. One hundred specific, research-grounded explorations of the practices, the capabilities, the relationships, and the purposes that professional excellence and personal flourishing require. The collection you have been reading — or that is now complete on your shelf, or your reading list, or the device you carry — has been a sustained attempt to provide the evidential foundation and the practical framework for the professional life that is worth living: the one that is excellent without being unsustainable, that is ambitious without sacrificing what makes the ambition worthwhile, that is purposeful without being naive about the material and practical requirements of a professional life in the real world.

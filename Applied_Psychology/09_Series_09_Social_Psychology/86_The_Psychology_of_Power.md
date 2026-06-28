@@ -1,17 +1,12 @@
 # The Psychology of Power
-## How Power Changes People — and What This Means for All of Us
 
 **Series 9: Social Psychology and Influence — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Power Changes People — and What This Means for All of Us
 
 ### Prologue
 The philosopher Acton's aphorism — "power tends to corrupt, and absolute power corrupts absolutely" — is among the most quoted observations in political philosophy and one of the least carefully examined in its psychological claims. Does power actually corrupt? If so, through what mechanisms? And is the corruption the property of specific individuals, or is it a predictable consequence of the psychological effects of power on virtually anyone who experiences it?

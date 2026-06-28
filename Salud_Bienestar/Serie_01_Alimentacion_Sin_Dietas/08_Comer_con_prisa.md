@@ -1,7 +1,5 @@
 # Comer con prisa en el mundo moderno
 
-## Nutrición real para personas ocupadas: el sistema que funciona sin horas en la cocina
-
 **Serie Salud y Bienestar — Serie 1: Alimentación Sin Dietas — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Nutrición real para personas ocupadas: el sistema que funciona sin horas en la cocina
 
 ### Prólogo: La excusa del tiempo
 

@@ -1,7 +1,5 @@
 # Alquiler vacacional: Airbnb y alternativas
 
-## Rentabilizar un inmueble al máximo con el menor dolor de cabeza
-
 **Serie Finanzas Personales — Serie 9: Negocios e Ingresos Extra — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Rentabilizar un inmueble al máximo con el menor dolor de cabeza
 
 ### Prólogo: La plaza de garaje de Don Alberto
 

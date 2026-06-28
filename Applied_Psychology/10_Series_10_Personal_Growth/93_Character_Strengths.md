@@ -1,17 +1,12 @@
 # Character Strengths
-## Understanding and Using What Is Best in You
 
 **Series 10: Personal Growth — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Using What Is Best in You
 
 ### Prologue
 The man who would become one of the most influential figures in positive psychology, Martin Seligman, has described a moment in his garden in 1998 when his five-year-old daughter Nikki — annoyed at being ignored while he weeded — told him that she had decided to stop whining on her fifth birthday, and asked him why, if she could do that, he couldn't stop being grumpy. The exchange struck Seligman with force: the discipline of psychology, he recognized in that moment, had focused almost exclusively on the repair of deficiency. It had almost nothing to say about the development of what was already good.

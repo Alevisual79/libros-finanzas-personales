@@ -1,7 +1,5 @@
 # La mentalidad de crecimiento
 
-## Por qué algunas personas mejoran con cada obstáculo y otras se rinden
-
 **Serie Productividad y Éxito — Serie 1: Mentalidad y Creencias — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué algunas personas mejoran con cada obstáculo y otras se rinden
 
 ### Prólogo: Dos formas de recibir la misma crítica
 

@@ -1,7 +1,5 @@
 # El agua que bebes
 
-## Hidratación, calidad del agua, y los mitos del agua alcalina, el agua estructurada y más
-
 **Serie Salud y Bienestar — Serie 9: Entorno y Estilo de Vida — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Hidratación, calidad del agua, y los mitos del agua alcalina, el agua estructurada y más
 
 ### Prólogo: Las botellas de Miguel
 

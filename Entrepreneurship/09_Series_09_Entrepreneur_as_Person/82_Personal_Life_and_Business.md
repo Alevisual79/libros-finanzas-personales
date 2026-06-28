@@ -1,17 +1,12 @@
 # Personal Life and Business
-## Integrating entrepreneurship with the rest of who you are
 
 **Series 09: Entrepreneur as Person — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Integrating entrepreneurship with the rest of who you are
 
 ### Prologue
 When her business coach asked Alicia to describe a typical week, the answer that emerged was more revealing than she had expected. Six days of work: client calls, team meetings, proposal writing, business development, financial review, product development. Sunday: three hours in the morning dedicated to the business emails and planning that had accumulated during the week, then family time. Evenings: typically available for work, with phone accessible, notifications on.

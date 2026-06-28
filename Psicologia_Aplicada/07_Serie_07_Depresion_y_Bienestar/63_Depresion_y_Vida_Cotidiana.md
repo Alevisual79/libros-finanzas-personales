@@ -1,17 +1,12 @@
 # Depresión y Vida Cotidiana
-## Cómo funcionar cuando la depresión dificulta todo
 
 **Serie 07: Depresión y Bienestar Mental — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo funcionar cuando la depresión dificulta todo
 
 ### Prólogo
 Elena esta en tratamiento. Su psicologa le ayuda. Pero entre sesiones, hay una vida que vivir: un trabajo que requiere su atención, responsabilidades que no esperan a que se sienta mejor, decisiones que tomar, relaciones que mantener. La psicoterapia ayuda a cambiar los patrones; pero el dia a dia sigue siendo el dia a dia. Este libro es sobre como navegar la vida cotidiana cuando la depresión la hace más difícil, no para reemplazar el tratamiento sino para hacer la vida entre sesiones más manejable.

@@ -1,17 +1,12 @@
 # Teaching AI Literacy
-## The New Essential Skill for Every Curriculum
 
 **Series 8: AI and Education — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The New Essential Skill for Every Curriculum
 
 ### Prologue
 Elena's 12-year-old cousin had better AI tool skills than most adults she worked with. He had no understanding of how any of it worked. The skills were real. The literacy was absent. The combination is dangerous.

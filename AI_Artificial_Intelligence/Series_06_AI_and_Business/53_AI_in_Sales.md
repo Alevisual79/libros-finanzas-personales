@@ -1,17 +1,12 @@
 # AI in Sales
-## Intelligent Pipelines and Relationship Management
 
 **Series 6: AI and Business — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Intelligent Pipelines and Relationship Management
 
 ### Prologue
 The sales rep who used AI for prospect research, email personalization, and pipeline forecasting outperformed her peers by 30% without working more hours. The difference was not talent — it was leverage.

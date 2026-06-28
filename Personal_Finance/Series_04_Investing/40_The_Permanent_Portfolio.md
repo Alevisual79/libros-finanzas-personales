@@ -1,17 +1,12 @@
 # The Permanent Portfolio
-## A Four-Asset Allocation for Uncertain Times
 
 **Series 4: Investing — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A Four-Asset Allocation for Uncertain Times
 
 ### Prologue
 Most investment advice is built around the idea that investors can forecast the future. Buy growth stocks because the economy will grow. Hold more bonds as you age because you'll need stability. Reduce exposure before recessions. Increase exposure before recoveries.

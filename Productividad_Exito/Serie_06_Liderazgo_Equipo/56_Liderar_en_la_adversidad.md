@@ -1,7 +1,5 @@
 # Liderar en la adversidad
 
-## Cómo mantener el rumbo cuando todo va mal
-
 **Serie Productividad y Éxito — Serie 6: Liderazgo y Trabajo en Equipo — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo mantener el rumbo cuando todo va mal
 
 ### Prólogo: La crisis que reveló al líder
 

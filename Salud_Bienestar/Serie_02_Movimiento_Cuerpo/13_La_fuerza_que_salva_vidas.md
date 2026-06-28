@@ -1,7 +1,5 @@
 # La fuerza que salva vidas
 
-## Por qué entrenar músculo es lo más importante que puedes hacer por tu salud a largo plazo
-
 **Serie Salud y Bienestar — Serie 2: Movimiento y Cuerpo — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué entrenar músculo es lo más importante que puedes hacer por tu salud a largo plazo
 
 ### Prólogo: El entrenamiento que la mayoría ignora
 

@@ -1,7 +1,5 @@
 # El interés compuesto explicado con ejemplos reales
 
-## La matemática que lo cambia todo y que el sistema educativo nunca te enseñó
-
 **Serie Finanzas Personales — Serie 4: Inversión desde Cero — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La matemática que lo cambia todo y que el sistema educativo nunca te enseñó
 
 ### Prólogo: El cálculo que dejó a Carlos sin palabras
 

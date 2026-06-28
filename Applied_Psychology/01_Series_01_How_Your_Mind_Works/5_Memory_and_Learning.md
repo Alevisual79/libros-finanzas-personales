@@ -1,17 +1,12 @@
 # Memory and Learning
-## How the Brain Acquires and Retains Knowledge
 
 **Series 1: How Your Mind Works — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How the Brain Acquires and Retains Knowledge
 
 ### Prologue
 James spent three hours the night before his licensing exam reviewing his notes, highlighter in hand, moving through each page with a sense of productive industry. The next morning, in the exam room, he found that critical concepts had simply evaporated — present enough during the review to feel familiar, absent when the test demanded active retrieval. He was baffled and devastated. What he didn't know was that what he had done the night before — passive re-reading, highlighting, massed studying in a single session — is among the least effective strategies for learning that cognitive science has studied. He had confused the feeling of learning with the fact of it.

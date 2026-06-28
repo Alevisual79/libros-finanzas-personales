@@ -1,17 +1,12 @@
 # The Brain That Ages
-## Protecting Cognitive Health Through the Decades
 
 **Series 7: Longevity and Aging — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Protecting Cognitive Health Through the Decades
 
 ### Prologue
 The fear of dementia is, for many people, the most significant fear about aging. More than a fear of death, more than a fear of physical dependence — the prospect of losing the self, the memories, the relationships, the capacity to think and communicate — represents an existential threat that deserves serious attention.

@@ -1,7 +1,5 @@
 # Pensamiento crítico
 
-## Cómo evaluar información, detectar sesgos y tomar mejores decisiones
-
 **Serie Productividad y Éxito — Serie 8: Aprendizaje y Desarrollo Personal — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo evaluar información, detectar sesgos y tomar mejores decisiones
 
 ### Prólogo: La reunión que cambio la dirección equivocada
 

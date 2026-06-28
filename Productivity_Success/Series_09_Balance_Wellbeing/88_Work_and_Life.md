@@ -1,17 +1,12 @@
 # Work and Life
-## Beyond balance: an integrated approach to the totality of professional and personal life
 
 **Series 9: Balance and Wellbeing — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Beyond balance: an integrated approach to the totality of professional and personal life
 
 ### Prologue
 The phrase "work-life balance" has become one of the most widely used and least precisely defined concepts in the contemporary professional vocabulary. It implies a scale on which work sits on one side and life sits on the other — a hydraulic model in which more work produces less life, and the equilibrium point is some specific allocation of time and energy between the two spheres. This model is intuitive, widely shared, and — on examination — significantly misleading.

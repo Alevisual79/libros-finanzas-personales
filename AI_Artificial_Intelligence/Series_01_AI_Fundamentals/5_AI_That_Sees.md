@@ -1,17 +1,12 @@
 # AI That Sees
-## Computer Vision and How Machines Perceive the World
 
 **Series 1: AI Fundamentals — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Computer Vision and How Machines Perceive the World
 
 ### Prologue
 Isabel approved a computer vision system for office access control without fully understanding what it meant to 'train' a facial recognition system on employee data. This book is what she wishes she had read first.

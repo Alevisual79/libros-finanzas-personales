@@ -1,17 +1,12 @@
 # Trauma and the Body
-## When the Body Keeps the Score
 
 **Series 5: Trauma and Wounds — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When the Body Keeps the Score
 
 ### Prologue
 For six years after the assault, Amara maintained that she was fine. She had not told many people what had happened. She had gone back to work within days. She was functional, organized, and by all visible measures, coping. She had also, since the assault, lived in a body that felt like a foreign country: hyperalert in any enclosed space, unable to be touched without tensing, cycling between profound exhaustion and inexplicable arousal that had no cognitive correlate. She had chronic back pain that three physiotherapists had been unable to explain. She startled at sounds that preceded any cognitive recognition of what she had heard. She had become, without intending to or understanding why, a person who lived from the neck up — managing the world with her mind while her body ran its own, parallel, alarmed program.

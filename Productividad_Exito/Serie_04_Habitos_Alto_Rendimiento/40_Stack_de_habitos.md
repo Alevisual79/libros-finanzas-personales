@@ -1,7 +1,5 @@
 # Stack de hábitos: Construir el día perfecto
 
-## Cómo encadenar hábitos para que funcionen automáticamente
-
 **Serie Productividad y Éxito — Serie 4: Hábitos de Alto Rendimiento — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo encadenar hábitos para que funcionen automáticamente
 
 ### Prólogo: El arquitecto del propio día
 

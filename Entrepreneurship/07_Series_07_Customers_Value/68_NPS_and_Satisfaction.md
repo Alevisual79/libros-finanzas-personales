@@ -1,17 +1,12 @@
 # NPS and Satisfaction
-## Measuring customer happiness — and turning the data into decisions
 
 **Series 07: Customers and Value — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Measuring customer happiness — and turning the data into decisions
 
 ### Prologue
 For three years, Alan ran his accounting software company's customer satisfaction measurement program the same way: an annual survey that asked customers to rate their satisfaction on a scale of one to ten across twelve different categories — ease of use, customer support, value for money, feature completeness, and more. The surveys generated rich data tables. He reviewed them at his quarterly board meetings. He knew that his customer support satisfaction score had improved from 7.4 to 7.8 over the past year.

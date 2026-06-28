@@ -1,7 +1,5 @@
 # El efecto bola de nieve
 
-## Cómo acelerar el pago de deudas con ingresos normales usando el momentum a tu favor
-
 **Serie Finanzas Personales — Serie 2: Deuda Cero — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo acelerar el pago de deudas con ingresos normales usando el momentum a tu favor
 
 ### Prólogo: La física de la deuda
 

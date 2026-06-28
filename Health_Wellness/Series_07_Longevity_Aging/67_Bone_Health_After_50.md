@@ -1,17 +1,12 @@
 # Bone Health After 50
-## Preventing Osteoporosis and the Fractures That Change Lives
 
 **Series 7: Longevity and Aging — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Preventing Osteoporosis and the Fractures That Change Lives
 
 ### Prologue
 A hip fracture in a person over 75 has a 30% mortality rate within one year. A vertebral fracture significantly impairs quality of life, lung function, and mobility. Osteoporosis — the progressive loss of bone density that precedes fractures — is largely silent until it isn't: until the fall that breaks the hip, or the sneeze that fractures a vertebra.

@@ -1,7 +1,5 @@
 # Trabajo, salud y límites
 
-## El impacto del trabajo en el cuerpo y la mente, y cómo construir límites que protejan tu salud
-
 **Serie Salud y Bienestar — Serie 9: Entorno y Estilo de Vida — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El impacto del trabajo en el cuerpo y la mente, y cómo construir límites que protejan tu salud
 
 ### Prólogo: El domingo por la tarde
 

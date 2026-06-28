@@ -1,7 +1,5 @@
 # Libertad financiera con sueldo medio
 
-## No hace falta ganar 10.000€ al mes para alcanzar la independencia financiera
-
 **Serie Finanzas Personales — Serie 6: Libertad Financiera — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## No hace falta ganar 10.000€ al mes para alcanzar la independencia financiera
 
 ### Prólogo: La persona equivocada en el podcast
 

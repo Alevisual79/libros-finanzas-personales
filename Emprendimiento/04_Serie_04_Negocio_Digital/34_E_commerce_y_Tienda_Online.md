@@ -1,17 +1,12 @@
 # E-commerce y Tienda Online
-## Cómo vender productos físicos o digitales en internet
 
 **Serie 04: Negocio Digital — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo vender productos físicos o digitales en internet
 
 ### Prólogo
 Lucia quiere vender los productos artesanales que hace en su tiempo libre y no sabe si montar una tienda Shopify o vender en marketplaces. Carlos ha estudiado el modelo de dropshipping y no sabe si es tan rentable cómo lo pintan en YouTube. Marcos quiere digitalizar parte de su negocio de servicios ofreciendo productos físicos asociados al servicio. Los tres necesitan entender la lógica específica del e-commerce: un negocio de venta online tiene sus propias reglas, sus propias metricas, y sus propios errores que cuestan caro si no se conocen de antemano. El e-commerce no es difícil si se entiende bien. Es complicado si se improvisa.

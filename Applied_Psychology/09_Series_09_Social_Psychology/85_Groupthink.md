@@ -1,17 +1,12 @@
 # Groupthink
-## How Good Groups Make Bad Decisions — and How to Stop Them
 
 **Series 9: Social Psychology and Influence — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Good Groups Make Bad Decisions — and How to Stop Them
 
 ### Prologue
 In the months before the January 28, 1986 Challenger launch, engineers at Morton Thiokol and at NASA had raised concerns about the O-ring seals that would fail catastrophically at the temperature of that January morning. The concerns were technically specific, documented, and serious. They were also, in the decision meeting the night before the launch, overridden. The engineers who raised them were told that their concerns were not adequately supported by data; the presentation of their safety objections was flawed; and the decision proceeded. Seven astronauts died.

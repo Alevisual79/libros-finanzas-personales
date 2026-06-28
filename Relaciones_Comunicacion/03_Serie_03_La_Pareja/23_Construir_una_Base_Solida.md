@@ -1,17 +1,12 @@
 # Construir una Base Solida
-## Los cimientos que hacen que una relación resista
 
 **Serie 03: La Pareja — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Los cimientos que hacen que una relación resista
 
 ### Prólogo
 Hay parejas que llevan diez años juntas y se sienten tan solos el uno con el otro como si fueran dos extraños que comparten un piso. Y hay parejas que llevan veinte años y siguen sintiendose vistos, queridos y conectados de una forma que sus amigos encuentran casi imposible de creer.

@@ -1,17 +1,12 @@
 # How AI Actually Works
-## A Clear Guide for Non-Technical People
 
 **Series 1: AI Fundamentals — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A Clear Guide for Non-Technical People
 
 ### Prologue
 Elena opened her laptop and typed 'explain machine learning' into ChatGPT. The response was clear, well-written, and felt helpful. But when her colleague asked her to explain, in her own words, what machine learning actually was, she found she could not.

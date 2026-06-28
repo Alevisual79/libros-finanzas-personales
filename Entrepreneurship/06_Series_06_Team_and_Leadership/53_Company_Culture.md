@@ -1,17 +1,12 @@
 # Company Culture
-## How to build a culture that attracts great people and produces great work
 
 **Series 06: Team and Leadership — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to build a culture that attracts great people and produces great work
 
 ### Prologue
 When Tara started her public relations firm, she hired people who were talented, enthusiastic, and a genuine pleasure to work with. The early culture was almost accidental: everyone worked hard because Tara worked hard; everyone cared about clients because Tara cared about clients; everyone operated with integrity because Tara had never in her professional life been willing to do otherwise. The culture was an extension of the founder.

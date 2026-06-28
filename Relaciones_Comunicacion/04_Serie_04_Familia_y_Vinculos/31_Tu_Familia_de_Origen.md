@@ -1,17 +1,12 @@
 # Tu Familia de Origen
-## Entiende de dónde vienes para elegir como quieres ser
 
 **Serie 04: Familia y Vínculos — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entiende de dónde vienes para elegir como quieres ser
 
 ### Prólogo
 Isabel estudia psicología a los cincuenta y dos años porque quiere entender por qué repite con sus hijos los mismos errores que su madre cometio con ella. No es la primera vez que lo intenta evitar. Es la primera vez que decide entender el mecanismo en lugar de solo luchar contra el sintoma.

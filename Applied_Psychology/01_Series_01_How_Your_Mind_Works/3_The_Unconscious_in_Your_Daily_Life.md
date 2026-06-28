@@ -1,17 +1,12 @@
 # The Unconscious in Your Daily Life
-## The Hidden Forces That Drive Your Choices
 
 **Series 1: How Your Mind Works — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Hidden Forces That Drive Your Choices
 
 ### Prologue
 Daniel had always thought of himself as a rational man. He chose his career based on a careful analysis of his strengths. He married his wife after a deliberate period of reflection. He prided himself on his ability to separate emotion from judgment. Then, in a seminar on implicit attitudes, he took a version of the Implicit Association Test — a computer-based task measuring the strength of mental associations — and discovered that he held strong unconscious biases that contradicted his conscious beliefs about equality. He was shaken. Not because the test was necessarily right in every detail, but because it forced open a question he had never seriously entertained: how much of what he did was actually chosen?

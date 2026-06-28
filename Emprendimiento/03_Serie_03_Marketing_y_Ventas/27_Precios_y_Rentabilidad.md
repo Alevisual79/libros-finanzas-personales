@@ -1,17 +1,12 @@
 # Precios y Rentabilidad
-## Como cobrar lo que vales sin perder clientes ni margen
 
 **Serie 03: Marketing y Ventas — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como cobrar lo que vales sin perder clientes ni margen
 
 ### Prólogo
 Carlos cobra menos de lo que debería porque le da miedo perder al cliente. Lucia sube los precios de vez en cuando pero sin criterio, cuando le parece necesario y con culpabilidad. Marcos viene del mundo corporativo donde los precios los fijaban otros y ahora que tiene que fijar los suyos no sabe por donde empezar. Los tres tienen el mismo problema subyacente: no tienen una estrategia de precios. Han elegido sus precios de alguna combinación de lo que cobra la competencia, lo que creen que el cliente esta dispuesto a pagar, y lo que necesitan para cubrir gastos. Esos tres criterios son los menos apropiados para fijar precios. El precio correcto empieza con el valor que el cliente recibe.

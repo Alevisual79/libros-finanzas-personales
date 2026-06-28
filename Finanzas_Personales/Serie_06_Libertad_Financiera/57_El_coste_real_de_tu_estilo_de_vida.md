@@ -1,7 +1,5 @@
 # El coste real de tu estilo de vida
 
-## Cuánto cuesta realmente lo que tienes y lo que quieres
-
 **Serie Finanzas Personales — Serie 6: Libertad Financiera — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cuánto cuesta realmente lo que tienes y lo que quieres
 
 ### Prólogo: El garaje del cuñado
 

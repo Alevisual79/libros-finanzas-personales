@@ -1,17 +1,12 @@
 # Basic Accounting
-## Understanding your numbers without being an accountant
 
 **Series 05: Business Finance — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding your numbers without being an accountant
 
 ### Prologue
 Before he started his software development consultancy, Patrick had developed a genuine expertise in code and a genuine terror of financial spreadsheets. Numbers of a numerical computing nature he handled easily; numbers of a financial accounting nature he found impenetrable and somehow judgmental. His solution for the first year of his business was to avoid them: he kept his bank account positive, sent invoices when he finished projects, and filed his taxes with whatever information his accountant told him to gather. He had no idea whether his business was profitable, what his actual margins were, or whether the growth he was experiencing was generating financial strength or financial fragility.

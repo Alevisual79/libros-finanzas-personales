@@ -1,17 +1,12 @@
 # Your Personal Financial Plan
-## Putting It All Together
 
 **Series 10: Taxes & Wealth — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Putting It All Together
 
 ### Prologue
 This is the 100th book in the Personal Finance Collection.

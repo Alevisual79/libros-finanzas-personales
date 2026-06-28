@@ -1,17 +1,12 @@
 # Alcohol
-## What the Science Actually Says About Drinking and Health
 
 **Series 9: Environment and Lifestyle — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What the Science Actually Says About Drinking and Health
 
 ### Prologue
 Alcohol is the most socially accepted drug in most Western cultures — ubiquitous at celebrations, business dinners, grief rituals, and casual social gatherings. The health conversation about alcohol has been confused by decades of observational research suggesting that moderate drinking might be protective, followed by more recent Mendelian randomization studies and systematic reviews questioning whether any amount of alcohol is beneficial.

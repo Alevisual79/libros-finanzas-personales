@@ -1,7 +1,5 @@
 # Décadas, no trimestres
 
-## Pensar a largo plazo en un mundo que premia lo inmediato
-
 **Serie Productividad y Éxito — Serie 10: Propósito y Éxito a Largo Plazo — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Pensar a largo plazo en un mundo que premia lo inmediato
 
 ### Prólogo: El árbol que no se ve crecer
 

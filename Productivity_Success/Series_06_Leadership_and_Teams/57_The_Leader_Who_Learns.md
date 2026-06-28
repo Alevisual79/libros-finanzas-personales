@@ -1,17 +1,12 @@
 # The Leader Who Learns
-## Why continuous development is the most important leadership practice
 
 **Series 6: Leadership and Teams — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why continuous development is the most important leadership practice
 
 ### Prologue
 Daniel had been a leader for eight years before he noticed that his instincts, which had been well-calibrated for the organizational context of his early leadership years, were gradually becoming less reliable. The dynamics of professional relationships had changed; the expectations of team members had evolved; the competitive and technological context had shifted in ways that his eight-year-old mental models were not accurately representing.

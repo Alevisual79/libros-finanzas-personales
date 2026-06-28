@@ -1,17 +1,12 @@
 # The Growth Mindset at Work
-## Transforming how you relate to challenge, feedback, and the development of talent
 
 **Series 1: Mindset and Beliefs — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Transforming how you relate to challenge, feedback, and the development of talent
 
 ### Prologue
 Sofia had managed technology teams for eleven years and had strong opinions about talent. In her view, some people had it and some people didn't — and the job of a good manager was to quickly identify which was which and act accordingly. She cultivated her A-players, gave them the interesting work, and managed her B-players with patience but limited investment.

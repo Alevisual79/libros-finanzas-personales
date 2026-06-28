@@ -1,17 +1,12 @@
 # Del Empleado al Emprendedor
-## El cambio de mentalidad más difícil y más necesario
 
 **Serie 01: Mentalidad Emprendedora — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El cambio de mentalidad más difícil y más necesario
 
 ### Prólogo
 Marcos paso veinte años construyendo una carrera corporativa brillante: ascensos regulares, responsabilidades crecientes, un salario que le permitia vivir bien. Cuando decidió emprender, descubrió algo que nadie le había advertido: las habilidades y los patrones mentales que le habían llevado al éxito como empleado no solo no le servian como emprendedor sino que activamente le perjudicaban. Esperaba que le dijeran que hacer. Buscaba la certeza antes de actuar. Gestionaba el riesgo hacía abajo en lugar de hacía arriba. Optimizaba su rendimiento personal en lugar de construir un sistema. El cambio de mentalidad de empleado a emprendedor no fue una transición natural. Fue la transformación más difícil de su vida profesional.

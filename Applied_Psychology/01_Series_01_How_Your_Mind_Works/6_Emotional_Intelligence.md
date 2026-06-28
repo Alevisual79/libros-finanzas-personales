@@ -1,17 +1,12 @@
 # Emotional Intelligence
-## Understanding and Managing Emotions in Yourself and Others
 
 **Series 1: How Your Mind Works — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Managing Emotions in Yourself and Others
 
 ### Prologue
 The promotion that David missed at 37 was not a surprise to anyone who knew him well. He was analytically brilliant — the best technical mind in his division — but his performance reviews consistently noted the same issue: he struggled in high-pressure meetings, went silent when challenged, and occasionally said exactly the wrong thing in interpersonal conflicts at the worst possible moments. His manager described him privately as someone who "didn't read the room." David had spent fifteen years developing his technical expertise with the assumption that performance was ultimately about what you knew. It took the promotion passing him by — given to a colleague who, by David's own assessment, knew less but navigated people better — for him to seriously examine a different hypothesis.

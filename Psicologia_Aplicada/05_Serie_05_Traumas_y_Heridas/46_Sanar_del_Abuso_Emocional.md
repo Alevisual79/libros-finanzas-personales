@@ -1,17 +1,12 @@
 # Sanar del Abuso Emocional
-## Recuperar tu sentido de realidad y de valor propio
 
 **Serie 05: Traumas y Heridas — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Recuperar tu sentido de realidad y de valor propio
 
 ### Prólogo
 Isabel tardo años en llamarlo abuso. No había golpes, no había gritos todos los dias. Pero había comentarios que la dejaban dudando de su propia percepción, silencio prolongado como castigo, la sensación constante de caminar sobre cascaras de huevo sin saber exactamente por qué, y la certeza creciente de que algo estaba mal en ella. Eso, que tardo tanto en nombrar, es abuso emocional: el patron sistemático de comportamientos que erosionan la autoimagen, la confianza en la propia percepción, y el sentido de valor de una persona. Este libro es para las personas que han vivido o viven algo así, y que quieren entender lo que les ocurrio y encontrar el camino de regreso a si mismas.

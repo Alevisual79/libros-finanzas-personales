@@ -1,7 +1,5 @@
 # El presupuesto que sí funciona
 
-## Por qué fracasan todos los presupuestos y cómo hacer uno que no
-
 **Serie Finanzas Personales — Serie 3: Ahorro Sistemático — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué fracasan todos los presupuestos y cómo hacer uno que no
 
 ### Prólogo: El presupuesto que nadie cumple
 

@@ -1,17 +1,12 @@
 # Critical Thinking
-## The discipline of reasoning well in a world of information overload
 
 **Series 8: Learning and Development — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The discipline of reasoning well in a world of information overload
 
 ### Prologue
 Maya encountered two pieces of research evidence in the same week that reached exactly opposite conclusions about the effectiveness of a management practice her team was considering implementing. Both were described as "studies." Both were cited by senior colleagues whose credibility she respected. Both seemed, at the surface level, to be straightforward references to scientific evidence.

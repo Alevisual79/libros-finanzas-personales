@@ -1,17 +1,12 @@
 # Pay Yourself First
-## The Rule That Changes Everything
 
 **Series 3: Systematic Savings — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Rule That Changes Everything
 
 ### Prologue
 Elena's method for saving was consistent: at the end of every month, she would look at what was left after bills and spending, and transfer whatever remained to savings. In good months, this was $200-$400. In average months, it was under $100. In months when anything unexpected happened, it was zero.

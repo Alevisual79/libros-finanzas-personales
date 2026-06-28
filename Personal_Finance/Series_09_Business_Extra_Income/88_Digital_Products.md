@@ -1,17 +1,12 @@
 # Digital Products
-## Creating Income That Scales Beyond Your Time
 
 **Series 9: Business & Extra Income — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Creating Income That Scales Beyond Your Time
 
 ### Prologue
 Ruben spent three days creating a brand identity kit for Shopify stores: logo templates, color palette files, font pairings, social media templates, and brand guidelines. He priced it at $127 and listed it on his website.

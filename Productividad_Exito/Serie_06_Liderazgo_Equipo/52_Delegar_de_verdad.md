@@ -1,7 +1,5 @@
 # Delegar de verdad
 
-## Por qué no delegas aunque quieras y cómo hacerlo bien
-
 **Serie Productividad y Éxito — Serie 6: Liderazgo y Trabajo en Equipo — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué no delegas aunque quieras y cómo hacerlo bien
 
 ### Prólogo: El jefe que hacía el trabajo de todos
 

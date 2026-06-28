@@ -1,7 +1,5 @@
 # Libros que transforman
 
-## Cómo leer libros de no ficción para qué realmente cambien algo
-
 **Serie Productividad y Éxito — Serie 8: Aprendizaje y Desarrollo Personal — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo leer libros de no ficción para qué realmente cambien algo
 
 ### Prólogo: Cincuenta libros leídos, ningún cambio
 

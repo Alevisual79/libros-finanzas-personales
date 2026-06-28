@@ -1,17 +1,12 @@
 # Habits of Extraordinary People
-## What separates the consistently excellent from the occasionally talented
 
 **Series 4: High Performance Habits — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What separates the consistently excellent from the occasionally talented
 
 ### Prologue
 The biographies of exceptional performers reveal a persistent and somewhat deflating pattern: the people who produce consistently extraordinary work are rarely the ones who were most naturally gifted in their domain. They are, more often, the ones who did certain things every day, consistently, year after year, without exception.

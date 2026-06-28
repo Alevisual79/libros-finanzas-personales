@@ -1,7 +1,5 @@
 # De ahorrador a inversor: El puente
 
-## Cuándo dejar de ahorrar y empezar a invertir, y cómo hacer la transición sin cometer el error más común
-
 **Serie Finanzas Personales — Serie 3: Ahorro Sistemático — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cuándo dejar de ahorrar y empezar a invertir, y cómo hacer la transición sin cometer el error más común
 
 ### Prólogo: El dinero que duerme
 

@@ -1,17 +1,12 @@
 # The Non-Linear Career
-## Navigating the career that doesn't follow the expected path
 
 **Series 10: Purpose and Long-Term Success — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Navigating the career that doesn't follow the expected path
 
 ### Prologue
 The linear career model — the progression up a clearly defined hierarchy from entry level to senior level in a single organization or field, with each step building directly on the last and the final destination visible from the beginning — remains the template against which most professional development advice is written and against which most professionals unconsciously measure their own trajectory.

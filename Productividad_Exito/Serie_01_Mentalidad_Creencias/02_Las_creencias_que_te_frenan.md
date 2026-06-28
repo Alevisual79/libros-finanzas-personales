@@ -1,7 +1,5 @@
 # Las creencias que te frenan
 
-## Cómo identificar y reescribir los límites que te pusiste sin darte cuenta
-
 **Serie Productividad y Éxito — Serie 1: Mentalidad y Creencias — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo identificar y reescribir los límites que te pusiste sin darte cuenta
 
 ### Prólogo: Lo que aprendiste sobre el trabajo antes de saber lo que era
 

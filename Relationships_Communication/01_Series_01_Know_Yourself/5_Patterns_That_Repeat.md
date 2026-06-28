@@ -1,17 +1,12 @@
 # Patterns That Repeat
-## Why we keep finding ourselves in the same relationship dynamics
 
 **Series 1: Know Yourself in Relationships — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why we keep finding ourselves in the same relationship dynamics
 
 ### Prologue
 Tom had been in three significant relationships before the one he was in now, and all three had ended in a version of the same way: a period of increasing emotional distance on his part, a partner who became more anxious and demanding as the distance grew, and a final conversation in which he was accused of emotional unavailability and she was described as exhausting. He had, after each ending, concluded that he had chosen the wrong person. It had not yet occurred to him that he had chosen the same dynamic three times.

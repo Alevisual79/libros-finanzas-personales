@@ -1,7 +1,5 @@
 # El tiempo no se gestiona: Se dirige
 
-## Por qué el problema no es el tiempo sino las prioridades
-
 **Serie Productividad y Éxito — Serie 2: Gestión del Tiempo — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué el problema no es el tiempo sino las prioridades
 
 ### Prólogo: El mito del tiempo que falta
 

@@ -1,17 +1,12 @@
 # Sexuality and Aging
-## Sexual Health and Intimacy Through the Decades
 
 **Series 8: Sexual and Reproductive Health — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Sexual Health and Intimacy Through the Decades
 
 ### Prologue
 One of the most persistent myths in our culture is that sexuality ends with middle age. The research emphatically does not support this view. Most adults over 60, 70, and 80 remain sexually active and describe sexual intimacy as important to their quality of life and relationships. What changes with age — and what medicine can address — is the nature of age-related physiological changes that affect sexual function.

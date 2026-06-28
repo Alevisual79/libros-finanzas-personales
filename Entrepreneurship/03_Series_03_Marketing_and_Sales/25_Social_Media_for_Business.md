@@ -1,17 +1,12 @@
 # Social Media for Business
-## Using platforms strategically, not just being present
 
 **Series 03: Marketing and Sales — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Using platforms strategically, not just being present
 
 ### Prologue
 Ava ran a boutique interior design firm. She posted on Instagram every day: project photos, mood boards, behind-the-scenes shots from client homes, snapshots of her team at work. She had 4,300 followers. She received frequent comments about how beautiful her work was. She had been posting consistently for two years. In those two years, she had received exactly three inquiries through Instagram, none of which converted to clients.

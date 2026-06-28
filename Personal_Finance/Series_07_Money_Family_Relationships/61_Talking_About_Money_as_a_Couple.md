@@ -1,17 +1,12 @@
 # Talking About Money as a Couple
-## The Conversations That Protect Relationships
 
 **Series 7: Money, Family & Relationships — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Conversations That Protect Relationships
 
 ### Prologue
 Elena had been dating Marcus for two years before she discovered he had $22,000 in credit card debt. Not from carelessness — from years of supporting his family through a health crisis — but the revelation still knocked the wind out of her. She had been diligently building her savings account, contributing to her IRA, and tracking her spending in a spreadsheet she updated every Sunday morning. Marcus had been doing none of those things, not out of laziness, but because money, in his family, had always been a source of shame. You didn't talk about it. You managed it in silence. The debt had accumulated quietly, the way things do when no one speaks about them.

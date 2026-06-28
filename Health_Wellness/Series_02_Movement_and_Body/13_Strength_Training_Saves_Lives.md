@@ -1,17 +1,12 @@
 # Strength Training Saves Lives
-## The Most Important Exercise Nobody Does Enough
 
 **Series 2: Movement and Body — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Most Important Exercise Nobody Does Enough
 
 ### Prologue
 Aerobic exercise has dominated public health fitness messaging for decades. The advice has been: walk more, run, bike, swim — do cardio to protect your heart and control your weight. This advice isn't wrong. But it is incomplete in a way that matters enormously for long-term health, particularly after age 40.

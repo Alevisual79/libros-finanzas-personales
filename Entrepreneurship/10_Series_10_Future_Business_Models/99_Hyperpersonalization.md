@@ -1,17 +1,12 @@
 # Hyperpersonalization
-## Delivering uniquely tailored experiences at scale
 
 **Series 10: Future Business Models — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Delivering uniquely tailored experiences at scale
 
 ### Prologue
 For the first six years of her online fitness coaching platform, Natalia had built curricula that were, at best, customized: she had seven workout programs categorized by goal (weight loss, muscle building, flexibility, athletic performance) and three experience levels (beginner, intermediate, advanced). Members answered four questions at signup and were routed to one of twenty-one combinations. The platform was profitable and growing, but retention was a problem: sixty-one percent of members cancelled within six months, with the most common feedback being that the workouts "didn't fit."

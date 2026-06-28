@@ -1,7 +1,5 @@
 # Emociones y alimentación
 
-## Por qué comes cuando no tienes hambre y cómo romper el ciclo sin culpa
-
 **Serie Salud y Bienestar — Serie 4: Mente y Emociones — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué comes cuando no tienes hambre y cómo romper el ciclo sin culpa
 
 ### Prólogo: El frigorífico a las 11 de la noche
 

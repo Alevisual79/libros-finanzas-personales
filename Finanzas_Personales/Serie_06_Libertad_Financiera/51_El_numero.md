@@ -1,7 +1,5 @@
 # El número: Cuánto necesitas para no trabajar nunca más
 
-## Cómo calcular tu número de libertad financiera con precisión y sin hacerte ilusiones
-
 **Serie Finanzas Personales — Serie 6: Libertad Financiera — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo calcular tu número de libertad financiera con precisión y sin hacerte ilusiones
 
 ### Prólogo: La noche que Carlos hizo el cálculo
 

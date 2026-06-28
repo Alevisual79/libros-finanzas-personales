@@ -1,7 +1,5 @@
 # El precio del éxito
 
-## Qué se sacrifica en el camino y cómo minimizarlo
-
 **Serie Productividad y Éxito — Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 7 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Qué se sacrifica en el camino y cómo minimizarlo
 
 ### Prólogo: Lo que Elena no había calculado
 

@@ -1,17 +1,12 @@
 # Building an AI-First Company
-## Culture Infrastructure and Talent
 
 **Series 6: AI and Business — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Culture Infrastructure and Talent
 
 ### Prologue
 Elena's startup was 'AI-first' from day one. Two years in, she realized that meant different things to different people: to engineering, it meant using AI in products; to operations, it meant workflows; to culture, it meant something nobody had defined.

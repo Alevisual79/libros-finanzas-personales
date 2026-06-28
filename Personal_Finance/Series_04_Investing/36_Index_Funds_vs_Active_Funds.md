@@ -1,17 +1,12 @@
 # Index Funds vs. Active Funds
-## The Case for Passive Investing
 
 **Series 4: Investing — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Case for Passive Investing
 
 ### Prologue
 When Elena's brother-in-law heard she was investing in index funds, he was surprised. "Isn't that just buying everything? You could do so much better if you picked the right stocks or found a good fund manager."

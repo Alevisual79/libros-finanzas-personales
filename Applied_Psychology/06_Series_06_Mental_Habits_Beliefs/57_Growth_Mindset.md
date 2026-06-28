@@ -1,17 +1,12 @@
 # Growth Mindset
-## Why What You Believe About Your Brain Changes Everything
 
 **Series 6: Mental Habits and Beliefs — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why What You Believe About Your Brain Changes Everything
 
 ### Prologue
 Two children receive the same failing grade on a difficult mathematics test. The first child reads the grade, feels disappointed, and concludes that mathematics is not for them — they're not a math person, and this grade confirms it. The second child reads the grade, feels equally disappointed, and thinks about what they got wrong and what they need to study differently. The first child avoids challenging mathematics problems in subsequent weeks; the second seeks them out. Three months later, their mathematics performance has diverged significantly. The divergence is not explained by any difference in initial ability — it is explained entirely by what each child believed the grade meant about them.

@@ -1,17 +1,12 @@
 # Teaching Your Children About Money
-## Financial Literacy Starts at Home
 
 **Series 7: Money, Family & Relationships — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Financial Literacy Starts at Home
 
 ### Prologue
 Isabel's two children are now adults. One is financially thoughtful; the other is not. Same household, same parents, same values discussions around the dinner table.

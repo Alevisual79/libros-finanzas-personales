@@ -1,17 +1,12 @@
 # Insurance
-## How to Be Properly Covered Without Overpaying
 
 **Series 8: Protection & Emergencies — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Be Properly Covered Without Overpaying
 
 ### Prologue
 Elena spent forty minutes on the phone with her insurance company after the car accident trying to understand why her comprehensive deductible was $500 but her collision deductible was $1,000, and what exactly the difference was, and whether the other driver's insurance would cover anything, and whether she was going to be penalized for a claim even though it was not her fault. She had been paying $187 per month for car insurance for three years — more than $6,700 total — and had not read the policy once. She knew she had "full coverage." She did not know what that meant. When the adjuster explained that her rental reimbursement rider only covered $30 per day and the cheapest available rental was $54, she stared at the phone like it had lied to her. It had not lied. She had simply never asked it the truth.

@@ -1,7 +1,5 @@
 # La carrera no lineal
 
-## Por qué el camino al éxito raramente es en línea recta
-
 **Serie Productividad y Éxito — Serie 10: Propósito y Éxito a Largo Plazo — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué el camino al éxito raramente es en línea recta
 
 ### Prólogo: El camino que no parecía lógico
 

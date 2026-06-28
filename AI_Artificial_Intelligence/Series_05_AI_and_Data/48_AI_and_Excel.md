@@ -1,17 +1,12 @@
 # AI and Excel
-## The Spreadsheet in the Age of Intelligence
 
 **Series 5: AI and Data — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Spreadsheet in the Age of Intelligence
 
 ### Prologue
 Ruben built elaborate Excel models to track client campaigns. Each month he spent hours updating them. After integrating AI tools, the updates took minutes. The model itself got more sophisticated. The time saved went into analysis, not maintenance.

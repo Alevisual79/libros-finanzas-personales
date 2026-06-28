@@ -1,17 +1,12 @@
 # Fear of Success and Failure
-## The two fears that constrain ambition — and how to work with both
 
 **Series 1: Mindset and Beliefs — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The two fears that constrain ambition — and how to work with both
 
 ### Prologue
 Juliana had built a consulting practice with a clear ceiling. She knew exactly what it was: the moment any project required her to charge more than a specific rate, involve more than four clients at once, or commit to work more than six months out, she found reasons to decline. The reasons were always legitimate — too much on her plate, not the right fit, the timing wasn't ideal. She was never lying. She was always explaining. But the pattern was precise and consistent.

@@ -1,17 +1,12 @@
 # AI in Supply Chain and Operations
-## Optimization at Scale
 
 **Series 6: AI and Business — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Optimization at Scale
 
 ### Prologue
 The supply chain disruptions of 2020-2022 revealed how brittle optimization for efficiency had made global supply chains. AI offers not just efficiency optimization but resilience modeling — the ability to anticipate and respond to disruption.

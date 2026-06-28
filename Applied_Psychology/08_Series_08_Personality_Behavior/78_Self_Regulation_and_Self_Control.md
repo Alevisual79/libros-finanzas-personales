@@ -1,17 +1,12 @@
 # Self-Regulation and Self-Control
-## How We Manage Our Own Behavior and Why It Matters
 
 **Series 8: Personality and Behavior — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How We Manage Our Own Behavior and Why It Matters
 
 ### Prologue
 The capacity to regulate one's own behavior — to override immediate impulses in service of longer-term goals, to maintain behavioral consistency across situations, to adapt one's responses to the demands of different contexts — is among the most consequential human capacities identified by psychology. Research by Mischel and colleagues on delay of gratification in children, by Tangney and colleagues on self-control and life outcomes in adults, and by Moffitt and colleagues in the Dunedin longitudinal study all document that individual differences in self-regulatory capacity predict important life outcomes across health, economic wellbeing, relationships, and legal behavior.

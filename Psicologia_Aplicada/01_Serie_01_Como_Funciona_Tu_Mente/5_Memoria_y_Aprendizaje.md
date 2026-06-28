@@ -1,17 +1,12 @@
 # Memoria y Aprendizaje
-## Como tu cerebro aprende y como puedes aprender mejor
 
 **Serie 01: Como Funciona Tu Mente — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como tu cerebro aprende y como puedes aprender mejor
 
 ### Prólogo
 Elena estudia un nuevo lenguaje de programación. Lee la documentación, hace los ejercicios del tutorial, ve los videos de explicación. Tres semanas después, cuando intenta usar lo aprendido en un proyecto real, recuerda muy poco. Repasa el material y vuelve a aprender lo mismo que creyo haber aprendido la primera vez. Nadie le ensenó que la forma en que estudio (lectura pasiva, repetición inmediata, sensación subjetiva de comprensión) es una de las estrategias de aprendizaje menos efectivas que existen. Y que las estrategias que funcionan son frecuentemente las que se sienten más difíciles e incomodas.

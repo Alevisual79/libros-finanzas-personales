@@ -1,17 +1,12 @@
 # Self-Love Before Love
-## Why the best relationship starts with yourself
 
 **Series 7: Dating and Romantic Love — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why the best relationship starts with yourself
 
 ### Prologue
 Maya had heard the phrase "you have to love yourself before you can love someone else" so many times in the fourteen months since her divorce that it had acquired the quality of a platitude — something people said with the earnest conviction of genuine wisdom that had been said so many times it had stopped meaning anything.

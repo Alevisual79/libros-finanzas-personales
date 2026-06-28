@@ -1,17 +1,12 @@
 # Living with Uncertainty
-## Developing Tolerance for the Unknown
 
 **Series 2: Anxiety and Fears — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Developing Tolerance for the Unknown
 
 ### Prologue
 At 45, Felipe received a medical test result that was "inconclusive." The doctor said this was common, that the next step was a follow-up test in three weeks, and that there was no reason to panic. Felipe heard: something is wrong, we don't know what, and you have to wait three weeks to find out. He spent the three weeks in what he described afterward as a sustained state of low-grade dread, unable to concentrate on work, irritable with his family, and spending hours each night reading medical literature that ranged from reassuring to terrifying. The follow-up test was clear. The three weeks had been, by any measure, among the worst of his year — not because of anything that had happened but because of the uncertainty about what might happen.

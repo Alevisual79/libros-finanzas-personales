@@ -1,7 +1,5 @@
 # El precio de la comodidad
 
-## Cómo la zona de confort económica te cuesta una fortuna sin que te des cuenta
-
 **Serie Finanzas Personales — Serie 1: Mindset del Dinero — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo la zona de confort económica te cuesta una fortuna sin que te des cuenta
 
 ### Prólogo: El hombre que nunca tuvo un mal día
 

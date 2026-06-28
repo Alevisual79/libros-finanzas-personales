@@ -1,17 +1,12 @@
 # Conflicts Between Friends
-## How to maintain the friendship without avoiding problems
 
 **Series 5: Friendships and Social Relationships — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to maintain the friendship without avoiding problems
 
 ### Prologue
 Priya and Anita had, over the course of a twenty-year friendship, avoided one conversation.

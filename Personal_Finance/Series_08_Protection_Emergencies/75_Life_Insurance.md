@@ -1,17 +1,12 @@
 # Life Insurance
-## The Coverage That Protects the People Who Depend on You
 
 **Series 8: Protection & Emergencies — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Coverage That Protects the People Who Depend on You
 
 ### Prologue
 Life insurance is the only financial product whose benefit is specifically designed for someone who won't be there to use it. You buy it not for yourself but for the people who depend on your income and presence — and who would face financial hardship if that income disappeared.

@@ -1,7 +1,5 @@
 # Reprograma tu diálogo interno
 
-## Cambiar la voz que te acompaña todo el día
-
 **Serie Productividad y Éxito — Serie 1: Mentalidad y Creencias — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cambiar la voz que te acompaña todo el día
 
 ### Prólogo: El comentarista que nunca calla
 

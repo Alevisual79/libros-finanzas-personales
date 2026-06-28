@@ -1,17 +1,12 @@
 # The Map of Emotions
-## Learn to Name What You Feel So You Can Manage It
 
 **Series 4: Emotions and Emotional Management — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Learn to Name What You Feel So You Can Manage It
 
 ### Prologue
 When her therapist asked Camille how she was feeling, she said "fine" — not because it was true but because it was the only answer she reliably had available. She was not, in fact, fine. Something was happening inside her that had been happening for months, a pervasive interior weather that she could not name and therefore could not discuss, work with, or communicate to anyone else. She was not emotionally numb; she felt things, quite intensely. She simply lacked the vocabulary to identify what she felt with any precision. Everything was "stressed" or "off" or "not great." Her therapist introduced a concept Camille had not previously encountered: emotional granularity — the degree to which one can distinguish and label specific emotional states rather than experiencing emotion as an undifferentiated mass. It was the beginning of a different relationship with her own interior life.

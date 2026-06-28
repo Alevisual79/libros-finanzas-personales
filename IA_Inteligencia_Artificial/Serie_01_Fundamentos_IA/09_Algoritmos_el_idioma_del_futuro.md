@@ -1,17 +1,12 @@
 # Algoritmos: El idioma del futuro
-## Entender la lógica detrás de los sistemas que ya toman decisiones por ti
 
 **Serie 1: Fundamentos de IA — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entender la lógica detrás de los sistemas que ya toman decisiones por ti
 
 ### Prólogo: Las decisiones invisibles
 

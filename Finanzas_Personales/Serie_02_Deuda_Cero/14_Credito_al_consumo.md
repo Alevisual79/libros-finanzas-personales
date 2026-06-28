@@ -1,7 +1,5 @@
 # Crédito al consumo: La trampa de los plazos cómodos
 
-## Por qué financiar todo te arruina lentamente aunque cada cuota parezca razonable
-
 **Serie Finanzas Personales — Serie 2: Deuda Cero — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué financiar todo te arruina lentamente aunque cada cuota parezca razonable
 
 ### Prólogo: Los 30 euros al mes que lo cambian todo
 

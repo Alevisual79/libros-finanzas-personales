@@ -1,17 +1,12 @@
 # Vaccines for Adults
-## What You Need and When
 
 **Series 5: Prevention and Checkups — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What You Need and When
 
 ### Prologue
 Vaccines are the subject of more misinformation than any other area of medicine. This is unfortunate because the evidence base for adult vaccination is clear, the safety profile is excellent, and the preventable harm from vaccine-preventable diseases remains substantial even in vaccinated populations.

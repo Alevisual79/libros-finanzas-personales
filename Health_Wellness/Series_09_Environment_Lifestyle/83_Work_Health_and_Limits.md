@@ -1,17 +1,12 @@
 # Work Health and Limits
-## How Your Job Affects Your Health and How to Protect Yourself
 
 **Series 9: Environment and Lifestyle — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Your Job Affects Your Health and How to Protect Yourself
 
 ### Prologue
 Work is where most adults spend the majority of their waking hours — and the nature, demands, and culture of that work has profound health consequences. Occupational health research has been establishing connections between work conditions and disease for over a century, from coal miners' lung disease to office workers' cardiovascular risk from chronic workplace stress.

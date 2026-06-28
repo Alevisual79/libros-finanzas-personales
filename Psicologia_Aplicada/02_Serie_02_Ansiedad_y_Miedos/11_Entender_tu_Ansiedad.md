@@ -1,17 +1,12 @@
 # Entender tu Ansiedad
-## Por qué la sientes cómo la sientes y que hacer con ella
 
 **Serie 02: Ansiedad y Miedos — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué la sientes cómo la sientes y que hacer con ella
 
 ### Prólogo
 Ruben tiene veintinueve años y lleva tres con ansiedad. No ansiedad diagnosticada, no ansiedad que haya consultado con ningún profesional. Ansiedad que siente como algo que ocurre dentro de el sin que sepa muy bien por qué, cómo un motor que no puede apagar, una tensión de fondo que a veces se convierte en episodios de taquicardia, dificultad para respirar, pensamientos que se aceleran. Ha aprendido a funcionar con ello. Pero funcionar con algo que no entiendes es distinto de gestionarlo. Y gestionar comienza por entender.

@@ -1,7 +1,5 @@
 # La rutina de mañana que lo cambia todo
 
-## Diseñar las primeras horas del día para ganar el día
-
 **Serie Productividad y Éxito — Serie 4: Hábitos de Alto Rendimiento — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Diseñar las primeras horas del día para ganar el día
 
 ### Prólogo: La mañana que se diseñó sola
 

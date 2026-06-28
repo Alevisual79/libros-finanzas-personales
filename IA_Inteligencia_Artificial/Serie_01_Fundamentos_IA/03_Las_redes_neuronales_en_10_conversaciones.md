@@ -1,17 +1,12 @@
 # Las redes neuronales en 10 conversaciones
-## Entender el cerebro de la IA sin necesitar un doctorado
 
 **Serie 1: Fundamentos de IA — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entender el cerebro de la IA sin necesitar un doctorado
 
 ### Prólogo: El hijo de Elena explica el universo
 

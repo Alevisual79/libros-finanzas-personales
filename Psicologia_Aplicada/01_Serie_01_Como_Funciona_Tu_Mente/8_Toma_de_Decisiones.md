@@ -1,17 +1,12 @@
 # Toma de Decisiones
-## Como decidir mejor en un mundo lleno de incertidumbre
 
 **Serie 01: Como Funciona Tu Mente — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como decidir mejor en un mundo lleno de incertidumbre
 
 ### Prólogo
 Isabel tiene sobre la mesa la decisión más importante de su carrera: aceptar un puesto de directora de RRHH en una empresa de mayor tamaño que implica más responsabilidad, mejor salario y más riesgo. Ha pedido opinión a doce personas. Ha hecho listas de pros y contras. Ha reflexionado durante semanas. Sigue sin saber como decidir. No porque le falte información. Sino porque nadie le enseño nunca los principios basicos de como tomar decisiones de calidad bajo incertidumbre, y porque la mayoría de los consejos que recibe confunden seguridad emocional con buena decisión.

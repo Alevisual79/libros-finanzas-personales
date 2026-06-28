@@ -1,17 +1,12 @@
 # Motivación que Dura
-## Como pasar de la motivación de chispa a la motivación de combustible
 
 **Serie 08: Personalidad y Comportamiento — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como pasar de la motivación de chispa a la motivación de combustible
 
 ### Prólogo
 Ruben tiene lapsos de motivación intensa seguidos de períodos donde no puede con nada. Elena siente que necesita un video motivacional o una charla inspiradora para arrancarse, pero el efecto dura poco. Isabel trabajo durante años en trabajos que no le importaban: productiva, eficiente, pero vacia. Los tres estan buscando lo mismo: una motivación que no dependa de chispas externas sino de una fuente interna que pueda sostenerse. La investigación sobre la motivación de las últimas cuatro décadas ha producido un mapa bastante detallado de por qué la motivación fluctua, que tipos de motivación duran más que otros, y como construir condiciones que sostengan el impulso cuando las chispas se apagan.

@@ -1,17 +1,12 @@
 # Effective Delegation
-## How to let go without losing control
 
 **Series 06: Team and Leadership — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to let go without losing control
 
 ### Prologue
 For the first three years of her translation services business, Sarah did everything herself: client management, project assignment, quality review, invoicing, and the constant communication coordination that kept freelance translators, clients, and deadlines aligned. By year three, she had seventeen active freelance translators, a client roster that included three Fortune 500 companies, and a personal schedule that was catastrophically overloaded. She was working until midnight most weekdays. She was making small but costly errors on client communications because her attention was too divided. She was, by her own admission, the biggest risk to the business she had built.

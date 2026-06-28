@@ -1,17 +1,12 @@
 # AI for Managers
-## Leading Teams in the Era of Intelligent Automation
 
 **Series 2: AI at Work — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Leading Teams in the Era of Intelligent Automation
 
 ### Prologue
 Isabel's challenge was not technical: she understood what AI could do. It was organizational: how do you lead a team through a technology transition that changes everyone's job in different ways, at different speeds, with different degrees of comfort?

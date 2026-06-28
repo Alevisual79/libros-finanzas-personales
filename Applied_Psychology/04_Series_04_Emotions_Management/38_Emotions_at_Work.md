@@ -1,17 +1,12 @@
 # Emotions at Work
-## The Hidden Emotional Life of Professional Settings
 
 **Series 4: Emotions and Emotional Management — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Hidden Emotional Life of Professional Settings
 
 ### Prologue
 David had a reputation at work as a consummate professional — cool under pressure, objective in meetings, unruffled by the conflicts and frustrations that destabilized others. His colleagues, who never saw him angry or upset or visibly anxious, assumed he was simply temperamentally composed. His partner, who received him at the end of each day, knew otherwise: the professional composure was sustained at a cost that was distributed across every evening. He was irritable at home in proportion to how composed he had been at work. He was withdrawn when he needed to be open. He was, without either of them having a name for it, bringing home the emotional labor bill that his workplace required him to run.

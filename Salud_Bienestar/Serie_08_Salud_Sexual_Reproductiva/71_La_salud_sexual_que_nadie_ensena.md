@@ -1,7 +1,5 @@
 # La salud sexual que nadie enseña
 
-## Educación sexual para adultos: lo que nos faltó aprender y lo que necesitamos saber ahora
-
 **Serie Salud y Bienestar — Serie 8: Salud Sexual y Reproductiva — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Educación sexual para adultos: lo que nos faltó aprender y lo que necesitamos saber ahora
 
 ### Prólogo: Lo que nadie nos explico
 

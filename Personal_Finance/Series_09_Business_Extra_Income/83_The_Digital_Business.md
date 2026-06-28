@@ -1,17 +1,12 @@
 # The Digital Business
-## Building an Online Business from Anywhere
 
 **Series 9: Business & Extra Income — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building an Online Business from Anywhere
 
 ### Prologue
 Elena had spent 10 years mastering digital marketing inside companies: building campaigns, analyzing data, managing budgets, optimizing funnels. She understood, intimately, how digital businesses acquire customers, convert them, and retain them.

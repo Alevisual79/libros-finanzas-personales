@@ -1,17 +1,12 @@
 # Acquisitions and Mergers
-## Buying growth — the discipline, the risk, and the returns
 
 **Series 08: Scaling Business — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Buying growth — the discipline, the risk, and the returns
 
 ### Prologue
 After twelve years of growing his environmental engineering consultancy organically, Kevin made the decision that would accelerate his growth more than anything he had done in the previous decade: he bought a smaller firm.

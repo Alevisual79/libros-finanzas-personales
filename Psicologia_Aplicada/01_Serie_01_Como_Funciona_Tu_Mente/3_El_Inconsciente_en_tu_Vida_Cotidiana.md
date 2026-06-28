@@ -1,17 +1,12 @@
 # El Inconsciente en tu Vida Cotidiana
-## Cómo lo que no ves te dirige más de lo que crees
 
 **Serie 01: Como Funciona Tu Mente — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo lo que no ves te dirige más de lo que crees
 
 ### Prólogo
 Isabel tiene cuarenta y dos años y cree que se conoce bien. Conoce sus valores, sus preferencias, sus razones para tomar las decisiones que toma. Hasta que en una sesión de coaching ejecutivo, el consultor le pregunta por qué rechaza sistemáticamente a los candidatos varones menores de cuarenta años para puestos de liderazgo. Isabel no tiene respuesta. Nunca se había dado cuenta de que lo hacía. Y cuando revisa sus datos de contratación de los últimos cinco años, el patron es inequivoco. Algo que no podía ver, algo que opera fuera de su conciencia deliberada, ha estado tomando sus decisiones por ella.

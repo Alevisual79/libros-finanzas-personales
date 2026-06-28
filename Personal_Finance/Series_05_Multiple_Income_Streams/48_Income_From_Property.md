@@ -1,17 +1,12 @@
 # Income From Property
-## Making Your Assets Work for You
 
 **Series 5: Multiple Income Streams — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Making Your Assets Work for You
 
 ### Prologue
 Elena had been paying $2,100/month in rent for a two-bedroom apartment in a mid-sized California city. When she analyzed her housing costs versus buying, the purchase calculus didn't work — purchase prices in her area required a down payment she hadn't saved yet.

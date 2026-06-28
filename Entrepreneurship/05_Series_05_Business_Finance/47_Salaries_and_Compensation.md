@@ -1,17 +1,12 @@
 # Salaries and Compensation
-## How to pay people fairly, strategically, and sustainably
 
 **Series 05: Business Finance — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to pay people fairly, strategically, and sustainably
 
 ### Prologue
 When Marcus hired his first full-time employee for his video production company, he didn't have a compensation philosophy. He had a number: $45,000 per year, which was what his accountant said he could afford. The hire was a talented young producer who accepted, did excellent work, and eighteen months later left for a competitor who offered $62,000. Marcus had lost a key person, faced the cost and disruption of rehiring, and discovered — in his exit conversation with her — that she had known for nearly a year that she was being underpaid relative to the market. She had stayed out of loyalty; she had left when the gap felt too large to ignore.

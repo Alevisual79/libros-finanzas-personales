@@ -1,17 +1,12 @@
 # AI for Visual Artists and Designers
-## New Tools New Questions
 
 **Series 4: AI and Creativity — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## New Tools New Questions
 
 ### Prologue
 Isabel's company hired a freelance designer who used AI for 80% of her production. The work met every brief. The question no one had thought to ask: does it matter how it was made?

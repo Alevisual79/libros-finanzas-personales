@@ -1,17 +1,12 @@
 # Pareja y Dinero
-## Hablar de finanzas sin destruir la relación
 
 **Serie 03: La Pareja — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Hablar de finanzas sin destruir la relación
 
 ### Prólogo
 El dinero es el tema del que las parejas más hablan sin realmente hablar. Hablan de los gastos que hay que hacer. De si el precio de una cosa es alto o bajo. De que les falta o les sobra. Pero rara vez hablan de lo que el dinero significa para cada uno. De los miedos que hay detrás. De los valores que cada uno tiene sobre el gasto y el ahorro y el riesgo.

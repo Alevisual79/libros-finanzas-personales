@@ -1,7 +1,5 @@
 # Energía, no tiempo
 
-## Por qué gestionar tu energía es más importante que gestionar tu agenda
-
 **Serie Productividad y Éxito — Serie 4: Hábitos de Alto Rendimiento — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué gestionar tu energía es más importante que gestionar tu agenda
 
 ### Prólogo: El ejecutivo que nunca descansaba
 

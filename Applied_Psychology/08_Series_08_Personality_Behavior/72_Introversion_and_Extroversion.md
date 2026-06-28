@@ -1,17 +1,12 @@
 # Introversion and Extroversion
-## Understanding the Most Misunderstood Personality Dimension
 
 **Series 8: Personality and Behavior — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding the Most Misunderstood Personality Dimension
 
 ### Prologue
 When Maya tells people she is introverted, they typically respond with some version of surprise: "But you're so warm!" or "You seem so comfortable in social situations!" These responses reflect one of the most persistent misconceptions about introversion — the confusion of introversion with shyness, social anxiety, or social incompetence. Maya is none of these things. She genuinely enjoys people, is comfortable in most social situations, and is capable of extended social engagement when the situation calls for it. What she is is an introvert: someone who finds extended social engagement draining rather than energizing, who processes the world through internal reflection rather than external expression, and who requires regular time alone to restore the energy that social interaction consumes.

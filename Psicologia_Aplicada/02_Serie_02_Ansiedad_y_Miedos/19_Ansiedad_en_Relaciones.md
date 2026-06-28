@@ -1,17 +1,12 @@
 # Ansiedad en Relaciones
-## Cómo gestionar el miedo al abandono y al rechazó
 
 **Serie 02: Ansiedad y Miedos — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo gestionar el miedo al abandono y al rechazó
 
 ### Prólogo
 Elena tiene treinta y cuatro años y una relación que desde fuera parece estable. Por dentro, es una fuente constante de ansiedad: se preocupa cuando su pareja no responde mensajes rápido, analiza cada cambio de tono en una conversación buscando señales de que algo esta mal, necesita reaseguración frecuente de que la relación va bien, y se anticipa constantemente a la posibilidad del abandono aunque su pareja no ha dado ninguna señal real de querer irse. Su pareja la quiere. Elena no puede sentirlo de forma estable. Esta es la arquitectura de la ansiedad de apego.

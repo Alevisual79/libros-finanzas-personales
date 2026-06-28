@@ -1,7 +1,5 @@
 # Los gastos hormiga
 
-## Cómo los gastos pequeños te roban más que los grandes sin que te des cuenta
-
 **Serie Finanzas Personales — Serie 3: Ahorro Sistemático — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo los gastos pequeños te roban más que los grandes sin que te des cuenta
 
 ### Prólogo: La muerte por mil picotazos
 

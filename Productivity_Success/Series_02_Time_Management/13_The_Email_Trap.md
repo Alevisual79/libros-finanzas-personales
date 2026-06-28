@@ -1,17 +1,12 @@
 # The Email Trap
-## How digital communication hijacked your workday — and how to take it back
 
 **Series 2: Time Management — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How digital communication hijacked your workday — and how to take it back
 
 ### Prologue
 Nadia checked her email 47 times on a Tuesday. She knew this because her phone had a screen time report, which she had not asked for and which she read with the mix of recognition and mild shame that screen time reports reliably produce. She also checked Slack 61 times on the same day, received 23 push notifications from various work applications, and was interrupted 34 times by messages requiring at least some response within the same business day.

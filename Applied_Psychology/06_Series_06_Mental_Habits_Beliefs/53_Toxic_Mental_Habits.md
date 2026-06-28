@@ -1,17 +1,12 @@
 # Toxic Mental Habits
-## The Invisible Patterns That Drain You and How to Break Free
 
 **Series 6: Mental Habits and Beliefs — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Invisible Patterns That Drain You and How to Break Free
 
 ### Prologue
 If you had asked Natalia to identify what was keeping her stuck, she could not have answered clearly. There was no single catastrophe, no ongoing crisis, no obvious external obstacle. She had things she wanted to do and wasn't doing them. She had a life she wanted to improve and wasn't improving it. She was tired in a way that sleep didn't fix. She worried in a way that felt productive but never solved anything. She second-guessed decisions she had already made. She rehearsed conversations that were never going to happen. She compared herself to people she didn't know well enough to compare herself to. She apologized for things that were not her fault. These patterns occupied enormous amounts of her mental and emotional bandwidth — quietly, almost invisibly, the way a background application drains a battery without producing anything useful.

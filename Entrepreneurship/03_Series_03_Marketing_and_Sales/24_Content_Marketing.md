@@ -1,17 +1,12 @@
 # Content Marketing
-## Building authority and attracting customers through what you know
 
 **Series 03: Marketing and Sales — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building authority and attracting customers through what you know
 
 ### Prologue
 When Marcus started his cybersecurity consulting firm, he faced the standard early-stage marketing dilemma: he needed clients to build credibility, and he needed credibility to attract clients. His budget for paid advertising was minimal, his professional network in the relevant industry (healthcare technology) was limited, and his firm was indistinguishable from the dozens of similar boutique cybersecurity consultancies competing for the same clients. He had one significant advantage: he had spent fifteen years working in healthcare IT security, and he knew things about the specific compliance and security challenges of healthcare technology companies that no marketing budget could replicate.

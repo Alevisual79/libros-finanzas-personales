@@ -1,17 +1,12 @@
 # Rebuilding After Debt
-## A Fresh Start Strategy
 
 **Series 2: Zero Debt — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A Fresh Start Strategy
 
 ### Prologue
 At 47, Isabel went through a financial reset she hadn't anticipated. Not a bankruptcy — her finances hadn't deteriorated that far. But a combination of factors over three years had left her with depleted savings, restructured debt, a damaged credit score, and a relationship to money she described as "broken."

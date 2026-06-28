@@ -1,17 +1,12 @@
 # Proteger tu Bienestar en Relaciones Difíciles
-## Estrategias para no perder tu equilibrio en entornos relacionales complejos
 
 **Serie 09: Límites y Relaciones Toxicas — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Estrategias para no perder tu equilibrio en entornos relacionales complejos
 
 ### Prólogo
 Elena trabaja en un entorno laboral toxico, tiene una relación familiar complicada que no puede resolver facilmente, y acaba de salir de una amistad que la drenaba sistemáticamente. No siempre puedes cambiar el entorno que te rodea. Pero, descubre con el tiempo, siempre puedes protegerte mejor dentro de el, incluso cuando salir completamente no es inmediatamente posible.

@@ -1,17 +1,12 @@
 # Creencias que te Limitan
-## Identifica y desmonta los programas mentales que frenan tu vida
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Identifica y desmonta los programas mentales que frenan tu vida
 
 ### Prólogo
 Elena lleva años intentando avanzar en su carrera y siempre llega al mismo punto donde se detiene. Cuando lo examina de cerca, no es una falta de habilidad ni de oportunidades. Es una voz interna que dice cosas como las personas como yo no llegan a esos puestos o si intento algo grande y fallo, demostrare que tenían razón. Esas voces no son observaciones neutrales sobre la realidad. Son creencias limitantes: estructuras mentales que se instalaron en algun momento de la vida como verdades sobre lo que es posible, y que desde entonces funcionan como barreras invisibles. Este libro es para aprender a reconocerlas, entender de dónde vienen, y empezar a desinstalarlas.

@@ -1,17 +1,12 @@
 # Your Value Proposition
-## The art of communicating why customers should choose you
 
 **Series 03: Marketing and Sales — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The art of communicating why customers should choose you
 
 ### Prologue
 Three competing software companies had nearly identical products: project management tools designed for small creative agencies. One was growing at forty percent annually. The other two were growing at eight and twelve percent respectively, with higher customer acquisition costs and worse retention rates. A researcher comparing the three companies' marketing materials, sales conversations, and customer communication would have found one systematic difference: the growing company was consistently able to answer, in a single sentence that every customer immediately understood and found compelling, why a creative agency would choose their software over any alternative. The other two companies could not — their materials were full of features, capabilities, and technical specifications, but they failed to communicate, in language their customers used to describe their own problems, what the software would do for the person using it.

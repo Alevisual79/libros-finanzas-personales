@@ -1,17 +1,12 @@
 # Resilience
-## The Science of Bouncing Forward
 
 **Series 5: Trauma and Wounds — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science of Bouncing Forward
 
 ### Prologue
 When people described Sofia as resilient, she wasn't sure she recognized herself in the description. She had survived significant adversity: a difficult childhood, a health crisis in her early thirties, a professional setback that had derailed a career she had worked toward for a decade. She had, in each case, eventually returned to a functional life. But "bouncing back" was not how she would have described the process: each time, she had been genuinely broken for a period; each time, what she returned to was not the same place she had left but somewhere different, altered by the experience in ways that were sometimes worse and sometimes better than what preceded them. The resilience she had shown was not the bouncing of a rubber ball. It was something more effortful, more variable, and more genuinely human than that metaphor suggested.

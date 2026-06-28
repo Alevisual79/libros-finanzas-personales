@@ -1,7 +1,5 @@
 # El hábito más importante que puedes tener
 
-## La rutina de mañana que lo cambia todo — y cómo construirla sin que sea otra cosa que no puedes sostener
-
 **Serie Salud y Bienestar — Serie 6: Hábitos y Rutinas — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La rutina de mañana que lo cambia todo — y cómo construirla sin que sea otra cosa que no puedes sostener
 
 ### Prólogo: Las primeras horas del día
 

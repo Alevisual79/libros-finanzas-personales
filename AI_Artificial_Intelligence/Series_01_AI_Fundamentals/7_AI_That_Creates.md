@@ -1,17 +1,12 @@
 # AI That Creates
-## Generative AI and the New Era of Machine Creativity
 
 **Series 1: AI Fundamentals — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Generative AI and the New Era of Machine Creativity
 
 ### Prologue
 When the first AI-generated image won an art competition in 2022, the controversy was immediate. Artists felt cheated. Technologists felt misunderstood. Everyone felt unprepared. This book prepares you.

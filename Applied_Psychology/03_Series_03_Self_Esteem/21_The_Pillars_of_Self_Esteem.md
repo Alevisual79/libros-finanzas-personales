@@ -1,17 +1,12 @@
 # The Pillars of Self-Esteem
-## Building Authentic Confidence from the Inside Out
 
 **Series 3: Self-Esteem and Self-Image — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building Authentic Confidence from the Inside Out
 
 ### Prologue
 Marcus had achieved everything he was told would make him feel good about himself. A prestigious job title, a house in the right neighborhood, a partner who admired him, and enough social media followers to validate his existence on a daily basis. And yet, at 37, he sat in a therapist's office describing a persistent, gnawing sense that none of it was quite real — that he was performing a life rather than living one. His confidence in meetings was impeccable. His confidence in himself was close to zero. The therapist he was seeing had heard this story dozens of times. External achievement and internal self-worth, she explained, are connected far less directly than our culture suggests.

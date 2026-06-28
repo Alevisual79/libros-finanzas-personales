@@ -1,17 +1,12 @@
 # Informed Pregnancy
-## What Every Person Should Know About Prenatal Health
 
 **Series 8: Sexual and Reproductive Health — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Every Person Should Know About Prenatal Health
 
 ### Prologue
 Pregnancy is both a normal biological process and a significant medical undertaking. The outcomes of pregnancy — for both the gestating person and the baby — are substantially influenced by prenatal care quality, lifestyle during pregnancy, and how complications are identified and managed. At the same time, pregnancy has been medicalized in ways that can create unnecessary anxiety and disempowerment.

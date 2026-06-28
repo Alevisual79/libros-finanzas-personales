@@ -1,17 +1,12 @@
 # The Fear of Intimacy
-## Understanding what holds us back from genuine closeness
 
 **Series 1: Know Yourself in Relationships — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding what holds us back from genuine closeness
 
 ### Prologue
 Tom had been describing his relationship with closeness for fifteen minutes to his therapist when he said the thing that surprised both of them: "I want people close to me. I just don't want them to see me."

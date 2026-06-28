@@ -1,17 +1,12 @@
 # Customer Community
-## Building relationships that turn customers into advocates and allies
 
 **Series 07: Customers and Value — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building relationships that turn customers into advocates and allies
 
 ### Prologue
 When Stephanie launched the customer community for her HR software company, she had two goals: reduce her customer support costs by enabling customers to help each other, and increase her customer retention rate by creating a reason to remain engaged with the product beyond its functional utility.

@@ -1,7 +1,5 @@
 # La depresión que nadie ve
 
-## Reconocer los síntomas sutiles, salir del estigma y pedir ayuda a tiempo
-
 **Serie Salud y Bienestar — Serie 4: Mente y Emociones — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Reconocer los síntomas sutiles, salir del estigma y pedir ayuda a tiempo
 
 ### Prólogo: Funcionar no es estar bien
 

@@ -1,17 +1,12 @@
 # Reconciling with the Past
-## How to integrate difficult relationships into your personal story
 
 **Series 8: Repair and Heal — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to integrate difficult relationships into your personal story
 
 ### Prologue
 Marcus had begun to understand that reconciling with the past did not mean making peace with the past.

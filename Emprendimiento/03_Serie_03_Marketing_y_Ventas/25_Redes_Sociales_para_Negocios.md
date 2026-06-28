@@ -1,17 +1,12 @@
 # Redes Sociales para Negocios
-## Cómo usar las plataformas para crecer sin perder el tiempo
 
 **Serie 03: Marketing y Ventas — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo usar las plataformas para crecer sin perder el tiempo
 
 ### Prólogo
 Carlos pasa dos horas al dia en Instagram y Twitter y no ha conseguido ningún cliente de ninguna de las dos. Lucia tiene cinco mil seguidores en LinkedIn y no sabe como convertirlos en clientes. Marcos no entiende para qué sirven las redes sociales en un negocio B2B y no ha publicado nada nunca. Los tres cometen errores diferentes pero tienen el mismo problema subyacente: no tienen una estrategia de redes sociales alineada con sus objetivos de negocio. Las redes sociales no son el problema ni la solución. Son una herramienta. Y como toda herramienta, su valor depende completamente de saber para qué sirve y como usarla.

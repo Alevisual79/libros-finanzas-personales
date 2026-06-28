@@ -1,17 +1,12 @@
 # The Beliefs That Hold You Back
-## What You Believe About Your Potential and Why It Matters
 
 **Series 1: Mindset and Beliefs — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What You Believe About Your Potential and Why It Matters
 
 ### Prologue
 Andrés had been passed over for promotion three times in five years. Each time, his manager cited different reasons — the team wasn't ready, the role required more cross-functional experience, the timing wasn't right. Andrés accepted each explanation at face value, absorbed the disappointment privately, and returned to his desk to work harder.

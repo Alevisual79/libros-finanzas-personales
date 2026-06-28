@@ -1,7 +1,5 @@
 # Liderazgo sin cargo
 
-## Cómo liderar aunque no tengas un título que lo diga
-
 **Serie Productividad y Éxito — Serie 6: Liderazgo y Trabajo en Equipo — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo liderar aunque no tengas un título que lo diga
 
 ### Prólogo: El que nadie había nombrado líder
 

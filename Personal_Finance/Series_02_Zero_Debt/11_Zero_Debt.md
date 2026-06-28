@@ -1,17 +1,12 @@
 # Zero Debt
-## The Framework for Getting Out and Staying Out
 
 **Series 2: Zero Debt — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Framework for Getting Out and Staying Out
 
 ### Prologue
 Elena had always believed she was "pretty good with money." She paid her bills on time, never overdrafted her checking account, and kept a credit card balance that felt manageable — around $4,200 at any given moment. At 33, earning $78,000 a year after her recent raise, she figured debt was just part of adult life. Everyone had some. You paid the minimum, you carried it forward, you moved on. Then one evening, after a difficult conversation with a colleague who had just paid off her car loan, Elena sat down and actually calculated what her debt was costing her. The number stopped her cold: at her current interest rate of 22.9%, she was paying roughly $80 a month just in interest — money that bought her nothing, built nothing, and would keep cycling through her statement indefinitely as long as she only paid the minimum. That evening marked the beginning of something different.

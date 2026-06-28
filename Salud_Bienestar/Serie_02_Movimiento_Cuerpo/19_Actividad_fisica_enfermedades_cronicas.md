@@ -1,7 +1,5 @@
 # Actividad física y enfermedades crónicas
 
-## Mover el cuerpo cuando duele o cuando hay diagnósticos establecidos
-
 **Serie Salud y Bienestar — Serie 2: Movimiento y Cuerpo — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Mover el cuerpo cuando duele o cuando hay diagnósticos establecidos
 
 ### Prólogo: El ejercicio que se evita cuando más se necesita
 

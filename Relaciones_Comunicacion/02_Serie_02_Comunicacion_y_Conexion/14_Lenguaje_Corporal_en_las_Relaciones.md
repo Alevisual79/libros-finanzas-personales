@@ -1,17 +1,12 @@
 # Lenguaje Corporal en las Relaciones
-## Lo que tu cuerpo dice cuando tu boca calla
 
 **Serie 02: Comunicación y Conexión — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que tu cuerpo dice cuando tu boca calla
 
 ### Prólogo
 Dos personas se sientan a hablar. Una dice que esta de acuerdo, pero su postura se cierra, sus brazos se cruzan, su mirada se va hacía un lado. La otra nota algo sin saber exactamente que. Sale de la conversación con una sensación de que algo no cuadraba.

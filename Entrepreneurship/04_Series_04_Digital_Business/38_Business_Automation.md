@@ -1,17 +1,12 @@
 # Business Automation
-## Freeing your time from repetitive work so you can focus on what matters
 
 **Series 04: Digital Business — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Freeing your time from repetitive work so you can focus on what matters
 
 ### Prologue
 After three years of building his digital marketing agency, Diego found himself working seventy-hour weeks despite having seven employees and $1.2 million in annual revenue. The business was successful by every external measure; it was unsustainable by every personal measure. When he analyzed where his time was actually going, he discovered that thirty to forty percent of his weekly hours were consumed by tasks that were necessary but not skilled: sending follow-up emails that could have been automated, manually moving information between systems that could have been integrated, producing reports that could have been generated automatically, and managing the administrative logistics of a growing client roster without systems to handle the routine aspects.

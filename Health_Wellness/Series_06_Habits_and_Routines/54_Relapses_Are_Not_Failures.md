@@ -1,17 +1,12 @@
 # Relapses Are Not Failures
-## How to Return After You Fall Off Track
 
 **Series 6: Habits and Routines — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Return After You Fall Off Track
 
 ### Prologue
 Elena quit smoking at 29. She had a cigarette at her best friend's wedding at 31 and then smoked irregularly for three months before stopping again. She had not "relapsed" — she had encountered a normal part of behavior change that is so common and so predictable that researchers build it into their models.

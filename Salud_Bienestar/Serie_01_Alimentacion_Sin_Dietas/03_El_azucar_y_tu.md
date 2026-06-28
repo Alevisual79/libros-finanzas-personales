@@ -1,7 +1,5 @@
 # El azúcar y tú
 
-## Cómo el azúcar controla tu energía, humor y peso sin que lo sepas
-
 **Serie Salud y Bienestar — Serie 1: Alimentación Sin Dietas — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo el azúcar controla tu energía, humor y peso sin que lo sepas
 
 ### Prólogo: El ingrediente que está en todas partes
 

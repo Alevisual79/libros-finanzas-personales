@@ -1,17 +1,12 @@
 # The Diversity That Generates Ideas
-## How different perspectives make creativity possible
 
 **Series 7: Creativity and Innovation — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How different perspectives make creativity possible
 
 ### Prologue
 The research and development team at the pharmaceutical company where Raj worked was technically excellent — recruited from the best graduate programs, uniformly high-achieving, and remarkably homogeneous. They had come from similar educational backgrounds, shared the same methodological assumptions, and had solved problems together long enough to have developed the efficient shared shorthand that teams with extensive common history develop.

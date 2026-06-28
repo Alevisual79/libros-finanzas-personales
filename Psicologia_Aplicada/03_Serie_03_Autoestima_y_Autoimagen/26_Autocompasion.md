@@ -1,17 +1,12 @@
 # Autocompasión
-## Tratarte bien como base de todo lo demás
 
 **Serie 03: Autoestima y Autoimagen — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Tratarte bien como base de todo lo demás
 
 ### Prólogo
 Ruben se rompio el tobillo entrenando. Dos dias después todavía estaba trabajando desde el sofa, sin ir al médico, aguantando el dolor porque había cosas que hacer y no podía permitirse parar. Si un amigo suyo hubiera tenido el mismo accidente, lo habría convencido de ir al médico, de descansar, de pedir ayuda. A si mismo no se lo permitia. Esta diferencia entre como tratamos a los demás cuando sufren y como nos tratamos a nosotros mismos cuando sufrimos es la brecha que la autocompasión busca cerrar.

@@ -1,17 +1,12 @@
 # Nonviolent Communication
-## Express what you need without hurting or pushing away
 
 **Series 2: Communication and Connection — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Express what you need without hurting or pushing away
 
 ### Prologue
 Sarah had a gift for saying exactly the right wrong thing. Not cruelly — she was not a cruel person — but with a precision that, when she replayed conversations later, she could see had landed as accusation, as judgment, as the specific kind of statement that closes a door rather than opening one.

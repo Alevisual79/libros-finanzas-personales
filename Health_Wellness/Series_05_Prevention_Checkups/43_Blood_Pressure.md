@@ -1,17 +1,12 @@
 # Blood Pressure
-## The Silent Risk You Can Measure and Manage
 
 **Series 5: Prevention and Checkups — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Silent Risk You Can Measure and Manage
 
 ### Prologue
 Ruben's blood pressure was 138/88 mm Hg when measured at his annual physical. His physician described it as "a little high — we should watch it." He left without a clear explanation of what this meant, what the risk was, or what he should do about it. He didn't check it again for 18 months.

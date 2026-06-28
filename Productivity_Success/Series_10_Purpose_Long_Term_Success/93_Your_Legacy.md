@@ -1,17 +1,12 @@
 # Your Legacy
-## Building the contribution that outlasts your career
 
 **Series 10: Purpose and Long-Term Success — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building the contribution that outlasts your career
 
 ### Prologue
 Legacy is the word that the professional development literature most often uses and least carefully defines. In its most common usage, it means the achievements and outcomes the professional leaves behind when they retire or die — the career accomplishments, the organizational contributions, the work that outlasts the work period. In this usage, legacy is primarily a retrospective concept: something assessed at the end of a career, not pursued as an active orientation throughout it.

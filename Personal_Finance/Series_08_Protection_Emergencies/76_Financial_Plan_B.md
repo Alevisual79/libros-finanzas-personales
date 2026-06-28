@@ -1,17 +1,12 @@
 # Financial Plan B
-## What You Do When Everything Goes Wrong at Once
 
 **Series 8: Protection and Emergencies — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What You Do When Everything Goes Wrong at Once
 
 ### Prologue
 Elena was having what she later called "the perfect storm week." On Monday, her car needed a $1,400 transmission repair. On Wednesday, her landlord announced a $200 rent increase. On Friday, the company-wide email arrived: a restructuring was coming, and her marketing department was under review. Three separate problems, each manageable alone, but arriving together with the force of a body blow. She sat at her kitchen table that Sunday night, staring at her bank app, doing math that didn't work. Her emergency fund had $4,200 — enough for the car, but not the car plus higher rent plus a potential job loss. She felt the specific, nauseating panic of someone who has been doing things right but not quite right enough.

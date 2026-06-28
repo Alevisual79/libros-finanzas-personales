@@ -1,17 +1,12 @@
 # Your Self-Love Story
-## How the relationship you have with yourself shapes every relationship you have with others
 
 **Series 1: Know Yourself in Relationships — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How the relationship you have with yourself shapes every relationship you have with others
 
 ### Prologue
 Ana had always been better at caring for other people than for herself. This is not an unusual story. Among the women she knew — the colleagues, the friends, the women in her family — it was so common as to seem like a feature of the species rather than a learned pattern. She could identify her husband's needs before he articulated them. She knew which of her friends was struggling before they called. She was, by any measure, an expert in attending to the people she loved.

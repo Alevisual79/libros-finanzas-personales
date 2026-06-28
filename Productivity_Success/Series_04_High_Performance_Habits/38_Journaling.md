@@ -1,17 +1,12 @@
 # Journaling
-## The private practice that accelerates everything else
 
 **Series 4: High Performance Habits — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The private practice that accelerates everything else
 
 ### Prologue
 Leo had tried journaling twice. The first time, at age nineteen, he had filled the first twelve pages of a beautiful leather notebook and then stopped in the middle of a sentence when the entry had begun to feel like performance — as if he were writing for a reader he couldn't quite identify, trying to be interesting to someone who was not there. The second time, at thirty-two, he had completed twenty-one consecutive days using a structured gratitude journal app and had noticed no particular effect beyond the faint satisfaction of a streak maintained.

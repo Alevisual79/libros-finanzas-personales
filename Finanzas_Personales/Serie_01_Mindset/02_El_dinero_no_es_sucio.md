@@ -1,7 +1,5 @@
 # El dinero no es sucio
 
-## Desmontando las creencias que te mantienen pobre aunque trabajes duro
-
 **Serie Finanzas Personales — Serie 1: Mindset del Dinero — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Desmontando las creencias que te mantienen pobre aunque trabajes duro
 
 ### Prólogo: El problema no es el dinero
 

@@ -1,17 +1,12 @@
 # Pricing and Margins
-## The financial mechanics of profitability
 
 **Series 05: Business Finance — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The financial mechanics of profitability
 
 ### Prologue
 When Ana started her organic food delivery business, she priced her weekly meal kit at $65. She had calculated that this price would cover her food costs ($28), her delivery costs ($12), and her packaging ($4), leaving $21 — a margin she felt was reasonable for a new business. Eighteen months later, the business had grown to 180 subscribers, generating nearly $12,000 per week in revenue. She was working sixty-hour weeks with two part-time assistants, and she was losing money.

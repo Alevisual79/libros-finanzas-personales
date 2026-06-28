@@ -1,17 +1,12 @@
 # Sanar una Relación Dañada
-## Como reconstruir la confianza cuando todo se ha roto
 
 **Serie 08: Reparar y Sanar — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como reconstruir la confianza cuando todo se ha roto
 
 ### Prólogo
 Ruben quiere reparar su relación con su hermano pero no sabe por donde empezar. El primer paso, descubre, no es la disculpa apresurada que llevaba años queriendo soltar. Es entender, con honestidad y sin prisa, que se rompio realmente entre ellos, porque sin ese entendimiento, cualquier intento de reparación estará dirigido al problema equivocado.

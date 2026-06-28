@@ -1,7 +1,5 @@
 # Reescribe tu historia financiera
 
-## Cómo cambiar los patrones heredados de dinero y construir una historia nueva
-
 **Serie Finanzas Personales — Serie 1: Mindset del Dinero — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo cambiar los patrones heredados de dinero y construir una historia nueva
 
 ### Prólogo: La historia que te estás contando
 

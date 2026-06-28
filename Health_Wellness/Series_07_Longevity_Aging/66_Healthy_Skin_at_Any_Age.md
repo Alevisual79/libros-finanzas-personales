@@ -1,17 +1,12 @@
 # Healthy Skin at Any Age
-## Evidence-Based Skincare and Skin Health Through the Decades
 
 **Series 7: Longevity and Aging — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Evidence-Based Skincare and Skin Health Through the Decades
 
 ### Prologue
 The skin is the body's largest organ and its most visible indicator of biological aging. It is also one of the most medically important organs — a barrier against infection, a thermoregulator, a sensory system, and an immune organ. Skin health matters both for what it signals (early signs of systemic disease often appear in the skin) and for what it directly prevents (skin cancer kills approximately 8,000 Americans per year from melanoma alone).

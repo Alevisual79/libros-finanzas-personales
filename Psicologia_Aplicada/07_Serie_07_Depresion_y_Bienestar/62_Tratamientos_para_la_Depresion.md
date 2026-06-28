@@ -1,17 +1,12 @@
 # Tratamientos para la Depresión
-## Lo que funciona y lo que la ciencia dice sobre cada opción
 
 **Serie 07: Depresión y Bienestar Mental — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que funciona y lo que la ciencia dice sobre cada opción
 
 ### Prólogo
 Ruben fue diagnosticado con depresión mayor hace seis meses. Desde entonces ha recibido información contradictoria: su médico le receto antidepresivos, un amigo le dijo que solo necesitaba hacer ejercicio, un familiar le sugirió que los antidepresivos lo convertiran en un zombie, y un artículo en internet le aseguró que la meditación cura la depresión sin necesidad de farmacos. Ruben no sabe que creer. Este libro es un mapa de los tratamientos que la investigación ha demostrado que funcionan, con que intensidad, para qué perfiles, y cómo se complementan.

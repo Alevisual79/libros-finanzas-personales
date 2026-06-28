@@ -1,17 +1,12 @@
 # Pensamientos Catastroficos
-## Como dejar de imaginar siempre el peor escenario
 
 **Serie 02: Ansiedad y Miedos — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como dejar de imaginar siempre el peor escenario
 
 ### Prólogo
 Isabel recibe un mensaje de su jefe que dice solo necesito hablar contigo mañana. Inmediatamente su mente construye un guion: la van a despedir, hay un problema grave, algo que hizo mal ha tenido consecuencias que no conoce todavía. Pasa la tarde y la noche con ese guion activo, planificando mentalmente cómo lo manejaria, que diria, cómo se lo contaria a su familia. A la mañana siguiente su jefe le dice que quiere ofrecerle un aumento. El tiempo que Isabel dedicó al escenario catastrofico fue completamente gratuito. Pero la próxima vez que reciba un mensaje ambiguo, su cerebro hará exactamente lo mismo.

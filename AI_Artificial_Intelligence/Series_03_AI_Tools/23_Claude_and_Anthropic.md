@@ -1,17 +1,12 @@
 # Claude and Anthropic
-## The AI Built for Safety and Long-Context Reasoning
 
 **Series 3: AI Tools — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The AI Built for Safety and Long-Context Reasoning
 
 ### Prologue
 When Anthropic published its Constitutional AI paper, it marked a different approach to building AI: starting from values, not just capabilities. Understanding what Anthropic is trying to do helps you understand what Claude is designed to do.

@@ -1,17 +1,12 @@
 # Ultra-Processed Foods
-## Understanding the Most Significant Nutritional Challenge of Our Time
 
 **Series 1: Nutrition Without Diets — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding the Most Significant Nutritional Challenge of Our Time
 
 ### Prologue
 Ultra-processed foods now constitute approximately 57% of caloric intake in the United States and similar proportions in other high-income countries. They are the dominant food source in the modern diet — and the dietary category with the most consistent and growing evidence of harm across multiple health outcomes.

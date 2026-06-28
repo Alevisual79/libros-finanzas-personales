@@ -1,17 +1,12 @@
 # Equilibrio entre Trabajo y Vida Personal
-## Cómo construir los límites que protegen tus relaciones fuera del trabajo
 
 **Serie 06: Relaciones Laborales — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir los límites que protegen tus relaciones fuera del trabajo
 
 ### Prólogo
 Elena trabaja sesenta horas semanales y llama a eso compromiso. Sus relaciones personales la llaman ausente. Los dos, descubre con el tiempo, tienen razón, y el reto de su vida no es elegir entre el compromiso profesional y la presencia relacional, sino encontrar la forma de honrar ambos sin que uno devore sistemáticamente al otro.

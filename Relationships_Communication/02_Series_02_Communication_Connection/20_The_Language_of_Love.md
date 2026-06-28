@@ -1,17 +1,12 @@
 # The Language of Love
-## How to express affection in ways the other person can receive
 
 **Series 2: Communication and Connection — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to express affection in ways the other person can receive
 
 ### Prologue
 David had loved Elena for twelve years. He had told her so, regularly, in the way that came naturally to him: he had solved her problems, he had managed the aspects of their shared life that she found stressful, he had maintained the house, arranged the trips, made sure the car was serviced and the insurance was current. When she was sick, he brought her tea. When she was overwhelmed, he took things off her list. He had been, by his own estimation, a consistently attentive and caring partner.

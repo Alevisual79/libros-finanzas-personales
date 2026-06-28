@@ -1,17 +1,12 @@
 # The Weekly Planning System
-## The 60-minute ritual that changes everything
 
 **Series 2: Time Management — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The 60-minute ritual that changes everything
 
 ### Prologue
 Lucía had two modes of professional operation. In the first, she felt reasonably in control — she knew what she was working toward, why she was spending her time as she was, and whether she was making progress on the things that mattered. In the second, she felt perpetually behind — reacting to demands, running between obligations, and ending each day uncertain whether the day had served any purpose that she had actually intended.

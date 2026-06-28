@@ -1,17 +1,12 @@
 # AI Leadership
-## Managing People Through Technological Transformation
 
 **Series 9: Future of Work — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Managing People Through Technological Transformation
 
 ### Prologue
 Isabel had led her team through a software migration, a culture change, and a pandemic. Leading through the AI transition was different: it was faster, more pervasive, and more personally threatening to more people than any previous change.

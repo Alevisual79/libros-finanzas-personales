@@ -1,7 +1,5 @@
 # El equipo de alto rendimiento
 
-## Cómo construir y mantener equipos que entregan resultados
-
 **Serie Productividad y Éxito — Serie 6: Liderazgo y Trabajo en Equipo — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir y mantener equipos que entregan resultados
 
 ### Prólogo: La suma que no llegaba a la suma
 

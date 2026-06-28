@@ -1,17 +1,12 @@
 # Joy and Wellbeing
-## The Science of What Makes Life Worth Living
 
 **Series 4: Emotions and Emotional Management — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science of What Makes Life Worth Living
 
 ### Prologue
 For most of his adult life, Thomas had told himself that he would be happy when: when the mortgage was paid off, when he got the promotion, when the children were older and less demanding, when he could afford a longer vacation, when life was finally arranged correctly. These benchmarks arrived and were replaced by new ones without the happiness he had expected materializing. He was not depressed; he functioned well and had moments of genuine pleasure. What he lacked was a sense of baseline contentment, an underlying wellbeing that persisted when circumstances were ordinary rather than specially arranged. He had constructed his relationship with happiness as an achievement to be unlocked by achieving the right conditions — and the conditions, once achieved, failed to produce the experience he had expected.

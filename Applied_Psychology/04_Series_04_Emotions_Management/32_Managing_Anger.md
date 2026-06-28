@@ -1,17 +1,12 @@
 # Managing Anger
-## Understanding and Working with Your Most Misunderstood Emotion
 
 **Series 4: Emotions and Emotional Management — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Working with Your Most Misunderstood Emotion
 
 ### Prologue
 By the time Jordan came to therapy, he had lost a job and damaged three significant relationships through what he described as his temper. He was not a violent man, and he did not shout in the stereotypical sense — his anger expressed itself in a particular cold precision, a sharpness of language that left people feeling carved up rather than attacked. He knew, intellectually, that the anger was a problem; he did not yet understand why it arose so readily, or what it was actually about, or why the attempts he had made to control it had never produced more than temporary results. He thought of anger as a character flaw — a thing about him that was simply bad and needed to be suppressed. His therapist had a different view: anger was information, and the information it was carrying had not yet been delivered.

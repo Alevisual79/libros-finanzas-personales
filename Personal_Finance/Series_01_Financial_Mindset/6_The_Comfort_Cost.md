@@ -1,17 +1,12 @@
 # The Comfort Cost
-## What Staying in Your Comfort Zone Actually Costs You
 
 **Series 1: Financial Mindset — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Staying in Your Comfort Zone Actually Costs You
 
 ### Prologue
 Ruben has been renting the same apartment for six years. It was a good apartment when he moved in — not perfect, but convenient, familiar, and his landlord has never raised the rent. By staying, he's avoided the stress of moving, the cost of a security deposit, and the disruption of learning a new neighborhood.

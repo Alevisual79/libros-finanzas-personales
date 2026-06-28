@@ -1,17 +1,12 @@
 # Subscription Economy
-## Building recurring revenue businesses that customers choose to stay in
 
 **Series 10: Future Business Models — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building recurring revenue businesses that customers choose to stay in
 
 ### Prologue
 For eleven years, Claire had sold her landscape design services the way landscape architects had always sold them: project by project, proposal by proposal, with the perpetual uncertainty of which clients would return and which would consider the relationship concluded when the last invoice was paid. Revenue was good in the project years and thin in the transition years, and the business spent significant energy on sales that produced no revenue — the proposals that weren't accepted, the leads that didn't convert, the clients who called for advice that was given for free because a formal project wasn't ready to be scoped.

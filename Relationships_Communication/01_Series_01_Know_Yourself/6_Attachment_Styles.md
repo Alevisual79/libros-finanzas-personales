@@ -1,17 +1,12 @@
 # Attachment Styles
-## A deeper understanding of how your early bonds shape your adult relationships
 
 **Series 1: Know Yourself in Relationships — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A deeper understanding of how your early bonds shape your adult relationships
 
 ### Prologue
 The attachment style framework introduced in Book 1 of this series is, among the available frameworks for understanding relational psychology, the one with the most extensive empirical foundation and the most direct practical application. This book goes deeper.

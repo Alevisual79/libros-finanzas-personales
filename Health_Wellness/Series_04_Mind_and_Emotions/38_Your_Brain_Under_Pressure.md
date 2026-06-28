@@ -1,17 +1,12 @@
 # Your Brain Under Pressure
-## How Stress Impairs Thinking and What to Do About It
 
 **Series 4: Mind and Emotions — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Stress Impairs Thinking and What to Do About It
 
 ### Prologue
 Elena was in the middle of a high-pressure deadline week when she sent the wrong version of a presentation to a client. She had checked it twice. In her normal cognitive state, she would have caught the error — she had a systematic review process. Under deadline pressure, she had gone through the motions of review without the cognitive engagement required to actually catch errors.

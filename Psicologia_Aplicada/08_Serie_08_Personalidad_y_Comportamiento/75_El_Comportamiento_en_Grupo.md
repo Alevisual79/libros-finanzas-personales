@@ -1,17 +1,12 @@
 # El Comportamiento en Grupo
-## Como cambia quien eres cuando estas con otros
 
 **Serie 08: Personalidad y Comportamiento — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como cambia quien eres cuando estas con otros
 
 ### Prólogo
 Elena ha notado algo desconcertante: es una persona diferente dependiendo del grupo con quien este. Con ciertos compañeros de trabajo, es más creativa y más directa; con otros, más callada y menos propensa a disentir. Con ciertos amigos, es más vulnerable; con otros, más protegida. Y ha presenciado como grupos enteros de personas razonables toman decisiones que individualmente ninguno de ellos habría tomado. Esto no la convierte en inconsistente: la convierte en humana. El comportamiento en grupo es uno de los fenómenos más potentes y menos comprendidos de la psicología. Este libro es sobre ese poder y como navegar sus efectos.

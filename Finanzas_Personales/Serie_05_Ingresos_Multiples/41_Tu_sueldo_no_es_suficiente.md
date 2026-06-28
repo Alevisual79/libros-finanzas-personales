@@ -1,7 +1,5 @@
 # Tu sueldo no es suficiente (y el sistema lo sabe)
 
-## Por qué una sola fuente de ingreso es el mayor riesgo financiero que puedes tener
-
 **Serie Finanzas Personales — Serie 5: Ingresos Múltiples — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué una sola fuente de ingreso es el mayor riesgo financiero que puedes tener
 
 ### Prólogo: El martes que Carlos se quedó sin aire
 

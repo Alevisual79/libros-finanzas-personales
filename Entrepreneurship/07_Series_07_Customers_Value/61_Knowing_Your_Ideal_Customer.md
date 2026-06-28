@@ -1,17 +1,12 @@
 # Knowing Your Ideal Customer
-## Understanding who you serve — and why it matters more than you think
 
 **Series 07: Customers and Value — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding who you serve — and why it matters more than you think
 
 ### Prologue
 When Caroline launched her financial coaching business, she was available to help anyone who wanted to improve their financial situation. Her marketing cast a wide net: social media posts about budgeting tips, articles about debt repayment, videos about saving for retirement. She was knowledgeable, helpful, and completely indistinguishable from thousands of other financial coaches with identical online presences.

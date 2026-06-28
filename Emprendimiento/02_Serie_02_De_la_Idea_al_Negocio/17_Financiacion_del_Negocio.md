@@ -1,17 +1,12 @@
 # Financiación del Negocio
-## Cuando buscar dinero externo y como conseguirlo
 
 **Serie 02: De la Idea al Negocio — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cuando buscar dinero externo y como conseguirlo
 
 ### Prólogo
 Lucia ha decidido que necesita capital externo para alcanzar el crecimiento que su mercado le permite. Carlos está evaluando si buscar un business angel que le ayude no solo con dinero sino con experiencia y contactos. Marcos, con su experiencia corporativa en la gestión de presupuestos, cree que entiende las finanzas bien pero se ha dado cuenta de que la financiación de startups es un mundo con sus propias reglas y su propia lógica. Los tres necesitan entender cuando tiene sentido buscar financiación externa, que tipos existen, como funciona el proceso, y que sacrifican a cambio del capital.

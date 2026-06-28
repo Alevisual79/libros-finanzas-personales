@@ -1,17 +1,12 @@
 # Perdonar y Soltar
-## psicología del perdon como acto de sanación
 
 **Serie 05: Traumas y Heridas — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## psicología del perdon como acto de sanación
 
 ### Prólogo
 Ruben cargaba con el rencor hacía su padre como si fuera una deuda pendiente que alguien tenía que saldar. La idea de perdonarle le producia algo parecido a la injusticia: si perdonaba, borraba lo que había ocurrido, lo convertia en aceptable, se rendia. Nadie le había explicado que el perdon psicológico no es ninguna de esas cosas. No es declarar que lo que ocurrio estuvo bien. No es reconciliarse con quien causo el daño. No es olvidar. Es elegir no cargar más con la herida como arma que senala al responsable, y en ese proceso, liberar los recursos emocionales que esa carga consume. El perdon es un acto de autoliberación, no de absolución del otro.

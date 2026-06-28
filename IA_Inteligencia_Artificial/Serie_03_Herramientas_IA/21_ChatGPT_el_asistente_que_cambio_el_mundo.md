@@ -1,17 +1,12 @@
 # ChatGPT: El asistente que cambio el mundo
-## Cómo usar el modeló más popular del mundo para trabajar mejor
 
 **Serie 3: Herramientas de IA — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo usar el modeló más popular del mundo para trabajar mejor
 
 ### Prólogo: El antes y el después de noviembre de 2022
 

@@ -1,17 +1,12 @@
 # Cash Flow
-## The lifeblood of your business: how to manage it before it manages you
 
 **Series 05: Business Finance — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The lifeblood of your business: how to manage it before it manages you
 
 ### Prologue
 By every accounting measure, Victor's graphic design studio was profitable. In its third year of operation, the business generated $340,000 in revenue with operating expenses of $220,000, producing an accounting profit of $120,000. Victor paid himself a modest salary, had a small emergency reserve, and was proud of what he had built. Then, in October, three large clients paid their invoices sixty days late while two significant vendor payments came due on schedule. In a matter of weeks, the business that had been profitable on paper faced a moment of genuine financial crisis: the inability to meet its current obligations.

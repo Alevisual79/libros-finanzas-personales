@@ -1,17 +1,12 @@
 # Gestión de la Ira
-## Cómo manejar la rabia sin explotar ni reprimirla
 
 **Serie 04: Emociones y Gestión Emocional — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo manejar la rabia sin explotar ni reprimirla
 
 ### Prólogo
 Ruben tiene la teoria de que si aguanta suficiente, si nunca explota, si siempre es razonable, la ira no le causara problemas. Lo que no sabe es que la ira que no se expresa no desaparece: va acumulandose hasta que sale de la forma menos oportuna, o se queda dentro produciendo tensión muscular cronica, problemas cardiovasculares, y una irritabilidad de fondo que contamina su humor mucho más que una expresión directa y oportuna habría hecho. Suprimir la ira no es lo mismo que gestionarla. Y la diferencia importa más de lo que Ruben ha querido creer.

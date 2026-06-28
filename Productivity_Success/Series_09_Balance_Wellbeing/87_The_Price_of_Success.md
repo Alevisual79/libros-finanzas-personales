@@ -1,17 +1,12 @@
 # The Price of Success
-## The hidden costs of achievement and how to navigate them consciously
 
 **Series 9: Balance and Wellbeing — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The hidden costs of achievement and how to navigate them consciously
 
 ### Prologue
 The career that Sarah had been building for fifteen years had produced the outcomes that she had, at twenty-eight, identified as the measures of professional success: the clinical reputation, the academic position, the leadership role, the financial stability, the external recognition. These were not hollow achievements; they were the genuine product of sustained commitment, exceptional capability, and years of work that had required the subordination of many other things to the professional pursuit.

@@ -1,17 +1,12 @@
 # Health as a Life Project
-## Integrating Everything You've Learned
 
 **Series 10: Integrative Health — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Integrating Everything You've Learned
 
 ### Prologue
 One hundred books. One hundred facets of a single, vast subject: human health in the fullest sense — physical, metabolic, psychological, relational, environmental, and existential. This final book does not add new information. It synthesizes, prioritizes, and frames what has come before.

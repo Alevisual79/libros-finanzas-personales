@@ -1,17 +1,12 @@
 # The Debt You Cannot See
-## Hidden Financial Obligations and Their Cost
 
 **Series 2: Zero Debt — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Hidden Financial Obligations and Their Cost
 
 ### Prologue
 Isabel sat down one Sunday afternoon to calculate her net worth. Assets: home equity, retirement accounts, car value, cash. Liabilities: mortgage balance, the personal loan nearly paid off. She subtracted one from the other and arrived at a number she felt moderately good about.

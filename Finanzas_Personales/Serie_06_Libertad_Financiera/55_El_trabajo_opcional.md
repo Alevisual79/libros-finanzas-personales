@@ -1,7 +1,5 @@
 # El trabajo opcional
 
-## Cuando trabajas porque quieres, no porque tienes que
-
 **Serie Finanzas Personales — Serie 6: Libertad Financiera — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cuando trabajas porque quieres, no porque tienes que
 
 ### Prólogo: Lo que Carlos pensó en el baño
 

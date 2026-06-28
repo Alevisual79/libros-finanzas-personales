@@ -1,7 +1,5 @@
 # Hipoteca inteligente: Lo que el banco no quiere que sepas
 
-## Entender tu hipoteca de verdad y pagar menos a lo largo de toda su vida
-
 **Serie Finanzas Personales — Serie 2: Deuda Cero — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entender tu hipoteca de verdad y pagar menos a lo largo de toda su vida
 
 ### Prólogo: El préstamo más grande de tu vida
 

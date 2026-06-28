@@ -1,7 +1,5 @@
 # Gestión del estrés para gente ocupada
 
-## Sin meditación de una hora ni retiros de yoga
-
 **Serie Productividad y Éxito — Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Sin meditación de una hora ni retiros de yoga
 
 ### Prólogo: La respiración de cuatro segundos que lo cambia todo
 

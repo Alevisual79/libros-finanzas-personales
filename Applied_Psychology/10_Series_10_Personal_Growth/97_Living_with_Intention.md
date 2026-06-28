@@ -1,17 +1,12 @@
 # Living with Intention
-## The Psychology of Deliberate Choice and Conscious Design
 
 **Series 10: Personal Growth — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Psychology of Deliberate Choice and Conscious Design
 
 ### Prologue
 There is a meaningful difference between a life that happens to a person and a life that a person designs. The distinction is not about control — both lives contain vast quantities of uncontrolled, unforeseeable, and unchosen events. It is about the orientation toward those events, the degree to which responses to them are deliberate rather than reflexive, and the degree to which the overall direction of the life reflects genuine choice rather than accumulated default.

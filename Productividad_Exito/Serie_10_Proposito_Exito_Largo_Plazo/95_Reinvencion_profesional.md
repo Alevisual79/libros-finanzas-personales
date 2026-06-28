@@ -1,7 +1,5 @@
 # Reinvención profesional
 
-## Cómo cambiar de carrera sin empezar desde cero
-
 **Serie Productividad y Éxito — Serie 10: Propósito y Éxito a Largo Plazo — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo cambiar de carrera sin empezar desde cero
 
 ### Prólogo: Los quince años que no se perdieron
 

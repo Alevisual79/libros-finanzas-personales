@@ -1,17 +1,12 @@
 # AI in Customer Service
-## Chatbots Agents and the Human Balance
 
 **Series 6: AI and Business — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Chatbots Agents and the Human Balance
 
 ### Prologue
 Isabel's company deployed a customer service chatbot and measured a 40% reduction in ticket volume. Then they measured customer satisfaction: it had dropped. The bot was answering questions efficiently. It was not resolving problems emotionally.

@@ -1,17 +1,12 @@
 # Aging Parents and Financial Dependence
-## When the Roles Reverse
 
 **Series 7: Money, Family & Relationships — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When the Roles Reverse
 
 ### Prologue
 Isabel noticed the change in her mother gradually, then all at once. First it was the repeat phone calls — three in one evening asking the same question about Thanksgiving. Then the unpaid bills she found on a visit in March, the confusion at the pharmacy, the refrigerator full of expired food. Isabel's mother, at 79, was still mostly functional, still living in the family home, still able to manage her daily routine with reminders. But the trajectory was clear. Isabel found herself Googling "dementia stages" late at night, then "how to become a parent's financial representative," then "what does a geriatric care manager do." She had spent her career becoming financially stable. She had not spent any of it preparing for the role of financial caregiver.

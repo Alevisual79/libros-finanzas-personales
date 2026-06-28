@@ -1,17 +1,12 @@
 # AI Strategy
-## How Leaders Should Think About the Intelligence Revolution
 
 **Series 6: AI and Business — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Leaders Should Think About the Intelligence Revolution
 
 ### Prologue
 The CEOs who treated AI as an IT project are the ones who are behind. The CEOs who treated it as a business transformation question are the ones who are ahead. The difference was not the technology — it was the framing.

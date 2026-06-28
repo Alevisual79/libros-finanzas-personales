@@ -1,17 +1,12 @@
 # IA para multiplicar tu productividad
-## Las herramientas y flujos de trabajo que están cambiando cómo se trabaja
 
 **Serie 2: IA en el Trabajo — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Las herramientas y flujos de trabajo que están cambiando cómo se trabaja
 
 ### Prólogo: El día de 6 horas de Elena
 

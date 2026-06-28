@@ -1,7 +1,5 @@
 # Lo que deberías saber antes de que te lo digan en urgencias
 
-## Signos de alarma que no debes ignorar y cuándo ir al médico sin esperar
-
 **Serie Salud y Bienestar — Serie 5: Prevención y Chequeos — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Signos de alarma que no debes ignorar y cuándo ir al médico sin esperar
 
 ### Prólogo: La señal que se ignoró demasiado tiempo
 

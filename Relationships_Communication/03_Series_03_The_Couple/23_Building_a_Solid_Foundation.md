@@ -1,17 +1,12 @@
 # Building a Solid Foundation
-## The foundations that make a relationship last
 
 **Series 3: The Couple — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The foundations that make a relationship last
 
 ### Prologue
 Isabelle had watched her parents' marriage from a front-row seat for twenty-five years, and what she had taken from it was a specific, functional model: a marriage was a logistics partnership, a child-rearing arrangement, a financial unit. Her parents were not unkind to each other. They were simply not, as far as she could observe, genuinely interested in each other. The marriage worked. It did not, particularly, flourish.

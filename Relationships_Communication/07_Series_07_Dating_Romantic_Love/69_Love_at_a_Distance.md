@@ -1,17 +1,12 @@
 # Love at a Distance
-## How to keep the romantic flame with miles between you
 
 **Series 7: Dating and Romantic Love — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to keep the romantic flame with miles between you
 
 ### Prologue
 Maya's new relationship had not been planned as a long-distance relationship. When she had met David at the conference in Vancouver — which was where she had gone two weeks before she met him, for reasons entirely unrelated to romantic opportunity — she had not expected to find herself eight months later having the conversation about what this was going to mean, geographically.

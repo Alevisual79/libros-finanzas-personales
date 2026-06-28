@@ -1,17 +1,12 @@
 # Caring for the Elderly
-## How to manage the relationship with aging parents
 
 **Series 4: Family and Bonds — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to manage the relationship with aging parents
 
 ### Prologue
 Rosa's mother was eighty-one and had, in the past two years, gradually become someone who needed daily management in ways she had not needed before. Not dramatically — there had been no single health crisis that announced the change. The change had been incremental: the increasing difficulty with driving, the medication management that required oversight, the mild but perceptible cognitive slowing that made the complex administrative tasks of her own life beyond her capacity. Rosa's mother was still herself, in the most important ways — still funny, still sharp in moments, still the woman Rosa had known for fifty-six years. She also needed things that she had never needed before, and her daughter was the person most positioned to provide them.

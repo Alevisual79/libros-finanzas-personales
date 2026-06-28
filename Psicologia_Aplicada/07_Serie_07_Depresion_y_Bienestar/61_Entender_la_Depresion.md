@@ -1,17 +1,12 @@
 # Entender la Depresión
-## Lo que es la depresión realmente y como afecta a quien la vive
 
 **Serie 07: Depresión y Bienestar Mental — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que es la depresión realmente y como afecta a quien la vive
 
 ### Prólogo
 Elena lleva tres semanas sin poder levantarse de la cama con la energía que antes tenía. No esta triste de la forma en que imagino que estaria triste: no llora continuamente. Solo esta... apagada. Las cosas que antes le importaban ya no le importan de la misma manera. El trabajo se hace, pero como si alguien más lo hiciera. Las conversaciones ocurren, pero desde lejos. Cuando busco en internet, encontró listas de sintomas que de alguna forma encajan pero que no capturan lo que vive. Este libro es sobre lo que la depresión es realmente, no la caricatura que se ve en los anuncios de antidepresivos, sino el estado que afecta a más de 300 millones de personas en el mundo y que la mayoría de las personas que la viven no reconocen cómo lo que es.

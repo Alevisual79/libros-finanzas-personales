@@ -1,7 +1,5 @@
 # Qué pasa si te quedas sin trabajo
 
-## Plan de contingencia económica para la emergencia más frecuente
-
 **Serie Finanzas Personales — Serie 8: Protección y Emergencias — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Plan de contingencia económica para la emergencia más frecuente
 
 ### Prólogo: Felipe en el baño
 

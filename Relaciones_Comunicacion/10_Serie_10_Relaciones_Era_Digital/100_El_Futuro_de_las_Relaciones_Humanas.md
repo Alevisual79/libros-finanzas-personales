@@ -1,17 +1,12 @@
 # El Futuro de las Relaciones Humanas
-## Como la tecnología moldeara el amor, la amistad y la conexión en los próximos años
 
 **Serie 10: Relaciones en la Era Digital — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como la tecnología moldeara el amor, la amistad y la conexión en los próximos años
 
 ### Prólogo
 Elena, Ruben e Isabel, los tres personajes que han acompañado esta colección completa a traves de sus cien libros, se preguntan, en una conversación compartida, como serán las relaciones humanas dentro de diez años. La respuesta, descubren juntos, depende en gran parte de las decisiones que cada persona, incluidos ellos mismos, tome hoy sobre como quiere relacionarse con la tecnología que continua transformando el panorama de la conexión humana.

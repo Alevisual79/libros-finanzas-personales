@@ -1,17 +1,12 @@
 # Creating Your Own Family
-## Define what family means to you today
 
 **Series 4: Family and Bonds — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Define what family means to you today
 
 ### Prologue
 On a Saturday afternoon in November, three people sat around a table in a small apartment in Vancouver. Rosa had come for the weekend to see Mei, who had been her closest friend for fifteen years. Nathan was Mei's colleague, who had been gradually absorbed into their friendship over the past three years. They were eating a meal that Mei had cooked from a recipe her adoptive mother had given her, which her adoptive mother had learned from Mei's grandmother, which the grandmother had brought from her own childhood somewhere Mei had never been.

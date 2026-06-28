@@ -1,17 +1,12 @@
 # Funnel de Ventas
-## Cómo convertir desconocidos en clientes de forma sistemática
 
 **Serie 03: Marketing y Ventas — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo convertir desconocidos en clientes de forma sistemática
 
 ### Prólogo
 Lucia tiene visitantes en su web pero no sabe como convertirlos en clientes. Carlos tiene conversaciones interesantes con prospectos pero la mayoría no se convierten en ventas. Marcos no tiene ningún proceso sistemático de ventas y cada negociación empieza desde cero. Los tres necesitan un funnel de ventas: un sistema que guia al cliente potencial de forma progresiva desde el primer contacto hasta la decisión de compra, y que el emprendedor puede medir, optimizar, y escalar. Sin un funnel, el negocio vende cuando tiene suerte. Con uno, vende cuando quiere.

@@ -1,17 +1,12 @@
 # Defining Your Own Success
-## The critical work of building a success definition that actually serves your life
 
 **Series 10: Purpose and Long-Term Success — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The critical work of building a success definition that actually serves your life
 
 ### Prologue
 The success definition that most professionals are working toward is not one they chose. It arrived through a combination of family expectations, educational institutions, peer comparison, professional culture, and the social media environment — a composite image of the professional life that would constitute success, assembled from sources that have no specific knowledge of the individual's values, temperament, relationships, or the specific kind of life that would make them genuinely flourish.

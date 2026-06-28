@@ -1,7 +1,5 @@
 # Amazon FBA para españoles
 
-## Vender en Amazon sin tener stock propio: la realidad sin glamour
-
 **Serie Finanzas Personales — Serie 9: Negocios e Ingresos Extra — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Vender en Amazon sin tener stock propio: la realidad sin glamour
 
 ### Prólogo: El curso de cuatrocientos noventa euros del cuñado
 

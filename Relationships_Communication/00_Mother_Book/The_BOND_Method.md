@@ -1,17 +1,12 @@
 # The BOND Method
-## What nobody taught you about connecting for real
 
 **Mother Book - Relationships and Communication Collection**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What nobody taught you about connecting for real
 
 ### Prologue
 Elena has been prioritizing her career over her relationships for years. Now she has professional success and a void she cannot name.

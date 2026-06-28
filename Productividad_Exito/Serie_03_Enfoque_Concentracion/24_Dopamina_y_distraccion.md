@@ -1,7 +1,5 @@
 # Dopamina y distracción
 
-## La neurociencia de por qué el móvil gana siempre... y cómo cambiar eso
-
 **Serie Productividad y Éxito — Serie 3: Enfoque y Concentración — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La neurociencia de por qué el móvil gana siempre... y cómo cambiar eso
 
 ### Prólogo: La batalla que no es de voluntad
 

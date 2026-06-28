@@ -1,7 +1,5 @@
 # Liderar generaciones distintas
 
-## Boomers, millennials y Z trabajando juntos
-
 **Serie Productividad y Éxito — Serie 6: Liderazgo y Trabajo en Equipo — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Boomers, millennials y Z trabajando juntos
 
 ### Prólogo: El equipo que no se entendía
 

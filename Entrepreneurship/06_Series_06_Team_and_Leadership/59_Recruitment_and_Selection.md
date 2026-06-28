@@ -1,17 +1,12 @@
 # Recruitment and Selection
-## Finding and choosing the people who will determine your success
 
 **Series 06: Team and Leadership — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Finding and choosing the people who will determine your success
 
 ### Prologue
 In seven years of building her HR consulting practice, Priya had advised hundreds of organizations on hiring decisions. In her own business, she had made seven hires and had gotten four of them right. Three had not worked out — two within the first year, one after eighteen months of increasingly clear misalignment that she had been slow to address. She had given more thorough hiring advice to clients than she had followed herself.

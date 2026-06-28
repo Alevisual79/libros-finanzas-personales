@@ -1,17 +1,12 @@
 # The AI Workflow
-## How to Integrate AI into Your Daily Work
 
 **Series 2: AI at Work — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Integrate AI into Your Daily Work
 
 ### Prologue
 Isabel tracked her time for two weeks before and after integrating AI tools. The time savings were real but the distribution surprised her: she saved more time on tasks she had considered important than on ones she had considered administrative.

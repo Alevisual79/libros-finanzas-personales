@@ -1,7 +1,5 @@
 # Vivir de las rentas: Mito y realidad
 
-## Qué significa realmente, cuánto cuesta construirlo y si está al alcance de alguien normal
-
 **Serie Finanzas Personales — Serie 6: Libertad Financiera — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Qué significa realmente, cuánto cuesta construirlo y si está al alcance de alguien normal
 
 ### Prólogo: Don Alberto y los 100 euros de la plaza de garaje
 

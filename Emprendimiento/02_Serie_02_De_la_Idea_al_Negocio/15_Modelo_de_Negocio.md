@@ -1,17 +1,12 @@
 # Modelo de Negocio
-## Elegir como gana dinero tu empresa es la decisión más estratégica
 
 **Serie 02: De la Idea al Negocio — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Elegir como gana dinero tu empresa es la decisión más estratégica
 
 ### Prólogo
 Carlos tiene un producto que la gente quiere pero no ha decidido aun si lo vende como servicio puntual, como suscripción, o como licencia. Lucia sabe lo que hace su empresa pero no tiene claro si debería cobrar por proyecto, por hora, o por resultado. Marcos tiene la visión de la empresa que quiere construir en cinco años pero el modelo de negocio actual (venta directa a clientes finales) no le parece el camino más eficiente para llegar ahí. Los tres estan confrontando la misma pregunta fundamental: ¿como gana dinero este negocio de la forma más sostenible, escalable, y coherente con el valor que crea? La respuesta a esa pregunta es el modelo de negocio. Y elegirla bien o mal puede determinar el techo del negocio.

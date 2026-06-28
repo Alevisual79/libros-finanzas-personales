@@ -1,17 +1,12 @@
 # Reconocer una Relación Toxica
-## Las señales que ignoramos porque no queremos verlas
 
 **Serie 09: Límites y Relaciones Toxicas — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Las señales que ignoramos porque no queremos verlas
 
 ### Prólogo
 Elena lleva meses sintiendose mal después de hablar con alguien específico en su vida. No lo llama toxico. Lo llama complicado, una palabra más suave que le permite seguir en la relación sin tener que enfrentar lo que esa palabra más precisa implicaria. La palabra que se elige para nombrar algo, descubre eventualmente, importa más de lo que parece.

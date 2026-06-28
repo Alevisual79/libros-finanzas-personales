@@ -1,17 +1,12 @@
 # Estilos de Apego
-## Entiende como amas y por qué amas así
 
 **Serie 01: Conocete a Ti Mismo — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Entiende como amas y por qué amas así
 
 ### Prólogo
 Hay personas que aman con urgencia. Que necesitan saber constantemente que el otro esta ahí, que siguen eligiendolas, que no van a desaparecer. Hay personas que aman con distancia. Que se sienten mejor cuando el otro no necesita demasiado, cuando hay espacio entre los dos, cuando nadie espera demasiado de nadie. Y hay personas que aman con ambos extremos a la vez: quieren cercania y la temen en el mismo momento.

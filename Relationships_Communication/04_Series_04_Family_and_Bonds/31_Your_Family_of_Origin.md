@@ -1,17 +1,12 @@
 # Your Family of Origin
-## Understand where you come from to choose who you want to be
 
 **Series 4: Family and Bonds — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understand where you come from to choose who you want to be
 
 ### Prologue
 Rosa had spent the first forty years of her life inside her family of origin like a person inside a room who has never considered that the room has walls. The family was simply the world — its values were values, its patterns were the way things were, its silences were ordinary. She had not questioned it, not because she was incurious but because the family of origin is typically experienced from within rather than examined from without.

@@ -1,17 +1,12 @@
 # Cuando el Amor Duele
-## Distinguir el amor difícil del abuso emocional
 
 **Serie 09: Límites y Relaciones Toxicas — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Distinguir el amor difícil del abuso emocional
 
 ### Prólogo
 Ruben cree que si una relación es suficientemente intensa, naturalmente debe doler en cierta medida, y que ese dolor es parte del precio de un amor verdaderamente profundo. Confunde, sin saberlo, la intensidad con el valor, y el dolor con la profundidad. Esta confusión, común y peligrosa, es exactamente lo que este libro busca desentrañar con precisión.

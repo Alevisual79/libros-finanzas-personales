@@ -1,17 +1,12 @@
 # Monotasking
-## The art of doing one thing fully — and why it's the competitive advantage of the future
 
 **Series 3: Focus and Concentration — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The art of doing one thing fully — and why it's the competitive advantage of the future
 
 ### Prologue
 Nadia, Camila, Leo, and their colleagues had, in the course of this series, learned the neuroscience of attention, unlearned the myth of multitasking, discovered the conditions for flow, understood the dopaminergic pull of distraction, redesigned their environments, begun meditation practices, deepened their reading, improved their memory systems, and protected their sleep. These were not trivial changes. They had required sustained effort, deliberate practice, and the willingness to act against the norms of their professional environments.

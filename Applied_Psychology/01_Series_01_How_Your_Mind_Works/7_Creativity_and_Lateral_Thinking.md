@@ -1,17 +1,12 @@
 # Creativity and Lateral Thinking
-## How the Brain Generates Novel Ideas
 
 **Series 1: How Your Mind Works — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How the Brain Generates Novel Ideas
 
 ### Prologue
 Nina had been hired as a product designer at a technology company specifically because of her creativity — her portfolio was imaginative, surprising, unconventional. Within six months of starting the job, she realized she had largely stopped producing work that surprised her. The deadlines were tight, the processes were fixed, and the culture rewarded speed and conformity over exploration. She was generating more output than ever and less originality than she had in years. When she described this to a psychologist friend, the friend told her something she found both clarifying and challenging: creativity is not a trait you have or don't have; it is a process that requires specific conditions, and her new environment was systematically eliminating those conditions.

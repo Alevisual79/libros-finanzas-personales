@@ -1,17 +1,12 @@
 # Dating in the Age of Apps
-## How to use dating apps to find something real
 
 **Series 7: Dating and Romantic Love — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to use dating apps to find something real
 
 ### Prologue
 Owen had, in two years of active app use, developed a sophisticated philosophy about matching algorithms, a highly optimized profile, and a first-date conversational structure that he had refined across forty encounters.

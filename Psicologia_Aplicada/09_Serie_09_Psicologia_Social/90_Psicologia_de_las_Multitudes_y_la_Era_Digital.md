@@ -1,17 +1,12 @@
 # psicología de las Multitudes y la Era Digital
-## Como el comportamiento colectivo se ha transformado en internet
 
 **Serie 09: psicología Social e Influencia — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como el comportamiento colectivo se ha transformado en internet
 
 ### Prólogo
 Ruben ha visto cómo un comentario suyo en redes sociales recibio respuestas que le sorprendieron por su intensidad y por el comportamiento de personas que en persona probablemente no se habrían expresado así. Elena ha observado como causas que parecian marginales pueden volverse virales en dias y transformar comportamientos a escala masiva. Isabel ha gestionado situaciones en su empresa donde rumores que circulaban en grupos de mensajeria interna habían transformado el estado de ánimo de equipos enteros antes de que nadie de la dirección supiera lo que estaba pasando. Las multitudes digitales son reales aunque no se reúnan físicamente. Y su psicología combina los mecanismos clásicos de la psicología de masas con fenómenos nuevos que solo internet hace posibles. Este libro es sobre esa psicología.

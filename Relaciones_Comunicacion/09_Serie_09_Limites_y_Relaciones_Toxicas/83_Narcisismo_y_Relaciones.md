@@ -1,17 +1,12 @@
 # Narcisismo y Relaciones
-## Como reconocer y gestionar a personas con rasgos narcisistas
 
 **Serie 09: Límites y Relaciones Toxicas — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como reconocer y gestionar a personas con rasgos narcisistas
 
 ### Prólogo
 Isabel lleva veinte años casada con alguien que, de forma consistente y aparentemente natural, hace que cada situación gire alrededor de sus propias necesidades, logros y sentimientos. Ella llama a esto fuerte carácter, una descripción que suaviza algo que la literatura psicológica describe con un nombre más preciso y, frecuentemente, más difícil de aceptar.

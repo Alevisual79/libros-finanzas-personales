@@ -1,17 +1,12 @@
 # Content Marketing
-## Como el contenido se convierte en tu mejor vendedor
 
 **Serie 03: Marketing y Ventas — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como el contenido se convierte en tu mejor vendedor
 
 ### Prólogo
 Carlos publica contenido en LinkedIn pero no sabe si está funcionando. Lucia tiene un blog con treinta artículos que nadie lee. Marcos no entiende por qué una empresa que sabe tanto sobre su sector no puede atraer clientes compartiendo ese conocimiento. Los tres tienen el problema opuesto a lo que creen: no es que no tengan suficiente contenido. Es que el contenido que tienen no está conectado con el problema que tiene el cliente en el momento en que este lo busca. El content marketing no es publicar más. Es publicar lo correcto, para la persona correcta, en el momento correcto del proceso de decisión.

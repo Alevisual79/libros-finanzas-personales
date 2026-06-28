@@ -1,17 +1,12 @@
 # The Officeless Company
-## Building and leading high-performing distributed teams
 
 **Series 10: Future Business Models — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building and leading high-performing distributed teams
 
 ### Prologue
 When Sophia closed her San Francisco office in 2020 and shifted her content strategy firm to fully remote operations, the decision felt like an emergency response. Fifteen months later, after hiring her best creative director from London, a senior strategist from Toronto, and a client success manager from Austin — none of whom she would have found if the company were still hiring within commuting distance of a San Francisco address — it became clear that the emergency response had been the best strategic decision she had made.

@@ -1,17 +1,12 @@
 # Couple with Children
-## How to maintain the relationship when children arrive
 
 **Series 3: The Couple — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to maintain the relationship when children arrive
 
 ### Prologue
 Isabelle's son had been born twenty-two years ago, and she still remembered the specific shock of what happened to her marriage in the first year after his birth. Not crisis — she wanted to be accurate about this. The word crisis implied a dramatic rupture; what had happened was something quieter and more pervasive. The relationship had been gradually reorganized, without either of them fully intending or noticing it, around the needs and rhythms of a small person who could not manage his own life, while the couple who had existed before him — two people who had chosen each other, who had maintained a specific quality of mutual attention and connection — had become, somehow, primarily his parents.

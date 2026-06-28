@@ -1,7 +1,5 @@
 # El sueño que nunca tienes
 
-## Por qué dormir bien es la base de todo lo demás y cómo conseguirlo
-
 **Serie Salud y Bienestar — Serie 3: Sueño y Descanso — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué dormir bien es la base de todo lo demás y cómo conseguirlo
 
 ### Prólogo: La privación que normalizamos
 

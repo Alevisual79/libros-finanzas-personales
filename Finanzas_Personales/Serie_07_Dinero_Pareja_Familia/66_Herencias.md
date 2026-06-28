@@ -1,7 +1,5 @@
 # Herencias: Hablar de lo que nadie quiere hablar
 
-## Cómo preparar y recibir herencias sin dramas familiares
-
 **Serie Finanzas Personales — Serie 7: Dinero en Pareja y Familia — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo preparar y recibir herencias sin dramas familiares
 
 ### Prólogo: El piso de la abuela
 

@@ -1,7 +1,5 @@
 # El dinero en familias separadas
 
-## Pensiones alimenticias, gastos compartidos, nuevas parejas y cómo navegar la complejidad económica
-
 **Serie Finanzas Personales — Serie 7: Dinero en Pareja y Familia — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Pensiones alimenticias, gastos compartidos, nuevas parejas y cómo navegar la complejidad económica
 
 ### Prólogo: El mensaje de los martes por la mañana
 

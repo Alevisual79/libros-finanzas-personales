@@ -1,17 +1,12 @@
 # La Mente en Piloto Automático
-## Como recuperar el control de tu vida mental
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como recuperar el control de tu vida mental
 
 ### Prólogo
 Ruben conduce durante veinte minutos y llega a su destino sin poder recordar prácticamente nada del trayecto. Come mientras mira el teléfono y cuando termina no recuerda el sabor de lo que comio. Mantiene conversaciones mientras una parte de su mente esta en otro sitio. Lleva horas, a veces dias, en modo piloto automático: el cuerpo hace las cosas pero la mente esta en otra parte. Esto no solo es una perdida de la experiencia presente: es también la condición en que los hábitos no examinados, las reacciones automáticas, y los patrones no conscientes toman las decisiones. Recuperar la mente del piloto automático es recuperar la agencia sobre la propia vida.

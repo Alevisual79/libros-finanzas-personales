@@ -1,17 +1,12 @@
 # Inheritance and Gift Taxes
-## Minimizing the Tax Cost of Wealth Transfers
 
 **Series 10: Taxes and Wealth — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Minimizing the Tax Cost of Wealth Transfers
 
 ### Prologue
 Isabel had never talked to her adult children about money. It wasn't secrecy — it was discomfort, the same discomfort that had kept her from making a will until her mid-forties, and from updating that will after her divorce. She was proud of what she had built: a home approaching $520,000 in value, $18,000 in retirement savings that she was now growing aggressively, and a career at peak earnings. But she hadn't thought about what happened to those assets after she died, or whether the way she transferred them — gradually, all at once, through a will, through a trust — would have dramatic tax consequences for her children.

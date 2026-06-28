@@ -1,17 +1,12 @@
 # PTSD and Post-Traumatic Stress
-## What Happens When the Threat Won't Stop
 
 **Series 5: Trauma and Wounds — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Happens When the Threat Won't Stop
 
 ### Prologue
 After the accident, Marcus returned to his regular life with what appeared to be remarkable speed. His physical injuries healed within weeks. He went back to work. He was told by people who saw him that he seemed fine. He did not feel fine. He dreamed of the accident with photographic precision. He flinched violently at sounds that resembled the impact. He had stopped driving. He had become convinced, in a way he couldn't quite reason his way out of, that something terrible was about to happen at all times — that the accident was not a discrete event that had ended but an ongoing condition of his life. He couldn't explain this to anyone without it sounding irrational, because it was irrational in the strict cognitive sense: he knew, intellectually, that he was safe. But knowing it cognitively didn't change what he felt physiologically, and the physiological response was running the show.

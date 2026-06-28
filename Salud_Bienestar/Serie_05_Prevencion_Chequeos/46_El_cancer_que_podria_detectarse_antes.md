@@ -1,7 +1,5 @@
 # El cáncer que podría detectarse antes
 
-## Cribados, revisiones y factores de riesgo modificables: lo que la ciencia dice que funciona
-
 **Serie Salud y Bienestar — Serie 5: Prevención y Chequeos — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cribados, revisiones y factores de riesgo modificables: lo que la ciencia dice que funciona
 
 ### Prólogo: La diferencia entre estadio I y estadio IV
 

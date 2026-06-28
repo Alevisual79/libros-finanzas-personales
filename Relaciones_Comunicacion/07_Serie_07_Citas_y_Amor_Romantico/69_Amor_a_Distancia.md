@@ -1,17 +1,12 @@
 # Amor a Distancia
-## Cómo mantener la llama romantica cuando hay kilometros de por medio
 
 **Serie 07: Citas y Amor Romantico — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo mantener la llama romantica cuando hay kilometros de por medio
 
 ### Prólogo
 Ruben conocio a alguien durante un viaje. Los dos sintieron una conexión que ninguno había anticipado. Cuando llegó el momento de despedirse, ambos dijeron que querían intentarlo a distancia. Ninguno de los dos, sin embargo, tenía claro que significaba eso en la práctica: cuanto contacto, cuanta exclusividad, cuanto tiempo estarian dispuestos a sostener la distancia antes de necesitar un plan más concreto.

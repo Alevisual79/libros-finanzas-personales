@@ -1,17 +1,12 @@
 # When One Partner Earns More
-## Managing Inequality Within a Relationship
 
 **Series 7: Money, Family & Relationships — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Managing Inequality Within a Relationship
 
 ### Prologue
 The number lived in the background of Elena and Marcus's relationship in the way that certain facts do — always there, never quite mentioned. Elena earned $78,000. Marcus earned $62,000. The gap was $16,000 per year, or roughly $1,333 per month. It wasn't enormous in absolute terms, but it was meaningful in context. Elena was the higher earner in the relationship. This was a fact they both knew and neither had addressed directly, not because it was shameful — they were both adults with reasonable salaries — but because neither of them quite had the vocabulary for it.

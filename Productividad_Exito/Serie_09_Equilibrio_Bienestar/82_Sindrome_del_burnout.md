@@ -1,7 +1,5 @@
 # El síndrome del burnout en personas de alto rendimiento
 
-## Por qué los mejores son los que más riesgo tienen
-
 **Serie Productividad y Éxito — Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué los mejores son los que más riesgo tienen
 
 ### Prólogo: La ingeniera que no podía encender el ordenador
 

@@ -1,7 +1,5 @@
 # Alimentación y rendimiento mental
 
-## Lo que comes afecta cómo piensas
-
 **Serie Productividad y Éxito — Serie 4: Hábitos de Alto Rendimiento — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que comes afecta cómo piensas
 
 ### Prólogo: El almuerzo que destruyó la tarde
 

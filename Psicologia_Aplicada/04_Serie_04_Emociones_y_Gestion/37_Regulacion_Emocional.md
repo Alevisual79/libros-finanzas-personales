@@ -1,17 +1,12 @@
 # Regulación Emocional
-## Como pasar de ser reactivo a ser responsivo
 
 **Serie 04: Emociones y Gestión Emocional — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como pasar de ser reactivo a ser responsivo
 
 ### Prólogo
 Elena sabe exactamente lo que va a pasar antes de que ocurra: su jefe dirá algo que suena a crítica, ella sentira el calor en la cara y la tensión en el pecho, y en menos de dos segundos respondera de una forma que más tarde lamentara. El ciclo es tan predecible que podría describirlo de antemano. Y sin embargo, en el momento, ocurre de todas formas. Esto no es falta de voluntad. Es la diferencia entre saber como debería responder y tener las herramientas para hacerlo cuando el sistema emocional ya esta en marcha. La regulación emocional es exactamente ese conjunto de herramientas.

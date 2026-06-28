@@ -1,7 +1,5 @@
 # El Método ACCIÓN
 
-## El sistema que nadie te enseñó para rendir más sin trabajar más
-
 **Libro 0 — El libro que lees antes de cualquier otro de esta serie**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El sistema que nadie te enseñó para rendir más sin trabajar más
 
 ### Prólogo: El problema que nadie nombra
 

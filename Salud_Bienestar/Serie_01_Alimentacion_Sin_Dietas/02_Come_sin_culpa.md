@@ -1,7 +1,5 @@
 # Come sin culpa
 
-## Desmontando la cultura de la dieta y el conteo de calorías
-
 **Serie Salud y Bienestar — Serie 1: Alimentación Sin Dietas — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Desmontando la cultura de la dieta y el conteo de calorías
 
 ### Prólogo: La culpa que acompaña a cada bocado
 

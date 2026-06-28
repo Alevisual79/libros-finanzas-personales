@@ -1,17 +1,12 @@
 # Lean Startup
-## La metodología que ha cambiado cómo se crean los negocios
 
 **Serie 02: De la Idea al Negocio — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La metodología que ha cambiado cómo se crean los negocios
 
 ### Prólogo
 Marcos paso dieciocho meses desarrollando su plataforma tecnologica en modo stealth (sin mostrarla al mercado) antes de lanzarla. Cuando la lanzo, descubrió que los usuarios reales usaban el producto de una forma completamente diferente a como había imaginado y que las funcionalidades en las que más había invertido eran las que menos usaban. Carlos, en cambio, lanzo una versión inicial muy basica a los tres meses, con mucho miedo y mucha vergüenza por lo que le faltaba, y aprendió en los primeros quince dias más sobre lo que el mercado realmente quería que Marcos en dieciocho meses. Lucia aplica la metodología Lean Startup sin saber que tiene nombre: simplemente ha aprendido que lanzar rápido y aprender del mercado funciona mejor que planificar mucho y lanzar tarde.

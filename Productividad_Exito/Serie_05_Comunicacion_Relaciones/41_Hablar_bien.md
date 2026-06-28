@@ -1,7 +1,5 @@
 # Hablar bien: La habilidad que más retorna
 
-## Comunicación oral para personas que no son comunicadores naturales
-
 **Serie Productividad y Éxito — Serie 5: Comunicación y Relaciones Profesionales — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Comunicación oral para personas que no son comunicadores naturales
 
 ### Prólogo: La reunión que Elena perdio sin decir nada
 

@@ -1,17 +1,12 @@
 # AI and Copyright
-## Who Owns What an AI Creates
 
 **Series 7: Ethics and Society — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Who Owns What an AI Creates
 
 ### Prologue
 The New York Times sued OpenAI for training on its articles without permission. Writers, musicians, and artists filed class action suits. The legal system is moving toward answers that will determine the economic architecture of AI for decades.

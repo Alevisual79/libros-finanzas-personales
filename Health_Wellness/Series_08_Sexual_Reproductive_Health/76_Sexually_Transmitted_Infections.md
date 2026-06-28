@@ -1,17 +1,12 @@
 # Sexually Transmitted Infections
-## What You Should Know About STIs in the Modern Era
 
 **Series 8: Sexual and Reproductive Health — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What You Should Know About STIs in the Modern Era
 
 ### Prologue
 Sexually transmitted infections (STIs) are among the most common infectious diseases in the world — and among the most stigmatized, which creates significant harm. Stigma delays testing and treatment, reduces partner notification, and prevents people from having accurate conversations with healthcare providers. Meanwhile, STI rates in the United States have risen substantially since 2014 across all major STIs.

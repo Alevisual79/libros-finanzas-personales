@@ -1,17 +1,12 @@
 # Bootstrapping
-## Cómo construir un negocio sin inversores ni deudas
 
 **Serie 02: De la Idea al Negocio — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir un negocio sin inversores ni deudas
 
 ### Prólogo
 Carlos empezó su negocio con dos mil euros de sus ahorros y sin inversión externa. Dos años después, tiene un negocio rentable que ha financiado completamente con sus propios ingresos. Lucia busco un inversor durante seis meses en el primer año de su negocio y al final decidió no buscar más y construir con lo que tenía. Esa decisión la obligó a ser más disciplinada con los gastos, más creativa con los recursos, y más rápida en generar ingresos. Marcos viene del mundo corporativo donde los presupuestos son grandes y los recursos se dan por hechos. Bootstrapping le ha enseñado más sobre eficiencia y creatividad que veinte años de gestión de presupuestos corporativos. Los tres han descubierto que la restricción del bootstrapping no es solo un limitante. A veces es la ventaja.

@@ -1,17 +1,12 @@
 # Abundance Without Pretense
-## A Healthy Relationship With Money and Success
 
 **Series 1: Financial Mindset — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A Healthy Relationship With Money and Success
 
 ### Prologue
 When Elena got her first significant raise — 18% after she finally negotiated — the first thing she felt was relief. The second was guilt. Her salary was now $78,000, which was more than either of her parents had ever earned. More than most of her college friends. More than the people she grew up with in her neighborhood.

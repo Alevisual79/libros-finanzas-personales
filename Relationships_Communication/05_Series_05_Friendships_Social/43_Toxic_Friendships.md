@@ -1,17 +1,12 @@
 # Toxic Friendships
-## How to identify and manage friendships that drain you
 
 **Series 5: Friendships and Social Relationships — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to identify and manage friendships that drain you
 
 ### Prologue
 Priya had known Claudia since they were twenty-three. The friendship had begun in the early heady days of their first professional jobs, had survived Claudia's first divorce and Priya's second career transition and various relocations, and had accumulated the specific weight of shared history that long friendships carry.

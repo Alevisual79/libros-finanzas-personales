@@ -1,17 +1,12 @@
 # The Ten-Year Life Plan
-## A structured approach to designing the professional decade ahead
 
 **Series 10: Purpose and Long-Term Success — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A structured approach to designing the professional decade ahead
 
 ### Prologue
 This penultimate book of the Productivity and Success Collection is the most operationally specific of the series: the concrete, step-by-step framework for translating the purpose clarity of Books 91-92, the legacy commitment of Book 93, the decadal thinking of Book 94, and the life integration of Books 95-98 into the specific, actionable plan that the next ten years of the professional's life requires.

@@ -1,7 +1,5 @@
 # Suplementos: Cuáles valen y cuáles son marketing
 
-## Omega-3, vitamina D, magnesio, probióticos y más: lo que la evidencia dice
-
 **Serie Salud y Bienestar — Serie 10: Salud Integrativa — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Omega-3, vitamina D, magnesio, probióticos y más: lo que la evidencia dice
 
 ### Prólogo: El armario de los suplementos
 

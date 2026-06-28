@@ -1,17 +1,12 @@
 # El Método VÍNCULO
-## Lo que nadie te enseñó sobre cómo conectar de verdad
 
 **Libro Madre — Colección Relaciones y Comunicación**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que nadie te enseñó sobre cómo conectar de verdad
 
 ### Prólogo: Tres personas, un problema invisible
 

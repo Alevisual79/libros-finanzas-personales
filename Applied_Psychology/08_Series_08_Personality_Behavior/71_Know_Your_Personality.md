@@ -1,17 +1,12 @@
 # Know Your Personality
-## What Science Really Tells Us About Who We Are
 
 **Series 8: Personality and Behavior — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Science Really Tells Us About Who We Are
 
 ### Prologue
 Isabel had taken four different personality tests in as many years. The Myers-Briggs told her she was an INFJ. The Enneagram placed her as a Type 4 with a 5-wing. An online quiz based loosely on Jungian archetypes suggested she was "The Diplomat." A workplace assessment categorized her communication style as "Analytical." Each framework had offered her something — a language for experiences she had struggled to articulate, a sense of recognition in the profiles she read, a framework for understanding why certain situations felt draining while others energized her. Each had also frustrated her: the categories seemed simultaneously too rigid and too vague, too illuminating and too constraining, too easy to fit into and too easy to disconfirm.

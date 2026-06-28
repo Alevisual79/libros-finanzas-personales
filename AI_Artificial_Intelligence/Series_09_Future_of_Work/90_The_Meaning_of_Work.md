@@ -1,17 +1,12 @@
 # The Meaning of Work
-## Purpose and Identity in the Age of Intelligent Machines
 
 **Series 9: Future of Work — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Purpose and Identity in the Age of Intelligent Machines
 
 ### Prologue
 What do you do?' is the first question at every social gathering. For many people, work is identity. When AI can do significant parts of that work — better, faster, cheaper — the question becomes uncomfortable. This is not just a productivity challenge. It is an existential one.

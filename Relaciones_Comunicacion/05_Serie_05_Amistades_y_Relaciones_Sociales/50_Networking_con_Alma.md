@@ -1,17 +1,12 @@
 # Networking con Alma
-## Como conectar profesionalmente sin sentirte falso
 
 **Serie 05: Amistades y Relaciones Sociales — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como conectar profesionalmente sin sentirte falso
 
 ### Prólogo
 Elena odia el networking. Lo llama intercambio de tarjetas sin sentido, una actuación social donde nadie es realmente honesto sobre lo que quiere del otro. Tiene razón en el diagnóstico: gran parte del networking tradicional efectivamente se siente transaccional y vacio. Se equivoca, sin embargo, en el tratamiento: la solución no es evitar el networking, sino redefinir completamente cómo se práctica.

@@ -1,17 +1,12 @@
 # The Impostor Syndrome Handbook
-## Understanding and working with the feeling that you don't deserve your success
 
 **Series 1: Mindset and Beliefs — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and working with the feeling that you don't deserve your success
 
 ### Prologue
 Priya had been a senior data scientist for four years. She had led three major projects that had produced measurable business impact. She had mentored six junior team members, two of whom had been promoted. Her manager had described her performance as "consistently exceptional" in every review she could remember.

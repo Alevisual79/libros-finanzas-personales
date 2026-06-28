@@ -1,7 +1,5 @@
 # Relaciones tóxicas y salud
 
-## El coste corporal de las relaciones que dañan y cómo protegerse
-
 **Serie Salud y Bienestar — Serie 9: Entorno y Estilo de Vida — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El coste corporal de las relaciones que dañan y cómo protegerse
 
 ### Prólogo: El cuerpo que llevaba a Marta
 

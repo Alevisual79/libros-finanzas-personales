@@ -1,17 +1,12 @@
 # Relationships in the Digital Age
-## How to navigate love, friendship and work in the connected world
 
 **Series 10: Relationships in the Digital Age — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to navigate love, friendship and work in the connected world
 
 ### Prologue
 Mia had spent her professional day managing the digital presence of other people's lives and her personal evening managing her own, and had noticed, not for the first time, that the two activities had begun to feel disturbingly similar.

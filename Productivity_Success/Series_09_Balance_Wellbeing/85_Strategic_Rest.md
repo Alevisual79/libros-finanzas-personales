@@ -1,17 +1,12 @@
 # Strategic Rest
-## The science of recovery and how to make it work for your performance
 
 **Series 9: Balance and Wellbeing — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The science of recovery and how to make it work for your performance
 
 ### Prologue
 The management literature of the late twentieth century was largely built on the premise that rest is the enemy of performance — that the professional who works the most hours, sleeps the fewest, and takes the fewest vacations is the professional most likely to achieve the most. The premise was intuitive, deeply culturally embedded, and — the research has since demonstrated — fundamentally wrong.

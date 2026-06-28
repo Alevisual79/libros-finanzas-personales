@@ -1,17 +1,12 @@
 # Postpartum Health
-## The Fourth Trimester — Recovery and Wellbeing After Birth
 
 **Series 8: Sexual and Reproductive Health — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Fourth Trimester — Recovery and Wellbeing After Birth
 
 ### Prologue
 The period after birth — sometimes called the "fourth trimester" — has been the most neglected phase of perinatal care in American medicine. The standard postpartum care model involved a single 6-week appointment, at which point the new parent was often discharged to continued care with minimal assessment of what had happened in the intervening weeks.

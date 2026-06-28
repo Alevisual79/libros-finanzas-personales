@@ -1,7 +1,5 @@
 # El fondo de emergencia: Tu primer millón (de céntimos)
 
-## Cómo construir el colchón financiero que lo cambia todo
-
 **Serie Finanzas Personales — Serie 8: Protección y Emergencias — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir el colchón financiero que lo cambia todo
 
 ### Prólogo: El martes que lo cambió todo
 

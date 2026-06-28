@@ -1,7 +1,5 @@
 # Trabajo y vida: La integración posible
 
-## Por qué el equilibrio perfecto no existe y qué funciona en su lugar
-
 **Serie Productividad y Éxito — Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué el equilibrio perfecto no existe y qué funciona en su lugar
 
 ### Prólogo: La balanza que nadie puede mantener
 

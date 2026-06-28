@@ -1,17 +1,12 @@
 # Motivation That Lasts
-## The Psychology of Sustained Drive and Engagement
 
 **Series 8: Personality and Behavior — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Psychology of Sustained Drive and Engagement
 
 ### Prologue
 The fitness industry generates approximately $100 billion annually, largely on the basis of New Year's resolutions that are statistically likely to be abandoned by February. The self-help publishing industry thrives on the same dynamic: books that generate initial enthusiasm and behavioral change that proves unsustainable after the motivational spike of the new purchase fades. The diet industry is sustained by a population that has successfully lost weight multiple times through motivational episodes that did not last, and regained the weight when the episodes ended.

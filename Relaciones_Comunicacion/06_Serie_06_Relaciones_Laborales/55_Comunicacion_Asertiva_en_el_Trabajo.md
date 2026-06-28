@@ -1,17 +1,12 @@
 # Comunicación Asertiva en el Trabajo
-## Aprende a decir lo que piensas sin herir ni callarte
 
 **Serie 06: Relaciones Laborales — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Aprende a decir lo que piensas sin herir ni callarte
 
 ### Prólogo
 Ruben dice que si a todo en el trabajo y luego se queja por dentro, acumulando resentimiento silencioso que nunca se traduce en cambio real. Isabel dice exactamente lo que piensa sin ningún filtro, y frecuentemente hiere a las personas sin haber tenido esa intención. Los dos, de formas opuestas, necesitan exactamente lo mismo: desarrollar la asertividad que se encuentra en el punto medio entre lo que les falta a cada uno.

@@ -1,7 +1,5 @@
 # La curiosidad como herramienta
 
-## Por qué los más innovadores son los más curiosos
-
 **Serie Productividad y Éxito — Serie 7: Creatividad e Innovación — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué los más innovadores son los más curiosos
 
 ### Prólogo: La pregunta que abrió el negocio
 

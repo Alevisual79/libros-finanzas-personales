@@ -1,17 +1,12 @@
 # Predictive Analytics
-## Making Better Decisions with Machine Learning
 
 **Series 5: AI and Data — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Making Better Decisions with Machine Learning
 
 ### Prologue
 Isabel's HR team could have predicted six of the seven departures in the past year if they had used the data they already had. They had not known to look. Predictive analytics is the discipline of looking.

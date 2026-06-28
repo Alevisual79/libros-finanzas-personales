@@ -1,17 +1,12 @@
 # Healing from Emotional Abuse
-## Reclaiming the Self That Was Systematically Dismantled
 
 **Series 5: Trauma and Wounds — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Reclaiming the Self That Was Systematically Dismantled
 
 ### Prologue
 It took Leila two years after the relationship ended to stop second-guessing herself. Not second-guessing her decision to leave — that she was certain of, in a cellular way that required no reasoning. What she second-guessed was everything else: her perceptions, her memories, her interpretations of events, her sense of her own capabilities. The relationship had lasted four years and had been, from the outside, apparently normal. The person she had been with was charming, well-liked, professionally successful. Only from the inside was the other reality visible: the systematic minimization of her perspectives, the exhausting cycle of idealization and criticism, the way her confidence had gradually eroded until she had barely recognized herself by the end. Healing from emotional abuse meant not only recovering from what had been done but recovering the capacity to trust what she knew.

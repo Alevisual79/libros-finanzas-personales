@@ -1,17 +1,12 @@
 # El Emprendedor y el Dinero
-## La relación psicológica con el dinero que determina el éxito del negocio
 
 **Serie 01: Mentalidad Emprendedora — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La relación psicológica con el dinero que determina el éxito del negocio
 
 ### Prólogo
 Carlos tiene dificultades para cobrar lo que su trabajo vale. Cada vez que tiene que poner precio a sus servicios, siente que podría perder el cliente si pide demasiado. Lucia sabe que su empresa es rentable pero tiene una relación de ansiedad con el dinero que no consigue entender del todo: revisa las cuentas bancarias tres veces al dia y no puede dormir bien cuando hay facturas pendientes de cobró. Marcos viene de un salario alto y ahora tiene que manejar el flujo de caja irregular del emprendimiento, con meses de ingresos altos y meses de ingresos bajos que le producen un nivel de estrés que no sabe muy bien como gestionar. Los tres necesitan lo mismo: una relación más sana y más inteligente con el dinero.

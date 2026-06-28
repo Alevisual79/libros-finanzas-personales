@@ -1,17 +1,12 @@
 # Emotions and Food
-## Understanding and Changing Emotional Eating
 
 **Series 4: Mind and Emotions — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Changing Emotional Eating
 
 ### Prologue
 Elena ate chocolate when she was stressed. She knew this. She didn't eat chocolate because she was hungry — she ate it because the act of eating it, the sweetness, the texture, provided approximately 3-4 minutes of relief from whatever work pressure she was managing. She also ate a complete dinner she hadn't been hungry for because it was 7pm and that was dinner time. She ate past fullness at social events because stopping felt awkward. She ate from the kitchen cupboard at 10pm not because she needed food but because she needed the transition between the work-focused and the rest of her evening.

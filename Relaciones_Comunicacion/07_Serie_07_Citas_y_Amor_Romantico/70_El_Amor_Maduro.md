@@ -1,17 +1,12 @@
 # El Amor Maduro
-## De la pasión fugaz al amor que elige cada dia
 
 **Serie 07: Citas y Amor Romantico — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## De la pasión fugaz al amor que elige cada dia
 
 ### Prólogo
 Isabel tiene cincuenta y dos años y acaba de enamorarse de alguien por primera vez sin esa euforia adolescente que recordaba de sus relaciones anteriores. No hay obsesión, no hay la sensación de no poder pensar en otra cosa. Hay, en su lugar, algo más tranquilo, más claro, más elegido. Y es mejor. Mucho mejor de lo que jamás habría imaginado que el amor pudiera sentirse.

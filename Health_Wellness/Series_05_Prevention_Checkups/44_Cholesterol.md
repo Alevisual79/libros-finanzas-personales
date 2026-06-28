@@ -1,17 +1,12 @@
 # Cholesterol
-## Understanding Your Lipid Panel and Your Cardiovascular Risk
 
 **Series 5: Prevention and Checkups — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding Your Lipid Panel and Your Cardiovascular Risk
 
 ### Prologue
 Cholesterol has been demonized, rehabilitated, and demonized again as nutritional science evolved. The dietary cholesterol hypothesis (eating cholesterol raises blood cholesterol) was the dominant framework for decades before evidence eroded it. The saturated fat-cholesterol-heart disease relationship is more nuanced than originally described. And the role of LDL particles, HDL function, and triglycerides in actual cardiovascular risk is more complex than the simple "good cholesterol / bad cholesterol" framing suggests.

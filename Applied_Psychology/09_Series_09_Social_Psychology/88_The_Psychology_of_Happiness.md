@@ -1,17 +1,12 @@
 # The Psychology of Happiness
-## What the Science of Wellbeing Actually Shows
 
 **Series 9: Social Psychology and Influence — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What the Science of Wellbeing Actually Shows
 
 ### Prologue
 In 1967, Warner Wilson published a review of the research on subjective wellbeing — what ordinary people call happiness — and noted that the field had produced an embarrassingly thin body of reliable findings relative to the importance of the question. Two decades later, the field had expanded dramatically but the central questions remained contested. The 1990s and 2000s produced a synthesis that made happiness science a serious empirical enterprise: longitudinal studies that tracked happiness across decades, twin studies that estimated the genetic contribution to baseline happiness, experimental manipulations that tested specific wellbeing interventions, and neuroimaging research that documented the neural correlates of positive affect.

@@ -1,17 +1,12 @@
 # The Toxic Coworker
-## How to manage difficult people in the work environment
 
 **Series 6: Work Relationships — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to manage difficult people in the work environment
 
 ### Prologue
 Keiko had worked with Marcus for fourteen months before she was able to name clearly what he was doing.

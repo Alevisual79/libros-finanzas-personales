@@ -1,7 +1,5 @@
 # Las articulaciones y los años
 
-## Artrosis, movilidad y cómo mantenerla: más allá del "es la edad" y el dolor como destino inevitable
-
 **Serie Salud y Bienestar — Serie 7: Longevidad y Envejecimiento — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Artrosis, movilidad y cómo mantenerla: más allá del "es la edad" y el dolor como destino inevitable
 
 ### Prólogo: El dolor que se acepta como destino
 

@@ -1,17 +1,12 @@
 # Your Focus Environment
-## How to design the space that makes concentrated work possible
 
 **Series 3: Focus and Concentration — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to design the space that makes concentrated work possible
 
 ### Prologue
 Leo had an office. Not his own private office — a designated desk in an open-plan space that was shared by twenty-three other members of his team. The desk was near the central walkway, which meant that approximately forty percent of any given day's foot traffic passed within three meters of his head. His neighbor to the left conducted phone calls from her desk. His neighbor to the right had a habit of thinking out loud. The wall behind him had a whiteboard covered in the residue of previous team brainstorming sessions.

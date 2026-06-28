@@ -1,17 +1,12 @@
 # The Water You Drink
-## Hydration, Water Quality, and What Science Knows
 
 **Series 9: Environment and Lifestyle — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Hydration, Water Quality, and What Science Knows
 
 ### Prologue
 Water is the medium in which virtually all biological chemistry occurs. Adequate hydration is prerequisite to normal cognition, physical performance, thermoregulation, and organ function. And yet hydration is simultaneously one of the most evidence-based topics in health and one of the most confused by marketing, mythology, and genuine complexity around water quality.

@@ -1,17 +1,12 @@
 # The Morning Routine
-## How the first hour of the day shapes all the others
 
 **Series 4: High Performance Habits — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How the first hour of the day shapes all the others
 
 ### Prologue
 Camila used to begin each workday by opening her phone. Before she was fully awake, she had checked email, reviewed Slack notifications, scanned the news headlines, and assessed the professional landscape that would claim her attention in the hours ahead. By the time she sat down at her desk, she was already reactive — already responding to the agenda that others had set for her, already directing her attention at other people's priorities.

@@ -1,17 +1,12 @@
 # Conflictos entre Amigos
-## Cómo mantener la amistad sin evitar los problemas
 
 **Serie 05: Amistades y Relaciones Sociales — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo mantener la amistad sin evitar los problemas
 
 ### Prólogo
 Elena y su mejor amiga no se hablan desde hace seis meses. Ninguna de las dos recuerda exactamente como empezó el distanciamiento. Una discusión pequeña que escalo, un comentario mal interpretado, un silencio que se prolongo demasiado tiempo sin que ninguna lo rompiera. El silencio, con el tiempo, se ha convertido en un muro que parece cada vez más difícil de derribar, precisamente porque nadie sabe ya por donde empezar.

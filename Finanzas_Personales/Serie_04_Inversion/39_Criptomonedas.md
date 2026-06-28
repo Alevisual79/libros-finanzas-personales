@@ -1,7 +1,5 @@
 # Criptomonedas: Lo que hay de verdad detrás del ruido
 
-## Sin hype, sin miedo, con datos. Lo que son, lo que no son, y si tienen lugar en tu cartera.
-
 **Serie Finanzas Personales — Serie 4: Inversión desde Cero — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Sin hype, sin miedo, con datos. Lo que son, lo que no son, y si tienen lugar en tu cartera.
 
 ### Prólogo: La cena en la que todos tenían razón y nadie sabía nada
 

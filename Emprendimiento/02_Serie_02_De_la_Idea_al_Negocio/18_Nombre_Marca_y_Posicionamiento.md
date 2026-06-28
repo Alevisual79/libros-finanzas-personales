@@ -1,17 +1,12 @@
 # Nombre, Marca y Posicionamiento
-## Los activos invisibles que hacen que te elijan a ti
 
 **Serie 02: De la Idea al Negocio — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Los activos invisibles que hacen que te elijan a ti
 
 ### Prólogo
 Carlos ha pasado tres semanas eligiendo el nombre de su empresa y todavía no ha tomado una decisión. Lucia tiene un nombre que funciona pero una marca visual que no comunica lo que es el negocio. Marcos viene de corporaciones con marcas fuertes y sabe intuitivamente el valor que una buena marca añade, pero no sabe como construirla con los recursos limitados del emprendedor. Los tres necesitan entender algo fundamental: la marca no es el logo. No es el nombre. No es el color corporativo. La marca es la suma de todas las percepciones que el cliente tiene sobre el negocio, y el posicionamiento es la decisión sobre que espacio específico en la mente del cliente quieres ocupar.

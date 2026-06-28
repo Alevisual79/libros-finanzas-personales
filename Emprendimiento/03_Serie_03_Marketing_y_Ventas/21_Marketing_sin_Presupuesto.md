@@ -1,17 +1,12 @@
 # Marketing sin Presupuesto
-## Como atraer clientes cuando no tienes dinero para publicidad
 
 **Serie 03: Marketing y Ventas — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como atraer clientes cuando no tienes dinero para publicidad
 
 ### Prólogo
 Carlos tiene un producto que funciona y cero euros para publicidad. Lucia gasta en Google Ads más de lo que gana en los clientes que consigue. Marcos viene de corporaciones donde el presupuesto de marketing era uno de los números más grandes del balance y no concibe como atraer clientes sin gastarlo. Los tres necesitan entender algo fundamental: el dinero en marketing no crea demanda. La identifica y la captura. La demanda viene de la relevancia del mensaje, la claridad del problema que resuelves, y la confianza que produces. Todo eso puede construirse sin dinero. Con trabajo. Que es diferente.

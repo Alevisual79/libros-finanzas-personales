@@ -1,17 +1,12 @@
 # Pensamiento Critico
-## Como pensar con rigor en un mundo de ruido informativo
 
 **Serie 01: Como Funciona Tu Mente — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como pensar con rigor en un mundo de ruido informativo
 
 ### Prólogo
 Ruben recibe diariamente más información que un hombre del siglo XVIII recibio en toda su vida. Noticias, estudios, opiniones de expertos, datos estadísticos, graficos, titulares. Tiene la sensación de estar más informado que nunca. Lo que no tiene, porque nunca le ensenaron, es la capacidad de evaluar esa información con criterios rigurosos: distinguir el dato de la opinión, la correlación de la causalidad, la fuente confiable de la que no lo es, el argumento valido del falaz. En el mundo actual, la cantidad de información no protege contra la desinformación. La calidad del pensamiento, si.

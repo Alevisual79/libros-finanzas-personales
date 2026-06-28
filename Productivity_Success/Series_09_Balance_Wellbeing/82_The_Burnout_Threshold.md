@@ -1,17 +1,12 @@
 # The Burnout Threshold
-## Understanding and managing the line between challenged and depleted
 
 **Series 8: Balance and Wellbeing — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and managing the line between challenged and depleted
 
 ### Prologue
 James had crossed a line he had not known existed until he was on the other side of it. The crossing had not been dramatic — there was no specific moment when the engaged professional became the burned-out one, no single event that transformed the person who found the work meaningful into the person who found it meaningless. There was only the gradual accumulation of demand beyond recovery, of output without input, of giving without receiving — until the day he noticed that the work he had once described as a vocation had come to feel like a sentence.

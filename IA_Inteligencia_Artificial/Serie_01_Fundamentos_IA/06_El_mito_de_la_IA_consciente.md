@@ -1,17 +1,12 @@
 # El mito de la IA consciente
-## Por qué la IA no piensa, no entiende y no siente — y por qué eso no importa tanto como crees
 
 **Serie 1: Fundamentos de IA — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué la IA no piensa, no entiende y no siente — y por qué eso no importa tanto como crees
 
 ### Prólogo: La conversación que inquietó a Elena
 

@@ -1,17 +1,12 @@
 # Relaciones Rotas que se Recuperaron
-## Historias y estrategias de reconciliación real
 
 **Serie 08: Reparar y Sanar — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Historias y estrategias de reconciliación real
 
 ### Prólogo
 Los estudios sobre reconciliación relacional muestran un hallazgo que sorprende a muchos: las relaciones que se rompen significativamente y se reparan a traves de un proceso genuino pueden terminar siendo más fuertes y más conscientes que las que nunca enfrentaron una crisis equivalente. Esto no es casualidad. Es el resultado de un proceso específico que este libro examina a traves de patrones identificados consistentemente en reconciliaciones exitosas.

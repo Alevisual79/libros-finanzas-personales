@@ -1,17 +1,12 @@
 # La Mentalidad del Emprendedor
-## Los patrones de pensamiento que separan a quien crea de quien espera
 
 **Serie 01: Mentalidad Emprendedora — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Los patrones de pensamiento que separan a quien crea de quien espera
 
 ### Prólogo
 Carlos tiene una idea de negocio desde hace dos años. Lucia lleva una empresa de servicios que funciona pero que siente que podría ser mucho más. Marcos tiene cuarenta y cinco años, veinte de experiencia en corporaciones, y la sensación creciente de que hay algo que quiere construir que solo puede construir si deja de trabajar para otros. Los tres tienen algo en común: la diferencia entre su situación actual y la que quieren no es una cuestión de recursos, de tiempo, ni de información. Es una cuestión de mentalidad. Este libro es sobre esos patrones de pensamiento que hacen que unos creen y otros esperen.

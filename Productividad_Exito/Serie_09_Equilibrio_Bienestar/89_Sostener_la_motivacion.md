@@ -1,7 +1,5 @@
 # Sostener la motivación a largo plazo
 
-## Cómo no quemarse cuando el camino es largo
-
 **Serie Productividad y Éxito — Serie 9: Equilibrio y Bienestar de Alto Rendimiento — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo no quemarse cuando el camino es largo
 
 ### Prólogo: El maratonista a mitad de carrera
 

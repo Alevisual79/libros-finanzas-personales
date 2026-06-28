@@ -1,17 +1,12 @@
 # AI for Business Applications
-## CRM Marketing and Customer Service Tools
 
 **Series 3: AI Tools — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## CRM Marketing and Customer Service Tools
 
 ### Prologue
 Elena's company deployed Salesforce Einstein, HubSpot AI, and a customer service chatbot in the same quarter. The results were mixed: one transformed the sales process, one was underwhelming, and one caused a customer service crisis. The difference was not the technology.

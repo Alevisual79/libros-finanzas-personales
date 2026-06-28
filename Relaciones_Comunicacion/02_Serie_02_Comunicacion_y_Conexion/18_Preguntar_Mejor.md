@@ -1,17 +1,12 @@
 # Preguntar Mejor
-## Las preguntas correctas cambian las conversaciones y las relaciones
 
 **Serie 02: Comunicación y Conexión — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Las preguntas correctas cambian las conversaciones y las relaciones
 
 ### Prólogo
 Las conversaciones más memorables que has tenido en tu vida probablemente tienen algo en común: alguien te hizo una pregunta que te hizo pensar de forma diferente sobre algo que creías conocer. Una pregunta que abrió algo que estaba cerrado. Una pregunta que te hizo sentir visto.

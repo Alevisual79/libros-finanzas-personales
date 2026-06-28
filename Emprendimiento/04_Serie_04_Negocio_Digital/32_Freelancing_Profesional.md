@@ -1,17 +1,12 @@
 # Freelancing Profesional
-## Cómo vivir bien ofreciendo servicios por tu cuenta
 
 **Serie 04: Negocio Digital — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo vivir bien ofreciendo servicios por tu cuenta
 
 ### Prólogo
 Carlos ha dejado su trabajo para ser freelance y en el primer mes gana menos de la mitad de lo que ganaba antes. Lucia lleva tres años como freelance, tiene clientes, pero trabaja más horas que cuando era empleada y cobra menos por hora. Marcos quiere explorar el freelancing como opción para sus servicios de consultoria pero no sabe si puede sostenerse económicamente. Los tres necesitan entender algo fundamental sobre el freelancing profesional: es uno de los modelos de negocio más rápidos para generar revenue y uno de los que peores margenes produce si se gestiona mal. La diferencia entre el freelance que vive bien y el que sobrevive con estrés no esta en las habilidades técnicas. Esta en como gestiona el negocio de ser freelance.

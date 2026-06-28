@@ -1,17 +1,12 @@
 # SEO for Business
-## Getting found by customers who are already looking for you
 
 **Series 04: Digital Business — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Getting found by customers who are already looking for you
 
 ### Prologue
 When Helen launched her bookkeeping services firm for creative businesses — photographers, designers, illustrators, and other independent creatives who were notoriously bad at managing their own finances — she had no marketing budget, no professional network in the creative industry, and no prior clients. What she had was a website, a very specific niche, and a willingness to invest in the unglamorous work of search engine optimization. She spent her first year writing detailed answers to the specific accounting and tax questions that creative freelancers were searching for: questions about quarterly estimated taxes, deductible business expenses for photographers, the right time to form an LLC, and how to handle sales tax on digital products.

@@ -1,7 +1,5 @@
 # El fracaso como información
 
-## Cómo convertir los errores en aprendizaje acelerado
-
 **Serie Productividad y Éxito — Serie 7: Creatividad e Innovación — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo convertir los errores en aprendizaje acelerado
 
 ### Prólogo: El lanzamiento que falló
 

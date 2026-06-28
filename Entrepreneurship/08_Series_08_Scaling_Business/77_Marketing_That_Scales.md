@@ -1,17 +1,12 @@
 # Marketing That Scales
-## Moving from founder-driven sales to systematic customer acquisition
 
 **Series 08: Scaling Business — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Moving from founder-driven sales to systematic customer acquisition
 
 ### Prologue
 For six years, Paul's cybersecurity training company had grown primarily because Paul was good at two things: giving compelling presentations at industry conferences and maintaining relationships with the CISOs and security directors who had attended those presentations and gone on to buy training programs for their teams.

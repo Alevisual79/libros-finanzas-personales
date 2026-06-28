@@ -1,17 +1,12 @@
 # The Depression Nobody Sees
-## Recognizing and Addressing High-Functioning Depression
 
 **Series 4: Mind and Emotions — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Recognizing and Addressing High-Functioning Depression
 
 ### Prologue
 Isabel went to work every day. She met her deadlines. She attended social events and made conversation. She exercised three times a week. From the outside, she looked fine — more than fine. She was a competent professional, a present parent to adult children, and a reliable friend.

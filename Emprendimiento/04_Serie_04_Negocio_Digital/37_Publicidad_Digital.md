@@ -1,17 +1,12 @@
 # Publicidad Digital
-## Como invertir en ads para acelerar el crecimiento
 
 **Serie 04: Negocio Digital — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como invertir en ads para acelerar el crecimiento
 
 ### Prólogo
 Carlos ha gastado dos mil euros en Meta Ads y ha conseguido cero clientes. Lucia ha probado Google Ads sin entender bien como funcionan y ha agotado el presupuesto en clicks que no han convertido en nada. Marcos tiene presupuesto disponible pero no sabe si la publicidad digital es el canal correcto para su tipo de negocio de servicios B2B. Los tres comparten la misma experiencia: la publicidad digital promete mucho pero para muchos produce decepción. La publicidad digital no es difícil. Es una ciencia que tiene sus propias reglas. Las empresas que gastan millones en ads no lo hacen porque tengan más dinero: lo hacen porque entienden como funciona el sistema y miden cada euro con precisión.

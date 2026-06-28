@@ -1,7 +1,5 @@
 # Dejar de ser víctima financiera
 
-## Cómo el sistema te perjudica y qué puedes controlar tú a partir de hoy
-
 **Serie Finanzas Personales — Serie 1: Mindset del Dinero — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo el sistema te perjudica y qué puedes controlar tú a partir de hoy
 
 ### Prólogo: Las dos verdades que no se excluyen
 

@@ -1,7 +1,5 @@
 # Respiración: La herramienta más poderosa que ya tienes
 
-## Técnicas con evidencia para la salud, el estrés y el rendimiento
-
 **Serie Salud y Bienestar — Serie 10: Salud Integrativa — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Técnicas con evidencia para la salud, el estrés y el rendimiento
 
 ### Prólogo: Lo que no se enseña a hacer
 

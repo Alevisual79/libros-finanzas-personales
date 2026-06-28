@@ -1,7 +1,5 @@
 # La mente del principiante
 
-## Por qué los expertos a veces aprenden menos que los novatos
-
 **Serie Productividad y Éxito — Serie 8: Aprendizaje y Desarrollo Personal — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué los expertos a veces aprenden menos que los novatos
 
 ### Prólogo: El maestro que ya no oía las preguntas
 

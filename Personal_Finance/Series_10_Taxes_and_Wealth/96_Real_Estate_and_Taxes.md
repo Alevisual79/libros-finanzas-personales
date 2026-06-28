@@ -1,17 +1,12 @@
 # Real Estate and Taxes
-## Deductions, Depreciation, and Strategy
 
 **Series 10: Taxes and Wealth — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Deductions, Depreciation, and Strategy
 
 ### Prologue
 Isabel had been a homeowner for twenty-two years. She remembered signing the mortgage documents at age thirty — the stack of papers thicker than a novel, the ink still wet when the realtor shook her hand. For most of those years, she had thought of her home simply as the place she lived, the place her kids grew up, the place where Thanksgiving dinner happened. It was not until she started working with a financial planner at fifty that she understood her house was also one of the most tax-advantaged assets she would ever own. By then, her mortgage was winding down, her home had appreciated substantially, and a whole layer of tax strategy had been sitting there, mostly unused, for two decades.

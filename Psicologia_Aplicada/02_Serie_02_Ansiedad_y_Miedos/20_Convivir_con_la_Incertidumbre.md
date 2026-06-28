@@ -1,17 +1,12 @@
 # Convivir con la Incertidumbre
-## Como estar bien aunque no controles el resultado
 
 **Serie 02: Ansiedad y Miedos — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como estar bien aunque no controles el resultado
 
 ### Prólogo
 Isabel tiene una decisión pendiente sobre su carrera que no podrá resolverse con certeza antes de tomar la decisión. Su cerebro lleva semanas buscando la certeza que no existe: buscando más información, pidiendo opinión a más personas, planificando más escenarios posibles. La búsqueda no reduce la incertidumbre. Solo multiplica los datos sin resolver la pregunta fundamental: ¿como puedo estar bien no sabiendo como va a salir esto?

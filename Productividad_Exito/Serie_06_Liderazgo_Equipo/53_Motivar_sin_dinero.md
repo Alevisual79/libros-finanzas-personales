@@ -1,7 +1,5 @@
 # Motivar sin dinero
 
-## Lo que realmente motiva a las personas
-
 **Serie Productividad y Éxito — Serie 6: Liderazgo y Trabajo en Equipo — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que realmente motiva a las personas
 
 ### Prólogo: El bonus que no cambio nada
 

@@ -1,17 +1,12 @@
 # Self-Knowledge and Relationships
-## The practice of knowing yourself as the foundation for knowing others
 
 **Series 1: Know Yourself in Relationships — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The practice of knowing yourself as the foundation for knowing others
 
 ### Prologue
 After several months of the conversations she and Marcus had been having — the hard ones, the ones that had previously dissolved in the parking lot — Ana noticed something she had not anticipated. She was discovering herself.

@@ -1,7 +1,5 @@
 # El alcohol: La droga más normalizada
 
-## Qué le hace al cuerpo, cómo funciona la dependencia y cómo reducirlo
-
 **Serie Salud y Bienestar — Serie 9: Entorno y Estilo de Vida — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Qué le hace al cuerpo, cómo funciona la dependencia y cómo reducirlo
 
 ### Prólogo: La copa de vino de cada noche
 

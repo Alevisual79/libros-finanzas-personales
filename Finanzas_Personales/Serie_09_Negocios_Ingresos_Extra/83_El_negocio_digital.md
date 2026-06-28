@@ -1,7 +1,5 @@
 # El negocio digital: De cero a 2.000€/mes
 
-## Itinerario concreto paso a paso para construir ingresos online desde cero
-
 **Serie Finanzas Personales — Serie 9: Negocios e Ingresos Extra — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Itinerario concreto paso a paso para construir ingresos online desde cero
 
 ### Prólogo: Lo que Marta no encontró en ningún tutorial
 

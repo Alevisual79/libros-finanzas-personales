@@ -1,17 +1,12 @@
 # Personal Brand Online
-## How to build an audience that opens doors and creates opportunities
 
 **Series 04: Digital Business — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to build an audience that opens doors and creates opportunities
 
 ### Prologue
 When Raj left his position as a senior data scientist at a major technology company to start his own AI consulting practice, he had a specific asset that most new consultants don't: a personal brand. Over the three years before he left, he had published weekly on LinkedIn about data science and machine learning applications in business — not self-promotional content, but genuine analysis of trends, practical tutorials, and thoughtful perspectives on the intersection of AI and business strategy. He had 47,000 followers on LinkedIn. He had been cited in two industry publications. He had been invited to speak at two conferences he hadn't applied to.

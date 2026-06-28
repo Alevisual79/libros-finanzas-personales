@@ -1,7 +1,5 @@
 # Vender servicios online: La forma más rápida de ganar dinero extra
 
-## Sin producto, sin inversión, con las habilidades que ya tienes
-
 **Serie Finanzas Personales — Serie 9: Negocios e Ingresos Extra — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Sin producto, sin inversión, con las habilidades que ya tienes
 
 ### Prólogo: Lo que Ana descubrió en su jornada parcial
 

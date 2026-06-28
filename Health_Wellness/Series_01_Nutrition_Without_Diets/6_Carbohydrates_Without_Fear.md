@@ -1,17 +1,12 @@
 # Carbohydrates Without Fear
-## The Most Misunderstood Energy Source
 
 **Series 1: Nutrition Without Diets — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Most Misunderstood Energy Source
 
 ### Prologue
 After the fall of dietary fat as public health villain #1, carbohydrates claimed the position. Low-carbohydrate diets became the dominant weight loss approach, with carbohydrates blamed for obesity, insulin resistance, metabolic disease, inflammation, and cognitive decline.

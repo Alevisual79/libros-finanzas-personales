@@ -1,17 +1,12 @@
 # Análisis de datos sin ser analista
-## Cómo usar la IA para extraer insights de los datos que ya tienes
 
 **Serie 2: IA en el Trabajo — Libro 8 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo usar la IA para extraer insights de los datos que ya tienes
 
 ### Prólogo: Los números que Isabel no entendía
 

@@ -1,17 +1,12 @@
 # The Memory That Improves
-## The science of remembering more — and why it matters for professional effectiveness
 
 **Series 3: Focus and Concentration — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The science of remembering more — and why it matters for professional effectiveness
 
 ### Prologue
 Leo had the experience that most knowledge workers eventually have: he attended an excellent conference, filled six pages of notes, returned to work energized by ideas, and filed the notebook on his desk where it remained, un-consulted, for the following eighteen months. At the end of those eighteen months, he could remember — with effort — three or four of the conference's key ideas. He could not have reliably named four of the eight speakers. The six pages of notes, when he finally opened the notebook, contained approximately forty ideas that he did not remember having had.

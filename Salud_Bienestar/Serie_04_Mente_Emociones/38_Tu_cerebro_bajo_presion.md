@@ -1,7 +1,5 @@
 # Tu cerebro bajo presión
 
-## Cómo el estrés afecta la memoria, la concentración y las decisiones — y qué hacer para proteger el cerebro
-
 **Serie Salud y Bienestar — Serie 4: Mente y Emociones — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo el estrés afecta la memoria, la concentración y las decisiones — y qué hacer para proteger el cerebro
 
 ### Prólogo: El cerebro que ya no funciona como antes
 

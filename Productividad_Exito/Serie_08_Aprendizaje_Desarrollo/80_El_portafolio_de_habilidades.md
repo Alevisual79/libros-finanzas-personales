@@ -1,7 +1,5 @@
 # El portafolio de habilidades
 
-## Construir la combinación única de competencias que te hace irreemplazable
-
 **Serie Productividad y Éxito — Serie 8: Aprendizaje y Desarrollo Personal — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Construir la combinación única de competencias que te hace irreemplazable
 
 ### Prólogo: La combinación que nadie más tiene
 

@@ -1,17 +1,12 @@
 # Atención y Concentración
-## Como entrenar el recurso más escaso del siglo XXI
 
 **Serie 01: Como Funciona Tu Mente — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como entrenar el recurso más escaso del siglo XXI
 
 ### Prólogo
 Ruben se sienta a trabajar en un proyecto importante a las diez de la mañana. A las diez y cuatro revisa el correo. A las diez y ocho responde a un mensaje de WhatsApp. A las diez y catorce mira brevemente Twitter. A las diez y veintitres recibe una notificación del teléfono. A las diez y cuarenta y cinco, cuando alguien le pregunta si ha avanzado en el proyecto, ha estado cuarenta y cinco minutos en su escritorio sin hacer nada que se aproxime al trabajo profundo que el proyecto requiere. Ruben no tiene un problema de motivación, ni de capacidad, ni de disciplina en el sentido moral del terminó. Tiene un problema de atención en un entorno diseñado específicamente para destruirla.

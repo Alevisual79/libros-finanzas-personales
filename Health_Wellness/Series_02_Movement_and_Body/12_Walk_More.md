@@ -1,17 +1,12 @@
 # Walk More
-## The Underrated Movement That Changes Everything
 
 **Series 2: Movement and Body — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Underrated Movement That Changes Everything
 
 ### Prologue
 Walking is so ordinary that most people don't count it as exercise. Yet across the entire scientific literature on human movement, walking is the activity most consistently associated with long-term health outcomes. It is what human beings evolved to do for most of the day — and what most modern humans have systematically designed out of their lives.

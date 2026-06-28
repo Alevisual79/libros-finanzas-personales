@@ -1,17 +1,12 @@
 # Exercise in Little Time
-## Effective Fitness When Time Is the Problem
 
 **Series 2: Movement and Body — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Effective Fitness When Time Is the Problem
 
 ### Prologue
 "I don't have time to exercise" is the most common reason adults give for not exercising. This reason is often more perception than reality — but the perception matters, and it requires practical solutions rather than judgment.

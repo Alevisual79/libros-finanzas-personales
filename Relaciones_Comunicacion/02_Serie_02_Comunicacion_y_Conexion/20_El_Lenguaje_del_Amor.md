@@ -1,17 +1,12 @@
 # El Lenguaje del Amor
-## Como expresar afecto de formas que la otra persona pueda recibir
 
 **Serie 02: Comunicación y Conexión — Libro 10 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como expresar afecto de formas que la otra persona pueda recibir
 
 ### Prólogo
 Elena lleva cinco años con su pareja. Le cocina, le plancha la ropa cuando tiene mucho trabajo, organiza las vacaciones para que el no tenga que preocuparse por nada. Y aun así su pareja dice que a veces siente que Elena no le quiere de verdad. Elena no entiende como puede sentir eso si todo lo que hace es para el.

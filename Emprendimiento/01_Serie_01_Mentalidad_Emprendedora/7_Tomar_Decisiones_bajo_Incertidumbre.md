@@ -1,17 +1,12 @@
 # Tomar Decisiones bajo Incertidumbre
-## El arte de decidir cuando no tienes suficiente información
 
 **Serie 01: Mentalidad Emprendedora — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El arte de decidir cuando no tienes suficiente información
 
 ### Prólogo
 Lucia lleva tres semanas intentando decidir si contratar a una persona a tiempo completo o seguir con freelancers. Carlos necesita decidir si lanzar su producto ahora con las funcionalidades actuales o esperar dos meses a tener las que cree que hacen falta. Marcos tiene que decidir si rechazar un contrató grande que implicaria alejarse de la estrategia que tiene para seguir un cliente que paga mucho. Los tres tienen en común que no tienen suficiente información para tomar la decisión perfecta. Y nunca la tendrán. El emprendimiento es tomar decisiones en condiciones de incertidumbre permanente, y la calidad de ese proceso determina en gran medida el resultado del negocio.

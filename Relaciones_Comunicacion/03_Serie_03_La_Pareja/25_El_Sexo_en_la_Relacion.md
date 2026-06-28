@@ -1,17 +1,12 @@
 # El Sexo en la Relación
-## Cómo mantener la conexión intima a lo largo del tiempo
 
 **Serie 03: La Pareja — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo mantener la conexión intima a lo largo del tiempo
 
 ### Prólogo
 El deseo en la pareja a largo plazo tiene una trayectoria casi universal que nadie anticipa completamente cuando empieza la relación: después de los primeros años de intensa actividad sexual, decrece. No desaparece necesariamente. Pero cambia. Y ese cambio, cuando no se entiende ni se gestiona, puede interpretarse como señal de que algo va mal en la relación, que ya no se quiere al otro, que la relación ha perdido algo irrecuperable.

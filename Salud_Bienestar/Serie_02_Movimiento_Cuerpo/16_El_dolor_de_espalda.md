@@ -1,7 +1,5 @@
 # El dolor de espalda que podría evitarse
 
-## Las causas reales, los remedios que funcionan y lo que perpetúa el problema
-
 **Serie Salud y Bienestar — Serie 2: Movimiento y Cuerpo — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Las causas reales, los remedios que funcionan y lo que perpetúa el problema
 
 ### Prólogo: La epidemia que todos padecen
 

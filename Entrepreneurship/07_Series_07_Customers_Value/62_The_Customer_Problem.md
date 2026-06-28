@@ -1,17 +1,12 @@
 # The Customer Problem
-## Understanding what your customers actually need — not what you think they need
 
 **Series 07: Customers and Value — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding what your customers actually need — not what you think they need
 
 ### Prologue
 When Omar launched his productivity software for architects, he was certain he understood the problem he was solving. He had spent three years as an architect at a mid-sized firm; he knew the inefficiency of the tools available; he had built the software he wished had existed during that time. He launched after eighteen months of development, pitched it at an architecture industry conference, and watched forty-three firms sign up for trials in the first three months.

@@ -1,7 +1,5 @@
 # Cursos online: Cómo no pagar y no terminar
 
-## El problema de la educación digital y cómo resolverlo
-
 **Serie Productividad y Éxito — Serie 8: Aprendizaje y Desarrollo Personal — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El problema de la educación digital y cómo resolverlo
 
 ### Prólogo: La carpeta de cursos sin terminar
 

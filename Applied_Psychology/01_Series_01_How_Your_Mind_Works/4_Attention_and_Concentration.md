@@ -1,17 +1,12 @@
 # Attention and Concentration
-## The Scarce Resource That Shapes Your Life
 
 **Series 1: How Your Mind Works — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Scarce Resource That Shapes Your Life
 
 ### Prologue
 Sofia was proud of her multitasking ability. As a project manager, she handled four simultaneous conversations on different platforms, attended meetings while answering email, and prided herself on never letting anything fall through the cracks. Then she read a study from the American Psychological Association showing that what she was doing wasn't multitasking at all — no human being multitasks in the sense of performing two cognitive tasks simultaneously. What she was doing was rapid task-switching, and it was costing her, by one estimate, up to 40% of her productive output per hour. She wasn't working at peak efficiency. She was working at 60% of it, convinced she was working at 120%.

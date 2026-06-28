@@ -1,17 +1,12 @@
 # El cientifico de datos aumentado
-## Como la IA está cambiando el trabajo de quienes trabajan con datos
 
 **Serie 5: IA y Datos — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como la IA está cambiando el trabajo de quienes trabajan con datos
 
 ### Prólogo
 Los datos son el combustible de la IA. Sin datos de calidad, los mejores modelos producen resultados pobres. Con datos excelentes y preguntas correctas, incluso modelos sencillos pueden transformar la toma de decisiones.

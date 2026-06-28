@@ -1,7 +1,5 @@
 # Andropausia: El cambio hormonal masculino que nadie habla
 
-## Testosterona, energía y salud a partir de los 45 — sin mitos y con evidencia
-
 **Serie Salud y Bienestar — Serie 7: Longevidad y Envejecimiento — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Testosterona, energía y salud a partir de los 45 — sin mitos y con evidencia
 
 ### Prólogo: El bajón que no tiene nombre
 

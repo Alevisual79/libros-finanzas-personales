@@ -1,17 +1,12 @@
 # Preventive Medicine From Age 30
-## Your Decade-by-Decade Prevention Blueprint
 
 **Series 5: Prevention and Checkups — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Your Decade-by-Decade Prevention Blueprint
 
 ### Prologue
 Prevention is most effective when it begins before disease. This sounds obvious — and yet the structure of most healthcare systems is almost entirely oriented toward disease treatment, with prevention addressed only when disease is already present or substantially elevated risk is identified.

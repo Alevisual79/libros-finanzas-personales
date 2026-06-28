@@ -1,7 +1,5 @@
 # El embarazo informado
 
-## Nutrición, actividad física y bienestar durante los nueve meses — sin mitos y con evidencia
-
 **Serie Salud y Bienestar — Serie 8: Salud Sexual y Reproductiva — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Nutrición, actividad física y bienestar durante los nueve meses — sin mitos y con evidencia
 
 ### Prólogo: Lo que la abuela dice y lo que la ciencia dice
 

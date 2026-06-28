@@ -1,17 +1,12 @@
 # Leadership Without a Title
-## How ordinary professionals produce extraordinary leadership impact
 
 **Series 6: Leadership and Teams — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How ordinary professionals produce extraordinary leadership impact
 
 ### Prologue
 Sophie had spent years waiting to be given the title that would make her a leader. Team Lead, Senior Manager, Director — the formal designations that, in her mental model, were the prerequisites for the influence, the scope, and the authority that leadership implied. While she waited, she noticed something that complicated the model: the colleague two desks away who had no formal title beyond "senior analyst" but who, in practice, shaped the direction of every significant project she touched; who organized the team's responses to crises; who mentored the junior colleagues and was sought out by the senior ones; who, in every functional sense, was leading.

@@ -1,17 +1,12 @@
 # Sleeping With Anxiety
-## How to Break the Loop of Nighttime Worry
 
 **Series 3: Sleep and Rest — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Break the Loop of Nighttime Worry
 
 ### Prologue
 Elena's mind followed a predictable pattern when she couldn't sleep: she would think about something at work, which would remind her of something she hadn't done, which would trigger a cascade of other concerns — a project deadline, a conversation she handled poorly, whether she should change careers, whether she was saving enough money. The content of the thoughts varied; the structure was always the same: a thought machine operating at full capacity in a body trying to sleep.

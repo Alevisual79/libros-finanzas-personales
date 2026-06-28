@@ -1,17 +1,12 @@
 # Creative Routines
-## The daily practices that sustain creative output over a lifetime
 
 **Series 7: Creativity and Innovation — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The daily practices that sustain creative output over a lifetime
 
 ### Prologue
 Elena's creative development had not followed the trajectory she would have predicted when she first started taking it seriously. She had expected the creative practice to feel different from work — more spontaneous, more inspired, more intrinsically motivated than the discipline of execution she had always managed. What she found was that the most creative period of her professional life was also the most structured: the specific time blocks protected for creative work, the specific practices that preceded the work, the specific environment that supported it, and the specific review practices that converted the work's raw output into refined contributions.

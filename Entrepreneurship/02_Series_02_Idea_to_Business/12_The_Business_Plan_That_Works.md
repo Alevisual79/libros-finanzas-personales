@@ -1,17 +1,12 @@
 # The Business Plan That Works
-## Not the one banks ask for but the one your business needs
 
 **Series 02: From Idea to Business — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Not the one banks ask for but the one your business needs
 
 ### Prologue
 When Isabel's financial advisor told her she needed a business plan before anyone would look at her loan application, she spent three weeks writing a forty-page document with a five-year financial projection, a competitive analysis, a market size calculation, and an organizational chart for a company that currently consisted of herself and a shared workspace membership. The document was comprehensive, professionally formatted, and almost entirely fictional — because she was projecting outcomes for a business she had not yet built, based on assumptions she had not yet tested, for a market she had not yet entered. The bank approved her loan. The business went in a direction the plan had not anticipated in almost every significant respect within six months.

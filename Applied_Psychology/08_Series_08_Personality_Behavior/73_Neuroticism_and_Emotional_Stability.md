@@ -1,17 +1,12 @@
 # Neuroticism and Emotional Stability
-## Living With a Sensitive Nervous System
 
 **Series 8: Personality and Behavior — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Living With a Sensitive Nervous System
 
 ### Prologue
 For most of his adult life, Marco had believed that other people experienced the world as he did — that everyone felt the same intensity of response to the same stimuli, and that the people who seemed calmer were simply better at not showing it. The revelation that this was not the case — that his nervous system was, in measurable psychological terms, more reactive than that of approximately seventy percent of other people — came as both a relief and a complication. It was a relief because it provided a framework for the experience he had been trying, with limited success, to explain to himself and others: the tendency to worry more intensely about the same concerns, to recover more slowly from the same upsets, to be more affected by the same stressors. It was a complication because it required him to revise a self-understanding built around the belief that the intensity of his responses accurately reflected the intensity of what he was responding to.

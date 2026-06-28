@@ -1,7 +1,5 @@
 # Del sofá a los 5 kilómetros
 
-## El plan de 12 semanas que sí funciona para empezar a correr
-
 **Serie Salud y Bienestar — Serie 2: Movimiento y Cuerpo — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El plan de 12 semanas que sí funciona para empezar a correr
 
 ### Prólogo: La primera meta que lo cambia todo
 

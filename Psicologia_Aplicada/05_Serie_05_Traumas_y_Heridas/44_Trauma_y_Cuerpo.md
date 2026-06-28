@@ -1,17 +1,12 @@
 # Trauma y Cuerpo
-## Como sanar desde el cuerpo lo que la mente no puede procesar sola
 
 **Serie 05: Traumas y Heridas — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como sanar desde el cuerpo lo que la mente no puede procesar sola
 
 ### Prólogo
 Elena lleva años en terapia verbal: ha hablado de su historia, ha analizado sus patrones, ha entendido intelectualmente de dónde vienen sus dificultades. Y sin embargo, en el cuerpo, hay cosas que no han cambiado: la tensión cronica en los hombros, el estómago que se aprieta en ciertos contextos, la incapacidad de relajarse completamente incluso en situaciones donde racionalmente sabe que esta segura. Este libro parte de una premisa que la investigación sobre el trauma ha confirmado de forma creciente: el trauma no vive solo en los pensamientos y los recuerdos. Vive en el cuerpo. Y para procesarlo completamente, el trabajo con el cuerpo es tan necesario como el trabajo con la mente.

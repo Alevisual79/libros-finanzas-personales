@@ -1,17 +1,12 @@
 # Evening Habits
-## How you end the day determines how you begin the next one
 
 **Series 4: High Performance Habits — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How you end the day determines how you begin the next one
 
 ### Prologue
 Leo's evenings had an invisible structure that he had not chosen. After dinner, he would spend approximately forty minutes with his phone — news, social media, the conversations that had accumulated during the dinner hour. Then approximately thirty minutes of television, rarely anything he had specifically chosen, more often whatever was on or whatever the algorithm recommended. Then, in bed, another twenty to thirty minutes on his phone before eventually placing it on the nightstand and attempting sleep.

@@ -1,17 +1,12 @@
 # The CEO of the Scaled Business
-## Evolving from founder to executive — the hardest transition in entrepreneurship
 
 **Series 08: Scaling Business — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Evolving from founder to executive — the hardest transition in entrepreneurship
 
 ### Prologue
 Robert had built his industrial equipment maintenance company over fourteen years. At five people, he was the lead technician, the top salesperson, the financial manager, and the administrative coordinator — all while setting the strategic direction. He knew everything about the business and did most of what mattered in it. At thirty-two people, his role looked similar from the outside — he was still deeply involved in client relationships, still the primary voice in the largest service contracts, still the person everyone brought their questions and problems to.

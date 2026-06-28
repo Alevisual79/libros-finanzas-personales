@@ -1,17 +1,12 @@
 # AI and Higher Education
-## The University in Transformation
 
 **Series 8: AI and Education — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The University in Transformation
 
 ### Prologue
 The lecture that delivers the same content to 300 students simultaneously was always a pedagogically inferior approach. AI tutoring that adapts to each student's level is not an attack on the university — it is a correction of one of its long-standing weaknesses.

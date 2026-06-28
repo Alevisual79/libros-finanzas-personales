@@ -1,17 +1,12 @@
 # Atraer sin Jugar
-## Como conectar autenticamente sin técnicas de seducción manipuladoras
 
 **Serie 07: Citas y Amor Romantico — Libro 7 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como conectar autenticamente sin técnicas de seducción manipuladoras
 
 ### Prólogo
 Existe toda una industria dedicada a enseñar técnicas de seducción que prometen resultados rápidos: lineas de apertura calculadas, tacticas de generar inseguridad artificial, estrategias de escasez fabricada. Estas técnicas, cuando funcionan, frecuentemente lo hacen a corto plazo, generando conexiones iniciales que después colapsan porque estan construidas sobre manipulación en lugar de conexión genuina, destruyendo la posibilidad de relaciones reales y duraderas.

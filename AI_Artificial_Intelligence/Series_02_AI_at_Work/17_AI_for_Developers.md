@@ -1,17 +1,12 @@
 # AI for Developers
-## Coding in the Age of Copilots
 
 **Series 2: AI at Work — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Coding in the Age of Copilots
 
 ### Prologue
 Elena's productivity metrics improved 40% after integrating GitHub Copilot into her workflow. But the more interesting change was qualitative: she spent less time on boilerplate and more time on architecture. The work got harder and more interesting.

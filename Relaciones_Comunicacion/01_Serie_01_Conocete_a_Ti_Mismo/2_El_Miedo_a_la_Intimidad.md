@@ -1,17 +1,12 @@
 # El Miedo a la Intimidad
-## Por qué nos alejamos de quienes más queremos
 
 **Serie 01: Conocete a Ti Mismo — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué nos alejamos de quienes más queremos
 
 ### Prólogo
 Ruben puede hablar durante horas con un desconocido en un avion. Le cuenta cosas que no le ha contado a sus mejores amigos. Cuando el avion aterriza, se despide aliviado sabiendo que no va a volver a ver a esa persona.

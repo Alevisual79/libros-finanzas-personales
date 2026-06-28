@@ -1,17 +1,12 @@
 # Family and Money
-## The topic nobody talks about and everyone feels
 
 **Series 4: Family and Bonds — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The topic nobody talks about and everyone feels
 
 ### Prologue
 Rosa's father had died intestate. There was no will — not because her father had been negligent, exactly, but because in his particular cultural and generational context, making a will had felt to him like an anticipation of death that was somehow dangerous to invite, and so he had deferred it until the moment of the will had passed and the intestacy was simply the fact.

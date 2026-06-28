@@ -1,17 +1,12 @@
 # Los Sesgos Cognitivos que Gobiernan tu Vida
-## Como tu cerebro te engana sin que te des cuenta
 
 **Serie 01: Como Funciona Tu Mente — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como tu cerebro te engana sin que te des cuenta
 
 ### Prólogo
 Elena lleva tres años contratando personas para su empresa de tecnología. Cree que es objetiva, que evalua CV y entrevistas con criterio técnico puro. Hasta que un colega le muestra los datos: contrata sistemáticamente a personas que estudiaron en la misma universidad que ella, que tienen nombres que le resultan familiares, que llegan recomendadas por alguien de su red. Elena no lo hace con mala intención. Lo hace porque su cerebro, sin pedirle permiso, aplica atajos que llevan miles de años funcionando. El problema es que esos atajos, útiles en la sabana africana, distorsionan sistemáticamente la realidad en un mundo complejo.

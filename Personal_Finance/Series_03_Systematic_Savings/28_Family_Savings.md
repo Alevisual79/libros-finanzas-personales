@@ -1,17 +1,12 @@
 # Family Savings
-## Getting the Whole Family on the Same Page
 
 **Series 3: Systematic Savings — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Getting the Whole Family on the Same Page
 
 ### Prologue
 When Elena and her partner moved in together, they discovered something that surprised neither of them in principle and both of them in practice: they had completely different relationships with money.

@@ -1,17 +1,12 @@
 # Work-Life Balance
-## How to build boundaries that protect your relationships outside work
 
 **Series 6: Work Relationships — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to build boundaries that protect your relationships outside work
 
 ### Prologue
 Sandra's husband had said something to her, on a Saturday morning in November, that she had not been able to stop thinking about since.

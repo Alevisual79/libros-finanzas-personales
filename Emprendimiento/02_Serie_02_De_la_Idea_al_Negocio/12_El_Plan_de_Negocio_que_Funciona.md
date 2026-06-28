@@ -1,17 +1,12 @@
 # El Plan de Negocio que Funciona
-## No el que piden los bancos sino el que necesita tu negocio
 
 **Serie 02: De la Idea al Negocio — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## No el que piden los bancos sino el que necesita tu negocio
 
 ### Prólogo
 Lucia paso tres semanas escribiendo un plan de negocio de cuarenta páginas para una aceleradora. El plan era impecable en forma: análisis de mercado, proyecciones a cinco años, análisis de la competencia, matriz DAFO. Era terriblemente débil en contenido: se basaba en supuestos que nunca había verificado con el mercado real. Carlos nunca ha escrito un plan de negocio. Ha ido tomando decisiones semana a semana, algunas muy bien, pero sin la claridad de hacía donde va y con que recursos cuenta. Marcos escribió un plan de negocio corporativo, el tipo que había visto durante veinte años en reuniones de estrategia, y descubrió que no le servia en absoluto para la realidad del emprendimiento diario. Los tres necesitan lo mismo: no el documento sino la claridad que un buen proceso de planificación puede producir.

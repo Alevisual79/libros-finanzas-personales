@@ -1,17 +1,12 @@
 # Comunicación Digital y Relaciones
-## Cómo mantener conexiones reales en un mundo de pantallas
 
 **Serie 02: Comunicación y Conexión — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo mantener conexiones reales en un mundo de pantallas
 
 ### Prólogo
 Las investigaciones son claras: estamos más conectados digitalmente que nunca y más solos que en cualquier momento de la historia reciente. Tenemos más formas de comunicarnos y menos conversaciones que realmente nutran.

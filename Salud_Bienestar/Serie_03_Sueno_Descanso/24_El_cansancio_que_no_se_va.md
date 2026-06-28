@@ -1,7 +1,5 @@
 # El cansancio que no se va durmiendo
 
-## Fatiga crónica, tiroides, anemia y otras causas médicas del agotamiento persistente
-
 **Serie Salud y Bienestar — Serie 3: Sueño y Descanso — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Fatiga crónica, tiroides, anemia y otras causas médicas del agotamiento persistente
 
 ### Prólogo: El cansancio que no tiene explicación obvia
 

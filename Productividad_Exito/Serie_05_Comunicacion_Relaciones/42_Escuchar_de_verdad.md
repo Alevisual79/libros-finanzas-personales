@@ -1,7 +1,5 @@
 # Escuchar de verdad
 
-## Por qué la mayoría escucha para responder, no para entender
-
 **Serie Productividad y Éxito — Serie 5: Comunicación y Relaciones Profesionales — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué la mayoría escucha para responder, no para entender
 
 ### Prólogo: La conversación que nunca ocurrió
 

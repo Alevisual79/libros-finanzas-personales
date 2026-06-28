@@ -1,17 +1,12 @@
 # Back Pain
-## What the Science Says and What Actually Helps
 
 **Series 2: Movement and Body — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What the Science Says and What Actually Helps
 
 ### Prologue
 Lower back pain is the leading cause of disability worldwide. At any given moment, approximately 540 million people are experiencing it. Most people will have at least one significant episode of back pain in their lifetime.

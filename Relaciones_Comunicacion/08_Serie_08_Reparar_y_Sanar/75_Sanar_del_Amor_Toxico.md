@@ -1,17 +1,12 @@
 # Sanar del Amor Toxico
-## Recuperarte de una relación que te dañó
 
 **Serie 08: Reparar y Sanar — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Recuperarte de una relación que te dañó
 
 ### Prólogo
 Elena sale de una relación en la que nada era abiertamente violento, ningún episodio aislado que pudiera señalarse claramente como el problema. Pero tampoco nada estaba realmente bien: una erosión lenta y constante de su autoestima, una sensación permanente de estar caminando sobre cascaras de huevo, una versión de ella misma que apenas reconocia al final de la relación. Ese tipo de daño, descubre, es de los más difíciles de nombrar, precisamente porque no tiene el evento dramatico que la sociedad espera para validar el sufrimiento.

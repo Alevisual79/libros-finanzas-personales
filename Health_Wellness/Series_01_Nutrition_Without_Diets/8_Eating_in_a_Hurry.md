@@ -1,17 +1,12 @@
 # Eating in a Hurry
-## Healthy Food When Time Is the Problem
 
 **Series 1: Nutrition Without Diets — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Healthy Food When Time Is the Problem
 
 ### Prologue
 "I'd eat better if I had more time" is the most common reason people give for poor dietary quality. It is partly true and largely a framework problem. The assumption underlying it: good food takes significantly more time than bad food. This assumption is frequently wrong.

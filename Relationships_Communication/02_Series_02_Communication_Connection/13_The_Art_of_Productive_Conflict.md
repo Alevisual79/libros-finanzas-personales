@@ -1,17 +1,12 @@
 # The Art of Productive Conflict
-## How to argue without destroying
 
 **Series 2: Communication and Connection — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to argue without destroying
 
 ### Prologue
 David and Elena had developed, over the course of their twelve-year marriage, a sophisticated system for not arguing. When a potential conflict arose, they would each make a series of small adjustments — softening tones, retreating from positions, redirecting conversations toward less charged territory — until the issue had been successfully avoided. They were very good at this. Their friends sometimes commented on how unusually harmonious they seemed.

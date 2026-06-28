@@ -1,7 +1,5 @@
 # Cuando uno gana más que el otro
 
-## Cómo manejar la asimetría económica en la relación sin que destruya la equidad
-
 **Serie Finanzas Personales — Serie 7: Dinero en Pareja y Familia — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo manejar la asimetría económica en la relación sin que destruya la equidad
 
 ### Prólogo: El silencio que se pudre
 

@@ -1,17 +1,12 @@
 # Learning to Learn
-## The meta-skill that makes all other skills possible
 
 **Series 8: Learning and Development — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The meta-skill that makes all other skills possible
 
 ### Prologue
 Maya had graduated near the top of her engineering class and joined a technology company whose specific technical stack she knew nothing about. She had excellent foundations; she had no directly applicable current knowledge. What she discovered, over the following eighteen months, was that the most valuable capability she brought to the new role was not any specific technical knowledge — which her colleagues already had in abundance — but the ability to acquire new technical knowledge rapidly and efficiently: the meta-skill of learning how to learn.

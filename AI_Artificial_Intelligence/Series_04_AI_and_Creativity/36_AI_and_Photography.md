@@ -1,17 +1,12 @@
 # AI and Photography
-## From Editing to Generation
 
 **Series 4: AI and Creativity — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## From Editing to Generation
 
 ### Prologue
 The photo editor who spent four hours on a complex background removal now takes four seconds. The photographer who could not afford a studio can generate any background. The model who needed a photographer can generate the images directly. Everything changed.

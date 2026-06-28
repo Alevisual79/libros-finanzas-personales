@@ -1,17 +1,12 @@
 # The Entrepreneur You Want to Be
-## Designing your entrepreneurial life with intention
 
 **Series 09: Entrepreneur as Person — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Designing your entrepreneurial life with intention
 
 ### Prologue
 Twelve years into building her HR consulting firm, Claire sat down to do something she had never done before: write down who she wanted to be as an entrepreneur — not what she wanted the business to achieve, but who she wanted to be in the process of building it.

@@ -1,17 +1,12 @@
 # Investments and Tax Efficiency
-## How to Keep More of What Your Portfolio Earns
 
 **Series 10: Taxes & Wealth — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Keep More of What Your Portfolio Earns
 
 ### Prologue
 Two investors, side by side, both earn 8% gross returns over 30 years.

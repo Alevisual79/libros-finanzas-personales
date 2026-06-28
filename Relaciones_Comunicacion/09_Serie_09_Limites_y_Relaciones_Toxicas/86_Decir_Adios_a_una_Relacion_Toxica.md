@@ -1,17 +1,12 @@
 # Decir Adios a una Relación Toxica
-## Como salir sin destrozarte en el proceso
 
 **Serie 09: Límites y Relaciones Toxicas — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como salir sin destrozarte en el proceso
 
 ### Prólogo
 Isabel sabe que tiene que alejarse de alguien específico en su vida. Lleva dos años sabiendolo con total claridad intelectual, y dos años sin haber dado el paso práctico de hacerlo. El conocimiento de que algo debe terminar, descubre, nunca ha sido suficiente por si mismo. Lo que realmente necesita no es más claridad sobre el problema, sino un sistema concreto de pasos que la lleve, finalmente, de saber a actuar.

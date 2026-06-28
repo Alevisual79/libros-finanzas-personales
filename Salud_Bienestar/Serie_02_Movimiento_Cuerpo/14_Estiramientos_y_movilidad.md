@@ -1,7 +1,5 @@
 # Estiramientos y movilidad
 
-## Para no acabar rígido a los 60 como si el cuerpo se hubiera oxidado
-
 **Serie Salud y Bienestar — Serie 2: Movimiento y Cuerpo — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Para no acabar rígido a los 60 como si el cuerpo se hubiera oxidado
 
 ### Prólogo: El cuerpo que se encoge
 

@@ -1,17 +1,12 @@
 # Procrastinación
-## Por qué lo aplazo todo y como cambiarlo de una vez
 
 **Serie 08: Personalidad y Comportamiento — Libro 4 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué lo aplazo todo y como cambiarlo de una vez
 
 ### Prólogo
 Ruben tiene una relación complicada con el tiempo. Sabe lo que tiene que hacer. Lo tiene en la lista. Lo ha pospuesto cuatro veces esta semana. La taranta esta ahí, el proyecto tiene que entregarse, y el sabe perfectamente que si lo hubiera empezado antes estaria menos angustiado ahora. Pero no lo empezó antes. Esta es la paradoja de la procrastinación: se comporta como si no hiciera ya lo que hace, como si no supiera ya lo que sabe. La investigación de las últimas dos décadas ha producido un entendimiento de la procrastinación que va mucho más allá del lugar común de que es falta de voluntad. Este libro es sobre ese entendimiento y sobre lo que hacer con el.

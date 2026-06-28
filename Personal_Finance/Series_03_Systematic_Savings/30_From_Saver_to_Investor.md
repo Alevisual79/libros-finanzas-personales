@@ -1,17 +1,12 @@
 # From Saver to Investor
-## The Transition From Safety Net to Wealth Building
 
 **Series 3: Systematic Savings — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Transition From Safety Net to Wealth Building
 
 ### Prologue
 For most of her adult life, Elena saved money the same way most Americans do: she put money in a savings account and left it there. When she needed it, she spent it. When she didn't, it accumulated slowly at whatever rate her bank was paying.

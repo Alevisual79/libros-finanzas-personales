@@ -1,17 +1,12 @@
 # Saunas and Cold Therapy
-## The Science of Thermal Stress and Health
 
 **Series 10: Integrative Health — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science of Thermal Stress and Health
 
 ### Prologue
 Humans have used thermal stress — both heat and cold — for health purposes for thousands of years. Finnish saunas, Roman thermae, Japanese onsens, Nordic cold water immersion, and Russian banyas are cultural practices with long histories. Modern research has now applied rigorous methodology to these practices, revealing mechanisms and effects that validate some traditional claims while challenging others.

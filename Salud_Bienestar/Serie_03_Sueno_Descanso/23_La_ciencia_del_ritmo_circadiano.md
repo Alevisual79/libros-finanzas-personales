@@ -1,7 +1,5 @@
 # La ciencia del ritmo circadiano
 
-## Por qué importa a qué hora comes, te mueves y duermes
-
 **Serie Salud y Bienestar — Serie 3: Sueño y Descanso — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué importa a qué hora comes, te mueves y duermes
 
 ### Prólogo: El reloj que nadie te enseñó
 

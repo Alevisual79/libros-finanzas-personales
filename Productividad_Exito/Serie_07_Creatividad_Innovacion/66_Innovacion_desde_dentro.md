@@ -1,7 +1,5 @@
 # Innovación desde dentro
 
-## Cómo introducir nuevas ideas en organizaciones que resisten el cambio
-
 **Serie Productividad y Éxito — Serie 7: Creatividad e Innovación — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo introducir nuevas ideas en organizaciones que resisten el cambio
 
 ### Prólogo: La idea que murió en el comité
 

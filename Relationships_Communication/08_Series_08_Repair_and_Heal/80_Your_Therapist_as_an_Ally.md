@@ -1,17 +1,12 @@
 # Your Therapist as an Ally
-## How to get the most out of psychotherapy
 
 **Series 8: Repair and Heal — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to get the most out of psychotherapy
 
 ### Prologue
 Marcus had been skeptical about therapy.

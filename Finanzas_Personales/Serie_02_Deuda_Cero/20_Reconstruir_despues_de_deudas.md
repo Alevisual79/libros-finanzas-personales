@@ -1,7 +1,5 @@
 # Reconstruir después de las deudas
 
-## Qué hacer cuando por fin llegas a cero y cómo no volver a donde estabas
-
 **Serie Finanzas Personales — Serie 2: Deuda Cero — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Qué hacer cuando por fin llegas a cero y cómo no volver a donde estabas
 
 ### Prólogo: El día que Carlos llegó a cero
 

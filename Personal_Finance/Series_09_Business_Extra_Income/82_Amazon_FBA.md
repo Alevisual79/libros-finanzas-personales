@@ -1,17 +1,12 @@
 # Amazon FBA
-## The Real Numbers Behind Selling on Amazon
 
 **Series 9: Business & Extra Income — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Real Numbers Behind Selling on Amazon
 
 ### Prologue
 Ruben had heard the pitch a dozen times in YouTube ads: regular people quitting their jobs after starting an Amazon FBA business, showing screenshots of $40,000 months, explaining how they'd built a passive empire by finding the right product. He was skeptical by temperament, but the volume of success stories was hard to ignore. One evening he went down the rabbit hole — not the promotional content, but the forums. Reddit's r/FulfillmentByAmazon. Seller forums on Seller Central. The real accounts from people who had tried this. The picture that emerged was more complicated than the ads suggested. Some people had genuinely built sustainable businesses. Many more had lost $2,000–$10,000 in inventory, ads, and fees before abandoning the model. The difference wasn't luck. It was research, math, and realistic expectations.

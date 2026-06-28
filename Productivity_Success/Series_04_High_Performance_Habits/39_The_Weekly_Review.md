@@ -1,17 +1,12 @@
 # The Weekly Review
-## The habit that makes every other habit work
 
 **Series 4: High Performance Habits — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The habit that makes every other habit work
 
 ### Prologue
 Camila had always had intentions. Clear ones, specific ones — the kind she articulated every Sunday evening when the week felt like a fresh start: the important project she would finally advance, the conversation she would have, the habit she would establish. By Thursday of most weeks, the intentions had been overtaken by the urgent, the reactive, and the ambient — the email that required response, the meeting that ran over, the crisis that demanded the attention she had planned to give to something else.

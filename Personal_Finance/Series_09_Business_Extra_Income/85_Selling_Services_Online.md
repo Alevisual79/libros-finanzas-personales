@@ -1,17 +1,12 @@
 # Selling Services Online
-## Getting Clients Without Leaving Your Home
 
 **Series 9: Business & Extra Income — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Getting Clients Without Leaving Your Home
 
 ### Prologue
 The internet has created the largest marketplace for professional services in history. A freelance copywriter in Ohio serves clients in New York, London, and Sydney simultaneously. A virtual assistant in Phoenix manages calendars and email for CEOs in San Francisco and Toronto. A web developer in rural Tennessee builds websites for businesses across the country.

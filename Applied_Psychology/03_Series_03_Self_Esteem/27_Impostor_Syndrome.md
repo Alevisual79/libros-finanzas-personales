@@ -1,17 +1,12 @@
 # Impostor Syndrome
-## When Success Feels Like a Mistake Someone Will Eventually Correct
 
 **Series 3: Self-Esteem and Self-Image — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When Success Feels Like a Mistake Someone Will Eventually Correct
 
 ### Prologue
 Marcus had been promoted three times in six years. His performance reviews described him as one of the most promising people in his division. He had delivered projects that senior leaders cited in company-wide presentations. By any observable measure, his success was real, documented, and consequential. He was also convinced, with considerable consistency, that it was an elaborate accident — that his accomplishments were the product of good timing, helpful colleagues, and the inability of management to detect what he actually was underneath the competence they perceived. He worked long hours partly because he wanted to succeed and partly because he believed the extra hours were what stood between his current position and the moment someone finally noticed the gap between his reputation and what he was actually worth.

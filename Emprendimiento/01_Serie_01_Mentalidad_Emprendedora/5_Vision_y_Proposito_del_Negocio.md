@@ -1,17 +1,12 @@
 # Visión y Proposito del Negocio
-## Por qué el para qué determina la fuerza con que llegas al como
 
 **Serie 01: Mentalidad Emprendedora — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué el para qué determina la fuerza con que llegas al como
 
 ### Prólogo
 Carlos tiene un negocio que funciona: genera ingresos, tiene clientes satisfechos, y crece despacio pero consistentemente. Y sin embargo hay mañanas en que le cuesta enormemente levantarse para trabajar en el. Lucia sabe exactamente lo que hace su empresa pero a veces tiene dificultad para explicar con convicción por qué existe más allá de ganar dinero. Marcos construyo su negocio con una visión muy clara en el primer año. Dos años después, esa visión se ha erosionado bajo el peso de las urgencias operativas del dia a dia. Los tres necesitan lo mismo: reconectar con el por qué que ordena el como, que hace los momentos difíciles tolerables, y que atrae a los mejores clientes, empleados, y colaboradores. Este libro es sobre la visión y el proposito del negocio como su fuerza más profunda.

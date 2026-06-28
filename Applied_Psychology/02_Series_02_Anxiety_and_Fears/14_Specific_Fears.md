@@ -1,17 +1,12 @@
 # Specific Fears
-## The Science and Treatment of Phobias
 
 **Series 2: Anxiety and Fears — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science and Treatment of Phobias
 
 ### Prologue
 Elena was the most competent person in most rooms she entered. She managed a team of eighteen people, ran a household with three children, and handled genuine crises with measured efficiency. She had declined two promotions because accepting them would have required flying to the company's international offices. She had rerouted her family's vacation plans every summer for eight years, adding nine hours to travel time, because the direct route required a bridge crossing. She had not told anyone at work about the bridge. The phobia — a word she didn't use, preferring "thing about heights" — had shaped her life more than any deliberate choice she had made.

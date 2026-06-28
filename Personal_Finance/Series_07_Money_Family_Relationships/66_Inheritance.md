@@ -1,17 +1,12 @@
 # Inheritance
-## Receiving, Giving, and Planning for Wealth Transfer
 
 **Series 7: Money, Family & Relationships — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Receiving, Giving, and Planning for Wealth Transfer
 
 ### Prologue
 Isabel had been dreading the conversation for years. Her mother, now 79 and living in the house where Isabel grew up, had recently been diagnosed with early-stage dementia. During a visit last spring, Isabel had noticed unpaid bills stuffed behind the toaster, an envelope of cash hidden in a coat pocket, and three different bank statements from accounts she hadn't known existed. The situation was beginning to feel urgent, but talking about money — especially about what would happen after her mother died — felt almost transgressive, like planning for something you weren't supposed to want. Isabel had grown up in a household where money was never discussed openly. She was learning, at 52, that this silence had a price.

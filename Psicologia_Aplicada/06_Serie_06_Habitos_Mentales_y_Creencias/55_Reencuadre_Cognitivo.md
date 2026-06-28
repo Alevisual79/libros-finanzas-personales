@@ -1,17 +1,12 @@
 # Reencuadre Cognitivo
-## Cómo cambiar la perspectiva para cambiar la experiencia
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo cambiar la perspectiva para cambiar la experiencia
 
 ### Prólogo
 Elena ha estado interpretando su tendencia a perfeccionar el trabajo antes de mostrarlo como irresponsabilidad e indecisión. Hasta que alguien le dijo: eso no es irresponsabilidad, es exigencia estetica. La situación no cambio. Pero algo cambio en como Elena se relacionaba con ella. Eso es el reencuadre cognitivo en su forma más sencilla: un cambio en la perspectiva desde la que se interpreta una situación que no cambia la situación pero cambia radicalmente la experiencia emocional de ella. Este libro explora como funciona este proceso, por qué es tan poderoso, y como desarrollarlo como habilidad deliberada.

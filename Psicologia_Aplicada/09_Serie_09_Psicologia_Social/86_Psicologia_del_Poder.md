@@ -1,17 +1,12 @@
 # psicología del Poder
-## Como el poder cambia a las personas y como gestionarlo bien
 
 **Serie 09: psicología Social e Influencia — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como el poder cambia a las personas y como gestionarlo bien
 
 ### Prólogo
 Isabel ha observado a lo largo de su carrera como algunas personas cambian cuando ascienden a posiciones de poder. Ruben ha tenido clientes con mucho dinero que, sin percibirlo, trataban a los demás de formas que no habrían tolerado de otros. Elena ha notado como en los grupos donde tiene poder de decisión sus propias percepciones cambian de formas que no siempre reconoce en el momento. El poder no es neutral: transforma a las personas que lo ejercen de formas predecibles, la mayoría de las veces sin que ellas lo perciban. Este libro es sobre esa transformación: su psicología, sus consecuencias, y como ejercer el poder de formas que no te corrompen a ti ni dañan a los que te rodean.

@@ -1,17 +1,12 @@
 # The End of Homework as We Know It
-## AI Academic Integrity in Practice
 
 **Series 8: AI and Education — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## AI Academic Integrity in Practice
 
 ### Prologue
 The essay-based homework assignment made sense in a world where writing required effort and skill. In a world where GPT-4 can produce a competent essay in thirty seconds, the rationale for essay homework needs rethinking — not because cheating is acceptable, but because the assignment was already in service of something larger.

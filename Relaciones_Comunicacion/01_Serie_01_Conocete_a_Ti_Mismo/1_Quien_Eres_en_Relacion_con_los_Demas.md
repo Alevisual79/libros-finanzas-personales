@@ -1,17 +1,12 @@
 # Quien Eres en Relación con los Demás
-## Descubre tu estilo relacional y por qué repites los mismos patrones
 
 **Serie 01: Conocete a Ti Mismo — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Descubre tu estilo relacional y por qué repites los mismos patrones
 
 ### Prólogo
 Hay personas que han tenido cinco parejas distintas y sin embargo han vivido la misma relación cinco veces. El nombre cambia. La cara cambia. El conflicto es exactamente el mismo.

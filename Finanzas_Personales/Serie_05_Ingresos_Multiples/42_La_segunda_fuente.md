@@ -1,7 +1,5 @@
 # La segunda fuente: Cómo añadir 300€ al mes sin matar tu tiempo libre
 
-## Opciones reales y concretas para generar ingresos adicionales con lo que ya sabes
-
 **Serie Finanzas Personales — Serie 5: Ingresos Múltiples — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Opciones reales y concretas para generar ingresos adicionales con lo que ya sabes
 
 ### Prólogo: El sábado que Carlos facturó por primera vez
 

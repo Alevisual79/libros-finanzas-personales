@@ -1,17 +1,12 @@
 # Vacation Rental
-## How to Make Your Property Work as a Business
 
 **Series 9: Business & Extra Income — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Make Your Property Work as a Business
 
 ### Prologue
 A vacation rental is simultaneously a real estate investment, a hospitality business, and a marketing operation. People who approach it as merely renting out their extra space discover this quickly — usually from a late-night guest message about the Wi-Fi password, a review complaining about parking, or a cleaning service that didn't show up.

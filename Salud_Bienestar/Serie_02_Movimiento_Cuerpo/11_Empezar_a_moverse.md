@@ -1,7 +1,5 @@
 # Empezar a moverse cuando llevas años sin hacerlo
 
-## El plan de actividad para los sedentarios absolutos que sí funciona
-
 **Serie Salud y Bienestar — Serie 2: Movimiento y Cuerpo — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El plan de actividad para los sedentarios absolutos que sí funciona
 
 ### Prólogo: El punto de partida más difícil
 

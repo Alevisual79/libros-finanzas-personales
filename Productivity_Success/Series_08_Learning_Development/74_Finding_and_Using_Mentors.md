@@ -1,17 +1,12 @@
 # Finding and Using Mentors
-## The relationship that accelerates professional development most reliably
 
 **Series 8: Learning and Development — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The relationship that accelerates professional development most reliably
 
 ### Prologue
 Marco had been working in management consulting for three years when he realized that the professionals whose careers he most admired — the partners who had the specific combination of technical sophistication, client judgment, and organizational presence that he aspired to — had something in common that his peers were missing: each of them could name, without hesitation, the specific senior person who had invested in their development during the period when they were most forming the professional identity and the specific capabilities that had shaped their trajectory.

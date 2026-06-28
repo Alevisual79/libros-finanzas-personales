@@ -1,17 +1,12 @@
 # Fortalezas de Caracter
-## Descubre y usa los talentos psicológicos que ya tienes
 
 **Serie 10: Crecimiento Personal — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Descubre y usa los talentos psicológicos que ya tienes
 
 ### Prólogo
 Ruben ha pasado gran parte de su desarrollo profesional intentando corregir sus debilidades. En la empresa le hacían planes de mejora sobre sus áreas de menor rendimiento. En los libros de desarrollo personal encontraba listas de habilidades que debia adquirir. El supuesto implícito era claro: el crecimiento personal es el proceso de convertir las debilidades en fortalezas. La psicología positiva, y en particular la investigación sobre las fortalezas de carácter, propone un paradigma diferente: las personas que mejor funcionan no son las que no tienen debilidades sino las que conocen y usan sus fortalezas con maxima efectividad. Este libro es sobre esa investigación y sobre como aplicarla.

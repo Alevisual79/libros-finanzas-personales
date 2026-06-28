@@ -1,17 +1,12 @@
 # The Power of 1 Percent
-## How Small Percentage Increases Compound Over Time
 
 **Series 3: Systematic Savings — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Small Percentage Increases Compound Over Time
 
 ### Prologue
 Ruben was contributing 3% of his adjusted income to a retirement account when he had his first conversation with a fee-only financial planner. The planner ran a projection: at 3%, he would have approximately $180,000 at 65. At 10%, the same income trajectory produced approximately $600,000. At 15%, approximately $900,000.

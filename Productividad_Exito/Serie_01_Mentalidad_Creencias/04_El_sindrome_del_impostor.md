@@ -1,7 +1,5 @@
 # El síndrome del impostor
 
-## Cómo combatir la voz que dice que no eres suficientemente bueno
-
 **Serie Productividad y Éxito — Serie 1: Mentalidad y Creencias — Libro 4 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo combatir la voz que dice que no eres suficientemente bueno
 
 ### Prólogo: La directora que espera que la descubran
 

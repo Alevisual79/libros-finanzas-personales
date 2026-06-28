@@ -1,17 +1,12 @@
 # Protecting Your Wellbeing in Difficult Relationships
-## Strategies to not lose your balance in complex environments
 
 **Series 9: Boundaries and Toxic Relationships — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Strategies to not lose your balance in complex environments
 
 ### Prologue
 Patrick had been managing his relationship with his mother for twelve months in the new way when his younger sister had called him, concerned.

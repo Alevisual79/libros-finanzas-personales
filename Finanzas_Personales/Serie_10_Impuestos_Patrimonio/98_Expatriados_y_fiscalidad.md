@@ -1,7 +1,5 @@
 # Expatriados y fiscalidad: Vivir fuera, pagar menos
 
-## Residencia fiscal, convenios de doble imposición y los límites legales
-
 **Serie Finanzas Personales — Serie 10: Impuestos y Patrimonio — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Residencia fiscal, convenios de doble imposición y los límites legales
 
 ### Prólogo: La oferta que Javier recibió un martes
 

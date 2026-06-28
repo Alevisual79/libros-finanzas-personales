@@ -1,17 +1,12 @@
 # Empathy Map
-## Seeing the world through your customer's eyes
 
 **Series 07: Customers and Value — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Seeing the world through your customer's eyes
 
 ### Prologue
 For two years, Natalie had run her legal technology software company for small law firms with a deep conviction that her customers' primary struggle was time: that the documentation, billing, and scheduling tasks that consumed so much of small firm lawyers' hours were the problem she was solving. Her product was built around time savings, and her marketing led with time savings. "Save twelve hours per week" was her primary value proposition.

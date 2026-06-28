@@ -1,7 +1,5 @@
 # Menopausia sin tabúes
 
-## Los cambios reales, los síntomas que nadie prepara, y cómo gestionarlos bien
-
 **Serie Salud y Bienestar — Serie 7: Longevidad y Envejecimiento — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Los cambios reales, los síntomas que nadie prepara, y cómo gestionarlos bien
 
 ### Prólogo: El cambio que nadie explica
 

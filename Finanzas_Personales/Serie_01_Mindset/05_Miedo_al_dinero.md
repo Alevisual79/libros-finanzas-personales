@@ -1,7 +1,5 @@
 # Miedo al dinero
 
-## El miedo a tener, a perder y a hablar de dinero que nadie admite pero todos sienten
-
 **Serie Finanzas Personales — Serie 1: Mindset del Dinero — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El miedo a tener, a perder y a hablar de dinero que nadie admite pero todos sienten
 
 ### Prólogo: La paradoja del deseo y el miedo
 

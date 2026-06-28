@@ -1,17 +1,12 @@
 # The Boss You Need to Be
-## Leading people from relationship not from fear
 
 **Series 6: Work Relationships — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Leading people from relationship not from fear
 
 ### Prologue
 Sandra's predecessor as team manager had been widely regarded as effective. Results had been consistently delivered. The team had met its targets. By the metrics that management typically uses to evaluate management, the previous role-holder had performed.

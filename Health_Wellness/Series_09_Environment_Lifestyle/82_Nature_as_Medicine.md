@@ -1,17 +1,12 @@
 # Nature as Medicine — The Research Behind Green and Blue Space Health Benefits
-## What Science Says About the Healing Power of the Natural World
 
 **Series 9: Environment and Lifestyle — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Science Says About the Healing Power of the Natural World
 
 ### Prologue
 Amara had not planned on walking through the park that afternoon. She had intended to sit at her desk through the lunch hour, as she usually did, grinding through the backlog of email that had accumulated during her morning meetings. But her colleague insisted — a twenty-minute walk along the river path that ran beside their office building. Against her better efficiency calculus, Amara agreed. What she noticed afterward stayed with her: her jaw had unclenched. The low-grade thrumming anxiety that had accompanied her to work every day for months was, temporarily, quieter. She had not solved a single problem. She had merely walked near water, under trees.

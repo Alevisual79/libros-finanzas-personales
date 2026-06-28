@@ -1,17 +1,12 @@
 # Duelo y Perdida
-## Como atravesar la muerte y la ausencia sin perderte en ellas
 
 **Serie 05: Traumas y Heridas — Libro 9 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como atravesar la muerte y la ausencia sin perderte en ellas
 
 ### Prólogo
 Isabel perdio a su madre hace tres años. Al principio el mundo le dijo que tenía que hacer las cinco etapas del duelo y eventualmente aceptar la perdida. Ella no experimento cinco etapas ordenadas: experimento un estado caotico de emociones que iban y venían sin orden, momentos de aparente normalidad seguidos de oleadas de dolor que llegaban de improviso, y una persistente sensación de que algo estaba mal en ella por no estar en duelo de la forma en que el mundo esperaba. La investigación contemporanea sobre el duelo es mucho más matizada y compasiva que el modelo de las cinco etapas.

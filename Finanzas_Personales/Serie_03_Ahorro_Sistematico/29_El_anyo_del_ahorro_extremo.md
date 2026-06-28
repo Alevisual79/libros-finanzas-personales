@@ -1,7 +1,5 @@
 # El año del ahorro extremo
 
-## 12 meses para transformar tu situación financiera de forma radical pero sostenible
-
 **Serie Finanzas Personales — Serie 3: Ahorro Sistemático — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## 12 meses para transformar tu situación financiera de forma radical pero sostenible
 
 ### Prólogo: Un año diferente
 

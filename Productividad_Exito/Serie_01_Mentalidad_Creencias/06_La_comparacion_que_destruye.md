@@ -1,7 +1,5 @@
 # La comparación que destruye
 
-## Cómo salir de la trampa de medirte con los demás
-
 **Serie Productividad y Éxito — Serie 1: Mentalidad y Creencias — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo salir de la trampa de medirte con los demás
 
 ### Prólogo: El muro de LinkedIn
 

@@ -1,17 +1,12 @@
 # Language Learning with AI
-## The End of Traditional Textbooks
 
 **Series 8: AI and Education — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The End of Traditional Textbooks
 
 ### Prologue
 Elena spoke intermediate Spanish. She had reached a plateau that traditional methods could not break: too advanced for classes, too limited for immersion. AI conversation partners changed the economics of practice. She could practice whenever she had time, at exactly her level.

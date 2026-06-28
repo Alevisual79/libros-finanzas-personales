@@ -1,17 +1,12 @@
 # The Data That Feeds AI
-## Why Data Is the Oil of the 21st Century
 
 **Series 1: AI Fundamentals — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why Data Is the Oil of the 21st Century
 
 ### Prologue
 Isabel's company had fifteen years of employee data. A new CTO proposed 'doing something with it'. She needed to understand what 'data' meant in the context of AI before she could lead that conversation intelligently.

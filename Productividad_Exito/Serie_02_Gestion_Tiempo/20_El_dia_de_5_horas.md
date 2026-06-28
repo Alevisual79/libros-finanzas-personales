@@ -1,7 +1,5 @@
 # El día de 5 horas
 
-## Por qué trabajar menos puede producir más y cómo hacerlo
-
 **Serie Productividad y Éxito — Serie 2: Gestión del Tiempo — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué trabajar menos puede producir más y cómo hacerlo
 
 ### Prólogo: El experimento que nadie esperaba
 

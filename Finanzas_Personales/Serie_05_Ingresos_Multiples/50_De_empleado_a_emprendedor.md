@@ -1,7 +1,5 @@
 # De empleado a emprendedor: La transición sin suicidio financiero
 
-## Cómo hacer el salto de dejar tu empleo para emprender sin arruinarte en el intento
-
 **Serie Finanzas Personales — Serie 5: Ingresos Múltiples — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo hacer el salto de dejar tu empleo para emprender sin arruinarte en el intento
 
 ### Prólogo: El lunes que el cuñado no fue a trabajar
 

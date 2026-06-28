@@ -1,7 +1,5 @@
 # El burnout que llega sin avisar
 
-## Reconocer el agotamiento profesional antes de que sea crisis y construir la salida
-
 **Serie Salud y Bienestar — Serie 4: Mente y Emociones — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Reconocer el agotamiento profesional antes de que sea crisis y construir la salida
 
 ### Prólogo: El día que ya no pudo más
 

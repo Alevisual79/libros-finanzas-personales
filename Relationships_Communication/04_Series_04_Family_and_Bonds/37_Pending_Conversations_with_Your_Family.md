@@ -1,17 +1,12 @@
 # Pending Conversations with Your Family
-## The conversations that change family relationships forever
 
 **Series 4: Family and Bonds — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The conversations that change family relationships forever
 
 ### Prologue
 Nathan had been rehearsing a conversation with his father for approximately twelve years.

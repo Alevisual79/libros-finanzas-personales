@@ -1,17 +1,12 @@
 # AI Tutoring
-## Personalized Learning at Scale
 
 **Series 8: AI and Education — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Personalized Learning at Scale
 
 ### Prologue
 Isabel's company invested in AI tutoring tools for an upskilling program. The data surprised her: the employees who benefited most were not the ones who already learned quickly. They were the ones who had previously fallen through the cracks of standardized training.

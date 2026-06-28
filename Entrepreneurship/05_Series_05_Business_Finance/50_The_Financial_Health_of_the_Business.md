@@ -1,17 +1,12 @@
 # The Financial Health of the Business
-## How to assess, protect, and strengthen your business's financial foundation
 
 **Series 05: Business Finance — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to assess, protect, and strengthen your business's financial foundation
 
 ### Prologue
 After ten years of building her interior architecture firm, Elena had created something genuinely valuable: a business with a strong reputation, a loyal client base, and a talented team of seven. She was proud of what she had built and uncertain about what she actually owned. When she began the process of exploring a potential partial sale to a private equity buyer — something she hadn't initially planned to do, but an opportunity that had been presented — the due diligence process confronted her with a comprehensive assessment of her business's financial health.

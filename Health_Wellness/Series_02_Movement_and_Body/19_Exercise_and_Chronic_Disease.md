@@ -1,17 +1,12 @@
 # Exercise and Chronic Disease
-## Movement as Medicine for Long-Term Health Conditions
 
 **Series 2: Movement and Body — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Movement as Medicine for Long-Term Health Conditions
 
 ### Prologue
 For most of modern medicine's history, people with chronic disease were advised to rest and avoid exertion. The prescription was caution. The evidence that has emerged over the past four decades has fundamentally reversed this guidance: physical activity is among the most powerful interventions available for most chronic conditions — often more effective than pharmacological approaches for quality of life, symptom management, and in some cases, disease progression.

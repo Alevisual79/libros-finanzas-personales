@@ -1,7 +1,5 @@
 # Propósito y salud
 
-## La ciencia de para qué vivir como factor de longevidad y bienestar
-
 **Serie Salud y Bienestar — Serie 10: Salud Integrativa — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La ciencia de para qué vivir como factor de longevidad y bienestar
 
 ### Prólogo: El jubilado que enfermó
 

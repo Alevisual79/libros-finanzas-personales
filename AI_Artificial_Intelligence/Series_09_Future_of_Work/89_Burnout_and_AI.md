@@ -1,17 +1,12 @@
 # Burnout and AI
-## When Automation Creates New Forms of Exhaustion
 
 **Series 9: Future of Work — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When Automation Creates New Forms of Exhaustion
 
 ### Prologue
 Ruben saved fifteen hours per week using AI tools. He filled those hours with more client work. At the end of the quarter, he was more productive than ever and more exhausted than ever. The efficiency gain had not translated into rest. It had translated into more.

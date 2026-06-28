@@ -1,17 +1,12 @@
 # GitHub Copilot y la programación asistida por IA
-## Como la IA está transformando el trabajo de los programadores
 
 **Serie 3: Herramientas de IA — Libro 3 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Como la IA está transformando el trabajo de los programadores
 
 ### Prólogo: El programador que ya no programa solo
 

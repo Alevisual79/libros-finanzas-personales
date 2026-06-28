@@ -1,17 +1,12 @@
 # Financial Identity
-## Who You Believe You Are Determines What You Do With Money
 
 **Series 1: Financial Mindset — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Who You Believe You Are Determines What You Do With Money
 
 ### Prologue
 Isabel has described herself as "not a financial person" for so long that the phrase has stopped feeling like a description and started feeling like a fact. She says it to her accountant, she says it to her friends when the conversation turns to investing, she said it to her daughter last Thanksgiving when the subject of retirement came up. Not a financial person. As if it were a genetic condition, like eye color.

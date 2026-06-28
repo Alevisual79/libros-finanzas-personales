@@ -1,17 +1,12 @@
 # Large Language Models
-## How ChatGPT and Its Cousins Actually Work
 
 **Series 1: AI Fundamentals — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How ChatGPT and Its Cousins Actually Work
 
 ### Prologue
 Jordan had been using ChatGPT daily for six months before a colleague asked him a simple question: "How does it actually know what to say?" Jordan paused. He could describe what ChatGPT did — answer questions, write code, summarize documents — but he realized he had no idea how it worked at the level that mattered. He was operating a powerful tool he fundamentally did not understand.

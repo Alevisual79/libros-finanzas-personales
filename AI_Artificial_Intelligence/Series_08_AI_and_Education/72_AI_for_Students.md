@@ -1,17 +1,12 @@
 # AI for Students
-## Using Intelligent Tools Without Losing the Learning
 
 **Series 8: AI and Education — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Using Intelligent Tools Without Losing the Learning
 
 ### Prologue
 Ruben's niece used ChatGPT to help her understand calculus concepts that her teacher had not explained clearly. She scored better on the exam than students who had not used AI. The question of whether this constituted cheating had an obvious answer: it did not.

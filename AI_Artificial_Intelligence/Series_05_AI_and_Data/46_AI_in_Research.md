@@ -1,17 +1,12 @@
 # AI in Research
-## Accelerating Discovery Across Fields
 
 **Series 5: AI and Data — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Accelerating Discovery Across Fields
 
 ### Prologue
 The researcher who needed a week to review a literature now needs an afternoon. The limitation was never time — it was the bottleneck of synthesis. AI has attacked that bottleneck.

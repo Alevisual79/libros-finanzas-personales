@@ -1,17 +1,12 @@
 # Procrastination
-## Understanding and Overcoming the Psychology of Delay
 
 **Series 8: Personality and Behavior — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Overcoming the Psychology of Delay
 
 ### Prologue
 The assignment had been due in three weeks. Sofia had known about it for three weeks. She had thought about it every day for three weeks, including detailed mental rehearsals of the productive work sessions she would have on days one, two, and three — sessions that had not occurred. She was now, with thirty-six hours remaining, beginning the work that she had been intending to do for three weeks. The experience was familiar, she was aware; it had happened before and would happen again; and the gap between what she intended and what she did was not, she had long suspected, a gap in knowledge or in skill. She was capable of the work. She was not doing the work. The question that had begun to interest her was not "how do I manage my time better?" — she had read three books on time management and had learned how to create detailed schedules that she subsequently did not follow — but "why am I doing this, when I so clearly am not stupid and so clearly do not want to be doing this?"

@@ -1,17 +1,12 @@
 # Email Marketing
-## La lista que vale más que todos tus seguidores en redes
 
 **Serie 03: Marketing y Ventas — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La lista que vale más que todos tus seguidores en redes
 
 ### Prólogo
 Carlos tiene quince mil seguidores en Instagram y doscientos suscriptores en su newsletter. La newsletter genera diez veces más ventas que Instagram. Lucia manda emails masivos genéricos y no entiende por qué tiene una tasa de baja del 30% mensual. Marcos nunca ha enviado un email de marketing en su vida y cree que el email marketing es spam. Los tres necesitan entender algo fundamental sobre el email: es el único canal de marketing digital donde el negocio tiene control total (no depende de ningún algoritmo externo), la audiencia ha dado permiso explícito (lo que produce mayor atención), y la conversión es consistentemente la mayor de todos los canales digitales. El email no ha muerto. Solo han muerto los que lo hacen mal.

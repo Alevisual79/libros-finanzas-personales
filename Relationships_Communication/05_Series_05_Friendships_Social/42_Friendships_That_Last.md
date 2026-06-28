@@ -1,17 +1,12 @@
 # Friendships That Last
-## How to cultivate long-term friendships
 
 **Series 5: Friendships and Social Relationships — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to cultivate long-term friendships
 
 ### Prologue
 Priya had three friendships that had lasted more than twenty years. She thought about this with a particular kind of satisfaction when she thought about it at all — the specific warmth of having people in your life who knew you through your various versions, who could remember things about you that you had half-forgotten, who had been present for the significant moments and the ordinary seasons both.

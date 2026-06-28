@@ -1,17 +1,12 @@
 # Healing from Toxic Love
-## Recovering from a relationship that damaged you
 
 **Series 8: Repair and Heal — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Recovering from a relationship that damaged you
 
 ### Prologue
 Marcus had not been in what the clinical literature would call a toxic relationship. His marriage, for all its damage in the wake of Rachel's affair, had been organized around genuine mutual care — the harm had been significant and real, but it had not been the systematic pattern of control, degradation, or manipulation that the research on genuinely toxic relationships identifies.

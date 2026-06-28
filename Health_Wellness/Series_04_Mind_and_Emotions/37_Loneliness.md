@@ -1,17 +1,12 @@
 # Loneliness
-## The Health Crisis Nobody Is Talking About Loudly Enough
 
 **Series 4: Mind and Emotions — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Health Crisis Nobody Is Talking About Loudly Enough
 
 ### Prologue
 Ruben had hundreds of contacts in his phone, several hundred followers on social media, and conversations with dozens of clients and colleagues every week. He also had no one he could call at 11pm if something was genuinely wrong. No one who would notice if he disappeared for a week. No friendship that he would describe as intimate in the way childhood friendships had been.

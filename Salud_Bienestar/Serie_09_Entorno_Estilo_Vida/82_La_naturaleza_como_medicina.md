@@ -1,7 +1,5 @@
 # La naturaleza como medicina
 
-## Lo que la ciencia dice sobre el contacto con el entorno natural y la salud
-
 **Serie Salud y Bienestar — Serie 9: Entorno y Estilo de Vida — Libro 2 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Lo que la ciencia dice sobre el contacto con el entorno natural y la salud
 
 ### Prólogo: Los pinos de Nagano
 

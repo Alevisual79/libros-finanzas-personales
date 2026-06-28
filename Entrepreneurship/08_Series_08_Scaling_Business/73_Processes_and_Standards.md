@@ -1,17 +1,12 @@
 # Processes and Standards
-## Creating consistency and quality at every level of scale
 
 **Series 08: Scaling Business — Book 3 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Creating consistency and quality at every level of scale
 
 ### Prologue
 For the first five years of her digital marketing agency, Leah ran the business on talent: she hired exceptional people, gave them significant autonomy, and trusted that their skills and professionalism would produce excellent work. The approach worked beautifully. Her team was brilliant, her clients were satisfied, and her reputation in the industry was strong.

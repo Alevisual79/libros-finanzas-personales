@@ -1,17 +1,12 @@
 # Distorsiones Cognitivas
-## Errores de pensamiento que distorsionan tu realidad
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Errores de pensamiento que distorsionan tu realidad
 
 ### Prólogo
 Ruben tiene amigos que se preguntan por qué siempre interpreta los eventos de la peor forma posible. Una reunión silenciosa se convierte en estoy siendo evaluado negativamente. Un mensaje sin respuesta se convierte en ya no le importo. Una crítica se convierte en soy un fracasado. Lo interesante es que Ruben sabe intelectualmente que probablemente no sea así. Pero el pensamiento aparece de todas formas y produce las mismas emociones que si fuera verdad. Estas son las distorsiones cognitivas: patrones sistemáticos de pensamiento que sesgan la interpretación de la realidad en direcciones predecibles. Este libro es para aprender a reconocerlos y a interrumpirlos antes de que produzcan el daño emocional habitual.

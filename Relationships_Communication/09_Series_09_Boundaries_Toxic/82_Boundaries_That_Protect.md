@@ -1,17 +1,12 @@
 # Boundaries That Protect
-## How to build relational boundaries that really work
 
 **Series 9: Boundaries and Toxic Relationships — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to build relational boundaries that really work
 
 ### Prologue
 Sana had been told, by the self-help literature she had consumed in large quantities since her early twenties, that she needed better boundaries. This advice had been offered with such consistency, and from such a variety of sources, that it had acquired for her the status of both settled wisdom and complete mystery.

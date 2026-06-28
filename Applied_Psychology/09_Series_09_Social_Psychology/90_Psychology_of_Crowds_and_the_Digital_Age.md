@@ -1,17 +1,12 @@
 # Psychology of Crowds and the Digital Age
-## Collective Behavior in the Online World
 
 **Series 9: Social Psychology and Influence — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Collective Behavior in the Online World
 
 ### Prologue
 Gustave Le Bon's "The Crowd: A Study of the Popular Mind," published in 1895, described crowds as fundamentally different in their psychology from the individuals who compose them: less rational, more emotional, more suggestible, more prone to extreme action, and subject to a kind of collective contagion that eliminates individual judgment and replaces it with a shared, undifferentiated group mind. Le Bon's observations were made in the context of the political upheavals of nineteenth-century France; his framework was subsequently deployed by advertising pioneers, political propagandists, and mass communication theorists throughout the twentieth century.

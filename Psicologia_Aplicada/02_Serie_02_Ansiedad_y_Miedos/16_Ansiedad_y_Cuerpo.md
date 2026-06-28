@@ -1,17 +1,12 @@
 # Ansiedad y Cuerpo
-## La conexión entre lo que piensas y lo que siente tu cuerpo
 
 **Serie 02: Ansiedad y Miedos — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La conexión entre lo que piensas y lo que siente tu cuerpo
 
 ### Prólogo
 Ruben fue a urgencias tres veces en dos años convencido de que tenía un problema cardiaco. Las tres veces los médicos le dijeron que estaba bien. La tercera vez, una médica le pregunto con cuidado si había estado bajo mucho estrés. Ruben dijo que no más de lo normal. Pero cuando la médica le pregunto como había dormido en el último mes, si tenía dolores de cabeza frecuentes, si notaba tensión muscular constante, si su digestion era irregular, Ruben empezó a ver el cuadro completo: su cuerpo llevaba meses hablando un idioma que el no había aprendido a leer.

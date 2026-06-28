@@ -1,17 +1,12 @@
 # Vision and Business Purpose
-## Why the why determines the strength of the how
 
 **Series 01: Entrepreneurial Mindset — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why the why determines the strength of the how
 
 ### Prologue
 When Ana founded her digital agency at thirty-four, she was clear on what she wanted to build: a profitable agency that would give her independence and financial security. The what was clear. The why was something she had not deeply considered, because the why seemed almost self-evident — who doesn't want financial independence? Three years in, the business was profitable. She had the independence she had sought. And she had begun to notice a creeping emptiness in the work itself — a sense that she was building something that functioned but did not mean anything to her beyond its function.

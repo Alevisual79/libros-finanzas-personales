@@ -1,17 +1,12 @@
 # The Death and Rebirth of Creativity
-## What AI Changes About Human Creation
 
 **Series 4: AI and Creativity — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What AI Changes About Human Creation
 
 ### Prologue
 When the first AI-generated image won an art competition in 2022, the outrage was immediate. The artist who submitted it said he was making a point. The artists who lost said the point was made at their expense. Both were right.

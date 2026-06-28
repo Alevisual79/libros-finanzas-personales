@@ -1,17 +1,12 @@
 # The Learning Habit
-## Why continuous learning is the only sustainable competitive advantage
 
 **Series 4: High Performance Habits — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why continuous learning is the only sustainable competitive advantage
 
 ### Prologue
 Camila's industry had changed more in the ten years since she had completed her formal education than it had in the twenty years before she began it. She was aware of this as a general fact. She was less certain how specifically to respond to it. Her knowledge base had expanded through ten years of professional experience; it had also, in some areas, become outdated in ways she could sometimes sense but could not always identify.

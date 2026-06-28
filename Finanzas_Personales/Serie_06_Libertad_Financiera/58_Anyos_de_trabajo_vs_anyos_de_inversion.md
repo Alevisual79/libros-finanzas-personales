@@ -1,7 +1,5 @@
 # Años de trabajo vs años de inversión
 
-## Por qué empezar tarde cuesta el doble
-
 **Serie Finanzas Personales — Serie 6: Libertad Financiera — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué empezar tarde cuesta el doble
 
 ### Prólogo: La charla de Don Alberto con su nieto
 

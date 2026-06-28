@@ -1,17 +1,12 @@
 # El Mapa de las Emociones
-## Aprende a nombrar lo que sientes para poder gestionarlo
 
 **Serie 04: Emociones y Gestión Emocional — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Aprende a nombrar lo que sientes para poder gestionarlo
 
 ### Prólogo
 Elena lleva tres dias sintiendose fatal sin saber exactamente por qué. No esta triste en el sentido dramatico de la palabra. Tampoco es ansiedad, no tiene ese filo agudo. Es algo más opaco, más difuso. Cuando su pareja le pregunta que le pasa, dice no se. Y esa respuesta, aunque parece una evasión, es completamente honesta: genuinamente no sabe que siente. Esta incapacidad para nombrar lo que se siente no es un problema de carácter. Es la consecuencia de no tener el vocabulario emocional necesario para convertir la experiencia interna en lenguaje. Y sin lenguaje, la gestión es imposible.

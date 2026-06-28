@@ -1,17 +1,12 @@
 # Sleeping With a Partner
-## The Relationship Challenge Nobody Talks About
 
 **Series 3: Sleep and Rest — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Relationship Challenge Nobody Talks About
 
 ### Prologue
 Elena and her partner of four years had a sleep problem they had never directly addressed: he ran warm, she ran cold; he snored intermittently; she was a light sleeper; his work schedule had him going to bed 90 minutes later than her. Most nights she was awakened at least once by his snoring or late entry to bed. She had never thought of this as a solvable problem — it was simply "the way things were."

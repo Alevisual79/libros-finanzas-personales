@@ -1,7 +1,5 @@
 # Cartera permanente: Inversión para el que no quiere pensar
 
-## El portafolio de Harry Browne explicado para quien quiere simplicidad y robustez
-
 **Serie Finanzas Personales — Serie 4: Inversión desde Cero — Libro 10 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## El portafolio de Harry Browne explicado para quien quiere simplicidad y robustez
 
 ### Prólogo: La pregunta que Harry Browne se hizo
 

@@ -1,17 +1,12 @@
 # Conventional and Alternative Medicine — What the Evidence Actually Shows
-## Navigating the Evidence Between Mainstream and Complementary Care
 
 **Series 10: Integrative Health — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Navigating the Evidence Between Mainstream and Complementary Care
 
 ### Prologue
 Dr. Maria Chen had been practicing internal medicine for twenty-two years when a patient named Robert walked into her office carrying a tote bag filled with herbal supplements, a printout from a naturopathic website, and a blood pressure log showing readings that had improved over the past three months — without the medication she'd prescribed. Robert wasn't adversarial. He was genuinely curious, even humble. He wanted to understand whether what he was doing was safe, whether it was actually working, and whether it could coexist with conventional treatment. Maria realized she didn't have a complete answer. Medical school had taught her to dismiss most alternative therapies, but the honest truth was that she'd never been trained to evaluate them methodically. She knew they weren't all equivalent, but she lacked the tools to explain precisely why acupuncture and homeopathy occupied fundamentally different positions in the evidence hierarchy.

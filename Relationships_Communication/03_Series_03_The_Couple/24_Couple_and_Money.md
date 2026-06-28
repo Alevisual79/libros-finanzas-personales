@@ -1,17 +1,12 @@
 # Couple and Money
-## Talking about finances without destroying the relationship
 
 **Series 3: The Couple — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Talking about finances without destroying the relationship
 
 ### Prologue
 Money had been the thing James and Claire didn't talk about before they got married. Not through deliberate avoidance — they were both intelligent adults who knew money mattered. But the conversations had been vague in the specific way that conversations about things you're afraid of tend to be vague. "We're both responsible with money" was the kind of thing they said, which was true in the general sense and obscured significant specific differences: James's preference for financial security through accumulated savings versus Claire's comfort with more fluid financial management; James's implicit expectation that major purchases would be decided jointly versus Claire's assumption that individual discretionary spending didn't require partnership discussion; and the specific, unacknowledged difference in what each of them understood "financial security" to mean in terms of the number required.

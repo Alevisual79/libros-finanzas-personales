@@ -1,7 +1,5 @@
 # La creatividad no es un talento
 
-## Por qué todos pueden ser creativos y cómo activarlo
-
 **Serie Productividad y Éxito — Serie 7: Creatividad e Innovación — Libro 1 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué todos pueden ser creativos y cómo activarlo
 
 ### Prólogo: El ingeniero que no se consideraba creativo
 

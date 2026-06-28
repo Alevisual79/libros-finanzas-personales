@@ -1,7 +1,5 @@
 # Vender en internet sin tener un producto propio
 
-## Afiliación, servicios de intermediación y formas de ganar dinero conectando a otros
-
 **Serie Finanzas Personales — Serie 5: Ingresos Múltiples — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Afiliación, servicios de intermediación y formas de ganar dinero conectando a otros
 
 ### Prólogo: La comisión que Carlos no esperaba
 

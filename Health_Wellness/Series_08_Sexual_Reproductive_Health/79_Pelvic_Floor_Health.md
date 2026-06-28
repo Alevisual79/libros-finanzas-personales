@@ -1,17 +1,12 @@
 # Pelvic Floor Health
-## Understanding and Rehabilitating the Foundation of the Body
 
 **Series 8: Sexual and Reproductive Health — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Understanding and Rehabilitating the Foundation of the Body
 
 ### Prologue
 The pelvic floor is a group of muscles, connective tissue, nerves, and ligaments that form the base of the pelvis — supporting the bladder, bowel, and reproductive organs. Despite its central role in urinary control, bowel function, sexual function, and core stability, it receives almost no attention in health education until something goes wrong.

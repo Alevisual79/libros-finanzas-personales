@@ -1,17 +1,12 @@
 # Work as a Choice
-## What Financial Independence Actually Means for How You Work
 
 **Series 6: Financial Freedom — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Financial Independence Actually Means for How You Work
 
 ### Prologue
 When Elena imagined financial independence, she imagined not working. The beach. The slow mornings. The absence of Monday.

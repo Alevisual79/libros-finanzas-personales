@@ -1,17 +1,12 @@
 # Trabajo Remoto y Vínculos Reales
-## Cómo mantener relaciones laborales genuinas desde casa
 
 **Serie 10: Relaciones en la Era Digital — Libro 5 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo mantener relaciones laborales genuinas desde casa
 
 ### Prólogo
 Elena lleva tres años trabajando en remoto. Ha colaborado con compañeros con quienes ha acumulado, según su propio cálculo, más de ciento cincuenta horas de interacción laboral conjunta a lo largo de ese tiempo. Y, sin embargo, reconoce honestamente que no los conoce en absoluto, más allá de su función profesional específica. Las horas de colaboración, descubre, no se tradujeron automáticamente en conexión real.

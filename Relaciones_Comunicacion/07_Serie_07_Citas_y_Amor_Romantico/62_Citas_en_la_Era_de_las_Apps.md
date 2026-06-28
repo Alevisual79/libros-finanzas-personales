@@ -1,17 +1,12 @@
 # Citas en la Era de las Apps
-## Cómo usar Tinder, Bumble y otras para encontrar algo real
 
 **Serie 07: Citas y Amor Romantico — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo usar Tinder, Bumble y otras para encontrar algo real
 
 ### Prólogo
 Ruben lleva un año usando aplicaciones de citas y ha tenido doce primeras citas. Ninguna ha llevado a una segunda. El problema, descubre eventualmente con algo de ayuda externa, no es la aplicación en si misma. Es la forma en que la está usando, sin estrategia, sin reflexión, y sin entender las dinámicas psicológicas específicas que las apps de citas generan y que requieren un enfoque distinto del que el cortejo tradicional jamás requirio.

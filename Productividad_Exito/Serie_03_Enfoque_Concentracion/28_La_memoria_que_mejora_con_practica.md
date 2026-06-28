@@ -1,7 +1,5 @@
 # La memoria que mejora con práctica
 
-## Técnicas de memorización para adultos
-
 **Serie Productividad y Éxito — Serie 3: Enfoque y Concentración — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Técnicas de memorización para adultos
 
 ### Prólogo: El nombre que no recuerda
 

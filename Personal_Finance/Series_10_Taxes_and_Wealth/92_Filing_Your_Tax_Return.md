@@ -1,17 +1,12 @@
 # Filing Your Tax Return
-## What Every Adult Should Know About the Annual Process
 
 **Series 10: Taxes and Wealth — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## What Every Adult Should Know About the Annual Process
 
 ### Prologue
 Every year around February, Elena's anxiety would quietly resurface. She knew tax season was coming, and despite understanding the basic framework better than she once had, the actual act of filing still felt like navigating a maze designed by people who didn't want her to succeed. She had accumulated a W-2 from her employer, a 1099-INT from her savings account, and a 1099-DIV from her newly opened investment account. She wasn't sure if she needed to report the $48 in interest income. She didn't know whether filing through her employer's free software offer was better than using a national tax prep service. She didn't know what to keep, what to throw away, or what would happen if she made an honest mistake.

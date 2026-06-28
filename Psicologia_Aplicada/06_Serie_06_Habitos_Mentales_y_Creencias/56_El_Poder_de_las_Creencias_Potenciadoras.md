@@ -1,17 +1,12 @@
 # El Poder de las Creencias Potenciadoras
-## Cómo construir el sistema mental que apoya tu vida
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo construir el sistema mental que apoya tu vida
 
 ### Prólogo
 Ruben ha pasado años trabajando en eliminar sus creencias limitantes. En el proceso descubrió algo que nadie le había dicho claramente: eliminar lo negativo no produce automáticamente lo positivo. El espacio que dejan las creencias limitantes cuando se desmonta necesita ser ocupado por algo. Ese algo son las creencias potenciadoras: estructuras mentales que no solo no limitan sino que activamente amplian lo que parece posible, apoyan el comportamiento que el quiere tener, y proporcionan una base desde la que operar cuando las circunstancias se ponen difíciles. Este libro es sobre como construir ese sistema.

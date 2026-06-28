@@ -1,17 +1,12 @@
 # Identity and Success
-## Who you are beyond what you've built
 
 **Series 09: Entrepreneur as Person — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Who you are beyond what you've built
 
 ### Prologue
 At forty-four, after twenty-two years of building his event production company from a two-person operation to a firm of sixty-five, Richard sold the business for a price that exceeded his most optimistic projections. For months before the sale closed, he had imagined the freedom: to travel, to pursue interests he had deferred, to exist without the constant demands of the business he had poured most of his adult life into.

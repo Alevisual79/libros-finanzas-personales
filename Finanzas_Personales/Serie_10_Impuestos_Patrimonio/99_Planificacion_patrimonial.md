@@ -1,7 +1,5 @@
 # Planificación patrimonial a largo plazo
 
-## Construir, proteger y transferir patrimonio con inteligencia fiscal
-
 **Serie Finanzas Personales — Serie 10: Impuestos y Patrimonio — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Construir, proteger y transferir patrimonio con inteligencia fiscal
 
 ### Prólogo: La tarde en que Carlos y Ana lo pusieron todo sobre la mesa
 

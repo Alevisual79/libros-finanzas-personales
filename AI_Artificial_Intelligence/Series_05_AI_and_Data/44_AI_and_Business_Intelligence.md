@@ -1,17 +1,12 @@
 # AI and Business Intelligence
-## The End of Static Dashboards
 
 **Series 5: AI and Data — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The End of Static Dashboards
 
 ### Prologue
 Isabel's BI dashboards answered the questions they were built to answer. They could not answer questions that had not been anticipated when they were built. By the time a new report was commissioned, the decision had already been made.

@@ -1,17 +1,12 @@
 # Multitasking
-## The myth that is costing you 40% of your productivity
 
 **Series 2: Focus and Concentration — Book 2 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The myth that is costing you 40% of your productivity
 
 ### Prologue
 Leo kept three windows open: the report he was writing, the email inbox he was monitoring, and the Slack channel where his team was active. He switched between them every few minutes. He answered messages while the report was loading, returned to the report while awaiting replies, and kept one eye on the Slack activity throughout.

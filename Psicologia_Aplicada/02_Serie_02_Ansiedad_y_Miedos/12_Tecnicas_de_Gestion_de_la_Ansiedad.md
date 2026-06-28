@@ -1,17 +1,12 @@
 # técnicas de Gestión de la Ansiedad
-## Herramientas prácticas respaldadas por la ciencia
 
 **Serie 02: Ansiedad y Miedos — Libro 2 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Herramientas prácticas respaldadas por la ciencia
 
 ### Prólogo
 Elena tiene ansiedad y ha probado todo lo que le han recomendado: respirar hondo, pensar en positivo, hacer yoga, tomar magnesio, escuchar musica relajante, alejarse de las redes sociales. Algunas cosas funcionan un poco durante un rato. Ninguna ha cambiado el patron de fondo de forma duradera. Lo que Elena no sabe es que hay una diferencia importante entre técnicas de alivio que reducen temporalmente el malestar y técnicas de cambio que modifican los mecanismos que producen la ansiedad. Este libro habla de las segundas.

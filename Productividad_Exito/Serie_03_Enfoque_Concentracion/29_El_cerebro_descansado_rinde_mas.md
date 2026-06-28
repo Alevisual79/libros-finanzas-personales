@@ -1,7 +1,5 @@
 # El cerebro descansado rinde más
 
-## Por qué los descansos activos son parte del trabajo
-
 **Serie Productividad y Éxito — Serie 3: Enfoque y Concentración — Libro 9 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Por qué los descansos activos son parte del trabajo
 
 ### Prólogo: El ingeniero que no descansaba
 

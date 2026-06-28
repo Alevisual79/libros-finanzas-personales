@@ -1,7 +1,5 @@
 # Correr sin lesionarse
 
-## La guía honesta para el corredor popular que quiere durar
-
 **Serie Salud y Bienestar — Serie 2: Movimiento y Cuerpo — Libro 5 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## La guía honesta para el corredor popular que quiere durar
 
 ### Prólogo: El deporte más popular y más lesionante
 

@@ -1,17 +1,12 @@
 # Relationships in Entrepreneurship
-## Navigating the human connections that entrepreneurship tests most profoundly
 
 **Series 09: Entrepreneur as Person — Book 8 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Navigating the human connections that entrepreneurship tests most profoundly
 
 ### Prologue
 The business partners first, then the marriage — those are the relationship challenges that Andrea's entrepreneurship coach had seen most consistently produce the crises that derailed otherwise excellent businesses and otherwise healthy personal lives.

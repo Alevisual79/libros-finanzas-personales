@@ -1,7 +1,5 @@
 # Vacunas para adultos
 
-## Las que necesitas después de los 40 y por qué la inmunización no termina con la infancia
-
 **Serie Salud y Bienestar — Serie 5: Prevención y Chequeos — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Las que necesitas después de los 40 y por qué la inmunización no termina con la infancia
 
 ### Prólogo: La vacuna que olvidaste que necesitabas
 

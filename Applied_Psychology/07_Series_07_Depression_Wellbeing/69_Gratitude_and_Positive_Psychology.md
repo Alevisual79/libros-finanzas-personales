@@ -1,17 +1,12 @@
 # Gratitude and Positive Psychology
-## The Science of What Makes Life Worth Living
 
 **Series 7: Depression and Mental Wellbeing — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Science of What Makes Life Worth Living
 
 ### Prologue
 When Martin Seligman delivered his presidential address to the American Psychological Association in 1998, he challenged his field with a pointed observation: psychology had spent the better part of a century studying what goes wrong in the human mind, and had developed sophisticated accounts of mental illness, cognitive distortion, maladaptive behavior, and psychological dysfunction. What it had spent relatively little effort studying was what goes right — what produces flourishing, resilience, strength, virtue, and the positive states that make human life genuinely good. The positive psychology movement that Seligman subsequently helped launch was his response to this imbalance.

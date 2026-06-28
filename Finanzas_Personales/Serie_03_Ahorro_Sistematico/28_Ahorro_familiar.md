@@ -1,7 +1,5 @@
 # Ahorro familiar: Cuando hay más bocas que llenar
 
-## Cómo ahorrar de forma consistente cuando los gastos de la familia compiten con todo lo demás
-
 **Serie Finanzas Personales — Serie 3: Ahorro Sistemático — Libro 8 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo ahorrar de forma consistente cuando los gastos de la familia compiten con todo lo demás
 
 ### Prólogo: El día que llegó Lucía
 

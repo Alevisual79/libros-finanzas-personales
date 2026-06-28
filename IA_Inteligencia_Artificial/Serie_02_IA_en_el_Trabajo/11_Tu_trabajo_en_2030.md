@@ -1,17 +1,12 @@
 # Tu trabajo en 2030
-## Qué trabajos desaparecen, cuáles emergen y cómo posicionarte
 
 **Serie 2: IA en el Trabajo — Libro 1 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Qué trabajos desaparecen, cuáles emergen y cómo posicionarte
 
 ### Prólogo: La carta de Elena a su yo de 2020
 

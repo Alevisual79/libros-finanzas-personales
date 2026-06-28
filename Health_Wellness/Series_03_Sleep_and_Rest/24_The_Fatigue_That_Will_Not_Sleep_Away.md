@@ -1,17 +1,12 @@
 # The Fatigue That Will Not Sleep Away
-## When You Are Tired Despite Rest
 
 **Series 3: Sleep and Rest — Book 4 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## When You Are Tired Despite Rest
 
 ### Prologue
 Ruben slept 8 hours most nights and still dragged himself through the afternoon. Isabel got her 7-8 hours and woke unrested. Elena could sleep 9 hours on the weekend and still feel like she needed more. The common assumption: sleep more and the fatigue will resolve. But not all fatigue is sleep deprivation — and understanding the distinction is essential for addressing it effectively.

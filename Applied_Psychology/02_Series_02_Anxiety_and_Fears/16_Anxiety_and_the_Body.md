@@ -1,17 +1,12 @@
 # Anxiety and the Body
-## The Physical Manifestations of Emotional Distress
 
 **Series 2: Anxiety and Fears — Book 6 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## The Physical Manifestations of Emotional Distress
 
 ### Prologue
 For three years, Thomas visited an average of fourteen medical specialists. He had chest pain (cardiologist), chronic headaches (neurologist), irritable bowel (gastroenterologist), recurrent throat tightness (ENT), unexplained fatigue (endocrinologist), muscle tension (orthopedist), frequent urination (urologist), and intermittent dizziness (vestibular specialist). Each evaluation revealed the same thing: nothing structurally wrong. The tests came back normal. The symptoms continued. By his third year, Thomas was spending approximately four hours per week in clinical settings, developing a sophisticated understanding of cardiovascular anatomy, and becoming increasingly convinced that his doctors were missing something. What they were not missing, but nobody had yet said plainly, was that his body was expressing anxiety in the only language it knew.

@@ -1,17 +1,12 @@
 # Why Do You Work
-## Uncovering the deeper motivations that determine professional life
 
 **Series 10: Purpose and Long-Term Success — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Uncovering the deeper motivations that determine professional life
 
 ### Prologue
 The question feels simple. Most professionals would answer it in seconds: "To pay the bills. To support my family. Because I trained for this. Because I'm good at it." These answers are true. They are also substantially incomplete — the visible surface of a motivational architecture that extends much deeper than the immediate economic and practical explanations suggest.

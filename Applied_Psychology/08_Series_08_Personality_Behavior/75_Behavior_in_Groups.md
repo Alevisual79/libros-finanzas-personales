@@ -1,17 +1,12 @@
 # Behavior in Groups
-## How Being with Others Changes Who We Are
 
 **Series 8: Personality and Behavior — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How Being with Others Changes Who We Are
 
 ### Prologue
 Carlos considered himself a relatively thoughtful person — someone who formed opinions carefully, who was reluctant to judge others without adequate information, who prided himself on intellectual independence. His surprise, then, when he watched the playback of a focus group recording that he had participated in, was genuine and uncomfortable. He could see himself, over the course of the ninety-minute session, systematically revising his stated opinions toward the majority position — opinions he had held confidently before the group began. He could see himself laughing at jokes he would not have found funny alone, nodding in agreement with statements he privately doubted, and contributing less to the discussion as the session progressed and the group dynamics became more established. He was not the person he thought he was in groups. Or rather — and this turned out to be the more productive framing — he was discovering that the person he thought he was also responded to the social environment in ways he had not fully recognized or understood.

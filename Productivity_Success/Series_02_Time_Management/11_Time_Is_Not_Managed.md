@@ -1,17 +1,12 @@
 # Time Is Not Managed
-## Why every productivity system fails eventually — and what to do instead
 
 **Series 2: Time Management — Book 1 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Why every productivity system fails eventually — and what to do instead
 
 ### Prologue
 Marco had three productivity systems running simultaneously. The first was a digital task manager with color-coded priorities, recurring tasks, and project folders organized by area of responsibility. The second was a paper planner where he wrote his three most important tasks each morning. The third was a time-blocking system in his calendar, with work sessions, review blocks, and protected "deep work" slots.

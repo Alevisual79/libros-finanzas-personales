@@ -1,17 +1,12 @@
 # The 4-Day Work Week and AI
-## Productivity Without More Hours
 
 **Series 9: Future of Work — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Productivity Without More Hours
 
 ### Prologue
 When Ruben's best client moved to a four-day work week, the productivity data surprised them: the same output in 80% of the time. The secret was not inspiration — it was eliminating the low-value work that AI could handle, and protecting the high-value hours that remained.

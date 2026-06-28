@@ -1,17 +1,12 @@
 # The Real Cost of Your Lifestyle
-## Calculating What You Actually Need
 
 **Series 6: Financial Freedom — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Calculating What You Actually Need
 
 ### Prologue
 Elena had always thought of her spending in terms of monthly bills. Rent, utilities, phone, subscriptions — these had fixed numbers and arrived on schedule. The rest — food, gas, going out, random purchases — felt fluid, impossible to really pin down. She had a rough sense that she spent "around $3,000 a month" on living, but when she actually went through her bank statements in detail for the first time, the honest number was closer to $3,600. The difference wasn't dramatic in any single category. It was accumulated in a hundred small ways: the parking fees she forgot to count, the birthday gifts, the coffee she bought every Monday when she needed a reset, the irregular but always-recurring vet visit. She had been planning her financial future around a number that was $600 short of reality every month — $7,200 per year short of reality.

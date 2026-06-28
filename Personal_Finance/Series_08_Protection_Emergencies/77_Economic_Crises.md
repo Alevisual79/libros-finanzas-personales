@@ -1,17 +1,12 @@
 # Economic Crises
-## How to Survive and Even Benefit from Market Downturns
 
 **Series 8: Protection and Emergencies — Book 7 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## How to Survive and Even Benefit from Market Downturns
 
 ### Prologue
 Ruben remembered the exact moment in early 2020 when he watched his small investment portfolio drop 30% in three weeks. He'd been contributing to a Roth IRA for two years, had accumulated just under $9,000, and watched it fall to roughly $6,300 on screens he refreshed more frequently than was healthy. His instinct — and it was a powerful one — was to move everything to cash. To stop the bleeding. To wait until things "settled down" before putting money back in. A friend who'd been investing longer grabbed his arm, literally, during a video call and said four words: "Don't do anything yet." He didn't. By year-end his portfolio was at $11,400. The friend's advice had been worth roughly $5,000.

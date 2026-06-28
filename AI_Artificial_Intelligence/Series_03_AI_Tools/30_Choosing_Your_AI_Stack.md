@@ -1,17 +1,12 @@
 # Choosing Your AI Stack
-## Building the Setup That Works for You
 
 **Series 3: AI Tools — Book 10 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## Building the Setup That Works for You
 
 ### Prologue
 By mid-2025, Ruben was paying for seven AI subscriptions. He was using three of them regularly. Two he had forgotten he had. One he was duplicating with another tool. The stack had grown without design. This book is about designing it.

@@ -1,17 +1,12 @@
 # IA para escribir y crear contenido
-## Jasper, Copy.ai y las herramientas especializadas en escritura
 
 **Serie 3: Herramientas de IA — Libro 6 de 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida, distribuida ni transmitida de ninguna forma ni por ningún medio sin el permiso previo por escrito del autor.*
-
----
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Jasper, Copy.ai y las herramientas especializadas en escritura
 
 ### Prólogo: El dilema del escritor
 

@@ -1,17 +1,12 @@
 # The Year of Extreme Saving
-## A One-Year Reset That Builds Lasting Habits
 
 **Series 3: Systematic Savings — Book 9 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A One-Year Reset That Builds Lasting Habits
 
 ### Prologue
 At 31, Ruben made a decision that his friends thought was extreme: he declared a Year of Extreme Saving. Not bankruptcy, not a financial crisis — a voluntary, pre-planned period of dramatically reduced spending combined with maximized income, designed to accomplish in one year what his slow-and-steady approach would have taken five to six years to achieve.

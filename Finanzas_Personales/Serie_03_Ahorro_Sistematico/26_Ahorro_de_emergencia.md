@@ -1,7 +1,5 @@
 # Ahorro de emergencia: Tu primer escudo
 
-## Construir los 3-6 meses de colchón sin agobiarse en el intento
-
 **Serie Finanzas Personales — Serie 3: Ahorro Sistemático — Libro 6 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Construir los 3-6 meses de colchón sin agobiarse en el intento
 
 ### Prólogo: La diferencia entre una crisis y un problema
 

@@ -1,17 +1,12 @@
 # Running Without Getting Injured
-## A Sustainable Approach to the World's Most Popular Exercise
 
 **Series 2: Movement and Body — Book 5 of 10**
 
----
-
 *Copyright © 2026 Enrique Padrón. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author.*
-
----
 
 > **Disclaimer:** The use of the information in this book is the sole responsibility of the reader.
 
----
+## A Sustainable Approach to the World's Most Popular Exercise
 
 ### Prologue
 Running is the most accessible form of exercise on the planet: no equipment beyond footwear, no membership, no schedule. It is also one of the most common sources of training injuries, with research suggesting that between 37-79% of runners experience at least one injury per year. Most of these injuries are overuse injuries — not random accidents, but predictable consequences of doing too much, too fast, too soon.

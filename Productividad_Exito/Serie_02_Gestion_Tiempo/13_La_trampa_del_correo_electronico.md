@@ -1,7 +1,5 @@
 # La trampa del correo electrónico
 
-## Cómo el email secuestra tu agenda y cómo recuperarla
-
 **Serie Productividad y Éxito — Serie 2: Gestión del Tiempo — Libro 3 de 10**
 
 ---
@@ -12,7 +10,7 @@
 
 > **Aviso legal:** El uso de la información de este libro es responsabilidad exclusiva del lector.
 
----
+## Cómo el email secuestra tu agenda y cómo recuperarla
 
 ### Prólogo: La bandeja de entrada como oficina ajena
 
