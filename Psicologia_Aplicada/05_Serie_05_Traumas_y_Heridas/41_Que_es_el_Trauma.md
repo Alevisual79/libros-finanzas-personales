@@ -83,7 +83,7 @@ Ruben no experimenta flashbacks dramaticos ni pesadillas recurrentes. Pero hay o
 
 Bessel van der Kolk, en El Cuerpo Lleva la Cuenta, documenta que el trauma puede manifestarse en el cuerpo de formas que no se reconocen facilmente como trauma: dolores cronicos sin causa médica clara, problemas digestivos, tensión muscular cronica, dificultad para relajarse, respuesta inmune alterada. El cuerpo que lleva el registro del trauma lo expresa de multiples formas, no todas identifables como sintomas psicológicos clásicos.
 
-**Ejercicio inmediato:** Revisa esta lista de manifestaciones del trauma y señala las que reconoces en tu propia experiencia: dificultad para confiar, hipervigilancia, embotamiento emocional, dificultad para establecer límites, reactividad desproporcionada, autocritica intensa, sensación cronica de no ser suficiente, dificultad para estar presente, tendencia a relaciones donde se repiten patrones dañinos. No para diagnosticarte sino para ver el patron con mayor claridad.
+**Ejercicio inmediato:** Revisa está lista de manifestaciones del trauma y señala las que reconoces en tu propia experiencia: dificultad para confiar, hipervigilancia, embotamiento emocional, dificultad para establecer límites, reactividad desproporcionada, autocritica intensa, sensación cronica de no ser suficiente, dificultad para estar presente, tendencia a relaciones donde se repiten patrones dañinos. No para diagnosticarte sino para ver el patron con mayor claridad.
 
 El trauma que no reconoces como trauma sigue operando. Solo que sin nombre, lo que lo hace más difícil de abordar.
 

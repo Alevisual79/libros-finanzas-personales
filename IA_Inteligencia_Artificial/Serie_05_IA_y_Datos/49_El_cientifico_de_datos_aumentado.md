@@ -1,5 +1,5 @@
 # El cientifico de datos aumentado
-## Como la IA esta cambiando el trabajo de quienes trabajan con datos
+## Como la IA está cambiando el trabajo de quienes trabajan con datos
 
 **Serie 5: IA y Datos — Libro 9 de 10**
 

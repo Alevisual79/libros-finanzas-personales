@@ -200,28 +200,23 @@ def fix_imperatives(line):
 
 
 # 5. 'esta' → 'está' (verbo estar sin tilde)
-# Safe patterns: 'esta' + gerundio OR 'esta' + participio conocido
-_ESTA_COMPL = (
-    r'bien|claro|disponible|listo|hecho|dicho|relacionado|basado|demostrado|'
-    r'probado|confirmado|diseñado|pensado|comprobado|visto|expuesto|establecido|'
-    r'planteado|orientado|enfocado|definido|descrito|estudiado|analizado|'
-    r'vinculado|asociado|ligado|dado|reconocido|aceptado|documentado|'
-    r'compuesto|formado|integrado|organizado|estructurado|conectado|preparado|'
-    r'apoyado|respaldado|sustentado|justificado|permitido|prohibido|limitado|'
-    r'desarrollado|construido|adaptado|ajustado|modificado|dirigido|destinado|'
-    r'concebido|planificado|programado|comprendido|entendido|asumido|rechazado|'
-    r'aprobado|negado|superado|resuelto|incluido|excluido|dividido|distribuido|'
-    r'compuesto|constituido|formado|representado|determinado|condicionado'
-)
-RE_ESTA_PART = re.compile(rf'\besta\s+({_ESTA_COMPL})\b', re.IGNORECASE)
-RE_ESTA_GER  = re.compile(r'\besta\s+\w+ndo\b', re.IGNORECASE)
+# General: esta + cualquier participio regular (-ado/-ido) o gerundio
+# 'estado' excluido: es sustantivo masculino (diría 'este estado', no 'esta estado')
+RE_ESTA_PART  = re.compile(r'\besta\s+\w+[ai]do\b', re.IGNORECASE)
+RE_ESTA_GER   = re.compile(r'\besta\s+\w+(?:ando|endo|iendo|yendo)\b', re.IGNORECASE)
+RE_ESTA_PUNTO = re.compile(r'\besta\s+a\s+punto\b', re.IGNORECASE)
+RE_ESTA_MISC  = re.compile(r'\besta\s+(?:bien|claro|lista?|disponible|muy\b)', re.IGNORECASE)
 
-def _esta_repl(m):
-    return 'Está ' if m.group(0)[0].isupper() else 'está '
+def _repl_esta(m):
+    s = m.group(0)
+    prefix = 'Está ' if s[0].isupper() else 'está '
+    return prefix + s.split(None, 1)[1]
 
 def fix_esta(line):
-    line = RE_ESTA_PART.sub(lambda m: _esta_repl(m) + m.group(1), line)
-    line = RE_ESTA_GER.sub(lambda m: _esta_repl(m) + m.group(0).split(None, 1)[1], line)
+    line = RE_ESTA_PART.sub(_repl_esta, line)
+    line = RE_ESTA_GER.sub(_repl_esta, line)
+    line = RE_ESTA_PUNTO.sub(_repl_esta, line)
+    line = RE_ESTA_MISC.sub(_repl_esta, line)
     return line
 
 
@@ -777,9 +772,10 @@ def fix_line(line):
     # Código, tablas y citas: no tocar
     if stripped.startswith(('`', '|', '>')):
         return line
-    # Encabezados: solo aplicar fixes de palabras (esdrújulas y adverbios)
+    # Encabezados: aplicar fixes de palabras (esdrújulas, adverbios, está+gerundio)
     if stripped.startswith('#'):
         line = fix_encoding(line)
+        line = fix_esta(line)
         line = fix_esdrujulas(line)
         line = fix_adverbs(line)
         return line

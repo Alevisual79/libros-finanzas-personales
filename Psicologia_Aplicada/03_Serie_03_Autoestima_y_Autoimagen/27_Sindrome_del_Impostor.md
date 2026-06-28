@@ -29,7 +29,7 @@ La investigación posterior reveló que el síndrome no es exclusivo de mujeres 
 
 **Ejercicio inmediato:** Piensa en un logró reciente importante. ¿Cuando te lo reconocieron, cual fue tu primera reacción interna? ¿Celebración genuina, incomodidad con el reconocimiento, o pensamientos sobre que fue suerte o que no lo mereces realmente? La respuesta mapea tu relación con tus propios logros.
 
-Sentirte un impostor no significa que lo seas. Significa que tu sistema de atribución esta sesgado sistemáticamente en la dirección equivocada.
+Sentirte un impostor no significa que lo seas. Significa que tu sistema de atribución está sesgado sistemáticamente en la dirección equivocada.
 
 ---
 

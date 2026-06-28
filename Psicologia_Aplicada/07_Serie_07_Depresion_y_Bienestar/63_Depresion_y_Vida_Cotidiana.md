@@ -41,7 +41,7 @@ Ruben se despierta a las tres de la madrugada y no puede volver a dormir. Ese pa
 
 El meta-análisis de Colleen Carney y colegas sobre la Terapia Cognitivo-Conductual para el Insomnio (TCC-I) muestra que es tan efectiva cómo la farmacoterapia para el insomnio a corto plazo y más efectiva a largo plazo. Las estrategias incluyen: mantener horarios regulares de sueño incluso en períodos de mal sueño, reducir el tiempo en cama a las horas que se duerme realmente (restricción del sueño), y trabajar las cogniciones sobre el sueño que producen ansiedad anticipatoria.
 
-**Ejercicio inmediato:** Esta semana, establece una hora fija de levantarte cada dia (incluyendo fines de semana) que sea la misma independientemente de cuanto hayas dormido. La consistencia del horario de levantarse es el ancla que regula el ritmo circadiano, que en la depresión frecuentemente esta desajustado.
+**Ejercicio inmediato:** Esta semana, establece una hora fija de levantarte cada dia (incluyendo fines de semana) que sea la misma independientemente de cuanto hayas dormido. La consistencia del horario de levantarse es el ancla que regula el ritmo circadiano, que en la depresión frecuentemente está desajustado.
 
 El sueño que no viene cuando lo buscas viene más facilmente cuando dejas de buscarlo y empieza a regularlo cómo un proceso biológico, no cómo una decisión voluntaria.
 

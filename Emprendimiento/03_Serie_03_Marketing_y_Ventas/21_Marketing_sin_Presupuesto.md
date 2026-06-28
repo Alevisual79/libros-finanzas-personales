@@ -135,7 +135,7 @@ El emprendedor que sube al escenario no necesita tarjeta de visita. La audiencia
 
 Marcos ha invertido en SEO durante seis meses y empieza a ver como Google le trae clientes sin coste adicional.
 
-**El Principio del SEO cómo la Inversión a Largo Plazo en Visibilidad Orgánica que Produce un Canal de Adquisición de Clientes de Bajo Coste Marginal una vez que el Activo de Contenido Esta Creado:** El SEO (Search Engine Optimization) es el proceso de optimizar el contenido web para aparecer en los primeros resultados de Google cuando los clientes potenciales buscan información sobre el problema que el negocio resuelve. A diferencia de la publicidad de pago, el contenido bien posicionado en Google genera trafico de forma continua sin coste adicional.
+**El Principio del SEO cómo la Inversión a Largo Plazo en Visibilidad Orgánica que Produce un Canal de Adquisición de Clientes de Bajo Coste Marginal una vez que el Activo de Contenido Está Creado:** El SEO (Search Engine Optimization) es el proceso de optimizar el contenido web para aparecer en los primeros resultados de Google cuando los clientes potenciales buscan información sobre el problema que el negocio resuelve. A diferencia de la publicidad de pago, el contenido bien posicionado en Google genera trafico de forma continua sin coste adicional.
 
 La investigación de Ahrefs sobre el trafico orgánico muestra que el top 3 de resultados de Google se lleva aproximadamente el 75% de los clics para cualquier búsqueda, y que el contenido bien posicionado tiene un coste de adquisición de cliente significativamente menor que el de la publicidad de pago a largo plazo.
 

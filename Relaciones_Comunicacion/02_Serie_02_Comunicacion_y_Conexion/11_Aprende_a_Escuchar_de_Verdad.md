@@ -139,7 +139,7 @@ Las palabras dicen lo que el otro quiere decir. El cuerpo dice lo que siente.
 
 ## Capítulo 9: Multitarea y presencia: incompatibles
 
-Ruben esta convencido de que puede escuchar a su novia mientras revisa el móvil. Su novia sabe que no puede. La investigación lo confirma: la multitarea durante la escucha no reduce la calidad de la atención. La elimina.
+Ruben está convencido de que puede escuchar a su novia mientras revisa el móvil. Su novia sabe que no puede. La investigación lo confirma: la multitarea durante la escucha no reduce la calidad de la atención. La elimina.
 
 **El Principio de la Atención Indivisible:** La atención no se divide. Se alterna. Cuando creemos que hacemos dos cosas a la vez, en realidad estamos haciendo una, luego la otra, muy rápido. En el contexto de la escucha, esa alternancia tiene un coste: los fragmentos en que la atención estaba en la otra tarea son fragmentos de la conversación perdidos sin posibilidad de recuperación.
 

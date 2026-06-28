@@ -151,11 +151,11 @@ Ruben ha empezado a entender su patron de apego. No lo ha resuelto completamente
 
 **El Principio de la Conciencia del Patron como Primer Paso hacía la Elección:** La investigación de Mary Main sobre el apego adulto introdujó el concepto del adulto seguro-autonomo: no solo las personas que tuvieron apego seguro en la infancia, sino las personas que han podido integrar sus experiencias de apego, incluyendo las difíciles, en una narrativa coherente. Este adulto seguro-autonomo puede reconocer el patron, entender su origen, y elegir cómo responder en lugar de ser automáticamente gobernado por el.
 
-La diferencia entre ser gobernado por el apego ansioso y gestionarlo de forma más consciente no es eliminar la ansiedad relacional. Es desarrollar la capacidad metacognitiva de observarla (ah, mi sistema de apego esta activado), entender lo que la activo, y elegir la respuesta desde un lugar más deliberado que la reacción automática.
+La diferencia entre ser gobernado por el apego ansioso y gestionarlo de forma más consciente no es eliminar la ansiedad relacional. Es desarrollar la capacidad metacognitiva de observarla (ah, mi sistema de apego está activado), entender lo que la activo, y elegir la respuesta desde un lugar más deliberado que la reacción automática.
 
 **Ejercicio inmediato:** Diseña un protocolo personal para los episodios de ansiedad relacional: cuando noto que mi sistema de apego se ha activado, hago estas tres cosas antes de actuar desde la ansiedad (puede ser: esperar una hora antes de mandar mensajes desde la ansiedad, hablar con alguien de confianza sobre lo que siento, practicar la respiración para reducir el arousal fisiológico). Ese protocolo no elimina la ansiedad pero crea espacio entre la activación y la respuesta.
 
-No puedes controlar cuando se activa tu sistema de apego. Pero puedes controlar lo que haces mientras esta activado.
+No puedes controlar cuando se activa tu sistema de apego. Pero puedes controlar lo que haces mientras está activado.
 
 ---
 

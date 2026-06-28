@@ -131,7 +131,7 @@ A pesar de todos los avances tecnologicos imaginables, la necesidad humana de co
 
 El trabajo final, tanto de este libro como de toda esta colección sobre relaciones y comunicación, es la decisión consciente de cada persona sobre como quiere que la tecnología funcione en su propia vida relacional, en lugar de permitir que esa relación se forme por defecto sin reflexión deliberada.
 
-**El Principio de la Agencia Individual como Determinante del Futuro Relacional:** El futuro de las relaciones humanas no esta predeterminado por la tecnología misma, sino que se construye, decisión por decisión, a traves de las elecciones individuales y colectivas sobre cómo se integra la tecnología en la vida relacional de cada persona. Esta agencia individual, multiplicada a traves de millones de decisiones similares, es lo que finalmente determinara la forma que las relaciones humanas tomen en el futuro.
+**El Principio de la Agencia Individual como Determinante del Futuro Relacional:** El futuro de las relaciones humanas no está predeterminado por la tecnología misma, sino que se construye, decisión por decisión, a traves de las elecciones individuales y colectivas sobre cómo se integra la tecnología en la vida relacional de cada persona. Esta agencia individual, multiplicada a traves de millones de decisiones similares, es lo que finalmente determinara la forma que las relaciones humanas tomen en el futuro.
 
 **Ejercicio inmediato:** Reflexiona, integrando todo lo aprendido a lo largo de esta colección completa, sobre que tipo específico de relaciones quieres construir y mantener, y que decisiones concretas sobre tecnología apoyarian esa visión.
 

@@ -83,7 +83,7 @@ La escalada que se detecta a tiempo se puede evitar. La que no se detecta destru
 
 ## Capítulo 5: El tiempo fuera bien usado
 
-Cuando el conflicto esta demasiado caliente, parar no es huir. Es una intervención tactica para qué ambas personas puedan recuperar la capacidad de tener la conversación que importa.
+Cuando el conflicto está demasiado caliente, parar no es huir. Es una intervención tactica para qué ambas personas puedan recuperar la capacidad de tener la conversación que importa.
 
 **El Principio del Tiempo Fuera Acordado:** El tiempo fuera funciona cuando tiene tres elementos: es acordado (no unilateral), tiene una duración establecida (al menos veinte minutos para que el sistema nervioso vuelva a la linea base), y termina con la vuelta a la conversación. El tiempo fuera que no cumple estos tres elementos puede convertirse en castigo, evitación o cierre encubierto.
 
@@ -103,7 +103,7 @@ Durante el conflicto, la mayoría de las personas tienen dos conversaciones para
 
 Douglas Stone, en Difficult Conversations, propone suspender temporalmente la voz interna durante el conflicto y reemplazarla con una sola pregunta: ¿que está intentando comunicarme esta persona? Esa pregunta redirige la atención del monologo propio a la escucha del otro.
 
-**Ejercicio inmediato:** En tu próximo conflicto, cuando notes que tu voz interna esta muy activa, para y hazte la pregunta: ¿que está intentando decirme esta persona? Repitela cuantas veces sea necesario. Esa pregunta es más útil que cualquier argumento que tu voz interna este preparando.
+**Ejercicio inmediato:** En tu próximo conflicto, cuando notes que tu voz interna está muy activa, para y hazte la pregunta: ¿que está intentando decirme esta persona? Repitela cuantas veces sea necesario. Esa pregunta es más útil que cualquier argumento que tu voz interna este preparando.
 
 La conversación más destructiva en un conflicto ocurre dentro de tu cabeza, no entre los dos.
 
@@ -139,7 +139,7 @@ No todos los conflictos se resuelven. Todos se pueden gestionar mejor.
 
 Hay personas que ante el conflicto se cierran completamente: monosilabos, cara de piedra, ausencia total de expresión emocional. Desde fuera parece calma. Desde dentro es todo lo contrario: la activación fisiológica es tan alta que el sistema nervioso ha preferido bloquear la expresión antes que desbordarse.
 
-**El Principio del Congelamiento como Sobrecarga:** El congelamiento no es indiferencia. Es una respuesta de sobrecarga del sistema nervioso que se ha desconectado para protegerse. La persona que se congela necesita tiempo y regulación antes de poder volver a la conversación. Insistir en seguir hablando con alguien que esta congelado no produce más comunicación. Produce más congelamiento.
+**El Principio del Congelamiento como Sobrecarga:** El congelamiento no es indiferencia. Es una respuesta de sobrecarga del sistema nervioso que se ha desconectado para protegerse. La persona que se congela necesita tiempo y regulación antes de poder volver a la conversación. Insistir en seguir hablando con alguien que está congelado no produce más comunicación. Produce más congelamiento.
 
 La intervención efectiva cuando alguien se congela es parar la conversación completamente, dar tiempo sin presión para la regulación, y volver cuando ambos esten en condiciones de procesar.
 

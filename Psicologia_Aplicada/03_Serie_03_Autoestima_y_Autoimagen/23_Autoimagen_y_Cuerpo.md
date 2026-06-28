@@ -153,7 +153,7 @@ Elena ha empezado a hablar a su cuerpo de forma diferente. No con amor dramatico
 
 Tracy Tylka propone que la apreciación corporal (valorar el cuerpo por su función, por las experiencias que facilita, por su resiliencia ante el tiempo y las dificultades) es más alcanzable como meta a corto plazo que el amor corporal incondicional, y produce beneficios de bienestar igualmente significativos.
 
-**Ejercicio inmediato:** Escribe una lista de diez cosas que tu cuerpo puede hacer o ha hecho por ti, sin ninguna referencia a su apariencia: las distancias que has caminado, los brazos que ha podido abrazar a alguien que quieres, el sueño que te ha dado, el dolor que ha superado. Esta lista es la apreciación funcional que es el fundamento de la neutralidad corporal.
+**Ejercicio inmediato:** Escribe una lista de diez cosas que tu cuerpo puede hacer o ha hecho por ti, sin ninguna referencia a su apariencia: las distancias que has caminado, los brazos que ha podido abrazar a alguien que quieres, el sueño que te ha dado, el dolor que ha superado. Está lista es la apreciación funcional que es el fundamento de la neutralidad corporal.
 
 No necesitas amar tu cuerpo para tratarlo bien. Solo necesitas reconocer lo que ha hecho por ti.
 

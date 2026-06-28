@@ -35,7 +35,7 @@ El estrés que te impulsa y el que te destruye se sienten parecidos a corto plaz
 
 ## Capítulo 2: El burnout: cuando el estrés laboral agota el alma
 
-Ruben lleva dos años trabajando con intensidad en un proyecto que creía apasionante. Ahora se siente vaciado: hace su trabajo pero no siente nada al hacerlo. Ha perdido la motivación que tenía, la curiosidad que le llevó a ese campo, el placer del trabajo bien hecho. No sabe si esta deprimido, agotado, o si simplemente ha cambiado.
+Ruben lleva dos años trabajando con intensidad en un proyecto que creía apasionante. Ahora se siente vaciado: hace su trabajo pero no siente nada al hacerlo. Ha perdido la motivación que tenía, la curiosidad que le llevó a ese campo, el placer del trabajo bien hecho. No sabe si está deprimido, agotado, o si simplemente ha cambiado.
 
 **El Principio del Burnout como Proceso de Agotamiento Progresivo:** Christina Maslach, psicóloga que ha investigado el burnout durante cuatro décadas, lo define cómo un síndrome de tres dimensiones: agotamiento emocional (la sensación de estar vaciado de recursos emocionales), despersonalización (distanciamiento cínico de las personas y el trabajo), y reducción del sentido de eficacia personal (sensación de que el trabajo ya no produce resultados o significado). Estas tres dimensiones se desarrollan progresivamente y no siempre de forma simultánea.
 

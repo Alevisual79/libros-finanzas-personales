@@ -39,7 +39,7 @@ Determinar el momento apropiado para tener la conversación de definición de re
 
 **Ejercicio inmediato:** Evalua tu relación actual contra estas señales: ¿hay patrones de regularidad de facto, inversión emocional creciente, y ansiedad generada por la incertidumbre? Si varias estan presentes, ese es momento de considerar la conversación.
 
-No existe un número magico de meses para tener la conversación de definición. Existen señales específicas que indican que la relación esta lista para esa claridad.
+No existe un número magico de meses para tener la conversación de definición. Existen señales específicas que indican que la relación está lista para esa claridad.
 
 ---
 

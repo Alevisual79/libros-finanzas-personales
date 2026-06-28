@@ -103,7 +103,7 @@ La prensa que no llega a tu cliente no es cobertura. Es solo ruido con logo de p
 
 ---
 
-## Capítulo 7: Medir el lanzamiento: como saber si esta funcionando
+## Capítulo 7: Medir el lanzamiento: como saber si está funcionando
 
 Marcos ha diseñado un sistema de metricas específico para su período de lanzamiento.
 

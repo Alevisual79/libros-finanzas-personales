@@ -81,7 +81,7 @@ Ruben tiene la primera sesión concertada para la semana siguiente y no sabe que
 
 **El Principio de la Primera Sesión como Evaluación Mutua, no Examen:** La primera sesión de psicoterapia tiene dos funciones: la evaluación del terapeuta (recoger información para entender el problema y formular una hipótesis de trabajo) y la evaluación del cliente (ver si el terapeuta es alguien con quien puede trabajar). Entenderla como evaluación mutua en lugar de examen reduce la ansiedad que frecuentemente produce.
 
-En la primera sesión, el psicologo preguntara sobre el motivo de consulta (que te ha traido aquí hoy?), la historia del problema (desde cuando, como ha evolucionado, que lo mejora o empeora), y el contexto de vida (trabajo, relaciones, historia personal relevante). No es necesario tener todo perfectamente ordenado: el psicologo esta acostumbrado a trabajar con información incompleta y desordenada.
+En la primera sesión, el psicologo preguntara sobre el motivo de consulta (que te ha traido aquí hoy?), la historia del problema (desde cuando, como ha evolucionado, que lo mejora o empeora), y el contexto de vida (trabajo, relaciones, historia personal relevante). No es necesario tener todo perfectamente ordenado: el psicologo está acostumbrado a trabajar con información incompleta y desordenada.
 
 **Ejercicio inmediato:** Antes de la primera sesión, reflexiona sobre tres preguntas: ¿que es lo que más quieres que cambie? ¿Desde cuando llevas con este problema? ¿Que has intentado hasta ahora para manejarlo? No para tener respuestas perfectas sino para entrar con algo de claridad sobre lo que quieres del proceso.
 

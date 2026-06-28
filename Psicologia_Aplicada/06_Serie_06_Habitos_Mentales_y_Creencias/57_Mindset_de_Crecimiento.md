@@ -139,7 +139,7 @@ Ruben tiene una relación ambivalente con el esfuerzo: a veces lo celebra, a vec
 
 La investigación de Angela Duckworth sobre el grit (la combinación de pasión y perseverancia a largo plazo) muestra que el esfuerzo sostenido en la dirección correcta, guiado por una pasión genuina y estrategias de práctica deliberada, predice el logró mejor que el talento innato. El talento multiplicado por el esfuerzo produce logró, y el esfuerzo cuenta dos veces en esa ecuación.
 
-**Ejercicio inmediato:** Para un objetivo que te importa y donde el progreso es lento, reflexiona: ¿el esfuerzo que estas invirtiendo esta guiado por estrategias deliberadas de mejora o es esfuerzo sin reflexión sobre como mejorar? El primero produce crecimiento. El segundo es trabajo duro sin aprendizaje.
+**Ejercicio inmediato:** Para un objetivo que te importa y donde el progreso es lento, reflexiona: ¿el esfuerzo que estas invirtiendo está guiado por estrategias deliberadas de mejora o es esfuerzo sin reflexión sobre como mejorar? El primero produce crecimiento. El segundo es trabajo duro sin aprendizaje.
 
 El esfuerzo sin estrategia produce agotamiento. El esfuerzo con práctica deliberada produce maestria.
 

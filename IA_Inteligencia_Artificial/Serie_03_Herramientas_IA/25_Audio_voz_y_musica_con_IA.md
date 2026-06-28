@@ -120,7 +120,7 @@ La clonación de voz permite crear un modelo de una voz específica a partir de 
 
 La industria de los locutores, la musica de stock y la producción de audio basica está siendo transformada.
 
-**Locutores:** El mercado de locution de volumen bajo (narración de documentos internos, e-learning corporativo estandar) esta muy expuesto. Los locutores con voces únicas, carisma y capacidades de actuación tienen mayor resiliencia.
+**Locutores:** El mercado de locution de volumen bajo (narración de documentos internos, e-learning corporativo estandar) está muy expuesto. Los locutores con voces únicas, carisma y capacidades de actuación tienen mayor resiliencia.
 
 **Musicos:** La musica de stock y la musica de fondo generica estan muy expuestas. Los musicos con voz artistica propia y capacidad de conectar con audiencias tienen menor exposición.
 

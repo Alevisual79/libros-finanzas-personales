@@ -63,7 +63,7 @@ La impulsividad que llamas debilidad de carácter podría ser el resultado de un
 
 ## Capítulo 4: La impulsividad y las emociones: el estado emocional como amplificador
 
-Ruben es mucho más impulsivo cuando esta cansado, hambriento, o frustrado. No es coincidencia.
+Ruben es mucho más impulsivo cuando está cansado, hambriento, o frustrado. No es coincidencia.
 
 **El Principio de HALT como Marco para Identificar los Estados que Amplifican la Impulsividad:** El acronimo HALT (Hambriento, Angustiado, Lonely-solo, Tired-cansado) resume los estados que más amplifican la vulnerabilidad a la impulsividad. Cuando uno o más de estos estados estan presentes, la capacidad de inhibición del cortex prefrontal se reduce y la activación de la amigdala aumenta.
 

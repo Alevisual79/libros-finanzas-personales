@@ -63,7 +63,7 @@ El miedo al rechazó, intensificado frecuentemente por una ruptura reciente, pue
 
 **Ejercicio inmediato:** La próxima vez que sientas miedo al rechazó antes o durante una cita, nombra explicitamente: esto es mi miedo amplificado por mi ruptura reciente, no necesariamente una predicción precisa de lo que va a pasar.
 
-El miedo al rechazó después de una ruptura no es irracional. Pero frecuentemente esta amplificado más allá de lo que la situación actual realmente justifica.
+El miedo al rechazó después de una ruptura no es irracional. Pero frecuentemente está amplificado más allá de lo que la situación actual realmente justifica.
 
 ---
 
@@ -133,7 +133,7 @@ El reto final de volver a las citas es encontrar el equilibrio entre la apertura
 
 **El Principio de la Vulnerabilidad Graduada:** La apertura emocional en las citas nuevas se beneficia de ser graduada, no instantanea: compartir progresivamente más vulnerabilidad a medida que la confianza con la nueva persona se construye, en lugar de cerrarse completamente por miedo o de abrirse completamente desde el primer encuentro sin haber verificado la seguridad real de esa apertura.
 
-**Ejercicio inmediato:** Para tu proceso actual de volver a las citas, evalua si tu nivel de apertura emocional esta calibrado apropiadamente: ni completamente cerrado por protección excesiva, ni completamente abierto sin verificación de seguridad.
+**Ejercicio inmediato:** Para tu proceso actual de volver a las citas, evalua si tu nivel de apertura emocional está calibrado apropiadamente: ni completamente cerrado por protección excesiva, ni completamente abierto sin verificación de seguridad.
 
 Abrirte de nuevo no significa abrirte sin filtro. Significa abrirte gradualmente, a medida que la confianza real se construye.
 

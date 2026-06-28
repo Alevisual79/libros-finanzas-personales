@@ -29,7 +29,7 @@ Este libro es sobre esa paradoja y sobre como navegarla.
 
 Elena nota que cuando ella y su pareja han tenido una buena semana de comunicación y conexión, la vida sexual es mejor. Y cuando hay tensión o distancia, el sexo desaparece primero de su agenda. Su pareja lo experimenta al reves: para el, el sexo es una forma de reconectar cuando hay distancia.
 
-Ninguno de los dos esta equivocado. Las dos experiencias reflejan patrones reales y documentados.
+Ninguno de los dos está equivocado. Las dos experiencias reflejan patrones reales y documentados.
 
 **El Principio de la Bidireccionalidad:** La conexión sexual y la conexión emocional tienen una relación bidireccional: la buena conexión emocional facilita la intimidad sexual, y la intimidad sexual refuerza la conexión emocional. Pero el punto de entrada es diferente para distintas personas. Algunas necesitan sentirse emocionalmente conectadas antes de poder desear sexualmente al otro. Otras usan el sexo como via de acceso a la conexión emocional.
 
@@ -51,7 +51,7 @@ Además, las relaciones largas acumulan carga de responsabilidades, estrés coti
 
 **Ejercicio inmediato:** Identifica los tres factores que más han contribuido a que el deseo en tu relación sea diferente a como era al principio. No para lamentarlos sino para saber con que estas trabajando. La habituación tiene soluciones. El estrés tiene soluciones. Las dinámicas de rol tienen soluciones. El primer paso es identificar cuales de los tres son los más activos.
 
-El deseo que decrece en la pareja no esta muerto. Esta dormido bajo un peso que se puede levantar.
+El deseo que decrece en la pareja no esta muerto. Está dormido bajo un peso que se puede levantar.
 
 ---
 

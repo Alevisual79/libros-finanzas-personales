@@ -1,5 +1,5 @@
 # Diseno aumentado
-## Como la IA esta cambiando el trabajo de los disenadores
+## Como la IA está cambiando el trabajo de los disenadores
 
 **Serie 4: IA y Creatividad — Libro 3 de 10**
 

@@ -69,7 +69,7 @@ Ruben nota que hay dos tipos de momentos buenos: los placenteros (comida rica, d
 
 La investigación muestra que la adaptación hedonica afecta especialmente a los placeres sensoriales: el mismo estímulo produce cada vez menos placer con la repetición. Las fuentes de satisfacción eudaimonica son menos susceptibles a esta adaptación porque el nivel de desafio puede seguir creciendo.
 
-**Ejercicio inmediato:** Identifica la proporción entre placeres sensoriales (televisión, comida, entretenimiento pasivo) y satisfacciones eudaimonicas (desafios superados, contribuciones, uso de talentos) en tu semana típica. Si la proporción esta muy inclinada hacía los placeres sensoriales, considera una actividad eudaimonica que podrías reintroducir o incrementar.
+**Ejercicio inmediato:** Identifica la proporción entre placeres sensoriales (televisión, comida, entretenimiento pasivo) y satisfacciones eudaimonicas (desafios superados, contribuciones, uso de talentos) en tu semana típica. Si la proporción está muy inclinada hacía los placeres sensoriales, considera una actividad eudaimonica que podrías reintroducir o incrementar.
 
 El placer que se busca constantemente se desgasta. La satisfacción de haber hecho algo difícil no.
 

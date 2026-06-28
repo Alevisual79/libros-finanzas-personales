@@ -1,5 +1,5 @@
 # Innovación con IA
-## Como la IA esta acelerando el proceso de ideación y diseño de productos
+## Como la IA está acelerando el proceso de ideación y diseño de productos
 
 **Serie 4: IA y Creatividad — Libro 7 de 10**
 

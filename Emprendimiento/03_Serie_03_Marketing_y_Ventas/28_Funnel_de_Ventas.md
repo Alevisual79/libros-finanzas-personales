@@ -89,7 +89,7 @@ El lead que se convierte en cliente en el email seis no era un mal lead en el em
 
 ---
 
-## Capítulo 6: El fondo del funnel: como cerrar la venta cuando el lead esta listo
+## Capítulo 6: El fondo del funnel: como cerrar la venta cuando el lead está listo
 
 Lucia ha aprendido que el fondo del funnel (el momento de la conversión) tiene su propia lógica que es diferente a la del resto del funnel.
 

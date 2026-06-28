@@ -69,7 +69,7 @@ Isabel ha aprendido que intentar cambiar solo con fuerza de voluntad es mucho me
 
 La investigación de Brian Wansink (con algunas reservas por cuestiones metodologicas que han surgido posteriormente) y la investigación más robusta de Theresa Marteau y colegas sobre la arquitectura de la elección muestra que colocar los alimentos saludables más visibles y accesibles que los no saludables produce mayor consumo de los saludables sin esfuerzo consciente.
 
-**Ejercicio inmediato:** Para el hábito que quieres adoptar, diseña el entorno para que el comportamiento deseado sea el más fácil y el comportamiento no deseado sea el más difícil. Si quieres leer más, pon un libro en la mesilla y el teléfono en otra habitación. Si quieres comer menos azucar, no la tengas en casa. El entorno que tienes actualmente esta optimizado para los hábitos que tienes. Cambia el entorno y cambias los hábitos que facilita.
+**Ejercicio inmediato:** Para el hábito que quieres adoptar, diseña el entorno para que el comportamiento deseado sea el más fácil y el comportamiento no deseado sea el más difícil. Si quieres leer más, pon un libro en la mesilla y el teléfono en otra habitación. Si quieres comer menos azucar, no la tengas en casa. El entorno que tienes actualmente está optimizado para los hábitos que tienes. Cambia el entorno y cambias los hábitos que facilita.
 
 La fuerza de voluntad que usas para resistir el entorno que no has cambiado es energía que no puedes usar para cambiar otras cosas.
 

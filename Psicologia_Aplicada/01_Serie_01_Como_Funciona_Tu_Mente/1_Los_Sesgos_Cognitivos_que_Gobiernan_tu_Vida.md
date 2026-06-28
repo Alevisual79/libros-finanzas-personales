@@ -153,7 +153,7 @@ Elena, Ruben e Isabel no van a eliminar sus sesgos. Nadie puede. Lo que pueden h
 
 La humildad cognitiva no es dudar de todo. Es reconocer donde el propio procesamiento mental es más vulnerable a distorsión, y compensar precisamente en esas áreas con más evidencia, más perspectivas distintas, y más disposición a revisar las conclusiones iniciales.
 
-**Ejercicio inmediato:** Identifica el sesgo de esta lista que crees que más te afecta personalmente. Diseña una práctica específica, no solo una intención, para reducir su impacto en las decisiones de tu área más importante. Una práctica concreta, aunque sea pequeña, vale más que diez resoluciones abstractas.
+**Ejercicio inmediato:** Identifica el sesgo de está lista que crees que más te afecta personalmente. Diseña una práctica específica, no solo una intención, para reducir su impacto en las decisiones de tu área más importante. Una práctica concreta, aunque sea pequeña, vale más que diez resoluciones abstractas.
 
 El objetivo no es pensar sin sesgos. Es pensar con suficiente conciencia de tus sesgos para que no sean ellos quienes tomen tus decisiones más importantes.
 

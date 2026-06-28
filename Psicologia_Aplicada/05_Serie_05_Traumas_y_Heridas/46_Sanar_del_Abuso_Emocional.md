@@ -135,7 +135,7 @@ Buscar ayuda para sanar del abuso no es debilidad. Es el acto más valiente que 
 
 Elena quiere una relación nueva pero tiene miedo de volver a elegir mal.
 
-**El Principio de la Recalibración del Sistema de Detección en Nuevas Relaciones:** El abuso emocional produce dos tipos de errores en las relaciones nuevas: la hipervigilancia (ver señales de abuso donde no las hay, cerrarse prematuramente), y la hipersensibilidad invertida (minimizar señales reales de abuso porque el sistema esta calibrado para tolerar patrones abusivos como normales).
+**El Principio de la Recalibración del Sistema de Detección en Nuevas Relaciones:** El abuso emocional produce dos tipos de errores en las relaciones nuevas: la hipervigilancia (ver señales de abuso donde no las hay, cerrarse prematuramente), y la hipersensibilidad invertida (minimizar señales reales de abuso porque el sistema está calibrado para tolerar patrones abusivos como normales).
 
 La investigación sugiere avanzar gradualmente en la intimidad, usar el apoyo terapéutico para procesar las reacciones a medida que la nueva relación se desarrolla, y desarrollar listas específicas de comportamientos en lugar de juicios globales.
 

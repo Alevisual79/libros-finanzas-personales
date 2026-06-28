@@ -85,7 +85,7 @@ La investigación de Chris Voss, negociador del FBI, sobre las técnicas de nego
 
 **Ejercicio inmediato:** En tu próxima conversación de persuasión, aplica la regla del 70/30: escucha el 70% del tiempo y habla el 30%. Antes de presentar tu propia perspectiva, resume la del interlocutor de forma que el pueda confirmar que lo has entendido correctamente. Esa confirmación crea la condición de apertura que hace posible la persuasión.
 
-La persona que se siente comprendida esta lista para escuchar. La que no, esta preparada para defender.
+La persona que se siente comprendida está lista para escuchar. La que no, esta preparada para defender.
 
 ---
 

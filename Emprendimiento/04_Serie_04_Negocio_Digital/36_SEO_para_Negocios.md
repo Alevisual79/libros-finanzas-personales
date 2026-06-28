@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos tiene un negocio online que no aparece en Google. Sus potenciales clientes buscan exactamente lo que el ofrece y el no aparece en ninguna de las búsquedas relevantes. Lucia tiene un blog con cien artículos que no genera trafico orgánico porque ninguno esta optimizado para las búsquedas que su audiencia hace. Marcos tiene una web profesional con un buen diseño que aparece en la página tres de Google para las búsquedas de su tipo de servicio. Los tres comparten el mismo problema: tienen un activo digital que no está generando el trafico orgánico que podría. El SEO no es un lujo para empresas grandes. Es la herramienta que hace que el negocio sea visible para las personas que ya lo estan buscando.
+Carlos tiene un negocio online que no aparece en Google. Sus potenciales clientes buscan exactamente lo que el ofrece y el no aparece en ninguna de las búsquedas relevantes. Lucia tiene un blog con cien artículos que no genera trafico orgánico porque ninguno está optimizado para las búsquedas que su audiencia hace. Marcos tiene una web profesional con un buen diseño que aparece en la página tres de Google para las búsquedas de su tipo de servicio. Los tres comparten el mismo problema: tienen un activo digital que no está generando el trafico orgánico que podría. El SEO no es un lujo para empresas grandes. Es la herramienta que hace que el negocio sea visible para las personas que ya lo estan buscando.
 
 ---
 
@@ -117,7 +117,7 @@ El artículo que responde la pregunta específica de tu cliente en la página un
 
 ---
 
-## Capítulo 8: Medir el SEO: como saber si la estrategia esta funcionando
+## Capítulo 8: Medir el SEO: como saber si la estrategia está funcionando
 
 Lucia ha aprendido a medir el SEO con las metricas correctas para saber que está funcionando y que no.
 

@@ -25,7 +25,7 @@ Este libro no es un argumento contra la tecnología. Es un argumento para usarla
 
 ## Capítulo 1: Lo que se pierde en la comunicación digital
 
-Cuando Ruben le manda un mensaje a su amigo voy bien, gracias!, su amigo recibe las palabras pero no el tono de voz que revelaria que Ruben esta agotado. No la postura que diria que algo no va bien. No la pausa antes de responder que en persona hubiera llevado a una pregunta de seguimiento.
+Cuando Ruben le manda un mensaje a su amigo voy bien, gracias!, su amigo recibe las palabras pero no el tono de voz que revelaria que Ruben está agotado. No la postura que diria que algo no va bien. No la pausa antes de responder que en persona hubiera llevado a una pregunta de seguimiento.
 
 **El Principio del Canal Empobrecido:** La comunicación digital elimina la mayor parte de los canales que hacen que la comunicación sea rica: el tono de voz, las expresiones faciales, la postura corporal, el ritmo de la conversación, el silencio cargado de significado. Lo que queda es el texto, que es el canal más pobre de todos para comunicar emociones complejas y estados internos sutiles.
 

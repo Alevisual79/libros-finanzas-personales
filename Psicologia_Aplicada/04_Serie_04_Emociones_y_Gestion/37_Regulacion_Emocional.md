@@ -91,7 +91,7 @@ Entre el estímulo y la respuesta hay un espacio. Ese espacio es donde vive tu l
 
 ## Capítulo 6: La regulación a traves del cuerpo: estrategias somaticas
 
-Ruben ha descubierto que cuando el nivel de activación es muy alto, las estrategias cognitivas no funcionan bien porque el acceso al cortex prefrontal esta reducido. En esos momentos, las estrategias que trabajan desde el cuerpo son más efectivas.
+Ruben ha descubierto que cuando el nivel de activación es muy alto, las estrategias cognitivas no funcionan bien porque el acceso al cortex prefrontal está reducido. En esos momentos, las estrategias que trabajan desde el cuerpo son más efectivas.
 
 **El Principio de la Regulación Descendente a Traves de lo Ascendente:** El sistema nervioso tiene dos vias: la descendente (cortex prefrontal hacía sistemas emocionales subcorticales) y la ascendente (señales corporales hacía sistemas emocionales). Cuando la activación es muy alta y la via descendente es poco accesible, las estrategias somaticas (ascendentes) son más efectivas.
 
@@ -99,7 +99,7 @@ Las estrategias somaticas con mayor soporte empirico incluyen: respiración lent
 
 **Ejercicio inmediato:** Identifica la estrategia somatica que más facilmente puedes implementar cuando el nivel de activación emocional es alto. Tener la estrategia elegida antes de necesitarla es la diferencia entre tener el extintor y buscarlo cuando ya hay fuego.
 
-Cuando la mente esta demasiado activada para pensar con claridad, empieza por el cuerpo.
+Cuando la mente está demasiado activada para pensar con claridad, empieza por el cuerpo.
 
 ---
 

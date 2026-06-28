@@ -117,7 +117,7 @@ El introvertido que se prepara bien no actua igual que el extravertido. Pero act
 
 ---
 
-## Capítulo 8: El mundo esta diseñado para los extravertidos: y que hacer con eso
+## Capítulo 8: El mundo está diseñado para los extravertidos: y que hacer con eso
 
 Elena (extravertida) ha asumido que el mundo funciona bien para todos. Ruben (introvertido) sabe que no.
 

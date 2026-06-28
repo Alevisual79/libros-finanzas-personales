@@ -139,7 +139,7 @@ Ruben sabe que la persona con la que lleva seis meses no es buena para el. Sus a
 
 **El Principio de la Intensidad como Señal Ambigua:** La intensidad emocional en una relación puede indicar compatibilidad profunda o puede indicar activación del sistema de apego por una relación que replica los patrones problematicos de la infancia. Las dos se sienten igual desde dentro. La diferencia esta en los resultados: una intensidad que produce conexión creciente, respeto mutuo y sensación de ser visto. Una intensidad que produce ansiedad, incertidumbre, y la sensación de que tienes que ganarte el afecto del otro.
 
-El cerebro racional que dice no no esta equivocado. Está procesando información que el sistema emocional está ignorando.
+El cerebro racional que dice no no está equivocado. Está procesando información que el sistema emocional está ignorando.
 
 **Ejercicio inmediato:** Si hay una discrepancia entre lo que sientes en una relación y lo que ves con claridad cuando lo analizas, escribe un párrafo describiendo la relación como si fuera la de un amigo. ¿Que le dirias a ese amigo? La distancia que da escribir en tercera persona suele revelar lo que la primera persona no puede ver.
 

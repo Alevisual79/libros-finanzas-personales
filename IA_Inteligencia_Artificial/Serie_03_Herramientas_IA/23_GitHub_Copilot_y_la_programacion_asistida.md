@@ -1,5 +1,5 @@
 # GitHub Copilot y la programación asistida por IA
-## Como la IA esta transformando el trabajo de los programadores
+## Como la IA está transformando el trabajo de los programadores
 
 **Serie 3: Herramientas de IA — Libro 3 de 10**
 
@@ -91,7 +91,7 @@ Elena usa un flujo que maximiza el valor de Copilot:
 
 **Dependencia excesiva:** Programadores que delegan demasiado pueden degradar sus habilidades de resolución de problemas.
 
-**Propiedad intelectual:** Copilot esta entrenado en código público de GitHub, incluyendo código con licencias restrictivas.
+**Propiedad intelectual:** Copilot está entrenado en código público de GitHub, incluyendo código con licencias restrictivas.
 
 **Seguridad:** Estudios muestran que Copilot a veces sugiere código con vulnerabilidades conocidas.
 

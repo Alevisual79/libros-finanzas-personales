@@ -49,7 +49,7 @@ Tu miedo no es el problema. Organizar tu vida entera alrededor de evitarlo, si.
 
 ## Capítulo 3: Exposición: el tratamiento que funciona
 
-Elena tiene una fobia a las inyecciones que la lleva a evitar chequeos médicos, análisis de sangre, y cualquier procedimiento que pueda involucrar una aguja. Su médico esta preocupado por la falta de seguimiento médico. Elena lo sabe y sigue evitando.
+Elena tiene una fobia a las inyecciones que la lleva a evitar chequeos médicos, análisis de sangre, y cualquier procedimiento que pueda involucrar una aguja. Su médico está preocupado por la falta de seguimiento médico. Elena lo sabe y sigue evitando.
 
 **El Principio de la Exposición como Recablearción Neural:** La exposición terapéutica al estímulo fobico, realizada de forma graduada y controlada sin la respuesta de evitación, es el tratamiento con mayor evidencia disponible para las fobias específicas. Un meta-análisis de Wolitzky-Taylor y colegas encontró tasas de respuesta del noventa por ciento para fobias específicas tratadas con exposición, con resultados que persisten a largo plazo.
 

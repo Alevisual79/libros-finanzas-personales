@@ -77,7 +77,7 @@ Las personas que dicen estar seguros al cien por cien casi nunca lo estan. Las q
 
 ## Capítulo 5: El premortem: imaginar el fracaso antes de decidir
 
-Ruben esta a punto de lanzar un nuevo servicio. Todo el equipo esta entusiasmado. Nadie ha dedicado tiempo real a imaginar como podría fracasar.
+Ruben está a punto de lanzar un nuevo servicio. Todo el equipo está entusiasmado. Nadie ha dedicado tiempo real a imaginar como podría fracasar.
 
 **El Principio del Premortem como Vacuna contra el Optimismo:** Gary Klein, que desarrollo la técnica del premortem, propone que antes de comprometerse con una decisión importante, el equipo o individuo dedique tiempo a imaginar que ha pasado un año y la decisión resultó ser un fracaso total o parcial, y luego genere con detalle todas las razones por las que eso podría haber ocurrido. Esta técnica, que invierte el sesgo de retrospectiva, activa el pensamiento crítico que el optimismo colectivo frecuentemente suprime en la fase de planificación.
 

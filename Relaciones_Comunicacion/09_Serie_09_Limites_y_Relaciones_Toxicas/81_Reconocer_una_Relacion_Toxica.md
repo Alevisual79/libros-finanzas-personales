@@ -49,7 +49,7 @@ Identificar señales de alarma específicas, incluso cuando aun parecen menores 
 
 **El Principio de las Señales Tempranas Frecuentemente Ignoradas:** Las señales de alarma temprana de relaciones potencialmente toxicas incluyen críticas frecuentes disfrazadas de honestidad, control creciente sobre decisiones que deberían ser autonomas, inconsistencia entre lo que se dice y lo que se hace, y la sensación subjetiva persistente de que algo no está bien, aun sin poder articular exactamente que es ese algo.
 
-**Ejercicio inmediato:** Para una relación que genera incomodidad difícil de articular, revisa esta lista de señales tempranas. ¿Cuantas reconoces presentes, aunque parezcan explicables individualmente?
+**Ejercicio inmediato:** Para una relación que genera incomodidad difícil de articular, revisa está lista de señales tempranas. ¿Cuantas reconoces presentes, aunque parezcan explicables individualmente?
 
 Las señales de alarma temprana frecuentemente se sienten, individualmente, como cosas que se pueden explicar o minimizar. Juntas, cuentan una historia diferente.
 

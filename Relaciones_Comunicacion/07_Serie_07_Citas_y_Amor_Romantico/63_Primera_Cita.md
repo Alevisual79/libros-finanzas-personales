@@ -133,7 +133,7 @@ Ciertos comportamientos específicos, identificados consistentemente en la inves
 
 **El Principio de los Errores Recurrentes Evitables:** Los comportamientos que más consistentemente generan impresiones negativas en primeras citas incluyen hablar predominantemente de uno mismo sin interés reciproco genuino, revisar constantemente el teléfono, hablar excesivamente mal de relaciones pasadas, y proyectar expectativas de compromiso desproporcionadas para una primera interacción.
 
-**Ejercicio inmediato:** Revisa esta lista de comportamientos problematicos e identifica honestamente si alguno es un patron que reconoces en tus propias citas pasadas. ¿Que ajuste específico podrías hacer en tu próxima cita?
+**Ejercicio inmediato:** Revisa está lista de comportamientos problematicos e identifica honestamente si alguno es un patron que reconoces en tus propias citas pasadas. ¿Que ajuste específico podrías hacer en tu próxima cita?
 
 Evitar los errores más comunes de las primeras citas no garantiza una conexión. Pero cometerlos consistentemente casi garantiza que no la habrá.
 

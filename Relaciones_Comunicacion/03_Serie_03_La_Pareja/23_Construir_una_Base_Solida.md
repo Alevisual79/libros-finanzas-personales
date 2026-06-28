@@ -113,7 +113,7 @@ El hallazgo más consistente de la investigación sobre satisfacción relacional
 
 La amistad profunda en la pareja no ocurre por accidente. Se construye con la intención de seguir conociendo al otro a medida que ambos cambian, con la práctica de la gratitud genuina, y con la elección de responder a las necesidades de conexión del otro aunque en ese momento haya cosas más urgentes que atender.
 
-**Ejercicio inmediato:** Esta semana, práctica el mapa del amor de Gottman: pregunta a tu pareja algo sobre su vida interior que no sepas todavía. Un sueño que tiene para los próximos cinco años, algo que lo preocupa en este momento, algo que le produce mucha alegria. Las respuestas te dicen si el mapa que tienes de el o ella esta actualizado o si llevas tiempo sin actualizarlo.
+**Ejercicio inmediato:** Esta semana, práctica el mapa del amor de Gottman: pregunta a tu pareja algo sobre su vida interior que no sepas todavía. Un sueño que tiene para los próximos cinco años, algo que lo preocupa en este momento, algo que le produce mucha alegria. Las respuestas te dicen si el mapa que tienes de el o ella está actualizado o si llevas tiempo sin actualizarlo.
 
 Conoces a tu pareja como era hace cinco años. Conocer a quien es hoy requiere seguir preguntando.
 

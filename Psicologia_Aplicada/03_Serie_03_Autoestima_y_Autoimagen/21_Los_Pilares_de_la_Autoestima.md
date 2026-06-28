@@ -39,7 +39,7 @@ Elena cree que su autoestima es baja y que solo puede mejorar cuando logre más 
 
 **El Principio de los Seis Pilares como prácticas, no como Logros:** Nathaniel Branden identifica seis prácticas que constituyen la autoestima: vivir conscientemente (prestar atención a la experiencia real en lugar de evitarla), autoaceptación (reconocerse sin negación ni sin exageración), autorresponsabilidad (asumir la responsabilidad de las propias elecciones y sus consecuencias), autoafirmación (defender las propias necesidades, valores y formas de ser), vivir con proposito (tener metas claras que guien las propias acciones), e integridad personal (actuar en congruencia con los propios valores).
 
-Lo crucial de esta lista es que son prácticas, no logros ni características fijas. No se tienen o no se tienen. Se ejercen o no se ejercen. Esto significa que la autoestima, en el modelo de Branden, no es algo que se obtiene con el éxito externo sino algo que se construye con la forma en que se vive cada dia, independientemente de los resultados.
+Lo crucial de está lista es que son prácticas, no logros ni características fijas. No se tienen o no se tienen. Se ejercen o no se ejercen. Esto significa que la autoestima, en el modelo de Branden, no es algo que se obtiene con el éxito externo sino algo que se construye con la forma en que se vive cada dia, independientemente de los resultados.
 
 **Ejercicio inmediato:** De los seis pilares, identifica el que más deliberadamente prácticas en tu vida actual y el que menos. La diferencia entre los dos señala el área de mayor potencial de crecimiento en tu autoestima.
 

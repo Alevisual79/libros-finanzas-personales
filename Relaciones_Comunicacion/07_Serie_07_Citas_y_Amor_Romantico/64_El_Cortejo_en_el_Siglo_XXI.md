@@ -37,7 +37,7 @@ Comunicar interés romantico de forma que sea percibida positivamente requiere c
 
 **El Principio de la Calibración de Intensidad:** Expresar interés de forma efectiva requiere observar y responder a las señales de reciprocidad de la otra persona, aumentando gradualmente la intensidad de la comunicación (frecuencia de mensajes, expresiones directas de interés) a medida que se observa reciprocidad correspondiente, en lugar de mantener una intensidad fija independientemente de la respuesta del otro.
 
-**Ejercicio inmediato:** Si estas en proceso de cortejo con alguien, evalua si tu nivel de intensidad de comunicación esta calibrado según la reciprocidad que observas, o si estas manteniendo una intensidad que podría sentirse desproporcionada respecto a la respuesta que recibes.
+**Ejercicio inmediato:** Si estas en proceso de cortejo con alguien, evalua si tu nivel de intensidad de comunicación está calibrado según la reciprocidad que observas, o si estas manteniendo una intensidad que podría sentirse desproporcionada respecto a la respuesta que recibes.
 
 Expresar interés no es sobre maximizar la intensidad. Es sobre calibrarla según la reciprocidad real que observas.
 

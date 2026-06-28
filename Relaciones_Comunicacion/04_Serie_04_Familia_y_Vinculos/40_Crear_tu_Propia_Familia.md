@@ -99,7 +99,7 @@ El trabajo de construir una familia consciente requiere identificar explicitamen
 
 **El Principio de los Valores Familiares Explicitos:** Las familias que operan con mayor cohesión y claridad son las que han identificado explicitamente sus valores fundamentales (que tipo de comunicación valoran, que importancia dan al trabajo versus al tiempo familiar, que principios éticos quieren transmitir), en lugar de operar según valores implícitos que nunca se han nombrado y que pueden generar confusión cuando diferentes miembros de la familia tienen interpretaciones distintas.
 
-**Ejercicio inmediato:** Escribe, juntó con tu pareja o tu familia si es apropiado, los tres a cinco valores fundamentales que quieres que definan a tu familia. Esta lista explícita se convierte en una guia para futuras decisiones familiares.
+**Ejercicio inmediato:** Escribe, juntó con tu pareja o tu familia si es apropiado, los tres a cinco valores fundamentales que quieres que definan a tu familia. Está lista explícita se convierte en una guia para futuras decisiones familiares.
 
 Una familia que sabe explicitamente que valora puede navegar decisiones difíciles con más claridad que una que opera por inercia.
 

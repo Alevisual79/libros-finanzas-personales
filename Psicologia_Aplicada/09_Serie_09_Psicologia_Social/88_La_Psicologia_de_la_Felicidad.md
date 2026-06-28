@@ -29,7 +29,7 @@ La investigación de Sonja Lyubomirsky, Kennon Sheldon, y David Schkade propone 
 
 **Ejercicio inmediato:** Recuerda algo importante que obtuviste o lograste en los últimos tres años que crelias que te haría permanentemente más feliz. Compara cuanto tiempo te duro el aumento de felicidad con cuanto tiempo esperabas que durara. Esa diferencia es la adaptación hedonica en acción. No para desanimarte sino para calibrar mejor cuanto depender de los logros externos como estrategia de felicidad a largo plazo.
 
-La felicidad que depende de lo que consigues es una felicidad que siempre esta a punto de empezar.
+La felicidad que depende de lo que consigues es una felicidad que siempre está a punto de empezar.
 
 ---
 

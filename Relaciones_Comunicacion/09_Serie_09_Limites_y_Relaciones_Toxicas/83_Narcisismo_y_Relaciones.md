@@ -49,7 +49,7 @@ Identificar patrones consistentes asociados con rasgos narcisistas significativo
 
 **El Principio de los Patrones Característicos:** Las personas con rasgos narcisistas significativos tipicamente muestran necesidad constante de admiración y validación, dificultad genuina para reconocer o validar las perspectivas y necesidades de otros, sensibilidad extrema a la crítica que se traduce en reacciones desproporcionadas, y una tendencia a usar a las personas cercanas instrumentalmente para sus propios objetivos de validación o beneficio.
 
-**Ejercicio inmediato:** Revisa esta lista de patrones característicos contra tu observación de la persona que te preocupa. ¿Cuantos de estos patrones reconoces como presentes de forma consistente?
+**Ejercicio inmediato:** Revisa está lista de patrones característicos contra tu observación de la persona que te preocupa. ¿Cuantos de estos patrones reconoces como presentes de forma consistente?
 
 Reconocer estos patrones específicos, en lugar de una impresión vaga de que algo no está bien, ayuda a evaluar con más precisión la naturaleza de la dinámica relacional.
 

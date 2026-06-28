@@ -35,7 +35,7 @@ No toda situación difícil se puede cambiar inmediatamente. Pero siempre puedes
 
 Desarrollar espacios y momentos específicos de bienestar dentro de un entorno general difícil, en lugar de esperar que el bienestar dependa de cambiar todo el contexto, es una estrategia práctica de protección inmediata.
 
-**El Principio de las Burbujas Protectoras:** Crear deliberadamente momentos o espacios específicos donde el bienestar esta protegido (un ritual de pausa durante el dia laboral difícil, una actividad que genera alegria independiente del contexto general difícil) proporciona alivio real y sostenible, incluso cuando el contexto general no puede cambiarse inmediatamente.
+**El Principio de las Burbujas Protectoras:** Crear deliberadamente momentos o espacios específicos donde el bienestar está protegido (un ritual de pausa durante el dia laboral difícil, una actividad que genera alegria independiente del contexto general difícil) proporciona alivio real y sostenible, incluso cuando el contexto general no puede cambiarse inmediatamente.
 
 **Ejercicio inmediato:** Identifica una burbuja de bienestar específica que podrías crear dentro de tu contexto difícil actual: un momento del dia, una actividad, un espacio físico que protejas deliberadamente.
 

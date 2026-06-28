@@ -27,7 +27,7 @@ El aplazamiento de conversaciones familiares importantes no es simple pereza o f
 
 **El Principio de la Evitación Protectora:** Las conversaciones familiares que más se aplazan son las que involucran mayor vulnerabilidad emocional: expresar admiración, pedir perdon, confrontar un daño pasado. El aplazamiento funciona como una protección temporal contra el riesgo percibido (rechazó, conflicto, vergüenza), pero ese riesgo percibido frecuentemente es mayor que el riesgo real, y el coste de la evitación prolongada (la distancia emocional acumulada) suele ser mayor que el coste de la conversación misma.
 
-**Ejercicio inmediato:** Identifica una conversación familiar que llevas posponiendo. ¿Que es exactamente lo que temes que ocurra si la tienes? Evalua si ese temor específico es realista o si esta inflado por la ansiedad de la anticipación.
+**Ejercicio inmediato:** Identifica una conversación familiar que llevas posponiendo. ¿Que es exactamente lo que temes que ocurra si la tienes? Evalua si ese temor específico es realista o si está inflado por la ansiedad de la anticipación.
 
 Lo que tememos de una conversación difícil casi siempre es peor en nuestra imaginación que en la realidad.
 

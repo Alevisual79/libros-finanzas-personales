@@ -27,7 +27,7 @@ La influencia no es magia. Tiene una estructura.
 
 Cialdini propone que estos principios son atajos cognitivos evolutivamente adaptativos: en la mayoría de los casos, seguirlos produce mejores resultados que deliberar cada decisión. Su problema es que pueden ser explotados deliberadamente por quienes los conocen y quieren aprovecharse de ellos.
 
-**Ejercicio inmediato:** En la próxima situación donde te sientas presionado a hacer algo, reflexiona: ¿cual de los seis principios de Cialdini esta activo? ¿Alguien te ha dado algo primero (reciprocidad)? ¿La oferta esta a punto de desaparecer (escasez)? ¿Una figura de autoridad lo recomienda? Identificar el principio activo no significa necesariamente resistirlo (puede ser legitimo) sino elegir conscientemente.
+**Ejercicio inmediato:** En la próxima situación donde te sientas presionado a hacer algo, reflexiona: ¿cual de los seis principios de Cialdini esta activo? ¿Alguien te ha dado algo primero (reciprocidad)? ¿La oferta está a punto de desaparecer (escasez)? ¿Una figura de autoridad lo recomienda? Identificar el principio activo no significa necesariamente resistirlo (puede ser legitimo) sino elegir conscientemente.
 
 La influencia que no reconoces no puedes evaluarla. La que reconoces puedes gestionarla.
 

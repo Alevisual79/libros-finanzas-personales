@@ -27,7 +27,7 @@ Gary Chapman, pastor y consejero matrimonial, observo algo después de décadas 
 
 Chapman identifico cinco formas principales en que las personas expresan y perciben el amor: palabras de afirmación, tiempo de calidad, regalos, actos de servicio y contacto físico. Cada persona tiene uno o dos lenguajes primarios que son los que más necesita recibir y los que más naturalmente da.
 
-**El Principio del Lenguaje Principal:** El lenguaje del amor principal no es una preferencia superficial. Corresponde a la forma en que la persona procesa el afecto a nivel emocional profundo. Cuando el otro habla el lenguaje equivocado, aunque lo haga con toda la intención del mundo, el mensaje de amor no llega. No porque no se enviara sino porque el receptor no esta equipado para recibirlo en ese canal.
+**El Principio del Lenguaje Principal:** El lenguaje del amor principal no es una preferencia superficial. Corresponde a la forma en que la persona procesa el afecto a nivel emocional profundo. Cuando el otro habla el lenguaje equivocado, aunque lo haga con toda la intención del mundo, el mensaje de amor no llega. No porque no se enviara sino porque el receptor no está equipado para recibirlo en ese canal.
 
 Chapman desarrollo el modelo a partir de su trabajo con cientos de parejas. Descubrio que la mayoría de los conflictos que presentaban como falta de amor eran en realidad conflictos de idioma: uno decía te quiero con palabras mientras el otro esperaba actos. Uno decía te quiero con regalos mientras el otro esperaba tiempo.
 
@@ -87,7 +87,7 @@ Cuando la pareja de Elena le deja el coche con el deposito lleno porque sabe que
 
 **El Principio del Servicio como Expresión:** Para las personas cuyo lenguaje del amor son los actos de servicio, lo que dice te quiero más alto es ayudar, hacer algo por el otro, aliviar su carga. No las palabras. No el tiempo. Las acciones concretas que hacen la vida del otro un poco más fácil o más agradable.
 
-Los actos de servicio incluyen: hacer tareas del hogar sin que se pida, encargarse de algo que el otro odia hacer, anticipar lo que el otro necesita y tenerlo preparado, ayudar en un proyecto, llevar los niños al colegio el dia en que el otro esta agotado. La clave es que sean genuinamente voluntarios y no se usen como herramienta de deuda.
+Los actos de servicio incluyen: hacer tareas del hogar sin que se pida, encargarse de algo que el otro odia hacer, anticipar lo que el otro necesita y tenerlo preparado, ayudar en un proyecto, llevar los niños al colegio el dia en que el otro está agotado. La clave es que sean genuinamente voluntarios y no se usen como herramienta de deuda.
 
 **Ejercicio inmediato:** Identifica a alguien cuyo lenguaje del amor puede ser los actos de servicio. Observa que es lo que más le cuesta o lo que más le ocupa en este momento. Esta semana, hazle una de esas cosas sin que te lo pida. No lo menciones. Solo hazlo. Observa cómo lo recibe.
 

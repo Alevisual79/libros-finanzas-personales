@@ -91,7 +91,7 @@ La meditación no te libra de los pensamientos ansiosos. Te libra de tener que o
 
 ## Capítulo 6: Activación conductual y su efecto sobre la ansiedad
 
-Ruben, cuando esta muy ansioso, tiende a paralizarse: cancela planes, reduce actividades, se queda en casa. Esta reducción de actividad parece lógica (hay menos estímulos que pueden activar ansiedad) pero en la práctica amplifica el problema.
+Ruben, cuando está muy ansioso, tiende a paralizarse: cancela planes, reduce actividades, se queda en casa. Esta reducción de actividad parece lógica (hay menos estímulos que pueden activar ansiedad) pero en la práctica amplifica el problema.
 
 **El Principio de la Activación como Regulador del Ánimo y la Ansiedad:** La activación conductual, técnica desarrollada originalmente para la depresión por Peter Lewinsohn, trabaja sobre el principio de que el comportamiento y el estado emocional se influyen mutuamente. Cuando la ansiedad reduce la actividad, reduce también las fuentes de refuerzo positivo, competencia y dominio que regulan el estado emocional hacía arriba. La activación deliberada en actividades de dominio y placer, aunque inicialmente se haga sin ganas, rompe este ciclo descendente.
 

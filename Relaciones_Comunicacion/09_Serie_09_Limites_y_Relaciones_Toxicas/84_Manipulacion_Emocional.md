@@ -37,7 +37,7 @@ Identificar las tacticas específicas de manipulación emocional, más que tener
 
 **El Principio de la Taxonomia de Tacticas:** Las técnicas de manipulación emocional más comunes incluyen la inducción de culpa, el victimismo estratégico, el silencio punitivo, la triangulación con terceros, el gaslighting sobre la realidad compartida, y el amor condicionado (retirar afecto como castigo o recompensa por cumplimiento). Cada una opera a traves de un mecanismo psicológico específico que se beneficia de ser entendido individualmente.
 
-**Ejercicio inmediato:** Revisa esta lista de tacticas y, para una relación que te genera incomodidad, identifica si reconoces alguna de ellas operando específicamente.
+**Ejercicio inmediato:** Revisa está lista de tacticas y, para una relación que te genera incomodidad, identifica si reconoces alguna de ellas operando específicamente.
 
 Conocer los nombres específicos de las tacticas de manipulación te da herramientas concretas para identificarlas, en lugar de solo sentir una incomodidad vaga sin poder nombrarla.
 

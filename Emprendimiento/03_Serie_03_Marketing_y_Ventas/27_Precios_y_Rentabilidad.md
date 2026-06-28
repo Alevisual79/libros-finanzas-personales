@@ -127,7 +127,7 @@ La investigación de SCORE sobre la salud financiera de las pequeñas empresas m
 
 **Ejercicio inmediato:** Calcula el margen neto de tu negocio para el último trimestre: total de ingresos menos todos los costes (costes directos, gastos fijos, sueldos, y costes de ventas y marketing) dividido entre los ingresos totales. Si el resultado es inferior al 15%, tu negocio tiene una problematica de rentabilidad que hay que resolver con una combinación de subida de precios, reducción de costes, o ambas. El margen que no es suficiente no es sostenible independientemente del revenue que generes.
 
-El negocio que genera mucho revenue y poco margen esta muy ocupado para ser pobre.
+El negocio que genera mucho revenue y poco margen está muy ocupado para ser pobre.
 
 ---
 

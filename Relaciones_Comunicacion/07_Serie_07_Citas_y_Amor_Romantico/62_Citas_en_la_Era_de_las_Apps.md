@@ -51,7 +51,7 @@ El formato de muchas aplicaciones de citas, que presenta un flujo constante de n
 
 **Ejercicio inmediato:** Evalua tu propio patron de uso de aplicaciones de citas. Te encuentras deslizando compulsivamente sin proposito claro, o usas la aplicación con intención limitada y específica?
 
-El deslizamiento infinito esta diseniado para mantenerte usando la app, no necesariamente para ayudarte a encontrar una conexión real.
+El deslizamiento infinito está diseniado para mantenerte usando la app, no necesariamente para ayudarte a encontrar una conexión real.
 
 ---
 

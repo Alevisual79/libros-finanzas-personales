@@ -131,7 +131,7 @@ El onboarding que se hace igual de bien para el cliente número uno y para el cl
 
 ---
 
-## Capítulo 9: Medir la automatización: como saber que esta funcionando
+## Capítulo 9: Medir la automatización: como saber que está funcionando
 
 Marcos ha aprendido a medir el impacto de la automatización en terminos de tiempo ahorrado y revenue generado.
 
