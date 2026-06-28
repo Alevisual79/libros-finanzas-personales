@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El número que no duele pero mata
+### Prólogo: El número que no duele pero mata
 
 Carmen lleva años con la tensión "un poco alta". El médico se lo dice en cada visita. Le ha puesto medicación. Ella la toma, más o menos. Cuando se le olvida unos días, no nota nada. Cuando el médico le dice que hay que controlarla mejor, asiente y no cambia nada.
 

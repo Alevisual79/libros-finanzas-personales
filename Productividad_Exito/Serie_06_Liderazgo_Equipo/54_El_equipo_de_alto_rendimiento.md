@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La suma que no llegaba a la suma
+### Prólogo: La suma que no llegaba a la suma
 
 Isabel tenía en su equipo cinco personas individualmente muy competentes. El equipo, sin embargo, producía resultados mediocres.
 

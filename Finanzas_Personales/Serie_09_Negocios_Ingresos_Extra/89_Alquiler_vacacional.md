@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La plaza de garaje de Don Alberto
+### Prólogo: La plaza de garaje de Don Alberto
 
 Don Alberto tiene, desde hace años, una plaza de garaje que no usa porque ya no conduce con la frecuencia de antes. Durante mucho tiempo, simplemente la dejó vacía, como un espacio más de la comunidad que pagaba sin pensarlo demasiado.
 

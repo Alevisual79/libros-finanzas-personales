@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La frase que cambio la perspectiva de Isabel
+### Prólogo: La frase que cambio la perspectiva de Isabel
 
 Isabel asistió a una conferencia donde un directivo citó a Peter Drucker: "La cultura come a la estrategia en el desayuno."
 

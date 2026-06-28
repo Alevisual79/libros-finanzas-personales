@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que Marta no encontró en ningún tutorial
+### Prólogo: Lo que Marta no encontró en ningún tutorial
 
 Cuando Marta empezó a buscar información sobre cómo crecer más allá de sus primeros clientes de diseño, encontró cientos de vídeos y artículos sobre "cómo ganar dinero online". Casi todos mostraban los picos. "Facturé cincuenta mil euros en un mes." Lo que ninguno mostraba era que ese mes había llegado después de tres años de trabajo constante, de una inversión considerable en publicidad, y de una audiencia construida pacientemente durante mucho tiempo.
 

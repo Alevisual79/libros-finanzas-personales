@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La diferencia entre una crisis y un problema
+### Prólogo: La diferencia entre una crisis y un problema
 
 Hay dos tipos de situaciones cuando algo sale mal.
 

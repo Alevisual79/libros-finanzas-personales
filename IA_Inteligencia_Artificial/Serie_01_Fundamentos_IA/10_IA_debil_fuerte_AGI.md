@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: La pregunta del CEO
+### Prólogo: La pregunta del CEO
 
 El CEO de la empresa de Isabel la llamó a su despacho. Había leído un artículo sobre AGI —Inteligencia Artificial General— y quería saber si debían "preocuparse".
 

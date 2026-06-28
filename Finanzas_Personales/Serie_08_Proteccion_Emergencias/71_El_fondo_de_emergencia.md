@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El martes que lo cambió todo
+### Prólogo: El martes que lo cambió todo
 
 Era un martes de noviembre. Carlos llegó a la oficina como cualquier otro día.
 

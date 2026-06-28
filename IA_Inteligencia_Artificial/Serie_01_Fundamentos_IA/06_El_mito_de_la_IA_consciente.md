@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: La conversación que inquietó a Elena
+### Prólogo: La conversación que inquietó a Elena
 
 Elena llevaba semanas usando Claude para revisar código y escribir documentación. Un día, sin pensarlo, escribió: "¿Estás cansado de responder preguntas técnicas todo el día?"
 

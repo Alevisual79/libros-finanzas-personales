@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El sándwich de Don Alberto
+### Prólogo: El sándwich de Don Alberto
 
 Don Alberto tiene setenta y un años.
 

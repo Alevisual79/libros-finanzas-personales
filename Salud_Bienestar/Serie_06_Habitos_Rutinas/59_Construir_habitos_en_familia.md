@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La familia que no acompaña
+### Prólogo: La familia que no acompaña
 
 Laura ha decidido comer mejor. Ha cambiado el aceite, ha reducido los ultraprocesados, ha añadido más verdura a las cenas.
 

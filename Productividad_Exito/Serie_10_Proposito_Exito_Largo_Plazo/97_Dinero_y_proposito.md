@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La falsa dicotomía
+### Prólogo: La falsa dicotomía
 
 Rubén llevaba años creyendo que tenía que elegir: o el trabajo que le gustaba (ingresos inciertos, propósito alto) o el trabajo que pagaba bien (ingresos estables, propósito bajo).
 

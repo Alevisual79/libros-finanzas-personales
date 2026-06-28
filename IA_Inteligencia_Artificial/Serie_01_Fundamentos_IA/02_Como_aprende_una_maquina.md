@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: La apuesta de Isabel
+### Prólogo: La apuesta de Isabel
 
 Isabel era directora de RRHH y necesitaba entender por qué el nuevo sistema de selección de currículos que su empresa había comprado "discriminaba" contra ciertos perfiles. El proveedor habló de "sesgos en los datos de entrenamiento". Ella asintió educadamente sin entender nada.
 

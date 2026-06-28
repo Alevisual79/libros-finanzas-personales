@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El cansancio que no termina
+### Prólogo: El cansancio que no termina
 
 Laura tiene dos hijos. Sofía, doce años, y Álvaro, nueve. Desde que nacieron, la privación de sueño ha sido el estado de fondo de su vida.
 

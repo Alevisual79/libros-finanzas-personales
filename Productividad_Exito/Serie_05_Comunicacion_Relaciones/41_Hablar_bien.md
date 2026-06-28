@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La reunión que Elena perdio sin decir nada
+### Prólogo: La reunión que Elena perdio sin decir nada
 
 Elena tenía la mejor propuesta de la reunión. Lo sabía. Había analizado el problema con más profundidad que nadie.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pregunta que nadie quiere hacer
+### Prólogo: La pregunta que nadie quiere hacer
 
 ¿Crees que mereces ganar más de lo que ganas?
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El sábado que Carlos facturó por primera vez
+### Prólogo: El sábado que Carlos facturó por primera vez
 
 Eran las once de la mañana de un sábado de febrero.
 

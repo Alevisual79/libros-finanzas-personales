@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La voz que nunca descansa
+### Prólogo: La voz que nunca descansa
 
 Eran las once de la noche y Rubén llevaba dos horas mirando la pantalla en blanco.
 

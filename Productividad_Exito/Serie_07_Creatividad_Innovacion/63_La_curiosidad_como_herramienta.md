@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pregunta que abrió el negocio
+### Prólogo: La pregunta que abrió el negocio
 
 Rubén llevaba meses trabajando en la estrategia de contenido de un cliente de e-commerce. Los resultados eran correctos pero no sobresalientes.
 

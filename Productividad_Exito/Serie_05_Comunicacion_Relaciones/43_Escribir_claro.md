@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El correo que nadie leyó
+### Prólogo: El correo que nadie leyó
 
 Elena envió un correo de quinientas palabras a su equipo explicando el nuevo proceso de revisión de código. Era exhaustivo, preciso y completo.
 

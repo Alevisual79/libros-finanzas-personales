@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El problema con los pensamientos en bucle
+### Prólogo: El problema con los pensamientos en bucle
 
 Rubén llevaba tres días dando vueltas al mismo problema: cómo reorganizar su equipo para el nuevo proyecto.
 

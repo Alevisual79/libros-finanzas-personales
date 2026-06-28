@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La conversación sobre el futuro que Elena nunca había tenido
+### Prólogo: La conversación sobre el futuro que Elena nunca había tenido
 
 Elena tenía objetivos trimestrales, objetivos anuales, revisiones de desempeño con objetivos para los próximos seis meses.
 

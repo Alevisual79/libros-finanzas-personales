@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El aislamiento invisible
+### Prólogo: El aislamiento invisible
 
 Carmen vive sola desde que murió su marido hace cuatro años. Tiene tres hijos. La llaman por teléfono. La visitan en Navidad.
 

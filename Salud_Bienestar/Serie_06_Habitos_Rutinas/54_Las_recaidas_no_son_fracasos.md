@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El miércoles que lo arruinó todo
+### Prólogo: El miércoles que lo arruinó todo
 
 Miguel llevaba tres semanas comiendo bien, sin alcohol y haciendo ejercicio cuatro veces por semana. El miércoles paso algo en el trabajo. Llegó a casa enfadado, exhausto y comió lo que había en la nevera: sobras del día anterior, media tableta de chocolate y tres cervezas.
 

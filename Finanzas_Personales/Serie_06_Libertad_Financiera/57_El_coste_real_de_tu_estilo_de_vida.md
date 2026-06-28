@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El garaje del cuñado
+### Prólogo: El garaje del cuñado
 
 El cuñado tiene un garaje. No lo usa para aparcar el coche, porque el coche cabe justo en la plaza del sótano del edificio. Lo usa para guardar cosas.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El mito del tiempo que falta
+### Prólogo: El mito del tiempo que falta
 
 Elena tiene el mismo tiempo que Einstein. Que Beethoven. Que cualquier persona que haya dejado huella en el mundo.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El trabajador de turno
+### Prólogo: El trabajador de turno
 
 Andrés trabaja en un hospital. Tres semanas de turno de día, una semana de turno de noche. Lleva doce años haciéndolo.
 

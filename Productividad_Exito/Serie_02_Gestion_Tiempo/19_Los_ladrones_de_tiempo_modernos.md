@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El robo que no sientes
+### Prólogo: El robo que no sientes
 
 Rubén instala una aplicación de monitorización de tiempo en su teléfono. Una semana después, revisa los datos.
 

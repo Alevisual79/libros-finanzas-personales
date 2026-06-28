@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El plástico más rentable de la historia
+### Prólogo: El plástico más rentable de la historia
 
 El banco no te regaló la tarjeta de crédito porque le caes bien.
 

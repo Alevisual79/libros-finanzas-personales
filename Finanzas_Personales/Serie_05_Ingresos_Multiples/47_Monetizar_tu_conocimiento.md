@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ebook que Marta escribió en dos semanas
+### Prólogo: El ebook que Marta escribió en dos semanas
 
 Marta llevaba cuatro años diseñando para pequeñas empresas cuando identificó un patrón que le resultaba frustrante.
 

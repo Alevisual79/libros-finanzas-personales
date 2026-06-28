@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La privación que normalizamos
+### Prólogo: La privación que normalizamos
 
 España duerme menos que la media europea. El español medio duerme 40 minutos menos que hace 20 años.
 

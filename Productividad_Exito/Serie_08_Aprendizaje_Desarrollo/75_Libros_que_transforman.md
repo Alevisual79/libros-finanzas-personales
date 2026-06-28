@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Cincuenta libros leídos, ningún cambio
+### Prólogo: Cincuenta libros leídos, ningún cambio
 
 Rubén había leído más de cincuenta libros de desarrollo profesional en cuatro años. Los tenía en la estantería. Podía citar los títulos. Recordaba vagamente algunos conceptos.
 

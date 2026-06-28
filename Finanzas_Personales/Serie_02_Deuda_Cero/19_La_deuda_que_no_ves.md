@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El dinero que desaparece sin rastro
+### Prólogo: El dinero que desaparece sin rastro
 
 Carlos hace el ejercicio de calcular cuánto tiene al final de mes.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que don Alberto debería haber hecho
+### Prólogo: Lo que don Alberto debería haber hecho
 
 Don Alberto no invirtió en bolsa durante cuarenta y tres años de vida laboral.
 

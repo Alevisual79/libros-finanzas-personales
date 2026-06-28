@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El programador que ya no programa solo
+### Prólogo: El programador que ya no programa solo
 
 Elena lleva diez años programando. Los últimos dos años, nunca programa sola.
 

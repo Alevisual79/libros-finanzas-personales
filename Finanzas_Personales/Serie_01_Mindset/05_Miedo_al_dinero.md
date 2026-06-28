@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La paradoja del deseo y el miedo
+### Prólogo: La paradoja del deseo y el miedo
 
 Hay algo extraño que ocurre cuando hablas de dinero con la gente.
 

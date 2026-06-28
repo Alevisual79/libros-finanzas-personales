@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La tarde del supermercado
+### Prólogo: La tarde del supermercado
 
 Lucía tiene ocho años. Marcos tiene cinco.
 

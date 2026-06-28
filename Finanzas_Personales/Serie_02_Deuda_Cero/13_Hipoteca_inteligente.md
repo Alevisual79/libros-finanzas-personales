@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El préstamo más grande de tu vida
+### Prólogo: El préstamo más grande de tu vida
 
 La hipoteca es probablemente el mayor compromiso financiero que vas a tomar en tu vida.
 

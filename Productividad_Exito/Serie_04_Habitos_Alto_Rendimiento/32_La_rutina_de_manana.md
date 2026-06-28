@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La mañana que se diseñó sola
+### Prólogo: La mañana que se diseñó sola
 
 Elena se levanta a las 7:15. Snooze al 7:24. Sale de la cama a las 7:31. Ducha rápida. Café con el teléfono en la mano revisando las noticias. Ropa mientras piensa en la reunión de las nueve. Salida corriendo a las 7:58.
 

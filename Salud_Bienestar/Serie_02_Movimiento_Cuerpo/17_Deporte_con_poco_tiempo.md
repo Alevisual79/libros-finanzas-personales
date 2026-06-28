@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La excusa que todos usamos
+### Prólogo: La excusa que todos usamos
 
 "No tengo tiempo para hacer ejercicio."
 

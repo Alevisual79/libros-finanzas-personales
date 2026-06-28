@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El maratonista a mitad de carrera
+### Prólogo: El maratonista a mitad de carrera
 
 Hay un fenómeno conocido entre los maratonistas: la milla veinte.
 

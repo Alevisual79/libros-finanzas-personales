@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La oferta que Javier recibió un martes
+### Prólogo: La oferta que Javier recibió un martes
 
 Javier era compañero de trabajo de Carlos desde hacía siete años. Habían empezado en la misma empresa casi al mismo tiempo, habían compartido proyectos, habían comido juntos más veces de las que recordaban. Cuando a Javier le llegó la oferta de trabajo de una empresa en Dubái, la primera persona a la que se lo contó fue a Carlos.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La crisis que reveló al líder
+### Prólogo: La crisis que reveló al líder
 
 El proyecto más importante del año de Elena iba bien hasta que no. Un proveedor clave falló. El plazo era en tres semanas. El cliente empezaba a perder la confianza.
 

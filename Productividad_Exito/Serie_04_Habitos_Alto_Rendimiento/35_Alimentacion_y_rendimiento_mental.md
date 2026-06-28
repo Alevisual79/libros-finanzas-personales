@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El almuerzo que destruyó la tarde
+### Prólogo: El almuerzo que destruyó la tarde
 
 Elena tenía una reunión importante a las 15:00. Almorzó rápido: pizza de la cafetería y un refresco.
 

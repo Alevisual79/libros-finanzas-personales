@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El dilema del escritor
+### Prólogo: El dilema del escritor
 
 Ruben era buen escritor. Sus propuestas ganaban cuentas. Sus artículos conseguian engagement. Pero cada pieza de contenido le costaba tiempo que no tenía.
 

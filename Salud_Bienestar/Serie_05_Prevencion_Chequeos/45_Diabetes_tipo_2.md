@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La enfermedad que avanza sin avisar
+### Prólogo: La enfermedad que avanza sin avisar
 
 La glucosa de Carmen lleva tres años "un poco alta". 108 mg/dL. 111 mg/dL. 115 mg/dL. Cada año el médico dice "hay que cuidarse". Ella asiente. Luego no cambia nada.
 

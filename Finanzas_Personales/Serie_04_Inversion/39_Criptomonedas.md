@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La cena en la que todos tenían razón y nadie sabía nada
+### Prólogo: La cena en la que todos tenían razón y nadie sabía nada
 
 En la cena de Navidad de 2021, Bitcoin estaba a 60.000 dólares.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El cuñado que compró en 2006
+### Prólogo: El cuñado que compró en 2006
 
 El cuñado compró un piso de dos dormitorios en un municipio del extrarradio en 2006.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La inversión que nadie garantiza
+### Prólogo: La inversión que nadie garantiza
 
 Te dijeron que estudiar era lo más importante.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La fiesta que Elena evitaba
+### Prólogo: La fiesta que Elena evitaba
 
 Elena recibía invitaciones a eventos de networking del sector tecnológico. Las aceptaba. Y luego buscaba razones para no ir.
 

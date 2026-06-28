@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La curva de obsolescencia
+### Prólogo: La curva de obsolescencia
 
 El mentor guardaba un artículo de 1998 que describía las habilidades más valoradas en el mercado laboral. Lo leía de vez en cuando.
 

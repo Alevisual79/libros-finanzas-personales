@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La conversación de Carlos y Ana en el coche
+### Prólogo: La conversación de Carlos y Ana en el coche
 
 Carlos y Ana estaban conduciendo de vuelta de la revisión del ginecólogo. Ana tenía cinco semanas de embarazo. Era el primer embarazo. Lucía todavía no existía más que como una pequeña forma en una pantalla de ultrasonido.
 

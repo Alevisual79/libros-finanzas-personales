@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El cansancio que no tiene explicación obvia
+### Prólogo: El cansancio que no tiene explicación obvia
 
 Laura duerme 7 horas y se despierta agotada. No tiene insomnio. No tiene hijos pequeños. No trabaja más de lo razonable.
 

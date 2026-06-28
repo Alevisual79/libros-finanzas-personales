@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El orden que lo cambia todo
+### Prólogo: El orden que lo cambia todo
 
 Hay una secuencia que define si ahorras o no ahorras.
 

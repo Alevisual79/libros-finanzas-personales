@@ -48,8 +48,9 @@ EN_BIO_NEW = (
     "further than any author could reach alone."
 )
 
-RE_ES_PROLOG = re.compile(r'^## Prólogo\s*$', re.MULTILINE)
-RE_EN_PROLOG = re.compile(r'^## Prologue\s*$', re.MULTILINE)
+# Captura "## Prólogo" con o sin ": subtítulo" al final de la línea
+RE_ES_PROLOG = re.compile(r'^## (Prólogo\b.*)', re.MULTILINE)
+RE_EN_PROLOG = re.compile(r'^## (Prologue\b.*)', re.MULTILINE)
 
 
 def patch_file(path, is_es):
@@ -59,13 +60,13 @@ def patch_file(path, is_es):
     original = text
 
     if is_es:
-        # 1. ## Prólogo → ### Prólogo
-        text = RE_ES_PROLOG.sub('### Prólogo', text)
+        # 1. ## Prólogo[: subtítulo] → ### Prólogo[: subtítulo]
+        text = RE_ES_PROLOG.sub(r'### \1', text)
         # 2. Bio ES
         text = text.replace(ES_BIO_OLD, ES_BIO_NEW)
     else:
-        # 1. ## Prologue → ### Prologue
-        text = RE_EN_PROLOG.sub('### Prologue', text)
+        # 1. ## Prologue[: subtitle] → ### Prologue[: subtitle]
+        text = RE_EN_PROLOG.sub(r'### \1', text)
         # 2. Bio EN
         text = text.replace(EN_BIO_OLD, EN_BIO_NEW)
 

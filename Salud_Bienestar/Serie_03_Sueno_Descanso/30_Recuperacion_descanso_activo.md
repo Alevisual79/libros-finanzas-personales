@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Descansar es más que dormir
+### Prólogo: Descansar es más que dormir
 
 Carmen lleva tres meses haciendo ejercicio regularmente. Camina 40 minutos cada día y ha vuelto a la piscina dos veces por semana. Se siente mejor que en años.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ejercicio que ya sabes hacer
+### Prólogo: El ejercicio que ya sabes hacer
 
 No requiere entrenador. No requiere gym. No requiere equipamiento. No requiere aprender ninguna técnica.
 

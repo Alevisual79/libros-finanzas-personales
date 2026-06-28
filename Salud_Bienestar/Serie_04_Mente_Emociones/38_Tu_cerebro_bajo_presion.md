@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El cerebro que ya no funciona como antes
+### Prólogo: El cerebro que ya no funciona como antes
 
 Miguel no sabe qué le pasa. Tiene treinta y cinco años y siente que su cerebro ya no funciona como a los veinte.
 

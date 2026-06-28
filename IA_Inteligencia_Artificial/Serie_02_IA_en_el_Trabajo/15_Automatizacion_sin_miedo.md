@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El proceso que nadie quería tocar
+### Prólogo: El proceso que nadie quería tocar
 
 Isabel llevaba años queriendo mejorar el proceso de onboarding de empleados nuevos. Cuatro semanas de papeleo, reuniones repetidas y formación genérica. Nadie quería tocarlo porque "siempre había funcionado así" y tenía demasiadas dependencias.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El proyecto que se canceló
+### Prólogo: El proyecto que se canceló
 
 Elena llevaba seis meses trabajando en un sistema de migración de datos para el cliente más grande de la empresa. El proyecto era visible, estratégico y, para Elena, una oportunidad de demostrar que podía gestionar algo de esta escala.
 

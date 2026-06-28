@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El análisis de la semana de Rubén
+### Prólogo: El análisis de la semana de Rubén
 
 Rubén dedicó una semana a registrar minuto a minuto en qué usaba el tiempo. El resultado fue revelador y algo deprimente: reuniones (22%), emails (18%), escritura de documentos y propuestas (20%), trabajo creativo real (25%), gestión y admin (15%).
 

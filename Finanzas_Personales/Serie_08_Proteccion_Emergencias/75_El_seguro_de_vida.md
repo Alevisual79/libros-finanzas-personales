@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La conversación de Carlos y Ana
+### Prólogo: La conversación de Carlos y Ana
 
 Cuando Carlos y Ana compraron el piso, el banco les ofreció un seguro de vida vinculado a la hipoteca. El importe era de ciento ochenta euros al año por persona. El empleado del banco fue amable y explicó que era "muy recomendable" y que "los bancos siempre lo exigen aunque no estén obligados".
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La carpeta de cursos sin terminar
+### Prólogo: La carpeta de cursos sin terminar
 
 Elena revisó su cuenta en la plataforma de cursos online. Tenía cuarenta y tres cursos inscritos.
 

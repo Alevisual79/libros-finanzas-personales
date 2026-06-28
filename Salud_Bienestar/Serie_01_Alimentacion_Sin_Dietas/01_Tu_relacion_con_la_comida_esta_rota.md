@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La dieta que empezará el lunes
+### Prólogo: La dieta que empezará el lunes
 
 Si has hecho más de tres dietas en tu vida y has recuperado el peso perdido en todas ellas, este libro es para ti.
 

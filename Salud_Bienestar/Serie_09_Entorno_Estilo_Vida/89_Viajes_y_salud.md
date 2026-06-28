@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El viaje que siempre deshace todo
+### Prólogo: El viaje que siempre deshace todo
 
 Laura y David llevan cuatro meses construyendo rutinas saludables. Desayunos mejores, ejercicio regular, horarios de sueño más consistentes. Con esfuerzo, pero funcionando.
 

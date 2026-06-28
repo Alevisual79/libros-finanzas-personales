@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La respiración de cuatro segundos que lo cambia todo
+### Prólogo: La respiración de cuatro segundos que lo cambia todo
 
 Rubén estaba en una reunión tensa con un cliente insatisfecho. Su corazón latía rápido, sentía calor en la cara y su mente empezaba a bloquearse.
 

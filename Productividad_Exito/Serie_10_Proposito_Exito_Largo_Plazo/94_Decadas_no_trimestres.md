@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El árbol que no se ve crecer
+### Prólogo: El árbol que no se ve crecer
 
 El mentor le preguntó a Rubén: "¿Cuándo fue la última vez que hiciste algo cuyos beneficios esperabas no ver hasta dentro de cinco años?"
 

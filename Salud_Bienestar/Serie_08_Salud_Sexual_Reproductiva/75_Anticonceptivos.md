@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La decisión que nadie explica bien
+### Prólogo: La decisión que nadie explica bien
 
 Laura lleva ocho años tomando la píldora. Nunca le explicaron los efectos secundarios. Nunca le preguntaron si había otras opciones que pudieran adaptarse mejor a su vida.
 

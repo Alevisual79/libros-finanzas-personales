@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El orgullo de hacer diez cosas a la vez
+### Prólogo: El orgullo de hacer diez cosas a la vez
 
 Rubén se enorgullecía de su capacidad de multitarea.
 

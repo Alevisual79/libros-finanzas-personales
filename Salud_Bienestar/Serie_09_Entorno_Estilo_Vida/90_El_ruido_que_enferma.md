@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Los auriculares de Miguel
+### Prólogo: Los auriculares de Miguel
 
 Miguel trabaja con auriculares puestos casi todo el día. Música para concentrarse por la mañana, podcast mientras come, más música por la tarde. Los fines de semana, conciertos o bares con música alta.
 

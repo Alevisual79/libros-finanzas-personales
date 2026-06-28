@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: La reunión donde nadie entendió nada
+### Prólogo: La reunión donde nadie entendió nada
 
 Rubén asistió a una reunión de equipo en que su cliente —una cadena de tiendas de moda— quería "implementar IA" en su estrategia de marketing. Durante dos horas, cuatro personas usaron la palabra "inteligencia artificial" de cuatro formas distintas. Uno hablaba de chatbots para atención al cliente. Otro de algoritmos de recomendación. Otro de análisis predictivo. Otro de automatización de tareas administrativas.
 

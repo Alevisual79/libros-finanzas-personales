@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El dolor que se acepta como destino
+### Prólogo: El dolor que se acepta como destino
 
 Carmen tiene artrosis de rodilla. Su madre la tuvo. Su abuela también. "Es de familia", dice. Y con eso, da el asunto por cerrado.
 

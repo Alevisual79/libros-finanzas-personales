@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El día que llegó Lucía
+### Prólogo: El día que llegó Lucía
 
 Carlos recuerda exactamente cuándo sus finanzas personales se convirtieron en finanzas familiares.
 

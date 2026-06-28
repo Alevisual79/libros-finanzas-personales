@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ingeniero que no descansaba
+### Prólogo: El ingeniero que no descansaba
 
 Elena llegó a un punto en que el descanso le parecía un lujo que no podía permitirse.
 

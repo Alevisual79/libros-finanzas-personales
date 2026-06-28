@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que nadie nos explico
+### Prólogo: Lo que nadie nos explico
 
 Laura recibio educación sexual en el colegio. Una hora de biología reproductiva con términos técnicos y un condón en un plátano.
 

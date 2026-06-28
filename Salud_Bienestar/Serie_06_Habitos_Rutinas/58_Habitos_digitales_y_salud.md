@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La adicción que no parece adicción
+### Prólogo: La adicción que no parece adicción
 
 Miguel calcula cuánto tiempo pasa al día con el teléfono. El marcador de tiempo de pantalla de su iOS dice: 5 horas y 42 minutos.
 

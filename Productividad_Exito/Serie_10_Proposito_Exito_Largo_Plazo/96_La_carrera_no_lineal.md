@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El camino que no parecía lógico
+### Prólogo: El camino que no parecía lógico
 
 El currículum de Elena no tenía la línea recta ascendente que los modelos de carrera convencionales describen.
 

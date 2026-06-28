@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que Ana encontró revisando el borrador
+### Prólogo: Lo que Ana encontró revisando el borrador
 
 Después de la carta de Hacienda que recibió Carlos, descrita en el libro anterior de esta serie, Carlos y Ana decidieron que nunca más presentarían el borrador de la declaración sin revisarlo línea por línea. El año siguiente, Ana, con más paciencia que Carlos para este tipo de detalle, se sentó una tarde de mayo con el borrador delante y empezó a comparar lo que aparecía con lo que sabía de su propia situación familiar.
 

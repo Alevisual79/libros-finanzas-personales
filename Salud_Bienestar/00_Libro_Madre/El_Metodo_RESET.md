@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que todos sabemos y nadie aplica
+### Prólogo: Lo que todos sabemos y nadie aplica
 
 Todo el mundo sabe que debería moverse más.
 Todo el mundo sabe que debería comer mejor.

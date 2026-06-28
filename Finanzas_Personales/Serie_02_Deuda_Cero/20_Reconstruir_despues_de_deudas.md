@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El día que Carlos llegó a cero
+### Prólogo: El día que Carlos llegó a cero
 
 Carlos recuerda el día exacto.
 

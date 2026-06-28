@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La apuesta de Buffett
+### Prólogo: La apuesta de Buffett
 
 En 2007, Warren Buffett hizo una apuesta pública de 500.000 dólares.
 

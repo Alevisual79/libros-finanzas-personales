@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La batalla que no es de voluntad
+### Prólogo: La batalla que no es de voluntad
 
 Elena ha intentado dejar de mirar el teléfono durante el trabajo profundo más de cien veces. Ha intentado ponerlo en silencio. Lo ha puesto boca abajo. Ha instalado aplicaciones que bloquean otras aplicaciones.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El Ferrari en el garaje
+### Prólogo: El Ferrari en el garaje
 
 El vecino de Carlos tiene un Ferrari rojo aparcado en el garaje del edificio.
 

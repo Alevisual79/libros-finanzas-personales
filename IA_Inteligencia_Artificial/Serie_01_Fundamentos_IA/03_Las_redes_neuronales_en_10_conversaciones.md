@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El hijo de Elena explica el universo
+### Prólogo: El hijo de Elena explica el universo
 
 El hijo de Elena tenía nueve años y una curiosidad ilimitada. Cuando vió a su madre trabajar con ChatGPT, le preguntó: "¿Cómo sabe la máquina lo que tienes que escribir?"
 

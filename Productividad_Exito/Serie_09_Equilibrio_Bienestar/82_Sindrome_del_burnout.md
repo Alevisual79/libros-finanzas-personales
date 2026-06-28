@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La ingeniera que no podía encender el ordenador
+### Prólogo: La ingeniera que no podía encender el ordenador
 
 Elena llegó un lunes a las nueve de la mañana. Se sentó delante del ordenador. Y no pudo encenderlo.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La historia que te estás contando
+### Prólogo: La historia que te estás contando
 
 Tienes una historia sobre tu dinero.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que Don Alberto vio en 2008
+### Prólogo: Lo que Don Alberto vio en 2008
 
 Don Alberto tenía cincuenta y tres años en 2008. Llevaba veintidós en la misma fábrica. Su piso estaba pagado, o casi. Sus ahorros estaban en una libreta del banco, como siempre.
 

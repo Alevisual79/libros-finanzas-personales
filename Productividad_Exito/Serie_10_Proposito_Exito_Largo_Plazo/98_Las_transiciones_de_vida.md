@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El año que todo cambio
+### Prólogo: El año que todo cambio
 
 En un período de dieciocho meses, la vida de Isabel cambio de forma radical: murió su padre, nació su primer nieto, fue promovida a directora de división, y su empresa fue adquirida por un grupo internacional.
 

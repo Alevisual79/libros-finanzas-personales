@@ -15,7 +15,7 @@
 
 ---
 
-## Prólogo: Tres personas ante la misma revolución
+### Prólogo: Tres personas ante la misma revolución
 
 Elena tiene 34 años y trabaja como ingeniera de software en una empresa de servicios financieros. Lleva seis meses usando IA en su trabajo diario y siente que ha multiplicado su capacidad por tres. Pero también siente una angustia que no sabe muy bien cómo nombrar: ¿qué pasa cuando la IA pueda hacer lo que ella hace mejor que ella?
 

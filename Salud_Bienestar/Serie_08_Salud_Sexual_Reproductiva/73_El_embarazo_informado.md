@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que la abuela dice y lo que la ciencia dice
+### Prólogo: Lo que la abuela dice y lo que la ciencia dice
 
 Laura está embarazada de 12 semanas. La información que recibe de su madre, su suegra y los grupos de WhatsApp de embarazadas contradice frecuentemente lo que le dice su matrona.
 

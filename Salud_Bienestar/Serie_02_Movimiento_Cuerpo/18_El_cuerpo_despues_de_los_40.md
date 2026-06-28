@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que cambia y lo que no tiene por qué
+### Prólogo: Lo que cambia y lo que no tiene por qué
 
 A los 40, muchas personas notan que el cuerpo funciona diferente.
 

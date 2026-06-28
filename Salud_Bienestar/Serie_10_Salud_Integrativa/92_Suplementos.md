@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El armario de los suplementos
+### Prólogo: El armario de los suplementos
 
 Laura tiene once suplementos en el armario. Un multivitamínico, omega-3, vitamina D, colágeno marino, probiótico, magnesio, vitamina C, zinc, coenzima Q10, ashwagandha y biotina para el pelo.
 

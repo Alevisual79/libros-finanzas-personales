@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La consulta de cinco minutos
+### Prólogo: La consulta de cinco minutos
 
 Laura tiene cinco minutos. Su médico de cabecera atiende 50 pacientes al día. No es incompetencia ni negligencia: es el sistema.
 

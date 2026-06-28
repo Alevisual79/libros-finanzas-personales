@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El equipo que nadie cuestionaba
+### Prólogo: El equipo que nadie cuestionaba
 
 El equipo de producto de una empresa tecnológica estaba compuesto por doce personas: once hombres entre 25 y 35 años, todos con formación en ingeniería, todos de la misma ciudad. Eran brillantes individualmente.
 

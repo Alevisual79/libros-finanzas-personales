@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El nombre que no recuerda
+### Prólogo: El nombre que no recuerda
 
 Rubén lleva tres reuniones con el mismo cliente y sigue olvidando su nombre a los cinco minutos de la presentación.
 

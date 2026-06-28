@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La conversación que nunca ocurrió
+### Prólogo: La conversación que nunca ocurrió
 
 Isabel tenía una conversación difícil con uno de los miembros de su equipo. El trabajador hablaba sobre sus dificultades con el proyecto. Isabel escuchaba mientras pensaba en qué responder.
 

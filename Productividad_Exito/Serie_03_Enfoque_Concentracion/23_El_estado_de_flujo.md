@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Las tres horas que desaparecieron
+### Prólogo: Las tres horas que desaparecieron
 
 Elena se sentó frente al ordenador a las 9 de la mañana con el objetivo de diseñar la arquitectura del módulo de pagos.
 

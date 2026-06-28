@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El estudio que duró 80 años
+### Prólogo: El estudio que duró 80 años
 
 En 1938, la Universidad de Harvard comenzo el estudio más largo sobre la felicidad y la salud humanas jamás realizado.
 

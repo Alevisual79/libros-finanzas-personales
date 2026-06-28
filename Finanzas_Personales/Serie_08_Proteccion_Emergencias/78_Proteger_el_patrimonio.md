@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La empresa del cuñado
+### Prólogo: La empresa del cuñado
 
 El cuñado de Carlos montó una empresa de consultoría en 2019.
 

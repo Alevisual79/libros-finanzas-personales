@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El hombre que nunca tuvo un mal día
+### Prólogo: El hombre que nunca tuvo un mal día
 
 Don Alberto nunca tuvo un mal día en el trabajo.
 

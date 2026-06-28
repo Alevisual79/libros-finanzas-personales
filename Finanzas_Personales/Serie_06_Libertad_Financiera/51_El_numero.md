@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La noche que Carlos hizo el cálculo
+### Prólogo: La noche que Carlos hizo el cálculo
 
 Era martes. Las once y cuarto de la noche.
 

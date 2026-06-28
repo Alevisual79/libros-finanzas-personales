@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La salud que se construye antes de necesitarla
+### Prólogo: La salud que se construye antes de necesitarla
 
 Miguel tiene 35 años. No le duele nada. No toma medicación. "Estoy sano", dice.
 

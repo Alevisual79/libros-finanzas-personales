@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El lunes que el cuñado no fue a trabajar
+### Prólogo: El lunes que el cuñado no fue a trabajar
 
 El cuñado dejó su trabajo un lunes de marzo.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El curso que el cuñado iba a lanzar
+### Prólogo: El curso que el cuñado iba a lanzar
 
 El cuñado anunció en la cena de Nochebuena que iba a crear un curso online.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La diferencia entre estadio I y estadio IV
+### Prólogo: La diferencia entre estadio I y estadio IV
 
 La hermana de Laura murió de cáncer de mama hace cuatro años. Tenía cuarenta y dos. Se lo detectaron en estadio IV, con metástasis.
 

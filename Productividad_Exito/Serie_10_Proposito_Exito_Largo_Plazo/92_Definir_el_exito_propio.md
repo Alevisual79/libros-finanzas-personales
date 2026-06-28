@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La carrera que nadie eligió
+### Prólogo: La carrera que nadie eligió
 
 Elena llevaba diez años en la carrera hacía un objetivo que nunca había examinado completamente: ser directora técnica en una empresa de tecnología de cierto tamaño, con cierto salario, con cierto nivel de reconocimiento.
 

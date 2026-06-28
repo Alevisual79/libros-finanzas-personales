@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La bandeja de entrada como oficina ajena
+### Prólogo: La bandeja de entrada como oficina ajena
 
 El lunes por la mañana, Elena abre el ordenador a las 8:45. Sin haberlo decidido, lo primero que hace es abrir el correo.
 

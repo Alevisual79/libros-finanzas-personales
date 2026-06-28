@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El maratonista y el velocista
+### Prólogo: El maratonista y el velocista
 
 Elena llevaba cinco años a la velocidad de un velocista.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La balanza que nadie puede mantener
+### Prólogo: La balanza que nadie puede mantener
 
 El "equilibrio trabajo-vida" es uno de los conceptos más citados y menos alcanzados de la cultura laboral moderna.
 

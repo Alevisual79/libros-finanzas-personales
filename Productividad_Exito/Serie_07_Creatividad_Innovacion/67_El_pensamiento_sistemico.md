@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La solución que creo tres problemas
+### Prólogo: La solución que creo tres problemas
 
 El departamento de atención al cliente de la empresa de Elena tenía un problema: los tiempos de respuesta eran demasiado largos. La solución fue contratar más agentes.
 

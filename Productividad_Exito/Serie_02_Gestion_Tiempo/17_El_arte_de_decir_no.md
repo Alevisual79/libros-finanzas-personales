@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La agenda de los que no dicen no
+### Prólogo: La agenda de los que no dicen no
 
 La agenda de Elena tenía tres características peculiares: estaba siempre llena, rara vez reflejaba sus prioridades y la había llenado, en su mayor parte, otras personas.
 

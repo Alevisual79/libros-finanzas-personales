@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El programador y las dos horas de silencio
+### Prólogo: El programador y las dos horas de silencio
 
 Rubén conoció a un programador en una conferencia que le contó algo que no le cuadraba al principio.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El reencuentro de los tres
+### Prólogo: El reencuentro de los tres
 
 Cinco años después de haber comenzado cada uno su propio camino con el Método ACCIÓN, Elena, Rubén e Isabel se encontraron en la misma conferencia.
 

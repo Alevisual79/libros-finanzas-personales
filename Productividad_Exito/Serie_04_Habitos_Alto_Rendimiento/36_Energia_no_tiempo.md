@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ejecutivo que nunca descansaba
+### Prólogo: El ejecutivo que nunca descansaba
 
 El mentor conoció a un directivo que tenía una agenda perfecta: bloques de tiempo definidos, prioridades claras, cero reuniones innecesarias. Todo en orden.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La semana que no planeó nadie
+### Prólogo: La semana que no planeó nadie
 
 El lunes por la mañana, Rubén se sienta frente al ordenador y mira la pantalla. Sabe que tiene cosas que hacer. No recuerda exactamente cuáles son las más importantes.
 

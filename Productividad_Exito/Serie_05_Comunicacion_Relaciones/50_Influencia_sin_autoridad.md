@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Elena necesitaba ayuda que no podía exigir
+### Prólogo: Elena necesitaba ayuda que no podía exigir
 
 Elena lideraba un proyecto que dependía de la colaboración de tres equipos que no le reportaban. Necesitaba que esos equipos priorizaran su proyecto sobre sus propias agendas.
 

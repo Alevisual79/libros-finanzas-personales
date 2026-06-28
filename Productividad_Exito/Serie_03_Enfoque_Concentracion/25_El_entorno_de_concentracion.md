@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El escritorio que trabaja contra ti
+### Prólogo: El escritorio que trabaja contra ti
 
 El escritorio de Rubén tiene: el ordenador abierto con siete pestañas, el teléfono boca arriba con la pantalla visible, tres tazas vacías de café, notas adhesivas de la semana pasada, un cuaderno abierto en una página de hace dos semanas, y dos cables desconectados que "hay que ordenar".
 

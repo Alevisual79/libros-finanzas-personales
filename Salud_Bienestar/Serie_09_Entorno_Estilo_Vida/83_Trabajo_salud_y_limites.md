@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El domingo por la tarde
+### Prólogo: El domingo por la tarde
 
 Miguel lo llama "el malestar del domingo". A partir de las cinco de la tarde del domingo, empieza a ponerse tenso. Piensa en los correos del lunes. Repasa mentalmente lo que tiene pendiente. Se le tensa el cuello.
 

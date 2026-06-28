@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ingeniero y la rutina que no eligió
+### Prólogo: El ingeniero y la rutina que no eligió
 
 Elena se dio cuenta de algo incómodo un martes por la tarde.
 

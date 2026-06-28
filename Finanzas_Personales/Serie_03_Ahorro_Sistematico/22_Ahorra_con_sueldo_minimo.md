@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La excusa más honesta
+### Prólogo: La excusa más honesta
 
 "Es que yo no gano suficiente para ahorrar."
 

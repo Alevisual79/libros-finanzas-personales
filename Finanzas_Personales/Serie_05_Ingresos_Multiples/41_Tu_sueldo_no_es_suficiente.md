@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El martes que Carlos se quedó sin aire
+### Prólogo: El martes que Carlos se quedó sin aire
 
 Era un martes de noviembre a las once de la mañana.
 

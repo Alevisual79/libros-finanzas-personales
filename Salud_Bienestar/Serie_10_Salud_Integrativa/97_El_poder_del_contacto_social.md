@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El experimento de los huérfanos
+### Prólogo: El experimento de los huérfanos
 
 En los años 40, el pediatra René Spitz estudió a bebés en orfanatos que recibían todos los cuidados físicos necesarios: alimentación, higiene, temperaturas adecuadas. Pero no recibían contacto humano, juego ni afecto.
 

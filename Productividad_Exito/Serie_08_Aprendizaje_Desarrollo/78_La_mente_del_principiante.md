@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El maestro que ya no oía las preguntas
+### Prólogo: El maestro que ya no oía las preguntas
 
 El mentor era brillante. Treinta años de experiencia. Había visto todo.
 

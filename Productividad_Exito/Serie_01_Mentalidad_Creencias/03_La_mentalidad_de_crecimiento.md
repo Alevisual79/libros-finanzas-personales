@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Dos formas de recibir la misma crítica
+### Prólogo: Dos formas de recibir la misma crítica
 
 Elena recibio el mismo feedback en la misma reunión que su colega Marco.
 

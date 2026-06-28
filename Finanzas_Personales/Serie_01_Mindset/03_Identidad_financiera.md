@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El dato que nadie explica
+### Prólogo: El dato que nadie explica
 
 Hay un fenómeno que los economistas conocen bien y que casi nadie habla en los libros de finanzas personales.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ejercicio que se evita cuando más se necesita
+### Prólogo: El ejercicio que se evita cuando más se necesita
 
 Cuando llega un diagnóstico crónico, el instinto natural suele ser moverse menos.
 

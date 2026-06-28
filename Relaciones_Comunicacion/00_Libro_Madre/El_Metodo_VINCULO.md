@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: Tres personas, un problema invisible
+### Prólogo: Tres personas, un problema invisible
 
 Elena lleva años priorizando su carrera sobre sus relaciones. Ahora tiene éxito profesional y un vacío que no sabe nombrar.
 

@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: La carta de Elena a su yo de 2020
+### Prólogo: La carta de Elena a su yo de 2020
 
 Elena encontró un diario de 2020 en que había escrito sus metas profesionales para los cinco años siguientes. Repasarlas en 2026 era una mezcla de nostalgia y asombro.
 

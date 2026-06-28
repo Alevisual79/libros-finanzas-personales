@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Las primeras horas del día
+### Prólogo: Las primeras horas del día
 
 Laura se despierta cuando el despertador lleva 20 minutos sonando. Coge el teléfono, revisa el WhatsApp, las redes sociales, los correos. Sale de la cama con el tiempo justo para duchar a los niños, preparar el desayuno, buscar las mochilas y llegar corriendo al coche.
 

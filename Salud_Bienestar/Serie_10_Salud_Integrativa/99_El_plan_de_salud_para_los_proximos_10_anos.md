@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que nadie te da hecho
+### Prólogo: Lo que nadie te da hecho
 
 No existe un "plan de salud personal" estándar. Los médicos tratan enfermedades. Los nutricionistas gestionan la alimentación. Los entrenadores el ejercicio. La psicología la mente. Pero nadie integra todo esto en un plan coherente orientado a los próximos diez años de tu vida.
 

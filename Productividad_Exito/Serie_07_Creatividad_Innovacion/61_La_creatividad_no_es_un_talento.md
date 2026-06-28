@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ingeniero que no se consideraba creativo
+### Prólogo: El ingeniero que no se consideraba creativo
 
 Rubén hablaba con un ingeniero de software que resolvía problemas técnicos complejos todos los días. Encontraba soluciones elegantes donde otros encontraban callejones sin salida. Diseñaba arquitecturas de sistemas que ningún libro habría podido anticipar.
 

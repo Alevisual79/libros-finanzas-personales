@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El mismo modeló, resultados completamente distintos
+### Prólogo: El mismo modeló, resultados completamente distintos
 
 Elena y su colega Pedro usaban el mismo modelo de IA, con la misma suscripción, para tareas similares. Los resultados que obtenía Elena eran consistentemente más útiles, más precisos y requerían menos edición.
 

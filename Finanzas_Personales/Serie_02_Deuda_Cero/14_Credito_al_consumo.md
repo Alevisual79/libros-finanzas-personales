@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Los 30 euros al mes que lo cambian todo
+### Prólogo: Los 30 euros al mes que lo cambian todo
 
 "Solo son 30 euros al mes."
 

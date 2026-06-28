@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El tesoro invisible de Isabel
+### Prólogo: El tesoro invisible de Isabel
 
 La empresa de Isabel llevaba quince años registrando datos de empleados: evaluaciones de desempeño, tasas de rotación por departamento, resultados de encuestas de clima, patrones de asistencia, tiempo de permanencia en la empresa.
 

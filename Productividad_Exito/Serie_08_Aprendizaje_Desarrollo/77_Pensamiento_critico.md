@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La reunión que cambio la dirección equivocada
+### Prólogo: La reunión que cambio la dirección equivocada
 
 Isabel presento a su equipo un análisis detallado que justificaba una decisión organizacional importante. Los datos eran reales. La lógica, aparentemente sólida.
 

@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El nuevo miembro del equipo
+### Prólogo: El nuevo miembro del equipo
 
 El equipo de Rubén tenía cinco personas. En marzo de 2025, añadieron un sexto miembro: un conjunto de herramientas de IA que Rubén empezó a llamar internamente "el asistente".
 

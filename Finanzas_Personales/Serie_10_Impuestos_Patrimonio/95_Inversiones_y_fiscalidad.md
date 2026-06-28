@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La primera declaración con ganancias
+### Prólogo: La primera declaración con ganancias
 
 Cuando Carlos presentó su declaración de la renta ese año, fue la primera vez que la presentación le llevó más de media hora. Hasta entonces, su situación fiscal había sido simple: un salario, las retenciones correspondientes, alguna deducción autonómica que Ana revisaba con cuidado después de la historia con el borrador de años atrás. Resultado: devolución habitual y proceso terminado.
 

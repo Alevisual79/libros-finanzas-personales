@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El último libro y el primero
+### Prólogo: El último libro y el primero
 
 Llegas al último libro de esta colección de cien.
 

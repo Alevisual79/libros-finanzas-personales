@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Los pinos de Nagano
+### Prólogo: Los pinos de Nagano
 
 En los años 80, el médico japonés Qing Li empezó a estudiar por qué los trabajadores forestales de Japón vivían más y enfermaban menos que la media de la población urbana.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La conversación que Marta tuvo con su gestor
+### Prólogo: La conversación que Marta tuvo con su gestor
 
 Marta llevaba cuatro años como autónoma cuando su gestor le pidió que reservara una hora para revisar juntos la declaración del IRPF del año anterior. No era algo que Marta esperara. Normalmente enviaba los documentos por correo, él presentaba los modelos, y la relación se limitaba a eso.
 

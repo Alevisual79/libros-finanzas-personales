@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El macronutriente más malentendido
+### Prólogo: El macronutriente más malentendido
 
 Durante décadas, la grasa fue el villano de la nutrición.
 

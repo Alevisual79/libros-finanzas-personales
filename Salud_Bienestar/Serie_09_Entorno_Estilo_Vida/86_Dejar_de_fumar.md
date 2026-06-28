@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El intento número doce
+### Prólogo: El intento número doce
 
 Carmen lleva doce intentos de dejar de fumar. Empezó a fumar a los dieciséis. Lleva cuarenta y dos años fumando, aunque ahora son solo cinco o seis cigarrillos al día.
 

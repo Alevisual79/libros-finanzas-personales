@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: La imagen que nadie fotografio
+### Prólogo: La imagen que nadie fotografio
 
 Ruben necesitaba una imagen para la propuesta de un cliente: una persona usando un portatil en una reunión moderna, con aspecto profesional pero no generico de stock. Los bancos de imagenes no tenían lo que buscaba.
 

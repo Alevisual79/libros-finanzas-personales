@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La conversación que Carlos y Ana no habían tenido
+### Prólogo: La conversación que Carlos y Ana no habían tenido
 
 Carlos llevaba tres años con el Método 5P cuando se dio cuenta de algo incómodo.
 

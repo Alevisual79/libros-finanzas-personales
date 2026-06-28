@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El miedo que no se nombra
+### Prólogo: El miedo que no se nombra
 
 David tiene 52 años. Lleva meses levantándose dos o tres veces por la noche a orinar. A veces le cuesta empezar. A veces el chorro es débil. Lo ha ignorado durante meses porque le da "vergüenza decirle al médico que tiene problemas para orinar".
 

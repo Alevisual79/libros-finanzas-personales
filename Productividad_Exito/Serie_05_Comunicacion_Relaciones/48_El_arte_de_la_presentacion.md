@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El discurso que cambio la carrera de Isabel
+### Prólogo: El discurso que cambio la carrera de Isabel
 
 Isabel llevaba veinte años en RRHH. Era excelente en conversaciones individuales y en gestión de equipos. Pero hablar en público la aterrorizaba.
 

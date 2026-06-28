@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El blog de los fines de semana de Carlos
+### Prólogo: El blog de los fines de semana de Carlos
 
 En el libro 76 de esta colección, sobre el Plan B financiero, se mencionó de paso que Carlos mantiene un blog técnico sobre telecomunicaciones que escribe los fines de semana, y que le genera alrededor de trescientos euros al mes en publicidad y enlaces de afiliados. Este libro cuenta la historia completa de ese blog, porque vale la pena contarla con detalle.
 

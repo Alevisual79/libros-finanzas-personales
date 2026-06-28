@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que no se enseña a hacer
+### Prólogo: Lo que no se enseña a hacer
 
 Respiramos unas 20.000 veces al día. Sin pensar. Sin aprender. Sin necesitar que nadie nos diga cómo hacerlo.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pregunta que Carlos no esperaba
+### Prólogo: La pregunta que Carlos no esperaba
 
 Cuando Carlos y Ana firmaron el contrato de alquiler del primer piso juntos, doce años atrás, hubo una conversación que Carlos no había anticipado.
 

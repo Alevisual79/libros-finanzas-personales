@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pregunta que Carlos no quería hacerse
+### Prólogo: La pregunta que Carlos no quería hacerse
 
 Una noche, después de leer una noticia sobre un accidente de tráfico en el que habían muerto los dos padres de una familia con niños pequeños, Carlos se quedó con el teléfono en la mano, sin poder dejar de pensar.
 

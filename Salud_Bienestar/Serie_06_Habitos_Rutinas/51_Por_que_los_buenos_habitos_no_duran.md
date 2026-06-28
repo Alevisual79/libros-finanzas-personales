@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ciclo del fracaso conocido
+### Prólogo: El ciclo del fracaso conocido
 
 Miguel lleva cuatro años intentando hacer ejercicio regularmente. Empieza cada enero con convicción. Aguanta tres semanas. En febrero abandona. En marzo se siente culpable. En diciembre promete que el año que viene será diferente.
 

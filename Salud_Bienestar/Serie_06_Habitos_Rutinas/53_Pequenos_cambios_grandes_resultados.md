@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El 1% que lo cambia todo
+### Prólogo: El 1% que lo cambia todo
 
 James Clear calculo el efecto compuesto del 1%: mejorar un 1% cada día durante un año produce un resultado 37 veces mejor que el punto de partida. Empeorar un 1% cada día produce un resultado casi cero.
 

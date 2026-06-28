@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El plan perfecto que nadie uso
+### Prólogo: El plan perfecto que nadie uso
 
 Un equipo de startup paso seis meses desarrollando una aplicación móvil. El plan de negocio era exhaustivo. El producto, cuidadosamente diseñado. El lanzamiento, elaboradamente preparado.
 

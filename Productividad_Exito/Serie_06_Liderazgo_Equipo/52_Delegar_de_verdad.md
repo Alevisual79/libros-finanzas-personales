@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El jefe que hacía el trabajo de todos
+### Prólogo: El jefe que hacía el trabajo de todos
 
 Isabel conocía un director que se quedaba hasta las ocho de la noche todos los días. Su equipo salía a las seis. Era considerado "muy trabajador".
 

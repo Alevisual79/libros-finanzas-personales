@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El primer divorcio del cuñado
+### Prólogo: El primer divorcio del cuñado
 
 El cuñado de Carlos se casó la primera vez a los veintisiete años.
 

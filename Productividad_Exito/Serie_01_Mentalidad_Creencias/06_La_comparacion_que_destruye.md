@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El muro de LinkedIn
+### Prólogo: El muro de LinkedIn
 
 Rubén tiene una costumbre que sabe que le hace daño y que no puede dejar.
 

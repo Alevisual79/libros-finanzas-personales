@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Alejandro y los apuntes que nadie veía
+### Prólogo: Alejandro y los apuntes que nadie veía
 
 Alejandro, el nieto de Don Alberto que protagoniza las conversaciones de los domingos mencionadas en varios libros de esta colección, empezó su primer año de ingeniería con un hábito que mantenía desde el instituto: grabar audios explicándose a sí mismo los conceptos que le costaba entender, como forma de estudiar.
 

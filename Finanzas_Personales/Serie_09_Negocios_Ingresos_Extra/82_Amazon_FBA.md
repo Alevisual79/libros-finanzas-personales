@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El curso de cuatrocientos noventa euros del cuñado
+### Prólogo: El curso de cuatrocientos noventa euros del cuñado
 
 El cuñado de Carlos vio un anuncio en redes sociales. Un hombre joven, en un avión, en un yate, en una habitación de hotel con vistas, prometiendo que había construido un imperio de productos en Amazon trabajando "dos horas al día desde el portátil". El curso costaba cuatrocientos noventa euros. El cuñado lo compró la misma noche, antes de pensarlo más de cinco minutos.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La conversación que cambio la perspectiva de Isabel
+### Prólogo: La conversación que cambio la perspectiva de Isabel
 
 Isabel tenía cincuenta y dos años cuando su padre murió. Durante las semanas siguientes, asistió a conversaciones que nunca había escuchado: colegas y amigos de su padre que describían el impacto que había tenido en sus vidas.
 

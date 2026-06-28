@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El salvavidas que se está ahogando
+### Prólogo: El salvavidas que se está ahogando
 
 Isabel era la persona a quien todos acudían. Para las decisiones difíciles. Para los problemas que nadie más sabía resolver. Para las crisis de última hora.
 

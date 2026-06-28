@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que aprendiste sobre el trabajo antes de saber lo que era
+### Prólogo: Lo que aprendiste sobre el trabajo antes de saber lo que era
 
 Rubén recuerda perfectamente cuando su padre le dijo, con orgullo genuino, que trabajar duro era la clave de todo. Su padre trabajaba sesenta horas semanales, se quejaba constantemente del jefe, pero lo hacía sin queja. "La vida es dura. El trabajo es sufrimiento. Si no duele, no vale."
 

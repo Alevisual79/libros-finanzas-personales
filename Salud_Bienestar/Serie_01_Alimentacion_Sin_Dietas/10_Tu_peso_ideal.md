@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El número que nos obsesiona
+### Prólogo: El número que nos obsesiona
 
 El peso corporal es el marcador de salud más usado, más discutido y más mal interpretado.
 

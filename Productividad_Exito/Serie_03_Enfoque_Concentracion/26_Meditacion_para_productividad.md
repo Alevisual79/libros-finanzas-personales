@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El escéptico que lo intento
+### Prólogo: El escéptico que lo intento
 
 Rubén siempre había pensado que la meditación era para personas que llevaban ropa de lino y hablaban de "energías".
 

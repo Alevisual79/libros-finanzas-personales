@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El cambio que nadie quería
+### Prólogo: El cambio que nadie quería
 
 La empresa donde trabajaba Elena implementó un nuevo sistema de gestión de proyectos. Era mejor que el anterior: más eficiente, más potente, con integración entre equipos.
 

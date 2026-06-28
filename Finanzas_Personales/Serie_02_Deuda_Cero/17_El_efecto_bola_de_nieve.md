@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La física de la deuda
+### Prólogo: La física de la deuda
 
 Hay algo que las deudas y las bolas de nieve tienen en común.
 

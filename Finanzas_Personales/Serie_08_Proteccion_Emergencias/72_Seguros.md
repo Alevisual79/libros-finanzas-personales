@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El cuñado y sus seguros
+### Prólogo: El cuñado y sus seguros
 
 El cuñado de Carlos tiene, contados en el último café que tomaron juntos, siete seguros activos.
 

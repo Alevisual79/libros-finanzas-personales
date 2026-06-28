@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El estigma que mata
+### Prólogo: El estigma que mata
 
 El estigma de las infecciones de transmisión sexual (ITS) hace que la gente no se haga las pruebas, no comunique los resultados a sus parejas, no consulte al médico y no hable de ello.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La charla de Don Alberto con su nieto
+### Prólogo: La charla de Don Alberto con su nieto
 
 El nieto de Don Alberto tiene dieciocho años y acaba de empezar la universidad.
 

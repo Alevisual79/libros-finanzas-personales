@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que Elena no había calculado
+### Prólogo: Lo que Elena no había calculado
 
 Elena había alcanzado la posición que quería. El reconocimiento que buscaba. El salario que había considerado inalcanzable hace cinco años.
 

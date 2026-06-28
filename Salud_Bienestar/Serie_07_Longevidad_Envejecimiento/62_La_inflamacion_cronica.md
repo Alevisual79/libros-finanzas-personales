@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El fuego que no se ve
+### Prólogo: El fuego que no se ve
 
 Carmen tiene artritis reumatoide, hipertensión e hipotiroidismo. Su médico trata cada condición por separado. Nadie le ha explicado que todas comparten un denominador común: la inflamación crónica.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El experimento que nadie esperaba
+### Prólogo: El experimento que nadie esperaba
 
 En 2015, la empresa Tower Paddle Boards en San Diego redujó la jornada laboral de su equipo a cinco horas al día, sin reducción salarial.
 

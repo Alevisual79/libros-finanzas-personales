@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La siesta tiene mala fama
+### Prólogo: La siesta tiene mala fama
 
 En España, la siesta es simultáneamente un estereotipo cultural y un motivo de vergüenza profesional. "Me echado una siesta" se dice con la misma incomodidad que "no hice ejercicio esta semana".
 

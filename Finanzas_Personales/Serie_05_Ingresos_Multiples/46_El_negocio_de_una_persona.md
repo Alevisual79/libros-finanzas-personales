@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pregunta que Marta se hizo
+### Prólogo: La pregunta que Marta se hizo
 
 Marta llevaba cuatro años como autónoma cuando se hizo una pregunta que cambió cómo pensaba sobre su negocio.
 

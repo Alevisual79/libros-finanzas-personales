@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El papel lleno de números que nadie explica
+### Prólogo: El papel lleno de números que nadie explica
 
 Laura recoge los resultados de la analítica anual. El médico le ha dicho "todo bien" y ha pasado a la siguiente consulta en dos minutos.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La primera meta que lo cambia todo
+### Prólogo: La primera meta que lo cambia todo
 
 Correr 5 kilómetros sin parar.
 

@@ -40,7 +40,7 @@ La decisión es tuya. Siempre lo ha sido.
 
 ---
 
-## Prólogo: La historia de Don Alberto
+### Prólogo: La historia de Don Alberto
 
 Don Alberto tiene 67 años.
 

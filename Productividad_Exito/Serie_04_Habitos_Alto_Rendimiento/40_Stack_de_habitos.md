@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El arquitecto del propio día
+### Prólogo: El arquitecto del propio día
 
 El mentor le planteo a Elena una pregunta.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Los quince años que no se perdieron
+### Prólogo: Los quince años que no se perdieron
 
 Isabel llegó a los cincuenta y dos años con una carrera sólida en recursos humanos. Y la certeza de que quería algo diferente.
 

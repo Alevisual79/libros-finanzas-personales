@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pregunta que Harry Browne se hizo
+### Prólogo: La pregunta que Harry Browne se hizo
 
 Harry Browne era un economista americano que en los años ochenta se hizo una pregunta que muy pocos inversores se hacen.
 

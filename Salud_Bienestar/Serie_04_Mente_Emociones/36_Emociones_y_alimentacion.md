@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El frigorífico a las 11 de la noche
+### Prólogo: El frigorífico a las 11 de la noche
 
 Laura sabe que no tiene hambre. Acaba de cenar. Son las 11 de la noche y está de pie frente al frigorífico abierto mirando las sobras de la semana.
 

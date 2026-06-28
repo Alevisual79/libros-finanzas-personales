@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El estado de emergencia permanente
+### Prólogo: El estado de emergencia permanente
 
 Laura lleva años "estresada". Lo dice ella misma, lo dicen quienes la rodean. Pero lo ha normalizado tanto que ya no lo reconoce como problema: es solo "la vida".
 

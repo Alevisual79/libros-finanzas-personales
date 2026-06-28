@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El envejecimiento que elegimos
+### Prólogo: El envejecimiento que elegimos
 
 Carmen tiene 58 años. Su madre murió a los 67, con tres años de dependencia. Su tía tiene 81 y todavía viaja, cocina y cultiva su huerto.
 

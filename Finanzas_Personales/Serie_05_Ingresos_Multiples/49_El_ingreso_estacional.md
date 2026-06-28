@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El octubre de Marta
+### Prólogo: El octubre de Marta
 
 En octubre, Marta siempre cobra el doble de lo normal.
 

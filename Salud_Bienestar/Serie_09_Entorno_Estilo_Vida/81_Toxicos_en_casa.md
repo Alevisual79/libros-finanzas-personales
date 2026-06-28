@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que hay en el armario de debajo del fregadero
+### Prólogo: Lo que hay en el armario de debajo del fregadero
 
 Laura abrió el armario debajo del fregadero para buscar el limpiacristales y contó once productos. Quitamanchas, desengrasante, suavizante, limpiabaños con cloro, ambientador en spray, pastillas para el lavavajillas, limpiamuebles, insecticida, quitaóxido, cera para el suelo, y el limpiacristales.
 

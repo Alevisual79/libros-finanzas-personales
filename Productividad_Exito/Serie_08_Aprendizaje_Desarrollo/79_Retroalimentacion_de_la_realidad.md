@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El proyecto que fue exactamente cómo se planeó
+### Prólogo: El proyecto que fue exactamente cómo se planeó
 
 Rubén paso tres meses diseñando una campaña de marketing para un cliente. Investigó, planificó, ejecutó impecablemente.
 

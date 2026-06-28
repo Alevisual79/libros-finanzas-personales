@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El lunes después de la cima
+### Prólogo: El lunes después de la cima
 
 Rubén había lanzado el proyecto más importante de su carrera. Después de dos años de trabajo, el evento fue un éxito. Los clientes estaban satisfechos. El reconocimiento fue real.
 

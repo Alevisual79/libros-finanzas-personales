@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ciclismo y las finanzas
+### Prólogo: El ciclismo y las finanzas
 
 Dave Brailsford es el hombre que convirtió al equipo británico de ciclismo en una potencia mundial.
 

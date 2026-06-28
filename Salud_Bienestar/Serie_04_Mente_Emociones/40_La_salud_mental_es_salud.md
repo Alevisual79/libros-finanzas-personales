@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La salud que falta
+### Prólogo: La salud que falta
 
 La OMS definió en 1948 la salud como "un estado de completo bienestar físico, mental y social, y no meramente la ausencia de afecciones o enfermedades."
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Don Alberto y los 100 euros de la plaza de garaje
+### Prólogo: Don Alberto y los 100 euros de la plaza de garaje
 
 Don Alberto recibía cada primer día de mes una transferencia de 100 euros.
 

@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: La voz que nadie grabo
+### Prólogo: La voz que nadie grabo
 
 El mentor de Elena necesitaba grabar una serie de podcasts para su empresa. Problema: su voz grabada le parecia horrible y no tenía equipo de producción.
 

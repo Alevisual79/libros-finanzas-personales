@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ladrón de sueño más normalizado
+### Prólogo: El ladrón de sueño más normalizado
 
 Hay un hábito que el 71% de los españoles tienen: mirar el teléfono en la cama antes de dormir.
 

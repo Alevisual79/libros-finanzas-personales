@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que dejó de pedir
+### Prólogo: Lo que dejó de pedir
 
 Rubén llevaba seis meses trabajando con un cliente que le pagaba menos de lo que merecía. Sabía que merecía más. El cliente era razonable. La relación era buena.
 

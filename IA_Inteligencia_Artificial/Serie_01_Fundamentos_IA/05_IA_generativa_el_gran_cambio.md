@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El diseñador que dejó de existir
+### Prólogo: El diseñador que dejó de existir
 
 Una agencia de publicidad mediana contrató a tres diseñadores junior en 2021. En 2024, habían pasado a trabajar con un solo diseñador senior que coordinaba el trabajo de tres herramientas de IA generativa. El output era mayor, más rápido y de calidad comparable.
 

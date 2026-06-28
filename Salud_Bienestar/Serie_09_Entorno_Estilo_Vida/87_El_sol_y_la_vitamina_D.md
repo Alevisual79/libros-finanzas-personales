@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El miedo al sol
+### Prólogo: El miedo al sol
 
 En los años 80 y 90, el sol era el villano de la dermatología. "Protégete del sol o tendrás cáncer." El factor de protección solar se convirtió en un artículo de primera necesidad. Los niños salían cubiertos de crema. Las personas evitaban el sol del mediodía.
 

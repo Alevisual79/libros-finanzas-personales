@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Cuando "meditar" suena a otra cosa
+### Prólogo: Cuando "meditar" suena a otra cosa
 
 Miguel intento meditar tres veces. La primera, siguio una app que le pedía "visualizar luz dorada llenando tu cuerpo". La segunda, una clase de yoga donde la profesora hablaba de "vaciar la mente". La tercera, un retiro de fin de semana donde todo olía a sándalo y nadie parecía tener problemas reales.
 

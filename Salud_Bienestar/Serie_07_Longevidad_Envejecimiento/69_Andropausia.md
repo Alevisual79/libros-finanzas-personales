@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El bajón que no tiene nombre
+### Prólogo: El bajón que no tiene nombre
 
 David tiene 48 años. Lleva dos años sintiéndose "raro". Menos energía que antes. Menor deseo sexual. Más difícil mantener la erección. Más irritable. Menos capacidad de concentración. Ha engordado aunque no come más. Le cuesta más recuperarse del ejercicio.
 

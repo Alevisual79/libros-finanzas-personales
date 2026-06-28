@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Por qué los planes de año nuevo fallan
+### Prólogo: Por qué los planes de año nuevo fallan
 
 El 1 de enero, Miguel escribe en su cuaderno:
 - Bajar 15 kilos

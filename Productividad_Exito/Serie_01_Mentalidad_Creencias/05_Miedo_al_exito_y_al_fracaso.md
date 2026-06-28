@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Rubén y el proyecto que casi termina
+### Prólogo: Rubén y el proyecto que casi termina
 
 Rubén lleva ocho meses desarrollando una plataforma de gestión de contenidos para agencias de marketing pequeñas. Es el proyecto más serio que ha tenido. Está al 80%.
 

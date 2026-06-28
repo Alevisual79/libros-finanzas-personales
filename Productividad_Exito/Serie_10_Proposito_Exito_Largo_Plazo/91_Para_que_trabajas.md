@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pregunta que Isabel no supo responder
+### Prólogo: La pregunta que Isabel no supo responder
 
 En la revisión anual de objetivos con su mentora, Isabel recibio la pregunta que no esperaba.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La persona que controla las mañanas controla la vida
+### Prólogo: La persona que controla las mañanas controla la vida
 
 Las noches de Isabel terminan siempre igual: en el sofá con el teléfono, respondiendo correos "de los últimos" que se convierten en veinte, mirando vídeos hasta que los ojos no aguantan más, acostándose a las 12:30 sin haber preparado nada para el día siguiente.
 

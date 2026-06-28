@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que aprendiste antes de saber leer
+### Prólogo: Lo que aprendiste antes de saber leer
 
 Antes de que aprendieras a leer, ya tenías una opinión sobre el dinero.
 

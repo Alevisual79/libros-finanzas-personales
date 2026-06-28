@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El problema que nadie nombra
+### Prólogo: El problema que nadie nombra
 
 Elena trabaja doce horas al día. Llega a casa agotada, con la sensación de haber corrido todo el día sin llegar a ninguna parte. La bandeja de entrada, siempre llena. Los proyectos importantes, siempre postergados por lo urgente. Los fines de semana, una mezcla de culpa (debería estar trabajando) y agotamiento (necesito descansar).
 

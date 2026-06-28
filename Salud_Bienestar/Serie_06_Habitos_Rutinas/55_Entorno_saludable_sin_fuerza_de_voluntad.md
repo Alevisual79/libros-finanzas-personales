@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El supermercado más inteligente que tú
+### Prólogo: El supermercado más inteligente que tú
 
 Los supermercados contratan a psicólogos del comportamiento para diseñar el recorrido. Los productos frescos están al fondo (se pasa por todo lo demás). Las golosinas están a la altura de los ojos de los niños. Los productos de margen alto están al nivel de los ojos del adulto. Los más baratos, abajo.
 

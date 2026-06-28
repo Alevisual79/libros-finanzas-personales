@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Los olvidos que asustan
+### Prólogo: Los olvidos que asustan
 
 Carmen se olvidó del nombre de su vecina con quien lleva hablando 20 años. Olvidó dónde había puesto las llaves. Tardó un momento en recordar la palabra "termómetro".
 

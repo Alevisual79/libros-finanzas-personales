@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El reloj que nadie te enseñó
+### Prólogo: El reloj que nadie te enseñó
 
 Dentro de cada célula de tu cuerpo hay un reloj molecular que lleva el tiempo.
 

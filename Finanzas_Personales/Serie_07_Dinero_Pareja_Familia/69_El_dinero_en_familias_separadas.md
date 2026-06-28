@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El mensaje de los martes por la mañana
+### Prólogo: El mensaje de los martes por la mañana
 
 El cuñado de Carlos paga ochocientos euros al mes en pensión alimenticia para sus hijos del primer matrimonio.
 

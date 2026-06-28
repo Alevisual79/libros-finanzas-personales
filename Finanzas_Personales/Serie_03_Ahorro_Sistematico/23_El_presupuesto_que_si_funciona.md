@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El presupuesto que nadie cumple
+### Prólogo: El presupuesto que nadie cumple
 
 El presupuesto es la herramienta financiera más conocida y más incumplida de la historia.
 

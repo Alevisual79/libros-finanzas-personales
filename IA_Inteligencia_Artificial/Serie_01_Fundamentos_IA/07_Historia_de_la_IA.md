@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El hombre que imaginó todo esto en 1950
+### Prólogo: El hombre que imaginó todo esto en 1950
 
 Alan Turing tenía 38 años cuando publico "Computing Machinery and Intelligence" en 1950. El paper comenzaba con una pregunta: "¿Pueden pensar las máquinas?"
 

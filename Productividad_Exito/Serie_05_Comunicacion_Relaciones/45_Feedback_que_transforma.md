@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El feedback que no llegó
+### Prólogo: El feedback que no llegó
 
 Miguel llevaba seis meses en el equipo de Isabel con un problema de comunicación que todos en el equipo veían: interrumpía a los compañeros en las reuniones, sin darse cuenta de ello.
 

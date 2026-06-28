@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que Don Alberto habría hecho diferente
+### Prólogo: Lo que Don Alberto habría hecho diferente
 
 Don Alberto tiene setenta y un años. Y tiene tiempo, desde que se jubiló, para pensar en cosas que antes no pensaba.
 

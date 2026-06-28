@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La persona equivocada en el podcast
+### Prólogo: La persona equivocada en el podcast
 
 Carlos escuchaba un podcast sobre libertad financiera durante el trayecto al trabajo.
 

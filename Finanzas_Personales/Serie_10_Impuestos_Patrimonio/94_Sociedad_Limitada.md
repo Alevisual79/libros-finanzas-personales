@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pregunta que Marta se llevó a casa
+### Prólogo: La pregunta que Marta se llevó a casa
 
 La conversación que Marta tuvo con su gestor sobre los gastos deducibles que había ignorado durante tres años no terminó en esa reunión. Terminó semanas después, cuando Marta, revisando sus ingresos de los últimos meses, hizo un cálculo sencillo: si el año siguiente seguía creciendo al ritmo que llevaba, cerraría con un beneficio neto cercano a los ochenta mil euros.
 

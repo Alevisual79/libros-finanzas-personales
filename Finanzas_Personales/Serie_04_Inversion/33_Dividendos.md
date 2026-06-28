@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Los 920 euros de don Alberto
+### Prólogo: Los 920 euros de don Alberto
 
 Don Alberto trabajó cuarenta y tres años en la misma empresa.
 

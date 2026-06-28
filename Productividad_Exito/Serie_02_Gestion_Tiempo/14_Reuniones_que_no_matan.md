@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El martes de Isabel
+### Prólogo: El martes de Isabel
 
 El último martes de Isabel tenía ocho reuniones. Desde las 9 de la mañana hasta las 18:30 con una pausa de cuarenta minutos para comer.
 

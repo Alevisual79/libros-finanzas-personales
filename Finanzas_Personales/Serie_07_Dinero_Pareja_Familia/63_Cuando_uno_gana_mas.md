@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El silencio que se pudre
+### Prólogo: El silencio que se pudre
 
 Carlos gana 2.100 euros netos al mes. Ana gana 1.400 euros en su empleo a media jornada.
 

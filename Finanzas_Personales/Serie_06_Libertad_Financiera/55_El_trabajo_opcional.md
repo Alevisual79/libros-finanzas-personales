@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que Carlos pensó en el baño
+### Prólogo: Lo que Carlos pensó en el baño
 
 Carlos no lloraba. Pero estaba cerca.
 

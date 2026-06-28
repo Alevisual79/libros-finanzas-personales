@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pila de libros sin leer
+### Prólogo: La pila de libros sin leer
 
 En la mesilla de noche de Isabel hay siete libros. En su tablet, cuarenta y tres libros descargados. En su lista de lectura de Goodreads, más de cien títulos marcados como "quiero leer".
 

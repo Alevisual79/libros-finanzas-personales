@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La conversación de Carlos y Ana que tardó once años
+### Prólogo: La conversación de Carlos y Ana que tardó once años
 
 Carlos y Ana llevan juntos doce años. El undécimo fue el primero en que hablaron de verdad del dinero.
 

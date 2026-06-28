@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El último libro
+### Prólogo: El último libro
 
 Este es el libro número cien.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El acreedor que no negocia como los demás
+### Prólogo: El acreedor que no negocia como los demás
 
 Los bancos son duros.
 

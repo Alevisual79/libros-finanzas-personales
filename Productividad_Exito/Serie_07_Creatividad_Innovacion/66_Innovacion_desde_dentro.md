@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La idea que murió en el comité
+### Prólogo: La idea que murió en el comité
 
 Elena tenía una idea que podría ahorrar al equipo veinte horas semanales. Lo había calculado. Lo había documentado. Había preparado una presentación.
 

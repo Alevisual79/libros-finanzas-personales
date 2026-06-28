@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El despacho del banco
+### Prólogo: El despacho del banco
 
 Carlos entró al banco con 400 euros en la cuenta y una pregunta muy concreta.
 

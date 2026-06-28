@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El entrenamiento que la mayoría ignora
+### Prólogo: El entrenamiento que la mayoría ignora
 
 Cuando la gente quiere "ponerse en forma", piensa en cardio.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La cosa más aburrida y más rentable
+### Prólogo: La cosa más aburrida y más rentable
 
 Te voy a hablar de la estrategia de inversión más aburrida del mundo.
 

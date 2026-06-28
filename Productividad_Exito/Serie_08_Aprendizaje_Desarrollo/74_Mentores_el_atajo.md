@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pregunta que cambio la trayectoria de Elena
+### Prólogo: La pregunta que cambio la trayectoria de Elena
 
 Elena llevaba años avanzando en su carrera de ingeniería, pero sentía que podría ir más rápido. Tomaba cursos, leía libros, asistía a conferencias.
 

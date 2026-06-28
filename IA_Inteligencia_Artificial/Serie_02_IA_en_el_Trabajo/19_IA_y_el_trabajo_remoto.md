@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El equipo que nunca coincide
+### Prólogo: El equipo que nunca coincide
 
 El equipo de Elena tiene seis personas en cuatro zonas horarias: Madrid, Ciudad de México, Singapur y Nueva York. Nunca están todos disponibles al mismo tiempo. Las reuniones sincrόnicas son raras y valiosas.
 

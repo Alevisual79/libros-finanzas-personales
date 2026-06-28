@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Las dos verdades que no se excluyen
+### Prólogo: Las dos verdades que no se excluyen
 
 Voy a decirte dos cosas que son verdad al mismo tiempo.
 

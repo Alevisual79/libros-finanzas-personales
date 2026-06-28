@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El mercado de los asistentes inteligentes
+### Prólogo: El mercado de los asistentes inteligentes
 
 Cuando Rubén empezó a explorar herramientas de IA en 2023, solo existía ChatGPT como opción mainstream. En 2025, tenía que elegir entre al menos seis asistentes de calidad comparable: Claude, Gemini, Copilot, Llama, Mistral y el propio ChatGPT en múltiples versiones.
 

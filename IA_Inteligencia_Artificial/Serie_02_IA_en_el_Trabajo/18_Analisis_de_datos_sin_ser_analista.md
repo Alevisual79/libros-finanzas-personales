@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: Los números que Isabel no entendía
+### Prólogo: Los números que Isabel no entendía
 
 Isabel tenía acceso a los dashboards de RRHH de la empresa desde hacía tres años. Tablas, gráficos, tasas de rotación, puntuaciones de engagement, tiempo de contratación. Los miraba cada mes y tomaba notas.
 

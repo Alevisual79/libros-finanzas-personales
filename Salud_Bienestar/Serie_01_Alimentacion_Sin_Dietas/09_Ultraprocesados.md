@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El alimento que no es alimento
+### Prólogo: El alimento que no es alimento
 
 Hay un yogur en el supermercado con 37 ingredientes.
 

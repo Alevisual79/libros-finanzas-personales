@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El no que Carlos no pudo decir
+### Prólogo: El no que Carlos no pudo decir
 
 Hace cuatro años, Carlos trabajaba en un proyecto que no tenía sentido.
 

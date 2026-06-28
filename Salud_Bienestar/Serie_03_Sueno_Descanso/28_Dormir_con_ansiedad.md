@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La cama como arena de combate
+### Prólogo: La cama como arena de combate
 
 Miguel apaga la luz a las 23:30. Tiene sueño. Cierra los ojos.
 

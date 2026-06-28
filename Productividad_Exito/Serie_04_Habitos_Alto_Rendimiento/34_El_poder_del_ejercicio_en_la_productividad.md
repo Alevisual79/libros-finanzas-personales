@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El hack más subestimado
+### Prólogo: El hack más subestimado
 
 Rubén lleva años leyendo sobre productividad. Ha probado aplicaciones, sistemas, técnicas de concentración, métodos de organización.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El mercado que te vende miedo
+### Prólogo: El mercado que te vende miedo
 
 El mercado de la cosmética anti-aging mueve más de 60.000 millones de dólares al año en el mundo. Las promesas son extraordinarias: "revierte el envejecimiento", "elimina las arrugas", "regenera la piel desde dentro".
 

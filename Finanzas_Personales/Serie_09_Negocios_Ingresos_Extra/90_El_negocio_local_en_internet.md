@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La peluquería de la mujer de Felipe
+### Prólogo: La peluquería de la mujer de Felipe
 
 Felipe, el compañero de Carlos cuyo despido y posterior intento fallido de dropshipping ya se contaron en los libros 73 y 84 de esta colección, tiene una mujer que regenta una pequeña peluquería de barrio desde hace once años. Durante la mayor parte de ese tiempo, el negocio funcionó exactamente como funcionan miles de peluquerías de barrio en España: clientela fija que pasaba por la puerta, alguna recomendación de boca a boca, y un cuaderno de citas escrito a mano sobre el mostrador.
 

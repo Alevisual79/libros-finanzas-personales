@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La directora que espera que la descubran
+### Prólogo: La directora que espera que la descubran
 
 Isabel lleva veinticinco años construyendo una carrera. Tiene resultados. Tiene el respeto de sus colegas. La acaban de nombrar directora de RRHH de una empresa de trescientas personas.
 

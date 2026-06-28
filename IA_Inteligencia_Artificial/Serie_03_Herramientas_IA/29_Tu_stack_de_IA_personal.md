@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: La trampa de la herramienta nueva
+### Prólogo: La trampa de la herramienta nueva
 
 Ruben pasaba cada semana viendo newsletters sobre nuevas herramientas de IA. Cada semana había algo nuevo que era "revolucionario". Cada semana sentía que se estaba quedando atrás.
 

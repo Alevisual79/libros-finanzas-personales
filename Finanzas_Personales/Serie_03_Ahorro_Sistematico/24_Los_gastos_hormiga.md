@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La muerte por mil picotazos
+### Prólogo: La muerte por mil picotazos
 
 Las grandes crisis financieras no matan a la mayoría de personas.
 

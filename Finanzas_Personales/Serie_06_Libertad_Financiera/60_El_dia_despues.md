@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El lunes de Don Alberto
+### Prólogo: El lunes de Don Alberto
 
 Don Alberto se jubiló un viernes de octubre.
 

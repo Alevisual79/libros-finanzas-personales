@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Cuatro personas, cuatro tormentas
+### Prólogo: Cuatro personas, cuatro tormentas
 
 Carlos tiene cuarenta y dos años. Hace dos años, su empresa anunció una reestructuración. Aquella tarde de noviembre, supo que tenía seis meses de fondo de emergencia, un seguro de vida contratado fuera del banco, un testamento firmado con Ana, y un plan claro de qué haría si su nombre aparecía en la lista. Su nombre no apareció. Pero la calma con la que atravesó esas semanas no vino de la suerte. Vino de la preparación.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El problema no es el dinero
+### Prólogo: El problema no es el dinero
 
 Tengo una pregunta para empezar.
 

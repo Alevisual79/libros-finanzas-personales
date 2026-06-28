@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La economía de la atención
+### Prólogo: La economía de la atención
 
 En 1971, el economista Herbert Simon escribió algo que, en el contexto de internet y las redes sociales, resulta profético:
 

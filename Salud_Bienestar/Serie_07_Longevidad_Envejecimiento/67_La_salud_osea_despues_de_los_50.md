@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La fractura que lo cambia todo
+### Prólogo: La fractura que lo cambia todo
 
 La madre de Carmen se cayó al bajar del autobús a los 72 años. Se rompió la cadera. Estuvo en el hospital tres semanas, en la clínica de rehabilitación otras seis. Nunca volvio a caminar igual.
 

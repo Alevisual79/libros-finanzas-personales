@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El antes y el después de noviembre de 2022
+### Prólogo: El antes y el después de noviembre de 2022
 
 El 30 de noviembre de 2022, OpenAI lanzo ChatGPT. En cinco días tenía un millón de usuarios. En dos meses, cien millones. Ninguna aplicación en la historia había crecido tan rápido.
 

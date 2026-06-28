@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La madre que nadie ve
+### Prólogo: La madre que nadie ve
 
 Laura salió del hospital con su bebé 48 horas después del parto. La revisión posparto estaba programada para las seis semanas. Entre el hospital y esa cita: seis semanas sola.
 

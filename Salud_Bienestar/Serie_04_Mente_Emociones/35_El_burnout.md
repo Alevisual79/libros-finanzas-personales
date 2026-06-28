@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El día que ya no pudo más
+### Prólogo: El día que ya no pudo más
 
 Laura se quedó sentada en el coche diez minutos antes de entrar al instituto. No porque no quisiera entrar. Porque físicamente no podía moverse.
 

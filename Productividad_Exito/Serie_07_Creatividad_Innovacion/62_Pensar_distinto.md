@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El problema que se resolvió desde el lado equivocado
+### Prólogo: El problema que se resolvió desde el lado equivocado
 
 Un cliente de Rubén tenía un problema de retención: los usuarios de su aplicación se registraban pero no volvían después de la primera semana.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El sábado que cambio el resultado del lunes
+### Prólogo: El sábado que cambio el resultado del lunes
 
 Isabel tenía la costumbre de trabajar los sábados. Solo unas horas, para adelantar la semana siguiente.
 

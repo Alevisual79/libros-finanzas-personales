@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El cambio que nadie explica
+### Prólogo: El cambio que nadie explica
 
 Carmen entró en la menopausia a los 51 años. Las sofocos empezaron seis meses antes de que dejara de menstruar. La falta de sueño, al poco. El humor cambiante, que su familia atribuía a "sus cosas", la desesperaba.
 

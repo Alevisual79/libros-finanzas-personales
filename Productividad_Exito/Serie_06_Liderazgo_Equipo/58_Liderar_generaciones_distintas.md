@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El equipo que no se entendía
+### Prólogo: El equipo que no se entendía
 
 El equipo de Isabel tenía cuatro generaciones: una persona de 58 años (boomer), dos de 40 (generación X), tres de 30 (millennials) y una de 24 (generación Z).
 

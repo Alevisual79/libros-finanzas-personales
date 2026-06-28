@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La cosa más difícil del mundo moderno
+### Prólogo: La cosa más difícil del mundo moderno
 
 La propuesta de este libro es radical en el contexto actual: hacer una sola cosa a la vez.
 

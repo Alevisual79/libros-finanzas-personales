@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El cuerpo que se encoge
+### Prólogo: El cuerpo que se encoge
 
 Hay personas de 40 años que no pueden tocarse los pies. Que tienen la espalda tan rígida que girarse en el coche para aparcar es un esfuerzo. Que se levantan del suelo con dificultad.
 

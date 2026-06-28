@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ingrediente que está en todas partes
+### Prólogo: El ingrediente que está en todas partes
 
 El azúcar añadido está en el yogur "de dieta". En el zumo de naranja "natural". En el pan de molde "integral". En la salsa de tomate. En los cereales de desayuno "para niños".
 

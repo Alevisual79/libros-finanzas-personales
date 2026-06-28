@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que nadie te dice cuando decides tener hijos
+### Prólogo: Lo que nadie te dice cuando decides tener hijos
 
 Laura y David llevaban seis meses "intentándolo". Laura había dejado la píldora. Tenían relaciones frecuentes. No había pasado nada.
 

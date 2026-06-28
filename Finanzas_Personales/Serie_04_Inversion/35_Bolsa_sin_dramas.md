@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El miércoles que casi lo arruinó todo
+### Prólogo: El miércoles que casi lo arruinó todo
 
 Era un miércoles de octubre.
 

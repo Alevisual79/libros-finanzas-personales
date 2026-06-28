@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La llamada que Marta no esperaba
+### Prólogo: La llamada que Marta no esperaba
 
 Era un martes por la tarde cuando Marta recibió la llamada.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Cuando el cuerpo se convierte en un trabajo a tiempo completo
+### Prólogo: Cuando el cuerpo se convierte en un trabajo a tiempo completo
 
 Carmen recibio el diagnóstico de artritis reumatoide hace tres años. Ya tenía la hipertensión. Ya tenía la artrosis de rodilla. Ahora tiene también un nombre para el dolor de las manos que la despertaba por las noches.
 

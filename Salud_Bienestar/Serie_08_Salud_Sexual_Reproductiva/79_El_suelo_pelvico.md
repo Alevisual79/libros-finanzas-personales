@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El músculo que nadie menciona
+### Prólogo: El músculo que nadie menciona
 
 Laura estornuda y se escapa un poco de orina. Ha pasado desde el segundo parto. Se pone una compresa por las dudas. Se ha acostumbrado.
 

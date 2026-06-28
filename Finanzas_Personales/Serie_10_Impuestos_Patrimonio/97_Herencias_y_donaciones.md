@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La llamada de teléfono que no esperaban
+### Prólogo: La llamada de teléfono que no esperaban
 
 La abuela de Ana falleció en marzo. Tenía ochenta y dos años y había vivido una vida larga y razonablemente plena. La familia lo había anticipado durante meses. Lo que no habían anticipado era la burocracia que vendría después, ni el impuesto que iban a tener que pagar por algo que la abuela les había dejado con todo el amor del mundo.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La consulta dividida
+### Prólogo: La consulta dividida
 
 Carmen fue al médico con el dolor de rodilla. El doctor Sánchez le recetó antiinflamatorio y le dijo que perdiera peso. Correcto y eficaz, pero en cinco minutos.
 

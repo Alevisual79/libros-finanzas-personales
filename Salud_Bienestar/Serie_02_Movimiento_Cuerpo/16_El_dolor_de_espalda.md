@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La epidemia que todos padecen
+### Prólogo: La epidemia que todos padecen
 
 El dolor de espalda es la primera causa de baja laboral en España y uno de los principales motivos de consulta médica.
 

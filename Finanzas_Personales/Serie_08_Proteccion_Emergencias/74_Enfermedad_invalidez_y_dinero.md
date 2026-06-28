@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El compañero de Marta
+### Prólogo: El compañero de Marta
 
 Marta tiene una compañera de máster con quien mantiene el contacto. Diseñadora como ella, misma edad, misma ciudad. Las dos fueron autónomas al mismo tiempo, las dos construyeron sus carteras de clientes más o menos en paralelo.
 

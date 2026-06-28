@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El cajón de los medicamentos
+### Prólogo: El cajón de los medicamentos
 
 Carmen tiene un cajón en la cocina. Dentro hay: el enalapril, el amlodipino, el atorvastatina, el omeprazol, el calcio+vitamina D, el ibuprofeno que toma "cuando le duele la rodilla", el lorazepam que le recetaron hace dos años cuando no dormía, el paracetamol, y dos cajas de antibiótico que le sobró de la última infección.
 

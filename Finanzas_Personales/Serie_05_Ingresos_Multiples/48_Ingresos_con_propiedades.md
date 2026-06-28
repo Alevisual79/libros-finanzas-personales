@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La plaza de garaje de don Alberto
+### Prólogo: La plaza de garaje de don Alberto
 
 Don Alberto tiene una plaza de garaje en el sótano del edificio.
 

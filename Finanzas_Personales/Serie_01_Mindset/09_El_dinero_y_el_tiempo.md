@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que Don Alberto entendió tarde
+### Prólogo: Lo que Don Alberto entendió tarde
 
 Don Alberto tiene 67 años y trabaja los sábados en una ferretería.
 

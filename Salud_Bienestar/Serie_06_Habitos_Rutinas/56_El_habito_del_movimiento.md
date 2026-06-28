@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ejercicio que no es ejercicio
+### Prólogo: El ejercicio que no es ejercicio
 
 Carmen hace 40 minutos de caminata matutina. El resto del día está sentada: en el sofá viendo la tele, en la silla leyendo, en el coche yendo al supermercado.
 

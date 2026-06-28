@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El punto de partida más difícil
+### Prólogo: El punto de partida más difícil
 
 Hay muchos libros sobre fitness dirigidos a personas que ya hacen deporte. Que ya saben moverse. Que buscan mejorar.
 

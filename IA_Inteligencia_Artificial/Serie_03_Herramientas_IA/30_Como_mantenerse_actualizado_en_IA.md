@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El boletin que Elena borro
+### Prólogo: El boletin que Elena borro
 
 Elena se suscribio en 2023 a todos los boletines de IA que pudo encontrar. En tres meses recibía cuarenta emails semanales sobre nuevas herramientas, modelos, investigaciones y debates.
 

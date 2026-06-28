@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que nadie dice sobre el sexo después de los 60
+### Prólogo: Lo que nadie dice sobre el sexo después de los 60
 
 Carmen tiene 62 años. Su marido murió hace cuatro. Lleva un tiempo conociendo a un hombre de 65 en el grupo de senderismo.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El segundo producto de Marta
+### Prólogo: El segundo producto de Marta
 
 El ebook de Marta sobre principios básicos de diseño para emprendedores sin presupuesto, mencionado en el libro 81 de esta serie, le generaba alrededor de cuatrocientos cincuenta euros mensuales sin que ella tuviera que hacer prácticamente nada más allá de revisarlo una vez al año. Durante mucho tiempo, asumió que ese era el techo natural de ese tipo de ingresos.
 

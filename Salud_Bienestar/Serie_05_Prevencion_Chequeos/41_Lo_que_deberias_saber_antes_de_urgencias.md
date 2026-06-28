@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La señal que se ignoró demasiado tiempo
+### Prólogo: La señal que se ignoró demasiado tiempo
 
 Miguel llevaba tres semanas con una molestia en el pecho que aparecía al subir escaleras. Lo atribuyó al estrés, al sedentarismo, a que estaba cogiendo peso. Le pasaba rápido. No era un dolor fuerte.
 

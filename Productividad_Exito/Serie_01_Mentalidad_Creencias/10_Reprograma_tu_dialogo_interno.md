@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El comentarista que nunca calla
+### Prólogo: El comentarista que nunca calla
 
 Isabel tiene un acompañante permanente.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El dinero que duerme
+### Prólogo: El dinero que duerme
 
 Hay algo que el ahorrador disciplinado no sabe.
 

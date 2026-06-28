@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Tener menos para vivir más
+### Prólogo: Tener menos para vivir más
 
 Hay una paradoja en la relación entre posesiones y felicidad.
 

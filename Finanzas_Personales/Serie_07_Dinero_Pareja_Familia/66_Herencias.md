@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El piso de la abuela
+### Prólogo: El piso de la abuela
 
 Don Alberto tiene un piso que heredó de su madre hace quince años.
 

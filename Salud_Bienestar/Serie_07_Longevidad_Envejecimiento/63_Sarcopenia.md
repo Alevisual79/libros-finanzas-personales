@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La fuerza que se escapa sin que nadie lo note
+### Prólogo: La fuerza que se escapa sin que nadie lo note
 
 Carmen recuerda que hace diez años subía las escaleras sin pensarlo. Ahora llega al tercer piso con las piernas pesadas. Antes llevaba las bolsas del supermercado sin problema. Ahora le cuesta.
 

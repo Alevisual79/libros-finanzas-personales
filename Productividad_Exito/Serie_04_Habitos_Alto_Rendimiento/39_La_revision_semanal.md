@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El corredor que nunca mira el mapa
+### Prólogo: El corredor que nunca mira el mapa
 
 Imagina a alguien corriendo un maratón. Corre con esfuerzo total, sin parar, sin mirar a su alrededor, sin revisar en qué kilómetro está ni si va en la dirección correcta.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La excusa del tiempo
+### Prólogo: La excusa del tiempo
 
 "No tengo tiempo para comer bien."
 

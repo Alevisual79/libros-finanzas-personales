@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Funcionar no es estar bien
+### Prólogo: Funcionar no es estar bien
 
 Laura funciona. Va al trabajo, cuida a sus hijos, hace la compra, aparece en las reuniones del colegio. Desde fuera, todo parece en orden.
 

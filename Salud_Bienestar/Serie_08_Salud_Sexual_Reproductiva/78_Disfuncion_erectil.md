@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que David no decía
+### Prólogo: Lo que David no decía
 
 David lleva un año con dificultades para mantener la erección. Al principio, lo atribuía al cansancio. Luego, al estrés. Luego, a la cerveza de los sábados. Ahora ha dejado de intentarlo.
 

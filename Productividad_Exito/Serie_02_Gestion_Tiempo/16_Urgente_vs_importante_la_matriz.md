@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El presidente que tenía que elegir
+### Prólogo: El presidente que tenía que elegir
 
 Dwight Eisenhower, antes de ser presidente de los Estados Unidos, fue el comandante supremo de las fuerzas aliadas en Europa durante la Segunda Guerra Mundial. En ese rol, tomaba decisiones que afectaban a millones de personas.
 

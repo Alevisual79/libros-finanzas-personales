@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Veinte años de piano y no mejorar
+### Prólogo: Veinte años de piano y no mejorar
 
 Rubén tocaba el piano desde los diez años. Había practicado miles de horas.
 

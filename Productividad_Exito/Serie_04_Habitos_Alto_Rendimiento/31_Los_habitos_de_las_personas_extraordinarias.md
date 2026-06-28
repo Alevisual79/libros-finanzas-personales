@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El secreto que no es un secreto
+### Prólogo: El secreto que no es un secreto
 
 Rubén paso años buscando el "secreto" de las personas que logran mucho. Leyó biografías, escuchó podcasts, siguio a emprendedores exitosos en redes sociales.
 

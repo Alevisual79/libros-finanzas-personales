@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El villano que no lo es del todo
+### Prólogo: El villano que no lo es del todo
 
 David tiene el colesterol "alto". Su médico le habló de las estatinas. Él busco en internet y encontró artículos de que el colesterol no es el problema real, que las estatinas son peligrosas, que el aceite de coco lo baja, que todo es un invento de la industria farmacéutica.
 

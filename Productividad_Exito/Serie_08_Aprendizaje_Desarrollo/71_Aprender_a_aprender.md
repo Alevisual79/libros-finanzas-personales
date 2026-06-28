@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Diez años de cursos y pocas habilidades nuevas
+### Prólogo: Diez años de cursos y pocas habilidades nuevas
 
 Elena calculo cuánto tiempo había invertido en formación en los últimos diez años: cursos online, webinars, conferencias, talleres. Cientos de horas.
 

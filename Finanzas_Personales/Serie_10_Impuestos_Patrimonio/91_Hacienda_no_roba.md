@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La carta que Carlos no entendió
+### Prólogo: La carta que Carlos no entendió
 
 Hace unos años, antes de que Carlos empezara a tomarse en serio sus finanzas, recibió una carta de la Agencia Tributaria que no supo interpretar. Hablaba de una discrepancia en su declaración del año anterior, una diferencia de trescientos veinte euros que, según la carta, debía ingresar con un recargo.
 

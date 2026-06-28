@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El trabajo de Elena en 2027
+### Prólogo: El trabajo de Elena en 2027
 
 En 2027, el título en el contrató de Elena seguía siendo "Directora de Tecnología". Pero lo que hacía día a día no se parecía a lo que hacía en 2024.
 

@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El día de 6 horas de Elena
+### Prólogo: El día de 6 horas de Elena
 
 Elena empezó a registrar en qué usaba su tiempo después de implementar herramientas de IA en su flujo de trabajo. El resultado sorprendente: en un mes, redujó su jornada efectiva de trabajo cognitivo intenso de ocho a seis horas, manteniendo el mismo output —y frecuentemente mejorándolo. Las dos horas restantes las usaba para reuniones, llamadas y relación con el equipo.
 

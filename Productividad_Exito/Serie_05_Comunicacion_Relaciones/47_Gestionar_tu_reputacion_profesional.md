@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La reunión a la que no invitaron a Rubén
+### Prólogo: La reunión a la que no invitaron a Rubén
 
 Rubén era bueno en su trabajo. Los resultados lo demostraban. Pero cuando el cliente principal de la agencia para la que colaboraba organizo una reunión estratégica, no llamaron a Rubén.
 

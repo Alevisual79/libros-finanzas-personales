@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El macronutriente perseguido
+### Prólogo: El macronutriente perseguido
 
 Si en los años 90 la grasa era el enemigo, en la década del 2010 los carbohidratos tomaron ese lugar.
 

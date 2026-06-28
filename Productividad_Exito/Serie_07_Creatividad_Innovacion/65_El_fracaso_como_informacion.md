@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El lanzamiento que falló
+### Prólogo: El lanzamiento que falló
 
 Rubén lanzo un producto digital en el que había trabajado seis meses. Las primeras semanas de ventas: casi nulas.
 

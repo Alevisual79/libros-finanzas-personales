@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La aritmética que nadie te explicó
+### Prólogo: La aritmética que nadie te explicó
 
 Carlos debe 15.000 euros.
 

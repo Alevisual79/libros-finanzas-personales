@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El jubilado que enfermó
+### Prólogo: El jubilado que enfermó
 
 Alberto llevaba 35 años trabajando como ingeniero. Cuando se jubiló, muchos esperaban que floreciera. El merecido descanso, los viajes, el tiempo libre.
 

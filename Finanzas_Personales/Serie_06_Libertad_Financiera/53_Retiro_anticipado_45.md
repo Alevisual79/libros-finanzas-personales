@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La conversación del cumpleaños
+### Prólogo: La conversación del cumpleaños
 
 La hermana de Marta cumplió treinta años en noviembre.
 

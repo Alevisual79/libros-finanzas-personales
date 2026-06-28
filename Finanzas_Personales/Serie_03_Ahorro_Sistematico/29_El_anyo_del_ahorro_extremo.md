@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Un año diferente
+### Prólogo: Un año diferente
 
 Hay momentos en la vida donde el ritmo normal no es suficiente.
 

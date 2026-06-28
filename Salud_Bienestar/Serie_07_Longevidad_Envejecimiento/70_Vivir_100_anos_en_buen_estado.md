@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El siglo que se vuelve posible
+### Prólogo: El siglo que se vuelve posible
 
 En 1900, la esperanza de vida en España era de 34 años. En 2024, supera los 83.
 

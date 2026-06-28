@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El guión que nadie cuestionó
+### Prólogo: El guión que nadie cuestionó
 
 Don Alberto trabajó cuarenta y tres años.
 

@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: La pregunta de la analítica
+### Prólogo: La pregunta de la analítica
 
 Rubén llevaba semanas usando ChatGPT para sus propuestas de marketing. Un día le preguntó por las ventas de un producto específico de su cliente. El modelo respondió con cifras detalladas, tendencias, comparativas con el sector. Todo perfectamente redactado.
 

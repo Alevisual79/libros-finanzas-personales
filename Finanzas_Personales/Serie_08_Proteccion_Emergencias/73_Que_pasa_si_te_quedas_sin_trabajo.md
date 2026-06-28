@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Felipe en el baño
+### Prólogo: Felipe en el baño
 
 Carlos ya lo ha mencionado en páginas anteriores de esta serie. Felipe, su compañero de trabajo, llorando en el baño el día de los despidos.
 

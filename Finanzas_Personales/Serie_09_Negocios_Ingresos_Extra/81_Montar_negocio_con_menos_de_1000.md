@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La tarde que Marta dejó de esperar el momento perfecto
+### Prólogo: La tarde que Marta dejó de esperar el momento perfecto
 
 Marta llevaba dos años trabajando como diseñadora en una agencia mediana cuando empezó a sentir que algo no encajaba. No el trabajo en sí, que le gustaba. Era la sensación de que su tiempo, su talento y sus ideas generaban valor que otra persona se quedaba en gran parte. Empezó a darle vueltas a la idea de independizarse, pero la idea se quedaba siempre en el mismo punto: "cuando tenga ahorrado más", "cuando tenga más clientes asegurados", "cuando esté preparada de verdad".
 

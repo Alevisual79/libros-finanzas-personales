@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El piso que nadie sabía que seguía costando dinero
+### Prólogo: El piso que nadie sabía que seguía costando dinero
 
 Los padres de Ana tenían un piso en una ciudad a dos horas de donde vivían Carlos y Ana. Lo habían comprado años atrás como inversión y lo habían alquilado durante una década. Cuando el último inquilino se fue, decidieron no volver a alquilarlo porque a esas alturas ya no les apetecía lidiar con la gestión, y lo dejaron vacío.
 

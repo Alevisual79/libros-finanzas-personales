@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La presentación que nunca terminó
+### Prólogo: La presentación que nunca terminó
 
 Elena llevaba once días preparando la presentación para la reunión de arquitectura del trimestre.
 

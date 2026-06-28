@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El bonus que no cambio nada
+### Prólogo: El bonus que no cambio nada
 
 La empresa donde trabajaba Rubén como consultor implementó un sistema de bonificaciones por rendimiento. Era generoso. El directivo que lo lanzo esperaba un aumento de la productividad.
 

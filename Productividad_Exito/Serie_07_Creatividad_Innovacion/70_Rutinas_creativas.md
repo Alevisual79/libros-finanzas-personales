@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Las ideas que aparecen en el mismo sitio
+### Prólogo: Las ideas que aparecen en el mismo sitio
 
 Mason Currey, en su libro "Daily Rituals", documentó las rutinas de trabajo de ciento sesenta y un artistas, escritores, filósofos y científicos.
 

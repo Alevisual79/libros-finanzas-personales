@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Los bañistas del lago Bañolas
+### Prólogo: Los bañistas del lago Bañolas
 
 En Finlandia, el uso de la sauna es cultural y antiguo. Prácticamente todos los finlandeses tienen acceso a una sauna. Los estudios de Jari Laukkanen en Kuopio han seguido a 2.300 hombres finlandeses durante más de 20 años y han documentado que el uso frecuente de sauna (4-7 veces por semana) se asocia a una reducción del riesgo de muerte cardiovascular del 50% y de muerte por cualquier causa del 40%, en comparación con el uso una vez por semana.
 

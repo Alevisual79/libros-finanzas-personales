@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La combinación que nadie más tiene
+### Prólogo: La combinación que nadie más tiene
 
 El mentor miraba el currículum de Rubén. Era un buen currículum. Diseño gráfico, marketing digital, algo de psicología del consumidor, escritura persuasiva, un conocimiento básico de programación.
 

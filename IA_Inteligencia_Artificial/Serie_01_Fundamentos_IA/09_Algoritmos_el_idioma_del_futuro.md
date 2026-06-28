@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: Las decisiones invisibles
+### Prólogo: Las decisiones invisibles
 
 Rubén no sabía que un algoritmo había decidido que no vería la oferta de trabajo que cambio la carrera de su amigo. El algoritmo de LinkedIn consideró que su perfil no encajaba con los parámetros de búsqueda del reclutador.
 

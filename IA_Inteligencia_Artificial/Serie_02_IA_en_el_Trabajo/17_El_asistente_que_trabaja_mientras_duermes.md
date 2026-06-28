@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El informe que nadie escribió
+### Prólogo: El informe que nadie escribió
 
 Elena llegó al trabajo el lunes por la mañana y encontró en su bandeja de entrada un informe de treinta páginas sobre las tendencias del sector para el próximo trimestre. Con análisis de competidores, datos de mercado, resumen de noticias relevantes y cinco recomendaciones estratégicas con justificación.
 

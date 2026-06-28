@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El acompañante no invitado
+### Prólogo: El acompañante no invitado
 
 Miguel vive con ansiedad desde los veintitrés años. La conoce bien: el nudo en el pecho, el pensamiento que se acelera, la sensación de que algo va a salir mal aunque no sepa exactamente qué.
 

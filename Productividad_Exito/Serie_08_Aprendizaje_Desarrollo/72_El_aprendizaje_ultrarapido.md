@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Cuatro horas para aprender ukelele
+### Prólogo: Cuatro horas para aprender ukelele
 
 Tim Ferriss, en "The 4-Hour Chef", documentó su experimento de aprender una habilidad nueva a nivel competente en el menor tiempo posible, utilizando técnicas de aprendizaje acelerado.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Las botellas de Miguel
+### Prólogo: Las botellas de Miguel
 
 Miguel tiene tres botellas de agua en la mesa. Una filtrada, una alcalina que le han recomendado en el gimnasio, y una de agua con hidrógeno que leyó en un blog de bienestar que tenía propiedades antioxidantes.
 

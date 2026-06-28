@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ecosistema dentro de ti
+### Prólogo: El ecosistema dentro de ti
 
 Tu intestino alberga aproximadamente 38 billones de bacterias. Más células bacterianas que células humanas tienes en todo el cuerpo.
 

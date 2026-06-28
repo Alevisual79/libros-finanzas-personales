@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pregunta que nadie se hace
+### Prólogo: La pregunta que nadie se hace
 
 ¿Y si pudieras vivir sin deuda?
 

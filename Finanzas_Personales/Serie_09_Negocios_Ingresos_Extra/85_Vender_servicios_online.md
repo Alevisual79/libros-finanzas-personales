@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Lo que Ana descubrió en su jornada parcial
+### Prólogo: Lo que Ana descubrió en su jornada parcial
 
 Ana trabaja a media jornada desde que Marcos cumplió un año, una decisión que en el libro 65 de esta colección ya se analizó con detalle por su coste real en ingresos y en progresión profesional. Lo que ese libro no contó es lo que Ana hizo después, cuando llevaba dos años en ese ritmo y empezó a sentir que sus tardes libres podían dar algo más que tiempo de descanso.
 

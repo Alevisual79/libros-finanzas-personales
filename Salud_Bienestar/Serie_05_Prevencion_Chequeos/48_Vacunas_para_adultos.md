@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La vacuna que olvidaste que necesitabas
+### Prólogo: La vacuna que olvidaste que necesitabas
 
 Laura se vacunó de niña. Recuerda vagamente las cartillas. Desde entonces, solo la gripe cada año.
 

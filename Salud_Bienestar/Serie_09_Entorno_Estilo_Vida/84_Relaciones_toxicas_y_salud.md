@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El cuerpo que llevaba a Marta
+### Prólogo: El cuerpo que llevaba a Marta
 
 Laura tenía una amiga desde la universidad. Cuando Marta llamaba, Laura ya sentía algo antes de coger el teléfono: un nudo en el estómago, una especie de preparación para el agotamiento.
 

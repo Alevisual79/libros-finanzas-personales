@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El que nadie había nombrado líder
+### Prólogo: El que nadie había nombrado líder
 
 En el equipo de desarrollo donde trabajaba Elena, había una persona —técnicamente un par, sin cargo especial— que siempre sabía cómo destrabar los proyectos atascados, a quién involucrar para resolver cada problema, cómo hacer que el equipo se alineara cuando había desacuerdo.
 

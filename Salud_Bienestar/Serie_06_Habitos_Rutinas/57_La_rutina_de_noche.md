@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Las últimas horas del día
+### Prólogo: Las últimas horas del día
 
 Laura llega a casa a las 19:30. Prepara la cena, ayuda con los deberes, baña a los niños, los acuesta, hace la colada, responde emails del trabajo, se sienta en el sofá, coge el teléfono, ve una serie hasta la 1 de la mañana y se va a la cama con el cerebro a 200 revoluciones.
 

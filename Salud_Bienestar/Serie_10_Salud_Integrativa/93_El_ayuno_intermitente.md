@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La moda que tiene base científica
+### Prólogo: La moda que tiene base científica
 
 Miguel empezó a ayunar porque lo leía en todos sitios. "Pierde peso sin contar calorías", "activa la autofagia", "vive más tiempo". El ayuno intermitente era la tendencia de bienestar más popular de los últimos años.
 

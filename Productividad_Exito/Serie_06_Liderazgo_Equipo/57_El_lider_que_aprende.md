@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El experto que dejó de aprender
+### Prólogo: El experto que dejó de aprender
 
 El mentor conoció a un directivo que había sido brillante en sus primeros años de carrera. Curioso, abierto a nuevas ideas, dispuesto a cambiar de opinión cuando los datos lo justificaban.
 

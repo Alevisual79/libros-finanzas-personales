@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La sesión que no produjó nada
+### Prólogo: La sesión que no produjó nada
 
 El equipo de Elena tuvo una "sesión de brainstorming" para encontrar formas de mejorar el proceso de onboarding de nuevos empleados.
 

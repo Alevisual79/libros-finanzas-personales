@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La copa de vino de cada noche
+### Prólogo: La copa de vino de cada noche
 
 David, el marido de Laura, lleva años tomando una copa de vino con la cena. A veces dos. Los fines de semana, quizás tres o cuatro entre las comidas y la noche.
 

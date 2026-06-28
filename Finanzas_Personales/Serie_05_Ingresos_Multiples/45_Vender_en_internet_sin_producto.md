@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La comisión que Carlos no esperaba
+### Prólogo: La comisión que Carlos no esperaba
 
 Carlos había publicado dos artículos en un blog personal que creó como experimento.
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El deporte más popular y más lesionante
+### Prólogo: El deporte más popular y más lesionante
 
 El running es el deporte más practicado por adultos en España. Bajo coste, sin horarios, sin instalaciones, accesible desde cualquier barrio.
 

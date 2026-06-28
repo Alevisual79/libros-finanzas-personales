@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La cama compartida que separa
+### Prólogo: La cama compartida que separa
 
 David y Laura llevan doce años durmiendo juntos. Hace cinco, David empezó a roncar. Primero era ocasional. Luego fue cada noche. Ahora Laura calcula que se despierta entre cuatro y seis veces por noche. Se ha mudado al sofá tres veces esta semana.
 

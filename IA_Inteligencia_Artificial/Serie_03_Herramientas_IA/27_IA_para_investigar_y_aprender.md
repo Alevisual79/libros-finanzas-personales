@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: La biblioteca infinita
+### Prólogo: La biblioteca infinita
 
 El mentor de Elena tenía un problema cronico: necesitaba mantenerse actualizado en campos que evolucionaban demasiado rápido. La cantidad de papers, artículos, informes y libros relevantes era imposible de procesar de forma lineal.
 

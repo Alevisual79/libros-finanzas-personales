@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La culpa que acompaña a cada bocado
+### Prólogo: La culpa que acompaña a cada bocado
 
 Muchas personas sienten culpa cada vez que comen algo que no está "en el plan".
 

@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: Felipe durante el desempleo
+### Prólogo: Felipe durante el desempleo
 
 Felipe, el compañero de Carlos cuyo despido se relató en el libro 73 de esta colección, pasó dieciocho meses buscando trabajo. En el noveno mes, sin ingresos nuevos a la vista y con la ansiedad creciendo, vio un vídeo de YouTube que prometía "diez mil euros en el primer mes" con una tienda online sin inventario propio.
 

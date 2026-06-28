@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El cálculo que dejó a Carlos sin palabras
+### Prólogo: El cálculo que dejó a Carlos sin palabras
 
 Carlos estaba mirando la pantalla de su ordenador.
 

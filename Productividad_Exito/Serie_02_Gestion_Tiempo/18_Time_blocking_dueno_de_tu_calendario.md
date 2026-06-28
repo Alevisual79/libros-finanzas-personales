@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El ingeniero que diseña su tiempo
+### Prólogo: El ingeniero que diseña su tiempo
 
 Elena tiene dos versiones de su semana laboral.
 

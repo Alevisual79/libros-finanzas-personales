@@ -13,7 +13,7 @@
 
 ---
 
-## Prólogo: El video que nadie filmo
+### Prólogo: El video que nadie filmo
 
 Isabel necesitaba un video de bienvenida para los nuevos empleados. Contratar producción de video costaba miles de euros. Grabarlo ella misma le parecia aun peor.
 

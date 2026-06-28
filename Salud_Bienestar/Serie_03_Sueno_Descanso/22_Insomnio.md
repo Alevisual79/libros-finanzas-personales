@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El insomnio que no se ve
+### Prólogo: El insomnio que no se ve
 
 El insomnio es invisible.
 

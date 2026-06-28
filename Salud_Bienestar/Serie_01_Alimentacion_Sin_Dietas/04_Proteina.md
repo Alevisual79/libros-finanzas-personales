@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El nutriente más ignorado en las dietas populares
+### Prólogo: El nutriente más ignorado en las dietas populares
 
 Cuando alguien empieza una dieta, generalmente reduce las calorías, elimina los carbohidratos o la grasa, y olvida completamente la proteína.
 

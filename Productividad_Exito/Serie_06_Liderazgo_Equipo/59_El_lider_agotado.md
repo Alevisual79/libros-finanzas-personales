@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La pregunta que nadie hacía
+### Prólogo: La pregunta que nadie hacía
 
 Isabel era la que preguntaba a todos en su equipo cómo estaban. Preguntaba con genuino interés. Gestionaba el bienestar de su equipo con la misma atención que los resultados del departamento.
 

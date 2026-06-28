@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: La tarde en que Carlos y Ana lo pusieron todo sobre la mesa
+### Prólogo: La tarde en que Carlos y Ana lo pusieron todo sobre la mesa
 
 Fue una tarde de sábado de principios de octubre. Los niños estaban con los abuelos de Ana, la casa estaba en silencio, y Carlos había preparado café para los dos. En la mesa del salón, donde normalmente comían, había un folio en blanco y un bolígrafo.
 

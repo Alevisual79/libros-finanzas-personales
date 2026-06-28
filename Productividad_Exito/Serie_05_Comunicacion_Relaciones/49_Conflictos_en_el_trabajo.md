@@ -14,7 +14,7 @@
 
 ---
 
-## Prólogo: El conflicto que nadie quiso nombrar
+### Prólogo: El conflicto que nadie quiso nombrar
 
 En el equipo de Isabel, había una tensión entre dos personas desde hacía meses. Todo el mundo lo sabía. Nadie lo nombraba.
 
