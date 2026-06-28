@@ -1,4 +1,4 @@
-# Proteger tu Bienestar en Relaciones Dificiles
+# Proteger tu Bienestar en Relaciones Difíciles
 ## Estrategias para no perder tu equilibrio en entornos relacionales complejos
 
 **Serie 09: Límites y Relaciones Toxicas — Libro 10 de 10**
@@ -43,7 +43,7 @@ No necesitas que todo tu entorno sea saludable para tener momentos de bienestar 
 
 ---
 
-## Capítulo 3: Gestion emocional en situaciones de alta toxicidad
+## Capítulo 3: Gestión emocional en situaciones de alta toxicidad
 
 Desarrollar habilidades específicas de regulación emocional para situaciones de exposición regular a dinámicas toxicas reduce el impacto acumulativo de esa exposición en el bienestar general.
 

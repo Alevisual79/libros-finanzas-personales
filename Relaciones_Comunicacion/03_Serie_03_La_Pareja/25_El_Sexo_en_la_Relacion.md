@@ -97,7 +97,7 @@ El deseo en la pareja larga no se encuentra. Se crea.
 
 ---
 
-## Capítulo 6: Sexo y estres: por qué desaparece primero
+## Capítulo 6: Sexo y estrés: por qué desaparece primero
 
 Cuando el estrés sube, el sexo suele ser lo primero en desaparecer de la agenda de la pareja. No es una coincidencia. Es fisiologia.
 

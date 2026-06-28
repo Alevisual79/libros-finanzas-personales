@@ -47,7 +47,7 @@ Tu cerebro no busca certeza porque tiene razón en que la necesitas. La busca po
 
 ---
 
-## Capítulo 3: La busqueda de certeza: cuando el remedio es el veneno
+## Capítulo 3: La búsqueda de certeza: cuando el remedio es el veneno
 
 Elena pasa horas buscando información para reducir la incertidumbre sobre una decisión médica importante. Cada pieza de información nueva que encuentra no resuelve la incertidumbre. Genera nuevas preguntas y nuevas fuentes de incertidumbre que requieren más búsqueda.
 

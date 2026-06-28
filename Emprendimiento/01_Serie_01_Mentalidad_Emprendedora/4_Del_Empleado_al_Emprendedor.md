@@ -117,7 +117,7 @@ El riesgo que no gestionas no desaparece. Solo decide solo, sin tu participació
 
 ---
 
-## Capítulo 8: De la busqueda de validación a la busqueda de retroalimentación útil
+## Capítulo 8: De la búsqueda de validación a la búsqueda de retroalimentación útil
 
 Marcos ha tenido que aprender a pedir retroalimentación que sea útil en lugar de retroalimentación que sea agradable.
 

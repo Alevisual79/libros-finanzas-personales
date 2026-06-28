@@ -145,7 +145,7 @@ No puedes cambiar lo que no puedes aceptar que existe. La aceptación es el prim
 
 ---
 
-## Capítulo 10: Vivir con autocompasión como habito
+## Capítulo 10: Vivir con autocompasión como hábito
 
 Ruben ha incorporado la autocompasión como hábito diario: cuando se equivoca, tiene treinta segundos de pausa compasiva antes de responder. Cuando el crítico interno se activa con fuerza, nota su activación antes de fusionarse con su contenido. Cuando tiene un dia difícil, se trata con la amabilidad que daria a un amigo cercano.
 

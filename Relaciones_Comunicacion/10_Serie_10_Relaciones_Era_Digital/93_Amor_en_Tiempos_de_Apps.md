@@ -127,7 +127,7 @@ Las aplicaciones de citas pueden facilitar el encuentro inicial, pero no pueden 
 
 ---
 
-## Capítulo 10: Integrar lo digital en una busqueda de pareja real
+## Capítulo 10: Integrar lo digital en una búsqueda de pareja real
 
 El uso efectivo de las herramientas digitales de citas requiere integrarlas cómo un componente de una estrategia más amplia de búsqueda de conexión, no cómo la totalidad de esa estrategia.
 

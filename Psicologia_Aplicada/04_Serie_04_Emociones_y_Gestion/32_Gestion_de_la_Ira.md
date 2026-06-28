@@ -1,4 +1,4 @@
-# Gestion de la Ira
+# Gestión de la Ira
 ## Cómo manejar la rabia sin explotar ni reprimirla
 
 **Serie 04: Emociones y Gestión Emocional — Libro 2 de 10**

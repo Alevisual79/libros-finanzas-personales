@@ -127,7 +127,7 @@ Pedirle a un adolescente que use la tecnología de forma saludable mientras el p
 
 ---
 
-## Capítulo 10: La relación con el movil como conversación continua
+## Capítulo 10: La relación con el móvil como conversación continua
 
 Gestionar la relación de un adolescente con la tecnología no es un problema que se resuelve de una vez con una regla establecida, sino una conversación continua que evoluciona con la edad, la madurez, y las circunstancias cambiantes.
 

@@ -47,7 +47,7 @@ La reacción que parece desproporcionada al presente probablemente es proporcion
 
 ---
 
-## Capítulo 3: Los tipos de trauma: un mapa de la experiencia traumatica
+## Capítulo 3: Los tipos de trauma: un mapa de la experiencia traumática
 
 Ruben empieza a reconocer que algunas de sus experiencias de infancia podrían encajar en la categoría del trauma aunque no lo parezcan desde fuera. Conocer los tipos de trauma ayuda a hacer el mapa.
 

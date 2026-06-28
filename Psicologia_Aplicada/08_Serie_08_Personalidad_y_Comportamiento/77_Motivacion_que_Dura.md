@@ -47,7 +47,7 @@ La motivación que te falta no siempre es fuerza de voluntad. A veces es autonom
 
 ---
 
-## Capítulo 3: El flujo: el estado de motivación optima
+## Capítulo 3: El flujo: el estado de motivación óptima
 
 Ruben ha tenido momentos en el trabajo donde el tiempo pasa sin sentirlo y el trabajo fluye de forma extraordinaria. Eso tiene nombre y condiciones.
 

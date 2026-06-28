@@ -55,7 +55,7 @@ Elegir terapeuta no es solo buscar credenciales correctas. Es también evaluar l
 
 ---
 
-## Capítulo 4: Por qué la alianza terapeutica importa tanto
+## Capítulo 4: Por qué la alianza terapéutica importa tanto
 
 La calidad de la relación entre el paciente y el terapeuta, conocida como alianza terapéutica, es consistentemente identificada en la investigación como uno de los predictores más fuertes de resultado exitoso, superando en algunos estudios la importancia del enfoque técnico específico utilizado.
 

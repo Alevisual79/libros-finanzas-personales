@@ -1,5 +1,5 @@
 # Privacidad y Relaciones
-## Lo que compartes sobre tu vida y tus vinculos en la red
+## Lo que compartes sobre tu vida y tus vínculos en la red
 
 **Serie 10: Relaciones en la Era Digital — Libro 4 de 10**
 
@@ -91,7 +91,7 @@ Usar redes sociales para batallas indirectas después de una ruptura generalment
 
 ---
 
-## Capítulo 7: Stalkear al ex: el habito que daña
+## Capítulo 7: Stalkear al ex: el hábito que daña
 
 Revisar repetidamente las redes sociales de una expareja, incluso sin contacto directo, es un patron común pero daniño que interfiere significativamente con el proceso natural de duelo y desapego después de una ruptura.
 

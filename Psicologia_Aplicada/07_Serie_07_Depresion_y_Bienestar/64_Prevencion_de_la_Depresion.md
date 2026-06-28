@@ -1,5 +1,5 @@
 # Prevención de la Depresión
-## Habitos y estrategias para proteger tu salud mental
+## Hábitos y estrategias para proteger tu salud mental
 
 **Serie 07: Depresión y Bienestar Mental — Libro 4 de 10**
 
@@ -47,7 +47,7 @@ La MBCT no es la mejor terapia para todo el mundo. Es la mejor intervención pre
 
 ---
 
-## Capítulo 3: El ejercicio como prevención: el habito más accesible
+## Capítulo 3: El ejercicio como prevención: el hábito más accesible
 
 Elena ha aprendido que el ejercicio no es solo un tratamiento para la depresión activa sino un factor protector cuando se práctica de forma regular.
 
@@ -89,7 +89,7 @@ Las relaciones no son complementos de la vida: son infraestructura de la salud m
 
 ---
 
-## Capítulo 6: La regulación del estres cronico como prevención
+## Capítulo 6: La regulación del estrés cronico como prevención
 
 Ruben vive con un nivel de estrés cronico que normalizo hace años. La investigación le muestra el coste de esa normalización.
 
@@ -131,7 +131,7 @@ El proposito que da sentido a lo que vives no te protege de las dificultades. Te
 
 ---
 
-## Capítulo 9: La monitorización del estado de animo como prevención
+## Capítulo 9: La monitorización del estado de ánimo como prevención
 
 Isabel ha aprendido a monitorizar su estado de ánimo como parte de su estrategia preventiva. Detectar la señales tempranas antes de que el episodio se instale es la clave.
 

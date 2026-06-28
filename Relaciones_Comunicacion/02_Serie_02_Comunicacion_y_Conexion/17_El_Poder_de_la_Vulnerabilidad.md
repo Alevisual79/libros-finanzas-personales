@@ -23,7 +23,7 @@ La investigación de Brene Brown durante dos décadas con miles de personas mues
 
 ---
 
-## Capítulo 1: Que es la vulnerabilidad segun Brene Brown
+## Capítulo 1: Que es la vulnerabilidad según Brene Brown
 
 Brene Brown define la vulnerabilidad cómo la incertidumbre, el riesgo y la exposición emocional. No es debilidad. Es el origen de todas las emociones positivas que dan sentido a la vida: el amor, la pertenencia, la alegria, la creatividad, la confianza.
 
@@ -79,7 +79,7 @@ Lo que más te avergüenza de ti mismo es frecuentemente lo que más te conecta 
 
 ---
 
-## Capítulo 5: El nivel adecuado de vulnerabilidad segun el contexto
+## Capítulo 5: El nivel adecuado de vulnerabilidad según el contexto
 
 La vulnerabilidad apropiada no es dejar de tener filtros. Es compartir lo que es relevante con quien es adecuado en el momento que tiene sentido. Volcarse emocionalmente con un desconocido en una cena de trabajo no es vulnerabilidad. Es ausencia de calibración.
 

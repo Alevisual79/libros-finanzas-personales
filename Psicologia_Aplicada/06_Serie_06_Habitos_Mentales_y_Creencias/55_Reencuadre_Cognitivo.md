@@ -103,7 +103,7 @@ El fracaso que procesas como información te hace más capaz. El que solo te hac
 
 ---
 
-## Capítulo 7: El reencuadre del estres: la respuesta que ayuda
+## Capítulo 7: El reencuadre del estrés: la respuesta que ayuda
 
 Isabel vive con altos niveles de estrés y los interpreta como señal de que algo esta mal. La investigación tiene una perspectiva diferente que puede cambiar su relación con el estrés.
 

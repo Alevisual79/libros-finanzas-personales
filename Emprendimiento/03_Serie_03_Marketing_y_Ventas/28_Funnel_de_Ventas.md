@@ -103,7 +103,7 @@ El lead que está listo para comprar solo necesita que no pongas obstaculos en e
 
 ---
 
-## Capítulo 7: El funnel de ventas B2B: la logica del ciclo de ventas largo
+## Capítulo 7: El funnel de ventas B2B: la lógica del ciclo de ventas largo
 
 Marcos ha adaptado el modelo de funnel al ciclo largo de las ventas B2B.
 

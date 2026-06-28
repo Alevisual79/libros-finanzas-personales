@@ -131,7 +131,7 @@ El asombro es el antídoto más rápido al egocentrismo que produce el sufrimien
 
 ---
 
-## Capítulo 9: La alegria sostenida: habitos y condiciones de fondo
+## Capítulo 9: La alegria sostenida: hábitos y condiciones de fondo
 
 Isabel quiere alegria no solo en momentos especiales sino de fondo, cómo una condición base desde la que vivir.
 

@@ -61,7 +61,7 @@ Lo que haces es una parte importante de quien eres. Pero no puede ser todo, porq
 
 ---
 
-## Capítulo 4: Identidad y relaciones: quien eres segun con quien estas
+## Capítulo 4: Identidad y relaciones: quien eres según con quien estas
 
 Isabel se da cuenta de que es una persona diferente con su madre que con sus amigos, diferente en el trabajo que en una reunión familiar. No sabe si eso es autenticidad (se adapta al contexto) o falta de autenticidad (no es ella misma en todos los contextos).
 

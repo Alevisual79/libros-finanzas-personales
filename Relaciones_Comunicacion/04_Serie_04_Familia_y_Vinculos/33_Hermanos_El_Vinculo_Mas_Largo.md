@@ -1,4 +1,4 @@
-# Hermanos: El Vinculo Más Largo
+# Hermanos: El Vínculo Más Largo
 ## Cómo gestionar la relación con hermanos a lo largo de la vida
 
 **Serie 04: Familia y Vínculos — Libro 3 de 10**

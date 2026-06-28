@@ -1,5 +1,5 @@
 # Autoconocimiento y Relaciones
-## Como conocerte mejor transforma tus vinculos
+## Como conocerte mejor transforma tus vínculos
 
 **Serie 01: Conocete a Ti Mismo — Libro 9 de 10**
 

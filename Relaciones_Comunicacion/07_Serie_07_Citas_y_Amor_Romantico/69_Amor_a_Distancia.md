@@ -79,7 +79,7 @@ Una relación a distancia sin ningún horizonte de reunificación es más difíc
 
 ---
 
-## Capítulo 6: Confianza como base unica
+## Capítulo 6: Confianza como base única
 
 En ausencia de la capacidad de verificación visual constante, la confianza se convierte en el fundamento casi exclusivo sobre el que descansa toda relación a distancia, lo que requiere construirla deliberadamente a traves de consistencia comunicativa.
 

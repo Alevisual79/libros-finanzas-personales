@@ -131,7 +131,7 @@ La dureza contigo mismo que llamas responsabilidad no te hace mejor. Te hace má
 
 ---
 
-## Capítulo 9: La adversidad y los demás: cómo la dificultad puede fortalecer los vinculos
+## Capítulo 9: La adversidad y los demás: cómo la dificultad puede fortalecer los vínculos
 
 Ruben descubrió en su fracaso de negocio quienes eran sus amigos reales.
 

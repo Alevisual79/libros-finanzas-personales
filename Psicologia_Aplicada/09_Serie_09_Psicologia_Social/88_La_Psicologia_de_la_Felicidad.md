@@ -61,7 +61,7 @@ La felicidad que no ves porque ya te acostumbraste sigue ahí. La gratitud la ha
 
 ---
 
-## Capítulo 4: El flujo: la experiencia optima que produce felicidad sin buscarla
+## Capítulo 4: El flujo: la experiencia óptima que produce felicidad sin buscarla
 
 Ruben tiene una actividad en la que pierde la noción del tiempo y después se siente más vivo. La investigación de Csikszentmihalyi lo explica.
 

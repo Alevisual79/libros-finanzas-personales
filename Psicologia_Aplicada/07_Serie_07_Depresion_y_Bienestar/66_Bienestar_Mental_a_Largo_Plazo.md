@@ -33,7 +33,7 @@ Las relaciones que construyes a los treinta y cuarenta son la infraestructura de
 
 ---
 
-## Capítulo 2: El modeló PERMA: los cinco pilares del bienestar segun la psicología positiva
+## Capítulo 2: El modeló PERMA: los cinco pilares del bienestar según la psicología positiva
 
 Ruben quiere entender el bienestar de forma sistemica, no solo como ausencia de problemas.
 

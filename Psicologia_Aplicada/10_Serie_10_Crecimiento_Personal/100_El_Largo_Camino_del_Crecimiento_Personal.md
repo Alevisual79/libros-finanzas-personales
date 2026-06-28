@@ -61,7 +61,7 @@ La persona que solo puede ser una cosa se rompe cuando la vida le pide la otra. 
 
 ---
 
-## Capítulo 4: Las relaciones como espejo del crecimiento: como los vinculos revelan quien somos
+## Capítulo 4: Las relaciones como espejo del crecimiento: como los vínculos revelan quien somos
 
 Elena ha aprendido que sus relaciones son el lugar donde mejor puede ver quien realmente es, con más claridad que cualquier reflexión solitaria.
 

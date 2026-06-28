@@ -47,7 +47,7 @@ La batalla que ganas rediseñando el campo es más fácil que la que ganas resis
 
 ---
 
-## Capítulo 3: Los habitos como arquitectura de la disciplina
+## Capítulo 3: Los hábitos como arquitectura de la disciplina
 
 Isabel ha llegado a entender que los hábitos son el mecanismo por el que la disciplina se vuelve sostenible.
 

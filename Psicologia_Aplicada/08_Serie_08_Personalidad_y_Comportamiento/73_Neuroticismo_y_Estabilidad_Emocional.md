@@ -75,7 +75,7 @@ La estabilidad emocional que no siente el sufrimiento propio no lo elimina. Solo
 
 ---
 
-## Capítulo 5: Gestion del neuroticismo: lo que la investigación muestra que funciona
+## Capítulo 5: Gestión del neuroticismo: lo que la investigación muestra que funciona
 
 Ruben busca estrategias específicas para reducir el impacto de su neuroticismo en la vida cotidiana.
 

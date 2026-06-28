@@ -1,4 +1,4 @@
-# TEPT y Estres Postraumatico
+# TEPT y Estrés Postraumatico
 ## Entender y tratar el trauma cuando no desaparece solo
 
 **Serie 05: Traumas y Heridas — Libro 2 de 10**

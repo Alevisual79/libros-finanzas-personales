@@ -61,7 +61,7 @@ El sueño no es tiempo robado a la productividad. Es el mantenimiento sin el cua
 
 ---
 
-## Capítulo 4: El estres cronico destruye el cerebro literalmente
+## Capítulo 4: El estrés cronico destruye el cerebro literalmente
 
 Elena trabaja bajo presión constante desde hace tres años. Tiene dolores de cabeza frecuentes, duerme mal, se irrita con facilidad y nota que su memoria a corto plazo falla. Su médico le dice que es estrés y le recomienda que se relaje. Lo que su médico probablemente no le explica es que el estrés cronico no es solo una sensación desagradable. Es un proceso de daño físico del tejido cerebral.
 

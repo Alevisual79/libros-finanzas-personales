@@ -47,7 +47,7 @@ El cambio que empiezas en la etapa equivocada fracasa por las razones equivocada
 
 ---
 
-## Capítulo 3: El proceso de cambio segun la psicología cognitivo-conductual
+## Capítulo 3: El proceso de cambio según la psicología cognitivo-conductual
 
 Elena ha intentado cambiar sus pensamientos para cambiar su comportamiento. A veces funciona y a veces no. La investigación matiza.
 
@@ -61,7 +61,7 @@ A veces el camino más corto al pensamiento que quieres es hacer primero lo que 
 
 ---
 
-## Capítulo 4: Los habitos como arquitectura del cambio: el papel del entorno
+## Capítulo 4: Los hábitos como arquitectura del cambio: el papel del entorno
 
 Isabel ha aprendido que intentar cambiar solo con fuerza de voluntad es mucho menos efectivo que cambiar el entorno.
 

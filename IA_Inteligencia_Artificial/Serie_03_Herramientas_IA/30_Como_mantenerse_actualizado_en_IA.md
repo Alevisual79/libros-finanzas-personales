@@ -194,7 +194,7 @@ La Serie 4 da un giro: de las herramientas a la creatividad. Como la IA está tr
 
 ---
 
-## Epílogo: La unica constante
+## Epílogo: La única constante
 
 En un campo que cambia tan rápido, la única constante útil es el meta-aprendizaje: la capacidad de aprender a aprender en un dominio nuevo.
 

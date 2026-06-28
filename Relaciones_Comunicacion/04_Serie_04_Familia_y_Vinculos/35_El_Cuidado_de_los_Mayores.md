@@ -33,7 +33,7 @@ Cuidar a un mayor no es una tarea. Es una combinación de varias cargas distinta
 
 ---
 
-## Capítulo 2: El agotamiento del cuidador: el sindrome invisible
+## Capítulo 2: El agotamiento del cuidador: el síndrome invisible
 
 El agotamiento cronico de los cuidadores familiares, conocido como burnout del cuidador, es ampliamente documentado en la literatura médica pero frecuentemente invisible para el entorno social de quien lo experimenta.
 

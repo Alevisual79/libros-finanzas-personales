@@ -19,7 +19,7 @@ Ruben ha visto cómo un comentario suyo en redes sociales recibio respuestas que
 
 ---
 
-## Capítulo 1: La psicología de masas clasica: de Le Bon a la era digital
+## Capítulo 1: La psicología de masas clásica: de Le Bon a la era digital
 
 La psicología de las multitudes tiene un siglo de historia. La mayor parte de ella sigue siendo relevante.
 

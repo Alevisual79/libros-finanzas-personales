@@ -1,4 +1,4 @@
-# Habitos: la Ciencia del Cambio de Comportamiento
+# Hábitos: la Ciencia del Cambio de Comportamiento
 ## Cómo cambiar lo que haces cuando no funciona
 
 **Serie 08: Personalidad y Comportamiento — Libro 6 de 10**
@@ -19,7 +19,7 @@ Isabel lleva seis meses intentando hacer ejercicio regularmente. Ha empezado tre
 
 ---
 
-## Capítulo 1: Que es un habito y cómo se forma
+## Capítulo 1: Que es un hábito y cómo se forma
 
 Los hábitos no son decisiones repetidas. Son algo diferente y más automático.
 
@@ -33,7 +33,7 @@ El hábito que no comprendes te controla. El que comprendes puedes modificarlo.
 
 ---
 
-## Capítulo 2: La regla de los dos minutos y los habitos atomicos
+## Capítulo 2: La regla de los dos minutos y los hábitos atomicos
 
 Ruben quiere construir hábitos de ejercicio pero los que ha intentado siempre se sienten demasiado grandes para sostenerse.
 
@@ -47,7 +47,7 @@ El hábito ambicioso que abandonas en diez dias produce menos cambio que el háb
 
 ---
 
-## Capítulo 3: El apilamiento de habitos: construir sobre lo que ya existe
+## Capítulo 3: El apilamiento de hábitos: construir sobre lo que ya existe
 
 Elena tiene hábitos establecidos pero no sabe como usar los existentes para construir los nuevos.
 
@@ -89,7 +89,7 @@ El entorno que tienes produce el comportamiento que tienes. El que diseñas prod
 
 ---
 
-## Capítulo 6: Por qué los habitos se rompen y como recuperarlos
+## Capítulo 6: Por qué los hábitos se rompen y como recuperarlos
 
 Ruben mantuvo un hábito de ejercicio tres semanas y luego se fue de viaje. Cuando volvio, el hábito había desaparecido.
 
@@ -117,7 +117,7 @@ El hábito que solo tiene recompensa futura compite en desventaja con todos los 
 
 ---
 
-## Capítulo 8: Los habitos sociales: cuando el entorno de personas es el mayor detonador
+## Capítulo 8: Los hábitos sociales: cuando el entorno de personas es el mayor detonador
 
 Isabel ha notado que sus hábitos cambian completamente según con quien este. Las personas son el entorno más poderoso.
 
@@ -131,7 +131,7 @@ El entorno de personas que eliges no solo refleja quien eres. Construye quien ll
 
 ---
 
-## Capítulo 9: Romper habitos: cuando el objetivo es dejar de hacer algo
+## Capítulo 9: Romper hábitos: cuando el objetivo es dejar de hacer algo
 
 Ruben quiere reducir el tiempo que pasa en redes sociales. Las estrategias para romper hábitos son diferentes de las de construirlos.
 

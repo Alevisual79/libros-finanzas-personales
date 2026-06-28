@@ -19,7 +19,7 @@ Carlos trabaja doce horas diarias en su negocio digital y cuando para de trabaja
 
 ---
 
-## Capítulo 1: La logica de la automatización: que automatizar primero y por qué
+## Capítulo 1: La lógica de la automatización: que automatizar primero y por qué
 
 No todo debe automatizarse. Y no todo puede automatizarse. La distinción importa.
 

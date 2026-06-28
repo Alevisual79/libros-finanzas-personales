@@ -33,7 +33,7 @@ La marca que crees tener no importa. La que tienen en la mente tus clientes es l
 
 ---
 
-## Capítulo 2: El posicionamiento: elegir el espacio unico que quieres ocupar en la mente del cliente
+## Capítulo 2: El posicionamiento: elegir el espacio único que quieres ocupar en la mente del cliente
 
 Lucia ha aprendido que el posicionamiento no es lo que dices sobre tu empresa. Es lo que el cliente piensa de forma automática cuando escucha tu nombre.
 

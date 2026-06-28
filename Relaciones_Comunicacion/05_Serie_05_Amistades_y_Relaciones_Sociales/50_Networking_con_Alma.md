@@ -31,7 +31,7 @@ Una red profesional grande sin profundidad es una lista de nombres. Una red pequ
 
 ---
 
-## Capítulo 2: Conexion vs transacción
+## Capítulo 2: Conexión vs transacción
 
 La diferencia fundamental entre el networking que produce relaciones valiosas y el que se siente vacio es la orientación subyacente: hacía la conexión genuina o hacía la transacción inmediata.
 

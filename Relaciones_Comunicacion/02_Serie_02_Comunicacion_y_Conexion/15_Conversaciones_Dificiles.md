@@ -1,4 +1,4 @@
-# Conversaciones Dificiles
+# Conversaciones Difíciles
 ## Como decir lo que necesitas decir sin destruir lo que importa
 
 **Serie 02: Comunicación y Conexión — Libro 5 de 10**

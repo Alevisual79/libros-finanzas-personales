@@ -79,7 +79,7 @@ El contacto cero solo es efectivo si es genuinamente completo. Un solo canal abi
 
 ---
 
-## Capítulo 6: Gestion del duelo post-ruptura toxica
+## Capítulo 6: Gestión del duelo post-ruptura toxica
 
 Terminar una relación toxica, aunque sea la decisión correcta, frecuentemente genera un proceso de duelo genuino que requiere reconocimiento y procesamiento, incluso cuando la relación claramente dañaba.
 

@@ -1,4 +1,4 @@
-# técnicas de Gestion de la Ansiedad
+# técnicas de Gestión de la Ansiedad
 ## Herramientas prácticas respaldadas por la ciencia
 
 **Serie 02: Ansiedad y Miedos — Libro 2 de 10**
@@ -33,7 +33,7 @@ Gestionar la ansiedad es diferente de cambiarla. Ambas cosas tienen valor, pero 
 
 ---
 
-## Capítulo 2: Regulación fisiologica: técnicas que funcionan en el momento
+## Capítulo 2: Regulación fisiológica: técnicas que funcionan en el momento
 
 Isabel necesita una herramienta para los momentos en que la ansiedad se activa de forma aguda: antes de una presentación, durante un conflicto, en medio de una reunión difícil. Las técnicas de regulación fisiológica son exactamente eso: intervenciones sobre el sistema nervioso que pueden cambiar el estado de activación en minutos u horas.
 

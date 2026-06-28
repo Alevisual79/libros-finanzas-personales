@@ -19,7 +19,7 @@ Carlos ha gastado dos mil euros en Meta Ads y ha conseguido cero clientes. Lucia
 
 ---
 
-## Capítulo 1: La logica de la publicidad digital: como funciona el sistema de ads
+## Capítulo 1: La lógica de la publicidad digital: como funciona el sistema de ads
 
 Entender la lógica del sistema de publicidad digital antes de gastar un euro es la decisión más rentable que puede tomar el emprendedor.
 

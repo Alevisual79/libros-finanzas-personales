@@ -1,5 +1,5 @@
 # Estilos de Apego
-## Entiende como amas y por qué amas asi
+## Entiende como amas y por qué amas así
 
 **Serie 01: Conocete a Ti Mismo — Libro 6 de 10**
 

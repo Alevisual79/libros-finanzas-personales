@@ -75,7 +75,7 @@ El recurso psicológico que más te falta en la adversidad es el que más merece
 
 ---
 
-## Capítulo 5: Los habitos de recuperación: como los emprendedores resilientes se recuperan del fracaso
+## Capítulo 5: Los hábitos de recuperación: como los emprendedores resilientes se recuperan del fracaso
 
 Marcos ha observado que los emprendedores más resilientes que conoce no son los que no fracasan sino los que se recuperan de forma diferente.
 

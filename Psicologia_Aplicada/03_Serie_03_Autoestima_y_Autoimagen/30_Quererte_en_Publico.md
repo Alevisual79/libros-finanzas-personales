@@ -89,7 +89,7 @@ El grupo que te acepta solo cuando eres quien no eres no te acepta a ti. El grup
 
 ---
 
-## Capítulo 6: Redes sociales y el yo público: la cuestion de la autenticidad digital
+## Capítulo 6: Redes sociales y el yo público: la cuestión de la autenticidad digital
 
 Isabel tiene una presencia en redes sociales que es cuidadosamente curada: solo los mejores momentos, solo las opiniones que no generan conflicto, solo la versión de si misma que cree que es más aceptable. Esta curación le da control pero también una soledad específica: la de ser conocida públicamente de una forma que no corresponde a quien realmente es.
 
@@ -103,7 +103,7 @@ La cuestión no es cuanto compartes en digital. Es si lo que compartes se parece
 
 ---
 
-## Capítulo 7: Limites y autenticidad: revelar sin sobreexponerte
+## Capítulo 7: Límites y autenticidad: revelar sin sobreexponerte
 
 Ruben teme que ser más autentico signifique tener que compartir todo, sin privacidad, sin límites. Esta es la confusión más común sobre la autenticidad.
 

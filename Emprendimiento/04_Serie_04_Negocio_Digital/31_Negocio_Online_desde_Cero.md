@@ -19,7 +19,7 @@ Carlos tiene una idea para un negocio online pero no sabe por donde empezar. Luc
 
 ---
 
-## Capítulo 1: Por qué el negocio online no es la via rápida al dinero facil
+## Capítulo 1: Por qué el negocio online no es la via rápida al dinero fácil
 
 La mayoría de los negocios online fracasan por exactamente las mismas razones que los negocios físicos.
 

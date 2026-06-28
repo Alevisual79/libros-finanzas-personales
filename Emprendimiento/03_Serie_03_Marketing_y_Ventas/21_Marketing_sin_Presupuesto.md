@@ -89,7 +89,7 @@ La empresa que conoce bien a sus aliados estratégicos tiene un equipo de ventas
 
 ---
 
-## Capítulo 6: Las redes sociales organicas: presencia sin pago que convierte
+## Capítulo 6: Las redes sociales orgánicas: presencia sin pago que convierte
 
 Marcos ha aprendido que las redes sociales son herramientas de negocio cuando se usan estratégicamente, no cuando se usan para coleccionar likes.
 
@@ -103,7 +103,7 @@ La presencia en todas las redes que no se mantiene no es presencia. Es ruido esp
 
 ---
 
-## Capítulo 7: El email marketing organico: el activo de marketing más valioso que puedes construir gratis
+## Capítulo 7: El email marketing orgánico: el activo de marketing más valioso que puedes construir gratis
 
 Carlos ha empezado a construir su lista de email y ha descubierto que es el activo de marketing más valioso que tiene.
 
@@ -131,7 +131,7 @@ El emprendedor que sube al escenario no necesita tarjeta de visita. La audiencia
 
 ---
 
-## Capítulo 9: El SEO organico: clientes que te encuentran sin que les busques
+## Capítulo 9: El SEO orgánico: clientes que te encuentran sin que les busques
 
 Marcos ha invertido en SEO durante seis meses y empieza a ver como Google le trae clientes sin coste adicional.
 

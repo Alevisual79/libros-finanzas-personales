@@ -103,7 +103,7 @@ Lo que más te irrita en los demás frecuentemente es lo que menos puedes ver en
 
 ---
 
-## Capítulo 7: Habitos automáticos: el piloto que vuela más del ochenta por ciento del tiempo
+## Capítulo 7: Hábitos automáticos: el piloto que vuela más del ochenta por ciento del tiempo
 
 Ruben se despierta, prepara cafe de la misma manera, toma la misma ruta al trabajo, pide el mismo desayuno. No son decisiones. Son hábitos que su cerebro ejecuta automáticamente para conservar energía cognitiva para las decisiones que requieren deliberación genuina. El problema es que muchos de los hábitos que ejecuta de forma automática son hábitos que en su momento le convino desarrollar, pero que ya no le sirven.
 
@@ -117,7 +117,7 @@ No puedes simplemente dejar de tener un hábito. Solo puedes reemplazarlo por ot
 
 ---
 
-## Capítulo 8: Intuición: cuando el inconsciente sabe más que la logica
+## Capítulo 8: Intuición: cuando el inconsciente sabe más que la lógica
 
 Isabel toma decisiones importantes en un campo donde tiene más de veinte años de experiencia. A veces, antes de analizar todos los datos, tiene una intuición sobre un candidato, una decisión, o una situación que luego el análisis más deliberado confirma. Otras veces tiene intuiciones que estan claramente equivocadas. La pregunta importante no es si confiar en la intuición, sino cuando.
 

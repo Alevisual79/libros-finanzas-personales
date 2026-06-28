@@ -772,13 +772,16 @@ def fix_adverbs(line):
 
 def fix_line(line):
     stripped = line.strip()
-    # Conservar líneas vacías, encabezados, citas, tablas, código
     if not stripped:
         return line
-    if stripped.startswith(('#', '`', '|')):
+    # Código, tablas y citas: no tocar
+    if stripped.startswith(('`', '|', '>')):
         return line
-    # Blockquotes (disclaimer/aviso legal) — no tocar
-    if stripped.startswith('>'):
+    # Encabezados: solo aplicar fixes de palabras (esdrújulas y adverbios)
+    if stripped.startswith('#'):
+        line = fix_encoding(line)
+        line = fix_esdrujulas(line)
+        line = fix_adverbs(line)
         return line
 
     line = fix_encoding(line)

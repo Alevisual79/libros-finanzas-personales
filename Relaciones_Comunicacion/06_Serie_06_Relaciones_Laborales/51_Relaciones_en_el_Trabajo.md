@@ -1,5 +1,5 @@
 # Relaciones en el Trabajo
-## Cómo construir vinculos profesionales que potencien tu carrera y tu bienestar
+## Cómo construir vínculos profesionales que potencien tu carrera y tu bienestar
 
 **Serie 06: Relaciones Laborales — Libro 1 de 10**
 

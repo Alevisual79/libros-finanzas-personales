@@ -1,4 +1,4 @@
-# Limites que Protegen
+# Límites que Protegen
 ## Cómo construir límites relacionales que funcionen de verdad
 
 **Serie 09: Límites y Relaciones Toxicas — Libro 2 de 10**
@@ -103,7 +103,7 @@ Un límite sin consecuencia es una sugerencia, no un límite real. La consecuenc
 
 ---
 
-## Capítulo 8: Limites con personas que amamos
+## Capítulo 8: Límites con personas que amamos
 
 Establecer límites con personas significativas (pareja, familia, amigos cercanos) presenta dificultad adicional porque el miedo a dañar la relación querida puede sentirse más intenso que con relaciones de menor cercania emocional.
 
@@ -115,7 +115,7 @@ Un límite claro con alguien que amas no dana la relación. La protege de la ero
 
 ---
 
-## Capítulo 9: Limites en el trabajo sin dañar la relación
+## Capítulo 9: Límites en el trabajo sin dañar la relación
 
 Establecer límites profesionales (sobre horarios, sobre cantidad de trabajo aceptable, sobre tratamiento respetuoso) requiere calibración específica que preserve la relación laboral mientras protege el bienestar propio.
 

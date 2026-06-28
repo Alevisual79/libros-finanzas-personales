@@ -127,7 +127,7 @@ La asertividad con un superior no requiere ser menos honesto. Requiere ser hones
 
 ---
 
-## Capítulo 10: Desarrollar la asertividad como habito
+## Capítulo 10: Desarrollar la asertividad como hábito
 
 La asertividad, como cualquier habilidad de comunicación, se desarrolla con práctica deliberada y consistente, no con la simple comprensión intelectual de sus principios.
 

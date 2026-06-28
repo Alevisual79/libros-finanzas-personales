@@ -117,7 +117,7 @@ La historia que conecta porque ha vivida. El argumento que convence porque es l�
 
 ---
 
-## Capítulo 8: Gestion del tiempo en redes sociales: como publicar sin que te consuma
+## Capítulo 8: Gestión del tiempo en redes sociales: como publicar sin que te consuma
 
 Carlos ha aprendido a gestionar las redes sociales en menos de cinco horas a la semana con un sistema específico.
 

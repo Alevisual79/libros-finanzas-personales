@@ -1,5 +1,5 @@
 # Ansiedad y Trabajo
-## Cómo gestionar el estres laboral antes de que te queme
+## Cómo gestionar el estrés laboral antes de que te queme
 
 **Serie 02: Ansiedad y Miedos — Libro 5 de 10**
 
@@ -19,7 +19,7 @@ Elena lleva tres años en una empresa donde la presión es constante, las expect
 
 ---
 
-## Capítulo 1: Estres laboral versus ansiedad laboral: distinción necesaria
+## Capítulo 1: Estrés laboral versus ansiedad laboral: distinción necesaria
 
 No todo estrés en el trabajo es ansiedad patologica. Hay un nivel de activación relacionada con el trabajo que es adaptativa: facilita la concentración, mantiene la motivación, y produce el rendimiento que la tarea exige. El problema es cuando ese estrés se vuelve cronico, desproporcionado, o tan independiente de la situación real que opera como un ruido de fondo permanente.
 
@@ -33,7 +33,7 @@ El estrés que te impulsa y el que te destruye se sienten parecidos a corto plaz
 
 ---
 
-## Capítulo 2: El burnout: cuando el estres laboral agota el alma
+## Capítulo 2: El burnout: cuando el estrés laboral agota el alma
 
 Ruben lleva dos años trabajando con intensidad en un proyecto que creía apasionante. Ahora se siente vaciado: hace su trabajo pero no siente nada al hacerlo. Ha perdido la motivación que tenía, la curiosidad que le llevó a ese campo, el placer del trabajo bien hecho. No sabe si esta deprimido, agotado, o si simplemente ha cambiado.
 
@@ -47,7 +47,7 @@ El burnout no llega de golpe. Llega de la misma manera que la bancarrota según 
 
 ---
 
-## Capítulo 3: Las seis causas del burnout segun la investigación
+## Capítulo 3: Las seis causas del burnout según la investigación
 
 Elena cree que su burnout (que ya reconoce como tal) viene de trabajar demasiado. La investigación de Maslach señala que el exceso de trabajo es solo una de las seis causas identificadas, y frecuentemente no la más determinante.
 
@@ -61,7 +61,7 @@ El burnout no se cura con yoga si viene de una injusticia que nunca se ha aborda
 
 ---
 
-## Capítulo 4: El sindrome del domingo por la tarde
+## Capítulo 4: El síndrome del domingo por la tarde
 
 Isabel experimenta un fenómeno que resulta muy común entre personas con alta ansiedad laboral: el domingo por la tarde, antes incluso de que el lunes haya comenzado, experimenta una ansiedad creciente que le roba el disfrute del tiempo libre y marca de forma preventiva el inició de la semana laboral.
 
@@ -89,7 +89,7 @@ El trabajo perfecto que llega demasiado tarde o que agota a quien lo hace no es 
 
 ---
 
-## Capítulo 6: Limites con el trabajo: la habilidad que nadie te ensenó
+## Capítulo 6: Límites con el trabajo: la habilidad que nadie te ensenó
 
 Elena está disponible para su empresa las veinticuatro horas del dia, los siete dias de la semana. No porque le exijan explicitamente. Porque la cultura de su empresa recompensa implicitamente la disponibilidad y ella ha interiorizado esa norma como si fuera propia. Pero los límites con el trabajo no son falta de compromiso. Son la condición para que el compromiso sea sostenible a largo plazo.
 

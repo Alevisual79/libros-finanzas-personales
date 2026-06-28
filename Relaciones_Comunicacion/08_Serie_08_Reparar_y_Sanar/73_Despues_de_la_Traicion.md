@@ -31,7 +31,7 @@ Una traición no es solo un daño. Es la ruptura de una confianza que se asumia 
 
 ---
 
-## Capítulo 2: El impacto traumatico de la traición
+## Capítulo 2: El impacto traumático de la traición
 
 Descubrir una traición significativa frecuentemente produce respuestas psicológicas comparables a las del trauma, incluyendo pensamientos intrusivos y una crisis de la percepción de la realidad previamente conocida.
 

@@ -149,7 +149,7 @@ En el conflicto, preguntar antes que defender es la estrategia más eficaz y la 
 
 ---
 
-## Capítulo 10: Crear el habito de preguntar mejor
+## Capítulo 10: Crear el hábito de preguntar mejor
 
 La mejora en la calidad de las preguntas no ocurre por leer sobre ella. Ocurre con práctica deliberada en las conversaciones cotidianas. Y la práctica requiere atención consciente a algo que normalmente se hace de forma completamente automática.
 

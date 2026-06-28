@@ -103,7 +103,7 @@ El líder que habla primero no lidera la discusión. Cancela la discusión antes
 
 ---
 
-## Capítulo 7: La decisión optima en grupos: más allá del consenso
+## Capítulo 7: La decisión óptima en grupos: más allá del consenso
 
 Ruben ha aprendido que buscar el consenso en los grupos no siempre produce las mejores decisiones.
 

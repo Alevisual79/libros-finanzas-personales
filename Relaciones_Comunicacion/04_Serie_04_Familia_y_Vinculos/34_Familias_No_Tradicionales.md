@@ -45,7 +45,7 @@ Una familia monoparental no es una familia incompleta. Es una familia que se ben
 
 ---
 
-## Capítulo 3: Familias reconstituidas: los nuevos vinculos
+## Capítulo 3: Familias reconstituidas: los nuevos vínculos
 
 Las familias reconstituidas, formadas tras la separación y nueva unión de uno o ambos progenitores, requieren la construcción deliberada de vínculos entre personas que no comparten historia previa.
 

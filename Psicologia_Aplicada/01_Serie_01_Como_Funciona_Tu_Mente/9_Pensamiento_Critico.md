@@ -47,7 +47,7 @@ Que dos cosas ocurran juntas no significa que una cause la otra. Este error de i
 
 ---
 
-## Capítulo 3: Falacias logicas: los errores de argumento que parecen validos
+## Capítulo 3: Falacias lógicas: los errores de argumento que parecen validos
 
 Elena debate sobre política laboral con un colega. El argumento del colega suena convincente. Pero hay algo que no encaja. Elena no puede identificar exactamente que es. Probablemente es una falacia lógica: un argumento que tiene la apariencia de ser valido pero que contiene un error estructural que invalida la conclusión.
 
@@ -75,7 +75,7 @@ Leer más no te hace más informado si no evaluas lo que lees. Leer con criterio
 
 ---
 
-## Capítulo 5: El pensamiento estadistico: números que enganan
+## Capítulo 5: El pensamiento estadístico: números que enganan
 
 Isabel lee que un tratamiento médico tiene una eficacia del ochenta por ciento. Parece muy efectivo. Pero ochenta por ciento, sin más contexto, puede significar cosas muy distintas: ochenta por ciento de reducción de riesgo relativo de una enfermedad que tenía un riesgo basal del cero coma dos por ciento produce una reducción de riesgo absoluta de cero coma dieciséis por ciento, lo cual es mucho menos impresionante que el titula sugiere.
 
@@ -103,7 +103,7 @@ Las soluciones que solo ven el problema inmediato frecuentemente crean el proble
 
 ---
 
-## Capítulo 7: Confirmation bias en la busqueda de información
+## Capítulo 7: Confirmation bias en la búsqueda de información
 
 Elena busca en internet información sobre un suplemento que le han recomendado. Los primeros cinco resultados que lee confirman su eficacia. Los cinco siguientes, que no busca, la cuestionan. Elena concluye que el suplemento es efectivo.
 

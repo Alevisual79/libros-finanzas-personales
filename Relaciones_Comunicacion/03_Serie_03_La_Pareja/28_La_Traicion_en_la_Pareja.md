@@ -61,7 +61,7 @@ Entender por qué ocurrio no es excusarlo. Es la única forma de evitar que vuel
 
 ---
 
-## Capítulo 4: El impacto traumatico de descubrir una traición
+## Capítulo 4: El impacto traumático de descubrir una traición
 
 Descubrir una infidelidad produce, en muchas personas, sintomas que coinciden con los del trauma: pensamientos intrusivos, hipervigilancia, dificultad para regular las emociones, y una sensación de que la realidad que se conocía ya no es confiable.
 

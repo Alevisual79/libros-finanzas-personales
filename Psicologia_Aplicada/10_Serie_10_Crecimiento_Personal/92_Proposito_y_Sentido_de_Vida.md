@@ -117,7 +117,7 @@ Lo que dejaste atrás en la primera mitad a veces es exactamente lo que necesita
 
 ---
 
-## Capítulo 8: El proposito y las relaciones: el sentido que viene de los vinculos
+## Capítulo 8: El proposito y las relaciones: el sentido que viene de los vínculos
 
 Ruben ha aprendido que algunas de las experiencias de mayor sentido de su vida han estado vinculadas a relaciones específicas.
 

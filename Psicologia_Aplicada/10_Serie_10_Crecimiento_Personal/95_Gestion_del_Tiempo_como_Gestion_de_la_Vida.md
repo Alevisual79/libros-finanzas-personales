@@ -1,4 +1,4 @@
-# Gestion del Tiempo como Gestion de la Vida
+# Gestión del Tiempo como Gestión de la Vida
 ## La herramienta que lo ordena todo desde los valores
 
 **Serie 10: Crecimiento Personal — Libro 5 de 10**

@@ -1,4 +1,4 @@
-# Habitos Mentales de la Gente Resiliente
+# Hábitos Mentales de la Gente Resiliente
 ## Lo que hacen mentalmente las personas que se recuperan bien
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 10 de 10**
@@ -33,7 +33,7 @@ La resiliencia que tuviste una vez esta en ti. No como algo que tienes sino como
 
 ---
 
-## Capítulo 2: La flexibilidad cognitiva: el habito de ver desde multiples perspectivas
+## Capítulo 2: La flexibilidad cognitiva: el hábito de ver desde multiples perspectivas
 
 Elena ha notado que las personas que se recuperan bien de las dificultades parecen tener la capacidad de ver la misma situación desde perspectivas muy diferentes.
 

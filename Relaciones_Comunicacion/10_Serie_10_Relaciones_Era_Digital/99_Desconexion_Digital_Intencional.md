@@ -115,7 +115,7 @@ Un ritual regular de presencia sin tecnología no depende de tu fuerza de volunt
 
 ---
 
-## Capítulo 9: Rediseñar la relación con el movil
+## Capítulo 9: Rediseñar la relación con el móvil
 
 El trabajo de fondo para una relación más saludable con la tecnología no es simplemente reducir el tiempo de uso, sino rediseñar fundamentalmente la relación psicológica con el dispositivo y lo que representa.
 

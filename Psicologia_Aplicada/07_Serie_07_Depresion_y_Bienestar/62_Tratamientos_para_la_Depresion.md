@@ -117,7 +117,7 @@ La depresión rara vez ocurre en el vacio. Ocurre en el contexto de las relacion
 
 ---
 
-## Capítulo 8: Los tratamientos biologicos de segunda linea: cuando la primera linea no es suficiente
+## Capítulo 8: Los tratamientos biológicos de segunda linea: cuando la primera linea no es suficiente
 
 Elena ha probado dos antidepresivos sin respuesta satisfactoria. Su psicologo le habla de otras opciones que no conocía.
 

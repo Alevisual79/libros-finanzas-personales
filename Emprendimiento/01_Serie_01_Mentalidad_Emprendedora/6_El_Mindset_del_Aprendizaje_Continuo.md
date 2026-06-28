@@ -89,7 +89,7 @@ El aprendizaje que otro emprenderor ya ha hecho con su propio dinero y tiempo, s
 
 ---
 
-## Capítulo 6: Los habitos de aprendizaje del emprendedor de alto rendimiento
+## Capítulo 6: Los hábitos de aprendizaje del emprendedor de alto rendimiento
 
 Lucia ha construido hábitos de aprendizaje que produce el mayor retorno en el menor tiempo posible.
 

@@ -1,4 +1,4 @@
-# Gestion del Rendimiento
+# Gestión del Rendimiento
 ## Guia práctica para emprendedores
 
 **Serie 06: Equipo y Liderazgo — Libro 7 de 10**

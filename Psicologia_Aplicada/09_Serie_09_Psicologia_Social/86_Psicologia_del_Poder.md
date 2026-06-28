@@ -75,7 +75,7 @@ El riesgo que no consultas con nadie porque tienes el poder de tomarlo solo es e
 
 ---
 
-## Capítulo 5: El sindrome de la soberbia: cuando el poder se convierte en arrogancia
+## Capítulo 5: El síndrome de la soberbia: cuando el poder se convierte en arrogancia
 
 Isabel ha visto líderes que llegaron a sus posiciones con humildad y que después de años en el poder se han vuelto irreconocibles.
 
@@ -117,7 +117,7 @@ El poder sin rendición de cuentas que no te ha corrompido todavía no es garant
 
 ---
 
-## Capítulo 8: El poder y las relaciones: como el poder asimetrico deforma los vinculos
+## Capítulo 8: El poder y las relaciones: como el poder asimetrico deforma los vínculos
 
 Isabel ha visto cómo la asimetria de poder entre manager y equipo, padre e hijo, o pareja mayor y menor, deforma las dinámicas relacionales de formas que los que tienen el poder frecuentemente no perciben.
 

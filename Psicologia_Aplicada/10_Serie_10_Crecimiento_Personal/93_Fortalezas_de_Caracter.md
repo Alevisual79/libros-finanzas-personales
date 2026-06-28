@@ -47,7 +47,7 @@ Las fortalezas que el cuestionario te confirma ya las conocías. Las que te sorp
 
 ---
 
-## Capítulo 3: Las fortalezas caracteristicas: las que te definen con mayor profundidad
+## Capítulo 3: Las fortalezas características: las que te definen con mayor profundidad
 
 Ruben ha completado el VIA y tiene su lista de fortalezas principales. Ahora necesita entender que hacer con ella.
 

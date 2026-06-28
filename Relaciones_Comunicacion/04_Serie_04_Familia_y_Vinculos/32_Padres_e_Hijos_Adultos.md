@@ -93,7 +93,7 @@ Las conversaciones que más evitamos con nuestros padres son casi siempre las qu
 
 ---
 
-## Capítulo 7: Limites saludables con los padres
+## Capítulo 7: Límites saludables con los padres
 
 Establecer límites con los padres en la adultez es uno de los actos más difíciles de diferenciación, porque implica desafiar la jerarquía implícita que ha existido desde la infancia.
 

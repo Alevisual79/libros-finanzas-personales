@@ -47,7 +47,7 @@ El sesgo que no conoces toma las decisiones por ti. El que conoces al menos te a
 
 ---
 
-## Capítulo 3: La logica de las apuestas: pensar en probabilidades en lugar de certezas
+## Capítulo 3: La lógica de las apuestas: pensar en probabilidades en lugar de certezas
 
 Carlos ha aprendido a pensar en sus decisiones de negocio como apuestas con probabilidades estimadas en lugar de como elecciones correctas o incorrectas.
 
@@ -61,7 +61,7 @@ El emprendedor que piensa en probabilidades toma mejores decisiones que el que p
 
 ---
 
-## Capítulo 4: La logica del affordable loss: el marcó emprendedor para gestionar el riesgo en la decisión
+## Capítulo 4: La lógica del affordable loss: el marcó emprendedor para gestionar el riesgo en la decisión
 
 Lucia ha aprendido que la pregunta correcta antes de una decisión de riesgo no es cuanto podría ganar sino cuanto puedo permitirme perder.
 
@@ -131,7 +131,7 @@ La decisión que incluye a todos por respeto no siempre es la mejor. A veces la 
 
 ---
 
-## Capítulo 9: La decisión bajo presión: como el estres afecta la calidad del juicio
+## Capítulo 9: La decisión bajo presión: como el estrés afecta la calidad del juicio
 
 Carlos ha aprendido que las decisiones que toma cuando esta más estresado son sistemáticamente peores.
 

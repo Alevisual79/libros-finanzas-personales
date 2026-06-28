@@ -89,7 +89,7 @@ El equipo que se siente equipo coopera. El que solo trabaja juntó no necesariam
 
 ---
 
-## Capítulo 6: El altruismo entre extranios: donación de organos, voluntariado, y donación de sangre
+## Capítulo 6: El altruismo entre extranios: donación de órganos, voluntariado, y donación de sangre
 
 Ruben ha donado sangre tres veces. Se pregunta por qué lo hace dado que nunca conoce a quien ayuda.
 

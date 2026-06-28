@@ -33,7 +33,7 @@ El comportamiento impulsivo que no comprendes solo puedes lamentarlo. El que ent
 
 ---
 
-## Capítulo 2: Las bases neurologicas de la impulsividad: por qué el cerebro actua antes de pensar
+## Capítulo 2: Las bases neurológicas de la impulsividad: por qué el cerebro actua antes de pensar
 
 Ruben sabe racionalmente que debería esperar antes de enviar el email. Pero algo en el no puede esperar.
 

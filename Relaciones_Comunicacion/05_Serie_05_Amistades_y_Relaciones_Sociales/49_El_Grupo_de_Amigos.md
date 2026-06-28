@@ -79,7 +79,7 @@ La perdida de un grupo de amigos completo es una perdida real, aunque las amista
 
 ---
 
-## Capítulo 6: Dinamicas toxicas dentro del grupo
+## Capítulo 6: Dinámicas toxicas dentro del grupo
 
 Algunos grupos de amigos desarrollan dinámicas problematicas (exclusión sistemática de algun miembro, jerarquías rigidas de poder, normas de comportamiento daninas) que afectan negativamente el bienestar de algunos o todos sus miembros.
 

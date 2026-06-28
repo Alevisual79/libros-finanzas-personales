@@ -1,4 +1,4 @@
-# Trabajo Remoto y Vinculos Reales
+# Trabajo Remoto y Vínculos Reales
 ## Cómo mantener relaciones laborales genuinas desde casa
 
 **Serie 10: Relaciones en la Era Digital — Libro 5 de 10**

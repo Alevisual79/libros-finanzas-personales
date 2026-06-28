@@ -1,4 +1,4 @@
-# La Mente en Piloto Automatico
+# La Mente en Piloto Automático
 ## Como recuperar el control de tu vida mental
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 4 de 10**
@@ -75,7 +75,7 @@ La reacción que produces antes de poder evitarla no es inevitable. Es automáti
 
 ---
 
-## Capítulo 5: Los habitos y el piloto automático: el sistema en que vivimos
+## Capítulo 5: Los hábitos y el piloto automático: el sistema en que vivimos
 
 Ruben ha llegado a entender que la mayor parte de lo que hace cada dia son hábitos: patrones de comportamiento que se activan automáticamente en respuesta a señales específicas.
 

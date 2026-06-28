@@ -19,7 +19,7 @@ Ruben pertenece a cinco grupos de Discord, comunidades organizadas alrededor de 
 
 ---
 
-## Capítulo 1: La busqueda de tribu en el siglo veintiuno
+## Capítulo 1: La búsqueda de tribu en el siglo veintiuno
 
 La necesidad humana fundamental de pertenecer a una comunidad con sentido compartido encuentra, en la era digital, nuevas formas de expresión que coexisten con, y en algunos casos sustituyen parcialmente a, las comunidades tradicionales basadas en geografía.
 

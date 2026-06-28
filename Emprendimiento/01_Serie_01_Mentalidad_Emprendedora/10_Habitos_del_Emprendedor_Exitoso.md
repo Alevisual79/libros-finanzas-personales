@@ -1,4 +1,4 @@
-# Habitos del Emprendedor Exitoso
+# Hábitos del Emprendedor Exitoso
 ## Las rutinas que construyen negocios antes del mediodia
 
 **Serie 01: Mentalidad Emprendedora — Libro 10 de 10**
@@ -19,7 +19,7 @@ Marcos ha estudiado a emprendedores exitosos buscando el patron común. No es la
 
 ---
 
-## Capítulo 1: El poder acumulativo de los habitos diarios: por qué las cosas pequeñas determinan los grandes resultados
+## Capítulo 1: El poder acumulativo de los hábitos diarios: por qué las cosas pequeñas determinan los grandes resultados
 
 Los hábitos no son los grandes momentos de decisión. Son las pequeñas acciones que se repiten hasta que los grandes momentos se deciden solos.
 
@@ -47,7 +47,7 @@ La mañana que controlas antes de que nadie te llame es la que determina la cali
 
 ---
 
-## Capítulo 3: El habito de la planificación semanal: la inversión de noventa minutos que lo ordena todo
+## Capítulo 3: El hábito de la planificación semanal: la inversión de noventa minutos que lo ordena todo
 
 Lucia ha convertido la revisión semanal en el hábito de mayor retorno de su semana.
 
@@ -61,7 +61,7 @@ La empresa que reviews semanalmente la gestionas. La que solo revisas en crisis 
 
 ---
 
-## Capítulo 4: El habito de la conexión: nutrir las relaciones como estrategia de negocio
+## Capítulo 4: El hábito de la conexión: nutrir las relaciones como estrategia de negocio
 
 Marcos ha desarrollado el hábito de dedicar tiempo semanal a nutrir relaciones que no tienen agenda inmediata.
 
@@ -75,7 +75,7 @@ El contacto que mantienes sin necesidad inmediata es el que está disponible cua
 
 ---
 
-## Capítulo 5: El habito del aprendizaje diario: la lectura y la reflexión como herramientas de negocio
+## Capítulo 5: El hábito del aprendizaje diario: la lectura y la reflexión como herramientas de negocio
 
 Carlos ha convertido la lectura diaria en uno de sus hábitos más valorados como emprendedor.
 
@@ -89,7 +89,7 @@ El emprendedor que lee treinta minutos al dia durante cinco años ha leído el e
 
 ---
 
-## Capítulo 6: El habito de la reflexión: el tiempo que convierte la experiencia en sabiduría
+## Capítulo 6: El hábito de la reflexión: el tiempo que convierte la experiencia en sabiduría
 
 Lucia ha aprendido que sin reflexión deliberada, la experiencia acumulada no se convierte automáticamente en sabiduría.
 
@@ -103,7 +103,7 @@ Cinco minutos de reflexión al final de cada dia valen más que cien dias de exp
 
 ---
 
-## Capítulo 7: El habito del ejercicio: la herramienta de productividad más infravalorada
+## Capítulo 7: El hábito del ejercicio: la herramienta de productividad más infravalorada
 
 Marcos ha descubierto que el tiempo que dedica al ejercicio físico no le quita tiempo a la productividad sino que se lo da.
 
@@ -117,7 +117,7 @@ El emprendedor que hace ejercicio no es el que tiene más tiempo libre. Es el qu
 
 ---
 
-## Capítulo 8: El habito de la desconexion: el tiempo fuera que hace posible el tiempo dentro
+## Capítulo 8: El hábito de la desconexion: el tiempo fuera que hace posible el tiempo dentro
 
 Carlos ha tenido que aprender a desconectarse del negocio de forma regular para poder conectarse con mayor calidad cuando vuelve.
 
@@ -131,7 +131,7 @@ El emprendedor que nunca desconecta nunca se recupera completamente. Y el que nu
 
 ---
 
-## Capítulo 9: Los habitos de la comunicación: la disciplina que hace posible las relaciones de equipo
+## Capítulo 9: Los hábitos de la comunicación: la disciplina que hace posible las relaciones de equipo
 
 Lucia ha aprendido que sus hábitos de comunicación con su equipo determinan en gran medida la cultura de la empresa.
 
@@ -145,7 +145,7 @@ El líder que habla con cada miembro de su equipo treinta minutos por semana sab
 
 ---
 
-## Capítulo 10: Integrar los habitos: el sistema de rutinas que construye el emprendedor que quieres ser
+## Capítulo 10: Integrar los hábitos: el sistema de rutinas que construye el emprendedor que quieres ser
 
 Marcos ha llegado al final de esta serie con claridad sobre el sistema de hábitos que quiere construir como emprendedor.
 

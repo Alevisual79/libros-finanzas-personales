@@ -1,5 +1,5 @@
 # Tecnologia y Pareja
-## Cómo gestionar el movil, las pantallas y la presencia en la relación
+## Cómo gestionar el móvil, las pantallas y la presencia en la relación
 
 **Serie 10: Relaciones en la Era Digital — Libro 7 de 10**
 
@@ -19,7 +19,7 @@ Isabel lleva una hora mirando su móvil sentada en el sofa. Su pareja lleva una 
 
 ---
 
-## Capítulo 1: Cuanto tiempo robamos a nuestra pareja a traves del movil
+## Capítulo 1: Cuanto tiempo robamos a nuestra pareja a traves del móvil
 
 El tiempo que se dedica al teléfono móvil durante momentos que podrían ser de conexión con la pareja representa un costo de oportunidad relacional que rara vez se calcula conscientemente pero que, acumulado, tiene un impacto significativo.
 
@@ -115,7 +115,7 @@ Una zona libre de pantallas no requiere fuerza de voluntad constante. Elimina es
 
 ---
 
-## Capítulo 9: El movil como amortiguador del conflicto
+## Capítulo 9: El móvil como amortiguador del conflicto
 
 Algunas parejas utilizan, sin notarlo conscientemente, el teléfono móvil cómo una forma de evitar conversaciones difíciles o conflictos no resueltos, refugiandose en la pantalla en lugar de abordar la tensión presente.
 

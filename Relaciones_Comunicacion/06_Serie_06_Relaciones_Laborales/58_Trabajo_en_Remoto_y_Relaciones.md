@@ -1,5 +1,5 @@
 # Trabajo en Remoto y Relaciones
-## Cómo mantener vinculos reales cuando no compartes espacio físico
+## Cómo mantener vínculos reales cuando no compartes espacio físico
 
 **Serie 06: Relaciones Laborales — Libro 8 de 10**
 
@@ -79,7 +79,7 @@ Los equipos remotos cohesionados no tuvieron suerte. Crearon deliberadamente los
 
 ---
 
-## Capítulo 6: Onboarding en remoto: como crear vinculos desde cero
+## Capítulo 6: Onboarding en remoto: como crear vínculos desde cero
 
 La integración de nuevos miembros a un equipo completamente remoto presenta desafios específicos para la formación de relaciones, ya que el nuevo miembro carece de las oportunidades incidentales de conexión que facilitarian su integración en un entorno presencial.
 

@@ -117,7 +117,7 @@ El negocio pequeño que piensa en grande crece diferente del que piensa en peque
 
 ---
 
-## Capítulo 8: Comunicar la visión: hacer que otros crean lo que todavia no existe
+## Capítulo 8: Comunicar la visión: hacer que otros crean lo que todavía no existe
 
 Marcos ha tenido que aprender a comunicar su visión de tal forma que sus empleados y clientes puedan creer en ella antes de que sea una realidad.
 

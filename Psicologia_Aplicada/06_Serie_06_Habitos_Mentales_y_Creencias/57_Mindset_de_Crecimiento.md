@@ -75,7 +75,7 @@ El elogio que te dieron de niño sobre quien eras moldeo la creencia sobre quien
 
 ---
 
-## Capítulo 5: El poder del todavia: una palabra que cambia el marcó
+## Capítulo 5: El poder del todavía: una palabra que cambia el marcó
 
 Ruben ha empezado a usar una pequeña adición a sus evaluaciones que cambia algo significativo en su relación con sus capacidades.
 

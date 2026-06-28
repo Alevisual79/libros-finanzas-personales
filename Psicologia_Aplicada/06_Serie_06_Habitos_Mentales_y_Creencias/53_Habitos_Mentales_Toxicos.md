@@ -1,4 +1,4 @@
-# Habitos Mentales Toxicos
+# Hábitos Mentales Toxicos
 ## Como romper los ciclos de pensamiento que te danan
 
 **Serie 06: Hábitos Mentales y Creencias — Libro 3 de 10**
@@ -19,7 +19,7 @@ Isabel tiene un conjunto de patrones mentales que reconoce pero que no puede par
 
 ---
 
-## Capítulo 1: Que hace toxicos a los habitos mentales
+## Capítulo 1: Que hace toxicos a los hábitos mentales
 
 Los hábitos mentales toxicos no son malas intenciones. Son patrones automatizados que se instalaron en algun momento por alguna razón.
 
@@ -117,7 +117,7 @@ La audiencia que te juzga en tu cabeza esta mucho menos atenta a lo que haces de
 
 ---
 
-## Capítulo 8: Romper el ciclo: estrategias para interrumpir los habitos mentales toxicos
+## Capítulo 8: Romper el ciclo: estrategias para interrumpir los hábitos mentales toxicos
 
 Isabel sabe que tiene hábitos mentales toxicos pero no sabe como interrumpirlos en el momento en que se activan.
 
@@ -131,7 +131,7 @@ Interrumpir un hábito mental no requiere fuerza de voluntad. Requiere un protoc
 
 ---
 
-## Capítulo 9: Sustituir el habito: encontrar alternativas funcionales
+## Capítulo 9: Sustituir el hábito: encontrar alternativas funcionales
 
 Ruben ha conseguido interrumpir su rumia pero nota que algo la busca: hay algo que la rumia proporcionaba y que necesita un sustituto.
 

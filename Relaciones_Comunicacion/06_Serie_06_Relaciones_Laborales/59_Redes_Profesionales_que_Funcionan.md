@@ -55,7 +55,7 @@ Una red genuina no se construye coleccionando contactos. Se construye invirtiend
 
 ---
 
-## Capítulo 4: LinkedIn como herramienta relacional, no solo de busqueda
+## Capítulo 4: LinkedIn como herramienta relacional, no solo de búsqueda
 
 Las plataformas profesionales digitales, usadas correctamente, pueden facilitar la construcción de relaciones genuinas, pero su uso más común (acumulación pasiva de conexiones) raramente produce ese valor relacional.
 

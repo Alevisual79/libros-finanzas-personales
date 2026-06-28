@@ -33,7 +33,7 @@ Tu atención no es igual a las diez de la mañana que a las cuatro de la tarde. 
 
 ---
 
-## Capítulo 2: El trabajo profundo: el unico tipo de trabajo que produce resultados extraordinarios
+## Capítulo 2: El trabajo profundo: el único tipo de trabajo que produce resultados extraordinarios
 
 Elena lleva semanas trabajando muchas horas pero con la sensación de que no avanza en los proyectos que realmente importan. Su agenda esta llena de reuniones, correos y mensajes urgentes. Los proyectos estratégicos que podrían cambiar su carrera siguen esperando el momento de concentración profunda que nunca llega.
 

@@ -33,7 +33,7 @@ La distancia no hace que la relación sea menos real. La hace diferente, con sus
 
 ---
 
-## Capítulo 2: Estadisticas y mitos sobre las relaciones a distancia
+## Capítulo 2: Estadísticas y mitos sobre las relaciones a distancia
 
 Existe la creencia popular de que las relaciones a distancia rara vez sobreviven o que son inherentemente menos satisfactorias que las de proximidad. La investigación no respalda esta creencia de forma simple.
 

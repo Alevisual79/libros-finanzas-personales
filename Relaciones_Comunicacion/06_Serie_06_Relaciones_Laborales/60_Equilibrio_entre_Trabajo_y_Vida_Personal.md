@@ -19,7 +19,7 @@ Elena trabaja sesenta horas semanales y llama a eso compromiso. Sus relaciones p
 
 ---
 
-## Capítulo 1: Por qué el equilibrio trabajo-vida es una cuestion relacional
+## Capítulo 1: Por qué el equilibrio trabajo-vida es una cuestión relacional
 
 El llamado equilibrio entre trabajo y vida personal, frecuentemente discutido en terminos de horas y productividad, es en su nucleo una cuestión sobre la calidad y la cantidad de presencia disponible para las relaciones que dan sentido a la vida fuera del trabajo.
 
@@ -43,7 +43,7 @@ El coste relacional del exceso de trabajo no se siente de golpe. Se acumula sile
 
 ---
 
-## Capítulo 3: Limites con el trabajo: técnicas que funcionan
+## Capítulo 3: Límites con el trabajo: técnicas que funcionan
 
 Establecer límites efectivos entre el trabajo y la vida personal requiere prácticas específicas y consistentes, más que la simple intención de equilibrio que rara vez se traduce en cambio real de comportamiento.
 

@@ -33,7 +33,7 @@ El bienestar que buscas si es estar bien siempre no es bienestar. Es negación. 
 
 ---
 
-## Capítulo 2: Los habitos del bienestar: lo que la investigación dice que funciona
+## Capítulo 2: Los hábitos del bienestar: lo que la investigación dice que funciona
 
 Ruben quiere construir su bienestar sobre bases empiricamente sólidas. La investigación sobre los determinantes del bienestar tiene hallazgos consistentes que merecen conocerse.
 

@@ -79,7 +79,7 @@ Un líder que escucha genuinamente recibe información que un líder que solo ha
 
 ---
 
-## Capítulo 6: Gestion del conflicto en el equipo
+## Capítulo 6: Gestión del conflicto en el equipo
 
 Los conflictos dentro de un equipo, cuando se gestionan adecuadamente por el líder, pueden fortalecer la cohesión y la calidad de las decisiones del equipo, mientras que la evitación sistemática del conflicto tiende a generar resentimientos acumulados y peores resultados.
 

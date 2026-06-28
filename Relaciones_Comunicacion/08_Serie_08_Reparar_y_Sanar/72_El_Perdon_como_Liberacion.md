@@ -79,7 +79,7 @@ Perdonar no requiere decir que lo que te hicieron estuvo bien. Requiere decidir 
 
 ---
 
-## Capítulo 6: Perdonar a quien no lo merece segun la logica
+## Capítulo 6: Perdonar a quien no lo merece según la lógica
 
 Algunas personas que causaron daño significativo nunca muestran arrepentimiento genuino ni hacen ningún esfuerzo de reparación, lo que plantea la pregunta difícil de si el perdon tiene sentido cuando, según cualquier lógica de merito, no está justificado.
 

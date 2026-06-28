@@ -33,7 +33,7 @@ La autoestima no es lo que piensas de ti mismo cuando las cosas van bien. Es lo 
 
 ---
 
-## Capítulo 2: Los seis pilares de la autoestima segun Branden
+## Capítulo 2: Los seis pilares de la autoestima según Branden
 
 Elena cree que su autoestima es baja y que solo puede mejorar cuando logre más cosas, adelgace, o tenga una relación estable. Está creyendo que la autoestima es un resultado de las circunstancias externas. La investigación de Branden sugiere que sus pilares son internos y practicables independientemente de las circunstancias.
 

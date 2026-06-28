@@ -33,7 +33,7 @@ Google no tiene preferencias: tiene objetivos. Entender sus objetivos es entende
 
 ---
 
-## Capítulo 2: La investigación de palabras clave: encontrar las busquedas que valen la pena
+## Capítulo 2: La investigación de palabras clave: encontrar las búsquedas que valen la pena
 
 Lucia ha aprendido que no todas las palabras clave tienen el mismo valor para su negocio.
 
@@ -145,7 +145,7 @@ El SEO que construyes sobre contenido genuinamente excelente no le teme a las ac
 
 ---
 
-## Capítulo 10: Integrar el SEO: del primer articulo a la maquina de trafico organico
+## Capítulo 10: Integrar el SEO: del primer artículo a la maquina de trafico orgánico
 
 Carlos ha construido un sistema de SEO que genera trafico orgánico creciente mes a mes.
 

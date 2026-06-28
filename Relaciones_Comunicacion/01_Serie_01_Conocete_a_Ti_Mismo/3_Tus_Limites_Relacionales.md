@@ -1,4 +1,4 @@
-# Tus Limites Relacionales
+# Tus Límites Relacionales
 ## Aprende a decir no sin perder a quienes quieres
 
 **Serie 01: Conocete a Ti Mismo — Libro 3 de 10**
@@ -113,7 +113,7 @@ No es una frase corta. No es una frase de una sola silaba. No es un argumento co
 
 ---
 
-## Capítulo 7: Limites con familia, pareja, amigos y trabajo
+## Capítulo 7: Límites con familia, pareja, amigos y trabajo
 
 El mismo límite que funciona perfectamente con un compañero de trabajo puede sentirse imposible de aplicar con tu madre. Y el que aplicas sin dificultad con tu pareja puede resultar impensable con tu jefe. Los límites no son universales. Son relacionales.
 
@@ -141,7 +141,7 @@ Un límite que no sostienes le enseña al otro que puede ignorarlo.
 
 ---
 
-## Capítulo 9: Limites y amor: no son opuestos
+## Capítulo 9: Límites y amor: no son opuestos
 
 La madre de Ana le decía siempre: si de verdad me quisieras, no me hablarias así. Si fueras buena hija, vendrías más. Si me amaras, no te pondrias de su lado. Ana creció creyendo que el amor verdadero significa no tener límites. Que cuidar a alguien significa estar disponible siempre. Que las personas que ponen límites no quieren de verdad.
 

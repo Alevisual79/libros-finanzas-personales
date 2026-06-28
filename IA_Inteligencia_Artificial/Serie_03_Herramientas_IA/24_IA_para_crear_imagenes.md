@@ -62,7 +62,7 @@ DALL-E 3, integrado en ChatGPT Plus, combina la capacidad de lenguaje de GPT-4 p
 
 ---
 
-## Capítulo 4: Stable Diffusión — El codigo abierto
+## Capítulo 4: Stable Diffusión — El código abierto
 
 Stable Diffusión, desarrollado por Stability AI, es el modelo open source de imagen más importante. Los pesos del modelo son públicos: cualquiera puede descargarlo y ejecutarlo localmente.
 

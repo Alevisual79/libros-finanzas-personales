@@ -145,7 +145,7 @@ El socio que te recomienda sistemáticamente a sus clientes es el director de ve
 
 ---
 
-## Capítulo 10: Integrar el marketing de referidos: del evento espontaneo al sistema organico
+## Capítulo 10: Integrar el marketing de referidos: del evento espontaneo al sistema orgánico
 
 Lucia ha llegado a construir un ecosistema completo de referidos que funciona de forma orgánica.
 

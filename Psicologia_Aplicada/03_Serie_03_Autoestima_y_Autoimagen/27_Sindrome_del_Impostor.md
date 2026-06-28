@@ -1,4 +1,4 @@
-# Sindrome del Impostor
+# Síndrome del Impostor
 ## Como dejar de sentir que te van a descubrir
 
 **Serie 03: Autoestima y Autoimagen — Libro 7 de 10**
@@ -19,7 +19,7 @@ Isabel acaba de ser promovida a directora de departamento después de diez años
 
 ---
 
-## Capítulo 1: Que es el sindrome del impostor
+## Capítulo 1: Que es el síndrome del impostor
 
 El síndrome del impostor no es un diagnóstico clínico formal. Es un patron psicológico documentado por primera vez en 1978 por las psicologas Pauline Clance y Suzanne Imes que describe la experiencia de sentirse un fraude a pesar de la evidencia objetiva de competencia y éxito.
 
@@ -33,7 +33,7 @@ Sentirte un impostor no significa que lo seas. Significa que tu sistema de atrib
 
 ---
 
-## Capítulo 2: Los cinco tipos de impostor segun Valerie Young
+## Capítulo 2: Los cinco tipos de impostor según Valerie Young
 
 Ruben siente el síndrome del impostor de forma diferente a cómo lo describe Isabel. Hay varios patrones específicos bajo el paraguas general del impostor, y conocer el propio ayuda a trabajarlo de forma más específica.
 
@@ -47,7 +47,7 @@ No todo síndrome del impostor es igual. Saber el tuyo es saber a que patron esp
 
 ---
 
-## Capítulo 3: La paradoja del sindrome del impostor: quienes lo tienen más
+## Capítulo 3: La paradoja del síndrome del impostor: quienes lo tienen más
 
 Elena asume que el síndrome del impostor lo tienen las personas menos competentes o con menos logros. La realidad documentada por la investigación es la opuesta.
 
@@ -61,7 +61,7 @@ El síndrome del impostor no indica falta de competencia. Indica que eres sufici
 
 ---
 
-## Capítulo 4: Las raices del sindrome: de dónde viene la sensación de fraude
+## Capítulo 4: Las raices del síndrome: de dónde viene la sensación de fraude
 
 Ruben puede rastrear su síndrome hasta mensajes específicos recibidos en la infancia: una familia donde el éxito se esperaba sin celebración (por supuesto que sacaste buena nota), un entorno académico donde los errores eran fuente de verguenza pública, y una cultura profesional donde mostrar inseguridad se percibe como debilidad.
 
@@ -89,7 +89,7 @@ Si atribuyes todos tus éxitos a la suerte, la suerte se llevara el credito que 
 
 ---
 
-## Capítulo 6: El sindrome del impostor en el trabajo: estrategias específicas
+## Capítulo 6: El síndrome del impostor en el trabajo: estrategias específicas
 
 Ruben tiene síndrome del impostor especialmente intenso cuando tiene que hablar en reuniones con personas de mayor jerarquía. Su estrategia habitual es hablar lo mínimo posible para minimizar la posibilidad de decir algo que lo exponga.
 
@@ -103,7 +103,7 @@ El síndrome del impostor predice que te van a descubrir. La exposición acumula
 
 ---
 
-## Capítulo 7: Mentorias y sindrome del impostor: el aislamiento que lo alimenta
+## Capítulo 7: Mentorias y síndrome del impostor: el aislamiento que lo alimenta
 
 Elena se ha resistido a buscar mentores porque le da verguenza que alguien con más experiencia descubra lo poco que sabe. Este razonamiento es característico del síndrome del impostor y produce precisamente el aislamiento que lo alimenta.
 
@@ -117,7 +117,7 @@ La persona que cree que es la única que se siente un impostor en su campo nunca
 
 ---
 
-## Capítulo 8: éxito, reconocimiento y el sindrome: por qué el éxito no lo cura
+## Capítulo 8: éxito, reconocimiento y el síndrome: por qué el éxito no lo cura
 
 Isabel ha tenido éxitos consistentes durante diez años. El síndrome del impostor no se ha reducido con esos éxitos. Si acaso, en algunos momentos se ha intensificado.
 
@@ -131,7 +131,7 @@ El éxito que no atribuyes a tu competencia no construye tu sentido de competenc
 
 ---
 
-## Capítulo 9: Genero y sindrome del impostor: diferencias y similitudes
+## Capítulo 9: Genero y síndrome del impostor: diferencias y similitudes
 
 Ruben ha leido que el síndrome del impostor es principalmente un problema de mujeres. Esta creencia, que proviene de la investigación original de Clance e Imes que se centro en mujeres, no refleja el estado actual de la investigación.
 

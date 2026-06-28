@@ -1,5 +1,5 @@
 # Lean Startup
-## La metodologia que ha cambiado cómo se crean los negocios
+## La metodología que ha cambiado cómo se crean los negocios
 
 **Serie 02: De la Idea al Negocio — Libro 3 de 10**
 
@@ -19,7 +19,7 @@ Marcos paso dieciocho meses desarrollando su plataforma tecnologica en modo stea
 
 ---
 
-## Capítulo 1: El origen del Lean Startup: por qué la metodologia de negocios tradicional falla en la innovación
+## Capítulo 1: El origen del Lean Startup: por qué la metodología de negocios tradicional falla en la innovación
 
 El mundo ha cambiado. La metodología de negocios que funcionaba en un mundo estable no funciona en un mundo de cambio constante.
 
@@ -117,7 +117,7 @@ El progreso que no puedes medir no puedes gestionarlo. Y en fases tempranas, el 
 
 ---
 
-## Capítulo 8: Lean en negocios no digitales: aplicar la metodologia a cualquier tipo de negocio
+## Capítulo 8: Lean en negocios no digitales: aplicar la metodología a cualquier tipo de negocio
 
 Carlos ha aprendido que el Lean Startup no es solo para startups tecnologicas: sus principios aplican a cualquier negocio nuevo en cualquier sector.
 
@@ -131,7 +131,7 @@ La versión manual del negocio que prueba la idea es frecuentemente más rápida
 
 ---
 
-## Capítulo 9: El Lean Startup en equipos: como escalar la metodologia más allá del fundador
+## Capítulo 9: El Lean Startup en equipos: como escalar la metodología más allá del fundador
 
 Lucia ha tenido que adaptar la metodología Lean Startup cuando su empresa creció de ella sola a un equipo de cinco personas.
 
@@ -145,7 +145,7 @@ El equipo que aprende de los fracasos de otros no necesita cometerlos todos el m
 
 ---
 
-## Capítulo 10: Integrar el Lean Startup: de la metodologia a la cultura del aprendizaje continuo
+## Capítulo 10: Integrar el Lean Startup: de la metodología a la cultura del aprendizaje continuo
 
 Marcos ha llegado a entender que el Lean Startup no es un proceso que se aplica durante el lanzamiento. Es una cultura que debe mantenerse durante toda la vida del negocio.
 

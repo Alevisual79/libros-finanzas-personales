@@ -1,5 +1,5 @@
 # Trauma y Relaciones
-## Como las heridas del pasado afectan tus vinculos actuales
+## Como las heridas del pasado afectan tus vínculos actuales
 
 **Serie 05: Traumas y Heridas — Libro 8 de 10**
 
@@ -89,7 +89,7 @@ El patron que repites en tus relaciones no lo eliges conscientemente. Lo repites
 
 ---
 
-## Capítulo 6: Modificar los patrones: trabajo terapeutico y relaciones de apego seguro
+## Capítulo 6: Modificar los patrones: trabajo terapéutico y relaciones de apego seguro
 
 Ruben quiere cambiar sus patrones relacionales pero no sabe si eso es posible dado lo arraigados que estan.
 

@@ -32,7 +32,7 @@ La IA puede ayudar de tres formas:
 
 ---
 
-## Capítulo 2: Perplexity — La busqueda del futuro
+## Capítulo 2: Perplexity — La búsqueda del futuro
 
 Perplexity es un motor de búsqueda con IA que combina búsqueda web en tiempo real con síntesis de respuestas con fuentes citadas.
 
@@ -63,7 +63,7 @@ NotebookLM (Google) es una de las herramientas más interesantes del ecosistema 
 
 ---
 
-## Capítulo 4: Elicit — El asistente de investigación academica
+## Capítulo 4: Elicit — El asistente de investigación académica
 
 Elicit está diseñado específicamente para investigación académica. Busca en bases de datos de papers cientificos y extrae información relevante de forma estructurada.
 
@@ -119,7 +119,7 @@ La IA transforma también cómo se aprende, no solo cómo se investiga.
 
 ---
 
-## Capítulo 8: Gestion del conocimiento personal con IA
+## Capítulo 8: Gestión del conocimiento personal con IA
 
 El conocimiento investigado y aprendido tiene valor solo si se organiza y se puede recuperar.
 
