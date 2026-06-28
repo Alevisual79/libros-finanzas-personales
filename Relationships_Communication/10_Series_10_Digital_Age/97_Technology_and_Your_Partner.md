@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ted had been in his marriage for fifteen years when his wife, Diane, said something during an argument about a completely different topic that had stayed with him for two weeks afterward.
 
 She had said: "I feel like I'm competing with your phone."
@@ -155,4 +154,4 @@ This is your life.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

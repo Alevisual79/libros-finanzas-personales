@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 In his eleventh year of professional leadership, Marcus was asked to lead a significant organizational change initiative — the restructuring of a division that touched two hundred people and required the reconfiguration of processes that had been in place for eight years. He accepted with confidence. He had led teams through many challenges; he was widely respected in the organization; he had excellent relationships with the key stakeholders.
 
 Eighteen months later, the change had been partially implemented, the resistance had been higher and more persistent than anticipated, several key talents had left, and the organizational relationships that the process had damaged were still in recovery. The change had ultimately succeeded — the business outcomes it was designed to produce were achieved — but the human and relational cost was substantially higher than it had needed to be, and the process had taken longer than the organizational case had required.
@@ -165,4 +164,4 @@ Lead the change. Sustain the people through it. Anchor the learning that it prod
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

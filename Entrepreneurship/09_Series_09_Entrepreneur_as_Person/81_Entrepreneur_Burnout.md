@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Three years into building his software development agency, Marcus noticed the symptoms one at a time, as if they were unrelated events: the mornings when getting out of bed required an act of will rather than the habitual movement it had always been; the client calls he found himself dreading rather than anticipating; the creative problem-solving that used to energize him and now felt like moving through sand; and the persistent sense that he was doing everything wrong, even when the business by every external measure was succeeding.
 
 He didn't call it burnout. Burnout was for people who worked jobs they didn't love, in organizations that didn't value them, doing work they had chosen under duress. He was an entrepreneur who had built something he believed in, worked with people he had chosen, and pursued clients whose problems he genuinely wanted to solve. The concept of burnout didn't fit his understanding of his situation.
@@ -141,4 +140,4 @@ Marcus hadn't wanted to call it burnout. Burnout was the word that admitted some
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

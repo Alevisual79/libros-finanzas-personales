@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The most common reason people's health improvement attempts fail is not lack of motivation or willpower — it is the gap between the size of the change attempted and the size of the change that is sustainable. People attempt large changes with large initial motivation, which wanes, at which point the large change becomes unsustainable. They return to baseline and conclude that they can't change, rather than that they chose an unsustainable change.
 
 The science of small changes — also called marginal gains or incremental improvement — offers a different path. Not because small changes are modest in ambition, but because small changes compound.
@@ -261,4 +260,4 @@ Small changes are not a fallback for people who can't commit to big changes. The
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

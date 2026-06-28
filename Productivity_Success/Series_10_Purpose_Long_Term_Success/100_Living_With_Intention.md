@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 One hundred books. One hundred specific, research-grounded explorations of the practices, the capabilities, the relationships, and the purposes that professional excellence and personal flourishing require. The collection you have been reading — or that is now complete on your shelf, or your reading list, or the device you carry — has been a sustained attempt to provide the evidential foundation and the practical framework for the professional life that is worth living: the one that is excellent without being unsustainable, that is ambitious without sacrificing what makes the ambition worthwhile, that is purposeful without being naive about the material and practical requirements of a professional life in the real world.
 
 This final book does not introduce new research. It completes the synthesis that the preceding ninety-nine books have been building toward: the integration of the productivity, the relationships, the leadership, the learning, the creativity, the wellbeing, and the purpose that together constitute the intentional professional life.
@@ -164,4 +163,4 @@ And neither does the possibility of the professional life that the practice buil
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

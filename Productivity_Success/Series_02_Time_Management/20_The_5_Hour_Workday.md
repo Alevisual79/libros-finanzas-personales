@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Lucía's company tried an experiment. For six weeks, the marketing team would operate on a five-hour workday — structured, intensive hours from 8:00 AM to 1:00 PM, with the rest of the day available for personal use. The experiment was not expected to succeed; it was expected to produce the data that would justify returning to the normal schedule.
 
 The data from the six-week experiment surprised almost everyone. Team output — measured by deliverables produced, client feedback quality, and project completion rate — was equivalent to, and in some categories better than, the output from the preceding six weeks of standard working days. Employee satisfaction measures increased significantly. The sick day rate decreased. Several team members reported that their work during the five focused hours was qualitatively better than their work during a full eight-hour day, because the constraint of five hours forced the elimination of the low-value activities that had filled the remaining time without improving the output.
@@ -161,4 +160,4 @@ The conclusion she drew was not that she should work five hours per day. The con
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

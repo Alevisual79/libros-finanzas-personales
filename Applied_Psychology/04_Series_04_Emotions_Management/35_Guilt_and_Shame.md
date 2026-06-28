@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Marco was twelve, he broke a lamp during an argument with his brother and, in the confusion, let his brother take the blame. His mother scolded his brother; Marco said nothing. The event was minor — the lamp was inexpensive, the scolding was brief, no one was hurt — but Marco thought about it for years afterward. Not continuously, but reliably: in quiet moments, in the half-hour before sleep, occasionally when something reminded him of his brother's face in that moment. He felt, when he thought about it, a specific quality of discomfort that he could not quite name. He also felt, distinctly, a more diffuse and less specific disturbance that arose when he considered what the episode "said about him" — a quality of person who would let his brother take undeserved blame. The first feeling was actionable; the second felt like a verdict. The difference between them, though he didn't have words for it yet, was the difference between guilt and shame.
 
 Guilt and shame are among the most socially significant human emotions — the primary mechanisms through which we monitor our own behavior against moral standards and experience the consequences of violations. They are also among the most frequently confused, both conceptually and experientially. Understanding the distinction between them — guilt as a response to specific actions, shame as a response to the self as a whole — is one of the most practically important insights in contemporary emotion psychology, because the two emotions lead to dramatically different behavioral consequences and respond to different interventions.
@@ -133,4 +132,4 @@ Guilt and shame both arise from one's sense of having fallen short of something 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

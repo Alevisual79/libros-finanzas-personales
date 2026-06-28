@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The 40s are the decade when the body's physiological changes become impossible to ignore. Recovery takes longer. Muscle seems harder to maintain. The weight that was easy to lose at 30 doesn't respond the same way at 42. Sleep is less restorative. Joints make new noises.
 
 Most people interpret these changes as inevitable decline to be managed. The science suggests something more nuanced: many of the changes attributed to "aging" in the 40s are actually the consequences of lifestyle factors — sedentary behavior, reduced muscle mass, chronic stress, poor sleep — that accumulate over the preceding decades. The appropriate response is not adaptation to decline but intervention.
@@ -203,4 +202,4 @@ Apply one key idea from this book this week. Health changes come from consistent
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

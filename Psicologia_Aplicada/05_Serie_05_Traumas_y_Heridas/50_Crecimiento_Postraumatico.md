@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben no habría elegido lo que le ocurrio. La crisis que pensó que lo destruiria. La relación que terminó en circunstancias devastadoras. El año en que todo parecio venirse abajo al mismo tiempo. No habría elegido ninguna de esas experiencias. Y sin embargo, si tuviera que describir quien es ahora en comparación con quien era antes de ellas, tendría que admitir que hay partes suyas que no estarian ahí sin el proceso de atravesar lo que creía que lo iba a destruir. Este libro es sobre ese fenómeno: el crecimiento postraumatico. No como promesa de que todo el sufrimiento produce crecimiento, porque no es cierto. Sino como documentación de un proceso real que ocurre en muchas personas.
 
 ---
@@ -175,4 +174,4 @@ Ruben no elegiria repetir ninguna de las experiencias que lo formaron. Pero si t
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Miguel had mastered what he thought of as the posture of leadership: upright, composed, attentive expression, steady eye contact. Thirty years of management had refined this presentation to the point of automaticity. In meetings, in performance reviews, in difficult conversations, he projected the physical signature of calm authority.
 
 His daughter, over dinner at a holiday gathering, watched him listening to her mother tell a story he had clearly heard before and said: "Dad, your face just left the room." He had been present. His body had been present. Something else — some quality of animated engagement that the people who knew him best expected — had been somewhere else.
@@ -149,4 +148,4 @@ The question is whether what it is saying is what you mean.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

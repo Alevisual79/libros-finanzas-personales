@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene todo lo que debería hacerle feliz según los estandares culturales: trabajo estable, relación de pareja, salud, amigos. Y sin embargo hay dias en que se levanta con la sensación de que le falta algo, una chispa que no sabe bien como encender. Cuando busca en internet encuentra la presión del positivismo obligatorio: siente gratitud, sonrie más, piensa en positivo. Esos consejos le producen el efecto contrario: le hacen sentir que su falta de alegria constante es un fallo personal adicional al que ya tenía. Este libro propone algo diferente: que la alegria genuina no se fabrica con optimismo forzado sino que se cultiva entendiendo como funciona y creando las condiciones en que puede aparecer.
 
 ---
@@ -175,4 +174,4 @@ Ruben encontró la chispa un martes por la tarde tocando la guitarra con dos ami
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

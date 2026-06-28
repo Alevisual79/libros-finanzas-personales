@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had begun to understand that reconciling with the past did not mean making peace with the past.
 
 Making peace with the past — which was the phrase people used when they meant something like "no longer being upset about what happened" — was neither possible nor desirable in his case. What had happened was genuinely harmful and warranted the feelings it had produced. The feelings were not problems to be eliminated; they were appropriate responses to real events.
@@ -151,4 +150,4 @@ You can change what it means — not by pretending it means something it doesn't
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

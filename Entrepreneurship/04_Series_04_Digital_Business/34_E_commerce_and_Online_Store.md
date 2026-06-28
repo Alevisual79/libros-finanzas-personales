@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Sam launched her online store selling handmade leather goods — wallets, bags, and accessories made from ethically sourced vegetable-tanned leather — she joined an e-commerce market with millions of sellers, several dominant platforms, and no obvious reason why another handmade leather goods store should exist. Three years later, her store generates $380,000 annually, employs two part-time craftspeople, and has a waiting list for custom orders. She did not compete on price (her wallet costs $125 versus $25 for the next most accessible alternative). She did not compete on marketing budget. She competed on story, craftsmanship transparency, and the specific values that a specific, growing segment of consumers is willing to pay significantly more to align with.
 
 E-commerce is the most accessible and most competitive commercial arena in human history: the barriers to launching an online store have never been lower, and the number of people who have done so has never been higher. Building a profitable e-commerce business in this environment requires something more than having a product and a website. It requires the strategic clarity, differentiation, and operational discipline that this book describes.
@@ -135,4 +134,4 @@ E-commerce is not a business model for businesses that want to compete on price,
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

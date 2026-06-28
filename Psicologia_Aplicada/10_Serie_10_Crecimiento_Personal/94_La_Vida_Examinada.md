@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Socrates dijo que la vida no examinada no merece ser vivida. Elena examina su vida con tanta intensidad que a veces la paraliza. Ruben casi nunca se detiene a examinar nada: vive en la acción constante sin pausa para entender a donde va ni por qué. Isabel tiene una práctica de reflexión pero siente que no siempre sabe como usarla bien: a veces la reflexión produce claridad y otras la produce confusión. Los tres necesitan lo mismo: aprender a usar la reflexión como herramienta de crecimiento en lugar de como fuente de paralisis o como actividad que solo saben evitar. Este libro es sobre ese uso inteligente de la reflexión.
 
 ---
@@ -175,4 +174,4 @@ Ruben implementó la revisión semanal. No fue cómodo al principio: le parecio 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Kenji did not talk about his illness as a gift. The cancer diagnosis at 38, the two years of treatment, the year of reconstruction that followed — none of it was something he would have chosen, and the idea that he should be grateful for it struck him as distasteful. What he acknowledged, with genuine care for accuracy, was that he was different on the other side of it than he had been before: different in ways that he would not have arrived at without the experience, different in ways that he recognized as, by his own accounting, improvements. He was more present. He was more selective about what he spent his limited time on. He was more openly loving with the people he loved. He had a relationship with his own mortality that gave his daily life a quality of seriousness and attention that he had not had before. He had not grown because of the illness. He had grown through the struggle with the illness — and the distinction, he had come to believe, mattered enormously.
 
 Post-traumatic growth (PTG) is the concept that describes genuine positive psychological change that emerges from the struggle with highly challenging, traumatic life circumstances. It is not resilience — resilience involves returning to prior levels of functioning; PTG involves going beyond them. It is not positive thinking — it requires genuine suffering and genuine struggle; it cannot be achieved through reframing or gratitude exercises applied to experiences that aren't actually challenging. It is not a universal outcome of trauma — many people do not experience significant growth, and PTG and distress can coexist in the same person simultaneously. But for a substantial proportion of people who face serious adversity, genuine growth occurs that would not have occurred without the struggle — and understanding this possibility, its mechanisms, and its conditions is this series' concluding gift.
@@ -137,4 +136,4 @@ This series has moved from the definition of trauma, through its biological and 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

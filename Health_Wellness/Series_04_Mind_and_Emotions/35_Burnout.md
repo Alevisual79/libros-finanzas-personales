@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had been high-performing for eight years. She had produced results, been promoted twice, and been described by her manager as "the person we can always count on." She had also answered emails at midnight, worked through every vacation, taken on every emergency request, and never said no to any deadline.
 
 The collapse was not dramatic. There was no breakdown, no crisis. There was a morning when she sat in her car in the parking garage for twenty minutes, unable to make herself go into the building. There was a growing sense that she was performing the role of someone who cared about her work without actually caring about it anymore. There was a flatness that no amount of sleep resolved.
@@ -282,4 +281,4 @@ Burnout is not weakness. It is the predictable physiological and psychological r
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

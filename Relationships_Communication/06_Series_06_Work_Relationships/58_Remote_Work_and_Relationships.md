@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sandra's team had been fully remote for three years before she joined it, and then partially remote — two days in the office, three at home — for the year and a half of her tenure.
 
 The shift to hybrid had been received by her team with the specific ambivalence that characterized the reception of the hybrid mandate across most of the organizations that implemented it: some people had welcomed the return to in-person contact, some had experienced the mandate as a disruption of a functioning arrangement, and most had found the resulting hybrid dynamic — neither fully remote nor fully co-located — to be more socially complex than either of the extremes they had replaced.
@@ -145,4 +144,4 @@ It doesn't change whether you need to.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

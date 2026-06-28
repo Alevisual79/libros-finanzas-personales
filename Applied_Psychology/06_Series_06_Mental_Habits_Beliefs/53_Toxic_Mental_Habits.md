@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 If you had asked Natalia to identify what was keeping her stuck, she could not have answered clearly. There was no single catastrophe, no ongoing crisis, no obvious external obstacle. She had things she wanted to do and wasn't doing them. She had a life she wanted to improve and wasn't improving it. She was tired in a way that sleep didn't fix. She worried in a way that felt productive but never solved anything. She second-guessed decisions she had already made. She rehearsed conversations that were never going to happen. She compared herself to people she didn't know well enough to compare herself to. She apologized for things that were not her fault. These patterns occupied enormous amounts of her mental and emotional bandwidth — quietly, almost invisibly, the way a background application drains a battery without producing anything useful.
 
 Toxic mental habits are the recurring patterns of thought, attention, and cognitive engagement that consistently produce psychological costs without corresponding benefits. Unlike the cognitive distortions examined in Book 52, which are specific errors in interpretation, toxic mental habits are more process-focused: they describe the activities the mind engages in habitually — rumination, overthinking, comparison, excessive apologizing, chronic worrying — that are draining rather than productive and that maintain distress without moving toward resolution. Understanding these habits — how they form, how they persist, what they cost, and how to interrupt and replace them — is among the most practically useful content in applied cognitive psychology.
@@ -133,4 +132,4 @@ Toxic mental habits are not character flaws. They are patterns that were establi
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

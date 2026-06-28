@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The fitness industry generates approximately $100 billion annually, largely on the basis of New Year's resolutions that are statistically likely to be abandoned by February. The self-help publishing industry thrives on the same dynamic: books that generate initial enthusiasm and behavioral change that proves unsustainable after the motivational spike of the new purchase fades. The diet industry is sustained by a population that has successfully lost weight multiple times through motivational episodes that did not last, and regained the weight when the episodes ended.
 
 This pattern — the motivational spike that produces initial behavior change, followed by decay to baseline — is one of the most consistent and most practically significant phenomena in behavioral psychology. Understanding why initial motivation fades and what produces motivation that actually lasts is not a personal development question but a scientific question with a substantial empirical literature. The answer the research provides is both clarifying and uncomfortable: the types of motivation that produce sustainable behavior change are different in kind from the types most commonly relied upon, and developing sustainable motivation requires understanding this distinction.
@@ -137,4 +136,4 @@ Motivation that lasts is not manufactured through positive thinking or disciplin
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

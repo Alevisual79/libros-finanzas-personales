@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben remembered the exact moment in early 2020 when he watched his small investment portfolio drop 30% in three weeks. He'd been contributing to a Roth IRA for two years, had accumulated just under $9,000, and watched it fall to roughly $6,300 on screens he refreshed more frequently than was healthy. His instinct — and it was a powerful one — was to move everything to cash. To stop the bleeding. To wait until things "settled down" before putting money back in. A friend who'd been investing longer grabbed his arm, literally, during a video call and said four words: "Don't do anything yet." He didn't. By year-end his portfolio was at $11,400. The friend's advice had been worth roughly $5,000.
 
 Isabel had been through two significant recessions by the time 2020 arrived. She'd lived through the dot-com collapse of 2000-2002, which had destroyed a significant portion of her employer's 401(k) match (the company briefly suspended contributions), and through the 2008-2009 financial crisis, when her home value dropped 22% and a colleague she respected very much cashed out his entire 401(k) to pay off credit card debt — a decision she watched him regret for years. By 2020, Isabel had the one thing that recessions cannot give you and can only be earned through experience: genuine, tested confidence that downturns are temporary and opportunity is real. She increased her 401(k) contribution from 10% to 15% in April 2020, during the depths of the uncertainty. It was one of the best financial decisions she ever made.
@@ -172,4 +171,4 @@ The next book examines how to protect the wealth you're building from legal and 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

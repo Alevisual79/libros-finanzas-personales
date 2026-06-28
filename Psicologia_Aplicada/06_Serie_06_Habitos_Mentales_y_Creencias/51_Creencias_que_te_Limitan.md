@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva años intentando avanzar en su carrera y siempre llega al mismo punto donde se detiene. Cuando lo examina de cerca, no es una falta de habilidad ni de oportunidades. Es una voz interna que dice cosas como las personas como yo no llegan a esos puestos o si intento algo grande y fallo, demostrare que tenían razón. Esas voces no son observaciones neutrales sobre la realidad. Son creencias limitantes: estructuras mentales que se instalaron en algun momento de la vida como verdades sobre lo que es posible, y que desde entonces funcionan como barreras invisibles. Este libro es para aprender a reconocerlas, entender de dónde vienen, y empezar a desinstalarlas.
 
 ---
@@ -175,4 +174,4 @@ Elena identifico la creencia: las personas como yo no lideran equipos. La rastre
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

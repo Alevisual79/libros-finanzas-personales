@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben lleva seis meses queriendo cambiar de trabajo. El nuevo trabajo sería mejor en casi todos los aspectos: más acorde con sus valores, mejor remunerado, más alineado con la dirección profesional que quiere seguir. Y seis meses después sigue en el mismo sitio. Cuando se pregunta honestamente por qué, la respuesta no tiene que ver con la logistica ni con la preparación. Tiene que ver con el miedo: al rechazó, al fracaso, a equivocarse en la decisión. El miedo no tiene que ver con si el cambio vale la pena. Tiene que ver con si puede tolerar la incertidumbre del proceso. Y eso, descubrir que el miedo puede paralizar incluso cuando la lógica dice que hay que moverse, es la primera lección sobre como funciona el miedo en la vida adulta.
 
 ---
@@ -175,4 +174,4 @@ Ruben envió la solicitud el lunes a las 10am, como había decidido el domingo. 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

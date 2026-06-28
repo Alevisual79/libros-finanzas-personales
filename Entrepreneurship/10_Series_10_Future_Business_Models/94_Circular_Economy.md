@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Lena had built her activewear brand over eight years, and she was proud of what she had created: a line of high-performance athletic wear with strong materials, fair labor practices, and a loyal following. What disturbed her — increasingly, as the volume of her business grew — was the end of life of her products.
 
 Her research led to a confrontation with a number that she couldn't shake: an estimated seventy-three percent of textiles end up in landfills, incinerated, or in developing-world waste streams, with the remainder recycled (which often means downcycled into lower-quality materials). Her products would, with high probability, follow this path. She was building a business whose success meant making more of a thing that would eventually become a problem.
@@ -143,4 +142,4 @@ The number that had disturbed Lena — seventy-three percent of textiles ending 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

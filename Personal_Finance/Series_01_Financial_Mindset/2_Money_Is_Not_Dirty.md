@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben grew up in a household where his parents never discussed money at the dinner table. It wasn't forbidden — it simply didn't happen. When he asked his mother why they couldn't afford a new bike one Christmas, she changed the subject. When his father got a raise, nobody mentioned it. Money was treated as something slightly shameful, like a bodily function: everyone had it, everyone dealt with it, and polite people didn't bring it up.
 
 The consequence of this silence, which Ruben only identified in his early thirties, was that he never developed a neutral relationship with the subject. Money carried a vague moral charge — accumulating it aggressively felt greedy, spending it freely felt generous, and thinking about it carefully felt small-minded. This invisible ethics of money shaped his financial behavior for two decades before he named it.
@@ -175,4 +174,4 @@ Beliefs change through experience. This book series is about creating the right 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

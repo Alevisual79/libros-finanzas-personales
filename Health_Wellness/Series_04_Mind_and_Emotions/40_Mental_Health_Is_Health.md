@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The division between mental health and physical health is a historical artifact of how medicine organized itself — not a description of how the body actually works. The brain is an organ. The mind is a function of that organ. Psychological states produce measurable physiological changes, and physiological states produce measurable psychological changes. They are the same system.
 
 The practical implications of understanding this: mental health care is not a luxury or a specialty adjunct to "real" healthcare. It is healthcare.
@@ -249,4 +248,4 @@ The series ends where it began: with the understanding that health is integrated
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

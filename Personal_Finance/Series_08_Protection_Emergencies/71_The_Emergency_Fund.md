@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had been doing everything right for six months. She had cut back on dining out, automated a $400 monthly transfer to savings, and for the first time in her adult life, she had a balance in her account that felt like more than a mirage. Then her car died on the freeway on a Tuesday morning. The tow was $180. The repair — a timing chain she had been warned about for two years but had ignored — came to $2,800. She paid it. Mostly. She put $1,400 on a credit card, depleted the savings she had accumulated, and found herself staring at a nearly-empty account three days later, feeling like she was back at zero. The worst part was not the money itself. It was the feeling that the financial system she had been building had collapsed at the first real test.
 
 Ruben had been freelancing for four years, and he had learned the hard way that income does not arrive in smooth, predictable waves. Some months, three clients paid on the same day. Other months, invoices sat unpaid past their due dates, a long-term client went quiet, and the bank balance dropped faster than he could refresh the page. He had built what he called his "cushion" — about $3,200 in a savings account he tried not to touch. When a slow February turned into a slow March, and a client who owed him $4,500 disappeared without returning emails, the cushion disappeared in six weeks. He survived. But he had to take on a rush project he resented, working sixteen-hour days for a client he disliked, because he had no breathing room to say no.
@@ -169,4 +168,4 @@ Isabel's emergency fund remains at $16,200 — slightly above three months of he
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

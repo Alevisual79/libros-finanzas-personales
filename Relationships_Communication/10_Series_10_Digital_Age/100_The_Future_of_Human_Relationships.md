@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Mia, Ted, and Priya met in person for the first time at a conference on technology and social wellbeing, approximately eighteen months after Mia and Priya had connected online and Mia and Ted had been introduced through a professional acquaintance.
 
 It was, all three of them noted independently and then to each other, a strange thing: to meet in person someone whose voice and face you already knew from screens, whose professional work you had read, whose personal stories had arrived through the specific mediated form of text and video — and to discover that the in-person encounter produced something that the mediated knowing had not quite produced.
@@ -173,4 +172,4 @@ Go live it.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

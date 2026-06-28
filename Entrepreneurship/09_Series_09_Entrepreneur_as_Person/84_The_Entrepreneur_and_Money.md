@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For the first four years of his career as an independent consultant, David had charged what felt comfortable: rates that were above the market's lowest but safely below the highest, prices that wouldn't prompt clients to question his value or compare him unfavorably to better-known competitors. He told himself this was strategic modesty — appropriate humility in a competitive market. His coach eventually helped him see it differently.
 
 The pricing wasn't modesty; it was fear. David was afraid that if he charged what his expertise was worth — what his research, his track record, and his specific methodology justified — clients would say no. And a client saying no to his price would feel, to David, like a client saying no to him: to his value as a professional and, at some deeper level, to his value as a person.
@@ -137,4 +136,4 @@ David's underpricing had been a financial behavior with a psychological root. Ad
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Men's hormonal aging is less dramatic than women's — testosterone declines gradually over decades rather than dropping abruptly — and far less publicly discussed. This relative silence has consequences in two directions: men with genuine hypogonadism go undiagnosed and undertreated, while testosterone clinics proliferate selling treatment to men with normal age-related testosterone levels, conflating normal aging with disease.
 
 This book navigates between these extremes: what is actually happening hormonally in aging men, what constitutes a clinical problem, and what can be done about it — medically and through lifestyle.
@@ -270,4 +269,4 @@ Testosterone declines with age in men — this is normal, not pathological. A su
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

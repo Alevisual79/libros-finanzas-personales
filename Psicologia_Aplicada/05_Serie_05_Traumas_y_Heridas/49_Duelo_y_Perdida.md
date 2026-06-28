@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel perdio a su madre hace tres años. Al principio el mundo le dijo que tenía que hacer las cinco etapas del duelo y eventualmente aceptar la perdida. Ella no experimento cinco etapas ordenadas: experimento un estado caotico de emociones que iban y venían sin orden, momentos de aparente normalidad seguidos de oleadas de dolor que llegaban de improviso, y una persistente sensación de que algo estaba mal en ella por no estar en duelo de la forma en que el mundo esperaba. La investigación contemporanea sobre el duelo es mucho más matizada y compasiva que el modelo de las cinco etapas.
 
 ---
@@ -175,4 +174,4 @@ Isabel colgo una fotografía de su madre en un lugar que veía todos los dias. L
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

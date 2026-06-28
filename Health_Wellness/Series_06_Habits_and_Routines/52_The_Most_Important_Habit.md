@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 What if there were one habit that, once established, made every other healthy change more likely to succeed? Not because it is magic, but because it operates at the root of the behavioral and physiological systems that govern all other health decisions. What if the key to eating better, exercising more, managing stress, and maintaining energy throughout the day was not any of those things directly, but something else entirely — something that most people either neglect or dramatically underestimate?
 
 Sofia had tried everything. She had cycled through exercise programs, dietary approaches, meditation apps, and productivity systems. Each one showed promise for a few weeks, then quietly disintegrated. Her coach, a behavioral health specialist, asked her a question she had not expected: "What time do you wake up, and how do you feel when you do?" The question seemed tangential. It was not.
@@ -163,4 +162,4 @@ Start there. Build that one behavior until it is genuinely automatic. And watch 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

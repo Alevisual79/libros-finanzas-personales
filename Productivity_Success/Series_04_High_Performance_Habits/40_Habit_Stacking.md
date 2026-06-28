@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had eight habits he was trying to establish simultaneously. He knew, from reading James Clear and B.J. Fogg and Charles Duhigg, that eight simultaneous habits was probably too many. He tried them anyway. Three survived the first month; one survived the first year. The survivors were not the most important of the eight; they were the ones that happened to have the strongest environmental support and the most forgiving structure.
 
 The failure of the other five was not a failure of his understanding of the habits' value. He knew their value. It was a failure of system design — of the architecture that would make eight habits fit into a day without requiring eight separate acts of willpower to initiate them.
@@ -173,4 +172,4 @@ Design the system. Run the system. Trust the compound.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

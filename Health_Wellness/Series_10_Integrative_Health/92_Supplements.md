@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Jennifer was fifty-three when she walked into a health food store intending to buy vitamin C and walked out forty-five minutes later having spent $340. The store's nutrition consultant — enthusiastic, knowledgeable-sounding, and entirely unregulated — had walked her through a protocol of twelve different supplements to address her fatigue, hormonal changes, joint discomfort, and "cellular aging." Each recommendation came with a confident explanation that sounded scientific enough to be convincing: antioxidant cascades, mitochondrial support, telomere protection, adaptogenic response. Jennifer wasn't naive; she held a graduate degree and was skeptical of most health marketing. But the consultant seemed to know what she was talking about, the products were in a respectable-looking store, and Jennifer's fatigue was real enough that she was willing to try almost anything.
 
 Six months later, after diligently taking her twelve supplements, Jennifer felt approximately the same. Some of the supplements she'd bought had since been the subject of news stories — a major study had found no benefit for one of them in a population just like her, and another had been recalled by the FDA for undisclosed pharmaceutical contaminants. She'd also had an awkward conversation with her cardiologist, who had reviewed her supplement list and pointed out that two of them could increase bleeding risk and interact with the low-dose aspirin she'd been prescribed. The $340 had become a recurring monthly expense. And she still felt tired.
@@ -173,4 +172,4 @@ The most expensive supplement is the one that substitutes for a good conversatio
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene veintinueve años y lleva tres con ansiedad. No ansiedad diagnosticada, no ansiedad que haya consultado con ningún profesional. Ansiedad que siente como algo que ocurre dentro de el sin que sepa muy bien por qué, cómo un motor que no puede apagar, una tensión de fondo que a veces se convierte en episodios de taquicardia, dificultad para respirar, pensamientos que se aceleran. Ha aprendido a funcionar con ello. Pero funcionar con algo que no entiendes es distinto de gestionarlo. Y gestionar comienza por entender.
 
 ---
@@ -175,4 +174,4 @@ Ruben empezó por lo más simple: reducir la cafeina, mejorar el sueño, añadir
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

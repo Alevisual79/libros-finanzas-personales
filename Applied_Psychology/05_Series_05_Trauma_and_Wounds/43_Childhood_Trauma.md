@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had spent most of her adult life being surprised by her own reactions. She would become intensely anxious in situations where others seemed perfectly comfortable. She found it nearly impossible to ask for help, even when she needed it desperately. She worked compulsively, without knowing exactly why, and found it difficult to stop even when her body was asking her to. She was, by external measure, competent and accomplished. She was also, by internal measure, frequently terrified and exhausted in ways she couldn't attribute to any present-day cause. The causes were not in the present. They were in a childhood she mostly remembered as ordinary, and that her therapist eventually helped her recognize as considerably less ordinary than she had known.
 
 Childhood is the period of maximum neurological plasticity and maximum dependence on others — which means it is also the period of maximum vulnerability to the lasting effects of adverse experience. What happens to us in childhood, and what is absent from childhood that should be present, shapes the developing nervous system, the developing attachment system, the developing self-concept, and the developing emotional and behavioral repertoire in ways that echo across decades. Understanding childhood trauma — what constitutes it, how it is stored, how it manifests in adult life, and what genuine healing requires — is among the most consequential topics in applied psychology.
@@ -137,4 +136,4 @@ Childhood leaves marks on everyone — not always in the form of trauma, but alw
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Sophia closed her San Francisco office in 2020 and shifted her content strategy firm to fully remote operations, the decision felt like an emergency response. Fifteen months later, after hiring her best creative director from London, a senior strategist from Toronto, and a client success manager from Austin — none of whom she would have found if the company were still hiring within commuting distance of a San Francisco address — it became clear that the emergency response had been the best strategic decision she had made.
 
 The company she runs now is smaller in physical footprint and larger in talent quality than the company she ran before. The operating costs are thirty-two percent lower. The team collaboration, which she had feared would suffer, had required deliberate design to make work — but the deliberate design had produced something better than the accidental culture of the pre-pandemic office. What had seemed like a temporary accommodation had revealed something permanent: the physical office had been hiding the organizational design work she had never done.
@@ -143,4 +142,4 @@ The decision to close the office had felt like loss — of the familiar environm
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

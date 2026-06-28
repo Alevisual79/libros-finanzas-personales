@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos lleva dos años con la idea en la cabeza y nueve meses con el plan en el cajón. No le falta inteligencia ni preparación: tiene un MBA, cinco años de experiencia en su sector, y un mercado que ha estudiado más que la mayoría. Lo que le falta es la capacidad de dar el paso a pesar del miedo. Lucia sabía que tenía que contratar a su primer empleado hace un año pero el miedo a delegar mal, a no poder pagar la nómina, a perder el control de la calidad la había paralizado. Marcos tenía claridad sobre lo que quería construir pero el miedo al juicio de sus colegas corporativos que pudieran pensar que había cometido un error dejando la seguridad del salario le frenaba. Los tres tienen miedo. Este libro es sobre como seguir adelante a pesar de el.
 
 ---
@@ -175,4 +174,4 @@ Carlos envió la primera versión de su presentación a tres potenciales cliente
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

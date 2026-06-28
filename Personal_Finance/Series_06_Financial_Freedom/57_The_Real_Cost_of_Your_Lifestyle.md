@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had always thought of her spending in terms of monthly bills. Rent, utilities, phone, subscriptions — these had fixed numbers and arrived on schedule. The rest — food, gas, going out, random purchases — felt fluid, impossible to really pin down. She had a rough sense that she spent "around $3,000 a month" on living, but when she actually went through her bank statements in detail for the first time, the honest number was closer to $3,600. The difference wasn't dramatic in any single category. It was accumulated in a hundred small ways: the parking fees she forgot to count, the birthday gifts, the coffee she bought every Monday when she needed a reset, the irregular but always-recurring vet visit. She had been planning her financial future around a number that was $600 short of reality every month — $7,200 per year short of reality.
 
 Ruben had the freelancer's relationship with spending: feast or famine. In good months, the checking account filled up and he spent generously — on nicer groceries, on a weekend away, on the equipment upgrade he'd been postponing. In slow months, everything tightened and he watched every transaction carefully. What he had never done was calculate a true average. When he finally did — pulling twelve months of data and removing one exceptional trip — his average monthly spending came to $3,100. He had been mentally modeling something closer to $2,600, which was his "tight months" figure that he used as his mental anchor. The honest average was 19 percent higher. That gap, left unexamined, would have caused him to underestimate his financial freedom target by nearly $130,000.
@@ -165,4 +164,4 @@ The next book in this series asks a direct and powerful question: given your cur
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

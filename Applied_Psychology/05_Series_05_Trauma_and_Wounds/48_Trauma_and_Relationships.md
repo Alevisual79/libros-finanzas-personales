@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 By the time James came to couples therapy, he and his partner had been together for seven years and had developed what both of them, separately, described as a specific, exhausting pattern. Something would happen — something his partner did or didn't do — and James would disconnect, withdraw, and become distant in a way that was simultaneously impenetrable and deeply alarming to the partner, who would pursue and attempt to reconnect, which would cause James to withdraw further. Neither of them understood what was happening. From James's perspective, he was protecting himself from something he couldn't quite name. From his partner's perspective, the person she loved kept disappearing at the moments when she most needed him. What their couples therapist eventually helped them see was that what was happening between them was, in important ways, older than their relationship — it was James's nervous system replaying the most important thing it had ever learned about what happened when people got too close.
 
 Trauma shapes relationships. This is among the most consistently documented findings in attachment and trauma research, and among the most important for the partners, family members, and close friends of trauma survivors to understand. The hypervigilance, the emotional numbing, the difficulty trusting, the sudden and inexplicable responses to situations that seem minor — these are not personality failures or relationship limitations. They are the relational consequences of experiences that taught the nervous system specific lessons about what relationships are like. Understanding these consequences — their origins, their mechanics, and what they require of both partners — is the foundation of a relationship that can survive trauma's relational effects and sometimes become, itself, part of the healing.
@@ -133,4 +132,4 @@ Trauma is not only a wound to be healed in private. It is a disruption to the so
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

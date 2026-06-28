@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva siete años en el mismo tipo de trabajo y se pregunta si hay un trabajo que se ajuste mejor a quien es. Ruben tiene un perfil de personalidad que funciona extraordinariamente bien en ciertos contextos y que en otros le cuesta. Y Isabel, a sus cincuenta y dos años de directora de recursos humanos, ha visto como el desajuste entre la personalidad y el trabajo es una de las causas más subestimadas del bajo rendimiento y la insatisfacción laboral cronica. Este libro es sobre ese ajuste: lo que la investigación dice sobre la relación entre la personalidad y el trabajo, como identificar donde ese ajuste es mejor, y como usar el conocimiento de quien eres para construir una carrera más alineada con lo que eres.
 
 ---
@@ -175,4 +174,4 @@ Isabel llegó a los cincuenta y dos años sabiendo algo que no sabía a los trei
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

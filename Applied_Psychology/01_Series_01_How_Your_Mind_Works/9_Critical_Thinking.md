@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Omar was 28, he became convinced that a supplement he read about online would significantly improve his cognitive performance. The evidence was compelling — testimonials, before-and-after stories, references to studies with impressive-sounding statistics. He ordered a three-month supply. When the supplement didn't produce the effects he expected, he consulted his friend who had a biology degree, who gently walked him through why the evidence he had found was nearly worthless: testimonials are not controlled observations, the studies referenced were poorly designed, the statistics were presented misleadingly, and the claims had not been independently replicated. He had read extensively and reasoned carefully — but he had not read critically.
 
 Critical thinking is not the same as being critical of others or reflexively skeptical of new information. It is the habit of applying explicit standards of evidence and reasoning to claims and arguments — including, especially, claims and arguments that one is inclined to believe. Cognitive psychology and epistemology have converged on a set of skills and dispositions that reliably improve the quality of reasoning: understanding the logic of evidence, recognizing common fallacies, appreciating the limits of one's own knowledge, and sustaining the intellectual humility that makes genuine learning possible. These skills are teachable, though they require sustained practice to become habitual.
@@ -139,4 +138,4 @@ Critical thinking is not a weapon or a method of social combat. It is a personal
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

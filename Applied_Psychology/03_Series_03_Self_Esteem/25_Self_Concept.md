@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Ana was asked to describe herself in a job application, she wrote: project manager, organized, reliable, good with deadlines. When asked to describe herself in a dating profile, she wrote: introvert, reader, dog person, terrible at small talk. When her therapist asked her to describe herself in a session focused on her mood, she said: anxious, trying, never quite enough. These were not lies; each self-description was accurate in its context. What Ana had not considered — and what the therapist eventually reflected back to her — was that none of these descriptions was complete, none of them was fixed, and all of them together still didn't add up to who she actually was. The question of who she was had, in a sense, never been properly asked.
 
 Self-concept — the totality of beliefs, perceptions, and feelings about oneself — is one of the most fundamental constructs in psychology. It encompasses who we think we are (the content of self-knowledge), how we evaluate what we are (self-esteem), what we want to become (the ideal self and possible selves), and the core narrative of identity (the life story through which we make sense of who we are. Self-concept is not a static snapshot but a dynamic, context-sensitive, developmentally changing structure that profoundly shapes perception, emotion, motivation, and behavior. Understanding your self-concept — not just accepting it as given — is the beginning of having genuine agency over who you become.
@@ -133,4 +132,4 @@ Who you think you are is not a permanent fact but a working hypothesis — the b
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

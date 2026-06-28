@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus — Ana's husband — had spent most of his life being described as "even-keeled." He was not the person who cried at movies or raised his voice at traffic or mentioned feeling hurt by things that didn't seem to warrant it. This reputation pleased him. He had understood it as evidence of good emotional regulation.
 
 What he had not understood, until the conversations he and Ana had been working through in the past year, was that the evenness was not regulation — it was suppression. The emotions were present. He just wasn't feeling them. Or rather, he was feeling them, briefly and intensely, and then automatically redirecting his attention to something else with a speed that had become invisible to him. The emotions left residue — in his body, in his behavior, in the growing sense that something important was missing from his life — but they rarely reached consciousness in a form he could use.
@@ -154,4 +153,4 @@ This is how you get close to someone.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

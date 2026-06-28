@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Elena first used a large language model to draft client proposals, she felt guilty — as though she was doing something she shouldn't be, outsourcing work that clients were paying her to do personally. She was a management consultant with seventeen years of experience and a reputation built on the depth of her analytical thinking. Using an AI system to write the first draft of a proposal felt like fraud.
 
 Three months and thirty proposals later, her view had changed entirely. The AI hadn't replaced her thinking; it had amplified it. The first draft that would have taken her four hours to produce now took forty minutes — not because the AI's output was ready to send, but because starting from a structured first draft and revising it to reflect her specific analysis, her client's specific context, and her firm's specific perspective was dramatically faster than starting from a blank document. The thinking was still hers. The AI had eliminated the part of the process that was least thinking and most production.
@@ -147,4 +146,4 @@ The guilt Elena had felt in those first weeks of AI-assisted proposal writing ha
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

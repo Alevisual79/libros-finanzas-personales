@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The letter from the IRS arrived on a Tuesday. Ruben recognized the envelope — the IRS used a specific format — and put it on his counter unopened for three days. When he finally opened it, it was a CP2000 notice: the IRS had information that didn't match his return and was proposing an additional assessment of $4,800 in taxes plus $1,200 in penalties and interest.
 
 He didn't understand most of the letter. He didn't know if the IRS was right. He didn't know what CP2000 meant. He didn't know whether to respond, call, or hire someone. His first instinct was that this was a problem he'd made worse by not having opened the letter sooner.
@@ -179,4 +178,4 @@ Open the letter.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

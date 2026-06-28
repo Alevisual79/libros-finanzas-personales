@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Juliana had built a consulting practice with a clear ceiling. She knew exactly what it was: the moment any project required her to charge more than a specific rate, involve more than four clients at once, or commit to work more than six months out, she found reasons to decline. The reasons were always legitimate — too much on her plate, not the right fit, the timing wasn't ideal. She was never lying. She was always explaining. But the pattern was precise and consistent.
 
 Her therapist, after a year of sessions, offered an observation: "You seem to be incredibly good at keeping your life comfortable and safe. What would happen if it became uncomfortable?" Juliana had no immediate answer. But the question stayed with her.
@@ -161,4 +160,4 @@ She did not stop being afraid. She learned to recognize fear as information abou
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

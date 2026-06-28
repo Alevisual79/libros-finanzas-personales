@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos ha intentado construir una comunidad online pero los miembros se unen y no participan. Lucia tiene un grupo de Facebook con quinientos miembros que esta prácticamente muerto. Marcos no entiende bien si una comunidad online puede ser un activo de negocio real o es solo un coste de tiempo sin retorno claro. Los tres necesitan entender una distinción fundamental: la comunidad online no es un grupo de personas que se siguen mutuamente. Es un espacio donde las personas con un interés o una identidad común se conectan, aprenden, y se ayudan mutuamente. Y eso, bien construido, es uno de los activos de negocio más valiosos que existe.
 
 ---
@@ -175,4 +174,4 @@ Lucia transformó su grupo de Facebook de quinientos miembros inactivos en una c
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

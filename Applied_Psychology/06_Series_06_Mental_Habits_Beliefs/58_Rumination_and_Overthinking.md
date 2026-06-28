@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The argument with her sister had been three weeks ago, and Paola was still in it. Not in the actual argument — that had ended with an unresolved silence that both of them had quietly retreated from — but in the mental version of it, which was ongoing. She had replayed it hundreds of times: what she had said, what her sister had said, what she should have said, what she wished she had not said, what her sister had probably really meant, what this said about their relationship, whether she was a person who handled conflict well (she clearly was not), whether this would affect her sister's wedding, whether she was too sensitive. She was not, she was aware, enjoying these thoughts. She was not solving anything with them. She was, in some important sense she could not quite articulate, doing something to herself with them that she did not choose and did not know how to stop.
 
 Rumination and overthinking are among the most common, most distressing, and most well-understood of the toxic mental habits described in this series. They are also, despite their prevalence, frequently misunderstood — mistaken for genuine problem-solving, for necessary processing, for the evidence of a thoughtful and careful mind rather than for what research consistently demonstrates them to be: a self-perpetuating cycle of mental activity that amplifies distress, impairs problem-solving, and maintains the very psychological states it purports to be addressing. Understanding what rumination actually is, why it persists, and what genuinely interrupts it is the subject of this book.
@@ -137,4 +136,4 @@ Rumination is the mind's sincere but misguided attempt to work through what it c
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

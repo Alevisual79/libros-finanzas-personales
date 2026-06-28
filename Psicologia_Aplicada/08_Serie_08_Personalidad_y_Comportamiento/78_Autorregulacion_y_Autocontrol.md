@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena sabe exactamente lo que debería comer. Lo que pasa cuando llega al buffet libre es otra cosa. Isabel sabe que debería apagar el ordenador a las seis de la tarde. Las siete llega y todavía está trabajando. Ruben sabe que debería guardar el dinero del extra de este mes. En lugar de eso lo ha gastado en tres cosas que no necesitaba. Los tres tienen el mismo problema: la brecha entre la versión de si mismos que sabe lo que quiere hacer y la versión que en el momento concreto hace algo diferente. Esa brecha es el territorio de la autorregulación, y la ciencia del comportamiento tiene mucho que decir sobre como reducirla sin que eso requiera convertirse en una persona diferente.
 
 ---
@@ -175,4 +174,4 @@ Ruben elimino las apps de compras del móvil y solo accede a ellas desde el orde
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

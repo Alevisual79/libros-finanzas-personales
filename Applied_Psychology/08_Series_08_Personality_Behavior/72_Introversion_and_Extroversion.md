@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Maya tells people she is introverted, they typically respond with some version of surprise: "But you're so warm!" or "You seem so comfortable in social situations!" These responses reflect one of the most persistent misconceptions about introversion — the confusion of introversion with shyness, social anxiety, or social incompetence. Maya is none of these things. She genuinely enjoys people, is comfortable in most social situations, and is capable of extended social engagement when the situation calls for it. What she is is an introvert: someone who finds extended social engagement draining rather than energizing, who processes the world through internal reflection rather than external expression, and who requires regular time alone to restore the energy that social interaction consumes.
 
 The introversion-extroversion dimension is the most researched, most recognized, and most misunderstood dimension of personality. It is the dimension most people have heard of and most people believe they understand; it is also the dimension most consistently distorted in popular discussion, most frequently conflated with constructs it doesn't represent, and most often used as a justification for behaviors that have more to do with social anxiety or entrenched habit than with genuine personality. Getting introversion-extroversion right — understanding what it actually is, what it predicts, how it works neurobiologically, and how to navigate a world that is structured for a different personality type — is the goal of this book.
@@ -135,4 +134,4 @@ Understanding introversion and extroversion — accurately, at the level of the 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

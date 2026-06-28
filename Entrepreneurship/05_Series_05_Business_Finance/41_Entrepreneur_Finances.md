@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Before she started her event planning company, Sandra had never thought much about business finances. She was good at the work of planning events — creative, organized, detail-oriented, excellent with clients — and she assumed that the financial side would be straightforward: earn more than you spend, pay your taxes, keep the books. What she discovered in her first year was that the financial management of a business is qualitatively more complex than personal financial management, and that the skills and habits that had served her well in managing her personal finances were inadequate for managing a business.
 
 The specific surprises: that profit and cash are not the same thing, and that a profitable business can run out of money; that tax obligations for self-employed people are different from and generally more onerous than those for employees; that the separation between personal and business finances is critical and takes discipline to maintain; and that financial reporting, which she had always thought of as a bureaucratic requirement, is actually the most important information system a business has.
@@ -147,4 +146,4 @@ Business finance is not a separate discipline from the work of running a busines
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

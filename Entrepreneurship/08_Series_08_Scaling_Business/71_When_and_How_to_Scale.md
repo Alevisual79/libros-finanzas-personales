@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 By her seventh year of running an executive search firm for healthcare companies, Sophia had built something genuinely excellent: a team of six, a deep network of relationships across hospital systems and medical device companies, a methodology that produced placed candidates who stayed at higher rates than industry averages, and annual revenue of $2.4 million. Every year for the past four years, she had asked herself the same question: should she scale?
 
 The question felt urgent. She was good enough at what she did. She had the reputation, the relationships, and the track record. Her clients regularly asked whether she could handle more positions. The market was large and fragmented, with no dominant player. Every signal seemed to point in the same direction: grow.
@@ -143,4 +142,4 @@ Sophia's question — should she scale? — was not the right question. The righ
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For six years, Paul's cybersecurity training company had grown primarily because Paul was good at two things: giving compelling presentations at industry conferences and maintaining relationships with the CISOs and security directors who had attended those presentations and gone on to buy training programs for their teams.
 
 At $3 million in annual revenue, this was more than enough. Paul's speaking schedule produced enough new client introductions; his relationship management kept existing clients renewing; and the referrals from satisfied clients filled the gaps when conference seasons were slow.
@@ -139,4 +138,4 @@ Paul's conference presentations had been excellent marketing — among the best 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

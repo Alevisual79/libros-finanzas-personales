@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena's first experience with online selling was accidental. She listed a mid-century modern lamp she no longer needed on Facebook Marketplace. It sold in 45 minutes for $85. She'd paid $12 for it at a garage sale the previous summer.
 
 The experience planted a question: could she do this systematically? Not just clearing out her apartment, but actually sourcing items below market and selling them above market?
@@ -262,4 +261,4 @@ Start with what you have: a product category you know, a platform that fits it, 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben ha probado las apps de meditación. Ha durado tres dias en cada intento. El problema, descubrió, no es la falta de constancia sino la falta de comprensión: no entiende realmente que es el mindfulness, por qué funciona, y como practicarlo de forma que produzca los beneficios que la investigación describe. Este libro desmonta el mindfulness de la versión de marketing (una app con musica relajante y voz tranquila) y lo reconstruye desde la investigación: que es, que hace al cerebro, como practicarlo de forma que funcione, y por qué la mayoría de los intentos fracasan.
 
 ---
@@ -175,4 +174,4 @@ Ruben lleva dieciocho meses practicando cinco minutos cada mañana antes de mira
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

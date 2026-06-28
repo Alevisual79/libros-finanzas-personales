@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel has described herself as "not a financial person" for so long that the phrase has stopped feeling like a description and started feeling like a fact. She says it to her accountant, she says it to her friends when the conversation turns to investing, she said it to her daughter last Thanksgiving when the subject of retirement came up. Not a financial person. As if it were a genetic condition, like eye color.
 
 What she means by it, if pressed, is that she finds financial management confusing, somewhat stressful, and not particularly interesting compared to the other things she cares about. This is understandable. But the label she's attached to this feeling — "not a financial person" — is doing something more than describing her preferences. It's governing her behavior.
@@ -175,4 +174,4 @@ The identity catches up with the actions. Not immediately, but reliably. Give it
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

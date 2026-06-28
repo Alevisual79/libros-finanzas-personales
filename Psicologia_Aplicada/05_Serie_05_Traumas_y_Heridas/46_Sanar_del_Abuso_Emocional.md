@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tardo años en llamarlo abuso. No había golpes, no había gritos todos los dias. Pero había comentarios que la dejaban dudando de su propia percepción, silencio prolongado como castigo, la sensación constante de caminar sobre cascaras de huevo sin saber exactamente por qué, y la certeza creciente de que algo estaba mal en ella. Eso, que tardo tanto en nombrar, es abuso emocional: el patron sistemático de comportamientos que erosionan la autoimagen, la confianza en la propia percepción, y el sentido de valor de una persona. Este libro es para las personas que han vivido o viven algo así, y que quieren entender lo que les ocurrio y encontrar el camino de regreso a si mismas.
 
 ---
@@ -175,4 +174,4 @@ Isabel no lo llamó abuso durante años. Lo llamó conflicto, incompatibilidad, 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

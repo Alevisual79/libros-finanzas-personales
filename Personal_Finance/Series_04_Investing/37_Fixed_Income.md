@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel, at 52, had an all-equity investment portfolio until her financial advisor introduced the concept of bond allocation. "You're getting closer to the years when you'll actually need this money," the advisor said. "Stocks can drop 40% right when you need to withdraw. Bonds provide a buffer."
 
 Isabel pushed back: "But bonds earn less. I'm behind on savings. I need the growth."
@@ -208,4 +207,4 @@ Understand what bonds do. Use them for what they do.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

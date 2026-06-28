@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos tiene dificultades para cobrar lo que su trabajo vale. Cada vez que tiene que poner precio a sus servicios, siente que podría perder el cliente si pide demasiado. Lucia sabe que su empresa es rentable pero tiene una relación de ansiedad con el dinero que no consigue entender del todo: revisa las cuentas bancarias tres veces al dia y no puede dormir bien cuando hay facturas pendientes de cobró. Marcos viene de un salario alto y ahora tiene que manejar el flujo de caja irregular del emprendimiento, con meses de ingresos altos y meses de ingresos bajos que le producen un nivel de estrés que no sabe muy bien como gestionar. Los tres necesitan lo mismo: una relación más sana y más inteligente con el dinero.
 
 ---
@@ -173,4 +172,4 @@ Carlos subio sus precios un 30%. Perdio dos clientes. Gano tres nuevos con el pr
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene cincuenta y dos años, ha leido los libros correctos, sabe la teoria, y aun así a veces se pregunta si el bienestar emocional es algo que genuinamente tiene o solo una idea que conoce bien. Esta pregunta honesta es mejor punto de partida que la certeza de quien cree haberlo conseguido. El bienestar emocional no es un estado que se alcanza y se mantiene automáticamente. Es una práctica que requiere atención continua, ajuste regular, y la voluntad de seguir trabajando en ello incluso cuando el trabajo parece haberse hecho. Este último libro de la serie propone una visión del bienestar emocional como práctica de por vida.
 
 ---
@@ -175,4 +174,4 @@ Isabel hizo la evaluación honesta. No salió bien en todas las dimensiones. Hab
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

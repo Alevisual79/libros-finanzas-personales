@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had achieved everything he was told would make him feel good about himself. A prestigious job title, a house in the right neighborhood, a partner who admired him, and enough social media followers to validate his existence on a daily basis. And yet, at 37, he sat in a therapist's office describing a persistent, gnawing sense that none of it was quite real — that he was performing a life rather than living one. His confidence in meetings was impeccable. His confidence in himself was close to zero. The therapist he was seeing had heard this story dozens of times. External achievement and internal self-worth, she explained, are connected far less directly than our culture suggests.
 
 Self-esteem is one of psychology's most studied and most misunderstood constructs. Since the late nineteenth century, when William James first proposed that self-esteem was the ratio of our successes to our pretensions — that is, what we actually achieve relative to what we aspire to — researchers have been trying to understand why some people carry a stable, grounded sense of their own worth while others remain chronically uncertain, regardless of what they accomplish. The intuition that self-esteem matters, that it affects how we function in relationships, work, and health, has been confirmed repeatedly in research. What has been harder to pin down is exactly what self-esteem is, where it comes from, and how to cultivate the genuine version of it rather than its fragile, contingent counterfeits.
@@ -163,4 +162,4 @@ That shift — from seeking self-esteem to practicing the conditions in which ge
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

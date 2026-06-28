@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Three competing software companies had nearly identical products: project management tools designed for small creative agencies. One was growing at forty percent annually. The other two were growing at eight and twelve percent respectively, with higher customer acquisition costs and worse retention rates. A researcher comparing the three companies' marketing materials, sales conversations, and customer communication would have found one systematic difference: the growing company was consistently able to answer, in a single sentence that every customer immediately understood and found compelling, why a creative agency would choose their software over any alternative. The other two companies could not — their materials were full of features, capabilities, and technical specifications, but they failed to communicate, in language their customers used to describe their own problems, what the software would do for the person using it.
 
 A value proposition is not a tagline. It is not a mission statement. It is not a features list. It is a specific, clear answer to the question that every potential customer is asking, usually without saying it out loud: "Why should I choose you rather than any of the alternatives available to me?" This book is about constructing that answer.
@@ -137,4 +136,4 @@ A value proposition is, at its core, a commitment: a public declaration that for
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

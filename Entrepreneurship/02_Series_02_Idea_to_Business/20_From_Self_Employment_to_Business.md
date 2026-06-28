@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Fatima had been a self-employed web designer for seven years. She was excellent at her work. She had a full client roster. She earned more than she had as an employee. She took vacation when she wanted and chose her clients carefully. By most measures, she had succeeded. And yet, when she was honest with herself, she was not sure she had built a business. She had built a job — a job she controlled, a job she loved, but a job nonetheless. When she stopped working, the income stopped. When she was sick, the work didn't get done. When a large client unexpectedly ended their relationship, her revenue dropped by thirty percent. The business was entirely dependent on her presence, her relationships, and her personal capacity to deliver — which meant it was entirely fragile.
 
 The distinction between self-employment and a business is one of the most important distinctions in entrepreneurship, and it is consistently underexamined in entrepreneurial culture, which tends to celebrate the act of becoming self-employed as the endpoint rather than as a stage in the development of something that can eventually function and generate value independently of the founder. This final book in the "From Idea to Business" series addresses the transition from self-employment to business: what it requires, why it is difficult, and how to accomplish it deliberately.
@@ -139,4 +138,4 @@ This concludes Series 2 of the Entrepreneurship Collection.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

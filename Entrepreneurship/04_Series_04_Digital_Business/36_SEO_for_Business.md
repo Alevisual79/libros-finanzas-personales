@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Helen launched her bookkeeping services firm for creative businesses — photographers, designers, illustrators, and other independent creatives who were notoriously bad at managing their own finances — she had no marketing budget, no professional network in the creative industry, and no prior clients. What she had was a website, a very specific niche, and a willingness to invest in the unglamorous work of search engine optimization. She spent her first year writing detailed answers to the specific accounting and tax questions that creative freelancers were searching for: questions about quarterly estimated taxes, deductible business expenses for photographers, the right time to form an LLC, and how to handle sales tax on digital products.
 
 Eighteen months after launch, her website was generating 8,000 visitors per month through organic search, almost entirely from the specific query terms her target clients were using to find answers to their specific financial questions. She was converting 2.4 percent of those visitors to inquiry form submissions. She had a six-week wait for new client onboarding. She had never spent a dollar on advertising.
@@ -139,4 +138,4 @@ Helen's bookkeeping firm grew from zero to full capacity in eighteen months with
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

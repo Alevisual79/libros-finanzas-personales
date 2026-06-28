@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus became aware of team culture the way most managers do: when he joined a new team and immediately noticed that something was different from the team he had left. Not the work, not the compensation, not the organizational resources — those were roughly equivalent. The way people talked to each other. The kinds of problems they surfaced in meetings. The speed with which they made decisions. The quality of the conversations when something went wrong. The invisible dynamics that determined whether the team was a place where excellent work was natural or a place where mediocrity was the path of least resistance.
 
 What he was experiencing was team culture: the shared assumptions, values, norms, and behaviors that determine what is expected, what is acceptable, and what is rewarded in a specific team context. Culture is the sum of the team's implicit and explicit agreements about how things are done here — agreements that most team members absorb without being explicitly taught and follow without consciously choosing.
@@ -149,4 +148,4 @@ The leader who understands this — who sees every meeting, every conversation, 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Tom had, for most of his adult life, prided himself on not needing anyone to deal with anything. This was not a performance; he genuinely believed it to be true. He managed. He adapted. When things were difficult, he found the next best option, adjusted his expectations, and continued. He had needed a plumber once, and a doctor when he broke his wrist. Beyond that, the resources he required were internal.
 
 The cost of this arrangement had been largely invisible to him until he sat across from his therapist in a session when everything had gone wrong at once — the job uncertainty, the health scare, the relationship he was unsure of — and she asked him, quietly, who he had talked to about any of this.
@@ -153,4 +152,4 @@ Let the people who care about you be useful to you.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

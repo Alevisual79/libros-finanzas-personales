@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ana had always been better at caring for other people than for herself. This is not an unusual story. Among the women she knew — the colleagues, the friends, the women in her family — it was so common as to seem like a feature of the species rather than a learned pattern. She could identify her husband's needs before he articulated them. She knew which of her friends was struggling before they called. She was, by any measure, an expert in attending to the people she loved.
 
 What she was considerably less skilled at was the equivalent attention directed inward. Not the surface maintenance — she exercised, she slept adequately — but the genuine, respectful engagement with her own interior life that she extended to everyone else in her life. The question "what do I actually need right now?" took her longer to answer than almost any question she was asked. Sometimes she couldn't answer it at all.
@@ -151,4 +150,4 @@ It is worth tending.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

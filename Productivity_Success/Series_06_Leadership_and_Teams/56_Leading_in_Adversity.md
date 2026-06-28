@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The professional crisis arrived for Sophie in her fourth year as a team leader, in the form she had not anticipated: not a business failure, not a personnel conflict, not a budget cut, but a global pandemic that transformed the team's physical working reality overnight and placed the immediate care and psychological stability of her team members alongside the ongoing demands of organizational performance.
 
 She had prepared for leadership through the study and practice of skills this series has described: communication, delegation, motivation, culture-building. None of it had specifically prepared her for leading people through fear, uncertainty, and personal hardship — which is what leadership in adversity specifically requires.
@@ -155,4 +154,4 @@ The investment in leadership development in ordinary times is the investment in 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

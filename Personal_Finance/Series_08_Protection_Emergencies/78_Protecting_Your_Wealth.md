@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel spent 25 years building her financial position. She started with $18,000 in savings and a salary that barely covered her expenses. Through consistent saving, disciplined investing, and avoiding major financial mistakes, she reached her early 50s with a net worth approaching $400,000 — her retirement account, her home equity, and her smaller taxable investment account.
 
 Then her financial advisor asked a question she hadn't considered: "What protects all of this?"
@@ -208,4 +207,4 @@ Build the wealth. Protect it with equal deliberateness.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 La mayoría de las personas evita el conflicto. O lo tiene de forma destructiva. Muy pocas saben tenerlo de forma productiva.
 
 El conflicto productivo no es un oximoron. Es la forma en que dos personas con perspectivas distintas se comunican de tal manera que la diferencia entre ellas produce algo mejor de lo que ninguna de las dos tenía sola. Es la conversación difícil que termina con más claridad, más confianza y a veces más cercania que la que había antes.
@@ -181,4 +180,4 @@ Ruben y su novia decidieron hablar sobre como querían discutir, por primera vez
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

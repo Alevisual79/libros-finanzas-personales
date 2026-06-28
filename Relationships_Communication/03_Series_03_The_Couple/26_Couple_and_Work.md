@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 James had a rule: he did not take calls after eight in the evening. He considered this a firm boundary between his professional and personal life. What he had not noticed, until Claire pointed it out in a conversation he had been dreading for weeks, was that the rule governed calls — not his laptop, not the emails he checked during dinner, not the mental space that his work occupied even when he was nominally present in the household.
 
 The rule was technically correct. The boundary it was meant to establish had never actually been established.
@@ -145,4 +144,4 @@ Decide deliberately.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

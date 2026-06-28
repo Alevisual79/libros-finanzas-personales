@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Fertility is often something people assume will work until the moment they try to conceive — and then discover may not. Approximately 1 in 8 couples in the United States experience infertility (defined as inability to conceive after 12 months of regular unprotected intercourse, or 6 months for women over 35). The emotional weight of fertility struggles is substantial; the medical options have never been better.
 
 This book covers what is known about human fertility, how it changes with age, what can affect it, and what the options are for people who face fertility challenges.
@@ -260,4 +259,4 @@ Fertility is neither guaranteed nor fully within individual control — but it i
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

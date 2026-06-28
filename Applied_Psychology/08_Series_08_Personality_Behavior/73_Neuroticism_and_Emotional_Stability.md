@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For most of his adult life, Marco had believed that other people experienced the world as he did — that everyone felt the same intensity of response to the same stimuli, and that the people who seemed calmer were simply better at not showing it. The revelation that this was not the case — that his nervous system was, in measurable psychological terms, more reactive than that of approximately seventy percent of other people — came as both a relief and a complication. It was a relief because it provided a framework for the experience he had been trying, with limited success, to explain to himself and others: the tendency to worry more intensely about the same concerns, to recover more slowly from the same upsets, to be more affected by the same stressors. It was a complication because it required him to revise a self-understanding built around the belief that the intensity of his responses accurately reflected the intensity of what he was responding to.
 
 Neuroticism — the Big Five trait measuring the degree of emotional reactivity, emotional instability, and tendency toward negative emotional states — is simultaneously the most clinically important personality trait and the most stigmatized. It is the trait most strongly associated with mental health conditions (depression, anxiety, PTSD, somatic symptoms, relationship difficulties) and the trait most commonly pathologized as a personal failing rather than understood as a dimension of normal personality variation with genuine adaptive functions. This book provides an honest, research-grounded account of what neuroticism is, how it works, what it costs and what it provides, and how to live well with a more reactive nervous system.
@@ -137,4 +136,4 @@ Neuroticism is not a diagnosis and not a deficit. It is a personality dimension 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

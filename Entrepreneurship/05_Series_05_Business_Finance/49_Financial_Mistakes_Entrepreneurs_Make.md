@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 James had built what looked, from the outside, like a successful landscape design business: a recognizable brand, a strong referral network, a portfolio of impressive residential and commercial projects. When his accountant sat down with him to review his finances at the end of his fifth year in business, the picture that emerged was more complicated. Despite $1.1 million in revenue, the business had generated less than $40,000 in net profit. James was working sixty hours a week and paying himself a salary that was fifteen percent below what he had earned as an employee before starting the business. He had no retirement savings, no cash reserve worth speaking of, and no clear understanding of how the business had generated so much revenue with so little to show for it.
 
 The accountant's diagnosis: James had made most of the financial mistakes that most entrepreneurs make, and he had made them consistently for five years. The mistakes were not dramatic — no fraud, no catastrophic loss, no single ruinous decision. They were the ordinary, unremarkable financial errors that accumulate invisibly until the gap between what a business generates and what its owner keeps becomes impossible to ignore.
@@ -135,4 +134,4 @@ James's business at the end of its seventh year looks financially different from
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

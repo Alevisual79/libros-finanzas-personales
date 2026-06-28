@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene una amiga de hace veinte años. Cada vez que terminan de hablar, Isabel se siente peor que al principio de la conversación. No sabe como llamar a eso. La amistad parece sólida desde fuera: se conocen desde hace mucho, comparten historia, se llaman amigas. Pero el efecto consistente de esa relación sobre el estado de ánimo de Isabel es negativo, y eso, más que la antiguedad o la etiqueta, es lo que define si una amistad es saludable.
 
 ---
@@ -155,4 +154,4 @@ No toda persona que llevas conociendo mucho tiempo es un buen amigo. La antigued
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

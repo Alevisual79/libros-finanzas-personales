@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The idea that suffering can produce growth — that hardship, loss, and trauma are not only costs to be survived but experiences that sometimes produce genuine positive change — is among the oldest and most widely held intuitions in human culture. Every wisdom tradition has its version: Nietzsche's "that which does not kill me makes me stronger," the Stoic advocacy of voluntary hardship, the Buddhist teaching on suffering as the path to enlightenment, the Christian theology of redemptive suffering. That such different traditions converged on the same basic claim suggests they were responding to something genuinely observable in human experience.
 
 Research psychology has engaged this question empirically, and its findings are more precise and more qualified than the popular formulations suggest. Adversity does sometimes produce growth. It also sometimes produces lasting damage. The difference between these outcomes is substantially predicted by specific psychological and social factors that the research has identified. Understanding which factors determine whether adversity produces growth or harm — and what can be done to influence those factors — is one of the most practically important contributions of the scientific psychology of resilience.
@@ -135,4 +134,4 @@ Adversity is not optional. What is at least partly optional is the orientation w
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

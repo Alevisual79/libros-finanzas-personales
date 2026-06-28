@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sarah had 847 followers on Instagram, 312 Facebook friends, a WhatsApp group for her book club, a group chat for her family, and a professional Twitter account that she updated irregularly. She texted at a rate that would have seemed inconceivable to her twenty-years-younger self. She was, by every objective measure, more connected than she had ever been.
 
 She was also, in some specific and difficult-to-articulate way, more lonely.
@@ -155,4 +154,4 @@ Choose when to use the screen, and when to put it down and be actually there.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

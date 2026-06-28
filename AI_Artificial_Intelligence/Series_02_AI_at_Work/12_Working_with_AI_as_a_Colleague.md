@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben's team had five people. In early 2025 they added a sixth member: a set of AI tools he started calling 'the assistant'. It never arrived late, never had a bad day, and produced first drafts in seconds. Learning to direct it well was the real work.
 
 ---
@@ -95,4 +94,4 @@ Directing AI well requires the same skills as directing any talented colleague: 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

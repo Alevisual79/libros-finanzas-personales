@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For 40 years, the dominant nutrition message was clear: fat is the enemy. Low-fat diets became the standard recommendation, and food manufacturers replaced fat with sugar and refined carbohydrates in their "healthy" products. The results: obesity rates increased, Type 2 diabetes rates increased, and cardiovascular disease remained the leading cause of death.
 
 The low-fat era was built on a foundation that was scientifically compromised from the start. Understanding how we got here — and what the evidence actually shows — is essential for making sense of dietary fat today.
@@ -193,4 +192,4 @@ The best dietary fat framework is not low-fat. It is the right fats, from the ri
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

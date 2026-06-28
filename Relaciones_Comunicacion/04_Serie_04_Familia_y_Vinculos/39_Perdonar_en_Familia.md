@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena tiene rabia contra su madre y no lo sabe. Cree que lo que siente es indiferencia, una distancia emocional que atribuye simplemente a que no tienen mucho en común. La rabia disfrazada de indiferencia es, de todas las formas de rabia no procesada, la más difícil de identificar y de curar, precisamente porque se siente como ausencia de sentimiento en lugar de como sentimiento intenso.
 
 El perdon en el contexto familiar es uno de los procesos psicológicos más complejos que existen, porque combina la intensidad del vinculó familiar con la frecuencia de las heridas que, precisamente por la cercania y la duración de esas relaciones, tienden a acumularse a lo largo de toda una vida.
@@ -157,4 +156,4 @@ Perdonar no significa olvidar. Significa soltar el peso de lo que te hicieron pa
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

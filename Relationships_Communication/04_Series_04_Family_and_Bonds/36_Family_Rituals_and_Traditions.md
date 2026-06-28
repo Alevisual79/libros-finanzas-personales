@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Every Christmas Eve of Rosa's childhood, her grandmother had made the same soup. The recipe was not exceptional — it was a straightforward vegetable broth with noodles and the particular herb combination that her grandmother had learned from her own mother — but the ritual of it, the specific smell of the kitchen in the late afternoon of December twenty-fourth, the particular bowl, the gathering of the family around the table before the soup was served: this had been the organizing center of her childhood December.
 
 Her grandmother had been dead for twenty years. Rosa still made the soup.
@@ -149,4 +148,4 @@ They need to be kept.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

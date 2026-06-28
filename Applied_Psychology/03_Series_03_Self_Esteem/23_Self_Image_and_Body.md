@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When a photograph was taken at her 40th birthday, Laura was surrounded by people she loved, in a moment she remembered as happy. When she looked at the photograph the next day, she could not identify the moment in the image — the person she saw did not match the person she remembered being. The experience was unsettling in a way she had difficulty articulating: the photograph was accurate, she supposed, in some literal sense, but what she saw in it seemed like a different person than the one she had been that evening. She had spent twenty years on some version of a diet, twenty years of looking at her body with critical attention, twenty years of believing that what she saw in the mirror was more definitively "her" than anything she actually did in the world.
 
 Body image — the way we perceive, feel about, and relate to our own body — is one of the most significant components of self-esteem and one of the most extensively studied in psychological research. Negative body image affects the majority of women and a substantial proportion of men in Western cultures, and it is associated with depression, anxiety, eating disorders, reduced sexual satisfaction, social avoidance, and lower quality of life. Understanding the psychological mechanisms of body image — how it forms, what maintains it, and how it can change — is essential both for individuals who struggle with it and for those who work with them.
@@ -137,4 +136,4 @@ Every body is the only body available for the life being lived. This is neither 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

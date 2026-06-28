@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ninguna pareja se prepara para la traición. No es algo para lo que exista un manual emocional previo. Cuando ocurre, sea una infidelidad física, emocional o cualquier otra forma de ruptura fundamental de la confianza, el mundo de quien la descubre se reorganiza por completo: el pasado se reinterpreta, el presente se vuelve insoportable, y el futuro se vuelve incierto.
 
 Esther Perel, que ha trabajado con cientos de parejas tras una infidelidad, observa que la traición no destruye automáticamente una relación. Lo que la destruye, en muchos casos, es la forma en que se gestiona después de descubierta: con honestidad o con más engaño, con responsabilidad genuina o con minimización, con paciencia mutua o con presión para resolver demasiado rápido.
@@ -165,4 +164,4 @@ El dolor de la traición es real y profundo. Pero no tiene por qué ser el final
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

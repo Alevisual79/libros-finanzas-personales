@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 After four years of building her executive coaching practice, Isabel had generated enough surplus cash to invest in growing the business. She had $80,000 in her business account beyond her operating reserve, and a list of potential investments: a professional website redesign ($12,000), a new coaching certification ($4,500), a speaking coach to develop her conference keynote presence ($8,000), a podcast production setup ($6,000), a marketing consultant retainer ($3,000/month), and hiring an operations assistant ($48,000/year). She had identified more investment opportunities than she had capital for all of them and needed a framework for deciding which to pursue.
 
 The framework she developed — through conversations with her accountant, her business mentor, and a rigorous self-analysis of where her business's constraints actually lay — was not a complex financial model. It was a simple question applied to each potential investment: will this investment remove a specific constraint on the business's growth, and can I estimate the return well enough to determine whether the investment is a good use of capital?
@@ -143,4 +142,4 @@ Business investment is not complicated in theory — deploy capital where it gen
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 In the months before the January 28, 1986 Challenger launch, engineers at Morton Thiokol and at NASA had raised concerns about the O-ring seals that would fail catastrophically at the temperature of that January morning. The concerns were technically specific, documented, and serious. They were also, in the decision meeting the night before the launch, overridden. The engineers who raised them were told that their concerns were not adequately supported by data; the presentation of their safety objections was flawed; and the decision proceeded. Seven astronauts died.
 
 The Presidential Commission that investigated the Challenger disaster documented a decision-making process that exhibited virtually every symptom of groupthink: the illusion of invulnerability that a long string of successful launches had produced; the rationalization that the O-ring concerns did not constitute sufficient evidence for delay; the pressure on dissenters to prove safety, rather than requiring management to prove safety; and the organizational culture that made speaking up against launch decisions professionally and socially costly. The decision was not made by bad people. It was made by a group of people operating in a decision-making environment that systematically suppressed the accurate information that was available.
@@ -141,4 +140,4 @@ Groupthink has produced some of the most costly decision failures in human histo
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

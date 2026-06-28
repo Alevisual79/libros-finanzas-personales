@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben es diferente en público de como es en privado. En privado es curioso, tiene opiniones claras, hace bromas inteligentes, comparte sus dudas con facilidad. En público se vuelve cauteloso, midiendo cada palabra, preocupado por si lo que dice encaja, por si tiene algo valioso que aportar. Esta diferencia entre el Ruben privado y el Ruben público no es simplemente timidez. Es el resultado de haber aprendido que mostrarse tal como uno es tiene un riesgo que en privado no existe: el riesgo del juicio, del rechazó, de la evaluación de los demás sobre si lo que eres es suficientemente bueno.
 
 ---
@@ -175,4 +174,4 @@ Ruben en su próxima reunión de equipo dijo algo que le parecia genuinamente im
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

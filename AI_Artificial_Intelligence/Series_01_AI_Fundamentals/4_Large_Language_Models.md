@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Jordan had been using ChatGPT daily for six months before a colleague asked him a simple question: "How does it actually know what to say?" Jordan paused. He could describe what ChatGPT did — answer questions, write code, summarize documents — but he realized he had no idea how it worked at the level that mattered. He was operating a powerful tool he fundamentally did not understand.
 
 That gap matters. When you understand how a large language model generates text, you understand why it fails when it fails, why certain prompt strategies work, and where its limits are structural rather than temporary. You stop being surprised by hallucinations and start predicting them. You stop wondering why it refuses certain requests and start understanding the design choices involved.
@@ -183,4 +182,4 @@ The LLM landscape will look different in twelve months. The concepts in this boo
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

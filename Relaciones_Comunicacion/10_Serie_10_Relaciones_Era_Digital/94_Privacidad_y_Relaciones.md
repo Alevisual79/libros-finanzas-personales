@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben comparte abundantemente su vida sentimental en Instagram: fotos de cada cita significativa, publicaciones sobre sus sentimientos, actualizaciones frecuentes sobre el estado de su relación. Su pareja actual, en cambio, prefiere genuinamente no aparecer en fotos públicas ni que su relación se discuta abiertamente en redes sociales. Ese conflicto de preferencias, que comenzo cómo una diferencia menor, ha llegado progresivamente hasta convertirse en una tensión real dentro de su sala de estar.
 
 ---
@@ -155,4 +154,4 @@ Lo que públicas sobre tus relaciones no es solo una decisión estetica. Es una 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

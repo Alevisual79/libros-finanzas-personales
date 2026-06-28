@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Lucia es extraordinaria en la entrega del servicio y profundamente incomoda en el proceso de venta. Carlos ha perdido tres clientes potenciales que estaban interesados porque no supo como cerrar la conversación. Marcos viene del mundo corporativo donde las ventas las hacían otros y nunca ha tenido que vender nada directamente. Los tres comparten la misma creencia erronea: que vender requiere ser un tipo especial de persona, extrovertida, insistente, y dispuesta a presionar. Esa creencia es falsa. Y es responsable de más negocios fracasados que cualquier problema de producto.
 
 ---
@@ -175,4 +174,4 @@ Lucia cerro su mejor mes de ventas hasta la fecha sin hacer nada diferente en el
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

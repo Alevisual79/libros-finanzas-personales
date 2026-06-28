@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The phrase "work-life balance" has become one of the most widely used and least precisely defined concepts in the contemporary professional vocabulary. It implies a scale on which work sits on one side and life sits on the other — a hydraulic model in which more work produces less life, and the equilibrium point is some specific allocation of time and energy between the two spheres. This model is intuitive, widely shared, and — on examination — significantly misleading.
 
 James had spent years trying to achieve the work-life balance that the phrase promised, and had consistently found that the pursuit produced more anxiety than the thing it was meant to address. The problem was that the balance metaphor required him to think of work and life as separate and competing domains — when his actual experience was that his work was part of his life, that his best work made him more alive rather than less, and that the question he was actually trying to answer was not "how do I balance work against life?" but "how do I build a life that includes work and also includes everything else I value, in a way that doesn't require any of them to be systematically sacrificed?"
@@ -155,4 +154,4 @@ Design the whole, not just the parts.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

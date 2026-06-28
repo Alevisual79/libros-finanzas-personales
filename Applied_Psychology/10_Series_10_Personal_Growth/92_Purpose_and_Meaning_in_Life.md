@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Viktor Frankl arrived at Auschwitz in 1942 with a manuscript — his clinical and theoretical synthesis of the role of meaning in human psychological life — that was confiscated and destroyed on his first day. He spent three years in four concentration camps, losing his father, mother, brother, and wife. What he observed in those years, both in himself and in the prisoners around him, would become "Man's Search for Meaning": the observation that the capacity to find or maintain a sense of meaning in one's situation was one of the most powerful predictors of survival, not because meaning had magical protective effects on the body, but because it sustained the psychological orientation that enabled people to make choices about how they responded to circumstances they could not control.
 
 Frankl's logotherapy — the therapeutic approach based on the centrality of meaning — was developed before the scientific study of meaning in life had the empirical tools to test its claims. In the decades since, the psychology of meaning has become a serious scientific enterprise, and its findings largely confirm what Frankl observed: meaning is not a philosophical luxury but a fundamental psychological need whose satisfaction is associated with better health, better functioning, and greater wellbeing, and whose absence is associated with specific forms of psychological distress.
@@ -135,4 +134,4 @@ Living for something — having a sense that one's life matters, that one's choi
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 In Maya's fifteenth year of professional practice, a colleague who had begun her career at the same time, with comparable initial credentials and comparable early performance, had plateaued. The colleague's specific technical skills — the ones that had been most valued when they both entered the field — were still intact and still competent; but the field had moved, the market had shifted, and the skills that had once differentiated her were now standard prerequisites rather than competitive advantages.
 
 Maya had not remained in the same technical area. She had deliberately invested, across fifteen years, in a sequence of capability developments that had kept her at the frontier of the most valued skills in her professional context. The investments had not been random; they had been the product of the deliberate skills portfolio thinking that she had adopted in year four, when she had first noticed that the most professionally resilient people she knew were not the ones with the deepest expertise in a single area but the ones with the most strategically designed combination of capabilities.
@@ -157,4 +156,4 @@ Invest deliberately. Diversify strategically. Review regularly. The portfolio th
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

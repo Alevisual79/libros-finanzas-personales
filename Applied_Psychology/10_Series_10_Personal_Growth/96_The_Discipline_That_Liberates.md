@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Freedom is commonly understood as the absence of constraint — the maximization of options, the removal of limits, the capacity to do whatever one chooses. Research in psychology and behavioral economics has substantially complicated this picture, documenting that the proliferation of options produces not greater satisfaction but greater paralysis and greater regret; that the absence of structure produces not greater creativity but greater anxiety; and that the individuals who report the greatest subjective freedom in their lives are often those whose daily behaviors are most constrained by deliberate self-imposed discipline.
 
 This paradox — that certain forms of constraint produce greater freedom than their absence — is not a philosophical argument but an empirically documented psychological phenomenon. Understanding it requires distinguishing between different types of constraint (imposed versus chosen; external versus internal; limiting versus liberating) and different dimensions of freedom (freedom from, freedom to, and freedom as the capacity to act in accordance with one's genuine values). The research on discipline and freedom, self-control and autonomy, structure and creativity together illuminate why the simplistic equation of freedom with constraint-absence systematically fails both as an account of what freedom is and as a guide to achieving it.
@@ -133,4 +132,4 @@ Freedom through discipline is not a paradox after all — it is the recognition 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

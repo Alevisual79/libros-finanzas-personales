@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Rosa's son had graduated from university at twenty-two and moved to another city. Her daughter had married at twenty-eight and was now raising her own children. Rosa was fifty-six and was, in what felt like the space of a few years, no longer primarily a mother of children she was responsible for but a mother of adults who were responsible for themselves.
 
 The transition had not been seamless. Not because the children had done anything wrong — they were exactly who she had hoped they would become — but because the role she had built her adult identity around, the daily work and primary purpose of active mothering, had changed in a way that required a corresponding change in herself that she had not fully prepared for.
@@ -145,4 +144,4 @@ The distance between those two points is the work of a lifetime — for both of 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

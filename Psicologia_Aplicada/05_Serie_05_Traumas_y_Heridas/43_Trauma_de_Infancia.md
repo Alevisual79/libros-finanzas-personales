@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tuvo una infancia que desde fuera parecia normal. Sus padres estaban presentes, no había violencia, había suficiente dinero para cubrir las necesidades. Pero hay cosas que no recuerda con exactitud y hay patrones que no entiende bien: la dificultad para confiar, la tendencia a anticipar el abandono en las relaciones, el nivel de hipervigilancia de fondo que parece excesivo para alguien que vive una vida objetivamente tranquila. El trauma de infancia no requiere que haya habido violencia o catastrofe. Requiere que haya habido experiencias que el sistema nervioso en desarrollo no pudo procesar completamente, y que esas experiencias hayan dejado patrones que siguen operando en el adulto.
 
 ---
@@ -175,4 +174,4 @@ Ruben llegó a entender que su hiperindependencia, su dificultad para confiar, y
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

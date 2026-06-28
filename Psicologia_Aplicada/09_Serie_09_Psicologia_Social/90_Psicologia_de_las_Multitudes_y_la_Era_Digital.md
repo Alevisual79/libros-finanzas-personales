@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben ha visto cómo un comentario suyo en redes sociales recibio respuestas que le sorprendieron por su intensidad y por el comportamiento de personas que en persona probablemente no se habrían expresado así. Elena ha observado como causas que parecian marginales pueden volverse virales en dias y transformar comportamientos a escala masiva. Isabel ha gestionado situaciones en su empresa donde rumores que circulaban en grupos de mensajeria interna habían transformado el estado de ánimo de equipos enteros antes de que nadie de la dirección supiera lo que estaba pasando. Las multitudes digitales son reales aunque no se reúnan físicamente. Y su psicología combina los mecanismos clásicos de la psicología de masas con fenómenos nuevos que solo internet hace posibles. Este libro es sobre esa psicología.
 
 ---
@@ -176,4 +175,4 @@ Ruben desinstalo Twitter durante dos semanas como experimento. No para siempre, 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

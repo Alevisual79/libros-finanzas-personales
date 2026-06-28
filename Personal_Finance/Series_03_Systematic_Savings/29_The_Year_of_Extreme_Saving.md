@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 At 31, Ruben made a decision that his friends thought was extreme: he declared a Year of Extreme Saving. Not bankruptcy, not a financial crisis — a voluntary, pre-planned period of dramatically reduced spending combined with maximized income, designed to accomplish in one year what his slow-and-steady approach would have taken five to six years to achieve.
 
 His targets for the year: eliminate all consumer debt ($9,400), fully fund his emergency fund ($14,000), and begin retirement contributions. Starting point: $9,400 in debt, $2,100 in savings, no retirement account.
@@ -198,4 +197,4 @@ For those for whom it's right, it compresses years of financial progress into tw
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

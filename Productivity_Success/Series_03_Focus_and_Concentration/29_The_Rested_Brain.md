@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Camila prided herself on requiring less sleep than most. She had concluded, sometime in her late twenties, that her natural sleep requirement was approximately six hours — that she functioned adequately on six and could function on five in a pinch. She was frequently in a pinch. She kept a notebook about her work and was proud of how early she was up and writing. She consumed coffee in volumes that were clearly compensatory, and she had a characteristic afternoon slump between two and four that she attributed to the coffee wearing off.
 
 The research, when she finally read it, was not what she expected. There is no evidence, the sleep scientists report, that a person requires less than seven to nine hours of sleep per night for optimal cognitive performance. There are genuine short sleepers — people with a genetic variant (DEC2) who function on six hours — but they represent approximately 1% of the population. The other 99% who believe they are functioning adequately on less than seven hours are, in the research's formulation, "cognitively impaired and unaware of it."
@@ -163,4 +162,4 @@ The rested brain is not a luxury. It is the professional's primary tool, maintai
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

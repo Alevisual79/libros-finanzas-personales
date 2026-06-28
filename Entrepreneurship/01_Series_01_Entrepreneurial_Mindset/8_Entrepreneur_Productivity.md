@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Rachel had been working twelve-hour days for eighteen months and was producing a fraction of the output she expected from those hours. Her calendar was full of meetings. Her inbox was a perpetual backlog. Her to-do list grew faster than she completed it. She had the startup founder's classic problem: extreme busyness combined with the persistent suspicion that the busyness was not translating into the progress the business actually needed.
 
 The problem was not that Rachel was lazy or undisciplined. She was neither. The problem was that she was confusing the feeling of busy with the experience of productive, and optimizing for the former at the expense of the latter. Entrepreneurial productivity — the consistent alignment of time and cognitive energy with the work that most advances the business — requires something different from the productivity that works in institutional settings. It requires understanding the specific ways that entrepreneurs' time gets consumed by low-value activity, the cognitive conditions under which the most important entrepreneurial work occurs, and the systems that protect those conditions against the continuous pressure to fragment attention and spend time reactively.
@@ -135,4 +134,4 @@ Entrepreneurial productivity is not about doing more things. It is about doing m
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

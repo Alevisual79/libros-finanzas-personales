@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Maya's brother died in an accident that she was also in. She was not seriously injured; he was killed instantly. She had been the one who called their parents. She had been the one who identified him. She had been, in the terrible clarity of trauma, functional at the moment when he was gone, and she had remained functional — she thought she had remained functional — for the months that followed. She had gone to the funeral, she had spoken at the service, she had done all the things that the grieving sibling does. What she had not been able to do, for almost a year, was cry. Not because she was numb to the loss — the loss was present constantly — but because every time she approached the grief, the trauma of the accident arrived first, and the trauma response (the flash of the impact, the smell, the sound, the catastrophic activation of the body in crisis) overwhelmed the grief, and she would shut down. She was not failing to grieve. She was trying to grieve in a body and nervous system that hadn't been treated for the trauma she was carrying alongside the loss.
 
 Traumatic bereavement — the experience of losing someone through sudden death, violent death, accident, suicide, or murder — presents a distinct psychological challenge from non-traumatic loss. When death comes without warning, through violence or catastrophe, or in circumstances that directly expose the bereaved person to traumatic experience, the grief and the trauma are intertwined in ways that each complicates the other. The PTSD response that traumatic death can produce in those closest to the deceased interferes with natural grief processing; the grief work that requires engagement with the loss is made more difficult when that engagement also activates the trauma response. Understanding the intersection of trauma and grief — and the treatments that address it — is the focus of this book.
@@ -131,4 +130,4 @@ Traumatic bereavement does not follow the scripts that non-traumatic grief follo
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

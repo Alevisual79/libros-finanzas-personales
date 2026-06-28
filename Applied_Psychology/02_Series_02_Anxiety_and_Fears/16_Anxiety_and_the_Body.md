@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For three years, Thomas visited an average of fourteen medical specialists. He had chest pain (cardiologist), chronic headaches (neurologist), irritable bowel (gastroenterologist), recurrent throat tightness (ENT), unexplained fatigue (endocrinologist), muscle tension (orthopedist), frequent urination (urologist), and intermittent dizziness (vestibular specialist). Each evaluation revealed the same thing: nothing structurally wrong. The tests came back normal. The symptoms continued. By his third year, Thomas was spending approximately four hours per week in clinical settings, developing a sophisticated understanding of cardiovascular anatomy, and becoming increasingly convinced that his doctors were missing something. What they were not missing, but nobody had yet said plainly, was that his body was expressing anxiety in the only language it knew.
 
 The relationship between anxiety and the body is not metaphorical. Anxiety produces measurable, genuine, physiological changes that generate real symptoms — symptoms that are not "in the head" or "imagined" but are produced by the nervous system's actual response to perceived threat. Understanding this relationship is essential not only for the millions of people like Thomas who spend years in medical evaluation for symptoms that turn out to have a psychological explanation, but for anyone who has ever wondered why their heart races, their stomach churns, or their muscles ache in the service of a fear that has no physical cause.
@@ -137,4 +136,4 @@ The body and the mind are not separate systems with parallel lives that occasion
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

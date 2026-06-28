@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Ben started his software development agency, he led by example: he worked harder than anyone, was more technically capable than anyone, and made every significant decision himself. For the first three years, this worked. The business ran on his energy, his standards, and his personal relationships with every client and every member of the small team. He was the leader because he was the founder, and the two roles were indistinguishable.
 
 When the agency grew to fourteen people, the model broke. Ben was in too many places at once — managing the technical direction of seven concurrent projects, leading business development, maintaining key client relationships, resolving interpersonal conflicts on the team, making every hiring decision, and reviewing every significant deliverable. He was the bottleneck on everything. His best team members, capable enough to lead projects independently, were waiting for his input before moving forward. The quality that had come from his personal oversight was now being traded against the speed and scale that the growing team could have produced without the bottleneck.
@@ -141,4 +140,4 @@ Ben didn't become a leader by reading about leadership. He became one by doing t
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

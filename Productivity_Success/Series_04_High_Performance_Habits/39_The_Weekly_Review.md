@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Camila had always had intentions. Clear ones, specific ones — the kind she articulated every Sunday evening when the week felt like a fresh start: the important project she would finally advance, the conversation she would have, the habit she would establish. By Thursday of most weeks, the intentions had been overtaken by the urgent, the reactive, and the ambient — the email that required response, the meeting that ran over, the crisis that demanded the attention she had planned to give to something else.
 
 The intentions were not the problem. She had excellent intentions. The problem was the absence of the weekly structure that would convert intentions into plans, plans into scheduled commitments, and scheduled commitments into the actual work of the week.
@@ -159,4 +158,4 @@ The compass check. Once a week. The most important sixty minutes of the professi
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben's professional identity had been built around one skill: creating compelling marketing copy. When AI could produce serviceable copy in seconds, that identity needed expanding. Not discarding — expanding. The question was which direction.
 
 ---
@@ -95,4 +94,4 @@ Career reinvention is not about starting over. It is about identifying which ele
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

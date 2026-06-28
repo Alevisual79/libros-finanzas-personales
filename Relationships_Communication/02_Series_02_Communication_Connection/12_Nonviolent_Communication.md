@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sarah had a gift for saying exactly the right wrong thing. Not cruelly — she was not a cruel person — but with a precision that, when she replayed conversations later, she could see had landed as accusation, as judgment, as the specific kind of statement that closes a door rather than opening one.
 
 "You never listen to what I'm actually saying" was one. "You always make it about you" was another. "I can't believe you forgot" was a third, offered in a tone that carried enough disappointment to make genuine apology difficult. She didn't mean any of these statements to be attacks. She meant them to be honest. The gap between her intention and their impact was, as she was gradually coming to understand, the gap that Nonviolent Communication existed to bridge.
@@ -153,4 +152,4 @@ The work is not to say less. It is to say differently — from the place in your
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

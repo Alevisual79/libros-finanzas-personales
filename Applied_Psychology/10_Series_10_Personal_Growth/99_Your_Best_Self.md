@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Abraham Maslow introduced the concept of self-actualization in 1943 as the pinnacle of his famous hierarchy of needs — the tendency for people to fulfill their potential, to become everything they are capable of becoming. The concept captured something real about human motivation that behaviorist psychology had neglected: that people are not only driven by deficiency needs (for safety, belonging, and esteem) but by growth needs that pull them toward their highest possibilities. Maslow described self-actualizing people as rare, fully functioning individuals characterized by acceptance, spontaneity, creativity, peak experiences, and a democratic spirit — people who had realized their potential in a way that most people never achieved.
 
 The concept was inspiring and productive but also vague, unfalsifiable in Maslow's original formulation, and based on a highly selective sample (Maslow chose exemplars like Abraham Lincoln, Thomas Jefferson, and Albert Einstein from his biography collection rather than deriving the concept empirically). Subsequent decades of positive psychology research have produced more rigorous, empirically grounded accounts of what psychological flourishing actually looks like, what produces it, and what the evidence shows about human potential and its development.
@@ -137,4 +136,4 @@ Your best self is not an idealized future state that you are not yet. It is the 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

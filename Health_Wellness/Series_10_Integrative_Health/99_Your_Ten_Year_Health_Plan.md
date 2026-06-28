@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Most health behavior is driven by crisis: symptoms appear, a diagnosis is made, or a frightening test result arrives — and then action is taken. Preventive health, by contrast, requires acting in the absence of immediate consequences: eating well when you feel fine, exercising when nothing hurts, scheduling preventive screenings when you have no symptoms.
 
 The challenge is that the brain's motivation systems are calibrated for immediate rewards and concrete threats — not for investment in decades-away outcomes. A ten-year health plan is an attempt to bridge this gap: to make the abstract concrete, to convert long-term aspirations into present-tense behaviors, and to provide the planning horizon that short-term reactive health management lacks.
@@ -213,4 +212,4 @@ A ten-year health plan is an act of self-respect for your future self — a comm
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For as long as she could remember, certain situations produced in Nina a response she couldn't explain. A raised voice — any raised voice, including one of warm surprise — made her flinch. Conflict at work produced a level of anxiety that she knew, intellectually, was disproportionate to the situation. She had difficulty trusting people she genuinely liked. She slept lightly and startled easily. She had explained these traits to herself as personality: she was sensitive, she was anxious, she was "just like that." What she had not considered was that they might be the legible residue of something that had happened to her — that what she experienced as personality might more accurately be understood as adaptation.
 
 Trauma is one of the most significant and most misunderstood concepts in contemporary psychology. In popular usage, it often carries connotations of extreme violence, war, or disaster — experiences that are genuinely traumatic but that constitute only a fraction of the trauma that shapes human lives. In clinical and research psychology, trauma refers to something considerably more expansive: the psychological and neurobiological impact of experiences that overwhelm the nervous system's capacity to process and integrate them. Understanding what trauma is — how it differs from ordinary difficult experience, how it is stored in the mind and body, and how it continues to shape perception and behavior long after the original experience has ended — is the foundation of the healing work that this series explores.
@@ -137,4 +136,4 @@ Trauma is not a character flaw, a weakness, or evidence of inadequacy. It is the
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

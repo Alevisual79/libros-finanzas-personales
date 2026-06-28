@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 There is a meaningful difference between a life that happens to a person and a life that a person designs. The distinction is not about control — both lives contain vast quantities of uncontrolled, unforeseeable, and unchosen events. It is about the orientation toward those events, the degree to which responses to them are deliberate rather than reflexive, and the degree to which the overall direction of the life reflects genuine choice rather than accumulated default.
 
 Research in psychology documents both the difficulty and the importance of this distinction. On the difficulty side: research on automatic behavior, social influence, unconscious motivation, and cognitive bias consistently documents how much of human behavior is driven by processes that operate outside deliberate awareness and choice. On the importance side: research on autonomy, authenticity, and self-determination consistently documents that the experience of one's life as genuinely chosen — rather than merely happened-to — is one of the strongest predictors of psychological wellbeing and life satisfaction.
@@ -139,4 +138,4 @@ Living with intention does not produce a perfect life. It produces a more genuin
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

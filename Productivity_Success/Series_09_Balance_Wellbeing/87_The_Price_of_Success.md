@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The career that Sarah had been building for fifteen years had produced the outcomes that she had, at twenty-eight, identified as the measures of professional success: the clinical reputation, the academic position, the leadership role, the financial stability, the external recognition. These were not hollow achievements; they were the genuine product of sustained commitment, exceptional capability, and years of work that had required the subordination of many other things to the professional pursuit.
 
 What the twenty-eight-year-old had not been able to factor into her calculation of the success she was seeking was the specific, systematic cost that the pursuit would require — not the obvious costs of hard work and long hours, which she had anticipated and accepted, but the subtler, less visible costs that the research on achievement and wellbeing consistently documents: the friendships that had not been cultivated because the work had occupied the time they required; the physical health that had been drawn down to fund the professional output; the sense of self independent of the professional role that had gradually contracted as the professional identity had expanded; and the specific, nagging question — which had arrived, without warning, in her forty-third year — of whether the success she had spent fifteen years constructing was the success she actually wanted.
@@ -145,4 +144,4 @@ The professional who does this is not less successful than the one who pursues a
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben estuvo en una reunión donde todos apoyaron una decisión que el consideraba mala. No dijo nada. Isabel ha visto como personas que individualmente son críticas y analiticas, en reunión con su equipo, de repente aprueban propuestas que en privado habrían cuestionado. Elena recuerda situaciones de su adolescencia donde hizo cosas que no quería hacer porque todo el mundo lo hacía. La conformidad es una de las fuerzas más potentes que moldean el comportamiento humano. Este libro es sobre esa fuerza: por qué existe, que la amplifica, que la reduce, y como desarrollar la capacidad de disentir cuando la situación lo requiere.
 
 ---
@@ -175,4 +174,4 @@ Ruben habló en la reunión. Dijo lo que pensaba sobre la decisión, de forma br
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

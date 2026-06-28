@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sandra had inherited a team that had been, for three years, performing without functioning.
 
 The distinction took her several weeks to articulate clearly. The team had been meeting its targets — this was the performance. It had been doing so as a collection of individually operating contributors who shared a manager, a budget line, and a weekly status meeting but who did not, in any meaningful sense, work together. They ran parallel tracks that occasionally intersected. They did not build on each other's work. They did not share information beyond what the formal reporting structure required. They did not, on the evidence available to Sandra, particularly like each other.
@@ -145,4 +144,4 @@ It is a practice of genuine mutual investment.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

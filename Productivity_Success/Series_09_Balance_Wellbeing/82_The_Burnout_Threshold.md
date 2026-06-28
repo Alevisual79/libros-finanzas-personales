@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 James had crossed a line he had not known existed until he was on the other side of it. The crossing had not been dramatic — there was no specific moment when the engaged professional became the burned-out one, no single event that transformed the person who found the work meaningful into the person who found it meaningless. There was only the gradual accumulation of demand beyond recovery, of output without input, of giving without receiving — until the day he noticed that the work he had once described as a vocation had come to feel like a sentence.
 
 The burnout threshold is not a line in any clinical manual — it is the specific point in the depletion-engagement continuum at which the recovery mechanisms that have been sustaining performance begin to fail, and the burnout syndrome becomes self-reinforcing rather than self-correcting. Understanding where it is, how to monitor proximity to it, and how to pull back before crossing it is one of the most important and least practiced professional skills available.
@@ -153,4 +152,4 @@ Know your threshold. Monitor the signals. Act before you cross it.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

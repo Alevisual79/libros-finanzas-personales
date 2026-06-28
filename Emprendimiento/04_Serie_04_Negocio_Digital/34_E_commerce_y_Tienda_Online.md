@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Lucia quiere vender los productos artesanales que hace en su tiempo libre y no sabe si montar una tienda Shopify o vender en marketplaces. Carlos ha estudiado el modelo de dropshipping y no sabe si es tan rentable cómo lo pintan en YouTube. Marcos quiere digitalizar parte de su negocio de servicios ofreciendo productos físicos asociados al servicio. Los tres necesitan entender la lógica específica del e-commerce: un negocio de venta online tiene sus propias reglas, sus propias metricas, y sus propios errores que cuestan caro si no se conocen de antemano. El e-commerce no es difícil si se entiende bien. Es complicado si se improvisa.
 
 ---
@@ -175,4 +174,4 @@ Lucia lanzo su tienda de productos artesanales en Etsy con doce productos y en e
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

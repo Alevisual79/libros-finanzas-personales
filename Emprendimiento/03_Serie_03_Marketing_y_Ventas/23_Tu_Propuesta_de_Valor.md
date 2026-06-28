@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos explica lo que hace y los clientes asienten pero no compran. Lucia tiene clientes que la adoran pero no sabe como explicarles a los demás por qué deberían elegirla. Marcos sabe que su negocio es mejor que el de la competencia pero no puede articular por qué de una forma que convenza a alguien. Los tres tienen el mismo problema: no tienen una propuesta de valor clara. O la tienen pero no la han articulado de una forma que resuene en el cliente. La propuesta de valor no es el eslogan de tu empresa. Es la respuesta honesta a la pregunta más importante que el cliente te hace, aunque nunca en voz alta: ¿por qué debería elegirte a ti en lugar de a cualquier alternativa, incluida la de no hacer nada?
 
 ---
@@ -175,4 +174,4 @@ Lucia dedicó un fin de semana a reescribir completamente la propuesta de valor 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

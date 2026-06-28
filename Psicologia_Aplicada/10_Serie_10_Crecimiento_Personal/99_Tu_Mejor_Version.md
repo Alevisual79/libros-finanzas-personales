@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena siente que la presión de ser la mejor versión de si misma la agota más que la motiva. Ruben consume contenido de desarrollo personal que le hace sentir que nunca es suficiente, que siempre hay algo más que optimizar, una habilidad que mejorar, un hábito que adoptar. Isabel ha llegado a los cincuenta con la sospecha de que la búsqueda de la mejor versión de si misma ha sido a veces una forma de no aceptarse tal como es. Los tres necesitan lo mismo: una comprensión más matizada del crecimiento personal que incluya la aceptación, que distinga el desarrollo genuino de la optimización compulsiva, y que ponga el progreso al servicio de la vida en lugar de la vida al servicio del progreso.
 
 ---
@@ -175,4 +174,4 @@ Ruben dejó de consumir contenido de productividad y optimización durante dos m
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

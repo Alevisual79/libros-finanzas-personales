@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Robert had built his industrial equipment maintenance company over fourteen years. At five people, he was the lead technician, the top salesperson, the financial manager, and the administrative coordinator — all while setting the strategic direction. He knew everything about the business and did most of what mattered in it. At thirty-two people, his role looked similar from the outside — he was still deeply involved in client relationships, still the primary voice in the largest service contracts, still the person everyone brought their questions and problems to.
 
 But the company at thirty-two people was not functioning at the level it should have. The operations manager who should have been running daily operations was bringing everything to Robert. The sales team who should have been developing new accounts was waiting for Robert to get them in doors. The financial reporting was two months behind because Robert hadn't reviewed and signed off on it. And Robert himself was working seventy-five hours a week and still behind on everything that mattered most.
@@ -141,4 +140,4 @@ Robert's coach's question — what would actually stop working if you were gone 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

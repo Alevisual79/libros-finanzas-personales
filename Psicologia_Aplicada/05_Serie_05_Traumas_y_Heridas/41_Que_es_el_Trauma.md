@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben no cree haber tenido traumas. No ha vivido una guerra, no ha sufrido violencia física, no ha pasado por ninguna de las catastrofes que la cultura asocia con el trauma. Pero hay patrones en su vida que no entiende completamente: reacciones desproporcionadas en ciertos contextos, dificultad para confiar en ciertas personas, un nivel de alerta de fondo que parece excesivo para la tranquilidad objetiva de su vida actual. El trauma no es solo lo que ocurrio en escenarios extremos. Es cualquier experiencia que el sistema nervioso no pudo procesar completamente en su momento, y que sigue operando en el presente como si la amenaza todavía estuviera activa. Muchas más personas de las que creen tienen algo que procesar.
 
 ---
@@ -175,4 +174,4 @@ Ruben empezó a hacer preguntas. A su madre sobre la historia de su padre, que c
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

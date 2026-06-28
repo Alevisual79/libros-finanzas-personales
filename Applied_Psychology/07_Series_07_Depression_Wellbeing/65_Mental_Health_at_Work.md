@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had been at the company for six years when depression began affecting his work. He knew it before anyone else did — before his performance review showed it, before his manager noticed the dropped deadlines, before his colleagues began to wonder about the colleague who had previously been present and engaged and was now consistently late to meetings and quiet when he arrived. He had not told anyone. The decision was not primarily about shame, though shame was present. It was a practical calculation: he worked in a performance-driven culture in which vulnerability was a risk, and he was uncertain — not unreasonably, given what he knew about his workplace — that disclosure would be received as professionalism and treated with discretion rather than documented as a performance problem and held against him.
 
 The intersection of mental health and workplace is one of the most practically important and most poorly managed dimensions of contemporary psychological health. The statistics are striking: the WHO estimates that depression and anxiety cost the global economy over $1 trillion annually in lost productivity; research by Kessler and colleagues finds that mental health conditions are the leading cause of disability in working-age adults; and survey research consistently finds that a majority of employees with significant mental health challenges do not seek help, primarily due to fear of stigmatization. This book addresses the full landscape of mental health at work: what the research says about workplace environments and mental health, what disclosure means and when it is appropriate, what effective organizations do, and what individuals can do within the constraints of their specific work contexts.
@@ -137,4 +136,4 @@ Work is not simply a context in which mental health either remains intact or is 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

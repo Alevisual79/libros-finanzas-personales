@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Camila noticed it first during a Saturday morning with her daughter. They were building something — a model, a puzzle, she couldn't now quite remember — and she had been genuinely present for approximately seven minutes before her mind had drifted to the project deadline on Monday. She caught it, returned her attention, was present for another four minutes, and drifted again. By the end of the hour, she had been physically present for the entire time and genuinely present for perhaps twenty minutes of it.
 
 What disturbed her was not that her mind had wandered; minds wander, and she knew this. What disturbed her was that she had not been choosing where her attention went. Something else had been making the choice — the ambient anxiety about the work, the automatic pull of the habitual mental review — and she had simply followed it, again and again, away from the daughter who was there, in the room, building something with her.
@@ -159,4 +158,4 @@ Eleven returns. Twenty minutes of genuine presence out of sixty. She did not thi
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

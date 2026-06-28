@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Las investigaciones son claras: estamos más conectados digitalmente que nunca y más solos que en cualquier momento de la historia reciente. Tenemos más formas de comunicarnos y menos conversaciones que realmente nutran.
 
 Eso no es una coincidencia. Es el resultado de haber adoptado tecnologías diseñadas para maximizar el tiempo en pantalla sin preguntarnos si ese tiempo en pantalla era bueno para nuestras relaciones. La mayoría de las veces no lo es.
@@ -183,4 +182,4 @@ Una norma pequeña. Un cambio considerable en la calidad de lo que había entre 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

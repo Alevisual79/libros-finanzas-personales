@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Flexibility and mobility are among the most neglected components of physical fitness. Most people stretch occasionally (before exercise, if at all) and don't practice systematic mobility work at all. The consequence accumulates slowly: progressively tighter hips, a stiffer spine, reduced range of motion in the shoulders, and a body that feels increasingly rigid — a process most people accept as an inevitable feature of aging.
 
 It is not inevitable. The research is clear: flexibility and mobility are trainable at any age, and the consequences of neglecting them compound into significant functional limitations.
@@ -204,4 +203,4 @@ Apply one key idea from this book this week. Health changes come from consistent
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

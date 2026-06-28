@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben es el más brillante tecnomente de su equipo. Sus análisis son precisos, sus soluciones elegantes, su código impecable. también es el que más conflictos tiene con los demás, el que pierde los papeles en situaciones de presión, el que no entiende por qué sus ideas brillantes son rechazadas cuando las presenta. Su jefe lo describe cómo un ingeniero extraordinario y un colega difícil. Ruben atribuye los problemas a que los demás no entienden la excelencia técnica. Su jefe piensa algo distinto: que Ruben no entiende a las personas, incluyendo a si mismo.
 
 ---
@@ -175,4 +174,4 @@ Ruben se inscribio en un curso de comunicación asertiva. No porque le gustara l
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

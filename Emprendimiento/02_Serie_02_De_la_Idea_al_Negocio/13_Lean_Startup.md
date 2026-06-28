@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Marcos paso dieciocho meses desarrollando su plataforma tecnologica en modo stealth (sin mostrarla al mercado) antes de lanzarla. Cuando la lanzo, descubrió que los usuarios reales usaban el producto de una forma completamente diferente a como había imaginado y que las funcionalidades en las que más había invertido eran las que menos usaban. Carlos, en cambio, lanzo una versión inicial muy basica a los tres meses, con mucho miedo y mucha vergüenza por lo que le faltaba, y aprendió en los primeros quince dias más sobre lo que el mercado realmente quería que Marcos en dieciocho meses. Lucia aplica la metodología Lean Startup sin saber que tiene nombre: simplemente ha aprendido que lanzar rápido y aprender del mercado funciona mejor que planificar mucho y lanzar tarde.
 
 ---
@@ -175,4 +174,4 @@ Marcos no tiene vergüenza de su dieciocho meses en modo stealth. Pero si ha apr
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

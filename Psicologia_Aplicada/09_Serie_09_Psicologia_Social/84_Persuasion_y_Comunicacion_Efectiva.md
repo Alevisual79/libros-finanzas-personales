@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene buenas ideas pero le cuesta que las personas con poder de decisión las tomen en serio. Elena ha presentado propuestas que creía que eran sólidas y se ha encontrado con resistencia que no esperaba. Isabel ha tenido que dar malas noticias, gestionar conversaciones difíciles, y convencer a equipos enteros de cambiar su forma de trabajar. Los tres necesitan lo mismo: entender como funciona la persuasión real, no la manipulación, sino la comunicación que conecta con las razones por las que las personas toman decisiones y cambian de opinión. Este libro es sobre esa comunicación: su psicología, sus técnicas, y sus límites éticos.
 
 ---
@@ -175,4 +174,4 @@ Ruben cambio el orden de sus presentaciones. Antes empezaba con el problema y lo
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

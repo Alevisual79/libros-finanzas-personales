@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Grace spent seventeen years as a high school science teacher and curriculum developer before doing the calculation that changed her career: she taught her chemistry curriculum to approximately 125 students per year at a salary that required her to be present in a classroom five days per week, forty weeks per year. She was excellent at her work, and she had refined her curriculum through thousands of hours of classroom observation and refinement until it was genuinely exceptional — better, by measurable student outcomes, than most commercially available chemistry curricula.
 
 The question she asked herself was: what if the number of students who could benefit from this curriculum was not constrained by how many students could fit in her classroom each year? She spent eight months creating an online version of her most valuable module — a twelve-week online course on a specific chemistry topic that consistently challenged her students — and launched it with minimal marketing to her former students' parents and a small chemistry teacher community she participated in. Her first cohort had forty-one paying students. The course took forty hours to run and generated $24,600 in revenue. Her hourly rate for those forty hours: $615.
@@ -137,4 +136,4 @@ Information products are, at their best, a form of leverage: the leverage of exp
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

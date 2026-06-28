@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene sobre la mesa la decisión más importante de su carrera: aceptar un puesto de directora de RRHH en una empresa de mayor tamaño que implica más responsabilidad, mejor salario y más riesgo. Ha pedido opinión a doce personas. Ha hecho listas de pros y contras. Ha reflexionado durante semanas. Sigue sin saber como decidir. No porque le falte información. Sino porque nadie le enseño nunca los principios basicos de como tomar decisiones de calidad bajo incertidumbre, y porque la mayoría de los consejos que recibe confunden seguridad emocional con buena decisión.
 
 ---
@@ -175,4 +174,4 @@ Isabel acepto el nuevo puesto. No porque llegará a la certeza de que era la dec
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

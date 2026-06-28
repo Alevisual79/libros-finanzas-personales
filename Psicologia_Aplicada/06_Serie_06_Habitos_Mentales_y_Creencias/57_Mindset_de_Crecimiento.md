@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel era buena en matemáticas en primaria. Cuando llegó a secundaria, un profesor dijo delante de la clase que había personas con cabeza para las matemáticas y personas sin ella. Isabel estaba entre las segundas. Dejo de intentarlo. Treinta años después, trabaja en recursos humanos y calcula mentalmente que si hubiera continuado con las matemáticas, probablemente habría llegado a ser muy buena. La historia de Isabel es la historia del mindset fijo en acción: una creencia sobre las capacidades como algo innato que tiene el poder de determinar el recorrido de una vida entera. Este libro es sobre la alternativa, que la investigación muestra que produce trayectorias completamente diferentes.
 
 ---
@@ -175,4 +174,4 @@ Isabel volvio a estudiar matemáticas a los cuarenta y ocho años. No para usarl
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

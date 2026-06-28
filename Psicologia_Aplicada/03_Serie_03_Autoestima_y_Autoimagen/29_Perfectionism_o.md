@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena entrega cada informe tres dias después de lo prometido. No porque no trabaje suficiente. Sino porque hay siempre algo más que mejorar, una frase que suena mejor de otra forma, una tabla que podría organizarse de forma más clara, un argumento que podría desarrollarse con más precisión. Sus colegas entregan a tiempo trabajos que son suficientemente buenos. Elena entrega tarde trabajos que son marginalmente mejores pero que han costado el triple de tiempo y han generado una presión que ella llama exigencia pero que sus compañeros, observando los circulos oscuros bajo sus ojos, llamarian agotamiento.
 
 ---
@@ -175,4 +174,4 @@ Elena entrego el siguiente informe en el plazo acordado. No era perfecto. Habia 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

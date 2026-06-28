@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos trabaja doce horas diarias en su negocio digital y cuando para de trabajar, el negocio para. Lucia tiene claro que quiere un negocio más automatizado pero cada vez que intenta automatizar algo se enreda en la tecnología y acaba haciendo las cosas manualmente. Marcos viene del mundo corporativo donde la automatización era responsabilidad del departamento de IT y no sabe por donde empezar como emprendedor individual. Los tres necesitan entender algo fundamental: la automatización del negocio digital no es solo una herramienta de eficiencia. Es el componente que distingue el negocio que escala del que tiene un techo limitado por las horas del fundador. Y en 2024, automatizar un negocio digital no requiere conocimiento técnico avanzado: requiere entender la lógica correcta.
 
 ---
@@ -175,4 +174,4 @@ Lucia tardo cuatro semanas en configurar las automatizaciones principales de su 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

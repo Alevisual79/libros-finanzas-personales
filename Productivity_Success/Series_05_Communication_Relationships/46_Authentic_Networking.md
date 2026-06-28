@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Daniel disliked networking. He had attended the events, collected the cards, and sent the follow-up emails with connections he would never become. He had felt, through these activities, the mild contamination of instrumentality — the sense that he was using people as means rather than relating to them as ends, that the relationship was in service of some future benefit rather than genuinely valuable in itself.
 
 The research on professional networks and career outcomes was unambiguous: the professionals with larger, more diverse, and more trusted networks consistently achieved better career outcomes — access to more opportunities, more information, more support, and more creative collaboration. The research was also unambiguous about why: not because networking events were intrinsically valuable but because the genuine relationships that constituted the effective network were intrinsically valuable, and the career benefits were a natural consequence rather than the purpose.
@@ -161,4 +160,4 @@ The authenticity is not a technique. It is the orientation that makes the techni
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

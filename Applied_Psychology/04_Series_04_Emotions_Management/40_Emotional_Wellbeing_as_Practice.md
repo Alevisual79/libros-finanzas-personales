@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 At the end of a year in which she had lost her mother, changed careers, and moved to a different city, Isabel took stock. The year had been, by objective assessment, one of the hardest of her adult life. She had been genuinely bereft, genuinely frightened, genuinely angry, genuinely sad. She had also been, she recognized with some surprise, more fully present to her own experience than she had been in the preceding decade of relative comfort and routine. The difficult emotions had demanded attention; attending to them had revealed a richness of interior life that easier years had allowed her to ignore. She was not grateful for the difficulties — that would have been a distortion. She was, somehow, a more complete person than she had been before them.
 
 The title of this final book in the Emotions and Emotional Management series — "Emotional Wellbeing as Practice" — is chosen deliberately. Wellbeing in the emotional domain is not a destination that is reached through the acquisition of sufficient knowledge or skills and then maintained passively. It is a practice: an ongoing, developing, sometimes effortful engagement with one's own emotional life that continues across the lifespan, changes in form as experience and understanding develop, and is never fully complete. Understanding this practice — what it consists of, how it is sustained, what enables and what undermines it — is the integrating question for this series.
@@ -135,4 +134,4 @@ Emotions are not the problem. They are the evidence that something is happening,
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

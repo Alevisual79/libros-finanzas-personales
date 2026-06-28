@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel lleva años diciendose que necesita mejorar su autoestima. Ha leido libros de autoayuda, ha hecho afirmaciones frente al espejo, ha intentado pensar en positivo. Nada ha cambiado de forma duradera. La razón es que ninguna de esas cosas aborda lo que la autoestima realmente es. La autoestima no es la suma de cosas buenas que te dices sobre ti mismo. Es la relación que tienes contigo mismo: con tus acciones, tus valores, tus límites, y tu capacidad de ser honesto sobre tus errores sin que eso destruya tu sentido de valor.
 
 ---
@@ -175,4 +174,4 @@ Isabel empezó con un solo cambio: decidió no decir si a compromisos que no que
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nadia was forty minutes into the competitive brief when she noticed that something had changed. The office around her had not changed — it was still mid-afternoon, the usual ambient hum of the open plan, the occasional voice and footstep. But she was not registering any of it. She was somewhere inside the brief, moving through its logic with an ease and fluency that her earlier, resistant drafts had not suggested was possible. The arguments were connecting. The language was finding itself. An hour later, she looked up and discovered it was 5:30, that her tea had gone cold, that she had missed two Slack messages and not noticed, and that the brief on her screen was, by quite a margin, the best work of its kind she had ever produced.
 
 She had experienced flow before without labeling it. The afternoon on a difficult client pitch when the presentation design suddenly came together. The analysis session where the data's story had revealed itself as she was writing. The teaching workshop where the room had suddenly come alive and she had found herself saying things she didn't know she knew. The experiences had seemed like luck — the good day, the right conditions, the creative alignment that occasionally happened.
@@ -169,4 +168,4 @@ The structural changes required to make flow more accessible — the protected t
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Valentina and Stefan had been seeing each other for three months — the coffee, then dinner, then the walks and the gradual accumulation of the specific shared reference points that constitute the early architecture of a relationship — before she understood that they had not yet talked about what they were doing.
 
 They had talked about everything else. They had talked about their children and their work and their losses and their former lives with a candor that surprised her — she had expected the early stages of new romantic encounter to be more guarded than this, and had found instead a person who seemed genuinely interested in the actual texture of her experience rather than the presentation of it. The conversations had been good in the specific way that she had not had good conversations in three years: genuinely mutual, genuinely honest, genuinely interested in each other rather than in the impression they were making.
@@ -155,4 +154,4 @@ Have it. Have it honestly.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

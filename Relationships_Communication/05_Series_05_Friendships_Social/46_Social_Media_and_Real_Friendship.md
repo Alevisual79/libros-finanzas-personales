@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Jordan had 847 followers on Instagram and three people in Toronto he could call if something went genuinely wrong.
 
 He had noticed the disproportion with a kind of wry unease that he had spent some time thinking about but hadn't fully resolved. The 847 were not meaningless — they were people who had, at some point, found his photographs or observations interesting enough to choose to see them. Some of them were people he genuinely knew. A few were people he genuinely liked. But the number bore essentially no relationship to the number of people he could rely on, confide in, or call at midnight.
@@ -151,4 +150,4 @@ The two categories deserve your investment in proportion to what they give back.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Rafa's to-do list was never empty. This was not a problem; it was a law of professional life. What was a problem was that the most important items on the list — the ones he had been moving forward from one week's list to the next — were not items he did when time was available. They were items he did when they became urgent enough to displace the reactive work that normally filled his time.
 
 His colleague Elena had a different relationship with her to-do list. She had the same volume of work, the same organizational demands, and arguably more complex projects. But at the end of any given week, the items at the top of her list had been addressed. Not because the reactive demands were lower — they weren't — but because she had adopted a scheduling practice that made the important items as undeniable as the scheduled meetings.
@@ -165,4 +164,4 @@ The gap between intention and action is closed not by willpower but by structure
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

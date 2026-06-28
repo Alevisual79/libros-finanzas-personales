@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Dropshipping is perhaps the most aggressively marketed business model in the online entrepreneurship world. The pitch is compelling: sell products without buying inventory, without handling shipping, without a warehouse. Set up a store; find a supplier; pocket the margin.
 
 The model is real. People do make money from dropshipping. But the gap between how it is typically marketed and how it actually works is significant — and the failure rate among new dropshippers is high, often because people entered with unrealistic expectations about margins, competition, and time requirements.
@@ -238,4 +237,4 @@ The model is accessible. The execution is demanding. Enter with realistic expect
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

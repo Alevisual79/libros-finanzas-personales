@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For the first six years of her online fitness coaching platform, Natalia had built curricula that were, at best, customized: she had seven workout programs categorized by goal (weight loss, muscle building, flexibility, athletic performance) and three experience levels (beginner, intermediate, advanced). Members answered four questions at signup and were routed to one of twenty-one combinations. The platform was profitable and growing, but retention was a problem: sixty-one percent of members cancelled within six months, with the most common feedback being that the workouts "didn't fit."
 
 The irony was that Natalia had built a technology platform that collected far more member data than she was using. She knew each member's workout completion rates (which sessions they finished and which they abandoned), their strength progression over time, the time of day they typically exercised, the session length they consistently chose, and the types of sessions they most frequently returned to. She had detailed behavioral data on every member; she was routing them based on four self-reported questions.
@@ -149,4 +148,4 @@ Natalia had been collecting the data she needed for two years before she used it
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

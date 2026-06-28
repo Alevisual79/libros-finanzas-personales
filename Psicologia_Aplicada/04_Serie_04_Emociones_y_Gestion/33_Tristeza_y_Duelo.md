@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel perdio a su madre hace ocho meses. Los primeros dos meses fueron de un dolor agudo que todos reconocian como duelo normal. A los tres meses, la expectativa implícita del entorno empezó a ser que ya debería estar mejor. A los seis, se sentía avergonzada de seguir sintiendose tan afectada. A los ocho, ha aprendido algo que nadie le ensenó: que el duelo no funciona según el calendario de la comodidad de los demás, y que la tristeza que sigue siendo intensa no es señal de que algo este mal en ella. Es señal de que amo mucho a quien perdio.
 
 ---
@@ -175,4 +174,4 @@ Isabel puede hablar de su madre ahora sin desmoronarse. No siempre, no en todos 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

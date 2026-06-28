@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel had been making her mortgage payment every month for eleven years without once sitting down to understand what it actually was. The number arrived in her bank statement like a fact of nature — $1,347 per month, consistent and inevitable, the price of the home she lived in. She knew she owed "around $180,000 still" and had "about nineteen years left," but she had not looked at her amortization schedule since the closing, had never calculated her total interest cost over the loan's life, and had never investigated whether refinancing could reduce what she paid. She paid. The bank received. The relationship was, from her side of the table, entirely passive.
 
 Elena did not yet have a mortgage. She was 33, renting a one-bedroom apartment for $1,650 per month, and increasingly aware that this payment was building nothing. Her friends were buying homes — condos in walkable neighborhoods, starter houses in suburban areas with good schools — and she felt the pull of ownership without having a clear picture of what a mortgage would actually cost her or whether her current financial position made it a sound decision. She had heard that mortgage interest was tax-deductible, that home equity was a form of savings, that "renting is throwing money away." She had also heard the countervailing arguments, and she could not tell which framing was accurate. What she needed was not an opinion. She needed a model.
@@ -165,4 +164,4 @@ Elena filed away her rent-versus-buy analysis for when rates or prices shifted i
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

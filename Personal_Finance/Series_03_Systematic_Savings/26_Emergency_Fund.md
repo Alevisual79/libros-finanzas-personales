@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben's car failed its state inspection in February. The mechanic's estimate: $1,400 for repairs needed to pass. He had $380 in checking and $210 in a savings account he'd started three months earlier.
 
 He had two options: put it on the credit card he'd been paying down, or find money quickly. He ended up borrowing $800 from a friend and putting $600 on the card, then spending four months repaying both.
@@ -195,4 +194,4 @@ Build it. Keep it funded. Don't let it become anything other than what it is: pu
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

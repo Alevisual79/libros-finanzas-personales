@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben sabe que algo va mal en la relación con su novia. No sabe exactamente que siente. Tampoco sabe decirlo. Cuando ella le pregunta que le pasa, el dice nada, estoy bien. No está mintiendo intencionalmente. Genuinamente no tiene acceso a lo que siente con suficiente precisión para nombrarlo.
 
 La inteligencia emocional no es sentir más. Es entender que sientes y por qué.
@@ -189,4 +188,4 @@ Ese cambio de atención, de lo de afuera a lo de adentro, es el inició de un nu
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The prostate gland generates more medical discussion, anxiety, and over-treatment than almost any other organ. Prostate cancer is the most commonly diagnosed non-skin cancer in American men; yet most prostate cancers are slow-growing and will never cause symptoms or death. BPH (benign prostatic hyperplasia) affects the majority of men over 60 and significantly affects quality of life. Prostatitis causes significant pain and is often inadequately evaluated.
 
 Understanding the prostate — what it does, what can go wrong, and how to navigate the significant medical controversies around screening and treatment — is essential health knowledge for adult men.
@@ -255,4 +254,4 @@ Prostate health encompasses a range of conditions from the almost universally pr
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

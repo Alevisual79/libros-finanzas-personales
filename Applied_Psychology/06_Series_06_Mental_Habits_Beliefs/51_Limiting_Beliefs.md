@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For as long as he could remember, Gabriel had operated with a set of certainties about himself that he had never questioned because they had never felt like beliefs — they had felt like facts. He was not the kind of person who takes risks. He was not creative. He was not good at speaking in public. He was not someone people found particularly interesting. These statements floated through his internal monologue so naturally that examining them required real effort; they had the quality of background furniture, present without being noticed. It took a significant life disruption — a sudden career change that forced him into situations his "facts" said he was unequipped for — to begin noticing that the certainties were not as solid as they had seemed. He was, in the new context, taking risks. He was finding ways to be interesting. The furniture he had arranged his entire sense of self around was, it turned out, not load-bearing.
 
 Limiting beliefs are the self-imposed constraints on possibility that masquerade as accurate self-knowledge. They are the convictions about what we cannot do, what we are not, what is not available to us — maintained not through ongoing evidence but through the self-confirming logic of beliefs that shape perception, behavior, and the situations we place ourselves in. They are among the most significant psychological mechanisms behind chronic underperformance, avoidance, and the experience of being perpetually smaller than one's actual capabilities. They are also, importantly, identifiable, challengeable, and changeable — not through positive thinking or willpower, but through the cognitive and experiential work that genuinely revises implicit beliefs.
@@ -139,4 +138,4 @@ Limiting beliefs are not truths about you. They are conclusions drawn, usually l
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

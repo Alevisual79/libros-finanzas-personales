@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Before he started his software development consultancy, Patrick had developed a genuine expertise in code and a genuine terror of financial spreadsheets. Numbers of a numerical computing nature he handled easily; numbers of a financial accounting nature he found impenetrable and somehow judgmental. His solution for the first year of his business was to avoid them: he kept his bank account positive, sent invoices when he finished projects, and filed his taxes with whatever information his accountant told him to gather. He had no idea whether his business was profitable, what his actual margins were, or whether the growth he was experiencing was generating financial strength or financial fragility.
 
 In his second year, his accountant asked a routine question during the annual tax meeting: "Do you want to see your income statement from last year?" Patrick realized he had never seen it. He didn't know what to look at when he did see it. He didn't understand the difference between the income statement and the balance sheet. He had a profitable, growing business that he was managing in complete financial darkness.
@@ -151,4 +150,4 @@ Accounting is not a language designed to exclude those who haven't studied it; i
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

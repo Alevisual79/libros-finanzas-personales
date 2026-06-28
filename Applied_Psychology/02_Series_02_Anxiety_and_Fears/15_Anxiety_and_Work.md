@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 By all visible measures, Maya was thriving at 36. She had been promoted twice in four years, managed a team she respected, and received consistently strong performance reviews. She also spent Sunday evenings in a state of dread that intensified through Sunday night into Monday morning; checked her email at midnight on Tuesdays to ensure nothing was going wrong with a project; rehearsed upcoming difficult conversations with colleagues for hours in the shower; and by Thursday of most weeks felt such anticipatory exhaustion about the next week that the weekend barely registered as rest. Her output was high. Her experience of that output was suffering.
 
 Workplace anxiety is among the most prevalent and least addressed forms of anxiety in modern life. Surveys consistently find that 40-50% of working adults report significant stress or anxiety related to their work, and that work-related anxiety is the most common reason people present to occupational health services. It is also among the most normalized forms of anxiety: the driven professional who lies awake catastrophizing about quarterly targets is culturally legible as a high performer; the same person presenting to a general practitioner with identical symptoms might receive a very different response than someone whose anxiety had no identifiable "rational" external cause. The normalization of workplace anxiety conceals both its costs and the existence of effective solutions.
@@ -137,4 +136,4 @@ Work matters. For most people, it is the largest organized commitment of their w
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

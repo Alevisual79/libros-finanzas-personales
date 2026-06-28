@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben was contributing 3% of his adjusted income to a retirement account when he had his first conversation with a fee-only financial planner. The planner ran a projection: at 3%, he would have approximately $180,000 at 65. At 10%, the same income trajectory produced approximately $600,000. At 15%, approximately $900,000.
 
 The difference between 3% and 15% of income — roughly $700/month at his income level — was significant but not enormous. The difference in outcomes was $720,000.
@@ -171,4 +170,4 @@ The power is not in the size of the step. It is in taking the step and not stopp
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

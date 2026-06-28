@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Scott Young announced that he had completed the four-year MIT computer science curriculum in twelve months, teaching himself all the material from publicly available course recordings and textbooks and completing the same examinations as MIT students, the response in the learning community was a combination of incredulity and intense curiosity. Not because the feat was impossible — self-directed learning of challenging material has always been possible — but because the methodology was replicable: the principles Young had used to accelerate his learning were not genius-level specific but learnable general strategies.
 
 Young documented these strategies in *Ultralearning* (2019), introducing the term for intensive, self-directed learning projects that produce professional-level capability in months rather than years. The ultralearning approach is not appropriate for every learning goal; but the specific principles it employs are valuable for every serious learner regardless of the pace at which they choose to apply them.
@@ -166,4 +165,4 @@ Learn harder, learn smarter, learn faster. The capability on the other side of t
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

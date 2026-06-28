@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The period after birth — sometimes called the "fourth trimester" — has been the most neglected phase of perinatal care in American medicine. The standard postpartum care model involved a single 6-week appointment, at which point the new parent was often discharged to continued care with minimal assessment of what had happened in the intervening weeks.
 
 This is changing. The American College of Obstetricians and Gynecologists now recommends ongoing postpartum care, not a single visit; the Surgeon General issued a Call to Action on maternal mental health; and there is increasing recognition that the physical and psychological recovery from birth — particularly after cesarean birth, complicated deliveries, or in the context of newborn health challenges — is not resolved in six weeks.
@@ -249,4 +248,4 @@ The fourth trimester matters as much as the previous three. The physical and psy
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

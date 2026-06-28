@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Elena started her business strategy consulting practice, she priced her first client engagement at $4,000 for a six-week project. The client accepted immediately — which she celebrated until a colleague mentioned that the client had budgeted $15,000 for the engagement and had expected to negotiate down to $10,000. She had left $6,000 to $11,000 on the table from her first client, based on a pricing decision made entirely from her fear of being told no.
 
 Three years later, Elena charges $18,000 to $24,000 for comparable engagements. Her close rate is lower than it was at $4,000, but her revenue per client is dramatically higher, her clients are higher-quality businesses with real strategic challenges, and her profitability has transformed her business from a financially stressful operation to a financially healthy one. The change was not in the quality of her work — that was always excellent. The change was in her willingness to charge for its actual value, grounded in a rigorous understanding of the economics of pricing.
@@ -137,4 +136,4 @@ Pricing is where economics and psychology meet, and understanding both is the pr
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

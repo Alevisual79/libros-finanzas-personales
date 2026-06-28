@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Camila's industry had changed more in the ten years since she had completed her formal education than it had in the twenty years before she began it. She was aware of this as a general fact. She was less certain how specifically to respond to it. Her knowledge base had expanded through ten years of professional experience; it had also, in some areas, become outdated in ways she could sometimes sense but could not always identify.
 
 The professionals she most admired in her field — the ones whose contributions to discussions seemed to draw on a wider and more current knowledge base than most — shared a visible practice: they were all, unmistakably, continuous learners. They read recent research. They attended events where practitioners from adjacent fields presented. They sought out colleagues whose expertise complemented their own gaps. They could cite specific, recent sources for their positions rather than relying on the received wisdom of their formative years.
@@ -161,4 +160,4 @@ This capacity does not require genius. It requires a habit. The habit requires o
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

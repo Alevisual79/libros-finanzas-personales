@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Jordan had been in Toronto for eight months when he noticed that loneliness was not what he had expected it to be.
 
 He had expected it to be about being alone — and he was sometimes alone, more than he had been in his previous city, in his previous life. But the loneliness he was experiencing was not reliably correlated with being alone. It was present sometimes at Friday evening parties, surrounded by people who were engaged in the animated social performance that parties require. It was absent on Saturday mornings when he was running alone through a park.
@@ -157,4 +156,4 @@ The question is whether you're willing to hear what it's saying.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

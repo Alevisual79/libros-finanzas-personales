@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Lower back pain is the leading cause of disability worldwide. At any given moment, approximately 540 million people are experiencing it. Most people will have at least one significant episode of back pain in their lifetime.
 
 For decades, the medical response to back pain was rest, imaging, medication, and surgery. The evidence has substantially revised this approach — often in counterintuitive directions. Understanding what the science actually shows about back pain is essential both for people currently experiencing it and for preventing future episodes.
@@ -217,4 +216,4 @@ Apply one key idea from this book this week. Health changes come from consistent
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

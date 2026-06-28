@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena perdio un trabajo que era central en su identidad y tardo dos años en entender que esa perdida había reordenado sus prioridades de una forma que no habría ocurrido de otra manera. Ruben tuvo un fracaso de negocio que le parecio catastrofico en el momento y que tres años después reconoce como el aprendizaje más valioso de su carrera. Isabel ha atravesado una enfermedad grave que cambio su relación con el tiempo, las relaciones, y lo que considera importante de formas que ninguna experiencia positiva habría producido. Los tres han aprendido algo que la psicología confirma: la adversidad, cuando se atraviesa de cierta manera, produce crecimiento que la comodidad no puede producir.
 
 ---
@@ -175,4 +174,4 @@ Isabel miro atrás, tres años después de la enfermedad, y reconoció con una c
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The 5K distance — 3.1 miles — sits at the intersection of accessible and meaningful. It is short enough that almost any healthy person can train for it within 8-12 weeks of starting from scratch. It is long enough to require real training, real commitment, and real accomplishment. More people have become runners through the Couch to 5K (C25K) concept than through any other structured running program.
 
 This book is the complete practical guide for becoming a runner from zero — not just finishing a 5K, but understanding the training principles that make it safe, effective, and sustainable.
@@ -214,4 +213,4 @@ Apply one key idea from this book this week. Health changes come from consistent
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena, Ruben e Isabel, los tres personajes que han acompañado esta colección completa a traves de sus cien libros, se preguntan, en una conversación compartida, como serán las relaciones humanas dentro de diez años. La respuesta, descubren juntos, depende en gran parte de las decisiones que cada persona, incluidos ellos mismos, tome hoy sobre como quiere relacionarse con la tecnología que continua transformando el panorama de la conexión humana.
 
 ---
@@ -155,4 +154,4 @@ El futuro de las relaciones humanas no lo decide la tecnología. Lo deciden las 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

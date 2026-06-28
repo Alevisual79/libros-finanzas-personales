@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Patrick had learned, at forty-two, that his mother had narcissistic personality disorder.
 
 The learning had happened not in the context of his mother's diagnosis — she had not been diagnosed, had not been in therapy, would have found the suggestion that she needed therapy evidence of some deficiency in the person making it — but in the context of his own therapy, where his therapist had gently introduced the clinical framework over several months as a way of helping Patrick understand the specific dynamics he had grown up with and was still navigating.
@@ -155,4 +154,4 @@ Compassion and self-protection are not opposites.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

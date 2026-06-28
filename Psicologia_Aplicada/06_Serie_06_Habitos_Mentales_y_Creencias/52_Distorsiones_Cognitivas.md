@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene amigos que se preguntan por qué siempre interpreta los eventos de la peor forma posible. Una reunión silenciosa se convierte en estoy siendo evaluado negativamente. Un mensaje sin respuesta se convierte en ya no le importo. Una crítica se convierte en soy un fracasado. Lo interesante es que Ruben sabe intelectualmente que probablemente no sea así. Pero el pensamiento aparece de todas formas y produce las mismas emociones que si fuera verdad. Estas son las distorsiones cognitivas: patrones sistemáticos de pensamiento que sesgan la interpretación de la realidad en direcciones predecibles. Este libro es para aprender a reconocerlos y a interrumpirlos antes de que produzcan el daño emocional habitual.
 
 ---
@@ -175,4 +174,4 @@ Ruben empezó a notar los patrones. Cada vez que el teléfono no sonaba, la lect
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

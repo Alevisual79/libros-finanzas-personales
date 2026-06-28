@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena tiene treinta y cuatro años y una relación que desde fuera parece estable. Por dentro, es una fuente constante de ansiedad: se preocupa cuando su pareja no responde mensajes rápido, analiza cada cambio de tono en una conversación buscando señales de que algo esta mal, necesita reaseguración frecuente de que la relación va bien, y se anticipa constantemente a la posibilidad del abandono aunque su pareja no ha dado ninguna señal real de querer irse. Su pareja la quiere. Elena no puede sentirlo de forma estable. Esta es la arquitectura de la ansiedad de apego.
 
 ---
@@ -175,4 +174,4 @@ Elena empezó a revelar su ansiedad relacional en terapia. Por primera vez, pudo
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

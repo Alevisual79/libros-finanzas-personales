@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos tiene un negocio online que no aparece en Google. Sus potenciales clientes buscan exactamente lo que el ofrece y el no aparece en ninguna de las búsquedas relevantes. Lucia tiene un blog con cien artículos que no genera trafico orgánico porque ninguno está optimizado para las búsquedas que su audiencia hace. Marcos tiene una web profesional con un buen diseño que aparece en la página tres de Google para las búsquedas de su tipo de servicio. Los tres comparten el mismo problema: tienen un activo digital que no está generando el trafico orgánico que podría. El SEO no es un lujo para empresas grandes. Es la herramienta que hace que el negocio sea visible para las personas que ya lo estan buscando.
 
 ---
@@ -175,4 +174,4 @@ Lucia miro el informe de Google Analytics de su blog un año después de haber i
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The voice in Camila's head had a specific tone and a specific vocabulary. It said "you should have known better" after mistakes. It said "they're all watching" before presentations. It said "you'll never be as good as" before comparisons. It had been saying these things, in this tone, for as long as Camila could remember. It was so constant that it had become invisible — not a voice she heard but the medium through which she heard everything.
 
 It took a moment of genuine crisis — a critical performance review that blindsided her, followed by three months of depression that finally sent her to a therapist — for Camila to separate herself from the voice long enough to hear it clearly. What she heard was a dialogue that would have appalled her if a colleague had directed it at a team member. It was relentlessly critical, frequently catastrophizing, selective in its evidence, and systematically undermining of her confidence in contexts where confidence was most needed.
@@ -165,4 +164,4 @@ The voice she has now is not the one she was born with. It is the one she made. 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

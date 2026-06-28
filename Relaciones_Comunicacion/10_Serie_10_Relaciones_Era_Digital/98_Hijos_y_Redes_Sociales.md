@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena no tiene hijos, y observa con cierta distancia el dilema constante de su amiga Isabel, quien tiene dos adolescentes y enfrenta un debate diario, sin ganadores claros, sobre el uso de redes sociales de sus hijos. No hay consenso establecido sobre las reglas correctas, ni entre padres, ni entre expertos, ni siquiera dentro de la propia experiencia de Isabel de un dia al siguiente.
 
 ---
@@ -155,4 +154,4 @@ No puedes proteger a los adolescentes de las redes sociales. Puedes prepararlos 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

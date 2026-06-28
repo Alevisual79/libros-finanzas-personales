@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Camille had a list.
 
 She had not made the list intentionally. It had accumulated, across four months of keeping a journal that her therapist had suggested, in the form of the specific moments she had recorded: the conversation on their third anniversary that had left her feeling like she had said something wrong without being sure what it had been; the evening she had come home excited about a promotion and had spent the next two hours reassuring her partner about his own career while her news waited; the way the dinner plans she had made with a friend had needed to be unmade not because her partner had objected directly but because the atmosphere that had appeared after she mentioned them had made the evening feel like a verdict.
@@ -155,4 +154,4 @@ The second hardest part is knowing what to do once you do.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

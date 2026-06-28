@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Este es el último libro de la colección psicología Aplicada. Elena, Ruben, e Isabel han atravesado con nosotros diez series de diez libros: la mente y como funciona, la ansiedad y los miedos, la autoestima, las emociones, el trauma, los hábitos mentales, la depresión, la personalidad, la influencia social, y el crecimiento personal. Han aprendido, han cambiado algunos de sus patrones, han entendido mejor por qué hacen lo que hacen, y han encontrado herramientas que les permiten funcionar mejor. Este último libro es el más ambicioso de la colección: no es sobre una habilidad específica sino sobre la visión de conjunto. El crecimiento personal no es un proyecto con un fin sino el camino de toda una vida. Este libro es sobre ese camino.
 
 ---
@@ -179,4 +178,4 @@ Y el territorio seguia siendo suyo. Siempre lo había sido.
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

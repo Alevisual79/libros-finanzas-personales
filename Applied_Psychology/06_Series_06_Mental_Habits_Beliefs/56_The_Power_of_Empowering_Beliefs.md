@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Serena was not someone anyone had ever called naturally talented. Her early academic record was mediocre, her early athletic performance unremarkable, her early social confidence fragile. What made her trajectory unusual — the PhD in mathematics, the competitive ultramarathons, the reputation as someone who could be counted on in precisely the situations that required steadiness — was not the discovery of hidden talent but something else: a shift, occurring in early adulthood through a combination of encounters and deliberate cultivation, in what she believed about herself and what was possible for her. The shift was not from false beliefs to rose-colored ones. It was from beliefs that constrained possibility to beliefs that expanded it — while remaining, in both cases, genuinely held.
 
 Empowering beliefs are the cognitive counterparts to the limiting beliefs examined in Book 51 — the self-relevant beliefs that expand rather than constrain the range of what a person considers possible, attempts, and persists at. If limiting beliefs are the architecture of self-imposed ceiling, empowering beliefs are the architecture of genuine possibility. The research on their development, their effects, and their relationship to achievement is among the most robust in applied psychology. Understanding what empowering beliefs are, how they form, how they can be cultivated, and how they produce their effects is the subject of this book.
@@ -133,4 +132,4 @@ Empowering beliefs are not the same as believing you can do anything. They are t
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

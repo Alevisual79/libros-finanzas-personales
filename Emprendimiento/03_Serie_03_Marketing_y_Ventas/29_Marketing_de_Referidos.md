@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos ha descubierto que sus mejores clientes llegaron de otros clientes. Lucia sabe que los referidos son su mejor canal pero no hace nada activo para generarlos. Marcos viene del mundo corporativo donde los programas de referidos eran una iniciativa de marketing que alguien gestionaba. Los tres comparten la misma oportunidad ignorada: el cliente satisfecho que ya tiene es el activo de marketing más poderoso que puede tener un negocio, y la mayoría de los emprendedores no hacen casi nada para activarlo sistemáticamente. El marketing de referidos no ocurre por accidente cuando el producto es bueno. Ocurre por diseño cuando el emprendedor lo construye.
 
 ---
@@ -175,4 +174,4 @@ Marcos implementó el programa de referidos de socios como primera iniciativa: i
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

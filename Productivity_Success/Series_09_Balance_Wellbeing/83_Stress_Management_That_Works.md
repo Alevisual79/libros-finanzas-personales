@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sarah's first response to the most stressful periods of her professional life had been the same as most people's: the attempt to manage stress by eliminating the stressors. When the stressors were genuinely removable, this worked. When they were not — and in a demanding professional context, most of the most significant stressors are not removable in the short term — the strategy of waiting for the stress to go away before addressing it had produced the specific outcome that waiting always produces: the stress had continued, and the costs of the unmanaged stress had accumulated.
 
 The research on stress management has evolved substantially from the earlier understanding that stress is primarily a problem to be eliminated. The contemporary evidence points to a more nuanced picture: some stress is genuinely harmful and should be reduced; some stress is genuinely productive and should be channeled; and the most powerful stress management interventions are not the elimination of stressors but the development of the specific skills and practices that alter the body's response to stressors and build the resilience that allows the professional to sustain high performance under challenging conditions.
@@ -143,4 +142,4 @@ Learn the practices. Apply them consistently. Convert the stress into capability
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Marcus launched his marketplace for independent fitness instructors and fitness seekers, he thought the product was simple: connect people who wanted to teach fitness classes with people who wanted to take them. It turned out to be the hardest product he had ever built.
 
 The difficulty wasn't technical. The marketplace platform was relatively straightforward to develop. The difficulty was the two-sided cold-start problem: fitness seekers wouldn't join a platform with few instructors; instructors wouldn't list their classes on a platform with few seekers. To attract either side, he needed the other side. To get the other side, he needed the first side. The chicken-and-egg problem that every platform entrepreneur eventually encounters had arrived on his first day of launch.
@@ -149,4 +148,4 @@ The cold-start problem had been Marcus's hardest business challenge and his most
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

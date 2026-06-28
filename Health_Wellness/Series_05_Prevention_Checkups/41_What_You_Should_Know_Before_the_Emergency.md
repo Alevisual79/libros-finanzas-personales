@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel's mother died at 67 from a stroke that might have been preventable. Not because the medical care was inadequate — the paramedics and hospital team were excellent. But because no one in the family knew her medication list; because her primary care records weren't at the hospital she was taken to; because she hadn't mentioned the transient weakness episodes she'd had over the previous three weeks because she thought they were stress.
 
 Medical emergencies happen to prepared people and unprepared people alike. The difference is what happens in the critical hours after the emergency begins.
@@ -283,4 +282,4 @@ Medical emergencies are, by definition, unplanned. The preparation for them is e
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

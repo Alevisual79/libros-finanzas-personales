@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben's first year as a full-time freelancer produced an unpleasant April discovery: he owed $22,000 in federal and state taxes that he hadn't set aside.
 
 He had thought about income taxes — he knew his freelance income was taxable. What he hadn't fully calculated was the self-employment tax: the 15.3% levy on net self-employment income that represents the combined employee and employer share of Social Security and Medicare taxes. As an employee, his half (7.65%) had been automatically withheld from each paycheck; his employer paid the other half invisibly. As a freelancer, he paid both halves.
@@ -265,4 +264,4 @@ The discipline takes one month to establish. The savings and peace of mind last 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

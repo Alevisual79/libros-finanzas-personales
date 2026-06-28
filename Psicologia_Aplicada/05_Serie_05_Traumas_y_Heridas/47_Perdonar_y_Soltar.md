@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben cargaba con el rencor hacía su padre como si fuera una deuda pendiente que alguien tenía que saldar. La idea de perdonarle le producia algo parecido a la injusticia: si perdonaba, borraba lo que había ocurrido, lo convertia en aceptable, se rendia. Nadie le había explicado que el perdon psicológico no es ninguna de esas cosas. No es declarar que lo que ocurrio estuvo bien. No es reconciliarse con quien causo el daño. No es olvidar. Es elegir no cargar más con la herida como arma que senala al responsable, y en ese proceso, liberar los recursos emocionales que esa carga consume. El perdon es un acto de autoliberación, no de absolución del otro.
 
 ---
@@ -175,4 +174,4 @@ Ruben escribió la carta a su padre. No la envió. La escribió para el mismo: l
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

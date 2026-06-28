@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabelle had watched her parents' marriage from a front-row seat for twenty-five years, and what she had taken from it was a specific, functional model: a marriage was a logistics partnership, a child-rearing arrangement, a financial unit. Her parents were not unkind to each other. They were simply not, as far as she could observe, genuinely interested in each other. The marriage worked. It did not, particularly, flourish.
 
 She had spent most of her adult marriage avoiding the specific failure mode she had observed — the mutual disengagement that had produced, in her childhood home, a kind of comfortable cohabitation that was something less than what a marriage could be. What she had been slower to develop was a positive vision: not just the avoidance of the wrong thing, but the deliberate construction of the right one.
@@ -149,4 +148,4 @@ It is built in those moments, slowly and durably.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

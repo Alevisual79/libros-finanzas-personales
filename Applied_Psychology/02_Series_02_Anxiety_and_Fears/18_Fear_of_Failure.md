@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Zack had been working on the same novel for eleven years. He had 340 pages of draft, two complete alternative openings, detailed character notes that ran to sixty pages, and an outline for the remaining third that he had rewritten four times. He had not shown any of it to anyone. When pressed by friends who knew about the project, he described himself as a perfectionist who wanted to get it right before sharing. The more honest answer, which he arrived at in therapy at 41, was simpler: as long as the novel remained unfinished and unread, it could not fail. Incompletion was the strategy. The fear of failure was the engine.
 
 Fear of failure — atychiphobia in its clinical manifestations, but more commonly a pervasive motivational pattern that falls short of clinical disorder — is among the most significant psychological barriers to achievement, creativity, and personal development. It is, paradoxically, most prevalent in people with significant capability and ambition: people for whom failure feels most consequential, most visible, and most personally defining. The person who doesn't try cannot fail; the cost of safety is the sacrifice of everything that requires exposure. Understanding the psychology of fear of failure — its mechanisms, its effects, and the evidence-based approaches to addressing it — is among the most practically significant things a psychologically informed person can do.
@@ -133,4 +132,4 @@ The only way to fail at nothing is to attempt nothing. The only way to guarantee
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

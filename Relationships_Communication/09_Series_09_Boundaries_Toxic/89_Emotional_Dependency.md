@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sana had come to understand, after the friendship ended and after several months of processing, that what she had been calling her "deep capacity for connection" had also been something else.
 
 The capacity for connection was real: she was genuinely interested in people, genuinely moved by their experience, genuinely committed to the people she cared about. But the specific way this capacity operated — the specific quality of her engagement with certain people in her life — had a feature that was not simply connection.
@@ -155,4 +154,4 @@ Not relationships you need.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

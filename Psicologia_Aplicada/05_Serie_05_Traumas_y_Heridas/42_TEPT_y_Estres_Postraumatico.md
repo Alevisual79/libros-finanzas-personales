@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena fue en un accidente de coche hace dos años. Fisicamente se recupero sin secuelas. Pero hay cosas que no han vuelto a ser iguales: no puede ir de pasajera sin tensarse completamente, los frenazos bruscos la disparan, hay noches en que se despierta con el corazón acelerado reviviendo el impacto. Su médico le dijo que era normal después de un accidente. Pero dos años después, las mismas reacciones siguen presentes con casi la misma intensidad. No se trata de que sea débil o de que no haya intentado superarlo. Se trata de que su sistema nervioso todavía no ha procesado completamente lo que ocurrio, y que ese procesamiento no ocurre automáticamente con el paso del tiempo.
 
 ---
@@ -175,4 +174,4 @@ Elena pudo ir de copiloto en el coche de su mejor amiga sin tensarse. Fue la pri
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

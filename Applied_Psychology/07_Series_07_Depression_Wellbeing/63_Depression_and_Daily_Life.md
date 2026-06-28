@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The clinical literature describes depression in diagnostic criteria, neurobiological mechanisms, and treatment outcomes. What it less fully conveys is what depression actually does to a day — to the specific, ordinary texture of hours and decisions and interactions that constitute a human life. For Thomas, who had been managing a depressive disorder for three years, depression was most concretely the shower he couldn't bring himself to take, the emails he didn't answer, the friends he stopped calling because the effort of the call exceeded whatever he might get from it, the food that had no taste, the bed that he returned to at midday not because he was physically tired but because there seemed to be no more reason to be upright. The clinical descriptions were accurate; they just didn't fully capture what it was like to try to construct a functional day out of the materials that depression left.
 
 The daily management of depression — the specific practices, accommodations, decisions, and social navigations that constitute living with depression — is a distinct and underaddressed domain between the clinical and the personal. This book addresses that domain: the concrete reality of depression's effects on daily functioning, the strategies that evidence and experience support for managing those effects, and the social context of living with a condition that is real but often invisible.
@@ -137,4 +136,4 @@ Depression affects daily life in specific, concrete, often exhausting ways. The 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

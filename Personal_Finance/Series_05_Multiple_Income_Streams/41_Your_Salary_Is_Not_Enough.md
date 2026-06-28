@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena's salary is $78,000 a year. It arrives reliably every two weeks. It funds her life: her apartment, her food, her savings, her social life, her Roth IRA contributions.
 
 She has never thought of her salary as a risk. It is the constant in her financial life, the thing she plans around. But when her department went through restructuring — not affecting her, but affecting two colleagues — she began thinking about it differently.
@@ -204,4 +203,4 @@ Start somewhere. Start small. Start now.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

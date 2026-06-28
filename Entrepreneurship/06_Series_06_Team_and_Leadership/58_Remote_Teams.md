@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Amy's digital marketing consultancy went fully remote in 2020, the transition was forced and disorganized. Computers were moved to home offices, Zoom accounts were created, and the team that had worked together in an open-plan space for three years suddenly found itself distributed across seven different home environments. In the first month, the team's output maintained approximately its previous level — out of sheer momentum and goodwill. By month three, the problems that remote work revealed were undeniable: three team members who had been reliable contributors in the office became difficult to reach; the collaborative energy that had made the team creative and innovative felt absent; and the interpersonal tensions that had been manageable in person became acute in a text-based communication environment.
 
 Amy spent the following eighteen months learning, through experience and deliberate research, what it actually takes to build and lead a high-performing remote team. The organization she had after that learning was not the same as the organization she had had in the office, translated to a different medium. It was a genuinely different kind of organization, built around different practices, different communication norms, and a different understanding of what management means when the people being managed are not in the same room.
@@ -137,4 +136,4 @@ Remote work doesn't make good management unnecessary; it makes good management n
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel duerme seis horas la mayoría de las noches. No por falta de tiempo sino porque asume que con seis horas es suficiente. Es uno de los errores más costosos para su salud mental, aunque ella no lo sabe. La investigación sobre el sueño de las últimas dos décadas ha producido una de las inversiones más dramaticas en la comprensión de un proceso biológico: lo que se pensaba que era tiempo muerto resulta ser el período de mayor actividad de mantenimiento del cerebro, con consecuencias para la salud mental que la mayoría de las personas no estan considerando. Este libro es sobre esa investigación y lo que implica para la vida cotidiana.
 
 ---
@@ -175,4 +174,4 @@ Isabel apago el móvil a las diez de la noche durante treinta dias. Los primeros
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

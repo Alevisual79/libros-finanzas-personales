@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Amara first heard that the feeling of "falling in love" was partly a dopamine and norepinephrine surge in the brain's reward circuitry, she was insulted. Love, reduced to neurochemistry? It felt like being told that a symphony was just vibrating air molecules. But as she studied neuroscience further, something shifted. Knowing that her terror before public speaking was a primitive threat-detection circuit firing — the same one that once protected humans from predators — didn't make the fear smaller. It made it stranger and more interesting. It became something she could work with rather than be overwhelmed by.
 
 Neuroscience is the study of the nervous system, and in the past three decades, advances in brain imaging — particularly functional MRI — have transformed what scientists can observe about living, thinking, feeling human brains. We can now watch which regions activate when someone experiences rejection, makes a moral decision, or hears their name called in a crowded room. The findings are not always what common sense would predict, and they have profound implications for how we understand ourselves, our relationships, and the choices we make every day.
@@ -139,4 +138,4 @@ Neuroscience does not diminish human experience by explaining it. Knowing that l
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

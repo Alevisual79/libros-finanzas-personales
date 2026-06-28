@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos tiene conocimiento experto en su campo pero no sabe como convertirlo en algo vendible a escala. Lucia tiene un curso online que ha lanzado dos veces y ninguna ha funcionado como esperaba. Marcos tiene años de experiencia corporativa que cree que podría ser valiosa para otros emprendedores pero no sabe como empaquetarla. Los tres comparten la misma oportunidad: el conocimiento que ya tienen puede venderse de forma que genera revenue sin necesitar de su presencia activa en cada venta. Pero la mayoría de los cursos online fracasan. Los que funcionan tienen algo en común: han validado que hay gente dispuesta a pagar antes de crearlos.
 
 ---
@@ -175,4 +174,4 @@ Carlos lanzo su primer curso online con doscientas personas en la lista de email
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

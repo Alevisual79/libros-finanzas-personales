@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene una historia relacional que preferiria no haber vivido: relaciones que la dañaron, decisiones que en retrospectiva lamenta, períodos enteros de su vida que asocia con dolor más que con crecimiento. La cuestión, descubre con el tiempo, no es borrar esa historia ni fingir que no ocurrio. Es encontrar la forma de integrarla en quien es hoy, sin que la defina completamente ni la mantenga prisionera de un pasado que ya no puede cambiar.
 
 ---
@@ -155,4 +154,4 @@ Tu historia relacional no es tu condena. Es el material con el que construyes qu
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

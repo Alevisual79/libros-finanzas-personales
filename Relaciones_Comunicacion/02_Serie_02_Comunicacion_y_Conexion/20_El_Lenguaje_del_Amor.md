@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva cinco años con su pareja. Le cocina, le plancha la ropa cuando tiene mucho trabajo, organiza las vacaciones para que el no tenga que preocuparse por nada. Y aun así su pareja dice que a veces siente que Elena no le quiere de verdad. Elena no entiende como puede sentir eso si todo lo que hace es para el.
 
 El problema no es que Elena no quiera a su pareja. El problema es que Elena habla un idioma que su pareja no escucha.
@@ -185,4 +184,4 @@ No cambiaron lo que sentían el uno por el otro. Cambiaron cómo lo decían. Y e
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

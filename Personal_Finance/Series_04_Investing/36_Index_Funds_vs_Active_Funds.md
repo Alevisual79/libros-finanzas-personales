@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Elena's brother-in-law heard she was investing in index funds, he was surprised. "Isn't that just buying everything? You could do so much better if you picked the right stocks or found a good fund manager."
 
 He wasn't being dismissive — he genuinely believed this. His own investments were in actively managed funds and a few individual stocks he followed. He checked his portfolio daily, read analyst reports, and considered himself an engaged investor.
@@ -173,4 +172,4 @@ This is not an argument against effort, intelligence, or engagement with your in
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

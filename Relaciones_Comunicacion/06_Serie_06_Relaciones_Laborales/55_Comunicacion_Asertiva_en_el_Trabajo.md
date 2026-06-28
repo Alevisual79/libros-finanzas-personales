@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben dice que si a todo en el trabajo y luego se queja por dentro, acumulando resentimiento silencioso que nunca se traduce en cambio real. Isabel dice exactamente lo que piensa sin ningún filtro, y frecuentemente hiere a las personas sin haber tenido esa intención. Los dos, de formas opuestas, necesitan exactamente lo mismo: desarrollar la asertividad que se encuentra en el punto medio entre lo que les falta a cada uno.
 
 ---
@@ -155,4 +154,4 @@ La asertividad no es agresividad con buenas palabras. Es honestidad con respeto.
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel dirige el departamento de recursos humanos de una empresa mediana. Su pareja es consultor independiente con jornadas que se extienden hasta la noche. Entre los dos, hay semanas en que se ven menos de tres horas despiertas juntos. Aman su trabajo. Aman su relación. Y no saben como tener las dos cosas al mismo tiempo sin que alguna se resienta.
 
 No estan solos. La tensión entre la carrera profesional y la vida de pareja es una de las fuentes más comunes de insatisfacción relacional en las sociedades modernas, donde el trabajo ha pasado a ocupar un espacio mental y temporal que antes ocupaba la familia.
@@ -165,4 +164,4 @@ No eliminaron la presión del trabajo. Pero dejaron de permitir que esa presión
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

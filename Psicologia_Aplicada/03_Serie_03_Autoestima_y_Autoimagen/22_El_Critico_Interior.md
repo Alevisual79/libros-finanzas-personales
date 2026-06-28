@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene una voz en su cabeza que no descansa. Cuando termina un proyecto, le dice que podría haber sido mejor. Cuando tiene éxito, le advierte que fue suerte y que la próxima vez no lo lograra. Cuando comete un error, no lo deja pasar. Esta voz, que Ruben confunde con autoexigencia o con realismo, es su crítico interior. Y la distinción más importante que puede aprender sobre ella es esta: no es la verdad sobre quien es. Es un hábito de pensamiento aprendido que opera con independencia de los hechos.
 
 ---
@@ -175,4 +174,4 @@ Ruben empezó a notar el crítico interior en lugar de ser el crítico interior.
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

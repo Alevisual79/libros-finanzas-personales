@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena ha notado algo desconcertante: es una persona diferente dependiendo del grupo con quien este. Con ciertos compañeros de trabajo, es más creativa y más directa; con otros, más callada y menos propensa a disentir. Con ciertos amigos, es más vulnerable; con otros, más protegida. Y ha presenciado como grupos enteros de personas razonables toman decisiones que individualmente ninguno de ellos habría tomado. Esto no la convierte en inconsistente: la convierte en humana. El comportamiento en grupo es uno de los fenómenos más potentes y menos comprendidos de la psicología. Este libro es sobre ese poder y como navegar sus efectos.
 
 ---
@@ -175,4 +174,4 @@ Elena cambio el formato de las reuniones de equipo. Empezo cada una con una preg
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

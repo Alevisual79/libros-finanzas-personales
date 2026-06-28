@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nutrition science has long asked what we eat. Chrononutrition asks when we eat — and has found that the timing of food intake interacts with circadian biology to produce health effects that are surprisingly independent of dietary composition.
 
 The same meal can produce meaningfully different metabolic responses depending on whether it is eaten at 8am or 8pm. Breakfast, long dismissed as an optional habit preference, turns out to have a specific metabolic architecture. Eating at night — particularly late into the evening — has distinct metabolic liabilities.
@@ -219,4 +218,4 @@ Chrononutrition is a young science with an increasingly solid evidence base — 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

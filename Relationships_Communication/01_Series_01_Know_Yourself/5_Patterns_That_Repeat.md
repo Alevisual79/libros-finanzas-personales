@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Tom had been in three significant relationships before the one he was in now, and all three had ended in a version of the same way: a period of increasing emotional distance on his part, a partner who became more anxious and demanding as the distance grew, and a final conversation in which he was accused of emotional unavailability and she was described as exhausting. He had, after each ending, concluded that he had chosen the wrong person. It had not yet occurred to him that he had chosen the same dynamic three times.
 
 Patricia, in retrospect, could trace her accommodation pattern through her marriage, her friendships, her relationships with colleagues, and her relationship with her mother. She had been managing other people's comfort at the expense of her own for so long and in so many contexts that it no longer registered as a choice. It registered as who she was.
@@ -151,4 +150,4 @@ The work is worth doing. It is, in the most literal sense, the work of becoming 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

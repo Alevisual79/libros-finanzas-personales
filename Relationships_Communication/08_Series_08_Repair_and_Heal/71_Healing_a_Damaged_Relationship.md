@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had been married to Rachel for eleven years when she told him about the affair.
 
 It had lasted seven months and had ended, she said, not because she had been discovered but because she had chosen to end it — because she had decided she wanted the marriage and was telling him now as part of that decision. She was telling him not to destroy what they had but in the hope that honesty might be the beginning of something more real than what they had been building without it.
@@ -157,4 +156,4 @@ Know which of these you need first.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

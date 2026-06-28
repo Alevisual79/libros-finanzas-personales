@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena got the call on a Thursday afternoon. Her company was doing a layoff. Her position was eliminated effective immediately. She had two weeks of severance per year of service — six years meant twelve weeks. After that, she was on her own.
 
 She'd read about job loss, thought abstractly about financial resilience, and had a solid emergency fund. But the actual experience was different from anything she'd prepared for mentally. It was the combination of financial concern, identity disruption, and the cognitive load of every decision suddenly being uncertain that made it genuinely hard.
@@ -225,4 +224,4 @@ Build the fund. Know the plan. Then you can face job loss not as a catastrophe b
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

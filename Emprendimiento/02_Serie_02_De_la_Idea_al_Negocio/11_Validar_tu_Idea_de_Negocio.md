@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos lleva seis meses trabajando en su producto antes de hablar con un solo cliente potencial. Lucia tiene una idea que le parece brillante y que tres amigos le han dicho que es brillante también. Marcos ha invertido sus ahorros en desarrollar una plataforma tecnologica para un mercado que asume que existe. Los tres estan en el punto más peligroso del emprendimiento: enamorados de su idea antes de saber si el mercado la quiere. La mayoría de los fracasos emprendedores no ocurren porque el fundador sea poco inteligente o poco trabajador. Ocurren porque el producto se construye antes de validar que hay suficiente gente dispuesta a pagar por el. Este libro es sobre como saber si tu idea tiene mercado antes de invertir todo lo que tienes.
 
 ---
@@ -175,4 +174,4 @@ Carlos tuvo la primera conversión con un potencial cliente en la cuarta semana 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

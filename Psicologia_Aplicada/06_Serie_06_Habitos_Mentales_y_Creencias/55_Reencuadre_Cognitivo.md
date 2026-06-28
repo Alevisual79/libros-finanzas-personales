@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena ha estado interpretando su tendencia a perfeccionar el trabajo antes de mostrarlo como irresponsabilidad e indecisión. Hasta que alguien le dijo: eso no es irresponsabilidad, es exigencia estetica. La situación no cambio. Pero algo cambio en como Elena se relacionaba con ella. Eso es el reencuadre cognitivo en su forma más sencilla: un cambio en la perspectiva desde la que se interpreta una situación que no cambia la situación pero cambia radicalmente la experiencia emocional de ella. Este libro explora como funciona este proceso, por qué es tan poderoso, y como desarrollarlo como habilidad deliberada.
 
 ---
@@ -175,4 +174,4 @@ Elena llevo semanas viendo su perfeccionismo cómo un fallo. Un dia, en lugar de
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Aerobic exercise has dominated public health fitness messaging for decades. The advice has been: walk more, run, bike, swim — do cardio to protect your heart and control your weight. This advice isn't wrong. But it is incomplete in a way that matters enormously for long-term health, particularly after age 40.
 
 Muscle is not just about aesthetics or athletic performance. It is metabolic tissue — the largest site of glucose disposal in the body, a producer of beneficial hormones, and the determinant of physical independence in later life. Losing it is a health crisis. Building it is one of the most powerful health interventions available.
@@ -209,4 +208,4 @@ Apply one key idea from this book this week. Health changes come from consistent
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

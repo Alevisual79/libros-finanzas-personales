@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For the first two years of her sustainable skincare brand, Leila relied entirely on organic marketing: content, community, and referrals. By the end of year two, she had $180,000 in annual revenue and a growing email list of 4,200 engaged subscribers. She was proud of what she had built without paid advertising — and she was worried that organic growth was plateauing. The same referral network was generating the same volume of new customers it had generated six months earlier; the content was attracting the same audience it had been attracting; the growth curve was flattening.
 
 She hired a digital advertising consultant for a one-month audit and strategy session. The consultant's finding: Leila had built a business with excellent product-market fit and strong customer economics — high lifetime value, strong retention, genuine brand affinity — that was leaving significant growth potential on the table by not amplifying its organic success with paid reach. With the right customer acquisition cost economics, paid advertising could profitably accelerate what organic marketing had established. The challenge was not whether to advertise but how to do it in a way that maintained the brand's integrity and financial health.
@@ -137,4 +136,4 @@ Digital advertising is not a shortcut to building a business, and it is not the 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

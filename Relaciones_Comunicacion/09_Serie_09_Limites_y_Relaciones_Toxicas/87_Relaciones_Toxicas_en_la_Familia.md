@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena tiene una madre que la quiere, sin duda, a su manera particular. Esa manera, sin embargo, la daña consistentemente: críticas constantes disfrazadas de preocupación, control sobre decisiones que deberían ser completamente suyas, una invalidación sistemática de sus sentimientos. Nadie en su entorno le dice abiertamente que ese amor, a pesar de ser genuino en su origen, no es saludable en su expresión. Todos, en cambio, le recuerdan simplemente que es su madre, como si ese hecho biológico resolviera automáticamente la pregunta sobre como debería tratarla.
 
 ---
@@ -155,4 +154,4 @@ La familia no esta por encima del respeto. No tienes que soportar el daño solo 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

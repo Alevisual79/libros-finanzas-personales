@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 At forty-four, after twenty-two years of building his event production company from a two-person operation to a firm of sixty-five, Richard sold the business for a price that exceeded his most optimistic projections. For months before the sale closed, he had imagined the freedom: to travel, to pursue interests he had deferred, to exist without the constant demands of the business he had poured most of his adult life into.
 
 Three months after the sale closed, he was more miserable than he had been in years. The freedom he had anticipated produced not satisfaction but disorientation. His days, previously dense with purpose and urgency, were empty in ways that disturbed him. The social identity that had organized his interactions — "I'm Richard, I run an event production company" — was gone. The professional relationships that had filled his relational world were suddenly absent. The sense of building something, the feeling of momentum and progress that had characterized his working days for two decades, was simply not there.
@@ -139,4 +138,4 @@ Richard's wife had said the most clarifying thing anyone had said to him: the pe
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

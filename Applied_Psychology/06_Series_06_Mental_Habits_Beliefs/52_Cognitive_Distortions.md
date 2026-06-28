@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel's thoughts about herself were not random. They followed patterns — patterns she could not see while she was inside them but that her therapist eventually helped her map with precision. When something went wrong, she always concluded it would last forever and affect everything. When something went right, she found explanations for why it didn't count. She interpreted neutral comments as evidence that people disliked her. She felt responsible for events she had had no control over. She held herself to standards that she never applied to anyone else. These were not failures of intelligence — Isabel was, by most measures, a highly intelligent person. They were failures of a different kind: systematic errors in reasoning that she had been running for so long that they had become invisible as reasoning and were experienced simply as reality.
 
 Aaron Beck's identification of cognitive distortions — systematic patterns of faulty thinking that maintain emotional distress — was one of the most influential contributions of the cognitive behavioral revolution in psychology. Beck's original observations, made in the clinical treatment of depressed patients, documented that depression was not only characterized by negative emotions but by specific, identifiable, and correctable errors in information processing. His student David Burns subsequently catalogued these errors in terms accessible to general audiences, and the taxonomy of cognitive distortions has become one of the most widely used frameworks in applied psychology. Understanding them — not as abstract categories but as living patterns of one's own mental processing — is the beginning of the most direct route to changing one's emotional life.
@@ -137,4 +136,4 @@ Cognitive distortions are not signs of stupidity or emotional weakness. They are
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

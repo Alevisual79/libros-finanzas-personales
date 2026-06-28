@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Intermittent fasting (IF) — various patterns of cycling between periods of eating and not eating — has become one of the most discussed dietary approaches of the past decade. Driven by impressive animal studies, a cascade of popular books, and genuine human clinical data, IF has attracted both enthusiasts who claim transformative effects and critics who argue it offers no advantages over standard caloric restriction.
 
 The scientific truth is more nuanced than either position. This book presents the current state of intermittent fasting research — what is well-established, what is preliminary, what is likely overstated, and how individuals with different health profiles should approach this evidence.
@@ -212,4 +211,4 @@ Intermittent fasting is a legitimate dietary approach with real evidence behind 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sofia had managed technology teams for eleven years and had strong opinions about talent. In her view, some people had it and some people didn't — and the job of a good manager was to quickly identify which was which and act accordingly. She cultivated her A-players, gave them the interesting work, and managed her B-players with patience but limited investment.
 
 The view felt empirically grounded. The A-players performed better. The B-players didn't. Categorize, allocate, optimize.
@@ -167,4 +166,4 @@ The growth mindset is harder and slower. It requires maintaining uncertainty abo
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

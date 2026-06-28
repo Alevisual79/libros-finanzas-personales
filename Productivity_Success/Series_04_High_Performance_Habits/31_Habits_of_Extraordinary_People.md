@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The biographies of exceptional performers reveal a persistent and somewhat deflating pattern: the people who produce consistently extraordinary work are rarely the ones who were most naturally gifted in their domain. They are, more often, the ones who did certain things every day, consistently, year after year, without exception.
 
 Marcus had read enough of these biographies to notice the pattern. Darwin's daily walking. Darwin's daily notebooks. Darwin's regular correspondence. Darwin's deliberate rest. The extraordinary intellectual output — the insight that took twenty years to develop fully — was not the product of occasional brilliance but of daily practice maintained over decades. The habits were the genius, or at least the infrastructure within which the genius could function.
@@ -159,4 +158,4 @@ The design of the performance habit system is the beginning. The daily practice 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

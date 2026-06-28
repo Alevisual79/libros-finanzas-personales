@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 At a dinner party, someone asked Jonathan what it was like to run his own business. He gave the answer he always gave: it was rewarding, challenging, and something he wouldn't trade. The answer was true, as far as it went.
 
 What he didn't say was that the specific loneliness of being the founder — the person at the top of the decision hierarchy, without a peer who fully understood his situation, who couldn't share the full truth of his concerns with his team, his clients, or even his family without risking their confidence in the business — had been a consistent, significant feature of his experience for the six years since he had started the company.
@@ -141,4 +140,4 @@ Jonathan had always given the party answer: it's rewarding, challenging, and som
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

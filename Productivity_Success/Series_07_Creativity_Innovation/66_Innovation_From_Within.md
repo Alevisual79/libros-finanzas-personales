@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had been working for the same organization for six years when she had the idea that she believed could change the company's approach to a significant operational challenge. The idea was specific, grounded in her deep familiarity with the operational context, and supported by evidence she had gathered informally over the previous year. She was convinced it would work.
 
 What she did not know was how to move the idea from her private conviction through the organizational system to the point where it could be tested. She had heard the organization's verbal commitment to innovation; she had seen the innovation suggestion box that existed primarily as an organizational morale signal; and she had observed enough previous idea-to-implementation attempts to know that good ideas died between the having and the doing at a rate that seemed to exceed their survival.
@@ -159,4 +158,4 @@ The intrapreneur is the organizational professional who learns to put these toge
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

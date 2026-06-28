@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For the first five years of her digital marketing agency, Leah ran the business on talent: she hired exceptional people, gave them significant autonomy, and trusted that their skills and professionalism would produce excellent work. The approach worked beautifully. Her team was brilliant, her clients were satisfied, and her reputation in the industry was strong.
 
 When she grew from twelve to twenty-two people over eighteen months, the talent-based model's fragility became apparent. New hires were good but not exceptional; even the exceptional ones needed time to learn the specific expectations of her clients and the particular quality standard her brand promised. More significantly, the ten different account managers on her team were all doing their jobs differently — different reporting formats, different client communication cadences, different creative briefing processes — and the inconsistency was beginning to show in client satisfaction scores that had been uniformly high and were now variable.
@@ -139,4 +138,4 @@ Leah's talent-based model had worked beautifully until it didn't. The processes 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

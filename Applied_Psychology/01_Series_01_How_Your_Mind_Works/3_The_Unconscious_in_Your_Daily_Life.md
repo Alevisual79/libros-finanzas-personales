@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Daniel had always thought of himself as a rational man. He chose his career based on a careful analysis of his strengths. He married his wife after a deliberate period of reflection. He prided himself on his ability to separate emotion from judgment. Then, in a seminar on implicit attitudes, he took a version of the Implicit Association Test — a computer-based task measuring the strength of mental associations — and discovered that he held strong unconscious biases that contradicted his conscious beliefs about equality. He was shaken. Not because the test was necessarily right in every detail, but because it forced open a question he had never seriously entertained: how much of what he did was actually chosen?
 
 The unconscious is not the dramatic, symbolic territory of Freudian dreams and repressed desires, though those ideas capture something real. It is something both more mundane and more pervasive: the vast, efficient machinery of mental processes that operate below the threshold of conscious awareness and that shape perception, emotion, judgment, and behavior in ways that conscious introspection cannot fully access or correct. Psychologists estimate that the unconscious processes approximately 11 million bits of information per second, while conscious awareness handles around 40 to 50 bits. We are aware of almost none of what our brains are doing.
@@ -139,4 +138,4 @@ Daniel, the man we met in the prologue, spent the months after his IAT experienc
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

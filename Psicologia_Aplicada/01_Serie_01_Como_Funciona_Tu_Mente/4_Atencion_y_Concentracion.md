@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben se sienta a trabajar en un proyecto importante a las diez de la mañana. A las diez y cuatro revisa el correo. A las diez y ocho responde a un mensaje de WhatsApp. A las diez y catorce mira brevemente Twitter. A las diez y veintitres recibe una notificación del teléfono. A las diez y cuarenta y cinco, cuando alguien le pregunta si ha avanzado en el proyecto, ha estado cuarenta y cinco minutos en su escritorio sin hacer nada que se aproxime al trabajo profundo que el proyecto requiere. Ruben no tiene un problema de motivación, ni de capacidad, ni de disciplina en el sentido moral del terminó. Tiene un problema de atención en un entorno diseñado específicamente para destruirla.
 
 ---
@@ -175,4 +174,4 @@ Ruben implementó su protocolo personal de atención en un mes de prueba. Teléf
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

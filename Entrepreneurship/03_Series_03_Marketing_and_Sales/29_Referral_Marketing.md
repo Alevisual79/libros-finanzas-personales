@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Daniel ran a financial planning practice. Over seven years, he had built a client base of eighty-three families. He had never spent a dollar on marketing. He had no website for most of those seven years. He had no social media presence. His practice had been built entirely through referrals — introductions from clients who valued his work and had recommended him, without prompting and without incentive, to people in their networks who needed what he offered. Every one of his clients had come through a personal introduction from someone who knew his work. His practice was fully booked. His revenue grew every year. His customer acquisition cost was zero.
 
 This is not a lucky accident or a quirk of the financial planning industry. It is the result of something specific and replicable: Daniel consistently created the conditions that made referrals natural. He served his clients exceptionally well. He maintained genuine relationships with them between service interactions. He made it easy for them to describe what he did in terms that were meaningful to people in their networks. And he made the process of connecting him with a potential referral easy and low-friction. These are not personality traits; they are practices. This book describes them.
@@ -137,4 +136,4 @@ Daniel's practice is a specific illustration of a general principle: the most du
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

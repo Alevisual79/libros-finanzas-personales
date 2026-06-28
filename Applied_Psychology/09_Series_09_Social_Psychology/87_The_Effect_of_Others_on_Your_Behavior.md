@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Gordon Allport's classic definition of social psychology — the scientific study of how the actual, imagined, or implied presence of other people affects an individual's thoughts, feelings, and behavior — contains a phrase that deserves more attention than it typically receives: "imagined or implied presence." We are not merely affected by the people who are physically present with us; we are affected by the people we imagine are watching us, by the internalized standards of social groups we belong to, and by the presence of others implied by the social contexts we inhabit even when no one specific is actually there.
 
 Understanding the effect of others on your behavior is, in a significant sense, the master key to social psychology. Nearly every phenomenon in the field — conformity, obedience, helping, aggression, performance, prejudice — involves some version of how others' presence (actual, imagined, or implied) shapes individual behavior. This book takes the question as its organizing frame and examines the range of ways in which others shape us: some obvious, some subtle, some that we would prefer to believe we are immune to.
@@ -135,4 +134,4 @@ Others are not merely present in our social lives; they are constitutive of our 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

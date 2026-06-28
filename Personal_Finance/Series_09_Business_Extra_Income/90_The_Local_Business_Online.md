@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel's sister runs a small bookkeeping practice. For 12 years, she built her business through word of mouth — clients referring other clients, a small Yellow Pages ad that she stopped paying for years ago, and an occasional flyer distributed at the chamber of commerce.
 
 Her business was stable but not growing. She had three clients who represented 70% of her revenue. She knew she needed more clients but had no systematic way to find them.
@@ -270,4 +269,4 @@ Build the presence. Earn the reviews. Rank in the searches. Serve the customers 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

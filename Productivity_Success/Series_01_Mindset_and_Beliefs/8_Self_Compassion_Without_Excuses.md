@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marta had a theory about high performance: it required a harsh inner critic. The voice that said her work wasn't good enough, that she could have done more, that she should have prepared better — that voice, she believed, was the engine that kept her at the level she had reached. Remove the critic, and the performance would follow.
 
 She was not entirely wrong about the connection. High standards do support high performance. What she was wrong about was the mechanism. The harsh inner critic was not the source of her standards; it was a response to them. And increasingly, it was a counterproductive response — producing rumination without direction, self-attack without useful feedback, and a chronic low-level exhaustion that was reducing rather than sustaining the quality of her work.
@@ -157,4 +156,4 @@ The inner critic had been taking credit for years. It wasn't responsible for the
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

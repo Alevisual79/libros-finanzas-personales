@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sophie reached year seven of her leadership career before the pattern became undeniable: the Sunday evening dread that had begun as occasional was now consistent; the work that had once felt meaningful increasingly felt like a performance she was maintaining rather than a purpose she was serving; the team members who had once energized her now felt, on her worst days, like sources of obligation rather than relationships. Her performance was intact — the deliverables were delivered, the metrics were met, the organizational perception of her was unchanged. But she was experiencing her professional life from a position of progressive depletion rather than progressive engagement.
 
 Christina Maslach's research at Berkeley, which remains the most extensive and most methodologically rigorous work on burnout available, describes Sophie's experience precisely: burnout is the chronic depletion of the emotional, cognitive, and physical resources that professional effectiveness requires, produced by sustained demand that exceeds the renewal practices that sustain these resources. It is not weakness; it is the natural outcome of the engineering equation: when output consistently exceeds input, the reservoir empties.
@@ -153,4 +152,4 @@ The prevention does not require the reduction of commitment. It requires the ren
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

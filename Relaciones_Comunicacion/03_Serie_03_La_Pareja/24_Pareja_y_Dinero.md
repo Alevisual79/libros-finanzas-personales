@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 El dinero es el tema del que las parejas más hablan sin realmente hablar. Hablan de los gastos que hay que hacer. De si el precio de una cosa es alto o bajo. De que les falta o les sobra. Pero rara vez hablan de lo que el dinero significa para cada uno. De los miedos que hay detrás. De los valores que cada uno tiene sobre el gasto y el ahorro y el riesgo.
 
 Y en esa ausencia de la conversación real, el dinero se convierte en uno de los mayores generadores de conflicto en la pareja. No porque el dinero sea intrinsecamente divisivo. Porque es el campo en que se expresan diferencias de valores, historias de origen y actitudes ante la seguridad y el riesgo que raramente se han nombrado directamente.
@@ -185,4 +184,4 @@ Ese proyecto cambio la relación de formas que ninguno habría anticipado.
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

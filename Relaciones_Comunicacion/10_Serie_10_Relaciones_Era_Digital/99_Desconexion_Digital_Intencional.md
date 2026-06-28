@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben ha revisado su móvil cuarenta veces mientras leía este mismo libro, un dato que el registro de tiempo de pantalla de su dispositivo le revela con precisión incomoda. No fue por ninguna necesidad real de información urgente. Fue, simplemente, hábito automático, un patron tan profundamente instalado que ocurre sin que la decisión consciente de revisar el teléfono llegue siquiera a formarse antes de la acción misma.
 
 ---
@@ -155,4 +154,4 @@ Desconectarte del móvil no es primitivismo. Es la forma más moderna de estar p
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

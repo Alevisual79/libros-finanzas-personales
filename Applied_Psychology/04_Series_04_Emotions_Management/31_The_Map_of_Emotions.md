@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When her therapist asked Camille how she was feeling, she said "fine" — not because it was true but because it was the only answer she reliably had available. She was not, in fact, fine. Something was happening inside her that had been happening for months, a pervasive interior weather that she could not name and therefore could not discuss, work with, or communicate to anyone else. She was not emotionally numb; she felt things, quite intensely. She simply lacked the vocabulary to identify what she felt with any precision. Everything was "stressed" or "off" or "not great." Her therapist introduced a concept Camille had not previously encountered: emotional granularity — the degree to which one can distinguish and label specific emotional states rather than experiencing emotion as an undifferentiated mass. It was the beginning of a different relationship with her own interior life.
 
 Emotions are the most fundamental information about our situation that the body and brain generate. They are not noise to be suppressed, decoration to be managed, or evidence of weakness to be hidden — they are a rapid, automatically updated assessment of what is happening to us and around us that has evolved over millions of years to guide behavior in ways that served survival. Understanding what emotions are, how they are structured, where they come from, and how to identify them with precision is not a luxury of self-indulgence; it is a functional capacity as essential to effective human life as reading or arithmetic. This book provides the map that makes emotional navigation possible.
@@ -135,4 +134,4 @@ Every emotion is information — about one's situation, one's needs, one's value
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

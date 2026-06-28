@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena estudia un nuevo lenguaje de programación. Lee la documentación, hace los ejercicios del tutorial, ve los videos de explicación. Tres semanas después, cuando intenta usar lo aprendido en un proyecto real, recuerda muy poco. Repasa el material y vuelve a aprender lo mismo que creyo haber aprendido la primera vez. Nadie le ensenó que la forma en que estudio (lectura pasiva, repetición inmediata, sensación subjetiva de comprensión) es una de las estrategias de aprendizaje menos efectivas que existen. Y que las estrategias que funcionan son frecuentemente las que se sienten más difíciles e incomodas.
 
 ---
@@ -175,4 +174,4 @@ Elena rediseno completamente su método de aprendizaje después de leer sobre la
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

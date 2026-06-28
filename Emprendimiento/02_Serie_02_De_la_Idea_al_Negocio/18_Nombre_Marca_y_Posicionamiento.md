@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos ha pasado tres semanas eligiendo el nombre de su empresa y todavía no ha tomado una decisión. Lucia tiene un nombre que funciona pero una marca visual que no comunica lo que es el negocio. Marcos viene de corporaciones con marcas fuertes y sabe intuitivamente el valor que una buena marca añade, pero no sabe como construirla con los recursos limitados del emprendedor. Los tres necesitan entender algo fundamental: la marca no es el logo. No es el nombre. No es el color corporativo. La marca es la suma de todas las percepciones que el cliente tiene sobre el negocio, y el posicionamiento es la decisión sobre que espacio específico en la mente del cliente quieres ocupar.
 
 ---
@@ -175,4 +174,4 @@ Carlos eligio un nombre para su empresa al final. No era el más creativo ni el 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

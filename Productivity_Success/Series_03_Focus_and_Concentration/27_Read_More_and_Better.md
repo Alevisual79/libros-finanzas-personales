@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nadia had always considered herself a reader. Growing up, she had consumed novels with the abandon of someone who had no other obligation; in university, she had read voraciously for her coursework and for pleasure simultaneously. By her mid-thirties, she was reading approximately one book per month — usually on her phone, in fragments, during commutes and lunch breaks and the ten minutes before sleep when she was often too tired to retain much.
 
 She noticed the change gradually. The reading had become shallower. She finished books without quite remembering what they had argued. She found herself rereading paragraphs not because they were profound but because she had been checking her phone and had not registered the first reading. She was, in some technical sense, still reading — she could count the books, show the completed titles — but she was not reading the way she used to. Something had changed.
@@ -163,4 +162,4 @@ What the book requires is what the most important things require: full attention
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

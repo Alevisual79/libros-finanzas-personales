@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Thomas had not missed a single deadline in eleven years. This was true, and it was less impressive than it sounded, because it was achieved through a specific mechanism: Thomas set internal deadlines three weeks before external ones, then spent the first two weeks producing work he considered good enough, and the final week revising it to a standard that satisfied him — a standard that was, his colleagues had learned, significantly higher than what any project actually required.
 
 The preparation for his team's quarterly presentations took seventy hours per presentation. The presentations themselves lasted forty-five minutes. His manager had told him, twice, that he was producing at a level that exceeded what the role required. He had received this as praise, though it was not intended as such.
@@ -161,4 +160,4 @@ He still cares about quality. The care is unchanged. What changed is its object:
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

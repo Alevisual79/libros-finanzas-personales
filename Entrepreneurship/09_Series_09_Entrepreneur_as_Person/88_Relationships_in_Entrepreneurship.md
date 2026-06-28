@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The business partners first, then the marriage — those are the relationship challenges that Andrea's entrepreneurship coach had seen most consistently produce the crises that derailed otherwise excellent businesses and otherwise healthy personal lives.
 
 In Andrea's case, it was the co-founder relationship that broke first. She and her business partner, Maria, had founded their educational technology company together seven years earlier — two former teachers who shared a passion for personalized learning and a vision for what technology could make possible in classrooms. For the first three years, the partnership had been genuinely energizing: complementary skills, shared values, and the mutual trust of people who had worked together in schools for years before founding the company.
@@ -137,4 +136,4 @@ Andrea had started the company with Maria because they trusted each other and sh
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

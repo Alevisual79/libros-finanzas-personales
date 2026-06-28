@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marco had completed eleven online courses in the previous two years. He had paid for eight of them. He had finished seven. He had applied the content of two to his actual professional practice. The completion certificates were in a folder on his computer.
 
 The eleven courses had not been poor courses. The platforms delivering them were well-regarded; the instructors were genuine experts; the course content was professionally relevant. What had been poor was his approach to the learning — the passive video consumption, the inadequate practice completion, the absence of the application planning that would have converted the content into behavioral change.
@@ -156,4 +155,4 @@ Bring the work. The content is waiting.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

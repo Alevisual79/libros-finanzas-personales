@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 After three years of building her e-commerce brand selling sustainable home goods, Sofia had an unusual problem for a business her size: she had too many marketing channels. She was active on Instagram and Pinterest, published a weekly blog, maintained an email list of 8,400 subscribers, ran occasional paid search campaigns, participated in three online communities for sustainable living enthusiasts, and worked with five sustainability-focused influencers on periodic content collaborations. Each channel worked, individually — her email list had a strong open rate, her Instagram had genuine engagement, her blog drove meaningful organic search traffic. But she had the persistent feeling that the sum was less than its parts: that the channels were not compounding, that customers encountered her brand in one context without connecting it to another, and that her marketing effort was not producing the coordinated momentum that would take the business to its next level.
 
 What Sofia needed was not more channels or better tactics on any individual channel. She needed an integrated marketing strategy: a coherent plan that connected all of her marketing activities into a system where each element reinforced the others, where every customer touchpoint communicated a consistent and cumulative message, and where the whole was greater than the sum of its parts.
@@ -141,4 +140,4 @@ This concludes Series 3 of the Entrepreneurship Collection.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

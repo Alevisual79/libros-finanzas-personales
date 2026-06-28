@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The fear of dementia is, for many people, the most significant fear about aging. More than a fear of death, more than a fear of physical dependence — the prospect of losing the self, the memories, the relationships, the capacity to think and communicate — represents an existential threat that deserves serious attention.
 
 The evidence on dementia prevention has changed dramatically in recent years. Alzheimer's disease and other dementias are no longer viewed as inevitable biological processes beyond individual influence. A substantial proportion of dementia cases are attributable to modifiable risk factors — factors that individual behavior and healthcare can substantially change.
@@ -294,4 +293,4 @@ The brain that reaches advanced age in good condition does not do so by accident
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

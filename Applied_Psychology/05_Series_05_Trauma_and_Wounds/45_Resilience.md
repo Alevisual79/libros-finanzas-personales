@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When people described Sofia as resilient, she wasn't sure she recognized herself in the description. She had survived significant adversity: a difficult childhood, a health crisis in her early thirties, a professional setback that had derailed a career she had worked toward for a decade. She had, in each case, eventually returned to a functional life. But "bouncing back" was not how she would have described the process: each time, she had been genuinely broken for a period; each time, what she returned to was not the same place she had left but somewhere different, altered by the experience in ways that were sometimes worse and sometimes better than what preceded them. The resilience she had shown was not the bouncing of a rubber ball. It was something more effortful, more variable, and more genuinely human than that metaphor suggested.
 
 Resilience — the capacity to recover from adversity, adapt to challenging circumstances, and continue developing despite difficulty — is one of the most studied and most misunderstood concepts in psychology. Popular conceptions of resilience often depict it as a stable personal trait — something you either have or lack, a kind of psychological Teflon that prevents difficulty from sticking. Research has consistently painted a more complex, more human, and ultimately more encouraging picture: resilience is not a fixed trait but a dynamic process; it is not immunity to suffering but the capacity to recover from it; it is shaped by a combination of individual, relational, and contextual factors that are more available than the trait model suggests.
@@ -141,4 +140,4 @@ Resilience is not immunity to suffering. It is the capacity to suffer genuinely 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

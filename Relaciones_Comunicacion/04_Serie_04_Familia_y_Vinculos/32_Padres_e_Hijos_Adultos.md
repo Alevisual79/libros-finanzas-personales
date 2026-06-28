@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena tiene treinta y cuatro años y sus padres todavía la tratan como si tuviera catorce. Le preguntan con quien sale, le sugieren que coma mejor, le recuerdan que llame más. Nadie ha renegociado explicitamente la relación después de la infancia. El conflicto, silencioso pero constante, es el resultado de esa renegociación que nunca ocurrio.
 
 La relación entre padres e hijos adultos es una de las menos estudiadas y más difíciles de navegar, precisamente porque no existe un guion social claro de como debe ser. La relación padre-hijo pequeño tiene reglas claras: el padre cuida, decide, protege. La relación entre dos adultos que además son padre e hijo no tiene ese guion, y cada familia tiene que inventarlo, a menudo sin saber que lo está haciendo.
@@ -159,4 +158,4 @@ La relación con tus padres puede cambiar. Pero alguien tiene que dar el primer 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

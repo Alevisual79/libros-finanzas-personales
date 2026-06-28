@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben ha notado algo en las personas que conoce que atraviesan las dificultades mejor que otros: no parecen tener vidas más fáciles. Tienen las mismas perdidas, los mismos fracasos, las mismas incertidumbres. Pero tienen una relación diferente con esas dificultades. Cuando las cosas se ponen mal, parecen hacer algo diferente en sus mentes que les permite recuperarse antes. Este libro es sobre esos hábitos mentales específicos: lo que hacen mentalmente las personas resilientes que les permite atravesar las dificultades sin que las destruyan.
 
 ---
@@ -175,4 +174,4 @@ Ruben miro su lista de hábitos mentales de resiliencia y reconoció algo: ya te
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 In seven years of building her HR consulting practice, Priya had advised hundreds of organizations on hiring decisions. In her own business, she had made seven hires and had gotten four of them right. Three had not worked out — two within the first year, one after eighteen months of increasingly clear misalignment that she had been slow to address. She had given more thorough hiring advice to clients than she had followed herself.
 
 The analysis she conducted after her third failed hire was revealing: all three failures had involved decisions made primarily on the strength of the candidate's self-presentation in interviews, without adequate reference checking or skills assessment. All three had involved roles she had been in a hurry to fill (two because she was overwhelmed, one because the prior person had left suddenly). And all three had involved candidates who had been excellent interviewees — articulate, enthusiastic, and persuasive — but whose actual performance had not matched the interview impression.
@@ -139,4 +138,4 @@ The people who join the business over time are the organization — more than it
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

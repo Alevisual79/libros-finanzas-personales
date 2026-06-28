@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene la teoria de que las emociones y el trabajo profesional son dominios separados: en el trabajo se razona, se analiza, se decide. Las emociones son para después. Esta separación, que comparten muchos profesionales, no refleja como funciona realmente el cerebro ni cómo se toman realmente las decisiones. Las emociones no se quedan en la puerta de la oficina. Entran contigo, afectan cada decisión que tomas, cada conversación que tienes, y cada evaluación que recibes. La pregunta no es si tienes emociones en el trabajo. Es si las gestionas o dejas que te gestionen ellas a ti.
 
 ---
@@ -175,4 +174,4 @@ Isabel rediseno la política de evaluación para incluir conversaciones estructu
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

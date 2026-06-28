@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Elena interviewed for her current position, she had presented the most professionally confident version of herself: proactive, collaborative, decisive, comfortable with ambiguity. The presentation was accurate, in the sense that these were genuine capabilities she possessed. What she had not fully disclosed — to her employer or to herself — was the other side of her psychological profile: the need for more than two days' notice before significant changes to her work plan, the genuine difficulty with the open-plan office where the role was based, the energy cost of the prolonged client entertainment that the role required. She had been hired for her genuine strengths without either party adequately attending to the genuine fit challenges.
 
 Two years into the role, she was performing well by every external measure and experiencing significant psychological cost by every internal one. The role was not wrong for her in any categorical sense; she could perform it. The question she had begun to ask — partly with a therapist, partly in the conversations about career development that had started to feel more urgent — was not "am I good at this job?" but "is this job good for me?" and "is there a way to design both the job and my approach to it that serves both questions better?"
@@ -137,4 +136,4 @@ Personality does not determine career outcomes — but it shapes the environment
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

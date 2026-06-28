@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel sat down one Sunday afternoon to calculate her net worth. Assets: home equity, retirement accounts, car value, cash. Liabilities: mortgage balance, the personal loan nearly paid off. She subtracted one from the other and arrived at a number she felt moderately good about.
 
 She shared the number with her financial planner. The planner asked if she'd included her future lease payment obligations, the unfunded deferred maintenance on her home, the gap between her current retirement savings trajectory and what she'd actually need, and the opportunity cost of the annuity she'd purchased in 2018.
@@ -183,4 +182,4 @@ Turn the page. What's on it changes what you do about it.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

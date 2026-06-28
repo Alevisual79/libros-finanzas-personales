@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Isabel's financial advisor told her she needed a business plan before anyone would look at her loan application, she spent three weeks writing a forty-page document with a five-year financial projection, a competitive analysis, a market size calculation, and an organizational chart for a company that currently consisted of herself and a shared workspace membership. The document was comprehensive, professionally formatted, and almost entirely fictional — because she was projecting outcomes for a business she had not yet built, based on assumptions she had not yet tested, for a market she had not yet entered. The bank approved her loan. The business went in a direction the plan had not anticipated in almost every significant respect within six months.
 
 The business plan that banks ask for and the business plan that actually helps you build a business are different documents serving different purposes. The former is a credibility signal and a financial request; its content is largely formulaic and its predictive value is minimal, because no business follows its original plan with any fidelity. The latter is a thinking tool — a structured means of clarifying your assumptions, identifying your most important uncertainties, and creating a framework for making good decisions as the business encounters reality. This book is about the second kind of plan: not the document but the thinking process that underlies it, and the living framework that continues to be useful long after the original plan has been superseded by events.
@@ -137,4 +136,4 @@ Isabel's business is in its third year. She has never looked at the original for
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

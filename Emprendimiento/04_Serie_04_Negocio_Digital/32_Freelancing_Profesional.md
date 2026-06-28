@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos ha dejado su trabajo para ser freelance y en el primer mes gana menos de la mitad de lo que ganaba antes. Lucia lleva tres años como freelance, tiene clientes, pero trabaja más horas que cuando era empleada y cobra menos por hora. Marcos quiere explorar el freelancing como opción para sus servicios de consultoria pero no sabe si puede sostenerse económicamente. Los tres necesitan entender algo fundamental sobre el freelancing profesional: es uno de los modelos de negocio más rápidos para generar revenue y uno de los que peores margenes produce si se gestiona mal. La diferencia entre el freelance que vive bien y el que sobrevive con estrés no esta en las habilidades técnicas. Esta en como gestiona el negocio de ser freelance.
 
 ---
@@ -175,4 +174,4 @@ Lucia miro sus números al final del año: había facturado un 45% más que el a
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

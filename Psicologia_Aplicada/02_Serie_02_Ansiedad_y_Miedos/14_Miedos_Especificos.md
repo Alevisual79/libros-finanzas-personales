@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene cincuenta y dos años y no puede volar en avion. Ha rechazado oportunidades de trabajo, ha evitado viajes familiares, ha organizado su vida entera alrededor de un miedo que sabe que es irracional pero que no puede ignorar. Cada vez que ha tenido que enfrentarlo ha recurrido a medicación o alcohol para manejarlo. Lo lleva con vergüenza, como si fuera una debilidad de carácter que una persona adulta y competente no debería tener. No es una debilidad de carácter. Es un aprendizaje condicionado del sistema nervioso que tiene un tratamiento específico, altamente efectivo, y frecuentemente más breve de lo que imagina.
 
 ---
@@ -175,4 +174,4 @@ Isabel voló. No sin miedo. Con el miedo presente pero ya no en el asiento del c
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

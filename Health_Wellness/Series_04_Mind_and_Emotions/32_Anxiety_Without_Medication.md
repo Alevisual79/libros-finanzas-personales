@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had never been diagnosed with an anxiety disorder. She would not have described herself as an anxious person. She described herself as "someone who worries a lot" — about her job performance, about whether people liked her, about whether she was making the right decisions, about the future. She managed this by being very organized, very prepared, and very busy.
 
 What she didn't recognize was that her organization and busyness were partly avoidance strategies — keeping her moving fast enough that the worry couldn't fully catch up with her. When she finally sat still on a vacation for the first time in two years, the anxiety announced itself unmistakably.
@@ -281,4 +280,4 @@ Anxiety is not something to be ashamed of, hidden, or simply endured. It is the 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

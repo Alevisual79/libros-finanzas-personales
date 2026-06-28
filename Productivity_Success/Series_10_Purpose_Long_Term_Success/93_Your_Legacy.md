@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Legacy is the word that the professional development literature most often uses and least carefully defines. In its most common usage, it means the achievements and outcomes the professional leaves behind when they retire or die — the career accomplishments, the organizational contributions, the work that outlasts the work period. In this usage, legacy is primarily a retrospective concept: something assessed at the end of a career, not pursued as an active orientation throughout it.
 
 The research on purpose, meaning, and generativity suggests a more powerful usage: legacy as a present-tense orientation — the active commitment to building something that will matter beyond one's personal engagement with it. This orientation is not only for the late career; the research on generativity and professional development finds that the professionals who develop a legacy orientation earlier in their careers have a motivational and meaning advantage that the exclusively achievement-focused orientation does not provide.
@@ -146,4 +145,4 @@ Build the contribution that outlasts you. Begin today.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

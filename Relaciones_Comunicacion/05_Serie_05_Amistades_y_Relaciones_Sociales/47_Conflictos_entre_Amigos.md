@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena y su mejor amiga no se hablan desde hace seis meses. Ninguna de las dos recuerda exactamente como empezó el distanciamiento. Una discusión pequeña que escalo, un comentario mal interpretado, un silencio que se prolongo demasiado tiempo sin que ninguna lo rompiera. El silencio, con el tiempo, se ha convertido en un muro que parece cada vez más difícil de derribar, precisamente porque nadie sabe ya por donde empezar.
 
 ---
@@ -155,4 +154,4 @@ Un conflicto entre amigos puede destruir una amistad o hacerla más fuerte. Depe
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The conflict that nearly destroyed Marcus's content marketing agency didn't begin as a dramatic confrontation. It began as a curt email, followed by a missed acknowledgment, followed by a conspicuous absence from a collaborative meeting, followed by months of quiet tension between his two most senior employees — his creative director and his operations manager — that gradually infected the entire team. By the time Marcus recognized it as a problem serious enough to require his direct involvement, the creative director was considering leaving and the operations manager had begun looking for the operational information she needed through alternative channels specifically to avoid direct contact with the creative director.
 
 The conflict had never been about anything genuinely irreconcilable. It had been about a disagreement over the scheduling of a major client project that had been handled through passive-aggressive avoidance rather than direct conversation, and it had grown into a relationship breakdown that was consuming the organizational energy and attention of twelve people who could feel the tension even when they weren't directly involved in the conflict.
@@ -139,4 +138,4 @@ The conflict Marcus avoided addressing for three months cost his agency approxim
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

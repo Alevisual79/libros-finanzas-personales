@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene lapsos de motivación intensa seguidos de períodos donde no puede con nada. Elena siente que necesita un video motivacional o una charla inspiradora para arrancarse, pero el efecto dura poco. Isabel trabajo durante años en trabajos que no le importaban: productiva, eficiente, pero vacia. Los tres estan buscando lo mismo: una motivación que no dependa de chispas externas sino de una fuente interna que pueda sostenerse. La investigación sobre la motivación de las últimas cuatro décadas ha producido un mapa bastante detallado de por qué la motivación fluctua, que tipos de motivación duran más que otros, y como construir condiciones que sostengan el impulso cuando las chispas se apagan.
 
 ---
@@ -175,4 +174,4 @@ Ruben cambio una cosa: empezó a escribir cada semana el impacto de su trabajo e
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The number lived in the background of Elena and Marcus's relationship in the way that certain facts do — always there, never quite mentioned. Elena earned $78,000. Marcus earned $62,000. The gap was $16,000 per year, or roughly $1,333 per month. It wasn't enormous in absolute terms, but it was meaningful in context. Elena was the higher earner in the relationship. This was a fact they both knew and neither had addressed directly, not because it was shameful — they were both adults with reasonable salaries — but because neither of them quite had the vocabulary for it.
 
 The gap showed up in small ways. When they went to a nice restaurant, Elena quietly picked up the check more often. When they discussed vacation plans, Elena's preferences tended to win because she was willing to spend more. When Marcus's debt paydown plan left him with only $520 per month in personal discretionary spending, he occasionally felt a private ache of inadequacy that he couldn't quite name. He wasn't resentful of Elena. He was uncomfortable with himself — with the feeling that his financial contribution to their shared life was smaller, and with the ambiguity of what that meant, if anything. Marcus had grown up in a family where the man was expected to be the primary provider. He knew that expectation was culturally constructed and intellectually rejected it, but the discomfort was there anyway, at the emotional level below reason.
@@ -166,4 +165,4 @@ The next book in this series shifts from the dynamics between partners to the dy
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

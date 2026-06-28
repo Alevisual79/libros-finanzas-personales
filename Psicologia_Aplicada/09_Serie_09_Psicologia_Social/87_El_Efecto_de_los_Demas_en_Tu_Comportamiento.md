@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben se comporta de forma diferente cuando esta con sus amigos del colegio que cuando esta en una reunión de trabajo. Elena trabaja de forma diferente cuando esta sola en casa que cuando esta en la oficina con sus colegas. Isabel ha notado que los mismos empleados rinden de formas muy diferentes dependiendo del equipo al que pertenecen, del líder que tienen, y del entorno físico donde trabajan. Ninguno de ellos es inconsistente o falso: estan respondiendo a lo que la psicología social llama el poder de la situación. Este libro es sobre ese poder: como el entorno social moldea el comportamiento de formas que frecuentemente sobrepasan el carácter individual, y como usar ese conocimiento para diseñar mejores contextos para ti y para los que te rodean.
 
 ---
@@ -175,4 +174,4 @@ Ruben cambio donde trabajaba. No de empresa, de escritorio. Se mudo a la mesa co
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

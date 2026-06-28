@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel had taken four different personality tests in as many years. The Myers-Briggs told her she was an INFJ. The Enneagram placed her as a Type 4 with a 5-wing. An online quiz based loosely on Jungian archetypes suggested she was "The Diplomat." A workplace assessment categorized her communication style as "Analytical." Each framework had offered her something — a language for experiences she had struggled to articulate, a sense of recognition in the profiles she read, a framework for understanding why certain situations felt draining while others energized her. Each had also frustrated her: the categories seemed simultaneously too rigid and too vague, too illuminating and too constraining, too easy to fit into and too easy to disconfirm.
 
 The scientific study of personality has a different relationship to these questions than the popular personality industry does. Personality science does not offer easy type assignments or dramatic self-discovery frameworks; it offers something both more rigorous and, ultimately, more genuinely useful: a principled empirical account of how human beings differ from one another in stable, measurable, meaningful ways — an account built on decades of research, hundreds of thousands of participants, and the careful application of the scientific method to one of the most complex subjects it has ever addressed. Understanding what personality science has actually established — and what it hasn't — is the subject of this book.
@@ -133,4 +132,4 @@ Personality science does not offer the satisfying simplification of type systems
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

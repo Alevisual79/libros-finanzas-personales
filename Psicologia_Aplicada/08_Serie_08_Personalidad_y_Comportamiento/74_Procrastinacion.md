@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene una relación complicada con el tiempo. Sabe lo que tiene que hacer. Lo tiene en la lista. Lo ha pospuesto cuatro veces esta semana. La taranta esta ahí, el proyecto tiene que entregarse, y el sabe perfectamente que si lo hubiera empezado antes estaria menos angustiado ahora. Pero no lo empezó antes. Esta es la paradoja de la procrastinación: se comporta como si no hiciera ya lo que hace, como si no supiera ya lo que sabe. La investigación de las últimas dos décadas ha producido un entendimiento de la procrastinación que va mucho más allá del lugar común de que es falta de voluntad. Este libro es sobre ese entendimiento y sobre lo que hacer con el.
 
 ---
@@ -175,4 +174,4 @@ Ruben abrió el documento que había pospuesto durante dos semanas. Escribio un 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

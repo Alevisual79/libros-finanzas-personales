@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Prevention is most effective when it begins before disease. This sounds obvious — and yet the structure of most healthcare systems is almost entirely oriented toward disease treatment, with prevention addressed only when disease is already present or substantially elevated risk is identified.
 
 This book is a blueprint for the preventive medicine decade by decade — the specific actions, screenings, and conversations that have the strongest evidence for preventing the diseases that kill most people and reduce quality of life most substantially.
@@ -331,4 +330,4 @@ Start where you are. The best time to plant a tree was 20 years ago. The second 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

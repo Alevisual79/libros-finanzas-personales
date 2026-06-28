@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 David had always believed he was a good listener. He remembered details. He rarely interrupted. When his wife Elena told him about a problem at work, he paid attention — and then, within about thirty seconds, he began generating solutions. Effective ones, usually. He was good at this.
 
 What he didn't understand, until Elena finally said it plainly one evening: "I don't want solutions. I want you to hear me." He had heard her. He had heard every word. What she was describing was something different from hearing — something he wasn't quite sure how to do.
@@ -145,4 +144,4 @@ Offer it more often.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

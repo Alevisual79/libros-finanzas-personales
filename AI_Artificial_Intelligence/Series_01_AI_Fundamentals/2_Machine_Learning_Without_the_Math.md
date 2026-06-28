@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben attended a webinar about machine learning for marketers. Within ten minutes, the presenter had introduced gradient descent, loss functions, and backpropagation. Ruben closed the tab.
 
 Most introductions to machine learning assume either too much or too little. This book assumes you are smart, busy, and need the concepts — not the equations.
@@ -150,4 +149,4 @@ That understanding — conceptual, not mathematical — is what most professiona
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

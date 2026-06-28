@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Patrick had, in a specific moment in his forty-fourth year, understood that he had been trying to solve a problem for thirty-six years that could not be solved.
 
 The problem was his mother. Not his mother as a person — she was a complex person with her own history and her own genuine love for him, a love that was real even as it was consistently organized around her own needs. The problem was the specific project he had been engaged in since early childhood: the project of finding the combination of responses, accommodations, and self-modifications that would produce a different kind of relationship with her. A relationship in which she could genuinely see him. In which his experience mattered in the specific way that it mattered to him. In which the fundamental dynamic of their relationship — his attunement to her needs, her limited attunement to his — could be different.
@@ -153,4 +152,4 @@ Choose what you keep. Choose what you change. Choose how to live.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

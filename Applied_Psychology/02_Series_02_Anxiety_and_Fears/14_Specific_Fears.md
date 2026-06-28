@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena was the most competent person in most rooms she entered. She managed a team of eighteen people, ran a household with three children, and handled genuine crises with measured efficiency. She had declined two promotions because accepting them would have required flying to the company's international offices. She had rerouted her family's vacation plans every summer for eight years, adding nine hours to travel time, because the direct route required a bridge crossing. She had not told anyone at work about the bridge. The phobia — a word she didn't use, preferring "thing about heights" — had shaped her life more than any deliberate choice she had made.
 
 Specific phobia — intense, persistent, irrational fear of a specific object or situation — is the most prevalent anxiety disorder worldwide, with lifetime prevalence estimates of 7-12% in the United States. Despite its prevalence and the significant impairment it causes, specific phobia is among the least treated of all anxiety disorders: sufferers typically manage around the phobia rather than through it, and many have never been told that among all anxiety disorders, specific phobias have the highest rates of complete remission with appropriate treatment — sometimes in as few as one to three sessions.
@@ -135,4 +134,4 @@ Every phobia tells a story about a nervous system doing its job too well — pro
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

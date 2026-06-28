@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene a alguien en su equipo que mina el ambiente sin que nadie pueda señalar exactamente cómo lo hace. No hay un evento dramatico que pueda citar como evidencia. Es una acumulación de comentarios sutiles, de energía negativa difusa, de pequeñas acciones que individualmente parecen menores pero que, en conjunto, dejan al equipo agotado. Ese perfil, descubre Isabel después de años en recursos humanos, es de los más difíciles de gestionar precisamente porque es difícil de nombrar con precisión.
 
 ---
@@ -155,4 +154,4 @@ No todos los problemas en el trabajo son problemas de proceso. Algunos son probl
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

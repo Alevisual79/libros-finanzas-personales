@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 From the outside, Marta and Jorge looked like a solid couple. Fourteen years together, two children, a shared home. From the inside, Marta spent a disproportionate amount of energy trying to determine, in any given interaction, what Jorge was thinking and whether it boded well or ill for the relationship. A distracted response to her text meant he was pulling away. A cancelled plan meant he was losing interest. A kind gesture meant something was wrong and he was compensating. She interpreted the relationship constantly, and the interpretation was almost always anxious, almost always in the direction of threat. Jorge found this exhausting. Marta found it unavoidable. Neither of them fully understood why it was happening or what to do about it.
 
 Anxiety does not confine itself to the individual mind; it operates in the space between people. Attachment insecurity, interpersonal sensitivity, fear of abandonment, excessive reassurance-seeking, and the hypervigilance that anxiety brings to relational signals — these are among the most significant and most underexamined mechanisms through which anxiety affects the people we love and the relationships we depend on. Understanding how anxiety shows up in relationships — not just in anxiety disorders but in the patterned ways that anxious individuals relate — is essential for both the anxious person and for those who love them.
@@ -135,4 +134,4 @@ Relationships are where anxiety most painfully lives and where healing most nece
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

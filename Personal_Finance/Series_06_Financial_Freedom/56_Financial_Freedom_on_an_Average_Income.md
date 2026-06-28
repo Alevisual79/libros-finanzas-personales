@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena pulled up her paycheck one Tuesday evening and did something she rarely did: she actually looked at it. Not just the net deposit number, which she'd memorized from habit, but the full breakdown — gross pay, federal withholding, state taxes, Social Security, Medicare, her 401(k) contribution, health insurance premium. By the time all those deductions came through, her $78,000 annual salary produced a monthly take-home of roughly $4,850. She set her coffee down and thought about the people she followed online who talked about financial freedom. Most of them seemed to have started businesses, landed tech jobs with equity, or married partners who made serious money. She was none of those things. She was a marketing coordinator in a mid-sized city who ate out too often, paid $1,400 in rent, and had only recently opened a Roth IRA. Was freedom even in the cards for someone like her?
 
 Ruben was asking himself a similar question from a different angle. As a freelance graphic designer now billing at $80 an hour, he had months that felt rich and months that felt terrifying. His annual income averaged somewhere around $68,000 before taxes — after the self-employment tax hit and quarterly estimated payments went out, that number shrank considerably. He had started building an emergency fund and added a few anchor clients to smooth the income swings. But retirement savings were still new territory, and the idea of financial freedom felt abstract, like something you planned for when you already had money, not when you were still figuring out cash flow.
@@ -165,4 +164,4 @@ The next book in this series examines the real cost of your current lifestyle �
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 En la familia de Isabel, el dinero nunca se menciona directamente. Todos saben, sin que nadie lo diga, quien tiene más. Nadie lo dice en voz alta. El resentimiento que esa desigualdad silenciosa genera es antiguo, y se manifiesta en formas indirectas que nadie reconoce cómo lo que realmente son: conflicto sobre dinero disfrazado de conflicto sobre otra cosa.
 
 El dinero en la familia extendida (más allá de la pareja) es uno de los temas más cargados emocionalmente y menos discutidos abiertamente, precisamente porque combina recursos materiales con dinámicas de poder, amor y justicia que se remontan a la infancia de cada miembro de la familia.
@@ -157,4 +156,4 @@ El dinero en la familia no es sobre el dinero. Es sobre el poder, el amor y la j
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

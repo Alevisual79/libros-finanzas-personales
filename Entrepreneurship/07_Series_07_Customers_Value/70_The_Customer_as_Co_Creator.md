@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 After four years of building his supply chain analytics platform, Daniel had developed a clear philosophy about how product decisions should be made: gather customer feedback, filter it through the team's understanding of the market, and build what the product team believed would be most valuable. Customers provided the inputs; the product team made the decisions. It was a reasonable philosophy, and it produced reasonable results.
 
 Then he hired a new head of product who introduced a practice he initially resisted: monthly customer co-design sessions in which a small group of selected customers worked directly with the product team on specific design problems — not describing what they wanted, but actively participating in the design of the solutions. The sessions were uncomfortable at first. Customers brought assumptions the team didn't share; the team brought constraints the customers didn't know about. The friction was productive.
@@ -145,4 +144,4 @@ Daniel's initial resistance to co-design sessions was understandable: they felt 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

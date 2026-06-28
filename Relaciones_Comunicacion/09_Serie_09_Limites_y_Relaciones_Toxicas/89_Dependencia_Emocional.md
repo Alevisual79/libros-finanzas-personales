@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel necesita la aprobación de ciertas personas específicas en su vida para sentirse genuinamente bien consigo misma. Sin notarlo conscientemente durante mucho tiempo, ha construido buena parte de su vida en función de no decepcionar a esas personas, organizando decisiones importantes alrededor de su aprobación anticipada más que alrededor de sus propios deseos genuinos. Ese patron tiene un nombre específico en la psicología, y nombrarlo correctamente es el primer paso para empezar a trabajarlo.
 
 ---
@@ -155,4 +154,4 @@ La dependencia emocional no es amor. Es miedo disfrazado de amor. Y tiene soluci
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

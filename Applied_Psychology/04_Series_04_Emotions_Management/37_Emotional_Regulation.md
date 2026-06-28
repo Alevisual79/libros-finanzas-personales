@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sara described her emotional life as a pressure cooker. For weeks, she would manage: professional, composed, functional. Then something small would tip the balance — a minor frustration, an offhand comment, a moment of unexpected stress — and everything she had been containing would emerge at once, disproportionate to the trigger and exhausting for everyone involved, including herself. She had tried, repeatedly, to stop this pattern through the exercise of willpower — deciding to be less emotional, resolving not to react — and found that willpower was precisely the wrong tool. The containment was itself the problem. What she had never been taught was how to do something other than the binary of complete suppression or complete expression.
 
 Emotional regulation — the processes by which people influence which emotions they have, when they have them, and how they experience and express them — is one of the most important topics in contemporary psychology, cutting across clinical psychology (where dysregulation is a feature of most major psychological disorders), developmental psychology (where regulation capacity develops across childhood and adolescence), and social psychology (where the regulation of emotional expression governs most social interaction). Understanding what emotional regulation is, how it works, which strategies are more and less effective, and how to develop genuine regulation capacity — rather than the suppression that mimics it — is the subject of this book.
@@ -133,4 +132,4 @@ Emotions are not the problem. The problem is the relationship with emotions — 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

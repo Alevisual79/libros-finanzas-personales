@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben sigue pensando en una expareja tres años después de la ruptura. No porque la quiera de vuelta; sabe con claridad que esa relación había terminado por buenas razones. Sino porque, descubre eventualmente con ayuda, nunca hizo realmente el duelo de esa perdida. Sigue ahí, sin procesarse, ocupando un espacio mental que tres años deberían haber resuelto pero que, sin el trabajo adecuado, simplemente se ha quedado congelado.
 
 ---
@@ -155,4 +154,4 @@ Las relaciones terminan. El duelo por ellas, si no se hace, no termina. Ruben, f
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

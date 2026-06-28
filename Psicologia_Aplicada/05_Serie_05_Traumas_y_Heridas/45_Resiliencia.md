@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben ha visto a dos personas atravesar circunstancias similares de forma radicalmente diferente: uno se hunde, el otro encuentra la forma de seguir adelante. No parece una cuestión de fortaleza ni de suerte en el sentido estrecho. Hay algo en la forma en que una persona se relaciona con la adversidad, en los recursos que tiene disponibles, y en el sentido que encuentra en lo que ocurre, que determina si la adversidad la aplasta o la transforma. Ese algo es la resiliencia. Y el hallazgo más importante de la investigación sobre la resiliencia es que no es un rasgo fijo que se tiene o no se tiene: es una capacidad que puede desarrollarse, cultivarse, y fortalecerse deliberadamente.
 
 ---
@@ -175,4 +174,4 @@ Ruben paso por una crisis laboral significativa: un proyecto importante fallo p�
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

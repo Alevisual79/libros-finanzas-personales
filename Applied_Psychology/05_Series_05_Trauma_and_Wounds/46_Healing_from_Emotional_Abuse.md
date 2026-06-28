@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 It took Leila two years after the relationship ended to stop second-guessing herself. Not second-guessing her decision to leave — that she was certain of, in a cellular way that required no reasoning. What she second-guessed was everything else: her perceptions, her memories, her interpretations of events, her sense of her own capabilities. The relationship had lasted four years and had been, from the outside, apparently normal. The person she had been with was charming, well-liked, professionally successful. Only from the inside was the other reality visible: the systematic minimization of her perspectives, the exhausting cycle of idealization and criticism, the way her confidence had gradually eroded until she had barely recognized herself by the end. Healing from emotional abuse meant not only recovering from what had been done but recovering the capacity to trust what she knew.
 
 Emotional abuse is among the most difficult forms of harm to identify, to leave, and to recover from — partly because it leaves no physical marks, partly because it is often embedded in relationships that are also genuinely valued, and partly because one of emotional abuse's most effective mechanisms is the progressive undermining of the target's capacity to perceive and name what is happening. Recovery from emotional abuse therefore involves something beyond the processing of traumatic memories; it involves the reconstruction of a self that has been systematically dismantled by the relationship, and the restoration of trust in one's own perceptions and judgments that emotional abuse specifically targets.
@@ -133,4 +132,4 @@ Emotional abuse leaves no physical marks, but it leaves marks that are equally r
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

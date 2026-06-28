@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene cuarenta y dos años y cree que se conoce bien. Conoce sus valores, sus preferencias, sus razones para tomar las decisiones que toma. Hasta que en una sesión de coaching ejecutivo, el consultor le pregunta por qué rechaza sistemáticamente a los candidatos varones menores de cuarenta años para puestos de liderazgo. Isabel no tiene respuesta. Nunca se había dado cuenta de que lo hacía. Y cuando revisa sus datos de contratación de los últimos cinco años, el patron es inequivoco. Algo que no podía ver, algo que opera fuera de su conciencia deliberada, ha estado tomando sus decisiones por ella.
 
 ---
@@ -171,4 +170,4 @@ Isabel no cambio radicalmente su forma de contratar en una semana. Pero implemen
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

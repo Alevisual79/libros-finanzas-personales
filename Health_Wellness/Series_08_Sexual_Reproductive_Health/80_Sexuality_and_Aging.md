@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 One of the most persistent myths in our culture is that sexuality ends with middle age. The research emphatically does not support this view. Most adults over 60, 70, and 80 remain sexually active and describe sexual intimacy as important to their quality of life and relationships. What changes with age — and what medicine can address — is the nature of age-related physiological changes that affect sexual function.
 
 Sexuality in aging also encompasses more than physical function. Intimacy, connection, touch, and relational closeness matter across the entire lifespan — and may deepen rather than diminish with age, as the urgency and performance orientation of younger sexual life gives way to a more intentional, connected approach.
@@ -264,4 +263,4 @@ The human capacity for connection, pleasure, and intimacy is more durable than o
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene cincuenta y dos años y ha vivido la transición de un mundo sin internet a uno donde la inteligencia artificial puede escribir código, diagnosticar enfermedades y mantener conversaciones convincentes. Sus hijos viven en una realidad digital que ella solo entiende parcialmente. Sus padres viven en una realidad que ella ya no reconoce cómo la suya. En menos de treinta años, la relación del cerebro humano con la tecnología, con el conocimiento y con lo que significa ser inteligente ha cambiado más que en los mil años anteriores. Y según todas las proyecciones, el ritmo de cambio se está acelerando.
 
 ---
@@ -175,4 +174,4 @@ Isabel miro hacía el futuro y sintio dos cosas a la vez: el vertigo de lo que e
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

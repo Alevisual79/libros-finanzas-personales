@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena tiene la sensación constante de estar ocupada pero sin avanzar en lo que realmente importa. Ruben trabaja más horas que nadie de su entorno y sin embargo siente que su productividad no refleja ese tiempo. Isabel ha llegado a la mediana edad con la sensación de que el tiempo se acelera y de que los años no estan dejando el rastro que esperaba. Los tres tienen el mismo número de horas al dia que cualquier otra persona. Lo que hacen con esas horas, sin embargo, es radicalmente diferente y produce resultados radicalmente diferentes. Este libro no es solo sobre productividad. Es sobre la gestión del tiempo como el acto fundamental de gestión de la propia vida: decidir que merece las horas que tienes.
 
 ---
@@ -175,4 +174,4 @@ Elena bloqueo en su calendario todos los viernes por la tarde como tiempo para u
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

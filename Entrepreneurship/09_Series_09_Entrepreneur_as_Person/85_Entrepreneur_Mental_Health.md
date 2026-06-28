@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Sarah's business coach noticed that she was consistently describing her days as "fine" while her physical posture, her energy level, and the specific content of what she was saying told a different story, he stopped the conversation and asked directly: "How are you actually doing?"
 
 The question opened something. Sarah had been managing a persistent anxiety for nearly a year — a background state of dread that accompanied her through most of her waking hours — and she had normalized it as the appropriate emotional response to the real uncertainty of running a six-year-old software company with sixteen employees. The anxiety didn't seem disproportionate. The business had real challenges. Anxiety was the sensible response to a genuinely uncertain situation.
@@ -141,4 +140,4 @@ The coach's direct question — how are you actually doing? — had opened a con
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Maya encountered two pieces of research evidence in the same week that reached exactly opposite conclusions about the effectiveness of a management practice her team was considering implementing. Both were described as "studies." Both were cited by senior colleagues whose credibility she respected. Both seemed, at the surface level, to be straightforward references to scientific evidence.
 
 What she did not know — until she read the original papers — was that one "study" was a properly controlled experiment with a large random sample, peer-reviewed and published in a respected journal; the other was a proprietary consulting report based on surveys of self-selected respondents at client organizations, funded by a company that sold the practice being studied, and never subjected to external review. The two pieces of evidence were not equally credible, and treating them as equivalent was the specific critical thinking failure that would have produced a bad decision.
@@ -156,4 +155,4 @@ The only available response is the deliberate discipline of thinking better — 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

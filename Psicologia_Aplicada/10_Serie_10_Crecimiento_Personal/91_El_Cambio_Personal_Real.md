@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva tres años diciendose que va a hacer ejercicio de forma regular. Ruben sabe exactamente que hábitos necesita cambiar para que su negocio funcione mejor y lleva meses sin cambiarlos. Isabel ha intentado delegar más y microgestionar menos en cuatro ocasiones distintas, con distintos grados de éxito y fracaso. Los tres quieren cambiar. Los tres saben que necesitan cambiar. Y sin embargo el cambio no llega o no dura. Este libro no es sobre motivación ni sobre fuerza de voluntad. Es sobre la psicología real del cambio: por qué es tan difícil, que lo hace posible, y que estrategias tienen respaldo empirico para que el cambio que quieres sea el cambio que tienes.
 
 ---
@@ -175,4 +174,4 @@ Ruben dejó de intentar cambiar sus hábitos de trabajo con fuerza de voluntad. 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

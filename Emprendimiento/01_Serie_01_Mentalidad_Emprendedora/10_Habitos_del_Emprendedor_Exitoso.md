@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Marcos ha estudiado a emprendedores exitosos buscando el patron común. No es la inteligencia excepcional, que tienen unos pero no todos. No es el timing perfecto, que es parcialmente suerte. No es el capital inicial, que algunos tuvieron y muchos no. El patron que aparece de forma más consistente en los que construyen empresas sólidas en el largo plazo es un conjunto de hábitos diarios que parecen aburridos cuando los describes y poderosos cuando observas su efecto acumulado en meses y años. Carlos ha empezado a adoptar algunos de esos hábitos y ya nota la diferencia en su nivel de energía, claridad, y progreso. Lucia ha construido las rutinas que hacen posible gestionar una empresa en crecimiento sin sacrificar todo lo demás que importa en su vida.
 
 ---
@@ -176,4 +175,4 @@ Carlos no cambio todos sus hábitos a la vez. Empezo con uno: la revisión de me
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

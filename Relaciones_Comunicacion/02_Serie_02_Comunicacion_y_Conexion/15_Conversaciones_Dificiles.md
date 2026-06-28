@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Hay conversaciones que llevamos postergando semanas. Meses. A veces años. Conversaciones que sabemos que necesitamos tener pero que evitamos porque anticipamos el daño que pueden causar. La conversación con el amigo que te decepciono. La conversación con tu jefe sobre lo que no está funcionando. La conversación con tu pareja sobre lo que nunca se dice.
 
 El coste de no tener esas conversaciones es más alto de lo que parece. Acumulan resentimiento. Crean distancia. Erosionan la confianza porque la otra persona nota que algo se evita aunque no sepa exactamente que.
@@ -183,4 +182,4 @@ Las conversaciones difíciles no siempre van bien. Pero no tenerlas casi siempre
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

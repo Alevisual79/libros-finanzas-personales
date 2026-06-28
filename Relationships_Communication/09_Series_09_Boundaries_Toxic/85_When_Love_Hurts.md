@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Camille had a question she had been circling for months without quite landing on it, and the question was: was this abuse?
 
 The word felt large and somehow not quite right for what she was describing — what she was in. Abuse was visible: bruises, shouting, the dramatic ruptures of violent relationships. What she was describing was subtler, quieter, more ambiguous. The atmosphere that appeared when she did something her partner disapproved of. The specific quality of his silences. The way her own experience of herself had been, gradually and without her noticing until she noticed, shrinking.
@@ -155,4 +154,4 @@ Accepting harm is not proof of love.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

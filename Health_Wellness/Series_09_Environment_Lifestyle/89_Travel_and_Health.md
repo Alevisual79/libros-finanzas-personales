@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Travel exposes us to new environments, pathogens, dietary patterns, time zones, and physical stressors. The World Tourism Organization estimates over 1 billion international trips annually; the CDC estimates that approximately 30-70% of travelers to developing regions experience some health problem during or after travel.
 
 Most travel-related illness is preventable or manageable with preparation. The WHO and CDC provide evidence-based travel medicine guidance. Yet a significant proportion of travelers depart without pre-travel health consultation, without appropriate vaccinations, and without essential medications — encounters that frequently determine health outcomes during international trips.
@@ -252,4 +251,4 @@ Travel medicine is not about making travel feel dangerous — it is about going 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

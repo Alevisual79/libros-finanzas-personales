@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben had hundreds of contacts in his phone, several hundred followers on social media, and conversations with dozens of clients and colleagues every week. He also had no one he could call at 11pm if something was genuinely wrong. No one who would notice if he disappeared for a week. No friendship that he would describe as intimate in the way childhood friendships had been.
 
 He wasn't socially isolated in the traditional sense. He was embedded in a social network of acquaintances, professional contacts, and pleasant but shallow interactions. He was lonelier than he had been when he had fewer connections but deeper ones.
@@ -253,4 +252,4 @@ Loneliness is a biological signal — the same as hunger or pain — indicating 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

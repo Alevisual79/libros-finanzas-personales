@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Ana started her organic food delivery business, she priced her weekly meal kit at $65. She had calculated that this price would cover her food costs ($28), her delivery costs ($12), and her packaging ($4), leaving $21 — a margin she felt was reasonable for a new business. Eighteen months later, the business had grown to 180 subscribers, generating nearly $12,000 per week in revenue. She was working sixty-hour weeks with two part-time assistants, and she was losing money.
 
 The problem was not her pricing; it was her margin analysis. She had calculated her direct costs correctly but had not accounted for the indirect costs of running the business: the commercial kitchen rental ($2,400 per month), the van lease ($850 per month), the website and software subscriptions ($400 per month), her business insurance ($180 per month), and the labor she was providing herself (which she had not counted as a cost at all). When she calculated what it actually cost to run the business per kit, after accounting for all costs, the true cost per kit was $56 — leaving a gross margin of $9 rather than the $21 she had calculated. At 180 subscribers, the $9 margin produced $1,620 per week in contribution to overhead and profit — nowhere near enough to cover her fixed costs.
@@ -149,4 +148,4 @@ Ana's business was not badly run or badly served; it was badly priced, and the f
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

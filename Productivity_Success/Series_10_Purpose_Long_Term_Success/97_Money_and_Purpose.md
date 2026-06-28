@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The cultural narrative about money and purpose in professional life tends toward one of two poles, each of which is demonstrably inadequate. The first is the purity narrative: the truly purposeful professional does not think about money, cares only about the mission, and is content with whatever the mission provides. This narrative is inspirational, widespread, and practically unsustainable for most people in most circumstances. The second is the cynicism narrative: purpose is a luxury of the financially secure; everyone else works for the money, and the professional who claims otherwise is naive or dishonest. This narrative is equally unhelpful: it denies the specific human need for meaning that the research consistently documents and that most professionals feel, regardless of their financial circumstances.
 
 The research on money, meaning, and professional wellbeing provides a more nuanced and more practically useful understanding of the relationship between financial motivation and purpose-driven motivation — one that allows the professional to be simultaneously honest about the material requirements of professional life and honest about the meaning requirements that the purely instrumental career does not meet.
@@ -155,4 +154,4 @@ Build the sufficient. Pursue the meaningful.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

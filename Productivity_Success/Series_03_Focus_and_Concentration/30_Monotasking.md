@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nadia, Camila, Leo, and their colleagues had, in the course of this series, learned the neuroscience of attention, unlearned the myth of multitasking, discovered the conditions for flow, understood the dopaminergic pull of distraction, redesigned their environments, begun meditation practices, deepened their reading, improved their memory systems, and protected their sleep. These were not trivial changes. They had required sustained effort, deliberate practice, and the willingness to act against the norms of their professional environments.
 
 What they had learned, collectively, was a single insight rendered in ten different forms: the quality of the result is the quality of the attention. That the work done with full attention is categorically different from the work done in its absence. That the life lived in full presence is a different life from the one lived in perpetual distraction.
@@ -165,4 +164,4 @@ They are more present. In their work, in their relationships, in the life that i
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

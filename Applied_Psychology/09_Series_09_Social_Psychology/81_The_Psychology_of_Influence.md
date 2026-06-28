@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Robert Cialdini's "Influence: The Psychology of Persuasion" — first published in 1984 and still one of the best-selling books in behavioral science — began with a confession: Cialdini believed he was among the most easily persuaded people he knew, and this susceptibility had motivated his systematic study of what made people say yes. His investigation led him to three years of undercover fieldwork in the influence industries — sales, marketing, fundraising, recruitment, public relations — and to the identification of six "weapons of influence" that practitioners in these fields had discovered, often without formal psychological training, through decades of trial and error.
 
 The weapons Cialdini documented — reciprocity, commitment and consistency, social proof, liking, authority, and scarcity — are not manipulative tricks practiced by bad actors on naive victims. They are systematic psychological mechanisms that evolved in human social environments where they were reliably useful cues for good decisions, and that are now being deliberately exploited in commercial and political environments where they produce decisions that serve the influencer rather than the influenced. Understanding them — precisely, at the level of their psychological mechanisms rather than merely their surface characteristics — is the most effective available protection against their exploitation.
@@ -139,4 +138,4 @@ Influence is not something that happens to passive, uninformed people. It happen
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

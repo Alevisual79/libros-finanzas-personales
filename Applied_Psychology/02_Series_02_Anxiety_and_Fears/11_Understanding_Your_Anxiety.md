@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had his first panic attack in the cereal aisle of a grocery store. He was thirty-four years old, a project manager who had navigated deadlines, difficult clients, and the ordinary turbulence of adult life without much psychological drama. Then, on a Tuesday afternoon with a box of granola in his hand, his heart began to race, his vision narrowed, and a wave of absolute certainty told him he was dying. He wasn't. He was experiencing what millions of people experience every year — an alarm system in full, unmistakable, overwhelming activation. But he didn't know that yet.
 
 What made the panic attack so terrifying was not just the physical experience but the absence of an explanation. Nothing in Marcus's cognitive toolkit gave him a framework for what was happening. His heart was pounding and his mind was flooded with catastrophic interpretations. He left the store without his groceries and drove home with white knuckles. Over the following weeks, he avoided that store, then other stores, then began to track his heart rate obsessively. By the time he sought help six months later, his world had shrunk considerably — not because he was weak, but because he had never been given a map.
@@ -163,4 +162,4 @@ Understanding anxiety is not the same as resolving it, but it is an indispensabl
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

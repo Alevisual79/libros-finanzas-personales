@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena turned down a raise.
 
 Not overtly. What she did was fail to negotiate when her annual review came, accept the 3% standard increase when she had prepared a case for 12%, and leave the meeting feeling vaguely relieved rather than disappointed. Three months later, she learned her colleague Marcus — same title, joined the same year — had negotiated a 14% increase at his review.
@@ -169,4 +168,4 @@ The trap is that more deserving doesn't arrive through waiting. It arrives throu
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

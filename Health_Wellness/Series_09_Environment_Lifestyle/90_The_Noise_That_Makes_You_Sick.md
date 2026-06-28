@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Noise is so pervasive in modern environments that we have largely normalized it — the traffic outside, the aircraft overhead, the open office floor plan, the construction, the neighbor's music. We adapt behaviorally, but the body does not fully adapt physiologically. Research over the past two decades has established that chronic environmental noise is a significant health risk — not merely an irritant — with documented effects on cardiovascular disease, sleep, cognitive function, and mental health.
 
 The WHO's 2018 Environmental Noise Guidelines for the European Region represent the most comprehensive evidence synthesis to date — concluding that traffic noise is the second largest environmental health threat in Europe (after air pollution) and recommending exposure targets far below what most urban populations currently experience.
@@ -249,4 +248,4 @@ The noise that surrounds you is not neutral. It is registering in your amygdala,
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

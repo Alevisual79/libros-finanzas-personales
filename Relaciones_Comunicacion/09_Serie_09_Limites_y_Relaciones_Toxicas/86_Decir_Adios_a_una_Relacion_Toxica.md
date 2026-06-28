@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel sabe que tiene que alejarse de alguien específico en su vida. Lleva dos años sabiendolo con total claridad intelectual, y dos años sin haber dado el paso práctico de hacerlo. El conocimiento de que algo debe terminar, descubre, nunca ha sido suficiente por si mismo. Lo que realmente necesita no es más claridad sobre el problema, sino un sistema concreto de pasos que la lleve, finalmente, de saber a actuar.
 
 ---
@@ -155,4 +154,4 @@ Saber que tienes que irte y poder irte son dos cosas distintas. Este libro traba
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

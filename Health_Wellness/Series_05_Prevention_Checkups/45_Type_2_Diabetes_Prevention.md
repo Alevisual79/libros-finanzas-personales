@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben's HbA1c of 5.8% placed him in the pre-diabetic range — glucose metabolism already shifting away from normal. His reaction: "I thought diabetes was something that happened to other kinds of people." He was 34, not overweight by standard BMI classifications, and had no family history he was aware of. He had, however, been sedentary for 6 years, consumed a diet high in refined carbohydrates and sugary drinks, and accumulated approximately 8 pounds of visceral fat he couldn't see because it was intra-abdominal.
 
 The research on Type 2 diabetes prevention is unusually clear: lifestyle intervention is more effective than any available medication for prevention — and the window before diagnosis is a critical intervention opportunity.
@@ -280,4 +279,4 @@ Type 2 diabetes is largely preventable. The biology is not destiny when pre-diab
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

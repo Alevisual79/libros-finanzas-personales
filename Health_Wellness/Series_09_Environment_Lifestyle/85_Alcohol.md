@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Alcohol is the most socially accepted drug in most Western cultures — ubiquitous at celebrations, business dinners, grief rituals, and casual social gatherings. The health conversation about alcohol has been confused by decades of observational research suggesting that moderate drinking might be protective, followed by more recent Mendelian randomization studies and systematic reviews questioning whether any amount of alcohol is beneficial.
 
 This book presents what the current evidence actually shows — which is more nuanced than "a glass of red wine is good for you" and more honest than "alcohol has no health effects at moderate doses." Understanding this evidence is prerequisite to making genuinely informed decisions about drinking.
@@ -284,4 +283,4 @@ The evidence on alcohol is clearer than it once was and less reassuring than man
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

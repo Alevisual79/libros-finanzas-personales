@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Humans have used thermal stress — both heat and cold — for health purposes for thousands of years. Finnish saunas, Roman thermae, Japanese onsens, Nordic cold water immersion, and Russian banyas are cultural practices with long histories. Modern research has now applied rigorous methodology to these practices, revealing mechanisms and effects that validate some traditional claims while challenging others.
 
 The science of sauna use is now robust enough to be taken seriously. The science of cold therapy, while promising, remains more preliminary. This book reviews what the evidence shows for both heat and cold exposure as health practices.
@@ -230,4 +229,4 @@ Thermal stress — both heat and cold — produces measurable biological effects
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

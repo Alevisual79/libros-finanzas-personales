@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The goal of longevity medicine is not simply to extend life — it is to extend the period of life in which a person is physically capable, mentally sharp, and engaged in the activities that make life meaningful. The scientific term is "healthspan" as distinct from "lifespan." Adding years to life without adding health to those years is a failure, not a success.
 
 The science of healthy aging has advanced dramatically in the past two decades. We now understand many of the biological mechanisms driving aging and have identified specific, evidence-based interventions that modify how people age — not by stopping the clock, but by maintaining function and compressing the period of decline.
@@ -221,4 +220,4 @@ Aging is inevitable. How you age is substantially within your influence. The sci
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The United States is one of only two countries in the world (the other is Eritrea) that taxes its citizens on worldwide income regardless of where they live. An American who moves to Portugal, Japan, or Argentina and earns income there must still file US tax returns — and potentially pay US taxes — even if they haven't set foot in the US for years.
 
 This citizenship-based taxation system makes American expatriate tax planning one of the most complex topics in personal finance. Most Americans moving abroad discover this reality too late, having assumed that leaving the US meant leaving US taxes behind.
@@ -228,4 +227,4 @@ Get a qualified expat tax professional in your first year abroad. The cost is sm
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

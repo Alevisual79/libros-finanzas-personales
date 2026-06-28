@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For the first three years of her translation services business, Sarah did everything herself: client management, project assignment, quality review, invoicing, and the constant communication coordination that kept freelance translators, clients, and deadlines aligned. By year three, she had seventeen active freelance translators, a client roster that included three Fortune 500 companies, and a personal schedule that was catastrophically overloaded. She was working until midnight most weekdays. She was making small but costly errors on client communications because her attention was too divided. She was, by her own admission, the biggest risk to the business she had built.
 
 The solution was obvious to everyone who knew her situation: hire a project coordinator and delegate the daily coordination work. The solution was obvious to Sarah too. What she discovered, when she tried to implement it, was that she didn't know how to delegate. She hired the project coordinator, provided minimal guidance, and found herself reviewing and correcting every piece of work the coordinator produced — spending nearly as much time overseeing the coordinator's work as she had spent doing it herself. She had transferred the task without genuinely delegating it.
@@ -139,4 +138,4 @@ Sarah's business now has four full-time employees and manages more projects in a
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

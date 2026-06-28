@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Leo had the experience that most knowledge workers eventually have: he attended an excellent conference, filled six pages of notes, returned to work energized by ideas, and filed the notebook on his desk where it remained, un-consulted, for the following eighteen months. At the end of those eighteen months, he could remember — with effort — three or four of the conference's key ideas. He could not have reliably named four of the eight speakers. The six pages of notes, when he finally opened the notebook, contained approximately forty ideas that he did not remember having had.
 
 He was not experiencing unusual memory failure. He was experiencing the well-documented failure mode of one-time learning without reinforcement — the forgetting curve that Hermann Ebbinghaus described in the 1880s, which his research found caused approximately 70% of new information to be lost within twenty-four hours of learning if no reinforcement occurred, and approximately 90% within a week.
@@ -163,4 +162,4 @@ The professional who neglects these principles is not failing through laziness; 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

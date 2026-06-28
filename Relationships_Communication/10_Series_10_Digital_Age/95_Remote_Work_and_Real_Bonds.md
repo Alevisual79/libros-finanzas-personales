@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ted had, three years into full-time remote work, developed a specific theory about what made a remote work relationship feel real.
 
 The theory had come from the specific contrast between two sets of relationships in his professional life: the relationships with colleagues he had known before the pandemic — people with whom he had shared physical space, had eaten lunch, had navigated the specific informal texture of office life — and the relationships with colleagues he had met entirely remotely, people he knew only through screens.
@@ -151,4 +150,4 @@ Remote work requires you to make them yourself.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

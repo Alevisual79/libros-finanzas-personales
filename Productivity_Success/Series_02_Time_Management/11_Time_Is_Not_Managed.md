@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marco had three productivity systems running simultaneously. The first was a digital task manager with color-coded priorities, recurring tasks, and project folders organized by area of responsibility. The second was a paper planner where he wrote his three most important tasks each morning. The third was a time-blocking system in his calendar, with work sessions, review blocks, and protected "deep work" slots.
 
 He was very busy being organized.
@@ -169,4 +168,4 @@ Time, it turns out, is not the problem. It never was.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

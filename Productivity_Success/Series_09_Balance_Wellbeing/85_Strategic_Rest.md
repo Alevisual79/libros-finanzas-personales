@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The management literature of the late twentieth century was largely built on the premise that rest is the enemy of performance — that the professional who works the most hours, sleeps the fewest, and takes the fewest vacations is the professional most likely to achieve the most. The premise was intuitive, deeply culturally embedded, and — the research has since demonstrated — fundamentally wrong.
 
 Sarah's growing familiarity with the performance physiology and recovery research had produced a specific change in how she thought about the non-work hours of her professional life. She had stopped thinking of rest as the time when she was not working and started thinking of it as the time when the work of the previous period was being consolidated, the resources for the next period were being restored, and the quality of the subsequent performance was being determined.
@@ -153,4 +152,4 @@ Design the rest that the performance requires. And then rest, genuinely, knowing
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

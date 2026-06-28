@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel resuelve los problemas de todos. En el trabajo es la que sabe. En casa es la que puede. En su grupo de amigos es la que escucha. Lleva cincuenta y dos años siendo el soporte de todo el mundo a su alrededor. Y lleva cinquenta y dos años sin pedirle a nadie que la soporte a ella.
 
 No es que no necesite ayuda. Es que pedir ayuda le parece una debilidad que no puede permitirse.
@@ -191,4 +190,4 @@ Pedir ayuda no es el final de la fortaleza. Es el principio de un tipo de relaci
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

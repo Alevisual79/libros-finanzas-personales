@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Purpose — a sense of direction, meaning, and reason for being — is among the most psychologically fundamental human needs. But the research increasingly shows that purpose is not merely psychologically important: it predicts physical health, disease onset, and mortality with effect sizes that rival established biomedical risk factors.
 
 In Japan, the concept of *ikigai* — "reason for being" — has been part of health and longevity discourse for centuries. Blue Zones researchers found that a sense of purpose was among the common factors across the world's longest-lived communities. Modern psychology and neuroscience are now providing mechanistic explanations for what these cultural traditions observed.
@@ -211,4 +210,4 @@ Purpose is not a luxury available only to those with the privilege of doing mean
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Patricia Devine published her landmark 1989 paper on prejudice and automatic versus controlled processing, she made a claim that was both scientifically rigorous and personally important: stereotypes are automatically activated in the minds of virtually everyone who grows up in a culture that contains them, regardless of those people's conscious attitudes toward the groups the stereotypes describe. The research she conducted showed that both high-prejudice and low-prejudice individuals showed automatic activation of racial stereotypes when subliminally primed with racial cues. What distinguished low-prejudice individuals was not the absence of stereotype activation but the presence of controlled processes that overrode and suppressed the automatic response.
 
 The implications were uncomfortable: even people who genuinely believed in equality and were genuinely committed to non-discriminatory behavior were carrying and activating stereotypes they did not endorse. The goal of reducing prejudice and discrimination could not rest on the elimination of automatic stereotype activation — that appeared to be a product of cultural learning that could not simply be unlearned. It had to rest on the development and deployment of the controlled processes that override the automatic response.
@@ -143,4 +142,4 @@ Stereotypes and prejudice are not products of bad people. They are products of h
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

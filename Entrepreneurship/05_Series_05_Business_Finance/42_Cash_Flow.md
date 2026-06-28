@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 By every accounting measure, Victor's graphic design studio was profitable. In its third year of operation, the business generated $340,000 in revenue with operating expenses of $220,000, producing an accounting profit of $120,000. Victor paid himself a modest salary, had a small emergency reserve, and was proud of what he had built. Then, in October, three large clients paid their invoices sixty days late while two significant vendor payments came due on schedule. In a matter of weeks, the business that had been profitable on paper faced a moment of genuine financial crisis: the inability to meet its current obligations.
 
 The business was profitable. The business was also almost out of cash.
@@ -139,4 +138,4 @@ Cash flow management is not a sophisticated financial skill; it is a fundamental
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

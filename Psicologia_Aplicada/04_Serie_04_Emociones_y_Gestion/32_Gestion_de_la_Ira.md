@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene la teoria de que si aguanta suficiente, si nunca explota, si siempre es razonable, la ira no le causara problemas. Lo que no sabe es que la ira que no se expresa no desaparece: va acumulandose hasta que sale de la forma menos oportuna, o se queda dentro produciendo tensión muscular cronica, problemas cardiovasculares, y una irritabilidad de fondo que contamina su humor mucho más que una expresión directa y oportuna habría hecho. Suprimir la ira no es lo mismo que gestionarla. Y la diferencia importa más de lo que Ruben ha querido creer.
 
 ---
@@ -179,4 +178,4 @@ Ruben dijo la frase. Con voz tranquila, aunque le costara, ante su pareja: cuand
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

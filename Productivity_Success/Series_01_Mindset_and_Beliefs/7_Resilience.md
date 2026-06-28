@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Six months after her company folded — a business she had spent four years building, that had employed twenty people, and that she had believed in completely — Isabel still could not explain what had happened without a catch in her throat. The failure had been real and complex and costly: personal savings gone, professional reputation requiring reconstruction, and a team she had genuinely cared about dispersed into circumstances she couldn't monitor or control.
 
 What she could not have predicted, at the bottom of it, was that two years later she would describe the experience as the most formative thing that had ever happened to her professionally. Not because she was grateful it happened — she wasn't — but because the navigation of it had revealed capabilities she hadn't known she had, stripped away assumptions about stability that had been limiting her, and produced a clarity about what she actually valued in her professional life that years of comfortable success had not.
@@ -149,4 +148,4 @@ The question Isabel could not answer at the bottom of the failure — "what now?
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

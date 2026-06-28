@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Daniel had been a leader for eight years before he noticed that his instincts, which had been well-calibrated for the organizational context of his early leadership years, were gradually becoming less reliable. The dynamics of professional relationships had changed; the expectations of team members had evolved; the competitive and technological context had shifted in ways that his eight-year-old mental models were not accurately representing.
 
 He was not failing — his performance reviews were still positive, his team was producing adequate results, and his organizational reputation was intact. But he was aware, with increasing clarity, of the gap between the organizational context he was leading and the mental models through which he was leading it. The gap was the result of eight years of leadership experience with relatively little deliberate learning — eight years of doing, without the regular investment in reflection, new knowledge, and development feedback that the doing requires to produce genuine development.
@@ -156,4 +155,4 @@ The choice to develop deliberately is not a luxury of the early career; it is th
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

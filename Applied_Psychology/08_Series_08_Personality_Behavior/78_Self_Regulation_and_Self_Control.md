@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The capacity to regulate one's own behavior — to override immediate impulses in service of longer-term goals, to maintain behavioral consistency across situations, to adapt one's responses to the demands of different contexts — is among the most consequential human capacities identified by psychology. Research by Mischel and colleagues on delay of gratification in children, by Tangney and colleagues on self-control and life outcomes in adults, and by Moffitt and colleagues in the Dunedin longitudinal study all document that individual differences in self-regulatory capacity predict important life outcomes across health, economic wellbeing, relationships, and legal behavior.
 
 Adriana was a high self-controller by most measures: she exercised regularly, ate reasonably, maintained commitments, met deadlines, and managed her professional and personal obligations with a consistency that others found impressive and occasionally intimidating. What she had discovered, in her forties, was that the same self-regulatory capacity that produced these outcomes also produced certain costs: chronic rigidity in the face of situations that called for flexibility, difficulty with the kind of unstructured leisure that restoration requires, and a tendency to relate to her own internal experience as something to be managed rather than attended to. Self-control, she had come to understand, was a capacity rather than a virtue — and like any capacity, its value depended entirely on how it was exercised and in service of what.
@@ -137,4 +136,4 @@ Self-regulation is a capacity, not a virtue. Like physical strength, it can be d
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

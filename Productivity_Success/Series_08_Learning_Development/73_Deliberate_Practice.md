@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The violinist's practice session started at seven in the morning and ended at noon. During those five hours, she was not playing the pieces she already played well — the repertoire she could perform to audiences with confidence and fluency. She was practicing the specific passages whose current execution she found unsatisfactory, in specific ways designed to address the specific technical inadequacies she had identified in her last performance review. She played the same four-bar passage forty-seven times in ninety minutes. At the end of ninety minutes, it was different.
 
 This was not ordinary practice. It was the specific form of practice that Anders Ericsson's decades of research on expert performance have identified as the mechanism through which genuine expertise develops — a form of practice so specific in its demands and so different from what most professionals call "practice" that it has a specific name: deliberate practice.
@@ -161,4 +160,4 @@ This is harder than ordinary practice. It is also how genuine expertise is built
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

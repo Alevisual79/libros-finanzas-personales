@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena needed a new laptop for work. Her current machine was four years old, running slow, and she'd already lost two proposals because of crashes during video calls. The right laptop would cost $1,400. She had $800 in her savings account — not earmarked for anything critical, but not exactly surplus either.
 
 She could pay $800 now, charge $600 to her credit card, and pay it off over two or three months. She could put the full amount on the card and preserve the cash. She could wait two months and save up the full amount. Or she could look into a 0% financing offer the retailer was running for 12 months.
@@ -175,4 +174,4 @@ The goal of this series is zero bad debt — not zero credit. Understanding the 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

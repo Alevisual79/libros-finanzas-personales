@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 In his fifth year of running a managed IT services business for small law firms, Will discovered a financial truth that changed how he ran his company. His business had grown from twelve clients in year one to thirty-eight clients in year five, adding an average of seven new clients per year. But he was working as hard in year five as in year one, earning only modestly more, and feeling like the business was not accumulating the value that five years of effort should have produced.
 
 When he modeled the math, the cause became clear: his average client stayed for twenty-two months. He had been adding seven clients per year while losing roughly six — a net growth of one client per year hidden inside a churn-and-replace cycle that consumed most of his business development and onboarding capacity. He was running faster than he thought just to stay in approximately the same place.
@@ -141,4 +140,4 @@ Will's replacement business — adding seven clients while losing six — was a 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

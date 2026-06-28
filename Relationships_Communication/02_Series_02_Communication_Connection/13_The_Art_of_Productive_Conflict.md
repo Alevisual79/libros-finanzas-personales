@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 David and Elena had developed, over the course of their twelve-year marriage, a sophisticated system for not arguing. When a potential conflict arose, they would each make a series of small adjustments — softening tones, retreating from positions, redirecting conversations toward less charged territory — until the issue had been successfully avoided. They were very good at this. Their friends sometimes commented on how unusually harmonious they seemed.
 
 What neither of them said to their friends: underneath the harmony, there was a specific accumulation of unexpressed disagreements, unaddressed differences, and unresolved tensions that had been growing, quietly and steadily, for years. They had not argued in five years. They had also, in those same five years, stopped being fully present with each other.
@@ -155,4 +154,4 @@ It is a relationship in which two people trust each other enough to be themselve
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For eleven years, Paulo carried what had been done to him like ballast in his chest — a sustained, specific weight that his therapist eventually named as resentment. The person who had done the harm was no longer in his life, had never apologized, and, as far as Paulo knew, had never experienced any consequence proportionate to the harm they had caused. He thought about them more than he thought about most of the living people in his present life. He did not want to forgive them. Forgiveness, as he understood it, would mean something like: it's okay that this happened, or: you are absolved, or: I am giving you a gift you don't deserve. None of these felt acceptable. What he didn't know yet was that forgiveness, as the research understands it, means none of these things.
 
 The psychology of forgiveness is one of the most significant and most practically important — and most frequently misunderstood — areas in contemporary applied psychology. The popular conception of forgiveness conflates it with condoning, forgetting, reconciling, and excusing in ways that make it feel unacceptable to people who have experienced genuine harm. The psychological and religious research on forgiveness reveals a different picture: forgiveness is a decision to relinquish resentment as an act of self-interest, entirely separable from whether one condones the harm, whether one maintains the relationship, or whether the harmer deserves to be forgiven. The research on its effects — physical, psychological, and relational — is among the strongest in positive psychology. And its primary beneficiary is the person who forgives, not the person who is forgiven.
@@ -131,4 +130,4 @@ Forgiveness is not owed to anyone who has harmed you. It is a gift — to yourse
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

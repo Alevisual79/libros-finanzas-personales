@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Leo kept three windows open: the report he was writing, the email inbox he was monitoring, and the Slack channel where his team was active. He switched between them every few minutes. He answered messages while the report was loading, returned to the report while awaiting replies, and kept one eye on the Slack activity throughout.
 
 He believed he was being maximally efficient. He was getting three things done at once. The report would be finished, the team would be unblocked, and the client would have their email answered — all within the same working period. Multitasking was one of the professional skills he would have claimed, honestly, to be good at.
@@ -163,4 +162,4 @@ What it does not provide is the work. The work that only comes from the kind of 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

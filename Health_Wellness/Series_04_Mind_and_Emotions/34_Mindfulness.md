@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Mindfulness has been commodified, commercialized, and claimed by wellness culture to the point where many thoughtful people are instinctively skeptical of it. This is understandable — the same word is applied to everything from serious 8-week clinical programs to $200 meditation apps.
 
 The evidence, however, is not commodified. It is substantial, specific, and increasingly well-understood mechanistically. The question isn't whether mindfulness works — the research is clear that it does for specific applications. The question is: what does it work for, how does it work, and what is the minimum viable practice?
@@ -257,4 +256,4 @@ Mindfulness is neither magic nor hype. It is a trainable cognitive skill with a 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

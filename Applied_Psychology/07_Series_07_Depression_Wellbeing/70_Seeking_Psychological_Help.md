@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The decision to seek psychological help is, for many people, one of the most difficult decisions they will make — not because the need is unclear but because the barriers are substantial. The barriers are multiple: stigma (the fear of being judged for needing help); uncertainty (not knowing what kind of help is available or appropriate); practical obstacles (cost, access, time, knowing where to start); and the specific features of the conditions that make help-seeking most necessary (depression reduces motivation and initiative; anxiety produces avoidance; shame reduces the willingness to disclose).
 
 Understanding what psychological help actually looks like, how to find it, what to expect from it, how to evaluate it, and how to make the most of it is not information that most people have before they need it. The consequence is that many people either delay help-seeking until conditions are significantly worse than they needed to be, or engage with ineffective help without understanding how to identify this or seek something better.
@@ -145,4 +144,4 @@ Seeking psychological help is not the end of the story of one's struggle with me
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

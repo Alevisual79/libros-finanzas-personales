@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Julie reviewed her client list at the end of her sixth year as an executive communications consultant, she found that her forty-one active clients fell into a profoundly uneven distribution. Her top eight clients — twenty percent of her client count — generated sixty-seven percent of her revenue. The next twelve clients generated twenty-three percent. The remaining twenty-one clients — fifty percent of her client count — generated only ten percent of her revenue, while requiring approximately forty-five percent of her administrative time (due to higher per-project communication overhead, more scope discussions, and more billing complexity).
 
 The Pareto pattern was clear and stark. But the more revealing finding was the quality difference, not just the revenue difference: her top eight clients also produced eighty-one percent of her referral business, were the source of every testimonial she had ever received, provided the largest and most creatively satisfying projects, and were the most consistent in their payment and communication. The bottom half of her client list was not just less profitable; it was actively consuming the attention and energy that her most valuable clients deserved.
@@ -137,4 +136,4 @@ Julie's Pareto analysis was uncomfortable. Half her clients were generating ten 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

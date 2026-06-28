@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus noticed the pattern in the data he had been gathering on his own professional performance for three months. He had been tracking his output quality at hourly intervals throughout each workday, using a simple five-point scale. The pattern was consistent across the weeks: peak quality between 8:00 and 11:00 AM, declining through the afternoon, with a modest recovery between 4:00 and 6:00 PM before falling again in the evening.
 
 What was also consistent: the time was always there. The nine-to-five structure of his organizational membership was fixed; he was at his desk for those hours regardless of what his energy was doing. The hours were constant; the quality of what those hours produced was not. The variation was not in the quantity of time available — time was always available — but in the energy that he was bringing to it.
@@ -161,4 +160,4 @@ The management of energy across its four dimensions — physical, emotional, men
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 In 2004, a genetic epidemiologist named David Sloan Wilson proposed that human beings are, in the most literal and precise sense, "the ultrasocial species" — the only species, among all the social species on Earth, that has built extensive cooperation with genetically unrelated strangers. Ants cooperate, but with genetic relatives. Chimpanzees cooperate, but within small groups of individuals with extensive prior relationship. Humans cooperate with millions of strangers who share no genetic relationship and no prior acquaintance, in institutional structures (markets, states, religions, universities) that span generations and continents.
 
 This extraordinary capacity for large-scale cooperation with strangers is the source of virtually every distinctively human achievement: science, literature, medicine, law, music, architecture, agriculture. It is also fragile, contested, and unevenly distributed. The same species that built the International Space Station has twice fought World Wars. Understanding cooperation — what produces it, what undermines it, what the research shows about altruism and its limits — is one of the most important problems in social science.
@@ -137,4 +136,4 @@ Cooperation is not the default condition of human social life; it is an achievem
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

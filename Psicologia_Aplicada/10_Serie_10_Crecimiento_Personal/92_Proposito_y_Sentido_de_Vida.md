@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena tiene un trabajo bien pagado, una vida social activa, y sin embargo a veces siente que algo le falta que no sabe nombrar exactamente. Ruben tiene éxito en su negocio y aun así hay mañanas en que le cuesta levantarse porque no recuerda por qué exactamente hace lo que hace. Isabel ha llegado a los cincuenta y dos años con una carrera sólida y se pregunta si los próximos veinte años podrían tener un sentido diferente al que han tenido los anteriores. Los tres buscan algo que la psicología llama proposito o sentido de vida: una razón profunda que ordene las elecciones, de coherencia a las acciones, y que proporcione la resistencia que la vida difícil requiere. Este libro es sobre esa búsqueda: su psicología, sus mecanismos, y como encontrar o construir el proposito que hace que la vida tenga más sentido.
 
 ---
@@ -175,4 +174,4 @@ Elena dejó de buscar su proposito y empezó a construirlo. Eligio una causa (la
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Ryan's food distribution company reached $5 million in annual revenue, he began to feel the limits of the informal coordination that had carried the business through its first four years. His team of fourteen people managed orders, logistics, supplier relationships, and customer accounts through a combination of email, text messages, spreadsheets, and collective memory. Everyone knew their jobs; most things worked most of the time.
 
 At $5 million, the failures were manageable inconveniences: a delivery that missed its window, an order that was entered incorrectly, a supplier invoice that was late to processing. At $8 million — where Ryan was projecting he'd be in two years if he continued growing at his current rate — the math of those failures was different. The same error rate applied to a larger volume of transactions produced more errors per week, more customer complaints per month, and more operational firefighting per year than his team could manage while also doing the core work of the business.
@@ -139,4 +138,4 @@ Ryan didn't need more people to handle his growth. He needed the infrastructure 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

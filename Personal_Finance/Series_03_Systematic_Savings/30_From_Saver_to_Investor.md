@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For most of her adult life, Elena saved money the same way most Americans do: she put money in a savings account and left it there. When she needed it, she spent it. When she didn't, it accumulated slowly at whatever rate her bank was paying.
 
 At 33, after two years of deliberately building savings discipline, she had $14,200 in her high-yield savings account. The account was earning 4.5% APY — good by savings standards. But it wasn't keeping pace with what inflation would do to it over decades, and it wasn't positioned to grow into the retirement security she needed.
@@ -194,4 +193,4 @@ Build the foundation. Then build on it.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

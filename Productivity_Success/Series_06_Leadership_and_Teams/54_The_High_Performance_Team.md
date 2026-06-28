@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sophie had been on two exceptional teams in her career. The first was early, in a startup with eight people, where the intensity of shared purpose, the fluency of communication, and the quality of interpersonal trust had produced a working experience unlike anything she had encountered before or since. Problems were identified before they became crises. Decisions were made quickly and well. The work was genuinely engaging, and the team's collective output consistently exceeded what anyone would have predicted from the individual capabilities of its members.
 
 The second was later, in a larger organization, assembled for a specific strategic initiative. It had the same quality. When she analyzed what the two teams had in common — and what distinguished them from the many adequate teams she had also been part of — the answer was not the individual talent levels, though both teams had talented individuals. It was the team-level dynamics: the specific ways in which the members worked together, communicated, made decisions, managed conflict, and held each other accountable.
@@ -155,4 +154,4 @@ The team that achieves the dynamics described in this book is not an accident. I
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

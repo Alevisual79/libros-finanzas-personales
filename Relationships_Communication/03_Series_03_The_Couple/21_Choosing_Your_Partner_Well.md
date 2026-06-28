@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Claire had made a list, at twenty-eight, of what she was looking for in a partner. It was a good list: kind, funny, ambitious, intellectually curious, emotionally available, stable. She had been fairly rigorous about it. When she met James at thirty-two, he met most of the criteria. When they married two years later, she was confident she had chosen well.
 
 What the list had not included — because she had not known to include it — was anything about the specific quality of who she was when she was with him. Whether the person she was with him was the person she wanted to be. Whether the life they were building together was the life she would choose if she were thinking clearly rather than from the specific altered state of being in love with someone.
@@ -150,4 +149,4 @@ The better question is not whether you chose perfectly. It is whether the person
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena sabe exactamente lo que va a pasar antes de que ocurra: su jefe dirá algo que suena a crítica, ella sentira el calor en la cara y la tensión en el pecho, y en menos de dos segundos respondera de una forma que más tarde lamentara. El ciclo es tan predecible que podría describirlo de antemano. Y sin embargo, en el momento, ocurre de todas formas. Esto no es falta de voluntad. Es la diferencia entre saber como debería responder y tener las herramientas para hacerlo cuando el sistema emocional ya esta en marcha. La regulación emocional es exactamente ese conjunto de herramientas.
 
 ---
@@ -175,4 +174,4 @@ Elena noto el calor en la cara y la tensión en el pecho. Nombro internamente: e
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

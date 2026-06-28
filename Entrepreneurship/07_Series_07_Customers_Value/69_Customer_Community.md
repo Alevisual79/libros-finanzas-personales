@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Stephanie launched the customer community for her HR software company, she had two goals: reduce her customer support costs by enabling customers to help each other, and increase her customer retention rate by creating a reason to remain engaged with the product beyond its functional utility.
 
 Both goals were achieved. But the outcome she hadn't anticipated — the one that turned out to be most valuable — was the intelligence the community generated. The conversations her customers had with each other about how they were using the software, what problems they were solving with it, and what they wished it could do revealed more about her product's actual value and its most important gaps than any customer survey she had ever conducted.
@@ -143,4 +142,4 @@ Stephanie launched her community to solve two specific problems: support costs a
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

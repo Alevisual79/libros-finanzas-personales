@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Cancer screening is one of the most value-laden areas of medicine. The same test can save a life (by finding a cancer early enough to cure it) and harm a life (by finding an abnormality that would never have caused harm, leading to unnecessary treatment with real side effects). Understanding which screens are recommended, for whom, at what ages, and why requires engaging with this complexity.
 
 The goal of this book is to explain the evidence behind standard cancer screening recommendations — not to create anxiety but to enable informed, proactive health decisions.
@@ -263,4 +262,4 @@ Cancer screening is not perfect — no screening test is. But for the conditions
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

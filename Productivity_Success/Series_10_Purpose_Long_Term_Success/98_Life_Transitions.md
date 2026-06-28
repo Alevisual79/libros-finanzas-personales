@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Every significant professional life includes transitions — the changes of role, organization, field, or professional identity that the career's development produces; the changes of personal circumstance that the life's development produces; and the changes of self that the intersection of professional and personal experience gradually works in the person who experiences them. These transitions are not interruptions to the professional life; they are its developmental structure.
 
 The research on transitions and adult development has produced a substantial understanding of the psychological processes through which significant life changes are navigated, the conditions that make transitions most productive, and the specific practices that most effectively support the transition from one professional identity or circumstance to the next. This research is both more practically useful and more psychologically sophisticated than the popular "change management" literature that the organizational version of the transition question has produced.
@@ -141,4 +140,4 @@ Navigate them with care. They are building you.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The product development team at Priya's company had spent eleven months developing a new platform feature — a complete redesign of the user onboarding experience. The work was careful, the design was thoughtful, and the internal reviews had been uniformly positive. They launched the feature to users and discovered, within thirty days, that the primary interaction point — the one the design team had considered most intuitive — was confusing to a substantial majority of users, causing a dropout rate significantly higher than the original onboarding flow.
 
 Eleven months of development, one month of data, and the most expensive lesson in the project's history: they had spent nearly a year perfecting a solution to a problem they had not actually observed users having with the original flow. The real problem, which the user behavior data quickly revealed, was different from the assumed problem, and the solution was different from the solution that eleven months had built.
@@ -155,4 +154,4 @@ Then make it better. The improvement that prototyping produces is not the refine
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel ha contratado a personas en su carrera de recursos humanos y, mirando en retrospectiva, algunas de sus decisiones de contratación tenían sesgos que no reconocia en el momento. Ruben ha tratado de forma diferente a personas que no se lo merecian, basandose en categorías que no tenían relevancia para la situación. Elena ha recibido tratos diferentes en su vida que no estaban justificados por su comportamiento sino por características de su apariencia o identidad. Los prejuicios y los estereotipos no son aberraciones de mentes malas: son el resultado de mecanismos cognitivos normales que en determinados contextos producen errores sistemáticos con consecuencias reales para personas reales. Este libro es sobre esos mecanismos y sobre como reducir el daño que producen.
 
 ---
@@ -175,4 +174,4 @@ Isabel cambio los formularios de evaluación de rendimiento. Antes, los managers
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

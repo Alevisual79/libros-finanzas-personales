@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 El autoconocimiento tiene mala prensa. Se asocia con el narcisismo de quien habla solo de si mismo, con la navel-gazing de quien se mira el ombligo mientras el mundo gira. Pero el autoconocimiento real es exactamente lo opuesto: es la condición para dejar de proyectar en los demás lo que no ves en ti mismo.
 
 La persona que no se conoce confunde sus propias emociones con las del otro. Atribuye sus intenciones al otro. Crítica en el otro lo que no reconoce en si misma. Busca en el otro lo que no se da a si misma. El autoconocimiento no es narcisismo. Es la base sin la que ninguna relación profunda es posible.
@@ -189,4 +188,4 @@ El siguiente libro de esta serie cierra el ciclo.
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos tiene mucho conocimiento pero es completamente invisible online. Lucia tiene presencia online pero no está construyendo autoridad en un área específica. Marcos tiene credenciales corporativas impresionantes pero no tiene ninguna presencia digital y cuando buscan su nombre en Google no aparece nada relevante. Los tres necesitan entender que en la economía digital, la invisibilidad es el mayor problema competitivo que puede tener un profesional o un emprendedor. La marca personal digital no es vanidad. Es el activo que genera oportunidades cuando no estas buscandolas activamente.
 
 ---
@@ -175,4 +174,4 @@ Marcos público en LinkedIn dos veces a la semana durante un año. Al principio,
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

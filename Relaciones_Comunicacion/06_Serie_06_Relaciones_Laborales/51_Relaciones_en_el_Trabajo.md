@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena trabaja con personas extraordinarias y se siente sola en la oficina. Llega, hace su trabajo con excelencia, y se va sin haber construido ninguna conexión real con quienes la rodean ocho horas al dia, cinco dias a la semana. Las relaciones laborales, descubre con el tiempo, no son simplemente herramientas instrumentales para conseguir objetivos profesionales. Son el tejido que determina si esas ocho horas diarias se viven con sentido de pertenencia o con aislamiento silencioso.
 
 ---
@@ -155,4 +154,4 @@ Quien te rodea en el trabajo determina tanto tu éxito como tu bienestar. Elige 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

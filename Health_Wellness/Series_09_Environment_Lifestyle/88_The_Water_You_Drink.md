@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Water is the medium in which virtually all biological chemistry occurs. Adequate hydration is prerequisite to normal cognition, physical performance, thermoregulation, and organ function. And yet hydration is simultaneously one of the most evidence-based topics in health and one of the most confused by marketing, mythology, and genuine complexity around water quality.
 
 This book covers both the science of hydration — how much, when, and what quality of water — and the more complex question of what contaminants are in tap water, what water filtration achieves, and what the evidence says about water choices.
@@ -246,4 +245,4 @@ Water is not glamorous — but it is fundamental. Adequate hydration is the simp
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

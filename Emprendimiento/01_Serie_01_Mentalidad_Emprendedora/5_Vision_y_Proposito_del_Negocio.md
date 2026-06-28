@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos tiene un negocio que funciona: genera ingresos, tiene clientes satisfechos, y crece despacio pero consistentemente. Y sin embargo hay mañanas en que le cuesta enormemente levantarse para trabajar en el. Lucia sabe exactamente lo que hace su empresa pero a veces tiene dificultad para explicar con convicción por qué existe más allá de ganar dinero. Marcos construyo su negocio con una visión muy clara en el primer año. Dos años después, esa visión se ha erosionado bajo el peso de las urgencias operativas del dia a dia. Los tres necesitan lo mismo: reconectar con el por qué que ordena el como, que hace los momentos difíciles tolerables, y que atrae a los mejores clientes, empleados, y colaboradores. Este libro es sobre la visión y el proposito del negocio como su fuerza más profunda.
 
 ---
@@ -175,4 +174,4 @@ Lucia volvio a sus comienzos. Releyo el documento que había escrito cuando fund
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

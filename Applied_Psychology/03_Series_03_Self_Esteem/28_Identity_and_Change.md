@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For seventeen years, Rafael had been a surgeon. Not a person who performed surgery, but a surgeon — in the complete sense in which a profession can organize an identity. His schedule, his vocabulary, his social world, his sense of what constituted a good day, his answer to every introduction, his understanding of what he was for in the world — all of it was organized around the fact of being a surgeon. When a hand tremor required him, at fifty-two, to step away from the operating room, the medical career did not simply end. Something more fundamental was disrupted: the organizing structure through which he had understood who he was. He was surprised to discover that this disruption felt less like grief for the specific work and more like the disorientation of a person who does not know where they are standing.
 
 Identity is the answer to the question "who am I?" — the stable, coherent sense of self that provides continuity across time, consistency across contexts, and meaning in the face of experience. It is not a fixed property that one either has or lacks but a dynamic, ongoing construction that develops across the lifespan and must be rebuilt, expanded, or revised in the face of significant change. The psychological literature on identity has converged on a view of identity as narrative — the story one tells about who one is, where one came from, and where one is going — and on the recognition that major life transitions require not just behavioral adaptation but narrative revision. Understanding how identity works, how it develops, and how it survives and transforms through change is among the most practically important psychological knowledge available to an adult navigating a life that will inevitably include significant change.
@@ -137,4 +136,4 @@ Identity is not what you are doing but what is doing it. Roles, relationships, a
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos empezó su negocio con dos mil euros de sus ahorros y sin inversión externa. Dos años después, tiene un negocio rentable que ha financiado completamente con sus propios ingresos. Lucia busco un inversor durante seis meses en el primer año de su negocio y al final decidió no buscar más y construir con lo que tenía. Esa decisión la obligó a ser más disciplinada con los gastos, más creativa con los recursos, y más rápida en generar ingresos. Marcos viene del mundo corporativo donde los presupuestos son grandes y los recursos se dan por hechos. Bootstrapping le ha enseñado más sobre eficiencia y creatividad que veinte años de gestión de presupuestos corporativos. Los tres han descubierto que la restricción del bootstrapping no es solo un limitante. A veces es la ventaja.
 
 ---
@@ -175,4 +174,4 @@ Carlos miro sus números al cabo de dos años de bootstrapping: un negocio renta
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

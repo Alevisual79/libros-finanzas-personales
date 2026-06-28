@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben fue a urgencias tres veces en dos años convencido de que tenía un problema cardiaco. Las tres veces los médicos le dijeron que estaba bien. La tercera vez, una médica le pregunto con cuidado si había estado bajo mucho estrés. Ruben dijo que no más de lo normal. Pero cuando la médica le pregunto como había dormido en el último mes, si tenía dolores de cabeza frecuentes, si notaba tensión muscular constante, si su digestion era irregular, Ruben empezó a ver el cuadro completo: su cuerpo llevaba meses hablando un idioma que el no había aprendido a leer.
 
 ---
@@ -175,4 +174,4 @@ Ruben dejó de ir a urgencias. No porque sus sintomas físicos hubieran desapare
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

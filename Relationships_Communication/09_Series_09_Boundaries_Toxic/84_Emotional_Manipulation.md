@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sana had spent two years wondering why conversations with her colleague that began as straightforward professional exchanges consistently ended with her feeling that she had agreed to something she had not intended to agree to.
 
 She was not, she knew, unintelligent. She was not particularly impressionable in most contexts. She was, professionally, competent and clear-headed enough that the specific quality of confusion she experienced in these exchanges puzzled her — the specific experience of emerging from a conversation with only a vague sense of how the conversation had arrived at its endpoint, and with a commitment she had not consciously made.
@@ -159,4 +158,4 @@ Reduce the gap.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

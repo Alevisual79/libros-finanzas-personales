@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Rosa's mother was eighty-one and had, in the past two years, gradually become someone who needed daily management in ways she had not needed before. Not dramatically — there had been no single health crisis that announced the change. The change had been incremental: the increasing difficulty with driving, the medication management that required oversight, the mild but perceptible cognitive slowing that made the complex administrative tasks of her own life beyond her capacity. Rosa's mother was still herself, in the most important ways — still funny, still sharp in moments, still the woman Rosa had known for fifty-six years. She also needed things that she had never needed before, and her daughter was the person most positioned to provide them.
 
 Rosa had discovered, in the past eighteen months, that caregiving for an aging parent was one of the most demanding relational experiences available — physically, practically, emotionally, and in the specific way that it reconfigured the relationship that had, until recently, been the defining relationship of her life.
@@ -141,4 +140,4 @@ It is also, sometimes, one of the most profound.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

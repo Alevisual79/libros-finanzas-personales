@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena tiene treinta y cuatro años y empieza a preguntarse como quiere estar mentalmente a los cincuenta, a los sesenta, a los setenta. Hasta ahora había manejado la salud mental de forma reactiva: cuando algo fallaba, buscaba ayuda. Pero hay otro modo de relacionarse con la salud mental que es proactivo: diseñar la vida de forma que las condiciones del bienestar esten presentes por defecto. Este libro es sobre ese diseño a largo plazo, basado en lo que la investigación longitudinal ha identificado como los factores que más robustamente predicen el bienestar mental a lo largo de la vida.
 
 ---
@@ -175,4 +174,4 @@ Elena tenía treinta y cuatro años cuando empezó a pensar en el bienestar cóm
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

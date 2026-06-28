@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Why memorize when you can look it up? The question predates AI — it was asked about search engines in 2003. The answer then is the same now: because knowledge in your head enables thinking that knowledge in a database does not.
 
 ---
@@ -95,4 +94,4 @@ Outsourcing memory to AI is efficient in the short term and expensive in the lon
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

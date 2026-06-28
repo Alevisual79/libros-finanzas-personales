@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Two children receive the same failing grade on a difficult mathematics test. The first child reads the grade, feels disappointed, and concludes that mathematics is not for them — they're not a math person, and this grade confirms it. The second child reads the grade, feels equally disappointed, and thinks about what they got wrong and what they need to study differently. The first child avoids challenging mathematics problems in subsequent weeks; the second seeks them out. Three months later, their mathematics performance has diverged significantly. The divergence is not explained by any difference in initial ability — it is explained entirely by what each child believed the grade meant about them.
 
 Carol Dweck's research on implicit theories of intelligence — the concept she ultimately called "mindset" — began in the late 1970s and produced what has become one of the most influential bodies of research in educational and developmental psychology. Dweck's central finding: children (and adults) differ systematically in whether they believe their intelligence and abilities are fixed, stable traits (the "fixed mindset") or malleable, developable capacities that can be grown through effort and learning (the "growth mindset"). And this difference — in belief about the nature of intelligence, not in intelligence itself — produces systematic differences in goal-setting, learning strategy, response to failure, and ultimately in achievement outcomes across a wide range of domains.
@@ -135,4 +134,4 @@ The growth mindset is not a magical belief that converts failure to success. It 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

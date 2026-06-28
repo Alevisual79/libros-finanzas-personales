@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Diego opened LinkedIn every morning. He wasn't entirely sure why — the practice had become reflexive, sandwiched between turning off his alarm and making coffee. What he found, every morning, was evidence that everyone around him was advancing faster than he was. A peer's promotion announcement. A former classmate's startup funding. Someone younger with an impressive new title. A conference speaking opportunity that someone he didn't know had secured.
 
 None of these developments were connected to his own life in any practical way. The peer's promotion changed nothing about his work. The startup funding changed nothing about his competitive position. And yet, every morning, Diego arrived at the office already slightly behind — already aware of the gap between where he was and where everyone else apparently was.
@@ -163,4 +162,4 @@ He was running a different race than he had thought. He always had been. The rac
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

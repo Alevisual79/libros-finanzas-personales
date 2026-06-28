@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel took six medications. She knew what three of them were for. She wasn't sure why she'd been started on one of them (prescribed by a specialist two years earlier, never reviewed by her primary care). She didn't know which of them she should take with food, which to avoid with grapefruit, or what to do if she missed a dose.
 
 More than 40% of American adults take prescription medications; nearly 20% of adults over 65 take five or more. Drug interactions, adherence failures, side effects, and medication errors are among the most preventable causes of hospitalization and health complications. Understanding your medications is not optional — it is a patient safety responsibility.
@@ -282,4 +281,4 @@ Medications work when taken as prescribed, in the right dose, at the right time,
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

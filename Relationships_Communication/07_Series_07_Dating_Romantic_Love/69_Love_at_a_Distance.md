@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Maya's new relationship had not been planned as a long-distance relationship. When she had met David at the conference in Vancouver — which was where she had gone two weeks before she met him, for reasons entirely unrelated to romantic opportunity — she had not expected to find herself eight months later having the conversation about what this was going to mean, geographically.
 
 He had been offered a position in London. The position was significant, the kind of professional opportunity that arrives once and does not wait while the person considers. He wanted it. He also wanted, he had said, what they were building — and the specific feature of what they were building was that it existed in the same city, and the offer had threatened to change that.
@@ -151,4 +150,4 @@ It is a test of how much you're willing to invest in it.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

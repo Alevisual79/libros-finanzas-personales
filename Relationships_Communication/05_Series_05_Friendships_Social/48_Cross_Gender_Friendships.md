@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Jordan and Priya had met at a professional event six months after Jordan had moved to Toronto. They had ended up in the same conversation group and had talked, unexpectedly, for most of the evening — about their respective work, about the city, about the specific experience of building a life in a place that doesn't yet know you. Priya had given him recommendations for the neighborhoods he hadn't yet discovered. He had made her laugh twice.
 
 They had become friends. Not immediately — there had been coffees and the occasional shared lunch and a gradual accumulation of the specific familiarity that genuine friendship requires. But clearly, and genuinely.
@@ -145,4 +144,4 @@ Getting to that place usually requires being deliberate about it.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

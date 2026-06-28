@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Maya had been divorced for fourteen months when she made the profile.
 
 She had made it and deleted it twice before the third version survived longer than twenty-four hours. The profile that finally remained was careful — three photographs that she had selected and revised for a week, a description that she had written and deleted and rewritten more times than she could count, with the specific project of sounding like herself while not sounding like the person she actually was right now, which was someone who was tired and sad and uncertain about almost everything relating to romantic partnership.
@@ -149,4 +148,4 @@ Writing it well requires knowing where the previous chapter actually ended.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

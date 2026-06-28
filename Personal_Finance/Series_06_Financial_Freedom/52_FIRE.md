@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben had been reading about FIRE for three weeks when he mentioned it to Elena over coffee. He'd stumbled onto the Mr. Money Mustache blog through a freelancer forum, and something about the mathematics had hooked him. People were retiring in their thirties and forties — not because they had unusually high incomes, but because they had unusually high savings rates. One couple profiled had retired with $850,000 and were living on $34,000 per year in Colorado, hiking three days a week and growing a garden. Ruben showed Elena the post. She read it twice. "Is this real?" she asked. Ruben shrugged. "The math checks out," he said. "I've been running the numbers for two days."
 
 Elena's reaction was more ambivalent. She made $78,000 now, after her raise, and she wasn't sure she wanted to retire early — she was just getting good at her marketing career, and she genuinely enjoyed some of her work. But the underlying idea was compelling: not retirement as an endpoint, but financial independence as a threshold that changed what you could afford to do. If she had enough invested that she could live off the returns, she could take risks with her career she'd never take otherwise. Walk away from a bad boss. Start her own consulting practice. Take a year off to travel and write. She didn't want to stop working. She wanted to work without desperation. That, she realized, was what the FIRE community was actually offering, even if the acronym pointed toward early retirement.
@@ -186,4 +185,4 @@ The next book in this series, "Early Retirement at 45," takes the FIRE framework
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had always believed she was "pretty good with money." She paid her bills on time, never overdrafted her checking account, and kept a credit card balance that felt manageable — around $4,200 at any given moment. At 33, earning $78,000 a year after her recent raise, she figured debt was just part of adult life. Everyone had some. You paid the minimum, you carried it forward, you moved on. Then one evening, after a difficult conversation with a colleague who had just paid off her car loan, Elena sat down and actually calculated what her debt was costing her. The number stopped her cold: at her current interest rate of 22.9%, she was paying roughly $80 a month just in interest — money that bought her nothing, built nothing, and would keep cycling through her statement indefinitely as long as she only paid the minimum. That evening marked the beginning of something different.
 
 Ruben's relationship with debt was more turbulent. As a freelance graphic designer earning between $60 and $80 per hour depending on the client, his income arrived in lumps — a big project payment in March, silence in April, two invoices paid at once in May. He had learned to absorb the irregular rhythm by doing what felt natural: spending freely when money was in, borrowing informally (or putting things on credit) when it was out. The result was a pattern of perpetual financial instability masked by a surface-level sense of creative freedom. At 34, he had no retirement savings, no emergency fund, and a rotating credit card balance that fluctuated between $1,800 and $5,500 depending on the month. He told himself this was the freelance life. It didn't have to be.
@@ -169,4 +168,4 @@ Ruben finished his payoff at month nine and kept the 20% rule in place, redirect
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

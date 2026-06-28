@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena ha tomado tres test de personalidad diferentes en los últimos años. Los tres le han dado descripciones que le resonaban, pero que al mismo tiempo describian a tanta gente que no le ayudaban a entenderse mejor. Lo que busca no es una etiqueta sino un mapa: un sistema que le permita entender por qué reacciona como reacciona, por qué le cuestan ciertas cosas y otras no, y como puede usar ese conocimiento para tomar mejores decisiones. Este libro es sobre los modelos que la ciencia ha desarrollado para entender la personalidad: sus bases, su evidencia, sus límites, y lo que cada uno puede darte que los otros no pueden.
 
 ---
@@ -175,4 +174,4 @@ Elena revisó sus resultados del Big Five con su psicologa. Lo que encontró no 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

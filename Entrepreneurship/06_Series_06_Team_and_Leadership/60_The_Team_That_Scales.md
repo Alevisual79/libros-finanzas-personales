@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Luke started his food safety consulting firm, he had a clear competitive advantage: the quality of his individual judgment, grounded in fifteen years of FDA regulatory experience. Clients hired Luke. His name was the brand, his relationships were the client base, and his expertise was the product. The business he built around himself was excellent and, by his fifth year, was earning $1.8 million annually.
 
 Then he tried to scale it. He hired three additional consultants, invested in marketing, and pursued larger contracts. The revenue grew to $2.6 million — and something changed. The clients who had hired Luke because of his personal judgment were now being served primarily by his new consultants. The quality — while technically adequate — was less consistent than what Luke produced himself. Two long-term clients quietly reduced their engagement volume without explicitly citing the change in service quality. The firm that had been built on Luke's individual excellence was growing in revenue and declining in differentiation.
@@ -141,4 +140,4 @@ Luke built a firm that is worth more than he is personally — not because he is
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Dr. Maria Chen had been practicing internal medicine for twenty-two years when a patient named Robert walked into her office carrying a tote bag filled with herbal supplements, a printout from a naturopathic website, and a blood pressure log showing readings that had improved over the past three months — without the medication she'd prescribed. Robert wasn't adversarial. He was genuinely curious, even humble. He wanted to understand whether what he was doing was safe, whether it was actually working, and whether it could coexist with conventional treatment. Maria realized she didn't have a complete answer. Medical school had taught her to dismiss most alternative therapies, but the honest truth was that she'd never been trained to evaluate them methodically. She knew they weren't all equivalent, but she lacked the tools to explain precisely why acupuncture and homeopathy occupied fundamentally different positions in the evidence hierarchy.
 
 That conversation sent Maria on a two-year journey through the research literature on complementary and alternative medicine. What she found was not a simple story of "real medicine" versus "quackery." The picture was far more nuanced. Some alternative therapies had accumulated a surprisingly robust body of evidence. Others had been tested extensively and failed every rigorous trial. And a third category — perhaps the largest — occupied an uncertain middle ground where promising preliminary findings had not yet been confirmed by high-quality research. The problem for patients was that they had almost no way of knowing which category any given therapy fell into, because advocates presented everything with the same confident certainty.
@@ -179,4 +178,4 @@ The goal of building your integrative health approach is not to arrive at a stat
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

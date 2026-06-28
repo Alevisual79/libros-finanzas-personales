@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The average American adult now spends more than 11 hours per day interacting with screens. For many people, the phone is the first thing they see in the morning and the last thing they interact with before sleep. Social media platforms are designed by teams of behavioral scientists to maximize time spent and emotional engagement — the product is your attention, and the metrics that define success are measured in minutes of engagement per day.
 
 This is not a moral argument against technology. It is an observation that the technology environment adults inhabit has been intentionally designed for maximum engagement, not for human flourishing. Choosing how to inhabit that environment — deliberately rather than by default — is a health behavior with measurable consequences.
@@ -247,4 +246,4 @@ Technology is not the enemy of health. It is a powerful tool that can support or
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

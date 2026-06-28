@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Lucía had two modes of professional operation. In the first, she felt reasonably in control — she knew what she was working toward, why she was spending her time as she was, and whether she was making progress on the things that mattered. In the second, she felt perpetually behind — reacting to demands, running between obligations, and ending each day uncertain whether the day had served any purpose that she had actually intended.
 
 The difference between the two modes, she eventually identified, was a single practice. In the weeks when she had spent sixty minutes on Sunday evening reviewing the week behind and planning the week ahead, she operated in control mode. In the weeks when she had skipped that review — which happened in approximately a third of all weeks, reliably in the weeks when she was busiest and needed it most — she operated in reactive mode.
@@ -165,4 +164,4 @@ Sixty minutes. Every week. Without fail. It is less glamorous than the productiv
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

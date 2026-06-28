@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Dos personas se sientan a hablar. Una dice que esta de acuerdo, pero su postura se cierra, sus brazos se cruzan, su mirada se va hacía un lado. La otra nota algo sin saber exactamente que. Sale de la conversación con una sensación de que algo no cuadraba.
 
 No recordamos las palabras de las personas. Recordamos como nos hicieron sentir. Y como nos hacen sentir tiene mucho más que ver con su lenguaje corporal que con el contenido de lo que dicen.
@@ -181,4 +180,4 @@ Elena empezó a prestar atención a su propio lenguaje corporal en las conversac
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

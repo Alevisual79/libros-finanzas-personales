@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel had been a homeowner for twenty-two years. She remembered signing the mortgage documents at age thirty — the stack of papers thicker than a novel, the ink still wet when the realtor shook her hand. For most of those years, she had thought of her home simply as the place she lived, the place her kids grew up, the place where Thanksgiving dinner happened. It was not until she started working with a financial planner at fifty that she understood her house was also one of the most tax-advantaged assets she would ever own. By then, her mortgage was winding down, her home had appreciated substantially, and a whole layer of tax strategy had been sitting there, mostly unused, for two decades.
 
 Ruben had been thinking about buying a rental property for three years. He had run the numbers on duplex units in his city, read forums, watched videos, asked questions at meetups. What he had not done was sit down and understand the full tax picture: how depreciation worked, what he could deduct against rental income, and how the passive activity loss rules might affect his ability to use those deductions. He was optimistic but underinformed, which is a dangerous combination in real estate investing.
@@ -163,4 +162,4 @@ The next book in this series examines what happens when wealth moves between gen
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

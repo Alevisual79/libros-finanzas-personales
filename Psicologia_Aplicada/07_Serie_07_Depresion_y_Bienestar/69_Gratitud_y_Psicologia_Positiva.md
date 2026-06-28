@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben ha escuchado tantas veces que debería ser más agradecido que la gratitud le suena a obligación moral, no a recurso psicológico. Tiene una reacción de rechazó ante la idea de los diarios de gratitud y las listas de cosas positivas. Lo que no sabe es que la investigación sobre la gratitud en las últimas dos décadas ha demostrado efectos biológicos y psicológicos específicos que van mucho más allá de lo que la cultura popular del pensamiento positivo ha convertido en cliche. Este libro es sobre la ciencia real de la gratitud y la psicología positiva: que son, como funcionan, y como practicarlas de forma que produzcan cambios reales.
 
 ---
@@ -175,4 +174,4 @@ Ruben escribió su primera carta de gratitud a su madre. Tardo dos horas porque 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

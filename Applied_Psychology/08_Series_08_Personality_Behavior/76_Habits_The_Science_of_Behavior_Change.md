@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The ritual was so automatic that Lucas had difficulty explaining it to his therapist when she asked him to describe what happened between arriving home from work and watching television. He arrived home. He changed clothes. He made a snack. He sat on the couch. At some point, the television was on. He was not certain when each step had initiated; the sequence had achieved a fluency that made its individual components nearly invisible. The whole sequence occupied perhaps fifteen minutes. In those fifteen minutes, the decisions about where to spend the next several hours of his life — decisions that, made deliberately, might have been made very differently — had effectively been made without his participation.
 
 This is the nature of habit: behavior that has been practiced sufficiently often, in a consistent context, that it is now controlled by automatic processes rather than deliberate decision-making. Charles Duhigg's popularization of the habit loop, James Clear's atomic habits framework, and BJ Fogg's Tiny Habits approach have generated enormous popular interest in the science of habit and behavior change. Behind these popular accounts is a substantial scientific literature — developed over more than a century of learning theory, cognitive psychology, and neuroscience — that provides a rigorous account of how habits form, why they are difficult to change, and what evidence-based strategies actually work for changing them.
@@ -135,4 +134,4 @@ Habits are the architecture of daily life. They determine the texture of ordinar
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

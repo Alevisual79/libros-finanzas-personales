@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel fue a una primera cita el año pasado. Se paso toda la noche intentando gustarle a el: calculando cada respuesta, monitoreando su propia expresión facial, preguntandose constantemente que impresión estaba generando. Al final de la noche, no recordaba casi nada de lo que el le había contado. Habia estado tan ocupada actuando que se había perdido completamente la oportunidad de conocerlo, y de conocerse a si misma en esa interacción.
 
 ---
@@ -155,4 +154,4 @@ En una primera cita, el objetivo no es gustarle. Es descubrir si os gustais mutu
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Priya had collected strategies the way some people collect self-help books: breathing exercises, journaling prompts, grounding techniques, apps with guided meditations, a blue light filter for her phone. She practiced them sporadically and believed in them fully between practice sessions. What she didn't have was a framework for understanding why any of them worked, which meant she couldn't choose the right tool for the right moment, couldn't troubleshoot when a technique didn't work, and tended to abandon everything when anxiety was at its worst — precisely when the tools were most needed. Learning that her anxiety had a physiology and that her techniques were acting on specific aspects of that physiology changed how she used them. Not the tools themselves, but the understanding — and that turned out to matter.
 
 Anxiety management is not a single technique but a set of skills targeting different components of the anxiety response. The physiological arousal of the sympathetic nervous system is addressed differently from the cognitive patterns of worry and catastrophizing, which are addressed differently from the avoidance behaviors that maintain anxiety over time. Effective anxiety management requires knowing the difference — deploying physiological regulation tools when the body's alarm is activated, cognitive restructuring when thinking patterns are the problem, and behavioral engagement when avoidance is the mechanism sustaining the fear. This book maps the research-validated landscape of anxiety management techniques and provides the conceptual framework for using them intelligently.
@@ -139,4 +138,4 @@ Anxiety management is ultimately about expanding the range of conditions under w
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

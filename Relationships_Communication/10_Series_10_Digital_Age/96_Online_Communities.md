@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Priya had a professional interest in online communities and a personal experience of them that she described to students as "useful data."
 
 The personal experience: she had, in the year following her divorce, joined several online communities organized around interests and experiences she cared about — a community for researchers studying technology and society, a community for people who had experienced late divorce and were rebuilding their lives, and a community organized around a specific genre of literary fiction that she had loved since graduate school.
@@ -157,4 +156,4 @@ Then go meet them for coffee.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Mia had taken three days off from social media in January and had found the experience so uncomfortable that she had ended it after thirty-six hours.
 
 She had not ended it because she had been bored, or because anything urgent had required her attention, or because she had encountered any practical consequence from the disconnection. She had ended it because the specific quality of the discomfort — the ambient restlessness, the habitual reaching for her phone to find nothing new available, the particular absence that the notifications' silence had produced — had been more than she had been prepared for.
@@ -163,4 +162,4 @@ The moment you are in will not.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Marcos paso veinte años construyendo una carrera corporativa brillante: ascensos regulares, responsabilidades crecientes, un salario que le permitia vivir bien. Cuando decidió emprender, descubrió algo que nadie le había advertido: las habilidades y los patrones mentales que le habían llevado al éxito como empleado no solo no le servian como emprendedor sino que activamente le perjudicaban. Esperaba que le dijeran que hacer. Buscaba la certeza antes de actuar. Gestionaba el riesgo hacía abajo en lugar de hacía arriba. Optimizaba su rendimiento personal en lugar de construir un sistema. El cambio de mentalidad de empleado a emprendedor no fue una transición natural. Fue la transformación más difícil de su vida profesional.
 
 ---
@@ -175,4 +174,4 @@ Marcos tardó dieciocho meses en sentir que realmente era emprendedor en lugar d
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

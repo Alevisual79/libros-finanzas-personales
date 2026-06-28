@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos tiene un producto que funciona y cero euros para publicidad. Lucia gasta en Google Ads más de lo que gana en los clientes que consigue. Marcos viene de corporaciones donde el presupuesto de marketing era uno de los números más grandes del balance y no concibe como atraer clientes sin gastarlo. Los tres necesitan entender algo fundamental: el dinero en marketing no crea demanda. La identifica y la captura. La demanda viene de la relevancia del mensaje, la claridad del problema que resuelves, y la confianza que produces. Todo eso puede construirse sin dinero. Con trabajo. Que es diferente.
 
 ---
@@ -175,4 +174,4 @@ Carlos revisó sus números al cabo de dieciocho meses de marketing sin presupue
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

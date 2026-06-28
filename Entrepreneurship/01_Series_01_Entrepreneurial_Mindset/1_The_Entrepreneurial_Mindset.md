@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had been writing code for nine years, and he was good at it. He knew that. His GitHub contributions were green every single day, his pull requests merged clean, his performance reviews flawless. Yet every Sunday evening, sitting in the blue glow of his monitor, he felt a particular kind of dread — not about Monday, but about Tuesday, and Wednesday, and every day after that, stacked in identical formation until retirement. He had a good job. He had a good salary. He had health insurance and paid vacation and a 401(k) match. And none of it felt like his.
 
 The idea had been forming for two years: a SaaS tool that would simplify how small development teams manage technical debt. He'd built a prototype in weekends. He'd shown it to three friends who said "that's cool." He'd read seventeen books on entrepreneurship. And he'd done nothing. Not because he lacked ability. Because every time he was about to take a step, a voice inside him reasoned his way back to safety. *What if it fails? What if nobody pays? What if you ruin everything you've built?*
@@ -170,4 +169,4 @@ You already have the raw materials for this mindset. You have curiosity, or you 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

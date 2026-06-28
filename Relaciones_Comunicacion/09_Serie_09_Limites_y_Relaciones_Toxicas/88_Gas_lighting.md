@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben ha llegado a dudar de su propia memoria en conversaciones con alguien específico en su vida. Cree, sinceramente, que el problema es su propia falta de atención o su memoria poco fiable. En realidad, descubre eventualmente, lo que está experimentando es una dinámica sistemática y reconocible de manipulación que tiene un nombre específico, y entender ese nombre es el primer paso para dejar de culparse a si mismo por algo que otra persona está haciendo deliberadamente.
 
 ---
@@ -155,4 +154,4 @@ El gaslighting es violencia sin huellas visibles. La primera defensa es saber qu
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

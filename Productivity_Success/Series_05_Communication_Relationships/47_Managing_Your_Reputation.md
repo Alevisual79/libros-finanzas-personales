@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Valentina had not been managing her reputation; she had been hoping it managed itself. She worked hard, produced good results, and treated her colleagues well. She assumed, reasonably, that these facts were visible and that the professional reputation she was accumulating was commensurate with them.
 
 The feedback she received at thirty-nine — from a trusted mentor who told her bluntly that she was widely perceived as technically excellent but not strategically credible — was her introduction to the gap between the reality she inhabited and the perception others had constructed. She was credible in her domain; she was perceived as not credible in the strategic conversations that leadership opportunity required engagement with.
@@ -159,4 +158,4 @@ The professional who neglects this work does not avoid reputation management —
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

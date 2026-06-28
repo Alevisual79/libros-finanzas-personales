@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva tres años contratando personas para su empresa de tecnología. Cree que es objetiva, que evalua CV y entrevistas con criterio técnico puro. Hasta que un colega le muestra los datos: contrata sistemáticamente a personas que estudiaron en la misma universidad que ella, que tienen nombres que le resultan familiares, que llegan recomendadas por alguien de su red. Elena no lo hace con mala intención. Lo hace porque su cerebro, sin pedirle permiso, aplica atajos que llevan miles de años funcionando. El problema es que esos atajos, útiles en la sabana africana, distorsionan sistemáticamente la realidad en un mundo complejo.
 
 ---
@@ -175,4 +174,4 @@ Elena implementó un proceso de contratación con criterios escritos antes de ve
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

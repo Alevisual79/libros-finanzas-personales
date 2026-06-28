@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene cuarenta y dos años y todavía pierde el sueño por cosas que hizo a los veinte. Una decisión que le parecio bien en ese momento y que resultado mal. Una cosa que dijo en una discusión que no debería haber dicho. Un período de vida en que fue una persona que hoy no reconoce como si misma. La culpa y la verguenza la tienen encadenada a versiones del pasado con una fuerza que no guarda ninguna proporción con el daño real de lo que ocurrio. Y eso encadenamiento, que siente como honestidad moral, en realidad no la hace mejor persona. Solo la hace más miserable.
 
 ---
@@ -175,4 +174,4 @@ Isabel durmio una noche sin despertar pensando en esa decisión de los veinte a�
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

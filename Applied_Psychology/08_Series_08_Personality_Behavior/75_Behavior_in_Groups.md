@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Carlos considered himself a relatively thoughtful person — someone who formed opinions carefully, who was reluctant to judge others without adequate information, who prided himself on intellectual independence. His surprise, then, when he watched the playback of a focus group recording that he had participated in, was genuine and uncomfortable. He could see himself, over the course of the ninety-minute session, systematically revising his stated opinions toward the majority position — opinions he had held confidently before the group began. He could see himself laughing at jokes he would not have found funny alone, nodding in agreement with statements he privately doubted, and contributing less to the discussion as the session progressed and the group dynamics became more established. He was not the person he thought he was in groups. Or rather — and this turned out to be the more productive framing — he was discovering that the person he thought he was also responded to the social environment in ways he had not fully recognized or understood.
 
 The study of behavior in groups is one of the oldest and most significant fields in social psychology, generating some of the most dramatic, disturbing, and practically important findings in the history of psychological science. The research on conformity, obedience, social facilitation, groupthink, diffusion of responsibility, and intergroup conflict has repeatedly demonstrated that the group context changes how individuals think, feel, and behave in ways that are more powerful and more systematic than most people intuit. Understanding these effects — their magnitude, their mechanisms, and the conditions under which they can be resisted — is one of the most practically valuable contributions psychology has made.
@@ -137,4 +136,4 @@ The social psychology of groups reveals that individual behavior is less individ
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

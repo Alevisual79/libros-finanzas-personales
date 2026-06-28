@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 After the accident, Marcus returned to his regular life with what appeared to be remarkable speed. His physical injuries healed within weeks. He went back to work. He was told by people who saw him that he seemed fine. He did not feel fine. He dreamed of the accident with photographic precision. He flinched violently at sounds that resembled the impact. He had stopped driving. He had become convinced, in a way he couldn't quite reason his way out of, that something terrible was about to happen at all times — that the accident was not a discrete event that had ended but an ongoing condition of his life. He couldn't explain this to anyone without it sounding irrational, because it was irrational in the strict cognitive sense: he knew, intellectually, that he was safe. But knowing it cognitively didn't change what he felt physiologically, and the physiological response was running the show.
 
 Post-traumatic stress disorder (PTSD) is the most extensively studied of the trauma-related disorders and the one most firmly established in public awareness — though that awareness is incomplete and often stereotyped. PTSD is not the exclusive province of combat veterans, though military PTSD has received the most attention. It develops in response to a wide range of traumatic experiences: accidents, assaults, disasters, medical emergencies, sexual violence, witnessing others' deaths or severe injuries. It is not a sign of weakness or inadequate coping — it is a predictable neurobiological response to experiences that exceed the nervous system's processing capacity. And it is, importantly, treatable — with treatments whose efficacy is among the best-documented in all of psychiatry.
@@ -143,4 +142,4 @@ PTSD is the nervous system's attempt to protect itself from a threat that has al
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

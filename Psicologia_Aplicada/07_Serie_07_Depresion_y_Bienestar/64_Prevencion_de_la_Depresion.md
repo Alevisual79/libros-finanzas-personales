@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel ha salido de su segundo episodio depresivo y tiene una certeza: no quiere un tercero. Su psicologo le ha explicado que cada episodio depresivo aumenta el riesgo de un siguiente y que la prevención activa es posible. Pero Isabel no sabe exactamente que significa prevenir la depresión en la práctica: ¿es solo no tener estrés? es tomar medicación de por vida? es algo más específico? Este libro es sobre las estrategias que la investigación ha demostrado que reducen el riesgo de nuevos episodios depresivos, con la evidencia de cada una.
 
 ---
@@ -175,4 +174,4 @@ Isabel tiene un diario de humor que revisa cada mañana. Cuando ve la linea baja
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

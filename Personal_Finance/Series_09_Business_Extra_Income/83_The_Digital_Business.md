@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had spent 10 years mastering digital marketing inside companies: building campaigns, analyzing data, managing budgets, optimizing funnels. She understood, intimately, how digital businesses acquire customers, convert them, and retain them.
 
 What she hadn't done was apply that knowledge to building something of her own. For a decade, her expertise served other companies' revenue. She wondered what it would look like to direct that same expertise toward something she owned.
@@ -221,4 +220,4 @@ Start with what you know. Build from validation. Execute consistently. The busin
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

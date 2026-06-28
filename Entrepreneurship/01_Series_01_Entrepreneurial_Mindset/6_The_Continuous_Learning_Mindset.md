@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Priya had been building software products for twelve years before she became a founder. She knew product development the way a musician knows their instrument — intuitively, deeply, in ways she could not always articulate but could always deploy. When she launched her project management tool for creative agencies, she expected the product knowledge to be her primary advantage. What she discovered was that the entrepreneurial context required learning at a speed and across domains that her previous career had never demanded. In a single week, she needed to understand SaaS pricing psychology, cold email conversion rates, early-stage hiring practices, and the legal requirements for her first commercial contract.
 
 The best entrepreneurs are not necessarily the ones who know the most at the start. They are the ones who learn the fastest while operating — who can absorb new information quickly, apply it effectively before full mastery is achieved, and maintain intellectual humility about the vast domains in which they are perpetually beginners. This capacity for rapid, continuous, applied learning is arguably the single most durable competitive advantage available to an entrepreneur, because it is the one advantage that compounds without limit. This book is about how to build and maintain it.
@@ -137,4 +136,4 @@ Priya's project management tool is in its fourth year. She is an expert in custo
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

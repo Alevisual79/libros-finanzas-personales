@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Las conversaciones más memorables que has tenido en tu vida probablemente tienen algo en común: alguien te hizo una pregunta que te hizo pensar de forma diferente sobre algo que creías conocer. Una pregunta que abrió algo que estaba cerrado. Una pregunta que te hizo sentir visto.
 
 Las preguntas son la tecnología más antigua y más subutilizada de la conexión humana. La hacemos de forma automática, sin pensar en la diferencia entre una pregunta que abre y una que cierra. Y esa diferencia lo cambia todo.
@@ -183,4 +182,4 @@ La pregunta correcta es más poderosa que la respuesta correcta.
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

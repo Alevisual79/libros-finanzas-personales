@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos publica contenido en LinkedIn pero no sabe si está funcionando. Lucia tiene un blog con treinta artículos que nadie lee. Marcos no entiende por qué una empresa que sabe tanto sobre su sector no puede atraer clientes compartiendo ese conocimiento. Los tres tienen el problema opuesto a lo que creen: no es que no tengan suficiente contenido. Es que el contenido que tienen no está conectado con el problema que tiene el cliente en el momento en que este lo busca. El content marketing no es publicar más. Es publicar lo correcto, para la persona correcta, en el momento correcto del proceso de decisión.
 
 ---
@@ -173,4 +172,4 @@ Carlos miro el analitico de su blog a los dieciocho meses de empezar a publicar 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

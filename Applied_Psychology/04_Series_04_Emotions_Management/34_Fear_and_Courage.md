@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Lena had not taken an airplane in eleven years. She had not given a presentation in her current job, despite her manager's encouragement, because the prospect produced a physiological response she couldn't control. She had gradually stopped doing the hike she had previously loved because one encounter with a snake had changed the experience permanently. She described herself to people as a homebody, an introvert, a person who "just preferred" certain things — but underneath this framing, which she had constructed carefully and mostly believed, was a more accurate description: her life had contracted around the things she was afraid of. She was not particularly unhappy; she had simply, gradually, stopped doing things that were important to her because the fear of doing them was more immediately salient than the importance.
 
 Fear is the oldest and most fundamental of the human emotions — the most directly tied to survival, the most physiologically disruptive, the most behaviorally potent. It is also the emotion most likely to be handled with the strategy that maintains it: avoidance. The relationship between fear and avoidance is among the most important and most robustly established findings in psychology: avoidance reduces fear in the short term and maintains or amplifies it in the long term. Understanding this relationship — why avoidance works so immediately and fails so completely over time — is the key to understanding how courage functions and what fear management actually requires.
@@ -135,4 +134,4 @@ Fear will always be part of the territory of a life genuinely lived — a life t
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

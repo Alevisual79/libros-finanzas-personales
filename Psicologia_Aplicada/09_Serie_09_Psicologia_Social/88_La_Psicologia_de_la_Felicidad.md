@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena persigue la felicidad de la manera en que la cultura le ha ensenado: más éxito profesional, mejor apartamento, más vacaciones, relaciones romanticas que funcionen. Y sin embargo, cuando obtiene lo que buscaba, la felicidad que esperaba frecuentemente no llega con la intensidad ni la duración que anticipaba. Ruben cree que será feliz cuando llegue a un nivel de ingresos específico, cuando tenga la libertad de trabajar desde donde quiera, cuando haya alcanzado determinadas metas. Isabel lleva décadas acumulando evidencia de que las cosas que el sentido común dice que producen felicidad a largo plazo frecuentemente no son las que más la producen. Este libro es sobre lo que la ciencia de la psicología positiva ha descubierto sobre la felicidad: lo que importa, lo que no importa tanto como creemos, y lo que podemos hacer hoy.
 
 ---
@@ -175,4 +174,4 @@ Ruben empezó el diario de gratitud con escepticismo. Tres semanas después, rec
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

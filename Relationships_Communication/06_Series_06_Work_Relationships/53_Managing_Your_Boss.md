@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Keiko had, for the third time in two years, failed to get what she needed in her performance review.
 
 The failure was not dramatic. The review had been positive — her work was consistently recognized as among the strongest in her function, her projects delivered results, and her manager expressed genuine appreciation of her contributions. What the review had not done was produce the specific outcomes she needed: a clear development plan for the leadership track she was targeting, a specific commitment to the high-visibility project that would make that track possible, and an honest conversation about what would be required to advance within the next twelve months.
@@ -153,4 +152,4 @@ Both are your responsibility.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

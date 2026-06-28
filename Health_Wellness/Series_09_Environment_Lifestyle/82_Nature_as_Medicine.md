@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Amara had not planned on walking through the park that afternoon. She had intended to sit at her desk through the lunch hour, as she usually did, grinding through the backlog of email that had accumulated during her morning meetings. But her colleague insisted — a twenty-minute walk along the river path that ran beside their office building. Against her better efficiency calculus, Amara agreed. What she noticed afterward stayed with her: her jaw had unclenched. The low-grade thrumming anxiety that had accompanied her to work every day for months was, temporarily, quieter. She had not solved a single problem. She had merely walked near water, under trees.
 
 What Amara experienced is not mystical, and it is not simply the benefit of physical movement. Research increasingly distinguishes the effects of exercising in natural environments from exercising in built environments and finds something extra in the green and blue. The mechanisms underlying this "extra" are now being studied systematically in fields ranging from immunology to neuroscience to urban planning, and the findings are reshaping how hospitals are designed, how cities are built, and how physicians think about what a prescription might include.
@@ -165,4 +164,4 @@ A park. A river path. A garden. A twenty-minute lunch break under trees. These a
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

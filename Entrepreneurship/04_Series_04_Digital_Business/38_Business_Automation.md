@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 After three years of building his digital marketing agency, Diego found himself working seventy-hour weeks despite having seven employees and $1.2 million in annual revenue. The business was successful by every external measure; it was unsustainable by every personal measure. When he analyzed where his time was actually going, he discovered that thirty to forty percent of his weekly hours were consumed by tasks that were necessary but not skilled: sending follow-up emails that could have been automated, manually moving information between systems that could have been integrated, producing reports that could have been generated automatically, and managing the administrative logistics of a growing client roster without systems to handle the routine aspects.
 
 Over six months, working with an operations consultant, Diego automated and systematized the majority of these routine tasks. The result: his personal workload dropped from seventy to forty-five hours per week, while the agency's operational capacity increased by roughly thirty percent. He had not hired additional staff; he had eliminated the manual effort that existing staff (including himself) were investing in tasks that software could handle.
@@ -139,4 +138,4 @@ Automation is not about replacing human work; it is about redirecting human work
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

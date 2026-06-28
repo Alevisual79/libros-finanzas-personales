@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben no envidia a nadie. O al menos eso es lo que se dice a si mismo. Pero cuando ve que un colega con menos experiencia consigue un ascenso que el quería, lo que siente en el estómago no es solo decepción. Y cuando le va bien a un amigo que le ha costado menos que a el, lo que siente durante un segundo antes de la sonrisa es algo que preferiria no examinar demasiado. La envidia es la emoción más universalmente negada, la más cargada de moralidad, y paradojicamente una de las que más información útil puede proporcionar sobre lo que realmente importa. Este libro propone parar de negarla para poder usarla.
 
 ---
@@ -175,4 +174,4 @@ Ruben vió el ascenso del colega en LinkedIn un martes por la mañana. El estóm
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

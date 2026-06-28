@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had not been in what the clinical literature would call a toxic relationship. His marriage, for all its damage in the wake of Rachel's affair, had been organized around genuine mutual care — the harm had been significant and real, but it had not been the systematic pattern of control, degradation, or manipulation that the research on genuinely toxic relationships identifies.
 
 He had, however, spent eighteen months in a different kind of relationship before he had met Rachel — a relationship that he had not, at the time, recognized as damaging, and had not recognized in retrospect until his therapist, in the course of their work together, had asked him to describe that earlier relationship in some detail.
@@ -139,4 +138,4 @@ It requires becoming someone larger than what it made you.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

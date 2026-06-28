@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena tiene treinta y cuatro años y no ha hecho un amigo nuevo en cinco años. No es timida. Tiene una vida social activa con las personas que ya conoce. Pero nadie le explico nunca que hacer amigos de adulto requiere un tipo de esfuerzo intencional que en la infancia y la adolescencia ocurria automáticamente, simplemente por estar en el mismo lugar todos los dias durante años.
 
 Hacer amigos en la edad adulta es, según multiples estudios, significativamente más difícil que en cualquier otra etapa de la vida. Y entender por qué lo es resulta el primer paso para poder hacerlo de todos modos.
@@ -157,4 +156,4 @@ Elena, después de entender por qué le había costado tanto hacer amigos nuevos
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

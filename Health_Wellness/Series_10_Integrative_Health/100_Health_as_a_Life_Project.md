@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 One hundred books. One hundred facets of a single, vast subject: human health in the fullest sense — physical, metabolic, psychological, relational, environmental, and existential. This final book does not add new information. It synthesizes, prioritizes, and frames what has come before.
 
 Health, this collection has argued throughout, is not a destination or a state to be achieved. It is a project — ongoing, evolving, never complete, shaped by decision and circumstance, biology and environment, knowledge and uncertainty. It is built in small daily choices and in large annual commitments; in individual discipline and in systemic forces that require collective action.
@@ -234,4 +233,4 @@ Take care of yourself. Take care of others. The two turn out to be deeply connec
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

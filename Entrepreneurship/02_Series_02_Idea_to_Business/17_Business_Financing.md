@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nina had been running her food technology company for eighteen months when she reached what she came to think of as the "false ceiling": a revenue level she couldn't exceed with her current resources, but that she was confident she could significantly surpass if she had the capital to hire a sales team, accelerate product development, and build the operations infrastructure for a larger customer base. The revenue was real; the growth opportunity was visible; the capital was missing.
 
 She needed money. The question — the question that this book addresses — was not whether to raise it but how to think about the sources available, the costs and conditions attached to each, and the strategic implications of each choice. Because the choice between different sources of capital is not merely a financial decision; it is a decision about the nature of the business she was building, the partners she would have in building it, and the range of outcomes that would be available to her at the end.
@@ -139,4 +138,4 @@ Capital is a tool. Like every tool, its value depends on the problem it is appli
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

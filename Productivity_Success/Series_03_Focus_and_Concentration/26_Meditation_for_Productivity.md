@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Camila tried meditation three times before it worked. The first time was in her twenties — a yoga class that ended with five minutes of guided relaxation that she spent making a mental list of what to have for dinner. The second time was an app that promised improved focus and calm, which she used for eleven consecutive days before forgetting, which felt like adequate evidence that it had not worked. The third time was different only in that it lasted longer: two weeks of erratic ten-minute sessions before she abandoned it again.
 
 The fourth time she tried was after she read the neuroscience. Not the promotional neuroscience of the meditation industry's marketing — "rewire your brain in just ten minutes a day!" — but the actual peer-reviewed research: the studies by Sara Lazar at Massachusetts General Hospital, the work by Clifford Saron and colleagues on the Shamatha Project, the research by Judson Brewer on the default mode network. The research said specific and credible things about specific cognitive capacities — attention, working memory, emotional regulation — that meditation specifically trained. It did not promise transformation. It promised training, with the same relationship to the trained capacity that physical exercise had to physical capacity.
@@ -166,4 +165,4 @@ That is all. It is enough.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

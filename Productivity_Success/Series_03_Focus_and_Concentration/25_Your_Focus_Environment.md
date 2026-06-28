@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Leo had an office. Not his own private office — a designated desk in an open-plan space that was shared by twenty-three other members of his team. The desk was near the central walkway, which meant that approximately forty percent of any given day's foot traffic passed within three meters of his head. His neighbor to the left conducted phone calls from her desk. His neighbor to the right had a habit of thinking out loud. The wall behind him had a whiteboard covered in the residue of previous team brainstorming sessions.
 
 He had performed excellent work at this desk for two years, in the same way that people perform excellent work in train stations and airport lounges: by developing the capacity to concentrate despite the environment rather than because of it. He was not certain this was the optimal approach. He was not certain there was a better one. The environment had been given; the adaptation was his responsibility.
@@ -163,4 +162,4 @@ The environment is not neutral. It either supports the work or impairs it. Desig
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

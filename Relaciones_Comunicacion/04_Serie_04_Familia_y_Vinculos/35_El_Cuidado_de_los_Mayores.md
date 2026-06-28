@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel está cuidando a su madre con alzheimer mientras trabaja a tiempo completo, cria a sus propios hijos adolescentes y trata de mantener su matrimonio funcionando. Nadie le pregunta como esta ella. Todos preguntan como esta su madre.
 
 El cuidado de los padres mayores es uno de los roles más exigentes y menos reconocidos de la vida adulta. Combina la carga práctica del cuidado físico con el peso emocional de ver declinar a quienes una vez fueron los cuidadores, todo mientras la persona que cuida tiene que seguir sosteniendo el resto de su propia vida.
@@ -157,4 +156,4 @@ Cuidar a un mayor es uno de los actos de amor más exigentes que existen. Y uno 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

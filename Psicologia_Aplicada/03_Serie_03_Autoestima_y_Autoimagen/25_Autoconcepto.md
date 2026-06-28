@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel se describe a si misma de formas muy específicas cuando alguien le pregunta como es: soy una persona muy ansiosa, no soy creativa, soy mejor trabajando sola que en equipo, nunca he sido buena con los números. Cada una de estas afirmaciones las hace con la certeza de quien describe un hecho objetivo. Pero si la presionamos un poco, descubrimos que la mayoría de ellas son interpretaciones de experiencias pasadas que se solidificaron en certezas sobre el yo. El autoconcepto no es un retrato fiel de quien eres. Es la historia que te cuentas sobre quien eres, y como toda historia, selecciona, omite y enfatiza de formas que no siempre corresponden con la realidad completa.
 
 ---
@@ -175,4 +174,4 @@ Isabel empezó a cambiar una afirmación: en lugar de soy una persona muy ansios
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

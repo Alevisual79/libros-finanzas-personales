@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The self-help industry — valued at over $11 billion in the United States alone — is sustained by a population that sincerely wants to change and regularly fails to do so through the methods most widely available. The pattern is familiar: an inspiring book, a moving seminar, a compelling resolution produces a period of genuine effort followed by gradual reversion to prior patterns. The effort was real. The desire was genuine. The method was inadequate.
 
 This inadequacy is not a personal failing of the people who experience it; it is a systematic mismatch between what the popular self-improvement industry offers and what the scientific research on behavior change shows is actually necessary for lasting change. The research on personal change — developed across clinical psychology, health psychology, social psychology, and developmental psychology — is considerably more specific and considerably less reassuring than the popular literature suggests. Personal change is possible. It is also substantially more difficult than advertised, more variable in its timelines, more dependent on specific conditions, and more likely to succeed when approached with honest understanding of what it requires.
@@ -135,4 +134,4 @@ Real personal change is harder than most people expect and more possible than mo
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

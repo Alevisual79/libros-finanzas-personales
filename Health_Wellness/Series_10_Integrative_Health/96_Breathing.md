@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had been sitting in the cardiologist's waiting room for forty minutes when he noticed his hands were trembling. His heart had been racing irregularly for weeks — episodes that lasted hours, left him drenched in sweat, and sent him spiraling into catastrophic thinking. He was forty-four, ran three times a week, ate reasonably well, and had no history of cardiac disease. What his cardiologist would eventually tell him, after ruling out arrhythmia and structural abnormalities, was something that surprised him: the problem, in large part, was how he breathed.
 
 Marcus breathed fast and shallow, mostly through his mouth, using his chest rather than his diaphragm. During stressful periods at work, his breathing rate climbed to eighteen or twenty cycles per minute, causing subtle but cumulative changes in blood CO2 that kept his nervous system in a low-grade state of alarm. His "heart episodes" were panic attacks amplified by a respiratory pattern that had become his default mode over decades. He had never once, in his entire adult life, given a moment's conscious thought to how he breathed.
@@ -165,4 +164,4 @@ The breath is, as ancient traditions have long recognized and modern science is 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Maya had graduated near the top of her engineering class and joined a technology company whose specific technical stack she knew nothing about. She had excellent foundations; she had no directly applicable current knowledge. What she discovered, over the following eighteen months, was that the most valuable capability she brought to the new role was not any specific technical knowledge — which her colleagues already had in abundance — but the ability to acquire new technical knowledge rapidly and efficiently: the meta-skill of learning how to learn.
 
 Her colleagues who had learned the company's specific technologies over years of on-the-job experience were more fluent in those specific technologies than she was. But Maya was acquiring fluency in the most useful aspects of each technology substantially faster than her colleagues were able to learn the adjacent areas they needed for new projects. The advantage was not intelligence; it was method.
@@ -158,4 +157,4 @@ Start with the meta-cognitive question: how am I learning, and how could I learn
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

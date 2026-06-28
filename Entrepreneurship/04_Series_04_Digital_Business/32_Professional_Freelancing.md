@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The word "freelancing" carries two very different meanings depending on who uses it. For the person working multiple low-paying gig economy jobs to stitch together a subsistence income, freelancing is insecurity rebranded as flexibility. For the person building a high-value, well-positioned practice in a specific professional domain, freelancing is a deliberate career architecture that produces higher income, greater autonomy, and more meaningful work than most employment alternatives.
 
 Tom is in the second category. He is a freelance UX researcher, specializing in enterprise software usability research for technology companies preparing major product launches. He has been freelancing for six years. His current rate is $18,000 per week of research, and he turns down more work than he accepts. He has no employees, no office, no business partners, and no investors. He works approximately forty weeks per year, takes four months off in some combination of vacation and professional development, and earns more than any of his former colleagues who remained in employment.
@@ -137,4 +136,4 @@ Professional freelancing is not for everyone, and it is not the superior alterna
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

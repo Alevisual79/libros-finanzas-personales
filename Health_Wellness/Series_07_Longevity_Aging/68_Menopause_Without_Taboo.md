@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Menopause is one of the most significant biological transitions in a woman's life — and one of the most poorly understood and least discussed. For a period that affects half the population and has health implications spanning decades, the combination of cultural silence, medical under-education, and marketing noise has left most women navigating a major hormonal transition with inadequate information and unnecessary suffering.
 
 This book is about the menopause transition: what is happening biologically, what can be done about it medically and through lifestyle, and how to have an informed conversation with your healthcare provider.
@@ -263,4 +262,4 @@ Menopause is not the end of health — it is a transition into a different hormo
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

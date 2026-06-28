@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Work is where most adults spend the majority of their waking hours — and the nature, demands, and culture of that work has profound health consequences. Occupational health research has been establishing connections between work conditions and disease for over a century, from coal miners' lung disease to office workers' cardiovascular risk from chronic workplace stress.
 
 This book addresses the health dimensions of work: the evidence on occupational health risks, the specific mechanisms by which work stress causes physical harm, and the practical strategies for protecting health within the demands of modern work life.
@@ -259,4 +258,4 @@ Work is not inherently harmful — meaningful work is one of the most protective
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

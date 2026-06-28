@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Anna's doctor first used the word "depression" to describe what she had been experiencing for seven months, her immediate reaction was resistance. She was not depressed. She was going through a difficult period. She was exhausted and stressed and struggling to find motivation, but she was not one of those people who couldn't get out of bed, who cried constantly, who had given up. She was functional — mostly. She was getting through the days — barely. She did not fit the image she had of depression, which was something more dramatic, more visible, more obviously catastrophic than the grey, muffled, effortful existence she was managing. Her doctor explained, gently, that what she was describing — the persistent low mood, the loss of interest in things she had previously enjoyed, the exhaustion that sleep didn't fix, the difficulty concentrating, the sense that the future would be like the present indefinitely — was precisely what depression is: not always the dramatic version, but reliably the one she was describing.
 
 Depression is the most common serious mental health condition in the world, affecting approximately 280 million people globally at any given time. It is also one of the most misunderstood — both in popular conception (too often reduced to either "sadness" or the most severe presentations) and in the biological and psychological science that seeks to explain it. This book provides a comprehensive, research-grounded account of what depression actually is: its clinical features, its neurobiological correlates, its psychological mechanisms, its relationship to other conditions, and its place in human experience more broadly.
@@ -137,4 +136,4 @@ Depression is not weakness, not sadness, not the appropriate response to a diffi
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Decades of research on what makes a life psychologically sustainable — what produces and maintains the wellbeing that is distinct from the absence of disorder — have yielded a picture that is more complex and more interesting than the popular conversation about mental health suggests. The conversation about wellbeing has too often been reduced to either the therapeutic frame (addressing what is wrong) or the positive psychology popularization (accumulating positive emotions through gratitude lists and optimism exercises). The research tells a more nuanced story: long-term psychological health is not primarily produced by feeling good in any given moment, or by the absence of difficulty, but by specific structural features of a life that create the conditions in which human beings characteristically flourish.
 
 Carmen was sixty-two when she was asked, for a research interview, to reflect on what had sustained her psychological health through a life that had included significant adversity — two major losses, a career disruption, a serious illness at fifty. She was not a person who had been untouched by suffering. She was a person who, looking back, could identify specific features of how she had lived — the quality of her closest relationships, the work that had mattered to her, the way she had related to difficulty over time, the community she had remained embedded in — that had made the suffering navigable and sometimes transformative. Her reflections, and the research they resemble, are the subject of this book.
@@ -133,4 +132,4 @@ The long-term wellbeing that Carmen had developed was not the product of good lu
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

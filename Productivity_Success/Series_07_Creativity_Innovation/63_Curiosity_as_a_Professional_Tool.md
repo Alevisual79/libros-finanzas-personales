@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had noticed, in the most creative professionals she had worked with, a quality that was more fundamental than any specific skill: a genuine, active, apparently insatiable interest in how things work, why people behave as they do, and what would happen if the established approach were changed. It showed up not as a grand intellectual program but as a consistent behavioral pattern — the question asked when most people didn't ask, the tangent followed when most people stayed on the main path, the book read outside the immediate professional domain, the unexpected connection drawn that no one else had drawn.
 
 The quality was curiosity. And what distinguished it in these professionals was not that they had it — most children are naturally curious — but that they had preserved and cultivated it through the professional years in which the educational and organizational systems consistently reward expertise over wonder, confidence over questioning, and the execution of known approaches over the exploration of unknown ones.
@@ -153,4 +152,4 @@ Wonder deliberately. Pursue the question. Trust what it opens.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Camila arrived at the office at 7:52 a.m., eight minutes before anyone else, as she had done every working day for three years. She made coffee, opened her laptop, and immediately checked her email — 47 new messages since midnight. She began responding in the order they arrived, which meant that by 9:00 a.m. she had cleared the administrative debris but had not touched the contract that was due to a client at noon. By 10:30, two colleagues had stopped by her desk with questions. She answered both without hesitation. By noon, the contract was still unfinished.
 
 She had not made a single conscious decision that morning. Every action — the coffee ritual, the inbox sequence, the reflexive helpfulness to colleagues — was a script running beneath the surface of awareness. Camila had graduated top of her law school class because of her capacity for analytical thinking. But at work, she was largely not thinking at all.
@@ -187,4 +186,4 @@ Your professional autopilot runs whether you examine it or not. The question is 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

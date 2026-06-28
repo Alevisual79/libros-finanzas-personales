@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben puede pasarse horas dando vueltas a la misma situación. No la está resolviendo: la está reproduciendo, la está evaluando desde cada ángulo posible, está imaginando lo que podría haber dicho de forma diferente, está anticipando lo que podría salir mal, está repasando lo que ya salió mal. El problema es que después de esas horas no tiene más claridad que al principio. Tiene más cansancio y peor estado de ánimo. Eso es el overthinking, eso es la rumia: el ciclo de pensamiento repetitivo que gira sin producir ni resolución ni descanso. Este libro es para entender por qué ocurre y como interrumpirlo.
 
 ---
@@ -175,4 +174,4 @@ Ruben tuvo la rumiación habitual después de la reunión difícil. Pero esta ve
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

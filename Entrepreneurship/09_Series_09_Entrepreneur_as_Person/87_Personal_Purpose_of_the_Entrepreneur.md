@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 After fifteen years of running her environmental consulting firm and growing it to forty employees and $7 million in revenue, Nina faced a question she hadn't expected to be difficult: why am I doing this?
 
 The question had an easy commercial answer: the business generated income, employed people, and served clients who needed environmental compliance expertise. But Nina had begun noticing that the commercial answer felt insufficient. She was doing the work. She was growing the business. She had achieved, by conventional measures, exactly what she had set out to achieve. And she felt, persistently, that something was missing from her understanding of why any of it mattered — not to her clients or her employees, but to her specifically, in the context of the one life she had to live.
@@ -141,4 +140,4 @@ Nina's question — why am I doing this? — had felt like a problem when it fir
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

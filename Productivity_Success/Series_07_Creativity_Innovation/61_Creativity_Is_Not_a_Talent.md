@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had spent most of her professional career believing she was not creative. The belief had been formed early — in school, when the students who drew well and wrote original stories had seemed to possess a natural aptitude she did not share — and it had hardened through years of professional experience in which she had identified herself as an implementer: the person who executed others' ideas well, not the person who generated them.
 
 The belief was doing significant professional damage by the time she was thirty-five. In a professional environment that was increasingly rewarding the capacity for novel problem-framing and original solution-generation, her self-conception as a non-creative professional was limiting the scope of contributions she considered herself capable of. She was opting out of the conversations and the challenges in which creativity was most relevant, and opting in to the execution work that felt safe and that confirmed the identity she had built.
@@ -159,4 +158,4 @@ Begin the practice.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

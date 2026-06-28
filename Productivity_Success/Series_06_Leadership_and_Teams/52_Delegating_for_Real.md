@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Sophie became a formal team leader for the first time, she brought with her the work ethic that had made her a standout individual contributor: thorough, detail-oriented, unwilling to let quality slip. These were genuine strengths. In the leadership role, they became liabilities.
 
 Six months into the role, she was working sixty hours a week — more than she had as an individual contributor — and producing less organizational impact. She was producing approximately the same volume of high-quality individual work, plus the meeting load and coordination work of the leadership role, plus the reviews and revisions of every team member's work that her quality standard required. Her team members were delivering work that she was substantially revising; they had learned that their manager would catch whatever they missed, and the incentive to develop their own quality judgment had diminished accordingly.
@@ -151,4 +150,4 @@ The leaders who do this well produce teams that eventually far exceed what any i
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

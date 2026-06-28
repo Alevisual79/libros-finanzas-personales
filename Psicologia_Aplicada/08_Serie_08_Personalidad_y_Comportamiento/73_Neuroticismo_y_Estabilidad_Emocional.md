@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene un nivel de reactividad emocional que le parece excesivo incluso a ella misma. Un comentario crítico en el trabajo puede ocupar su mente durante horas. Una incertidumbre sobre el futuro puede convertirse en una preocupación que le impide dormir. Cuando las cosas van bien, sospecha que no durara. Ha asumido que es dramatica o que se lo toma todo demasiado a pecho, y que eso es un defecto. Lo que no sabe es que lo que experimenta tiene nombre cientifico (neuroticismo), tiene base neurológica, y que, aunque no desaparece con la voluntad, puede gestionarse de formas que hacen la vida significativamente más manejable.
 
 ---
@@ -175,4 +174,4 @@ Isabel dejó de llamarse dramatica. Empezo a llamarse sensible al estrés. El ca
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena was in the middle of a high-pressure deadline week when she sent the wrong version of a presentation to a client. She had checked it twice. In her normal cognitive state, she would have caught the error — she had a systematic review process. Under deadline pressure, she had gone through the motions of review without the cognitive engagement required to actually catch errors.
 
 She blamed herself for carelessness. The more accurate description was biology: stress impairs the cognitive functions that enable error-checking, planning, and deliberate review. The brain under pressure is a different brain — literally — than the brain under normal conditions.
@@ -260,4 +259,4 @@ The brain under pressure is doing its best with the biochemical state it's in �
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

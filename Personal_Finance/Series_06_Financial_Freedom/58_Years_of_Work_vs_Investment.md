@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben did a calculation one evening that genuinely surprised him. He'd been working as a freelancer for 9 years. In those 9 years, he'd earned approximately $720,000 in gross income. After taxes, expenses, and living costs, he had $62,000 in investment accounts — approximately 8.6% of what he'd earned.
 
 He wasn't upset about how he'd spent the rest — he'd lived well, built skills, traveled, supported people he cared about. But the ratio was sobering. Nine years of work and the financial independence the work could have bought him, if differently structured, was distant.
@@ -193,4 +192,4 @@ The trade-off is real. Make it explicitly, not by default.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

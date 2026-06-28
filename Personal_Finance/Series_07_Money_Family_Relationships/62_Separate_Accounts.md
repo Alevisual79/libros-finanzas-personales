@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Ruben moved in with Daniela eighteen months ago, the question of how to handle money came up immediately and was resolved immediately — which is to say, it wasn't really resolved at all. They agreed to split rent and utilities down the middle and keep everything else separate. It felt clean and fair and uncomplicated. Ruben had his accounts; Daniela had hers. They Venmoed each other for shared expenses, went out on a mental ledger of approximately even, and otherwise stayed in their own financial lanes. For a while, this felt like the ideal modern arrangement. No resentment, no surveillance, no need to justify what either of them spent on anything.
 
 The cracks appeared gradually. When Ruben had a slow month — which freelancers always do — he couldn't cover his half of rent without cutting into his emergency fund. Daniela had a stable paycheck and could easily have covered the shortfall for a month, but asking felt complicated in a system built on strict independence. Who would track that? When would it be paid back? The equity of 50/50 splitting, which had felt fair when their incomes were similar, started feeling increasingly arbitrary as their financial situations evolved. Daniela got a raise; Ruben lost a major client and spent two months rebuilding. 50/50 on paper became something much more unequal in practice.
@@ -165,4 +164,4 @@ The next book in this series addresses what happens in the specific and increasi
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

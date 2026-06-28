@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena described her sleep as "fine." She got 6-6.5 hours most nights, rarely felt rested, relied on two coffees to get through her morning, and felt a daily energy deficit that she attributed to her busy life. She didn't consider herself a poor sleeper. She was simply someone who had adapted to functioning below her sleep-adequate baseline for so long that the deficit felt normal.
 
 ---
@@ -195,4 +194,4 @@ Investing in sleep is not time lost from life. It is the biological process that
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

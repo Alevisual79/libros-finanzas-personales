@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena spent forty minutes on the phone with her insurance company after the car accident trying to understand why her comprehensive deductible was $500 but her collision deductible was $1,000, and what exactly the difference was, and whether the other driver's insurance would cover anything, and whether she was going to be penalized for a claim even though it was not her fault. She had been paying $187 per month for car insurance for three years — more than $6,700 total — and had not read the policy once. She knew she had "full coverage." She did not know what that meant. When the adjuster explained that her rental reimbursement rider only covered $30 per day and the cheapest available rental was $54, she stared at the phone like it had lied to her. It had not lied. She had simply never asked it the truth.
 
 Ruben had gone without health insurance for eight months after losing his last full-time position. He told himself he was healthy, he was careful, and the marketplace plans were too expensive for what they offered. Then he had a kidney stone at 3 a.m. on a Wednesday. The ER visit, the CT scan, the pain management, and the follow-up urologist appointment — none of which he could have anticipated and none of which he could have avoided — cost him $11,400. He had $3,200 in savings at the time. He paid $3,200 and put $8,200 on a credit card he spent nine months paying off. For the entire time he was paying that debt, he calculated what a bronze-plan marketplace premium would have cost him: $318 per month, with a $7,000 deductible. He would have owed $7,000 after the deductible — but the credit card balance would have been $7,000 rather than $8,200, and his savings would have been intact. The math hurt.
@@ -176,4 +175,4 @@ Isabel's homeowners insurance correction — raising dwelling coverage from $310
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

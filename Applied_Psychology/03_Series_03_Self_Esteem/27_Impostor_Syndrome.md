@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had been promoted three times in six years. His performance reviews described him as one of the most promising people in his division. He had delivered projects that senior leaders cited in company-wide presentations. By any observable measure, his success was real, documented, and consequential. He was also convinced, with considerable consistency, that it was an elaborate accident — that his accomplishments were the product of good timing, helpful colleagues, and the inability of management to detect what he actually was underneath the competence they perceived. He worked long hours partly because he wanted to succeed and partly because he believed the extra hours were what stood between his current position and the moment someone finally noticed the gap between his reputation and what he was actually worth.
 
 Impostor syndrome — the experience of believing one's success is undeserved and sustained only by factors external to one's actual ability, combined with persistent fear that this will be discovered — was first documented by psychologists Pauline Clance and Suzanne Imes in 1978. They observed it in a sample of high-achieving women and initially described it as a phenomenon specific to women who struggled to internalize evidence of their own competence in male-dominated environments. What subsequent research has revealed is considerably broader: impostor syndrome affects individuals across genders, cultures, fields, and career stages; it is estimated that approximately 70% of people experience impostor feelings at some point in their lives; and it is, paradoxically, most prevalent among the most accomplished.
@@ -135,4 +134,4 @@ Impostor syndrome persists partly because it masquerades as intellectual humilit
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

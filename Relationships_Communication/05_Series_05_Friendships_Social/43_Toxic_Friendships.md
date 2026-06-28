@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Priya had known Claudia since they were twenty-three. The friendship had begun in the early heady days of their first professional jobs, had survived Claudia's first divorce and Priya's second career transition and various relocations, and had accumulated the specific weight of shared history that long friendships carry.
 
 It had also, over the past several years, become something that Priya noticed she approached with a specific reluctance. Not the comfortable low-energy reluctance of introversion (Priya was not an introvert). A specific anticipatory heaviness, as though she was preparing for something that would require more of her than it would give back.
@@ -155,4 +154,4 @@ Knowing the difference is the work.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

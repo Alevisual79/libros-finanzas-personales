@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben's design business has no employees. It has no office. It has no investors, no partners, and no corporate hierarchy. It has one person — him — and approximately $340,000 in annual revenue.
 
 This model — the one-person business — runs counter to most business advice, which assumes that growth requires adding headcount, that scale requires structure, and that success means eventually hiring people to handle the work you used to do.
@@ -230,4 +229,4 @@ It requires premium pricing, productized offerings, disciplined marketing, and s
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

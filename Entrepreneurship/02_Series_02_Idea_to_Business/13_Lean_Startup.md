@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 In 2011, Eric Ries published "The Lean Startup," a book that synthesized ideas from lean manufacturing, agile software development, and Steve Blank's customer development methodology into a practical framework for building new businesses under conditions of extreme uncertainty. The book became one of the most influential entrepreneurial texts of the decade, not because it described something entirely new but because it gave names and structure to a set of practices that the most effective entrepreneurs had been using intuitively for years, and made those practices accessible to people who were not yet intuitive about them.
 
 The lean startup methodology rests on three interconnected concepts: validated learning (the principle that the goal of an early-stage business is not to produce a product but to learn what the right product is, as rapidly and cheaply as possible); the build-measure-learn feedback loop (the operational cycle through which learning is generated); and the minimum viable product (the instrument for generating learning at the lowest possible cost). Together, these concepts define a fundamentally different way of thinking about what a business is in its earliest stages and what its primary objective should be.
@@ -137,4 +136,4 @@ The lean startup methodology did not invent the practices it describes. Patient,
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

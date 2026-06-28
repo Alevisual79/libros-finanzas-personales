@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 La familia nuclear con madre, padre e hijos biológicos viviendo juntos hasta la edad adulta es hoy, estadisticamente, minoria en muchas sociedades occidentales. Familias monoparentales, reconstituidas, homoparentales, de acogida, y comunidades de elección conviven y prosperan con la misma legitimidad, aunque a menudo sin las herramientas y guiones sociales que existen para la familia tradicional.
 
 Este libro no defiende un modelo de familia sobre otro. Defiende que cualquier estructura familiar, cuando se gestiona con consciencia, comunicación y cuidado, puede ofrecer a sus miembros lo que toda familia debería ofrecer: seguridad, pertenencia y amor.
@@ -157,4 +156,4 @@ Cada estructura familiar trae sus propios desafios y sus propias fortalezas. Lo 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

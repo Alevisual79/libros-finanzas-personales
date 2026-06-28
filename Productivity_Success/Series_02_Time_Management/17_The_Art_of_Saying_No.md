@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nadia said yes to almost everything. She said yes to the colleague who needed help with the proposal, yes to the manager who wanted a volunteer for the cross-functional task force, yes to the client who requested an additional deliverable beyond the project scope, yes to the networking event she had no interest in attending, yes to the meeting that could have been an email, yes to the working lunch when she had specifically needed the break, and yes to the extra project when she already had three more than she could comfortably handle.
 
 She said yes because she had been raised to be helpful. She said yes because she was afraid that no would damage her reputation. She said yes because saying yes was easier than saying no in the moment, even when its consequences were harder afterward. And she said yes because she had never developed the skill — because no is a skill — of declining in a way that preserved the relationship while protecting the time.
@@ -161,4 +160,4 @@ The yes she gives now means something. That is what the no made possible.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

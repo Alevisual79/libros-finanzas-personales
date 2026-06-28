@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had not expected the grief to be this large.
 
 She had expected anger — and had felt it, in the weeks after the discovery, with a clarity that was almost useful in its precision. She had expected some sadness about what the friendship had turned out to have been. What she had not expected was the specific quality of grief for what the friendship had seemed to be — for the version of the relationship that had existed in her experience of it, regardless of what had been happening on the other side.
@@ -143,4 +142,4 @@ It is the measure of what mattered.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

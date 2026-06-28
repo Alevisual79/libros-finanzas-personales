@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Leo had tried journaling twice. The first time, at age nineteen, he had filled the first twelve pages of a beautiful leather notebook and then stopped in the middle of a sentence when the entry had begun to feel like performance — as if he were writing for a reader he couldn't quite identify, trying to be interesting to someone who was not there. The second time, at thirty-two, he had completed twenty-one consecutive days using a structured gratitude journal app and had noticed no particular effect beyond the faint satisfaction of a streak maintained.
 
 What he had not tried was journaling with a purpose he had chosen rather than borrowed — writing toward a specific kind of clarity, using the page to think rather than to record, treating the journal as a thinking tool rather than a diary. When he began this version, the experience was different in kind from what he had tried before: less like documentation and more like excavation, less like a record of what had happened and more like an ongoing conversation with the part of his thinking that the professional day's pace never quite reached.
@@ -159,4 +158,4 @@ Write. Not because you know what you will say. Because the writing is how you fi
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

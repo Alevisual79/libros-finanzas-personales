@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben trabaja en marketing freelance en un entorno de alta exigencia: los plazos son ajustados, los clientes son exigentes, y la incertidumbre del trabajo autonomo es constante. Ha normalizado el estrés como parte del precio del éxito. Lo que no ha normalizado es que ese nivel de estrés tiene consecuencias para su salud mental que va a pagar, antes o después, de una forma u otra. Este libro es sobre la salud mental en el entorno laboral: los riesgos específicos que el trabajo produce, las estrategias que la investigación muestra que funcionan, y como construir una relación con el trabajo que no destruya la mente.
 
 ---
@@ -175,4 +174,4 @@ Ruben renegocio sus contratos con dos clientes que le producian el mayor estrés
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

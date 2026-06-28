@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Before starting his own architecture firm, David had worked at three organizations with formal performance management processes. Two had involved annual performance reviews: lengthy forms, competency ratings, and conversations that employees dreaded and managers performed as a compliance ritual rather than a genuine development activity. The third had involved quarterly check-ins that were more useful but still primarily backward-looking: assessing what had happened rather than shaping what would happen.
 
 When David built his own performance management approach for his eight-person architecture practice, he was determined to do it differently. The performance management he built was neither the annual ritual nor its slightly-improved quarterly cousin; it was a continuous practice — regular one-on-ones, clear goal-setting, ongoing feedback, and specific development planning — that made performance management a daily part of how the firm operated rather than a periodic event that everyone prepared for and then forgot.
@@ -143,4 +142,4 @@ David's performance management practice was not designed by a consultant or deri
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

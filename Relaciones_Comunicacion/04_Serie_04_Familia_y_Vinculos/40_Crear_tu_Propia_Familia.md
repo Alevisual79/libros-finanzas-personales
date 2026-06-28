@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben no tiene hijos y no quiere tenerlos. Isabel tuvo los hijos que se esperaba de ella y ahora, con cincuenta y dos años, no esta segura de haberlos querido tener realmente, aunque los ama profundamente ahora que existen. Elena no sabe lo que quiere todavía. Los tres, de formas distintas, necesitan la misma cosa: permiso para decidir conscientemente, en lugar de seguir un guion que asumieron sin examinar.
 
 Este es el último libro de la serie sobre familia, y trata sobre el acto final de la madurez familiar: definir, con libertad y conciencia, que significa familia para uno mismo, en lugar de heredar automáticamente la definición que la cultura o la familia de origen establecieron.
@@ -159,4 +158,4 @@ Los tres, de formas distintas, estan haciendo lo mismo: construir, con los ojos 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

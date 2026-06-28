@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben has been renting the same apartment for six years. It was a good apartment when he moved in — not perfect, but convenient, familiar, and his landlord has never raised the rent. By staying, he's avoided the stress of moving, the cost of a security deposit, and the disruption of learning a new neighborhood.
 
 What he has not avoided is the cost of staying. His rent is now $400 below market for the area — meaning he could afford a significantly better apartment for a similar price, or he could move to a less desirable neighborhood and save $400 per month, which over six years would have been $28,800. His landlord has not raised the rent. But his comfort has had a price.
@@ -173,4 +172,4 @@ Sometimes you'll decide the comfort is worth the cost. That's a legitimate choic
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

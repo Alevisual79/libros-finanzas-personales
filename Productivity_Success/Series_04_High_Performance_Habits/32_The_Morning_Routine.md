@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Camila used to begin each workday by opening her phone. Before she was fully awake, she had checked email, reviewed Slack notifications, scanned the news headlines, and assessed the professional landscape that would claim her attention in the hours ahead. By the time she sat down at her desk, she was already reactive — already responding to the agenda that others had set for her, already directing her attention at other people's priorities.
 
 The research on cognitive priming suggests that the state in which work is initiated significantly shapes the cognitive mode that follows. Reactive beginnings tend to produce reactive days; the professional who spends the first hour of their day in urgent response mode is priming the neural patterns — the attentional direction, the emotional activation, the problem-solving orientation — that will characterize the rest of the day.
@@ -159,4 +158,4 @@ The best morning routine is the one you will actually maintain. Start smaller th
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

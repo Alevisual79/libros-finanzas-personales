@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva años terminando sus relaciones por los mismos motivos: demasiada cercania produce panico, cualquier señal de desinteres del otro produce un estado de alarma desproporcionado, las discusiones menores terminan en rupturas que ninguno de los dos quería. Lo ha intentado con personas muy diferentes pero el patron es siempre el mismo. Esto no es mala suerte en la elección de pareja. Es la influencia del pasado sobre el presente, el modo en que las experiencias tempranas de relación crean expectativas, respuestas automáticas, y estrategias de supervivencia que se activan en las relaciones adultas sin que nadie las invite conscientemente.
 
 ---
@@ -175,4 +174,4 @@ Elena entendió por fin por qué el patron se repetia: no porque hubiera algo fu
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

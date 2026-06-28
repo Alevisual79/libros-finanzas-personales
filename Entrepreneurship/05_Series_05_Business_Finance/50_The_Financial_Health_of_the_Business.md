@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 After ten years of building her interior architecture firm, Elena had created something genuinely valuable: a business with a strong reputation, a loyal client base, and a talented team of seven. She was proud of what she had built and uncertain about what she actually owned. When she began the process of exploring a potential partial sale to a private equity buyer — something she hadn't initially planned to do, but an opportunity that had been presented — the due diligence process confronted her with a comprehensive assessment of her business's financial health.
 
 The assessment was not primarily about whether the business was profitable. Elena knew it was profitable. The assessment was about the quality of that profitability: its consistency, its predictability, its independence from any single person or client, its growth trajectory, and the strength of the financial systems and controls that produced and sustained it. The buyer's verdict: the business was financially healthy by the most important measures, but with specific vulnerabilities — client concentration and revenue predictability — that were reflected in a lower valuation multiple than comparable businesses without those characteristics.
@@ -147,4 +146,4 @@ Elena did complete the partial sale. The buyer, satisfied with the financial hea
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had been in the relationship for four years when the cracks became impossible to ignore. She and her boyfriend had moved in together eighteen months ago, and the financial incompatibilities that had seemed manageable at a distance had become glaring up close. He didn't pay his share of utilities on time. He had borrowed $2,000 from her — twice — and paid back neither loan. His credit card debt exceeded $30,000. They weren't married, which meant the legal complications were less severe, but as she started to untangle her finances from his, Elena realized how thoroughly she had blurred the line between her money and theirs. Her name was on the lease, and his was on the streaming subscriptions she actually used. It felt petty and complicated at the same time.
 
 Ruben watched a close friend go through a divorce that took eighteen months and cost over $40,000 in legal fees. The couple had been married for six years, had two kids, owned a condo, and shared a business loan. Ruben had always assumed divorce was something that happened to people who were careless about who they married. What he witnessed instead was two decent people who had never properly separated their finances during the marriage, had co-mingled everything, and now had no clean lines to draw. His friend told him afterward: "The worst part wasn't the emotional stuff. The worst part was that we had to hire lawyers to figure out who owned what because we'd never been clear about it ourselves."
@@ -159,4 +158,4 @@ Divorce is painful. Its financial dimensions, handled well, need not be permanen
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

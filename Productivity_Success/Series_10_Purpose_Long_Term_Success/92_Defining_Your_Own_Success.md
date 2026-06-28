@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The success definition that most professionals are working toward is not one they chose. It arrived through a combination of family expectations, educational institutions, peer comparison, professional culture, and the social media environment — a composite image of the professional life that would constitute success, assembled from sources that have no specific knowledge of the individual's values, temperament, relationships, or the specific kind of life that would make them genuinely flourish.
 
 The explicit examination of this inherited success definition — the specific investigation of whether it is the definition the professional would choose with full information and genuine reflection — is among the most important and most consistently avoided professional development exercises available. It is avoided partly because the examination is uncomfortable (it may reveal that one has been pursuing the wrong thing for a long time), partly because the inherited definition is so embedded in the professional culture that questioning it feels like questioning the professional identity itself, and partly because the alternative — defining success for oneself — requires the kind of genuine self-knowledge that the busyness of a demanding professional life systematically prevents.
@@ -147,4 +146,4 @@ Define it.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

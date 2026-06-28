@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Every week a new AI tool appears claiming to be revolutionary. Most are not. Some are genuinely useful. A few will define how we work for years. The challenge is not finding AI tools — it is navigating the noise.
 
 ---
@@ -95,4 +94,4 @@ Tool choice matters less than tool mastery. A professional who uses three tools 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

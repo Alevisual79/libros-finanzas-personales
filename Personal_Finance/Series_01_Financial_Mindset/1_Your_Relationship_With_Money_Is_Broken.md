@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena earns $68,000 a year and has $400 in savings. Not because she spends recklessly — she doesn't buy luxury items, she doesn't gamble — but because every time money comes in, something seems to immediately pull it out. A weekend trip here, a new laptop there, a dinner she didn't plan for. She's been telling herself for three years that she'll start saving "when things calm down." Things haven't calmed down.
 
 Ruben is 34, freelances as a graphic designer, and invoices between $3,000 and $7,000 per month depending on the projects he lands. Some months he feels wealthy. Some months he borrows from his parents. He has no retirement account, no emergency fund, and no idea how much he spends in an average month. He knows this is a problem. He hasn't fixed it.
@@ -201,4 +200,4 @@ Start with honesty. Everything else follows.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

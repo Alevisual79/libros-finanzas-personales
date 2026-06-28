@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 At 47, Isabel went through a financial reset she hadn't anticipated. Not a bankruptcy — her finances hadn't deteriorated that far. But a combination of factors over three years had left her with depleted savings, restructured debt, a damaged credit score, and a relationship to money she described as "broken."
 
 The divorce in her early forties had consumed the savings she'd spent a decade building. The subsequent years of legal fees, the adjustment to single income, the medical expenses for her mother — each was a crisis she'd managed, but managed badly, each time depleting a resource she had less of than before.
@@ -195,4 +194,4 @@ Start where you are. The only thing that doesn't work is not starting.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

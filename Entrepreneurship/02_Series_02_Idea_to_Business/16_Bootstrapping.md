@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Carlos started his IT consulting practice, he had $8,000 in savings, a laptop, and a list of fifteen former colleagues who might need the services he was going to offer. He had no investors, no bank loan, no co-working space membership, and no marketing budget. Three years later, his practice had $420,000 in annual revenue, four part-time contractors, and a waiting list of clients. He had built the business entirely from the revenue it generated — no external capital, no debt, no equity dilution. He was bootstrapped.
 
 The decision to bootstrap — to build a business using only the revenues the business generates, without seeking external investment or taking on significant debt — is not the default decision in the entrepreneurial culture most people encounter. The dominant narrative is one of pitch decks, venture capital, seed rounds, and the institutional validation of having investors who believe in your vision. This narrative is accurate for a small subset of entrepreneurial paths: the technology startup aiming at rapid, large-scale growth in a winner-take-most market. For the overwhelming majority of businesses — professional services, retail, manufacturing, local services, and the vast majority of B2B companies — it is not only inapplicable but actively misleading. This book is about the alternative: the entrepreneurial path that is more common, more accessible, more financially stable, and for many founders, more personally satisfying.
@@ -137,4 +136,4 @@ Bootstrapping is not the right path for every business or every entrepreneur. Th
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

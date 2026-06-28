@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva semanas bloqueada en un problema de arquitectura de software que no logra resolver. Ha probado los enfoques obvios. Ha consultado documentación. Ha pedido opinión a colegas con más experiencia. Nada funciona. La solución llega, finalmente, en la ducha de una mañana, cuando no está pensando en el problema en absoluto. No es casualidad ni suerte. Es el resultado de un proceso cognitivo específico que el cerebro lleva a cabo precisamente cuando se aparta del esfuerzo deliberado sobre el problema.
 
 ---
@@ -175,4 +174,4 @@ Elena resolvio su problema de arquitectura de software. La solución llegó, com
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

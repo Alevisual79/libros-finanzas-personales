@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The number of centenarians worldwide is growing rapidly — from approximately 151,000 in 2000 to over 600,000 today, with projections suggesting several million by 2050. These are not people eking out their final years in nursing homes. The most striking finding from centenarian research is that people who live to 100 tend to have been healthier than their peers for most of their lives — they are not just surviving longer, they are experiencing less disease for longer.
 
 This book draws on the emerging science of longevity — the biology of aging, the epidemiology of long-lived populations, and the frontier research that may shape the next decade — to answer: what does the science actually say about living not just longer, but better for longer?
@@ -285,4 +284,4 @@ You already know what to do. The question is whether you'll do it today, tomorro
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

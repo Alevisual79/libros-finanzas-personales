@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had four credit cards. She did not remember opening all of them. One had come in the mail after a store promotion at a clothing retailer she rarely visited anymore. One was the card she had had since college, carrying a $4,200 balance and a 22.9% APR that she had finally begun paying down seriously. One was a travel rewards card her friend had recommended two years ago, currently carrying $800 from a weekend trip she had split with other people but ended up absorbing. And one was a card she had opened to take advantage of a 0% introductory rate — that promotion had expired eight months ago, and the balance of $1,100 was now accruing interest at 19.99%. She had four cards, three balances, two interest rates, and one growing sense that these products were not serving her the way she had imagined when she applied for them.
 
 Ruben had a simpler card situation: one Visa, no rewards, APR of 24.99%. He used it for everything when client payments were slow and paid whatever he could when they came in. He had never once sat down to evaluate whether this card was the best product for his financial life. It was just the card he had. He had never checked whether a lower-rate card was available to him, never compared his spending category rewards against what competing cards offered, and never seriously considered whether using a debit card for more of his spending would reduce his total interest burden. The card was a utility. He used it the way he used his electricity — without thinking much about the cost.
@@ -165,4 +164,4 @@ Isabel kept one of her two cards after paying off her balances and cancelled the
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

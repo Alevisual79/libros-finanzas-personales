@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nadia had not thought much about the relationship between her lunch and her afternoon performance until a research article stopped her in the middle of her reading. The article — a summary of the emerging field of nutritional psychiatry, led by researchers including Felice Jacka in Melbourne — described systematic relationships between dietary patterns and cognitive function, mood, and mental health that were not the product of placebo or researcher bias but of rigorous randomized trials showing that what people eat directly shapes how their brains work.
 
 She thought about her own lunches. More often than not: a rushed sandwich from the café downstairs, eaten at her desk, consumed within fifteen minutes while reviewing the afternoon's schedule. Sometimes a larger meal, the kind that left her fighting the urge to sleep by two o'clock. Occasionally — when she had planned ahead — something she had brought from home, eaten away from her desk, with something approximating deliberate attention to what was in it.
@@ -161,4 +160,4 @@ The performance diet is not a special diet. It is the same diet that the evidenc
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

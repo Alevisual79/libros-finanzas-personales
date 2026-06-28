@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The man who would become one of the most influential figures in positive psychology, Martin Seligman, has described a moment in his garden in 1998 when his five-year-old daughter Nikki — annoyed at being ignored while he weeded — told him that she had decided to stop whining on her fifth birthday, and asked him why, if she could do that, he couldn't stop being grumpy. The exchange struck Seligman with force: the discipline of psychology, he recognized in that moment, had focused almost exclusively on the repair of deficiency. It had almost nothing to say about the development of what was already good.
 
 The Values in Action (VIA) Classification of Character Strengths — developed by Seligman and Christopher Peterson in collaboration with a team of scholars across psychology, philosophy, and history — was the first systematic attempt to do for human virtue what the Diagnostic and Statistical Manual had done for human pathology: create a comprehensive, theoretically grounded, empirically testable taxonomy of the positive features of human character. Published in 2004, the VIA classification identified 24 character strengths organized under six virtues, provided assessment tools for measuring individual strength profiles, and generated a research program on the relationship between character strengths and wellbeing that has now produced thousands of studies.
@@ -135,4 +134,4 @@ Character strengths are not decorative features of personality but functional ca
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

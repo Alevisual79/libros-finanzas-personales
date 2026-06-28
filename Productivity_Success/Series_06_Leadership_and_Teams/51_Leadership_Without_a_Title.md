@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sophie had spent years waiting to be given the title that would make her a leader. Team Lead, Senior Manager, Director — the formal designations that, in her mental model, were the prerequisites for the influence, the scope, and the authority that leadership implied. While she waited, she noticed something that complicated the model: the colleague two desks away who had no formal title beyond "senior analyst" but who, in practice, shaped the direction of every significant project she touched; who organized the team's responses to crises; who mentored the junior colleagues and was sought out by the senior ones; who, in every functional sense, was leading.
 
 The title wasn't the thing. It was a signal of something — capability, experience, organizational endorsement — but it was not the thing itself. The colleague two desks away was demonstrating what the research on leadership increasingly confirms: that leadership is a set of behaviors available to any professional who chooses to engage them, not a formal position that must be granted from above.
@@ -155,4 +154,4 @@ The professional who understands this — who begins exercising leadership behav
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Mia started her nutrition coaching practice for endurance athletes, she had a standard problem: how do you serve more clients than one person can handle one-on-one without compromising the relationship quality that makes one-on-one coaching valuable? The standard answer was to hire more coaches, which meant managing people and systems rather than doing the work she loved. Her answer was different: she built an online community.
 
 The community — a subscription-based forum and resource library for endurance athletes focused on evidence-based nutrition — launched with forty-three founding members at $47 per month. Three years later, it has 1,400 members at $67 per month, generates $94,000 per month in recurring revenue, and employs two community managers and a content curator. Mia spends roughly twelve hours per week on the community (teaching two live sessions and answering member questions), compared to the sixty hours per week she would spend coaching 1,400 individual clients. The community serves more athletes, more deeply, than individual coaching could have — because the collective wisdom and peer support of 1,400 athletes pursuing similar goals is more valuable than any individual coach's guidance alone.
@@ -143,4 +142,4 @@ Mia didn't set out to build a community business. She set out to solve the probl
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

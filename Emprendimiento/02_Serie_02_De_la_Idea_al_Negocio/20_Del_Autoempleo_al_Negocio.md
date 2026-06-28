@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos lleva dos años de emprendimiento y se ha dado cuenta de algo: si el se va de vacaciones dos semanas, el negocio para. El tiene un buen nivel de vida pero no tiene un negocio: tiene un puesto de trabajo donde el es el jefe y el empleado al mismo tiempo. Lucia quiere escalar pero cada vez que añade un cliente, ella trabaja más porque es la que entrega el servicio. Marcos lo tenía claro desde el principio: quería construir una empresa, no comprar un empleo. La transición del autoempleo al negocio real es la que más emprendedores no logran y la que determina si el emprendimiento fue una aventura personal o la construcción de algo que dura más que tu.
 
 ---
@@ -176,4 +175,4 @@ Carlos se fue de vacaciones dos semanas. No fue fácil la primera vez: revisó e
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

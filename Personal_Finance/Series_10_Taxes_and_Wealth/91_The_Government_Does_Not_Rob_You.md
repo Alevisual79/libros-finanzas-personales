@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had always felt a vague sense of dread when April arrived. Not the kind tied to deadlines or paperwork — though those added to it — but something deeper: a suspicion that the government was somehow taking far more than its fair share. She remembered her mother's complaints about taxes, her father's grumbling that "they take half of everything," and these impressions had settled into her as fact before she ever earned her first paycheck. When she finally reviewed her pay stub after landing her marketing job and saw the withholding amounts, her stomach dropped. Federal income tax. Social Security. Medicare. State income tax. The numbers seemed to confirm everything she'd grown up believing.
 
 Ruben had a different but equally distorted view. As a freelance graphic designer, he'd made the mistake in his early years of spending everything he earned, not setting anything aside for taxes. When his first 1099 arrived and he realized he owed the IRS nearly $4,000 he didn't have, he overcorrected: he became convinced taxes were a trap designed to punish the self-employed. He started viewing the tax code as something adversarial, a set of rules written by wealthy people for wealthy people — and he was certain he was on the losing end no matter what.
@@ -165,4 +164,4 @@ None of them had simplified taxes. Taxes are genuinely complex, and that complex
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

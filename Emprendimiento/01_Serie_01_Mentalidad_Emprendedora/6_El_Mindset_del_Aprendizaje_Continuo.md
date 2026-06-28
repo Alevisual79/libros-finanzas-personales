@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Marcos lleva dos años como emprendedor y ha notado algo: las personas que más admira en el ecosistema emprendedor tienen en común una característica que no es la inteligencia ni la experiencia ni los recursos. Es la velocidad y la calidad con que aprenden. Carlos ha descubierto que lo que aprende en un trimestre de emprendimiento activo supera lo que aprendió en dos años de MBA. Lucia ha aprendido que las habilidades que más valor han producido en su empresa no eran las que tenía cuando la fundo sino las que fue adquiriendo a medida que el negocio las requeria. Los tres han llegado a la misma conclusión: en un entorno que cambia más rápido de lo que cualquier conocimiento previo puede anticipar, la capacidad de aprender es la ventaja competitiva más duradera que un emprendedor puede tener.
 
 ---
@@ -175,4 +174,4 @@ Carlos dejó de ver el aprendizaje como algo que ocurria en cursos y libros y em
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

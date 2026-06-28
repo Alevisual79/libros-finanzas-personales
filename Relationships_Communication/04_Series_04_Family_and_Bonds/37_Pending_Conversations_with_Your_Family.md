@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nathan had been rehearsing a conversation with his father for approximately twelve years.
 
 It was not the same conversation across those twelve years — it had changed shape as Nathan had changed, as his understanding of what had happened between them had developed, as his anger had gradually converted into something more complicated that was not quite forgiveness and not quite grief and not quite acceptance but some combination of all three. In the earliest version, the conversation was primarily accusatory: you were not there, you chose work over me, you taught me through your absence that my interior life was not worth showing up for. In the later versions, the conversation had more room in it — room for his father's own formation, for the life his father had been shaped by, for the specific limitations that were not exactly chosen.
@@ -153,4 +152,4 @@ Have it anyway.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

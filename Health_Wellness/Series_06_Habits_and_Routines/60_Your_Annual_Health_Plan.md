@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Most people approach health reactively: they see a doctor when sick, think about sleep when exhausted, consider diet after a weight gain, and address exercise when they feel guilty. This reactive approach means that health receives attention only when it is already failing.
 
 An annual health plan — a simple, deliberate review of where you are, where you want to be, and how you'll get there over the next 12 months — transforms health from reactive to intentional. It is not a rigid plan that must be followed perfectly. It is a framework for making deliberate choices and ensuring that the most impactful health priorities don't get indefinitely deferred.
@@ -283,4 +282,4 @@ Here's to the year ahead.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

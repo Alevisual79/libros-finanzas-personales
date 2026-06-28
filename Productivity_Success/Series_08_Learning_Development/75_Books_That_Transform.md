@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Maya had read more than forty books in the previous year. She could recommend most of them with genuine enthusiasm. When her colleague asked her which of the forty had actually changed how she worked, she paused — and named four.
 
 The disparity was not a failure of the other thirty-six books. It was a reflection of a distinction she had not been drawing clearly enough between reading for information and reading for transformation. The four books that had changed her professional practice shared something that the others did not: she had engaged with them in a specific way that she had not consistently applied to the rest of her reading. She had read them slowly, actively, with specific professional challenges in mind; she had discussed them with colleagues; she had explicitly decided what to change based on what they revealed; and she had changed it.
@@ -159,4 +158,4 @@ Read fewer books. Apply them more deeply. The transformation compounds.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

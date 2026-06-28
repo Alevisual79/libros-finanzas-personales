@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene treinta y tantos años y siente que su vida va atrasada. No porque sus circunstancias sean objetivamente malas (tiene trabajo, tiene relaciones, tiene salud). Sino porque cuando las compara con las de personas de su misma edad, parece que todos han llegado más lejos, tienen más, y estan más seguros de dónde van. Esta sensación de retraso relativo, que no tiene ninguna base en necesidades concretas incumplidas sino en la diferencia entre su posición y la de otros, es el producto de la comparación social. Y es una de las formas más eficaces de hacerse miserable independientemente de lo que se tenga.
 
 ---
@@ -175,4 +174,4 @@ Ruben dejó de seguir en redes sociales a las personas cuya vida le producia sis
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

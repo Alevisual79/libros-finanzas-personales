@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben se rompio el tobillo entrenando. Dos dias después todavía estaba trabajando desde el sofa, sin ir al médico, aguantando el dolor porque había cosas que hacer y no podía permitirse parar. Si un amigo suyo hubiera tenido el mismo accidente, lo habría convencido de ir al médico, de descansar, de pedir ayuda. A si mismo no se lo permitia. Esta diferencia entre como tratamos a los demás cuando sufren y como nos tratamos a nosotros mismos cuando sufrimos es la brecha que la autocompasión busca cerrar.
 
 ---
@@ -175,4 +174,4 @@ Ruben fue al médico con el tobillo. Tardó tres dias, pero fue. Y mientras espe
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

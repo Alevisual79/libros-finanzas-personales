@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The assignment had been due in three weeks. Sofia had known about it for three weeks. She had thought about it every day for three weeks, including detailed mental rehearsals of the productive work sessions she would have on days one, two, and three — sessions that had not occurred. She was now, with thirty-six hours remaining, beginning the work that she had been intending to do for three weeks. The experience was familiar, she was aware; it had happened before and would happen again; and the gap between what she intended and what she did was not, she had long suspected, a gap in knowledge or in skill. She was capable of the work. She was not doing the work. The question that had begun to interest her was not "how do I manage my time better?" — she had read three books on time management and had learned how to create detailed schedules that she subsequently did not follow — but "why am I doing this, when I so clearly am not stupid and so clearly do not want to be doing this?"
 
 The answer to that question — developed over decades of research by Piers Steel, Timothy Pychyl, and others — involves a much more psychologically interesting account of procrastination than the popular conception of it as laziness, poor time management, or weak character. Procrastination, the research consistently demonstrates, is primarily an emotional regulation problem rather than a time management problem. Understanding it as such is the first step to addressing it more effectively than the time management approaches that most procrastinators have already tried without lasting success.
@@ -135,4 +134,4 @@ Procrastination is not a moral failing, and the people who procrastinate are not
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

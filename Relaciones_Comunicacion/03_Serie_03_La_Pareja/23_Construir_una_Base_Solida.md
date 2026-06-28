@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Hay parejas que llevan diez años juntas y se sienten tan solos el uno con el otro como si fueran dos extraños que comparten un piso. Y hay parejas que llevan veinte años y siguen sintiendose vistos, queridos y conectados de una forma que sus amigos encuentran casi imposible de creer.
 
 La diferencia no es la suerte. No es la química inicial. No es la ausencia de problemas o crisis. La diferencia es lo que han construido deliberadamente en el tiempo que llevan juntos.
@@ -175,4 +174,4 @@ La diferencia entre una relación que resiste y una que se rompe rara vez es el 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

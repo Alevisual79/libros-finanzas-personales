@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena odia el networking. Lo llama intercambio de tarjetas sin sentido, una actuación social donde nadie es realmente honesto sobre lo que quiere del otro. Tiene razón en el diagnóstico: gran parte del networking tradicional efectivamente se siente transaccional y vacio. Se equivoca, sin embargo, en el tratamiento: la solución no es evitar el networking, sino redefinir completamente cómo se práctica.
 
 ---
@@ -155,4 +154,4 @@ El networking no tiene que ser transaccional. Puede ser humano. La diferencia es
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ana had been sitting in her car for eleven minutes. Inside the house, her husband Marcus waited with dinner on the table — a gesture she knew was loving, and yet the sight of it through the window made something in her chest tighten. She wasn't angry at him. She wasn't sure what she was. She had spent the whole drive home rehearsing a conversation about feeling unseen, but the moment she imagined his face — open, patient, already a little hurt — the words dissolved into silence. She turned the key back in the ignition, then stopped herself. *Why do I do this?* she thought. *Why do I always do this?*
 
 Tom, twenty-nine years old and six weeks out of a three-year relationship, had gone on two dates since the breakup. Both women were kind. One made him laugh genuinely for the first time in months. But when she texted the next morning to say she'd had a great time, his thumb hovered over the reply button for four hours. Something in him — something quick and practiced — wanted to say he'd been too busy to notice. He wasn't too busy. He was scared, though he would not have called it that.
@@ -177,4 +176,4 @@ These small moments are not small. They are the place where relational change ac
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

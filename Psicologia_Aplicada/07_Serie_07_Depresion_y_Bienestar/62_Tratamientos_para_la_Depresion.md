@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben fue diagnosticado con depresión mayor hace seis meses. Desde entonces ha recibido información contradictoria: su médico le receto antidepresivos, un amigo le dijo que solo necesitaba hacer ejercicio, un familiar le sugirió que los antidepresivos lo convertiran en un zombie, y un artículo en internet le aseguró que la meditación cura la depresión sin necesidad de farmacos. Ruben no sabe que creer. Este libro es un mapa de los tratamientos que la investigación ha demostrado que funcionan, con que intensidad, para qué perfiles, y cómo se complementan.
 
 ---
@@ -175,4 +174,4 @@ Ruben acabó combinando farmacoterapia y TCC, anadió el ejercicio físico gradu
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

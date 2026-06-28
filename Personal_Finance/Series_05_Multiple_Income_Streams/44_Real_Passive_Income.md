@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The phrase "passive income" has been weaponized by the internet. YouTube ads promise it. Instagram influencers display the lifestyle it allegedly funds. Courses sell it as a product. The phrase implies income that arrives without work — money that appears in your bank account while you sleep, vacation, or do nothing in particular.
 
 This version of passive income is largely fictional. What exists is income that is *decoupled from your active time* — but which requires either significant upfront capital or significant upfront effort to create, and ongoing maintenance to sustain. The word "passive" describes the relationship between your time and your income once a system is established, not the absence of any work.
@@ -226,4 +225,4 @@ Build the foundation first: active income, consistent saving, index fund investm
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

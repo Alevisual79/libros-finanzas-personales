@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 El deseo en la pareja a largo plazo tiene una trayectoria casi universal que nadie anticipa completamente cuando empieza la relación: después de los primeros años de intensa actividad sexual, decrece. No desaparece necesariamente. Pero cambia. Y ese cambio, cuando no se entiende ni se gestiona, puede interpretarse como señal de que algo va mal en la relación, que ya no se quiere al otro, que la relación ha perdido algo irrecuperable.
 
 Rara vez es eso.
@@ -187,4 +186,4 @@ Las parejas que tienen vidas sexuales satisfactorias a los veinte años de estar
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 David had a reputation at work as a consummate professional — cool under pressure, objective in meetings, unruffled by the conflicts and frustrations that destabilized others. His colleagues, who never saw him angry or upset or visibly anxious, assumed he was simply temperamentally composed. His partner, who received him at the end of each day, knew otherwise: the professional composure was sustained at a cost that was distributed across every evening. He was irritable at home in proportion to how composed he had been at work. He was withdrawn when he needed to be open. He was, without either of them having a name for it, bringing home the emotional labor bill that his workplace required him to run.
 
 The emotional life of professional settings has been among the most underexamined and practically significant domains of psychology and organizational behavior. Professional norms in most modern organizations require substantial management of emotional expression — the suppression of anger, fear, distress, and often enthusiasm — in ways that have significant consequences for the individuals who do this work and for the organizations in which they do it. Understanding the psychology of emotions at work — what emotional labor is, what it costs, what enables genuine emotional health in professional contexts, and what organizations that take emotional health seriously actually look like — is increasingly recognized as essential knowledge for anyone who spends significant time in professional settings.
@@ -135,4 +134,4 @@ The most common professional advice about emotions at work is to leave them at t
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

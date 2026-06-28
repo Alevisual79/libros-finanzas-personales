@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos cobra cuatrocientos euros por un servicio que sus competidores cobran ochocientos. Lucia tiene el precio más alto del mercado en su nicho y sus clientes son los más satisfechos y los que más repiten. Marcos lleva dos años sin subir precios por miedo a perder clientes y su margen real ha bajado un veinte por ciento por la inflación. Los tres necesitan entender algo que contradice la intuición del emprendedor recien empezado: el precio bajo no es una ventaja competitiva. Es frecuentemente una señal de falta de confianza en el valor que se ofrece. Y el precio correcto no es el más bajo. Es el que refleja el valor real para el cliente.
 
 ---
@@ -173,4 +172,4 @@ Marcos llevo meses sin atreverse a subir precios. Su consultoria había mejorado
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

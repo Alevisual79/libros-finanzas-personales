@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Maya launched her workforce development company ten years ago, the business model was simple: train unemployed adults in digital skills, place them in technology jobs, and charge employers a placement fee. The social impact was clear. The commercial viability was not.
 
 For the first three years, the business barely survived. Grants patched the gap between placement fee revenue and operating costs. The tension between the social mission (serving the hardest-to-employ populations, who were the most expensive to train and the least attractive to employers) and the commercial requirements (serving clients efficiently enough to be profitable) was permanent and uncomfortable.
@@ -153,4 +152,4 @@ Maya's early tension — between the social mission and the commercial requireme
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

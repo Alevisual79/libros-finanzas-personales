@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva tres años en una empresa donde la presión es constante, las expectativas son altas y la cultura implicitamente recompensa estar siempre disponible y siempre al borde del límite. No reconoce que tiene un problema. Reconoce que el domingo por la tarde tiene una ansiedad que le impide disfrutar el fin de semana. Reconoce que se despierta a las tres de la mañana pensando en trabajo. Reconoce que ha cancelado vacaciones dos veces porque no encontraba el momento oportuno para irse. Pero lo llama compromiso, exigencia consigo misma, profesionalidad. La linea entre el compromiso real y el daño real es más delgada de lo que cree.
 
 ---
@@ -175,4 +174,4 @@ Elena tomó dos dias de vacaciones improvisados que siempre había pospuesto. Ap
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

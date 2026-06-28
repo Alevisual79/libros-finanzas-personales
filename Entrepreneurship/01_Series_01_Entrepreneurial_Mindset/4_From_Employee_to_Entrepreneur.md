@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For eleven years, Claire had been excellent at her job. As a senior product manager at a mid-sized software company, she had learned to navigate ambiguity, influence without authority, and build products people loved — all skills, she reasoned, that would translate directly into building her own company. When she finally made the leap at thirty-eight, she discovered something that no one had clearly warned her about: the skills that had made her exceptional as an employee were not the same skills that entrepreneurship required. Some transferred. Many did not. And the differences were not in the technical domains she had anticipated; they were in the deepest assumptions about how work works.
 
 The transition from employee to entrepreneur is one of the most psychologically significant shifts a professional can make, and it is also one of the most poorly prepared-for. Most books on entrepreneurship focus on the mechanics — the business plan, the funding model, the go-to-market strategy — without addressing the cognitive and psychological restructuring that makes those mechanics usable. This book addresses the restructuring directly: the specific beliefs, habits, and identity shifts that the transition demands, and the specific practices that accelerate them.
@@ -135,4 +134,4 @@ The transition from employee to entrepreneur is the hardest professional transit
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

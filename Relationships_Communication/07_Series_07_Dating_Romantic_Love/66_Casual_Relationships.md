@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Owen had never quite called them casual relationships. He had called them "seeing someone" and "just having fun" and "not looking to put a label on it" — the specific vocabulary that performed the function of categorizing without defining, of engaging without committing.
 
 The people he had "seen" had generally understood these labels to mean something more than what Owen had intended. The person he had been "seeing" for eleven weeks in the spring — who was direct enough to have asked him at the eight-week mark what he was looking for — had received an honest enough answer that she had ended the connection politely and with, Owen had thought, a somewhat withering clarity: "You're not casual, Owen. You just think you are. The distance you maintain is actually very high maintenance."
@@ -149,4 +148,4 @@ Meet that standard, whatever the connection looks like.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

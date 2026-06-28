@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 James still remembered the first three months with Claire: the specific quality of existing in a world that had gained an additional dimension. Colors were more saturated. Food tasted better. His professional frustrations felt manageable in a way they hadn't before. He had known, intellectually, that this was neurochemistry. He had not cared.
 
 What no one tells you about the falling-in-love phase is that it ends. This is known — the phrase "the honeymoon is over" is culturally ubiquitous. What is less well understood is what ends, why it ends, and what it means about the relationship when it does.
@@ -143,4 +142,4 @@ The falling in love ends. The love, if you tend it, does not.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

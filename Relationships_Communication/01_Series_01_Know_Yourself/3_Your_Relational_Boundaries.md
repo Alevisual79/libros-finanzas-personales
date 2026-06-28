@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Patricia had never used the word "no" in her marriage. Not exactly. She had said "that's difficult for me" and "I'm not sure" and "maybe we could talk about it." She had not, in twenty-five years, said a clean, uncomplicated no to someone she loved and left the no standing.
 
 She was thinking about this on her drive home from a dinner party where she had laughed at a comment that stung her, and she was thinking: what would it even feel like? Not the performance of it — the apologetic, heavily qualified, immediately-softened version she might manage — but the actual thing. The boundary, held. The self, protected. The relationship, somehow, continuing anyway.
@@ -161,4 +160,4 @@ Presence, in relationships, is the thing worth having. And presence requires tha
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

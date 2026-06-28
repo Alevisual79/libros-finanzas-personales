@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena ate chocolate when she was stressed. She knew this. She didn't eat chocolate because she was hungry — she ate it because the act of eating it, the sweetness, the texture, provided approximately 3-4 minutes of relief from whatever work pressure she was managing. She also ate a complete dinner she hadn't been hungry for because it was 7pm and that was dinner time. She ate past fullness at social events because stopping felt awkward. She ate from the kitchen cupboard at 10pm not because she needed food but because she needed the transition between the work-focused and the rest of her evening.
 
 She was not unusual. Most people eat for reasons other than hunger most of the time.
@@ -270,4 +269,4 @@ Emotional eating is not moral failure. It is a learned behavior that makes neuro
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel llevo dos años sintiendose mal antes de pedir ayuda psicológica. No porque no supiera que la ayuda existia. No porque no tuviera medios económicos para acceder a ella. Sino porque había dentro de ella un conjunto de barreras que lo impedia: la creencia de que debería poder con esto sola, la verguenza de necesitar ayuda, el miedo a lo que descubriria, la incertidumbre de si lo que vivía justificaba la consulta, y la procrastinación alimentada por todas las anteriores. Esos dos años fueron innecesarios. Este libro es sobre las barreras que llevan a que la mayoría de las personas que necesitan ayuda psicológica tarden años en pedirla, y sobre como dar el paso que muchos posponen indefinidamente.
 
 ---
@@ -175,4 +174,4 @@ Isabel llamó a la primera psicologa de la lista un martes por la tarde. Llamo t
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

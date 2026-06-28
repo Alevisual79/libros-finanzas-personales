@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene una historia sobre si misma que cuenta de forma coherente: quien es, de dónde viene, que le paso, por qué es como es. Esta historia no es solo una descripción de los hechos: es una construcción que selecciona ciertos hechos, los organiza de cierta manera, les atribuye ciertos significados, y excluye otros que no encajan bien. Y esa historia, sin que Isabel lo haya decidido explicitamente, determina gran parte de lo que ella espera de si misma, de los otros, y del futuro. Este libro es sobre el poder de las narrativas personales y sobre como cambiarlas cuando ya no son las que queremos.
 
 ---
@@ -175,4 +174,4 @@ Isabel escribió su historia una tarde de noviembre. Le llevo dos horas. Cuando 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

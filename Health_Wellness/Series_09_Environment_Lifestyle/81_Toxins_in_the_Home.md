@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had always considered himself health-conscious. He ate organic produce, exercised regularly, and avoided smoking. But when his daughter developed recurrent respiratory infections and his own chronic headaches refused to respond to any treatment, he began questioning what was happening inside the four walls he called home. A visit from an indoor air quality consultant revealed VOC levels from his freshly renovated basement that exceeded EPA guidelines, formaldehyde off-gassing from new cabinetite, and a mold colony quietly growing behind his bathroom tiles. The revelation was simultaneously alarming and liberating: there was something he could actually do.
 
 The story Marcus found himself in is not unusual. The average American spends approximately 90 percent of their life indoors, yet indoor environments receive a fraction of the regulatory scrutiny applied to outdoor air. The EPA consistently ranks indoor air pollution among the top five environmental health risks to the public. Unlike smog-filled city streets or industrial chemical plants, the threats inside our homes are invisible, often odorless, and embedded in the materials we trust: furniture, paint, cookware, cleaning products, and the very structure of our walls.
@@ -165,4 +164,4 @@ Your home is a chemistry experiment that has been running since the day you move
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

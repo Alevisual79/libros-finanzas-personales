@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Camila had a ritual she did not choose and could not explain. She would set her phone on her desk face-down — a deliberate act of distraction management — and return to her work. Within seven minutes, on average, she would find herself reaching for the phone without any conscious decision to do so. She would not have been aware of wanting to check it. She would simply find it in her hand.
 
 She was not failing at self-control. She was experiencing one of the most powerful neurological drives available to the human brain: the dopaminergic seeking system, which had been calibrated over millions of years to compel the search for reward and had been, in the last fifteen years, deliberately engineered by the world's most sophisticated technology companies to compel the search for their platforms.
@@ -161,4 +160,4 @@ Understanding the hijacking is the beginning of reclaiming the system for its ge
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Bitcoin hit $69,000 in November 2021, Ruben's social circle was consumed with crypto. Everyone seemed to have made money. His neighbor had bought Ethereum at $1,200 and was watching it at $4,800. His college friend had invested $10,000 in a smaller altcoin and was tracking 10× gains.
 
 Ruben felt the pull. He also felt something cautious. He'd spent the previous two years building a disciplined investment strategy — index funds, automatic contributions, long-term thinking. Crypto felt different. The volatility was extreme. The underlying value proposition wasn't always clear. The stories of gains were compelling; the stories of losses were less visible.
@@ -203,4 +202,4 @@ The index fund that ignores crypto has historically performed well. The crypto p
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

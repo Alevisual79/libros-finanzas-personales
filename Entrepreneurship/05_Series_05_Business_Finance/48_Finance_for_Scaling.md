@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For the first four years, Rachel's HR technology consulting practice grew steadily and profitably: revenue from $180,000 in year one to $840,000 in year four, margins consistently healthy, cash flow manageable. The financial management that had worked for a solo practice with two contractors worked because the business was small enough that Rachel could hold its financial picture in her head.
 
 Then she decided to scale: to hire four full-time employees, add two service lines, and target $2.5 million in revenue within two years. Within six months of beginning the expansion, she faced a set of financial challenges she had never encountered: payroll that had to be met every two weeks regardless of when clients paid, a cash reserve that was being consumed faster than anticipated, a need for management reporting that her existing accounting setup couldn't provide, and a pricing model that had worked at her old scale but wasn't viable at the new one. The business wasn't failing; it was outgrowing its financial infrastructure.
@@ -137,4 +136,4 @@ Scaling a business without scaling the financial infrastructure is like expandin
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

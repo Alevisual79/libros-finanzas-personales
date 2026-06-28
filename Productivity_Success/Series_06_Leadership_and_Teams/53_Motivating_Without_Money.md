@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus's first significant managerial challenge was a team member who was clearly not engaged. The work was being done — adequately, without obvious errors — but without the initiative, creativity, or quality that he knew the team member was capable of. The performance review process had identified "development opportunities"; the compensation review had resulted in a meaningful raise. Neither intervention had changed the team member's engagement level by any amount that Marcus could detect.
 
 He had been operating on the assumption that the levers of motivation were obvious and finite: money, promotion, public recognition. He had pulled all three and the engagement level had not changed. This prompted him to look more carefully at the actual research on motivation — and what he found required him to substantially reconstruct his model.
@@ -156,4 +155,4 @@ The manager's job is not to motivate. It is to stop demotivating, and to create 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

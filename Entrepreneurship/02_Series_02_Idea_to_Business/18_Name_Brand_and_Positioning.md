@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Two management consulting practices launched in the same city in the same year, serving the same market (mid-sized manufacturing companies) with the same core service (operational efficiency consulting). Three years later, one had twelve clients and $1.8 million in revenue. The other had three clients and $280,000 in revenue. The services were comparable in quality; the founders had similar experience levels. The difference was almost entirely attributable to the clarity and coherence of how each business presented itself: its name, its visual identity, its articulation of what it was for and for whom, and the consistency with which that articulation was expressed across every interaction.
 
 Brand is not a logo. It is not a color palette. It is not a carefully crafted tagline. Brand is the sum total of what people think and feel when they encounter your business — the expectations they bring, the meaning they attach, the trust they extend or withhold. Every interaction your business has with the world — its name, its visual presentation, its communication, its product quality, its customer service — contributes to the brand that people experience. This book is about building that experience deliberately.
@@ -139,4 +138,4 @@ A name is just a name. A logo is just a logo. A positioning statement is just a 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

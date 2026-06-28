@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Daniel had given hundreds of presentations in his career. He knew this because he had been giving them since his first year in the professional world, at a rate of roughly two per month. He had never, in those years, been told that a presentation was particularly bad. He had also never been told that a presentation was particularly good. The feedback, when it came, was of the form "good job" or "nice work" — the same generic positive evaluation that, as Book 45 observed, provides no useful developmental information.
 
 The presentation he gave at forty-three — after a six-week preparation process that was qualitatively different from everything he had done before — received a different kind of feedback. People quoted it to him the following day. A senior executive he had not met requested a copy. Two colleagues asked if he could walk their teams through it the following week.
@@ -165,4 +164,4 @@ The audience does not need the presenter to be eloquent. They need the presenter
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

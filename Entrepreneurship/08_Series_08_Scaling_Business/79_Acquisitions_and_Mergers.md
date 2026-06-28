@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 After twelve years of growing his environmental engineering consultancy organically, Kevin made the decision that would accelerate his growth more than anything he had done in the previous decade: he bought a smaller firm.
 
 The acquisition — a ten-person geotechnical engineering firm in a neighboring state — added complementary technical capabilities his firm had been referring out for years, gave him access to a new geographic market with an established client base, and brought two senior engineers whose expertise he had been trying to hire directly for three years without success.
@@ -139,4 +138,4 @@ Kevin's first acquisition had been harder than he expected and more valuable tha
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The engineer in charge of the bridge project had been submitting optimistic progress reports for eleven months. The deadline was six weeks away. The structural challenges that had emerged in month four — the ones that would have required a significant timeline revision if they had been communicated directly — had been softened in the monthly updates, framed as "manageable risks" and "areas under active mitigation." The project sponsors had received no clear signal that the bridge would not be ready on time. Six weeks before the deadline, reality provided the feedback that the reporting system had withheld: the project was four months behind schedule.
 
 The engineer had not been dishonest, exactly. He had genuinely believed that each individual challenge could be managed; it was the cumulative picture that the individual communications had not conveyed. What had failed was the feedback loop between the actual performance and the information that the project's decision-makers received about the actual performance — the feedback from reality that the organizational reporting system had attenuated to the point of uselessness.
@@ -154,4 +153,4 @@ Design the feedback loops. Welcome the uncomfortable signal. Use what reality is
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

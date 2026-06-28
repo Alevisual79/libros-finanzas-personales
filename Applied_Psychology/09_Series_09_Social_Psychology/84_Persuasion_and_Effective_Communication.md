@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The physician was trying to persuade her patient to take the medication that would prevent his second heart attack. She had the medical evidence, the clinical authority, the institutional support of her hospital's cardiology department, and a genuine concern for her patient's wellbeing. He had not filled the prescription from three weeks earlier. In their conversation, she presented the mortality statistics, explained the mechanism of action, described the side effects and how to manage them, and concluded with the recommendation that he begin the medication as soon as possible. He nodded throughout the conversation. He did not fill the prescription.
 
 This scene — the expert with accurate information, clear authority, and good intentions failing to change the behavior that the information indicates is necessary — is among the most common and most costly failures of persuasion in real-world contexts. Its regularity has motivated decades of research on what actually changes minds and behavior: not what should change them according to rational models of decision-making, but what actually does, in human beings with the specific cognitive architecture, emotional responses, and social motivations that humans have.
@@ -137,4 +136,4 @@ Effective communication is not a matter of speaking loudly, citing authorities, 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

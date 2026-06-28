@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had been staring at the retirement calculator on her laptop for twenty minutes when she finally closed it in frustration. The problem wasn't that the tool was hard to use — it was that she didn't know what to put in the most important field. "Annual spending in retirement." She'd been guessing $50,000, then $60,000, then $45,000, and each number produced a wildly different "amount you need to save." The difference between her high and low guesses was $375,000. How could she build a plan around a target she couldn't even estimate to within $375,000? She pushed the laptop aside and went to get another cup of coffee, feeling the particular frustration of someone who wants to be responsible but doesn't know where to start.
 
 Ruben had a similar moment of clarity — or anti-clarity — when a freelance friend mentioned he was targeting $1.2 million to retire. Ruben had no idea where that number came from. Was it based on something real, or just a round figure that felt big enough to feel safe? He made $80 an hour and billed roughly 1,200 hours a year, so his gross income was around $96,000. After self-employment tax and business expenses, his net was closer to $70,000. He spent most of it. If he needed $1.2 million, and he was currently saving maybe $8,000 a year, the math looked impossible. He started wondering whether retirement was even a realistic goal for someone like him.
@@ -165,4 +164,4 @@ Financial independence is not a retirement plan. It is a life plan. Your number 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 A colleague of Ruben's retired at 44. Not to a beach — he took on smaller, more interesting projects at his own pace, did some volunteering, traveled for several months a year, and occasionally consulted for former clients when he wanted to. He described it not as "not working" but as "working only when I want to."
 
 Ruben was 34 when he heard this story. He did some quick math. If his colleague had done it, what would it take for him?
@@ -196,4 +195,4 @@ The best version of this goal isn't "stop working at 45." It's "arrive at 45 wit
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

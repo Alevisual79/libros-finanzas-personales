@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Thomas had been in the same decision for eleven weeks. He needed to choose between two strategic paths for his e-commerce platform: deepen into the luxury goods vertical where he had traction, or expand into the home goods market where a large competitor appeared to be struggling. Both paths had compelling arguments. Both had genuine risks. He had more data than he had started with, but not certainty — because certainty was not available. The information needed to know which path was right would only exist after the path had been chosen.
 
 This is the defining condition of entrepreneurial decision-making: the most important decisions are precisely the ones that cannot be made with the information that would make them easy. The information required to know whether a market is large enough comes from being in the market. The information required to know whether a product will find customers comes from building it. The information required to know whether a team member will perform at the required level comes from hiring them. Waiting for the certainty that would make the decision comfortable is waiting for something that will not arrive. The skill of entrepreneurial decision-making is not the skill of getting more information before deciding; it is the skill of deciding well with less information than you would prefer.
@@ -137,4 +136,4 @@ Uncertainty is not an obstacle to entrepreneurial decision-making. It is the con
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

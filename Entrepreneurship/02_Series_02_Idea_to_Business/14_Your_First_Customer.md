@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Across the entrepreneurial community, first customers are almost universally more important than founders remember or acknowledge. The first customer is not merely the first revenue; it is the first confirmation that the business exists in a form that someone other than the founder finds valuable enough to pay for. The first customer defines the product more than any design document. The first customer reveals the sales process more accurately than any theoretical model. The first customer establishes the precedent — the reference point for pricing, positioning, customer service standards, and product direction — that shapes everything that follows.
 
 Yet the first customer is also, paradoxically, the step that most early entrepreneurs do the most to avoid. They build more product. They refine the brand. They develop the website. They create content. They attend networking events. They do everything except the single most important and most terrifying thing: find a specific person, make a specific offer, ask for a specific commitment. This book is about closing the gap between building the product and acquiring the first customer — the gap that determines whether a business exists or continues as an elaborate idea.
@@ -137,4 +136,4 @@ The first customer is waiting. Not passively, not enthusiastically, but with a p
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

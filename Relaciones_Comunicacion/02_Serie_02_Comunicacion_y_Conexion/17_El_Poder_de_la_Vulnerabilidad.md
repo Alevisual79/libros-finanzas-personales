@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene treinta y dos años y nunca ha dicho estoy asustado a nadie que no sea el interior de su cabeza. Ha aprendido muy bien que los hombres no tienen miedo, o al menos no lo muestran. El resultado es que las personas a su alrededor no saben quien es realmente. Y el tampoco se lo ha permitido saber.
 
 La vulnerabilidad tiene una fama terrible. Se asocia con debilidad, con ser una carga para los demás, con perder el control. Esa fama es completamente falsa.
@@ -183,4 +182,4 @@ Lo que temía que lo alejaria fue exactamente lo que lo acerco.
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

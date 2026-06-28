@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben didn't plan to become a freelancer. He took a graphic design job after college, worked at an agency for two years, and was laid off when the agency lost a major client. He had $3,200 in savings, three months until his lease renewed, and a portfolio of work he'd done at the agency.
 
 He spent the first week applying for jobs. In the second week, a former client he'd worked with at the agency reached out — would Ruben be interested in doing a design project directly? The project paid $2,000. He finished it in four days.
@@ -242,4 +241,4 @@ Start with what you know. Build systematically. Think like a business owner. The
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

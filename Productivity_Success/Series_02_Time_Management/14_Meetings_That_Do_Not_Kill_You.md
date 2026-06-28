@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Every week, Rafa attended nineteen meetings. He had counted. They averaged forty-seven minutes, occupied approximately fourteen hours, and produced — by his honest reckoning — approximately three hours of value. The remaining eleven hours produced status updates that could have been emails, alignment conversations that generated alignment he could have achieved by walking over to the relevant colleague's desk, and one meeting that existed primarily, as far as he could tell, because it had existed every week for the past four years and no one had ever asked whether it should continue.
 
 He had not always been in nineteen meetings per week. Six years ago, at a previous company, he had been in five. The difference was not the complexity of his work or the size of his team. The difference was culture — one organization had allowed meetings to proliferate until they were the primary medium of professional life, and the other had treated meetings as expensive interruptions to professional life that required justification.
@@ -169,4 +168,4 @@ The meetings that do not kill you are the ones that are worth their cost — tha
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

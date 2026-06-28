@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Oliver launched his SaaS platform for restaurant inventory management, he was proud of his conversion rate from free trial to paid subscription: eleven percent. He had read that the average SaaS free-to-paid conversion rate was around five to eight percent, so eleven percent seemed like evidence of product-market fit and a healthy business. Then a friend who had scaled a SaaS company to $20 million in revenue asked him a question he couldn't answer: what was his conversion rate from website visitor to free trial? He didn't know. After installing the tracking to find out, the answer was one-point-two percent.
 
 The insight was transformative: Oliver had been optimizing the bottom of his funnel (free trial to paid conversion) while ignoring the top of the funnel (visitor to free trial conversion), where ninety-eight-point-eight percent of his potential customers were dropping out without taking any action. His eleven percent conversion rate was excellent given the audience that reached the trial stage; the problem was that almost no one was reaching the trial stage. Understanding his entire funnel — not just the stage he was measuring — was the diagnosis that changed his growth trajectory.
@@ -137,4 +136,4 @@ The sales funnel is not a technology or a tactic; it is a framework for understa
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nina had been hired as a product designer at a technology company specifically because of her creativity — her portfolio was imaginative, surprising, unconventional. Within six months of starting the job, she realized she had largely stopped producing work that surprised her. The deadlines were tight, the processes were fixed, and the culture rewarded speed and conformity over exploration. She was generating more output than ever and less originality than she had in years. When she described this to a psychologist friend, the friend told her something she found both clarifying and challenging: creativity is not a trait you have or don't have; it is a process that requires specific conditions, and her new environment was systematically eliminating those conditions.
 
 The science of creativity has undergone a transformation in the past three decades. The romantic myth of the solitary genius struck by sudden inspiration — the lightning bolt, the apple falling on Newton's head — has been replaced by a far more nuanced and empirically grounded account. Creativity, as it turns out, involves identifiable cognitive processes, depends on knowledge and expertise in ways the myth denied, is significantly influenced by environmental and social conditions, and is substantially more trainable than the talent narrative suggested. Understanding this science does not reduce creativity to a mechanism; it makes it accessible.
@@ -137,4 +136,4 @@ Creativity is sometimes described as making something from nothing. This is tech
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

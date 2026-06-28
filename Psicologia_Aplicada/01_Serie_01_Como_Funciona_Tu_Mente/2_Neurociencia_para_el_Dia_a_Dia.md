@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene treinta y un años y cree que su memoria falla más que antes. Que se cansa más rápido de lo que debería. Que le cuesta concentrarse. Que duerme mal. Lleva años tratando estos problemas como defectos de carácter, señales de que no trabaja lo suficiente o no tiene suficiente disciplina. Nunca se le ha ocurrido tratarlos cómo lo que son: consecuencias predecibles de como está tratando a su cerebro. El órgano más complejo del universo conocido funciona mal no porque sea defectuoso, sino porque nadie le ensenó las instrucciones basicas.
 
 ---
@@ -175,4 +174,4 @@ Ruben empezó por el sueño. Un cambio pequeño: acostarse a la misma hora todos
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben fue a terapia durante dos meses y la dejó porque, según su propia descripción, no funcionaba. En realidad, descubre eventualmente al volver a intentarlo con más información, nunca entendió realmente para qué sirve la terapia ni cómo se trabaja con ella de forma efectiva. Esperaba alivio inmediato de un proceso que, por su propia naturaleza, requiere tiempo, participación activa, y una comprensión distinta de lo que significa el progreso terapéutico.
 
 ---
@@ -155,4 +154,4 @@ La terapia no es magica ni inmediata. Es una herramienta muy potente en manos de
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

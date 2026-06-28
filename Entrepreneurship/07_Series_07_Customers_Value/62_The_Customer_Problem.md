@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Omar launched his productivity software for architects, he was certain he understood the problem he was solving. He had spent three years as an architect at a mid-sized firm; he knew the inefficiency of the tools available; he had built the software he wished had existed during that time. He launched after eighteen months of development, pitched it at an architecture industry conference, and watched forty-three firms sign up for trials in the first three months.
 
 Then the trials ended. Thirty-one of the forty-three firms did not convert to paid subscriptions. When Omar conducted post-trial interviews with the non-converting firms, the patterns he found were not what he expected. The problem he had built to solve — the inefficiency of specific drafting workflows — was not what the trial users had been hoping his software would address. They had been hoping it would solve a different problem entirely: the coordination friction between architects and their clients during the design review process. That problem, which Omar hadn't identified because it had been less visible during his years as an architect, was the actual problem most of his trial users had been trying to solve.
@@ -143,4 +142,4 @@ The problem Omar thought he was solving — his own problem — was not the prob
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

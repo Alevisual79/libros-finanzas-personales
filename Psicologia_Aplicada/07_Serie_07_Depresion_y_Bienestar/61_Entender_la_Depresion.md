@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva tres semanas sin poder levantarse de la cama con la energía que antes tenía. No esta triste de la forma en que imagino que estaria triste: no llora continuamente. Solo esta... apagada. Las cosas que antes le importaban ya no le importan de la misma manera. El trabajo se hace, pero como si alguien más lo hiciera. Las conversaciones ocurren, pero desde lejos. Cuando busco en internet, encontró listas de sintomas que de alguna forma encajan pero que no capturan lo que vive. Este libro es sobre lo que la depresión es realmente, no la caricatura que se ve en los anuncios de antidepresivos, sino el estado que afecta a más de 300 millones de personas en el mundo y que la mayoría de las personas que la viven no reconocen cómo lo que es.
 
 ---
@@ -175,4 +174,4 @@ Elena programo la cita. Tardio tres semanas más en hacerlo desde que compró el
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

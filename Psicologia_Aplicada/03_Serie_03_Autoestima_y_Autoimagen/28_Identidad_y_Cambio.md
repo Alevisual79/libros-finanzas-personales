@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene treinta y dos años y siente que se está convirtiendo en una persona diferente de quien era a los veinticinco. Sus valores han cambiado, sus prioridades han cambiado, su forma de relacionarse con el mundo ha cambiado. No esta seguro de si eso es bueno (he crecido) o malo (me he perdido en el camino). Esta pregunta, quien soy cuando ya no soy quien era, es una de las preguntas más fundamentales de la vida adulta y tiene respuestas más matizadas de lo que la cultura suele ofrecer.
 
 ---
@@ -175,4 +174,4 @@ Ruben ha decidido ver los cambios en quien es no como traición a quien fue sino
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

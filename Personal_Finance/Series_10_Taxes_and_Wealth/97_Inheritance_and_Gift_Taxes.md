@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel had never talked to her adult children about money. It wasn't secrecy — it was discomfort, the same discomfort that had kept her from making a will until her mid-forties, and from updating that will after her divorce. She was proud of what she had built: a home approaching $520,000 in value, $18,000 in retirement savings that she was now growing aggressively, and a career at peak earnings. But she hadn't thought about what happened to those assets after she died, or whether the way she transferred them — gradually, all at once, through a will, through a trust — would have dramatic tax consequences for her children.
 
 Ruben's grandmother had passed away the previous spring and left him $45,000, the proceeds of a small life insurance policy and a savings account. He spent three months wondering whether he owed taxes on it and finally asked a CPA who told him that inheritances are generally not taxable income to the recipient under federal law. He was relieved — but also embarrassed that he hadn't known something so fundamental. The conversation with the CPA spiraled into a longer discussion about estate taxes, gift taxes, and the concept of basis that left him realizing how much he didn't know about how wealth actually transfers between generations.
@@ -166,4 +165,4 @@ The next book in this series examines a specialized corner of the tax world that
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

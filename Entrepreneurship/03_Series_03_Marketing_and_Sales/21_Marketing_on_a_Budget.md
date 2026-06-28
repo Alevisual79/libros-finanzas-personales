@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Diane launched her specialty food company from her home kitchen, her total marketing budget for the first year was $400: enough for a small amount of promotional packaging, some samples for potential stockists, and a minimal website. She had no social media advertising budget, no PR firm, and no brand identity designer on retainer. What she had was a product people genuinely loved, a willingness to show up personally at farmers markets and food festivals every weekend for eight months, and a discipline about building genuine relationships with the customers, journalists, and retail buyers who would become the foundation of her distribution.
 
 Two years later, her products were in forty-seven specialty retail locations, she had been featured in three food publications, and her direct-to-consumer email list had 3,200 subscribers. She had built significant market presence on a budget that would have been dismissed as inadequate by any marketing professional. This book is about how she did it, and how the principles she applied — principles that require more intelligence and relationship-building than money — are available to any entrepreneur willing to invest the resources they have rather than waiting for the ones they don't.
@@ -137,4 +136,4 @@ Marketing on a budget is not marketing under handicap. The constraints of limite
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

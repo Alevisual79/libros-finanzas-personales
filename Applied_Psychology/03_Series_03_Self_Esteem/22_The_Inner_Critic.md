@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Valeria had two voices. One of them said reasonable things in a reasonable tone — what to cook for dinner, when to call her mother, how to frame a proposal to her team. The other voice was less reasonable and never quiet: it noticed when she said the slightly wrong thing in a meeting and replayed it for hours afterward; it compared her to a colleague who had published more and concluded, briefly but repeatably, that she was falling behind; it monitored her face in the bathroom mirror and made specific observations she did not invite. This second voice was very familiar — she had known it so long that she had difficulty distinguishing between what it said and what she thought. The psychological literature had a name for it. Her therapist gave it to her: the inner critic.
 
 The inner critic — the internalized, critical self-evaluative voice that many people experience as constant, harsh, and difficult to quiet — is one of the primary psychological mechanisms through which low self-esteem operates. It is not a random phenomenon; it has identifiable origins in early experience, recognizable cognitive patterns, and evidence-based approaches to transformation. Understanding the inner critic as a psychological mechanism — how it forms, what it does, why it is so difficult to silence — is the first step in developing a different relationship with it.
@@ -137,4 +136,4 @@ The inner critic tells a partial story about the self — the story of inadequac
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

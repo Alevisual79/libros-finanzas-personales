@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nadia had exactly one standard for how she treated people who struggled: with patience, curiosity, and the assumption that struggle didn't define them. She applied this standard consistently — to her friends, her children, her colleagues, even strangers who showed visible distress. The one exception was herself. When she struggled — when she made mistakes, fell short of her own standards, experienced failure or rejection or ordinary human inadequacy — the voice she heard was not patient or curious. It was impatient and specific: this should not have happened; you should have known better; what does this say about you? The gap between how she treated others in distress and how she treated herself in distress was so wide and so normal to her that she had never thought to examine it.
 
 Self-compassion — the practice of extending to oneself the same kindness, understanding, and care that one would offer to a good friend who was suffering — has emerged as one of the most important and most evidence-backed constructs in contemporary positive psychology. Kristin Neff's development of the self-compassion construct and the research program that followed has consistently found that self-compassion is more protective of wellbeing than self-esteem, more motivating than self-criticism, and substantially more achievable than the positive thinking it is sometimes confused with. Self-compassion is not self-pity, not lowered standards, not the excuse for poor performance that the inner critic claims it is. It is the practice that makes genuine human effort sustainable.
@@ -137,4 +136,4 @@ The practice of self-compassion is fundamentally the practice of turning toward 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

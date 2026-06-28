@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The team that carried Josephine's boutique hotel management company through its first four years — a group of seven people she had personally hired, trained, and nurtured through the company's early challenges — was a magnificent small-team organism: flexible, loyal, deeply aligned with her vision, and capable of handling almost anything because everyone did almost everything.
 
 When she began managing her fourth property and planning her fifth, she recognized that the team's greatest strength had become its primary limitation. The very qualities that had made it excellent at small scale — generalism, flexibility, informal coordination, and deep personal loyalty to Josephine specifically — were the qualities that would prevent it from working at the scale she was building toward.
@@ -141,4 +140,4 @@ Josephine's seven-person team had been her family. The forty-two-person team she
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

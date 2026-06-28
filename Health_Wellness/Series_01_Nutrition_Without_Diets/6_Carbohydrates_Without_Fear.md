@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 After the fall of dietary fat as public health villain #1, carbohydrates claimed the position. Low-carbohydrate diets became the dominant weight loss approach, with carbohydrates blamed for obesity, insulin resistance, metabolic disease, inflammation, and cognitive decline.
 
 The truth is more complicated, and more useful. Carbohydrates are not a single thing. "Carbohydrates" encompasses whole grains and white bread, lentils and candy, broccoli and Skittles. Understanding the distinctions within this category is the beginning of a rational approach.
@@ -219,4 +218,4 @@ Choose the food, not the macronutrient. The food matrix matters far more than th
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

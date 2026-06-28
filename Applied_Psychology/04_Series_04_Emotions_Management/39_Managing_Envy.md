@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Clara and Sofia had been close friends since graduate school. When Sofia's first novel was published to significant critical attention, Clara discovered something in herself she hadn't known was there: a persistent, uncomfortable response to her friend's success that went beyond simple joy and contained, alongside genuine pleasure for Sofia, a quality she recognized with shame as envy. She wanted what Sofia had — not instead of her, not without wanting Sofia to have it, but alongside the genuine happiness. The envy was uncomfortable precisely because it coexisted with real love for her friend and real joy at her success. Clara had always thought of envy as a simple, ugly emotion that clean-hearted people didn't feel. What she was discovering was considerably more complicated.
 
 Envy — the painful emotion that arises when another person has something one desires and lacks — is among the most universally experienced and most universally denied human emotions. Its denial is partly cultural: envy is regarded as one of the less admirable emotional experiences, morally coded as a failing in most religious and ethical traditions (it is one of the seven deadly sins in Christian tradition). Its denial is also partly psychological: the combination of desire, comparison, and resentment that envy involves is genuinely uncomfortable and triggers the same shame-and-hiding dynamic described in Book 35. Understanding envy — its function, its forms, its relationship to self-esteem and social comparison, and what can be done with it productively — is an important component of emotional literacy for anyone who operates in competitive or comparison-rich environments.
@@ -135,4 +134,4 @@ Envy is information about desire, dressed in the uncomfortable clothing of compa
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

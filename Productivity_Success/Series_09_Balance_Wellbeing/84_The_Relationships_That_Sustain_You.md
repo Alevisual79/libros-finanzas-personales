@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The longest running study of adult development in scientific history began in 1938. The Harvard Study of Adult Development — the longitudinal research project that followed 724 men from adolescence through old age, collecting data on their physical health, mental health, and life satisfaction across eight decades — has produced one of the most important and most consistently replicated findings in the social science of wellbeing: the quality of relationships is the strongest predictor of long-term health and happiness that the study has found. Not wealth, not intelligence, not professional achievement, not genetic advantage. The quality of the relationships.
 
 Robert Waldinger, the current director of the study, summarizes the finding with striking simplicity: "Good relationships keep us happier and healthier. Period."
@@ -156,4 +155,4 @@ Invest accordingly.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

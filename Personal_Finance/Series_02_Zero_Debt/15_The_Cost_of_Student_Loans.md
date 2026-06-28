@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Ruben graduated with his design degree, he had $38,000 in student loans. The monthly payment — $380 on the standard 10-year plan — felt manageable against his first job's salary of $32,000 per year. He deferred the question of whether the debt was "worth it" because the answer seemed obvious: of course education was worth it.
 
 Ten years later, with the loans paid off, Ruben does the math occasionally. His degree in graphic design had opened doors. But the specific school he'd attended — a private art college at $22,000 per year — had been chosen partly based on its prestige and partly because the financial aid office made the loans feel approachable. The equivalent state school program would have cost $7,000 per year.
@@ -165,4 +164,4 @@ That specificity is always available. It just has to be sought.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

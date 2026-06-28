@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Marcus hired his first full-time employee for his video production company, he didn't have a compensation philosophy. He had a number: $45,000 per year, which was what his accountant said he could afford. The hire was a talented young producer who accepted, did excellent work, and eighteen months later left for a competitor who offered $62,000. Marcus had lost a key person, faced the cost and disruption of rehiring, and discovered — in his exit conversation with her — that she had known for nearly a year that she was being underpaid relative to the market. She had stayed out of loyalty; she had left when the gap felt too large to ignore.
 
 The lesson Marcus took from this: compensation is not a number chosen based on what you can afford in the moment. It is a strategy — one that reflects what you believe about fairness, retention, the relationship between contribution and reward, and the kind of employer you want to be. Getting compensation strategy right is one of the most consequential financial decisions a growing business makes, because the quality and stability of the team depends on it.
@@ -149,4 +148,4 @@ Marcus now has a team of eight, a written compensation philosophy, and a track r
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

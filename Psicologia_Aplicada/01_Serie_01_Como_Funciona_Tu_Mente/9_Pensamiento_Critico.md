@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben recibe diariamente más información que un hombre del siglo XVIII recibio en toda su vida. Noticias, estudios, opiniones de expertos, datos estadísticos, graficos, titulares. Tiene la sensación de estar más informado que nunca. Lo que no tiene, porque nunca le ensenaron, es la capacidad de evaluar esa información con criterios rigurosos: distinguir el dato de la opinión, la correlación de la causalidad, la fuente confiable de la que no lo es, el argumento valido del falaz. En el mundo actual, la cantidad de información no protege contra la desinformación. La calidad del pensamiento, si.
 
 ---
@@ -175,4 +174,4 @@ Ruben implementó una práctica simple: antes de compartir cualquier informació
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

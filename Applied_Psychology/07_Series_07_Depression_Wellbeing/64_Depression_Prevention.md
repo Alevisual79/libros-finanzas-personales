@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The most visible conversation about depression focuses on its treatment: what to do when depression has already arrived. Less visible but equally important is the conversation about prevention: what can be done before depression arrives, or before an initial episode recurs. This is not a conversation about guarantee — no lifestyle, no set of practices, no degree of psychological health immunizes anyone against depression, which is influenced by genetic, developmental, and circumstantial factors that individual preventive action cannot fully control. But it is a conversation about the substantial evidence that specific practices, environments, and social conditions significantly reduce the risk of developing depression and reduce the risk of recurrence for those who have experienced it. The conversation about prevention is also the conversation about what genuinely protects and nourishes mental health — which is valuable information for everyone, not only for those who have experienced depression.
 
 Leila had experienced one major depressive episode in her early thirties and had, after recovery, become deliberately interested in understanding what the evidence said about reducing the risk of recurrence. She was not anxious about recurrence in a preoccupying way — her therapist had worked with her on tolerating the genuine uncertainty about whether depression would return — but she was interested in doing what was within her agency. The evidence she found was more specific and more extensive than she had expected.
@@ -139,4 +138,4 @@ Depression prevention is not about becoming invulnerable. It is about reducing m
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Alejandro had two different versions of his own life that he told, depending on who was asking and in what context. The professional version was a coherent narrative of progression — challenges met, skills developed, opportunities seized. The private version was something more discouraging: a series of near-misses, fortunate accidents, and performances that had been sufficient but never excellent. Both versions were built from the same factual material. Both were, in their different ways, accurate in the sense of including events that actually occurred and omitting events that didn't. What made them different was not the events but the organizational principle — the interpretive frame that connected events into a story with a particular meaning about the person at its center. He had not consciously chosen either version. They had accumulated over years of telling and retelling, shaping and reshaping. The version he was in depended on factors he couldn't entirely predict: his mood, the context, who was asking, how the recent past had gone.
 
 Narrative psychology — the study of how human beings organize their experience into stories and how those stories shape their psychology — has become one of the most productive areas of contemporary personality and clinical psychology. Dan McAdams's research on "narrative identity" — the internalized, evolving life story that we construct to provide our lives with meaning, purpose, and unity — documents that this story is not merely a record of our lives but a constitutive element of who we are: it shapes what we remember, how we interpret new events, what we consider possible, and what kind of person we are becoming. Understanding the stories we tell ourselves — their structure, their effects, and how they can be revised — is the subject of this book.
@@ -133,4 +132,4 @@ The stories we tell ourselves are not neutral descriptions of fixed realities. T
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

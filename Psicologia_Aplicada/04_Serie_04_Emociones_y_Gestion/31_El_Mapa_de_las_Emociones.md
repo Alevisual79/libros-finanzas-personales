@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva tres dias sintiendose fatal sin saber exactamente por qué. No esta triste en el sentido dramatico de la palabra. Tampoco es ansiedad, no tiene ese filo agudo. Es algo más opaco, más difuso. Cuando su pareja le pregunta que le pasa, dice no se. Y esa respuesta, aunque parece una evasión, es completamente honesta: genuinamente no sabe que siente. Esta incapacidad para nombrar lo que se siente no es un problema de carácter. Es la consecuencia de no tener el vocabulario emocional necesario para convertir la experiencia interna en lenguaje. Y sin lenguaje, la gestión es imposible.
 
 ---
@@ -175,4 +174,4 @@ Elena encontró las palabras. No en un libro de psicología ni en una terapia, s
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

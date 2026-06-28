@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Resilience, in engineering, describes a material's ability to absorb energy from impact and return to its original form. A resilient structure doesn't avoid stress — it absorbs it, distributes it, and recovers.
 
 Financial resilience works the same way. A financially resilient person or household isn't one that never faces adversity. It's one that can absorb adversity — job loss, medical emergency, divorce, economic recession, natural disaster — and recover without permanent damage.
@@ -266,4 +265,4 @@ Build the structure. Maintain it. And live with the quiet confidence of knowing 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

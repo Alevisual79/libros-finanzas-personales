@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 If you asked David what he had thought about on his commute to work this morning, he would not be able to tell you. He had driven a familiar route, responded to routine situations, arrived at his destination — and had been, for the duration, somewhere else entirely. Not asleep, not unconscious: he had been in his default mode, the mental state that characterizes the mind when it is not engaged by a specific external task. In his default mode, his mind had wandered through tomorrow's meeting, a conversation from last week, a vague anxiety about something he couldn't quite specify, a brief planning sequence about the weekend, and the ongoing low-level evaluation of his life against some standard he had never explicitly articulated. None of this was consciously chosen. It happened the way breathing happens — automatically, continually, without directing it.
 
 The neuroscience of the "default mode network" — the brain systems that activate when we are not engaged in specific goal-directed tasks — has produced some of the most fascinating insights of contemporary cognitive science. The discovery that the brain's resting state is not inactivity but a highly organized, metabolically expensive pattern of self-referential and social processing has transformed understanding of the relationship between conscious intention and automatic cognition. This book explores what the mind does when we are not directing it, why it does those things, and what the science of conscious attention offers as an alternative to living on autopilot.
@@ -135,4 +134,4 @@ The mind on autopilot is not a failure or a weakness; it is the predictable oper
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

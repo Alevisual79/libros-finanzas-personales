@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel recibe un mensaje de su jefe que dice solo necesito hablar contigo mañana. Inmediatamente su mente construye un guion: la van a despedir, hay un problema grave, algo que hizo mal ha tenido consecuencias que no conoce todavía. Pasa la tarde y la noche con ese guion activo, planificando mentalmente cómo lo manejaria, que diria, cómo se lo contaria a su familia. A la mañana siguiente su jefe le dice que quiere ofrecerle un aumento. El tiempo que Isabel dedicó al escenario catastrofico fue completamente gratuito. Pero la próxima vez que reciba un mensaje ambiguo, su cerebro hará exactamente lo mismo.
 
 ---
@@ -179,4 +178,4 @@ Isabel llegó a la reunión con su jefe con una ansiedad moderada en lugar del t
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 James had launched his meal planning platform eighteen months ago. In that time, he had pivoted the product twice, lost one co-founder to burnout, rebuilt his tech stack from scratch, run through two-thirds of his initial savings, and generated exactly zero recurring revenue despite forty-seven conversations with potential paying customers. His LinkedIn showed a founder's optimism. His private life showed someone who was running on sleep deprivation, family tension, and the increasingly urgent question of whether he was being resilient or delusional.
 
 That question — where is the line between resilience and stubbornness, between persistence and denial — is the honest core of what entrepreneurial resilience requires you to answer repeatedly, often without adequate information. This book is not a motivational argument for never quitting. It is a practical guide to the psychological infrastructure that allows you to stay in the game long enough to get to the information that would let you make that decision well. Resilience is not about not feeling the pain. It is about having the structures, the reframes, and the relationships that allow you to continue functioning through the pain.
@@ -133,4 +132,4 @@ Resilience is not the absence of pain. It is the presence of infrastructure — 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

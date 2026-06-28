@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The word mindfulness has become so ubiquitous in contemporary culture — appearing in corporate training programs, elementary school curricula, smartphone apps, and yoga studio marketing — that it risks becoming meaningless. The proliferation has generated both a genuine dissemination of a useful practice and a significant dilution of what the practice actually involves and what the research actually supports. For every rigorous application of evidence-based mindfulness training in a clinical setting, there are dozens of commodified mindfulness products that bear the label without the substance.
 
 This book undertakes a careful examination of what mindfulness actually is, what the research actually demonstrates about its effects, what it does and does not do for mental health, how it is most effectively developed, and how it relates to the broader context of psychological wellbeing. The goal is not to celebrate mindfulness uncritically or to dismiss its commercialized versions cynically, but to present an honest, research-grounded account of a practice that, at its core, is one of the most systematically investigated and most genuinely beneficial psychological interventions developed in the past half-century.
@@ -144,4 +143,4 @@ Mindfulness, at its core, is the practice of coming back — to the present mome
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

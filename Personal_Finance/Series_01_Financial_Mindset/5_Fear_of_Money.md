@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel has a specific ritual for dealing with financial mail. She picks it up from the mailbox, puts it on the kitchen counter, and leaves it there. Sometimes for a week. Sometimes longer. She doesn't throw it away — that would feel irresponsible — and she doesn't open it right away, because opening it would require being prepared to deal with whatever's inside.
 
 Eventually she opens it. Usually it's routine. Occasionally it requires action. The few times it has required urgent action, the delay has cost her money in late fees or missed deadlines. She knows this. She still does it.
@@ -167,4 +166,4 @@ Look at the number. It has a value. It can be changed. Starting with knowing wha
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

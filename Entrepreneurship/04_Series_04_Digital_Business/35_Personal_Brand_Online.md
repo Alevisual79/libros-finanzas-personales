@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Raj left his position as a senior data scientist at a major technology company to start his own AI consulting practice, he had a specific asset that most new consultants don't: a personal brand. Over the three years before he left, he had published weekly on LinkedIn about data science and machine learning applications in business — not self-promotional content, but genuine analysis of trends, practical tutorials, and thoughtful perspectives on the intersection of AI and business strategy. He had 47,000 followers on LinkedIn. He had been cited in two industry publications. He had been invited to speak at two conferences he hadn't applied to.
 
 When he announced his consulting launch, he had eight qualified inbound inquiries in the first two weeks. His first year of consulting generated $340,000 in revenue. He has never cold-called a potential client. He has never run a paid advertisement. His business exists because his personal brand made him visible, credible, and trusted to a large audience of potential clients long before he needed them.
@@ -137,4 +136,4 @@ Raj's personal brand generated $340,000 in first-year consulting revenue before 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

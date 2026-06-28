@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The gut contains approximately 38 trillion microorganisms — bacteria, fungi, viruses, and archaea — collectively called the gut microbiome. This community weighs approximately 2 kilograms, contains more genes than the entire human genome, and influences health outcomes that extend far beyond digestion: immune function, mental health, metabolic regulation, inflammatory disease, and possibly longevity.
 
 The gut is not a passive digestive tube. It is a dynamic ecosystem with its own nervous system (the enteric nervous system, often called the "second brain"), bidirectional communication with the brain, and metabolic activity that rivals the liver. Understanding it has become one of the most productive frontiers in modern health science.
@@ -251,4 +250,4 @@ The gut that's well-fed with variety and live cultures is a gut that supports no
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

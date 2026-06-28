@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 In 1967, Warner Wilson published a review of the research on subjective wellbeing — what ordinary people call happiness — and noted that the field had produced an embarrassingly thin body of reliable findings relative to the importance of the question. Two decades later, the field had expanded dramatically but the central questions remained contested. The 1990s and 2000s produced a synthesis that made happiness science a serious empirical enterprise: longitudinal studies that tracked happiness across decades, twin studies that estimated the genetic contribution to baseline happiness, experimental manipulations that tested specific wellbeing interventions, and neuroimaging research that documented the neural correlates of positive affect.
 
 What the science of happiness has produced is not simple — it does not confirm the popular intuitions about what makes people happy, and the most widely shared cultural beliefs about the sources of happiness have been consistently disconfirmed by careful research. The relationship between income and happiness is more complicated than either the "money doesn't matter" or the "more is always better" positions suggest. The relationship between major life events and long-term happiness is dramatically weaker than most people believe. The activities and practices that reliably improve happiness are not the ones that most people prioritize.
@@ -141,4 +140,4 @@ The science of happiness does not promise that everyone can be equally happy, or
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

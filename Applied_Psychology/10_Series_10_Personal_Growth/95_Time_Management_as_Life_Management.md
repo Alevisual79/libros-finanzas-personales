@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 In 1989, Stephen Covey introduced the "time management matrix" — a two-by-two grid organizing activities by urgency and importance — and proposed that most people spend the majority of their time in the urgent-but-not-important quadrant (responding to others' priorities) and the urgent-and-important quadrant (genuine crises), while neglecting the not-urgent-but-important quadrant (strategic planning, relationship investment, personal development) that determines the long-term quality of one's life. The insight was not new — Dwight Eisenhower had made the same distinction decades earlier — but Covey's synthesis reached millions of people and correctly identified a pattern that research has subsequently documented: people's time use tends to be driven by urgency signals rather than by importance assessment, with significant consequences for their sense of meaning, effectiveness, and wellbeing.
 
 The psychology of time use — how people actually allocate their time, what determines that allocation, and what follows from different allocation patterns — is an empirically rich field whose research findings are often at odds with both popular time management advice and with people's intuitions about what they are doing with their time. Understanding the psychology of time use is ultimately about understanding what one is doing with one's life, since time is the fundamental unit of experience and its allocation is the operationalization of one's actual priorities, whether or not those priorities are the ones one would consciously endorse.
@@ -133,4 +132,4 @@ Time is the only resource that is equally distributed and completely irreversibl
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

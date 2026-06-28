@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Valentina had not been on a first date in twenty-three years.
 
 She had been with her husband from the age of twenty-two until his death when she was forty-two, and the social architecture of dating at forty-five — the apps, the texting rhythms, the specific social norms of an encounter whose purpose was romantic evaluation — was almost entirely unfamiliar to her. She had been, for the past three years, a person whose social life was organized around established relationships: the friendships of many years, the children and their lives, the professional community she had built. The social context of a first date — two adults meeting as strangers with explicit romantic intent — was not a context she had navigated since she was a person she barely recognized anymore.
@@ -151,4 +150,4 @@ And just talked to another person.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Victor had been in his industry for twenty-two years and had, over that time, built something that he did not usually think of as a "professional network" because the word felt like it described something colder than what he had.
 
 What he had was this: relationships with about forty people whom he genuinely knew, who knew him in return, and who could, without more than a moment's consideration, be called on for specific professional assistance that would be genuinely provided. Not because of any formal obligation or quid pro quo accounting, but because the relationships were real — because the investments had been mutual, the contact sustained, and the goodwill accumulated over years rather than assembled at strategic moments.
@@ -151,4 +150,4 @@ It is something you become.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

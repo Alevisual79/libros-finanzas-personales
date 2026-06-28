@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The book you are reading is the hundredth in this collection. It is the final book of the final series of the Applied Psychology Collection, a project that has traveled from the psychology of influence to social behavior, from depression to wellbeing, from personality to work, from the mechanisms of the mind to the direction of a life. The choice to make this final book about the long journey of personal growth is deliberate: because everything in the collection — every finding, every framework, every research program — ultimately points toward the same practical question: how do we become more fully what we are capable of becoming, across the full length of a human life?
 
 The answer the psychology gives is neither as simple as the self-help industry would have it nor as pessimistic as a certain scientific reductionism might suggest. It is more accurate, more human, and more useful than either. Personal growth — the genuine, sustained development of the person one is across time — is possible, documented, and substantially predictable. It is also more gradual, more nonlinear, more socially embedded, and more continuous than either dramatic transformation narratives or skeptical dismissals suggest.
@@ -145,4 +144,4 @@ With eyes open, then. That is what the examined life, the intentional life, the 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

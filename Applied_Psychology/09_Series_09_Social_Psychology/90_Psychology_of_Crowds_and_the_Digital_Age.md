@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Gustave Le Bon's "The Crowd: A Study of the Popular Mind," published in 1895, described crowds as fundamentally different in their psychology from the individuals who compose them: less rational, more emotional, more suggestible, more prone to extreme action, and subject to a kind of collective contagion that eliminates individual judgment and replaces it with a shared, undifferentiated group mind. Le Bon's observations were made in the context of the political upheavals of nineteenth-century France; his framework was subsequently deployed by advertising pioneers, political propagandists, and mass communication theorists throughout the twentieth century.
 
 A century after Le Bon, the emergence of the internet and social media created what might be called a permanent crowd — a continuous, planetary, asynchronous aggregation of individuals connected by digital networks, subject to many of the same psychological dynamics Le Bon described but operating at a scale, speed, and geographic distribution that Le Bon could not have imagined. Understanding the psychology of this digital crowd — what processes govern collective behavior online, what makes ideas spread virally, what produces the coordinated action of social movements and the coordinated aggression of online mobs — is among the most pressing applications of social psychology in the contemporary world.
@@ -135,4 +134,4 @@ The crowd has always been with us. It was there in the village market, the relig
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

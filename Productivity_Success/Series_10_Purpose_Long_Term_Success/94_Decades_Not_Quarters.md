@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The dominant time horizon in the contemporary professional environment is the quarter. The quarterly earnings review, the quarterly performance assessment, the quarterly goal-setting cycle — these are the temporal frames that shape the organizational mind and, over time, the professional mind that operates within it. The quarter is a useful planning unit for many organizational purposes. As a career planning unit, it is substantially too short to produce the most significant professional outcomes.
 
 The professionals who have achieved the most significant and most genuinely valuable long-term professional outcomes are, consistently, the professionals who have been able to think and plan at the decadal scale — who have been able to hold a ten-year horizon in mind while navigating the quarter-to-quarter pressures that the organizational environment generates. This long-horizon thinking is not a luxury of the unusually patient; it is the specific cognitive practice that produces the outcomes that the quarter-horizon thinking specifically cannot.
@@ -137,4 +136,4 @@ Invest in what accumulates.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

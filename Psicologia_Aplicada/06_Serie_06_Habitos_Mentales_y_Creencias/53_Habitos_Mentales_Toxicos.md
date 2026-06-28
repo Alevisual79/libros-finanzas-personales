@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene un conjunto de patrones mentales que reconoce pero que no puede parar. La comparación constante con los demás. La autoexigencia que nunca se satisface por completo. La crítica interna que comenta cada decisión con el tono de un juez severo. El replay mental de conversaciones pasadas buscando que debería haber dicho de forma diferente. Sabe que estos patrones le hacen daño. Pero saber que hacen daño no es suficiente para dejar de hacerlos: son hábitos, y los hábitos funcionan de forma automática por su propia naturaleza. Este libro es para entender por qué esos hábitos mentales son tan persistentes y como interrumpirlos con herramientas específicas.
 
 ---
@@ -175,4 +174,4 @@ Isabel empezó a nombrar los hábitos en el momento en que los reconocia: ah, es
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

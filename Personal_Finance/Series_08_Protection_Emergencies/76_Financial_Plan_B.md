@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena was having what she later called "the perfect storm week." On Monday, her car needed a $1,400 transmission repair. On Wednesday, her landlord announced a $200 rent increase. On Friday, the company-wide email arrived: a restructuring was coming, and her marketing department was under review. Three separate problems, each manageable alone, but arriving together with the force of a body blow. She sat at her kitchen table that Sunday night, staring at her bank app, doing math that didn't work. Her emergency fund had $4,200 — enough for the car, but not the car plus higher rent plus a potential job loss. She felt the specific, nauseating panic of someone who has been doing things right but not quite right enough.
 
 Ruben knew the feeling from a different angle. As a freelancer, he'd learned early that disasters arrive in clusters. Two months prior, he'd lost his two steadiest clients in the same week — one shut down, one moved their design work in-house. Simultaneously, his laptop died, forcing an unplanned $1,800 expense. His emergency fund covered the laptop, but covering three months of reduced income while rebuilding his client base nearly wiped it out. What saved him wasn't the emergency fund alone. It was the mental framework he'd built around it: a clear decision tree for exactly what to do when multiple bad things happened at the same time. He didn't have to think under pressure. He already had a plan.
@@ -165,4 +164,4 @@ The next book in this series examines economic crises — the larger, systemic d
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

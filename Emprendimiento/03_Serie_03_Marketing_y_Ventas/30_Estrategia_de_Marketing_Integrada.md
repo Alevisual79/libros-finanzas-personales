@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos tiene blog, newsletter, LinkedIn, un funnel de ventas, y un programa de referidos. Cada uno funciona de forma aislada. Lucia usa cada canal según le apetece en cada momento y sin un plan coherente. Marcos ha aprendido todo lo que hay que saber sobre cada canal de marketing por separado pero no sabe como conectarlos en un sistema que trabaje de forma coordinada. Los tres han llegado al mismo punto en su aprendizaje de marketing: conocen las piezas pero no saben como montarlas. Una estrategia de marketing integrada no es usar todos los canales al mismo tiempo. Es usar los canales correctos de forma coordinada para guiar al cliente potencial por todo el proceso de decisión.
 
 ---
@@ -176,4 +175,4 @@ Lucia miro su sistema de marketing al cabo de dieciocho meses: el blog generaba 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

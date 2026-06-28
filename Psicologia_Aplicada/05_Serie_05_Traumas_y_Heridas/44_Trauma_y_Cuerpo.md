@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva años en terapia verbal: ha hablado de su historia, ha analizado sus patrones, ha entendido intelectualmente de dónde vienen sus dificultades. Y sin embargo, en el cuerpo, hay cosas que no han cambiado: la tensión cronica en los hombros, el estómago que se aprieta en ciertos contextos, la incapacidad de relajarse completamente incluso en situaciones donde racionalmente sabe que esta segura. Este libro parte de una premisa que la investigación sobre el trauma ha confirmado de forma creciente: el trauma no vive solo en los pensamientos y los recuerdos. Vive en el cuerpo. Y para procesarlo completamente, el trabajo con el cuerpo es tan necesario como el trabajo con la mente.
 
 ---
@@ -175,4 +174,4 @@ Elena noto el cambio en la cuarta sesión de trabajo somatico. No hubo una gran 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

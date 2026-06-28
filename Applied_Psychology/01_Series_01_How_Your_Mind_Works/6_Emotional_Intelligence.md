@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The promotion that David missed at 37 was not a surprise to anyone who knew him well. He was analytically brilliant — the best technical mind in his division — but his performance reviews consistently noted the same issue: he struggled in high-pressure meetings, went silent when challenged, and occasionally said exactly the wrong thing in interpersonal conflicts at the worst possible moments. His manager described him privately as someone who "didn't read the room." David had spent fifteen years developing his technical expertise with the assumption that performance was ultimately about what you knew. It took the promotion passing him by — given to a colleague who, by David's own assessment, knew less but navigated people better — for him to seriously examine a different hypothesis.
 
 The concept of emotional intelligence, introduced to the popular imagination by Daniel Goleman's 1995 book of the same name, captured something that practitioners and leaders had long observed: that intellectual ability and academic achievement predicted only part of what determined success in professional and personal life. The qualities that accounted for the rest — the ability to manage one's own emotional states, to read and respond to the emotional states of others, to motivate oneself and others, and to navigate interpersonal complexity — were different from cognitive intelligence and only weakly correlated with it. Goleman's claim that EI matters more than IQ is probably an overstatement, but the underlying insight — that emotional competencies are real, measurable, learnable, and significant — has survived substantial scientific scrutiny.
@@ -139,4 +138,4 @@ Emotional intelligence is not the antithesis of rational intelligence — it is,
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

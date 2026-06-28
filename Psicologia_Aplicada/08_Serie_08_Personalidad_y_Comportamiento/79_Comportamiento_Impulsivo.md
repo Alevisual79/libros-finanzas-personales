@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben envió el email cuando todavía estaba furioso. Tardo cinco minutos en escribirlo y tres semanas en recuperarse de las consecuencias. Isabel dijo algo en una reunión que supo inmediatamente que no debería haber dicho. La cara de la persona a quien se lo dijo tardo meses en recuperar la calidez anterior. Elena hizo una compra grande un sabado por la tarde de impulso. El lunes por la mañana la devolvio, pero el daño financiero de las dos horas entre la compra y el cierre de la tienda no era recuperable. El comportamiento impulsivo tiene en común que ocurre en el espacio donde debería haber una pausa. Este libro es sobre esa pausa: por qué no existe cuando más la necesitamos, y como construirla.
 
 ---
@@ -175,4 +174,4 @@ Ruben instalo una extensión en el correo que retarda el envió de emails tres m
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

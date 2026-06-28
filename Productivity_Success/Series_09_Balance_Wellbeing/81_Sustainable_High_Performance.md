@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Dr. Sarah Chen had been called "the most productive person in her department" for three consecutive years. She published more papers, saw more patients, and chaired more committees than any of her colleagues. She was the first to arrive and the last to leave. She responded to emails within minutes at 11 p.m. She had not taken a proper vacation in four years.
 
 In month seven of her fifth year in the role, she sat across from a physician colleague and listened to a description of her own symptoms — the persistent fatigue that sleep was not relieving, the difficulty concentrating that her caffeine intake was no longer compensating for, the emotional flatness that she recognized now as the anhedonia she diagnosed in her patients — and recognized that she had been delivering outstanding professional performance by systematically destroying the physiological and psychological systems that performance required.
@@ -152,4 +151,4 @@ Invest in the systems that your performance requires. Protect the recovery that 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The average primary care appointment in the United States lasts 17 minutes. In that time, the physician is expected to address the reason for the visit, review medications, check for concerning symptoms, maintain preventive care, complete documentation, address any new concerns the patient mentions at the end ("by the way, I've been having this chest pain..."), and satisfy insurance coding requirements.
 
 Most patients leave with at least some questions unanswered. Many don't mention the concern they actually came for until they're leaving. Some receive information they don't understand and don't ask for clarification. And many walk away feeling rushed, dismissed, or confused.
@@ -260,4 +259,4 @@ The most impactful preventive health actions often aren't medical procedures —
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben conduce durante veinte minutos y llega a su destino sin poder recordar prácticamente nada del trayecto. Come mientras mira el teléfono y cuando termina no recuerda el sabor de lo que comio. Mantiene conversaciones mientras una parte de su mente esta en otro sitio. Lleva horas, a veces dias, en modo piloto automático: el cuerpo hace las cosas pero la mente esta en otra parte. Esto no solo es una perdida de la experiencia presente: es también la condición en que los hábitos no examinados, las reacciones automáticas, y los patrones no conscientes toman las decisiones. Recuperar la mente del piloto automático es recuperar la agencia sobre la propia vida.
 
 ---
@@ -175,4 +174,4 @@ Ruben llegó a casa un jueves y en lugar de coger el teléfono automáticamente,
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

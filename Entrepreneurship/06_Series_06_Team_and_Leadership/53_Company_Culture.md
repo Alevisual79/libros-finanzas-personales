@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Tara started her public relations firm, she hired people who were talented, enthusiastic, and a genuine pleasure to work with. The early culture was almost accidental: everyone worked hard because Tara worked hard; everyone cared about clients because Tara cared about clients; everyone operated with integrity because Tara had never in her professional life been willing to do otherwise. The culture was an extension of the founder.
 
 By year four, with twelve people and three times the revenue, the culture had changed. The early team members who had come largely through Tara's network and shared her professional formation were now joined by people who had been recruited through job postings and professional outreach — good people, but people whose professional values and work habits were not automatically aligned with the culture Tara had been maintaining through personal example. Two specific incidents — a junior account manager who misled a client about the status of a campaign, and a team lead whose response to the mistake was to cover it up rather than address it — revealed that the culture was no longer the reliable extension of the founder's values that it had been when everyone on the team had been personally selected by Tara and directly influenced by her daily presence.
@@ -137,4 +136,4 @@ The culture Tara built in the first four years was real but fragile — entirely
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

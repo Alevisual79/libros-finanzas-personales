@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene veintinueve años y lleva cuatro meses en el estado que el llama completamente loco por alguien. No puede pensar en otra cosa. Todo lo que hace lo hace pensando en ella. Cada momento en que no estan juntos cuenta el tiempo hasta que puedan estarlo. Sabe racionalmente que esto no puede durar para siempre. No le importa. Esta exactamente donde quiere estar.
 
 El enamoramiento es la experiencia emocional más intensa que la mayoría de los seres humanos vive. Y es una de las menos entendidas, no porque no haya investigación sobre ella sino porque nadie quiere estudiarla cuando la está viviendo. La biología, la psicología y la química se combinan para producir un estado que altera la percepción, distorsiona el juicio y genera una sensación de completitud que ninguna otra experiencia puede igualar.
@@ -177,4 +176,4 @@ Y resulta que la perspectiva es exactamente lo que hace que el enamoramiento pue
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

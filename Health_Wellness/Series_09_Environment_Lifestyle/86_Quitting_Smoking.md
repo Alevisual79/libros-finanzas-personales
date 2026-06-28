@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had smoked for twenty-two years. He had tried to quit eleven times — cold turkey, nicotine patches, hypnotherapy, an app that was supposed to help, and once, memorably, a bet with a colleague that lasted four days before he bummed a cigarette outside a conference hall in the rain. Each failure felt like proof of a character flaw: weakness, lack of discipline, the inability to do what other people seemed to manage without much fuss. What Marcus did not know — what most smokers do not know — is that his failures were not evidence of weakness. They were evidence of biology.
 
 Cigarette smoking is one of the most powerfully addictive behaviors human beings engage in. It is more addictive, by most pharmacological measures, than alcohol, cocaine, and heroin in terms of the percentage of people who try it and become dependent. The nicotine in tobacco smoke reaches the brain within seven seconds of inhalation, faster than an intravenous drug injection, flooding the reward circuitry with dopamine in a way that evolution never prepared us to resist. Every puff is a tiny, precisely timed reinforcement event. Over years, the brain physically rewires itself around the expectation of nicotine. Quitting is not a decision — it is a neurological renegotiation.
@@ -163,4 +162,4 @@ Quitting smoking is not easy, and anyone who tells you otherwise is selling some
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

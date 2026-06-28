@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben ayuda a colegas con su trabajo aunque no le paguen por ello. Elena dona a organizaciones que trabajan con personas que nunca conocera. Isabel dedica parte de su tiempo a mentorizar a profesionales jóvenes sin esperar nada a cambio. Los tres hacen cosas que, desde la perspectiva de un modelo económico estandar, no tiene sentido: dedican recursos (tiempo, dinero, energía) a beneficiar a otros a un coste personal real. Este libro es sobre por qué lo hacen: la psicología de la cooperación y el altruismo, su base evolutiva y neurológica, las condiciones que la facilitan o la dificultan, y como hacerlo de forma más efectiva.
 
 ---
@@ -175,4 +174,4 @@ Elena empezó a compartir sus notas de investigación en un blog. No esperaba na
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

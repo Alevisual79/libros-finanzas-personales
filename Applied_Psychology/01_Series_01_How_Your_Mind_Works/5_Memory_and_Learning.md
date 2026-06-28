@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 James spent three hours the night before his licensing exam reviewing his notes, highlighter in hand, moving through each page with a sense of productive industry. The next morning, in the exam room, he found that critical concepts had simply evaporated — present enough during the review to feel familiar, absent when the test demanded active retrieval. He was baffled and devastated. What he didn't know was that what he had done the night before — passive re-reading, highlighting, massed studying in a single session — is among the least effective strategies for learning that cognitive science has studied. He had confused the feeling of learning with the fact of it.
 
 The science of memory and learning is one of the most practically relevant and consistently underutilized bodies of research in all of psychology. Since Hermann Ebbinghaus mapped the forgetting curve in the 1880s — showing that memory for new material drops sharply in the first 24 hours after encoding and more gradually thereafter — researchers have accumulated robust knowledge about what strategies genuinely produce durable learning and which produce the illusion of learning without the substance. The gap between what students and professionals do when trying to learn and what the evidence recommends is enormous.
@@ -139,4 +138,4 @@ The study of memory is ultimately the study of what it means to learn from exper
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel noticed the change in her mother gradually, then all at once. First it was the repeat phone calls — three in one evening asking the same question about Thanksgiving. Then the unpaid bills she found on a visit in March, the confusion at the pharmacy, the refrigerator full of expired food. Isabel's mother, at 79, was still mostly functional, still living in the family home, still able to manage her daily routine with reminders. But the trajectory was clear. Isabel found herself Googling "dementia stages" late at night, then "how to become a parent's financial representative," then "what does a geriatric care manager do." She had spent her career becoming financially stable. She had not spent any of it preparing for the role of financial caregiver.
 
 Elena's situation arrived without warning. Her father, 61 and always healthy, had a mild stroke in October. He recovered substantially but could no longer drive and had been told to reduce stress significantly. His job — managing a warehouse for a distribution company — had ended. His savings were negligible. Her parents had always lived paycheck to paycheck, and her father's disability payments covered only about 60% of what the household had been spending before. Her mother worked part-time but was approaching the age where that would become harder. Elena, who had only recently gotten her own finances in order, found herself in the unwanted but unavoidable position of thinking about how much she could afford to contribute to her parents' monthly expenses and whether there was a smarter way to structure it.
@@ -167,4 +166,4 @@ The reversal of roles — child becoming caregiver, parent becoming dependent �
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

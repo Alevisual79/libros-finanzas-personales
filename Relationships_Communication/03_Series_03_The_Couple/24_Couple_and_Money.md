@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Money had been the thing James and Claire didn't talk about before they got married. Not through deliberate avoidance — they were both intelligent adults who knew money mattered. But the conversations had been vague in the specific way that conversations about things you're afraid of tend to be vague. "We're both responsible with money" was the kind of thing they said, which was true in the general sense and obscured significant specific differences: James's preference for financial security through accumulated savings versus Claire's comfort with more fluid financial management; James's implicit expectation that major purchases would be decided jointly versus Claire's assumption that individual discretionary spending didn't require partnership discussion; and the specific, unacknowledged difference in what each of them understood "financial security" to mean in terms of the number required.
 
 These differences had not created crisis. They had created, over the first years of their marriage, a steady undercurrent of financial tension that surfaced in specific arguments about specific purchases and was, in each instance, about more than the specific purchase.
@@ -141,4 +140,4 @@ Talk about it.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

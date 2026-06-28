@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Keiko had worked with Marcus for fourteen months before she was able to name clearly what he was doing.
 
 The difficulty in naming it had been the subtlety: none of Marcus's specific behaviors were obviously actionable. He interrupted her in meetings, but so did other people. He consistently took credit for contributions without attributing them clearly — but the attributions he gave were technically not false, only incomplete. He was, in one-on-one interactions with their shared manager, consistently described as someone who "raised concerns" about Keiko's approach that the manager then mentioned to Keiko in a way that was clearly intended to be helpful — "Marcus was wondering about your timeline on the Chen project" — but that had the cumulative effect of undermining her professional credibility while keeping Marcus entirely outside the direct accountability for having done so.
@@ -157,4 +156,4 @@ But when the evidence accumulates: trust it.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

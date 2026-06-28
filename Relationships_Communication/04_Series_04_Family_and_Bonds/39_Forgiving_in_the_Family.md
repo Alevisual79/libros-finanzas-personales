@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Mei had not spoken to her biological aunt for four years.
 
 The aunt — her birth mother's older sister, one of the few biological relatives Mei had found through the search she had undertaken at thirty-five — had been warm and welcoming in the first year of contact, and then had said something, at a family gathering in China that Mei had attended, that was so carelessly cruel in its revelation of how the family had understood Mei's adoption — as a disposal of a problem, an inconvenient female child in the years of China's one-child policy — that Mei had been unable to maintain contact afterward.
@@ -161,4 +160,4 @@ It is the point where you stop letting the story end you.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

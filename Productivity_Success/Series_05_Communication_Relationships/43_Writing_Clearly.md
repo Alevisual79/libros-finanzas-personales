@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Valentina had been copying and refining her prose for fifteen years. She had learned, in school, to write in the academic register — the formal, passive, nominalized style that her professors had rewarded and that she had brought into her professional writing without questioning. Her emails were clear but formal; her reports were thorough but dense; her memos were complete but rarely read in full.
 
 The first time a senior partner at her firm told her that she wrote well was also the first time she had significantly changed her approach. The partner had sent back a draft with changes that reduced the paragraph count by half, converted all passive constructions to active, eliminated four of every five nominalized verbs, and changed the opening from the background context to the conclusion. The result was a document she would not have recognized as her own — clearer, faster, more readable, more compelling — that had required the partner approximately thirty minutes to produce from her draft.
@@ -166,4 +165,4 @@ Begin with the conclusion. Write in active voice. Use concrete language. Make it
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nadia checked her email 47 times on a Tuesday. She knew this because her phone had a screen time report, which she had not asked for and which she read with the mix of recognition and mild shame that screen time reports reliably produce. She also checked Slack 61 times on the same day, received 23 push notifications from various work applications, and was interrupted 34 times by messages requiring at least some response within the same business day.
 
 The 47 email checks had collectively produced one message that required substantive thought to respond to. The other 46 checks had been early warnings for messages that arrived later, reminders of messages she already knew existed, and the kind of low-stakes communication that felt urgent in the moment and was forgotten within hours.
@@ -165,4 +164,4 @@ The trap had not been the email. It had been her relationship with it — the tr
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

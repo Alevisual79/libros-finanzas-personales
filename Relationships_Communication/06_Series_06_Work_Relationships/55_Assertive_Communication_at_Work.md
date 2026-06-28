@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Keiko had a hypothesis about herself: she was the kind of person who thought of exactly what she should have said about twenty minutes after the conversation was over.
 
 The phenomenon had a name — l'esprit de l'escalier, "the wit of the staircase" — the perfect response that arrives when you're already out the door. Keiko's version was less about wit than about professional substance: the point she should have made in the meeting, the pushback she should have offered on the timeline that she could see was unrealistic, the credit she should have claimed for the work that had just been attributed to someone else in the all-hands presentation.
@@ -157,4 +156,4 @@ Using it clearly is a skill. Like all skills, it gets better with practice.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

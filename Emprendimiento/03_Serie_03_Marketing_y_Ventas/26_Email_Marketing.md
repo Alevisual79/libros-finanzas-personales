@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos tiene quince mil seguidores en Instagram y doscientos suscriptores en su newsletter. La newsletter genera diez veces más ventas que Instagram. Lucia manda emails masivos genéricos y no entiende por qué tiene una tasa de baja del 30% mensual. Marcos nunca ha enviado un email de marketing en su vida y cree que el email marketing es spam. Los tres necesitan entender algo fundamental sobre el email: es el único canal de marketing digital donde el negocio tiene control total (no depende de ningún algoritmo externo), la audiencia ha dado permiso explícito (lo que produce mayor atención), y la conversión es consistentemente la mayor de todos los canales digitales. El email no ha muerto. Solo han muerto los que lo hacen mal.
 
 ---
@@ -175,4 +174,4 @@ Carlos miro el balance de su lista de email al cabo de dieciocho meses: ochocien
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

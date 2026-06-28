@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel tiene cincuenta y dos años y acaba de enamorarse de alguien por primera vez sin esa euforia adolescente que recordaba de sus relaciones anteriores. No hay obsesión, no hay la sensación de no poder pensar en otra cosa. Hay, en su lugar, algo más tranquilo, más claro, más elegido. Y es mejor. Mucho mejor de lo que jamás habría imaginado que el amor pudiera sentirse.
 
 ---
@@ -155,4 +154,4 @@ El amor maduro no es la renuncia a la pasión. Es la pasión que ha aprendido a 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had been dating Marcus for two years before she discovered he had $22,000 in credit card debt. Not from carelessness — from years of supporting his family through a health crisis — but the revelation still knocked the wind out of her. She had been diligently building her savings account, contributing to her IRA, and tracking her spending in a spreadsheet she updated every Sunday morning. Marcus had been doing none of those things, not out of laziness, but because money, in his family, had always been a source of shame. You didn't talk about it. You managed it in silence. The debt had accumulated quietly, the way things do when no one speaks about them.
 
 What hurt Elena most wasn't the number itself. It was that she hadn't known. Two years of dinners out, weekend trips, shared expenses on a lease — and they had never once sat down and asked each other the fundamental questions: What do you owe? What do you earn? What does financial security mean to you? What are you afraid of? She lay awake that night running calculations. Their combined income was good. If they were serious about the future, the debt was manageable. But manageable required a conversation she had never imagined she'd need to have.
@@ -179,4 +178,4 @@ The next book in this series explores a specific question that arises once coupl
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

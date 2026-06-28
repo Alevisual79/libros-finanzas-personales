@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 "I'd eat better if I had more time" is the most common reason people give for poor dietary quality. It is partly true and largely a framework problem. The assumption underlying it: good food takes significantly more time than bad food. This assumption is frequently wrong.
 
 The person eating fast food at lunch spends time driving to the restaurant, waiting in line, and eating. The person who packed lunch yesterday morning spends zero time at lunch. The time is in the preparation, not the eating — and preparation time can be batched, minimized, and systematized.
@@ -261,4 +260,4 @@ Eat better by building a system, not by trying harder.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

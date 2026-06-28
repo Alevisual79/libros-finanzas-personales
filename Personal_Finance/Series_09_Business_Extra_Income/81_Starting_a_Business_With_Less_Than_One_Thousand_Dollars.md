@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had been doing it for months without realizing it. Every time a colleague needed help structuring a presentation, she stayed late and reworked the slides. When her manager asked her to write copy for a product launch email, she delivered something that got a 34% open rate — double the company average. When a friend started a small boutique, Elena mapped out a three-month content calendar over a Saturday afternoon, just because she found it interesting. Her skills were real, in demand, and she was giving them away for free. One Tuesday evening, running the numbers on her checking account balance — $1,247 after bills — she asked herself a question she'd never asked before: what would someone pay for this?
 
 Ruben had already taken the leap, but he remembered what it felt like to be at the edge of it. He'd launched his freelance graphic design business with a secondhand laptop, a $49 Adobe subscription, and a portfolio site that cost him nothing to build. His first client paid $200 for a logo redesign. It wasn't impressive money, but it was proof. Over eighteen months he had gone from zero to billing at $80 an hour, with anchor clients who gave him recurring work. The hardest part hadn't been learning design — he already knew that. The hardest part had been believing his skills had market value and then asking someone to pay for them.
@@ -181,4 +180,4 @@ Isabel knew something both of them were still figuring out: the best business is
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

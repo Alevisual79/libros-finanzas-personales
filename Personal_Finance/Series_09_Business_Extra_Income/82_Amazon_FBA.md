@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben had heard the pitch a dozen times in YouTube ads: regular people quitting their jobs after starting an Amazon FBA business, showing screenshots of $40,000 months, explaining how they'd built a passive empire by finding the right product. He was skeptical by temperament, but the volume of success stories was hard to ignore. One evening he went down the rabbit hole — not the promotional content, but the forums. Reddit's r/FulfillmentByAmazon. Seller forums on Seller Central. The real accounts from people who had tried this. The picture that emerged was more complicated than the ads suggested. Some people had genuinely built sustainable businesses. Many more had lost $2,000–$10,000 in inventory, ads, and fees before abandoning the model. The difference wasn't luck. It was research, math, and realistic expectations.
 
 Elena's colleague Marcus had started an FBA business selling kitchen gadgets eighteen months earlier. At a company happy hour, she'd asked him how it was going. His answer was a long pause, then a laugh. "I'm profitable," he said. "But it took me fourteen months to get there, and I spent $8,000 before I made my first dollar of profit. I'm making about $800 a month now. If you're thinking about it, go in with your eyes open." Elena had been thinking about it. She filed Marcus's answer away and kept researching.
@@ -177,4 +176,4 @@ The lesson of Amazon FBA is ultimately a lesson about understanding before commi
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

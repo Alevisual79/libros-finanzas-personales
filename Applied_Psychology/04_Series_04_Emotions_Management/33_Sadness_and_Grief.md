@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Three years after her mother died, Priya still had not cried. She had organized the funeral, managed the estate, supported her siblings, and returned to work within two weeks. People commented on how well she was handling it. She had lost weight, was sleeping less, found herself less interested in things she had previously cared about — but none of this she connected to grief. Grief, in her mental model, involved crying and not being able to function, and she was functioning. When her therapist eventually asked about the loss directly, she discovered that she had not been grieving so much as managing the grief away, and that the weight and the sleep and the interest were all symptoms of the grief she hadn't recognized as grief because it didn't look the way she expected.
 
 Sadness and grief are among the most universal human experiences and among the most mismanaged — not because people don't take them seriously, but because the dominant cultural models for what they should look like are narrow in ways that cause people to either pathologize their grief (it's been too long, I'm falling apart) or not recognize it at all (I'm fine, I'm coping, I haven't cried). Understanding the psychology of sadness and grief — their function, their diversity of expression, their normal range, and their complications — is essential both for navigating one's own losses and for supporting others through theirs.
@@ -135,4 +134,4 @@ Grief is not a problem to be solved but an experience to be lived. The loss is r
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

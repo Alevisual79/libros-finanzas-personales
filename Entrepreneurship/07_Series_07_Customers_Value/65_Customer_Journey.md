@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Christina analyzed the eighteen months of customer data from her online learning platform for graphic designers, she found something initially puzzling: her most satisfied customers — measured by survey scores, completion rates, and the enthusiastic testimonials they provided — were not the customers who were most likely to renew their annual subscription. The renewal rate for customers who gave her platform a nine or ten out of ten satisfaction score was only sixty-eight percent. The renewal rate for customers who gave eight or nine satisfaction scores was seventy-two percent.
 
 The seemingly paradoxical finding — that the most enthusiastic customers were not the most likely to renew — pointed to something in the customer journey that satisfaction surveys couldn't capture. The customers who were most satisfied with the learning experience were the ones who had made the most progress. They had completed the courses, developed the skills, and achieved the design capability goals that had motivated their original subscription. And having achieved those goals, they no longer felt they needed the subscription.
@@ -139,4 +138,4 @@ Christina's puzzling renewal data turned out to be the most valuable information
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

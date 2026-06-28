@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Camille left on a Wednesday in March, when her partner was at work.
 
 She had been preparing for four months. The preparation had been practical (a new bank account, a storage unit with her most important documents, a conversation with a friend who had offered her guest room), psychological (the specific work with her therapist of building the internal resources that leaving would require), and logistical (the timing, the destination, the what-to-take and what-to-leave).
@@ -161,4 +160,4 @@ It is worth beginning.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

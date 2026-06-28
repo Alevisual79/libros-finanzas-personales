@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos trabaja doce horas al dia y siente que no avanza. Lucia trabaja ocho horas bien organizadas y su negocio crece más rápido que el de la mayoría de sus competidores que trabajan más que ella. Marcos viene de un entorno corporativo donde la productividad se media en horas de presencia y ha tenido que reinventar completamente su relación con el tiempo y el trabajo. Los tres han tenido que aprender la diferencia entre estar ocupado y ser productivo: una distinción que en el empleo muchas veces no importa (el empleado que parece ocupado es percibido como buen empleado), pero que en el emprendimiento es la diferencia entre el negocio que crece y el que se consume en actividades sin retorno.
 
 ---
@@ -175,4 +174,4 @@ Lucia paso de trabajar doce horas a ocho, y su negocio creció más en los seis 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

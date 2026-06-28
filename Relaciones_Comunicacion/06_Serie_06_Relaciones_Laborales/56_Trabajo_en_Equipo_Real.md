@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena asiste a actividades de team building organizadas por su empresa con regularidad. El lunes siguiente a cada una, el equipo se comporta exactamente igual que antes: las mismas tensiones no dichas, las mismas dinámicas de desconfianza sutil, los mismos silencios en las reuniones donde nadie se atreve a discrepar abiertamente. El problema, descubre con el tiempo, nunca fue la actividad. Es la relación subyacente que ninguna actividad de un dia puede transformar.
 
 ---
@@ -155,4 +154,4 @@ Un equipo no es un grupo de personas con el mismo objetivo. Es un grupo de perso
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

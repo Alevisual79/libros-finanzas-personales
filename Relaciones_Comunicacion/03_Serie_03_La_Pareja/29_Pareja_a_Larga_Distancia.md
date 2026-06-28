@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben lleva ocho meses en una relación a distancia. Su pareja vive en otro pais por motivos de trabajo. Se ven cada seis u ocho semanas. Entre las visitas, hay videollamadas, mensajes y una sensación constante de estar construyendo algo que no se puede tocar de la forma en que se construyen otras relaciones.
 
 Las relaciones a larga distancia son más comunes que nunca, impulsadas por la globalización laboral, la migración y la posibilidad de conocer pareja en cualquier parte del mundo a traves de internet. Y aunque tienen una reputación de ser más difíciles o menos viables, la investigación muestra un panorama más matizado: pueden funcionar, y en algunos aspectos pueden ser incluso más sólidas que las relaciones de proximidad, si se gestionan con las herramientas adecuadas.
@@ -159,4 +158,4 @@ La distancia, descubrieron, era más sostenible cuando sabían hacía donde se d
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

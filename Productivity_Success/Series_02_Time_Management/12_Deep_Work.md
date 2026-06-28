@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Rafa had not had a genuinely quiet workday in years. He could not remember the last time he had sat with a complex problem for three uninterrupted hours. The mornings were eaten by email that had arrived overnight; the meetings began at nine and often ran until noon; the afternoons were a mix of Slack messages, back-to-back calls, and the half-hour fragments between them that he used to catch up on everything else. He produced output continuously. He almost never produced anything he was truly proud of.
 
 He read Cal Newport's *Deep Work* on a Saturday morning in two sittings — the first sitting because the premise hooked him immediately, the second because he couldn't put it down. What Newport described was the exact diagnosis of his professional experience: a mode of work that had become structurally impossible in his organization and that he had been treating as a personal productivity failure rather than as a structural one.
@@ -177,4 +176,4 @@ The work that mattered, he had discovered, required the kind of attention that m
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

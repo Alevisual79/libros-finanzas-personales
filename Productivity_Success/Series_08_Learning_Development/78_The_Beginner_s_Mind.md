@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marco's senior client meeting had not gone as planned. He had been presenting an approach that, in his assessment as an eight-year veteran of the consulting industry, was the obvious solution to the client's operational challenge. The client's team had pushed back with increasing frustration. Three-quarters through the meeting, one of the client's junior analysts — a person two years out of university — had asked a question about the fundamental premise of the approach that Marco had never considered, because it had never occurred to him to question a premise that eight years of industry practice had treated as settled.
 
 The question was a good one. When Marco thought carefully about it on the way back to the office, it revealed a limitation of the approach that his client's team had already seen and that his expertise had made invisible to him. The junior analyst's inexperience had enabled a perception that Marco's expertise had foreclosed.
@@ -149,4 +148,4 @@ Ask the question. Especially the one that makes you uncomfortable.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

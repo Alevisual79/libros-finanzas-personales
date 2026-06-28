@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena se enamoro tres veces antes de los treinta y cinco. Las tres veces lo sintio con la misma intensidad. Las tres veces pensó que era el definitivo. Y las tres veces descubrió, con el tiempo, que había elegido a alguien que no era bueno para ella. No por mala suerte. Por los mismos patrones que repitió sin verlos.
 
 La elección de pareja es probablemente la decisión que más impacto tiene en la calidad de nuestra vida. Y es la que se toma con menos información, más influencia emocional y menos conciencia de los propios patrones.
@@ -181,4 +180,4 @@ Eso resultó ser exactamente lo que necesitaba.
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Lucia paso tres semanas escribiendo un plan de negocio de cuarenta páginas para una aceleradora. El plan era impecable en forma: análisis de mercado, proyecciones a cinco años, análisis de la competencia, matriz DAFO. Era terriblemente débil en contenido: se basaba en supuestos que nunca había verificado con el mercado real. Carlos nunca ha escrito un plan de negocio. Ha ido tomando decisiones semana a semana, algunas muy bien, pero sin la claridad de hacía donde va y con que recursos cuenta. Marcos escribió un plan de negocio corporativo, el tipo que había visto durante veinte años en reuniones de estrategia, y descubrió que no le servia en absoluto para la realidad del emprendimiento diario. Los tres necesitan lo mismo: no el documento sino la claridad que un buen proceso de planificación puede producir.
 
 ---
@@ -175,4 +174,4 @@ Carlos nunca escribió el plan de cuarenta páginas que creía que necesitaba pa
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

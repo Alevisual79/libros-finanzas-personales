@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Mei had two mothers. Not two women who both played the role of mother — two distinct people with distinct relationships to her: the woman who had given birth to her in Guangdong Province in 1987, whom she had never met, and the woman in Vancouver who had adopted her at five months and raised her with genuine care for thirty-eight years. She also had, somewhere, a biological father; and she had an adoptive father who had died when she was twelve. And she had a stepfather who had entered her mother's life when Mei was fifteen and who she had never fully known how to relate to — not unkindly, but from a distance that had never quite closed.
 
 This was her family. It was complicated to explain. It was her.
@@ -141,4 +140,4 @@ It can be found in many forms.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The philosopher Acton's aphorism — "power tends to corrupt, and absolute power corrupts absolutely" — is among the most quoted observations in political philosophy and one of the least carefully examined in its psychological claims. Does power actually corrupt? If so, through what mechanisms? And is the corruption the property of specific individuals, or is it a predictable consequence of the psychological effects of power on virtually anyone who experiences it?
 
 The scientific study of power — led by researchers including Dacher Keltner, Michael Inesi, Ana Guinote, and Adam Galinsky — has produced findings that are both sobering and practically important. Power does change people, in systematic and largely predictable ways. It changes their cognition, their emotion, their behavior toward others, and their sense of moral constraint. These changes are not primarily products of the personalities of those who seek power; they are, in significant measure, products of what power does to the minds of those who hold it.
@@ -137,4 +136,4 @@ Power is among the most significant variables in human social life, and its psyc
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

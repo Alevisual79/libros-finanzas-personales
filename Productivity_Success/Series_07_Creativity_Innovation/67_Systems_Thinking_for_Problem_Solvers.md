@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Raj's supply chain improvement initiative had produced exactly the kind of result he had learned to recognize: the problem in one location had been solved, and three months later an equivalent problem had appeared in a different location. The pattern was familiar — he had seen it in previous projects, in colleagues' projects, and in the organizational discussions of persistent problems that returned despite sustained attention. The problem was not being solved; it was being relocated.
 
 The relocation pattern is the characteristic signature of linear problem-solving applied to systems problems: the intervention that addresses the visible symptom without understanding the system that produces it will typically find the system generating the symptom elsewhere, as the unaddressed underlying dynamics continue operating. The understanding of why this happens — and what kind of thinking allows it to be addressed at the system level rather than the symptom level — is the essential contribution of systems thinking.
@@ -149,4 +148,4 @@ Think in loops. See the delays. Find the leverage. Work with the system rather t
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

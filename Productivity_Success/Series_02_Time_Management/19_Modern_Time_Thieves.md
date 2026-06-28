@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marco had done the math. He worked approximately fifty hours per week — five or six hours more than the conventional forty, which he considered modest for someone at his professional level. He was genuinely busy during those fifty hours: always in motion, always responding, always attending to something. At the end of any given week, he could account, in general terms, for most of those hours.
 
 What he could not account for was where the excellent work had gone. The strategic analysis he had been planning to complete. The client relationship he had been meaning to invest in. The team member who needed development attention that had been deferred week after week. These were not things he had explicitly deprioritized; they were things that the fifty hours had never quite found room for, despite their genuine importance.
@@ -165,4 +164,4 @@ The hours you are spending are your hours, in the deepest sense: the irreplaceab
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

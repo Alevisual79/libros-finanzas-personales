@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Kevin started analyzing the actual data of his SaaS project management tool for architecture firms — a business he had been running by intuition for two years — he found three surprises. First: the customers who churned most frequently were not, as he had assumed, the smallest firms who had the least budget for software subscriptions; they were the mid-sized firms who had the most users but had never fully implemented the software in their workflow. Second: the feature he was most proud of and had invested most heavily in — an advanced visualization tool that he believed was his primary differentiator — had the lowest usage rate of any feature, while a simple commenting feature he had almost cut from the product was used by ninety-three percent of active customers multiple times per week. Third: the customers who had been acquired through a specific conference sponsorship were retaining at 2.3 times the rate of customers acquired through paid search.
 
 None of these findings could have been intuited from his experience of the business. All three changed major business decisions. This is what data analytics does for digital businesses: it reveals what is actually happening, as distinct from what the founder believes is happening, and provides the evidence base for decisions that intuition cannot reliably produce.
@@ -141,4 +140,4 @@ Data analytics for digital businesses is, at its core, that simple: the practice
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

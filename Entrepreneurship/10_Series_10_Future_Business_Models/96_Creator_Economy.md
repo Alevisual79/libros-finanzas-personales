@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 James had been a furniture designer for eighteen years — a talented craftsman with a small workshop, a local reputation, and a business that generated adequate income but had never broken through to the scale he had always imagined. The business constraint was always the same: the number of pieces he could sell was limited by the number of local customers he could reach, and the price he could command was limited by local market comparisons.
 
 In year nineteen, at the suggestion of his daughter, he began documenting his design process on video. Not teaching tutorials — he resisted that initially, not wanting to share methods he had spent decades developing — but genuine process documentation: the design choices, the material selections, the techniques for specific joints and surfaces, the philosophical approach to furniture that made his work distinctive.
@@ -153,4 +152,4 @@ James had resisted documenting his process because he was afraid of giving away 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

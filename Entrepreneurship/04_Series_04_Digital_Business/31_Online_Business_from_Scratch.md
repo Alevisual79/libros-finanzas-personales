@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Four years ago, Kim was a mid-level HR manager at a manufacturing company, earning a reasonable salary, experiencing the particular dissatisfaction that comes from doing competent work that doesn't fully engage either your intelligence or your sense of purpose. She had a domain of genuine expertise — organizational culture and the specific dynamics of remote team management — and a growing conviction that she could help other companies navigate the shift to distributed work better than most were doing. She also had two practical constraints: zero budget for a business venture and zero experience running a business of any kind.
 
 Today she runs an online consulting and education business that generates $280,000 annually. She works from home, serves clients in four countries, and spends roughly forty hours per week on work she finds genuinely meaningful. She did not raise capital. She did not hire a web developer or a marketing agency. She did not have a business plan or a ten-year strategy. What she had was a specific area of expertise, a willingness to experiment, and a systematic approach to building a digital business from the resources available to her.
@@ -139,4 +138,4 @@ Kim's online business is not unusual in its structure; it is unusual in its spec
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

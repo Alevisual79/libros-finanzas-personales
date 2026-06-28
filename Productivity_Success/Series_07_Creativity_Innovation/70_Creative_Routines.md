@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena's creative development had not followed the trajectory she would have predicted when she first started taking it seriously. She had expected the creative practice to feel different from work — more spontaneous, more inspired, more intrinsically motivated than the discipline of execution she had always managed. What she found was that the most creative period of her professional life was also the most structured: the specific time blocks protected for creative work, the specific practices that preceded the work, the specific environment that supported it, and the specific review practices that converted the work's raw output into refined contributions.
 
 The creative professionals she had come to most admire — not the romanticized image of the artist in the grip of inspiration but the practitioners whose creative output had sustained itself over decades — were almost uniformly disciplined practitioners of specific creative routines. The inspiration was real; but it arrived most reliably in the context of the routine, not in the absence of it.
@@ -162,4 +161,4 @@ Design the routine. Protect the time. Show up to it. The creative life follows f
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

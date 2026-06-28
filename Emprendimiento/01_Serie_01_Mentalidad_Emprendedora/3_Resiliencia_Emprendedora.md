@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Lucia paso por un período de seis meses en que cada semana había un nuevo problema: un cliente importante que cancelaba, un empleado que se iba, un problema con el producto que había que resolver de urgencia. Su entorno le preguntaba si no se estaba planteando volver al trabajo por cuenta ajena. Carlos tuvo un lanzamiento que no genero ni un cliente en el primer mes, y empezó a cuestionarse si su idea tenía algun futuro. Marcos descubrió, tres meses después de dejar su trabajo corporativo, que emprender era mucho más duro de lo que imaginaba desde dentro de una multinacional. Los tres estuvieron a punto de abandonar. La resiliencia que los mantuvo en el camino no era una característica innata: era el resultado de entender como funciona la adversidad y de tener las herramientas para atravesarla.
 
 ---
@@ -175,4 +174,4 @@ Lucia no cerro la empresa durante los seis meses difíciles. No porque no tuvier
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

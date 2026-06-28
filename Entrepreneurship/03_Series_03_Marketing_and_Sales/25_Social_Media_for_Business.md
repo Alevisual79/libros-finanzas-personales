@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ava ran a boutique interior design firm. She posted on Instagram every day: project photos, mood boards, behind-the-scenes shots from client homes, snapshots of her team at work. She had 4,300 followers. She received frequent comments about how beautiful her work was. She had been posting consistently for two years. In those two years, she had received exactly three inquiries through Instagram, none of which converted to clients.
 
 Down the street, a competitor with 800 followers on Instagram had received fourteen inquiries through the platform in the same period, eight of which became clients. The difference was not posting frequency, visual quality, or follower count. The difference was that Ava's competitor understood what the platform was for in her specific business context, who her specific ideal client was and what they were looking for, and how to structure her content so that potential clients could identify themselves and take a specific next step toward a conversation. Ava was present on social media. Her competitor was strategic.
@@ -137,4 +136,4 @@ Social media for business is not the same as social media for personal expressio
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Priya launched her online course on financial planning for freelancers, she had spent eight months building the curriculum, recording the videos, and creating the supporting workbooks. She had also spent the same eight months building her email list: a weekly newsletter for freelancers about managing irregular income, negotiating rates, and building financial resilience. By the time the course launched, her email list had 6,200 subscribers. The launch email to that list generated $47,000 in course sales in the first week — from a list that had cost her nothing to build except the time invested in producing genuinely useful weekly content.
 
 Two months later, she compared notes with another course creator who had a product of similar quality and a comparable social media following. His launch had generated $8,000 in the first week. The difference was not the social media presence (they had similar follower counts). The difference was that Priya's email subscribers had a direct, trust-based relationship with her that her social media followers did not. They had been reading her weekly thoughts for months. They trusted her perspective. They were predisposed to believe that her course was worth their investment. He was still a stranger to most of his social following.
@@ -137,4 +136,4 @@ Email marketing is old by digital standards, and it keeps being declared dead by
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

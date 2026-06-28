@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sandra's predecessor as team manager had been widely regarded as effective. Results had been consistently delivered. The team had met its targets. By the metrics that management typically uses to evaluate management, the previous role-holder had performed.
 
 He had also, in the three years of his tenure, lost seven of the team's twelve members to transfers, resignations, and one case of a medical leave that no one in the team attributed entirely to the workload. The people who remained were performing their assigned functions with professional adequacy and approximately no excess energy or discretionary effort. They were doing what was required. They were doing nothing more.
@@ -153,4 +152,4 @@ The difference is entirely within the leader's control.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

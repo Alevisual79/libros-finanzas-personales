@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene una idea de negocio que lleva dos años en su cabeza. Ha hecho investigación de mercado, ha hablado con potenciales clientes, ha redactado un plan de negocio. No ha dado el paso. Cuando se pregunta honestamente por qué, la respuesta que emerge después de todas las razones racionales que da públicamente es más simple y menos racional: tiene miedo de intentarlo y fracasar. No miedo de que el negocio no funcione. Miedo de lo que ese fracaso significaria sobre el. Sobre si puede. Sobre si vale.
 
 ---
@@ -175,4 +174,4 @@ Ruben lanzo el negocio. No estaba completamente listo (nadie lo esta). No había
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

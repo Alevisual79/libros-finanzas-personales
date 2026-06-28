@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Thomas decided to upgrade his commercial cleaning company's technology infrastructure, he made the decision the way most founders make it: he attended a trade show, spoke with several software vendors, and selected the platform with the most features and the most impressive demo. The implementation took five months and cost $180,000. Eighteen months later, sixty percent of the system's features were unused, two of the four modules had been turned off because they required workflow changes his team hadn't adopted, and the integration between the new software and his accounting system was still producing errors.
 
 The technology hadn't transformed his business. It had consumed significant resources, distracted his management team for more than a year, and produced a system that was slightly better than what he'd had before — a costly net improvement that had required far more organizational energy than the benefit justified.
@@ -139,4 +138,4 @@ Thomas's expensive first implementation taught him the lesson that most expensiv
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

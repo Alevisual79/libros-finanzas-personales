@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For most of her adult life, Ingrid had been good at seeming like someone slightly different from who she actually was. Not dishonest exactly — she didn't fabricate; she curated. With colleagues, she was collegial and professionally engaged and said nothing about the interior life that ran parallel to her working hours. With acquaintances, she was pleasant and interested and offered nothing that could be used as evidence against her. Even with friends she trusted, she kept a portion of herself back — the opinions she suspected were too strong, the experiences she suspected were too strange, the vulnerabilities she suspected were too much. She had refined this management of her presentation across decades until it was nearly effortless, and she had discovered, gradually, that the effortlessness of it was its own kind of exhaustion.
 
 The question of how much of oneself to show in public — how transparent, how vulnerable, how authentically oneself to be across the various contexts of social life — is among the most practically significant psychological questions anyone navigates. It sits at the intersection of identity, relationship, self-esteem, and social psychology, and it is governed by the same tension that runs through this entire series: between the self-protective impulse to conceal what might be judged, and the relational and psychological costs of that concealment. The research on this question is extensive and consistent: authentic self-expression, in contexts where it is safe, is associated with better psychological health, deeper relationships, and greater wellbeing. The conditions under which it is safe — and the practices that make it more accessible — are the subject of this final book of the series.
@@ -139,4 +138,4 @@ The alternative to all of this is not perfection or confidence or freedom from s
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

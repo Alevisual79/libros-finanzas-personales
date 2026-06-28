@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Rachel had a list. Every time a major decision loomed — a career change, a large purchase, a relationship question — she wrote out the pros and cons, weighted them, and tallied the score. It was a system she trusted, and it had produced, by most measures, a good life. But when she read about the psychology of decision-making for the first time at 45, as preparation for a leadership role she had just accepted, she discovered something unsettling: the rational deliberation she had relied on all her life was only one of several processes that determined her choices, and not always the most influential one. The feelings she had before she started the list, the order in which options came to mind, the way the question was framed, the emotional state she was in when she sat down to write — all of these influenced the outcome in ways she had never noticed.
 
 Decision-making is the subject of one of the richest and most practically consequential research literatures in behavioral science. The work spans cognitive psychology, neuroscience, behavioral economics, and organizational behavior, and its central finding is consistent across all of these disciplines: human decision-making is systematically influenced by factors that classical economic rationality does not predict and that the decision-maker typically does not recognize. This doesn't make human decision-making irrational — it makes it predictably human. Understanding those predictions is among the most practically useful things a person can do.
@@ -139,4 +138,4 @@ We decide thousands of times each day, most of the time without awareness that a
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

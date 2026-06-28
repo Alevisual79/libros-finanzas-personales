@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos toma todas las decisiones de su negocio digital por intuición y no mide nada con sistematismo. Lucia tiene Google Analytics instalado pero nunca lo mira porque no sabe que buscar en los datos. Marcos viene del mundo corporativo donde había departamentos enteros dedicados al análisis de datos y no sabe como aplicar esa cultura de datos a su pequeño negocio digital sin los recursos de una gran empresa. Los tres necesitan entender algo fundamental: en el negocio digital, los datos sobre el comportamiento del cliente son gratuitos y estan disponibles en tiempo real. El emprendedor que sabe que medir y como interpretarlo tiene una ventaja competitiva que sus equivalentes que improvisan no tienen.
 
 ---
@@ -175,4 +174,4 @@ Marcos instalo Google Analytics en su web de consultoria el primer dia del segun
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

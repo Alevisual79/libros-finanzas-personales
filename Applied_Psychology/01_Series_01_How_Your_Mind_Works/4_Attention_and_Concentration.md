@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sofia was proud of her multitasking ability. As a project manager, she handled four simultaneous conversations on different platforms, attended meetings while answering email, and prided herself on never letting anything fall through the cracks. Then she read a study from the American Psychological Association showing that what she was doing wasn't multitasking at all — no human being multitasks in the sense of performing two cognitive tasks simultaneously. What she was doing was rapid task-switching, and it was costing her, by one estimate, up to 40% of her productive output per hour. She wasn't working at peak efficiency. She was working at 60% of it, convinced she was working at 120%.
 
 Attention is the most precious cognitive resource you have, and it is finite in ways that the popular culture of productivity almost never acknowledges. Neuroscience and cognitive psychology have spent decades mapping attention's limits, its architecture, its vulnerabilities, and the conditions that deplete or restore it. The findings are both clarifying and somewhat alarming: the world we have built — notifications, open-plan offices, social media feeds designed to interrupt — is almost optimally configured to undermine the kind of sustained, deep attention on which complex cognitive performance depends.
@@ -139,4 +138,4 @@ Attention is who you are, in one meaningful sense: you are, at any given moment,
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

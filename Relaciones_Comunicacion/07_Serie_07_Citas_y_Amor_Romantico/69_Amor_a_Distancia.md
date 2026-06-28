@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben conocio a alguien durante un viaje. Los dos sintieron una conexión que ninguno había anticipado. Cuando llegó el momento de despedirse, ambos dijeron que querían intentarlo a distancia. Ninguno de los dos, sin embargo, tenía claro que significaba eso en la práctica: cuanto contacto, cuanta exclusividad, cuanto tiempo estarian dispuestos a sostener la distancia antes de necesitar un plan más concreto.
 
 ---
@@ -155,4 +154,4 @@ Ruben y la persona que conocio durante su viaje tuvieron, finalmente, la convers
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

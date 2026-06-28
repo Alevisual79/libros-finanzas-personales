@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elisa spent two hours on an email that most people would have sent in ten minutes. Not because the email required two hours — it didn't; the information was simple and the recipient was a colleague — but because she needed it to be right. She revised the opening three times, reconsidered the word choice in the second paragraph, deleted and rewrote the concluding sentence four times, and read the final version six times before sending it with the lingering conviction that there was probably something in it that could have been better. She did not think of this as perfectionism. She thought of it as caring about quality. The idea that these might not be the same thing had not yet occurred to her.
 
 Perfectionism — the setting of excessively high standards for performance combined with self-critical evaluation when those standards are not met — is among the most studied and most clinically significant personality dimensions in contemporary psychology. It is not synonymous with the pursuit of excellence, though it often presents itself as such. It is not caused by high standards, though high standards are among its characteristic features. What distinguishes perfectionism from the healthy pursuit of quality is the relationship to imperfection: the person who pursues excellence can tolerate imperfection with equanimity and learn from it; the perfectionist cannot. For the perfectionist, imperfection is not an acceptable feature of a complex world — it is evidence of personal inadequacy, and the emotional response to it is shame, anxiety, and renewed effort to achieve the impossible standard.
@@ -137,4 +136,4 @@ Perfectionism presents itself as the protector of quality and the enemy of compl
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

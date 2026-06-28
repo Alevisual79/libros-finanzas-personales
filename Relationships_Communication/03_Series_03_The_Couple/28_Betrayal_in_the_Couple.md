@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The call to discuss this topic at all is worth making explicit: infidelity is one of the most painful and most common experiences in committed romantic relationships, and the research and clinical literature on it is among the most extensively developed in the couples field. This book does not take a position on whether relationships should survive infidelity — that is a deeply personal decision, properly made only by the people involved. It presents the research on what infidelity is, why it happens, what its consequences are, and what the people affected by it need to know to make informed decisions about their own lives.
 
 Isabelle had not experienced infidelity in her marriage. James had not. Claire had not. But all three of them had watched people close to them navigate its aftermath, and all three had sat with the specific question that infidelity forces: what does it mean? Not about the relationship's past, but about its possible future. And on what basis does one decide?
@@ -143,4 +142,4 @@ It is the point at which the story must become more honest.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

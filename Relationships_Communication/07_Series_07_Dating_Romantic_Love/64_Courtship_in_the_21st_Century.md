@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Owen had a system.
 
 He wouldn't have called it a system — he would have said he was flexible, responsive, case-by-case. But if you had asked him to describe what he did in the period between meeting someone and anything that might be called a relationship, the description would have come out as a system: the specific number of texts per day that signaled interest without signaling too much interest, the specific pace of date scheduling that was engaged without being pressuring, the specific emotional register of conversation that was warm without being vulnerable, the specific way of being present to another person that felt like intimacy without actually being intimate.
@@ -151,4 +150,4 @@ It is the only way to begin something real.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

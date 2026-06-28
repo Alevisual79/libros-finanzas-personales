@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nadia had the business plan in a folder on her desktop for fourteen months. She opened it periodically, adjusted a number here, refined a paragraph there, and closed it again. The business — a specialized recruiting firm for mid-sized tech companies in her region — was as ready as a business plan can be. She had the industry experience. She had the contacts. She had the savings. What she did not have, and kept waiting to acquire, was the certainty that it was the right time.
 
 She was forty-one when she finally had a conversation with a mentor that reframed everything. "Nadia," her mentor said, "when do you imagine the right time will feel like?" The question had no satisfying answer. The right time, she realized, was a feeling she was manufacturing as a precondition for action — and because it was manufactured, it would always remain just out of reach. Fear does not announce itself honestly. It disguises itself as prudence, as preparation, as waiting for the right moment. This book is about recognizing that disguise — and starting anyway.
@@ -139,4 +138,4 @@ The right time to start is almost never when you feel ready. It is when the cost
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

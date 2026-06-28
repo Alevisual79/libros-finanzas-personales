@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Yara's daughter didn't answer her phone at 10:47 PM, the first thought was: she's out with friends, phone on silent. The second thought arrived before the first had fully formed: what if she's been in an accident? The third thought was already in the hospital. The fourth was at the funeral. By the time Yara's daughter called back twelve minutes later (she had been in the shower), Yara had experienced, in vivid emotional detail, the loss of her child. The twelve minutes had felt like an ordeal. The subsequent normality felt like a gift she didn't deserve.
 
 Catastrophic thinking — the cognitive pattern of jumping from a mildly negative observation to the worst possible conclusion, with emotional and physiological responses proportional to the imagined catastrophe rather than the actual situation — is among the most pervasive and debilitating features of anxiety. It is not irrational, exactly: catastrophes do sometimes happen, and the mind's ability to simulate future events is a genuine cognitive achievement that serves legitimate planning functions. What catastrophic thinking does is apply this simulation capacity indiscriminately, running worst-case scenarios in contexts where the likelihood of the catastrophe is low and where the emotional cost of the simulation is high. It is the fire drill that runs every time someone burns toast.
@@ -135,4 +134,4 @@ Catastrophizing is love wearing fear's clothes. The parent who imagines disaster
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

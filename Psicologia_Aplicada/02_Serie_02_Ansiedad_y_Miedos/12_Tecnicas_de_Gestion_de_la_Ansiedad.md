@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena tiene ansiedad y ha probado todo lo que le han recomendado: respirar hondo, pensar en positivo, hacer yoga, tomar magnesio, escuchar musica relajante, alejarse de las redes sociales. Algunas cosas funcionan un poco durante un rato. Ninguna ha cambiado el patron de fondo de forma duradera. Lo que Elena no sabe es que hay una diferencia importante entre técnicas de alivio que reducen temporalmente el malestar y técnicas de cambio que modifican los mecanismos que producen la ansiedad. Este libro habla de las segundas.
 
 ---
@@ -175,4 +174,4 @@ Elena diseño su plan: respiración diafragmatica antes de cada presentación, e
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Chloe's UX design studio grew from four to eleven people in eighteen months, the communication that had worked flawlessly at four people stopped working at eleven. The problems were incremental and then suddenly pervasive: a project manager and a lead designer who were working at cross-purposes on the same deliverable because neither knew what the other had committed to the client; a team meeting where six people had prepared for a discussion that the organizer had decided to postpone but hadn't communicated; a new hire who spent her first three weeks uncertain about basic processes and too uncomfortable to ask. None of these were dramatic failures. Together, they added up to a team that was increasingly anxious, inefficient, and frustrating to work in.
 
 Chloe's diagnosis, after a facilitated team retrospective: the communication systems that had been adequate for four people — mostly informal, mostly in-person, mostly managed through Chloe's personal attention — had not been scaled as the team grew. The solution was not more communication; it was better communication architecture.
@@ -139,4 +138,4 @@ Communication failure is the silent tax that most teams pay every day, in the ti
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

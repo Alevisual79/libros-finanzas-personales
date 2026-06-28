@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Raj had been working on the same supply chain problem for three weeks. He had consulted the relevant technical literature, had spoken with colleagues who had faced similar problems, and had applied the established analytical frameworks his training had provided. Each approach produced the same class of solution — variations on the approaches that the industry had been using for a decade, none of which addressed the specific constraints of his problem.
 
 What he had not tried was thinking differently about the problem itself — approaching it with the deliberate cognitive tools that the creativity research identifies as most likely to produce the genuinely original framing that standard analysis cannot reach. The breakthrough, when it came, was not from additional analysis of the established approach but from the application of a specific cognitive technique that reframed the problem in terms that the standard analysis had not considered.
@@ -156,4 +155,4 @@ Think about how you're thinking. Then think differently.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

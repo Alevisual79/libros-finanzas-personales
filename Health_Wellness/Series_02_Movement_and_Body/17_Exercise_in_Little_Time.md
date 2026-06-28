@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 "I don't have time to exercise" is the most common reason adults give for not exercising. This reason is often more perception than reality — but the perception matters, and it requires practical solutions rather than judgment.
 
 The evidence on minimum effective doses of exercise is actually encouraging: meaningful health and fitness improvements can be achieved with significantly less time than most people believe is necessary. The key is understanding what types of exercise produce the most benefit per minute — and eliminating the unnecessary time investments that make exercise feel more burdensome than it needs to be.
@@ -209,4 +208,4 @@ Apply one key idea from this book this week. Health changes come from consistent
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

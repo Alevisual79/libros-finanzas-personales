@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Andrés had been passed over for promotion three times in five years. Each time, his manager cited different reasons — the team wasn't ready, the role required more cross-functional experience, the timing wasn't right. Andrés accepted each explanation at face value, absorbed the disappointment privately, and returned to his desk to work harder.
 
 What no one had told Andrés — and what Andrés had not told himself — was that the problem had nothing to do with the team, the cross-functional experience, or the timing. It had to do with the quiet, persistent belief that people from families like his didn't hold the kinds of positions he was theoretically pursuing. He had grown up watching his parents work hard and receive little. He had internalized, without anyone ever stating it explicitly, that ambition beyond a certain level was either naive or dangerous.
@@ -165,4 +164,4 @@ The beliefs that hold us back are rarely obvious. They don't announce themselves
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

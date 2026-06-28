@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had four debts. A credit card at 22.9% APR with a $4,200 balance. A personal loan at 11.5% with a $7,800 balance and 28 months remaining. A car loan at 6.9% with a $9,400 balance and 38 months remaining. And her smallest debt: a store card at 19.9% with a $480 balance she'd been carrying for two years.
 
 She wanted to get out of debt. She didn't know what order to pay them off in. A friend told her to target the highest interest rate first. A coworker told her to pay off the smallest balance first. A financial podcast told her they were both right depending on your psychology. She needed an actual decision.
@@ -181,4 +180,4 @@ The method matters far less than the execution. Pick one. Start this month. Keep
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

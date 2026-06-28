@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The business had failed in the most ordinary way: not dramatically, not in a single catastrophic event, but gradually, through a slow attrition of the assumptions on which it had been built. Tom had spent four years building a marketplace for skilled tradespeople — a platform that would connect contractors with quality labor and give independent tradespeople reliable work. By year three, it was clear that the unit economics would never work at scale. By year four, the remaining capital was exhausted and the business was closed.
 
 What Tom learned in the two years that followed the closure — not from entrepreneurship coaches or business school post-mortems, but from the slow process of honest reckoning with what had actually happened — was more practically useful than most of what he had learned in the four years of building. The failure had not been what it appeared. The platform economics were the presenting problem; the actual failure was an assumption error in year one that he had defended against disconfirming evidence for two years before the evidence became impossible to ignore.
@@ -151,4 +150,4 @@ Four years after the closure, Tom taught a session on failure at an entrepreneur
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Joint pain is one of the most common complaints in adults over 40 — and one of the most common reasons people stop exercising, reduce activity, and begin a spiral of deconditioning that accelerates aging. The misconception that joint pain is an inevitable consequence of aging and that "rest is best" for painful joints has caused substantial harm. Most joint pain is manageable, most activity is beneficial, and the trajectory of joint health is substantially within individual influence.
 
 This book covers the two most significant joint health conditions — osteoarthritis and inflammatory arthritis — and the evidence-based strategies for maintaining mobility and function through the decades.
@@ -252,4 +251,4 @@ Joints do not have to determine whether you remain active. Most joint conditions
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

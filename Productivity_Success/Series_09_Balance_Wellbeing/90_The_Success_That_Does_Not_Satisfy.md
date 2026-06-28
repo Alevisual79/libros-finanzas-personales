@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 There is a specific, recurring professional experience that the achievement culture does not prepare people for and rarely acknowledges: the experience of having achieved the success one was working toward and finding, on arrival, that it does not produce the satisfaction it was expected to produce.
 
 Sarah had achieved, by her early forties, every significant professional goal she had set in her twenties. The clinical position she had wanted. The academic appointment she had sought. The professional recognition she had worked for. The income stability that allowed her the choices she had imagined. She had achieved the specific constellation of outcomes that her twenty-eight-year-old self had identified as success — and the forty-three-year-old in possession of those outcomes found herself, with some regularity, asking what she was supposed to be feeling that she was not.
@@ -145,4 +144,4 @@ The work — the genuine, meaningful, present-moment engagement with what actual
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

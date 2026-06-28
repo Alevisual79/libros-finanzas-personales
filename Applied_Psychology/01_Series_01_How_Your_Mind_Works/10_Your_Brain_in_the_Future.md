@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Leila was 34 when she participated in a brain-computer interface research study at a university neuroscience lab. Electrodes placed on her scalp recorded her brain activity as she imagined moving a cursor on a screen — and the cursor moved. It was clumsy and imprecise, but it was also startling in a way that she hadn't anticipated: the technology made visible something about her own mind that she had never directly seen. In the days afterward, she found herself thinking differently about the brain she had always experienced but never observed. What was it becoming? What would it become in her children's lifetimes? What were the limits of its transformation, and did those limits matter?
 
 The convergence of neuroscience, artificial intelligence, genetic technology, and digital interface design is generating capabilities and questions that would have seemed like science fiction twenty years ago. Brain-computer interfaces capable of restoring movement to paralyzed patients are in clinical trials. AI systems that exceed human performance on specific cognitive benchmarks are deployed in medical diagnosis, legal research, and scientific discovery. Psychedelic compounds are showing genuine clinical efficacy for treatment-resistant depression. Genetic factors influencing cognitive traits are being mapped with increasing precision. These developments raise empirical questions about what the human mind will look like in coming decades and normative questions about what we want it to look like and why.
@@ -139,4 +138,4 @@ The human brain is the most complex object in the known universe — and it is t
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

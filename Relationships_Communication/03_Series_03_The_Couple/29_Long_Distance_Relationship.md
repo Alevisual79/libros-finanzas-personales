@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Claire and James had spent eleven months living in different cities, two years before their marriage. James had taken a project in another city that extended from a planned three months to nearly a year. The relationship had survived. More than survived: Claire, in retrospect, believed that the specific challenges of that period had developed capacities in both of them — for honest communication, for the genuine articulation of need, for the deliberate investment in the relationship against the pull of the easier alternatives available in each of their separate daily lives — that the relationship in the same city had not required and might not have developed.
 
 The long-distance relationship is, for a significant proportion of the population, not a temporary exception to the normal conditions of romantic partnership but a sustained reality that requires its own specific skills and understanding. Approximately 3 million married Americans live in long-distance marriages according to the Center for the Study of Long Distance Relationships, and the number of couples in long-distance relationships at any given time is estimated at 14-15 million in the United States alone.
@@ -142,4 +141,4 @@ Closeness is a quality of attention that follows no geography.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

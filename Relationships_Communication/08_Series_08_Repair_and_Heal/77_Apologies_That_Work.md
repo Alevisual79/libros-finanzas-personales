@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Rachel had apologized to Marcus three times in the first week after her disclosure.
 
 The first apology had been comprehensive and emotional — a full account of her remorse, her recognition of the harm she had done, her love for him and the marriage, and her commitment to whatever it took to repair what she had broken. It had been genuine. It had also been received, Marcus had told his therapist, primarily as Rachel processing her own feelings.
@@ -155,4 +154,4 @@ It's a request for things to continue as they were.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

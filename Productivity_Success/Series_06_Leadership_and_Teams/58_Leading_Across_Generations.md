@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus's team of eight included professionals whose birth years spanned more than two decades. The oldest had entered the workforce before the internet was widely available; the youngest had never worked in a non-digitally-networked environment. Their career expectations, their relationship to work-life integration, their preferences for communication and feedback, their orientations toward authority and institutional loyalty — these were shaped by fundamentally different formative experiences, and the differences were occasionally visible in the team's interpersonal dynamics.
 
 The generational diversity was a leadership resource, not a leadership problem. The older team members brought institutional knowledge, long-relationship professional networks, and the perspective that sustained professional experience provides. The younger team members brought fluency with new technologies, comfort with rapidly changing contexts, and the fresh perspective that limited prior experience sometimes enables. The challenge was leading in ways that recognized and leveraged these differences rather than either ignoring them or allowing them to produce the intergenerational friction that unmanaged generational differences can generate.
@@ -149,4 +148,4 @@ The leader who does this well does not have a team that has generational diversi
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

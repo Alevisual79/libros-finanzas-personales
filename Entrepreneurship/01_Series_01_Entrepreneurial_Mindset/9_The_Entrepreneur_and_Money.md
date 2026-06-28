@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Eduardo's consulting firm crossed $500,000 in annual revenue, he felt anxious rather than elated. He could not have fully explained why. On paper, the milestone was what he had worked toward for three years. In his emotional experience, the growth felt threatening rather than satisfying — as if more revenue meant more exposure, more risk, more possibility of the loss that would hurt more now than it had when the amounts were smaller. He began to make decisions that, in retrospect, were designed to keep the business small: turning down a large contract that would have required hiring, avoiding the investment in marketing infrastructure that would have scaled acquisition, structuring his pricing in ways that capped his revenue without his consciously intending them to.
 
 Eduardo was not irrational. He was acting on a psychological relationship with money that had been installed long before he started the business — beliefs, fears, and emotional associations about money that determined how he made financial decisions, what risks he could tolerate, how he priced his work, and how he thought about growth. Every entrepreneur has such a relationship, built from family history, cultural context, early financial experiences, and the accumulated stories they have constructed about what money means and what it is safe to have. That relationship, largely unconscious, shapes financial decisions far more than any spreadsheet. This book is about understanding and improving it.
@@ -137,4 +136,4 @@ Eduardo raised his rates by forty percent in his fourth year. He hired his first
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

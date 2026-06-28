@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben ha pasado gran parte de su desarrollo profesional intentando corregir sus debilidades. En la empresa le hacían planes de mejora sobre sus áreas de menor rendimiento. En los libros de desarrollo personal encontraba listas de habilidades que debia adquirir. El supuesto implícito era claro: el crecimiento personal es el proceso de convertir las debilidades en fortalezas. La psicología positiva, y en particular la investigación sobre las fortalezas de carácter, propone un paradigma diferente: las personas que mejor funcionan no son las que no tienen debilidades sino las que conocen y usan sus fortalezas con maxima efectividad. Este libro es sobre esa investigación y sobre como aplicarla.
 
 ---
@@ -175,4 +174,4 @@ Ruben cambio el diseño de su plan de desarrollo profesional. Antes tenía una l
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

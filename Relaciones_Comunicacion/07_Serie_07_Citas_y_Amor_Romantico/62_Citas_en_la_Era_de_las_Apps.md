@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben lleva un año usando aplicaciones de citas y ha tenido doce primeras citas. Ninguna ha llevado a una segunda. El problema, descubre eventualmente con algo de ayuda externa, no es la aplicación en si misma. Es la forma en que la está usando, sin estrategia, sin reflexión, y sin entender las dinámicas psicológicas específicas que las apps de citas generan y que requieren un enfoque distinto del que el cortejo tradicional jamás requirio.
 
 ---
@@ -155,4 +154,4 @@ Las apps de citas son una herramienta. La calidad de lo que encuentras depende d
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

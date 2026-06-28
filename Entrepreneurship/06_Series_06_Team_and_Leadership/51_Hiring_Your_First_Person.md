@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For two and a half years, Nina had run her brand strategy consultancy alone. Every client was hers. Every project was managed by her. Every piece of work that left the business passed through her hands. She had built something she was proud of: $280,000 in annual revenue, a roster of clients who referred her to other clients, and a business that reflected her standards precisely because she controlled every aspect of it. She was also, by any honest measure, at capacity. She was turning down work she wanted. She was maintaining client relationships inadequately because she had no time. She was not taking vacations. She was working every weekend.
 
 The decision to hire her first employee — a junior brand strategist — felt simultaneously necessary and terrifying. Necessary because the alternative was stagnation; terrifying because she had never managed anyone, never had to depend on someone else's work for her clients' satisfaction, never been responsible for another person's professional development. The hire she made, three months after making the decision, changed her business and her working life in ways she hadn't fully anticipated. This book is about making that first hire well.
@@ -135,4 +134,4 @@ The first hire is the founder's first deliberate choice to build something large
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

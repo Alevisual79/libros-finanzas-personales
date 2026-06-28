@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For six years after the assault, Amara maintained that she was fine. She had not told many people what had happened. She had gone back to work within days. She was functional, organized, and by all visible measures, coping. She had also, since the assault, lived in a body that felt like a foreign country: hyperalert in any enclosed space, unable to be touched without tensing, cycling between profound exhaustion and inexplicable arousal that had no cognitive correlate. She had chronic back pain that three physiotherapists had been unable to explain. She startled at sounds that preceded any cognitive recognition of what she had heard. She had become, without intending to or understanding why, a person who lived from the neck up — managing the world with her mind while her body ran its own, parallel, alarmed program.
 
 Trauma lives in the body. This is not a metaphor — it is a neurobiological reality that has become one of the most important insights in contemporary trauma treatment. Bessel van der Kolk's landmark 2014 book "The Body Keeps the Score" summarized decades of clinical and research evidence for the somatic encoding of traumatic experience and brought this understanding to a public audience in ways that have fundamentally changed how both clinicians and trauma survivors understand what happens to the body in the aftermath of trauma. This book builds on that foundation, examining the specific ways in which trauma is encoded, expressed, and released through the body — and the somatic approaches to trauma healing that address these bodily dimensions directly.
@@ -137,4 +136,4 @@ The body is not the enemy. It has been keeping record, in the only language avai
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

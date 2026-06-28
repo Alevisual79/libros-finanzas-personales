@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 This book takes seriously a topic that the relationship literature treats with less care than it deserves: the ending of a romantic relationship that has been genuinely significant — the process of separation, its emotional landscape, its practical dimensions, and the specific work of moving through it in a way that preserves one's own integrity and, where possible, the dignified end of something that once genuinely mattered.
 
 Not every significant relationship lasts. The research on romantic relationship dissolution is clear on this: approximately 40-50% of first marriages end in divorce in the United States; the rates for cohabiting couples are higher; and the rate of significant romantic relationship dissolution across all relationship forms is higher still. The ending of relationships is not a sign of failure at love; it is a feature of the landscape of a full relational life.
@@ -145,4 +144,4 @@ That's all you can do. It's also enough.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

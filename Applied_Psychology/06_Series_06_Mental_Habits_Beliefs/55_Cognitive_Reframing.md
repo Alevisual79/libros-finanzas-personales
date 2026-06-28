@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Marguerite's business failed after three years, her first interpretation was also her dominant one for months: she had failed. She had invested time, money, and identity into something that had not worked, and the conclusion she drew was a direct line from the outcome to a verdict on herself. This interpretation was not arbitrary — it had evidence, it had emotional logic, it had the weight of a genuine loss behind it. But it was also not the only interpretation available. An investor who looked at the same situation might see three years of accelerated learning in market dynamics, customer behavior, operational challenges, and leadership — experience that would make her more capable in subsequent ventures than she had been before the first. A developmental psychologist might see a significant identity challenge that, if engaged with rather than avoided, would produce the post-traumatic growth that Book 50 of this collection describes. The event was fixed. The frame was not.
 
 Cognitive reframing is the deliberate process of considering a situation from a different perspective in order to generate a different cognitive, emotional, or behavioral response. It is not positive thinking (which ignores or minimizes the genuine features of a situation), not denial (which avoids the situation's reality), and not spin (which serves external persuasive goals). It is the genuine recognition that complex situations contain multiple accurate descriptions, and that the specific description one defaults to has significant effects on how one experiences the situation and what one does about it.
@@ -137,4 +136,4 @@ Every experience comes pre-loaded with a default interpretation — the frame th
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

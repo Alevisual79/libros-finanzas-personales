@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marcus had spent three weeks researching laptops before making his purchase. He read reviews, compared specifications, and consulted friends. Yet within hours of buying, he found himself dismissing articles that criticized his chosen brand and gravitating toward forums where users praised it. He wasn't lying to himself, exactly — he genuinely believed the positive content was more credible. But something subtle had hijacked his reasoning, something operating entirely beneath his conscious awareness.
 
 We like to think of our minds as rational instruments — capable of weighing evidence, drawing logical conclusions, and making sound judgments. This self-image is flattering, but cognitive science has spent decades quietly dismantling it. Since the pioneering work of Daniel Kahneman and Amos Tversky in the 1970s, researchers have catalogued hundreds of systematic errors in human thinking — mental shortcuts that work well enough most of the time but fail us in predictable, measurable ways. These are cognitive biases, and they are not signs of stupidity. They are the operating system running beneath every human mind.
@@ -165,4 +164,4 @@ The journey toward more rational thinking is, paradoxically, one of the most hum
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Sexual health education in the United States is patchy, inconsistent, and often focused on abstinence or disease prevention rather than the full picture of sexual health across a lifespan. Adults may leave their formal education with minimal knowledge of sexual anatomy, pleasure, consent, common sexual dysfunctions, or how to have effective conversations with a healthcare provider about sexual concerns.
 
 This gap matters for health. Sexual health is a recognized component of overall health — not an optional add-on to "real" health topics. Sexual dysfunction is common and treatable. STIs are prevalent and preventable. Reproductive health decisions are among the most significant health decisions most people make. And the silence around these topics in medicine leaves many people suffering unnecessarily.
@@ -249,4 +248,4 @@ Sexual health is a legitimate and important component of overall health — one 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Daniel had been in a position for three years that required him to coordinate the work of twelve colleagues over whom he had no managerial authority. He was a project lead — not their manager. He needed their time, their cooperation, and sometimes their best work; he had no formal power to require any of it. What he had was influence — or the potential to develop it, if he could understand what influence actually was and how to build it deliberately.
 
 The experience taught him something that formal authority positions often do not: that influence is the fundamental tool of organizational work, more universal and more durable than authority, and available to professionals at every organizational level who understand and develop it. Authority produces compliance; influence produces commitment. Compliance gets the work done minimally; commitment gets it done excellently.
@@ -161,4 +160,4 @@ This is not a technique. It is a professional character. And professional charac
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

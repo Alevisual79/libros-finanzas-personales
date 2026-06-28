@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Every year around February, Elena's anxiety would quietly resurface. She knew tax season was coming, and despite understanding the basic framework better than she once had, the actual act of filing still felt like navigating a maze designed by people who didn't want her to succeed. She had accumulated a W-2 from her employer, a 1099-INT from her savings account, and a 1099-DIV from her newly opened investment account. She wasn't sure if she needed to report the $48 in interest income. She didn't know whether filing through her employer's free software offer was better than using a national tax prep service. She didn't know what to keep, what to throw away, or what would happen if she made an honest mistake.
 
 Ruben's tax filing situation was more complex than Elena's, and he knew it. As a freelance graphic designer, his income arrived from multiple clients, each of which issued a 1099-NEC at year-end — if they paid him more than $600. Several smaller clients paid him less and issued nothing, but he was still legally required to report that income. He also deducted business expenses and had made estimated quarterly payments throughout the year. By February, he had a folder stuffed with receipts, a spreadsheet of client payments, and a mild sense of dread about reconciling all of it. His accountant helped, but Ruben wanted to understand the process well enough to be an active participant rather than just handing over a folder and hoping for the best.
@@ -167,4 +166,4 @@ The next book in this series takes everything we have covered about the filing p
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

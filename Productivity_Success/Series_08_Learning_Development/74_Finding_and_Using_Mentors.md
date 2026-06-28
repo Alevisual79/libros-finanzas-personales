@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marco had been working in management consulting for three years when he realized that the professionals whose careers he most admired — the partners who had the specific combination of technical sophistication, client judgment, and organizational presence that he aspired to — had something in common that his peers were missing: each of them could name, without hesitation, the specific senior person who had invested in their development during the period when they were most forming the professional identity and the specific capabilities that had shaped their trajectory.
 
 The mentors these partners described were not formal program assignments. They were specific people whose investment in a junior professional had been deliberate, demanding, and transformative — people who had seen something in the junior professional, had chosen to invest their time and attention in developing it, and had provided the specific perspective, challenge, and access that the formal organizational structure alone could not have provided.
@@ -153,4 +152,4 @@ Find your mentors. Use them fully. And eventually, become one.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 David had loved Elena for twelve years. He had told her so, regularly, in the way that came naturally to him: he had solved her problems, he had managed the aspects of their shared life that she found stressful, he had maintained the house, arranged the trips, made sure the car was serviced and the insurance was current. When she was sick, he brought her tea. When she was overwhelmed, he took things off her list. He had been, by his own estimation, a consistently attentive and caring partner.
 
 What he had not done, often enough, was sit beside her on the couch and say "I love being married to you." Had not called her in the middle of the day just to hear her voice. Had not said, in the particular way she needed to hear it: "I see you."
@@ -155,4 +154,4 @@ Find out what it is. And then say it, in the language they can receive.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

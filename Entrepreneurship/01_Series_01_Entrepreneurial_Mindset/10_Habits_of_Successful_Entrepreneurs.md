@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The morning routine has become, in entrepreneurial culture, almost a mythology. Founders wake at five, meditate for twenty minutes, exercise for forty-five, journal for fifteen, read for thirty, and arrive at their desks by seven, productive and centered, having already accomplished more before breakfast than most people accomplish in a day. This mythology is compelling and partially true. The habits that successful entrepreneurs maintain — particularly their morning practices — are genuinely different from the habits of people who struggle to build businesses. But the mythology obscures what actually matters: not the specific practices themselves but the functions those practices serve, and the understanding that makes those practices sustainable rather than performative.
 
 This final book of the Entrepreneurial Mindset series does not provide a morning routine for you to copy. It provides a framework for understanding what habits actually do, why certain categories of habit are particularly important for entrepreneurs, and how to build the specific habits that serve your business and your life rather than someone else's. The underlying research on habit formation, behavioral automaticity, and sustained high performance is the guide. The application to your specific situation is yours to make.
@@ -139,4 +138,4 @@ This concludes the Entrepreneurial Mindset series. The books that follow in this
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

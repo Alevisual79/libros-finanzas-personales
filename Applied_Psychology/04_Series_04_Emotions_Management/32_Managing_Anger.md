@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 By the time Jordan came to therapy, he had lost a job and damaged three significant relationships through what he described as his temper. He was not a violent man, and he did not shout in the stereotypical sense — his anger expressed itself in a particular cold precision, a sharpness of language that left people feeling carved up rather than attacked. He knew, intellectually, that the anger was a problem; he did not yet understand why it arose so readily, or what it was actually about, or why the attempts he had made to control it had never produced more than temporary results. He thought of anger as a character flaw — a thing about him that was simply bad and needed to be suppressed. His therapist had a different view: anger was information, and the information it was carrying had not yet been delivered.
 
 Anger is the most publicly visible and most socially condemned of the difficult emotions, and it is probably the most misunderstood. Condemnation of anger tends to obscure its legitimate function — the motivation to confront injustice, remove obstacles, and protect one's values and boundaries. Efforts to manage anger through simple suppression tend to fail precisely because they do not address the function: the situation or perception that generated the anger is unchanged, and the motivation the anger was generating persists even when its expression is blocked. Understanding anger in its full complexity — what it is for, where it comes from, how it escalates, and what effective management actually requires — is the foundation for developing a genuinely different relationship with it.
@@ -135,4 +134,4 @@ Anger is not the enemy. It is one of the most important signals available about 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

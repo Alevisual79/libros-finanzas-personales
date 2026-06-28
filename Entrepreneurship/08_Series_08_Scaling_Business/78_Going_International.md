@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 After nine years of building her supply chain consulting firm in the United States, Elena received an inquiry from a German manufacturing company that had heard about her work through a mutual contact. They needed help with the same supply chain complexity her U.S. clients faced, and they were willing to pay for the specific expertise her firm had developed.
 
 She took the engagement. It went well. Within a year, she had three European clients — all manufacturing companies with similar supply chain challenges to her U.S. clients, all found through the network connections of that first German client.
@@ -141,4 +140,4 @@ Elena hadn't decided to go international; she had been pulled there by an inquir
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

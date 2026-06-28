@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Socrates' assertion that "the unexamined life is not worth living" was made at his trial for impiety and corrupting the youth of Athens — the prosecution of a man who had spent his life in the pursuit of self-knowledge and the examination of the assumptions underlying how people live. The claim was not a counsel of perpetual introspection or philosophic navel-gazing; it was an argument that a life lived without genuine self-understanding — without honest examination of one's values, assumptions, and the consistency between what one believes and how one lives — is a life impoverished at its foundations.
 
 Modern psychology has approached the same question empirically, and its findings are both more nuanced and more practically useful than the philosophical tradition alone provides. Research on self-knowledge — on how accurately people know themselves, what produces accurate self-knowledge, and what follows from having it or lacking it — constitutes one of the most active and practically significant research programs in contemporary social psychology. The findings are, in several important respects, sobering: people are substantially less accurate in their self-knowledge than they believe, and the gaps between self-perception and reality have significant consequences for the quality of their decisions, relationships, and overall wellbeing.
@@ -137,4 +136,4 @@ Socrates was right. Not because self-knowledge is effortlessly available through
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

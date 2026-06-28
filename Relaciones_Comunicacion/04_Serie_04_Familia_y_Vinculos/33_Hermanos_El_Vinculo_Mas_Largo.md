@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben tiene dos hermanos. No se han hablado en tres años. Ninguno recuerda con precisión como empezó el distanciamiento: una discusión sobre la herencia de sus padres que se mezclo con resentimientos más antiguos que ninguno había nombrado nunca. Lo que queda es el silencio, y la sensación de que el tiempo que pasa hace cada vez más difícil romperlo.
 
 La relación entre hermanos es, estadisticamente, la relación más larga de la vida humana: empieza antes que la relación con la pareja y, en la mayoría de los casos, sobrevive a los padres. Y sin embargo, es una de las relaciones menos cuidadas deliberadamente, quizás precisamente porque se asume que, por ser familia, se mantendra sin esfuerzo.
@@ -157,4 +156,4 @@ Ruben, después de tres años de silencio, envió un mensaje breve a uno de sus 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

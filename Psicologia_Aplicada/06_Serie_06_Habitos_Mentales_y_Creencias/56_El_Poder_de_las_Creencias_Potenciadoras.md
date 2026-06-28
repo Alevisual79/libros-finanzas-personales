@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben ha pasado años trabajando en eliminar sus creencias limitantes. En el proceso descubrió algo que nadie le había dicho claramente: eliminar lo negativo no produce automáticamente lo positivo. El espacio que dejan las creencias limitantes cuando se desmonta necesita ser ocupado por algo. Ese algo son las creencias potenciadoras: estructuras mentales que no solo no limitan sino que activamente amplian lo que parece posible, apoyan el comportamiento que el quiere tener, y proporcionan una base desde la que operar cuando las circunstancias se ponen difíciles. Este libro es sobre como construir ese sistema.
 
 ---
@@ -175,4 +174,4 @@ Ruben no elimino sus creencias limitantes de una vez. Fue acumulando evidencia c
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

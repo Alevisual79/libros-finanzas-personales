@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Motivation in the early career is rarely the problem. The novelty of the professional context, the clarity of the developmental goals, the hunger for the competence and the recognition that the career is beginning to provide — these are the specific motivational conditions that make the early career's intensity natural and largely self-sustaining. The professional at twenty-eight does not typically wonder how to stay motivated; they wonder how to channel the motivation they have toward the right goals.
 
 The motivation problem arrives later. It arrives when the novelty has been replaced by familiarity, when the developmental hunger has been replaced by the competence that its satisfaction produces, when the recognition that once felt exceptional has become expected, and when the professional who once found the work intrinsically engaging now finds it primarily obligatory. This progression is not universal; some professionals maintain the motivation that the early career provided across the full professional lifespan. But the motivational diminution that the mid-career and late-career research documents is common enough to constitute one of the most significant and least discussed challenges of the sustained professional life.
@@ -141,4 +140,4 @@ Build the practices. Sustain the motivation. Maintain the engagement that makes 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

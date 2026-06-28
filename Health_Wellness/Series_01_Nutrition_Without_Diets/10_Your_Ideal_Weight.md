@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The pursuit of an "ideal weight" drives enormous suffering. People diet, restrict, binge, yo-yo, and feel chronic shame about their bodies based on targets derived from population averages, aesthetic ideals, and charts developed 70 years ago. The evidence about what weight actually means for health — and what range is genuinely optimal for a specific individual — is considerably more nuanced than the number on a scale suggests.
 
 ---
@@ -255,4 +254,4 @@ Pursuing that state — through movement, nourishing food, adequate sleep, and s
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Two entrepreneurs built businesses solving the same problem: helping small restaurants manage their supply chain orders more efficiently. One built a SaaS platform charging $150 per month per restaurant; the other built a marketplace connecting restaurants to suppliers, taking a 3% transaction fee on every order placed. Both products were technically equivalent. Both served the same customer with the same solution to the same problem. Five years later, one business had $4 million in annual recurring revenue and was growing at 25% per year. The other had $800,000 in revenue and had plateaued. The difference was not the product. It was the business model.
 
 The business model — the mechanism by which a company creates, delivers, and captures value — is among the most consequential strategic decisions an entrepreneur makes and among the least deliberately examined. Most early-stage entrepreneurs default to the first revenue mechanism that seems appropriate (charge for the product, charge by the subscription, charge by the transaction) without examining the full range of alternatives and their different implications for growth trajectory, competitive position, unit economics, and the long-term nature of the business they will have built.
@@ -151,4 +150,4 @@ The two restaurant technology founders are both in their fifth year. The SaaS fo
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel had been dreading the conversation for years. Her mother, now 79 and living in the house where Isabel grew up, had recently been diagnosed with early-stage dementia. During a visit last spring, Isabel had noticed unpaid bills stuffed behind the toaster, an envelope of cash hidden in a coat pocket, and three different bank statements from accounts she hadn't known existed. The situation was beginning to feel urgent, but talking about money — especially about what would happen after her mother died — felt almost transgressive, like planning for something you weren't supposed to want. Isabel had grown up in a household where money was never discussed openly. She was learning, at 52, that this silence had a price.
 
 Elena had received a very different kind of inheritance news. Her aunt, who had passed away in February, had left Elena $14,000 — a complete surprise. Elena had never been close to her aunt and felt a complicated mixture of grief, guilt, and something she was ashamed to name: relief. She had credit card debt, a modest IRA she'd only recently opened, and a car that was starting to make troubling noises. The money could genuinely change her financial picture. But she had no idea what to do with it first, whether the IRS would take a cut, or whether spending any of it would be somehow disrespectful to her aunt's memory.
@@ -161,4 +160,4 @@ Inheritance is the financial chapter most people prefer to leave unread until th
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

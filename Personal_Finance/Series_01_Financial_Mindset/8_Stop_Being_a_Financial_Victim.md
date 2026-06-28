@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben has a story about why his finances are the way they are. It involves the irregular nature of freelance income, the high cost of living in his city, the clients who paid late, the tax bill he didn't see coming, and the general difficulty of being self-employed in an economy that doesn't make things easy for independent workers.
 
 All of these things are true. None of them are the whole story.
@@ -178,4 +177,4 @@ That is a harder story to tell about yourself. It is also the only story that en
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

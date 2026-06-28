@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 There was a conversation David had been not-having with his brother for three years. Not the kind of not-having where you forget to have it, but the specific, deliberate kind where you are aware, in the background of most interactions with the person, that something important is sitting unaddressed between you. You work around it. You soften your language in its vicinity. You are, in some fundamental sense, managing the relationship rather than being in it.
 
 The specific conversation involved something his brother had done — a decision that had affected David significantly, that he had never directly addressed, and that had changed the quality of their relationship in ways his brother appeared not to notice. David didn't know how to have the conversation without it becoming an accusation. He didn't know how to say what he needed to say without risking the relationship. So he said nothing, and waited for conditions that never arrived.
@@ -161,4 +160,4 @@ Having it honestly is not the risk. It is the way through.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

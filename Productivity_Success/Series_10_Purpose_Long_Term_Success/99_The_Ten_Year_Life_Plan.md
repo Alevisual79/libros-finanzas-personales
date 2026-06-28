@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 This penultimate book of the Productivity and Success Collection is the most operationally specific of the series: the concrete, step-by-step framework for translating the purpose clarity of Books 91-92, the legacy commitment of Book 93, the decadal thinking of Book 94, and the life integration of Books 95-98 into the specific, actionable plan that the next ten years of the professional's life requires.
 
 The ten-year life plan is not a blueprint — the specific circumstances of professional and personal life change too substantially over a decade for a rigid blueprint to be useful. It is a directional framework: the specific articulation of the professional's values, the contribution commitments that those values imply, the capabilities those commitments require, the relationships those capabilities need, and the specific, immediate actions that begin the movement toward the ten-year destination.
@@ -157,4 +156,4 @@ The professional who does this consistently will arrive somewhere worth arriving
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

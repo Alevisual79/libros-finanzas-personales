@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Ruben first heard the acronym ETF — Exchange-Traded Fund — he filed it alongside the other alphabet soup of investing: IRA, 401k, NAV, EPS. Abbreviations that implied a world he hadn't entered yet.
 
 It wasn't until he actually opened his investment account and saw the difference between the expense ratios on the ETF options (0.03% to 0.15%) and the actively managed mutual fund options his 401(k) also offered (0.5% to 1.2%) that the relevance clicked. These weren't equivalent products. The difference in fees, compounded over a career, represented tens of thousands of dollars.
@@ -205,4 +204,4 @@ Three ETFs, monthly contributions, annual rebalancing. That's the entire investm
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

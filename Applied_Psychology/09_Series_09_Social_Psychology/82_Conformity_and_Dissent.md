@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 In November 2001, a flight attendant on American Airlines Flight 63 noticed something suspicious about a passenger who was attempting to light his shoe. She was not certain; the behavior was ambiguous; other crew members did not appear alarmed. She was aware, on some level, that raising the alarm would create a scene, might be wrong, might embarrass the passenger if the behavior was innocent, and might require her to be the person who made an uncomfortable situation uncomfortable. She raised the alarm. The passenger — Richard Reid, the "shoe bomber" — was restrained. The 197 people on board survived.
 
 The willingness to act on information that one possesses when others around one are not acting — to dissent from the implicit consensus of non-response — is one of the most practically consequential expressions of the individual-group dynamic in human psychology. The flight attendant who raised the alarm was doing something that the conformity research consistently documents as psychologically difficult: overriding the powerful social pressure of apparent consensus, risking social disapproval, and acting on private information when the public information suggested that action was not warranted.
@@ -141,4 +140,4 @@ Conformity is not weakness and dissent is not heroism. Both are natural response
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

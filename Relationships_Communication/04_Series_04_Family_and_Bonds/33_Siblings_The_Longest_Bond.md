@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Nathan had a sister three years older than him, with whom he had shared a bedroom until he was nine, attended the same secondary school, and spent every holiday of the first seventeen years of his life in a shared family system that neither of them had chosen. They had known each other, in the most ordinary sense of the word, as thoroughly as any two people can know each other — not through deliberate self-disclosure but through the involuntary proximity of a shared childhood.
 
 They had not spoken in two years. Not through a specific conflict — nothing dramatic had happened. The silence had accumulated from a series of unreturned calls, cancelled visits, and the gradual drift that adult lives, professional obligations, and separate geographies produce when the specific investment of maintenance is not made.
@@ -147,4 +146,4 @@ That is not a small thing to let go of without trying.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

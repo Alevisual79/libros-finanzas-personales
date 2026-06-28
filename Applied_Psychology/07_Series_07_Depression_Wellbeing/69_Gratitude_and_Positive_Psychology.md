@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Martin Seligman delivered his presidential address to the American Psychological Association in 1998, he challenged his field with a pointed observation: psychology had spent the better part of a century studying what goes wrong in the human mind, and had developed sophisticated accounts of mental illness, cognitive distortion, maladaptive behavior, and psychological dysfunction. What it had spent relatively little effort studying was what goes right — what produces flourishing, resilience, strength, virtue, and the positive states that make human life genuinely good. The positive psychology movement that Seligman subsequently helped launch was his response to this imbalance.
 
 The movement has produced, in the decades since, both genuine scientific progress and a genuine popularization problem. The scientific progress includes rigorous research on gratitude, optimism, engagement, meaning, strengths, and positive relationships — research that has substantially advanced understanding of the psychology of flourishing. The popularization problem includes the oversimplification of this research into a message that mental health is primarily a matter of positive thinking and that sufficient gratitude and optimism can substitute for addressing structural conditions that produce genuine suffering.
@@ -139,4 +138,4 @@ Positive psychology at its best is the scientific study of what human beings nee
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

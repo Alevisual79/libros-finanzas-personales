@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Zoe left her corporate marketing job to start her consulting practice, she was prepared for the income volatility, the self-directed schedule, and the challenge of building a client base. She was not prepared for the tax bill. In her first year of self-employment, she earned $95,000 in consulting revenue — more than she had made as an employee — and owed $28,000 in combined federal income tax and self-employment tax. She had not made quarterly estimated tax payments. She paid the entire $28,000 from her savings in April, plus a penalty for underpayment of estimated taxes, and started her second year of business with a depleted cash reserve and a thorough education in the specific tax obligations of self-employment.
 
 The tax situation of the self-employed is materially different from that of the employee, and the differences almost universally increase the self-employed person's tax burden and compliance requirements. Understanding these differences before they produce unwelcome surprises is the objective of this book.
@@ -144,4 +143,4 @@ Self-employment tax is genuinely more complex and generally more burdensome than
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

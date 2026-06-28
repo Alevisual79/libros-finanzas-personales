@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The question feels simple. Most professionals would answer it in seconds: "To pay the bills. To support my family. Because I trained for this. Because I'm good at it." These answers are true. They are also substantially incomplete — the visible surface of a motivational architecture that extends much deeper than the immediate economic and practical explanations suggest.
 
 The research on work and meaning reveals a more complex picture: that the reasons professionals work are stratified, from the most surface-level (the paycheck) to the most fundamental (the expression of identity and values that makes work a part of how the person understands who they are and why they are here). The professionals who have examined the deeper strata — who have genuinely asked why they work rather than merely what the work produces — are consistently the professionals whose motivation is most sustained, whose satisfaction is most genuine, and whose resilience under the professional difficulties that every serious career produces is most robust.
@@ -153,4 +152,4 @@ Answer this question with the same seriousness you bring to the work itself. The
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

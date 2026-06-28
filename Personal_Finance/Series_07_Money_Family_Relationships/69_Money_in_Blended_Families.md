@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Isabel remarried at 46, she came to the relationship with two teenagers, a house with a small mortgage, $38,000 in savings, and a clear sense of how she managed money. Her husband, David, came with one younger child, child support obligations of $800/month, a different approach to spending, and his own set of financial patterns.
 
 Neither of them was poorly managed financially. But their financial lives were not designed to fit together. The merger required renegotiation of virtually everything: whose money paid for what, how children from different parents were treated financially, what happened to the house, how savings were structured when one person had $38,000 and the other had $11,000.
@@ -189,4 +188,4 @@ Bring those emotions into the conversation rather than leaving them to operate t
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

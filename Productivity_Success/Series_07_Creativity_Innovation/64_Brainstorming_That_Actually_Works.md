@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The marketing team's monthly brainstorming session had become one of Priya's most dreaded professional obligations. Eight people gathered around a conference table for ninety minutes; the same three individuals dominated the discussion; the ideas that were generated were variations on approaches the team had used before; and the session ended with the same general frustration that no genuinely new direction had emerged, despite ninety minutes of collective effort.
 
 The session was called brainstorming. What it was not was the specific structured process that the word refers to — the deliberate use of the specific techniques that the fifty-year research literature on idea generation has identified as maximally productive. The gap between the word "brainstorming" and the practice it was meant to describe had made the session not merely ineffective but actively counterproductive, by giving the team the experience of having tried to generate ideas without actually trying the practices that generate them.
@@ -161,4 +160,4 @@ Design the session. The ideas will follow.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

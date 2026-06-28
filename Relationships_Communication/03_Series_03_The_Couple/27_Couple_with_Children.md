@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabelle's son had been born twenty-two years ago, and she still remembered the specific shock of what happened to her marriage in the first year after his birth. Not crisis — she wanted to be accurate about this. The word crisis implied a dramatic rupture; what had happened was something quieter and more pervasive. The relationship had been gradually reorganized, without either of them fully intending or noticing it, around the needs and rhythms of a small person who could not manage his own life, while the couple who had existed before him — two people who had chosen each other, who had maintained a specific quality of mutual attention and connection — had become, somehow, primarily his parents.
 
 She had not been prepared for this. She had read the books about infant care, had attended the classes, had spoken to friends who were already parents. What none of these resources had addressed was the specific reorganization of the marital relationship that parenthood produced, and what one might do to maintain the couple relationship through the extraordinary demands and tender chaos of raising children.
@@ -149,4 +148,4 @@ Leave some space that is only yours.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

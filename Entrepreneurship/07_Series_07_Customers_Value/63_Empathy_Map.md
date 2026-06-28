@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For two years, Natalie had run her legal technology software company for small law firms with a deep conviction that her customers' primary struggle was time: that the documentation, billing, and scheduling tasks that consumed so much of small firm lawyers' hours were the problem she was solving. Her product was built around time savings, and her marketing led with time savings. "Save twelve hours per week" was her primary value proposition.
 
 Her conversion rates were mediocre. Her trial-to-paid conversion was eleven percent, and her renewal rate after the first year was sixty-two percent. The product worked; the lawyers who used it said so. But something in how she was communicating its value — or in what problem she was positioning it to solve — was clearly not resonating with the majority of the lawyers who tried it.
@@ -147,4 +146,4 @@ Natalie's company grew from a business with mediocre conversion rates and a disc
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

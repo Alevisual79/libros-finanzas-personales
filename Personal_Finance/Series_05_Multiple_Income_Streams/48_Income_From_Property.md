@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had been paying $2,100/month in rent for a two-bedroom apartment in a mid-sized California city. When she analyzed her housing costs versus buying, the purchase calculus didn't work — purchase prices in her area required a down payment she hadn't saved yet.
 
 But a colleague mentioned something that changed her calculation: "I rent out my parking spot for $150/month. It's literally just a rectangle of concrete and it pays for my Netflix and gym membership."
@@ -230,4 +229,4 @@ Identify them. List them. Let them earn. Aggregate modest streams into meaningfu
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

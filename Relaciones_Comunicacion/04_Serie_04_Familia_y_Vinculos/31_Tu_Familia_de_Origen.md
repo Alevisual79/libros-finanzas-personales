@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Isabel estudia psicología a los cincuenta y dos años porque quiere entender por qué repite con sus hijos los mismos errores que su madre cometio con ella. No es la primera vez que lo intenta evitar. Es la primera vez que decide entender el mecanismo en lugar de solo luchar contra el sintoma.
 
 La familia de origen es el primer sistema relacional en el que aprendemos a amar, a discutir, a pedir lo que necesitamos y a interpretar lo que los demás sienten. Ese aprendizaje, hecho antes de que tuvieramos capacidad crítica para evaluarlo, se convierte en el mapa con el que navegamos todas las relaciones posteriores, a menos que lo examinemos conscientemente.
@@ -161,4 +160,4 @@ No cambio todo de golpe. Pero empezó a notar el momento exacto en que el patron
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

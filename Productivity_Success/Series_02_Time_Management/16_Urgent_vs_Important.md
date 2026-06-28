@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Marco had a list. It was long, it was comprehensive, and it was substantially populated by items that someone else believed were urgent. The report the finance team needed by 3:00 PM. The email the CEO had sent at 7:30 AM asking for context on a client situation. The call the regional director had scheduled at noon to discuss an operational issue. The meeting the marketing team had requested to align on messaging before the campaign launch.
 
 Each of these items had a genuine claim on Marco's attention. None of them was what he would have chosen as his most important professional work on this particular Tuesday. His most important work was the strategy document due in two weeks that, if well-executed, would define the company's direction for the following year. It required uninterrupted thinking. It required the kind of slow, careful reasoning that three hours of reactive work reliably prevented.
@@ -165,4 +164,4 @@ What is important is seldom urgent. This remains true regardless of how urgency-
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

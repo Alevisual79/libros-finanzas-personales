@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena sale de una relación en la que nada era abiertamente violento, ningún episodio aislado que pudiera señalarse claramente como el problema. Pero tampoco nada estaba realmente bien: una erosión lenta y constante de su autoestima, una sensación permanente de estar caminando sobre cascaras de huevo, una versión de ella misma que apenas reconocia al final de la relación. Ese tipo de daño, descubre, es de los más difíciles de nombrar, precisamente porque no tiene el evento dramatico que la sociedad espera para validar el sufrimiento.
 
 ---
@@ -155,4 +154,4 @@ El amor toxico no siempre deja moretones visibles. A veces deja un yo que ya no 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

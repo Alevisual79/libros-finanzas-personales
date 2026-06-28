@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The forty-seven-word value proposition on Marcus's cybersecurity consulting website was technically accurate. It described his services, his credentials, his approach, and his target market. It sounded professional. It also looked nearly identical to the value propositions on a dozen competing websites, and it generated almost no inbound inquiries from the small and mid-sized businesses he most wanted to serve.
 
 His existing clients had found him through referrals, through conference presentations he had given, and through a handful of articles he had published in business publications. When he asked each of them why they had chosen him over alternatives, their answers were specific and consistent: they had been intimidated by larger cybersecurity firms whose engagement processes felt designed for enterprise clients, and they had been concerned by smaller providers who seemed to lack the structured methodology they needed to feel confident the engagement would produce real risk reduction, not just a compliance checkbox.
@@ -143,4 +142,4 @@ Marcus's strongest value proposition element — "professional methodology, acce
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

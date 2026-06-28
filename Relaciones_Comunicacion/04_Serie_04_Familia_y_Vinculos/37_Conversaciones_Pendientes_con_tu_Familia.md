@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Ruben lleva años sin decirle a su padre que lo admira. Su padre lleva años sin pedirle perdon por una ausencia que ambos recuerdan pero que ninguno ha nombrado en voz alta. Los dos esperan, sin decirlo, que el otro empiece. El tiempo pasa, y la conversación sigue sin ocurrir.
 
 Las conversaciones familiares pendientes son, casi siempre, las que más potencial tienen de transformar una relación, precisamente por eso mismo se evitan: porque importan tanto que el riesgo de que salgan mal se siente insoportable.
@@ -157,4 +156,4 @@ Las conversaciones que llevas aplazando son exactamente las que más pueden sana
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

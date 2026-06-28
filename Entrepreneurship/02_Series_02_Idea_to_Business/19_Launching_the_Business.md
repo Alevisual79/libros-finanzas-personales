@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Mei launched her online marketplace for handmade home goods, she had spent four months building the platform, curating sixty sellers, photographing product samples, developing a brand identity, and writing about two hundred product descriptions. On launch day, she sent a single email to her personal contact list, posted on her personal Instagram, and published a press release that two journalists read and one ignored. In the first two weeks, she had forty-seven visitors to the website, two transactions, and the slowly dawning realization that she had confused building the business with launching it.
 
 A launch is not the moment when the product becomes available. A launch is a sustained period of deliberate, orchestrated activity designed to generate attention, build initial traction, and establish the early evidence of market demand that shapes everything that follows. The businesses that launch successfully are not the ones with the best products or the largest budgets; they are the ones that treat the launch as a strategic project requiring as much planning and execution as the product itself.
@@ -137,4 +136,4 @@ Launches are not events. They are campaigns: orchestrated, deliberate, audience-
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

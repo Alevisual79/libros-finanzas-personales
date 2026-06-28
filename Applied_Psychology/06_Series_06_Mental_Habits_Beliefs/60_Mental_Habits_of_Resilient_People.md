@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 If you surveyed the people in your life who seem to navigate difficulty most effectively — who recover from setbacks without prolonged collapse, who maintain perspective in crisis, who bounce back and sometimes forward from circumstances that seem to devastate others — you would likely find that their advantages are not primarily external. They are not necessarily the people with the most resources, the most support, or the fewest challenges. What they have that is most consequential is typically internal: a set of mental habits that, practiced over time, have become the default architecture of their psychological response to adversity.
 
 These habits are not secrets. They are documented in the research on resilience, coping, and positive psychology with considerable precision. They are also not inborn traits — not the signature characteristics of fortunate people who happen to be psychologically constituted for difficulty. They are habits: patterns of cognitive and emotional engagement that were developed through practice and experience and that can be developed by others through the same means. This book synthesizes the research on the mental habits that characterize psychologically resilient people, examining what these habits are, how they operate, why they work, and how they can be deliberately cultivated.
@@ -139,4 +138,4 @@ The mind that has developed the habits of resilience is not a mind without diffi
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

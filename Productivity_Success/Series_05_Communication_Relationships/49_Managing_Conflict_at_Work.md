@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Valentina had a colleague — David — whose working style consistently produced in her a low-grade professional irritation. He was not unkind; he was frequently brilliant; but his tendency to change direction on shared projects without adequate communication had derailed three of her team's timelines in the past year. Each time, she had absorbed the disruption, adapted the timeline, and not said anything to David directly — telling herself it was not worth the discomfort, that he probably didn't mean to cause problems, that bringing it up would create tension.
 
 At the end of the year, in a department-wide retrospective, when the facilitator asked what had most impaired team effectiveness, two people independently cited the pattern she had been privately absorbing. David, hearing this for the first time, was genuinely surprised. He had not known he was causing problems; no one had told him.
@@ -161,4 +160,4 @@ The direct conversation is typically shorter, less damaging, and more productive
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

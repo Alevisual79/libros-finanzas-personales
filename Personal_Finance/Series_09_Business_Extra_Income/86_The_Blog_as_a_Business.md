@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Elena had been writing her marketing blog on and off for two years, mostly as a creative outlet, a place to organize her thoughts on consumer psychology and brand strategy. She had maybe 400 subscribers, a handful of comments each week, and a nagging sense that she was leaving something on the table. Her posts were well-researched and her voice was clear, but she had never once thought of the blog as a business. It was a hobby. A productive one, maybe, but a hobby. Then a colleague mentioned that a personal finance blogger she followed had disclosed earning $11,000 in a single month from display ads and affiliate commissions, and Elena went home that night and stared at her own Google Analytics dashboard for the first time in months.
 
 Ruben had a different problem. He had no blog yet, but he had expertise — ten years of graphic design work, deep knowledge of typography, color theory, client management, and the business side of creative freelancing. He knew things that design students would pay money to learn. His friend Carlos had suggested he start a blog to attract new clients, and the idea had stuck. At $80 an hour, his time was valuable. He needed to know whether a blog could generate revenue that justified pulling hours away from billable work, or whether it would drain his time without any financial return.
@@ -165,4 +164,4 @@ The blog as a business is not an overnight achievement. It is a compounding asse
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

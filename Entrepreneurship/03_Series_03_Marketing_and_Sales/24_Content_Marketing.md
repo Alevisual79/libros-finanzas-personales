@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Marcus started his cybersecurity consulting firm, he faced the standard early-stage marketing dilemma: he needed clients to build credibility, and he needed credibility to attract clients. His budget for paid advertising was minimal, his professional network in the relevant industry (healthcare technology) was limited, and his firm was indistinguishable from the dozens of similar boutique cybersecurity consultancies competing for the same clients. He had one significant advantage: he had spent fifteen years working in healthcare IT security, and he knew things about the specific compliance and security challenges of healthcare technology companies that no marketing budget could replicate.
 
 He spent three months writing a comprehensive guide to HIPAA security requirements for healthcare technology startups — forty pages of specific, actionable guidance on exactly the compliance challenges his target clients were navigating and consistently getting wrong. He published it as a free download on his website. Within six months, it had been downloaded four thousand times, had been cited in two healthcare IT publications, and had generated eleven qualified sales conversations. Seven became clients. He had built the beginning of a market position through what he knew, not what he spent.
@@ -137,4 +136,4 @@ Content marketing is not a quick win. It is the long game — the investment in 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

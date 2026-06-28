@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben had been watching YouTube channels about design and freelancing for years, studying how the most successful creators structured their content, built their audiences, and discussed money openly. One evening he noticed something that changed his thinking: several of the channels he most respected and whose income he most envied never showed the creator's face at all. One channel — screen recordings of design software with a voiceover narrating the process — had 380,000 subscribers and estimated monthly ad revenue of $8,000–$12,000. Another, consisting entirely of animated text and stock footage explaining business concepts, had passed one million subscribers. The creator behind it remained completely anonymous. Ruben, who had always assumed YouTube required performing on camera, felt something he rarely felt: the barrier he thought existed had disappeared.
 
 Elena knew about YouTube from a professional angle — her marketing work had included YouTube advertising campaigns, and she understood the platform's mechanics better than most individual creators. What she had never considered was making content herself. She was camera-shy in a genuine, not-just-modest way: the idea of her face being permanently on the internet, attached to opinions she might revise in three years, made her anxious. The faceless model reframed the conversation entirely. She could create content about marketing strategy, consumer psychology, and brand building using slides, screen recordings, and a voiceover — the same voice she used for podcasts and client presentations — without ever being personally identifiable.
@@ -165,4 +164,4 @@ Isabel's channel would never have a million subscribers, and she had decided she
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

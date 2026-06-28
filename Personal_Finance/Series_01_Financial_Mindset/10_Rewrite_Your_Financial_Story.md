@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben had never told anyone his financial story out loud. Not because it was particularly dramatic, but because telling it would require acknowledging the pattern — the version of events that made sense of how he'd ended up at 34 with no retirement savings and $9,000 in credit card debt.
 
 When his financial advisor asked him to walk through it — not the numbers, but the story — he was surprised by what came out. The family belief that money and art didn't mix. The early freelance years where keeping rates low felt like staying accessible. The period when he was earning well but not saving because he was convinced the clients would dry up. The tax bill that set him back. The year he just tried not to think about it.
@@ -181,4 +180,4 @@ The story changes through the actions. Start with one.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

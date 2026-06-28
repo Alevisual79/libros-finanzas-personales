@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Daniel had been sleeping five to six hours a night for most of his adult life. He considered this a personal characteristic — a feature of his constitution, like his height or his metabolism — rather than a choice or a problem. He was busy; sleep seemed like the most efficient thing to sacrifice when time was limited; and he had learned to function in a state that he had ceased to recognize as impaired because it had become his baseline. When his therapist eventually asked him to track his sleep and his mood together, the correlation was startling: the days following shorter sleep were characterized by more negative emotion, more interpersonal friction, more cognitive errors, more difficulty with decisions that usually felt manageable. He had not been unaffected by his sleep deprivation; he had been adapted to not noticing the effects.
 
 The relationship between sleep and mental health is bidirectional, pervasive, and clinically more significant than is typically recognized in mental health treatment. Sleep disruption is not merely a symptom of mental health conditions; it is a causal factor, a maintaining factor, and in many cases a treatment target whose resolution produces substantial independent improvement in mental health. The research on sleep and mental health has expanded dramatically in the past two decades, generating a picture that the traditional separation of psychiatry and sleep medicine has obscured: sleep is not ancillary to mental health but foundational to it.
@@ -135,4 +134,4 @@ Sleep is the foundation of mental health in the most literal sense: the processe
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

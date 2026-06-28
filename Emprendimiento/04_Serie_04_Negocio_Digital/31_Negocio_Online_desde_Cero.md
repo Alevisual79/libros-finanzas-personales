@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos tiene una idea para un negocio online pero no sabe por donde empezar. Lucia ha intentado tres negocios digitales diferentes en dos años y ninguno ha generado ingresos consistentes. Marcos viene del mundo corporativo y entiende bien los negocios pero no entiende la lógica específica del entorno digital. Los tres necesitan entender algo antes de seguir: el negocio online no es magico ni automático. Es un negocio real que opera en un entorno digital. Las mismas reglas fundamentales aplican: cliente real, problema real, solución real, propuesta de valor real. La parte digital cambia los canales y las herramientas. No cambia los fundamentos.
 
 ---
@@ -175,4 +174,4 @@ Carlos lanzo su primer servicio online en la semana seis de su proyecto. La web 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

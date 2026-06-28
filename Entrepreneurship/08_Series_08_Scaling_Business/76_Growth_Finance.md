@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 By her fourth year of running a healthcare staffing company, Lisa had discovered the paradox that traps the most successful small businesses: growing faster required more cash upfront, and the business was consuming cash faster than it was generating it. Not because the business was losing money — it was profitably placing nurses and allied health professionals with hospitals and clinics across three states — but because the mechanism of growth consumed capital before the revenue from that growth arrived.
 
 Every new nurse placed required Lisa to pay the nurse's salary biweekly. The hospital clients paid their invoices in forty-five to sixty days. The gap between the payroll she sent out and the payments she received — her working capital gap — widened every time she placed a new nurse. At sixty nurses placed (her current scale), the gap was approximately $480,000. At her growth target of one hundred and twenty nurses placed twelve months later, the gap would be nearly $960,000. Her bank account was profitable on paper and starved for cash in practice.
@@ -137,4 +136,4 @@ Lisa's cash crisis had been a gift disguised as a crisis: it forced her to under
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

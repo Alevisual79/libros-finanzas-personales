@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Victor was asked to address a group of early-stage founders at the end of a three-day entrepreneurship conference, he was the last speaker before the final dinner. His audience had spent three days absorbing frameworks, models, and case studies. They had heard from successful founders about their growth strategies, from investors about what they looked for in fundable businesses, and from experts about the specific technologies — AI, blockchain, personalization, platforms — that were reshaping business across industries.
 
 Victor had built and sold four companies over twenty-six years, across four different industry verticals, through two recessions, a pandemic, and three complete cycles of technology transformation. He had learned what the conference's frameworks hadn't covered: not the specific strategies that had worked in specific moments, but the underlying capacities that had allowed him to build businesses through conditions that no strategy had anticipated.
@@ -149,4 +148,4 @@ That is the business worth building. That is the entrepreneur worth becoming. Th
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

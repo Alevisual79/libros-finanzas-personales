@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 The research and development team at the pharmaceutical company where Raj worked was technically excellent — recruited from the best graduate programs, uniformly high-achieving, and remarkably homogeneous. They had come from similar educational backgrounds, shared the same methodological assumptions, and had solved problems together long enough to have developed the efficient shared shorthand that teams with extensive common history develop.
 
 What they had also developed, without anyone intending it, was a set of collective blind spots — the specific assumptions that their shared background had never challenged, the approaches that their shared methodology had never questioned, and the problem frames that their shared experience had never extended beyond. When a genuinely novel problem arrived — one that their shared approach could not address — the team's intellectual homogeneity was suddenly visible as a liability.
@@ -149,4 +148,4 @@ Build the diversity. Create the inclusion. Trust the creative range it produces.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

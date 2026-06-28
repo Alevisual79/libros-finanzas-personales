@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos ha lanzado su página web, ha abierto perfiles en todas las redes sociales, ha diseñado su logo, ha escrito su plan de negocio, y lleva tres meses sin haber hablado con un solo cliente potencial. Lucia tuvo su primer cliente en la semana tres, no porque tuviera un producto perfecto sino porque fue a buscarlo en lugar de esperar a que llegará. Marcos tiene veinte años de relaciones profesionales y todavía no ha aprovechado ninguna para conseguir su primer cliente porque siente que pedirle a sus contactos que le compren algo le pone en una posición incomoda. El primer cliente no llega solo. Hay que ir a buscarlo. Y el proceso de buscarlo es el proceso que más directamente enseña si el negocio tiene futuro.
 
 ---
@@ -181,4 +180,4 @@ Lucia consiguio su primer cliente en la semana tres de su negocio. No fue el mej
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

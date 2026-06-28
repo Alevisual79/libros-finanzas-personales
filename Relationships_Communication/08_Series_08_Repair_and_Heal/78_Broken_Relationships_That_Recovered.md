@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Dara had been sitting in a coffee shop waiting for her daughter for twenty minutes when she understood that the specific quality of her anxiety was different from the anxiety she had felt before difficult conversations in the past.
 
 It was not the anxiety of confrontation — the anticipation of conflict or defensive response. It was the anxiety of genuine vulnerability: the specific exposure of having written a letter that said true, difficult things about herself, of having sent it without knowing how it would be received, and of now waiting to discover whether the two years of therapeutic work and the eight months of letter-writing had produced anything that her daughter found genuine enough to respond to in person.
@@ -155,4 +154,4 @@ They always know more.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

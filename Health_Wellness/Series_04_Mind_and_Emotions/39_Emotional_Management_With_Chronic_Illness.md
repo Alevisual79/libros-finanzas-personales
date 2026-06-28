@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabel was diagnosed with early-stage rheumatoid arthritis at 49. The diagnosis explained two years of joint pain and fatigue she had attributed to aging and overwork. It also introduced a new category of consideration into her life: a chronic condition that would not go away, that would need ongoing management, and that had a trajectory she couldn't fully predict.
 
 She was not devastated in the way she might have expected. She was, however, navigating something new: the psychological dimension of living with a chronic illness — the emotional work of adapting to a body that was no longer simply a neutral backdrop to her life.
@@ -272,4 +271,4 @@ Living with chronic illness is not the same as being defined by it. The psycholo
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 For most of his adult life, Thomas had told himself that he would be happy when: when the mortgage was paid off, when he got the promotion, when the children were older and less demanding, when he could afford a longer vacation, when life was finally arranged correctly. These benchmarks arrived and were replaced by new ones without the happiness he had expected materializing. He was not depressed; he functioned well and had moments of genuine pleasure. What he lacked was a sense of baseline contentment, an underlying wellbeing that persisted when circumstances were ordinary rather than specially arranged. He had constructed his relationship with happiness as an achievement to be unlocked by achieving the right conditions — and the conditions, once achieved, failed to produce the experience he had expected.
 
 The psychology of joy and wellbeing is one of the most researched and most counterintuitive fields in contemporary psychology. Decades of research on what makes people happy, and why, have produced findings that consistently challenge common sense: circumstances matter less than expected; wanting specific things predicts unhappiness better than having them; the most reliable predictors of wellbeing are often freely available while the most pursued predictors are among the weakest. Understanding the science of wellbeing — not as an invitation to passive acceptance but as a guide to investing in what actually works — is one of the most practically useful applications of psychological knowledge to ordinary life.
@@ -135,4 +134,4 @@ Joy does not wait for everything to be right. It is available in small doses, in
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When Caroline launched her financial coaching business, she was available to help anyone who wanted to improve their financial situation. Her marketing cast a wide net: social media posts about budgeting tips, articles about debt repayment, videos about saving for retirement. She was knowledgeable, helpful, and completely indistinguishable from thousands of other financial coaches with identical online presences.
 
 After eight months, she had twenty-two clients. The range was extraordinary: a recent college graduate managing student loans, a middle-aged couple preparing for early retirement, a self-employed graphic designer who had never filed a tax return on time, a widower learning to manage finances for the first time, and several others whose situations shared no common characteristics. Each client required a different coaching approach, different expertise, and different resources. Caroline was becoming a generalist by default — spreading her limited attention across a dozen different client situations, becoming mediocre at all of them rather than excellent at any.
@@ -143,4 +142,4 @@ Caroline's coach asked her who her best client was. The question seemed simple. 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

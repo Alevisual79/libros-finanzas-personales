@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 En una conversación típica, la mayoría de las personas no escuchan lo que dice el otro. Esperan su turno para hablar. Piensan en lo que van a responder mientras el otro todavía habla. Asienten con la cabeza como señal de que siguen ahí, aunque mentalmente esten en otro lugar.
 
 Escuchar parece fácil porque es pasivo. En realidad es una de las habilidades más difíciles y más raras que existe.
@@ -185,4 +184,4 @@ No había cambiado lo que decía. Habia cambiado como escuchaba. Eso fue suficie
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

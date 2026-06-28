@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos cobra menos de lo que debería porque le da miedo perder al cliente. Lucia sube los precios de vez en cuando pero sin criterio, cuando le parece necesario y con culpabilidad. Marcos viene del mundo corporativo donde los precios los fijaban otros y ahora que tiene que fijar los suyos no sabe por donde empezar. Los tres tienen el mismo problema subyacente: no tienen una estrategia de precios. Han elegido sus precios de alguna combinación de lo que cobra la competencia, lo que creen que el cliente esta dispuesto a pagar, y lo que necesitan para cubrir gastos. Esos tres criterios son los menos apropiados para fijar precios. El precio correcto empieza con el valor que el cliente recibe.
 
 ---
@@ -175,4 +174,4 @@ Carlos miro sus números al cabo de un año de trabajar activamente la estrategi
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Ruben's blood pressure was 138/88 mm Hg when measured at his annual physical. His physician described it as "a little high — we should watch it." He left without a clear explanation of what this meant, what the risk was, or what he should do about it. He didn't check it again for 18 months.
 
 Hypertension — defined in current guidelines as blood pressure ≥ 130/80 mm Hg — is one of the most modifiable cardiovascular risk factors available. It is also one of the most undertreated. Approximately 47% of American adults have hypertension; of those, fewer than 25% have it well-controlled.
@@ -253,4 +252,4 @@ Blood pressure is one of the most modifiable cardiovascular risk factors availab
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

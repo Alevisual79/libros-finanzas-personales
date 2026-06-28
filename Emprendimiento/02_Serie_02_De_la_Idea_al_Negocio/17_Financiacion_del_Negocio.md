@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Lucia ha decidido que necesita capital externo para alcanzar el crecimiento que su mercado le permite. Carlos está evaluando si buscar un business angel que le ayude no solo con dinero sino con experiencia y contactos. Marcos, con su experiencia corporativa en la gestión de presupuestos, cree que entiende las finanzas bien pero se ha dado cuenta de que la financiación de startups es un mundo con sus propias reglas y su propia lógica. Los tres necesitan entender cuando tiene sentido buscar financiación externa, que tipos existen, como funciona el proceso, y que sacrifican a cambio del capital.
 
 ---
@@ -175,4 +174,4 @@ Lucia cerro su primera ronda de financiación con un business angel que aportó 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

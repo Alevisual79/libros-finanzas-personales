@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 When people ask how AI 'thinks', they often get one of two answers: 'it's just statistics' (dismissive) or 'it's too complex to explain' (evasive). Neither is satisfying or accurate.
 
 Neural networks can be explained clearly. Not the mathematics — the concepts. And the concepts matter because they determine what these systems can and cannot do.
@@ -161,4 +160,4 @@ Understanding the architecture does not tell you everything about AI behavior �
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

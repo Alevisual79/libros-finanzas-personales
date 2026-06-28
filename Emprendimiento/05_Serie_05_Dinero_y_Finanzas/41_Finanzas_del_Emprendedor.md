@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos lleva dos años con su negocio rentable sobre el papel pero siempre con problemas de dinero a fin de mes. Lucia ha generado su mejor año en revenue pero ha pagado más impuestos de lo que esperaba y no entiende por qué. Marcos ha venido del mundo corporativo donde había un equipo financiero que se encargaba de todo esto y ahora descubre que como emprendedor individual tiene que entender números que nunca ha necesitado entender antes. Los tres comparten el mismo problema: tener un negocio que genera revenue no es suficiente. Hay que entender como funciona el dinero del negocio para poder tomar decisiones inteligentes con el.
 
 ---
@@ -175,4 +174,4 @@ Lucia miro sus números del año con su gestora en la reunión de cierre anual. 
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

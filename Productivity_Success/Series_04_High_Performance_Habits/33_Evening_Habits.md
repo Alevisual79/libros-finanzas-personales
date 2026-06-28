@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Leo's evenings had an invisible structure that he had not chosen. After dinner, he would spend approximately forty minutes with his phone — news, social media, the conversations that had accumulated during the dinner hour. Then approximately thirty minutes of television, rarely anything he had specifically chosen, more often whatever was on or whatever the algorithm recommended. Then, in bed, another twenty to thirty minutes on his phone before eventually placing it on the nightstand and attempting sleep.
 
 The structure was not the result of planning; it was the result of the path of least resistance meeting the low-energy demands of the hour. And it was, as he eventually recognized, a structure with consequences: the passive stimulation of the pre-sleep hours was impairing his sleep quality; the absence of reflection was preventing the daily consolidation of learning that his most productive days required; and the reactive, digitally-stimulated mental state in which he was going to bed was making the transition to sleep slower and the sleep less restorative.
@@ -159,4 +158,4 @@ How you end the day is, in the most direct sense, how you begin the next one.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

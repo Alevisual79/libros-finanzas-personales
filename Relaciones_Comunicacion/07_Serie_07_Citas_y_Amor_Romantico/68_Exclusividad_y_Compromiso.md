@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena lleva tres meses con alguien y no sabe si son pareja o no. Se ven varias veces a la semana, han conocido a algunos amigos del otro, comparten una intimidad creciente. Pero ninguno de los dos ha preguntado directamente que es esto. Los dos tienen miedo de romper algo que se siente bien, sin saber que esa misma evitación es lo que eventualmente podría romperlo, por la ansiedad acumulada de la incertidumbre no resuelta.
 
 ---
@@ -155,4 +154,4 @@ La conversación de definir la relación es incomoda. No tenerla es peor. Elena,
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

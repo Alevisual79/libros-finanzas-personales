@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Elena nunca se ha sentido cómoda en su cuerpo. No es que haya tenido un problema físico diagnosticado. Es que desde que tiene memoria, hay una distancia entre el cuerpo que tiene y el cuerpo que cree que debería tener, y esa distancia genera una insatisfacción cronica de fondo que colorea la relación consigo misma, con los demás, y con el espacio que ocupa en el mundo. Esta distancia entre el cuerpo real y el cuerpo ideal es una de las fuentes de malestar más prevalentes y menos discutidas abiertamente en la cultura contemporanea.
 
 ---
@@ -175,4 +174,4 @@ Elena empezó a moverse de forma diferente: en lugar de hacer ejercicio para cam
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

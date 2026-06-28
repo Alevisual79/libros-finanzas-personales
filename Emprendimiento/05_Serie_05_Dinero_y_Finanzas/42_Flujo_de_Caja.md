@@ -13,8 +13,7 @@
 
 ---
 
-## Prólogo
-
+### Prólogo
 Carlos tiene un negocio rentable sobre el papel pero en agosto no puede pagar la nómina del colaborador porque los clientes grandes pagan a noventa dias. Lucia ha tenido su mejor año en facturación pero en diciembre tiene menos dinero en el banco que a principio de año porque ha invertido mucho sin planificarlo. Marcos viene del mundo corporativo donde había un departamento de tesoreria que gestionaba el flujo de caja y ahora descubre que esa es su responsabilidad personal. Los tres necesitan entender algo crítico: el flujo de caja no es lo mismo que el beneficio. Y un negocio puede morir de falta de liquidez aunque sea rentable.
 
 ---
@@ -175,4 +174,4 @@ Carlos vivio su primer agosto sin estrés financiero. El cliente grande que paga
 
 ## Sobre el Autor
 
-Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información. Fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.
+Enrique Padrón nació en las Islas Canarias, España. Veinticinco años en distintas empresas le enseñaron algo que pocos se atreven a decir: las personas no fracasan por falta de información, fracasan porque nadie les dio las herramientas correctas en el momento exacto. Esta colección existe para cambiar eso. Cada libro destila lo que realmente funciona, sin relleno, sin teoría vacía. Desarrollada con el apoyo de inteligencia artificial para llevar ese conocimiento más lejos de lo que cualquier autor podría alcanzar solo.

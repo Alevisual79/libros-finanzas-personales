@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Isabelle had read, in her forties, that the average long-term couple has sex approximately once a week in their thirties and approximately once a month in their sixties, with the trajectory between those points generally declining. The statistic had not surprised her. What had surprised her was the degree to which the conversation about the decline — the actual, honest conversation between her and her husband about what was happening and why and what, if anything, either of them wanted to do about it — had been missing from their marriage for several years.
 
 They talked about everything: their children, their finances, their professional lives, their aging parents. They had not, for some years, talked honestly about their sexual relationship — the one dimension of their intimate life that had no other natural vehicle for discussion, and that had therefore drifted into the zone of things managed through parallel accommodation rather than genuine conversation.
@@ -147,4 +146,4 @@ Tend it.
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Erectile dysfunction (ED) affects an estimated 30 million American men. It is among the most common sexual health conditions across all ages, with a prevalence that rises dramatically from approximately 5% in men under 40 to 15-25% in men in their 60s and 70% in their 70s. Despite this prevalence, it is underdiagnosed and undertreated — primarily because men don't discuss it with their physicians, and physicians don't routinely ask.
 
 The silence does harm in two directions: men suffer from a treatable condition unnecessarily, and a significant diagnostic opportunity is missed. Erectile dysfunction is often the first clinical sign of cardiovascular disease — preceding a cardiac event by 2-5 years. Treating ED without investigating the underlying cause is like treating chest pain without evaluating the heart.
@@ -269,4 +268,4 @@ Erectile dysfunction is both a common sexual health condition and a window into 
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.

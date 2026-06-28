@@ -13,8 +13,7 @@
 
 ---
 
-## Prologue
-
+### Prologue
 Carlos could manage almost anything alone. He ran three miles every morning, maintained a complex software project, read voraciously, and held a household together with genuine competence. What he could not manage was being seen. At work he was largely silent in meetings, not because he had nothing to contribute — he drafted detailed observations in his head — but because the prospect of saying them aloud, of having everyone turn and look at him, of possibly being wrong in front of witnesses, triggered a wave of physical dread that drowned his voice before it could emerge. By 30, he had spent fifteen years working around his social anxiety rather than through it, creating a life with a narrowing perimeter.
 
 Social anxiety disorder — characterized by intense fear of social situations in which one might be evaluated, judged, or scrutinized — is the third most common mental disorder worldwide, with lifetime prevalence estimates of 12-13% in the United States. It is significantly underdiagnosed and undertreated, partly because the disorder itself makes seeking help embarrassing, and partly because many sufferers have adapted their lives around it so thoroughly that the disorder's cost remains partially invisible. Social anxiety is not shyness — it is a clinical condition that causes significant functional impairment and subjective distress, and it responds to treatment with substantial evidence-based effectiveness.
@@ -137,4 +136,4 @@ Social anxiety is, at its core, an excess of a very human concern: the wish to b
 
 ## About the Author
 
-Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say out loud: people don't fail because they lack information. They fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works — no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any single author could reach alone.
+Enrique Padrón was born in the Canary Islands, Spain. Twenty-five years across different companies taught him something few dare to say: people don't fail because they lack information, they fail because nobody gave them the right tools at the right moment. This collection exists to change that. Each book distills what truly works, no filler, no empty theory. Developed with the support of artificial intelligence to carry that knowledge further than any author could reach alone.
