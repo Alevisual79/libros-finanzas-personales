@@ -43,7 +43,7 @@ La investigación de Wendy Wood sobre los hábitos muestra que las personas con 
 
 **Ejercicio inmediato:** Para el comportamiento que has intentado mantener con fuerza de voluntad sin éxito, reflexiona: ¿que cambio de entorno o rutina podría hacer ese comportamiento más automático y menos dependiente de la decisión consciente? El objetivo no es resistir la tentación con más fuerza sino diseñar el entorno para que la tentación aparezca menos.
 
-La batalla que ganas rediseñando el campo es más facil que la que ganas resistiendo en el mismo campo.
+La batalla que ganas rediseñando el campo es más fácil que la que ganas resistiendo en el mismo campo.
 
 ---
 
@@ -51,7 +51,7 @@ La batalla que ganas rediseñando el campo es más facil que la que ganas resist
 
 Isabel ha llegado a entender que los hábitos son el mecanismo por el que la disciplina se vuelve sostenible.
 
-**El Principio de los Hábitos cómo la Infraestructura que Hace la Disciplina Sostenible sin Esfuerzo Constante:** James Clear en Atomic Habits propone que la autodisciplina que produce resultados a largo plazo no se basa en motivación o fuerza de voluntad sino en sistemas: la arquitectura de hábitos que hace que los comportamientos correctos sean los más faciles y los incorrectos los más difíciles. Los cuatro pasos del bucle del hábito (señal, anhelo, rutina, recompensa) son los puntos de intervention donde el sistema puede diseñarse.
+**El Principio de los Hábitos cómo la Infraestructura que Hace la Disciplina Sostenible sin Esfuerzo Constante:** James Clear en Atomic Habits propone que la autodisciplina que produce resultados a largo plazo no se basa en motivación o fuerza de voluntad sino en sistemas: la arquitectura de hábitos que hace que los comportamientos correctos sean los más fáciles y los incorrectos los más difíciles. Los cuatro pasos del bucle del hábito (señal, anhelo, rutina, recompensa) son los puntos de intervention donde el sistema puede diseñarse.
 
 La investigación de David Neal y Wendy Wood muestra que el contexto es más poderoso que la intención en la determinación de los hábitos: las personas que se mudaron a un nuevo apartamento o ciudad cambiaban sus hábitos más facilmente que las que permanecian en el mismo contexto, porque el nuevo contexto no tenía las señales que desencadenaban los hábitos anteriores.
 

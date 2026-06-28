@@ -41,7 +41,7 @@ El perdon hacía miembros de la familia tiene complejidades específicas que no 
 
 **Ejercicio inmediato:** Si estas procesando el perdon hacía un familiar, reconoce explicitamente que esta dificultad adicional es real y esperada, no una señal de que algo esta mal contigo por no haber perdonado todavía.
 
-El perdon familiar es objetivamente más difícil que otros tipos de perdon. No te exijas que sea facil.
+El perdon familiar es objetivamente más difícil que otros tipos de perdon. No te exijas que sea fácil.
 
 ---
 
@@ -83,7 +83,7 @@ El perdon de un daño grave no tiene fecha límite. Forzarlo antes de tiempo no 
 
 ## Capítulo 6: El perdon como proceso, no como decisión
 
-El perdon raramente ocurre cómo una decisión unica y definitiva. Es más frecuentemente un proceso gradual, con avances y retrocesos, que puede tomar mucho más tiempo de lo que culturalmente se espera.
+El perdon raramente ocurre cómo una decisión única y definitiva. Es más frecuentemente un proceso gradual, con avances y retrocesos, que puede tomar mucho más tiempo de lo que culturalmente se espera.
 
 **El Principio de la No Linealidad del Perdon:** El proceso de perdon no avanza de forma lineal y predecible. Es común sentir que se ha perdonado algo y luego experimentar el resentimiento de nuevo en un momento posterior, especialmente cuando se presenta un nuevo contexto o se recuerda el daño con más claridad. Esto no significa que el trabajo de perdon anterior fuera invalido, sino que el perdon, como muchos procesos emocionales profundos, no es un punto fijo sino un proceso continuo.
 

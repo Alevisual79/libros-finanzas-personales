@@ -69,7 +69,7 @@ La verguenza que no se nombra gobierna. La que se nombra, se puede gestionar.
 
 Cuando Ruben finalmente le dijo a su mejor amigo que tenía miedo de no ser suficiente en su trabajo nuevo, su amigo no lo miro con lastima. Lo miro de frente y le dijo: yo llevo dos años sintiendome igual. Ninguno de los dos había tenido una conversación así antes. Ninguno de los dos olvido esa noche.
 
-**El Principio de la Vulnerabilidad como Puente de Conexión:** La vulnerabilidad conecta porque rompe la ilusión de que los demás lo tienen todo resuelto mientras tu eres el unico que lucha. Cuando alguien muestra su vulnerabilidad con autenticidad, activa en el otro el reconocimiento: yo también. Ese reconocimiento es la base de la conexión real. No la perfección compartida. La humanidad compartida.
+**El Principio de la Vulnerabilidad como Puente de Conexión:** La vulnerabilidad conecta porque rompe la ilusión de que los demás lo tienen todo resuelto mientras tu eres el único que lucha. Cuando alguien muestra su vulnerabilidad con autenticidad, activa en el otro el reconocimiento: yo también. Ese reconocimiento es la base de la conexión real. No la perfección compartida. La humanidad compartida.
 
 Brown lo llama the courage to be seen: el coraje de ser visto tal como eres, con tus dudas y tus miedos y tus imperfecciones, en lugar de con la versión editada que crees que los demás quieren ver. El coraje de ser visto es la condición de la conexión real.
 
@@ -137,7 +137,7 @@ La vulnerabilidad no aparece por voluntad. Aparece cuando el espacio es suficien
 
 ## Capítulo 9: La vulnerabilidad en el trabajo
 
-La vulnerabilidad en el trabajo tiene una paradoja específica: los entornos donde más se necesita (los de alta complejidad, alta creatividad y alta colaboración) son frecuentemente los donde menos se práctica, porque el miedo a parecer incompetente o debil es especialmente intenso en los contextos profesionales.
+La vulnerabilidad en el trabajo tiene una paradoja específica: los entornos donde más se necesita (los de alta complejidad, alta creatividad y alta colaboración) son frecuentemente los donde menos se práctica, porque el miedo a parecer incompetente o débil es especialmente intenso en los contextos profesionales.
 
 **El Principio de la Vulnerabilidad como Competencia Profesional:** La investigación de Brown y de Edmondson muestra que los líderes que pueden mostrar vulnerabilidad apropiada (reconocer errores, pedir ayuda, admitir incertidumbre) crean equipos con mayor seguridad psicológica, mayor innovación y mejor resolución de problemas. La vulnerabilidad en el líder no produce menos respeto. Produce más confianza.
 

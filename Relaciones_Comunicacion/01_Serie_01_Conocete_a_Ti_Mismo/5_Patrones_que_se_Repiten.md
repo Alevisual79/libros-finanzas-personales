@@ -157,7 +157,7 @@ Las relaciones cambian cuando tu cambias. No antes.
 
 ## Capítulo 10: Escribir un nuevo guion relacional
 
-Todos llegamos a las relaciones con un guion escrito en la infancia. Ese guion tiene personajes (el que cuida, el que necesita, el que abandona), roles (el fuerte, el debil, el mediador) y finales previsibles. Reescribir ese guion no significa borrarlo. Significa convertirte en el autor en lugar de ser solo el actor.
+Todos llegamos a las relaciones con un guion escrito en la infancia. Ese guion tiene personajes (el que cuida, el que necesita, el que abandona), roles (el fuerte, el débil, el mediador) y finales previsibles. Reescribir ese guion no significa borrarlo. Significa convertirte en el autor en lugar de ser solo el actor.
 
 **El Principio del Autor Relacional:** Ser el autor de tu guion relacional significa conocer el guion original con suficiente claridad para saber en que momentos lo estas siguiendo automáticamente y en que momentos puedes elegir una escena diferente. No siempre. No de golpe. Pero cada vez que eliges diferente, el nuevo guion gana terreno sobre el viejo.
 

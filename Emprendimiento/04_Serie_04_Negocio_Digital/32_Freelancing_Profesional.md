@@ -153,7 +153,7 @@ Marcos ha integrado todos los aprendizajes en un negocio de freelancing que func
 
 La investigación de Freelancers Unión sobre la satisfacción de los freelances muestra que los que reportan mayor satisfacción no son los que más ganan sino los que tienen mayor coherencia entre sus habilidades, sus valores, y el tipo de trabajo que hacen y los clientes con los que trabajan.
 
-**Ejercicio inmediato:** Para tu negocio de freelancing, evalua la coherencia en cuatro dimensiones: el trabajo que haces es el que genuinamente eres mejor haciendo (especialización coherente), el precio que cobras refleja el valor que produces (precio correcto), los clientes con los que trabajas son los que más disfrutan de tu trabajo y con los que la relación es más facil (clientes correctos), y el nivel de ingresos es el que necesitas para vivir como quieres vivir (revenue sostenible). La brecha en cualquiera de las cuatro dimensiones es el trabajo de mejora que tienes por delante.
+**Ejercicio inmediato:** Para tu negocio de freelancing, evalua la coherencia en cuatro dimensiones: el trabajo que haces es el que genuinamente eres mejor haciendo (especialización coherente), el precio que cobras refleja el valor que produces (precio correcto), los clientes con los que trabajas son los que más disfrutan de tu trabajo y con los que la relación es más fácil (clientes correctos), y el nivel de ingresos es el que necesitas para vivir como quieres vivir (revenue sostenible). La brecha en cualquiera de las cuatro dimensiones es el trabajo de mejora que tienes por delante.
 
 El freelance que trabaja con los clientes correctos, en el tipo de trabajo correcto, al precio correcto, tiene algo que el empleo raramente ofrece: satisfacción y libertad al mismo tiempo.
 

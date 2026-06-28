@@ -27,7 +27,7 @@ El bootstrapping no es la opción de los que no pueden conseguir inversión. Es 
 
 Basecamp (37signals), Mailchimp, Craigslist, y Github son ejemplos de empresas que rechazaron (o tardaron mucho en aceptar) inversión externa y construyeron negocios muy exitosos en modo bootstrap. Sus fundadores argumentan que el bootstrapping les dio algo más valioso que el dinero: control total sobre el negocio, la libertad de priorizar lo que les importaba, y la disciplina que produce construir con recursos limitados.
 
-**Ejercicio inmediato:** Reflexiona sobre tu situación actual: ¿necesitas capital externo para empezar o para continuar, o podrías comenzar o seguir con los recursos que tienes si fueras más disciplinado en los gastos y más rápido en generar ingresos? Para muchos negocios (especialmente de servicios), el bootstrapping es viable si el fundador empieza con menos de lo que cree que necesita y genera ingresos más rápido de lo que le sería comodo. La pregunta honesta es: ¿es el capital externo necesario o comodo?
+**Ejercicio inmediato:** Reflexiona sobre tu situación actual: ¿necesitas capital externo para empezar o para continuar, o podrías comenzar o seguir con los recursos que tienes si fueras más disciplinado en los gastos y más rápido en generar ingresos? Para muchos negocios (especialmente de servicios), el bootstrapping es viable si el fundador empieza con menos de lo que cree que necesita y genera ingresos más rápido de lo que le sería cómodo. La pregunta honesta es: ¿es el capital externo necesario o cómodo?
 
 El dinero externo resuelve el problema del capital. El bootstrapping te obliga a resolver el problema del negocio.
 

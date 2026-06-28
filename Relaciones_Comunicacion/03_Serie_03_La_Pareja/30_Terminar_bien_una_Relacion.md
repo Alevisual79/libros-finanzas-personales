@@ -97,7 +97,7 @@ Lo que ves en las redes sociales de tu expareja no te ayuda a sanar. Solo reabre
 
 El duelo después de una ruptura no es solo sobre la perdida de la persona. Es sobre la perdida de un futuro imaginado, de una identidad compartida, y a veces de una red social y de rutinas enteras construidas alrededor de la relación.
 
-**El Principio del Duelo Multidimensional:** El proceso de duelo de una relación incluye multiples perdidas simultaneas: la persona misma, los planes de futuro que se tenían juntos, la versión de uno mismo que existia dentro de esa relación, y en ocasiones amistades o conexiones familiares que se perdieron juntó con la relación. Reconocer la multidimensionalidad del duelo ayuda a entender por qué puede sentirse más grande de lo que la duración de la relación parecia justificar.
+**El Principio del Duelo Multidimensional:** El proceso de duelo de una relación incluye multiples perdidas simultáneas: la persona misma, los planes de futuro que se tenían juntos, la versión de uno mismo que existia dentro de esa relación, y en ocasiones amistades o conexiones familiares que se perdieron juntó con la relación. Reconocer la multidimensionalidad del duelo ayuda a entender por qué puede sentirse más grande de lo que la duración de la relación parecia justificar.
 
 **Ejercicio inmediato:** Haz una lista de todo lo que has perdido con esta ruptura, más allá de la persona misma: planes, rutinas, identidad, conexiones sociales. Nombrar cada perdida específicamente, en lugar de procesarlo todo cómo un dolor generico, suele facilitar el proceso de duelo.
 

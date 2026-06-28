@@ -57,11 +57,11 @@ Isabel esta siempre presente. Siempre disponible. Siempre haciendo algo por los 
 
 Estar presente físicamente no es lo mismo que estar presente de verdad.
 
-**El Principio del Tiempo Indiviso:** Para las personas cuyo lenguaje del amor es el tiempo de calidad, lo que nutre la relación no es la cantidad de tiempo compartido sino la calidad de la atención durante ese tiempo. Tiempo de calidad significa atención completa, sin movil, sin distracciones, con la presencia real en lo que el otro dice y hace.
+**El Principio del Tiempo Indiviso:** Para las personas cuyo lenguaje del amor es el tiempo de calidad, lo que nutre la relación no es la cantidad de tiempo compartido sino la calidad de la atención durante ese tiempo. Tiempo de calidad significa atención completa, sin móvil, sin distracciones, con la presencia real en lo que el otro dice y hace.
 
 Dos horas de presencia real valen más que un dia entero de presencia física con la atención dividida. Lo que el otro necesita no es tu tiempo. Es tu atención dentro de ese tiempo. Y la atención completa es uno de los regalos más escasos en el mundo actual.
 
-**Ejercicio inmediato:** Esta semana, elige una persona cuyo lenguaje del amor puede ser el tiempo de calidad. Planea una hora de tiempo con ella con la atención completamente presente: sin movil visible, sin multitarea, con toda tu presencia en lo que el otro dice y hace. Observa la diferencia en la calidad de la conexión.
+**Ejercicio inmediato:** Esta semana, elige una persona cuyo lenguaje del amor puede ser el tiempo de calidad. Planea una hora de tiempo con ella con la atención completamente presente: sin móvil visible, sin multitarea, con toda tu presencia en lo que el otro dice y hace. Observa la diferencia en la calidad de la conexión.
 
 La presencia completa es el regalo más valioso que puedes dar. Y el más raro.
 
@@ -71,7 +71,7 @@ La presencia completa es el regalo más valioso que puedes dar. Y el más raro.
 
 Hay personas para las que recibir un regalo, aunque sea pequeño, es una confirmación tangible de que el otro pensaba en ellas cuando no estaban presentes. El regalo no es el objeto. Es el símbolo de que importas lo suficiente para que alguien haya pensado en ti.
 
-**El Principio del Simbolo Tangible:** Para las personas cuyo lenguaje del amor son los regalos, el valor del regalo no esta en su precio sino en su significado. Un cafe que el otro te trae porque sabe que te gusta el de esa cafeteria específica comunica más que un regalo caro pero generico. Lo que hace especial a un regalo para alguien con este lenguaje del amor es la evidencia de que el otro te conoce y pensó en ti.
+**El Principio del Símbolo Tangible:** Para las personas cuyo lenguaje del amor son los regalos, el valor del regalo no esta en su precio sino en su significado. Un cafe que el otro te trae porque sabe que te gusta el de esa cafeteria específica comunica más que un regalo caro pero generico. Lo que hace especial a un regalo para alguien con este lenguaje del amor es la evidencia de que el otro te conoce y pensó en ti.
 
 Chapman enfatiza que los regalos no tienen que ser caros para ser significativos. Una flor del jardin, una foto impresa de un momento especial, una nota escrita a mano. Lo que importa es la intención y la especificidad: este regalo es para ti, te lo traje porque pense en ti cuando lo vi.
 
@@ -85,7 +85,7 @@ El mejor regalo no es el más caro. Es el que dice: pense en ti cuando no estaba
 
 Cuando la pareja de Elena le deja el coche con el deposito lleno porque sabe que ella siempre olvida poner gasolina, Elena lo ve cómo una tarea práctica. Para su pareja, es la forma más natural de decir te quiero. Es como habla su amor.
 
-**El Principio del Servicio como Expresión:** Para las personas cuyo lenguaje del amor son los actos de servicio, lo que dice te quiero más alto es ayudar, hacer algo por el otro, aliviar su carga. No las palabras. No el tiempo. Las acciones concretas que hacen la vida del otro un poco más facil o más agradable.
+**El Principio del Servicio como Expresión:** Para las personas cuyo lenguaje del amor son los actos de servicio, lo que dice te quiero más alto es ayudar, hacer algo por el otro, aliviar su carga. No las palabras. No el tiempo. Las acciones concretas que hacen la vida del otro un poco más fácil o más agradable.
 
 Los actos de servicio incluyen: hacer tareas del hogar sin que se pida, encargarse de algo que el otro odia hacer, anticipar lo que el otro necesita y tenerlo preparado, ayudar en un proyecto, llevar los niños al colegio el dia en que el otro esta agotado. La clave es que sean genuinamente voluntarios y no se usen como herramienta de deuda.
 

@@ -141,7 +141,7 @@ El futuro de tus relaciones no está determinado por la tecnología disponible. 
 
 ## Epílogo
 
-El futuro de las relaciones humanas no lo decide la tecnología. Lo deciden las personas que eligen como usarla. Elena, Ruben e Isabel, al final de esta conversación sobre el futuro, llegaron a una conclusión compartida: ninguno de ellos podía predecir con certeza que herramientas tecnologicas existirian dentro de diez años. Pero los tres podían decidir, hoy mismo, que clase de presencia, honestidad, y vulnerabilidad querían practicar en sus relaciones actuales, independientemente de las herramientas disponibles. Esa decisión, descubrieron, era la unica parte del futuro relacional que realmente estaba en sus manos.
+El futuro de las relaciones humanas no lo decide la tecnología. Lo deciden las personas que eligen como usarla. Elena, Ruben e Isabel, al final de esta conversación sobre el futuro, llegaron a una conclusión compartida: ninguno de ellos podía predecir con certeza que herramientas tecnologicas existirian dentro de diez años. Pero los tres podían decidir, hoy mismo, que clase de presencia, honestidad, y vulnerabilidad querían practicar en sus relaciones actuales, independientemente de las herramientas disponibles. Esa decisión, descubrieron, era la única parte del futuro relacional que realmente estaba en sus manos.
 
 ---
 

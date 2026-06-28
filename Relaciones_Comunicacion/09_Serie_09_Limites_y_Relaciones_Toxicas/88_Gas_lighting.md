@@ -33,7 +33,7 @@ El gaslighting no es solo desacuerdo sobre los hechos. Es la negación sistemát
 
 ## Capítulo 2: Como opera el gaslighting en las relaciones
 
-El gaslighting opera a traves de un proceso gradual y acumulativo, no a traves de un evento unico, lo que dificulta significativamente su reconocimiento temprano por parte de quien lo experimenta.
+El gaslighting opera a traves de un proceso gradual y acumulativo, no a traves de un evento único, lo que dificulta significativamente su reconocimiento temprano por parte de quien lo experimenta.
 
 **El Principio de la Operación Gradual y sistemática:** El gaslighting tipicamente comienza con negaciones relativamente menores que individualmente podrían explicarse como malentendidos normales, pero que se acumulan en frecuencia e intensidad a lo largo del tiempo, generando progresivamente mayor dependencia de la victima en la versión de la realidad que el manipulador presenta, en lugar de en su propia percepción directa.
 

@@ -93,7 +93,7 @@ La versión de ti que tomó decisiones imperfectas en el pasado no tenía el con
 
 ## Capítulo 7: Hablar del pasado relacional sin que te defina
 
-Compartir la historia de relaciones difíciles pasadas, cuando es relevante hacerlo, de forma que comunique la experiencia sin convertirse en el unico tema de conversación sobre quien se es, requiere calibración consciente.
+Compartir la historia de relaciones difíciles pasadas, cuando es relevante hacerlo, de forma que comunique la experiencia sin convertirse en el único tema de conversación sobre quien se es, requiere calibración consciente.
 
 **El Principio del Compartir Proporcional:** Compartir genuinamente la historia relacional difícil del pasado, cuando es apropiado y con personas de confianza, es saludable. Convertir esa historia en el tema predominante de cada conversación, o en la lente principal a traves de la cual se presenta la propia identidad, puede mantener a la persona atrapada en esa narrativa en lugar de permitirle avanzar hacía otras dimensiones de quien es.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos tiene quince mil seguidores en Instagram y doscientos suscriptores en su newsletter. La newsletter genera diez veces más ventas que Instagram. Lucia manda emails masivos genéricos y no entiende por qué tiene una tasa de baja del 30% mensual. Marcos nunca ha enviado un email de marketing en su vida y cree que el email marketing es spam. Los tres necesitan entender algo fundamental sobre el email: es el unico canal de marketing digital donde el negocio tiene control total (no depende de ningún algoritmo externo), la audiencia ha dado permiso explícito (lo que produce mayor atención), y la conversión es consistentemente la mayor de todos los canales digitales. El email no ha muerto. Solo han muerto los que lo hacen mal.
+Carlos tiene quince mil seguidores en Instagram y doscientos suscriptores en su newsletter. La newsletter genera diez veces más ventas que Instagram. Lucia manda emails masivos genéricos y no entiende por qué tiene una tasa de baja del 30% mensual. Marcos nunca ha enviado un email de marketing en su vida y cree que el email marketing es spam. Los tres necesitan entender algo fundamental sobre el email: es el único canal de marketing digital donde el negocio tiene control total (no depende de ningún algoritmo externo), la audiencia ha dado permiso explícito (lo que produce mayor atención), y la conversión es consistentemente la mayor de todos los canales digitales. El email no ha muerto. Solo han muerto los que lo hacen mal.
 
 ---
 
@@ -41,7 +41,7 @@ Carlos ha aprendido que la calidad de la lista importa más que el tamaño.
 
 Las estrategias de construcción de lista más efectivas para el emprendedor con recursos limitados son: el lead magnet (un recurso gratuito de valor específico para la audiencia objetivo a cambio del email), el contenido de valor con llamada a la acción de suscripción (artículos, videos, o posts que ofrecen profundidad adicional via email), el networking (invitar a las conexiones relevantes a suscribirse), y las colaboraciones con negocios complementarios (newsletters cruzadas o menciones mutuasi).
 
-**Ejercicio inmediato:** Crea tu lead magnet en las próximas dos semanas: no necesita ser complejo. Puede ser una checklist de cinco pasos para resolver el problema principal de tu cliente, una plantilla que le ahorre tiempo, o una guia de tres páginas que responda la pregunta más frecuente de tu cliente potencial. Lo unico que importa es que sea genuinamente útil para tu audiencia objetivo (no para cualquier audiencia: para la tuya específica). Ese lead magnet es lo que convierte visitantes de tu web o seguidores de redes sociales en suscriptores cualificados.
+**Ejercicio inmediato:** Crea tu lead magnet en las próximas dos semanas: no necesita ser complejo. Puede ser una checklist de cinco pasos para resolver el problema principal de tu cliente, una plantilla que le ahorre tiempo, o una guia de tres páginas que responda la pregunta más frecuente de tu cliente potencial. Lo único que importa es que sea genuinamente útil para tu audiencia objetivo (no para cualquier audiencia: para la tuya específica). Ese lead magnet es lo que convierte visitantes de tu web o seguidores de redes sociales en suscriptores cualificados.
 
 El lead magnet que resuelve un problema específico de tu cliente ideal atrae exactamente al cliente ideal. El que es demasiado generico atrae a todo el mundo, que es lo mismo que nadie.
 
@@ -51,7 +51,7 @@ El lead magnet que resuelve un problema específico de tu cliente ideal atrae ex
 
 Lucia ha encontrado el ritmo de publicación que mantiene el engagement sin quemar a su lista.
 
-**El Principio de la Frecuencia de Email como el Equilibrio entre la Presencia Suficiente para Mantener la Relación y la No-Saturación que Produce Bajas y Queja de Spam porque Ambos Extremos Destruyen la Lista:** Dan Zarrella en The Science of Marketing propone que la frecuencia optima de email varia por sector y audiencia pero que hay patrones consistentes: las listas B2B toleran entre uno y dos emails semanales si el contenido es de alto valor; las B2C pueden tolerar mayor frecuencia si el contenido es relevante y variado. La clave no es la frecuencia maxima sino la mínima que mantiene la relación: suscriptores que no reciben nada durante un mes desarrollan amnesia de marca (no recuerdan haberse suscrito) y cuando finalmente reciben un email lo tratan como spam.
+**El Principio de la Frecuencia de Email como el Equilibrio entre la Presencia Suficiente para Mantener la Relación y la No-Saturación que Produce Bajas y Queja de Spam porque Ambos Extremos Destruyen la Lista:** Dan Zarrella en The Science of Marketing propone que la frecuencia óptima de email varia por sector y audiencia pero que hay patrones consistentes: las listas B2B toleran entre uno y dos emails semanales si el contenido es de alto valor; las B2C pueden tolerar mayor frecuencia si el contenido es relevante y variado. La clave no es la frecuencia maxima sino la mínima que mantiene la relación: suscriptores que no reciben nada durante un mes desarrollan amnesia de marca (no recuerdan haberse suscrito) y cuando finalmente reciben un email lo tratan como spam.
 
 La investigación de Campaign Monitor muestra que las listas que envian con una frecuencia consistente de al menos una vez a la semana tienen tasas de apertura significativamente superiores a las que envian de forma irregular.
 
@@ -79,7 +79,7 @@ El email de bienvenida que es una transacción fria produce una lista de correo.
 
 Carlos ha desarrollado un formato de email que mantiene una tasa de apertura del 38%.
 
-**El Principio del Contenido de Email cómo la Combinación de Valor Genuino para el Suscriptor y una Unica Llamada a la Acción Clara que Produce Apertura, Lectura, y Conversión sin Abrumar al Receptor:** El mayor error en el contenido de email es intentar decir demasiado en un solo email: multiples temas, multiples llamadas a la acción, y multiples objetivos que confunden al suscriptor y producen inercia (no saber que hacer, el suscriptor no hace nada). La investigación de Email on Acid muestra que los emails con una sola llamada a la acción tienen tasas de click del doble que los que tienen tres o más.
+**El Principio del Contenido de Email cómo la Combinación de Valor Genuino para el Suscriptor y una Única Llamada a la Acción Clara que Produce Apertura, Lectura, y Conversión sin Abrumar al Receptor:** El mayor error en el contenido de email es intentar decir demasiado en un solo email: multiples temas, multiples llamadas a la acción, y multiples objetivos que confunden al suscriptor y producen inercia (no saber que hacer, el suscriptor no hace nada). La investigación de Email on Acid muestra que los emails con una sola llamada a la acción tienen tasas de click del doble que los que tienen tres o más.
 
 La estructura de email más efectiva para negocios es: asunto atractivo y específico (la razón por la que el suscriptor abre el email), apertura con gancho (un dato sorprendente, una pregunta, o una historia breve), contenido de valor en tres a cinco párrafos (que ayuda al suscriptor de alguna forma específica), y una sola llamada a la acción clara.
 
@@ -93,9 +93,9 @@ El email que intenta hacer todo no hace nada bien. El que hace una sola cosa bie
 
 Lucia ha mejorado su tasa de apertura un 40% simplemente reescribiendo los asuntos de sus emails.
 
-**El Principio del Asunto del Email como el Factor Más Determinante de la Tasa de Apertura porque Es la Unica Parte que el Suscriptor Lee Antes de Decidir Si Abre o Borra el Email y por Tanto el Más Importante:** Joanna Wiebe de Copyhackers propone que el asunto del email compite con decenas de otros asuntos en la bandeja de entrada del suscriptor y que el que produce la mayor curiosidad, relevancia, o urgencia específica para ese suscriptor es el que gana la atención. Los asuntos más efectivos son tipicamente: específicos (nombran un problema o un resultado concreto), personales (usan el nombre o la situación del suscriptor), o que producen curiosidad (insinuan algo sin revelarlo completamente).
+**El Principio del Asunto del Email como el Factor Más Determinante de la Tasa de Apertura porque Es la Única Parte que el Suscriptor Lee Antes de Decidir Si Abre o Borra el Email y por Tanto el Más Importante:** Joanna Wiebe de Copyhackers propone que el asunto del email compite con decenas de otros asuntos en la bandeja de entrada del suscriptor y que el que produce la mayor curiosidad, relevancia, o urgencia específica para ese suscriptor es el que gana la atención. Los asuntos más efectivos son tipicamente: específicos (nombran un problema o un resultado concreto), personales (usan el nombre o la situación del suscriptor), o que producen curiosidad (insinuan algo sin revelarlo completamente).
 
-La investigación de Mailchimp sobre los patrones de tasa de apertura muestra que los asuntos más cortos (de cinco a ocho palabras) tienen tasas de apertura consistentemente superiores a los más largos, especialmente en movil donde el espacio de visualización del asunto es limitado.
+La investigación de Mailchimp sobre los patrones de tasa de apertura muestra que los asuntos más cortos (de cinco a ocho palabras) tienen tasas de apertura consistentemente superiores a los más largos, especialmente en móvil donde el espacio de visualización del asunto es limitado.
 
 **Ejercicio inmediato:** Para tus próximos cinco emails, escribe tres versiones del asunto para cada uno y elige la que más combina especificidad, curiosidad, y relevancia para tu audiencia. Un sistema simple: ¿el asunto tipo beneficio específico (como conseguir tu primer cliente sin publicidad), el asunto tipo pregunta (estas cometiendo el error de precios más común?), y el asunto tipo historia (lo que aprendi cuando perdi mi mejor cliente). Compara las tasas de apertura de los emails con esos diferentes tipos de asunto para descubrir que tipo funciona mejor con tu audiencia específica.
 
@@ -141,7 +141,7 @@ La investigación de Mailchimp sobre los benchmarks de email por industria muest
 
 **Ejercicio inmediato:** Para tu lista actual, calcula las cuatro metricas principales del último mes: tasa de apertura promedio, tasa de click promedio, número de bajas por email, y número de nuevos suscriptores. Con esas cuatro metricas, puedes diagnosticar el estado de la lista: si la tasa de apertura es baja, el problema es el asunto o la frecuencia; si es alta pero la tasa de click es baja, el problema es el contenido o la llamada a la acción; si las bajas son altas, el contenido no es suficientemente relevante para la audiencia.
 
-Las metricas de email que mides son las unicas que puedes mejorar. Las que ignoras producen los mismos resultados indefinidamente.
+Las metricas de email que mides son las únicas que puedes mejorar. Las que ignoras producen los mismos resultados indefinidamente.
 
 ---
 
@@ -149,7 +149,7 @@ Las metricas de email que mides son las unicas que puedes mejorar. Las que ignor
 
 Marcos ha llegado a entender que el email es el centro de gravitación de todo su sistema de marketing.
 
-**El Principio del Email como el Canal Central del Sistema de Marketing Integrado porque Es el Unico Punto donde el Negocio Tiene Control Total, La Relación Más Directa con el Suscriptor, y la Mayor Conversión de Todos Los Canales Digitales:** Neil Patel propone que la lista de email es el activo digital más valioso de cualquier negocio: a diferencia del trafico de redes sociales (que depende del algoritmo), el trafico de publicidad de pago (que depende del presupuesto), y el trafico de SEO (que depende del ranking), la lista de email es un activo que el negocio posee directamente y que puede monetizar repetidamente sin coste adicional por cada envió.
+**El Principio del Email como el Canal Central del Sistema de Marketing Integrado porque Es el Único Punto donde el Negocio Tiene Control Total, La Relación Más Directa con el Suscriptor, y la Mayor Conversión de Todos Los Canales Digitales:** Neil Patel propone que la lista de email es el activo digital más valioso de cualquier negocio: a diferencia del trafico de redes sociales (que depende del algoritmo), el trafico de publicidad de pago (que depende del presupuesto), y el trafico de SEO (que depende del ranking), la lista de email es un activo que el negocio posee directamente y que puede monetizar repetidamente sin coste adicional por cada envió.
 
 El sistema de marketing integrado usa todos los canales (redes sociales, blog, SEO, publicidad) como alimentadores de la lista de email, que es el canal donde ocurre la mayor parte de la conversión. La lista de email es el destino; los otros canales son el camino.
 

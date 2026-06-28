@@ -43,7 +43,7 @@ Los factores que predicen la resiliencia incluyen: las relaciones de apoyo (el p
 
 **Ejercicio inmediato:** Para los factores de resiliencia identificados, reflexiona sobre tu situación actual: ¿en cuales tienes mayor fortaleza? ¿En cuales tienes mayor debilidad? El factor más deficitario es el que más merece inversión preventiva: antes de que llegue la próxima adversidad, no después.
 
-La resiliencia que desarrollas en los tiempos faciles es la que tienes disponible en los tiempos difíciles.
+La resiliencia que desarrollas en los tiempos fáciles es la que tienes disponible en los tiempos difíciles.
 
 ---
 
@@ -57,7 +57,7 @@ George Bonanno muestra que las trayectorias de duelo son mucho más diversas de 
 
 **Ejercicio inmediato:** Si estas atravesando o has atravesado una perdida significativa, reflexiona: ¿la forma en que estas viviendo el duelo es tu forma o es la forma que la cultura espera de ti? Hay una diferencia entre el duelo real y el duelo performativo (el que se expresa para cumplir con las expectativas de los demás). Tu duelo es tuyo. No tiene que ajustarse a ninguna plantilla.
 
-El duelo que te permites vivir en tu propio tiempo y a tu manera es el unico que realmente sana.
+El duelo que te permites vivir en tu propio tiempo y a tu manera es el único que realmente sana.
 
 ---
 

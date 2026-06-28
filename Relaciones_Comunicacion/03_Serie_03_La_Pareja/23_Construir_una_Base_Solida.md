@@ -95,11 +95,11 @@ La pareja que se funde completamente en el otro no tiene nada propio que ofrecer
 
 Los rituales son el tejido de la vida compartida. No las grandes celebraciones. Los momentos pequeños y repetidos que construyen la sensación de que hay un nosotros específico que no existe en ninguna otra relación.
 
-**El Principio del Ritual como Constructor de Identidad de Pareja:** Gottman identifica la creación de rituales de conexión como uno de los elementos más importantes de las parejas saludables. Los rituales pueden ser tan pequeños cómo la forma de despedirse cada mañana, la conversación de los viernes por la noche, el cafe del domingo sin moviles, o tan grandes como las vacaciones anuales que se planean juntos. Lo que los hace rituales es la regularidad y la carga de significado que ambos les atribuyen.
+**El Principio del Ritual como Constructor de Identidad de Pareja:** Gottman identifica la creación de rituales de conexión como uno de los elementos más importantes de las parejas saludables. Los rituales pueden ser tan pequeños cómo la forma de despedirse cada mañana, la conversación de los viernes por la noche, el cafe del domingo sin móviles, o tan grandes como las vacaciones anuales que se planean juntos. Lo que los hace rituales es la regularidad y la carga de significado que ambos les atribuyen.
 
 Los rituales tienen un poder específico: crean sentido de continuidad y de identidad de pareja. Cuando la vida se pone difícil, los rituales son los que recuerdan que hay algo sólido debajo de la crisis actual.
 
-**Ejercicio inmediato:** Identifica los tres rituales que existen en tu relación actual (o que existían en la más reciente). Si no puedes identificar tres, propone este fin de semana crear uno pequeño con tu pareja: un cafe sin moviles, un paseo regular, una pelicula cada viernes. El ritual que empiezas ahora puede ser el que os sostenga dentro de cinco años.
+**Ejercicio inmediato:** Identifica los tres rituales que existen en tu relación actual (o que existían en la más reciente). Si no puedes identificar tres, propone este fin de semana crear uno pequeño con tu pareja: un cafe sin móviles, un paseo regular, una pelicula cada viernes. El ritual que empiezas ahora puede ser el que os sostenga dentro de cinco años.
 
 Los rituales no son los momentos grandes. Son los momentos pequeños que se repiten y dan forma a quien son juntos.
 

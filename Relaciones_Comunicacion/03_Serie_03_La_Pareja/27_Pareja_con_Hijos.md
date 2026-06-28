@@ -19,7 +19,7 @@ Casi ninguna pareja llega preparada para lo que la llegada de un hijo hace a su 
 
 Esto no es una falla personal. Es la consecuencia predecible de añadir una de las cargas de tiempo, sueño y atención más grandes que existen a una relación que antes tenía recursos limitados pero suficientes para sostenerse.
 
-Las parejas que atraviesan la crianza sin que la relación se erosione no son las que tienen hijos más faciles o menos estrés económico. Son las que entienden lo que está pasando y se preparan deliberadamente para protegerse mutuamente durante el proceso.
+Las parejas que atraviesan la crianza sin que la relación se erosione no son las que tienen hijos más fáciles o menos estrés económico. Son las que entienden lo que está pasando y se preparan deliberadamente para protegerse mutuamente durante el proceso.
 
 ---
 

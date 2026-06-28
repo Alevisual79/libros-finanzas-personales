@@ -125,9 +125,9 @@ Elena tiene un bloqueo. Sabe lo que tiene que hacer pero no puede empezar. O emp
 
 La solución no es eliminar ese miedo (lo cual es imposible) sino actuar a pesar de el. Anne Lamott, autora de Bird by Bird, propone la técnica del borrador horrible deliberado: escribir (o crear) intencionalmente mal en la primera versión, con el objetivo explícito de producir algo que podrá mejorarse, no algo terminado. Esta técnica desactiva el perfeccionismo que paraliza porque elimina la expectativa de que lo que se produce en la primera iteración deba ser bueno.
 
-**Ejercicio inmediato:** Para el proyecto creativo con el que estas bloqueado, dedícate a hacer la peor versión posible deliberadamente, explicitamente mala, en los próximos veinte minutos. La unica regla es que al final de los veinte minutos exista algo que no existia antes. Frecuentemente, la peor versión posible es el desbloqueador que el perfeccionismo no puede ser.
+**Ejercicio inmediato:** Para el proyecto creativo con el que estas bloqueado, dedícate a hacer la peor versión posible deliberadamente, explicitamente mala, en los próximos veinte minutos. La única regla es que al final de los veinte minutos exista algo que no existia antes. Frecuentemente, la peor versión posible es el desbloqueador que el perfeccionismo no puede ser.
 
-No puedes editar lo que no existe. El bloqueo perfecta lo que aun no existe. Lo unico que vence al bloqueo es la fealdad deliberada de un primer borrador.
+No puedes editar lo que no existe. El bloqueo perfecta lo que aun no existe. Lo único que vence al bloqueo es la fealdad deliberada de un primer borrador.
 
 ---
 

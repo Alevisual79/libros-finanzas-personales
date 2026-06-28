@@ -59,7 +59,7 @@ Elena y su compañera de trabajo llevan una semana sin hablarse por un mensaje d
 
 La regla práctica: si un intercambio de mensajes produce incomodidad o tensión, cambiar de canal inmediatamente. Una llamada de dos minutos puede resolver en ese tiempo lo que cinco dias de intercambio de mensajes no puede.
 
-**Ejercicio inmediato:** La próxima vez que un intercambio de mensajes produzca tensión, propone explicitamente cambiar de canal: te llamó en cinco minutos para que sea más facil. No para esquivar la conversación. Para tenerla en el canal que le permite ser real.
+**Ejercicio inmediato:** La próxima vez que un intercambio de mensajes produzca tensión, propone explicitamente cambiar de canal: te llamó en cinco minutos para que sea más fácil. No para esquivar la conversación. Para tenerla en el canal que le permite ser real.
 
 Los malentendidos digitales no se resuelven en digital. Se resuelven en persona o por voz.
 
@@ -95,15 +95,15 @@ Las redes sociales que te hacen sentir menos no son una ventana al mundo. Son un
 
 ## Capítulo 6: Notificaciones y presencia en las conversaciones
 
-Ruben tiene el hábito de poner el movil boca arriba en la mesa durante las comidas. No para usarlo. Solo por si acaso llega algo importante. El resultado es que una parte de su atención siempre esta en espera del movil, no en la persona que tiene delante.
+Ruben tiene el hábito de poner el móvil boca arriba en la mesa durante las comidas. No para usarlo. Solo por si acaso llega algo importante. El resultado es que una parte de su atención siempre esta en espera del móvil, no en la persona que tiene delante.
 
-**El Principio de la Atención Dividida como Mensaje:** Tener el movil visible durante una conversación en persona, aunque no se mire, reduce la calidad de la escucha y de la conexión. Produce en el otro la sensación de no ser suficientemente importante como para merecer la atención completa. El movil visible es una señal de disponibilidad para interrupciones que compite con la presencia en la conversación real.
+**El Principio de la Atención Dividida como Mensaje:** Tener el móvil visible durante una conversación en persona, aunque no se mire, reduce la calidad de la escucha y de la conexión. Produce en el otro la sensación de no ser suficientemente importante como para merecer la atención completa. El móvil visible es una señal de disponibilidad para interrupciones que compite con la presencia en la conversación real.
 
-Los estudios de Przybylski y Weinstein muestran que la simple presencia de un movil visible sobre una mesa durante una conversación (sin ser usado) reduce la calidad percibida de la conexión por ambos participantes y disminuye la empatia expresada durante la conversación.
+Los estudios de Przybylski y Weinstein muestran que la simple presencia de un móvil visible sobre una mesa durante una conversación (sin ser usado) reduce la calidad percibida de la conexión por ambos participantes y disminuye la empatia expresada durante la conversación.
 
-**Ejercicio inmediato:** En las próximas conversaciones importantes que tengas, pon el movil en el bolsillo o en el bolso, boca abajo y fuera de la vista. No en la mesa. No en la mano. Fuera de la vista. Observa la diferencia en la calidad de tu atención y de la conexión resultante.
+**Ejercicio inmediato:** En las próximas conversaciones importantes que tengas, pon el móvil en el bolsillo o en el bolso, boca abajo y fuera de la vista. No en la mesa. No en la mano. Fuera de la vista. Observa la diferencia en la calidad de tu atención y de la conexión resultante.
 
-El movil que no se puede ver no compite con la persona que si esta presente.
+El móvil que no se puede ver no compite con la persona que si esta presente.
 
 ---
 
@@ -137,15 +137,15 @@ Los problemas de comunicación digital casi nunca son sobre la relación. Casi s
 
 ## Capítulo 9: Descansos digitales y su efecto en las relaciones
 
-Hay personas que no saben como estar con otra persona sin el movil como buffer. No saben hablar sin tener algo a lo que recurrir si la conversación se pone incomoda. El movil se ha convertido en una muleta relacional que impide desarrollar la tolerancia a la incomodidad que la conexión real requiere.
+Hay personas que no saben como estar con otra persona sin el móvil como buffer. No saben hablar sin tener algo a lo que recurrir si la conversación se pone incomoda. El móvil se ha convertido en una muleta relacional que impide desarrollar la tolerancia a la incomodidad que la conexión real requiere.
 
-**El Principio del Descanso Digital como Entrenamiento Relacional:** Los períodos de descanso digital (horas, dias, contextos sin movil) son también períodos de entrenamiento en la presencia y en la tolerancia a la incomodidad relacional. Sin el buffer del movil, uno tiene que estar realmente con el otro, con los silencios incomodos, con las conversaciones que no fluyen facilmente, con la realidad de lo que hay entre dos personas.
+**El Principio del Descanso Digital como Entrenamiento Relacional:** Los períodos de descanso digital (horas, dias, contextos sin móvil) son también períodos de entrenamiento en la presencia y en la tolerancia a la incomodidad relacional. Sin el buffer del móvil, uno tiene que estar realmente con el otro, con los silencios incomodos, con las conversaciones que no fluyen facilmente, con la realidad de lo que hay entre dos personas.
 
 Cal Newport, en su libro Digital Minimalism, argumenta que la clave no es usar menos tecnología sino usar la que se usa de forma más intencional: solo cuando añade valor real a la vida y a las relaciones, no como respuesta automática al aburrimiento o la incomodidad.
 
-**Ejercicio inmediato:** Elige un contexto recurrente en tu vida (comidas en familia, salidas con amigos, el rato antes de dormir) y práctica hacerlo sin movil durante dos semanas. No para siempre. Solo dos semanas. Observa que cambia en la calidad de las conversaciones y en tu nivel de presencia.
+**Ejercicio inmediato:** Elige un contexto recurrente en tu vida (comidas en familia, salidas con amigos, el rato antes de dormir) y práctica hacerlo sin móvil durante dos semanas. No para siempre. Solo dos semanas. Observa que cambia en la calidad de las conversaciones y en tu nivel de presencia.
 
-Lo que haces cuando no tienes el movil encima es quien realmente eres en las relaciones.
+Lo que haces cuando no tienes el móvil encima es quien realmente eres en las relaciones.
 
 ---
 
@@ -155,7 +155,7 @@ Cada pareja, cada familia, cada equipo de trabajo necesita acordar sus propias n
 
 **El Principio de las Normas Explicitas:** Las normas que no se acuerdan explícita se negocian constantemente de forma implícita, con tensión. Las normas explícitas, aunque requieran una conversación incomoda una vez, resuelven de forma duradera los conflictos que de otra forma se repiten sin fin.
 
-Las normas más útiles suelen girar en torno a: cuando se ponen los moviles en modo silencio o fuera de la vista (comidas, momentos de intimidad, conversaciones importantes), que canal se usa para qué tipo de comunicación, cual es el tiempo de respuesta razonable para mensajes no urgentes, y cómo se indica cuando algo es urgente de verdad.
+Las normas más útiles suelen girar en torno a: cuando se ponen los móviles en modo silencio o fuera de la vista (comidas, momentos de intimidad, conversaciones importantes), que canal se usa para qué tipo de comunicación, cual es el tiempo de respuesta razonable para mensajes no urgentes, y cómo se indica cuando algo es urgente de verdad.
 
 **Ejercicio inmediato:** Esta semana, con la persona o el grupo de personas con quien más tensión digital tienes, propone acordar tres normas digitales concretas. Solo tres. No tiene que ser un reglamento. Solo tres acuerdos que resuelvan los tres puntos de mayor tensión. Esas tres normas probablemente resuelven el 80% de los conflictos digitales que tienes con esa persona o grupo.
 
@@ -167,7 +167,7 @@ Las normas digitales no limitan la relación. La protegen de los malentendidos q
 
 La tecnología no destruye las relaciones. La usamos de formas que las deterioran. Y porque lo hacemos de forma automática, sin conciencia, el deterioro ocurre sin que lo decidamos.
 
-Isabel tomó la decisión de no tener el movil en la mesa durante las comidas con su familia. La primera semana fue incomoda. Su hijo adolescente protesto. Al cabo de un mes, las comidas duraban el doble y producian conversaciones que no habían tenido en años.
+Isabel tomó la decisión de no tener el móvil en la mesa durante las comidas con su familia. La primera semana fue incomoda. Su hijo adolescente protesto. Al cabo de un mes, las comidas duraban el doble y producian conversaciones que no habían tenido en años.
 
 Una norma pequeña. Un cambio considerable en la calidad de lo que había entre ellos.
 

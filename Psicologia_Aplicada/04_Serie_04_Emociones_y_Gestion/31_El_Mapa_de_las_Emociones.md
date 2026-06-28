@@ -125,7 +125,7 @@ Elena ha oido hablar de inteligencia emocional como si fuera una cualidad fija q
 
 La investigación posterior, incluyendo meta-análisis de Daus y Ashkanasy y otros, muestra que la inteligencia emocional predice resultados significativos en el rendimiento laboral, las relaciones interpersonales, y el bienestar, aunque el tamaño del efecto varia según el método de medición y el contexto. La buena noticia es que las habilidades que la componen (vocabulario emocional, reconocimiento de emociones en otros, regulación propia) son entrenable con programas específicos.
 
-**Ejercicio inmediato:** Evalua tu inteligencia emocional en cuatro dimensiones: ¿percibir emociones (en ti y en otros), usar emociones para facilitar el pensamiento, entender las emociones (sus causas y consecuencias), y regular emociones (en ti y en otros). En cual de las cuatro eres más fuerte? ¿En cual más debil? La dimensión más debil es el punto de desarrollo más urgente.
+**Ejercicio inmediato:** Evalua tu inteligencia emocional en cuatro dimensiones: ¿percibir emociones (en ti y en otros), usar emociones para facilitar el pensamiento, entender las emociones (sus causas y consecuencias), y regular emociones (en ti y en otros). En cual de las cuatro eres más fuerte? ¿En cual más débil? La dimensión más débil es el punto de desarrollo más urgente.
 
 La inteligencia emocional no es con lo que naces. Es con lo que puedes llegar si decides desarrollarla.
 

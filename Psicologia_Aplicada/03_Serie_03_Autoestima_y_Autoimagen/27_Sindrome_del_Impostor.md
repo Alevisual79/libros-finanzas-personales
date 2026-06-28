@@ -41,7 +41,7 @@ Ruben siente el síndrome del impostor de forma diferente a cómo lo describe Is
 
 Cada tipo produce comportamientos específicos de mantenimiento del síndrome: el perfeccionista repasa el trabajo hasta la paralisis, el experto toma más cursos en lugar de aplicar lo que ya sabe, el genio natural evita desafios donde puede fallar, el individualista rechaza mentoria y apoyo, el superhumano trabaja hasta el agotamiento. Identificar el propio tipo permite ver que el síndrome no es una evaluación de la realidad sino un patron de pensamiento con sus propios mecanismos de perpetuación.
 
-**Ejercicio inmediato:** De los cinco tipos, cual reconoces como el más propio de tu experiencia? El reconocimiento del tipo específico hace más facil identificar los comportamientos específicos que lo mantienen y las intervenciones específicas que pueden reducirlo.
+**Ejercicio inmediato:** De los cinco tipos, cual reconoces como el más propio de tu experiencia? El reconocimiento del tipo específico hace más fácil identificar los comportamientos específicos que lo mantienen y las intervenciones específicas que pueden reducirlo.
 
 No todo síndrome del impostor es igual. Saber el tuyo es saber a que patron específico de pensamiento has de responder.
 
@@ -67,7 +67,7 @@ Ruben puede rastrear su síndrome hasta mensajes específicos recibidos en la in
 
 **El Principio del Origen Multifactorial del Síndrome:** Valerie Young y otros investigadores identifican factores de predisposición al síndrome: mensajes tempranos sobre excepcionalidad (eres el inteligente de la familia, lo que crea ansiedad cuando se percibe que la imagen no puede sostenerse), ambientes altamente competitivos donde la comparación es constante, grupos minorizados en sus entornos profesionales (mujeres en campos dominados por hombres, minorías en entornos mayoritarios, primera generación universitaria), y culturas organizacionales donde la vulnerabilidad es penalizada.
 
-La combinación de estos factores produce una sensación de ser el unico que no es tan bueno como parece, que se mantiene precisamente porque el síndrome del impostor impide la vulnerabilidad que revelaria que los demás sienten lo mismo.
+La combinación de estos factores produce una sensación de ser el único que no es tan bueno como parece, que se mantiene precisamente porque el síndrome del impostor impide la vulnerabilidad que revelaria que los demás sienten lo mismo.
 
 **Ejercicio inmediato:** Identifica el contexto o entorno donde el síndrome del impostor es más intenso para ti. Luego identifica que característica específica de ese entorno (la visibilidad, la comparación con personas percibidas como más competentes, la historia de logros de otros en ese espacio) contribuye más al síndrome. La especificidad del contexto sugiere que el síndrome no es una evaluación global de tu competencia sino una respuesta a ese entorno particular.
 
@@ -107,13 +107,13 @@ El síndrome del impostor predice que te van a descubrir. La exposición acumula
 
 Elena se ha resistido a buscar mentores porque le da verguenza que alguien con más experiencia descubra lo poco que sabe. Este razonamiento es característico del síndrome del impostor y produce precisamente el aislamiento que lo alimenta.
 
-**El Principio de la Vulnerabilidad Compartida como Antidoto:** El síndrome del impostor prospera en el secreto y el aislamiento. La persona con el síndrome cree que es la unica que se siente así, lo que refuerza la sensación de ser un impostor (si fuera realmente competente, no tendría estas dudas). La conversación honesta sobre las propias inseguridades con personas de confianza frecuentemente revela que la sensación es mucho más compartida de lo que el síndrome permite creer.
+**El Principio de la Vulnerabilidad Compartida como Antidoto:** El síndrome del impostor prospera en el secreto y el aislamiento. La persona con el síndrome cree que es la única que se siente así, lo que refuerza la sensación de ser un impostor (si fuera realmente competente, no tendría estas dudas). La conversación honesta sobre las propias inseguridades con personas de confianza frecuentemente revela que la sensación es mucho más compartida de lo que el síndrome permite creer.
 
 La mentoria, además, proporciona perspectiva externa sobre la propia competencia que puede calibrar la autoevaluación sesgada del impostor. El mentor que ha visto desarrollarse a muchos profesionales en el campo puede identificar fortalezas que el síndrome ignora sistemáticamente.
 
 **Ejercicio inmediato:** Identifica una persona (mentor, colega de confianza, o supervisor) con quien podrías tener una conversación honesta sobre las inseguridades profesionales que el síndrome del impostor genera. No para pedir validación sino para calibrar tu autoevaluación con perspectiva externa. Si la persona elegida tiene experiencia en el campo, su evaluación de tu competencia tiene más peso informativo que la del síndrome.
 
-La persona que cree que es la unica que se siente un impostor en su campo nunca ha hablado con sus colegas honestamente.
+La persona que cree que es la única que se siente un impostor en su campo nunca ha hablado con sus colegas honestamente.
 
 ---
 

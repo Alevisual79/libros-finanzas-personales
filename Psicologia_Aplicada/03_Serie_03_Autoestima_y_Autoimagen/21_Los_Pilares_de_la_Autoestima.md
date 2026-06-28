@@ -135,7 +135,7 @@ Como te tratas cuando te equivocas dice más sobre tu autoestima que como te tra
 
 Elena tiene dificultad para mantener relaciones donde se siente vista y valorada. Tiende a elegir personas que confirman su baja autoevaluación, o a sabotar las relaciones donde la tratan bien porque no cree merecerlo.
 
-**El Principio de la Profezia Autocumplida en las Relaciones:** William Swann, psicologo de la Universidad de Texas, investigó el fenómeno de verificación del yo: la tendencia a buscar información sobre uno mismo que confirme el autoconcepto existente, incluso cuando ese autoconcepto es negativo. Las personas con baja autoestima buscan activamente (de forma inconsciente) confirmación de su baja autoevaluación en las relaciones, y se sienten más comodos en relaciones donde son tratados de forma congruente con cómo se ven a si mismos.
+**El Principio de la Profezia Autocumplida en las Relaciones:** William Swann, psicologo de la Universidad de Texas, investigó el fenómeno de verificación del yo: la tendencia a buscar información sobre uno mismo que confirme el autoconcepto existente, incluso cuando ese autoconcepto es negativo. Las personas con baja autoestima buscan activamente (de forma inconsciente) confirmación de su baja autoevaluación en las relaciones, y se sienten más cómodos en relaciones donde son tratados de forma congruente con cómo se ven a si mismos.
 
 Este mecanismo crea una trampa relacional: la persona con baja autoestima se aleja de las relaciones donde la tratan bien (porque producen incongruencia con el autoconcepto) y se acerca a las que confirman la baja autoevaluación. Romper este ciclo requiere primero cambiar el autoconcepto, o al menos cuestionar su precisión, para que el tratamiento positivo empiece a sentirse merecido en lugar de sospechoso.
 
@@ -161,7 +161,7 @@ La autoestima no llega un dia de repente. Llega de la acumulación de dias donde
 
 ## Epílogo
 
-Isabel empezó con un solo cambio: decidió no decir si a compromisos que no quería asumir durante un mes. No fue facil. La ansiedad de decepcionar a otros fue real y frecuente. Pero al final del mes descubrió algo que ninguna afirmación positiva le había dado: la experiencia directa de que sus necesidades podían ser defendidas, que el mundo no se derrumbaba cuando decía no, y que había algo en ese acto pequeño y repetido que cambiaba la forma en que se veía a si misma. No que fuera perfecta. Que valia lo suficiente como para tomar espacio.
+Isabel empezó con un solo cambio: decidió no decir si a compromisos que no quería asumir durante un mes. No fue fácil. La ansiedad de decepcionar a otros fue real y frecuente. Pero al final del mes descubrió algo que ninguna afirmación positiva le había dado: la experiencia directa de que sus necesidades podían ser defendidas, que el mundo no se derrumbaba cuando decía no, y que había algo en ese acto pequeño y repetido que cambiaba la forma en que se veía a si misma. No que fuera perfecta. Que valia lo suficiente como para tomar espacio.
 
 ---
 

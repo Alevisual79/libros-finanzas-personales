@@ -23,7 +23,7 @@ Elena lleva meses sintiendose mal después de hablar con alguien específico en 
 
 Una relación toxica se define por un patron consistente de dinámicas que erosionan el bienestar de quien las experimenta, distinguiendose de las dificultades normales que cualquier relación enfrenta ocasionalmente.
 
-**El Principio del Efecto Acumulado como Criterio:** El criterio más confiable para identificar una relación toxica no es un evento dramatico unico, sino el efecto acumulado y consistente en el bienestar de la persona: se siente, en promedio y a lo largo del tiempo, sistemáticamente disminuida, ansiosa o insegura como resultado de esa relación, en contraste con las relaciones saludables que, incluso con sus dificultades normales, generalmente dejan a la persona sintiendose fortalecida.
+**El Principio del Efecto Acumulado como Criterio:** El criterio más confiable para identificar una relación toxica no es un evento dramatico único, sino el efecto acumulado y consistente en el bienestar de la persona: se siente, en promedio y a lo largo del tiempo, sistemáticamente disminuida, ansiosa o insegura como resultado de esa relación, en contraste con las relaciones saludables que, incluso con sus dificultades normales, generalmente dejan a la persona sintiendose fortalecida.
 
 **Ejercicio inmediato:** Para una relación que sospechas podría ser toxica, evalua honestamente: ¿como te sientes, en promedio, después de interactuar con esta persona? ¿Mejor, igual, o sistemáticamente peor que antes de la interacción?
 

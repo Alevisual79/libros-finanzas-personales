@@ -65,7 +65,7 @@ El MVP que más miedo te da lanzar probablemente es el que más necesitas lanzar
 
 Marcos ha aprendido a distinguir las señales reales de validación de las señales de educación social.
 
-**El Principio de la Validación Real como Diferente del Entusiasmo Social porque Solo el Comportamiento del Cliente (No Sus Palabras) Confirma que Hay Demanda Genuina:** Ash Maurya, en Running Lean, propone que el unico nivel de validación que importa es el que el cliente demuestra con sus acciones: si paga (aunque sea una cantidad pequeña como reserva o prepago), si proporciona datos de contacto, si refiere a otros, o si vuelve a usar el producto. Las palabras de entusiasmo sin acción no son validación: son amabilidad.
+**El Principio de la Validación Real como Diferente del Entusiasmo Social porque Solo el Comportamiento del Cliente (No Sus Palabras) Confirma que Hay Demanda Genuina:** Ash Maurya, en Running Lean, propone que el único nivel de validación que importa es el que el cliente demuestra con sus acciones: si paga (aunque sea una cantidad pequeña como reserva o prepago), si proporciona datos de contacto, si refiere a otros, o si vuelve a usar el producto. Las palabras de entusiasmo sin acción no son validación: son amabilidad.
 
 La investigación de Cindy Alvarez sobre el customer development muestra que la señal más confiable de validación es el pago anticipado (el cliente paga por el producto antes de que exista, lo que indica que el problema es lo suficientemente importante para arriesgar dinero real en su solución). La segunda señal más confiable es el uso real cuando existe una versión del producto (uso repetido, no solo inicial).
 
@@ -81,7 +81,7 @@ Carlos ha aprendido a ver la competencia no cómo una amenaza sino como prueba d
 
 **El Principio de la Competencia como Señal de Validación de la Existencia del Mercado porque Si Hay Empresas Que Sobreviven Vendiendo algo Similar, el Problema es Real y el Mercado Paga:** Un error común del emprendedor es interpretar la ausencia de competencia como buena señal. Frecuentemente es la señal contraria: o el mercado no existe (nadie lo ha intentado porque no hay demanda suficiente) o los intentos anteriores fracasaron (lo que requiere entender por qué). La existencia de competencia, por el contrario, es prueba de que hay un mercado que paga.
 
-Mark Cuban propone que si ves a alguien haciendo dinero con algo similar a tu idea, eso es más validador que cualquier investigación de mercado: prueba que hay clientes dispuestos a pagar, que el modelo de negocio puede funcionar, y que la unica pregunta que queda es si tu puedes hacerlo mejor o diferente.
+Mark Cuban propone que si ves a alguien haciendo dinero con algo similar a tu idea, eso es más validador que cualquier investigación de mercado: prueba que hay clientes dispuestos a pagar, que el modelo de negocio puede funcionar, y que la única pregunta que queda es si tu puedes hacerlo mejor o diferente.
 
 **Ejercicio inmediato:** Realiza un análisis de la competencia en dos dimensiones: ¿quien está resolviendo actualmente el mismo problema (aunque de forma diferente), y que estan haciendo mal o que segmento de clientes estan ignorando? Las respuestas a esas dos preguntas te dan tanto la validación de que el mercado existe como el mapa de dónde puede estar tu diferenciación.
 

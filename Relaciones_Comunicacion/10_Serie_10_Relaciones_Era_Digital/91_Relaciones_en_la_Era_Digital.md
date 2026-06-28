@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena tiene cuatrocientas conversaciones activas en su movil. Tiene, según su propia evaluación honesta, cuatro relaciones que considera realmente reales y sostenidas. La hiperconectividad que la tecnología ofrece, descubre con el tiempo, no produce automáticamente conexión genuina. Frecuentemente, simplemente la simula con suficiente convincimiento para que la diferencia tarde en hacerse visible.
+Elena tiene cuatrocientas conversaciones activas en su móvil. Tiene, según su propia evaluación honesta, cuatro relaciones que considera realmente reales y sostenidas. La hiperconectividad que la tecnología ofrece, descubre con el tiempo, no produce automáticamente conexión genuina. Frecuentemente, simplemente la simula con suficiente convincimiento para que la diferencia tarde en hacerse visible.
 
 ---
 
@@ -121,7 +121,7 @@ Desarrollar prácticas conscientes de uso de tecnología, similares al concepto 
 
 **El Principio de la Higiene como práctica Preventiva:** Similar a la higiene física que previene enfermedades, la higiene digital (límites de tiempo de pantalla, zonas y momentos libres de dispositivos, atención consciente a cuando la tecnología está sustituyendo en lugar de complementar la conexión presencial) previene el deterioro relacional que el uso no consciente de tecnología puede generar gradualmente.
 
-**Ejercicio inmediato:** Identifica una práctica específica de higiene digital que podrías implementar esta semana para proteger la calidad de tus relaciones más importantes: una zona libre de moviles, un momento de desconexion consciente, un límite de tiempo en redes sociales.
+**Ejercicio inmediato:** Identifica una práctica específica de higiene digital que podrías implementar esta semana para proteger la calidad de tus relaciones más importantes: una zona libre de móviles, un momento de desconexion consciente, un límite de tiempo en redes sociales.
 
 La higiene digital no es ascetismo tecnologico. Es la misma prevención consciente que aplicarias a cualquier otro aspecto de tu bienestar relacional.
 

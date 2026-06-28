@@ -65,7 +65,7 @@ La empresa que tiene la respuesta más útil a la pregunta del cliente potencial
 
 Carlos ha aprendido que el networking no es coleccionar tarjetas de visita. Es construir relaciones de verdad con personas específicas.
 
-**El Principio del Networking Estratégico como el Proceso de Construir Relaciones de Valor Mutuo con Personas específicas que Pueden Convertirse en Clientes, en Fuentes de Referidos, o en Socios en Lugar de Como Contacto Masivo sin Criterio:** Mark Granovetter en su investigación sobre los lazos debiles demuestra que las mejores oportunidades de negocio (nuevos clientes, socios, colaboradores) llegan frecuentemente a traves de conocidos (lazos debiles) más que de amigos intimos (lazos fuertes): los conocidos tienen acceso a redes de personas y oportunidades diferentes a las nuestras.
+**El Principio del Networking Estratégico como el Proceso de Construir Relaciones de Valor Mutuo con Personas específicas que Pueden Convertirse en Clientes, en Fuentes de Referidos, o en Socios en Lugar de Como Contacto Masivo sin Criterio:** Mark Granovetter en su investigación sobre los lazos débiles demuestra que las mejores oportunidades de negocio (nuevos clientes, socios, colaboradores) llegan frecuentemente a traves de conocidos (lazos débiles) más que de amigos intimos (lazos fuertes): los conocidos tienen acceso a redes de personas y oportunidades diferentes a las nuestras.
 
 Keith Ferrazzi en Never Eat Alone propone que el networking efectivo no es lo que puedes obtener de la relación sino lo que puedes dar: la mentalidad del que genera valor para sus contactos antes de pedir nada produce relaciones más sólidas y más productivas que la del que siempre llega con una petición.
 
@@ -107,7 +107,7 @@ La presencia en todas las redes que no se mantiene no es presencia. Es ruido esp
 
 Carlos ha empezado a construir su lista de email y ha descubierto que es el activo de marketing más valioso que tiene.
 
-**El Principio de la Lista de Email como el Activo de Marketing más Valioso del Emprendedor porque Es el Unico Canal de Comunicación Directa con la Audiencia que No Depende de un Algoritmo Externo:** A diferencia de los seguidores en redes sociales (donde el algoritmo decide cuantos ven tu contenido), los suscriptores de email han dado permiso explícito para recibir tus mensajes directamente en su bandeja de entrada. La investigación de DMA sobre el retorno del email marketing muestra que el retorno promedio del email marketing es de 42 euros por cada euro invertido, significativamente superior a cualquier otro canal de marketing digital.
+**El Principio de la Lista de Email como el Activo de Marketing más Valioso del Emprendedor porque Es el Único Canal de Comunicación Directa con la Audiencia que No Depende de un Algoritmo Externo:** A diferencia de los seguidores en redes sociales (donde el algoritmo decide cuantos ven tu contenido), los suscriptores de email han dado permiso explícito para recibir tus mensajes directamente en su bandeja de entrada. La investigación de DMA sobre el retorno del email marketing muestra que el retorno promedio del email marketing es de 42 euros por cada euro invertido, significativamente superior a cualquier otro canal de marketing digital.
 
 Seth Godin fue el primero en articularar la importancia del permissión marketing: el marketing basado en el permiso del cliente (el email opt-in) es más efectivo porque el receptor ha indicado activamente que le interesa recibir comunicación de la marca.
 

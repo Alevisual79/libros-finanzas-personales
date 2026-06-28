@@ -67,7 +67,7 @@ Isabel pasa tiempo considerable comparandose con sus colegas, sus amigos en rede
 
 **El Principio de la Comparación Social Ascendente como Ciclo sin Fin:** Leon Festinger propuso la teoria de la comparación social: tendemos a evaluar nuestras opiniones y capacidades comparandonos con otros, especialmente con personas similares a nosotros. La comparación ascendente (con personas que percibimos mejores en algun aspecto) produce aspiración o envidia dependiendo de si la brecha parece alcanzable.
 
-El problema estructural de la comparación social como hábito mental es que en el mundo moderno, con acceso a millones de personas a traves de redes sociales, siempre hay alguien más éxito, más atractivo, más inteligente, y más feliz (aparentemente). La comparación ascendente constante produce insatisfacción cronica porque el estandar es siempre movil.
+El problema estructural de la comparación social como hábito mental es que en el mundo moderno, con acceso a millones de personas a traves de redes sociales, siempre hay alguien más éxito, más atractivo, más inteligente, y más feliz (aparentemente). La comparación ascendente constante produce insatisfacción cronica porque el estandar es siempre móvil.
 
 **Ejercicio inmediato:** Monitoriza tu comparación social durante una semana: ¿cuando se activa? ¿Con quien? ¿En que dimensiones? Identifica si hay un patron específico (solo en redes sociales, solo en el trabajo, solo con cierto tipo de personas). El patron informa sobre el contexto específico que activa el hábito y el contexto es donde la intervención es más efectiva.
 
@@ -149,13 +149,13 @@ No puedes dejar de hacer algo sin tener claro con que lo reemplazas. El vacio me
 
 Isabel ha llegado al final del libro con un mapa de sus hábitos mentales toxicos y herramientas para interrumpirlos. El último paso es diseñar el entorno mental que los hace menos probables.
 
-**El Principio del Entorno como Modulador de la Probabilidad de los Hábitos:** James Clear, en Atomicos Hábitos, propone que el entorno tiene tanto impacto sobre los hábitos cómo la fuerza de voluntad. El entorno puede diseñarse para hacer más difíciles los hábitos que se quieren eliminar y más faciles los que se quieren incorporar.
+**El Principio del Entorno como Modulador de la Probabilidad de los Hábitos:** James Clear, en Atomicos Hábitos, propone que el entorno tiene tanto impacto sobre los hábitos cómo la fuerza de voluntad. El entorno puede diseñarse para hacer más difíciles los hábitos que se quieren eliminar y más fáciles los que se quieren incorporar.
 
 En el caso de los hábitos mentales, el entorno relevante incluye: las fuentes de información que se consume (redes sociales que activan la comparación social, noticias que alimentan la preocupación), las personas con quienes se comparte el tiempo (que pueden amplificar o reducir la rumia), y las prácticas regulares que fortalecen la mente (mindfulness, ejercicio, sueño) y que reducen la vulnerabilidad a los hábitos toxicos.
 
 **Ejercicio inmediato:** Identifica un cambio en tu entorno que reduciria la probabilidad de tu hábito mental toxico más costoso. Puede ser reducir el tiempo en redes sociales, tener un protocolo de cierre del dia laboral que interrumpa la rumia sobre el trabajo, o crear una práctica regular de mindfulness que fortalezca el músculo de la observación sin fusión.
 
-El hábito mental que se alimenta de un entorno específico es más debil cuando ese entorno cambia. El entorno es el primer aliado del cambio.
+El hábito mental que se alimenta de un entorno específico es más débil cuando ese entorno cambia. El entorno es el primer aliado del cambio.
 
 ---
 

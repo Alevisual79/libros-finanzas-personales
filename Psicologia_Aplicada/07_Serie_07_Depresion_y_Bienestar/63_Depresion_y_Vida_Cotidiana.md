@@ -53,7 +53,7 @@ Isabel tiene que rendir en el trabajo mientras atraviesa un episodio depresivo. 
 
 **El Principio de las Estrategias de Compensación Cognitiva en el Entorno Laboral:** La depresión produce deterioro en la atención, la memoria de trabajo, y las funciones ejecutivas que puede reducir el rendimiento laboral significativamente. La investigación de Stewart y colegas sobre el presentismo (estar en el trabajo pero con rendimiento reducido) muestra que la depresión no tratada tiene un costo económico mayor que la ausencia por baja, porque el trabajador esta presente pero funcionando a una fracción de su capacidad.
 
-Las estrategias de compensación incluyen: dividir las tareas en pasos pequeños con un unico foco a la vez (la capacidad de multitarea se deteriora significativamente en la depresión), usar sistemas de escritura externalizados (listas, agendas, notas) para compensar las fallas de memoria de trabajo, programar las tareas que requieren mayor concentración en los momentos del dia de mejor funcionamiento, y reducir las fuentes de interrupción durante el trabajo.
+Las estrategias de compensación incluyen: dividir las tareas en pasos pequeños con un único foco a la vez (la capacidad de multitarea se deteriora significativamente en la depresión), usar sistemas de escritura externalizados (listas, agendas, notas) para compensar las fallas de memoria de trabajo, programar las tareas que requieren mayor concentración en los momentos del dia de mejor funcionamiento, y reducir las fuentes de interrupción durante el trabajo.
 
 **Ejercicio inmediato:** Identifica tu hora del dia de mejor funcionamiento cognitivo (para muchos con depresión, la segunda mitad de la mañana). Reserva esa hora para la tarea más importante del dia y protegela de interrupciones. El resto del dia puede ser más reactivo. Una hora de buen trabajo es más productiva que ocho horas de funcionamiento deteriorado.
 
@@ -83,7 +83,7 @@ Ruben sabe que las relaciones le ayudan pero cada interacción social le cuesta 
 
 Estrategias útiles incluyen: priorizar las relaciones que producen mayor apoyo y menor costo (las personas con quienes no hay que actuar como si se estuviera bien), comunicar las limitaciones actuales con honestidad cuando sea posible (decir a alguien de confianza que las cosas estan difíciles en lugar de fingir que todo está bien), y preferir formatos de interacción de menor costo energético (un mensaje de texto en lugar de una llamada cuando la llamada es demasiado exigente).
 
-**Ejercicio inmediato:** Identifica las dos personas en tu vida con quienes la interacción te deja con más energía (o al menos no te consume tanta). Contacta con al menos una de ellas esta semana, en el formato que te sea más facil. No para hablar necesariamente de la depresión, sino simplemente para mantener el contacto.
+**Ejercicio inmediato:** Identifica las dos personas en tu vida con quienes la interacción te deja con más energía (o al menos no te consume tanta). Contacta con al menos una de ellas esta semana, en el formato que te sea más fácil. No para hablar necesariamente de la depresión, sino simplemente para mantener el contacto.
 
 Las relaciones que abandonas en la depresión se enfrían. Las que mantienes, aunque sea de forma reducida, siguen siendo un recurso cuando la depresión remita.
 
@@ -155,7 +155,7 @@ Martin Seligman propone que la expectativa de una recuperación lineal y constan
 
 **Ejercicio inmediato:** La próxima vez que tengas un dia malo en medio de un proceso de recuperación, práctica esta frase: esto es un dia malo, no es toda mi vida. Que hoy sea difícil no significa que mañana lo sea. Esa distinción entre lo temporal y lo permanente es exactamente el tipo de corrección cognitiva que el tratamiento busca instalar.
 
-Los dias malos en la recuperación son parte del mapa, no una desviación del camino. La recuperación no es una linea recta hacía arriba. Es una media movil que, vista con suficiente perspectiva, sube.
+Los dias malos en la recuperación son parte del mapa, no una desviación del camino. La recuperación no es una linea recta hacía arriba. Es una media móvil que, vista con suficiente perspectiva, sube.
 
 ---
 

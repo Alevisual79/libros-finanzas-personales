@@ -143,7 +143,7 @@ No todas las relaciones familiares dañinas requieren un corte total. Algunas re
 
 ## Epílogo
 
-Elena tuvo, finalmente, la conversación que llevaba años evitando con sus padres. Les dijo, con claridad y sin rabia, que necesitaba que confiaran en sus decisiones aunque fueran distintas a las que ellos habrían tomado. No fue una conversación facil. Pero fue el inició de una relación más adulta entre los tres, una que tardo meses en estabilizarse pero que, con el tiempo, resultó más honesta que la que tenían antes.
+Elena tuvo, finalmente, la conversación que llevaba años evitando con sus padres. Les dijo, con claridad y sin rabia, que necesitaba que confiaran en sus decisiones aunque fueran distintas a las que ellos habrían tomado. No fue una conversación fácil. Pero fue el inició de una relación más adulta entre los tres, una que tardo meses en estabilizarse pero que, con el tiempo, resultó más honesta que la que tenían antes.
 
 La relación con tus padres puede cambiar. Pero alguien tiene que dar el primer paso.
 

@@ -55,7 +55,7 @@ Elena ha oido hablar de una ratio magica de tres emociones positivas por cada ne
 
 La investigación de Fredrickson y Marcial Losada, aunque el número específico de la ratio fue cuestionado metodologicamente, confirma el principio general: las personas que florecen psicológicamente muestran consistentemente mayor frecuencia de emociones positivas que las que no florecen. Lo que si es claro es que la ausencia de emociones negativas no es suficiente para el florecimiento: todos los elementos del PERMA son necesarios.
 
-**Ejercicio inmediato:** Evalua brevemente tu situación en cada elemento del PERMA: ¿experimentas emociones positivas con suficiente frecuencia? ¿Te sientes comprometido en estado de flow en alguna actividad? ¿Tienes relaciones que te nutren? ¿Hay algo que de sentido a lo que haces? ¿Sientes que logras cosas que importan? El elemento más debil es probablemente el que más contribuye a cualquier deficit de bienestar.
+**Ejercicio inmediato:** Evalua brevemente tu situación en cada elemento del PERMA: ¿experimentas emociones positivas con suficiente frecuencia? ¿Te sientes comprometido en estado de flow en alguna actividad? ¿Tienes relaciones que te nutren? ¿Hay algo que de sentido a lo que haces? ¿Sientes que logras cosas que importan? El elemento más débil es probablemente el que más contribuye a cualquier deficit de bienestar.
 
 El bienestar no es máximo de alegria. Es suficiente de los cinco elementos que lo componen.
 
@@ -93,11 +93,11 @@ La gratitud que dices de memoria ya no es gratitud. Es un ritual vacio. Necesita
 
 Ruben tiene momentos en que el tiempo parece desaparecer: cuando está escribiendo especialmente bien, cuando toca la guitarra con amigos, cuando resuelve un problema técnico desafiante. Estos momentos son algunos de los más ricos en bienestar de la vida humana.
 
-**El Principio del Flow como Estado Optimo de Experiencia:** Mihaly Csikszentmihalyi define el flow como el estado de absorción completa en una actividad, caracterizado por fusión de la acción y la conciencia, perdida de la autoconsciencia, distorsión del tiempo, sensación de control, y experiencia intrinsecamente recompensante. Las condiciones del flow incluyen un equilibrio específico entre el nivel de desafio y el nivel de habilidad: cuando el desafio excede la habilidad, hay ansiedad; cuando la habilidad excede el desafio, hay aburrimiento; cuando estan equilibrados en nivel suficientemente alto, hay flow.
+**El Principio del Flow como Estado Óptimo de Experiencia:** Mihaly Csikszentmihalyi define el flow como el estado de absorción completa en una actividad, caracterizado por fusión de la acción y la conciencia, perdida de la autoconsciencia, distorsión del tiempo, sensación de control, y experiencia intrinsecamente recompensante. Las condiciones del flow incluyen un equilibrio específico entre el nivel de desafio y el nivel de habilidad: cuando el desafio excede la habilidad, hay ansiedad; cuando la habilidad excede el desafio, hay aburrimiento; cuando estan equilibrados en nivel suficientemente alto, hay flow.
 
 La investigación de Csikszentmihalyi muestra que el flow es una de las fuentes más poderosas de bienestar subjetivo y que puede cultivarse deliberadamente identificando y optimizando las condiciones que lo producen.
 
-**Ejercicio inmediato:** Identifica las dos o tres actividades en tu vida que más frecuentemente producen flow. Para cada una, identifica si el nivel de desafio actual esta en la zona de flow (necesitas toda tu atención) o ya es demasiado facil. Si es lo segundo, diseña una forma de incrementar el nivel de desafio: un objetivo más ambicioso, una restricción que aumenta la dificultad, un nivel de maestria mayor.
+**Ejercicio inmediato:** Identifica las dos o tres actividades en tu vida que más frecuentemente producen flow. Para cada una, identifica si el nivel de desafio actual esta en la zona de flow (necesitas toda tu atención) o ya es demasiado fácil. Si es lo segundo, diseña una forma de incrementar el nivel de desafio: un objetivo más ambicioso, una restricción que aumenta la dificultad, un nivel de maestria mayor.
 
 El estado donde pierdes la noción del tiempo haciendo algo que amas es donde la vida se siente más viva. Protegelo.
 

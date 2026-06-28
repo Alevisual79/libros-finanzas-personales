@@ -23,9 +23,9 @@ Ruben es introvertido en un mundo que valora la extraversión. Sus reuniones de 
 
 La introversión no es timidez. No es ansiedad social. No es ser anti-social.
 
-**El Principio de la Introversión como Diferencia en el Sistema de Activación, no Deficit de Sociabilidad:** Hans Eysenck propuso que la diferencia entre introversión y extraversión refleja diferencias en el sistema de activación cortical: los introvertidos tienen un nivel de activación basal más alto que los extravertidos, lo que significa que requieren menos estimulación externa para mantener el nivel de activación optimo. Los extravertidos tienen activación basal más baja y buscan activamente estimulación externa para alcanzar el nivel optimo.
+**El Principio de la Introversión como Diferencia en el Sistema de Activación, no Deficit de Sociabilidad:** Hans Eysenck propuso que la diferencia entre introversión y extraversión refleja diferencias en el sistema de activación cortical: los introvertidos tienen un nivel de activación basal más alto que los extravertidos, lo que significa que requieren menos estimulación externa para mantener el nivel de activación óptimo. Los extravertidos tienen activación basal más baja y buscan activamente estimulación externa para alcanzar el nivel óptimo.
 
-La implicación práctica: los entornos muy estimulantes (fiestas numerosas, oficinas de espacios abiertos, reuniones largas) activan a los extravertidos hacía su optimo pero sobreactivan a los introvertidos más allá del suyo. El introvertido que se retira de esos entornos no lo hace por fobia social sino por regulación de la activación.
+La implicación práctica: los entornos muy estimulantes (fiestas numerosas, oficinas de espacios abiertos, reuniones largas) activan a los extravertidos hacía su óptimo pero sobreactivan a los introvertidos más allá del suyo. El introvertido que se retira de esos entornos no lo hace por fobia social sino por regulación de la activación.
 
 **Ejercicio inmediato:** Reflexiona sobre tu patron energético en situaciones sociales: ¿te sientes más energizado o más agotado después de una reunión de trabajo con muchas personas? ¿Después de una conversation profunda uno a uno con alguien que te importa? Si la reunión agota y la conversation profunda recarga, es un patron típico de introversión.
 
@@ -57,7 +57,7 @@ Susan Cain, en El poder de los introvertidos, documenta las ventajas de la intro
 
 **Ejercicio inmediato:** Para tu trabajo actual, identifica las tres tareas o situaciones donde tu nivel de introversión es un activo (trabajo profundo, análisis detallado, conversaciones uno a uno) y las tres donde es un costo (presentaciones en grupo, brainstorming oral, interacciones rápidas). Ese mapa te permite diseñar tu trabajo de forma que maximices los primeros y minimices los segundos cuando sea posible.
 
-El trabajo que favorece a los introvertidos no es el trabajo facil. Es el trabajo profundo que los extvertidos frecuentemente esquivan.
+El trabajo que favorece a los introvertidos no es el trabajo fácil. Es el trabajo profundo que los extvertidos frecuentemente esquivan.
 
 ---
 
@@ -79,9 +79,9 @@ La extraversión que funciona en la sala de reuniones puede ser el mismo rasgo q
 
 Ruben necesita tiempo solo después de eventos sociales. Eso no significa que no disfrute de los eventos.
 
-**El Principio de la Recarga Solitaria como Necesidad biológica del Introvertido:** La distinción entre introversión y timidez es crítica para entender la recarga de energía. Un introvertido puede disfrutar genuinamente de los eventos sociales y al mismo tiempo necesitar tiempo solo después para restaurar su nivel de activación optimo. La timidez es miedo a los juicios sociales; la introversión es preferencia por la estimulación menos intensa.
+**El Principio de la Recarga Solitaria como Necesidad biológica del Introvertido:** La distinción entre introversión y timidez es crítica para entender la recarga de energía. Un introvertido puede disfrutar genuinamente de los eventos sociales y al mismo tiempo necesitar tiempo solo después para restaurar su nivel de activación óptimo. La timidez es miedo a los juicios sociales; la introversión es preferencia por la estimulación menos intensa.
 
-La investigación neuroquimica de Robert Depue y colegas sugiere que los extravertidos muestran mayor respuesta del sistema dopaminergico (el sistema de recompensa) ante los estímulos sociales, lo que produce que esos estímulos sean más reforzantes para ellos. Los introvertidos no tienen una respuesta dopaminergica debil en general: la tienen ante estímulos más específicos y de mayor profundidad.
+La investigación neuroquimica de Robert Depue y colegas sugiere que los extravertidos muestran mayor respuesta del sistema dopaminergico (el sistema de recompensa) ante los estímulos sociales, lo que produce que esos estímulos sean más reforzantes para ellos. Los introvertidos no tienen una respuesta dopaminergica débil en general: la tienen ante estímulos más específicos y de mayor profundidad.
 
 **Ejercicio inmediato:** Diseña tu protocolo de recarga para después de los eventos sociales de alta estimulación (reuniones de trabajo, eventos sociales numerosos). El protocolo puede incluir tiempo solo (caminar sin auriculares, leer, descanso), actividad de baja estimulación, o simplemente no programar compromisos sociales en las horas posteriores. Tener el protocolo designado reduce el costo energético de los eventos.
 

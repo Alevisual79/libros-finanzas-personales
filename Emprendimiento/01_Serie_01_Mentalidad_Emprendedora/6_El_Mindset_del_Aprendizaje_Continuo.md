@@ -21,7 +21,7 @@ Marcos lleva dos años como emprendedor y ha notado algo: las personas que más 
 
 ## Capítulo 1: La curva de aprendizaje del emprendedor: como aprender más rápido que el mercado cambia
 
-El mercado cambia más rápido de lo que cualquier formación puede anticipar. La velocidad de aprendizaje es la unica ventaja que dura.
+El mercado cambia más rápido de lo que cualquier formación puede anticipar. La velocidad de aprendizaje es la única ventaja que dura.
 
 **El Principio del Aprendizaje Continuo cómo la Ventaja Competitiva más Sostenible del Emprendedor porque No Puede Ser Imitada tan Facilmente como el Producto o la Tecnologia:** Ray Dalio, en Principles, propone el ciclo de aprendizaje que describe el éxito sostenido: establecer objetivos, actuar, encontrar los problemas, diagnosticar las causas, diseñar soluciones, e implementarlas, y empezar de nuevo. La capacidad de completar ese ciclo más rápidamente que los competidores es lo que produce ventaja sostenible.
 
@@ -53,7 +53,7 @@ Lucia ha aprendido que el mercado es el mejor maestro que tiene, si sabe como es
 
 **El Principio del Mercado como Fuente de Aprendizaje Más Valiosa que Cualquier Curso o Libro para el Emprendedor porque Proporciona Retroalimentación Real sobre Hipótesis Reales:** Eric Ries propone el ciclo construir-medir-aprender como el método central del aprendizaje emprendedor: construir la versión mínima del producto, medir como responde el mercado, y aprender de esa medición para el siguiente ciclo. Este ciclo produce aprendizaje a una velocidad que ninguna formación teorica puede igualar.
 
-La investigación de Steve Blank sobre el customer development (el desarrollo del cliente) muestra que las hipótesis sobre el cliente, el problema, y la solución que los fundadores tienen al inició son casi siempre parcialmente incorrectas, y que el aprendizaje del mercado (a traves de conversaciones con clientes potenciales, experimentos con MVPs, y análisis de los datos de uso) es el unico método para convertir esas hipótesis en conocimiento accionable.
+La investigación de Steve Blank sobre el customer development (el desarrollo del cliente) muestra que las hipótesis sobre el cliente, el problema, y la solución que los fundadores tienen al inició son casi siempre parcialmente incorrectas, y que el aprendizaje del mercado (a traves de conversaciones con clientes potenciales, experimentos con MVPs, y análisis de los datos de uso) es el único método para convertir esas hipótesis en conocimiento accionable.
 
 **Ejercicio inmediato:** Identifica la hipótesis más importante que tu negocio tiene actualmente sobre el cliente, el problema, o la solución que no ha sido validada explicitamente con el mercado real. Diseña el experimento más rápido y barato que podría validarla o refutarla. La semana que viene, ejecuta ese experimento y analiza los resultados. Lo que aprendas de el vale más que cualquier otro aprendizaje que hayas planeado.
 
@@ -135,7 +135,7 @@ El competidor que mejor ejecuta es tu mejor maestro gratuito. Solo tienes que ob
 
 Lucia ha aprendido que los emprendedores que crean los negocios más exitosos frecuentemente ven las tendencias antes de que sean evidentes para todos.
 
-**El Principio del Aprendizaje de las Tendencias como Habilidad que Permite al Emprendedor Posicionarse antes de que la Oportunidad sea Visible para Todo el Mercado:** Paul Graham de Y Combinator propone que los mejores negocios surgen en el cruce de tres elementos: una tendencia que cambia el mercado, un problema real que esa tendencia crea o amplifica, y una solución que es posible gracias a la tendencia. El aprendizaje de las tendencias requiere leer señales debiles antes de que se conviertan en señales fuertes.
+**El Principio del Aprendizaje de las Tendencias como Habilidad que Permite al Emprendedor Posicionarse antes de que la Oportunidad sea Visible para Todo el Mercado:** Paul Graham de Y Combinator propone que los mejores negocios surgen en el cruce de tres elementos: una tendencia que cambia el mercado, un problema real que esa tendencia crea o amplifica, y una solución que es posible gracias a la tendencia. El aprendizaje de las tendencias requiere leer señales débiles antes de que se conviertan en señales fuertes.
 
 Mary Meeker, en su informe anual de tendencias de Internet, ha identificado consistentemente durante dos décadas las tendencias más importantes del ecosistema digital con varios años de anticipación. Su metodología (observar los cambios en los comportamientos de los consumidores antes que en los mercados financieros) es aplicable a cualquier sector.
 

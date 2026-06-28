@@ -97,7 +97,7 @@ Isabel sabe que si hay helado en el congelador, se lo comera. La solución no es
 
 Las estrategias de pre-compromiso incluyen: no comprar lo que no se quiere comer en exceso (no tenerlo en casa), comprometer públicamente los objetivos (aumentar el coste social del incumplimiento), y establecer sistemas de penalización o recompensa condicionados al cumplimiento del comportamiento deseado.
 
-**Ejercicio inmediato:** Para el área donde tu yo presente frecuentemente toma decisiones que tu yo futuro lamenta, diseña un pre-compromiso: ¿que decisión puedes tomar ahora, cuando la tentación no esta activa, que proteja al yo futuro cuando si lo este? La estrategia más efectiva es la que reduce las opciones del yo tentado (no tener el alcohol en casa, no tener el movil en el dormitorio) en lugar de la que le pide que resista.
+**Ejercicio inmediato:** Para el área donde tu yo presente frecuentemente toma decisiones que tu yo futuro lamenta, diseña un pre-compromiso: ¿que decisión puedes tomar ahora, cuando la tentación no esta activa, que proteja al yo futuro cuando si lo este? La estrategia más efectiva es la que reduce las opciones del yo tentado (no tener el alcohol en casa, no tener el móvil en el dormitorio) en lugar de la que le pide que resista.
 
 La batalla de la voluntad en el momento de la tentación siempre es más difícil que la batalla de la arquitectura antes de que la tentación llegue.
 
@@ -125,7 +125,7 @@ Ruben actua por impulso con una frecuencia que le crea problemas. El espacio ent
 
 La investigación de Richard Ryan y Kirk Warren Brown sobre el mindfulness y la autorregulación muestra que las personas con mayor disposición al mindfulness muestran mejor autorregulación emocional, mayor coherencia entre sus valores y comportamientos, y mayor bienestar.
 
-**Ejercicio inmediato:** Para el próximo impulso que notes (el de coger el movil, el de comer algo sin hambre, el de responder con enfado), práctica el espacio de tres segundos: cuando notes el impulso, toma tres respiraciones antes de actuar. No para suprimirlo sino para crear el espacio entre el impulso y la respuesta donde puedes elegir en lugar de solo reaccionar.
+**Ejercicio inmediato:** Para el próximo impulso que notes (el de coger el móvil, el de comer algo sin hambre, el de responder con enfado), práctica el espacio de tres segundos: cuando notes el impulso, toma tres respiraciones antes de actuar. No para suprimirlo sino para crear el espacio entre el impulso y la respuesta donde puedes elegir en lugar de solo reaccionar.
 
 El espacio entre lo que sientes y lo que haces es donde eres libre. Sin ese espacio, eres solo un conjunto de reacciones automáticas.
 
@@ -161,7 +161,7 @@ La dureza contigo mismo cuando fallas no te hace mejor. Te hace más probable de
 
 ## Epílogo
 
-Ruben elimino las apps de compras del movil y solo accede a ellas desde el ordenador. No fue una cuestión de voluntad: fue una cuestión de arquitectura. Sus compras impulsivas disminuyeron un 70% en tres semanas. La voluntad no cambio. El entorno cambio, y el entorno hizo el trabajo que la voluntad no podía sostener sola. Lo mismo hizo con la ropa de deporte la noche anterior, con el movil en otra habitación al dormir, y con el agua en el escritorio en lugar del refresco. Cada cambio de entorno hizo un poco más facil ser la persona que quería ser. Sin que tuviera que esforzarse en ser esa persona cada vez desde cero.
+Ruben elimino las apps de compras del móvil y solo accede a ellas desde el ordenador. No fue una cuestión de voluntad: fue una cuestión de arquitectura. Sus compras impulsivas disminuyeron un 70% en tres semanas. La voluntad no cambio. El entorno cambio, y el entorno hizo el trabajo que la voluntad no podía sostener sola. Lo mismo hizo con la ropa de deporte la noche anterior, con el móvil en otra habitación al dormir, y con el agua en el escritorio en lugar del refresco. Cada cambio de entorno hizo un poco más fácil ser la persona que quería ser. Sin que tuviera que esforzarse en ser esa persona cada vez desde cero.
 
 ---
 

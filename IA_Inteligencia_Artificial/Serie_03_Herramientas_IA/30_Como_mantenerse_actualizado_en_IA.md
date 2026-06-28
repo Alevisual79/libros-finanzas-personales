@@ -196,7 +196,7 @@ La Serie 4 da un giro: de las herramientas a la creatividad. Como la IA está tr
 
 ## Epílogo: La unica constante
 
-En un campo que cambia tan rápido, la unica constante útil es el meta-aprendizaje: la capacidad de aprender a aprender en un dominio nuevo.
+En un campo que cambia tan rápido, la única constante útil es el meta-aprendizaje: la capacidad de aprender a aprender en un dominio nuevo.
 
 Las herramientas específicas de hoy serán obsoletas en tres años. La capacidad de evaluar herramientas nuevas, aprender flujos de trabajo rápidamente y adaptar el conocimiento a nuevos contextos: eso es lo que dura.
 

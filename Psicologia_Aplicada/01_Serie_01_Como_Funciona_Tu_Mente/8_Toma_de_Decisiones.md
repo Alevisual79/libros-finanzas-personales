@@ -23,13 +23,13 @@ Isabel tiene sobre la mesa la decisión más importante de su carrera: aceptar u
 
 La mayoría de las personas toman decisiones importantes usando los mismos procesos cognitivos que usan para decidir que pedir en un restaurante. El problema es que las decisiones importantes (cambio de carrera, inversiones significativas, elecciones de vida) tienen una complejidad, una incertidumbre y unas consecuencias que los procesos intuitivos rápidos no estan equipados para manejar bien.
 
-**El Principio de la Inadecuación del Sistema 1 para Decisiones Complejas:** Daniel Kahneman distingue entre las decisiones que puede tomar bien el Sistema 1 (rápido, intuitivo, basado en patrones aprendidos) y las que requieren el Sistema 2 (lento, deliberado, analitico). Las decisiones optimas en dominios con patrones estables y repetidos y con feedback rápido (un médico experto diagnosticando, un maestro de ajedrez evaluando una posición) pueden tomar bien las decisiones intuitivas rápidas. Las decisiones en dominios novedosos, con alta incertidumbre y consecuencias a largo plazo (elecciones de vida, inversiones, predicciones sobre el futuro) son sistemáticamente peor tomadas por el Sistema 1, independientemente del nivel de confianza que produzca.
+**El Principio de la Inadecuación del Sistema 1 para Decisiones Complejas:** Daniel Kahneman distingue entre las decisiones que puede tomar bien el Sistema 1 (rápido, intuitivo, basado en patrones aprendidos) y las que requieren el Sistema 2 (lento, deliberado, analitico). Las decisiones óptimas en dominios con patrones estables y repetidos y con feedback rápido (un médico experto diagnosticando, un maestro de ajedrez evaluando una posición) pueden tomar bien las decisiones intuitivas rápidas. Las decisiones en dominios novedosos, con alta incertidumbre y consecuencias a largo plazo (elecciones de vida, inversiones, predicciones sobre el futuro) son sistemáticamente peor tomadas por el Sistema 1, independientemente del nivel de confianza que produzca.
 
 El problema es que el Sistema 1 genera confianza subjetiva independientemente de su precisión objetiva. Las personas que deciden siguiendo la tripa en contextos donde la tripa no tiene los datos para decidir bien se sienten tan seguras como las que deciden con evidencia sólida. La confianza no es una señal de calidad de la decisión.
 
 **Ejercicio inmediato:** Para tu próxima decisión importante, identifica si es el tipo de decisión donde la intuición experta podría ser confiable (tienes vasta experiencia en situaciones similares con feedback rápido) o si es el tipo que requiere análisis deliberado (situación nueva, alta incertidumbre, consecuencias a largo plazo). El diagnóstico correcto del tipo de decisión determina el proceso correcto para tomarla.
 
-La confianza que sientes al decidir no te dice nada sobre si la decisión es buena. Solo te dice que tan comodo se siente el Sistema 1 con la elección.
+La confianza que sientes al decidir no te dice nada sobre si la decisión es buena. Solo te dice que tan cómodo se siente el Sistema 1 con la elección.
 
 ---
 
@@ -51,7 +51,7 @@ Los sesgos que más dañan las decisiones importantes son los que menos se notan
 
 Elena evalua si aceptar un proyecto adicional que le propone su empresa. Ha evaluado los beneficios del proyecto. Casi no ha pensado en lo que ese proyecto le impedira hacer si lo acepta.
 
-**El Principio del Costo de Oportunidad como Parte Invisible de cada Decisión:** Los economistas definen el costo de oportunidad como el valor de la mejor alternativa a la que se renuncia al tomar una decisión. El cerebro humano sistemáticamente subestima el costo de oportunidad porque no viene etiquetado de forma visible: cuando se acepta el proyecto A, el cerebro ve los beneficios de A pero no ve automáticamente los beneficios perdidos de B, C y D. Esta asimetria en la visibilidad hace que las personas tomen decisiones sistemáticamente menos optimas de lo que tomarian si el costo de oportunidad fuera igual de visible que los beneficios directos.
+**El Principio del Costo de Oportunidad como Parte Invisible de cada Decisión:** Los economistas definen el costo de oportunidad como el valor de la mejor alternativa a la que se renuncia al tomar una decisión. El cerebro humano sistemáticamente subestima el costo de oportunidad porque no viene etiquetado de forma visible: cuando se acepta el proyecto A, el cerebro ve los beneficios de A pero no ve automáticamente los beneficios perdidos de B, C y D. Esta asimetria en la visibilidad hace que las personas tomen decisiones sistemáticamente menos óptimas de lo que tomarian si el costo de oportunidad fuera igual de visible que los beneficios directos.
 
 Shane Parrish, fundador de Farnam Street y autor de The Great Mental Models, propone forzar la evaluación explícita del costo de oportunidad: cada vez que se evalua una decisión, hacer la pregunta explícita: ¿si acepto esto, a que estoy renunciando específicamente? Esta pregunta explícita saca del modo de evaluación de la opción aislada al modo de comparación entre alternativas, que es donde ocurren las mejores decisiones.
 
@@ -95,7 +95,7 @@ Elena tiene dos decisiones pendientes: cambiar el proveedor de una herramienta d
 
 **El Principio de la Calibración al Nivel de Reversibilidad:** Jeff Bezos popularizó la distinción entre decisiones de tipo 1 (altamente irreversibles, como puertas de una sola via) y tipo 2 (facilmente reversibles, como puertas de doble via). Su argumento es que las organizaciones y personas aplican el mismo nivel de análisis y precaución a ambos tipos, lo que produce lentitud excesiva en las decisiones tipo 2 (que deberían tomarse rápido y revertirse si no funcionan) y potencial imprudencia en las tipo 1 (que merecen más análisis antes del compromiso).
 
-La postura optima frente a una decisión reversible no es la misma que frente a una irreversible. Ante las primeras, la acción rápida con información incompleta y ajuste posterior es frecuentemente superior al análisis prolongado. Ante las segundas, la inversión de mayor tiempo en anticipar consecuencias y escenarios alternativos antes del compromiso produce mejores resultados.
+La postura óptima frente a una decisión reversible no es la misma que frente a una irreversible. Ante las primeras, la acción rápida con información incompleta y ajuste posterior es frecuentemente superior al análisis prolongado. Ante las segundas, la inversión de mayor tiempo en anticipar consecuencias y escenarios alternativos antes del compromiso produce mejores resultados.
 
 **Ejercicio inmediato:** Clasifica tus próximas tres decisiones pendientes en el espectro de reversibilidad. Para las altamente reversibles, decide más rápido de lo que normalmente lo harías y mide los resultados. Para las altamente irreversibles, invierte más análisis del que normalmente destinarias. Calibrar el proceso al tipo de decisión es más eficiente que aplicar el mismo proceso a todas.
 
@@ -121,13 +121,13 @@ Las emociones no son el enemigo de las buenas decisiones. Son sus aliadas cuando
 
 Ruben lleva dos años en un proyecto que no funciona. Ha invertido tiempo, dinero y credibilidad en el. Sabe que probablemente no funcionara. Sigue en el porque no puede soportar la idea de que todo lo invertido haya sido en vano.
 
-**El Principio de la Independencia de los Costos Pasados en las Decisiones Futuras:** La falacia del costo hundido describe la tendencia a continuar una inversión (proyecto, relación, carrera) por el tiempo, dinero o energía ya invertidos, aunque la evaluación racional basada solo en expectativas futuras recomendara discontinuar. Los costos pasados, por definición, no pueden recuperarse independientemente de la decisión futura. La unica pregunta relevante para la decisión presente es: ¿dado donde estamos, cual es la mejor opción de aquí en adelante?
+**El Principio de la Independencia de los Costos Pasados en las Decisiones Futuras:** La falacia del costo hundido describe la tendencia a continuar una inversión (proyecto, relación, carrera) por el tiempo, dinero o energía ya invertidos, aunque la evaluación racional basada solo en expectativas futuras recomendara discontinuar. Los costos pasados, por definición, no pueden recuperarse independientemente de la decisión futura. La única pregunta relevante para la decisión presente es: ¿dado donde estamos, cual es la mejor opción de aquí en adelante?
 
 Daniel Kahneman vincula la falacia del costo hundido con la aversión a la perdida: abandonar una inversión que no funciona implica reconocer la perdida, lo cual activa una aversión psicológica que el cerebro intenta evitar continuando la inversión, aunque eso solo amplifica la perdida total. La capacidad de reconocer la perdida y discontinuar es una de las habilidades de toma de decisiones más importantes y menos intuitivas.
 
 **Ejercicio inmediato:** Identifica un proyecto, relación, hábito o inversión en la que continuas parcialmente por lo que ya invertiste. Pregúntate: ¿si empezara desde cero hoy, sin la historia de lo que ya he invertido, seguiria eligiendo esto? Si la respuesta es no o incierta, la falacia del costo hundido probablemente está influenciando tu decisión de continuar.
 
-Lo que ya invertiste no puede recuperarse. La unica decisión real que tienes es que hacer con lo que queda por delante.
+Lo que ya invertiste no puede recuperarse. La única decisión real que tienes es que hacer con lo que queda por delante.
 
 ---
 

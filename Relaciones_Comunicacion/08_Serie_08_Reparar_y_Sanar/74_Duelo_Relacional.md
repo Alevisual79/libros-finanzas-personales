@@ -47,11 +47,11 @@ El duelo relacional no avanza en linea recta y predecible. Pasa por fases que pu
 
 El duelo específico por la perdida de una relación de pareja combina la perdida de la persona misma con la perdida de un futuro imaginado compartido, generando una experiencia de duelo particularmente compleja.
 
-**El Principio del Duelo Multidimensional de la Ruptura:** El duelo por una ruptura romantica incluye perdidas simultaneas: la persona misma, la identidad que se tenía como parte de esa pareja, los planes de futuro que se habían construido juntos, y frecuentemente también la red social y las rutinas que se habían formado alrededor de la relación. Procesar cada una de estas dimensiones, en lugar de tratarlas cómo un solo dolor generico, facilita el proceso completo.
+**El Principio del Duelo Multidimensional de la Ruptura:** El duelo por una ruptura romantica incluye perdidas simultáneas: la persona misma, la identidad que se tenía como parte de esa pareja, los planes de futuro que se habían construido juntos, y frecuentemente también la red social y las rutinas que se habían formado alrededor de la relación. Procesar cada una de estas dimensiones, en lugar de tratarlas cómo un solo dolor generico, facilita el proceso completo.
 
 **Ejercicio inmediato:** Si estas procesando una ruptura de pareja, identifica específicamente cada una de las perdidas multiples que la ruptura ha generado, más allá de la perdida de la persona misma.
 
-Una ruptura de pareja no es una sola perdida. Es multiples perdidas simultaneas que merecen reconocerse por separado para procesarse completamente.
+Una ruptura de pareja no es una sola perdida. Es multiples perdidas simultáneas que merecen reconocerse por separado para procesarse completamente.
 
 ---
 
@@ -75,7 +75,7 @@ El duelo por el distanciamiento de un familiar, ya sea por decisión propia, dec
 
 **Ejercicio inmediato:** Si has experimentado distanciamiento de un familiar, permite que la ambivalencia de sentir tanto alivio como tristeza coexista, sin sentir que tienes que elegir una sola emoción cómo la verdadera.
 
-El duelo por distanciamiento familiar frecuentemente incluye alivio y tristeza simultaneos. Ambos son reales, y ninguno cancela al otro.
+El duelo por distanciamiento familiar frecuentemente incluye alivio y tristeza simultáneos. Ambos son reales, y ninguno cancela al otro.
 
 ---
 

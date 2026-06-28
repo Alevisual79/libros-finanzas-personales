@@ -57,7 +57,7 @@ El apego seguro no es el fin de los problemas. Es la plataforma desde la que se 
 
 ## Capítulo 3: Apego ansioso: el miedo al abandono
 
-Cada vez que la pareja de Ana tardaba en responder un mensaje, Ana sentía que algo iba mal. Revisaba el movil cada cinco minutos. Interpretaba el silencio como desinteres, el desinteres como distanciamiento, el distanciamiento como el preludio del abandono. Cuando su pareja finalmente respondia, Ana sentía alivio momentaneo seguido de la necesidad de confirmar de nuevo que todo estaba bien. El ciclo nunca terminaba.
+Cada vez que la pareja de Ana tardaba en responder un mensaje, Ana sentía que algo iba mal. Revisaba el móvil cada cinco minutos. Interpretaba el silencio como desinteres, el desinteres como distanciamiento, el distanciamiento como el preludio del abandono. Cuando su pareja finalmente respondia, Ana sentía alivio momentaneo seguido de la necesidad de confirmar de nuevo que todo estaba bien. El ciclo nunca terminaba.
 
 **El Principio del Hiperactivación del Sistema de Apego:** El apego ansioso se caracteriza por la hiperactivación del sistema de apego: una sensibilidad elevada a cualquier señal de alejamiento del otro, real o percibida. Esta hiperactivación fue adaptativa en la infancia cuando el cuidador era impredecible: si a veces estaba y a veces no, la estrategia de supervivencia era vigilar constantemente y amplificar las señales de conexión para asegurarse de no perder al cuidador.
 
@@ -163,7 +163,7 @@ Las relaciones con personas de apego seguro son particularmente potentes como ag
 
 **Ejercicio inmediato:** Escribe una carta a la versión futura de ti mismo con apego más seguro. ¿Que tienes que hacer en los próximos doce meses para acercarte a esa versión? ¿Que relaciones necesitas cultivar? ¿Que patrones necesitas interrumpir? La carta concreta convierte el deseo vago en un plan.
 
-El apego ganado es posible. No es rápido. No es facil. Es posible.
+El apego ganado es posible. No es rápido. No es fácil. Es posible.
 
 ---
 

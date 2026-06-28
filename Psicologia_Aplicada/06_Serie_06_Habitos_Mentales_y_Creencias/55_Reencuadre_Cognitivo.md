@@ -27,7 +27,7 @@ El reencuadre no es pensamiento positivo. Es algo más preciso y más poderoso.
 
 Aaron Beck reformulo esto en terminos cognitivos: las emociones no son respuestas directas a los eventos sino respuestas a las interpretaciones de los eventos. Cambiar la interpretación cambia la emoción. El reencuadre cognitivo es la aplicación deliberada de este principio.
 
-**Ejercicio inmediato:** Piensa en una situación actual que te produce malestar. Describe la interpretación que le das (no el evento sino lo que significa para ti). Luego pregunta: ¿es esta la unica interpretación posible de estos hechos? Genera al menos dos interpretaciones alternativas que sean igualmente posibles desde los datos disponibles. Ese ejercicio es el nucleo del reencuadre.
+**Ejercicio inmediato:** Piensa en una situación actual que te produce malestar. Describe la interpretación que le das (no el evento sino lo que significa para ti). Luego pregunta: ¿es esta la única interpretación posible de estos hechos? Genera al menos dos interpretaciones alternativas que sean igualmente posibles desde los datos disponibles. Ese ejercicio es el nucleo del reencuadre.
 
 Los eventos no tienen significados inherentes. Los significados son asignaciones. Y las asignaciones pueden cambiarse.
 

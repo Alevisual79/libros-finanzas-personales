@@ -41,9 +41,9 @@ Elena ha aprendido de un curso sobre diseño de vida en Stanford una forma de pe
 
 El diseño de vida parte de una premisa liberadora: no hay una vida perfecta esperando ser descubierta sino un espacio de posibilidades entre las que diseñar la vida con la información y los recursos que se tienen en cada momento.
 
-**Ejercicio inmediato:** Diseña tres versiones de tu vida para los próximos cinco años: tres posibilidades genuinamente diferentes que tendrían sentido desde tus valores y tu situación actual. No la perfecta y las dos inferiores: tres opciones igualmente validas que representan direcciones genuinamente diferentes. El ejercicio de diseñar tres versiones (no una) libera el pensamiento de la trampa de la unica respuesta correcta.
+**Ejercicio inmediato:** Diseña tres versiones de tu vida para los próximos cinco años: tres posibilidades genuinamente diferentes que tendrían sentido desde tus valores y tu situación actual. No la perfecta y las dos inferiores: tres opciones igualmente validas que representan direcciones genuinamente diferentes. El ejercicio de diseñar tres versiones (no una) libera el pensamiento de la trampa de la única respuesta correcta.
 
-La vida bien diseñada no es la unica correcta. Es la que has elegido con suficiente información de todas las opciones que tenías.
+La vida bien diseñada no es la única correcta. Es la que has elegido con suficiente información de todas las opciones que tenías.
 
 ---
 

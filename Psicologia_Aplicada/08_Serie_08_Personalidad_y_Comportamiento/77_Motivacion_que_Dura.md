@@ -51,7 +51,7 @@ La motivación que te falta no siempre es fuerza de voluntad. A veces es autonom
 
 Ruben ha tenido momentos en el trabajo donde el tiempo pasa sin sentirlo y el trabajo fluye de forma extraordinaria. Eso tiene nombre y condiciones.
 
-**El Principio del Flujo como Estado de Motivación Intrinseca Optima:** Mihaly Csikszentmihalyi describe el flujo como el estado en el que una persona esta completamente absorbida en una actividad desafiante pero manejable, con concentración completa, perdida de la conciencia del tiempo y de uno mismo, y sensación de control y de significado. Es el estado de motivación intrinseca más intenso que la investigación ha identificado.
+**El Principio del Flujo como Estado de Motivación Intrinseca Óptima:** Mihaly Csikszentmihalyi describe el flujo como el estado en el que una persona esta completamente absorbida en una actividad desafiante pero manejable, con concentración completa, perdida de la conciencia del tiempo y de uno mismo, y sensación de control y de significado. Es el estado de motivación intrinseca más intenso que la investigación ha identificado.
 
 Las condiciones del flujo incluyen: el equilibrio entre el desafio de la tarea y la habilidad de quien la realiza (demasiado desafio produce ansiedad; muy poco produce aburrimiento; el equilibrio produce flujo), la claridad de los objetivos de la tarea, y la retroalimentación inmediata sobre el progreso. La investigación muestra que el flujo ocurre con mayor frecuencia en actividades que tienen estas tres condiciones.
 

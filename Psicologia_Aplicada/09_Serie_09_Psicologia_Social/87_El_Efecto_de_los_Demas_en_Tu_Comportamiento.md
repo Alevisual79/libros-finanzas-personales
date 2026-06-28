@@ -125,7 +125,7 @@ Ruben llegó a una empresa nueva y entendió rápidamente que había normas no e
 
 La investigación de Karl Weick sobre el sensemaking organizacional muestra que los nuevos miembros de un grupo aprenden las normas implícitas observando los comportamientos que son recompensados o castigados socialmente (aunque esas recompensas y castigos sean sutiles: una sonrisa, un silencio, un comentario de aprobación o desaprobación).
 
-**Ejercicio inmediato:** En tu entorno de trabajo o familiar, identifica tres normas implícitas que todos siguen pero que nadie ha articulado explicitamente. Para cada una, reflexiona: ¿esta norma produce el comportamiento que queremos en este grupo? Si la respuesta es no, la unica forma de cambiar una norma implícita es hacerla explícita y discutirla deliberadamente.
+**Ejercicio inmediato:** En tu entorno de trabajo o familiar, identifica tres normas implícitas que todos siguen pero que nadie ha articulado explicitamente. Para cada una, reflexiona: ¿esta norma produce el comportamiento que queremos en este grupo? Si la respuesta es no, la única forma de cambiar una norma implícita es hacerla explícita y discutirla deliberadamente.
 
 La norma que nadie articuló pero todos siguen es frecuentemente la más poderosa de todas. Y la más difícil de cambiar precisamente porque nadie la ve.
 

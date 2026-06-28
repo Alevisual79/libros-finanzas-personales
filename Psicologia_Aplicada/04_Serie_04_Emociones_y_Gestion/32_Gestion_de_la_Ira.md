@@ -23,7 +23,7 @@ Ruben tiene la teoria de que si aguanta suficiente, si nunca explota, si siempre
 
 La ira tiene muy mala reputación. Se asocia con perdida de control, con daño a las relaciones, con violencia. Esta asociación no es injusta: la ira mal gestionada puede producir todo eso. Pero la ira en si misma es una emoción con una función adaptativa que merece ser entendida antes de ser gestionada.
 
-**El Principio de la Ira como Señal de Injusticia:** La ira es la emoción que surge ante la percepción de una injusticia, una violation de límites, o un obstaculo en la persecución de una meta importante. Su función evolutiva es movilizar recursos para responder a estas situaciones: aumenta la energía, focaliza la atención, y prepara al organismo para la acción. Sin ira, la tolerancia de la injusticia sería mucho más facil, lo que sería adaptativo solo en contextos de poder completamente asimétrico.
+**El Principio de la Ira como Señal de Injusticia:** La ira es la emoción que surge ante la percepción de una injusticia, una violation de límites, o un obstaculo en la persecución de una meta importante. Su función evolutiva es movilizar recursos para responder a estas situaciones: aumenta la energía, focaliza la atención, y prepara al organismo para la acción. Sin ira, la tolerancia de la injusticia sería mucho más fácil, lo que sería adaptativo solo en contextos de poder completamente asimétrico.
 
 Dacher Keltner y sus colegas documentan que la ira no solo tiene función individual sino social: las personas que expresan ira apropiada en contextos de injusticia (no ira impulsiva sino ira dirigida a una causa) frecuentemente movilizan respuestas colectivas que reducen la injusticia. La ira que produce cambio social es una forma de ira bien gestionada.
 
@@ -85,7 +85,7 @@ John Gottman identifica cuatro patrones de comunicación que predicen el deterio
 
 **Ejercicio inmediato:** práctica el formato de queja asertiva en tres partes: cuando [situación específica, no evaluación del carácter], yo siento [emoción específica], porque necesito [necesidad subyacente]. Este formato expresa la ira sin atacar al otro, específica el comportamiento en lugar del carácter, e incluye la necesidad que subyace a la queja, lo que facilita la solución.
 
-La ira expresada sin atacar al otro es la unica forma de la ira que puede resolver el problema que la causo.
+La ira expresada sin atacar al otro es la única forma de la ira que puede resolver el problema que la causo.
 
 ---
 
@@ -105,7 +105,7 @@ Rumiar sobre la ira no la procesa. La alimenta. Y un fuego que se alimenta no se
 
 ## Capítulo 7: Ira y relaciones: cuando la rabia daña lo que amas
 
-Ruben tiene claro que su mayor riesgo con la ira no es en situaciones de trabajo sino en su relación de pareja, donde el nivel de confianza y la baja guardia que eso produce hace más facil que la ira se exprese de formas que no elegiria deliberadamente.
+Ruben tiene claro que su mayor riesgo con la ira no es en situaciones de trabajo sino en su relación de pareja, donde el nivel de confianza y la baja guardia que eso produce hace más fácil que la ira se exprese de formas que no elegiria deliberadamente.
 
 **El Principio del Efecto Derrame en las Relaciones Intimas:** Roy Baumeister y sus colegas han investigado el efecto de derrame: la tendencia a descargar el malestar acumulado en entornos de baja seguridad (el trabajo) sobre las personas con quienes tenemos mayor seguridad (la pareja, los hijos). Este efecto produce el patron de la persona que es paciente e impecable en el trabajo pero que llega a casa irritada e intolerante.
 
@@ -165,7 +165,7 @@ No elimines tu ira. Aprende a escucharla sin dejar que ella hable por ti.
 
 ## Epílogo
 
-Ruben dijo la frase. Con voz tranquila, aunque le costara, ante su pareja: cuando llegas tarde sin avisar, me enfado porque siento que no soy una prioridad para ti. La frase era verdad. Era directa. No era un ataque. Y la conversación que siguio, aunque no fue facil, fue la primera en meses en la que ambos terminaron sintiendose escuchados en lugar de atacados. La ira había senalado algo real. Y había encontrado, por primera vez, una forma de decirlo que no rompiera lo que quería proteger.
+Ruben dijo la frase. Con voz tranquila, aunque le costara, ante su pareja: cuando llegas tarde sin avisar, me enfado porque siento que no soy una prioridad para ti. La frase era verdad. Era directa. No era un ataque. Y la conversación que siguio, aunque no fue fácil, fue la primera en meses en la que ambos terminaron sintiendose escuchados en lugar de atacados. La ira había senalado algo real. Y había encontrado, por primera vez, una forma de decirlo que no rompiera lo que quería proteger.
 
 ---
 

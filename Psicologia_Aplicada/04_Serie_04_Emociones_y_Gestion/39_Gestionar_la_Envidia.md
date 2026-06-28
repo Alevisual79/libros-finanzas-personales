@@ -137,9 +137,9 @@ Ruben ha pasado a una posición profesional que sabe que produce envidia en algu
 
 **El Principio de la Gestión del éxito en Entornos de Comparación:** Van de Ven y colegas muestran que las personas objeto de envidia ajena frecuentemente adoptan estrategias de camuflaje del éxito (minimizar los logros públicamente) para reducir la envidia de los otros. Esta estrategia tiene sentido a corto plazo pero puede deteriorar la autenticidad.
 
-La alternativa más funcional incluye: compartir el proceso (no solo el resultado, lo que humaniza el logró y reduce la percepción de que fue facil o inmerecido), destacar la contribución de otros, y mantener conexión genuina con las personas del entorno.
+La alternativa más funcional incluye: compartir el proceso (no solo el resultado, lo que humaniza el logró y reduce la percepción de que fue fácil o inmerecido), destacar la contribución de otros, y mantener conexión genuina con las personas del entorno.
 
-**Ejercicio inmediato:** Si eres consciente de que tu éxito produce envidia en alguien de tu entorno, reflexiona: ¿has compartido el proceso de ese éxito con esa persona? A menudo la envidia del otro se reduce cuando el logró aparece como el resultado de un proceso difícil en lugar de cómo un resultado facil o arbitrario.
+**Ejercicio inmediato:** Si eres consciente de que tu éxito produce envidia en alguien de tu entorno, reflexiona: ¿has compartido el proceso de ese éxito con esa persona? A menudo la envidia del otro se reduce cuando el logró aparece como el resultado de un proceso difícil en lugar de cómo un resultado fácil o arbitrario.
 
 El éxito que muestras sin proceso parece inmerecido. El que muestras con proceso parece humano.
 

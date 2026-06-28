@@ -29,7 +29,7 @@ Este sistema tiene un sesgo hacía los falsos positivos (es mejor percibir una a
 
 **Ejercicio inmediato:** Para tu miedo más limitante en este momento, clasifica la amenaza en alguna de estas categorías: física (daño físico real), social (juicio, rechazó, verguenza), existencial (perdida de seguridad material o de identidad), o moral (daño a algo que valoras). La clasificación específica del tipo de amenaza sugiere la estrategia más útil para abordar el miedo.
 
-El miedo que sientes ante situaciones que no son físicamente peligrosas es tu sistema de alarma mal calibrado para el mundo moderno. No es una señal de que eres debil. Es una señal de que eres humano.
+El miedo que sientes ante situaciones que no son físicamente peligrosas es tu sistema de alarma mal calibrado para el mundo moderno. No es una señal de que eres débil. Es una señal de que eres humano.
 
 ---
 
@@ -151,7 +151,7 @@ Elena ha llegado a un punto donde el miedo todavía esta presente en las situaci
 
 **El Principio del Miedo como Compas de los Valores:** Steven Hayes, creador de la Terapia de Aceptación y Compromiso, propone que el miedo frecuentemente señala en la dirección de lo que más importa: tenemos miedo de perder lo que amamos, de fallar en lo que más nos importa, de ser rechazados por quienes más deseamos conectar. Desde esta perspectiva, el miedo es un brujula de valores: señala hacía lo que es más significativo, aunque de forma negativa (mostrando lo que habría que perder).
 
-La relación madura con el miedo no es la eliminación del miedo sino la capacidad de dialogar con el: escuchó lo que me estas diciendo sobre lo que importa, noto el malestar que produces, y aun así elijo actuar porque lo que señalas importa demasiado como para dejar que seas el unico factor que determine mis decisiones.
+La relación madura con el miedo no es la eliminación del miedo sino la capacidad de dialogar con el: escuchó lo que me estas diciendo sobre lo que importa, noto el malestar que produces, y aun así elijo actuar porque lo que señalas importa demasiado como para dejar que seas el único factor que determine mis decisiones.
 
 **Ejercicio inmediato:** Para tu miedo más limitante, escribe una breve carta a ese miedo en segunda persona: gracias por señalar que esto importa. Te escuchó. Y aun así voy a actuar, porque la razón por la que tienes tanto poder aquí es exactamente la razón por la que no puedo permitir que seas el que decide. Ese diálogo interno, que puede parecer teatral, es una forma de relación con el miedo que lo incluye sin dejar que lo gobierne todo.
 

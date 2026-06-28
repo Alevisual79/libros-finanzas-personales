@@ -71,7 +71,7 @@ No todo conflicto necesita que alguien intervenga. Pero el que cumple los criter
 
 Las conversaciones difíciles en el contexto laboral, similares en estructura a las conversaciones difíciles en cualquier relación, se benefician de un enfoque estructurado que separa los hechos, las emociones y las identidades en juego.
 
-**El Principio de las Tres Conversaciones Simultaneas:** Basandose en el modelo de Stone, Patton y Heen sobre conversaciones difíciles, cada conversación de conflicto laboral incluye simultaneamente una conversación sobre los hechos (que paso realmente, que es disputado), una conversación sobre las emociones (que sienten las partes involucradas), y una conversación sobre la identidad (que dice esta situación sobre quien soy como profesional). Abordar las tres dimensiones, en lugar de solo la primera, produce conversaciones más efectivas.
+**El Principio de las Tres Conversaciones Simultáneas:** Basandose en el modelo de Stone, Patton y Heen sobre conversaciones difíciles, cada conversación de conflicto laboral incluye simultaneamente una conversación sobre los hechos (que paso realmente, que es disputado), una conversación sobre las emociones (que sienten las partes involucradas), y una conversación sobre la identidad (que dice esta situación sobre quien soy como profesional). Abordar las tres dimensiones, en lugar de solo la primera, produce conversaciones más efectivas.
 
 **Ejercicio inmediato:** Para una conversación difícil pendiente en el trabajo, prepara tu enfoque considerando las tres dimensiones: que hechos necesitas clarificar, que emociones podrían estar presentes (las tuyas y las del otro), y que preocupaciones de identidad profesional podrían estar en juego.
 

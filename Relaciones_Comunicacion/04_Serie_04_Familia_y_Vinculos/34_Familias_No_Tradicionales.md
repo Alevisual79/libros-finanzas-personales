@@ -83,7 +83,7 @@ La ciencia es clara: lo que daña a los hijos de familias diversas no es la estr
 
 ## Capítulo 6: Familias de acogida y adopción
 
-Las familias formadas mediante acogida o adopción enfrentan desafios unicos relacionados con la formación del vinculó de apego, especialmente cuando los hijos llegan después de experiencias previas de perdida o trauma.
+Las familias formadas mediante acogida o adopción enfrentan desafios únicos relacionados con la formación del vinculó de apego, especialmente cuando los hijos llegan después de experiencias previas de perdida o trauma.
 
 **El Principio del Apego Reparador:** Los niños que llegan a familias de acogida o adopción después de experiencias adversas tempranas se benefician enormemente de un enfoque de crianza informado en trauma, que entiende que los comportamientos difíciles que puedan presentar a menudo son respuestas adaptativas a experiencias previas, no rasgos de carácter fijos. El apego seguro puede formarse en estas circunstancias, pero generalmente requiere más tiempo, paciencia y, frecuentemente, apoyo profesional especializado que en la crianza biológica típica.
 

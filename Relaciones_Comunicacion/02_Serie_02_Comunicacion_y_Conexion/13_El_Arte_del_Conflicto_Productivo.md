@@ -71,9 +71,9 @@ Crítica el comportamiento. Respeta a la persona.
 
 El conflicto sube como el agua en una olla sin tapa. El tono aumenta. Las palabras se vuelven más duras. Los argumentos se sustituyen por ataques. En algun momento alguien dice algo que no debería. La escalada es el momento en que el conflicto deja de ser sobre el tema y empieza a ser sobre el conflicto mismo.
 
-**El Principio de la Detección Temprana:** La escalada tiene una trayectoria predecible: primero aumenta la activación fisiológica, luego la capacidad cognitiva se reduce, finalmente el control sobre lo que se dice se pierde. El momento optimo para intervenir es el primero, antes de que la activación sea tan alta que la desescalada sea imposible.
+**El Principio de la Detección Temprana:** La escalada tiene una trayectoria predecible: primero aumenta la activación fisiológica, luego la capacidad cognitiva se reduce, finalmente el control sobre lo que se dice se pierde. El momento óptimo para intervenir es el primero, antes de que la activación sea tan alta que la desescalada sea imposible.
 
-Las investigaciones de Gottman muestran que cuando la frecuencia cardiaca supera los 100 latidos por minuto, la capacidad de escuchar, procesar y responder de forma no reactiva se deteriora significativamente. En ese estado, la unica intervención eficaz es el tiempo fuera.
+Las investigaciones de Gottman muestran que cuando la frecuencia cardiaca supera los 100 latidos por minuto, la capacidad de escuchar, procesar y responder de forma no reactiva se deteriora significativamente. En ese estado, la única intervención eficaz es el tiempo fuera.
 
 **Ejercicio inmediato:** Identifica las primeras señales en tu cuerpo de que un conflicto está escalando: tensión en el pecho, calor en la cara, voz que sube. Esas señales son tu sistema de alarma temprana. La próxima vez que las detectes, tienes la opción de desescalar antes de que sea necesario parar del todo.
 
@@ -87,7 +87,7 @@ Cuando el conflicto esta demasiado caliente, parar no es huir. Es una intervenci
 
 **El Principio del Tiempo Fuera Acordado:** El tiempo fuera funciona cuando tiene tres elementos: es acordado (no unilateral), tiene una duración establecida (al menos veinte minutos para que el sistema nervioso vuelva a la linea base), y termina con la vuelta a la conversación. El tiempo fuera que no cumple estos tres elementos puede convertirse en castigo, evitación o cierre encubierto.
 
-Veinticinco minutos es el mínimo que tarda el sistema nervioso en recuperarse de la activación aguda del conflicto. Menos tiempo no produce la recuperación. El tiempo fuera optimo es de veinte a treinta minutos de actividad distractora sin rumiar sobre el conflicto.
+Veinticinco minutos es el mínimo que tarda el sistema nervioso en recuperarse de la activación aguda del conflicto. Menos tiempo no produce la recuperación. El tiempo fuera óptimo es de veinte a treinta minutos de actividad distractora sin rumiar sobre el conflicto.
 
 **Ejercicio inmediato:** La próxima vez que un conflicto este escalando, propone: necesito veinte minutos, vuelvo a las (hora concreta) para seguir. El margen de tiempo da al otro la seguridad de que no se está evitando el tema. Solo se está haciendo espacio para tenerlo mejor.
 

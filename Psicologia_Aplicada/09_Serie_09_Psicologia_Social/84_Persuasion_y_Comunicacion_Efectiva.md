@@ -135,7 +135,7 @@ El argumento que tu cuerpo no apoya llega debilitado aunque las palabras sean pe
 
 Elena tiene conversaciones pendientes que ha estado evitando porque no sabe como empezarlas.
 
-**El Principio de las Conversaciones Dificiles como Inevitables y con Mayor Coste Cuando se Postergan:** Douglas Stone, Bruce Patton, y Sheila Heen de Harvard proponen en Conversaciones Dificiles que prácticamente todas las conversaciones difíciles tienen tres capas: la capa de que paso (el desacuerdo sobre los hechos o las intenciones), la capa de sentimientos (las emociones que ambas partes sienten pero frecuentemente no expresan), y la capa de identidad (como afecta la situación a la imagen de cada uno).
+**El Principio de las Conversaciones Difíciles como Inevitables y con Mayor Coste Cuando se Postergan:** Douglas Stone, Bruce Patton, y Sheila Heen de Harvard proponen en Conversaciones Difíciles que prácticamente todas las conversaciones difíciles tienen tres capas: la capa de que paso (el desacuerdo sobre los hechos o las intenciones), la capa de sentimientos (las emociones que ambas partes sienten pero frecuentemente no expresan), y la capa de identidad (como afecta la situación a la imagen de cada uno).
 
 Las conversaciones difíciles que se postergan generalmente empeoran porque los hechos se acumulan, las emociones crecen, y la identidad del otro se fija en una posición que cada vez es más difícil de revisar. El coste de iniciarlas generalmente es menor que el coste de postergarlas.
 

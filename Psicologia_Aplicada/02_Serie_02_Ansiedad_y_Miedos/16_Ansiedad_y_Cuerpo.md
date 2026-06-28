@@ -57,7 +57,7 @@ Robert Fried, fisiologo que ha investigado la respiración y la ansiedad, docume
 
 **Ejercicio inmediato:** práctica la respiración diafragmatica ahora: coloca una mano en el pecho y otra en el abdomen. Inhala de forma que solo se mueva la mano del abdomen (no la del pecho), durante cuatro segundos. Exhala durante seis segundos. Si después de cinco ciclos sientes mareo leve, es señal de que habitualmente hiperventilas. práctica este patron diez minutos al dia durante dos semanas.
 
-La respiración es el unico sistema autonomo que puedes controlar voluntariamente. Usarla no es un truco. Es ciencia.
+La respiración es el único sistema autonomo que puedes controlar voluntariamente. Usarla no es un truco. Es ciencia.
 
 ---
 

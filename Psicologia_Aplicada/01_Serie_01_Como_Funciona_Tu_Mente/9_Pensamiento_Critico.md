@@ -51,7 +51,7 @@ Que dos cosas ocurran juntas no significa que una cause la otra. Este error de i
 
 Elena debate sobre política laboral con un colega. El argumento del colega suena convincente. Pero hay algo que no encaja. Elena no puede identificar exactamente que es. Probablemente es una falacia lógica: un argumento que tiene la apariencia de ser valido pero que contiene un error estructural que invalida la conclusión.
 
-**El Principio del catálogo de Falacias como Herramienta de Evaluación:** Las falacias lógicas son patrones de argumento invalido que se repiten con suficiente frecuencia como para haber sido catalogadas y nombradas. Algunos ejemplos clásicos: el ad hominem (atacar al mensajero en lugar del mensaje), el hombre de paja (refutar una versión distorsionada del argumento del oponente en lugar del argumento real), la falacia del pendiente resbaladizo (asumir que A llevara inevitablemente a Z sin argumentar los pasos intermedios), el apelo a la autoridad (aceptar una afirmación porque la dice alguien famoso), y la falacia de la falsa dicotomia (presentar dos opciones como las unicas posibles cuando hay más).
+**El Principio del catálogo de Falacias como Herramienta de Evaluación:** Las falacias lógicas son patrones de argumento invalido que se repiten con suficiente frecuencia como para haber sido catalogadas y nombradas. Algunos ejemplos clásicos: el ad hominem (atacar al mensajero en lugar del mensaje), el hombre de paja (refutar una versión distorsionada del argumento del oponente en lugar del argumento real), la falacia del pendiente resbaladizo (asumir que A llevara inevitablemente a Z sin argumentar los pasos intermedios), el apelo a la autoridad (aceptar una afirmación porque la dice alguien famoso), y la falacia de la falsa dicotomia (presentar dos opciones como las únicas posibles cuando hay más).
 
 El conocimiento explícito de las falacias lógicas no hace al pensador crítico inmune a cometer errores. Pero si aumenta significativamente la capacidad de identificarlos en argumentos propios y ajenos. El catálogo de falacias es, en ese sentido, una herramienta cognitiva que amplifica la capacidad de evaluación crítica de cualquier argumento.
 
@@ -113,7 +113,7 @@ La solución no es eliminar las propias preferencias (imposible) sino aplicar ac
 
 **Ejercicio inmediato:** Para una creencia importante que mantienes actualmente, dedica treinta minutos a buscar activamente los tres argumentos o evidencias más sólidos en su contra. No para cambiar necesariamente la creencia, sino para asegurarte de que tu comprensión de la evidencia total es genuina y no selectiva.
 
-La creencia que no puede sobrevivir la búsqueda activa de su mejor refutación es debil aunque sea comoda.
+La creencia que no puede sobrevivir la búsqueda activa de su mejor refutación es débil aunque sea cómoda.
 
 ---
 

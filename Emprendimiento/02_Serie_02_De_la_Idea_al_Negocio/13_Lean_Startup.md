@@ -65,7 +65,7 @@ El MVP que te da vergüenza lanzar frecuentemente es el correcto. Lo que te aver
 
 Marcos ha aprendido a distinguir las metricas que le hacen sentir bien de las que le dicen si el negocio está funcionando.
 
-**El Principio de las Metricas Accionables como las Unicas que Merecen Atención Regular porque Conectan las Acciones del Negocio con los Resultados de Cliente de Forma Que Produce Decisiones Mejores:** Ries distingue entre las vanity metrics (metricas que hacen que el emprendedor se sienta bien pero que no informan decisiones: número de usuarios registrados, seguidores en redes sociales, páginas vistas) y las actionable metrics (metricas que conectan acciones específicas con resultados específicos: porcentaje de usuarios activos, tasa de retención, conversión de prueba a pago, net promoter score).
+**El Principio de las Metricas Accionables como las Únicas que Merecen Atención Regular porque Conectan las Acciones del Negocio con los Resultados de Cliente de Forma Que Produce Decisiones Mejores:** Ries distingue entre las vanity metrics (metricas que hacen que el emprendedor se sienta bien pero que no informan decisiones: número de usuarios registrados, seguidores en redes sociales, páginas vistas) y las actionable metrics (metricas que conectan acciones específicas con resultados específicos: porcentaje de usuarios activos, tasa de retención, conversión de prueba a pago, net promoter score).
 
 Dave McClure de 500 Startups propone el marcó AARRR (Acquisition, Activation, Retention, Revenue, Referral) como las cinco metricas fundamentales del funnel de cualquier negocio digital. Para cada negocio, las metricas específicas en cada etapa varian, pero el marcó asegura que se mide todo el proceso de conversión, no solo la parte inicial.
 
@@ -93,7 +93,7 @@ El pivot que el mercado te está sugiriendo y que todavía no has hecho es la op
 
 Lucia ha aprendido que el aprendizaje que no se basa en datos de comportamiento real no cuenta como aprendizaje validado.
 
-**El Principio del Aprendizaje Validado como el Unico Tipo de Aprendizaje que Cuenta en el Lean Startup porque Es el Que Se Basa en Evidencia del Comportamiento Real del Cliente:** El aprendizaje validado, en el marcó del Lean Startup, es la evidencia del comportamiento real del cliente (lo que hace, no lo que dice) que confirma o refuta una hipótesis específica sobre el negocio. El aprendizaje no validado (lo que el emprendedor cree haber aprendido basado en opiniones, suposiciones, o conversaciones no estructuradas) puede ser correcto pero no es confiable.
+**El Principio del Aprendizaje Validado como el Único Tipo de Aprendizaje que Cuenta en el Lean Startup porque Es el Que Se Basa en Evidencia del Comportamiento Real del Cliente:** El aprendizaje validado, en el marcó del Lean Startup, es la evidencia del comportamiento real del cliente (lo que hace, no lo que dice) que confirma o refuta una hipótesis específica sobre el negocio. El aprendizaje no validado (lo que el emprendedor cree haber aprendido basado en opiniones, suposiciones, o conversaciones no estructuradas) puede ser correcto pero no es confiable.
 
 La investigación de Michael Ballé sobre el lean learning muestra que el aprendizaje en contextos de alta incertidumbre requiere ir a ver (gemba walk en lean manufacturing): observar directamente el comportamiento del cliente en su contexto real en lugar de inferirlo desde lejos. El emprendedor que observa como su cliente usa el producto in situ aprende cosas que las metricas y las entrevistas no revelan.
 
@@ -149,7 +149,7 @@ El equipo que aprende de los fracasos de otros no necesita cometerlos todos el m
 
 Marcos ha llegado a entender que el Lean Startup no es un proceso que se aplica durante el lanzamiento. Es una cultura que debe mantenerse durante toda la vida del negocio.
 
-**El Principio de la Cultura Lean como Disposition Organizacional Permanente hacía la Prueba y el Aprendizaje que Determina la Capacidad de Adaptación del Negocio en el Largo Plazo:** La investigación de Rita McGrath sobre la ventaja competitiva transitoria muestra que en mercados que cambian rápidamente, la ventaja competitiva ya no puede mantenerse de forma indefinida: las ventajas se crean y se erosionan más rápido que antes, y la capacidad de crear nuevas ventajas (a traves de la experimentación y el aprendizaje continuo) es la unica ventaja que dura.
+**El Principio de la Cultura Lean como Disposition Organizacional Permanente hacía la Prueba y el Aprendizaje que Determina la Capacidad de Adaptación del Negocio en el Largo Plazo:** La investigación de Rita McGrath sobre la ventaja competitiva transitoria muestra que en mercados que cambian rápidamente, la ventaja competitiva ya no puede mantenerse de forma indefinida: las ventajas se crean y se erosionan más rápido que antes, y la capacidad de crear nuevas ventajas (a traves de la experimentación y el aprendizaje continuo) es la única ventaja que dura.
 
 Amazon, quince años después de fundarla, sigue aplicando los principios del Lean Startup en cada nueva iniciativa: lanzar MVPs, medir los resultados, aprender del mercado, y escalar lo que funciona o matar lo que no. Esa cultura de experimentación continua es la que les ha permitido diversificar de forma exitosa en mercados radicalmente diferentes.
 

@@ -113,7 +113,7 @@ La investigación de Michael Steger sobre el proposito y el bienestar muestra qu
 
 **Ejercicio inmediato:** Escribe en dos párrafos la respuesta a la pregunta: ¿por qué empece este negocio y para qué existe más allá de ganar dinero? Si la respuesta que escribes no te produce ningún nivel de energía o emoción al leerla, el proposito que has articulado todavía no es el real o se ha erosionado. Un proposito que conecta con algo genuinamente importante para ti es el que produce resiliencia. Uno que suena bien pero no lo sientes como tuyo no produce lo mismo.
 
-El dia que no tienes ganas de seguir, el proposito es lo unico que importa. Sin el, ese dia es el último. Con el, es solo un dia difícil.
+El dia que no tienes ganas de seguir, el proposito es lo único que importa. Sin el, ese dia es el último. Con el, es solo un dia difícil.
 
 ---
 
@@ -149,7 +149,7 @@ La resiliencia que no has vivido todavía ya la han vivido otros antes que tu. V
 
 Lucia ha llegado a entender que su mayor ventaja competitiva no es su producto, ni su equipo, ni su tecnología. Es su capacidad de seguir cuando la mayoría abandona.
 
-**El Principio de la Resiliencia como Ventaja Competitiva Duradero en el Emprendimiento porque la Mayor Parte de la Competencia Abandona Antes del Punto de Inflexion:** Scott Adams, creador de Dilbert, propuso que no se necesita ser el mejor en muchas cosas: solo se necesita ser razonablemente bueno en varias cosas para tener una ventaja unica. Para muchos emprendedores, la combinación de competencia suficiente en el dominio y resiliencia suficiente para mantenerse en el juego más tiempo que la competencia es la formula del éxito a largo plazo.
+**El Principio de la Resiliencia como Ventaja Competitiva Duradero en el Emprendimiento porque la Mayor Parte de la Competencia Abandona Antes del Punto de Inflexion:** Scott Adams, creador de Dilbert, propuso que no se necesita ser el mejor en muchas cosas: solo se necesita ser razonablemente bueno en varias cosas para tener una ventaja única. Para muchos emprendedores, la combinación de competencia suficiente en el dominio y resiliencia suficiente para mantenerse en el juego más tiempo que la competencia es la formula del éxito a largo plazo.
 
 La investigación de Robert Sutton sobre la innovación en las organizaciones muestra que la mayoría de las innovaciones exitosas vinieron de proyectos que habían sobrevivido multiples intentos de cancelación antes de encontrar el product-market fit. La resiliencia del proyecto (y del equipo que lo lleva) fue lo que determino que llegará al punto donde el éxito era posible.
 

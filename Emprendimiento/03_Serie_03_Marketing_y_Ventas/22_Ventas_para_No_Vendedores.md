@@ -83,7 +83,7 @@ Carlos ha aprendido que el cierre de ventas no es el momento en que presionas al
 
 Jeffrey Gitomer propone que el mejor cierre de ventas no es una técnica sino una pregunta que facilita la decisión: ¿basandonos en lo que hemos hablado, tiene sentido seguir adelante? Esa pregunta, formulada cuando el cliente ha manifestado suficiente interés y las objeciones principales han sido respondidas, facilita la decisión sin presión.
 
-**Ejercicio inmediato:** práctica tres preguntas de cierre sin presión para usar al final de tu próxima conversación de ventas: ¿tiene sentido seguir adelante con los próximos pasos?, que necesitas para sentirte comodo con esta decisión?, o hay algo que te impida empezar esta semana?. Esas preguntas facilitan la decisión en lugar de presionar para ella. Si la respuesta es no o todavía no, pregunta que hace falta para que tenga sentido en el futuro.
+**Ejercicio inmediato:** práctica tres preguntas de cierre sin presión para usar al final de tu próxima conversación de ventas: ¿tiene sentido seguir adelante con los próximos pasos?, que necesitas para sentirte cómodo con esta decisión?, o hay algo que te impida empezar esta semana?. Esas preguntas facilitan la decisión en lugar de presionar para ella. Si la respuesta es no o todavía no, pregunta que hace falta para que tenga sentido en el futuro.
 
 El cierre que presiona al cliente para qué diga si puede conseguir la firma pero pierde el cliente.
 
@@ -121,7 +121,7 @@ El vendedor que tiene un solo estilo gana a los clientes que encajan en ese esti
 
 Carlos ha aprendido que una propuesta de ventas bien estructurada hace gran parte del trabajo de cierre.
 
-**El Principio de la Propuesta de Ventas como Documento que Articula el Problema del Cliente, la Solución específica, el Proceso, y el Resultado Esperado de Forma que el Cliente Vea Con Claridad el Valor que Recibe:** Alan Weiss en Value-Based Fees propone que la propuesta de ventas más efectiva no presenta el producto o el precio primero sino el resultado que el cliente alcanzara: el problema que se resolvera, la mejora específica que experimentara, y el impacto en su negocio o vida. El precio, en esa estructura, viene después del valor y es mucho más facil de justificar cuando el cliente ya ha visualizado el resultado.
+**El Principio de la Propuesta de Ventas como Documento que Articula el Problema del Cliente, la Solución específica, el Proceso, y el Resultado Esperado de Forma que el Cliente Vea Con Claridad el Valor que Recibe:** Alan Weiss en Value-Based Fees propone que la propuesta de ventas más efectiva no presenta el producto o el precio primero sino el resultado que el cliente alcanzara: el problema que se resolvera, la mejora específica que experimentara, y el impacto en su negocio o vida. El precio, en esa estructura, viene después del valor y es mucho más fácil de justificar cuando el cliente ya ha visualizado el resultado.
 
 La investigación de Tom Sant sobre las propuestas de ventas ganadoras muestra que las que tienen mayor tasa de éxito empiezan siempre con el problema del cliente (demostrando que lo entiendes), proponen la solución específica para ese problema específico, y presentan el precio en relación con el valor creado (no en abstracto).
 
@@ -139,7 +139,7 @@ Lucia ha tenido que ajustar completamente su proceso de ventas cuando ha empezad
 
 La investigación de CEB (ahora Gartner) sobre el proceso de compra B2B muestra que el comprador B2B típico ha completado el 57% del proceso de decisión antes de contactar con un vendedor: ha investigado el problema, las soluciones posibles, y los competidores antes de hablar con nadie de ventas. Eso significa que el contenido (blog, casos de estudio, whitepapers) que educa al comprador durante ese proceso es fundamental en ventas B2B.
 
-**Ejercicio inmediato:** Si tu negocio vende a empresas (B2B), identifica para tu cliente tipo cuantas personas distintas estan involucradas en la decisión de compra y cuales son los criterios que más pesan para cada una: el usuario del producto (que quiere que funcione bien y le haga la vida más facil), el decisión-maker (que quiere el mejor resultado para el negocio al menor riesgo), y el área financiera (que quiere el mejor precio y las mejores condiciones). Tu proceso de ventas debe abordar los criterios de cada uno, no solo del que tiene la primera conversación contigo.
+**Ejercicio inmediato:** Si tu negocio vende a empresas (B2B), identifica para tu cliente tipo cuantas personas distintas estan involucradas en la decisión de compra y cuales son los criterios que más pesan para cada una: el usuario del producto (que quiere que funcione bien y le haga la vida más fácil), el decisión-maker (que quiere el mejor resultado para el negocio al menor riesgo), y el área financiera (que quiere el mejor precio y las mejores condiciones). Tu proceso de ventas debe abordar los criterios de cada uno, no solo del que tiene la primera conversación contigo.
 
 El vendedor B2B que solo convence al usuario pero ignora al decisión-maker pierde más ventas en el comite de las que gana en la primera reunión.
 

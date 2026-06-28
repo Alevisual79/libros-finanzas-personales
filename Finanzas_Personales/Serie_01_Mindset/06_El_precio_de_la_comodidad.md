@@ -245,7 +245,7 @@ Hay una forma de comodidad que es especialmente peligrosa porque no se reconoce 
 
 Es el confort del pesimismo.
 
-Las personas pesimistas no se ven a sí mismas como comodas. Se ven como realistas.
+Las personas pesimistas no se ven a sí mismas como cómodas. Se ven como realistas.
 
 "Es que el mercado está mal."
 "Es que en España no hay oportunidades."

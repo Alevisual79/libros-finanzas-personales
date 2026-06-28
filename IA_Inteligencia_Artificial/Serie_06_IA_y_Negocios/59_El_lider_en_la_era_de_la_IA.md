@@ -24,7 +24,7 @@ Ruben implementó IA en su agencia con foco en El líder en la era de la IA. El 
 Isabel aplico los principios de El líder en la era de la IA a la gestión de personas. La clave fue empezar pequeño: un proceso, un equipo, con metricas claras de éxito.
 
 ## Capítulo 6: El caso de Elena
-Elena evaluó e implementó herramientas de IA para El líder en la era de la IA en su empresa. Su principal aprendizaje: la tecnología es facil; la gestión del cambio es el trabajo real.
+Elena evaluó e implementó herramientas de IA para El líder en la era de la IA en su empresa. Su principal aprendizaje: la tecnología es fácil; la gestión del cambio es el trabajo real.
 
 ## Capítulo 7: Implementación paso a paso
 La metodología de implementación: diagnóstico (2 semanas), selección de herramientas (2 semanas), piloto controlado (1 mes), evaluación y expansión o ajuste (1 mes).

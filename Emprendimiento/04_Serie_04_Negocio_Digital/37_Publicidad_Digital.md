@@ -95,7 +95,7 @@ Carlos ha rediseñado sus landing pages de publicidad y ha triplicado su tasa de
 
 **El Principio de La Landing Page de Publicidad como La página específicamente Diseñada para Convertir el Trafico del Anuncio en La Acción de Valor (Lead, Venta, Registro) que Debe Tener Coherencia de Mensaje con El Anuncio y Eliminar Toda Fricción del Proceso de Conversión:** La tasa de conversión de un anuncio no depende solo del anuncio: depende en igual o mayor medida de la landing page a la que lleva el clic. Un buen anuncio que lleva a una mala landing page tiene baja conversión. Un anuncio mediocre que lleva a una landing page excelente puede tener alta conversión.
 
-La investigación de Unbounce sobre los factores de conversión de landing pages muestra que las páginas con mayor conversión tienen cinco características comunes: coherencia de mensaje con el anuncio que trajo al usuario (el titular de la página usa las mismas palabras que el anuncio para confirmar que el usuario ha llegado al lugar correcto), una unica llamada a la acción (sin multiples opciones que confunden), prueba social relevante (testimonios o casos de éxito específicos), un formulario simple (cuanto menos campos, mayor conversión), y velocidad de carga rápida en movil.
+La investigación de Unbounce sobre los factores de conversión de landing pages muestra que las páginas con mayor conversión tienen cinco características comunes: coherencia de mensaje con el anuncio que trajo al usuario (el titular de la página usa las mismas palabras que el anuncio para confirmar que el usuario ha llegado al lugar correcto), una única llamada a la acción (sin multiples opciones que confunden), prueba social relevante (testimonios o casos de éxito específicos), un formulario simple (cuanto menos campos, mayor conversión), y velocidad de carga rápida en móvil.
 
 **Ejercicio inmediato:** Crea una landing page específica para cada campana de publicidad (no uses la página principal de tu web como destino de los anuncios porque tiene multiples distracciones). La landing page debe tener: un titular que replica el mensaje del anuncio, un subtítulo que explica el beneficio principal, tres puntos de valor (los tres beneficios más importantes), una prueba social (un testimonio relevante), y un formulario o boton de llamada a la acción prominente. Mide la tasa de conversión de la landing con Google Analytics y optimizala con A/B testing si el volumen lo permite.
 
@@ -113,7 +113,7 @@ Las campanas de retargeting más efectivas segmentan a los visitantes según el 
 
 **Ejercicio inmediato:** Configura tres campanas de retargeting en Meta Ads con tres segmentos distintos: todos los visitantes de tu web en los últimos treinta dias (audiencia amplia, anuncio de contenido de valor o prueba social), visitantes de páginas específicas de alto intento (página de precio o de servicio, anuncio que resuelve objeciones), y visitantes de checkout abandonado en los últimos siete dias (anuncio con urgencia y quizas un incentivo específico). El retargeting tiene tipicamente el mayor ROAS de todos los tipos de campana porque habla a una audiencia que ya conoce el producto.
 
-El usuario que visito tu web ya te conoce. El anuncio correcto en el momento correcto puede ser lo unico que le falta para decidirse.
+El usuario que visito tu web ya te conoce. El anuncio correcto en el momento correcto puede ser lo único que le falta para decidirse.
 
 ---
 

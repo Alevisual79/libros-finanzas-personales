@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena fue en un accidente de coche hace dos años. Fisicamente se recupero sin secuelas. Pero hay cosas que no han vuelto a ser iguales: no puede ir de pasajera sin tensarse completamente, los frenazos bruscos la disparan, hay noches en que se despierta con el corazón acelerado reviviendo el impacto. Su médico le dijo que era normal después de un accidente. Pero dos años después, las mismas reacciones siguen presentes con casi la misma intensidad. No se trata de que sea debil o de que no haya intentado superarlo. Se trata de que su sistema nervioso todavía no ha procesado completamente lo que ocurrio, y que ese procesamiento no ocurre automáticamente con el paso del tiempo.
+Elena fue en un accidente de coche hace dos años. Fisicamente se recupero sin secuelas. Pero hay cosas que no han vuelto a ser iguales: no puede ir de pasajera sin tensarse completamente, los frenazos bruscos la disparan, hay noches en que se despierta con el corazón acelerado reviviendo el impacto. Su médico le dijo que era normal después de un accidente. Pero dos años después, las mismas reacciones siguen presentes con casi la misma intensidad. No se trata de que sea débil o de que no haya intentado superarlo. Se trata de que su sistema nervioso todavía no ha procesado completamente lo que ocurrio, y que ese procesamiento no ocurre automáticamente con el paso del tiempo.
 
 ---
 
@@ -95,7 +95,7 @@ Ruben se pregunta si hay medicación que pueda ayudar con el TEPT y cómo se int
 
 **El Principio del Rol Complementario de la Medicación en el TEPT:** Las guias clinicas internacionales para el tratamiento del TEPT situan la psicoterapia como el tratamiento de primera linea, con la medicación como opción complementaria o alternativa cuando la psicoterapia no es accesible o cuando los sintomas son tan intensos que dificultan la participación en la terapia.
 
-Los medicamentos con mayor evidencia de eficacia para el TEPT son los antidepresivos de la clase ISRS (inhibidores selectivos de la recaptación de serotonina), específicamente la sertralina y la paroxetina, que son los unicos aprobados por la FDA (agencia reguladora de medicamentos de los EEUU) para el tratamiento del TEPT. Estos medicamentos no tratan el trauma en si sino que reducen los sintomas de ansiedad, depresión, e hiperalerta que frecuentemente acompañan al TEPT, facilitando la participación en la psicoterapia.
+Los medicamentos con mayor evidencia de eficacia para el TEPT son los antidepresivos de la clase ISRS (inhibidores selectivos de la recaptación de serotonina), específicamente la sertralina y la paroxetina, que son los únicos aprobados por la FDA (agencia reguladora de medicamentos de los EEUU) para el tratamiento del TEPT. Estos medicamentos no tratan el trauma en si sino que reducen los sintomas de ansiedad, depresión, e hiperalerta que frecuentemente acompañan al TEPT, facilitando la participación en la psicoterapia.
 
 **Ejercicio inmediato:** Si estas considerando tratamiento farmacológico para el TEPT, consulta con un psiquiatra (no con un médico de cabecera) que tenga experiencia específica en el tratamiento del trauma. La decisión sobre la medicación debe ser individualizada, teniendo en cuenta la intensidad de los sintomas, el acceso a la psicoterapia, y las características individuales de cada persona.
 

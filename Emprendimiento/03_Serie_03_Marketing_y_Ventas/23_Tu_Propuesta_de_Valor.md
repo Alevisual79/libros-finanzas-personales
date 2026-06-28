@@ -51,11 +51,11 @@ La propuesta de valor escrita con las palabras del cliente resuena en el cliente
 
 Marcos ha entendido la diferencia entre ser mejor y ser diferente, y por qué la segunda es la estrategia más inteligente.
 
-**El Principio de la Diferenciación cómo la Creación de una Posición Unica en la Mente del Cliente que Reduce o Elimina la Comparación Directa con los Competidores en Lugar de la Competencia en las Mismas Dimensiones que los Demás:** Al Ries y Jack Trout en Positioning proponen que en un mercado saturado, ser ligeramente mejor que la competencia en las mismas dimensiones que ellos compiten es una ventaja minimal y frecuentemente no perceptible para el cliente. Ser fundamentalmente diferente (en el tipo de cliente que sirves, en el problema específico que resuelves, o en la forma en que lo resuelves) elimina la comparación directa y permite crear una categoría propia.
+**El Principio de la Diferenciación cómo la Creación de una Posición Única en la Mente del Cliente que Reduce o Elimina la Comparación Directa con los Competidores en Lugar de la Competencia en las Mismas Dimensiones que los Demás:** Al Ries y Jack Trout en Positioning proponen que en un mercado saturado, ser ligeramente mejor que la competencia en las mismas dimensiones que ellos compiten es una ventaja minimal y frecuentemente no perceptible para el cliente. Ser fundamentalmente diferente (en el tipo de cliente que sirves, en el problema específico que resuelves, o en la forma en que lo resuelves) elimina la comparación directa y permite crear una categoría propia.
 
 Blue Ocean Strategy de Kim y Mauborgne formaliza esta idea: en lugar de competir en el oceano rojo de los mercados existentes con multiples competidores similares, los negocios más exitosos crean oceanos azules (nuevos espacios de mercado donde no tienen competencia directa) redefiniendose en terminos del cliente que sirven o del problema que resuelven de una forma que ninguna alternativa existente resuelve igual.
 
-**Ejercicio inmediato:** Para tu negocio, identifica en que dimensión podrías ser el primero o el mejor de tu categoría específica: no la categoría general (consultor de marketing) sino la subcategoria tan específica que te hace el unico (el consultor de marketing para clinicas de salud privadas que quieren conseguir pacientes de pago sin depender de seguros médicos). Cuanto más específica es la categoría, menor es la competencia directa. El especialista siempre puede cobrar más que el generalista.
+**Ejercicio inmediato:** Para tu negocio, identifica en que dimensión podrías ser el primero o el mejor de tu categoría específica: no la categoría general (consultor de marketing) sino la subcategoria tan específica que te hace el único (el consultor de marketing para clinicas de salud privadas que quieren conseguir pacientes de pago sin depender de seguros médicos). Cuanto más específica es la categoría, menor es la competencia directa. El especialista siempre puede cobrar más que el generalista.
 
 El que intenta ser mejor que todos compite con todos. El que crea su propia categoría compite consigo mismo.
 
@@ -83,7 +83,7 @@ Lucia ha aprendido que negocios con varios tipos de cliente necesitan propuestas
 
 La investigación sobre conversión en landing pages muestra que las páginas con propuestas de valor específicas para un segmento específico de cliente convierten significativamente mejor que las páginas genericas que intentan hablar a todos.
 
-**Ejercicio inmediato:** Si tu negocio tiene más de un tipo de cliente significativamente diferente, escribe una propuesta de valor separada para cada uno de los dos o tres principales: usa el problema específico de cada segmento en el lenguaje de ese segmento, el resultado específico que ese segmento busca, y la prueba específica (testimonios de clientes de ese segmento). Evalua si tu web o tu material de marketing actual habla de forma diferenciada a cada segmento o usa un mensaje unico que es demasiado generico para todos.
+**Ejercicio inmediato:** Si tu negocio tiene más de un tipo de cliente significativamente diferente, escribe una propuesta de valor separada para cada uno de los dos o tres principales: usa el problema específico de cada segmento en el lenguaje de ese segmento, el resultado específico que ese segmento busca, y la prueba específica (testimonios de clientes de ese segmento). Evalua si tu web o tu material de marketing actual habla de forma diferenciada a cada segmento o usa un mensaje único que es demasiado generico para todos.
 
 La propuesta de valor que habla a todos habla verdaderamente a nadie.
 
@@ -95,7 +95,7 @@ Marcos ha aprendido que el precio no solo es lo que cobras. Es parte de lo que c
 
 **El Principio del Precio como Señal de Valor que Forma Parte de la Propuesta de Valor Total porque el Precio que el Cliente Percibe como Correcto para el Valor que Recibe Reduce la Resistencia a la Compra y el Precio que Percibe como Incorrecto la Aumenta:** Dan Ariely en Predictably Irrational documenta el efecto precio-calidad: los consumidores infieren la calidad de un producto parcialmente de su precio. Un precio más alto señala mayor calidad (aunque no necesariamente sea cierto), y un precio más bajo puede señalar menor calidad (aunque tampoco sea necesariamente cierto). El precio que el emprendedor elige comunica algo sobre el producto independientemente del producto en si.
 
-La investigación de Hermann Simon sobre price management muestra que las empresas que alinean su precio con su posicionamiento (un precio premium para una propuesta de valor premium) tienen mayor margen y mayor lealtad de cliente que las que usan el precio como unica herramienta de diferenciación.
+La investigación de Hermann Simon sobre price management muestra que las empresas que alinean su precio con su posicionamiento (un precio premium para una propuesta de valor premium) tienen mayor margen y mayor lealtad de cliente que las que usan el precio como única herramienta de diferenciación.
 
 **Ejercicio inmediato:** Para tu producto o servicio, reflexiona sobre si el precio actual es coherente con el posicionamiento que tienes o que quieres tener: ¿si tu propuesta de valor es ser la opción de mayor calidad o más especializada del mercado, el precio es coherente con esa posición? Si tu precio es el más bajo del mercado y tu propuesta de valor no incluye ser la opción más económica, hay una incoherencia que puede dañar la percepción de valor. La coherencia entre propuesta de valor y precio es un activo que pocos emprendedores gestionan conscientemente.
 
@@ -161,7 +161,7 @@ La propuesta de valor que guia el negocio es la que lo hace coherente. La que de
 
 ## Epílogo
 
-Lucia dedicó un fin de semana a reescribir completamente la propuesta de valor de su negocio usando el lenguaje exacto que sus mejores clientes habían usado para describirle su propio problema. El resultado fue una web completamente diferente, no en diseño sino en palabras. En el mes siguiente a ese cambio, la tasa de conversión de visitantes a leads de la web mejoro significativamente. Los clientes que llegaban decían exactamente esto: te encontre buscando algo específico y tu página web era la unica que hablaba exactamente de ese problema. Que es, exactamente, lo que debe hacer una propuesta de valor.
+Lucia dedicó un fin de semana a reescribir completamente la propuesta de valor de su negocio usando el lenguaje exacto que sus mejores clientes habían usado para describirle su propio problema. El resultado fue una web completamente diferente, no en diseño sino en palabras. En el mes siguiente a ese cambio, la tasa de conversión de visitantes a leads de la web mejoro significativamente. Los clientes que llegaban decían exactamente esto: te encontre buscando algo específico y tu página web era la única que hablaba exactamente de ese problema. Que es, exactamente, lo que debe hacer una propuesta de valor.
 
 ---
 

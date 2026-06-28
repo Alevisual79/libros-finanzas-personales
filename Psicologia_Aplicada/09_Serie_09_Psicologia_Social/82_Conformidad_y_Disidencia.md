@@ -67,7 +67,7 @@ Ruben recuerda que en la reunión que mencionamos al principio del libro, si hub
 
 **El Principio del Aliado Solitario como el Mayor Reductor de la Conformidad:** La investigación de Asch muestra que el factor que más reduce la conformidad no es el tamaño de la minoria sino la presencia de al menos una persona que rompe la unanimidad del grupo mayoritario. Cuando había un solo aliado que daba la respuesta correcta, la conformidad de los sujetos caía del 37% al 5%.
 
-El aliado solitario actua por dos mecanismos: proporciona información social de que la posición mayoritaria no es la unica posible (reduciendo la conformidad informacional) y proporciona cobertura social para disentir (reduciendo la conformidad normativa: ya no es el unico que piensa diferente).
+El aliado solitario actua por dos mecanismos: proporciona información social de que la posición mayoritaria no es la única posible (reduciendo la conformidad informacional) y proporciona cobertura social para disentir (reduciendo la conformidad normativa: ya no es el único que piensa diferente).
 
 **Ejercicio inmediato:** La próxima vez que estes en un grupo donde nadie disiente y tienes dudas sobre la decisión, considera que tu disidencia no solo expresa tu propia opinión sino que da permiso a otros que también dudan para expresar las suyas. El aliado solitario que decides ser puede liberar a otros para que sean lo que ya eran en privado.
 

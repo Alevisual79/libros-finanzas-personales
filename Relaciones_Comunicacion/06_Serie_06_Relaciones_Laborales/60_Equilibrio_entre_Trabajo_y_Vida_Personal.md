@@ -35,7 +35,7 @@ El equilibrio entre trabajo y vida no se mide en horas. Se mide en la calidad de
 
 El exceso cronico de trabajo, especialmente cuando funciona como mecanismo de evitación de otras áreas de la vida, tiene costes relacionales documentados que frecuentemente se minimizan o no se reconocen hasta que el daño ya es significativo.
 
-**El Principio del Coste Acumulativo Invisible:** El workaholismo no genera daño relacional a traves de un evento dramatico unico, sino a traves de la acumulación silenciosa de ausencias, de atención parcial, y de prioridades implicitamente comunicadas a traves del tiempo y la energía disponibles. Las parejas, hijos y amigos de personas con patrones de trabajo excesivo cronico reportan consistentemente sentirse en segundo lugar, incluso cuando la persona workaholic declara explicitamente que sus relaciones son su prioridad.
+**El Principio del Coste Acumulativo Invisible:** El workaholismo no genera daño relacional a traves de un evento dramatico único, sino a traves de la acumulación silenciosa de ausencias, de atención parcial, y de prioridades implicitamente comunicadas a traves del tiempo y la energía disponibles. Las parejas, hijos y amigos de personas con patrones de trabajo excesivo cronico reportan consistentemente sentirse en segundo lugar, incluso cuando la persona workaholic declara explicitamente que sus relaciones son su prioridad.
 
 **Ejercicio inmediato:** Pregunta honestamente a una persona cercana (pareja, hijo, amigo cercano) cómo se siente respecto a la cantidad de tiempo y atención que recibe de ti, comparado con lo que recibe el trabajo. Prepara para una respuesta que podría ser incomoda pero informativa.
 

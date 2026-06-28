@@ -97,7 +97,7 @@ Lo que te emociona al principio rara vez es lo que te satisface a largo plazo.
 
 ## Capítulo 6: El efecto del amor romantico en la percepción
 
-La cultura del amor romantico ha construido una narrativa sobre la elección de pareja que es poeticamente hermosa y prácticamente destructiva: hay una persona unica para cada uno, cuando la encuentras lo sabes inmediatamente, el amor verdadero todo lo puede, si es el amor correcto no requiere esfuerzo.
+La cultura del amor romantico ha construido una narrativa sobre la elección de pareja que es poeticamente hermosa y prácticamente destructiva: hay una persona única para cada uno, cuando la encuentras lo sabes inmediatamente, el amor verdadero todo lo puede, si es el amor correcto no requiere esfuerzo.
 
 **El Principio de la Narrativa Romantica como Distorsión:** La narrativa del amor romantico distorsiona la percepción de las relaciones de varias formas específicas: convierte la intensidad emocional en criterio de autenticidad (si no lo siento con locura, no es el verdadero amor), produce resistencia al trabajo relacional (si fuera el correcto no tendría que esforzarme), y genera búsqueda perpetua de algo más intenso cuando la euforia inicial decrece.
 
@@ -127,7 +127,7 @@ La mayoría de las personas que buscan pareja tienen una lista de lo que quieren
 
 **El Principio de la Lista como Trampa Cognitiva:** Las listas de cualidades de pareja tienden a capturar atributos observables (altura, profesión, aspecto físico) y a ignorar los atributos que más predicen la satisfacción relacional a largo plazo (capacidad de regulación emocional, manejo del conflicto, consistencia entre lo que se dice y lo que se hace). Las personas que se casan o se emparejan siguiendo principalmente su lista reportan niveles de satisfacción significativamente menores a largo plazo que las que priorizan la calidad de la conexión y la compatibilidad.
 
-**Ejercicio inmediato:** Si tienes una lista de cualidades de pareja, revisala. ¿Cuantos items son observables desde el exterior y cuantos son atributos de carácter y compatibilidad? Reescribe la lista poniendo primero lo que más predice la satisfacción a largo plazo y último lo que es más facil de ver pero menos relevante.
+**Ejercicio inmediato:** Si tienes una lista de cualidades de pareja, revisala. ¿Cuantos items son observables desde el exterior y cuantos son atributos de carácter y compatibilidad? Reescribe la lista poniendo primero lo que más predice la satisfacción a largo plazo y último lo que es más fácil de ver pero menos relevante.
 
 La persona que buscas en tu lista y la persona que te hará feliz a largo plazo raramente son la misma persona.
 

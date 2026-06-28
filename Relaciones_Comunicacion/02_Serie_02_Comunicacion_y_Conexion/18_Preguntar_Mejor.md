@@ -41,7 +41,7 @@ Las mejores conversaciones no empiezan con lo que sabes. Empiezan con lo que qui
 
 Como fue el viaje? ¿Bien. Esa conversación ha terminado antes de empezar. ¿Que fue lo más sorprendente del viaje? Esa pregunta puede durar una hora.
 
-**El Principio de la Apertura como Invitación:** Las preguntas cerradas producen respuestas cerradas: si, no, bien, mal. Son útiles para obtener datos concretos y verificables. Son inutiles para construir conexión. Las preguntas abiertas invitan al otro a pensar, a seleccionar, a compartir algo de si mismo. No hay respuesta correcta porque la pregunta no tiene una respuesta unica. Eso la hace rica para la conversación.
+**El Principio de la Apertura como Invitación:** Las preguntas cerradas producen respuestas cerradas: si, no, bien, mal. Son útiles para obtener datos concretos y verificables. Son inutiles para construir conexión. Las preguntas abiertas invitan al otro a pensar, a seleccionar, a compartir algo de si mismo. No hay respuesta correcta porque la pregunta no tiene una respuesta única. Eso la hace rica para la conversación.
 
 La diferencia entre te gusto? y que te parecio? parece mínima. La primera puede responderse con si o no. La segunda requiere que el otro piense y comparta una perspectiva. La segunda produce cinco veces más conversación que la primera, porque invita en lugar de cerrar.
 

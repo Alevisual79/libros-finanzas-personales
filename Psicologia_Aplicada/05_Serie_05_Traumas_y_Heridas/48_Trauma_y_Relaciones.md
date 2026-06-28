@@ -85,7 +85,7 @@ Hay además una dinámica de búsqueda de resolución: el sistema puede repetir 
 
 **Ejercicio inmediato:** Mapea las dos o tres relaciones más importantes de tu vida adulta: ¿que patrones relacionales tenían en común? Comparalos con lo que recuerdas de los patrones relacionales de tu familia de origen. Las similitudes no son coincidencias: son el sistema reproduciendo lo conocido.
 
-El patron que repites en tus relaciones no lo eliges conscientemente. Lo repites porque es el unico que el sistema conoce hasta que aprendes otro.
+El patron que repites en tus relaciones no lo eliges conscientemente. Lo repites porque es el único que el sistema conoce hasta que aprendes otro.
 
 ---
 
@@ -137,7 +137,7 @@ Isabel ha aprendido a distinguir entre las relaciones que producen reparación y
 
 **El Principio de las Características de las Relaciones que Sanan:** Judith Herman propone que la recuperación del trauma requiere experiencias relacionales específicas: seguridad (el otro es predeciblemente no amenazante), confianza (las palabras y los comportamientos son coherentes), elección (la persona tiene autonomía), colaboración (hay reciprocidad), y empoderamiento (la relación refuerza el sentido de capacidad propio).
 
-Las relaciones que retraumatizan tienen las características opuestas. Saber distinguir entre unas y otras, especialmente cuando el sistema esta calibrado para sentirse comodo con patrones disfuncionales, es una habilidad que se desarrolla gradualmente.
+Las relaciones que retraumatizan tienen las características opuestas. Saber distinguir entre unas y otras, especialmente cuando el sistema esta calibrado para sentirse cómodo con patrones disfuncionales, es una habilidad que se desarrolla gradualmente.
 
 **Ejercicio inmediato:** Evalua una relación cercana actual usando las cinco características de Herman. Donde la relación puntua bajo, esa es la dimensión que más limita el potencial sanador de la relación.
 

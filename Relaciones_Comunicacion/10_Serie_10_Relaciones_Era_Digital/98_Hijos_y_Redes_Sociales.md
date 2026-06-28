@@ -71,7 +71,7 @@ La privacidad digital adolescente no es todo o nada. Requiere un balance negocia
 
 Tener conversaciones proactivas y sin juicio sobre contenidos potencialmente inapropiados (sexuales, violentos, o de otra naturaleza preocupante) que los adolescentes podrían encontrar online es más efectivo que esperar reactivamente a que el problema ya haya ocurrido.
 
-**El Principio de la Conversación Proactiva sobre la Reactiva:** Las familias que gestionan mejor la exposición a contenido inapropiado son las que tienen conversaciones proactivas y normalizadas sobre estos temas antes de que la exposición ocurra, creando un ambiente donde el adolescente se siente comodo acudiendo a sus padres si encuentra algo perturbador, en lugar de ocultarlo por miedo a la reacción parental.
+**El Principio de la Conversación Proactiva sobre la Reactiva:** Las familias que gestionan mejor la exposición a contenido inapropiado son las que tienen conversaciones proactivas y normalizadas sobre estos temas antes de que la exposición ocurra, creando un ambiente donde el adolescente se siente cómodo acudiendo a sus padres si encuentra algo perturbador, en lugar de ocultarlo por miedo a la reacción parental.
 
 **Ejercicio inmediato:** Si no has tenido una conversación proactiva sobre contenido inapropiado online con tu hijo adolescente, considera iniciarla, enfatizando que pueden acudir a ti sin miedo a consecuencias punitivas si encuentran algo que les perturba.
 

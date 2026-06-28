@@ -99,7 +99,7 @@ La investigación de Mihaly Csikszentmihalyi sobre el flow muestra que los momen
 
 **Ejercicio inmediato:** Esta semana, designa una actividad cotidiana que frecuentemente haces en piloto automático y convierte esa actividad en práctica de presencia: sin teléfono, sin medios de comunicación, sin hacer nada más al mismo tiempo. Solo esa actividad. Comida, ducha, paseo, o lo que elijas. Una actividad, plena atención.
 
-La vida que no se vive en el momento en que ocurre no se vive en ningún otro. El presente es el unico tiempo real que tienes.
+La vida que no se vive en el momento en que ocurre no se vive en ningún otro. El presente es el único tiempo real que tienes.
 
 ---
 

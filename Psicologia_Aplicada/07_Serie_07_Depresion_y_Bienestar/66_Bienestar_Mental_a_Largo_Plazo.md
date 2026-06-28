@@ -23,7 +23,7 @@ Elena tiene treinta y cuatro años y empieza a preguntarse como quiere estar men
 
 El mayor estudio longitudinal sobre el bienestar humano tiene setenta y cinco años de seguimiento y una conclusión central.
 
-**El Principio de la Calidad de las Relaciones como el Predictor más Robusto del Bienestar a Largo Plazo:** El Estudio Longitudinal de Desarrollo Adulto de Harvard (iniciado en 1938 y aun en marcha) ha seguido a dos grupos de hombres desde la universidad (alumni de Harvard) y desde los barrios más pobres de Boston durante décadas. George Vaillant y posteriormente Robert Waldinger han reportado los hallazgos de este estudio que ha generado datos unicos sobre el bienestar a lo largo de la vida.
+**El Principio de la Calidad de las Relaciones como el Predictor más Robusto del Bienestar a Largo Plazo:** El Estudio Longitudinal de Desarrollo Adulto de Harvard (iniciado en 1938 y aun en marcha) ha seguido a dos grupos de hombres desde la universidad (alumni de Harvard) y desde los barrios más pobres de Boston durante décadas. George Vaillant y posteriormente Robert Waldinger han reportado los hallazgos de este estudio que ha generado datos únicos sobre el bienestar a lo largo de la vida.
 
 La conclusión central: la calidad de las relaciones personales es el predictor más robusto del bienestar en la vejez, más que el estatus económico, el nivel educativo, o la inteligencia. Las personas con relaciones más calidas y de mayor calidad a los cincuenta años eran las más sanas y más felices a los ochenta. Y la soledad tiene efectos en la salud física y mental comparables a fumar o al sedentarismo.
 
@@ -65,9 +65,9 @@ Las emociones positivas no son lujos que se tienen cuando la vida va bien. Son l
 
 Ruben recuerda que de adolescente, cuando tocaba la guitarra, perdia la noción del tiempo. Ya no hace nada que produzca ese efecto en su vida adulta.
 
-**El Principio del Flow como Componente del Bienestar que Requiere Cultivo Deliberado:** Mihaly Csikszentmihalyi define el flow como el estado de absorción completa en una actividad cuando la dificultad de la tarea y la habilidad del sujeto estan bien equilibradas: demasiado facil produce aburrimiento, demasiado difícil produce ansiedad, en el punto justo produce flow. En el flow, la conciencia del yo desaparece, el tiempo se distorsiona, y la actividad se convierte en un fin en si misma.
+**El Principio del Flow como Componente del Bienestar que Requiere Cultivo Deliberado:** Mihaly Csikszentmihalyi define el flow como el estado de absorción completa en una actividad cuando la dificultad de la tarea y la habilidad del sujeto estan bien equilibradas: demasiado fácil produce aburrimiento, demasiado difícil produce ansiedad, en el punto justo produce flow. En el flow, la conciencia del yo desaparece, el tiempo se distorsiona, y la actividad se convierte en un fin en si misma.
 
-La investigación de Csikszentmihalyi y colegas con el método de Muestreo de Experiencia (ESM) muestra que las personas reportan sus estados más positivos durante las actividades de flow, no durante el tiempo de ocio pasivo (ver televisión, navegar por redes sociales). Sin embargo, las actividades de flow requieren mayor inversión inicial de atención y esfuerzo que el ocio pasivo, lo que hace que este último sea más facil de elegir aunque produzca menor bienestar.
+La investigación de Csikszentmihalyi y colegas con el método de Muestreo de Experiencia (ESM) muestra que las personas reportan sus estados más positivos durante las actividades de flow, no durante el tiempo de ocio pasivo (ver televisión, navegar por redes sociales). Sin embargo, las actividades de flow requieren mayor inversión inicial de atención y esfuerzo que el ocio pasivo, lo que hace que este último sea más fácil de elegir aunque produzca menor bienestar.
 
 **Ejercicio inmediato:** Identifica una actividad que en el pasado ha producido estados de flow para ti: un instrumento musical, un deporte, la escritura, la cocina, la programación, el ajedrez, el baile. Programa cuarenta y cinco minutos para esa actividad esta semana. No para ser productivo: para recuperar la experiencia del flow.
 
@@ -111,7 +111,7 @@ Isabel ha tratado la salud física y la mental como dominios separados. La inves
 
 Los tres comportamientos que la investigación identifica como mayores predictores del bienestar a largo plazo son: el sueño de calidad (Matthew Walker documenta su efecto sobre la cognición, la salud cardiovascular, el sistema inmune, y la salud mental), el ejercicio regular (Wendy Suzuki muestra sus efectos sobre el hipocampo, la memoria, y el estado de animo), y la alimentación rica en fibra y antiinflamatoria (el microbioma intestinal afecta la producción de neurotransmisores).
 
-**Ejercicio inmediato:** Para los próximos treinta dias, elige uno de los tres pilares físicos (sueño, ejercicio, o alimentación) y diseña un cambio concreto y pequeño que puedas mantener. La regla: tiene que ser tan facil que no puedas tener excusa para no hacerlo. La consistencia durante treinta dias importa más que la perfección durante tres dias.
+**Ejercicio inmediato:** Para los próximos treinta dias, elige uno de los tres pilares físicos (sueño, ejercicio, o alimentación) y diseña un cambio concreto y pequeño que puedas mantener. La regla: tiene que ser tan fácil que no puedas tener excusa para no hacerlo. La consistencia durante treinta dias importa más que la perfección durante tres dias.
 
 Tu cerebro vive en tu cuerpo. Lo que le hagas al cuerpo se lo haces al cerebro.
 
@@ -155,7 +155,7 @@ La investigación sobre la adaptación hedonica de Lyubomirsky, Sheldon, y Schka
 
 **Ejercicio inmediato:** Diseña tu práctica de bienestar para los próximos noventa dias: una práctica de cada uno de los cinco componentes del PERMA que sea pequeña, concreta, y sostenible. No cinco nuevas prácticas de golpe sino cinco pequeñas: una que active emociones positivas, una de flow, una de conexión relacional, una de significado, y una de logró. Esas cinco prácticas, mantenidas durante noventa dias, son más transformadoras que el plan perfecto que nunca se implementa.
 
-El bienestar que construyes cada dia es el unico que dura. El que esperas que llegue cuando algo externo cambie es el que nunca llega.
+El bienestar que construyes cada dia es el único que dura. El que esperas que llegue cuando algo externo cambie es el que nunca llega.
 
 ---
 

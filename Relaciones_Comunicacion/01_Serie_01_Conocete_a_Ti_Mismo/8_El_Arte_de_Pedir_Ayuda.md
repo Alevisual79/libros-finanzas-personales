@@ -75,9 +75,9 @@ No todas las peticiones de ayuda son iguales ni deben ir a las mismas personas. 
 
 **El Principio de la Calibración de la Petición:** Cada petición de ayuda debe calibrarse según la profundidad de la relación y el tipo de ayuda requerida. Hay ayuda práctica (hacer algo), ayuda emocional (escuchar y acompañar), ayuda instrumental (recursos materiales), ayuda informativa (conocimiento o consejo) y ayuda de presencia (simplemente estar). No todo el mundo en tu vida puede ofrecer todos los tipos. No todo el mundo debería.
 
-El investigador Robin Dunbar propone que los seres humanos tenemos capas concentrices de relaciones con distintos niveles de intimidad y confianza. La capa más interna, de cuatro a cinco personas, es la unica donde se puede pedir ayuda de los tipos más vulnerables. Ir más allá de esa capa con peticiones de alta vulnerabilidad produce incomodidad en ambas partes.
+El investigador Robin Dunbar propone que los seres humanos tenemos capas concentrices de relaciones con distintos niveles de intimidad y confianza. La capa más interna, de cuatro a cinco personas, es la única donde se puede pedir ayuda de los tipos más vulnerables. Ir más allá de esa capa con peticiones de alta vulnerabilidad produce incomodidad en ambas partes.
 
-**Ejercicio inmediato:** Haz una lista de las cinco personas con las que tienes más confianza. Para cada una, escribe que tipo de ayuda te sería comodo pedirles. Ese mapa te dice a quien ir con que tipo de necesidad.
+**Ejercicio inmediato:** Haz una lista de las cinco personas con las que tienes más confianza. Para cada una, escribe que tipo de ayuda te sería cómodo pedirles. Ese mapa te dice a quien ir con que tipo de necesidad.
 
 No es que no tengas a quien pedir. Es que tal vez no sabes a quien pedir cada tipo de ayuda.
 
@@ -145,7 +145,7 @@ A veces pedimos y el otro no responde de la forma que esperabamos. O no responde
 
 **El Principio de la Interpretación de la No-Respuesta:** Cuando pedimos ayuda y no la obtenemos, tendemos a interpretar el no como rechazó personal. Esa interpretación es comprensible pero frecuentemente incorrecta. El otro puede estar en un momento de recursos limitados. Puede no haber entendido la dimensión de tu necesidad. Puede tener su propia barrera para dar. La no-respuesta raramente significa que no le importas.
 
-Nedra Tawwab recomienda no hacer una unica petición y esperar. Si la petición es importante, vale la pena reformularla, ser más explícito sobre la necesidad, o buscar otras personas. La dependencia de que una sola persona responda a una necesidad es en si misma un tipo de dependencia problematica.
+Nedra Tawwab recomienda no hacer una única petición y esperar. Si la petición es importante, vale la pena reformularla, ser más explícito sobre la necesidad, o buscar otras personas. La dependencia de que una sola persona responda a una necesidad es en si misma un tipo de dependencia problematica.
 
 **Ejercicio inmediato:** Piensa en una vez en que pediste ayuda y no la recibiste. ¿Que concluiste sobre el otro? Ahora pregúntate: ¿hay otras explicaciones posibles además del rechazó? ¿Cual es la más probable? La respuesta honesta suele reducir el dolor del no.
 

@@ -157,7 +157,7 @@ La respuesta depende del volumen, la complejidad y el tamaño del equipo.
 
 ## Epílogo: La voz que no puede automatizarse
 
-Todas las herramientas de escritura con IA producen contenido competente. Lo que no producen es la voz unica, la perspectiva genuina, el insight nacido de la experiencia directa.
+Todas las herramientas de escritura con IA producen contenido competente. Lo que no producen es la voz única, la perspectiva genuina, el insight nacido de la experiencia directa.
 
 Ruben seguia siendo Ruben. Sus mejores contenidos tenían algo que ningún prompt podía especificar: su punto de vista particular sobre el marketing construido en años de trabajo con clientes reales.
 

@@ -85,9 +85,9 @@ Algunas amistades se caracterizan por un nivel de dependencia emocional que exce
 
 **El Principio de la Dependencia como Carga No Sostenible:** La dependencia emocional excesiva en una amistad genera una carga que, a largo plazo, no es sostenible para quien la sostiene, especialmente cuando la persona dependiente no muestra disposición a desarrollar otras fuentes de apoyo o de regulación emocional propia. Reconocer este patron permite establecer límites más claros sobre la disponibilidad y el tipo de apoyo que se puede ofrecer de forma sostenible.
 
-**Ejercicio inmediato:** Si una amistad te genera la sensación de ser la unica fuente de estabilidad emocional de la otra persona, considera si esa carga es sostenible para ti y que límites necesitarias establecer para que la relación sea más equilibrada.
+**Ejercicio inmediato:** Si una amistad te genera la sensación de ser la única fuente de estabilidad emocional de la otra persona, considera si esa carga es sostenible para ti y que límites necesitarias establecer para que la relación sea más equilibrada.
 
-Ser el unico soporte emocional de alguien no es amistad profunda. Es una carga que ninguna relación debería tener que sostener sola.
+Ser el único soporte emocional de alguien no es amistad profunda. Es una carga que ninguna relación debería tener que sostener sola.
 
 ---
 

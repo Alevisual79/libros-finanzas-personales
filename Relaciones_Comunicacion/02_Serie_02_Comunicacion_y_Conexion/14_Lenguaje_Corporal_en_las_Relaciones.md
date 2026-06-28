@@ -69,7 +69,7 @@ Como llevas tu cuerpo no solo refleja como te sientes. Cambia como te vas a sent
 
 El contacto visual es uno de los gestos relacionales más poderosos y más culturalmente variable. En la mayoría de las culturas occidentales, el contacto visual moderado es una señal de atención, respeto y honestidad. La ausencia de contacto visual se interpreta con frecuencia como desinteres, incomodidad o deshonestidad.
 
-**El Principio del Contacto Visual Calibrado:** El contacto visual optimo en una conversación en culturas occidentales es aproximadamente el 60-70% del tiempo. Más tiempo puede sentirse como presión o evaluación. Menos puede sentirse como evitación. En contextos de escucha empatica, el porcentaje sube naturalmente. La clave es que sea naturalizado, no calculado.
+**El Principio del Contacto Visual Calibrado:** El contacto visual óptimo en una conversación en culturas occidentales es aproximadamente el 60-70% del tiempo. Más tiempo puede sentirse como presión o evaluación. Menos puede sentirse como evitación. En contextos de escucha empatica, el porcentaje sube naturalmente. La clave es que sea naturalizado, no calculado.
 
 La investigación de Stephen Kosslyn y Robin Rosenberg muestra que cuando dos personas mantienen contacto visual genuino, se produce una sincronización de los sistemas nerviosos que es uno de los sustratos neurológicos de la conexión interpersonal. El contacto visual no es solo un canal de información. Es un mecanismo de sincronización.
 

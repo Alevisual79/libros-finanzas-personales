@@ -99,7 +99,7 @@ El ejercicio del doble estandar (preguntarse como reaccionaria ante la misma sit
 
 **Ejercicio inmediato:** Piensa en la situación social que más te avergüenza de las últimas semanas. Ahora imagina que fue tu mejor amigo, no tu, quien la vivio. ¿Cómo lo consolarias? ¿Que le dirias? Esa respuesta es el trató que mereces aplicarte a ti mismo.
 
-Eres el unico ser humano al que aplicas el estandar de no poder parecer humano. Nadie más vive según esa regla.
+Eres el único ser humano al que aplicas el estandar de no poder parecer humano. Nadie más vive según esa regla.
 
 ---
 
@@ -109,7 +109,7 @@ Ruben tiene más ansiedad en las redes sociales que en muchas interacciones pres
 
 **El Principio de la Ansiedad Social Amplificada en el Entorno Digital:** Las redes sociales crean condiciones estructuralmente diseñadas para amplificar la ansiedad social: la visibilidad pública de las interacciones, la cuantificación de la aprobación (likes, comentarios), la posibilidad de reanalizar interacciones pasadas indefinidamente, y la comparación con perfiles curados que muestran solo los mejores momentos de cada persona. Steven Fardouly e investigadores de la Universidad del Oeste de Australia documentaron que el uso intensivo de redes sociales se asocia con mayor ansiedad social y menor satisfacción con la propia apariencia e imagen social.
 
-El mecanismo es el mismo que en la ansiedad social presencial pero amplificado: mayor autofoco, mayor estimación de evaluación ajena, conductas de seguridad digitales (no publicar, borrar, editar obsesivamente). La diferencia es que en el entorno digital las conductas de seguridad son más faciles de ejecutar, lo que refuerza más rápidamente el patron.
+El mecanismo es el mismo que en la ansiedad social presencial pero amplificado: mayor autofoco, mayor estimación de evaluación ajena, conductas de seguridad digitales (no publicar, borrar, editar obsesivamente). La diferencia es que en el entorno digital las conductas de seguridad son más fáciles de ejecutar, lo que refuerza más rápidamente el patron.
 
 **Ejercicio inmediato:** Identifica tus conductas de seguridad digitales: revisar constantemente la recepción de lo que públicas, editar o borrar publicaciones que no reciben suficiente respuesta, evitar publicar por miedo al juicio. Esta semana, práctica una pequeña exposición digital: pública algo sin monitorizar la respuesta durante al menos veinticuatro horas.
 
@@ -161,7 +161,7 @@ La meta no es no tener ansiedad social. La meta es no dejar que te robe la vida 
 
 ## Epílogo
 
-Ruben decidió hacer un experimento de treinta dias: en cada interacción social, eliminar una conducta de seguridad y poner toda la atención en la otra persona en lugar de en si mismo. No fue comodo. Fue frecuentemente incómodo. Pero al final de los treinta dias, había tenido conversaciones que le habían sorprendido, conexiones que no había previsto, y sobre todo había descubierto que el resultado catastrofico que anticipaba casi nunca ocurria. El cerebro aprende de la evidencia, no de las intenciones. Y la evidencia acumulada en esos treinta dias le dijo algo que ningún razonamiento podía haberle convencido: que podía estar presente con las personas sin que el mundo se derrumbara.
+Ruben decidió hacer un experimento de treinta dias: en cada interacción social, eliminar una conducta de seguridad y poner toda la atención en la otra persona en lugar de en si mismo. No fue cómodo. Fue frecuentemente incómodo. Pero al final de los treinta dias, había tenido conversaciones que le habían sorprendido, conexiones que no había previsto, y sobre todo había descubierto que el resultado catastrofico que anticipaba casi nunca ocurria. El cerebro aprende de la evidencia, no de las intenciones. Y la evidencia acumulada en esos treinta dias le dijo algo que ningún razonamiento podía haberle convencido: que podía estar presente con las personas sin que el mundo se derrumbara.
 
 ---
 

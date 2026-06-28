@@ -135,7 +135,7 @@ El proyecto que haces bien es mejor que los tres que haces mediocremente. Y frec
 
 Carlos ha aprendido que el sprint productivo de los primeros meses de emprendimiento no es sostenible y no debe serlo.
 
-**El Principio del Ritmo Sostenible como Superior al Maximo Esfuerzo Continuo para la Productividad del Emprendedor a Largo Plazo:** Alex Soojung-Kim Pang en Rest muestra que los profesionales más productivos de la historia (Darwin, Dickens, Churchill) raramente trabajaban más de cuatro o cinco horas al dia en su trabajo de mayor valor, y complementaban ese trabajo con actividades de recuperación activa (caminar, siesta, ocio deliberado) que la investigación asocia con mayor creatividad e insight.
+**El Principio del Ritmo Sostenible como Superior al Máximo Esfuerzo Continuo para la Productividad del Emprendedor a Largo Plazo:** Alex Soojung-Kim Pang en Rest muestra que los profesionales más productivos de la historia (Darwin, Dickens, Churchill) raramente trabajaban más de cuatro o cinco horas al dia en su trabajo de mayor valor, y complementaban ese trabajo con actividades de recuperación activa (caminar, siesta, ocio deliberado) que la investigación asocia con mayor creatividad e insight.
 
 La investigación de Anders Ericsson sobre la práctica deliberada muestra que la calidad del trabajo cognitivo profundo disminuye significativamente después de cuatro horas de esfuerzo sostenido. Más allá de ese punto, el trabajo adicional produce output de menor calidad que requiere más revisión y corrección posterior, negando el tiempo ganado.
 

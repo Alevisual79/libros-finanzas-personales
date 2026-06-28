@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben pertenece a cinco grupos de Discord, comunidades organizadas alrededor de intereses que le importan genuinamente. En ninguno de ellos, sin embargo, se sentiria comodo llamando a las tres de la madrugada en una crisis real. Esa observación, simple pero reveladora, dice algo importante sobre la diferencia entre pertenecer a una comunidad y tener relaciones de la profundidad que una crisis genuina requeriria.
+Ruben pertenece a cinco grupos de Discord, comunidades organizadas alrededor de intereses que le importan genuinamente. En ninguno de ellos, sin embargo, se sentiria cómodo llamando a las tres de la madrugada en una crisis real. Esa observación, simple pero reveladora, dice algo importante sobre la diferencia entre pertenecer a una comunidad y tener relaciones de la profundidad que una crisis genuina requeriria.
 
 ---
 
@@ -59,7 +59,7 @@ La confianza en comunidades digitales no se construye instantaneamente ni de la 
 
 El anonimato o pseudonimato común en muchas comunidades online tiene efectos complejos en las relaciones que se forman, facilitando cierta honestidad sobre temas difíciles mientras también permitiendo comportamientos que la identificación pública desincentivaria.
 
-**El Principio del Doble Efecto del Anonimato:** El anonimato puede facilitar la expresión honesta de vulnerabilidades o identidades que la persona no se sentiria comoda compartiendo con su identidad pública conocida, pero también puede reducir la responsabilidad sentida por el comportamiento propio, facilitando agresión o deshonestidad que la identificación pública generalmente desincentiva.
+**El Principio del Doble Efecto del Anonimato:** El anonimato puede facilitar la expresión honesta de vulnerabilidades o identidades que la persona no se sentiria cómoda compartiendo con su identidad pública conocida, pero también puede reducir la responsabilidad sentida por el comportamiento propio, facilitando agresión o deshonestidad que la identificación pública generalmente desincentiva.
 
 **Ejercicio inmediato:** Reflexiona sobre como el anonimato (propio o de otros) en tus comunidades online ha facilitado conexión genuina, o ha facilitado comportamiento problematico que la identificación habría desincentivado.
 

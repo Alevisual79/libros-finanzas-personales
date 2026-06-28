@@ -37,7 +37,7 @@ El hábito de cinco minutos que mantienes un año supera en impacto al sprint de
 
 Carlos ha aprendido que la primera hora del dia determina la calidad del resto.
 
-**El Principio de la Rutina Matutina cómo la Estructura que Configura el Estado Mental Optimo para el Trabajo de Mayor Valor antes de que las Demandas Externas Tomen el Control:** Hal Elrod en Miracle Morning y Robin Sharma en The 5 AM Club proponen versiones diferentes de la misma idea: los emprendedores y profesionales de mayor rendimiento frecuentemente tienen una rutina matutina que incluye actividades que generan claridad, energía, y enfoque antes de que el email, los mensajes, y las urgencias del dia consuman la atención.
+**El Principio de la Rutina Matutina cómo la Estructura que Configura el Estado Mental Óptimo para el Trabajo de Mayor Valor antes de que las Demandas Externas Tomen el Control:** Hal Elrod en Miracle Morning y Robin Sharma en The 5 AM Club proponen versiones diferentes de la misma idea: los emprendedores y profesionales de mayor rendimiento frecuentemente tienen una rutina matutina que incluye actividades que generan claridad, energía, y enfoque antes de que el email, los mensajes, y las urgencias del dia consuman la atención.
 
 La investigación de Tomas Chamorro-Premuzic sobre las diferencias entre los emprendedores de alto y bajo rendimiento muestra que los primeros tienen mayor nivel de rutina y estructura personal (aunque sus negocios sean más creativos e innovadores), precisamente porque la estructura personal libera la energía mental para la creatividad del negocio.
 
@@ -125,7 +125,7 @@ Carlos ha tenido que aprender a desconectarse del negocio de forma regular para 
 
 Cal Newport propone el protocolo de cierre del dia: una rutina de cierre que incluye revisar las tareas pendientes, planear el dia siguiente, y declarar explicitamente que el dia de trabajo ha terminado (con una frase específica, como cierre del dia). Este protocolo reduce el rumiación sobre el trabajo fuera del horario laboral que impide la recuperación real.
 
-**Ejercicio inmediato:** Implementa un protocolo de desconexion para los fines de semana: un dia completo (o al menos medio dia) sin revisar el email del negocio, sin trabajar en proyectos del negocio, y sin pensar de forma activa en problemas del negocio. Si esto te parece imposible, eso es exactamente la señal de que lo necesitas. La primera semana será incomoda. La segunda será más facil. La tercera empezaras a notar la diferencia en la calidad del trabajo del lunes.
+**Ejercicio inmediato:** Implementa un protocolo de desconexion para los fines de semana: un dia completo (o al menos medio dia) sin revisar el email del negocio, sin trabajar en proyectos del negocio, y sin pensar de forma activa en problemas del negocio. Si esto te parece imposible, eso es exactamente la señal de que lo necesitas. La primera semana será incomoda. La segunda será más fácil. La tercera empezaras a notar la diferencia en la calidad del trabajo del lunes.
 
 El emprendedor que nunca desconecta nunca se recupera completamente. Y el que nunca se recupera completamente va perdiendo calidad de pensamiento sin notarlo hasta que ya no puede ignorarlo.
 
@@ -149,13 +149,13 @@ El líder que habla con cada miembro de su equipo treinta minutos por semana sab
 
 Marcos ha llegado al final de esta serie con claridad sobre el sistema de hábitos que quiere construir como emprendedor.
 
-**El Principio del Sistema de Hábitos como el Resultado de Largo Plazo de las Decisiones de Corto Plazo sobre Como Usar el Tiempo de Forma Regular y Deliberada:** BJ Fogg, en Tiny Habits, propone que el cambio de hábitos más efectivo no viene de la motivación sino del diseño: hacer el hábito deseado tan pequeño y tan facil de iniciar que el cerebro no lo perciba cómo una amenaza, y vincularlo a un comportamiento que ya ocurre (el anclaje del hábito).
+**El Principio del Sistema de Hábitos como el Resultado de Largo Plazo de las Decisiones de Corto Plazo sobre Como Usar el Tiempo de Forma Regular y Deliberada:** BJ Fogg, en Tiny Habits, propone que el cambio de hábitos más efectivo no viene de la motivación sino del diseño: hacer el hábito deseado tan pequeño y tan fácil de iniciar que el cerebro no lo perciba cómo una amenaza, y vincularlo a un comportamiento que ya ocurre (el anclaje del hábito).
 
 James Clear propone que la identidad es el nivel más profundo del cambio de hábitos: no hago ejercicio para perder peso (objetivo) sino porque soy alguien que cuida su cuerpo (identidad). Cada hábito que adoptas es un voto a favor de la identidad del emprendedor que quieres ser.
 
 **Ejercicio inmediato:** Diseña tu sistema de hábitos emprendedor para los próximos noventa dias en cuatro categorías: hábitos de rendimiento (los que más directamente impactan los resultados del negocio), hábitos de aprendizaje (los que más rápidamente aumentan tu conocimiento y habilidad), hábitos de recuperación (los que te permiten seguir en el largo plazo sin quemarte), y hábitos de relación (los que construyen el capital social que el emprendimiento requiere). Para cada uno, define la versión mínima viable que puedes mantener incluso en la semana más ocupada.
 
-El sistema de hábitos que funciona en la peor semana es el unico que realmente se convierte en hábito.
+El sistema de hábitos que funciona en la peor semana es el único que realmente se convierte en hábito.
 
 ---
 

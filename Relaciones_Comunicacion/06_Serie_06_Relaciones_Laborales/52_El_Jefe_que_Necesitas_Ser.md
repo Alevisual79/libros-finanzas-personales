@@ -37,7 +37,7 @@ La investigación sobre liderazgo efectivo converge consistentemente en que la c
 
 **El Principio de la Relación como Base del Desempeño:** El modelo de liderazgo basado en intercambio líder-miembro (LMX) muestra que la calidad de la relación individual entre un líder y cada miembro de su equipo predice significativamente el desempeño, la satisfacción y la retención de ese miembro específico, más allá de políticas o procesos organizacionales generales aplicados de forma uniforme.
 
-**Ejercicio inmediato:** Evalua la calidad de tu relación individual con cada miembro de tu equipo, si lideras a otros. Hay alguien con quien la relación sea notablemente más debil? ¿Que acción podría mejorarla?
+**Ejercicio inmediato:** Evalua la calidad de tu relación individual con cada miembro de tu equipo, si lideras a otros. Hay alguien con quien la relación sea notablemente más débil? ¿Que acción podría mejorarla?
 
 El liderazgo no es una habilidad técnica que se ejerce sobre procesos. Es una habilidad relacional que se ejerce sobre personas.
 
@@ -119,7 +119,7 @@ Delegar sin abandonar significa confiar lo suficiente para soltar el control, pe
 
 Reconocer errores propios y pedir disculpas genuinas a un equipo, lejos de debilitar la autoridad de un líder, frecuentemente la fortalece al demostrar integridad y humanidad.
 
-**El Principio de la Vulnerabilidad como Fortaleza de Liderazgo:** Los líderes que reconocen explicitamente sus errores y piden disculpas genuinas cuando corresponde generan mayor confianza y respeto en sus equipos que los que evitan toda admisión de error por temor a parecer debiles. Esta vulnerabilidad calculada comunica integridad y modela un comportamiento que el equipo, a su vez, se siente más seguro de replicar.
+**El Principio de la Vulnerabilidad como Fortaleza de Liderazgo:** Los líderes que reconocen explicitamente sus errores y piden disculpas genuinas cuando corresponde generan mayor confianza y respeto en sus equipos que los que evitan toda admisión de error por temor a parecer débiles. Esta vulnerabilidad calculada comunica integridad y modela un comportamiento que el equipo, a su vez, se siente más seguro de replicar.
 
 **Ejercicio inmediato:** Si tienes un error pendiente de reconocer ante tu equipo, considera dar ese paso, formulando una disculpa específica que reconozca el impacto de tu error sin excesiva autojustificación.
 

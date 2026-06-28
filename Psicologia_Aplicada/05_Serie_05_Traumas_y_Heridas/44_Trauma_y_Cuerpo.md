@@ -93,7 +93,7 @@ El cuerpo que no pudo moverse cuando quería todavía guarda el recuerdo de ese 
 
 Ruben ha aprendido que su patron respiratorio habitual (superficial, con poco uso del diafragma) es en si mismo una manifestación del trauma. La respiración es una de las herramientas más accesibles para comenzar a regularse.
 
-**El Principio de la Respiración como Palanca del Sistema Nervioso Autonomo:** El nervio vago, que es el nervio principal del sistema parasimpatico y el centro de la teoria polivagal de Porges, tiene conexiones directas con los músculos respiratorios. La respiración es el unico proceso autonomo que puede ser controlado deliberadamente, lo que la convierte en una via de acceso directo al sistema nervioso autonomo.
+**El Principio de la Respiración como Palanca del Sistema Nervioso Autonomo:** El nervio vago, que es el nervio principal del sistema parasimpatico y el centro de la teoria polivagal de Porges, tiene conexiones directas con los músculos respiratorios. La respiración es el único proceso autonomo que puede ser controlado deliberadamente, lo que la convierte en una via de acceso directo al sistema nervioso autonomo.
 
 La respiración diafragmatica lenta (especialmente la extensión de la exhalación relativa a la inhalación) activa el nervio vago ventral y produce la respuesta de calma y conexión que es el antídoto de la hiperactivación traumática. Andrew Huberman de Stanford ha documentado un protocolo específico de doble inhalación seguida de exhalación larga (el physiological sigh) que produce reducción rápida de la activación del sistema simpatico.
 

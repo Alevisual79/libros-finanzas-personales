@@ -141,7 +141,7 @@ Reparar una relación no siempre significa volver a lo que era antes. A veces si
 
 ## Epílogo
 
-Una relación se puede reparar. Pero primero hay que entender exactamente que es lo que necesita reparación. Ruben, después de examinar honestamente su propia contribución al distanciamiento con su hermano, inició una conversación que no fue facil, pero que por primera vez aborto la raiz real del problema en lugar de una disculpa superficial. La relación que emergio, meses después, no era la misma que tenían antes. Era, sorprendentemente, mejor.
+Una relación se puede reparar. Pero primero hay que entender exactamente que es lo que necesita reparación. Ruben, después de examinar honestamente su propia contribución al distanciamiento con su hermano, inició una conversación que no fue fácil, pero que por primera vez aborto la raiz real del problema en lugar de una disculpa superficial. La relación que emergio, meses después, no era la misma que tenían antes. Era, sorprendentemente, mejor.
 
 ---
 

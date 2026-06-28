@@ -141,7 +141,7 @@ Cada etapa del período posterior a la salida tiene sus propios desafios predeci
 
 ## Epílogo
 
-Saber que tienes que irte y poder irte son dos cosas distintas. Este libro trabaja la segunda. Isabel, finalmente, con un plan concreto y el apoyo de dos amigas cercanas que activo explicitamente para el proceso, dio el paso que había sabido necesario durante dos años. No fue facil. Pero por primera vez, el conocimiento que llevaba tanto tiempo cargando se convirtió en acción real.
+Saber que tienes que irte y poder irte son dos cosas distintas. Este libro trabaja la segunda. Isabel, finalmente, con un plan concreto y el apoyo de dos amigas cercanas que activo explicitamente para el proceso, dio el paso que había sabido necesario durante dos años. No fue fácil. Pero por primera vez, el conocimiento que llevaba tanto tiempo cargando se convirtió en acción real.
 
 ---
 

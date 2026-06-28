@@ -75,7 +75,7 @@ La conversación sobre dinero en la pareja suele ir mal por las mismas razones: 
 
 La conversación financiera efectiva tiene tres elementos: datos compartidos (ambos ven los mismos números), perspectivas compartidas (cada uno expresa su sentir sobre la situación sin atacar al otro), y decisiones compartidas (los acuerdos son de ambos, no impuestos por ninguno).
 
-**Ejercicio inmediato:** Propone a tu pareja una conversación mensual de finanzas, de no más de una hora, en un momento de calma. El unico objetivo: revisar juntos el estado de las cuentas y acordar un gasto o ahorro para el mes siguiente. Sin críticas. Sin juicios. Solo números y acuerdos.
+**Ejercicio inmediato:** Propone a tu pareja una conversación mensual de finanzas, de no más de una hora, en un momento de calma. El único objetivo: revisar juntos el estado de las cuentas y acordar un gasto o ahorro para el mes siguiente. Sin críticas. Sin juicios. Solo números y acuerdos.
 
 Las parejas que hablan de dinero regularmente en calma raramente necesitan hablar de dinero en el conflicto.
 

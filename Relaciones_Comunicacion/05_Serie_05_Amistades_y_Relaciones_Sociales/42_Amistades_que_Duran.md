@@ -141,7 +141,7 @@ No puedes invertir igual en todas las amistades de tu vida. Saber donde invertir
 
 ## Epílogo
 
-La amistad larga no se mantiene sola. Se cuida, se actualiza y se elige una y otra vez. Ruben, después de reflexionar sobre la diferencia entre amigos antiguos y amigos actuales, decidió invertir deliberadamente en dos personas de su vida actual con quienes sentía conexión real pero poco contacto reciente, en lugar de seguir asumiendo automáticamente que sus amigos de la infancia, con quienes apenas hablaba, eran los unicos amigos que importaban.
+La amistad larga no se mantiene sola. Se cuida, se actualiza y se elige una y otra vez. Ruben, después de reflexionar sobre la diferencia entre amigos antiguos y amigos actuales, decidió invertir deliberadamente en dos personas de su vida actual con quienes sentía conexión real pero poco contacto reciente, en lugar de seguir asumiendo automáticamente que sus amigos de la infancia, con quienes apenas hablaba, eran los únicos amigos que importaban.
 
 ---
 

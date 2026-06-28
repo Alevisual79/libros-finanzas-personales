@@ -129,7 +129,7 @@ Las amistades individuales se construyen una a una. El sentido de pertenencia se
 
 ## Capítulo 10: De la soledad a la conexión: el camino práctico
 
-Superar la soledad cronica es un proceso, no un evento unico, que combina cambios internos (en la relación con la vulnerabilidad y el riesgo social) con cambios externos (en las estructuras y comunidades a las que se pertenece).
+Superar la soledad cronica es un proceso, no un evento único, que combina cambios internos (en la relación con la vulnerabilidad y el riesgo social) con cambios externos (en las estructuras y comunidades a las que se pertenece).
 
 **El Principio del Camino Integrado:** El camino de la soledad a la conexión combina multiples elementos trabajados en este libro: reconocer honestamente el propio nivel de soledad, distinguir entre soledad elegida e impuesta, dar pasos graduales hacía mayor interacción social, practicar la vulnerabilidad apropiada, y buscar pertenencia en comunidades estructuradas. Ningun elemento aislado es suficiente; la combinación sostenida en el tiempo es lo que produce el cambio real.
 

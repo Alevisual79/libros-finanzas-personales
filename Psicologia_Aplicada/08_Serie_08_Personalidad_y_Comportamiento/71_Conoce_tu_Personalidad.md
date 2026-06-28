@@ -35,7 +35,7 @@ Conocer tu personalidad no te dice lo que haras. Te dice lo que tenderas a hacer
 
 ## Capítulo 2: El modeló de los Cinco Grandes: el más validado cientificamente
 
-Ruben ha tomado muchos tests de personalidad. El unico que la investigación valida con solidez es el de los Cinco Grandes.
+Ruben ha tomado muchos tests de personalidad. El único que la investigación valida con solidez es el de los Cinco Grandes.
 
 **El Principio del Modelo Big Five como el Marco de Personalidad con Mayor Evidencia Empirica:** El modelo de los Cinco Grandes (Big Five o OCEAN por sus siglas en ingles: Openness, Conscientiousness, Extraversión, Agreeableness, Neuroticism) emerge de análisis factoriales de los adjetivos utilizados para describir la personalidad en diferentes idiomas y culturas. Lewis Goldberg, Paul Costa, y Robert McCrae han sido los principales desarrolladores e investigadores de este modelo.
 
@@ -65,7 +65,7 @@ Los rasgos de personalidad no son deterministas. Son probabilidades condicionada
 
 Ruben ha tomado el MBTI en su empresa y le han asignado un tipo (INTJ). Quiere saber que puede confiar en ese resultado.
 
-**El Principio del MBTI como Herramienta Popular con Limitaciones Psicometricas Significativas:** El Myers-Briggs Type Indicator es el test de personalidad más usado en el mundo (dos millones de personas lo toman cada año, frecuentemente en entornos corporativos) y al mismo tiempo uno de los más criticados por los psicologos académicos. Sus limitaciones principales son: la clasificación en tipos discretos (INTJ, ENFP, etc.) en lugar de dimensiones continuas, lo que produce que el mismo individuo obtenga tipos diferentes en diferentes momentos; la baja fiabilidad test-retest (aproximadamente el 50% de las personas obtiene un tipo diferente si repiten el test cuatro semanas después); y la debil correlación con el Big Five, que tiene mayor evidencia de validez.
+**El Principio del MBTI como Herramienta Popular con Limitaciones Psicometricas Significativas:** El Myers-Briggs Type Indicator es el test de personalidad más usado en el mundo (dos millones de personas lo toman cada año, frecuentemente en entornos corporativos) y al mismo tiempo uno de los más criticados por los psicologos académicos. Sus limitaciones principales son: la clasificación en tipos discretos (INTJ, ENFP, etc.) en lugar de dimensiones continuas, lo que produce que el mismo individuo obtenga tipos diferentes en diferentes momentos; la baja fiabilidad test-retest (aproximadamente el 50% de las personas obtiene un tipo diferente si repiten el test cuatro semanas después); y la débil correlación con el Big Five, que tiene mayor evidencia de validez.
 
 Esto no significa que el MBTI no tenga ninguna utilidad: puede ser una herramienta de reflexión y de conversación sobre diferencias de estilo. Pero no debería usarse para decisiones de contratación o de asignación de roles, para lo que su evidencia es insuficiente.
 
@@ -137,7 +137,7 @@ Ruben tiene ahora un mapa de su personalidad pero no sabe bien como usarlo.
 
 **El Principio del Conocimiento de la Personalidad como Herramienta para Decisiones más Alineadas:** El valor del conocimiento de la personalidad no esta en la etiqueta sino en las implicaciones para las decisiones: entornos que facilitan el florecimiento y entornos que lo dificultan, relaciones que producen el mejor y el peor de uno mismo, roles profesionales que aprovechan los rasgos más fuertes, y áreas donde el desarrollo deliberado produce mayor retorno.
 
-La investigación de Alex Linley sobre las fortalezas y los puntos debiles de personalidad muestra que el rendimiento más alto se produce cuando el entorno permite a la persona usar sus rasgos más fuertes en lugar de compensar los más debiles. Las estrategias más efectivas no son las de corrección de debilidades sino las de amplificación de fortalezas.
+La investigación de Alex Linley sobre las fortalezas y los puntos débiles de personalidad muestra que el rendimiento más alto se produce cuando el entorno permite a la persona usar sus rasgos más fuertes en lugar de compensar los más débiles. Las estrategias más efectivas no son las de corrección de debilidades sino las de amplificación de fortalezas.
 
 **Ejercicio inmediato:** Para tus tres rasgos de personalidad más marcados (altos o bajos en el Big Five), reflexiona para cada uno: ¿que tipo de trabajo, relaciones, o entornos permiten que ese rasgo sea un recurso? ¿Cuales lo convierten en un problema? Esa información es un mapa para tomar decisiones más alineadas con quien eres.
 

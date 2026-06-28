@@ -37,9 +37,9 @@ La traición no siempre es lo que se ve en las peliculas. A veces es mucho más 
 
 ## Capítulo 2: Tipos de infidelidad
 
-No todas las infidelidades son iguales. La investigación distingue varios tipos, cada uno con dinámicas y procesos de recuperación distintos: la infidelidad sexual unica, la relación paralela prolongada, la infidelidad emocional sin contacto físico, y la infidelidad digital.
+No todas las infidelidades son iguales. La investigación distingue varios tipos, cada uno con dinámicas y procesos de recuperación distintos: la infidelidad sexual única, la relación paralela prolongada, la infidelidad emocional sin contacto físico, y la infidelidad digital.
 
-**El Principio de la Diferenciación de Tipos:** El tipo de infidelidad afecta significativamente el proceso de recuperación. Una infidelidad sexual unica, sin componente emocional significativo, suele ser más facil de procesar (aunque sigue siendo profundamente dolorosa) que una relación paralela prolongada con componente emocional profundo, porque esta última implica un nivel de engaño sostenido y de inversión emocional en otra persona que es más difícil de reconciliar con el compromiso a la relación.
+**El Principio de la Diferenciación de Tipos:** El tipo de infidelidad afecta significativamente el proceso de recuperación. Una infidelidad sexual única, sin componente emocional significativo, suele ser más fácil de procesar (aunque sigue siendo profundamente dolorosa) que una relación paralela prolongada con componente emocional profundo, porque esta última implica un nivel de engaño sostenido y de inversión emocional en otra persona que es más difícil de reconciliar con el compromiso a la relación.
 
 **Ejercicio inmediato:** Si estas procesando una infidelidad, identifica que tipo específico fue (sin minimizarlo ni exagerarlo). Esa claridad ayuda a entender que tipo de proceso de recuperación es relevante, y a comunicar con más precisión lo que necesitas de tu pareja para sanar.
 
@@ -57,7 +57,7 @@ Entender la via específica que llevo a la infidelidad, sin que eso la justifiqu
 
 **Ejercicio inmediato:** Si has cometido una infidelidad, reflexiona honestamente sobre que necesidad o vacio buscabas llenar, más allá de la atracción hacía la otra persona. Esa reflexión, hecha con honestidad, es el inició del trabajo real de cambio.
 
-Entender por qué ocurrio no es excusarlo. Es la unica forma de evitar que vuelva a ocurrir.
+Entender por qué ocurrio no es excusarlo. Es la única forma de evitar que vuelva a ocurrir.
 
 ---
 

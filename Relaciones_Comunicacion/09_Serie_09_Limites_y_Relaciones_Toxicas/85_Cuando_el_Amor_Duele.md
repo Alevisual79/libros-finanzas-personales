@@ -37,7 +37,7 @@ El abuso emocional frecuentemente sigue un ciclo reconocible que combina períod
 
 **El Principio del Ciclo de Tres Fases:** Este ciclo tipicamente incluye una fase de idealización (donde la relación se siente excepcionalmente intensa y positiva), una fase de devaluación (donde comienzan las críticas, el control, o el trató degradante), y en algunos casos una fase de descarte temporal (distanciamiento o amenaza de terminar la relación) que frecuentemente es seguida por un retorno a la idealización, reiniciando el ciclo.
 
-**Ejercicio inmediato:** Si reconoces este patron ciclico en tu relación, identifica en que fase te encuentras actualmente y reflexiona sobre cuantas veces este ciclo se ha repetido a lo largo del tiempo.
+**Ejercicio inmediato:** Si reconoces este patron cíclico en tu relación, identifica en que fase te encuentras actualmente y reflexiona sobre cuantas veces este ciclo se ha repetido a lo largo del tiempo.
 
 El ciclo de idealización, devaluación y descarte no es amor intenso y complejo. Es un patron reconocible de abuso que, una vez identificado, ayuda a entender lo que realmente está ocurriendo.
 
@@ -123,7 +123,7 @@ El proceso de recuperación después de una relación abusiva significativa requ
 
 **Ejercicio inmediato:** Si estas en proceso de recuperación de una relación abusiva, identifica cual de estas dimensiones (procesamiento del trauma, reconstrucción de autoestima, desarrollo de discernimiento futuro) necesita más atención en este momento de tu proceso.
 
-La recuperación del abuso emocional no es un proceso unico, sino multiples dimensiones de trabajo que, abordadas conjuntamente, producen una sanación más completa.
+La recuperación del abuso emocional no es un proceso único, sino multiples dimensiones de trabajo que, abordadas conjuntamente, producen una sanación más completa.
 
 ---
 

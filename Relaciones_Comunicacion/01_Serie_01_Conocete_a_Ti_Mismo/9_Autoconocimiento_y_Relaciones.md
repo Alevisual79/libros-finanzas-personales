@@ -119,7 +119,7 @@ Erving Goffman describió la vida social cómo una actuación constante: present
 
 **Ejercicio inmediato:** Describe en pocas palabras quien eres en el trabajo, quien eres con tu familia de origen, quien eres con tus amigos intimos y quien eres cuando estas solo. ¿Que tienen en común esas cuatro versiones? Lo que comparten todas es probablemente lo más cercano a tu yo autentico.
 
-No hay un yo autentico unico. Pero hay un nucleo que debería reconocerse en todas las versiones.
+No hay un yo autentico único. Pero hay un nucleo que debería reconocerse en todas las versiones.
 
 ---
 

@@ -93,7 +93,7 @@ El perdon no es un premio que la otra persona se gana con buen comportamiento. E
 
 ## Capítulo 7: Perdonar en fases: no es una decisión sino un camino
 
-El perdon de heridas significativas raramente ocurre cómo un evento unico definitivo, sino cómo un proceso gradual que avanza en fases, con momentos de más claridad y momentos de retroceso al dolor original.
+El perdon de heridas significativas raramente ocurre cómo un evento único definitivo, sino cómo un proceso gradual que avanza en fases, con momentos de más claridad y momentos de retroceso al dolor original.
 
 **El Principio del Perdon como Proceso Iterativo:** El perdon de heridas profundas frecuentemente requiere multiples momentos de trabajo a lo largo del tiempo, donde la persona avanza, retrocede temporalmente cuando algo reactiva el dolor original, y vuelve a avanzar. Esta iteración no significa fracaso del trabajo previo de perdon; es la naturaleza normal del proceso para heridas suficientemente significativas.
 

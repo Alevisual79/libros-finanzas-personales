@@ -123,7 +123,7 @@ Los objetos físicos (fotografías, objetos heredados, recuerdos materiales) fun
 
 **El Principio del Objeto como Ancla de Memoria:** Los objetos con carga emocional familiar (fotografías antiguas, objetos heredados de generaciones anteriores) funcionan como disparadores de narrativa y memoria compartida cuando se incorporan deliberadamente en momentos de conexión familiar, en lugar de quedar simplemente guardados sin ser revisitados activamente.
 
-**Ejercicio inmediato:** Elige un objeto o fotografía con significado familiar y comparte, en un momento de conexión con tu familia, la historia que hay detras. Considera convertir esto en una práctica ocasional, no solo un evento unico.
+**Ejercicio inmediato:** Elige un objeto o fotografía con significado familiar y comparte, en un momento de conexión con tu familia, la historia que hay detras. Considera convertir esto en una práctica ocasional, no solo un evento único.
 
 Los objetos familiares cobran su valor real cuando se convierten en disparadores de historias compartidas, no cuando solo se guardan.
 

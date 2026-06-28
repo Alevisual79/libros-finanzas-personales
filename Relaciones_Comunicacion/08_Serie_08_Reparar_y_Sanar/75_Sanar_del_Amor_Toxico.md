@@ -25,7 +25,7 @@ Una relación toxica se caracteriza por un patron consistente de dinámicas dañ
 
 **El Principio del Patron Acumulativo sobre el Evento Aislado:** Las relaciones toxicas se definen por patrones consistentes que erosionan progresivamente el bienestar de quien los experimenta: crítica constante disfrazada de honestidad, control disfrazado de preocupación, manipulación emocional, y una dinámica general donde la persona se siente cada vez más pequeña, más insegura, y más dependiente de la aprobación del otro. Ningun incidente aislado podría explicar completamente el daño; es la acumulación la que lo produce.
 
-**Ejercicio inmediato:** Si sospechas que estuviste o estas en una relación toxica, en lugar de buscar un evento dramatico unico que la defina, evalua el patron acumulado: ¿te sentias, en general, mejor o peor versión de ti mismo dentro de esa relación?
+**Ejercicio inmediato:** Si sospechas que estuviste o estas en una relación toxica, en lugar de buscar un evento dramatico único que la defina, evalua el patron acumulado: ¿te sentias, en general, mejor o peor versión de ti mismo dentro de esa relación?
 
 Una relación toxica raramente tiene un solo momento que la defina. Tiene un patron acumulado que, mirado en retrospectiva, deja claro el daño que produjó.
 
@@ -33,11 +33,11 @@ Una relación toxica raramente tiene un solo momento que la defina. Tiene un pat
 
 ## Capítulo 2: El ciclo del amor toxico
 
-Las relaciones toxicas frecuentemente siguen un patron ciclico reconocible que alterna períodos de tensión creciente, episodios de conflicto o daño, y períodos de reconciliación intensa que generan esperanza de cambio, perpetuando el ciclo.
+Las relaciones toxicas frecuentemente siguen un patron cíclico reconocible que alterna períodos de tensión creciente, episodios de conflicto o daño, y períodos de reconciliación intensa que generan esperanza de cambio, perpetuando el ciclo.
 
-**El Principio del Ciclo de Tensión-Conflicto-Reconciliación:** Este patron ciclico, documentado extensamente en la investigación sobre relaciones abusivas, explica por qué las personas permanecen en relaciones toxicas durante períodos prolongados: los períodos de reconciliación intensa, frecuentemente acompañados de gestos de afecto exagerados, generan esperanza renovada de que la relación realmente puede mejorar, lo cual mantiene a la persona invertida hasta que el ciclo se repite.
+**El Principio del Ciclo de Tensión-Conflicto-Reconciliación:** Este patron cíclico, documentado extensamente en la investigación sobre relaciones abusivas, explica por qué las personas permanecen en relaciones toxicas durante períodos prolongados: los períodos de reconciliación intensa, frecuentemente acompañados de gestos de afecto exagerados, generan esperanza renovada de que la relación realmente puede mejorar, lo cual mantiene a la persona invertida hasta que el ciclo se repite.
 
-**Ejercicio inmediato:** Si reconoces este patron ciclico en tu relación actual o pasada, identifica específicamente las fases: cómo se ve la tensión creciente, cómo se ve el conflicto o daño, y cómo se ve la reconciliación que renueva la esperanza.
+**Ejercicio inmediato:** Si reconoces este patron cíclico en tu relación actual o pasada, identifica específicamente las fases: cómo se ve la tensión creciente, cómo se ve el conflicto o daño, y cómo se ve la reconciliación que renueva la esperanza.
 
 El ciclo de tensión, conflicto y reconciliación intensa no es evidencia de que la relación realmente está mejorando. Es, frecuentemente, el patron mismo que mantiene a alguien atrapado.
 
@@ -47,7 +47,7 @@ El ciclo de tensión, conflicto y reconciliación intensa no es evidencia de que
 
 Salir de una relación toxica es significativamente más difícil de lo que parece desde fuera, debido a una combinación de factores psicológicos que mantienen a la persona atrapada incluso cuando reconoce intelectualmente que la relación le está dañando.
 
-**El Principio de los Multiples Anclajes psicológicos:** La dificultad de salir de una relación toxica involucra multiples factores simultaneos: el vinculó de apego que se ha formado, frecuentemente intensificado por el ciclo de tensión-reconciliación descrito anteriormente, la erosión de la autoestima que dificulta creer que se merece o se puede encontrar algo mejor, el aislamiento social que frecuentemente acompaña a estas relaciones, y en algunos casos, dependencia económica o práctica de la otra persona.
+**El Principio de los Multiples Anclajes psicológicos:** La dificultad de salir de una relación toxica involucra multiples factores simultáneos: el vinculó de apego que se ha formado, frecuentemente intensificado por el ciclo de tensión-reconciliación descrito anteriormente, la erosión de la autoestima que dificulta creer que se merece o se puede encontrar algo mejor, el aislamiento social que frecuentemente acompaña a estas relaciones, y en algunos casos, dependencia económica o práctica de la otra persona.
 
 **Ejercicio inmediato:** Si estas considerando salir de una relación que reconoces como toxica, identifica específicamente cuales de estos anclajes psicológicos estan presentes en tu situación. Esa identificación ayuda a buscar el apoyo específico necesario para cada uno.
 

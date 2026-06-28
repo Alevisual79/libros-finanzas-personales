@@ -47,7 +47,7 @@ Hay personas con mucha empatia cognitiva pero poca emocional: entienden intelect
 
 Las relaciones de mayor calidad requieren las dos dimensiones en alguna medida. La empatia cognitiva para entender correctamente la situación del otro. La emocional para que el otro se sienta entendido a nivel de experiencia, no solo a nivel intelectual.
 
-**Ejercicio inmediato:** Identifica cual de las dos dimensiones tienes más desarrollada naturalmente. Si eres más cognitivo, práctica estar con la emoción del otro más tiempo antes de pasar al análisis. Si eres más emocional, práctica identificar con precisión la perspectiva del otro antes de conectar emocionalmente. El punto debil es donde esta el crecimiento.
+**Ejercicio inmediato:** Identifica cual de las dos dimensiones tienes más desarrollada naturalmente. Si eres más cognitivo, práctica estar con la emoción del otro más tiempo antes de pasar al análisis. Si eres más emocional, práctica identificar con precisión la perspectiva del otro antes de conectar emocionalmente. El punto débil es donde esta el crecimiento.
 
 Entender la situación del otro es la mitad. Entender cómo se siente en esa situación es la otra mitad.
 
@@ -57,7 +57,7 @@ Entender la situación del otro es la mitad. Entender cómo se siente en esa sit
 
 Cuando Isabel le dice a su empleado que lamenta lo que está pasando con su madre enferma y que debe ser muy difícil desde el punto de vista de la gestión del tiempo, no está siendo empatica. Está siendo simpatica desde su perspectiva de gestora. La empatia hubiera sido: ¿cuentame, que es lo más difícil de todo esto para ti?
 
-**El Principio de la Perspectiva Original:** La simpatia mira al otro desde la propia posición: lo que sería difícil para mi en tu situación. La empatia intenta acceder a la posición del otro: que es difícil específicamente para esta persona en esta situación. La simpatia a veces es suficiente y siempre es más facil. La empatia es lo que produce la sensación de haber sido realmente comprendido.
+**El Principio de la Perspectiva Original:** La simpatia mira al otro desde la propia posición: lo que sería difícil para mi en tu situación. La empatia intenta acceder a la posición del otro: que es difícil específicamente para esta persona en esta situación. La simpatia a veces es suficiente y siempre es más fácil. La empatia es lo que produce la sensación de haber sido realmente comprendido.
 
 Brene Brown ilustra la diferencia con una imagen poderosa: la simpatia mira desde fuera del pozo donde esta el otro y dice lo siento, eso parece difícil. La empatia baja al pozo y dice se cómo se siente estar aquí, no estas solo.
 
@@ -97,7 +97,7 @@ La empatia no se demuestra con grandes gestos. Se práctica en las conversacione
 
 ## Capítulo 6: Empatia con personas que no te caen bien
 
-La empatia es facil con las personas que nos gustan. Es la habilidad relacional más exigente cuando se aplica a personas con las que tenemos dificultades, que nos generan rechazó, o cuyas conductas nos parecen inaceptables.
+La empatia es fácil con las personas que nos gustan. Es la habilidad relacional más exigente cuando se aplica a personas con las que tenemos dificultades, que nos generan rechazó, o cuyas conductas nos parecen inaceptables.
 
 **El Principio de la Empatia Independiente de la Aprobación:** La empatia no requiere aprobación. Puedes entender la perspectiva de alguien con quien estaras en desacuerdo. Puedes entender como alguien llegó a una conducta que consideras incorrecta sin por eso estar de acuerdo con esa conducta. Separar la comprensión de la aprobación es la clave de la empatia con personas difíciles.
 

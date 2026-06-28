@@ -65,7 +65,7 @@ La libertad de no tener jefe es real. La trampa es que sin sistema propio, el mu
 
 Lucia recuerda la facilidad con que conseguia reuniones, aprobaciones, y recursos dentro de su empresa anterior. Como emprendedora, ha tenido que reconstruir todo su capital relacional desde cero.
 
-**El Principio del Capital Social como el Recurso más Infraestimado en la Transición al Emprendimiento y que Requiere Construcción Activa:** La investigación de Mark Granovetter sobre los lazos debiles (weak ties) en las redes sociales muestra que los contactos que no son parte del circulo intimo (que frecuentemente tienen acceso a la misma información que tu) son más valiosos para encontrar oportunidades de negocio porque tienen acceso a información y recursos que tu red densa no tiene.
+**El Principio del Capital Social como el Recurso más Infraestimado en la Transición al Emprendimiento y que Requiere Construcción Activa:** La investigación de Mark Granovetter sobre los lazos débiles (weak ties) en las redes sociales muestra que los contactos que no son parte del circulo intimo (que frecuentemente tienen acceso a la misma información que tu) son más valiosos para encontrar oportunidades de negocio porque tienen acceso a información y recursos que tu red densa no tiene.
 
 El ex-empleado que emprende tiene frecuentemente un capital social intenso (conoce bien a pocas personas) pero poco extenso (conoce superficialmente a pocas personas fuera de su sector anterior). El emprendimiento requiere ampliar deliberadamente esa red hacía personas fuera del circulo habitual: potenciales clientes, colaboradores, mentores, inversores, y otros emprendedores.
 
@@ -141,7 +141,7 @@ Cal Newport propone en Deep Work que el trabajo cognitivo de mayor valor requier
 
 **Ejercicio inmediato:** Diseña tu estructura de tiempo semanal como emprendedor con la misma deliberación con que diseñarias la estructura de tiempo de un equipo: ¿que bloques son para el trabajo profundo de mayor impacto (estrategia, creación, relaciones clave)? ¿Que bloques son para las tareas operativas? ¿Que bloques son para la recuperación que hace posible el rendimiento sostenido? Una vez diseñada, trata esa estructura como si la hubiera impuesto un jefe exigente que entiende lo que tu negocio necesita.
 
-La soberania sobre el tiempo es la mayor libertad del emprendedor. Y la trampa más facil en la que caer.
+La soberania sobre el tiempo es la mayor libertad del emprendedor. Y la trampa más fácil en la que caer.
 
 ---
 
@@ -161,7 +161,7 @@ El emprendedor que llegaras a ser no lo eras cuando empezaste. Lo seras cuando h
 
 ## Epílogo
 
-Marcos tardó dieciocho meses en sentir que realmente era emprendedor en lugar de un ex-directivo corporativo que intentaba emprender. El cambio no ocurrio en un momento específico sino a traves de decenas de pequeñas transiciones: la primera vez que tomó una decisión importante sin consultar a nadie, la primera vez que contrató a alguien sin tener certeza de poder pagarle en tres meses, la primera vez que un cliente pago por algo que había creado de cero. Cada una de esas transiciones era una pequeña muerte del empleado que había sido y un pequeño nacimiento del emprendedor que se estaba convirtiendo. No fue facil. Pero tampoco fue lo que había temido.
+Marcos tardó dieciocho meses en sentir que realmente era emprendedor en lugar de un ex-directivo corporativo que intentaba emprender. El cambio no ocurrio en un momento específico sino a traves de decenas de pequeñas transiciones: la primera vez que tomó una decisión importante sin consultar a nadie, la primera vez que contrató a alguien sin tener certeza de poder pagarle en tres meses, la primera vez que un cliente pago por algo que había creado de cero. Cada una de esas transiciones era una pequeña muerte del empleado que había sido y un pequeño nacimiento del emprendedor que se estaba convirtiendo. No fue fácil. Pero tampoco fue lo que había temido.
 
 ---
 

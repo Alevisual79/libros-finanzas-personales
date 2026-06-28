@@ -650,6 +650,77 @@ ESDRUJ_FIXES = [
     (re.compile(r'\bcondicion\b',     re.IGNORECASE), 'condición'),
     # percepción (already above)
     # posición (already above)
+    # fácil/es
+    (re.compile(r'\bfacil\b',         re.IGNORECASE), 'fácil'),
+    (re.compile(r'\bfaciles\b',       re.IGNORECASE), 'fáciles'),
+    # difícil/es
+    (re.compile(r'\bdificil\b',       re.IGNORECASE), 'difícil'),
+    (re.compile(r'\bdificiles\b',     re.IGNORECASE), 'difíciles'),
+    # único/a/os/as (never a verb form)
+    (re.compile(r'\bunico\b',         re.IGNORECASE), 'único'),
+    (re.compile(r'\bunica\b',         re.IGNORECASE), 'única'),
+    (re.compile(r'\bunicos\b',        re.IGNORECASE), 'únicos'),
+    (re.compile(r'\bunicas\b',        re.IGNORECASE), 'únicas'),
+    # móvil/es (noun/adjective only; no verb "movilarse")
+    (re.compile(r'\bmovil\b',         re.IGNORECASE), 'móvil'),
+    (re.compile(r'\bmoviles\b',       re.IGNORECASE), 'móviles'),
+    # éxito/s (noun only)
+    (re.compile(r'\bexito\b',         re.IGNORECASE), 'éxito'),
+    (re.compile(r'\bexitos\b',        re.IGNORECASE), 'éxitos'),
+    # débil/es (adjective only)
+    (re.compile(r'\bdebil\b',         re.IGNORECASE), 'débil'),
+    (re.compile(r'\bdebiles\b',       re.IGNORECASE), 'débiles'),
+    # ágil/es (adjective only)
+    (re.compile(r'\bagil\b',          re.IGNORECASE), 'ágil'),
+    (re.compile(r'\bagiles\b',        re.IGNORECASE), 'ágiles'),
+    # cómodo/a/os/as (adjective only)
+    (re.compile(r'\bcomodo\b',        re.IGNORECASE), 'cómodo'),
+    (re.compile(r'\bcomoda\b',        re.IGNORECASE), 'cómoda'),
+    (re.compile(r'\bcomodos\b',       re.IGNORECASE), 'cómodos'),
+    (re.compile(r'\bcomodas\b',       re.IGNORECASE), 'cómodas'),
+    # óptimo/a/os/as (adjective only)
+    (re.compile(r'\boptimo\b',        re.IGNORECASE), 'óptimo'),
+    (re.compile(r'\boptima\b',        re.IGNORECASE), 'óptima'),
+    (re.compile(r'\boptimos\b',       re.IGNORECASE), 'óptimos'),
+    (re.compile(r'\boptimas\b',       re.IGNORECASE), 'óptimas'),
+    # rápido/a/os/as, rápidamente (adjective only)
+    (re.compile(r'\brapido\b',        re.IGNORECASE), 'rápido'),
+    (re.compile(r'\brapida\b',        re.IGNORECASE), 'rápida'),
+    (re.compile(r'\brapidos\b',       re.IGNORECASE), 'rápidos'),
+    (re.compile(r'\brapidas\b',       re.IGNORECASE), 'rápidas'),
+    (re.compile(r'\brapidamente\b',   re.IGNORECASE), 'rápidamente'),
+    # mínimo/a/os/as (adjective/noun only)
+    (re.compile(r'\bminimo\b',        re.IGNORECASE), 'mínimo'),
+    (re.compile(r'\bminima\b',        re.IGNORECASE), 'mínima'),
+    (re.compile(r'\bminimos\b',       re.IGNORECASE), 'mínimos'),
+    (re.compile(r'\bminimas\b',       re.IGNORECASE), 'mínimas'),
+    # máximo/a/os/as (adjective/noun only)
+    (re.compile(r'\bmaximo\b',        re.IGNORECASE), 'máximo'),
+    (re.compile(r'\bmaximo\b',        re.IGNORECASE), 'máximo'),  # already above
+    # simultáneo/a/os/as (adjective only)
+    (re.compile(r'\bsimultaneo\b',    re.IGNORECASE), 'simultáneo'),
+    (re.compile(r'\bsimultanea\b',    re.IGNORECASE), 'simultánea'),
+    (re.compile(r'\bsimultaneos\b',   re.IGNORECASE), 'simultáneos'),
+    (re.compile(r'\bsimultaneas\b',   re.IGNORECASE), 'simultáneas'),
+    # cíclico/a/os/as (adjective only)
+    (re.compile(r'\bciclico\b',       re.IGNORECASE), 'cíclico'),
+    (re.compile(r'\bciclica\b',       re.IGNORECASE), 'cíclica'),
+    (re.compile(r'\bciclicos\b',      re.IGNORECASE), 'cíclicos'),
+    (re.compile(r'\bciclicas\b',      re.IGNORECASE), 'cíclicas'),
+    # útil/es (adjective only)
+    (re.compile(r'\butil\b',          re.IGNORECASE), 'útil'),
+    (re.compile(r'\butiles\b',        re.IGNORECASE), 'útiles'),
+    # símbolo/s (noun only)
+    (re.compile(r'\bsimbolo\b',       re.IGNORECASE), 'símbolo'),
+    (re.compile(r'\bsimbolos\b',      re.IGNORECASE), 'símbolos'),
+    # espíritu (noun only)
+    (re.compile(r'\bespiritu\b',      re.IGNORECASE), 'espíritu'),
+    # líquido/s (noun/adjective only)
+    (re.compile(r'\bliquido\b',       re.IGNORECASE), 'líquido'),
+    (re.compile(r'\bliquidos\b',      re.IGNORECASE), 'líquidos'),
+    # EXCLUIDOS por ambigüedad verbo/sustantivo:
+    # ánimo (yo animo = I encourage), límite (limitar subjunctive),
+    # válido (validar), título (titular), público (publicar)
 ]
 
 def fix_esdrujulas(line):

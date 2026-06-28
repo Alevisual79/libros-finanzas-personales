@@ -51,9 +51,9 @@ La sensación de que ya sabes algo cuando lo relees no es evidencia de que lo ha
 
 Isabel necesita retener información sobre legislación laboral que cambia con frecuencia. Ha probado estudiar en sesiones intensas de varias horas antes de necesitar usar la información. El efecto de olvidado es rápido. Tres meses después, debe volver a estudiar prácticamente desde cero.
 
-**El Principio del Espaciado como Distribución Optima del Estudio:** Hermann Ebbinghaus, el primer psicologo en estudiar sistemáticamente la memoria en el siglo XIX, documento la curva del olvido: sin repasó, la mayor parte de lo aprendido se olvida en el primer dia, con decrecimiento más lento posteriormente. Pero también encontró que repasar el material en el momento justo en que esta a punto de ser olvidado (no inmediatamente después de aprenderlo) produce una retencción a largo plazo muy superior a la del estudio masivo en una sola sesión.
+**El Principio del Espaciado como Distribución Óptima del Estudio:** Hermann Ebbinghaus, el primer psicologo en estudiar sistemáticamente la memoria en el siglo XIX, documento la curva del olvido: sin repasó, la mayor parte de lo aprendido se olvida en el primer dia, con decrecimiento más lento posteriormente. Pero también encontró que repasar el material en el momento justo en que esta a punto de ser olvidado (no inmediatamente después de aprenderlo) produce una retencción a largo plazo muy superior a la del estudio masivo en una sola sesión.
 
-Los sistemas modernos de flashcards con repetición espaciada (como Anki) implementan algoritmos que calculan el momento optimo de repasó para cada pieza de información individual. La investigación de Piotr Wozniak, que desarrollo el algoritmo SM-2 que usa Anki, muestra que estudiar con repetición espaciada durante veinte minutos diarios durante un año produce una retención comparable a cientos de horas de estudio convencional. El aprendizaje espaciado no es solo más eficiente. Es cualitativamente diferente en terminos de durabilidad del recuerdo.
+Los sistemas modernos de flashcards con repetición espaciada (como Anki) implementan algoritmos que calculan el momento óptimo de repasó para cada pieza de información individual. La investigación de Piotr Wozniak, que desarrollo el algoritmo SM-2 que usa Anki, muestra que estudiar con repetición espaciada durante veinte minutos diarios durante un año produce una retención comparable a cientos de horas de estudio convencional. El aprendizaje espaciado no es solo más eficiente. Es cualitativamente diferente en terminos de durabilidad del recuerdo.
 
 **Ejercicio inmediato:** Para cualquier tema que estes aprendiendo actualmente, crea un sistema de repasó espaciado, ya sea con flashcards físicas o con Anki: repasa el material al dia siguiente de aprenderlo, tres dias después, una semana después, dos semanas después, un mes después. El esfuerzo total es menor que el de reestudiar desde cero cada vez que necesitas el material.
 
@@ -81,11 +81,11 @@ Elena práctica sus habilidades de programación haciendo todos los ejercicios d
 
 **El Principio del Dificultad Deseable:** Robert Bjork, psicologo de UCLA que acunó el terminó dificultades deseables para las condiciones de aprendizaje que aumentan el esfuerzo pero mejoran la retención a largo plazo, demuestra que el aprendizaje entrelazado (practicar distintos tipos de habilidades o problemas mezclados en lugar de en bloque) produce mejor transferencia y retención, aunque el rendimiento inmediato sea peor que con práctica en bloque. Esto ocurre porque el entrelazado obliga al cerebro a identificar activamente que tipo de problema se está enfrentando antes de aplicar la solución, lo cual es exactamente lo que ocurre en la vida real, donde los problemas no vienen etiquetados por categoría.
 
-La práctica en bloque genera una sensación de dominio que es parcialmente ilusoria porque se está practicando en las condiciones más faciles posibles. El aprendizaje entrelazado, aunque más incomodo, produce una habilidad más robusta y transferible.
+La práctica en bloque genera una sensación de dominio que es parcialmente ilusoria porque se está practicando en las condiciones más fáciles posibles. El aprendizaje entrelazado, aunque más incomodo, produce una habilidad más robusta y transferible.
 
 **Ejercicio inmediato:** La próxima vez que practiques una habilidad (idioma, programación, matemáticas, deporte), mezcla deliberadamente diferentes tipos de ejercicios dentro de cada sesión en lugar de hacer todos los del mismo tipo juntos. Acepta que se sentira más difícil y menos satisfactorio en el momento como evidencia de que el aprendizaje más profundo está ocurriendo.
 
-El aprendizaje que se siente facil raramente produce competencia duradera. La dificultad que incomoda es frecuentemente la que deja huella.
+El aprendizaje que se siente fácil raramente produce competencia duradera. La dificultad que incomoda es frecuentemente la que deja huella.
 
 ---
 

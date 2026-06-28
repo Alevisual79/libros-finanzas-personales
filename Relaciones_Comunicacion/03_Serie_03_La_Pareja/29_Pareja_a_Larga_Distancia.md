@@ -47,7 +47,7 @@ La distancia no es el enemigo de las relaciones. La falta de plan y de comunicac
 
 ## Capítulo 3: Comunicación en la distancia: cantidad y calidad
 
-La comunicación es el unico canal disponible para mantener la conexión en una relación a distancia, lo que la convierte en el recurso más crítico a gestionar conscientemente.
+La comunicación es el único canal disponible para mantener la conexión en una relación a distancia, lo que la convierte en el recurso más crítico a gestionar conscientemente.
 
 **El Principio del Equilibrio entre Frecuencia y Calidad:** Las parejas a distancia que mantienen relaciones satisfactorias no son necesariamente las que se comunican con más frecuencia, sino las que encuentran un equilibrio entre suficiente contacto regular para sentirse conectados y suficiente calidad de esa comunicación (atención real, no solo mensajes superficiales) para que el contacto sea significativo. La comunicación constante pero superficial (mensajes de buenos dias sin contenido real) puede dar una falsa sensación de conexión sin la profundidad necesaria para mantener la relación realmente fuerte.
 
@@ -123,7 +123,7 @@ La tecnología ha transformado radicalmente lo que es posible en una relación a
 
 **El Principio del Uso Intencional de la Tecnologia:** Las herramientas de comunicación (videollamada, mensajeria, aplicaciones compartidas) son más efectivas cuando se usan con intención específica que cuando se usan simplemente porque estan disponibles. Una videollamada con atención plena de treinta minutos produce más conexión que cuatro horas de mensajes de texto distraidos mientras se hacen otras cosas. La calidad de la presencia durante el uso de la tecnología importa más que la cantidad de tiempo conectado.
 
-**Ejercicio inmediato:** Evaluen como usan actualmente la tecnología para comunicarse. Hay momentos de atención plena (videollamadas sin distracciones) o es mayormente comunicación fragmentada y distraida? Propongan al menos una sesión semanal de comunicación con atención plena, sin otras pantallas o tareas simultaneas.
+**Ejercicio inmediato:** Evaluen como usan actualmente la tecnología para comunicarse. Hay momentos de atención plena (videollamadas sin distracciones) o es mayormente comunicación fragmentada y distraida? Propongan al menos una sesión semanal de comunicación con atención plena, sin otras pantallas o tareas simultáneas.
 
 La tecnología puede acercar a una pareja a distancia o puede simplemente llenar el silencio sin producir conexión real. La diferencia esta en la intención con que se usa.
 
@@ -143,7 +143,7 @@ El siguiente paso después de la distancia no tiene que ser el que parece más o
 
 ## Epílogo
 
-Ruben y su pareja, después de ocho meses de distancia, tuvieron la conversación que habían estado posponiendo: cuando y como terminaria la distancia. No fue facil. Implicaba que uno de los dos hiciera un cambio significativo de vida. Pero la conversación, una vez tenida, les dio algo que les había faltado: un horizonte compartido y claro.
+Ruben y su pareja, después de ocho meses de distancia, tuvieron la conversación que habían estado posponiendo: cuando y como terminaria la distancia. No fue fácil. Implicaba que uno de los dos hiciera un cambio significativo de vida. Pero la conversación, una vez tenida, les dio algo que les había faltado: un horizonte compartido y claro.
 
 La distancia, descubrieron, era más sostenible cuando sabían hacía donde se dirigia.
 

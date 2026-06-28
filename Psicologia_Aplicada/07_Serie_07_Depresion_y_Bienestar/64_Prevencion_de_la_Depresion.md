@@ -71,7 +71,7 @@ Los estudios prospectivos de Eus Van Someren y colegas muestran que el insomnio 
 
 **Ejercicio inmediato:** Evalua la calidad de tu sueño habitual: ¿cuantas horas duermes? ¿Te despiertas descansado? ¿Tienes dificultades para quedarte dormido o te despiertas en medio de la noche? Si el insomnio es un problema habitual, tratarlo no es solo por el bienestar inmediato: es una inversión en la prevención de la depresión.
 
-El sueño que le niegas a tu cerebro no es solo una noche de descanso. Es una dosis de la sustancia que más protege tu salud mental. Y es la unica que no puedes almacenar.
+El sueño que le niegas a tu cerebro no es solo una noche de descanso. Es una dosis de la sustancia que más protege tu salud mental. Y es la única que no puedes almacenar.
 
 ---
 
@@ -141,7 +141,7 @@ Las aplicaciones de monitorización del estado de animo (mood tracking) permiten
 
 **Ejercicio inmediato:** Diseña tu plan de detección temprana: ¿cuales son las tres primeras señales que indican que tu estado de animo esta deteriorandose (cambios en el sueño, en el apetito, en el nivel de actividad, en los pensamientos, en las relaciones)? ¿Cuando aparecen esas señales, cuales son los dos primeros pasos que daras (contactar con tu psicologo, incrementar el ejercicio, activar tu red de apoyo)? Tener ese plan antes de necesitarlo es la clave.
 
-El episodio depresivo que detectas cuando comienza es más facil de interrumpir que el que detectas cuando ya está establecido.
+El episodio depresivo que detectas cuando comienza es más fácil de interrumpir que el que detectas cuando ya está establecido.
 
 ---
 
@@ -153,7 +153,7 @@ Isabel ha llegado a entender que la prevención de la depresión no es una lista
 
 Este diseño no elimina la vulnerabilidad a la depresión para las personas que la tienen. Pero crea un suelo más sólido que absorbe mejor los golpes y reduce la amplitud de las oscilaciones.
 
-**Ejercicio inmediato:** Evalua tu vida actual en los cinco componentes del modelo PERMA de Seligman: ¿emociones positivas (cuantas experiencias positivas tienes regularmente?), compromiso (cuantas actividades de flow o absorción completa?), relaciones (cuantas relaciones de calidad?), sentido (cuanto proposito sientes en lo que haces?), y logró (cuantas experiencias de competencia y progreso?). El componente más debil es donde la inversión preventiva tiene mayor retorno.
+**Ejercicio inmediato:** Evalua tu vida actual en los cinco componentes del modelo PERMA de Seligman: ¿emociones positivas (cuantas experiencias positivas tienes regularmente?), compromiso (cuantas actividades de flow o absorción completa?), relaciones (cuantas relaciones de calidad?), sentido (cuanto proposito sientes en lo que haces?), y logró (cuantas experiencias de competencia y progreso?). El componente más débil es donde la inversión preventiva tiene mayor retorno.
 
 La vida que protege tu mente no se diseña de una vez. Se construye, decisión a decisión, hábito a hábito, relación a relación. Y ese trabajo no termina nunca, que es lo mismo que decir que siempre hay algo que se puede mejorar.
 

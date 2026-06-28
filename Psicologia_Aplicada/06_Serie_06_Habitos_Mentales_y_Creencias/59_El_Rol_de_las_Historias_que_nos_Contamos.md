@@ -155,7 +155,7 @@ La autoria narrativa no es omnipotencia: no puede cambiar el pasado ni controlar
 
 **Ejercicio inmediato:** Escribe la primera linea de la historia que quieres vivir: no la que has estado viviendo ni la que crees que tendrías que vivir, sino la que, si pudieras elegir libremente, elegirias. Esa primera linea es el punto de partida de la reescritura. El primer capítulo empieza en el momento en que decides escribirlo.
 
-No puedes cambiar los primeros capítulos de tu historia. Pero a partir de hoy eres el unico autor de los que quedan.
+No puedes cambiar los primeros capítulos de tu historia. Pero a partir de hoy eres el único autor de los que quedan.
 
 ---
 

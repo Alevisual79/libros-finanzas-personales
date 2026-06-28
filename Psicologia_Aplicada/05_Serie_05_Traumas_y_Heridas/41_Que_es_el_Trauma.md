@@ -67,7 +67,7 @@ Isabel ha notado que en situaciones de amenaza intensa su respuesta es paralizar
 
 **El Principio de las Cuatro Respuestas de Supervivencia:** Walter Cannon identifico originalmente la respuesta de lucha-huida. Investigaciones posteriores, especialmente la de Peter Levine y Stephen Porges con su teoria polivagal, han añadido la paralisis (freeze, una respuesta de inmovilización que puede producir disociación) y la sumisión (fawn, la respuesta de apaciguamiento y complacencia como estrategia de supervivencia en situaciones donde ni luchar ni huir es posible).
 
-Las cuatro respuestas son adaptativas en el contexto en que se activan: la lucha o la huida son optimas cuando la amenaza puede ser confrontada o evadida, la paralisis puede ser adaptativa cuando la amenaza es tan abrumadora que ninguna acción parece posible (produce una reducción del dolor a traves de la disociación), y la sumisión puede ser la respuesta más segura en situaciones de dependencia donde confrontar la amenaza sería más peligroso que apaciguarla. El problema surge cuando estas respuestas se quedan activadas mucho después de que la amenaza original ha pasado.
+Las cuatro respuestas son adaptativas en el contexto en que se activan: la lucha o la huida son óptimas cuando la amenaza puede ser confrontada o evadida, la paralisis puede ser adaptativa cuando la amenaza es tan abrumadora que ninguna acción parece posible (produce una reducción del dolor a traves de la disociación), y la sumisión puede ser la respuesta más segura en situaciones de dependencia donde confrontar la amenaza sería más peligroso que apaciguarla. El problema surge cuando estas respuestas se quedan activadas mucho después de que la amenaza original ha pasado.
 
 **Ejercicio inmediato:** Identifica cual de las cuatro respuestas (lucha, huida, paralisis, sumisión) es tu patron habitual en situaciones de amenaza o tensión intensa. Ese patron, que probablemente fue aprendido en contextos donde era la respuesta más adaptativa disponible, puede estar operando automáticamente en situaciones actuales donde ya no es la respuesta más funcional.
 
@@ -161,7 +161,7 @@ Entender el trauma es el primer paso. El segundo es buscar el apoyo que hace pos
 
 ## Epílogo
 
-Ruben empezó a hacer preguntas. A su madre sobre la historia de su padre, que casi nunca hablaba de su infancia. A si mismo sobre por qué ciertas situaciones le activaban de formas que no entendia. Y con la ayuda eventual de un terapeuta formado en trauma, empezó a ver los hilos que conectaban su presente con experiencias que nunca había identificado como relevantes. No fue un proceso rápido ni siempre comodo. Pero fue el primero en el que sus reacciones empezaron a tener sentido, y en el que sus patrones empezaron a tener nombres. Y con nombres, por primera vez, podía empezar a trabajar con ellos.
+Ruben empezó a hacer preguntas. A su madre sobre la historia de su padre, que casi nunca hablaba de su infancia. A si mismo sobre por qué ciertas situaciones le activaban de formas que no entendia. Y con la ayuda eventual de un terapeuta formado en trauma, empezó a ver los hilos que conectaban su presente con experiencias que nunca había identificado como relevantes. No fue un proceso rápido ni siempre cómodo. Pero fue el primero en el que sus reacciones empezaron a tener sentido, y en el que sus patrones empezaron a tener nombres. Y con nombres, por primera vez, podía empezar a trabajar con ellos.
 
 ---
 

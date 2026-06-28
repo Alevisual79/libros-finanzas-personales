@@ -147,7 +147,7 @@ Soltar no es rendirse a la injusticia. Es elegir no vivir encadenado al pasado q
 
 ## Capítulo 10: El perdon como práctica: aprender a perdonar con menos esfuerzo
 
-Elena ha descubierto que el perdon se hace más facil con práctica.
+Elena ha descubierto que el perdon se hace más fácil con práctica.
 
 **El Principio del Perdon como Habilidad Desarrollable:** La investigación sobre las intervenciones de perdon muestra que los programas de entrenamiento producen mejoras medibles en la capacidad de perdonar. El perdon, cómo la regulación emocional, puede entrenarse como habilidad.
 

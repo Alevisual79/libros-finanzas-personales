@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena nunca se ha sentido comoda en su cuerpo. No es que haya tenido un problema físico diagnosticado. Es que desde que tiene memoria, hay una distancia entre el cuerpo que tiene y el cuerpo que cree que debería tener, y esa distancia genera una insatisfacción cronica de fondo que colorea la relación consigo misma, con los demás, y con el espacio que ocupa en el mundo. Esta distancia entre el cuerpo real y el cuerpo ideal es una de las fuentes de malestar más prevalentes y menos discutidas abiertamente en la cultura contemporanea.
+Elena nunca se ha sentido cómoda en su cuerpo. No es que haya tenido un problema físico diagnosticado. Es que desde que tiene memoria, hay una distancia entre el cuerpo que tiene y el cuerpo que cree que debería tener, y esa distancia genera una insatisfacción cronica de fondo que colorea la relación consigo misma, con los demás, y con el espacio que ocupa en el mundo. Esta distancia entre el cuerpo real y el cuerpo ideal es una de las fuentes de malestar más prevalentes y menos discutidas abiertamente en la cultura contemporanea.
 
 ---
 
@@ -95,7 +95,7 @@ Isabel tiene dificultades en su vida intima relacionadas directamente con su ins
 
 **El Principio de la Presencia como Antidoto a la Objetificación en la Intimidad:** Emily Nagoski, investigadora de la sexualidad de la Universidad de Massachusetts, documenta que la preocupación por la apariencia durante el sexo (lo que ella llama espectatoria: observarse a uno mismo cómo un observador externo durante la experiencia sexual) es uno de los factores más consistentemente asociados con menor satisfacción sexual en mujeres, y en menor medida en hombres. El mecanismo es el mismo de la objetificación: la atención se va del exterior hacía dentro de la experiencia.
 
-La intervención de Nagoski, coherente con la teoria de la objetificación, es simple pero no facil: practicar mantener la atención en las sensaciones corporales (lo que siente el cuerpo desde dentro) en lugar de en la apariencia (como parece el cuerpo desde fuera) durante la intimidad. Esta redirección de la atención requiere práctica pero produce mejoras significativas en la presencia y la satisfacción.
+La intervención de Nagoski, coherente con la teoria de la objetificación, es simple pero no fácil: practicar mantener la atención en las sensaciones corporales (lo que siente el cuerpo desde dentro) en lugar de en la apariencia (como parece el cuerpo desde fuera) durante la intimidad. Esta redirección de la atención requiere práctica pero produce mejoras significativas en la presencia y la satisfacción.
 
 **Ejercicio inmediato:** Si la insatisfacción corporal interfiere en tu vida intima, la próxima vez que estes en una situación de intimidad (o simplemente de exposición del cuerpo que genera incomodidad), práctica llevar la atención a una sensación física específica y concreta del momento presente en lugar de a la preocupación por la apariencia.
 

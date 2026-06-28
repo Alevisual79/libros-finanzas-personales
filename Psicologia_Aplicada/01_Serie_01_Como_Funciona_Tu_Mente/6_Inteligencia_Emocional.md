@@ -147,7 +147,7 @@ La inteligencia emocional no se desarrolla leyendo sobre ella. Se desarrolla pra
 
 ## Capítulo 10: La inteligencia emocional como proyecto de vida
 
-Ruben tiene treinta y un años y ha empezado a entender que su brillantez técnica tiene un techo de impacto determinado no por sus habilidades técnicas sino por su capacidad de trabajar con personas, de comunicar sus ideas de forma que los demás puedan escucharlas, de gestionar la incertidumbre sin perderse en la ansiedad. Esto no le resulta facil. Pero ha dejado de creer que es algo que no puede cambiar.
+Ruben tiene treinta y un años y ha empezado a entender que su brillantez técnica tiene un techo de impacto determinado no por sus habilidades técnicas sino por su capacidad de trabajar con personas, de comunicar sus ideas de forma que los demás puedan escucharlas, de gestionar la incertidumbre sin perderse en la ansiedad. Esto no le resulta fácil. Pero ha dejado de creer que es algo que no puede cambiar.
 
 **El Principio del Desarrollo Emocional como Proyecto Continuo:** Carol Dweck, psicologa de Stanford, aplica su investigación sobre el mindset de crecimiento directamente al dominio emocional: las personas que creen que sus habilidades emocionales son fijas (rasgo inmutable) tienden a no trabajarlas. Las que creen que son desarrollables (habilidades que pueden mejorar con práctica) tienden a mejorarlas. La neurociencia, al mostrar la plasticidad de los circuitos emocionales del cerebro adulto, apoya el mindset de crecimiento emocional con evidencia biológica.
 

@@ -127,13 +127,13 @@ Quererte no te hace egoista. Te hace disponible de verdad para los demás.
 
 ## Capítulo 8: Soledad elegida vs soledad impuesta
 
-Ruben odia estar solo. Cuando esta solo se siente vacio, inquieto, como si algo estuviera mal. Llena ese vacio con el movil, con planes, con cualquier persona disponible aunque no le apetezca demasiado. La soledad que teme Ruben no es ausencia de gente. Es ausencia de si mismo.
+Ruben odia estar solo. Cuando esta solo se siente vacio, inquieto, como si algo estuviera mal. Llena ese vacio con el móvil, con planes, con cualquier persona disponible aunque no le apetezca demasiado. La soledad que teme Ruben no es ausencia de gente. Es ausencia de si mismo.
 
 **El Principio de la Soledad Productiva:** La soledad elegida es la capacidad de estar con uno mismo sin angustia. Es la base de la autonomía emocional. Sin ella, la presencia del otro se convierte en necesidad de supervivencia en lugar de elección. La soledad impuesta duele. La soledad elegida nutre. La diferencia no esta en la circunstancia exterior sino en la relación que tienes con tu propio interior.
 
 Donald Winnicott, psicoanalista britanico, identifico la capacidad de estar solo cómo una de las señales más claras de maduración emocional. Paradojicamente, esta capacidad se desarrolla en presencia de otros significativos en la infancia: aprendemos a estar solos cuando nos sentimos seguros con alguien que nos quiere.
 
-**Ejercicio inmediato:** Pasa una hora sin movil, sin musica de fondo, sin distracciones activas. Solo tu. Observa que emerge. Lo que sientes en esa hora te dice mucho sobre tu relación contigo mismo. Si es angustia, hay trabajo pendiente. Si es tranquilidad, tienes una base sólida.
+**Ejercicio inmediato:** Pasa una hora sin móvil, sin musica de fondo, sin distracciones activas. Solo tu. Observa que emerge. Lo que sientes en esa hora te dice mucho sobre tu relación contigo mismo. Si es angustia, hay trabajo pendiente. Si es tranquilidad, tienes una base sólida.
 
 La persona con quien más tiempo vas a pasar en tu vida eres tu. Merece la pena aprender a estar bien con ella.
 
@@ -141,7 +141,7 @@ La persona con quien más tiempo vas a pasar en tu vida eres tu. Merece la pena 
 
 ## Capítulo 9: Construir una relación sana contigo mismo
 
-Construir una relación sana contigo mismo no es un proyecto de fin de semana. Es un proceso continuo que requiere las mismas cosas que cualquier relación importante: tiempo, atención, honestidad y la disposición a ver lo que no es comodo ver.
+Construir una relación sana contigo mismo no es un proyecto de fin de semana. Es un proceso continuo que requiere las mismas cosas que cualquier relación importante: tiempo, atención, honestidad y la disposición a ver lo que no es cómodo ver.
 
 **El Principio de la Relación Interna como práctica:** La relación contigo mismo se construye con las mismas herramientas que cualquier otra relación: presencia, honestidad, cuidado y, cuando fallas, la capacidad de reparar sin destruirte. Tratarte bien no es actitud positiva. Es una serie de decisiones pequeñas y diarias sobre como hablas contigo mismo, como te cuidas, que aceptas de los demás y que no.
 

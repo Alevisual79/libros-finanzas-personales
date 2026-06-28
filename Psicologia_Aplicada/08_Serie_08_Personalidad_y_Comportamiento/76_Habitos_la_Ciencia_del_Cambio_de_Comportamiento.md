@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel lleva seis meses intentando hacer ejercicio regularmente. Ha empezado tres veces. Las tres ha durado menos de dos semanas. Ruben quiere dejar de mirar el movil lo primero al levantarse. Lo sabe. Lo intenta. Pero cada mañana el movil esta ahí. Elena quiere escribir una hora al dia. Tiene el objetivo claramente definido. Pero la semana que no hay presión extra, no escribe. Lo que las tres personas comparten es la brecha entre el intento y el comportamiento sostenido, entre saber lo que quieren hacer y hacerlo realmente. La ciencia del comportamiento de las últimas dos décadas tiene mucho que decir sobre esa brecha, por qué existe, y como reducirla.
+Isabel lleva seis meses intentando hacer ejercicio regularmente. Ha empezado tres veces. Las tres ha durado menos de dos semanas. Ruben quiere dejar de mirar el móvil lo primero al levantarse. Lo sabe. Lo intenta. Pero cada mañana el móvil esta ahí. Elena quiere escribir una hora al dia. Tiene el objetivo claramente definido. Pero la semana que no hay presión extra, no escribe. Lo que las tres personas comparten es la brecha entre el intento y el comportamiento sostenido, entre saber lo que quieren hacer y hacerlo realmente. La ciencia del comportamiento de las últimas dos décadas tiene mucho que decir sobre esa brecha, por qué existe, y como reducirla.
 
 ---
 
@@ -37,7 +37,7 @@ El hábito que no comprendes te controla. El que comprendes puedes modificarlo.
 
 Ruben quiere construir hábitos de ejercicio pero los que ha intentado siempre se sienten demasiado grandes para sostenerse.
 
-**El Principio de los Hábitos Minimos como Base para los Grandes:** James Clear propone en Hábitos Atomicos que el error más común en el cambio de comportamiento es intentar cambios demasiado grandes demasiado pronto. La alternativa es la regla de los dos minutos: la versión inicial de cualquier hábito debería durar no más de dos minutos. No hacer ejercicio treinta minutos sino ponerse la ropa de deporte. No escribir un capítulo sino abrir el documento y escribir una frase.
+**El Principio de los Hábitos Mínimos como Base para los Grandes:** James Clear propone en Hábitos Atomicos que el error más común en el cambio de comportamiento es intentar cambios demasiado grandes demasiado pronto. La alternativa es la regla de los dos minutos: la versión inicial de cualquier hábito debería durar no más de dos minutos. No hacer ejercicio treinta minutos sino ponerse la ropa de deporte. No escribir un capítulo sino abrir el documento y escribir una frase.
 
 El mecanismo es neurológico: los hábitos se consolidan a traves de la repetición, y la repetición requiere que el comportamiento ocurra. Un comportamiento de dos minutos que ocurre todos los dias durante un mes produce más consolidación del hábito que un comportamiento de treinta minutos que ocurre tres veces y luego se abandona. La consistencia es más importante que la intensidad en la formación inicial del hábito.
 
@@ -51,7 +51,7 @@ El hábito ambicioso que abandonas en diez dias produce menos cambio que el háb
 
 Elena tiene hábitos establecidos pero no sabe como usar los existentes para construir los nuevos.
 
-**El Principio del Stacking de Hábitos como Estrategia para Anclar Nuevos Comportamientos:** BJ Fogg, investigador del Laboratorio de Tecnologia Persuasiva de Stanford, propone el concepto de hábito diminuto y la formula: después de hacer [Hábito EXISTENTE], hare [NUEVO COMPORTAMIENTO MINIMO]. Esta formula aprovecha la estructura neurológica del hábito existente (la señal esta ya establecida) para anclar el nuevo comportamiento.
+**El Principio del Stacking de Hábitos como Estrategia para Anclar Nuevos Comportamientos:** BJ Fogg, investigador del Laboratorio de Tecnologia Persuasiva de Stanford, propone el concepto de hábito diminuto y la formula: después de hacer [Hábito EXISTENTE], hare [NUEVO COMPORTAMIENTO Mínimo]. Esta formula aprovecha la estructura neurológica del hábito existente (la señal esta ya establecida) para anclar el nuevo comportamiento.
 
 Fogg ha demostrado con miles de participantes en su programa Tiny Habits que los hábitos se consolidan más rápido cuando se anclan a comportamientos existentes que cuando se intentan anclar solo a horas o lugares. La razón es que el hábito existente ya tiene una señal consolidada en los ganglios basales, y esa señal puede usarse como detonador del nuevo comportamiento.
 
@@ -81,9 +81,9 @@ Isabel ha intentado cambiar con fuerza de voluntad. La investigación muestra qu
 
 **El Principio del Diseno del Entorno cómo la Estrategia más Subestimada del Cambio de Comportamiento:** La investigación de Wendy Wood y colegas sobre los hábitos en entornos naturales muestra que el 43% de los comportamientos diarios son habituales (se producen en el mismo contexto cada dia). Estos comportamientos habituales son activados por las señales del entorno, no por las intenciones conscientes. Cambiar el entorno (no la voluntad) es por tanto la palanca más efectiva para cambiar los comportamientos automáticos.
 
-Las estrategias de diseño de entorno incluyen: la fricción (hacer los comportamientos no deseados más difíciles de acceder: el chocolate en el armario alto en lugar de en la mesa, el movil en otra habitación en lugar de en la mesita de noche) y la facilidad (hacer los comportamientos deseados más faciles de acceder: la ropa de deporte preparada la noche anterior, el libro en la almohada en lugar del movil).
+Las estrategias de diseño de entorno incluyen: la fricción (hacer los comportamientos no deseados más difíciles de acceder: el chocolate en el armario alto en lugar de en la mesa, el móvil en otra habitación en lugar de en la mesita de noche) y la facilidad (hacer los comportamientos deseados más fáciles de acceder: la ropa de deporte preparada la noche anterior, el libro en la almohada en lugar del móvil).
 
-**Ejercicio inmediato:** Para el hábito que quieres construir, diseña un cambio de entorno que reduzca la fricción de hacerlo: pon el libro que quieres leer en la silla donde te sientas, prepara la ropa de deporte la noche anterior, deja el vaso de agua en el escritorio si quieres beber más. Para el comportamiento que quieres reducir, aumenta la fricción: borra las apps de redes sociales del movil y accede solo desde el ordenador, guarda los snacks en un armario difícil de alcanzar. El entorno que diseñas es el comportamiento que tendrá.
+**Ejercicio inmediato:** Para el hábito que quieres construir, diseña un cambio de entorno que reduzca la fricción de hacerlo: pon el libro que quieres leer en la silla donde te sientas, prepara la ropa de deporte la noche anterior, deja el vaso de agua en el escritorio si quieres beber más. Para el comportamiento que quieres reducir, aumenta la fricción: borra las apps de redes sociales del móvil y accede solo desde el ordenador, guarda los snacks en un armario difícil de alcanzar. El entorno que diseñas es el comportamiento que tendrá.
 
 El entorno que tienes produce el comportamiento que tienes. El que diseñas produce el que quieres.
 
@@ -139,7 +139,7 @@ Ruben quiere reducir el tiempo que pasa en redes sociales. Las estrategias para 
 
 BJ Fogg y Charles Duhigg proponen la técnica del reemplazo de hábitos: identificar la señal y la recompensa del hábito a eliminar, y sustituir la rutina por un comportamiento diferente que produzca la misma recompensa. Sin entender la recompensa real del hábito, la sustitución no puede funcionar.
 
-**Ejercicio inmediato:** Para el hábito que quieres reducir, identifica su señal específica (que lo dispara), su rutina (el comportamiento), y su recompensa real (que necesidad satisface). Entonces diseña una alternativa que satisfaga la misma necesidad con un comportamiento diferente. Si el hábito de revisar el movil satisface la necesidad de descanso mental, sustituyelo por un paseo corto que satisface la misma necesidad con menor coste.
+**Ejercicio inmediato:** Para el hábito que quieres reducir, identifica su señal específica (que lo dispara), su rutina (el comportamiento), y su recompensa real (que necesidad satisface). Entonces diseña una alternativa que satisfaga la misma necesidad con un comportamiento diferente. Si el hábito de revisar el móvil satisface la necesidad de descanso mental, sustituyelo por un paseo corto que satisface la misma necesidad con menor coste.
 
 El hábito que intentas suprimir sin entender que satisface seguirá activo. El que comprendes puedes reemplazar.
 

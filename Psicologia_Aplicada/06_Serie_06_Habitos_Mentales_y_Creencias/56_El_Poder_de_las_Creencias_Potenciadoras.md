@@ -161,7 +161,7 @@ Las creencias que construyes son la casa desde la que vives. Vale la pena constr
 
 ## Epílogo
 
-Ruben no elimino sus creencias limitantes de una vez. Fue acumulando evidencia contra ellas y evidencia a favor de las potenciadoras, un evento a la vez. Un mes después, noto que había empezado a hablar diferente sobre sus posibilidades: no con certeza grandiosa sino con una apertura que antes no tenía. Las creencias limitantes no habían desaparecido. Pero ya no eran la unica voz en la sala.
+Ruben no elimino sus creencias limitantes de una vez. Fue acumulando evidencia contra ellas y evidencia a favor de las potenciadoras, un evento a la vez. Un mes después, noto que había empezado a hablar diferente sobre sus posibilidades: no con certeza grandiosa sino con una apertura que antes no tenía. Las creencias limitantes no habían desaparecido. Pero ya no eran la única voz en la sala.
 
 ---
 

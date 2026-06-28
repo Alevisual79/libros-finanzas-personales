@@ -41,7 +41,7 @@ Isabel quiere construir resiliencia deliberadamente. Para ello necesita saber qu
 
 La investigación posterior, sintetizada por Ann Masten en su concepto de la magia ordinaria de la resiliencia, muestra que la resiliencia no es el resultado de recursos extraordinarios sino de sistemas ordinarios funcionando bien: relaciones de apoyo, regulación emocional suficiente, autoeficacia (la creencia en la propia capacidad de afectar el entorno), y sentido de significado o proposito.
 
-**Ejercicio inmediato:** Evalua tu nivel actual en cuatro factores de resiliencia: ¿relaciones de apoyo (tienes personas a quienes recurrir en la adversidad?), regulación emocional (puedes manejar la intensidad emocional de los momentos difíciles sin que te destruya?), autoeficacia (crees que tus acciones pueden influir en lo que te ocurre?), y sentido del proposito (hay algo que de significado a lo que vives, incluyendo lo difícil?). El factor más debil es el que más beneficio puede producir si se trabaja.
+**Ejercicio inmediato:** Evalua tu nivel actual en cuatro factores de resiliencia: ¿relaciones de apoyo (tienes personas a quienes recurrir en la adversidad?), regulación emocional (puedes manejar la intensidad emocional de los momentos difíciles sin que te destruya?), autoeficacia (crees que tus acciones pueden influir en lo que te ocurre?), y sentido del proposito (hay algo que de significado a lo que vives, incluyendo lo difícil?). El factor más débil es el que más beneficio puede producir si se trabaja.
 
 La resiliencia no requiere recursos extraordinarios. Requiere los recursos ordinarios funcionando suficientemente bien. Identifica cual de los ordinarios falta en tu vida.
 
@@ -97,7 +97,7 @@ Isabel sabe que la regulación emocional es importante pero no tiene claro cómo
 
 Las personas con mayor resiliencia no tienen necesariamente menos intensidad emocional: tienen mayor amplitud en su ventana de tolerancia. Esta amplitud se desarrolla a traves de la práctica de estrategias de regulación (mindfulness, respiración, apoyo relacional) y a traves de experiencias acumuladas de haber podido tolerar y recuperarse de emociones intensas.
 
-**Ejercicio inmediato:** Identifica cual de los dos extremos tiende a dominar tu respuesta a la adversidad: la sobreapertura (ser abrumado por la intensidad emocional, perder el funcionamiento) o el cierre (desconexion, embotamiento, dificultad para sentir). Las estrategias de regulación optimas para cada extremo son diferentes: el cierre necesita más apertura gradual; la sobreapertura necesita más técnicas de regulación y de anclaje.
+**Ejercicio inmediato:** Identifica cual de los dos extremos tiende a dominar tu respuesta a la adversidad: la sobreapertura (ser abrumado por la intensidad emocional, perder el funcionamiento) o el cierre (desconexion, embotamiento, dificultad para sentir). Las estrategias de regulación óptimas para cada extremo son diferentes: el cierre necesita más apertura gradual; la sobreapertura necesita más técnicas de regulación y de anclaje.
 
 La resiliencia no es no sentir. Es sentir suficiente para procesar sin que el sentir te sumerja completamente.
 

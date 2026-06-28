@@ -35,7 +35,7 @@ Ser introvertido no significa que no disfrutas de la gente. Significa que gestio
 
 La introversión y la timidez son conceptos frecuentemente confundidos pero psicológicamente distintos: la timidez es ansiedad social ante la posibilidad de juicio negativo, mientras la introversión es una preferencia de temperamento sin componente de miedo necesariamente asociado.
 
-**El Principio de la Distinción entre Temperamento y Ansiedad:** Susan Cain, autora de El Poder de los Introvertidos, distingue claramente entre la introversión (preferencia natural por menor estimulación y mayor profundidad) y la timidez (miedo al juicio social que puede afectar tanto a introvertidos como a extrovertidos). Una persona puede ser introvertida sin ser timida (comoda socialmente pero con preferencia por menor estimulación), o timida sin ser introvertida (con miedo social pero energizada por la interacción una vez que supera ese miedo inicial).
+**El Principio de la Distinción entre Temperamento y Ansiedad:** Susan Cain, autora de El Poder de los Introvertidos, distingue claramente entre la introversión (preferencia natural por menor estimulación y mayor profundidad) y la timidez (miedo al juicio social que puede afectar tanto a introvertidos como a extrovertidos). Una persona puede ser introvertida sin ser timida (cómoda socialmente pero con preferencia por menor estimulación), o timida sin ser introvertida (con miedo social pero energizada por la interacción una vez que supera ese miedo inicial).
 
 **Ejercicio inmediato:** Evalua si tu reticencia social proviene más de preferencia de temperamento (prefiero menos estimulación) o de miedo al juicio (me preocupa que piensen mal de mi). La distinción importa porque requiere estrategias diferentes: gestión de energía para lo primero, trabajo sobre la ansiedad social para lo segundo.
 
@@ -45,11 +45,11 @@ No toda reticencia social es introversión. Algunas son timidez, y la timidez se
 
 ## Capítulo 3: Como los introvertidos se relacionan mejor
 
-Las personas introvertidas, aunque puedan necesitar diferentes condiciones que las extrovertidas para sentirse comodas socialmente, frecuentemente desarrollan formas de conexión particularmente profundas cuando esas condiciones se dan.
+Las personas introvertidas, aunque puedan necesitar diferentes condiciones que las extrovertidas para sentirse cómodas socialmente, frecuentemente desarrollan formas de conexión particularmente profundas cuando esas condiciones se dan.
 
 **El Principio de la Profundidad sobre la Amplitud:** Las personas introvertidas tienden a preferir y a destacar en conversaciones individuales o en grupos pequeños, con tiempo suficiente para profundizar más allá de la superficialidad, en contraste con entornos sociales grandes y de alta estimulación donde la conversación tiende a permanecer superficial por necesidad práctica. Esta preferencia no es una limitación sino una orientación hacía un tipo de conexión que muchas personas, introvertidas y extrovertidas, valoran profundamente.
 
-**Ejercicio inmediato:** Identifica el formato social en el que te sientes más comodo y más capaz de conectar genuinamente (conversaciones uno a uno, grupos pequeños, actividades estructuradas). Prioriza buscar o crear ese formato en lugar de forzarte a contextos de alta estimulación que no se ajustan a tu forma natural de conectar.
+**Ejercicio inmediato:** Identifica el formato social en el que te sientes más cómodo y más capaz de conectar genuinamente (conversaciones uno a uno, grupos pequeños, actividades estructuradas). Prioriza buscar o crear ese formato en lugar de forzarte a contextos de alta estimulación que no se ajustan a tu forma natural de conectar.
 
 Los introvertidos no se relacionan peor. Se relacionan diferente, frecuentemente con más profundidad en menos cantidad.
 
@@ -109,7 +109,7 @@ La creencia de que el liderazgo efectivo requiere temperamento extrovertido es a
 
 **El Principio del Liderazgo Adaptado al Contexto:** La investigación de Adam Grant muestra que los líderes introvertidos tienden a ser particularmente efectivos liderando equipos proactivos, porque su tendencia a escuchar más y hablar menos crea espacio para que las ideas de los miembros del equipo se desarrollen, en contraste con líderes extrovertidos que pueden, sin intención, dominar la conversación y limitar la contribución de otros en ciertos contextos.
 
-**Ejercicio inmediato:** Si lideras un equipo o grupo y eres introvertido, identifica las fortalezas específicas de tu estilo de liderazgo (escucha, espacio para otros, reflexión antes de decidir) en lugar de medirte contra un modelo de liderazgo carismatico y extrovertido que no es el unico modeló efectivo.
+**Ejercicio inmediato:** Si lideras un equipo o grupo y eres introvertido, identifica las fortalezas específicas de tu estilo de liderazgo (escucha, espacio para otros, reflexión antes de decidir) en lugar de medirte contra un modelo de liderazgo carismatico y extrovertido que no es el único modeló efectivo.
 
 El liderazgo introvertido no es liderazgo de segunda categoría. Es un estilo diferente, con sus propias fortalezas documentadas.
 

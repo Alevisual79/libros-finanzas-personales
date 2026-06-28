@@ -109,7 +109,7 @@ Carlos ha diseñado un plan progresivo para que su negocio pueda funcionar duran
 
 **El Principio del Test de Ausencia Progresiva como Herramienta para Identificar las Dependencias del Propietario y Trabajar Sistematicamente en Eliminarlas:** Dan Sullivan de Strategic Coach propone un ejercicio para los emprendedores que quieren construir un negocio libre de su presencia constante: identificar cuales son los obstaculos específicos que impediran que el negocio funcione durante una, dos, o cuatro semanas de ausencia, y trabajar sistemáticamente en eliminar cada uno.
 
-El proceso comienza con los obstaculos de una semana (que son los más urgentes y generalmente los más faciles de resolver), avanza a los de dos semanas, y finalmente a los de un mes o más. Cada obstaculo eliminado es un sistema construido, un proceso documentado, o una persona formada que hace al negocio más independiente.
+El proceso comienza con los obstaculos de una semana (que son los más urgentes y generalmente los más fáciles de resolver), avanza a los de dos semanas, y finalmente a los de un mes o más. Cada obstaculo eliminado es un sistema construido, un proceso documentado, o una persona formada que hace al negocio más independiente.
 
 **Ejercicio inmediato:** Haz la lista de los tres obstaculos específicos que impederian que tu negocio funcionara durante una semana de ausencia tuya: posiblemente sean decisión de urgencia con clientes, gestión de cobros, o resolución de problemas técnicos. Para cada uno, diseña la solución que te permitiria ausentarte durante una semana sin que ninguno de los tres paralizara el negocio. Implementa esas tres soluciones en los próximos treinta dias. Después repite el ejercicio con los obstaculos de dos semanas.
 
@@ -161,7 +161,7 @@ El negocio que funciona sin ti no es el negocio del que estas ausente. Es el neg
 
 ## Epílogo
 
-Carlos se fue de vacaciones dos semanas. No fue facil la primera vez: revisó el email el primer dia, envió tres mensajes en el segundo, y el quinto dia empezó a relajarse cuando vió que el negocio seguia funcionando sin crisis mayores. A su vuelta, había perdido un cliente pequeño (que había encontrado una alternativa durante su ausencia) y había conservado a todos los demás. El negocio había generado revenue mientras el estaba en la playa. No mucho, y con algunos problemas que hubiera resuelto mejor si hubiera estado presente, pero lo suficiente para demostrar que tenía un sistema, no solo un empleo. Eso, por primera vez, le hizo sentir que el emprendimiento había valido la pena de una forma diferente a como había creido.
+Carlos se fue de vacaciones dos semanas. No fue fácil la primera vez: revisó el email el primer dia, envió tres mensajes en el segundo, y el quinto dia empezó a relajarse cuando vió que el negocio seguia funcionando sin crisis mayores. A su vuelta, había perdido un cliente pequeño (que había encontrado una alternativa durante su ausencia) y había conservado a todos los demás. El negocio había generado revenue mientras el estaba en la playa. No mucho, y con algunos problemas que hubiera resuelto mejor si hubiera estado presente, pero lo suficiente para demostrar que tenía un sistema, no solo un empleo. Eso, por primera vez, le hizo sentir que el emprendimiento había valido la pena de una forma diferente a como había creido.
 
 ---
 

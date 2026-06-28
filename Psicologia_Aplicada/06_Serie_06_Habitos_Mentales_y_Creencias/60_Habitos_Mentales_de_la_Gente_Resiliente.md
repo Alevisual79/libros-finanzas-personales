@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ha notado algo en las personas que conoce que atraviesan las dificultades mejor que otros: no parecen tener vidas más faciles. Tienen las mismas perdidas, los mismos fracasos, las mismas incertidumbres. Pero tienen una relación diferente con esas dificultades. Cuando las cosas se ponen mal, parecen hacer algo diferente en sus mentes que les permite recuperarse antes. Este libro es sobre esos hábitos mentales específicos: lo que hacen mentalmente las personas resilientes que les permite atravesar las dificultades sin que las destruyan.
+Ruben ha notado algo en las personas que conoce que atraviesan las dificultades mejor que otros: no parecen tener vidas más fáciles. Tienen las mismas perdidas, los mismos fracasos, las mismas incertidumbres. Pero tienen una relación diferente con esas dificultades. Cuando las cosas se ponen mal, parecen hacer algo diferente en sus mentes que les permite recuperarse antes. Este libro es sobre esos hábitos mentales específicos: lo que hacen mentalmente las personas resilientes que les permite atravesar las dificultades sin que las destruyan.
 
 ---
 
@@ -55,7 +55,7 @@ Isabel ha observado que las personas resilientes no son necesariamente las que t
 
 La investigación de Crystal Park sobre la búsqueda de significado en situaciones traumáticas muestra que las personas que consiguen encontrar algun significado a las experiencias difíciles (aunque sea después de tiempo) muestran mejor funcionamiento a largo plazo que las que no pueden.
 
-**Ejercicio inmediato:** Para la dificultad actual más importante, reflexiona sobre las tres dimensiones del sentido de coherencia: ¿entiendes la lógica de por qué está ocurriendo (comprensibilidad)? ¿Tienes alguno de los recursos que necesitas para afrontarla (manejabilidad)? ¿Hay algo importante para ti en jeugo que justifica el esfuerzo de afrontarla (significatividad)? Las dimensiones más debiles son donde el trabajo de sentido de coherencia tiene mayor impacto.
+**Ejercicio inmediato:** Para la dificultad actual más importante, reflexiona sobre las tres dimensiones del sentido de coherencia: ¿entiendes la lógica de por qué está ocurriendo (comprensibilidad)? ¿Tienes alguno de los recursos que necesitas para afrontarla (manejabilidad)? ¿Hay algo importante para ti en jeugo que justifica el esfuerzo de afrontarla (significatividad)? Las dimensiones más débiles son donde el trabajo de sentido de coherencia tiene mayor impacto.
 
 La adversidad que no tiene sentido destruye. La que tiene alguno que puedes encontrar puede construir.
 
@@ -69,7 +69,7 @@ Ruben ha descubierto que una de las diferencias entre el y las personas que atra
 
 La investigación muestra que la autoeficacia generalizada predice la recuperación en multiples contextos: recuperación de enfermedades, adaptación a cambios laborales, respuesta a perdidas. No porque garantice el éxito sino porque produce la persistencia que hace más probable el éxito.
 
-**Ejercicio inmediato:** Construye tu lista de evidencia de autoeficacia: situaciones difíciles pasadas que atravesaste (aunque no perfectamente), capacidades que has desarrollado a lo largo de tu vida, momentos donde persististe cuando habría sido más facil rendirte. Esa lista es la evidencia de tu autoeficacia generalizada. Releerla en momentos de duda es una forma de acceder a ese recurso cuando más se necesita.
+**Ejercicio inmediato:** Construye tu lista de evidencia de autoeficacia: situaciones difíciles pasadas que atravesaste (aunque no perfectamente), capacidades que has desarrollado a lo largo de tu vida, momentos donde persististe cuando habría sido más fácil rendirte. Esa lista es la evidencia de tu autoeficacia generalizada. Releerla en momentos de duda es una forma de acceder a ese recurso cuando más se necesita.
 
 No necesitas saber como resolver este problema específico para creer que puedes. Necesitas recordar que has resuelto otros que tampoco sabías como resolver cuando empezaron.
 
@@ -153,7 +153,7 @@ Ruben ha aprendido que los recursos de resiliencia son más efectivos cuando se 
 
 Rick Hanson, neurocientífico y autor de Hardwiring Happiness, propone que instalar deliberadamente las experiencias positivas (dejar que las experiencias buenas se procesen completamente en lugar de pasar por ellas rápidamente) construye la arquitectura cerebral de la resiliencia: más conexiones de recompensa, más recursos de regulación emocional disponibles.
 
-**Ejercicio inmediato:** Evalua el estado de tus recursos de resiliencia en este momento de relativa calma: ¿tus relaciones de apoyo (estan mantenidas?), tu regulación emocional (tienes prácticas regulares?), tu sentido de significado (tienes conexión con algo que importa?), y tu salud física (sueño, ejercicio, alimentación). El recurso más debil es el que más necesitas fortalecer antes de que lo necesites urgentemente.
+**Ejercicio inmediato:** Evalua el estado de tus recursos de resiliencia en este momento de relativa calma: ¿tus relaciones de apoyo (estan mantenidas?), tu regulación emocional (tienes prácticas regulares?), tu sentido de significado (tienes conexión con algo que importa?), y tu salud física (sueño, ejercicio, alimentación). El recurso más débil es el que más necesitas fortalecer antes de que lo necesites urgentemente.
 
 La resiliencia que construyes cuando no la necesitas es la que tienes cuando si la necesitas. No esperes a la crisis para construir lo que te hará atravesarla.
 

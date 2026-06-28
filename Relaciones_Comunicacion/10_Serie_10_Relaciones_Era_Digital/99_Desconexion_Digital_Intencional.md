@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ha revisado su movil cuarenta veces mientras leía este mismo libro, un dato que el registro de tiempo de pantalla de su dispositivo le revela con precisión incomoda. No fue por ninguna necesidad real de información urgente. Fue, simplemente, hábito automático, un patron tan profundamente instalado que ocurre sin que la decisión consciente de revisar el teléfono llegue siquiera a formarse antes de la acción misma.
+Ruben ha revisado su móvil cuarenta veces mientras leía este mismo libro, un dato que el registro de tiempo de pantalla de su dispositivo le revela con precisión incomoda. No fue por ninguna necesidad real de información urgente. Fue, simplemente, hábito automático, un patron tan profundamente instalado que ocurre sin que la decisión consciente de revisar el teléfono llegue siquiera a formarse antes de la acción misma.
 
 ---
 
@@ -131,7 +131,7 @@ Reducir el tiempo de pantalla sin abordar la necesidad subyacente que esa pantal
 
 El objetivo final del trabajo de desconexion digital intencional es la capacidad de estar completamente presente con las personas físicamente presentes en tu vida, en el momento actual, sin la distracción constante de lo digitalmente disponible.
 
-**El Principio de la Presencia Plena como Objetivo Final:** Toda la estrategia de desconexion digital discutida en este libro converge en un objetivo unico: la capacidad de estar genuinamente presente, con atención completa, con las personas que estan físicamente contigo en cada momento, sin que la disponibilidad constante de alternativas digitales fragmente esa presencia.
+**El Principio de la Presencia Plena como Objetivo Final:** Toda la estrategia de desconexion digital discutida en este libro converge en un objetivo único: la capacidad de estar genuinamente presente, con atención completa, con las personas que estan físicamente contigo en cada momento, sin que la disponibilidad constante de alternativas digitales fragmente esa presencia.
 
 **Ejercicio inmediato:** En tu próxima interacción significativa, práctica deliberadamente la presencia plena: teléfono fuera de vista, atención completa, sin la tentación de revisar lo que podría estar pasando en otro lugar.
 
@@ -141,7 +141,7 @@ Todo el trabajo de desconexion digital tiene un objetivo simple: poder estar ver
 
 ## Epílogo
 
-Desconectarte del movil no es primitivismo. Es la forma más moderna de estar presente. Ruben, después de ver el dato de sus cuarenta revisiones del teléfono durante la lectura de un solo libro, decidió implementar un cambio específico: teléfono en otra habitación durante sus momentos de lectura y durante sus interacciones más significativas. El número de revisiones bajo dramaticamente. Lo que más le sorprendio, sin embargo, fue cuanto más presente se sentía en cada momento que antes había estado, sin notarlo, parcialmente fragmentado entre lo presente y lo digitalmente disponible.
+Desconectarte del móvil no es primitivismo. Es la forma más moderna de estar presente. Ruben, después de ver el dato de sus cuarenta revisiones del teléfono durante la lectura de un solo libro, decidió implementar un cambio específico: teléfono en otra habitación durante sus momentos de lectura y durante sus interacciones más significativas. El número de revisiones bajo dramaticamente. Lo que más le sorprendio, sin embargo, fue cuanto más presente se sentía en cada momento que antes había estado, sin notarlo, parcialmente fragmentado entre lo presente y lo digitalmente disponible.
 
 ---
 

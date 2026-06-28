@@ -27,7 +27,7 @@ La investigación más clásica de la psicología social muestra algo perturbado
 
 La investigación de Asch y sus seguidores muestra que la conformidad se activa incluso cuando la respuesta correcta es objetivamente obvia, se reduce significativamente cuando hay al menos un otro que diside, y es mayor en culturas colectivistas que individualistas. Los mecanismos incluyen la presión informacional (los otros pueden saber algo que yo no se) y la presión normativa (quiero ser aceptado por el grupo).
 
-**Ejercicio inmediato:** La próxima vez que estes en una reunión y hayas llegado a una conclusión diferente de la que expresa la mayoría, reflexiona: ¿la razón por la que no expresas tu perspectiva es que el grupo podría tener información que tu no tienes (razón valida) o es que no quieres ser el unico que dice algo diferente (conformidad normativa)? Solo la segunda es conformidad en el sentido de Asch.
+**Ejercicio inmediato:** La próxima vez que estes en una reunión y hayas llegado a una conclusión diferente de la que expresa la mayoría, reflexiona: ¿la razón por la que no expresas tu perspectiva es que el grupo podría tener información que tu no tienes (razón valida) o es que no quieres ser el único que dice algo diferente (conformidad normativa)? Solo la segunda es conformidad en el sentido de Asch.
 
 La conformidad que no reconoces te hace parte del grupo. A veces eso es exactamente lo correcto. Y a veces es exactamente el problema.
 
@@ -83,7 +83,7 @@ Elena rinde diferente cuando trabaja sola que cuando trabaja con otros presentes
 
 La implicación práctica: cuando se tiene que demostrar algo bien aprendido, la presencia de otros puede mejorar el rendimiento (la respuesta dominante fluye). Cuando se tiene que aprender algo nuevo o resolver un problema novedoso, la presencia de otros puede deteriorarlo (la activación aumentada interfiere con el procesamiento deliberado que el aprendizaje requiere).
 
-**Ejercicio inmediato:** Para tu aprendizaje de nuevas habilidades o la resolución de problemas complejos, evalua si el entorno con otros presentes es optimo o si el trabajo solitario produce mejor resultado. El aprendizaje y la resolución de problemas novedosos generalmente son más efectivos en privado; la ejecución de habilidades bien establecidas puede beneficiarse de la presencia de otros.
+**Ejercicio inmediato:** Para tu aprendizaje de nuevas habilidades o la resolución de problemas complejos, evalua si el entorno con otros presentes es óptimo o si el trabajo solitario produce mejor resultado. El aprendizaje y la resolución de problemas novedosos generalmente son más efectivos en privado; la ejecución de habilidades bien establecidas puede beneficiarse de la presencia de otros.
 
 El rendimiento que tienes con otros no es mejor ni peor que el que tienes solo. Es el resultado de que la activación que producen los otros actua sobre lo que ya sabes o sobre lo que todavía aprendes.
 
@@ -127,7 +127,7 @@ La investigación de Steinberg muestra que los adolescentes toman decisiones de 
 
 **Ejercicio inmediato:** Si tienes adolescentes en tu vida (hijos, alumnos, sobrinos), recuerda que la susceptibilidad a la presión de grupo no es debilidad de carácter sino biología del desarrollo. La respuesta más efectiva no es la prohibición ni la crítica sino el fortalecimiento de la identidad y los valores del adolescente en contextos donde puede expresarlos sin la presión del grupo de pares.
 
-Los adolescentes que parecen controlados por su grupo no son debiles. Son cerebros en desarrollo que todavía no tienen el hardware para resistir lo que ninguno de nosotros pudo resistir del todo a esa edad.
+Los adolescentes que parecen controlados por su grupo no son débiles. Son cerebros en desarrollo que todavía no tienen el hardware para resistir lo que ninguno de nosotros pudo resistir del todo a esa edad.
 
 ---
 

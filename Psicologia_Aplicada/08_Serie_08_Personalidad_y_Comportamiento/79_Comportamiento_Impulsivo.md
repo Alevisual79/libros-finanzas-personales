@@ -125,9 +125,9 @@ Ruben ha empezado a meditar y nota que su impulsividad ha disminuido ligeramente
 
 El mecanismo neurológico incluye mayor activación del cortex prefrontal y mayor regulación de la amigdala documentados en personas con práctica regular de mindfulness. Brewer propone que el mindfulness no suprime el impulso sino que cambia la relación con el: en lugar de identificarse automáticamente con el impulso y actuar, la persona lo observa cómo un fenómeno mental que pasa.
 
-**Ejercicio inmediato:** Esta semana, práctica cinco minutos diarios de observación de impulsos: sienta en silencio y cuando notes el impulso de moverse, coger el movil, o pensar en otra cosa, observalo sin seguirlo durante treinta segundos. Esa práctica en un contexto neutro entrena la capacidad de observar el impulso antes de actuar que luego puede aplicarse en los contextos de mayor carga.
+**Ejercicio inmediato:** Esta semana, práctica cinco minutos diarios de observación de impulsos: sienta en silencio y cuando notes el impulso de moverse, coger el móvil, o pensar en otra cosa, observalo sin seguirlo durante treinta segundos. Esa práctica en un contexto neutro entrena la capacidad de observar el impulso antes de actuar que luego puede aplicarse en los contextos de mayor carga.
 
-El impulso que observas sin seguirlo se vuelve más debil cada vez que lo haces. El que siempre sigues se vuelve más fuerte.
+El impulso que observas sin seguirlo se vuelve más débil cada vez que lo haces. El que siempre sigues se vuelve más fuerte.
 
 ---
 
@@ -135,11 +135,11 @@ El impulso que observas sin seguirlo se vuelve más debil cada vez que lo haces.
 
 Elena tiene muchas estrategias para gestionar la impulsividad pero no las aplica porque son demasiadas para recordar en el momento.
 
-**El Principio de la Estrategia Unica cómo la Más Implementable:** La investigación de BJ Fogg sobre el cambio de comportamiento muestra que las personas que intentan implementar multiples estrategias simultaneamente tienen menor tasa de éxito que las que implementan una estrategia bien definida y la repiten sistemáticamente. La simplicidad es lo que permite la implementación en el momento de la activación emocional, cuando los recursos cognitivos son escasos.
+**El Principio de la Estrategia Única cómo la Más Implementable:** La investigación de BJ Fogg sobre el cambio de comportamiento muestra que las personas que intentan implementar multiples estrategias simultaneamente tienen menor tasa de éxito que las que implementan una estrategia bien definida y la repiten sistemáticamente. La simplicidad es lo que permite la implementación en el momento de la activación emocional, cuando los recursos cognitivos son escasos.
 
 Para la gestión de la impulsividad, la estrategia de más alto impacto y mayor generalidad es la regla de la pausa: establecer un tiempo de espera no negociable antes de actuar en las situaciones de alta activación (de dos a veinticuatro horas dependiendo de la gravedad potencial de las consecuencias).
 
-**Ejercicio inmediato:** Elige una sola estrategia para tu impulsividad más costosa. No tres ni cinco: una. La más pequeña y específica posible. Y practicalá durante treinta dias antes de anadir otra. El cambio de comportamiento que dura no se construye con muchas intenciones simultaneas. Se construye con una práctica repetida hasta que se convierte en automática.
+**Ejercicio inmediato:** Elige una sola estrategia para tu impulsividad más costosa. No tres ni cinco: una. La más pequeña y específica posible. Y practicalá durante treinta dias antes de anadir otra. El cambio de comportamiento que dura no se construye con muchas intenciones simultáneas. Se construye con una práctica repetida hasta que se convierte en automática.
 
 La estrategia que tienes demasiada en tu cabeza para recordar cuando la necesitas no te protege cuando más la necesitas.
 
@@ -153,7 +153,7 @@ Isabel ha llegado al final del libro con una comprensión diferente de su propia
 
 El entrenamiento del espacio entre estímulo y respuesta, aunque sea en contextos neutros, transfiere a los contextos de alta activación donde más se necesita.
 
-**Ejercicio inmediato:** A partir de hoy, establece la regla de los cinco segundos para todos los impulsos menores: antes de coger el movil, de poner la televisión, de comer algo sin hambre, de responder un mensaje, cuenta cinco segundos. No para no hacerlo sino para hacerlo con elección en lugar de automatismo. Esa práctica cotidiana en los impulsos menores construye la capacidad para los impulsos mayores.
+**Ejercicio inmediato:** A partir de hoy, establece la regla de los cinco segundos para todos los impulsos menores: antes de coger el móvil, de poner la televisión, de comer algo sin hambre, de responder un mensaje, cuenta cinco segundos. No para no hacerlo sino para hacerlo con elección en lugar de automatismo. Esa práctica cotidiana en los impulsos menores construye la capacidad para los impulsos mayores.
 
 La pausa que prácticas cuando no la necesitas es la que tienes disponible cuando si la necesitas.
 

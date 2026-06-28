@@ -25,7 +25,7 @@ El dinero en la familia extendida (más allá de la pareja) es uno de los temas 
 
 El dinero en las relaciones familiares rara vez es simplemente sobre recursos materiales. Es un vehiculo simbólico que carga significados sobre amor, justicia y poder que se remontan a la dinámica familiar más temprana.
 
-**El Principio del Dinero como Simbolo Familiar:** En las familias, el dinero frecuentemente representa simbólicamente cuanto se es valorado o amado: quien recibe más ayuda económica de los padres, quien hereda más, quien puede permitirse contribuir más a gastos compartidos. Esta carga simbólica explica por qué las disputas de dinero familiar generan emociones desproporcionadas respecto a las cantidades reales en juego.
+**El Principio del Dinero como Símbolo Familiar:** En las familias, el dinero frecuentemente representa simbólicamente cuanto se es valorado o amado: quien recibe más ayuda económica de los padres, quien hereda más, quien puede permitirse contribuir más a gastos compartidos. Esta carga simbólica explica por qué las disputas de dinero familiar generan emociones desproporcionadas respecto a las cantidades reales en juego.
 
 **Ejercicio inmediato:** Reflexiona sobre una situación de dinero en tu familia que genero tensión. Más allá de la cantidad específica, que significado simbólico (sobre amor, justicia, valoración) parecia estar en juego en esa tensión?
 
@@ -97,7 +97,7 @@ Dar lo mismo a todos no siempre es justo. A veces, ser justo requiere dar difere
 
 Los negocios familiares combinan las dinámicas de poder, jerarquía y conflicto de la familia con las exigencias prácticas y financieras de un negocio funcional, creando una de las situaciones más complejas de gestionar simultaneamente.
 
-**El Principio de la Doble Estructura de Relación:** En los negocios familiares, las relaciones operan en dos sistemas simultaneos: el sistema familiar (con sus jerarquías emocionales, lealtades e historia) y el sistema empresarial (con sus exigencias de eficiencia, meritocracia y resultados). Los negocios familiares más exitosos son los que han logrado establecer límites claros entre ambos sistemas: reglas de negocio que se aplican independientemente de la jerarquía familiar, y espacios familiares donde las dinámicas de negocio quedan fuera.
+**El Principio de la Doble Estructura de Relación:** En los negocios familiares, las relaciones operan en dos sistemas simultáneos: el sistema familiar (con sus jerarquías emocionales, lealtades e historia) y el sistema empresarial (con sus exigencias de eficiencia, meritocracia y resultados). Los negocios familiares más exitosos son los que han logrado establecer límites claros entre ambos sistemas: reglas de negocio que se aplican independientemente de la jerarquía familiar, y espacios familiares donde las dinámicas de negocio quedan fuera.
 
 **Ejercicio inmediato:** Si formas parte de un negocio familiar, identifica si existen reglas claras que separan las decisiones empresariales de las dinámicas familiares, o si ambos sistemas se mezclan constantemente generando confusión sobre que rol está operando en cada momento.
 

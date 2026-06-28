@@ -23,7 +23,7 @@ Ruben tiene algo con alguien, pero ninguno de los dos ha definido que es exactam
 
 Las relaciones romanticas no exclusivas o sin compromiso formal abarcan una variedad de configuraciones específicas, cada una con sus propias dinámicas y expectativas implícitas que merecen ser nombradas explicitamente.
 
-**El Principio de la Diversidad de Configuraciones Casuales:** Las relaciones casuales pueden tomar formas distintas: encuentros unicos sin continuidad, conexiones recurrentes sin exclusividad pero con cierta regularidad, o relaciones con multiples dimensiones de intimidad (física y emocional) sin el compromiso formal de una relación exclusiva. Cada configuración tiene implicaciones distintas, y la falta de claridad sobre cual configuración específica se está viviendo genera la mayoría de los problemas asociados con este tipo de relaciones.
+**El Principio de la Diversidad de Configuraciones Casuales:** Las relaciones casuales pueden tomar formas distintas: encuentros únicos sin continuidad, conexiones recurrentes sin exclusividad pero con cierta regularidad, o relaciones con multiples dimensiones de intimidad (física y emocional) sin el compromiso formal de una relación exclusiva. Cada configuración tiene implicaciones distintas, y la falta de claridad sobre cual configuración específica se está viviendo genera la mayoría de los problemas asociados con este tipo de relaciones.
 
 **Ejercicio inmediato:** Si estas actualmente en una relación sin definición clara, identifica específicamente que tipo de configuración describe mejor lo que estan viviendo, más allá de la etiqueta vaga de algo.
 
@@ -35,7 +35,7 @@ Las relaciones casuales no son un fracaso de compromiso. Son una configuración 
 
 Las relaciones que se mantienen deliberadamente sin definición clara surgen frecuentemente de una combinación de deseo genuino de mantener opciones abiertas y miedo a la conversación que podría revelar incompatibilidad de expectativas entre las partes.
 
-**El Principio de la Evitación de la Conversación Reveladora:** Mantener una relación indefinida frecuentemente permite a ambas partes evitar la conversación que podría revelar que sus expectativas son incompatibles (uno quiere exclusividad, el otro prefiere casualidad), prolongando una situación comoda en el corto plazo pero generando confusión y dolor acumulado a largo plazo cuando esas expectativas divergentes eventualmente chocan.
+**El Principio de la Evitación de la Conversación Reveladora:** Mantener una relación indefinida frecuentemente permite a ambas partes evitar la conversación que podría revelar que sus expectativas son incompatibles (uno quiere exclusividad, el otro prefiere casualidad), prolongando una situación cómoda en el corto plazo pero generando confusión y dolor acumulado a largo plazo cuando esas expectativas divergentes eventualmente chocan.
 
 **Ejercicio inmediato:** Si estas en una relación indefinida, reflexiona honestamente sobre si la indefinición refleja tu preferencia genuina, o si es una forma de evitar una conversación que temes que revele incompatibilidad de expectativas.
 
@@ -105,13 +105,13 @@ El nivel de compromiso de una relación no determina cuanto respeto merece termi
 
 ## Capítulo 8: El coste emocional de las relaciones indefinidas
 
-Las relaciones que se mantienen deliberadamente sin definición clara durante períodos prolongados tienen costes emocionales acumulativos que merecen reconocerse, incluso cuando ambas partes declaran estar comodas con la ambiguedad.
+Las relaciones que se mantienen deliberadamente sin definición clara durante períodos prolongados tienen costes emocionales acumulativos que merecen reconocerse, incluso cuando ambas partes declaran estar cómodas con la ambiguedad.
 
 **El Principio del Coste Acumulativo de la Incertidumbre Cronica:** La incertidumbre prolongada sobre el estado y el futuro de una relación, incluso cuando se experimenta como tolerable en el corto plazo, tiene costes psicológicos acumulativos documentados: ansiedad cronica de bajo nivel, dificultad para invertir plenamente en la relación o en alternativas, y un desgaste emocional que frecuentemente se reconoce solo en retrospectiva.
 
 **Ejercicio inmediato:** Si has estado en una relación indefinida durante meses, evalua honestamente el coste emocional acumulado que esa indefinición te ha generado, más allá de la comodidad superficial de no tener que definir nada.
 
-Una relación indefinida que se mantiene comoda en el momento puede estar acumulando un coste emocional que solo se hace visible cuando finalmente se examina con honestidad.
+Una relación indefinida que se mantiene cómoda en el momento puede estar acumulando un coste emocional que solo se hace visible cuando finalmente se examina con honestidad.
 
 ---
 

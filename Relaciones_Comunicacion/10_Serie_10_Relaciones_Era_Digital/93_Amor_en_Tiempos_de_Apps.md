@@ -61,7 +61,7 @@ La abundancia de opciones potenciales que las aplicaciones de citas presentan ge
 
 **El Principio de la Paradoja de la Abundancia:** Similar a la paradoja de la elección documentada en otros contextos de consumo, la disponibilidad aparentemente ilimitada de potenciales conexiones en aplicaciones de citas puede generar una mentalidad de comparación permanente, donde la posibilidad teorica de una opción mejor dificulta la inversión plena en cualquier conexión actual prometedora.
 
-**Ejercicio inmediato:** Si notas este patron en tu propio uso de aplicaciones de citas, considera limitar deliberadamente tu exploración simultanea de nuevas opciones mientras desarrollas una conexión que muestra potencial genuino.
+**Ejercicio inmediato:** Si notas este patron en tu propio uso de aplicaciones de citas, considera limitar deliberadamente tu exploración simultánea de nuevas opciones mientras desarrollas una conexión que muestra potencial genuino.
 
 Tener acceso a infinitas opciones potenciales no te ayuda a elegir mejor. Frecuentemente te dificulta comprometerte con cualquiera de ellas.
 
@@ -109,7 +109,7 @@ Las videollamadas como paso intermedio entre la mensajeria de texto y el encuent
 
 **El Principio de la Videollamada como Puente Intermedio:** Las videollamadas previas al encuentro presencial permiten verificar la consistencia de la identidad presentada, evaluar elementos de química y comunicación que el texto no puede transmitir completamente, y reducir parte de la ansiedad de un primer encuentro completamente presencial sin ningún conocimiento previo más allá del texto.
 
-**Ejercicio inmediato:** Si estas en proceso de conocer a alguien digitalmente antes de un encuentro presencial, considera proponer una videollamada breve como paso intermedio que facilite una transición más comoda hacía el encuentro físico.
+**Ejercicio inmediato:** Si estas en proceso de conocer a alguien digitalmente antes de un encuentro presencial, considera proponer una videollamada breve como paso intermedio que facilite una transición más cómoda hacía el encuentro físico.
 
 Una videollamada antes del primer encuentro presencial no es excesiva precaución. Es un paso intermedio útil que mejora la información disponible antes de invertir en un encuentro físico completo.
 
@@ -131,7 +131,7 @@ Las aplicaciones de citas pueden facilitar el encuentro inicial, pero no pueden 
 
 El uso efectivo de las herramientas digitales de citas requiere integrarlas cómo un componente de una estrategia más amplia de búsqueda de conexión, no cómo la totalidad de esa estrategia.
 
-**El Principio de la Integración Estratégica:** Las personas que tienen mejores resultados en su búsqueda de pareja a traves de medios digitales son las que integran estas herramientas con otras estrategias de conexión (actividades sociales presenciales, redes de amigos, intereses compartidos en comunidad), en lugar de depender exclusivamente de las aplicaciones como unica via de búsqueda.
+**El Principio de la Integración Estratégica:** Las personas que tienen mejores resultados en su búsqueda de pareja a traves de medios digitales son las que integran estas herramientas con otras estrategias de conexión (actividades sociales presenciales, redes de amigos, intereses compartidos en comunidad), en lugar de depender exclusivamente de las aplicaciones como única via de búsqueda.
 
 **Ejercicio inmediato:** Si estas buscando pareja activamente, evalua si tu estrategia actual depende exclusivamente de aplicaciones digitales, o si la complementas con otras formas de conexión presencial que podrían ampliar tus oportunidades.
 

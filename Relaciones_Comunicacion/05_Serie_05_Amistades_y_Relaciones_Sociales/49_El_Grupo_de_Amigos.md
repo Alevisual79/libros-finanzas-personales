@@ -37,7 +37,7 @@ Los miembros de un grupo de amigos tienden a asumir roles específicos y relativ
 
 **El Principio de la Cristalización de Roles Grupales:** Similar a los roles familiares, los roles dentro de un grupo de amigos tienden a fijarse temprano y a ser difíciles de cambiar incluso cuando la persona que los ocupa ha cambiado o quiere un rol diferente. El que siempre organiza puede sentirse atrapado en esa responsabilidad; el que siempre hace de payaso puede sentir que no se le toma en serio en momentos que necesitaria seriedad.
 
-**Ejercicio inmediato:** Identifica tu rol típico en tu grupo de amigos. Te sientes comodo con ese rol, o sientes que te limita a expresar facetas de ti que el grupo no reconoce o no espera?
+**Ejercicio inmediato:** Identifica tu rol típico en tu grupo de amigos. Te sientes cómodo con ese rol, o sientes que te limita a expresar facetas de ti que el grupo no reconoce o no espera?
 
 El rol que ocupas en tu grupo de amigos no tiene que ser permanente. Pero cambiarlo requiere comunicación explícita, porque el grupo no lo hará por defecto.
 

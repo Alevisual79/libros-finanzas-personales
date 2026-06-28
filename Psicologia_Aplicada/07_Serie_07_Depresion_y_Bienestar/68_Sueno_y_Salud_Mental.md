@@ -83,7 +83,7 @@ Isabel ha leido sobre higiene del sueño pero ha probado todo sin resultados sos
 
 Sin embargo, la investigación de Colleen Carney y colegas muestra que la higiene del sueño sola frecuentemente es insuficiente para el insomnio cronico, que requiere TCC-I (Terapia Cognitivo-Conductual para el Insomnio): la intervención psicológica que aborda tanto los comportamientos como las cogniciones que mantienen el insomnio.
 
-**Ejercicio inmediato:** Evalua cuantas de las prácticas de higiene del sueño tienes habitualmente: horario constante, dormitorio frio-oscuro-silencioso, sin cafeina después de las dos, sin alcohol como inductor del sueño, sin pantallas en la hora antes de dormir. Para las que no cumples, elige la más facil de implementar y hazla esta semana.
+**Ejercicio inmediato:** Evalua cuantas de las prácticas de higiene del sueño tienes habitualmente: horario constante, dormitorio frio-oscuro-silencioso, sin cafeina después de las dos, sin alcohol como inductor del sueño, sin pantallas en la hora antes de dormir. Para las que no cumples, elige la más fácil de implementar y hazla esta semana.
 
 La higiene del sueño es el suelo del que parte una buena noche. Sin el suelo, ninguna técnica de sueño funciona bien.
 
@@ -161,7 +161,7 @@ El sueño que no llega cuando lo necesitas no es el sueño que te ha fallado. Es
 
 ## Epílogo
 
-Isabel apago el movil a las diez de la noche durante treinta dias. Los primeros dias fueron difíciles: una ansiedad leve por la desconexion, la tentación de comprobar que no había mensajes urgentes. Después del septimo dia, el sueño empezó a cambiar: se dormia antes, se despertaba menos en medio de la noche, y se levantaba con algo que no había tenido en años: la sensación de haber dormido de verdad. El estado de animo de las mañanas cambio tanto que ya no necesito un estudio cientifico para convencerse. La evidencia estaba en cómo se sentía cada dia.
+Isabel apago el móvil a las diez de la noche durante treinta dias. Los primeros dias fueron difíciles: una ansiedad leve por la desconexion, la tentación de comprobar que no había mensajes urgentes. Después del septimo dia, el sueño empezó a cambiar: se dormia antes, se despertaba menos en medio de la noche, y se levantaba con algo que no había tenido en años: la sensación de haber dormido de verdad. El estado de animo de las mañanas cambio tanto que ya no necesito un estudio cientifico para convencerse. La evidencia estaba en cómo se sentía cada dia.
 
 ---
 

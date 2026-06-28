@@ -23,7 +23,7 @@ Ruben ha pasado gran parte de su desarrollo profesional intentando corregir sus 
 
 Durante la mayor parte del siglo XX, la psicología se centro en lo que falla. La psicología positiva propone centrase en lo que funciona.
 
-**El Principio de las Fortalezas como el Énfasis que Produce Mayor Florecimiento que el Énfasis en las Debilidades:** Martin Seligman y Mihaly Csikszentmihalyi lanzaron formalmente la psicología positiva en 2000 con un artículo programatico en American Psychologist: una propuesta de reorientar la psicología hacía el estudio del funcionamiento optimo humano en lugar de solo el disfuncionamiento. Uno de los pilares de este programa es el estudio de las fortalezas de carácter.
+**El Principio de las Fortalezas como el Énfasis que Produce Mayor Florecimiento que el Énfasis en las Debilidades:** Martin Seligman y Mihaly Csikszentmihalyi lanzaron formalmente la psicología positiva en 2000 con un artículo programatico en American Psychologist: una propuesta de reorientar la psicología hacía el estudio del funcionamiento óptimo humano en lugar de solo el disfuncionamiento. Uno de los pilares de este programa es el estudio de las fortalezas de carácter.
 
 La investigación de Gallup sobre el compromiso laboral muestra que los empleados que reportan usar sus fortalezas cada dia en el trabajo muestran seis veces mayor engagement, menos ausentismo, y mayor productividad que los que no. La investigación de Alex Linley y colegas muestra que las personas que usan sus fortalezas tienen mayor bienestar, menor estrés, y mayor confianza en si mismas.
 
@@ -93,7 +93,7 @@ La persona cuyas fortalezas son diferentes a las tuyas no es la que más se pare
 
 Ruben ha aprendido que sus fortalezas, llevadas al extremo o usadas en el contexto equivocado, pueden convertirse en debilidades.
 
-**El Principio del Exceso de Fortaleza como Desvirtuamiento que Produce Costes en el Rendimiento o las Relaciones:** Ryan Niemiec, director de educación del VIA Institute, propone que cada fortaleza tiene una zona de uso optimo y dos zonas de desuso: el defecto (usar la fortaleza muy poco) y el exceso (usar la fortaleza demasiado o en el contexto incorrecto). El exceso de curiosidad puede producir distracción y falta de foco; el exceso de amabilidad puede producir incapacidad de establecer límites; el exceso de perseverancia puede producir rigidez ante evidencia que pide cambiar de rumbo.
+**El Principio del Exceso de Fortaleza como Desvirtuamiento que Produce Costes en el Rendimiento o las Relaciones:** Ryan Niemiec, director de educación del VIA Institute, propone que cada fortaleza tiene una zona de uso óptimo y dos zonas de desuso: el defecto (usar la fortaleza muy poco) y el exceso (usar la fortaleza demasiado o en el contexto incorrecto). El exceso de curiosidad puede producir distracción y falta de foco; el exceso de amabilidad puede producir incapacidad de establecer límites; el exceso de perseverancia puede producir rigidez ante evidencia que pide cambiar de rumbo.
 
 La investigación de Adam Grant muestra que los givers (personas con alta fortaleza de generosidad) son los que mejor y peor les va en las organizaciones: los que mejor les va aprenden a establecer límites que protegen sus recursos; los que peor les va usan la fortaleza sin restricción hasta el agotamiento.
 
@@ -105,7 +105,7 @@ La fortaleza sin conciencia de sus límites se convierte en su propio obstaculo.
 
 ## Capítulo 7: Desarrollar nuevas fortalezas: el papel del esfuerzo y la práctica
 
-Isabel sabe que tiene fortalezas características, pero también quiere desarrollar fortalezas en áreas donde actualmente es más debil.
+Isabel sabe que tiene fortalezas características, pero también quiere desarrollar fortalezas en áreas donde actualmente es más débil.
 
 **El Principio del Desarrollo de Fortalezas como Posible a traves del Esfuerzo Deliberado aunque con Rendimientos Diferentes según el Talento Natural:** La investigación de Carol Dweck sobre el mindset de crecimiento muestra que las habilidades pueden desarrollarse con esfuerzo y práctica, y que la creencia de que pueden desarrollarse predice el desarrollo mejor que la inteligencia o el talento inicial. Sin embargo, el ritmo de desarrollo y el nivel de excelencia alcanzable es diferente según el talento natural: desarrollar una fortaleza es más rápido y más natural que desarrollar una debilidad hasta el mismo nivel.
 

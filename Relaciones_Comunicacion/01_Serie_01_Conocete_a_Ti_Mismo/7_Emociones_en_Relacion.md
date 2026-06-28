@@ -89,7 +89,7 @@ Cuando el jefe de Ruben le criticaba en público, Ruben se quedaba en silencio. 
 
 **El Principio del Espacio entre Estimulo y Respuesta:** Viktor Frankl lo formulo con precisión: entre el estímulo y la respuesta existe un espacio. En ese espacio reside nuestra libertad y nuestra capacidad de crecimiento. En el plano emocional relacional, ese espacio es el territorio de la respuesta frente a la reacción. La reacción es rápida, automática, generalmente defensiva. La respuesta es más lenta, más consciente, generalmente más efectiva.
 
-El neurocientiifico Antonio Damasio ha demostrado que las decisiones puramente racionales sin componente emocional son tan pobres como las decisiones puramente emocionales sin componente racional. La respuesta optima integra ambos sistemas. El desafio es dar tiempo a que el sistema racional pueda participar antes de actuar.
+El neurocientiifico Antonio Damasio ha demostrado que las decisiones puramente racionales sin componente emocional son tan pobres como las decisiones puramente emocionales sin componente racional. La respuesta óptima integra ambos sistemas. El desafio es dar tiempo a que el sistema racional pueda participar antes de actuar.
 
 **Ejercicio inmediato:** En tu próxima situación de tensión emocional, práctica el método STOP: Stop (para), Take a breath (respira), Observe (observa lo que sientes), Proceed (actua). El STOP no elimina la emoción. Crea el espacio para que puedas responder en lugar de reaccionar.
 

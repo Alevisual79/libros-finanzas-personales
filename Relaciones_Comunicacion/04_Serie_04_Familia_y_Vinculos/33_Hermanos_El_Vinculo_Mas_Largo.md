@@ -109,11 +109,11 @@ Las peleas de herencia no son sobre dinero. Son sobre quien fue más amado, expr
 
 La muerte de un hermano es una de las perdidas menos reconocidas socialmente, a pesar de ser frecuentemente una de las relaciones más largas y significativas de la vida de una persona.
 
-**El Principio del Duelo No Reconocido:** El duelo por la perdida de un hermano frecuentemente no recibe el reconocimiento social que recibe la perdida de un padre, un hijo o una pareja, lo que puede dejar a la persona en duelo sintiendo que su dolor no es validado adecuadamente por su entorno. Este duelo incluye no solo la perdida de la persona, sino también de la unica otra persona que comparte la memoria específica de la infancia familiar compartida.
+**El Principio del Duelo No Reconocido:** El duelo por la perdida de un hermano frecuentemente no recibe el reconocimiento social que recibe la perdida de un padre, un hijo o una pareja, lo que puede dejar a la persona en duelo sintiendo que su dolor no es validado adecuadamente por su entorno. Este duelo incluye no solo la perdida de la persona, sino también de la única otra persona que comparte la memoria específica de la infancia familiar compartida.
 
 **Ejercicio inmediato:** Si has perdido un hermano, o conoces a alguien que lo ha hecho, reconoce (o ayuda a reconocer) que esta perdida merece el mismo espacio de duelo que cualquier otra perdida significativa, independientemente de si la sociedad la trata con la misma seriedad.
 
-La perdida de un hermano es la perdida del unico testigo vivo de tu infancia compartida.
+La perdida de un hermano es la perdida del único testigo vivo de tu infancia compartida.
 
 ---
 

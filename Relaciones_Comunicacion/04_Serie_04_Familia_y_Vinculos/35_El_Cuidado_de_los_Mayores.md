@@ -25,7 +25,7 @@ El cuidado de los padres mayores es uno de los roles más exigentes y menos reco
 
 El cuidado de un padre mayor implica una combinación de demandas prácticas, emocionales y logisticas que rara vez se anticipan adecuadamente hasta que la situación ya esta en curso.
 
-**El Principio de la Carga Multidimensional:** La investigación sobre cuidadores familiares muestra que el cuidado de un padre mayor combina al menos cuatro tipos de carga simultanea: la carga física del cuidado directo, la carga logistica de coordinar citas médicas y servicios, la carga financiera frecuentemente no compensada, y la carga emocional de gestionar el propio duelo anticipado por la perdida gradual del padre tal cómo se le conocía. Subestimar cualquiera de estas dimensiones lleva a una planificación insuficiente del apoyo necesario.
+**El Principio de la Carga Multidimensional:** La investigación sobre cuidadores familiares muestra que el cuidado de un padre mayor combina al menos cuatro tipos de carga simultánea: la carga física del cuidado directo, la carga logistica de coordinar citas médicas y servicios, la carga financiera frecuentemente no compensada, y la carga emocional de gestionar el propio duelo anticipado por la perdida gradual del padre tal cómo se le conocía. Subestimar cualquiera de estas dimensiones lleva a una planificación insuficiente del apoyo necesario.
 
 **Ejercicio inmediato:** Si estas en una situación de cuidado de un mayor, identifica cual de las cuatro cargas (física, logistica, financiera, emocional) es la más pesada para ti actualmente. Esa identificación ayuda a buscar el tipo de apoyo más relevante.
 

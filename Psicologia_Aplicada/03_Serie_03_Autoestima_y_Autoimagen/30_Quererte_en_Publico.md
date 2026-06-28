@@ -119,7 +119,7 @@ La autenticidad no es un interruptor de todo o nada. Es un dimmer que ajustas se
 
 ## Capítulo 8: La aprobación de los demás: cuanto necesitas y cuanto es sano necesitar
 
-Elena esta en un espectro entre dos extremos: por un lado hay personas que no necesitan ninguna aprobación de nadie (y que frecuentemente son percibidas como arrogantes o insensibles al impacto de sus acciones); por el otro, hay personas que necesitan aprobación constante de todos para funcionar (y que viven con ansiedad cronica). El punto optimo esta en alguna parte entre los dos.
+Elena esta en un espectro entre dos extremos: por un lado hay personas que no necesitan ninguna aprobación de nadie (y que frecuentemente son percibidas como arrogantes o insensibles al impacto de sus acciones); por el otro, hay personas que necesitan aprobación constante de todos para funcionar (y que viven con ansiedad cronica). El punto óptimo esta en alguna parte entre los dos.
 
 **El Principio de la Necesidad Moderada de Aprobación como Normal y Funcional:** Mark Leary, con su modelo del sociometro, propone que la autoestima evolucionó precisamente para monitorizar el grado de aceptación social: una persona completamente indiferente a la aprobación de los demás tenderia a comportarse de formas que la excluirian del grupo, lo que en el entorno ancestral era un riesgo de supervivencia. Una necesidad moderada de aprobación es adaptativa y normal.
 

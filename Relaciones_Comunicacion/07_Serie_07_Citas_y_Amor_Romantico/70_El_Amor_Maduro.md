@@ -35,7 +35,7 @@ El amor maduro no es el amor que perdio su intensidad. Es el amor que encontró 
 
 A diferencia del enamoramiento, que ocurre involuntariamente como resultado de procesos biológicos automáticos, el amor maduro se renueva activamente a traves de la elección consciente repetida de continuar invirtiendo en la relación.
 
-**El Principio del Amor como Verbo Repetido:** El amor maduro se expresa no cómo un estado pasivo que simplemente se siente, sino cómo una serie de elecciones activas repetidas: elegir la paciencia en momentos de frustración, elegir la generosidad cuando sería más facil ser egoista, elegir seguir invirtiendo cuando la novedad ya no proporciona motivación automática. Esta cualidad de elección activa es lo que distingue al amor maduro del enamoramiento involuntario.
+**El Principio del Amor como Verbo Repetido:** El amor maduro se expresa no cómo un estado pasivo que simplemente se siente, sino cómo una serie de elecciones activas repetidas: elegir la paciencia en momentos de frustración, elegir la generosidad cuando sería más fácil ser egoista, elegir seguir invirtiendo cuando la novedad ya no proporciona motivación automática. Esta cualidad de elección activa es lo que distingue al amor maduro del enamoramiento involuntario.
 
 **Ejercicio inmediato:** Identifica una elección específica que podrías hacer hoy para expresar amor activo hacía tu pareja, independientemente de tu nivel actual de sentimiento espontaneo en este momento específico.
 

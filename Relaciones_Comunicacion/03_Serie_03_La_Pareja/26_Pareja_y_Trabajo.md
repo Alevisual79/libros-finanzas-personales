@@ -25,7 +25,7 @@ Este libro no propone elegir entre el trabajo y la pareja. Propone diseñar cons
 
 ## Capítulo 1: Por qué el trabajo invade el espacio de la pareja
 
-El trabajo no invade la vida de pareja porque las personas sean malas parejas. Invade porque las estructuras laborales modernas (la disponibilidad constante via movil, la cultura de la productividad, la inseguridad económica) producen una presión que empuja el trabajo hacía espacios que antes eran exclusivamente personales.
+El trabajo no invade la vida de pareja porque las personas sean malas parejas. Invade porque las estructuras laborales modernas (la disponibilidad constante via móvil, la cultura de la productividad, la inseguridad económica) producen una presión que empuja el trabajo hacía espacios que antes eran exclusivamente personales.
 
 **El Principio de la Permeabilidad Laboral:** Brigid Schulte, autora de Overwhelmed, documenta cómo la tecnología ha eliminado los límites temporales y espaciales que antes separaban el trabajo de la vida personal. El correo que llega a las diez de la noche, la expectativa de respuesta inmediata, la cultura de estar siempre disponible: todo esto convierte el trabajo en una presencia constante en lugar de un bloque de tiempo delimitado. El resultado es que las parejas comparten espacio físico pero no atención real, porque la atención esta capturada por el trabajo incluso cuando el cuerpo esta presente.
 
@@ -39,7 +39,7 @@ Estar físicamente presente no es lo mismo que estar disponible. Tu pareja sabe 
 
 Algunas personas no trabajan mucho por necesidad económica sino por una relación con el trabajo que sustituye otras necesidades emocionales: validación, sentido de control, evitación de la intimidad.
 
-**El Principio del Trabajo como Refugio Emocional:** El workaholismo, a diferencia del simple exceso de trabajo por necesidad, tiene una función psicológica: produce una sensación de logró y control que puede ser más facil de obtener que la satisfacción emocional en la relación de pareja, especialmente cuando esa relación requiere vulnerabilidad o ha entrado en un período de conflicto no resuelto. El trabajo se convierte en el lugar donde uno se siente competente, mientras que la pareja se convierte en el lugar donde uno se siente incompetente o incomodo.
+**El Principio del Trabajo como Refugio Emocional:** El workaholismo, a diferencia del simple exceso de trabajo por necesidad, tiene una función psicológica: produce una sensación de logró y control que puede ser más fácil de obtener que la satisfacción emocional en la relación de pareja, especialmente cuando esa relación requiere vulnerabilidad o ha entrado en un período de conflicto no resuelto. El trabajo se convierte en el lugar donde uno se siente competente, mientras que la pareja se convierte en el lugar donde uno se siente incompetente o incomodo.
 
 La pareja del workaholic vive una soledad particular: comparte la vida con alguien físicamente presente pero emocionalmente ausente, sin que haya una infidelidad o un conflicto explícito al que poder señalar.
 
@@ -115,7 +115,7 @@ Cuando las jornadas de los dos miembros de la pareja son estructuralmente incomp
 
 **El Principio de la Logistica como Determinante de Conexión:** Las parejas con jornadas incompatibles necesitan ser más deliberadas, no menos, sobre la creación de tiempo de conexión. Esto puede incluir comunicación programada (llamadas en momentos específicos), rituales que no dependen de estar físicamente juntos (un mensaje de buenos dias, una llamada antes de dormir), y la planificación proactiva de los momentos en que las agendas si coinciden para que sean de calidad maxima.
 
-**Ejercicio inmediato:** Si tienen jornadas incompatibles, identifiquen los unicos momentos de la semana en que ambos estan disponibles simultaneamente. Protejan esos momentos como sagrados, sin excepciones de trabajo. Si no hay ningún momento de coincidencia, esa es una señal de que la estructura laboral actual necesita ser revisada para que la relación sea sostenible.
+**Ejercicio inmediato:** Si tienen jornadas incompatibles, identifiquen los únicos momentos de la semana en que ambos estan disponibles simultaneamente. Protejan esos momentos como sagrados, sin excepciones de trabajo. Si no hay ningún momento de coincidencia, esa es una señal de que la estructura laboral actual necesita ser revisada para que la relación sea sostenible.
 
 Las jornadas incompatibles no destruyen las relaciones. La falta de intención para superarlas si.
 

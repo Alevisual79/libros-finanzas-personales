@@ -41,7 +41,7 @@ Carlos ha mapeado su funnel en cinco etapas y puede optimizar cada una por separ
 
 La investigación de Forrester sobre los ciclos de compra B2B muestra que en el mercado B2B moderno el cliente completa el 67% de su proceso de decisión (investigación, comparación de alternativas, y formación de preferencia) antes de tomar contacto directo con el vendedor. Eso significa que las etapas de trafico y nutrición del funnel son ahora más importantes que nunca para el emprendedor B2B.
 
-**Ejercicio inmediato:** Para cada etapa de tu funnel, define una metrica específica que indique si esa etapa está funcionando: trafico (número de visitantes unicos a la web por mes), captura (tasa de conversión de visitantes a leads), nutrición (tasa de apertura de emails y engagement con el contenido), conversión (tasa de leads que se convierten en clientes), y retención (porcentaje de clientes que repiten la compra o siguen activos después de seis meses). Con esas cinco metricas medidas mensualmente, puedes identificar donde en el funnel esta el mayor problema.
+**Ejercicio inmediato:** Para cada etapa de tu funnel, define una metrica específica que indique si esa etapa está funcionando: trafico (número de visitantes únicos a la web por mes), captura (tasa de conversión de visitantes a leads), nutrición (tasa de apertura de emails y engagement con el contenido), conversión (tasa de leads que se convierten en clientes), y retención (porcentaje de clientes que repiten la compra o siguen activos después de seis meses). Con esas cinco metricas medidas mensualmente, puedes identificar donde en el funnel esta el mayor problema.
 
 El funnel que no mides no puedes mejorar. Y el problema siempre esta en una etapa específica que los números revelan.
 

@@ -41,7 +41,7 @@ Isabel tiene dificultades para decir no en el trabajo por miedo a las consecuenc
 
 Los límites en el trabajo no son solo horarios de entrada y salida: incluyen la gestión de las expectativas de disponibilidad (los emails y mensajes fuera de horario), la capacidad de decir no a responsabilidades que exceden la capacidad razonable, y la protección del tiempo de recuperación (vacaciones, fines de semana, descanso diario).
 
-**Ejercicio inmediato:** Identifica un límite que sabes que necesitas establecer en tu trabajo y que has estado postponiendo. Esta semana, da el primer paso: puede ser apagar las notificaciones del movil de trabajo después de las ocho de la tarde, puede ser decir no a una responsabilidad que excede tu capacidad, puede ser tomarte el almuerzo sin trabajar. El límite más pequeño que puedas establecer de forma sostenida es mejor que el límite perfecto que no puedes mantener.
+**Ejercicio inmediato:** Identifica un límite que sabes que necesitas establecer en tu trabajo y que has estado postponiendo. Esta semana, da el primer paso: puede ser apagar las notificaciones del móvil de trabajo después de las ocho de la tarde, puede ser decir no a una responsabilidad que excede tu capacidad, puede ser tomarte el almuerzo sin trabajar. El límite más pequeño que puedas establecer de forma sostenida es mejor que el límite perfecto que no puedes mantener.
 
 Los límites que no estableces en el trabajo no son los que no se necesitan. Son los que se necesitan tanto que el trabajo los ha hecho invisibles.
 
@@ -119,13 +119,13 @@ El trabajo que no tiene sentido para ti todavía puede tenerlo si cambias el án
 
 ## Capítulo 8: La desconexion digital: el límite que más cuesta en la era de la conectividad permanente
 
-Elena revisa el correo del trabajo a las once de la noche. No porque quiera sino porque el movil esta en la mesilla de noche.
+Elena revisa el correo del trabajo a las once de la noche. No porque quiera sino porque el móvil esta en la mesilla de noche.
 
-**El Principio de la Desconexion Digital como Condición Necesaria para la Recuperación:** La investigación de Arlie Hochschild sobre las segundas jornadas (el trabajo domestico que se hace después del trabajo remunerado) se actualiza en el siglo XXI con la hiperconectividad digital: las expectativas de disponibilidad permanente a traves del movil eliminan el tiempo de recuperación psicológica entre jornadas laborales.
+**El Principio de la Desconexion Digital como Condición Necesaria para la Recuperación:** La investigación de Arlie Hochschild sobre las segundas jornadas (el trabajo domestico que se hace después del trabajo remunerado) se actualiza en el siglo XXI con la hiperconectividad digital: las expectativas de disponibilidad permanente a traves del móvil eliminan el tiempo de recuperación psicológica entre jornadas laborales.
 
 La investigación de Sabine Sonnentag y Britta Bayer sobre la desconexion psicológica del trabajo muestra que es la variable que más predice la recuperación del estrés laboral: las personas que pueden desconectar psicológicamente del trabajo en su tiempo libre muestran mayor bienestar, mayor energía al dia siguiente, y menor riesgo de burnout.
 
-**Ejercicio inmediato:** Esta noche, carga el movil fuera del dormitorio. Si lo usas como despertador, compra un despertador (cuestan menos de diez euros). El dormitorio sin movil elimina la última exposición al trabajo antes de dormir y la primera al levantarte, que son los dos momentos más críticos para la desconexion psicológica.
+**Ejercicio inmediato:** Esta noche, carga el móvil fuera del dormitorio. Si lo usas como despertador, compra un despertador (cuestan menos de diez euros). El dormitorio sin móvil elimina la última exposición al trabajo antes de dormir y la primera al levantarte, que son los dos momentos más críticos para la desconexion psicológica.
 
 La conectividad permanente que parece productividad es deuda de recuperación que se paga con interés.
 
@@ -161,7 +161,7 @@ El trabajo que destruye la salud para producir éxito no es éxito. Es una deuda
 
 ## Epílogo
 
-Ruben renegocio sus contratos con dos clientes que le producian el mayor estrés y despidio al tercero que le hacía imposible la desconexion. Sus ingresos bajaron un veinte por ciento durante tres meses. Su salud mental mejoro un cuarenta por ciento desde el primer mes. Calculo que la diferencia económica no cubria el coste de lo que el estrés le estaba haciendo. Y una vez que hizo ese cálculo, la decisión fue más facil de lo que había imaginado.
+Ruben renegocio sus contratos con dos clientes que le producian el mayor estrés y despidio al tercero que le hacía imposible la desconexion. Sus ingresos bajaron un veinte por ciento durante tres meses. Su salud mental mejoro un cuarenta por ciento desde el primer mes. Calculo que la diferencia económica no cubria el coste de lo que el estrés le estaba haciendo. Y una vez que hizo ese cálculo, la decisión fue más fácil de lo que había imaginado.
 
 ---
 

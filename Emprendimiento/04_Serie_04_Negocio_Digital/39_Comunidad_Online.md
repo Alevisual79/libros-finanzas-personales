@@ -41,7 +41,7 @@ Lucia ha aprendido que el formato de comunidad incorrecto es la razón por la qu
 
 Robbie Kellman Baxter en The Membership Economy propone que las comunidades de membresia de pago, aunque tienen mayor barrera de entrada, producen miembros mucho más comprometidos que las gratuitas, porque el acto de pagar es en si mismo un filtro de calidad y un compromiso.
 
-**Ejercicio inmediato:** Para elegir el formato correcto de comunidad para tu negocio, evalua dos factores: el nivel de compromiso que puedes esperar de tu audiencia (si tu audiencia es de profesionales o de compradores de alto valor, puede justificar una comunidad de pago; si es una audiencia masiva con menor disposición a pagar, el grupo gratuito puede ser mejor punto de partida), y la infraestructura tecnologica que puedes gestionar (un grupo de Facebook es más facil de gestionar que una comunidad en Circle). Empieza con el formato más simple que sirve a tu caso de uso.
+**Ejercicio inmediato:** Para elegir el formato correcto de comunidad para tu negocio, evalua dos factores: el nivel de compromiso que puedes esperar de tu audiencia (si tu audiencia es de profesionales o de compradores de alto valor, puede justificar una comunidad de pago; si es una audiencia masiva con menor disposición a pagar, el grupo gratuito puede ser mejor punto de partida), y la infraestructura tecnologica que puedes gestionar (un grupo de Facebook es más fácil de gestionar que una comunidad en Circle). Empieza con el formato más simple que sirve a tu caso de uso.
 
 La comunidad de pago con cincuenta miembros comprometidos es más valiosa para el negocio que el grupo gratuito con cinco mil miembros inactivos.
 
@@ -93,7 +93,7 @@ El nuevo miembro que no participa en los primeros siete dias probablemente no pa
 
 Marcos ha aprendido que el engagement de la comunidad no se produce solo. Requiere facilitación activa y estructura.
 
-**El Principio del Contenido de La Comunidad como Las Publicaciones, Preguntas, y Conversaciones que El Moderador Facilita para Que Los Miembros Se Conecten, Compartan, y Progresen Hacia El Objetivo de La Comunidad sin Que El Moderador Sea La Unica Fuente de Valor:** Los tipos de contenido que generan mayor engagement en comunidades online son: las preguntas abiertas (que invitan a compartir opinión o experiencia personal), los retos (que invitan a tomar una acción específica y compartir el resultado), los casos de éxito de miembros (que celebran el progreso y motivan a otros), las sesiones en vivo de preguntas y respuestas (que dan acceso al creador y generan mayor sentido de comunidad), y los debates controlados (sobre temas con diferentes perspectivas validas donde todos pueden aportar).
+**El Principio del Contenido de La Comunidad como Las Publicaciones, Preguntas, y Conversaciones que El Moderador Facilita para Que Los Miembros Se Conecten, Compartan, y Progresen Hacia El Objetivo de La Comunidad sin Que El Moderador Sea La Única Fuente de Valor:** Los tipos de contenido que generan mayor engagement en comunidades online son: las preguntas abiertas (que invitan a compartir opinión o experiencia personal), los retos (que invitan a tomar una acción específica y compartir el resultado), los casos de éxito de miembros (que celebran el progreso y motivan a otros), las sesiones en vivo de preguntas y respuestas (que dan acceso al creador y generan mayor sentido de comunidad), y los debates controlados (sobre temas con diferentes perspectivas validas donde todos pueden aportar).
 
 La regla de facilitación del 80-20 en comunidades: el moderador debe iniciar el ochenta por ciento de las conversaciones en las fases tempranas de la comunidad, con el objetivo de que eventualmente los miembros inicien el ochenta por ciento de las conversaciones y el moderador solo facilite el veinte por ciento.
 
@@ -155,7 +155,7 @@ La investigación de Gainsight sobre el impacto de las comunidades en los negoci
 
 **Ejercicio inmediato:** Para tu negocio, diseña la estrategia de comunidad integrada en tres fases: la fase de creación (establecer el proposito, el formato, y el grupo inicial de miembros fundadores), la fase de construcción (desarrollar los rituales, el contenido, y la cultura durante los primeros seis meses), y la fase de monetización (introducir modelos de revenue coherentes cuando la comunidad ya tiene actividad y vida propias). La comunidad que se intenta monetizar antes de tener vida propia rara vez funciona. La que primero construye valor y luego lo monetiza puede convertirse en el activo más sostenible del negocio digital.
 
-La comunidad que construyes con paciencia puede ser lo unico de tu negocio que tus competidores no pueden copiar.
+La comunidad que construyes con paciencia puede ser lo único de tu negocio que tus competidores no pueden copiar.
 
 ---
 

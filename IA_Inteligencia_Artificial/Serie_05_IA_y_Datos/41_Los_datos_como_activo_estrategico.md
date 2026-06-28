@@ -31,7 +31,7 @@ La combinación de herramientas accesibles y capacidades crecientes ha democrati
 
 ## Capítulo 2: Por qué los datos importan más que nunca
 
-En la economía de la IA, los datos son el activo diferencial. Las empresas con datos propios unicos pueden construir ventajas que los competidores no pueden replicar simplemente comprando acceso a los mismos modelos.
+En la economía de la IA, los datos son el activo diferencial. Las empresas con datos propios únicos pueden construir ventajas que los competidores no pueden replicar simplemente comprando acceso a los mismos modelos.
 
 Isabel lo vió cuando su empresa uso quince años de datos de RRHH para predecir rotación. Los competidores podían usar los mismos modelos de IA, pero no tenían esos datos.
 

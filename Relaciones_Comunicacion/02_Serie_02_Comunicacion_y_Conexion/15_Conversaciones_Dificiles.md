@@ -39,7 +39,7 @@ Postponer una conversación difícil no te ahorra el dolor. Te lo cobra con inte
 
 ## Capítulo 2: El modeló de las tres conversaciones
 
-Douglas Stone, Bruce Patton y Sheila Heen proponen que toda conversación difícil contiene en realidad tres conversaciones simultaneas: la del asunto (que paso), la de los sentimientos (como nos sentimos al respecto) y la de la identidad (que dice esto sobre quienes somos).
+Douglas Stone, Bruce Patton y Sheila Heen proponen que toda conversación difícil contiene en realidad tres conversaciones simultáneas: la del asunto (que paso), la de los sentimientos (como nos sentimos al respecto) y la de la identidad (que dice esto sobre quienes somos).
 
 **El Principio de las Tres Capas:** La conversación del asunto es la más obvia y la menos importante. La de los sentimientos es la que más necesita espacio pero menos lo recibe. La de la identidad es la más profunda y la que produce la mayor resistencia: cuando alguien critica nuestra conducta, parte de nosotros lo interpreta cómo una amenaza a quien somos fundamentalmente.
 
@@ -123,7 +123,7 @@ La defensividad del otro no es el enemigo. Es la brujula que te dice que ajustes
 
 ## Capítulo 8: Conversaciones difíciles por texto vs en persona
 
-Cada vez más conversaciones difíciles ocurren por texto. Es más comodo: evita el contacto visual, da tiempo para pensar la respuesta, elimina el lenguaje corporal que puede activar. Es también más peligroso por exactamente las mismas razones.
+Cada vez más conversaciones difíciles ocurren por texto. Es más cómodo: evita el contacto visual, da tiempo para pensar la respuesta, elimina el lenguaje corporal que puede activar. Es también más peligroso por exactamente las mismas razones.
 
 **El Principio del Canal Apropiado:** Las conversaciones difíciles requieren el canal que permite la mayor riqueza de información: en persona siempre que sea posible, videoconferencia como segunda opción, teléfono como tercera. El texto y los mensajes escritos son los canales más pobres para conversaciones con contenido emocional significativo porque eliminan el tono de voz y el lenguaje corporal que dan el 70-80% del contexto emocional del mensaje.
 
@@ -139,7 +139,7 @@ Las conversaciones que importan merecen el canal más rico. El texto no lo es.
 
 No todas las conversaciones difíciles terminan con resolución. A veces el otro no está listo. A veces el tema es demasiado complejo para una sola conversación. A veces la diferencia entre las dos personas es tan fundamental que no hay acuerdo posible y hay que aprender a convivir con ella.
 
-**El Principio del Cierre sin Resolución:** Una conversación puede terminar sin que el tema este resuelto y aun así haber sido productiva si: ambas personas han podido expresar su perspectiva, el nivel de comprensión mutua es mayor que al principio, y se ha acordado un próximo paso aunque sea pequeño. La resolución completa no es el unico criterio de éxito de una conversación difícil.
+**El Principio del Cierre sin Resolución:** Una conversación puede terminar sin que el tema este resuelto y aun así haber sido productiva si: ambas personas han podido expresar su perspectiva, el nivel de comprensión mutua es mayor que al principio, y se ha acordado un próximo paso aunque sea pequeño. La resolución completa no es el único criterio de éxito de una conversación difícil.
 
 A veces el cierre honesto es reconocer que hay una diferencia que no se puede resolver hoy: creo que no vamos a llegar a un acuerdo completo en esta conversación, y quiero que sepas que entiendo tu perspectiva aunque no la comparta. Ese cierre puede ser más valioso que un acuerdo superficial.
 

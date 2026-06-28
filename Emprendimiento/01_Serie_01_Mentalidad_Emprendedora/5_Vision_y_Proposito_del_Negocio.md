@@ -83,7 +83,7 @@ Marcos ha aprendido que el proposito no es decorativo. Informa activamente las d
 
 Steve Jobs, cuando volvio a Apple en 1997, redujó la linea de productos de la empresa en un 70% aplicando un filtro simple: ¿este producto sirve al por qué de Apple (empoderar la creatividad del individuo)? Si no, se elimina. Esa claridad de proposito permitio a Apple enfocarse en los productos que si cumplian el criterio y producir lo que se convertiria en el Imac, el Ipod, el Iphone, y el Ipad.
 
-**Ejercicio inmediato:** Para las oportunidades de negocio que estas evaluando actualmente (nuevos servicios, nuevos mercados, nuevas asociaciones), aplica el filtro del proposito: ¿esta oportunidad nos acerca al por qué del negocio o nos aleja de el? La oportunidad que nos aleja del por qué, aunque genere ingresos a corto plazo, puede debilitar la claridad de la propuesta de valor que hace al negocio unico.
+**Ejercicio inmediato:** Para las oportunidades de negocio que estas evaluando actualmente (nuevos servicios, nuevos mercados, nuevas asociaciones), aplica el filtro del proposito: ¿esta oportunidad nos acerca al por qué del negocio o nos aleja de el? La oportunidad que nos aleja del por qué, aunque genere ingresos a corto plazo, puede debilitar la claridad de la propuesta de valor que hace al negocio único.
 
 La oportunidad que te aleja de tu por qué tiene el precio de quien eres como negocio.
 
@@ -155,7 +155,7 @@ Bill Burnett y Dave Evans proponen que la visión no puede vivir solo en documen
 
 **Ejercicio inmediato:** Identifica tres decisiones cotidianas en tu negocio (como tratas a un cliente difícil, como gestionas un conflicto de intereses entre el beneficio a corto plazo y el proposito a largo plazo, como presentas a tu equipo un momento difícil) que podrían ser oportunidades de expresar el proposito en acción. Las personas de tu entorno aprenden el proposito real de la empresa observando las decisiones de las personas que la lideran, no leyendo la declaración de misión.
 
-El proposito que vive solo en el powerpoint esta muerto. El que vive en las decisiones difíciles es el unico que importa.
+El proposito que vive solo en el powerpoint esta muerto. El que vive en las decisiones difíciles es el único que importa.
 
 ---
 

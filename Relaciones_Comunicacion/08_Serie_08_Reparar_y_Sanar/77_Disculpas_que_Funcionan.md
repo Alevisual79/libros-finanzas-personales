@@ -71,7 +71,7 @@ Las palabras correctas de una disculpa, dichas con el tono equivocado, comunican
 
 El momento en que se ofrece una disculpa influye significativamente en su efectividad reparadora, con disculpas excesivamente postergadas frecuentemente perdiendo parte de su poder reparador, aunque siguen siendo valiosas.
 
-**El Principio de la Ventana de Reparación:** Las disculpas ofrecidas relativamente pronto después del daño tienden a tener mayor poder reparador, en parte porque previenen la acumulación de resentimiento adicional que la espera prolongada genera. Sin embargo, una disculpa tardia, aunque menos optima, sigue siendo significativamente mejor que ninguna disculpa, y puede repararse parcialmente su retraso reconociendolo explicitamente.
+**El Principio de la Ventana de Reparación:** Las disculpas ofrecidas relativamente pronto después del daño tienden a tener mayor poder reparador, en parte porque previenen la acumulación de resentimiento adicional que la espera prolongada genera. Sin embargo, una disculpa tardia, aunque menos óptima, sigue siendo significativamente mejor que ninguna disculpa, y puede repararse parcialmente su retraso reconociendolo explicitamente.
 
 **Ejercicio inmediato:** Si tienes una disculpa pendiente que has postergado significativamente, considera ofrecerla ahora, reconociendo explicitamente en la disculpa misma el tiempo que ha pasado y por qué te costo tanto darla.
 

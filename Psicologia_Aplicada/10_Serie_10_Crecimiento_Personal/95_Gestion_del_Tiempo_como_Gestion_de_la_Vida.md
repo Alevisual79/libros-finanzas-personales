@@ -21,9 +21,9 @@ Elena tiene la sensación constante de estar ocupada pero sin avanzar en lo que 
 
 ## Capítulo 1: El tiempo como el recurso más escaso: la perspectiva que lo cambia todo
 
-El tiempo es diferente de todos los demás recursos porque es el unico que no puede recuperarse.
+El tiempo es diferente de todos los demás recursos porque es el único que no puede recuperarse.
 
-**El Principio del Tiempo como el Unico Recurso No Renovable que Hace que su Gestión sea una Decisión Existencial, no Solo Operativa:** Oliver Burkeman, en Cuatro Mil Semanas, propone que la vida humana media tiene aproximadamente cuatro mil semanas. Esta perspectiva matematicamente sencilla produce una conclusión ineludible: dado que el tiempo es el unico recurso que no puede generarse, ahorrarse, ni recuperarse una vez gastado, decidir a que dedicar el tiempo es la decisión más importante de una vida, más que cualquier decisión financiera, profesional, o relacional.
+**El Principio del Tiempo como el Único Recurso No Renovable que Hace que su Gestión sea una Decisión Existencial, no Solo Operativa:** Oliver Burkeman, en Cuatro Mil Semanas, propone que la vida humana media tiene aproximadamente cuatro mil semanas. Esta perspectiva matematicamente sencilla produce una conclusión ineludible: dado que el tiempo es el único recurso que no puede generarse, ahorrarse, ni recuperarse una vez gastado, decidir a que dedicar el tiempo es la decisión más importante de una vida, más que cualquier decisión financiera, profesional, o relacional.
 
 La investigación de Cassie Mogilner y colegas sobre la percepción del tiempo muestra que las personas que piensan en el tiempo en terminos de meses y años (perspectiva larga) toman decisiones diferentes a las que piensan en dias y horas (perspectiva corta). Las personas con perspectiva larga invierten más en actividades con significado a largo plazo (relaciones, aprendizaje, proyectos significativos) aunque tengan menor gratificación inmediata.
 
@@ -67,7 +67,7 @@ Isabel ha llegado a entender que el calendario es el documento más honesto sobr
 
 **El Principio del Calendario como el Mapa más Honesto de los Valores Reales (no Declarados) de una Persona:** Onde va tu tiempo es donde estan tus valores reales, independientemente de lo que digas que valoras. La brecha entre los valores declarados (lo que dices que te importa) y los valores operativos (lo que revelan tus decisiones de tiempo) es frecuentemente la fuente de una insatisfacción difusa que muchas personas no pueden nombrar exactamente.
 
-Richard Thaler y Cass Sunstein proponen el concepto de la arquitectura de la elección: el diseño del entorno que hace más probable el comportamiento deseado. Aplicado al tiempo, significa diseñar el calendario de forma que los comportamientos más alineados con los valores más importantes sean los más faciles de realizar y los más alineados con los valores menos importantes sean los más difíciles.
+Richard Thaler y Cass Sunstein proponen el concepto de la arquitectura de la elección: el diseño del entorno que hace más probable el comportamiento deseado. Aplicado al tiempo, significa diseñar el calendario de forma que los comportamientos más alineados con los valores más importantes sean los más fáciles de realizar y los más alineados con los valores menos importantes sean los más difíciles.
 
 **Ejercicio inmediato:** Abre tu calendario de la última semana y clasifica cada bloque de tiempo por valor: ¿a que valor (personal o profesional) sirvio esta actividad? Al final, calcula la proporción de tiempo dedicada a cada valor. Compara esa proporción con la jerarquía de valores que estableciste en el libro anterior. La discrepancia entre los dos es el mapa del problema.
 

@@ -53,7 +53,7 @@ Ruben ha empezado a notar los patrones: la rumia se activa en momentos específi
 
 **El Principio de los Detonadores como Oportunidad de Intervención Temprana:** La investigación sobre los hábitos (Duhigg, Clear) y sobre la rumia específicamente muestra que la rumia tiene detonadores identificables: estados emocionales específicos (ansiedad, frustración, tristeza), contextos físicos (el coche, la cama, la ducha), momentos del dia (la noche es especialmente propensa a la rumia), y tipos de eventos (comparación social, fracasos específicos, conflictos relacionales).
 
-Conocer los detonadores de la rumia propia permite dos cosas: anticiparla (saber que después de X suelo empezar a rumiar) y preparar una estrategia de intervención antes de que el ciclo se establezca. La intervención es mucho más facil en los primeros treinta segundos que cuando el ciclo lleva veinte minutos.
+Conocer los detonadores de la rumia propia permite dos cosas: anticiparla (saber que después de X suelo empezar a rumiar) y preparar una estrategia de intervención antes de que el ciclo se establezca. La intervención es mucho más fácil en los primeros treinta segundos que cuando el ciclo lleva veinte minutos.
 
 **Ejercicio inmediato:** Mapea los detonadores de tu rumia: ¿en que momentos del dia ocurre más frecuentemente? ¿En que contextos físicos? ¿Después de que tipos de eventos? ¿Con que emociones? Ese mapa te permite anticipar los momentos de mayor riesgo y preparar la estrategia de antemano.
 

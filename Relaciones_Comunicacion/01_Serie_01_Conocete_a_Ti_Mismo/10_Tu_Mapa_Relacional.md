@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena tiene 347 contactos en el movil y tres personas a las que llamaria si algo fuera realmente mal. Ruben tiene un grupo de WhatsApp de doce personas con las que queda regularmente y ninguna que sepa realmente quien es. Isabel tiene familia, colegas, vecinos y conocidos de gym. Y se siente sola.
+Elena tiene 347 contactos en el móvil y tres personas a las que llamaria si algo fuera realmente mal. Ruben tiene un grupo de WhatsApp de doce personas con las que queda regularmente y ninguna que sepa realmente quien es. Isabel tiene familia, colegas, vecinos y conocidos de gym. Y se siente sola.
 
 Tener muchas relaciones y tener buenas relaciones son dos cosas distintas. Este libro es sobre la segunda.
 
@@ -61,7 +61,7 @@ Tener muchas relaciones y tener relaciones de calidad son cosas distintas. La ca
 
 **El Principio de la Calidad sobre la Cantidad:** Una sola relación de alta calidad vale más que veinte de baja calidad para el bienestar individual. Las investigaciones del Grant Study de Harvard, el estudio longitudinal más largo sobre desarrollo adulto, llegaron a esta conclusión después de ochenta años de seguimiento: la variable que mejor predice la felicidad, la salud y la longevidad no es el éxito económico ni el nivel educativo ni la posición social. Es la calidad de las relaciones cercanas.
 
-Robert Waldinger, director del estudio, lo formula de forma sencilla: las personas que tienen relaciones de mayor calidad viven más, son más felices y se mantienen mentalmente más agiles. El aislamiento social es tan dañino para la salud como fumar quince cigarrillos al dia.
+Robert Waldinger, director del estudio, lo formula de forma sencilla: las personas que tienen relaciones de mayor calidad viven más, son más felices y se mantienen mentalmente más ágiles. El aislamiento social es tan dañino para la salud como fumar quince cigarrillos al dia.
 
 **Ejercicio inmediato:** Para cada persona de tu circulo intimo y cercano, puntua del 1 al 10 estas tres dimensiones: honestidad mutua, reciprocidad percibida y capacidad de gestión del conflicto. El promedio de esas tres puntuaciones es una aproximación a la calidad de cada relación.
 
@@ -99,7 +99,7 @@ Las relaciones que descuidas no te avisan. Simplemente se van.
 
 ## Capítulo 6: Como invertir en las relaciones que importan
 
-Invertir en una relación no es necesariamente mucho tiempo. Es tiempo de calidad. Una hora de conversación honesta y presente vale más para la profundidad de una relación que diez cenas en las que cada uno estaba mirando el movil.
+Invertir en una relación no es necesariamente mucho tiempo. Es tiempo de calidad. Una hora de conversación honesta y presente vale más para la profundidad de una relación que diez cenas en las que cada uno estaba mirando el móvil.
 
 **El Principio de la Inversión Enfocada:** Las relaciones importantes no requieren cantidad ilimitada de tiempo. Requieren presencia real en el tiempo que si se da. El investigador Nicholas Epley de Chicago demostró que las personas constantemente subestiman el placer que produce conectar de verdad con alguien y sobreestiman el coste de hacerlo. La mayoría de las veces, la barrera para invertir en relaciones importantes no es el tiempo. Es la inercia.
 
@@ -155,7 +155,7 @@ Las relaciones nuevas no tocan a la puerta. Aparecen en los espacios que dejas p
 
 ## Capítulo 10: El mapa como brujula, no como condena
 
-El mapa relacional que has dibujado a lo largo de este libro no es un veredicto sobre tu vida. No te dice que eres malo en las relaciones ni que lo estas haciendo mal. Te dice donde estas. Y saber donde estas es la unica forma de decidir hacía donde ir.
+El mapa relacional que has dibujado a lo largo de este libro no es un veredicto sobre tu vida. No te dice que eres malo en las relaciones ni que lo estas haciendo mal. Te dice donde estas. Y saber donde estas es la única forma de decidir hacía donde ir.
 
 **El Principio del Mapa como Herramienta:** Las herramientas no juzgan. Informan. El mapa relacional te informa sobre el estado actual de tu ecosistema relacional. Lo que haces con esa información es tuyo. Puedes decidir que estas satisfecho con lo que tienes. Puedes decidir que quieres profundizar algunas relaciones. Puedes decidir que quieres dejar ir otras. Puedes decidir empezar a construir nuevas. Cualquiera de esas decisiones, tomada con consciencia, es mejor que no haber mirado el mapa nunca.
 

@@ -51,7 +51,7 @@ La procrastinación que no entiendes solo puedes combatirla con fuerza de volunt
 
 Ruben sabe que lo que hace ahora afectara a su yo del futuro. Pero ese yo futuro le parece un extraño.
 
-**El Principio del Descuento Temporal como Base Neurológica de la Procrastinación:** La investigación de Hal Ersner-Hershfield y colegas con neuroimagen muestra que cuando las personas piensan en su yo futuro, las regiones cerebrales que se activan son similares a las que se activan cuando piensan en personas extrans, no en si mismas. Esto explica por qué es tan facil delegar las tareas desagradables al yo futuro: ese yo futuro se percibe como alguien diferente que se hará cargo.
+**El Principio del Descuento Temporal como Base Neurológica de la Procrastinación:** La investigación de Hal Ersner-Hershfield y colegas con neuroimagen muestra que cuando las personas piensan en su yo futuro, las regiones cerebrales que se activan son similares a las que se activan cuando piensan en personas extrans, no en si mismas. Esto explica por qué es tan fácil delegar las tareas desagradables al yo futuro: ese yo futuro se percibe como alguien diferente que se hará cargo.
 
 El descuento temporal (la tendencia a valorar las recompensas inmediatas más que las futuras equivalentes) es el mecanismo económico que subyace a la procrastinación: el alivio inmediato de no tener que hacer la tarea ahora supera en valor percibido las consecuencias negativas de no haberla hecho en el futuro, aunque racionalmente se sabe que esas consecuencias llegaran.
 
@@ -93,11 +93,11 @@ La tarea que no empiezas sigue siendo perfecta. La que empiezas, aunque sea impe
 
 Isabel ha intentado motivarse para hacer la tarea. No le ha funcionado. El entorno puede donde la voluntad falla.
 
-**El Principio del Diseno del Entorno como Alternativa a la Dependencia de la Voluntad:** La investigación de Wendy Wood y colegas sobre el papel del entorno en el comportamiento habitual muestra que los comportamientos automáticos se producen en respuesta a las señales del entorno, no a la voluntad consciente. Disenar el entorno de forma que la tarea deseada sea más facil y la evitación sea más difícil reduce la dependencia de la fuerza de voluntad que se agota.
+**El Principio del Diseno del Entorno como Alternativa a la Dependencia de la Voluntad:** La investigación de Wendy Wood y colegas sobre el papel del entorno en el comportamiento habitual muestra que los comportamientos automáticos se producen en respuesta a las señales del entorno, no a la voluntad consciente. Disenar el entorno de forma que la tarea deseada sea más fácil y la evitación sea más difícil reduce la dependencia de la fuerza de voluntad que se agota.
 
-Las técnicas de diseño de entorno para la procrastinación incluyen: eliminar las distracciones del entorno de trabajo (bloqueadores de redes sociales, movil en otra habitación), preparar el entorno de trabajo antes (el documento ya abierto, los materiales necesarios disponibles), crear vínculos situacionales (siempre trabajo en este lugar específico para esta tarea), y usar la compromiso público (anunciar a otros que hará la tarea en un plazo específico).
+Las técnicas de diseño de entorno para la procrastinación incluyen: eliminar las distracciones del entorno de trabajo (bloqueadores de redes sociales, móvil en otra habitación), preparar el entorno de trabajo antes (el documento ya abierto, los materiales necesarios disponibles), crear vínculos situacionales (siempre trabajo en este lugar específico para esta tarea), y usar la compromiso público (anunciar a otros que hará la tarea en un plazo específico).
 
-**Ejercicio inmediato:** Para tu espacio de trabajo habitual, identifica las tres fuentes de distracción que más frecuentemente interrumpen o retrasan el inició de las tareas. Para cada una, diseña un cambio de entorno que la elimine o reduzca: el movil en la habitación de al lado, el bloqueador de redes sociales activado durante las horas de trabajo, o el escritorio despejado de los elementos que activan la distracción.
+**Ejercicio inmediato:** Para tu espacio de trabajo habitual, identifica las tres fuentes de distracción que más frecuentemente interrumpen o retrasan el inició de las tareas. Para cada una, diseña un cambio de entorno que la elimine o reduzca: el móvil en la habitación de al lado, el bloqueador de redes sociales activado durante las horas de trabajo, o el escritorio despejado de los elementos que activan la distracción.
 
 El entorno que tiene todas las distracciones disponibles te pide que uses voluntad constantemente. El que las elimina te permite gastarla en lo que importa.
 
@@ -111,7 +111,7 @@ Ruben se critica duramente cuando procrastina. Esa autocritica amplia el problem
 
 Kristin Neff propone que la autocompasión no es complacencia sino el reconocimiento honesto de la dificultad (esto es difícil, he cometido un error) combinado con la calidez hacía uno mismo (puedo aprender de esto y hacerlo diferente). Las personas con mayor autocompasión muestran mayor motivación para enmendar los errores (incluyendo la procrastinación) que las que se critican severamente.
 
-**Ejercicio inmediato:** Después del próximo episodio de procrastinación, práctica la autocompasión en lugar de la autocritica: reconoce que has procrastinado (sin minimizarlo), nota que mucha gente procrastina en situaciones similares (no eres el unico), y haz algo concreto en lugar de seguir rumiando el error. Ese proceso interrumpe el ciclo de culpa-evitación que amplifica la procrastinación.
+**Ejercicio inmediato:** Después del próximo episodio de procrastinación, práctica la autocompasión en lugar de la autocritica: reconoce que has procrastinado (sin minimizarlo), nota que mucha gente procrastina en situaciones similares (no eres el único), y haz algo concreto en lugar de seguir rumiando el error. Ese proceso interrumpe el ciclo de culpa-evitación que amplifica la procrastinación.
 
 La autocritica que produce la procrastinación produce más procrastinación. La autocompasión que la sigue produce el siguiente paso.
 
@@ -137,7 +137,7 @@ Ruben procrastina frecuentemente navegando por internet y redes sociales. Lo que
 
 **El Principio del Diseno Persuasivo como Causa y Solución de la Procrastinación Digital:** Tristan Harris, exdiseñador de Google, propone que las aplicaciones y las redes sociales estan deliberadamente diseñadas para maximizar el tiempo de uso a traves de mecanismos de refuerzo variable (las notificaciones y el scroll infinito producen el mismo patron de refuerzo variable que las maquinas tragaperras). Esta arquitectura de persuasión hace que resistir las distracciones digitales con fuerza de voluntad sea sistemáticamente desventajoso.
 
-La solución más efectiva no es la voluntad sino el diseño: bloquear el acceso a las distracciones digitales durante las horas de trabajo (Freedom, Cold Turkey, Forest), eliminar las apps de redes sociales del movil y acceder solo desde el ordenador, y activar el tiempo de pantalla con límites que requieran esfuerzo deliberado para saltarse.
+La solución más efectiva no es la voluntad sino el diseño: bloquear el acceso a las distracciones digitales durante las horas de trabajo (Freedom, Cold Turkey, Forest), eliminar las apps de redes sociales del móvil y acceder solo desde el ordenador, y activar el tiempo de pantalla con límites que requieran esfuerzo deliberado para saltarse.
 
 **Ejercicio inmediato:** Esta semana, instala un bloqueador de sitios web o aplicaciones en tu navegador (Freedom o similar) y configura un perfil de bloqueo para las tres horas de trabajo más productivo de tu dia. El bloqueo que requiere esfuerzo deliberado para saltarse reduce la tentación hasta el nivel donde la mayoría de las personas puede resistirla.
 

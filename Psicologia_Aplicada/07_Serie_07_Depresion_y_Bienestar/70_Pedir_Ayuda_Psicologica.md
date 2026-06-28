@@ -25,11 +25,11 @@ El estigma de la salud mental opera principalmente dentro de uno mismo, no solo 
 
 **El Principio del Autoestigma como Barrera Mayor que el Estigma Social:** La investigación de Patrick Corrigan y colegas sobre el estigma de la salud mental distingue entre el estigma social (las actitudes negativas de otros hacía las personas con trastornos mentales) y el autoestigma (la internalización de esas actitudes negativas y su aplicación a uno mismo). Mientras que el estigma social es una barrera externa, el autoestigma es una barrera interna que opera independientemente de la presencia real de juicio externo.
 
-Las creencias más comunes del autoestigma incluyen: las personas que necesitan psicologo son debiles (o locas), si pido ayuda es que no puedo con mi vida, lo que me pasa no es suficientemente grave para justificar una consulta, y debería poder resolverlo solo. Estas creencias no tienen soporte empirico (la ayuda psicológica es utilizada por personas de todos los niveles de funcionamiento y es una herramienta, no un signo de debilidad) pero son muy persistentes.
+Las creencias más comunes del autoestigma incluyen: las personas que necesitan psicologo son débiles (o locas), si pido ayuda es que no puedo con mi vida, lo que me pasa no es suficientemente grave para justificar una consulta, y debería poder resolverlo solo. Estas creencias no tienen soporte empirico (la ayuda psicológica es utilizada por personas de todos los niveles de funcionamiento y es una herramienta, no un signo de debilidad) pero son muy persistentes.
 
 **Ejercicio inmediato:** Identifica las creencias específicas de autoestigma que tienes sobre pedir ayuda psicológica. Para cada una, aplica el mismo examen de evidencia que aplicarias a cualquier otra creencia: ¿que evidencia la apoya? ¿Es consistente con lo que sabes sobre las personas que han pedido ayuda? La mayoría de esas creencias no sobreviven el examen de evidencia.
 
-Las personas que piden ayuda psicológica no son las más debiles. Son las que tienen suficiente inteligencia y coraje para usar los recursos disponibles.
+Las personas que piden ayuda psicológica no son las más débiles. Son las que tienen suficiente inteligencia y coraje para usar los recursos disponibles.
 
 ---
 
@@ -127,7 +127,7 @@ La evaluación psiquiatrica no implica automáticamente medicación: es una eval
 
 **Ejercicio inmediato:** Si tu psicologo ha sugerido una evaluación psiquiatrica y tienes resistencias, explicitalas con tu psicologo: ¿cuales son tus miedos específicos sobre la medicación? ¿Cuales son las preguntas que tendrías para el psiquiatra? Esa conversación puede aclarar lo que la evaluación puede y no puede implicar.
 
-El psiquiatra que te evalua no te receta automáticamente. Te evalua para ver si la farmacoterapia es parte de la solución optima para tu situación específica.
+El psiquiatra que te evalua no te receta automáticamente. Te evalua para ver si la farmacoterapia es parte de la solución óptima para tu situación específica.
 
 ---
 
@@ -147,9 +147,9 @@ El costo de no tratar lo que tienes no aparece en ninguna factura. Pero lo estas
 
 ## Capítulo 10: El paso: como darlo hoy
 
-Isabel, Ruben, y Elena dieron sus pasos de forma diferente. Los tres coincidieron en que el paso fue más facil de dar de lo que esperaban.
+Isabel, Ruben, y Elena dieron sus pasos de forma diferente. Los tres coincidieron en que el paso fue más fácil de dar de lo que esperaban.
 
-**El Principio de la Acción Minima como Primer Paso Real:** La investigación sobre la psicología del cambio de comportamiento muestra que la barrera que impide el primer paso suele ser mayor en la anticipación que en la ejecución. BJ Fogg, investigador del comportamiento en Stanford, propone que el cambio comienza con el paso más pequeño posible: no con el plan completo sino con la acción mínima que inicia el proceso.
+**El Principio de la Acción Mínima como Primer Paso Real:** La investigación sobre la psicología del cambio de comportamiento muestra que la barrera que impide el primer paso suele ser mayor en la anticipación que en la ejecución. BJ Fogg, investigador del comportamiento en Stanford, propone que el cambio comienza con el paso más pequeño posible: no con el plan completo sino con la acción mínima que inicia el proceso.
 
 En el caso de buscar ayuda psicológica, el paso mínimo posible es: buscar en internet tres nombres de psicologos con perfil adecuado a tu situación. No llamar, no concertar cita, no tomar una decisión: solo buscar tres nombres. Ese paso, completado hoy, tiene más valor que todo el libro que acabas de leer si no va seguido de acción.
 
@@ -161,7 +161,7 @@ El paso que das hoy, por pequeño que sea, es infinitamente mayor que el plan pe
 
 ## Epílogo
 
-Isabel llamó a la primera psicologa de la lista un martes por la tarde. Llamo tres veces antes de que le respondieran. Cuando respondieron, dijo que quería pedir una primera cita. La recepcionista le dio fecha para dos semanas después. Isabel colgó y se quedo sentada con el movil en la mano. Sintio algo que no esperaba: alivio. No había cambiado nada todavía. Solo había pedido una cita. Pero algo se había movido dentro de ella que llevaba dos años quieto. Ese movimiento, descubrió, era el inició de todo lo que vino después.
+Isabel llamó a la primera psicologa de la lista un martes por la tarde. Llamo tres veces antes de que le respondieran. Cuando respondieron, dijo que quería pedir una primera cita. La recepcionista le dio fecha para dos semanas después. Isabel colgó y se quedo sentada con el móvil en la mano. Sintio algo que no esperaba: alivio. No había cambiado nada todavía. Solo había pedido una cita. Pero algo se había movido dentro de ella que llevaba dos años quieto. Ese movimiento, descubrió, era el inició de todo lo que vino después.
 
 ---
 

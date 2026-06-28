@@ -123,7 +123,7 @@ No necesitas identificar tu herida con precisión quirurgica para empezar a trab
 
 **Ejercicio inmediato:** Completa esta frase: Lo que más me duele que alguien me haga es... Ahora pregúntate: ¿la primera vez que senti algo parecido, cuantos años tenía y con quien fue?
 
-Las heridas no te hacen debil. Ignorarlas si.
+Las heridas no te hacen débil. Ignorarlas si.
 
 ---
 

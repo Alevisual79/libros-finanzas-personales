@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Lucia paso tres semanas escribiendo un plan de negocio de cuarenta páginas para una aceleradora. El plan era impecable en forma: análisis de mercado, proyecciones a cinco años, análisis de la competencia, matriz DAFO. Era terriblemente debil en contenido: se basaba en supuestos que nunca había verificado con el mercado real. Carlos nunca ha escrito un plan de negocio. Ha ido tomando decisiones semana a semana, algunas muy bien, pero sin la claridad de hacía donde va y con que recursos cuenta. Marcos escribió un plan de negocio corporativo, el tipo que había visto durante veinte años en reuniones de estrategia, y descubrió que no le servia en absoluto para la realidad del emprendimiento diario. Los tres necesitan lo mismo: no el documento sino la claridad que un buen proceso de planificación puede producir.
+Lucia paso tres semanas escribiendo un plan de negocio de cuarenta páginas para una aceleradora. El plan era impecable en forma: análisis de mercado, proyecciones a cinco años, análisis de la competencia, matriz DAFO. Era terriblemente débil en contenido: se basaba en supuestos que nunca había verificado con el mercado real. Carlos nunca ha escrito un plan de negocio. Ha ido tomando decisiones semana a semana, algunas muy bien, pero sin la claridad de hacía donde va y con que recursos cuenta. Marcos escribió un plan de negocio corporativo, el tipo que había visto durante veinte años en reuniones de estrategia, y descubrió que no le servia en absoluto para la realidad del emprendimiento diario. Los tres necesitan lo mismo: no el documento sino la claridad que un buen proceso de planificación puede producir.
 
 ---
 
@@ -41,7 +41,7 @@ Carlos ha aprendido que el Business Model Canvas le dice en una hora lo que el p
 
 La ventaja del canvas sobre el plan tradicional no es solo la brevedad sino el enfoque en las hipótesis: cada bloque del canvas es una suposición sobre como funciona el negocio que puede validarse o refutarse con el mercado. El canvas que ha sobrevivido seis meses de contacto con el mercado es radicalmente diferente del que se llenó al principio, y eso es exactamente lo que debería ocurrir.
 
-**Ejercicio inmediato:** Descarga el Business Model Canvas (disponible gratuitamente en strategyzer.com) y complétalo para tu negocio actual en menos de dos horas. Usa notas adhesivas (físicas o digitales) en cada bloque para que sea facil actualizar cuando el mercado te enseñe que alguna hipótesis era incorrecta. El canvas que completas en dos horas produce más aprendizaje sobre tu negocio que el plan de negocio que tardas semanas en escribir.
+**Ejercicio inmediato:** Descarga el Business Model Canvas (disponible gratuitamente en strategyzer.com) y complétalo para tu negocio actual en menos de dos horas. Usa notas adhesivas (físicas o digitales) en cada bloque para que sea fácil actualizar cuando el mercado te enseñe que alguna hipótesis era incorrecta. El canvas que completas en dos horas produce más aprendizaje sobre tu negocio que el plan de negocio que tardas semanas en escribir.
 
 El canvas que se puede actualizar en cinco minutos vale más que el plan que tardaste semanas en escribir y que nunca volviste a abrir.
 

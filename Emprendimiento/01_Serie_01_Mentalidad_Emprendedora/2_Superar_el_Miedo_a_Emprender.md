@@ -65,7 +65,7 @@ El peor caso que imaginas en detalle rara vez es tan malo como el peor caso que 
 
 Carlos ha aprendido que el miedo se activa ante los grandes pasos pero raramente ante los pequeños.
 
-**El Principio de la Acción Minima Viable como Estrategia para Actuar a pesar del Miedo reduciendo el Tamano del Paso hasta que el Cerebro no lo Percibe como Amenaza:** La investigación de BJ Fogg sobre el diseño de comportamiento muestra que los comportamientos que requieren mucha motivación raramente se mantienen, mientras que los que requieren poca motivación (porque son muy pequeños) pueden iniciarse y sostenerse independientemente del nivel de motivación o de miedo. Su método Tiny Habits propone comenzar con una versión del comportamiento tan pequeña que sea imposible no hacerla.
+**El Principio de la Acción Mínima Viable como Estrategia para Actuar a pesar del Miedo reduciendo el Tamano del Paso hasta que el Cerebro no lo Percibe como Amenaza:** La investigación de BJ Fogg sobre el diseño de comportamiento muestra que los comportamientos que requieren mucha motivación raramente se mantienen, mientras que los que requieren poca motivación (porque son muy pequeños) pueden iniciarse y sostenerse independientemente del nivel de motivación o de miedo. Su método Tiny Habits propone comenzar con una versión del comportamiento tan pequeña que sea imposible no hacerla.
 
 Stephen Guise, en Mini Habits, aplica este principio al emprendimiento: el miedo que bloquea lanzar una empresa no bloquea hacer una llamada de descubrimiento de mercado. El miedo que bloquea contratar a una persona no bloquea publicar una oferta de trabajo para ver quien responde. La acción mínima viable reduce el coste percibido al nivel donde el miedo no puede bloquearlo.
 
@@ -97,7 +97,7 @@ Marcos ha descubierto que el miedo emprendedor se reduce significativamente cuan
 
 La investigación de Melissa Cardon sobre la pasión emprendedora muestra que los emprendedores que pertenecen a comunidades de pares tienen mayor capacidad de persistencia ante las dificultades porque ven que el miedo y el fracaso son parte del proceso normal de todos, no una evidencia de su incompetencia personal.
 
-**Ejercicio inmediato:** Identifica una comunidad de emprendedores en tu área (presencial o digital) donde puedas compartir tu proceso con personas que estan atravesando experiencias similares. La primera vez que escuchas a otro emprendedor describir exactamente el miedo que sientes como tuyo y exclusivo, algo cambia: dejas de ser el unico que lo siente y te conviertes en parte de una experiencia humana compartida.
+**Ejercicio inmediato:** Identifica una comunidad de emprendedores en tu área (presencial o digital) donde puedas compartir tu proceso con personas que estan atravesando experiencias similares. La primera vez que escuchas a otro emprendedor describir exactamente el miedo que sientes como tuyo y exclusivo, algo cambia: dejas de ser el único que lo siente y te conviertes en parte de una experiencia humana compartida.
 
 El miedo que compartes con alguien que lo entiende ya no es completamente tuyo. Y eso es un alivio que ninguna técnica cognitiva puede producir igual.
 
@@ -127,7 +127,7 @@ La investigación de Gail Matthews muestra que compartir los objetivos con una p
 
 **Ejercicio inmediato:** Esta semana, comunica a una persona específica (no a todos en general) un compromiso específico con una fecha concreta: el lunes próximo tendras una primera versión del proyecto X lista para mostrarme. La especificidad del compromiso (persona específica, acción específica, fecha específica) es lo que produce la presión de accountability que lo hace efectivo.
 
-El compromiso que haces contigo mismo es facil de romper. El que haces con alguien que respetas no tanto.
+El compromiso que haces contigo mismo es fácil de romper. El que haces con alguien que respetas no tanto.
 
 ---
 

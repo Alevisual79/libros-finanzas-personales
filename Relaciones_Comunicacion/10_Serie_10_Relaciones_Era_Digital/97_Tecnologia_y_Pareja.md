@@ -15,19 +15,19 @@
 
 ## Prólogo
 
-Isabel lleva una hora mirando su movil sentada en el sofa. Su pareja lleva una hora mirando su propio movil, sentado a su lado en ese mismo sofa. Juntos, sin proponerselo, llevan una hora completa sin mirarse el uno al otro, dos personas físicamente presentes y mentalmente ausentes, compartiendo espacio sin compartir realmente nada.
+Isabel lleva una hora mirando su móvil sentada en el sofa. Su pareja lleva una hora mirando su propio móvil, sentado a su lado en ese mismo sofa. Juntos, sin proponerselo, llevan una hora completa sin mirarse el uno al otro, dos personas físicamente presentes y mentalmente ausentes, compartiendo espacio sin compartir realmente nada.
 
 ---
 
 ## Capítulo 1: Cuanto tiempo robamos a nuestra pareja a traves del movil
 
-El tiempo que se dedica al teléfono movil durante momentos que podrían ser de conexión con la pareja representa un costo de oportunidad relacional que rara vez se calcula conscientemente pero que, acumulado, tiene un impacto significativo.
+El tiempo que se dedica al teléfono móvil durante momentos que podrían ser de conexión con la pareja representa un costo de oportunidad relacional que rara vez se calcula conscientemente pero que, acumulado, tiene un impacto significativo.
 
 **El Principio del Costo Acumulado del Tiempo de Pantalla Compartido:** Cada minuto que ambos miembros de una pareja dedican a sus respectivos teléfonos durante el tiempo que estan físicamente juntos representa tiempo de potencial conexión que no se materializa, y este patron, repetido diariamente durante meses o años, acumula un costo significativo en la calidad de la conexión de la relación.
 
 **Ejercicio inmediato:** Para un dia típico, calcula honestamente cuanto tiempo tu y tu pareja pasan en sus teléfonos durante momentos que podrían ser de conexión directa entre ustedes.
 
-El tiempo de movil compartido durante momentos juntos no es neutral. Es tiempo de conexión potencial que se pierde, acumulandose silenciosamente con el paso de los dias.
+El tiempo de móvil compartido durante momentos juntos no es neutral. Es tiempo de conexión potencial que se pierde, acumulandose silenciosamente con el paso de los dias.
 
 ---
 
@@ -117,7 +117,7 @@ Una zona libre de pantallas no requiere fuerza de voluntad constante. Elimina es
 
 ## Capítulo 9: El movil como amortiguador del conflicto
 
-Algunas parejas utilizan, sin notarlo conscientemente, el teléfono movil cómo una forma de evitar conversaciones difíciles o conflictos no resueltos, refugiandose en la pantalla en lugar de abordar la tensión presente.
+Algunas parejas utilizan, sin notarlo conscientemente, el teléfono móvil cómo una forma de evitar conversaciones difíciles o conflictos no resueltos, refugiandose en la pantalla en lugar de abordar la tensión presente.
 
 **El Principio de la Evitación Disfrazada de Distracción:** El uso del teléfono durante momentos de tensión relacional no resuelta frecuentemente funciona como una forma de evitación que posterga la conversación necesaria, en lugar de simplemente ser una distracción neutral, lo cual permite que la tensión subyacente persista sin resolución mientras ambas personas se refugian en sus respectivas pantallas.
 
@@ -141,7 +141,7 @@ En un mundo donde la distracción esta siempre disponible, la presencia total y 
 
 ## Epílogo
 
-El movil no destruye las relaciones. Pero compite con ellas cada segundo del dia. Isabel y su pareja, después de notar esa hora completa de silencio mutuo frente a sus respectivos teléfonos, establecieron una regla simple: la primera media hora después de llegar a casa, ambos teléfonos quedaban en otra habitación. No resolvio todos sus desafios. Pero les devolvio, cada dia, treinta minutos de presencia real que llevaban tiempo perdiendo sin notarlo.
+El móvil no destruye las relaciones. Pero compite con ellas cada segundo del dia. Isabel y su pareja, después de notar esa hora completa de silencio mutuo frente a sus respectivos teléfonos, establecieron una regla simple: la primera media hora después de llegar a casa, ambos teléfonos quedaban en otra habitación. No resolvio todos sus desafios. Pero les devolvio, cada dia, treinta minutos de presencia real que llevaban tiempo perdiendo sin notarlo.
 
 ---
 

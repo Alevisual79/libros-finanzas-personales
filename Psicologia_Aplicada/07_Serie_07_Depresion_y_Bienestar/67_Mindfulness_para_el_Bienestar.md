@@ -67,9 +67,9 @@ Ruben ha intentado meditar pero no sabe si lo está haciendo bien. El principal 
 
 **El Principio de la práctica Regular por Encima de la práctica Perfecta:** La investigación sobre el entrenamiento en mindfulness muestra que la consistencia de la práctica (dias por semana) predice los beneficios mejor que la duración de cada sesión. Un estudio de Willoughby Britton y colegas muestra que cinco minutos diarios de práctica durante ocho semanas producen cambios medibles en la regulación emocional, aunque con menor magnitud que la práctica de cuarenta y cinco minutos.
 
-Las instrucciones basicas para la meditación de atención focalizada (el tipo más común en el mindfulness clínico): sienta en una posición comoda con la columna razonablemente recta, pon la atención en la sensación física de la respiración (no en el pensamiento sobre la respiración sino en la sensación), cuando la mente se vaya a los pensamientos (que inevitablemente ocurrira), sin juzgarte, devuelve la atención a la respiración. Repite ese proceso durante el tiempo que hayas designado.
+Las instrucciones basicas para la meditación de atención focalizada (el tipo más común en el mindfulness clínico): sienta en una posición cómoda con la columna razonablemente recta, pon la atención en la sensación física de la respiración (no en el pensamiento sobre la respiración sino en la sensación), cuando la mente se vaya a los pensamientos (que inevitablemente ocurrira), sin juzgarte, devuelve la atención a la respiración. Repite ese proceso durante el tiempo que hayas designado.
 
-**Ejercicio inmediato:** Manana por la mañana, antes de mirar el movil, sienta o tumbate y práctica cinco minutos de atención a la respiración. Pon un temporizador para no tener que mirar el reloj. Cuando terminen los cinco minutos, evalua como te sientes comparado con como te sientes cuando el movil es lo primero que ves al despertar.
+**Ejercicio inmediato:** Manana por la mañana, antes de mirar el móvil, sienta o tumbate y práctica cinco minutos de atención a la respiración. Pon un temporizador para no tener que mirar el reloj. Cuando terminen los cinco minutos, evalua como te sientes comparado con como te sientes cuando el móvil es lo primero que ves al despertar.
 
 La meditación que haces cinco minutos todos los dias transforma más que la meditación que haces una hora y luego abandonas. La consistencia gana a la intensidad.
 
@@ -83,7 +83,7 @@ Isabel no puede imaginar anadic prácticas adicionales a su ya sobrecargada ruti
 
 Las actividades más accesibles para la práctica informal incluyen: comer con atención (observar los sabores, las texturas, el proceso) en lugar de hacerlo mientras se ve la televisión; caminar con atención (observar las sensaciones físicas, el entorno) en lugar de caminar pensando en el próximo problema; y escuchar con atención (estar plenamente presente en la conversación) en lugar de preparar la próxima respuesta mientras el otro habla.
 
-**Ejercicio inmediato:** Elige una actividad de tu rutina diaria (el desayuno, el trayecto al trabajo, el cepillado de dientes) y práctica hacerla con atención plena durante una semana: sin movil, sin musica, sin pensamiento sobre el siguiente elemento de la lista. Solo la actividad. Nota la diferencia cualitativa entre hacer esa actividad en modo automático y hacerla con atención.
+**Ejercicio inmediato:** Elige una actividad de tu rutina diaria (el desayuno, el trayecto al trabajo, el cepillado de dientes) y práctica hacerla con atención plena durante una semana: sin móvil, sin musica, sin pensamiento sobre el siguiente elemento de la lista. Solo la actividad. Nota la diferencia cualitativa entre hacer esa actividad en modo automático y hacerla con atención.
 
 La vida que ocurre mientras piensas en otra cosa es la vida que no viviste. El mindfulness informal es la práctica de vivir la vida que estas viviendo.
 
@@ -139,9 +139,9 @@ Isabel tiene una relación con su pareja donde ambos estan físicamente presente
 
 La presencia genuina requiere la misma capacidad que entrena el mindfulness: la atención sostenida en el momento presente sin la distración de los pensamientos sobre el pasado o el futuro, sin la evaluación constante de lo que el otro dice, y sin la preparación de la próxima respuesta mientras el otro habla. Las personas que practican mindfulness muestran mayor calidad de escucha y mayor presencia en las interacciones sociales.
 
-**Ejercicio inmediato:** Elige una conversación esta semana y práctica la presencia total: deja el movil fuera de la vista y del alcance, mira a los ojos de la persona con quien hablas, escucha sin preparar tu respuesta mientras el otro habla. Al final de la conversación, reflexiona sobre la diferencia entre esa conversación y las habituales.
+**Ejercicio inmediato:** Elige una conversación esta semana y práctica la presencia total: deja el móvil fuera de la vista y del alcance, mira a los ojos de la persona con quien hablas, escucha sin preparar tu respuesta mientras el otro habla. Al final de la conversación, reflexiona sobre la diferencia entre esa conversación y las habituales.
 
-La presencia que das a otro es el regalo más valioso que puedes dar. Y el movil es la forma más común de retirarlo.
+La presencia que das a otro es el regalo más valioso que puedes dar. Y el móvil es la forma más común de retirarlo.
 
 ---
 
@@ -161,7 +161,7 @@ El mindfulness que produce malestar significativo es mindfulness mal dosificado 
 
 ## Epílogo
 
-Ruben lleva dieciocho meses practicando cinco minutos cada mañana antes de mirar el movil. No ha tenido ninguna experiencia de iluminación. Lo que si ha notado: se enfada con menos intensidad, o al menos tiene algo de espacio antes de responder cuando se enfada. Piensa menos tiempo en los problemas antes de dormir. Y cuando la mente empieza a rumiar, a veces nota que lo está haciendo y puede redirigir la atención. No siempre. Pero con más frecuencia que antes. Y eso, después de dieciocho meses, le parece suficiente.
+Ruben lleva dieciocho meses practicando cinco minutos cada mañana antes de mirar el móvil. No ha tenido ninguna experiencia de iluminación. Lo que si ha notado: se enfada con menos intensidad, o al menos tiene algo de espacio antes de responder cuando se enfada. Piensa menos tiempo en los problemas antes de dormir. Y cuando la mente empieza a rumiar, a veces nota que lo está haciendo y puede redirigir la atención. No siempre. Pero con más frecuencia que antes. Y eso, después de dieciocho meses, le parece suficiente.
 
 ---
 

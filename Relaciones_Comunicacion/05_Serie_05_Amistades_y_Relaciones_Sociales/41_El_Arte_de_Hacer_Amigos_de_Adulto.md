@@ -49,7 +49,7 @@ La amistad no aparece por casualidad. Aparece cuando se dan, deliberada o accide
 
 Algunos contextos sociales facilitan estructuralmente la formación de amistades mucho mejor que otros, y elegir conscientemente esos contextos aumenta significativamente las probabilidades de éxito.
 
-**El Principio del Contexto Recurrente:** Los contextos más efectivos para hacer amigos adultos son los que ofrecen encuentro recurrente con el mismo grupo de personas durante un período extendido: actividades regulares (deportivas, de aprendizaje, de voluntariado), en lugar de eventos unicos como fiestas o conferencias que, aunque pueden iniciar una conexión, raramente proporcionan la repetición necesaria sin esfuerzo adicional deliberado.
+**El Principio del Contexto Recurrente:** Los contextos más efectivos para hacer amigos adultos son los que ofrecen encuentro recurrente con el mismo grupo de personas durante un período extendido: actividades regulares (deportivas, de aprendizaje, de voluntariado), en lugar de eventos únicos como fiestas o conferencias que, aunque pueden iniciar una conexión, raramente proporcionan la repetición necesaria sin esfuerzo adicional deliberado.
 
 **Ejercicio inmediato:** Identifica una actividad recurrente (semanal o quincenal) a la que podrías unirte en los próximos dos meses, eligiendola específicamente por su capacidad de generar encuentros repetidos con el mismo grupo de personas, no solo por el interés en la actividad misma.
 

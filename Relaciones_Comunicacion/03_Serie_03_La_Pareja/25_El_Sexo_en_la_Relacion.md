@@ -73,11 +73,11 @@ La brecha de deseo no es el problema. El silencio sobre la brecha de deseo es el
 
 La mayoría de las parejas no hablan de sexo directamente. Usan señales, indirectas, o simplemente no dicen lo que quieren y esperan que el otro lo adivine. El resultado es una vida sexual donde nadie dice lo que quiere y nadie recibe lo que necesita, pero nadie ha tenido la conversación directa que podría cambiarlo.
 
-**El Principio de la Conversación Sexual Explicita:** La comunicación sobre sexo en la pareja es una habilidad que se puede desarrollar aunque no sea natural al principio. Incluye hablar de lo que se disfruta, de lo que no, de lo que se quisiera explorar y de lo que es un límite claro. Esa conversación, cuando se tiene fuera del contexto sexual (no en el momento sino antes o después), es más facil y más productiva.
+**El Principio de la Conversación Sexual Explicita:** La comunicación sobre sexo en la pareja es una habilidad que se puede desarrollar aunque no sea natural al principio. Incluye hablar de lo que se disfruta, de lo que no, de lo que se quisiera explorar y de lo que es un límite claro. Esa conversación, cuando se tiene fuera del contexto sexual (no en el momento sino antes o después), es más fácil y más productiva.
 
 Emily Nagoski, autora de Come as You Are, argumenta que la mayor parte de los problemas sexuales en las parejas no son problemas de funcionamiento sino problemas de comunicación: personas que no saben que quieren o que lo saben pero no pueden decirlo.
 
-**Ejercicio inmediato:** Esta semana, fuera del contexto sexual, inicia una conversación con tu pareja sobre un aspecto de la vida sexual que te gustaria que fuera diferente o que querrias explorar. No como crítica (no me gusta X) sino como curiosidad y deseo compartido (me gustaria que probáramos Y). La primera vez es la más difícil. Las siguientes son progresivamente más faciles.
+**Ejercicio inmediato:** Esta semana, fuera del contexto sexual, inicia una conversación con tu pareja sobre un aspecto de la vida sexual que te gustaria que fuera diferente o que querrias explorar. No como crítica (no me gusta X) sino como curiosidad y deseo compartido (me gustaria que probáramos Y). La primera vez es la más difícil. Las siguientes son progresivamente más fáciles.
 
 El sexo que no se puede hablar es el que no puede mejorar.
 

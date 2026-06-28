@@ -139,7 +139,7 @@ Ruben tiene facilidad para la empatia pero dificultad para la compasión: la emp
 
 La investigación de Matthieu Ricard y colegas con meditadores de compasión muestra que la práctica de meditación de compasión produce mayor activación de los circuitos de recompensa y menor activación de los circuitos de dolor que la empatia, y que los meditadores de compasión no muestran la fatiga por compasión que afecta a los profesionales sanitarios con alta empatia.
 
-**Ejercicio inmediato:** práctica la meditación de bondad amorosa (metta) en su versión más basica: sienta comodo, piensa en alguien a quien quieres bien, y desea mentalmente su bienestar: que seas feliz, que estes bien, que te libre del sufrimiento. Después, extiende ese deseo a personas neutrales y finalmente a personas con quienes tienes dificultad. Esta práctica entrena el músculo de la compasión que produce recursos en lugar de agotamiento.
+**Ejercicio inmediato:** práctica la meditación de bondad amorosa (metta) en su versión más basica: sienta cómodo, piensa en alguien a quien quieres bien, y desea mentalmente su bienestar: que seas feliz, que estes bien, que te libre del sufrimiento. Después, extiende ese deseo a personas neutrales y finalmente a personas con quienes tienes dificultad. Esta práctica entrena el músculo de la compasión que produce recursos en lugar de agotamiento.
 
 La compasión que produces no te vacia. La empatia sin compasión, si.
 

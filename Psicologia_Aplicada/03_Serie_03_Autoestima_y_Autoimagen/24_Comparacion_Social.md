@@ -85,7 +85,7 @@ Esta forma de comparación tiene varias ventajas sobre la social: usa un grupo d
 
 **Ejercicio inmediato:** Compara tu situación actual con tu situación hace exactamente tres años en tres dimensiones que importan: habilidades o conocimiento, relaciones, y autoconocimiento. Si hay progreso en alguna de esas dimensiones, ese progreso es real independientemente de dónde esten los demás.
 
-La unica competición que tiene sentido es contra quien eras ayer. Los demás juegan en otra liga con otros puntos de partida.
+La única competición que tiene sentido es contra quien eras ayer. Los demás juegan en otra liga con otros puntos de partida.
 
 ---
 

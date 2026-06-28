@@ -113,7 +113,7 @@ Durante el enamoramiento, el sexo y la atracción física son partes integrales 
 
 Esto no es un argumento contra el sexo temprano en una relación. Es un argumento para ser consciente de que el vinculó que el sexo produce puede distorsionar la evaluación de la relación en sus primeras etapas.
 
-**Ejercicio inmediato:** En retrospección, hay alguna relación pasada en que el componente sexual fue intenso y rápido y en que luego descubriste que la base de compatibilidad era más debil de lo que la intensidad de la conexión física había sugerido? Esa retrospección es información para las decisiones futuras.
+**Ejercicio inmediato:** En retrospección, hay alguna relación pasada en que el componente sexual fue intenso y rápido y en que luego descubriste que la base de compatibilidad era más débil de lo que la intensidad de la conexión física había sugerido? Esa retrospección es información para las decisiones futuras.
 
 El cuerpo se vincula más rápido de lo que el conocimiento real de alguien se construye.
 

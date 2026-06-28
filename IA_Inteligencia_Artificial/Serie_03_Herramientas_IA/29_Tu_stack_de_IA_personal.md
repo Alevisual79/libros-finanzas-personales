@@ -129,7 +129,7 @@ Rubén tiene un documento de "Recetas de IA" actualizado mensualmente. Es uno de
 
 ## Capítulo 8: La actualización del stack
 
-El stack optimo hoy no será el optimo en seis meses. Las herramientas mejoran, aparecen nuevas y algunas quedan obsoletas.
+El stack óptimo hoy no será el óptimo en seis meses. Las herramientas mejoran, aparecen nuevas y algunas quedan obsoletas.
 
 **Revisión trimestral del stack:**
 - ¿Hay herramientas nuevas que debería probar para mis casos de uso?

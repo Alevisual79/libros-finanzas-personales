@@ -149,7 +149,7 @@ El diseño del entorno que no cambia opciones pero facilita las mejores es la fo
 
 Elena quiere desarrollar mayor resistencia a las técnicas de influencia no ética sin convertirse en una persona paranoica o desconfiada.
 
-**El Principio de la Inoculación como Vacuna contra la Influencia No Etica:** La investigación de William McGuire sobre la inoculación de actitudes muestra que la mejor forma de desarrollar resistencia a la persuasión no ética no es evitar la exposición sino exponerse a versiones debiles de los argumentos manipulativos juntó con la refutación. Como las vacunas inmunologicas, la exposición controlada crea resistencia.
+**El Principio de la Inoculación como Vacuna contra la Influencia No Etica:** La investigación de William McGuire sobre la inoculación de actitudes muestra que la mejor forma de desarrollar resistencia a la persuasión no ética no es evitar la exposición sino exponerse a versiones débiles de los argumentos manipulativos juntó con la refutación. Como las vacunas inmunologicas, la exposición controlada crea resistencia.
 
 La investigación de Jon Roozenbeek y Sander van der Linden sobre inoculación de desinformación muestra que jugar a ser el creador de desinformación (aprender las técnicas que se usan) aumenta significativamente la capacidad de detectarla.
 

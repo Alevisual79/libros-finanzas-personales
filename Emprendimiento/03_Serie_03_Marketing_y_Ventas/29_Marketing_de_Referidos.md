@@ -51,13 +51,13 @@ El momento de mayor emoción positiva del cliente es el mejor momento para pedir
 
 Carlos ha implementado un programa de referidos simple que le genera entre dos y tres nuevos clientes al mes.
 
-**El Principio del Programa de Referidos como el Sistema Estructurado que Facilita y Incentiva a los Clientes Satisfechos para qué Recomienden el Negocio de Forma Activa y Consistente en Lugar de Esperar a que lo Hagan Espontaneamente:** Robbie Kellman Baxter en The Membership Economy propone que la diferencia entre los negocios que generan muchos referidos y los que generan pocos no es principalmente la calidad del producto o servicio (aunque eso importa) sino la presencia o ausencia de un sistema que facilita la recomendación: que sea facil para el cliente compartir, que haya un incentivo (material o social) para hacerlo, y que el cliente sepa exactamente que decir.
+**El Principio del Programa de Referidos como el Sistema Estructurado que Facilita y Incentiva a los Clientes Satisfechos para qué Recomienden el Negocio de Forma Activa y Consistente en Lugar de Esperar a que lo Hagan Espontaneamente:** Robbie Kellman Baxter en The Membership Economy propone que la diferencia entre los negocios que generan muchos referidos y los que generan pocos no es principalmente la calidad del producto o servicio (aunque eso importa) sino la presencia o ausencia de un sistema que facilita la recomendación: que sea fácil para el cliente compartir, que haya un incentivo (material o social) para hacerlo, y que el cliente sepa exactamente que decir.
 
-El programa de referidos más simple tiene tres componentes: el momento de la solicitud (cuando pedir el referido), el mecanismo de la recomendación (como hacerla facil), y el incentivo (por qué el cliente lo haría). Sin los tres componentes, el programa no funciona de forma consistente.
+El programa de referidos más simple tiene tres componentes: el momento de la solicitud (cuando pedir el referido), el mecanismo de la recomendación (como hacerla fácil), y el incentivo (por qué el cliente lo haría). Sin los tres componentes, el programa no funciona de forma consistente.
 
 **Ejercicio inmediato:** Diseña tu programa de referidos mínimo viable en tres pasos: el momento (después de que el cliente recibe el resultado positivo, no antes), el mecanismo (un email o mensaje específico que el cliente puede reenviar directamente a sus contactos, con el enlace a tu web y una descripción de una frase de lo que haces), y el incentivo (puede ser un descuento para el cliente que refiere, un regalo para el cliente nuevo, o simplemente el agradecimiento genuino). Implementa ese programa en los próximos siete dias con tus cinco mejores clientes actuales.
 
-El cliente que quiere recomendarte solo necesita que le hagas facil hacerlo.
+El cliente que quiere recomendarte solo necesita que le hagas fácil hacerlo.
 
 ---
 
@@ -69,7 +69,7 @@ Marcos ha aprendido que pedir el referido en el momento incorrecto produce incom
 
 La investigación de Fred Reichheld de Bain sobre los promotores (los que dan una puntuación de 9 o 10 en una encuesta de Net Promoter Score) muestra que el 83% de los clientes satisfechos estan dispuestos a recomendar pero solo el 29% lo hacen sin que se les pida. La diferencia entre el 29% y el 83% es simplemente el acto de pedir.
 
-**Ejercicio inmediato:** Identifica los tres momentos en tu proceso de servicio al cliente donde la satisfacción del cliente es tipicamente más alta (cuando entrega el producto terminado, cuando resuelve una incidencia, o cuando recibe los resultados del trabajo). Para cada momento, crea un script específico (una o dos frases naturales) que pida el referido de forma comoda: estoy muy contento de que el resultado haya funcionado tan bien para ti. Si conoces a alguien que podría beneficiarse de algo similar, me encantaria que nos presentaras. práctica ese script hasta que se sienta natural.
+**Ejercicio inmediato:** Identifica los tres momentos en tu proceso de servicio al cliente donde la satisfacción del cliente es tipicamente más alta (cuando entrega el producto terminado, cuando resuelve una incidencia, o cuando recibe los resultados del trabajo). Para cada momento, crea un script específico (una o dos frases naturales) que pida el referido de forma cómoda: estoy muy contento de que el resultado haya funcionado tan bien para ti. Si conoces a alguien que podría beneficiarse de algo similar, me encantaria que nos presentaras. práctica ese script hasta que se sienta natural.
 
 Pedir el referido con incomodidad produce incomodidad en el cliente. Pedirlo con confianza produce generosidad.
 

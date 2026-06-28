@@ -139,7 +139,7 @@ Elena nota que las personas de su entorno tienen respuestas muy distintas a la v
 
 Martin Seligman, fundador de la psicología positiva, y su concepto de prospection (la capacidad de representar y evaluar futuros posibles) sugiere que una de las habilidades cognitivas más importantes para el futuro es la capacidad de operar efectivamente con multiples escenarios futuros posibles en lugar de requerir certeza sobre uno específico.
 
-**Ejercicio inmediato:** Identifica una habilidad o rol en tu vida que la tecnología podría sustituir o transformar significativamente en los próximos diez años. En lugar de evitar pensar en eso, dedica treinta minutos a generar tres escenarios futuros específicos: uno donde esa transformación es una amenaza para ti, uno donde es una oportunidad, y uno donde es ambas cosas. El ejercicio de generar multiples escenarios reduce la ansiedad ante el unico escenario catastrofico que la mente ansiosa tiende a fijarse.
+**Ejercicio inmediato:** Identifica una habilidad o rol en tu vida que la tecnología podría sustituir o transformar significativamente en los próximos diez años. En lugar de evitar pensar en eso, dedica treinta minutos a generar tres escenarios futuros específicos: uno donde esa transformación es una amenaza para ti, uno donde es una oportunidad, y uno donde es ambas cosas. El ejercicio de generar multiples escenarios reduce la ansiedad ante el único escenario catastrofico que la mente ansiosa tiende a fijarse.
 
 No puedes predecir el futuro. Pero puedes preparar un cerebro que sepa adaptarse cuando llegue.
 

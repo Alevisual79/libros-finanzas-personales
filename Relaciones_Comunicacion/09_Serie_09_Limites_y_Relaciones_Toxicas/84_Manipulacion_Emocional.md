@@ -87,7 +87,7 @@ La introducción deliberada de terceros en la dinámica relacional, ya sea gener
 
 **Ejercicio inmediato:** Si experimentas comparaciones frecuentes con terceros de parte de alguien cercano, reflexiona sobre si estas comparaciones parecen tener un proposito de generar inseguridad y control, más que información genuina relevante.
 
-Las comparaciones constantes con terceros frecuentemente no son sobre información útil. Son sobre generar la inseguridad que hace más facil controlar tu comportamiento.
+Las comparaciones constantes con terceros frecuentemente no son sobre información útil. Son sobre generar la inseguridad que hace más fácil controlar tu comportamiento.
 
 ---
 
@@ -131,11 +131,11 @@ Tener respuestas preparadas para momentos de manipulación te permite actuar con
 
 Cuando la manipulación es un patron consistente y central en una relación, salir de esa dinámica, ya sea estableciendo límites significativos o terminando la relación completamente, frecuentemente requiere los mismos principios discutidos para relaciones toxicas en general.
 
-**El Principio de la Salida como Proceso, no como Evento Unico:** Salir de una dinámica manipuladora establecida frecuentemente requiere un proceso gradual de reconocimiento, fortalecimiento de la propia confianza en la percepción, búsqueda de apoyo externo, y eventualmente acción concreta (límites firmes o distancia significativa), en lugar de esperar un momento de claridad unica que resuelva todo instantaneamente.
+**El Principio de la Salida como Proceso, no como Evento Único:** Salir de una dinámica manipuladora establecida frecuentemente requiere un proceso gradual de reconocimiento, fortalecimiento de la propia confianza en la percepción, búsqueda de apoyo externo, y eventualmente acción concreta (límites firmes o distancia significativa), en lugar de esperar un momento de claridad única que resuelva todo instantaneamente.
 
 **Ejercicio inmediato:** Si estas en proceso de salir de una dinámica manipuladora, identifica en que etapa de este proceso te encuentras, y que paso siguiente específico podrías dar.
 
-Salir de una dinámica manipuladora no es un evento unico. Es un proceso que se construye paso a paso, con apoyo y con tiempo.
+Salir de una dinámica manipuladora no es un evento único. Es un proceso que se construye paso a paso, con apoyo y con tiempo.
 
 ---
 

@@ -79,7 +79,7 @@ El punto ciego que más te limita es el que no puedes ver tu solo. Necesitas los
 
 Ruben quiere desarrollar una práctica de reflexión más sistemática que la que tiene actualmente.
 
-**El Principio de la Revisión Periodica Estructurada como Mecanismo que Convierte la Experiencia en Aprendizaje de Forma sistemática:** La investigación de Chris Argyris sobre el aprendizaje organizacional y el aprendizaje de doble bucle propone que el aprendizaje genuino requiere no solo ajustar las acciones cuando los resultados no son los esperados (aprendizaje de bucle unico) sino cuestionar los supuestos fundamentales que guian las acciones (aprendizaje de doble bucle). La revisión periodica es el mecanismo que hace posible el aprendizaje de doble bucle.
+**El Principio de la Revisión Periodica Estructurada como Mecanismo que Convierte la Experiencia en Aprendizaje de Forma sistemática:** La investigación de Chris Argyris sobre el aprendizaje organizacional y el aprendizaje de doble bucle propone que el aprendizaje genuino requiere no solo ajustar las acciones cuando los resultados no son los esperados (aprendizaje de bucle único) sino cuestionar los supuestos fundamentales que guian las acciones (aprendizaje de doble bucle). La revisión periodica es el mecanismo que hace posible el aprendizaje de doble bucle.
 
 La investigación de Giada Di Stefano y colegas muestra que tomar tiempo deliberado para reflexionar sobre lo que se ha aprendido de una experiencia (en lugar de pasar directamente a la siguiente experiencia) aumenta el aprendizaje en un 20% en comparación con la práctica continuada sin reflexión.
 
@@ -161,7 +161,7 @@ El segundo de pausa antes de responder es la diferencia entre reaccionar y elegi
 
 ## Epílogo
 
-Ruben implementó la revisión semanal. No fue comodo al principio: le parecio una perdida de tiempo detenerse cuando tenía tantas cosas que hacer. Pero a las seis semanas, había identificado un patron en sus errores que no había visto mientras los cometia: tomaba las decisiones más importantes del dia a última hora de la tarde, cuando su nivel de energía era más bajo. El cambio fue simple: mover las decisiones importantes a primera hora del dia. El aprendizaje que produjó esa práctica de quince minutos semanales fue mayor que el que había producido años de experiencia sin reflexión. La experiencia sola no enseña. La experiencia reflexionada, si.
+Ruben implementó la revisión semanal. No fue cómodo al principio: le parecio una perdida de tiempo detenerse cuando tenía tantas cosas que hacer. Pero a las seis semanas, había identificado un patron en sus errores que no había visto mientras los cometia: tomaba las decisiones más importantes del dia a última hora de la tarde, cuando su nivel de energía era más bajo. El cambio fue simple: mover las decisiones importantes a primera hora del dia. El aprendizaje que produjó esa práctica de quince minutos semanales fue mayor que el que había producido años de experiencia sin reflexión. La experiencia sola no enseña. La experiencia reflexionada, si.
 
 ---
 

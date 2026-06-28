@@ -39,7 +39,7 @@ Lucia ha identificado los tres errores de precio que cometio en sus primeros dos
 
 **El Principio de Los Errores de Precio como Patrones Cognitivos y Emocionales que Llevan Al Emprendedor a Fijar Precios Por Debajo del Valor Real de Su Trabajo por Miedo, Comparación con La Competencia, o Falta de Confianza en El Valor Que Produce:** Los errores más comunes de precio del emprendedor son: el miedo a la objeción (bajar el precio preventivamente antes de que el cliente lo pida, asumiendo que el precio alto será rechazado), la comparación con el más barato de la competencia (usar el precio más bajo del mercado como referencia en lugar del valor que se ofrece), el precio por hora (que limita el revenue al número de horas disponibles y crea un techo que no puede superarse), y el descuento como reflex (ofrecer descuento ante cualquier resistencia en lugar de defender el valor).
 
-Price Intelligently ha documentado en su investigación sobre pricing de SaaS que las empresas que revisan activamente su precio tienen consistentemente mayor crecimiento de revenue que las que lo fijan una vez y lo dejan invariable. La mayoría de las empresas subestiman sistemáticamente el precio optimo que el mercado puede sostener.
+Price Intelligently ha documentado en su investigación sobre pricing de SaaS que las empresas que revisan activamente su precio tienen consistentemente mayor crecimiento de revenue que las que lo fijan una vez y lo dejan invariable. La mayoría de las empresas subestiman sistemáticamente el precio óptimo que el mercado puede sostener.
 
 **Ejercicio inmediato:** Para tu negocio, identifica cual de los tres errores de precio más comunes reconoces como el más frecuente en tu caso: ¿cobras por hora en lugar de por resultado?, bajas el precio antes de que el cliente lo pida?, o usas el precio de tu competidor más barato como referencia? Para el error que identifies, diseña una respuesta alternativa específica: ¿si es el precio por hora, como podrías estructurar un precio fijo por proyecto o por resultado?, si es el descuento reflex, que argumentos de valor preparas para la próxima vez que un cliente pida un descuento?
 
@@ -107,13 +107,13 @@ El precio bajo que no viene de eficiencia operativa superior viene de miedo. Y e
 
 Carlos ha rediseñado sus paquetes de precio y ha aumentado el ticket promedio sin cambiar el servicio que ofrece.
 
-**El Principio de La Estructura de Precios como El Diseno de Opciones de Precio que Guian Al Cliente hacía El Paquete de Mayor Valor Mediante El Uso de Efectos Cognitivos Bien Documentados como El Efecto Ancla, El Efecto de Decoy, y La Aversión a Los Extremos:** La investigación de William Poundstone en Priceless muestra que la forma en que se presentan las opciones de precio influye significativamente en la que el cliente elige. La estructura de tres niveles (basico, estandar, y premium) produce consistentemente mayor revenue promedio que una opción unica, porque el nivel estandar parece razonable comparado con el premium y completo comparado con el basico.
+**El Principio de La Estructura de Precios como El Diseno de Opciones de Precio que Guian Al Cliente hacía El Paquete de Mayor Valor Mediante El Uso de Efectos Cognitivos Bien Documentados como El Efecto Ancla, El Efecto de Decoy, y La Aversión a Los Extremos:** La investigación de William Poundstone en Priceless muestra que la forma en que se presentan las opciones de precio influye significativamente en la que el cliente elige. La estructura de tres niveles (basico, estandar, y premium) produce consistentemente mayor revenue promedio que una opción única, porque el nivel estandar parece razonable comparado con el premium y completo comparado con el basico.
 
 El efecto decoy es especialmente poderoso: si añades una opción de precio claramente inferior al estandar (el decoy), el estandar parece mucho más atractivo por contraste. Si añades una opción premium muy cara, el estandar parece una ganga por comparación.
 
 **Ejercicio inmediato:** Diseña una estructura de tres niveles para tu servicio principal: un nivel basico (el mínimo que ofreces con el precio más bajo, que sirve como ancla y como opción de entrada para clientes que no conocen tu trabajo), un nivel estandar (el que quieres vender en la mayoría de los casos, con el precio que maximiza tu revenue y margen), y un nivel premium (una versión ampliada con servicios adicionales o mayor dedicación, con un precio significativamente mayor que justifique la diferencia). Presenta siempre la opción estandar primero y la premium como segunda opción. La mayoría de los clientes elegiran el estandar, y algunos el premium.
 
-La unica opción de precio que le presentas al cliente es siempre cara o barata. Con tres opciones, la del medio siempre parece la correcta.
+La única opción de precio que le presentas al cliente es siempre cara o barata. Con tres opciones, la del medio siempre parece la correcta.
 
 ---
 

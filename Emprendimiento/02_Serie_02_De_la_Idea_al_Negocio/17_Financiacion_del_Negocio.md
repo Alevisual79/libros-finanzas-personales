@@ -161,7 +161,7 @@ La estrategia de capital que se alinea con lo que quieres construir vale más qu
 
 ## Epílogo
 
-Lucia cerro su primera ronda de financiación con un business angel que aportó capital y, más importante, quince años de experiencia en su sector. La ronda no fue rápida ni facil: duro seis meses desde el primer contacto hasta el cierre. Lo que descubrió durante el proceso es que los inversores que más le habían gustado eran los que hacían las preguntas más duras sobre el negocio, no los que validaban todo lo que decía. El inversor que finalmente eligio era uno de los que más la habían cuestionado. Y después del cierre, era también el que más le había ayudado.
+Lucia cerro su primera ronda de financiación con un business angel que aportó capital y, más importante, quince años de experiencia en su sector. La ronda no fue rápida ni fácil: duro seis meses desde el primer contacto hasta el cierre. Lo que descubrió durante el proceso es que los inversores que más le habían gustado eran los que hacían las preguntas más duras sobre el negocio, no los que validaban todo lo que decía. El inversor que finalmente eligio era uno de los que más la habían cuestionado. Y después del cierre, era también el que más le había ayudado.
 
 ---
 

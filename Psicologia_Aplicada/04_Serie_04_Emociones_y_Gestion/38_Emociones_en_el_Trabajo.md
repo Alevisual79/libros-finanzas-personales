@@ -69,7 +69,7 @@ Ruben acaba de asumir responsabilidades de liderazgo de un equipo pequeño y qui
 
 Walter Mischel y Roy Baumeister proponen que la capacidad de regular los propios impulsos y emociones es fundamental para el liderazgo efectivo porque el líder cuyas emociones son impredecibles para el equipo produce inseguridad que reduce el rendimiento del grupo.
 
-**Ejercicio inmediato:** Evalua tu nivel en las cuatro dimensiones de Goleman: ¿conoces bien tus propias emociones y como influyen (autoconciencia)? ¿Puedes regular tus respuestas en situaciones de alta presión (autoregulación)? ¿Puedes leer las emociones de tu equipo con precisión (conciencia social)? ¿Puedes gestionar las emociones en interacciones interpersonales (gestión de relaciones)? La dimensión más debil es el punto de desarrollo más urgente.
+**Ejercicio inmediato:** Evalua tu nivel en las cuatro dimensiones de Goleman: ¿conoces bien tus propias emociones y como influyen (autoconciencia)? ¿Puedes regular tus respuestas en situaciones de alta presión (autoregulación)? ¿Puedes leer las emociones de tu equipo con precisión (conciencia social)? ¿Puedes gestionar las emociones en interacciones interpersonales (gestión de relaciones)? La dimensión más débil es el punto de desarrollo más urgente.
 
 El líder que no gestiona sus emociones gestiona al equipo desde sus estados no regulados.
 
