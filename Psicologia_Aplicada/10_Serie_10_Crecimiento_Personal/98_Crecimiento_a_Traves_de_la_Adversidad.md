@@ -161,7 +161,7 @@ El sentido de la adversidad no lo pone la adversidad. Lo pones tu con la forma e
 
 ## Epílogo
 
-Isabel miro atras, tres años después de la enfermedad, y reconoció con una claridad que antes no tenía que el período más difícil de su vida había sido también el que más la había ordenado. No las vacaciones, no los éxitos profesionales, no los momentos de maxima alegria. La enfermedad que había interrumpido su vida y le había obligado a preguntarse que merecia su tiempo limitado. La respuesta a esa pregunta había cambiado muchas cosas: algunas relaciones que nutria con más intención, algunos compromisos que había dejado ir sin culpa, y una sensación difusa pero real de que vivía más cerca de lo que le importaba de verdad. No lo llamaria agradecida por haber enfermado. Pero si reconocia que quien era ahora incluia algo que no habría sido posible sin ello.
+Isabel miro atrás, tres años después de la enfermedad, y reconoció con una claridad que antes no tenía que el período más difícil de su vida había sido también el que más la había ordenado. No las vacaciones, no los éxitos profesionales, no los momentos de maxima alegria. La enfermedad que había interrumpido su vida y le había obligado a preguntarse que merecia su tiempo limitado. La respuesta a esa pregunta había cambiado muchas cosas: algunas relaciones que nutria con más intención, algunos compromisos que había dejado ir sin culpa, y una sensación difusa pero real de que vivía más cerca de lo que le importaba de verdad. No lo llamaria agradecida por haber enfermado. Pero si reconocia que quien era ahora incluia algo que no habría sido posible sin ello.
 
 ---
 

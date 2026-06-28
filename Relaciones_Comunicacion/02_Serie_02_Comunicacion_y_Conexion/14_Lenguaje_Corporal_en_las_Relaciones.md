@@ -29,7 +29,7 @@ La investigación de Albert Mehrabian de los años 60 ha sido distorsionada hast
 
 **El Principio de la Congruencia Multicanal:** La comunicación ocurre en multiples canales simultaneamente: las palabras, el tono de voz, las expresiones faciales, la postura corporal, los gestos, la distancia física y el contacto. Cuando todos los canales dicen lo mismo, el mensaje es claro y genera confianza. Cuando dicen cosas diferentes, el receptor nota la incongruencia aunque no pueda nombrarlo.
 
-Los componentes de la comunicación no verbal incluyen: las expresiones faciales universales segun Ekman, la postura y orientación del cuerpo, los gestos, el contacto visual, el tono y ritmo de la voz, la distancia interpersonal y el contacto físico. Cada canal tiene su propia lógica y sus propias normas culturales.
+Los componentes de la comunicación no verbal incluyen: las expresiones faciales universales según Ekman, la postura y orientación del cuerpo, los gestos, el contacto visual, el tono y ritmo de la voz, la distancia interpersonal y el contacto físico. Cada canal tiene su propia lógica y sus propias normas culturales.
 
 **Ejercicio inmediato:** En la próxima conversación importante, presta atención a cuantos canales no verbales puedes percibir a la vez: cara, postura, gestos, voz. No analices. Solo percibe. La información que recibiras es cualitativamente diferente a la que obtienes si solo escuchas las palabras.
 
@@ -57,9 +57,9 @@ Cuando Elena esta cansada, su postura lo muestra antes de que ella lo diga. Los 
 
 **El Principio de la Retroalimentación Postura-Estado:** La investigación sobre retroalimentación corporal muestra que la postura no solo refleja el estado emocional sino que también lo modifica. Adoptar una postura expansiva durante dos minutos produce cambios hormonales medibles en la dirección de mayor confianza y menor estrés. La influencia es bidireccional: el estado interno produce postura, pero la postura también produce estado interno.
 
-La postura en el contexto relacional comunica ademas estatus y apertura. Una postura abierta, sin barreras, orientada hacía el otro, comunica disponibilidad y confianza. Una postura cerrada comunica defensa o desconexion.
+La postura en el contexto relacional comunica además estatus y apertura. Una postura abierta, sin barreras, orientada hacía el otro, comunica disponibilidad y confianza. Una postura cerrada comunica defensa o desconexion.
 
-**Ejercicio inmediato:** En la próxima situación en que te sientas inseguro o cerrado, antes de entrar, adopta durante dos minutos una postura expansiva: espalda recta, hombros atras, cabeza arriba, espacio físico ocupado. Observa si el estado interno cambia aunque sea ligeramente.
+**Ejercicio inmediato:** En la próxima situación en que te sientas inseguro o cerrado, antes de entrar, adopta durante dos minutos una postura expansiva: espalda recta, hombros atrás, cabeza arriba, espacio físico ocupado. Observa si el estado interno cambia aunque sea ligeramente.
 
 Como llevas tu cuerpo no solo refleja como te sientes. Cambia como te vas a sentir.
 
@@ -99,9 +99,9 @@ La proxemia es el estudio del uso del espacio en la comunicación. Edward Hall i
 
 **El Principio de las Zonas y la Incomodidad:** Invadir la zona equivocada produce incomodidad aunque ninguno de los dos sepa nombrar por qué. Un colega que se acerca demasiado en una conversación laboral activa incomodidad. Un amigo que mantiene demasiada distancia en una conversación emocional genera frialdad. La proxemia correcta para el tipo de relación y el tipo de conversación es parte del lenguaje corporal que facilita la conexión.
 
-Las normas proxemicas son fuertemente culturales: lo que es distancia normal en una cultura del norte de Europa es fria en una cultura del sur. Calibrar la proxemia requiere atención a las señales del otro ademas de las normas generales.
+Las normas proxemicas son fuertemente culturales: lo que es distancia normal en una cultura del norte de Europa es fria en una cultura del sur. Calibrar la proxemia requiere atención a las señales del otro además de las normas generales.
 
-**Ejercicio inmediato:** En las próximas conversaciones, presta atención a como cambia la distancia física con distintas personas y en distintos contextos. Cuando alguien da un paso hacía atras, suele ser una señal de que la distancia actual les resulta demasiado corta. Respetar ese movimiento es respetar el lenguaje corporal del otro.
+**Ejercicio inmediato:** En las próximas conversaciones, presta atención a como cambia la distancia física con distintas personas y en distintos contextos. Cuando alguien da un paso hacía atrás, suele ser una señal de que la distancia actual les resulta demasiado corta. Respetar ese movimiento es respetar el lenguaje corporal del otro.
 
 El espacio que das al otro no es distancia. Es información sobre lo que sientes hacía el.
 

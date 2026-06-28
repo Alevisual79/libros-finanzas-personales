@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel recibe un mensaje de su jefe que dice solo necesito hablar contigo mañana. Inmediatamente su mente construye un guion: la van a despedir, hay un problema grave, algo que hizo mal ha tenido consecuencias que no conoce todavia. Pasa la tarde y la noche con ese guion activo, planificando mentalmente cómo lo manejaria, que diria, cómo se lo contaria a su familia. A la mañana siguiente su jefe le dice que quiere ofrecerle un aumento. El tiempo que Isabel dedicó al escenario catastrofico fue completamente gratuito. Pero la próxima vez que reciba un mensaje ambiguo, su cerebro hará exactamente lo mismo.
+Isabel recibe un mensaje de su jefe que dice solo necesito hablar contigo mañana. Inmediatamente su mente construye un guion: la van a despedir, hay un problema grave, algo que hizo mal ha tenido consecuencias que no conoce todavía. Pasa la tarde y la noche con ese guion activo, planificando mentalmente cómo lo manejaria, que diria, cómo se lo contaria a su familia. A la mañana siguiente su jefe le dice que quiere ofrecerle un aumento. El tiempo que Isabel dedicó al escenario catastrofico fue completamente gratuito. Pero la próxima vez que reciba un mensaje ambiguo, su cerebro hará exactamente lo mismo.
 
 ---
 
@@ -139,7 +139,7 @@ No necesitas creer en cada pensamiento que tu mente produce. Puede aparecer, ser
 
 Elena tiene sus peores episodios catastroficos en la madrugada. Se despierta a las tres y los pensamientos aparecen con una intensidad y una viveza que rara vez tienen durante el dia.
 
-**El Principio del Umbral Cortical Reducido como Amplificador Nocturno:** Los pensamientos catastroficos se intensifican durante la noche por varias razones neurológicas. Durante el sueño ligero y las transiciones de sueño, la actividad cortical prefrontal (responsable de la evaluación crítica de los pensamientos) se reduce, lo que significa que los pensamientos ansiosos generados por el sistema limbico tienen menos capacidad correctora disponible. Ademas, la ausencia de estimulación externa que compita con los pensamientos durante la noche deja más espacio a la divagación mental hacía material ansioso.
+**El Principio del Umbral Cortical Reducido como Amplificador Nocturno:** Los pensamientos catastroficos se intensifican durante la noche por varias razones neurológicas. Durante el sueño ligero y las transiciones de sueño, la actividad cortical prefrontal (responsable de la evaluación crítica de los pensamientos) se reduce, lo que significa que los pensamientos ansiosos generados por el sistema limbico tienen menos capacidad correctora disponible. Además, la ausencia de estimulación externa que compita con los pensamientos durante la noche deja más espacio a la divagación mental hacía material ansioso.
 
 Matthew Walker documenta que los despertares nocturnos producidos por ansiedad tienden a ocurrir principalmente en la segunda mitad del sueño (cuando el sueño REM es más denso), y que el sueño REM tiene una función específica de procesamiento emocional: las experiencias emocionalmente cargadas del dia se reprocesen durante el sueño REM con un tono de activación noradrenergica reducido que debería amortiguar su carga emocional. Cuando el sueño es interrumpido, este procesamiento queda incompleto.
 

@@ -127,7 +127,7 @@ No hay un yo autentico unico. Pero hay un nucleo que debería reconocerse en tod
 
 La falta de congruencia tiene un coste específico: el agotamiento de mantener versiones distintas de uno mismo en distintos contextos. La persona que es completamente diferente en el trabajo y en casa, o que dice una cosa y hace otra, o que tiene valores declarados que sus acciones contradicen, gasta una cantidad enorme de energía en gestionar esas inconsistencias.
 
-**El Principio de la Congruencia como Eficiencia:** La congruencia no es solo un valor ético. Es una estrategia de eficiencia. Cuando lo que sientes, lo que dices y lo que haces estan alineados, no necesitas energía para gestionar la inconsistencia. Esa energía liberada está disponible para todo lo demás. Las personas congruentes, ademas, generan más confianza en los demás porque son predecibles. Y la confianza es el combustible de todas las relaciones.
+**El Principio de la Congruencia como Eficiencia:** La congruencia no es solo un valor ético. Es una estrategia de eficiencia. Cuando lo que sientes, lo que dices y lo que haces estan alineados, no necesitas energía para gestionar la inconsistencia. Esa energía liberada está disponible para todo lo demás. Las personas congruentes, además, generan más confianza en los demás porque son predecibles. Y la confianza es el combustible de todas las relaciones.
 
 Carl Rogers, fundador de la psicoterapia humanista, identifico la congruencia, juntó con la empatia y la consideración positiva incondicional, como las tres condiciones necesarias para el cambio terapéutico. En el contexto relacional, la congruencia del terapeuta crea la confianza necesaria para que el cliente se abra. En cualquier relación, funciona del mismo modo.
 

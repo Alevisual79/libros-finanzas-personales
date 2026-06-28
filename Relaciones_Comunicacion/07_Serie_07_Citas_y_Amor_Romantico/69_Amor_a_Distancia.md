@@ -37,7 +37,7 @@ La comunicación en una relación a distancia, similar a lo discutido en el cont
 
 **El Principio de la Profundidad Compensatoria:** Las parejas a distancia que mantienen relaciones satisfactorias tienden a compensar la ausencia de presencia física con conversaciones de mayor profundidad emocional que las que tendrían si vivieran juntos, donde la presencia física permite formas no verbales de conexión que reducen la necesidad de verbalizar todo explicitamente.
 
-**Ejercicio inmediato:** Evalua la calidad de tus conversaciones actuales con tu pareja a distancia. Tienen, ademas del contacto frecuente, momentos de conversación realmente profunda sobre como estan y que necesitan?
+**Ejercicio inmediato:** Evalua la calidad de tus conversaciones actuales con tu pareja a distancia. Tienen, además del contacto frecuente, momentos de conversación realmente profunda sobre como estan y que necesitan?
 
 En la distancia, cien mensajes superficiales valen menos que una conversación profunda de treinta minutos.
 

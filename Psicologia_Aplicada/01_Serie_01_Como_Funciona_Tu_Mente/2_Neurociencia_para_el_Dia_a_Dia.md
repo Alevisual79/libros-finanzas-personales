@@ -21,9 +21,9 @@ Ruben tiene treinta y un años y cree que su memoria falla más que antes. Que s
 
 ## Capítulo 1: Tu cerebro no es una computadora
 
-El error más común que cometemos al pensar sobre nuestra mente es tratarla como si fuera una computadora: un dispositivo que procesa información de forma lineal, que se puede usar sin parar, que mejora con más velocidad y capacidad. El cerebro humano no funciona asi en absoluto.
+El error más común que cometemos al pensar sobre nuestra mente es tratarla como si fuera una computadora: un dispositivo que procesa información de forma lineal, que se puede usar sin parar, que mejora con más velocidad y capacidad. El cerebro humano no funciona así en absoluto.
 
-**El Principio del Órgano biológico con Necesidades:** El cerebro es un órgano biológico que consume aproximadamente el veinte por ciento de la energía del cuerpo humano, necesita períodos regulares de descanso para consolidar información y eliminar residuos metabólicos, y opera de formas profundamente distintas segun el estado fisiológico del cuerpo que lo aloja. Matthew Walker, neurocientico de Berkeley y autor de Por qué Dormimos, documenta que un cerebro privado de sueño adecuado no solo funciona peor cuantitativamente, sino que lo hace de formas sistemáticamente predecibles que la persona raramente puede detectar en si misma.
+**El Principio del Órgano biológico con Necesidades:** El cerebro es un órgano biológico que consume aproximadamente el veinte por ciento de la energía del cuerpo humano, necesita períodos regulares de descanso para consolidar información y eliminar residuos metabólicos, y opera de formas profundamente distintas según el estado fisiológico del cuerpo que lo aloja. Matthew Walker, neurocientico de Berkeley y autor de Por qué Dormimos, documenta que un cerebro privado de sueño adecuado no solo funciona peor cuantitativamente, sino que lo hace de formas sistemáticamente predecibles que la persona raramente puede detectar en si misma.
 
 A diferencia de una computadora que funciona igual si la usas dos horas o veinte, el cerebro tiene rendimientos decrecientes marcados, estados optimos y suboptimos, y ciclos naturales de alta y baja capacidad que ocurren tanto a lo largo del dia (ritmos circadianos) como dentro de cada período de trabajo (ciclos ultradianos de aproximadamente noventa minutos).
 
@@ -119,7 +119,7 @@ La meditación no es espiritualidad. Es gimnasia para el prefrontal.
 
 ## Capítulo 8: El cerebro social: por qué necesitas a otros para funcionar
 
-Ruben trabaja en remoto hace dos años y ha ido reduciendo el contacto social gradualmente. Cree que es más eficiente asi, sin las distracciones de la interacción social. Lo que no ve es que su cerebro, un órgano profundamente social por evolución, está funcionando por debajo de su capacidad en el aislamiento progresivo.
+Ruben trabaja en remoto hace dos años y ha ido reduciendo el contacto social gradualmente. Cree que es más eficiente así, sin las distracciones de la interacción social. Lo que no ve es que su cerebro, un órgano profundamente social por evolución, está funcionando por debajo de su capacidad en el aislamiento progresivo.
 
 **El Principio del Cerebro como Órgano Social:** Matthew Lieberman, neurocientico de UCLA, documenta en su investigación que el cerebro humano usa los mismos circuitos para procesar el dolor físico que para procesar la exclusión social, lo que sugiere que la necesidad de conexión social tiene un peso evolutivo comparable al de las necesidades físicas basicas. Los estudios de John Cacioppo sobre soledad muestran que el aislamiento social cronico deteriora la función cognitiva, aumenta los marcadores de inflamación sistemica y predice fuertemente el deterioro cognitive en la vejez.
 

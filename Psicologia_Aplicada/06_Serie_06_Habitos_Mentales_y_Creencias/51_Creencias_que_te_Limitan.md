@@ -53,7 +53,7 @@ Ruben tiene una colección de creencias limitantes que no reconoceria como tales
 
 **El Principio de las Categorias de Creencias Limitantes como Territorio Comun:** La investigación clinica de Aaron Beck, Albert Ellis, y Jeffrey Young permite identificar categorías comunes de creencias limitantes: las creencias de inmerecimiento (no merezco amor, éxito, o bienestar), las creencias de incapacidad (no soy capaz de X, no tengo lo necesario para Y), las creencias de peligro (el mundo es peligroso, las personas son poco fiables), las creencias de responsabilidad excesiva (soy responsable del bienestar de todos), y las creencias de impotencia (nada de lo que haga marcara diferencia).
 
-Martin Seligman propone que muchas creencias limitantes contienen los tres elementos de su modelo de impotencia aprendida reformulado: permanencia (esto será siempre asi), pervasividad (esto afecta a todo lo que hago), y personalización (esto ocurre porque hay algo mal en mi).
+Martin Seligman propone que muchas creencias limitantes contienen los tres elementos de su modelo de impotencia aprendida reformulado: permanencia (esto será siempre así), pervasividad (esto afecta a todo lo que hago), y personalización (esto ocurre porque hay algo mal en mi).
 
 **Ejercicio inmediato:** Revisa la lista de categorías y reflexiona: ¿cual es la que más reconoces en tu propia experiencia? Para esa categoría, formula dos o tres ejemplos específicos de cómo se manifiesta en tu vida. La especificidad transforma la categoría abstracta en algo concreto y examinable.
 
@@ -139,7 +139,7 @@ Isabel ha empezado a notar que algunas de sus creencias limitantes no son solo p
 
 Claude Steele investigó la amenaza del estereotipo: la activación de los estereotipos negativos sobre el grupo de pertenencia en contextos de evaluación produce deterioro del rendimiento. Este mecanismo muestra como las creencias limitantes colectivas pueden producir exactamente los resultados que predicen.
 
-**Ejercicio inmediato:** Reflexiona sobre las creencias sobre lo que es posible para personas como tu que heredaste de tu familia o cultura de origen. ¿Cuales son las que más reconoces todavia como activas en tu mente? Identificar su origen colectivo no las cancela automáticamente pero si reduce la sensación de que son verdades personales inevitables.
+**Ejercicio inmediato:** Reflexiona sobre las creencias sobre lo que es posible para personas como tu que heredaste de tu familia o cultura de origen. ¿Cuales son las que más reconoces todavía como activas en tu mente? Identificar su origen colectivo no las cancela automáticamente pero si reduce la sensación de que son verdades personales inevitables.
 
 La creencia de que personas como tu no pueden llegar a ciertos lugares no es un hecho sobre la realidad. Es una historia que tu grupo aprendió a creer. Y las historias se pueden cambiar.
 
@@ -161,7 +161,7 @@ No basta con dejar de creer lo que te limita. Necesitas empezar a creer algo que
 
 ## Epílogo
 
-Elena identifico la creencia: las personas como yo no lideran equipos. La rastreo hasta una frase que su padre repetia cuando ella era pequeña, sobre las limitaciones de las personas de su barrio. Cuando examino la evidencia, encontró cuatro situaciones en los últimos dos años donde había liderado de hecho sin llamarlo asi. La creencia no desaparecio en un dia. Pero empezó a tener grietas. Y las grietas fueron suficientes para qué entrase algo nuevo.
+Elena identifico la creencia: las personas como yo no lideran equipos. La rastreo hasta una frase que su padre repetia cuando ella era pequeña, sobre las limitaciones de las personas de su barrio. Cuando examino la evidencia, encontró cuatro situaciones en los últimos dos años donde había liderado de hecho sin llamarlo así. La creencia no desaparecio en un dia. Pero empezó a tener grietas. Y las grietas fueron suficientes para qué entrase algo nuevo.
 
 ---
 

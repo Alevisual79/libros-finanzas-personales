@@ -37,7 +37,7 @@ No puedes cambiar el patron de regulación que no puedes ver. Verlo es el primer
 
 Ruben quiere entender donde puede intervenir en su ciclo emocional. El modelo de proceso de Gross identifica cinco puntos específicos, cada uno con estrategias distintas.
 
-**El Principio de los Cinco Puntos de Intervención Emocional:** El modelo identifica cinco estrategias segun el momento donde se aplican: selección de situaciones (elegir las que favorecen las emociones deseadas), modificación de situaciones (cambiar aspectos de la situación), despliegue atencional (dirigir la atención hacía o desde los aspectos emocionalmente relevantes), cambio cognitivo (modificar la evaluación de la situación), y modulación de la respuesta (influir sobre la respuesta emocional ya activa).
+**El Principio de los Cinco Puntos de Intervención Emocional:** El modelo identifica cinco estrategias según el momento donde se aplican: selección de situaciones (elegir las que favorecen las emociones deseadas), modificación de situaciones (cambiar aspectos de la situación), despliegue atencional (dirigir la atención hacía o desde los aspectos emocionalmente relevantes), cambio cognitivo (modificar la evaluación de la situación), y modulación de la respuesta (influir sobre la respuesta emocional ya activa).
 
 La reevaluación cognitiva (cambio cognitivo) es la estrategia con mayor soporte empirico para la regulación efectiva: cambiar la forma de interpretar una situación puede reducir la intensidad emocional de forma significativa y sin los costes de la supresión.
 

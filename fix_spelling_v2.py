@@ -663,6 +663,33 @@ def fix_esdrujulas(line):
     return line
 
 
+# 8. Adverbios y palabras monosílabas/bisílabas sin tilde
+ADV_FIXES = [
+    (re.compile(r'\bsegun\b',    re.IGNORECASE), 'según'),
+    (re.compile(r'\btodavia\b',  re.IGNORECASE), 'todavía'),
+    (re.compile(r'\btambien\b',  re.IGNORECASE), 'también'),
+    (re.compile(r'\bdespues\b',  re.IGNORECASE), 'después'),
+    (re.compile(r'\bademas\b',   re.IGNORECASE), 'además'),
+    (re.compile(r'\batras\b',    re.IGNORECASE), 'atrás'),
+    (re.compile(r'\baqui\b',     re.IGNORECASE), 'aquí'),
+    (re.compile(r'\balli\b',     re.IGNORECASE), 'allí'),
+    (re.compile(r'\bahi\b',      re.IGNORECASE), 'ahí'),
+    (re.compile(r'\basi\b',      re.IGNORECASE), 'así'),
+    # 'aún' (still/yet) vs 'aun' (even) — fix only obvious "still" uses
+    # Skip: too ambiguous between 'aun cuando' (even when) vs 'aún no' (still not)
+]
+
+def fix_adverbs(line):
+    for pattern, repl in ADV_FIXES:
+        def _repl(m, r=repl):
+            orig = m.group(0)
+            if orig[0].isupper():
+                return r[0].upper() + r[1:]
+            return r
+        line = pattern.sub(_repl, line)
+    return line
+
+
 # ── Procesado por línea ──────────────────────────────────────────────────────
 
 def fix_line(line):
@@ -683,6 +710,7 @@ def fix_line(line):
     line = fix_imperatives(line)
     line = fix_esta(line)
     line = fix_esdrujulas(line)
+    line = fix_adverbs(line)
     line = fix_q_colon(line)
     line = fix_q_afterq(line)
     line = fix_q_after_dot(line)

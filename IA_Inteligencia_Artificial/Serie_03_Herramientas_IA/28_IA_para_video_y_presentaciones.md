@@ -157,7 +157,7 @@ El flujo de producción de video corporativo con IA de Isabel:
 
 **Personalización a escala:** Videos generados en tiempo real con el nombre del espectador, su empresa y su contexto específico.
 
-**Interactividad:** Videos que se bifurcan segun las decisiones del espectador, generados dinámicamente.
+**Interactividad:** Videos que se bifurcan según las decisiones del espectador, generados dinámicamente.
 
 **Integración con realidad aumentada:** Avatares de IA en entornos de realidad aumentada y mixta.
 

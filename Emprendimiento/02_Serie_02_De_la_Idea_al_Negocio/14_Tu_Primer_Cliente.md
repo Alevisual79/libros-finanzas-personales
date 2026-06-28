@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos ha lanzado su página web, ha abierto perfiles en todas las redes sociales, ha diseñado su logo, ha escrito su plan de negocio, y lleva tres meses sin haber hablado con un solo cliente potencial. Lucia tuvo su primer cliente en la semana tres, no porque tuviera un producto perfecto sino porque fue a buscarlo en lugar de esperar a que llegará. Marcos tiene veinte años de relaciones profesionales y todavia no ha aprovechado ninguna para conseguir su primer cliente porque siente que pedirle a sus contactos que le compren algo le pone en una posición incomoda. El primer cliente no llega solo. Hay que ir a buscarlo. Y el proceso de buscarlo es el proceso que más directamente enseña si el negocio tiene futuro.
+Carlos ha lanzado su página web, ha abierto perfiles en todas las redes sociales, ha diseñado su logo, ha escrito su plan de negocio, y lleva tres meses sin haber hablado con un solo cliente potencial. Lucia tuvo su primer cliente en la semana tres, no porque tuviera un producto perfecto sino porque fue a buscarlo en lugar de esperar a que llegará. Marcos tiene veinte años de relaciones profesionales y todavía no ha aprovechado ninguna para conseguir su primer cliente porque siente que pedirle a sus contactos que le compren algo le pone en una posición incomoda. El primer cliente no llega solo. Hay que ir a buscarlo. Y el proceso de buscarlo es el proceso que más directamente enseña si el negocio tiene futuro.
 
 ---
 
@@ -27,7 +27,7 @@ El primero no es el que más paga. Es el que más enseña.
 
 La investigación de Paul Graham de Y Combinator sobre las startups que entran en su programa y las que salen con éxito muestra que la variable que más separa a las que tienen éxito de las que fracasan es la velocidad con que consiguen sus primeros clientes pagantes después del lanzamiento. Las que consiguen clientes en los primeros treinta dias de operación tienen significativamente mayor probabilidad de sobrevivir y prosperar.
 
-**Ejercicio inmediato:** Si todavia no tienes tu primer cliente, esta es tu prioridad uno por encima de cualquier otra cosa. Identifica a las diez personas de tu red que podrían ser tu cliente o conocer a alguien que podría serlo. Contacta a las diez esta semana con un mensaje específico: no un pitch generico sino una propuesta concreta de valor para esa persona específica. El primer cliente de la mayoría de los emprendedores viene de su red existente, no del marketing masivo.
+**Ejercicio inmediato:** Si todavía no tienes tu primer cliente, esta es tu prioridad uno por encima de cualquier otra cosa. Identifica a las diez personas de tu red que podrían ser tu cliente o conocer a alguien que podría serlo. Contacta a las diez esta semana con un mensaje específico: no un pitch generico sino una propuesta concreta de valor para esa persona específica. El primer cliente de la mayoría de los emprendedores viene de su red existente, no del marketing masivo.
 
 Todo lo demás que hagas antes de tu primer cliente pagante es preparación. El primer cliente es el negocio empezando de verdad.
 
@@ -83,7 +83,7 @@ Lucia ha aprendido que los noes del camino al primer cliente son los maestros m�
 
 Steli Efti propone que cada no de un potencial cliente es una oportunidad de aprendizaje si se hace la pregunta correcta: ¿por qué no? (en lugar de aceptar el no y irse). Las respuestas a esa pregunta frecuentemente revelan objeciones específicas (precio, timing, funcionalidad) que pueden resolverse, o problemas fundamentales del producto o del posicionamiento que necesitan ajuste.
 
-**Ejercicio inmediato:** Para los próximos diez noes que recibas de potenciales clientes (en cualquier formato: no al primer contacto, no a la propuesta, no al precio), práctica el seguimiento con una pregunta específica y no defensiva: ¿entiendo que no es el momento / que el precio no encaja / que la funcionalidad que necesitas no esta todavia disponible. Solo por aprender, podrías decirme cual es el factor principal que te ha llevado a esa decisión? Esa pregunta, hecha con genuina curiosidad y sin defensividad, produce retroalimentación de mayor calidad que cualquier encuesta post-venta.
+**Ejercicio inmediato:** Para los próximos diez noes que recibas de potenciales clientes (en cualquier formato: no al primer contacto, no a la propuesta, no al precio), práctica el seguimiento con una pregunta específica y no defensiva: ¿entiendo que no es el momento / que el precio no encaja / que la funcionalidad que necesitas no esta todavía disponible. Solo por aprender, podrías decirme cual es el factor principal que te ha llevado a esa decisión? Esa pregunta, hecha con genuina curiosidad y sin defensividad, produce retroalimentación de mayor calidad que cualquier encuesta post-venta.
 
 El no que analizas te enseña más sobre tu negocio que el si que celebras.
 

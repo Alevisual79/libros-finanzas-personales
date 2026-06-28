@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena tiene una teoria sobre por qué sus relaciones no funcionan: elige mal. Elige hombres que no estan disponibles, que no la valoran, que no la ven. Lo que Elena no ve todavia es que ella misma no se ve, no se valora y no está disponible para si misma.
+Elena tiene una teoria sobre por qué sus relaciones no funcionan: elige mal. Elige hombres que no estan disponibles, que no la valoran, que no la ven. Lo que Elena no ve todavía es que ella misma no se ve, no se valora y no está disponible para si misma.
 
 La relación que tienes contigo mismo no es una relación más. Es la relación que determina todas las demás.
 
@@ -35,7 +35,7 @@ Dos personas con baja autoestima entran en una relación. Cada una busca en la o
 
 Nathaniel Branden, psicologo que dedicó su vida al estudio de la autoestima, afirmo que la autoestima es el sistema inmune de la conciencia. Cuando funciona bien, da a la persona la resiliencia para hacer frente a los problemas de la vida. Cuando esta danicada, la menor presión relacional puede resultar devastadora.
 
-**Ejercicio inmediato:** En una escala del 1 al 10, como puntuarias tu autoestima en estas tres áreas: relaciones romanticas, amistades, trabajo. Los números distintos revelan que tu autoestima no es uniforme. Sube y baja segun el contexto. Eso es útil saber.
+**Ejercicio inmediato:** En una escala del 1 al 10, como puntuarias tu autoestima en estas tres áreas: relaciones romanticas, amistades, trabajo. Los números distintos revelan que tu autoestima no es uniforme. Sube y baja según el contexto. Eso es útil saber.
 
 La autoestima no es lo que dices de ti mismo. Es como te tratas cuando nadie mira.
 
@@ -91,7 +91,7 @@ Hay personas que saben dar pero no saben recibir. Cuando alguien les hace un reg
 
 Las investigaciones sobre reciprocidad relacional muestran que las relaciones más satisfactorias son aquellas en que ambas personas pueden tanto dar como recibir con igual comodidad. El desequilibrio en cualquier dirección genera tensión.
 
-**Ejercicio inmediato:** La próxima vez que alguien te haga un cumplido, en lugar de minimizarlo o desviarlo, di simplemente: gracias, eso significa mucho. Nada más. Observa la incomodidad que sientes al no relativizarlo. Esa incomodidad es el peso de la autoestima que todavia no has construido.
+**Ejercicio inmediato:** La próxima vez que alguien te haga un cumplido, en lugar de minimizarlo o desviarlo, di simplemente: gracias, eso significa mucho. Nada más. Observa la incomodidad que sientes al no relativizarlo. Esa incomodidad es el peso de la autoestima que todavía no has construido.
 
 Recibir con gracia es tan valioso como dar con generosidad.
 

@@ -39,7 +39,7 @@ Ruben cree que su perfeccionismo es responsable de la calidad de su trabajo. La 
 
 **El Principio de los Costes Documentados del Perfeccionismo Maladaptativo:** Los meta-análisis sobre perfeccionismo y rendimiento muestran que el perfeccionismo autoorientado se asocia con mayor procrastinación (porque iniciar un proyecto que podría no ser perfecto es amenazante), mayor ansiedad evaluativa, mayor tasa de abandono ante el primer obstaculo significativo, y paradojicamente, peor rendimiento a largo plazo que en los perfeccionistas adaptativos (que tienen altos estandares pero tolerancia funcional al error).
 
-Los costes del perfeccionismo se extienden más allá del rendimiento: el perfeccionismo se asocia con mayor depresión (especialmente después de fracasos percibidos), mayor ansiedad cronica, mayor agotamiento y burnout, deterioro en las relaciones (por las demandas excesivas sobre uno mismo y los demás), y menor bienestar general. Roz Shafran, investigadora clinica de Oxford, ha documentado ademas que el perfeccionismo extremo es un factor de mantenimiento de varios trastornos (ansiedad, depresión, trastornos alimentarios) porque el mismo mecanismo que produce el perfeccionismo amplifica y mantiene estos trastornos.
+Los costes del perfeccionismo se extienden más allá del rendimiento: el perfeccionismo se asocia con mayor depresión (especialmente después de fracasos percibidos), mayor ansiedad cronica, mayor agotamiento y burnout, deterioro en las relaciones (por las demandas excesivas sobre uno mismo y los demás), y menor bienestar general. Roz Shafran, investigadora clinica de Oxford, ha documentado además que el perfeccionismo extremo es un factor de mantenimiento de varios trastornos (ansiedad, depresión, trastornos alimentarios) porque el mismo mecanismo que produce el perfeccionismo amplifica y mantiene estos trastornos.
 
 **Ejercicio inmediato:** Calcula el coste real de tu perfeccionismo en las últimas dos semanas: cuantas horas adicionales has dedicado a pulir trabajos más allá del punto de rendimientos decrecientes, cuantas entregas has retrasado, cuantas veces has sentido ansiedad que habrías evitado con estandares más funcionales. Ese cálculo hace visible un coste que el perfeccionismo frecuentemente oculta.
 
@@ -83,7 +83,7 @@ Elena no entrega los informes tarde porque sea perezosa. Los entrega tarde porqu
 
 La paradoja es que la procrastinación perfeccionista frecuentemente produce resultados peores que habría producido la acción temprana (el tiempo comprimido al final fuerza más errores, produce mayor estrés, y resulta en trabajos menos elaborados de los que habría producido un inició temprano con tiempo de revisión). El perfeccionismo que busca la perfección a traves de la procrastinación frecuentemente produce lo opuesto.
 
-**Ejercicio inmediato:** Para una tarea que llevas posponiendo por perfeccionismo (todavia no estoy listo, necesito más preparación, no es el momento ideal), establece un inició inmediato en la forma más imperfecta posible: un borrador horrible, unos primeros párrafos sin editar, un esquema muy breve. El inició imperfecto rompe la paralisis y frecuentemente produce momentum que el esperar hasta estar listo nunca proporciona.
+**Ejercicio inmediato:** Para una tarea que llevas posponiendo por perfeccionismo (todavía no estoy listo, necesito más preparación, no es el momento ideal), establece un inició inmediato en la forma más imperfecta posible: un borrador horrible, unos primeros párrafos sin editar, un esquema muy breve. El inició imperfecto rompe la paralisis y frecuentemente produce momentum que el esperar hasta estar listo nunca proporciona.
 
 El proyecto perfecto que no empezas nunca será mejor que el proyecto imperfecto que empiezas hoy.
 
@@ -125,7 +125,7 @@ Elena trabaja en un campo donde la innovación es importante. No lo sabe pero su
 
 Ed Catmull, cofundador de Pixar, propone en Creatividad S.A. que la cultura de Pixar se basa en la idea de que los primeros borradores son inevitablemente malos y que la excelencia del producto final viene del proceso iterativo de mejora, no de intentar que el primer borrador sea perfecto. El proceso creativo requiere pasar por lo imperfecto para llegar a lo excelente.
 
-**Ejercicio inmediato:** En tu área de trabajo o creación, identifica una idea que has tenido pero no has desarrollado porque todavia no tienes claro como hacerlo perfectamente. Diseña un prototipo o borrador imperfecto de esa idea esta semana: el peor borrador posible. La imperfección del borrador es la condición del proceso iterativo que puede llevar a algo bueno.
+**Ejercicio inmediato:** En tu área de trabajo o creación, identifica una idea que has tenido pero no has desarrollado porque todavía no tienes claro como hacerlo perfectamente. Diseña un prototipo o borrador imperfecto de esa idea esta semana: el peor borrador posible. La imperfección del borrador es la condición del proceso iterativo que puede llevar a algo bueno.
 
 La mayoría de las grandes obras empezaron como borradores terribles. El perfeccionismo que impide el primer borrador impide también la obra grande.
 

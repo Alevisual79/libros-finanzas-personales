@@ -113,7 +113,7 @@ La investigación muestra que incluso en trabajos con poca autonomía formal, lo
 
 **Ejercicio inmediato:** Para tu trabajo actual, identifica: ¿con quien interactuas en tu trabajo (clientes, compañeros, usuarios) que te permite ver el impacto de lo que produces? Hacer más visible ese impacto (aunque sea a traves de un correo de agradecimiento de un cliente) es una forma de job crafting que no requiere cambiar el trabajo sino la forma en que lo ves.
 
-El trabajo que no tiene sentido para ti todavia puede tenerlo si cambias el ángulo desde el que lo ves. No siempre es posible. Pero más veces de lo que crees, si lo es.
+El trabajo que no tiene sentido para ti todavía puede tenerlo si cambias el ángulo desde el que lo ves. No siempre es posible. Pero más veces de lo que crees, si lo es.
 
 ---
 
@@ -135,9 +135,9 @@ La conectividad permanente que parece productividad es deuda de recuperación qu
 
 Ruben ha tenido períodos de salud mental muy deteriorada que han afectado a su trabajo. No ha hablado de ello con nadie por miedo al juicio.
 
-**El Principio de la Revelación Selectiva en el Entorno Laboral como Estrategia de Gestión:** La investigación de Diane Quinn y colegas sobre el estigma de la salud mental en el trabajo muestra que el nivel de estigma varia significativamente por cultura organizacional, sector, y pais. Hablar de la salud mental en el trabajo es un riesgo que puede producir apoyo o estigma segun el contexto.
+**El Principio de la Revelación Selectiva en el Entorno Laboral como Estrategia de Gestión:** La investigación de Diane Quinn y colegas sobre el estigma de la salud mental en el trabajo muestra que el nivel de estigma varia significativamente por cultura organizacional, sector, y pais. Hablar de la salud mental en el trabajo es un riesgo que puede producir apoyo o estigma según el contexto.
 
-La estrategia de revelación selectiva en el trabajo incluye: ¿evaluar la cultura del entorno (hay personas que han hablado de salud mental sin consecuencias negativas?), elegir con quien compartir (el jefe directo puede ser un aliado o un riesgo segun el caso), y pedir lo que se necesita de forma concreta (necesito reducir temporalmente mi carga de trabajo es más accionable que estoy pasandolo mal).
+La estrategia de revelación selectiva en el trabajo incluye: ¿evaluar la cultura del entorno (hay personas que han hablado de salud mental sin consecuencias negativas?), elegir con quien compartir (el jefe directo puede ser un aliado o un riesgo según el caso), y pedir lo que se necesita de forma concreta (necesito reducir temporalmente mi carga de trabajo es más accionable que estoy pasandolo mal).
 
 **Ejercicio inmediato:** Si la salud mental está afectando a tu rendimiento laboral, reflexiona: ¿quien en tu entorno laboral podría ser un aliado si compartieras lo que vives? No necesitas decirlo a todos. A veces una persona de confianza es suficiente para gestionar el entorno laboral durante un período de dificultad.
 

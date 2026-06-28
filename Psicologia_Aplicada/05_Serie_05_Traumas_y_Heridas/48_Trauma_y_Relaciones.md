@@ -81,7 +81,7 @@ Isabel ha notado que tiende a acabar en relaciones con dinámicas similares a la
 
 **El Principio de la Compulsión de Repetición como Búsqueda de Resolución:** La explicación contemporanea propone que el sistema nervioso tiene una tendencia a recrear situaciones familiares (aunque sean daninas) porque la familiaridad se siente como seguridad relativa: lo conocido, aunque duela, se sabe como navegar.
 
-Hay ademas una dinámica de búsqueda de resolución: el sistema puede repetir el patron como intento inconsciente de resolverlo esta vez de forma diferente. Pero sin trabajo deliberado en el patron, la repetición produce el mismo resultado porque el script interno permanece igual.
+Hay además una dinámica de búsqueda de resolución: el sistema puede repetir el patron como intento inconsciente de resolverlo esta vez de forma diferente. Pero sin trabajo deliberado en el patron, la repetición produce el mismo resultado porque el script interno permanece igual.
 
 **Ejercicio inmediato:** Mapea las dos o tres relaciones más importantes de tu vida adulta: ¿que patrones relacionales tenían en común? Comparalos con lo que recuerdas de los patrones relacionales de tu familia de origen. Las similitudes no son coincidencias: son el sistema reproduciendo lo conocido.
 

@@ -15,11 +15,11 @@
 
 ## Prólogo
 
-En una conversación típica, la mayoría de las personas no escuchan lo que dice el otro. Esperan su turno para hablar. Piensan en lo que van a responder mientras el otro todavia habla. Asienten con la cabeza como señal de que siguen ahí, aunque mentalmente esten en otro lugar.
+En una conversación típica, la mayoría de las personas no escuchan lo que dice el otro. Esperan su turno para hablar. Piensan en lo que van a responder mientras el otro todavía habla. Asienten con la cabeza como señal de que siguen ahí, aunque mentalmente esten en otro lugar.
 
 Escuchar parece facil porque es pasivo. En realidad es una de las habilidades más difíciles y más raras que existe.
 
-Elena lleva años quejandose de que nadie la escucha de verdad. Lo que todavia no ha visto es que ella tampoco escucha de verdad. Ruben cree que es buen oyente porque no interrumpe. Pero mientras el otro habla, Ruben ya está construyendo su respuesta. Isabel escucha los hechos pero rara vez escucha las emociones que hay detras.
+Elena lleva años quejandose de que nadie la escucha de verdad. Lo que todavía no ha visto es que ella tampoco escucha de verdad. Ruben cree que es buen oyente porque no interrumpe. Pero mientras el otro habla, Ruben ya está construyendo su respuesta. Isabel escucha los hechos pero rara vez escucha las emociones que hay detras.
 
 La escucha es el acto relacional más poderoso que existe. Y nadie nos ensena a hacerlo.
 
@@ -117,7 +117,7 @@ Elena tiene el hábito de llenar los silencios. Cuando hay una pausa en la conve
 
 Barbara Fredrickson, en su investigación sobre las conversaciones de alta calidad, identifico que las conversaciones con más silencios tolerados producian mayor intimidad y mayor satisfacción en ambas partes que las conversaciones con flujo verbal continuo. El silencio que se tolera crea espacio para lo que importa.
 
-**Ejercicio inmediato:** En tu próxima conversación importante, cuando el otro termine de hablar, cuenta internamente hasta tres antes de responder. Solo tres segundos. Observa con que frecuencia el otro anade algo en ese intervalo que no había dicho todavia, y que suele ser lo más importante.
+**Ejercicio inmediato:** En tu próxima conversación importante, cuando el otro termine de hablar, cuenta internamente hasta tres antes de responder. Solo tres segundos. Observa con que frecuencia el otro anade algo en ese intervalo que no había dicho todavía, y que suele ser lo más importante.
 
 El silencio que toleras es el espacio donde el otro encuentra lo que realmente quiere decir.
 
@@ -131,7 +131,7 @@ Cuando Ruben dice que todo está bien con su jefa pero su postura se cierra y su
 
 Daniel Stern llamó a esto la sintonización afectiva: la capacidad de resonar con el estado interno del otro más allá de las palabras que usa. Los terapeutas expertos, los padres atentos y las personas con alta inteligencia emocional tienen esta capacidad desarrollada. No es magia. Es atención entrenada.
 
-**Ejercicio inmediato:** En tu próxima conversación significativa, presta atención a dos cosas ademas de las palabras: el tono de voz y la postura corporal. Cuando detectes una incongruencia entre lo que se dice y cómo se dice, pregunta suavemente: ¿noto que algo más está pasando, estoy equivocado? La pregunta abre el segundo nivel de la conversación.
+**Ejercicio inmediato:** En tu próxima conversación significativa, presta atención a dos cosas además de las palabras: el tono de voz y la postura corporal. Cuando detectes una incongruencia entre lo que se dice y cómo se dice, pregunta suavemente: ¿noto que algo más está pasando, estoy equivocado? La pregunta abre el segundo nivel de la conversación.
 
 Las palabras dicen lo que el otro quiere decir. El cuerpo dice lo que siente.
 
@@ -169,7 +169,7 @@ La escucha no es un talento. Es una práctica. Y cada conversación es una oport
 
 La escucha es el acto relacional más poderoso que existe. Y nadie nos enseña a hacerlo.
 
-Elena empezó a practicar la escucha real después de leer este libro. La primera semana fue incomoda: descubrió cuantas veces su mente se había ido mientras el otro todavia hablaba. La segunda semana empezó a notar algo diferente: las personas a su alrededor hablaban más, compartian más, se quedaban más tiempo en la conversación.
+Elena empezó a practicar la escucha real después de leer este libro. La primera semana fue incomoda: descubrió cuantas veces su mente se había ido mientras el otro todavía hablaba. La segunda semana empezó a notar algo diferente: las personas a su alrededor hablaban más, compartian más, se quedaban más tiempo en la conversación.
 
 No había cambiado lo que decía. Habia cambiado como escuchaba. Eso fue suficiente para que todo lo demás cambiara.
 

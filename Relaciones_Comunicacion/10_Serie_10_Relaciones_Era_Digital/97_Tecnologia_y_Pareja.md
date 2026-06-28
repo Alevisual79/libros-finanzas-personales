@@ -45,13 +45,13 @@ El phubbing no es un comportamiento neutral o inocuo. Tiene un impacto medible e
 
 ## Capítulo 3: Reglas de pareja sobre tecnología
 
-Establecer acuerdos explícitos sobre el uso de tecnología dentro de la relación, en lugar de operar segun hábitos individuales no negociados, mejora significativamente la gestión de las tensiones que la tecnología puede generar.
+Establecer acuerdos explícitos sobre el uso de tecnología dentro de la relación, en lugar de operar según hábitos individuales no negociados, mejora significativamente la gestión de las tensiones que la tecnología puede generar.
 
 **El Principio de los Acuerdos Explicitos sobre Hábitos Implicitos:** Las parejas que gestionan mejor la tensión tecnologica son las que han negociado explicitamente reglas específicas (sin teléfonos durante las comidas, una hora límite de uso antes de dormir, espacios o momentos completamente libres de dispositivos) en lugar de simplemente continuar con hábitos individuales que nunca fueron conversados ni acordados conjuntamente.
 
 **Ejercicio inmediato:** Propone a tu pareja una conversación explícita para establecer dos o tres reglas específicas sobre el uso de tecnología en momentos compartidos.
 
-Las reglas tecnologicas explícitas y acordadas conjuntamente previenen mucho más conflicto que dejar que cada persona opere segun sus propios hábitos individuales no negociados.
+Las reglas tecnologicas explícitas y acordadas conjuntamente previenen mucho más conflicto que dejar que cada persona opere según sus propios hábitos individuales no negociados.
 
 ---
 

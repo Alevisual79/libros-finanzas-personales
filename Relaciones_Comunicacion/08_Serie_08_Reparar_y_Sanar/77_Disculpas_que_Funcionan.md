@@ -85,7 +85,7 @@ Algunas disculpas, aunque genuinas y bien formuladas, no son aceptadas inmediata
 
 **El Principio de la Disculpa como Ofrecimiento sin Garantia de Aceptación:** Ofrecer una disculpa genuina es responsabilidad de quien causo el daño. Aceptarla, o el tiempo que se necesita para procesarla antes de poder aceptarla, es responsabilidad y derecho de quien la recibe. Una disculpa bien hecha que no es aceptada inmediatamente no es necesariamente una disculpa fallida; puede ser una disculpa correcta que simplemente requiere más tiempo de procesamiento por parte de quien la recibe.
 
-**Ejercicio inmediato:** Si has ofrecido una disculpa genuina que no fue aceptada inmediatamente, evalua si tu disculpa cumplio los criterios de efectividad discutidos en este libro, y si es asi, da espacio al otro para procesarla en su propio tiempo, sin presionar por una aceptación inmediata.
+**Ejercicio inmediato:** Si has ofrecido una disculpa genuina que no fue aceptada inmediatamente, evalua si tu disculpa cumplio los criterios de efectividad discutidos en este libro, y si es así, da espacio al otro para procesarla en su propio tiempo, sin presionar por una aceptación inmediata.
 
 Una disculpa genuina no garantiza aceptación inmediata. Pero sigue siendo lo correcto de hacer, independientemente de cuanto tiempo el otro necesite para procesarla.
 
@@ -117,7 +117,7 @@ Disculparse repetidamente por lo mismo sin cambiar nunca el comportamiento ense�
 
 ## Capítulo 9: Disculpas por escrito vs en persona
 
-El formato elegido para ofrecer una disculpa (escrita o presencial) tiene implicaciones distintas que merecen consideración segun la naturaleza y la gravedad del daño que se busca reparar.
+El formato elegido para ofrecer una disculpa (escrita o presencial) tiene implicaciones distintas que merecen consideración según la naturaleza y la gravedad del daño que se busca reparar.
 
 **El Principio de la Adecuación del Formato a la Gravedad:** Las disculpas escritas permiten mayor reflexión y precisión en la formulación, pero carecen de la riqueza emocional y la oportunidad de respuesta inmediata que el formato presencial proporciona. Para daños significativos en relaciones que se valoran profundamente, la disculpa presencial generalmente comunica mayor inversión y vulnerabilidad genuina, aunque la disculpa escrita puede ser un complemento valioso o, en circunstancias donde el contacto presencial no es posible, una alternativa razonable.
 

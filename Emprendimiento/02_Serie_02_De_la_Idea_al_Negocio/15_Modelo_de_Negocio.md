@@ -153,7 +153,7 @@ Carlos ha llegado a entender que el modelo de negocio no es una decisión que se
 
 La investigación de Alex Osterwalder sobre las empresas que mejor gestionan la innovación del modelo de negocio muestra que tienen un proceso explícito de evaluación y revisión del modelo que ocurre al menos anualmente: ¿que partes del modelo funcionan mejor de lo esperado? ¿Cuales estan siendo cuestionadas por el mercado o por la competencia? ¿Donde hay oportunidades de mejorar la lógica del modelo?
 
-**Ejercicio inmediato:** Esta semana, dedica una hora a revisar tu modelo de negocio actual con el Business Model Canvas: ¿cuales de los nueve bloques estan funcionando mejor de lo esperado? ¿Cuales estan produciendo menos valor de lo que podrían? ¿Hay una opción de modeló alternativa que todavia no has probado y que merece un experimento? Esa hora de revisión anual del modelo puede producir más impacto en el crecimiento del negocio que semanas de mejora del producto.
+**Ejercicio inmediato:** Esta semana, dedica una hora a revisar tu modelo de negocio actual con el Business Model Canvas: ¿cuales de los nueve bloques estan funcionando mejor de lo esperado? ¿Cuales estan produciendo menos valor de lo que podrían? ¿Hay una opción de modeló alternativa que todavía no has probado y que merece un experimento? Esa hora de revisión anual del modelo puede producir más impacto en el crecimiento del negocio que semanas de mejora del producto.
 
 La empresa que no revisa su modelo de negocio cada año puede estar optimizando la ejecución del modelo equivocado.
 

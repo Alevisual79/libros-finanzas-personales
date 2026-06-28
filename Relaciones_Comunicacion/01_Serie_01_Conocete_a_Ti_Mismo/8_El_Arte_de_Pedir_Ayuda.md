@@ -31,7 +31,7 @@ Este libro es para las personas que son excelentes dando y no saben recibir. Par
 
 La primera vez que Miguel pidio ayuda en la escuela, el profesor lo señalo ante la clase como ejemplo de quien no había prestado atención. Miguel aprendió ese dia que pedir ayuda tiene consecuencias públicas. Desde entonces, cuando no sabe algo, busca la forma de resolverlo solo, aunque le lleve tres veces más tiempo.
 
-**El Principio del Aprendizaje de la Autosuficiencia:** No nos cuesta pedir ayuda porque seamos orgullosos o tercos. Nos cuesta porque en algun momento aprendimos que pedir tiene un coste: quedar en ridiculo, molestar al otro, deber algo, demostrar que no puedes. Esos aprendizajes varian segun la familia, la cultura y las experiencias específicas de cada persona. Pero el resultado es similar: la mayoría de adultos tiene una barrera más alta de lo necesario para pedir ayuda.
+**El Principio del Aprendizaje de la Autosuficiencia:** No nos cuesta pedir ayuda porque seamos orgullosos o tercos. Nos cuesta porque en algun momento aprendimos que pedir tiene un coste: quedar en ridiculo, molestar al otro, deber algo, demostrar que no puedes. Esos aprendizajes varian según la familia, la cultura y las experiencias específicas de cada persona. Pero el resultado es similar: la mayoría de adultos tiene una barrera más alta de lo necesario para pedir ayuda.
 
 Las investigaciones de Frank Flynn y Vanessa Lake sobre la solicitud de ayuda muestran que las personas consistentemente sobreestiman cuantas veces van a ser rechazadas cuando piden ayuda. En sus estudios, la tasa real de aceptación era entre dos y tres veces mayor de lo que los participantes esperaban.
 
@@ -45,7 +45,7 @@ La barrera para pedir ayuda es casi siempre más alta en tu cabeza que en la rea
 
 El curriculum de Isabel incluye treinta años resolviendo problemas que no eran suyos. también incluye treinta años de hipertensión, insomnio y esa fatiga de fondo que el descanso no arregla. Isabel llama a esto ser responsable. Su médico lo llama estrés cronico por sobrecarga.
 
-**El Principio del Coste de la Autosuficiencia Total:** La autosuficiencia es una virtud hasta que se convierte en un mecanismo de defensa. La persona que nunca pide ayuda no está siendo fuerte. Está siendo inflexible. Está pagando el coste de la sobrecarga sola cuando podría distribuirlo. Y ademas está privando a los demás del placer de ayudarla, que es un placer real y una parte importante de lo que hace que las relaciones se sientan reciprocas.
+**El Principio del Coste de la Autosuficiencia Total:** La autosuficiencia es una virtud hasta que se convierte en un mecanismo de defensa. La persona que nunca pide ayuda no está siendo fuerte. Está siendo inflexible. Está pagando el coste de la sobrecarga sola cuando podría distribuirlo. Y además está privando a los demás del placer de ayudarla, que es un placer real y una parte importante de lo que hace que las relaciones se sientan reciprocas.
 
 La autosuficiencia extrema también tiene un coste relacional: los demás se sienten excluidos, innecesarios, como si no te importaran lo suficiente para dejarlos entrar. Hay personas que interpretan la incapacidad de recibir del otro cómo una forma de rechazó.
 
@@ -73,7 +73,7 @@ Pedir ayuda no te expone. Te conecta.
 
 No todas las peticiones de ayuda son iguales ni deben ir a las mismas personas. Pedir prestado un libro a un conocido es diferente a pedirle que te escuche mientras lloras. Pedir a un compañero de trabajo que revise tu presentación es diferente a pedirle que sea tu confidente sobre el conflicto con tu jefe.
 
-**El Principio de la Calibración de la Petición:** Cada petición de ayuda debe calibrarse segun la profundidad de la relación y el tipo de ayuda requerida. Hay ayuda práctica (hacer algo), ayuda emocional (escuchar y acompañar), ayuda instrumental (recursos materiales), ayuda informativa (conocimiento o consejo) y ayuda de presencia (simplemente estar). No todo el mundo en tu vida puede ofrecer todos los tipos. No todo el mundo debería.
+**El Principio de la Calibración de la Petición:** Cada petición de ayuda debe calibrarse según la profundidad de la relación y el tipo de ayuda requerida. Hay ayuda práctica (hacer algo), ayuda emocional (escuchar y acompañar), ayuda instrumental (recursos materiales), ayuda informativa (conocimiento o consejo) y ayuda de presencia (simplemente estar). No todo el mundo en tu vida puede ofrecer todos los tipos. No todo el mundo debería.
 
 El investigador Robin Dunbar propone que los seres humanos tenemos capas concentrices de relaciones con distintos niveles de intimidad y confianza. La capa más interna, de cuatro a cinco personas, es la unica donde se puede pedir ayuda de los tipos más vulnerables. Ir más allá de esa capa con peticiones de alta vulnerabilidad produce incomodidad en ambas partes.
 
@@ -147,7 +147,7 @@ A veces pedimos y el otro no responde de la forma que esperabamos. O no responde
 
 Nedra Tawwab recomienda no hacer una unica petición y esperar. Si la petición es importante, vale la pena reformularla, ser más explícito sobre la necesidad, o buscar otras personas. La dependencia de que una sola persona responda a una necesidad es en si misma un tipo de dependencia problematica.
 
-**Ejercicio inmediato:** Piensa en una vez en que pediste ayuda y no la recibiste. ¿Que concluiste sobre el otro? Ahora pregúntate: ¿hay otras explicaciones posibles ademas del rechazó? ¿Cual es la más probable? La respuesta honesta suele reducir el dolor del no.
+**Ejercicio inmediato:** Piensa en una vez en que pediste ayuda y no la recibiste. ¿Que concluiste sobre el otro? Ahora pregúntate: ¿hay otras explicaciones posibles además del rechazó? ¿Cual es la más probable? La respuesta honesta suele reducir el dolor del no.
 
 La no-respuesta del otro no siempre habla de ti. Casi siempre habla de sus propios recursos y límites.
 
@@ -161,7 +161,7 @@ La red de apoyo no se construye el dia que la necesitas. Se construye en los per
 
 Las investigaciones de Nicholas Christakis y James Fowler muestran que la calidad de la red social de una persona tiene un impacto medible en su salud física y mental, su longevidad y su capacidad de recuperarse de adversidades. Una red de apoyo sólida no es un lujo social. Es un recurso de salud.
 
-**Ejercicio inmediato:** Identifica las tres personas a las que llamarias en una situación de crisis real. Si esas tres personas no existen todavia en tu vida, ese es el trabajo relacional más urgente que tienes. No para la crisis. Para construir la relación antes de que llegue.
+**Ejercicio inmediato:** Identifica las tres personas a las que llamarias en una situación de crisis real. Si esas tres personas no existen todavía en tu vida, ese es el trabajo relacional más urgente que tienes. No para la crisis. Para construir la relación antes de que llegue.
 
 La red de apoyo se construye cuando no la necesitas. Para cuando la necesites.
 

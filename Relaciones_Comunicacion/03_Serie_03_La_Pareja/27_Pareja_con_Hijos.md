@@ -91,7 +91,7 @@ Las discusiones sobre decisiones de crianza que ocurren delante de los hijos tie
 
 **El Principio de la Conversación Diferida:** Las parejas con mejores resultados en la gestión de desacuerdos de crianza tienen un acuerdo implícito o explícito: las decisiones de crianza que generan desacuerdo se discuten en privado, no delante de los hijos. Esto no significa fingir acuerdo total frente a los hijos, sino reservar la negociación del desacuerdo para un momento y lugar apropiados.
 
-**Ejercicio inmediato:** Acuerden una señal simple (una palabra o un gesto) que cualquiera de los dos pueda usar cuando sienta que un desacuerdo de crianza está escalando delante de los hijos, indicando lo hablamos después. Practiquen usarla la próxima vez que surja una situación asi.
+**Ejercicio inmediato:** Acuerden una señal simple (una palabra o un gesto) que cualquiera de los dos pueda usar cuando sienta que un desacuerdo de crianza está escalando delante de los hijos, indicando lo hablamos después. Practiquen usarla la próxima vez que surja una situación así.
 
 Los hijos no necesitan padres que nunca discrepan. Necesitan padres que resuelven sus discrepancias sin convertirlos en testigos del conflicto.
 
@@ -149,7 +149,7 @@ Los hijos crecen y cambian. La relación que los cria tiene que crecer y cambiar
 
 Elena y su pareja tuvieron a su primer hijo hace dos años. La caida en su satisfacción conyugal que experimentaron fue real, y durante meses se preguntaron si algo iba mal entre ellos. Lo que les ayudó no fue resolver el cansancio (eso no se resuelve, simplemente pasa con el tiempo). Fue entender que lo que estaban viviendo era predecible, nombrable y, sobre todo, temporal si lo trabajaban juntos.
 
-Hoy protegen treinta minutos cada noche, después de que su hijo se duerme, exclusivamente para hablar de ellos. No es mucho. Es suficiente para recordar que siguen siendo, ademas de padres, una pareja.
+Hoy protegen treinta minutos cada noche, después de que su hijo se duerme, exclusivamente para hablar de ellos. No es mucho. Es suficiente para recordar que siguen siendo, además de padres, una pareja.
 
 ---
 

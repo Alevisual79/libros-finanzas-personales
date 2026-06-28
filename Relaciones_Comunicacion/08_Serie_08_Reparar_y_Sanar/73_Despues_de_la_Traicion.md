@@ -61,7 +61,7 @@ Decidir con quien compartir la experiencia de haber sido traicionado, y en cuant
 
 **El Principio del Apoyo Selectivo y Consciente:** Compartir la experiencia de traición con personas de confianza genuina puede proporcionar apoyo emocional valioso y perspectiva útil, pero compartirla indiscriminadamente, especialmente en contextos públicos o con personas que tienen relación con quien traiciono, puede generar complicaciones adicionales que merece considerarse antes de decidir.
 
-**Ejercicio inmediato:** Identifica específicamente con quien te gustaria compartir tu experiencia de traición para obtener apoyo genuino, y evalua conscientemente los límites de esa revelación segun el contexto y la relación de esa persona con la situación.
+**Ejercicio inmediato:** Identifica específicamente con quien te gustaria compartir tu experiencia de traición para obtener apoyo genuino, y evalua conscientemente los límites de esa revelación según el contexto y la relación de esa persona con la situación.
 
 Compartir tu dolor con quien puede sostenerlo es sanador. Compartirlo indiscriminadamente puede complicar más la situación de lo que ayuda.
 
@@ -85,7 +85,7 @@ Más allá de decidir que hacer con la relación específica donde ocurrio la tr
 
 **El Principio de la Reconstrucción de la Capacidad de Confiar:** Una traición significativa puede generalizar su impacto hacía una dificultad más amplia de confiar en otras relaciones, incluso aquellas no relacionadas con la traición específica. Reconstruir esta capacidad requiere trabajo deliberado: reconocer que no toda persona traicionara de la misma forma, y practicar gradualmente la vulnerabilidad apropiada en nuevas relaciones de confianza.
 
-**Ejercicio inmediato:** Reflexiona si tu experiencia de traición ha generalizado hacía una dificultad más amplia de confiar en otras relaciones no relacionadas. Si es asi, considera trabajar específicamente en esa generalización, posiblemente con apoyo profesional.
+**Ejercicio inmediato:** Reflexiona si tu experiencia de traición ha generalizado hacía una dificultad más amplia de confiar en otras relaciones no relacionadas. Si es así, considera trabajar específicamente en esa generalización, posiblemente con apoyo profesional.
 
 Una traición en una relación específica no tiene que convertirse en la imposibilidad de confiar en todas las demás relaciones de tu vida.
 

@@ -137,7 +137,7 @@ Ruben quiere influir en el comportamiento de sus clientes de forma ética. El nu
 
 **El Principio del Nudge como Influencia a traves del Diseno del Entorno que Preserva la Elección:** Richard Thaler y Cass Sunstein proponen el concepto de nudge (empujon): un cambio en la arquitectura de la elección que influye el comportamiento de forma predecible sin prohibir opciones ni cambiar los incentivos económicos significativamente. El nudge prototipico es la opción por defecto: en los sistemas de ahorro para la jubilación, poner la inscripción como opción por defecto (en lugar de la no-inscripción) aumenta la participación del 49% al 86% en los estudios de Thaler.
 
-Los nudges son éticos, segun Thaler y Sunstein, cuando son transparentes (se puede saber que hay un nudge), cuando benefician al sujeto (no solo al diseñador), y cuando preservan la posibilidad de optar por la alternativa.
+Los nudges son éticos, según Thaler y Sunstein, cuando son transparentes (se puede saber que hay un nudge), cuando benefician al sujeto (no solo al diseñador), y cuando preservan la posibilidad de optar por la alternativa.
 
 **Ejercicio inmediato:** En tu entorno (hogar, trabajo, relaciones), identifica tres oportunidades de nudge ético: ¿donde podrías diseñar la opción por defecto para que el comportamiento más probable sea el que produces el mejor resultado para las personas involucradas? La opción de comida saludable que se coloca primero en el menu, el ahorro automático que requiere acción para cancelarse, la tarea importante que se programa en el calendario por defecto.
 

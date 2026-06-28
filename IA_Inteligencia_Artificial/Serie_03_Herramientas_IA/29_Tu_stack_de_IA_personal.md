@@ -15,7 +15,7 @@
 
 ## Prólogo: La trampa de la herramienta nueva
 
-Ruben pasaba cada semana viendo newsletters sobre nuevas herramientas de IA. Cada semana había algo nuevo que era "revolucionario". Cada semana sentía que se estaba quedando atras.
+Ruben pasaba cada semana viendo newsletters sobre nuevas herramientas de IA. Cada semana había algo nuevo que era "revolucionario". Cada semana sentía que se estaba quedando atrás.
 
 El mentor lo paro: "¿Cuantas herramientas usas más de tres veces a la semana?" Ruben pensó. Cuatro o cinco. "Esas son tu stack. El resto es ruido."
 

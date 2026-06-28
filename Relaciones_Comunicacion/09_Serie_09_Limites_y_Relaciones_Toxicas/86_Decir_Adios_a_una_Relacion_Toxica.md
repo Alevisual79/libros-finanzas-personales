@@ -69,7 +69,7 @@ No todas las salidas de relaciones toxicas pueden ser graduales. Algunas requier
 
 ## Capítulo 5: El contacto cero: cuando es necesario
 
-La estrategia de eliminar completamente el contacto, conocida como contacto cero, es frecuentemente la herramienta más efectiva para situaciones de toxicidad severa, aunque su implementación práctica puede presentar desafios específicos segun el contexto de la relación.
+La estrategia de eliminar completamente el contacto, conocida como contacto cero, es frecuentemente la herramienta más efectiva para situaciones de toxicidad severa, aunque su implementación práctica puede presentar desafios específicos según el contexto de la relación.
 
 **El Principio del Contacto Cero como Protección Estructural:** El contacto cero elimina la oportunidad de que dinámicas manipuladoras se reactiven, de que el ciclo de idealización-devaluación se repita, y de que la persona en proceso de recuperación sea expuesta a intentos de reconciliación o manipulación que podrían descarrilar su proceso de sanación. Implementarlo requiere considerar todos los canales de contacto posible: teléfono, redes sociales, contactos en común.
 

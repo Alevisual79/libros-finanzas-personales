@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos ha pasado tres semanas eligiendo el nombre de su empresa y todavia no ha tomado una decisión. Lucia tiene un nombre que funciona pero una marca visual que no comunica lo que es el negocio. Marcos viene de corporaciones con marcas fuertes y sabe intuitivamente el valor que una buena marca añade, pero no sabe como construirla con los recursos limitados del emprendedor. Los tres necesitan entender algo fundamental: la marca no es el logo. No es el nombre. No es el color corporativo. La marca es la suma de todas las percepciones que el cliente tiene sobre el negocio, y el posicionamiento es la decisión sobre que espacio específico en la mente del cliente quieres ocupar.
+Carlos ha pasado tres semanas eligiendo el nombre de su empresa y todavía no ha tomado una decisión. Lucia tiene un nombre que funciona pero una marca visual que no comunica lo que es el negocio. Marcos viene de corporaciones con marcas fuertes y sabe intuitivamente el valor que una buena marca añade, pero no sabe como construirla con los recursos limitados del emprendedor. Los tres necesitan entender algo fundamental: la marca no es el logo. No es el nombre. No es el color corporativo. La marca es la suma de todas las percepciones que el cliente tiene sobre el negocio, y el posicionamiento es la decisión sobre que espacio específico en la mente del cliente quieres ocupar.
 
 ---
 
@@ -27,7 +27,7 @@ La marca más valiosa de tu negocio no esta en ninguna grafica. Esta en la mente
 
 La investigación de Kevin Lane Keller sobre el capital de marca (brand equity) muestra que las marcas con mayor valor son las que tienen mayor claridad de posicionamiento (los clientes saben exactamente lo que representan), mayor autenticidad (la marca refleja genuinamente los valores y la realidad del negocio), y mayor consistencia (la experiencia con la marca es predecible y coherente en todos los puntos de contacto).
 
-**Ejercicio inmediato:** Pregunta a cinco clientes actuales (o potenciales si todavia no tienes clientes) que tres palabras usarian para describir tu negocio si lo recomendaran a un amigo. Las palabras que escuchas son tu marca actual, la que existe en la mente de tus clientes. Comparala con las tres palabras que tu querrias que dijeran. La brecha entre lo que dicen y lo que quieres que digan es el trabajo de marca que tienes por hacer.
+**Ejercicio inmediato:** Pregunta a cinco clientes actuales (o potenciales si todavía no tienes clientes) que tres palabras usarian para describir tu negocio si lo recomendaran a un amigo. Las palabras que escuchas son tu marca actual, la que existe en la mente de tus clientes. Comparala con las tres palabras que tu querrias que dijeran. La brecha entre lo que dicen y lo que quieres que digan es el trabajo de marca que tienes por hacer.
 
 La marca que crees tener no importa. La que tienen en la mente tus clientes es la real.
 
@@ -41,7 +41,7 @@ Lucia ha aprendido que el posicionamiento no es lo que dices sobre tu empresa. E
 
 La investigación de Mark Ritson sobre el posicionamiento de marca muestra que las empresas con posicionamiento más claro (que puede articularse en una frase específica que diferencie al negocio de todos sus competidores) tienen mayor crecimiento de revenue, mayor retention de clientes, y mayor premium de precio que las de posicionamiento vago o no diferenciado.
 
-**Ejercicio inmediato:** Escribe tu declaración de posicionamiento en el formato clásico: para (cliente objetivo), (nombre del negocio) es el/la (categoría del producto o servicio) que (beneficio principal diferencial) porque (razón unica de creencia). Ejemplo: para empresas de servicios que crecen, (mi empresa) es la plataforma de gestión que más reduce el tiempo de gestión administrativa porque (tecnología específica o metodología unica). Si no puedes completar esa frase con especificidad genuina, el posicionamiento todavia no está claro.
+**Ejercicio inmediato:** Escribe tu declaración de posicionamiento en el formato clásico: para (cliente objetivo), (nombre del negocio) es el/la (categoría del producto o servicio) que (beneficio principal diferencial) porque (razón unica de creencia). Ejemplo: para empresas de servicios que crecen, (mi empresa) es la plataforma de gestión que más reduce el tiempo de gestión administrativa porque (tecnología específica o metodología unica). Si no puedes completar esa frase con especificidad genuina, el posicionamiento todavía no está claro.
 
 El posicionamiento vago no posiciona. Solo ocupa espacio que la competencia puede llenar con algo más específico.
 
@@ -139,7 +139,7 @@ Marcos ha aprendido que la marca externa es el reflejo de la cultura interna del
 
 La investigación de David Hatch sobre la congruencia entre la marca interna y externa muestra que las empresas donde los empleados entienden y creen en los valores de la marca produce experiencias de cliente significativamente más coherentes y más satisfactorias que las donde los valores de la marca son un documento que nadie lee.
 
-**Ejercicio inmediato:** Pregunta a cada miembro de tu equipo (si tienes uno) que tres palabras usarian para describir la cultura del negocio internamente. Compara esas palabras con las tres palabras que quieres que tus clientes asocien con la marca externamente. La coherencia entre las dos respuestas es el nivel de autenticidad de la marca. La brecha es el trabajo de cultura que todavia tienes por hacer.
+**Ejercicio inmediato:** Pregunta a cada miembro de tu equipo (si tienes uno) que tres palabras usarian para describir la cultura del negocio internamente. Compara esas palabras con las tres palabras que quieres que tus clientes asocien con la marca externamente. La coherencia entre las dos respuestas es el nivel de autenticidad de la marca. La brecha es el trabajo de cultura que todavía tienes por hacer.
 
 La marca que no se cree internamente no puede creerse externamente. El cliente siente la diferencia aunque no sepa articularla.
 

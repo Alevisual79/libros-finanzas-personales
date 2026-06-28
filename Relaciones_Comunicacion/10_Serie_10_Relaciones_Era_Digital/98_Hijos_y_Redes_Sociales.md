@@ -35,7 +35,7 @@ El cerebro adolescente no es simplemente menos disciplinado con las redes social
 
 La investigación específica sobre plataformas centradas en imagen, como Instagram, muestra efectos particularmente significativos en la autoestima y la imagen corporal de usuarios adolescentes, datos que han generado preocupación pública y regulatoria significativa.
 
-**El Principio del Impacto Documentado en Población Vulnerable:** Investigaciones internas de las propias plataformas, asi como estudios independientes, han documentado correlaciones entre el uso intensivo de Instagram y otras plataformas centradas en imagen con mayor insatisfacción corporal, ansiedad, y en algunos casos sintomas depresivos en usuarios adolescentes, particularmente entre adolescentes mujeres.
+**El Principio del Impacto Documentado en Población Vulnerable:** Investigaciones internas de las propias plataformas, así como estudios independientes, han documentado correlaciones entre el uso intensivo de Instagram y otras plataformas centradas en imagen con mayor insatisfacción corporal, ansiedad, y en algunos casos sintomas depresivos en usuarios adolescentes, particularmente entre adolescentes mujeres.
 
 **Ejercicio inmediato:** Si tienes hijos adolescentes que usan plataformas centradas en imagen, observa y conversa con ellos sobre cómo se sienten después de usarlas, sin asumir automáticamente que el impacto es positivo o neutral.
 

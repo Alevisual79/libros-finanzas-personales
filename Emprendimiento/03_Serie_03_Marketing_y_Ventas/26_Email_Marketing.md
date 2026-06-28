@@ -27,7 +27,7 @@ El email tiene cuarenta años de historia. Su poder de conversión sigue sin riv
 
 La razón de ese rendimiento es el permissión marketing de Seth Godin: el suscriptor de email ha optado activamente por recibir comunicación del negocio, lo que produce una atención y una disposición a la compra muy superiores a los de un consumidor expuesto a publicidad que no ha pedido. El suscriptor que abre el email lo hace porque quiere.
 
-**Ejercicio inmediato:** Si todavia no tienes una lista de email, calcula cuanto valdría para tu negocio: si una lista de mil suscriptores cualificados (personas que han expresado interés en el problema que tu negocio resuelve) tiene una tasa de conversión del 1% a clientes, eso son diez clientes potenciales. Multiplica diez clientes por el valor promedio de un cliente tuyo. Eso es el valor potencial de una lista de mil suscriptores. Esa cifra es lo que tu negocio deja sobre la mesa cada mes que pasa sin construirla.
+**Ejercicio inmediato:** Si todavía no tienes una lista de email, calcula cuanto valdría para tu negocio: si una lista de mil suscriptores cualificados (personas que han expresado interés en el problema que tu negocio resuelve) tiene una tasa de conversión del 1% a clientes, eso son diez clientes potenciales. Multiplica diez clientes por el valor promedio de un cliente tuyo. Eso es el valor potencial de una lista de mil suscriptores. Esa cifra es lo que tu negocio deja sobre la mesa cada mes que pasa sin construirla.
 
 Los seguidores en redes sociales son tuyos mientras el algoritmo quiera. Los suscriptores de email son tuyos para siempre.
 

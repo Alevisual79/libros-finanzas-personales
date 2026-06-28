@@ -105,7 +105,7 @@ El proposito que suena bien pero no lo sientes cuando lo dices no es el tuyo. El
 
 ## Capítulo 7: La visión a largo plazo: como pensar en décadas cuando el negocio existe desde meses
 
-Lucia ha aprendido a mirar al largo plazo aunque su empresa todavia sea nueva.
+Lucia ha aprendido a mirar al largo plazo aunque su empresa todavía sea nueva.
 
 **El Principio de la Visión a Largo Plazo como Necesaria desde el Inicio aunque el Negocio sea Pequeño porque Determina las Decisiones que Construyen (o No) la Empresa Que Quieres Ser:** Jeff Bezos propuso la distinción entre las decisiones de hoy (las que tienen efecto en el trimestre o el año) y las decisiones del mañana (las que tienen efecto en los próximos cinco o diez años). Para construir una empresa de largo plazo, se necesita dedicar tiempo explícito a las segundas aunque las primeras sean más urgentes.
 
@@ -121,11 +121,11 @@ El negocio pequeño que piensa en grande crece diferente del que piensa en peque
 
 Marcos ha tenido que aprender a comunicar su visión de tal forma que sus empleados y clientes puedan creer en ella antes de que sea una realidad.
 
-**El Principio de la Comunicación de la Visión como Arte de hacer que Otros Vean y Crean lo que Todavia No Existe con Suficiente Claridad para Actuar en Consecuencia:** Jim Collins y Jerry Porras proponen el concepto del BHAG (Big Hairy Audacious Goal, el objetivo grande atrevido y auditivo) cómo la visión más efectiva para movilizar a un equipo: lo suficientemente grande para inspirar, lo suficientemente concreta para entenderse, y lo suficientemente alcanzable (aunque sea difícil) para no parecer utopica.
+**El Principio de la Comunicación de la Visión como Arte de hacer que Otros Vean y Crean lo que Todavía No Existe con Suficiente Claridad para Actuar en Consecuencia:** Jim Collins y Jerry Porras proponen el concepto del BHAG (Big Hairy Audacious Goal, el objetivo grande atrevido y auditivo) cómo la visión más efectiva para movilizar a un equipo: lo suficientemente grande para inspirar, lo suficientemente concreta para entenderse, y lo suficientemente alcanzable (aunque sea difícil) para no parecer utopica.
 
 La investigación de Priya Parker sobre la facilitación de grupos muestra que las visiones se comparten mejor a traves de historias que a traves de declaraciones abstractas: la historia de un cliente cuya vida cambio gracias al producto de la empresa comunica la visión de una forma que las declaraciones de misión no pueden igualar.
 
-**Ejercicio inmediato:** Articula la visión de tu empresa a traves de una historia específica: ¿quien es la persona específica cuya vida o negocio sería diferente en diez años si tu empresa hubiera hecho bien su trabajo? ¿Que sería diferente en su vida? Esa historia específica (no la declaración abstracta de la visión) es lo que hace que los demás puedan ver y creer en lo que todavia no existe.
+**Ejercicio inmediato:** Articula la visión de tu empresa a traves de una historia específica: ¿quien es la persona específica cuya vida o negocio sería diferente en diez años si tu empresa hubiera hecho bien su trabajo? ¿Que sería diferente en su vida? Esa historia específica (no la declaración abstracta de la visión) es lo que hace que los demás puedan ver y creer en lo que todavía no existe.
 
 La visión que no puede contarse como historia no puede inspirar como visión. Las historias mueven a la gente. Las declaraciones no.
 

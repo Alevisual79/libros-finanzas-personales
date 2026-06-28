@@ -17,7 +17,7 @@
 
 Elena tiene treinta y cuatro años y no ha hecho un amigo nuevo en cinco años. No es timida. Tiene una vida social activa con las personas que ya conoce. Pero nadie le explico nunca que hacer amigos de adulto requiere un tipo de esfuerzo intencional que en la infancia y la adolescencia ocurria automáticamente, simplemente por estar en el mismo lugar todos los dias durante años.
 
-Hacer amigos en la edad adulta es, segun multiples estudios, significativamente más difícil que en cualquier otra etapa de la vida. Y entender por qué lo es resulta el primer paso para poder hacerlo de todos modos.
+Hacer amigos en la edad adulta es, según multiples estudios, significativamente más difícil que en cualquier otra etapa de la vida. Y entender por qué lo es resulta el primer paso para poder hacerlo de todos modos.
 
 ---
 

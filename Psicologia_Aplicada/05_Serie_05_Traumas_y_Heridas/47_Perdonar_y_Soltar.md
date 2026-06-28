@@ -83,7 +83,7 @@ Ruben carga también con acciones propias que no ha podido perdonarse.
 
 La investigación de June Tangney muestra que la culpa funcional facilita la reparación y el aprendizaje, mientras que la vergüenza intensa y el autopunimiento excesivo interfieren con el cambio real.
 
-**Ejercicio inmediato:** Identifica una acción pasada propia que todavia cargas con remordimiento intenso. Distingue entre la culpa funcional (eso estuvo mal, aprendi algo) y la condena permanente (soy una persona horrible por eso). Solo la primera es útil.
+**Ejercicio inmediato:** Identifica una acción pasada propia que todavía cargas con remordimiento intenso. Distingue entre la culpa funcional (eso estuvo mal, aprendi algo) y la condena permanente (soy una persona horrible por eso). Solo la primera es útil.
 
 El error que no puedes perdonarte tampoco te permite aprender de el completamente. El autoperdon es la condición del crecimiento.
 
@@ -139,7 +139,7 @@ Ruben ha avanzado en el perdon pero hay algo más que necesita: soltar el apego 
 
 Soltar no es resignación ni es declarar que lo que ocurrio estuvo bien. Es el reconocimiento de que la pelea mental contra lo que ya ocurrio consume energía que podría usarse para el presente.
 
-**Ejercicio inmediato:** Identifica algo del pasado que todavia produces tensión mental. práctica la afirmación de aceptación radical: esto ocurrio. Fue doloroso e injusto. No puedo cambiarlo. Pero puedo elegir como relacionarme con ello desde ahora.
+**Ejercicio inmediato:** Identifica algo del pasado que todavía produces tensión mental. práctica la afirmación de aceptación radical: esto ocurrio. Fue doloroso e injusto. No puedo cambiarlo. Pero puedo elegir como relacionarme con ello desde ahora.
 
 Soltar no es rendirse a la injusticia. Es elegir no vivir encadenado al pasado que ya no puedes cambiar.
 

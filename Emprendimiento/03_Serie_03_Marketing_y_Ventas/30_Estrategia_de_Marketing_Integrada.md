@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Carlos tiene blog, newsletter, LinkedIn, un funnel de ventas, y un programa de referidos. Cada uno funciona de forma aislada. Lucia usa cada canal segun le apetece en cada momento y sin un plan coherente. Marcos ha aprendido todo lo que hay que saber sobre cada canal de marketing por separado pero no sabe como conectarlos en un sistema que trabaje de forma coordinada. Los tres han llegado al mismo punto en su aprendizaje de marketing: conocen las piezas pero no saben como montarlas. Una estrategia de marketing integrada no es usar todos los canales al mismo tiempo. Es usar los canales correctos de forma coordinada para guiar al cliente potencial por todo el proceso de decisión.
+Carlos tiene blog, newsletter, LinkedIn, un funnel de ventas, y un programa de referidos. Cada uno funciona de forma aislada. Lucia usa cada canal según le apetece en cada momento y sin un plan coherente. Marcos ha aprendido todo lo que hay que saber sobre cada canal de marketing por separado pero no sabe como conectarlos en un sistema que trabaje de forma coordinada. Los tres han llegado al mismo punto en su aprendizaje de marketing: conocen las piezas pero no saben como montarlas. Una estrategia de marketing integrada no es usar todos los canales al mismo tiempo. Es usar los canales correctos de forma coordinada para guiar al cliente potencial por todo el proceso de decisión.
 
 ---
 
@@ -41,9 +41,9 @@ Lucia ha aprendido que la estrategia integrada empieza con un mensaje central cl
 
 La investigación de Corporate Executive Board muestra que el mensaje de marketing más efectivo no es el que comunica las características del producto o incluso los beneficios funcionales, sino el que conecta con la identidad o los valores del cliente potencial (este negocio entiende quien soy y lo que me importa).
 
-**Ejercicio inmediato:** Escribe el mensaje central de tu negocio en tres niveles de profundidad: en diez palabras (el titular de tu web, el headline de tu LinkedIn), en cincuenta palabras (el párrafo de introducción de tu propuesta), y en doscientas palabras (la historia completa de por qué existes y para quien). Los tres niveles deben comunicar exactamente la misma esencia, adaptada a la longitud disponible. Si no puedes articularlos de forma coherente, el mensaje central todavia no esta suficientemente claro.
+**Ejercicio inmediato:** Escribe el mensaje central de tu negocio en tres niveles de profundidad: en diez palabras (el titular de tu web, el headline de tu LinkedIn), en cincuenta palabras (el párrafo de introducción de tu propuesta), y en doscientas palabras (la historia completa de por qué existes y para quien). Los tres niveles deben comunicar exactamente la misma esencia, adaptada a la longitud disponible. Si no puedes articularlos de forma coherente, el mensaje central todavía no esta suficientemente claro.
 
-El mensaje que cambia segun el canal comunica que no hay un mensaje. Hay una colección de mensajes sin coherencia.
+El mensaje que cambia según el canal comunica que no hay un mensaje. Hay una colección de mensajes sin coherencia.
 
 ---
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ha tenido cuatro jefes en cinco años. Segun su propio relato, todos eran malos de alguna forma específica: uno demasiado controlador, otro demasiado ausente, otro injusto, otro incompetente. El unico denominador común en las cuatro situaciones es Ruben mismo, lo cual no significa que los jefes fueran necesariamente buenos, sino que merece la pena examinar que parte de la dinámica relacional el mismo estaba contribuyendo a crear o a sostener.
+Ruben ha tenido cuatro jefes en cinco años. Según su propio relato, todos eran malos de alguna forma específica: uno demasiado controlador, otro demasiado ausente, otro injusto, otro incompetente. El unico denominador común en las cuatro situaciones es Ruben mismo, lo cual no significa que los jefes fueran necesariamente buenos, sino que merece la pena examinar que parte de la dinámica relacional el mismo estaba contribuyendo a crear o a sostener.
 
 ---
 

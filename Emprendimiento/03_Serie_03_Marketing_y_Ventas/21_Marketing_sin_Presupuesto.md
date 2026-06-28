@@ -27,7 +27,7 @@ El emprendedor que espera tener presupuesto para hacer marketing nunca empieza.
 
 La investigación de Jay Conrad Levinson sobre el marketing de guerrilla muestra que las empresas con presupuestos limitados que consiguen tracción tienen en común la claridad del mensaje (saben exactamente a quien se dirigen y que problema resuelven), la consistencia (comunican ese mensaje con regularidad en el lugar donde esta su audiencia), y la creatividad (encuentran formas de ser relevantes sin dinero).
 
-**Ejercicio inmediato:** Define tu mensaje de marketing en una frase de veinte palabras o menos: para quienes es tu producto o servicio, que problema específico resuelve, y que resultado específico produce. Si no puedes hacerlo en veinte palabras, el mensaje todavia no es lo suficientemente claro. Un mensaje claro puede comunicarse sin presupuesto. Un mensaje vago no puede mejorarse con presupuesto.
+**Ejercicio inmediato:** Define tu mensaje de marketing en una frase de veinte palabras o menos: para quienes es tu producto o servicio, que problema específico resuelve, y que resultado específico produce. Si no puedes hacerlo en veinte palabras, el mensaje todavía no es lo suficientemente claro. Un mensaje claro puede comunicarse sin presupuesto. Un mensaje vago no puede mejorarse con presupuesto.
 
 El marketing que no funciona sin dinero tampoco funciona con dinero. Solo fracasa más caro.
 
@@ -111,7 +111,7 @@ Carlos ha empezado a construir su lista de email y ha descubierto que es el acti
 
 Seth Godin fue el primero en articularar la importancia del permissión marketing: el marketing basado en el permiso del cliente (el email opt-in) es más efectivo porque el receptor ha indicado activamente que le interesa recibir comunicación de la marca.
 
-**Ejercicio inmediato:** Si todavia no tienes una lista de email, crea esta semana un lead magnet (un recurso gratuito de valor genuino para tu audiencia objetivo que se entrega a cambio del email): una checklist, una guia, una plantilla, o un mini-curso de cinco dias por email. Coloca el formulario de suscripción en un lugar visible de tu web. Comunica la existencia del lead magnet en tu red de contactos y en tu red social principal. El objetivo de la primera semana es conseguir los primeros veinticinco suscriptores.
+**Ejercicio inmediato:** Si todavía no tienes una lista de email, crea esta semana un lead magnet (un recurso gratuito de valor genuino para tu audiencia objetivo que se entrega a cambio del email): una checklist, una guia, una plantilla, o un mini-curso de cinco dias por email. Coloca el formulario de suscripción en un lugar visible de tu web. Comunica la existencia del lead magnet en tu red de contactos y en tu red social principal. El objetivo de la primera semana es conseguir los primeros veinticinco suscriptores.
 
 La lista de email que creces con permiso es la que te pertenece. Los seguidores en redes sociales son prestados.
 

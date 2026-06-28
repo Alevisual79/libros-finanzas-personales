@@ -23,7 +23,7 @@ Ruben ha notado algo en las personas que conoce que atraviesan las dificultades 
 
 La resiliencia no es algo que se tiene o no se tiene. Es algo que se hace.
 
-**El Principio de la Resiliencia como Resultado de Procesos, no de Rasgos Fijos:** George Bonanno, uno de los investigadores de resiliencia más citados, propone que la resiliencia no es un rasgo de personalidad fijo sino el resultado de un conjunto de procesos adaptativos que se pueden aprender. Sus investigaciones longitudinales con personas que han sufrido perdidas y traumas muestran que la capacidad de recuperación es altamente variable incluso en la misma persona segun el contexto y los recursos disponibles.
+**El Principio de la Resiliencia como Resultado de Procesos, no de Rasgos Fijos:** George Bonanno, uno de los investigadores de resiliencia más citados, propone que la resiliencia no es un rasgo de personalidad fijo sino el resultado de un conjunto de procesos adaptativos que se pueden aprender. Sus investigaciones longitudinales con personas que han sufrido perdidas y traumas muestran que la capacidad de recuperación es altamente variable incluso en la misma persona según el contexto y los recursos disponibles.
 
 Ann Masten, investigadora de Minnesota que lleva décadas estudiando la resiliencia en niños, propone que la resiliencia emerge de lo que llama magia ordinaria: no de capacidades extraordinarias sino de la activación de sistemas adaptativos ordinarios como las relaciones de apoyo, la regulación emocional, la eficacia propia, y el sentido de significado.
 
@@ -161,7 +161,7 @@ La resiliencia que construyes cuando no la necesitas es la que tienes cuando si 
 
 ## Epílogo
 
-Ruben miro su lista de hábitos mentales de resiliencia y reconoció algo: ya tenía algunos. La flexibilidad cognitiva, había llegado a ella por las malas. La orientación al aprendizaje, la había desarrollado en los fracasos. Las relaciones de apoyo, había invertido en ellas sin saber exactamente por qué. No partia de cero. Partia de una base que había construido a traves de los años, en gran parte sin darse cuenta. Lo que podía hacer ahora era hacerlo más deliberado. Conocer lo que tenía y cultivarlo. Y en lo que todavia le faltaba, empezar ahora, en calma, antes de que la próxima tormenta llegará.
+Ruben miro su lista de hábitos mentales de resiliencia y reconoció algo: ya tenía algunos. La flexibilidad cognitiva, había llegado a ella por las malas. La orientación al aprendizaje, la había desarrollado en los fracasos. Las relaciones de apoyo, había invertido en ellas sin saber exactamente por qué. No partia de cero. Partia de una base que había construido a traves de los años, en gran parte sin darse cuenta. Lo que podía hacer ahora era hacerlo más deliberado. Conocer lo que tenía y cultivarlo. Y en lo que todavía le faltaba, empezar ahora, en calma, antes de que la próxima tormenta llegará.
 
 ---
 

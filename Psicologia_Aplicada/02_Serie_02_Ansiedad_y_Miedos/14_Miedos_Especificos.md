@@ -105,7 +105,7 @@ Una fobia que llevas años evitando puede tratarse en una tarde. Eso no es una p
 
 ## Capítulo 7: El papel de la cognición en las fobias: creencias que alimentan el miedo
 
-Elena sabe que el avion es el medio de transporte más seguro estadisticamente. Sabe que la probabilidad de accidente es mínima. Y aun asi tiene panico. El conocimiento intelectual no extingue el miedo condicionado.
+Elena sabe que el avion es el medio de transporte más seguro estadisticamente. Sabe que la probabilidad de accidente es mínima. Y aun así tiene panico. El conocimiento intelectual no extingue el miedo condicionado.
 
 **El Principio de la Disociación entre Saber y Sentir:** La principal frustration de las personas con fobias específicas es saber que su miedo es irracional sin poder cambiarlo por esa razón. Esto ocurre porque el circuito del miedo amigdalar opera en paralelo a (y más rápido que) el procesamiento cortical que produce el conocimiento racional. Saber que el avion es seguro no borra la asociación amigdalar aprendida. Solo la exposición repetida al estímulo sin el resultado temido produce esa extinción.
 

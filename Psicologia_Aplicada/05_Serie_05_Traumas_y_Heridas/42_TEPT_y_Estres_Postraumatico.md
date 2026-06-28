@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena fue en un accidente de coche hace dos años. Fisicamente se recupero sin secuelas. Pero hay cosas que no han vuelto a ser iguales: no puede ir de pasajera sin tensarse completamente, los frenazos bruscos la disparan, hay noches en que se despierta con el corazón acelerado reviviendo el impacto. Su médico le dijo que era normal después de un accidente. Pero dos años después, las mismas reacciones siguen presentes con casi la misma intensidad. No se trata de que sea debil o de que no haya intentado superarlo. Se trata de que su sistema nervioso todavia no ha procesado completamente lo que ocurrio, y que ese procesamiento no ocurre automáticamente con el paso del tiempo.
+Elena fue en un accidente de coche hace dos años. Fisicamente se recupero sin secuelas. Pero hay cosas que no han vuelto a ser iguales: no puede ir de pasajera sin tensarse completamente, los frenazos bruscos la disparan, hay noches en que se despierta con el corazón acelerado reviviendo el impacto. Su médico le dijo que era normal después de un accidente. Pero dos años después, las mismas reacciones siguen presentes con casi la misma intensidad. No se trata de que sea debil o de que no haya intentado superarlo. Se trata de que su sistema nervioso todavía no ha procesado completamente lo que ocurrio, y que ese procesamiento no ocurre automáticamente con el paso del tiempo.
 
 ---
 
@@ -29,7 +29,7 @@ Judith Herman propone que estos sintomas no son patologia sino la respuesta adap
 
 **Ejercicio inmediato:** Si has vivido un evento traumático y reconoces sintomas persistentes de re-experimentación, evitación, alteraciones del humor, e hiperalerta que interfieren en tu funcionamiento diario, considera buscar evaluación profesional. El autodiagnostico no es suficiente pero el reconocimiento de los sintomas es el primer paso para buscar ayuda específica.
 
-Los sintomas del TEPT no son señales de que algo esta mal en ti. Son señales de que algo le paso a tu sistema nervioso que todavia no ha podido procesar completamente.
+Los sintomas del TEPT no son señales de que algo esta mal en ti. Son señales de que algo le paso a tu sistema nervioso que todavía no ha podido procesar completamente.
 
 ---
 
@@ -67,7 +67,7 @@ Ruben ha oido hablar del EMDR con escepticismo: mover los ojos de un lado a otro
 
 **El Principio del EMDR como Procesamiento Acelerado de Información:** Francine Shapiro desarrollo el EMDR en 1987 observando que ciertos movimientos oculares reducian la intensidad del malestar asociado a pensamientos perturbadores. Desde entonces, el EMDR ha acumulado una cantidad sustancial de estudios controlados que muestran su eficacia para el TEPT, con meta-análisis que lo muestran comparable a la terapia cognitivo-conductual y en algunos estudios más rápido.
 
-El mecanismo propuesto, aunque todavia debatido, se centra en la estimulación bilateral (no necesariamente visual: puede ser auditiva o tactil) que activa un proceso de procesamiento de información similar al que ocurre durante el sueño REM. Se propone que este proceso facilita la integración de la memoria traumática fragmentada en redes de memoria más amplias y contextualizadas, reduciendo su carga emocional sin borrar el recuerdo.
+El mecanismo propuesto, aunque todavía debatido, se centra en la estimulación bilateral (no necesariamente visual: puede ser auditiva o tactil) que activa un proceso de procesamiento de información similar al que ocurre durante el sueño REM. Se propone que este proceso facilita la integración de la memoria traumática fragmentada en redes de memoria más amplias y contextualizadas, reduciendo su carga emocional sin borrar el recuerdo.
 
 **Ejercicio inmediato:** Si el EMDR es un enfoque que te atrae, busca información sobre el Instituto EMDR Espana u organizaciones similares en tu pais que pueden proporcionarte un directorio de terapeutas certificados. La certificación en EMDR requiere formación específica y supervisión clinica, lo que proporciona garantías sobre la calidad de la formación del profesional.
 
@@ -105,7 +105,7 @@ La medicación puede hacer los sintomas más manejables mientras el trabajo real
 
 ## Capítulo 7: El autocuidado en el TEPT: lo que puedes hacer mientras trabajas con un profesional
 
-Isabel esta en proceso de buscar terapeuta pero todavia no ha podido empezar. Mientras tanto, hay cosas que puede hacer para gestionar los sintomas de forma que no se deterioren.
+Isabel esta en proceso de buscar terapeuta pero todavía no ha podido empezar. Mientras tanto, hay cosas que puede hacer para gestionar los sintomas de forma que no se deterioren.
 
 **El Principio del Autocuidado como Soporte, no como Sustitución del Tratamiento:** La investigación sobre el manejo del TEPT identifica varias estrategias de autocuidado que pueden reducir la intensidad de los sintomas aunque no sustituyan el tratamiento específico: el ejercicio aerobico regular (que reduce la activación del sistema de estrés y mejora el sueño), el sueño de calidad (el sueño deteriorado amplifica todos los sintomas del TEPT), la reducción del alcohol y el cannabis (que frecuentemente se usan como automedication pero que a largo plazo aumentan los sintomas), las prácticas de regulación del sistema nervioso (respiración diafragmatica, mindfulness, relajación muscular progresiva), y el mantenimiento de conexiones sociales aunque la tendencia del TEPT sea el aislamiento.
 

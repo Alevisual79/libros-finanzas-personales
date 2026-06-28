@@ -43,7 +43,7 @@ Richard Lazarus, investigador del estrés y el afrontamiento, propone que la val
 
 **Ejercicio inmediato:** Para el fracaso o la dificultad más reciente que estas interpretando como amenaza (a tu imagen, tu competencia, o tus posibilidades), reformulalo como desafio: ¿que tendrías que aprender, desarrollar, o hacer de manera diferente para responder a este desafio? La reformulación de amenaza en desafio activa el sistema de aproximación en lugar del sistema de evitación.
 
-El fracaso que interpretas como demostración de lo que eres no tiene que serlo. Puede ser información sobre lo que todavia puedes aprender.
+El fracaso que interpretas como demostración de lo que eres no tiene que serlo. Puede ser información sobre lo que todavía puedes aprender.
 
 ---
 
@@ -69,7 +69,7 @@ Ruben está viviendo una crisis que le parece enorme en el presente. La perspect
 
 Daniel Kahneman distingue el yo experiencial (que siente el momento) del yo recordador (que construye la narrativa del pasado). La perspectiva temporal del reencuadre trabaja con el yo recordador: ¿como verias este momento desde el futuro? Esta pregunta reduce la intensidad emocional del presente al proporcionar un marcó más amplio.
 
-**Ejercicio inmediato:** Para la situación más difícil que estas atravesando ahora mismo, pregunta: ¿como vere esto dentro de cinco años? ¿Que probabilidad hay de que esto todavia importe tanto dentro de un año? Esta perspectiva no niega el dolor del presente pero reduce la sensación de que este momento es definitivo y permanente.
+**Ejercicio inmediato:** Para la situación más difícil que estas atravesando ahora mismo, pregunta: ¿como vere esto dentro de cinco años? ¿Que probabilidad hay de que esto todavía importe tanto dentro de un año? Esta perspectiva no niega el dolor del presente pero reduce la sensación de que este momento es definitivo y permanente.
 
 Casi nada de lo que hoy parece definitivo lo es. La perspectiva temporal lo revela casi siempre.
 
@@ -97,7 +97,7 @@ Ruben ha tenido miedo al fracaso toda su vida. El reencuadre del fracaso puede t
 
 La pedagogia del error de John Holt y otros investigadores del aprendizaje propone que el error es necesario en el proceso de aprendizaje, no un accidente que un sistema de aprendizaje bien diseñado evitaria. Las organizaciones de aprendizaje más avanzadas (como los sistemas de entrenamiento de pilotos) disenan deliberadamente situaciones de error controlado porque saben que el error es la fuente de aprendizaje más eficaz.
 
-**Ejercicio inmediato:** Para el fracaso más reciente que todavia te produce malestar, aplica el protocolo de aprendizaje del error: ¿que información específica proporciona este fracaso sobre lo que funcionó, lo que no funcionó, y lo que haría diferente? Esas tres preguntas transforman el fracaso de evento emocional en dato de aprendizaje.
+**Ejercicio inmediato:** Para el fracaso más reciente que todavía te produce malestar, aplica el protocolo de aprendizaje del error: ¿que información específica proporciona este fracaso sobre lo que funcionó, lo que no funcionó, y lo que haría diferente? Esas tres preguntas transforman el fracaso de evento emocional en dato de aprendizaje.
 
 El fracaso que procesas como información te hace más capaz. El que solo te hace sentir mal solo te hace sentir mal.
 
@@ -125,7 +125,7 @@ Elena ha llegado a asociar la incertidumbre con la amenaza. El reencuadre de la 
 
 Todd Kashdan, investigador de la curiosidad, propone que la tolerancia a la incertidumbre puede desarrollarse a traves de la práctica deliberada de la curiosidad: en lugar de buscar certeza sobre los resultados inciertos, explorar deliberadamente las posibilidades con actitud curiosa. La curiosidad y la ansiedad son respuestas incompatibles a la misma incertidumbre.
 
-**Ejercicio inmediato:** Para una incertidumbre actual importante, en lugar de preguntar que podría salir mal, pregunta que es posible que ocurra (incluyendo resultados positivos que todavia no puedes ver)? Este cambio de pregunta activa la apertura en lugar de la anticipación del peligro.
+**Ejercicio inmediato:** Para una incertidumbre actual importante, en lugar de preguntar que podría salir mal, pregunta que es posible que ocurra (incluyendo resultados positivos que todavía no puedes ver)? Este cambio de pregunta activa la apertura en lugar de la anticipación del peligro.
 
 La incertidumbre que ves como amenaza te paraliza. La que ves como posibilidad te moviliza. Los mismos hechos, experiencias completamente distintas.
 
@@ -161,7 +161,7 @@ La mente que solo puede ver desde un ángulo vive en un mundo más pequeño de l
 
 ## Epílogo
 
-Elena llevo semanas viendo su perfeccionismo cómo un fallo. Un dia, en lugar de criticarse por el retraso, se pregunto: ¿que estoy haciendo realmente cuando perfecciono? La respuesta honesta fue: protegiendo la integridad de lo que hago. Eso no era un defecto. Era un valor. El trabajo todavia se entregaba tarde. Pero la relación de Elena con esa tardanza había cambiado completamente. No desde la verguenza sino desde la comprensión. Y desde la comprensión, podía trabajar para que el valor y los plazos coexistieran, en lugar de solo flagelarse por no poder cambiar lo que era una parte genuina de quien era.
+Elena llevo semanas viendo su perfeccionismo cómo un fallo. Un dia, en lugar de criticarse por el retraso, se pregunto: ¿que estoy haciendo realmente cuando perfecciono? La respuesta honesta fue: protegiendo la integridad de lo que hago. Eso no era un defecto. Era un valor. El trabajo todavía se entregaba tarde. Pero la relación de Elena con esa tardanza había cambiado completamente. No desde la verguenza sino desde la comprensión. Y desde la comprensión, podía trabajar para que el valor y los plazos coexistieran, en lugar de solo flagelarse por no poder cambiar lo que era una parte genuina de quien era.
 
 ---
 

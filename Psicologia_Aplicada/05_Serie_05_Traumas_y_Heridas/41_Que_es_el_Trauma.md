@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben no cree haber tenido traumas. No ha vivido una guerra, no ha sufrido violencia física, no ha pasado por ninguna de las catastrofes que la cultura asocia con el trauma. Pero hay patrones en su vida que no entiende completamente: reacciones desproporcionadas en ciertos contextos, dificultad para confiar en ciertas personas, un nivel de alerta de fondo que parece excesivo para la tranquilidad objetiva de su vida actual. El trauma no es solo lo que ocurrio en escenarios extremos. Es cualquier experiencia que el sistema nervioso no pudo procesar completamente en su momento, y que sigue operando en el presente como si la amenaza todavia estuviera activa. Muchas más personas de las que creen tienen algo que procesar.
+Ruben no cree haber tenido traumas. No ha vivido una guerra, no ha sufrido violencia física, no ha pasado por ninguna de las catastrofes que la cultura asocia con el trauma. Pero hay patrones en su vida que no entiende completamente: reacciones desproporcionadas en ciertos contextos, dificultad para confiar en ciertas personas, un nivel de alerta de fondo que parece excesivo para la tranquilidad objetiva de su vida actual. El trauma no es solo lo que ocurrio en escenarios extremos. Es cualquier experiencia que el sistema nervioso no pudo procesar completamente en su momento, y que sigue operando en el presente como si la amenaza todavía estuviera activa. Muchas más personas de las que creen tienen algo que procesar.
 
 ---
 
@@ -71,7 +71,7 @@ Las cuatro respuestas son adaptativas en el contexto en que se activan: la lucha
 
 **Ejercicio inmediato:** Identifica cual de las cuatro respuestas (lucha, huida, paralisis, sumisión) es tu patron habitual en situaciones de amenaza o tensión intensa. Ese patron, que probablemente fue aprendido en contextos donde era la respuesta más adaptativa disponible, puede estar operando automáticamente en situaciones actuales donde ya no es la respuesta más funcional.
 
-La respuesta al trauma que aprendiste fue la mejor disponible en ese momento. El problema es que el momento ya paso y la respuesta todavia no lo sabe.
+La respuesta al trauma que aprendiste fue la mejor disponible en ese momento. El problema es que el momento ya paso y la respuesta todavía no lo sabe.
 
 ---
 
@@ -91,7 +91,7 @@ El trauma que no reconoces como trauma sigue operando. Solo que sin nombre, lo q
 
 ## Capítulo 6: El trauma y el sistema nervioso: por qué el tiempo no cura automáticamente
 
-Elena se pregunta por qué ciertas experiencias dolorosas de su pasado, aunque hayan pasado años, todavia tienen el poder de activarla intensamente. La respuesta tiene que ver con como el sistema nervioso almacena y procesa el trauma.
+Elena se pregunta por qué ciertas experiencias dolorosas de su pasado, aunque hayan pasado años, todavía tienen el poder de activarla intensamente. La respuesta tiene que ver con como el sistema nervioso almacena y procesa el trauma.
 
 **El Principio del Sistema Nervioso como Registro que Requiere Actualización:** Peter Levine propone que el trauma no es un recuerdo mental sino una respuesta fisiológica incompleta almacenada en el cuerpo. Cuando un animal en la naturaleza sobrevive a una amenaza, completa el ciclo de la respuesta de estrés a traves del movimiento (la lucha o la huida culminan en una acción) y luego descarga el exceso de activación a traves del temblor y otros mecanismos de regulación. Los seres humanos frecuentemente interrumpen este ciclo: en lugar de completar la respuesta fisiológica, inhiben el movimiento (por razones sociales, por las circunstancias, o porque la amenaza fue tan abrumadora que la respuesta activa no fue posible).
 
@@ -125,7 +125,7 @@ Ruben no tiene claridad sobre muchas de sus reacciones hasta que empieza a explo
 
 Más allá de la biología, el trauma se transmite a traves de patrones relacionales (como los padres traumatizados se relacionan con sus hijos), narrativos (las historias que se cuentan o que se silencian en las familias), y conductuales (los comportamientos de evitación, de hipercontrol, o de desconexion emocional que los padres traumatizados muestran y que los hijos aprenden).
 
-**Ejercicio inmediato:** Reflexiona sobre la historia de tu familia de origen. Hay eventos significativos de trauma en generaciones anteriores (guerras, migraciones forzadas, perdidas, violencia, pobreza extrema) que todavia tienen presencia en los patrones familiares actuales? La curiosidad sobre la historia familiar no es para culpar a generaciones anteriores sino para entender el contexto en que ciertos patrones se formaron.
+**Ejercicio inmediato:** Reflexiona sobre la historia de tu familia de origen. Hay eventos significativos de trauma en generaciones anteriores (guerras, migraciones forzadas, perdidas, violencia, pobreza extrema) que todavía tienen presencia en los patrones familiares actuales? La curiosidad sobre la historia familiar no es para culpar a generaciones anteriores sino para entender el contexto en que ciertos patrones se formaron.
 
 No heredas solo los genes de tu familia. A veces heredas también sus heridas. Reconocerlas es el primer paso de no pasarlas a la siguiente generación.
 
@@ -133,7 +133,7 @@ No heredas solo los genes de tu familia. A veces heredas también sus heridas. R
 
 ## Capítulo 9: El trauma no tratado: costes a largo plazo
 
-Isabel se pregunta si vale la pena abordar experiencias pasadas que ya han quedado atras. La investigación sobre los costes del trauma no tratado proporciona argumentos claros.
+Isabel se pregunta si vale la pena abordar experiencias pasadas que ya han quedado atrás. La investigación sobre los costes del trauma no tratado proporciona argumentos claros.
 
 **El Principio del Trauma como Factor de Riesgo para la Salud Física y Mental:** El estudio ACEs (Adverse Childhood Experiences) de Vincent Felitti y Robert Anda, uno de los estudios epidemiologicos más importantes sobre los efectos del trauma, documento que la exposición a experiencias adversas en la infancia (abuso, negligencia, violencia doméstica, disfunción familiar) se asocia de forma acumulativa con mayor riesgo de enfermedades físicas (enfermedades cardiovasculares, diabetes, cancer), trastornos mentales (depresión, ansiedad, adicciones), y mortalidad prematura. La relación es dosis-dependiente: a mayor número de experiencias adversas, mayor riesgo acumulado.
 

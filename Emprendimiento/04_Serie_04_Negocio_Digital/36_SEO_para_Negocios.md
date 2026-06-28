@@ -83,7 +83,7 @@ Lucia ha solucionado los problemas técnicos de su web y ha visto mejoras inmedi
 
 Google Search Console (una herramienta gratuita de Google) muestra los errores técnicos de la web que afectan al posicionamiento, incluyendo páginas que no se pueden rastrear, errores de indexación, y problemas de usabilidad movil.
 
-**Ejercicio inmediato:** Registra tu web en Google Search Console si todavia no lo has hecho (es gratuito y el proceso toma menos de quince minutos). Una vez registrada, revisa el informe de Experiencia de página (que muestra los Core Web Vitals, las metricas de rendimiento que Google usa para el ranking) y el informe de Cobertura (que muestra si hay páginas que Google no puede indexar correctamente). Soluciona los errores críticos que encuentres, priorizando los que afectan a más páginas.
+**Ejercicio inmediato:** Registra tu web en Google Search Console si todavía no lo has hecho (es gratuito y el proceso toma menos de quince minutos). Una vez registrada, revisa el informe de Experiencia de página (que muestra los Core Web Vitals, las metricas de rendimiento que Google usa para el ranking) y el informe de Cobertura (que muestra si hay páginas que Google no puede indexar correctamente). Soluciona los errores críticos que encuentres, priorizando los que afectan a más páginas.
 
 El problema técnico de SEO que no ves es el que impide que tu contenido de calidad aparezca donde debería aparecer.
 

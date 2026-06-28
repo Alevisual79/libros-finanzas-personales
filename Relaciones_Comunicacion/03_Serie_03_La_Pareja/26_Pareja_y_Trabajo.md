@@ -53,7 +53,7 @@ El trabajo excesivo casi nunca es solo sobre el trabajo. Es sobre lo que el trab
 
 Cuando ambos miembros de la pareja tienen carreras demandantes, el problema no es la falta de equilibrio individual sino la falta de tiempo conjunto que sobrevive a dos agendas saturadas.
 
-**El Principio de la Escasez Compartida de Tiempo:** Las parejas de doble carrera enfrentan un problema matemático ademas de uno emocional: el tiempo disponible para la relación es la intersección de dos calendarios saturados, no la suma. Esto significa que el tiempo de pareja real puede ser mínimo aunque ambos trabajen con dedicación y amor a su relación. La solución no es trabajar menos necesariamente, sino proteger activamente los espacios de intersección que existen.
+**El Principio de la Escasez Compartida de Tiempo:** Las parejas de doble carrera enfrentan un problema matemático además de uno emocional: el tiempo disponible para la relación es la intersección de dos calendarios saturados, no la suma. Esto significa que el tiempo de pareja real puede ser mínimo aunque ambos trabajen con dedicación y amor a su relación. La solución no es trabajar menos necesariamente, sino proteger activamente los espacios de intersección que existen.
 
 **Ejercicio inmediato:** Mira los calendarios de ambos esta semana. Identifica los bloques de tiempo en que ambos estan realmente disponibles (no solo presentes físicamente, sino sin trabajo pendiente). Si esos bloques son pocos o ninguno, ese es el primer problema a resolver, antes de cualquier conversación sobre la calidad del tiempo juntos.
 

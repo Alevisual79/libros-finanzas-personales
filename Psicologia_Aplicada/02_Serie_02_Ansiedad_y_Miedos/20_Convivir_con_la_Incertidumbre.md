@@ -51,7 +51,7 @@ Tu cerebro no busca certeza porque tiene razón en que la necesitas. La busca po
 
 Elena pasa horas buscando información para reducir la incertidumbre sobre una decisión médica importante. Cada pieza de información nueva que encuentra no resuelve la incertidumbre. Genera nuevas preguntas y nuevas fuentes de incertidumbre que requieren más búsqueda.
 
-**El Principio de la Espiral de Búsqueda de Certeza:** La búsqueda de certeza como respuesta a la ansiedad ante la incertidumbre produce el mismo ciclo que todas las conductas de seguridad: alivio temporal que refuerza la conducta, sin abordar el mecanismo subyacente. Ademas, en el caso específico de la búsqueda de información en la era digital, la abundancia de información disponible hace que la búsqueda produzca más material para la preocupación, no menos. Cada artículo que responde una pregunta plantea tres más, amplificando la sensación de incertidumbre en lugar de reducirla.
+**El Principio de la Espiral de Búsqueda de Certeza:** La búsqueda de certeza como respuesta a la ansiedad ante la incertidumbre produce el mismo ciclo que todas las conductas de seguridad: alivio temporal que refuerza la conducta, sin abordar el mecanismo subyacente. Además, en el caso específico de la búsqueda de información en la era digital, la abundancia de información disponible hace que la búsqueda produzca más material para la preocupación, no menos. Cada artículo que responde una pregunta plantea tres más, amplificando la sensación de incertidumbre en lugar de reducirla.
 
 Paul Salkovskis, cuya investigación sobre conductas de seguridad influyo en el tratamiento de multiples trastornos de ansiedad, propone que la reducción de las conductas de búsqueda de certeza (sin buscar más información, sin pedir más reaseguración, sin planificar más escenarios) es uno de los componentes terapéuticos más importantes para la ansiedad generalizada, porque permite que el sistema nervioso aprenda gradualmente que puede tolerar la incertidumbre sin la búsqueda compulsiva de certeza.
 
@@ -81,7 +81,7 @@ Isabel tiene la sensación de que necesita controlar más cosas de las que es po
 
 **El Principio de la Distinción entre Control Primario y Secundario:** Martin Seligman, en su investigación sobre la indefensión aprendida, y Ellen Langer, en su investigación sobre el control percibido, documentan la importancia del control percibido (la creencia de que se puede influir en los resultados) para el bienestar psicológico. Sin embargo, el control real sobre los resultados en la mayoría de las situaciones importantes de la vida es parcial, no total. El intento de control total produce ansiedad cronica cuando inevitablemente el control se pierde, y agotamiento por el esfuerzo de mantener el control percibido sobre sistemas que son parcialmente independientes.
 
-Raymond Niaura, investigador de la resiliencia de Brown University, propone la distinción entre control primario (cambiar el entorno para que se ajuste a las propias necesidades) y control secundario (ajustar las propias expectativas y actitudes para adaptarse al entorno cuando no puede cambiarse). Las personas más resilientes ante la incertidumbre desarrollan ambos tipos de control y saben cual aplicar segun la situación.
+Raymond Niaura, investigador de la resiliencia de Brown University, propone la distinción entre control primario (cambiar el entorno para que se ajuste a las propias necesidades) y control secundario (ajustar las propias expectativas y actitudes para adaptarse al entorno cuando no puede cambiarse). Las personas más resilientes ante la incertidumbre desarrollan ambos tipos de control y saben cual aplicar según la situación.
 
 **Ejercicio inmediato:** Para tu situación incierta más importante, distingue explicitamente: ¿que aspectos de esta situación puedo influir con mis acciones (control primario), y cuales estan genuinamente fuera de mi control? Para los primeros, actua. Para los segundos, práctica el control secundario: ajustar la actitud, las expectativas, y el nivel de apego al resultado específico.
 
@@ -161,7 +161,7 @@ La certeza perfecta es el precio de no actuar nunca. La incertidumbre gestionada
 
 ## Epílogo
 
-Isabel tomó la decisión. No sabía como iba a salir. Todavia no lo sabe completamente. Pero descubrió algo en el proceso que no había previsto: que la ansiedad ante la incertidumbre, que había vivido cómo una carga paralizante, podía coexistir con la acción cuando la acción era congruente con lo que le importaba. No había eliminado la incertidumbre. Habia cambiado su relación con ella. Y esa diferencia, que parece pequeña desde fuera, es la que separa una vida vivida de una vida esperada.
+Isabel tomó la decisión. No sabía como iba a salir. Todavía no lo sabe completamente. Pero descubrió algo en el proceso que no había previsto: que la ansiedad ante la incertidumbre, que había vivido cómo una carga paralizante, podía coexistir con la acción cuando la acción era congruente con lo que le importaba. No había eliminado la incertidumbre. Habia cambiado su relación con ella. Y esa diferencia, que parece pequeña desde fuera, es la que separa una vida vivida de una vida esperada.
 
 ---
 

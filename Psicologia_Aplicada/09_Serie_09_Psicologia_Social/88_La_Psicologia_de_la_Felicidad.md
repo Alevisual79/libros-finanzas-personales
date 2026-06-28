@@ -21,7 +21,7 @@ Elena persigue la felicidad de la manera en que la cultura le ha ensenado: más 
 
 ## Capítulo 1: El set point de la felicidad: por qué nos adaptamos a todo
 
-Elena recuerda haber pensado que cuando tuviera su propio piso sería más feliz de forma permanente. No fue exactamente asi.
+Elena recuerda haber pensado que cuando tuviera su propio piso sería más feliz de forma permanente. No fue exactamente así.
 
 **El Principio del Punto de Referencia Hedonico como Mecanismo que Produce Adaptación a la Mayoria de los Cambios de Circunstancias:** Philip Brickman y Donald Campbell propusieron el concepto de hedonic treadmill (rueda hedonica): la tendencia de los seres humanos a volver a un nivel de base de felicidad relativamente estable después de eventos positivos y negativos. Los estudios de Brickman sobre ganadores de la loteria y personas que habían sufrido lesiones que los dejaron en sillas de ruedas mostraron que, un año después de estos eventos extremos, ambos grupos reportaban niveles de felicidad similares a los reportados antes del evento.
 

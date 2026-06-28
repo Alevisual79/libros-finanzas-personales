@@ -37,9 +37,9 @@ Cuando cambias la situación y el comportamiento cambia, aprendes más sobre lo 
 
 Ruben ha notado que a veces trabaja mejor cuando hay otros cerca y a veces mucho peor. La investigación explica el patron.
 
-**El Principio de la Facilitación Social como Mejora del Rendimiento en Tareas Dominadas y Deterioro en Tareas No Dominadas con Audiencia:** Robert Zajonc propuso en 1965 una explicación unificada de los efectos contradictorios de la presencia de otros en el rendimiento: la presencia de otros produce arousal (activación fisiológica), que facilita las respuestas dominantes (las más automáticas y bien aprendidas) y interfiere con las no-dominantes (las que requieren esfuerzo cognitivo y que todavia no estan bien aprendidas).
+**El Principio de la Facilitación Social como Mejora del Rendimiento en Tareas Dominadas y Deterioro en Tareas No Dominadas con Audiencia:** Robert Zajonc propuso en 1965 una explicación unificada de los efectos contradictorios de la presencia de otros en el rendimiento: la presencia de otros produce arousal (activación fisiológica), que facilita las respuestas dominantes (las más automáticas y bien aprendidas) y interfiere con las no-dominantes (las que requieren esfuerzo cognitivo y que todavía no estan bien aprendidas).
 
-El resultado es que un tenista experto juega mejor en público que en privado (su respuesta dominante es la correcta) mientras que un aprendiz juega peor en público que en privado (su respuesta dominante es todavia el error). La misma audiencia produce efectos opuestos dependiendo del nivel de dominio de la tarea.
+El resultado es que un tenista experto juega mejor en público que en privado (su respuesta dominante es la correcta) mientras que un aprendiz juega peor en público que en privado (su respuesta dominante es todavía el error). La misma audiencia produce efectos opuestos dependiendo del nivel de dominio de la tarea.
 
 **Ejercicio inmediato:** Para las tareas donde tu rendimiento fluctua dependiendo de si hay otros presentes, reflexiona: ¿para cuales de estas tareas la presencia de otros mejora tu rendimiento (tareas bien dominadas) y para cuales lo empeora (tareas en aprendizaje)? Esa distinción te permite decidir cuando buscar contextos sociales para trabajar y cuando necesitas privacidad para aprender.
 

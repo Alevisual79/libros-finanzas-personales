@@ -97,7 +97,7 @@ Las dinámicas toxicas familiares presentan complejidad adicional debido a las e
 
 **El Principio de la Excepción Familiar como Obstaculo de Reconocimiento:** La creencia cultural de que la familia merece tratamiento diferente, más tolerante, que otras relaciones, frecuentemente impide el reconocimiento objetivo de patrones daniños cuando ocurren dentro del sistema familiar, generando una excepción que protege el daño en lugar de protege a la persona daniada.
 
-**Ejercicio inmediato:** Para una relación familiar que genera malestar consistente, intenta evaluarla como evaluarias cualquier otra relación, sin la excepción automática de es mi familia, asi que debo tolerarlo.
+**Ejercicio inmediato:** Para una relación familiar que genera malestar consistente, intenta evaluarla como evaluarias cualquier otra relación, sin la excepción automática de es mi familia, así que debo tolerarlo.
 
 La familia no merece automáticamente una excepción de los criterios que aplicarias a cualquier otra relación. El daño es daño, independientemente de quien lo cause.
 
@@ -111,7 +111,7 @@ Las dinámicas toxicas en el entorno laboral, ya sea con superiores, colegas o s
 
 **Ejercicio inmediato:** Si experimentas una dinámica laboral que sospechas es toxica, aplica los mismos criterios de reconocimiento discutidos en este libro, independientemente de si la salida inmediata es prácticamente posible en este momento.
 
-Reconocer una dinámica laboral como toxica es el primer paso, incluso cuando la salida inmediata no sea prácticamente posible todavia.
+Reconocer una dinámica laboral como toxica es el primer paso, incluso cuando la salida inmediata no sea prácticamente posible todavía.
 
 ---
 

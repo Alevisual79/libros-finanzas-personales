@@ -49,7 +49,7 @@ El freelance generalista que puede hacer todo tiene menos valor que el especiali
 
 ## Capítulo 3: Conseguir clientes como freelance: estrategias que funcionan para cada etapa
 
-Carlos ha aprendido que las estrategias de captación de clientes correctas cambian segun la etapa del freelancing.
+Carlos ha aprendido que las estrategias de captación de clientes correctas cambian según la etapa del freelancing.
 
 **El Principio de la Captación de Clientes del Freelance como Proceso Diferente en las Etapas de Inicio (Construir el Portfolio y la Reputación) Crecimiento (Generar Referidos y Alcance Orgánico) y Consolidación (Atraer Clientes Premium por Posicionamiento):** En la etapa de inició, las estrategias más efectivas son: la red personal (los primeros clientes suelen venir de personas que ya te conocen y confian en tu trabajo), las plataformas de freelancing (Malt, Upwork, o Fiverr para proyectos donde la plataforma ya tiene la demanda), y el outreach directo (contactar directamente a empresas o personas específicas con una propuesta relevante para su situación).
 

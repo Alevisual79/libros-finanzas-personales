@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel perdio a su madre hace ocho meses. Los primeros dos meses fueron de un dolor agudo que todos reconocian como duelo normal. A los tres meses, la expectativa implícita del entorno empezó a ser que ya debería estar mejor. A los seis, se sentía avergonzada de seguir sintiendose tan afectada. A los ocho, ha aprendido algo que nadie le ensenó: que el duelo no funciona segun el calendario de la comodidad de los demás, y que la tristeza que sigue siendo intensa no es señal de que algo este mal en ella. Es señal de que amo mucho a quien perdio.
+Isabel perdio a su madre hace ocho meses. Los primeros dos meses fueron de un dolor agudo que todos reconocian como duelo normal. A los tres meses, la expectativa implícita del entorno empezó a ser que ya debería estar mejor. A los seis, se sentía avergonzada de seguir sintiendose tan afectada. A los ocho, ha aprendido algo que nadie le ensenó: que el duelo no funciona según el calendario de la comodidad de los demás, y que la tristeza que sigue siendo intensa no es señal de que algo este mal en ella. Es señal de que amo mucho a quien perdio.
 
 ---
 
@@ -39,7 +39,7 @@ Ruben ha oido hablar de las cinco etapas del duelo de Elisabeth Kübler-Ross: ne
 
 **El Principio de las Etapas como Posibilidades, no como Secuencia Obligatoria:** Elisabeth Kübler-Ross desarrollo su modelo en 1969 basandose en su trabajo con pacientes terminales, no con personas en duelo por la perdida de otros. Las cinco etapas fueron propuestas como posibles estados emocionales que pueden experimentarse, no cómo una secuencia lineal obligatoria que todos deben seguir en ese orden.
 
-La investigación empírica posterior sobre el duelo (especialmente los estudios longitudinales de George Bonanno de Columbia y Holly Prigerson) muestra que el duelo es mucho más variable de lo que el modelo de las cinco etapas sugiere: muchas personas no experimentan todas las etapas, algunas no experimentan ninguna de forma claramente delimitada, el orden varia enormemente, y el regreso a etapas anteriores es habitual. Bonanno documenta ademas que la resiliencia ante la perdida (recuperación relativamente rápida del funcionamiento normal, sin negación del dolor) es más común de lo que se pensaba: entre el 35% y el 65% de las personas muestran este patron.
+La investigación empírica posterior sobre el duelo (especialmente los estudios longitudinales de George Bonanno de Columbia y Holly Prigerson) muestra que el duelo es mucho más variable de lo que el modelo de las cinco etapas sugiere: muchas personas no experimentan todas las etapas, algunas no experimentan ninguna de forma claramente delimitada, el orden varia enormemente, y el regreso a etapas anteriores es habitual. Bonanno documenta además que la resiliencia ante la perdida (recuperación relativamente rápida del funcionamiento normal, sin negación del dolor) es más común de lo que se pensaba: entre el 35% y el 65% de las personas muestran este patron.
 
 **Ejercicio inmediato:** Liberate del calendario del duelo. Si tu duelo no sigue las cinco etapas en ese orden o a la velocidad que el entorno espera, eso no significa que tu duelo este mal. Significa que eres humano con un patron de duelo propio. La pregunta útil no es ¿estoy en la etapa correcta? sino ¿puedo funcionar en mi vida aunque con dificultad, y tengo apoyo para el proceso?
 
@@ -49,13 +49,13 @@ Tu duelo no tiene obligación de seguir ninguna secuencia. Solo tiene que ser ho
 
 ## Capítulo 3: Duelo complicado: cuando el dolor se ataca
 
-Isabel conoce a alguien cuya madre murio hace tres años y que todavia no puede hablar de ella sin desmoronarse, que ha reducido significativamente su vida social y profesional, y que no parece estar avanzando en absoluto. Esto es diferente del duelo normal extendido. Hay un punto donde el duelo requiere atención profesional específica.
+Isabel conoce a alguien cuya madre murio hace tres años y que todavía no puede hablar de ella sin desmoronarse, que ha reducido significativamente su vida social y profesional, y que no parece estar avanzando en absoluto. Esto es diferente del duelo normal extendido. Hay un punto donde el duelo requiere atención profesional específica.
 
 **El Principio del Duelo Complicado como Distinción Clinica:** El Duelo Complicado (también llamado Duelo Prolongado o Trastorno de Duelo Prolongado, incluido en el DSM-5-TR) se distingue del duelo normal por su duración, su intensidad, y el nivel de interferencia funcional que produce. Los criterios incluyen: intensidad de anhelo por la persona perdida que no disminuye con el tiempo (al menos doce meses después de la perdida en adultos), dificultad para aceptar la perdida, amargura o ira sobre la perdida, dificultad para comprometerse con actividades o relaciones, y significativa interferencia funcional.
 
 Holly Prigerson y sus colegas han documentado que el duelo complicado es un síndrome distinto de la depresión y la ansiedad, con correlatos neurobiologicos propios y que responde mejor a tratamientos específicos para el duelo (cómo la Terapia de Duelo Complicado de Shear y colaboradores) que a los tratamientos estandar para la depresión.
 
-**Ejercicio inmediato:** Si llevas más de doce meses desde una perdida significativa y todavia el duelo interfiere significativamente en tu funcionamiento diario, considera buscar un psicologo con formación específica en duelo complicado. El duelo que no progresa no es señal de amor más profundo. Es señal de que el proceso necesita apoyo específico que las relaciones de apoyo, aunque necesarias, no pueden proporcionar solas.
+**Ejercicio inmediato:** Si llevas más de doce meses desde una perdida significativa y todavía el duelo interfiere significativamente en tu funcionamiento diario, considera buscar un psicologo con formación específica en duelo complicado. El duelo que no progresa no es señal de amor más profundo. Es señal de que el proceso necesita apoyo específico que las relaciones de apoyo, aunque necesarias, no pueden proporcionar solas.
 
 El duelo que no se mueve en absoluto durante mucho tiempo merece atención profesional, igual que una herida física que no cicatriza.
 
@@ -113,7 +113,7 @@ La investigación muestra que la duración y la intensidad del duelo no son un i
 
 **Ejercicio inmediato:** Suelta la idea de que tu duelo debería durar un tiempo específico o seguir una curva específica para ser considerado apropiado. La pregunta funcional no es cuanto dura sino si progresa de alguna forma (aunque lentamente y con retrocesos) o si esta completamente estancado. El progreso lento es normal. El estancamiento completo durante muchos meses merece atención.
 
-Tu duelo no tiene fecha de vencimiento. Y quien diga que si probablemente no ha perdido nada que le importe todavia.
+Tu duelo no tiene fecha de vencimiento. Y quien diga que si probablemente no ha perdido nada que le importe todavía.
 
 ---
 
@@ -161,7 +161,7 @@ La tristeza que se deja existir pasa. La que se reprime permanece.
 
 ## Epílogo
 
-Isabel puede hablar de su madre ahora sin desmoronarse. No siempre, no en todos los contextos. Pero si puede decir su nombre, recordar momentos que la hacen reir todavia, y sentir la tristeza de su ausencia sin que esa tristeza sea todo lo que siente. No ha superado la perdida. La ha integrado. Y hay una diferencia entre las dos cosas que solo quien ha perdido algo verdaderamente importante puede entender.
+Isabel puede hablar de su madre ahora sin desmoronarse. No siempre, no en todos los contextos. Pero si puede decir su nombre, recordar momentos que la hacen reir todavía, y sentir la tristeza de su ausencia sin que esa tristeza sea todo lo que siente. No ha superado la perdida. La ha integrado. Y hay una diferencia entre las dos cosas que solo quien ha perdido algo verdaderamente importante puede entender.
 
 ---
 

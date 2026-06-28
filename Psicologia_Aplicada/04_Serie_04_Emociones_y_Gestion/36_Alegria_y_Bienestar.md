@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben tiene todo lo que debería hacerle feliz segun los estandares culturales: trabajo estable, relación de pareja, salud, amigos. Y sin embargo hay dias en que se levanta con la sensación de que le falta algo, una chispa que no sabe bien como encender. Cuando busca en internet encuentra la presión del positivismo obligatorio: siente gratitud, sonrie más, piensa en positivo. Esos consejos le producen el efecto contrario: le hacen sentir que su falta de alegria constante es un fallo personal adicional al que ya tenía. Este libro propone algo diferente: que la alegria genuina no se fabrica con optimismo forzado sino que se cultiva entendiendo como funciona y creando las condiciones en que puede aparecer.
+Ruben tiene todo lo que debería hacerle feliz según los estandares culturales: trabajo estable, relación de pareja, salud, amigos. Y sin embargo hay dias en que se levanta con la sensación de que le falta algo, una chispa que no sabe bien como encender. Cuando busca en internet encuentra la presión del positivismo obligatorio: siente gratitud, sonrie más, piensa en positivo. Esos consejos le producen el efecto contrario: le hacen sentir que su falta de alegria constante es un fallo personal adicional al que ya tenía. Este libro propone algo diferente: que la alegria genuina no se fabrica con optimismo forzado sino que se cultiva entendiendo como funciona y creando las condiciones en que puede aparecer.
 
 ---
 
@@ -137,7 +137,7 @@ Isabel quiere alegria no solo en momentos especiales sino de fondo, cómo una co
 
 **El Principio del Bienestar Basal como Resultado de Hábitos:** Sonja Lyubomirsky propone que el nivel basal de bienestar está determinado por tres factores: el punto de ajuste genético (aproximadamente el 50% de la varianza), las circunstancias de vida (aproximadamente el 10%), y las actividades y hábitos deliberados (aproximadamente el 40%). El mayor margen de cambio esta en los hábitos elegidos deliberadamente.
 
-Los hábitos que la investigación muestra más consistentemente asociados con mayor bienestar basal incluyen: actividad física regular (efectos sobre el humor comparables a algunos antidepresivos segun meta-análisis de Craft y Perna), sueño de calidad suficiente, conexión social frecuente, actividades de contribución a otros, y práctica de mindfulness.
+Los hábitos que la investigación muestra más consistentemente asociados con mayor bienestar basal incluyen: actividad física regular (efectos sobre el humor comparables a algunos antidepresivos según meta-análisis de Craft y Perna), sueño de calidad suficiente, conexión social frecuente, actividades de contribución a otros, y práctica de mindfulness.
 
 **Ejercicio inmediato:** Identifica el hábito de los mencionados que más consistentemente esta ausente en tu vida actual. Solo uno. El más urgente. Diseña la versión más pequeña posible que puedas implementar mañana: no la versión ideal sino la versión mínima viable.
 

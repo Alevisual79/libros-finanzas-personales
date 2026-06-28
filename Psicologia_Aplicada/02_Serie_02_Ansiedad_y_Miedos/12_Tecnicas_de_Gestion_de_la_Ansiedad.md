@@ -29,7 +29,7 @@ David Barlow, fundador del Centro de Ansiedad y Trastornos Relacionados de Bosto
 
 **Ejercicio inmediato:** Evalua las técnicas de manejo de ansiedad que ya usas: ¿son principalmente paliativas (reducen el malestar temporal) o también incluyen alguna técnica de cambio (exposición a lo temido, cuestionamiento de creencias ansiosas)? Si son principalmente paliativas, este libro añade el componente que falta.
 
-Gestionar la ansiedad es diferente de cambiarla. Ambas cosas tienen valor, pero en proporciones distintas segun lo que necesitas.
+Gestionar la ansiedad es diferente de cambiarla. Ambas cosas tienen valor, pero en proporciones distintas según lo que necesitas.
 
 ---
 
@@ -149,7 +149,7 @@ La medicación no es renunciar a gestionarlo. Para ciertos niveles de ansiedad, 
 
 Elena ha leido sobre muchas técnicas. El reto ahora es integrarlas en un plan coherente que funcione para su tipo específico de ansiedad y su contexto específico de vida.
 
-**El Principio del Plan Multimodal Personalizado:** La investigación sobre tratamiento de la ansiedad muestra que las intervenciones multimodales (que abordan los componentes fisiológico, cognitivo y conductual de la ansiedad) son más efectivas que las uninodales. Pero la combinación optima varia entre individuos segun el tipo de ansiedad, su severidad, los factores de mantenimiento específicos, y los recursos y preferencias de la persona.
+**El Principio del Plan Multimodal Personalizado:** La investigación sobre tratamiento de la ansiedad muestra que las intervenciones multimodales (que abordan los componentes fisiológico, cognitivo y conductual de la ansiedad) son más efectivas que las uninodales. Pero la combinación optima varia entre individuos según el tipo de ansiedad, su severidad, los factores de mantenimiento específicos, y los recursos y preferencias de la persona.
 
 Un plan personal de gestión de la ansiedad podría incluir: una técnica de regulación fisiológica para episodios agudos (respiración diafragmatica, técnica 5-4-3-2-1 de grounding), una práctica regular de exposición graduada a las situaciones evitadas, un hábito de ejercicio aerobico como base fisiológica, y posiblemente práctica de mindfulness o trabajo con un terapeuta para los componentes cognitivos más persistentes. La clave es la consistencia en el tiempo, no la perfección en cada sesión.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel tiene cuarenta y dos años y todavia pierde el sueño por cosas que hizo a los veinte. Una decisión que le parecio bien en ese momento y que resultado mal. Una cosa que dijo en una discusión que no debería haber dicho. Un período de vida en que fue una persona que hoy no reconoce como si misma. La culpa y la verguenza la tienen encadenada a versiones del pasado con una fuerza que no guarda ninguna proporción con el daño real de lo que ocurrio. Y eso encadenamiento, que siente como honestidad moral, en realidad no la hace mejor persona. Solo la hace más miserable.
+Isabel tiene cuarenta y dos años y todavía pierde el sueño por cosas que hizo a los veinte. Una decisión que le parecio bien en ese momento y que resultado mal. Una cosa que dijo en una discusión que no debería haber dicho. Un período de vida en que fue una persona que hoy no reconoce como si misma. La culpa y la verguenza la tienen encadenada a versiones del pasado con una fuerza que no guarda ninguna proporción con el daño real de lo que ocurrio. Y eso encadenamiento, que siente como honestidad moral, en realidad no la hace mejor persona. Solo la hace más miserable.
 
 ---
 
@@ -65,7 +65,7 @@ La verguenza que se comparte con alguien que responde con empatia pierde la mita
 
 Ruben siente verguenza por cosas que, cuando las analiza objetivamente, no habría evaluado como problematicas si le hubieran pasado a otra persona. La desproporción entre el juicio sobre si mismo y el juicio sobre otros le señala que hay un estandar interno que no fue elegido sino aprendido.
 
-**El Principio de la Culpa y la Vergüenza como Construcciones Culturales y Familiares:** Aunque la capacidad de sentir culpa y verguenza parece universal en todas las culturas, los contenidos específicos (que produce culpa, que produce verguenza, con que intensidad) varian enormemente segun la cultura y la familia de origen. Ruth Benedict distinguio entre culturas de la culpa (donde la transgresión de normas internas produce culpa independientemente de si otros la ven) y culturas de la verguenza (donde la evaluación negativa de otros es la fuente primaria de la emoción moral), aunque esta distinción binaria ha sido refinada por investigación posterior.
+**El Principio de la Culpa y la Vergüenza como Construcciones Culturales y Familiares:** Aunque la capacidad de sentir culpa y verguenza parece universal en todas las culturas, los contenidos específicos (que produce culpa, que produce verguenza, con que intensidad) varian enormemente según la cultura y la familia de origen. Ruth Benedict distinguio entre culturas de la culpa (donde la transgresión de normas internas produce culpa independientemente de si otros la ven) y culturas de la verguenza (donde la evaluación negativa de otros es la fuente primaria de la emoción moral), aunque esta distinción binaria ha sido refinada por investigación posterior.
 
 A nivel familiar, los mensajes sobre que merece verguenza o culpa se transmiten tempranamente a traves de la reacción de los padres ante los errores del niño, los temas que nunca se hablan, y las normas implícitas sobre que aspectos del yo son aceptables o inaceptables. Estos mensajes, internalizados antes de la capacidad de evaluarlos crítica, determinan en gran medida los patrones adultos de culpa y verguenza.
 
@@ -77,13 +77,13 @@ El código moral con el que te juzgas en la intimidad fue programado cuando eras
 
 ## Capítulo 5: El perdon de si mismo: por qué es tan difícil y como practicarlo
 
-Isabel sabe intelectualmente que debería perdonarse por las cosas del pasado que todavia la producen culpa y verguenza. Pero el perdon de si misma parece mucho más difícil que el perdon de otros. La asimetria es real y tiene causas específicas.
+Isabel sabe intelectualmente que debería perdonarse por las cosas del pasado que todavía la producen culpa y verguenza. Pero el perdon de si misma parece mucho más difícil que el perdon de otros. La asimetria es real y tiene causas específicas.
 
 **El Principio del Perdon de Si Mismo como Proceso, no como Decisión:** Robert Enright, psicologo que ha investigado el perdon extensamente, propone que el perdon de si mismo (a diferencia del perdon de otros, que ha sido más estudiado) requiere cuatro componentes: responsabilizarse genuinamente del daño producido (sin minimizarlo ni exagerarlo), tener remordimiento genuino por el daño, comprometerse a no repetir el comportamiento (cuando sea posible), y extender compasión hacía uno mismo en su condición de humano imperfecto.
 
 El cuarto componente (la autocompasión) es el que más frecuentemente falta: la persona puede responsabilizarse, sentir remordimiento, y comprometerse al cambio, pero se niega la compasión porque cree que merecerla requeriria o no haber cometido el error o haber pagado suficiente a traves del sufrimiento. Kristin Neff propone que la autocompasión no es absolución del error: es el trató que cualquier ser humano imperfecto merece, independientemente de sus fallos.
 
-**Ejercicio inmediato:** Para una transgresión pasada que todavia produce culpa o verguenza, completa los cuatro componentes del perdon de si mismo por escrito: el reconocimiento específico del daño (sin minimizarlo), el remordimiento genuino (no el dramatismo sino el genuino), el compromiso de cambio (que has cambiado o que cambias), y la frase de compasión final: soy humano, cometi un error, y me extiendo la misma compasión que le daria a alguien que amo que hubiera hecho lo mismo.
+**Ejercicio inmediato:** Para una transgresión pasada que todavía produce culpa o verguenza, completa los cuatro componentes del perdon de si mismo por escrito: el reconocimiento específico del daño (sin minimizarlo), el remordimiento genuino (no el dramatismo sino el genuino), el compromiso de cambio (que has cambiado o que cambias), y la frase de compasión final: soy humano, cometi un error, y me extiendo la misma compasión que le daria a alguien que amo que hubiera hecho lo mismo.
 
 Perdonarte no es decir que estuvo bien. Es decidir que el castigo que llevas ya ha sido suficiente.
 
@@ -119,13 +119,13 @@ El cuerpo que se encoge ante la verguenza también puede aprender a mantenerse e
 
 ## Capítulo 8: Culpa y relaciones: cuando el error daño a alguien que importa
 
-Ruben hizo algo que daño a un amigo cercano. El amigo le ha perdonado formalmente. Pero Ruben todavia no puede estar con el sin sentir la culpa de fondo de lo que hizo.
+Ruben hizo algo que daño a un amigo cercano. El amigo le ha perdonado formalmente. Pero Ruben todavía no puede estar con el sin sentir la culpa de fondo de lo que hizo.
 
 **El Principio de la Reparación como Cierre de la Culpa Relacional:** Cuando la culpa tiene un destinatario específico (una persona a quien se daño), el proceso de elaboración requiere componentes adicionales a los del perdon de si mismo: la reparación activa del daño (cuando es posible), la disculpa genuina (que reconoce el daño específico, no solo pide perdon en abstracto), y la aceptación del perdon del otro (cuando este lo ofrece).
 
-La disculpa genuina, segun Aaron Lazare (médico y especialista en el tema), requiere: reconocimiento específico del daño producido (no lo que el otro siente sino lo que se hizo), aceptación de responsabilidad sin excusas que la diluyan, expresión de remordimiento genuino, y compromiso de cambio o reparación. La disculpa que incluye pero es que yo estaba pasando por... o pero tu también... no es una disculpa completa: es una disculpa con condicional, que frecuentemente produce más daño que no disculparse.
+La disculpa genuina, según Aaron Lazare (médico y especialista en el tema), requiere: reconocimiento específico del daño producido (no lo que el otro siente sino lo que se hizo), aceptación de responsabilidad sin excusas que la diluyan, expresión de remordimiento genuino, y compromiso de cambio o reparación. La disculpa que incluye pero es que yo estaba pasando por... o pero tu también... no es una disculpa completa: es una disculpa con condicional, que frecuentemente produce más daño que no disculparse.
 
-**Ejercicio inmediato:** Si hay una persona en tu vida a quien dañaste y con quien todavia no has completado el proceso de reparación, considera si hay algo específico que podrías hacer (no decir solo que lo sientes sino algo que repare activamente el daño) que cerraria el ciclo de la culpa relacional. Si la persona ya no está disponible o el contacto no es posible, considera una forma de reparación simbólica que cierre el ciclo internamente.
+**Ejercicio inmediato:** Si hay una persona en tu vida a quien dañaste y con quien todavía no has completado el proceso de reparación, considera si hay algo específico que podrías hacer (no decir solo que lo sientes sino algo que repare activamente el daño) que cerraria el ciclo de la culpa relacional. Si la persona ya no está disponible o el contacto no es posible, considera una forma de reparación simbólica que cierre el ciclo internamente.
 
 La culpa que tiene un destinatario específico pocas veces se resuelve solo en el interior. Necesita alguna acción en el exterior.
 
@@ -149,7 +149,7 @@ No toda verguenza que sientes es tuya. Algunas fueron depositadas en ti por otro
 
 Isabel ha llegado a una relación diferente con sus errores pasados. No los ha olvidado. No los justifica. Pero ya no los lleva cómo una carga que definiera quien es hoy. Entiende que la persona que los cometio y la persona que es ahora comparten historia pero no comparten identidad: ha cambiado, ha aprendido, y seguir castigandose por quien fue no dice nada sobre quien es ni sobre quien puede llegar a ser.
 
-**El Principio del Yo como Proceso en Construcción Continua:** Viktor Frankl, neurologo y psicologo que sobrevivio a los campos de concentración nazis, propuso que la responsabilidad humana no es solo sobre el pasado (lo que se ha hecho) sino sobre el futuro (lo que se puede hacer todavia con lo que se es y se tiene). La persona que se define completamente por sus errores pasados niega precisamente la capacidad de ser diferente en el futuro, que es la forma más genuina de responsabilizarse.
+**El Principio del Yo como Proceso en Construcción Continua:** Viktor Frankl, neurologo y psicologo que sobrevivio a los campos de concentración nazis, propuso que la responsabilidad humana no es solo sobre el pasado (lo que se ha hecho) sino sobre el futuro (lo que se puede hacer todavía con lo que se es y se tiene). La persona que se define completamente por sus errores pasados niega precisamente la capacidad de ser diferente en el futuro, que es la forma más genuina de responsabilizarse.
 
 Rick Hanson, psicologo y neurocientífico, propone que el cerebro puede aprender a relacionarse de forma diferente con los errores del pasado a traves de lo que llama la instalación deliberada de experiencias positivas: la práctica de hacer conscientes los momentos de reparación, de crecimiento, y de actuar de forma alineada con los propios valores, para contrarrestar el sesgo de negatividad que hace que los errores se recuerden con más fuerza que los aciertos.
 

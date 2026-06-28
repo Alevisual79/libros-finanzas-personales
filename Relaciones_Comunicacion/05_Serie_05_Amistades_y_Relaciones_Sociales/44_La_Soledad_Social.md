@@ -117,7 +117,7 @@ La conexión que reduce la soledad no viene de mostrar tu mejor versión. Viene 
 
 ## Capítulo 9: Comunidades como solución a la soledad
 
-Las comunidades estructuradas (grupos religiosos, de voluntariado, de interés compartido) ofrecen, segun la investigación, una de las soluciones más efectivas y sostenibles contra la soledad cronica, más allá de las amistades individuales.
+Las comunidades estructuradas (grupos religiosos, de voluntariado, de interés compartido) ofrecen, según la investigación, una de las soluciones más efectivas y sostenibles contra la soledad cronica, más allá de las amistades individuales.
 
 **El Principio del Sentido de Pertenencia Colectiva:** Las comunidades estructuradas proporcionan algo que las amistades individuales por si solas no siempre ofrecen: un sentido de pertenencia a algo más grande que uno mismo, con un proposito compartido y una estructura de encuentro regular que no depende exclusivamente de la iniciativa individual constante. La participación activa y regular en una comunidad de este tipo es uno de los predictores más consistentes de reducción de soledad cronica a largo plazo.
 

@@ -147,7 +147,7 @@ Lo que racionalizas durante el enamoramiento, lo gestionas durante la relación.
 
 ## Capítulo 10: Transición al amor maduro
 
-El amor maduro no es menos que el enamoramiento. Es diferente. Es la elección diaria de alguien que ya conoces en lugar de la compulsión biológica hacía alguien que todavia no conoces completamente.
+El amor maduro no es menos que el enamoramiento. Es diferente. Es la elección diaria de alguien que ya conoces en lugar de la compulsión biológica hacía alguien que todavía no conoces completamente.
 
 **El Principio del Amor como Elección Activa:** El enamoramiento ocurre. El amor maduro se construye. Las parejas que tienen relaciones satisfactorias a largo plazo no son las que mantuvieron la intensidad del enamoramiento. Son las que construyeron, sobre la base del enamoramiento inicial, algo más complejo: amistad profunda, respeto mutuo, un sistema de gestión del conflicto que funciona, y proyectos compartidos que dan sentido a la relación.
 

@@ -23,7 +23,7 @@ Ruben tiene veintinueve años y la mayor parte de sus interacciones sociales las
 
 La ansiedad social se confunde frecuentemente con la timidez o la introversión. Las tres son diferentes en sus mecanismos, sus consecuencias y sus tratamientos.
 
-**El Principio de la Distinción entre Introversión y Ansiedad Social:** La introversión es un rasgo de personalidad que describe la preferencia por entornos menos estimulantes y la recarga de energía en soledad: no implica miedo a las situaciones sociales sino preferencia por menos de ellas. La ansiedad social, segun el DSM-5, es el miedo o ansiedad intensa ante situaciones sociales en las que la persona puede ser observada o evaluada por otros, con temor a actuar de forma que resulte humillante o embarazosa. Una persona introvertida puede no tener ansiedad social. Una persona extrovertida puede tener ansiedad social intensa.
+**El Principio de la Distinción entre Introversión y Ansiedad Social:** La introversión es un rasgo de personalidad que describe la preferencia por entornos menos estimulantes y la recarga de energía en soledad: no implica miedo a las situaciones sociales sino preferencia por menos de ellas. La ansiedad social, según el DSM-5, es el miedo o ansiedad intensa ante situaciones sociales en las que la persona puede ser observada o evaluada por otros, con temor a actuar de forma que resulte humillante o embarazosa. Una persona introvertida puede no tener ansiedad social. Una persona extrovertida puede tener ansiedad social intensa.
 
 Stefan Hofmann, investigador de Boston University especializado en ansiedad social, estima que el trastorno de ansiedad social (cuando la ansiedad social es suficientemente intensa como para interferir significativamente en el funcionamiento) afecta a entre el siete y el trece por ciento de la población a lo largo de la vida, lo que lo convierte en el tercer trastorno psiquiatrico más frecuente. Muchas más personas tienen niveles de ansiedad social subclinicos que no llegan al umbral diagnóstico pero que limitan significativamente su vida social y profesional.
 
@@ -37,7 +37,7 @@ No toda incomodidad social es ansiedad social. Pero si la evitación de situacio
 
 Elena tiene ansiedad social en contextos profesionales específicos: presentaciones ante grupos grandes, reuniones con ejecutivos de alto nivel, situaciones donde se percibe evaluada. Su modelo implícito de estas situaciones es que hay una actuación esperada que probablemente no va a cumplir, y que el fracaso en cumplirla tendrá consecuencias sociales significativas.
 
-**El Principio de la Amenaza Social Percibida como Motor:** David Clark y Adrian Wells desarrollaron el modelo cognitivo de la ansiedad social que ha guiado buena parte de la investigación y el tratamiento en las últimas tres décadas. Segun este modelo, la ansiedad social se mantiene a traves de varios mecanismos cognitivos interrelacionados: la atención autofocalizada (redirigir la atención hacía los propios pensamientos, sensaciones y comportamiento en lugar de hacía la situación externa), el procesamiento de la información social desde una perspectiva de observador negativo (imaginar cómo se ve uno mismo desde el exterior con distorsión negativa), y las conductas de seguridad (comportamientos que la persona usa para prevenir el resultado temido pero que frecuentemente lo hacen más probable).
+**El Principio de la Amenaza Social Percibida como Motor:** David Clark y Adrian Wells desarrollaron el modelo cognitivo de la ansiedad social que ha guiado buena parte de la investigación y el tratamiento en las últimas tres décadas. Según este modelo, la ansiedad social se mantiene a traves de varios mecanismos cognitivos interrelacionados: la atención autofocalizada (redirigir la atención hacía los propios pensamientos, sensaciones y comportamiento en lugar de hacía la situación externa), el procesamiento de la información social desde una perspectiva de observador negativo (imaginar cómo se ve uno mismo desde el exterior con distorsión negativa), y las conductas de seguridad (comportamientos que la persona usa para prevenir el resultado temido pero que frecuentemente lo hacen más probable).
 
 Las conductas de seguridad son particularmente importantes: hablar menos para no decir nada incorrecto (que produce que la persona parezca menos interesante), evitar el contacto visual (que produce que parezca menos confiada), o preparar excesivamente lo que va a decir (que produce que la conversación se sienta forzada). Cada conducta de seguridad proporciona alivio de ansiedad a corto plazo y contribuye al problema a largo plazo.
 
@@ -99,7 +99,7 @@ El ejercicio del doble estandar (preguntarse como reaccionaria ante la misma sit
 
 **Ejercicio inmediato:** Piensa en la situación social que más te avergüenza de las últimas semanas. Ahora imagina que fue tu mejor amigo, no tu, quien la vivio. ¿Cómo lo consolarias? ¿Que le dirias? Esa respuesta es el trató que mereces aplicarte a ti mismo.
 
-Eres el unico ser humano al que aplicas el estandar de no poder parecer humano. Nadie más vive segun esa regla.
+Eres el unico ser humano al que aplicas el estandar de no poder parecer humano. Nadie más vive según esa regla.
 
 ---
 

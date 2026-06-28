@@ -83,7 +83,7 @@ Marcos ha tenido que pivotar su modelo de negocio tres veces en los primeros doc
 
 El ex-empleado que ha trabajado en entornos donde los planes se siguen durante años y los cambios de dirección requieren aprobaciones extensas tiene dificultad para adoptar la velocidad de iteración del emprendimiento. La iteración rápida parece inestabilidad cuando en realidad es aprendizaje rápido.
 
-**Ejercicio inmediato:** Para tu proyecto actual, identifica la suposición más importante que todavia no has validado con el mercado real: la suposición sobre el cliente, el problema, o la solución cuya falsedad cambiaría fundamentalmente el modelo. Diseña el experimento más rápido y barato que podría validar o refutar esa suposición. Si cuesta más de una semana o de cien euros llevarlo a cabo, el experimento es demasiado grande.
+**Ejercicio inmediato:** Para tu proyecto actual, identifica la suposición más importante que todavía no has validado con el mercado real: la suposición sobre el cliente, el problema, o la solución cuya falsedad cambiaría fundamentalmente el modelo. Diseña el experimento más rápido y barato que podría validar o refutar esa suposición. Si cuesta más de una semana o de cien euros llevarlo a cabo, el experimento es demasiado grande.
 
 El plan que no ha visto el mercado es una hipótesis. El que lo ha visto y ha sobrevivido es una estrategia.
 
@@ -153,7 +153,7 @@ Marcos ha llegado a entender que la transición de empleado a emprendedor no es 
 
 La investigación sobre el aprendizaje adulto de Malcolm Knowles muestra que los adultos aprenden mejor cuando el aprendizaje está conectado con problemas reales que importan y cuando pueden aplicar inmediatamente lo que aprenden. Para el emprendedor en transición, esto significa que el aprendizaje más valioso viene de hacer, no de estudiar el hacer.
 
-**Ejercicio inmediato:** Reflexiona sobre las tres formas en que tu identidad profesional ha cambiado más desde que empezaste a emprender (o desde que empezaste a planear emprender). ¿Que creencias sobre ti mismo o sobre el trabajo han cambiado? ¿Que comportamientos has adoptado que antes no tenías? ¿Que has tenido que dejar ir? Esas tres respuestas son el mapa de la transformación de identidad que ya has hecho y que te orienta hacía la que todavia tienes por hacer.
+**Ejercicio inmediato:** Reflexiona sobre las tres formas en que tu identidad profesional ha cambiado más desde que empezaste a emprender (o desde que empezaste a planear emprender). ¿Que creencias sobre ti mismo o sobre el trabajo han cambiado? ¿Que comportamientos has adoptado que antes no tenías? ¿Que has tenido que dejar ir? Esas tres respuestas son el mapa de la transformación de identidad que ya has hecho y que te orienta hacía la que todavía tienes por hacer.
 
 El emprendedor que llegaras a ser no lo eras cuando empezaste. Lo seras cuando hayas hecho suficientes cosas que solo ese emprendedor puede hacer.
 

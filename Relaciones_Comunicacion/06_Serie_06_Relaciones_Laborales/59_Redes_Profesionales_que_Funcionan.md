@@ -93,7 +93,7 @@ Una solicitud profesional vaga y de alto esfuerzo para el otro probablemente ser
 
 ## Capítulo 7: Dar antes de pedir: la regla de oro
 
-El principio de ofrecer valor a la propia red antes de solicitar algo a cambio es, segun multiple investigación sobre construcción de redes efectivas, el fundamento más importante de relaciones profesionales sostenibles y mutuamente beneficiosas.
+El principio de ofrecer valor a la propia red antes de solicitar algo a cambio es, según multiple investigación sobre construcción de redes efectivas, el fundamento más importante de relaciones profesionales sostenibles y mutuamente beneficiosas.
 
 **El Principio de la Generosidad como Inversión a Largo Plazo:** Las personas que construyen las redes profesionales más valiosas a lo largo de su carrera son consistentemente las que adoptan una orientación de generosidad: ofrecer conexiones, conocimiento o ayuda sin expectativa inmediata de retorno específico, confiando en que esa generosidad, sostenida en el tiempo y across multiples relaciones, genera reciprocidad agregada que supera ampliamente cualquier transacción individual calculada.
 

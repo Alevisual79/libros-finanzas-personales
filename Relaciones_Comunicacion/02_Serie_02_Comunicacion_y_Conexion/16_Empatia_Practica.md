@@ -41,7 +41,7 @@ Empatia no es sentir lo mismo que el otro. Es entender cómo se siente ser el ot
 
 ## Capítulo 2: Empatia cognitiva vs empatia emocional
 
-Hay personas con mucha empatia cognitiva pero poca emocional: entienden intelectualmente la perspectiva del otro pero no conectan emocionalmente. Los negociadores muy competentes suelen ser asi. Son capaces de ponerse en el lugar del otro para anticipar sus movimientos sin sentir nada de lo que el otro siente.
+Hay personas con mucha empatia cognitiva pero poca emocional: entienden intelectualmente la perspectiva del otro pero no conectan emocionalmente. Los negociadores muy competentes suelen ser así. Son capaces de ponerse en el lugar del otro para anticipar sus movimientos sin sentir nada de lo que el otro siente.
 
 **El Principio de las Dos Dimensiones:** La empatia cognitiva y la emocional son dimensiones independientes que se pueden desarrollar por separado. Una persona con alta empatia cognitiva y baja emocional puede ser muy eficaz en la negociación y muy fria en la intimidad. Una con alta empatia emocional y baja cognitiva puede ser muy presente emocionalmente pero malinterpretar constantemente la situación del otro.
 

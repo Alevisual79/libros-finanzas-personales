@@ -57,7 +57,7 @@ Un grupo de amigos saludable permite la discrepancia. Uno que la castiga con rec
 
 ## Capítulo 4: Como entra alguien nuevo al grupo
 
-La integración de nuevos miembros a un grupo de amigos establecido es un proceso delicado que puede facilitar o dificultar significativamente segun como el grupo gestione la novedad y el cambio en su dinámica existente.
+La integración de nuevos miembros a un grupo de amigos establecido es un proceso delicado que puede facilitar o dificultar significativamente según como el grupo gestione la novedad y el cambio en su dinámica existente.
 
 **El Principio de la Resistencia Natural al Cambio Grupal:** Los grupos establecidos tienden a mostrar resistencia natural, consciente o inconsciente, a la incorporación de nuevos miembros, porque la nueva persona altera el equilibrio de roles y dinámicas ya establecido. Los grupos que integran bien a nuevos miembros son los que reconocen esta tendencia y hacen esfuerzo activo de inclusión, en lugar de simplemente esperar que el nuevo miembro se adapte por su cuenta a una dinámica ya cristalizada.
 
@@ -109,7 +109,7 @@ La forma en que un grupo de amigos toma decisiones colectivas (donde ir, que act
 
 **El Principio de la Equidad en la Toma de Decisiones:** Los grupos de amigos más saludables tienen mecanismos, explícitos o implícitos, que permiten que las preferencias de todos los miembros tengan algun peso en las decisiones colectivas, en lugar de que una o dos personas dominen sistemáticamente la toma de decisiones mientras los demás simplemente siguen sin que su voz sea genuinamente considerada.
 
-**Ejercicio inmediato:** Reflexiona sobre cómo se toman las decisiones en tu grupo de amigos. Hay un patron donde una o dos personas siempre deciden y los demás simplemente siguen? Si es asi, considera proponer un mecanismo más equitativo, como preguntar explicitamente la opinión de todos antes de decidir.
+**Ejercicio inmediato:** Reflexiona sobre cómo se toman las decisiones en tu grupo de amigos. Hay un patron donde una o dos personas siempre deciden y los demás simplemente siguen? Si es así, considera proponer un mecanismo más equitativo, como preguntar explicitamente la opinión de todos antes de decidir.
 
 Un grupo donde solo unas pocas voces deciden no es realmente un grupo de iguales, aunque se presente como amistad entre pares.
 

@@ -19,7 +19,7 @@ La mayoría de las personas evita el conflicto. O lo tiene de forma destructiva.
 
 El conflicto productivo no es un oximoron. Es la forma en que dos personas con perspectivas distintas se comunican de tal manera que la diferencia entre ellas produce algo mejor de lo que ninguna de las dos tenía sola. Es la conversación difícil que termina con más claridad, más confianza y a veces más cercania que la que había antes.
 
-Ruben y su novia llevan meses teniendo la misma discusión. Sube de tono. Alguien dice algo que duele. Los dos se cierran. Pasan dias frios. Nunca resuelven nada. Repiten. Elena evita el conflicto con tanta habilidad que sus relaciones tienen la superficie perfectamente tersa y ningún nivel de profundidad real. Isabel entra en el conflicto con toda la experiencia de ser directora de personas y aun asi se lleva por delante a los que quiere.
+Ruben y su novia llevan meses teniendo la misma discusión. Sube de tono. Alguien dice algo que duele. Los dos se cierran. Pasan dias frios. Nunca resuelven nada. Repiten. Elena evita el conflicto con tanta habilidad que sus relaciones tienen la superficie perfectamente tersa y ningún nivel de profundidad real. Isabel entra en el conflicto con toda la experiencia de ser directora de personas y aun así se lleva por delante a los que quiere.
 
 El conflicto es inevitable. La forma de tenerlo, no.
 
@@ -123,7 +123,7 @@ Los conflictos que se reparan fortalecen la relación más que si nunca hubieran
 
 ## Capítulo 8: Conflictos sin solución: como convivir con ellos
 
-El 69% de los conflictos de pareja, segun Gottman, son perpetuos. Existen porque dos personas distintas tienen necesidades, valores o estilos diferentes que ninguna conversación va a cambiar. Pretender resolverlos definitivamente produce más frustración que la que existia antes.
+El 69% de los conflictos de pareja, según Gottman, son perpetuos. Existen porque dos personas distintas tienen necesidades, valores o estilos diferentes que ninguna conversación va a cambiar. Pretender resolverlos definitivamente produce más frustración que la que existia antes.
 
 **El Principio de la Gestión sobre la Resolución:** Para los conflictos perpetuos, el objetivo no es resolverlos sino gestionarlos: desarrollar formas de tenerlos que no los escalen ni los agudicen, encontrar humor y ternura dentro de la diferencia, y hacer concesiones en los elementos perifericos mientras se protegen los fundamentales. Los conflictos sin solución bien gestionados se convierten en parte del paisaje de la relación, no en su amenaza.
 

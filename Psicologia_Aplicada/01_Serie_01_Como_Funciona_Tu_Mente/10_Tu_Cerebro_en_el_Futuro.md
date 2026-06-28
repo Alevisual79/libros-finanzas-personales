@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel tiene cincuenta y dos años y ha vivido la transición de un mundo sin internet a uno donde la inteligencia artificial puede escribir código, diagnosticar enfermedades y mantener conversaciones convincentes. Sus hijos viven en una realidad digital que ella solo entiende parcialmente. Sus padres viven en una realidad que ella ya no reconoce cómo la suya. En menos de treinta años, la relación del cerebro humano con la tecnología, con el conocimiento y con lo que significa ser inteligente ha cambiado más que en los mil años anteriores. Y segun todas las proyecciones, el ritmo de cambio se está acelerando.
+Isabel tiene cincuenta y dos años y ha vivido la transición de un mundo sin internet a uno donde la inteligencia artificial puede escribir código, diagnosticar enfermedades y mantener conversaciones convincentes. Sus hijos viven en una realidad digital que ella solo entiende parcialmente. Sus padres viven en una realidad que ella ya no reconoce cómo la suya. En menos de treinta años, la relación del cerebro humano con la tecnología, con el conocimiento y con lo que significa ser inteligente ha cambiado más que en los mil años anteriores. Y según todas las proyecciones, el ritmo de cambio se está acelerando.
 
 ---
 

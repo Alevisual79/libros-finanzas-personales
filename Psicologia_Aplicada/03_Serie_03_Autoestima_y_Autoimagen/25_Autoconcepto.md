@@ -105,7 +105,7 @@ El autoconcepto no cambia con afirmaciones. Cambia con evidencia acumulada de co
 
 ## Capítulo 7: El rol de los otros en la construcción del autoconcepto
 
-Elena ha notado que su imagen de si misma cambia segun con quien este. Con algunas personas se siente más segura, más capaz, más ella misma. Con otras, se siente más pequeña, más insegura, más dudosa sobre su valor. Las relaciones no son solo contextos donde el autoconcepto se expresa. Son agentes que lo moldean activamente.
+Elena ha notado que su imagen de si misma cambia según con quien este. Con algunas personas se siente más segura, más capaz, más ella misma. Con otras, se siente más pequeña, más insegura, más dudosa sobre su valor. Las relaciones no son solo contextos donde el autoconcepto se expresa. Son agentes que lo moldean activamente.
 
 **El Principio del Efecto de los Reflejos Sociales en el Autoconcepto:** Charles Cooley, sociologo de principios del siglo XX, propuso el concepto de yo espejo: la imagen que tenemos de nosotros mismos se forma en gran parte a traves de como interpretamos que los demás nos ven. George Herbert Mead desarrollo esta idea: el yo se constituye en el proceso de interacción social, tomando la perspectiva de los otros para verse a uno mismo.
 
@@ -151,11 +151,11 @@ Elena ha empezado a tratar su autoconcepto cómo un proyecto en construcción en
 
 **El Principio del Yo Como Proyecto Continuo:** Carl Rogers, desde la psicología humanista, propuso que la persona sana es aquella que puede mantener una autoimagen fluida y abierta a la experiencia: que puede actualizarse con nuevas informaciones sin sentir que su identidad esta amenazada. Esta apertura no significa no tener valores o no saber quien se es. Significa que la narrativa del yo esta suficientemente abierta para incorporar lo nuevo sin rechazarlo automáticamente porque no encaja con lo que ya estaba.
 
-Dan McAdams propone que la identidad narrativa más madura es la que puede incorporar tanto la continuidad (esto es quien he sido) como el cambio (esto es quien estoy llegando a ser) en una historia que tenga coherencia sin ser rigida. La persona que puede decir he cambiado en esto y sigo siendo yo en esto tiene un autoconcepto más maduro y más funcional que la que dice siempre he sido exactamente asi o he cambiado tan radicalmente que ya no me reconozco.
+Dan McAdams propone que la identidad narrativa más madura es la que puede incorporar tanto la continuidad (esto es quien he sido) como el cambio (esto es quien estoy llegando a ser) en una historia que tenga coherencia sin ser rigida. La persona que puede decir he cambiado en esto y sigo siendo yo en esto tiene un autoconcepto más maduro y más funcional que la que dice siempre he sido exactamente así o he cambiado tan radicalmente que ya no me reconozco.
 
 **Ejercicio inmediato:** Escribe un párrafo sobre quien eres que incluya tanto continuidades (valores, formas de ser que persisten en el tiempo) como cambios (formas en que has crecido, aspectos que ya no te representen plenamente, cosas que estas descubriendo sobre ti mismo). Este ejercicio entrena la capacidad de mantener un autoconcepto que sea tanto estable como vivo.
 
-No eres quien fuiste. No eres todavia plenamente quien podras ser. Eres quien estas siendo, y eso es suficiente.
+No eres quien fuiste. No eres todavía plenamente quien podras ser. Eres quien estas siendo, y eso es suficiente.
 
 ---
 

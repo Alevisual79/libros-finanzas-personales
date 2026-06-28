@@ -125,7 +125,7 @@ Elena (extravertida) ha asumido que el mundo funciona bien para todos. Ruben (in
 
 Este sesgo no es inevitable: la investigación de Cain y otros muestra que los entornos que permiten períodos de trabajo solitario intercalados con colaboración producen mayor innovación que los de colaboración continua, beneficiando tanto a introvertidos como extravertidos.
 
-**Ejercicio inmediato:** En tu entorno laboral actual, identifica las estructuras que te favorecen y las que no segun tu nivel de introversión o extraversión. Para las que no te favorecen, hay algun ajuste que puedas pedir o implementar (auriculares para senalizar que no se te interrumpa, trabajo desde casa ciertos dias, reuniones más breves con agenda específica)?
+**Ejercicio inmediato:** En tu entorno laboral actual, identifica las estructuras que te favorecen y las que no según tu nivel de introversión o extraversión. Para las que no te favorecen, hay algun ajuste que puedas pedir o implementar (auriculares para senalizar que no se te interrumpa, trabajo desde casa ciertos dias, reuniones más breves con agenda específica)?
 
 Los entornos no son neutrales. Los que los conocen bien pueden disenarlos para que funcionen mejor para quien son.
 

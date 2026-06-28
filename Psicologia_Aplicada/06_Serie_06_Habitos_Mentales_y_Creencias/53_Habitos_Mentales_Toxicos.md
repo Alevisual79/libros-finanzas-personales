@@ -85,7 +85,7 @@ La paradoja de la preocupación es que se experimenta subjetivamente como prepar
 
 **Ejercicio inmediato:** Para la preocupación más activa en tu vida ahora mismo, distingue: ¿es una preocupación accionable (hay algo que puedes hacer para reducir el riesgo o prepararte)? Si si, planifica esa acción y luego para de preocuparte. Si no (el resultado esta fuera de tu control), práctica la aceptación deliberada de la incertidumbre: esto puede resultar de formas que no puedo controlar. Puedo tolerar esa incertidumbre.
 
-La preocupación que no produce un plan de acción no es preparación. Es sufrimiento gratuito del futuro que todavia no ha pasado.
+La preocupación que no produce un plan de acción no es preparación. Es sufrimiento gratuito del futuro que todavía no ha pasado.
 
 ---
 
@@ -127,7 +127,7 @@ Las estrategias de interrupción más investigadas incluyen: la activación cond
 
 **Ejercicio inmediato:** Para tu hábito mental toxico principal, diseña un protocolo de interrupción: ¿cual es la señal de que el hábito se ha activado, que diras internamente para nombrarlo, y que acción específica tomara inmediatamente después del nombramiento para interrumpir la rutina? El protocolo preparado de antemano es mucho más efectivo que la improvisación en el momento.
 
-Interrumpir un hábito mental no requiere fuerza de voluntad. Requiere un protocolo que funciona mientras la fuerza de voluntad todavia no está disponible.
+Interrumpir un hábito mental no requiere fuerza de voluntad. Requiere un protocolo que funciona mientras la fuerza de voluntad todavía no está disponible.
 
 ---
 
@@ -161,7 +161,7 @@ El hábito mental que se alimenta de un entorno específico es más debil cuando
 
 ## Epílogo
 
-Isabel empezó a nombrar los hábitos en el momento en que los reconocia: ah, esto es el crítico interno. Ah, esto es rumia. No los detuvo inmediatamente: los hábitos no funcionan asi. Pero el nombramiento produjó algo. Una pequeña distancia entre el hábito y ella. Suficiente para ver que no eran ella: eran patrones que habían aprendido a funcionar de forma automática. Y los patrones que se ven ya son un poco menos automáticos. Solo un poco. Pero ese poco fue suficiente para empezar.
+Isabel empezó a nombrar los hábitos en el momento en que los reconocia: ah, esto es el crítico interno. Ah, esto es rumia. No los detuvo inmediatamente: los hábitos no funcionan así. Pero el nombramiento produjó algo. Una pequeña distancia entre el hábito y ella. Suficiente para ver que no eran ella: eran patrones que habían aprendido a funcionar de forma automática. Y los patrones que se ven ya son un poco menos automáticos. Solo un poco. Pero ese poco fue suficiente para empezar.
 
 ---
 

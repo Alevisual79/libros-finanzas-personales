@@ -47,7 +47,7 @@ La envidia que no se nombra no desaparece. Encuentra formas indirectas de salir,
 
 La revelación de información confidencial compartida en confianza es una de las formas más comunes y dolorosas de traición en la amistad, que puede dañar significativamente la confianza basica de la relación.
 
-**El Principio de la Confidencialidad como Pilar de Confianza:** La confianza en la amistad depende fuertemente de la expectativa de que la información compartida vulnerablemente permanecera confidencial segun lo acordado, explícita o implicitamente. Cuando esta expectativa se rompe, el daño no es solo sobre la información específica revelada, sino sobre la seguridad basica de poder ser vulnerable con esa persona en el futuro.
+**El Principio de la Confidencialidad como Pilar de Confianza:** La confianza en la amistad depende fuertemente de la expectativa de que la información compartida vulnerablemente permanecera confidencial según lo acordado, explícita o implicitamente. Cuando esta expectativa se rompe, el daño no es solo sobre la información específica revelada, sino sobre la seguridad basica de poder ser vulnerable con esa persona en el futuro.
 
 **Ejercicio inmediato:** Si has experimentado esta forma de traición, o la has cometido, reflexiona sobre que reparación sería necesaria para restaurar la confianza: un reconocimiento claro del daño, un compromiso explícito de cambio futuro, y tiempo consistente de comportamiento confiable.
 

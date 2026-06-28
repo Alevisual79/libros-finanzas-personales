@@ -59,7 +59,7 @@ Una conversación incomoda sobre expectativas al principio de una relación casu
 
 Es común que, en una relación casual, los sentimientos de apego o de deseo de mayor compromiso se desarrollen de forma asimetrica entre las dos personas, generando una dinámica difícil de gestionar sin honestidad.
 
-**El Principio de la Asimetria como Riesgo Inherente:** La naturaleza misma de la intimidad física y emocional compartida en una relación casual, segun la investigación sobre vinculó y oxitocina, genera riesgo de desarrollo de apego incluso cuando el acuerdo inicial era de casualidad sin compromiso. Reconocer esta posibilidad cómo un riesgo inherente, no cómo una falla de alguna de las partes, ayuda a navegarlo con más compasión cuando ocurre.
+**El Principio de la Asimetria como Riesgo Inherente:** La naturaleza misma de la intimidad física y emocional compartida en una relación casual, según la investigación sobre vinculó y oxitocina, genera riesgo de desarrollo de apego incluso cuando el acuerdo inicial era de casualidad sin compromiso. Reconocer esta posibilidad cómo un riesgo inherente, no cómo una falla de alguna de las partes, ayuda a navegarlo con más compasión cuando ocurre.
 
 **Ejercicio inmediato:** Si notas que tus sentimientos en una relación casual estan evolucionando más allá de lo originalmente acordado, comunica esa evolución honestamente, en lugar de ocultarla con la esperanza de que el otro también cambie sin necesidad de conversación explícita.
 
@@ -93,7 +93,7 @@ Un acuerdo casual que ya no refleja lo que realmente sientes necesita ser renego
 
 ## Capítulo 7: Salir de una relación casual limpiamente
 
-Terminar una relación casual, aunque técnicamente más simple que terminar una relación comprometida, todavia merece consideración y respeto, especialmente cuando ha existido vulnerabilidad e intimidad compartida significativa.
+Terminar una relación casual, aunque técnicamente más simple que terminar una relación comprometida, todavía merece consideración y respeto, especialmente cuando ha existido vulnerabilidad e intimidad compartida significativa.
 
 **El Principio del Respeto Independiente del Nivel de Compromiso:** El nivel de compromiso formal de una relación no determina cuanto respeto merece su finalización. Una relación casual con meses de intimidad física y emocional compartida merece una comunicación de cierre más considerada que un simple desaparecer, reconociendo lo que hubo de valioso independientemente de su naturaleza no exclusiva.
 

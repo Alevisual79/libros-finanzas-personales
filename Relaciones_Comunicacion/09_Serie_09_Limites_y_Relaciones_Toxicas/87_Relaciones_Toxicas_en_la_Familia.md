@@ -85,7 +85,7 @@ Cuando otros miembros de la familia son testigos de comportamiento toxico hacía
 
 **El Principio del Silencio como Permiso Implicito:** El silencio de testigos familiares ante comportamiento daniño hacía un miembro específico comunica, implicitamente, que ese comportamiento es aceptable o que no merece intervención, lo cual perpetua el patron y frecuentemente añade al daño original la sensación de abandono por parte de quienes deberían haber protegido.
 
-**Ejercicio inmediato:** Si has experimentado silencio familiar ante daño que sufriste de otro miembro de la familia, reconoce explicitamente el impacto de ese silencio, ademas del daño original que ese silencio permitio continuar.
+**Ejercicio inmediato:** Si has experimentado silencio familiar ante daño que sufriste de otro miembro de la familia, reconoce explicitamente el impacto de ese silencio, además del daño original que ese silencio permitio continuar.
 
 El silencio familiar ante el daño no es neutral. Es, en la práctica, un permiso implícito que perpetua el patron daniño.
 

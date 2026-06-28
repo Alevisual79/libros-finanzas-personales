@@ -69,7 +69,7 @@ Carlos ha aprendido que en el bootstrapping, la velocidad de generación de ingr
 
 Lex Fridman, en sus conversaciones con fundadores de negocios bootstrapped, documenta el patron común: los fundadores más exitosos en modo bootstrap generalmente generaron su primer revenue en las primeras seis semanas de operación, frecuentemente antes de tener un producto completo, usando servicios manuales, pilotos pagados, o pre-ventas.
 
-**Ejercicio inmediato:** Si todavia no tienes revenue en tu negocio, diseña el camino más corto hasta el primer euro de revenue: ¿quien podría pagarte algo por una versión inicial del producto o servicio que pudieras entregar en las próximas dos semanas? No el producto ideal, no el cliente ideal: el cliente más accesible que tiene un problema real que puedes resolver aunque sea imperfectamente. Ese primer euro, aunque sea simbólico, cambia la naturaleza del negocio de proyecto a empresa.
+**Ejercicio inmediato:** Si todavía no tienes revenue en tu negocio, diseña el camino más corto hasta el primer euro de revenue: ¿quien podría pagarte algo por una versión inicial del producto o servicio que pudieras entregar en las próximas dos semanas? No el producto ideal, no el cliente ideal: el cliente más accesible que tiene un problema real que puedes resolver aunque sea imperfectamente. Ese primer euro, aunque sea simbólico, cambia la naturaleza del negocio de proyecto a empresa.
 
 El primer euro que genera tu negocio es el más importante que generara nunca. No por lo que vale sino por lo que prueba.
 
@@ -123,11 +123,11 @@ Lucia ha llegado a un punto en su negocio donde está evaluando si el bootstrapp
 
 **El Principio de la Decisión de Buscar Capital Externo como Basada en la Lógica del Negocio (los números Justifican la Aceleración) en Lugar de en el Miedo (el Negocio No Puede Sobrevivir sin El):** Hay situaciones específicas en que el capital externo tiene sentido incluso para un bootstrapper convencido: cuando el mercado está cambiando rápidamente y la velocidad de ejecución es crítica para capturar la oportunidad, cuando los efectos de red del negocio requieren masa crítica que solo puede alcanzarse con inversión acelerada, o cuando las economias de escala del negocio hacen que el capital externo produzca un retorno mucho mayor de lo que el bootstrapping permitiria.
 
-La clave es la distinción de Jason Calacanis: el capital externo tiene sentido cuando el negocio puede usar ese capital para acelerar algo que ya funciona (unit economics positivos, product-market fit demostrado, modeló de negocio probado). El capital externo como sustento de un negocio que todavia no funciona solo pospone y amplifica los problemas.
+La clave es la distinción de Jason Calacanis: el capital externo tiene sentido cuando el negocio puede usar ese capital para acelerar algo que ya funciona (unit economics positivos, product-market fit demostrado, modeló de negocio probado). El capital externo como sustento de un negocio que todavía no funciona solo pospone y amplifica los problemas.
 
 **Ejercicio inmediato:** Para evaluar si el capital externo tiene sentido para tu negocio, responde tres preguntas: tus unit economics son positivos (el LTV supera al CAC por un ratio de al menos 3:1)? ¿Tienes un canal de adquisición de clientes que funciona y que podrías escalar con más capital? ¿El mercado tiene un window de oportunidad temporal que requiere moverte más rápido de lo que el bootstrapping permite? Si las tres respuestas son si, el capital externo puede tener sentido. Si alguna es no, resuelve primero el problema subyacente.
 
-El capital que aceleran un negocio que ya funciona crea valor. El que mantiene con vida a uno que todavia no funciona solo pospone la decisión difícil.
+El capital que aceleran un negocio que ya funciona crea valor. El que mantiene con vida a uno que todavía no funciona solo pospone la decisión difícil.
 
 ---
 

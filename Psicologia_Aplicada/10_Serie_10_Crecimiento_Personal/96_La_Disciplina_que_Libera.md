@@ -147,7 +147,7 @@ El compromiso que existe solo en tu mente lo rompes solo contigo. El que existe 
 
 ## Capítulo 10: La disciplina como práctica espiritual: el largo camino del carácter
 
-Elena ha llegado a entender que la disciplina en su forma más profunda no es instrumental (para conseguir X) sino expresiva (porque soy el tipo de persona que vive asi).
+Elena ha llegado a entender que la disciplina en su forma más profunda no es instrumental (para conseguir X) sino expresiva (porque soy el tipo de persona que vive así).
 
 **El Principio de la Disciplina como Expresión del Caracter y los Valores, no Solo como Herramienta para Alcanzar Objetivos:** Las tradiciones contemplativas (el budismo, el estoicismo, el confucianismo) han tratado la disciplina no cómo un medio para alcanzar objetivos externos sino cómo una práctica de formación del carácter: la manera en que uno vive cada dia es la manera en que uno forma quien es. La consistencia entre los valores y los actos (que los estoicos llamaban la integridad o unidad del alma) es en si misma el objetivo, no solo el medio.
 

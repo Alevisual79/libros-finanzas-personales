@@ -51,13 +51,13 @@ El contenido sin estrategia es el equivalente de publicidad sin mensaje: ocupa e
 
 Lucia ha aprendido a crear contenido diferente para cada fase del proceso de decisión de su cliente.
 
-**El Principio del Funnel de Contenido como el Marco que Organiza el Contenido por Fase del Proceso de Decisión del Cliente (Descubrimiento, Consideración, y Decisión) para Guiarle Progresivamente desde el Problema hasta la Solución:** HubSpot popularizó el concepto del funnel de contenido con tres etapas: TOFU (Top of Funnel, o Tope del Embudo), donde el contenido ayuda al cliente potencial que todavia no sabe que tiene el problema o que existe una solución (artículos de blog educativos, videos explicativos, podcasts sobre el tema); MOFU (Middle of Funnel, o Medio del Embudo), donde el contenido ayuda al cliente que ya sabe que tiene el problema y está evaluando soluciones (guias comparativas, webinars, casos de estudio); y BOFU (Bottom of Funnel, o Fondo del Embudo), donde el contenido ayuda al cliente que está listo para decidir pero necesita el último empujon (demos, pruebas gratuitas, testimonios, propuestas).
+**El Principio del Funnel de Contenido como el Marco que Organiza el Contenido por Fase del Proceso de Decisión del Cliente (Descubrimiento, Consideración, y Decisión) para Guiarle Progresivamente desde el Problema hasta la Solución:** HubSpot popularizó el concepto del funnel de contenido con tres etapas: TOFU (Top of Funnel, o Tope del Embudo), donde el contenido ayuda al cliente potencial que todavía no sabe que tiene el problema o que existe una solución (artículos de blog educativos, videos explicativos, podcasts sobre el tema); MOFU (Middle of Funnel, o Medio del Embudo), donde el contenido ayuda al cliente que ya sabe que tiene el problema y está evaluando soluciones (guias comparativas, webinars, casos de estudio); y BOFU (Bottom of Funnel, o Fondo del Embudo), donde el contenido ayuda al cliente que está listo para decidir pero necesita el último empujon (demos, pruebas gratuitas, testimonios, propuestas).
 
 La investigación de Demand Gen Report muestra que el 47% de los compradores B2B consumen tres a cinco piezas de contenido antes de tomar una decisión de compra, y que el contenido que más influencia la decisión final son los casos de estudio y los testimonios de clientes.
 
 **Ejercicio inmediato:** Para tu negocio, diseña un contenido para cada fase del funnel: un artículo de blog o video que responde la pregunta más frecuente en la fase de descubrimiento (antes de que el cliente sepa que tu negocio existe), un caso de estudio de un cliente que resolvio su problema con tu solución para la fase de consideración, y una oferta de prueba o garantía específica para la fase de decisión. Tener los tres tipos de contenido cubre el proceso completo de decisión del cliente.
 
-El negocio que solo tiene contenido de venta pierde a los clientes que todavia no estan listos para comprar.
+El negocio que solo tiene contenido de venta pierde a los clientes que todavía no estan listos para comprar.
 
 ---
 
@@ -125,7 +125,7 @@ Carlos ha empezado una newsletter semanal y ha descubierto que es el canal de ma
 
 La investigación de Litmus sobre el estado del email marketing muestra que los suscriptores de newsletters tienen tasas de conversión a clientes entre tres y cinco veces superiores a los visitantes de la web que llegan por otros canales, precisamente porque la relación de confianza construida a traves del contenido consistente es mayor.
 
-**Ejercicio inmediato:** Si todavia no tienes una newsletter, inicia una con frecuencia semanal o quincenal y un formato simple: un problema frecuente del cliente, tu perspectiva específica sobre ese problema, y una acción práctica que el suscriptor puede aplicar esta semana. El primer objetivo es los cien primeros suscriptores (que pueden conseguirse con la red actual si el contenido es genuinamente útil). Después de seis meses de publicación consistente, evalua la tasa de apertura y el impacto en las conversaciones de ventas.
+**Ejercicio inmediato:** Si todavía no tienes una newsletter, inicia una con frecuencia semanal o quincenal y un formato simple: un problema frecuente del cliente, tu perspectiva específica sobre ese problema, y una acción práctica que el suscriptor puede aplicar esta semana. El primer objetivo es los cien primeros suscriptores (que pueden conseguirse con la red actual si el contenido es genuinamente útil). Después de seis meses de publicación consistente, evalua la tasa de apertura y el impacto en las conversaciones de ventas.
 
 La newsletter que públicas de forma consistente durante un año construye más relación con tu audiencia que las redes sociales en las que públicas tres veces al dia.
 
@@ -153,7 +153,7 @@ La investigación de Content Marketing Institute sobre los resultados del conten
 
 **Ejercicio inmediato:** Diseña tu sistema de content marketing para los próximos doce meses: un artículo o video semanal sobre el problema de tu cliente, distribuido en el canal principal y en la newsletter, con una pieza de BOFU (caso de estudio, testimonios actualizados, o nueva propuesta) cada mes. Ese sistema, ejecutado de forma consistente, produce un activo de contenido creciente que trabaja para atraer clientes de forma progresivamente más eficiente.
 
-El sistema de contenido que construiste hace un año trabaja para ti mientras duermes. El que no has construido todavia no trabaja para nadie.
+El sistema de contenido que construiste hace un año trabaja para ti mientras duermes. El que no has construido todavía no trabaja para nadie.
 
 ---
 

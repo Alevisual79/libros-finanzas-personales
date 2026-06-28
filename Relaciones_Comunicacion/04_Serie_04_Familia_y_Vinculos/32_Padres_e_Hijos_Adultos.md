@@ -15,9 +15,9 @@
 
 ## Prólogo
 
-Elena tiene treinta y cuatro años y sus padres todavia la tratan como si tuviera catorce. Le preguntan con quien sale, le sugieren que coma mejor, le recuerdan que llame más. Nadie ha renegociado explicitamente la relación después de la infancia. El conflicto, silencioso pero constante, es el resultado de esa renegociación que nunca ocurrio.
+Elena tiene treinta y cuatro años y sus padres todavía la tratan como si tuviera catorce. Le preguntan con quien sale, le sugieren que coma mejor, le recuerdan que llame más. Nadie ha renegociado explicitamente la relación después de la infancia. El conflicto, silencioso pero constante, es el resultado de esa renegociación que nunca ocurrio.
 
-La relación entre padres e hijos adultos es una de las menos estudiadas y más difíciles de navegar, precisamente porque no existe un guion social claro de como debe ser. La relación padre-hijo pequeño tiene reglas claras: el padre cuida, decide, protege. La relación entre dos adultos que ademas son padre e hijo no tiene ese guion, y cada familia tiene que inventarlo, a menudo sin saber que lo está haciendo.
+La relación entre padres e hijos adultos es una de las menos estudiadas y más difíciles de navegar, precisamente porque no existe un guion social claro de como debe ser. La relación padre-hijo pequeño tiene reglas claras: el padre cuida, decide, protege. La relación entre dos adultos que además son padre e hijo no tiene ese guion, y cada familia tiene que inventarlo, a menudo sin saber que lo está haciendo.
 
 ---
 
@@ -125,7 +125,7 @@ Algunas familias extendidas tienen dificultad para respetar la autonomía de la 
 
 **Ejercicio inmediato:** Identifica un área en la que la familia extendida (la propia o la de la pareja) interfiere de forma que sientes invasiva. Hablen como pareja sobre como comunicar conjuntamente el límite necesario.
 
-La pareja que no protege su autonomía frente a la familia extendida acaba viviendo segun las expectativas de otros en lugar de las propias.
+La pareja que no protege su autonomía frente a la familia extendida acaba viviendo según las expectativas de otros en lugar de las propias.
 
 ---
 

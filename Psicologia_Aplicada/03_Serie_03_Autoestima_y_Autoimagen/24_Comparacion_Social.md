@@ -57,7 +57,7 @@ Brene Brown, desde una perspectiva diferente, propone que la envidia señala un 
 
 **Ejercicio inmediato:** Piensa en una persona específica a quien envidiaste recientemente. Identifica exactamente que envidiaste de ella: no de su vida completa, sino el atributo específico. Luego pregunta: ¿ese atributo específico es algo que genuinamente deseo para mi vida? Si la respuesta es si, esa es información sobre lo que vale la pena perseguir.
 
-La envidia que sientes no es la peor parte de ti. Es información sobre lo que más importa que todavia no te has permitido buscar.
+La envidia que sientes no es la peor parte de ti. Es información sobre lo que más importa que todavía no te has permitido buscar.
 
 ---
 
@@ -71,7 +71,7 @@ Jean Twenge, psicologa que ha estudiado el efecto de las pantallas en el bienest
 
 **Ejercicio inmediato:** Diseña un experimento de una semana: reduce el uso pasivo de redes sociales (scroll sin objetivo específico) a un máximo de veinte minutos diarios, concentrado en momentos específicos del dia. Evalua al final de la semana si hay diferencia en tu nivel de satisfacción con tu vida comparada con la semana anterior.
 
-La satisfacción con tu vida no debería fluctuar segun el tiempo que pasas mirando la vida de otros. Cuando lo hace, es una señal de que la comparación te está gobernando.
+La satisfacción con tu vida no debería fluctuar según el tiempo que pasas mirando la vida de otros. Cuando lo hace, es una señal de que la comparación te está gobernando.
 
 ---
 

@@ -131,7 +131,7 @@ Un descanso deliberado de redes sociales no es una solución permanente, pero pr
 
 El objetivo final de gestionar conscientemente la relación con redes sociales es construir y mantener una autoestima que no dependa de la validación constante que estas plataformas ofrecen, sino de fuentes más estables y genuinas de valor propio.
 
-**El Principio de la Autoestima Independiente de la Validación Digital:** Las personas con autoestima más resiliente y estable son las que han desarrollado fuentes de valor propio independientes de la validación en redes sociales: logros personales, relaciones presenciales significativas, y un sentido de identidad que no fluctua dramaticamente segun la cantidad de likes o comentarios que un contenido específico recibe.
+**El Principio de la Autoestima Independiente de la Validación Digital:** Las personas con autoestima más resiliente y estable son las que han desarrollado fuentes de valor propio independientes de la validación en redes sociales: logros personales, relaciones presenciales significativas, y un sentido de identidad que no fluctua dramaticamente según la cantidad de likes o comentarios que un contenido específico recibe.
 
 **Ejercicio inmediato:** Identifica tres fuentes de autoestima en tu vida que son completamente independientes de la validación en redes sociales. Si la lista es corta, considera invertir más deliberadamente en fortalecer esas fuentes alternativas.
 

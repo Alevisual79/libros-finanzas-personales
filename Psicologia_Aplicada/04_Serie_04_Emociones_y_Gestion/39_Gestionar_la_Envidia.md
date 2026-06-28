@@ -83,7 +83,7 @@ Ruben ha leido que la gratitud es el antídoto de la envidia. La investigación 
 
 Sin embargo, la gratitud que se usa para suprimir la envidia sin procesarla produce el mismo resultado que cualquier supresión. La secuencia más efectiva es: reconocer primero la envidia (identificar el deseo que señala), y luego aplicar la gratitud como herramienta de perspectiva.
 
-**Ejercicio inmediato:** La próxima vez que sientas envidia, práctica la secuencia de dos pasos: primero el reconocimiento (esto es envidia, señala que quiero X), luego la perspectiva de gratitud (tengo Y que valoro, y ademas quiero X, y eso no es contradictorio). Esta secuencia honra tanto la emoción como el recurso alternativo.
+**Ejercicio inmediato:** La próxima vez que sientas envidia, práctica la secuencia de dos pasos: primero el reconocimiento (esto es envidia, señala que quiero X), luego la perspectiva de gratitud (tengo Y que valoro, y además quiero X, y eso no es contradictorio). Esta secuencia honra tanto la emoción como el recurso alternativo.
 
 La gratitud que usas para no sentir la envidia es falsa. La que viene después de reconocerla es verdadera.
 

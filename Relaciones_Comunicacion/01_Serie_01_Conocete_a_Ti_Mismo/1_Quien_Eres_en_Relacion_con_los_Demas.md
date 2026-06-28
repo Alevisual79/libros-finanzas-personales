@@ -103,7 +103,7 @@ La mascara protege. Pero también aisla. Elegir cuando quitarsela es uno de los 
 
 Hay frases que se repiten en las familias como si fueran verdades universales: los hombres no lloran, el dinero es para gastarlo, no fies de nadie, la familia es lo primero. Se transmiten sin cuestionarse de generación en generación y se convierten en el código invisible con el que interpretamos todas nuestras relaciones.
 
-**El Principio de la Herencia Relacional:** La familia de origen es la primera y más potente escuela relacional que tenemos. Ahi aprendemos si el mundo es seguro o peligroso, si el amor es incondicional o tiene precio, si los conflictos se resuelven con diálogo o con silencio. Esas lecciones no se aprenden en libros. Se aprenden en el cuerpo, en el sistema nervioso, en los patrones automáticos que luego aplicamos sin recordar de dónde vienen.
+**El Principio de la Herencia Relacional:** La familia de origen es la primera y más potente escuela relacional que tenemos. Ahí aprendemos si el mundo es seguro o peligroso, si el amor es incondicional o tiene precio, si los conflictos se resuelven con diálogo o con silencio. Esas lecciones no se aprenden en libros. Se aprenden en el cuerpo, en el sistema nervioso, en los patrones automáticos que luego aplicamos sin recordar de dónde vienen.
 
 Murray Bowen, fundador de la terapia familiar sistemica, demostró que los patrones relacionales disfuncionales se transmiten por lo menos tres generaciones. No por genética. Por repetición de conductas aprendidas que nadie cuestiona porque nadie las ve.
 
@@ -115,7 +115,7 @@ No elegiste tu familia de origen. Pero puedes elegir que conservas de ella y que
 
 ## Capítulo 7: Las heridas relacionales más comunes
 
-No todas las heridas tienen cicatriz visible. Algunas se parecen a la normalidad: un padre que nunca tenía tiempo, una madre que necesitaba que todo fuera perfecto, un hermano que acaparaba toda la atención. Nada dramatico. Nada que merezca el nombre de trauma segun los estandares sociales. Y sin embargo ahí siguen, cuarenta años después, diciendo como nos comportamos en nuestras relaciones adultas.
+No todas las heridas tienen cicatriz visible. Algunas se parecen a la normalidad: un padre que nunca tenía tiempo, una madre que necesitaba que todo fuera perfecto, un hermano que acaparaba toda la atención. Nada dramatico. Nada que merezca el nombre de trauma según los estandares sociales. Y sin embargo ahí siguen, cuarenta años después, diciendo como nos comportamos en nuestras relaciones adultas.
 
 **El Principio de la Herida que Dirige:** Lise Bourbeau identifica cinco heridas emocionales basicas: rechazó, abandono, humillación, traición e injusticia. Cada herida genera un conjunto de conductas defensivas que en su momento tuvieron sentido y que en la vida adulta generan exactamente aquello que más tememos. Quien tiene herida de abandono hace cosas que llevan al otro a alejarse. Quien tiene herida de traición controla tanto que el otro se ahoga.
 

@@ -29,7 +29,7 @@ Peter Levine, creador del Somatic Experiencing, propone que el trauma es fundame
 
 **Ejercicio inmediato:** Realiza un escaner corporal breve: ¿con los ojos cerrados, recorre mentalmente tu cuerpo de la cabeza a los pies. ¿Donde hay tensión? ¿Donde hay calor o frio? ¿Donde hay sensación de apretamiento o de expansión? ¿Donde el cuerpo esta vivo y donde parece apagado? Sin intentar cambiar nada, solo observando. Este escaner es el punto de partida del trabajo somatico.
 
-El cuerpo que llevas sabe más de lo que tu mente cree saber. Aprender a escucharlo es aprender a escuchar al trauma que todavia no has procesado.
+El cuerpo que llevas sabe más de lo que tu mente cree saber. Aprender a escucharlo es aprender a escuchar al trauma que todavía no has procesado.
 
 ---
 
@@ -37,9 +37,9 @@ El cuerpo que llevas sabe más de lo que tu mente cree saber. Aprender a escucha
 
 Ruben no entiende por qué a veces se paraliza completamente ante situaciones de tensión, sin poder pensar ni actuar, aunque racionalmente sepa que la situación no es peligrosa. La teoria polivagal de Stephen Porges proporciona una explicación.
 
-**El Principio del Sistema Nervioso Autonomo como Jerarquico:** Stephen Porges propuso la teoria polivagal: el sistema nervioso autonomo no tiene solo dos estados (simpatico activo o parasimpatico en descanso) sino tres estados jerarquicos que se activan en secuencia segun el nivel percibido de amenaza. El primer estado es el de compromiso social (nervio vago ventral activo): la persona esta en calma, conectada, con capacidad de comunicación y de co-regulación. El segundo estado es el de movilización (sistema simpatico activo): ante una amenaza, el organismo se prepara para luchar o huir, con aumento de la frecuencia cardiaca y redistribución de recursos. El tercer estado es el de inmovilización (nervio vago dorsal activo): ante una amenaza que excede la capacidad de lucha o huida, el organismo se apaga, se paraliza, y puede disociarse.
+**El Principio del Sistema Nervioso Autonomo como Jerarquico:** Stephen Porges propuso la teoria polivagal: el sistema nervioso autonomo no tiene solo dos estados (simpatico activo o parasimpatico en descanso) sino tres estados jerarquicos que se activan en secuencia según el nivel percibido de amenaza. El primer estado es el de compromiso social (nervio vago ventral activo): la persona esta en calma, conectada, con capacidad de comunicación y de co-regulación. El segundo estado es el de movilización (sistema simpatico activo): ante una amenaza, el organismo se prepara para luchar o huir, con aumento de la frecuencia cardiaca y redistribución de recursos. El tercer estado es el de inmovilización (nervio vago dorsal activo): ante una amenaza que excede la capacidad de lucha o huida, el organismo se apaga, se paraliza, y puede disociarse.
 
-El trauma, desde la perspectiva polivagal, produce que el sistema nervioso quede atascado en estados de movilización o inmovilización cronica, con dificultad para regresar al estado de compromiso social incluso cuando la amenaza objetiva ya no existe. El tratamiento del trauma, desde esta perspectiva, implica trabajar para restaurar la capacidad del sistema nervioso de moverse fluidamente entre los tres estados segun el contexto real.
+El trauma, desde la perspectiva polivagal, produce que el sistema nervioso quede atascado en estados de movilización o inmovilización cronica, con dificultad para regresar al estado de compromiso social incluso cuando la amenaza objetiva ya no existe. El tratamiento del trauma, desde esta perspectiva, implica trabajar para restaurar la capacidad del sistema nervioso de moverse fluidamente entre los tres estados según el contexto real.
 
 **Ejercicio inmediato:** Identifica cuales son tus patrones habituales de activación: ¿tiendes a la hiperactivación (tensión cronica, irritabilidad, dificultad para relajarse, pensamiento acelerado) o a la hipoactivación (embotamiento, desconexion, dificultad para sentir, fatiga cronica)? Ambos patrones son el sistema nervioso atascado en un estado que fue adaptativo durante el trauma pero que ya no corresponde al presente.
 
@@ -63,7 +63,7 @@ El cuerpo que tiene zonas de seguridad puede explorar las de tensión con mayor 
 
 ## Capítulo 4: EMDR y cuerpo: la memoria somatica del trauma
 
-Ruben ha oido que el EMDR trabaja con el cuerpo ademas de con los recuerdos. Esta dimensión somatica del EMDR es parte central de su efectividad.
+Ruben ha oido que el EMDR trabaja con el cuerpo además de con los recuerdos. Esta dimensión somatica del EMDR es parte central de su efectividad.
 
 **El Principio de la Memoria Somatica como Objetivo del EMDR:** El EMDR (Eye Movement Desensitization and Reprocessing), aunque se conoce principalmente por su uso de los movimientos oculares, trabaja de forma sistemática con las sensaciones corporales asociadas a los recuerdos traumáticos. El protocolo estandar incluye la identificación no solo de la cognición negativa y la emoción asociadas al recuerdo traumático sino también de las sensaciones corporales (donde se siente en el cuerpo, que forma tiene, cual es su intensidad).
 
@@ -85,7 +85,7 @@ La terapia sensoriomotriz trabaja con los impulsos de movimiento que emergieron 
 
 **Ejercicio inmediato:** Observa si hay impulsos de movimiento que emergen cuando piensas en una situación difícil del pasado: el impulso de cubrirte, de alejarte, de empujar, de contraerte. Sin actuar dramaticamente, permite que ese impulso se exprese de forma muy pequeña: levanta una mano como en gesto de parar, o haz el movimiento de alejamiento más pequeño que puedas imaginar. Esta versión mínima del movimiento puede iniciar la descarga somatica de forma segura.
 
-El cuerpo que no pudo moverse cuando quería todavia guarda el recuerdo de ese movimiento interrumpido. Completarlo, aunque sea en miniatura, puede completar también el ciclo del trauma.
+El cuerpo que no pudo moverse cuando quería todavía guarda el recuerdo de ese movimiento interrumpido. Completarlo, aunque sea en miniatura, puede completar también el ciclo del trauma.
 
 ---
 

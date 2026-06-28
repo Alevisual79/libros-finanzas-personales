@@ -21,7 +21,7 @@ Elena lleva tres meses con alguien y no sabe si son pareja o no. Se ven varias v
 
 ## Capítulo 1: Por qué evitamos definir la relación
 
-La conversación de definir la relación genera ansiedad significativa porque expone a riesgo de rechazó explícito una conexión que, en su ambiguedad, todavia permite la esperanza sin confirmación.
+La conversación de definir la relación genera ansiedad significativa porque expone a riesgo de rechazó explícito una conexión que, en su ambiguedad, todavía permite la esperanza sin confirmación.
 
 **El Principio de la Protección de la Ambiguedad:** Mientras una relación permanece sin definir, ninguna de las partes ha sido explicitamente rechazada ni ha tenido que comprometerse explicitamente, lo que ofrece una protección psicológica temporal contra el riesgo de la claridad. Esta protección, sin embargo, tiene un costo: la ansiedad cronica de la incertidumbre no resuelta, que frecuentemente supera, a largo plazo, el riesgo puntual de tener la conversación clarificadora.
 
@@ -33,7 +33,7 @@ Evitar la conversación de definir la relación no elimina el riesgo. Solo lo po
 
 ## Capítulo 2: El momento para tener la conversación
 
-Determinar el momento apropiado para tener la conversación de definición de relación requiere calibración segun señales específicas de la situación, más que seguir una regla generica sobre cuanto tiempo debe pasar.
+Determinar el momento apropiado para tener la conversación de definición de relación requiere calibración según señales específicas de la situación, más que seguir una regla generica sobre cuanto tiempo debe pasar.
 
 **El Principio de las Señales de Madurez de la Conexión:** El momento apropiado para la conversación de definición tiende a coincidir con señales específicas: la relación ha desarrollado patrones de regularidad y exclusividad de facto, ambas partes muestran señales de inversión emocional creciente, y la incertidumbre sobre el estado de la relación comienza a generar ansiedad o decisiones evitadas (como no explorar otras conexiones por lealtad implícita no confirmada).
 

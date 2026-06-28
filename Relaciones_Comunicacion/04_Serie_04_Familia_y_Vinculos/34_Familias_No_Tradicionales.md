@@ -51,7 +51,7 @@ Las familias reconstituidas, formadas tras la separación y nueva unión de uno 
 
 **El Principio de la Construcción Gradual del Vínculo:** Patricia Papernow, investigadora especializada en familias reconstituidas, muestra que el error más común en estas familias es esperar que los nuevos vínculos (entre la pareja del progenitor y los hijos, entre hermanastros) se formen con la misma rapidez e intensidad que los vínculos biológicos. El proceso real de integración de una familia reconstituida toma tipicamente entre cuatro y siete años, y forzar la cercania antes de ese tiempo natural suele generar resistencia, no conexión.
 
-**Ejercicio inmediato:** Si formas parte de una familia reconstituida reciente, ajusta tus expectativas sobre el ritmo de formación de vínculos. Identifica una acción pequeña que pueda construir conexión gradualmente, sin forzar una cercania que todavia no es orgánica.
+**Ejercicio inmediato:** Si formas parte de una familia reconstituida reciente, ajusta tus expectativas sobre el ritmo de formación de vínculos. Identifica una acción pequeña que pueda construir conexión gradualmente, sin forzar una cercania que todavía no es orgánica.
 
 Los vínculos en una familia reconstituida no se decretan. Se construyen, con tiempo y paciencia, ladrillo a ladrillo.
 
@@ -59,7 +59,7 @@ Los vínculos en una familia reconstituida no se decretan. Se construyen, con ti
 
 ## Capítulo 4: El reto de los hijos de padres separados
 
-Los hijos que viven entre dos hogares después de la separación de sus padres enfrentan desafios específicos de adaptación que los padres pueden facilitar o complicar significativamente segun como gestionen su propia relación de coparentalidad.
+Los hijos que viven entre dos hogares después de la separación de sus padres enfrentan desafios específicos de adaptación que los padres pueden facilitar o complicar significativamente según como gestionen su propia relación de coparentalidad.
 
 **El Principio del Conflicto Parental como Factor de Riesgo Principal:** La investigación sobre el impacto del divorcio en los hijos es consistente en un hallazgo: lo que más predice el bienestar de los hijos no es el divorcio en si, sino el nivel de conflicto entre los padres que el hijo presencia después de la separación. Los hijos de padres separados que mantienen una coparentalidad respetuosa tienen resultados de bienestar similares a los hijos de familias intactas, mientras que los que presencian conflicto continuado tienen resultados significativamente peores.
 

@@ -59,9 +59,9 @@ La atracción no nombrada en una amistad mixta no desaparece. Se queda cómo una
 
 Mantener una amistad con una expareja romantica es posible para algunas personas pero presenta desafios específicos relacionados con el residual emocional de la relación romantica anterior y las dinámicas de poder o de comparación que pueden persistir.
 
-**El Principio del Tiempo de Procesamiento Previo:** Las amistades con exparejas que funcionan bien generalmente requieren un período significativo de distancia y procesamiento emocional después de la ruptura romantica antes de poder establecer una amistad genuina, en lugar de intentar la transición inmediata de pareja a amigo, que frecuentemente fracasa porque las emociones residuales de la relación romantica todavia estan activas.
+**El Principio del Tiempo de Procesamiento Previo:** Las amistades con exparejas que funcionan bien generalmente requieren un período significativo de distancia y procesamiento emocional después de la ruptura romantica antes de poder establecer una amistad genuina, en lugar de intentar la transición inmediata de pareja a amigo, que frecuentemente fracasa porque las emociones residuales de la relación romantica todavía estan activas.
 
-**Ejercicio inmediato:** Si estas considerando o manteniendo una amistad con una expareja, evalua honestamente si ha pasado suficiente tiempo y procesamiento emocional para que sea una amistad genuina, o si todavia hay residuos romanticos sin resolver que complican la relación.
+**Ejercicio inmediato:** Si estas considerando o manteniendo una amistad con una expareja, evalua honestamente si ha pasado suficiente tiempo y procesamiento emocional para que sea una amistad genuina, o si todavía hay residuos romanticos sin resolver que complican la relación.
 
 Una amistad con una expareja que funciona bien casi siempre requiere haber dejado pasar el tiempo suficiente para que la relación romantica este genuinamente cerrada.
 
@@ -83,7 +83,7 @@ La inseguridad de una pareja hacía un amigo del genero opuesto frecuentemente d
 
 Cuando una pareja romantica expresa celos o incomodidad hacía una amistad mixta, gestionar esta situación requiere balance entre la validación de las preocupaciones legitimas de la pareja y la protección de amistades valiosas que no merecen sacrificarse sin razón justificada.
 
-**El Principio del Balance entre Validación y Limite:** Gestionar los celos de pareja hacía una amistad requiere primero escuchar genuinamente la preocupación (que puede tener fundamentos legitimos o no) y luego, segun la evaluación honesta de la situación, decidir si se requieren ajustes en la amistad para tranquilizar preocupaciones razonables, o si se requiere comunicar con claridad que la amistad es importante y no esta dispuesta a sacrificarse sin una razón de peso específica.
+**El Principio del Balance entre Validación y Limite:** Gestionar los celos de pareja hacía una amistad requiere primero escuchar genuinamente la preocupación (que puede tener fundamentos legitimos o no) y luego, según la evaluación honesta de la situación, decidir si se requieren ajustes en la amistad para tranquilizar preocupaciones razonables, o si se requiere comunicar con claridad que la amistad es importante y no esta dispuesta a sacrificarse sin una razón de peso específica.
 
 **Ejercicio inmediato:** Si enfrentas celos de tu pareja hacía una amistad, ten una conversación explícita preguntando específicamente que comportamiento o situación genera la preocupación, en lugar de descartar la preocupación de forma generica o aceptar cualquier demanda sin examen crítico.
 

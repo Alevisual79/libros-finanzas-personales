@@ -23,7 +23,7 @@ Elena siente que la presión de ser la mejor versión de si misma la agota más 
 
 La idea de convertirse en la mejor versión de uno mismo puede ser la motivación más potente o la fuente más sutil de sufrimiento innecesario.
 
-**El Principio de la Mejor Versión como Concepto que Puede Servir al Florecimiento o a la Comparación Perpetua segun Cómo se Use:** El concepto de mejor versión de uno mismo (best self) esta presente en prácticamente toda la literatura de desarrollo personal de las últimas décadas. En su versión liberadora, propone que hay un potencial sin realizar en cada persona que puede desarrollarse con intención y práctica. En su versión opresiva, se convierte en un estandar de perfección inalcanzable que hace que cualquier estado actual sea insatisfactorio.
+**El Principio de la Mejor Versión como Concepto que Puede Servir al Florecimiento o a la Comparación Perpetua según Cómo se Use:** El concepto de mejor versión de uno mismo (best self) esta presente en prácticamente toda la literatura de desarrollo personal de las últimas décadas. En su versión liberadora, propone que hay un potencial sin realizar en cada persona que puede desarrollarse con intención y práctica. En su versión opresiva, se convierte en un estandar de perfección inalcanzable que hace que cualquier estado actual sea insatisfactorio.
 
 Laura King investiga el mejor yo posible (possible selves): la investigación muestra que visualizar el mejor yo posible en áreas específicas de la vida produce efectos positivos en el bienestar y la motivación cuando va acompanado de expectativas realistas, pero efectos negativos cuando la brecha entre el yo actual y el yo posible se vive como fracaso en lugar de como dirección.
 
@@ -65,7 +65,7 @@ Crecer en lo que genuinamente importa produce florecimiento. Crecer en todo porq
 
 Ruben compara su nivel de desarrollo personal con el de las personas que consume en redes sociales y frecuentemente sale peor parado.
 
-**El Principio de la Comparación Social Ascendente como Fuente de Motivación o Sufrimiento segun el Marco de Referencia:** Leon Festinger propuso en 1954 la teoria de la comparación social: las personas evaluan sus opiniones y capacidades comparandose con los demás. La comparación ascendente (compararse con los que estan por encima) puede producir motivación (quiero llegar donde estan) o sufrimiento (no soy suficientemente bueno), dependiendo del marcó desde el que se hace.
+**El Principio de la Comparación Social Ascendente como Fuente de Motivación o Sufrimiento según el Marco de Referencia:** Leon Festinger propuso en 1954 la teoria de la comparación social: las personas evaluan sus opiniones y capacidades comparandose con los demás. La comparación ascendente (compararse con los que estan por encima) puede producir motivación (quiero llegar donde estan) o sufrimiento (no soy suficientemente bueno), dependiendo del marcó desde el que se hace.
 
 La investigación de Thomas Mussweiler muestra que la comparación social producida por las redes sociales es sistemáticamente más dañina que la comparación con el entorno real porque las redes producen una muestra sesgada hacía lo positivo: las personas muestran sus mejores momentos, sus mayores logros, y sus vidas más curadas, produciendo una referencia irreal con la que es imposible no salir perdiendo.
 

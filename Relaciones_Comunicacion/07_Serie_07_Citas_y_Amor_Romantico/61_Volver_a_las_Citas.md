@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena lleva dos años sin salir con nadie después de su última ruptura. No es que no quiera conocer a alguien. Es que no sabe como volver a empezar, como dar el primer paso de algo que antes ocurria con naturalidad y que ahora se siente como un territorio completamente desconocido, cargado de miedo a repetir el dolor que todavia recuerda con claridad.
+Elena lleva dos años sin salir con nadie después de su última ruptura. No es que no quiera conocer a alguien. Es que no sabe como volver a empezar, como dar el primer paso de algo que antes ocurria con naturalidad y que ahora se siente como un territorio completamente desconocido, cargado de miedo a repetir el dolor que todavía recuerda con claridad.
 
 ---
 
@@ -23,9 +23,9 @@ Elena lleva dos años sin salir con nadie después de su última ruptura. No es 
 
 Volver a tener citas después de una relación significativa requiere, frecuentemente, completar primero el proceso de duelo de la relación anterior, sin lo cual las nuevas citas se ven contaminadas por comparaciones y emociones no resueltas.
 
-**El Principio de la Secuencia del Duelo:** Intentar iniciar nuevas conexiones romanticas antes de haber procesado adecuadamente el duelo de una relación anterior significativa frecuentemente produce comparaciones constantes, proyección de patrones no resueltos sobre la nueva persona, y una capacidad reducida de presencia genuina en la nueva conexión. El tiempo de duelo necesario varia segun la persona y la relación, pero generalmente no es instantaneo.
+**El Principio de la Secuencia del Duelo:** Intentar iniciar nuevas conexiones romanticas antes de haber procesado adecuadamente el duelo de una relación anterior significativa frecuentemente produce comparaciones constantes, proyección de patrones no resueltos sobre la nueva persona, y una capacidad reducida de presencia genuina en la nueva conexión. El tiempo de duelo necesario varia según la persona y la relación, pero generalmente no es instantaneo.
 
-**Ejercicio inmediato:** Evalua honestamente si has completado suficientemente el proceso de duelo de tu relación anterior antes de iniciar nuevas citas. Si todavia piensas frecuentemente en tu ex con dolor no resuelto, esa es información relevante sobre tu disponibilidad real para algo nuevo.
+**Ejercicio inmediato:** Evalua honestamente si has completado suficientemente el proceso de duelo de tu relación anterior antes de iniciar nuevas citas. Si todavía piensas frecuentemente en tu ex con dolor no resuelto, esa es información relevante sobre tu disponibilidad real para algo nuevo.
 
 Volver a las citas antes de completar el duelo no acelera la sanación. Solo traslada el dolor no resuelto a la nueva relación.
 

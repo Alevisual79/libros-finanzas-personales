@@ -33,7 +33,7 @@ El tiempo que lleva conociendo a alguien no determina la calidad de la amistad. 
 
 ## Capítulo 2: El mito de los amigos de siempre
 
-La idea cultural de que los amigos de la infancia o la adolescencia son automáticamente los amigos más verdaderos o importantes de la vida adulta es, segun la investigación, más mito que realidad.
+La idea cultural de que los amigos de la infancia o la adolescencia son automáticamente los amigos más verdaderos o importantes de la vida adulta es, según la investigación, más mito que realidad.
 
 **El Principio de la Idealización Nostalgica:** La nostalgia hacía las amistades de juventud frecuentemente idealiza una conexión que existio en circunstancias muy distintas a las actuales (mismo contexto, mismas etapas de vida, mismo tiempo disponible) y que puede no sostenerse si las dos personas, ahora con vidas muy diferentes, intentaran reconstruirla desde cero hoy. Reconocer esto no devalua lo que esas amistades significaron, pero permite evaluar honestamente si siguen siendo amistades activas o si son, más precisamente, recuerdos compartidos valiosos.
 
@@ -49,7 +49,7 @@ Las amistades atraviesan transformaciones naturales a lo largo de la vida, adapt
 
 **El Principio de la Amistad como Relación Evolutiva:** Las amistades que duran décadas no son las que permanecen estaticas, sino las que han evolucionado juntó con los cambios de vida de ambas personas: cambios de ciudad, de etapa familiar, de carrera, de valores. Las amistades que se estancan en la versión de la relación que existia en un momento específico (la universidad, la juventud) sin adaptarse a quienes son las personas ahora tienden a sentirse cada vez más distantes de la realidad actual de ambos.
 
-**Ejercicio inmediato:** Para una amistad de larga duración que valoras, reflexiona sobre como ha cambiado la relación a lo largo de los años. Se ha adaptado a quienes son ustedes ahora, o sigue funcionando segun un guion de una etapa anterior de la vida?
+**Ejercicio inmediato:** Para una amistad de larga duración que valoras, reflexiona sobre como ha cambiado la relación a lo largo de los años. Se ha adaptado a quienes son ustedes ahora, o sigue funcionando según un guion de una etapa anterior de la vida?
 
 Las amistades que duran no son las que no cambian. Son las que cambian juntó con las personas que las sostienen.
 

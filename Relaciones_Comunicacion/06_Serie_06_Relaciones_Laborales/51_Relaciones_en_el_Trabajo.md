@@ -27,7 +27,7 @@ El impacto de las relaciones laborales en el bienestar general y en el desempeñ
 
 **Ejercicio inmediato:** Evalua honestamente la calidad de tus relaciones laborales actuales. Tienes al menos una conexión en el trabajo que va más allá de lo puramente transaccional? Si la respuesta es no, esa es información relevante sobre un área de tu vida profesional que merece atención.
 
-Las relaciones laborales no son el adorno de tu trabajo. Son, segun toda la evidencia disponible, parte fundamental de su calidad.
+Las relaciones laborales no son el adorno de tu trabajo. Son, según toda la evidencia disponible, parte fundamental de su calidad.
 
 ---
 
@@ -35,9 +35,9 @@ Las relaciones laborales no son el adorno de tu trabajo. Son, segun toda la evid
 
 No todas las relaciones laborales son del mismo tipo, y entender las distinciones entre colega, aliado y amigo ayuda a gestionar expectativas apropiadas para cada tipo de vinculó.
 
-**El Principio de los Niveles de Vínculo Profesional:** Un colega es alguien con quien se comparte espacio y objetivos de trabajo sin necesariamente una conexión personal significativa. Un aliado es alguien que apoya activamente el éxito profesional del otro, con cierta reciprocidad de apoyo más allá de lo estrictamente requerido. Un amigo en el trabajo incluye, ademas de estos elementos, una conexión personal genuina que trasciende el contexto laboral. Confundir estos niveles (esperar lealtad de amigo de alguien que es solo colega) genera decepciones evitables.
+**El Principio de los Niveles de Vínculo Profesional:** Un colega es alguien con quien se comparte espacio y objetivos de trabajo sin necesariamente una conexión personal significativa. Un aliado es alguien que apoya activamente el éxito profesional del otro, con cierta reciprocidad de apoyo más allá de lo estrictamente requerido. Un amigo en el trabajo incluye, además de estos elementos, una conexión personal genuina que trasciende el contexto laboral. Confundir estos niveles (esperar lealtad de amigo de alguien que es solo colega) genera decepciones evitables.
 
-**Ejercicio inmediato:** Clasifica a las personas más relevantes de tu entorno laboral segun estos tres niveles. Tus expectativas hacía cada una, estan calibradas segun el nivel real de la relación, o esperas de un colega lo que solo un amigo podría dar?
+**Ejercicio inmediato:** Clasifica a las personas más relevantes de tu entorno laboral según estos tres niveles. Tus expectativas hacía cada una, estan calibradas según el nivel real de la relación, o esperas de un colega lo que solo un amigo podría dar?
 
 Esperar lealtad de amistad de alguien que solo es colega genera decepciones que podrían evitarse con expectativas más precisas.
 

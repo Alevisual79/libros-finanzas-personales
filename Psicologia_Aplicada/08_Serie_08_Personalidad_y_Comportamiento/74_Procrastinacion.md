@@ -57,7 +57,7 @@ El descuento temporal (la tendencia a valorar las recompensas inmediatas más qu
 
 **Ejercicio inmediato:** práctica la técnica de concretizar el yo futuro: imagina con detalle cómo se sentira tu yo de mañana (o la semana que viene) si no has hecho la tarea ahora. No de forma abstracta sino específicamente: como será su estado de animo, que tipo de presión estará sintiendo, que pensara de tu yo de hoy que lo puso en esa situación. Esta concretización acorta la distancia psicológica con el yo futuro.
 
-El yo del futuro que vas a crear con tus decisiones de hoy es tan real como el yo que eres ahora. Solo que todavia no puede hablarte.
+El yo del futuro que vas a crear con tus decisiones de hoy es tan real como el yo que eres ahora. Solo que todavía no puede hablarte.
 
 ---
 
@@ -65,7 +65,7 @@ El yo del futuro que vas a crear con tus decisiones de hoy es tan real como el y
 
 Elena es perfeccionista y su perfeccionismo alimenta directamente su procrastinación.
 
-**El Principio del Perfeccionismo como Trampa que Usa el Aplazamiento como Escudo:** La investigación de Paul Hewitt, Gordon Flett, y colegas muestra que el perfeccionismo maladaptativo (estandares inalcanzables + autocritica severa ante la imperfección) alimenta la procrastinación a traves de un mecanismo específico: si no empiezo, no puedo fallar. El aplazamiento protege la imagen de competencia (todavia no lo he hecho, pero si lo hiciera podría hacerlo perfectamente) que empezar y producir algo imperfecto amenazaria.
+**El Principio del Perfeccionismo como Trampa que Usa el Aplazamiento como Escudo:** La investigación de Paul Hewitt, Gordon Flett, y colegas muestra que el perfeccionismo maladaptativo (estandares inalcanzables + autocritica severa ante la imperfección) alimenta la procrastinación a traves de un mecanismo específico: si no empiezo, no puedo fallar. El aplazamiento protege la imagen de competencia (todavía no lo he hecho, pero si lo hiciera podría hacerlo perfectamente) que empezar y producir algo imperfecto amenazaria.
 
 La paradoja del perfeccionismo procrastinante es que produce el resultado exactamente contrario al que busca: el trabajo realizado con tiempo limitado por el aplazamiento es inevitablemente de menor calidad que el realizado con tiempo suficiente. El aplazamiento que protege la imagen de competencia la destruye de forma práctica.
 

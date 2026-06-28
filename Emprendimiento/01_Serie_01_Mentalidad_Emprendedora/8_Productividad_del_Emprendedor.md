@@ -29,7 +29,7 @@ La investigación de Cal Newport sobre el deep work muestra que la mayoría del 
 
 **Ejercicio inmediato:** Durante los próximos tres dias, registra en tiempo real cada actividad que realizas (con granularidad de quince minutos). Al final de los tres dias, clasifica cada actividad en: alta contribución a los objetivos de negocio (directamente genera ingresos o construye capacidad crítica), media contribución, o baja contribución. La proporción de tiempo en alta vs. baja contribución te dirá con precisión donde esta el problema de productividad real.
 
-El emprendedor que trabaja doce horas en actividades de bajo valor produce menos que el que trabaja seis en actividades de alto valor. Y ademas esta más cansado.
+El emprendedor que trabaja doce horas en actividades de bajo valor produce menos que el que trabaja seis en actividades de alto valor. Y además esta más cansado.
 
 ---
 
@@ -125,7 +125,7 @@ Marcos ha descubierto que reducir el número de proyectos en los que trabaja en 
 
 La investigación de Mihaly Csikszentmihalyi sobre el flow muestra que el estado de maxima productividad y satisfacción (el flow) requiere la concentración completa en una tarea específica con la dificultad adecuada. El multitasking es incompatible con el flow.
 
-**Ejercicio inmediato:** Lista todos los proyectos activos en tu negocio en este momento (incluyendo los que estan en pausa pero en los que todavia piensas). Para cada uno, reflexiona: ¿si pudiera trabajar solo en uno de ellos durante los próximos treinta dias, cual produciria el mayor impacto en el negocio? Si la respuesta es clara, considera si los demás proyectos podrían pausarse temporalmente para concentrar los recursos en el de mayor impacto.
+**Ejercicio inmediato:** Lista todos los proyectos activos en tu negocio en este momento (incluyendo los que estan en pausa pero en los que todavía piensas). Para cada uno, reflexiona: ¿si pudiera trabajar solo en uno de ellos durante los próximos treinta dias, cual produciria el mayor impacto en el negocio? Si la respuesta es clara, considera si los demás proyectos podrían pausarse temporalmente para concentrar los recursos en el de mayor impacto.
 
 El proyecto que haces bien es mejor que los tres que haces mediocremente. Y frecuentemente se hace en menos tiempo total.
 

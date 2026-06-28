@@ -27,7 +27,7 @@ El miedo a vender viene de una imagen del vendedor que raramente corresponde a l
 
 La investigación de Pink muestra que los rasgos que la gente asocia con los buenos vendedores han cambiado: ya no son la extroversión y la agresividad sino la ambiversión (ni completamente introvertido ni completamente extrovertido), la capacidad de escuchar profundamente, y la empatia con el cliente. El mejor vendedor no empuja: ayuda al cliente a tomar la mejor decisión para el.
 
-**Ejercicio inmediato:** Recuerda la última vez que convenciste a alguien de algo sin ninguna presión: le recomendaste una pelicula, le sugeriste un restaurante, o le propusiste una forma diferente de hacer algo. Analiza que hiciste en esa conversación: probablemente escuchaste sus preferencias, propusiste algo específico coherente con esas preferencias, y explicaste por qué creías que le gustaria. Eso es exactamente lo que hace un buen vendedor. Ya sabes vender. Solo no lo sabes todavia.
+**Ejercicio inmediato:** Recuerda la última vez que convenciste a alguien de algo sin ninguna presión: le recomendaste una pelicula, le sugeriste un restaurante, o le propusiste una forma diferente de hacer algo. Analiza que hiciste en esa conversación: probablemente escuchaste sus preferencias, propusiste algo específico coherente con esas preferencias, y explicaste por qué creías que le gustaria. Eso es exactamente lo que hace un buen vendedor. Ya sabes vender. Solo no lo sabes todavía.
 
 El miedo a vender no viene de no saber como. Viene de la imagen equivocada de lo que es vender.
 
@@ -83,7 +83,7 @@ Carlos ha aprendido que el cierre de ventas no es el momento en que presionas al
 
 Jeffrey Gitomer propone que el mejor cierre de ventas no es una técnica sino una pregunta que facilita la decisión: ¿basandonos en lo que hemos hablado, tiene sentido seguir adelante? Esa pregunta, formulada cuando el cliente ha manifestado suficiente interés y las objeciones principales han sido respondidas, facilita la decisión sin presión.
 
-**Ejercicio inmediato:** práctica tres preguntas de cierre sin presión para usar al final de tu próxima conversación de ventas: ¿tiene sentido seguir adelante con los próximos pasos?, que necesitas para sentirte comodo con esta decisión?, o hay algo que te impida empezar esta semana?. Esas preguntas facilitan la decisión en lugar de presionar para ella. Si la respuesta es no o todavia no, pregunta que hace falta para que tenga sentido en el futuro.
+**Ejercicio inmediato:** práctica tres preguntas de cierre sin presión para usar al final de tu próxima conversación de ventas: ¿tiene sentido seguir adelante con los próximos pasos?, que necesitas para sentirte comodo con esta decisión?, o hay algo que te impida empezar esta semana?. Esas preguntas facilitan la decisión en lugar de presionar para ella. Si la respuesta es no o todavía no, pregunta que hace falta para que tenga sentido en el futuro.
 
 El cierre que presiona al cliente para qué diga si puede conseguir la firma pero pierde el cliente.
 

@@ -59,7 +59,7 @@ El respeto es la condición sin la cual ninguno de los otros pilares puede mante
 
 **Ejercicio inmediato:** Revisa mentalmente las últimas semanas en tu relación. Ha habido momentos de desprecio (sarcasmo, minimización, superioridad) de cualquiera de los dos? Si los ha habido, ese es el indicador más urgente de trabajo relacional necesario. El desprecio no se resuelve con más amor. Se resuelve con la decisión consciente de reemplazarlo por consideración.
 
-Una relación en que hay desprecio ya esta perdida, aunque todavia no lo parezca.
+Una relación en que hay desprecio ya esta perdida, aunque todavía no lo parezca.
 
 ---
 
@@ -109,11 +109,11 @@ Los rituales no son los momentos grandes. Son los momentos pequeños que se repi
 
 El hallazgo más consistente de la investigación sobre satisfacción relacional a largo plazo es este: las parejas que describen a su pareja como su mejor amigo o amiga tienen niveles significativamente más altos de satisfacción que las que no. No los que tienen más pasión. No los que tienen más dinero. Los que tienen más amistad.
 
-**El Principio de la Amistad Romantica:** La amistad de pareja tiene cuatro componentes específicos segun Gottman: los mapas del amor (el conocimiento detallado del mundo interior del otro), la cultura de admiración y gratitud (la capacidad de ver lo bueno del otro incluso en los momentos difíciles), la respuesta a las necesidades de conexión (lo que el llama turning towards), y la influencia mutua (la disposición a ser influido por el otro y no solo a influirlo).
+**El Principio de la Amistad Romantica:** La amistad de pareja tiene cuatro componentes específicos según Gottman: los mapas del amor (el conocimiento detallado del mundo interior del otro), la cultura de admiración y gratitud (la capacidad de ver lo bueno del otro incluso en los momentos difíciles), la respuesta a las necesidades de conexión (lo que el llama turning towards), y la influencia mutua (la disposición a ser influido por el otro y no solo a influirlo).
 
 La amistad profunda en la pareja no ocurre por accidente. Se construye con la intención de seguir conociendo al otro a medida que ambos cambian, con la práctica de la gratitud genuina, y con la elección de responder a las necesidades de conexión del otro aunque en ese momento haya cosas más urgentes que atender.
 
-**Ejercicio inmediato:** Esta semana, práctica el mapa del amor de Gottman: pregunta a tu pareja algo sobre su vida interior que no sepas todavia. Un sueño que tiene para los próximos cinco años, algo que lo preocupa en este momento, algo que le produce mucha alegria. Las respuestas te dicen si el mapa que tienes de el o ella esta actualizado o si llevas tiempo sin actualizarlo.
+**Ejercicio inmediato:** Esta semana, práctica el mapa del amor de Gottman: pregunta a tu pareja algo sobre su vida interior que no sepas todavía. Un sueño que tiene para los próximos cinco años, algo que lo preocupa en este momento, algo que le produce mucha alegria. Las respuestas te dicen si el mapa que tienes de el o ella esta actualizado o si llevas tiempo sin actualizarlo.
 
 Conoces a tu pareja como era hace cinco años. Conocer a quien es hoy requiere seguir preguntando.
 
@@ -125,7 +125,7 @@ La mayoría de las parejas hablan de los problemas cuando ya son problemas. Las 
 
 **El Principio de la Comunicación Proactiva:** La comunicación preventiva es hablar de lo que va bien y de lo que podría mejorar antes de que lo que podría mejorar se convierta en una crisis. Requiere un contexto de suficiente seguridad como para decir cosas incomodas sin que el otro las interprete como ataques, y un hábito de revisión periodica de la relación fuera de los momentos de conflicto.
 
-Las parejas que tienen esta cultura de comunicación no son las que no tienen problemas. Son las que gestionan los problemas en etapas tempranas cuando todavia son manejables, en lugar de dejarlos acumularse hasta que la carga es demasiado grande.
+Las parejas que tienen esta cultura de comunicación no son las que no tienen problemas. Son las que gestionan los problemas en etapas tempranas cuando todavía son manejables, en lugar de dejarlos acumularse hasta que la carga es demasiado grande.
 
 **Ejercicio inmediato:** Propone a tu pareja una conversación mensual de revisión de la relación. No para hablar de problemas sino para hablar de lo que va bien y de lo que cada uno necesita que podría mejorar. El formato puede ser simple: una cosa que valoro de este mes, una cosa que me gustaria que fuera diferente. La regularidad es lo que convierte esta conversación en hábito en lugar de en evento de crisis.
 

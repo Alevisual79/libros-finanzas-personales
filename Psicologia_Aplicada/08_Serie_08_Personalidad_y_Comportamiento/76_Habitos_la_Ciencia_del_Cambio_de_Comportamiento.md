@@ -119,7 +119,7 @@ El hábito que solo tiene recompensa futura compite en desventaja con todos los 
 
 ## Capítulo 8: Los habitos sociales: cuando el entorno de personas es el mayor detonador
 
-Isabel ha notado que sus hábitos cambian completamente segun con quien este. Las personas son el entorno más poderoso.
+Isabel ha notado que sus hábitos cambian completamente según con quien este. Las personas son el entorno más poderoso.
 
 **El Principio del Entorno Social como el Más Potente Diseno de Entorno para el Comportamiento:** La investigación de Nicholas Christakis y James Fowler sobre la transmisión de comportamientos en redes sociales muestra que los comportamientos (incluyendo fumar, hacer ejercicio, comer saludablemente, o consumir alcohol) se transmiten a traves de las redes sociales con efectos que llegan hasta tres grados de separación. Las personas del entorno inmediato no son neutrales con respecto a los hábitos: activamente facilitan o dificultan los comportamientos deseados.
 

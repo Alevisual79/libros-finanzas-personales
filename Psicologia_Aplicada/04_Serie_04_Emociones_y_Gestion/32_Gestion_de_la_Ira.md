@@ -63,7 +63,7 @@ No suprimas la ira. Regulala. Hay una diferencia, y esa diferencia mide el estad
 
 ## Capítulo 4: La ira cronica: cuando la rabia se convierte en estado permanente
 
-Elena vive con un nivel de irritabilidad de fondo que sus colegas atribuyen a su carácter. Ella sabe que no siempre fue asi. La ira cronica, que es diferente de los episodios agudos de ira, tiene causas y consecuencias específicas.
+Elena vive con un nivel de irritabilidad de fondo que sus colegas atribuyen a su carácter. Ella sabe que no siempre fue así. La ira cronica, que es diferente de los episodios agudos de ira, tiene causas y consecuencias específicas.
 
 **El Principio de la Ira Cronica como Senal de Agotamiento y Percepción de Injusticia Persistente:** Jerry Deffenbacher, psicologo clínico que ha investigado la ira cronica extensamente, distingue entre la ira de rasgo (una tendencia disposicional a experimentar ira con mayor frecuencia e intensidad que la media) y la ira de estado (la ira situacional y transitoria). La ira de rasgo alta, que se asocia con la ira cronica, se relaciona con mayor riesgo cardiovascular (meta-análisis de Chida y Steptoe), peores relaciones interpersonales, y menor satisfacción laboral.
 

@@ -51,7 +51,7 @@ La comunicación es el unico canal disponible para mantener la conexión en una 
 
 **El Principio del Equilibrio entre Frecuencia y Calidad:** Las parejas a distancia que mantienen relaciones satisfactorias no son necesariamente las que se comunican con más frecuencia, sino las que encuentran un equilibrio entre suficiente contacto regular para sentirse conectados y suficiente calidad de esa comunicación (atención real, no solo mensajes superficiales) para que el contacto sea significativo. La comunicación constante pero superficial (mensajes de buenos dias sin contenido real) puede dar una falsa sensación de conexión sin la profundidad necesaria para mantener la relación realmente fuerte.
 
-**Ejercicio inmediato:** Evaluen juntos la calidad, no solo la cantidad, de su comunicación actual. Tienen, ademas de los mensajes frecuentes, conversaciones regulares de profundidad real sobre como estan, que les preocupa, que les alegra? Si la respuesta es no, ese es el ajuste necesario.
+**Ejercicio inmediato:** Evaluen juntos la calidad, no solo la cantidad, de su comunicación actual. Tienen, además de los mensajes frecuentes, conversaciones regulares de profundidad real sobre como estan, que les preocupa, que les alegra? Si la respuesta es no, ese es el ajuste necesario.
 
 Cien mensajes superficiales no sustituyen a una conversación real de treinta minutos.
 

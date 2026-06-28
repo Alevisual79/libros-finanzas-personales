@@ -37,7 +37,7 @@ Las comunidades digitales varian significativamente en su estructura, proposito,
 
 **El Principio de la Diversidad Estructural:** Las comunidades online incluyen desde grupos de interés pasivo (foros de discusión sobre un tema específico) hasta comunidades de práctica activa (grupos de apoyo, comunidades de creadores colaborativos), cada una con su propio nivel típico de profundidad relacional posible y de compromiso esperado de sus miembros.
 
-**Ejercicio inmediato:** Clasifica tus comunidades online actuales segun su tipo y profundidad relacional típica. Esa clasificación te ayuda a calibrar expectativas apropiadas para cada una.
+**Ejercicio inmediato:** Clasifica tus comunidades online actuales según su tipo y profundidad relacional típica. Esa clasificación te ayuda a calibrar expectativas apropiadas para cada una.
 
 No todas las comunidades online ofrecen el mismo tipo de conexión. Entender la naturaleza específica de cada una ayuda a tener expectativas realistas sobre lo que puede proporcionar.
 
@@ -63,7 +63,7 @@ El anonimato o pseudonimato común en muchas comunidades online tiene efectos co
 
 **Ejercicio inmediato:** Reflexiona sobre como el anonimato (propio o de otros) en tus comunidades online ha facilitado conexión genuina, o ha facilitado comportamiento problematico que la identificación habría desincentivado.
 
-El anonimato en comunidades digitales no es uniformemente positivo o negativo. Facilita tanto la honestidad vulnerable cómo la deshonestidad sin consecuencias, segun el contexto específico.
+El anonimato en comunidades digitales no es uniformemente positivo o negativo. Facilita tanto la honestidad vulnerable cómo la deshonestidad sin consecuencias, según el contexto específico.
 
 ---
 

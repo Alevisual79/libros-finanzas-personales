@@ -29,7 +29,7 @@ La investigación de Morgan Housel en La psicología del Dinero muestra que el c
 
 **Ejercicio inmediato:** Reflexiona sobre las tres frases que recuerdas haber escuchado sobre el dinero en tu infancia: de tus padres, de la escuela, de tu comunidad. Para cada una, reflexiona: ¿que comportamiento de emprendedor produce esa creencia en mi? El emprendedor que no cobra lo que vale probablemente escuchó que el dinero es malo o que pedir dinero es de mala educación. Identificar el origen de la creencia no la elimina pero abre la posibilidad de cuestionarla.
 
-Las creencias sobre el dinero que tienes son las que alguien te dio. No las que tu elegiste. Todavia puedes elegir unas diferentes.
+Las creencias sobre el dinero que tienes son las que alguien te dio. No las que tu elegiste. Todavía puedes elegir unas diferentes.
 
 ---
 
@@ -83,7 +83,7 @@ Carlos ha cometido el error más común de los emprendedores: mezclar las finanz
 
 La separación financiera estricta (cuentas bancarias separadas, contabilidad separada, salario definido al fundador que se paga regularmente independientemente de los ingresos del negocio) produce claridad sobre la situación real del negocio y de las finanzas personales, facilitando decisiones de inversión y crecimiento basadas en datos reales.
 
-**Ejercicio inmediato:** Si no tienes cuenta bancaria separada para el negocio, abre una esta semana. Establece una transferencia regular (mensual o quincena) de la cuenta del negocio a tu cuenta personal que sea tu sueldo como fundador: una cantidad fija independientemente de los ingresos del mes (que puede ajustarse trimestralmente segun la situación del negocio). Ese salario definido convierte tu relación económica con el negocio en algo similar a la de cualquier empleado, con la claridad que eso produce.
+**Ejercicio inmediato:** Si no tienes cuenta bancaria separada para el negocio, abre una esta semana. Establece una transferencia regular (mensual o quincena) de la cuenta del negocio a tu cuenta personal que sea tu sueldo como fundador: una cantidad fija independientemente de los ingresos del mes (que puede ajustarse trimestralmente según la situación del negocio). Ese salario definido convierte tu relación económica con el negocio en algo similar a la de cualquier empleado, con la claridad que eso produce.
 
 El emprendedor que se paga un salario definido de su negocio sabe cuanto le cuesta vivir y cuanto necesita que el negocio genere. El que toma lo que necesita cuando lo necesita no sabe ninguna de las dos cosas.
 
@@ -113,7 +113,7 @@ La distinción entre inversión y gasto en el negocio: un gasto crea un coste si
 
 **Ejercicio inmediato:** Para cada gasto mensual significativo de tu negocio (más de cincuenta euros al mes), clasifícalo como inversión (genera retorno medible en ingresos o en capacidad de crecimiento) o gasto (es operativo necesario pero no genera retorno adicional) o gasto no necesario (podría eliminarse sin impacto en el negocio). El total de gastos no necesarios que identifies es dinero disponible para inversiones de mayor retorno.
 
-El gasto que no puede justificarse en terminos de retorno no es un gasto necesario. Es una opción de inversión que no has tomado todavia.
+El gasto que no puede justificarse en terminos de retorno no es un gasto necesario. Es una opción de inversión que no has tomado todavía.
 
 ---
 

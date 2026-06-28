@@ -69,7 +69,7 @@ La atracción te dice que la persona te gusta. La compatibilidad te dice si pued
 
 ## Capítulo 4: Red flags que ignoramos al principio
 
-El problema de las señales de alarma al principio de una relación no es que no existan. Es que existen y las ignoramos activamente. El enamoramiento produce un estado cognitivo que filtra las señales negativas y amplifica las positivas. Y ademas, hay una presión social y psicológica para no ver lo que esta ahí.
+El problema de las señales de alarma al principio de una relación no es que no existan. Es que existen y las ignoramos activamente. El enamoramiento produce un estado cognitivo que filtra las señales negativas y amplifica las positivas. Y además, hay una presión social y psicológica para no ver lo que esta ahí.
 
 **El Principio de la Minimización Temprana:** Las señales de alarma más importantes al principio de una relación son: inconsistencia entre lo que se dice y lo que se hace, exceso de encanto y velocidad de la intimidad (love bombing), incapacidad de hablar de emociones propias, hablar mal de todas las ex parejas sin asumir ninguna responsabilidad, reacción desproporcionada ante frustraciones pequeñas, y necesidad de control sobre las decisiones del otro.
 
@@ -111,7 +111,7 @@ El amor romantico que la cultura vende no es el que produce felicidad real. Es e
 
 ## Capítulo 7: Valores compartidos: el criterio más subestimado
 
-Dos personas pueden tener química, buena comunicación, respeto mutuo e historias de vida compatibles, y aun asi chocar sistemáticamente en el dia a dia si sus valores fundamentales son diferentes. Los valores son el mapa con el que cada persona navega las decisiones importantes. Cuando dos mapas son incompatibles, cada decisión importante se convierte en conflicto.
+Dos personas pueden tener química, buena comunicación, respeto mutuo e historias de vida compatibles, y aun así chocar sistemáticamente en el dia a dia si sus valores fundamentales son diferentes. Los valores son el mapa con el que cada persona navega las decisiones importantes. Cuando dos mapas son incompatibles, cada decisión importante se convierte en conflicto.
 
 **El Principio de los Valores como Infraestructura:** Los valores relevantes para la convivencia de pareja incluyen: la actitud ante el dinero (ahorro vs gasto, riesgo vs seguridad), la importancia de la familia de origen, la actitud ante los hijos (si tenerlos, como criarlos), el equilibrio entre vida social e intimidad de pareja, la importancia de la carrera profesional, la actitud religiosa o espiritual, y la visión de los roles de genero. La diferencia en uno o dos de estos valores puede ser gestionable. La diferencia en muchos crea un conflicto estructural que ninguna cantidad de amor puede resolver.
 
@@ -135,7 +135,7 @@ La persona que buscas en tu lista y la persona que te hará feliz a largo plazo 
 
 ## Capítulo 9: Cuando el cerebro racional dice no y el corazón dice si
 
-Ruben sabe que la persona con la que lleva seis meses no es buena para el. Sus amigos se lo dicen. Sus propias experiencias se lo confirman. Y aun asi no puede dejarla. Siente que lo que hay entre ellos es demasiado especial para dejarlo ir.
+Ruben sabe que la persona con la que lleva seis meses no es buena para el. Sus amigos se lo dicen. Sus propias experiencias se lo confirman. Y aun así no puede dejarla. Siente que lo que hay entre ellos es demasiado especial para dejarlo ir.
 
 **El Principio de la Intensidad como Señal Ambigua:** La intensidad emocional en una relación puede indicar compatibilidad profunda o puede indicar activación del sistema de apego por una relación que replica los patrones problematicos de la infancia. Las dos se sienten igual desde dentro. La diferencia esta en los resultados: una intensidad que produce conexión creciente, respeto mutuo y sensación de ser visto. Una intensidad que produce ansiedad, incertidumbre, y la sensación de que tienes que ganarte el afecto del otro.
 

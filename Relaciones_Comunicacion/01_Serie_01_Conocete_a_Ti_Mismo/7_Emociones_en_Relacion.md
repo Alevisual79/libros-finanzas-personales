@@ -105,7 +105,7 @@ La ira de Elena llega de cero a cien en segundos. Luego dice cosas que luego lam
 
 James Gross, investigador de la regulación emocional en Stanford, identifica estrategias de regulación efectivas (reevaluación cognitiva, aceptación, resolución de problemas) y no efectivas (supresión, rumiación, evitación). Las estrategias no efectivas reducen el malestar a corto plazo y lo amplifican a largo plazo.
 
-**Ejercicio inmediato:** Elige tu emoción difícil más frecuente en relaciones: ira, miedo o tristeza. Describe cómo la gestionas habitualmente. Ahora describe una forma de gestionarla que sea más adaptativa. No tienes que aplicarla todavia. Solo tenerla clara.
+**Ejercicio inmediato:** Elige tu emoción difícil más frecuente en relaciones: ira, miedo o tristeza. Describe cómo la gestionas habitualmente. Ahora describe una forma de gestionarla que sea más adaptativa. No tienes que aplicarla todavía. Solo tenerla clara.
 
 La emoción que evitas siempre aparece. Mejor tener un plan.
 
@@ -113,7 +113,7 @@ La emoción que evitas siempre aparece. Mejor tener un plan.
 
 ## Capítulo 7: La envidia y los celos como información
 
-Cuando una amiga de Elena consiguio el trabajo que ella quería, Elena sintio algo que le daba verguenza reconocer: alegria contaminada de envidia. Luego se sintio mala persona. Lo que no entendió es que la envidia, como todas las emociones, era información. Le estaba diciendo algo sobre lo que ella quería y que todavia no tenía.
+Cuando una amiga de Elena consiguio el trabajo que ella quería, Elena sintio algo que le daba verguenza reconocer: alegria contaminada de envidia. Luego se sintio mala persona. Lo que no entendió es que la envidia, como todas las emociones, era información. Le estaba diciendo algo sobre lo que ella quería y que todavía no tenía.
 
 **El Principio de la Emoción como Brujula:** Los celos dicen: valoras algo y percibes que un rival puede quitartelo. La envidia dice: hay algo que otro tiene que tu quieres. Ni los celos ni la envidia son inmorales por si mismos. Lo inmoral es lo que se hace con ellos: destruir la relación del otro por celos, o intentar que el otro no triunfe para callar la envidia. Pero la emoción en si, antes de la acción, es solo información.
 
@@ -133,7 +133,7 @@ Cuando Isabel entra en una reunión con mal humor, en diez minutos el ambiente d
 
 En las relaciones intimas, la regulación emocional se hace parcialmente de forma conjunta. La calma de uno puede calmar al otro. La ansiedad de uno puede activar la del otro. Las parejas y familias emocionalmente saludables desarrollan sistemas de co-regulación que funcionan en los dos sentidos.
 
-**Ejercicio inmediato:** Observa durante una semana como cambia tu estado emocional segun con quien estes. ¿Quien te eleva? ¿Quien te drena? Esa información es relevante para decidir conscientemente cuanto tiempo y energía inviertes en cada relación.
+**Ejercicio inmediato:** Observa durante una semana como cambia tu estado emocional según con quien estes. ¿Quien te eleva? ¿Quien te drena? Esa información es relevante para decidir conscientemente cuanto tiempo y energía inviertes en cada relación.
 
 No eres una isla emocional. Eres un sistema conectado a todos los que te rodean.
 

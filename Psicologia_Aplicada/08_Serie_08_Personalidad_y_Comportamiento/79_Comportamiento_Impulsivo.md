@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben envió el email cuando todavia estaba furioso. Tardo cinco minutos en escribirlo y tres semanas en recuperarse de las consecuencias. Isabel dijo algo en una reunión que supo inmediatamente que no debería haber dicho. La cara de la persona a quien se lo dijo tardo meses en recuperar la calidez anterior. Elena hizo una compra grande un sabado por la tarde de impulso. El lunes por la mañana la devolvio, pero el daño financiero de las dos horas entre la compra y el cierre de la tienda no era recuperable. El comportamiento impulsivo tiene en común que ocurre en el espacio donde debería haber una pausa. Este libro es sobre esa pausa: por qué no existe cuando más la necesitamos, y como construirla.
+Ruben envió el email cuando todavía estaba furioso. Tardo cinco minutos en escribirlo y tres semanas en recuperarse de las consecuencias. Isabel dijo algo en una reunión que supo inmediatamente que no debería haber dicho. La cara de la persona a quien se lo dijo tardo meses en recuperar la calidez anterior. Elena hizo una compra grande un sabado por la tarde de impulso. El lunes por la mañana la devolvio, pero el daño financiero de las dos horas entre la compra y el cierre de la tienda no era recuperable. El comportamiento impulsivo tiene en común que ocurre en el espacio donde debería haber una pausa. Este libro es sobre esa pausa: por qué no existe cuando más la necesitamos, y como construirla.
 
 ---
 
@@ -83,7 +83,7 @@ Elena toma decisiones de compra impulsiva que luego lamenta. La economía del co
 
 Richard Thaler y Cass Sunstein documentan las estrategias que las personas y las organizaciones pueden usar para protegerse del sesgo del presente: la regla de las 24 horas (esperar un dia antes de cualquier compra no esencial por encima de cierta cantidad) y los sistemas de ahorro automático.
 
-**Ejercicio inmediato:** Implementa la regla de las 24 horas para cualquier compra no esencial por encima de un umbral que determines. Cuando el impulso de comprar aparezca, pon el producto en la lista o en el carrito y espera 24 horas. Si al dia siguiente todavia lo quieres y tienes el dinero disponible, compralo. Este simple retraso elimina la mayoría de las compras impulsivas que se lamentan después.
+**Ejercicio inmediato:** Implementa la regla de las 24 horas para cualquier compra no esencial por encima de un umbral que determines. Cuando el impulso de comprar aparezca, pon el producto en la lista o en el carrito y espera 24 horas. Si al dia siguiente todavía lo quieres y tienes el dinero disponible, compralo. Este simple retraso elimina la mayoría de las compras impulsivas que se lamentan después.
 
 La compra que puedes hacer mañana también podías hacerla hoy. Si mañana ya no la quieres, el impulsivo era el que la compraba.
 

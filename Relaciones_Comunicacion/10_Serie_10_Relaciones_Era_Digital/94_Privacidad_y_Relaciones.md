@@ -83,7 +83,7 @@ Las diferencias sobre privacidad relacional en redes sociales son negociables. P
 
 Después de una ruptura, las redes sociales frecuentemente se convierten en un escenario donde se manifiestan conflictos no resueltos, desde publicaciones indirectas dirigidas a la expareja hasta batallas más abiertas sobre la narrativa pública de lo que ocurrio.
 
-**El Principio del Conflicto Desplazado a lo público:** El uso de redes sociales para comunicar indirectamente con o sobre una expareja después de una ruptura (publicaciones pasivo-agresivas, narrativas públicas sobre quien tuvo la culpa) frecuentemente prolonga y complica el proceso de duelo y cierre que ambas partes necesitan, ademas de exponer el conflicto a una audiencia que generalmente no debería estar involucrada.
+**El Principio del Conflicto Desplazado a lo público:** El uso de redes sociales para comunicar indirectamente con o sobre una expareja después de una ruptura (publicaciones pasivo-agresivas, narrativas públicas sobre quien tuvo la culpa) frecuentemente prolonga y complica el proceso de duelo y cierre que ambas partes necesitan, además de exponer el conflicto a una audiencia que generalmente no debería estar involucrada.
 
 **Ejercicio inmediato:** Si estas procesando una ruptura reciente, evalua honestamente si estas usando redes sociales para comunicar indirectamente con o sobre tu expareja, y considera si esa práctica está ayudando o complicando tu proceso de cierre.
 
@@ -131,7 +131,7 @@ Proteger la privacidad de tu relación no es esconder algo. Puede ser, genuiname
 
 El trabajo final de gestionar bien la privacidad relacional en la era digital es desarrollar conjuntamente, como pareja, acuerdos explícitos y respetuosos sobre cómo la tecnología y las redes sociales se integran en su vida compartida.
 
-**El Principio de los Acuerdos Explicitos como Cultura Compartida:** Las parejas que navegan mejor las tensiones de privacidad digital son las que han desarrollado acuerdos explícitos sobre que compartir, cuanto, y con que frecuencia, en lugar de operar segun suposiciones no verificadas o preferencias individuales impuestas sin negociación sobre la otra persona.
+**El Principio de los Acuerdos Explicitos como Cultura Compartida:** Las parejas que navegan mejor las tensiones de privacidad digital son las que han desarrollado acuerdos explícitos sobre que compartir, cuanto, y con que frecuencia, en lugar de operar según suposiciones no verificadas o preferencias individuales impuestas sin negociación sobre la otra persona.
 
 **Ejercicio inmediato:** Propone a tu pareja una conversación explícita para establecer acuerdos claros sobre la privacidad digital de su relación: que compartir, que mantener privado, y como respetar las preferencias de ambos.
 

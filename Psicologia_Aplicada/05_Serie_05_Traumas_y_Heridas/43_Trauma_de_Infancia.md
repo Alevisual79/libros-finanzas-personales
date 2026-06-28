@@ -25,7 +25,7 @@ La razón por la que las experiencias tempranas tienen un impacto tan duradero n
 
 **El Principio de la Plasticidad Neural Temprana y sus Costes:** El cerebro humano nace con una fracción de las conexiones neuronales que tendrá en la madurez. La infancia y la adolescencia son períodos de plasticidad maxima: el cerebro esta activamente construyendo sus redes en respuesta a las experiencias que recibe. Esta plasticidad es una ventaja enorme (permite la adaptación al entorno específico en que se nace) pero también una vulnerabilidad: las experiencias negativas repetidas durante estos períodos se inscriben en redes neuronales que se consolidan con el tiempo.
 
-Bruce Perry, psiquiatra y neurocientífico que ha investigado el impacto del trauma sobre el cerebro en desarrollo, propone que las experiencias adversas en la infancia activan repetidamente el sistema de estrés (amigdala, hipotalamo, glandulas suprarrenales) en un cerebro cuyas redes regulatorias (corteza prefrontal) todavia no estan completamente desarrolladas. Esta activación repetida puede producir cambios estructurales y funcionales en estas redes que persisten en la adultez: un sistema de alarma muy sensible, una corteza regulatoria que necesita más esfuerzo para modular la respuesta de estrés, y patrones de comportamiento y relación que reflejan las estrategias de supervivencia aprendidas en el entorno temprano.
+Bruce Perry, psiquiatra y neurocientífico que ha investigado el impacto del trauma sobre el cerebro en desarrollo, propone que las experiencias adversas en la infancia activan repetidamente el sistema de estrés (amigdala, hipotalamo, glandulas suprarrenales) en un cerebro cuyas redes regulatorias (corteza prefrontal) todavía no estan completamente desarrolladas. Esta activación repetida puede producir cambios estructurales y funcionales en estas redes que persisten en la adultez: un sistema de alarma muy sensible, una corteza regulatoria que necesita más esfuerzo para modular la respuesta de estrés, y patrones de comportamiento y relación que reflejan las estrategias de supervivencia aprendidas en el entorno temprano.
 
 **Ejercicio inmediato:** Reflexiona sobre el entorno de tu infancia desde una perspectiva de seguridad (no solo de ausencia de violencia): ¿te sentias predeciblemente seguro en tu hogar? ¿Tus necesidades emocionales eran reconocidas y respondidas de forma suficiente? ¿Habia adultos emocionalmente disponibles y estables? Estas preguntas mapean el nivel de apoyo regulatorio que tu cerebro en desarrollo tuvo disponible.
 
@@ -85,7 +85,7 @@ Estos esquemas, formados cuando el niño no tenía capacidad de cuestionar su ex
 
 **Ejercicio inmediato:** De los cinco dominios de Young, identifica el que más resuena con tus patrones actuales: la desconexion y el miedo al rechazó o abandono, la dependencia y la dificultad para actuar autonomamente, la tendencia a ignorar tus propias necesidades en favor de las de otros, o la autocritica y los estandares imposibles. El dominio que reconoces señala el área de trabajo más relevante.
 
-Las creencias que tienes sobre ti mismo y sobre los demás no son la verdad. Son el mapa que dibujaste cuando eras niño y que todavia usas para navegar el mundo adulto.
+Las creencias que tienes sobre ti mismo y sobre los demás no son la verdad. Son el mapa que dibujaste cuando eras niño y que todavía usas para navegar el mundo adulto.
 
 ---
 
@@ -97,7 +97,7 @@ Elena es madre y tiene miedo de transmitir a sus hijos patrones que reconoce de 
 
 La buena noticia es que el ciclo puede interrumpirse con trabajo deliberado: la terapia, la psicoeducación sobre el apego y el desarrollo, la práctica de la mentalización (la capacidad de considerar los estados mentales propios y del niño), y el apoyo de redes sociales de crianza pueden reducir significativamente la probabilidad de transmisión del trauma.
 
-**Ejercicio inmediato:** Si eres padre o madre y reconoces en tu historia de infancia experiencias que todavia producen reacciones intensas (activación, desconexion, o una necesidad imperiosa de que tus hijos no vivan lo que tu viviste), considera buscar apoyo terapéutico específicamente orientado a la parentalidad y al apego. El trabajo que haces en ti mismo es la herramienta más poderosa para ofrecer a tus hijos algo diferente de lo que recibiste.
+**Ejercicio inmediato:** Si eres padre o madre y reconoces en tu historia de infancia experiencias que todavía producen reacciones intensas (activación, desconexion, o una necesidad imperiosa de que tus hijos no vivan lo que tu viviste), considera buscar apoyo terapéutico específicamente orientado a la parentalidad y al apego. El trabajo que haces en ti mismo es la herramienta más poderosa para ofrecer a tus hijos algo diferente de lo que recibiste.
 
 El mejor regalo que puedes dar a tus hijos no es una infancia perfecta. Es tu trabajo honesto con tus propias heridas.
 
@@ -105,7 +105,7 @@ El mejor regalo que puedes dar a tus hijos no es una infancia perfecta. Es tu tr
 
 ## Capítulo 7: Herir sin querer: cuando los padres no eran malos sino limitados
 
-Ruben tiene sentimientos complicados sobre sus padres: los quiere, sabe que no tenían intenciones dañinas, pero también reconoce que sus limitaciones le afectaron de formas que todavia tienen impacto. Esta complejidad es difícil de sostener.
+Ruben tiene sentimientos complicados sobre sus padres: los quiere, sabe que no tenían intenciones dañinas, pero también reconoce que sus limitaciones le afectaron de formas que todavía tienen impacto. Esta complejidad es difícil de sostener.
 
 **El Principio de los Padres como Personas Limitadas, no como Villanos:** La comprensión del trauma de infancia no requiere ni justifica la visión de los padres como villanos conscientes y malintencionados. La mayor parte del trauma que los padres transmiten viene de sus propias heridas no procesadas, de sus propias limitaciones de recursos emocionales, de patrones culturales y familiares que recibieron, y de circunstancias que estaban fuera de su control.
 

@@ -115,7 +115,7 @@ La pregunta bien formulada necesita espacio para ser respondida de verdad. Ese e
 
 Los mejores entrevistadores (en periodismo, en terapia, en coaching) tienen en común una tolerancia al silencio que la mayoría de personas no tiene. Saben que el silencio después de una buena pregunta no es un problema. Es donde la respuesta se está gestando.
 
-**Ejercicio inmediato:** Después de tu próxima pregunta importante, cuenta internamente hasta ocho antes de decir nada más. Ocho segundos de silencio se sienten eternos en una conversación. Observa con que frecuencia el otro empieza a hablar en ese tiempo con algo que no había dicho todavia.
+**Ejercicio inmediato:** Después de tu próxima pregunta importante, cuenta internamente hasta ocho antes de decir nada más. Ocho segundos de silencio se sienten eternos en una conversación. Observa con que frecuencia el otro empieza a hablar en ese tiempo con algo que no había dicho todavía.
 
 El silencio que toleras después de una pregunta es el espacio donde el otro encuentra lo que realmente quiere decir.
 
@@ -129,7 +129,7 @@ Hay preguntas que tienen poder terapéutico sin ser parte de ninguna terapia. Pr
 
 El coaching efectivo, la terapia bien hecha, las mejores conversaciones entre amigos, tienen en común la presencia de preguntas generativas que producen en el otro una perspectiva nueva sobre algo que creía conocer. Esas preguntas no requieren formación especializada. Requieren escucha profunda y curiosidad genuina.
 
-**Ejercicio inmediato:** La próxima vez que un amigo te cuente un problema que lleva tiempo dando vueltas, en lugar de dar un consejo, haz una pregunta generativa: ¿que parte de esto esta en tu control? o que podrías hacer diferente que no has probado todavia? o si el problema se resolviera mañana, cómo lo sabrías? Observa lo que la pregunta produce.
+**Ejercicio inmediato:** La próxima vez que un amigo te cuente un problema que lleva tiempo dando vueltas, en lugar de dar un consejo, haz una pregunta generativa: ¿que parte de esto esta en tu control? o que podrías hacer diferente que no has probado todavía? o si el problema se resolviera mañana, cómo lo sabrías? Observa lo que la pregunta produce.
 
 Un buen consejo dice lo que debes hacer. Una buena pregunta te ayuda a descubrir lo que ya sabes.
 

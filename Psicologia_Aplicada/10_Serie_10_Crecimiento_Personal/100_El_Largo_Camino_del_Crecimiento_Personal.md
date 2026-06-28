@@ -41,7 +41,7 @@ Isabel ha acumulado mucho conocimiento sobre psicología y desarrollo personal a
 
 La sabiduría no puede adquirirse solo a traves del aprendizaje: requiere la integración de la experiencia de vida (incluyendo la adversidad y el fracaso) con la reflexión sobre esa experiencia. Es el resultado de haber vivido mucho y haberlo pensado suficientemente.
 
-**Ejercicio inmediato:** Reflexiona sobre la diferencia entre el conocimiento que has adquirido (lo que sabes sobre psicología, desarrollo personal, relaciones, trabajo) y la sabiduría que has desarrollado (lo que puedes hacer con ese conocimiento en situaciones concretas de la vida real, con sus contradicciones y su incertidumbre). ¿Que experiencias han contribuido más a tu sabiduría? ¿Que conocimientos que tienes todavia no has podido integrar en sabiduría práctica?
+**Ejercicio inmediato:** Reflexiona sobre la diferencia entre el conocimiento que has adquirido (lo que sabes sobre psicología, desarrollo personal, relaciones, trabajo) y la sabiduría que has desarrollado (lo que puedes hacer con ese conocimiento en situaciones concretas de la vida real, con sus contradicciones y su incertidumbre). ¿Que experiencias han contribuido más a tu sabiduría? ¿Que conocimientos que tienes todavía no has podido integrar en sabiduría práctica?
 
 El conocimiento que no se vive no se convierte en sabiduría. La sabiduría que no se transmite se pierde.
 
@@ -65,7 +65,7 @@ La persona que solo puede ser una cosa se rompe cuando la vida le pide la otra. 
 
 Elena ha aprendido que sus relaciones son el lugar donde mejor puede ver quien realmente es, con más claridad que cualquier reflexión solitaria.
 
-**El Principio de las Relaciones como el Contexto donde el Crecimiento Personal se Expresa, se Pone a Prueba, y se Revela más Plenamente:** Martin Buber propuso que la identidad del yo se constituye en la relación con el Tu: no somos solo individuos aislados que tienen relaciones sino seres relacionales cuya identidad se construye y se revela en el encuentro con el otro. El crecimiento personal que no se expresa en las relaciones es crecimiento en abstracto que todavia no ha llegado a ser real.
+**El Principio de las Relaciones como el Contexto donde el Crecimiento Personal se Expresa, se Pone a Prueba, y se Revela más Plenamente:** Martin Buber propuso que la identidad del yo se constituye en la relación con el Tu: no somos solo individuos aislados que tienen relaciones sino seres relacionales cuya identidad se construye y se revela en el encuentro con el otro. El crecimiento personal que no se expresa en las relaciones es crecimiento en abstracto que todavía no ha llegado a ser real.
 
 La investigación de John Gottman muestra que las relaciones revelan dimensiones del carácter que no aparecen en la reflexión solitaria: la forma en que respondemos cuando el otro nos defrauda, la forma en que pedimos lo que necesitamos, la forma en que gestionamos el conflicto, la forma en que celebramos los éxitos del otro. Esas respuestas son el test de quien realmente somos, más honesto que cualquier cuestionario de personalidad.
 
@@ -91,7 +91,7 @@ Vivir para dejar algo que vale la pena no es sacrificio. Es la forma más profun
 
 ## Capítulo 6: El envejecimiento bien: el crecimiento en la vejez
 
-Elena, Ruben, e Isabel no son viejos todavia. Pero los patrones que establecen ahora determinaran como envejeceran.
+Elena, Ruben, e Isabel no son viejos todavía. Pero los patrones que establecen ahora determinaran como envejeceran.
 
 **El Principio del Envejecimiento Exitoso como Posible con Prioridades específicas que Pueden Establecerse Mucho Antes de la Vejez:** La investigación de George Vaillant en el Harvard Study of Adult Development muestra que el envejecimiento exitoso (mantener salud física, psicológica, y social hasta una edad avanzada) esta predicho por factores que se establecen décadas antes: la ausencia de abuso de sustancias, el no fumar, el ejercicio regular, el peso saludable, el manejo adaptativo del estrés, la educación continua, y especialmente la calidad de las relaciones.
 
@@ -127,7 +127,7 @@ Viktor Frankl propuso que la capacidad de dar sentido a la propia vida (de narra
 
 **Ejercicio inmediato:** Escribe en una página la historia de tu vida hasta ahora como si se la contaras a alguien que no te conoce: los momentos que más te han formado, las personas que más han influido en quien eres, los aprendizajes que más valoras, y el tema central que conecta todo. Después reflexiona: ¿que historia emerge? ¿Es una historia de crecimiento, de resistencia, de búsqueda, de contribución? La respuesta revela el hilo narrativo de quien eres y orienta el siguiente capítulo.
 
-La historia de tu vida que no puedes contar todavia es la que estas escribiendo ahora. Escribe la que querrías haber escrito.
+La historia de tu vida que no puedes contar todavía es la que estas escribiendo ahora. Escribe la que querrías haber escrito.
 
 ---
 
@@ -153,9 +153,9 @@ Elena, Ruben, e Isabel llegan al final de esta colección con más conocimiento 
 
 La investigación de Paul Baltes sobre el desarrollo en la vejez muestra que el cerebro humano mantiene la plasticidad durante toda la vida adulta (aunque con algunas áreas de declive), y que el envejecimiento exitoso requiere la adaptación de las estrategias de crecimiento a las condiciones de cada etapa en lugar de la renuncia al crecimiento.
 
-**Ejercicio inmediato:** Escribe las primeras lineas del próximo capítulo de tu vida: no el plan perfecto sino la intención general, la dirección que quieres seguir, las personas con quienes quieres recorrerla, y la pregunta que más te importa explorar en este período. Ese próximo capítulo no esta escrito todavia. Y eso no es un problema: es la mayor libertad que tienes.
+**Ejercicio inmediato:** Escribe las primeras lineas del próximo capítulo de tu vida: no el plan perfecto sino la intención general, la dirección que quieres seguir, las personas con quienes quieres recorrerla, y la pregunta que más te importa explorar en este período. Ese próximo capítulo no esta escrito todavía. Y eso no es un problema: es la mayor libertad que tienes.
 
-El último capítulo de tu vida siempre esta en blanco. Eso significa que todavia lo estas escribiendo. Y eso es exactamente lo que debería ser.
+El último capítulo de tu vida siempre esta en blanco. Eso significa que todavía lo estas escribiendo. Y eso es exactamente lo que debería ser.
 
 ---
 

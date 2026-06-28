@@ -161,7 +161,7 @@ El paso que das hoy, por pequeño que sea, es infinitamente mayor que el plan pe
 
 ## Epílogo
 
-Isabel llamó a la primera psicologa de la lista un martes por la tarde. Llamo tres veces antes de que le respondieran. Cuando respondieron, dijo que quería pedir una primera cita. La recepcionista le dio fecha para dos semanas después. Isabel colgó y se quedo sentada con el movil en la mano. Sintio algo que no esperaba: alivio. No había cambiado nada todavia. Solo había pedido una cita. Pero algo se había movido dentro de ella que llevaba dos años quieto. Ese movimiento, descubrió, era el inició de todo lo que vino después.
+Isabel llamó a la primera psicologa de la lista un martes por la tarde. Llamo tres veces antes de que le respondieran. Cuando respondieron, dijo que quería pedir una primera cita. La recepcionista le dio fecha para dos semanas después. Isabel colgó y se quedo sentada con el movil en la mano. Sintio algo que no esperaba: alivio. No había cambiado nada todavía. Solo había pedido una cita. Pero algo se había movido dentro de ella que llevaba dos años quieto. Ese movimiento, descubrió, era el inició de todo lo que vino después.
 
 ---
 

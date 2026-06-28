@@ -27,7 +27,7 @@ La resiliencia se presenta frecuentemente como invulnerabilidad: la persona resi
 
 Esta distinción es importante porque la imagen de la persona resiliente que nunca llora ni sufre puede producir verguenza en las personas que si sienten el impacto de la adversidad: si soy resiliente, no debería afectarme tanto. La resiliencia real incluye sentir el impacto. La diferencia esta en la recuperación.
 
-**Ejercicio inmediato:** Reflexiona sobre episodios de adversidad de tu vida pasada. En cuales de ellos pudiste recuperar un nivel de funcionamiento razonablemente normal? ¿Que características tenían esos episodios o esas circunstancias que facilitaron la recuperación? Esa reflexión identifica los recursos de resiliencia que ya tienes disponibles, aunque no los hayas llamado asi.
+**Ejercicio inmediato:** Reflexiona sobre episodios de adversidad de tu vida pasada. En cuales de ellos pudiste recuperar un nivel de funcionamiento razonablemente normal? ¿Que características tenían esos episodios o esas circunstancias que facilitaron la recuperación? Esa reflexión identifica los recursos de resiliencia que ya tienes disponibles, aunque no los hayas llamado así.
 
 La resiliencia que ya tienes es el punto de partida para construir más. Reconocerla antes de intentar desarrollarla.
 

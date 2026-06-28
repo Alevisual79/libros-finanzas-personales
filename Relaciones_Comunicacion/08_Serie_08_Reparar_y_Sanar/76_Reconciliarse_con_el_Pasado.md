@@ -81,7 +81,7 @@ Puedes aprender de una relación difícil sin tener que estar agradecido de habe
 
 ## Capítulo 6: Perdonar la versión de ti que actuaba desde el daño
 
-Mirando hacía atras, frecuentemente se reconocen decisiones o comportamientos propios en relaciones pasadas que, en retrospectiva, reflejaban heridas o patrones no resueltos en ese momento, lo cual merece compasión en lugar de juicio severo.
+Mirando hacía atrás, frecuentemente se reconocen decisiones o comportamientos propios en relaciones pasadas que, en retrospectiva, reflejaban heridas o patrones no resueltos en ese momento, lo cual merece compasión en lugar de juicio severo.
 
 **El Principio de la Compasión Retrospectiva:** Las decisiones que se tomaron en el pasado, incluso las que en retrospectiva parecen erroneas, generalmente reflejaban el mejor entendimiento y los recursos emocionales disponibles para esa versión anterior de la persona en ese momento específico. Juzgar severamente esas decisiones desde el conocimiento y la perspectiva actual, que esa versión pasada no tenía disponible, es injusto con quien era esa persona en ese momento.
 
@@ -131,7 +131,7 @@ Reconocer tu propia agencia en tu historia difícil no minimiza el daño que suf
 
 El trabajo final de integrar el pasado relacional difícil es usar esa integración como base para decidir conscientemente quien se quiere ser hacía adelante, en lugar de simplemente reaccionar automáticamente a los patrones heredados de esa historia.
 
-**El Principio de la Elección Consciente del Futuro a partir del Pasado Integrado:** Una vez que el pasado relacional difícil ha sido procesado e integrado de forma saludable, se abre la posibilidad de elegir conscientemente que patrones se quieren conservar (resiliencia desarrollada, lecciones aprendidas) y cuales se quieren conscientemente dejar atras, en lugar de simplemente repetir automáticamente lo que la historia paso dejó instalado.
+**El Principio de la Elección Consciente del Futuro a partir del Pasado Integrado:** Una vez que el pasado relacional difícil ha sido procesado e integrado de forma saludable, se abre la posibilidad de elegir conscientemente que patrones se quieren conservar (resiliencia desarrollada, lecciones aprendidas) y cuales se quieren conscientemente dejar atrás, en lugar de simplemente repetir automáticamente lo que la historia paso dejó instalado.
 
 **Ejercicio inmediato:** A partir de tu historia relacional integrada, escribe tres características específicas de como quieres relacionarte de aquí en adelante, eligiendolas conscientemente en lugar de simplemente heredarlas por defecto de tu pasado.
 

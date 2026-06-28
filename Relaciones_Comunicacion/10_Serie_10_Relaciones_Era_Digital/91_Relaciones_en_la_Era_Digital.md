@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena tiene cuatrocientas conversaciones activas en su movil. Tiene, segun su propia evaluación honesta, cuatro relaciones que considera realmente reales y sostenidas. La hiperconectividad que la tecnología ofrece, descubre con el tiempo, no produce automáticamente conexión genuina. Frecuentemente, simplemente la simula con suficiente convincimiento para que la diferencia tarde en hacerse visible.
+Elena tiene cuatrocientas conversaciones activas en su movil. Tiene, según su propia evaluación honesta, cuatro relaciones que considera realmente reales y sostenidas. La hiperconectividad que la tecnología ofrece, descubre con el tiempo, no produce automáticamente conexión genuina. Frecuentemente, simplemente la simula con suficiente convincimiento para que la diferencia tarde en hacerse visible.
 
 ---
 
@@ -107,7 +107,7 @@ Las relaciones digitales profundas no ocurren por accidente. Requieren la misma 
 
 A pesar de los avances tecnologicos en comunicación, ciertos elementos de la conexión humana parecen requerir genuinamente el contacto físico presencial, sin que la tecnología actual logre replicarlos completamente.
 
-**El Principio de los Elementos Irremplazables de la Presencia:** El contacto físico (un abrazo, la sincronia corporal de estar en el mismo espacio, las señales no verbales sutiles que la comunicación mediada no transmite completamente) activa procesos neurobiologicos específicos (liberación de oxitocina, sincronización de ritmos fisiológicos) que, segun la evidencia actual, la tecnología no logra replicar plenamente, independientemente de cuanto mejore la calidad de video o audio.
+**El Principio de los Elementos Irremplazables de la Presencia:** El contacto físico (un abrazo, la sincronia corporal de estar en el mismo espacio, las señales no verbales sutiles que la comunicación mediada no transmite completamente) activa procesos neurobiologicos específicos (liberación de oxitocina, sincronización de ritmos fisiológicos) que, según la evidencia actual, la tecnología no logra replicar plenamente, independientemente de cuanto mejore la calidad de video o audio.
 
 **Ejercicio inmediato:** Identifica una relación importante que mantienes principalmente de forma digital. ¿Que beneficio específico del contacto físico presencial podría estar faltando, y como podrías buscar oportunidades de encuentro presencial, aunque sea ocasional?
 

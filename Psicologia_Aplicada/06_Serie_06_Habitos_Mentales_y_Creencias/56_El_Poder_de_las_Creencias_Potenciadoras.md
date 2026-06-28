@@ -37,7 +37,7 @@ La creencia que te potencia no tiene que ser una declaración grandiosa. Solo ti
 
 Isabel tiene autoeficacia alta en algunos dominios y muy baja en otros. Entender cómo se desarrolla le permite trabajar deliberadamente en los dominios donde más le limita.
 
-**El Principio de las Cuatro Fuentes de la Autoeficacia:** Bandura identifica cuatro fuentes desde las que la autoeficacia se desarrolla: la experiencia de dominio (los logros pasados en el dominio son la fuente más robusta), el modelado vicario (observar a personas similares a uno mismo tener éxito reduce la sensación de que el logró es inaccesible para uno), la persuasión verbal de personas creibles (ser animado por personas cuya opinión se valora), y la interpretación de los estados fisiológicos (los estados de activación alta se pueden interpretar como ansiedad o como energía segun el marcó).
+**El Principio de las Cuatro Fuentes de la Autoeficacia:** Bandura identifica cuatro fuentes desde las que la autoeficacia se desarrolla: la experiencia de dominio (los logros pasados en el dominio son la fuente más robusta), el modelado vicario (observar a personas similares a uno mismo tener éxito reduce la sensación de que el logró es inaccesible para uno), la persuasión verbal de personas creibles (ser animado por personas cuya opinión se valora), y la interpretación de los estados fisiológicos (los estados de activación alta se pueden interpretar como ansiedad o como energía según el marcó).
 
 La implicación práctica es que la autoeficacia puede desarrollarse deliberadamente: buscando experiencias de dominio (aunque pequeñas) en el dominio donde es baja, encontrando modelos que demuestren que el logró es posible para personas en situaciones similares, y trabajando con personas que proporcionen retroalimentación apoyadora de forma creible.
 
@@ -55,7 +55,7 @@ Ruben tiende al pesimismo y lo ve como realismo. La investigación sobre el opti
 
 La investigación de Seligman y colegas muestra que el optimismo se asocia con mayor bienestar, mayor rendimiento en multiples dominios, y mejor salud física. Y que puede desarrollarse: el entrenamiento en estilos explicativos optimistas produce mejoras medibles en bienestar y rendimiento.
 
-**Ejercicio inmediato:** Para el próximo evento negativo que experimentes (pequeño es suficiente para practicar), aplica el análisis de atribución optimista: ¿es esto permanente (siempre será asi) o temporal (esta vez, en esta situación)? ¿Es pervasivo (arruina todo) o específico (solo afecta a esta área concreta)? Ese análisis interrumpe el estilo explicativo pesimista y entrena el optimista.
+**Ejercicio inmediato:** Para el próximo evento negativo que experimentes (pequeño es suficiente para practicar), aplica el análisis de atribución optimista: ¿es esto permanente (siempre será así) o temporal (esta vez, en esta situación)? ¿Es pervasivo (arruina todo) o específico (solo afecta a esta área concreta)? Ese análisis interrumpe el estilo explicativo pesimista y entrena el optimista.
 
 El pesimismo que llamas realismo frecuentemente no es más preciso que el optimismo. Solo es más conocido.
 
@@ -71,7 +71,7 @@ Dweck propone que el mindset de crecimiento no es una declaración de que todo e
 
 **Ejercicio inmediato:** Identifica un área donde tienes mindset fijo (esto es como soy, no tengo talento para esto). Piensa en una habilidad que hayas desarrollado a lo largo de tu vida que no tenías de forma innata. Ese ejemplo personal es evidencia contra tu mindset fijo en esa área específica: demuestra que el aprendizaje real ocurre.
 
-No eres tan fijo como crees. Lo que no puedes todavia y lo que no puedes nunca son dos cosas diferentes, y la mayoría de las veces las confundimos.
+No eres tan fijo como crees. Lo que no puedes todavía y lo que no puedes nunca son dos cosas diferentes, y la mayoría de las veces las confundimos.
 
 ---
 
@@ -125,7 +125,7 @@ Ruben ha probado las afirmaciones positivas y la mayoría de las veces le hacen 
 
 Las afirmaciones que son efectivas tienen en común: son creibles dado lo que la persona ya sabe de si misma (no afirmaciones que contradicen toda la evidencia disponible), son específicas en lugar de genericas (puedo aprender a manejar situaciones difíciles en el trabajo es más creible que soy un ser poderoso), y se usan después de haber acumulado alguna evidencia que las apoya.
 
-**Ejercicio inmediato:** Revisa las afirmaciones que tienes o que has intentado usar. Son creibles para ti ahora mismo, dado lo que sabes de ti mismo? Las que son creibles pueden ser útiles. Las que contradicen demasiado tu experiencia actual probablemente no lo son todavia. Ajustalas a lo creible.
+**Ejercicio inmediato:** Revisa las afirmaciones que tienes o que has intentado usar. Son creibles para ti ahora mismo, dado lo que sabes de ti mismo? Las que son creibles pueden ser útiles. Las que contradicen demasiado tu experiencia actual probablemente no lo son todavía. Ajustalas a lo creible.
 
 La afirmación que tu sistema interno no se cree no te ayuda. Te recuerda la distancia que hay entre donde estas y donde quieres estar.
 

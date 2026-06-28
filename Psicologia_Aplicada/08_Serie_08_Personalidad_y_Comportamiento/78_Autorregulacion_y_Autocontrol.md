@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena sabe exactamente lo que debería comer. Lo que pasa cuando llega al buffet libre es otra cosa. Isabel sabe que debería apagar el ordenador a las seis de la tarde. Las siete llega y todavia está trabajando. Ruben sabe que debería guardar el dinero del extra de este mes. En lugar de eso lo ha gastado en tres cosas que no necesitaba. Los tres tienen el mismo problema: la brecha entre la versión de si mismos que sabe lo que quiere hacer y la versión que en el momento concreto hace algo diferente. Esa brecha es el territorio de la autorregulación, y la ciencia del comportamiento tiene mucho que decir sobre como reducirla sin que eso requiera convertirse en una persona diferente.
+Elena sabe exactamente lo que debería comer. Lo que pasa cuando llega al buffet libre es otra cosa. Isabel sabe que debería apagar el ordenador a las seis de la tarde. Las siete llega y todavía está trabajando. Ruben sabe que debería guardar el dinero del extra de este mes. En lugar de eso lo ha gastado en tres cosas que no necesitaba. Los tres tienen el mismo problema: la brecha entre la versión de si mismos que sabe lo que quiere hacer y la versión que en el momento concreto hace algo diferente. Esa brecha es el territorio de la autorregulación, y la ciencia del comportamiento tiene mucho que decir sobre como reducirla sin que eso requiera convertirse en una persona diferente.
 
 ---
 

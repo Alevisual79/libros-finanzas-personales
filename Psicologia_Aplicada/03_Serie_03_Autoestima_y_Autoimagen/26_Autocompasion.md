@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben se rompio el tobillo entrenando. Dos dias después todavia estaba trabajando desde el sofa, sin ir al médico, aguantando el dolor porque había cosas que hacer y no podía permitirse parar. Si un amigo suyo hubiera tenido el mismo accidente, lo habría convencido de ir al médico, de descansar, de pedir ayuda. A si mismo no se lo permitia. Esta diferencia entre como tratamos a los demás cuando sufren y como nos tratamos a nosotros mismos cuando sufrimos es la brecha que la autocompasión busca cerrar.
+Ruben se rompio el tobillo entrenando. Dos dias después todavía estaba trabajando desde el sofa, sin ir al médico, aguantando el dolor porque había cosas que hacer y no podía permitirse parar. Si un amigo suyo hubiera tenido el mismo accidente, lo habría convencido de ir al médico, de descansar, de pedir ayuda. A si mismo no se lo permitia. Esta diferencia entre como tratamos a los demás cuando sufren y como nos tratamos a nosotros mismos cuando sufrimos es la brecha que la autocompasión busca cerrar.
 
 ---
 

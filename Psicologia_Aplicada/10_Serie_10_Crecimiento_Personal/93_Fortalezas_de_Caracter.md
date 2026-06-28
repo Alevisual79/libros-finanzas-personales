@@ -107,7 +107,7 @@ La fortaleza sin conciencia de sus límites se convierte en su propio obstaculo.
 
 Isabel sabe que tiene fortalezas características, pero también quiere desarrollar fortalezas en áreas donde actualmente es más debil.
 
-**El Principio del Desarrollo de Fortalezas como Posible a traves del Esfuerzo Deliberado aunque con Rendimientos Diferentes segun el Talento Natural:** La investigación de Carol Dweck sobre el mindset de crecimiento muestra que las habilidades pueden desarrollarse con esfuerzo y práctica, y que la creencia de que pueden desarrollarse predice el desarrollo mejor que la inteligencia o el talento inicial. Sin embargo, el ritmo de desarrollo y el nivel de excelencia alcanzable es diferente segun el talento natural: desarrollar una fortaleza es más rápido y más natural que desarrollar una debilidad hasta el mismo nivel.
+**El Principio del Desarrollo de Fortalezas como Posible a traves del Esfuerzo Deliberado aunque con Rendimientos Diferentes según el Talento Natural:** La investigación de Carol Dweck sobre el mindset de crecimiento muestra que las habilidades pueden desarrollarse con esfuerzo y práctica, y que la creencia de que pueden desarrollarse predice el desarrollo mejor que la inteligencia o el talento inicial. Sin embargo, el ritmo de desarrollo y el nivel de excelencia alcanzable es diferente según el talento natural: desarrollar una fortaleza es más rápido y más natural que desarrollar una debilidad hasta el mismo nivel.
 
 Anders Ericsson y su investigación sobre la práctica deliberada muestra que el desarrollo de cualquier habilidad requiere práctica fuera de la zona de comfort: actividades diseñadas específicamente para abordar las limitaciones actuales, con retroalimentación frecuente y ajuste continuo.
 

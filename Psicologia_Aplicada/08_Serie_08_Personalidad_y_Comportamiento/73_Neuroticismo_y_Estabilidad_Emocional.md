@@ -125,7 +125,7 @@ Isabel ha estado en terapia y ha mejorado su bienestar pero su nivel de reactivi
 
 La Terapia de Aceptación y Compromiso (ACT) de Steven Hayes trabaja explicitamente con esta distinción: no intenta reducir el neuroticismo (la sensibilidad emocional) sino cambiar la relación con las emociones negativas que el neuroticismo produce, reduciendo la evitación experiencial y aumentando la tolerancia al malestar.
 
-**Ejercicio inmediato:** Si has estado en terapia y todavia sientes el neuroticismo, reflexiona: ¿ha cambiado la frecuencia o la intensidad de las emociones negativas? ¿O ha cambiado principalmente lo que haces cuando las tienes? La segunda es el cambio más común y más duradero que produce la psicoterapia con el neuroticismo.
+**Ejercicio inmediato:** Si has estado en terapia y todavía sientes el neuroticismo, reflexiona: ¿ha cambiado la frecuencia o la intensidad de las emociones negativas? ¿O ha cambiado principalmente lo que haces cuando las tienes? La segunda es el cambio más común y más duradero que produce la psicoterapia con el neuroticismo.
 
 El neuroticismo no desaparece con la psicoterapia. Pero la relación que tienes con el puede cambiar completamente.
 

@@ -59,7 +59,7 @@ Perdonar no es una decisión instantanea. Es un duelo que atraviesa fases, como 
 
 El perdon, entendido como liberación interna del resentimiento, no requiere ni implica necesariamente la reconciliación o la restauración de la relación con quien causo el daño.
 
-**El Principio de la Separación entre Perdon y Reconciliación:** Estas dos cosas, frecuentemente confundidas culturalmente, son procesos distintos: el perdon es un trabajo interno que beneficia principalmente a quien lo realiza, mientras la reconciliación es una decisión relacional que requiere ademas la disposición y el cambio demostrado de la otra persona. Es posible perdonar genuinamente sin reconciliarse, especialmente cuando la relación sigue siendo daniña o cuando la otra persona no ha demostrado cambio genuino.
+**El Principio de la Separación entre Perdon y Reconciliación:** Estas dos cosas, frecuentemente confundidas culturalmente, son procesos distintos: el perdon es un trabajo interno que beneficia principalmente a quien lo realiza, mientras la reconciliación es una decisión relacional que requiere además la disposición y el cambio demostrado de la otra persona. Es posible perdonar genuinamente sin reconciliarse, especialmente cuando la relación sigue siendo daniña o cuando la otra persona no ha demostrado cambio genuino.
 
 **Ejercicio inmediato:** Si sientes presión (propia o externa) para reconciliarte con alguien como parte de perdonarlo, separa explicitamente estos dos procesos: puedes trabajar en soltar el resentimiento sin sentirte obligado a restaurar la relación cercana.
 
@@ -81,9 +81,9 @@ Perdonar no requiere decir que lo que te hicieron estuvo bien. Requiere decidir 
 
 ## Capítulo 6: Perdonar a quien no lo merece segun la logica
 
-Algunas personas que causaron daño significativo nunca muestran arrepentimiento genuino ni hacen ningún esfuerzo de reparación, lo que plantea la pregunta difícil de si el perdon tiene sentido cuando, segun cualquier lógica de merito, no está justificado.
+Algunas personas que causaron daño significativo nunca muestran arrepentimiento genuino ni hacen ningún esfuerzo de reparación, lo que plantea la pregunta difícil de si el perdon tiene sentido cuando, según cualquier lógica de merito, no está justificado.
 
-**El Principio del Perdon Independiente del Merito:** El perdon, entendido como proceso que beneficia principalmente a quien lo realiza, no requiere que la otra persona lo merezca segun ningún cálculo de justicia. De hecho, perdonar a alguien que nunca pidio perdon ni mostró arrepentimiento puede ser igualmente liberador, porque la liberación no depende de la respuesta o el merito de la otra persona.
+**El Principio del Perdon Independiente del Merito:** El perdon, entendido como proceso que beneficia principalmente a quien lo realiza, no requiere que la otra persona lo merezca según ningún cálculo de justicia. De hecho, perdonar a alguien que nunca pidio perdon ni mostró arrepentimiento puede ser igualmente liberador, porque la liberación no depende de la respuesta o el merito de la otra persona.
 
 **Ejercicio inmediato:** Si cargas resentimiento hacía alguien que nunca ha mostrado arrepentimiento ni ha pedido perdon, reflexiona sobre si esperar ese reconocimiento como condición para tu propio perdon te está manteniendo atrapado indefinidamente en el resentimiento.
 

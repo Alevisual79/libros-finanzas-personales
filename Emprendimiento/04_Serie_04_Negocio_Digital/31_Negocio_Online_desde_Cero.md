@@ -57,7 +57,7 @@ La infraestructura mínima viable para la mayoría de los negocios de servicios 
 
 **Ejercicio inmediato:** Para tu negocio online, define tu infraestructura mínima viable: ¿que tres herramientas específicas necesitas para entregar tu servicio o producto al primer cliente? Si la lista supera tres herramientas, pregunta para cada una adicional si el primer cliente podría trabajar contigo sin ella. La infraestructura que el primer cliente no necesita puede esperar hasta que el primer cliente exista. Y si el primer cliente ya existe, tiene mucho más sentido invertir en la infraestructura porque el revenue lo financia.
 
-La infraestructura perfecta antes del primer cliente es una inversión que no tiene ROI todavia. El primer cliente, sin embargo, enseña exactamente que infraestructura necesitas.
+La infraestructura perfecta antes del primer cliente es una inversión que no tiene ROI todavía. El primer cliente, sin embargo, enseña exactamente que infraestructura necesitas.
 
 ---
 
@@ -161,7 +161,7 @@ El negocio online que sabe donde quiere llegar toma mejores decisiones en el cam
 
 ## Epílogo
 
-Carlos lanzo su primer servicio online en la semana seis de su proyecto. La web era simple, el precio era provisional, y el servicio no estaba completamente definido. En la semana ocho tenía su primer cliente. En la semana quince, tres. A los seis meses, doce clientes activos y revenue mensual recurrente. La web todavia no era perfecta. El precio había cambiado dos veces. El servicio había evolucionado significativamente. Todo eso había ocurrido gracias a los clientes reales que había conseguido lanzando imperfecto. Lo que habría ocurrido si hubiera esperado a que todo estuviera perfecto: seguiria esperando.
+Carlos lanzo su primer servicio online en la semana seis de su proyecto. La web era simple, el precio era provisional, y el servicio no estaba completamente definido. En la semana ocho tenía su primer cliente. En la semana quince, tres. A los seis meses, doce clientes activos y revenue mensual recurrente. La web todavía no era perfecta. El precio había cambiado dos veces. El servicio había evolucionado significativamente. Todo eso había ocurrido gracias a los clientes reales que había conseguido lanzando imperfecto. Lo que habría ocurrido si hubiera esperado a que todo estuviera perfecto: seguiria esperando.
 
 ---
 

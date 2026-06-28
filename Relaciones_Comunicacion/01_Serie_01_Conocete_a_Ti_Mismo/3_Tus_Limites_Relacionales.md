@@ -37,7 +37,7 @@ Teresa llegó a terapia diciendo que todos en su vida la aprovechaban. Su madre 
 
 Henry Cloud y John Townsend, autores del libro clásico sobre límites, definen estos como vallas que protegen el jardin de tu vida. No para impedir que nadie entre, sino para que lo que entra no destruya lo que has cultivado.
 
-**Ejercicio inmediato:** Identifica una situación actual en la que te sientas resentido, utilizado o agotado. Ese resentimiento es casi siempre una señal de que hay un límite no puesto o no respetado. No actues todavia. Solo observa la señal.
+**Ejercicio inmediato:** Identifica una situación actual en la que te sientas resentido, utilizado o agotado. Ese resentimiento es casi siempre una señal de que hay un límite no puesto o no respetado. No actues todavía. Solo observa la señal.
 
 Los límites no son el problema. La falta de límites siempre lo es.
 
@@ -93,7 +93,7 @@ El resentimiento es el GPS de los límites no puestos. Cada vez que sientes que 
 
 Nedra Tawwab propone un ejercicio de revisión semanal: al final de cada semana, identificar las situaciones en que te has sentido resentido, utilizado o agotado. El patron que emerge en cuatro semanas revela sistemáticamente donde estan los límites ausentes.
 
-**Ejercicio inmediato:** Esta semana, cuando notes resentimiento o incomodidad en una interacción, para y pregúntate: ¿que límite no puse aquí? o que límite puse que no se respeto? Anota las respuestas. No actues todavia. El primer paso es ver el patron.
+**Ejercicio inmediato:** Esta semana, cuando notes resentimiento o incomodidad en una interacción, para y pregúntate: ¿que límite no puse aquí? o que límite puse que no se respeto? Anota las respuestas. No actues todavía. El primer paso es ver el patron.
 
 Antes de poner un límite tienes que saber donde necesitas uno.
 
@@ -117,7 +117,7 @@ No es una frase corta. No es una frase de una sola silaba. No es un argumento co
 
 El mismo límite que funciona perfectamente con un compañero de trabajo puede sentirse imposible de aplicar con tu madre. Y el que aplicas sin dificultad con tu pareja puede resultar impensable con tu jefe. Los límites no son universales. Son relacionales.
 
-**El Principio de la Calibración Contextual:** El mismo límite necesita formularse de forma diferente segun el tipo de relación, el nivel de poder relativo y la historia compartida. Un límite con una persona de autoridad requiere un lenguaje diferente al de un límite con un igual. Un límite con alguien que te quiere y respeta requiere menos explicación que uno con alguien que no ha demostrado querer escucharte. La habilidad no esta en el límite. Esta en calibrar como comunicarlo en cada contexto.
+**El Principio de la Calibración Contextual:** El mismo límite necesita formularse de forma diferente según el tipo de relación, el nivel de poder relativo y la historia compartida. Un límite con una persona de autoridad requiere un lenguaje diferente al de un límite con un igual. Un límite con alguien que te quiere y respeta requiere menos explicación que uno con alguien que no ha demostrado querer escucharte. La habilidad no esta en el límite. Esta en calibrar como comunicarlo en cada contexto.
 
 El psicologo Terry Real, especialista en terapia relacional, distingue entre límites de relación, lo que haces o dices en la relación, y límites de consecuencia, lo que pasa si el otro no los respeta. Los segundos son los que más cuestan y los más necesarios.
 
@@ -135,7 +135,7 @@ Luis puso por primera vez un límite claro con su hermano: no pedir dinero prest
 
 Las investigaciones sobre comportamiento pasivo-agresivo muestran que el patron típico es: límite sin consecuencia, violación del límite, resentimiento callado, explosión o retirada. La consecuencia aplicada con calma rompe ese ciclo antes del resentimiento.
 
-**Ejercicio inmediato:** Identifica un límite que hayas puesto y que no se haya respetado. Ahora define una consecuencia realista que estes dispuesto a aplicar. No tienes que comunicarla todavia. Solo tenerla clara para cuando vuelva a ocurrir.
+**Ejercicio inmediato:** Identifica un límite que hayas puesto y que no se haya respetado. Ahora define una consecuencia realista que estes dispuesto a aplicar. No tienes que comunicarla todavía. Solo tenerla clara para cuando vuelva a ocurrir.
 
 Un límite que no sostienes le enseña al otro que puede ignorarlo.
 
@@ -143,7 +143,7 @@ Un límite que no sostienes le enseña al otro que puede ignorarlo.
 
 ## Capítulo 9: Limites y amor: no son opuestos
 
-La madre de Ana le decía siempre: si de verdad me quisieras, no me hablarias asi. Si fueras buena hija, vendrías más. Si me amaras, no te pondrias de su lado. Ana creció creyendo que el amor verdadero significa no tener límites. Que cuidar a alguien significa estar disponible siempre. Que las personas que ponen límites no quieren de verdad.
+La madre de Ana le decía siempre: si de verdad me quisieras, no me hablarias así. Si fueras buena hija, vendrías más. Si me amaras, no te pondrias de su lado. Ana creció creyendo que el amor verdadero significa no tener límites. Que cuidar a alguien significa estar disponible siempre. Que las personas que ponen límites no quieren de verdad.
 
 **El Principio del Limite como Acto de Amor:** Los límites no se oponen al amor. Los límites son una condición para que el amor sea sostenible. Una persona sin límites no puede amar de forma generosa porque todo lo que da viene cargado de resentimiento, agotamiento o expectativa de reciprocidad no comunicada. Los límites saludables permiten dar desde la elección, no desde la obligación. Y lo que se da desde la elección es genuino. Lo que se da desde el miedo al no querer, no lo es.
 

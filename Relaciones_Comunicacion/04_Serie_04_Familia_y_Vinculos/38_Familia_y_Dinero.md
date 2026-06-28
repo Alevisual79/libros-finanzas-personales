@@ -135,7 +135,7 @@ Las familias que gestionan mejor el dinero a largo plazo son las que han desarro
 
 **El Principio de las Reglas Familiares Explicitas:** Establecer principios explícitos sobre temas económicos familiares recurrentes (cómo se manejan los prestamos entre familiares, cómo se decide la ayuda a hijos adultos, cómo se planifican las herencias) antes de que las situaciones específicas surjan, reduce significativamente el conflicto cuando esas situaciones efectivamente ocurren, porque ya existe un marcó acordado en lugar de tener que negociarlo en el calor de una crisis específica.
 
-**Ejercicio inmediato:** Propone a tu familia una conversación para establecer principios generales (no decisiones específicas todavia) sobre como quieren manejar temas económicos familiares recurrentes en el futuro.
+**Ejercicio inmediato:** Propone a tu familia una conversación para establecer principios generales (no decisiones específicas todavía) sobre como quieren manejar temas económicos familiares recurrentes en el futuro.
 
 Las familias que acuerdan sus reglas económicas antes de la crisis evitan la mayoría de las guerras que esas crisis producen.
 

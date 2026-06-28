@@ -23,7 +23,7 @@ Ruben dice que es introvertido. Lo usa como excusa para no salir de su zona de c
 
 La introversión, en su definición psicológica precisa, tiene más que ver con cómo se regula la energía en relación con la estimulación social que con timidez o incapacidad social.
 
-**El Principio de la Regulación Energética:** La distinción fundamental entre introversión y extroversión, segun la investigación en psicología de la personalidad, no es la capacidad o el deseo de relacionarse socialmente, sino cómo se gestiona la energía en relación con la estimulación: los introvertidos tienden a gastar energía en la interacción social y a recargarla en soledad, mientras los extrovertidos tienden a ganar energía de la interacción social y a perderla en soledad prolongada. Esto no determina cuanto disfrutan o valoran las relaciones, sino como necesitan gestionar su energía alrededor de ellas.
+**El Principio de la Regulación Energética:** La distinción fundamental entre introversión y extroversión, según la investigación en psicología de la personalidad, no es la capacidad o el deseo de relacionarse socialmente, sino cómo se gestiona la energía en relación con la estimulación: los introvertidos tienden a gastar energía en la interacción social y a recargarla en soledad, mientras los extrovertidos tienden a ganar energía de la interacción social y a perderla en soledad prolongada. Esto no determina cuanto disfrutan o valoran las relaciones, sino como necesitan gestionar su energía alrededor de ellas.
 
 **Ejercicio inmediato:** Reflexiona sobre tu propio patron de energía: ¿después de una interacción social significativa, te sientes energizado o necesitas tiempo solo para recuperarte? Esa respuesta, más que tu nivel de sociabilidad aparente, es el indicador real de tu temperamento.
 
@@ -97,7 +97,7 @@ Disfrutar plenamente de las relaciones sociales como persona introvertida requie
 
 **El Principio de la Autenticidad sobre la Adaptación Forzada:** Las personas introvertidas que reportan mayor satisfacción en sus relaciones sociales son las que han dejado de intentar comportarse como extrovertidas para encajar, y en su lugar han diseñado su vida social de acuerdo con su temperamento real: menos eventos pero más significativos, relaciones más profundas en lugar de redes más amplias, y tiempo de recuperación sin culpa.
 
-**Ejercicio inmediato:** Identifica una forma en la que has estado forzandote a comportarte de manera extrovertida cuando no se ajusta a tu temperamento real. ¿Que cambiarias si dejaras de intentar encajar en ese molde y disenaras tu vida social segun lo que realmente te funciona?
+**Ejercicio inmediato:** Identifica una forma en la que has estado forzandote a comportarte de manera extrovertida cuando no se ajusta a tu temperamento real. ¿Que cambiarias si dejaras de intentar encajar en ese molde y disenaras tu vida social según lo que realmente te funciona?
 
 Disfrutar de las relaciones como introvertido no requiere convertirte en extrovertido. Requiere dejar de intentarlo.
 

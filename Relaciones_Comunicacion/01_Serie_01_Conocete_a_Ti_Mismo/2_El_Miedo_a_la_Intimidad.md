@@ -45,7 +45,7 @@ La intimidad no se construye con tiempo. Se construye con verdad compartida.
 
 A los ocho años, Maria le contó a su mejor amiga su secreto más grande: que se había meado en clase y había fingido que no. Su amiga se lo contó a todos. A los ocho años, Maria aprendió que mostrar vulnerabilidad tiene consecuencias. A los 38, sigue sin contarle nada importante a nadie.
 
-**El Principio de la Cicatriz de la Revelación:** El miedo a la intimidad casi siempre tiene un origen específico: un momento en que te mostraste tal como eras y el resultado fue rechazó, burla, abandono o indiferencia. El cerebro registro esa experiencia cómo una amenaza y construyo un protocolo de protección: no volver a mostrarse asi. El problema es que ese protocolo no tiene fecha de caducidad. Se aplica treinta años después en contextos completamente distintos.
+**El Principio de la Cicatriz de la Revelación:** El miedo a la intimidad casi siempre tiene un origen específico: un momento en que te mostraste tal como eras y el resultado fue rechazó, burla, abandono o indiferencia. El cerebro registro esa experiencia cómo una amenaza y construyo un protocolo de protección: no volver a mostrarse así. El problema es que ese protocolo no tiene fecha de caducidad. Se aplica treinta años después en contextos completamente distintos.
 
 La teoria del trauma relacional de Daniel Stern explica que las experiencias de rechazó en la infancia y adolescencia no solo duelen en el momento. Dejan una memoria implícita, un saber corporal que dice: cuando te muestras, te hacen daño. Esa memoria actua automáticamente sin que la persona recuerde siquiera el episodio original.
 
@@ -141,7 +141,7 @@ La vulnerabilidad no te hace menos. Te hace real. Y la conexión real solo ocurr
 
 ## Capítulo 9: Ejercicios para acercarte a quienes importan
 
-Elena lleva años esperando que las relaciones profundas ocurran solas. Que alguien aparezca que la entienda sin esfuerzo, que la conexión sea natural, que la intimidad se construya sin que ella tenga que hacer nada especial. Ha esperado 34 años. La intimidad no funciona asi.
+Elena lleva años esperando que las relaciones profundas ocurran solas. Que alguien aparezca que la entienda sin esfuerzo, que la conexión sea natural, que la intimidad se construya sin que ella tenga que hacer nada especial. Ha esperado 34 años. La intimidad no funciona así.
 
 **El Principio de la Intimidad como práctica:** La intimidad no es un estado al que se llega. Es una práctica que se mantiene. Las relaciones profundas no ocurren. Se construyen, deliberadamente, con conversaciones que importan, con presencia cuando cuesta estar, con honestidad cuando es más facil callar, con preguntas que van más allá de como te ha ido. Esperar que ocurra sola es como esperar estar en forma sin moverse.
 

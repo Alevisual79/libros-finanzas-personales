@@ -39,7 +39,7 @@ Los primeros minutos de una primera cita establecen un tono que influye signific
 
 **Ejercicio inmediato:** Si sientes nervios en los primeros minutos de una cita, recuerda que esos minutos no determinan irrevocablemente el resultado completo. Dale a la interacción tiempo de desarrollarse más allá de la incomodidad inicial.
 
-Los primeros minutos nerviosos de una cita no son una sentencia. Son simplemente el inició de algo que todavia tiene tiempo de desarrollarse.
+Los primeros minutos nerviosos de una cita no son una sentencia. Son simplemente el inició de algo que todavía tiene tiempo de desarrollarse.
 
 ---
 
@@ -119,7 +119,7 @@ No sentir química con alguien no es un fracaso de ninguno de los dos. Es inform
 
 Decidir si proponer una segunda cita, y como formular esa propuesta, requiere cierta calibración del interés genuino experimentado durante la primera cita, equilibrada con la disposición a tomar el riesgo de la iniciativa.
 
-**El Principio de la Iniciativa sobre la Ambiguedad:** Proponer una segunda cita de forma clara y directa, en lugar de dejar ambiguedad sobre el interés (un vago deberiamos repetir algun dia), aumenta significativamente la probabilidad de que efectivamente ocurra, ademas de comunicar confianza que generalmente se percibe positivamente.
+**El Principio de la Iniciativa sobre la Ambiguedad:** Proponer una segunda cita de forma clara y directa, en lugar de dejar ambiguedad sobre el interés (un vago deberiamos repetir algun dia), aumenta significativamente la probabilidad de que efectivamente ocurra, además de comunicar confianza que generalmente se percibe positivamente.
 
 **Ejercicio inmediato:** Si tuviste una primera cita que disfrutaste genuinamente, práctica proponer una segunda cita de forma clara y específica (con una idea concreta de actividad y momento), en lugar de un comentario ambiguo sobre repetir algun dia.
 

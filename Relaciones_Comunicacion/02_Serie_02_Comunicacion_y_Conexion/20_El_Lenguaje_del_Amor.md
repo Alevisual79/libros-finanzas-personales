@@ -15,11 +15,11 @@
 
 ## Prólogo
 
-Elena lleva cinco años con su pareja. Le cocina, le plancha la ropa cuando tiene mucho trabajo, organiza las vacaciones para que el no tenga que preocuparse por nada. Y aun asi su pareja dice que a veces siente que Elena no le quiere de verdad. Elena no entiende como puede sentir eso si todo lo que hace es para el.
+Elena lleva cinco años con su pareja. Le cocina, le plancha la ropa cuando tiene mucho trabajo, organiza las vacaciones para que el no tenga que preocuparse por nada. Y aun así su pareja dice que a veces siente que Elena no le quiere de verdad. Elena no entiende como puede sentir eso si todo lo que hace es para el.
 
 El problema no es que Elena no quiera a su pareja. El problema es que Elena habla un idioma que su pareja no escucha.
 
-Gary Chapman, pastor y consejero matrimonial, observo algo después de décadas trabajando con parejas: las personas dan amor de la forma en que les gustaria recibirlo, no de la forma en que el otro necesita recibirlo. Cuando los lenguajes de amor de dos personas son distintos, ambas pueden estar amando de forma genuina y aun asi ninguna sentirse amada.
+Gary Chapman, pastor y consejero matrimonial, observo algo después de décadas trabajando con parejas: las personas dan amor de la forma en que les gustaria recibirlo, no de la forma en que el otro necesita recibirlo. Cuando los lenguajes de amor de dos personas son distintos, ambas pueden estar amando de forma genuina y aun así ninguna sentirse amada.
 
 ---
 
@@ -39,7 +39,7 @@ El amor que no se expresa en el idioma del otro llega como ruido de fondo. No co
 
 ## Capítulo 2: Palabras de afirmación
 
-Ruben no recuerda que su padre le haya dicho nunca estoy orgulloso de ti. Lo que si recuerda son las críticas, las correcciones, las expectativas no cumplidas. Lleva treinta y dos años siendo muy bueno en su trabajo sin poder sentir que es suficiente. Las palabras que no se dijeron dejaron un espacio que nada ha podido llenar todavia.
+Ruben no recuerda que su padre le haya dicho nunca estoy orgulloso de ti. Lo que si recuerda son las críticas, las correcciones, las expectativas no cumplidas. Lleva treinta y dos años siendo muy bueno en su trabajo sin poder sentir que es suficiente. Las palabras que no se dijeron dejaron un espacio que nada ha podido llenar todavía.
 
 **El Principio de la Palabra como Ancla Emocional:** Para las personas cuyo lenguaje del amor primario son las palabras de afirmación, las palabras de reconocimiento, aprecio y afecto tienen un peso emocional que otras personas no pueden comprender desde fuera. Un lo hiciste genial puede sostener a una persona durante semanas. Un eres importante para mi puede cambiar como alguien se siente en la relación de forma duradera.
 
@@ -155,7 +155,7 @@ Aprender el idioma del otro es el acto de amor más consciente que puedes hacer.
 
 El objetivo a largo plazo no es solo hablar el lenguaje primario del otro. Es desarrollar la capacidad de hablar todos los lenguajes con cierta fluidez, para que la expresión del amor sea rica y multidimensional.
 
-**El Principio de la Repertorio Emocional Amplio:** Las relaciones más satisfactorias son las que tienen una amplia variedad de expresiones de afecto. No se apoyan exclusivamente en un solo lenguaje sino que integran palabras, tiempo, gesto, servicio y contacto de forma natural y segun lo que el momento pide. Ese repertorio amplio no se desarrolla de golpe. Se construye con la práctica deliberada de los lenguajes que menos salen de forma natural.
+**El Principio de la Repertorio Emocional Amplio:** Las relaciones más satisfactorias son las que tienen una amplia variedad de expresiones de afecto. No se apoyan exclusivamente en un solo lenguaje sino que integran palabras, tiempo, gesto, servicio y contacto de forma natural y según lo que el momento pide. Ese repertorio amplio no se desarrolla de golpe. Se construye con la práctica deliberada de los lenguajes que menos salen de forma natural.
 
 Chapman señala que cuando ambas personas se sienten amadas de la forma que necesitan, la relación tiene reservas emocionales suficientes para atravesar los períodos difíciles sin perder la conexión. Las reservas emocionales son el resultado acumulado de expresar amor en el idioma del otro de forma consistente.
 

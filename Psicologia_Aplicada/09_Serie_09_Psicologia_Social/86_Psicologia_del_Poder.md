@@ -113,7 +113,7 @@ La investigación de Philip Zimbardo sobre el efecto de las situaciones en el co
 
 **Ejercicio inmediato:** En tu área de influencia (empresa, equipo, familia), identifica quien tiene el poder de tomar decisiones importantes sin rendición de cuentas a nadie. Si la respuesta eres tu mismo, reflexiona: ¿que mecanismo podrías instalar voluntariamente para que alguien con perspectiva diferente pueda cuestionar tus decisiones antes de que se ejecuten? Los mejores líderes instalan sus propios cheques antes de que se los impongan.
 
-El poder sin rendición de cuentas que no te ha corrompido todavia no es garantía de que no lo hará. Es solo una promesa de que hasta ahora ha funcionado.
+El poder sin rendición de cuentas que no te ha corrompido todavía no es garantía de que no lo hará. Es solo una promesa de que hasta ahora ha funcionado.
 
 ---
 

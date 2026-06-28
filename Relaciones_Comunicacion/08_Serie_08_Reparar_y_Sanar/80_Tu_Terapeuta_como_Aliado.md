@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben fue a terapia durante dos meses y la dejó porque, segun su propia descripción, no funcionaba. En realidad, descubre eventualmente al volver a intentarlo con más información, nunca entendió realmente para qué sirve la terapia ni cómo se trabaja con ella de forma efectiva. Esperaba alivio inmediato de un proceso que, por su propia naturaleza, requiere tiempo, participación activa, y una comprensión distinta de lo que significa el progreso terapéutico.
+Ruben fue a terapia durante dos meses y la dejó porque, según su propia descripción, no funcionaba. En realidad, descubre eventualmente al volver a intentarlo con más información, nunca entendió realmente para qué sirve la terapia ni cómo se trabaja con ella de forma efectiva. Esperaba alivio inmediato de un proceso que, por su propia naturaleza, requiere tiempo, participación activa, y una comprensión distinta de lo que significa el progreso terapéutico.
 
 ---
 
@@ -63,7 +63,7 @@ La calidad de la relación entre el paciente y el terapeuta, conocida como alian
 
 **Ejercicio inmediato:** Evalua tu propia relación con tu terapeuta actual, si tienes uno: ¿sientes confianza genuina, sensación de ser comprendido, y colaboración real en el proceso? Si la respuesta es no después de varias sesiones, considera si necesitas buscar un mejor ajuste.
 
-La conexión que sientes con tu terapeuta no es un detalle secundario. Es, segun la investigación, uno de los factores más importantes para que la terapia funcione.
+La conexión que sientes con tu terapeuta no es un detalle secundario. Es, según la investigación, uno de los factores más importantes para que la terapia funcione.
 
 ---
 

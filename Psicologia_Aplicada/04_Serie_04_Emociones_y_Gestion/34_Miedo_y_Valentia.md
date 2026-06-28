@@ -121,7 +121,7 @@ El fracaso que te define es aterrador. El fracaso que te enseña es manejable. L
 
 Isabel sabe intelectualmente que debería afrontar sus miedos pero no sabe como hacerlo de forma práctica. El conocimiento sobre el miedo sin herramientas para actuar a pesar de el no es suficiente.
 
-**El Principio de la Intención de Implementación como Puente entre la Intención y la Acción:** Peter Gollwitzer, psicologo de la Universidad de Nueva York, ha investigado extensamente por qué las personas frecuentemente no actuan segun sus intenciones. Su investigación muestra que las intenciones de meta (quiero hacer X) tienen mucho menor tasa de cumplimiento que las intenciones de implementación (cuando ocurra Y, hare Z en el lugar L). El formato específico de cuando/donde/que reduce la interferencia del miedo en el momento de acción porque la decisión ya esta tomada y la situación activa automáticamente la respuesta planeada.
+**El Principio de la Intención de Implementación como Puente entre la Intención y la Acción:** Peter Gollwitzer, psicologo de la Universidad de Nueva York, ha investigado extensamente por qué las personas frecuentemente no actuan según sus intenciones. Su investigación muestra que las intenciones de meta (quiero hacer X) tienen mucho menor tasa de cumplimiento que las intenciones de implementación (cuando ocurra Y, hare Z en el lugar L). El formato específico de cuando/donde/que reduce la interferencia del miedo en el momento de acción porque la decisión ya esta tomada y la situación activa automáticamente la respuesta planeada.
 
 Adicionalmente, Jeff Bezos popularizó el framework de la minimización del arrepentimiento: en lugar de evaluar si una acción produce suficiente esperanza de éxito, evaluar si la no-acción producira mayor arrepentimiento futuro que el fracaso en la acción. Para muchas personas, el arrepentimiento de no haber intentado supera con creces el dolor del fracaso en el intento.
 
@@ -147,13 +147,13 @@ El miedo del presente dura horas o dias. El arrepentimiento de no haber actuado 
 
 ## Capítulo 10: Construir una relación de trabajo con el miedo
 
-Elena ha llegado a un punto donde el miedo todavia esta presente en las situaciones importantes pero ya no es el factor determinante de si actua o no actua. Ha aprendido a reconocerlo, a escuchar lo que señala, y a decidir después si la acción merece el costo del malestar.
+Elena ha llegado a un punto donde el miedo todavía esta presente en las situaciones importantes pero ya no es el factor determinante de si actua o no actua. Ha aprendido a reconocerlo, a escuchar lo que señala, y a decidir después si la acción merece el costo del malestar.
 
 **El Principio del Miedo como Compas de los Valores:** Steven Hayes, creador de la Terapia de Aceptación y Compromiso, propone que el miedo frecuentemente señala en la dirección de lo que más importa: tenemos miedo de perder lo que amamos, de fallar en lo que más nos importa, de ser rechazados por quienes más deseamos conectar. Desde esta perspectiva, el miedo es un brujula de valores: señala hacía lo que es más significativo, aunque de forma negativa (mostrando lo que habría que perder).
 
-La relación madura con el miedo no es la eliminación del miedo sino la capacidad de dialogar con el: escuchó lo que me estas diciendo sobre lo que importa, noto el malestar que produces, y aun asi elijo actuar porque lo que señalas importa demasiado como para dejar que seas el unico factor que determine mis decisiones.
+La relación madura con el miedo no es la eliminación del miedo sino la capacidad de dialogar con el: escuchó lo que me estas diciendo sobre lo que importa, noto el malestar que produces, y aun así elijo actuar porque lo que señalas importa demasiado como para dejar que seas el unico factor que determine mis decisiones.
 
-**Ejercicio inmediato:** Para tu miedo más limitante, escribe una breve carta a ese miedo en segunda persona: gracias por señalar que esto importa. Te escuchó. Y aun asi voy a actuar, porque la razón por la que tienes tanto poder aquí es exactamente la razón por la que no puedo permitir que seas el que decide. Ese diálogo interno, que puede parecer teatral, es una forma de relación con el miedo que lo incluye sin dejar que lo gobierne todo.
+**Ejercicio inmediato:** Para tu miedo más limitante, escribe una breve carta a ese miedo en segunda persona: gracias por señalar que esto importa. Te escuchó. Y aun así voy a actuar, porque la razón por la que tienes tanto poder aquí es exactamente la razón por la que no puedo permitir que seas el que decide. Ese diálogo interno, que puede parecer teatral, es una forma de relación con el miedo que lo incluye sin dejar que lo gobierne todo.
 
 El miedo que te paraliza frente a lo que más importa es el precio de que algo importe de verdad. No lo pagues no actuando.
 

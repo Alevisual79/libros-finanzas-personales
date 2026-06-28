@@ -29,13 +29,13 @@ Richard Schwartz, creador del modelo de Sistema de Familia Interna (IFS), propon
 
 **Ejercicio inmediato:** Escucha tu crítico interior durante un dia y nota: en que contextos es más intenso, que tipo de críticas hace con más frecuencia, y en quien se parece su tono. Esta observación comienza el proceso de diferenciarte de el.
 
-El crítico interior que habitas no es tu conciencia. Es la voz de alguien de tu pasado que todavia vive alquiler gratis en tu cabeza.
+El crítico interior que habitas no es tu conciencia. Es la voz de alguien de tu pasado que todavía vive alquiler gratis en tu cabeza.
 
 ---
 
 ## Capítulo 2: Los tipos de crítico interior
 
-Elena tiene un crítico interior que opera de formas distintas segun la situación. A veces es un exigente perfeccionista que nunca esta satisfecho. Otras veces es un catastrofista que predice el fracaso. Y otras veces es un comparador que la mide siempre desfavorablemente contra los demás.
+Elena tiene un crítico interior que opera de formas distintas según la situación. A veces es un exigente perfeccionista que nunca esta satisfecho. Otras veces es un catastrofista que predice el fracaso. Y otras veces es un comparador que la mide siempre desfavorablemente contra los demás.
 
 **El Principio de la Multiplicidad del Crítico:** Jay Earley y Bonnie Weiss, terapeutas del IFS que han estudiado el crítico interior en profundidad, identifican varios tipos frecuentes: el perfeccionista (ningún resultado es suficientemente bueno), el guilpador (enfocado en los errores pasados y su responsabilidad), el guilpador por anticipación (predice el fracaso futuro), el comparador (mide siempre desfavorablemente contra otros), el controlador (genera ansiedad ante la falta de control), y el minimizador (reduce los logros para prevenir el orgullo excesivo).
 

@@ -51,7 +51,7 @@ La obediencia que no reconoces como obediencia no es autonomía. Es obediencia q
 
 Elena ha presenciado como en una situación de emergencia, nadie actuaba aunque había veinte personas presentes.
 
-**El Principio del Efecto Espectador como Resultado de la Difusión de la Responsabilidad:** Bibb Latane y John Darley investigaron el efecto espectador (bystander effect) después del asesinato de Kitty Genovese en 1964, que segun los informes de entonces fue presenciado por 38 vecinos sin que ninguno llamara a la policía. Sus experimentos demostraron que la probabilidad de que una persona ayude en una emergencia disminuye cuando hay más personas presentes: cada persona asume que alguien más actuara (difusión de la responsabilidad) y cada persona interpreta la inacción de los otros como evidencia de que no es una emergencia real (influencia social de la información).
+**El Principio del Efecto Espectador como Resultado de la Difusión de la Responsabilidad:** Bibb Latane y John Darley investigaron el efecto espectador (bystander effect) después del asesinato de Kitty Genovese en 1964, que según los informes de entonces fue presenciado por 38 vecinos sin que ninguno llamara a la policía. Sus experimentos demostraron que la probabilidad de que una persona ayude en una emergencia disminuye cuando hay más personas presentes: cada persona asume que alguien más actuara (difusión de la responsabilidad) y cada persona interpreta la inacción de los otros como evidencia de que no es una emergencia real (influencia social de la información).
 
 La investigación de Darley y Latane muestra que la probabilidad de ayuda cuando el sujeto esta solo es del 85% mientras que cuando hay cinco personas presentes es del 31%.
 
@@ -85,7 +85,7 @@ La implicación práctica: cuando se tiene que demostrar algo bien aprendido, la
 
 **Ejercicio inmediato:** Para tu aprendizaje de nuevas habilidades o la resolución de problemas complejos, evalua si el entorno con otros presentes es optimo o si el trabajo solitario produce mejor resultado. El aprendizaje y la resolución de problemas novedosos generalmente son más efectivos en privado; la ejecución de habilidades bien establecidas puede beneficiarse de la presencia de otros.
 
-El rendimiento que tienes con otros no es mejor ni peor que el que tienes solo. Es el resultado de que la activación que producen los otros actua sobre lo que ya sabes o sobre lo que todavia aprendes.
+El rendimiento que tienes con otros no es mejor ni peor que el que tienes solo. Es el resultado de que la activación que producen los otros actua sobre lo que ya sabes o sobre lo que todavía aprendes.
 
 ---
 
@@ -127,7 +127,7 @@ La investigación de Steinberg muestra que los adolescentes toman decisiones de 
 
 **Ejercicio inmediato:** Si tienes adolescentes en tu vida (hijos, alumnos, sobrinos), recuerda que la susceptibilidad a la presión de grupo no es debilidad de carácter sino biología del desarrollo. La respuesta más efectiva no es la prohibición ni la crítica sino el fortalecimiento de la identidad y los valores del adolescente en contextos donde puede expresarlos sin la presión del grupo de pares.
 
-Los adolescentes que parecen controlados por su grupo no son debiles. Son cerebros en desarrollo que todavia no tienen el hardware para resistir lo que ninguno de nosotros pudo resistir del todo a esa edad.
+Los adolescentes que parecen controlados por su grupo no son debiles. Son cerebros en desarrollo que todavía no tienen el hardware para resistir lo que ninguno de nosotros pudo resistir del todo a esa edad.
 
 ---
 

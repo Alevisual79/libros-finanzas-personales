@@ -57,7 +57,7 @@ La lógica del funnel en Meta Ads es diferente a la de Google: hay que llegar al
 
 **Ejercicio inmediato:** Para tu primera campana de Meta Ads, usa la estrategia de tres fases: campana de awareness con audiencia fria (personas que no te conocen pero coinciden con el perfil de cliente ideal), campana de consideración con audiencia tibia (personas que han interactuado con tu contenido orgánico o visitado tu web), y campana de conversión con audiencia caliente (personas que han visto el anuncio varias veces o han añadido al carrito sin comprar). Empieza con el nivel más bajo de cada presupuesto y escala solo las campanas que tienen un ROAS (return on ad spend) superior a tres.
 
-El error más común en Meta Ads es intentar vender directamente a una audiencia fria. El que no te conoce no compra todavia. Primero hay que interesarle.
+El error más común en Meta Ads es intentar vender directamente a una audiencia fria. El que no te conoce no compra todavía. Primero hay que interesarle.
 
 ---
 
@@ -109,7 +109,7 @@ Lucia ha implementado el retargeting y ha recuperado una parte significativa de 
 
 **El Principio del Retargeting como La Estrategia de Mostrar Anuncios específicos a Los Usuarios que Ya Han Visitado Tu Web o Interactuado con Tu Contenido Sin Completar La Acción de Conversión porque Esos Usuarios Tienen Mayor Probabilidad de Convertir que Una Audiencia Fria:** La investigación de Google sobre los patrones de compra online muestra que el 97% de los visitantes de una web no completan la acción de conversión en su primera visita. El retargeting permite recuperar una parte de ese 97% mostrando anuncios específicos a los que han abandonado.
 
-Las campanas de retargeting más efectivas segmentan a los visitantes segun el nivel de interés mostrado: los que han visitado la página de inició (menor interés, requiere un anuncio de awareness), los que han visitado la página de precio (mayor interés, requiere un anuncio que resuelva la objeción más común), y los que han añadido al carrito sin comprar (mayor interés, requiere un anuncio con urgencia y posiblemente un descuento).
+Las campanas de retargeting más efectivas segmentan a los visitantes según el nivel de interés mostrado: los que han visitado la página de inició (menor interés, requiere un anuncio de awareness), los que han visitado la página de precio (mayor interés, requiere un anuncio que resuelva la objeción más común), y los que han añadido al carrito sin comprar (mayor interés, requiere un anuncio con urgencia y posiblemente un descuento).
 
 **Ejercicio inmediato:** Configura tres campanas de retargeting en Meta Ads con tres segmentos distintos: todos los visitantes de tu web en los últimos treinta dias (audiencia amplia, anuncio de contenido de valor o prueba social), visitantes de páginas específicas de alto intento (página de precio o de servicio, anuncio que resuelve objeciones), y visitantes de checkout abandonado en los últimos siete dias (anuncio con urgencia y quizas un incentivo específico). El retargeting tiene tipicamente el mayor ROAS de todos los tipos de campana porque habla a una audiencia que ya conoce el producto.
 

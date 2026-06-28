@@ -49,7 +49,7 @@ Buscar activamente lo que te contradice no es debilidad intelectual. Es lo más 
 
 ## Capítulo 3: El efecto ancla: el primer número que ves lo cambia todo
 
-Isabel negocia salarios con candidatos. Sabe que no debería dejar que el primer número mencionado influya en la negociación final. Aun asi, cuando un candidato menciona primero una cifra alta, el salario que Isabel termina ofreciendo es consistentemente mayor que cuando el candidato menciona primero una cifra baja. El efecto existe aunque Isabel lo conozca. Conocer un sesgo no lo elimina.
+Isabel negocia salarios con candidatos. Sabe que no debería dejar que el primer número mencionado influya en la negociación final. Aun así, cuando un candidato menciona primero una cifra alta, el salario que Isabel termina ofreciendo es consistentemente mayor que cuando el candidato menciona primero una cifra baja. El efecto existe aunque Isabel lo conozca. Conocer un sesgo no lo elimina.
 
 **El Principio del Ancla Arbitraria:** El efecto ancla describe como el primer número o pieza de información que encontramos sobre un tema establece un punto de referencia que influye desproporcionadamente en todos los juicios posteriores, incluso cuando ese primer número es completamente arbitrario. Amos Tversky y Daniel Kahneman demostraron que personas que hacían girar una ruleta numerada antes de estimar cuantos paises africanos hay en la ONU daban estimaciones significativamente más altas cuando la ruleta había caido en números altos, y más bajas cuando había caido en números bajos.
 
@@ -77,7 +77,7 @@ Lo que tu cerebro recuerda facilmente no es necesariamente lo que ocurre con má
 
 ## Capítulo 5: El sesgo de retrospectiva: siempre lo supe
 
-Ruben no predijo la caida de una empresa tecnologica en la que invirtió. Pero tres meses después del colapso, Ruben tiene la firme sensación de que en realidad había visto las señales con anticipación. Que lo sabía, aunque no actuara segun ese conocimiento. Su cerebro ha reescrito la historia para que tenga más sentido de lo que tenía cuando ocurrio.
+Ruben no predijo la caida de una empresa tecnologica en la que invirtió. Pero tres meses después del colapso, Ruben tiene la firme sensación de que en realidad había visto las señales con anticipación. Que lo sabía, aunque no actuara según ese conocimiento. Su cerebro ha reescrito la historia para que tenga más sentido de lo que tenía cuando ocurrio.
 
 **El Principio de la Historia Reescrita:** El sesgo de retrospectiva, conocido coloquialmente como el efecto del lo sabía desde siempre, describe la tendencia a ver los eventos pasados como más predecibles de lo que eran en realidad antes de que ocurrieran. Baruch Fischhoff, psicologo de Carnegie Mellon, demostró que una vez que una persona conoce el resultado de un evento, encuentra extremadamente difícil reconstruir mentalmente como habría evaluado las probabilidades antes de saber el resultado.
 

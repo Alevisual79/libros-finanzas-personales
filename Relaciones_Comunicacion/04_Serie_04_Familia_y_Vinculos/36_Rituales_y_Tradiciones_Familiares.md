@@ -17,7 +17,7 @@
 
 Elena no tuvo rituales familiares estables en su infancia. Sus padres se mudaban con frecuencia, las celebraciones cambiaban de forma cada año, y no existia ninguna rutina que se sintiera como nuestra de forma consistente. Ahora, formando su propia familia, no sabe como crear rituales propios. El resultado es una sensación de soltar amarras permanente, como si su familia actual flotara sin ningún ancla que la sostenga en el tiempo.
 
-Los rituales familiares no son decoración superflua de la vida en común. Son, segun la investigación en psicología familiar, uno de los predictores más consistentes de cohesión, identidad compartida y bienestar emocional en los hijos.
+Los rituales familiares no son decoración superflua de la vida en común. Son, según la investigación en psicología familiar, uno de los predictores más consistentes de cohesión, identidad compartida y bienestar emocional en los hijos.
 
 ---
 

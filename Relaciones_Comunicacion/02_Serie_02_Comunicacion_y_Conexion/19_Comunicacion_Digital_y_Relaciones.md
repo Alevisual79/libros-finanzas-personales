@@ -39,7 +39,7 @@ El canal que eliges no es solo una decisión de conveniencia. Es una decisión s
 
 ## Capítulo 2: El problema de los mensajes de texto
 
-El texto tiene problemas específicos que lo hacen peligroso para las conversaciones con contenido emocional. No hay tono de voz, asi que el lector proyecta el tono que espera o teme. No hay retroalimentación inmediata del otro, asi que el que escribe no sabe si el mensaje está llegando bien. No hay posibilidad de corregir en tiempo real si algo no está bien.
+El texto tiene problemas específicos que lo hacen peligroso para las conversaciones con contenido emocional. No hay tono de voz, así que el lector proyecta el tono que espera o teme. No hay retroalimentación inmediata del otro, así que el que escribe no sabe si el mensaje está llegando bien. No hay posibilidad de corregir en tiempo real si algo no está bien.
 
 **El Principio de la Proyección del Tono:** En ausencia de tono de voz real, el lector proyecta el tono que corresponde a su estado interno. Una persona ansiosa lee un texto neutro como amenazante. Una persona que tiene una suposición negativa sobre el remitente lee el mismo texto con tono crítico. Los emojis son intentos de compensar la ausencia de tono pero son imprecisos y culturalmente variables.
 

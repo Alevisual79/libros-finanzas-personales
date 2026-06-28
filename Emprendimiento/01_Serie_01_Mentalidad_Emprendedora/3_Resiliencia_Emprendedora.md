@@ -27,7 +27,7 @@ El emprendimiento tiene una forma específica de desarrollo que el que no la con
 
 La investigación de Clayton Christensen sobre la innovación disruptiva muestra un patron similar: las innovaciones disruptivas raramente superan a las soluciones establecidas en las metricas que el mercado actual valora en los primeros períodos. Solo cuando generan su propio mercado o mejoran en las metricas que ese mercado valora, la tracción se vuelve visible.
 
-**Ejercicio inmediato:** Para tu proyecto o negocio actual, reflexiona: ¿donde estas en la curva J? ¿Eres todavia en la fase descendente inicial (aprendiendo, ajustando, sin tracción visible todavia)? ¿Eres en el punto de inflexion (empiezas a ver señales de tracción aunque todavia no son consistentes)? ¿Eres en la fase ascendente (la tracción es consistente y el aprendizaje se está traduciendo en resultados)? Conocer tu posición en la curva cambia la interpretación de los resultados actuales.
+**Ejercicio inmediato:** Para tu proyecto o negocio actual, reflexiona: ¿donde estas en la curva J? ¿Eres todavía en la fase descendente inicial (aprendiendo, ajustando, sin tracción visible todavía)? ¿Eres en el punto de inflexion (empiezas a ver señales de tracción aunque todavía no son consistentes)? ¿Eres en la fase ascendente (la tracción es consistente y el aprendizaje se está traduciendo en resultados)? Conocer tu posición en la curva cambia la interpretación de los resultados actuales.
 
 La fase más dura de la curva J no es la que duele más. Es la que más parece fracaso cuando en realidad es proceso.
 
@@ -79,7 +79,7 @@ El recurso psicológico que más te falta en la adversidad es el que más merece
 
 Marcos ha observado que los emprendedores más resilientes que conoce no son los que no fracasan sino los que se recuperan de forma diferente.
 
-**El Principio de los Hábitos de Recuperación como Rutinas que Acelaran el Tiempo de Recuperación después de los Fracasos y Contratiempos:** La investigación de Martin Seligman sobre el estilo atributivo muestra que la diferencia entre las personas que se recuperan rápidamente de los fracasos y las que tardan más esta en como atribuyen las causas: las personas resilientes atribuyen los fracasos a causas específicas (este proyecto específico no funcionó), temporales (en este momento), y externas cuando es apropiado (el mercado cambio), en lugar de a causas globales (nunca funciona nada), permanentes (siempre será asi), y personales (soy incompetente).
+**El Principio de los Hábitos de Recuperación como Rutinas que Acelaran el Tiempo de Recuperación después de los Fracasos y Contratiempos:** La investigación de Martin Seligman sobre el estilo atributivo muestra que la diferencia entre las personas que se recuperan rápidamente de los fracasos y las que tardan más esta en como atribuyen las causas: las personas resilientes atribuyen los fracasos a causas específicas (este proyecto específico no funcionó), temporales (en este momento), y externas cuando es apropiado (el mercado cambio), en lugar de a causas globales (nunca funciona nada), permanentes (siempre será así), y personales (soy incompetente).
 
 La investigación de Adam Grant muestra que los emprendedores que más rápidamente se recuperan de los fracasos son los que hacen un análisis explícito de lo que ocurrio (el After Action Review), extraen los aprendizajes específicos, y vuelven a la acción con esos aprendizajes antes de que el tiempo de inacción permita que el miedo al siguiente fracaso se consolide.
 
@@ -93,7 +93,7 @@ El emprendedor que se recupera más rápido no siente menos el fracaso. Lo proce
 
 Carlos ha aprendido que cuando mira el trimestre se desespera, pero cuando mira los tres años, la perspectiva cambia completamente.
 
-**El Principio de la Perspectiva Temporal como Herramienta de Resiliencia que Reduce el Impacto Percibido de los Obstaculos Actuales al Contextualizarlos en un Horizonte Mayor:** Philip Zimbardo y John Boyd investigaron los estilos de orientación temporal y su efecto en el bienestar y las decisiones. Las personas con orientación temporal equilibrada (que pueden acceder a la perspectiva del pasado, del presente, y del futuro segun lo que la situación requiere) muestran mayor resiliencia que las que se quedan atrapadas en el presente hedonico o catastrofista.
+**El Principio de la Perspectiva Temporal como Herramienta de Resiliencia que Reduce el Impacto Percibido de los Obstaculos Actuales al Contextualizarlos en un Horizonte Mayor:** Philip Zimbardo y John Boyd investigaron los estilos de orientación temporal y su efecto en el bienestar y las decisiones. Las personas con orientación temporal equilibrada (que pueden acceder a la perspectiva del pasado, del presente, y del futuro según lo que la situación requiere) muestran mayor resiliencia que las que se quedan atrapadas en el presente hedonico o catastrofista.
 
 La investigación sobre el efecto de perspectiva temporal en el emprendimiento de Melissa Cardon muestra que los emprendedores que mantienen una visión de largo plazo clara durante las adversidades del corto plazo muestran mayor persistencia. La visión no elimina el dolor del momento pero lo contextualiza en algo que tiene sentido dentro de un horizonte mayor.
 
@@ -111,7 +111,7 @@ Lucia sabe que cuando recuerda por qué empezó su empresa, la energía para seg
 
 La investigación de Michael Steger sobre el proposito y el bienestar muestra que las personas con mayor claridad de proposito muestran mayor resiliencia ante la adversidad, porque la adversidad puede integrarse en la narrativa del camino hacía el proposito sin destruir la coherencia de esa narrativa.
 
-**Ejercicio inmediato:** Escribe en dos párrafos la respuesta a la pregunta: ¿por qué empece este negocio y para qué existe más allá de ganar dinero? Si la respuesta que escribes no te produce ningún nivel de energía o emoción al leerla, el proposito que has articulado todavia no es el real o se ha erosionado. Un proposito que conecta con algo genuinamente importante para ti es el que produce resiliencia. Uno que suena bien pero no lo sientes como tuyo no produce lo mismo.
+**Ejercicio inmediato:** Escribe en dos párrafos la respuesta a la pregunta: ¿por qué empece este negocio y para qué existe más allá de ganar dinero? Si la respuesta que escribes no te produce ningún nivel de energía o emoción al leerla, el proposito que has articulado todavía no es el real o se ha erosionado. Un proposito que conecta con algo genuinamente importante para ti es el que produce resiliencia. Uno que suena bien pero no lo sientes como tuyo no produce lo mismo.
 
 El dia que no tienes ganas de seguir, el proposito es lo unico que importa. Sin el, ese dia es el último. Con el, es solo un dia difícil.
 
@@ -141,7 +141,7 @@ La investigación de Sara Blakely (fundadora de Spanx) sobre la cultura de fraca
 
 **Ejercicio inmediato:** Identifica a un emprendedor que admires que haya atravesado una adversidad significativa (un fracaso de negocio, una crisis existencial, un pivote total). Estudia cómo la atraveso: ¿que hizo en los momentos más duros? ¿Que decidió no hacer? ¿Que dijo que fue lo que lo mantuvo en el camino? Esos patrones son aplicables a tu situación aunque el contenido específico sea diferente.
 
-La resiliencia que no has vivido todavia ya la han vivido otros antes que tu. Vale la pena aprender de ellos antes de que llegue el momento de necesitarla.
+La resiliencia que no has vivido todavía ya la han vivido otros antes que tu. Vale la pena aprender de ellos antes de que llegue el momento de necesitarla.
 
 ---
 

@@ -21,7 +21,7 @@ Isabel tiene cincuenta y cuatro años y ha vuelto al mercado de citas digitales 
 
 ## Capítulo 1: El ecosistema de citas digitales hoy
 
-El panorama de aplicaciones y plataformas de citas ha evolucionado significativamente, creando un ecosistema complejo con multiples opciones especializadas segun edad, intereses, o tipo de relación buscada.
+El panorama de aplicaciones y plataformas de citas ha evolucionado significativamente, creando un ecosistema complejo con multiples opciones especializadas según edad, intereses, o tipo de relación buscada.
 
 **El Principio de la Diversificación del Mercado de Citas:** El ecosistema actual incluye aplicaciones generalistas de amplio uso, plataformas especializadas en relaciones serías versus casuales, y comunidades de nicho organizadas alrededor de intereses, religion, o demografia específica. Esta diversificación permite mayor precisión en la búsqueda, pero también genera complejidad sobre cual plataforma es más apropiada para los objetivos específicos de cada persona.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel lleva veinte años trabajando en recursos humanos. Ha visto a cientos de profesionales brillantes técnicamente que arruinaban equipos enteros por no saber relacionarse con las personas que dirigian. El patron se repite con una consistencia que debería ser, segun Isabel, el primer tema que se ensena a cualquiera que asciende a un puesto de liderazgo, y rara vez lo es.
+Isabel lleva veinte años trabajando en recursos humanos. Ha visto a cientos de profesionales brillantes técnicamente que arruinaban equipos enteros por no saber relacionarse con las personas que dirigian. El patron se repite con una consistencia que debería ser, según Isabel, el primer tema que se ensena a cualquiera que asciende a un puesto de liderazgo, y rara vez lo es.
 
 ---
 
@@ -45,7 +45,7 @@ El liderazgo no es una habilidad técnica que se ejerce sobre procesos. Es una h
 
 ## Capítulo 3: Confianza como activo del líder
 
-La confianza que un equipo tiene en su líder es, segun la investigación, uno de los predictores más fuertes de desempeño organizacional, y se construye o se destruye a traves de patrones específicos y observables de comportamiento.
+La confianza que un equipo tiene en su líder es, según la investigación, uno de los predictores más fuertes de desempeño organizacional, y se construye o se destruye a traves de patrones específicos y observables de comportamiento.
 
 **El Principio de la Confianza como Activo Acumulable:** La confianza en el liderazgo se construye a traves de la consistencia entre lo que el líder dice y lo que hace, la transparencia sobre las razones detras de las decisiones, y la disposición de admitir errores propios en lugar de proyectarlos hacía el equipo. Esta confianza, una vez construida, funciona como un activo que permite al equipo tolerar mejor los períodos de dificultad o incertidumbre.
 

@@ -59,7 +59,7 @@ Una vida plena no es lo que tienes después de encontrar pareja. Es lo que te pe
 
 El nivel de autoestima de una persona influye significativamente en el tipo de pareja que tiende a atraer y a elegir, frecuentemente de formas que la persona no reconoce conscientemente hasta que examina sus patrones con atención.
 
-**El Principio de la Autoestima como Filtro de Elección:** Las personas con autoestima baja tienden, segun la investigación, a tolerar tratamiento menos respetuoso en sus relaciones, a interpretar el interés intenso o posesivo como amor profundo, y a permanecer en relaciones insatisfactorias por más tiempo del que la evidencia objetiva justificaria. Trabajar en la autoestima propia, independientemente de tener o no pareja, mejora directamente la calidad de las elecciones romanticas futuras.
+**El Principio de la Autoestima como Filtro de Elección:** Las personas con autoestima baja tienden, según la investigación, a tolerar tratamiento menos respetuoso en sus relaciones, a interpretar el interés intenso o posesivo como amor profundo, y a permanecer en relaciones insatisfactorias por más tiempo del que la evidencia objetiva justificaria. Trabajar en la autoestima propia, independientemente de tener o no pareja, mejora directamente la calidad de las elecciones romanticas futuras.
 
 **Ejercicio inmediato:** Reflexiona sobre tus patrones de elección de pareja pasados. Hay un patron relacionado con tolerar tratamiento que en retrospectiva no era respetuoso? Ese patron puede tener su raiz en el nivel de autoestima con que entrabas a esas relaciones.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel tardo años en llamarlo abuso. No había golpes, no había gritos todos los dias. Pero había comentarios que la dejaban dudando de su propia percepción, silencio prolongado como castigo, la sensación constante de caminar sobre cascaras de huevo sin saber exactamente por qué, y la certeza creciente de que algo estaba mal en ella. Eso, que tardo tanto en nombrar, es abuso emocional: el patron sistemático de comportamientos que erosionan la autoimagen, la confianza en la propia percepción, y el sentido de valor de una persona. Este libro es para las personas que han vivido o viven algo asi, y que quieren entender lo que les ocurrio y encontrar el camino de regreso a si mismas.
+Isabel tardo años en llamarlo abuso. No había golpes, no había gritos todos los dias. Pero había comentarios que la dejaban dudando de su propia percepción, silencio prolongado como castigo, la sensación constante de caminar sobre cascaras de huevo sin saber exactamente por qué, y la certeza creciente de que algo estaba mal en ella. Eso, que tardo tanto en nombrar, es abuso emocional: el patron sistemático de comportamientos que erosionan la autoimagen, la confianza en la propia percepción, y el sentido de valor de una persona. Este libro es para las personas que han vivido o viven algo así, y que quieren entender lo que les ocurrio y encontrar el camino de regreso a si mismas.
 
 ---
 
@@ -97,7 +97,7 @@ Elena ha crecido sin aprender bien que son los límites. El abuso emocional frec
 
 La investigación sobre victimas de abuso muestra que el proceso de establecer límites es uno de los componentes más importantes de la recuperación. Este proceso implica aprender a identificar las propias necesidades y preferencias, comunicarlas claramente, y sostener las consecuencias cuando son ignoradas.
 
-**Ejercicio inmediato:** Identifica una relación actual donde percibes que necesitas un límite que todavia no has establecido. Formula el límite en terminos de lo que vas a hacer tu: si X ocurre, yo voy a hacer Y. Este formato da el control al que establece el límite en lugar de depender del comportamiento del otro.
+**Ejercicio inmediato:** Identifica una relación actual donde percibes que necesitas un límite que todavía no has establecido. Formula el límite en terminos de lo que vas a hacer tu: si X ocurre, yo voy a hacer Y. Este formato da el control al que establece el límite en lugar de depender del comportamiento del otro.
 
 El límite que no tienes no puede protegerte. Pero el límite que defines en terminos propios es el que puedes sostener.
 
@@ -125,7 +125,7 @@ Isabel tuvo dificultades para buscar ayuda porque el abuso había erosionado su 
 
 La psicoterapia especializada en trauma de relación (EMDR, terapia de esquemas, terapia centrada en el apego, trabajo con el TEPT complejo) es el tratamiento con mayor soporte empirico para los efectos a largo plazo del abuso emocional.
 
-**Ejercicio inmediato:** Si todavia no has buscado apoyo profesional para el procesamiento del abuso emocional, reflexiona sobre lo que te lo ha impedido. El abuso erosiona la creencia de que se merece ayuda, lo que produce que exactamente cuando más se necesita, sea más difícil pedirla.
+**Ejercicio inmediato:** Si todavía no has buscado apoyo profesional para el procesamiento del abuso emocional, reflexiona sobre lo que te lo ha impedido. El abuso erosiona la creencia de que se merece ayuda, lo que produce que exactamente cuando más se necesita, sea más difícil pedirla.
 
 Buscar ayuda para sanar del abuso no es debilidad. Es el acto más valiente que puedes hacer después de sobrevivir.
 
@@ -147,7 +147,7 @@ La confianza en nuevas relaciones no se recupera en un dia. Se reconstruye obser
 
 ## Capítulo 10: La recuperación como regreso a uno mismo
 
-Isabel ha llegado a entender que la recuperación del abuso emocional no es solo dejar atras la experiencia. Es encontrar el camino de regreso a quien era antes de que el abuso erosionara ese yo.
+Isabel ha llegado a entender que la recuperación del abuso emocional no es solo dejar atrás la experiencia. Es encontrar el camino de regreso a quien era antes de que el abuso erosionara ese yo.
 
 **El Principio de la Recuperación del Abuso como Proceso de Re-Identidad:** Lenore Walker y otros investigadores del abuso proponen que la recuperación completa implica re-identidad: no solo superar los sintomas sino reconstruir activamente el sentido de quien uno es, que valora, que necesita, y que tipo de vida quiere vivir.
 

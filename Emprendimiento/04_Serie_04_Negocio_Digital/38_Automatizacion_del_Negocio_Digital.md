@@ -41,7 +41,7 @@ Lucia ha descubierto que el email marketing automatizado genera entre el veinte 
 
 Klaviyo reporta que las empresas que tienen flows de email automatizados bien configurados generan en promedio entre el veinte y el cuarenta por ciento de su revenue total de email de esos flows, sin ninguna intervención activa del emprendedor una vez configurados.
 
-**Ejercicio inmediato:** Implementa el flow de bienvenida si todavia no lo tienes. Son tres emails: email 1 (inmediatamente después de la suscripción: bienvenida, confirmación de lo que van a recibir, y el lead magnet o regalo prometido), email 2 (al dia dos: tu historia y por qué haces lo que haces), email 3 (al dia cuatro: tu recurso más valioso o tu caso de éxito más impresionante). Ese flow de tres emails, configurado una sola vez, se envia automáticamente a cada nuevo suscriptor para siempre.
+**Ejercicio inmediato:** Implementa el flow de bienvenida si todavía no lo tienes. Son tres emails: email 1 (inmediatamente después de la suscripción: bienvenida, confirmación de lo que van a recibir, y el lead magnet o regalo prometido), email 2 (al dia dos: tu historia y por qué haces lo que haces), email 3 (al dia cuatro: tu recurso más valioso o tu caso de éxito más impresionante). Ese flow de tres emails, configurado una sola vez, se envia automáticamente a cada nuevo suscriptor para siempre.
 
 El flow de email que configuras esta semana sigue enviandose el año que viene sin que lo toques.
 

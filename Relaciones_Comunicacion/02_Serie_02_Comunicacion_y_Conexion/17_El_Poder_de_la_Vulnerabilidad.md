@@ -59,7 +59,7 @@ La culpa dice hice algo malo. La verguenza dice soy algo malo. La culpa puede mo
 
 La investigación de Brown muestra que la verguenza crece en el silencio y en el secreto. Y se reduce cuando se habla. No porque hablar la resuelva, sino porque exponerla a la luz rompe el poder que tiene cuando se queda en la oscuridad. Las personas que comparten su verguenza con alguien de confianza experimentan una reducción significativa de su intensidad.
 
-**Ejercicio inmediato:** Identifica algo de ti mismo de lo que sientes verguenza, algo que ocultas sistemáticamente. No tienes que compartirlo todavia. Solo nombra la emoción: es verguenza lo que siento sobre esto. Poner nombre a la verguenza ya reduce ligeramente su poder.
+**Ejercicio inmediato:** Identifica algo de ti mismo de lo que sientes verguenza, algo que ocultas sistemáticamente. No tienes que compartirlo todavía. Solo nombra la emoción: es verguenza lo que siento sobre esto. Poner nombre a la verguenza ya reduce ligeramente su poder.
 
 La verguenza que no se nombra gobierna. La que se nombra, se puede gestionar.
 
@@ -67,7 +67,7 @@ La verguenza que no se nombra gobierna. La que se nombra, se puede gestionar.
 
 ## Capítulo 4: Por qué la vulnerabilidad conecta
 
-Cuando Ruben finalmente le dijo a su mejor amigo que tenía miedo de no ser suficiente en su trabajo nuevo, su amigo no lo miro con lastima. Lo miro de frente y le dijo: yo llevo dos años sintiendome igual. Ninguno de los dos había tenido una conversación asi antes. Ninguno de los dos olvido esa noche.
+Cuando Ruben finalmente le dijo a su mejor amigo que tenía miedo de no ser suficiente en su trabajo nuevo, su amigo no lo miro con lastima. Lo miro de frente y le dijo: yo llevo dos años sintiendome igual. Ninguno de los dos había tenido una conversación así antes. Ninguno de los dos olvido esa noche.
 
 **El Principio de la Vulnerabilidad como Puente de Conexión:** La vulnerabilidad conecta porque rompe la ilusión de que los demás lo tienen todo resuelto mientras tu eres el unico que lucha. Cuando alguien muestra su vulnerabilidad con autenticidad, activa en el otro el reconocimiento: yo también. Ese reconocimiento es la base de la conexión real. No la perfección compartida. La humanidad compartida.
 
@@ -115,7 +115,7 @@ Cuando alguien te comparte algo vulnerable, tu respuesta en ese momento determin
 
 Brown describe el momento de la respuesta a la vulnerabilidad como el momento más delicado de una relación. Una respuesta que honra ese momento construye confianza de una forma que ningún otro acto puede. Una respuesta que no lo honra cierra algo que puede no volver a abrirse.
 
-**Ejercicio inmediato:** La próxima vez que alguien comparta algo vulnerable contigo, antes de responder, haz una pausa. Luego di algo que reconozca lo que acaba de compartir: gracias por contarme esto, eso debe ser muy difícil. No consigas. No aconsejes todavia. Solo recibe.
+**Ejercicio inmediato:** La próxima vez que alguien comparta algo vulnerable contigo, antes de responder, haz una pausa. Luego di algo que reconozca lo que acaba de compartir: gracias por contarme esto, eso debe ser muy difícil. No consigas. No aconsejes todavía. Solo recibe.
 
 Lo que dices cuando alguien es vulnerable contigo es lo que determina si volvera a serlo.
 

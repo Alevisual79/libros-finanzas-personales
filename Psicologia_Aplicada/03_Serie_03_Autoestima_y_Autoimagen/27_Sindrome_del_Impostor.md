@@ -107,9 +107,9 @@ El síndrome del impostor predice que te van a descubrir. La exposición acumula
 
 Elena se ha resistido a buscar mentores porque le da verguenza que alguien con más experiencia descubra lo poco que sabe. Este razonamiento es característico del síndrome del impostor y produce precisamente el aislamiento que lo alimenta.
 
-**El Principio de la Vulnerabilidad Compartida como Antidoto:** El síndrome del impostor prospera en el secreto y el aislamiento. La persona con el síndrome cree que es la unica que se siente asi, lo que refuerza la sensación de ser un impostor (si fuera realmente competente, no tendría estas dudas). La conversación honesta sobre las propias inseguridades con personas de confianza frecuentemente revela que la sensación es mucho más compartida de lo que el síndrome permite creer.
+**El Principio de la Vulnerabilidad Compartida como Antidoto:** El síndrome del impostor prospera en el secreto y el aislamiento. La persona con el síndrome cree que es la unica que se siente así, lo que refuerza la sensación de ser un impostor (si fuera realmente competente, no tendría estas dudas). La conversación honesta sobre las propias inseguridades con personas de confianza frecuentemente revela que la sensación es mucho más compartida de lo que el síndrome permite creer.
 
-La mentoria, ademas, proporciona perspectiva externa sobre la propia competencia que puede calibrar la autoevaluación sesgada del impostor. El mentor que ha visto desarrollarse a muchos profesionales en el campo puede identificar fortalezas que el síndrome ignora sistemáticamente.
+La mentoria, además, proporciona perspectiva externa sobre la propia competencia que puede calibrar la autoevaluación sesgada del impostor. El mentor que ha visto desarrollarse a muchos profesionales en el campo puede identificar fortalezas que el síndrome ignora sistemáticamente.
 
 **Ejercicio inmediato:** Identifica una persona (mentor, colega de confianza, o supervisor) con quien podrías tener una conversación honesta sobre las inseguridades profesionales que el síndrome del impostor genera. No para pedir validación sino para calibrar tu autoevaluación con perspectiva externa. Si la persona elegida tiene experiencia en el campo, su evaluación de tu competencia tiene más peso informativo que la del síndrome.
 
@@ -153,7 +153,7 @@ Isabel ha empezado a practicar lo que llama declaraciones de competencia calibra
 
 Esta tolerancia a la incompletud del propio conocimiento es en realidad la característica más honesta de los expertos reales: cuanto más saben, más reconocen lo que no saben, y pueden actuar con confianza desde lo que saben sin que eso les paralice.
 
-**Ejercicio inmediato:** Escribe tu declaración de competencia calibrada para el área donde el síndrome del impostor es más intenso. No perfecto, no el mejor, no sin dudas. Sino: tengo X experiencia específica, he manejado Y situaciones similares, puedo hacer Z aunque hay cosas que todavia estoy aprendiendo. Esa declaración es más verdadera que la del síndrome, y es desde la que puedes actuar con mayor estabilidad.
+**Ejercicio inmediato:** Escribe tu declaración de competencia calibrada para el área donde el síndrome del impostor es más intenso. No perfecto, no el mejor, no sin dudas. Sino: tengo X experiencia específica, he manejado Y situaciones similares, puedo hacer Z aunque hay cosas que todavía estoy aprendiendo. Esa declaración es más verdadera que la del síndrome, y es desde la que puedes actuar con mayor estabilidad.
 
 Los verdaderos expertos saben exactamente lo que no saben. Solo el síndrome del impostor cree que eso los hace fraudes.
 
@@ -161,7 +161,7 @@ Los verdaderos expertos saben exactamente lo que no saben. Solo el síndrome del
 
 ## Epílogo
 
-Isabel acepto el cargo de directora. Todavia con el síndrome activo, pero con un protocolo nuevo: cuando el pensamiento van a descubrirme aparece, lo nota, lo nombra (el síndrome esta aquí), y lo responde con una declaración de competencia calibrada: he gestionado diez años de trabajo excelente en este campo. Cometo errores. Tengo mucho que aprender. Y puedo hacer este trabajo bien. No perfectamente. Bien. Este estandar, realista y verificable, es suficientemente sólido para construir sobre el.
+Isabel acepto el cargo de directora. Todavía con el síndrome activo, pero con un protocolo nuevo: cuando el pensamiento van a descubrirme aparece, lo nota, lo nombra (el síndrome esta aquí), y lo responde con una declaración de competencia calibrada: he gestionado diez años de trabajo excelente en este campo. Cometo errores. Tengo mucho que aprender. Y puedo hacer este trabajo bien. No perfectamente. Bien. Este estandar, realista y verificable, es suficientemente sólido para construir sobre el.
 
 ---
 

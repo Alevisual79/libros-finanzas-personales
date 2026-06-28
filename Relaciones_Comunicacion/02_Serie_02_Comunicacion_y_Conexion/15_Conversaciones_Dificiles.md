@@ -113,7 +113,7 @@ La defensividad es la respuesta natural a percibir una amenaza. Cuando alguien s
 
 **El Principio de la Defensividad como Información:** Cuando el otro se pone a la defensiva en una conversación difícil, esa defensividad da información: el mensaje no está llegando de la forma deseada, o el otro percibe una amenaza que no se pretendia. En lugar de insistir con el mismo mensaje o aumentar la presión, la respuesta más efectiva suele ser hacer una pausa: ¿noto que lo que digo te está generando incomodidad, puedo intentar decirlo de otra manera?
 
-El paso atras ante la defensividad del otro no es capitulación. Es un reconocimiento de que la forma del mensaje necesita ajustarse para que el contenido pueda llegar.
+El paso atrás ante la defensividad del otro no es capitulación. Es un reconocimiento de que la forma del mensaje necesita ajustarse para que el contenido pueda llegar.
 
 **Ejercicio inmediato:** Recuerda una conversación difícil en que el otro se puso a la defensiva. ¿Que podía haber producido esa defensividad? ¿Habia algo en cómo lo dijiste que podía percibirse como ataque? Esa retrospección, aplicada a futuras conversaciones, aumenta la precisión con que se calibra el mensaje.
 
@@ -139,7 +139,7 @@ Las conversaciones que importan merecen el canal más rico. El texto no lo es.
 
 No todas las conversaciones difíciles terminan con resolución. A veces el otro no está listo. A veces el tema es demasiado complejo para una sola conversación. A veces la diferencia entre las dos personas es tan fundamental que no hay acuerdo posible y hay que aprender a convivir con ella.
 
-**El Principio del Cierre sin Resolución:** Una conversación puede terminar sin que el tema este resuelto y aun asi haber sido productiva si: ambas personas han podido expresar su perspectiva, el nivel de comprensión mutua es mayor que al principio, y se ha acordado un próximo paso aunque sea pequeño. La resolución completa no es el unico criterio de éxito de una conversación difícil.
+**El Principio del Cierre sin Resolución:** Una conversación puede terminar sin que el tema este resuelto y aun así haber sido productiva si: ambas personas han podido expresar su perspectiva, el nivel de comprensión mutua es mayor que al principio, y se ha acordado un próximo paso aunque sea pequeño. La resolución completa no es el unico criterio de éxito de una conversación difícil.
 
 A veces el cierre honesto es reconocer que hay una diferencia que no se puede resolver hoy: creo que no vamos a llegar a un acuerdo completo en esta conversación, y quiero que sepas que entiendo tu perspectiva aunque no la comparta. Ese cierre puede ser más valioso que un acuerdo superficial.
 

@@ -79,13 +79,13 @@ El elogio que te dieron de niño sobre quien eras moldeo la creencia sobre quien
 
 Ruben ha empezado a usar una pequeña adición a sus evaluaciones que cambia algo significativo en su relación con sus capacidades.
 
-**El Principio del Todavia como Reencuadre del Fracaso en Proceso:** Dweck propone que la adición de la palabra todavia a las evaluaciones de capacidad es un reencuadre pequeño con efecto grande: no puedo hacer esto todavia convierte la limitación presente en un punto de partida de un proceso de aprendizaje, en lugar de una declaración sobre la capacidad permanente.
+**El Principio del Todavía como Reencuadre del Fracaso en Proceso:** Dweck propone que la adición de la palabra todavía a las evaluaciones de capacidad es un reencuadre pequeño con efecto grande: no puedo hacer esto todavía convierte la limitación presente en un punto de partida de un proceso de aprendizaje, en lugar de una declaración sobre la capacidad permanente.
 
-Este pequeño cambio lingüístico tiene soporte empirico: los estudiantes que utilizan el todavia muestran mayor persistencia y mayor rendimiento que los que utilizan evaluaciones absolutas. El todavia mantiene el marcó de tiempo abierto: hay un ahora-no-puedo y hay un futuro-donde-puedo-llegar-a.
+Este pequeño cambio lingüístico tiene soporte empirico: los estudiantes que utilizan el todavía muestran mayor persistencia y mayor rendimiento que los que utilizan evaluaciones absolutas. El todavía mantiene el marcó de tiempo abierto: hay un ahora-no-puedo y hay un futuro-donde-puedo-llegar-a.
 
-**Ejercicio inmediato:** Para las tres limitaciones actuales que más te preocupan, reformula cada una anadiendo todavia: no puedo hacer X todavia. Nota la diferencia emocional que produce la reformulación. Ese espacio emocional es donde el aprendizaje puede ocurrir.
+**Ejercicio inmediato:** Para las tres limitaciones actuales que más te preocupan, reformula cada una anadiendo todavía: no puedo hacer X todavía. Nota la diferencia emocional que produce la reformulación. Ese espacio emocional es donde el aprendizaje puede ocurrir.
 
-La diferencia entre no puedo y no puedo todavia es la diferencia entre una puerta cerrada y una puerta que todavia no has abierto.
+La diferencia entre no puedo y no puedo todavía es la diferencia entre una puerta cerrada y una puerta que todavía no has abierto.
 
 ---
 
@@ -93,11 +93,11 @@ La diferencia entre no puedo y no puedo todavia es la diferencia entre una puert
 
 Isabel ha empezado a aplicar el mindset de crecimiento en su trabajo y nota que cambia cómo se relaciona con los proyectos difíciles y con las evaluaciones de rendimiento.
 
-**El Principio del Mindset Organizacional como Multiplicador:** Dweck y colegas han investigado el mindset en contextos organizacionales y encontraron que las empresas con culturas de mindset de crecimiento (donde los errores se ven como oportunidades de aprendizaje, el desarrollo es posible para todos, y el proceso importa ademas del resultado) muestran mayor innovación, mayor compromiso de los empleados, y mayor capacidad de adaptación al cambio.
+**El Principio del Mindset Organizacional como Multiplicador:** Dweck y colegas han investigado el mindset en contextos organizacionales y encontraron que las empresas con culturas de mindset de crecimiento (donde los errores se ven como oportunidades de aprendizaje, el desarrollo es posible para todos, y el proceso importa además del resultado) muestran mayor innovación, mayor compromiso de los empleados, y mayor capacidad de adaptación al cambio.
 
 El efecto del líder es especialmente potente: los líderes con mindset de crecimiento crean entornos donde los empleados se sienten más seguros de asumir riesgos, admitir errores, y aprender, lo que produce mayor creatividad y mayor rendimiento a largo plazo.
 
-**Ejercicio inmediato:** En tu contexto de trabajo, reflexiona: ¿el ambiente que existe (creado por ti o por el equipo) apoya el aprendizaje y la experimentación o penaliza el error? Una acción concreta que podrías tomar para crear más espacio para el aprendizaje: dar retroalimentación sobre el proceso ademas del resultado, celebrar explicitamente un error que produjó un aprendizaje, o asumir públicamente un riesgo calculado.
+**Ejercicio inmediato:** En tu contexto de trabajo, reflexiona: ¿el ambiente que existe (creado por ti o por el equipo) apoya el aprendizaje y la experimentación o penaliza el error? Una acción concreta que podrías tomar para crear más espacio para el aprendizaje: dar retroalimentación sobre el proceso además del resultado, celebrar explicitamente un error que produjó un aprendizaje, o asumir públicamente un riesgo calculado.
 
 Una cultura que penaliza el error no produce menos errores. Produce menos aprendizaje.
 
@@ -111,9 +111,9 @@ Ruben había asumido que las personas con quienes tiene dificultades relacionale
 
 La investigación sobre el perdon de Enright y colegas muestra que el mindset de crecimiento sobre la capacidad de cambio de las personas se asocia con mayor disposición al perdon y mejores outcomes relacionales.
 
-**Ejercicio inmediato:** Para una persona en tu vida con quien tienes tensión cronica, reflexiona: ¿que creencias tienes sobre si esa persona puede cambiar? ¿Si la creencia es fija (es asi y no cambiara), que pasaria si la sustituyes por una de crecimiento (las personas cambian en las circunstancias correctas)? La segunda creencia no garantiza el cambio del otro pero si cambia como te relacionas con el.
+**Ejercicio inmediato:** Para una persona en tu vida con quien tienes tensión cronica, reflexiona: ¿que creencias tienes sobre si esa persona puede cambiar? ¿Si la creencia es fija (es así y no cambiara), que pasaria si la sustituyes por una de crecimiento (las personas cambian en las circunstancias correctas)? La segunda creencia no garantiza el cambio del otro pero si cambia como te relacionas con el.
 
-La persona que es asi y siempre será asi existe en tu mente. En la realidad, las personas cambian cuando el contexto cambia.
+La persona que es así y siempre será así existe en tu mente. En la realidad, las personas cambian cuando el contexto cambia.
 
 ---
 

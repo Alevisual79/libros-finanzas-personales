@@ -37,9 +37,9 @@ Comunicar interés romantico de forma que sea percibida positivamente requiere c
 
 **El Principio de la Calibración de Intensidad:** Expresar interés de forma efectiva requiere observar y responder a las señales de reciprocidad de la otra persona, aumentando gradualmente la intensidad de la comunicación (frecuencia de mensajes, expresiones directas de interés) a medida que se observa reciprocidad correspondiente, en lugar de mantener una intensidad fija independientemente de la respuesta del otro.
 
-**Ejercicio inmediato:** Si estas en proceso de cortejo con alguien, evalua si tu nivel de intensidad de comunicación esta calibrado segun la reciprocidad que observas, o si estas manteniendo una intensidad que podría sentirse desproporcionada respecto a la respuesta que recibes.
+**Ejercicio inmediato:** Si estas en proceso de cortejo con alguien, evalua si tu nivel de intensidad de comunicación esta calibrado según la reciprocidad que observas, o si estas manteniendo una intensidad que podría sentirse desproporcionada respecto a la respuesta que recibes.
 
-Expresar interés no es sobre maximizar la intensidad. Es sobre calibrarla segun la reciprocidad real que observas.
+Expresar interés no es sobre maximizar la intensidad. Es sobre calibrarla según la reciprocidad real que observas.
 
 ---
 
@@ -107,9 +107,9 @@ El tiempo de respuesta a un mensaje rara vez significa lo que tu ansiedad te dic
 
 Calibrar el momento apropiado para avanzar en la intensidad del cortejo (proponer un encuentro, expresar interés más explícito) requiere atención a las señales específicas de la situación, más que una regla universal de tiempo.
 
-**El Principio de la Calibración Situacional sobre la Regla Fija:** No existe un número fijo de dias o de mensajes que determine el momento correcto para avanzar en el cortejo. La calibración más efectiva observa las señales específicas de reciprocidad y comodidad de la otra persona, ajustando el ritmo segun esas señales en lugar de seguir una regla generica aplicada uniformemente a cualquier situación.
+**El Principio de la Calibración Situacional sobre la Regla Fija:** No existe un número fijo de dias o de mensajes que determine el momento correcto para avanzar en el cortejo. La calibración más efectiva observa las señales específicas de reciprocidad y comodidad de la otra persona, ajustando el ritmo según esas señales en lugar de seguir una regla generica aplicada uniformemente a cualquier situación.
 
-**Ejercicio inmediato:** Para tu situación actual de cortejo, en lugar de preguntarte cuanto tiempo debería esperar segun una regla generica, observa las señales específicas de reciprocidad que la otra persona está mostrando y calibra tu ritmo segun esa información real.
+**Ejercicio inmediato:** Para tu situación actual de cortejo, en lugar de preguntarte cuanto tiempo debería esperar según una regla generica, observa las señales específicas de reciprocidad que la otra persona está mostrando y calibra tu ritmo según esa información real.
 
 No existe un número magico de dias correctos para avanzar en el cortejo. Existe la información específica que la otra persona te está dando, si la observas con atención.
 
@@ -117,7 +117,7 @@ No existe un número magico de dias correctos para avanzar en el cortejo. Existe
 
 ## Capítulo 9: Recibir el cortejo del otro
 
-Ademas de cortejear activamente, recibir el cortejo de otra persona con apertura genuina, sin la necesidad de jugar a la indiferencia estratégica, es igualmente importante para que el proceso funcione bien para ambas partes.
+Además de cortejear activamente, recibir el cortejo de otra persona con apertura genuina, sin la necesidad de jugar a la indiferencia estratégica, es igualmente importante para que el proceso funcione bien para ambas partes.
 
 **El Principio de la Reciprocidad Honesta:** Recibir el cortejo de alguien con honestidad sobre el propio nivel de interés (sin fingir más indiferencia de la que realmente se siente, ni más entusiasmo del genuino) facilita que ambas partes calibren correctamente la situación, en lugar de generar la confusión que produce la actuación estratégica de indiferencia.
 

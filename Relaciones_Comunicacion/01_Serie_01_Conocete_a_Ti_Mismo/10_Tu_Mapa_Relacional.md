@@ -75,7 +75,7 @@ Hay personas que después de estar con ellas te sientes mejor de lo que estabas 
 
 **El Principio del Balance Energético Relacional:** No todas las relaciones nos afectan de la misma forma ni en la misma dirección. Algunas activan, inspiran, generan energía. Otras demandan, agotan, drenan. La mayoría de las relaciones hacen ambas cosas en distintos momentos. El problema surge cuando el saldo neto de una relación es sistemáticamente negativo: siempre drenan, nunca nutren.
 
-Esto no significa que las relaciones que nutren son las que nunca tienen problemas. Significa que, a lo largo del tiempo, la interacción con esa persona te deja con más recursos de los que tenías antes o, al menos, no te deja en deficit sistemático. Las relaciones de alta calidad pueden ser exigentes y aun asi nutrirse.
+Esto no significa que las relaciones que nutren son las que nunca tienen problemas. Significa que, a lo largo del tiempo, la interacción con esa persona te deja con más recursos de los que tenías antes o, al menos, no te deja en deficit sistemático. Las relaciones de alta calidad pueden ser exigentes y aun así nutrirse.
 
 **Ejercicio inmediato:** Repasa tu mapa relacional. Para cada persona del circulo intimo y cercano, anota si después de estar con ella te sientes generalmente con más energía o con menos. No un dia específico. El patron general. Ese mapa energético te dice algo importante sobre donde esta tu inversión relacional.
 
@@ -133,7 +133,7 @@ A veces las relaciones no terminan. Se quedan. Por costumbre, por culpa, por no 
 
 Robert Weiss estudio las terminaciones de relaciones de amistad y encontró que la mayoría de amistades no terminan con un conflicto explícito sino con un gradual alejamiento que ninguno de los dos aborda directamente. A veces eso es lo más honesto. Otras veces es una evitación que deja a ambos en una zona gris incomoda.
 
-**Ejercicio inmediato:** Identifica una relación en tu mapa que mantenes más por inercia o culpa que por elección real. No tienes que hacer nada todavia. Solo pregúntate: ¿si pudiera diseñar mi vida relacional desde cero, incluiria esta relación? La respuesta honesta a esa pregunta es información importante.
+**Ejercicio inmediato:** Identifica una relación en tu mapa que mantenes más por inercia o culpa que por elección real. No tienes que hacer nada todavía. Solo pregúntate: ¿si pudiera diseñar mi vida relacional desde cero, incluiria esta relación? La respuesta honesta a esa pregunta es información importante.
 
 Dejar ir una relación que ya no tiene sentido no es crueldad. Es honestidad hacía ti mismo y hacía el otro.
 

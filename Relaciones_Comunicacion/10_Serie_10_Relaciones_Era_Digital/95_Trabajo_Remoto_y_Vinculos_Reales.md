@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena lleva tres años trabajando en remoto. Ha colaborado con compañeros con quienes ha acumulado, segun su propio cálculo, más de ciento cincuenta horas de interacción laboral conjunta a lo largo de ese tiempo. Y, sin embargo, reconoce honestamente que no los conoce en absoluto, más allá de su función profesional específica. Las horas de colaboración, descubre, no se tradujeron automáticamente en conexión real.
+Elena lleva tres años trabajando en remoto. Ha colaborado con compañeros con quienes ha acumulado, según su propio cálculo, más de ciento cincuenta horas de interacción laboral conjunta a lo largo de ese tiempo. Y, sin embargo, reconoce honestamente que no los conoce en absoluto, más allá de su función profesional específica. Las horas de colaboración, descubre, no se tradujeron automáticamente en conexión real.
 
 ---
 
@@ -123,7 +123,7 @@ Los modelos de trabajo hibrido, que combinan presencia física parcial con traba
 
 **Ejercicio inmediato:** Si trabajas en un modelo hibrido, evalua si existe esta brecha de información o conexión entre quienes estan presentes físicamente y quienes trabajan remotamente, y considera que práctica podría nivelar ese acceso.
 
-El modelo hibrido, sin gestión deliberada, puede crear ciudadanos de primera y segunda clase dentro del mismo equipo, segun quien esta físicamente presente en cada momento.
+El modelo hibrido, sin gestión deliberada, puede crear ciudadanos de primera y segunda clase dentro del mismo equipo, según quien esta físicamente presente en cada momento.
 
 ---
 

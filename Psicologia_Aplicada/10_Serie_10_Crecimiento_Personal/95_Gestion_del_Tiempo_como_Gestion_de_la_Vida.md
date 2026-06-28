@@ -37,7 +37,7 @@ La semana que pasas sin haber decidido como usarla ya se ha ido. Y contaba.
 
 Ruben pasa la mayor parte de su tiempo respondiendo a urgencias y casi ningún tiempo en lo que el mismo considera importante.
 
-**El Principio de la Trampa de la Urgencia como el Mayor Ladrón del Tiempo Dedicado a lo que Realmente Importa:** Stephen Covey popularizó la matriz de Eisenhower: una herramienta que clasifica las tareas en cuatro cuadrantes segun su urgencia e importancia. El cuadrante 2 (importante pero no urgente: planificación, prevención, relaciones, aprendizaje) es el que produce mayor impacto a largo plazo pero que la mayoría de las personas sacrifica sistemáticamente para atender el cuadrante 1 (urgente e importante: crisis, emergencias) y especialmente el cuadrante 3 (urgente pero no importante: interrupciones, algunas reuniones, muchos emails).
+**El Principio de la Trampa de la Urgencia como el Mayor Ladrón del Tiempo Dedicado a lo que Realmente Importa:** Stephen Covey popularizó la matriz de Eisenhower: una herramienta que clasifica las tareas en cuatro cuadrantes según su urgencia e importancia. El cuadrante 2 (importante pero no urgente: planificación, prevención, relaciones, aprendizaje) es el que produce mayor impacto a largo plazo pero que la mayoría de las personas sacrifica sistemáticamente para atender el cuadrante 1 (urgente e importante: crisis, emergencias) y especialmente el cuadrante 3 (urgente pero no importante: interrupciones, algunas reuniones, muchos emails).
 
 La investigación de Gloria Mark en la Universidad de California Irvine sobre las interrupciones en el trabajo muestra que el trabajador del conocimiento promedio es interrumpido o cambia de tarea cada tres minutos y cuarenta segundos, y que necesita en promedio veintitrés minutos para recuperar el nivel de concentración previo a la interrupción. El coste real de las interrupciones es mucho mayor del que es visible.
 
@@ -153,7 +153,7 @@ Elena ha llegado a entender que gestionar el tiempo no es una cuestión de produ
 
 La investigación de Bronnie Ware sobre los arrepentimientos de las personas en sus últimas semanas de vida muestra que los arrepentimientos más comunes no son haber trabajado menos o haber tomado menos riesgos, sino no haber tenido el coraje de vivir la vida que querían (en lugar de la que otros esperaban) y no haber mantenido las amistades que más importaban.
 
-**Ejercicio inmediato:** Escribe durante diez minutos sobre la siguiente pregunta: ¿si dentro de veinte años pudiera mirar atras a la forma en que he vivido estos años, que sería lo que más lamentaria no haber hecho? ¿Que relaciones, que proyectos, que experiencias, que contribuciones? Esa respuesta es un mapa del uso del tiempo que te arrepentiras de no haber tenido. La pregunta del arrepentimiento anticipado es una de las herramientas de decisión más poderosas que existen.
+**Ejercicio inmediato:** Escribe durante diez minutos sobre la siguiente pregunta: ¿si dentro de veinte años pudiera mirar atrás a la forma en que he vivido estos años, que sería lo que más lamentaria no haber hecho? ¿Que relaciones, que proyectos, que experiencias, que contribuciones? Esa respuesta es un mapa del uso del tiempo que te arrepentiras de no haber tenido. La pregunta del arrepentimiento anticipado es una de las herramientas de decisión más poderosas que existen.
 
 La vida que quieres vivir no llega sola. La construyes decisión a decisión, hora a hora, dia a dia. O no la construyes.
 

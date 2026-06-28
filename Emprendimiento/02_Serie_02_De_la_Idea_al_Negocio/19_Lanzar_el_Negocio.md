@@ -29,7 +29,7 @@ La investigación de Andrew Chen sobre los patrones de crecimiento de empresas d
 
 **Ejercicio inmediato:** Para tu lanzamiento planificado, define el éxito en tres horizontes temporales: que constituiria éxito en el dia del lanzamiento (lo que es razonable esperar ese dia específico), en el primer mes (lo que indica que el lanzamiento ha generado tracción inicial), y en los primeros tres meses (lo que indica que el negocio está ganando momentum). Esa definición gradual del éxito previene la decepción del dia del lanzamiento que lleva a muchos emprendedores a declarar el fracaso prematuramente.
 
-El lanzamiento que no genera el ruido que esperabas no es necesariamente un fracaso. Es el comienzo de un proceso que todavia no ha terminado.
+El lanzamiento que no genera el ruido que esperabas no es necesariamente un fracaso. Es el comienzo de un proceso que todavía no ha terminado.
 
 ---
 
@@ -97,7 +97,7 @@ Lucia ha aprendido que la prensa no es tan efectiva para el lanzamiento de un ne
 
 La investigación de Brian Dean sobre el impacto de la prensa en el crecimiento de startups muestra que la prensa tiene mayor impacto en la credibilidad y el SEO (aparición en búsquedas) que en la conversión directa a clientes, y que su valor es mayor cuando el emprendedor ya tiene un producto probado y una propuesta de valor clara que cuando es un lanzamiento de novedad.
 
-**Ejercicio inmediato:** Si la prensa es parte de tu estrategia de lanzamiento, identifica exactamente que objetivo persigues con ella: credibilidad para facilitar ventas B2B (la prensa como carta de presentación), SEO (los artículos de prensa que linkan a tu web), o adquisición directa de clientes (la audiencia del medio es tu cliente objetivo). Si el objetivo es el tercero, evalua si el medio específico que estas considerando tiene realmente a tu cliente objetivo como lector regular. Si no es asi, el tiempo que inviertes en prensa podría producir más en canales donde tu cliente si esta presente.
+**Ejercicio inmediato:** Si la prensa es parte de tu estrategia de lanzamiento, identifica exactamente que objetivo persigues con ella: credibilidad para facilitar ventas B2B (la prensa como carta de presentación), SEO (los artículos de prensa que linkan a tu web), o adquisición directa de clientes (la audiencia del medio es tu cliente objetivo). Si el objetivo es el tercero, evalua si el medio específico que estas considerando tiene realmente a tu cliente objetivo como lector regular. Si no es así, el tiempo que inviertes en prensa podría producir más en canales donde tu cliente si esta presente.
 
 La prensa que no llega a tu cliente no es cobertura. Es solo ruido con logo de periodico.
 
@@ -161,7 +161,7 @@ La tracción que buscas no esta en el dia del lanzamiento. Esta en los meses de 
 
 ## Epílogo
 
-Carlos lanzo su negocio un martes por la mañana. No fue el lanzamiento masivo que había imaginado: público en LinkedIn, mando emails a cincuenta contactos, y abordo a tres potenciales clientes directamente. En el primer dia tuvo ciento veinte visitas a la web y cero clientes. En la primera semana, una llamada interesante pero sin cierre. En el segundo mes, sus primeros tres clientes pagantes. Nada de eso se parecio al lanzamiento que había imaginado. Pero a los seis meses, con doce clientes y revenue mensual recurrente, el lanzamiento había sido exactamente lo que necesitaba ser: el primer paso de un proceso que todavia no había terminado.
+Carlos lanzo su negocio un martes por la mañana. No fue el lanzamiento masivo que había imaginado: público en LinkedIn, mando emails a cincuenta contactos, y abordo a tres potenciales clientes directamente. En el primer dia tuvo ciento veinte visitas a la web y cero clientes. En la primera semana, una llamada interesante pero sin cierre. En el segundo mes, sus primeros tres clientes pagantes. Nada de eso se parecio al lanzamiento que había imaginado. Pero a los seis meses, con doce clientes y revenue mensual recurrente, el lanzamiento había sido exactamente lo que necesitaba ser: el primer paso de un proceso que todavía no había terminado.
 
 ---
 

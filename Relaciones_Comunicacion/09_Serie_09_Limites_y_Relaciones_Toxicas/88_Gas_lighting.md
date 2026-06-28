@@ -71,7 +71,7 @@ Dudar de tu propia percepción después de gaslighting sostenido no significa qu
 
 El gaslighting sostenido tiene impactos documentados en la salud mental que van más allá de la confusión momentanea, incluyendo ansiedad cronica, sintomas depresivos, y en casos severos, una crisis más generalizada de confianza en la propia capacidad cognitiva.
 
-**El Principio del Impacto psicológico Acumulativo:** La exposición sostenida al gaslighting genera, segun la investigación, niveles elevados de ansiedad relacionados con la incertidumbre constante sobre la propia percepción, sintomas depresivos relacionados con la erosión de la confianza en si mismo, y en casos de exposición prolongada y severa, una generalización de la duda hacía otros contextos de la vida más allá de la relación específica donde ocurre el gaslighting.
+**El Principio del Impacto psicológico Acumulativo:** La exposición sostenida al gaslighting genera, según la investigación, niveles elevados de ansiedad relacionados con la incertidumbre constante sobre la propia percepción, sintomas depresivos relacionados con la erosión de la confianza en si mismo, y en casos de exposición prolongada y severa, una generalización de la duda hacía otros contextos de la vida más allá de la relación específica donde ocurre el gaslighting.
 
 **Ejercicio inmediato:** Evalua honestamente el impacto que el gaslighting sostenido en tu relación ha tenido en tu salud mental general: tu nivel de ansiedad, tu estado de animo, tu confianza general en tus propias decisiones.
 

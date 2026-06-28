@@ -121,7 +121,7 @@ Las dinámicas de amistad toxica adquieren una complejidad adicional cuando ocur
 
 **El Principio de la Distinción entre Obligación y Calidad de Vínculo:** El hecho de que una relación sea familiar no la exime de los mismos criterios de evaluación que cualquier otra relación: si el patron es consistentemente toxico, merece la misma consideración de límites o distancia que se aplicaria a una amistad no familiar, aunque la ejecución práctica de esos límites pueda requerir mayor sensibilidad debido a la permanencia estructural del vinculó familiar.
 
-**Ejercicio inmediato:** Si tienes una relación familiar con dinámicas toxicas similares a las descritas en este libro, aplica los mismos criterios de evaluación (efecto consistente en tu bienestar) que aplicarias a una amistad, ajustando la estrategia de gestión segun las particularidades de mantener un vinculó familiar.
+**Ejercicio inmediato:** Si tienes una relación familiar con dinámicas toxicas similares a las descritas en este libro, aplica los mismos criterios de evaluación (efecto consistente en tu bienestar) que aplicarias a una amistad, ajustando la estrategia de gestión según las particularidades de mantener un vinculó familiar.
 
 Una relación familiar toxica sigue siendo toxica, aunque la sangre compartida haga más complicado establecer distancia.
 
@@ -131,7 +131,7 @@ Una relación familiar toxica sigue siendo toxica, aunque la sangre compartida h
 
 El proceso de evaluar y, cuando sea necesario, alejarse de amistades que ya no aportan bienestar genera frecuentemente culpa, especialmente cuando se trata de relaciones de larga duración, pero esa culpa no debería impedir la decisión necesaria.
 
-**El Principio de la Limpieza Relacional como Autocuidado:** Evaluar periodicamente las amistades de la propia vida y ajustar la inversión en cada una segun su efecto real en el bienestar propio no es egoismo ni traición. Es una forma de autocuidado tan legitima como cuidar la alimentación o el descanso. La culpa que frecuentemente acompaña este proceso suele provenir de la creencia cultural de que las amistades, una vez formadas, deben mantenerse indefinidamente independientemente de su calidad actual.
+**El Principio de la Limpieza Relacional como Autocuidado:** Evaluar periodicamente las amistades de la propia vida y ajustar la inversión en cada una según su efecto real en el bienestar propio no es egoismo ni traición. Es una forma de autocuidado tan legitima como cuidar la alimentación o el descanso. La culpa que frecuentemente acompaña este proceso suele provenir de la creencia cultural de que las amistades, una vez formadas, deben mantenerse indefinidamente independientemente de su calidad actual.
 
 **Ejercicio inmediato:** Si sientes culpa por considerar alejarte de una amistad de larga duración que ya no te aporta bienestar, recuerda que la antiguedad de una relación no la convierte automáticamente en una relación que merece mantenerse a cualquier costo.
 

@@ -27,7 +27,7 @@ El mundo ha cambiado. La metodología de negocios que funcionaba en un mundo est
 
 La investigación de Steve Blank sobre el fracaso de startups en Silicon Valley mostró que la causa principal no era la falta de ejecución sino la ejecución perfecta de un plan basado en suposiciones incorrectas. El Lean Startup propone probar las suposiciones antes de ejecutar el plan.
 
-**Ejercicio inmediato:** Identifica las tres suposiciones más importantes de tu negocio que todavia no han sido probadas con el mercado real: la suposición sobre quien es tu cliente (que persona específica con que características específicas tiene el problema), la suposición sobre el problema (que tan urgente y frecuente es), y la suposición sobre la solución (que tu propuesta es la que prefieren). Para cada una, reflexiona: ¿como podría probarla o refutarla en menos de dos semanas?
+**Ejercicio inmediato:** Identifica las tres suposiciones más importantes de tu negocio que todavía no han sido probadas con el mercado real: la suposición sobre quien es tu cliente (que persona específica con que características específicas tiene el problema), la suposición sobre el problema (que tan urgente y frecuente es), y la suposición sobre la solución (que tu propuesta es la que prefieren). Para cada una, reflexiona: ¿como podría probarla o refutarla en menos de dos semanas?
 
 El plan basado en suposiciones no probadas es un castillo construido sobre arena que el primer cliente real puede derribar.
 
@@ -39,7 +39,7 @@ Carlos ha interiorizado el ciclo construir-medir-aprender cómo la estructura qu
 
 **El Principio del Ciclo Construir-Medir-Aprender como el Motor del Lean Startup que Convierte las Hipótesis en Aprendizaje Validado a Traves de la Iteración rápida:** El ciclo propuesto por Ries funciona en tres fases: construir el MVP (la versión mínima que permite probar la hipótesis), medir el comportamiento real del cliente (con metricas de comportamiento, no de opinión), y aprender si la hipótesis era correcta y que ajuste es necesario. La velocidad de cada ciclo (de la idea al aprendizaje) es el indicador más importante de la capacidad de adaptación del emprendedor.
 
-La investigación de Frank Robinson (creador del concepto SLC, Simple Lovable Complete) muestra que las mejores primeras versiones de un producto no son las más mínimas (que frecuentemente son demasiado basicas para generar retroalimentación útil) sino las más simples que todavia generan una experiencia que el usuario puede amar aunque le falten funcionalidades: lo suficientemente completa para ser útil, lo suficientemente simple para construirse rápido.
+La investigación de Frank Robinson (creador del concepto SLC, Simple Lovable Complete) muestra que las mejores primeras versiones de un producto no son las más mínimas (que frecuentemente son demasiado basicas para generar retroalimentación útil) sino las más simples que todavía generan una experiencia que el usuario puede amar aunque le falten funcionalidades: lo suficientemente completa para ser útil, lo suficientemente simple para construirse rápido.
 
 **Ejercicio inmediato:** Para tu próximo ciclo de aprendizaje (puede ser sobre el producto, el marketing, o el precio), define explicitamente antes de empezar: que construiras (el MVP o el experimento), que metrica mediras (la conducta específica del cliente que indicara si la hipótesis es correcta), y que nivel de esa metrica consideraras como confirmación de la hipótesis vs. refutación. Definir el criterio antes del experimento previene el sesgo de confirmación que lleva a interpretar resultados ambiguos siempre como confirmación.
 
@@ -85,7 +85,7 @@ La investigación de Pivots and Business Model Innovation de los fundadores de Y
 
 **Ejercicio inmediato:** Para tu negocio actual, reflexiona: ¿hay señales en el comportamiento de tus clientes o en los datos de uso que sugieren que el mercado quiere algo diferente de lo que tu estas ofreciendo? Frecuentemente los clientes usan el producto de forma diferente a como fue diseñado, o un subconjunto específico de clientes tiene un uso que genera valor desproporcionado. Esas señales son candidatos a pivots que el mercado está sugiriendo aunque nadie lo haya articulado explicitamente.
 
-El pivot que el mercado te está sugiriendo y que todavia no has hecho es la oportunidad que todavia no has visto.
+El pivot que el mercado te está sugiriendo y que todavía no has hecho es la oportunidad que todavía no has visto.
 
 ---
 
@@ -109,7 +109,7 @@ Marcos ha aprendido que las metricas que usaba para medir el progreso en su trab
 
 **El Principio de la Innovation Accounting como el Marco para Medir el Progreso de un Negocio en Fase de Búsqueda de Modelo donde las Metricas Tradicionales No Aplican:** Ries propone el innovation accounting como alternativa a los indicadores de rendimiento tradicionales para empresas en fases de exploración: en lugar de medir los resultados del negocio (revenue, beneficio, cuota de mercado), mide el progreso del aprendizaje (cuantas hipótesis se han probado, cuantas han sido validadas, cuanta certeza sobre el modelo de negocio se ha ganado).
 
-La distinción que propone Ries es entre las metricas de output (lo que el negocio produce) y las metricas de aprendizaje (cuanto se sabe sobre si el modelo de negocio funciona). En fases tempranas, las metricas de aprendizaje son más útiles para tomar decisiones de inversión porque indican si el negocio está avanzando hacía un modelo viable aunque los resultados financieros todavia sean bajos.
+La distinción que propone Ries es entre las metricas de output (lo que el negocio produce) y las metricas de aprendizaje (cuanto se sabe sobre si el modelo de negocio funciona). En fases tempranas, las metricas de aprendizaje son más útiles para tomar decisiones de inversión porque indican si el negocio está avanzando hacía un modelo viable aunque los resultados financieros todavía sean bajos.
 
 **Ejercicio inmediato:** Define tres metricas de aprendizaje para tu negocio en este momento: hipótesis sobre el cliente validadas (cuantas suposiciones sobre quien es tu cliente y que necesita has confirmado con evidencia de comportamiento), hipótesis sobre la solución validadas (cuantas suposiciones sobre como resuelves el problema han sido confirmadas por uso real), y hipótesis sobre el modelo de negocio validadas (cuantas suposiciones sobre como ganas dinero han sido confirmadas por pagos reales). Esas tres metricas te dicen más sobre el progreso real del negocio en fase temprana que cualquier proyección financiera.
 
@@ -123,7 +123,7 @@ Carlos ha aprendido que el Lean Startup no es solo para startups tecnologicas: s
 
 **El Principio de la Metodología Lean Startup como Aplicable a Cualquier Nuevo Negocio en Condiciones de Incertidumbre Independientemente del Sector o la Tecnologia:** Eric Ries ha documentado aplicaciones del Lean Startup en sectores tan diversos cómo la sanidad, la educación, el gobierno, la manufactura, y los servicios profesionales. La esencia de la metodología (probar hipótesis con el menor coste posible antes de comprometer recursos significativos) es independiente del sector.
 
-Ash Maurya, en Running Lean, adapta el framework para negocios de servicios y productos físicos: el concierge MVP (prestar el servicio manualmente antes de automatizarlo), el wizard of oz MVP (simular la tecnología que todavia no existe), y el smoke test (vender el producto antes de tenerlo) son técnicas aplicables independientemente del tipo de negocio.
+Ash Maurya, en Running Lean, adapta el framework para negocios de servicios y productos físicos: el concierge MVP (prestar el servicio manualmente antes de automatizarlo), el wizard of oz MVP (simular la tecnología que todavía no existe), y el smoke test (vender el producto antes de tenerlo) son técnicas aplicables independientemente del tipo de negocio.
 
 **Ejercicio inmediato:** Para tu negocio (independientemente de si es digital o físico), identifica como podrías probar la hipótesis principal en modo concierge o manual antes de invertir en automatización o tecnología. Una agencia de marketing puede probar su servicio premium con un cliente piloto antes de contratar un equipo. Un restaurante puede probar sus recetas con cenas privadas antes de abrir el local. Un software puede probarse con un servicio manual que simula lo que el software haría. ¿Cuanto tiempo y dinero podrías ahorrar probando primero de forma manual?
 

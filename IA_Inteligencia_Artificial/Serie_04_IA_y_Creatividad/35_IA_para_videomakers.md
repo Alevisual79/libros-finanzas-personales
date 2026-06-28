@@ -76,7 +76,7 @@ La IA aporta:
 
 ## Capítulo 5: El impacto en los profesionales creativos
 
-Los profesionales creativos experimentan este cambio de formas muy distintas segun su posición:
+Los profesionales creativos experimentan este cambio de formas muy distintas según su posición:
 
 **Los que lo adoptan como herramienta:** Lo usan para aumentar su producción y explorar posibilidades que antes no podían. Mayor velocidad, más variantes, menos bloqueos.
 

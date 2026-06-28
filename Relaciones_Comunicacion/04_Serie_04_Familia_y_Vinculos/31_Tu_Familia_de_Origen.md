@@ -39,7 +39,7 @@ No elegiste tu primer mapa relacional. Pero puedes elegir si lo sigues usando.
 
 Cada familia tiene guiones no escritos sobre como deben comportarse sus miembros, que se siente que es aceptable expresar, y que papeles corresponde a cada uno desempeñar.
 
-**El Principio del Guion Invisible:** Los guiones familiares (las cosas que se dicen siempre, los temas que nunca se tocan, las expectativas implícitas sobre éxito, sobre genero, sobre obediencia) operan cómo un sistema operativo invisible que dirige el comportamiento de los miembros de la familia sin que necesiten ser explicitados. Una persona puede pasar décadas operando segun un guion familiar que nunca ha sido nombrado conscientemente, simplemente porque siempre ha sido asi.
+**El Principio del Guion Invisible:** Los guiones familiares (las cosas que se dicen siempre, los temas que nunca se tocan, las expectativas implícitas sobre éxito, sobre genero, sobre obediencia) operan cómo un sistema operativo invisible que dirige el comportamiento de los miembros de la familia sin que necesiten ser explicitados. Una persona puede pasar décadas operando según un guion familiar que nunca ha sido nombrado conscientemente, simplemente porque siempre ha sido así.
 
 **Ejercicio inmediato:** Completa esta frase tal cómo la habrías escuchado en tu infancia: en mi familia, lo que siempre se decía sobre el éxito o el dinero o las emociones era... Esa frase es un fragmento de tu guion familiar.
 
@@ -99,7 +99,7 @@ Lo que tus abuelos no procesaron, tus padres heredaron sin saberlo. Y tu tambié
 
 La conciencia de un patron familiar no garantiza automáticamente su cambio. Romper un patron requiere trabajo activo, no solo comprensión intelectual.
 
-**El Principio del Cambio como práctica Repetida:** Entender un patron familiar es el primer paso necesario pero insuficiente para cambiarlo. El cambio real requiere practicar repetidamente la respuesta alternativa en los momentos en que el patron antiguo se activa, generalmente con apoyo (terapia, pareja consciente, comunidad) que ayude a sostener el esfuerzo durante el período en que la respuesta nueva todavia no es automática.
+**El Principio del Cambio como práctica Repetida:** Entender un patron familiar es el primer paso necesario pero insuficiente para cambiarlo. El cambio real requiere practicar repetidamente la respuesta alternativa en los momentos en que el patron antiguo se activa, generalmente con apoyo (terapia, pareja consciente, comunidad) que ayude a sostener el esfuerzo durante el período en que la respuesta nueva todavía no es automática.
 
 **Ejercicio inmediato:** Identifica un patron específico de tu familia de origen que quieras cambiar. Define la respuesta alternativa concreta que practicaras la próxima vez que la situación que activa ese patron ocurra.
 

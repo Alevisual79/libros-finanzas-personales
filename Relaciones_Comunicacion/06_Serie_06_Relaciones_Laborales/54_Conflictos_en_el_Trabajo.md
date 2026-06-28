@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena evita los conflictos en el trabajo hasta que explotan. Cuando explotan, deja el trabajo. Lleva tres trabajos en seis años, cada uno terminado por un conflicto que, en retrospectiva, podría haberse gestionado meses antes de llegar al punto de ruptura, si Elena hubiera tenido las herramientas para abordarlo cuando todavia era pequeño y manejable.
+Elena evita los conflictos en el trabajo hasta que explotan. Cuando explotan, deja el trabajo. Lleva tres trabajos en seis años, cada uno terminado por un conflicto que, en retrospectiva, podría haberse gestionado meses antes de llegar al punto de ruptura, si Elena hubiera tenido las herramientas para abordarlo cuando todavía era pequeño y manejable.
 
 ---
 

@@ -69,7 +69,7 @@ Isabel es perfeccionista. Sus estandares son altos y la distancia entre lo que p
 
 El perfeccionismo, propone Brene Brown, es la armadura que la persona usa para protegerse de la crítica: si soy suficientemente perfecta, nadie tendrá nada que criticar, no habrá fracaso visible, no habrá verguenza. El problema es que esa armadura también impide la conexión genuina, el riesgo necesario para el crecimiento, y la autenticidad de ser imperfecto con los demás.
 
-**Ejercicio inmediato:** Identifica un proyecto actual que has pospuesto por no estar suficientemente preparado o porque el resultado todavia no es suficientemente bueno. Establece un criterio de suficientemente bueno específico (no perfecto): cuando alcance ese criterio, lo consideraras completo. La brecha entre ese criterio y perfecto es la zona de paralisis que el perfeccionismo crea.
+**Ejercicio inmediato:** Identifica un proyecto actual que has pospuesto por no estar suficientemente preparado o porque el resultado todavía no es suficientemente bueno. Establece un criterio de suficientemente bueno específico (no perfecto): cuando alcance ese criterio, lo consideraras completo. La brecha entre ese criterio y perfecto es la zona de paralisis que el perfeccionismo crea.
 
 El perfeccionismo no produce excelencia. Produce retrasos, ansiedad y ocasionalmente, nunca terminar.
 
@@ -77,7 +77,7 @@ El perfeccionismo no produce excelencia. Produce retrasos, ansiedad y ocasionalm
 
 ## Capítulo 5: Reencuadrar el fracaso: de amenaza a información
 
-Ruben tiene como referente a varios emprendedores que cita regularmente como modelos de fracaso bien manejado: personas que fallaron multiples veces antes de tener éxito. Lo que todavia no ha interiorizado es que esa relación con el fracaso no es algo que esas personas tuvieron desde el principio. Es algo que construyeron, probablemente de forma difícil.
+Ruben tiene como referente a varios emprendedores que cita regularmente como modelos de fracaso bien manejado: personas que fallaron multiples veces antes de tener éxito. Lo que todavía no ha interiorizado es que esa relación con el fracaso no es algo que esas personas tuvieron desde el principio. Es algo que construyeron, probablemente de forma difícil.
 
 **El Principio del Fracaso como Dato del Sistema:** Amy Edmondson, investigadora de la seguridad psicológica de Harvard, distingue entre tres tipos de fracasos: los fracasos prevenibles (que resultan de no seguir procesos conocidos), los fracasos complejos (que resultan de la interacción de multiples variables en sistemas complejos), y los fracasos inteligentes (que resultan de experimentos deliberados en territorios nuevos donde el resultado era genuinamente incierto). Solo los primeros son inequivocamente negativos. Los segundos son fuente de aprendizaje sobre la complejidad del sistema. Los terceros son el motor de la innovación y el progreso.
 
@@ -95,7 +95,7 @@ Elena se trata a si misma de forma que nunca trataria a un amigo que hubiera com
 
 **El Principio de la Autocompasión como Red de Seguridad para el Riesgo:** Kristin Neff, investigadora de la autocompasión de la Universidad de Texas, documenta que la autocompasión (tratarse con la misma amabilidad que tratarias a un amigo cercano ante el mismo fracaso) no produce complacencia ni reducción del estandar. Produce exactamente el efecto contrario: mayor disposición a intentar cosas nuevas, mayor resiliencia ante el fracaso, y mejor rendimiento a largo plazo, porque reduce el coste emocional del fracaso al nivel de información manejable en lugar de catastrofe identitaria.
 
-La autocompasión se compone de tres elementos segun Neff: la amabilidad hacía uno mismo (en lugar de la autocritica), la humanidad común (reconocer que fracasar es parte de la experiencia humana compartida, no una anomalia personal), y la conciencia plena del sufrimiento sin magnificarlo ni ignorarlo. Esta combinación produce una respuesta al fracaso que es simultáneamente honesta sobre el resultado y protectora del yo.
+La autocompasión se compone de tres elementos según Neff: la amabilidad hacía uno mismo (en lugar de la autocritica), la humanidad común (reconocer que fracasar es parte de la experiencia humana compartida, no una anomalia personal), y la conciencia plena del sufrimiento sin magnificarlo ni ignorarlo. Esta combinación produce una respuesta al fracaso que es simultáneamente honesta sobre el resultado y protectora del yo.
 
 **Ejercicio inmediato:** Escribe una carta de apoyo a ti mismo sobre un fracaso reciente, como si la escribieras a un amigo cercano que hubiera pasado por lo mismo. La misma comprensión, el mismo reconocimiento del dolor sin magnificarlo, las mismas palabras de animo que usarias para el. Compara esa carta con la voz crítica interna que realmente tuviste. La diferencia es la autocompasión que te niegas.
 

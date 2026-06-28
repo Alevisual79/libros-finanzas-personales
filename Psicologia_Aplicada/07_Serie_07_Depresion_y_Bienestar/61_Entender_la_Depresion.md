@@ -107,9 +107,9 @@ Cuando la vida pierde color no es que la vida haya cambiado. Es que el sistema q
 
 Elena nota que no puede pensar con claridad. No sabe si es estrés o algo más.
 
-**El Principio de la Depresión como Trastorno Cognitivo ademas de Emocional:** La investigación de Aaron Beck sobre la cognición en la depresión identifica la triada cognitiva: pensamientos negativos sobre uno mismo (soy inadecuado), sobre el mundo (las circunstancias me son adversas), y sobre el futuro (el sufrimiento continuara). Estos sesgos cognitivos no son solo consecuencias de la depresión sino que la mantienen activamente.
+**El Principio de la Depresión como Trastorno Cognitivo además de Emocional:** La investigación de Aaron Beck sobre la cognición en la depresión identifica la triada cognitiva: pensamientos negativos sobre uno mismo (soy inadecuado), sobre el mundo (las circunstancias me son adversas), y sobre el futuro (el sufrimiento continuara). Estos sesgos cognitivos no son solo consecuencias de la depresión sino que la mantienen activamente.
 
-Ademas de los sesgos cognitivos, la depresión produce deterioro cognitivo medible: las personas con depresión muestran dificultades en la atención, la memoria de trabajo, la velocidad de procesamiento, y las funciones ejecutivas. Este deterioro cognitivo es una de las razones por las que el rendimiento laboral y académico disminuye en la depresión, y es reversible con el tratamiento.
+Además de los sesgos cognitivos, la depresión produce deterioro cognitivo medible: las personas con depresión muestran dificultades en la atención, la memoria de trabajo, la velocidad de procesamiento, y las funciones ejecutivas. Este deterioro cognitivo es una de las razones por las que el rendimiento laboral y académico disminuye en la depresión, y es reversible con el tratamiento.
 
 **Ejercicio inmediato:** Monitorea por una semana la frecuencia de pensamientos negativos sobre ti mismo (soy inutil, no sirvo para nada, nunca cambiara). No para analizarlos sino para cuantificarlos: ¿cuantos de estos pensamientos tienes en un dia típico? La frecuencia alta de estos pensamientos en ausencia de evidencia real que los justifique es un marcador cognitivo de la depresión.
 
@@ -123,7 +123,7 @@ Ruben se ha alejado de todos mientras atravesaba su episodio depresivo. Y ese ai
 
 **El Principio de la Retirada Social como Factor de Mantenimiento de la Depresión:** La depresión produce retirada social (la persona se aísla, reduce el contacto, evita las actividades sociales) y al mismo tiempo la retirada social mantiene y profundiza la depresión (las relaciones sociales son uno de los factores protectores más robustos de la salud mental). Este ciclo se retroalimenta: la depresión produce aislamiento, el aislamiento profundiza la depresión.
 
-James Coyne propone ademas que la depresión afecta las relaciones de forma que puede alienar el apoyo que más se necesita: la persona depresiva busca reaseguramiento pero al mismo tiempo expresa pesimismo que genera en los otros frustación y retirada. Entender este patron no para culpar a nadie sino para trabajar deliberadamente contra el.
+James Coyne propone además que la depresión afecta las relaciones de forma que puede alienar el apoyo que más se necesita: la persona depresiva busca reaseguramiento pero al mismo tiempo expresa pesimismo que genera en los otros frustación y retirada. Entender este patron no para culpar a nadie sino para trabajar deliberadamente contra el.
 
 **Ejercicio inmediato:** Si estas en un período de retirada social, elige una interacción social pequeña para esta semana: un mensaje a alguien de confianza, una llamada breve, una actividad social corta. No tienes que explicar como te sientes. Solo mantener el contacto. Las relaciones que se abandonan durante la depresión son más difíciles de recuperar después.
 

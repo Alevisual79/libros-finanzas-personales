@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel tiene cincuenta y dos años, ha leido los libros correctos, sabe la teoria, y aun asi a veces se pregunta si el bienestar emocional es algo que genuinamente tiene o solo una idea que conoce bien. Esta pregunta honesta es mejor punto de partida que la certeza de quien cree haberlo conseguido. El bienestar emocional no es un estado que se alcanza y se mantiene automáticamente. Es una práctica que requiere atención continua, ajuste regular, y la voluntad de seguir trabajando en ello incluso cuando el trabajo parece haberse hecho. Este último libro de la serie propone una visión del bienestar emocional como práctica de por vida.
+Isabel tiene cincuenta y dos años, ha leido los libros correctos, sabe la teoria, y aun así a veces se pregunta si el bienestar emocional es algo que genuinamente tiene o solo una idea que conoce bien. Esta pregunta honesta es mejor punto de partida que la certeza de quien cree haberlo conseguido. El bienestar emocional no es un estado que se alcanza y se mantiene automáticamente. Es una práctica que requiere atención continua, ajuste regular, y la voluntad de seguir trabajando en ello incluso cuando el trabajo parece haberse hecho. Este último libro de la serie propone una visión del bienestar emocional como práctica de por vida.
 
 ---
 

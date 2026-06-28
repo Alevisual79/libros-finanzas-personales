@@ -109,7 +109,7 @@ Ruben hace ejercicio, pero desde una motivación fundamentalmente punitiva: quem
 
 **El Principio de la Motivación del Ejercicio como Determinante de su Efecto sobre la Imagen Corporal:** Nita Mary McKinley, investigadora de la imagen corporal y el ejercicio, documenta que la relación entre ejercicio e imagen corporal depende fundamentalmente de la motivación con la que se hace. El ejercicio motivado por la apariencia (cambiar cómo se ve el cuerpo) se asocia con mayor objetificación del cuerpo, mayor insatisfacción corporal a largo plazo, y mayor riesgo de abandono cuando los resultados esteticos no son los esperados. El ejercicio motivado por la función (por lo que el cuerpo puede hacer, por como hace sentir, por la salud) se asocia con mejor imagen corporal, mayor apreciación del cuerpo, y mayor adherencia a largo plazo.
 
-Esta distinción de motivación es crucial para el bienestar: dos personas que hacen exactamente el mismo ejercicio pueden tener efectos completamente diferentes en su imagen corporal segun la historia que se cuentan sobre por qué lo hacen.
+Esta distinción de motivación es crucial para el bienestar: dos personas que hacen exactamente el mismo ejercicio pueden tener efectos completamente diferentes en su imagen corporal según la historia que se cuentan sobre por qué lo hacen.
 
 **Ejercicio inmediato:** Cuando hagas ejercicio esta semana, nota la motivación que acompaña el esfuerzo: ¿estas castigando el cuerpo por lo que comiste, intentando compensar el cuerpo que tienes, o estas celebrando lo que el cuerpo puede hacer? La segunda motivación puede ser suficientemente reconfortante para que el ejercicio sea sostenible a largo plazo. La primera frecuentemente no lo es.
 

@@ -73,11 +73,11 @@ El resentimiento silencioso por contribuciones desiguales en el cuidado de los p
 
 A medida que los padres mayores pierden capacidad de tomar decisiones médicas autonomas, los hijos enfrentan la difícil responsabilidad de tomar decisiones en su nombre, a menudo sin tener claridad completa sobre lo que el padre habría querido.
 
-**El Principio de la Decisión Sustituta Informada:** Las decisiones médicas tomadas en nombre de un padre que ya no puede decidir por si mismo se gestionan mejor cuando se basan en conversaciones previas sobre los valores y preferencias del padre (idealmente documentadas con anticipación), en lugar de en lo que el hijo cree que sería mejor segun su propio criterio. Cuando esas conversaciones previas no existieron, la decisión se vuelve significativamente más difícil y genera más carga emocional para quien la toma.
+**El Principio de la Decisión Sustituta Informada:** Las decisiones médicas tomadas en nombre de un padre que ya no puede decidir por si mismo se gestionan mejor cuando se basan en conversaciones previas sobre los valores y preferencias del padre (idealmente documentadas con anticipación), en lugar de en lo que el hijo cree que sería mejor según su propio criterio. Cuando esas conversaciones previas no existieron, la decisión se vuelve significativamente más difícil y genera más carga emocional para quien la toma.
 
-**Ejercicio inmediato:** Si tus padres aun tienen capacidad de decisión, ten una conversación proactiva sobre sus valores y preferencias respecto a cuidados médicos futuros, documentando sus deseos mientras todavia pueden expresarlos claramente.
+**Ejercicio inmediato:** Si tus padres aun tienen capacidad de decisión, ten una conversación proactiva sobre sus valores y preferencias respecto a cuidados médicos futuros, documentando sus deseos mientras todavía pueden expresarlos claramente.
 
-La mejor preparación para las decisiones médicas difíciles del futuro es la conversación honesta que se tiene hoy, mientras todavia es posible tenerla.
+La mejor preparación para las decisiones médicas difíciles del futuro es la conversación honesta que se tiene hoy, mientras todavía es posible tenerla.
 
 ---
 
@@ -109,7 +109,7 @@ Comunicarte bien con un padre con deterioro cognitivo requiere encontrarlo donde
 
 El duelo anticipado, la experiencia de duelo por la perdida gradual de un padre que aun esta vivo pero ha cambiado significativamente, es una experiencia emocional compleja y poco reconocida socialmente.
 
-**El Principio del Duelo de la Persona que Era:** Los cuidadores de padres con deterioro cognitivo o enfermedades terminales frecuentemente experimentan un duelo doble: el duelo anticipado por la persona que su padre era antes del deterioro, y eventualmente el duelo por la muerte real. Este duelo anticipado es real y valido, aunque socialmente puede ser difícil de expresar porque la persona todavia esta físicamente presente.
+**El Principio del Duelo de la Persona que Era:** Los cuidadores de padres con deterioro cognitivo o enfermedades terminales frecuentemente experimentan un duelo doble: el duelo anticipado por la persona que su padre era antes del deterioro, y eventualmente el duelo por la muerte real. Este duelo anticipado es real y valido, aunque socialmente puede ser difícil de expresar porque la persona todavía esta físicamente presente.
 
 **Ejercicio inmediato:** Si experimentas duelo anticipado por un padre con deterioro significativo, permite que ese duelo sea reconocido como real, buscando espacios (terapia, grupos de apoyo para cuidadores) donde pueda expresarse sin la incomodidad social de estar de duelo por alguien que aun vive.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben tiene amigos que se preguntan por qué siempre interpreta los eventos de la peor forma posible. Una reunión silenciosa se convierte en estoy siendo evaluado negativamente. Un mensaje sin respuesta se convierte en ya no le importo. Una crítica se convierte en soy un fracasado. Lo interesante es que Ruben sabe intelectualmente que probablemente no sea asi. Pero el pensamiento aparece de todas formas y produce las mismas emociones que si fuera verdad. Estas son las distorsiones cognitivas: patrones sistemáticos de pensamiento que sesgan la interpretación de la realidad en direcciones predecibles. Este libro es para aprender a reconocerlos y a interrumpirlos antes de que produzcan el daño emocional habitual.
+Ruben tiene amigos que se preguntan por qué siempre interpreta los eventos de la peor forma posible. Una reunión silenciosa se convierte en estoy siendo evaluado negativamente. Un mensaje sin respuesta se convierte en ya no le importo. Una crítica se convierte en soy un fracasado. Lo interesante es que Ruben sabe intelectualmente que probablemente no sea así. Pero el pensamiento aparece de todas formas y produce las mismas emociones que si fuera verdad. Estas son las distorsiones cognitivas: patrones sistemáticos de pensamiento que sesgan la interpretación de la realidad en direcciones predecibles. Este libro es para aprender a reconocerlos y a interrumpirlos antes de que produzcan el daño emocional habitual.
 
 ---
 
@@ -121,7 +121,7 @@ El debería que no reconoces como preferencia vestida de obligación te tyranniz
 
 Ruben tiene dos creencias que le producen sufrimiento regular: que es responsable de controlar lo que no puede controlar, y que el mundo debería funcionar con mayor justicia de la que muestra.
 
-**El Principio de las Falacias como Expectativas No Fundadas sobre la Realidad:** Burns identifica la falacia del control externo (creer que fuerzas externas controlan lo que uno hace, produciendo impotencia) y el control interno (creer que se es responsable de todo lo que ocurre a su alrededor, produciendo agotamiento), asi cómo la falacia de la justicia (creer que el mundo debería ser justo y estar constantemente frustrado cuando no lo es).
+**El Principio de las Falacias como Expectativas No Fundadas sobre la Realidad:** Burns identifica la falacia del control externo (creer que fuerzas externas controlan lo que uno hace, produciendo impotencia) y el control interno (creer que se es responsable de todo lo que ocurre a su alrededor, produciendo agotamiento), así cómo la falacia de la justicia (creer que el mundo debería ser justo y estar constantemente frustrado cuando no lo es).
 
 La investigación sobre el locus de control de Julian Rotter muestra que las personas con locus de control interno excesivo (creen que controlan todo) y las que tienen locus externo excesivo (creen que nada depende de ellas) tienen peor bienestar que las que tienen un locus de control calibrado a la realidad.
 

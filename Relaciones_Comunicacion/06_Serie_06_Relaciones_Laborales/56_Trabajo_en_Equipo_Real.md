@@ -35,9 +35,9 @@ Un equipo de estrellas sin relaciones sólidas pierde, consistentemente, contra 
 
 Patrick Lencioni identifica cinco disfunciones interrelacionadas que, en cascada, explican por qué la mayoría de los equipos no alcanzan su potencial, comenzando con la ausencia de confianza como raiz de todas las demás.
 
-**El Principio de la Cascada de Disfunciones:** Segun el modelo de Lencioni, la ausencia de confianza (no mostrar vulnerabilidad) lleva al miedo al conflicto (evitar el desacuerdo necesario), lo cual lleva a la falta de compromiso (decisiones ambiguas sin compromiso genuino), lo cual lleva a la evitación de la responsabilidad (no exigirse mutuamente cuentas), lo cual finalmente lleva a la falta de atención a los resultados colectivos (priorizar el ego individual sobre el éxito del equipo).
+**El Principio de la Cascada de Disfunciones:** Según el modelo de Lencioni, la ausencia de confianza (no mostrar vulnerabilidad) lleva al miedo al conflicto (evitar el desacuerdo necesario), lo cual lleva a la falta de compromiso (decisiones ambiguas sin compromiso genuino), lo cual lleva a la evitación de la responsabilidad (no exigirse mutuamente cuentas), lo cual finalmente lleva a la falta de atención a los resultados colectivos (priorizar el ego individual sobre el éxito del equipo).
 
-**Ejercicio inmediato:** Identifica en cual de las cinco disfunciones se encuentra tu equipo actualmente con mayor intensidad. Recuerda que, segun el modelo, la disfunción base (falta de confianza) es generalmente donde debe empezar el trabajo de mejora.
+**Ejercicio inmediato:** Identifica en cual de las cinco disfunciones se encuentra tu equipo actualmente con mayor intensidad. Recuerda que, según el modelo, la disfunción base (falta de confianza) es generalmente donde debe empezar el trabajo de mejora.
 
 Las cinco disfunciones de un equipo no son independientes. Son una cascada que empieza, casi siempre, en la ausencia de confianza basica.
 

@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena lleva dos años trabajando en remoto. Es, segun sus propias metricas, más productiva que nunca. también se siente más sola que nunca en el contexto laboral. Y durante mucho tiempo no tuvo claro si esta segunda observación importaba realmente, comparada con la primera, hasta que empezó a notar que su desempeño a largo plazo dependia de algo más que de su productividad individual aislada.
+Elena lleva dos años trabajando en remoto. Es, según sus propias metricas, más productiva que nunca. también se siente más sola que nunca en el contexto laboral. Y durante mucho tiempo no tuvo claro si esta segunda observación importaba realmente, comparada con la primera, hasta que empezó a notar que su desempeño a largo plazo dependia de algo más que de su productividad individual aislada.
 
 ---
 
@@ -57,7 +57,7 @@ Un mensaje asincrono ambiguo se interpreta, casi siempre, de la forma más negat
 
 ## Capítulo 4: Videollamadas: cuando funcionan y cuando no
 
-Las videollamadas, herramienta predeterminada para muchas interacciones remotas, tienen limitaciones específicas que las hacen más o menos apropiadas segun el tipo de interacción que se busca lograr.
+Las videollamadas, herramienta predeterminada para muchas interacciones remotas, tienen limitaciones específicas que las hacen más o menos apropiadas según el tipo de interacción que se busca lograr.
 
 **El Principio del Ajuste de Herramienta al Proposito:** Las videollamadas funcionan bien para conversaciones que requieren matiz emocional, negociación, o construcción de relación, pero generan fatiga significativa cuando se usan en exceso para información que podría comunicarse de forma asincrona, y limitan la espontaneidad de las conversaciones laterales que ocurrian naturalmente en espacios físicos compartidos.
 
@@ -107,7 +107,7 @@ Exigir la camara siempre encendida no garantiza más conexión. Frecuentemente s
 
 Construir confianza entre miembros de equipo que rara vez o nunca se encuentran físicamente requiere mecanismos específicos que compensen la ausencia de las señales de confianza que la interacción presencial facilita naturalmente.
 
-**El Principio de la Confianza Basada en Confiabilidad Demostrada:** En ausencia de las señales informales de confianza que la proximidad física genera, los equipos remotos construyen confianza principalmente a traves de la confiabilidad demostrada consistentemente: cumplir lo prometido, comunicar proactivamente cuando algo no va segun lo planeado, y mantener transparencia sobre el progreso del trabajo de forma que sea visible sin necesidad de supervisión directa constante.
+**El Principio de la Confianza Basada en Confiabilidad Demostrada:** En ausencia de las señales informales de confianza que la proximidad física genera, los equipos remotos construyen confianza principalmente a traves de la confiabilidad demostrada consistentemente: cumplir lo prometido, comunicar proactivamente cuando algo no va según lo planeado, y mantener transparencia sobre el progreso del trabajo de forma que sea visible sin necesidad de supervisión directa constante.
 
 **Ejercicio inmediato:** Identifica una acción concreta que podrías tomar para demostrar mayor confiabilidad ante tu equipo remoto: mayor proactividad en comunicar progreso, mayor consistencia en cumplir plazos comprometidos.
 

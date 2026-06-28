@@ -43,7 +43,7 @@ Lo que distingue el burnout de la depresión es su especificidad laboral: la per
 
 **Ejercicio inmediato:** Evalua tus tres dimensiones de burnout usando la Escala de Burnout de Maslach (disponible en linea): agotamiento emocional, despersonalización, y sentido de eficacia. El resultado no es un diagnóstico pero proporciona un mapa de en que parte del espectro te encuentras actualmente.
 
-El burnout no llega de golpe. Llega de la misma manera que la bancarrota segun Hemingway: gradualmente, y luego de repente.
+El burnout no llega de golpe. Llega de la misma manera que la bancarrota según Hemingway: gradualmente, y luego de repente.
 
 ---
 
@@ -71,7 +71,7 @@ La distinción entre la anticipación normal del trabajo del lunes y el síndrom
 
 **Ejercicio inmediato:** Si experimentas ansiedad significativa el domingo, dedica quince minutos a identificar el pensamiento específico que genera más ansiedad: la reunión del lunes, una tarea pendiente, una relación laboral problematica. La especificidad de la fuente guia la acción. El domingo no es el problema. Es el aviso de que el lunes esconde algo que merece atenderse directamente.
 
-La ansiedad del domingo no es sobre el domingo. Es sobre algo específico del trabajo que todavia no has podido cambiar ni aceptar.
+La ansiedad del domingo no es sobre el domingo. Es sobre algo específico del trabajo que todavía no has podido cambiar ni aceptar.
 
 ---
 
@@ -85,7 +85,7 @@ El perfeccionismo maladaptativo mantiene la ansiedad laboral a traves de varios 
 
 **Ejercicio inmediato:** Para tu próximo proyecto o tarea, define explicitamente antes de empezar cuales son los criterios de suficientemente bueno (no perfecto). Completa la tarea cuando se cumplan esos criterios, no cuando no puedas mejorarla más. Observa la ansiedad que activa ese límite deliberado y trata esa ansiedad cómo la información que es.
 
-El trabajo perfecto que llega demasiado tarde o que agota a quien lo hace no es mejor que el trabajo bueno entregado a tiempo por alguien que todavia tiene energía.
+El trabajo perfecto que llega demasiado tarde o que agota a quien lo hace no es mejor que el trabajo bueno entregado a tiempo por alguien que todavía tiene energía.
 
 ---
 
@@ -147,7 +147,7 @@ El burnout es costoso. también es una oportunidad de rediseñar la relación co
 
 ## Capítulo 10: Construir una relación sostenible con el trabajo
 
-Isabel ha empezado a cambiar su relación con el trabajo. No su trabajo en si mismo, que todavia valora. Su relación con el. Ha empezado a ver el trabajo como algo que hace, no como algo que es. Ha empezado a proteger tiempo para lo que es fuera del trabajo. Ha empezado a reconocer que la disponibilidad permanente que había normalizado no era un estandar laboral objetivo. Era una trampa en la que ella participaba activamente.
+Isabel ha empezado a cambiar su relación con el trabajo. No su trabajo en si mismo, que todavía valora. Su relación con el. Ha empezado a ver el trabajo como algo que hace, no como algo que es. Ha empezado a proteger tiempo para lo que es fuera del trabajo. Ha empezado a reconocer que la disponibilidad permanente que había normalizado no era un estandar laboral objetivo. Era una trampa en la que ella participaba activamente.
 
 **El Principio del Trabajo como Parte de la Vida, no como Toda la Vida:** Arlie Hochschild, socióloga de Berkeley, en su investigación sobre el trabajo y el tiempo, observo que muchas personas en empleos de alta demanda habían invertido la relación entre trabajo y vida privada: el trabajo se había vuelto el lugar donde se sentían más competentes, más reconocidas, y más en control, mientras la vida privada (las relaciones, el descanso, las aficiones) era percibida cómo la fuente de las demandas menos gestionables. Esta inversión explica por qué reducir el trabajo no siempre reduce la ansiedad inmediatamente: si el trabajo ha cumplido funciones psicológicas que nada más cumple, reducirlo crea un vacio que también genera ansiedad.
 
@@ -161,7 +161,7 @@ El trabajo debería ser una parte importante de quien eres. No debería ser todo
 
 ## Epílogo
 
-Elena tomó dos dias de vacaciones improvisados que siempre había pospuesto. Apagó el correo. No resolvio nada de su ansiedad laboral en esos dos dias. Pero noto algo: que el mundo no se derrumbo en su ausencia. Que los correos urgentes resultaron no ser tan urgentes. Que ella, sin el trabajo, todavia era alguien. Esa experiencia pequeña le dio algo que ninguna técnica de gestión del estrés le había dado: evidencia de que la disponibilidad permanente era una elección, no una necesidad. Y que podía elegir diferente.
+Elena tomó dos dias de vacaciones improvisados que siempre había pospuesto. Apagó el correo. No resolvio nada de su ansiedad laboral en esos dos dias. Pero noto algo: que el mundo no se derrumbo en su ausencia. Que los correos urgentes resultaron no ser tan urgentes. Que ella, sin el trabajo, todavía era alguien. Esa experiencia pequeña le dio algo que ninguna técnica de gestión del estrés le había dado: evidencia de que la disponibilidad permanente era una elección, no una necesidad. Y que podía elegir diferente.
 
 ---
 

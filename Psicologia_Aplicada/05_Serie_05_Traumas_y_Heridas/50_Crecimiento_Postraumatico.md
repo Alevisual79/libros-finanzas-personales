@@ -91,13 +91,13 @@ El crecimiento que emerge del trauma no ocurre en el vacio. Las relaciones que t
 
 ## Capítulo 6: Crecimiento y TEPT: pueden coexistir
 
-Ruben se pregunta si el hecho de que todavia tenga sintomas del trauma significa que no ha habido crecimiento.
+Ruben se pregunta si el hecho de que todavía tenga sintomas del trauma significa que no ha habido crecimiento.
 
 **El Principio de la Coexistencia del Crecimiento y el Sufrimiento como Fenómeno Normal:** La investigación empirica muestra de forma consistente que el crecimiento y el TEPT no son mutuamente excluyentes: muchas personas reportan tanto sintomas del TEPT como cambios positivos significativos al mismo tiempo.
 
 Algunos estudios muestran una relación en forma de U invertida entre la severidad del trauma y el crecimiento: el trauma demasiado leve no desafia suficientemente los esquemas, y el demasiado severo puede sobrepasar la capacidad de procesamiento. Los traumas de severidad moderada-alta con recursos suficientes son los que más frecuentemente producen crecimiento.
 
-**Ejercicio inmediato:** Si todavia experimentas malestar relacionado con una experiencia pasada, reflexiona sobre si hay también indicios de crecimiento, aunque sea en áreas diferentes al área de mayor malestar. El crecimiento y el malestar pueden estar ocurriendo al mismo tiempo en dominios distintos.
+**Ejercicio inmediato:** Si todavía experimentas malestar relacionado con una experiencia pasada, reflexiona sobre si hay también indicios de crecimiento, aunque sea en áreas diferentes al área de mayor malestar. El crecimiento y el malestar pueden estar ocurriendo al mismo tiempo en dominios distintos.
 
 No tienes que estar completamente curado para haber crecido. El crecimiento y el dolor pueden coexistir sin que ninguno invalide al otro.
 
@@ -109,7 +109,7 @@ Elena quiere saber si hay acciones que puede tomar para facilitar el crecimiento
 
 **El Principio del Crecimiento Postraumatico como Parcialmente Facilitado por Acciones Deliberadas:** La investigación ha identificado factores que pueden facilitar el crecimiento: la escritura expresiva sobre la experiencia (especialmente cuando incluye reflexión sobre el significado), el apoyo social de calidad, la psicoterapia centrada en el procesamiento, la práctica de la gratitud, y el desarrollo del pensamiento narrativo.
 
-Tedeschi y Calhoun proponen la metafora del guia experto del crecimiento: el psicologo que actua como compañero de viaje puede senalar los cambios que el cliente todavia no nombra y facilitar el procesamiento reflexivo.
+Tedeschi y Calhoun proponen la metafora del guia experto del crecimiento: el psicologo que actua como compañero de viaje puede senalar los cambios que el cliente todavía no nombra y facilitar el procesamiento reflexivo.
 
 **Ejercicio inmediato:** Escribe durante veinte minutos sobre una experiencia difícil: lo que ocurrio, como te afecto, como cambiaste, y lo que la experiencia dice sobre quien eres y lo que te importa. Esta escritura reflexiva es una de las intervenciones más sencillas y eficaces para facilitar el procesamiento que produce crecimiento.
 

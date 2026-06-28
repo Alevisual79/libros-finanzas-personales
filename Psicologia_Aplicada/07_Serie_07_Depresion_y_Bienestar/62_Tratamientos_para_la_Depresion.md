@@ -127,7 +127,7 @@ La TEC tiene una imagen negativa por su historia y su representación en el cine
 
 **Ejercicio inmediato:** Si llevas tiempo con tratamiento sin respuesta satisfactoria, considera pedir una segunda opinión especializada en psiquiatria o una evaluación en una unidad especializada en depresión resistente. La falta de respuesta al primer tratamiento no significa que el tratamiento no existira. Significa que ese tratamiento específico no es el correcto para ti.
 
-La depresión que no responde al primer tratamiento no es depresión incurable. Es depresión que todavia no ha encontrado el tratamiento correcto.
+La depresión que no responde al primer tratamiento no es depresión incurable. Es depresión que todavía no ha encontrado el tratamiento correcto.
 
 ---
 

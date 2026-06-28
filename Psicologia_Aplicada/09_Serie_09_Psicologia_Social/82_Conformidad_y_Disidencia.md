@@ -127,7 +127,7 @@ La investigación de Jonah Berger y Eric Schwartz sobre la visibilidad social de
 
 **Ejercicio inmediato:** Para tu próximo gasto importante (por encima de 500 euros), reflexiona: ¿esta compra la iniciaste porque la necesitas o porque alguien de tu entorno tiene algo similar? La respuesta no determina si la compra es buena o mala, pero determina si la estas tomando desde tus propias prioridades o desde las de tu grupo de referencia.
 
-Lo que compras cuando intentas no quedarte atras es el precio de la comparación social. No de la vida que quieres.
+Lo que compras cuando intentas no quedarte atrás es el precio de la comparación social. No de la vida que quieres.
 
 ---
 
@@ -155,7 +155,7 @@ La investigación de Cass Sunstein sobre el deliberation day y las camaras de ec
 
 **Ejercicio inmediato:** Identifica tres áreas de tu vida donde tienes creencias que nunca has cuestionado activamente y que comparte prácticamente toda tu comunidad de referencia. Para cada una, reflexiona: ¿que argumentos hacen las personas que no comparten esa creencia? No para cambiarla sino para asegurarte de que la tienes por razones propias y no solo por conformidad.
 
-La creencia que nunca ha sido cuestionada no es tuya todavia. Es prestada del grupo que la produce.
+La creencia que nunca ha sido cuestionada no es tuya todavía. Es prestada del grupo que la produce.
 
 ---
 

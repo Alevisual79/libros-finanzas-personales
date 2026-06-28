@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben no tiene hijos y no quiere tenerlos. Isabel tuvo los hijos que se esperaba de ella y ahora, con cincuenta y dos años, no esta segura de haberlos querido tener realmente, aunque los ama profundamente ahora que existen. Elena no sabe lo que quiere todavia. Los tres, de formas distintas, necesitan la misma cosa: permiso para decidir conscientemente, en lugar de seguir un guion que asumieron sin examinar.
+Ruben no tiene hijos y no quiere tenerlos. Isabel tuvo los hijos que se esperaba de ella y ahora, con cincuenta y dos años, no esta segura de haberlos querido tener realmente, aunque los ama profundamente ahora que existen. Elena no sabe lo que quiere todavía. Los tres, de formas distintas, necesitan la misma cosa: permiso para decidir conscientemente, en lugar de seguir un guion que asumieron sin examinar.
 
 Este es el último libro de la serie sobre familia, y trata sobre el acto final de la madurez familiar: definir, con libertad y conciencia, que significa familia para uno mismo, en lugar de heredar automáticamente la definición que la cultura o la familia de origen establecieron.
 
@@ -95,9 +95,9 @@ La familia que creaste tiene que tener prioridad sobre la familia en la que naci
 
 ## Capítulo 7: Definir tus propios valores familiares
 
-El trabajo de construir una familia consciente requiere identificar explicitamente los valores que se quieren que guien esa familia, en lugar de operar segun valores heredados sin examen.
+El trabajo de construir una familia consciente requiere identificar explicitamente los valores que se quieren que guien esa familia, en lugar de operar según valores heredados sin examen.
 
-**El Principio de los Valores Familiares Explicitos:** Las familias que operan con mayor cohesión y claridad son las que han identificado explicitamente sus valores fundamentales (que tipo de comunicación valoran, que importancia dan al trabajo versus al tiempo familiar, que principios éticos quieren transmitir), en lugar de operar segun valores implícitos que nunca se han nombrado y que pueden generar confusión cuando diferentes miembros de la familia tienen interpretaciones distintas.
+**El Principio de los Valores Familiares Explicitos:** Las familias que operan con mayor cohesión y claridad son las que han identificado explicitamente sus valores fundamentales (que tipo de comunicación valoran, que importancia dan al trabajo versus al tiempo familiar, que principios éticos quieren transmitir), en lugar de operar según valores implícitos que nunca se han nombrado y que pueden generar confusión cuando diferentes miembros de la familia tienen interpretaciones distintas.
 
 **Ejercicio inmediato:** Escribe, juntó con tu pareja o tu familia si es apropiado, los tres a cinco valores fundamentales que quieres que definan a tu familia. Esta lista explícita se convierte en una guia para futuras decisiones familiares.
 
@@ -143,7 +143,7 @@ El legado que dejas no es lo que tu familia de origen te dio. Es lo que tu, cons
 
 ## Epílogo
 
-La familia que construyes puede ser biológica, elegida o ambas. Lo que importa es que sea consciente. Ruben construyo una red de amistades profundas que funciona como su familia elegida, sin hijos y sin lamentarlo. Isabel sigue aprendiendo a amar la familia que tiene, distinta de la que imagino tener a los veinte años. Elena, todavia decidiendo, ha encontrado al menos la libertad de no seguir un guion que nunca eligio.
+La familia que construyes puede ser biológica, elegida o ambas. Lo que importa es que sea consciente. Ruben construyo una red de amistades profundas que funciona como su familia elegida, sin hijos y sin lamentarlo. Isabel sigue aprendiendo a amar la familia que tiene, distinta de la que imagino tener a los veinte años. Elena, todavía decidiendo, ha encontrado al menos la libertad de no seguir un guion que nunca eligio.
 
 Los tres, de formas distintas, estan haciendo lo mismo: construir, con los ojos abiertos, la familia que realmente quieren tener.
 

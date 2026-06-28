@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Elena tiene un trabajo bien pagado, una vida social activa, y sin embargo a veces siente que algo le falta que no sabe nombrar exactamente. Ruben tiene éxito en su negocio y aun asi hay mañanas en que le cuesta levantarse porque no recuerda por qué exactamente hace lo que hace. Isabel ha llegado a los cincuenta y dos años con una carrera sólida y se pregunta si los próximos veinte años podrían tener un sentido diferente al que han tenido los anteriores. Los tres buscan algo que la psicología llama proposito o sentido de vida: una razón profunda que ordene las elecciones, de coherencia a las acciones, y que proporcione la resistencia que la vida difícil requiere. Este libro es sobre esa búsqueda: su psicología, sus mecanismos, y como encontrar o construir el proposito que hace que la vida tenga más sentido.
+Elena tiene un trabajo bien pagado, una vida social activa, y sin embargo a veces siente que algo le falta que no sabe nombrar exactamente. Ruben tiene éxito en su negocio y aun así hay mañanas en que le cuesta levantarse porque no recuerda por qué exactamente hace lo que hace. Isabel ha llegado a los cincuenta y dos años con una carrera sólida y se pregunta si los próximos veinte años podrían tener un sentido diferente al que han tenido los anteriores. Los tres buscan algo que la psicología llama proposito o sentido de vida: una razón profunda que ordene las elecciones, de coherencia a las acciones, y que proporcione la resistencia que la vida difícil requiere. Este libro es sobre esa búsqueda: su psicología, sus mecanismos, y como encontrar o construir el proposito que hace que la vida tenga más sentido.
 
 ---
 
@@ -113,7 +113,7 @@ Carl Jung propuso que la primera mitad de la vida se orienta naturalmente hacía
 
 **Ejercicio inmediato:** Si estas en la mediana edad o más allá, reflexiona: ¿que valores, talentos, o dimensiones de tu personalidad has relegado en la primera mitad de tu vida para centrarte en lo que el rol social te requeria? ¿Hay alguna de esas dimensiones que podría tener un lugar más central en la segunda mitad? El proposito de la segunda mitad de la vida frecuentemente se construye sobre lo que la primera mitad dejó sin desarrollar.
 
-Lo que dejaste atras en la primera mitad a veces es exactamente lo que necesitas en la segunda.
+Lo que dejaste atrás en la primera mitad a veces es exactamente lo que necesitas en la segunda.
 
 ---
 

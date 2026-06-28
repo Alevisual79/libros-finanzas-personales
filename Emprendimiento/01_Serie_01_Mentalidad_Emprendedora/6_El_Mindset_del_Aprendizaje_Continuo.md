@@ -41,9 +41,9 @@ Carlos ha aprendido que la diferencia entre los emprendedores que persisten y lo
 
 La investigación de Dweck con emprendedores muestra que los con mindset de crecimiento no solo persisten más sino que aprenden más de cada experiencia porque la abordan como información en lugar de como veredicto sobre su capacidad.
 
-**Ejercicio inmediato:** Para el área de tu negocio donde tienes más dificultades actualmente, reflexiona: ¿como estoy interpretando esas dificultades? ¿Como evidencia de que no soy suficientemente capaz (mindset fijo) o como información sobre que necesito aprender o cambiar (mindset de crecimiento)? Si la respuesta es lo primero, el mindset fijo está funcionando como freno del aprendizaje. La intervención de Dweck más sencilla es cambiar la pregunta: ¿en lugar de no soy capaz de X, preguntar todavia no soy capaz de X, que necesito aprender?
+**Ejercicio inmediato:** Para el área de tu negocio donde tienes más dificultades actualmente, reflexiona: ¿como estoy interpretando esas dificultades? ¿Como evidencia de que no soy suficientemente capaz (mindset fijo) o como información sobre que necesito aprender o cambiar (mindset de crecimiento)? Si la respuesta es lo primero, el mindset fijo está funcionando como freno del aprendizaje. La intervención de Dweck más sencilla es cambiar la pregunta: ¿en lugar de no soy capaz de X, preguntar todavía no soy capaz de X, que necesito aprender?
 
-El todavia que añades a la frase cambia la relación que tienes con la capacidad que todavia no tienes.
+El todavía que añades a la frase cambia la relación que tienes con la capacidad que todavía no tienes.
 
 ---
 

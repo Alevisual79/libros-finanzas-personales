@@ -57,7 +57,7 @@ Las estrategias de optimización de pagos incluyen: negociar plazos de pago más
 
 **Ejercicio inmediato:** Lista todos tus pagos fijos y recurrentes y sus fechas. Identifica cuales puedes mover a fechas más convenientes para tu ciclo de liquidez (frecuentemente, los proveedores de software o servicios permiten cambiar la fecha de facturación si se les pide). Reagrupa los pagos de forma que esten concentrados en los dias de mayor liquidez esperada del mes (tipicamente, después de los dias en que tus principales clientes suelen pagar). Ese simple reagrupamiento de fechas puede mejorar significativamente la liquidez media del mes.
 
-El pago que haces el dia que corresponde segun el contrató es siempre mejor que el que haces antes por inercia.
+El pago que haces el dia que corresponde según el contrató es siempre mejor que el que haces antes por inercia.
 
 ---
 
@@ -83,7 +83,7 @@ Lucia ha construido un fondo de emergencia del negocio que le permite dormir tra
 
 El fondo de emergencia debe estar en una cuenta separada de la cuenta operativa del negocio (para evitar la tentación de usarlo para gastos operativos del dia a dia), de facil acceso (no en un producto de inversión con penalización por reembolso anticipado), y en un instrumento que genere algo de rentabilidad pero con liquidez inmediata (una cuenta de ahorro de alta rentabilidad o un fondo monetario).
 
-**Ejercicio inmediato:** Calcula tu objetivo de fondo de emergencia del negocio: multiplica tus gastos fijos mensuales totales por tres (tres meses es el mínimo razonable). Si todavia no tienes ese fondo, empieza a construirlo destinando una parte fija del beneficio mensual a esa cuenta separada (el diez o el veinte por ciento del beneficio hasta alcanzar el objetivo). Si ya lo tienes, evalua si el nivel sigue siendo correcto dado el crecimiento del negocio: si los gastos fijos han aumentado, el objetivo del fondo debe actualizarse.
+**Ejercicio inmediato:** Calcula tu objetivo de fondo de emergencia del negocio: multiplica tus gastos fijos mensuales totales por tres (tres meses es el mínimo razonable). Si todavía no tienes ese fondo, empieza a construirlo destinando una parte fija del beneficio mensual a esa cuenta separada (el diez o el veinte por ciento del beneficio hasta alcanzar el objetivo). Si ya lo tienes, evalua si el nivel sigue siendo correcto dado el crecimiento del negocio: si los gastos fijos han aumentado, el objetivo del fondo debe actualizarse.
 
 El emprendedor con fondo de emergencia toma mejores decisiones cuando vienen los problemas. Porque puede decidir desde la tranquilidad en lugar de desde el panico.
 
@@ -107,7 +107,7 @@ La estacionalidad que no se planifica produce una crisis dos veces al año. La q
 
 Carlos ha aprendido que las herramientas de financiación de flujo de caja son legitimas si se usan correctamente.
 
-**El Principio de La Financiación de Flujo de Caja como El Uso de Instrumentos Financieros para Adelantar El Cobro de Ventas Ya Realizadas o Cubrir El Gap entre Pagos y Cobros Sin Incrementar La Deuda Estructural del Negocio sino Solo Su Liquidez Temporal:** El factoring es la venta de las facturas pendientes de cobró a una entidad financiera que adelanta el importe (menos una comisión) a cambio de asumir el riesgo de cobró. Es especialmente útil para negocios con clientes grandes que pagan a plazos largos. Las lineas de credito (o polizas de credito) son instrumentos de financiación revolvente: el negocio tiene un límite disponible que puede usar y reponer segun su necesidad, pagando intereses solo por el importe y el tiempo que lo usa.
+**El Principio de La Financiación de Flujo de Caja como El Uso de Instrumentos Financieros para Adelantar El Cobro de Ventas Ya Realizadas o Cubrir El Gap entre Pagos y Cobros Sin Incrementar La Deuda Estructural del Negocio sino Solo Su Liquidez Temporal:** El factoring es la venta de las facturas pendientes de cobró a una entidad financiera que adelanta el importe (menos una comisión) a cambio de asumir el riesgo de cobró. Es especialmente útil para negocios con clientes grandes que pagan a plazos largos. Las lineas de credito (o polizas de credito) son instrumentos de financiación revolvente: el negocio tiene un límite disponible que puede usar y reponer según su necesidad, pagando intereses solo por el importe y el tiempo que lo usa.
 
 La diferencia entre financiación correcta e incorrecta de flujo de caja es que la correcta financia ventas ya realizadas (adelanta dinero que ya se ha ganado) y la incorrecta financia costes operativos sin ventas suficientes que los respalden (que es financiar una perdida operativa, lo cual solo retrasa el problema).
 

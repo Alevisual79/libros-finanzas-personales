@@ -37,7 +37,7 @@ La gratitud que se enumera mecanicamente pierde su efecto rápidamente. La que s
 
 Elena es esceptica sobre si la gratitud puede cambiar algo real. La neurociencia tiene datos.
 
-**El Principio de la Gratitud como Estado que Activa Circuitos Cerebrales de Recompensa y Conexión Social:** La investigación de Glenn Fox y colegas de la Universidad del Sur de California, publicada en Frontiers in Psychology, muestra que la experiencia de gratitud activa el cortex prefrontal medial y la corteza cingulada anterior, regiones asociadas con la toma de perspectiva, el altruismo, y la conexión social. Ademas, la gratitud activa el sistema de recompensa mesolimbico (el mismo sistema que se activa con la comida, el sexo, o la musica).
+**El Principio de la Gratitud como Estado que Activa Circuitos Cerebrales de Recompensa y Conexión Social:** La investigación de Glenn Fox y colegas de la Universidad del Sur de California, publicada en Frontiers in Psychology, muestra que la experiencia de gratitud activa el cortex prefrontal medial y la corteza cingulada anterior, regiones asociadas con la toma de perspectiva, el altruismo, y la conexión social. Además, la gratitud activa el sistema de recompensa mesolimbico (el mismo sistema que se activa con la comida, el sexo, o la musica).
 
 La investigación de Martin Seligman y colegas muestra que la práctica de la carta de gratitud (escribir una carta de gratitud a alguien que ha tenido un impacto positivo en la propia vida y leerla en persona) produce el aumento de bienestar más grande y más duradero de entre todas las intervenciones de psicología positiva estudiadas.
 
@@ -71,7 +71,7 @@ Las intervenciones de psicología positiva con mayor evidencia incluyen: la prá
 
 **Ejercicio inmediato:** Accede al inventario de fortalezas de carácter VIA (Via Institute on Character) en VIAcharacter.org (es gratuito y tiene versión en español). Completa el cuestionario y lee las cinco fortalezas que más te caracterizan. Reflexiona: ¿en que áreas de tu vida usas esas fortalezas? ¿Donde podrías usarlas más?
 
-La psicología que solo elimina lo que esta mal deja un espacio vacio. La que ademas construye lo que está bien construye una vida.
+La psicología que solo elimina lo que esta mal deja un espacio vacio. La que además construye lo que está bien construye una vida.
 
 ---
 
@@ -97,7 +97,7 @@ Elena tiende al pesimismo y lo justifica como realismo. La investigación sobre 
 
 La investigación de Shelley Taylor sobre el optimismo realista muestra que las ilusiones levemente positivas sobre las propias capacidades y el propio futuro (ilusiones que no son falsedades sino sesgos hacía lo positivo dentro de lo razonable) se asocian con mejor salud mental y física que la visión excesivamente realista de la realidad.
 
-**Ejercicio inmediato:** Para la situación más pesimista que tienes en este momento (donde pronosticas el peor resultado), práctica el análisis de estilo explicativo optimista: ¿es permanente (siempre será asi) o temporal (esta vez, en este momento)? ¿Es pervasivo (afecta a todo) o específico (solo a esta área)? ¿Es personal (es por algo que soy o hago) o externo (hay factores fuera de mi control)? Reformula la situación con el estilo explicativo optimista, sin negar los hechos.
+**Ejercicio inmediato:** Para la situación más pesimista que tienes en este momento (donde pronosticas el peor resultado), práctica el análisis de estilo explicativo optimista: ¿es permanente (siempre será así) o temporal (esta vez, en este momento)? ¿Es pervasivo (afecta a todo) o específico (solo a esta área)? ¿Es personal (es por algo que soy o hago) o externo (hay factores fuera de mi control)? Reformula la situación con el estilo explicativo optimista, sin negar los hechos.
 
 El optimismo que se puede argumentar es más duradero que el que simplemente se declara.
 

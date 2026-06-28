@@ -23,11 +23,11 @@ Lucia paso tres semanas escribiendo un plan de negocio de cuarenta páginas para
 
 El plan de negocio que la mayoría escribe no sirve para lo que creen que sirve.
 
-**El Principio del Plan de Negocio como Herramienta de Pensamiento Más que como Documento de Presentación porque su Valor esta en el Proceso de Creación No en el Producto Final:** Steve Blank propone que el plan de negocio tradicional (con proyecciones a cinco años, análisis extenso de mercado, y estrategia detallada) es útil para empresas en mercados establecidos con modelos probados, pero contraproducente para startups: crea la ilusión de certeza sobre un negocio que todavia es una serie de hipótesis sin validar. El plan extenso puede llevar meses de trabajo para producir un documento que el mercado contradira en las primeras semanas de operación.
+**El Principio del Plan de Negocio como Herramienta de Pensamiento Más que como Documento de Presentación porque su Valor esta en el Proceso de Creación No en el Producto Final:** Steve Blank propone que el plan de negocio tradicional (con proyecciones a cinco años, análisis extenso de mercado, y estrategia detallada) es útil para empresas en mercados establecidos con modelos probados, pero contraproducente para startups: crea la ilusión de certeza sobre un negocio que todavía es una serie de hipótesis sin validar. El plan extenso puede llevar meses de trabajo para producir un documento que el mercado contradira en las primeras semanas de operación.
 
 Guy Kawasaki propone la regla del plan de una página: si no puedes explicar tu negocio en una página, o el negocio es demasiado complicado o no lo entiendes suficientemente bien. La claridad que la restricción de una página obliga a encontrar vale más que la falsa precisión de un documento de cuarenta.
 
-**Ejercicio inmediato:** Resume tu negocio en una página con seis elementos: el problema que resuelves, para quien lo resuelves, cómo lo resuelves, como ganas dinero, por qué tu en lugar de otros, y que necesitas para empezar. Si no puedes completar esa página en una hora, el problema no es la herramienta. Es que todavia no tienes suficiente claridad sobre tu propio negocio.
+**Ejercicio inmediato:** Resume tu negocio en una página con seis elementos: el problema que resuelves, para quien lo resuelves, cómo lo resuelves, como ganas dinero, por qué tu en lugar de otros, y que necesitas para empezar. Si no puedes completar esa página en una hora, el problema no es la herramienta. Es que todavía no tienes suficiente claridad sobre tu propio negocio.
 
 El plan de negocio que tardas tres semanas en escribir frecuentemente no es mejor que el que tardas tres dias. Solo es más largo.
 
@@ -97,7 +97,7 @@ Marcos ha aprendido que el plan de ventas no es un objetivo numerico sino un pro
 
 Para el emprendedor en fases tempranas, el proceso de ventas no necesita ser complejo: ¿necesita ser explícito. ¿Cuantos contactos iniciales necesito para conseguir una conversación? ¿Cuantas conversaciones necesito para conseguir una propuesta? ¿Cuantas propuestas para cerrar una venta? Esas tasas de conversión, medidas en datos reales, son la base del plan de ventas que funciona.
 
-**Ejercicio inmediato:** Diseña tu embudo de ventas de cinco pasos con los números reales que tienes hasta ahora (aunque sean pequeños): cuantos potenciales clientes has contactado, cuantas conversaciones iniciales has tenido, cuantas propuestas has enviado, cuantas ventas has cerrado, y cuanto revenue han generado. Si no tienes datos todavia, esa es tu primera prioridad: conseguir suficientes datos reales para calcular tus tasas de conversión.
+**Ejercicio inmediato:** Diseña tu embudo de ventas de cinco pasos con los números reales que tienes hasta ahora (aunque sean pequeños): cuantos potenciales clientes has contactado, cuantas conversaciones iniciales has tenido, cuantas propuestas has enviado, cuantas ventas has cerrado, y cuanto revenue han generado. Si no tienes datos todavía, esa es tu primera prioridad: conseguir suficientes datos reales para calcular tus tasas de conversión.
 
 El plan de ventas basado en los números reales de tu embudo dice más sobre tu negocio que cualquier proyección basada en benchmarks del sector.
 

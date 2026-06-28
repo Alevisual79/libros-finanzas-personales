@@ -29,7 +29,7 @@ El campo de la IA avanza a una velocidad sin precedentes. Cada semana hay nuevos
 
 Esta velocidad crea dos errores opuestos:
 
-**El error de la saturación:** Intentar seguir todo, terminar consumiendo información sin digerirla, y experimentar ansiedad de estar siempre atras.
+**El error de la saturación:** Intentar seguir todo, terminar consumiendo información sin digerirla, y experimentar ansiedad de estar siempre atrás.
 
 **El error del aislamiento:** Ignorar el campo por abrumador, perderse cambios importantes que afectan al trabajo, y quedarse con un conocimiento obsoleto.
 
@@ -71,12 +71,12 @@ La senial real:
 - Hugging Face Blog: Noticias y tutoriales técnicos del ecosistema open source
 
 **Para seguimiento de modelos:**
-- LMSYS Chatbot Arena: Comparativa en tiempo real de modelos segun preferencias de usuarios
+- LMSYS Chatbot Arena: Comparativa en tiempo real de modelos según preferencias de usuarios
 - Hugging Face Leaderboards: Rankings estandarizados de modelos
 
 **En redes sociales:**
 - LinkedIn de Andrej Karpathy, Yann LeCun, Geoffrey Hinton, Sam Altman: perspectivas directas de protagonistas del campo
-- Twitter/X de investigadores específicos segun tus intereses
+- Twitter/X de investigadores específicos según tus intereses
 
 ---
 
@@ -188,7 +188,7 @@ Esta serie ha recorrido el ecosistema de herramientas de IA: de los grandes mode
 
 La Serie 3 termina con la perspectiva más amplia: como mantenerse actualizado en un campo que cambia constantemente sin ser consumido por esa velocidad.
 
-La respuesta es un sistema, no una actitud. Un sistema de actualización selectiva, orientada a la aplicación práctica, que produce aprendizaje real en lugar de la ansiedad de estar siempre atras.
+La respuesta es un sistema, no una actitud. Un sistema de actualización selectiva, orientada a la aplicación práctica, que produce aprendizaje real en lugar de la ansiedad de estar siempre atrás.
 
 La Serie 4 da un giro: de las herramientas a la creatividad. Como la IA está transformando la creación artistica, el diseño, la escritura creativa y la innovación, y cual es el rol humano en ese proceso transformado.
 

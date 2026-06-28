@@ -75,7 +75,7 @@ La estrategia de eliminar completamente el contacto con una expareja de una rela
 
 **Ejercicio inmediato:** Si estas en proceso de recuperarte de una relación toxica, evalua si has implementado genuinamente contacto cero, o si mantienes alguna forma de contacto que podría estar perpetuando tu dificultad para sanar.
 
-El contacto cero no es venganza ni inmadurez. Es la herramienta más efectiva, segun la investigación, para facilitar la sanación después de una relación toxica.
+El contacto cero no es venganza ni inmadurez. Es la herramienta más efectiva, según la investigación, para facilitar la sanación después de una relación toxica.
 
 ---
 

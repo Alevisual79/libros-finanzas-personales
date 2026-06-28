@@ -39,7 +39,7 @@ El perdon hacía miembros de la familia tiene complejidades específicas que no 
 
 **El Principio de la Complejidad del Vínculo Permanente:** El perdon familiar es más difícil que otros tipos de perdon por varias razones específicas: la relación frecuentemente continua (a diferencia de otras relaciones que se pueden terminar completamente), las expectativas culturales sobre la obligación de perdonar a la familia son más fuertes, y el daño familiar frecuentemente ocurrio durante la infancia, cuando la persona tenía menos recursos para procesarlo de forma saludable en el momento en que ocurrio.
 
-**Ejercicio inmediato:** Si estas procesando el perdon hacía un familiar, reconoce explicitamente que esta dificultad adicional es real y esperada, no una señal de que algo esta mal contigo por no haber perdonado todavia.
+**Ejercicio inmediato:** Si estas procesando el perdon hacía un familiar, reconoce explicitamente que esta dificultad adicional es real y esperada, no una señal de que algo esta mal contigo por no haber perdonado todavía.
 
 El perdon familiar es objetivamente más difícil que otros tipos de perdon. No te exijas que sea facil.
 

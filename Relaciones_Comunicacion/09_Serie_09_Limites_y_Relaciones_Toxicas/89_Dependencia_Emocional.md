@@ -23,9 +23,9 @@ Isabel necesita la aprobación de ciertas personas específicas en su vida para 
 
 La dependencia emocional se define cómo un patron donde el bienestar psicológico de una persona depende excesivamente de la aprobación, presencia, o validación de otra persona específica, generando una necesidad que excede la interdependencia saludable normal de cualquier relación cercana.
 
-**El Principio de la Distinción entre Interdependencia Saludable y Dependencia Excesiva:** Todas las relaciones cercanas saludables involucran cierto grado de interdependencia, donde el bienestar de una persona se ve influido por la relación. La dependencia emocional excesiva se distingue por la magnitud y la rigidez de esa influencia: la persona dependiente no puede mantener su propio sentido de bienestar de forma independiente, y su autoestima fluctua dramaticamente segun la aprobación o desaprobación percibida del otro.
+**El Principio de la Distinción entre Interdependencia Saludable y Dependencia Excesiva:** Todas las relaciones cercanas saludables involucran cierto grado de interdependencia, donde el bienestar de una persona se ve influido por la relación. La dependencia emocional excesiva se distingue por la magnitud y la rigidez de esa influencia: la persona dependiente no puede mantener su propio sentido de bienestar de forma independiente, y su autoestima fluctua dramaticamente según la aprobación o desaprobación percibida del otro.
 
-**Ejercicio inmediato:** Reflexiona sobre tu propio nivel de dependencia en tus relaciones más significativas: ¿tu bienestar fluctua dramaticamente segun la aprobación de esa persona, o mantienes un nucleo estable de bienestar independiente de esa aprobación?
+**Ejercicio inmediato:** Reflexiona sobre tu propio nivel de dependencia en tus relaciones más significativas: ¿tu bienestar fluctua dramaticamente según la aprobación de esa persona, o mantienes un nucleo estable de bienestar independiente de esa aprobación?
 
 La interdependencia saludable y la dependencia excesiva no son lo mismo. La diferencia esta en si puedes mantener un nucleo de bienestar propio independiente de la aprobación del otro.
 

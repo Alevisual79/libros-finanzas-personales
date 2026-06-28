@@ -81,7 +81,7 @@ Ruben ha probado el tiempo de preocupación de Borkovec y ha encontrado que, aun
 
 **El Principio del Tiempo Designado para Preocuparse como Contención del Ciclo:** Thomas Borkovec, investigador del trastorno de ansiedad generalizada, desarrollo la técnica del tiempo de preocupación: designar un momento específico del dia (por ejemplo, las seis de la tarde, durante veinte minutos) para preocuparse deliberadamente. Cuando la preocupación o la rumia aparece fuera de ese momento designado, la instrucción es reconocerla y diferirla al tiempo asignado.
 
-La efectividad de la técnica reside en que no niega la preocupación sino que la contiene: le dice no ahora, más tarde. Esto es más manejable cognitivamente que intentar suprimirla, y al mismo tiempo evita que la preocupación invada todo el dia. La mayoría de las personas descubren ademas que cuando llega el tiempo designado, muchas de las preocupaciones ya no parecen tan urgentes.
+La efectividad de la técnica reside en que no niega la preocupación sino que la contiene: le dice no ahora, más tarde. Esto es más manejable cognitivamente que intentar suprimirla, y al mismo tiempo evita que la preocupación invada todo el dia. La mayoría de las personas descubren además que cuando llega el tiempo designado, muchas de las preocupaciones ya no parecen tan urgentes.
 
 **Ejercicio inmediato:** Esta semana, experimenta con la técnica del tiempo de preocupación: designa quince minutos cada tarde a las seis para preocuparte deliberadamente sobre lo que quieras. Cuando la rumia o la preocupación aparezca fuera de ese tiempo, anota el tema brevemente (para no perderlo) y diferelo al tiempo designado. Observa si tiene algun efecto sobre la frecuencia de la rumia a lo largo del dia.
 
@@ -161,7 +161,7 @@ La mente que no para de dar vueltas no se calma de una vez. Se calma poco a poco
 
 ## Epílogo
 
-Ruben tuvo la rumiación habitual después de la reunión difícil. Pero esta vez la noto llegar. Reconocio la señal: el estómago apretado, el pensamiento que empieza a recircular. Nombro: esto es rumia. Puso los auriculares y camino veinte minutos. Cuando volvio, el ciclo había perdido intensidad. Todavia estaba ahí. Pero ya no lo controlaba. Solo era un pensamiento que pasaba, y Ruben, por primera vez en mucho tiempo, no lo había seguido.
+Ruben tuvo la rumiación habitual después de la reunión difícil. Pero esta vez la noto llegar. Reconocio la señal: el estómago apretado, el pensamiento que empieza a recircular. Nombro: esto es rumia. Puso los auriculares y camino veinte minutos. Cuando volvio, el ciclo había perdido intensidad. Todavía estaba ahí. Pero ya no lo controlaba. Solo era un pensamiento que pasaba, y Ruben, por primera vez en mucho tiempo, no lo había seguido.
 
 ---
 

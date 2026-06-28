@@ -25,7 +25,7 @@ La personalidad no es un destino. Es un punto de partida.
 
 **El Principio de la Personalidad como Patron Estable de Pensamiento, Emoción, y Comportamiento:** La psicología de la personalidad define la personalidad como los patrones relativamente estables y consistentes de pensamiento, emoción, y comportamiento que caracterizan a una persona y la distinguen de otras. Relativo y consistente son las palabras clave: la personalidad no es absolutamente fija (cambia a lo largo de la vida) pero tampoco es completamente fluida (los patrones tienden a mantenerse a traves de situaciones y del tiempo).
 
-Walter Mischel, en su influyente crítica a la consistencia de la personalidad (la persona-situation debate), mostró que el comportamiento es más variable segun la situación de lo que los tests de personalidad sugieren: la misma persona puede ser muy puntual en el trabajo y muy impuntual en contextos sociales, muy asertiva en las relaciones personales y muy timida en las profesionales. Esto no invalida la personalidad como concepto sino que complica el modo en que se debe usar.
+Walter Mischel, en su influyente crítica a la consistencia de la personalidad (la persona-situation debate), mostró que el comportamiento es más variable según la situación de lo que los tests de personalidad sugieren: la misma persona puede ser muy puntual en el trabajo y muy impuntual en contextos sociales, muy asertiva en las relaciones personales y muy timida en las profesionales. Esto no invalida la personalidad como concepto sino que complica el modo en que se debe usar.
 
 **Ejercicio inmediato:** Identifica un rasgo de tu personalidad que consideras estable. Luego reflexiona: ¿en que situaciones ese rasgo se expresa claramente y en cuales se modifica o desaparece? Esa variabilidad situacional no contradice el rasgo: ilustra los límites de la consistencia de la personalidad y la importancia del contexto.
 
@@ -83,7 +83,7 @@ Elena tiene veintisiete años y se pregunta si la personalidad que tiene ahora e
 
 La meta-análisis de Brent Roberts y colegas que integra datos de 92 estudios longitudinales muestra que la personalidad cambia más de lo que el estereotipo de que la personalidad es fija sugiere, especialmente en la década de los veinte a los treinta años. Y que los cambios deliberados (a traves de psicoterapia, nuevas relaciones, o esfuerzo sostenido) son posibles aunque más lentos que los cambios espontaneos.
 
-**Ejercicio inmediato:** Compara tu personalidad actual con cómo la describirias cinco años atras. Hay rasgos que han cambiado? ¿Que experiencias o decisiones los cambiaron? Esa reflexión muestra que la personalidad tiene una historia de cambio que hace plausible el cambio futuro.
+**Ejercicio inmediato:** Compara tu personalidad actual con cómo la describirias cinco años atrás. Hay rasgos que han cambiado? ¿Que experiencias o decisiones los cambiaron? Esa reflexión muestra que la personalidad tiene una historia de cambio que hace plausible el cambio futuro.
 
 No eres la misma persona que eras hace cinco años. Y no seras exactamente la misma que eres ahora dentro de cinco.
 

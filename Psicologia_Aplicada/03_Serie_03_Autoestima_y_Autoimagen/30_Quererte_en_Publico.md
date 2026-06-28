@@ -67,7 +67,7 @@ Elena revisa lo que dice en las reuniones antes de decirlo para asegurarse de qu
 
 **El Principio del Coste Cognitivo de la Gestión de Imagen:** Robert Cialdini, en su investigación sobre la influencia social, y Thomas Gilovich, en su investigación sobre el efecto foco, documentan que las personas sobreestiman sistemáticamente el grado en que los demás las evaluan y el tiempo que los demás dedican a pensar en ellas. El efecto foco produce la sensación de estar bajo un microscopio social que en realidad no existe con esa intensidad.
 
-Ademas del coste de la sobreestimación del juicio, hay el coste cognitivo de la gestión de imagen: los recursos mentales dedicados a monitorizar la propia presentación en lugar de estar presentes en la interacción. La persona muy preocupada por como parece frecuentemente esta menos presente en la conversación, lo que deteriora la calidad de la interacción y produce la desconexion que temía producir.
+Además del coste de la sobreestimación del juicio, hay el coste cognitivo de la gestión de imagen: los recursos mentales dedicados a monitorizar la propia presentación en lugar de estar presentes en la interacción. La persona muy preocupada por como parece frecuentemente esta menos presente en la conversación, lo que deteriora la calidad de la interacción y produce la desconexion que temía producir.
 
 **Ejercicio inmediato:** En tu próxima interacción pública o semipublica, práctica redirigir toda tu atención hacía la persona o el contenido del intercambio en lugar de hacía tu propia presentación. La paradoja es que la atención menos centrada en uno mismo frecuentemente produce una mejor impresión que la gestión activa de imagen.
 
@@ -77,7 +77,7 @@ Cuanto más te preocupas por como parecer, menos capaz eres de estar presente. Y
 
 ## Capítulo 5: Pertenencia versus encaje: la diferencia que importa
 
-Ruben cambia quien es segun el grupo social en el que esta. No en el sentido de adaptación de estilo (que es normal y funcional) sino en el sentido de adoptar valores, opiniones y actitudes de grupos a los que quiere pertenecer, a veces a expensas de lo que genuinamente piensa o valora.
+Ruben cambia quien es según el grupo social en el que esta. No en el sentido de adaptación de estilo (que es normal y funcional) sino en el sentido de adoptar valores, opiniones y actitudes de grupos a los que quiere pertenecer, a veces a expensas de lo que genuinamente piensa o valora.
 
 **El Principio de la Diferencia entre Pertenencia y Encaje:** Brene Brown hace una distinción que tiene consecuencias profundas: la pertenencia es la necesidad psicológica humana fundamental de ser parte de algo más grande que uno mismo, mientras el encaje (fitting in) es la evaluación de a que debo parecerme para ser aceptado en este grupo y la adaptación del yo a ese estandar. La paradoja es que el encaje, que busca la pertenencia, impide la pertenencia genuina porque la pertenencia real requiere ser visto tal cómo se es, no cómo una versión ajustada del yo.
 
@@ -113,7 +113,7 @@ Este enfoque resuelve la falsa dicotomia entre mascara total (no revelar nada ge
 
 **Ejercicio inmediato:** Define dos o tres niveles de revelación del yo para distintos tipos de relación en tu vida: lo que compartirias con cualquier conocido, lo que compartiras solo con amigos cercanos, y lo que compartiras solo con personas de maxima confianza. Esta estructura de límites de revelación es la que permite la autenticidad sin sobreexposición.
 
-La autenticidad no es un interruptor de todo o nada. Es un dimmer que ajustas segun el contexto y la confianza.
+La autenticidad no es un interruptor de todo o nada. Es un dimmer que ajustas según el contexto y la confianza.
 
 ---
 

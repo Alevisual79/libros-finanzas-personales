@@ -91,7 +91,7 @@ La libertad total es el paraiso de la procrastinación y el desierto de la creat
 
 ## Capítulo 6: El cerebro en modo default: cuando no hacer nada es hacer mucho
 
-Isabel tiene las mejores ideas en los momentos menos esperados: mientras conduce, duchándose, en medio de la noche. Nunca ha entendido por qué ocurre asi. La neurociencia tiene una explicación precisa.
+Isabel tiene las mejores ideas en los momentos menos esperados: mientras conduce, duchándose, en medio de la noche. Nunca ha entendido por qué ocurre así. La neurociencia tiene una explicación precisa.
 
 **El Principio de la Red de Modo Default como Motor de Incubación:** La red de modo default (Default Mode Network) es un conjunto de regiones cerebrales que se activa cuando el cerebro no está enfocado en una tarea dirigida externamente: durante la ensoñación, la memoria episodica, la planificación del futuro y la mentalización. Marcus Raichle, neurocientífico de Washington University que identifico esta red, y posteriormente Roger Beaty y sus colegas, mostraron que la DMN tiene un rol central en los procesos creativos, especialmente en la generación de conexiones remotas entre conceptos que el pensamiento focalizado no establece.
 

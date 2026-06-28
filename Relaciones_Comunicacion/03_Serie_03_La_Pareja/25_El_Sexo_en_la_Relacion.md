@@ -47,7 +47,7 @@ El deseo sexual en las relaciones largas no decrece porque el amor se acaba. Dec
 
 **El Principio de la Habituación y el Deseo:** El deseo prospera con la novedad. El cerebro responde con mayor activación dopaminergica a los estímulos nuevos que a los familiares. En las primeras etapas de una relación, todo es nuevo: el cuerpo del otro, la forma de moverse, los sonidos, las respuestas. Con el tiempo, la familiaridad reduce la respuesta dopaminergica. Esto no es un fallo de la relación. Es la arquitectura neurológica del deseo.
 
-Ademas, las relaciones largas acumulan carga de responsabilidades, estrés cotidiano, roles no eroticos (ser el otro el que saca la basura, el que cuida cuando hay enfermedad, el que habla de las facturas) que crean una imagen del otro que compite con la imagen erotica.
+Además, las relaciones largas acumulan carga de responsabilidades, estrés cotidiano, roles no eroticos (ser el otro el que saca la basura, el que cuida cuando hay enfermedad, el que habla de las facturas) que crean una imagen del otro que compite con la imagen erotica.
 
 **Ejercicio inmediato:** Identifica los tres factores que más han contribuido a que el deseo en tu relación sea diferente a como era al principio. No para lamentarlos sino para saber con que estas trabajando. La habituación tiene soluciones. El estrés tiene soluciones. Las dinámicas de rol tienen soluciones. El primer paso es identificar cuales de los tres son los más activos.
 

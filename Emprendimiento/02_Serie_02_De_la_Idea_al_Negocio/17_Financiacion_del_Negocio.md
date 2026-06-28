@@ -51,7 +51,7 @@ Buscar venture capital cuando eres una idea sin validar es como buscar trabajo d
 
 Lucia ha empezado a explorar el mundo de los business angels y ha aprendido que es mucho más relacional de lo que esperaba.
 
-**El Principio de los Business Angels como Inversores que Evaluan al Fundador Tanto o Más que al Negocio porque Invierten en Etapas donde el Negocio Todavia Es Fundamentalmente Una Apuesta sobre la Persona:** Los business angels son tipicamente ex-emprendedores o ejecutivos con patrimonio propio que invierten entre diez mil y quinientos mil euros en empresas en fases muy tempranas a cambio de entre el 5% y el 20% del capital. Su ventaja sobre los fondos de venture capital es la velocidad de decisión, la flexibilidad en los terminos, y frecuentemente el valor añadido en forma de mentoría, contactos, y experiencia sectorial.
+**El Principio de los Business Angels como Inversores que Evaluan al Fundador Tanto o Más que al Negocio porque Invierten en Etapas donde el Negocio Todavía Es Fundamentalmente Una Apuesta sobre la Persona:** Los business angels son tipicamente ex-emprendedores o ejecutivos con patrimonio propio que invierten entre diez mil y quinientos mil euros en empresas en fases muy tempranas a cambio de entre el 5% y el 20% del capital. Su ventaja sobre los fondos de venture capital es la velocidad de decisión, la flexibilidad en los terminos, y frecuentemente el valor añadido en forma de mentoría, contactos, y experiencia sectorial.
 
 La investigación de Scott Shane sobre el perfil de los business angels muestra que la mayoría (alrededor del 70%) son ex-emprendedores o ejecutivos que invierten en sectores que conocen bien, y que el factor de mayor peso en su decisión de inversión es la calidad del equipo fundador: su capacidad de ejecutar, su nivel de conocimiento del mercado, y su disposición a aprender y adaptarse.
 
@@ -99,7 +99,7 @@ La investigación de Neilson sobre la psicología de los inversores en pitch com
 
 **Ejercicio inmediato:** Prepara la primera slide de tu pitch (la del problema) en tres versiones: ¿una con estadísticas (X millones de personas tienen el problema Y que cuesta Z en perdidas), una con historia (cuenta la historia de un cliente específico que tiene el problema), y una con una pregunta que el inversor pueda contestar con su propia experiencia (han tenido problemas con X? Pues eso les ocurre a X millones de personas). Presenta las tres versiones a cinco personas de confianza y observa cual produce mayor reacción emocional. Usa esa versión.
 
-El pitch que el inversor quiere oir no es el que describe tu negocio. Es el que le hace ver el problema que todavia no había visto claramente.
+El pitch que el inversor quiere oir no es el que describe tu negocio. Es el que le hace ver el problema que todavía no había visto claramente.
 
 ---
 
@@ -111,7 +111,7 @@ Marcos ha tenido que estudiar con cuidado los terminos de un termsheet que recib
 
 Brad Feld y Jason Mendelson, en Venture Deals, documentan que muchos fundadores priorizan la negociación de la valoración (que es visible y emocional) sobre la negociación de los terminos de control (que son más opacos pero frecuentemente más impactantes). Un inversor con clausulas de control fuerte puede tener más impacto en el negocio que la diferencia de un milion de euros en la valoración.
 
-**Ejercicio inmediato:** Si estas cerca de firmar un termsheet o tienes uno en mano, contrata a un abogado especializado en startup law para que lo revise aunque crea que lo entiendes. El coste de un abogado especializado es una fracción del coste de firmar clausulas que no entendias. Y si todavia no tienes el termsheet, estudia los terminos más comunes en recursos como el libro Venture Deals o el sitio de NVCA (National Venture Capital Association) que tiene modelos de termsheet comentados.
+**Ejercicio inmediato:** Si estas cerca de firmar un termsheet o tienes uno en mano, contrata a un abogado especializado en startup law para que lo revise aunque crea que lo entiendes. El coste de un abogado especializado es una fracción del coste de firmar clausulas que no entendias. Y si todavía no tienes el termsheet, estudia los terminos más comunes en recursos como el libro Venture Deals o el sitio de NVCA (National Venture Capital Association) que tiene modelos de termsheet comentados.
 
 El terminó del contrató que no entiendes no desaparece porque no lo hayas leido con atención. Simplemente te sorprende después.
 
@@ -125,7 +125,7 @@ Carlos ha pasado por su primer proceso de due diligence y ha aprendido que la pr
 
 El fundador que tiene la documentación organizada y accesible acelera el due diligence y produce mayor confianza en el inversor. El que tiene la documentación desorganizada o incompleta genera dudas sobre la calidad de la gestión del negocio.
 
-**Ejercicio inmediato:** Prepara un data room virtual (una carpeta compartida con documentación organizada) aunque todavia no estes en proceso de inversión: estados financieros de los últimos doce meses, proyecciones para los próximos veinticuatro, contratos con los principales clientes, documentación legal de la empresa (constitución, estatutos, registro de socios), y curriculum actualizado de los fundadores. Tener esa documentación organizada es una buena práctica independientemente de si buscas inversión.
+**Ejercicio inmediato:** Prepara un data room virtual (una carpeta compartida con documentación organizada) aunque todavía no estes en proceso de inversión: estados financieros de los últimos doce meses, proyecciones para los próximos veinticuatro, contratos con los principales clientes, documentación legal de la empresa (constitución, estatutos, registro de socios), y curriculum actualizado de los fundadores. Tener esa documentación organizada es una buena práctica independientemente de si buscas inversión.
 
 El inversor que encuentra el data room perfectamente organizado ya empieza a confiar en la capacidad de gestión del fundador.
 

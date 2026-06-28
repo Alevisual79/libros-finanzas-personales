@@ -127,7 +127,7 @@ La investigación de Sheena Iyengar y Mark Lepper sobre la paradoja de la elecci
 
 **Ejercicio inmediato:** Identifica una decisión que tienes pendiente que estas gestionando en piloto automático (siguiendo la inercia, la costumbre, o lo que otros esperan). Detente y pregunta: ¿si elijo desde mis valores más profundos, sin la presión de la inercia o de la expectativa ajena, que elegiria? La respuesta puede ser la misma que la inercia. O puede no serlo. Pero al menos será una elección.
 
-La decisión que tomas porque siempre lo has hecho asi no es una decisión. Es una inercia con la apariencia de decisión.
+La decisión que tomas porque siempre lo has hecho así no es una decisión. Es una inercia con la apariencia de decisión.
 
 ---
 

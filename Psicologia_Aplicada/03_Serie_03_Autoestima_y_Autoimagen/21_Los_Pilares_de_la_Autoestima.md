@@ -49,7 +49,7 @@ La autoestima no la construyen tus logros. La construye como te comportas contig
 
 ## Capítulo 3: La autoestima contingente: el problema de depender de los resultados
 
-Ruben tiene buena autoestima cuando le va bien en el trabajo y baja autoestima cuando tiene dificultades. Esta fluctuación constante segun los resultados externos es lo que los investigadores llaman autoestima contingente, y es una fuente importante de vulnerabilidad psicológica.
+Ruben tiene buena autoestima cuando le va bien en el trabajo y baja autoestima cuando tiene dificultades. Esta fluctuación constante según los resultados externos es lo que los investigadores llaman autoestima contingente, y es una fuente importante de vulnerabilidad psicológica.
 
 **El Principio de la Autoestima No Contingente como Meta:** Jennifer Crocker, psicóloga de Ohio State que ha investigado la autoestima contingente extensamente, documenta que las personas cuya autoestima depende fuertemente de resultados externos (logros académicos, aprobación de otros, atractivo físico, rendimiento en competencias) experimentan mayor ansiedad, mayor volatilidad emocional, y peor bienestar general que las personas con autoestima más estable e incondicional. Paradojicamente, la búsqueda activa de autoestima contingente (hacer cosas para sentirse mejor con uno mismo) produce frecuentemente el resultado opuesto.
 
@@ -123,9 +123,9 @@ Ruben se trata con una dureza extrema cuando comete errores. Esta dureza no prod
 
 **El Principio de la Autoestima Resiliente ante el Error:** Carol Dweck documenta que las personas con mentalidad de crecimiento (que ven las capacidades como desarrollables) no experimentan el error cómo una amenaza a su valor sino como información sobre que ajustar. Su autoestima es más estable ante el fracaso precisamente porque no esta ligada a la actuación perfecta sino al proceso de aprendizaje.
 
-Kristin Neff distingue entre la autoestima contingente al rendimiento (que baja con el error) y la autocompasión (que proporciona el mismo cuidado ante el error que se daria a un amigo en la misma situación). La autocompasión ante el error no reduce la responsabilidad ni la motivación para mejorar. Segun la investigación de Neff, aumenta la motivación intrinseca, el aprendizaje del error, y la capacidad de intentarlo de nuevo.
+Kristin Neff distingue entre la autoestima contingente al rendimiento (que baja con el error) y la autocompasión (que proporciona el mismo cuidado ante el error que se daria a un amigo en la misma situación). La autocompasión ante el error no reduce la responsabilidad ni la motivación para mejorar. Según la investigación de Neff, aumenta la motivación intrinseca, el aprendizaje del error, y la capacidad de intentarlo de nuevo.
 
-**Ejercicio inmediato:** Recuerda un error reciente que todavia te genera autocritica. Escribe como respondiste internamente a ese error. Luego escribe como habrías respondido si ese mismo error lo hubiera cometido un amigo cercano. La diferencia entre las dos respuestas es la autocompasión que te niegas a ti mismo.
+**Ejercicio inmediato:** Recuerda un error reciente que todavía te genera autocritica. Escribe como respondiste internamente a ese error. Luego escribe como habrías respondido si ese mismo error lo hubiera cometido un amigo cercano. La diferencia entre las dos respuestas es la autocompasión que te niegas a ti mismo.
 
 Como te tratas cuando te equivocas dice más sobre tu autoestima que como te tratas cuando tienes éxito.
 

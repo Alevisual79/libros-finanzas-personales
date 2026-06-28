@@ -55,7 +55,7 @@ Marcos ha optimizado su perfil de LinkedIn y en tres meses ha recibido más prop
 
 La investigación de LinkedIn sobre los perfiles que generan más oportunidades muestra que los que tienen todos los componentes completos y optimizados reciben veintiun veces más visualizaciones que los incompletos.
 
-**Ejercicio inmediato:** Audita tu perfil de LinkedIn contra los seis componentes críticos: ¿tienes una foto profesional actual?, el headline describe el valor que aportas o solo tu título de trabajo?, el about cuenta tu historia y propuesta de valor en tres párrafos o es solo un listado de responsabilidades?, la sección de experiencia incluye resultados medibles y logros específicos?, tienes al menos tres recomendaciones de clientes o colegas relevantes? Identifica el componente más debil y mejoralo esta semana. Un perfil mejorado genera más oportunidades que un perfil perfecto que no existe todavia.
+**Ejercicio inmediato:** Audita tu perfil de LinkedIn contra los seis componentes críticos: ¿tienes una foto profesional actual?, el headline describe el valor que aportas o solo tu título de trabajo?, el about cuenta tu historia y propuesta de valor en tres párrafos o es solo un listado de responsabilidades?, la sección de experiencia incluye resultados medibles y logros específicos?, tienes al menos tres recomendaciones de clientes o colegas relevantes? Identifica el componente más debil y mejoralo esta semana. Un perfil mejorado genera más oportunidades que un perfil perfecto que no existe todavía.
 
 El perfil de LinkedIn que describe lo que haces es un curriculum. El que describe el valor que produces para alguien específico es una herramienta de marketing.
 

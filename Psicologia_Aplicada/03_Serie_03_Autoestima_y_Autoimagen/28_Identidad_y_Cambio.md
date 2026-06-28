@@ -39,7 +39,7 @@ Elena ha pasado por una separación que ha cuestionado aspectos fundamentales de
 
 **El Principio de la Crisis de Identidad como Reorganización Necesaria:** Erikson propuso que las crisis de identidad (momentos de confusión sobre quien se es y adonde se va) no son signos de fracaso sino de crecimiento en curso. La persona que nunca experimenta crisis de identidad frecuentemente ha evitado las preguntas fundamentales sobre quien es y como quiere vivir, settleandose en una identidad no examinada (foreclosure, en la terminologia de James Marcia).
 
-James Marcia, psicologo que operacionalizo la teoria de Erikson, identifico cuatro estatus de identidad: difusión (no hay exploración ni compromiso), foreclosure (compromiso sin exploración, identidad heredada sin cuestionarse), moratorium (exploración sin compromiso todavia, que es la crisis activa), y logró de identidad (exploración seguida de compromiso consciente). El moratorium, aunque incomodo, es necesario para el logró de identidad genuino.
+James Marcia, psicologo que operacionalizo la teoria de Erikson, identifico cuatro estatus de identidad: difusión (no hay exploración ni compromiso), foreclosure (compromiso sin exploración, identidad heredada sin cuestionarse), moratorium (exploración sin compromiso todavía, que es la crisis activa), y logró de identidad (exploración seguida de compromiso consciente). El moratorium, aunque incomodo, es necesario para el logró de identidad genuino.
 
 **Ejercicio inmediato:** Evalua tu situación actual de identidad usando los cuatro estatus de Marcia. Hay áreas de tu vida (trabajo, relaciones, valores) donde tienes identidad por logró (elegida conscientemente después de exploración), otras por foreclosure (adoptada sin cuestionarse), y quizas algunas en moratorium (bajo exploración activa)? Esa evaluación muestra donde estas en proceso y donde no.
 
@@ -65,9 +65,9 @@ Lo que haces es una parte importante de quien eres. Pero no puede ser todo, porq
 
 Isabel se da cuenta de que es una persona diferente con su madre que con sus amigos, diferente en el trabajo que en una reunión familiar. No sabe si eso es autenticidad (se adapta al contexto) o falta de autenticidad (no es ella misma en todos los contextos).
 
-**El Principio de la Identidad Relacional como Adaptación Funcional:** William James, filosofo y psicologo del siglo XIX, ya observo que el hombre tiene tantos yos sociales como individuos que lo reconocen. Esta multiplicidad del yo social no es inconsistencia sino adaptación contextual: la persona que es exactamente igual en todos los contextos no es más autentica sino más rigida, incapaz de modular su comportamiento segun las demandas del entorno.
+**El Principio de la Identidad Relacional como Adaptación Funcional:** William James, filosofo y psicologo del siglo XIX, ya observo que el hombre tiene tantos yos sociales como individuos que lo reconocen. Esta multiplicidad del yo social no es inconsistencia sino adaptación contextual: la persona que es exactamente igual en todos los contextos no es más autentica sino más rigida, incapaz de modular su comportamiento según las demandas del entorno.
 
-La distinción útil es entre adaptación de estilo (cambiar como te expresas segun el contexto manteniendo el mismo nucleo de valores) y traición al yo (cambiar lo que piensas, lo que valores, o lo que necesitas para ser aceptado en ese contexto). La primera es habilidad social. La segunda es la que erosiona la autenticidad.
+La distinción útil es entre adaptación de estilo (cambiar como te expresas según el contexto manteniendo el mismo nucleo de valores) y traición al yo (cambiar lo que piensas, lo que valores, o lo que necesitas para ser aceptado en ese contexto). La primera es habilidad social. La segunda es la que erosiona la autenticidad.
 
 **Ejercicio inmediato:** Identifica un contexto donde te sientes más tu mismo (más autentico, más libre de ser quien eres) y un contexto donde te sientes menos tu mismo (más forzado, más ajustado a lo que crees que esperan). Compara: ¿la diferencia esta en como te expresas (adaptación de estilo) o en que valores o necesidades estas suprimiendo (traición al yo)?
 
@@ -105,15 +105,15 @@ El yo que eres hoy lleva contigo a todas las versiones que has sido. Eso es cont
 
 ## Capítulo 7: Identidad en transición: momentos de umbral
 
-Ruben esta en un momento de transición: ha dejado un trabajo que le ocupaba mucho de su identidad y todavia no sabe con claridad que viene después. Esta en lo que el antropologo Victor Turner llamaria liminalidad: el estado umbral entre quien se era y quien todavia no se sabe que se será.
+Ruben esta en un momento de transición: ha dejado un trabajo que le ocupaba mucho de su identidad y todavía no sabe con claridad que viene después. Esta en lo que el antropologo Victor Turner llamaria liminalidad: el estado umbral entre quien se era y quien todavía no se sabe que se será.
 
-**El Principio de la Liminalidad como Espacio Creativo:** Victor Turner estudio los rituales de transición en culturas diversas y propuso el concepto de liminalidad: el estado intermedio en los ritos de paso, donde el individuo ya no es lo que era pero todavia no es lo que será. Este estado es inevitablemente incómodo (la certeza del estatus anterior ha desaparecido, la certeza del nuevo todavia no existe) pero es también el espacio de mayor potencial transformativo.
+**El Principio de la Liminalidad como Espacio Creativo:** Victor Turner estudio los rituales de transición en culturas diversas y propuso el concepto de liminalidad: el estado intermedio en los ritos de paso, donde el individuo ya no es lo que era pero todavía no es lo que será. Este estado es inevitablemente incómodo (la certeza del estatus anterior ha desaparecido, la certeza del nuevo todavía no existe) pero es también el espacio de mayor potencial transformativo.
 
-William Bridges, asesor organizacional que adapto el concepto de transición al contexto contemporaneo, propone que las transiciones tienen tres fases: la terminación (soltar la identidad anterior), la zona neutral (la liminalidad de no saber todavia), y el nuevo comienzo. La zona neutral, aunque la persona frecuentemente intenta saltar sobre ella hacía el nuevo comienzo, es donde ocurre el trabajo más importante de reorganización de la identidad.
+William Bridges, asesor organizacional que adapto el concepto de transición al contexto contemporaneo, propone que las transiciones tienen tres fases: la terminación (soltar la identidad anterior), la zona neutral (la liminalidad de no saber todavía), y el nuevo comienzo. La zona neutral, aunque la persona frecuentemente intenta saltar sobre ella hacía el nuevo comienzo, es donde ocurre el trabajo más importante de reorganización de la identidad.
 
-**Ejercicio inmediato:** Si estas en una transición de identidad, identifica en cual de las tres fases de Bridges te encuentras. Si estas en la zona neutral, diseña una práctica deliberada para habitarla en lugar de saltarla: llevar un diario de lo que estas descubriendo sobre ti mismo en este período, permitirte explorar sin comprometerte todavia, o establecer una pequeña rutina que proporcione estructura mientras el marcó más amplio todavia está siendo redefinido.
+**Ejercicio inmediato:** Si estas en una transición de identidad, identifica en cual de las tres fases de Bridges te encuentras. Si estas en la zona neutral, diseña una práctica deliberada para habitarla en lugar de saltarla: llevar un diario de lo que estas descubriendo sobre ti mismo en este período, permitirte explorar sin comprometerte todavía, o establecer una pequeña rutina que proporcione estructura mientras el marcó más amplio todavía está siendo redefinido.
 
-Los mejores capítulos de una vida frecuentemente empiezan en los momentos donde todavia no sabes como van a continuar.
+Los mejores capítulos de una vida frecuentemente empiezan en los momentos donde todavía no sabes como van a continuar.
 
 ---
 
@@ -161,7 +161,7 @@ Puedes cambiar radicalmente en muchas cosas y seguir siendo reconociblemente tu.
 
 ## Epílogo
 
-Ruben ha decidido ver los cambios en quien es no como traición a quien fue sino como evidencia de que ha seguido viviendo con suficiente apertura como para que la experiencia le cambie. No todo lo que ha cambiado le gusta. Pero incluso los cambios que no le gustan le dicen algo sobre quien es ahora que quien era antes no sabía todavia. La historia que es el sigue siendo su historia, con más capítulos que antes.
+Ruben ha decidido ver los cambios en quien es no como traición a quien fue sino como evidencia de que ha seguido viviendo con suficiente apertura como para que la experiencia le cambie. No todo lo que ha cambiado le gusta. Pero incluso los cambios que no le gustan le dicen algo sobre quien es ahora que quien era antes no sabía todavía. La historia que es el sigue siendo su historia, con más capítulos que antes.
 
 ---
 
