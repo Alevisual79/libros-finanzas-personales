@@ -101,7 +101,7 @@ La empatia es fácil con las personas que nos gustan. Es la habilidad relacional
 
 **El Principio de la Empatia Independiente de la Aprobación:** La empatia no requiere aprobación. Puedes entender la perspectiva de alguien con quien estaras en desacuerdo. Puedes entender como alguien llegó a una conducta que consideras incorrecta sin por eso estar de acuerdo con esa conducta. Separar la comprensión de la aprobación es la clave de la empatia con personas difíciles.
 
-Esto es especialmente relevante en contextos de conflicto: entender cómo la otra persona llegó a su posición, que necesidades hay detras de su conducta, que historia personal la llevo a ser quien es, no implica que tengas que estar de acuerdo. Pero produce conversaciones muy distintas.
+Esto es especialmente relevante en contextos de conflicto: entender cómo la otra persona llegó a su posición, que necesidades hay detrás de su conducta, que historia personal la llevo a ser quien es, no implica que tengas que estar de acuerdo. Pero produce conversaciones muy distintas.
 
 **Ejercicio inmediato:** Piensa en una persona con la que tienes dificultad. Intenta construir la narrativa de por qué esa persona es como es, que la llevo a desarrollar las conductas que te resultan difíciles, que necesidades satisface con esas conductas. Ese ejercicio no justifica nada. Abre comprensión donde antes solo había rechazó.
 

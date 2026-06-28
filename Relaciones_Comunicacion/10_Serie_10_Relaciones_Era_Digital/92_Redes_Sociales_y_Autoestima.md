@@ -71,7 +71,7 @@ Curar tu feed de redes sociales no es debilidad ni evasión. Es la misma gestió
 
 El sistema de recompensa basado en likes y reacciones genera un ciclo neuroquimico específico que puede convertirse en un patron de búsqueda compulsiva de validación externa a traves de la publicación de contenido.
 
-**El Principio del Ciclo de Validación Dopaminergica:** Cada like o reacción positiva genera una pequeña liberación de dopamina que refuerza el comportamiento de publicar, generando un ciclo donde la búsqueda de esta validación puede convertirse en una motivación central detras de las decisiones de que y como compartir, en lugar de que la publicación refleje una expresión autentica desconectada de esa búsqueda de aprobación externa.
+**El Principio del Ciclo de Validación Dopaminergica:** Cada like o reacción positiva genera una pequeña liberación de dopamina que refuerza el comportamiento de publicar, generando un ciclo donde la búsqueda de esta validación puede convertirse en una motivación central detrás de las decisiones de que y como compartir, en lugar de que la publicación refleje una expresión autentica desconectada de esa búsqueda de aprobación externa.
 
 **Ejercicio inmediato:** Reflexiona sobre tu propia motivación al publicar contenido en redes sociales: ¿lo haces principalmente desde un deseo de compartir autenticamente, o desde una búsqueda activa de validación a traves de reacciones?
 

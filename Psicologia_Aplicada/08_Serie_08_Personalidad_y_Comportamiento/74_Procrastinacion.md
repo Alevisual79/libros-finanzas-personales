@@ -153,7 +153,7 @@ Isabel ha llegado al final del libro y quiere construir una relación con el tra
 
 La investigación de Self-Determination Theory (Ryan y Deci) muestra que la motivación autonoma (hacer algo por su valor intrinseco o porque es coherente con la propia identidad) produce mayor rendimiento, mayor bienestar, y mayor persistencia que la motivación controlada (hacerlo por presión externa o culpa).
 
-**Ejercicio inmediato:** Para las tres tareas que más procrastinas, reflexiona: ¿tienen algun valor o conexión con lo que te importa? Si la respuesta es no, esa información es relevante: quizas la procrastinación sea feedback de que esa tarea merece ser delegada, eliminada, o renegociada. Si la respuesta es si, conectar explicitamente la tarea con su valor (esto importa porque...) antes de empezar puede reducir la resistencia.
+**Ejercicio inmediato:** Para las tres tareas que más procrastinas, reflexiona: ¿tienen algun valor o conexión con lo que te importa? Si la respuesta es no, esa información es relevante: quizás la procrastinación sea feedback de que esa tarea merece ser delegada, eliminada, o renegociada. Si la respuesta es si, conectar explicitamente la tarea con su valor (esto importa porque...) antes de empezar puede reducir la resistencia.
 
 La productividad que no esta conectada con lo que importa es una carrera que no lleva a ningún lugar. Y la procrastinación, a veces, es la forma que tiene el cuerpo de decirtelo.
 

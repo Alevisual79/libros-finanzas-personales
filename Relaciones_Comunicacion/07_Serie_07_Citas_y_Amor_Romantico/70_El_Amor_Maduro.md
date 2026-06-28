@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel tiene cincuenta y dos años y acaba de enamorarse de alguien por primera vez sin esa euforia adolescente que recordaba de sus relaciones anteriores. No hay obsesión, no hay la sensación de no poder pensar en otra cosa. Hay, en su lugar, algo más tranquilo, más claro, más elegido. Y es mejor. Mucho mejor de lo que jamas habría imaginado que el amor pudiera sentirse.
+Isabel tiene cincuenta y dos años y acaba de enamorarse de alguien por primera vez sin esa euforia adolescente que recordaba de sus relaciones anteriores. No hay obsesión, no hay la sensación de no poder pensar en otra cosa. Hay, en su lugar, algo más tranquilo, más claro, más elegido. Y es mejor. Mucho mejor de lo que jamás habría imaginado que el amor pudiera sentirse.
 
 ---
 

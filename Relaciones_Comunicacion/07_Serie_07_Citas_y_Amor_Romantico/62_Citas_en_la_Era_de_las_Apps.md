@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben lleva un año usando aplicaciones de citas y ha tenido doce primeras citas. Ninguna ha llevado a una segunda. El problema, descubre eventualmente con algo de ayuda externa, no es la aplicación en si misma. Es la forma en que la está usando, sin estrategia, sin reflexión, y sin entender las dinámicas psicológicas específicas que las apps de citas generan y que requieren un enfoque distinto del que el cortejo tradicional jamas requirio.
+Ruben lleva un año usando aplicaciones de citas y ha tenido doce primeras citas. Ninguna ha llevado a una segunda. El problema, descubre eventualmente con algo de ayuda externa, no es la aplicación en si misma. Es la forma en que la está usando, sin estrategia, sin reflexión, y sin entender las dinámicas psicológicas específicas que las apps de citas generan y que requieren un enfoque distinto del que el cortejo tradicional jamás requirio.
 
 ---
 

@@ -119,7 +119,7 @@ La traición de un amigo y la de una pareja duelen distinto porque afectan dimen
 
 Las relaciones que continuan después de una traición, ya sea con la persona específica o en nuevas relaciones futuras, requieren tolerar un nivel de incertidumbre sobre el futuro que la confianza previa, ahora rota, ya no proporciona automáticamente.
 
-**El Principio de la Tolerancia a la Incertidumbre Post-Traición:** Reconstruir cualquier relación después de una traición, o iniciar nuevas relaciones después de haber experimentado una, requiere desarrollar tolerancia a un nivel de incertidumbre que antes de la traición quizas no se sentía presente, pero que en realidad siempre estuvo ahí de forma latente en cualquier relación humana.
+**El Principio de la Tolerancia a la Incertidumbre Post-Traición:** Reconstruir cualquier relación después de una traición, o iniciar nuevas relaciones después de haber experimentado una, requiere desarrollar tolerancia a un nivel de incertidumbre que antes de la traición quizás no se sentía presente, pero que en realidad siempre estuvo ahí de forma latente en cualquier relación humana.
 
 **Ejercicio inmediato:** Reflexiona sobre como podrías desarrollar mayor tolerancia a la incertidumbre inherente en las relaciones, sin que esto signifique negar las señales reales de riesgo que merecen atención.
 

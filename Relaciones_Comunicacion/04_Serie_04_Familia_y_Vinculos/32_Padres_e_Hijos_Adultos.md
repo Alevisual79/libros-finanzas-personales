@@ -53,7 +53,7 @@ La autonomía creciente del hijo adulto, especialmente cuando implica decisiones
 
 **Ejercicio inmediato:** La próxima vez que sientas crítica de tus padres sobre una decisión tuya, intenta preguntarles directamente: ¿te preocupa algo específico sobre esta decisión? Nombrar el miedo subyacente puede cambiar la conversación de un conflicto sobre control a una conversación sobre preocupación real.
 
-Detras de mucha crítica parental hay miedo que nunca aprendió a expresarse de otra forma.
+Detrás de mucha crítica parental hay miedo que nunca aprendió a expresarse de otra forma.
 
 ---
 

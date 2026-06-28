@@ -47,7 +47,7 @@ El mito de la autosuficiencia total produce lo que los investigadores llaman el 
 
 **Ejercicio inmediato:** Piensa en la última vez que pediste ayuda de verdad, no ayuda práctica sino apoyo emocional. Si no puedes recordarlo, ese es el dato que necesitas. La autosuficiencia que no incluye la capacidad de recibir apoyo no es fortaleza. Es aislamiento disfrazado.
 
-La persona más fuerte que conoces también necesita ser sostenida a veces. Solo que quizas nunca te lo ha mostrado.
+La persona más fuerte que conoces también necesita ser sostenida a veces. Solo que quizás nunca te lo ha mostrado.
 
 ---
 

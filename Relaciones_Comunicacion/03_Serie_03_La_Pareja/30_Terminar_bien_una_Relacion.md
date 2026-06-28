@@ -145,7 +145,7 @@ Una relación que termina no es un fracaso. Es un capítulo que, bien procesado,
 
 Isabel terminó una relación de seis años hace dos. Al principio, el dolor parecia imposible de superar. Con el tiempo, y con el trabajo deliberado de procesar el duelo en lugar de evitarlo, llegó a un lugar de paz con esa etapa de su vida. Hoy puede hablar de esa relación sin amargura, reconociendo lo que le dio y lo que le enseño, incluida la enseñanza difícil de que algunas relaciones, aunque fueron reales y valiosas, no estaban destinadas a durar para siempre.
 
-Esa es, quizas, la lección final de esta serie sobre la pareja: que el amor que se construye, se cuida y a veces se termina, sigue siendo amor real, con valor real, independientemente de cuanto dure.
+Esa es, quizás, la lección final de esta serie sobre la pareja: que el amor que se construye, se cuida y a veces se termina, sigue siendo amor real, con valor real, independientemente de cuanto dure.
 
 ---
 

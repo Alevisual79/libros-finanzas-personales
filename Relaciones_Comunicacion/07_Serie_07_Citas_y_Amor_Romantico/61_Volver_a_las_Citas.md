@@ -49,7 +49,7 @@ Las rupturas, especialmente las que involucran rechazó, frecuentemente daña la
 
 **El Principio de la Reconstrucción Activa de Autoestima:** La autoestima dañada después de una ruptura no se reconstruye automáticamente con el paso del tiempo. Se beneficia de prácticas activas: reconectar con actividades y logros que generan sentido de competencia independiente de cualquier relación romantica, recordar conscientemente las cualidades propias que la relación anterior pudo haber erosionado, y, cuando es necesario, trabajo terapéutico que aborde las heridas más profundas que la ruptura pudo haber activado.
 
-**Ejercicio inmediato:** Identifica tres cualidades personales de las que te sentias orgulloso antes de tu última relación, y que quizas has dejado de reconocer en ti mismo desde entonces. Reconectar con ellas activamente es parte del trabajo de reconstrucción.
+**Ejercicio inmediato:** Identifica tres cualidades personales de las que te sentias orgulloso antes de tu última relación, y que quizás has dejado de reconocer en ti mismo desde entonces. Reconectar con ellas activamente es parte del trabajo de reconstrucción.
 
 La autoestima que una ruptura daño no se repara con el tiempo solo. Se repara con acción consciente de reconexion con quien eres más allá de esa relación.
 

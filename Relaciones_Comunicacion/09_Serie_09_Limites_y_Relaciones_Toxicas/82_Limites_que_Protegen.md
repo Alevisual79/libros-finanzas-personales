@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben sabe que necesita poner límites en varias de sus relaciones. Pero cuando llega el momento específico de hacerlo, siempre encuentra una razón plausible para postergarlo: no es el momento adecuado, podría malinterpretarse, quizas la situación mejore por si sola. El límite que nunca se dice, descubre eventualmente, no existe en ningún sentido práctico, sin importar cuanta claridad tenga internamente sobre su necesidad.
+Ruben sabe que necesita poner límites en varias de sus relaciones. Pero cuando llega el momento específico de hacerlo, siempre encuentra una razón plausible para postergarlo: no es el momento adecuado, podría malinterpretarse, quizás la situación mejore por si sola. El límite que nunca se dice, descubre eventualmente, no existe en ningún sentido práctico, sin importar cuanta claridad tenga internamente sobre su necesidad.
 
 ---
 

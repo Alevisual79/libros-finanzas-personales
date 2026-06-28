@@ -51,7 +51,7 @@ La distinción entre conflicto de tarea (sobre el contenido del trabajo) y confl
 
 **Ejercicio inmediato:** Evalua un desacuerdo reciente en tu equipo: ¿comenzo como conflicto de tarea legitimo (diferentes opiniones sobre la mejor decisión) o se convirtió, en algun punto, en conflicto personal (ataques sobre el carácter o la competencia de alguien)?
 
-El desacuerdo sobre la mejor decisión puede ser saludable. El ataque a la persona detras de la decisión casi nunca lo es.
+El desacuerdo sobre la mejor decisión puede ser saludable. El ataque a la persona detrás de la decisión casi nunca lo es.
 
 ---
 
@@ -107,7 +107,7 @@ Un conflicto con un cliente bien gestionado no solo resuelve el problema. Fortal
 
 Los conflictos que ocurren o se intensifican en contextos de trabajo remoto presentan desafios adicionales relacionados con la perdida de señales no verbales y la facilidad con que los malentendidos se amplifican a traves de comunicación escrita.
 
-**El Principio de la Amplificación del Malentendido a Distancia:** La comunicación escrita, predominante en el trabajo remoto, carece de tono de voz, expresión facial y otras señales no verbales que normalmente ayudan a interpretar correctamente la intención detras de un mensaje. Esta ausencia de contexto aumenta significativamente el riesgo de que mensajes neutros se interpreten como hostiles o que conflictos pequeños escalen rápidamente sin la oportunidad de aclaración inmediata que una conversación presencial permitiria.
+**El Principio de la Amplificación del Malentendido a Distancia:** La comunicación escrita, predominante en el trabajo remoto, carece de tono de voz, expresión facial y otras señales no verbales que normalmente ayudan a interpretar correctamente la intención detrás de un mensaje. Esta ausencia de contexto aumenta significativamente el riesgo de que mensajes neutros se interpreten como hostiles o que conflictos pequeños escalen rápidamente sin la oportunidad de aclaración inmediata que una conversación presencial permitiria.
 
 **Ejercicio inmediato:** Si tienes un conflicto que se ha intensificado a traves de comunicación escrita remota, considera proponer una llamada de voz o video para continuar la conversación, en lugar de seguir intercambiando mensajes escritos que podrían seguir amplificando el malentendido.
 

@@ -105,7 +105,7 @@ La experiencia que sobrevives sin integrar te pesa. La que integras en quien ere
 
 ## Capítulo 7: El proposito en la segunda mitad de la vida
 
-Isabel, a los cincuenta y dos, siente que la primera mitad de su vida ha estado orientada al logró y a la construcción, y que quizas la segunda mitad podría tener una orientación diferente.
+Isabel, a los cincuenta y dos, siente que la primera mitad de su vida ha estado orientada al logró y a la construcción, y que quizás la segunda mitad podría tener una orientación diferente.
 
 **El Principio de las Etapas del Proposito como Diferentes en las Distintas Fases de la Vida:** Erik Erikson propuso en su teoria del desarrollo del ciclo vital que las tareas psicológicas de la mediana edad y la vejez se centran en la generatividad (la preocupación por guiar y dejar algo para la siguiente generación) y la integridad (la aceptación de la propia vida como significativa y bien vivida). Estas tareas son cualitativamente diferentes de las de la juventud (identidad) y la adultez temprana (intimidad).
 
@@ -147,7 +147,7 @@ El proposito que solo existe en los grandes momentos es un proposito de fin de s
 
 ## Capítulo 10: El legado: el proposito que trasciende la propia vida
 
-Isabel piensa en que quiere dejar a las personas que vienen detras.
+Isabel piensa en que quiere dejar a las personas que vienen detrás.
 
 **El Principio del Legado como Dimensión del Proposito que Trasciende la Propia Vida y Conecta con la Continuidad Humana:** La investigación de Dan McAdams sobre las narrativas de vida muestra que las personas con mayor bienestar en la mediana y vejez frecuentemente tienen lo que el llama narrativas de redención: historias de su vida que incluyen sufrimiento transformado en crecimiento y contribución. Estas narrativas frecuentemente incluyen una dimensión de legado: la conciencia de que lo que hacen tiene efectos que perduran más allá de su propia vida.
 

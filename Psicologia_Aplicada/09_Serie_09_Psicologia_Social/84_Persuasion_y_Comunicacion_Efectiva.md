@@ -107,11 +107,11 @@ El argumento que no encaja en el marcó del que te escucha no lo escucha. Lo que
 
 Isabel aprende en cada negociación difícil que las objeciones no son el fin de la persuasión sino el principio de la negociación real.
 
-**El Principio de las Objeciones como Información Valiosa sobre los Intereses del Interlocutor:** La investigación de William Ury sobre la negociación basada en intereses (Getting to Yes, Harvard Negotiation Project) muestra que las posiciones que las personas expresan en una negociación (quiero X, no acepto Y) frecuentemente no son sus intereses reales sino las demandas específicas con las que creen que pueden satisfacer esos intereses. Identificar los intereses detras de las posiciones abre soluciones que las posiciones no permiten.
+**El Principio de las Objeciones como Información Valiosa sobre los Intereses del Interlocutor:** La investigación de William Ury sobre la negociación basada en intereses (Getting to Yes, Harvard Negotiation Project) muestra que las posiciones que las personas expresan en una negociación (quiero X, no acepto Y) frecuentemente no son sus intereses reales sino las demandas específicas con las que creen que pueden satisfacer esos intereses. Identificar los intereses detrás de las posiciones abre soluciones que las posiciones no permiten.
 
 Cuando alguien objeta a una propuesta, la objeción es frecuentemente una posición (esto no funciona porque X) que cubre un interés (necesito que el proceso sea predecible/que no ponga en riesgo mi área/que me de control sobre Y). Responder a la posición sin entender el interés subyacente produce argumentación improductiva.
 
-**Ejercicio inmediato:** En la próxima conversación donde recibas una objeción fuerte, práctica la exploración del interés detras de la posición: en lugar de responder a la objeción directamente, pregunta: ¿que es lo que te preocupa de esta propuesta? o que necesitaria tener para que esto funcionara desde tu perspectiva? Esas preguntas revelan el interés real que la posición cubre.
+**Ejercicio inmediato:** En la próxima conversación donde recibas una objeción fuerte, práctica la exploración del interés detrás de la posición: en lugar de responder a la objeción directamente, pregunta: ¿que es lo que te preocupa de esta propuesta? o que necesitaria tener para que esto funcionara desde tu perspectiva? Esas preguntas revelan el interés real que la posición cubre.
 
 La objeción que atacas frontalmente se defiende. La que explorar con curiosidad se comprende.
 

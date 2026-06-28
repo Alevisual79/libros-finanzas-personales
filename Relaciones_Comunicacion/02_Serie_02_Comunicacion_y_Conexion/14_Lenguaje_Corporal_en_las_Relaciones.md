@@ -87,7 +87,7 @@ Cuando la madre de Ruben le dice que no pasa nada con su tono habitual de que si
 
 Las palabras se pueden controlar. El tono filtra mucho menos. El tono que comunica enfado cuando las palabras dicen calma, o que comunica falta de interés cuando las palabras dicen que se está escuchando, desacredita el mensaje verbal en su totalidad.
 
-**Ejercicio inmediato:** Graba un fragmento de una conversación telefonica. Escuchala con la atención puesta solo en el tono, sin el contenido. ¿Que comunica el tono que quizas el contenido no hace visible? La distancia entre las dos capas es información sobre tu congruencia comunicativa.
+**Ejercicio inmediato:** Graba un fragmento de una conversación telefonica. Escuchala con la atención puesta solo en el tono, sin el contenido. ¿Que comunica el tono que quizás el contenido no hace visible? La distancia entre las dos capas es información sobre tu congruencia comunicativa.
 
 Las palabras que dices son la letra. El tono de voz es la musica. Y la musica es lo que la gente baila.
 

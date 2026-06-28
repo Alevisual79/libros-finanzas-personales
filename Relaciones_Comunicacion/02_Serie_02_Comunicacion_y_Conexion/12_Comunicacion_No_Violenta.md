@@ -65,9 +65,9 @@ Cuando nombras tu emoción real, el otro puede escucharte. Cuando lanzas un juic
 
 ## Capítulo 4: Necesidades: el corazón de la CNV
 
-Detras de cada crítica, de cada queja, de cada ataque verbal, hay una necesidad insatisfecha que no se está expresando directamente. Cuando Isabel le dice a su marido nunca me ayudas, la necesidad real puede ser apoyo, reconocimiento, descanso o colaboración. Pero eso no es lo que dice. Dice nunca, que es una acusación.
+Detrás de cada crítica, de cada queja, de cada ataque verbal, hay una necesidad insatisfecha que no se está expresando directamente. Cuando Isabel le dice a su marido nunca me ayudas, la necesidad real puede ser apoyo, reconocimiento, descanso o colaboración. Pero eso no es lo que dice. Dice nunca, que es una acusación.
 
-**El Principio de la Necesidad como Mensaje Real:** Rosenberg propone que toda comunicación, por destructiva que parezca en su forma, es un intento de satisfacer una necesidad. Los insultos son necesidades de ser escuchado expresadas de forma disfuncional. Las críticas son necesidades de mejora expresadas como ataques. Cuando aprendes a escuchar la necesidad detras del mensaje, la conversación cambia de nivel.
+**El Principio de la Necesidad como Mensaje Real:** Rosenberg propone que toda comunicación, por destructiva que parezca en su forma, es un intento de satisfacer una necesidad. Los insultos son necesidades de ser escuchado expresadas de forma disfuncional. Las críticas son necesidades de mejora expresadas como ataques. Cuando aprendes a escuchar la necesidad detrás del mensaje, la conversación cambia de nivel.
 
 Las necesidades universales incluyen: autonomía, celebración, integridad, interdependencia, conexión, comprensión. Ninguna necesidad es correcta o incorrecta. Lo que puede ser funcional o disfuncional es la estrategia que usamos para satisfacerla.
 
@@ -137,11 +137,11 @@ La CNV en el trabajo no significa hablar de emociones. Significa hablar con prec
 
 La situación más común cuando empiezas a practicar la CNV es que el otro no la práctica. Te habla con juicios, generalizaciones, exigencias y ataques. Y tu intentas mantener el proceso mientras la otra persona esta en modo batalla.
 
-**El Principio de la CNV Unilateral:** La CNV no requiere que ambas personas la conozcan para funcionar. Si una persona escucha la necesidad detras del ataque del otro, la conversación cambia aunque el otro no sepa nada de CNV. Cuando alguien grita y la respuesta es escuchó que esto es muy importante para ti, parece que necesitas que este más presente, la dinámica cambia en ese momento. La persona que mantiene el proceso ancla la conversación en otro nivel.
+**El Principio de la CNV Unilateral:** La CNV no requiere que ambas personas la conozcan para funcionar. Si una persona escucha la necesidad detrás del ataque del otro, la conversación cambia aunque el otro no sepa nada de CNV. Cuando alguien grita y la respuesta es escuchó que esto es muy importante para ti, parece que necesitas que este más presente, la dinámica cambia en ese momento. La persona que mantiene el proceso ancla la conversación en otro nivel.
 
 Rosenberg lo describe con la imagen del girafee y el chacal: el girafee puede escuchar el lenguaje chacal (ataques, críticas, juicios) y traducirlo internamente a necesidades antes de responder.
 
-**Ejercicio inmediato:** La próxima vez que alguien te ataque verbalmente, práctica la traducción interna: ¿que necesidad hay detras de ese ataque? Responde a la necesidad, no al ataque: parece que necesitas más apoyo en esto. Esa respuesta suele cambiar el tono de inmediato.
+**Ejercicio inmediato:** La próxima vez que alguien te ataque verbalmente, práctica la traducción interna: ¿que necesidad hay detrás de ese ataque? Responde a la necesidad, no al ataque: parece que necesitas más apoyo en esto. Esa respuesta suele cambiar el tono de inmediato.
 
 No necesitas que el otro cambie para cambiar la conversación.
 

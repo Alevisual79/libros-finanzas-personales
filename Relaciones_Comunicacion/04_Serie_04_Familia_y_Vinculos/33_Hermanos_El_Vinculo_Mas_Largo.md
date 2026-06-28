@@ -17,7 +17,7 @@
 
 Ruben tiene dos hermanos. No se han hablado en tres años. Ninguno recuerda con precisión como empezó el distanciamiento: una discusión sobre la herencia de sus padres que se mezclo con resentimientos más antiguos que ninguno había nombrado nunca. Lo que queda es el silencio, y la sensación de que el tiempo que pasa hace cada vez más difícil romperlo.
 
-La relación entre hermanos es, estadisticamente, la relación más larga de la vida humana: empieza antes que la relación con la pareja y, en la mayoría de los casos, sobrevive a los padres. Y sin embargo, es una de las relaciones menos cuidadas deliberadamente, quizas precisamente porque se asume que, por ser familia, se mantendra sin esfuerzo.
+La relación entre hermanos es, estadisticamente, la relación más larga de la vida humana: empieza antes que la relación con la pareja y, en la mayoría de los casos, sobrevive a los padres. Y sin embargo, es una de las relaciones menos cuidadas deliberadamente, quizás precisamente porque se asume que, por ser familia, se mantendra sin esfuerzo.
 
 ---
 
@@ -63,9 +63,9 @@ Los resentimientos entre hermanos, cuando no se nombran ni se procesan, tienden 
 
 **El Principio de la Acumulación Silenciosa:** Los resentimientos fraternos no expresados no desaparecen con el tiempo. Se acumulan, capa sobre capa, hasta que un conflicto puntual (a menudo aparentemente menor, cómo una decisión sobre una celebración familiar) se convierte en el detonante de una explosión que en realidad contiene años de agravios no procesados.
 
-**Ejercicio inmediato:** Si hay tensión persistente con un hermano, identifica si existe un resentimiento más antiguo y más profundo detras del conflicto actual. Nombrarlo, aunque sea solo para ti mismo, es el primer paso para procesarlo en lugar de dejarlo acumularse.
+**Ejercicio inmediato:** Si hay tensión persistente con un hermano, identifica si existe un resentimiento más antiguo y más profundo detrás del conflicto actual. Nombrarlo, aunque sea solo para ti mismo, es el primer paso para procesarlo en lugar de dejarlo acumularse.
 
-El conflicto fraterno que parece desproporcionado casi siempre tiene años de historia detras.
+El conflicto fraterno que parece desproporcionado casi siempre tiene años de historia detrás.
 
 ---
 

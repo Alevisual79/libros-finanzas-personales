@@ -97,7 +97,7 @@ Ruben ha descubierto que los momentos en que se siente mejor no son cuando recib
 
 Sonja Lyubomirsky y colegas encontraron que realizar cinco actos de bondad en un dia a la semana produce mayor aumento del bienestar que distribuir esos mismos actos a lo largo de los siete dias de la semana, sugiriendo que la concentración de la bondad produce un efecto acumulativo que la distribución diluye.
 
-**Ejercicio inmediato:** Esta semana, elige un dia para realizar tres actos de bondad deliberados (no necesariamente grandes): pagar el cafe de quien va detras en la cola, escribir un mensaje de agradecimiento genuino a alguien que ha tenido un impacto positivo en tu vida, ofrecer ayuda a alguien que lo necesita. Nota el efecto en tu propio estado de ánimo.
+**Ejercicio inmediato:** Esta semana, elige un dia para realizar tres actos de bondad deliberados (no necesariamente grandes): pagar el cafe de quien va detrás en la cola, escribir un mensaje de agradecimiento genuino a alguien que ha tenido un impacto positivo en tu vida, ofrecer ayuda a alguien que lo necesita. Nota el efecto en tu propio estado de ánimo.
 
 La bondad que produces en otros tiene un efecto de retorno en ti que ninguna terapia puede prescribir.
 

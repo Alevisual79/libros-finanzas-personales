@@ -69,7 +69,7 @@ Ruben siente verguenza por cosas que, cuando las analiza objetivamente, no habr�
 
 A nivel familiar, los mensajes sobre que merece verguenza o culpa se transmiten tempranamente a traves de la reacción de los padres ante los errores del niño, los temas que nunca se hablan, y las normas implícitas sobre que aspectos del yo son aceptables o inaceptables. Estos mensajes, internalizados antes de la capacidad de evaluarlos crítica, determinan en gran medida los patrones adultos de culpa y verguenza.
 
-**Ejercicio inmediato:** Identifica la fuente familiar de tu culpa o verguenza más persistente: ¿que mensaje específico sobre lo que es aceptable o inaceptable en ti esta detras de esa emoción? Ese mensaje, que probablemente fue aprendido en la infancia, no fue elegido conscientemente y puede ser cuestionado ahora con perspectiva adulta.
+**Ejercicio inmediato:** Identifica la fuente familiar de tu culpa o verguenza más persistente: ¿que mensaje específico sobre lo que es aceptable o inaceptable en ti esta detrás de esa emoción? Ese mensaje, que probablemente fue aprendido en la infancia, no fue elegido conscientemente y puede ser cuestionado ahora con perspectiva adulta.
 
 El código moral con el que te juzgas en la intimidad fue programado cuando eras demasiado pequeño para elegirlo. Es hora de revisarlo.
 

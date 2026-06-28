@@ -151,7 +151,7 @@ Las relaciones no son estaticas. Evolucionan con el tiempo, con las circunstanci
 
 **El Principio de la Relación como Proyecto Vivo:** Las parejas con mayor satisfacción a largo plazo no son las que establecieron un estado de la relación al principio y lo mantuvieron. Son las que han revisado y renegociado los acuerdos de la relación a medida que ambos han cambiado. Los acuerdos sobre el trabajo, los hijos, el dinero, la vida social, la intimidad y los proyectos que tenían sentido a los treinta pueden no tener sentido a los cuarenta y cinco. Revisar esos acuerdos de forma proactiva, antes de que la desalineación se convierta en crisis, es uno de los actos más inteligentes que puede hacer una pareja.
 
-**Ejercicio inmediato:** Identifica un acuerdo en tu relación que formaste hace más de dos años y que quizas ya no refleja donde estas cada uno ahora. No un acuerdo de pequeños hábitos. Algo relevante: sobre trabajo, sobre familia, sobre donde vivis, sobre como dividis las responsabilidades. Propone a tu pareja revisarlo.
+**Ejercicio inmediato:** Identifica un acuerdo en tu relación que formaste hace más de dos años y que quizás ya no refleja donde estas cada uno ahora. No un acuerdo de pequeños hábitos. Algo relevante: sobre trabajo, sobre familia, sobre donde vivis, sobre como dividis las responsabilidades. Propone a tu pareja revisarlo.
 
 La relación que no se actualiza se convierte en el hogar de dos personas que ya no son quienes eran cuando la empezaron.
 

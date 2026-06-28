@@ -35,7 +35,7 @@ Cuando el fracaso amenaza tu identidad, el miedo al fracaso es proporcional a tu
 
 ## Capítulo 2: Las consecuencias reales del miedo al fracaso
 
-Elena evita los proyectos ambiciosos en su trabajo. Acepta tareas donde esta segura de poder hacerlo bien. Nunca se expone a la posibilidad de un fracaso significativo. Sus evaluaciones son buenas pero su carrera no avanza. El miedo al fracaso no le ha causado ningún fracaso visible. Le ha causado algo quizas peor: la mediocridad segura.
+Elena evita los proyectos ambiciosos en su trabajo. Acepta tareas donde esta segura de poder hacerlo bien. Nunca se expone a la posibilidad de un fracaso significativo. Sus evaluaciones son buenas pero su carrera no avanza. El miedo al fracaso no le ha causado ningún fracaso visible. Le ha causado algo quizás peor: la mediocridad segura.
 
 **El Principio del Coste de Oportunidad del Miedo al Fracaso:** Paul Silvia, psicólogo que estudia la inhibición creativa, y Brene Brown, investigadora de la vulnerabilidad, documentan distintas dimensiones del coste del miedo al fracaso. El coste más visible es la paralisis: el proyecto que no se inicia, la oportunidad que no se acepta, la relación que no se busca. Pero hay costes más sutiles: la mediocrización deliberada de los propios objetivos para reducir el riesgo de fracaso (ponerse metas que se puede alcanzar facilmente en lugar de metas que realmente importan), la falta de aprendizaje que produce la evitación de desafios que exigen estirarse, y el coste en autenticidad de vivir una vida más pequeña de la que genuinamente se quiere vivir.
 

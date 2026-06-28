@@ -41,7 +41,7 @@ Elena ha pasado por una separación que ha cuestionado aspectos fundamentales de
 
 James Marcia, psicologo que operacionalizo la teoria de Erikson, identifico cuatro estatus de identidad: difusión (no hay exploración ni compromiso), foreclosure (compromiso sin exploración, identidad heredada sin cuestionarse), moratorium (exploración sin compromiso todavía, que es la crisis activa), y logró de identidad (exploración seguida de compromiso consciente). El moratorium, aunque incomodo, es necesario para el logró de identidad genuino.
 
-**Ejercicio inmediato:** Evalua tu situación actual de identidad usando los cuatro estatus de Marcia. Hay áreas de tu vida (trabajo, relaciones, valores) donde tienes identidad por logró (elegida conscientemente después de exploración), otras por foreclosure (adoptada sin cuestionarse), y quizas algunas en moratorium (bajo exploración activa)? Esa evaluación muestra donde estas en proceso y donde no.
+**Ejercicio inmediato:** Evalua tu situación actual de identidad usando los cuatro estatus de Marcia. Hay áreas de tu vida (trabajo, relaciones, valores) donde tienes identidad por logró (elegida conscientemente después de exploración), otras por foreclosure (adoptada sin cuestionarse), y quizás algunas en moratorium (bajo exploración activa)? Esa evaluación muestra donde estas en proceso y donde no.
 
 Una crisis de identidad no es el final del camino. Es el punto donde el camino bifurca y tienes que elegir conscientemente cual tomar.
 

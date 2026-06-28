@@ -129,7 +129,7 @@ Una amistad que se enfrio por distracción, no por conflicto, generalmente se re
 
 ## Capítulo 10: El inventario de amistad: con quien vale la pena
 
-Periodicamente, vale la pena hacer un inventario honesto de las amistades activas en la propia vida, para identificar donde invertir más energía y donde quizas dejar que algunas relaciones se reduzcan naturalmente.
+Periodicamente, vale la pena hacer un inventario honesto de las amistades activas en la propia vida, para identificar donde invertir más energía y donde quizás dejar que algunas relaciones se reduzcan naturalmente.
 
 **El Principio del Inventario Periodico:** Las personas con vidas sociales más satisfactorias hacen, consciente o inconscientemente, un inventario periodico de sus amistades, evaluando cuales aportan energía y conexión genuina, cuales drenan más de lo que aportan, y cuales merecen mayor inversión de la que actualmente reciben. Este inventario no implica cortar relaciones automáticamente, pero si guia donde se dirige la energía limitada disponible para mantener amistades.
 

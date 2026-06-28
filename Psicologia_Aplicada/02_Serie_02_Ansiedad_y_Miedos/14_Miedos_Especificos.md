@@ -55,7 +55,7 @@ Elena tiene una fobia a las inyecciones que la lleva a evitar chequeos médicos,
 
 El mecanismo neurológico es la extinción del condicionamiento del miedo: la exposición repetida al estímulo sin el daño anticipado debilita gradualmente la asociación amigdalar entre el estímulo y la respuesta de amenaza. Michelle Craske, cuya investigación ha refinado los protocolos de exposición, propone que la exposición es más efectiva cuando maximiza el aprendizaje inhibitorio: la persona no solo se habitua (se acostumbra) sino que aprende activamente que el resultado catastrofico no ocurre, que puede tolerar la ansiedad, y que los sintomas de ansiedad disminuyen con el tiempo aunque no inmediatamente.
 
-**Ejercicio inmediato:** Construye una jerarquía de exposición específica para tu fobia: lista de diez situaciones ordenadas de menor a mayor intensidad de ansiedad. La primera de la lista debería ser algo que activa solo incomodidad leve (quizas solo imaginar el estímulo). La última, la exposición completa al estímulo real. El tratamiento empieza en el primer escalon.
+**Ejercicio inmediato:** Construye una jerarquía de exposición específica para tu fobia: lista de diez situaciones ordenadas de menor a mayor intensidad de ansiedad. La primera de la lista debería ser algo que activa solo incomodidad leve (quizás solo imaginar el estímulo). La última, la exposición completa al estímulo real. El tratamiento empieza en el primer escalon.
 
 La exposición al estímulo fobico es aterradora y curativa. No puedes tener lo segundo sin lo primero.
 

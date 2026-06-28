@@ -23,7 +23,7 @@ Elena hace lo que su amiga quiere porque, de lo contrario, se siente culpable de
 
 La manipulación emocional se define como el uso deliberado o habitual de tacticas psicológicas para influir en el comportamiento de otra persona a traves de sus emociones, de forma que sirva primariamente a los intereses de quien manipula.
 
-**El Principio de la Distinción entre Influencia Legitima y Manipulación:** La diferencia clave entre la influencia relacional legitima (pedir algo honestamente, expresar una necesidad) y la manipulación emocional es la transparencia y el respeto a la autonomía del otro. La influencia legitima es honesta sobre lo que se pide y por qué, y respeta el derecho del otro a decir no. La manipulación oculta sus verdaderas intenciones detras de tacticas que explotan vulnerabilidades emocionales para obtener cumplimiento sin que la otra persona perciba claramente lo que está ocurriendo.
+**El Principio de la Distinción entre Influencia Legitima y Manipulación:** La diferencia clave entre la influencia relacional legitima (pedir algo honestamente, expresar una necesidad) y la manipulación emocional es la transparencia y el respeto a la autonomía del otro. La influencia legitima es honesta sobre lo que se pide y por qué, y respeta el derecho del otro a decir no. La manipulación oculta sus verdaderas intenciones detrás de tacticas que explotan vulnerabilidades emocionales para obtener cumplimiento sin que la otra persona perciba claramente lo que está ocurriendo.
 
 **Ejercicio inmediato:** Para una solicitud reciente que te generaste sentir obligado a cumplir, evalua si fue una petición honesta y transparente, o si involucro tacticas que explotaron tus emociones para obtener tu cumplimiento.
 

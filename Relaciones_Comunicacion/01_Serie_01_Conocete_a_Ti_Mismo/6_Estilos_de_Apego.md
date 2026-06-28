@@ -175,7 +175,7 @@ Esta frase es más radical de lo que parece. La mayoría de las personas pasan t
 
 Entender el apego no resuelve nada de un dia para otro. Pero ofrece algo que vale más que las soluciones rápidas: un marcó coherente para interpretar lo que ocurre. Y un mapa, imperfecto pero real, hacía donde ir.
 
-Ruben terminó este libro sabiendo algo que no sabía antes: que su necesidad de independencia no era una fortaleza. Era una defensa. Y que detras de la defensa había una necesidad de conexión que nunca había aprendido a satisfacer directamente.
+Ruben terminó este libro sabiendo algo que no sabía antes: que su necesidad de independencia no era una fortaleza. Era una defensa. Y que detrás de la defensa había una necesidad de conexión que nunca había aprendido a satisfacer directamente.
 
 Eso ya era algo.
 

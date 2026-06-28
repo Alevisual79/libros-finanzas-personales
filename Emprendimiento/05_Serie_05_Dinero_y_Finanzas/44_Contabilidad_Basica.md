@@ -111,7 +111,7 @@ Carlos ha revisado sus gastos deducibles con su gestor y ha encontrado varios qu
 
 Hay gastos con deducción parcial que muchos autonomos no aplican correctamente: el uso del vehiculo privado para el negocio (deducible en la proporción de uso profesional), los gastos del hogar cuando el autonomo trabaja desde casa (una proporción de los suministros y alquiler si se puede justificar), y los gastos de representación (comidas con clientes con límite).
 
-**Ejercicio inmediato:** Revisa con tu gestor los gastos deducibles de los últimos doce meses y compara la lista con los gastos reales que has tenido pero que quizas no has deducido: ¿tienes gastos de formación no deducidos?, tienes cuotas de organizaciones profesionales o colegios?, tienes gastos de suscripciones a publicaciones profesionales? Frecuentemente, una revisión de los gastos no deducidos produce un ahorro fiscal significativo con efecto retroactivo en el ejercicio vigente.
+**Ejercicio inmediato:** Revisa con tu gestor los gastos deducibles de los últimos doce meses y compara la lista con los gastos reales que has tenido pero que quizás no has deducido: ¿tienes gastos de formación no deducidos?, tienes cuotas de organizaciones profesionales o colegios?, tienes gastos de suscripciones a publicaciones profesionales? Frecuentemente, una revisión de los gastos no deducidos produce un ahorro fiscal significativo con efecto retroactivo en el ejercicio vigente.
 
 El impuesto que pagas de más por no deducir lo que puedes deducir no es obligación legal. Es ignorancia opcional.
 

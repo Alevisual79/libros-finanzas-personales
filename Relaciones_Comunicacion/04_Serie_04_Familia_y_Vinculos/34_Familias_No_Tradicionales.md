@@ -27,7 +27,7 @@ La diversidad de estructuras familiares contemporaneas refleja cambios sociales 
 
 **El Principio de la Función sobre la Forma:** La investigación contemporanea en psicología familiar converge en un hallazgo consistente: lo que predice el bienestar de los hijos no es la estructura familiar específica (número de padres, su orientación sexual, su relación biológica con los hijos) sino la calidad de las relaciones dentro de esa estructura: la calidez, la consistencia, la seguridad emocional y la ausencia de conflicto cronico no resuelto.
 
-**Ejercicio inmediato:** Si formas parte de una estructura familiar no tradicional, identifica las fortalezas específicas de tu estructura que quizas no reconoces explicitamente porque la comparación social tiende a enfocarse en lo que falta respecto al modelo tradicional.
+**Ejercicio inmediato:** Si formas parte de una estructura familiar no tradicional, identifica las fortalezas específicas de tu estructura que quizás no reconoces explicitamente porque la comparación social tiende a enfocarse en lo que falta respecto al modelo tradicional.
 
 Lo que hace bien a una familia no es su forma. Es la calidad de lo que ocurre dentro de ella.
 

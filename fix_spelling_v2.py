@@ -748,6 +748,9 @@ ADV_FIXES = [
     (re.compile(r'\balli\b',     re.IGNORECASE), 'allí'),
     (re.compile(r'\bahi\b',      re.IGNORECASE), 'ahí'),
     (re.compile(r'\basi\b',      re.IGNORECASE), 'así'),
+    (re.compile(r'\bdetras\b',  re.IGNORECASE), 'detrás'),
+    (re.compile(r'\bquizas\b',  re.IGNORECASE), 'quizás'),
+    (re.compile(r'\bjamas\b',   re.IGNORECASE), 'jamás'),
     # 'aún' (still/yet) vs 'aun' (even) — fix only obvious "still" uses
     # Skip: too ambiguous between 'aun cuando' (even when) vs 'aún no' (still not)
 ]

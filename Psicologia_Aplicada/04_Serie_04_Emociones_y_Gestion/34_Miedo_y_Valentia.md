@@ -161,7 +161,7 @@ El miedo que te paraliza frente a lo que más importa es el precio de que algo i
 
 ## Epílogo
 
-Ruben envió la solicitud el lunes a las 10am, como había decidido el domingo. El corazón acelerado, las palmas sudadas, y el pensamiento de que quizas le dijeran que no. Se lo dijeron que no en esa primera empresa. Pero había roto seis meses de paralisis en un solo acto, y eso cambio la relación que tenía con su propio miedo de una forma que la segunda solicitud, la tercera, y la cuarta, que eventualmente resultaron en un si, no habrían producido de la misma forma. El si eventual importo. Pero el primer no fue lo que lo desbloqueo.
+Ruben envió la solicitud el lunes a las 10am, como había decidido el domingo. El corazón acelerado, las palmas sudadas, y el pensamiento de que quizás le dijeran que no. Se lo dijeron que no en esa primera empresa. Pero había roto seis meses de paralisis en un solo acto, y eso cambio la relación que tenía con su propio miedo de una forma que la segunda solicitud, la tercera, y la cuarta, que eventualmente resultaron en un si, no habrían producido de la misma forma. El si eventual importo. Pero el primer no fue lo que lo desbloqueo.
 
 ---
 

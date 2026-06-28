@@ -99,7 +99,7 @@ Comunicarse con un padre que experimenta deterioro cognitivo (demencia, alzheime
 
 **El Principio de la Comunicación Adaptada a la Capacidad Presente:** Las técnicas de comunicación efectiva con personas con deterioro cognitivo (validar emociones en lugar de corregir hechos, usar frases simples y directas, evitar discusiones sobre la precisión de los recuerdos) requieren que el hijo deje de relacionarse con el padre cómo la persona plenamente capaz que era, y empiece a relacionarse con la persona que es ahora, sin que esto signifique amarlo o respetarlo menos.
 
-**Ejercicio inmediato:** Si te comunicas con un padre con deterioro cognitivo, práctica la técnica de validación emocional: en lugar de corregir un hecho incorrecto que mencione, responde a la emoción detras de lo que está expresando.
+**Ejercicio inmediato:** Si te comunicas con un padre con deterioro cognitivo, práctica la técnica de validación emocional: en lugar de corregir un hecho incorrecto que mencione, responde a la emoción detrás de lo que está expresando.
 
 Comunicarte bien con un padre con deterioro cognitivo requiere encontrarlo donde esta, no donde solia estar.
 

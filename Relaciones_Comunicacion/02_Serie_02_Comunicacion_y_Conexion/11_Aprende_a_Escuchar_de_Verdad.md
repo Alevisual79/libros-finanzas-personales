@@ -19,7 +19,7 @@ En una conversación típica, la mayoría de las personas no escuchan lo que dic
 
 Escuchar parece fácil porque es pasivo. En realidad es una de las habilidades más difíciles y más raras que existe.
 
-Elena lleva años quejandose de que nadie la escucha de verdad. Lo que todavía no ha visto es que ella tampoco escucha de verdad. Ruben cree que es buen oyente porque no interrumpe. Pero mientras el otro habla, Ruben ya está construyendo su respuesta. Isabel escucha los hechos pero rara vez escucha las emociones que hay detras.
+Elena lleva años quejandose de que nadie la escucha de verdad. Lo que todavía no ha visto es que ella tampoco escucha de verdad. Ruben cree que es buen oyente porque no interrumpe. Pero mientras el otro habla, Ruben ya está construyendo su respuesta. Isabel escucha los hechos pero rara vez escucha las emociones que hay detrás.
 
 La escucha es el acto relacional más poderoso que existe. Y nadie nos ensena a hacerlo.
 

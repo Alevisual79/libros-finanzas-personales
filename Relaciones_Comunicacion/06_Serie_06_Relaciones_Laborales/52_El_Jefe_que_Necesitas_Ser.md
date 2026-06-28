@@ -47,7 +47,7 @@ El liderazgo no es una habilidad técnica que se ejerce sobre procesos. Es una h
 
 La confianza que un equipo tiene en su líder es, según la investigación, uno de los predictores más fuertes de desempeño organizacional, y se construye o se destruye a traves de patrones específicos y observables de comportamiento.
 
-**El Principio de la Confianza como Activo Acumulable:** La confianza en el liderazgo se construye a traves de la consistencia entre lo que el líder dice y lo que hace, la transparencia sobre las razones detras de las decisiones, y la disposición de admitir errores propios en lugar de proyectarlos hacía el equipo. Esta confianza, una vez construida, funciona como un activo que permite al equipo tolerar mejor los períodos de dificultad o incertidumbre.
+**El Principio de la Confianza como Activo Acumulable:** La confianza en el liderazgo se construye a traves de la consistencia entre lo que el líder dice y lo que hace, la transparencia sobre las razones detrás de las decisiones, y la disposición de admitir errores propios en lugar de proyectarlos hacía el equipo. Esta confianza, una vez construida, funciona como un activo que permite al equipo tolerar mejor los períodos de dificultad o incertidumbre.
 
 **Ejercicio inmediato:** Identifica una acción concreta que podrías tomar esta semana para fortalecer la confianza de tu equipo en ti: mayor transparencia sobre una decisión difícil, o el reconocimiento explícito de un error reciente.
 
@@ -83,7 +83,7 @@ Un líder que escucha genuinamente recibe información que un líder que solo ha
 
 Los conflictos dentro de un equipo, cuando se gestionan adecuadamente por el líder, pueden fortalecer la cohesión y la calidad de las decisiones del equipo, mientras que la evitación sistemática del conflicto tiende a generar resentimientos acumulados y peores resultados.
 
-**El Principio de la Mediación Estructurada:** Los líderes más efectivos en gestión de conflicto no buscan eliminar el conflicto (lo cual es generalmente imposible y a veces indeseable) sino estructurarlo de forma que sea productivo: facilitando que las partes expresen sus perspectivas, identificando los intereses subyacentes detras de las posiciones declaradas, y guiando hacía soluciones que consideren las necesidades legitimas de ambas partes.
+**El Principio de la Mediación Estructurada:** Los líderes más efectivos en gestión de conflicto no buscan eliminar el conflicto (lo cual es generalmente imposible y a veces indeseable) sino estructurarlo de forma que sea productivo: facilitando que las partes expresen sus perspectivas, identificando los intereses subyacentes detrás de las posiciones declaradas, y guiando hacía soluciones que consideren las necesidades legitimas de ambas partes.
 
 **Ejercicio inmediato:** Si hay un conflicto sin resolver en tu equipo, identifica los intereses subyacentes de cada parte (más allá de sus posiciones declaradas) y considera como podrías facilitar una conversación que aborde esos intereses directamente.
 

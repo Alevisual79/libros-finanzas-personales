@@ -83,7 +83,7 @@ Esperar a que el problema ya ocurra para hablar de contenido inapropiado es meno
 
 Establecer límites de tiempo de pantalla efectivos requiere más que simplemente imponer restricciones; las reglas que funcionan mejor combinan límites claros con la participación del adolescente en su establecimiento.
 
-**El Principio de las Reglas Colaborativas sobre las Impuestas:** Las familias que logran límites de tiempo de pantalla más sostenibles son las que involucran al adolescente en la conversación sobre esos límites, explicando el razonamiento detras de ellos y permitiendo cierto grado de negociación, en lugar de imponer reglas unilaterales sin explicación ni participación del adolescente afectado.
+**El Principio de las Reglas Colaborativas sobre las Impuestas:** Las familias que logran límites de tiempo de pantalla más sostenibles son las que involucran al adolescente en la conversación sobre esos límites, explicando el razonamiento detrás de ellos y permitiendo cierto grado de negociación, en lugar de imponer reglas unilaterales sin explicación ni participación del adolescente afectado.
 
 **Ejercicio inmediato:** Si necesitas establecer o ajustar reglas de tiempo de pantalla con tu hijo adolescente, propone una conversación colaborativa donde ambos participen en definir los límites apropiados, en lugar de imponerlos unilateralmente.
 
