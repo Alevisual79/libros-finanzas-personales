@@ -37,7 +37,7 @@ El burnout no lo produces tu solo. Es el resultado de un desajuste entre lo que 
 
 Isabel tiene dificultades para decir no en el trabajo por miedo a las consecuencias. Pero los límites que no establece tienen costes que no ve inmediatamente.
 
-**El Principio de los Limites Laborales como Gestión de Recursos, no como Egoismo:** La investigación de Sabine Sonnentag sobre recuperación del estrés laboral muestra que la recuperación efectiva del trabajo (el proceso de restaurar los recursos agotados durante la jornada laboral) requiere desconexion psicológica del trabajo fuera de las horas laborales. La persona que no desconecta del trabajo en su tiempo libre no recupera los recursos que el siguiente dia laboral va a consumir, produciendo un deficit acumulativo que eventualmente conduce al burnout.
+**El Principio de los Límites Laborales como Gestión de Recursos, no como Egoismo:** La investigación de Sabine Sonnentag sobre recuperación del estrés laboral muestra que la recuperación efectiva del trabajo (el proceso de restaurar los recursos agotados durante la jornada laboral) requiere desconexion psicológica del trabajo fuera de las horas laborales. La persona que no desconecta del trabajo en su tiempo libre no recupera los recursos que el siguiente dia laboral va a consumir, produciendo un deficit acumulativo que eventualmente conduce al burnout.
 
 Los límites en el trabajo no son solo horarios de entrada y salida: incluyen la gestión de las expectativas de disponibilidad (los emails y mensajes fuera de horario), la capacidad de decir no a responsabilidades que exceden la capacidad razonable, y la protección del tiempo de recuperación (vacaciones, fines de semana, descanso diario).
 

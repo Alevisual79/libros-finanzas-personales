@@ -133,7 +133,7 @@ El objetivo final de un uso saludable de las aplicaciones de citas es mantenerla
 
 **El Principio de la Herramienta sin Fusión de Identidad:** Las personas que usan las apps de citas de forma más saludable las tratan cómo una herramienta práctica para ampliar las oportunidades de conocer gente, manteniendo su sentido de valor personal independiente de las metricas de la aplicación (número de matches, respuestas recibidas). Cuando la autoestima se fusiona con el desempeño en la aplicación, cada rechazó o ausencia de respuesta se experimenta cómo una herida desproporcionada.
 
-**Ejercicio inmediato:** Reflexiona sobre cuanto de tu estado de animo diario depende actualmente de lo que ocurre en tus aplicaciones de citas. Si la dependencia es alta, considera reforzar fuentes de autoestima independientes de esa herramienta específica.
+**Ejercicio inmediato:** Reflexiona sobre cuanto de tu estado de ánimo diario depende actualmente de lo que ocurre en tus aplicaciones de citas. Si la dependencia es alta, considera reforzar fuentes de autoestima independientes de esa herramienta específica.
 
 Una aplicación de citas es una herramienta para ampliar oportunidades. No debería ser el termometro de tu valor como persona.
 

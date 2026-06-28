@@ -39,7 +39,7 @@ Ruben lleva dias dando vueltas al mismo problema sin avanzar. Se dice que está 
 
 **El Principio de la Rumia como Pensamiento Repetitivo sin Solución:** Susan Nolen-Hoeksema, psicóloga de Yale que ha investigado la rumia durante décadas, la define como el ciclo repetitivo y pasivo de pensamientos sobre los propios sentimientos de angustia y sus causas y consecuencias. La rumia se distingue de la reflexión productiva en que es pasiva y repetitiva: no genera nuevas perspectivas ni produce acciones; solo recircula el mismo material emocional.
 
-La investigación de Nolen-Hoeksema muestra consistentemente que la rumia predice depresión: las personas con mayor tendencia a la rumia tienen episodios depresivos más largos, mayor riesgo de nuevo episodio, y menor respuesta a intervenciones. El mecanismo es un bucle de retroalimentación: la rumia activa pensamientos negativos que producen peor estado de animo que produce más rumia.
+La investigación de Nolen-Hoeksema muestra consistentemente que la rumia predice depresión: las personas con mayor tendencia a la rumia tienen episodios depresivos más largos, mayor riesgo de nuevo episodio, y menor respuesta a intervenciones. El mecanismo es un bucle de retroalimentación: la rumia activa pensamientos negativos que producen peor estado de ánimo que produce más rumia.
 
 **Ejercicio inmediato:** La próxima vez que notes que estas rumiando sobre algo (pensando repetidamente sobre el mismo tema sin avanzar), usa la prueba del cambio: ¿si llevaras veinte minutos pensando en esto, has llegado a alguna conclusión nueva o a un plan de acción? Si no, no estas resolviendo el problema. Estas en rumia. Cambia de actividad deliberadamente.
 
@@ -99,7 +99,7 @@ La investigación de Nolen-Hoeksema y Lyubomirsky muestra que el replay mental m
 
 **Ejercicio inmediato:** Para el replay más activo en tu mente ahora mismo, pregúntate: ¿he aprendido ya algo de esta situación que cambiara mi comportamiento en el futuro? Si si, el replay ya ha cumplido su función. Si sigues repitiendolo, es porque el hábito se retroalimenta, no porque haya más que aprender. Autorizate a parar.
 
-La situación pasada que replays no cambiara por mucho que la reproduzcas. Pero tu estado de animo de hoy si puede cambiar si dejas de reproducirla.
+La situación pasada que replays no cambiara por mucho que la reproduzcas. Pero tu estado de ánimo de hoy si puede cambiar si dejas de reproducirla.
 
 ---
 

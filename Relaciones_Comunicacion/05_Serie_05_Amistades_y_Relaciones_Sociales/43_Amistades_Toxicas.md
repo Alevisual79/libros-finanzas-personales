@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Isabel tiene una amiga de hace veinte años. Cada vez que terminan de hablar, Isabel se siente peor que al principio de la conversación. No sabe como llamar a eso. La amistad parece sólida desde fuera: se conocen desde hace mucho, comparten historia, se llaman amigas. Pero el efecto consistente de esa relación sobre el estado de animo de Isabel es negativo, y eso, más que la antiguedad o la etiqueta, es lo que define si una amistad es saludable.
+Isabel tiene una amiga de hace veinte años. Cada vez que terminan de hablar, Isabel se siente peor que al principio de la conversación. No sabe como llamar a eso. La amistad parece sólida desde fuera: se conocen desde hace mucho, comparten historia, se llaman amigas. Pero el efecto consistente de esa relación sobre el estado de ánimo de Isabel es negativo, y eso, más que la antiguedad o la etiqueta, es lo que define si una amistad es saludable.
 
 ---
 
@@ -95,7 +95,7 @@ Ser el único soporte emocional de alguien no es amistad profunda. Es una carga 
 
 Establecer límites en una amistad problematica, sin necesariamente terminarla, es una opción intermedia que puede preservar lo valioso de la relación mientras se protege del patron daniño.
 
-**El Principio del Limite específico:** Los límites más efectivos en amistades problematicas son específicos sobre el comportamiento concreto que se quiere cambiar (la frecuencia de llamadas de crisis, el tipo de comentarios que se aceptan), comunicados con claridad directa, y mantenidos con consistencia, en lugar de límites vagos o generales que son más difíciles de comunicar y de mantener.
+**El Principio del Límite específico:** Los límites más efectivos en amistades problematicas son específicos sobre el comportamiento concreto que se quiere cambiar (la frecuencia de llamadas de crisis, el tipo de comentarios que se aceptan), comunicados con claridad directa, y mantenidos con consistencia, en lugar de límites vagos o generales que son más difíciles de comunicar y de mantener.
 
 **Ejercicio inmediato:** Identifica un límite específico que necesitas establecer en una amistad problematica. práctica cómo lo comunicarias en una frase clara y directa, enfocada en el comportamiento específico, no en un juicio generico sobre la persona.
 

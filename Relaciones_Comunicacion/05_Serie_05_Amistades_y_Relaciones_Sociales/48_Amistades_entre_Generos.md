@@ -83,7 +83,7 @@ La inseguridad de una pareja hacía un amigo del genero opuesto frecuentemente d
 
 Cuando una pareja romantica expresa celos o incomodidad hacía una amistad mixta, gestionar esta situación requiere balance entre la validación de las preocupaciones legitimas de la pareja y la protección de amistades valiosas que no merecen sacrificarse sin razón justificada.
 
-**El Principio del Balance entre Validación y Limite:** Gestionar los celos de pareja hacía una amistad requiere primero escuchar genuinamente la preocupación (que puede tener fundamentos legitimos o no) y luego, según la evaluación honesta de la situación, decidir si se requieren ajustes en la amistad para tranquilizar preocupaciones razonables, o si se requiere comunicar con claridad que la amistad es importante y no esta dispuesta a sacrificarse sin una razón de peso específica.
+**El Principio del Balance entre Validación y Límite:** Gestionar los celos de pareja hacía una amistad requiere primero escuchar genuinamente la preocupación (que puede tener fundamentos legitimos o no) y luego, según la evaluación honesta de la situación, decidir si se requieren ajustes en la amistad para tranquilizar preocupaciones razonables, o si se requiere comunicar con claridad que la amistad es importante y no esta dispuesta a sacrificarse sin una razón de peso específica.
 
 **Ejercicio inmediato:** Si enfrentas celos de tu pareja hacía una amistad, ten una conversación explícita preguntando específicamente que comportamiento o situación genera la preocupación, en lugar de descartar la preocupación de forma generica o aceptar cualquier demanda sin examen crítico.
 
@@ -95,7 +95,7 @@ Los celos de pareja hacía una amistad merecen ser escuchados, pero no automáti
 
 Establecer límites claros sobre lo que se considera apropiado dentro de una amistad mixta (cercania física, tipo de conversaciones, tiempo compartido a solas) ayuda a prevenir malentendidos y a proteger tanto la amistad como las relaciones romanticas de cada persona involucrada.
 
-**El Principio de los Limites Explicitos Compartidos:** Las amistades mixtas más sostenibles, especialmente cuando ambas personas tienen parejas romanticas, frecuentemente tienen límites explícitos y conversados sobre lo que es apropiado dentro de la amistad (que tipo de contacto físico, que tipo de conversaciones sobre temas intimos, en que contextos se ven). Estos límites no son restricciones arbitrarias sino acuerdos que protegen la amistad de ambigüedades que podrían generar problemas.
+**El Principio de los Límites Explicitos Compartidos:** Las amistades mixtas más sostenibles, especialmente cuando ambas personas tienen parejas romanticas, frecuentemente tienen límites explícitos y conversados sobre lo que es apropiado dentro de la amistad (que tipo de contacto físico, que tipo de conversaciones sobre temas intimos, en que contextos se ven). Estos límites no son restricciones arbitrarias sino acuerdos que protegen la amistad de ambigüedades que podrían generar problemas.
 
 **Ejercicio inmediato:** Si tienes una amistad cercana con alguien del genero opuesto, considera si existen límites claros y conversados sobre lo que es apropiado dentro de esa relación, o si la ambiguedad sobre estos límites podría estar generando confusión o riesgo innecesario.
 

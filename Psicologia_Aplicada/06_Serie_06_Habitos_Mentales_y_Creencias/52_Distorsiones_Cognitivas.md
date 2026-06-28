@@ -39,7 +39,7 @@ Isabel tiende a evaluar su rendimiento en terminos absolutos: o lo hizo perfecto
 
 **El Principio del Pensamiento Dicotomico como Distorsión de los Gradientes:** El pensamiento todo-o-nada (también llamado pensamiento dicotomico o pensamiento en blanco y negro) es la tendencia a evaluar las experiencias en dos categorías extremas, ignorando el continuum que existe entre ellas. Burns lo describe cómo la base del perfeccionismo: si no es perfecto, es un fracaso total.
 
-La investigación de Beck y colegas muestra que el pensamiento todo-o-nada es especialmente prevalente en la depresión y en los trastornos de personalidad, y que intervenir sobre esta distorsión específica produce mejoras medibles en el estado de animo. El antídoto cognitivo es el pensamiento en escala de grises: evaluar en un continuum del uno al diez en lugar de en las categorías extremas de perfecto-fracasado.
+La investigación de Beck y colegas muestra que el pensamiento todo-o-nada es especialmente prevalente en la depresión y en los trastornos de personalidad, y que intervenir sobre esta distorsión específica produce mejoras medibles en el estado de ánimo. El antídoto cognitivo es el pensamiento en escala de grises: evaluar en un continuum del uno al diez en lugar de en las categorías extremas de perfecto-fracasado.
 
 **Ejercicio inmediato:** Identifica una evaluación reciente que hiciste en terminos todo-o-nada (fue un fracaso total, lo echaste todo a perder, no sirvio para nada). Reevalua la experiencia en una escala del uno al diez: ¿que puntuación le darias si tuvieras que ser honestamente preciso? Lo que probablemente tenías no era un cero.
 
@@ -95,7 +95,7 @@ Ruben tiende a recordar los fracasos con más claridad que los éxitos, y cuando
 
 **El Principio de la Memoria Sesgada como Mantenimiento del Autoconcepto Negativo:** Aaron Beck describe dos distorsiones relacionadas: el filtro mental (atender selectivamente a los aspectos negativos de una experiencia e ignorar los positivos) y la descalificación de lo positivo (invalidar los datos positivos con razones específicas que impiden que afecten el autoconcepto negativo). Juntas, estas distorsiones crean un sistema impermeabilizado a la evidencia positiva.
 
-La investigación de memoria de Gordon Bower y colegas muestra que el estado de animo sesga la memoria: las personas en estados negativos recuerdan más facilmente información negativa, lo que crea un ciclo donde el estado de animo negativo produce recuerdos negativos que confirman el estado de animo.
+La investigación de memoria de Gordon Bower y colegas muestra que el estado de ánimo sesga la memoria: las personas en estados negativos recuerdan más facilmente información negativa, lo que crea un ciclo donde el estado de ánimo negativo produce recuerdos negativos que confirman el estado de ánimo.
 
 **Ejercicio inmediato:** Durante una semana, mantun un registro de éxitos, logros, y momentos positivos, por pequeños que sean. Al final de cada dia, escribe al menos tres. Esta práctica contrarrea el filtro mental deliberadamente, entrenando al sistema a notar lo que normalmente filtra.
 

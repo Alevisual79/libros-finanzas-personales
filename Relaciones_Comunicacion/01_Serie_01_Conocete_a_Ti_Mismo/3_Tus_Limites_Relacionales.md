@@ -33,7 +33,7 @@ Los límites no destruyen las relaciones. Las hacen posibles.
 
 Teresa llegó a terapia diciendo que todos en su vida la aprovechaban. Su madre la llamaba tres veces al dia. Su jefa le ponía tareas extra sin compensación. Su pareja dejaba todo lo del hogar para ella. Cuando el terapeuta le pregunto que límites había puesto, Teresa no entendió la pregunta.
 
-**El Principio del Limite como Definición:** Un límite relacional es la declaración explícita o implícita de lo que es aceptable para ti en una relación. No es una norma que impones al otro. Es información que das al otro sobre quien eres y como necesitas ser tratado. Los límites no controlan al otro. Te definen a ti. Sin límites, los demás no saben realmente con quien estan relacionandose porque tu no se lo estas diciendo.
+**El Principio del Límite como Definición:** Un límite relacional es la declaración explícita o implícita de lo que es aceptable para ti en una relación. No es una norma que impones al otro. Es información que das al otro sobre quien eres y como necesitas ser tratado. Los límites no controlan al otro. Te definen a ti. Sin límites, los demás no saben realmente con quien estan relacionandose porque tu no se lo estas diciendo.
 
 Henry Cloud y John Townsend, autores del libro clásico sobre límites, definen estos como vallas que protegen el jardin de tu vida. No para impedir que nadie entre, sino para que lo que entra no destruya lo que has cultivado.
 
@@ -75,7 +75,7 @@ El coste de no tener límites no se mide en conflictos. Se mide en lo que dejas 
 
 No todos los límites son iguales. El que te incomoda cuando alguien invade tu espacio físico es distinto del que se activa cuando alguien te pide que cuentes algo que no quieres contar. Y ambos son distintos del que necesitas cuando alguien te escribe a las once de la noche esperando respuesta inmediata.
 
-**El Principio de la Especificidad del Limite:** Cada área de la vida tiene su tipo de límite específico. Los límites físicos regulan el cuerpo y el espacio personal. Los emocionales regulan que sientes y cuanto de ello compartes. Los intelectuales protegen tus opiniones y creencias. Los materiales gestionan el dinero y las posesiones. Los digitales, relativamente nuevos, regulan la disponibilidad y la privacidad en el entorno conectado. Confundir los tipos lleva a aplicar el límite equivocado en el contexto equivocado.
+**El Principio de la Especificidad del Límite:** Cada área de la vida tiene su tipo de límite específico. Los límites físicos regulan el cuerpo y el espacio personal. Los emocionales regulan que sientes y cuanto de ello compartes. Los intelectuales protegen tus opiniones y creencias. Los materiales gestionan el dinero y las posesiones. Los digitales, relativamente nuevos, regulan la disponibilidad y la privacidad en el entorno conectado. Confundir los tipos lleva a aplicar el límite equivocado en el contexto equivocado.
 
 Melissa Urban, experta en límites, senala que la mayoría de personas tiene límites bien desarrollados en un área y completamente ausentes en otra. Alguien puede defender con claridad su espacio físico pero ser incapaz de poner límites emocionales.
 
@@ -131,7 +131,7 @@ El mismo principio. Cuatro conversaciones distintas.
 
 Luis puso por primera vez un límite claro con su hermano: no pedir dinero prestado sin devolver lo anterior. Su hermano lo ignoro y volvio a pedir. Luis no sabía que hacer porque había esperado que decirlo fuera suficiente. No lo fue.
 
-**El Principio del Limite con Consecuencia:** Un límite sin consecuencia no es un límite. Es una preferencia que el otro puede ignorar sin coste. La consecuencia no es castigo ni represalia. Es simplemente lo que ocurre cuando el límite no se respeta: si vuelves a pedirme dinero sin devolver lo anterior, no voy a prestarlo. La consecuencia debe ser algo que puedas y estes dispuesto a aplicar. Un límite que no aplicas es peor que no haberlo puesto.
+**El Principio del Límite con Consecuencia:** Un límite sin consecuencia no es un límite. Es una preferencia que el otro puede ignorar sin coste. La consecuencia no es castigo ni represalia. Es simplemente lo que ocurre cuando el límite no se respeta: si vuelves a pedirme dinero sin devolver lo anterior, no voy a prestarlo. La consecuencia debe ser algo que puedas y estes dispuesto a aplicar. Un límite que no aplicas es peor que no haberlo puesto.
 
 Las investigaciones sobre comportamiento pasivo-agresivo muestran que el patron típico es: límite sin consecuencia, violación del límite, resentimiento callado, explosión o retirada. La consecuencia aplicada con calma rompe ese ciclo antes del resentimiento.
 
@@ -145,7 +145,7 @@ Un límite que no sostienes le enseña al otro que puede ignorarlo.
 
 La madre de Ana le decía siempre: si de verdad me quisieras, no me hablarias así. Si fueras buena hija, vendrías más. Si me amaras, no te pondrias de su lado. Ana creció creyendo que el amor verdadero significa no tener límites. Que cuidar a alguien significa estar disponible siempre. Que las personas que ponen límites no quieren de verdad.
 
-**El Principio del Limite como Acto de Amor:** Los límites no se oponen al amor. Los límites son una condición para que el amor sea sostenible. Una persona sin límites no puede amar de forma generosa porque todo lo que da viene cargado de resentimiento, agotamiento o expectativa de reciprocidad no comunicada. Los límites saludables permiten dar desde la elección, no desde la obligación. Y lo que se da desde la elección es genuino. Lo que se da desde el miedo al no querer, no lo es.
+**El Principio del Límite como Acto de Amor:** Los límites no se oponen al amor. Los límites son una condición para que el amor sea sostenible. Una persona sin límites no puede amar de forma generosa porque todo lo que da viene cargado de resentimiento, agotamiento o expectativa de reciprocidad no comunicada. Los límites saludables permiten dar desde la elección, no desde la obligación. Y lo que se da desde la elección es genuino. Lo que se da desde el miedo al no querer, no lo es.
 
 Terrence Real dice que la mayoría de personas que dicen amarse pero tienen relaciones disfuncionales no tienen un problema de amor. Tienen un problema de límites. El amor esta. La estructura que lo contiene, no.
 
@@ -159,7 +159,7 @@ Quien más quieres es con quien más límites necesitas. No porque el amor lo ex
 
 El mayor problema con los límites no es ponerlos. Es mantenerlos. Especialmente cuando el otro reacciona mal, cuando la culpa aparece, cuando la relación parece en riesgo. Mantener un límite cuando hay presión es uno de los ejercicios más difíciles y más transformadores que existen.
 
-**El Principio de la Consistencia del Limite:** Un límite que se mantiene cuando no hay presión pero cede cuando la hay no es un límite. Es una sugerencia. La consistencia no significa rigidez. Significa que el límite sobrevive a la incomodidad del momento, a la reacción del otro, al impulso de ceder para restaurar la paz. La consistencia se construye cómo un músculo: con repetición progresiva y tolerancia al malestar.
+**El Principio de la Consistencia del Límite:** Un límite que se mantiene cuando no hay presión pero cede cuando la hay no es un límite. Es una sugerencia. La consistencia no significa rigidez. Significa que el límite sobrevive a la incomodidad del momento, a la reacción del otro, al impulso de ceder para restaurar la paz. La consistencia se construye cómo un músculo: con repetición progresiva y tolerancia al malestar.
 
 Los estudios sobre cambio de comportamiento relacional muestran que el período crítico es el primero. Cuando alguien pone un límite nuevo con alguien con quien no lo había tenido antes, el otro suele testear el límite inmediatamente, consciente o inconscientemente. Si el límite cede en ese primer test, se refuerza el patron anterior.
 

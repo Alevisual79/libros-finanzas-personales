@@ -51,7 +51,7 @@ El rencor no procesado hacía un familiar, aunque pueda sentirse como protecció
 
 **El Principio del Coste Fisiológico del Resentimiento:** La investigación en psicología de la salud muestra que el resentimiento cronico no procesado se asocia con niveles elevados de cortisol, mayor riesgo cardiovascular, y peor calidad de sueño, entre otros impactos en la salud física. El resentimiento que se mantiene como forma de protección o de justicia frecuentemente termina dañando más a quien lo carga que a la persona hacía quien se dirige.
 
-**Ejercicio inmediato:** Reflexiona sobre el coste físico y emocional que el resentimiento hacía un familiar específico está teniendo en tu vida actual: en tu sueño, tu estado de animo, tu capacidad de disfrutar otras relaciones. Ese coste es información relevante sobre si vale la pena seguir cargando con el.
+**Ejercicio inmediato:** Reflexiona sobre el coste físico y emocional que el resentimiento hacía un familiar específico está teniendo en tu vida actual: en tu sueño, tu estado de ánimo, tu capacidad de disfrutar otras relaciones. Ese coste es información relevante sobre si vale la pena seguir cargando con el.
 
 El resentimiento que cargas contra tu familiar te está costando a ti, no a el.
 

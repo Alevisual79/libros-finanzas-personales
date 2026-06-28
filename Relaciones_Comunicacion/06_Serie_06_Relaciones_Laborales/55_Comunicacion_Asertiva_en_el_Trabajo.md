@@ -71,7 +71,7 @@ Un guion estructurado de comunicación asertiva no es artificial. Es un andamiaj
 
 Rechazar solicitudes, tareas adicionales o compromisos que exceden la capacidad o las prioridades propias es una de las expresiones de asertividad más difíciles pero más necesarias en el contexto laboral.
 
-**El Principio del No como Limite Profesional Legitimo:** Decir no a una solicitud laboral razonable de rechazar, comunicado con claridad y sin excesiva justificación, es una práctica profesional legitima que protege la capacidad de cumplir bien con los compromisos ya asumidos. La culpa asociada con decir no frecuentemente proviene de la creencia erronea de que el valor profesional se mide por la disponibilidad ilimitada, en lugar de por la calidad y consistencia del trabajo realizado.
+**El Principio del No como Límite Profesional Legitimo:** Decir no a una solicitud laboral razonable de rechazar, comunicado con claridad y sin excesiva justificación, es una práctica profesional legitima que protege la capacidad de cumplir bien con los compromisos ya asumidos. La culpa asociada con decir no frecuentemente proviene de la creencia erronea de que el valor profesional se mide por la disponibilidad ilimitada, en lugar de por la calidad y consistencia del trabajo realizado.
 
 **Ejercicio inmediato:** Identifica una solicitud reciente que aceptaste a pesar de que excedia tu capacidad real. práctica como podrías haber dicho no con claridad, sin excesiva justificación ni disculpa.
 

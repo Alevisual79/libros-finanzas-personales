@@ -73,7 +73,7 @@ El conflicto fraterno que parece desproporcionado casi siempre tiene años de hi
 
 Las situaciones en que un hermano enfrenta una crisis (económica, de salud mental, de adicciones) y otro hermano no puede o no quiere proporcionar la ayuda esperada generan algunos de los conflictos más dolorosos de la relación fraterna.
 
-**El Principio de los Limites en la Ayuda Fraterna:** La obligación moral percibida de ayudar a un hermano en crisis puede chocar con los límites reales de capacidad emocional, económica o práctica de quien tendría que dar esa ayuda. Reconocer que no se puede o no se debe dar una ayuda específica, sin que eso signifique abandono total del hermano, es una distinción difícil pero necesaria para evitar tanto el sacrificio destructivo cómo la culpa paralizante.
+**El Principio de los Límites en la Ayuda Fraterna:** La obligación moral percibida de ayudar a un hermano en crisis puede chocar con los límites reales de capacidad emocional, económica o práctica de quien tendría que dar esa ayuda. Reconocer que no se puede o no se debe dar una ayuda específica, sin que eso signifique abandono total del hermano, es una distinción difícil pero necesaria para evitar tanto el sacrificio destructivo cómo la culpa paralizante.
 
 **Ejercicio inmediato:** Si tienes un hermano en crisis y sientes presión para ayudar de una forma que excede tus límites reales, identifica que tipo de apoyo si puedes dar de forma sostenible, distinto del que se espera o se exige.
 

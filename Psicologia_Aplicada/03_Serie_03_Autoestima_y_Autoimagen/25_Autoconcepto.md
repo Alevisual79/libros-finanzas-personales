@@ -113,7 +113,7 @@ Esta construcción social del yo tiene una implicación práctica importante: el
 
 **Ejercicio inmediato:** Identifica dos relaciones en tu vida: una que activa consistentemente un mejor sentido de quien eres, y una que activa consistentemente un peor sentido de quien eres. Esa diferencia no es solo sobre como te sientes con esas personas. Es sobre el autoconcepto que cada relación contribuye a construir.
 
-Las personas con quien eliges pasar el tiempo no solo afectan tu estado de animo. Afectan quien crees que eres.
+Las personas con quien eliges pasar el tiempo no solo afectan tu estado de ánimo. Afectan quien crees que eres.
 
 ---
 

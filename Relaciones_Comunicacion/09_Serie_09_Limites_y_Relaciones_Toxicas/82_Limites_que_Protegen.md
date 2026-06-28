@@ -1,7 +1,7 @@
 # Limites que Protegen
 ## Cómo construir límites relacionales que funcionen de verdad
 
-**Serie 09: Limites y Relaciones Toxicas — Libro 2 de 10**
+**Serie 09: Límites y Relaciones Toxicas — Libro 2 de 10**
 
 ---
 
@@ -23,7 +23,7 @@ Ruben sabe que necesita poner límites en varias de sus relaciones. Pero cuando 
 
 Establecer límites relacionales, aunque intelectualmente se reconozca como necesario, resulta difícil de ejecutar debido a multiples factores psicológicos que generan resistencia interna al acto mismo de comunicarlos.
 
-**El Principio de las Multiples Barreras al Limite:** La dificultad de poner límites involucra tipicamente una combinación de factores: miedo al conflicto o al rechazó que la comunicación del límite podría generar, culpa anticipada por priorizar las propias necesidades, y en algunos casos, patrones aprendidos en la infancia donde expresar necesidades propias generaba consecuencias negativas que se internalizaron como evitación automática.
+**El Principio de las Multiples Barreras al Límite:** La dificultad de poner límites involucra tipicamente una combinación de factores: miedo al conflicto o al rechazó que la comunicación del límite podría generar, culpa anticipada por priorizar las propias necesidades, y en algunos casos, patrones aprendidos en la infancia donde expresar necesidades propias generaba consecuencias negativas que se internalizaron como evitación automática.
 
 **Ejercicio inmediato:** Para un límite que has estado postergando, identifica específicamente cual de estas barreras (miedo al conflicto, culpa anticipada, patron aprendido) está operando más fuertemente en tu resistencia a comunicarlo.
 
@@ -59,7 +59,7 @@ No todos los límites son del mismo tipo. Identificar cual dimensión específic
 
 Reconocer las señales que indican la necesidad urgente de un límite específico, antes de que la situación se deteriore aun más, requiere atención consciente a ciertos indicadores recurrentes.
 
-**El Principio de los Indicadores de Limite Urgente:** Las señales que indican necesidad urgente de un límite incluyen sentir resentimiento creciente y recurrente hacía una persona o situación específica, notar que dices si repetidamente a algo que internamente quieres decir no, y experimentar agotamiento o ansiedad anticipatoria antes de interacciones con alguien específico.
+**El Principio de los Indicadores de Límite Urgente:** Las señales que indican necesidad urgente de un límite incluyen sentir resentimiento creciente y recurrente hacía una persona o situación específica, notar que dices si repetidamente a algo que internamente quieres decir no, y experimentar agotamiento o ansiedad anticipatoria antes de interacciones con alguien específico.
 
 **Ejercicio inmediato:** Revisa tu vida relacional actual e identifica la situación donde estos indicadores son más fuertes. Esa es probablemente la situación donde un límite es más urgentemente necesario.
 
@@ -95,7 +95,7 @@ El primer intento de presionar contra un límite nuevo es predecible. Mantenerte
 
 Un límite sin consecuencia clara cuando se viola frecuentemente pierde su efectividad, porque comunica que, en la práctica, no hay un costo real por ignorarlo.
 
-**El Principio de la Consecuencia como Componente Necesario del Limite:** Un límite efectivo no es solo una declaración verbal, sino que incluye, implícita o explicitamente, una consecuencia clara si se viola: reducir el contacto, terminar la conversación, o cualquier acción que comunique que el límite tiene un peso real, no solo retorico.
+**El Principio de la Consecuencia como Componente Necesario del Límite:** Un límite efectivo no es solo una declaración verbal, sino que incluye, implícita o explicitamente, una consecuencia clara si se viola: reducir el contacto, terminar la conversación, o cualquier acción que comunique que el límite tiene un peso real, no solo retorico.
 
 **Ejercicio inmediato:** Para un límite que has comunicado pero que sigue siendo violado, identifica que consecuencia específica aplicarias si vuelve a violarse, y comunica esa consecuencia con claridad la próxima vez que sea relevante.
 
@@ -107,7 +107,7 @@ Un límite sin consecuencia es una sugerencia, no un límite real. La consecuenc
 
 Establecer límites con personas significativas (pareja, familia, amigos cercanos) presenta dificultad adicional porque el miedo a dañar la relación querida puede sentirse más intenso que con relaciones de menor cercania emocional.
 
-**El Principio del Limite como Acto de Cuidado de la Relación:** Paradojicamente, los límites bien establecidos con personas amadas frecuentemente fortalecen la relación a largo plazo, en lugar de dañarla, porque previenen la acumulación de resentimiento que la ausencia de límites genera. Un límite claro, comunicado con amor, protege la relación más que la ausencia de límites que erosiona silenciosamente.
+**El Principio del Límite como Acto de Cuidado de la Relación:** Paradojicamente, los límites bien establecidos con personas amadas frecuentemente fortalecen la relación a largo plazo, en lugar de dañarla, porque previenen la acumulación de resentimiento que la ausencia de límites genera. Un límite claro, comunicado con amor, protege la relación más que la ausencia de límites que erosiona silenciosamente.
 
 **Ejercicio inmediato:** Para un límite que necesitas establecer con alguien que amas profundamente, reformula tu comprensión del límite cómo un acto de cuidado hacía la relación misma, no cómo una amenaza a ella.
 
@@ -119,7 +119,7 @@ Un límite claro con alguien que amas no dana la relación. La protege de la ero
 
 Establecer límites profesionales (sobre horarios, sobre cantidad de trabajo aceptable, sobre tratamiento respetuoso) requiere calibración específica que preserve la relación laboral mientras protege el bienestar propio.
 
-**El Principio del Limite Profesional como Comunicación de Capacidad Real:** Los límites laborales más efectivos se comunican enfocandose en la capacidad real y en el impacto en la calidad del trabajo (no puedo entregar esto con la calidad necesaria si también tomó X), en lugar de presentarse como simplemente una preferencia personal, lo cual frecuentemente facilita su aceptación en contextos profesionales.
+**El Principio del Límite Profesional como Comunicación de Capacidad Real:** Los límites laborales más efectivos se comunican enfocandose en la capacidad real y en el impacto en la calidad del trabajo (no puedo entregar esto con la calidad necesaria si también tomó X), en lugar de presentarse como simplemente una preferencia personal, lo cual frecuentemente facilita su aceptación en contextos profesionales.
 
 **Ejercicio inmediato:** Para un límite laboral que necesitas establecer, formula su comunicación enfatizando el impacto en la calidad o viabilidad del trabajo, no solo como preferencia personal.
 
@@ -131,7 +131,7 @@ Un límite laboral comunicado en terminos de capacidad e impacto en el trabajo s
 
 Algunas relaciones, a pesar de límites bien comunicados y consistentemente mantenidos, siguen siendo daniñas, lo cual indica que el límite, por si solo, no es la solución completa que la situación requiere.
 
-**El Principio del Limite como Herramienta Insuficiente para Algunas Situaciones:** Cuando una relación sigue siendo significativamente daniña a pesar de límites claros y consistentemente mantenidos, esto sugiere que el patron de la otra persona es lo suficientemente problematico (o que la relación misma es lo suficientemente toxica) que requiere una respuesta más drastica que el establecimiento de límites: distancia significativa, o en algunos casos, el fin completo de la relación.
+**El Principio del Límite como Herramienta Insuficiente para Algunas Situaciones:** Cuando una relación sigue siendo significativamente daniña a pesar de límites claros y consistentemente mantenidos, esto sugiere que el patron de la otra persona es lo suficientemente problematico (o que la relación misma es lo suficientemente toxica) que requiere una respuesta más drastica que el establecimiento de límites: distancia significativa, o en algunos casos, el fin completo de la relación.
 
 **Ejercicio inmediato:** Si has establecido límites claros y consistentes en una relación que sigue siendo daniña, evalua honestamente si el límite ha sido suficiente, o si la situación requiere una respuesta más significativa.
 
@@ -145,7 +145,7 @@ Un límite no dicho es un resentimiento en construcción. Ruben, finalmente, com
 
 ---
 
-*Libro 82 de la colección, Libro 2 de 10 de Serie 09: Limites y Relaciones Toxicas.*
+*Libro 82 de la colección, Libro 2 de 10 de Serie 09: Límites y Relaciones Toxicas.*
 
 ---
 

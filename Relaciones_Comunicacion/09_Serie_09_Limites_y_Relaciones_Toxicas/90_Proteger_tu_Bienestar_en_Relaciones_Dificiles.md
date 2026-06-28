@@ -1,7 +1,7 @@
 # Proteger tu Bienestar en Relaciones Dificiles
 ## Estrategias para no perder tu equilibrio en entornos relacionales complejos
 
-**Serie 09: Limites y Relaciones Toxicas — Libro 10 de 10**
+**Serie 09: Límites y Relaciones Toxicas — Libro 10 de 10**
 
 ---
 
@@ -145,7 +145,7 @@ No todo entorno toxico se puede abandonar de inmediato. Pero siempre puedes deci
 
 ---
 
-*Libro 90 de la colección, Libro 10 de 10 de Serie 09: Limites y Relaciones Toxicas. Fin de la Serie 09.*
+*Libro 90 de la colección, Libro 10 de 10 de Serie 09: Límites y Relaciones Toxicas. Fin de la Serie 09.*
 
 ---
 

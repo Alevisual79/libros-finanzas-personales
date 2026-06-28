@@ -123,7 +123,7 @@ Ruben a veces toma decisiones rápidas que luego lamenta, y otras veces se paral
 
 **El Principio del Doble Rol de las Emociones en la Decisión:** Daniel Kahneman distingue dos sistemas de procesamiento: el Sistema 1 (rápido, automático, intuitivo, emocionalmente cargado) y el Sistema 2 (lento, deliberado, analitico). Las emociones pertenecen principalmente al Sistema 1, lo que produce dos tipos de error: sesgos (decidir basandose en el estado emocional en lugar de en la evaluación racional) e información valida (la incomodidad ante una decisión puede señalar inconsistencias con los propios valores).
 
-La heuristica útil es distinguir entre emociones relevantes para la decisión (señalan algo que merece atención) y emociones irrelevantes (estado de animo general, cansancio) que pueden estar sesgando la evaluación.
+La heuristica útil es distinguir entre emociones relevantes para la decisión (señalan algo que merece atención) y emociones irrelevantes (estado de ánimo general, cansancio) que pueden estar sesgando la evaluación.
 
 **Ejercicio inmediato:** Para la próxima decisión laboral importante, distingue antes de decidir: ¿hay emociones relevantes para esta decisión? ¿Hay emociones irrelevantes que pueden estar sesgando la evaluación? Esta distinción no garantiza la decisión perfecta pero si mayor consciencia del proceso.
 

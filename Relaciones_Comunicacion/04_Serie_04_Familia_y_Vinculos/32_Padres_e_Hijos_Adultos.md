@@ -97,7 +97,7 @@ Las conversaciones que más evitamos con nuestros padres son casi siempre las qu
 
 Establecer límites con los padres en la adultez es uno de los actos más difíciles de diferenciación, porque implica desafiar la jerarquía implícita que ha existido desde la infancia.
 
-**El Principio del Limite como Acto de Respeto Mutuo:** Un límite saludable con los padres no es un rechazó de la relación, sino una clarificación de los terminos en que esa relación puede funcionar de forma sostenible para ambas partes. Los límites efectivos se comunican con claridad y sin necesidad de justificación excesiva, y se mantienen consistentemente incluso ante la resistencia inicial.
+**El Principio del Límite como Acto de Respeto Mutuo:** Un límite saludable con los padres no es un rechazó de la relación, sino una clarificación de los terminos en que esa relación puede funcionar de forma sostenible para ambas partes. Los límites efectivos se comunican con claridad y sin necesidad de justificación excesiva, y se mantienen consistentemente incluso ante la resistencia inicial.
 
 **Ejercicio inmediato:** Identifica un límite que necesitas establecer con tus padres (sobre llamadas, sobre consejos no solicitados, sobre visitas). práctica cómo lo comunicarias en una frase clara y respetuosa, sin disculparte excesivamente por tenerlo.
 
@@ -121,7 +121,7 @@ La relación con los suegros funciona mejor cuando la pareja actua como equipo, 
 
 Algunas familias extendidas tienen dificultad para respetar la autonomía de la nueva pareja, interfiriendo en decisiones que corresponden exclusivamente a esa pareja.
 
-**El Principio del Limite de Pareja como Unidad:** Las parejas que protegen mejor su autonomía frente a la interferencia familiar tratan las decisiones centrales de su vida (crianza, finanzas, vivienda) como decisiones exclusivas de la pareja, comunicando con claridad y consistencia a ambas familias extendidas cuando esas decisiones no estan abiertas a opinión externa, sin que eso implique falta de respeto a la familia.
+**El Principio del Límite de Pareja como Unidad:** Las parejas que protegen mejor su autonomía frente a la interferencia familiar tratan las decisiones centrales de su vida (crianza, finanzas, vivienda) como decisiones exclusivas de la pareja, comunicando con claridad y consistencia a ambas familias extendidas cuando esas decisiones no estan abiertas a opinión externa, sin que eso implique falta de respeto a la familia.
 
 **Ejercicio inmediato:** Identifica un área en la que la familia extendida (la propia o la de la pareja) interfiere de forma que sientes invasiva. Hablen como pareja sobre como comunicar conjuntamente el límite necesario.
 

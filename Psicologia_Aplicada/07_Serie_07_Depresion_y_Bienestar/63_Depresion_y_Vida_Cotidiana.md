@@ -63,13 +63,13 @@ La depresión no es una excusa para no trabajar. Es una condición médica que r
 
 ## Capítulo 4: Comer cuando la depresión afecta al apetito
 
-Elena ha perdido el apetito. Ruben come sin hambre por ansiedad. Las dos formas en que la depresión afecta la alimentación tienen consecuencias para el estado de animo.
+Elena ha perdido el apetito. Ruben come sin hambre por ansiedad. Las dos formas en que la depresión afecta la alimentación tienen consecuencias para el estado de ánimo.
 
-**El Principio de la Alimentación Regular como Factor de Estabilización del Estado de Animo:** La investigación sobre la conexión intestino-cerebro (el eje microbiota-intestino-cerebro) muestra que la microbiota intestinal influye en la producción de neurotransmisores, en la respuesta inflamatoria, y en el funcionamiento del sistema nervioso de formas que son relevantes para la salud mental. La alimentación irregular (saltarse comidas) produce fluctuaciones en la glucemia que amplifican la irritabilidad y el bajo estado de animo.
+**El Principio de la Alimentación Regular como Factor de Estabilización del Estado de Ánimo:** La investigación sobre la conexión intestino-cerebro (el eje microbiota-intestino-cerebro) muestra que la microbiota intestinal influye en la producción de neurotransmisores, en la respuesta inflamatoria, y en el funcionamiento del sistema nervioso de formas que son relevantes para la salud mental. La alimentación irregular (saltarse comidas) produce fluctuaciones en la glucemia que amplifican la irritabilidad y el bajo estado de ánimo.
 
 El meta-análisis de Joseph Firth y colegas sobre alimentación y salud mental muestra que la dieta mediterranea se asocia con menor riesgo de depresión en estudios epidemiologicos, y que los alimentos pro-inflamatorios (alta en azucar refinada, grasas trans, ultraprocesados) se asocian con mayor prevalencia de sintomas depresivos.
 
-**Ejercicio inmediato:** Independientemente de si tienes apetito o no, come algo a horas regulares: desayuno, comida, cena. No tiene que ser abundante ni perfecto. Tiene que ser regular. La regularidad de las comidas es más importante que la calidad nutricional en el corto plazo, porque estabiliza la glucemia que afecta al estado de animo.
+**Ejercicio inmediato:** Independientemente de si tienes apetito o no, come algo a horas regulares: desayuno, comida, cena. No tiene que ser abundante ni perfecto. Tiene que ser regular. La regularidad de las comidas es más importante que la calidad nutricional en el corto plazo, porque estabiliza la glucemia que afecta al estado de ánimo.
 
 Tu cerebro necesita combustible para funcionar, incluyendo para recuperarse de la depresión. No comer bien es retirar el combustible al motor que intenta llevar la carga más pesada.
 
@@ -93,7 +93,7 @@ Las relaciones que abandonas en la depresión se enfrían. Las que mantienes, au
 
 Isabel tiene que tomar decisiones importantes mientras esta en un episodio depresivo. La investigación sugiere que algunas de esas decisiones debería posponerlas.
 
-**El Principio de la Postergación de Decisiones Mayores durante los Episodios Depresivos:** La depresión produce sesgos cognitivos sistemáticos (hacía lo negativo, lo permanente, y lo catastrofico) y deterioro cognitivo que afecta la calidad de las decisiones. La investigación de Marieke Roskes y colegas muestra que el estado de animo negativo produce mayor aversión al riesgo, lo que puede llevar a decisiones excesivamente conservadoras, y al mismo tiempo mayor sesgo de confirmación (buscar información que confirma lo que ya se cree, que en la depresión tiende a ser negativo).
+**El Principio de la Postergación de Decisiones Mayores durante los Episodios Depresivos:** La depresión produce sesgos cognitivos sistemáticos (hacía lo negativo, lo permanente, y lo catastrofico) y deterioro cognitivo que afecta la calidad de las decisiones. La investigación de Marieke Roskes y colegas muestra que el estado de ánimo negativo produce mayor aversión al riesgo, lo que puede llevar a decisiones excesivamente conservadoras, y al mismo tiempo mayor sesgo de confirmación (buscar información que confirma lo que ya se cree, que en la depresión tiende a ser negativo).
 
 La recomendación clinica es posponer las decisiones importantes (cambios de trabajo, decisiones de relación, decisiones financieras mayores) durante los episodios depresivos siempre que sea posible, o al menos consultarlas con personas de confianza que puedan ofrecer una perspectiva menos sesgada.
 
@@ -123,7 +123,7 @@ Ruben ha intentado el autocuidado de Instagram (banos con velas, diarios de grat
 
 **El Principio del Autocuidado como Acciones que Reducen la Carga Fisiológica, no como Actividades de Disfrute:** El autocuidado efectivo en la depresión no requiere disfrute (que la anhedonia hace imposible) sino acciones que reducen la carga fisiológica y mantienen el sistema funcionando: sueño regular, alimentación regular, ejercicio moderado, reducción del alcohol y las sustancias, mantenimiento de la higiene personal basica, y reducción de los estresores innecesarios.
 
-La investigación sobre el rol del alcohol en la depresión muestra que aunque inicialmente parece reducir la ansiedad y producir un estado de animo más positivo, el alcohol es un depresor del sistema nervioso central y profundiza la depresión a medio plazo. Las personas con depresión que consumen alcohol de forma problematica tienen peores outcomes del tratamiento.
+La investigación sobre el rol del alcohol en la depresión muestra que aunque inicialmente parece reducir la ansiedad y producir un estado de ánimo más positivo, el alcohol es un depresor del sistema nervioso central y profundiza la depresión a medio plazo. Las personas con depresión que consumen alcohol de forma problematica tienen peores outcomes del tratamiento.
 
 **Ejercicio inmediato:** Esta semana, elige una acción de autocuidado que sea pequeña y concreta: no la más glamurosa sino la más necesaria. Puede ser ir a dormir una hora antes, reducir el alcohol a cero, salir a caminar diez minutos, o ducharte cada dia aunque no tengas ganas. El autocuidado real se parece a lo que uno necesita, no a lo que uno publica en redes sociales.
 

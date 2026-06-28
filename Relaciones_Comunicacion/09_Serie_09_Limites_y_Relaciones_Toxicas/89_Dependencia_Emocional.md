@@ -1,7 +1,7 @@
 # Dependencia Emocional
 ## Cuando el amor se convierte en necesidad irresistible
 
-**Serie 09: Limites y Relaciones Toxicas — Libro 9 de 10**
+**Serie 09: Límites y Relaciones Toxicas — Libro 9 de 10**
 
 ---
 
@@ -145,7 +145,7 @@ La dependencia emocional no es amor. Es miedo disfrazado de amor. Y tiene soluci
 
 ---
 
-*Libro 89 de la colección, Libro 9 de 10 de Serie 09: Limites y Relaciones Toxicas.*
+*Libro 89 de la colección, Libro 9 de 10 de Serie 09: Límites y Relaciones Toxicas.*
 
 ---
 

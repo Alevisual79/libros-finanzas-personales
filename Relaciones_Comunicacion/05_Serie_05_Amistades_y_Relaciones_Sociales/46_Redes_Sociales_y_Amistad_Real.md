@@ -107,7 +107,7 @@ Un grupo de WhatsApp lleno de mensajes no es lo mismo que un grupo de amigos con
 
 La gestión de la privacidad en redes sociales (que se comparte, con quien, y cómo se gestionan los límites de visibilidad) tiene implicaciones directas en la calidad y seguridad de las relaciones de amistad en la era digital.
 
-**El Principio de los Limites de Visibilidad Conscientes:** Las personas que gestionan conscientemente que comparten públicamente versus que reservan para circulos de confianza más cercanos tienden a experimentar relaciones más seguras y menos vulnerables a malentendidos o juicios externos no deseados, comparadas con quienes comparten indiscriminadamente sin considerar las consecuencias relacionales de esa visibilidad amplia.
+**El Principio de los Límites de Visibilidad Conscientes:** Las personas que gestionan conscientemente que comparten públicamente versus que reservan para circulos de confianza más cercanos tienden a experimentar relaciones más seguras y menos vulnerables a malentendidos o juicios externos no deseados, comparadas con quienes comparten indiscriminadamente sin considerar las consecuencias relacionales de esa visibilidad amplia.
 
 **Ejercicio inmediato:** Revisa tu configuración de privacidad actual en tus principales redes sociales. Refleja conscientemente lo que quieres compartir públicamente versus lo que preferirias reservar para un circulo más cercano de confianza?
 

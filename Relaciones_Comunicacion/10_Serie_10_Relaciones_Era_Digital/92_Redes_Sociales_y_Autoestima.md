@@ -37,7 +37,7 @@ La exposición constante a contenido cuidadosamente seleccionado de las vidas de
 
 **El Principio de la Comparación Ascendente sistemática:** La investigación sobre uso de redes sociales y bienestar muestra consistentemente que la exposición frecuente a contenido que representa logros, apariencia física, o estilos de vida idealizados de otros genera comparaciones sociales ascendentes que se asocian con menor satisfacción con la propia vida y menor autoestima, especialmente cuando el uso es pasivo (observar sin interactuar).
 
-**Ejercicio inmediato:** Después de tu próxima sesión de uso de redes sociales, evalua honestamente tu estado de animo comparado con antes de usarlas. Esa comparación directa te da información sobre el efecto real en tu bienestar.
+**Ejercicio inmediato:** Después de tu próxima sesión de uso de redes sociales, evalua honestamente tu estado de ánimo comparado con antes de usarlas. Esa comparación directa te da información sobre el efecto real en tu bienestar.
 
 La comparación constante con versiones curadas de las vidas de otros tiene un efecto medible y consistente: generalmente te hace sentir peor sobre tu propia vida.
 
@@ -121,7 +121,7 @@ Períodos deliberados de pausa en el uso de redes sociales, conocidos como detox
 
 **El Principio del Descanso como Restaurador de Perspectiva:** Los períodos de pausa deliberada en el uso de redes sociales permiten que los efectos acumulados de la comparación social y la búsqueda de validación se disipen, restaurando una perspectiva más equilibrada sobre la propia vida que no esta constantemente contaminada por la comparación con el contenido curado de otros.
 
-**Ejercicio inmediato:** Planifica un período específico de descanso de redes sociales (un fin de semana, una semana completa) y observa el impacto en tu estado de animo durante y después de ese período.
+**Ejercicio inmediato:** Planifica un período específico de descanso de redes sociales (un fin de semana, una semana completa) y observa el impacto en tu estado de ánimo durante y después de ese período.
 
 Un descanso deliberado de redes sociales no es una solución permanente, pero proporciona evidencia directa y personal del impacto real que estas plataformas tienen en tu bienestar.
 
@@ -141,7 +141,7 @@ Tu valor como persona no debería depender de cuantos likes recibe tu contenido.
 
 ## Epílogo
 
-Las redes sociales no son neutras en como te sientes sobre ti mismo. Diseñarlas conscientemente es un acto de autoprotección. Ruben, finalmente, después de reconocer el patron consistente entre su uso de Instagram y su empeoramiento de animo, implementó límites específicos: una hora maxima diaria, ninguna revisión durante la primera hora después de despertar, y la eliminación deliberada de varias cuentas que consistentemente generaban comparación negativa. El cambio no fue instantaneo. Pero, semanas después, notaba algo que llevaba tiempo sin sentir: mayor estabilidad en su propio estado de animo, independientemente de lo que veía en su feed.
+Las redes sociales no son neutras en como te sientes sobre ti mismo. Diseñarlas conscientemente es un acto de autoprotección. Ruben, finalmente, después de reconocer el patron consistente entre su uso de Instagram y su empeoramiento de ánimo, implementó límites específicos: una hora maxima diaria, ninguna revisión durante la primera hora después de despertar, y la eliminación deliberada de varias cuentas que consistentemente generaban comparación negativa. El cambio no fue instantaneo. Pero, semanas después, notaba algo que llevaba tiempo sin sentir: mayor estabilidad en su propio estado de ánimo, independientemente de lo que veía en su feed.
 
 ---
 

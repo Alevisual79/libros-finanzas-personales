@@ -1,7 +1,7 @@
 # Cuando el Amor Duele
 ## Distinguir el amor difícil del abuso emocional
 
-**Serie 09: Limites y Relaciones Toxicas — Libro 5 de 10**
+**Serie 09: Límites y Relaciones Toxicas — Libro 5 de 10**
 
 ---
 
@@ -145,7 +145,7 @@ El amor genuino puede doler. El abuso siempre duele. La diferencia es crucial. R
 
 ---
 
-*Libro 85 de la colección, Libro 5 de 10 de Serie 09: Limites y Relaciones Toxicas.*
+*Libro 85 de la colección, Libro 5 de 10 de Serie 09: Límites y Relaciones Toxicas.*
 
 ---
 

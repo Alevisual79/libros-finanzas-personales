@@ -85,7 +85,7 @@ Una señal de alarma que te explicas es una señal de alarma que estas ignorando
 
 Si las señales de alarma se minimizan en el enamoramiento, las señales positivas de alta compatibilidad se infravaloran porque no producen la intensidad emocional que buscamos. La persona que es consistente, honesta, emocionalmente disponible y respetuosa puede parecer aburrida comparada con la persona que produce drama y tensión.
 
-**El Principio del Valor de la Seguridad:** Las señales positivas más importantes en la elección de pareja no son las que generan la mayor emoción al principio. Son las que predicen la mayor satisfacción a largo plazo: capacidad de escuchar de verdad, manejo del conflicto sin cruzar lineas, responsabilidad sobre las propias acciones y emociones, interés genuino en la vida del otro, y un carácter consistente independientemente del estado de animo.
+**El Principio del Valor de la Seguridad:** Las señales positivas más importantes en la elección de pareja no son las que generan la mayor emoción al principio. Son las que predicen la mayor satisfacción a largo plazo: capacidad de escuchar de verdad, manejo del conflicto sin cruzar lineas, responsabilidad sobre las propias acciones y emociones, interés genuino en la vida del otro, y un carácter consistente independientemente del estado de ánimo.
 
 La seguridad que produce una persona emocionalmente disponible y consistente puede sentirse al principio como falta de intensidad. Con el tiempo, se convierte en el fundamento de la relación más satisfactoria posible.
 

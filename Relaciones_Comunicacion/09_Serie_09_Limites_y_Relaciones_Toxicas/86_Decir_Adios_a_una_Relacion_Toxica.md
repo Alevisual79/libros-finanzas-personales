@@ -1,7 +1,7 @@
 # Decir Adios a una Relación Toxica
 ## Como salir sin destrozarte en el proceso
 
-**Serie 09: Limites y Relaciones Toxicas — Libro 6 de 10**
+**Serie 09: Límites y Relaciones Toxicas — Libro 6 de 10**
 
 ---
 
@@ -145,7 +145,7 @@ Saber que tienes que irte y poder irte son dos cosas distintas. Este libro traba
 
 ---
 
-*Libro 86 de la colección, Libro 6 de 10 de Serie 09: Limites y Relaciones Toxicas.*
+*Libro 86 de la colección, Libro 6 de 10 de Serie 09: Límites y Relaciones Toxicas.*
 
 ---
 

@@ -121,7 +121,7 @@ El dia que no tienes ganas de seguir, el proposito es lo único que importa. Sin
 
 Marcos ha aprendido que la resiliencia no es aguantar sin límite. Es saber cuando parar para recuperar recursos y poder seguir.
 
-**El Principio de los Limites de Recuperación como Componente de la Resiliencia Sostenida que Previene el Burnout que Destruye la Empresa y la Persona:** La investigación de Christina Maslach sobre el burnout muestra que el agotamiento (la primera dimensión del burnout) ocurre cuando los recursos que se gastan no se recuperan de forma suficiente. El emprendedor que confunde la resiliencia con la invulnerabilidad al agotamiento acaba quemado antes de llegar al punto donde el negocio podría funcionar.
+**El Principio de los Límites de Recuperación como Componente de la Resiliencia Sostenida que Previene el Burnout que Destruye la Empresa y la Persona:** La investigación de Christina Maslach sobre el burnout muestra que el agotamiento (la primera dimensión del burnout) ocurre cuando los recursos que se gastan no se recuperan de forma suficiente. El emprendedor que confunde la resiliencia con la invulnerabilidad al agotamiento acaba quemado antes de llegar al punto donde el negocio podría funcionar.
 
 La investigación de Jim Loehr y Tony Schwartz sobre la gestión de la energía muestra que el rendimiento de alta calidad sostenido requiere ciclos de gasto y recuperación: el atleta que solo gasta y nunca recupera pierde rendimiento; el emprendedor que solo trabaja y nunca recupera pierde capacidad de tomar buenas decisiones.
 

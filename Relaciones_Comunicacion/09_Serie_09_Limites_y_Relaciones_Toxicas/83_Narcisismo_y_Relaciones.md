@@ -1,7 +1,7 @@
 # Narcisismo y Relaciones
 ## Como reconocer y gestionar a personas con rasgos narcisistas
 
-**Serie 09: Limites y Relaciones Toxicas — Libro 3 de 10**
+**Serie 09: Límites y Relaciones Toxicas — Libro 3 de 10**
 
 ---
 
@@ -83,7 +83,7 @@ La dificultad de salir de una relación narcisista no es debilidad personal. Es 
 
 Para situaciones donde salir completamente de la relación no es inmediatamente posible o elegido (relaciones familiares, situaciones laborales con limitaciones prácticas), existen estrategias específicas que pueden reducir el impacto del daño mientras se permanece en contacto.
 
-**El Principio de la Gestión Estratégica con Limites Claros:** Gestionar una relación con alguien narcisista mientras se permanece en contacto requiere límites particularmente claros y consistentemente mantenidos, reducción de la vulnerabilidad emocional compartida (compartir menos información que pueda usarse en contra), y el desarrollo de fuentes de validación y apoyo independientes de esa relación específica.
+**El Principio de la Gestión Estratégica con Límites Claros:** Gestionar una relación con alguien narcisista mientras se permanece en contacto requiere límites particularmente claros y consistentemente mantenidos, reducción de la vulnerabilidad emocional compartida (compartir menos información que pueda usarse en contra), y el desarrollo de fuentes de validación y apoyo independientes de esa relación específica.
 
 **Ejercicio inmediato:** Si necesitas mantener contacto con alguien con rasgos narcisistas significativos, identifica un límite específico que podrías establecer y mantener consistentemente para reducir el impacto en tu bienestar.
 
@@ -145,7 +145,7 @@ No todo rasgo narcisista implica un trastorno. Pero todos los rasgos narcisistas
 
 ---
 
-*Libro 83 de la colección, Libro 3 de 10 de Serie 09: Limites y Relaciones Toxicas.*
+*Libro 83 de la colección, Libro 3 de 10 de Serie 09: Límites y Relaciones Toxicas.*
 
 ---
 

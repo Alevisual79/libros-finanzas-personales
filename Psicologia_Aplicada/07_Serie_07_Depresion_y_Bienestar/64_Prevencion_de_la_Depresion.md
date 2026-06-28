@@ -39,7 +39,7 @@ Ruben ha completado ocho sesiones de MBCT. Sus sintomas actuales no justificaria
 
 **El Principio de la Terapia Cognitiva Basada en Mindfulness como Vacuna contra la Recaida:** La investigación de Zindel Segal, Mark Williams, y John Teasdale sobre la MBCT muestra que en personas con tres o más episodios depresivos, el programa de ocho semanas reduce el riesgo de recaida en el seguimiento a un año en un 43-50% respecto al tratamiento habitual. La MBCT es actualmente recomendada por el NICE britanico (National Institute for Health and Care Excellence) como tratamiento preventivo de primera linea para la depresión recurrente.
 
-El mecanismo es la reducción de la reactividad cognitiva: la tendencia a entrar en los patrones de pensamiento negativo rumiativos ante cambios de estado de animo que caracteriza a las personas vulnerables a la recaida. La MBCT entrena la capacidad de observar esos pensamientos sin seguirlos, rompiendo el ciclo.
+El mecanismo es la reducción de la reactividad cognitiva: la tendencia a entrar en los patrones de pensamiento negativo rumiativos ante cambios de estado de ánimo que caracteriza a las personas vulnerables a la recaida. La MBCT entrena la capacidad de observar esos pensamientos sin seguirlos, rompiendo el ciclo.
 
 **Ejercicio inmediato:** Si has tenido tres o más episodios depresivos y no has completado un programa de MBCT, es la intervención preventiva con mayor evidencia disponible para tu perfil. Busca programas en tu ciudad o en formato online (existen programas online con evidencia de efectividad). La inversión de ocho semanas puede prevenir años de episodios.
 
@@ -53,7 +53,7 @@ Elena ha aprendido que el ejercicio no es solo un tratamiento para la depresión
 
 **El Principio del Ejercicio Regular como Factor Protector de la Salud Mental a Largo Plazo:** Los estudios epidemiologicos de largo plazo muestran que el ejercicio físico regular se asocia con menor incidencia de depresión. El estudio de Karmel Choi y colegas en el Biobanco Britanico (con más de 611.000 participantes) muestra que sustituir una hora de sedentarismo por cualquier tipo de actividad física (incluyendo caminar) se asocia con reducción del riesgo de depresión del 26%.
 
-Los mecanismos neurobiologicos incluyen: el aumento del BDNF (factor de crecimiento nervioso que contrarresta la atrofia del hipocampo que se observa en la depresión), la regulación del eje hipotalamo-hipofisis-suprarrenal, la reducción de la inflamación sistemica (que se asocia con la depresión), y la producción de endorfinas y endocannabinoides que producen estados de animo positivos.
+Los mecanismos neurobiologicos incluyen: el aumento del BDNF (factor de crecimiento nervioso que contrarresta la atrofia del hipocampo que se observa en la depresión), la regulación del eje hipotalamo-hipofisis-suprarrenal, la reducción de la inflamación sistemica (que se asocia con la depresión), y la producción de endorfinas y endocannabinoides que producen estados de ánimo positivos.
 
 **Ejercicio inmediato:** Si actualmente no tienes un hábito de ejercicio regular, esta semana da el paso más pequeño posible en esa dirección: sal a caminar quince minutos cada dia durante siete dias. No el plan perfecto: el primer paso real. La consistencia durante las primeras dos semanas es el predictor más robusto de si el hábito se instalara.
 
@@ -133,13 +133,13 @@ El proposito que da sentido a lo que vives no te protege de las dificultades. Te
 
 ## Capítulo 9: La monitorización del estado de animo como prevención
 
-Isabel ha aprendido a monitorizar su estado de animo como parte de su estrategia preventiva. Detectar la señales tempranas antes de que el episodio se instale es la clave.
+Isabel ha aprendido a monitorizar su estado de ánimo como parte de su estrategia preventiva. Detectar la señales tempranas antes de que el episodio se instale es la clave.
 
 **El Principio de la Detección Temprana como Intervención Preventiva:** La investigación de John Teasdale y colegas sobre los prodromas de la recaida depresiva muestra que los episodios depresivos raramente aparecen de golpe: generalmente hay señales precursoras (cambios en el sueño, en la energía, en la actividad, en el pensamiento) que aparecen dias o semanas antes de que el episodio complete se instale. Detectar esas señales y actuar sobre ellas puede interrumpir el ciclo antes de que la depresión alcance la intensidad del episodio completo.
 
-Las aplicaciones de monitorización del estado de animo (mood tracking) permiten registrar diariamente el estado de animo y los sintomas relevantes, generando un patron que hace visibles las señales de alerta tempranas que la memoria no retiene bien.
+Las aplicaciones de monitorización del estado de ánimo (mood tracking) permiten registrar diariamente el estado de ánimo y los sintomas relevantes, generando un patron que hace visibles las señales de alerta tempranas que la memoria no retiene bien.
 
-**Ejercicio inmediato:** Diseña tu plan de detección temprana: ¿cuales son las tres primeras señales que indican que tu estado de animo esta deteriorandose (cambios en el sueño, en el apetito, en el nivel de actividad, en los pensamientos, en las relaciones)? ¿Cuando aparecen esas señales, cuales son los dos primeros pasos que daras (contactar con tu psicologo, incrementar el ejercicio, activar tu red de apoyo)? Tener ese plan antes de necesitarlo es la clave.
+**Ejercicio inmediato:** Diseña tu plan de detección temprana: ¿cuales son las tres primeras señales que indican que tu estado de ánimo esta deteriorandose (cambios en el sueño, en el apetito, en el nivel de actividad, en los pensamientos, en las relaciones)? ¿Cuando aparecen esas señales, cuales son los dos primeros pasos que daras (contactar con tu psicologo, incrementar el ejercicio, activar tu red de apoyo)? Tener ese plan antes de necesitarlo es la clave.
 
 El episodio depresivo que detectas cuando comienza es más fácil de interrumpir que el que detectas cuando ya está establecido.
 

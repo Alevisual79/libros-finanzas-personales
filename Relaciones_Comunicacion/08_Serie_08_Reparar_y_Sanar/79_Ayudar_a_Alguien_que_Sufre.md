@@ -59,7 +59,7 @@ Las frases que intentan consolar minimizando el dolor casi siempre comunican lo 
 
 Acompañar a alguien que sufre requiere empatia genuina, pero distinguir entre la empatia saludable y la absorción completa del dolor del otro es esencial para poder sostener el apoyo sin agotarse.
 
-**El Principio de la Empatia con Limites Energéticos:** La empatia efectiva permite sentir y entender genuinamente el dolor de otra persona sin que ese dolor se convierta también en el propio de forma indistinguible. Mantener cierta diferenciación (esto es su dolor, que yo puedo acompañar, pero no es mi dolor que tengo que cargar como si fuera propio) permite sostener el apoyo de forma más sostenible.
+**El Principio de la Empatia con Límites Energéticos:** La empatia efectiva permite sentir y entender genuinamente el dolor de otra persona sin que ese dolor se convierta también en el propio de forma indistinguible. Mantener cierta diferenciación (esto es su dolor, que yo puedo acompañar, pero no es mi dolor que tengo que cargar como si fuera propio) permite sostener el apoyo de forma más sostenible.
 
 **Ejercicio inmediato:** Si acompañas a alguien que sufre y sientes que su dolor te está agotando completamente, práctica nombrar internamente la distinción: este es su dolor, yo lo acompaño, no lo cargo como mio.
 
@@ -95,7 +95,7 @@ No puedes sostener el apoyo a alguien que sufre indefinidamente si te agotas com
 
 El apoyo emocional que amigos y familiares pueden ofrecer, aunque valioso, tiene límites reales que merece reconocerse, especialmente cuando el sufrimiento de la persona requiere una intervención más especializada.
 
-**El Principio del Reconocimiento de los Limites del Apoyo No Profesional:** El apoyo emocional informal, aunque valioso para muchas formas de sufrimiento cotidiano, tiene límites claros cuando el sufrimiento involucra condiciones de salud mental significativas (depresión clinica, trastornos de ansiedad severos, ideación suicida) que requieren intervención profesional especializada que el apoyo informal, sin importar cuan bien intencionado, no puede sustituir.
+**El Principio del Reconocimiento de los Límites del Apoyo No Profesional:** El apoyo emocional informal, aunque valioso para muchas formas de sufrimiento cotidiano, tiene límites claros cuando el sufrimiento involucra condiciones de salud mental significativas (depresión clinica, trastornos de ansiedad severos, ideación suicida) que requieren intervención profesional especializada que el apoyo informal, sin importar cuan bien intencionado, no puede sustituir.
 
 **Ejercicio inmediato:** Si estas acompañando a alguien cuyo sufrimiento parece exceder lo que el apoyo informal puede manejar adecuadamente, evalua si ha llegado el momento de sugerir, con cuidado y respeto, la búsqueda de apoyo profesional.
 

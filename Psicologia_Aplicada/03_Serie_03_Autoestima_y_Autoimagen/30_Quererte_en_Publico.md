@@ -107,7 +107,7 @@ La cuestión no es cuanto compartes en digital. Es si lo que compartes se parece
 
 Ruben teme que ser más autentico signifique tener que compartir todo, sin privacidad, sin límites. Esta es la confusión más común sobre la autenticidad.
 
-**El Principio de la Autenticidad con Limites como práctica Madura:** Brene Brown propone que la vulnerabilidad autentica requiere límites claros: compartir lo apropiado, con las personas apropiadas, en los momentos apropiados. La vulnerabilidad sin límites (compartir todo con todos) no es coraje sino ausencia de discriminación sobre donde y con quien es seguro abrirse. La vulnerabilidad con límites (elegir quien merece ver aspectos intimos del yo y cuando) es una práctica activa de autenticidad selectiva.
+**El Principio de la Autenticidad con Límites como práctica Madura:** Brene Brown propone que la vulnerabilidad autentica requiere límites claros: compartir lo apropiado, con las personas apropiadas, en los momentos apropiados. La vulnerabilidad sin límites (compartir todo con todos) no es coraje sino ausencia de discriminación sobre donde y con quien es seguro abrirse. La vulnerabilidad con límites (elegir quien merece ver aspectos intimos del yo y cuando) es una práctica activa de autenticidad selectiva.
 
 Este enfoque resuelve la falsa dicotomia entre mascara total (no revelar nada genuino) y sobreexposición (revelar todo a todos). La alternativa es la revelación selectiva y progresiva: compartir más con las personas que han demostrado ser dignas de confianza, y mantener más privacidad con las que no han tenido la oportunidad de demostrarlo o han demostrado lo contrario.
 

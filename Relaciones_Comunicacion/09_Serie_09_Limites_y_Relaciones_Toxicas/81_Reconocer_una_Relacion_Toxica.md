@@ -1,7 +1,7 @@
 # Reconocer una Relación Toxica
 ## Las señales que ignoramos porque no queremos verlas
 
-**Serie 09: Limites y Relaciones Toxicas — Libro 1 de 10**
+**Serie 09: Límites y Relaciones Toxicas — Libro 1 de 10**
 
 ---
 
@@ -145,7 +145,7 @@ Elena, finalmente, dejó de llamar complicada a la relación que la hacía senti
 
 ---
 
-*Libro 81 de la colección, Libro 1 de 10 de Serie 09: Limites y Relaciones Toxicas.*
+*Libro 81 de la colección, Libro 1 de 10 de Serie 09: Límites y Relaciones Toxicas.*
 
 ---
 

@@ -55,7 +55,7 @@ Ruben sabe que lo que hace ahora afectara a su yo del futuro. Pero ese yo futuro
 
 El descuento temporal (la tendencia a valorar las recompensas inmediatas más que las futuras equivalentes) es el mecanismo económico que subyace a la procrastinación: el alivio inmediato de no tener que hacer la tarea ahora supera en valor percibido las consecuencias negativas de no haberla hecho en el futuro, aunque racionalmente se sabe que esas consecuencias llegaran.
 
-**Ejercicio inmediato:** práctica la técnica de concretizar el yo futuro: imagina con detalle cómo se sentira tu yo de mañana (o la semana que viene) si no has hecho la tarea ahora. No de forma abstracta sino específicamente: como será su estado de animo, que tipo de presión estará sintiendo, que pensara de tu yo de hoy que lo puso en esa situación. Esta concretización acorta la distancia psicológica con el yo futuro.
+**Ejercicio inmediato:** práctica la técnica de concretizar el yo futuro: imagina con detalle cómo se sentira tu yo de mañana (o la semana que viene) si no has hecho la tarea ahora. No de forma abstracta sino específicamente: como será su estado de ánimo, que tipo de presión estará sintiendo, que pensara de tu yo de hoy que lo puso en esa situación. Esta concretización acorta la distancia psicológica con el yo futuro.
 
 El yo del futuro que vas a crear con tus decisiones de hoy es tan real como el yo que eres ahora. Solo que todavía no puede hablarte.
 

@@ -1,7 +1,7 @@
 # Gaslighting
 ## Cuando alguien te hace dudar de tu propia realidad
 
-**Serie 09: Limites y Relaciones Toxicas — Libro 8 de 10**
+**Serie 09: Límites y Relaciones Toxicas — Libro 8 de 10**
 
 ---
 
@@ -73,7 +73,7 @@ El gaslighting sostenido tiene impactos documentados en la salud mental que van 
 
 **El Principio del Impacto psicológico Acumulativo:** La exposición sostenida al gaslighting genera, según la investigación, niveles elevados de ansiedad relacionados con la incertidumbre constante sobre la propia percepción, sintomas depresivos relacionados con la erosión de la confianza en si mismo, y en casos de exposición prolongada y severa, una generalización de la duda hacía otros contextos de la vida más allá de la relación específica donde ocurre el gaslighting.
 
-**Ejercicio inmediato:** Evalua honestamente el impacto que el gaslighting sostenido en tu relación ha tenido en tu salud mental general: tu nivel de ansiedad, tu estado de animo, tu confianza general en tus propias decisiones.
+**Ejercicio inmediato:** Evalua honestamente el impacto que el gaslighting sostenido en tu relación ha tenido en tu salud mental general: tu nivel de ansiedad, tu estado de ánimo, tu confianza general en tus propias decisiones.
 
 El gaslighting no es solo confuso en el momento. Tiene un impacto real y documentado en la salud mental que merece la misma atención que cualquier otra forma de daño psicológico.
 
@@ -145,7 +145,7 @@ El gaslighting es violencia sin huellas visibles. La primera defensa es saber qu
 
 ---
 
-*Libro 88 de la colección, Libro 8 de 10 de Serie 09: Limites y Relaciones Toxicas.*
+*Libro 88 de la colección, Libro 8 de 10 de Serie 09: Límites y Relaciones Toxicas.*
 
 ---
 

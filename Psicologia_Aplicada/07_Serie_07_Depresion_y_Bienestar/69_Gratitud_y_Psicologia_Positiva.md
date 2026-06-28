@@ -51,7 +51,7 @@ La gratitud expresada al otro produce mayor bienestar que la gratitud guardada. 
 
 Ruben nota que los eventos negativos del dia le impactan más y le duran más que los positivos equivalentes. Esto no es pesimismo personal: es biología.
 
-**El Principio del Sesgo de Negatividad como Configuración por Defecto del Cerebro:** Paul Rozin y Edward Royzman documentaron que las experiencias negativas tienen un mayor impacto en el estado de animo y la memoria que las positivas equivalentes: una mala noticia pesa más que una buena, una crítica duele más que un elogio, y los recuerdos negativos son más accesibles que los positivos. Este sesgo tiene una lógica evolutiva: los errores podían ser letales, por lo que el cerebro les presta más atención.
+**El Principio del Sesgo de Negatividad como Configuración por Defecto del Cerebro:** Paul Rozin y Edward Royzman documentaron que las experiencias negativas tienen un mayor impacto en el estado de ánimo y la memoria que las positivas equivalentes: una mala noticia pesa más que una buena, una crítica duele más que un elogio, y los recuerdos negativos son más accesibles que los positivos. Este sesgo tiene una lógica evolutiva: los errores podían ser letales, por lo que el cerebro les presta más atención.
 
 El problema es que ese sesgo, adaptativo en entornos de amenaza física real, produce en el entorno moderno una percepción distorsionada de la realidad: los eventos negativos se sobreestiman y los positivos se subestiman. La práctica de la gratitud es, entre otras cosas, un entrenamiento deliberado para contrarrestar este sesgo y prestar atención a lo positivo que el cerebro tiende a pasar por alto.
 

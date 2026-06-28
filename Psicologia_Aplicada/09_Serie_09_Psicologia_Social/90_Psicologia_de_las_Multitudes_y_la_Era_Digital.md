@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben ha visto cómo un comentario suyo en redes sociales recibio respuestas que le sorprendieron por su intensidad y por el comportamiento de personas que en persona probablemente no se habrían expresado así. Elena ha observado como causas que parecian marginales pueden volverse virales en dias y transformar comportamientos a escala masiva. Isabel ha gestionado situaciones en su empresa donde rumores que circulaban en grupos de mensajeria interna habían transformado el estado de animo de equipos enteros antes de que nadie de la dirección supiera lo que estaba pasando. Las multitudes digitales son reales aunque no se reúnan físicamente. Y su psicología combina los mecanismos clásicos de la psicología de masas con fenómenos nuevos que solo internet hace posibles. Este libro es sobre esa psicología.
+Ruben ha visto cómo un comentario suyo en redes sociales recibio respuestas que le sorprendieron por su intensidad y por el comportamiento de personas que en persona probablemente no se habrían expresado así. Elena ha observado como causas que parecian marginales pueden volverse virales en dias y transformar comportamientos a escala masiva. Isabel ha gestionado situaciones en su empresa donde rumores que circulaban en grupos de mensajeria interna habían transformado el estado de ánimo de equipos enteros antes de que nadie de la dirección supiera lo que estaba pasando. Las multitudes digitales son reales aunque no se reúnan físicamente. Y su psicología combina los mecanismos clásicos de la psicología de masas con fenómenos nuevos que solo internet hace posibles. Este libro es sobre esa psicología.
 
 ---
 
@@ -121,7 +121,7 @@ La audiencia digital que cuidas con tanta atención no te conoce. Solo conoce la
 
 Isabel ha visto movimientos sociales nacer en redes sociales y producir cambios en el mundo real.
 
-**El Principio de las Redes Sociales como Herramienta de Coordinación para la Acción Colectiva con Limites específicos:** La investigación de Clay Shirky sobre el poder de organización de las redes sociales muestra que internet reduce dramaticamente los costes de coordinación para la acción colectiva: las revoluciones de la Primavera Arabe, el movimiento #MeToo, y las protestas Black Lives Matter usaron las redes sociales para coordinar acciones que habrían requerido meses de organización en la era pre-digital.
+**El Principio de las Redes Sociales como Herramienta de Coordinación para la Acción Colectiva con Límites específicos:** La investigación de Clay Shirky sobre el poder de organización de las redes sociales muestra que internet reduce dramaticamente los costes de coordinación para la acción colectiva: las revoluciones de la Primavera Arabe, el movimiento #MeToo, y las protestas Black Lives Matter usaron las redes sociales para coordinar acciones que habrían requerido meses de organización en la era pre-digital.
 
 Sin embargo, la investigación de Malcolm Gladwell y otros sobre el slacktivism muestra que la acción en linea (compartir, firmar peticiones, cambiar la foto de perfil) puede sustituir a la acción real fuera de linea en lugar de prepararla o complementarla. El compromiso de bajo coste en linea puede producir la sensación de haber actuado sin producir el impacto real que requiere el compromiso de alto coste fuera de linea.
 

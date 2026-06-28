@@ -67,7 +67,7 @@ Elena sabe que debería salir, moverse, hacer cosas. Pero cuando esta deprimida 
 
 **El Principio de la Acción antes de la Motivación en la Depresión:** La investigación de Neil Jacobson y colegas sobre la activación conductual muestra que la estrategia de esperar a tener ganas para actuar es exactamente lo que la depresión necesita para mantenerse. La activación conductual invierte ese orden: la acción precede a la motivación, no al reves. Actuar produce el estado emocional, no al reves.
 
-El mecanismo es la ruptura del ciclo de inactividad-anhedonia: cuando la persona con depresión se retira de las actividades, pierde acceso a los reforzadores positivos (experiencias de placer, logró, conexión), lo que profundiza la depresión y la inactividad. La activación conductual programa deliberadamente el retorno a actividades reforzantes, comenzando por las más accesibles y menos dependientes del estado de animo.
+El mecanismo es la ruptura del ciclo de inactividad-anhedonia: cuando la persona con depresión se retira de las actividades, pierde acceso a los reforzadores positivos (experiencias de placer, logró, conexión), lo que profundiza la depresión y la inactividad. La activación conductual programa deliberadamente el retorno a actividades reforzantes, comenzando por las más accesibles y menos dependientes del estado de ánimo.
 
 **Ejercicio inmediato:** Identifica una actividad que antes te producla disfrute o satisfacción y que has dejado de hacer en el período de depresión. Programala para mañana, una versión pequeña y manejable: no la versión completa de lo que haceas antes sino el primer paso. Hazla aunque no tengas ganas. El "aunque no tengas ganas" es la clave de la activación conductual.
 
@@ -83,7 +83,7 @@ Ruben sabe que el ejercicio le ayudaria pero no puede convencerse de hacerlo. Co
 
 Los mecanismos incluyen: aumento de la neurogenesis en el hipocampo (el ejercicio es uno de los estímulos más potentes para la producción de BDNF, factor de crecimiento neuronal), reducción de la inflamación (que se asocia con la depresión), regulación del eje hipotalamo-hipofisis-suprarrenal (el sistema de estrés), y aumento de las monoaminas (serotonina, dopamina, noradrenalina).
 
-**Ejercicio inmediato:** Esta semana, comienza con diez minutos diarios de caminata. No treinta. No cinco dias a la semana. Diez minutos cada dia. El objetivo no es el rendimiento atletico sino la consistencia del hábito. Diez minutos es suficientemente pequeño para no tener excusa y suficientemente grande para producir beneficio. En dos semanas, podras evaluar si ha tenido algun efecto en tu estado de animo.
+**Ejercicio inmediato:** Esta semana, comienza con diez minutos diarios de caminata. No treinta. No cinco dias a la semana. Diez minutos cada dia. El objetivo no es el rendimiento atletico sino la consistencia del hábito. Diez minutos es suficientemente pequeño para no tener excusa y suficientemente grande para producir beneficio. En dos semanas, podras evaluar si ha tenido algun efecto en tu estado de ánimo.
 
 El ejercicio es el antidepresivo que no tiene efectos secundarios. El que no lo toma no es porque no quiera mejorar sino porque la depresión hace que el primer paso parezca imposible.
 

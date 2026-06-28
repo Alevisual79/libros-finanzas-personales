@@ -1,7 +1,7 @@
 # Relaciones Toxicas en la Familia
 ## Como sobrevivir y prosperar cuando el origen del daño es la familia
 
-**Serie 09: Limites y Relaciones Toxicas — Libro 7 de 10**
+**Serie 09: Límites y Relaciones Toxicas — Libro 7 de 10**
 
 ---
 
@@ -95,7 +95,7 @@ El silencio familiar ante el daño no es neutral. Es, en la práctica, un permis
 
 Establecer límites significativos con un familiar problematico, sin necesariamente perder completamente la conexión con la familia extendida, es posible con estrategias específicas que separan el límite individual del corte total.
 
-**El Principio de la Diferenciación entre Limite Individual y Ruptura Total:** Es posible establecer límites firmes con un familiar específico (reducción de contacto, límites sobre temas de conversación, distancia en ciertos contextos) mientras se mantiene conexión con otros miembros de la familia extendida, comunicando claramente que el límite es específico a esa relación particular, no un rechazó de la familia en su totalidad.
+**El Principio de la Diferenciación entre Límite Individual y Ruptura Total:** Es posible establecer límites firmes con un familiar específico (reducción de contacto, límites sobre temas de conversación, distancia en ciertos contextos) mientras se mantiene conexión con otros miembros de la familia extendida, comunicando claramente que el límite es específico a esa relación particular, no un rechazó de la familia en su totalidad.
 
 **Ejercicio inmediato:** Si necesitas establecer límites con un familiar específico, identifica como podrías comunicar ese límite de forma que sea claro sobre su especificidad, sin necesariamente implicar ruptura con toda la familia extendida.
 
@@ -145,7 +145,7 @@ La familia no esta por encima del respeto. No tienes que soportar el daño solo 
 
 ---
 
-*Libro 87 de la colección, Libro 7 de 10 de Serie 09: Limites y Relaciones Toxicas.*
+*Libro 87 de la colección, Libro 7 de 10 de Serie 09: Límites y Relaciones Toxicas.*
 
 ---
 

@@ -59,7 +59,7 @@ NotebookLM (Google) es una de las herramientas más interesantes del ecosistema 
 
 **Funcionalidad Audio Overview:** NotebookLM puede generar un podcast de dos IA discutiendo los documentos cargados. Sorprendentemente útil para absorber información en formato audio.
 
-**Limite actual:** No tiene acceso a internet; trabaja solo con los documentos que tu le proporcionas.
+**Límite actual:** No tiene acceso a internet; trabaja solo con los documentos que tu le proporcionas.
 
 ---
 

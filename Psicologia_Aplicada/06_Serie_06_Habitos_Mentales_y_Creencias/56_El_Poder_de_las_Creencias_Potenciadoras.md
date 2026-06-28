@@ -121,7 +121,7 @@ No puedes creer algo sin evidencia que lo soporte. Pero puedes diseñar las expe
 
 Ruben ha probado las afirmaciones positivas y la mayoría de las veces le hacen sentir peor. La investigación explica por qué.
 
-**El Principio de las Afirmaciones como Herramienta de Uso Limitado:** La investigación de Joanne Wood y colegas de la Universidad de Waterloo muestra que las afirmaciones positivas tienen un efecto paradojico en personas con baja autoestima: producen peor estado de animo que no hacer afirmaciones, probablemente porque el contraste entre la afirmación y la experiencia actual es tan grande que activa el pensamiento contradictorio.
+**El Principio de las Afirmaciones como Herramienta de Uso Limitado:** La investigación de Joanne Wood y colegas de la Universidad de Waterloo muestra que las afirmaciones positivas tienen un efecto paradojico en personas con baja autoestima: producen peor estado de ánimo que no hacer afirmaciones, probablemente porque el contraste entre la afirmación y la experiencia actual es tan grande que activa el pensamiento contradictorio.
 
 Las afirmaciones que son efectivas tienen en común: son creibles dado lo que la persona ya sabe de si misma (no afirmaciones que contradicen toda la evidencia disponible), son específicas en lugar de genericas (puedo aprender a manejar situaciones difíciles en el trabajo es más creible que soy un ser poderoso), y se usan después de haber acumulado alguna evidencia que las apoya.
 
@@ -141,7 +141,7 @@ Nicholas Christakis y James Fowler documentaron en sus estudios sobre las redes 
 
 **Ejercicio inmediato:** Identifica las tres personas con quienes pasas más tiempo. Para cada una, reflexiona: ¿que creencias sobre lo que es posible para ti apoyan consistentemente? ¿Son principalmente potenciadoras o limitantes? Esta información no implica necesariamente eliminar personas de tu vida pero si gestionar que creencias alimentar con que personas.
 
-Las personas con quienes pasas el tiempo no solo afectan tu animo. Afectan lo que crees posible para ti.
+Las personas con quienes pasas el tiempo no solo afectan tu ánimo. Afectan lo que crees posible para ti.
 
 ---
 

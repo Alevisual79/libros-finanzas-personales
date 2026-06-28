@@ -141,7 +141,7 @@ BJ Fogg propone que la motivación es un recurso poco confiable y que diseñar c
 
 **Ejercicio inmediato:** Para la actividad más importante que quieres sostener, diseña sus condiciones de motivación: reduce la tarea a su versión mínima para cuando la motivación es baja, conectala con su proposito más grande, y crea un sistema de retroalimentación del progreso. El objetivo es que la actividad pueda sostenerse incluso en los dias donde la motivación es escasa.
 
-La motivación que solo existe cuando hay chispa no es un sistema. Es una dependencia del estado de animo.
+La motivación que solo existe cuando hay chispa no es un sistema. Es una dependencia del estado de ánimo.
 
 ---
 
@@ -153,7 +153,7 @@ Elena ha notado que su motivación aumenta cuando trabaja hacía algo que benefi
 
 La investigación de Roy Baumeister sobre el significado de la vida muestra que las relaciones y la conexión con otros son la fuente de significado más consistente que los seres humanos reportan, más que los logros individuales o la riqueza.
 
-**Ejercicio inmediato:** Para tu trabajo u objetivo más importante, identifica a las personas concretas cuya vida cambia si tu haces bien ese trabajo. No abstractamente (la sociedad, los clientes) sino específicamente: un cliente cuyo problema resuelves, un colega a quien tu trabajo facilita el suyo, un hijo cuya vida mejora por el trabajo que haces. Esa conexión específica activa la motivación relacional, que no depende del estado de animo.
+**Ejercicio inmediato:** Para tu trabajo u objetivo más importante, identifica a las personas concretas cuya vida cambia si tu haces bien ese trabajo. No abstractamente (la sociedad, los clientes) sino específicamente: un cliente cuyo problema resuelves, un colega a quien tu trabajo facilita el suyo, un hijo cuya vida mejora por el trabajo que haces. Esa conexión específica activa la motivación relacional, que no depende del estado de ánimo.
 
 La motivación que trabaja para alguien específico resiste cuando la que trabaja para uno mismo ya no alcanza.
 
@@ -161,7 +161,7 @@ La motivación que trabaja para alguien específico resiste cuando la que trabaj
 
 ## Epílogo
 
-Ruben cambio una cosa: empezó a escribir cada semana el impacto de su trabajo en los clientes que lo usaban. No era un sistema grande. Solo una nota de cinco minutos. Pero esa nota conectaba el trabajo cotidiano con personas reales que hacían cosas con lo que el producia. Los lunes con baja motivación siguieron existiendo. Pero cuando los tenía, abria las notas. Y bastaba con recordar por qué lo hacía para que el cuerpo encontrara la energía que el estado de animo no encontraba.
+Ruben cambio una cosa: empezó a escribir cada semana el impacto de su trabajo en los clientes que lo usaban. No era un sistema grande. Solo una nota de cinco minutos. Pero esa nota conectaba el trabajo cotidiano con personas reales que hacían cosas con lo que el producia. Los lunes con baja motivación siguieron existiendo. Pero cuando los tenía, abria las notas. Y bastaba con recordar por qué lo hacía para que el cuerpo encontrara la energía que el estado de ánimo no encontraba.
 
 ---
 

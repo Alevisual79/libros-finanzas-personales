@@ -49,7 +49,7 @@ Las expectativas de herencia que nunca se verifican con la realidad son la semil
 
 Las situaciones en que un hermano solicita ayuda económica a otro generan dilemas complejos que combinan la obligación moral percibida con los límites reales de capacidad o disposición del hermano que podría ayudar.
 
-**El Principio del Limite económico Legitimo:** Negarse a prestar o dar dinero a un hermano, incluso cuando ese hermano lo necesita genuinamente, puede ser una decisión legitima cuando refleja límites reales de capacidad económica, patrones previos de prestamos no devueltos, o la evaluación honesta de que el dinero no resolveria el problema subyacente. Comunicar este límite con claridad y compasión, en lugar de con evasivas, preserva mejor la relación que el silencio incomodo o las excusas vagas.
+**El Principio del Límite económico Legitimo:** Negarse a prestar o dar dinero a un hermano, incluso cuando ese hermano lo necesita genuinamente, puede ser una decisión legitima cuando refleja límites reales de capacidad económica, patrones previos de prestamos no devueltos, o la evaluación honesta de que el dinero no resolveria el problema subyacente. Comunicar este límite con claridad y compasión, en lugar de con evasivas, preserva mejor la relación que el silencio incomodo o las excusas vagas.
 
 **Ejercicio inmediato:** Si has enfrentado o anticipas una solicitud de ayuda económica de un hermano que no puedes o no quieres satisfacer completamente, prepara una respuesta honesta y compasiva que explique tu límite sin excesiva justificación ni evasión.
 

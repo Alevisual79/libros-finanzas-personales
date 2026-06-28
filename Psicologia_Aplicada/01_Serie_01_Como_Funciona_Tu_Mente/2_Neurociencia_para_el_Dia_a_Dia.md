@@ -91,13 +91,13 @@ El ejercicio físico no es lo que haces para tener buen cuerpo. Es lo que haces 
 
 ## Capítulo 6: La alimentación que afecta a tu mente
 
-Isabel come de forma razonablemente saludable pero sin pensarlo mucho en relación a su función cognitiva. Lo que probablemente no sabe es que ciertos patrones de alimentación tienen efectos directos y documentados en la función cerebral, el estado de animo y el riesgo de deterioro cognitivo.
+Isabel come de forma razonablemente saludable pero sin pensarlo mucho en relación a su función cognitiva. Lo que probablemente no sabe es que ciertos patrones de alimentación tienen efectos directos y documentados en la función cerebral, el estado de ánimo y el riesgo de deterioro cognitivo.
 
 **El Principio del Gut-Brain Axis:** El intestino y el cerebro estan conectados de formas que la neurociencia moderna apenas comienza a comprender en profundidad. John Cryan, neurocientico del University College Cork, investiga como el microbioma intestinal, el conjunto de microorganismos que habitan el intestino, influye directamente en la producción de neurotransmisores cómo la serotonina (el noventa y cinco por ciento de la cual se produce en el intestino), en la regulación del sistema inmune, y en los niveles de inflamación sistemica que afectan la función cerebral.
 
 Dietas ricas en azucares procesados y grasas saturadas generan inflamación sistemica que deteriora la función cognitiva y se asocia con mayor riesgo de depresión y deterioro cognitivo. Las dietas ricas en fibra, omega-3, antioxidantes y vegetales variados se asocian con mejor función cognitiva, menor riesgo de depresión y menor deterioro cognitive relacionado con la edad. Lo que comes no solo afecta tu cuerpo. Afecta directamente la química con la que tu cerebro opera cada dia.
 
-**Ejercicio inmediato:** Durante dos semanas, elimina o reduce significativamente el azucar procesado y los alimentos ultraprocesados, y aumenta el consumo de vegetales variados, omega-3 (pescado azul, nueces) y fibra. Observa si hay diferencias en tu nivel de energía cognitiva, claridad mental y estado de animo.
+**Ejercicio inmediato:** Durante dos semanas, elimina o reduce significativamente el azucar procesado y los alimentos ultraprocesados, y aumenta el consumo de vegetales variados, omega-3 (pescado azul, nueces) y fibra. Observa si hay diferencias en tu nivel de energía cognitiva, claridad mental y estado de ánimo.
 
 Come como si tu cerebro fuera a vivir lo que come. Porque lo hace.
 

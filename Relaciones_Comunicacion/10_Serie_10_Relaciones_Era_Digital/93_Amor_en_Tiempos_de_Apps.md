@@ -119,7 +119,7 @@ Una videollamada antes del primer encuentro presencial no es excesiva precaució
 
 A pesar de sus avances tecnologicos, las aplicaciones de citas tienen limitaciones inherentes para replicar ciertos elementos de la conexión humana que solo emergen en el contexto del encuentro presencial real.
 
-**El Principio de los Limites Tecnologicos de la Conexión:** Elementos cómo la química física genuina, la sincronia corporal, el olor, y la totalidad de las señales no verbales sutiles que se intercambian en presencia física directa, no pueden ser evaluados completamente a traves de ningún medio digital, independientemente de cuanto avance la tecnología de comunicación. Esto explica por qué algunas conexiones que parecian prometedoras digitalmente no se sostienen en el encuentro presencial.
+**El Principio de los Límites Tecnologicos de la Conexión:** Elementos cómo la química física genuina, la sincronia corporal, el olor, y la totalidad de las señales no verbales sutiles que se intercambian en presencia física directa, no pueden ser evaluados completamente a traves de ningún medio digital, independientemente de cuanto avance la tecnología de comunicación. Esto explica por qué algunas conexiones que parecian prometedoras digitalmente no se sostienen en el encuentro presencial.
 
 **Ejercicio inmediato:** Si has experimentado la discrepancia entre una conexión digital prometedora y un encuentro presencial decepcionante, recuerda que esta discrepancia refleja limitaciones reales del medio digital, no necesariamente un error de evaluación de tu parte.
 

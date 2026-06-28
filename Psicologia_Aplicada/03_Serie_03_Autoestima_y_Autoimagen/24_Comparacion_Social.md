@@ -141,7 +141,7 @@ Elegir el entorno social no significa eliminar a quienes tienen más o han logra
 
 **Ejercicio inmediato:** Evalua las personas que más frecuentemente activan tu comparación social adversa: ¿su sistema de valores se alinea con el tuyo, o te comparas en dimensiones que en realidad no te importan tanto? Esta evaluación no es para eliminar relaciones sino para entender de dónde viene la presión de comparación más dañina.
 
-El entorno social que eliges no solo afecta tu estado de animo. Afecta los estandares con los que te mides a ti mismo.
+El entorno social que eliges no solo afecta tu estado de ánimo. Afecta los estandares con los que te mides a ti mismo.
 
 ---
 

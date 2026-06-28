@@ -1,7 +1,7 @@
 # Manipulación Emocional
 ## Reconocer y protegerse de quien usa tus emociones en tu contra
 
-**Serie 09: Limites y Relaciones Toxicas — Libro 4 de 10**
+**Serie 09: Límites y Relaciones Toxicas — Libro 4 de 10**
 
 ---
 
@@ -145,7 +145,7 @@ La manipulación opera en la oscuridad. Nombrarla es traerla a la luz y quitarle
 
 ---
 
-*Libro 84 de la colección, Libro 4 de 10 de Serie 09: Limites y Relaciones Toxicas.*
+*Libro 84 de la colección, Libro 4 de 10 de Serie 09: Límites y Relaciones Toxicas.*
 
 ---
 

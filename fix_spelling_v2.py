@@ -718,9 +718,16 @@ ESDRUJ_FIXES = [
     # líquido/s (noun/adjective only)
     (re.compile(r'\bliquido\b',       re.IGNORECASE), 'líquido'),
     (re.compile(r'\bliquidos\b',      re.IGNORECASE), 'líquidos'),
-    # EXCLUIDOS por ambigüedad verbo/sustantivo:
-    # ánimo (yo animo = I encourage), límite (limitar subjunctive),
-    # válido (validar), título (titular), público (publicar)
+    # ánimo (0 usos como verbo en los libros — SEGURO)
+    (re.compile(r'\banimo\b',         re.IGNORECASE), 'ánimo'),
+    (re.compile(r'\banimos\b',        re.IGNORECASE), 'ánimos'),
+    # límite/s (0 usos como verbo subjuntivo en los libros — SEGURO)
+    (re.compile(r'\blimite\b',        re.IGNORECASE), 'límite'),
+    (re.compile(r'\blimites\b',       re.IGNORECASE), 'límites'),
+    # EXCLUIDOS por ambigüedad verbo/sustantivo verificada:
+    # válido/a (4 usos de "haya valido" como participio de valer)
+    # título/s (0 instancias sin tilde en los libros)
+    # público/a (publicar verbo)
 ]
 
 def fix_esdrujulas(line):

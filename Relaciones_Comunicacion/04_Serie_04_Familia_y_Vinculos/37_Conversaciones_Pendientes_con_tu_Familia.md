@@ -109,7 +109,7 @@ El silencio sobre la muerte no protege a nadie. Solo posterga un dolor que de to
 
 No todas las conversaciones familiares pendientes pueden tenerse, porque requieren la disposición de ambas partes, y algunos familiares simplemente no estan dispuestos o son capaces de tener la conversación que se necesita.
 
-**El Principio del Limite de lo que se Puede Controlar:** Cuando un familiar se niega consistentemente a tener una conversación necesaria, la única parte del proceso que se puede controlar es la propia disposición y los propios intentos. Aceptar esta limitación, sin dejar de intentar abrir la puerta ocasionalmente, permite procesar la situación sin la carga adicional de sentirse responsable de un diálogo que requiere la participación de otra persona que no esta dispuesta a darla.
+**El Principio del Límite de lo que se Puede Controlar:** Cuando un familiar se niega consistentemente a tener una conversación necesaria, la única parte del proceso que se puede controlar es la propia disposición y los propios intentos. Aceptar esta limitación, sin dejar de intentar abrir la puerta ocasionalmente, permite procesar la situación sin la carga adicional de sentirse responsable de un diálogo que requiere la participación de otra persona que no esta dispuesta a darla.
 
 **Ejercicio inmediato:** Si tienes una conversación pendiente con un familiar que se niega consistentemente a tenerla, identifica que puedes hacer dentro de tu control (expresar lo que necesitas decir aunque sea por escrito, procesar tu propia parte en terapia) independientemente de si el otro responde.
 

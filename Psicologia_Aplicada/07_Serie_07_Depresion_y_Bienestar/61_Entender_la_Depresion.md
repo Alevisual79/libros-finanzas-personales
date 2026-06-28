@@ -37,13 +37,13 @@ La depresión no es debilidad de carácter. Es un trastorno médico con causas b
 
 Isabel pensó durante años que lo que vivía no era depresión porque tenía momentos en que se sentía bien. Entender los tipos de depresión podría haber cambiado esa evaluación.
 
-**El Principio del Espectro Depresivo como Variedad de Presentaciones Clinicas:** El DSM-5 y la CIE-11 reconocen multiples tipos de trastorno depresivo: el trastorno depresivo mayor (episodios de al menos dos semanas con cinco o más sintomas), la distimia o trastorno depresivo persistente (estado de animo deprimido la mayor parte del tiempo durante al menos dos años, con sintomas menos intensos pero más cronicos), el trastorno afectivo estacional (episodios depresivos relacionados con cambios de estación), y otras formas.
+**El Principio del Espectro Depresivo como Variedad de Presentaciones Clinicas:** El DSM-5 y la CIE-11 reconocen multiples tipos de trastorno depresivo: el trastorno depresivo mayor (episodios de al menos dos semanas con cinco o más sintomas), la distimia o trastorno depresivo persistente (estado de ánimo deprimido la mayor parte del tiempo durante al menos dos años, con sintomas menos intensos pero más cronicos), el trastorno afectivo estacional (episodios depresivos relacionados con cambios de estación), y otras formas.
 
 La investigación de Gordon Parker y colegas muestra que la depresión tiene fenotipos clinicos diferentes que responden mejor a tratamientos diferentes: la depresión melancolica (con anhedonia severa y patrones biológicos marcados) responde mejor a la farmacoterapia que a la psicoterapia sola, mientras que la depresión no melancolica muestra mayor respuesta a la psicoterapia.
 
-**Ejercicio inmediato:** Si llevas meses o años con un estado de animo moderadamente bajo que nunca llega a la crisis pero que tampoco desaparece, considera que podrías estar viviendo una distimia. La distimia es frecuentemente invisible porque se normaliza: la persona asume que simplemente es como es. Esa normalización es parte de lo que hace que la distimia tenga baja tasa de tratamiento.
+**Ejercicio inmediato:** Si llevas meses o años con un estado de ánimo moderadamente bajo que nunca llega a la crisis pero que tampoco desaparece, considera que podrías estar viviendo una distimia. La distimia es frecuentemente invisible porque se normaliza: la persona asume que simplemente es como es. Esa normalización es parte de lo que hace que la distimia tenga baja tasa de tratamiento.
 
-El estado de animo que llevas tanto tiempo que ya lo ves como tu personalidad podría ser un trastorno tratable. No todo lo que se normaliza es normal.
+El estado de ánimo que llevas tanto tiempo que ya lo ves como tu personalidad podría ser un trastorno tratable. No todo lo que se normaliza es normal.
 
 ---
 

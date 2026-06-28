@@ -15,7 +15,7 @@
 
 ## Prólogo
 
-Ruben puede pasarse horas dando vueltas a la misma situación. No la está resolviendo: la está reproduciendo, la está evaluando desde cada ángulo posible, está imaginando lo que podría haber dicho de forma diferente, está anticipando lo que podría salir mal, está repasando lo que ya salió mal. El problema es que después de esas horas no tiene más claridad que al principio. Tiene más cansancio y peor estado de animo. Eso es el overthinking, eso es la rumia: el ciclo de pensamiento repetitivo que gira sin producir ni resolución ni descanso. Este libro es para entender por qué ocurre y como interrumpirlo.
+Ruben puede pasarse horas dando vueltas a la misma situación. No la está resolviendo: la está reproduciendo, la está evaluando desde cada ángulo posible, está imaginando lo que podría haber dicho de forma diferente, está anticipando lo que podría salir mal, está repasando lo que ya salió mal. El problema es que después de esas horas no tiene más claridad que al principio. Tiene más cansancio y peor estado de ánimo. Eso es el overthinking, eso es la rumia: el ciclo de pensamiento repetitivo que gira sin producir ni resolución ni descanso. Este libro es para entender por qué ocurre y como interrumpirlo.
 
 ---
 

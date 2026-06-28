@@ -27,7 +27,7 @@ El sueño no es inactividad. Es el mantenimiento del sistema más importante que
 
 La investigación de Walker y colegas muestra que el sueño REM (caracterizado por movimientos rápidos de los ojos y la fase donde ocurren la mayoría de los sueños) es especialmente crítico para la salud emocional: durante el REM, el cerebro reactivar las memorias emocionales del dia pero en ausencia del cortisol (la hormona del estrés), lo que permite procesar el contenido emocional sin la carga fisiológica del estrés.
 
-**Ejercicio inmediato:** Esta noche, intenta ir a dormir treinta minutos antes de lo habitual. No como experimento cientifico sino como observación personal: siente la diferencia en el estado de animo y la cognición al dia siguiente comparado con los dias en que duermes tu duración habitual.
+**Ejercicio inmediato:** Esta noche, intenta ir a dormir treinta minutos antes de lo habitual. No como experimento cientifico sino como observación personal: siente la diferencia en el estado de ánimo y la cognición al dia siguiente comparado con los dias en que duermes tu duración habitual.
 
 El sueño que sacrificas por productividad es el mismo proceso biológico que produce la cognición y el estado emocional que necesitas para ser productivo.
 
@@ -53,7 +53,7 @@ Elena tiene depresión y no puede dormir bien. Su psicologo le ha dicho que el s
 
 **El Principio de la Relación Bidireccional entre Sueno y Depresión como Razon para Tratar Ambos:** La investigación de Dieter Riemann y colegas sobre la relación entre sueño y depresión documenta una relación profundamente bidireccional: el 90% de las personas con depresión tiene alteraciones del sueño significativas, y el insomnio cronico es uno de los predictores más robustos del desarrollo futuro de depresión. Las personas con insomnio cronico tienen entre dos y tres veces más probabilidad de desarrollar depresión que las personas que duermen bien.
 
-El mecanismo más estudiado es la alteración del sueño REM en la depresión: las personas con depresión entran en REM antes de lo habitual y tienen mayor cantidad de REM intenso, lo que se asocia con mayor procesamiento emocional perturbador durante el sueño y mayor estado de animo negativo al despertar. El tratamiento de la depresión generalmente normaliza el patron de sueño, y la mejora del sueño a traves de la TCC-I contribuye a la mejora de la depresión.
+El mecanismo más estudiado es la alteración del sueño REM en la depresión: las personas con depresión entran en REM antes de lo habitual y tienen mayor cantidad de REM intenso, lo que se asocia con mayor procesamiento emocional perturbador durante el sueño y mayor estado de ánimo negativo al despertar. El tratamiento de la depresión generalmente normaliza el patron de sueño, y la mejora del sueño a traves de la TCC-I contribuye a la mejora de la depresión.
 
 **Ejercicio inmediato:** Si estas en tratamiento por depresión y tienes alteraciones del sueño, plantea a tu terapeuta o psicologo si un componente específico de tratamiento del insomnio (TCC-I) podría ser útil como parte del tratamiento. El tratamiento del sueño independiente del tratamiento de la depresión produce mejoras en ambas condiciones.
 
@@ -161,7 +161,7 @@ El sueño que no llega cuando lo necesitas no es el sueño que te ha fallado. Es
 
 ## Epílogo
 
-Isabel apago el móvil a las diez de la noche durante treinta dias. Los primeros dias fueron difíciles: una ansiedad leve por la desconexion, la tentación de comprobar que no había mensajes urgentes. Después del septimo dia, el sueño empezó a cambiar: se dormia antes, se despertaba menos en medio de la noche, y se levantaba con algo que no había tenido en años: la sensación de haber dormido de verdad. El estado de animo de las mañanas cambio tanto que ya no necesito un estudio cientifico para convencerse. La evidencia estaba en cómo se sentía cada dia.
+Isabel apago el móvil a las diez de la noche durante treinta dias. Los primeros dias fueron difíciles: una ansiedad leve por la desconexion, la tentación de comprobar que no había mensajes urgentes. Después del septimo dia, el sueño empezó a cambiar: se dormia antes, se despertaba menos en medio de la noche, y se levantaba con algo que no había tenido en años: la sensación de haber dormido de verdad. El estado de ánimo de las mañanas cambio tanto que ya no necesito un estudio cientifico para convencerse. La evidencia estaba en cómo se sentía cada dia.
 
 ---
 

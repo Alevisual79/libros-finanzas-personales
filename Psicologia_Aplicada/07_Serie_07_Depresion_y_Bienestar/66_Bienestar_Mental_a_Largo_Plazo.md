@@ -97,7 +97,7 @@ Ruben ha descubierto que los momentos en que se siente mejor no son cuando recib
 
 Sonja Lyubomirsky y colegas encontraron que realizar cinco actos de bondad en un dia a la semana produce mayor aumento del bienestar que distribuir esos mismos actos a lo largo de los siete dias de la semana, sugiriendo que la concentración de la bondad produce un efecto acumulativo que la distribución diluye.
 
-**Ejercicio inmediato:** Esta semana, elige un dia para realizar tres actos de bondad deliberados (no necesariamente grandes): pagar el cafe de quien va detras en la cola, escribir un mensaje de agradecimiento genuino a alguien que ha tenido un impacto positivo en tu vida, ofrecer ayuda a alguien que lo necesita. Nota el efecto en tu propio estado de animo.
+**Ejercicio inmediato:** Esta semana, elige un dia para realizar tres actos de bondad deliberados (no necesariamente grandes): pagar el cafe de quien va detras en la cola, escribir un mensaje de agradecimiento genuino a alguien que ha tenido un impacto positivo en tu vida, ofrecer ayuda a alguien que lo necesita. Nota el efecto en tu propio estado de ánimo.
 
 La bondad que produces en otros tiene un efecto de retorno en ti que ninguna terapia puede prescribir.
 
@@ -109,7 +109,7 @@ Isabel ha tratado la salud física y la mental como dominios separados. La inves
 
 **El Principio de la Salud Física como Determinante del Bienestar Mental y Viceversa:** La investigación sobre la conexión mente-cuerpo muestra que la salud física y la mental son interdependientes de forma más profunda de lo que la medicina tradicional reconoció durante mucho tiempo. El eje intestino-cerebro, la neuroinmunologia, y la psiconeuroendocrinologia documentan mecanismos biológicos específicos a traves de los cuales el estado físico afecta directamente al funcionamiento mental.
 
-Los tres comportamientos que la investigación identifica como mayores predictores del bienestar a largo plazo son: el sueño de calidad (Matthew Walker documenta su efecto sobre la cognición, la salud cardiovascular, el sistema inmune, y la salud mental), el ejercicio regular (Wendy Suzuki muestra sus efectos sobre el hipocampo, la memoria, y el estado de animo), y la alimentación rica en fibra y antiinflamatoria (el microbioma intestinal afecta la producción de neurotransmisores).
+Los tres comportamientos que la investigación identifica como mayores predictores del bienestar a largo plazo son: el sueño de calidad (Matthew Walker documenta su efecto sobre la cognición, la salud cardiovascular, el sistema inmune, y la salud mental), el ejercicio regular (Wendy Suzuki muestra sus efectos sobre el hipocampo, la memoria, y el estado de ánimo), y la alimentación rica en fibra y antiinflamatoria (el microbioma intestinal afecta la producción de neurotransmisores).
 
 **Ejercicio inmediato:** Para los próximos treinta dias, elige uno de los tres pilares físicos (sueño, ejercicio, o alimentación) y diseña un cambio concreto y pequeño que puedas mantener. La regla: tiene que ser tan fácil que no puedas tener excusa para no hacerlo. La consistencia durante treinta dias importa más que la perfección durante tres dias.
 

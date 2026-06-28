@@ -56,7 +56,7 @@ DALL-E 3, integrado en ChatGPT Plus, combina la capacidad de lenguaje de GPT-4 p
 - Integración con ChatGPT: puedes pedir ajustes en lenguaje natural
 - Accesible para usuarios de ChatGPT Plus sin coste adicional
 
-**Limites:**
+**Límites:**
 - Calidad artistica frecuentemente inferior a Midjourney
 - Menos control sobre el estilo que Stable Diffusión
 
@@ -72,7 +72,7 @@ Stable Diffusión, desarrollado por Stability AI, es el modelo open source de im
 - Miles de modelos fine-tuned disponibles (Civitai, Hugging Face)
 - Extensible con herramientas como ControlNet
 
-**Limites:**
+**Límites:**
 - Requiere hardware (GPU con 6GB+ VRAM preferiblemente)
 - Curva de aprendizaje más alta
 

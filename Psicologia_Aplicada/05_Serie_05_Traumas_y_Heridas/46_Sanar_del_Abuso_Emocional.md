@@ -51,7 +51,7 @@ La realidad que alguien te hace dudar no deja de ser real. Necesita anclarse fue
 
 Elena terminó una relación que reconoce como emocionalmente abusiva hace dos años. La relación terminó pero los efectos persisten.
 
-**El Principio de los Efectos del Abuso Emocional como Trauma de Relación:** La investigación sobre el abuso emocional documenta efectos que persisten después de que la relación termina: ansiedad cronica y estado de alerta de fondo, depresión y bajo estado de animo sostenido, erosión de la autoestima y la autoimagen, hipervigilancia a las señales emocionales de otros, dificultad para confiar en la propia percepción, tendencia a la autocritica intensa, y dificultad para establecer límites.
+**El Principio de los Efectos del Abuso Emocional como Trauma de Relación:** La investigación sobre el abuso emocional documenta efectos que persisten después de que la relación termina: ansiedad cronica y estado de alerta de fondo, depresión y bajo estado de ánimo sostenido, erosión de la autoestima y la autoimagen, hipervigilancia a las señales emocionales de otros, dificultad para confiar en la propia percepción, tendencia a la autocritica intensa, y dificultad para establecer límites.
 
 Judith Herman clasifica el abuso emocional sostenido dentro de la categoría del trauma complejo, especialmente cuando ocurre en relaciones de dependencia. El perfil de sintomas que produce es similar al del TEPT complejo: dificultades de regulación emocional, alteraciones de la identidad, y problemas con las relaciones.
 
@@ -93,7 +93,7 @@ La identidad que el abuso erosiono no desaparecio. Empezo a esconderse. El proce
 
 Elena ha crecido sin aprender bien que son los límites. El abuso emocional frecuentemente ocurre exactamente donde los límites no existen o no se sostienen.
 
-**El Principio de los Limites como Definición del Yo en Relación:** Harriet Lerner, psicóloga que ha investigado las relaciones y los límites, propone que los límites no son muros de separación sino la definición de quien soy, que me importa, y que estoy dispuesto a aceptar en mis relaciones. Los límites no son una herramienta de agresión: son una herramienta de integridad.
+**El Principio de los Límites como Definición del Yo en Relación:** Harriet Lerner, psicóloga que ha investigado las relaciones y los límites, propone que los límites no son muros de separación sino la definición de quien soy, que me importa, y que estoy dispuesto a aceptar en mis relaciones. Los límites no son una herramienta de agresión: son una herramienta de integridad.
 
 La investigación sobre victimas de abuso muestra que el proceso de establecer límites es uno de los componentes más importantes de la recuperación. Este proceso implica aprender a identificar las propias necesidades y preferencias, comunicarlas claramente, y sostener las consecuencias cuando son ignoradas.
 

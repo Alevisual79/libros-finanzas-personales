@@ -97,7 +97,7 @@ Elena se trata a si misma de forma que nunca trataria a un amigo que hubiera com
 
 La autocompasión se compone de tres elementos según Neff: la amabilidad hacía uno mismo (en lugar de la autocritica), la humanidad común (reconocer que fracasar es parte de la experiencia humana compartida, no una anomalia personal), y la conciencia plena del sufrimiento sin magnificarlo ni ignorarlo. Esta combinación produce una respuesta al fracaso que es simultáneamente honesta sobre el resultado y protectora del yo.
 
-**Ejercicio inmediato:** Escribe una carta de apoyo a ti mismo sobre un fracaso reciente, como si la escribieras a un amigo cercano que hubiera pasado por lo mismo. La misma comprensión, el mismo reconocimiento del dolor sin magnificarlo, las mismas palabras de animo que usarias para el. Compara esa carta con la voz crítica interna que realmente tuviste. La diferencia es la autocompasión que te niegas.
+**Ejercicio inmediato:** Escribe una carta de apoyo a ti mismo sobre un fracaso reciente, como si la escribieras a un amigo cercano que hubiera pasado por lo mismo. La misma comprensión, el mismo reconocimiento del dolor sin magnificarlo, las mismas palabras de ánimo que usarias para el. Compara esa carta con la voz crítica interna que realmente tuviste. La diferencia es la autocompasión que te niegas.
 
 Si trataras a tus amigos como te tratas a ti mismo cuando fracasas, no tendrías amigos.
 

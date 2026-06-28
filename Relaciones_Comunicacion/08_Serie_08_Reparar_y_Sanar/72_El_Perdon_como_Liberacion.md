@@ -37,7 +37,7 @@ El rencor cronico tiene correlatos neurológicos específicos que explican por q
 
 **El Principio del Coste Fisiológico del Rencor Sostenido:** La investigación en neurociencia muestra que el rumiar sobre agravios pasados mantiene activadas regiones cerebrales asociadas con el estrés y la amenaza, generando niveles elevados de cortisol de forma cronica, similar a vivir en un estado de amenaza constante aunque el peligro real ya haya pasado. Este patron tiene impactos documentados en la salud cardiovascular, el sistema inmune y la calidad del sueño.
 
-**Ejercicio inmediato:** Reflexiona sobre el impacto físico que el rencor cronico que cargas podría estar teniendo en tu cuerpo: tu sueño, tu nivel de tensión, tu estado de animo general. Ese impacto es información relevante sobre el costo real de seguir cargando con el.
+**Ejercicio inmediato:** Reflexiona sobre el impacto físico que el rencor cronico que cargas podría estar teniendo en tu cuerpo: tu sueño, tu nivel de tensión, tu estado de ánimo general. Ese impacto es información relevante sobre el costo real de seguir cargando con el.
 
 El rencor no es solo un peso emocional abstracto. Tiene un costo fisiológico medible en tu cuerpo, dia tras dia.
 

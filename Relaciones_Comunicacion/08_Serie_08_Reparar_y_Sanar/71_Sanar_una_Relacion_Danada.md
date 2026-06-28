@@ -119,7 +119,7 @@ Una disculpa sin cambio de comportamiento subsecuente es, eventualmente, peor qu
 
 Algunos intentos de reparación relacional encuentran resistencia o indisposición de la otra parte, lo cual requiere aceptar los límites de lo que se puede controlar unilateralmente en cualquier proceso de reparación.
 
-**El Principio del Limite de la Reparación Unilateral:** La reparación completa de una relación requiere la participación activa de ambas partes. Cuando una de ellas no esta dispuesta, la persona que si quiere reparar puede hacer su propia parte del trabajo (procesar su responsabilidad, ofrecer disculpas genuinas, mantener la puerta abierta), pero no puede forzar la reparación completa sin la disposición reciproca del otro.
+**El Principio del Límite de la Reparación Unilateral:** La reparación completa de una relación requiere la participación activa de ambas partes. Cuando una de ellas no esta dispuesta, la persona que si quiere reparar puede hacer su propia parte del trabajo (procesar su responsabilidad, ofrecer disculpas genuinas, mantener la puerta abierta), pero no puede forzar la reparación completa sin la disposición reciproca del otro.
 
 **Ejercicio inmediato:** Si estas intentando reparar una relación donde la otra parte no muestra disposición reciproca, identifica que parte del trabajo puedes hacer de tu lado, aceptando que la reparación completa requiere algo que esta fuera de tu control unilateral.
 

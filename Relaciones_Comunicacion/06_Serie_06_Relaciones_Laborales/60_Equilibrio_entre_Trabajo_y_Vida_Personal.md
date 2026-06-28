@@ -47,7 +47,7 @@ El coste relacional del exceso de trabajo no se siente de golpe. Se acumula sile
 
 Establecer límites efectivos entre el trabajo y la vida personal requiere prácticas específicas y consistentes, más que la simple intención de equilibrio que rara vez se traduce en cambio real de comportamiento.
 
-**El Principio de los Limites Estructurales sobre la Fuerza de Voluntad:** Los límites más sostenibles entre trabajo y vida personal son los que se construyen estructuralmente (horarios específicos de desconexion, notificaciones desactivadas fuera de horario, espacios físicos dedicados exclusivamente a una u otra esfera) en lugar de depender exclusivamente de la fuerza de voluntad momento a momento, que tiende a debilitarse bajo presión o cansancio.
+**El Principio de los Límites Estructurales sobre la Fuerza de Voluntad:** Los límites más sostenibles entre trabajo y vida personal son los que se construyen estructuralmente (horarios específicos de desconexion, notificaciones desactivadas fuera de horario, espacios físicos dedicados exclusivamente a una u otra esfera) en lugar de depender exclusivamente de la fuerza de voluntad momento a momento, que tiende a debilitarse bajo presión o cansancio.
 
 **Ejercicio inmediato:** Identifica un límite estructural específico que podrías implementar esta semana: desactivar notificaciones de trabajo después de una hora específica, o establecer un espacio físico donde nunca trabajas para preservarlo como territorio exclusivamente personal.
 
