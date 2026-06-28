@@ -18,9 +18,13 @@ El Método MENTE no es terapia. Es la base psicológica que hace posible el camb
 ## Capítulo 1: El Método MENTE
 
 **M — Mecanismos:** Entender cómo funciona tu mente: sesgos, automatismos, distorsiones cognitivas.
+
 **E — Emociones:** Aprender el lenguaje emocional que la mayoría nunca aprendió.
+
 **N — Narrativa:** Identificar la historia que te cuentas sobre ti mismo y si te sirve.
+
 **T — Trauma:** Reconocer cómo las heridas del pasado operan en el presente.
+
 **E — Expansión:** Desarrollar la capacidad de elegir quién quieres ser, no solo reaccionar a quien eres.
 
 ---

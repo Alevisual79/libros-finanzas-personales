@@ -24,9 +24,13 @@ All three are functional. None are thriving. The RESET Method changes that.
 ## Chapter 1: The RESET Framework
 
 **R — Reconnect:** Understand your relationship with food, movement, and sleep.
+
 **E — Eliminate:** Remove the habits that are silently undermining your health.
+
 **S — Sustain:** Build routines that continue without constant willpower.
+
 **E — Evolve:** Adapt your health practices as your life and body change.
+
 **T — Thrive:** Move beyond absence of illness to genuine vitality.
 
 ---

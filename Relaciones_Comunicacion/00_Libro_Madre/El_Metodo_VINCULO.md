@@ -23,11 +23,17 @@ Tres personas capaces, funcionales y solitarias en formas que no admiten en púb
 ## Capítulo 1: El Método VÍNCULO
 
 **V — Visión:** Ver a los demás tal como son, no como los necesitamos que sean.
+
 **Í — Intimidad:** Construir la confianza que permite mostrarse sin máscara.
+
 **N — Necesidades:** Conocer y comunicar las propias necesidades con honestidad.
+
 **C — Conflicto:** Gestionar el desacuerdo sin destruir la relación.
+
 **U — Umbral:** Conocer tus límites y los de los demás.
+
 **L — Largo plazo:** Construir relaciones que resistan el tiempo y la distancia.
+
 **O — Origen:** Entender cómo tu historia familiar condiciona tus relaciones actuales.
 
 ---

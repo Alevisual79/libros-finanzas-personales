@@ -18,10 +18,15 @@ Emprender no es un acto de valentía. Es un sistema. El Método LANZAR es ese si
 ## Capítulo 1: El Método LANZAR
 
 **L — Legibilidad:** Claridad sobre qué problema resuelves, para quién y por qué.
+
 **A — Acción mínima:** El paso más pequeño que valida tu idea antes de invertir todo.
+
 **N — Negocio real:** La diferencia entre una idea y un negocio que genera dinero.
+
 **Z — Zona de clientes:** Conocer a tu cliente mejor de lo que él se conoce a sí mismo.
+
 **A — Atracción:** Hacer que los clientes te encuentren sin perseguirlos.
+
 **R — Repetición:** Construir un negocio que funcione sin que estés presente en cada venta.
 
 ---

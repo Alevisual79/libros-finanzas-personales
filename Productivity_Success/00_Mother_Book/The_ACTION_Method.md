@@ -30,10 +30,15 @@ Productivity books promise transformation and deliver tactics. Tactics work in i
 The ACTION Method is a framework, not a list of tips:
 
 **A — Awareness:** Know what you are actually doing with your time and attention.
+
 **C — Clarity:** Define what success looks like before you start working.
+
 **T — Time:** Structure your time around energy and priority, not urgency.
+
 **I — Intention:** Make conscious choices about where your best hours go.
+
 **O — Output:** Measure what you produce, not what you do.
+
 **N — Nourishment:** Sustain performance through recovery, not just effort.
 
 ---
